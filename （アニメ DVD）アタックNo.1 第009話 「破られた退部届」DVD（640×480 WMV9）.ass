@@ -20,7 +20,8 @@ Video Position: 34603
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Exo 2 Medium,26,&H008EF3FF,&H00588350,&H002B393D,&H7F000000,0,0,0,0,100,100,0,0,1,3,0,2,32,32,32,1
+Style: Narrator,Exo 2 Medium,26,&H008EF3FF,&H00588350,&H002B393D,&H7F000000,0,-1,0,0,100,100,0,0,1,3,0,2,32,32,32,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -549,13 +550,13 @@ Dialogue: 0,0:23:32.22,0:23:33.33,Default,,0,0,0,,{早く。}Hurry.
 Dialogue: 0,0:23:35.29,0:23:36.38,Default,,0,0,0,,{帰ってたら。}Get out!
 Dialogue: 0,0:23:40.08,0:23:41.45,Default,,0,0,0,,{なぜ…}Why?
 Dialogue: 0,0:23:41.45,0:23:42.88,Default,,0,0,0,,{一体なぜなの？}What's going on?
-Dialogue: 0,0:23:51.49,0:23:54.24,Default,,0,0,0,,{こずえは一人泉の家を訪ねたが…}Kozue went alone to Izumi's home, but…
-Dialogue: 0,0:23:54.24,0:23:58.67,Default,,0,0,0,,{バレー部の人間と分かったXX、泉の母の態度はXXXした。}…when it became evident she's with the volleyball club, Izumi's stepmother coldens.
-Dialogue: 0,0:23:58.67,0:24:03.22,Default,,0,0,0,,{そこへ帰り合わせた泉ゆりはこずえの腕を掴んで、外へ追い立て。}After Izumi Yuri gets home, she grabs Kozue's arm and drags her out…
-Dialogue: 0,0:24:03.22,0:24:06.58,Default,,0,0,0,,{母に大しても激しい言葉をXXX。}…shouting bitter words to her stepmother.
-Dialogue: 0,0:24:06.58,0:24:11.30,Default,,0,0,0,,{こずえは泉親と何か深いわけがあるに違いないと思ったのだが…}Kozue can't shake off the feeling that there's something deeper going on.
-Dialogue: 0,0:24:11.30,0:24:15.49,Default,,0,0,0,,{こんな態度に、こずえは思わずゆりの方に手は飛んだ。}But seeing Yuri's attitude, her hand reacts instinctively.
-Dialogue: 0,0:24:15.49,0:24:19.06,Default,,0,0,0,,{さ、来週のアタックナンバーワンをお楽しみに。}Please look forward to the next episode.
+Dialogue: 0,0:23:51.49,0:23:54.24,Narrator,,0,0,0,,{こずえは一人泉の家を訪ねたが…}Kozue went alone to Izumi's home, but…
+Dialogue: 0,0:23:54.24,0:23:58.67,Narrator,,0,0,0,,{バレー部の人間と分かったXX、泉の母の態度はXXXした。}…when it became evident she's with the volleyball club, Izumi's stepmother coldens.
+Dialogue: 0,0:23:58.67,0:24:03.22,Narrator,,0,0,0,,{そこへ帰り合わせた泉ゆりはこずえの腕を掴んで、外へ追い立て。}After Izumi Yuri gets home, she grabs Kozue's arm and drags her out…
+Dialogue: 0,0:24:03.22,0:24:06.58,Narrator,,0,0,0,,{母に大しても激しい言葉をXXX。}…shouting bitter words to her stepmother.
+Dialogue: 0,0:24:06.58,0:24:11.30,Narrator,,0,0,0,,{こずえは泉親と何か深いわけがあるに違いないと思ったのだが…}Kozue can't shake off the feeling that there's something deeper going on.
+Dialogue: 0,0:24:11.30,0:24:15.49,Narrator,,0,0,0,,{こんな態度に、こずえは思わずゆりの方に手は飛んだ。}But seeing Yuri's attitude, her hand reacts instinctively.
+Dialogue: 0,0:24:15.49,0:24:19.06,Narrator,,0,0,0,,{さ、来週のアタックナンバーワンをお楽しみに。}Please look forward to the next episode.
 Dialogue: 0,0:24:37.63,0:24:41.50,Default,Lyrics_Kanji,0,0,0,,{\an8}青い青い空に
 Dialogue: 0,0:24:41.50,0:24:44.59,Default,Lyrics_Kanji,0,0,0,,{\an8}バンボンボボン
 Dialogue: 0,0:24:44.59,0:24:48.66,Default,Lyrics_Kanji,0,0,0,,{\an8}はずむボールが

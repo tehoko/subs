@@ -20,7 +20,8 @@ Video Position: 31932
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Exo 2 Medium,26,&H008EF3FF,&H00588350,&H002B393D,&H7F000000,0,0,0,0,100,100,0,0,1,3,0,2,32,32,32,1
+Style: Narrator,Exo 2 Medium,26,&H008EF3FF,&H00588350,&H002B393D,&H7F000000,0,-1,0,0,100,100,0,0,1,3,0,2,32,32,32,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -436,15 +437,15 @@ Dialogue: 0,0:22:54.32,0:22:56.75,Default,,0,0,0,,What are they doing?
 Dialogue: 0,0:22:56.75,0:22:58.68,Default,,0,0,0,,Looks like they're watching someone.
 Dialogue: 0,0:23:39.12,0:23:41.21,Default,,0,0,0,,Who is this person in black shirt?
 Dialogue: 0,0:23:42.14,0:23:47.66,Default,,0,0,0,,Who hides behind these machine-level precise movements?
-Dialogue: 0,0:23:51.87,0:23:55.14,Default,,0,0,0,,Having chosen Kozue as their captain, the volleyball club…
-Dialogue: 0,0:23:55.14,0:23:58.00,Default,,0,0,0,,…sets out to work on their new goal.
-Dialogue: 0,0:23:58.46,0:24:01.15,Default,,0,0,0,,But Hayakawa Midori makes her appearance.
-Dialogue: 0,0:24:01.15,0:24:03.84,Default,,0,0,0,,Uneasiness settles in Kozue's heart.
-Dialogue: 0,0:24:04.58,0:24:09.74,Default,,0,0,0,,Apparently perfect Hayakawa Midori gets a gym for the club…
-Dialogue: 0,0:24:10.28,0:24:12.92,Default,,0,0,0,,…and quickly becomes popular.
-Dialogue: 0,0:24:12.92,0:24:15.01,Default,,0,0,0,,Looks like Kozue's left behind.
-Dialogue: 0,0:24:15.80,0:24:20.05,Default,,0,0,0,,Then one day, she receives a mysterious letter.
-Dialogue: 0,0:24:20.58,0:24:23.77,Default,,0,0,0,,Please look forward to the next episode.
+Dialogue: 0,0:23:51.87,0:23:55.14,Narrator,,0,0,0,,Having chosen Kozue as their captain, the volleyball club…
+Dialogue: 0,0:23:55.14,0:23:58.00,Narrator,,0,0,0,,…sets out to work on their new goal.
+Dialogue: 0,0:23:58.46,0:24:01.15,Narrator,,0,0,0,,But Hayakawa Midori makes her appearance.
+Dialogue: 0,0:24:01.15,0:24:03.84,Narrator,,0,0,0,,Uneasiness settles in Kozue's heart.
+Dialogue: 0,0:24:04.58,0:24:09.74,Narrator,,0,0,0,,Apparently perfect Hayakawa Midori gets a gym for the club…
+Dialogue: 0,0:24:10.28,0:24:12.92,Narrator,,0,0,0,,…and quickly becomes popular.
+Dialogue: 0,0:24:12.92,0:24:15.01,Narrator,,0,0,0,,Looks like Kozue's left behind.
+Dialogue: 0,0:24:15.80,0:24:20.05,Narrator,,0,0,0,,Then one day, she receives a mysterious letter.
+Dialogue: 0,0:24:20.58,0:24:23.77,Narrator,,0,0,0,,Please look forward to the next episode.
 Dialogue: 0,0:24:38.40,0:24:42.27,Default,Lyrics_Kanji,0,0,0,,{\an8}青い青い空に
 Dialogue: 0,0:24:42.27,0:24:45.36,Default,Lyrics_Kanji,0,0,0,,{\an8}バンボンボボン
 Dialogue: 0,0:24:45.36,0:24:49.43,Default,Lyrics_Kanji,0,0,0,,{\an8}はずむボールが
