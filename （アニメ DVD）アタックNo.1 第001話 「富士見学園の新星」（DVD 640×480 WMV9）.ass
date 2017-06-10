@@ -10,57 +10,24 @@ PlayResX: 640
 PlayResY: 480
 
 [Aegisub Project Garbage]
-Audio File: source/（アニメ DVD）アタックNo.1 第001話 「富士見学園の新星」（DVD 640×480 WMV9）.avi
-Video File: source/（アニメ DVD）アタックNo.1 第001話 「富士見学園の新星」（DVD 640×480 WMV9）.avi
+Last Style Storage: Default
+Audio File: （アニメ DVD）アタックNo.1 第001話 「富士見学園の新星」（DVD 640×480 WMV9）.avi
+Video File: （アニメ DVD）アタックNo.1 第001話 「富士見学園の新星」（DVD 640×480 WMV9）.avi
 Video AR Mode: 4
 Video AR Value: 1.333333
-Scroll Position: 282
-Active Line: 346
-Video Position: 32845
+Video Zoom Percent: 1.000000
+Active Line: 1
+Video Position: 8325
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Fira Sans,28,&H00FFFFFF,&H00FFFFFF,&H003D2B2E,&H7F000000,-1,0,0,0,100,100,0,0,1,2,0,2,32,32,32,1
+Style: Narrator,Fira Sans,28,&H00FFFFFF,&H00FFFFFF,&H003D2B2E,&H7F000000,-1,-1,0,0,100,100,0,0,1,2,0,2,32,32,32,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.27,0:00:18.74,Default,Lyrics_Kanji,0,0,0,,{\an8}苦しくたって
-Dialogue: 0,0:00:18.74,0:00:21.95,Default,Lyrics_Kanji,0,0,0,,{\an8}悲しくたって
-Dialogue: 0,0:00:21.95,0:00:29.28,Default,Lyrics_Kanji,0,0,0,,{\an8}コートのなかでは平気なの
-Dialogue: 0,0:00:29.28,0:00:37.48,Default,Lyrics_Kanji,0,0,0,,{\an8}ボールがうなると胸がはずむわ
-Dialogue: 0,0:00:37.48,0:00:41.56,Default,Lyrics_Kanji,0,0,0,,{\an8}レシーブ　トス　スパイク
-Dialogue: 0,0:00:41.56,0:00:46.55,Default,Lyrics_Kanji,0,0,0,,{\an8}ワン・ツー　ワン・ツー　アタック
-Dialogue: 0,0:00:46.55,0:00:49.35,Default,Lyrics_Kanji,0,0,0,,{\an8}だけど涙がでちゃう
-Dialogue: 0,0:00:49.35,0:00:52.41,Default,Lyrics_Kanji,0,0,0,,{\an8}女の子だもん
-Dialogue: 0,0:00:52.41,0:01:00.68,Default,Lyrics_Kanji,0,0,0,,{\an8}涙も汗も若いファイトで
-Dialogue: 0,0:01:00.68,0:01:08.82,Default,Lyrics_Kanji,0,0,0,,{\an8}青空に遠く叫びたい
-Dialogue: 0,0:01:08.82,0:01:16.98,Default,Lyrics_Kanji,0,0,0,,{\an8}アタック　アタック　ナンバーワン
-Dialogue: 0,0:01:16.98,0:01:26.12,Default,Lyrics_Kanji,0,0,0,,{\an8}アタック　アタック　ナンバーワン
-Dialogue: 0,0:00:14.27,0:00:18.74,Default,Lyrics_Romaji,0,0,0,,{\an8\k31}Ku{\k16}ru{\k38}shi{\k55}ku{\k57}ta{\k250}tte
-Dialogue: 0,0:00:18.74,0:00:21.95,Default,Lyrics_Romaji,0,0,0,,{\an8\k25}Ka{\k16}na{\k36}shi{\k53}ku{\k55}ta{\k136}tte
-Dialogue: 0,0:00:21.95,0:00:29.28,Default,Lyrics_Romaji,0,0,0,,{\an8\k82}Koo{\k68}to {\k33}no {\k36}na{\k26}ka {\k27}de{\k89}wa {\k54}hei{\k71}ki {\k31}na{\k216}no
-Dialogue: 0,0:00:29.28,0:00:37.48,Default,Lyrics_Romaji,0,0,0,,{\an8\k77}Boo{\k35}ru {\k98}ga {\k20}u{\k61}na{\k26}ru {\k131}to {\k28}mu{\k26}ne {\k25}ga {\k25}ha{\k49}zu{\k29}mu {\k198}wa
-Dialogue: 0,0:00:37.48,0:00:41.56,Default,Lyrics_Romaji,0,0,0,,{\an8\k17}Re{\k58}shii{\k28}bu {\k85}tosu {\k32}su{\k23}pa{\k29}i{\k123}ku
-Dialogue: 0,0:00:41.56,0:00:46.55,Default,Lyrics_Romaji,0,0,0,,{\an8\k52}Wan {\k45}tsu {\k54}wan {\k51}tsu {\k30}a{\k51}ta{\k216}kku
-Dialogue: 0,0:00:46.55,0:00:49.35,Default,Lyrics_Romaji,0,0,0,,{\an8\k19}Da{\k12}ke{\k89}do {\k21}na{\k16}mi{\k8}da {\k12}ga {\k13}de{\k18}chau
-Dialogue: 0,0:00:49.35,0:00:52.41,Default,Lyrics_Romaji,0,0,0,,{\an8\k18}On{\k11}na {\k14}no {\k9}ko {\k12}da{\k242}mon
-Dialogue: 0,0:00:52.41,0:01:00.68,Default,Lyrics_Romaji,0,0,0,,{\an8\k36}Na{\k50}mi{\k26}da {\k51}mo {\k19}a{\k34}se {\k229}mo {\k28}wa{\k23}ka{\k28}i {\k22}fa{\k51}i{\k28}to {\k202}de
-Dialogue: 0,0:01:00.68,0:01:08.82,Default,Lyrics_Romaji,0,0,0,,{\an8\k44}A{\k45}o{\k34}zo{\k45}ra {\k28}ni {\k49}to{\k18}o{\k81}ku {\k97}sa{\k48}ke{\k82}bi{\k49}ta{\k179}i
-Dialogue: 0,0:01:08.82,0:01:16.98,Default,Lyrics_Romaji,0,0,0,,{\an8\k27}A{\k51}ta{\k128}kku {\k31}a{\k54}ta{\k109}kku {\k110}nan{\k102}baa {\k204}wan
-Dialogue: 0,0:01:16.98,0:01:26.12,Default,Lyrics_Romaji,0,0,0,,{\an8\k29}A{\k52}ta{\k118}kku {\k35}a{\k49}ta{\k120}kku {\k121}nan{\k123}baa {\k267}wan
-Dialogue: 0,0:00:14.27,0:00:18.74,Default,Lyrics_English,0,0,0,,Even though it hurts...
-Dialogue: 0,0:00:18.74,0:00:21.95,Default,Lyrics_English,0,0,0,,...even though I feel sad...
-Dialogue: 0,0:00:21.95,0:00:29.28,Default,Lyrics_English,0,0,0,,...in the court I feel just fine.
-Dialogue: 0,0:00:29.28,0:00:37.48,Default,Lyrics_English,0,0,0,,When I hear the ball flying, my heart races.
-Dialogue: 0,0:00:37.48,0:00:41.56,Default,Lyrics_English,0,0,0,,Receive. Toss. Spike.
-Dialogue: 0,0:00:41.56,0:00:46.55,Default,Lyrics_English,0,0,0,,One-two, one-two! Attack!
-Dialogue: 0,0:00:46.55,0:00:49.35,Default,Lyrics_English,0,0,0,,But sometimes I cry.
-Dialogue: 0,0:00:49.35,0:00:52.41,Default,Lyrics_English,0,0,0,,I'm a girl, after all.
-Dialogue: 0,0:00:52.41,0:01:00.68,Default,Lyrics_English,0,0,0,,Through the tears and sweat, putting up a youthful fight...
-Dialogue: 0,0:01:00.68,0:01:08.82,Default,Lyrics_English,0,0,0,,...under the blue sky, I just want to scream:
-Dialogue: 0,0:01:08.82,0:01:16.98,Default,Lyrics_English,0,0,0,,Attack! Attack! Number 1!
-Dialogue: 0,0:01:16.98,0:01:26.12,Default,Lyrics_English,0,0,0,,Attack! Attack! Number 1!
 Dialogue: 0,0:01:33.04,0:01:38.71,Default,,0,0,0,,Episode 001\NFujimi Academy's new star
+Comment: 0,0:01:33.04,0:01:38.71,Default,,0,0,0,,We need to figure out these ellipses. Too many of them.
 Dialogue: 0,0:01:52.17,0:01:55.28,Default,,0,0,0,,《Fujimi Academy》
 Dialogue: 0,0:02:03.53,0:02:07.44,Default,,0,0,0,,I can't believe you can't solve such a simple problem.
 Dialogue: 0,0:02:13.80,0:02:19.73,Default,,0,0,0,,You think you're such big shots for being here at Fujimi Academy.
@@ -69,8 +36,8 @@ Dialogue: 0,0:02:21.15,0:02:22.40,Default,,0,0,0,,Yes.
 Dialogue: 0,0:02:22.40,0:02:23.95,Default,,0,0,0,,I don't know.
 Dialogue: 0,0:02:23.95,0:02:26.46,Default,,0,0,0,,I haven't even asked you a question yet.
 Dialogue: 0,0:02:26.46,0:02:28.17,Default,,0,0,0,,What year are you?
-Dialogue: 0,0:02:29.08,0:02:31.04,Default,,0,0,0,,Huh... we're second year students.
-Dialogue: 0,0:02:31.04,0:02:33.55,Default,,0,0,0,,Second year students, hm?
+Dialogue: 0,0:02:29.08,0:02:31.04,Default,,0,0,0,,Huh…, we're second year students.
+Dialogue: 0,0:02:31.04,0:02:33.55,Default,,0,0,0,,Second year students, hmm?
 Dialogue: 0,0:02:33.55,0:02:36.02,Default,,0,0,0,,And you still don't understand this problem?
 Dialogue: 0,0:02:36.02,0:02:41.57,Default,,0,0,0,,I've mistaken you for juniors for a moment,\Nbut you really are second year students.
 Dialogue: 0,0:02:41.57,0:02:43.48,Default,,0,0,0,,Really strange.
@@ -78,11 +45,11 @@ Dialogue: 0,0:02:43.48,0:02:48.42,Default,,0,0,0,,Have you been listening to my 
 Dialogue: 0,0:02:49.31,0:02:50.68,Default,,0,0,0,,Like Ayuhara here.
 Dialogue: 0,0:02:50.68,0:02:52.68,Default,,0,0,0,,《Math》
 Dialogue: 0,0:02:55.77,0:02:58.00,Default,,0,0,0,,Aihara-kun. Aihara-kun!
-Dialogue: 0,0:03:03.06,0:03:04.33,Default,,0,0,0,,Ayuhara-san...
+Dialogue: 0,0:03:03.06,0:03:04.33,Default,,0,0,0,,Ayuhara-san…
 Dialogue: 0,0:03:05.17,0:03:07.31,Default,,0,0,0,,What is it, Ikizaki-san?
-Dialogue: 0,0:03:11.42,0:03:13.26,Default,,0,0,0,,Teacher...
+Dialogue: 0,0:03:11.42,0:03:13.26,Default,,0,0,0,,Teacher…
 Dialogue: 0,0:03:13.26,0:03:14.06,Default,,0,0,0,,Sir.
-Dialogue: 0,0:03:18.31,0:03:20.93,Default,,0,0,0,,The answer is a square root of 3.
+Dialogue: 0,0:03:18.31,0:03:20.93,Default,,0,0,0,,The answer is square root of 3.
 Dialogue: 0,0:03:20.93,0:03:22.26,Default,,0,0,0,,Did I get it right?
 Dialogue: 0,0:03:23.68,0:03:25.62,Default,,0,0,0,,That's correct.
 Dialogue: 0,0:03:25.62,0:03:27.31,Default,,0,0,0,,Yay.
@@ -101,6 +68,7 @@ Dialogue: 0,0:04:00.54,0:04:03.00,Default,,0,0,0,,Well then, I'm going to the nu
 Dialogue: 0,0:04:08.08,0:04:09.76,Default,,0,0,0,,She surprised me.
 Dialogue: 0,0:04:09.76,0:04:12.32,Default,,0,0,0,,She has some nerve acting like this.
 Dialogue: 0,0:04:15.13,0:04:18.68,Default,,0,0,0,,You want to be friends with me, and that's why you followed me here?
+Comment: 0,0:04:15.13,0:04:18.68,Default,,0,0,0,,maybe comma not needed
 Dialogue: 0,0:04:25.18,0:04:28.40,Default,,0,0,0,,Mr. Wind, take them to a peaceful place.
 Dialogue: 0,0:04:32.12,0:04:33.00,Default,,0,0,0,,Be safe.
 Dialogue: 0,0:04:35.82,0:04:36.73,Default,,0,0,0,,Receive!
@@ -127,49 +95,49 @@ Dialogue: 0,0:05:34.70,0:05:38.40,Default,,0,0,0,,You come to see us practice ev
 Dialogue: 0,0:05:38.40,0:05:40.35,Default,,0,0,0,,Do you like volleyball?
 Dialogue: 0,0:05:41.08,0:05:43.28,Default,,0,0,0,,Why don't you join our club?
 Dialogue: 0,0:05:45.18,0:05:46.81,Default,,0,0,0,,I think I'll pass.
-Dialogue: 0,0:05:47.21,0:05:48.41,Default,,0,0,0,,Why...?
+Dialogue: 0,0:05:47.21,0:05:48.41,Default,,0,0,0,,Why…?
 Dialogue: 0,0:05:48.41,0:05:50.20,Default,,0,0,0,,You are interested, no?
 Dialogue: 0,0:05:50.20,0:05:53.84,Default,,0,0,0,,Yes. But I also hate losing.
 Dialogue: 0,0:05:56.40,0:05:57.40,Default,,0,0,0,,Excuse me.
-Dialogue: 0,0:05:58.65,0:06:00.24,Default,,0,0,0,,Hate losing?...
-Dialogue: 0,0:06:00.91,0:06:02.54,Default,,0,0,0,,Captain...
+Dialogue: 0,0:05:58.65,0:06:00.24,Default,,0,0,0,,Hate losing…?
+Dialogue: 0,0:06:00.91,0:06:02.54,Default,,0,0,0,,Captain…
 Dialogue: 0,0:06:02.54,0:06:06.06,Default,,0,0,0,,Is she making of us? Did she just call us losers?
 Dialogue: 0,0:06:24.38,0:06:26.06,Default,,0,0,0,,Knock it off.
-Dialogue: 0,0:06:26.56,0:06:28.36,Default,,0,0,0,,N- Nakazawa-san...
+Dialogue: 0,0:06:26.56,0:06:28.36,Default,,0,0,0,,N-Nakazawa-san…
 Dialogue: 0,0:06:28.36,0:06:29.48,Default,,0,0,0,,Hehehe.
 Dialogue: 0,0:06:30.24,0:06:32.24,Default,,0,0,0,,Is that a compact you're holding?
-Dialogue: 0,0:06:32.24,0:06:33.45,Default,,0,0,0,,Did you put a makeup?
+Dialogue: 0,0:06:32.24,0:06:33.45,Default,,0,0,0,,Did you put on makeup?
 Dialogue: 0,0:06:33.45,0:06:35.07,Default,,0,0,0,,Never mind that, come with me.
 Dialogue: 0,0:06:39.28,0:06:40.65,Default,,0,0,0,,She's here.
 Dialogue: 0,0:06:40.65,0:06:42.94,Default,,0,0,0,,Let's welcome our heroine.
-Dialogue: 0,0:06:44.99,0:06:47.90,Default,,0,0,0,,My... why are you all here?
+Dialogue: 0,0:06:44.99,0:06:47.90,Default,,0,0,0,,My…, why are you all here?
 Dialogue: 0,0:06:47.90,0:06:50.12,Default,,0,0,0,,- We were waiting for you.\N- Kozue-san.
 Dialogue: 0,0:06:51.15,0:06:52.89,Default,,0,0,0,,Ayuhara-san, this way.
-Dialogue: 0,0:06:54.04,0:06:57.12,Default,,0,0,0,,Make yourself comfortable. Take a sit.
+Dialogue: 0,0:06:54.04,0:06:57.12,Default,,0,0,0,,Make yourself comfortable. Take a seat.
 Dialogue: 0,0:06:57.12,0:06:58.68,Default,,0,0,0,,Come on.
-Dialogue: 0,0:07:00.38,0:07:00.80,Default,,0,0,0,,Err...
+Dialogue: 0,0:07:00.38,0:07:00.80,Default,,0,0,0,,Err…
 Dialogue: 0,0:07:02.49,0:07:04.14,Default,,0,0,0,,Do you need anything from me?
 Dialogue: 0,0:07:04.14,0:07:06.80,Default,,0,0,0,,You did well, Ayuhara-san.
 Dialogue: 0,0:07:07.37,0:07:08.97,Default,,0,0,0,,What did I do?
-Dialogue: 0,0:07:08.97,0:07:12.20,Default,,0,0,0,,The way you sticked it to His Majesty was splendid.
-Dialogue: 0,0:07:12.20,0:07:16.43,Default,,0,0,0,,This. Me and Debu couldn't believe our ears.
+Dialogue: 0,0:07:08.97,0:07:12.20,Default,,0,0,0,,The way you stuck it to His Majesty was splendid.
+Dialogue: 0,0:07:12.20,0:07:16.43,Default,,0,0,0,,This. Debu and I couldn't believe our ears.
 Dialogue: 0,0:07:16.43,0:07:18.89,Default,,0,0,0,,You're so brave, Ayuhara-san.
-Dialogue: 0,0:07:18.89,0:07:22.99,Default,,0,0,0,,And with that, you've became the heroine of our useless students group.
+Dialogue: 0,0:07:18.89,0:07:22.99,Default,,0,0,0,,And with that, you've become the heroine of our useless student group.
 Dialogue: 0,0:07:22.99,0:07:24.76,Default,,0,0,0,,Useless students?
-Dialogue: 0,0:07:24.76,0:07:32.16,Default,,0,0,0,,Basically we're the kind of students who don't fit in the prestigious Fujimi Academy.
-Dialogue: 0,0:07:32.16,0:07:34.65,Default,,0,0,0,,What do you say, Ayuhara-san? Wanna join us?
-Dialogue: 0,0:07:34.65,0:07:38.49,Default,,0,0,0,,We want to be friends. We could achieve something together.
+Dialogue: 0,0:07:24.76,0:07:32.16,Default,,0,0,0,,Basically we're the kind of students who don't fit in at the prestigious Fujimi Academy.
+Dialogue: 0,0:07:32.16,0:07:34.65,Default,,0,0,0,,What do you say, Ayuhara-san? \NWanna join us?
+Dialogue: 0,0:07:34.65,0:07:38.49,Default,,0,0,0,,We want to be friends. \NWe could achieve something together.
 Dialogue: 0,0:07:38.49,0:07:39.55,Default,,0,0,0,,Right, Ike-chan?
 Dialogue: 0,0:07:39.55,0:07:40.83,Default,,0,0,0,,Hey, Ike.
 Dialogue: 0,0:07:40.83,0:07:41.64,Default,,0,0,0,,Eh?
 Dialogue: 0,0:07:41.64,0:07:45.77,Default,,0,0,0,,Yeah. We could use your help, Ayuhara-san.
 Dialogue: 0,0:07:45.77,0:07:48.14,Default,,0,0,0,,It's decided. We're friends now.
-Dialogue: 0,0:07:48.14,0:07:50.09,Default,,0,0,0,,I'm flattered, but...
-Dialogue: 0,0:07:51.02,0:07:53.95,Default,,0,0,0,,Hmm...\NWhat kind of friends?
+Dialogue: 0,0:07:48.14,0:07:50.09,Default,,0,0,0,,I'm flattered, but…
+Dialogue: 0,0:07:51.02,0:07:53.95,Default,,0,0,0,,Hmm…. What kind of friends?
 Dialogue: 0,0:07:53.95,0:07:56.11,Default,,0,0,0,,- No big deal.\N- We'll only play around.
 Dialogue: 0,0:07:56.11,0:07:57.74,Default,,0,0,0,,What do we exactly do?
-Dialogue: 0,0:07:57.74,0:07:59.31,Default,,0,0,0,,For example...
-Dialogue: 0,0:07:59.31,0:08:00.09,Default,,0,0,0,,...this.
+Dialogue: 0,0:07:57.74,0:07:59.31,Default,,0,0,0,,For example…
+Dialogue: 0,0:07:59.31,0:08:00.09,Default,,0,0,0,,…this.
 Dialogue: 0,0:08:00.25,0:08:01.44,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:08:06.75,0:08:07.88,Default,,0,0,0,,Aw yeah!
 Dialogue: 0,0:08:07.97,0:08:08.73,Default,,0,0,0,,Good, good.
@@ -181,10 +149,10 @@ Dialogue: 0,0:08:26.57,0:08:27.47,Default,,0,0,0,,Like this?
 Dialogue: 0,0:08:27.47,0:08:30.25,Default,,0,0,0,,Whoa, you've got some nice moves.
 Dialogue: 0,0:08:32.22,0:08:35.21,Default,,0,0,0,,Don't hang out with the others, though.
 Dialogue: 0,0:08:35.21,0:08:37.12,Default,,0,0,0,,Got it?
-Dialogue: 0,0:08:37.12,0:08:41.20,Default,,0,0,0,,Yeah. The rest of the class are only goodie-good students after all.
+Dialogue: 0,0:08:37.12,0:08:41.20,Default,,0,0,0,,Yeah. The rest of the class are only goody-goodies after all.
 Dialogue: 0,0:08:43.12,0:08:47.47,Default,,0,0,0,,If we learned you told someone what we are doing here, we'll show you.
 Dialogue: 0,0:08:47.47,0:08:48.32,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:08:49.68,0:08:53.79,Default,,0,0,0,,Show me, show me... show me what?
+Dialogue: 0,0:08:49.68,0:08:53.79,Default,,0,0,0,,Show me, show me…, show me what?
 Dialogue: 0,0:08:53.79,0:08:54.97,Default,,0,0,0,,Eh?
 Dialogue: 0,0:08:54.97,0:08:55.77,Default,,0,0,0,,Kakko!
 Dialogue: 0,0:08:55.77,0:08:56.84,Default,,0,0,0,,What is it?
@@ -193,7 +161,7 @@ Dialogue: 0,0:08:59.68,0:09:02.03,Default,,0,0,0,,- This is bad. Party's over.\N
 Dialogue: 0,0:09:05.15,0:09:06.27,Default,,0,0,0,,Ayuhara-kun, right?
 Dialogue: 0,0:09:06.27,0:09:07.98,Default,,0,0,0,,You know me?
 Dialogue: 0,0:09:07.98,0:09:10.08,Default,,0,0,0,,Well, you're pretty famous.
-Dialogue: 0,0:09:10.08,0:09:11.40,Default,,0,0,0,,And you are...?
+Dialogue: 0,0:09:10.08,0:09:11.40,Default,,0,0,0,,And you are…?
 Dialogue: 0,0:09:11.40,0:09:12.88,Default,,0,0,0,,I'm Ichinose.
 Dialogue: 0,0:09:12.88,0:09:15.63,Default,,0,0,0,,Kashiwagi-kun was here just a moment ago, wasn't she?
 Dialogue: 0,0:09:15.63,0:09:16.81,Default,,0,0,0,,Oh, is that so?
@@ -201,39 +169,40 @@ Dialogue: 0,0:09:16.81,0:09:18.24,Default,,0,0,0,,What were they doing?
 Dialogue: 0,0:09:18.24,0:09:19.74,Default,,0,0,0,,You tell me.
 Dialogue: 0,0:09:19.74,0:09:21.63,Default,,0,0,0,,Please don't play dumb.
 Dialogue: 0,0:09:21.63,0:09:23.85,Default,,0,0,0,,I could hear the music.
-Dialogue: 0,0:09:25.34,0:09:26.61,Default,,0,0,0,,And other things too...
+Dialogue: 0,0:09:25.34,0:09:26.61,Default,,0,0,0,,And other things too….
 Dialogue: 0,0:09:27.34,0:09:30.28,Default,,0,0,0,,- Are you feeling well, Ichinose-san?\N- Don't be rude.
 Dialogue: 0,0:09:30.28,0:09:32.06,Default,,0,0,0,,Don't hang out with these girls.
 Dialogue: 0,0:09:32.06,0:09:33.53,Default,,0,0,0,,That's none of your business.
 Dialogue: 0,0:09:33.53,0:09:37.31,Default,,0,0,0,,They treat me way better than you do, mister detective.
 Dialogue: 0,0:09:37.31,0:09:38.52,Default,,0,0,0,,What are you saying?
-Dialogue: 0,0:09:38.52,0:09:41.12,Default,,0,0,0,,You're student council vice president, right?
+Dialogue: 0,0:09:38.52,0:09:41.12,Default,,0,0,0,,You serve as student council vice president, right?
 Dialogue: 0,0:09:41.12,0:09:44.81,Default,,0,0,0,,Let me make myself clear: I hate Fujimi Academy.
 Dialogue: 0,0:09:44.81,0:09:46.67,Default,,0,0,0,,Some school I've transferred into.
 Dialogue: 0,0:09:46.67,0:09:47.90,Default,,0,0,0,,Ayuhara-kun!
 Dialogue: 0,0:09:47.90,0:09:51.29,Default,,0,0,0,,Same goes to Fujimi Academy. You trouble us with your behavior.
 Dialogue: 0,0:09:56.16,0:09:57.02,Default,,0,0,0,,- Ken!\N- Ken!
 Dialogue: 0,0:09:58.08,0:10:00.73,Default,,0,0,0,,- How do you know Ken?\N- How do you know Ken?
-Dialogue: 0,0:10:04.33,0:10:05.48,Default,,0,0,0,,That's how it was.
+Dialogue: 0,0:10:04.33,0:10:05.48,Default,,0,0,0,,So that's how it is.
 Dialogue: 0,0:10:05.48,0:10:09.08,Default,,0,0,0,,Tsutomu-san is my nephew. Kozue is my niece, on my husband's side.
 Dialogue: 0,0:10:09.08,0:10:09.90,Default,,0,0,0,,Understood?
-Dialogue: 0,0:10:09.90,0:10:13.50,Default,,0,0,0,,- What? This means...\N- We're actually related.
+Dialogue: 0,0:10:09.90,0:10:13.50,Default,,0,0,0,,- What? This means…\N- We're actually related.
 Dialogue: 0,0:10:34.00,0:10:35.69,Default,,0,0,0,,What a pretty shell.
 Dialogue: 0,0:10:35.69,0:10:38.06,Default,,0,0,0,,You can find shells like that anywhere.
-Dialogue: 0,0:10:42.14,0:10:43.82,Default,,0,0,0,,I can't hear anything...
+Dialogue: 0,0:10:42.14,0:10:43.82,Default,,0,0,0,,I can't hear anything….
 Dialogue: 0,0:10:44.88,0:10:46.36,Default,,0,0,0,,What did you expect to hear?
-Dialogue: 0,0:10:46.36,0:10:48.36,Default,,0,0,0,,The sound of Tokyo.
-Dialogue: 0,0:10:52.20,0:10:55.87,Default,,0,0,0,,When I stayed at home in Tokyo, mama has taught me...
-Dialogue: 0,0:10:55.87,0:10:59.52,Default,,0,0,0,,...if you put your ear near a sea shell, you can hear the sound of the sea.
-Dialogue: 0,0:10:59.52,0:11:03.82,Default,,0,0,0,,Now that I'm at sea, maybe it could work the other way too, and I could hear Tokyo?
-Dialogue: 0,0:11:10.64,0:11:14.06,Default,,0,0,0,,I was thinking that... but there's no way that'd work, right?
+Dialogue: 0,0:10:46.36,0:10:48.36,Default,,0,0,0,,The sounds of Tokyo.
+Dialogue: 0,0:10:52.20,0:10:55.87,Default,,0,0,0,,When I stayed at home in Tokyo, mama taught me…
+Dialogue: 0,0:10:55.87,0:10:59.52,Default,,0,0,0,,…if you put your ear near a sea shell, you can hear the sound of the sea.
+Dialogue: 0,0:10:59.52,0:11:03.82,Default,,0,0,0,,Now that I'm at sea, maybe it could work the other way around, and I could hear Tokyo?
+Dialogue: 0,0:11:10.64,0:11:14.06,Default,,0,0,0,,I was thinking that, … but there's no way that'd work, right?
 Dialogue: 0,0:11:29.08,0:11:32.60,Default,,0,0,0,,Why have you transferred in the middle of the school term?
 Dialogue: 0,0:11:32.60,0:11:34.73,Default,,0,0,0,,Do I need a reason?
-Dialogue: 0,0:11:42.75,0:11:43.87,Default,,0,0,0,,But...
+Dialogue: 0,0:11:42.75,0:11:43.87,Default,,0,0,0,,But…
 Dialogue: 0,0:11:44.76,0:11:47.32,Default,,0,0,0,,I wonder if I can return to Tokyo some day.
 Dialogue: 0,0:11:47.32,0:11:49.10,Default,,0,0,0,,Home is where you make it.
-Dialogue: 0,0:11:49.10,0:11:53.37,Default,,0,0,0,,As long as you stay away from the useless bunch, you'll make many friends in no time.
-Dialogue: 0,0:11:55.60,0:11:58.19,Default,,0,0,0,,Tsutomu-kun, you just don't get it, do you.
+Dialogue: 0,0:11:49.10,0:11:53.37,Default,,0,0,0,,As long as you stay away from that useless bunch, you'll make many friends in no time.
+Comment: 0,0:11:49.10,0:11:53.37,Default,,0,0,0,,that?
+Dialogue: 0,0:11:55.60,0:11:58.19,Default,,0,0,0,,Tsutomu-kun, you just don't get it, do you?
 Dialogue: 0,0:11:58.19,0:11:59.85,Default,,0,0,0,,What do you mean?
 Dialogue: 0,0:12:09.34,0:12:10.88,Default,,0,0,0,,Wah, so cold.
 Dialogue: 0,0:12:15.87,0:12:17.03,Default,,0,0,0,,Of course it is.
@@ -244,24 +213,24 @@ Dialogue: 0,0:12:33.50,0:12:35.32,Default,,0,0,0,,So wonderful.
 Dialogue: 0,0:12:47.42,0:12:48.96,Default,,0,0,0,,I want to ask you something.
 Dialogue: 0,0:12:48.96,0:12:49.82,Default,,0,0,0,,What is it?
 Dialogue: 0,0:12:52.17,0:12:55.12,Default,,0,0,0,,Say, why are you skipping classes?
-Dialogue: 0,0:12:55.12,0:12:59.85,Default,,0,0,0,,I don't really want to skip them, but... motivation just doesn't seem to come.
+Dialogue: 0,0:12:55.12,0:12:59.85,Default,,0,0,0,,I don't really want to skip them, but… motivation just doesn't seem to come.
 Dialogue: 0,0:12:59.85,0:13:03.40,Default,,0,0,0,,When I don't have a goal, I don't feel like doing anything.
 Dialogue: 0,0:13:03.72,0:13:04.51,Default,,0,0,0,,A goal?
 Dialogue: 0,0:13:05.24,0:13:09.02,Default,,0,0,0,,Yes. What are you studying for, Tsutomu-san?
 Dialogue: 0,0:13:09.02,0:13:10.80,Default,,0,0,0,,Why did you become vice president?
-Dialogue: 0,0:13:10.80,0:13:13.21,Default,,0,0,0,,Why do you seem absent-minded?
-Dialogue: 0,0:13:13.21,0:13:15.21,Default,,0,0,0,,I, ehm...
+Dialogue: 0,0:13:10.80,0:13:13.21,Default,,0,0,0,,Why do you seem so absent-minded?
+Dialogue: 0,0:13:13.21,0:13:15.21,Default,,0,0,0,,I, uh…
 Dialogue: 0,0:13:17.82,0:13:19.98,Default,,0,0,0,,Wow, Fuji looks so pretty!
 Dialogue: 0,0:13:19.98,0:13:22.68,Default,,0,0,0,,It wasn't this clear for a while now. It's refreshing.
 Dialogue: 0,0:13:28.40,0:13:29.84,Default,,0,0,0,,It's Ichinose-san.
 Dialogue: 0,0:13:30.52,0:13:31.53,Default,,0,0,0,,How curious.
-Dialogue: 0,0:13:32.56,0:13:33.80,Default,,0,0,0,,How curious...
+Dialogue: 0,0:13:32.56,0:13:33.80,Default,,0,0,0,,How curious…
 Dialogue: 0,0:13:36.23,0:13:37.74,Default,,0,0,0,,《Teachers room》
 Dialogue: 0,0:13:40.80,0:13:44.81,Default,,0,0,0,,By Meihou Academy do you mean that prestigious institute in Tokyo?
 Dialogue: 0,0:13:44.81,0:13:50.35,Default,,0,0,0,,Yes. That's why I've had high expectations for having Ayuhara-san transfer here.
 Dialogue: 0,0:13:50.35,0:13:54.86,Default,,0,0,0,,Bad call. She doesn't even come to class.
 Dialogue: 0,0:13:54.86,0:13:57.26,Default,,0,0,0,,What do you think, professor Hongou?
-Dialogue: 0,0:13:58.01,0:14:01.21,Default,,0,0,0,,Hm. Simply put, she does whatever she wants.
+Dialogue: 0,0:13:58.01,0:14:01.21,Default,,0,0,0,,Hmm. Simply put, she does whatever she wants.
 Dialogue: 0,0:14:01.21,0:14:06.22,Default,,0,0,0,,But I don't think we should chase every student and tell them what to do.
 Dialogue: 0,0:14:06.22,0:14:08.54,Default,,0,0,0,,I see.
 Dialogue: 0,0:14:09.37,0:14:11.84,Default,,0,0,0,,At any rate, I won't allow such misconduct.
@@ -269,21 +238,23 @@ Dialogue: 0,0:14:11.84,0:14:14.56,Default,,0,0,0,,This school has its rules for 
 Dialogue: 0,0:14:16.33,0:14:18.09,Default,,0,0,0,,See for yourself.
 Dialogue: 0,0:14:19.42,0:14:22.67,Default,,0,0,0,,Wanna hang out after school? I need to ask you something.
 Dialogue: 0,0:14:25.64,0:14:29.26,Default,,0,0,0,,She hangs out with the other delinquents already.
+Comment: 0,0:14:25.64,0:14:29.26,Default,,0,0,0,,rewrite? dunno
 Dialogue: 0,0:14:29.26,0:14:30.97,Default,,0,0,0,,I pity them.
 Dialogue: 0,0:14:30.97,0:14:33.31,Default,,0,0,0,,It's true that their grades are poor.
 Dialogue: 0,0:14:33.31,0:14:34.89,Default,,0,0,0,,That's a nice way to say it.
-Dialogue: 0,0:14:34.89,0:14:37.37,Default,,0,0,0,,What they need is to vent their aggression...
-Dialogue: 0,0:14:37.37,0:14:41.32,Default,,0,0,0,,- ...but with our sports section being in such a sorry state...\N- Professor Hongou!
-Dialogue: 0,0:14:41.32,0:14:45.48,Default,,0,0,0,,The focus of our school lies in scholar achievements. Sports are marginal.
-Dialogue: 0,0:14:45.48,0:14:47.20,Default,,0,0,0,,I oppose to this way of thinking.
-Dialogue: 0,0:14:47.20,0:14:49.50,Default,,0,0,0,,- W-w-what?\N- Let's ease up.
-Dialogue: 0,0:14:49.50,0:14:53.02,Default,,0,0,0,,Regarding Ayuhara Kozue, for time being let's just observe her.
+Dialogue: 0,0:14:34.89,0:14:37.37,Default,,0,0,0,,What they need is to vent their aggression, …
+Dialogue: 0,0:14:37.37,0:14:40.34,Default,,0,0,0,,…but with our sports section being in such a sorry state—
+Dialogue: 0,0:14:40.34,0:14:41.32,Default,,0,0,0,,Professor Hongou!
+Dialogue: 0,0:14:41.32,0:14:45.48,Default,,0,0,0,,The focus of our school lies in academic achievements. Sports are marginal.
+Dialogue: 0,0:14:45.48,0:14:47.20,Default,,0,0,0,,I oppose this way of thinking.
+Dialogue: 0,0:14:47.20,0:14:49.50,Default,,0,0,0,,- W-W-What?\N- Let's ease up.
+Dialogue: 0,0:14:49.50,0:14:53.02,Default,,0,0,0,,Regarding Ayuhara Kozue, for the time being let's just observe her.
 Dialogue: 0,0:15:14.16,0:15:18.12,Default,,0,0,0,,I don't know any of this. What did they say I talked with Tsutomu-kun about?
 Dialogue: 0,0:15:18.12,0:15:19.92,Default,,0,0,0,,Don't play dumb.
 Dialogue: 0,0:15:19.92,0:15:23.90,Default,,0,0,0,,They said you ratted us out and told him we were go-go dancing earlier.
 Dialogue: 0,0:15:23.90,0:15:25.93,Default,,0,0,0,,No one but you could have told him.
-Dialogue: 0,0:15:25.93,0:15:29.02,Default,,0,0,0,,We have two witnesses. Is that right?
-Dialogue: 0,0:15:29.02,0:15:30.16,Default,,0,0,0,,Y-yeah!
+Dialogue: 0,0:15:25.93,0:15:29.02,Default,,0,0,0,,We have two witnesses. Isn't that right?
+Dialogue: 0,0:15:29.02,0:15:30.16,Default,,0,0,0,,Y-Yeah!
 Dialogue: 0,0:15:30.16,0:15:34.84,Default,,0,0,0,,You're being silly. Nobody had to tell him, Tsutomu-kun figured it out on his own.
 Dialogue: 0,0:15:34.84,0:15:36.94,Default,,0,0,0,,Stop calling him Tsutomu "-kun".
 Dialogue: 0,0:15:36.94,0:15:40.35,Default,,0,0,0,,I should have known you'd want your hands all over Ichinose-san.
@@ -303,46 +274,48 @@ Dialogue: 0,0:16:09.95,0:16:11.87,Default,,0,0,0,,Sorry. We jumped to conclusion
 Dialogue: 0,0:16:11.87,0:16:12.84,Default,,0,0,0,,It's all right.
 Dialogue: 0,0:16:12.84,0:16:15.90,Default,,0,0,0,,I jump to conclusions all the time too. Right, Tsutomu-san?
 Dialogue: 0,0:16:15.90,0:16:17.24,Default,,0,0,0,,I'm so jealous.
-Dialogue: 0,0:16:17.24,0:16:20.48,Default,,0,0,0,,Ayuhara-san and Ikinose-san being related...
-Dialogue: 0,0:16:24.75,0:16:26.27,Default,,0,0,0,,Ike-chan, your hand...
-Dialogue: 0,0:16:26.27,0:16:27.71,Default,,0,0,0,,Ah, this?
-Dialogue: 0,0:16:27.71,0:16:31.69,Default,,0,0,0,,- Ichinose-san grasped it earlier. Now I'll treasure it forever.\N- Don't be stupid.
+Dialogue: 0,0:16:17.24,0:16:20.48,Default,,0,0,0,,Ayuhara-san and Ikinose-san being related…
+Dialogue: 0,0:16:24.75,0:16:26.27,Default,,0,0,0,,Ike-chan, your hand…
+Dialogue: 0,0:16:26.27,0:16:26.86,Default,,0,0,0,,Ah, this?
+Dialogue: 0,0:16:27.80,0:16:30.82,Default,,0,0,0,,Ichinose-san grasped it earlier. Now I'll treasure it forever.
+Dialogue: 0,0:16:30.82,0:16:31.69,Default,,0,0,0,,Don't be stupid.
 Dialogue: 0,0:16:35.98,0:16:38.12,Default,,0,0,0,,Tsutomu-san looks like a model.
 Dialogue: 0,0:16:38.12,0:16:40.00,Default,,0,0,0,,Super-handsome.
-Dialogue: 0,0:16:40.00,0:16:41.87,Default,,0,0,0,,Eeh? H-how?
-Dialogue: 0,0:16:46.78,0:16:48.00,Default,,0,0,0,,Putting that aside...
-Dialogue: 0,0:16:48.00,0:16:51.85,Default,,0,0,0,,About your go-go dance... It seems it was discussed at today's faculty meeting.
+Dialogue: 0,0:16:40.00,0:16:41.87,Default,,0,0,0,,Ehh? H-How?
+Dialogue: 0,0:16:46.78,0:16:48.00,Default,,0,0,0,,Putting that aside…
+Dialogue: 0,0:16:48.00,0:16:51.85,Default,,0,0,0,,About your go-go dance…. It seems it was discussed at today's faculty meeting.
 Dialogue: 0,0:16:51.85,0:16:54.44,Default,,0,0,0,,You'll end up getting in trouble if you don't stop.
-Dialogue: 0,0:16:56.52,0:16:58.65,Default,,0,0,0,,I refuse it, vice president.
-Dialogue: 0,0:16:58.65,0:16:59.56,Default,,0,0,0,,Ayuhara-kun...
-Dialogue: 0,0:16:59.56,0:17:03.96,Default,,0,0,0,,You and the teachers are viewing us in a bad light.
+Dialogue: 0,0:16:56.52,0:16:58.65,Default,,0,0,0,,I refuse, vice president.
+Dialogue: 0,0:16:58.65,0:16:59.56,Default,,0,0,0,,Ayuhara-kun…
+Dialogue: 0,0:16:59.56,0:17:03.96,Default,,0,0,0,,The teachers and you are viewing us in a bad light.
 Dialogue: 0,0:17:04.38,0:17:05.56,Default,,0,0,0,,What do you mean?
-Dialogue: 0,0:17:05.56,0:17:09.05,Default,,0,0,0,,They assume anyone to be a little different to be delinquent.
-Dialogue: 0,0:17:09.05,0:17:09.92,Default,,0,0,0,,But...
+Dialogue: 0,0:17:05.56,0:17:09.05,Default,,0,0,0,,They assume anyone that is a little different to be a delinquent.
+Dialogue: 0,0:17:09.05,0:17:09.92,Default,,0,0,0,,But…
 Dialogue: 0,0:17:09.92,0:17:11.53,Default,,0,0,0,,Let's end this prejudice.
 Dialogue: 0,0:17:11.53,0:17:15.39,Default,,0,0,0,,They assume everything they don't understand must be bad.
 Dialogue: 0,0:17:15.39,0:17:18.12,Default,,0,0,0,,If they tried it, they might have fun.
 Dialogue: 0,0:17:18.12,0:17:19.80,Default,,0,0,0,,Naka! Radio!
-Dialogue: 0,0:17:34.00,0:17:36.12,Default,,0,0,0,,Ayuhara-san...
+Dialogue: 0,0:17:34.00,0:17:36.12,Default,,0,0,0,,Ayuhara-san…
 Dialogue: 0,0:17:38.67,0:17:40.28,Default,,0,0,0,,Yay!
 Dialogue: 0,0:17:57.56,0:17:58.83,Default,,0,0,0,,Yahoo!
 Dialogue: 0,0:18:04.23,0:18:06.65,Default,,0,0,0,,How is it, Tsutomu-san? Wanna try it?
-Dialogue: 0,0:18:07.12,0:18:09.71,Default,,0,0,0,,Ayuhara-san, you're our boss... our chief!
+Dialogue: 0,0:18:07.12,0:18:09.71,Default,,0,0,0,,Ayuhara-san, you're our boss … our chief!
 Dialogue: 0,0:18:09.71,0:18:10.75,Default,,0,0,0,,Chief?
-Dialogue: 0,0:18:10.75,0:18:14.33,Default,,0,0,0,,Would you teach me how to be like you?
+Dialogue: 0,0:18:10.75,0:18:14.33,Default,,0,0,0,,Would you teach me to be like you?
 Dialogue: 0,0:18:14.33,0:18:15.35,Default,,0,0,0,,Us too.
-Dialogue: 0,0:18:15.35,0:18:16.67,Default,,0,0,0,,We count on you, chief.
-Dialogue: 0,0:18:16.67,0:18:19.08,Default,,0,0,0,,Stop that. But yeah, I can show you something.
+Dialogue: 0,0:18:15.35,0:18:16.67,Default,,0,0,0,,We're counting on you, chief.
+Dialogue: 0,0:18:16.67,0:18:19.08,Default,,0,0,0,,Stop that. But yeah, I could show you something.
 Dialogue: 0,0:18:19.08,0:18:20.70,Default,,0,0,0,,Everyone, let's go to the beach.
 Dialogue: 0,0:18:20.70,0:18:22.27,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:18:24.22,0:18:25.63,Default,,0,0,0,,Ayuhara-san.
 Dialogue: 0,0:18:26.99,0:18:30.17,Default,,0,0,0,,Katsuragi-san asked us to find you. We've looked everywhere.
 Dialogue: 0,0:18:30.17,0:18:31.47,Default,,0,0,0,,She wants to see me?
 Dialogue: 0,0:18:31.47,0:18:34.44,Default,,0,0,0,,She'd love to have you join our team.
-Dialogue: 0,0:18:34.44,0:18:37.53,Default,,0,0,0,,After yesterday's practice, she's sure you got what it takes.
+Dialogue: 0,0:18:34.44,0:18:37.53,Default,,0,0,0,,After yesterday's practice, she's sure you've got what it takes.
 Dialogue: 0,0:18:37.53,0:18:39.47,Default,,0,0,0,,This is a chance. You should take it.
-Dialogue: 0,0:18:39.47,0:18:43.96,Default,,0,0,0,,I'm sorry but I'd rather hang out with Kashiwagi-san than play volleyball with you.
-Dialogue: 0,0:18:45.15,0:18:47.07,Default,,0,0,0,,First of all, that club is, well...
+Dialogue: 0,0:18:39.47,0:18:43.96,Default,,0,0,0,,I'm sorry, but I'd rather hang out with Kashiwagi-san than play volleyball with you guys.
+Comment: 0,0:18:39.47,0:18:43.96,Default,,0,0,0,,dunno
+Dialogue: 0,0:18:45.15,0:18:47.07,Default,,0,0,0,,First of all, that club is, well—
 Dialogue: 0,0:18:47.07,0:18:47.90,Default,,0,0,0,,Eh?
 Dialogue: 0,0:18:49.47,0:18:51.05,Default,,0,0,0,,How should I put it?
 Dialogue: 0,0:18:51.05,0:18:52.56,Default,,0,0,0,,What do you mean, Ayuhara-san?
@@ -362,13 +335,13 @@ Dialogue: 0,0:19:27.36,0:19:30.81,Default,,0,0,0,,Kozue-san is in the eye of the
 Dialogue: 0,0:19:32.03,0:19:33.23,Default,,0,0,0,,Ayuhara-san.
 Dialogue: 0,0:19:34.20,0:19:36.22,Default,,0,0,0,,Hase-san and Hara-san told me.
 Dialogue: 0,0:19:36.22,0:19:38.11,Default,,0,0,0,,You insulted the volleyball club.
-Dialogue: 0,0:19:38.11,0:19:40.19,Default,,0,0,0,,I don't think I've ever insulted you...
+Dialogue: 0,0:19:38.11,0:19:40.19,Default,,0,0,0,,I don't think I've ever insulted you….
 Dialogue: 0,0:19:40.19,0:19:42.48,Default,,0,0,0,,Don't lie, now!
 Dialogue: 0,0:19:43.32,0:19:44.99,Default,,0,0,0,,I am not lying to anyone.
 Dialogue: 0,0:19:44.99,0:19:46.65,Default,,0,0,0,,I've only spoken the truth.
 Dialogue: 0,0:19:46.65,0:19:48.11,Default,,0,0,0,,How cocky!
-Dialogue: 0,0:19:48.11,0:19:50.64,Default,,0,0,0,,You're full of yourself, for a transfer student.
-Dialogue: 0,0:19:50.64,0:19:53.80,Default,,0,0,0,,Ayuhara-san, you seem to be confident about volleyball.
+Dialogue: 0,0:19:48.11,0:19:50.64,Default,,0,0,0,,You're so full of yourself, for a transfer student.
+Dialogue: 0,0:19:50.64,0:19:53.80,Default,,0,0,0,,Ayuhara-san, you seem to be confident about your volleyball.
 Dialogue: 0,0:19:54.14,0:19:55.39,Default,,0,0,0,,Who knows.
 Dialogue: 0,0:19:55.39,0:19:56.64,Default,,0,0,0,,You're not sure?
 Dialogue: 0,0:19:56.64,0:19:58.91,Default,,0,0,0,,All right. We'll test you.
@@ -382,7 +355,7 @@ Dialogue: 0,0:20:14.76,0:20:15.72,Default,,0,0,0,,Here!
 Dialogue: 0,0:20:21.18,0:20:24.20,Default,,0,0,0,,Continue. Don't stop serving.
 Dialogue: 0,0:20:24.20,0:20:25.88,Default,,0,0,0,,Here!
 Dialogue: 0,0:20:29.55,0:20:30.59,Default,,0,0,0,,Here!
-Dialogue: 0,0:20:44.27,0:20:45.40,Default,,0,0,0,,You little...!
+Dialogue: 0,0:20:44.27,0:20:45.40,Default,,0,0,0,,You little…!
 Dialogue: 0,0:20:51.85,0:20:53.08,Default,,0,0,0,,Pretty good.
 Dialogue: 0,0:20:53.79,0:20:54.91,Default,,0,0,0,,All right!
 Dialogue: 0,0:21:21.00,0:21:22.72,Default,,0,0,0,,That was low!
@@ -395,24 +368,24 @@ Dialogue: 0,0:21:54.46,0:21:57.10,Default,,0,0,0,,What now? Your delinquent bunc
 Dialogue: 0,0:21:57.10,0:21:59.15,Default,,0,0,0,,Now you've said it.
 Dialogue: 0,0:21:59.15,0:22:02.91,Default,,0,0,0,,Am I mistaken? Aren't you the garbage of Fujimi Academy?
 Dialogue: 0,0:22:02.91,0:22:04.91,Default,,0,0,0,,If you have complaints, let's hear them.
-Dialogue: 0,0:22:05.31,0:22:07.79,Default,,0,0,0,,That's cruel... calling us delinquents...
+Dialogue: 0,0:22:05.31,0:22:07.79,Default,,0,0,0,,That's cruel … calling us delinquents…
 Dialogue: 0,0:22:08.22,0:22:11.28,Default,,0,0,0,,We never did anything to your volleyball club.
 Dialogue: 0,0:22:11.28,0:22:13.28,Default,,0,0,0,,Just ask the teachers.
 Dialogue: 0,0:22:13.28,0:22:16.33,Default,,0,0,0,,Everyone calls you garbage.
 Dialogue: 0,0:22:16.73,0:22:20.20,Default,,0,0,0,,- What the heck?\N- Calm down, Naka. His Majesty is watching.
-Dialogue: 0,0:22:24.91,0:22:27.84,Default,,0,0,0,,If you've got a problem, I'm here listening.
+Dialogue: 0,0:22:24.91,0:22:27.84,Default,,0,0,0,,If you've got a problem, I'm listening.
 Dialogue: 0,0:22:27.84,0:22:30.41,Default,,0,0,0,,But we're not delinquents. We won't fight with you.
 Dialogue: 0,0:22:30.41,0:22:31.28,Default,,0,0,0,,Of course.
 Dialogue: 0,0:22:31.28,0:22:33.60,Default,,0,0,0,,We can always compete in sports, though.
 Dialogue: 0,0:22:44.67,0:22:45.66,Default,,0,0,0,,We'll do this.
-Dialogue: 0,0:22:47.98,0:22:49.28,Default,,0,0,0,,Do... what?
-Dialogue: 0,0:22:49.90,0:22:52.25,Default,,0,0,0,,We, the "delinquents", the useless group...
-Dialogue: 0,0:22:52.25,0:22:55.02,Default,,0,0,0,,...will challenge you to a match and show you how to win.
+Dialogue: 0,0:22:47.98,0:22:49.28,Default,,0,0,0,,Do … what?
+Dialogue: 0,0:22:49.90,0:22:52.25,Default,,0,0,0,,We, the "delinquents", the useless group…
+Dialogue: 0,0:22:52.25,0:22:55.02,Default,,0,0,0,,…will challenge you to a match and show you how to win.
 Dialogue: 0,0:22:56.78,0:22:59.45,Default,,0,0,0,,Don't make me laugh.
 Dialogue: 0,0:22:59.45,0:23:01.96,Default,,0,0,0,,You don't even know the rules of the volleyball.
 Dialogue: 0,0:23:02.30,0:23:04.68,Default,,0,0,0,,One month. One month is all I'm asking for.
 Dialogue: 0,0:23:04.68,0:23:08.17,Default,,0,0,0,,With that, you'll see that I'm not all talk.
-Dialogue: 0,0:23:08.17,0:23:10.89,Default,,0,0,0,,Interesting. Truly curious.
+Dialogue: 0,0:23:08.17,0:23:10.89,Default,,0,0,0,,Interesting. Truly interesting.
 Dialogue: 0,0:23:11.34,0:23:12.27,Default,,0,0,0,,Wanna do this?
 Dialogue: 0,0:23:12.27,0:23:14.52,Default,,0,0,0,,- No way we wouldn't.\N- I agree.
 Dialogue: 0,0:23:14.52,0:23:16.03,Default,,0,0,0,,Chief, this is impossible.
@@ -421,40 +394,14 @@ Dialogue: 0,0:23:20.72,0:23:23.02,Default,,0,0,0,,What do you plan to do, Ayuhar
 Dialogue: 0,0:23:23.93,0:23:24.97,Default,,0,0,0,,We can do this.
 Dialogue: 0,0:23:24.97,0:23:26.35,Default,,0,0,0,,We can do this!
 Dialogue: 0,0:23:27.92,0:23:30.03,Default,,0,0,0,,Let's make it official.
-Dialogue: 0,0:23:50.72,0:23:54.09,Default,,0,0,0,,After taking over the group called "garbage of Fujimi Academy"...
-Dialogue: 0,0:23:54.09,0:23:57.05,Default,,0,0,0,,...and challenging the volleyball club, Ayuhara Kozue...
-Dialogue: 0,0:23:57.05,0:23:59.47,Default,,0,0,0,,...immediately begins a harsh training.
-Dialogue: 0,0:23:59.47,0:24:01.74,Default,,0,0,0,,But she runs into trouble.
-Dialogue: 0,0:24:02.27,0:24:06.70,Default,,0,0,0,,The useless group seems to be more interested in dancing than volleyball.
-Dialogue: 0,0:24:06.70,0:24:10.08,Default,,0,0,0,,Soon enough two of them want to quit.
-Dialogue: 0,0:24:10.08,0:24:12.04,Default,,0,0,0,,If she doesn't think of something...
-Dialogue: 0,0:24:12.04,0:24:15.92,Default,,0,0,0,,...Kozue will be forced to forfeit the match.
-Dialogue: 0,0:24:15.92,0:24:18.62,Default,,0,0,0,,But Kozue doesn't give up.
-Dialogue: 0,0:24:18.62,0:24:23.50,Default,,0,0,0,,Please look forward to the next episode.
-Dialogue: 0,0:24:37.30,0:24:41.17,Default,Lyrics_Kanji,0,0,0,,{\an8}青い青い空に
-Dialogue: 0,0:24:41.17,0:24:44.26,Default,Lyrics_Kanji,0,0,0,,{\an8}バンボンボボン
-Dialogue: 0,0:24:44.26,0:24:48.33,Default,Lyrics_Kanji,0,0,0,,{\an8}はずむボールが
-Dialogue: 0,0:24:48.33,0:24:52.02,Default,Lyrics_Kanji,0,0,0,,{\an8}夢をえがく
-Dialogue: 0,0:24:52.02,0:24:55.59,Default,Lyrics_Kanji,0,0,0,,{\an8}明日の太陽
-Dialogue: 0,0:24:55.59,0:24:59.05,Default,Lyrics_Kanji,0,0,0,,{\an8}バンボンボボン
-Dialogue: 0,0:24:59.05,0:25:02.82,Default,Lyrics_Kanji,0,0,0,,{\an8}サーブ　レシーブ　トス
-Dialogue: 0,0:25:02.82,0:25:05.90,Default,Lyrics_Kanji,0,0,0,,{\an8}ジャンプ　スパイク　アタック
-Dialogue: 0,0:25:05.90,0:25:19.58,Default,Lyrics_Kanji,0,0,0,,{\an8}六つのハートが一つに燃える
-Dialogue: 0,0:24:37.30,0:24:41.17,Default,Lyrics_Romaji,0,0,0,,{\an8\k32}A{\k14}o{\k115}i {\k16}a{\k29}o{\k8}i {\k32}so{\k42}ra {\k89}ni
-Dialogue: 0,0:24:41.17,0:24:44.26,Default,Lyrics_Romaji,0,0,0,,{\an8\k104}Ban {\k42}bon{\k31}bo{\k132}bon
-Dialogue: 0,0:24:44.26,0:24:48.33,Default,Lyrics_Romaji,0,0,0,,{\an8\k61}Ha{\k45}zu{\k74}mu {\k32}bo{\k27}o{\k60}ru {\k108}ga
-Dialogue: 0,0:24:48.33,0:24:52.02,Default,Lyrics_Romaji,0,0,0,,{\an8\k33}Yu{\k72}me {\k39}wo {\k44}e{\k75}ga{\k106}ku
-Dialogue: 0,0:24:52.02,0:24:55.59,Default,Lyrics_Romaji,0,0,0,,{\an8\k28}A{\k61}shi{\k36}ta {\k83}no {\k45}ta{\k16}i{\k43}yo{\k45}u
-Dialogue: 0,0:24:55.59,0:24:59.05,Default,Lyrics_Romaji,0,0,0,,{\an8\k92}Ban {\k44}bon{\k32}bo{\k178}bon
-Dialogue: 0,0:24:59.05,0:25:02.82,Default,Lyrics_Romaji,0,0,0,,{\an8\k87}Saabu {\k22}re{\k86}shiibu {\k182}tosu
-Dialogue: 0,0:25:02.82,0:25:05.90,Default,Lyrics_Romaji,0,0,0,,{\an8\k74}Janpu {\k22}su{\k75}paiku {\k12}a{\k121}takku
-Dialogue: 0,0:25:05.90,0:25:19.58,Default,Lyrics_Romaji,0,0,0,,{\an8\k62}Mu{\k91}ttsu {\k36}no {\k37}ha{\k19}a{\k74}to {\k121}ga {\k26}hi{\k27}to{\k19}tsu {\k121}ni {\k49}mo{\k100}e{\k586}ru
-Dialogue: 0,0:24:37.30,0:24:41.17,Default,Lyrics_English,0,0,0,,Up in the blue, blue sky...
-Dialogue: 0,0:24:41.17,0:24:44.26,Default,Lyrics_English,0,0,0,,...bounce-bounce-bounce.
-Dialogue: 0,0:24:44.26,0:24:48.33,Default,Lyrics_English,0,0,0,,The bouncing ball is up there...
-Dialogue: 0,0:24:48.33,0:24:52.02,Default,Lyrics_English,0,0,0,,...painting my dreams.
-Dialogue: 0,0:24:52.02,0:24:55.59,Default,Lyrics_English,0,0,0,,The sun tomorrow goes...
-Dialogue: 0,0:24:55.59,0:24:59.05,Default,Lyrics_English,0,0,0,,...bounce-bounce-bounce.
-Dialogue: 0,0:24:59.05,0:25:02.82,Default,Lyrics_English,0,0,0,,Serve. Receive. Toss.
-Dialogue: 0,0:25:02.82,0:25:05.90,Default,Lyrics_English,0,0,0,,Jump. Spike. Attack.
-Dialogue: 0,0:25:05.90,0:25:19.58,Default,Lyrics_English,0,0,0,,The six hearts burn as one.
+Dialogue: 0,0:23:50.72,0:23:54.09,Narrator,,0,0,0,,After taking over the so-called "garbage of Fujimi Academy"…
+Comment: 0,0:23:54.09,0:23:57.05,Narrator,,0,0,0,,Ayuhara Kozue should be the start of a new line
+Dialogue: 0,0:23:54.09,0:23:57.05,Narrator,,0,0,0,,…and challenging the volleyball club, \NAyuhara Kozue…
+Dialogue: 0,0:23:57.05,0:23:59.47,Narrator,,0,0,0,,…immediately begins harsh training.
+Dialogue: 0,0:23:59.47,0:24:01.74,Narrator,,0,0,0,,But she runs into trouble.
+Dialogue: 0,0:24:02.27,0:24:06.70,Narrator,,0,0,0,,The useless group seems to be more interested in dancing than volleyball.
+Dialogue: 0,0:24:06.70,0:24:10.08,Narrator,,0,0,0,,Soon enough two of them want to quit.
+Dialogue: 0,0:24:10.08,0:24:12.04,Narrator,,0,0,0,,If she doesn't think of something…
+Dialogue: 0,0:24:12.04,0:24:15.92,Narrator,,0,0,0,,…Kozue will be forced to forfeit the match.
+Dialogue: 0,0:24:15.92,0:24:18.62,Narrator,,0,0,0,,But Kozue doesn't give up.
+Dialogue: 0,0:24:18.62,0:24:23.50,Narrator,,0,0,0,,Please look forward to the next episode.
