@@ -18,47 +18,49 @@ Video Zoom Percent: 1.000000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Exo 2 Medium,26,&H008EF3FF,&H00588350,&H002B393D,&H7F000000,0,0,0,0,100,100,0,0,1,3,0,2,32,32,32,1
-Style: Narrator,Exo 2 Medium,26,&H008EF3FF,&H00588350,&H002B393D,&H7F000000,0,-1,0,0,100,100,0,0,1,3,0,2,32,32,32,1
+Style: Default,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,94,100,0,0,1,3,0,2,36,36,36,1
+Style: Narrator,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,2,36,36,36,1
+Style: Lyrics EN,Gotham Rounded Medium,43,&H00BFF6FF,&H8C7A8688,&H00202020,&H7F202020,-1,0,0,0,94,100,0,0,1,3,0,2,36,36,36,1
+Style: Lyrics JP,Source Han Sans CN,45,&H00BFF6FF,&H0097F0F8,&H00202020,&H7F101010,-1,0,0,0,90,100,0,0,1,3,0,2,36,36,36,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.29,0:00:19.72,Default,Lyrics_Kanji,0,0,0,,{\an8}苦しくたって
-Dialogue: 0,0:00:19.72,0:00:23.25,Default,Lyrics_Kanji,0,0,0,,{\an8}悲しくたって
-Dialogue: 0,0:00:23.25,0:00:30.26,Default,Lyrics_Kanji,0,0,0,,{\an8}コートのなかでは平気なの
-Dialogue: 0,0:00:30.26,0:00:38.50,Default,Lyrics_Kanji,0,0,0,,{\an8}ボールがうなると胸がはずむわ
-Dialogue: 0,0:00:38.50,0:00:42.61,Default,Lyrics_Kanji,0,0,0,,{\an8}レシーブ　トス　スパイク
-Dialogue: 0,0:00:42.61,0:00:47.53,Default,Lyrics_Kanji,0,0,0,,{\an8}ワン・ツー　ワン・ツー　アタック
-Dialogue: 0,0:00:47.53,0:00:50.51,Default,Lyrics_Kanji,0,0,0,,{\an8}だけど涙がでちゃう
-Dialogue: 0,0:00:50.51,0:00:53.54,Default,Lyrics_Kanji,0,0,0,,{\an8}女の子だもん
-Dialogue: 0,0:00:53.54,0:01:01.70,Default,Lyrics_Kanji,0,0,0,,{\an8}涙も汗も若いファイトで
-Dialogue: 0,0:01:01.70,0:01:09.78,Default,Lyrics_Kanji,0,0,0,,{\an8}青空に遠く叫びたい
-Dialogue: 0,0:01:09.78,0:01:17.88,Default,Lyrics_Kanji,0,0,0,,{\an8}アタック　アタック　ナンバーワン
-Dialogue: 0,0:01:17.88,0:01:27.14,Default,Lyrics_Kanji,0,0,0,,{\an8}アタック　アタック　ナンバーワン
-Dialogue: 0,0:00:15.29,0:00:19.72,Default,Lyrics_Romaji,0,0,0,,{\an8\k31}Ku{\k16}ru{\k38}shi{\k55}ku{\k57}ta{\k246}tte
-Dialogue: 0,0:00:19.72,0:00:23.25,Default,Lyrics_Romaji,0,0,0,,{\an8\k25}Ka{\k23}na{\k38}shi{\k50}ku{\k56}ta{\k133}tte
-Dialogue: 0,0:00:23.25,0:00:30.26,Default,Lyrics_Romaji,0,0,0,,{\an8\k59}Koo{\k73}to {\k23}no {\k36}na{\k30}ka {\k25}de{\k87}wa {\k51}hei{\k77}ki {\k35}na{\k205}no
-Dialogue: 0,0:00:30.26,0:00:38.50,Default,Lyrics_Romaji,0,0,0,,{\an8\k77}Boo{\k35}ru {\k98}ga {\k33}u{\k51}na{\k26}ru {\k128}to {\k28}mu{\k22}ne {\k29}ga {\k25}ha{\k49}zu{\k29}mu {\k194}wa
-Dialogue: 0,0:00:38.50,0:00:42.61,Default,Lyrics_Romaji,0,0,0,,{\an8\k18}Re{\k57}shii{\k28}bu {\k85}tosu {\k32}su{\k31}pa{\k35}i{\k125}ku
-Dialogue: 0,0:00:42.61,0:00:47.53,Default,Lyrics_Romaji,0,0,0,,{\an8\k55}Wan {\k39}tsu {\k53}wan {\k48}tsu {\k30}a{\k52}ta{\k204}kku
-Dialogue: 0,0:00:47.53,0:00:50.51,Default,Lyrics_Romaji,0,0,0,,{\an8\k22}Da{\k18}ke{\k65}do {\k18}na{\k14}mi{\k15}da {\k10}ga {\k14}de{\k122}chau
-Dialogue: 0,0:00:50.51,0:00:53.54,Default,Lyrics_Romaji,0,0,0,,{\an8\k22}On{\k19}na {\k16}no {\k18}ko {\k18}da{\k229}mon
-Dialogue: 0,0:00:53.54,0:01:01.70,Default,Lyrics_Romaji,0,0,0,,{\an8\k36}Na{\k50}mi{\k24}da {\k51}mo {\k15}a{\k31}se {\k233}mo {\k26}wa{\k23}ka{\k25}i {\k29}fa{\k45}i{\k29}to {\k199}de
-Dialogue: 0,0:01:01.70,0:01:09.78,Default,Lyrics_Romaji,0,0,0,,{\an8\k51}A{\k45}o{\k27}zo{\k57}ra {\k23}ni {\k47}to{\k31}o{\k103}ku {\k72}sa{\k45}ke{\k81}bi{\k58}ta{\k168}i
-Dialogue: 0,0:01:09.78,0:01:17.88,Default,Lyrics_Romaji,0,0,0,,{\an8\k29}A{\k52}ta{\k122}kku {\k27}a{\k50}ta{\k117}kku {\k114}nan{\k101}baa {\k198}wan
-Dialogue: 0,0:01:17.88,0:01:27.14,Default,Lyrics_Romaji,0,0,0,,{\an8\k30}A{\k49}ta{\k126}kku {\k29}a{\k51}ta{\k114}kku {\k117}nan{\k126}baa {\k284}wan
-Dialogue: 0,0:00:15.29,0:00:19.72,Default,Lyrics_English,0,0,0,,Even though it hurts…
-Dialogue: 0,0:00:19.72,0:00:23.25,Default,Lyrics_English,0,0,0,,…even though I feel sad…
-Dialogue: 0,0:00:23.25,0:00:30.26,Default,Lyrics_English,0,0,0,,…in the court I feel just fine.
-Dialogue: 0,0:00:30.26,0:00:38.50,Default,Lyrics_English,0,0,0,,When I hear the ball flying, my heart races.
-Dialogue: 0,0:00:38.50,0:00:42.61,Default,Lyrics_English,0,0,0,,Receive. Toss. Spike.
-Dialogue: 0,0:00:42.61,0:00:47.53,Default,Lyrics_English,0,0,0,,One-two, one-two! Attack!
-Dialogue: 0,0:00:47.53,0:00:50.51,Default,Lyrics_English,0,0,0,,But sometimes I cry.
-Dialogue: 0,0:00:50.51,0:00:53.54,Default,Lyrics_English,0,0,0,,I'm a girl, after all.
-Dialogue: 0,0:00:53.54,0:01:01.70,Default,Lyrics_English,0,0,0,,Through the tears and sweat, putting up a youthful fight…
-Dialogue: 0,0:01:01.70,0:01:09.78,Default,Lyrics_English,0,0,0,,…under the blue sky, I just want to scream:
-Dialogue: 0,0:01:09.78,0:01:17.88,Default,Lyrics_English,0,0,0,,Attack! Attack! Number 1!
-Dialogue: 0,0:01:17.88,0:01:27.14,Default,Lyrics_English,0,0,0,,Attack! Attack! Number 1!
+Dialogue: 0,0:00:15.29,0:00:19.72,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}苦しくたって
+Dialogue: 0,0:00:19.72,0:00:23.25,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}悲しくたって
+Dialogue: 0,0:00:23.25,0:00:30.26,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}コートのなかでは平気なの
+Dialogue: 0,0:00:30.26,0:00:38.50,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}ボールがうなると胸がはずむわ
+Dialogue: 0,0:00:38.50,0:00:42.61,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}レシーブ　トス　スパイク
+Dialogue: 0,0:00:42.61,0:00:47.53,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}ワン・ツー　ワン・ツー　アタック
+Dialogue: 0,0:00:47.53,0:00:50.51,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}だけど涙がでちゃう
+Dialogue: 0,0:00:50.51,0:00:53.54,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}女の子だもん
+Dialogue: 0,0:00:53.54,0:01:01.70,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}涙も汗も若いファイトで
+Dialogue: 0,0:01:01.70,0:01:09.78,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}青空に遠く叫びたい
+Dialogue: 0,0:01:09.78,0:01:17.88,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}アタック　アタック　ナンバーワン
+Dialogue: 0,0:01:17.88,0:01:27.14,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}アタック　アタック　ナンバーワン
+Dialogue: 0,0:00:15.29,0:00:19.72,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k31}Ku{\k16}ru{\k38}shi{\k55}ku{\k57}ta{\k246}tte
+Dialogue: 0,0:00:19.72,0:00:23.25,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k25}Ka{\k23}na{\k38}shi{\k50}ku{\k56}ta{\k133}tte
+Dialogue: 0,0:00:23.25,0:00:30.26,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k59}Koo{\k73}to {\k23}no {\k36}na{\k30}ka {\k25}de{\k87}wa {\k51}hei{\k77}ki {\k35}na{\k205}no
+Dialogue: 0,0:00:30.26,0:00:38.50,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k77}Boo{\k35}ru {\k98}ga {\k33}u{\k51}na{\k26}ru {\k128}to {\k28}mu{\k22}ne {\k29}ga {\k25}ha{\k49}zu{\k29}mu {\k194}wa
+Dialogue: 0,0:00:38.50,0:00:42.61,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k18}Re{\k57}shii{\k28}bu {\k85}tosu {\k32}su{\k31}pa{\k35}i{\k125}ku
+Dialogue: 0,0:00:42.61,0:00:47.53,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k55}Wan {\k39}tsu {\k53}wan {\k48}tsu {\k30}a{\k52}ta{\k204}kku
+Dialogue: 0,0:00:47.53,0:00:50.51,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k22}Da{\k18}ke{\k65}do {\k18}na{\k14}mi{\k15}da {\k10}ga {\k14}de{\k122}chau
+Dialogue: 0,0:00:50.51,0:00:53.54,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k22}On{\k19}na {\k16}no {\k18}ko {\k18}da{\k229}mon
+Dialogue: 0,0:00:53.54,0:01:01.70,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k36}Na{\k50}mi{\k24}da {\k51}mo {\k15}a{\k31}se {\k233}mo {\k26}wa{\k23}ka{\k25}i {\k29}fa{\k45}i{\k29}to {\k199}de
+Dialogue: 0,0:01:01.70,0:01:09.78,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k51}A{\k45}o{\k27}zo{\k57}ra {\k23}ni {\k47}to{\k31}o{\k103}ku {\k72}sa{\k45}ke{\k81}bi{\k58}ta{\k168}i
+Dialogue: 0,0:01:09.78,0:01:17.88,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k29}A{\k52}ta{\k122}kku {\k27}a{\k50}ta{\k117}kku {\k114}nan{\k101}baa {\k198}wan
+Dialogue: 0,0:01:17.88,0:01:27.14,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k30}A{\k49}ta{\k126}kku {\k29}a{\k51}ta{\k114}kku {\k117}nan{\k126}baa {\k284}wan
+Dialogue: 0,0:00:15.29,0:00:19.72,Lyrics EN,Lyrics_English,0,0,0,,Even though it hurts…
+Dialogue: 0,0:00:19.72,0:00:23.25,Lyrics EN,Lyrics_English,0,0,0,,…even though I feel sad…
+Dialogue: 0,0:00:23.25,0:00:30.26,Lyrics EN,Lyrics_English,0,0,0,,…in the court I feel just fine.
+Dialogue: 0,0:00:30.26,0:00:38.50,Lyrics EN,Lyrics_English,0,0,0,,When I hear the ball flying, my heart races.
+Dialogue: 0,0:00:38.50,0:00:42.61,Lyrics EN,Lyrics_English,0,0,0,,Receive. Toss. Spike.
+Dialogue: 0,0:00:42.61,0:00:47.53,Lyrics EN,Lyrics_English,0,0,0,,One-two, one-two! Attack!
+Dialogue: 0,0:00:47.53,0:00:50.51,Lyrics EN,Lyrics_English,0,0,0,,But sometimes I cry.
+Dialogue: 0,0:00:50.51,0:00:53.54,Lyrics EN,Lyrics_English,0,0,0,,I'm a girl, after all.
+Dialogue: 0,0:00:53.54,0:01:01.70,Lyrics EN,Lyrics_English,0,0,0,,Through the tears and sweat, putting up a youthful fight…
+Dialogue: 0,0:01:01.70,0:01:09.78,Lyrics EN,Lyrics_English,0,0,0,,…under the blue sky, I just want to scream:
+Dialogue: 0,0:01:09.78,0:01:17.88,Lyrics EN,Lyrics_English,0,0,0,,Attack! Attack! Number 1!
+Dialogue: 0,0:01:17.88,0:01:27.14,Lyrics EN,Lyrics_English,0,0,0,,Attack! Attack! Number 1!
 Dialogue: 0,0:01:33.59,0:01:41.01,Default,,0,0,0,,{秘笈・木の葉おとし}Episode 008\NThe secret of "Leaf Fall"
 Dialogue: 0,0:01:56.50,0:01:57.64,Default,,0,0,0,,{もうすぐね。}We'll be there soon.
 Dialogue: 0,0:02:10.51,0:02:14.45,Default,,0,0,0,,{富士見大学女子バレー部合宿所}Fujimi All-girls University Volleyball Club Training Camp
@@ -533,30 +535,30 @@ Dialogue: 0,0:24:04.37,0:24:10.11,Narrator,,0,0,0,,{得に、四天王の一人�
 Dialogue: 0,0:24:10.11,0:24:12.80,Narrator,,0,0,0,,{本郷コーチは実力第一と言う…}Professor Hongou acknowledges that skill is crucial…
 Dialogue: 0,0:24:12.80,0:24:17.90,Narrator,,0,0,0,,{…そこで試合におって、どちらが実力なあるか、決着を決めることになった。}…and thus the girls hold a match to prove whose skill is greater.
 Dialogue: 0,0:24:17.90,0:24:22.13,Narrator,,0,0,0,,{さ、来週のアタックナンバーワンをお楽しみに。}Please look forward to the next episode.
-Dialogue: 0,0:24:40.18,0:24:44.05,Default,Lyrics_Kanji,0,0,0,,{\an8}青い青い空に
-Dialogue: 0,0:24:44.05,0:24:47.14,Default,Lyrics_Kanji,0,0,0,,{\an8}バンボンボボン
-Dialogue: 0,0:24:47.14,0:24:51.21,Default,Lyrics_Kanji,0,0,0,,{\an8}はずむボールが
-Dialogue: 0,0:24:51.21,0:24:54.90,Default,Lyrics_Kanji,0,0,0,,{\an8}夢をえがく
-Dialogue: 0,0:24:54.90,0:24:58.47,Default,Lyrics_Kanji,0,0,0,,{\an8}明日の太陽
-Dialogue: 0,0:24:58.47,0:25:01.93,Default,Lyrics_Kanji,0,0,0,,{\an8}バンボンボボン
-Dialogue: 0,0:25:01.93,0:25:05.70,Default,Lyrics_Kanji,0,0,0,,{\an8}サーブ　レシーブ　トス
-Dialogue: 0,0:25:05.70,0:25:08.78,Default,Lyrics_Kanji,0,0,0,,{\an8}ジャンプ　スパイク　アタック
-Dialogue: 0,0:25:08.78,0:25:22.46,Default,Lyrics_Kanji,0,0,0,,{\an8}六つのハートが一つに燃える
-Dialogue: 0,0:24:40.18,0:24:44.05,Default,Lyrics_Romaji,0,0,0,,{\an8\k32}A{\k14}o{\k115}i {\k16}a{\k29}o{\k8}i {\k32}so{\k42}ra {\k89}ni
-Dialogue: 0,0:24:44.05,0:24:47.14,Default,Lyrics_Romaji,0,0,0,,{\an8\k104}Ban {\k42}bon{\k31}bo{\k132}bon
-Dialogue: 0,0:24:47.14,0:24:51.21,Default,Lyrics_Romaji,0,0,0,,{\an8\k61}Ha{\k45}zu{\k74}mu {\k32}bo{\k27}o{\k60}ru {\k108}ga
-Dialogue: 0,0:24:51.21,0:24:54.90,Default,Lyrics_Romaji,0,0,0,,{\an8\k33}Yu{\k72}me {\k39}wo {\k44}e{\k75}ga{\k106}ku
-Dialogue: 0,0:24:54.90,0:24:58.47,Default,Lyrics_Romaji,0,0,0,,{\an8\k28}A{\k61}shi{\k36}ta {\k83}no {\k45}ta{\k16}i{\k43}yo{\k45}u
-Dialogue: 0,0:24:58.47,0:25:01.93,Default,Lyrics_Romaji,0,0,0,,{\an8\k92}Ban {\k44}bon{\k32}bo{\k178}bon
-Dialogue: 0,0:25:01.93,0:25:05.70,Default,Lyrics_Romaji,0,0,0,,{\an8\k87}Saabu {\k22}re{\k86}shiibu {\k182}tosu
-Dialogue: 0,0:25:05.70,0:25:08.78,Default,Lyrics_Romaji,0,0,0,,{\an8\k74}Janpu {\k22}su{\k75}paiku {\k12}a{\k121}takku
-Dialogue: 0,0:25:08.78,0:25:22.46,Default,Lyrics_Romaji,0,0,0,,{\an8\k62}Mu{\k91}ttsu {\k36}no {\k37}ha{\k19}a{\k74}to {\k121}ga {\k26}hi{\k27}to{\k19}tsu {\k121}ni {\k49}mo{\k100}e{\k586}ru
-Dialogue: 0,0:24:40.18,0:24:44.05,Default,Lyrics_English,0,0,0,,Up in the blue, blue sky…
-Dialogue: 0,0:24:44.05,0:24:47.14,Default,Lyrics_English,0,0,0,,…bounce-bounce-bounce.
-Dialogue: 0,0:24:47.14,0:24:51.21,Default,Lyrics_English,0,0,0,,The bouncing ball is up there…
-Dialogue: 0,0:24:51.21,0:24:54.90,Default,Lyrics_English,0,0,0,,…painting my dreams.
-Dialogue: 0,0:24:54.90,0:24:58.47,Default,Lyrics_English,0,0,0,,The sun tomorrow goes…
-Dialogue: 0,0:24:58.47,0:25:01.93,Default,Lyrics_English,0,0,0,,…bounce-bounce-bounce.
-Dialogue: 0,0:25:01.93,0:25:05.70,Default,Lyrics_English,0,0,0,,Serve. Receive. Toss.
-Dialogue: 0,0:25:05.70,0:25:08.78,Default,Lyrics_English,0,0,0,,Jump. Spike. Attack.
-Dialogue: 0,0:25:08.78,0:25:22.46,Default,Lyrics_English,0,0,0,,The six hearts burn as one.
+Dialogue: 0,0:24:40.18,0:24:44.05,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}青い青い空に
+Dialogue: 0,0:24:44.05,0:24:47.14,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}バンボンボボン
+Dialogue: 0,0:24:47.14,0:24:51.21,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}はずむボールが
+Dialogue: 0,0:24:51.21,0:24:54.90,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}夢をえがく
+Dialogue: 0,0:24:54.90,0:24:58.47,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}明日の太陽
+Dialogue: 0,0:24:58.47,0:25:01.93,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}バンボンボボン
+Dialogue: 0,0:25:01.93,0:25:05.70,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}サーブ　レシーブ　トス
+Dialogue: 0,0:25:05.70,0:25:08.78,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}ジャンプ　スパイク　アタック
+Dialogue: 0,0:25:08.78,0:25:22.46,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}六つのハートが一つに燃える
+Dialogue: 0,0:24:40.18,0:24:44.05,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k32}A{\k14}o{\k115}i {\k16}a{\k29}o{\k8}i {\k32}so{\k42}ra {\k89}ni
+Dialogue: 0,0:24:44.05,0:24:47.14,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k104}Ban {\k42}bon{\k31}bo{\k132}bon
+Dialogue: 0,0:24:47.14,0:24:51.21,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k61}Ha{\k45}zu{\k74}mu {\k32}bo{\k27}o{\k60}ru {\k108}ga
+Dialogue: 0,0:24:51.21,0:24:54.90,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k33}Yu{\k72}me {\k39}wo {\k44}e{\k75}ga{\k106}ku
+Dialogue: 0,0:24:54.90,0:24:58.47,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k28}A{\k61}shi{\k36}ta {\k83}no {\k45}ta{\k16}i{\k43}yo{\k45}u
+Dialogue: 0,0:24:58.47,0:25:01.93,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k92}Ban {\k44}bon{\k32}bo{\k178}bon
+Dialogue: 0,0:25:01.93,0:25:05.70,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k87}Saabu {\k22}re{\k86}shiibu {\k182}tosu
+Dialogue: 0,0:25:05.70,0:25:08.78,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k74}Janpu {\k22}su{\k75}paiku {\k12}a{\k121}takku
+Dialogue: 0,0:25:08.78,0:25:22.46,Lyrics EN,Lyrics_Romaji,0,0,0,,{\an8\k62}Mu{\k91}ttsu {\k36}no {\k37}ha{\k19}a{\k74}to {\k121}ga {\k26}hi{\k27}to{\k19}tsu {\k121}ni {\k49}mo{\k100}e{\k586}ru
+Dialogue: 0,0:24:40.18,0:24:44.05,Lyrics EN,Lyrics_English,0,0,0,,Up in the blue, blue sky…
+Dialogue: 0,0:24:44.05,0:24:47.14,Lyrics EN,Lyrics_English,0,0,0,,…bounce-bounce-bounce.
+Dialogue: 0,0:24:47.14,0:24:51.21,Lyrics EN,Lyrics_English,0,0,0,,The bouncing ball is up there…
+Dialogue: 0,0:24:51.21,0:24:54.90,Lyrics EN,Lyrics_English,0,0,0,,…painting my dreams.
+Dialogue: 0,0:24:54.90,0:24:58.47,Lyrics EN,Lyrics_English,0,0,0,,The sun tomorrow goes…
+Dialogue: 0,0:24:58.47,0:25:01.93,Lyrics EN,Lyrics_English,0,0,0,,…bounce-bounce-bounce.
+Dialogue: 0,0:25:01.93,0:25:05.70,Lyrics EN,Lyrics_English,0,0,0,,Serve. Receive. Toss.
+Dialogue: 0,0:25:05.70,0:25:08.78,Lyrics EN,Lyrics_English,0,0,0,,Jump. Spike. Attack.
+Dialogue: 0,0:25:08.78,0:25:22.46,Lyrics EN,Lyrics_English,0,0,0,,The six hearts burn as one.
