@@ -124,8 +124,8 @@ Dialogue: 0,0:05:05.45,0:05:06.38,Default,,0,0,0,,{ありがとう。}Thank you.
 Dialogue: 0,0:05:06.38,0:05:07.71,Default,,0,0,0,,{じゃ、やりましょう。}Let's continue then.
 Dialogue: 0,0:05:07.71,0:05:10.49,Default,,0,0,0,,{あのふたりともきっとそのうち分かってくれるわ。}They will come to their senses soon enough.
 Dialogue: 0,0:05:10.49,0:05:13.47,Default,,0,0,0,,{—うん。やるわ。\N—XXXなったら、四人だっていいわよ。}– All right. Let's continue.\N– We'll go on with just the 4 of us.
-Dialogue: 0,0:05:14.85,0:05:17.24,Default,,0,0,0,,{でも四人でバレーはできない。}But we can't play with just 4 people.
-Dialogue: 0,0:05:17.24,0:05:20.10,Default,,0,0,0,,{あのふたりをなんとかしなきゃ大変なことになるわ。}It'll be bad if I don't get them back.
+Dialogue: 0,0:05:14.85,0:05:17.24,Alternative,,0,0,0,,{でも四人でバレーはできない。}But we can't play with just 4 people.
+Dialogue: 0,0:05:17.24,0:05:20.10,Alternative,,0,0,0,,{あのふたりをなんとかしなきゃ大変なことになるわ。}It'll be bad if I don't get them back.
 Dialogue: 0,0:05:24.00,0:05:27.40,Default,,0,0,0,,{んん。しかし、諦めるのはまだ早いじゃないか。}Hmm. It's still too early to give up.
 Dialogue: 0,0:05:27.40,0:05:30.69,Default,,0,0,0,,{もちろんあたしだって完全に諦めたわけじゃないけど…}I have no intention of giving up, but…
 Dialogue: 0,0:05:30.69,0:05:33.96,Default,,0,0,0,,{トレーニング大事に決めで脱落XXXのふたりも出ちゃう。}Two of them have already dropped out of training.
@@ -180,6 +180,7 @@ Dialogue: 0,0:08:23.91,0:08:25.90,Default,,0,0,0,,{人事を尽くして、天�
 Dialogue: 0,0:08:26.09,0:08:28.18,Default,,0,0,0,,{おい。親分、大変よ！}Hey! Chief, this is bad!
 Dialogue: 0,0:08:28.18,0:08:32.29,Default,,0,0,0,,{あのね、ナカXXXたちわね、バレー部に殴り込むかけに行っちゃったXXX。どうする。}Listen, Naka and the others went to attack the volleyball club. What do we do?
 Dialogue: 0,0:08:32.29,0:08:34.29,Default,,0,0,0,,{え？あたし行ってみる。}Eh? I'll go and see.
+Dialogue: 0,0:08:35.41,0:08:36.94,Sign,,0,0,0,,{バレー部}Volleyball club room
 Dialogue: 0,0:08:35.86,0:08:38.43,Default,,0,0,0,,{さ、皆、なんとか言ったらどうなのよ。}Why do you go around saying whatever you please?
 Dialogue: 0,0:08:38.43,0:08:42.05,Default,,0,0,0,,{なによ。退学なった人は退学なったって何が悪いのよ。}What's wrong with calling expulsion for what it is.
 Dialogue: 0,0:08:42.05,0:08:44.93,Default,,0,0,0,,{でも、何もそんな言い触らしないでもいいでしょう。}Even if she was expelled, that's no reason to spread it.
@@ -344,9 +345,9 @@ Dialogue: 0,0:15:49.17,0:15:52.21,Default,,0,0,0,,{絶対途中音を上げな�
 Dialogue: 0,0:15:52.21,0:15:55.26,Default,,0,0,0,,{じゃ、今日から一ヶ月みっちりトレーニングよ。}Then, from today, it's one month of strict training.
 Dialogue: 0,0:15:55.26,0:15:55.91,Default,,0,0,0,,{いいわね？}Got it?
 Dialogue: 0,0:15:55.91,0:15:57.34,Default,,0,0,0,,{—OK！\N—OK！}– Okay!\N– Okay!
-Dialogue: 0,0:15:58.94,0:16:00.19,Default,,0,0,0,,{これでいいわ。}This should be good.
-Dialogue: 0,0:16:00.19,0:16:02.24,Default,,0,0,0,,{後試合を勝つだけだ。}All that's left is to win the match.
-Dialogue: 0,0:16:02.24,0:16:07.40,Default,,0,0,0,,{そうすれば、この人達だって自身が付くし、何もかもうまくいくわ。}If we win, it will give these girls the confidence they need and everything will go well.
+Dialogue: 0,0:15:58.94,0:16:00.19,Alternative,,0,0,0,,{これでいいわ。}This should be good.
+Dialogue: 0,0:16:00.19,0:16:02.24,Alternative,,0,0,0,,{後試合を勝つだけだ。}All that's left is to win the match.
+Dialogue: 0,0:16:02.24,0:16:07.40,Alternative,,0,0,0,,{そうすれば、この人達だって自身が付くし、何もかもうまくいくわ。}If we win, it will give these girls the confidence they need and everything will go well.
 Dialogue: 0,0:16:09.72,0:16:12.60,Default,,0,0,0,,{一二！一二！一二！一二！}One-two! One-two!\NOne-two! One-two!
 Dialogue: 0,0:16:24.36,0:16:27.93,Default,,0,0,0,,{さ！じゃ、いよいよ今日からボールをつかっての練習よ。}All right. From today we'll focus on handling the ball.
 Dialogue: 0,0:16:27.93,0:16:30.32,Default,,0,0,0,,{敵に勝つ方法がただ一つ。}There's only one rule to winning.
@@ -363,8 +364,8 @@ Dialogue: 0,0:16:50.99,0:16:52.29,Default,,0,0,0,,{じゃ、往復、行くわ�
 Dialogue: 0,0:16:52.29,0:16:53.15,Default,,0,0,0,,{はい。}Okay.
 Dialogue: 0,0:16:55.96,0:16:57.29,Default,,0,0,0,,{行くわよ。}Here I go.
 Dialogue: 0,0:16:58.00,0:17:00.22,Default,,0,0,0,,{—あ—痛い。\N—ごめん。}– It hurts.\N– I'm sorry.
-Dialogue: 0,0:17:11.52,0:17:12.81,Default,,0,0,0,,{いいわ。}Good.
-Dialogue: 0,0:17:12.81,0:17:16.55,Default,,0,0,0,,{これだけファイトXXXば一ヶ月でも間に合えるかもしれない。}If they stay this inspired for a month, we might make it.
+Dialogue: 0,0:17:11.52,0:17:12.81,Alternative,,0,0,0,,{いいわ。}Good.
+Dialogue: 0,0:17:12.81,0:17:16.55,Alternative,,0,0,0,,{これだけファイトXXXば一ヶ月でも間に合えるかもしれない。}If they stay this inspired for a month, we might make it.
 Dialogue: 0,0:17:17.07,0:17:18.75,Default,,0,0,0,,{XXX}
 Dialogue: 0,0:17:20.15,0:17:22.28,Default,,0,0,0,,{ダメダメ、そんなことじゃ。}This won't cut it.
 Dialogue: 0,0:17:22.28,0:17:23.55,Default,,0,0,0,,{じゃ、いくわよ。}All right, here goes!
@@ -376,8 +377,8 @@ Dialogue: 0,0:17:51.47,0:17:52.23,Default,,0,0,0,,{それ。}Here!
 Dialogue: 0,0:18:00.04,0:18:01.08,Default,,0,0,0,,{しっかり、しっかり。}Pull it together.
 Dialogue: 0,0:18:01.08,0:18:01.97,Default,,0,0,0,,{XXX}
 Dialogue: 0,0:18:05.85,0:18:06.87,Default,,0,0,0,,{ほら、XXX／頑張って。／立って。}Come on, stand up.
-Dialogue: 0,0:18:10.54,0:18:12.27,Default,,0,0,0,,{XXX}They're really giving their best.
-Dialogue: 0,0:18:12.27,0:18:15.02,Default,,0,0,0,,{この女子だと何か行けるかもしれないわ。}These girls are full of potential.
+Dialogue: 0,0:18:10.54,0:18:12.27,Alternative,,0,0,0,,{XXX}They're really giving their best.
+Dialogue: 0,0:18:12.27,0:18:15.02,Alternative,,0,0,0,,{この女子だと何か行けるかもしれないわ。}These girls are full of potential.
 Dialogue: 0,0:18:16.53,0:18:17.64,Default,,0,0,0,,{痛い。}It hurts.
 Dialogue: 0,0:18:17.64,0:18:21.02,Default,,0,0,0,,{あ、指が右に倒れた。XXX}Ah, my finger twisted to the right.
 Dialogue: 0,0:18:21.02,0:18:23.01,Default,,0,0,0,,{え？何言ってるの。}Huh? What are you saying.
@@ -423,9 +424,9 @@ Dialogue: 0,0:19:58.10,0:19:59.10,Default,,0,0,0,,{XXX}Got it!
 Dialogue: 0,0:19:59.60,0:20:00.53,Default,,0,0,0,,{それ！}Here!
 Dialogue: 0,0:20:03.16,0:20:04.32,Default,,0,0,0,,{もう行くよ！}One more time!
 Dialogue: 0,0:20:21.76,0:20:23.07,Default,,0,0,0,,{頑張って、頑張って。}Do your best, do your best!
-Dialogue: 0,0:20:29.56,0:20:30.76,Default,,0,0,0,,{後三日。}Three days left.
-Dialogue: 0,0:20:30.76,0:20:33.86,Default,,0,0,0,,{技術XXXできるはこのファイトXXXだけわ。}Now that they mastered basic techniques, the match is on.
-Dialogue: 0,0:20:33.86,0:20:36.51,Default,,0,0,0,,{絶対に…絶対に勝って見せるわ。}We will win without fail.
+Dialogue: 0,0:20:29.56,0:20:30.76,Alternative,,0,0,0,,{後三日。}Three days left.
+Dialogue: 0,0:20:30.76,0:20:33.86,Alternative,,0,0,0,,{技術XXXできるはこのファイトXXXだけわ。}Now that they mastered basic techniques, the match is on.
+Dialogue: 0,0:20:33.86,0:20:36.51,Alternative,,0,0,0,,{絶対に…絶対に勝って見せるわ。}We will win without fail.
 Dialogue: 0,0:20:40.12,0:20:42.80,Default,,0,0,0,,{なんですって、つとむちゃん？こずえちゃんはバレーボールを？}What do you mean, Tsutomu-chan? Kozue-chan plays volleyball?
 Dialogue: 0,0:20:42.80,0:20:43.49,Default,,0,0,0,,{うん。}Yep.
 Dialogue: 0,0:20:43.49,0:20:46.68,Default,,0,0,0,,{バレー部相手にやるんだって、XXXよ。}She's taken the volleyball club on.
@@ -471,20 +472,20 @@ Dialogue: 0,0:22:09.45,0:22:10.75,Default,,0,0,0,,{こずえ…}Kozue.
 Dialogue: 0,0:22:11.32,0:22:12.34,Default,,0,0,0,,{ね、こずえちゃん…}Hey, Kozue-chan.
 Dialogue: 0,0:22:13.00,0:22:14.23,Default,,0,0,0,,{分かったでしょう?}You understand, right?
 Dialogue: 0,0:22:14.23,0:22:17.83,Default,,0,0,0,,{とにかく、お医者様の所いって、レントゲンを撮って貰いましょう、ね？}For time being, at least let's take a radiograph, okay?
-Dialogue: 0,0:22:29.98,0:22:31.14,Default,,0,0,0,,{どうしよう？}What should I do?
-Dialogue: 0,0:22:31.14,0:22:33.54,Default,,0,0,0,,{もしレントゲンにXXXあったら…}What if something shows up on the radiograph…
+Dialogue: 0,0:22:29.98,0:22:31.14,Alternative,,0,0,0,,{どうしよう？}What should I do?
+Dialogue: 0,0:22:31.14,0:22:33.54,Alternative,,0,0,0,,{もしレントゲンにXXXあったら…}What if something shows up on the radiograph…
 Dialogue: 0,0:22:35.42,0:22:36.12,Default,,0,0,0,,{こずえ。}Kozue.
 Dialogue: 0,0:22:37.08,0:22:38.31,Default,,0,0,0,,{あーはい！}Y-Yes!
-Dialogue: 0,0:22:38.57,0:22:40.31,Default,,0,0,0,,{富士病院}《Fuji Hospital》
+Dialogue: 0,0:22:38.62,0:22:42.30,Sign,,0,0,0,,{\fad(0,1780)}{富士病院}Fuji Hospital
 Dialogue: 0,0:22:43.02,0:22:44.54,Default,,0,0,0,,{先生遅すぎるわ。}The doctor is taking too long.
 Dialogue: 0,0:22:44.54,0:22:46.55,Default,,0,0,0,,{ね、あたし…むー胸がドキドキして…}My heart is pumping.
 Dialogue: 0,0:22:46.55,0:22:48.92,Default,,0,0,0,,{お前がドキドキすることはXXXない。}Worrying now won't do any good.
 Dialogue: 0,0:22:48.92,0:22:50.39,Default,,0,0,0,,{もうすぐ結果を分かる。}We'll know the results soon.
 Dialogue: 0,0:22:50.39,0:22:51.68,Default,,0,0,0,,{落ち着くんだ。}Calm down.
-Dialogue: 0,0:22:53.74,0:22:56.28,Default,,0,0,0,,{その結果な「ノ」出たら、どうしよう？}What will I do, if the results turn out to be a "no"?
-Dialogue: 0,0:22:56.28,0:22:58.35,Default,,0,0,0,,{何もかも終わりだわ。}Everything will be over.
-Dialogue: 0,0:22:58.35,0:23:05.10,Default,,0,0,0,,{あんなに張り切ってXXX柏木さんたちグループのXXXも動力も…希望も…皆の夢…}Kashiwagi-san's group's energy… their spirit… their hopes… our dream…
-Dialogue: 0,0:23:06.62,0:23:10.92,Default,,0,0,0,,{あたしを寝台して京間でついてきてくれた皆に…なんと言ったら謝ればいいの？}After they made me their coach and followed me this far, how will I apologize to them?
+Dialogue: 0,0:22:53.74,0:22:56.28,Alternative,,0,0,0,,{その結果な「ノ」出たら、どうしよう？}What will I do, if the results turn out to be a "no"?
+Dialogue: 0,0:22:56.28,0:22:58.35,Alternative,,0,0,0,,{何もかも終わりだわ。}Everything will be over.
+Dialogue: 0,0:22:58.35,0:23:05.10,Alternative,,0,0,0,,{あんなに張り切ってXXX柏木さんたちグループのXXXも動力も…希望も…皆の夢…}Kashiwagi-san's group's energy… their spirit… their hopes… our dream…
+Dialogue: 0,0:23:06.62,0:23:10.92,Alternative,,0,0,0,,{あたしを寝台して京間でついてきてくれた皆に…なんと言ったら謝ればいいの？}After they made me their coach and followed me this far, how will I apologize to them?
 Dialogue: 0,0:23:17.16,0:23:18.15,Default,,0,0,0,,{あゆはらさん。}Ayuhara-san.
 Dialogue: 0,0:23:19.98,0:23:21.42,Default,,0,0,0,,{お待たせしました。}Sorry to keep you waiting.
 Dialogue: 0,0:23:21.94,0:23:23.01,Default,,0,0,0,,{いかがでしょう？}How is it?
