@@ -23,6 +23,7 @@ Style: Alternative,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7
 Style: Lyrics EN,Gotham Rounded Medium,43,&H00BFF6FF,&H8C7A8688,&H00202020,&H7F202020,-1,0,0,0,94,100,0,0,1,3,0,2,36,36,36,1
 Style: Lyrics JP,Source Han Sans CN,45,&H00BFF6FF,&H0097F0F8,&H00202020,&H7F101010,-1,0,0,0,90,100,0,0,1,3,0,2,36,36,36,1
 Style: Sign,Gotham Rounded Medium,43,&H009AFBDC,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,8,36,36,36,1
+Style: Blackboard,Etelka Text Pro,43,&H00CDD1D2,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -63,12 +64,13 @@ Dialogue: 0,0:01:00.68,0:01:08.82,Lyrics EN,,0,0,0,,…under the blue sky, I jus
 Dialogue: 0,0:01:08.82,0:01:16.98,Lyrics EN,,0,0,0,,Attack! Attack! Number 1!
 Dialogue: 0,0:01:16.98,0:01:26.12,Lyrics EN,,0,0,0,,Attack! Attack! Number 1!
 Dialogue: 0,0:01:32.61,0:01:40.03,Default,,0,0,0,,{涙に映える夕陽}—Episode 011—\NTears sparkling in sunrise
+Dialogue: 0,0:01:40.03,0:01:44.87,Sign,,0,0,0,,{\1c&H141414&\3c&H141414&\t(0,2000,\1c&H9AFBDC&\3c&H202020&)}{喫茶店アリス}Coffee Shop "Alice"
 Dialogue: 0,0:01:52.80,0:01:54.01,Default,,0,0,0,,{ありがとうございました。}Thank you very much.
 Dialogue: 0,0:01:57.76,0:01:58.26,Default,,0,0,0,,{あ！}Ah.
 Dialogue: 0,0:02:00.97,0:02:01.60,Default,,0,0,0,,{いいわ。}It's okay.
 Dialogue: 0,0:02:04.89,0:02:06.31,Default,,0,0,0,,{やっぱり来たわね。}They did come after all.
 Dialogue: 0,0:02:06.31,0:02:09.02,Default,,0,0,0,,{一緒にいたのは東海中学のバレー部よ。}She brought the girls from Toukai's volleyball club.
-Dialogue: 0,0:02:16.61,0:02:20.99,Default,,0,0,0,,{元浜紀中四天王の泉さんはあたしたちに一体何の話があるって言うの？}What does the former member of Hamaki's Big Four want from us?
+Dialogue: 0,0:02:16.61,0:02:20.99,Default,,0,0,0,,{元浜紀中四天王の泉さんはあたしたちに一体何の話があるって言うの？}What does the former member of\hthe\hHamaki's Big Four want from us?
 Dialogue: 0,0:02:20.99,0:02:21.91,Default,,0,0,0,,{早く言って。}Please tell us.
 Dialogue: 0,0:02:23.83,0:02:27.62,Default,,0,0,0,,{それもあたしたちのバレー部のためになる話Xなんて何なの？}What was this talk important for our club?
 Dialogue: 0,0:02:28.29,0:02:29.33,Default,,0,0,0,,{実は…}Actually…
@@ -94,8 +96,8 @@ Dialogue: 0,0:03:06.29,0:03:07.79,Default,,0,0,0,,{本当に涙が出るわ。}I
 Dialogue: 0,0:03:08.33,0:03:09.00,Default,,0,0,0,,{んん…}Hmm.
 Dialogue: 0,0:03:09.41,0:03:11.04,Default,,0,0,0,,{分かるわ、気持ち。}You have my sympathy.
 Dialogue: 0,0:03:11.04,0:03:11.79,Default,,0,0,0,,{それで？}What happened next?
-Dialogue: 0,0:03:14.59,0:03:18.80,Default,,0,0,0,,{その張本人は鮎原こずえと早川みどりなの。}The originators were Ayuhara Kozue and Hayakawa Midori.
-Dialogue: 0,0:03:18.80,0:03:22.59,Default,,0,0,0,,{二人は富士見学園バレー部を自分たちだけのものにしておきたいのよ。}These two want to keep Fujimi Academy's volleyball club to themselves.
+Dialogue: 0,0:03:14.59,0:03:18.80,Default,,0,0,0,,{その張本人は鮎原こずえと早川みどりなの。}The originators were Ayuhara\hKozue and Hayakawa\hMidori.
+Dialogue: 0,0:03:18.80,0:03:22.59,Default,,0,0,0,,{二人は富士見学園バレー部を自分たちだけのものにしておきたいのよ。}These two want to keep Fujimi\hAcademy's volleyball club to themselves.
 Dialogue: 0,0:03:23.05,0:03:24.80,Default,,0,0,0,,{ま。何てこと！}What a thing to say!
 Dialogue: 0,0:03:25.64,0:03:26.22,Default,,0,0,0,,{しい！}Shh!
 Dialogue: 0,0:03:26.93,0:03:27.89,Default,,0,0,0,,{静に。}Be quiet.
@@ -108,43 +110,47 @@ Dialogue: 0,0:03:46.08,0:03:46.91,Default,,0,0,0,,{だから…}That's my reason
 Dialogue: 0,0:03:46.91,0:03:50.46,Default,,0,0,0,,{あしたの決勝戦を是非あんたたちに勝ってもらいたいのよ。}That's why I'd like you to win the tomorrow's match.
 Dialogue: 0,0:03:50.46,0:03:51.46,Default,,0,0,0,,{それでね…}To ensure it…
 Dialogue: 0,0:03:52.46,0:03:55.59,Default,,0,0,0,,{富士見学園の作戦とメンバーを欠点を教えるわね。}…I will tell you the Fujimi's strategy and members' weak points.
-Dialogue: 0,0:04:02.34,0:04:04.30,Default,,0,0,0,,{この六人はレギュラーメンバーよ。}These six are their regular members.
+Dialogue: 0,0:04:02.34,0:04:04.30,Default,,0,0,0,,{この六人はレギュラーメンバーよ。}These six are their regulars.
 Dialogue: 0,0:04:06.51,0:04:09.85,Default,,0,0,0,,{鮎原と早川と二人は決定的にマークすること。いい？}By all means, you need to mark both Ayuhara and Hayakawa.
 Dialogue: 0,0:04:11.56,0:04:13.60,Default,,0,0,0,,{香取は(XX・前方のはうまいけど…}Katori's aim is precise.
 Dialogue: 0,0:04:13.60,0:04:15.27,Default,,0,0,0,,{(XXX・左右)は弱いわ。}But she's weak with side attacks.
 Dialogue: 0,0:04:15.27,0:04:17.44,Default,,0,0,0,,{得に左をつけば絶対よ。}Her right side is particularly bad.
 Dialogue: 0,0:04:17.44,0:04:18.65,Default,,0,0,0,,{それから、工藤はね…}Moving on to Kudou.
 Dialogue: 0,0:04:19.90,0:04:21.03,Default,,0,0,0,,{なんて卑怯な。}How low!
-Dialogue: 0,0:04:21.03,0:04:25.91,Default,,0,0,0,,{いくらあたしたちを勝たしたくないから、一緒にやってきたチームメイトまで裏切るなんて…}No matter how much she wants to see us fail, betraying her friends is unthinkable.
+Dialogue: 0,0:04:21.03,0:04:25.91,Default,,0,0,0,,{いくらあたしたちを勝たしたくないから、一緒にやってきたチームメイトまで裏切るなんて…}No matter how much she wants to see us fail,\Nbetraying her friends is unthinkable.
 Dialogue: 0,0:04:30.41,0:04:31.66,Default,,0,0,0,,{どうする？}What do we do?
 Dialogue: 0,0:04:31.66,0:04:32.50,Default,,0,0,0,,{やる？}Do we stop them?
 Dialogue: 0,0:04:33.08,0:04:33.75,Default,,0,0,0,,{んん。}Nah.
-Dialogue: 0,0:04:33.75,0:04:37.75,Default,,0,0,0,,{今彼女取っちめりより、先ず明日の決勝戦に勝つことよ。}Rather than taking them on now, we should focus on the tomorrow's match.
+Dialogue: 0,0:04:33.75,0:04:37.75,Default,,0,0,0,,{今彼女取っちめりより、先ず明日の決勝戦に勝つことよ。}Rather than taking them on now, we\hshould focus on the tomorrow's match.
 Dialogue: 0,0:04:37.75,0:04:38.21,Default,,0,0,0,,{うん。}Yeah.
-Dialogue: 0,0:04:39.21,0:04:40.30,Default,,0,0,0,,{負けるもんか。}We won't lose.
+Dialogue: 0,0:04:39.21,0:04:40.30,Alternative,,0,0,0,,{負けるもんか。}We won't lose.
+Dialogue: 0,0:04:41.80,0:04:45.84,Sign,,0,0,0,,{\fscx90\fscy90}{東海地区中学校バレー選手権大会\N市立体育館}Toukai district middle school volleyball championship\NCity Gym
 Dialogue: 0,0:04:47.76,0:04:48.30,Default,,0,0,0,,{それ！}
 Dialogue: 0,0:04:48.60,0:04:48.93,Default,,0,0,0,,{はい。}
 Dialogue: 0,0:04:50.56,0:04:51.06,Default,,0,0,0,,{はい！}
 Dialogue: 0,0:04:51.93,0:04:52.98,Default,,0,0,0,,{あ…苦しい。}Ah, how frustrating.
 Dialogue: 0,0:04:52.98,0:04:54.02,Default,,0,0,0,,{いいぞ。XXX。}Good going!
 Dialogue: 0,0:04:54.60,0:04:56.10,Default,,0,0,0,,{頑張れ！}Do your best!
+Dialogue: 0,0:04:56.31,0:04:57.31,Blackboard,,0,0,0,,{富士見中・東海中}Fujimi ・ Toukai
 Dialogue: 0,0:04:57.56,0:05:01.11,Default,,0,0,0,,{又も、キャプテン鮎原こずえのスパイクが見事決まりました。}Yet another captain Ayuhara Kozue's splendid spike hits the court.
-Dialogue: 0,0:05:01.11,0:05:07.62,Default,,0,0,0,,{全日本女子中学バレー部をXXXは予選の決勝に来て、富士見学園の猛攻が爆発XXX漢字で。}Having advanced to the All-Japan's final district qualifying match, Fujimi Academy continues to attack fiercely.
+Dialogue: 0,0:05:01.11,0:05:04.72,Default,,0,0,0,,{全日本女子中学バレー部をXXXは予選の決勝に来て、}Having advanced to the All-Japan's final district qualifying match…
+Dialogue: 0,0:05:04.72,0:05:07.62,Default,,0,0,0,,{富士見学園の猛攻が爆発XXX漢字で。}…Fujimi Academy continues to attack fiercely.
 Dialogue: 0,0:05:09.70,0:05:10.62,Default,,0,0,0,,{いいぞ！}Good!
-Dialogue: 0,0:05:13.41,0:05:17.58,Default,,0,0,0,,{昨日の曽根中学との大戦で、あれほどXXX富士見学園とは思うありません。}Today's Fujimi's power cannot be compared with yesterday's match with Sone.
+Dialogue: 0,0:05:13.41,0:05:17.58,Default,,0,0,0,,{昨日の曽根中学との大戦で、あれほどXXX富士見学園とは思うありません。}Today's Fujimi's performance cannot be compared to yesterday's match with Sone.
 Dialogue: 0,0:05:20.88,0:05:21.21,Default,,0,0,0,,{えい！}
 Dialogue: 0,0:05:21.80,0:05:22.46,Default,,0,0,0,,{あい。}
 Dialogue: 0,0:05:22.71,0:05:23.84,Default,,0,0,0,,{ほらほら、何よ。}What are you doing.
-Dialogue: 0,0:05:24.80,0:05:27.01,Default,,0,0,0,,{ワアアイ！}Waai!
+Dialogue: 0,0:05:24.80,0:05:27.05,Default,,0,0,0,,{ワアアイ！}Yay!
+Dialogue: 0,0:05:27.05,0:05:28.51,Blackboard,,0,0,0,,{富士見中・東海中}Fujimi ・ Toukai
 Dialogue: 0,0:05:30.10,0:05:30.76,Default,,0,0,0,,{頑張って！}Good luck.
 Dialogue: 0,0:05:31.89,0:05:33.39,Default,,0,0,0,,{いいぞ、鮎原さん！}Good going, Ayuhara-san!
 Dialogue: 0,0:05:33.39,0:05:34.39,Default,,0,0,0,,{その調子だ！}Keep it up!
 Dialogue: 0,0:05:35.31,0:05:36.56,Default,,0,0,0,,{頑張れぇぇえ！}Do your best!
-Dialogue: 0,0:05:39.94,0:05:41.48,Default,,0,0,0,,{どうしたXか。}What's going on?
-Dialogue: 0,0:05:41.48,0:05:42.65,Default,,0,0,0,,{作戦を変えた。}The strategy was changed.
-Dialogue: 0,0:05:42.65,0:05:45.44,Default,,0,0,0,,{丸でこっちの計画をXXX。}It's almost as if they figured out my plan.
-Dialogue: 0,0:05:45.44,0:05:47.91,Default,,0,0,0,,{それにしても、鮎原こずえは強いわ。}At any rate, Ayuhara Kozue sure is strong.
-Dialogue: 0,0:05:48.53,0:05:50.28,Default,,0,0,0,,{だからあたしはあんたを憎いんだ。}That's why I hate you so much.
+Dialogue: 0,0:05:39.94,0:05:41.48,Alternative,,0,0,0,,{どうしたXか。}What's going on?
+Dialogue: 0,0:05:41.48,0:05:42.65,Alternative,,0,0,0,,{作戦を変えた。}The strategy was changed.
+Dialogue: 0,0:05:42.65,0:05:45.44,Alternative,,0,0,0,,{丸でこっちの計画をXXX。}It's almost as if they figured out my plan.
+Dialogue: 0,0:05:45.44,0:05:47.91,Alternative,,0,0,0,,{それにしても、鮎原こずえは強いわ。}At any rate, Ayuhara Kozue sure is strong.
+Dialogue: 0,0:05:48.53,0:05:50.28,Alternative,,0,0,0,,{だからあたしはあんたを憎いんだ。}That's why I hate you so much.
 Dialogue: 0,0:05:56.58,0:05:58.83,Default,,0,0,0,,{(XXX・なのついたではね)裏をかかれてさ。}Looks like shuffling the attacks paid off.
 Dialogue: 0,0:05:58.83,0:06:00.50,Default,,0,0,0,,{このままでいただきね。}At this rate we've already won.
 Dialogue: 0,0:06:00.50,0:06:03.09,Default,,0,0,0,,{開いても全日本の大会出るために必死よ。}The opponent has trained for All-Japan games too.
@@ -166,11 +172,12 @@ Dialogue: 0,0:06:36.70,0:06:37.33,Default,,0,0,0,,{それ！}
 Dialogue: 0,0:06:37.79,0:06:38.71,Default,,0,0,0,,{ちょっと！}Whoa!
 Dialogue: 0,0:06:39.12,0:06:39.71,Default,,0,0,0,,{Xよ！}Maria!
 Dialogue: 0,0:06:40.75,0:06:41.17,Default,,0,0,0,,{はい。}
-Dialogue: 0,0:06:42.42,0:06:42.63,Default,,0,0,0,,{あ！}Ah!
+Dialogue: 0,0:06:42.42,0:06:42.67,Default,,0,0,0,,{あ！}Ah!
 Dialogue: 0,0:06:43.75,0:06:44.42,Default,,0,0,0,,{みどり！}Midori!
 Dialogue: 0,0:06:44.42,0:06:44.88,Default,,0,0,0,,{はい！}
 Dialogue: 0,0:06:47.01,0:06:47.38,Default,,0,0,0,,{それ！}
-Dialogue: 0,0:06:54.18,0:06:55.68,Default,,0,0,0,,{ワアアイ！}Waai!
+Dialogue: 0,0:06:51.64,0:06:52.89,Blackboard,,0,0,0,,{富士見中・東海中}Fujimi ・ Toukai
+Dialogue: 0,0:06:54.18,0:06:55.68,Default,,0,0,0,,{ワアアイ！}Yay!
 Dialogue: 0,0:07:01.56,0:07:02.61,Default,,0,0,0,,{ヤホオ！}Yahoo!
 Dialogue: 0,0:07:02.61,0:07:04.69,Default,,0,0,0,,{勝ったわ、勝ったわ！}We won, we won!
 Dialogue: 0,0:07:04.69,0:07:05.48,Default,,0,0,0,,{よかった！}I'm glad.
@@ -211,7 +218,7 @@ Dialogue: 0,0:09:02.18,0:09:02.77,Default,,0,0,0,,{来た！}She's here!
 Dialogue: 0,0:09:02.77,0:09:03.48,Default,,0,0,0,,{来たわよ。}She's here.
 Dialogue: 0,0:09:08.36,0:09:08.98,Default,,0,0,0,,{ほ？}Oh?
 Dialogue: 0,0:09:08.98,0:09:09.57,Default,,0,0,0,,{泉くん！}Izumi-kun!
-Dialogue: 0,0:09:09.94,0:09:12.74,Default,,0,0,0,,{泉さんは一体どんな人か、見せてあげるわ。}We'll show you what kind of person Izumi-san is really like.
+Dialogue: 0,0:09:09.94,0:09:12.74,Default,,0,0,0,,{泉さんは一体どんな人か、見せてあげるわ。}We'll show you what kind of\hperson Izumi-san is really like.
 Dialogue: 0,0:09:12.74,0:09:13.32,Default,,0,0,0,,{へ？}Huh?
 Dialogue: 0,0:09:26.08,0:09:26.75,Default,,0,0,0,,{泉さん。}Izumi-san.
 Dialogue: 0,0:09:26.75,0:09:27.29,Default,,0,0,0,,{は？}Ah?
@@ -223,11 +230,11 @@ Dialogue: 0,0:09:40.22,0:09:41.51,Default,,0,0,0,,{笑えせないでよ。}Don'
 Dialogue: 0,0:09:41.51,0:09:44.39,Default,,0,0,0,,{今日勝ったことそんなにあたしに自慢したいの？}Do you really want to boast to me this badly?
 Dialogue: 0,0:09:44.39,0:09:47.23,Default,,0,0,0,,{それでこんな所であたしを待ち伏せていたのね。}You even came to ambush me in such a place.
 Dialogue: 0,0:09:47.23,0:09:48.31,Default,,0,0,0,,{そうなの？}That must be it.
-Dialogue: 0,0:09:48.31,0:09:49.48,Default,,0,0,0,,{それにさ。}Furthermore…
+Dialogue: 0,0:09:48.31,0:09:49.48,Default,,0,0,0,,{それにさ。}But anyway…
 Dialogue: 0,0:09:49.48,0:09:51.86,Default,,0,0,0,,{勝ったと言っても、XXXじゃない？}Even if you won, what of it?
-Dialogue: 0,0:09:51.86,0:09:55.65,Default,,0,0,0,,{全国大会でまた今日のようにうまく行くと思ったら、とんでもない間違いよ。}If you think the tournament will be as easy as today, you're terribly mistaken.
+Dialogue: 0,0:09:51.86,0:09:55.65,Default,,0,0,0,,{全国大会でまた今日のようにうまく行くと思ったら、とんでもない間違いよ。}If you think the tournament will be as\heasy as today, you're terribly mistaken.
 Dialogue: 0,0:09:56.82,0:09:57.74,Default,,0,0,0,,{そう？}Is that so?
-Dialogue: 0,0:09:57.74,0:09:59.66,Default,,0,0,0,,{そんなにあたしたちを負けたXいの？}Wanna see us lose so much?
+Dialogue: 0,0:09:57.74,0:09:59.66,Default,,0,0,0,,{そんなにあたしたちを負けたXいの？}Do you want to see us lose so much?
 Dialogue: 0,0:10:02.87,0:10:06.87,Default,,0,0,0,,{あんたたちの勝とうや負けようか、あたしには全然関係のないことよ。}Whether you win or lose doesn't concern me.
 Dialogue: 0,0:10:06.87,0:10:09.67,Default,,0,0,0,,{あたしはもうバレー部員じゃないんですから。そうでしょう？}I'm not in your club anymore. Remember?
 Dialogue: 0,0:10:09.67,0:10:10.63,Default,,0,0,0,,{惚けないでよ！}Don't play dumb!
@@ -236,7 +243,7 @@ Dialogue: 0,0:10:12.63,0:10:14.42,Default,,0,0,0,,{どこまで惚けるつも�
 Dialogue: 0,0:10:15.97,0:10:17.30,Default,,0,0,0,,{涼しいわね。}This is absurd.
 Dialogue: 0,0:10:17.30,0:10:20.55,Default,,0,0,0,,{スパイのまでなんかしたのは一体どこのだれなの?}Who did you spy for and for how long?
 Dialogue: 0,0:10:20.55,0:10:21.89,Default,,0,0,0,,{スパイ？}Spy?
-Dialogue: 0,0:10:21.89,0:10:23.56,Default,,0,0,0,,{変な言い掛かりよしてよ。}Don't make accusations.
+Dialogue: 0,0:10:21.89,0:10:23.56,Default,,0,0,0,,{変な言い掛かりよしてよ。}Don't make weird accusations.
 Dialogue: 0,0:10:24.18,0:10:27.69,Default,,0,0,0,,{泉さん、昨日あたしたちはあなたと同じ喫茶店にいたのよ。}Izumi-san. We went to the same coffee shop yesterday as you.
 Dialogue: 0,0:10:28.14,0:10:31.81,Default,,0,0,0,,{あなたが東海中学のバレー部の人達と話してる時に。}We saw you meet girls from the Toukai's volleyball club.
 Dialogue: 0,0:10:31.81,0:10:32.44,Default,,0,0,0,,{え？}Eh?
@@ -255,7 +262,7 @@ Dialogue: 0,0:11:10.52,0:11:12.69,Default,,0,0,0,,{あんな卑怯なこと…�
 Dialogue: 0,0:11:13.69,0:11:15.82,Default,,0,0,0,,{あたしたちに負けたことはそんなに悔しいの？}Did losing to us hurt you so much?
 Dialogue: 0,0:11:16.53,0:11:19.57,Default,,0,0,0,,{だったら…だったらバレーでもつかってくればいいじゃないの？}Then why… why don't we settle it through volleyball?
 Dialogue: 0,0:11:20.03,0:11:25.74,Default,,0,0,0,,{あたしたちと一緒に…あたしたちと一緒にバレーをやってあたしたちを任すぐらい強く成ればいいじゃないの？}Why don't we work together? Why don't we play volleyball together and form a strong team?
-Dialogue: 0,0:11:29.04,0:11:29.50,Default,,0,0,0,,{泉くん。}Izumi-kun.
+Dialogue: 0,0:11:29.04,0:11:29.54,Default,,0,0,0,,{泉くん。}Izumi-kun.
 Dialogue: 0,0:11:30.25,0:11:31.79,Default,,0,0,0,,{どうしてそんなことをしたんだ？}Why did you do such thing?
 Dialogue: 0,0:11:34.50,0:11:36.05,Default,,0,0,0,,{放っといてよ。}Leave me alone.
 Dialogue: 0,0:11:36.05,0:11:38.84,Default,,0,0,0,,{あたしだって辞めたって、辞めたいじゃないわ。}Even though I quit, I didn't want to!
@@ -283,9 +290,9 @@ Dialogue: 0,0:12:38.15,0:12:39.02,Default,,0,0,0,,{手が…}My hand.
 Dialogue: 0,0:12:39.02,0:12:39.78,Default,,0,0,0,,{痛い。}It hurts…!
 Dialogue: 0,0:12:58.13,0:13:01.42,Default,,0,0,0,,{じゃ、あの時ボールが手首に当たったのは…}So she must've hurt it around that time when she hit the ball.
 Dialogue: 0,0:13:01.42,0:13:04.22,Default,,0,0,0,,{や、前から時々具合が悪かったんだよ。}Nah, it was aching from time to time even before that.
-Dialogue: 0,0:13:05.76,0:13:10.14,Default,,0,0,0,,{医者は言うにはなんでも見に手首をXX使いすぎだXXってね。}The doctor said she put too much stress on her wrist.
+Dialogue: 0,0:13:05.76,0:13:10.14,Default,,0,0,0,,{医者は言うにはなんでも見に手首をXX使いすぎだXXってね。}The doctor said she put too\hmuch stress on her wrist.
 Dialogue: 0,0:13:10.72,0:13:12.35,Default,,0,0,0,,{あ。そうだったの。}Ah. That's how it was.
-Dialogue: 0,0:13:12.85,0:13:15.85,Default,,0,0,0,,{医者にバレーボールは絶対に休むようにって言われたんでそうだ。}I heard the doctor ordered her to take a break from the volleyball.
+Dialogue: 0,0:13:12.85,0:13:15.85,Default,,0,0,0,,{医者にバレーボールは絶対に休むようにって言われたんでそうだ。}I heard the doctor ordered her to\htake a break from the volleyball.
 Dialogue: 0,0:13:16.61,0:13:18.15,Default,,0,0,0,,{だけど、泉くんはね…}But instead, Izumi-kun…
 Dialogue: 0,0:13:30.54,0:13:31.62,Default,,0,0,0,,{それ！}
 Dialogue: 0,0:13:34.83,0:13:36.37,Default,,0,0,0,,{あ。痛い。}Ah… it hurts.
@@ -313,7 +320,7 @@ Dialogue: 0,0:14:28.47,0:14:29.30,Default,,0,0,0,,{大丈夫か？}Are you okay?
 Dialogue: 0,0:14:30.30,0:14:31.26,Default,,0,0,0,,{放っといてよ！}Leave me alone.
 Dialogue: 0,0:14:31.89,0:14:34.02,Default,,0,0,0,,{あんたなんかにバレーのこと分かるもんか？}You understand nothing about volleyball.
 Dialogue: 0,0:14:34.56,0:14:36.35,Default,,0,0,0,,{今度はダムの建設だ。}This time we're constructing a dam.
-Dialogue: 0,0:14:36.35,0:14:39.06,Default,,0,0,0,,{山の中だから、今までよりXX帰XXだろう。}It's near the mountains so I won't be going home for a while.
+Dialogue: 0,0:14:36.35,0:14:39.06,Default,,0,0,0,,{山の中だから、今までよりXX帰XXだろう。}It's near the mountains so\NI won't be going home for a while.
 Dialogue: 0,0:14:39.48,0:14:42.98,Default,,0,0,0,,{お父さんがいない間、お母さんにあんまり心配をかけないよにな。}Don't make your mom worry too much when I'm out.
 Dialogue: 0,0:14:42.98,0:14:44.99,Default,,0,0,0,,{バレーの練習なんかやめるんだぞ？}You'll give up that volleyball thing, no?
 Dialogue: 0,0:14:45.78,0:14:46.32,Default,,0,0,0,,{いやよ。}I won't.
@@ -324,7 +331,7 @@ Dialogue: 0,0:14:51.49,0:14:53.12,Default,,0,0,0,,{未だ分からんのか？}D
 Dialogue: 0,0:14:53.12,0:14:55.20,Default,,0,0,0,,{医者はバレーをやっちゃいけないと言っただろ？}The doctor told you to stop, no?
 Dialogue: 0,0:14:55.91,0:14:56.54,Default,,0,0,0,,{いいな？}Okay?
 Dialogue: 0,0:14:56.54,0:14:57.29,Default,,0,0,0,,{分かったな？}Got it?
-Dialogue: 0,0:14:57.91,0:15:01.63,Default,,0,0,0,,{だれががお医者さんXXに言うように頼んだのを知ってるは。}I realized who has asked the doctor for such a diagnosis.
+Dialogue: 0,0:14:57.91,0:15:01.63,Default,,0,0,0,,{だれががお医者さんXXに言うように頼んだのを知ってるは。}I realized who has asked the\hdoctor for such a diagnosis.
 Dialogue: 0,0:15:03.00,0:15:05.17,Default,,0,0,0,,{あたしを憎んでるだれがさんが。}It's a certain someone who hates me.
 Dialogue: 0,0:15:05.71,0:15:06.92,Default,,0,0,0,,{何てことを言うんだ？}What are you saying?
 Dialogue: 0,0:15:07.30,0:15:08.26,Default,,0,0,0,,{そうなのよ。}That's right.
@@ -375,6 +382,7 @@ Dialogue: 0,0:17:26.52,0:17:27.02,Default,,0,0,0,,{ゆり！}Yuri!
 Dialogue: 0,0:17:28.44,0:17:29.02,Default,,0,0,0,,{ゆり。}Yuri.
 Dialogue: 0,0:17:29.44,0:17:31.82,Default,,0,0,0,,{バレーのできる君達は嫉ましかったんだろう。}She was jealous of you, who could play volleyball.
 Dialogue: 0,0:17:31.82,0:17:36.36,Default,,0,0,0,,{それであんなことまでして、皆を裏切って、今泉くんはどれほど辛いおもいをしてるか。}That's why she did it all and betrayed you\h– she wanted you to feel the pain too.
+Dialogue: 0,0:17:36.19,0:17:39.38,Sign,,0,0,0,,{泉}Izumi family
 Dialogue: 0,0:17:37.24,0:17:38.16,Default,,0,0,0,,{小母さん！}Ma'am!
 Dialogue: 0,0:17:40.66,0:17:41.49,Default,,0,0,0,,{小母さん。}Ma'am.
 Dialogue: 0,0:17:41.49,0:17:42.70,Default,,0,0,0,,{あ、一ノ瀬さん。}Ah, Ichinose-san.
@@ -414,8 +422,8 @@ Dialogue: 0,0:19:13.13,0:19:15.17,Default,,0,0,0,,{走り自身があったか�
 Dialogue: 0,0:19:15.42,0:19:19.13,Default,,0,0,0,,{(所が)陸上部に入ってやってみると思ったより苦しい。}However, when you joined, it turned out to be more demanding than you thought.
 Dialogue: 0,0:19:21.14,0:19:22.51,Default,,0,0,0,,{それを自身無くした。}So your motivation dropped.
 Dialogue: 0,0:19:23.22,0:19:24.22,Default,,0,0,0,,{だらしが無いのね。}What a bummer.
-Dialogue: 0,0:19:25.47,0:19:26.39,Default,,0,0,0,,{鮎原さん！}Ayuhara-san!
-Dialogue: 0,0:19:26.56,0:19:27.64,Default,,0,0,0,,{あら、どうかしたの？}What is the matter?
+Dialogue: 0,0:19:25.47,0:19:26.27,Default,,0,0,0,,{鮎原さん！}Ayuhara-san!
+Dialogue: 0,0:19:26.61,0:19:27.64,Default,,0,0,0,,{あら、どうかしたの？}What is the matter?
 Dialogue: 0,0:19:29.10,0:19:31.02,Default,,0,0,0,,{酷い言い方するのね、あなたって—}You're pretty rude!
 Dialogue: 0,0:19:31.02,0:19:32.44,Default,,0,0,0,,{だってその通りでしょう？}But I'm right, am I not?
 Dialogue: 0,0:19:32.44,0:19:34.36,Default,,0,0,0,,{天井のよ。あなたの考え方は。}Your way of thinking is naive.
@@ -435,30 +443,30 @@ Dialogue: 0,0:19:55.04,0:19:56.42,Default,,0,0,0,,{ちょうど百メートル�
 Dialogue: 0,0:20:01.93,0:20:03.76,Default,,0,0,0,,{みどりさん、スターとお願い。}Midori-san, please give us a signal.
 Dialogue: 0,0:20:03.76,0:20:04.35,Default,,0,0,0,,{いいわ。}Very well.
 Dialogue: 0,0:20:06.97,0:20:07.81,Default,,0,0,0,,{位置について。}Take positions.
-Dialogue: 0,0:20:15.23,0:20:19.94,Default,,0,0,0,,{泉さんに自身をつけさせるため、鮎原さんは負けるつもりなのかしら？}I wonder if Ayuhara-san plans to lose on purpose to help Izumi-san regain her confidence?
-Dialogue: 0,0:20:34.46,0:20:35.38,Default,,0,0,0,,{負けないわ。}I won't lose.
-Dialogue: 0,0:20:35.38,0:20:36.25,Default,,0,0,0,,{絶対勝つ。}I will surely win.
+Dialogue: 0,0:20:15.23,0:20:19.94,Alternative,,0,0,0,,{泉さんに自身をつけさせるため、鮎原さんは負けるつもりなのかしら？}I wonder if Ayuhara-san plans to lose on purpose to help Izumi-san regain her confidence?
+Dialogue: 0,0:20:34.46,0:20:35.38,Alternative,,0,0,0,,{負けないわ。}I won't lose.
+Dialogue: 0,0:20:35.38,0:20:36.25,Alternative,,0,0,0,,{絶対勝つ。}I will surely win.
 Dialogue: 0,0:20:41.13,0:20:42.09,Default,,0,0,0,,{よい！}Ready!
-Dialogue: 0,0:20:45.01,0:20:46.10,Default,,0,0,0,,{負けるもんか。}I won't lose.
-Dialogue: 0,0:20:49.43,0:20:50.31,Default,,0,0,0,,{負けないわ。}I won't lose.
-Dialogue: 0,0:20:56.56,0:20:57.52,Default,,0,0,0,,{負けるもんか！}I won't lose!
-Dialogue: 0,0:20:59.73,0:21:00.74,Default,,0,0,0,,{負けられないわ！}I can't lose!
-Dialogue: 0,0:21:05.03,0:21:06.20,Default,,0,0,0,,{負けるもんか！}I won't lose!
-Dialogue: 0,0:21:06.20,0:21:07.24,Default,,0,0,0,,{負けるもんか…！}I won't lose…!
-Dialogue: 0,0:21:07.87,0:21:08.79,Default,,0,0,0,,{負けるもんかぁ！}I won't lose…
+Dialogue: 0,0:20:45.01,0:20:46.10,Alternative,,0,0,0,,{負けるもんか。}I won't lose.
+Dialogue: 0,0:20:49.43,0:20:50.31,Alternative,,0,0,0,,{負けないわ。}I won't lose.
+Dialogue: 0,0:20:56.56,0:20:57.52,Alternative,,0,0,0,,{負けるもんか！}I won't lose!
+Dialogue: 0,0:20:59.73,0:21:00.74,Alternative,,0,0,0,,{負けられないわ！}I can't lose!
+Dialogue: 0,0:21:05.03,0:21:06.20,Alternative,,0,0,0,,{負けるもんか！}I won't lose!
+Dialogue: 0,0:21:06.20,0:21:07.24,Alternative,,0,0,0,,{負けるもんか…！}I won't lose…!
+Dialogue: 0,0:21:07.87,0:21:08.79,Alternative,,0,0,0,,{負けるもんかぁ！}I won't lose…
 Dialogue: 0,0:21:09.99,0:21:10.54,Default,,0,0,0,,{あ！}Ah!!
 Dialogue: 0,0:21:11.12,0:21:12.12,Default,,0,0,0,,{鮎原さんの勝ちだ。}Winner is Ayuhara-san.
-Dialogue: 0,0:21:12.46,0:21:15.71,Default,,0,0,0,,{わざと負けるなんて…やっぱり鮎原さんのらしくないもんね。}As expected, losing on purpose isn't Ayuhara-san's style.
+Dialogue: 0,0:21:12.46,0:21:15.71,Default,,0,0,0,,{わざと負けるなんて…やっぱり鮎原さんのらしくないもんね。}I should have known losing on\hpurpose isn't Ayuhara-san's style.
 Dialogue: 0,0:21:22.47,0:21:23.42,Default,,0,0,0,,{あたしの勝ちね。}Looks like I won.
 Dialogue: 0,0:21:26.30,0:21:27.76,Default,,0,0,0,,{どんなに苦しくても…}No matter how hard…
 Dialogue: 0,0:21:27.76,0:21:29.18,Default,,0,0,0,,{どんなに辛くても…}No matter how harsh…
 Dialogue: 0,0:21:29.18,0:21:31.60,Default,,0,0,0,,{自分の全力を(XXX・出すXXX素敵)ね。}Doing something with all your might feels great.
 Dialogue: 0,0:21:32.31,0:21:34.35,Default,,0,0,0,,{それはスポーツをする人の気持ちなのね。}It's the sensation of sportsmanship.
 Dialogue: 0,0:21:34.77,0:21:37.15,Default,,0,0,0,,{それはXXXスポーツをする資格はないわ。}People using traps aren't entitled to it.
-Dialogue: 0,0:21:38.73,0:21:43.44,Default,,0,0,0,,{お母さんのことにしても、あなたはお母さんのやさしい気持ちを分かると努力しないじゃないの。}Even though your mom cares about you, you don't understand her feelings and fight her.
+Dialogue: 0,0:21:38.73,0:21:43.44,Default,,0,0,0,,{お母さんのことにしても、あなたはお母さんのやさしい気持ちを分かると努力しないじゃないの。}Even though your mom cares about you, you\hdon't understand her feelings and fight her.
 Dialogue: 0,0:21:44.11,0:21:45.82,Default,,0,0,0,,{お母さんの気持ちも分からない。}You fight with your mom.
 Dialogue: 0,0:21:45.82,0:21:47.41,Default,,0,0,0,,{スポーツをする心も分からない。}You don't get sportsmanship.
-Dialogue: 0,0:21:48.24,0:21:52.70,Default,,0,0,0,,{そんな人は…バレーだって、陸上だって…皆やめてしまいはいいのよ。}A person like you has no business with both volleyball and track and field clubs.
+Dialogue: 0,0:21:48.24,0:21:52.70,Default,,0,0,0,,{そんな人は…バレーだって、陸上だって…皆やめてしまいはいいのよ。}A person like you has no business with either volleyball or track and field club.
 Dialogue: 0,0:21:52.70,0:21:53.87,Default,,0,0,0,,{さ。行きましょう。}Let's go.
 Dialogue: 0,0:21:58.58,0:21:59.54,Default,,0,0,0,,{鮎原さん！}Ayuhara-san!
 Dialogue: 0,0:22:01.21,0:22:02.34,Default,,0,0,0,,{あたし…}I…
@@ -467,7 +475,8 @@ Dialogue: 0,0:22:03.34,0:22:04.30,Default,,0,0,0,,{止めないわ！}I won't qu
 Dialogue: 0,0:22:10.68,0:22:11.35,Default,,0,0,0,,{泉くん。}Izumi-kun.
 Dialogue: 0,0:22:14.56,0:22:15.27,Default,,0,0,0,,{泉くん。}Izumi-kun.
 Dialogue: 0,0:22:15.81,0:22:17.48,Default,,0,0,0,,{君のこの手首はね…}It's about your wrist.
-Dialogue: 0,0:22:17.48,0:22:22.86,Default,,0,0,0,,{動脈閉塞症で、これ以上バレーを続けると、君の手首は…まったく駄目に成っちゃうんだ。}You're suffering from arterial occlusion. If you continue volleyball, your wrist will give out completely.
+Dialogue: 0,0:22:17.48,0:22:18.90,Default,,0,0,0,,{動脈閉塞症で、}You suffer from arterial occlusion.
+Dialogue: 0,0:22:18.90,0:22:22.86,Default,,0,0,0,,{これ以上バレーを続けると、君の手首は…まったく駄目に成っちゃうんだ。}If you continue volleyball,\Nyour wrist will give out completely.
 Dialogue: 0,0:22:22.86,0:22:23.61,Default,,0,0,0,,{え？}Eh?!
 Dialogue: 0,0:22:23.61,0:22:24.61,Default,,0,0,0,,{え？}Eh?
 Dialogue: 0,0:22:24.61,0:22:25.61,Default,,0,0,0,,{どう言うことなの？}What do you mean?
@@ -475,7 +484,7 @@ Dialogue: 0,0:22:26.28,0:22:28.24,Default,,0,0,0,,{もう二度とバレーは�
 Dialogue: 0,0:22:30.41,0:22:32.37,Default,,0,0,0,,{医者ははっきりそう言ったんだけど。}The doctor has made himself clear.
 Dialogue: 0,0:22:32.37,0:22:34.45,Default,,0,0,0,,{お母さんは君にそこまでは言えなかったんだよ。}But your mom couldn't tell it to you.
 Dialogue: 0,0:22:35.79,0:22:38.71,Default,,0,0,0,,{だから、半年ぐらい休めばと言うことにして、}Instead, she softened it and told you to stop for half a year.
-Dialogue: 0,0:22:38.71,0:22:42.09,Default,,0,0,0,,{君にバレーを何とかして諦めさせをおとしなんだよ。}She planned to talk you out of it somehow during that period.
+Dialogue: 0,0:22:38.71,0:22:42.09,Default,,0,0,0,,{君にバレーを何とかして諦めさせをおとしなんだよ。}She planned to talk you out of it\Nsomehow during that period.
 Dialogue: 0,0:22:49.84,0:22:50.51,Default,,0,0,0,,{泉くん。}Izumi-kun.
 Dialogue: 0,0:22:56.43,0:22:57.19,Default,,0,0,0,,{お母さん。}Mom.
 Dialogue: 0,0:23:00.23,0:23:01.27,Default,,0,0,0,,{お母さん！}Mom!
@@ -495,7 +504,7 @@ Dialogue: 0,0:23:59.96,0:24:03.42,Alternative,,0,0,0,,{富士見学園チーム�
 Dialogue: 0,0:24:03.42,0:24:04.88,Alternative,,0,0,0,,{懐かしい東京。}The nostalgic Tokyo.
 Dialogue: 0,0:24:04.88,0:24:07.63,Alternative,,0,0,0,,{こずえはXX明法学園を訪れた。}Kozue visits the Meihou Academy.
 Dialogue: 0,0:24:07.63,0:24:12.97,Alternative,,0,0,0,,{だが、明法の体育館で練習中の福岡中学を見て、XX。}In the Meihou's gym, she meets powerful peers from Fukuoka Middle School in the middle of practice.
-Dialogue: 0,0:24:12.97,0:24:16.31,Alternative,,0,0,0,,{中学生には及びもつかないレシーブを知っている戦士がいる。}Some of them know a receive technique way above middle schoolers level.
+Dialogue: 0,0:24:12.97,0:24:16.31,Alternative,,0,0,0,,{中学生には及びもつかないレシーブを知っている戦士がいる。}One of them knows a receive technique way above middle schoolers level.
 Dialogue: 0,0:24:16.31,0:24:19.10,Alternative,,0,0,0,,{こずえの自身は俄に崩れかかる。}Kozue's confidence quickly collapses.
 Dialogue: 0,0:24:19.10,0:24:22.82,Alternative,,0,0,0,,{さ、来週のアタックナンバーワンをお楽しみに。}Please look forward to the next episode.
 Dialogue: 0,0:24:39.16,0:24:43.04,Lyrics JP,,0,0,0,,{\an8}青い青い空に

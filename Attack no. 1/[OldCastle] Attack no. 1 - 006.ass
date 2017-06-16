@@ -23,6 +23,7 @@ Style: Alternative,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7
 Style: Lyrics EN,Gotham Rounded Medium,43,&H00BFF6FF,&H8C7A8688,&H00202020,&H7F202020,-1,0,0,0,94,100,0,0,1,3,0,2,36,36,36,1
 Style: Lyrics JP,Source Han Sans CN,45,&H00BFF6FF,&H0097F0F8,&H00202020,&H7F101010,-1,0,0,0,90,100,0,0,1,3,0,2,36,36,36,1
 Style: Sign,Gotham Rounded Medium,43,&H009AFBDC,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,8,36,36,36,1
+Style: Blackboard,Etelka Text Pro,43,&H00CDD1D2,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -102,10 +103,10 @@ Dialogue: 0,0:03:15.18,0:03:19.09,Default,,0,0,0,,{それで(XXX・ベスト)松
 Dialogue: 0,0:03:19.83,0:03:23.80,Default,,0,0,0,,{なー何さ。あんな練習繰り返すなら、死んでも勝ってやるわ。}W-What does he know. If we're to repeat such a practice, we'll win even if it kills us.
 Dialogue: 0,0:03:24.17,0:03:25.75,Default,,0,0,0,,{あたしも嫌よ。}I don't like it either…
 Dialogue: 0,0:03:25.75,0:03:27.77,Default,,0,0,0,,{今日みたいの練習やるなら、辞めるわ。}If this keeps up, I'll quit.
-Dialogue: 0,0:03:27.77,0:03:29.53,Default,,0,0,0,,{—そうよ。あたしも辞めるわ。\N—あたしだって。}– Yeah. Me too.\N– Me too.
+Dialogue: 0,0:03:27.77,0:03:29.17,Default,,0,0,0,,{—そうよ。あたしも辞めるわ。\N—あたしだって。}– Yeah. Me too.\N– Me too.
 Dialogue: 0,0:03:29.75,0:03:32.51,Default,,0,0,0,,{必ず勝って、二度とコーチなんかさせるもんですか。}Let's win this. Or do we want to let him coach us?
-Dialogue: 0,0:03:34.25,0:03:37.08,Default,,0,0,0,,{本郷先生はバレー部を潰すつもりなのかしら。}I wonder if professor Hongou tries to rip our club apart?
-Dialogue: 0,0:03:37.70,0:03:40.52,Default,,0,0,0,,{そうだとしたら、絶対に負けられないわ。}If that is the case, we can't lose here.
+Dialogue: 0,0:03:34.25,0:03:37.08,Alternative,,0,0,0,,{本郷先生はバレー部を潰すつもりなのかしら。}I wonder if professor Hongou tries to rip our club apart?
+Dialogue: 0,0:03:37.70,0:03:40.52,Alternative,,0,0,0,,{そうだとしたら、絶対に負けられないわ。}If that is the case, we can't lose here.
 Dialogue: 0,0:03:46.99,0:03:48.71,Default,,0,0,0,,{おい、鮎原くん！}Hey, Ayuhara-kun!
 Dialogue: 0,0:03:49.71,0:03:51.01,Default,,0,0,0,,{あ、努くん！}Ah, Tsutomu-kun!
 Dialogue: 0,0:03:51.80,0:03:55.21,Default,,0,0,0,,{今早川号から聞いたけど、相手は松島中だって？}I've heard from Hayakawa-kun that your opponent is Matsushima?
@@ -132,53 +133,53 @@ Dialogue: 0,0:04:42.32,0:04:44.59,Default,,0,0,0,,{二人とも、止せよ。�
 Dialogue: 0,0:04:44.59,0:04:47.85,Default,,0,0,0,,{その(XXX・気持ち)を松島中学との試合にぶっつけたどうなんだ？}How about postponing this fight until after the game?
 Dialogue: 0,0:04:49.24,0:04:50.80,Default,,0,0,0,,{努くんの言う通り。}Tsutomu-kun's right.
 Dialogue: 0,0:04:51.09,0:04:53.30,Default,,0,0,0,,{問題は試合に勝つことだわ。}The problem is winning the match.
-Dialogue: 0,0:04:54.67,0:04:57.74,Sign,,0,0,0,,{市立体育館}City Gym
+Dialogue: 0,0:04:54.60,0:04:57.69,Sign,,0,0,0,,{市立体育館}City Gym
 Dialogue: 0,0:05:03.87,0:05:04.77,Default,,0,0,0,,{XXX}We leave it to you.
 Dialogue: 0,0:05:08.13,0:05:08.98,Default,,0,0,0,,{頑張れ！}Do your best!
 Dialogue: 0,0:05:09.25,0:05:10.02,Default,,0,0,0,,{それ！}Here!
 Dialogue: 0,0:05:11.72,0:05:12.51,Default,,0,0,0,,{はい！}Got it!
 Dialogue: 0,0:05:12.51,0:05:13.19,Default,,0,0,0,,{プレー！}Play!
 Dialogue: 0,0:05:13.19,0:05:14.01,Default,,0,0,0,,{はい！}
-Dialogue: 0,0:05:14.65,0:05:15.51,Default,,0,0,0,,{はい！}
+Dialogue: 0,0:05:14.65,0:05:15.19,Default,,0,0,0,,{はい！}
 Dialogue: 0,0:05:15.74,0:05:17.04,Default,,0,0,0,,{これ(をXXXしなさい・渡しなさい)！}Let it go!
 Dialogue: 0,0:05:20.44,0:05:22.13,Default,,0,0,0,,{やったわね。すごいスパイク！}You did it. Amazing spike!
 Dialogue: 0,0:05:22.13,0:05:24.56,Default,,0,0,0,,{桂城さん！いいサーブ頼むわよ！}Katsuragi-san, give us a good serve.
 Dialogue: 0,0:05:24.56,0:05:25.88,Default,,0,0,0,,{任しておいて！}Leave it to me.
-Dialogue: 0,0:05:27.60,0:05:28.71,Default,,0,0,0,,{くるわよ！}It's coming.
+Dialogue: 0,0:05:27.60,0:05:28.46,Default,,0,0,0,,{くるわよ！}It's coming.
 Dialogue: 0,0:05:28.91,0:05:29.64,Default,,0,0,0,,{それ！}
 Dialogue: 0,0:05:32.18,0:05:32.52,Default,,0,0,0,,{それ！}
 Dialogue: 0,0:05:35.02,0:05:35.86,Default,,0,0,0,,{鮎原さん！}Ayuhara-san!
 Dialogue: 0,0:05:35.86,0:05:36.64,Default,,0,0,0,,{はい！}Roger.
-Dialogue: 0,0:05:41.55,0:05:44.46,Sign,,0,0,0,,{富士見中：１３\N松島中：１１}Fujimi: 13\NMatsushima: 11
+Dialogue: 0,0:05:41.48,0:05:44.46,Blackboard,,0,0,0,,{富士見中：１３\N松島中：１１}Fujimi: 13\NMatsushima: 11
 Dialogue: 0,0:05:45.95,0:05:46.86,Default,,0,0,0,,{タイム！}Time!
 Dialogue: 0,0:05:47.36,0:05:49.40,Default,,0,0,0,,{早川さん、すごいわ！その調子！}Hayakawa-san, excellent! Keep at it!
-Dialogue: 0,0:05:50.17,0:05:52.64,Default,,0,0,0,,{早川さん又悪い癖を出してるわ。}Hayakawa-san's showing her bad habit again.
-Dialogue: 0,0:05:52.64,0:05:55.04,Default,,0,0,0,,{でも、調子栄さそうだしついてる感じ。}However, it seems to work.
-Dialogue: 0,0:05:55.04,0:05:56.78,Default,,0,0,0,,{当分これで行けそうだわ。}Looks like we can pull it off.
+Dialogue: 0,0:05:50.17,0:05:52.64,Alternative,,0,0,0,,{早川さん又悪い癖を出してるわ。}Hayakawa-san's showing her bad habit again.
+Dialogue: 0,0:05:52.64,0:05:55.04,Alternative,,0,0,0,,{でも、調子栄さそうだしついてる感じ。}However, it seems to work.
+Dialogue: 0,0:05:55.04,0:05:56.78,Alternative,,0,0,0,,{当分これで行けそうだわ。}Looks like we can pull it off.
 Dialogue: 0,0:05:57.23,0:05:59.66,Default,,0,0,0,,{いいな。敵の一番早川をマークしろ。}Listen. Mark their best player, Hayakawa.
 Dialogue: 0,0:06:00.44,0:06:03.53,Default,,0,0,0,,{さっきのトスは上手かった。いいトスをどんどん投げてよね。}The last serve was good. Keep tossing to me.
 Dialogue: 0,0:06:03.53,0:06:05.38,Default,,0,0,0,,{え？あれは鮎原さんへ…}Eh? That was for Ayuhara-san.
-Dialogue: 0,0:06:07.88,0:06:09.41,Default,,0,0,0,,{これからは問題だ。}The problem starts from now.
-Dialogue: 0,0:06:09.41,0:06:11.86,Default,,0,0,0,,{確かに見違えることが処罰している。}A mistake will be fatal in consequences.
-Dialogue: 0,0:06:11.86,0:06:15.24,Default,,0,0,0,,{それを松島中は、甘く考えていたためにおされている。}They'll probably start taking Matsushima lightly.
-Dialogue: 0,0:06:15.24,0:06:18.21,Default,,0,0,0,,{しかし、この作戦タイミングには、いっても取れなくなんだろ。}The good timing will be crucial.
-Dialogue: 0,0:06:18.21,0:06:20.00,Default,,0,0,0,,{ピンチだ。教えてあげたい。}It's a pinch. I want to tell them.
+Dialogue: 0,0:06:07.88,0:06:09.41,Alternative,,0,0,0,,{これからは問題だ。}The problem starts from now.
+Dialogue: 0,0:06:09.41,0:06:11.86,Alternative,,0,0,0,,{確かに見違えることが処罰している。}A mistake will be fatal in consequences.
+Dialogue: 0,0:06:11.86,0:06:15.24,Alternative,,0,0,0,,{それを松島中は、甘く考えていたためにおされている。}They'll probably start taking Matsushima lightly.
+Dialogue: 0,0:06:15.24,0:06:18.21,Alternative,,0,0,0,,{しかし、この作戦タイミングには、いっても取れなくなんだろ。}The good timing will be crucial.
+Dialogue: 0,0:06:18.21,0:06:20.00,Alternative,,0,0,0,,{ピンチだ。教えてあげたい。}It's a pinch. I want to tell them.
 Dialogue: 0,0:06:20.87,0:06:22.43,Default,,0,0,0,,{いか。ブロックを正確に。}Make sure to block precisely.
-Dialogue: 0,0:06:23.48,0:06:25.36,Default,,0,0,0,,{相手がXXX分かっているな。}They have figured it out already.
-Dialogue: 0,0:06:27.14,0:06:29.92,Default,,0,0,0,,{安心しきった、鮎原や早川たちに教えてやりたい。}Ayuhara and Hayakawa don't know it. I want to tell them…
+Dialogue: 0,0:06:23.48,0:06:25.36,Alternative,,0,0,0,,{相手がXXX分かっているな。}They have figured it out already.
+Dialogue: 0,0:06:27.14,0:06:29.92,Alternative,,0,0,0,,{安心しきった、鮎原や早川たちに教えてやりたい。}Ayuhara and Hayakawa don't know it. I want to tell them…
 Dialogue: 0,0:06:29.92,0:06:32.25,Default,,0,0,0,,{ちょっと、あの本郷先生を見て。}Hey, look at professor Hongou.
 Dialogue: 0,0:06:33.65,0:06:37.24,Default,,0,0,0,,{あたしたちはこのまま勝ったら、いじめられないから、悲しいだのよ。}At this rate we'll win. He must be sad he won't get to bully us anymore.
 Dialogue: 0,0:06:41.25,0:06:42.70,Default,,0,0,0,,{で、本郷先生。}Hey, professor Hongou.
 Dialogue: 0,0:06:42.70,0:06:43.92,Default,,0,0,0,,{タイムアウトですよ。}It's timeout.
 Dialogue: 0,0:06:45.14,0:06:47.12,Default,,0,0,0,,{な、一本出せ！えいえいえい！}– Come on, one more!\N– Yeah, yeah, yeah!
 Dialogue: 0,0:06:48.60,0:06:49.35,Default,,0,0,0,,{それ！}
-Dialogue: 0,0:06:55.54,0:06:56.71,Default,,0,0,0,,{それ！}
+Dialogue: 0,0:06:55.54,0:06:56.09,Default,,0,0,0,,{それ！}
 Dialogue: 0,0:06:56.81,0:06:57.39,Default,,0,0,0,,{はい！}
 Dialogue: 0,0:06:58.16,0:06:59.11,Default,,0,0,0,,{鮎原さん！}Ayuhara-san.
 Dialogue: 0,0:06:59.62,0:07:00.40,Default,,0,0,0,,{あたしよ！}Me!
 Dialogue: 0,0:07:18.97,0:07:19.37,Default,,0,0,0,,{それ！}
 Dialogue: 0,0:07:21.58,0:07:22.08,Default,,0,0,0,,{はい！}
-Dialogue: 0,0:07:26.57,0:07:28.53,Sign,,0,0,0,,{富士見中：１３\N松島中：１２}Fujimi: 13\NMatsushima: 12
+Dialogue: 0,0:07:26.50,0:07:28.46,Sign,,0,0,0,,{富士見中：１３\N松島中：１２}Fujimi: 13\NMatsushima: 12
 Dialogue: 0,0:07:28.91,0:07:29.78,Default,,0,0,0,,{よしよし！}Nice, nice!
 Dialogue: 0,0:07:30.09,0:07:31.00,Default,,0,0,0,,{XXX}
 Dialogue: 0,0:07:34.40,0:07:36.22,Default,,0,0,0,,{早川さん！マークされてるわ！}Hayakawa-san, you're marked.
@@ -186,7 +187,7 @@ Dialogue: 0,0:07:36.58,0:07:38.96,Default,,0,0,0,,{何よ！未だ一点でし�
 Dialogue: 0,0:07:45.33,0:07:45.86,Default,,0,0,0,,{はい！}
 Dialogue: 0,0:07:46.21,0:07:46.52,Default,,0,0,0,,{はい。}
 Dialogue: 0,0:07:50.20,0:07:50.78,Default,,0,0,0,,{XXX・待って！}Ace!
-Dialogue: 0,0:07:55.00,0:07:56.93,Sign,,0,0,0,,{富士見中：１３\N松島中：１３}Fujimi: 13\NMatsushima: 13
+Dialogue: 0,0:07:54.95,0:07:56.87,Blackboard,,0,0,0,,{富士見中：１３\N松島中：１３}Fujimi: 13\NMatsushima: 13
 Dialogue: 0,0:07:51.94,0:07:53.94,Default,,0,0,0,,{XXX・任して！}Leave it to me!
 Dialogue: 0,0:07:57.61,0:08:00.97,Default,,0,0,0,,{無断としてダメだなっても、完全にマークされてるわ。}It's no good. She's marked perfectly.
 Dialogue: 0,0:08:00.97,0:08:03.60,Default,,0,0,0,,{今度は鮎原さんに投げてみるわ。}How about I try throwing it to you, Ayuhara-san?
@@ -194,27 +195,27 @@ Dialogue: 0,0:08:03.60,0:08:04.50,Default,,0,0,0,,{柏木さん。}Kashiwagi-san
 Dialogue: 0,0:08:05.17,0:08:07.71,Default,,0,0,0,,{あたしに投げてトスXXXおければ大丈夫よ。}Toss it to me. It'll be all right.
 Dialogue: 0,0:08:08.92,0:08:09.82,Default,,0,0,0,,{それ！}
 Dialogue: 0,0:08:10.81,0:08:11.33,Default,,0,0,0,,{はい！}
-Dialogue: 0,0:08:12.04,0:08:12.35,Default,,0,0,0,,{はい！}
+Dialogue: 0,0:08:12.04,0:08:12.57,Default,,0,0,0,,{はい！}
 Dialogue: 0,0:08:12.57,0:08:13.22,Default,,0,0,0,,{XXX}
 Dialogue: 0,0:08:13.22,0:08:13.71,Default,,0,0,0,,{はい！}
 Dialogue: 0,0:08:14.70,0:08:15.24,Default,,0,0,0,,{それ！}
 Dialogue: 0,0:08:15.24,0:08:16.30,Default,,0,0,0,,{あ、ジャンプ早い！}Ah, jump's too quick!
-Dialogue: 0,0:08:19.75,0:08:21.71,Sign,,0,0,0,,{富士見中：１３\N松島中：１４}Fujimi: 13\NMatsushima: 14
+Dialogue: 0,0:08:19.68,0:08:21.64,Blackboard,,0,0,0,,{富士見中：１３\N松島中：１４}Fujimi: 13\NMatsushima: 14
 Dialogue: 0,0:08:24.83,0:08:25.99,Default,,0,0,0,,{—XXX!\N—ナイス！}– Take this!\N– Nice!
-Dialogue: 0,0:08:33.45,0:08:35.45,Sign,,0,0,0,,{富士見中：１３\N松島中：１５}Fujimi: 13\NMatsushima: 15
-Dialogue: 0,0:08:36.72,0:08:38.02,Default,,0,0,0,,{もう勝ったね。}We won.
+Dialogue: 0,0:08:33.45,0:08:35.45,Blackboard,,0,0,0,,{富士見中：１３\N松島中：１５}Fujimi: 13\NMatsushima: 15
+Dialogue: 0,0:08:36.72,0:08:37.53,Default,,0,0,0,,{もう勝ったね。}We won.
 Dialogue: 0,0:08:38.05,0:08:39.28,Default,,0,0,0,,{よし。いいぞ、いいぞ！}All right. Good, good.
-Dialogue: 0,0:08:40.15,0:08:41.61,Default,,0,0,0,,{あんたに勝って頼む。}I let you win…
-Dialogue: 0,0:08:41.61,0:08:43.28,Default,,0,0,0,,{残念けど、このセットは負けよ。}Too bad, but this set goes to you.
+Dialogue: 0,0:08:40.15,0:08:41.61,Alternative,,0,0,0,,{あんたに勝って頼む。}I let you win…
+Dialogue: 0,0:08:41.61,0:08:43.25,Alternative,,0,0,0,,{残念けど、このセットは負けよ。}Too bad, but this set goes to you.
 Dialogue: 0,0:08:43.87,0:08:45.87,Default,,0,0,0,,{このままは次のセットも危ないわ。}At this rate the next set's dangerous too.
 Dialogue: 0,0:08:45.87,0:08:47.35,Default,,0,0,0,,{何とかしなくちゃ…}We have to do something.
 Dialogue: 0,0:08:47.35,0:08:50.53,Default,,0,0,0,,{こんな時にコーチがちゃんと指示してくれるは普通のに。}This is where the coach should come up with an advice.
 Dialogue: 0,0:08:51.50,0:08:53.30,Default,,0,0,0,,{家のコーチときたら…}But with our coach…
-Dialogue: 0,0:08:54.05,0:08:55.44,Default,,0,0,0,,{皆、ピンチだ。}Everybody, it's a pinch.
-Dialogue: 0,0:08:55.44,0:08:56.51,Default,,0,0,0,,{ピンチなんだ。}A pinch!
-Dialogue: 0,0:08:56.51,0:08:58.52,Default,,0,0,0,,{しかし、君達の力は乗り切るんだ。}But you can survive this.
-Dialogue: 0,0:08:58.93,0:09:01.63,Default,,0,0,0,,{その時のこそ、XXXの実力ははっきり分かる。}If you do, your enemies will respect your power.
-Dialogue: 0,0:09:02.24,0:09:05.93,Default,,0,0,0,,{鮎原くんはきっと考えつくはずだ。僕はそう信じている。}Ayuhara-kun will surely think of something. I believe it so.
+Dialogue: 0,0:08:54.05,0:08:55.44,Alternative,,0,0,0,,{皆、ピンチだ。}Everybody, it's a pinch.
+Dialogue: 0,0:08:55.44,0:08:56.51,Alternative,,0,0,0,,{ピンチなんだ。}A pinch!
+Dialogue: 0,0:08:56.51,0:08:58.52,Alternative,,0,0,0,,{しかし、君達の力は乗り切るんだ。}But you can survive this.
+Dialogue: 0,0:08:58.93,0:09:01.63,Alternative,,0,0,0,,{その時のこそ、XXXの実力ははっきり分かる。}If you do, your enemies will respect your power.
+Dialogue: 0,0:09:02.24,0:09:05.93,Alternative,,0,0,0,,{鮎原くんはきっと考えつくはずだ。僕はそう信じている。}Ayuhara-kun will surely think of something. I believe it so.
 Dialogue: 0,0:09:07.59,0:09:09.36,Default,,0,0,0,,{それ見てよ。笑ってるわ。}Look at him. He's laughing at us.
 Dialogue: 0,0:09:09.36,0:09:10.16,Default,,0,0,0,,{悔しい。}How vexing.
 Dialogue: 0,0:09:10.16,0:09:11.60,Default,,0,0,0,,{そらを見ろって言わんばかり。}Don't look at him.
@@ -244,31 +245,32 @@ Dialogue: 0,0:09:59.12,0:09:59.85,Default,,0,0,0,,{—はい！\N—はい！}Ye
 Dialogue: 0,0:10:05.74,0:10:06.30,Default,,0,0,0,,{行くわよ！}Here it comes!
 Dialogue: 0,0:10:06.30,0:10:07.50,Default,,0,0,0,,{ドンマイ！}– Nice serve!\N– Don't mind!
 Dialogue: 0,0:10:12.56,0:10:12.85,Default,,0,0,0,,{はい。}
-Dialogue: 0,0:10:19.14,0:10:21.74,Default,,0,0,0,,{あたしと早川さんは完全にマークされている。}Me and Hayakawa-san are completely marked.
-Dialogue: 0,0:10:22.07,0:10:22.84,Default,,0,0,0,,{そうだ。}All right.
-Dialogue: 0,0:10:22.84,0:10:24.07,Default,,0,0,0,,{フェイントをかけてみよう。}Let's try feinting.
+Dialogue: 0,0:10:19.14,0:10:21.74,Alternative,,0,0,0,,{あたしと早川さんは完全にマークされている。}Me and Hayakawa-san are completely marked.
+Dialogue: 0,0:10:22.07,0:10:22.84,Alternative,,0,0,0,,{そうだ。}All right.
+Dialogue: 0,0:10:22.84,0:10:24.07,Alternative,,0,0,0,,{フェイントをかけてみよう。}Let's try feinting.
 Dialogue: 0,0:10:25.79,0:10:26.31,Default,,0,0,0,,{はい！}
 Dialogue: 0,0:10:26.31,0:10:27.20,Default,,0,0,0,,{ナイス、ナイス！}Nice, nice!
 Dialogue: 0,0:10:28.24,0:10:28.93,Default,,0,0,0,,{はい。}
 Dialogue: 0,0:10:28.93,0:10:30.41,Default,,0,0,0,,{いただきましょう！}I've got this!
 Dialogue: 0,0:10:30.41,0:10:32.31,Default,,0,0,0,,{チャンス、チャンス、チャンス！XXXボール！}Chance, chance, chance! Catch the ball!
-Dialogue: 0,0:10:36.18,0:10:37.11,Default,,0,0,0,,{しまった！}Damn!
-Dialogue: 0,0:10:37.11,0:10:38.56,Default,,0,0,0,,{フェイントもダメだわ！}Feinting didn't work either.
-Dialogue: 0,0:10:38.56,0:10:40.03,Sign,,0,0,0,,{富士見中：０\N松島中：１}Fujimi: 0\NMatsushima: 1
-Dialogue: 0,0:10:40.03,0:10:41.75,Sign,,0,0,0,,{富士見中：０\N松島中：５}Fujimi: 0\NMatsushima: 5
-Dialogue: 0,0:10:41.75,0:10:43.75,Sign,,0,0,0,,{富士見中：１\N松島中：５}Fujimi: 1\NMatsushima: 5
-Dialogue: 0,0:10:43.78,0:10:45.92,Sign,,0,0,0,,{富士見中：１\N松島中：6}Fujimi: 1\NMatsushima: 6
-Dialogue: 0,0:10:45.92,0:10:48.07,Sign,,0,0,0,,{富士見中：１\N松島中：１０}Fujimi: 1\NMatsushima: 10
+Dialogue: 0,0:10:36.18,0:10:37.11,Alternative,,0,0,0,,{しまった！}Damn!
+Dialogue: 0,0:10:37.11,0:10:38.56,Alternative,,0,0,0,,{フェイントもダメだわ！}Feinting didn't work either.
+Dialogue: 0,0:10:38.07,0:10:40.46,Blackboard,,0,0,0,,{\fad(0,850)}{富士見中：０\N松島中：１}{\alpha&HFF&}Fujimi: {\alpha&H00&}0\N{\alpha&HFF&}Matsushima: {\alpha&H00&}1{\alpha&HFF&}0
+Dialogue: 1,0:10:39.53,0:10:42.60,Blackboard,,0,0,0,,{\fad(850,1001)}{富士見中：０\N松島中：５}{\alpha&HFF&}Fujimi: {\alpha&H00&}0\N{\alpha&HFF&}Matsushima: {\alpha&H00&}5{\alpha&HFF&}0
+Dialogue: 2,0:10:41.42,0:10:44.57,Blackboard,,0,0,0,,{\fad(1000,920)}{富士見中：１\N松島中：５}{\alpha&HFF&}Fujimi: {\alpha&H00&}1\N{\alpha&HFF&}Matsushima: {\alpha&H00&}5{\alpha&HFF&}0
+Dialogue: 3,0:10:43.53,0:10:46.54,Blackboard,,0,0,0,,{\fad(920,1050)}{富士見中：１\N松島中：6}{\alpha&HFF&}Fujimi: {\alpha&H00&}1\N{\alpha&HFF&}Matsushima: {\alpha&H00&}6{\alpha&HFF&}0
+Dialogue: 4,0:10:45.39,0:10:48.04,Blackboard,,0,0,0,,{\fad(1050,0)}{富士見中：１\N松島中：１０}{\alpha&HFF&}Fujimi: {\alpha&H00&}1\N{\alpha&HFF&}Matsushima: {\alpha&H00&}10
+Dialogue: 5,0:10:38.07,0:10:48.04,Blackboard,,0,0,0,,{富士見中：０\N松島中：１}Fujimi: {\alpha&HFF&}0\N{\alpha&H00&}Matsushima: {\alpha&HFF&}10
 Dialogue: 0,0:10:48.88,0:10:49.91,Default,,0,0,0,,{皆、どうするの？}What do we do?
 Dialogue: 0,0:10:51.99,0:10:54.99,Default,,0,0,0,,{あしたから、バレーボールとは…さようならになるわね…}From tomorrow, I guess it's sayonara to volleyball.
 Dialogue: 0,0:10:57.20,0:10:58.42,Default,,0,0,0,,{審判、タイム！}Referee, time!
 Dialogue: 0,0:10:59.27,0:11:01.46,Default,,0,0,0,,{フレ、フレ、富士見頑張れ！}Go, go, Fujimi!
-Dialogue: 0,0:11:02.74,0:11:04.27,Default,,0,0,0,,{鮎原くんはタイムを要求した。}Ayuhara-kun asked for time.
-Dialogue: 0,0:11:04.77,0:11:06.90,Default,,0,0,0,,{どんなさ作戦を立てるかな。}I wonder what strategy she comes up with.
-Dialogue: 0,0:11:07.44,0:11:09.96,Default,,0,0,0,,{しかし、皆は賛成するかどうかは問題だ。}The problem is whether the others agree to it.
+Dialogue: 0,0:11:02.74,0:11:04.27,Alternative,,0,0,0,,{鮎原くんはタイムを要求した。}Ayuhara-kun asked for time.
+Dialogue: 0,0:11:04.77,0:11:06.90,Alternative,,0,0,0,,{どんなさ作戦を立てるかな。}I wonder what strategy she comes up with.
+Dialogue: 0,0:11:07.44,0:11:09.96,Alternative,,0,0,0,,{しかし、皆は賛成するかどうかは問題だ。}The problem is whether the others agree to it.
 Dialogue: 0,0:11:10.81,0:11:12.74,Default,,0,0,0,,{ね、早川さん。よく聞いて。}Hey, Hayakawa-san. Listen carefully.
 Dialogue: 0,0:11:12.74,0:11:15.43,Default,,0,0,0,,{あたしたちの二人は徹底的にマークされているわ。}Me and you are completely marked.
-Dialogue: 0,0:11:15.43,0:11:16.66,Default,,0,0,0,,{分かってるわ。}I know that alreday.
+Dialogue: 0,0:11:15.43,0:11:16.66,Default,,0,0,0,,{分かってるわ。}I know that already.
 Dialogue: 0,0:11:17.04,0:11:18.80,Default,,0,0,0,,{そして相手のストップは完全よ。}Plus their block is impenetrable.
 Dialogue: 0,0:11:18.80,0:11:20.90,Default,,0,0,0,,{そのXXXも最高に上手いわ。}Their form is at its best, too.
 Dialogue: 0,0:11:20.90,0:11:23.75,Default,,0,0,0,,{それにあのコーチはあたしたちの弱点をよく知っている。}Finally their coach knows our weakness very well.
@@ -285,7 +287,7 @@ Dialogue: 0,0:11:42.08,0:11:45.99,Default,,0,0,0,,{先ず、あたしと早川�
 Dialogue: 0,0:11:45.99,0:11:47.28,Default,,0,0,0,,{ね、皆、集まって。}Come closer, everyone.
 Dialogue: 0,0:11:52.47,0:11:54.71,Default,,0,0,0,,{いいか。このままでおしきるんだぞ。}Keep that defense. Got it?
 Dialogue: 0,0:11:54.71,0:11:55.64,Default,,0,0,0,,{—はい。\N—はい。}– Yes sir.\N– Yes sir.
-Dialogue: 0,0:11:56.26,0:11:58.78,Default,,0,0,0,,{何とか鮎原さんの作戦は纏まってだな。}Looks like Ayuhara-san's plan is settled.
+Dialogue: 0,0:11:56.26,0:11:58.78,Alternative,,0,0,0,,{何とか鮎原さんの作戦は纏まってだな。}Looks like Ayuhara-san's plan is settled.
 Dialogue: 0,0:11:58.78,0:12:00.39,Default,,0,0,0,,{又笑ってわ、本郷先生。}Professor Hongou's still smiling.
 Dialogue: 0,0:12:00.39,0:12:03.02,Default,,0,0,0,,{今のうちよ。あんな顔をしてないのわ。}It's our chance to smile, too.
 Dialogue: 0,0:12:03.56,0:12:04.47,Default,,0,0,0,,{プレーよ！}Play ball.
@@ -296,7 +298,7 @@ Dialogue: 0,0:12:39.72,0:12:40.82,Default,,0,0,0,,{何だ！}What?
 Dialogue: 0,0:12:40.82,0:12:42.26,Default,,0,0,0,,{—やった。\N—やったわ。}– We did it.\N– We did it!
 Dialogue: 0,0:12:42.26,0:12:44.85,Default,,0,0,0,,{できた。待望のアタックコンビが。}There it is, the long-awaited attack duo.
 Dialogue: 0,0:12:44.85,0:12:46.37,Default,,0,0,0,,{なー何ですか、先生。}W-What is it, professor?
-Dialogue: 0,0:12:49.77,0:12:51.14,Default,,0,0,0,,{さ、あたしのサーブよ。}All right, it's my serve.
+Dialogue: 0,0:12:49.77,0:12:50.95,Default,,0,0,0,,{さ、あたしのサーブよ。}All right, it's my serve.
 Dialogue: 0,0:12:51.35,0:12:52.03,Default,,0,0,0,,{XXX!}Keep the serve.
 Dialogue: 0,0:12:52.03,0:12:52.65,Default,,0,0,0,,{—はい！\N—はい！}– Yeah.\N– Yeah!
 Dialogue: 0,0:12:52.65,0:12:53.36,Default,,0,0,0,,{XXX!}Keep the serve!
@@ -313,12 +315,13 @@ Dialogue: 0,0:13:18.81,0:13:19.23,Default,,0,0,0,,{はい！}
 Dialogue: 0,0:13:19.49,0:13:20.43,Default,,0,0,0,,{XXXでしょ！}Attack.
 Dialogue: 0,0:13:25.53,0:13:26.50,Default,,0,0,0,,{悔しい！}How vexing!
 Dialogue: 0,0:13:35.52,0:13:35.93,Default,,0,0,0,,{なー}Wha—
-Dialogue: 0,0:13:38.41,0:13:40.36,Sign,,0,0,0,,{富士見中：７\N松島中：１３}Fujimi: 7\NMatsushima: 13
+Dialogue: 0,0:13:38.46,0:13:40.38,Blackboard,,0,0,0,,{富士見中：７\N松島中：１３}Fujimi: 7\NMatsushima: 13
 Dialogue: 0,0:13:39.37,0:13:40.37,Default,,0,0,0,,{ファイトしない！}Gotta fight.
-Dialogue: 0,0:13:43.30,0:13:44.72,Default,,0,0,0,,{XXX・ファイトもっとしない}Don't lose it here.
-Dialogue: 0,0:13:44.95,0:13:45.83,Default,,0,0,0,,{アタック！}Attack!
-Dialogue: 0,0:13:50.48,0:13:52.46,Sign,,0,0,0,,{富士見中：13\N松島中：１３}Fujimi: 13\NMatsushima: 13
-Dialogue: 0,0:13:52.46,0:13:54.53,Sign,,0,0,0,,{富士見中：1４\N松島中：１３}Fujimi: 14\NMatsushima: 13
+Dialogue: 0,0:13:43.30,0:13:44.65,Default,,0,0,0,,{XXX・ファイトもっとしない}Don't lose it here.
+Dialogue: 0,0:13:45.00,0:13:45.83,Default,,0,0,0,,{アタック！}Attack!
+Dialogue: 0,0:13:50.51,0:13:52.98,Blackboard,,0,0,0,,{\fad(0,860)}{富士見中：13\N松島中：１３}{\alpha&HFF&}Fujimi: {\alpha&H00&}13
+Dialogue: 1,0:13:52.10,0:13:54.60,Blackboard,,0,0,0,,{\fad(860,0)}{富士見中：1４\N松島中：１３}{\alpha&HFF&}Fujimi: {\alpha&H00&}14
+Dialogue: 2,0:13:50.51,0:13:54.60,Blackboard,,0,0,0,,{富士見中：13\N松島中：１３}Fujimi: {\alpha&HFF&}13\N{\alpha&H00&}Matsushima: 13
 Dialogue: 0,0:13:51.29,0:13:53.27,Default,,0,0,0,,{先生、(XXX・コート・行動)(XXX・客)(XXX・選)ですよ。}Professor, they tables have turned.
 Dialogue: 0,0:13:53.27,0:13:54.52,Default,,0,0,0,,{セットポイントです。}It's the set point.
 Dialogue: 0,0:13:56.03,0:13:57.17,Default,,0,0,0,,{それ！}
@@ -329,13 +332,13 @@ Dialogue: 0,0:14:10.65,0:14:11.94,Default,,0,0,0,,{鮎原さん、すごい！}A
 Dialogue: 0,0:14:11.94,0:14:14.00,Default,,0,0,0,,{ファイナルセットを持ち込めた。}We got to the final set.
 Dialogue: 0,0:14:16.13,0:14:18.20,Default,,0,0,0,,{本郷先生、すごいですね。}It's wonderful, right, professor Hongou.
 Dialogue: 0,0:14:18.20,0:14:20.35,Default,,0,0,0,,{いつのまえにあんなに強くになったですか。}When did they become so strong?
-Dialogue: 0,0:14:22.20,0:14:23.24,Default,,0,0,0,,{そうか。}I see.
-Dialogue: 0,0:14:23.24,0:14:26.80,Default,,0,0,0,,{こずえちゃんたちこの試合を勝てば、先生はコーチを辞めなければならない。}If Kozue-chan's team wins, professor will have to give up coaching.
-Dialogue: 0,0:14:27.72,0:14:29.16,Default,,0,0,0,,{やはり間違いではなかったんだ。}I wasn't mistaken after all.
-Dialogue: 0,0:14:29.16,0:14:30.78,Default,,0,0,0,,{すごい長打XXX。}What an amazing strike.
-Dialogue: 0,0:14:30.78,0:14:33.20,Default,,0,0,0,,{それに、鮎原と中川のコンビも出してXXX。}Plus Ayuhara and Hayakawa managed to form a duo.
-Dialogue: 0,0:14:33.20,0:14:34.63,Default,,0,0,0,,{XXX}Who would've think.
-Dialogue: 0,0:14:34.63,0:14:36.13,Default,,0,0,0,,{しかし…}But…
+Dialogue: 0,0:14:22.20,0:14:23.24,Alternative,,0,0,0,,{そうか。}I see.
+Dialogue: 0,0:14:23.24,0:14:26.80,Alternative,,0,0,0,,{こずえちゃんたちこの試合を勝てば、先生はコーチを辞めなければならない。}If Kozue-chan's team wins, professor will have to give up coaching.
+Dialogue: 0,0:14:27.72,0:14:29.16,Alternative,,0,0,0,,{やはり間違いではなかったんだ。}I wasn't mistaken after all.
+Dialogue: 0,0:14:29.16,0:14:30.78,Alternative,,0,0,0,,{すごい長打XXX。}What an amazing strike.
+Dialogue: 0,0:14:30.78,0:14:33.20,Alternative,,0,0,0,,{それに、鮎原と中川のコンビも出してXXX。}Plus Ayuhara and Hayakawa managed to form a duo.
+Dialogue: 0,0:14:33.20,0:14:34.63,Alternative,,0,0,0,,{XXX}Who would've think.
+Dialogue: 0,0:14:34.63,0:14:36.13,Alternative,,0,0,0,,{しかし…}But…
 Dialogue: 0,0:14:36.53,0:14:39.77,Default,,0,0,0,,{見てよ、皆。ほら、本郷先生の顔。}Look at professor Hongou's face.
 Dialogue: 0,0:14:39.77,0:14:41.51,Default,,0,0,0,,{あたしXと勝ったの喜べないのね。}He seems unhappy with our victory.
 Dialogue: 0,0:14:41.51,0:14:42.63,Default,,0,0,0,,{え、いい気味よ。}Serves him right.
@@ -343,18 +346,18 @@ Dialogue: 0,0:14:43.29,0:14:44.03,Default,,0,0,0,,{ああ。}Ah.
 Dialogue: 0,0:14:44.03,0:14:46.93,Default,,0,0,0,,{松島中はコーチ(XXX・素敵)羨ましい。}I'm jealous of Matsushima, which has a proper coach.
 Dialogue: 0,0:14:46.93,0:14:48.83,Default,,0,0,0,,{でも、次の第三セット。頑張りましょう。}All right, let's do best in the last set.
 Dialogue: 0,0:14:48.83,0:14:50.78,Default,,0,0,0,,{このセットで勝負は決まるのよ。}This set decides the match result.
-Dialogue: 0,0:14:57.08,0:14:59.58,Default,,0,0,0,,{第三セットは、見なくても、結果が分かってる。}I don't need to see the last set to know the outcome.
-Dialogue: 0,0:14:59.58,0:15:01.14,Default,,0,0,0,,{必ず勝つだろう。}They'll win for sure.
-Dialogue: 0,0:15:03.17,0:15:05.61,Sign,,0,0,0,,{市立体育館}City Gym
+Dialogue: 0,0:14:57.08,0:14:59.58,Alternative,,0,0,0,,{第三セットは、見なくても、結果が分かってる。}I don't need to see the last set to know the outcome.
+Dialogue: 0,0:14:59.58,0:15:01.14,Alternative,,0,0,0,,{必ず勝つだろう。}They'll win for sure.
+Dialogue: 0,0:15:03.21,0:15:05.67,Sign,,0,0,0,,{市立体育館}City Gym
 Dialogue: 0,0:15:05.96,0:15:06.88,Default,,0,0,0,,{しかしね…}But…
-Dialogue: 0,0:15:06.88,0:15:11.30,Default,,0,0,0,,{僕の手で、日本一の女子中学バレーチームを作ろう何て考えた甘かった。}I was naive for thinking I could raise the Japan's best volleyball team.
-Dialogue: 0,0:15:12.83,0:15:16.86,Default,,0,0,0,,{いくら力ついても、選手達と心は通い合わなければ、何にもならん。}No matter how strong we are, if we aren't united, we won't accomplish anything.
-Dialogue: 0,0:15:18.46,0:15:20.25,Default,,0,0,0,,{約束は約束。}I'll keep my promise.
-Dialogue: 0,0:15:20.25,0:15:22.08,Default,,0,0,0,,{僕はコーチから手を引こう。}I'll withdraw from coaching.
+Dialogue: 0,0:15:06.88,0:15:11.30,Alternative,,0,0,0,,{僕の手で、日本一の女子中学バレーチームを作ろう何て考えた甘かった。}I was naive for thinking I could raise the Japan's best volleyball team.
+Dialogue: 0,0:15:12.83,0:15:16.86,Alternative,,0,0,0,,{いくら力ついても、選手達と心は通い合わなければ、何にもならん。}No matter how strong we are, if we aren't united, we won't accomplish anything.
+Dialogue: 0,0:15:18.46,0:15:20.25,Alternative,,0,0,0,,{約束は約束。}I'll keep my promise.
+Dialogue: 0,0:15:20.25,0:15:22.08,Alternative,,0,0,0,,{僕はコーチから手を引こう。}I'll withdraw from coaching.
 Dialogue: 0,0:15:26.46,0:15:27.12,Default,,0,0,0,,{はい！}
 Dialogue: 0,0:15:27.12,0:15:27.57,Default,,0,0,0,,{はい！}
 Dialogue: 0,0:15:29.05,0:15:30.17,Default,,0,0,0,,{何やってんのよ。}What are you doing?
-Dialogue: 0,0:15:34.04,0:15:35.48,Sign,,0,0,0,,{富士見中：1４\N松島中：5}Fujimi: 14\NMatsushima: 5
+Dialogue: 0,0:15:34.07,0:15:35.53,Blackboard,,0,0,0,,{富士見中：1４\N松島中：5}Fujimi: 14\NMatsushima: 5
 Dialogue: 0,0:15:35.85,0:15:38.11,Default,,0,0,0,,{自然に勝ってくるみたいね。}Looks like we can win this.
 Dialogue: 0,0:15:38.11,0:15:39.81,Default,,0,0,0,,{こんなまた初めてだわ。}I feel this for the first time.
 Dialogue: 0,0:15:39.81,0:15:41.20,Default,,0,0,0,,{さ、マッチポイントよ。}All right, match point.
@@ -376,7 +379,7 @@ Dialogue: 0,0:16:15.59,0:16:16.39,Default,,0,0,0,,{アタック！}Attack!
 Dialogue: 0,0:16:25.04,0:16:25.83,Default,,0,0,0,,{勝ったわ。}We won.
 Dialogue: 0,0:16:26.16,0:16:28.24,Default,,0,0,0,,{あたしたち勝ったのよ。}It's our victory.
 Dialogue: 0,0:16:29.39,0:16:30.31,Default,,0,0,0,,{先生。}Professor…
-Dialogue: 0,0:16:31.17,0:16:32.88,Default,,0,0,0,,{悔しくって…}It's so annoying…
+Dialogue: 0,0:16:31.17,0:16:32.64,Default,,0,0,0,,{悔しくって…}It's so annoying…
 Dialogue: 0,0:16:32.99,0:16:34.59,Default,,0,0,0,,{よし、思いっきり泣け。}All right, cry all you need.
 Dialogue: 0,0:16:34.59,0:16:36.33,Default,,0,0,0,,{ただし負けてがっかりするんじゃないぞ。}But don't be sad about this loss.
 Dialogue: 0,0:16:36.68,0:16:39.39,Default,,0,0,0,,{あしたからは富士見学園を目標XXまた頑張るんだ。}Let's do our best to defeat Fujimi Academy in the future.
@@ -391,7 +394,7 @@ Dialogue: 0,0:16:51.09,0:16:52.15,Default,,0,0,0,,{—おう！\N—おう！}�
 Dialogue: 0,0:16:56.25,0:16:58.24,Default,,0,0,0,,{あたしたちは勝ったのよ。}This is our victory.
 Dialogue: 0,0:16:58.24,0:16:59.26,Default,,0,0,0,,{どうしたの、皆?}What is it, everyone?
 Dialogue: 0,0:17:03.46,0:17:04.40,Default,,0,0,0,,{何でもないわ。}It's nothing.
-Dialogue: 0,0:17:04.83,0:17:09.17,Default,,0,0,0,,{ただ、松島中の人たちとコーチの心が通い合っての見ると…}But after seeing how Matsushima Middle School is united with their coach…
+Dialogue: 0,0:17:04.83,0:17:09.19,Default,,0,0,0,,{ただ、松島中の人たちとコーチの心が通い合っての見ると…}But after seeing how Matsushima Middle School is united with their coach…
 Dialogue: 0,0:17:09.19,0:17:10.90,Default,,0,0,0,,{ちょっと羨ましいのよ。}I'm a little jealous.
 Dialogue: 0,0:17:10.90,0:17:13.56,Default,,0,0,0,,{ゲームは負けたらチームワークだ消して負けてないぞ。}You might've lost the game, but your teamwork was splendid.
 Dialogue: 0,0:17:13.56,0:17:14.60,Default,,0,0,0,,{—はい。\N—はい。}– Yes sir.\N– Yes sir.
@@ -406,10 +409,10 @@ Dialogue: 0,0:17:53.75,0:17:56.87,Default,,0,0,0,,{つまり、今までの厳�
 Dialogue: 0,0:18:00.32,0:18:02.72,Default,,0,0,0,,{と言うことは、本郷先生のお陰よ。}In other words, it's thanks to professor Hongou.
 Dialogue: 0,0:18:03.28,0:18:05.09,Default,,0,0,0,,{あたしもそう思うわ。}I think so too.
 Dialogue: 0,0:18:05.09,0:18:06.12,Default,,0,0,0,,{成る程。}I see.
-Dialogue: 0,0:18:06.67,0:18:11.13,Default,,0,0,0,,{あたし何かがあんなにやれたのはやっぱりあの練習の所為だったのね。}It's thanks to the practice that I was able to do anything.
+Dialogue: 0,0:18:06.67,0:18:11.13,Default,,0,0,0,,{あたし何かがあんなにやれたのはやっぱりあの練習の所為だったのね。}It's thanks to the practice that\hI \hwas able to do anything.
 Dialogue: 0,0:18:11.13,0:18:15.38,Default,,0,0,0,,{本郷先生…本当はあたしたちを愛していてくれたのかもしれないわ。}Professor Hongou cared about us after all.
-Dialogue: 0,0:18:15.91,0:18:20.28,Default,,0,0,0,,{そうよ。だから強くしようと、あんな厳しい練習をしたのね。}Yeah. He wanted to make us strong, and that's why he put up such a training.
-Dialogue: 0,0:18:20.28,0:18:24.09,Default,,0,0,0,,{本当によかったわ。あたしはあんな格好いい思いしたは始めて。}I'm glad. It's the first time I see him in such a cool light.
+Dialogue: 0,0:18:15.91,0:18:20.28,Default,,0,0,0,,{そうよ。だから強くしようと、あんな厳しい練習をしたのね。}Yeah. He wanted to make us strong, and\hthat's why he put up such a training.
+Dialogue: 0,0:18:20.28,0:18:24.09,Default,,0,0,0,,{本当によかったわ。あたしはあんな格好いい思いしたは始めて。}I'm glad. It's the first time I\hsee him in such a cool light.
 Dialogue: 0,0:18:24.09,0:18:26.70,Default,,0,0,0,,{格好いいと言えば、親分のスパイクと…}Speaking of coolness, the chief's spike—
 Dialogue: 0,0:18:27.64,0:18:28.90,Default,,0,0,0,,{どうしたの、早川さん？}What is it, Hayakawa-san?
 Dialogue: 0,0:18:31.92,0:18:33.05,Default,,0,0,0,,{早川さん…}Hayakawa-san.
@@ -419,8 +422,8 @@ Dialogue: 0,0:18:40.99,0:18:42.29,Default,,0,0,0,,{それも皆のいる前で�
 Dialogue: 0,0:18:43.47,0:18:46.45,Default,,0,0,0,,{え？未だ喧嘩を続けるつもりなの?}Eh? Do you still intend to fight?
 Dialogue: 0,0:18:48.75,0:18:49.79,Default,,0,0,0,,{皆も聞いて。}Listen.
 Dialogue: 0,0:18:50.73,0:18:53.15,Default,,0,0,0,,{あたしね、さっきから考えていたのわ。}I've been thinking about it for a while.
-Dialogue: 0,0:18:53.15,0:18:57.10,Default,,0,0,0,,{バレーボールにとって、チームワークはどんな大切なものと言うことなの。}About the real importance of the teamwork to the volleyball.
-Dialogue: 0,0:19:01.70,0:19:04.86,Default,,0,0,0,,{それが今度と言う今度は見にしみてよく分かったわ。}This time I finally saw it cleary and it clicked.
+Dialogue: 0,0:18:53.15,0:18:57.10,Default,,0,0,0,,{バレーボールにとって、チームワークはどんな大切なものと言うことなの。}About the real importance of\hthe\hteamwork to the volleyball.
+Dialogue: 0,0:19:01.70,0:19:04.86,Default,,0,0,0,,{それが今度と言う今度は見にしみてよく分かったわ。}This time I finally saw it clearly and it clicked.
 Dialogue: 0,0:19:06.80,0:19:07.91,Default,,0,0,0,,{鮎原さん。}Ayuhara-san.
 Dialogue: 0,0:19:07.91,0:19:10.11,Default,,0,0,0,,{あたしは本当に間違っていた。}I was completely mistaken.
 Dialogue: 0,0:19:10.11,0:19:13.79,Default,,0,0,0,,{今までのこと、許してと言っても、許せるものはじゃないと思うけど…}I won't ask for your pardon, because I don't think I can be forgiven…
@@ -442,13 +445,13 @@ Dialogue: 0,0:20:10.50,0:20:11.52,Default,,0,0,0,,{やってくれるわね。}W
 Dialogue: 0,0:20:12.49,0:20:13.31,Default,,0,0,0,,{やるわ。}I will.
 Dialogue: 0,0:20:13.31,0:20:15.63,Default,,0,0,0,,{日本一のバレー部を目指して。}Let's aim for Japan's best.
 Dialogue: 0,0:20:15.63,0:20:16.53,Default,,0,0,0,,{早川さん。}Hayakawa-san.
-Dialogue: 0,0:20:17.11,0:20:18.35,Default,,0,0,0,,{皆、有難う。}Everyone. Thank you.
+Dialogue: 0,0:20:17.11,0:20:18.23,Default,,0,0,0,,{皆、有難う。}Everyone. Thank you.
 Dialogue: 0,0:20:18.57,0:20:20.92,Default,,0,0,0,,{鮎原キャプテン、万歳！}Captain Ayuhara, banzai!
-Dialogue: 0,0:20:21.27,0:20:22.45,Default,,0,0,0,,{鮎原さん。}Ayuhara-san.
-Dialogue: 0,0:20:22.45,0:20:23.60,Default,,0,0,0,,{今日からあなたよ。}From today…
-Dialogue: 0,0:20:23.60,0:20:25.13,Default,,0,0,0,,{あたしの目標わ。}…I entrust my goal to you.
-Dialogue: 0,0:20:26.03,0:20:28.37,Default,,0,0,0,,{早川さん、分かってくれたのね。}Hayakawa-san, you understand now.
-Dialogue: 0,0:20:28.37,0:20:31.36,Default,,0,0,0,,{でも、あなたいるかぎり、わたしもXXXしてられないわ。}But if it wasn't for you, we wouldn't have come this far.
+Dialogue: 0,0:20:21.27,0:20:22.45,Alternative,,0,0,0,,{鮎原さん。}Ayuhara-san.
+Dialogue: 0,0:20:22.45,0:20:23.60,Alternative,,0,0,0,,{今日からあなたよ。}From today…
+Dialogue: 0,0:20:23.60,0:20:25.13,Alternative,,0,0,0,,{あたしの目標わ。}…I entrust my goal to you.
+Dialogue: 0,0:20:26.03,0:20:28.37,Alternative,,0,0,0,,{早川さん、分かってくれたのね。}Hayakawa-san, you understand now.
+Dialogue: 0,0:20:28.37,0:20:31.36,Alternative,,0,0,0,,{でも、あなたいるかぎり、わたしもXXXしてられないわ。}But if it wasn't for you, we wouldn't have come this far.
 Dialogue: 0,0:20:32.17,0:20:35.41,Default,,0,0,0,,{これでわがバレー部も。後は本郷先生をさそって。}We've decided the captain, now let's get professor Hongou to agree.
 Dialogue: 0,0:20:35.41,0:20:36.14,Default,,0,0,0,,{や。}Yo.
 Dialogue: 0,0:20:37.02,0:20:38.04,Default,,0,0,0,,{おめでとう。}Congratulations.
@@ -465,7 +468,7 @@ Dialogue: 0,0:21:05.97,0:21:08.36,Default,,0,0,0,,{先生は未だ学校にい�
 Dialogue: 0,0:21:09.95,0:21:12.24,Default,,0,0,0,,{早く帰って、先生を引き止めようよ。}Let's head back and stop him.
 Dialogue: 0,0:21:12.24,0:21:13.21,Default,,0,0,0,,{—え。\N—え。}– Yep.\N– Yeah.
 Dialogue: 0,0:21:13.21,0:21:14.34,Default,,0,0,0,,{それ！}Let's go.
-Dialogue: 0,0:21:24.05,0:21:25.42,Sign,,0,0,0,,{教員室}Teachers room
+Dialogue: 0,0:21:23.73,0:21:28.47,Sign,,0,0,0,,{\fad(1870,0)}{教員室}Teachers room
 Dialogue: 0,0:21:29.14,0:21:31.61,Default,,0,0,0,,{—本郷先生！ー本郷先生！}– Professor Hongou!\N– Professor Hongou!
 Dialogue: 0,0:21:31.61,0:21:32.80,Default,,0,0,0,,{本郷先生！}Professor Hongou!
 Dialogue: 0,0:21:33.59,0:21:34.79,Default,,0,0,0,,{—先生！\N—先生！}– Professor!\N– Professor!
@@ -476,16 +479,16 @@ Dialogue: 0,0:21:41.22,0:21:43.30,Default,,0,0,0,,{未だ部室を見てない�
 Dialogue: 0,0:21:43.89,0:21:45.06,Default,,0,0,0,,{本郷先生！}Professor Hongou!
 Dialogue: 0,0:21:45.52,0:21:46.64,Default,,0,0,0,,{先生！}Professor!
 Dialogue: 0,0:21:49.05,0:21:50.04,Default,,0,0,0,,{あ、あれは。}L-Look at this!
-Dialogue: 0,0:21:52.22,0:21:54.75,Default,,0,0,0,,{約束どおり、コーチを辞めてやる。}As promised, I've withdrew from coaching.
-Dialogue: 0,0:21:54.75,0:21:56.93,Default,,0,0,0,,{喜べ、へたくそ共。}Rejoice, weaklings.
-Dialogue: 0,0:21:56.93,0:21:59.94,Default,,0,0,0,,{俺に笑われてくなきゃ、これからもしっかりやれ！}If you're not busy laughing at me, do your best from now on.
-Dialogue: 0,0:21:59.94,0:22:00.68,Default,,0,0,0,,{本郷。}Hongou.
+Dialogue: 0,0:21:52.22,0:21:54.75,Alternative,,0,0,0,,{約束どおり、コーチを辞めてやる。}As promised, I've withdrew from coaching.
+Dialogue: 0,0:21:54.75,0:21:56.93,Alternative,,0,0,0,,{喜べ、へたくそ共。}Rejoice, weaklings.
+Dialogue: 0,0:21:56.93,0:21:59.94,Alternative,,0,0,0,,{俺に笑われてくなきゃ、これからもしっかりやれ！}If you're not busy laughing at me, do your best from now on.
+Dialogue: 0,0:21:59.94,0:22:00.68,Alternative,,0,0,0,,{本郷。}Hongou.
 Dialogue: 0,0:22:09.20,0:22:10.51,Default,,0,0,0,,{嘘。嘘よ。}It can't be.
 Dialogue: 0,0:22:10.51,0:22:13.04,Default,,0,0,0,,{先生本当はコーチを辞めたくないのに。}He doesn't really want to withdraw.
 Dialogue: 0,0:22:13.04,0:22:16.13,Default,,0,0,0,,{だからここに来て一人いったのよ。}That's why he came here alone.
-Dialogue: 0,0:22:19.64,0:22:20.53,Default,,0,0,0,,{それよ。}That's right.
-Dialogue: 0,0:22:20.53,0:22:24.80,Default,,0,0,0,,{辞めてやるとか、へたくそ共とか一生懸命お芝居してるんだわ。}"Quit the club"… "weaklings"… nothing changes the fact he gave his best with us.
-Dialogue: 0,0:22:25.45,0:22:27.27,Default,,0,0,0,,{行きましょう、先生の家へ。}Let's go to his home.
+Dialogue: 0,0:22:19.64,0:22:20.53,Alternative,,0,0,0,,{それよ。}That's right.
+Dialogue: 0,0:22:20.53,0:22:24.80,Alternative,,0,0,0,,{辞めてやるとか、へたくそ共とか一生懸命お芝居してるんだわ。}"Quit the club"… "weaklings"… nothing changes the fact he gave his best with us.
+Dialogue: 0,0:22:25.45,0:22:27.27,Default,,0,0,0,,{行きましょう、先生の家へ。}Let's try his home.
 Dialogue: 0,0:22:27.27,0:22:30.27,Default,,0,0,0,,{皆の…皆の気持ちを早く先生に伝えましょう。}We need to convey our feelings to him as soon as possible.
 Dialogue: 0,0:22:30.27,0:22:31.05,Default,,0,0,0,,{—え。\N—え。}– Yep.\N– Yeah.
 Dialogue: 0,0:22:33.98,0:22:36.56,Default,,0,0,0,,{浜に行くといって、お家を出たそうよ。}He's said to have gone to the beach.
@@ -494,23 +497,23 @@ Dialogue: 0,0:22:51.47,0:22:53.37,Default,,0,0,0,,{あ、あそこにいるの�
 Dialogue: 0,0:22:55.34,0:22:57.15,Default,,0,0,0,,{そうだ。皆で及びましょうよ。}All right, let's call out to him.
 Dialogue: 0,0:22:57.15,0:22:59.60,Default,,0,0,0,,{—本郷先生！\N—本郷先生！}Professor Hongou!
 Dialogue: 0,0:23:03.55,0:23:06.05,Default,,0,0,0,,{—先生！\N—本郷先生！}– Professor!\N– Professor Hongou!
-Dialogue: 0,0:23:07.32,0:23:09.34,Default,,0,0,0,,{やっと心は通い合ったんだ。}Looks like we've finally united.
-Dialogue: 0,0:23:10.01,0:23:12.60,Default,,0,0,0,,{日本一のバレー部第一歩は始まるんだ。}It's the first step of the Japan's best volleyball club.
+Dialogue: 0,0:23:07.32,0:23:09.34,Alternative,,0,0,0,,{やっと心は通い合ったんだ。}Looks like we've finally united.
+Dialogue: 0,0:23:10.01,0:23:12.60,Alternative,,0,0,0,,{日本一のバレー部第一歩は始まるんだ。}It's the first step of the Japan's best volleyball club.
 Dialogue: 0,0:23:13.17,0:23:14.78,Default,,0,0,0,,{おい、へたくそ共！}You weaklings!
 Dialogue: 0,0:23:14.78,0:23:16.23,Default,,0,0,0,,{—何し来た？\N—先生！}What did you come for?
 Dialogue: 0,0:23:16.23,0:23:20.09,Default,,0,0,0,,{コーチにお願いします！}Please coach us!
 Dialogue: 0,0:23:22.38,0:23:23.87,Default,,0,0,0,,{先生！}Professor!
 Dialogue: 0,0:23:26.41,0:23:27.40,Default,,0,0,0,,{先生！}Professor!
 Dialogue: 0,0:23:28.39,0:23:29.83,Default,,0,0,0,,{本郷先生！}Professor Hongou!
-Dialogue: 0,0:23:30.69,0:23:32.61,Default,,0,0,0,,{素晴らしいチームが生まれるぞ。}It's the birth of a wonderful team.
-Dialogue: 0,0:23:33.07,0:23:33.79,Default,,0,0,0,,{よし！}All right.
-Dialogue: 0,0:23:33.79,0:23:36.53,Default,,0,0,0,,{僕はきっとXXXのチームにしてみせる！}I'll make you into the strongest team!
+Dialogue: 0,0:23:30.69,0:23:32.61,Alternative,,0,0,0,,{素晴らしいチームが生まれるぞ。}It's the birth of a wonderful team.
+Dialogue: 0,0:23:33.07,0:23:33.79,Alternative,,0,0,0,,{よし！}All right.
+Dialogue: 0,0:23:33.79,0:23:36.53,Alternative,,0,0,0,,{僕はきっとXXXのチームにしてみせる！}I'll make you into the strongest team!
 Dialogue: 0,0:23:53.62,0:23:58.94,Alternative,,0,0,0,,{鬼コーチとも、心が溶け合い、XXX練習に励む富士見学園バレー部。}Having reunited with the demon coach, Fujimi Academy volleyball club picks up the training.
 Dialogue: 0,0:23:58.94,0:24:03.30,Alternative,,0,0,0,,{しかし、突然浜紀中学との合併と言う新たな問題がおこり。}But a new problem appears\h– a possible merging with Hamaki Middle School.
 Dialogue: 0,0:24:03.30,0:24:06.71,Alternative,,0,0,0,,{せっかく纏まった部員たちの心動揺させる。}The girls, having finally caught a breath, are disturbed again.
-Dialogue: 0,0:24:06.71,0:24:13.09,Alternative,,0,0,0,,{そんなある日のこと、こずえ達は浜紀中学バレー部で四天王といられる女学生に出会った。}One day, Kouze and the girls meet four members of Hamaki Middle School.
+Dialogue: 0,0:24:06.71,0:24:13.09,Alternative,,0,0,0,,{そんなある日のこと、こずえ達は浜紀中学バレー部で四天王といられる女学生に出会った。}One day, Kozue and the girls meet four members of Hamaki Middle School.
 Dialogue: 0,0:24:13.09,0:24:15.63,Alternative,,0,0,0,,{「あんたたちは富士見学園のバレー部ね。」}"You're the Fujimi's volleyball club, right?"
-Dialogue: 0,0:24:15.63,0:24:18.63,Alternative,,0,0,0,,{挑戦的の笑い残して立ち去る四天王。}The gang of four challengingly laughs and leaves.
+Dialogue: 0,0:24:15.63,0:24:18.63,Alternative,,0,0,0,,{挑戦的の笑い残して立ち去る四天王。}The gang of four unpleasantly laughs and leaves.
 Dialogue: 0,0:24:18.63,0:24:22.31,Alternative,,0,0,0,,{さ、来週のアタックナンバーワンをお楽しみに。}Please look forward to the next episode.
 Dialogue: 0,0:24:40.07,0:24:43.94,Lyrics JP,,0,0,0,,{\an8}青い青い空に
 Dialogue: 0,0:24:43.94,0:24:47.03,Lyrics JP,,0,0,0,,{\an8}バンボンボボン
