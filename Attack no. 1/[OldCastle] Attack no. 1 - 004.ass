@@ -19,9 +19,10 @@ Video Zoom Percent: 1.000000
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,94,100,0,0,1,3,0,2,36,36,36,1
-Style: Narrator,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,2,36,36,36,1
+Style: Alternative,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,2,36,36,36,1
 Style: Lyrics EN,Gotham Rounded Medium,43,&H00BFF6FF,&H8C7A8688,&H00202020,&H7F202020,-1,0,0,0,94,100,0,0,1,3,0,2,36,36,36,1
 Style: Lyrics JP,Source Han Sans CN,45,&H00BFF6FF,&H0097F0F8,&H00202020,&H7F101010,-1,0,0,0,90,100,0,0,1,3,0,2,36,36,36,1
+Style: Sign,Gotham Rounded Medium,43,&H009AFBDC,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,8,36,36,36,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -411,12 +412,12 @@ Dialogue: 0,0:23:38.29,0:23:39.38,Default,,0,0,0,,It went well.
 Dialogue: 0,0:23:39.38,0:23:43.31,Default,,0,0,0,,No matter what, I need Ayuhara Kozue-san's power for the tournament.
 Dialogue: 0,0:23:43.93,0:23:46.51,Default,,0,0,0,,But when it comes to playing, I'm the best.
 Dialogue: 0,0:23:46.51,0:23:48.55,Default,,0,0,0,,I'll certainly become a queen.
-Dialogue: 0,0:23:54.55,0:24:00.58,Narrator,,0,0,0,,After Midori and Kozue called a truce, the coach Hongou…
-Dialogue: 0,0:24:00.58,0:24:03.16,Narrator,,0,0,0,,…immediately begins a hard training.
-Dialogue: 0,0:24:03.16,0:24:08.86,Narrator,,0,0,0,,But the peace doesn't hold long and soon enough, a problem with staff members arises.
-Dialogue: 0,0:24:08.86,0:24:12.27,Narrator,,0,0,0,,Even so, the coach continues with his training.
-Dialogue: 0,0:24:13.22,0:24:19.04,Narrator,,0,0,0,,Under his guidance, Kouze and Midori's true rilvarly becomes ablaze.
-Dialogue: 0,0:24:19.74,0:24:23.01,Narrator,,0,0,0,,Please look forward to the next episode.
+Dialogue: 0,0:23:54.55,0:24:00.58,Alternative,,0,0,0,,After Midori and Kozue called a truce, the coach Hongou…
+Dialogue: 0,0:24:00.58,0:24:03.16,Alternative,,0,0,0,,…immediately begins a hard training.
+Dialogue: 0,0:24:03.16,0:24:08.86,Alternative,,0,0,0,,But the peace doesn't hold long and soon enough, a problem with staff members arises.
+Dialogue: 0,0:24:08.86,0:24:12.27,Alternative,,0,0,0,,Even so, the coach continues with his training.
+Dialogue: 0,0:24:13.22,0:24:19.04,Alternative,,0,0,0,,Under his guidance, Kouze and Midori's true rilvarly becomes ablaze.
+Dialogue: 0,0:24:19.74,0:24:23.01,Alternative,,0,0,0,,Please look forward to the next episode.
 Dialogue: 0,0:24:40.85,0:24:44.72,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}青い青い空に
 Dialogue: 0,0:24:44.72,0:24:47.81,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}バンボンボボン
 Dialogue: 0,0:24:47.81,0:24:51.88,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}はずむボールが

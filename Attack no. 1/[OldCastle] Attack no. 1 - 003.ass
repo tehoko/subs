@@ -19,9 +19,10 @@ Video Zoom Percent: 1.000000
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,94,100,0,0,1,3,0,2,36,36,36,1
-Style: Narrator,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,2,36,36,36,1
+Style: Alternative,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,2,36,36,36,1
 Style: Lyrics EN,Gotham Rounded Medium,43,&H00BFF6FF,&H8C7A8688,&H00202020,&H7F202020,-1,0,0,0,94,100,0,0,1,3,0,2,36,36,36,1
 Style: Lyrics JP,Source Han Sans CN,45,&H00BFF6FF,&H0097F0F8,&H00202020,&H7F101010,-1,0,0,0,90,100,0,0,1,3,0,2,36,36,36,1
+Style: Sign,Gotham Rounded Medium,43,&H009AFBDC,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,8,36,36,36,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -438,15 +439,15 @@ Dialogue: 0,0:22:55.16,0:22:57.59,Default,,0,0,0,,What are they doing?
 Dialogue: 0,0:22:57.59,0:22:59.52,Default,,0,0,0,,Looks like they're watching someone.
 Dialogue: 0,0:23:39.96,0:23:42.05,Default,,0,0,0,,Who is this person in black shirt?
 Dialogue: 0,0:23:42.98,0:23:48.50,Default,,0,0,0,,Who hides behind these machine-level precise movements?
-Dialogue: 0,0:23:54.51,0:23:57.78,Narrator,,0,0,0,,Having chosen Kozue as their captain, the volleyball club…
-Dialogue: 0,0:23:57.78,0:24:00.64,Narrator,,0,0,0,,…sets out to work on their new goal.
-Dialogue: 0,0:24:01.10,0:24:03.79,Narrator,,0,0,0,,But Hayakawa Midori makes her appearance.
-Dialogue: 0,0:24:03.79,0:24:06.48,Narrator,,0,0,0,,Uneasiness settles in Kozue's heart.
-Dialogue: 0,0:24:07.22,0:24:12.38,Narrator,,0,0,0,,Seemingly perfect Hayakawa Midori gets the club a gym…
-Dialogue: 0,0:24:12.92,0:24:15.56,Narrator,,0,0,0,,…and quickly becomes popular.
-Dialogue: 0,0:24:15.56,0:24:17.65,Narrator,,0,0,0,,Looks like Kozue's left behind.
-Dialogue: 0,0:24:18.36,0:24:22.69,Narrator,,0,0,0,,Then one day, she receives a mysterious letter.
-Dialogue: 0,0:24:23.22,0:24:26.41,Narrator,,0,0,0,,Please look forward to the next episode.
+Dialogue: 0,0:23:54.51,0:23:57.78,Alternative,,0,0,0,,Having chosen Kozue as their captain, the volleyball club…
+Dialogue: 0,0:23:57.78,0:24:00.64,Alternative,,0,0,0,,…sets out to work on their new goal.
+Dialogue: 0,0:24:01.10,0:24:03.79,Alternative,,0,0,0,,But Hayakawa Midori makes her appearance.
+Dialogue: 0,0:24:03.79,0:24:06.48,Alternative,,0,0,0,,Uneasiness settles in Kozue's heart.
+Dialogue: 0,0:24:07.22,0:24:12.38,Alternative,,0,0,0,,Seemingly perfect Hayakawa Midori gets the club a gym…
+Dialogue: 0,0:24:12.92,0:24:15.56,Alternative,,0,0,0,,…and quickly becomes popular.
+Dialogue: 0,0:24:15.56,0:24:17.65,Alternative,,0,0,0,,Looks like Kozue's left behind.
+Dialogue: 0,0:24:18.36,0:24:22.69,Alternative,,0,0,0,,Then one day, she receives a mysterious letter.
+Dialogue: 0,0:24:23.22,0:24:26.41,Alternative,,0,0,0,,Please look forward to the next episode.
 Dialogue: 0,0:24:41.06,0:24:44.93,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}青い青い空に
 Dialogue: 0,0:24:44.93,0:24:48.02,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}バンボンボボン
 Dialogue: 0,0:24:48.02,0:24:52.09,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}はずむボールが

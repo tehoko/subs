@@ -19,9 +19,10 @@ Video Zoom Percent: 1.000000
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,94,100,0,0,1,3,0,2,36,36,36,1
-Style: Narrator,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,2,36,36,36,1
+Style: Alternative,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,2,36,36,36,1
 Style: Lyrics EN,Gotham Rounded Medium,43,&H00BFF6FF,&H8C7A8688,&H00202020,&H7F202020,-1,0,0,0,94,100,0,0,1,3,0,2,36,36,36,1
 Style: Lyrics JP,Source Han Sans CN,45,&H00BFF6FF,&H0097F0F8,&H00202020,&H7F101010,-1,0,0,0,90,100,0,0,1,3,0,2,36,36,36,1
+Style: Sign,Gotham Rounded Medium,43,&H009AFBDC,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,8,36,36,36,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -543,14 +544,14 @@ Dialogue: 0,0:23:34.59,0:23:36.05,Default,,0,0,0,,{どんなに厳しい合宿�
 Dialogue: 0,0:23:38.25,0:23:38.60,Default,,0,0,0,,{え。}Yep.
 Dialogue: 0,0:23:38.60,0:23:39.42,Default,,0,0,0,,{やるわ。}We'll fight.
 Dialogue: 0,0:23:39.42,0:23:41.17,Default,,0,0,0,,{あたしはきっとやってみせるわ。}I'll show them how to play.
-Dialogue: 0,0:23:53.65,0:23:56.85,Narrator,,0,0,0,,{泉ユリの変化球サーブXXXを胸に秘め(る)。}While Izumi Yuri's curve ball technique remains a secret…
-Dialogue: 0,0:23:56.85,0:24:02.44,Narrator,,0,0,0,,{こずえ・みどりアタックコンビは富士見大学女子バレー部の合宿に参加した。}…Kozue-Midori attack duo participates in Fujimi all-girls university volleyball training camp.
-Dialogue: 0,0:24:02.44,0:24:05.87,Narrator,,0,0,0,,{彼女XX目的はなんであると見抜いたキャプテンの大原は…}Captain Oohara, seeing through their goal right away…
-Dialogue: 0,0:24:05.87,0:24:08.89,Narrator,,0,0,0,,{中学生といえども、容赦無くXXX。}…doesn't go easy, even though they're middle schoolers.
-Dialogue: 0,0:24:08.89,0:24:11.58,Narrator,,0,0,0,,{挫けそうに成る二人に大原の叱責はとる。}About to collapse, they get reprimanded by Oohara.
-Dialogue: 0,0:24:12.23,0:24:15.26,Narrator,,0,0,0,,{だが、二人は練習に必死に耐える。}But they endure the training desperately.
-Dialogue: 0,0:24:15.26,0:24:18.63,Narrator,,0,0,0,,{ついに、変化球サーブXXXの飛球を身につけるだ。}Finally, they start seeing through the curve ball.
-Dialogue: 0,0:24:18.63,0:24:21.95,Narrator,,0,0,0,,{さ、来週のアタックナンバーワンをお楽しみに。}Please look forward to the next episode.
+Dialogue: 0,0:23:53.65,0:23:56.85,Alternative,,0,0,0,,{泉ユリの変化球サーブXXXを胸に秘め(る)。}While Izumi Yuri's curve ball technique remains a secret…
+Dialogue: 0,0:23:56.85,0:24:02.44,Alternative,,0,0,0,,{こずえ・みどりアタックコンビは富士見大学女子バレー部の合宿に参加した。}…Kozue-Midori attack duo participates in Fujimi all-girls university volleyball training camp.
+Dialogue: 0,0:24:02.44,0:24:05.87,Alternative,,0,0,0,,{彼女XX目的はなんであると見抜いたキャプテンの大原は…}Captain Oohara, seeing through their goal right away…
+Dialogue: 0,0:24:05.87,0:24:08.89,Alternative,,0,0,0,,{中学生といえども、容赦無くXXX。}…doesn't go easy, even though they're middle schoolers.
+Dialogue: 0,0:24:08.89,0:24:11.58,Alternative,,0,0,0,,{挫けそうに成る二人に大原の叱責はとる。}About to collapse, they get reprimanded by Oohara.
+Dialogue: 0,0:24:12.23,0:24:15.26,Alternative,,0,0,0,,{だが、二人は練習に必死に耐える。}But they endure the training desperately.
+Dialogue: 0,0:24:15.26,0:24:18.63,Alternative,,0,0,0,,{ついに、変化球サーブXXXの飛球を身につけるだ。}Finally, they start seeing through the curve ball.
+Dialogue: 0,0:24:18.63,0:24:21.95,Alternative,,0,0,0,,{さ、来週のアタックナンバーワンをお楽しみに。}Please look forward to the next episode.
 Dialogue: 0,0:24:40.17,0:24:44.04,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}青い青い空に
 Dialogue: 0,0:24:44.04,0:24:47.13,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}バンボンボボン
 Dialogue: 0,0:24:47.13,0:24:51.20,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}はずむボールが

@@ -19,9 +19,10 @@ Video Zoom Percent: 1.000000
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,94,100,0,0,1,3,0,2,36,36,36,1
-Style: Narrator,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,2,36,36,36,1
+Style: Alternative,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,2,36,36,36,1
 Style: Lyrics EN,Gotham Rounded Medium,43,&H00BFF6FF,&H8C7A8688,&H00202020,&H7F202020,-1,0,0,0,94,100,0,0,1,3,0,2,36,36,36,1
 Style: Lyrics JP,Source Han Sans CN,45,&H00BFF6FF,&H0097F0F8,&H00202020,&H7F101010,-1,0,0,0,90,100,0,0,1,3,0,2,36,36,36,1
+Style: Sign,Gotham Rounded Medium,43,&H009AFBDC,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,8,36,36,36,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -487,16 +488,16 @@ Dialogue: 0,0:23:27.30,0:23:28.01,Default,,0,0,0,,{あたし…}I…
 Dialogue: 0,0:23:28.63,0:23:29.30,Default,,0,0,0,,{やってみる。}…will try.
 Dialogue: 0,0:23:30.68,0:23:32.64,Default,,0,0,0,,{陸上部でやってみるわ。}I'll do my best in the track and field club.
 Dialogue: 0,0:23:32.97,0:23:35.52,Default,,0,0,0,,{バレーに全力でぶつかったと同じよ。}I'll put in the same strength I put into volleyball.
-Dialogue: 0,0:23:52.58,0:23:55.75,Narrator,,0,0,0,,{念願の全国大会初出場は成った。}The first match in All-Japan Tournament draws near.
-Dialogue: 0,0:23:55.75,0:23:57.87,Narrator,,0,0,0,,{「君達には優勝する実力がある。」}"You have what it takes to win."
-Dialogue: 0,0:23:57.87,0:23:59.96,Narrator,,0,0,0,,{…と本郷コーチは保証する。}— professor Hongou encourages the girls.
-Dialogue: 0,0:23:59.96,0:24:03.42,Narrator,,0,0,0,,{富士見学園チームはXXなって、東京に向かった。}The Fujimi Academy team goes to Tokyo.
-Dialogue: 0,0:24:03.42,0:24:04.88,Narrator,,0,0,0,,{懐かしい東京。}The nostalgic Tokyo.
-Dialogue: 0,0:24:04.88,0:24:07.63,Narrator,,0,0,0,,{こずえはXX明法学園を訪れた。}Kozue visits the Meihou Academy.
-Dialogue: 0,0:24:07.63,0:24:12.97,Narrator,,0,0,0,,{だが、明法の体育館で練習中の福岡中学を見て、XX。}In the Meihou's gym, she meets powerful peers from Fukuoka Middle School in the middle of practice.
-Dialogue: 0,0:24:12.97,0:24:16.31,Narrator,,0,0,0,,{中学生には及びもつかないレシーブを知っている戦士がいる。}Some of them know a receive technique way above middle schoolers level.
-Dialogue: 0,0:24:16.31,0:24:19.10,Narrator,,0,0,0,,{こずえの自身は俄に崩れかかる。}Kozue's confidence quickly collapses.
-Dialogue: 0,0:24:19.10,0:24:22.82,Narrator,,0,0,0,,{さ、来週のアタックナンバーワンをお楽しみに。}Please look forward to the next episode.
+Dialogue: 0,0:23:52.58,0:23:55.75,Alternative,,0,0,0,,{念願の全国大会初出場は成った。}The first match in All-Japan Tournament draws near.
+Dialogue: 0,0:23:55.75,0:23:57.87,Alternative,,0,0,0,,{「君達には優勝する実力がある。」}"You have what it takes to win."
+Dialogue: 0,0:23:57.87,0:23:59.96,Alternative,,0,0,0,,{…と本郷コーチは保証する。}— professor Hongou encourages the girls.
+Dialogue: 0,0:23:59.96,0:24:03.42,Alternative,,0,0,0,,{富士見学園チームはXXなって、東京に向かった。}The Fujimi Academy team goes to Tokyo.
+Dialogue: 0,0:24:03.42,0:24:04.88,Alternative,,0,0,0,,{懐かしい東京。}The nostalgic Tokyo.
+Dialogue: 0,0:24:04.88,0:24:07.63,Alternative,,0,0,0,,{こずえはXX明法学園を訪れた。}Kozue visits the Meihou Academy.
+Dialogue: 0,0:24:07.63,0:24:12.97,Alternative,,0,0,0,,{だが、明法の体育館で練習中の福岡中学を見て、XX。}In the Meihou's gym, she meets powerful peers from Fukuoka Middle School in the middle of practice.
+Dialogue: 0,0:24:12.97,0:24:16.31,Alternative,,0,0,0,,{中学生には及びもつかないレシーブを知っている戦士がいる。}Some of them know a receive technique way above middle schoolers level.
+Dialogue: 0,0:24:16.31,0:24:19.10,Alternative,,0,0,0,,{こずえの自身は俄に崩れかかる。}Kozue's confidence quickly collapses.
+Dialogue: 0,0:24:19.10,0:24:22.82,Alternative,,0,0,0,,{さ、来週のアタックナンバーワンをお楽しみに。}Please look forward to the next episode.
 Dialogue: 0,0:24:39.16,0:24:43.04,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}青い青い空に
 Dialogue: 0,0:24:43.04,0:24:46.13,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}バンボンボボン
 Dialogue: 0,0:24:46.13,0:24:50.17,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}はずむボールが

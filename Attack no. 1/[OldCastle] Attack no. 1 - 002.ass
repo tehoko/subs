@@ -19,9 +19,10 @@ Video Zoom Percent: 1.000000
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,94,100,0,0,1,3,0,2,36,36,36,1
-Style: Narrator,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,2,36,36,36,1
+Style: Alternative,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,2,36,36,36,1
 Style: Lyrics EN,Gotham Rounded Medium,43,&H00BFF6FF,&H8C7A8688,&H00202020,&H7F202020,-1,0,0,0,94,100,0,0,1,3,0,2,36,36,36,1
 Style: Lyrics JP,Source Han Sans CN,45,&H00BFF6FF,&H0097F0F8,&H00202020,&H7F101010,-1,0,0,0,90,100,0,0,1,3,0,2,36,36,36,1
+Style: Sign,Gotham Rounded Medium,43,&H009AFBDC,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,8,36,36,36,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -488,13 +489,13 @@ Dialogue: 0,0:23:17.16,0:23:18.15,Default,,0,0,0,,{あゆはらさん。}Ayuhara
 Dialogue: 0,0:23:19.98,0:23:21.42,Default,,0,0,0,,{お待たせしました。}Sorry to keep you waiting.
 Dialogue: 0,0:23:21.94,0:23:23.01,Default,,0,0,0,,{いかがでしょう？}How is it?
 Dialogue: 0,0:23:28.67,0:23:29.60,Default,,0,0,0,,{先生…}Doctor.
-Dialogue: 0,0:23:54.36,0:23:58.01,Narrator,,0,0,0,,{レントゲン写真にじっと見る医者の表情は固い。}The doctor's gaze over radiograph is long and inscrutable.
-Dialogue: 0,0:23:58.01,0:24:03.09,Narrator,,0,0,0,,{だが、バレーボールに打ち込んだ若い生命力は、見事に病気を直していたのだ。}However, the youthful devotion to the volleyball seems to have helped in curing the illness.
-Dialogue: 0,0:24:03.09,0:24:10.40,Narrator,,0,0,0,,{いよいよ試合の日。こずえの率いる不良チームたいバレー部の解決は嫌な上にも任侠呼んだ。}Finally, the day of the match. The useless group led by Kozue settles things out with the volleyball club.
-Dialogue: 0,0:24:10.40,0:24:14.97,Narrator,,0,0,0,,{不良チームは、一ヶ月激しいトレーニングの成果をXXXだが、}The extreme training spanning one month seems to have fruited, but…
-Dialogue: 0,0:24:14.97,0:24:18.01,Narrator,,0,0,0,,{大勢の慣習の前にしてしっかり固くなり…}…the useless group tenses up in front of a crowd of spectators.
-Dialogue: 0,0:24:18.01,0:24:21.69,Narrator,,0,0,0,,{バレー部のなすがままに、とくてんはどんどんひらいていく。}Unfazed, the volleyball club has no intention of going easy.
-Dialogue: 0,0:24:21.69,0:24:27.09,Narrator,,0,0,0,,{さ、来週のアタックナンバーワン：「新キャプテン誕生」お楽しみに。}Please look forward to the next episode.
+Dialogue: 0,0:23:54.36,0:23:58.01,Alternative,,0,0,0,,{レントゲン写真にじっと見る医者の表情は固い。}The doctor's gaze over radiograph is long and inscrutable.
+Dialogue: 0,0:23:58.01,0:24:03.09,Alternative,,0,0,0,,{だが、バレーボールに打ち込んだ若い生命力は、見事に病気を直していたのだ。}However, the youthful devotion to the volleyball seems to have helped in curing the illness.
+Dialogue: 0,0:24:03.09,0:24:10.40,Alternative,,0,0,0,,{いよいよ試合の日。こずえの率いる不良チームたいバレー部の解決は嫌な上にも任侠呼んだ。}Finally, the day of the match. The useless group led by Kozue settles things out with the volleyball club.
+Dialogue: 0,0:24:10.40,0:24:14.97,Alternative,,0,0,0,,{不良チームは、一ヶ月激しいトレーニングの成果をXXXだが、}The extreme training spanning one month seems to have fruited, but…
+Dialogue: 0,0:24:14.97,0:24:18.01,Alternative,,0,0,0,,{大勢の慣習の前にしてしっかり固くなり…}…the useless group tenses up in front of a crowd of spectators.
+Dialogue: 0,0:24:18.01,0:24:21.69,Alternative,,0,0,0,,{バレー部のなすがままに、とくてんはどんどんひらいていく。}Unfazed, the volleyball club has no intention of going easy.
+Dialogue: 0,0:24:21.69,0:24:27.09,Alternative,,0,0,0,,{さ、来週のアタックナンバーワン：「新キャプテン誕生」お楽しみに。}Please look forward to the next episode.
 Dialogue: 0,0:24:41.08,0:24:44.95,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}青い青い空に
 Dialogue: 0,0:24:44.95,0:24:48.04,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}バンボンボボン
 Dialogue: 0,0:24:48.04,0:24:52.11,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}はずむボールが

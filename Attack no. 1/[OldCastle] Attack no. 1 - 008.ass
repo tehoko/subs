@@ -19,9 +19,10 @@ Video Zoom Percent: 1.000000
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,94,100,0,0,1,3,0,2,36,36,36,1
-Style: Narrator,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,2,36,36,36,1
+Style: Alternative,Gotham Rounded Medium,43,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,2,36,36,36,1
 Style: Lyrics EN,Gotham Rounded Medium,43,&H00BFF6FF,&H8C7A8688,&H00202020,&H7F202020,-1,0,0,0,94,100,0,0,1,3,0,2,36,36,36,1
 Style: Lyrics JP,Source Han Sans CN,45,&H00BFF6FF,&H0097F0F8,&H00202020,&H7F101010,-1,0,0,0,90,100,0,0,1,3,0,2,36,36,36,1
+Style: Sign,Gotham Rounded Medium,43,&H009AFBDC,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,8,36,36,36,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -529,12 +530,12 @@ Dialogue: 0,0:23:26.04,0:23:27.52,Default,,0,0,0,,{やる気なの？}Are you se
 Dialogue: 0,0:23:31.26,0:23:36.11,Default,,0,0,0,,{いよいよ大学バレー部の合宿で鍛えた成果を試す時が来たわ。}It's time to test the results of the training at university volleyball camp.
 Dialogue: 0,0:23:36.11,0:23:37.83,Default,,0,0,0,,{木の葉おとす。}"Leaf Fall".
 Dialogue: 0,0:23:37.83,0:23:40.75,Default,,0,0,0,,{木の葉おとしのXXX試す時が。}It's time to see what impact a fallen leaf can make.
-Dialogue: 0,0:23:54.08,0:23:59.29,Narrator,,0,0,0,,{浜紀学園との合併XX、ますます対立するアタックコンビと四天王…}Since the Hamaki merge, there's been a conflict between the attack duo and the Big Four.
-Dialogue: 0,0:23:59.29,0:24:04.37,Narrator,,0,0,0,,{だが、本郷先生はコーチに決まったことから、ますます対立は激しくなる。}But now that professor Hongou is the coach, the conflict only deepens further.
-Dialogue: 0,0:24:04.37,0:24:10.11,Narrator,,0,0,0,,{得に、四天王の一人泉の反発は、部員達が驚くほどの激し浚った。}Izumi puts up a particular opposition, surprising the other club members.
-Dialogue: 0,0:24:10.11,0:24:12.80,Narrator,,0,0,0,,{本郷コーチは実力第一と言う…}Professor Hongou acknowledges that skill is crucial…
-Dialogue: 0,0:24:12.80,0:24:17.90,Narrator,,0,0,0,,{…そこで試合におって、どちらが実力なあるか、決着を決めることになった。}…and thus the girls hold a match to prove whose skill is greater.
-Dialogue: 0,0:24:17.90,0:24:22.13,Narrator,,0,0,0,,{さ、来週のアタックナンバーワンをお楽しみに。}Please look forward to the next episode.
+Dialogue: 0,0:23:54.08,0:23:59.29,Alternative,,0,0,0,,{浜紀学園との合併XX、ますます対立するアタックコンビと四天王…}Since the Hamaki merge, there's been a conflict between the attack duo and the Big Four.
+Dialogue: 0,0:23:59.29,0:24:04.37,Alternative,,0,0,0,,{だが、本郷先生はコーチに決まったことから、ますます対立は激しくなる。}But now that professor Hongou is the coach, the conflict only deepens further.
+Dialogue: 0,0:24:04.37,0:24:10.11,Alternative,,0,0,0,,{得に、四天王の一人泉の反発は、部員達が驚くほどの激し浚った。}Izumi puts up a particular opposition, surprising the other club members.
+Dialogue: 0,0:24:10.11,0:24:12.80,Alternative,,0,0,0,,{本郷コーチは実力第一と言う…}Professor Hongou acknowledges that skill is crucial…
+Dialogue: 0,0:24:12.80,0:24:17.90,Alternative,,0,0,0,,{…そこで試合におって、どちらが実力なあるか、決着を決めることになった。}…and thus the girls hold a match to prove whose skill is greater.
+Dialogue: 0,0:24:17.90,0:24:22.13,Alternative,,0,0,0,,{さ、来週のアタックナンバーワンをお楽しみに。}Please look forward to the next episode.
 Dialogue: 0,0:24:40.18,0:24:44.05,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}青い青い空に
 Dialogue: 0,0:24:44.05,0:24:47.14,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}バンボンボボン
 Dialogue: 0,0:24:47.14,0:24:51.21,Lyrics JP,Lyrics_Kanji,0,0,0,,{\an8}はずむボールが
