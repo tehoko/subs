@@ -21,6 +21,7 @@ Style: Lyrics EN,Gotham Rounded Medium,43,&H00BFF6FF,&H8C7A8688,&H00202020,&H7F2
 Style: Lyrics JP,Source Han Sans CN,45,&H00BFF6FF,&H0097F0F8,&H00202020,&H7F101010,-1,0,0,0,90,100,0,0,1,3,0,2,36,36,36,1
 Style: Sign,Gotham Rounded Medium,43,&H009AFBDC,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94,100,0,0,1,3,0,8,36,36,36,1
 Style: Blackboard,Etelka Text Pro,43,&H00CDD1D2,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Default (ru),Calibri,45,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100,100,0,0,1,3,0,2,36,36,36,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -60,7 +61,7 @@ Dialogue: 0,0:00:52.41,0:01:00.68,Lyrics EN,,0,0,0,,Through the tears and sweat,
 Dialogue: 0,0:01:00.68,0:01:08.82,Lyrics EN,,0,0,0,,…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:08.82,0:01:16.98,Lyrics EN,,0,0,0,,Attack! Attack! Number 1!
 Dialogue: 0,0:01:16.98,0:01:26.12,Lyrics EN,,0,0,0,,Attack! Attack! Number 1!
-Dialogue: 0,0:01:32.61,0:01:40.03,Default,,0,0,0,,{勝利と敗北の間}—Episode 017—\NBetween victory and defeat
+Dialogue: 0,0:01:32.61,0:01:40.03,Default,,0,0,0,,{勝利と敗北の間}—Episode 017—\NVictory is not everything
 Dialogue: 0,0:01:48.77,0:01:49.67,Default,(unknown),0,0,0,,{え？}Eh?
 Dialogue: 0,0:01:49.67,0:01:54.12,Default,(unknown),0,0,0,,{バレー部XXX体育館建設をソ連との試合にかかってるんですって？}You wagered the construction of the new gym on winning with the Soviet Union?
 Dialogue: 0,0:01:54.12,0:01:58.04,Default,(unknown),0,0,0,,{と言うことは、ソ連に勝たなければ、体育館をXXXてことね？}So if we don't win with the Soviet Union, there's no gym?
@@ -80,15 +81,15 @@ Dialogue: 0,0:02:30.76,0:02:33.52,Default,Kashiwagi,0,0,0,,{そ、それはあ�
 Dialogue: 0,0:02:33.52,0:02:34.42,Default,Kashiwagi,0,0,0,,{でも…}But…
 Dialogue: 0,0:02:34.42,0:02:35.61,Default,Ayuhara,0,0,0,,{でもなんなの？}But what?
 Dialogue: 0,0:02:35.61,0:02:39.93,Default,Kashiwagi,0,0,0,,{ん、でもさ、「何が何でも絶対に勝つ」なんて、そんな。}But saying that we have to win no matter the costs is a little too much.
-Dialogue: 0,0:02:39.93,0:02:46.35,Default,Kashiwagi,0,0,0,,だ、だって、本郷先生はコーチ降りたのは早川さんが言うように本当に作戦XXのことかしら？
-Dialogue: 0,0:02:46.35,0:02:49.92,Default,Kashiwagi,0,0,0,,{ね、早川さん、あなたはそう言い切れる自身があって？}Hayakawa-san, can you say\hit with certainty yourself?
-Dialogue: 0,0:02:50.79,0:02:52.14,Default,Kashiwagi,0,0,0,,{ないよね。}You can't, right.
+Dialogue: 0,0:02:39.93,0:02:46.35,Default,Kashiwagi,0,0,0,,{だって、本郷先生はコーチ降りたのは早川さんが言うように本当に作戦上のことかしら？}But I doubt prof. Hongou left us as a part of his strategy like Hayakawa-san said he did.
+Dialogue: 0,0:02:46.35,0:02:49.92,Default,Kashiwagi,0,0,0,,{ね、早川さん、あなたはそう言い切れる自身があって？}Hayakawa-san, do you really believe it?
+Dialogue: 0,0:02:50.79,0:02:52.14,Default,Kashiwagi,0,0,0,,{ないよね。}You don't, right?
 Dialogue: 0,0:02:52.14,0:02:53.33,Default,Kashiwagi,0,0,0,,{ない、ない。}No way. Nope.
 Dialogue: 0,0:02:53.33,0:02:56.92,Default,(unknown),0,0,0,,{XXX相手は日本の高校チームが構わない、ソ連チームだね。}Our opponent is the Soviet Union that even our high schools can't win with.
 Dialogue: 0,0:02:56.92,0:03:02.54,Default,(unknown),0,0,0,,{そうよ。いくら自身があっても、毎日本郷先生のコーチがなって、やっぱり少し不安な。}No matter how confident we are, we're a\hlittle worried without professor Hongou.
 Dialogue: 0,0:03:03.16,0:03:04.02,Default,Nakazawa,0,0,0,,{ん。}Yep.
 Dialogue: 0,0:03:04.02,0:03:06.70,Default,Nakazawa,0,0,0,,{今度の全国大会の優勝がいい見本よ。}That All-Japan tournament was a good example.
-Dialogue: 0,0:03:06.70,0:03:08.62,Default,Nakazawa,0,0,0,,{本郷先生はいなきゃ、やっぱりむりよ。}We stand no chance without prof. Hongou.
+Dialogue: 0,0:03:06.70,0:03:08.62,Default,Nakazawa,0,0,0,,{本郷先生はいなきゃ、やっぱりむりよ。}We stand no chance without professor Hongou.
 Dialogue: 0,0:03:08.62,0:03:11.18,Default,Kashiwagi,0,0,0,,{あたしたちだけじゃ絶対勝てるて言い切らないわ。}We can't say for sure that we will win by ourselves.
 Dialogue: 0,0:03:11.18,0:03:12.85,Default,Kashiwagi,0,0,0,,{いくら自身があっても。ね？}No matter our confidence. Right?
 Dialogue: 0,0:03:12.85,0:03:13.29,Default,(unknown),0,0,0,,{ね。}Yep.
@@ -113,19 +114,19 @@ Dialogue: 0,0:04:22.43,0:04:24.54,Default,Ayuhara,0,0,0,,{さ、千本スパイ�
 Dialogue: 0,0:04:24.54,0:04:25.56,Default,(unison),0,0,0,,{—はい！\N—はい！}Okay!
 Dialogue: 0,0:04:28.74,0:04:29.42,Default,Ayuhara,0,0,0,,{はい。}
 Dialogue: 0,0:04:30.12,0:04:31.01,Default,(mixed),0,0,0,,{—行くわよ。\N—OK。}– Here I go.\N– OK.
-Dialogue: 0,0:04:31.01,0:04:32.36,Default,Nakazawa,0,0,0,,XXX。それ！
+Dialogue: 0,0:04:31.01,0:04:32.36,Default,Nakazawa,0,0,0,,{XXX。それ！}All right!
 Dialogue: 0,0:04:32.36,0:04:33.23,Default,Ikezaki,0,0,0,,{はい。}
 Dialogue: 0,0:04:33.23,0:04:34.63,Default,(unknown),0,0,0,,{ほらほらほら、何やってんだ？}Come on, come on, come on.\NWhatcha doing?
 Dialogue: 0,0:04:34.63,0:04:35.52,Default,Fukuda,0,0,0,,{それ！}
 Dialogue: 0,0:04:36.28,0:04:37.29,Default,Ozawa,0,0,0,,{はい。}
 Dialogue: 0,0:04:37.29,0:04:38.79,Default,(unknown),0,0,0,,{行くわよ。}Here I go!
-Dialogue: 0,0:04:38.79,0:04:40.42,Default,Ayuhara,0,0,0,,{親分、いいわよ。}Chief, I'm ready!
+Dialogue: 0,0:04:38.79,0:04:40.42,Default,Ayuhara,0,0,0,,{XXX、いいわよ。}Don't lose your focus!
 Dialogue: 0,0:04:40.42,0:04:40.99,Default,(unknown),0,0,0,,{それ。}
 Dialogue: 0,0:04:40.99,0:04:42.22,Default,Ozawa,0,0,0,,{それ。}
 Dialogue: 0,0:04:43.38,0:04:44.41,Default,(unknown),0,0,0,,{それ。}
 Dialogue: 0,0:04:44.41,0:04:44.82,Default,(unknown),0,0,0,,{あ。}Ah!
 Dialogue: 0,0:04:45.52,0:04:46.28,Default,(unknown),0,0,0,,{パス。}Pass!
-Dialogue: 0,0:04:48.97,0:04:50.45,Default,Ozawa,0,0,0,,{だらしないわよ。}How clumsy.
+Dialogue: 0,0:04:48.97,0:04:50.45,Default,Ozawa,0,0,0,,{だらしないわよ。}Don't be such a klutz.
 Dialogue: 0,0:04:50.45,0:04:51.80,Default,Nakazawa,0,0,0,,{負けるもんか。}I won't lose.
 Dialogue: 0,0:04:51.80,0:04:54.06,Default,Ayuhara,0,0,0,,{ナカ、そんなことじゃソ連に勝てないわよ。}Naka, we won't win with the Soviets like this.
 Dialogue: 0,0:04:56.38,0:04:58.43,Alternative,Ayuhara,0,0,0,,{そんなことじゃソ連に勝てない？}We won't win with the Soviets like this…?
@@ -138,19 +139,18 @@ Dialogue: 0,0:05:07.16,0:05:08.65,Alternative,Ayuhara,0,0,0,,{でも…}But…
 Dialogue: 0,0:05:08.65,0:05:09.52,Alternative,Ayuhara,0,0,0,,{あ。}Ah.
 Dialogue: 0,0:05:10.84,0:05:12.92,Alternative,(unknown),0,0,0,,{やっぱりソ連に負けたじゃないか？}You lost to the Soviet Union after all?
 Dialogue: 0,0:05:13.81,0:05:14.63,Alternative,(unknown),0,0,0,,{だめだ。}You're hopeless.
-Dialogue: 0,0:05:14.63,0:05:15.96,Alternative,(unknown),0,0,0,,{勝つ自身があると言ったのは。}So was your confidence.
-Dialogue: 0,0:05:15.96,0:05:19.04,Alternative,(unknown),0,0,0,,{こうなったX新体育館もうじゃね。}It's a goodbye to the new gym then.
-Dialogue: 0,0:05:19.04,0:05:22.74,Alternative,(unknown),0,0,0,,中々XXX優勝XXXこうなるんだ。
-Dialogue: 0,0:05:22.74,0:05:24.78,Alternative,(unknown),0,0,0,,これでXXXほどでしょう。
-Dialogue: 0,0:05:24.78,0:05:26.58,Alternative,(unknown),0,0,0,,{このさえバレー部なんか解散しろ。}The club's gonna get disbanded.
-Dialogue: 0,0:05:26.58,0:05:31.00,Alternative,(mixed),0,0,0,,{XXX！}Disbanded! Disbanded!
+Dialogue: 0,0:05:14.63,0:05:19.04,Alternative,(unknown),0,0,0,,{勝つ自身があると言ったのは。}– I thought you were confident you'll win?\N{こうなったX新体育館もうじゃね。}– It's a goodbye to the new gym then.
+Dialogue: 0,0:05:19.04,0:05:22.74,Alternative,(unknown),0,0,0,,{中々XXX優勝XXXこうなるんだ。}You won a single championship and you got this conceited already.
+Dialogue: 0,0:05:22.74,0:05:24.78,Alternative,(unknown),0,0,0,,{これで無量ほどしたでしょう。}You don't know your place.
+Dialogue: 0,0:05:24.78,0:05:26.58,Alternative,(unknown),0,0,0,,{このさえバレー部なんか解散しろ。}You should just disband the club!
+Dialogue: 0,0:05:26.58,0:05:31.00,Alternative,(mixed),0,0,0,,{XXX！}Disband! Disband!
 Dialogue: 0,0:05:31.00,0:05:32.00,Alternative,Ayuhara,0,0,0,,{止めて。}Stop it.
-Dialogue: 0,0:05:32.00,0:05:33.67,Alternative,Ayuhara,0,0,0,,{解散だけは許して。}Anything but disbanding.
+Dialogue: 0,0:05:32.00,0:05:33.67,Alternative,Ayuhara,0,0,0,,{解散だけは許して。}Anything but disbanding it.
 Dialogue: 0,0:05:33.67,0:05:35.15,Alternative,Ayuhara,0,0,0,,{お願いよ。}Please.
-Dialogue: 0,0:05:35.15,0:05:36.58,Alternative,(unknown),0,0,0,,{解散。}Disbanding.
+Dialogue: 0,0:05:35.15,0:05:36.58,Alternative,(unknown),0,0,0,,{解散。}Disband.
 Dialogue: 0,0:05:38.75,0:05:39.95,Alternative,Ayuhara,0,0,0,,{止めて！}Stop!
-Dialogue: 0,0:05:42.80,0:05:43.56,Alternative,(unknown),0,0,0,,{解散。}Disbanding.
-Dialogue: 0,0:05:44.97,0:05:45.44,Alternative,(unknown),0,0,0,,{解散。}Disbanding!
+Dialogue: 0,0:05:42.80,0:05:43.56,Alternative,(unknown),0,0,0,,{解散。}Disband.
+Dialogue: 0,0:05:44.97,0:05:45.44,Alternative,(unknown),0,0,0,,{解散。}Disband!
 Dialogue: 0,0:05:45.44,0:05:46.64,Alternative,Ayuhara,0,0,0,,{止めて。}Stop!
 Dialogue: 0,0:05:50.96,0:05:52.32,Default,(unknown),0,0,0,,{どうしたの？}What's wrong?
 Dialogue: 0,0:05:52.32,0:05:54.32,Default,Nakazawa,0,0,0,,{—ね、気分は悪いの？\N—なんでもないわ。}– Are you feeling unwell?\N– It's nothing.
@@ -161,41 +161,42 @@ Dialogue: 0,0:06:14.88,0:06:16.34,Alternative,Ayuhara,0,0,0,,{こずえ。}Kozue
 Dialogue: 0,0:06:16.34,0:06:20.18,Alternative,Ayuhara,0,0,0,,{あなたは本当にソ連に勝てる自身があるの？}Do you really think you can win with the Soviets?
 Dialogue: 0,0:06:20.18,0:06:22.73,Alternative,Ayuhara,0,0,0,,{負ければ皆の前で宣言なんてしないわ。}If I lost, I couldn't face the others.
 Dialogue: 0,0:06:24.14,0:06:25.39,Alternative,Ayuhara,0,0,0,,{勝つわ。}We'll win.
-Dialogue: 0,0:06:25.39,0:06:27.39,Alternative,Ayuhara,0,0,0,,{ソ連との試合を勝って見せます。}We will show you a victory with the Soviets.
-Dialogue: 0,0:06:32.31,0:06:36.06,Alternative,Ayuhara,0,0,0,,言ってしまった後、あたしはXXXしまったと思った。
-Dialogue: 0,0:06:36.06,0:06:39.99,Alternative,Ayuhara,0,0,0,,{勝つ自身があっても、試合はやってみなければ分からない。}Even though I believe in us, one can't know an outcome until after the match.
+Dialogue: 0,0:06:25.39,0:06:27.59,Alternative,Ayuhara,0,0,0,,{ソ連との試合を勝って見せます。}We will show you a victory with the Soviets.
+Dialogue: 0,0:06:32.31,0:06:36.06,Alternative,Ayuhara,0,0,0,,{言ってしまった後、あたしはXXXしまったと思った。}I was sure of this back then when I said those words.
+Dialogue: 0,0:06:36.06,0:06:39.99,Alternative,Ayuhara,0,0,0,,{勝つ自身があっても、試合はやってみなければ分からない。}Even though I believe in us, one can't know the outcome until after the match.
 Dialogue: 0,0:06:39.99,0:06:42.28,Alternative,Ayuhara,0,0,0,,{でも、もう言ってしまったのよ。}But I went ahead and said that already.
 Dialogue: 0,0:06:44.07,0:06:44.90,Alternative,Ayuhara,0,0,0,,{そう。}That's right.
-Dialogue: 0,0:06:44.90,0:06:47.92,Alternative,Ayuhara,0,0,0,,{もう皆の前ではっきり宣言してしまったの。}I' declared our win in front of everyone.
+Dialogue: 0,0:06:44.90,0:06:47.92,Alternative,Ayuhara,0,0,0,,{もう皆の前ではっきり宣言してしまったの。}I've declared our win in front of everyone.
 Dialogue: 0,0:06:47.92,0:06:49.58,Alternative,Ayuhara,0,0,0,,{賽は投げられたのよ。}There's no going back.
 Dialogue: 0,0:06:49.58,0:06:53.74,Alternative,Ayuhara,0,0,0,,{それに、あたしの「絶対に勝とう」って言う言葉を信じてくれるメンバー。}Besides, the club members still believe my words.
 Dialogue: 0,0:06:53.74,0:06:56.90,Alternative,Ayuhara,0,0,0,,{ここまで来たら、何が何でも絶対勝つ以外はないのよ。}At this point there's no option but to win.
 Dialogue: 0,0:06:56.90,0:06:58.90,Alternative,Ayuhara,0,0,0,,{いえ。きっと勝つわ。}We'll win for sure.
 Dialogue: 0,0:07:01.63,0:07:06.80,Alternative,Ayuhara,0,0,0,,{そして努さんXXX、バレーをXXX人たち、皆を見返してやるわ。}We'll triumph over Tsutomu-san and people who've underestimated our club.
 Dialogue: 0,0:07:06.80,0:07:12.90,Alternative,Ayuhara,0,0,0,,{でもそのためにも本郷先生が一番大事な試合の時にコーチおりるなんて卑怯だわ。}But professor Hongou's resignation just before this important game was unfair.
-Dialogue: 0,0:07:12.90,0:07:17.24,Alternative,Ayuhara,0,0,0,,{「何のためにバレーをやるか」なんて聞かれてもすぐ答えられるわけがないわ。}There's no way I could answer on the spot as to why I'm playing volleball.
+Dialogue: 0,0:07:12.90,0:07:17.24,Alternative,Ayuhara,0,0,0,,{「何のためにバレーをやるか」なんて聞かれてもすぐ答えられるわけがないわ。}There's no way I could answer on the spot as to why I'm playing volleyball.
 Dialogue: 0,0:07:17.24,0:07:21.43,Alternative,Ayuhara,0,0,0,,{そんなことより目の前にXXX試合に勝つことのほうが大事なのに。}The match that is right in front of our eyes is much more important than that.
 Dialogue: 0,0:07:21.43,0:07:22.88,Alternative,Ayuhara,0,0,0,,{なのに。}And yet.
 Dialogue: 0,0:07:22.88,0:07:24.57,Alternative,Ayuhara,0,0,0,,{なのに。}And yet…
-Dialogue: 0,0:07:24.57,0:07:27.23,Alternative,Ayuhara,0,0,0,,これが先生のXXXの作戦だったら…
+Dialogue: 0,0:07:24.57,0:07:27.23,Alternative,Ayuhara,0,0,0,,{これが先生の例の作戦だったら…}If it only was one of his usual strategic tricks.
 Dialogue: 0,0:07:27.23,0:07:28.28,Alternative,Ayuhara,0,0,0,,{あ。}Ah.
-Dialogue: 0,0:07:29.22,0:07:30.77,Alternative,Ayuhara,0,0,0,,{そうでありますように。}If that only was the case.
+Dialogue: 0,0:07:29.22,0:07:30.77,Alternative,Ayuhara,0,0,0,,{そうでありますように。}If only that was the case.
 Dialogue: 0,0:07:38.86,0:07:40.00,Alternative,Ayuhara,0,0,0,,{いいえ、行けない。}No, it's no good.
 Dialogue: 0,0:07:40.00,0:07:42.52,Alternative,Ayuhara,0,0,0,,{XXXあたしはそんなに弱気入った行けないわ。}I must stay strong.
 Dialogue: 0,0:07:44.93,0:07:47.01,Alternative,Ayuhara,0,0,0,,{大事のは勝ってる自身。}A willpower to win is crucial.
 Dialogue: 0,0:07:47.01,0:07:49.38,Alternative,Ayuhara,0,0,0,,{例え本郷先生がいなくても。}With or without professor Hongou.
 Dialogue: 0,0:07:51.56,0:07:52.73,Default,Ayuhara,0,0,0,,{勝つわ。}We will win.
-Dialogue: 0,0:07:52.73,0:07:53.70,Default,Ayuhara,0,0,0,,{勝つわ。}We will win!
+Dialogue: 0,0:07:52.73,0:07:53.64,Default,Ayuhara,0,0,0,,{勝つわ。}We will win!
+Dialogue: 0,0:07:53.64,0:07:57.01,Sign,,0,0,0,,{\fad(0,1000)}{日日タイムス}Japan Times
 Dialogue: 0,0:07:58.82,0:07:59.33,Default,Hayakawa,0,0,0,,{それ。}
 Dialogue: 0,0:07:59.33,0:07:59.93,Default,Kudou,0,0,0,,{はい。}
 Dialogue: 0,0:08:00.18,0:08:00.68,Default,(unknown),0,0,0,,{ほら。}
-Dialogue: 0,0:08:01.35,0:08:02.42,Default,(unknown),0,0,0,,XXX。
+Dialogue: 0,0:08:01.35,0:08:02.42,Default,(unknown),0,0,0,,{XXX。}Don't fall asleep.
 Dialogue: 0,0:08:02.42,0:08:04.76,Default,(unknown),0,0,0,,{—しっかりしてよ！\N—XXX。}– Keep it together!\N– Yeah, yeah, yeah.
-Dialogue: 0,0:08:04.76,0:08:08.46,Default,Reporter A,0,0,0,,{いよいよソ連との試合が明後日に迫っただけど、どう？自身がある？}The match with the Soviet Union is in two days. Do you feel confident?
+Dialogue: 0,0:08:04.76,0:08:08.46,Default,Reporter A,0,0,0,,{いよいよソ連との試合が明後日に迫っただけど、どう？自身がある？}The match with the Soviet Union takes place in two days. Do you feel confident?
 Dialogue: 0,0:08:08.46,0:08:09.22,Default,Ayuhara,0,0,0,,{はい。}Yes.
-Dialogue: 0,0:08:09.22,0:08:11.84,Default,Reporter B,0,0,0,,{え？そう言うことはどう言うことな？}Eh? What do you mean by this?
+Dialogue: 0,0:08:09.22,0:08:11.84,Default,Reporter B,0,0,0,,{え？そう言うことはどう言うことな？}Eh? What do you mean by that?
 Dialogue: 0,0:08:11.84,0:08:13.78,Default,Reporter B,0,0,0,,{まさか勝てると言う自身があるわけじゃ。}Surely you don't mean you will win?
-Dialogue: 0,0:08:13.78,0:08:14.78,Default,Ayuhara,0,0,0,,{え。そうです。}That is the case.
+Dialogue: 0,0:08:13.78,0:08:14.78,Default,Ayuhara,0,0,0,,{え。そうです。}Precisely, I do.
 Dialogue: 0,0:08:14.78,0:08:16.78,Default,Ayuhara,0,0,0,,{勝てると言う自身のことです。}I am confident we will win.
 Dialogue: 0,0:08:16.78,0:08:21.08,Default,Reporter A,0,0,0,,{いくらなんだって君、相手は日本の高校生XXX腕XXXなんだよ。}I'd like to remind you that even the Japanese high schools are no match for your opponents.
 Dialogue: 0,0:08:21.08,0:08:26.00,Default,Reporter B,0,0,0,,{富士見学園は日本一と言っても、ジュニア中が世界一なんだからね。}Even though Fujimi Academy's the best in Japan, they're the best in the world.
@@ -203,7 +204,7 @@ Dialogue: 0,0:08:26.00,0:08:28.93,Default,Reporter C,0,0,0,,{もちろんそれ�
 Dialogue: 0,0:08:28.93,0:08:29.92,Default,Ayuhara,0,0,0,,{もちろんです。}That is correct.
 Dialogue: 0,0:08:29.92,0:08:31.94,Default,(mixed),0,0,0,,{まさか。}You don't say.
 Dialogue: 0,0:08:31.94,0:08:33.52,Default,Ayuhara,0,0,0,,{絶対に勝って見せます。}We'll show you a victory.
-Dialogue: 0,0:08:36.46,0:08:44.36,Sign,,0,0,0,,{いよいよ明日に迫る日ソ親善ジュニアバレーボール…}The anticipated Japan・Soviet match is tomorrow!
+Dialogue: 0,0:08:36.46,0:08:44.36,Sign,,0,0,0,,{いよいよ明日に迫る日ソ親善ジュニアバレーボール…}The anticipated Japan-Soviet match is tomorrow!
 Comment: 0,0:08:44.36,0:08:45.85,Blackboard,,0,0,0,,{日本一の面目にかけてソ連チームに一矢を報いるか！}After wagering their honor, will they win against the Soviet Union?
 Dialogue: 0,0:08:44.70,0:08:45.81,Default,(unknown),0,0,0,,{見てみろよ。}Check this out.
 Dialogue: 0,0:08:45.81,0:08:47.81,Default,(unknown),0,0,0,,{ワ、かっこいい。}Wow, so cool.
@@ -212,13 +213,13 @@ Dialogue: 0,0:08:50.38,0:08:51.34,Default,(unknown),0,0,0,,{当たり前さ。}O
 Dialogue: 0,0:08:51.34,0:08:55.48,Default,(unknown),0,0,0,,{わが効のXXXこずえはとうとう宣言しただもん。勝つに決まってるさ。}Our school's heroine Kozue-san declared it so, so it will be this way.
 Dialogue: 0,0:08:55.48,0:08:56.99,Default,(unknown),0,0,0,,{明日の試合が楽しみね。}I'm looking forward to this game.
 Dialogue: 0,0:08:56.99,0:08:58.99,Default,(unknown),0,0,0,,{XXXいい席を取ろうよ。}We'd better reserve good seats.
-Dialogue: 0,0:08:58.99,0:09:00.20,Default,(unknown),0,0,0,,{あたしのも頼む。}Please reserve one for me too.
-Dialogue: 0,0:09:00.20,0:09:01.48,Default,(unknown),0,0,0,,XXX。
-Dialogue: 0,0:09:01.48,0:09:03.68,Default,(unknown),0,0,0,,ソ連チームにXXXだ。
+Dialogue: 0,0:08:58.99,0:09:00.20,Default,(unknown),0,0,0,,{あたしのも頼む。}Please get one for me too.
+Dialogue: 0,0:09:00.20,0:09:01.48,Default,(unknown),0,0,0,,{(XXX・かすれる)まで応援するわ。}I'll cheer her on with all might.
+Dialogue: 0,0:09:01.48,0:09:03.68,Default,(unknown),0,0,0,,{ソ連チームにXXストレート勝ちだ。}She'll lead our school straight to a victory.
 Dialogue: 0,0:09:03.68,0:09:04.94,Default,(unknown),0,0,0,,{ワ。来た来た。}Wah, she's here, she's here.
 Dialogue: 0,0:09:04.94,0:09:06.64,Default,(mixed),0,0,0,,{—鮎原さん。\N鮎原さん。}– Ayuhara-san!\N– Ayuhara-san!
 Dialogue: 0,0:09:06.64,0:09:08.78,Default,(mixed),0,0,0,,{—おい、頑張れよ！\N—頑張ってね。}– Do your best!\N– Good luck!
-Dialogue: 0,0:09:08.78,0:09:11.51,Default,(mixed),0,0,0,,XXX。
+Dialogue: 0,0:09:08.78,0:09:10.31,Default,(mixed),0,0,0,,{私たちはついてくるよ！}We'll be seeing your game!
 Dialogue: 0,0:09:11.51,0:09:13.22,Default,Mitamura,0,0,0,,{鮎原君。}Ayuhara-kun.
 Dialogue: 0,0:09:13.22,0:09:13.65,Default,Mitamura,0,0,0,,{よ。}Yo.
 Dialogue: 0,0:09:13.65,0:09:15.01,Default,Ayuhara,0,0,0,,{あら、三田村さん。おはよう。}Oh, Mitamura-san. Good morning.
@@ -228,15 +229,15 @@ Dialogue: 0,0:09:18.30,0:09:20.27,Default,Mitamura,0,0,0,,{おれ勝利を信じ
 Dialogue: 0,0:09:20.27,0:09:21.08,Default,Ayuhara,0,0,0,,{ありがとう。}Thank you.
 Dialogue: 0,0:09:21.08,0:09:22.56,Default,(unknown),0,0,0,,{ユーフー。}Yoohoo.
 Dialogue: 0,0:09:22.56,0:09:24.52,Default,(mixed),0,0,0,,{かっこいい。}So cool!
-Dialogue: 0,0:09:24.52,0:09:26.03,Default,(mixed),0,0,0,,XXX。
+Dialogue: 0,0:09:24.52,0:09:26.03,Default,(mixed),0,0,0,,{XXX。}You look sweet together.
 Dialogue: 0,0:09:26.03,0:09:28.13,Default,(mixed),0,0,0,,{いいぞ、ロミオとジュリエット。}Good going, Romeo and Juliet!
-Dialogue: 0,0:09:28.13,0:09:30.13,Default,(mixed),0,0,0,,{—ハハハハ。\N—羨ましいのよ。}– Hahahaha.\N– I'm jealous.
+Dialogue: 0,0:09:28.13,0:09:30.13,Default,(mixed),0,0,0,,{—ハハハハ。\N—羨ましいのよ。}– Hahahaha.\N– I'm so jealous.
 Dialogue: 0,0:09:30.80,0:09:32.13,Default,(mixed),0,0,0,,{—あの、じゃ。\N—じゃ。}– See you around.\N– Bye.
 Dialogue: 0,0:09:32.13,0:09:33.62,Default,Ayuhara,0,0,0,,{あ、努君。}Ah, Tsutomu-kun.
 Dialogue: 0,0:09:42.79,0:09:45.44,Alternative,Ayuhara,0,0,0,,{励ましの声ぐれかけてくれたって言うのに。}It wouldn't hurt for him to encourage me a bit.
-Dialogue: 0,0:09:49.82,0:09:51.47,Default,Ayuhara,0,0,0,,{さ、今日で練習は最後。}Today is the last practice.
-Dialogue: 0,0:09:51.47,0:09:53.53,Default,Ayuhara,0,0,0,,XXX。
-Dialogue: 0,0:09:53.53,0:09:56.38,Default,Ayuhara,0,0,0,,{相手はソ連中だと思って、皆全力出してぶっつけるのよ。}Our opponent is the Soviet Union. Let's kick their butts.
+Dialogue: 0,0:09:49.82,0:09:51.47,Default,Ayuhara,0,0,0,,{さ、今日で練習は最後。}Today is the final practice.
+Dialogue: 0,0:09:51.47,0:09:53.53,Default,Ayuhara,0,0,0,,{XXその試合XX紅白試合をしましょう。}We'll hold a practice match.
+Dialogue: 0,0:09:53.53,0:09:56.38,Default,Ayuhara,0,0,0,,{相手はソ連中だと思って、皆全力出して打っ付かるのよ。}Our opponent is the Soviet Union. Let's do this properly.
 Dialogue: 0,0:09:56.38,0:09:57.14,Default,Ayuhara,0,0,0,,{いいわね。}Got it?
 Dialogue: 0,0:09:57.14,0:09:58.31,Default,(unison),0,0,0,,{おう。}Yeah!
 Dialogue: 0,0:09:59.86,0:10:00.75,Default,Hayakawa,0,0,0,,{それ。}
@@ -268,9 +269,9 @@ Dialogue: 0,0:10:46.37,0:10:47.98,Default,Hongou,0,0,0,,{全部君に任せる�
 Dialogue: 0,0:10:47.98,0:10:49.64,Default,Hongou,0,0,0,,{僕は応援席で見ている。}I'll be cheering for you from the seat.
 Dialogue: 0,0:10:55.25,0:10:59.78,Alternative,Ayuhara,0,0,0,,{なぜそこまで先生はバレー部員、あたしに冷たくするんだろう？}Why is the teacher so cold towards us? Towards me?
 Dialogue: 0,0:11:02.84,0:11:03.78,Default,Hayakawa,0,0,0,,{卑怯者。}That's unfair!
-Dialogue: 0,0:11:03.78,0:11:05.96,Default,Kashiwagi,0,0,0,,{なにさ、本郷先生なんて。}What is prof. Hongou thinking?
+Dialogue: 0,0:11:03.78,0:11:05.96,Default,Kashiwagi,0,0,0,,{なにさ、本郷先生なんて。}What is professor Hongou thinking?
 Dialogue: 0,0:11:05.96,0:11:08.13,Default,Fukuda,0,0,0,,{コーチしてくれなくちゃって勝てるんだから。}We can win with or without him.
-Dialogue: 0,0:11:08.13,0:11:10.59,Default,Ikezaki,0,0,0,,その方があたしたちのXXXあわれてものね。
+Dialogue: 0,0:11:08.13,0:11:10.59,Default,Ikezaki,0,0,0,,{その方があたしたちの(X・株が上がれても)のね。}On the contrary, we might do better without him.
 Dialogue: 0,0:11:10.59,0:11:11.75,Default,(mixed),0,0,0,,{—そうよ。\N—そうよ。}Yeah.
 Dialogue: 0,0:11:11.75,0:11:13.24,Default,Katori,0,0,0,,{さ、練習を続けようよ。}Let's continue the practice.
 Dialogue: 0,0:11:13.24,0:11:15.24,Default,(unison),0,0,0,,{—おう！\N—おう！}Yeah!
@@ -293,7 +294,7 @@ Dialogue: 0,0:12:01.13,0:12:03.79,Default,Principal,0,0,0,,{そこまで分か�
 Dialogue: 0,0:12:03.79,0:12:05.72,Default,Hongou,0,0,0,,{彼女たちのためなんです。}It's for the sake of the girls.
 Dialogue: 0,0:12:05.72,0:12:06.87,Default,Principal,0,0,0,,{な、何だって？}W-What?
 Dialogue: 0,0:12:06.87,0:12:10.14,Default,Hongou,0,0,0,,{彼女たちはこれからさっきもっと大きく成るために…}In order to let the girls grow bigger from now on…
-Dialogue: 0,0:12:10.14,0:12:14.21,Default,Hongou,0,0,0,,{…私はXXこの大事な試合をXXX。}…I'll boycott this match.
+Dialogue: 0,0:12:10.14,0:12:14.21,Default,Hongou,0,0,0,,{…私はXXこの大事な試合を棒に振ります。}…I'm willing to sacrifice this match.
 Dialogue: 0,0:12:14.21,0:12:16.62,Default,Principal,0,0,0,,{そ-それじゃ、わが校は負けると…}T-Then, our school will lose…
 Dialogue: 0,0:12:16.62,0:12:19.20,Default,Hongou,0,0,0,,{…かどうかは、試合をしてみてなければ分かりません。}…or win – we can't be sure until we see the game.
 Dialogue: 0,0:12:20.96,0:12:24.74,Default,Principal,0,0,0,,{コーチ足るものはそんな無責任な。}A coach cannot be this irresponsible.
@@ -302,35 +303,35 @@ Dialogue: 0,0:12:26.46,0:12:30.40,Default,Hongou,0,0,0,,{私はバレー部の�
 Dialogue: 0,0:12:30.40,0:12:32.17,Default,Hongou,0,0,0,,{私の好きなようにやると。}I asked to let me run things my way.
 Dialogue: 0,0:12:32.17,0:12:33.06,Default,Principal,0,0,0,,{ん、ん。}H-Hmph.
 Dialogue: 0,0:12:34.83,0:12:36.17,Default,Hongou,0,0,0,,{私は…}I…
-Dialogue: 0,0:12:36.17,0:12:37.69,Default,Hongou,0,0,0,,{…あの子達は好きなんです。}…love these girls
+Dialogue: 0,0:12:36.17,0:12:37.69,Default,Hongou,0,0,0,,{…あの子達は好きなんです。}…love these girls.
 Dialogue: 0,0:12:37.69,0:12:39.35,Default,Hongou,0,0,0,,{可愛いんです。}I hold them dear.
-Dialogue: 0,0:12:39.35,0:12:40.66,Default,Hongou,0,0,0,,{だからこそ。}And this is why…
-Dialogue: 0,0:12:40.66,0:12:42.66,Default,Hongou,0,0,0,,{私はこうするんです。}…I'm doing so.
+Dialogue: 0,0:12:39.35,0:12:40.66,Default,Hongou,0,0,0,,{だからこそ。}And that is why…
+Dialogue: 0,0:12:40.66,0:12:42.66,Default,Hongou,0,0,0,,{私はこうするんです。}…I'm doing this.
 Dialogue: 0,0:13:04.82,0:13:06.42,Default,Ayuhara,0,0,0,,{いよいよこの時は来たわ。}Finally we're here.
 Dialogue: 0,0:13:06.42,0:13:08.42,Default,Ayuhara,0,0,0,,{後は体当たりでぶつかるまでよ。}Now is the time to go all out.
 Dialogue: 0,0:13:12.83,0:13:13.98,Default,Ayuhara,0,0,0,,{どうしたの、皆？}What is it, girls?
 Dialogue: 0,0:13:13.98,0:13:14.81,Default,Ayuhara,0,0,0,,{ファイトがないわよ。}Where's your spirit?
-Dialogue: 0,0:13:14.81,0:13:16.97,Default,Katori,0,0,0,,だ-だってXXX大きいですもの。
-Dialogue: 0,0:13:16.97,0:13:19.30,Default,Kudou,0,0,0,,相手XX高校生XX大学生見たいわ。
+Dialogue: 0,0:13:14.81,0:13:16.97,Default,Katori,0,0,0,,{だ-だってXXX大きいですもの。}B-But they're so tall.
+Dialogue: 0,0:13:16.97,0:13:19.30,Default,Kudou,0,0,0,,{相手XX高校生XX大学生見たいわ。}They have this varsity vibe around them too.
 Dialogue: 0,0:13:19.30,0:13:20.39,Default,Ayuhara,0,0,0,,{何言ってるの？}What are you saying?
 Dialogue: 0,0:13:20.39,0:13:21.63,Default,Ayuhara,0,0,0,,{今から負けちゃだめよ。}We can't lose now.
 Dialogue: 0,0:13:21.63,0:13:24.00,Default,Ayuhara,0,0,0,,{あたしたちは日本一のチームなのよ。}We're the best team in Japan.
 Dialogue: 0,0:13:24.00,0:13:27.66,Default,Hayakawa,0,0,0,,{そうよ。今までの日本チームとは違うところを見せてあげるのよ。}Yeah. We'll show everyone we're different from the other Japan teams.
-Dialogue: 0,0:13:31.42,0:13:36.58,Default,Commentator,0,0,0,,ソ連女子ジュニアバレーチームもXXXの日本女子高校チームをXXXにして…
-Dialogue: 0,0:13:36.58,0:13:41.34,Default,Commentator,0,0,0,,{…今日ここに初めて日本の中学とXXXことに成りました。}…today for the first time plays a game against a Japanese middle school.
-Dialogue: 0,0:13:41.34,0:13:46.25,Default,Commentator,0,0,0,,{中学と言っても、この富士見学園は今年の春の全国大会で優勝したチームであり…}That middle school won this year's spring All-Japan volleyball tournament.
-Dialogue: 0,0:13:46.25,0:13:50.00,Default,Commentator,0,0,0,,一本のh異郷をXXX自身をもっているようであります。
-Dialogue: 0,0:13:50.00,0:13:52.92,Default,Commentator,0,0,0,,{果たして、日本が勝つか？ソ連が勝つか？}Well then, who will win? Japan or the Soviet Union?
+Dialogue: 0,0:13:31.42,0:13:36.58,Default,Commentator,0,0,0,,{ソ連女子ジュニアバレーチームもXXXの日本女子高校チームをそうなめにして…}The Soviet junior team, having annihilated all higher education teams in Japan…
+Dialogue: 0,0:13:36.58,0:13:41.34,Default,Commentator,0,0,0,,{…今日ここに初めて日本の中学とXXXことに成りました。}…today for the first time plays against a Japanese middle school.
+Dialogue: 0,0:13:41.34,0:13:46.25,Default,Commentator,0,0,0,,{中学と言っても、この富士見学園は今年の春の全国大会で優勝したチームであり…}That middle school, the Fujimi Academy, won this year's spring All-Japan volleyball tournament.
+Dialogue: 0,0:13:46.25,0:13:50.00,Default,Commentator,0,0,0,,{一本もXXX自身をもっているようであります。}Looks like both teams don't intend to take a single step back.
+Dialogue: 0,0:13:50.00,0:13:52.92,Default,Commentator,0,0,0,,{果たして、日本が勝つか？ソ連が勝つか？}Ladies and gentlemen, will it be Japan or the Soviet Union who wins?
 Dialogue: 0,0:13:52.92,0:13:54.92,Default,Commentator,0,0,0,,{セットは極彩色で五セット。}The game spans five sets.
 Dialogue: 0,0:13:56.49,0:13:58.44,Default,Commentator,0,0,0,,{いよいよ、試合開始であります。}At last, the game starts.
 Dialogue: 0,0:14:00.67,0:14:04.58,Default,Commentator,0,0,0,,{サーブは日本から。サーバーは富士見学園キャプテン、鮎原こずえ。}The first serve goes to Japan and will be served by captain Ayuhara Kozue.
 Dialogue: 0,0:14:04.58,0:14:07.76,Default,(mixed),0,0,0,,{—鮎原さん、頑張れ！\N—いただきやりましょう！}– Ayuhara-san, good luck!\N– Let's show them!
 Dialogue: 0,0:14:09.46,0:14:10.93,Default,Izumi,0,0,0,,{鮎原さん。}Ayuhara-san.
 Dialogue: 0,0:14:11.48,0:14:13.33,Alternative,Ayuhara,0,0,0,,{よし、行くわよ。}All right, here goes.
-Dialogue: 0,0:14:13.33,0:14:17.24,Alternative,Ayuhara,0,0,0,,まずXXX変化球サーブXXXソ連XXXわ。
+Dialogue: 0,0:14:13.33,0:14:17.24,Alternative,Ayuhara,0,0,0,,{まず初っ端から変化球サーブ見舞ってソ連の度肝を抜いてやるわ。}Let's start with the curve ball right off the bat. It'll crush their confidence.
 Dialogue: 0,0:14:18.08,0:14:18.75,Default,Ayuhara,0,0,0,,{それ。}
 Dialogue: 0,0:14:20.62,0:14:21.38,Default,(unknown),0,0,0,,{お。}
-Dialogue: 0,0:14:23.29,0:14:24.07,Default,(unknown),0,0,0,,О, нет!
+Dialogue: 0,0:14:23.29,0:14:24.07,Default (ru),(unknown),0,0,0,,О, нет!
 Dialogue: 0,0:14:26.98,0:14:28.30,Default,Hayakawa,0,0,0,,{その調子よ、こずえさん。}Keep it up, Kozue-san.
 Dialogue: 0,0:14:28.84,0:14:30.04,Default,(unknown),0,0,0,,{はっきりぞ。}Good going.
 Dialogue: 0,0:14:30.30,0:14:31.62,Default,(unknown),0,0,0,,{もう一本いただいていきましょう。}Let's get another.
@@ -338,18 +339,18 @@ Dialogue: 0,0:14:31.62,0:14:32.54,Default,(unknown),0,0,0,,{はい。}Okay.
 Dialogue: 0,0:14:32.54,0:14:33.20,Default,Ayuhara,0,0,0,,{それ。}
 Dialogue: 0,0:14:34.15,0:14:35.04,Default,(unknown),0,0,0,,{XXX！}
 Dialogue: 0,0:14:40.25,0:14:41.46,Default,Ayuhara,0,0,0,,{すごいスパイクだ。}Amazing spike.
-Dialogue: 0,0:14:44.38,0:14:45.94,Default,Kashiwagi,0,0,0,,XXXいこう。
+Dialogue: 0,0:14:44.38,0:14:45.94,Default,Kashiwagi,0,0,0,,{XXXいこう。}Let's get back at them.
 Dialogue: 0,0:14:45.94,0:14:46.86,Default,(unknown),0,0,0,,{ドンマイ、ドンマイ。}Don't mind, don't mind!
 Dialogue: 0,0:14:46.86,0:14:47.91,Default,(unknown),0,0,0,,{ドンマイ。}Don't mind.
-Dialogue: 0,0:14:48.85,0:14:49.65,Default,(unknown),0,0,0,,XXX！
+Dialogue: 0,0:14:48.85,0:14:49.65,Default,(unknown),0,0,0,,{XXX！}Got it!
 Dialogue: 0,0:14:50.38,0:14:50.86,Default,Kudou,0,0,0,,{はい。}
 Dialogue: 0,0:14:50.86,0:14:51.56,Default,Kashiwagi,0,0,0,,{XXX。}
 Dialogue: 0,0:14:51.56,0:14:52.24,Default,Ayuhara,0,0,0,,{負けるもんか。}We won't lose!
 Dialogue: 0,0:14:53.29,0:14:54.80,Default,(unknown),0,0,0,,{いいぞ、あゆはら！その調子！}Good, Ayuhara! Keep it up!
-Dialogue: 0,0:14:56.42,0:14:57.44,Default,(unknown),0,0,0,,{よかった。}I"m glad.
-Dialogue: 0,0:14:57.44,0:15:01.24,Default,(mixed),0,0,0,,—XXX。\N—XXX、まったく。
+Dialogue: 0,0:14:56.42,0:14:57.44,Default,(unknown),0,0,0,,{よかった。}I'm glad.
+Dialogue: 0,0:14:57.44,0:15:01.24,Default,(mixed),0,0,0,,{—XXX。\N—XXX、まったく。}– Let's continue like this.\N– Yeah.
 Dialogue: 0,0:15:01.24,0:15:04.05,Default,Shellenina,0,0,0,,{さすがキャプテンあゆはら。}As expected from captain Ayuhara.
-Dialogue: 0,0:15:04.05,0:15:06.05,Default,(unknown),0,0,0,,今までのXXの戦士よりすごい。
+Dialogue: 0,0:15:04.05,0:15:06.05,Default,(unknown),0,0,0,,{今までのどの戦士よりすごい。}She's better than the others thus far.
 Dialogue: 0,0:15:12.32,0:15:15.24,Alternative,Ayuhara,0,0,0,,{あなたはソ連チームのキャプテン、シェレーニナだったね。}You're the Soviets' captain, Shellenina, no?
 Dialogue: 0,0:15:15.24,0:15:18.84,Alternative,Ayuhara,0,0,0,,{このぐらいでびっくりしないで。今にもっと驚かして見せるわ。}Don't be surprised by this much. I'm going to show you even more.
 Dialogue: 0,0:15:24.96,0:15:25.52,Default,Katori,0,0,0,,{あれ！}
@@ -359,31 +360,36 @@ Dialogue: 0,0:15:38.94,0:15:39.82,Default,(unknown),0,0,0,,{それ！}
 Dialogue: 0,0:15:39.82,0:15:40.36,Default,Kashiwagi,0,0,0,,{はい。}
 Dialogue: 0,0:15:41.11,0:15:41.78,Default,Ayuhara,0,0,0,,{それ！}
 Dialogue: 0,0:15:41.78,0:15:42.32,Default,(unknown),0,0,0,,{はい。}
+Dialogue: 0,0:15:43.71,0:15:45.71,Blackboard,,0,0,0,,{日本チーム・ソ連チーム}Japan ・ USSR
+Dialogue: 0,0:15:47.71,0:15:49.66,Blackboard,,0,0,0,,{日本チーム・ソ連チーム}Japan ・ USSR
 Dialogue: 0,0:15:50.42,0:15:50.94,Default,(unknown),0,0,0,,{それ！}
 Dialogue: 0,0:15:52.92,0:15:53.52,Default,Mitamura,0,0,0,,{ハハハ。}Haha.
 Dialogue: 0,0:15:53.52,0:15:54.26,Default,Mitamura,0,0,0,,{すごいぞ。}Awesome.
 Dialogue: 0,0:15:54.79,0:15:56.94,Default,Mitamura,0,0,0,,{喜ばないのか、君は？}Cheer up, won't you?
-Dialogue: 0,0:15:56.94,0:15:59.83,Default,Ichinose,0,0,0,,そんなことはない。だたちょっとXXXだけさ。
-Dialogue: 0,0:15:59.83,0:16:01.83,Default,Hongou,0,0,0,,{や、ソ連は油断してただけなのに。}They just let their guards down.
-Dialogue: 0,0:16:01.83,0:16:03.20,Default,Hongou,0,0,0,,XXX。
-Dialogue: 0,0:16:03.20,0:16:06.47,Default,Hongou,0,0,0,,{第一セットを取っても、ソ連もおそらく形成が逆転するだろう。}They might have taken the first set, but it'll reverse very soon.
-Dialogue: 0,0:16:06.47,0:16:08.62,Default,Principal,0,0,0,,{何を言うんだ、本郷君。}Why are you pessimistic, Hongou-kun?
-Dialogue: 0,0:16:08.62,0:16:11.57,Default,Principal,0,0,0,,{人事見たい。未だそんな無責任なこと言って？}Are you still saying such irresponsible things?
+Dialogue: 0,0:15:56.94,0:15:59.83,Default,Ichinose,0,0,0,,{そんなことはない。だたちょっとXXXだけさ。}I'm worried about how it goes from here.
+Dialogue: 0,0:15:59.83,0:16:01.83,Default,Hongou,0,0,0,,{や、ソ連は油断してただけなのに。}The Soviets just let their guard down.
+Dialogue: 0,0:16:01.83,0:16:03.20,Default,Hongou,0,0,0,,{XXX。}One set is nothing for them.
+Dialogue: 0,0:16:03.20,0:16:06.47,Default,Hongou,0,0,0,,{第一セットを取っても、ソ連もおそらく形成が逆転するだろう。}We might win the first set, but it'll reverse very soon.
+Dialogue: 0,0:16:06.47,0:16:08.62,Default,Principal,0,0,0,,{何を言うんだ、本郷君。}Why are you so pessimistic, Hongou-kun?
+Dialogue: 0,0:16:08.62,0:16:11.57,Default,Principal,0,0,0,,{人事見たい。未だそんな無責任なこと言って？}How can you talk like this when you're their coach?
 Dialogue: 0,0:16:11.57,0:16:14.25,Default,Principal,0,0,0,,{一体君はどっちを応援してるんじゃ？}Who exactly are you rooting on?
 Dialogue: 0,0:16:15.75,0:16:17.00,Default,Principal,0,0,0,,{ほら、見ろ。}Come on, look.
-Dialogue: 0,0:16:25.32,0:16:28.88,Default,Commentator,0,0,0,,日本XXX第一セットを取りました。
-Dialogue: 0,0:16:28.88,0:16:30.20,Default,(mixed),0,0,0,,{ワイ！}Hurray!
+Dialogue: 0,0:16:17.45,0:16:19.13,Blackboard,,0,0,0,,{\fad(500,0)\alpha&H40&}{日本チーム・ソ連チーム}Japan ・ USSR
+Dialogue: 0,0:16:19.97,0:16:21.41,Blackboard,,0,0,0,,{\fad(500,0)\alpha&H40&}{日本チーム・ソ連チーム}Japan ・ USSR
+Dialogue: 0,0:16:21.41,0:16:21.71,Blackboard,,0,0,0,,{日本チーム・ソ連チーム}Japan ・ USSR
+Dialogue: 0,0:16:25.32,0:16:28.88,Default,Commentator,0,0,0,,{日本予想に反して第一セットを取りました。}Contrary to the expectations, Japan wins the first set.
+Dialogue: 0,0:16:28.88,0:16:30.20,Default,(mixed),0,0,0,,{ワイ！}Hooray!
 Dialogue: 0,0:16:30.80,0:16:31.38,Default,(unknown),0,0,0,,{ヤホー！}Yahoo!
 Dialogue: 0,0:16:31.38,0:16:32.92,Default,Ayuhara,0,0,0,,{やったわ、やったわ。}We did it, we did it.
 Dialogue: 0,0:16:32.92,0:16:35.76,Default,Katori,0,0,0,,{ね、あたしたちの実力をXXXね。}They understand our true power now, don't they?
-Dialogue: 0,0:16:35.76,0:16:37.88,Default,Kashiwagi,0,0,0,,ワンセットXXこっちのものよ。
+Dialogue: 0,0:16:35.76,0:16:37.88,Default,Kashiwagi,0,0,0,,{ワンセットXXこっちのものよ。}We won the first set just like that.
 Dialogue: 0,0:16:37.88,0:16:40.06,Default,Kashiwagi,0,0,0,,{キャプテンの言う通り。これなら勝てるわ。}It's like captain said, we can win this.
-Dialogue: 0,0:16:40.06,0:16:42.06,Default,(mixed),0,0,0,,—ワイ！\N—XXX、ヘヘ。
+Dialogue: 0,0:16:40.06,0:16:42.06,Default,(mixed),0,0,0,,{—ワイ！\N—XXX、ヘヘ。}
 Dialogue: 0,0:16:43.90,0:16:44.34,Default,Ayuhara,0,0,0,,{お？}Oh?
 Dialogue: 0,0:16:47.52,0:16:48.61,Default,Hayakawa,0,0,0,,{どうしたの、こずえさん？}What is it, Kozue-san?
 Dialogue: 0,0:16:48.61,0:16:49.82,Default,Ayuhara,0,0,0,,{え。}Nah…
 Dialogue: 0,0:16:49.82,0:16:51.69,Default,Ayuhara,0,0,0,,{ただ、ちょっと気になるの。}I'm just curious about something.
-Dialogue: 0,0:16:58.24,0:17:01.97,Default,Ayuhara,0,0,0,,{あたしたちはこんなにXXX成ってるのに、どうあの態度？}We're doing our best, so what's with that look?
+Dialogue: 0,0:16:58.24,0:17:01.97,Default,Ayuhara,0,0,0,,{あたしたちはこんなにXXX成ってるのに、どうあの態度？}We're doing our best, so what's with that picture?
 Dialogue: 0,0:17:01.97,0:17:05.06,Default,Ayuhara,0,0,0,,{丸で練習試合でもしてる幹のように余裕綽々。}They're so calm as if this was just a practice match.
 Dialogue: 0,0:17:06.76,0:17:10.47,Default,Hayakawa,0,0,0,,{ん-なにあんなの。負け惜しみに決まってるじゃない？}W-What? Aren't they just unwilling to accept defeat?
 Dialogue: 0,0:17:10.47,0:17:12.56,Default,Kudou,0,0,0,,{そうそう。第二セットはこっちのものよ。}Yeah, yeah. The second set is ours.
@@ -392,18 +398,18 @@ Dialogue: 0,0:17:16.05,0:17:17.23,Alternative,Ayuhara,0,0,0,,{行けない。}Da
 Dialogue: 0,0:17:17.23,0:17:20.62,Alternative,Ayuhara,0,0,0,,{皆をリードすべきあたしは逆に変なことを言っちゃって。}Rather than leading them, on the contrary, I'm saying weird things.
 Dialogue: 0,0:17:20.62,0:17:24.20,Alternative,Ayuhara,0,0,0,,{口ではあんなことを言ってるけど皆もきっと不安を感じたに違いない。}While they stay positive on the outside, I bet I made them uneasy.
 Dialogue: 0,0:17:26.26,0:17:29.53,Default,Commentator,0,0,0,,{第二セットはソ連のサーブから。サバーはキャプテンのシェレーニナ。}The second set will be opened by Soviets' captain Shellenina.
-Dialogue: 0,0:17:29.53,0:17:32.62,Default,Commentator,0,0,0,,彼女もいずれは、ソ連バレー会XXXましょう。
+Dialogue: 0,0:17:29.53,0:17:32.62,Default,Commentator,0,0,0,,{彼女もいずれは、ソ連バレー会XXXましょう。}Let's see how the game unfolds.
 Dialogue: 0,0:17:32.62,0:17:33.62,Default,Shellenina,0,0,0,,{それ！}
 Dialogue: 0,0:17:34.12,0:17:35.02,Default,Katori,0,0,0,,{XX。}
-Dialogue: 0,0:17:35.02,0:17:36.27,Default,(mixed),0,0,0,,—XXX！\N—はい！
+Dialogue: 0,0:17:35.02,0:17:36.27,Default,(mixed),0,0,0,,{—XXX！\N—はい！}– Yoshiko!\N– Yeah!
 Dialogue: 0,0:17:36.27,0:17:37.20,Default,Katori,0,0,0,,{それ！}
 Dialogue: 0,0:17:37.72,0:17:39.14,Alternative,Ayuhara,0,0,0,,{すばらしいサーブ。}Excellent serve.
-Dialogue: 0,0:17:39.14,0:17:40.90,Alternative,Ayuhara,0,0,0,,これこそ本当のXXXだ。
+Dialogue: 0,0:17:39.14,0:17:40.90,Alternative,Ayuhara,0,0,0,,{これこそ本当のドライブサーブだ。}This is what gives "drive serve" its name.
 Dialogue: 0,0:17:40.90,0:17:42.42,Default,(mixed),0,0,0,,{—気にしない、気にしない。\N—ごめん。}– Don't sweat it.\N– Sorry.
-Dialogue: 0,0:17:42.42,0:17:43.26,Default,(unknown),0,0,0,,XXX。
+Dialogue: 0,0:17:42.42,0:17:43.26,Default,(unknown),0,0,0,,{XXX。}Good luck.
 Dialogue: 0,0:17:43.26,0:17:44.29,Default,Kudou,0,0,0,,{しっかりやりましょう。}Let's stay strong.
 Dialogue: 0,0:17:44.29,0:17:44.78,Default,Katori,0,0,0,,{おう。}Yeah!
-Dialogue: 0,0:17:46.12,0:17:48.26,Alternative,Shellenina,0,0,0,,{あたしたちの力はこれから。}It's time for us to start.
+Dialogue: 0,0:17:46.12,0:17:48.26,Alternative,Shellenina,0,0,0,,{あたしたちの力はこれから。}It's about time for us to get serious.
 Dialogue: 0,0:17:51.27,0:17:52.28,Default,Shellenina,0,0,0,,{おう。}
 Dialogue: 0,0:17:52.28,0:17:53.83,Default,(unknown),0,0,0,,{ほら！XXX！}
 Dialogue: 0,0:17:53.83,0:17:54.61,Default,(unknown),0,0,0,,{はい。}
@@ -412,17 +418,18 @@ Dialogue: 0,0:18:06.84,0:18:07.79,Default,Hayakawa,0,0,0,,{こずえさん！}Ko
 Dialogue: 0,0:18:10.14,0:18:10.97,Default,Hayakawa,0,0,0,,{こずえさん。}Kozue-san.
 Dialogue: 0,0:18:11.70,0:18:12.74,Default,Ayuhara,0,0,0,,{すごいスパイク。}Awesome spike.
 Dialogue: 0,0:18:19.72,0:18:20.21,Default,Katori,0,0,0,,{はい。}
+Dialogue: 0,0:18:23.32,0:18:29.19,Blackboard,,0,0,0,,{\fad(1500,1500)\alpha&H40&}{日本チーム・ソ連チーム}Japan ・ USSR
 Dialogue: 0,0:18:37.14,0:18:39.13,Default,Principal,0,0,0,,{ま-まったくの苦戦ね。}W-What a fight.
-Dialogue: 0,0:18:39.13,0:18:40.64,Default,Hayakawa,0,0,0,,XXX見すぎてたわ。
-Dialogue: 0,0:18:41.33,0:18:43.69,Default,Ozawa,0,0,0,,あの大きなXXXくるんだから。
-Dialogue: 0,0:18:43.69,0:18:45.36,Default,Ozawa,0,0,0,,XXXだわ。
+Dialogue: 0,0:18:39.13,0:18:40.64,Default,Hayakawa,0,0,0,,{XXX見すぎてたわ。}I couldn't see it at all.
+Dialogue: 0,0:18:41.33,0:18:43.69,Default,Ozawa,0,0,0,,{あの大きなXXXくるんだから。}When they're so tall and strong…
+Dialogue: 0,0:18:43.69,0:18:45.36,Default,Ozawa,0,0,0,,{XXXだわ。}…it's a miracle if we can hit it.
 Dialogue: 0,0:18:45.36,0:18:47.24,Default,Ozawa,0,0,0,,{なんとかしなくちゃ。}We need to do something.
 Dialogue: 0,0:18:47.24,0:18:49.60,Default,Hayakawa,0,0,0,,{この調子だと負けてしまうわ。}We'll lose at this rate.
-Dialogue: 0,0:19:00.31,0:19:03.22,Alternative,Shellenina,0,0,0,,{悪いが、この試合はあたしたちの勝利。}Don't take it personal, but we've already won.
+Dialogue: 0,0:19:00.31,0:19:03.22,Alternative,Shellenina,0,0,0,,{悪いが、この試合はあたしたちの勝利。}Don't take it personally, but we've already won.
 Dialogue: 0,0:19:03.22,0:19:05.32,Alternative,Shellenina,0,0,0,,{なぜなら、キャプテン鮎原。}The reason, captain Ayuhara…
 Dialogue: 0,0:19:05.32,0:19:07.56,Alternative,Shellenina,0,0,0,,{あなた心の底悩みがある。}…is because there's a shadow in your heart.
-Dialogue: 0,0:19:07.56,0:19:09.72,Alternative,Shellenina,0,0,0,,そのXXX心高ぶって。
-Dialogue: 0,0:19:09.72,0:19:11.72,Alternative,Shellenina,0,0,0,,これでいいXXXできるわけない。
+Dialogue: 0,0:19:07.56,0:19:09.72,Alternative,Shellenina,0,0,0,,{そのXXX心高ぶって。}It's because you're too proud.
+Dialogue: 0,0:19:09.72,0:19:11.72,Alternative,Shellenina,0,0,0,,{これでいいXXXできるわけない。}Of course you can't play well.
 Dialogue: 0,0:19:11.72,0:19:12.80,Alternative,Ayuhara,0,0,0,,{先生。}Professor.
 Dialogue: 0,0:19:12.80,0:19:14.12,Alternative,Ayuhara,0,0,0,,{どうしたらいいんです？}What should I do?
 Dialogue: 0,0:19:14.12,0:19:16.12,Alternative,Ayuhara,0,0,0,,{お願い、教えて。}Please, tell me.
@@ -432,7 +439,7 @@ Dialogue: 0,0:19:25.03,0:19:25.55,Default,Ayuhara,0,0,0,,{はい。}
 Dialogue: 0,0:19:25.55,0:19:26.12,Default,Shellenina,0,0,0,,{はい。}
 Dialogue: 0,0:19:32.18,0:19:33.13,Default,(unknown),0,0,0,,{(立って・取って)！}Accept!
 Dialogue: 0,0:19:33.13,0:19:33.86,Default,(unknown),0,0,0,,{はい。}
-Dialogue: 0,0:19:33.86,0:19:34.94,Default,(unknown),0,0,0,,XXX！
+Dialogue: 0,0:19:33.86,0:19:34.94,Default,(unknown),0,0,0,,{XXX！}Higher!
 Dialogue: 0,0:19:35.72,0:19:37.64,Default,Izumi,0,0,0,,{鮎原さん、頑張って。}Ayuhara-san, do your best!
 Dialogue: 0,0:19:37.64,0:19:38.49,Default,Mitamura,0,0,0,,{頑張れ！}Come on!
 Dialogue: 0,0:19:38.49,0:19:39.80,Default,Ichinose,0,0,0,,{頑張れ！}You can do this!
@@ -443,22 +450,22 @@ Dialogue: 0,0:19:46.17,0:19:48.44,Default,Hongou,0,0,0,,{これは一度は味XX
 Dialogue: 0,0:19:48.44,0:19:50.03,Default,Hongou,0,0,0,,{それにしても。}But still.
 Dialogue: 0,0:19:50.03,0:19:51.83,Default,Hongou,0,0,0,,{鮎原。頑張るんだ。}Ayuhara. Good luck!
 Dialogue: 0,0:19:51.83,0:19:53.22,Default,Hongou,0,0,0,,{早川、しっかりしろ。}Hayakawa, you too!
-Dialogue: 0,0:19:53.78,0:19:56.18,Default,Commentator,0,0,0,,{後ワンポイントで日本がXXX負け。}One point to Japan's defeat.
+Dialogue: 0,0:19:53.78,0:19:56.18,Default,Commentator,0,0,0,,{後ワンポイントで日本がXXX負け。}One point until Japan needs to admit defeat.
 Dialogue: 0,0:19:56.18,0:19:58.92,Default,Commentator,0,0,0,,{勝利は全く絶望的になりました。}The match became completely one-sided.
 Dialogue: 0,0:19:58.92,0:20:01.30,Default,Ayuhara's dad,0,0,0,,{初めてこずえの試合を見に来たんだ。}It's the first time when I can watch Kozue's game.
 Dialogue: 0,0:20:01.30,0:20:02.84,Default,Ayuhara's dad,0,0,0,,{こんな結果になるとは。}Who'd think it'd end up like this.
 Dialogue: 0,0:20:02.84,0:20:04.46,Default,Ayuhara's mom,0,0,0,,{もう見ていられませんわ。}I can't watch it anymore.
 Dialogue: 0,0:20:04.46,0:20:05.94,Default,Ayuhara's mom,0,0,0,,{行きましょう。}Let's go.
 Dialogue: 0,0:20:12.24,0:20:13.21,Default,Katori,0,0,0,,{あ、あ！}
-Dialogue: 0,0:20:15.87,0:20:21.74,Default,Commentator,0,0,0,,ついにソ連のXXXのXXXに。日本代表富士見学園チームはXXXました。
+Dialogue: 0,0:20:15.87,0:20:21.74,Default,Commentator,0,0,0,,{ついにソ連のXXXの前に、日本代表富士見学園チームはXXXました。}Finally, Japan's representative, Fujimi Academy collapses before the Soviet Union's team.
 Dialogue: 0,0:20:21.74,0:20:24.94,Default,Commentator,0,0,0,,{それにしても、強い、ソ連ジュニアチーム。}Soviet's junior team is stronger after all.
 Dialogue: 0,0:20:30.36,0:20:31.72,Alternative,Ayuhara,0,0,0,,{とうとう負けてしまった。}We completely lost.
-Dialogue: 0,0:20:32.47,0:20:36.78,Alternative,Ayuhara,0,0,0,,XXXプレーやトリックプレーを出すことにできずに負けてしまった。
-Dialogue: 0,0:20:36.78,0:20:38.06,Alternative,Ayuhara,0,0,0,,{あ。}Ah
+Dialogue: 0,0:20:32.47,0:20:36.78,Alternative,Ayuhara,0,0,0,,{XXXプレーやトリックプレーを出すことにできずに負けてしまった。}We lost without using half of our tricks.
+Dialogue: 0,0:20:36.78,0:20:38.06,Alternative,Ayuhara,0,0,0,,{あ。}Ah.
 Dialogue: 0,0:20:38.06,0:20:40.63,Alternative,Ayuhara,0,0,0,,{あ、これが夢であってくれたのに。}Ah, my dream is over.
 Dialogue: 0,0:20:41.87,0:20:43.28,Alternative,Hongou,0,0,0,,{鮎原。}Ayuhara.
 Dialogue: 0,0:20:43.28,0:20:44.71,Alternative,Hongou,0,0,0,,{残酷のようだが…}I hate to say it, but…
-Dialogue: 0,0:20:44.71,0:20:46.17,Alternative,Hongou,0,0,0,,{…僕はこの日は来るの…}…but I waited for this day.
+Dialogue: 0,0:20:44.71,0:20:46.17,Alternative,Hongou,0,0,0,,{…僕はこの日は来るの…}…but I've been waiting for this day.
 Dialogue: 0,0:20:46.17,0:20:47.92,Alternative,Hongou,0,0,0,,{…君のその姿を待っていたんだ。}For this situation.
 Dialogue: 0,0:20:56.16,0:20:57.49,Default,Shellenina,0,0,0,,{キャプテン鮎原。}Captain Ayuhara.
 Dialogue: 0,0:20:58.66,0:20:59.16,Default,Ayuhara,0,0,0,,{え？}Eh?
@@ -468,13 +475,13 @@ Dialogue: 0,0:21:07.70,0:21:09.46,Default,Shellenina,0,0,0,,{特にあなたそ�
 Dialogue: 0,0:21:22.92,0:21:26.06,Default,Shellenina,0,0,0,,{鮎原。又きっときっと会いましょう。}Ayuhara, let's meet again.
 Dialogue: 0,0:21:26.06,0:21:26.86,Default,Ayuhara,0,0,0,,{え？}Eh?
 Dialogue: 0,0:21:32.46,0:21:34.58,Default,Shellenina,0,0,0,,{それでさようなら。}Good bye.
-Dialogue: 0,0:21:34.58,0:21:36.02,Default,Shellenina,0,0,0,,До свидания.
+Dialogue: 0,0:21:34.58,0:21:36.02,Default (ru),Shellenina,0,0,0,,До свидания.
 Dialogue: 0,0:21:40.16,0:21:43.32,Alternative,Ayuhara,0,0,0,,{シェレーニナは「又会おう」と言ってくれたけど。}Shellenina wants to play again in the future, but…
 Dialogue: 0,0:21:43.32,0:21:44.56,Alternative,Ayuhara,0,0,0,,{だけど。}But…
 Dialogue: 0,0:21:44.56,0:21:46.51,Alternative,Ayuhara,0,0,0,,{これは何もかもお終いだわ。}…no matter how you look at it, it's over.
-Dialogue: 0,0:22:02.62,0:22:06.78,Alternative,(mixed),0,0,0,,—何やってんだよ？大きいなXXX。\N—XXX。
-Dialogue: 0,0:22:06.78,0:22:10.10,Alternative,(unknown),0,0,0,,XXXあんなXXX。
-Dialogue: 0,0:22:10.10,0:22:12.83,Default,Ayuhara,0,0,0,,XXX考えたんです。
+Dialogue: 0,0:22:02.62,0:22:06.78,Alternative,(mixed),0,0,0,,{—何やってんだよ？大きいなXXX。\N—XXX。}– You said we'll win.\N– You call yourself captain?
+Dialogue: 0,0:22:06.78,0:22:10.10,Alternative,(unknown),0,0,0,,{XXXあんなXXX。}You were so full of yourself.
+Dialogue: 0,0:22:10.10,0:22:12.83,Default,Ayuhara,0,0,0,,{昨夜一晩中寝ないで考えたんです。}I was thinking about this all night long without sleep.
 Dialogue: 0,0:22:12.83,0:22:16.47,Default,Ayuhara,0,0,0,,{先生、あたし決心しました。}Professor, I've decided.
 Dialogue: 0,0:22:16.47,0:22:18.77,Default,Ayuhara,0,0,0,,{バレー部を解散してください。}Please disband the volleyball club.
 Dialogue: 0,0:22:18.77,0:22:19.48,Default,Hongou,0,0,0,,{何？}Say what?
@@ -483,7 +490,7 @@ Dialogue: 0,0:22:20.71,0:22:24.85,Default,Ayuhara,0,0,0,,{バレー部専用体�
 Dialogue: 0,0:22:24.85,0:22:26.67,Default,Ayuhara,0,0,0,,{何もかも終わりです。}Everything is over.
 Dialogue: 0,0:22:26.67,0:22:27.62,Default,Hongou,0,0,0,,{鮎原。}Ayuhara.
 Dialogue: 0,0:22:28.82,0:22:30.89,Default,Hongou,0,0,0,,{き-きみは未だ分からんのか？}Y-You still don't get it, do you?
-Dialogue: 0,0:22:32.72,0:22:36.21,Default,Hongou,0,0,0,,{そんな考えしかできんのなら、望みどおりバレーなんか止めてしまえ。}If that's all you're thinking, be my guest and quit volleyball.
+Dialogue: 0,0:22:32.72,0:22:36.21,Default,Hongou,0,0,0,,{そんな考えしかできんのなら、望みどおりバレーなんか止めてしまえ。}If that's all you're thinking, be\hmy guest and quit volleyball.
 Dialogue: 0,0:22:37.50,0:22:40.78,Default,Hongou,0,0,0,,{だが君一人のためにバレー部はあるんじゃない。}But the club isn't for you only.
 Dialogue: 0,0:22:40.78,0:22:42.78,Default,Hongou,0,0,0,,{止めるなら、君一人で止めろ。}If you quit, do it by yourself.
 Dialogue: 0,0:22:44.02,0:22:45.42,Default,Hongou,0,0,0,,{いいな？}Understood?
@@ -507,13 +514,13 @@ Dialogue: 0,0:23:28.54,0:23:29.83,Alternative,Ayuhara,0,0,0,,{止められるわ
 Dialogue: 0,0:23:29.83,0:23:31.94,Alternative,Ayuhara,0,0,0,,{何のためにバレーをやるのかですって？}"What are you playing volleyball for?"
 Dialogue: 0,0:23:32.84,0:23:34.66,Alternative,Ayuhara,0,0,0,,{そんなこともう関係ないわ。}That doesn't matter anymore.
 Dialogue: 0,0:23:34.66,0:23:35.85,Alternative,Ayuhara,0,0,0,,{知るもんですか。}Who cares.
-Dialogue: 0,0:23:53.40,0:23:56.52,Alternative,Narrator,0,0,0,,XXXにもソ連チームのコーチはこずえを訪れ…
-Dialogue: 0,0:23:56.52,0:24:00.42,Alternative,Narrator,0,0,0,,{…シェレーニナは待っていると言う千本松原へこずえを連れ出した。}…and takes Kozue to Senbonmatsubara to see Shellenina.
-Dialogue: 0,0:24:00.42,0:24:02.96,Alternative,Narrator,0,0,0,,{シェレーニナは厳しくこずえに迫った。}Shellenina approaches Kozue.
+Dialogue: 0,0:23:53.40,0:23:56.52,Alternative,Narrator,0,0,0,,{XXXにもソ連チームのコーチはこずえを訪れ…}The Soviet Team's coach unexpectedly approaches Kozue…
+Dialogue: 0,0:23:56.52,0:24:00.42,Alternative,Narrator,0,0,0,,{…シェレーニナは待っていると言う千本松原へこずえを連れ出した。}…and takes her to Senbonmatsubara to see Shellenina.
+Dialogue: 0,0:24:00.42,0:24:02.96,Alternative,Narrator,0,0,0,,{シェレーニナは厳しくこずえに迫った。}Shellenina speaks harshly to Kozue.
 Dialogue: 0,0:24:02.96,0:24:05.57,Alternative,Narrator,0,0,0,,{機能の試合ぶりを許せないと言うのだ。}"I can't forgive you the yesterday's match."
-Dialogue: 0,0:24:05.57,0:24:07.11,Alternative,Narrator,0,0,0,,{バレーボールはどんなものか？}"What is volleyball?"
-Dialogue: 0,0:24:07.11,0:24:09.79,Alternative,Narrator,0,0,0,,{日本での最後の試合を見せたいと言う…}—she proclaims, wanting to show her their last game in Japan.
-Dialogue: 0,0:24:09.79,0:24:13.70,Alternative,Narrator,0,0,0,,{…その試合とはなんと、高校男子チームXXX。}The opponent is a high school mens' team.
+Dialogue: 0,0:24:05.57,0:24:07.11,Alternative,Narrator,0,0,0,,{バレーボールはどんなものか？}"What is volleyball about?"
+Dialogue: 0,0:24:07.11,0:24:09.79,Alternative,Narrator,0,0,0,,{日本での最後の試合を見せたいと言う…}—she proclaims and declares she wants to show their last game in Japan.
+Dialogue: 0,0:24:09.79,0:24:13.70,Alternative,Narrator,0,0,0,,{…その試合とはなんと、高校男子チームXXX。}The opponent is a high school boys' team.
 Dialogue: 0,0:24:13.70,0:24:16.56,Alternative,Narrator,0,0,0,,{さて、試合はシェレーニナはこずえに見せおとした。}Shellenina shows Kozue the match.
 Dialogue: 0,0:24:16.56,0:24:19.29,Alternative,Narrator,0,0,0,,{恐るべきプレーに向かって進んでいった。}It unfolds to be a terrifying game.
 Dialogue: 0,0:24:19.29,0:24:23.04,Alternative,Narrator,0,0,0,,{さ、来週のアタックナンバーワンをお楽しみに。}Please look forward to the next episode.
