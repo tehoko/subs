@@ -16,7 +16,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Fira Sans,20.0,&H00FAF9F6,&H000000FF,&H00644200,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.5,0.0,2,20,20,20,1
 Style: Lyrics (JP),Fira Sans,20.0,&H00C5FFDF,&H23457D38,&H00094601,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,2.5,0.0,8,20,20,20,1
 Style: Sign,Fira Sans,20.0,&H00EBE1CB,&H000000FF,&H00644400,&H7FFFAA55,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.5,0.0,8,20,20,20,1
-Style: Lyrics (EN),Fira Sans,20,&H00C5FFDF,&H000000FF,&H00094601,&H7F202020,-1,0,0,0,100,100,0,0,1,2.5,0,2,20,20,20,1
+Style: Lyrics (EN),Fira Sans,20.0,&H00C5FFDF,&H000000FF,&H00094601,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.5,0.0,2,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -112,7 +112,7 @@ Dialogue: 0,0:04:57.10,0:04:57.96,Default,Lute,0,0,0,,Yep.{NOTE:ん。}
 Dialogue: 0,0:04:57.96,0:05:02.50,Default,Omna,0,0,0,,That might related to the current events.{NOTE:そのことと今回のことは何か関係があるやもしれんの。}
 Dialogue: 0,0:05:02.50,0:05:03.40,Default,Lute,0,0,0,,Huh?{NOTE:あれ？}
 Dialogue: 0,0:05:03.40,0:05:05.90,Default,Omna,0,0,0,,I don't know the details, but…{NOTE:私も詳しくは知らんのじゃが…}
-Dialogue: 0,0:05:05.90,0:05:12.56,Default,Omna,0,0,0,,I heard that in Avinia's village there was a family that possessed special Rider powers.{NOTE:アユリアの村にはライダーとして特別な力を持つ一族がいたと聞いてやる。}
+Dialogue: 0,0:05:05.90,0:05:12.56,Default,Omna,0,0,0,,I heard that in Avinia's village there was a\hfamily that possessed special Rider powers.{NOTE:アユリアの村にはライダーとして特別な力を持つ一族がいたと聞いてやる。}
 Dialogue: 0,0:05:12.56,0:05:14.96,Default,Lute,0,0,0,,A family with special powers?{NOTE:特別な力を持つ一族？}
 Dialogue: 0,0:05:14.96,0:05:16.63,Default,Omna,0,0,0,,Precisely.{NOTE:うん。}
 Dialogue: 0,0:05:16.63,0:05:22.60,Default,Lilia,0,0,0,,Perhaps the Riders who took Avinia knew about that family?{NOTE:じゃ、アユリアを連れ去ったライダー達もその一族のことを知ってると思ったのかも。}
@@ -160,13 +160,13 @@ Dialogue: 0,0:07:58.73,0:08:00.93,Default,Nariki,0,0,0,,Please let me go, too.{N
 Dialogue: 0,0:08:00.93,0:08:05.00,Default,Nariki,0,0,0,,I know I just became a Rider, but I want to be of use to everyone.{NOTE:せっかくライダーに成りたんす。皆の役に立ちたいっす。}
 Dialogue: 0,0:08:05.00,0:08:07.46,Default,Dan,0,0,0,,But you're still an apprentice.{NOTE:お前はまだ新米だろう。}
 Dialogue: 0,0:08:07.46,0:08:10.20,Default,Nariki,0,0,0,,I won't be a burden. I'll do my best.{NOTE:足纏いに成らないように、頑張るっす。}
-Dialogue: 0,0:08:10.20,0:08:12.83,Default,Nariki,0,0,0,,So please...!{NOTE:だから、お願いします。}
+Dialogue: 0,0:08:10.20,0:08:12.83,Default,Nariki,0,0,0,,So please…!{NOTE:だから、お願いします。}
 Dialogue: 0,0:08:12.83,0:08:16.73,Default,Omna,0,0,0,,I see trying to stop you is dangerous as well…{NOTE:お前も(XX・止めてもきかん)ようじゃな。}
 Dialogue: 0,0:08:16.73,0:08:18.70,Default,Omna,0,0,0,,You resemble Lute in many ways.{NOTE:リュートによく似ている。}
 Dialogue: 0,0:08:18.70,0:08:19.73,Default,Nariki,0,0,0,,Then…!?{NOTE:じゃ！}
 Dialogue: 0,0:08:26.00,0:08:27.76,Default,Omna,0,0,0,,However, Nariki.{NOTE:じゃがな、ナリキ。}
 Dialogue: 0,0:08:28.63,0:08:33.53,Default,Omna,0,0,0,,Protecting the village is an important task for a Rider.{NOTE:村を守ると言うことも、ライダーの大事な勤め一つじゃ。}
-Dialogue: 0,0:08:34.76,0:08:39.53,Default,Omna,0,0,0,,You will remain here, protecting the village while your seniors are away.{NOTE:お前は村に残り、先輩達に変わって村を守るじゃ。}
+Dialogue: 0,0:08:34.76,0:08:39.53,Default,Omna,0,0,0,,You will remain here, protecting the\hvillage while your seniors are away.{NOTE:お前は村に残り、先輩達に変わって村を守るじゃ。}
 Dialogue: 0,0:08:40.93,0:08:43.80,Default,Omna,0,0,0,,This is your duty now.{NOTE:それが今の御前の勤めじゃ。}
 Dialogue: 0,0:08:43.80,0:08:45.43,Default,Omna,0,0,0,,Do you understand?{NOTE:分かるかな？}
 Dialogue: 0,0:08:48.66,0:08:49.60,Default,Nariki,0,0,0,,Yes, sir.{NOTE:はいっす。}
@@ -267,7 +267,7 @@ Dialogue: 0,0:13:47.43,0:13:49.13,Default,Lilia,0,0,0,,Unfortunately,{NOTE:う�
 Dialogue: 0,0:13:49.13,0:13:50.70,Default,Lilia,0,0,0,,I think it's true.{NOTE:本当だと思う。}
 Dialogue: 0,0:13:50.70,0:13:52.00,Default,Deburi,0,0,0,,Damn.{NOTE:くそ。}
 Dialogue: 0,0:13:52.00,0:13:53.76,Default,Deburi,0,0,0,,Who would do such thing?{NOTE:なんてやつらんだ。}
-Dialogue: 0,0:13:54.46,0:13:58.90,Default,Reverto,0,0,0,,They're obviously hunting for the Kinship Stones all over the place.{NOTE:やつらがあちこちで絆石狩りをしてるのは間違いないようだ。}
+Dialogue: 0,0:13:54.46,0:13:58.90,Default,Reverto,0,0,0,,They're obviously hunting for the\hKinship Stones all over the place.{NOTE:やつらがあちこちで絆石狩りをしてるのは間違いないようだ。}
 Dialogue: 0,0:13:58.90,0:14:00.90,Default,Lilia,0,0,0,,I see.{NOTE:そうなんですね。}
 Dialogue: 0,0:14:00.90,0:14:02.93,Default,Simone,0,0,0,,I'm worried.{NOTE:心配だな。}
 Dialogue: 0,0:14:02.93,0:14:07.13,Default,Simone,0,0,0,,About that girl, as well as everyone's' Kinship Stones.{NOTE:その少女のことも、皆の絆石も。}
@@ -278,9 +278,9 @@ Dialogue: 0,0:14:18.03,0:14:19.40,Default,Lilia,0,0,0,,Yes ma'am.{NOTE:はい。
 Dialogue: 0,0:14:19.40,0:14:23.33,Default,Reverto,0,0,0,,We will gather all the information we can as well.{NOTE:こっちも出来る限りの情報を集めて知らせるぜ。}
 Dialogue: 0,0:14:23.33,0:14:26.80,Default,Deburi,0,0,0,,My information network is pretty cool too.{NOTE:ま、見てよな。俺の情報はXXXじゃね。}
 Dialogue: 0,0:14:26.80,0:14:28.23,Default,Lilia,0,0,0,,Thank you very much.{NOTE:ありがとうございます。}
-Dialogue: 0,0:14:28.23,0:14:30.60,Default,Lilia,0,0,0,,Captain Simone, Mr. Reverto...{NOTE:シモーヌの隊長。リヴェルトさん。}
+Dialogue: 0,0:14:28.23,0:14:30.60,Default,Lilia,0,0,0,,Captain Simone, Mr. Reverto…{NOTE:シモーヌの隊長。リヴェルトさん。}
 Dialogue: 0,0:14:33.06,0:14:36.70,Default,Deburi,0,0,0,,Hey, hey, don't just skip over me!{NOTE:こらこら、俺をXXXするな。}
-Dialogue: 0,0:14:40.13,0:14:41.93,Default,Lilia,0,0,0,,Thank you, Debu...{NOTE:有難うね、デブ。}
+Dialogue: 0,0:14:40.13,0:14:41.93,Default,Lilia,0,0,0,,Thank you, Debu…{NOTE:有難うね、デブ。}
 Dialogue: 0,0:14:44.03,0:14:45.86,Default,Deburi,0,0,0,,Hey, it's…!{NOTE:だからXXXと言え。}
 Dialogue: 0,0:14:45.86,0:14:46.53,Default,Lilia,0,0,0,,…ri.{NOTE:XXX}
 Dialogue: 0,0:14:46.86,0:14:48.86,Default,Deburi,0,0,0,,You're doing this on purpose, aren't you?{NOTE:XXX}
@@ -349,7 +349,7 @@ Dialogue: 0,0:19:48.90,0:19:50.20,Default,Teitei,0,0,0,,Right?{NOTE:だろう？
 Dialogue: 0,0:19:50.86,0:19:52.43,Default,Lilia,0,0,0,,…fake intel?{NOTE:XXX？}
 Dialogue: 0,0:19:52.43,0:19:54.20,Default,Deburi,0,0,0,,Of course it's not fake!{NOTE:XXXじゃね！}
 Dialogue: 0,0:19:54.20,0:19:55.26,Default,Teitei,0,0,0,,I'm just joking.{NOTE:冗談よ。}
-Dialogue: 0,0:19:55.26,0:19:56.60,Default,Teitei,0,0,0,,I expect a lot of you, Debu...{NOTE:期待してるわよ、デブ。}
+Dialogue: 0,0:19:55.26,0:19:56.60,Default,Teitei,0,0,0,,I expect a lot of you, Debu…{NOTE:期待してるわよ、デブ。}
 Dialogue: 0,0:19:56.60,0:19:57.46,Default,Lute,0,0,0,,Alright!{NOTE:しゃ！}
 Dialogue: 0,0:19:57.46,0:19:59.53,Default,Lute,0,0,0,,Well then, let's go!{NOTE:それじゃ、行くか？}
 Dialogue: 0,0:19:59.53,0:20:05.66,Default,(mixed),0,0,0,,– …ri.\N– Deburi is one word!{NOTE:—XXX！\\N—え？お前だね、普通にデブ言って言え。}
@@ -395,7 +395,7 @@ Dialogue: 0,0:22:02.63,0:22:04.70,Default,Gale,0,0,0,,You've got a sharp look.{N
 Dialogue: 0,0:22:04.70,0:22:08.63,Default,Gale,0,0,0,,As to be expected from someone who stopped the Black Blight.{NOTE:さすが黒の狂喜を止めたライダーだけのことはある。}
 Dialogue: 0,0:22:09.96,0:22:13.46,Default,Gale,0,0,0,,But I can't bring myself to like you.{NOTE:での、気に入られんだな。お前のこと。}
 Dialogue: 0,0:22:13.46,0:22:16.00,Default,Lute,0,0,0,,Huh? What's with you?{NOTE:は？なんなんだよお前？}
-Dialogue: 0,0:22:16.00,0:22:17.56,Default,Lute,0,0,0,,Wait…is that a Rathalos?{NOTE:お？リオレウスか？}
+Dialogue: 0,0:22:16.00,0:22:17.56,Default,Lute,0,0,0,,Wait… is that a Rathalos?{NOTE:お？リオレウスか？}
 Dialogue: 0,0:22:17.56,0:22:18.46,Default,Navirou,0,0,0,,It's huge.{NOTE:でか。}
 Dialogue: 0,0:22:22.23,0:22:24.80,Default,Lute,0,0,0,,I've never seen a Rathalos like that.{NOTE:あんなにリオレウス見たことない。}
 Dialogue: 0,0:22:26.40,0:22:31.10,Default,Nuts,0,0,0,,Surprised? Gale's Rathalos is a rare species.{NOTE:驚いたか？これがゲール様のリオレウス希少種だ。}
@@ -457,17 +457,17 @@ Dialogue: 0,0:24:57.53,0:24:59.76,Default,Lute,0,0,0,,Ratha, go up!{NOTE:上だ�
 Dialogue: 0,0:24:59.76,0:25:01.10,Default,Nuts,0,0,0,,Hold it right there!{NOTE:待ってこら！}
 Dialogue: 0,0:25:01.10,0:25:02.53,Default,Gale,0,0,0,,Are you trying to run away?{NOTE:逃すかよ？}
 Dialogue: 0,0:25:02.53,0:25:04.33,Default,Gale,0,0,0,,That's not going to work!{NOTE:逃げ出すか？}
-Dialogue: 0,0:25:09.03,0:25:11.23,Default,Navirou,0,0,0,,What a bunch of...{NOTE:な、何てやつらだ。}
-Dialogue: 0,0:25:11.23,0:25:14.20,Default,Navirou,0,0,0,,Nevermind, Navirou's going to help.{NOTE:こう、こうなったら、ナビルーもXXするの。}
+Dialogue: 0,0:25:09.03,0:25:11.23,Default,Navirou,0,0,0,,What a bunch of…{NOTE:な、何てやつらだ。}
+Dialogue: 0,0:25:11.23,0:25:14.20,Default,Navirou,0,0,0,,Never mind, Navirou's going to help.{NOTE:こう、こうなったら、ナビルーもXXするの。}
 Dialogue: 0,0:25:14.20,0:25:17.63,Default,Navirou,0,0,0,,Lilia gave us lots of stuff just in case we ran into trouble.{NOTE:こんな時のために、リリアに色々もらっておいたのにゃ。}
 Dialogue: 0,0:25:17.63,0:25:20.90,Default,Navirou,0,0,0,,Uhm… Not that, not this either…{NOTE:えと、これもだめ、これもちがう…}
 Dialogue: 0,0:25:20.90,0:25:23.63,Default,Navirou,0,0,0,,What's this… Ah! Got it!{NOTE:なんだこれ。そ！これ！XXXだ！}
-Dialogue: 0,0:25:23.63,0:25:25.53,Default,Gale,0,0,0,,Hey, Mr.The-world's-best-rider!{NOTE:世界一のライダーくん。}
+Dialogue: 0,0:25:23.63,0:25:25.53,Default,Gale,0,0,0,,Hey, Mr. The-world's-best-rider!{NOTE:世界一のライダーくん。}
 Dialogue: 0,0:25:25.53,0:25:28.26,Default,Gale,0,0,0,,Your Kinship Stone is ours.{NOTE:おまえの絆石はいただきぜ。}
 Dialogue: 0,0:25:46.13,0:25:48.70,Default,Gale,0,0,0,,It's nothing personal.{NOTE:大したことなな。}
 Dialogue: 0,0:27:22.50,0:27:23.90,Default,Lute,0,0,0,,Lute, here!{NOTE:俺リュート。}
 Dialogue: 0,0:27:23.90,0:27:26.23,Default,Lute,0,0,0,,What's with this guy? He's crazy strong!{NOTE:なんだ、あいつはめちゃくちゃ強い！}
-Dialogue: 0,0:27:26.23,0:27:28.36,Default,Lute,0,0,0,,If I'm going to beat him I need to…well...?{NOTE:対抗するには(XXX・テンションの日)？}
+Dialogue: 0,0:27:26.23,0:27:28.36,Default,Lute,0,0,0,,If I'm going to beat him I need to… well…?{NOTE:対抗するには(XXX・テンションの日)？}
 Dialogue: 0,0:27:28.36,0:27:31.86,Default,Lute,0,0,0,,I don't exactly know yet, but I'd better hurry up!{NOTE:よくわからないけどとにかく、急げ！}
 Dialogue: 0,0:27:31.86,0:27:35.76,Default,Lute,0,0,0,,Next time: "A strong, dangerous and mysterious enemy". Ride On!{NOTE:次回：強くで危ない謎のやつに。Ride On!}
 Dialogue: 0,0:27:37.93,0:27:44.23,Default,Lute,0,0,0,,This program is sponsored by Capcom, as well as…{NOTE:この番組はXXをクリエイトする完成開発企業capcomと。}
