@@ -14,21 +14,21 @@ Audio File: source/049.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Fira Sans,44.0,&H00FAF9F6,&H000000FF,&H004B3200,&HA0202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.75,1.25,2,140,140,40,1
-Style: Sign,Fira Sans,50.0,&H00DEFAFA,&H000000FF,&H001A2632,&HA0202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.75,1.25,8,150,150,40,1
+Style: Sign,Fira Sans,44.0,&H00DEFAFA,&H000000FF,&H001A2632,&HA0202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.75,1.25,8,150,150,40,1
 Style: OP/ED English,Tahoma,35.0,&H0AFFFFFF,&HFFFFFFFF,&H37FF1513,&H80FF0000,-1,-1,0,0,100.0,120.0,0.0,0.0,1,3.0,0.0,2,23,23,80,1
 Style: OP/ED Romaji,Tahoma,30.0,&H0AFFFFFF,&H19000000,&H37FF1513,&H80FF0000,-1,-1,0,0,100.0,120.0,0.0,0.0,1,3.0,0.0,8,23,23,30,1
 Style: Episode,Chinacat,50.0,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,0,0,0,0,103.0,100.0,0.0,0.0,1,3.0,0.0,2,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.92,0:00:06.09,Default,,0,0,0,,{\an8\pos(480,80)}They're called "Riders".{NOTE:少年達はライダー。}
-Dialogue: 0,0:00:06.09,0:00:09.36,Default,,0,0,0,,{\an8\pos(480,80)}Despite the horrors of the Black Blight…{NOTE:世界に広がってしまった黒の狂気を止める…}
-Dialogue: 0,0:00:09.36,0:00:12.39,Default,,0,0,0,,{\an8\pos(480,80)}…they faced it bravely.{NOTE:一丸と成って、立ち向かった。}
-Dialogue: 0,0:00:12.39,0:00:18.46,Default,,0,0,0,,{\an8\pos(480,80)}What has saved the world was the strength of their kinship.{NOTE:そして、最後に世界を作ったのは絆の力だった。}
-Dialogue: 0,0:00:18.46,0:00:24.79,Default,,0,0,0,,{\an8\pos(480,80)}By bringing the light back, they made the world safe again.{NOTE:光を取り戻したXXXで、再会をとげたい一度は要約XXXを取り戻した。}
-Dialogue: 0,0:00:24.79,0:00:26.26,Default,,0,0,0,,{\an8\pos(480,80)}However!{NOTE:がしかし！}
-Dialogue: 0,0:00:26.26,0:00:33.02,Default,,0,0,0,,{\an8\pos(480,80)}Avinia has been taken away by mysterious riders who claim to be Ebon Riders.{NOTE:何と、アユリアはが、ブラックライダーズと名乗る、謎のライダー達に連れ去られてしまった。}
-Dialogue: 0,0:00:33.02,0:00:38.03,Default,,0,0,0,,{\an8\pos(480,80)}Who are the Ebon Riders that kidnapped Avinia…?{NOTE:果たして、アユリアを連れ去ったブラックライダーズとはいったい…？}
+Dialogue: 0,0:00:03.92,0:00:06.09,Default,,80,80,80,,{\an8}They're called "Riders".{NOTE:少年達はライダー。}
+Dialogue: 0,0:00:06.09,0:00:09.36,Default,,80,80,80,,{\an8}Despite the horrors of the Black Blight…{NOTE:世界に広がってしまった黒の狂気を止める…}
+Dialogue: 0,0:00:09.36,0:00:12.39,Default,,80,80,80,,{\an8}…they faced it bravely.{NOTE:一丸と成って、立ち向かった。}
+Dialogue: 0,0:00:12.39,0:00:18.46,Default,,80,80,80,,{\an8}What has saved the world was the strength of their kinship.{NOTE:そして、最後に世界を作ったのは絆の力だった。}
+Dialogue: 0,0:00:18.46,0:00:24.79,Default,,80,80,80,,{\an8}By bringing the light back, they made the world safe again.{NOTE:光を取り戻したXXXで、再会をとげたい一度は要約XXXを取り戻した。}
+Dialogue: 0,0:00:24.79,0:00:26.26,Default,,80,80,80,,{\an8}However!{NOTE:がしかし！}
+Dialogue: 0,0:00:26.26,0:00:33.02,Default,,80,80,80,,{\an8}Avinia has been taken away by mysterious riders who claim to be Ebon Riders.{NOTE:何と、アユリアはが、ブラックライダーズと名乗る、謎のライダー達に連れ去られてしまった。}
+Dialogue: 0,0:00:33.02,0:00:38.03,Default,,80,80,80,,{\an8}Who are the Ebon Riders that kidnapped Avinia…?{NOTE:果たして、アユリアを連れ去ったブラックライダーズとはいったい…？}
 Dialogue: 0,0:00:41.29,0:00:48.72,Default,,0,0,0,,{\fad(2500,0)}Monster Hunter Stories: Ride On{NOTE:モンスターハンターストーリーズ：RIDE ON}
 Dialogue: 0,0:00:51.89,0:00:55.19,OP/ED Romaji,,0,0,0,,{\k40}Bo{\k20}ku{\k20}ra {\k43}kyou {\k20}mo {\k16}i{\k20}ki{\k23}te{\k20}i{\k106}ru
 Dialogue: 0,0:00:55.19,0:00:58.42,OP/ED Romaji,,0,0,0,,{\k30}Bo{\k20}ku{\k23}ra {\k40}kyou {\k23}mo {\k20}wa{\k30}ra{\k26}tte{\k110}ru
@@ -465,8 +465,8 @@ Dialogue: 0,0:22:56.97,0:22:59.70,Default,Navirou,0,0,0,,What's this… Ah! Got 
 Dialogue: 0,0:22:59.70,0:23:01.60,Default,Gale,0,0,0,,Hey, Mr. The-world's-best-rider!{NOTE:世界一のライダーくん。}
 Dialogue: 0,0:23:01.60,0:23:04.33,Default,Gale,0,0,0,,Your Kinship Stone is ours.{NOTE:おまえの絆石はいただきぜ。}
 Dialogue: 0,0:23:22.20,0:23:24.77,Default,Gale,0,0,0,,It's nothing personal.{NOTE:大したことなな。}
-Dialogue: 0,0:23:30.65,0:23:32.05,Default,Lute,0,0,0,,{\pos(480,650)}Lute here!{NOTE:俺リュート。}
-Dialogue: 0,0:23:32.05,0:23:34.38,Default,Lute,0,0,0,,{\pos(480,650)}What's with this guy? He's crazy strong!{NOTE:なんだ、あいつはめちゃくちゃ強い！}
-Dialogue: 0,0:23:34.38,0:23:36.51,Default,Lute,0,0,0,,{\pos(480,650)}If I'm going to beat him I\hneed… Rite of Channeling?{NOTE:対抗するには伝承の儀？}
-Dialogue: 0,0:23:36.51,0:23:40.01,Default,Lute,0,0,0,,{\pos(480,650)}I don't understand it yet, but I'd better hurry up!{NOTE:よくわからないけどとにかく、急げ！}
-Dialogue: 0,0:23:40.01,0:23:43.91,Default,Lute,0,0,0,,{\pos(480,650)}Next time: "A Strong and Dangerous Man Shrouded in Mystery". Ride On!{NOTE:次回：強くで危ない謎のやつに。Ride On!}
+Dialogue: 0,0:23:30.65,0:23:32.05,Default,Lute,110,110,80,,Lute here!{NOTE:俺リュート。}
+Dialogue: 0,0:23:32.05,0:23:34.38,Default,Lute,110,110,80,,What's with this guy? He's crazy strong!{NOTE:なんだ、あいつはめちゃくちゃ強い！}
+Dialogue: 0,0:23:34.38,0:23:36.51,Default,Lute,110,110,80,,If I'm going to beat him I\hneed… Rite of Channeling?{NOTE:対抗するには伝承の儀？}
+Dialogue: 0,0:23:36.51,0:23:40.01,Default,Lute,110,110,80,,I don't understand it yet, but I'd better hurry up!{NOTE:よくわからないけどとにかく、急げ！}
+Dialogue: 0,0:23:40.01,0:23:43.91,Default,Lute,110,110,80,,Next time: "A Strong and Dangerous Man Shrouded in Mystery". Ride On!{NOTE:次回：強くで危ない謎のやつに。Ride On!}

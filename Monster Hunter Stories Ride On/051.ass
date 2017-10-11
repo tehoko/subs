@@ -14,7 +14,7 @@ Audio File: source/051.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Fira Sans,44.0,&H00FAF9F6,&H000000FF,&H004B3200,&HA0202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.75,1.25,2,140,140,40,1
-Style: Sign,Fira Sans,44,&H00DEFAFA,&H000000FF,&H001A2632,&HA0202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.75,1.25,8,150,150,40,1
+Style: Sign,Fira Sans,44.0,&H00DEFAFA,&H000000FF,&H001A2632,&HA0202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.75,1.25,8,150,150,40,1
 Style: OP/ED English,Tahoma,35.0,&H0AFFFFFF,&HFFFFFFFF,&H37FF1513,&H80FF0000,-1,-1,0,0,100.0,120.0,0.0,0.0,1,3.0,0.0,2,23,23,80,1
 Style: OP/ED Romaji,Tahoma,30.0,&H0AFFFFFF,&H19000000,&H37FF1513,&H80FF0000,-1,-1,0,0,100.0,120.0,0.0,0.0,1,3.0,0.0,8,23,23,30,1
 Style: Episode,Chinacat,50.0,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,0,0,0,0,103.0,100.0,0.0,0.0,1,3.0,0.0,2,20,20,20,1
@@ -450,10 +450,10 @@ Dialogue: 0,0:23:03.40,0:23:06.11,Default,Avinia,0,0,0,,I will surely rescue you
 Dialogue: 0,0:23:06.11,0:23:07.28,Default,Avinia,0,0,0,,I promise.{NOTE:約束よ。}
 Comment: 0,0:23:27.09,0:23:27.09,Default,Chapter,0,0,0,,#Black screen
 Comment: 0,0:23:29.09,0:23:29.09,Default,Chapter,0,0,0,,Preview
-Dialogue: 0,0:23:30.68,0:23:32.09,Default,Cheval,0,0,80,,This is Cheval.{NOTE:俺シュヴァル。}
-Dialogue: 0,0:23:32.09,0:23:35.76,Default,Cheval,0,0,80,,On our quest to save Avinia, we met a peculiar old man.{NOTE:アユリアを捜していたら変なおじいさんと出会ってしまった。}
-Dialogue: 0,0:23:35.76,0:23:37.14,Default,Cheval,0,0,80,,After hearing his story…{NOTE:話を聞けば…}
-Dialogue: 0,0:23:37.14,0:23:37.72,Default,Cheval,0,0,80,,Eh?{NOTE:えっ？}
-Dialogue: 0,0:23:37.72,0:23:39.68,Default,Cheval,0,0,80,,Black Tigers?{NOTE:ブラックタイガース？}
-Dialogue: 0,0:23:39.68,0:23:43.56,Default,Cheval,0,0,80,,Next time, "The Forest Ninja, Shadow Arrives!" Ride On!{NOTE:次回｢森の忍者､シャドウ参上！｣にライドオン！}
+Dialogue: 0,0:23:30.68,0:23:32.09,Default,Cheval,110,110,80,,This is Cheval.{NOTE:俺シュヴァル。}
+Dialogue: 0,0:23:32.09,0:23:35.76,Default,Cheval,110,110,80,,On our quest to save Avinia, we met a peculiar old man.{NOTE:アユリアを捜していたら変なおじいさんと出会ってしまった。}
+Dialogue: 0,0:23:35.76,0:23:37.14,Default,Cheval,110,110,80,,After hearing his story…{NOTE:話を聞けば…}
+Dialogue: 0,0:23:37.14,0:23:37.72,Default,Cheval,110,110,80,,Eh?{NOTE:えっ？}
+Dialogue: 0,0:23:37.72,0:23:39.68,Default,Cheval,110,110,80,,Black Tigers?{NOTE:ブラックタイガース？}
+Dialogue: 0,0:23:39.68,0:23:43.56,Default,Cheval,110,110,80,,Next time, "The Forest Ninja, Shadow Arrives!" Ride On!{NOTE:次回｢森の忍者､シャドウ参上！｣にライドオン！}
 Comment: 0,0:23:44.11,0:23:44.11,Default,Chapter,0,0,0,,#Sponsors

@@ -14,15 +14,15 @@ Audio File: source/050.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Fira Sans,44.0,&H00FAF9F6,&H000000FF,&H004B3200,&HA0202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.75,1.25,2,140,140,40,1
-Style: Sign,Fira Sans,50.0,&H00DEFAFA,&H000000FF,&H001A2632,&HA0202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.75,1.25,8,150,150,40,1
+Style: Sign,Fira Sans,44.0,&H00DEFAFA,&H000000FF,&H001A2632,&HA0202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.75,1.25,8,150,150,40,1
 Style: OP/ED English,Tahoma,35.0,&H0AFFFFFF,&HFFFFFFFF,&H37FF1513,&H80FF0000,-1,-1,0,0,100.0,120.0,0.0,0.0,1,3.0,0.0,2,23,23,80,1
 Style: OP/ED Romaji,Tahoma,30.0,&H0AFFFFFF,&H19000000,&H37FF1513,&H80FF0000,-1,-1,0,0,100.0,120.0,0.0,0.0,1,3.0,0.0,8,23,23,30,1
 Style: Episode,Chinacat,50.0,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,0,0,0,0,103.0,100.0,0.0,0.0,1,3.0,0.0,2,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.67,0:00:05.80,Default,Narrator,0,0,0,,{\an8\pos(480,80)}They're called Riders.{NOTE:少年達はライダー。}
-Dialogue: 0,0:00:05.80,0:00:08.34,Default,Narrator,0,0,0,,{\an8\pos(480,80)}They are those who bond with monsters.{NOTE:モンスターと絆を結びし者たちである。}
+Dialogue: 0,0:00:03.67,0:00:05.80,Default,Narrator,80,80,80,,{\an8}They're called Riders.{NOTE:少年達はライダー。}
+Dialogue: 0,0:00:05.80,0:00:08.34,Default,Narrator,80,80,80,,{\an8}They are those who bond with monsters.{NOTE:モンスターと絆を結びし者たちである。}
 Dialogue: 0,0:00:08.97,0:00:12.26,Default,Lute,0,0,0,,Sky-High Extreme!{NOTE:「スカイエクストリーム」！}
 Dialogue: 0,0:00:26.82,0:00:29.32,Default,Navirou,0,0,0,,As expected from Navirou's disciple!{NOTE:さすがは、ナビルーの一番弟子！}
 Dialogue: 0,0:00:29.32,0:00:31.62,Default,Deburi,0,0,0,,That disciple of yours is pretty awesome!{NOTE:凄いぞ、お前の弟子は。}
@@ -34,14 +34,14 @@ Dialogue: 0,0:00:51.26,0:00:53.31,Default,Cheval,0,0,0,,We'll take him on!{NOTE:
 Dialogue: 0,0:01:04.57,0:01:09.66,Default,Lute,0,0,0,,The power of kinship can't be stopped by the Black Blight.{NOTE:絆の力は黒の凶気に屈しない。}
 Dialogue: 0,0:01:09.66,0:01:11.37,Default,Lute,0,0,0,,That's why we…{NOTE:だから、俺たちは…}
 Dialogue: 0,0:01:13.08,0:01:14.58,Default,Lute,0,0,0,,…won't lose to you!{NOTE:絶対に負けない！}
-Dialogue: 0,0:01:30.05,0:01:35.35,Default,Narrator,0,0,0,,{\an8\pos(480,80)}Lute and his friends defeated the Black Blight and restored peace to the world.{NOTE:黒の凶気を終わらせ、世界に平和を取り戻したリュート達。}
-Dialogue: 0,0:01:35.35,0:01:43.15,Default,Narrator,0,0,0,,{\an8\pos(480,80)}But now a mysterious group has abducted Avinia.{NOTE:だが、そこに謎の集団、ブラックライダーズがアユリアを誘拐した事実がもたらされる。}
-Dialogue: 0,0:01:43.15,0:01:49.07,Default,Narrator,0,0,0,,{\an8\pos(480,80)}And a new Rider appears before worried Lute to challenge him.{NOTE:心配するリュートの目の前に突如は現れたライダーが戦いを挑んできた。}
-Dialogue: 0,0:01:49.07,0:01:51.41,Default,Narrator,0,0,0,,{\an8\pos(480,80)}He calls himself Gale, an Ebon Rider.{NOTE:ブラックライダーズのゲイルの名乗り。}
-Dialogue: 0,0:01:51.41,0:01:56.08,Default,Narrator,0,0,0,,{\an8\pos(480,80)}Riding an unknown species of Rathalos…{NOTE:その男は見たこともないリオレウス希少種。}
-Dialogue: 0,0:01:56.08,0:01:59.00,Default,Narrator,0,0,0,,{\an8\pos(480,80)}…Gale demonstrates his overwhelming power, but…{NOTE:ゲイル達は圧倒的な力を見せつけたが…}
-Dialogue: 0,0:01:59.00,0:02:01.17,Default,Narrator,0,0,0,,{\an8\pos(480,80)}…that's not all.{NOTE:それだけではなかった。}
-Dialogue: 0,0:02:01.17,0:02:06.00,Default,Narrator,0,0,0,,{\an8\pos(480,80)}The Ebon Rider's Monstie hides another secret.{NOTE:ブラックライダーズのオトモンには秘密が隠されているのだった。}
+Dialogue: 0,0:01:30.05,0:01:35.35,Default,Narrator,80,80,80,,{\an8}Lute and his friends defeated the Black Blight and restored peace to the world.{NOTE:黒の凶気を終わらせ、世界に平和を取り戻したリュート達。}
+Dialogue: 0,0:01:35.35,0:01:43.15,Default,Narrator,80,80,80,,{\an8}But now a mysterious group has abducted Avinia.{NOTE:だが、そこに謎の集団、ブラックライダーズがアユリアを誘拐した事実がもたらされる。}
+Dialogue: 0,0:01:43.15,0:01:49.07,Default,Narrator,80,80,80,,{\an8}And a new Rider appears before worried Lute to challenge him.{NOTE:心配するリュートの目の前に突如は現れたライダーが戦いを挑んできた。}
+Dialogue: 0,0:01:49.07,0:01:51.41,Default,Narrator,80,80,80,,{\an8}He calls himself Gale, an Ebon Rider.{NOTE:ブラックライダーズのゲイルの名乗り。}
+Dialogue: 0,0:01:51.41,0:01:56.08,Default,Narrator,80,80,80,,{\an8}Riding an unknown species of Rathalos…{NOTE:その男は見たこともないリオレウス希少種。}
+Dialogue: 0,0:01:56.08,0:01:59.00,Default,Narrator,80,80,80,,{\an8}…Gale demonstrates his overwhelming power, but…{NOTE:ゲイル達は圧倒的な力を見せつけたが…}
+Dialogue: 0,0:01:59.00,0:02:01.17,Default,Narrator,80,80,80,,{\an8}…that's not all.{NOTE:それだけではなかった。}
+Dialogue: 0,0:02:01.17,0:02:06.00,Default,Narrator,80,80,80,,{\an8}The Ebon Rider's Monstie hides another secret.{NOTE:ブラックライダーズのオトモンには秘密が隠されているのだった。}
 Dialogue: 0,0:02:09.21,0:02:16.64,Default,,0,0,0,,{\fad(2500,0)}Monster Hunter Stories: Ride On{NOTE:モンスターハンターストーリーズ：RIDE ON}
 Dialogue: 0,0:02:19.81,0:02:23.11,OP/ED Romaji,,0,0,0,,{\k40}Bo{\k20}ku{\k20}ra {\k43}kyou {\k20}mo {\k16}i{\k20}ki{\k23}te{\k20}i{\k106}ru
 Dialogue: 0,0:02:23.11,0:02:26.34,OP/ED Romaji,,0,0,0,,{\k30}Bo{\k20}ku{\k23}ra {\k40}kyou {\k23}mo {\k20}wa{\k30}ra{\k26}tte{\k110}ru
@@ -418,7 +418,7 @@ Dialogue: 0,0:23:14.73,0:23:17.13,Default,Navirou,0,0,0,,Navirou thinks it's thi
 Dialogue: 0,0:23:17.13,0:23:18.30,Default,Lute,0,0,0,,Alright, then this way?{NOTE:じゃあこっちか？}
 Dialogue: 0,0:23:18.30,0:23:19.55,Default,Navirou,0,0,0,,Nya-ow!{NOTE:ニャグゥ！}
 Dialogue: 0,0:23:20.61,0:23:25.36,Default,Navirou,0,0,0,,Hey! Don't leave Navirou behind!{NOTE:こら！ナビルーを置いていくな！}
-Dialogue: 0,0:23:30.57,0:23:32.03,Default,Nariki,0,0,0,,Nariki here!{NOTE:自分ナリキ！}
-Dialogue: 0,0:23:32.03,0:23:36.18,Default,Nariki,0,0,0,,I haven't really proven myself as a Rider yet, but my motivation can't be beat!{NOTE:ライダーになりたてっすけどやる気だけは誰にも負けないっす！}
-Dialogue: 0,0:23:36.18,0:23:39.00,Default,Nariki,0,0,0,,Eh? Who's this weird guy!?{NOTE:えっ？何か変なやつが！}
-Dialogue: 0,0:23:39.00,0:23:43.92,Default,Nariki,0,0,0,,Next time, "The Biggest Narcissist Ever!? Mad Appears!" Ride On!{NOTE:次回「空前絶後のナルシスト！？マッド見参！」にライドオン！}
+Dialogue: 0,0:23:30.57,0:23:32.03,Default,Nariki,110,110,80,,Nariki here!{NOTE:自分ナリキ！}
+Dialogue: 0,0:23:32.03,0:23:36.18,Default,Nariki,110,110,80,,I haven't really proven myself as a Rider yet, but my motivation can't be beat!{NOTE:ライダーになりたてっすけどやる気だけは誰にも負けないっす！}
+Dialogue: 0,0:23:36.18,0:23:39.00,Default,Nariki,110,110,80,,Eh? Who's this weird guy!?{NOTE:えっ？何か変なやつが！}
+Dialogue: 0,0:23:39.00,0:23:43.92,Default,Nariki,110,110,80,,Next time, "The Biggest Narcissist Ever!? Mad Appears!" Ride On!{NOTE:次回「空前絶後のナルシスト！？マッド見参！」にライドオン！}
