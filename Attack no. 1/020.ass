@@ -25,6 +25,7 @@ Style: Default (ru),Calibri,45.0,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,Opening
 Dialogue: 0,0:00:14.27,0:00:18.74,Lyrics JP,,0,0,0,,{\an8}苦しくたって
 Dialogue: 0,0:00:18.74,0:00:21.95,Lyrics JP,,0,0,0,,{\an8}悲しくたって
 Dialogue: 0,0:00:21.95,0:00:29.28,Lyrics JP,,0,0,0,,{\an8}コートのなかでは平気なの
@@ -61,7 +62,9 @@ Dialogue: 0,0:00:52.41,0:01:00.68,Lyrics EN,,0,0,0,,Through the tears and sweat,
 Dialogue: 0,0:01:00.68,0:01:08.82,Lyrics EN,,0,0,0,,…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:08.82,0:01:16.98,Lyrics EN,,0,0,0,,Attack! Attack! Number 1!
 Dialogue: 0,0:01:16.98,0:01:26.12,Lyrics EN,,0,0,0,,Attack! Attack! Number 1!
-Dialogue: 0,0:01:32.59,0:01:40.01,Default,,0,0,0,,—Episode 020—\NUnforgivable special training{NOTE:許されざる特訓}
+Comment: 0,0:01:27.04,0:01:27.04,Default,Chapter,0,0,0,,Title screen
+Dialogue: 0,0:01:32.59,0:01:40.05,Default,,0,0,0,,—Episode 020—\NUnforgivable special training{NOTE:許されざる特訓}
+Comment: 0,0:01:40.05,0:01:40.05,Default,Chapter,0,0,0,,Part A
 Dialogue: 0,0:01:48.52,0:01:51.15,Default,Hayakawa,0,0,0,,Kozue, I know you can do better than that.{NOTE:こずえ。あなた未だやれるはずよ。}
 Dialogue: 0,0:01:58.11,0:02:00.32,Default,Ayuhara,0,0,0,,Is that all? Are you finished?{NOTE:さ、もうそれでお終いなの？}
 Dialogue: 0,0:02:00.32,0:02:02.78,Default,Ayuhara,0,0,0,,It hasn't even been 100 serves yet.{NOTE:未だ百球にXXないわ。}
@@ -280,6 +283,7 @@ Dialogue: 0,0:12:22.49,0:12:24.45,Default,Kashiwagi,0,0,0,,What's on menu today?
 Dialogue: 0,0:12:24.45,0:12:26.32,Default,Ozawa,0,0,0,,Curry.{NOTE:バンカレーよ。}
 Dialogue: 0,0:12:26.32,0:12:28.95,Default,Ikezaki,0,0,0,,Wah, lucky us!{NOTE:ワハ！ラッキー！}
 Dialogue: 0,0:12:28.95,0:12:31.25,Default,(mixed),0,0,0,,Wait for me!{NOTE:あ、(X・止め)てね。}
+Comment: 0,0:12:35.71,0:12:35.71,Default,Chapter,0,0,0,,Part B
 Dialogue: 0,0:12:36.67,0:12:38.80,Default,Ozawa,0,0,0,,Let's dig in.{NOTE:さ、皆食べて。}
 Dialogue: 0,0:12:38.80,0:12:40.51,Default,Hayakawa,0,0,0,,But what about captain and Okei?{NOTE:あら、キャプテンとおケイはいないわ？}
 Dialogue: 0,0:12:40.51,0:12:41.80,Default,Hayakawa,0,0,0,,Somebody call them over.{NOTE:誰が呼んできてよ。}
@@ -475,6 +479,7 @@ Dialogue: 0,0:23:25.61,0:23:27.90,Alternative,Ayuhara,0,0,0,,I'm not quitting!{N
 Dialogue: 0,0:23:35.70,0:23:38.20,Alternative,Ayuhara,0,0,0,,I won't quit volleyball no matter what.{NOTE:あたしは絶対にバレーを止めない。}
 Dialogue: 0,0:23:38.20,0:23:41.54,Alternative,Ayuhara,0,0,0,,Even if I'm all alone, I will continue playing.{NOTE:一人に成っても、断然バレーを続ける。}
 Dialogue: 0,0:23:41.54,0:23:43.54,Alternative,Ayuhara,0,0,0,,I'll show everyone!{NOTE:続けて見せるわ。}
+Comment: 0,0:23:50.38,0:23:50.38,Default,Chapter,0,0,0,,Preview
 Dialogue: 0,0:23:53.34,0:23:56.47,Alternative,Narrator,0,0,0,,Ayuhara Kozue challenges the world on the cliff.{NOTE:挑戦と砂浜に佇む鮎原こずえ。}
 Dialogue: 0,0:23:56.47,0:24:00.89,Alternative,Narrator,0,0,0,,She goes to see Fujimi Academy's girls university training.{NOTE:そして、いつしか富士見大学バレー部の練習を見に来ていた。}
 Dialogue: 0,0:24:00.89,0:24:04.94,Alternative,Narrator,0,0,0,,But is it possible for Kozue\Nto get back her title as captain?{NOTE:キャプテンXXを割れたこずえはもはや立ち直れないのだろうか。}
@@ -482,6 +487,7 @@ Dialogue: 0,0:24:04.94,0:24:10.15,Alternative,Narrator,0,0,0,,Captain Oohara hol
 Dialogue: 0,0:24:10.15,0:24:13.53,Alternative,Narrator,0,0,0,,…training fiercely in a vacant lot of a factory.{NOTE:ある工場の空き地、救急箱まで用意されている。}
 Dialogue: 0,0:24:13.53,0:24:17.45,Alternative,Narrator,0,0,0,,However, Kozue is unable to focus, blaming herself for all that's happened.{NOTE:だが、こずえは自分を責めるかのように立ち向かっていた。}
 Dialogue: 0,0:24:17.45,0:24:21.54,Alternative,Narrator,0,0,0,,Please look forward to the next episode.{NOTE:さ、来週のアタッカーナンバーワンをお楽しみに。}
+Comment: 0,0:24:25.42,0:24:25.42,Default,Chapter,0,0,0,,Ending
 Dialogue: 0,0:24:39.16,0:24:43.00,Lyrics JP,,0,0,0,,{\an8}青い青い空に
 Dialogue: 0,0:24:43.00,0:24:46.08,Lyrics JP,,0,0,0,,{\an8}バンボンボボン
 Dialogue: 0,0:24:46.08,0:24:50.17,Lyrics JP,,0,0,0,,{\an8}はずむボールが
