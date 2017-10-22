@@ -25,6 +25,7 @@ Style: Default (ru),Calibri,45.0,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,Opening
 Dialogue: 0,0:00:19.52,0:00:23.89,Lyrics JP,,0,0,0,,{\an8}苦しくたって
 Dialogue: 0,0:00:23.89,0:00:27.48,Lyrics JP,,0,0,0,,{\an8}悲しくたって
 Dialogue: 0,0:00:27.48,0:00:34.45,Lyrics JP,,0,0,0,,{\an8}コートのなかでは平気なの
@@ -61,7 +62,9 @@ Dialogue: 0,0:00:57.68,0:01:05.85,Lyrics EN,,0,0,0,,Through the tears and sweat,
 Dialogue: 0,0:01:05.85,0:01:13.86,Lyrics EN,,0,0,0,,…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:13.86,0:01:21.95,Lyrics EN,,0,0,0,,Attack! Attack! Number 1!
 Dialogue: 0,0:01:21.95,0:01:31.37,Lyrics EN,,0,0,0,,Attack! Attack! Number 1!
+Comment: 0,0:01:32.09,0:01:32.09,Default,Chapter,0,0,0,,Title screen
 Dialogue: 0,0:01:37.59,0:01:45.02,Default,,0,0,0,,—Episode 021—\NCaptain's responsibilities{NOTE:キャプテンの座}
+Comment: 0,0:01:45.02,0:01:45.02,Default,Chapter,0,0,0,,Part A
 Dialogue: 0,0:02:10.04,0:02:11.92,Alternative,Ayuhara,0,0,0,,I'm not quitting!{NOTE:あたしは絶対に止めない。}
 Dialogue: 0,0:02:11.92,0:02:14.25,Alternative,Ayuhara,0,0,0,,I'll continue playing, even if I have to do it alone.{NOTE:一人になっても、バレーを続けるわ。}
 Dialogue: 0,0:02:14.25,0:02:16.25,Alternative,Hayakawa,0,0,0,,It's obviously your fault.{NOTE:明らかにあなたの失敗よ。}
@@ -240,6 +243,7 @@ Dialogue: 0,0:11:30.77,0:11:32.94,Default,Janitor,0,0,0,,What madness.{NOTE:ま�
 Dialogue: 0,0:11:34.19,0:11:35.90,Default,Oohara,0,0,0,,You poor thing…{NOTE:可哀想に。}
 Dialogue: 0,0:11:35.90,0:11:36.98,Default,Janitor,0,0,0,,Eh?{NOTE:え？}
 Dialogue: 0,0:11:36.98,0:11:38.82,Default,Oohara,0,0,0,,You're suffering, weren't you, Ayuhara-san?{NOTE:苦しんだもんね、鮎原さん。}
+Comment: 0,0:11:51.46,0:11:51.46,Default,Chapter,0,0,0,,Part B
 Dialogue: 0,0:12:01.55,0:12:04.59,Alternative,Ayuhara,0,0,0,,Here comes another.{NOTE:さ、もう一度行くわよ。}
 Dialogue: 0,0:12:04.59,0:12:05.39,Alternative,Kudou,0,0,0,,{NOTE:はい。}
 Dialogue: 0,0:12:09.56,0:12:13.39,Alternative,Ayuhara,0,0,0,,Stand up. Why can't you accept such a simple ball?{NOTE:立って。あなな簡単のボールをどうして取れないの？}
@@ -423,6 +427,7 @@ Dialogue: 0,0:23:26.53,0:23:27.99,Alternative,Ayuhara,0,0,0,,Kozue.{NOTE:こず�
 Dialogue: 0,0:23:27.99,0:23:31.32,Alternative,Ayuhara,0,0,0,,No matter what the results are, a responsibility is a responsibility.{NOTE:結果はXXと責任は責任。}
 Dialogue: 0,0:23:37.79,0:23:40.46,Alternative,Ayuhara,0,0,0,,Even if it's hard, I can't look away.{NOTE:辛いこと、苦しいことから目をそらすなんて。}
 Dialogue: 0,0:23:40.46,0:23:43.54,Alternative,Ayuhara,0,0,0,,Ayuhara Kozue isn't that unreliable a person.{NOTE:我ながら、だらしなかったぞ、鮎原こずえ。}
+Comment: 0,0:23:55.43,0:23:55.43,Default,Chapter,0,0,0,,Preview
 Dialogue: 0,0:23:57.85,0:24:03.81,Alternative,Narrator,0,0,0,,Fujimi Academy members have advanced through the district qualifiers, but are still uneasy around Kozue.{NOTE:地区予選の決勝を向かえた、富士見学園のメンバーはこずえをかいていることに不安が募る。}
 Dialogue: 0,0:24:03.81,0:24:06.98,Alternative,Narrator,0,0,0,,Even though Kozue is still determined to return to the club…{NOTE:おろしも、こずえはバレー部に戻ろうと決意していた。}
 Dialogue: 0,0:24:06.98,0:24:10.53,Alternative,Narrator,0,0,0,,…her resolve breaks down under coach Hongou's words.{NOTE:だが、その決心も本郷の言葉に打ち砕かれた。}
@@ -430,6 +435,7 @@ Dialogue: 0,0:24:10.53,0:24:13.99,Alternative,Narrator,0,0,0,,"We can win even w
 Dialogue: 0,0:24:13.99,0:24:16.99,Alternative,Narrator,0,0,0,,Does she really not have a place in the volleyball club after all?{NOTE:もはや自分はバレー部にはようのない人間なのか。}
 Dialogue: 0,0:24:16.99,0:24:19.29,Alternative,Narrator,0,0,0,,Kozue breaks into tears…{NOTE:絶望に泣き崩れるこずえだった。}
 Dialogue: 0,0:24:19.29,0:24:23.04,Alternative,Narrator,0,0,0,,Please look forward to the next episode.{NOTE:さ、来週のアタックナンバーワンをお楽しみに。}
+Comment: 0,0:24:25.46,0:24:25.46,Default,Chapter,0,0,0,,Ending
 Dialogue: 0,0:24:39.25,0:24:43.19,Lyrics JP,,0,0,0,,{\an8}青い青い空に
 Dialogue: 0,0:24:43.19,0:24:46.23,Lyrics JP,,0,0,0,,{\an8}バンボンボボン
 Dialogue: 0,0:24:46.23,0:24:50.36,Lyrics JP,,0,0,0,,{\an8}はずむボールが
