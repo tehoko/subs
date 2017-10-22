@@ -15,7 +15,7 @@ Video File: source/m1.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Gotham Rounded Medium,43.0,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,3.0,0.0,2,36,36,90,1
+Style: Default,Gotham Rounded Medium,43.0,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,3.0,0.0,2,120,120,90,1
 Style: Alternative,Gotham Rounded Medium,43.0,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94.0,100.0,0.0,0.0,1,3.0,0.0,2,36,36,90,1
 Style: Lyrics English,Gotham Rounded Medium,43.0,&H00BFF6FF,&H8C7A8688,&H00202020,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,3.0,0.0,2,36,36,90,1
 Style: Lyrics Kanji,Source Han Sans CN,45.0,&H00BFF6FF,&H0097F0F8,&H00202020,&H7F101010,-1,0,0,0,90.0,100.0,0.0,0.0,1,3.0,0.0,8,36,36,90,1
@@ -25,8 +25,10 @@ Style: Lyrics Romaji,Gotham Rounded Medium,43.0,&H00BFF6FF,&H8C7A8688,&H00202020
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.14,0:00:13.74,Default,,0,0,0,,{\an5\pos(585,460)\fnUtopia with Oldstyle figures\fs90\bord1.3\blur4\1a&HFF&\3c&H131313&\t(0,1000,\3a&H40&\blur2)\t(1000,2000,2,\3a&HC0&)}Attack No. 1
-Dialogue: 1,0:00:01.14,0:00:13.74,Default,,0,0,0,,{\an5\pos(585,460)\fnUtopia with Oldstyle figures\fs90\bord0\blur3\1c&H131313&\t(0,1000,2,\1c&H131340&)\t(1000,2000,\1c&H1015B2&\blur1.4)}Attack No. 1
+Dialogue: 0,0:00:01.14,0:00:13.74,Default,,0,0,0,,{\an5\pos(175,460)\fnUtopia with Oldstyle figures\fs90\bord1.3\blur4\1a&HFF&\3c&H131313&\t(0,1000,\3a&H40&\blur2)\t(1000,2000,2,\3a&HC0&)}Attack No. 1{NOTE:アタックNo.1}
+Dialogue: 0,0:00:01.14,0:00:13.74,Default,,0,0,0,,{\an5\pos(540,471)\fnUtopia with Oldstyle figures\fs50\bord0.9\blur4\1a&HFF&\3c&H131313&\t(0,1000,\3a&H40&\blur2)\t(1000,2000,2,\3a&HC0&)}Fujimi Academy's New Star{NOTE:富士見学園の新星}
+Dialogue: 1,0:00:01.14,0:00:13.74,Default,,0,0,0,,{\an5\pos(175,460)\fnUtopia with Oldstyle figures\fs90\bord0\blur3\1c&H131313&\t(0,1000,2,\1c&H131340&)\t(1000,2000,\1c&H1015B2&\blur1.4)}Attack No. 1{NOTE:アタックNo.1}
+Dialogue: 1,0:00:01.14,0:00:13.74,Default,,0,0,0,,{\an5\pos(540,471)\fnUtopia with Oldstyle figures\fs50\bord0\blur3\1c&H131313&\t(0,1000,2,\1c&H131340&)\t(1000,2000,\1c&H1015B2&\blur1.4)}Fujimi Academy's New Star{NOTE:富士見学園の新星}
 Dialogue: 0,0:00:13.99,0:00:18.33,Lyrics Kanji,,0,0,0,,苦しくたって
 Dialogue: 0,0:00:18.33,0:00:21.96,Lyrics Kanji,,0,0,0,,悲しくたって
 Dialogue: 0,0:00:21.96,0:00:29.13,Lyrics Kanji,,0,0,0,,コートのなかではへいきなの
@@ -87,1027 +89,1022 @@ Dialogue: 0,0:02:02.35,0:02:10.61,Lyrics English,,0,0,0,,Showing fighting spirit
 Dialogue: 0,0:02:10.61,0:02:18.95,Lyrics English,,0,0,0,,…looking at billowing clouds, I just want to scream:
 Dialogue: 0,0:02:18.95,0:02:27.29,Lyrics English,,0,0,0,,Attack! Attack! Number 1!
 Dialogue: 0,0:02:27.29,0:02:37.92,Lyrics English,,0,0,0,,{\fad(0,1000)}Attack! Attack! Number 1!
-Dialogue: 0,0:02:57.61,0:03:00.82,Sign,,0,0,0,,{NOTE:富士見学園}
-Dialogue: 0,0:03:08.33,0:03:15.25,Sign,,0,0,0,,{NOTE:数学}
-Dialogue: 0,0:03:12.75,0:03:13.88,Default,Ingo,0,0,0,,{NOTE:鮎原くん。}
-Dialogue: 0,0:03:14.79,0:03:16.42,Default,Ingo,0,0,0,,{NOTE:こら。}
-Dialogue: 0,0:03:16.42,0:03:17.46,Default,Ingo,0,0,0,,{NOTE:鮎原くん。}
-Dialogue: 0,0:03:17.46,0:03:18.51,Default,Ingo,0,0,0,,{NOTE:鮎原くん。}
-Dialogue: 0,0:03:19.17,0:03:20.80,Default,Ikezaki,0,0,0,,{NOTE:鮎原さんてば。}
-Dialogue: 0,0:03:20.80,0:03:22.80,Default,Ayuhara,0,0,0,,{NOTE:何よ池崎?}
-Dialogue: 0,0:03:28.60,0:03:29.39,Default,Ayuhara,0,0,0,,{NOTE:はい。}
-Dialogue: 0,0:03:29.39,0:03:34.73,Default,Ingo,0,0,0,,{NOTE:変更したばかりだと言うので、大目に見てきたら、今のその態度は何です？}
-Dialogue: 0,0:03:34.73,0:03:36.44,Default,Ayuhara,0,0,0,,{NOTE:へ？ん、何がですか？}
-Dialogue: 0,0:03:36.44,0:03:40.57,Default,Ingo,0,0,0,,{NOTE:そんなに私の授業が嫌なら、医務室でも行って寝ていなさい。}
-Dialogue: 0,0:03:40.57,0:03:41.45,Default,Ayuhara,0,0,0,,{NOTE:はい。}
-Dialogue: 0,0:03:44.70,0:03:46.20,Default,Ingo,0,0,0,,{NOTE:鮎原くん！}
-Dialogue: 0,0:03:46.20,0:03:47.79,Default,Student A,0,0,0,,{NOTE:驚いたね、まったく。}
-Dialogue: 0,0:03:47.79,0:03:49.95,Default,Student B,0,0,0,,{NOTE:よりも行ってインゴの前だよね。}
-Dialogue: 0,0:03:50.37,0:03:52.25,Sign,,0,0,0,,{NOTE:教員室}
-Dialogue: 0,0:03:52.83,0:03:56.38,Default,Ingo,0,0,0,,{NOTE:明方学園、と言うとあの東京の名門校ですか？}
-Dialogue: 0,0:03:56.38,0:03:57.42,Default,Teacher A,0,0,0,,{NOTE:そう。}
-Dialogue: 0,0:03:57.42,0:04:02.38,Default,Teacher A,0,0,0,,{NOTE:だから私は鮎原こずえの転入は相当の刺激に成ると期待しとったんですが。}
-Dialogue: 0,0:04:02.38,0:04:06.60,Default,Teacher B,0,0,0,,{NOTE:とんでもない。まるで授業なんか受ける気がないんですから。}
-Dialogue: 0,0:04:06.60,0:04:09.68,Default,Teacher A,0,0,0,,{NOTE:ほう。本郷先生がいかがです?}
-Dialogue: 0,0:04:09.68,0:04:12.81,Default,Hongou,0,0,0,,{NOTE:そうですね。ま、一口に言えば、のびのびしています。}
-Dialogue: 0,0:04:12.81,0:04:16.77,Default,Hongou,0,0,0,,{NOTE:しかし、勉強勉強で追い回されている我が校の生徒にないものを持っているようです。}
-Dialogue: 0,0:04:19.48,0:04:20.57,Default,Ayuhara,0,0,0,,{NOTE:あ。}
-Dialogue: 0,0:04:24.11,0:04:26.95,Default,Kashiwagi,0,0,0,,{NOTE:鮎原さん、お待ちしてたわ。}
-Dialogue: 0,0:04:26.95,0:04:29.29,Default,Kashiwagi,0,0,0,,{NOTE:さ、どうぞ、お座りになって。}
-Dialogue: 0,0:04:33.08,0:04:34.21,Default,Ayuhara,0,0,0,,{NOTE:あの…}
-Dialogue: 0,0:04:35.29,0:04:36.79,Default,Ayuhara,0,0,0,,{NOTE:何が御用？}
-Dialogue: 0,0:04:36.79,0:04:38.63,Default,Kashiwagi,0,0,0,,{NOTE:良く遣ったわね。}
-Dialogue: 0,0:04:38.63,0:04:39.80,Default,Kashiwagi,0,0,0,,{NOTE:鮎原さん。}
-Dialogue: 0,0:04:39.80,0:04:41.51,Default,Ayuhara,0,0,0,,{NOTE:え？何が？}
-Dialogue: 0,0:04:41.51,0:04:43.17,Default,Kashiwagi,0,0,0,,{NOTE:あのインゴをやっつけたことよ。}
-Dialogue: 0,0:04:43.17,0:04:45.47,Default,Kashiwagi,0,0,0,,{NOTE:胸がずっとしたわ。ね、オフク？}
-Dialogue: 0,0:04:45.47,0:04:46.43,Default,Fukuda,0,0,0,,{NOTE:ん。}
-Dialogue: 0,0:04:46.43,0:04:49.31,Default,Fukuda,0,0,0,,{NOTE:どう？私達の仲間に成らない？}
-Dialogue: 0,0:04:49.31,0:04:51.02,Default,Ayuhara,0,0,0,,{NOTE:仲間って？}
-Dialogue: 0,0:04:51.02,0:04:57.10,Default,Fukuda,0,0,0,,{NOTE:人は不良とか劣等生とか言うけど。つまり私達は自由で気ままなグループなのよ。}
-Dialogue: 0,0:04:57.10,0:04:58.86,Default,Ookii,0,0,0,,{NOTE:お友達に成りたいのよ。}
-Dialogue: 0,0:04:58.86,0:05:00.61,Default,Ookii,0,0,0,,{NOTE:出来ないXXだけでいいわよ。}
-Dialogue: 0,0:05:00.61,0:05:01.78,Default,Nakazawa,0,0,0,,{NOTE:決まった。}
-Dialogue: 0,0:05:01.78,0:05:03.78,Default,(mixed),0,0,0,,{NOTE:レッツゴ！}
-Dialogue: 0,0:05:07.16,0:05:08.70,Default,Kashiwagi,0,0,0,,{NOTE:踊りなさいよ。}
-Dialogue: 0,0:05:15.00,0:05:16.46,Default,Nakazawa,0,0,0,,{NOTE:カッコ。}
-Dialogue: 0,0:05:16.96,0:05:18.08,Default,Nakazawa,0,0,0,,{NOTE:誰が来たよ。}
-Dialogue: 0,0:05:19.79,0:05:21.38,Default,Kashiwagi,0,0,0,,{NOTE:行けない。解散！}
-Dialogue: 0,0:05:24.17,0:05:25.05,Default,Ichinose,0,0,0,,{NOTE:鮎原くんね。}
-Dialogue: 0,0:05:25.05,0:05:26.55,Default,Ayuhara,0,0,0,,{NOTE:良くご存知ね。}
-Dialogue: 0,0:05:26.55,0:05:28.68,Default,Ichinose,0,0,0,,{NOTE:それは君は有名だからね。}
-Dialogue: 0,0:05:28.68,0:05:29.97,Default,Ayuhara,0,0,0,,{NOTE:そう言うあなたは？}
-Dialogue: 0,0:05:29.97,0:05:31.64,Default,Ichinose,0,0,0,,{NOTE:僕は一ノ瀬と言うんだ。}
-Dialogue: 0,0:05:31.64,0:05:34.06,Default,Ichinose,0,0,0,,{NOTE:今ここにいたのは柏木くん達だろう？}
-Dialogue: 0,0:05:34.06,0:05:36.94,Default,Ichinose,0,0,0,,{NOTE:悪いことは言わない。あんな連中と付き合うのはよせよ。}
-Dialogue: 0,0:05:36.94,0:05:38.65,Default,Ayuhara,0,0,0,,{NOTE:大きなお世話よ。}
-Dialogue: 0,0:05:38.65,0:05:41.15,Default,Ayuhara,0,0,0,,{NOTE:あなた生徒会の副会長ですってね？}
-Dialogue: 0,0:05:41.15,0:05:44.78,Default,Ayuhara,0,0,0,,{NOTE:だから申し上げておくけど、私は富士見学園って大嫌い。}
-Dialogue: 0,0:05:44.78,0:05:46.70,Default,Ayuhara,0,0,0,,{NOTE:とんだ学校へ来ちゃったわ。}
-Dialogue: 0,0:05:46.70,0:05:47.99,Default,Ichinose,0,0,0,,{NOTE:鮎原くん。}
-Dialogue: 0,0:05:47.99,0:05:51.20,Default,Ichinose,0,0,0,,{NOTE:富士見学園こそ君みたいな生徒を抱えてご迷惑だ。}
-Dialogue: 0,0:05:52.16,0:05:53.33,Default,(unison),0,0,0,,{NOTE:—けん！\\N—けん！}
-Dialogue: 0,0:05:54.54,0:05:56.54,Default,(unison),0,0,0,,{NOTE:—どうしてけんを知ってるの？\\N—どうしてけんを知ってるんだ？}
-Dialogue: 0,0:05:59.04,0:06:01.09,Default,Ayuhara's aunt,0,0,0,,{NOTE:この努さんは私の甥。}
-Dialogue: 0,0:06:01.09,0:06:03.13,Default,Ayuhara's aunt,0,0,0,,{NOTE:こずえちゃんは主人の姪なのよ。}
-Dialogue: 0,0:06:03.13,0:06:04.17,Default,Ayuhara's aunt,0,0,0,,{NOTE:分かった？}
-Dialogue: 0,0:06:04.17,0:06:06.01,Default,Ichinose,0,0,0,,{NOTE:何だ？それじゃ…}
-Dialogue: 0,0:06:06.01,0:06:07.68,Default,Ayuhara,0,0,0,,{NOTE:私達は親戚だったの。}
-Dialogue: 0,0:06:24.19,0:06:25.94,Default,Ayuhara,0,0,0,,{NOTE:わ、冷たい。}
-Dialogue: 0,0:06:28.61,0:06:30.07,Default,Ichinose,0,0,0,,{NOTE:当たり前じゃないか？}
-Dialogue: 0,0:06:30.91,0:06:32.78,Default,Ayuhara,0,0,0,,{NOTE:でも私は波が好き。}
-Dialogue: 0,0:06:36.25,0:06:39.46,Default,Ayuhara,0,0,0,,{NOTE:長い時間をかけて、相手を削り取っちゃうんでしょ。}
-Dialogue: 0,0:06:46.55,0:06:48.05,Default,Ayuhara,0,0,0,,{NOTE:波は偉いわ。}
-Dialogue: 0,0:06:48.05,0:06:49.88,Default,Ayuhara,0,0,0,,{NOTE:素晴らしいわ。}
-Dialogue: 0,0:06:49.88,0:06:53.47,Default,Ichinose,0,0,0,,{NOTE:そんな事言う君がなぜ授業をサボるか？}
-Dialogue: 0,0:06:53.47,0:06:56.39,Default,Ayuhara,0,0,0,,{NOTE:サボるつもりがないけど。}
-Dialogue: 0,0:06:56.39,0:06:58.02,Default,Ayuhara,0,0,0,,{NOTE:やる気が起こらないのよ。}
-Dialogue: 0,0:06:58.02,0:07:00.56,Default,Ayuhara,0,0,0,,{NOTE:私と目的がないと空気みたいに成っちゃうよ。}
-Dialogue: 0,0:07:05.52,0:07:07.61,Default,Katsuragi's team,0,0,0,,{NOTE:ほら、しっかりして。}
-Dialogue: 0,0:07:07.61,0:07:09.53,Default,Katsuragi's team,0,0,0,,{NOTE:—頑張って。\\N—行くよ！—はい。}
-Dialogue: 0,0:07:09.53,0:07:11.07,Default,Katsuragi's team,0,0,0,,{NOTE:—さ、サービス行くわよ。\\N—はい。}
-Dialogue: 0,0:07:12.24,0:07:13.74,Default,Katsuragi's team,0,0,0,,{NOTE:頑張って！}
-Dialogue: 0,0:07:21.79,0:07:22.75,Alternative,Katsuragi,0,0,0,,{NOTE:又来てる。}
-Dialogue: 0,0:07:25.09,0:07:27.84,Default,Katsuragi,0,0,0,,{NOTE:駄目よ、ジャンプが足りないよ。もう一度！}
-Dialogue: 0,0:07:27.84,0:07:29.01,Default,Katsuragi's team,0,0,0,,{NOTE:はい。}
-Dialogue: 0,0:07:29.01,0:07:29.76,Default,Katsuragi's team,0,0,0,,{NOTE:行くよ！}
-Dialogue: 0,0:07:30.97,0:07:32.51,Default,Katsuragi's team,0,0,0,,{NOTE:あ、危ない！}
-Dialogue: 0,0:07:38.02,0:07:39.02,Default,Katsuragi,0,0,0,,{NOTE:待って。}
-Dialogue: 0,0:07:40.52,0:07:41.89,Default,Katsuragi,0,0,0,,{NOTE:あなたは鮎原さん？}
-Dialogue: 0,0:07:41.89,0:07:43.10,Default,Ayuhara,0,0,0,,{NOTE:え。}
-Dialogue: 0,0:07:43.10,0:07:45.48,Default,Katsuragi,0,0,0,,{NOTE:あなた転校してから毎日のように…}
-Dialogue: 0,0:07:45.48,0:07:47.36,Default,Katsuragi,0,0,0,,{NOTE:…バレーの練習を見にきてるでしょう。}
-Dialogue: 0,0:07:47.36,0:07:48.23,Default,Ayuhara,0,0,0,,{NOTE:え。}
-Dialogue: 0,0:07:48.23,0:07:51.70,Default,Katsuragi,0,0,0,,{NOTE:どう？私達の部に入らない？}
-Dialogue: 0,0:07:51.70,0:07:53.11,Default,Ayuhara,0,0,0,,{NOTE:いいえ、良いんです。}
-Dialogue: 0,0:07:54.12,0:07:56.37,Default,Katsuragi,0,0,0,,{NOTE:どうしても(XX・欲しい子)だわ。}
-Dialogue: 0,0:07:56.37,0:07:57.95,Default,Hara,0,0,0,,{NOTE:何よあの態度？}
-Dialogue: 0,0:07:57.95,0:07:59.41,Default,Hara,0,0,0,,{NOTE:生意気な子ね。}
-Dialogue: 0,0:07:59.41,0:08:02.21,Default,Hara,0,0,0,,{NOTE:でも中々良いレシーブじゃない。}
-Dialogue: 0,0:08:02.75,0:08:07.59,Default,Ichinose,0,0,0,,{NOTE:君達のゴゴ何だけど、今日の職員会議で取り上げたらしいんだ。}
-Dialogue: 0,0:08:07.59,0:08:11.38,Default,Ichinose,0,0,0,,{NOTE:この際、自粛してくれないと困るんだな。}
-Dialogue: 0,0:08:11.38,0:08:13.26,Default,Ayuhara,0,0,0,,{NOTE:反対です、副会長さん。}
-Dialogue: 0,0:08:13.26,0:08:14.72,Default,Ichinose,0,0,0,,{NOTE:なぜ？}
-Dialogue: 0,0:08:14.72,0:08:18.72,Default,Ayuhara,0,0,0,,{NOTE:先生もあなた達もね、色眼鏡で見てるのよ、柏木さんたちを。}
-Dialogue: 0,0:08:18.72,0:08:22.31,Default,Ayuhara,0,0,0,,{NOTE:先生達分からない事は悪い事って頭から決めてかかってるの。}
-Dialogue: 0,0:08:22.31,0:08:24.81,Default,Ayuhara,0,0,0,,{NOTE:やってみれば、楽しい事かもしれないのに。}
-Dialogue: 0,0:08:24.81,0:08:25.86,Default,Ayuhara,0,0,0,,{NOTE:例えばね。}
-Dialogue: 0,0:08:25.86,0:08:27.48,Default,Ayuhara,0,0,0,,{NOTE:ナカ、ラヂオ！}
-Dialogue: 0,0:08:38.74,0:08:39.83,Default,Ayuhara,0,0,0,,{NOTE:それ！}
-Dialogue: 0,0:08:50.92,0:08:52.38,Default,Ayuhara,0,0,0,,{NOTE:やほぉ！}
-Dialogue: 0,0:08:57.26,0:08:58.47,Default,Ayuhara,0,0,0,,{NOTE:いかが、努さん？}
-Dialogue: 0,0:08:58.47,0:08:59.76,Default,Ayuhara,0,0,0,,{NOTE:やってみたいと思わない？}
-Dialogue: 0,0:08:59.76,0:09:01.18,Default,Kashiwagi,0,0,0,,{NOTE:すごい！}
-Dialogue: 0,0:09:01.18,0:09:03.27,Default,Kashiwagi,0,0,0,,{NOTE:やっぱり私達の親分だわね。}
-Dialogue: 0,0:09:03.27,0:09:04.44,Default,Hase,0,0,0,,{NOTE:鮎原さん。}
-Dialogue: 0,0:09:04.44,0:09:05.52,Default,Ayuhara,0,0,0,,{NOTE:お？}
-Dialogue: 0,0:09:05.52,0:09:08.44,Default,Hase,0,0,0,,{NOTE:桂城さんに頼まれずっとあなたを探してたの。}
-Dialogue: 0,0:09:08.44,0:09:09.52,Default,Ayuhara,0,0,0,,{NOTE:私を？}
-Dialogue: 0,0:09:09.52,0:09:12.57,Default,Hase,0,0,0,,{NOTE:桂城さんはね、是非あなた入部して欲しいんだって。}
-Dialogue: 0,0:09:12.57,0:09:15.74,Default,Hase,0,0,0,,{NOTE:昨日のレシーブ見て、あなたならきっとやれるって言うのよ。}
-Dialogue: 0,0:09:15.74,0:09:17.70,Default,Ichinose,0,0,0,,{NOTE:素敵じゃないか？やれよ、君。}
-Dialogue: 0,0:09:17.70,0:09:23.08,Default,Ayuhara,0,0,0,,{NOTE:折角だけど私…バレー部に入るより、この人達と遊ぶ方が楽しいのよ。}
-Dialogue: 0,0:09:23.08,0:09:25.12,Default,Ayuhara,0,0,0,,{NOTE:第一、あんなバレー部じゃ…}
-Dialogue: 0,0:09:25.12,0:09:27.21,Default,Hase,0,0,0,,{NOTE:え？}
-Dialogue: 0,0:09:27.21,0:09:28.75,Default,Ayuhara,0,0,0,,{NOTE:あら、行けない？}
-Dialogue: 0,0:09:28.75,0:09:30.84,Default,Hara,0,0,0,,{NOTE:何て言ったの、鮎原さん。}
-Dialogue: 0,0:09:30.84,0:09:34.97,Default,Ayuhara,0,0,0,,{NOTE:何でもないの。ただあなたたちの練習を見てがっかりしたんです。}
-Dialogue: 0,0:09:34.97,0:09:36.68,Default,Ayuhara,0,0,0,,{NOTE:ごめんなさい。}
-Dialogue: 0,0:09:36.68,0:09:37.97,Default,Ayuhara,0,0,0,,{NOTE:さ、皆行きましょう。}
-Dialogue: 0,0:09:38.80,0:09:40.01,Default,Katsuragi,0,0,0,,{NOTE:鮎原さん。}
-Dialogue: 0,0:09:40.01,0:09:42.06,Default,Katsuragi,0,0,0,,{NOTE:話はハセさんとハラさんに聞いたわ。}
-Dialogue: 0,0:09:42.06,0:09:43.68,Default,Katsuragi,0,0,0,,{NOTE:バレー部を侮辱侮辱したそうね。}
-Dialogue: 0,0:09:44.56,0:09:46.69,Default,Ayuhara,0,0,0,,{NOTE:あら、侮辱だなんて、そんな。}
-Dialogue: 0,0:09:46.69,0:09:48.85,Default,Hara,0,0,0,,{NOTE:鮎原さん、誤魔化したって駄目よ。}
-Dialogue: 0,0:09:49.73,0:09:51.32,Default,Ayuhara,0,0,0,,{NOTE:誰も誤魔化していません。}
-Dialogue: 0,0:09:51.32,0:09:53.07,Default,Ayuhara,0,0,0,,{NOTE:本当の事言ったまでです。}
-Dialogue: 0,0:09:53.07,0:09:56.20,Default,Katsuragi,0,0,0,,{NOTE:あ、あなたよっぽどバレーボールに自信があるのね。}
-Dialogue: 0,0:09:56.20,0:09:57.53,Default,Katsuragi,0,0,0,,{NOTE:試してあげるわ。}
-Dialogue: 0,0:09:57.53,0:09:59.37,Default,Ayuhara,0,0,0,,{NOTE:え？試すんですか？}
-Dialogue: 0,0:09:59.37,0:10:01.16,Default,Katsuragi,0,0,0,,{NOTE:調子荒っぽいテストに成るわよ。}
-Dialogue: 0,0:10:01.16,0:10:02.12,Default,Katsuragi,0,0,0,,{NOTE:良いわね。}
-Dialogue: 0,0:10:02.12,0:10:03.12,Default,(unison),0,0,0,,{NOTE:はい！}
-Dialogue: 0,0:10:08.42,0:10:09.88,Default,Hara,0,0,0,,{NOTE:—ハラさん！\\N—それ！}
-Dialogue: 0,0:10:13.63,0:10:14.46,Default,Hara,0,0,0,,{NOTE:お。}
-Dialogue: 0,0:10:14.46,0:10:16.55,Default,Katsuragi,0,0,0,,{NOTE:続けて。続けてXX打つのよ。}
-Dialogue: 0,0:10:39.53,0:10:40.87,Default,Katsuragi,0,0,0,,{NOTE:何て人でしょう。}
-Dialogue: 0,0:10:40.87,0:10:41.91,Default,Katsuragi,0,0,0,,{NOTE:よし。}
-Dialogue: 0,0:11:02.72,0:11:04.01,Default,Ayuhara,0,0,0,,{NOTE:卑怯だわ。}
-Dialogue: 0,0:11:20.20,0:11:21.20,Default,Ayuhara,0,0,0,,{NOTE:アタック！}
-Dialogue: 0,0:11:24.12,0:11:26.04,Default,Hara,0,0,0,,{NOTE:ま、キャプテンに何をするの？}
-Dialogue: 0,0:11:26.04,0:11:27.58,Default,Hara,0,0,0,,{NOTE:キャプテンは未だXX}
-Dialogue: 0,0:11:27.58,0:11:30.92,Default,Kashiwagi,0,0,0,,{NOTE:ちょっと！あなたたちこそ鮎原さんに何をするつもりなのよ？}
-Dialogue: 0,0:11:30.92,0:11:33.46,Default,Hara,0,0,0,,{NOTE:何よ？不良グループが出る幕じゃないわ。}
-Dialogue: 0,0:11:33.46,0:11:35.13,Default,Kashiwagi,0,0,0,,{NOTE:ま。不良ですって？}
-Dialogue: 0,0:11:35.13,0:11:36.09,Default,Hara,0,0,0,,{NOTE:違いまして？}
-Dialogue: 0,0:11:36.09,0:11:38.55,Default,Hara,0,0,0,,{NOTE:あんたたち富士見学園の屑じゃないの？}
-Dialogue: 0,0:11:38.55,0:11:40.01,Default,Nakazawa,0,0,0,,{NOTE:—ちょっと。\\N—そうね。}
-Dialogue: 0,0:11:40.01,0:11:41.09,Default,Kashiwagi,0,0,0,,{NOTE:駄目よ、ナカ。}
-Dialogue: 0,0:11:41.09,0:11:42.80,Default,Kashiwagi,0,0,0,,{NOTE:インゴ達は見ているわ。}
-Dialogue: 0,0:11:44.68,0:11:48.22,Default,Hara,0,0,0,,{NOTE:いかが？文句があるなら何時でもお相手するけど。}
-Dialogue: 0,0:11:48.22,0:11:50.77,Default,Hase,0,0,0,,{NOTE:でも私達は不良じゃないから、喧嘩は嫌よ。}
-Dialogue: 0,0:11:50.77,0:11:53.40,Default,Katsuragi,0,0,0,,{NOTE:もちろん、スポーツなら何時でも受けて立つけど。}
-Dialogue: 0,0:12:02.99,0:12:03.99,Default,Ayuhara,0,0,0,,{NOTE:やるわ。}
-Dialogue: 0,0:12:05.07,0:12:06.87,Default,Hase,0,0,0,,{NOTE:やるって、何を？}
-Dialogue: 0,0:12:06.87,0:12:09.08,Default,Ayuhara,0,0,0,,{NOTE:試合をしたあなたたちに勝って見せるわ。}
-Dialogue: 0,0:12:09.08,0:12:12.92,Default,Ayuhara,0,0,0,,{NOTE:私達、不良グループ、劣等生グループが。}
-Dialogue: 0,0:12:12.92,0:12:15.42,Default,Hara,0,0,0,,{NOTE:は、笑わせないで。}
-Dialogue: 0,0:12:15.42,0:12:17.88,Default,Hase,0,0,0,,{NOTE:バレーボールは一人じゃ出来ないのよ。}
-Dialogue: 0,0:12:17.88,0:12:20.80,Default,Ayuhara,0,0,0,,{NOTE:分かってます。一ヶ月あれば出きるわ。}
-Dialogue: 0,0:12:20.80,0:12:23.80,Default,Katsuragi,0,0,0,,{NOTE:面白いわ。とても面白いプランだわ。}
-Dialogue: 0,0:12:23.80,0:12:24.84,Default,Katsuragi,0,0,0,,{NOTE:ね、やってみる？}
-Dialogue: 0,0:12:24.84,0:12:25.84,Default,(unison),0,0,0,,{NOTE:賛成。}
-Dialogue: 0,0:12:25.84,0:12:27.35,Default,Kashiwagi,0,0,0,,{NOTE:親分、何を言い出すのよ？}
-Dialogue: 0,0:12:27.35,0:12:30.22,Default,Ikezaki,0,0,0,,{NOTE:めちゃくちゃだわ。私達はルールも知らないの。}
-Dialogue: 0,0:12:31.60,0:12:33.06,Alternative,Ayuhara,0,0,0,,{NOTE:やる。やるわ！}
-Dialogue: 0,0:12:39.02,0:12:40.36,Default,Katsuragi,0,0,0,,{NOTE:頑張ってよ。}
-Dialogue: 0,0:12:51.83,0:12:54.87,Default,Ayuhara,0,0,0,,{NOTE:一二。一二。一二。一二。}
-Dialogue: 0,0:13:06.51,0:13:08.55,Default,Ookii,0,0,0,,{NOTE:あ、もう駄目よ。}
-Dialogue: 0,0:13:08.55,0:13:10.10,Default,Ayuhara,0,0,0,,{NOTE:何言ってるの、これぐらいで。}
-Dialogue: 0,0:13:10.10,0:13:11.43,Default,Ayuhara,0,0,0,,{NOTE:さ、立って。}
-Dialogue: 0,0:13:12.18,0:13:14.77,Default,(mixed),0,0,0,,{NOTE:—もう苦しい。\\N—もう駄目。}
-Dialogue: 0,0:13:14.77,0:13:17.31,Default,Ayuhara,0,0,0,,{NOTE:駄目駄目、こんな事じゃ。さ、立って。}
-Dialogue: 0,0:13:17.31,0:13:20.11,Default,Fukuda,0,0,0,,{NOTE:こんな砂地がない所でやりましょうよ。}
-Dialogue: 0,0:13:20.11,0:13:23.99,Default,Ayuhara,0,0,0,,{NOTE:砂地だからいいのよ。足腰を鍛えるには砂地が一番なのよ。}
-Dialogue: 0,0:13:23.99,0:13:26.91,Default,Ayuhara,0,0,0,,{NOTE:さ、あの灯台までもうXXよ。}
-Dialogue: 0,0:13:26.91,0:13:28.32,Default,(mixed),0,0,0,,{NOTE:え？あんな遠くまで？}
-Dialogue: 0,0:13:28.32,0:13:29.03,Default,(unison),0,0,0,,{NOTE:ショック。}
-Dialogue: 0,0:13:29.03,0:13:31.58,Default,Ayuhara,0,0,0,,{NOTE:しっかりして。相手はバレー部のレギュラーよ。}
-Dialogue: 0,0:13:31.58,0:13:34.29,Default,Ayuhara,0,0,0,,{NOTE:このぐらいで音を上げてたら勝ってこないでしょう。}
-Dialogue: 0,0:13:34.29,0:13:35.50,Default,Kashiwagi,0,0,0,,{NOTE:そうよ。}
-Dialogue: 0,0:13:35.50,0:13:38.79,Default,Kashiwagi,0,0,0,,{NOTE:親分の言う通りだわ。遣るといったら、死ぬまでに遣るのよ。}
-Dialogue: 0,0:13:38.79,0:13:40.71,Default,Kashiwagi,0,0,0,,{NOTE:さ、頑張っていこう。}
-Dialogue: 0,0:13:40.71,0:13:42.50,Default,(mixed),0,0,0,,{NOTE:え、待って。}
-Dialogue: 0,0:13:45.05,0:13:46.72,Default,Katsuragi,0,0,0,,{NOTE:駄目駄目そんなことじゃ。}
-Dialogue: 0,0:13:47.55,0:13:48.55,Default,Katsuragi,0,0,0,,{NOTE:さ、行こうよ。}
-Dialogue: 0,0:13:48.55,0:13:49.35,Default,Hara,0,0,0,,{NOTE:はい。}
-Dialogue: 0,0:13:57.56,0:13:58.56,Default,Katsuragi,0,0,0,,{NOTE:頑張って。}
-Dialogue: 0,0:13:58.56,0:13:59.81,Default,Katsuragi,0,0,0,,{NOTE:さ。}
-Dialogue: 0,0:14:05.24,0:14:06.20,Default,Teacher A,0,0,0,,{NOTE:なるほど。}
-Dialogue: 0,0:14:06.20,0:14:09.91,Default,Teacher A,0,0,0,,{NOTE:そう言えば、バレー部の練習はいつもと違いますな。}
-Dialogue: 0,0:14:09.91,0:14:13.62,Default,Teacher B,0,0,0,,{NOTE:意地でも、柏木や中沢のグループに負けたくないからでしょ。}
-Dialogue: 0,0:14:13.62,0:14:18.42,Default,Ingo,0,0,0,,{NOTE:しかし、鮎原こずえも何であんな不良グループの形を持つんでしょうな？}
-Dialogue: 0,0:14:18.42,0:14:23.84,Default,(mixed),0,0,0,,{NOTE:よいっしょ。よいっしょ。}
-Dialogue: 0,0:14:28.18,0:14:31.80,Default,Ayuhara,0,0,0,,{NOTE:さ。じゃいよいよ今日からボールの使ってるの練習よ。}
-Dialogue: 0,0:14:31.80,0:14:33.68,Default,Ayuhara,0,0,0,,{NOTE:敵に勝つ方法はただ一つ。}
-Dialogue: 0,0:14:33.68,0:14:36.23,Default,Ayuhara,0,0,0,,{NOTE:練習、練習。練習よ！}
-Dialogue: 0,0:14:36.23,0:14:37.64,Default,(unison),0,0,0,,{NOTE:うん。}
-Dialogue: 0,0:14:37.64,0:14:39.35,Default,Ayuhara,0,0,0,,{NOTE:さ、行くわよ。}
-Dialogue: 0,0:14:41.36,0:14:42.65,Default,Nakazawa,0,0,0,,{NOTE:いててて。}
-Dialogue: 0,0:14:42.65,0:14:43.90,Default,Ayuhara,0,0,0,,{NOTE:駄目駄目。}
-Dialogue: 0,0:14:43.90,0:14:44.73,Default,Ayuhara,0,0,0,,{NOTE:いい？}
-Dialogue: 0,0:14:44.73,0:14:48.53,Default,Ayuhara,0,0,0,,{NOTE:バレーではどんな場合でも、パチッ何て(XX・応答)させたら反則に成るのよ。}
-Dialogue: 0,0:14:48.53,0:14:50.45,Default,Ayuhara,0,0,0,,{NOTE:パスは必ず指先で弾く。}
-Dialogue: 0,0:14:50.45,0:14:51.74,Default,Nakazawa,0,0,0,,{NOTE:うん。}
-Dialogue: 0,0:14:51.74,0:14:52.99,Default,Nakazawa,0,0,0,,{NOTE:じゃ、オフク。行くよ。}
-Dialogue: 0,0:14:52.99,0:14:53.95,Default,Fukuda,0,0,0,,{NOTE:はい。}
-Dialogue: 0,0:14:56.25,0:14:58.04,Default,(mixed),0,0,0,,{NOTE:—デブ、行くわよ。\\N—いいよ。}
-Dialogue: 0,0:15:03.34,0:15:04.17,Default,Ookii,0,0,0,,{NOTE:痛い。}
-Dialogue: 0,0:15:08.76,0:15:11.47,Default,Ayuhara,0,0,0,,{NOTE:さ、今度はサーブとサーブレシーブの練習よ。}
-Dialogue: 0,0:15:11.47,0:15:15.76,Default,Ayuhara,0,0,0,,{NOTE:六人制ではサーブは一回しか打てないから、確実に相手のコートに出ること。}
-Dialogue: 0,0:15:15.76,0:15:16.81,Default,(mixed),0,0,0,,{NOTE:—いいわね？\\N—うん。}
-Dialogue: 0,0:15:25.02,0:15:25.90,Default,Ayuhara,0,0,0,,{NOTE:その調子、その調子。}
-Dialogue: 0,0:15:38.00,0:15:39.41,Default,Ayuhara,0,0,0,,{NOTE:ほら、立って立って。}
-Dialogue: 0,0:15:42.42,0:15:43.08,Default,Ayuhara,0,0,0,,{NOTE:もう一つ。}
-Dialogue: 0,0:15:45.46,0:15:47.38,Default,Katsuragi,0,0,0,,{NOTE:この程度なら大した事ないわよ。}
-Dialogue: 0,0:15:48.42,0:15:49.88,Default,Kashiwagi,0,0,0,,{NOTE:は、バレー部の連中よ。}
-Dialogue: 0,0:15:49.88,0:15:52.01,Default,Nakazawa,0,0,0,,{NOTE:え？偵察に来たんだわ、きっと。}
-Dialogue: 0,0:15:53.72,0:15:55.72,Default,Ayuhara,0,0,0,,{NOTE:誰が見にいくのは気にしない、気にしない。}
-Dialogue: 0,0:15:55.72,0:15:57.18,Default,Ayuhara,0,0,0,,{NOTE:さ、皆始めて。}
-Dialogue: 0,0:16:01.48,0:16:02.85,Default,(mixed),0,0,0,,{NOTE:—本郷先生。\\N—は？}
-Dialogue: 0,0:16:02.85,0:16:05.86,Default,Nakajima,0,0,0,,{NOTE:あの子達本当に一生懸命ですわ。}
-Dialogue: 0,0:16:05.86,0:16:09.23,Default,Hongou,0,0,0,,{NOTE:え。鮎原くんがバレーのコーチ始めてから…}
-Dialogue: 0,0:16:09.23,0:16:12.86,Default,Hongou,0,0,0,,{NOTE:…教室における彼女達の態度や成績は見違えるように良くなった。}
-Dialogue: 0,0:16:12.86,0:16:16.33,Default,Hongou,0,0,0,,{NOTE:バレーが彼女達を精神的に立ち直らせたのかもしれないな。}
-Dialogue: 0,0:16:16.33,0:16:17.20,Default,Hongou,0,0,0,,{NOTE:楽しみだ。}
-Dialogue: 0,0:16:19.79,0:16:21.25,Default,Nakajima,0,0,0,,{NOTE:先生。}
-Dialogue: 0,0:16:21.25,0:16:26.08,Default,Nakajima,0,0,0,,{NOTE:私は担任教師として、鮎原さんにお礼を言わなきゃなりませんわね。}
-Dialogue: 0,0:16:26.08,0:16:28.88,Default,Hongou,0,0,0,,{NOTE:な、もうすこし黙ってみてやりましょう。}
-Dialogue: 0,0:16:28.88,0:16:31.38,Default,Hongou,0,0,0,,{NOTE:彼女達は今周りの目を気にしないで…}
-Dialogue: 0,0:16:31.38,0:16:33.55,Default,Hongou,0,0,0,,{NOTE:…真剣にバレーに打ち込んでいるんですから。}
-Dialogue: 0,0:16:33.55,0:16:35.26,Default,Hongou,0,0,0,,{NOTE:ね、中島先生？}
-Dialogue: 0,0:16:42.14,0:16:43.39,Default,Kashiwagi,0,0,0,,{NOTE:よいっしょ。}
-Dialogue: 0,0:16:43.39,0:16:44.31,Default,Ayuhara,0,0,0,,{NOTE:ほら！}
-Dialogue: 0,0:16:50.32,0:16:51.44,Default,Ayuhara,0,0,0,,{NOTE:負けるもんか？}
-Dialogue: 0,0:17:08.59,0:17:11.38,Alternative,Ayuhara,0,0,0,,{NOTE:技術をカバー出来るのはこのファイトだ。}
-Dialogue: 0,0:17:11.38,0:17:12.71,Alternative,Ayuhara,0,0,0,,{NOTE:絶対に勝つ。}
-Dialogue: 0,0:17:12.71,0:17:14.55,Alternative,Ayuhara,0,0,0,,{NOTE:絶対に勝って見せるわ。}
-Dialogue: 0,0:17:19.60,0:17:22.81,Sign,,0,0,0,,{NOTE:教員室}
-Dialogue: 0,0:17:23.39,0:17:26.77,Default,Teacher C,0,0,0,,{NOTE:私は密かに今日の試合を楽しみにしてたんですよ。}
-Dialogue: 0,0:17:26.77,0:17:29.44,Default,Teacher D,0,0,0,,{NOTE:え。実は、私もそうなんですよ。}
-Dialogue: 0,0:17:29.44,0:17:33.19,Default,Teacher D,0,0,0,,{NOTE:あの劣等生グループはどこまでやれるかは、これを今日見るかいですから。}
-Dialogue: 0,0:17:34.36,0:17:36.15,Default,Teacher C,0,0,0,,{NOTE:あ、そろそろ試合の時間ですが。}
-Dialogue: 0,0:17:36.15,0:17:37.82,Default,Teacher C,0,0,0,,{NOTE:行きますか。}
-Dialogue: 0,0:17:39.16,0:17:40.74,Default,Katsuragi,0,0,0,,{NOTE:さ、鮎原さん。}
-Dialogue: 0,0:17:40.74,0:17:42.45,Default,(mixed),0,0,0,,{NOTE:—よいわ良い？\\N—ええ、いいわ。}
-Dialogue: 0,0:17:42.45,0:17:47.96,Default,Katsuragi,0,0,0,,{NOTE:鮎原さん、この試合勝負は決まってるようなもんだから1セットマッチでいいわね。}
-Dialogue: 0,0:17:47.96,0:17:49.71,Default,Ayuhara,0,0,0,,{NOTE:勝負何か決まってないわ。}
-Dialogue: 0,0:17:49.71,0:17:51.38,Default,Ayuhara,0,0,0,,{NOTE:でも、そう言うならそれでもいいわよ。}
-Dialogue: 0,0:17:51.92,0:17:53.42,Default,Referee A,0,0,0,,{NOTE:試合開始。}
-Dialogue: 0,0:17:57.84,0:17:59.30,Default,(unknown),0,0,0,,{NOTE:皆頑張ろうね。}
-Dialogue: 0,0:17:59.30,0:18:00.22,Default,(unknown),0,0,0,,{NOTE:はい！}
+Dialogue: 0,0:02:57.61,0:03:00.82,Sign,,0,0,0,,{\fad(1900,0)}Fujimi Academy{NOTE:富士見学園}
+Dialogue: 0,0:03:08.33,0:03:12.08,Sign,,0,0,0,,{\fad(0,2000)}Math{NOTE:数学}
+Dialogue: 0,0:03:12.75,0:03:13.88,Default,Ingo,0,0,0,,Ayuhara-kun.{NOTE:鮎原くん。}
+Dialogue: 0,0:03:14.79,0:03:16.42,Default,Ingo,0,0,0,,Hey.{NOTE:こら。}
+Dialogue: 0,0:03:16.42,0:03:17.46,Default,Ingo,0,0,0,,Ayuhara-kun.{NOTE:鮎原くん。}
+Dialogue: 0,0:03:17.46,0:03:18.51,Default,Ingo,0,0,0,,Ayuhara-kun?{NOTE:鮎原くん。}
+Dialogue: 0,0:03:19.17,0:03:20.80,Default,Ikezaki,0,0,0,,Ayuhara-san, get it together.{NOTE:鮎原さんてば。}
+Dialogue: 0,0:03:20.80,0:03:22.80,Default,Ayuhara,0,0,0,,What is it, Ikezaki-san?{NOTE:何よ池崎?}
+Dialogue: 0,0:03:28.60,0:03:29.39,Default,Ayuhara,0,0,0,,Sir.{NOTE:はい。}
+Dialogue: 0,0:03:29.39,0:03:34.73,Default,Ingo,0,0,0,,I know you just transferred here, but what's with your attitude?{NOTE:転校したばかりだと言うので、大目に見てきたが、今のその態度は何です？}
+Dialogue: 0,0:03:34.73,0:03:36.44,Default,Ayuhara,0,0,0,,Huh? What do you mean?{NOTE:へ？ん、何がですか？}
+Dialogue: 0,0:03:36.44,0:03:40.57,Default,Ingo,0,0,0,,If my class bores you so much, go sleep in the infirmary.{NOTE:そんなに私の授業が嫌なら、医務室でも行って寝ていなさい。}
+Dialogue: 0,0:03:40.57,0:03:41.45,Default,Ayuhara,0,0,0,,Yes sir.{NOTE:はい。}
+Dialogue: 0,0:03:44.70,0:03:46.20,Default,Ingo,0,0,0,,Ayuhara-kun!{NOTE:鮎原くん！}
+Dialogue: 0,0:03:46.20,0:03:47.79,Default,Student A,0,0,0,,She surprised me.{NOTE:驚いたね、まったく。}
+Dialogue: 0,0:03:47.79,0:03:49.95,Default,Student B,0,0,0,,She has some nerve acting like this.{NOTE:よりも行ってインゴの前だよね。}
+Dialogue: 0,0:03:50.37,0:03:52.25,Sign,,0,0,0,,Infirmary{NOTE:教員室}
+Dialogue: 0,0:03:52.83,0:03:56.38,Default,Ingo,0,0,0,,By Meihou Academy you mean that prestigious institute in Tokyo?{NOTE:明方学園、と言うとあの東京の名門校ですか？}
+Dialogue: 0,0:03:56.38,0:03:57.42,Default,Teacher A,0,0,0,,Yes.{NOTE:そう。}
+Dialogue: 0,0:03:57.42,0:04:02.38,Default,Teacher A,0,0,0,,That's why I've had high expectations for having Ayuhara-san transfer here.{NOTE:だから私は鮎原こずえの転入は相当の刺激に成ると期待しとったんですが。}
+Dialogue: 0,0:04:02.38,0:04:06.60,Default,Teacher B,0,0,0,,Bad call. She doesn't even come to class.{NOTE:とんでもない。まるで授業なんか受ける気がないんですから。}
+Dialogue: 0,0:04:06.60,0:04:09.68,Default,Teacher A,0,0,0,,What do you think, professor Hongou?{NOTE:ほう。本郷先生がいかがです?}
+Dialogue: 0,0:04:09.68,0:04:12.81,Default,Hongou,0,0,0,,Well, simply put, she does whatever she wants.{NOTE:そうですね。ま、一口に言えば、のびのびしています。}
+Dialogue: 0,0:04:12.81,0:04:17.19,Default,Hongou,0,0,0,,But I don't think we should chase every student and tell them what to do.{NOTE:しかし、勉強勉強で追い回されている我が校の生徒にないものを持っているようです。}
+Dialogue: 0,0:04:19.48,0:04:20.57,Default,Ayuhara,0,0,0,,Ah.{NOTE:あ。}
+Dialogue: 0,0:04:24.11,0:04:26.95,Default,Kashiwagi,0,0,0,,Ayuhara-san, we've been waiting for you.{NOTE:鮎原さん、お待ちしてたわ。}
+Dialogue: 0,0:04:26.95,0:04:29.29,Default,Kashiwagi,0,0,0,,Make yourself comfortable. Take a seat.{NOTE:さ、どうぞ、お座りになって。}
+Dialogue: 0,0:04:33.08,0:04:34.21,Default,Ayuhara,0,0,0,,Err…{NOTE:あの…}
+Dialogue: 0,0:04:35.29,0:04:36.79,Default,Ayuhara,0,0,0,,Do you need anything from me?{NOTE:何が御用？}
+Dialogue: 0,0:04:36.79,0:04:39.80,Default,Kashiwagi,0,0,0,,You did well, Ayuhara-san.{NOTE:良く遣ったわね。鮎原さん。}
+Dialogue: 0,0:04:39.80,0:04:41.51,Default,Ayuhara,0,0,0,,What did I do?{NOTE:え？何が？}
+Dialogue: 0,0:04:41.51,0:04:43.17,Default,Kashiwagi,0,0,0,,The way you stuck it to His Majesty.{NOTE:あのインゴをやっつけたことよ。}
+Dialogue: 0,0:04:43.17,0:04:45.47,Default,Kashiwagi,0,0,0,,We couldn't believe our ears. Right, Ofuku?{NOTE:胸がずっとしたわ。ね、オフク？}
+Dialogue: 0,0:04:45.47,0:04:46.43,Default,Fukuda,0,0,0,,Yep.{NOTE:ん。}
+Dialogue: 0,0:04:46.43,0:04:49.31,Default,Fukuda,0,0,0,,Say, why don't we become friends?{NOTE:どう？私達の仲間に成らない？}
+Dialogue: 0,0:04:49.31,0:04:51.02,Default,Ayuhara,0,0,0,,What kind of friends?{NOTE:仲間って？}
+Dialogue: 0,0:04:51.02,0:04:57.10,Default,Fukuda,0,0,0,,People call us the useless and delinquents.\NIn reality, we're just a free and cheerful group.{NOTE:人は不良とか劣等生とか言うけど。つまり私達は自由で気ままなグループなのよ。}
+Dialogue: 0,0:04:57.10,0:04:58.86,Default,Ookii,0,0,0,,We want to be friends.{NOTE:お友達に成りたいのよ。}
+Dialogue: 0,0:04:58.86,0:05:00.61,Default,Ookii,0,0,0,,We could achieve something together.{NOTE:出来ないXXだけでいいわよ。}
+Dialogue: 0,0:05:00.61,0:05:01.78,Default,Nakazawa,0,0,0,,It's decided.{NOTE:決まった。}
+Dialogue: 0,0:05:01.78,0:05:03.78,Default,(mixed),0,0,0,,– Let's go!\N– Yahoo!{NOTE:レッツゴ！}
+Dialogue: 0,0:05:07.16,0:05:08.70,Default,Kashiwagi,0,0,0,,Come on, dance!{NOTE:踊りなさいよ。}
+Dialogue: 0,0:05:15.00,0:05:16.46,Default,Nakazawa,0,0,0,,Kakko!{NOTE:カッコ。}
+Dialogue: 0,0:05:16.96,0:05:18.08,Default,Nakazawa,0,0,0,,Someone's here.{NOTE:誰が来たよ。}
+Dialogue: 0,0:05:19.79,0:05:21.38,Default,Kashiwagi,0,0,0,,This is bad. Party's over.{NOTE:行けない。解散！}
+Dialogue: 0,0:05:24.17,0:05:25.05,Default,Ichinose,0,0,0,,Ayuhara-kun, I presume?{NOTE:鮎原くんね。}
+Dialogue: 0,0:05:25.05,0:05:26.55,Default,Ayuhara,0,0,0,,You're well informed.{NOTE:良くご存知ね。}
+Dialogue: 0,0:05:26.55,0:05:28.68,Default,Ichinose,0,0,0,,Well, you're pretty famous.{NOTE:それは君は有名だからね。}
+Dialogue: 0,0:05:28.68,0:05:29.97,Default,Ayuhara,0,0,0,,And you are…?{NOTE:そう言うあなたは？}
+Dialogue: 0,0:05:29.97,0:05:31.64,Default,Ichinose,0,0,0,,I'm Ichinose.{NOTE:僕は一ノ瀬と言うんだ。}
+Dialogue: 0,0:05:31.64,0:05:34.06,Default,Ichinose,0,0,0,,Kashiwagi-kun was here just a moment ago, wasn't she?{NOTE:今ここにいたのは柏木くん達だろう？}
+Dialogue: 0,0:05:34.06,0:05:36.94,Default,Ichinose,0,0,0,,I'm not going to say anything bad, but don't hang out with such people.{NOTE:悪いことは言わない。あんな連中と付き合うのはよせよ。}
+Dialogue: 0,0:05:36.94,0:05:38.65,Default,Ayuhara,0,0,0,,It's none of your business.{NOTE:大きなお世話よ。}
+Dialogue: 0,0:05:38.65,0:05:41.15,Default,Ayuhara,0,0,0,,You are the Vice Chairman of the Student Council, right?{NOTE:あなた生徒会の副会長ですってね？}
+Dialogue: 0,0:05:41.15,0:05:44.78,Default,Ayuhara,0,0,0,,Let me make myself clear: I hate Fujimi Academy.{NOTE:だから申し上げておくけど、私は富士見学園って大嫌い。}
+Dialogue: 0,0:05:44.78,0:05:46.70,Default,Ayuhara,0,0,0,,Some school I've transferred into.{NOTE:とんだ学校へ来ちゃったわ。}
+Dialogue: 0,0:05:46.70,0:05:47.99,Default,Ichinose,0,0,0,,Ayuhara-kun!{NOTE:鮎原くん。}
+Dialogue: 0,0:05:47.99,0:05:51.20,Default,Ichinose,0,0,0,,Same goes to Fujimi Academy. You trouble us with your behavior.{NOTE:富士見学園こそ君みたいな生徒を抱えてご迷惑だ。}
+Dialogue: 0,0:05:52.16,0:05:53.33,Default,(unison),0,0,0,,– Ken?\N– Ken!{NOTE:—けん！\\N—けん！}
+Dialogue: 0,0:05:54.54,0:05:56.54,Default,(unison),0,0,0,,– How do you know Ken?\N– How do you know Ken?{NOTE:—どうしてけんを知ってるの？\\N—どうしてけんを知ってるんだ？}
+Dialogue: 0,0:05:59.04,0:06:01.09,Default,Ayuhara's aunt,0,0,0,,Tsutomu-san is my nephew.{NOTE:この努さんは私の甥。}
+Dialogue: 0,0:06:01.09,0:06:03.13,Default,Ayuhara's aunt,0,0,0,,Kozue is my niece, on my husband's side.{NOTE:こずえちゃんは主人の姪なのよ。}
+Dialogue: 0,0:06:03.13,0:06:04.17,Default,Ayuhara's aunt,0,0,0,,Is it clear?{NOTE:分かった？}
+Dialogue: 0,0:06:04.17,0:06:06.01,Default,Ichinose,0,0,0,,What? This means—{NOTE:何だ？それじゃ…}
+Dialogue: 0,0:06:06.01,0:06:07.68,Default,Ayuhara,0,0,0,,…we're actually related.{NOTE:私達は親戚だったの。}
+Dialogue: 0,0:06:24.19,0:06:25.94,Default,Ayuhara,0,0,0,,Wah, so cold.{NOTE:わ、冷たい。}
+Dialogue: 0,0:06:28.61,0:06:30.07,Default,Ichinose,0,0,0,,Of course it is.{NOTE:当たり前じゃないか？}
+Dialogue: 0,0:06:30.91,0:06:32.78,Default,Ayuhara,0,0,0,,But I love the waves so much.{NOTE:でも私は波が好き。}
+Dialogue: 0,0:06:36.25,0:06:39.46,Default,Ayuhara,0,0,0,,Taking a long, long time, they eventually wear down their obstacles.{NOTE:長い時間をかけて、相手を削り取っちゃうんでしょ。}
+Dialogue: 0,0:06:46.55,0:06:48.05,Default,Ayuhara,0,0,0,,Waves are remarkable.{NOTE:波は偉いわ。}
+Dialogue: 0,0:06:48.05,0:06:49.88,Default,Ayuhara,0,0,0,,So wonderful.{NOTE:素晴らしいわ。}
+Dialogue: 0,0:06:49.88,0:06:53.60,Default,Ichinose,0,0,0,,Let me change the topic… say, why do you skip classes?{NOTE:そんな事言う君がなぜ授業をサボるか？}
+Dialogue: 0,0:06:53.60,0:06:56.39,Default,Ayuhara,0,0,0,,I don't really want to skip them, but…{NOTE:サボるつもりがないけど。}
+Dialogue: 0,0:06:56.39,0:06:58.02,Default,Ayuhara,0,0,0,,Motivation just doesn't seem to come.{NOTE:やる気が起こらないのよ。}
+Dialogue: 0,0:06:58.02,0:07:00.56,Default,Ayuhara,0,0,0,,When I don't have a goal, I\hdon't feel like doing anything.{NOTE:私と目的がないと空気みたいに成っちゃうよ。}
+Dialogue: 0,0:07:05.52,0:07:07.61,Default,Katsuragi's team,0,0,0,,Come on, you can do better.{NOTE:ほら、しっかりして。}
+Dialogue: 0,0:07:07.61,0:07:09.53,Default,Katsuragi's team,0,0,0,,– Do your best.\N– Okay.{NOTE:—頑張って。\\N—行くよ！—はい。}
+Dialogue: 0,0:07:09.53,0:07:11.07,Default,Katsuragi's team,0,0,0,,– All right, here goes the serve.\N– I'm ready.{NOTE:—さ、サービス行くわよ。\\N—はい。}
+Dialogue: 0,0:07:12.24,0:07:13.74,Default,Katsuragi's team,0,0,0,,Good luck!{NOTE:頑張って！}
+Dialogue: 0,0:07:21.79,0:07:22.75,Alternative,Katsuragi,0,0,0,,She's here again.{NOTE:又来てる。}
+Dialogue: 0,0:07:25.09,0:07:27.84,Default,Katsuragi,0,0,0,,Your jump is not high enough. Let's try once again.{NOTE:駄目よ、ジャンプが足りないよ。もう一度！}
+Dialogue: 0,0:07:27.84,0:07:29.01,Default,Katsuragi's team,0,0,0,,Got it.{NOTE:はい。}
+Dialogue: 0,0:07:29.01,0:07:29.76,Default,Katsuragi's team,0,0,0,,Here goes!{NOTE:行くよ！}
+Dialogue: 0,0:07:30.97,0:07:32.51,Default,Katsuragi's team,0,0,0,,– Ah!\N– Look out!{NOTE:あ、危ない！}
+Dialogue: 0,0:07:38.02,0:07:39.02,Default,Katsuragi,0,0,0,,Hold on.{NOTE:待って。}
+Dialogue: 0,0:07:40.52,0:07:41.89,Default,Katsuragi,0,0,0,,You're Ayuhara-san, right?{NOTE:あなたは鮎原さん？}
+Dialogue: 0,0:07:41.89,0:07:43.10,Default,Ayuhara,0,0,0,,Yes.{NOTE:え。}
+Dialogue: 0,0:07:43.10,0:07:45.48,Default,Katsuragi,0,0,0,,You come every here since you've transferred.{NOTE:あなた転校してから毎日のように…}
+Dialogue: 0,0:07:45.48,0:07:47.36,Default,Katsuragi,0,0,0,,You're here to watch our practices, right?{NOTE:…バレーの練習を見にきてるでしょう。}
+Dialogue: 0,0:07:47.36,0:07:48.23,Default,Ayuhara,0,0,0,,Yes…{NOTE:え。}
+Dialogue: 0,0:07:48.23,0:07:51.70,Default,Katsuragi,0,0,0,,Why don't you join our club?{NOTE:どう？私達の部に入らない？}
+Dialogue: 0,0:07:51.70,0:07:53.11,Default,Ayuhara,0,0,0,,I think I'll pass.{NOTE:いいえ、良いんです。}
+Dialogue: 0,0:07:54.12,0:07:56.37,Default,Katsuragi,0,0,0,,I want her to join us so much…{NOTE:どうしても(XX・欲しい子)だわ。}
+Dialogue: 0,0:07:56.37,0:07:57.95,Default,Hara,0,0,0,,What's with her?{NOTE:何よあの態度？}
+Dialogue: 0,0:07:57.95,0:07:59.41,Default,Hara,0,0,0,,So cheeky.{NOTE:生意気な子ね。}
+Dialogue: 0,0:07:59.41,0:08:02.21,Default,Hara,0,0,0,,But I need to admit it was pretty good receive.{NOTE:でも中々良いレシーブじゃない。}
+Dialogue: 0,0:08:02.75,0:08:07.59,Default,Ichinose,0,0,0,,It seems your go-go dancing was discussed at today's staff meeting.{NOTE:君達のゴゴ何だけど、今日の職員会議で取り上げたらしいんだ。}
+Dialogue: 0,0:08:07.59,0:08:11.38,Default,Ichinose,0,0,0,,It will be a problem if you don't behave.{NOTE:この際、自粛してくれないと困るんだな。}
+Dialogue: 0,0:08:11.38,0:08:13.26,Default,Ayuhara,0,0,0,,I refuse, Vice Chairman.{NOTE:反対です、副会長さん。}
+Dialogue: 0,0:08:13.26,0:08:14.72,Default,Ichinose,0,0,0,,Why?{NOTE:なぜ？}
+Dialogue: 0,0:08:14.72,0:08:18.72,Default,Ayuhara,0,0,0,,Both teachers and you look at Kashiwagi-san's group with prejudice.{NOTE:先生もあなた達もね、色眼鏡で見てるのよ、柏木さんたちを。}
+Dialogue: 0,0:08:18.72,0:08:22.31,Default,Ayuhara,0,0,0,,You assume everything they don't understand must be bad.{NOTE:先生達分からない事は悪い事って頭から決めてかかってるの。}
+Dialogue: 0,0:08:22.31,0:08:24.81,Default,Ayuhara,0,0,0,,If they tried it, they might have fun.{NOTE:やってみれば、楽しい事かもしれないのに。}
+Dialogue: 0,0:08:24.81,0:08:25.86,Default,Ayuhara,0,0,0,,See for yourself.{NOTE:例えばね。}
+Dialogue: 0,0:08:25.86,0:08:27.48,Default,Ayuhara,0,0,0,,Naka, radio!{NOTE:ナカ、ラヂオ！}
+Dialogue: 0,0:08:38.74,0:08:39.83,Default,Ayuhara,0,0,0,,All right!{NOTE:それ！}
+Dialogue: 0,0:08:50.92,0:08:52.38,Default,Ayuhara,0,0,0,,Yahoo!{NOTE:やほぉ！}
+Dialogue: 0,0:08:57.26,0:08:58.47,Default,Ayuhara,0,0,0,,How was it, Tsutomu-san?{NOTE:いかが、努さん？}
+Dialogue: 0,0:08:58.47,0:08:59.76,Default,Ayuhara,0,0,0,,Wanna try it?{NOTE:やってみたいと思わない？}
+Dialogue: 0,0:08:59.76,0:09:01.18,Default,Kashiwagi,0,0,0,,Awesome!{NOTE:すごい！}
+Dialogue: 0,0:09:01.18,0:09:03.27,Default,Kashiwagi,0,0,0,,Ayuhara-san, you're made to be our chief!{NOTE:やっぱり私達の親分だわね。}
+Dialogue: 0,0:09:03.27,0:09:04.44,Default,Hase,0,0,0,,Ayuhara-san.{NOTE:鮎原さん。}
+Dialogue: 0,0:09:04.44,0:09:05.52,Default,Ayuhara,0,0,0,,Oh?{NOTE:お？}
+Dialogue: 0,0:09:05.52,0:09:08.44,Default,Hase,0,0,0,,Katsuragi-san asked me to find you.{NOTE:桂城さんに頼まれずっとあなたを探してたの。}
+Dialogue: 0,0:09:08.44,0:09:09.52,Default,Ayuhara,0,0,0,,Find me?{NOTE:私を？}
+Dialogue: 0,0:09:09.52,0:09:12.57,Default,Hase,0,0,0,,Katsuragi-san says she really wants you to join our club.{NOTE:桂城さんはね、是非あなた入部して欲しいんだって。}
+Dialogue: 0,0:09:12.57,0:09:15.74,Default,Hase,0,0,0,,After seeing your receive yesterday, she's sure you've got what it takes.{NOTE:昨日のレシーブ見て、あなたならきっとやれるって言うのよ。}
+Dialogue: 0,0:09:15.74,0:09:17.70,Default,Ichinose,0,0,0,,It's your chance. You should take it.{NOTE:素敵じゃないか？やれよ、君。}
+Dialogue: 0,0:09:17.70,0:09:23.08,Default,Ayuhara,0,0,0,,I'm sorry, but I'd rather hang out with these girls rather than play volleyball with you.{NOTE:折角だけど私…バレー部に入るより、この人達と遊ぶ方が楽しいのよ。}
+Dialogue: 0,0:09:23.08,0:09:25.12,Default,Ayuhara,0,0,0,,Besides, that club is, well…{NOTE:第一、あんなバレー部じゃ…}
+Dialogue: 0,0:09:25.12,0:09:27.21,Default,Hase,0,0,0,,Huh?{NOTE:え？}
+Dialogue: 0,0:09:27.21,0:09:28.75,Default,Ayuhara,0,0,0,,Hm, how should I put it?{NOTE:あら、行けない？}
+Dialogue: 0,0:09:28.75,0:09:30.84,Default,Hara,0,0,0,,What do you mean, Ayuhara-san?{NOTE:何て言ったの、鮎原さん。}
+Dialogue: 0,0:09:30.84,0:09:34.97,Default,Ayuhara,0,0,0,,Nothing particular. Only that I'm disappointed with your practice.{NOTE:何でもないの。ただあなたたちの練習を見てがっかりしたんです。}
+Dialogue: 0,0:09:34.97,0:09:36.68,Default,Ayuhara,0,0,0,,Excuse me.{NOTE:ごめんなさい。}
+Dialogue: 0,0:09:36.68,0:09:37.97,Default,Ayuhara,0,0,0,,Let's go, girls.{NOTE:さ、皆行きましょう。}
+Dialogue: 0,0:09:38.80,0:09:40.01,Default,Katsuragi,0,0,0,,Ayuhara-san.{NOTE:鮎原さん。}
+Dialogue: 0,0:09:40.01,0:09:42.06,Default,Katsuragi,0,0,0,,Hase-san and Hara-san told me.{NOTE:話はハセさんとハラさんに聞いたわ。}
+Dialogue: 0,0:09:42.06,0:09:43.68,Default,Katsuragi,0,0,0,,You insulted our volleyball club.{NOTE:バレー部を侮辱侮辱したそうね。}
+Dialogue: 0,0:09:44.56,0:09:46.69,Default,Ayuhara,0,0,0,,I don't think I've ever insulted you.{NOTE:あら、侮辱だなんて、そんな。}
+Dialogue: 0,0:09:46.69,0:09:48.85,Default,Hara,0,0,0,,Ayuhara-san, don't lie to us.{NOTE:鮎原さん、誤魔化したって駄目よ。}
+Dialogue: 0,0:09:49.73,0:09:51.32,Default,Ayuhara,0,0,0,,I am not lying to anyone.{NOTE:誰も誤魔化していません。}
+Dialogue: 0,0:09:51.32,0:09:52.94,Default,Ayuhara,0,0,0,,I've only spoken the truth.{NOTE:本当の事言ったまでです。}
+Dialogue: 0,0:09:52.94,0:09:56.20,Default,Katsuragi,0,0,0,,Ah, you seem to be pretty confident about volleyball.{NOTE:あ、あなたよっぽどバレーボールに自信があるのね。}
+Dialogue: 0,0:09:56.20,0:09:57.53,Default,Katsuragi,0,0,0,,Why don't we test you?{NOTE:試してあげるわ。}
+Dialogue: 0,0:09:57.53,0:09:59.37,Default,Ayuhara,0,0,0,,Test me?{NOTE:え？試すんですか？}
+Dialogue: 0,0:09:59.37,0:10:01.16,Default,Katsuragi,0,0,0,,Yeah. It's going to be rough, though.{NOTE:調子荒っぽいテストに成るわよ。}
+Dialogue: 0,0:10:01.16,0:10:02.12,Default,Katsuragi,0,0,0,,Are you ready?{NOTE:良いわね。}
+Dialogue: 0,0:10:02.12,0:10:03.12,Default,(unison),0,0,0,,Yes!{NOTE:はい！}
+Dialogue: 0,0:10:08.42,0:10:09.88,Default,Hara,0,0,0,,– Hara-san!\N– Here!{NOTE:—ハラさん！\\N—それ！}
+Dialogue: 0,0:10:13.63,0:10:14.46,Default,Hara,0,0,0,,Whoa.{NOTE:お。}
+Dialogue: 0,0:10:14.46,0:10:16.55,Default,Katsuragi,0,0,0,,Keep going. Don't stop now.{NOTE:続けて。続けてXX打つのよ。}
+Dialogue: 0,0:10:39.53,0:10:40.87,Default,Katsuragi,0,0,0,,What a girl.{NOTE:何て人でしょう。}
+Dialogue: 0,0:10:40.87,0:10:41.91,Default,Katsuragi,0,0,0,,All right…{NOTE:よし。}
+Dialogue: 0,0:11:02.72,0:11:04.01,Default,Ayuhara,0,0,0,,That was low!{NOTE:卑怯だわ。}
+Dialogue: 0,0:11:20.20,0:11:21.20,Default,Ayuhara,0,0,0,,Attack!{NOTE:アタック！}
+Dialogue: 0,0:11:24.12,0:11:26.04,Default,Hara,0,0,0,,Hey, what are you doing to our captain?{NOTE:ま、キャプテンに何をするの？}
+Dialogue: 0,0:11:26.04,0:11:27.58,Default,Hara,0,0,0,,Captain was st—{NOTE:キャプテンは未だXX}
+Dialogue: 0,0:11:27.58,0:11:30.92,Default,Kashiwagi,0,0,0,,Hey! Right back at you, what were you doing to Ayuhara-san?{NOTE:ちょっと！あなたたちこそ鮎原さんに何をするつもりなのよ？}
+Dialogue: 0,0:11:30.92,0:11:33.46,Default,Hara,0,0,0,,What now? Your delinquent bunch isn't welcome here.{NOTE:何よ？不良グループが出る幕じゃないわ。}
+Dialogue: 0,0:11:33.46,0:11:35.13,Default,Kashiwagi,0,0,0,,Now you've said it.{NOTE:ま。不良ですって？}
+Dialogue: 0,0:11:35.13,0:11:36.09,Default,Hara,0,0,0,,Am I mistaken?{NOTE:違いまして？}
+Dialogue: 0,0:11:36.09,0:11:38.55,Default,Hara,0,0,0,,Aren't you the trash of Fujimi Academy?{NOTE:あんたたち富士見学園の屑じゃないの？}
+Dialogue: 0,0:11:38.55,0:11:40.01,Default,Nakazawa,0,0,0,,– What the hell?\N– You know I'm right!{NOTE:—ちょっと。\\N—そうね。}
+Dialogue: 0,0:11:40.01,0:11:41.09,Default,Kashiwagi,0,0,0,,Calm down, Naka.{NOTE:駄目よ、ナカ。}
+Dialogue: 0,0:11:41.09,0:11:42.80,Default,Kashiwagi,0,0,0,,His Majesty is watching.{NOTE:インゴ達は見ているわ。}
+Dialogue: 0,0:11:44.68,0:11:48.22,Default,Hara,0,0,0,,If you've got a problem, I'm listening.{NOTE:いかが？文句があるなら何時でもお相手するけど。}
+Dialogue: 0,0:11:48.22,0:11:50.77,Default,Hase,0,0,0,,But we're not delinquents. We won't fight with you.{NOTE:でも私達は不良じゃないから、喧嘩は嫌よ。}
+Dialogue: 0,0:11:50.77,0:11:53.40,Default,Katsuragi,0,0,0,,Of course we can always compete in sports, though.{NOTE:もちろん、スポーツなら何時でも受けて立つけど。}
+Dialogue: 0,0:12:02.99,0:12:03.99,Default,Ayuhara,0,0,0,,We'll do this.{NOTE:やるわ。}
+Dialogue: 0,0:12:05.07,0:12:06.87,Default,Hase,0,0,0,,Do… what?{NOTE:やるって、何を？}
+Dialogue: 0,0:12:06.87,0:12:09.08,Default,Ayuhara,0,0,0,,We'll win with you in a match.{NOTE:試合をしたあなたたちに勝って見せるわ。}
+Dialogue: 0,0:12:09.08,0:12:12.92,Default,Ayuhara,0,0,0,,We, the "delinquents", the "useless group"!{NOTE:私達、不良グループ、劣等生グループが。}
+Dialogue: 0,0:12:12.92,0:12:15.42,Default,Hara,0,0,0,,Hmph. Don't make me laugh.{NOTE:は、笑わせないで。}
+Dialogue: 0,0:12:15.42,0:12:17.88,Default,Hase,0,0,0,,Volleyball can't be played alone.{NOTE:バレーボールは一人じゃ出来ないのよ。}
+Dialogue: 0,0:12:17.88,0:12:20.80,Default,Ayuhara,0,0,0,,I know. We'll hold the match one month from now.{NOTE:分かってます。一ヶ月あれば出きるわ。}
+Dialogue: 0,0:12:20.80,0:12:23.80,Default,Katsuragi,0,0,0,,Interesting. Truly interesting.{NOTE:面白いわ。とても面白いプランだわ。}
+Dialogue: 0,0:12:23.80,0:12:24.84,Default,Katsuragi,0,0,0,,Wanna do this?{NOTE:ね、やってみる？}
+Dialogue: 0,0:12:24.84,0:12:25.84,Default,(unison),0,0,0,,Yeah!{NOTE:賛成。}
+Dialogue: 0,0:12:25.84,0:12:27.35,Default,Kashiwagi,0,0,0,,Chief, what's gotten into you?{NOTE:親分、何を言い出すのよ？}
+Dialogue: 0,0:12:27.35,0:12:30.22,Default,Ikezaki,0,0,0,,It's reckless. We don't even know the rules.{NOTE:めちゃくちゃだわ。私達はルールも知らないの。}
+Dialogue: 0,0:12:31.60,0:12:33.06,Alternative,Ayuhara,0,0,0,,We can do it. We can do it!{NOTE:やる。やるわ！}
+Dialogue: 0,0:12:39.02,0:12:40.36,Default,Katsuragi,0,0,0,,Keep it together.{NOTE:頑張ってよ。}
+Dialogue: 0,0:12:51.83,0:12:54.87,Default,Ayuhara,0,0,0,,{\fad(0,1000)}One-two! One-two!\NOne-two! One-two!{NOTE:一二。一二。一二。一二。}
+Dialogue: 0,0:13:06.51,0:13:08.55,Default,Ookii,0,0,0,,I can't take it anymore.{NOTE:あ、もう駄目よ。}
+Dialogue: 0,0:13:08.55,0:13:10.10,Default,Ayuhara,0,0,0,,This is nothing yet.{NOTE:何言ってるの、これぐらいで。}
+Dialogue: 0,0:13:10.10,0:13:11.43,Default,Ayuhara,0,0,0,,Come on, stand up.{NOTE:さ、立って。}
+Dialogue: 0,0:13:12.18,0:13:14.77,Default,(mixed),0,0,0,,– It hurts.\N– I've had enough too.{NOTE:—もう苦しい。\\N—もう駄目。}
+Dialogue: 0,0:13:14.77,0:13:17.31,Default,Ayuhara,0,0,0,,This won't get you anywhere. Come on, stand up.{NOTE:駄目駄目、こんな事じゃ。さ、立って。}
+Dialogue: 0,0:13:17.31,0:13:20.11,Default,Fukuda,0,0,0,,Hey, how about we run somewhere else without sand?{NOTE:こんな砂地がない所でやりましょうよ。}
+Dialogue: 0,0:13:20.11,0:13:23.99,Default,Ayuhara,0,0,0,,While it'd feel easier, running on sand is the best for training your legs.{NOTE:砂地だからいいのよ。足腰を鍛えるには砂地が一番なのよ。}
+Dialogue: 0,0:13:23.99,0:13:26.91,Default,Ayuhara,0,0,0,,Now, one more lapse to the lighthouse.{NOTE:さ、あの灯台までもうXXよ。}
+Dialogue: 0,0:13:26.91,0:13:28.32,Default,(mixed),0,0,0,,Eh!? That far…?{NOTE:え？あんな遠くまで？}
+Dialogue: 0,0:13:28.32,0:13:29.03,Default,(unison),0,0,0,,Shock…{NOTE:ショック。}
+Dialogue: 0,0:13:29.03,0:13:31.58,Default,Ayuhara,0,0,0,,Get it together. Our opponents are volleyball club's regulars.{NOTE:しっかりして。相手はバレー部のレギュラーよ。}
+Dialogue: 0,0:13:31.58,0:13:34.29,Default,Ayuhara,0,0,0,,If we admit defeat here, we'll never win.{NOTE:このぐらいで音を上げてたら勝ってこないでしょう。}
+Dialogue: 0,0:13:34.29,0:13:35.50,Default,Kashiwagi,0,0,0,,Yeah.{NOTE:そうよ。}
+Dialogue: 0,0:13:35.50,0:13:38.79,Default,Kashiwagi,0,0,0,,It's just as the chief says. Let's keep at it until we pass out.{NOTE:親分の言う通りだわ。遣るといったら、死ぬまでに遣るのよ。}
+Dialogue: 0,0:13:38.79,0:13:40.71,Default,Kashiwagi,0,0,0,,Well then, let's go!{NOTE:さ、頑張っていこう。}
+Dialogue: 0,0:13:40.71,0:13:42.50,Default,(mixed),0,0,0,,Ah… wait…{NOTE:え、待って。}
+Dialogue: 0,0:13:45.05,0:13:46.72,Default,Katsuragi,0,0,0,,It's no good.{NOTE:駄目駄目そんなことじゃ。}
+Dialogue: 0,0:13:47.55,0:13:48.55,Default,Katsuragi,0,0,0,,Let's go.{NOTE:さ、行こうよ。}
+Dialogue: 0,0:13:48.55,0:13:49.35,Default,Hara,0,0,0,,Okay.{NOTE:はい。}
+Dialogue: 0,0:13:57.56,0:13:58.56,Default,Katsuragi,0,0,0,,Keep at it.{NOTE:頑張って。}
+Dialogue: 0,0:13:58.56,0:13:59.81,Default,Katsuragi,0,0,0,,Come on.{NOTE:さ。}
+Dialogue: 0,0:14:05.24,0:14:06.20,Default,Teacher A,0,0,0,,I see.{NOTE:なるほど。}
+Dialogue: 0,0:14:06.20,0:14:09.91,Default,Teacher A,0,0,0,,By the way, volleyball club's practice seems to be more intense lately.{NOTE:そう言えば、バレー部の練習はいつもと違いますな。}
+Dialogue: 0,0:14:09.91,0:14:13.62,Default,Teacher B,0,0,0,,That's because they don't want to lose to the Kashiwagi-Nakazawa's group.{NOTE:意地でも、柏木や中沢のグループに負けたくないからでしょ。}
+Dialogue: 0,0:14:13.62,0:14:18.42,Default,Ingo,0,0,0,,But why is Ayuhara Kozue staying with these delinquents, I wonder.{NOTE:しかし、鮎原こずえも何であんな不良グループの形を持つんでしょうな？}
+Dialogue: 0,0:14:18.42,0:14:23.84,Default,(mixed),0,0,0,,{\fad(0,1000)}One-two! One-two!\NOne-two! One-two! {NOTE:よいっしょ。よいっしょ。}
+Dialogue: 0,0:14:28.18,0:14:31.80,Default,Ayuhara,0,0,0,,All right. From today we'll focus on handling the ball.{NOTE:さ。じゃいよいよ今日からボールの使ってるの練習よ。}
+Dialogue: 0,0:14:31.80,0:14:33.68,Default,Ayuhara,0,0,0,,There's only one rule to winning.{NOTE:敵に勝つ方法はただ一つ。}
+Dialogue: 0,0:14:33.68,0:14:36.23,Default,Ayuhara,0,0,0,,It's practice. Practice. Practice!{NOTE:練習、練習。練習よ！}
+Dialogue: 0,0:14:36.23,0:14:37.64,Default,(unison),0,0,0,,Yep.{NOTE:うん。}
+Dialogue: 0,0:14:37.64,0:14:39.35,Default,Ayuhara,0,0,0,,Okay then, here we go.{NOTE:さ、行くわよ。}
+Dialogue: 0,0:14:41.36,0:14:42.65,Default,Nakazawa,0,0,0,,Ah, ow-ow-ow.{NOTE:いててて。}
+Dialogue: 0,0:14:42.65,0:14:43.90,Default,Ayuhara,0,0,0,,That's no good.{NOTE:駄目駄目。}
+Dialogue: 0,0:14:43.90,0:14:44.73,Default,Ayuhara,0,0,0,,Listen.{NOTE:いい？}
+Dialogue: 0,0:14:44.73,0:14:48.53,Default,Ayuhara,0,0,0,,No matter the circumstances,\Nif you lift the ball, it's a foul play.{NOTE:バレーではどんな場合でも、パチッ何て(XX・応答)させたら反則に成るのよ。}
+Dialogue: 0,0:14:48.53,0:14:50.45,Default,Ayuhara,0,0,0,,Always play with your fingertips.{NOTE:パスは必ず指先で弾く。}
+Dialogue: 0,0:14:50.45,0:14:51.74,Default,Nakazawa,0,0,0,,Yep.{NOTE:うん。}
+Dialogue: 0,0:14:51.74,0:14:52.99,Default,Nakazawa,0,0,0,,Okay, Ofuku, let's pair up.{NOTE:じゃ、オフク。行くよ。}
+Dialogue: 0,0:14:52.99,0:14:53.95,Default,Fukuda,0,0,0,,Okay.{NOTE:はい。}
+Dialogue: 0,0:14:56.25,0:14:58.04,Default,(mixed),0,0,0,,– Debu, let's go!\N– Okay!{NOTE:—デブ、行くわよ。\\N—いいよ。}
+Dialogue: 0,0:15:03.34,0:15:04.17,Default,Ookii,0,0,0,,It hurts.{NOTE:痛い。}
+Dialogue: 0,0:15:08.76,0:15:11.47,Default,Ayuhara,0,0,0,,Today we'll focus on serving and receiving.{NOTE:さ、今度はサーブとサーブレシーブの練習よ。}
+Dialogue: 0,0:15:11.47,0:15:15.76,Default,Ayuhara,0,0,0,,In 6-player system, you only get one serve,\Nso aim to hit the ball into the opponents court.{NOTE:六人制ではサーブは一回しか打てないから、確実に相手のコートに出ること。}
+Dialogue: 0,0:15:15.76,0:15:16.81,Default,(mixed),0,0,0,,– Got it?\N– Yeah.{NOTE:—いいわね？\\N—うん。}
+Dialogue: 0,0:15:25.02,0:15:25.90,Default,Ayuhara,0,0,0,,Keep it up, keep it up!{NOTE:その調子、その調子。}
+Dialogue: 0,0:15:38.00,0:15:39.41,Default,Ayuhara,0,0,0,,Stand up, stand up!{NOTE:ほら、立って立って。}
+Dialogue: 0,0:15:42.42,0:15:43.08,Default,Ayuhara,0,0,0,,One more!{NOTE:もう一つ。}
+Dialogue: 0,0:15:45.46,0:15:47.38,Default,Katsuragi,0,0,0,,It doesn't look all that dangerous.{NOTE:この程度なら大した事ないわよ。}
+Dialogue: 0,0:15:48.42,0:15:49.88,Default,Kashiwagi,0,0,0,,Ah. It's the volleyball club.{NOTE:は、バレー部の連中よ。}
+Dialogue: 0,0:15:49.88,0:15:52.01,Default,Nakazawa,0,0,0,,They came to spy on us for sure.{NOTE:え？偵察に来たんだわ、きっと。}
+Dialogue: 0,0:15:53.72,0:15:55.72,Default,Ayuhara,0,0,0,,Don't pay attention to them.{NOTE:誰が見にいくのは気にしない、気にしない。}
+Dialogue: 0,0:15:55.72,0:15:57.18,Default,Ayuhara,0,0,0,,All right, let's begin.{NOTE:さ、皆始めて。}
+Dialogue: 0,0:16:01.48,0:16:02.85,Default,(mixed),0,0,0,,– Professor Hongou.\N– Hm?{NOTE:—本郷先生。\\N—は？}
+Dialogue: 0,0:16:02.85,0:16:05.86,Default,Nakajima,0,0,0,,They're really giving their best, don't you think?{NOTE:あの子達本当に一生懸命ですわ。}
+Dialogue: 0,0:16:05.86,0:16:09.23,Default,Hongou,0,0,0,,Yes. Ever since Ayuhara-kun started coaching volleyball…{NOTE:え。鮎原くんがバレーのコーチ始めてから…}
+Dialogue: 0,0:16:09.23,0:16:12.86,Default,Hongou,0,0,0,,…their diligence in the classroom and their grades have improved.{NOTE:…教室における彼女達の態度や成績は見違えるように良くなった。}
+Dialogue: 0,0:16:12.86,0:16:16.33,Default,Hongou,0,0,0,,Perhaps the volleyball will get those girls back on the right track.{NOTE:バレーが彼女達を精神的に立ち直らせたのかもしれないな。}
+Dialogue: 0,0:16:16.33,0:16:17.66,Default,Hongou,0,0,0,,I'm looking forward to it.{NOTE:楽しみだ。}
+Dialogue: 0,0:16:19.79,0:16:21.25,Default,Nakajima,0,0,0,,Professor.{NOTE:先生。}
+Dialogue: 0,0:16:21.25,0:16:26.08,Default,Nakajima,0,0,0,,As her homeroom teacher, I'm\htaking my hat off to Ayuhara-san.{NOTE:私は担任教師として、鮎原さんにお礼を言わなきゃなりませんわね。}
+Dialogue: 0,0:16:26.08,0:16:28.88,Default,Hongou,0,0,0,,Let's not engage yet and keep watching over her.{NOTE:な、もうすこし黙ってみてやりましょう。}
+Dialogue: 0,0:16:28.88,0:16:33.55,Default,Hongou,0,0,0,,They seem to be set on winning with the volleyball club.{NOTE:彼女達は今周りの目を気にしないで真剣にバレーに打ち込んでるんですから。}
+Dialogue: 0,0:16:33.55,0:16:35.26,Default,Hongou,0,0,0,,Right, professor Nakajima?{NOTE:ね、中島先生？}
+Dialogue: 0,0:16:42.14,0:16:43.39,Default,Kashiwagi,0,0,0,,Keep going.{NOTE:よいっしょ。}
+Dialogue: 0,0:16:43.39,0:16:44.31,Default,Ayuhara,0,0,0,,Yeah!{NOTE:ほら！k}
+Dialogue: 0,0:16:50.32,0:16:51.44,Default,Ayuhara,0,0,0,,We won't lose!{NOTE:負けるもんか？}
+Dialogue: 0,0:17:08.59,0:17:11.38,Alternative,Ayuhara,0,0,0,,Their spirit is what lets them learn so quickly.{NOTE:技術をカバー出来るのはこのファイトだ。}
+Dialogue: 0,0:17:11.38,0:17:12.71,Alternative,Ayuhara,0,0,0,,We'll win.{NOTE:絶対に勝つ。}
+Dialogue: 0,0:17:12.71,0:17:14.55,Alternative,Ayuhara,0,0,0,,We'll win for sure!{NOTE:絶対に勝って見せるわ。}
+Dialogue: 0,0:17:19.60,0:17:22.81,Sign,,0,0,0,,Teachers room{NOTE:教員室}
+Dialogue: 0,0:17:23.39,0:17:26.77,Default,Teacher C,0,0,0,,I am secretly looking forward to the today's match.{NOTE:私は密かに今日の試合を楽しみにしてたんですよ。}
+Dialogue: 0,0:17:26.77,0:17:29.44,Default,Teacher D,0,0,0,,Me too, actually.{NOTE:え。実は、私もそうなんですよ。}
+Dialogue: 0,0:17:29.44,0:17:33.19,Default,Teacher D,0,0,0,,Today we'll see how far can\Nthe bad-performing students go.{NOTE:あの劣等生グループはどこまでやれるかは、これを今日見るかいですから。}
+Dialogue: 0,0:17:34.36,0:17:36.15,Default,Teacher C,0,0,0,,The game is about to start.{NOTE:あ、そろそろ試合の時間ですが。}
+Dialogue: 0,0:17:36.15,0:17:37.82,Default,Teacher C,0,0,0,,Shall we go?{NOTE:行きますか。}
+Dialogue: 0,0:17:39.16,0:17:40.74,Default,Katsuragi,0,0,0,,All right, Ayuhara-san.{NOTE:さ、鮎原さん。}
+Dialogue: 0,0:17:40.74,0:17:42.45,Default,(mixed),0,0,0,,– Are you ready?\N– Yes, we are.{NOTE:—よいわ良い？\\N—ええ、いいわ。}
+Dialogue: 0,0:17:42.45,0:17:47.96,Default,Katsuragi,0,0,0,,Ayuhara-san, even if we didn't do this match,\Nthe result is obvious. Let's make it a one-set game.{NOTE:鮎原さん、この試合勝負は決まってるようなもんだから1セットマッチでいいわね。}
+Dialogue: 0,0:17:47.96,0:17:49.71,Default,Ayuhara,0,0,0,,The match hasn't even started.{NOTE:勝負何か決まってないわ。}
+Dialogue: 0,0:17:49.71,0:17:51.38,Default,Ayuhara,0,0,0,,But fine, if that's how you want to play.{NOTE:でも、そう言うならそれでもいいわよ。}
+Dialogue: 0,0:17:51.92,0:17:53.42,Default,Referee A,0,0,0,,Begin the match.{NOTE:試合開始。}
+Dialogue: 0,0:17:57.84,0:17:59.30,Default,(unknown),0,0,0,,Good luck, everyone!{NOTE:皆頑張ろうね。}
+Dialogue: 0,0:17:59.30,0:18:00.22,Default,(unknown),0,0,0,,Yeah!{NOTE:はい！}
 Dialogue: 0,0:18:06.44,0:18:07.64,Default,Katsuragi,0,0,0,,{NOTE:それ！}
 Dialogue: 0,0:18:07.64,0:18:08.77,Default,Kashiwagi,0,0,0,,{NOTE:ほら！は！}
-Dialogue: 0,0:18:09.73,0:18:10.90,Default,Referee B,0,0,0,,{NOTE:ごめんなさい！}
-Dialogue: 0,0:18:12.94,0:18:15.15,Default,Ayuhara,0,0,0,,{NOTE:ドンマイ、ドンマイ。さ、来るわよ！}
-Dialogue: 0,0:18:17.24,0:18:18.24,Default,Kashiwagi,0,0,0,,{NOTE:アタック！}
-Dialogue: 0,0:18:19.36,0:18:20.45,Default,Ayuhara,0,0,0,,{NOTE:さ、しっかりね。}
-Dialogue: 0,0:18:21.33,0:18:24.33,Alternative,Ayuhara,0,0,0,,{NOTE:困ったわ。便り柏木は怒ってしまったんじゃ…}
-Dialogue: 0,0:18:24.33,0:18:26.41,Default,Katsuragi,0,0,0,,{NOTE:さ、どんどんXXわよ！}
-Dialogue: 0,0:18:26.41,0:18:27.46,Default,(unknown),0,0,0,,{NOTE:サーバーキープ！}
-Dialogue: 0,0:18:27.46,0:18:28.50,Default,(unknown),0,0,0,,{NOTE:はぇ！}
-Dialogue: 0,0:18:37.22,0:18:38.97,Alternative,Katsuragi,0,0,0,,{NOTE:どう？鮎原親分。}
-Dialogue: 0,0:18:39.93,0:18:42.47,Default,Ayuhara,0,0,0,,{NOTE:いい皆？大丈夫よ。落ち着いて。}
-Dialogue: 0,0:18:44.51,0:18:45.43,Default,Ayuhara,0,0,0,,{NOTE:XXX！}
-Dialogue: 0,0:19:08.12,0:19:09.41,Default,Audience,0,0,0,,{NOTE:どうした、不良チーム？}
-Dialogue: 0,0:19:09.41,0:19:10.62,Default,Audience,0,0,0,,{NOTE:あらやってんでしょう？}
-Dialogue: 0,0:19:10.62,0:19:12.42,Default,Audience,0,0,0,,{NOTE:手も足も出ないじゃないか？}
-Dialogue: 0,0:19:12.42,0:19:14.00,Default,Audience,0,0,0,,{NOTE:どうしたどうした？}
-Dialogue: 0,0:19:14.00,0:19:16.00,Default,Audience,0,0,0,,{NOTE:やっぱり鮎原組は負けますかな？}
-Dialogue: 0,0:19:16.00,0:19:17.42,Default,Audience,0,0,0,,{NOTE:ま、そうでしょうな。}
-Dialogue: 0,0:19:18.17,0:19:19.80,Alternative,Ayuhara,0,0,0,,{NOTE:このままでは尽きられてしまう。}
-Dialogue: 0,0:19:19.80,0:19:21.13,Alternative,Ayuhara,0,0,0,,{NOTE:何だか挽回しなきゃ。}
+Dialogue: 0,0:18:09.73,0:18:10.90,Default,Referee B,0,0,0,,I'm sorry!{NOTE:ごめんなさい！}
+Dialogue: 0,0:18:12.94,0:18:15.15,Default,Ayuhara,0,0,0,,Don't mind, don't mind!\NHere they go!{NOTE:ドンマイ、ドンマイ。さ、来るわよ！}
+Dialogue: 0,0:18:17.24,0:18:18.24,Default,Kashiwagi,0,0,0,,Attack!{NOTE:アタック！}
+Dialogue: 0,0:18:19.36,0:18:20.45,Default,Ayuhara,0,0,0,,Keep it together.{NOTE:さ、しっかりね。}
+Dialogue: 0,0:18:21.33,0:18:24.33,Alternative,Ayuhara,0,0,0,,This is bad. Without Kashiwagi-san, we'll lose the match.{NOTE:困ったわ。便り柏木は怒ってしまったんじゃ…}
+Dialogue: 0,0:18:24.33,0:18:26.41,Default,Katsuragi,0,0,0,,Let's kick their butts!{NOTE:さ、どんどんXXわよ！}
+Dialogue: 0,0:18:26.41,0:18:27.46,Default,(unknown),0,0,0,,Keep the serve!{NOTE:サーバーキープ！}
+Dialogue: 0,0:18:27.46,0:18:28.50,Default,(unknown),0,0,0,,Catch!{NOTE:はぇ！}
+Dialogue: 0,0:18:37.22,0:18:38.97,Alternative,Katsuragi,0,0,0,,How is it, "chief" Ayuhara?{NOTE:どう？鮎原親分。}
+Dialogue: 0,0:18:39.93,0:18:42.47,Default,Ayuhara,0,0,0,,Listen, girls. It'll be fine. Calm down.{NOTE:いい皆？大丈夫よ。落ち着いて。}
+Dialogue: 0,0:18:44.51,0:18:45.43,Default,Ayuhara,0,0,0,,Left!{NOTE:XXX！}
+Dialogue: 0,0:19:08.12,0:19:09.41,Default,Audience,0,0,0,,What is it, useless team?{NOTE:どうした、不良チーム？}
+Dialogue: 0,0:19:09.41,0:19:10.62,Default,Audience,0,0,0,,You're here to play, right?{NOTE:バレーやってんでしょう？}
+Dialogue: 0,0:19:10.62,0:19:12.42,Default,Audience,0,0,0,,But you didn't show us anything yet.{NOTE:手も足も出ないじゃないか？}
+Dialogue: 0,0:19:12.42,0:19:14.00,Default,Audience,0,0,0,,What's wrong?{NOTE:どうしたどうした？}
+Dialogue: 0,0:19:14.00,0:19:16.00,Default,Audience,0,0,0,,I guess Ayuhara-kun hadn't any chances.{NOTE:やっぱり鮎原組は負けますかな？}
+Dialogue: 0,0:19:16.00,0:19:17.42,Default,Audience,0,0,0,,You can't blame her.{NOTE:ま、そうでしょうな。}
+Dialogue: 0,0:19:18.17,0:19:19.80,Alternative,Ayuhara,0,0,0,,We'll lose at this rate.{NOTE:このままでは尽きられてしまう。}
+Dialogue: 0,0:19:19.80,0:19:21.13,Alternative,Ayuhara,0,0,0,,We need a comeback.{NOTE:何だか挽回しなきゃ。}
 Dialogue: 0,0:19:26.89,0:19:27.81,Alternative,Ayuhara,0,0,0,,{NOTE:ほら！}
-Dialogue: 0,0:19:39.99,0:19:40.74,Default,Ayuhara,0,0,0,,{NOTE:タイム！}
-Dialogue: 0,0:19:41.86,0:19:43.66,Default,Ayuhara,0,0,0,,{NOTE:さ、皆集まって。速くしましょう。}
-Dialogue: 0,0:19:43.66,0:19:45.20,Default,Ayuhara,0,0,0,,{NOTE:ね、皆どうしちゃたの？}
-Dialogue: 0,0:19:45.20,0:19:47.66,Default,Ayuhara,0,0,0,,{NOTE:練習の一割も実力が出てないわよ。}
-Dialogue: 0,0:19:47.66,0:19:49.16,Default,Kashiwagi,0,0,0,,{NOTE:親分、面目ない。}
-Dialogue: 0,0:19:49.16,0:19:52.12,Default,Ayuhara,0,0,0,,{NOTE:皆、挙がってるだけじゃないの？固くなりすぎてるだけよ。}
-Dialogue: 0,0:19:52.12,0:19:54.54,Default,Ayuhara,0,0,0,,{NOTE:実力は全く合格よ。}
-Dialogue: 0,0:19:54.54,0:19:55.96,Default,Ayuhara,0,0,0,,{NOTE:後は気力が勝負よ。}
-Dialogue: 0,0:19:55.96,0:19:57.00,Default,Nakazawa,0,0,0,,{NOTE:え？気力？}
-Dialogue: 0,0:19:57.00,0:19:58.88,Default,Ayuhara,0,0,0,,{NOTE:いい？作戦があるわ、ちょっと耳貸して。}
-Dialogue: 0,0:19:59.97,0:20:01.97,Default,Audience,0,0,0,,{NOTE:速くやれよ。何してんだよ？}
-Dialogue: 0,0:20:14.56,0:20:15.40,Default,Kashiwagi,0,0,0,,{NOTE:行くわよ！}
+Dialogue: 0,0:19:39.99,0:19:40.74,Default,Ayuhara,0,0,0,,Time!{NOTE:タイム！}
+Dialogue: 0,0:19:41.86,0:19:43.66,Default,Ayuhara,0,0,0,,Girls, listen closely.{NOTE:さ、皆集まって。速くしましょう。}
+Dialogue: 0,0:19:43.66,0:19:45.20,Default,Ayuhara,0,0,0,,What's wrong?{NOTE:ね、皆どうしちゃたの？}
+Dialogue: 0,0:19:45.20,0:19:47.66,Default,Ayuhara,0,0,0,,This isn't even 10% of the energy you showed at practice.{NOTE:練習の一割も実力が出てないわよ。}
+Dialogue: 0,0:19:47.66,0:19:49.16,Default,Kashiwagi,0,0,0,,Chief, this is unfamiliar.{NOTE:親分、面目ない。}
+Dialogue: 0,0:19:49.16,0:19:52.12,Default,Ayuhara,0,0,0,,Isn't it all in your heads?\NWe haven't even started the struggle.{NOTE:皆、挙がってるだけじゃないの？固くなりすぎてるだけよ。}
+Dialogue: 0,0:19:52.12,0:19:54.54,Default,Ayuhara,0,0,0,,Your strength is plenty enough.{NOTE:実力は全く合格よ。}
+Dialogue: 0,0:19:54.54,0:19:55.96,Default,Ayuhara,0,0,0,,What's left is the willpower.{NOTE:後は気力が勝負よ。}
+Dialogue: 0,0:19:55.96,0:19:57.00,Default,Nakazawa,0,0,0,,The willpower?{NOTE:え？気力？}
+Dialogue: 0,0:19:57.00,0:19:58.88,Default,Ayuhara,0,0,0,,I have a strategy. Come closer.{NOTE:いい？作戦があるわ、ちょっと耳貸して。}
+Dialogue: 0,0:19:59.97,0:20:01.97,Default,Audience,0,0,0,,Hurry up, what are we waiting for?{NOTE:速くやれよ。何してんだよ？}
+Dialogue: 0,0:20:14.56,0:20:15.40,Default,Kashiwagi,0,0,0,,Let's go!{NOTE:行くわよ！}
 Dialogue: 0,0:20:21.28,0:20:22.36,Default,Ayuhara,0,0,0,,{NOTE:それ！}
 Dialogue: 0,0:20:22.36,0:20:24.07,Default,(unison),0,0,0,,{NOTE:おう！}
-Dialogue: 0,0:20:26.58,0:20:30.33,Default,Katsuragi,0,0,0,,{NOTE:何よ！あんなのに驚かされたらバレー部の恥よ。}
-Dialogue: 0,0:20:30.33,0:20:31.71,Default,Referee A,0,0,0,,{NOTE:では、試合XX。}
-Dialogue: 0,0:20:32.50,0:20:33.83,Default,Ayuhara,0,0,0,,{NOTE:縛っていこうね。}
-Dialogue: 0,0:20:33.83,0:20:34.92,Default,(unknown),0,0,0,,{NOTE:オケ！}
-Dialogue: 0,0:20:37.38,0:20:38.67,Default,Ayuhara,0,0,0,,{NOTE:ライト！}
-Dialogue: 0,0:20:43.68,0:20:44.68,Default,Ayuhara,0,0,0,,{NOTE:アタック！}
-Dialogue: 0,0:20:45.76,0:20:47.10,Default,Audience,0,0,0,,{NOTE:格好いい！}
-Dialogue: 0,0:20:47.51,0:20:48.68,Default,Ichinose,0,0,0,,{NOTE:その調子だ！}
-Dialogue: 0,0:20:48.68,0:20:50.02,Default,Ichinose,0,0,0,,{NOTE:もう一ついこうぜ！}
-Dialogue: 0,0:20:58.77,0:21:00.23,Default,Katsuragi,0,0,0,,{NOTE:頑張って！}
-Dialogue: 0,0:21:05.16,0:21:06.82,Default,(mixed),0,0,0,,{NOTE:ジャンプもXX！}
-Dialogue: 0,0:21:10.79,0:21:12.04,Default,Ayuhara,0,0,0,,{NOTE:柏木さんよ！}
-Dialogue: 0,0:21:12.04,0:21:13.83,Default,Kashiwagi,0,0,0,,{NOTE:任しておいて！}
-Dialogue: 0,0:21:18.59,0:21:19.25,Default,Nakazawa,0,0,0,,{NOTE:来るよ！}
+Dialogue: 0,0:20:26.58,0:20:30.33,Default,Katsuragi,0,0,0,,What are you doing? It's shameful for our club to be scared with this.{NOTE:何よ！あんなのに驚かされたらバレー部の恥よ。}
+Dialogue: 0,0:20:30.33,0:20:31.71,Default,Referee A,0,0,0,,Resume the match.{NOTE:では、試合XX。}
+Dialogue: 0,0:20:32.50,0:20:33.83,Default,Ayuhara,0,0,0,,Let's stop them.{NOTE:縛っていこうね。}
+Dialogue: 0,0:20:33.83,0:20:34.92,Default,(unknown),0,0,0,,Okay!{NOTE:オケ！}
+Dialogue: 0,0:20:37.38,0:20:38.67,Default,Ayuhara,0,0,0,,Right!{NOTE:ライト！}
+Dialogue: 0,0:20:43.68,0:20:44.68,Default,Ayuhara,0,0,0,,Attack!{NOTE:アタック！}
+Dialogue: 0,0:20:45.76,0:20:47.10,Default,Audience,0,0,0,,Pretty cool!{NOTE:格好いい！}
+Dialogue: 0,0:20:47.51,0:20:48.68,Default,Ichinose,0,0,0,,Keep it up!{NOTE:その調子だ！}
+Dialogue: 0,0:20:48.68,0:20:50.02,Default,Ichinose,0,0,0,,One more!{NOTE:もう一ついこうぜ！}
+Dialogue: 0,0:20:58.77,0:21:00.23,Default,Katsuragi,0,0,0,,You can do it!{NOTE:頑張って！}
+Dialogue: 0,0:21:05.16,0:21:06.82,Default,(mixed),0,0,0,,Captain, watch out!{NOTE:キャプテンも一度！}
+Dialogue: 0,0:21:10.79,0:21:12.25,Default,Ayuhara,0,0,0,,Kashiwagi-san!{NOTE:柏木さんよ！}
+Dialogue: 0,0:21:12.25,0:21:13.83,Default,Kashiwagi,0,0,0,,Leave it to me!{NOTE:任しておいて！}
+Dialogue: 0,0:21:18.59,0:21:19.25,Default,Nakazawa,0,0,0,,Here I go!{NOTE:来るよ！}
 Dialogue: 0,0:21:20.00,0:21:21.05,Default,Nakazawa,0,0,0,,{NOTE:それ！}
-Dialogue: 0,0:21:28.89,0:21:30.85,Default,Audience,0,0,0,,{NOTE:いいぞいいぞ！}
-Dialogue: 0,0:21:46.66,0:21:47.82,Default,Ichinose,0,0,0,,{NOTE:頑張れ!}
-Dialogue: 0,0:22:04.63,0:22:05.47,Default,Referee B,0,0,0,,{NOTE:アウト！}
-Dialogue: 0,0:22:10.55,0:22:11.64,Default,(unknown),0,0,0,,{NOTE:フクよ！}
-Dialogue: 0,0:22:23.53,0:22:26.49,Default,Audience,0,0,0,,{NOTE:いいぞいいぞ！不良チーム頑張れ！}
-Dialogue: 0,0:22:26.49,0:22:28.49,Default,Audience,0,0,0,,{NOTE:ん、中々やりだすな。}
-Dialogue: 0,0:22:36.00,0:22:37.04,Default,Katsuragi,0,0,0,,{NOTE:残念。}
-Dialogue: 0,0:22:37.04,0:22:39.00,Default,Ayuhara,0,0,0,,{NOTE:さ、皆、後一息よ。}
-Dialogue: 0,0:22:41.38,0:22:42.25,Default,(unknown),0,0,0,,{NOTE:もらった！}
-Dialogue: 0,0:22:42.25,0:22:43.30,Default,Ayuhara,0,0,0,,{NOTE:しまった！}
-Dialogue: 0,0:22:46.01,0:22:47.13,Default,Katsuragi,0,0,0,,{NOTE:ハラさん！}
+Dialogue: 0,0:21:28.89,0:21:30.85,Default,Audience,0,0,0,,Good, good!{NOTE:いいぞいいぞ！}
+Dialogue: 0,0:21:46.66,0:21:47.82,Default,Ichinose,0,0,0,,Do your best!{NOTE:頑張れ!}
+Dialogue: 0,0:22:04.63,0:22:05.47,Default,Referee B,0,0,0,,Out!{NOTE:アウト！}
+Dialogue: 0,0:22:10.55,0:22:11.64,Default,(unknown),0,0,0,,Ofuku!{NOTE:フクよ！}
+Dialogue: 0,0:22:23.53,0:22:26.49,Default,Audience,0,0,0,,Nice, nice, useless team! Keep it up!{NOTE:いいぞいいぞ！不良チーム頑張れ！}
+Dialogue: 0,0:22:26.49,0:22:28.49,Default,Audience,0,0,0,,Hmm, they seem to go at it.{NOTE:ん、中々やりだすな。}
+Dialogue: 0,0:22:36.00,0:22:37.04,Default,Katsuragi,0,0,0,,It's frustrating.{NOTE:残念。}
+Dialogue: 0,0:22:37.04,0:22:39.00,Default,Ayuhara,0,0,0,,All right, one last push.{NOTE:さ、皆、後一息よ。}
+Dialogue: 0,0:22:41.38,0:22:42.25,Default,(unknown),0,0,0,,You're mine!{NOTE:もらった！}
+Dialogue: 0,0:22:42.25,0:22:43.30,Default,Ayuhara,0,0,0,,Damn!{NOTE:しまった！}
+Dialogue: 0,0:22:46.01,0:22:47.13,Default,Katsuragi,0,0,0,,Hara-san!{NOTE:ハラさん！}
 Dialogue: 0,0:22:47.13,0:22:47.84,Default,Hara,0,0,0,,{NOTE:はい！}
-Dialogue: 0,0:22:48.80,0:22:49.93,Default,Katsuragi,0,0,0,,{NOTE:あ、しまった！}
-Dialogue: 0,0:22:49.93,0:22:51.39,Default,Ayuhara,0,0,0,,{NOTE:ほら、ジャンプやトスして！}
-Dialogue: 0,0:22:56.47,0:22:57.60,Default,Ayuhara,0,0,0,,{NOTE:アタック！}
-Dialogue: 0,0:23:08.19,0:23:10.74,Default,Referee A,0,0,0,,{NOTE:試合終了。鮎原チームの勝ち。}
-Dialogue: 0,0:23:11.16,0:23:12.87,Default,Audience,0,0,0,,{NOTE:—いいぞいいぞ！\\N—あああ！}
-Dialogue: 0,0:23:13.83,0:23:15.54,Default,Audience,0,0,0,,{NOTE:いいぞ！}
-Dialogue: 0,0:23:19.54,0:23:21.12,Default,Ayuhara,0,0,0,,{NOTE:勝ったわ。}
-Dialogue: 0,0:23:21.12,0:23:22.33,Default,Nakazawa,0,0,0,,{NOTE:嬉しいわ。}
-Dialogue: 0,0:23:22.33,0:23:23.67,Default,Ookii,0,0,0,,{NOTE:勝ったんだわ。}
-Dialogue: 0,0:23:26.80,0:23:29.05,Alternative,Ichinose,0,0,0,,{NOTE:皆、よくやったぞ。}
-Dialogue: 0,0:23:29.05,0:23:30.05,Default,Audience,0,0,0,,{NOTE:すごいわ。}
-Dialogue: 0,0:23:30.05,0:23:32.30,Default,Audience,0,0,0,,{NOTE:本当すごいわ。}
-Dialogue: 0,0:23:32.30,0:23:33.68,Default,Kashiwagi,0,0,0,,{NOTE:あ、親分。}
-Dialogue: 0,0:23:33.68,0:23:34.97,Default,Kashiwagi,0,0,0,,{NOTE:鮎原さん、ありがとう。}
-Dialogue: 0,0:23:34.97,0:23:37.81,Default,Kashiwagi,0,0,0,,{NOTE:私こんな気持ちXX始めてよ。}
-Dialogue: 0,0:23:37.81,0:23:39.39,Default,Nakazawa,0,0,0,,{NOTE:私もよ。}
-Dialogue: 0,0:23:39.39,0:23:41.94,Default,Ookii,0,0,0,,{NOTE:XXXだけだって、私が…}
-Dialogue: 0,0:23:41.94,0:23:43.65,Alternative,Ayuhara,0,0,0,,{NOTE:皆頑張ったんだもん。}
-Dialogue: 0,0:23:43.65,0:23:44.94,Alternative,Ayuhara,0,0,0,,{NOTE:よかったわ。}
-Dialogue: 0,0:23:46.02,0:23:47.11,Default,Katsuragi,0,0,0,,{NOTE:—鮎原さん。\\N—え？}
-Dialogue: 0,0:23:49.82,0:23:51.24,Default,Nakazawa,0,0,0,,{NOTE:あら？}
-Dialogue: 0,0:23:52.45,0:23:53.45,Default,Ayuhara,0,0,0,,{NOTE:これは？}
-Dialogue: 0,0:23:53.45,0:23:56.03,Default,Katsuragi,0,0,0,,{NOTE:私達負けたわ。乾杯よ。}
-Dialogue: 0,0:23:56.03,0:23:59.79,Default,Katsuragi,0,0,0,,{NOTE:あなたたち劣等生何かじゃないわ。立派だったわ。}
-Dialogue: 0,0:23:59.79,0:24:03.12,Default,Katsuragi,0,0,0,,{NOTE:今まで馬鹿にしてきたりして、あたしたち恥ずかしいわ。}
-Dialogue: 0,0:24:03.12,0:24:04.21,Default,Katsuragi,0,0,0,,{NOTE:ごめんなさい。}
-Dialogue: 0,0:24:04.21,0:24:05.38,Default,Ayuhara,0,0,0,,{NOTE:ま。}
-Dialogue: 0,0:24:06.42,0:24:08.96,Default,Katsuragi,0,0,0,,{NOTE:そして、これからお願いなんだけど。}
-Dialogue: 0,0:24:08.96,0:24:12.30,Default,Katsuragi,0,0,0,,{NOTE:あなたたち今日からバレー部に入った欲しいの。}
-Dialogue: 0,0:24:12.30,0:24:13.01,Default,Kashiwagi,0,0,0,,{NOTE:え？}
-Dialogue: 0,0:24:13.01,0:24:15.22,Default,Hase,0,0,0,,{NOTE:今のバレー部は殆ど三年生でしょう？}
-Dialogue: 0,0:24:15.22,0:24:18.93,Default,Hase,0,0,0,,{NOTE:だからあなたたち二年生が入ってくれれば、力強いのよ。}
-Dialogue: 0,0:24:18.93,0:24:24.35,Default,(unknown),0,0,0,,{NOTE:そう。三年生に成ると受験や就職や色々あって練習や試合に出られないのよ。}
-Dialogue: 0,0:24:25.90,0:24:27.40,Default,Kashiwagi,0,0,0,,{NOTE:ね、鮎原さん、どうしよ？}
-Dialogue: 0,0:24:29.36,0:24:30.28,Default,Ayuhara,0,0,0,,{NOTE:いいじゃない？}
-Dialogue: 0,0:24:30.28,0:24:32.45,Default,Ayuhara,0,0,0,,{NOTE:カッコ達一緒にバレー部に入りましょうよ。}
-Dialogue: 0,0:24:32.45,0:24:34.53,Default,Ayuhara,0,0,0,,{NOTE:で、おもうぞXできるわよ。}
-Dialogue: 0,0:24:34.53,0:24:36.07,Default,Ikezaki,0,0,0,,{NOTE:そう。私はやるわ。}
-Dialogue: 0,0:24:36.07,0:24:37.24,Default,Nakazawa,0,0,0,,{NOTE:やる、やる。}
-Dialogue: 0,0:24:37.24,0:24:38.95,Default,Nakazawa,0,0,0,,{NOTE:私もやるわ。}
-Dialogue: 0,0:24:38.95,0:24:40.54,Default,Fukuda,0,0,0,,{NOTE:やる、やる。}
-Dialogue: 0,0:24:40.54,0:24:43.12,Default,Ookii,0,0,0,,{NOTE:でも、お腹がすくわよきっと。}
-Dialogue: 0,0:24:43.12,0:24:44.71,Default,Kashiwagi,0,0,0,,{NOTE:はっきりしなさいよ。}
-Dialogue: 0,0:24:44.71,0:24:45.88,Default,Kashiwagi,0,0,0,,{NOTE:やるのやらないの？}
-Dialogue: 0,0:24:45.88,0:24:48.21,Default,Ookii,0,0,0,,{NOTE:あ、やるわよ。やりますよ。}
-Dialogue: 0,0:24:48.21,0:24:50.38,Default,Ookii,0,0,0,,{NOTE:きっとスタイルがよく成られるね。}
-Dialogue: 0,0:24:54.38,0:24:58.01,Default,Katsuragi,0,0,0,,{NOTE:そして、鮎原さんにはキャプテンをやってもらいたいの。}
-Dialogue: 0,0:24:58.01,0:24:59.97,Default,Ayuhara,0,0,0,,{NOTE:え？私がキャプテン？}
-Dialogue: 0,0:24:59.97,0:25:02.60,Default,Katsuragi,0,0,0,,{NOTE:ね、誰か反対の人がいる？}
-Dialogue: 0,0:25:02.60,0:25:04.52,Default,(unison),0,0,0,,{NOTE:賛成！}
-Dialogue: 0,0:25:06.98,0:25:09.19,Default,Katsuragi,0,0,0,,{NOTE:え。これで決まったわね。}
-Dialogue: 0,0:25:09.77,0:25:11.03,Default,Katsuragi,0,0,0,,{NOTE:鮎原さん。}
-Dialogue: 0,0:25:11.03,0:25:17.57,Default,Katsuragi,0,0,0,,{NOTE:昔からね、バレー部の伝統でキャプテンはその赤いグランドコートを着る事に成ってるのよ。}
-Dialogue: 0,0:25:17.57,0:25:19.20,Default,Katsuragi,0,0,0,,{NOTE:さ、着てみてちょうだい。}
-Dialogue: 0,0:25:24.46,0:25:26.17,Default,Katsuragi,0,0,0,,{NOTE:あ、よく似合うわ。}
-Dialogue: 0,0:25:30.88,0:25:32.01,Default,Katsuragi,0,0,0,,{NOTE:新キャプテン。}
-Dialogue: 0,0:25:32.96,0:25:34.17,Default,Kashiwagi,0,0,0,,{NOTE:格好いい！}
-Dialogue: 0,0:25:36.26,0:25:38.22,Default,Ayuhara,0,0,0,,{NOTE:ありがとう。皆協力してね。}
-Dialogue: 0,0:25:39.55,0:25:40.51,Default,Katsuragi,0,0,0,,{NOTE:新キャプテン。}
-Dialogue: 0,0:25:41.47,0:25:43.48,Default,(mixed),0,0,0,,{NOTE:—桂城さん。\\N—鮎原さん。}
-Dialogue: 0,0:25:59.78,0:26:01.87,Alternative,Ayuhara,0,0,0,,{NOTE:何て素晴らしいんだろう。}
-Dialogue: 0,0:26:01.87,0:26:04.95,Alternative,Ayuhara,0,0,0,,{NOTE:皆と一緒にバレーボールが出来るなんて。}
-Dialogue: 0,0:26:04.95,0:26:06.54,Alternative,Ayuhara,0,0,0,,{NOTE:皆素敵な友達。}
-Dialogue: 0,0:26:07.87,0:26:13.00,Alternative,Ayuhara,0,0,0,,{NOTE:あの夜空に光る星のようにキラキラした目的に向かって皆と一緒に。}
-Dialogue: 0,0:26:17.43,0:26:19.80,Sign,,0,0,0,,{NOTE:バレー部室}
-Dialogue: 0,0:26:21.05,0:26:22.97,Default,Katsuragi,0,0,0,,{NOTE:あら？もう集まってるのね。}
-Dialogue: 0,0:26:22.97,0:26:25.43,Default,Katsuragi,0,0,0,,{NOTE:鮎原さん、バレー部に手紙来てたわよ。}
-Dialogue: 0,0:26:25.43,0:26:26.18,Default,Katsuragi,0,0,0,,{NOTE:はい。}
-Dialogue: 0,0:26:26.18,0:26:28.77,Default,Ayuhara,0,0,0,,{NOTE:あら、桂城さんはなぜ開けないにょ？}
-Dialogue: 0,0:26:28.77,0:26:31.73,Default,Katsuragi,0,0,0,,{NOTE:バレー部XXの手紙はキャプテンが開けるものよ。}
-Dialogue: 0,0:26:31.73,0:26:32.52,Default,Ayuhara,0,0,0,,{NOTE:ま。}
-Dialogue: 0,0:26:34.69,0:26:35.86,Default,Ikezaki,0,0,0,,{NOTE:何かしら？}
-Dialogue: 0,0:26:40.32,0:26:41.41,Default,Ayuhara,0,0,0,,{NOTE:皆聞いて。}
-Dialogue: 0,0:26:43.54,0:26:45.54,Default,Ayuhara,0,0,0,,{NOTE:東海地区、中学バレー選手権大会の要項XXよ。}
-Dialogue: 0,0:26:45.54,0:26:49.00,Default,Ayuhara,0,0,0,,{NOTE:これが私達新部員の最初の公式試合に成るはずよ。}
-Dialogue: 0,0:26:50.42,0:26:53.55,Default,Kashiwagi,0,0,0,,{NOTE:よし。さ、皆。はりきっていこうね。}
-Dialogue: 0,0:26:53.55,0:26:55.63,Default,Nakazawa,0,0,0,,{NOTE:練習、練習っと！}
-Dialogue: 0,0:26:55.63,0:26:58.63,Default,Ikezaki,0,0,0,,{NOTE:いざコートへ行かん、練習始め。}
-Dialogue: 0,0:26:58.63,0:27:00.05,Default,(unison),0,0,0,,{NOTE:おう！}
-Dialogue: 0,0:27:03.39,0:27:04.68,Default,Ayuhara,0,0,0,,{NOTE:お？}
-Dialogue: 0,0:27:04.68,0:27:06.10,Default,Ayuhara,0,0,0,,{NOTE:何してるのかしら？}
-Dialogue: 0,0:27:06.10,0:27:07.77,Default,Katsuragi,0,0,0,,{NOTE:可笑しいわね。行こう。}
-Dialogue: 0,0:27:38.01,0:27:39.63,Default,Ayuhara,0,0,0,,{NOTE:正確なスパイク。}
-Dialogue: 0,0:27:39.63,0:27:41.72,Default,Ayuhara,0,0,0,,{NOTE:まるで精密機械のようだわ。}
-Dialogue: 0,0:27:49.10,0:27:52.19,Default,Hayakawa,0,0,0,,{NOTE:あなたが新しいキャプテンの鮎原こずえさんね。}
-Dialogue: 0,0:27:52.19,0:27:54.69,Default,Kashiwagi,0,0,0,,{NOTE:—みどり！みどりじゃないの！\\N—カッコ！}
-Dialogue: 0,0:27:54.69,0:27:55.86,Default,Hayakawa,0,0,0,,{NOTE:今日転校してきたの。}
-Dialogue: 0,0:27:55.86,0:27:58.69,Default,Hayakawa,0,0,0,,{NOTE:パパの会社が富士見市にXXことに成ったの。}
-Dialogue: 0,0:27:58.69,0:28:00.07,Default,Kashiwagi,0,0,0,,{NOTE:わ、懐かしいわ。}
-Dialogue: 0,0:28:00.07,0:28:01.91,Default,Kashiwagi,0,0,0,,{NOTE:ね、何年ぶりかしら？}
-Dialogue: 0,0:28:01.91,0:28:05.74,Default,Kashiwagi,0,0,0,,{NOTE:早川みどりさんってね、小学で私達が同じクラスにいったのよ。}
-Dialogue: 0,0:28:05.74,0:28:09.16,Default,Kashiwagi,0,0,0,,{NOTE:五年生の時だったかな。京都へ引っ越しちゃったのよ。}
-Dialogue: 0,0:28:09.16,0:28:12.46,Default,Hayakawa,0,0,0,,{NOTE:でも、カッコやナカがバレー部に入ってると思わなかったわ。}
-Dialogue: 0,0:28:12.46,0:28:14.96,Default,Kashiwagi,0,0,0,,{NOTE:私は始めてばかりだの。未だ駄目よ。}
-Dialogue: 0,0:28:14.96,0:28:17.59,Default,Kashiwagi,0,0,0,,{NOTE:それより、みどり、すごいじゃないの？今見てたわよ。}
-Dialogue: 0,0:28:17.59,0:28:20.88,Default,Nakazawa,0,0,0,,{NOTE:本当。あんなすごい一人バレー見たのは私始めてよ。}
-Dialogue: 0,0:28:20.88,0:28:23.09,Default,Hayakawa,0,0,0,,{NOTE:京都へ行ってから、ずっとバレーやってたの。}
-Dialogue: 0,0:28:23.09,0:28:23.89,Default,Hayakawa,0,0,0,,{NOTE:でもk}
-Dialogue: 0,0:28:24.68,0:28:26.76,Default,Hayakawa,0,0,0,,{NOTE:あの程度なら鮎原さんだって出来るわね。}
-Dialogue: 0,0:28:26.76,0:28:28.43,Default,Ayuhara,0,0,0,,{NOTE:さ、やってみなければ。}
-Dialogue: 0,0:28:28.43,0:28:29.89,Default,Hayakawa,0,0,0,,{NOTE:出来ないはずないわよ。}
-Dialogue: 0,0:28:29.89,0:28:31.89,Default,Hayakawa,0,0,0,,{NOTE:だって鮎原さんはキャプテンでしょう？}
-Dialogue: 0,0:28:31.89,0:28:32.85,Default,Ayuhara,0,0,0,,{NOTE:え？}
-Dialogue: 0,0:28:32.85,0:28:34.69,Default,Hayakawa,0,0,0,,{NOTE:今日からバレー部に入れていただくわ。}
-Dialogue: 0,0:28:41.24,0:28:42.86,Default,Ichinose,0,0,0,,{NOTE:おいキャプテン！}
-Dialogue: 0,0:28:44.28,0:28:45.95,Default,Ichinose,0,0,0,,{NOTE:バレー部の新キャプテン！}
-Dialogue: 0,0:28:46.66,0:28:47.95,Default,Ayuhara,0,0,0,,{NOTE:あ、努さん。}
-Dialogue: 0,0:28:54.00,0:28:55.25,Default,Ichinose,0,0,0,,{NOTE:どうかしたのか？}
-Dialogue: 0,0:28:55.25,0:28:57.29,Default,Ichinose,0,0,0,,{NOTE:何だかぼんやりしてるようだけど。}
-Dialogue: 0,0:28:57.67,0:28:59.25,Default,Ayuhara,0,0,0,,{NOTE:ん、別に。}
-Dialogue: 0,0:28:59.25,0:29:01.01,Default,Ichinose,0,0,0,,{NOTE:練習で疲れたのか？}
-Dialogue: 0,0:29:01.01,0:29:04.63,Default,Ichinose,0,0,0,,{NOTE:あ、選手権大会のスケジュールはもう決まったんだろう？}
-Dialogue: 0,0:29:04.63,0:29:07.30,Default,Ichinose,0,0,0,,{NOTE:新キャプテンが今からそれじゃ困るじゃないか。}
-Dialogue: 0,0:29:07.30,0:29:10.01,Default,Ichinose,0,0,0,,{NOTE:優勝を目指して、絶対に頑張ってもらわなくっちゃ。}
-Dialogue: 0,0:29:12.31,0:29:13.89,Default,Ayuhara,0,0,0,,{NOTE:—ね、努さん。\\N—ん？}
-Dialogue: 0,0:29:13.89,0:29:14.94,Default,Ichinose,0,0,0,,{NOTE:何だ？}
-Dialogue: 0,0:29:14.94,0:29:16.85,Default,Hayakawa,0,0,0,,{NOTE:—努さん！\\N—お？}
-Dialogue: 0,0:29:19.52,0:29:20.57,Default,Ichinose,0,0,0,,{NOTE:あ、みどりさんだ。}
-Dialogue: 0,0:29:24.86,0:29:26.36,Default,Ichinose,0,0,0,,{NOTE:あの、紹介しよう。}
-Dialogue: 0,0:29:26.36,0:29:27.91,Default,Hayakawa,0,0,0,,{NOTE:あら、鮎原さん。}
-Dialogue: 0,0:29:27.91,0:29:30.12,Default,Ichinose,0,0,0,,{NOTE:何だ？君達も知ってたのか？}
-Dialogue: 0,0:29:30.12,0:29:32.41,Default,Hayakawa,0,0,0,,{NOTE:え。私今日はバレー部に入ったの。}
-Dialogue: 0,0:29:32.41,0:29:35.46,Default,Hayakawa,0,0,0,,{NOTE:キャプテンの相原さんにはも挨拶したわ。}
-Dialogue: 0,0:29:35.46,0:29:36.62,Default,Ichinose,0,0,0,,{NOTE:そうだったのか？}
-Dialogue: 0,0:29:38.13,0:29:42.30,Default,Hayakawa,0,0,0,,{NOTE:努さん鮎原さんと同じクラスでもないのに、何かいいみたいね。}
-Dialogue: 0,0:29:42.30,0:29:44.84,Default,Ichinose,0,0,0,,{NOTE:うん。実は、僕達親戚なんだ。}
-Dialogue: 0,0:29:44.84,0:29:49.72,Default,Ichinose,0,0,0,,{NOTE:つまり、僕のお母さんの妹の結婚した相手がこずえさんのお父さんの弟。}
-Dialogue: 0,0:29:51.51,0:29:52.81,Default,Ichinose,0,0,0,,{NOTE:つまり、おじさんなんだ。}
-Dialogue: 0,0:29:52.81,0:29:56.27,Default,Ichinose,0,0,0,,{NOTE:分かる？ちょっとややこしいけど間違いなく親戚なんだ。}
-Dialogue: 0,0:29:57.48,0:29:58.94,Default,Hayakawa,0,0,0,,{NOTE:あら、そうなの？}
-Dialogue: 0,0:29:58.94,0:30:03.44,Default,Hayakawa,0,0,0,,{NOTE:ね鮎原さん、私と努さんとは幼稚園からずっと一緒だったの。}
-Dialogue: 0,0:30:03.44,0:30:07.28,Default,Hayakawa,0,0,0,,{NOTE:小学校で評判の仲良しだったのよ。}
-Dialogue: 0,0:30:07.66,0:30:08.49,Sign,,0,0,0,,{NOTE:教員室}
-Dialogue: 0,0:30:09.41,0:30:11.53,Default,Hayakawa,0,0,0,,{NOTE:どうもありがとうございました。}
-Dialogue: 0,0:30:11.53,0:30:13.04,Default,Teacher A,0,0,0,,{NOTE:いや、私もね。}
-Dialogue: 0,0:30:13.04,0:30:16.54,Default,Teacher A,0,0,0,,{NOTE:運動部にはもっと力を入れるべきだと考えていたんだよ。}
-Dialogue: 0,0:30:17.21,0:30:20.08,Default,Ingo,0,0,0,,{NOTE:学校は飽くまで学力第一です。}
-Dialogue: 0,0:30:20.08,0:30:23.67,Default,Ingo,0,0,0,,{NOTE:しかしま、クラブ活動に力を入れていくのも良いでしょう。}
-Dialogue: 0,0:30:23.67,0:30:27.72,Default,Ingo,0,0,0,,{NOTE:優勝でもしてくれれば、高名を上げることになりますからね。}
-Dialogue: 0,0:30:27.72,0:30:28.97,Default,Hayakawa,0,0,0,,{NOTE:頑張ります。}
-Dialogue: 0,0:30:28.97,0:30:31.89,Default,Hayakawa,0,0,0,,{NOTE:選手権大会には必ず優勝して見せます。}
-Dialogue: 0,0:30:33.18,0:30:34.43,Default,Hayakawa,0,0,0,,{NOTE:絶対に優勝します。}
-Dialogue: 0,0:30:40.40,0:30:41.73,Default,Ookii,0,0,0,,{NOTE:早川さん、ありがとう。}
-Dialogue: 0,0:30:41.73,0:30:44.23,Default,Ookii,0,0,0,,{NOTE:ここで練習出来ると本当に素敵。}
-Dialogue: 0,0:30:44.23,0:30:46.28,Default,Ayuhara,0,0,0,,{NOTE:早川さん、どうもありがとう。}
-Dialogue: 0,0:30:46.28,0:30:49.16,Default,Hayakawa,0,0,0,,{NOTE:え？あ、ここで練習出来る事？}
-Dialogue: 0,0:30:49.16,0:30:50.49,Default,Hayakawa,0,0,0,,{NOTE:当然の事よ。}
-Dialogue: 0,0:30:50.49,0:30:53.91,Default,Hayakawa,0,0,0,,{NOTE:選手権大会で有償を目指すバレー部としてわね。}
-Dialogue: 0,0:30:53.91,0:30:55.20,Default,Hayakawa,0,0,0,,{NOTE:さ、はりきって練習しましょう。}
-Dialogue: 0,0:30:56.37,0:30:57.71,Default,Hayakawa,0,0,0,,{NOTE:あんたたち、しっかりしてね。}
-Dialogue: 0,0:30:59.04,0:31:02.17,Default,Hayakawa,0,0,0,,{NOTE:不良グループで有名だったそうじゃないの？聞いたわよ。}
-Dialogue: 0,0:31:02.17,0:31:04.59,Default,Kashiwagi,0,0,0,,{NOTE:それを言わないでよ。耳が痛いわ。}
-Dialogue: 0,0:31:04.59,0:31:06.84,Default,Nakazawa,0,0,0,,{NOTE:それは昔のこと。今は違うわよ。}
-Dialogue: 0,0:31:06.84,0:31:08.76,Default,Fukuda,0,0,0,,{NOTE:そうよ。ぐっと真面目に成ってんだから。}
-Dialogue: 0,0:31:08.76,0:31:11.34,Default,Ookii,0,0,0,,{NOTE:おれも皆バレーを始めたお陰ね。}
-Dialogue: 0,0:31:11.34,0:31:12.93,Default,Ikezaki,0,0,0,,{NOTE:そう。バレーのお陰よ。}
-Dialogue: 0,0:31:14.14,0:31:15.31,Default,Hayakawa,0,0,0,,{NOTE:そうじゃないでしょう？}
-Dialogue: 0,0:31:15.31,0:31:15.77,Default,Kashiwagi,0,0,0,,{NOTE:え？}
-Dialogue: 0,0:31:15.77,0:31:17.35,Default,Kashiwagi,0,0,0,,{NOTE:じゃ、何だって言うのよ？}
-Dialogue: 0,0:31:17.35,0:31:22.15,Default,Hayakawa,0,0,0,,{NOTE:もし鮎原さんがいなければ、あんた達退学処分に成っていたって言うじゃないの？}
-Dialogue: 0,0:31:22.15,0:31:24.48,Default,Kashiwagi,0,0,0,,{NOTE:へ？誰がそんな事言ったの？}
-Dialogue: 0,0:31:24.48,0:31:26.32,Default,Hayakawa,0,0,0,,{NOTE:鮎原さんから聞いたのよ。}
-Dialogue: 0,0:31:26.32,0:31:29.07,Default,(mixed),0,0,0,,{NOTE:—キャプテンが？\\N—私そんな事を言わないわ。}
-Dialogue: 0,0:31:29.86,0:31:32.66,Default,Hayakawa,0,0,0,,{NOTE:鮎原さん、隠さなくてもいいじゃないの？}
-Dialogue: 0,0:31:32.66,0:31:34.45,Default,Hayakawa,0,0,0,,{NOTE:昨日私にはっきりそう言った}
-Dialogue: 0,0:31:34.45,0:31:35.45,Default,Ayuhara,0,0,0,,{NOTE:そ、そんな。}
-Dialogue: 0,0:31:37.04,0:31:39.79,Default,Ayuhara,0,0,0,,{NOTE:ほ、本当、本当言わないわ、私。}
-Dialogue: 0,0:31:41.50,0:31:44.21,Default,Fukuda,0,0,0,,{NOTE:それは鮎原さんのお陰だと思ってるけど。}
-Dialogue: 0,0:31:44.21,0:31:46.38,Default,(mixed),0,0,0,,{NOTE:—でも退学処分だなんて…\\N—ひどいわ。}
-Dialogue: 0,0:31:46.38,0:31:47.76,Default,Ikezaki,0,0,0,,{NOTE:そう。ひどすぎるわよ。}
-Dialogue: 0,0:31:48.80,0:31:50.59,Default,Nakazawa,0,0,0,,{NOTE:ちょっと、どう言う事なのよ？}
-Dialogue: 0,0:31:51.30,0:31:53.43,Default,Hayakawa,0,0,0,,{NOTE:皆もいいでしょう？XX事じゃないの。}
-Dialogue: 0,0:31:54.05,0:31:55.89,Default,Hayakawa,0,0,0,,{NOTE:有償をするX忘れちゃうわよ。}
-Dialogue: 0,0:31:55.89,0:31:56.97,Default,Hayakawa,0,0,0,,{NOTE:さ、練習よ。}
-Dialogue: 0,0:32:00.10,0:32:01.10,Default,Nakazawa,0,0,0,,{NOTE:何さ、フン！}
-Dialogue: 0,0:32:06.57,0:32:08.94,Default,Hayakawa,0,0,0,,{NOTE:皆はりきって。トス上げて。}
-Dialogue: 0,0:32:08.94,0:32:10.28,Default,Fukuda,0,0,0,,{NOTE:早川さん、行くわよ。}
-Dialogue: 0,0:32:10.28,0:32:11.11,Default,Fukuda,0,0,0,,{NOTE:はい！}
-Dialogue: 0,0:32:15.03,0:32:16.58,Alternative,Ayuhara,0,0,0,,{NOTE:ひどい。ひどいわ！}
-Dialogue: 0,0:32:17.66,0:32:20.33,Default,Katsuragi,0,0,0,,{NOTE:私はあなたがそんな人だと思ってないわ。}
-Dialogue: 0,0:32:21.33,0:32:23.17,Default,Kashiwagi,0,0,0,,{NOTE:そうよ。私もよ。}
-Dialogue: 0,0:32:24.50,0:32:27.17,Default,Kashiwagi,0,0,0,,{NOTE:みどりってね、小学校の時からあんなのよ。}
-Dialogue: 0,0:32:27.17,0:32:29.42,Default,Kashiwagi,0,0,0,,{NOTE:金持ちで一人娘で我侭なのよ。}
-Dialogue: 0,0:32:30.05,0:32:31.05,Default,Ayuhara,0,0,0,,{NOTE:ま。}
-Dialogue: 0,0:32:31.05,0:32:32.55,Default,Hayakawa,0,0,0,,{NOTE:皆聞いて。}
-Dialogue: 0,0:32:32.55,0:32:36.55,Default,Hayakawa,0,0,0,,{NOTE:この富士見学園のバレー部は試合に一度も向かった事がないそうね。}
-Dialogue: 0,0:32:36.55,0:32:39.14,Default,Hayakawa,0,0,0,,{NOTE:私不明なXXX}
-Dialogue: 0,0:32:39.14,0:32:42.02,Default,Hayakawa,0,0,0,,{NOTE:大会で優勝出来るようなチームにしたいの。}
-Dialogue: 0,0:32:42.02,0:32:44.52,Default,Hayakawa,0,0,0,,{NOTE:それには優れたキャプテンが必要だと思うわ。}
-Dialogue: 0,0:32:46.23,0:32:48.02,Default,Ookii,0,0,0,,{NOTE:早川さんがいいわよ。}
-Dialogue: 0,0:32:48.02,0:32:49.98,Default,Ikezaki,0,0,0,,{NOTE:みどりはキャプテン成ったわいいんじゃない？}
-Dialogue: 0,0:32:49.98,0:32:50.69,Default,Nakazawa,0,0,0,,{NOTE:そうね。}
-Dialogue: 0,0:32:50.69,0:32:51.90,Default,Hayakawa,0,0,0,,{NOTE:何よあんたたち？}
-Dialogue: 0,0:32:55.49,0:32:58.28,Default,Kashiwagi,0,0,0,,{NOTE:ちょっと、よくもそんな事が言えるのね。}
-Dialogue: 0,0:32:58.28,0:33:00.41,Default,Kashiwagi,0,0,0,,{NOTE:誰のお陰でXX思ってるのよ。}
-Dialogue: 0,0:33:00.41,0:33:01.25,Default,Kashiwagi,0,0,0,,{NOTE:分かんないの？}
-Dialogue: 0,0:33:02.00,0:33:04.29,Default,Nakazawa,0,0,0,,{NOTE:だって、鮎原さんはあんな酷い事さ。}
-Dialogue: 0,0:33:04.29,0:33:06.63,Default,Kashiwagi,0,0,0,,{NOTE:キャプテンがあんな事言う人かどうか分かるでしょ？}
-Dialogue: 0,0:33:08.04,0:33:10.84,Default,Kashiwagi,0,0,0,,{NOTE:みどり、あんた一体何企んてんのよ？}
-Dialogue: 0,0:33:10.84,0:33:12.51,Default,Kashiwagi,0,0,0,,{NOTE:我侭がいい加減にしてよ。}
-Dialogue: 0,0:33:12.51,0:33:17.14,Default,Kashiwagi,0,0,0,,{NOTE:何が何でも、自分の思うままに成るなんて考えたら、とんでもない間違いよ、みどり。}
-Dialogue: 0,0:33:17.14,0:33:18.76,Default,Kashiwagi,0,0,0,,{NOTE:何だか言ってればどうなのよ？}
-Dialogue: 0,0:33:18.76,0:33:19.85,Default,Ayuhara,0,0,0,,{NOTE:柏木さん。}
-Dialogue: 0,0:33:20.93,0:33:22.02,Default,Ayuhara,0,0,0,,{NOTE:もういいのよ。}
-Dialogue: 0,0:33:22.02,0:33:23.77,Default,Kashiwagi,0,0,0,,{NOTE:だって、あんまりk}
-Dialogue: 0,0:33:23.77,0:33:24.69,Default,Ayuhara,0,0,0,,{NOTE:早川さん。}
-Dialogue: 0,0:33:26.10,0:33:27.94,Default,Ayuhara,0,0,0,,{NOTE:私キャプテン降りるわ。}
-Dialogue: 0,0:33:30.82,0:33:31.90,Default,Katsuragi,0,0,0,,{NOTE:鮎原さん。}
-Dialogue: 0,0:33:33.19,0:33:35.28,Default,Hayakawa,0,0,0,,{NOTE:鮎原さん、誤解しないで。}
-Dialogue: 0,0:33:35.28,0:33:39.16,Default,Hayakawa,0,0,0,,{NOTE:私は何も、キャプテンに成りたくて教頭先生の所行ったんじゃないのよ。}
-Dialogue: 0,0:33:39.16,0:33:41.37,Default,Hayakawa,0,0,0,,{NOTE:バレー部のためを思っての事よ。}
-Dialogue: 0,0:33:41.37,0:33:44.87,Default,Hayakawa,0,0,0,,{NOTE:それに、キャプテンは自分で決めたり、止めたりするもんじゃないわ。}
-Dialogue: 0,0:33:44.87,0:33:46.79,Default,Hayakawa,0,0,0,,{NOTE:皆が決めるものよ。そうでしょう？}
-Dialogue: 0,0:33:58.09,0:33:59.18,Default,Ichinose,0,0,0,,{NOTE:鮎原くん。}
-Dialogue: 0,0:33:59.18,0:34:00.56,Default,Ichinose,0,0,0,,{NOTE:こんな所にいたのか？}
-Dialogue: 0,0:34:00.56,0:34:02.47,Default,Ichinose,0,0,0,,{NOTE:家までいったんだぜ。}
-Dialogue: 0,0:34:02.47,0:34:03.47,Default,Ayuhara,0,0,0,,{NOTE:何かよう？}
-Dialogue: 0,0:34:05.56,0:34:08.06,Default,Ichinose,0,0,0,,{NOTE:キャプテンを降りるって言ったんだってね。}
-Dialogue: 0,0:34:08.06,0:34:09.44,Default,Ichinose,0,0,0,,{NOTE:皆聞いたよ。}
-Dialogue: 0,0:34:09.44,0:34:12.57,Default,Ichinose,0,0,0,,{NOTE:柏木さんが君の事とても心配してたよ。}
-Dialogue: 0,0:34:12.57,0:34:18.70,Default,Ichinose,0,0,0,,{NOTE:みどりさんってね、小さい時から自分が女王に成らなければ気が済まないって言う。}
-Dialogue: 0,0:34:18.70,0:34:20.53,Default,Ichinose,0,0,0,,{NOTE:正確なんだ。}
-Dialogue: 0,0:34:20.53,0:34:21.58,Default,Ayuhara,0,0,0,,{NOTE:そう。}
-Dialogue: 0,0:34:21.58,0:34:24.12,Default,Ayuhara,0,0,0,,{NOTE:でもなんであんなにまでキャプテンに成りたいのかしら？}
-Dialogue: 0,0:34:24.12,0:34:26.79,Default,Ayuhara,0,0,0,,{NOTE:私はキャプテンじゃなくても結構よ。}
-Dialogue: 0,0:34:26.79,0:34:29.33,Default,Ichinose,0,0,0,,{NOTE:そんな言い方を止せよ。君らしくないぜ。}
-Dialogue: 0,0:34:29.33,0:34:32.38,Default,Ichinose,0,0,0,,{NOTE:それは僕から彼女に話してやってもいいけど。}
-Dialogue: 0,0:34:32.38,0:34:38.26,Default,Ichinose,0,0,0,,{NOTE:しかし、出来る事なら、バレー部の中で、つまり君達だけで解決して欲しいな。}
-Dialogue: 0,0:34:38.26,0:34:42.39,Default,Ichinose,0,0,0,,{NOTE:大会を控えて、富士見学園バレー部の今が一番大切な時じゃないか。}
-Dialogue: 0,0:34:49.44,0:34:51.19,Default,Ichinose,0,0,0,,{NOTE:どうしたんだ、新キャプテン？}
-Dialogue: 0,0:34:51.90,0:34:52.82,Default,Ichinose,0,0,0,,{NOTE:しっかりしろ。}
-Dialogue: 0,0:34:55.57,0:34:56.19,Default,Ichinose,0,0,0,,{NOTE:君は…}
-Dialogue: 0,0:34:56.19,0:34:58.86,Default,Ichinose,0,0,0,,{NOTE:バレーボールに目的を見つけたんじゃなかったのか？}
-Dialogue: 0,0:34:58.86,0:35:01.62,Default,Ichinose,0,0,0,,{NOTE:それとも、又空気の抜けた風船みたいに成っちゃったのか？}
-Dialogue: 0,0:35:03.37,0:35:04.83,Default,Ichinose,0,0,0,,{NOTE:バレー何か止めちまえ！}
-Dialogue: 0,0:35:04.83,0:35:06.29,Default,Ayuhara,0,0,0,,{NOTE:止めちまえですって！？}
-Dialogue: 0,0:35:07.20,0:35:09.17,Default,Ichinose,0,0,0,,{NOTE:だって、今の君は…}
-Dialogue: 0,0:35:10.21,0:35:12.59,Default,Ayuhara,0,0,0,,{NOTE:これでも凝乎と我慢してるのよ。}
-Dialogue: 0,0:35:12.59,0:35:15.59,Default,Ayuhara,0,0,0,,{NOTE:もし私達が喧嘩でもしたら、どう成ると思うの？}
-Dialogue: 0,0:35:16.51,0:35:18.22,Default,Ayuhara,0,0,0,,{NOTE:バレー部はお終いよ。}
-Dialogue: 0,0:35:18.22,0:35:20.09,Default,Ayuhara,0,0,0,,{NOTE:私はバレーボールが大好きなの。}
-Dialogue: 0,0:35:20.09,0:35:24.81,Default,Ayuhara,0,0,0,,{NOTE:だから、早川さんがキャプテンに成ってバレー部が上手くいってなら、それでもいいと思っているのよ。}
-Dialogue: 0,0:35:33.69,0:35:34.82,Default,Ayuhara,0,0,0,,{NOTE:ただいま。}
-Dialogue: 0,0:35:35.36,0:35:37.69,Sign,,0,0,0,,{NOTE:鮎原こずえ様}
-Dialogue: 0,0:35:38.53,0:35:39.57,Default,Ayuhara,0,0,0,,{NOTE:誰かしら？}
-Dialogue: 0,0:35:39.57,0:35:41.99,Default,Ayuhara,0,0,0,,{NOTE:切ってが貼ってないわ。直接持ってきたものね。}
-Dialogue: 0,0:35:46.79,0:35:48.00,Default,Ayuhara,0,0,0,,{NOTE:鮎原さん。}
-Dialogue: 0,0:35:48.00,0:35:51.54,Default,Ayuhara,0,0,0,,{NOTE:あんたと二人きりで話したい事があります。}
-Dialogue: 0,0:35:51.54,0:35:54.42,Alternative,Hayakawa,0,0,0,,{NOTE:明日の朝誰も投稿しないうちに会いたいので…}
-Dialogue: 0,0:35:54.42,0:35:57.21,Alternative,Hayakawa,0,0,0,,{NOTE:…7時までにバレー部の部屋まで来てください。}
-Dialogue: 0,0:35:57.21,0:35:58.38,Default,Ayuhara,0,0,0,,{NOTE:早川さんね？}
-Dialogue: 0,0:35:58.38,0:36:00.30,Default,Ayuhara,0,0,0,,{NOTE:今度は何を放したいって言うのかしら？}
-Dialogue: 0,0:36:08.39,0:36:09.68,Default,Fukuda,0,0,0,,{NOTE:早川さん！}
-Dialogue: 0,0:36:14.86,0:36:16.23,Default,Fukuda,0,0,0,,{NOTE:どうしてこんな早くから？}
-Dialogue: 0,0:36:17.02,0:36:20.36,Default,Hayakawa,0,0,0,,{NOTE:私昨日部屋に鍵をかけるの忘れてたの。}
-Dialogue: 0,0:36:20.36,0:36:21.70,Default,Hayakawa,0,0,0,,{NOTE:今朝気がついたのよ。}
-Dialogue: 0,0:36:21.70,0:36:25.78,Default,Hayakawa,0,0,0,,{NOTE:もしバレー部のものがなくなっていたら、大変だか、らそれであなたたちに来てもらったの。}
-Dialogue: 0,0:36:25.53,0:36:30.37,Sign,,0,0,0,,{NOTE:バレー部室}
-Dialogue: 0,0:36:30.12,0:36:32.00,Default,Hayakawa,0,0,0,,{NOTE:やっぱりかかってないわ。}
-Dialogue: 0,0:36:32.00,0:36:33.33,Default,Hayakawa,0,0,0,,{NOTE:あ。}
-Dialogue: 0,0:36:33.33,0:36:34.58,Default,Hayakawa,0,0,0,,{NOTE:鮎原さん！}
-Dialogue: 0,0:36:34.58,0:36:38.30,Default,Nakazawa,0,0,0,,{NOTE:鮎原さん、あなた…何してんの、こんな時間に。}
-Dialogue: 0,0:36:38.30,0:36:40.21,Default,Ayuhara,0,0,0,,{NOTE:丁度いい所へ来た。これ見てよ。}
-Dialogue: 0,0:36:41.72,0:36:42.80,Default,Ikezaki,0,0,0,,{NOTE:ま、酷い。}
-Dialogue: 0,0:36:42.80,0:36:44.14,Default,Fukuda,0,0,0,,{NOTE:ネットもずたずたよ。}
-Dialogue: 0,0:36:44.14,0:36:46.64,Default,Nakazawa,0,0,0,,{NOTE:お、誰がこんな酷い事を…}
-Dialogue: 0,0:36:46.64,0:36:48.31,Default,Hayakawa,0,0,0,,{NOTE:バレー部を憎んでいる人ね、きっと。}
-Dialogue: 0,0:36:49.68,0:36:50.89,Default,Hayakawa,0,0,0,,{NOTE:鮎原さん、それは？}
-Dialogue: 0,0:36:50.89,0:36:51.48,Default,Ayuhara,0,0,0,,{NOTE:え？}
-Dialogue: 0,0:36:51.48,0:36:54.69,Default,Ayuhara,0,0,0,,{NOTE:あ、これここに落ちてたの。これで切ったらしいわ。}
-Dialogue: 0,0:36:54.69,0:36:58.02,Default,Hayakawa,0,0,0,,{NOTE:鮎原さん、あなたって人は随分恐ろしい人ね。}
-Dialogue: 0,0:36:58.02,0:36:59.44,Default,Ayuhara,0,0,0,,{NOTE:え？何の事？}
-Dialogue: 0,0:36:59.44,0:37:01.86,Default,Hayakawa,0,0,0,,{NOTE:鮎原さん、あなた私を恨んでるはずよ。}
-Dialogue: 0,0:37:01.86,0:37:02.78,Default,Hayakawa,0,0,0,,{NOTE:そうでしょう？}
-Dialogue: 0,0:37:02.78,0:37:03.86,Default,Ayuhara,0,0,0,,{NOTE:え？}
-Dialogue: 0,0:37:08.58,0:37:11.25,Default,Ayuhara,0,0,0,,{NOTE:あ、は、早川さん、私がしたとでも言うの？}
-Dialogue: 0,0:37:12.46,0:37:16.04,Default,Hayakawa,0,0,0,,{NOTE:いくら私に恨みがあるからって、大事なと道具を傷つける事はないでしょう。}
-Dialogue: 0,0:37:16.96,0:37:17.79,Default,Hayakawa,0,0,0,,{NOTE:何よ。}
-Dialogue: 0,0:37:19.38,0:37:21.51,Default,Hayakawa,0,0,0,,{NOTE:キャプテンが聞いて呆れるわ。}
-Dialogue: 0,0:37:21.51,0:37:22.92,Default,Hayakawa,0,0,0,,{NOTE:皆もそう思わない？}
-Dialogue: 0,0:37:22.92,0:37:26.84,Default,Hayakawa,0,0,0,,{NOTE:こんな事をする何て、この鮎原さんにキャプテンの資格があると思って？}
-Dialogue: 0,0:37:26.84,0:37:28.55,Default,Hayakawa,0,0,0,,{NOTE:ね、皆。}
-Dialogue: 0,0:37:28.55,0:37:29.85,Default,Nakazawa,0,0,0,,{NOTE:見損成ったわね。}
-Dialogue: 0,0:37:29.85,0:37:31.81,Default,Nakazawa,0,0,0,,{NOTE:こんなことまでする人と思わなかったわよ。}
-Dialogue: 0,0:37:35.98,0:37:37.31,Default,Hayakawa,0,0,0,,{NOTE:何が可笑しいのよ！}
-Dialogue: 0,0:37:37.98,0:37:40.98,Default,Ayuhara,0,0,0,,{NOTE:早川さん。こんなにまでしてキャプテンに成りたいの？}
-Dialogue: 0,0:37:40.98,0:37:43.11,Default,Ayuhara,0,0,0,,{NOTE:そうなら、そうとはっきり言えばいいのに。}
-Dialogue: 0,0:37:43.11,0:37:46.66,Default,Ayuhara,0,0,0,,{NOTE:こんな手紙まで書いて、随分回りくどいけどこんな事したものね。}
-Dialogue: 0,0:37:51.58,0:37:52.54,Default,Hayakawa,0,0,0,,{NOTE:何よその目は！}
-Dialogue: 0,0:37:54.21,0:37:57.54,Default,Hayakawa,0,0,0,,{NOTE:訳の分からない言い掛かりをつけて、私を喧嘩をしようって言うの？}
-Dialogue: 0,0:38:02.76,0:38:06.93,Default,Hayakawa,0,0,0,,{NOTE:鮎原さん、これであなたにキャプテンの資格がない事がはっきりしたわね。}
-Dialogue: 0,0:38:06.93,0:38:08.39,Default,Hayakawa,0,0,0,,{NOTE:さ、皆行きましょう。}
-Dialogue: 0,0:38:09.51,0:38:10.51,Default,(unison),0,0,0,,{NOTE:うん。}
-Dialogue: 0,0:38:10.51,0:38:11.43,Default,(unknown),0,0,0,,{NOTE:行こう行こう。}
-Dialogue: 0,0:38:13.27,0:38:15.94,Default,Nakazawa,0,0,0,,{NOTE:やっぱり、キャプテンは早川さんのはXXね。}
-Dialogue: 0,0:38:19.23,0:38:21.90,Alternative,Ayuhara,0,0,0,,{NOTE:バレー部のために一所懸命我慢したのに。}
-Dialogue: 0,0:38:49.22,0:38:51.30,Default,Hayakawa,0,0,0,,{NOTE:さ、どんどん投げて！}
-Dialogue: 0,0:38:51.30,0:38:54.18,Default,Kashiwagi,0,0,0,,{NOTE:さきから早川さんばかり練習してるわ。}
-Dialogue: 0,0:38:54.18,0:38:56.43,Default,Hara,0,0,0,,{NOTE:あ、私達どうしたらいいの？}
-Dialogue: 0,0:38:56.43,0:38:58.44,Default,(unknown),0,0,0,,{NOTE:私達練習したいわ。}
-Dialogue: 0,0:38:58.44,0:39:00.27,Default,Ayuhara,0,0,0,,{NOTE:さ、皆で練習しましょうよ。}
-Dialogue: 0,0:39:00.27,0:39:01.56,Default,Kashiwagi,0,0,0,,{NOTE:待ってました！}
-Dialogue: 0,0:39:01.56,0:39:04.28,Default,Ayuhara,0,0,0,,{NOTE:さ、さ、何も遠慮する事ないわよ。ね？}
-Dialogue: 0,0:39:04.28,0:39:06.03,Default,Hara,0,0,0,,{NOTE:行けましょう。}
-Dialogue: 0,0:39:06.03,0:39:08.78,Default,Hayakawa,0,0,0,,{NOTE:あら、未だ私練習中よ。}
-Dialogue: 0,0:39:08.78,0:39:09.74,Default,(unison),0,0,0,,{NOTE:え？}
-Dialogue: 0,0:39:11.57,0:39:14.37,Default,Ayuhara,0,0,0,,{NOTE:あら？それだけ練習すれば十分よ。}
-Dialogue: 0,0:39:14.37,0:39:17.08,Default,Hayakawa,0,0,0,,{NOTE:だって、試合は明後日なのに。}
-Dialogue: 0,0:39:17.08,0:39:21.04,Default,Ayuhara,0,0,0,,{NOTE:だからこそあなた一人だけがいくら上手くなっても、何も成らないわ。}
-Dialogue: 0,0:39:21.04,0:39:23.50,Default,Hayakawa,0,0,0,,{NOTE:私のやり方に不満があるの？}
-Dialogue: 0,0:39:23.50,0:39:24.13,Default,Ayuhara,0,0,0,,{NOTE:あるわ。}
-Dialogue: 0,0:39:24.13,0:39:24.88,Default,Katsuragi,0,0,0,,{NOTE:私も。}
-Dialogue: 0,0:39:24.88,0:39:26.92,Default,Hayakawa,0,0,0,,{NOTE:私はキャプテンよ。}
-Dialogue: 0,0:39:26.92,0:39:29.43,Default,Hayakawa,0,0,0,,{NOTE:皆の遺志でキャプテンに成ったのよ。}
-Dialogue: 0,0:39:29.43,0:39:31.22,Default,Hayakawa,0,0,0,,{NOTE:私は私のやり方で通すわ。}
-Dialogue: 0,0:39:35.26,0:39:41.77,Sign,,0,0,0,,{NOTE:東海地区中学校バレー選手権大会}
-Dialogue: 0,0:39:45.48,0:39:47.44,Default,Ichinose,0,0,0,,{NOTE:さすがに有力候補だ。}
-Dialogue: 0,0:39:47.44,0:39:48.74,Default,Ichinose,0,0,0,,{NOTE:張り切ったな。}
+Dialogue: 0,0:22:48.80,0:22:49.93,Default,Katsuragi,0,0,0,,Ah, damn!{NOTE:あ、しまった！}
+Dialogue: 0,0:22:49.93,0:22:51.39,Default,Ayuhara,0,0,0,,It's our chance! Toss it to me!{NOTE:ほら、チャンスよ、トスして！}
+Dialogue: 0,0:22:56.47,0:22:57.60,Default,Ayuhara,0,0,0,,Attack!{NOTE:アタック！}
+Dialogue: 0,0:23:08.19,0:23:10.74,Default,Referee A,0,0,0,,The match ends. Ayuhara team wins.{NOTE:試合終了。鮎原チームの勝ち。}
+Dialogue: 0,0:23:11.16,0:23:12.87,Default,Audience,0,0,0,,– Nice, nice!\N– Awesome!{NOTE:—いいぞいいぞ！\\N—あああ！}
+Dialogue: 0,0:23:13.83,0:23:15.54,Default,Audience,0,0,0,,Great!{NOTE:いいぞ！}
+Dialogue: 0,0:23:19.54,0:23:21.12,Default,Ayuhara,0,0,0,,We won.{NOTE:勝ったわ。}
+Dialogue: 0,0:23:21.12,0:23:22.33,Default,Nakazawa,0,0,0,,I'm so happy.{NOTE:嬉しいわ。}
+Dialogue: 0,0:23:22.33,0:23:23.67,Default,Ookii,0,0,0,,We actually won.{NOTE:勝ったんだわ。}
+Dialogue: 0,0:23:26.80,0:23:29.05,Alternative,Ichinose,0,0,0,,You did well, girls.{NOTE:皆、よくやったぞ。}
+Dialogue: 0,0:23:29.05,0:23:30.05,Default,Audience,0,0,0,,They were amazing.{NOTE:すごいわ。}
+Dialogue: 0,0:23:30.05,0:23:32.30,Default,Audience,0,0,0,,Truly amazing…{NOTE:本当すごいわ。}
+Dialogue: 0,0:23:32.30,0:23:33.68,Default,Kashiwagi,0,0,0,,Chief…{NOTE:あ、親分。}
+Dialogue: 0,0:23:33.68,0:23:34.97,Default,Kashiwagi,0,0,0,,Ayuhara-san, thank you.{NOTE:鮎原さん、ありがとう。}
+Dialogue: 0,0:23:34.97,0:23:37.81,Default,Kashiwagi,0,0,0,,This is the first time I get to feel like this.{NOTE:私こんな気持ちXX始めてよ。}
+Dialogue: 0,0:23:37.81,0:23:39.39,Default,Nakazawa,0,0,0,,Same goes for me.{NOTE:私もよ。}
+Dialogue: 0,0:23:39.39,0:23:41.94,Default,Ookii,0,0,0,,I never seriously considered sports, and now look at me…{NOTE:XXXだけだって、私が…}
+Dialogue: 0,0:23:41.94,0:23:43.65,Alternative,Ayuhara,0,0,0,,Everyone did their best.{NOTE:皆頑張ったんだもん。}
+Dialogue: 0,0:23:43.65,0:23:44.94,Alternative,Ayuhara,0,0,0,,I'm so glad.{NOTE:よかったわ。}
+Dialogue: 0,0:23:46.02,0:23:47.11,Default,Katsuragi,0,0,0,,– Ayuhara-san.\N– Eh?{NOTE:—鮎原さん。\\N—え？}
+Dialogue: 0,0:23:49.82,0:23:51.24,Default,Nakazawa,0,0,0,,Oh?{NOTE:あら？}
+Dialogue: 0,0:23:52.45,0:23:53.45,Default,Ayuhara,0,0,0,,What's this?{NOTE:これは？}
+Dialogue: 0,0:23:53.45,0:23:56.03,Default,Katsuragi,0,0,0,,We've completely lost.{NOTE:私達負けたわ。乾杯よ。}
+Dialogue: 0,0:23:56.03,0:23:59.79,Default,Katsuragi,0,0,0,,You're not useless at all. You were splendid.{NOTE:あなたたち劣等生何かじゃないわ。立派だったわ。}
+Dialogue: 0,0:23:59.79,0:24:03.12,Default,Katsuragi,0,0,0,,We're embarrassed that we made fun of you until now.{NOTE:今まで馬鹿にしてきたりして、あたしたち恥ずかしいわ。}
+Dialogue: 0,0:24:03.12,0:24:04.21,Default,Katsuragi,0,0,0,,We apologize.{NOTE:ごめんなさい。}
+Dialogue: 0,0:24:04.21,0:24:05.38,Default,Ayuhara,0,0,0,,My.{NOTE:ま。}
+Dialogue: 0,0:24:06.42,0:24:08.96,Default,Katsuragi,0,0,0,,We've also got a favor to ask.{NOTE:そして、これからお願いなんだけど。}
+Dialogue: 0,0:24:08.96,0:24:12.30,Default,Katsuragi,0,0,0,,We want all of you to join the volleyball club.{NOTE:あなたたち今日からバレー部に入った欲しいの。}
+Dialogue: 0,0:24:12.30,0:24:13.01,Default,Kashiwagi,0,0,0,,Huh?{NOTE:え？}
+Dialogue: 0,0:24:13.01,0:24:15.22,Default,Hase,0,0,0,,The volleyball club has only seniors now.{NOTE:今のバレー部は殆ど三年生でしょう？}
+Dialogue: 0,0:24:15.22,0:24:18.93,Default,Hase,0,0,0,,If we had second year students\htoo, we would grow stronger.{NOTE:だからあなたたち二年生が入ってくれれば、力強いのよ。}
+Dialogue: 0,0:24:18.93,0:24:24.35,Default,(unknown),0,0,0,,Yeah. Us seniors have many things around the\hcorner, so we can't give the practice our all.{NOTE:そう。三年生に成ると受験や就職や色々あって練習や試合に出られないのよ。}
+Dialogue: 0,0:24:25.90,0:24:27.40,Default,Kashiwagi,0,0,0,,Ayuhara-san, what are we going to do?{NOTE:ね、鮎原さん、どうしよ？}
+Dialogue: 0,0:24:29.36,0:24:30.28,Default,Ayuhara,0,0,0,,Isn't it all right?{NOTE:いいじゃない？}
+Dialogue: 0,0:24:30.28,0:24:32.45,Default,Ayuhara,0,0,0,,Let's join the volleyball club together.{NOTE:カッコ達一緒にバレー部に入りましょうよ。}
+Dialogue: 0,0:24:32.45,0:24:34.53,Default,Ayuhara,0,0,0,,This is a chance for us.{NOTE:で、おもうぞXできるわよ。}
+Dialogue: 0,0:24:34.53,0:24:36.07,Default,Ikezaki,0,0,0,,Yeah. I'll do it.{NOTE:そう。私はやるわ。}
+Dialogue: 0,0:24:36.07,0:24:37.24,Default,Nakazawa,0,0,0,,Yep. Me too.{NOTE:やる、やる。}
+Dialogue: 0,0:24:37.24,0:24:38.95,Default,Nakazawa,0,0,0,,I'll join too.{NOTE:私もやるわ。}
+Dialogue: 0,0:24:38.95,0:24:40.54,Default,Fukuda,0,0,0,,I'm joining too.{NOTE:やる、やる。}
+Dialogue: 0,0:24:40.54,0:24:43.12,Default,Ookii,0,0,0,,I'll be hungry all the time, I bet.{NOTE:でも、お腹がすくわよきっと。}
+Dialogue: 0,0:24:43.12,0:24:44.71,Default,Kashiwagi,0,0,0,,Just make up your mind.{NOTE:はっきりしなさいよ。}
+Dialogue: 0,0:24:44.71,0:24:45.88,Default,Kashiwagi,0,0,0,,Do you join? Do you not?{NOTE:やるのやらないの？}
+Dialogue: 0,0:24:45.88,0:24:48.21,Default,Ookii,0,0,0,,I'll join, I'll join with you.{NOTE:あ、やるわよ。やりますよ。}
+Dialogue: 0,0:24:48.21,0:24:50.38,Default,Ookii,0,0,0,,My figure will improve for sure.{NOTE:きっとスタイルがよく成られるね。}
+Dialogue: 0,0:24:54.38,0:24:58.01,Default,Katsuragi,0,0,0,,Moreover we want you, Ayuhara-san, to be our captain.{NOTE:そして、鮎原さんにはキャプテンをやってもらいたいの。}
+Dialogue: 0,0:24:58.01,0:24:59.97,Default,Ayuhara,0,0,0,,Huh? Me, a captain?{NOTE:え？私がキャプテン？}
+Dialogue: 0,0:24:59.97,0:25:02.60,Default,Katsuragi,0,0,0,,Does anybody oppose?{NOTE:ね、誰か反対の人がいる？}
+Dialogue: 0,0:25:02.60,0:25:04.52,Default,(unison),0,0,0,,Of course we agree!{NOTE:賛成！}
+Dialogue: 0,0:25:06.98,0:25:09.19,Default,Katsuragi,0,0,0,,It's decided then.{NOTE:え。これで決まったわね。}
+Dialogue: 0,0:25:09.77,0:25:11.03,Default,Katsuragi,0,0,0,,Ayuhara-san.{NOTE:鮎原さん。}
+Dialogue: 0,0:25:11.03,0:25:17.57,Default,Katsuragi,0,0,0,,Since a long time, this jersey was used by the captain of the volleyball club.{NOTE:昔からね、バレー部の伝統でキャプテンはその赤いグランドコートを着る事に成ってるのよ。}
+Dialogue: 0,0:25:17.57,0:25:19.20,Default,Katsuragi,0,0,0,,Let us see you in it.{NOTE:さ、着てみてちょうだい。}
+Dialogue: 0,0:25:24.46,0:25:26.17,Default,Katsuragi,0,0,0,,It suits you well.{NOTE:あ、よく似合うわ。}
+Dialogue: 0,0:25:30.88,0:25:32.01,Default,Katsuragi,0,0,0,,New captain.{NOTE:新キャプテン。}
+Dialogue: 0,0:25:32.96,0:25:34.17,Default,Kashiwagi,0,0,0,,So cool!{NOTE:格好いい！}
+Dialogue: 0,0:25:36.26,0:25:38.22,Default,Ayuhara,0,0,0,,Thank you. Let's all work together.{NOTE:ありがとう。皆協力してね。}
+Dialogue: 0,0:25:39.55,0:25:40.51,Default,Katsuragi,0,0,0,,New captain.{NOTE:新キャプテン。}
+Dialogue: 0,0:25:41.47,0:25:43.48,Default,(mixed),0,0,0,,– Katsuragi-san.\N– Ayuhara-san.{NOTE:—桂城さん。\\N—鮎原さん。}
+Dialogue: 0,0:25:59.78,0:26:01.87,Alternative,Ayuhara,0,0,0,,How wonderful.{NOTE:何て素晴らしいんだろう。}
+Dialogue: 0,0:26:01.87,0:26:04.95,Alternative,Ayuhara,0,0,0,,I'm so glad I'm able to play volleyball.{NOTE:皆と一緒にバレーボールが出来るなんて。}
+Dialogue: 0,0:26:04.95,0:26:06.54,Alternative,Ayuhara,0,0,0,,I also met new friends.{NOTE:皆素敵な友達。}
+Dialogue: 0,0:26:07.87,0:26:13.00,Alternative,Ayuhara,0,0,0,,Together with everyone, dreaming of sparkling future not unlike the stars in that night sky.{NOTE:あの夜空に光る星のようにキラキラした目的に向かって皆と一緒に。}
+Dialogue: 0,0:26:17.43,0:26:19.80,Sign,,0,0,0,,Volleyball club's room{NOTE:バレー部室}
+Dialogue: 0,0:26:21.05,0:26:22.97,Default,Katsuragi,0,0,0,,Ah, you're here so early?{NOTE:あら？もう集まってるのね。}
+Dialogue: 0,0:26:22.97,0:26:25.43,Default,Katsuragi,0,0,0,,Ayuhara-san, there's a letter to our club.{NOTE:鮎原さん、バレー部に手紙来てたわよ。}
+Dialogue: 0,0:26:25.43,0:26:26.18,Default,Katsuragi,0,0,0,,Here.{NOTE:はい。}
+Dialogue: 0,0:26:26.18,0:26:28.77,Default,Ayuhara,0,0,0,,Oh? Katsuragi-san, why do you not open it?{NOTE:あら、桂城さんはなぜ開けないにょ？}
+Dialogue: 0,0:26:28.77,0:26:31.73,Default,Katsuragi,0,0,0,,The club's matters are resolved by the captain.{NOTE:バレー部XXの手紙はキャプテンが開けるものよ。}
+Dialogue: 0,0:26:31.73,0:26:32.52,Default,Ayuhara,0,0,0,,My.{NOTE:ま。}
+Dialogue: 0,0:26:34.69,0:26:35.86,Default,Ikezaki,0,0,0,,What do you think it is?{NOTE:何かしら？}
+Dialogue: 0,0:26:40.32,0:26:41.41,Default,Ayuhara,0,0,0,,Listen, everyone.{NOTE:皆聞いて。}
+Dialogue: 0,0:26:41.41,0:26:45.54,Default,Ayuhara,0,0,0,,It's an invitation to Toukai district middle school volleyball championship.{NOTE:東海地区、中学バレー選手権大会の要項XXよ。}
+Dialogue: 0,0:26:45.54,0:26:49.00,Default,Ayuhara,0,0,0,,It's a chance for our new members to shine.{NOTE:これが私達新部員の最初の公式試合に成るはずよ。}
+Dialogue: 0,0:26:50.42,0:26:53.55,Default,Kashiwagi,0,0,0,,Good, now we have a goal. Let's do it.{NOTE:よし。さ、皆。はりきっていこうね。}
+Dialogue: 0,0:26:53.55,0:26:55.63,Default,Nakazawa,0,0,0,,Practice, practice!{NOTE:練習、練習っと！}
+Dialogue: 0,0:26:55.63,0:26:58.63,Default,Ikezaki,0,0,0,,Let's not waste time and go to the court.{NOTE:いざコートへ行かん、練習始め。}
+Dialogue: 0,0:26:58.63,0:27:00.05,Default,(unison),0,0,0,,Yeah!{NOTE:おう！}
+Dialogue: 0,0:27:03.39,0:27:04.68,Default,Ayuhara,0,0,0,,Oh?{NOTE:お？}
+Dialogue: 0,0:27:04.68,0:27:06.10,Default,Ayuhara,0,0,0,,What are they doing?{NOTE:何してるのかしら？}
+Dialogue: 0,0:27:06.10,0:27:07.77,Default,Katsuragi,0,0,0,,It's strange. Let's check it out.{NOTE:可笑しいわね。行こう。}
+Dialogue: 0,0:27:38.01,0:27:39.63,Default,Ayuhara,0,0,0,,Such an accurate spike…{NOTE:正確なスパイク。}
+Dialogue: 0,0:27:39.63,0:27:41.72,Default,Ayuhara,0,0,0,,Almost like a machine.{NOTE:まるで精密機械のようだわ。}
+Dialogue: 0,0:27:49.10,0:27:52.19,Default,Hayakawa,0,0,0,,Are you the new captain,\NAyuhara Kozue-san?{NOTE:あなたが新しいキャプテンの鮎原こずえさんね。}
+Dialogue: 0,0:27:52.19,0:27:54.69,Default,Kashiwagi,0,0,0,,– Midori! Midori, is it you?\N– Kakko!{NOTE:—みどり！みどりじゃないの！\\N—カッコ！}
+Dialogue: 0,0:27:54.69,0:27:55.86,Default,Hayakawa,0,0,0,,I've transferred today.{NOTE:今日転校してきたの。}
+Dialogue: 0,0:27:55.86,0:27:58.69,Default,Hayakawa,0,0,0,,My dad's company moved him here, to Fujimi.{NOTE:パパの会社が富士見市にXXことに成ったの。}
+Dialogue: 0,0:27:58.69,0:28:00.07,Default,Kashiwagi,0,0,0,,Ah. Long time no see.{NOTE:わ、懐かしいわ。}
+Dialogue: 0,0:28:00.07,0:28:01.91,Default,Kashiwagi,0,0,0,,How many years has it been?{NOTE:ね、何年ぶりかしら？}
+Dialogue: 0,0:28:01.91,0:28:05.74,Default,Kashiwagi,0,0,0,,Hayakawa Midori-san and I were in the same class in the grade school.{NOTE:早川みどりさんってね、小学で私達が同じクラスにいったのよ。}
+Dialogue: 0,0:28:05.74,0:28:09.16,Default,Kashiwagi,0,0,0,,We were in the fifth class, I think.\NIf I remember, she then moved to Kyoto.{NOTE:五年生の時だったかな。京都へ引っ越しちゃったのよ。}
+Dialogue: 0,0:28:09.16,0:28:12.46,Default,Hayakawa,0,0,0,,But who would've think Kakko and Naka would enter a volleyball club.{NOTE:でも、カッコやナカがバレー部に入ってると思わなかったわ。}
+Dialogue: 0,0:28:12.46,0:28:14.96,Default,Kashiwagi,0,0,0,,I've just started, so I'm not any good yet.{NOTE:私は始めてばかりだの。未だ駄目よ。}
+Dialogue: 0,0:28:14.96,0:28:17.59,Default,Kashiwagi,0,0,0,,But you're something else, Midori. We just saw you.{NOTE:それより、みどり、すごいじゃないの？今見てたわよ。}
+Dialogue: 0,0:28:17.59,0:28:20.88,Default,Nakazawa,0,0,0,,Really. It's my first time seeing someone this good.{NOTE:本当。あんなすごい一人バレー見たのは私始めてよ。}
+Dialogue: 0,0:28:20.88,0:28:23.09,Default,Hayakawa,0,0,0,,I've been playing ever since I went to Kyoto.{NOTE:京都へ行ってから、ずっとバレーやってたの。}
+Dialogue: 0,0:28:23.09,0:28:23.89,Default,Hayakawa,0,0,0,,But…{NOTE:でもk}
+Dialogue: 0,0:28:24.68,0:28:26.76,Default,Hayakawa,0,0,0,,…this much should be easy for Ayuhara-san.{NOTE:あの程度なら鮎原さんだって出来るわね。}
+Dialogue: 0,0:28:26.76,0:28:28.43,Default,Ayuhara,0,0,0,,Well, I'd have to try.{NOTE:さ、やってみなければ。}
+Dialogue: 0,0:28:28.43,0:28:29.89,Default,Hayakawa,0,0,0,,There's no way you couldn't do it.{NOTE:出来ないはずないわよ。}
+Dialogue: 0,0:28:29.89,0:28:31.89,Default,Hayakawa,0,0,0,,After all, Ayuhara-san, you're the captain, right?{NOTE:だって鮎原さんはキャプテンでしょう？}
+Dialogue: 0,0:28:31.89,0:28:32.85,Default,Ayuhara,0,0,0,,Huh?{NOTE:え？}
+Dialogue: 0,0:28:32.85,0:28:35.15,Default,Hayakawa,0,0,0,,If you don't mind, I'd like to join the volleyball club.{NOTE:今日からバレー部に入れていただくわ。}
+Dialogue: 0,0:28:41.24,0:28:42.86,Default,Ichinose,0,0,0,,Hey, captain!{NOTE:おいキャプテン！}
+Dialogue: 0,0:28:44.28,0:28:45.95,Default,Ichinose,0,0,0,,Volleyball club's new captain!{NOTE:バレー部の新キャプテン！}
+Dialogue: 0,0:28:46.66,0:28:47.95,Default,Ayuhara,0,0,0,,Ah, Tsutomu-san.{NOTE:あ、努さん。}
+Dialogue: 0,0:28:54.00,0:28:55.25,Default,Ichinose,0,0,0,,Did something happen?{NOTE:どうかしたのか？}
+Dialogue: 0,0:28:55.25,0:28:57.29,Default,Ichinose,0,0,0,,You seem down.{NOTE:何だかぼんやりしてるようだけど。}
+Dialogue: 0,0:28:57.67,0:28:59.25,Default,Ayuhara,0,0,0,,No, it's nothing.{NOTE:ん、別に。}
+Dialogue: 0,0:28:59.25,0:29:01.01,Default,Ichinose,0,0,0,,Tired from the practice?{NOTE:練習で疲れたのか？}
+Dialogue: 0,0:29:01.01,0:29:04.63,Default,Ichinose,0,0,0,,The tournament's schedule was decided, wasn't it?{NOTE:あ、選手権大会のスケジュールはもう決まったんだろう？}
+Dialogue: 0,0:29:04.63,0:29:07.30,Default,Ichinose,0,0,0,,It'd be troublesome if the new captain wasn't into it.{NOTE:新キャプテンが今からそれじゃ困るじゃないか。}
+Dialogue: 0,0:29:07.30,0:29:10.01,Default,Ichinose,0,0,0,,You have to do your best to win the championship.{NOTE:優勝を目指して、絶対に頑張ってもらわなくっちゃ。}
+Dialogue: 0,0:29:12.31,0:29:13.89,Default,Ayuhara,0,0,0,,– Hey, Tsutomu-san.\N– Hm?{NOTE:—ね、努さん。\\N—ん？}
+Dialogue: 0,0:29:13.89,0:29:14.94,Default,Ichinose,0,0,0,,What is it?{NOTE:何だ？}
+Dialogue: 0,0:29:14.94,0:29:16.85,Default,Hayakawa,0,0,0,,Tsutomu-san!{NOTE:—努さん！\\N—お？}
+Dialogue: 0,0:29:19.52,0:29:20.57,Default,Ichinose,0,0,0,,Ah, it's Midori-san.{NOTE:あ、みどりさんだ。}
+Dialogue: 0,0:29:24.86,0:29:26.36,Default,Ichinose,0,0,0,,Let me introduce you.{NOTE:あの、紹介しよう。}
+Dialogue: 0,0:29:26.36,0:29:27.91,Default,Hayakawa,0,0,0,,Oh. Ayuhara-san.{NOTE:あら、鮎原さん。}
+Dialogue: 0,0:29:27.91,0:29:30.12,Default,Ichinose,0,0,0,,What, you know yourselves already?{NOTE:何だ？君達も知ってたのか？}
+Dialogue: 0,0:29:30.12,0:29:32.41,Default,Hayakawa,0,0,0,,Yes. I entered the volleyball club today.{NOTE:え。私今日はバレー部に入ったの。}
+Dialogue: 0,0:29:32.41,0:29:35.46,Default,Hayakawa,0,0,0,,I've already greeted captain Ayuhara-san.{NOTE:キャプテンの相原さんにはも挨拶したわ。}
+Dialogue: 0,0:29:35.46,0:29:36.62,Default,Ichinose,0,0,0,,That's how it was.{NOTE:そうだったのか？}
+Dialogue: 0,0:29:38.13,0:29:42.30,Default,Hayakawa,0,0,0,,Tsutomu-san, you're not in Ayuhara-san's class, but I feel that you get along well.{NOTE:努さん鮎原さんと同じクラスでもないのに、何かいいみたいね。}
+Dialogue: 0,0:29:42.30,0:29:44.84,Default,Ichinose,0,0,0,,Yeah. To tell you the truth, we're related.{NOTE:うん。実は、僕達親戚なんだ。}
+Dialogue: 0,0:29:44.84,0:29:49.72,Default,Ichinose,0,0,0,,My aunt, which is my mom's younger sister,\Nis married to Ayuhara-kun's father's younger brother.{NOTE:つまり、僕のお母さんの妹の結婚した相手がこずえさんのお父さんの弟。}
+Dialogue: 0,0:29:51.51,0:29:52.81,Default,Ichinose,0,0,0,,In other words, her uncle.{NOTE:つまり、おじさんなんだ。}
+Dialogue: 0,0:29:52.81,0:29:56.27,Default,Ichinose,0,0,0,,Understand? It's a little roundabout, but we're certainly related.{NOTE:分かる？ちょっとややこしいけど間違いなく親戚なんだ。}
+Dialogue: 0,0:29:57.48,0:29:58.94,Default,Hayakawa,0,0,0,,Oh, that was it?{NOTE:あら、そうなの？}
+Dialogue: 0,0:29:58.94,0:30:03.44,Default,Hayakawa,0,0,0,,Hey, Ayuhara-san, I've known Tsutomu-san ever since kindergarten.{NOTE:ね鮎原さん、私と努さんとは幼稚園からずっと一緒だったの。}
+Dialogue: 0,0:30:03.44,0:30:07.28,Default,Hayakawa,0,0,0,,We had reputation of being good friends at elementary school.{NOTE:小学校で評判の仲良しだったのよ。}
+Dialogue: 0,0:30:07.66,0:30:08.49,Sign,,0,0,0,,Teachers room{NOTE:教員室}
+Dialogue: 0,0:30:09.41,0:30:11.53,Default,Hayakawa,0,0,0,,Thank you very much.{NOTE:どうもありがとうございました。}
+Dialogue: 0,0:30:11.53,0:30:13.04,Default,Teacher A,0,0,0,,Nah, don't mention it.{NOTE:いや、私もね。}
+Dialogue: 0,0:30:13.04,0:30:16.54,Default,Teacher A,0,0,0,,I thought we should put an effort into the sport clubs as well.{NOTE:運動部にはもっと力を入れるべきだと考えていたんだよ。}
+Dialogue: 0,0:30:17.21,0:30:20.08,Default,Ingo,0,0,0,,The school is mostly about academic achievements.{NOTE:学校は飽くまで学力第一です。}
+Dialogue: 0,0:30:20.08,0:30:23.67,Default,Ingo,0,0,0,,But yes, putting some effort into club victories should be good.{NOTE:しかしま、クラブ活動に力を入れていくのも良いでしょう。}
+Dialogue: 0,0:30:23.67,0:30:27.72,Default,Ingo,0,0,0,,If they do win, it might increase the school's prestige.{NOTE:優勝でもしてくれれば、高名を上げることになりますからね。}
+Dialogue: 0,0:30:27.72,0:30:28.97,Default,Hayakawa,0,0,0,,I will do my best.{NOTE:頑張ります。}
+Dialogue: 0,0:30:28.97,0:30:31.89,Default,Hayakawa,0,0,0,,We will certainly win the tournament.{NOTE:選手権大会には必ず優勝して見せます。}
+Dialogue: 0,0:30:33.18,0:30:34.43,Default,Hayakawa,0,0,0,,There's no way we'll lose.{NOTE:絶対に優勝します。}
+Dialogue: 0,0:30:40.40,0:30:41.73,Default,Ookii,0,0,0,,Thank you, Hayakawa-san.{NOTE:早川さん、ありがとう。}
+Dialogue: 0,0:30:41.73,0:30:44.23,Default,Ookii,0,0,0,,It's wonderful that we can practice here.{NOTE:ここで練習出来ると本当に素敵。}
+Dialogue: 0,0:30:44.23,0:30:46.28,Default,Ayuhara,0,0,0,,Thank you, Hayakawa-san.{NOTE:早川さん、どうもありがとう。}
+Dialogue: 0,0:30:46.28,0:30:49.16,Default,Hayakawa,0,0,0,,Ah, for being able to practice here?{NOTE:え？あ、ここで練習出来る事？}
+Dialogue: 0,0:30:49.16,0:30:50.49,Default,Hayakawa,0,0,0,,It's only natural.{NOTE:当然の事よ。}
+Dialogue: 0,0:30:50.49,0:30:53.91,Default,Hayakawa,0,0,0,,It's all for the victory in the tournament.{NOTE:選手権大会で有償を目指すバレー部としてわね。}
+Dialogue: 0,0:30:53.91,0:30:55.20,Default,Hayakawa,0,0,0,,Now, let's practice.{NOTE:さ、はりきって練習しましょう。}
+Dialogue: 0,0:30:56.37,0:30:57.71,Default,Hayakawa,0,0,0,,You better do you best too.{NOTE:あんたたち、しっかりしてね。}
+Dialogue: 0,0:30:59.04,0:31:02.17,Default,Hayakawa,0,0,0,,I heard about your reputation of the "useless group".{NOTE:不良グループで有名だったそうじゃないの？聞いたわよ。}
+Dialogue: 0,0:31:02.17,0:31:04.59,Default,Kashiwagi,0,0,0,,Don't say that, it makes my ears hurt.{NOTE:それを言わないでよ。耳が痛いわ。}
+Dialogue: 0,0:31:04.59,0:31:06.84,Default,Nakazawa,0,0,0,,That's an old story. We're different now.{NOTE:それは昔のこと。今は違うわよ。}
+Dialogue: 0,0:31:06.84,0:31:08.76,Default,Fukuda,0,0,0,,Exactly! We're serious now.{NOTE:そうよ。ぐっと真面目に成ってんだから。}
+Dialogue: 0,0:31:08.76,0:31:11.34,Default,Ookii,0,0,0,,That's because of volleyball, right?{NOTE:おれも皆バレーを始めたお陰ね。}
+Dialogue: 0,0:31:11.34,0:31:12.93,Default,Ikezaki,0,0,0,,Yep. It's thanks to volleyball.{NOTE:そう。バレーのお陰よ。}
+Dialogue: 0,0:31:14.14,0:31:15.31,Default,Hayakawa,0,0,0,,That's not it, isn't it?{NOTE:そうじゃないでしょう？}
+Dialogue: 0,0:31:15.31,0:31:15.77,Default,Kashiwagi,0,0,0,,Huh?{NOTE:え？}
+Dialogue: 0,0:31:15.77,0:31:17.35,Default,Kashiwagi,0,0,0,,Then what is it?{NOTE:じゃ、何だって言うのよ？}
+Dialogue: 0,0:31:17.35,0:31:22.15,Default,Hayakawa,0,0,0,,If it wasn't for Ayuhara-san, you'd get expelled from the school, no?{NOTE:もし鮎原さんがいなければ、あんた達退学処分に成っていたって言うじゃないの？}
+Dialogue: 0,0:31:22.15,0:31:24.48,Default,Kashiwagi,0,0,0,,Eh?! Who said that?{NOTE:へ？誰がそんな事言ったの？}
+Dialogue: 0,0:31:24.48,0:31:26.32,Default,Hayakawa,0,0,0,,I heard that from Ayuhara-san.{NOTE:鮎原さんから聞いたのよ。}
+Dialogue: 0,0:31:26.32,0:31:29.07,Default,(mixed),0,0,0,,– Captain did?\N– I never said such thing.{NOTE:—キャプテンが？\\N—私そんな事を言わないわ。}
+Dialogue: 0,0:31:29.86,0:31:32.66,Default,Hayakawa,0,0,0,,Ayuhara-san, it's okay to be open about this.{NOTE:鮎原さん、隠さなくてもいいじゃないの？}
+Dialogue: 0,0:31:32.66,0:31:34.45,Default,Hayakawa,0,0,0,,Haven't you told me it earlier?{NOTE:昨日私にはっきりそう言った}
+Dialogue: 0,0:31:34.45,0:31:35.45,Default,Ayuhara,0,0,0,,But…{NOTE:そ、そんな。}
+Dialogue: 0,0:31:37.04,0:31:39.79,Default,Ayuhara,0,0,0,,I… I really didn't.{NOTE:ほ、本当、本当言わないわ、私。}
+Dialogue: 0,0:31:41.50,0:31:44.21,Default,Fukuda,0,0,0,,We do owe Ayuhara-san.{NOTE:それは鮎原さんのお陰だと思ってるけど。}
+Dialogue: 0,0:31:44.21,0:31:46.38,Default,(mixed),0,0,0,,– But expulsion…?\N– That's cruel.{NOTE:—でも退学処分だなんて…\\N—ひどいわ。}
+Dialogue: 0,0:31:46.38,0:31:47.76,Default,Ikezaki,0,0,0,,Yes, it's just heartless.{NOTE:そう。ひどすぎるわよ。}
+Dialogue: 0,0:31:48.80,0:31:50.59,Default,Nakazawa,0,0,0,,What's the meaning of this?{NOTE:ちょっと、どう言う事なのよ？}
+Dialogue: 0,0:31:51.30,0:31:53.43,Default,Hayakawa,0,0,0,,Everyone, let it be.{NOTE:皆もいいでしょう？XX事じゃないの。}
+Dialogue: 0,0:31:54.05,0:31:55.89,Default,Hayakawa,0,0,0,,If we win the tournament, let's just forget it.{NOTE:有償をするX忘れちゃうわよ。}
+Dialogue: 0,0:31:55.89,0:31:56.97,Default,Hayakawa,0,0,0,,Let's practice.{NOTE:さ、練習よ。}
+Dialogue: 0,0:32:00.10,0:32:01.10,Default,Nakazawa,0,0,0,,Hmph! Stick it.{NOTE:何さ、フン！}
+Dialogue: 0,0:32:06.57,0:32:08.94,Default,Hayakawa,0,0,0,,Everyone, be serious. Toss the ball.{NOTE:皆はりきって。トス上げて。}
+Dialogue: 0,0:32:08.94,0:32:10.28,Default,Fukuda,0,0,0,,Hayakawa-san, here goes.{NOTE:早川さん、行くわよ。}
+Dialogue: 0,0:32:10.28,0:32:11.11,Default,Fukuda,0,0,0,,Here!{NOTE:はい！}
+Dialogue: 0,0:32:15.03,0:32:16.58,Alternative,Ayuhara,0,0,0,,That's… that's terrible.{NOTE:ひどい。ひどいわ！}
+Dialogue: 0,0:32:17.66,0:32:20.33,Default,Katsuragi,0,0,0,,I don't think you're such a person.{NOTE:私はあなたがそんな人だと思ってないわ。}
+Dialogue: 0,0:32:21.33,0:32:23.17,Default,Kashiwagi,0,0,0,,Yeah, me neither.{NOTE:そうよ。私もよ。}
+Dialogue: 0,0:32:24.50,0:32:27.17,Default,Kashiwagi,0,0,0,,Midori was like that since elementary school.{NOTE:みどりってね、小学校の時からあんなのよ。}
+Dialogue: 0,0:32:27.17,0:32:29.42,Default,Kashiwagi,0,0,0,,She's wealthy, alone and selfish.{NOTE:金持ちで一人娘で我侭なのよ。}
+Dialogue: 0,0:32:30.05,0:32:31.05,Default,Ayuhara,0,0,0,,Huh…{NOTE:ま。}
+Dialogue: 0,0:32:31.05,0:32:32.55,Default,Hayakawa,0,0,0,,Listen, everyone.{NOTE:皆聞いて。}
+Dialogue: 0,0:32:32.55,0:32:36.55,Default,Hayakawa,0,0,0,,The Fujimi Academy hasn't won a match even once.{NOTE:この富士見学園のバレー部は試合に一度も向かった事がないそうね。}
+Dialogue: 0,0:32:36.55,0:32:42.02,Default,Hayakawa,0,0,0,,I want a team that is a capable of winning the upcoming tournament.{NOTE:私不明なXXX大会で優勝出来るようなチームにしたいの。}
+Dialogue: 0,0:32:42.02,0:32:44.52,Default,Hayakawa,0,0,0,,I also think that we need a resolute captain.{NOTE:それには優れたキャプテンが必要だと思うわ。}
+Dialogue: 0,0:32:46.23,0:32:48.02,Default,Ookii,0,0,0,,Hayakawa-san would be good.{NOTE:早川さんがいいわよ。}
+Dialogue: 0,0:32:48.02,0:32:49.98,Default,Ikezaki,0,0,0,,We'd get far with under Midori, don't you think?{NOTE:みどりはキャプテン成ったわいいんじゃない？}
+Dialogue: 0,0:32:49.98,0:32:50.69,Default,Nakazawa,0,0,0,,Yeah.{NOTE:そうね。}
+Dialogue: 0,0:32:50.69,0:32:51.90,Default,Hayakawa,0,0,0,,What are you saying?{NOTE:何よあんたたち？}
+Dialogue: 0,0:32:55.49,0:32:58.28,Default,Kashiwagi,0,0,0,,You have some nerve saying that.{NOTE:ちょっと、よくもそんな事が言えるのね。}
+Dialogue: 0,0:32:58.28,0:33:00.41,Default,Kashiwagi,0,0,0,,Who do you think gathered us here?{NOTE:誰のお陰でXX思ってるのよ。}
+Dialogue: 0,0:33:00.41,0:33:02.00,Default,Kashiwagi,0,0,0,,Have you forgotten already!?{NOTE:分かんないの？}
+Dialogue: 0,0:33:02.00,0:33:04.29,Default,Nakazawa,0,0,0,,Even so, Ayuhara-san said all those thing—{NOTE:だって、鮎原さんはあんな酷い事さ。}
+Dialogue: 0,0:33:04.29,0:33:06.63,Default,Kashiwagi,0,0,0,,Do you really think our captain would do that?{NOTE:キャプテンがあんな事言う人かどうか分かるでしょ？}
+Dialogue: 0,0:33:08.04,0:33:10.84,Default,Kashiwagi,0,0,0,,Midori, what on earth are you scheming?{NOTE:みどり、あんた一体何企んてんのよ？}
+Dialogue: 0,0:33:10.84,0:33:12.51,Default,Kashiwagi,0,0,0,,Stop being so egocentric.{NOTE:我侭がいい加減にしてよ。}
+Dialogue: 0,0:33:12.51,0:33:17.14,Default,Kashiwagi,0,0,0,,If you only think about yourself, you'll trip soon enough, Midori.{NOTE:何が何でも、自分の思うままに成るなんて考えたら、とんでもない間違いよ、みどり。}
+Dialogue: 0,0:33:17.14,0:33:18.76,Default,Kashiwagi,0,0,0,,Hey, it's about time you said something!{NOTE:何だか言ってればどうなのよ？}
+Dialogue: 0,0:33:18.76,0:33:19.85,Default,Ayuhara,0,0,0,,Kashiwagi-san.{NOTE:柏木さん。}
+Dialogue: 0,0:33:20.93,0:33:22.02,Default,Ayuhara,0,0,0,,It's okay already.{NOTE:もういいのよ。}
+Dialogue: 0,0:33:22.02,0:33:23.77,Default,Kashiwagi,0,0,0,,But she…{NOTE:だって、あんまりk}
+Dialogue: 0,0:33:23.77,0:33:24.69,Default,Ayuhara,0,0,0,,Hayakawa-san.{NOTE:早川さん。}
+Dialogue: 0,0:33:26.10,0:33:27.94,Default,Ayuhara,0,0,0,,I'm giving up my captain title.{NOTE:私キャプテン降りるわ。}
+Dialogue: 0,0:33:30.82,0:33:31.90,Default,Katsuragi,0,0,0,,Ayuhara-san!{NOTE:鮎原さん。}
+Dialogue: 0,0:33:33.19,0:33:35.28,Default,Hayakawa,0,0,0,,Ayuhara-san, don't get me wrong.{NOTE:鮎原さん、誤解しないで。}
+Dialogue: 0,0:33:35.28,0:33:39.16,Default,Hayakawa,0,0,0,,I wanted to be the captain, but that's not what I've asked the vice principal for.{NOTE:私は何も、キャプテンに成りたくて教頭先生の所行ったんじゃないのよ。}
+Dialogue: 0,0:33:39.16,0:33:41.37,Default,Hayakawa,0,0,0,,I'm only thinking of the volleyball club.{NOTE:バレー部のためを思っての事よ。}
+Dialogue: 0,0:33:41.37,0:33:44.87,Default,Hayakawa,0,0,0,,Also it's not up to oneself to become or quit being a captain.{NOTE:それに、キャプテンは自分で決めたり、止めたりするもんじゃないわ。}
+Dialogue: 0,0:33:44.87,0:33:46.79,Default,Hayakawa,0,0,0,,It's a decision of everyone.{NOTE:皆が決めるものよ。そうでしょう？}
+Dialogue: 0,0:33:58.09,0:33:59.18,Default,Ichinose,0,0,0,,Ayuhara-kun.{NOTE:鮎原くん。}
+Dialogue: 0,0:33:59.18,0:34:00.56,Default,Ichinose,0,0,0,,Here you are.{NOTE:こんな所にいたのか？}
+Dialogue: 0,0:34:00.56,0:34:02.47,Default,Ichinose,0,0,0,,I came all the way from home.{NOTE:家までいったんだぜ。}
+Dialogue: 0,0:34:02.47,0:34:03.47,Default,Ayuhara,0,0,0,,Do you need anything?{NOTE:何かよう？}
+Dialogue: 0,0:34:05.56,0:34:08.06,Default,Ichinose,0,0,0,,I heard you resigned.{NOTE:キャプテンを降りるって言ったんだってね。}
+Dialogue: 0,0:34:08.06,0:34:09.44,Default,Ichinose,0,0,0,,Everyone heard.{NOTE:皆聞いたよ。}
+Dialogue: 0,0:34:09.44,0:34:12.57,Default,Ichinose,0,0,0,,Kashiwagi-san is really worried about you.{NOTE:柏木さんが君の事とても心配してたよ。}
+Dialogue: 0,0:34:12.57,0:34:18.70,Default,Ichinose,0,0,0,,People like Midori-san are restless since their childhoods until they're treated like a queen.{NOTE:みどりさんってね、小さい時から自分が女王に成らなければ気が済まないって言う。}
+Dialogue: 0,0:34:18.70,0:34:20.53,Default,Ichinose,0,0,0,,That's the truth of it.{NOTE:正確なんだ。}
+Dialogue: 0,0:34:20.53,0:34:21.58,Default,Ayuhara,0,0,0,,I see.{NOTE:そう。}
+Dialogue: 0,0:34:21.58,0:34:24.12,Default,Ayuhara,0,0,0,,But why does she want to become a captain so much?{NOTE:でもなんであんなにまでキャプテンに成りたいのかしら？}
+Dialogue: 0,0:34:24.12,0:34:26.79,Default,Ayuhara,0,0,0,,I'd be fine if I wasn't captain.{NOTE:私はキャプテンじゃなくても結構よ。}
+Dialogue: 0,0:34:26.79,0:34:29.33,Default,Ichinose,0,0,0,,Don't talk like that. It's not like you.{NOTE:そんな言い方を止せよ。君らしくないぜ。}
+Dialogue: 0,0:34:29.33,0:34:32.38,Default,Ichinose,0,0,0,,I could probably talk her out of it.{NOTE:それは僕から彼女に話してやってもいいけど。}
+Dialogue: 0,0:34:32.38,0:34:38.26,Default,Ichinose,0,0,0,,However, it'd be better if\hyou resolved it by yourself.{NOTE:しかし、出来る事なら、バレー部の中で、つまり君達だけで解決して欲しいな。}
+Dialogue: 0,0:34:38.26,0:34:42.39,Default,Ichinose,0,0,0,,With the tournament around the corner, it's the most important time for your club.{NOTE:大会を控えて、富士見学園バレー部の今が一番大切な時じゃないか。}
+Dialogue: 0,0:34:49.44,0:34:51.19,Default,Ichinose,0,0,0,,What's wrong, new captain?{NOTE:どうしたんだ、新キャプテン？}
+Dialogue: 0,0:34:51.90,0:34:52.82,Default,Ichinose,0,0,0,,Get a grip!{NOTE:しっかりしろ。}
+Dialogue: 0,0:34:55.57,0:34:58.86,Default,Ichinose,0,0,0,,Haven't you found your purpose in the volleyball club?{NOTE:君は…バレーボールに目的を見つけたんじゃなかったのか？}
+Dialogue: 0,0:34:58.86,0:35:01.62,Default,Ichinose,0,0,0,,Or did you lose your motivation already?{NOTE:それとも、又空気の抜けた風船みたいに成っちゃったのか？}
+Dialogue: 0,0:35:03.37,0:35:04.83,Default,Ichinose,0,0,0,,Quit volleyball!{NOTE:バレー何か止めちまえ！}
+Dialogue: 0,0:35:04.83,0:35:06.29,Default,Ayuhara,0,0,0,,Quit!?{NOTE:止めちまえですって！？}
+Dialogue: 0,0:35:07.20,0:35:09.17,Default,Ichinose,0,0,0,,Well, with the way you're now…{NOTE:だって、今の君は…}
+Dialogue: 0,0:35:10.21,0:35:12.59,Default,Ayuhara,0,0,0,,I still have the patience for this.{NOTE:これでも凝乎と我慢してるのよ。}
+Dialogue: 0,0:35:12.59,0:35:15.59,Default,Ayuhara,0,0,0,,What would happen if we had a fight now?{NOTE:もし私達が喧嘩でもしたら、どう成ると思うの？}
+Dialogue: 0,0:35:16.51,0:35:18.22,Default,Ayuhara,0,0,0,,Volleyball club will end.{NOTE:バレー部はお終いよ。}
+Dialogue: 0,0:35:18.22,0:35:20.09,Default,Ayuhara,0,0,0,,I love volleyball.{NOTE:私はバレーボールが大好きなの。}
+Dialogue: 0,0:35:20.09,0:35:24.81,Default,Ayuhara,0,0,0,,That's why even if Hayakawa-san did become a captain, I'd still be okay with it.{NOTE:だから、早川さんがキャプテンに成ってバレー部が上手くいってなら、それでもいいと思っているのよ。}
+Dialogue: 0,0:35:33.69,0:35:34.82,Default,Ayuhara,0,0,0,,I'm home.{NOTE:ただいま。}
+Dialogue: 0,0:35:35.48,0:35:37.69,Sign,,0,0,0,,To Ayuhara Kozue-sama{NOTE:鮎原こずえ様}
+Dialogue: 0,0:35:38.53,0:35:39.57,Default,Ayuhara,0,0,0,,Who left it here?{NOTE:誰かしら？}
+Dialogue: 0,0:35:39.57,0:35:41.99,Default,Ayuhara,0,0,0,,There's no stamp. It must have been delivered directly.{NOTE:切ってが貼ってないわ。直接持ってきたものね。}
+Dialogue: 0,0:35:46.79,0:35:48.00,Default,Ayuhara,0,0,0,,"Ayuhara-san."{NOTE:鮎原さん。}
+Dialogue: 0,0:35:48.00,0:35:51.54,Default,Ayuhara,0,0,0,,"I want to talk with you alone."{NOTE:あんたと二人きりで話したい事があります。}
+Dialogue: 0,0:35:51.54,0:35:57.21,Alternative,Hayakawa,0,0,0,,"Please meet me at 7 AM at the volleyball club's room."{NOTE:明日の朝誰も投稿しないうちに会いたいので7時までにバレー部の部屋まで来てください。}
+Dialogue: 0,0:35:57.21,0:35:58.38,Default,Ayuhara,0,0,0,,Hayakawa-san, huh?{NOTE:早川さんね？}
+Dialogue: 0,0:35:58.38,0:36:01.26,Default,Ayuhara,0,0,0,,I wonder what she wants to talk to me about this time?{NOTE:今度は何を放したいって言うのかしら？}
+Dialogue: 0,0:36:08.39,0:36:09.68,Default,Fukuda,0,0,0,,Hayakawa-san!{NOTE:早川さん！}
+Dialogue: 0,0:36:14.86,0:36:16.23,Default,Fukuda,0,0,0,,Why are we here so early?{NOTE:どうしてこんな早くから？}
+Dialogue: 0,0:36:17.02,0:36:20.36,Default,Hayakawa,0,0,0,,I forgot to lock the door yesterday.{NOTE:私昨日部屋に鍵をかけるの忘れてたの。}
+Dialogue: 0,0:36:20.36,0:36:21.70,Default,Hayakawa,0,0,0,,I realized only this morning.{NOTE:今朝気がついたのよ。}
+Dialogue: 0,0:36:21.70,0:36:25.78,Default,Hayakawa,0,0,0,,It'd be bad if our equipment was stolen, and this is why I've asked you to come.{NOTE:もしバレー部のものがなくなっていたら、大変だか、らそれであなたたちに来てもらったの。}
+Dialogue: 0,0:36:25.53,0:36:30.37,Sign,,0,0,0,,Volleyball club's room{NOTE:バレー部室}
+Dialogue: 0,0:36:30.12,0:36:32.00,Default,Hayakawa,0,0,0,,It is unlocked all right.{NOTE:やっぱりかかってないわ。}
+Dialogue: 0,0:36:32.00,0:36:33.33,Default,Hayakawa,0,0,0,,Ah.{NOTE:あ。}
+Dialogue: 0,0:36:33.33,0:36:34.58,Default,Hayakawa,0,0,0,,Ayuhara-san!{NOTE:鮎原さん！}
+Dialogue: 0,0:36:34.58,0:36:38.30,Default,Nakazawa,0,0,0,,Ayuhara-san, what are you doing here so early?{NOTE:鮎原さん、あなた…何してんの、こんな時間に。}
+Dialogue: 0,0:36:38.30,0:36:40.21,Default,Ayuhara,0,0,0,,You come at the right moment. Look at this.{NOTE:丁度いい所へ来た。これ見てよ。}
+Dialogue: 0,0:36:41.72,0:36:42.80,Default,Ikezaki,0,0,0,,How terrible!{NOTE:ま、酷い。}
+Dialogue: 0,0:36:42.80,0:36:44.14,Default,Fukuda,0,0,0,,The net is torn too.{NOTE:ネットもずたずたよ。}
+Dialogue: 0,0:36:44.14,0:36:46.64,Default,Nakazawa,0,0,0,,Who would do such a thing?{NOTE:お、誰がこんな酷い事を…}
+Dialogue: 0,0:36:46.64,0:36:48.31,Default,Hayakawa,0,0,0,,Someone who hates volleyball club.{NOTE:バレー部を憎んでいる人ね、きっと。}
+Dialogue: 0,0:36:49.68,0:36:50.89,Default,Hayakawa,0,0,0,,Ayuhara-san, what is this?{NOTE:鮎原さん、それは？}
+Dialogue: 0,0:36:50.89,0:36:51.48,Default,Ayuhara,0,0,0,,Eh?{NOTE:え？}
+Dialogue: 0,0:36:51.48,0:36:54.69,Default,Ayuhara,0,0,0,,This? It was lying here. They probably used this.{NOTE:あ、これここに落ちてたの。これで切ったらしいわ。}
+Dialogue: 0,0:36:54.69,0:36:58.02,Default,Hayakawa,0,0,0,,Ayuhara-san, you're pretty dreadful person.{NOTE:鮎原さん、あなたって人は随分恐ろしい人ね。}
+Dialogue: 0,0:36:58.02,0:36:59.44,Default,Ayuhara,0,0,0,,Huh? What are you talking about?{NOTE:え？何の事？}
+Dialogue: 0,0:36:59.44,0:37:01.86,Default,Hayakawa,0,0,0,,Ayuhara-san, you're holding a\hgrudge against me.{NOTE:鮎原さん、あなた私を恨んでるはずよ。}
+Dialogue: 0,0:37:01.86,0:37:02.78,Default,Hayakawa,0,0,0,,Is that right?{NOTE:そうでしょう？}
+Dialogue: 0,0:37:02.78,0:37:03.86,Default,Ayuhara,0,0,0,,Eh?{NOTE:え？}
+Dialogue: 0,0:37:08.58,0:37:11.25,Default,Ayuhara,0,0,0,,Ha-Ha-Hayakawa-san, are you saying it was me?{NOTE:あ、は、早川さん、私がしたとでも言うの？}
+Dialogue: 0,0:37:12.46,0:37:16.04,Default,Hayakawa,0,0,0,,No matter how big I hold the grudge against you,\NI'd never destroy important equipment.{NOTE:いくら私に恨みがあるからって、大事なと道具を傷つける事はないでしょう。}
+Dialogue: 0,0:37:16.96,0:37:17.79,Default,Hayakawa,0,0,0,,What?{NOTE:何よ。}
+Dialogue: 0,0:37:19.38,0:37:21.51,Default,Hayakawa,0,0,0,,I'm finished listening to our captain.{NOTE:キャプテンが聞いて呆れるわ。}
+Dialogue: 0,0:37:21.51,0:37:22.92,Default,Hayakawa,0,0,0,,Aren't you, everyone?{NOTE:皆もそう思わない？}
+Dialogue: 0,0:37:22.92,0:37:26.84,Default,Hayakawa,0,0,0,,Don't you think the title of captain doesn't fit Ayuhara-san?{NOTE:こんな事をする何て、この鮎原さんにキャプテンの資格があると思って？}
+Dialogue: 0,0:37:26.84,0:37:28.55,Default,Hayakawa,0,0,0,,Hey, girls.{NOTE:ね、皆。}
+Dialogue: 0,0:37:28.55,0:37:29.85,Default,Nakazawa,0,0,0,,I'm disappointed in you.{NOTE:見損成ったわね。}
+Dialogue: 0,0:37:29.85,0:37:31.81,Default,Nakazawa,0,0,0,,I didn't think you're such a person.{NOTE:こんなことまでする人と思わなかったわよ。}
+Dialogue: 0,0:37:35.98,0:37:37.31,Default,Hayakawa,0,0,0,,What's so funny?{NOTE:何が可笑しいのよ！}
+Dialogue: 0,0:37:37.98,0:37:40.98,Default,Ayuhara,0,0,0,,Hayakawa-san, do you want to\hbecome the captain this bad?{NOTE:早川さん。こんなにまでしてキャプテンに成りたいの？}
+Dialogue: 0,0:37:40.98,0:37:43.11,Default,Ayuhara,0,0,0,,If that's the case, just say so openly!{NOTE:そうなら、そうとはっきり言えばいいのに。}
+Dialogue: 0,0:37:43.11,0:37:46.66,Default,Ayuhara,0,0,0,,Don't resort to writing some roundabout letters.{NOTE:こんな手紙まで書いて、随分回りくどいけどこんな事したものね。}
+Dialogue: 0,0:37:51.58,0:37:52.54,Default,Hayakawa,0,0,0,,What's with that look?{NOTE:何よその目は！}
+Dialogue: 0,0:37:54.21,0:37:57.54,Default,Hayakawa,0,0,0,,Are you trying to weasel your way out of this by framing me?{NOTE:訳の分からない言い掛かりをつけて、私を喧嘩をしようって言うの？}
+Dialogue: 0,0:38:02.76,0:38:06.93,Default,Hayakawa,0,0,0,,Ayuhara-san, I think it's clear that you don't deserve the title of captain.{NOTE:鮎原さん、これであなたにキャプテンの資格がない事がはっきりしたわね。}
+Dialogue: 0,0:38:06.93,0:38:08.39,Default,Hayakawa,0,0,0,,Let's go, everyone.{NOTE:さ、皆行きましょう。}
+Dialogue: 0,0:38:09.51,0:38:10.51,Default,(unison),0,0,0,,Yep.{NOTE:うん。}
+Dialogue: 0,0:38:10.51,0:38:11.43,Default,(unknown),0,0,0,,Let's go, let's go.{NOTE:行こう行こう。}
+Dialogue: 0,0:38:13.27,0:38:15.94,Default,Nakazawa,0,0,0,,Hayakawa-san really should be our captain.{NOTE:やっぱり、キャプテンは早川さんのはXXね。}
+Dialogue: 0,0:38:19.23,0:38:21.90,Alternative,Ayuhara,0,0,0,,Look at me, trying to do my best for the club…{NOTE:バレー部のために一所懸命我慢したのに。}
+Dialogue: 0,0:38:49.22,0:38:51.30,Default,Hayakawa,0,0,0,,Okay, throw me a lot!{NOTE:さ、どんどん投げて！}
+Dialogue: 0,0:38:51.30,0:38:54.18,Default,Kashiwagi,0,0,0,,Hayakawa-san's practicing all by herself.{NOTE:さきから早川さんばかり練習してるわ。}
+Dialogue: 0,0:38:54.18,0:38:56.43,Default,Hara,0,0,0,,What about us?{NOTE:あ、私達どうしたらいいの？}
+Dialogue: 0,0:38:56.43,0:38:58.44,Default,(unknown),0,0,0,,We want to practice too.{NOTE:私達練習したいわ。}
+Dialogue: 0,0:38:58.44,0:39:00.27,Default,Ayuhara,0,0,0,,Well then, let us begin too.{NOTE:さ、皆で練習しましょうよ。}
+Dialogue: 0,0:39:00.27,0:39:01.56,Default,Kashiwagi,0,0,0,,I've been waiting for this!{NOTE:待ってました！}
+Dialogue: 0,0:39:01.56,0:39:04.28,Default,Ayuhara,0,0,0,,All right, don't hold back.{NOTE:さ、さ、何も遠慮する事ないわよ。ね？}
+Dialogue: 0,0:39:04.28,0:39:06.03,Default,Hara,0,0,0,,Yeah, let's go.{NOTE:行けましょう。}
+Dialogue: 0,0:39:06.03,0:39:08.78,Default,Hayakawa,0,0,0,,Wait, I'm not through my own practice yet.{NOTE:あら、未だ私練習中よ。}
+Dialogue: 0,0:39:08.78,0:39:09.74,Default,(unison),0,0,0,,Eh?{NOTE:え？}
+Dialogue: 0,0:39:11.57,0:39:14.37,Default,Ayuhara,0,0,0,,I think you've practiced enough already.{NOTE:あら？それだけ練習すれば十分よ。}
+Dialogue: 0,0:39:14.37,0:39:17.08,Default,Hayakawa,0,0,0,,But the match is just the day after tomorrow.{NOTE:だって、試合は明後日なのに。}
+Dialogue: 0,0:39:17.08,0:39:21.04,Default,Ayuhara,0,0,0,,That's precisely why – it's meaningless if you get good only by yourself.{NOTE:だからこそあなた一人だけがいくら上手くなっても、何も成らないわ。}
+Dialogue: 0,0:39:21.04,0:39:23.50,Default,Hayakawa,0,0,0,,Do you have a problem with my methods?{NOTE:私のやり方に不満があるの？}
+Dialogue: 0,0:39:23.50,0:39:24.13,Default,Ayuhara,0,0,0,,I do.{NOTE:あるわ。}
+Dialogue: 0,0:39:24.13,0:39:24.88,Default,Katsuragi,0,0,0,,Me too.{NOTE:私も。}
+Dialogue: 0,0:39:24.88,0:39:26.92,Default,Hayakawa,0,0,0,,I am the captain here.{NOTE:私はキャプテンよ。}
+Dialogue: 0,0:39:26.92,0:39:29.43,Default,Hayakawa,0,0,0,,I've been chosen by everyone's free will.{NOTE:皆の遺志でキャプテンに成ったのよ。}
+Dialogue: 0,0:39:29.43,0:39:31.22,Default,Hayakawa,0,0,0,,That's why we're going to have it my way.{NOTE:私は私のやり方で通すわ。}
+Dialogue: 0,0:39:35.26,0:39:41.77,Sign,,0,0,0,,{\fad(2700,0)}Toukai district middle school volleyball championship\NCity Gym{NOTE:東海地区中学校バレー選手権大会}
+Dialogue: 0,0:39:45.48,0:39:47.44,Default,Ichinose,0,0,0,,As expected from a strong candidate.{NOTE:さすがに有力候補だ。}
+Dialogue: 0,0:39:47.44,0:39:48.74,Default,Ichinose,0,0,0,,It sure is lively.{NOTE:張り切ったな。}
 Dialogue: 0,0:39:48.90,0:39:50.82,Lyrics English,,0,0,0,,{\an8\k41}Go! {\k50}Go! {\k20}Mi{\k20}ka{\k58}wa!{NOTE:フレ！フレ！三河！}
-Dialogue: 0,0:39:50.24,0:39:54.74,Default,Audience,0,0,0,,{NOTE:でも、各力が第一もいいけどこう言う時はやっぱり応援団ぐらい欲しいな。}
-Dialogue: 0,0:39:55.58,0:39:59.16,Default,Audience,0,0,0,,{NOTE:しょっぱなから、強敵三河中学とはついてないよな。}
-Dialogue: 0,0:39:59.16,0:40:03.13,Default,Ichinose,0,0,0,,{NOTE:何、富士見学園のバレー部には鮎原と早川あるさ。}
-Dialogue: 0,0:40:03.13,0:40:04.96,Default,Hongou,0,0,0,,{NOTE:や、全然勝ち目がないさ。}
-Dialogue: 0,0:40:04.96,0:40:06.09,Default,Ichinose,0,0,0,,{NOTE:何だって？}
-Dialogue: 0,0:40:06.09,0:40:07.50,Default,Ichinose,0,0,0,,{NOTE:お、本郷先生。}
-Dialogue: 0,0:40:08.30,0:40:12.93,Default,Hongou,0,0,0,,{NOTE:こんな風じゃ、相手が三河中学だろうとどこだろうと絶対に勝てません。}
-Dialogue: 0,0:40:13.97,0:40:15.26,Default,Ayuhara,0,0,0,,{NOTE:さ、行くわよ。}
-Dialogue: 0,0:40:30.15,0:40:31.49,Default,Ayuhara,0,0,0,,{NOTE:早川さん、落ち着いて。}
-Dialogue: 0,0:40:31.49,0:40:32.49,Default,Hayakawa,0,0,0,,{NOTE:分かってるわ。}
-Dialogue: 0,0:40:42.87,0:40:44.42,Default,Ikezaki,0,0,0,,{NOTE:へ、変ね。}
-Dialogue: 0,0:40:44.42,0:40:46.25,Default,Ikezaki,0,0,0,,{NOTE:いつもあんなに上手いのに。}
-Dialogue: 0,0:40:47.13,0:40:49.92,Default,Ayuhara,0,0,0,,{NOTE:早川さん、試合の経験どれぐらいなの？}
-Dialogue: 0,0:40:49.92,0:40:52.55,Default,Hayakawa,0,0,0,,{NOTE:試合？試合は今日が始めてよ。}
-Dialogue: 0,0:40:52.55,0:40:54.72,Default,Ayuhara,0,0,0,,{NOTE:え？は、始めて？}
-Dialogue: 0,0:40:56.93,0:41:00.22,Default,Hayakawa,0,0,0,,{NOTE:そうよ。だって、皆怖かって誰にも相手に成らないんだもん。}
-Dialogue: 0,0:41:01.39,0:41:05.52,Default,Ayuhara,0,0,0,,{NOTE:分かったわ。前の学校のバレー部でも、あなたのワンマンについていけずk}
-Dialogue: 0,0:41:05.52,0:41:07.11,Default,Ayuhara,0,0,0,,{NOTE:…誰も相手にしなかったのね。}
-Dialogue: 0,0:41:07.11,0:41:09.94,Default,Hayakawa,0,0,0,,{NOTE:煩いわね。私はバレーは誰にも負けないわ。}
-Dialogue: 0,0:41:09.94,0:41:10.94,Default,Hayakawa,0,0,0,,{NOTE:負けるもんか？}
-Dialogue: 0,0:41:10.48,0:41:11.99,Blackboard,,0,0,0,,{NOTE:三河中学・富士見学園}
-Dialogue: 0,0:41:18.70,0:41:19.70,Default,Ayuhara,0,0,0,,{NOTE:早川さん！}
-Dialogue: 0,0:41:24.96,0:41:25.87,Default,Katsuragi,0,0,0,,{NOTE:鮎原さん！}
-Dialogue: 0,0:41:29.84,0:41:32.13,Default,Audience,0,0,0,,{NOTE:くしょ、全然XX子供XX。}
-Dialogue: 0,0:41:32.13,0:41:33.34,Default,Audience,0,0,0,,{NOTE:見ていられない。}
-Dialogue: 0,0:41:33.34,0:41:34.59,Default,Audience,0,0,0,,{NOTE:その調子負けだ。}
-Dialogue: 0,0:41:35.22,0:41:37.18,Default,(unknown),0,0,0,,{NOTE:サーバーキープで！行くわよ！それ！}
-Dialogue: 0,0:41:46.90,0:41:48.02,Default,Ichinose,0,0,0,,{NOTE:やった！}
-Dialogue: 0,0:41:48.02,0:41:48.73,Default,Ayuhara,0,0,0,,{NOTE:アタック！}
-Dialogue: 0,0:41:53.53,0:41:54.90,Default,Ayuhara,0,0,0,,{NOTE:見た、早川さん？}
-Dialogue: 0,0:41:54.90,0:41:57.28,Default,Ayuhara,0,0,0,,{NOTE:これが試合よ。これがファイトなのよ。}
-Dialogue: 0,0:42:07.08,0:42:11.17,Default,Kashiwagi,0,0,0,,{NOTE:結局、鮎原さんのお陰で3点とったきりね。残念だわ。}
-Dialogue: 0,0:42:11.17,0:42:16.68,Default,Katsuragi,0,0,0,,{NOTE:今までは負けていたけど、今度だけは準優勝くらい出来ると思ったのに。}
-Dialogue: 0,0:42:16.68,0:42:19.18,Default,Hayakawa,0,0,0,,{NOTE:ちょっと、私のせいだって言うんでしょう。}
-Dialogue: 0,0:42:19.18,0:42:20.39,Default,(unison),0,0,0,,{NOTE:え！？}
-Dialogue: 0,0:42:20.39,0:42:23.27,Default,Hayakawa,0,0,0,,{NOTE:皆、皆私を笑っているんでしょう。}
-Dialogue: 0,0:42:23.27,0:42:25.52,Default,Nakazawa,0,0,0,,{NOTE:そ、そんな。}
-Dialogue: 0,0:42:25.52,0:42:28.48,Default,Ikezaki,0,0,0,,{NOTE:始めての試合ですもの。無理ないわ。}
-Dialogue: 0,0:42:28.48,0:42:31.19,Default,Hayakawa,0,0,0,,{NOTE:何言ってるの？初めてと何て問題じゃない。}
-Dialogue: 0,0:42:31.19,0:42:36.24,Default,Hayakawa,0,0,0,,{NOTE:あなた達さえ、あなた達さえしっかりしていれば、軽く勝ってなのに。}
-Dialogue: 0,0:42:36.24,0:42:37.57,Default,Ayuhara,0,0,0,,{NOTE:止してよ、早川さん。}
-Dialogue: 0,0:42:41.58,0:42:44.87,Default,Ayuhara,0,0,0,,{NOTE:あなたはバレーボールを何だと思ってるの？}
-Dialogue: 0,0:42:44.87,0:42:46.66,Default,Ayuhara,0,0,0,,{NOTE:チームワークのスポーツなのよ。}
-Dialogue: 0,0:42:46.66,0:42:50.83,Default,Hayakawa,0,0,0,,{NOTE:あら、鮎原さん。あなた私にバレーの講義をなさるおつもり？}
-Dialogue: 0,0:42:54.67,0:42:57.26,Default,Hayakawa,0,0,0,,{NOTE:あなたはあまりバレーの事をご存知ないのね。}
-Dialogue: 0,0:43:00.76,0:43:04.93,Default,Hayakawa,0,0,0,,{NOTE:強いバレーチームには必ずずば抜けたプレイヤーが要るものなのよ。}
-Dialogue: 0,0:43:04.93,0:43:09.06,Default,Ayuhara,0,0,0,,{NOTE:え。でも、それはここ一番と言う時に活躍出来る人の事。}
-Dialogue: 0,0:43:09.06,0:43:10.40,Default,Ayuhara,0,0,0,,{NOTE:あなたは違うわ。}
-Dialogue: 0,0:43:10.40,0:43:12.40,Default,Ayuhara,0,0,0,,{NOTE:自分一人だけ目立とうとしてるわ。}
-Dialogue: 0,0:43:13.86,0:43:15.90,Default,Hongou,0,0,0,,{NOTE:おい、そのXX。}
-Dialogue: 0,0:43:15.90,0:43:17.65,Default,Hongou,0,0,0,,{NOTE:ここはバスの中だぞ。}
-Dialogue: 0,0:43:17.65,0:43:20.53,Sign,,0,0,0,,{NOTE:校長室}
-Dialogue: 0,0:43:19.07,0:43:20.20,Default,Principal,0,0,0,,{NOTE:お？}
-Dialogue: 0,0:43:21.07,0:43:23.12,Default,Principal,0,0,0,,{NOTE:ボールのコーチをやりたい。}
-Dialogue: 0,0:43:23.99,0:43:24.83,Default,Hongou,0,0,0,,{NOTE:はい。}
-Dialogue: 0,0:43:24.83,0:43:29.25,Default,Principal,0,0,0,,{NOTE:しかし君、コーチと言っても、バレーの経験があるのかね？}
-Dialogue: 0,0:43:29.25,0:43:30.37,Default,Hongou,0,0,0,,{NOTE:いいえ、ありません。}
-Dialogue: 0,0:43:30.37,0:43:33.71,Default,Hongou,0,0,0,,{NOTE:でもあの、野球なら、大学時代ずっと選手をしていましたが。}
-Dialogue: 0,0:43:35.09,0:43:38.63,Default,Hongou,0,0,0,,{NOTE:校長先生。経験はなくても、コーチが出来ます。}
-Dialogue: 0,0:43:38.63,0:43:41.47,Default,Hongou,0,0,0,,{NOTE:ん、それは確かに今のバレー部はバラバラですが。}
-Dialogue: 0,0:43:41.47,0:43:44.30,Default,Hongou,0,0,0,,{NOTE:コーチさえでは、きっと立派なものに成ります。}
-Dialogue: 0,0:43:44.30,0:43:46.43,Default,Principal,0,0,0,,{NOTE:ん、そんなものですかな？}
-Dialogue: 0,0:43:46.43,0:43:49.02,Default,Principal,0,0,0,,{NOTE:え、ま、よろしい。それほど言うなら。}
-Dialogue: 0,0:43:49.02,0:43:51.06,Default,Hongou,0,0,0,,{NOTE:任せてくださるんですね。}
-Dialogue: 0,0:43:51.06,0:43:52.19,Default,Hongou,0,0,0,,{NOTE:ありがとうございます。}
-Dialogue: 0,0:43:53.23,0:43:56.07,Default,Hongou,0,0,0,,{NOTE:そん代わり、私のやり方に任せてください。}
-Dialogue: 0,0:43:58.90,0:43:59.90,Alternative,Hongou,0,0,0,,{NOTE:よし。}
-Dialogue: 0,0:44:00.78,0:44:02.87,Alternative,Hongou,0,0,0,,{NOTE:問題は鮎原、早川、あの二人だ。}
-Dialogue: 0,0:44:04.03,0:44:06.33,Alternative,Hongou,0,0,0,,{NOTE:必ず俺はあの二人を一つに纏めて見せる。}
-Dialogue: 0,0:44:26.51,0:44:28.47,Default,Ayuhara,0,0,0,,{NOTE:あ、お掃除は終わったわ。}
-Dialogue: 0,0:44:28.47,0:44:29.85,Default,(mixed),0,0,0,,{NOTE:—鮎原さん！\\N—はい。}
-Dialogue: 0,0:44:31.02,0:44:33.02,Default,(mixed),0,0,0,,{NOTE:—出る！\\N—え？何を？}
-Dialogue: 0,0:44:33.02,0:44:34.94,Default,Katsuragi,0,0,0,,{NOTE:コーチが決まったのよ。}
-Dialogue: 0,0:44:34.94,0:44:35.86,Default,Katsuragi,0,0,0,,{NOTE:本郷先生。}
-Dialogue: 0,0:44:35.86,0:44:36.82,Default,Ayuhara,0,0,0,,{NOTE:本当？あ、ぁ。}
-Dialogue: 0,0:44:38.98,0:44:40.19,Default,Ayuhara,0,0,0,,{NOTE:それ本当？}
-Dialogue: 0,0:44:40.19,0:44:41.20,Default,Katsuragi,0,0,0,,{NOTE:行きましょう。}
-Dialogue: 0,0:44:41.20,0:44:42.70,Default,Ayuhara,0,0,0,,{NOTE:え、レッツゴー！}
-Dialogue: 0,0:44:45.70,0:44:46.70,Default,Hongou,0,0,0,,{NOTE:XX。}
-Dialogue: 0,0:44:47.33,0:44:48.29,Default,Hongou,0,0,0,,{NOTE:何をしていた？}
-Dialogue: 0,0:44:48.95,0:44:51.12,Default,Ayuhara,0,0,0,,{NOTE:はい、あの、お掃除です。！}
-Dialogue: 0,0:44:51.75,0:44:53.08,Default,Hongou,0,0,0,,{NOTE:遅い}
-Dialogue: 0,0:44:53.08,0:44:54.75,Default,Hongou,0,0,0,,{NOTE:掃除ぐらい30分までする。}
-Dialogue: 0,0:44:54.75,0:44:56.00,Default,Hongou,0,0,0,,{NOTE:お前たちは足るんでる。}
-Dialogue: 0,0:44:58.71,0:44:59.96,Default,Hongou,0,0,0,,{NOTE:お前たちもだ。}
-Dialogue: 0,0:44:59.96,0:45:01.26,Default,Hongou,0,0,0,,{NOTE:バレーは遊びじゃない！}
-Dialogue: 0,0:45:03.18,0:45:07.22,Default,Hongou,0,0,0,,{NOTE:俺がコーチをするかぎり、びしびし鍛えるからそのつもりでXX。}
-Dialogue: 0,0:45:07.22,0:45:09.93,Default,Hongou,0,0,0,,{NOTE:俺に耐えられん奴は今すぐバレーを止めろ。}
-Dialogue: 0,0:45:09.93,0:45:13.27,Default,Ayuhara,0,0,0,,{NOTE:へ？まるで人が変わったみたい。}
-Dialogue: 0,0:45:13.27,0:45:15.98,Alternative,Hayakawa,0,0,0,,{NOTE:分かる分かる。なめられないと張り切ってるのね。}
-Dialogue: 0,0:45:17.40,0:45:19.82,Default,Hongou,0,0,0,,{NOTE:なお、キャプテンに成るものは俺が決める。}
-Dialogue: 0,0:45:19.82,0:45:21.40,Default,Hongou,0,0,0,,{NOTE:それまでは誰がキャプテンでもない。}
-Dialogue: 0,0:45:31.20,0:45:32.54,Alternative,Hayakawa,0,0,0,,{NOTE:負けるもんですか？}
-Dialogue: 0,0:45:44.17,0:45:46.26,Alternative,Ayuhara,0,0,0,,{NOTE:勝つわ。絶対に！}
-Dialogue: 0,0:45:47.09,0:45:48.05,Default,Kashiwagi,0,0,0,,{NOTE:もう駄目だ。}
-Dialogue: 0,0:45:56.14,0:45:56.90,Default,(unknown),0,0,0,,{NOTE:未だ。}
-Dialogue: 0,0:46:00.82,0:46:02.53,Default,Hongou,0,0,0,,{NOTE:ほら、誰が休めと言った。}
-Dialogue: 0,0:46:02.53,0:46:03.86,Default,Hongou,0,0,0,,{NOTE:起きろ！起きるか！？}
-Dialogue: 0,0:46:03.86,0:46:04.86,Default,Hara,0,0,0,,{NOTE:すみません。}
-Dialogue: 0,0:46:07.41,0:46:08.28,Default,Kashiwagi,0,0,0,,{NOTE:よいっしょ。}
-Dialogue: 0,0:46:09.03,0:46:09.73,Default,Kashiwagi,0,0,0,,{NOTE:もう駄目だ。}
-Dialogue: 0,0:46:10.12,0:46:13.54,Alternative,Ayuhara,0,0,0,,{NOTE:どんな事があっても、早川さんには負けられない。}
-Dialogue: 0,0:46:14.33,0:46:16.87,Alternative,Hayakawa,0,0,0,,{NOTE:鮎原さんだけには負けない。}
-Dialogue: 0,0:46:16.87,0:46:18.54,Alternative,Hayakawa,0,0,0,,{NOTE:負けるもんですか。}
-Dialogue: 0,0:46:18.54,0:46:19.75,Default,Hongou,0,0,0,,{NOTE:さ、行くぞ。}
-Dialogue: 0,0:46:27.55,0:46:28.59,Default,Hongou,0,0,0,,{NOTE:どうした、どうした？}
-Dialogue: 0,0:46:31.10,0:46:32.89,Default,Hongou,0,0,0,,{NOTE:これぐらいでへこたれる奴があるか？}
-Dialogue: 0,0:46:32.89,0:46:34.22,Default,Hongou,0,0,0,,{NOTE:さ、行くぞ！それ！}
-Dialogue: 0,0:46:35.02,0:46:35.89,Default,Hongou,0,0,0,,{NOTE:はい、次！}
-Dialogue: 0,0:46:37.64,0:46:38.35,Default,Hongou,0,0,0,,{NOTE:未だ！}
-Dialogue: 0,0:46:39.19,0:46:40.15,Default,Hongou,0,0,0,,{NOTE:ほら！}
-Dialogue: 0,0:46:40.90,0:46:42.23,Default,Hongou,0,0,0,,{NOTE:しっかりしろ！}
-Dialogue: 0,0:46:42.23,0:46:43.03,Default,Hongou,0,0,0,,{NOTE:ほら！}
-Dialogue: 0,0:46:44.65,0:46:45.53,Default,Hongou,0,0,0,,{NOTE:何だ、何だ！？}
+Dialogue: 0,0:39:50.24,0:39:54.74,Default,Audience,0,0,0,,Of course, the strength is the most important, but at such times I'd want better cheering party.{NOTE:でも、各力が第一もいいけどこう言う時はやっぱり応援団ぐらい欲しいな。}
+Dialogue: 0,0:39:55.58,0:39:59.16,Default,Audience,0,0,0,,You can't blame them, we're very weak compared to Mikawa.{NOTE:しょっぱなから、強敵三河中学とはついてないよな。}
+Dialogue: 0,0:39:59.16,0:40:03.13,Default,Ichinose,0,0,0,,What do you know? Our Fujimi Academy has Ayuhara-san and Hayakawa-san.{NOTE:何、富士見学園のバレー部には鮎原と早川あるさ。}
+Dialogue: 0,0:40:03.13,0:40:04.96,Default,Hongou,0,0,0,,Nah, we have no chance of winning.{NOTE:や、全然勝ち目がないさ。}
+Dialogue: 0,0:40:04.96,0:40:06.09,Default,Ichinose,0,0,0,,What did you say?{NOTE:何だって？}
+Dialogue: 0,0:40:06.09,0:40:07.50,Default,Ichinose,0,0,0,,Ah, professor Hongou.{NOTE:お、本郷先生。}
+Dialogue: 0,0:40:08.30,0:40:12.93,Default,Hongou,0,0,0,,It's futile. It doesn't matter if their opponent is Mikawa or whoever. They won't win.{NOTE:こんな風じゃ、相手が三河中学だろうとどこだろうと絶対に勝てません。}
+Dialogue: 0,0:40:13.97,0:40:15.26,Default,Ayuhara,0,0,0,,Here I go!{NOTE:さ、行くわよ。}
+Dialogue: 0,0:40:30.15,0:40:31.49,Default,Ayuhara,0,0,0,,Hayakawa-san, calm down.{NOTE:早川さん、落ち着いて。}
+Dialogue: 0,0:40:31.49,0:40:32.49,Default,Hayakawa,0,0,0,,I know.{NOTE:分かってるわ。}
+Dialogue: 0,0:40:42.87,0:40:44.42,Default,Ikezaki,0,0,0,,S-Strange.{NOTE:へ、変ね。}
+Dialogue: 0,0:40:44.42,0:40:46.25,Default,Ikezaki,0,0,0,,She's been always so good.{NOTE:いつもあんなに上手いのに。}
+Dialogue: 0,0:40:47.13,0:40:49.92,Default,Ayuhara,0,0,0,,Hayakawa-san, what's your experience in actual matches?{NOTE:早川さん、試合の経験どれぐらいなの？}
+Dialogue: 0,0:40:49.92,0:40:52.55,Default,Hayakawa,0,0,0,,Matches? Today is my first match.{NOTE:試合？試合は今日が始めてよ。}
+Dialogue: 0,0:40:52.55,0:40:54.72,Default,Ayuhara,0,0,0,,Eh? Th-The first?{NOTE:え？は、始めて？}
+Dialogue: 0,0:40:56.93,0:41:01.39,Default,Hayakawa,0,0,0,,Yeah. Everyone was too scared to become my partner.{NOTE:そうよ。だって、皆怖かって誰にも相手に成らないんだもん。}
+Dialogue: 0,0:41:01.39,0:41:07.11,Default,Ayuhara,0,0,0,,I see. After you've pulled that one man show in the\hgym, it didn't occur to you to ask anyone for help.{NOTE:分かったわ。前の学校のバレー部でも、あなたのワンマンについていけず誰も相手にしなかったのね。}
+Dialogue: 0,0:41:07.11,0:41:09.94,Default,Hayakawa,0,0,0,,Shut it. My volleyball won't be defeated.{NOTE:煩いわね。私はバレーは誰にも負けないわ。}
+Dialogue: 0,0:41:09.94,0:41:10.94,Default,Hayakawa,0,0,0,,No one will defeat me.{NOTE:負けるもんか？}
+Dialogue: 0,0:41:10.48,0:41:11.99,Blackboard,,0,0,0,,Mikawa ・ Fujimi{NOTE:三河中学・富士見学園}
+Dialogue: 0,0:41:18.70,0:41:19.70,Default,Ayuhara,0,0,0,,Hayakawa-san!{NOTE:早川さん！}
+Dialogue: 0,0:41:24.96,0:41:25.87,Default,Katsuragi,0,0,0,,Ayuhara-san!{NOTE:鮎原さん！}
+Dialogue: 0,0:41:29.84,0:41:32.13,Default,Audience,0,0,0,,Damn it. It got completely one-sided.{NOTE:くしょ、全然XX子供XX。}
+Dialogue: 0,0:41:32.13,0:41:33.34,Default,Audience,0,0,0,,I can't watch it.{NOTE:見ていられない。}
+Dialogue: 0,0:41:33.34,0:41:34.59,Default,Audience,0,0,0,,They're gonna lose.{NOTE:その調子負けだ。}
+Dialogue: 0,0:41:35.22,0:41:37.18,Default,(unknown),0,0,0,,Keep the serve! Let's go!{NOTE:サーバーキープで！行くわよ！それ！}
+Dialogue: 0,0:41:46.90,0:41:48.02,Default,Ichinose,0,0,0,,She did it!{NOTE:やった！}
+Dialogue: 0,0:41:48.02,0:41:48.73,Default,Ayuhara,0,0,0,,Attack!{NOTE:アタック！}
+Dialogue: 0,0:41:53.53,0:41:54.90,Default,Ayuhara,0,0,0,,Saw that, Hayakawa-san?{NOTE:見た、早川さん？}
+Dialogue: 0,0:41:54.90,0:41:57.28,Default,Ayuhara,0,0,0,,This is the real game. This is how we fight.{NOTE:これが試合よ。これがファイトなのよ。}
+Dialogue: 0,0:42:07.08,0:42:11.17,Default,Kashiwagi,0,0,0,,After all, we only got three\hpoints thanks to Ayuhara-san. Too bad.{NOTE:結局、鮎原さんのお陰で3点とったきりね。残念だわ。}
+Dialogue: 0,0:42:11.17,0:42:16.68,Default,Katsuragi,0,0,0,,We have been losing until now,\Nbut I\hthought we stood a chance just this once.{NOTE:今までは負けていたけど、今度だけは準優勝くらい出来ると思ったのに。}
+Dialogue: 0,0:42:16.68,0:42:19.18,Default,Hayakawa,0,0,0,,Hey. Are you saying this is my fault?{NOTE:ちょっと、私のせいだって言うんでしょう。}
+Dialogue: 0,0:42:19.18,0:42:20.39,Default,(unison),0,0,0,,Eh?{NOTE:え！？}
+Dialogue: 0,0:42:20.39,0:42:23.27,Default,Hayakawa,0,0,0,,You're trying to drive me out, no?{NOTE:皆、皆私を笑っているんでしょう。}
+Dialogue: 0,0:42:23.27,0:42:25.52,Default,Nakazawa,0,0,0,,No… that's not true…{NOTE:そ、そんな。}
+Dialogue: 0,0:42:25.52,0:42:28.48,Default,Ikezaki,0,0,0,,This is your first game. No one blames you.{NOTE:始めての試合ですもの。無理ないわ。}
+Dialogue: 0,0:42:28.48,0:42:31.19,Default,Hayakawa,0,0,0,,What are you saying? That's not the problem here.{NOTE:何言ってるの？初めてと何て問題じゃない。}
+Dialogue: 0,0:42:31.19,0:42:36.24,Default,Hayakawa,0,0,0,,If only… If only you did better, we could have easily won this.{NOTE:あなた達さえ、あなた達さえしっかりしていれば、軽く勝ってなのに。}
+Dialogue: 0,0:42:36.24,0:42:37.57,Default,Ayuhara,0,0,0,,Knock it off, Hayakawa-san.{NOTE:止してよ、早川さん。}
+Dialogue: 0,0:42:41.58,0:42:44.87,Default,Ayuhara,0,0,0,,What do you think volleyball is?{NOTE:あなたはバレーボールを何だと思ってるの？}
+Dialogue: 0,0:42:44.87,0:42:46.66,Default,Ayuhara,0,0,0,,It's a team sport.{NOTE:チームワークのスポーツなのよ。}
+Dialogue: 0,0:42:46.66,0:42:50.83,Default,Hayakawa,0,0,0,,Oh my, Ayuhara-san. Are you really going to start preaching here?{NOTE:あら、鮎原さん。あなた私にバレーの講義をなさるおつもり？}
+Dialogue: 0,0:42:54.67,0:42:57.26,Default,Hayakawa,0,0,0,,It seems you don't know much about volleyball.{NOTE:あなたはあまりバレーの事をご存知ないのね。}
+Dialogue: 0,0:43:00.76,0:43:04.93,Default,Hayakawa,0,0,0,,A strong volleyball team must have outstanding players.{NOTE:強いバレーチームには必ずずば抜けたプレイヤーが要るものなのよ。}
+Dialogue: 0,0:43:04.93,0:43:09.06,Default,Ayuhara,0,0,0,,I agree. But outstanding means doing what it\htakes in the critical moments.{NOTE:え。でも、それはここ一番と言う時に活躍出来る人の事。}
+Dialogue: 0,0:43:09.06,0:43:10.40,Default,Ayuhara,0,0,0,,And that is not you.{NOTE:あなたは違うわ。}
+Dialogue: 0,0:43:10.40,0:43:12.40,Default,Ayuhara,0,0,0,,You're just looking for attention.{NOTE:自分一人だけ目立とうとしてるわ。}
+Dialogue: 0,0:43:13.86,0:43:15.90,Default,Hongou,0,0,0,,Hey, take it easy.{NOTE:おい、その辺でXX。}
+Dialogue: 0,0:43:15.90,0:43:17.65,Default,Hongou,0,0,0,,We're on the bus.{NOTE:ここはバスの中だぞ。}
+Dialogue: 0,0:43:17.65,0:43:20.53,Sign,,0,0,120,,Principal's room{NOTE:校長室}
+Dialogue: 0,0:43:19.07,0:43:20.20,Default,Principal,0,0,0,,Oh?{NOTE:お？}
+Dialogue: 0,0:43:21.07,0:43:23.12,Default,Principal,0,0,0,,You want to be a volleyball coach?{NOTE:ボールのコーチをやりたい。}
+Dialogue: 0,0:43:23.99,0:43:24.83,Default,Hongou,0,0,0,,Yes, sir.{NOTE:はい。}
+Dialogue: 0,0:43:24.83,0:43:29.25,Default,Principal,0,0,0,,But do you have any experience with volleyball?{NOTE:しかし君、コーチと言っても、バレーの経験があるのかね？}
+Dialogue: 0,0:43:29.25,0:43:30.37,Default,Hongou,0,0,0,,No, sir.{NOTE:いいえ、ありません。}
+Dialogue: 0,0:43:30.37,0:43:33.71,Default,Hongou,0,0,0,,But I have played baseball in the college.{NOTE:でもあの、野球なら、大学時代ずっと選手をしていましたが。}
+Dialogue: 0,0:43:35.09,0:43:38.63,Default,Hongou,0,0,0,,Principal, even without experience,\NI am confident I can be a good coach.{NOTE:校長先生。経験はなくても、コーチが出来ます。}
+Dialogue: 0,0:43:38.63,0:43:41.47,Default,Hongou,0,0,0,,The volleyball club as of now is certainly divided.{NOTE:ん、それは確かに今のバレー部はバラバラですが。}
+Dialogue: 0,0:43:41.47,0:43:44.30,Default,Hongou,0,0,0,,But under my coaching, they're sure to get back on the right track.{NOTE:コーチさえでは、きっと立派なものに成ります。}
+Dialogue: 0,0:43:44.30,0:43:46.43,Default,Principal,0,0,0,,Hmm, I can't help but wonder about that.{NOTE:ん、そんなものですかな？}
+Dialogue: 0,0:43:46.43,0:43:49.02,Default,Principal,0,0,0,,Ah, never mind, if you say so then I guess it's okay.{NOTE:え、ま、よろしい。それほど言うなら。}
+Dialogue: 0,0:43:49.02,0:43:51.06,Default,Hongou,0,0,0,,Which means that you agree, right?{NOTE:任せてくださるんですね。}
+Dialogue: 0,0:43:51.06,0:43:52.19,Default,Hongou,0,0,0,,Thank you very much, sir.{NOTE:ありがとうございます。}
+Dialogue: 0,0:43:53.23,0:43:56.07,Default,Hongou,0,0,0,,But please let it me do things my way.{NOTE:そん代わり、私のやり方に任せてください。}
+Dialogue: 0,0:43:58.90,0:43:59.90,Alternative,Hongou,0,0,0,,All right.{NOTE:よし。}
+Dialogue: 0,0:44:00.78,0:44:02.87,Alternative,Hongou,0,0,0,,The remaining problem is Ayuhara and Hayakawa.{NOTE:問題は鮎原、早川、あの二人だ。}
+Dialogue: 0,0:44:04.03,0:44:06.33,Alternative,Hongou,0,0,0,,I'll certainly reconcile them.{NOTE:必ず俺はあの二人を一つに纏めて見せる。}
+Dialogue: 0,0:44:26.51,0:44:28.47,Default,Ayuhara,0,0,0,,Ah, I'm done with the cleaning.{NOTE:あ、お掃除は終わったわ。}
+Dialogue: 0,0:44:28.47,0:44:29.85,Default,(mixed),0,0,0,,– Ayuhara-san.\N– Yes?{NOTE:—鮎原さん！\\N—はい。}
+Dialogue: 0,0:44:31.02,0:44:33.02,Default,(mixed),0,0,0,,– Have you heard?\N– Eh? About what?{NOTE:—出る！\\N—え？何を？}
+Dialogue: 0,0:44:33.02,0:44:34.94,Default,Katsuragi,0,0,0,,They've decided on our coach.{NOTE:コーチが決まったのよ。}
+Dialogue: 0,0:44:34.94,0:44:35.86,Default,Katsuragi,0,0,0,,It's professor Hongou.{NOTE:本郷先生。}
+Dialogue: 0,0:44:35.86,0:44:36.82,Default,Ayuhara,0,0,0,,Reall— ah…{NOTE:本当？あ、ぁ。}
+Dialogue: 0,0:44:38.98,0:44:40.19,Default,Ayuhara,0,0,0,,Are you sure?{NOTE:それ本当？}
+Dialogue: 0,0:44:40.19,0:44:41.20,Default,Katsuragi,0,0,0,,Let's see for ourselves.{NOTE:行きましょう。}
+Dialogue: 0,0:44:41.20,0:44:42.70,Default,Ayuhara,0,0,0,,Yep, let's go!{NOTE:え、レッツゴー！}
+Dialogue: 0,0:44:45.70,0:44:46.70,Default,Hongou,0,0,0,,Hey!{NOTE:XX。}
+Dialogue: 0,0:44:47.33,0:44:48.29,Default,Hongou,0,0,0,,What were you doing?{NOTE:何をしていた？}
+Dialogue: 0,0:44:48.95,0:44:51.12,Default,Ayuhara,0,0,0,,S-Sir. We've been cleaning.{NOTE:はい、あの、お掃除です。！}
+Dialogue: 0,0:44:51.75,0:44:53.08,Default,Hongou,0,0,0,,Too slow!{NOTE:遅い！}
+Dialogue: 0,0:44:53.08,0:44:54.75,Default,Hongou,0,0,0,,You get 30 minutes tops.{NOTE:掃除ぐらい30分までする。}
+Dialogue: 0,0:44:54.75,0:44:56.00,Default,Hongou,0,0,0,,No exceptions.{NOTE:お前たちは足るんでる。}
+Dialogue: 0,0:44:58.71,0:44:59.96,Default,Hongou,0,0,0,,That goes to you too.{NOTE:お前たちもだ。}
+Dialogue: 0,0:44:59.96,0:45:01.59,Default,Hongou,0,0,0,,Listen. Volleyball isn't kids' play.{NOTE:バレーは遊びじゃない！}
+Dialogue: 0,0:45:03.18,0:45:07.22,Default,Hongou,0,0,0,,As long as I'm your coach, I\hdon't intend to go easy on you.{NOTE:俺がコーチをするかぎり、びしびし鍛えるからそのつもりでXX。}
+Dialogue: 0,0:45:07.22,0:45:09.93,Default,Hongou,0,0,0,,Those who have a problem with that, quit the club at once!{NOTE:俺に耐えられん奴は今すぐバレーを止めろ。}
+Dialogue: 0,0:45:09.93,0:45:13.27,Default,Ayuhara,0,0,0,,Huh? I didn't knew him from that side.{NOTE:へ？まるで人が変わったみたい。}
+Dialogue: 0,0:45:13.27,0:45:15.98,Alternative,Hayakawa,0,0,0,,I get it, I get it.\NIt's the "look, I'm serious" part.{NOTE:分かる分かる。なめられないと張り切ってるのね。}
+Dialogue: 0,0:45:17.40,0:45:19.82,Default,Hongou,0,0,0,,Furthermore I'll be deciding the captain.{NOTE:なお、キャプテンに成るものは俺が決める。}
+Dialogue: 0,0:45:19.82,0:45:21.40,Default,Hongou,0,0,0,,Until my decision, there's no captain.{NOTE:それまでは誰がキャプテンでもない。}
+Dialogue: 0,0:45:31.20,0:45:32.54,Alternative,Hayakawa,0,0,0,,I won't lose.{NOTE:負けるもんですか？}
+Dialogue: 0,0:45:44.17,0:45:46.26,Alternative,Ayuhara,0,0,0,,I'll win. I have to.{NOTE:勝つわ。絶対に！}
+Dialogue: 0,0:45:47.09,0:45:48.05,Default,Kashiwagi,0,0,120,,{\an8}Ah, it's no use…{NOTE:もう駄目だ。}
+Dialogue: 0,0:45:56.14,0:45:56.90,Default,(unknown),0,0,0,,I'm not done yet…{NOTE:未だ。}
+Dialogue: 0,0:46:00.82,0:46:02.53,Default,Hongou,0,0,0,,Hey, who said you can rest?{NOTE:ほら、誰が休めと言った。}
+Dialogue: 0,0:46:02.53,0:46:03.86,Default,Hongou,0,0,0,,Stand up! Stand up at once!{NOTE:起きろ！起きるか！？}
+Dialogue: 0,0:46:03.86,0:46:04.86,Default,Hara,0,0,0,,I'm sorry, sir.{NOTE:すみません。}
+Dialogue: 0,0:46:07.41,0:46:08.28,Default,Kashiwagi,0,0,0,,{\an8}Heave-ho.{NOTE:よいっしょ。}
+Dialogue: 0,0:46:09.03,0:46:09.73,Default,Kashiwagi,0,0,120,,{\an8}I've had enough.{NOTE:もう駄目だ。}
+Dialogue: 0,0:46:10.12,0:46:13.54,Alternative,Ayuhara,0,0,0,,No matter what happens, I can not lose to Hayakawa-san.{NOTE:どんな事があっても、早川さんには負けられない。}
+Dialogue: 0,0:46:14.33,0:46:16.87,Alternative,Hayakawa,0,0,0,,I can't lose to Ayuhara-san.{NOTE:鮎原さんだけには負けない。}
+Dialogue: 0,0:46:16.87,0:46:18.54,Alternative,Hayakawa,0,0,0,,No way I'll lose!{NOTE:負けるもんですか。}
+Dialogue: 0,0:46:18.54,0:46:19.75,Default,Hongou,0,0,0,,All right, here we go.{NOTE:さ、行くぞ。}
+Dialogue: 0,0:46:27.55,0:46:28.59,Default,Hongou,0,0,0,,Come on, come on!{NOTE:どうした、どうした？}
+Dialogue: 0,0:46:31.10,0:46:32.89,Default,Hongou,0,0,0,,You're defeated from this much?{NOTE:これぐらいでへこたれる奴があるか？}
+Dialogue: 0,0:46:32.89,0:46:34.22,Default,Hongou,0,0,0,,Once more, be ready!{NOTE:さ、行くぞ！それ！}
+Dialogue: 0,0:46:35.02,0:46:35.89,Default,Hongou,0,0,0,,Okay, next!{NOTE:はい、次！}
+Dialogue: 0,0:46:37.64,0:46:38.35,Default,Hongou,0,0,0,,More!{NOTE:未だ！}
+Dialogue: 0,0:46:39.19,0:46:40.15,Default,Hongou,0,0,0,,Come on!{NOTE:ほら！}
+Dialogue: 0,0:46:40.90,0:46:42.23,Default,Hongou,0,0,0,,Get it together!{NOTE:しっかりしろ！}
+Dialogue: 0,0:46:42.23,0:46:43.03,Default,Hongou,0,0,0,,Hey!{NOTE:ほら！}
+Dialogue: 0,0:46:44.65,0:46:45.53,Default,Hongou,0,0,0,,What's with that?{NOTE:何だ、何だ！？}
 Dialogue: 0,0:46:52.62,0:46:53.20,Default,(mixed),0,0,0,,{NOTE:それ！}
-Dialogue: 0,0:46:53.66,0:46:54.45,Default,(mixed),0,0,0,,{NOTE:次！}
-Dialogue: 0,0:46:55.20,0:46:55.91,Default,Hongou,0,0,0,,{NOTE:行くぞ！}
+Dialogue: 0,0:46:53.66,0:46:54.45,Default,(mixed),0,0,0,,Next!{NOTE:次！}
+Dialogue: 0,0:46:55.20,0:46:55.91,Default,Hongou,0,0,0,,Let's go!{NOTE:行くぞ！}
 Dialogue: 0,0:47:05.26,0:47:06.17,Default,Hongou,0,0,0,,{NOTE:それ！}
 Dialogue: 0,0:47:06.97,0:47:07.84,Default,Hongou,0,0,0,,{NOTE:それ！}
-Dialogue: 0,0:47:09.26,0:47:10.72,Alternative,Hongou,0,0,0,,{NOTE:よし。皆燃えてきたぞ。}
-Dialogue: 0,0:47:18.06,0:47:20.44,Sign,,0,0,0,,{NOTE:校長室}
-Dialogue: 0,0:47:18.77,0:47:21.61,Default,Principal,0,0,0,,{NOTE:PTAからも文句が出とります。}
-Dialogue: 0,0:47:21.61,0:47:24.90,Default,Principal,0,0,0,,{NOTE:とにかく、行き過ぎたと言うのですよ。}
-Dialogue: 0,0:47:24.90,0:47:28.95,Default,Ingo,0,0,0,,{NOTE:そう言う余ったエネルギーは勉学に注いでいただきたい。}
-Dialogue: 0,0:47:28.95,0:47:30.11,Default,Hongou,0,0,0,,{NOTE:そうでしょうか？}
-Dialogue: 0,0:47:30.11,0:47:35.16,Default,Hongou,0,0,0,,{NOTE:しかし、クラブ活動は教科書にない、生きた人間を学ぶべきだと思いますが。}
-Dialogue: 0,0:47:35.16,0:47:36.91,Default,Ingo,0,0,0,,{NOTE:んん。}
-Dialogue: 0,0:47:36.91,0:47:40.75,Default,Ingo,0,0,0,,{NOTE:弱りましたね。若い先生は一本にで。}
-Dialogue: 0,0:47:40.75,0:47:43.75,Default,Principal,0,0,0,,{NOTE:え、何にせよ、PTAからの非難は困る。}
-Dialogue: 0,0:47:43.75,0:47:45.67,Default,Principal,0,0,0,,{NOTE:この際お手柔らかに願っときま。}
-Dialogue: 0,0:47:45.67,0:47:49.34,Default,Hongou,0,0,0,,{NOTE:しかし、僕は僕のやり方でやるとお断りしたはずです。}
-Dialogue: 0,0:47:49.34,0:47:51.01,Default,Ingo,0,0,0,,{NOTE:だからですね。}
-Dialogue: 0,0:47:51.01,0:47:53.76,Default,Ingo,0,0,0,,{NOTE:そのあなたのやり方にですよ。}
-Dialogue: 0,0:47:53.76,0:47:56.10,Default,Ingo,0,0,0,,{NOTE:生徒がそっぽ向いてるんじゃないですか。}
-Dialogue: 0,0:47:56.10,0:47:58.14,Default,Ingo,0,0,0,,{NOTE:え？違っとりますか？}
-Dialogue: 0,0:47:58.14,0:48:00.89,Default,Principal,0,0,0,,{NOTE:え、考え直してくださいよ、本郷先生。}
-Dialogue: 0,0:48:02.48,0:48:03.98,Default,Hongou,0,0,0,,{NOTE:はい。分かりました。}
-Dialogue: 0,0:48:03.98,0:48:05.57,Default,Principal,0,0,0,,{NOTE:分かってくれましたか？}
-Dialogue: 0,0:48:05.57,0:48:06.78,Default,Ingo,0,0,0,,{NOTE:そうっすか。}
-Dialogue: 0,0:48:06.78,0:48:08.32,Default,Ingo,0,0,0,,{NOTE:あ、それはよかった。}
-Dialogue: 0,0:48:08.32,0:48:11.91,Default,Hongou,0,0,0,,{NOTE:もし生徒はどうしても私のコーチ嫌だと言ったら…}
-Dialogue: 0,0:48:11.91,0:48:13.53,Default,Hongou,0,0,0,,{NOTE:…XX止めさせていただきます。}
-Dialogue: 0,0:48:17.87,0:48:18.45,Default,Hayakawa,0,0,0,,{NOTE:次！}
-Dialogue: 0,0:48:25.29,0:48:26.04,Default,Hayakawa,0,0,0,,{NOTE:次！}
-Dialogue: 0,0:48:28.05,0:48:28.76,Default,Hongou,0,0,0,,{NOTE:バカ！}
-Dialogue: 0,0:48:30.80,0:48:34.34,Default,Hongou,0,0,0,,{NOTE:そんなレシーブも出来んXでは明らかに練習XXだ。}
-Dialogue: 0,0:48:34.34,0:48:35.60,Default,Hongou,0,0,0,,{NOTE:XX直してやる。}
-Dialogue: 0,0:48:35.60,0:48:36.60,Default,Ikezaki,0,0,0,,{NOTE:え！？}
-Dialogue: 0,0:48:36.60,0:48:37.26,Default,Hongou,0,0,0,,{NOTE:行くぞ!}
-Dialogue: 0,0:48:38.72,0:48:40.23,Default,Ayuhara,0,0,0,,{NOTE:池崎さん。}
-Dialogue: 0,0:48:40.23,0:48:41.44,Default,Hongou,0,0,0,,{NOTE:ほら、行くぞ！}
-Dialogue: 0,0:48:42.35,0:48:43.44,Default,Hongou,0,0,0,,{NOTE:未だ未だ！}
-Dialogue: 0,0:48:44.77,0:48:45.40,Default,Hongou,0,0,0,,{NOTE:どうした？}
-Dialogue: 0,0:48:45.40,0:48:46.57,Default,Ayuhara,0,0,0,,{NOTE:—ぴぃ！\\N—池崎さん！}
-Dialogue: 0,0:48:46.57,0:48:47.77,Default,Hongou,0,0,0,,{NOTE:ほら！}
-Dialogue: 0,0:48:47.77,0:48:49.44,Default,Ayuhara,0,0,0,,{NOTE:止めてください。}
-Dialogue: 0,0:48:49.44,0:48:50.44,Default,Hongou,0,0,0,,{NOTE:何だ、君達？}
-Dialogue: 0,0:48:50.44,0:48:52.24,Default,Hongou,0,0,0,,{NOTE:こんなに僕のコーチが嫌だのか？}
-Dialogue: 0,0:48:52.86,0:48:55.07,Default,Ayuhara,0,0,0,,{NOTE:私達先生の人形じゃありません。}
-Dialogue: 0,0:48:55.07,0:48:57.28,Default,(mixed),0,0,0,,{NOTE:—そうよ。\\N—さ、帰りましょうね。}
-Dialogue: 0,0:48:57.28,0:48:58.24,Default,Hongou,0,0,0,,{NOTE:待ちたまえ。}
-Dialogue: 0,0:48:58.24,0:49:01.79,Default,Hongou,0,0,0,,{NOTE:実は、明日の日曜に練習試合をすることに決めた。}
-Dialogue: 0,0:49:01.79,0:49:05.75,Default,Hongou,0,0,0,,{NOTE:その試合にもし勝てば僕はコーチを止めてもいい。}
-Dialogue: 0,0:49:05.75,0:49:08.46,Default,Hongou,0,0,0,,{NOTE:ただし、相手は強豪松島中学だ。}
-Dialogue: 0,0:49:09.92,0:49:11.38,Default,Hongou,0,0,0,,{NOTE:どうだ？勝てるかな？}
-Dialogue: 0,0:49:11.38,0:49:14.47,Default,Hongou,0,0,0,,{NOTE:勝てばよし。負ければ、未だ未だ練習不足と認め。}
-Dialogue: 0,0:49:14.47,0:49:16.01,Default,Hongou,0,0,0,,{NOTE:今異常に期待でやる。}
-Dialogue: 0,0:49:16.01,0:49:17.26,Default,Ayuhara,0,0,0,,{NOTE:コーチを止める？}
-Dialogue: 0,0:49:18.81,0:49:19.76,Default,Hongou,0,0,0,,{NOTE:そうだ。}
-Dialogue: 0,0:49:19.76,0:49:21.98,Default,Hongou,0,0,0,,{NOTE:僕を止めさせる絶好のチャンスだぞ。}
-Dialogue: 0,0:49:21.98,0:49:23.77,Default,Hongou,0,0,0,,{NOTE:どうするかね、君達？}
-Dialogue: 0,0:49:23.77,0:49:26.06,Default,Ayuhara,0,0,0,,{NOTE:はい。やります。}
-Dialogue: 0,0:49:26.06,0:49:29.07,Default,Hongou,0,0,0,,{NOTE:ま、精々頑張りたまえ。}
-Dialogue: 0,0:49:29.07,0:49:30.07,Alternative,Ayuhara,0,0,0,,{NOTE:やるわ。}
-Dialogue: 0,0:49:31.23,0:49:34.24,Sign,,0,0,0,,{NOTE:市立体育館}
-Dialogue: 0,0:49:40.91,0:49:41.41,Default,(unknown),0,0,0,,{NOTE:行くよ！}
-Dialogue: 0,0:49:43.87,0:49:44.87,Default,Ayuhara,0,0,0,,{NOTE:はい、もらったわ！}
-Dialogue: 0,0:49:49.88,0:49:51.13,Default,Kashiwagi,0,0,0,,{NOTE:やったわね。}
-Dialogue: 0,0:49:51.13,0:49:53.51,Default,Ayuhara,0,0,0,,{NOTE:桂城さん、いいサーブ頼むわよ。}
-Dialogue: 0,0:49:53.51,0:49:54.67,Default,Katsuragi,0,0,0,,{NOTE:任しておいて。}
-Dialogue: 0,0:50:03.39,0:50:04.43,Default,Kashiwagi,0,0,0,,{NOTE:XXX！}
-Dialogue: 0,0:50:04.43,0:50:05.73,Default,Ayuhara,0,0,0,,{NOTE:XXXわ！}
-Dialogue: 0,0:50:05.73,0:50:07.10,Default,(unknown),0,0,0,,{NOTE:XXX！}
-Dialogue: 0,0:50:09.52,0:50:11.02,Blackboard,,0,0,0,,{NOTE:富士見中・松島中}
-Dialogue: 0,0:50:11.82,0:50:12.86,Default,Matsushima's coach,0,0,0,,{NOTE:タイム！}
-Dialogue: 0,0:50:12.86,0:50:15.40,Default,Katsuragi,0,0,0,,{NOTE:早川さん、ナイススパイクよ。}
-Dialogue: 0,0:50:15.40,0:50:17.82,Alternative,Ayuhara,0,0,0,,{NOTE:早川さん又悪い癖を出してるわ。}
-Dialogue: 0,0:50:17.82,0:50:20.20,Alternative,Ayuhara,0,0,0,,{NOTE:でも、調子が良さそうだしついてる感じ。}
-Dialogue: 0,0:50:20.20,0:50:22.99,Alternative,Ayuhara,0,0,0,,{NOTE:当分これで行けそうだわ。}
-Dialogue: 0,0:50:22.99,0:50:25.66,Default,Matsushima's coach,0,0,0,,{NOTE:いいか。ボールにくっ付いていけ。}
-Dialogue: 0,0:50:25.66,0:50:27.67,Default,Hayakawa,0,0,0,,{NOTE:さっきのトスは危なかったわ。}
-Dialogue: 0,0:50:27.67,0:50:29.21,Default,Hayakawa,0,0,0,,{NOTE:いいトスをどんどんを上げてね。}
-Dialogue: 0,0:50:29.21,0:50:31.25,Default,Kashiwagi,0,0,0,,{NOTE:え？あれは鮎原さんへ。}
-Dialogue: 0,0:50:32.09,0:50:33.05,Alternative,Hongou,0,0,0,,{NOTE:ん。}
-Dialogue: 0,0:50:33.05,0:50:34.63,Alternative,Hongou,0,0,0,,{NOTE:これからが問題だ。}
-Dialogue: 0,0:50:34.63,0:50:36.93,Alternative,Hongou,0,0,0,,{NOTE:確かに見違えるほどXXXいる。}
-Dialogue: 0,0:50:36.93,0:50:40.18,Alternative,Hongou,0,0,0,,{NOTE:それを松島中は甘く考えていたために押されている。}
-Dialogue: 0,0:50:40.18,0:50:43.85,Alternative,Hongou,0,0,0,,{NOTE:しかし、この作戦タイミングは1点も取れなくなるだろう。}
-Dialogue: 0,0:50:56.70,0:50:58.03,Default,Kashiwagi,0,0,0,,{NOTE:鮎原さん！}
-Dialogue: 0,0:50:58.03,0:50:59.03,Default,Hayakawa,0,0,0,,{NOTE:私よ！}
-Dialogue: 0,0:51:17.97,0:51:19.38,Default,Matsushima's coach,0,0,0,,{NOTE:よしよし！その調子だ！}
-Dialogue: 0,0:51:19.38,0:51:20.80,Default,(unknown),0,0,0,,{NOTE:いいのよ！}
-Dialogue: 0,0:51:23.01,0:51:25.31,Default,Ayuhara,0,0,0,,{NOTE:早川さん、あなたマークされてるわ。}
-Dialogue: 0,0:51:25.31,0:51:27.23,Default,Hayakawa,0,0,0,,{NOTE:未だ1点でしょう。大丈夫よ！}
-Dialogue: 0,0:51:31.06,0:51:32.44,Default,(unknown),0,0,0,,{NOTE:行け！}
-Dialogue: 0,0:51:32.44,0:51:33.40,Default,Kashiwagi,0,0,0,,{NOTE:はい！}
-Dialogue: 0,0:51:36.11,0:51:37.32,Default,Ayuhara,0,0,0,,{NOTE:任しておいて！}
-Dialogue: 0,0:51:47.66,0:51:49.21,Blackboard,,0,0,0,,{NOTE:富士見中・松島中}
-Dialogue: 0,0:51:58.97,0:52:00.51,Blackboard,,0,0,0,,{NOTE:富士見中・松島中}
-Dialogue: 0,0:52:00.88,0:52:03.05,Default,Matsushima's coach,0,0,0,,{NOTE:XXX！}
-Dialogue: 0,0:52:03.05,0:52:04.43,Alternative,Hayakawa,0,0,0,,{NOTE:あんなに勝ってたのに。}
-Dialogue: 0,0:52:04.43,0:52:06.68,Alternative,Hayakawa,0,0,0,,{NOTE:残念だけど、このセットは負けよ。}
-Dialogue: 0,0:52:06.68,0:52:08.73,Default,Ayuhara,0,0,0,,{NOTE:このまま次のセットも危ないわ。}
-Dialogue: 0,0:52:08.73,0:52:10.14,Default,Ayuhara,0,0,0,,{NOTE:何とかしなくちゃ。}
-Dialogue: 0,0:52:10.14,0:52:14.15,Default,Katsuragi,0,0,0,,{NOTE:こんな時コーチがちゃんと指示してくれるのが普通なのに。}
-Dialogue: 0,0:52:14.15,0:52:16.69,Default,Ikezaki,0,0,0,,{NOTE:内のコーチと来たら…}
-Dialogue: 0,0:52:16.69,0:52:18.03,Alternative,Hongou,0,0,0,,{NOTE:ピンチだ。}
-Dialogue: 0,0:52:18.03,0:52:21.03,Alternative,Hongou,0,0,0,,{NOTE:しかし、君達の力で(XX・乗りきるんだ)。}
-Dialogue: 0,0:52:21.03,0:52:22.99,Alternative,Hongou,0,0,0,,{NOTE:その時チームの実力をはっきり分かる。}
-Dialogue: 0,0:52:24.95,0:52:26.74,Default,Matsushima's coach,0,0,0,,{NOTE:よし、皆よくやった。}
-Dialogue: 0,0:52:26.74,0:52:30.21,Default,Matsushima's coach,0,0,0,,{NOTE:早川みどりをマークしたのは成功だが、今度は鮎原の送ってくるに違いない。}
-Dialogue: 0,0:52:30.21,0:52:30.66,Default,(unison),0,0,0,,{NOTE:うん。}
-Dialogue: 0,0:52:30.66,0:52:32.46,Default,Matsushima's coach,0,0,0,,{NOTE:今度はこの二人を徹底的にマークするのだ。}
-Dialogue: 0,0:52:32.46,0:52:33.08,Default,Matsushima's coach,0,0,0,,{NOTE:いいな？}
-Dialogue: 0,0:52:33.08,0:52:33.71,Default,(unison),0,0,0,,{NOTE:はい。}
-Dialogue: 0,0:52:34.79,0:52:39.17,Default,Hayakawa,0,0,0,,{NOTE:勝手で悪いけど、私は徹底的にマークされてるでしょ？}
-Dialogue: 0,0:52:39.17,0:52:43.01,Default,Hayakawa,0,0,0,,{NOTE:だから、鮎原さんと交代交代で攻撃してみたらと思うんだけど。}
-Dialogue: 0,0:52:43.01,0:52:44.14,Default,Hayakawa,0,0,0,,{NOTE:いい？}
-Dialogue: 0,0:52:44.14,0:52:46.05,Default,Katsuragi,0,0,0,,{NOTE:そうよ。そうした方がいいわ。}
-Dialogue: 0,0:52:46.05,0:52:48.10,Default,Ikezaki,0,0,0,,{NOTE:うん。それならきっと上手く行くわよ。}
-Dialogue: 0,0:52:48.10,0:52:49.72,Default,Ikezaki,0,0,0,,{NOTE:ね、皆？}
-Dialogue: 0,0:52:49.72,0:52:52.23,Default,Ayuhara,0,0,0,,{NOTE:え。そうね。交代でやってみましょう。}
-Dialogue: 0,0:52:52.23,0:52:54.65,Default,Ayuhara,0,0,0,,{NOTE:このセット落としたら、試合がお終いなんですもんね。}
-Dialogue: 0,0:52:57.36,0:52:58.40,Default,(unknown),0,0,0,,{NOTE:頑張りましょう。}
-Dialogue: 0,0:53:02.20,0:53:03.20,Default,(unknown),0,0,0,,{NOTE:オッケー！}
-Dialogue: 0,0:53:07.41,0:53:08.41,Default,(unknown),0,0,0,,{NOTE:みどり！}
-Dialogue: 0,0:53:09.62,0:53:10.70,Default,Ikezaki,0,0,0,,{NOTE:あ、ごめん！}
-Dialogue: 0,0:53:23.63,0:53:25.01,Default,Ayuhara,0,0,0,,{NOTE:信販、タイム！}
-Dialogue: 0,0:53:26.05,0:53:28.10,Alternative,Hongou,0,0,0,,{NOTE:鮎原がタイムを要求した。}
-Dialogue: 0,0:53:28.10,0:53:29.51,Alternative,Hongou,0,0,0,,{NOTE:だんな作戦を立てるかな？}
-Dialogue: 0,0:53:31.56,0:53:32.89,Default,Ayuhara,0,0,0,,{NOTE:早川さん、よく聞いて。}
-Dialogue: 0,0:53:32.89,0:53:35.94,Default,Ayuhara,0,0,0,,{NOTE:私達二人は徹底的にマークされてるのよ。}
-Dialogue: 0,0:53:35.94,0:53:37.40,Default,Hayakawa,0,0,0,,{NOTE:分かってるわ。}
-Dialogue: 0,0:53:37.40,0:53:39.23,Default,Ayuhara,0,0,0,,{NOTE:そして相手のストップは安全よ。}
-Dialogue: 0,0:53:39.23,0:53:41.28,Default,Ayuhara,0,0,0,,{NOTE:その上、XX最高に上手いわ。}
-Dialogue: 0,0:53:41.28,0:53:43.90,Default,Ayuhara,0,0,0,,{NOTE:それにあのコーチが私達の弱点をよく知ってる。}
-Dialogue: 0,0:53:43.90,0:53:46.16,Default,Ayuhara,0,0,0,,{NOTE:つまり、次に誰がアタックするか？}
-Dialogue: 0,0:53:46.16,0:53:51.83,Default,Ayuhara,0,0,0,,{NOTE:そう。あのあなた達はトスが上がる時に私が打つか、早川さんが打つか、はっきり分かるって言う事よ。}
-Dialogue: 0,0:53:51.83,0:53:52.58,Default,Ayuhara,0,0,0,,{NOTE:ね？}
-Dialogue: 0,0:53:52.58,0:53:53.83,Default,Kashiwagi,0,0,0,,{NOTE:そ、それで？}
-Dialogue: 0,0:53:53.83,0:53:58.67,Default,Ayuhara,0,0,0,,{NOTE:だから、ストップにも余裕綽々で、XXも完全にしかれてしまう。}
-Dialogue: 0,0:53:58.67,0:54:00.67,Default,Ayuhara,0,0,0,,{NOTE:これを徹底的に崩すのよ。}
-Dialogue: 0,0:54:00.67,0:54:01.84,Default,Hayakawa,0,0,0,,{NOTE:どうやって？}
-Dialogue: 0,0:54:01.84,0:54:05.76,Default,Ayuhara,0,0,0,,{NOTE:先ず、私と早川さんはボールがパックに入ったら、すぐアタックを用意するの。}
-Dialogue: 0,0:54:05.76,0:54:07.43,Default,Ayuhara,0,0,0,,{NOTE:皆ちょっと、いい？}
-Dialogue: 0,0:54:10.93,0:54:13.18,Alternative,Hongou,0,0,0,,{NOTE:何とか鮎原の作戦がまとまったようだな。}
-Dialogue: 0,0:54:16.19,0:54:17.44,Default,(unknown),0,0,0,,{NOTE:さ、行くわよ。}
-Dialogue: 0,0:54:31.03,0:54:31.83,Default,Ayuhara,0,0,0,,{NOTE:アタック！}
-Dialogue: 0,0:54:33.58,0:54:34.50,Default,Hongou,0,0,0,,{NOTE:出来た！}
-Dialogue: 0,0:54:34.50,0:54:35.62,Default,Hongou,0,0,0,,{NOTE:アタックコンビが！}
-Dialogue: 0,0:54:36.25,0:54:37.04,Default,Ichinose,0,0,0,,{NOTE:え？}
-Dialogue: 0,0:54:40.00,0:54:41.38,Default,Katsuragi,0,0,0,,{NOTE:はい、行くわよ！}
-Dialogue: 0,0:54:52.43,0:54:53.56,Default,(unknown),0,0,0,,{NOTE:ナイス、ナイス！}
-Dialogue: 0,0:55:13.91,0:55:14.70,Default,Ayuhara,0,0,0,,{NOTE:アタック！}
-Dialogue: 0,0:55:14.87,0:55:16.20,Blackboard,,0,0,0,,{NOTE:富士見中・松島中}
-Dialogue: 0,0:55:23.59,0:55:26.80,Blackboard,,0,0,0,,{NOTE:富士見中・松島中}
-Dialogue: 0,0:55:24.84,0:55:28.01,Default,Ichinose,0,0,0,,{NOTE:先生、とうとう逆転ですよ。セットポイントです。}
-Dialogue: 0,0:55:36.81,0:55:38.10,Default,Kashiwagi,0,0,0,,{NOTE:鮎原さん、すごい。}
-Dialogue: 0,0:55:38.10,0:55:39.73,Default,Kashiwagi,0,0,0,,{NOTE:ファイナルセットに持ち込めたわね。}
-Dialogue: 0,0:55:41.81,0:55:45.11,Default,Ichinose,0,0,0,,{NOTE:本郷先生。彼女達すごいですね。}
-Dialogue: 0,0:55:45.90,0:55:48.24,Alternative,Hongou,0,0,0,,{NOTE:鮎原と早川のコンビも出来た。}
-Dialogue: 0,0:55:48.24,0:55:49.95,Alternative,Hongou,0,0,0,,{NOTE:これでチームは上手く行く。}
-Dialogue: 0,0:55:54.33,0:55:57.29,Alternative,Hongou,0,0,0,,{NOTE:第三セットは見なくても、結果が分かってる。}
-Dialogue: 0,0:55:57.29,0:55:58.87,Alternative,Hongou,0,0,0,,{NOTE:必ず勝つだろう。}
-Dialogue: 0,0:55:58.87,0:56:05.46,Alternative,Hongou,0,0,0,,{NOTE:しかし、いくら力がついても、選手達と心が通い合わなければ何もならん。}
-Dialogue: 0,0:56:05.46,0:56:08.42,Alternative,Hongou,0,0,0,,{NOTE:約束は約束。僕はコーチから手を引く。}
-Dialogue: 0,0:56:14.22,0:56:15.60,Blackboard,,0,0,0,,{NOTE:富士見中・松島中}
-Dialogue: 0,0:56:15.72,0:56:18.14,Default,Ayuhara,0,0,0,,{NOTE:さ、マッチポイントよ。頑張ってきましょう！}
-Dialogue: 0,0:56:18.14,0:56:19.02,Default,(unknown),0,0,0,,{NOTE:オッケー！}
-Dialogue: 0,0:56:19.02,0:56:20.81,Default,(unknown),0,0,0,,{NOTE:—いいぞ頑張って！\\N—うん！—おう！}
-Dialogue: 0,0:56:37.04,0:56:37.74,Default,Matsushima's coach,0,0,0,,{NOTE:チャンス！}
-Dialogue: 0,0:56:44.79,0:56:45.50,Default,Ayuhara,0,0,0,,{NOTE:アタック！}
-Dialogue: 0,0:56:49.34,0:56:51.72,Default,Ayuhara,0,0,0,,{NOTE:勝ったわ！私達は勝ったのよ！}
-Dialogue: 0,0:56:56.14,0:56:57.97,Default,Matsushima's coach,0,0,0,,{NOTE:負けてがっかりするんじゃない。}
-Dialogue: 0,0:56:57.97,0:57:00.93,Default,Matsushima's coach,0,0,0,,{NOTE:明日から富士見学園を目標に頑張るんだ。}
-Dialogue: 0,0:57:00.93,0:57:01.56,Default,Matsushima's coach,0,0,0,,{NOTE:いいな？}
-Dialogue: 0,0:57:01.56,0:57:02.52,Default,(unison),0,0,0,,{NOTE:—はい。\\N—はい。}
-Dialogue: 0,0:57:02.52,0:57:03.73,Default,(unison),0,0,0,,{NOTE:頑張ります。}
-Dialogue: 0,0:57:04.77,0:57:06.86,Default,(unknown),0,0,0,,{NOTE:きっとお返しするわ。}
-Dialogue: 0,0:57:06.86,0:57:10.44,Default,Matsushima's coach,0,0,0,,{NOTE:よし。負けて、それを教訓するのは松島中のバレー部だ。}
-Dialogue: 0,0:57:10.44,0:57:12.15,Default,(unison),0,0,0,,{NOTE:—はい。\\N—はい。}
-Dialogue: 0,0:57:12.15,0:57:13.57,Default,Matsushima's coach,0,0,0,,{NOTE:これからも頑張ろう。}
-Dialogue: 0,0:57:13.57,0:57:14.41,Default,Matsushima's coach,0,0,0,,{NOTE:ファイト！}
-Dialogue: 0,0:57:14.41,0:57:15.41,Default,(unison),0,0,0,,{NOTE:—おう！\\N—おう！}
-Dialogue: 0,0:57:18.95,0:57:20.83,Default,Ayuhara,0,0,0,,{NOTE:私達は勝ったのよ。}
-Dialogue: 0,0:57:20.83,0:57:22.25,Default,Ayuhara,0,0,0,,{NOTE:どうしたの、皆？}
-Dialogue: 0,0:57:25.42,0:57:26.71,Default,(unknown),0,0,0,,{NOTE:何でもないわ。}
-Dialogue: 0,0:57:26.71,0:57:31.51,Default,Kashiwagi,0,0,0,,{NOTE:ただ、相手の選手達とコーチの心が通い合ってるの見るとちょっと羨ましいの。}
-Dialogue: 0,0:57:31.51,0:57:32.47,Default,Kashiwagi,0,0,0,,{NOTE:それだけよ。}
-Dialogue: 0,0:57:36.34,0:57:37.64,Default,Ayuhara,0,0,0,,{NOTE:どうしたの、早川さん？}
-Dialogue: 0,0:57:39.93,0:57:41.43,Default,(mixed),0,0,0,,{NOTE:—何？\\N—何？}
-Dialogue: 0,0:57:41.43,0:57:42.43,Default,Hayakawa,0,0,0,,{NOTE:鮎原さん。}
-Dialogue: 0,0:57:42.43,0:57:44.89,Default,Hayakawa,0,0,0,,{NOTE:私ちょっと鳧を付けておきたい事があるわ。}
-Dialogue: 0,0:57:44.89,0:57:47.15,Default,Hayakawa,0,0,0,,{NOTE:それも皆のいる前で。}
-Dialogue: 0,0:57:47.15,0:57:49.65,Default,Ayuhara,0,0,0,,{NOTE:え？未だ喧嘩を続けるつもりなの？}
-Dialogue: 0,0:57:52.03,0:57:53.61,Default,Hayakawa,0,0,0,,{NOTE:皆も聞いて。}
-Dialogue: 0,0:57:53.61,0:57:57.95,Default,Hayakawa,0,0,0,,{NOTE:バレーボールにとってチームワークがどんなに大切なものか。}
-Dialogue: 0,0:57:57.95,0:57:58.91,Default,Kashiwagi,0,0,0,,{NOTE:早川さん。}
-Dialogue: 0,0:57:58.91,0:58:01.49,Default,Hayakawa,0,0,0,,{NOTE:今度と言う今渡は身に染みてよく分かったわ。}
-Dialogue: 0,0:58:03.91,0:58:05.16,Default,Hayakawa,0,0,0,,{NOTE:鮎原さん。}
-Dialogue: 0,0:58:05.16,0:58:07.08,Default,Hayakawa,0,0,0,,{NOTE:私間違っていた。}
-Dialogue: 0,0:58:07.08,0:58:10.34,Default,Hayakawa,0,0,0,,{NOTE:今までの事を許してと言っても許されるものじゃないと思うけど。}
-Dialogue: 0,0:58:10.34,0:58:11.21,Default,Hayakawa,0,0,0,,{NOTE:お願い。}
-Dialogue: 0,0:58:12.76,0:58:15.09,Default,Hayakawa,0,0,0,,{NOTE:気が済むように私の方を打って。}
-Dialogue: 0,0:58:19.14,0:58:22.18,Default,Ayuhara,0,0,0,,{NOTE:ごめん。XXからがはいって。}
-Dialogue: 0,0:58:22.18,0:58:23.81,Default,Hayakawa,0,0,0,,{NOTE:ありがとう、鮎原さん。}
-Dialogue: 0,0:58:23.81,0:58:25.39,Default,Hayakawa,0,0,0,,{NOTE:XXX。}
-Dialogue: 0,0:58:26.94,0:58:30.69,Default,Ayuhara,0,0,0,,{NOTE:これで私達本当のチームメイトに成れるわね。}
-Dialogue: 0,0:58:30.69,0:58:33.15,Default,Hayakawa,0,0,0,,{NOTE:そう言ってくれた本当に嬉しいわ。}
-Dialogue: 0,0:58:33.15,0:58:36.70,Default,Hayakawa,0,0,0,,{NOTE:でも、もう一つはっきりさせて事もあるわ。}
-Dialogue: 0,0:58:36.70,0:58:37.82,Default,Ayuhara,0,0,0,,{NOTE:未だあるの？}
-Dialogue: 0,0:58:37.82,0:58:40.41,Default,Hayakawa,0,0,0,,{NOTE:え。私思うの。}
-Dialogue: 0,0:58:40.41,0:58:45.29,Default,Hayakawa,0,0,0,,{NOTE:我が富士見学園バレー部のキャプテンは鮎原さん以外にないと思うのよ。}
-Dialogue: 0,0:58:50.38,0:58:52.17,Default,Hayakawa,0,0,0,,{NOTE:皆の意見はどう？}
-Dialogue: 0,0:58:52.17,0:58:54.30,Default,Kashiwagi,0,0,0,,{NOTE:賛成。私は賛成だわ。}
-Dialogue: 0,0:58:54.88,0:58:56.84,Default,Katsuragi,0,0,0,,{NOTE:私もそれがいいと思うわ。}
-Dialogue: 0,0:58:56.84,0:58:58.05,Default,(unison),0,0,0,,{NOTE:賛成！}
-Dialogue: 0,0:59:05.77,0:59:07.77,Default,Hayakawa,0,0,0,,{NOTE:やってくれるわね。}
-Dialogue: 0,0:59:07.77,0:59:11.27,Default,Ayuhara,0,0,0,,{NOTE:やるわ。日本一のバレー部を目指して。}
-Dialogue: 0,0:59:11.27,0:59:12.32,Default,Ayuhara,0,0,0,,{NOTE:早川さん。}
-Dialogue: 0,0:59:12.32,0:59:13.61,Default,Ayuhara,0,0,0,,{NOTE:皆有難う。}
-Dialogue: 0,0:59:13.61,0:59:16.40,Default,(unison),0,0,0,,{NOTE:—鮎原さん、万歳！\\N—鮎原キャプテン、万歳！}
-Dialogue: 0,0:59:16.40,0:59:18.74,Alternative,Hayakawa,0,0,0,,{NOTE:鮎原さん、今日からあなたよ。}
-Dialogue: 0,0:59:18.74,0:59:20.07,Alternative,Hayakawa,0,0,0,,{NOTE:私の目標は。}
-Dialogue: 0,0:59:21.53,0:59:23.83,Alternative,Ayuhara,0,0,0,,{NOTE:早川さん。分かってくれたのね。}
-Dialogue: 0,0:59:26.87,0:59:28.50,Default,Ichinose,0,0,0,,{NOTE:よ、おめでとう。}
-Dialogue: 0,0:59:28.50,0:59:31.00,Default,Ichinose,0,0,0,,{NOTE:驚いたな。こんなに強くなるなんて。}
-Dialogue: 0,0:59:31.00,0:59:32.67,Default,Ayuhara,0,0,0,,{NOTE:努くん、本郷先生知らない？}
-Dialogue: 0,0:59:32.67,0:59:33.17,Default,Ichinose,0,0,0,,{NOTE:ん？}
-Dialogue: 0,0:59:33.17,0:59:37.63,Default,Ichinose,0,0,0,,{NOTE:約束通り、身を引くと言って第３セットが始まる頃帰っていたよ。}
-Dialogue: 0,0:59:37.63,0:59:38.34,Default,Ayuhara,0,0,0,,{NOTE:ま。}
-Dialogue: 0,0:59:39.38,0:59:40.89,Default,Ayuhara,0,0,0,,{NOTE:どうする皆？}
-Dialogue: 0,0:59:40.89,0:59:43.47,Default,Ayuhara,0,0,0,,{NOTE:約束通り本郷先生にコーチを止めてもらう？}
-Dialogue: 0,0:59:44.01,0:59:45.89,Default,(unison),0,0,0,,{NOTE:んん。}
-Dialogue: 0,0:59:45.89,0:59:47.02,Default,Ayuhara,0,0,0,,{NOTE:分かったわ！}
-Dialogue: 0,0:59:47.02,0:59:51.31,Default,Ayuhara,0,0,0,,{NOTE:そう。皆同じ考えね。やっぱり私達には本郷先生が必要なのよ。}
-Dialogue: 0,0:59:51.69,0:59:55.65,Sign,,0,0,0,,{NOTE:バレー部室}
-Dialogue: 0,0:59:57.86,0:59:59.07,Default,Ayuhara,0,0,0,,{NOTE:あ？あれは？}
-Dialogue: 0,0:59:59.07,1:00:00.03,Default,(unison),0,0,0,,{NOTE:え？}
-Dialogue: 0,1:00:01.28,1:00:03.74,Alternative,Hongou,0,0,0,,{NOTE:約束通りコーチを止めてやる。}
-Dialogue: 0,1:00:03.74,1:00:06.12,Alternative,Hongou,0,0,0,,{NOTE:喜べ、下手糞共。}
-Dialogue: 0,1:00:06.12,1:00:09.33,Alternative,Hongou,0,0,0,,{NOTE:俺に笑われたくなければ、これからもしっかりやれ。}
-Dialogue: 0,1:00:09.33,1:00:10.16,Alternative,Hongou,0,0,0,,{NOTE:本郷。}
-Dialogue: 0,1:00:16.55,1:00:18.59,Default,Kashiwagi,0,0,0,,{NOTE:嘘。嘘よ！}
-Dialogue: 0,1:00:18.59,1:00:21.09,Default,Kashiwagi,0,0,0,,{NOTE:先生本当はコーチを止めたくないのに。}
-Dialogue: 0,1:00:21.09,1:00:23.34,Default,Kashiwagi,0,0,0,,{NOTE:だから、ここに来て一人でいたのに。}
+Dialogue: 0,0:47:09.26,0:47:10.72,Alternative,Hongou,0,0,0,,All right, everyone's fired up.{NOTE:よし。皆燃えてきたぞ。}
+Dialogue: 0,0:47:18.06,0:47:20.44,Sign,,0,0,0,,Principal's room{NOTE:校長室}
+Dialogue: 0,0:47:18.77,0:47:21.61,Default,Principal,0,0,0,,We received a complaint from\Nthe Parent-Teacher Association, too.{NOTE:PTAからも文句が出とります。}
+Dialogue: 0,0:47:21.61,0:47:24.90,Default,Principal,0,0,0,,They're saying that your training is too harsh.{NOTE:とにかく、行き過ぎたと言うのですよ。}
+Dialogue: 0,0:47:24.90,0:47:28.95,Default,Ingo,0,0,0,,I'd like to have you put your excessive energy into something more useful.{NOTE:そう言う余ったエネルギーは勉学に注いでいただきたい。}
+Dialogue: 0,0:47:28.95,0:47:30.11,Default,Hongou,0,0,0,,Is that so?{NOTE:そうでしょうか？}
+Dialogue: 0,0:47:30.11,0:47:35.16,Default,Hongou,0,0,0,,But for the students, club activities are a way to\hlearn things about life that textbooks don't offer.{NOTE:しかし、クラブ活動は教科書にない、生きた人間を学ぶべきだと思いますが。}
+Dialogue: 0,0:47:35.16,0:47:36.91,Default,Ingo,0,0,0,,Hmm.{NOTE:んん。}
+Dialogue: 0,0:47:36.91,0:47:40.75,Default,Ingo,0,0,0,,That's a naive point of view.\NAs expected from a young teacher.{NOTE:弱りましたね。若い先生は一本にで。}
+Dialogue: 0,0:47:40.75,0:47:43.75,Default,Principal,0,0,0,,At any rate, the PTA complaint is a huge problem.{NOTE:え、何にせよ、PTAからの非難は困る。}
+Dialogue: 0,0:47:43.75,0:47:45.67,Default,Principal,0,0,0,,I'd like to resolve this by all m—{NOTE:この際お手柔らかに願っときま。}
+Dialogue: 0,0:47:45.67,0:47:49.34,Default,Hongou,0,0,0,,But you agreed for me to use my methods.{NOTE:しかし、僕は僕のやり方でやるとお断りしたはずです。}
+Dialogue: 0,0:47:49.34,0:47:51.01,Default,Ingo,0,0,0,,That's the problem, you see.{NOTE:だからですね。}
+Dialogue: 0,0:47:51.01,0:47:53.76,Default,Ingo,0,0,0,,It's those "methods" of yours.{NOTE:そのあなたのやり方にですよ。}
+Dialogue: 0,0:47:53.76,0:47:56.10,Default,Ingo,0,0,0,,The students are backing away, aren't they?{NOTE:生徒がそっぽ向いてるんじゃないですか。}
+Dialogue: 0,0:47:56.10,0:47:58.14,Default,Ingo,0,0,0,,Am I not correct?{NOTE:え？違っとりますか？}
+Dialogue: 0,0:47:58.14,0:48:00.89,Default,Principal,0,0,0,,Please think it over, professor Hongou.{NOTE:え、考え直してくださいよ、本郷先生。}
+Dialogue: 0,0:48:02.48,0:48:03.98,Default,Hongou,0,0,0,,All right. Understood.{NOTE:はい。分かりました。}
+Dialogue: 0,0:48:03.98,0:48:05.57,Default,Principal,0,0,0,,Really?{NOTE:分かってくれましたか？}
+Dialogue: 0,0:48:05.57,0:48:06.78,Default,Ingo,0,0,0,,Is that so.{NOTE:そうっすか。}
+Dialogue: 0,0:48:06.78,0:48:08.32,Default,Ingo,0,0,0,,It's fine then.{NOTE:あ、それはよかった。}
+Dialogue: 0,0:48:08.32,0:48:11.91,Default,Hongou,0,0,0,,If the students definitely oppose to my coaching…{NOTE:もし生徒はどうしても私のコーチ嫌だと言ったら…}
+Dialogue: 0,0:48:11.91,0:48:13.53,Default,Hongou,0,0,0,,…I'll step down.{NOTE:…XX止めさせていただきます。}
+Dialogue: 0,0:48:17.87,0:48:18.45,Default,Hayakawa,0,0,0,,Next!{NOTE:次！}
+Dialogue: 0,0:48:25.29,0:48:26.04,Default,Hayakawa,0,0,0,,Next!{NOTE:次！}
+Dialogue: 0,0:48:28.05,0:48:28.76,Default,Hongou,0,0,0,,Fool!{NOTE:バカ！}
+Dialogue: 0,0:48:30.80,0:48:34.34,Default,Hongou,0,0,0,,If you can't do even such a simple receive,\Nyou'll need special training.{NOTE:そんなレシーブも出来んXでは明らかに練習XXだ。}
+Dialogue: 0,0:48:34.34,0:48:35.60,Default,Hongou,0,0,0,,We'll fix this right now!{NOTE:XX直してやる。}
+Dialogue: 0,0:48:35.60,0:48:36.60,Default,Ikezaki,0,0,0,,Eh?{NOTE:え！？}
+Dialogue: 0,0:48:36.60,0:48:37.26,Default,Hongou,0,0,0,,Here we go!{NOTE:行くぞ!}
+Dialogue: 0,0:48:38.72,0:48:40.23,Default,Ayuhara,0,0,0,,Ikezaki-san!{NOTE:池崎さん。}
+Dialogue: 0,0:48:40.23,0:48:41.44,Default,Hongou,0,0,0,,We've not even started!{NOTE:ほら、行くぞ！}
+Dialogue: 0,0:48:42.35,0:48:43.44,Default,Hongou,0,0,0,,More, more!{NOTE:未だ未だ！}
+Dialogue: 0,0:48:44.77,0:48:45.40,Default,Hongou,0,0,0,,What's wrong?{NOTE:どうした？}
+Dialogue: 0,0:48:45.40,0:48:46.57,Default,Ayuhara,0,0,0,,– Ah!\N– Ikezaki-san!{NOTE:—ぴぃ！\\N—池崎さん！}
+Dialogue: 0,0:48:46.57,0:48:47.77,Default,Hongou,0,0,0,,Hey!{NOTE:ほら！}
+Dialogue: 0,0:48:47.77,0:48:49.44,Default,Ayuhara,0,0,0,,Please stop it!{NOTE:止めてください。}
+Dialogue: 0,0:48:49.44,0:48:50.44,Default,Hongou,0,0,0,,What is it?{NOTE:何だ、君達？}
+Dialogue: 0,0:48:50.44,0:48:52.24,Default,Hongou,0,0,0,,Do you disagree with my coaching so much?{NOTE:こんなに僕のコーチが嫌だのか？}
+Dialogue: 0,0:48:52.86,0:48:55.07,Default,Ayuhara,0,0,0,,We're not your dolls, professor.{NOTE:私達先生の人形じゃありません。}
+Dialogue: 0,0:48:55.07,0:48:57.28,Default,(mixed),0,0,0,,– Yeah!\N– Let's go home.{NOTE:—そうよ。\\N—さ、帰りましょうね。}
+Dialogue: 0,0:48:57.28,0:48:58.24,Default,Hongou,0,0,0,,Wait a moment.{NOTE:待ちたまえ。}
+Dialogue: 0,0:48:58.24,0:49:01.79,Default,Hongou,0,0,0,,Actually, it was decided you'll play a\hpractice match tomorrow.{NOTE:実は、明日の日曜に練習試合をすることに決めた。}
+Dialogue: 0,0:49:01.79,0:49:05.75,Default,Hongou,0,0,0,,If you can win that game, I can step down as your coach.{NOTE:その試合にもし勝てば僕はコーチを止めてもいい。}
+Dialogue: 0,0:49:05.75,0:49:08.46,Default,Hongou,0,0,0,,But your opponent is Matsushima Middle School.{NOTE:ただし、相手は強豪松島中学だ。}
+Dialogue: 0,0:49:09.92,0:49:11.38,Default,Hongou,0,0,0,,How's that? Can you win?{NOTE:どうだ？勝てるかな？}
+Dialogue: 0,0:49:11.38,0:49:14.47,Default,Hongou,0,0,0,,If you win, good. If you lose,\Nyou'll acknowledge the need for more training.{NOTE:勝てばよし。負ければ、未だ未だ練習不足と認め。}
+Dialogue: 0,0:49:14.47,0:49:16.01,Default,Hongou,0,0,0,,Expect it to be stricter than now.{NOTE:今異常に期待でやる。}
+Dialogue: 0,0:49:16.01,0:49:17.26,Default,Ayuhara,0,0,0,,You'll step down, coach?{NOTE:コーチを止める？}
+Dialogue: 0,0:49:18.81,0:49:19.76,Default,Hongou,0,0,0,,That's correct.{NOTE:そうだ。}
+Dialogue: 0,0:49:19.76,0:49:21.98,Default,Hongou,0,0,0,,You finally have a chance to get back at me.{NOTE:僕を止めさせる絶好のチャンスだぞ。}
+Dialogue: 0,0:49:21.98,0:49:23.77,Default,Hongou,0,0,0,,How will it be?{NOTE:どうするかね、君達？}
+Dialogue: 0,0:49:23.77,0:49:26.06,Default,Ayuhara,0,0,0,,We accept.{NOTE:はい。やります。}
+Dialogue: 0,0:49:26.06,0:49:29.07,Default,Hongou,0,0,0,,Okay then, do your best.{NOTE:ま、精々頑張りたまえ。}
+Dialogue: 0,0:49:29.07,0:49:30.07,Alternative,Ayuhara,0,0,0,,We'll do it.{NOTE:やるわ。}
+Dialogue: 0,0:49:31.23,0:49:34.24,Sign,,0,0,0,,City Gym{NOTE:市立体育館}
+Dialogue: 0,0:49:40.91,0:49:41.41,Default,(unknown),0,0,0,,Here goes!{NOTE:行くよ！}
+Dialogue: 0,0:49:43.87,0:49:45.12,Default,Ayuhara,0,0,0,,Got it!{NOTE:はい、もらったわ！}
+Dialogue: 0,0:49:45.12,0:49:45.71,Default,,0,0,0,,Me!{NOTE:私よ！}
+Dialogue: 0,0:49:49.88,0:49:51.13,Default,Kashiwagi,0,0,0,,You did it.{NOTE:やったわね。}
+Dialogue: 0,0:49:51.13,0:49:53.51,Default,Ayuhara,0,0,0,,Katsuragi-san, give us a good serve.{NOTE:桂城さん、いいサーブ頼むわよ。}
+Dialogue: 0,0:49:53.51,0:49:54.67,Default,Katsuragi,0,0,0,,Leave it to me.{NOTE:任しておいて。}
+Dialogue: 0,0:50:03.39,0:50:04.43,Default,Kashiwagi,0,0,0,,Someone!{NOTE:XXX！}
+Dialogue: 0,0:50:04.43,0:50:05.73,Default,Ayuhara,0,0,0,,I'll get it!{NOTE:XXXわ！}
+Dialogue: 0,0:50:05.73,0:50:07.10,Default,(unknown),0,0,0,,Me!{NOTE:XXX！}
+Dialogue: 0,0:50:09.52,0:50:11.02,Blackboard,,0,0,0,,Fujimi ・ Matsushima{NOTE:富士見中・松島中}
+Dialogue: 0,0:50:11.82,0:50:12.86,Default,Matsushima's coach,0,0,0,,Time!{NOTE:タイム！}
+Dialogue: 0,0:50:12.86,0:50:15.40,Default,Katsuragi,0,0,0,,Nice spike, Hayakawa-san.{NOTE:早川さん、ナイススパイクよ。}
+Dialogue: 0,0:50:15.40,0:50:17.82,Alternative,Ayuhara,0,0,0,,Hayakawa-san's showing her bad habit again.{NOTE:早川さん又悪い癖を出してるわ。}
+Dialogue: 0,0:50:17.82,0:50:20.20,Alternative,Ayuhara,0,0,0,,However, it seems to work.{NOTE:でも、調子が良さそうだしついてる感じ。}
+Dialogue: 0,0:50:20.20,0:50:22.99,Alternative,Ayuhara,0,0,0,,Looks like we can pull it off.{NOTE:当分これで行けそうだわ。}
+Dialogue: 0,0:50:22.99,0:50:25.66,Default,Matsushima's coach,0,0,0,,Listen, keep close to the ball.{NOTE:いいか。ボールにくっ付いていけ。}
+Dialogue: 0,0:50:25.66,0:50:27.67,Default,Hayakawa,0,0,0,,That last toss was a close call.{NOTE:さっきのトスは危なかったわ。}
+Dialogue: 0,0:50:27.67,0:50:29.21,Default,Hayakawa,0,0,0,,Keep tossing to me.{NOTE:いいトスをどんどんを上げてね。}
+Dialogue: 0,0:50:29.21,0:50:31.25,Default,Kashiwagi,0,0,0,,Eh? That was for Ayuhara-san.{NOTE:え？あれは鮎原さんへ。}
+Dialogue: 0,0:50:32.09,0:50:33.05,Alternative,Hongou,0,0,0,,Hm.{NOTE:ん。}
+Dialogue: 0,0:50:33.05,0:50:34.63,Alternative,Hongou,0,0,0,,The problem starts here.{NOTE:これからが問題だ。}
+Dialogue: 0,0:50:34.63,0:50:36.93,Alternative,Hongou,0,0,0,,They're getting better and that's a fact.{NOTE:確かに見違えるほど上達している。}
+Dialogue: 0,0:50:36.93,0:50:40.18,Alternative,Hongou,0,0,0,,This will probably drive them to start taking Matsushima lightly.{NOTE:それを松島中は甘く考えていたために押されている。}
+Dialogue: 0,0:50:40.18,0:50:43.85,Alternative,Hongou,0,0,0,,That strategy time can cost them everything.{NOTE:しかし、この作戦タイミングは1点も取れなくなるだろう。}
+Dialogue: 0,0:50:56.70,0:50:58.03,Default,Kashiwagi,0,0,0,,Ayuhara-san!{NOTE:鮎原さん！}
+Dialogue: 0,0:50:58.03,0:50:59.03,Default,Hayakawa,0,0,0,,Me!{NOTE:私よ！}
+Dialogue: 0,0:51:17.97,0:51:19.38,Default,Matsushima's coach,0,0,0,,Good, good! Keep it up!{NOTE:よしよし！その調子だ！}
+Dialogue: 0,0:51:19.38,0:51:20.80,Default,(unknown),0,0,0,,Great!{NOTE:いいのよ！}
+Dialogue: 0,0:51:23.01,0:51:25.31,Default,Ayuhara,0,0,0,,Hayakawa-san, you're marked.{NOTE:早川さん、あなたマークされてるわ。}
+Dialogue: 0,0:51:25.31,0:51:27.23,Default,Hayakawa,0,0,0,,What now? Just one more point. It'll be all right.{NOTE:未だ1点でしょう。大丈夫よ！}
+Dialogue: 0,0:51:31.06,0:51:32.44,Default,(unknown),0,0,0,,Kakko!{NOTE:行け！}
+Dialogue: 0,0:51:32.44,0:51:33.40,Default,Kashiwagi,0,0,0,,Got it!{NOTE:はい！}
+Dialogue: 0,0:51:36.11,0:51:37.32,Default,Ayuhara,0,0,0,,Leave it to me!{NOTE:任しておいて！}
+Dialogue: 0,0:51:47.66,0:51:49.21,Blackboard,,0,0,0,,Fujimi ・ Matsushima{NOTE:富士見中・松島中}
+Dialogue: 0,0:51:58.97,0:52:00.51,Blackboard,,0,0,0,,Fujimi ・ Matsushima{NOTE:富士見中・松島中}
+Dialogue: 0,0:52:00.88,0:52:03.05,Default,Matsushima's coach,0,0,0,,Keep it up!{NOTE:XXX！}
+Dialogue: 0,0:52:03.05,0:52:04.43,Alternative,Hayakawa,0,0,0,,We had a lead just a second ago.{NOTE:あんなに勝ってたのに。}
+Dialogue: 0,0:52:04.43,0:52:06.68,Alternative,Hayakawa,0,0,0,,Too bad, but this set goes to you.{NOTE:残念だけど、このセットは負けよ。}
+Dialogue: 0,0:52:06.68,0:52:08.73,Default,Ayuhara,0,0,0,,At this rate we might lose the second set as well.{NOTE:このまま次のセットも危ないわ。}
+Dialogue: 0,0:52:08.73,0:52:10.14,Default,Ayuhara,0,0,0,,We have to do something.{NOTE:何とかしなくちゃ。}
+Dialogue: 0,0:52:10.14,0:52:14.15,Default,Katsuragi,0,0,0,,This is where the coach should come up with an advice.{NOTE:こんな時コーチがちゃんと指示してくれるのが普通なのに。}
+Dialogue: 0,0:52:14.15,0:52:16.69,Default,Ikezaki,0,0,0,,But with our coach…{NOTE:内のコーチと来たら…}
+Dialogue: 0,0:52:16.69,0:52:18.03,Alternative,Hongou,0,0,0,,It's a pinch.{NOTE:ピンチだ。}
+Dialogue: 0,0:52:18.03,0:52:21.03,Alternative,Hongou,0,0,0,,But you can survive this.{NOTE:しかし、君達の力で(XX・乗りきるんだ)。}
+Dialogue: 0,0:52:21.03,0:52:22.99,Alternative,Hongou,0,0,0,,If you do, your enemies will respect your power.{NOTE:その時チームの実力をはっきり分かる。}
+Dialogue: 0,0:52:24.95,0:52:26.74,Default,Matsushima's coach,0,0,0,,You did well.{NOTE:よし、皆よくやった。}
+Dialogue: 0,0:52:26.74,0:52:30.21,Default,Matsushima's coach,0,0,0,,Marking Hayakawa was a success. Now they'll surely switch to Ayuhara.{NOTE:早川みどりをマークしたのは成功だが、今度は鮎原の送ってくるに違いない。}
+Dialogue: 0,0:52:30.21,0:52:30.66,Default,(unison),0,0,0,,Yeah.{NOTE:うん。}
+Dialogue: 0,0:52:30.66,0:52:32.46,Default,Matsushima's coach,0,0,0,,Mark these two thoroughly until the end.{NOTE:今度はこの二人を徹底的にマークするのだ。}
+Dialogue: 0,0:52:32.46,0:52:33.08,Default,Matsushima's coach,0,0,0,,Got it?{NOTE:いいな？}
+Dialogue: 0,0:52:33.08,0:52:33.71,Default,(unison),0,0,0,,– Yes sir.\N– Yes sir.{NOTE:はい。}
+Dialogue: 0,0:52:34.79,0:52:39.17,Default,Hayakawa,0,0,0,,This is embarrassing, but I'm thoroughly marked.{NOTE:勝手で悪いけど、私は徹底的にマークされてるでしょ？}
+Dialogue: 0,0:52:39.17,0:52:43.01,Default,Hayakawa,0,0,0,,I'd like to try to attack in turns with Ayuhara-san.{NOTE:だから、鮎原さんと交代交代で攻撃してみたらと思うんだけど。}
+Dialogue: 0,0:52:43.01,0:52:44.14,Default,Hayakawa,0,0,0,,What do you think?{NOTE:いい？}
+Dialogue: 0,0:52:44.14,0:52:46.05,Default,Katsuragi,0,0,0,,Yeah. It's not like we have other options.{NOTE:そうよ。そうした方がいいわ。}
+Dialogue: 0,0:52:46.05,0:52:48.10,Default,Ikezaki,0,0,0,,Yeah. Sounds like it's going to work.{NOTE:うん。それならきっと上手く行くわよ。}
+Dialogue: 0,0:52:48.10,0:52:49.72,Default,Ikezaki,0,0,0,,Don't you think?{NOTE:ね、皆？}
+Dialogue: 0,0:52:49.72,0:52:52.23,Default,Ayuhara,0,0,0,,All right. Let's try alternating our attacks.{NOTE:え。そうね。交代でやってみましょう。}
+Dialogue: 0,0:52:52.23,0:52:54.65,Default,Ayuhara,0,0,0,,After all, if we lose this set, we lose the match.{NOTE:このセット落としたら、試合がお終いなんですもんね。}
+Dialogue: 0,0:52:57.36,0:52:58.40,Default,(unknown),0,0,0,,Good luck!{NOTE:頑張りましょう。}
+Dialogue: 0,0:53:02.20,0:53:03.20,Default,(unknown),0,0,0,,Okay!{NOTE:オッケー！}
+Dialogue: 0,0:53:07.41,0:53:08.41,Default,(unknown),0,0,0,,Midori!{NOTE:みどり！}
+Dialogue: 0,0:53:09.62,0:53:10.70,Default,Ikezaki,0,0,0,,Ah, I'm sorry!{NOTE:あ、ごめん！}
+Dialogue: 0,0:53:23.63,0:53:25.01,Default,Ayuhara,0,0,0,,Referee, time!{NOTE:信販、タイム！}
+Dialogue: 0,0:53:26.05,0:53:28.10,Alternative,Hongou,0,0,0,,Ayuhara-kun asked for time.{NOTE:鮎原がタイムを要求した。}
+Dialogue: 0,0:53:28.10,0:53:29.97,Alternative,Hongou,0,0,0,,I wonder what strategy she comes up with.{NOTE:だんな作戦を立てるかな？}
+Dialogue: 0,0:53:31.56,0:53:32.89,Default,Ayuhara,0,0,0,,Hayakawa-san, listen carefully.{NOTE:早川さん、よく聞いて。}
+Dialogue: 0,0:53:32.89,0:53:35.94,Default,Ayuhara,0,0,0,,Me and you are completely marked.{NOTE:私達二人は徹底的にマークされてるのよ。}
+Dialogue: 0,0:53:35.94,0:53:37.40,Default,Hayakawa,0,0,0,,I know that already.{NOTE:分かってるわ。}
+Dialogue: 0,0:53:37.40,0:53:39.23,Default,Ayuhara,0,0,0,,Plus their block is impenetrable.{NOTE:そして相手のストップは安全よ。}
+Dialogue: 0,0:53:39.23,0:53:41.28,Default,Ayuhara,0,0,0,,Their form is at its best, too.{NOTE:その上、XX最高に上手いわ。}
+Dialogue: 0,0:53:41.28,0:53:43.90,Default,Ayuhara,0,0,0,,Finally their coach knows our weak points very well.{NOTE:それにあのコーチが私達の弱点をよく知ってる。}
+Dialogue: 0,0:53:43.90,0:53:46.07,Default,Ayuhara,0,0,0,,The question is who attacks next.{NOTE:つまり、次に誰がアタックするか？}
+Dialogue: 0,0:53:46.07,0:53:51.83,Default,Ayuhara,0,0,0,,They already know from the toss alone whether it's Hayakawa-san or me who hits the ball.{NOTE:そう。あのあなた達はトスが上がる時に私が打つか、早川さんが打つか、はっきり分かるって言う事よ。}
+Dialogue: 0,0:53:51.83,0:53:52.58,Default,Ayuhara,0,0,0,,Right?{NOTE:ね？}
+Dialogue: 0,0:53:52.58,0:53:53.83,Default,Kashiwagi,0,0,0,,A-And…?{NOTE:そ、それで？}
+Dialogue: 0,0:53:53.83,0:53:58.67,Default,Ayuhara,0,0,0,,Now, if we destroy their focus, we destroy their defense.{NOTE:だから、ストップにも余裕綽々で、XXも完全にしかれてしまう。}
+Dialogue: 0,0:53:58.67,0:54:00.67,Default,Ayuhara,0,0,0,,We need to break that focus.{NOTE:これを徹底的に崩すのよ。}
+Dialogue: 0,0:54:00.67,0:54:01.84,Default,Hayakawa,0,0,0,,Yes but how?{NOTE:どうやって？}
+Dialogue: 0,0:54:01.84,0:54:05.76,Default,Ayuhara,0,0,0,,First, me and Hayakawa-san move away from the ball, then we swiftly attack.{NOTE:先ず、私と早川さんはボールがパックに入ったら、すぐアタックを用意するの。}
+Dialogue: 0,0:54:05.76,0:54:07.43,Default,Ayuhara,0,0,0,,Come closer, everyone.{NOTE:皆ちょっと、いい？}
+Dialogue: 0,0:54:10.93,0:54:13.18,Alternative,Hongou,0,0,0,,Looks like Ayuhara-san's plan is settled.{NOTE:何とか鮎原の作戦がまとまったようだな。}
+Dialogue: 0,0:54:16.19,0:54:17.44,Default,(unknown),0,0,0,,All right, let's go.{NOTE:さ、行くわよ。}
+Dialogue: 0,0:54:31.03,0:54:31.83,Default,Ayuhara,0,0,0,,Attack!{NOTE:アタック！}
+Dialogue: 0,0:54:33.58,0:54:34.50,Default,Hongou,0,0,0,,There it is!{NOTE:出来た！}
+Dialogue: 0,0:54:34.50,0:54:35.62,Default,Hongou,0,0,0,,The attack duo!{NOTE:アタックコンビが！}
+Dialogue: 0,0:54:36.25,0:54:37.04,Default,Ichinose,0,0,0,,Huh?{NOTE:え？}
+Dialogue: 0,0:54:40.00,0:54:41.38,Default,Katsuragi,0,0,0,,Here I go!{NOTE:はい、行くわよ！}
+Dialogue: 0,0:54:52.43,0:54:53.56,Default,(unknown),0,0,0,,Nice, nice!{NOTE:ナイス、ナイス！}
+Dialogue: 0,0:55:13.91,0:55:14.70,Default,Ayuhara,0,0,0,,Attack!{NOTE:アタック！}
+Dialogue: 0,0:55:14.87,0:55:16.20,Blackboard,,0,0,0,,Fujimi ・ Matsushima{NOTE:富士見中・松島中}
+Dialogue: 0,0:55:23.59,0:55:26.80,Blackboard,,0,0,0,,Fujimi ・ Matsushima{NOTE:富士見中・松島中}
+Dialogue: 0,0:55:24.84,0:55:28.01,Default,Ichinose,0,0,0,,Professor, the tables have turned. It's the set point.{NOTE:先生、とうとう逆転ですよ。セットポイントです。}
+Dialogue: 0,0:55:36.81,0:55:38.10,Default,Kashiwagi,0,0,0,,Ayuhara-san, awesome!{NOTE:鮎原さん、すごい。}
+Dialogue: 0,0:55:38.10,0:55:39.73,Default,Kashiwagi,0,0,0,,We got to the final set.{NOTE:ファイナルセットに持ち込めたわね。}
+Dialogue: 0,0:55:41.81,0:55:45.11,Default,Ichinose,0,0,0,,They're amazing, don't you think, professor?{NOTE:本郷先生。彼女達すごいですね。}
+Dialogue: 0,0:55:45.90,0:55:48.24,Alternative,Hongou,0,0,0,,Ayuhara and Hayakawa managed to form a duo.{NOTE:鮎原と早川のコンビも出来た。}
+Dialogue: 0,0:55:48.24,0:55:49.95,Alternative,Hongou,0,0,0,,With this, their team should be safe.{NOTE:これでチームは上手く行く。}
+Dialogue: 0,0:55:54.33,0:55:57.29,Alternative,Hongou,0,0,0,,I don't need to see the last set to know the outcome.{NOTE:第三セットは見なくても、結果が分かってる。}
+Dialogue: 0,0:55:57.29,0:55:58.87,Alternative,Hongou,0,0,0,,They'll win for sure.{NOTE:必ず勝つだろう。}
+Dialogue: 0,0:55:58.87,0:56:05.46,Alternative,Hongou,0,0,0,,But no matter how strong we are, if we aren't united, we won't accomplish anything.{NOTE:しかし、いくら力がついても、選手達と心が通い合わなければ何もならん。}
+Dialogue: 0,0:56:05.46,0:56:08.42,Alternative,Hongou,0,0,0,,I'll keep my promise. I'll withdraw from coaching.{NOTE:約束は約束。僕はコーチから手を引く。}
+Dialogue: 0,0:56:14.22,0:56:15.60,Blackboard,,0,0,0,,Fujimi ・ Matsushima{NOTE:富士見中・松島中}
+Dialogue: 0,0:56:15.72,0:56:18.14,Default,Ayuhara,0,0,0,,All right, match point. Do your best.{NOTE:さ、マッチポイントよ。頑張ってきましょう！}
+Dialogue: 0,0:56:18.14,0:56:19.02,Default,(unknown),0,0,0,,Okay!{NOTE:オッケー！}
+Dialogue: 0,0:56:19.02,0:56:20.81,Default,(unknown),0,0,0,,– Good luck, girls!\N– Yeah!{NOTE:—いいぞ頑張って！\\N—うん！—おう！}
+Dialogue: 0,0:56:37.04,0:56:37.74,Default,Matsushima's coach,0,0,0,,Chance!{NOTE:チャンス！}
+Dialogue: 0,0:56:44.79,0:56:45.50,Default,Ayuhara,0,0,0,,Attack!{NOTE:アタック！}
+Dialogue: 0,0:56:49.34,0:56:51.72,Default,Ayuhara,0,0,0,,We won. It's our victory.{NOTE:勝ったわ！私達は勝ったのよ！}
+Dialogue: 0,0:56:56.14,0:56:57.97,Default,Matsushima's coach,0,0,0,,Don't be sad about this loss.{NOTE:負けてがっかりするんじゃない。}
+Dialogue: 0,0:56:57.97,0:57:00.93,Default,Matsushima's coach,0,0,0,,Let's do our best to defeat Fujimi Academy in the future.{NOTE:明日から富士見学園を目標に頑張るんだ。}
+Dialogue: 0,0:57:00.93,0:57:01.56,Default,Matsushima's coach,0,0,0,,Got it?{NOTE:いいな？}
+Dialogue: 0,0:57:01.56,0:57:02.52,Default,(unison),0,0,0,,– Yes sir.\N– Yeah.{NOTE:—はい。\\N—はい。}
+Dialogue: 0,0:57:02.52,0:57:03.73,Default,(unison),0,0,0,,We'll do our best.{NOTE:頑張ります。}
+Dialogue: 0,0:57:04.77,0:57:06.86,Default,(unknown),0,0,0,,We'll get back at them for sure.{NOTE:きっとお返しするわ。}
+Dialogue: 0,0:57:06.86,0:57:10.44,Default,Matsushima's coach,0,0,0,,That's the spirit. That's our Matsushima's volleyball club.{NOTE:よし。負けて、それを教訓するのは松島中のバレー部だ。}
+Dialogue: 0,0:57:10.44,0:57:12.15,Default,(unison),0,0,0,,– Yes sir.\N– Yes sir.{NOTE:—はい。\\N—はい。}
+Dialogue: 0,0:57:12.15,0:57:13.57,Default,Matsushima's coach,0,0,0,,From now, let's do our best!{NOTE:これからも頑張ろう。}
+Dialogue: 0,0:57:13.57,0:57:14.41,Default,Matsushima's coach,0,0,0,,Fight!{NOTE:ファイト！}
+Dialogue: 0,0:57:14.41,0:57:15.41,Default,(unison),0,0,0,,– Yeah!\N– Yeah!{NOTE:—おう！\\N—おう！}
+Dialogue: 0,0:57:18.95,0:57:20.83,Default,Ayuhara,0,0,0,,Hey, we won.{NOTE:私達は勝ったのよ。}
+Dialogue: 0,0:57:20.83,0:57:22.25,Default,Ayuhara,0,0,0,,What is it, everyone?{NOTE:どうしたの、皆？}
+Dialogue: 0,0:57:25.42,0:57:26.71,Default,(unknown),0,0,0,,It's nothing.{NOTE:何でもないわ。}
+Dialogue: 0,0:57:26.71,0:57:31.51,Default,Kashiwagi,0,0,0,,But seeing them united with their coach so well… I'm a little jealous.{NOTE:ただ、相手の選手達とコーチの心が通い合ってるの見るとちょっと羨ましいの。}
+Dialogue: 0,0:57:31.51,0:57:32.47,Default,Kashiwagi,0,0,0,,That's all there is to it.{NOTE:それだけよ。}
+Dialogue: 0,0:57:36.34,0:57:37.64,Default,Ayuhara,0,0,0,,What is it, Hayakawa-san?{NOTE:どうしたの、早川さん？}
+Dialogue: 0,0:57:39.93,0:57:41.43,Default,(mixed),0,0,0,,– What?\N– Huh?{NOTE:—何？\\N—何？}
+Dialogue: 0,0:57:41.43,0:57:42.43,Default,Hayakawa,0,0,0,,Ayuhara-san.{NOTE:鮎原さん。}
+Dialogue: 0,0:57:42.43,0:57:44.89,Default,Hayakawa,0,0,0,,I need to settle this with you.{NOTE:私ちょっと鳧を付けておきたい事があるわ。}
+Dialogue: 0,0:57:44.89,0:57:47.15,Default,Hayakawa,0,0,0,,In front of the others, too.{NOTE:それも皆のいる前で。}
+Dialogue: 0,0:57:47.15,0:57:49.65,Default,Ayuhara,0,0,0,,Eh? Do you still intend to fight?{NOTE:え？未だ喧嘩を続けるつもりなの？}
+Dialogue: 0,0:57:52.03,0:57:53.61,Default,Hayakawa,0,0,0,,Girls, you too listen.{NOTE:皆も聞いて。}
+Dialogue: 0,0:57:53.61,0:57:57.95,Default,Hayakawa,0,0,0,,For a while, I've been thinking about\Nthe importance of the teamwork to volleyball.{NOTE:バレーボールにとってチームワークがどんなに大切なものか。}
+Dialogue: 0,0:57:57.95,0:57:58.91,Default,Kashiwagi,0,0,0,,Hayakawa-san…{NOTE:早川さん。}
+Dialogue: 0,0:57:58.91,0:58:01.49,Default,Hayakawa,0,0,0,,This time I finally saw it clearly and it clicked.{NOTE:今度と言う今渡は身に染みてよく分かったわ。}
+Dialogue: 0,0:58:03.91,0:58:05.16,Default,Hayakawa,0,0,0,,Ayuhara-san.{NOTE:鮎原さん。}
+Dialogue: 0,0:58:05.16,0:58:07.08,Default,Hayakawa,0,0,0,,I was completely mistaken.{NOTE:私間違っていた。}
+Dialogue: 0,0:58:07.08,0:58:10.34,Default,Hayakawa,0,0,0,,I won't ask for your pardon, because I don't think I can be forgiven…{NOTE:今までの事を許してと言っても許されるものじゃないと思うけど。}
+Dialogue: 0,0:58:10.34,0:58:11.21,Default,Hayakawa,0,0,0,,Let's end this.{NOTE:お願い。}
+Dialogue: 0,0:58:12.76,0:58:15.09,Default,Hayakawa,0,0,0,,Make yourself feel better. Slap me all you want.{NOTE:気が済むように私の方を打って。}
+Dialogue: 0,0:58:19.14,0:58:22.18,Default,Ayuhara,0,0,0,,I'm sorry. I lost my cool.{NOTE:ごめん。XXからがはいって。}
+Dialogue: 0,0:58:22.18,0:58:23.81,Default,Hayakawa,0,0,0,,Thank you, Ayuhara-san.{NOTE:ありがとう、鮎原さん。}
+Dialogue: 0,0:58:23.81,0:58:25.39,Default,Hayakawa,0,0,0,,I'm relieved.{NOTE:XXX。}
+Dialogue: 0,0:58:26.94,0:58:30.69,Default,Ayuhara,0,0,0,,With this we finally become proper team mates.{NOTE:これで私達本当のチームメイトに成れるわね。}
+Dialogue: 0,0:58:30.69,0:58:33.15,Default,Hayakawa,0,0,0,,I'm really happy you're saying this.{NOTE:そう言ってくれた本当に嬉しいわ。}
+Dialogue: 0,0:58:33.15,0:58:36.70,Default,Hayakawa,0,0,0,,But there's another thing I want to settle here.{NOTE:でも、もう一つはっきりさせて事もあるわ。}
+Dialogue: 0,0:58:36.70,0:58:37.82,Default,Ayuhara,0,0,0,,There's more?{NOTE:未だあるの？}
+Dialogue: 0,0:58:37.82,0:58:40.41,Default,Hayakawa,0,0,0,,Yeah. It's just my opinion.{NOTE:え。私思うの。}
+Dialogue: 0,0:58:40.41,0:58:45.29,Default,Hayakawa,0,0,0,,I think that our Fujimi Academy volleyball club's captain can be no one other than you, Ayuhara-san.{NOTE:我が富士見学園バレー部のキャプテンは鮎原さん以外にないと思うのよ。}
+Dialogue: 0,0:58:50.38,0:58:52.17,Default,Hayakawa,0,0,0,,What do you think, girls?{NOTE:皆の意見はどう？}
+Dialogue: 0,0:58:52.17,0:58:54.30,Default,Kashiwagi,0,0,0,,I agree. I completely agree.{NOTE:賛成。私は賛成だわ。}
+Dialogue: 0,0:58:54.88,0:58:56.84,Default,Katsuragi,0,0,0,,I think it's for the best too.{NOTE:私もそれがいいと思うわ。}
+Dialogue: 0,0:58:56.84,0:58:58.05,Default,(unison),0,0,0,,– Agreed.\N– Agreed.{NOTE:賛成！}
+Dialogue: 0,0:59:05.77,0:59:07.77,Default,Hayakawa,0,0,0,,Will you do it?{NOTE:やってくれるわね。}
+Dialogue: 0,0:59:07.77,0:59:11.27,Default,Ayuhara,0,0,0,,I will. Let's aim for the Japan's top.{NOTE:やるわ。日本一のバレー部を目指して。}
+Dialogue: 0,0:59:11.27,0:59:12.32,Default,Ayuhara,0,0,0,,Hayakawa-san.{NOTE:早川さん。}
+Dialogue: 0,0:59:12.32,0:59:13.61,Default,Ayuhara,0,0,0,,Everyone. Thank you.{NOTE:皆有難う。}
+Dialogue: 0,0:59:13.61,0:59:16.40,Default,(unison),0,0,0,,Long live captain Ayuhara!{NOTE:—鮎原さん、万歳！\\N—鮎原キャプテン、万歳！}
+Dialogue: 0,0:59:16.40,0:59:18.74,Alternative,Hayakawa,0,0,0,,Ayuhara-san. From today, they're yours.{NOTE:鮎原さん、今日からあなたよ。}
+Dialogue: 0,0:59:18.74,0:59:20.07,Alternative,Hayakawa,0,0,0,,My goal and my dreams.{NOTE:私の目標は。}
+Dialogue: 0,0:59:21.53,0:59:23.83,Alternative,Ayuhara,0,0,0,,Hayakawa-san, you understand now.{NOTE:早川さん。分かってくれたのね。}
+Dialogue: 0,0:59:26.87,0:59:28.50,Default,Ichinose,0,0,0,,Yo. Congratulations.{NOTE:よ、おめでとう。}
+Dialogue: 0,0:59:28.50,0:59:31.00,Default,Ichinose,0,0,0,,I'm surprised. You've become this strong…{NOTE:驚いたな。こんなに強くなるなんて。}
+Dialogue: 0,0:59:31.00,0:59:32.67,Default,Ayuhara,0,0,0,,Tsutomu-kun, where's prof. Hongou?{NOTE:努くん、本郷先生知らない？}
+Dialogue: 0,0:59:32.67,0:59:33.17,Default,Ichinose,0,0,0,,Hm?{NOTE:ん？}
+Dialogue: 0,0:59:33.17,0:59:37.63,Default,Ichinose,0,0,0,,He said he'll withdraw as promised and left when the final set started.{NOTE:約束通り、身を引くと言って第３セットが始まる頃帰っていたよ。}
+Dialogue: 0,0:59:37.63,0:59:38.34,Default,Ayuhara,0,0,0,,He did, huh…{NOTE:ま。}
+Dialogue: 0,0:59:39.38,0:59:40.89,Default,Ayuhara,0,0,0,,What do we do?{NOTE:どうする皆？}
+Dialogue: 0,0:59:40.89,0:59:43.47,Default,Ayuhara,0,0,0,,Do we get him to give up like he promised?{NOTE:約束通り本郷先生にコーチを止めてもらう？}
+Dialogue: 0,0:59:44.01,0:59:45.89,Default,(unison),0,0,0,,– Hm…\N– Hmm…{NOTE:んん。}
+Dialogue: 0,0:59:45.89,0:59:47.02,Default,Ayuhara,0,0,0,,I got it!{NOTE:分かったわ！}
+Dialogue: 0,0:59:47.02,0:59:51.31,Default,Ayuhara,0,0,0,,You're probably thinking the same. In the end, our club needs professor Hongou.{NOTE:そう。皆同じ考えね。やっぱり私達には本郷先生が必要なのよ。}
+Dialogue: 0,0:59:51.69,0:59:55.65,Sign,,0,0,0,,Volleyball club's room{NOTE:バレー部室}
+Dialogue: 0,0:59:57.86,0:59:59.07,Default,Ayuhara,0,0,0,,Oh? What's that?{NOTE:あ？あれは？}
+Dialogue: 0,0:59:59.07,1:00:00.03,Default,(unison),0,0,0,,Oh?{NOTE:え？}
+Dialogue: 0,1:00:01.28,1:00:03.74,Alternative,Hongou,0,0,0,,As promised, I've withdrew from coaching.{NOTE:約束通りコーチを止めてやる。}
+Dialogue: 0,1:00:03.74,1:00:06.12,Alternative,Hongou,0,0,0,,Rejoice, weaklings.{NOTE:喜べ、下手糞共。}
+Dialogue: 0,1:00:06.12,1:00:09.33,Alternative,Hongou,0,0,0,,If you don't want me to laugh at you,\Ndo your best from now on.{NOTE:俺に笑われたくなければ、これからもしっかりやれ。}
+Dialogue: 0,1:00:09.33,1:00:10.16,Alternative,Hongou,0,0,0,,Hongou.{NOTE:本郷。}
+Dialogue: 0,1:00:16.55,1:00:18.59,Default,Kashiwagi,0,0,0,,It can't be. It can't be!{NOTE:嘘。嘘よ！}
+Dialogue: 0,1:00:18.59,1:00:21.09,Default,Kashiwagi,0,0,0,,He doesn't really want to withdraw.{NOTE:先生本当はコーチを止めたくないのに。}
+Dialogue: 0,1:00:21.09,1:00:23.34,Default,Kashiwagi,0,0,0,,That's why he came here alone.{NOTE:だから、ここに来て一人でいたのに。}
 Dialogue: 0,1:00:23.34,1:00:24.55,Default,Kashiwagi,0,0,0,,
-Dialogue: 0,1:00:28.06,1:00:31.27,Alternative,Ayuhara,0,0,0,,{NOTE:それを、止めてやるとか、下手糞共とか。}
-Dialogue: 0,1:00:31.27,1:00:33.65,Alternative,Ayuhara,0,0,0,,{NOTE:一生懸命をXしてるんだ。}
-Dialogue: 0,1:00:33.65,1:00:35.98,Default,Ayuhara,0,0,0,,{NOTE:行きましょう、先生の家へ。ね?}
-Dialogue: 0,1:00:35.98,1:00:38.23,Default,Ayuhara,0,0,0,,{NOTE:皆の気持ちを早く先生に伝えましょう。}
-Dialogue: 0,1:00:38.23,1:00:39.36,Default,(unison),0,0,0,,{NOTE:—うん！\\N—うん！}
-Dialogue: 0,1:00:41.70,1:00:44.87,Default,Kashiwagi,0,0,0,,{NOTE:ね、浜に行くって言って、さっきお家を出てったそうよ。}
-Dialogue: 0,1:00:44.87,1:00:46.03,Default,Hayakawa,0,0,0,,{NOTE:よし。行きましょう。}
-Dialogue: 0,1:00:58.84,1:01:01.01,Default,Ayuhara,0,0,0,,{NOTE:あ、あそこにいるのそうじゃない？}
-Dialogue: 0,1:01:01.01,1:01:02.93,Default,(mixed),0,0,0,,{NOTE:—そうよ。\\N—そうよ！\\N—そうよ！}
-Dialogue: 0,1:01:02.93,1:01:04.39,Default,Ayuhara,0,0,0,,{NOTE:さ、皆で行きましょうよ。}
-Dialogue: 0,1:01:04.39,1:01:05.80,Default,Ayuhara,0,0,0,,{NOTE:本郷先生！}
-Dialogue: 0,1:01:05.80,1:01:08.06,Default,(unison),0,0,0,,{NOTE:—本郷先生！\\N—本郷先生！}
-Dialogue: 0,1:01:08.56,1:01:13.73,Default,(mixed),0,0,0,,{NOTE:—先生！—先生！\\N—本郷先生！—本郷先生！}
-Dialogue: 0,1:01:14.56,1:01:16.73,Alternative,Hongou,0,0,0,,{NOTE:やっと心が通い合ったんだ。}
-Dialogue: 0,1:01:16.73,1:01:20.03,Alternative,Hongou,0,0,0,,{NOTE:日本一のバレー部の第一歩が始まるんだ。}
-Dialogue: 0,1:01:20.03,1:01:21.32,Default,Hongou,0,0,0,,{NOTE:下手糞共！}
-Dialogue: 0,1:01:21.32,1:01:22.65,Default,Hongou,0,0,0,,{NOTE:何しにきた！}
-Dialogue: 0,1:01:22.65,1:01:24.95,Default,Ayuhara,0,0,0,,{NOTE:—先生！\\N—コーチお願いします！}
-Dialogue: 0,1:01:24.95,1:01:26.95,Default,(mixed),0,0,0,,{NOTE:止めないでください！}
-Dialogue: 0,1:01:31.00,1:01:33.00,Alternative,Hongou,0,0,0,,{NOTE:素晴らしいチームが生まれるぞ！}
-Dialogue: 0,1:01:33.25,1:01:34.54,Default,Hayakawa,0,0,0,,{NOTE:先生！}
-Dialogue: 0,1:01:34.87,1:01:36.50,Default,Katsuragi,0,0,0,,{NOTE:本郷先生！}
-Dialogue: 0,1:01:36.88,1:01:37.71,Alternative,Hongou,0,0,0,,{NOTE:よし。}
-Dialogue: 0,1:01:37.71,1:01:39.17,Alternative,Hongou,0,0,0,,{NOTE:僕が…}
-Dialogue: 0,1:01:39.17,1:01:41.46,Alternative,Hongou,0,0,0,,{NOTE:僕がきっと日本一のバレー部にしてみせる。}
-Dialogue: 0,1:01:41.46,1:01:43.55,Default,(mixed),0,0,0,,{NOTE:—先生！—先生！}
+Dialogue: 0,1:00:28.06,1:00:31.27,Alternative,Ayuhara,0,0,0,,That's right. "Quit the club"… "weaklings"…{NOTE:それを、止めてやるとか、下手糞共とか。}
+Dialogue: 0,1:00:31.27,1:00:33.65,Alternative,Ayuhara,0,0,0,,Nothing changes the fact he gave his best with us.{NOTE:一生懸命をXしてるんだ。}
+Dialogue: 0,1:00:33.65,1:00:35.98,Default,Ayuhara,0,0,0,,Let's try his home.{NOTE:行きましょう、先生の家へ。ね?}
+Dialogue: 0,1:00:35.98,1:00:38.23,Default,Ayuhara,0,0,0,,We need to convey our feelings to him.{NOTE:皆の気持ちを早く先生に伝えましょう。}
+Dialogue: 0,1:00:38.23,1:00:39.36,Default,(unison),0,0,0,,– Yep!\N– Yep!{NOTE:—うん！\\N—うん！}
+Dialogue: 0,1:00:41.70,1:00:44.87,Default,Kashiwagi,0,0,0,,He's said to have gone to the beach.{NOTE:ね、浜に行くって言って、さっきお家を出てったそうよ。}
+Dialogue: 0,1:00:44.87,1:00:46.03,Default,Hayakawa,0,0,0,,All right, let's go.{NOTE:よし。行きましょう。}
+Dialogue: 0,1:00:58.84,1:01:01.01,Default,Ayuhara,0,0,0,,Ah, isn't that him?{NOTE:あ、あそこにいるのそうじゃない？}
+Dialogue: 0,1:01:01.01,1:01:02.93,Default,(mixed),0,0,0,,– Yeah. – Yeah!\N– He is!{NOTE:—そうよ。\\N—そうよ！\\N—そうよ！}
+Dialogue: 0,1:01:02.93,1:01:04.39,Default,Ayuhara,0,0,0,,All right, let's call out to him.{NOTE:さ、皆で行きましょうよ。}
+Dialogue: 0,1:01:04.39,1:01:05.80,Default,Ayuhara,0,0,0,,Professor Hongou!{NOTE:本郷先生！}
+Dialogue: 0,1:01:05.80,1:01:08.06,Default,(unison),0,0,0,,– Professor Hongou!\N– Professor Hongou!{NOTE:—本郷先生！\\N—本郷先生！}
+Dialogue: 0,1:01:08.56,1:01:13.73,Default,(mixed),0,0,0,,– Professor! – Professor!\N– Professor Hongou!{NOTE:—先生！—先生！\\N—本郷先生！—本郷先生！}
+Dialogue: 0,1:01:14.56,1:01:16.73,Alternative,Hongou,0,0,0,,Looks like we've finally united.{NOTE:やっと心が通い合ったんだ。}
+Dialogue: 0,1:01:16.73,1:01:20.03,Alternative,Hongou,0,0,0,,It's the first step for the Japan's best volleyball club.{NOTE:日本一のバレー部の第一歩が始まるんだ。}
+Dialogue: 0,1:01:20.03,1:01:21.32,Default,Hongou,0,0,0,,You weaklings!{NOTE:下手糞共！}
+Dialogue: 0,1:01:21.32,1:01:22.40,Default,Hongou,0,0,0,,What did you come for?{NOTE:何しにきた！}
+Dialogue: 0,1:01:22.40,1:01:24.95,Default,Ayuhara,0,0,0,,– Professor!\N– Please coach us!{NOTE:—先生！\\N—コーチお願いします！}
+Dialogue: 0,1:01:24.95,1:01:26.95,Default,(mixed),0,0,0,,Don't quit!{NOTE:止めないでください！}
+Dialogue: 0,1:01:31.00,1:01:33.00,Alternative,Hongou,0,0,0,,It's the birth of a wonderful team.{NOTE:素晴らしいチームが生まれるぞ！}
+Dialogue: 0,1:01:33.25,1:01:34.54,Default,Hayakawa,0,0,0,,Professor!{NOTE:先生！}
+Dialogue: 0,1:01:34.87,1:01:36.50,Default,Katsuragi,0,0,0,,Professor Hongou!{NOTE:本郷先生！}
+Dialogue: 0,1:01:36.88,1:01:37.71,Alternative,Hongou,0,0,0,,All right.{NOTE:よし。}
+Dialogue: 0,1:01:37.71,1:01:39.17,Alternative,Hongou,0,0,0,,I will…{NOTE:僕が…}
+Dialogue: 0,1:01:39.17,1:01:41.46,Alternative,Hongou,0,0,0,,I will make you into the Japan's best team!{NOTE:僕がきっと日本一のバレー部にしてみせる。}
+Dialogue: 0,1:01:41.46,1:01:43.55,Default,(mixed),0,0,0,,– Professor!\N– Professor!{NOTE:—先生！—先生！}
