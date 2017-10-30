@@ -25,6 +25,7 @@ Style: Default (ru),Calibri,45.0,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,Opening
 Dialogue: 0,0:00:20.56,0:00:24.93,Lyrics JP,,0,0,0,,{\an8}苦しくたって
 Dialogue: 0,0:00:24.93,0:00:28.52,Lyrics JP,,0,0,0,,{\an8}悲しくたって
 Dialogue: 0,0:00:28.52,0:00:35.49,Lyrics JP,,0,0,0,,{\an8}コートのなかでは平気なの
@@ -61,7 +62,9 @@ Dialogue: 0,0:00:58.72,0:01:06.89,Lyrics EN,,0,0,0,,Through the tears and sweat,
 Dialogue: 0,0:01:06.89,0:01:14.90,Lyrics EN,,0,0,0,,…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:14.90,0:01:22.99,Lyrics EN,,0,0,0,,Attack! Attack! Number 1!
 Dialogue: 0,0:01:22.99,0:01:32.41,Lyrics EN,,0,0,0,,Attack! Attack! Number 1!
+Comment: 0,0:01:33.09,0:01:33.09,Default,Chapter,0,0,0,,Title screen
 Dialogue: 0,0:01:38.68,0:01:46.14,Default,,0,0,0,,—Episode 022—\NFight in despair{NOTE:絶望の中のファイト}
+Comment: 0,0:01:46.14,0:01:46.14,Default,Chapter,0,0,0,,Part A
 Dialogue: 0,0:01:51.98,0:01:57.45,Sign,,0,0,0,,{\fad(1000,0)}Fujimigahama municipal hospital{NOTE:富士見ヶ浜市立病院}
 Dialogue: 0,0:02:00.37,0:02:06.20,Default,Ayuhara,0,0,0,,Excuse me, I'd like to see Kudou-san.\NShe was hospitalized yesterday. Is it okay?{NOTE:ちょっと伺いします。あの、昨日入院した工藤さんに面会したいんですが、宜しいでしょうか？}
 Dialogue: 0,0:02:06.20,0:02:08.96,Default,Nurse,0,0,0,,Kudou-san? Oh, she's in room 301.{NOTE:工藤さんですね？三百一号室です。}
@@ -267,6 +270,7 @@ Dialogue: 0,0:11:42.32,0:11:44.12,Default,Ayuhara,0,0,0,,Oh, look at me.{NOTE:�
 Dialogue: 0,0:11:44.12,0:11:47.91,Default,Ayuhara,0,0,0,,Still worrying about the volleyball club's issues even though I'm no longer its member.{NOTE:バレー部員じゃないのに。負けようXどうしようXあたしのしたことじゃない。}
 Dialogue: 0,0:11:47.91,0:11:50.41,Default,Ayuhara,0,0,0,,I'm a member of the gymnastics club now.{NOTE:あたしは体操部の人間ですもの。}
 Dialogue: 0,0:11:50.41,0:11:53.21,Default,Ayuhara,0,0,0,,The volleyball club has nothing to do with me anymore.{NOTE:あんなバレー部なんてXXXなればいいんだわ。}
+Comment: 0,0:12:02.05,0:12:02.05,Default,Chapter,0,0,0,,Part B
 Dialogue: 0,0:12:12.31,0:12:14.56,Default,Hongou,0,0,0,,Good morning. Did you sleep well?{NOTE:皆。よく眠れたか？}
 Dialogue: 0,0:12:14.56,0:12:15.73,Default,(unison),0,0,0,,– Yes sir!\N– Yes sir!{NOTE:—はい！\\N—はい！}
 Dialogue: 0,0:12:15.73,0:12:18.86,Default,Hongou,0,0,0,,Well, today is the qualifiers final.{NOTE:さて、今日はいよいよ予選の決勝だが。}
@@ -495,12 +499,14 @@ Dialogue: 0,0:23:43.46,0:23:45.34,Alternative,Ayuhara,0,0,0,,Something's up.{NOT
 Dialogue: 0,0:23:45.34,0:23:48.05,Alternative,Ayuhara,0,0,0,,And not knowing what it is frustrates me.{NOTE:それがはっきりしないなんて悔しいわ。}
 Dialogue: 0,0:23:48.05,0:23:49.42,Alternative,Ayuhara,0,0,0,,I'll keep enduring it, though.{NOTE:でも負けない。}
 Dialogue: 0,0:23:49.42,0:23:51.43,Alternative,Ayuhara,0,0,0,,How can I not?{NOTE:へこたれるもんか。}
+Comment: 0,0:23:55.43,0:23:55.43,Default,Chapter,0,0,0,,Preview
 Dialogue: 0,0:23:57.93,0:24:01.31,Alternative,Narrator,0,0,0,,The All-Japan volleyball championship games begin.{NOTE:全国バレーボール選手権大会は華やかに開幕し。}
 Dialogue: 0,0:24:01.31,0:24:03.81,Alternative,Narrator,0,0,0,,Fujimi Academy wins the first round.{NOTE:富士見学園は一回戦に楽勝。}
 Dialogue: 0,0:24:03.81,0:24:08.19,Alternative,Narrator,0,0,0,,Meanwhile, Kozue puts up a solitary fight at the gymnastics club.{NOTE:一方、こずえは一人体操部で孤独な戦いを続けている。}
 Dialogue: 0,0:24:08.19,0:24:14.32,Alternative,Narrator,0,0,0,,She quickly grows to hate the challenge of learning multiple kinds of somersaults on such a short notice.{NOTE:三日間でマスターXXという空中回転に憎しみにも似た激しされこずえは挑戦する。}
 Dialogue: 0,0:24:14.32,0:24:18.99,Alternative,Narrator,0,0,0,,It's only then when the rivaling Fukuoka Middle School shows off their true power in Tokyo.{NOTE:そのごろ、東京ではライバル福岡中の活躍が一息は目立っていた。}
 Dialogue: 0,0:24:18.99,0:24:22.83,Alternative,Narrator,0,0,0,,Please look forward to the next episode.{NOTE:さ、来週のアタックナンバーワンはお楽しみに。}
+Comment: 0,0:24:25.46,0:24:25.46,Default,Chapter,0,0,0,,Ending
 Dialogue: 0,0:24:39.29,0:24:43.23,Lyrics JP,,0,0,0,,{\an8}青い青い空に
 Dialogue: 0,0:24:43.23,0:24:46.27,Lyrics JP,,0,0,0,,{\an8}バンボンボボン
 Dialogue: 0,0:24:46.27,0:24:50.40,Lyrics JP,,0,0,0,,{\an8}はずむボールが
