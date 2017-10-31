@@ -25,6 +25,7 @@ Style: Default (ru),Calibri,45.0,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,Opening
 Dialogue: 0,0:00:19.52,0:00:23.89,Lyrics JP,,0,0,0,,{\an8}苦しくたって
 Dialogue: 0,0:00:23.89,0:00:27.48,Lyrics JP,,0,0,0,,{\an8}悲しくたって
 Dialogue: 0,0:00:27.48,0:00:34.45,Lyrics JP,,0,0,0,,{\an8}コートのなかでは平気なの
@@ -61,7 +62,9 @@ Dialogue: 0,0:00:57.68,0:01:05.85,Lyrics EN,,0,0,0,,Through the tears and sweat,
 Dialogue: 0,0:01:05.85,0:01:13.86,Lyrics EN,,0,0,0,,…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:13.86,0:01:21.95,Lyrics EN,,0,0,0,,Attack! Attack! Number 1!
 Dialogue: 0,0:01:21.95,0:01:31.37,Lyrics EN,,0,0,0,,Attack! Attack! Number 1!
+Comment: 0,0:01:32.09,0:01:32.09,Default,Chapter,0,0,0,,Title screen
 Dialogue: 0,0:01:37.68,0:01:45.10,Default,,0,0,0,,—Episode 024—\NRevolving receive{NOTE:嵐を呼ぶ空中回転}
+Comment: 0,0:01:45.10,0:01:45.10,Default,Chapter,0,0,0,,Part A
 Dialogue: 0,0:01:46.06,0:01:55.69,Sign,,0,0,0,,{\fad(1000,1500)}All-Japan Girls Middle School Volleyball Championship finals{NOTE:全国中学女子バレーボール選手権大会}
 Dialogue: 0,0:01:45.48,0:01:47.81,Default,(audience),0,0,0,,Go! {\alpha&HFF&\t(590,590,\alpha&H00&)}Go! {\alpha&HFF&\t(1210,1210,\alpha&H00&)}Fu{\alpha&HFF&\t(1460,1460,\alpha&H00&)}ku{\alpha&HFF&\t(1710,1710,\alpha&H00&)}o{\alpha&HFF&\t(1960,1960,\alpha&H00&)}ka!{NOTE:フレ、フレ、福岡！}
 Dialogue: 0,0:01:47.81,0:01:51.15,Default,(audience),0,0,0,,Go! {\alpha&HFF&\t(500,500,\alpha&H00&)}Go! {\alpha&HFF&\t(1170,1170,\alpha&H00&)}Fu{\alpha&HFF&\t(1460,1460,\alpha&H00&)}ku{\alpha&HFF&\t(1710,1710,\alpha&H00&)}o{\alpha&HFF&\t(2000,2000,\alpha&H00&)}ka!{NOTE:フレ、フレ、福岡！}
@@ -249,6 +252,7 @@ Dialogue: 0,0:12:21.65,0:12:23.70,Default,(mixed),0,0,0,,– All right!\N– Hoo
 Dialogue: 0,0:12:23.70,0:12:27.37,Default,Commentator,0,0,0,,Will Fukuoka Middle School become the champion today?{NOTE:福岡中学もはや念願の優勝今日手にしたも同然か？}
 Dialogue: 0,0:12:34.04,0:12:37.13,Alternative,Ayuhara,0,0,0,,Dear God, please don't let the game end.{NOTE:神様。未だ試合が終わってませんように。}
 Dialogue: 0,0:12:38.25,0:12:40.09,Default,Kakinouchi,0,0,0,,{NOTE:それ！}
+Comment: 0,0:12:46.22,0:12:46.22,Default,Chapter,0,0,0,,Part B
 Dialogue: 0,0:12:56.48,0:12:57.65,Default,(unison),0,0,0,,Right on!{NOTE:XXX。}
 Dialogue: 0,0:12:59.23,0:13:02.11,Default,Commentator,0,0,0,,It was close. It was really close.{NOTE:や、きわどい。全く際どい所。}
 Dialogue: 0,0:13:02.11,0:13:04.99,Default,Commentator,0,0,0,,Kakinouchi's long spike fell just a tiny bit outside the court.{NOTE:垣之内のロングスパイク惜しくも外れました。}
@@ -481,12 +485,14 @@ Dialogue: 0,0:23:35.70,0:23:38.00,Default,(mixed),0,0,0,,– Ah, captain! Hang i
 Dialogue: 0,0:23:40.33,0:23:42.58,Alternative,Ayuhara,0,0,0,,My ankle hurts bad.{NOTE:足首が酷い(XXX・痛い)。}
 Dialogue: 0,0:23:42.58,0:23:44.50,Alternative,Ayuhara,0,0,0,,As expected from Kakinouchi-san.{NOTE:さすがは垣之内さん。}
 Dialogue: 0,0:23:44.50,0:23:46.88,Alternative,Ayuhara,0,0,0,,You are a terrifying rival after all.{NOTE:あなたはやっぱり恐るべきライバルだわ。}
+Comment: 0,0:23:54.43,0:23:54.43,Default,Chapter,0,0,0,,Preview
 Dialogue: 0,0:23:56.85,0:24:00.89,Alternative,Narrator,0,0,0,,Kakinouchi's intense spike hits Kozue.{NOTE:垣之内の強烈なスパイクにこずえはコートに叩きつけられた。}
 Dialogue: 0,0:24:00.89,0:24:06.07,Alternative,Narrator,0,0,0,,Kozue's right ankle is in bad shape, forcing her to use a supporter.{NOTE:サポーターをつけたこずえの右足首に鋭いスパイクが必要に襲い掛かる。}
 Dialogue: 0,0:24:06.07,0:24:09.40,Alternative,Narrator,0,0,0,,The successive victory of Fujimi Academy is decided with two points.{NOTE:後ツーポイントで富士見学園の連続優勝が決まる。}
 Dialogue: 0,0:24:09.40,0:24:11.07,Alternative,Narrator,0,0,0,,Kozue's working hard.{NOTE:懸命に頑張るこずえ。}
 Dialogue: 0,0:24:11.07,0:24:17.12,Alternative,Narrator,0,0,0,,However, with obsessive Fukuoka's counterattacks, it is no longer clear who will win the championship.{NOTE:だが、福岡中学の執念を込めたもう反撃に優勝の行きは全く分からなくなった。}
 Dialogue: 0,0:24:17.12,0:24:21.04,Alternative,Narrator,0,0,0,,Please look forward to the next episode.{NOTE:さ、来週のアタックナンバーワンをお楽しみに。}
+Comment: 0,0:24:24.46,0:24:24.46,Default,Chapter,0,0,0,,Ending
 Dialogue: 0,0:24:38.26,0:24:42.20,Lyrics JP,,0,0,0,,{\an8}青い青い空に
 Dialogue: 0,0:24:42.20,0:24:45.24,Lyrics JP,,0,0,0,,{\an8}バンボンボボン
 Dialogue: 0,0:24:45.24,0:24:49.37,Lyrics JP,,0,0,0,,{\an8}はずむボールが
