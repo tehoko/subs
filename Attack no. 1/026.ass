@@ -25,6 +25,7 @@ Style: Default (ru),Calibri,45.0,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,Opening
 Dialogue: 0,0:00:19.52,0:00:23.89,Lyrics JP,,0,0,0,,{\an8}苦しくたって
 Dialogue: 0,0:00:23.89,0:00:27.48,Lyrics JP,,0,0,0,,{\an8}悲しくたって
 Dialogue: 0,0:00:27.48,0:00:34.45,Lyrics JP,,0,0,0,,{\an8}コートのなかでは平気なの
@@ -61,7 +62,9 @@ Dialogue: 0,0:00:57.68,0:01:05.85,Lyrics EN,,0,0,0,,Through the tears and sweat,
 Dialogue: 0,0:01:05.85,0:01:13.86,Lyrics EN,,0,0,0,,…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:13.86,0:01:21.95,Lyrics EN,,0,0,0,,Attack! Attack! Number 1!
 Dialogue: 0,0:01:21.95,0:01:31.37,Lyrics EN,,0,0,0,,Attack! Attack! Number 1!
+Comment: 0,0:01:32.09,0:01:32.09,Default,Chapter,0,0,0,,Title screen
 Dialogue: 0,0:01:37.72,0:01:45.10,Default,,0,0,0,,—Episode 026—\NA disturbing warning{NOTE:気になる忠告}
+Comment: 0,0:01:45.10,0:01:45.10,Default,Chapter,0,0,0,,Part A
 Dialogue: 0,0:02:12.88,0:02:13.92,Default,Ayuhara,0,0,0,,{NOTE:はい。}
 Dialogue: 0,0:02:19.05,0:02:20.14,Default,Ayuhara,0,0,0,,{NOTE:あ。}
 Dialogue: 0,0:02:21.97,0:02:23.01,Default,Ayuhara,0,0,0,,{NOTE:あ。}
@@ -257,6 +260,7 @@ Dialogue: 0,0:11:02.49,0:11:03.49,Default,Ichinose,0,0,0,,Hm?{NOTE:ん？}
 Dialogue: 0,0:11:03.49,0:11:05.87,Default,Ichinose,0,0,0,,Different countries have different volleyball.{NOTE:色んな国に色んなバレーがあるんだろうな。}
 Dialogue: 0,0:11:13.04,0:11:15.84,Alternative,Ayuhara,0,0,0,,Take that Shellenina's Soviet team for example.{NOTE:あのシェレーニナのソ連チーム(X・のそう)だったわ。}
 Dialogue: 0,0:11:17.63,0:11:22.14,Alternative,Ayuhara,0,0,0,,There are many amazing things in\hthe world that we do not know yet.{NOTE:世界には未だ未だ私達が知らない驚く様なことがいっぱいあるんだろうな。}
+Comment: 0,0:11:31.77,0:11:31.77,Default,Chapter,0,0,0,,Part B
 Dialogue: 0,0:11:39.40,0:11:41.24,Default,Hayakawa,0,0,0,,Studying even during breaks?{NOTE:休み時間まで勉強？}
 Dialogue: 0,0:11:41.24,0:11:42.49,Default,Hayakawa,0,0,0,,You're amazing.{NOTE:凄いわね。}
 Dialogue: 0,0:11:42.49,0:11:44.28,Default,Ayuhara,0,0,0,,Not really. I'm not studying.{NOTE:んん。そうじゃないんだけど。}
@@ -489,12 +493,14 @@ Dialogue: 0,0:23:30.20,0:23:32.28,Default,Inokuma,0,0,0,,That wasn't a revolving
 Dialogue: 0,0:23:33.28,0:23:35.41,Default,Inokuma,0,0,0,,That wasn't a revolving receive!{NOTE:あれは回転レシーブじゃない！}
 Dialogue: 0,0:23:36.70,0:23:37.49,Default,Ayuhara,0,0,0,,Eh?{NOTE:え？}
 Dialogue: 0,0:23:38.45,0:23:40.50,Default,Inokuma,0,0,0,,That wasn't a revolving receive!{NOTE:あれは回転レシーブじゃない！}
+Comment: 0,0:23:56.43,0:23:56.43,Default,Chapter,0,0,0,,Preview
 Dialogue: 0,0:24:00.94,0:24:04.27,Alternative,Narrator,0,0,0,,Kozue and Midori are chosen as representatives for the world championship.{NOTE:世界選手権の代表に選ばれた、こずえとみどりは…}
 Dialogue: 0,0:24:04.27,0:24:07.23,Alternative,Narrator,0,0,0,,They participate in the strengthening camp under the coach Inokuma.{NOTE:…強化合宿に参加して、猪野熊コーチのもとで…}
 Dialogue: 0,0:24:07.23,0:24:09.99,Alternative,Narrator,0,0,0,,The coach makes them do hundreds of receives every day.{NOTE:…毎日百本レシーブのコーチを受けに。}
 Dialogue: 0,0:24:09.99,0:24:15.03,Alternative,Narrator,0,0,0,,But can they form a team that can challenge the world in a single month?{NOTE:しかし、一ヶ月の調整で世界に挑戦出来るチームを作れるだろうか？}
 Dialogue: 0,0:24:15.03,0:24:21.16,Alternative,Narrator,0,0,0,,The players' trust for coach Inokuma, who can see nothing but work, is rapidly dropping.{NOTE:また仕事しか見えない猪野熊コーチの特訓に選手達の不信は高まるばかりである。}
 Dialogue: 0,0:24:21.16,0:24:24.88,Alternative,Narrator,0,0,0,,Please look forward to the next episode.{NOTE:さ、来週のアタックナンバーワンをお楽しみに。}
+Comment: 0,0:24:26.46,0:24:26.46,Default,Chapter,0,0,0,,Ending
 Dialogue: 0,0:24:40.31,0:24:44.25,Lyrics JP,,0,0,0,,{\an8}青い青い空に
 Dialogue: 0,0:24:44.25,0:24:47.29,Lyrics JP,,0,0,0,,{\an8}バンボンボボン
 Dialogue: 0,0:24:47.29,0:24:51.42,Lyrics JP,,0,0,0,,{\an8}はずむボールが
