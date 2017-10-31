@@ -25,6 +25,7 @@ Style: Default (ru),Calibri,45.0,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,Opening
 Dialogue: 0,0:00:19.52,0:00:23.89,Lyrics JP,,0,0,0,,{\an8}苦しくたって
 Dialogue: 0,0:00:23.89,0:00:27.48,Lyrics JP,,0,0,0,,{\an8}悲しくたって
 Dialogue: 0,0:00:27.48,0:00:34.45,Lyrics JP,,0,0,0,,{\an8}コートのなかでは平気なの
@@ -61,7 +62,9 @@ Dialogue: 0,0:00:57.68,0:01:05.85,Lyrics EN,,0,0,0,,Through the tears and sweat,
 Dialogue: 0,0:01:05.85,0:01:13.86,Lyrics EN,,0,0,0,,…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:13.86,0:01:21.95,Lyrics EN,,0,0,0,,Attack! Attack! Number 1!
 Dialogue: 0,0:01:21.95,0:01:31.37,Lyrics EN,,0,0,0,,Attack! Attack! Number 1!
+Comment: 0,0:01:32.09,0:01:32.09,Default,Chapter,0,0,0,,Title screen
 Dialogue: 0,0:01:37.84,0:01:44.77,Default,,0,0,0,,—Episode 028—\NBetween light and dark{NOTE:光と影の執念}
+Comment: 0,0:01:44.77,0:01:44.77,Default,Chapter,0,0,0,,Part A
 Dialogue: 0,0:02:02.45,0:02:04.49,Default,(unknown),0,0,0,,Do we really have to practice so hard?{NOTE:こんなに厳しい練習Xかしら？}
 Dialogue: 0,0:02:04.49,0:02:06.96,Default,Hayakawa,0,0,0,,Yeah, it's way too much.{NOTE:あ、XXおしゃべりも嫌だわ。}
 Dialogue: 0,0:02:06.96,0:02:11.67,Default,(unknown),0,0,0,,I don't mean to whine, but I'm not really sure if I can do it.{NOTE:こんなに弱音吐くつもりなんやけどな、打ち勝ってガタガタんや。}
@@ -283,6 +286,7 @@ Dialogue: 0,0:12:14.27,0:12:17.61,Default,Sanjou,0,0,0,,I will get back at you. 
 Dialogue: 0,0:12:18.78,0:12:20.90,Alternative,Ayuhara,0,0,0,,What a vengeful girl.{NOTE:執念深い人。}
 Dialogue: 0,0:12:20.90,0:12:22.61,Alternative,Ayuhara,0,0,0,,I won't lose to her.{NOTE:私だって負けるもんですか。}
 Dialogue: 0,0:12:22.61,0:12:24.86,Alternative,Ayuhara,0,0,0,,I'll accept Sanjou-san's challenge any time.{NOTE:三条さんの挑戦受けて勝つわ。}
+Comment: 0,0:12:30.08,0:12:30.08,Default,Chapter,0,0,0,,Part B
 Dialogue: 0,0:12:33.41,0:12:34.12,Default,Hayakawa,0,0,0,,Ah.{NOTE:あ！}
 Dialogue: 0,0:12:40.55,0:12:41.88,Default,Hayakawa,0,0,0,,Kozue, are you all right?{NOTE:こずえ、大丈夫？}
 Dialogue: 0,0:12:41.88,0:12:43.01,Default,Ayuhara,0,0,0,,Yeah. Thanks.{NOTE:え、有難う。}
@@ -533,12 +537,14 @@ Dialogue: 0,0:23:37.08,0:23:39.08,Default,Ayuhara,0,0,0,,I won't lose to you.{NO
 Dialogue: 0,0:23:39.08,0:23:41.96,Default,Ayuhara,0,0,0,,Not to you, who hates volleyball from the bottom of her heart.{NOTE:バレーを心から憎んでいる貴方にだけは。}
 Dialogue: 0,0:23:46.55,0:23:48.30,Alternative,Ayuhara,0,0,0,,I won't lose.{NOTE:負けるもんですか。}
 Dialogue: 0,0:23:48.30,0:23:51.05,Alternative,Ayuhara,0,0,0,,I've always loved volleyball.{NOTE:私はずっとバレーを愛してきたんだもん。}
+Comment: 0,0:23:56.43,0:23:56.43,Default,Chapter,0,0,0,,Preview
 Dialogue: 0,0:23:59.60,0:24:02.60,Alternative,Narrator,0,0,0,,Kitami and Shirakawa cannot put up with the special training's pace…{NOTE:特訓に大気で無くなった北見と白河は…}
 Dialogue: 0,0:24:02.60,0:24:07.40,Alternative,Narrator,0,0,0,,…and with the words: "Inokuma's a demon, not a human", escape the camp premises.{NOTE:…「猪野熊は人間ではない。鬼だ」と言い残して、合宿を逃げ出した。}
 Dialogue: 0,0:24:07.40,0:24:10.49,Alternative,Narrator,0,0,0,,Finally, the first dropout that Kozue and the girls were afraid of.{NOTE:遂に、こずえ達の恐れていた落後者が出る。}
 Dialogue: 0,0:24:10.49,0:24:15.57,Alternative,Narrator,0,0,0,,At this rate, before having a chance against the world, they will lose to coach Inokuma's training.{NOTE:このままでは世界に挑戦する前に、猪野熊コーチの練習に負けてしまう。}
 Dialogue: 0,0:24:15.57,0:24:17.91,Alternative,Narrator,0,0,0,,A despair grows in the team.{NOTE:チームの中に動揺が生まれる。}
 Dialogue: 0,0:24:17.91,0:24:23.62,Alternative,Narrator,0,0,0,,Please look forward to the next episode.{NOTE:さ、来週のアタックナンバーワン、「情無用の特訓」をお楽しみに。}
+Comment: 0,0:24:26.46,0:24:26.46,Default,Chapter,0,0,0,,Ending
 Dialogue: 0,0:24:40.27,0:24:44.21,Lyrics JP,,0,0,0,,{\an8}青い青い空に
 Dialogue: 0,0:24:44.21,0:24:47.25,Lyrics JP,,0,0,0,,{\an8}バンボンボボン
 Dialogue: 0,0:24:47.25,0:24:51.38,Lyrics JP,,0,0,0,,{\an8}はずむボールが
