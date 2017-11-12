@@ -24,18 +24,18 @@ Style: Episode,Chinacat,50.0,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,0,0,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,#Sponsors
 Comment: 0,0:00:03.02,0:00:03.02,Default,Chapter,0,0,0,,Intro
-Dialogue: 0,0:00:04.10,0:00:06.40,Default,Narrator,0,0,0,,{NOTE:青年の名はパパン。}
-Dialogue: 0,0:00:06.40,0:00:10.82,Default,Narrator,0,0,0,,{NOTE:モンスターの生態を研究し世界の謎を解き明かす機関…}
-Dialogue: 0,0:00:10.82,0:00:14.11,Default,Narrator,0,0,0,,{NOTE:…王立書士隊の副隊長である。}
-Dialogue: 0,0:00:14.11,0:00:18.87,Default,Narrator,0,0,0,,{NOTE:黒の凶気から世界を救ったリュートらライダーたちの活躍の裏で…}
-Dialogue: 0,0:00:18.87,0:00:23.67,Default,Narrator,0,0,0,,{NOTE:…地味ながらも地道な活動で彼らの手助けをしてきた。}
-Dialogue: 0,0:00:23.67,0:00:29.30,Default,Narrator,0,0,0,,{NOTE:普段は隊長のシモーヌの陰に隠れがちの地味な存在のパパンだが…}
-Dialogue: 0,0:00:29.30,0:00:33.55,Default,Narrator,0,0,0,,{NOTE:…そんな地味な彼にもｽﾎﾟｯﾄﾗｲﾄが当たるときがやって来た。}
-Dialogue: 0,0:00:33.55,0:00:36.09,Default,Papan,0,0,0,,{NOTE:｢地味地味｣言い過ぎっすよ。}
-Dialogue: 0,0:00:36.09,0:00:40.72,Default,Narrator,0,0,0,,{NOTE:そして今満を持して彼が新たなる謎に立ち向かう。}
-Dialogue: 0,0:00:40.72,0:00:41.93,Default,Narrator,0,0,0,,{NOTE:それは…}
-Dialogue: 0,0:00:41.93,0:00:43.94,Default,Papan,0,0,0,,{NOTE:ブラックライダーズ…}
-Dialogue: 0,0:00:43.94,0:00:46.98,Default,Papan,0,0,0,,{NOTE:お前たちの謎は僕が解き明かす！}
+Dialogue: 0,0:00:04.10,0:00:06.40,Default,Narrator,80,80,80,,His name is Pappan.{NOTE:青年の名はパパン。}
+Dialogue: 0,0:00:06.40,0:00:10.82,Default,Narrator,80,80,80,,He's part of organization that studies the ecology of monsters and unravels the mysteries of the world.{NOTE:モンスターの生態を研究し世界の謎を解き明かす機関…}
+Dialogue: 0,0:00:10.82,0:00:14.11,Default,Narrator,0,0,0,,The Royal Scriveners' vice captain.{NOTE:…王立書士隊の副隊長である。}
+Dialogue: 0,0:00:14.11,0:00:18.87,Default,Narrator,80,80,80,,Behind the success of Lute and other Riders,\Nwho saved the world from the danger of the Black Blight…{NOTE:黒の凶気から世界を救ったリュートらライダーたちの活躍の裏で…}
+Dialogue: 0,0:00:18.87,0:00:22.87,Default,Narrator,80,80,80,,…stands none other than the boy himself, assisting them despite his simplicity.{NOTE:…地味ながらも地道な活動で彼らの手助けをしてきた。}
+Dialogue: 0,0:00:23.67,0:00:29.30,Default,Narrator,0,0,0,,Normally it is Pappan that tends to hide in the shade of the Captain Simone…{NOTE:普段は隊長のシモーヌの陰に隠れがちの地味な存在のパパンだが…}
+Dialogue: 0,0:00:29.30,0:00:33.55,Default,Narrator,0,0,0,,…but the time has come for the spotlight to hit this simple character.{NOTE:…そんな地味な彼にもｽﾎﾟｯﾄﾗｲﾄが当たるときがやって来た。}
+Dialogue: 0,0:00:33.55,0:00:36.09,Default,Pappan,0,0,0,,You're using word "plain" too much.{NOTE:｢地味地味｣言い過ぎっすよ。}
+Dialogue: 0,0:00:36.09,0:00:40.72,Default,Narrator,0,0,0,,And now, after having waited until the time is ripe, he's going to face new mysteries.{NOTE:そして今満を持して彼が新たなる謎に立ち向かう。}
+Dialogue: 0,0:00:40.72,0:00:41.93,Default,Narrator,0,0,0,,And that…{NOTE:それは…}
+Dialogue: 0,0:00:41.93,0:00:43.94,Default,Pappan,0,0,0,,…are the Ebon Riders.{NOTE:ブラックライダーズ…}
+Dialogue: 0,0:00:43.94,0:00:46.98,Default,Pappan,0,0,0,,I will solve the mystery behind you!{NOTE:お前たちの謎は僕が解き明かす！}
 Comment: 0,0:00:48.06,0:00:48.06,Default,Chapter,0,0,0,,Opening
 Dialogue: 0,0:00:51.32,0:00:58.75,Default,,0,0,0,,{\fad(2500,0)}Monster Hunter Stories: Ride On{NOTE:モンスターハンターストーリーズ：RIDE・ON}
 Dialogue: 0,0:01:01.92,0:01:05.22,OP/ED Romaji,,0,0,0,,{\k40}Bo{\k20}ku{\k20}ra {\k43}kyou {\k20}mo {\k16}i{\k20}ki{\k23}te{\k20}i{\k106}ru
@@ -96,390 +96,391 @@ Comment: 0,0:02:50.06,0:02:50.06,Default,Chapter,0,0,0,,#Sponsors
 Comment: 0,0:03:04.99,0:03:04.99,Default,Chapter,0,0,0,,#Black screen
 Comment: 0,0:03:06.99,0:03:06.99,Default,Chapter,0,0,0,,Part A
 Dialogue: 0,0:03:07.50,0:03:11.21,Episode,,0,0,0,,{\pos(673,480)\fad(550,550)}\NEpisode 57\N"It's Hard Being a Vice Captain"{NOTE:第５７話\\N副隊長はつらいよ}
-Dialogue: 0,0:03:09.46,0:03:11.04,Default,Simone,0,0,0,,{NOTE:精が出るなパパン。}
-Dialogue: 0,0:03:11.75,0:03:13.63,Default,Papan,0,0,0,,{NOTE:シモーヌ隊長。}
-Dialogue: 0,0:03:13.63,0:03:15.29,Default,Simone,0,0,0,,{NOTE:差し入れだ。}
-Dialogue: 0,0:03:15.29,0:03:17.46,Default,Papan,0,0,0,,{NOTE:ちょうど喉が渇いてたんすよ。}
-Dialogue: 0,0:03:26.31,0:03:27.43,Default,Simone,0,0,0,,{NOTE:リリアからだ。}
-Dialogue: 0,0:03:27.43,0:03:29.81,Default,Papan,0,0,0,,{NOTE:それを早く言ってくださいよ！}
-Dialogue: 0,0:03:29.81,0:03:31.73,Default,Simone,0,0,0,,{NOTE:すまない。}
-Dialogue: 0,0:03:31.73,0:03:34.56,Default,Simone,0,0,0,,{NOTE:これが例のブラックライダーズ？}
-Dialogue: 0,0:03:34.56,0:03:39.03,Default,Papan,0,0,0,,{NOTE:リリアからもらった似顔絵はちょっと個性が強過ぎたので…}
-Dialogue: 0,0:03:39.03,0:03:42.86,Default,Papan,0,0,0,,{NOTE:…目撃者から特徴を聞いて僕が描いたっす。}
-Dialogue: 0,0:03:42.86,0:03:45.41,Default,Simone,0,0,0,,{NOTE:細かいところまでよく描けてる。}
-Dialogue: 0,0:03:45.41,0:03:46.87,Default,Simone,0,0,0,,{NOTE:さすがパパンだ。}
-Dialogue: 0,0:03:46.87,0:03:48.91,Default,Papan,0,0,0,,{NOTE:あざっす！}
-Dialogue: 0,0:03:48.91,0:03:52.33,Default,Papan,0,0,0,,{NOTE:彼らはブラックライダーズの四天王と呼ばれている。}
-Dialogue: 0,0:03:52.33,0:03:53.17,Default,Papan,0,0,0,,{NOTE:マッド。}
-Dialogue: 0,0:03:53.17,0:03:54.00,Default,Papan,0,0,0,,{NOTE:ラース。}
-Dialogue: 0,0:03:54.00,0:03:54.96,Default,Papan,0,0,0,,{NOTE:シャドウ。}
-Dialogue: 0,0:03:54.96,0:03:56.63,Default,Papan,0,0,0,,{NOTE:ゲイルです。}
-Dialogue: 0,0:03:56.63,0:04:02.51,Default,Papan,0,0,0,,{NOTE:どうやら謎の人物が頂点に君臨しているようですが現在鋭意調査中っす。}
-Dialogue: 0,0:04:02.51,0:04:07.18,Default,Papan,0,0,0,,{NOTE:ブラックライダーズとは何者で目的はいったい何なのか？}
-Dialogue: 0,0:04:07.18,0:04:09.89,Default,Papan,0,0,0,,{NOTE:僕なりに調べてみようと思ってます。}
-Dialogue: 0,0:04:09.89,0:04:13.48,Default,Simone,0,0,0,,{NOTE:リリアが連中について手掛かりをつかんだらしい。}
-Dialogue: 0,0:04:13.48,0:04:15.65,Default,Simone,0,0,0,,{NOTE:一緒に調べに向かってくれるか？}
-Dialogue: 0,0:04:15.65,0:04:17.61,Default,Papan,0,0,0,,{NOTE:隊長は行かないんすか？}
-Dialogue: 0,0:04:17.61,0:04:20.82,Default,Simone,0,0,0,,{NOTE:私は他の調査があってな。}
-Dialogue: 0,0:04:20.82,0:04:23.91,Default,Simone,0,0,0,,{NOTE:お前がいれば百人力だ。}
-Dialogue: 0,0:04:23.91,0:04:26.03,Default,Simone,0,0,0,,{NOTE:頼りにしてるぞ。}
-Dialogue: 0,0:04:26.03,0:04:27.33,Default,Papan,0,0,0,,{NOTE:あざっす！}
-Dialogue: 0,0:04:27.33,0:04:28.24,Default,Papan,0,0,0,,{NOTE:喜んで！}
-Dialogue: 0,0:04:29.74,0:04:33.29,Default,Papan,0,0,0,,{NOTE:書士隊日誌ナンバー21567。}
-Dialogue: 0,0:04:33.29,0:04:35.12,Default,Papan,0,0,0,,{\i1}{NOTE:文責パパン。}
-Dialogue: 0,0:04:35.12,0:04:38.92,Default,Papan,0,0,0,,{\i1}{NOTE:調査１日目。雲一つない快晴なり。}
-Dialogue: 0,0:04:38.92,0:04:41.30,Default,Papan,0,0,0,,{\i1}{NOTE:ギルデカランにて同行者を待つ。}
-Dialogue: 0,0:04:44.13,0:04:46.84,Default,Papan,0,0,0,,{NOTE:今日はシモーヌ隊長がいないからな。}
-Dialogue: 0,0:04:46.84,0:04:49.47,Default,Papan,0,0,0,,{NOTE:僕がしっかり後輩を引っ張らなくっちゃ。}
-Dialogue: 0,0:04:49.47,0:04:51.10,Default,Lilia,0,0,0,,{NOTE:副隊長～！}
-Dialogue: 0,0:04:51.10,0:04:52.89,Default,Lilia,0,0,0,,{NOTE:お待たせしました！}
-Dialogue: 0,0:04:52.89,0:04:54.31,Default,Lilia,0,0,0,,{NOTE:おはようございます。}
-Dialogue: 0,0:04:54.31,0:04:55.69,Default,Papan,0,0,0,,{NOTE:ぶりぶりーっす。}
-Dialogue: 0,0:04:55.69,0:04:58.27,Default,Papan,0,0,0,,{NOTE:でまずはどこへ向かう？}
-Dialogue: 0,0:04:58.27,0:05:01.11,Default,Papan,0,0,0,,{NOTE:おしゃれなカフェで腹ごしらえでもしちゃう？}
-Dialogue: 0,0:05:03.40,0:05:06.86,Default,Papan,0,0,0,,{NOTE:ななな…なーんてね。ハハハ…}
-Dialogue: 0,0:05:06.86,0:05:08.99,Default,Lilia,0,0,0,,{NOTE:あっおなかすいてるんですか？}
-Dialogue: 0,0:05:08.99,0:05:10.83,Default,Lilia,0,0,0,,{NOTE:朝食べ損なったんですか？}
-Dialogue: 0,0:05:10.83,0:05:12.95,Default,Lilia,0,0,0,,{NOTE:元気ドリンコを作りましょうか？}
-Dialogue: 0,0:05:12.95,0:05:16.08,Default,Papan,0,0,0,,{NOTE:うんごめん大丈夫だよ。ありがとう。}
-Dialogue: 0,0:05:16.08,0:05:18.21,Default,Papan,0,0,0,,{NOTE:でどこへ向かうんだっけ？}
-Dialogue: 0,0:05:18.21,0:05:19.75,Default,Lilia,0,0,0,,{NOTE:オミの谷…です。}
-Dialogue: 0,0:05:22.21,0:05:26.09,Default,Papan,0,0,0,,{NOTE:オミの谷といえばハンターの修練場と呼ばれてるくらい。}
-Dialogue: 0,0:05:26.09,0:05:29.26,Default,Papan,0,0,0,,{NOTE:凶暴なモンスターがうじゃうじゃといる所だよ。}
-Dialogue: 0,0:05:29.26,0:05:30.56,Default,Lilia,0,0,0,,{NOTE:大丈夫ですよ。}
-Dialogue: 0,0:05:30.56,0:05:32.27,Default,Papan,0,0,0,,{NOTE:何か策があるんだね？}
-Dialogue: 0,0:05:32.27,0:05:34.68,Default,Papan,0,0,0,,{NOTE:さっすがリリア！頼りになる！}
-Dialogue: 0,0:05:34.68,0:05:36.44,Default,Lilia,0,0,0,,{NOTE:いえないですけど。}
-Dialogue: 0,0:05:36.44,0:05:37.98,Default,Papan,0,0,0,,{NOTE:えっじゃあ何で!?}
-Dialogue: 0,0:05:37.98,0:05:39.06,Default,Lilia,0,0,0,,{NOTE:直感です。}
-Dialogue: 0,0:05:39.06,0:05:40.36,Default,Papan,0,0,0,,{NOTE:え～っ!?}
-Dialogue: 0,0:05:41.61,0:05:44.19,Default,Papan,0,0,0,,{\i1}{NOTE:同行者は研究熱心ではあるが…}
-Dialogue: 0,0:05:44.19,0:05:45.95,Default,Papan,0,0,0,,{\i1}{NOTE:…無鉄砲な面あり。}
-Dialogue: 0,0:05:45.95,0:05:49.66,Default,Papan,0,0,0,,{\i1}{NOTE:また計画性については疑問の余地がある。}
-Dialogue: 0,0:05:49.66,0:05:51.95,Default,Papan,0,0,0,,{NOTE:幸先不安な旅だなぁ…}
-Dialogue: 0,0:05:51.95,0:05:52.87,Default,Papan,0,0,0,,{NOTE:あっ!?}
-Dialogue: 0,0:05:55.20,0:05:56.75,Default,Papan,0,0,0,,{NOTE:な…何？}
-Dialogue: 0,0:05:57.54,0:06:00.50,Default,Lilia,0,0,0,,{\i1}{NOTE:私ずっと分からなかったんです。}
-Dialogue: 0,0:06:00.50,0:06:04.26,Default,Lilia,0,0,0,,{\i1}{NOTE:なぜブラックライダーズが絆石を集めているのか。}
-Dialogue: 0,0:06:04.26,0:06:06.97,Default,Lilia,0,0,0,,{\i1}{NOTE:でもある古文書を調べていて}
-Dialogue: 0,0:06:06.97,0:06:13.68,Default,Lilia,0,0,0,,{\i1}{NOTE:\\N絆石の力を使ってモンスターとシンクロする秘術が代々伝わる村があるらしいんです。}
-Dialogue: 0,0:06:13.68,0:06:15.85,Default,Lilia,0,0,0,,{\i1}{NOTE:どこにあるか分からないんですけど…}
-Dialogue: 0,0:06:15.85,0:06:18.02,Default,Lilia,0,0,0,,{\i1}{NOTE:…一つだけ手掛かりが…}
-Dialogue: 0,0:06:18.02,0:06:21.23,Default,Lilia,0,0,0,,{NOTE:絵を描いた人はオミの谷のポロックさん。}
-Dialogue: 0,0:06:21.23,0:06:25.32,Default,Lilia,0,0,0,,{NOTE:古い絵ですけどまだ村に知っている人がいるかも。}
-Dialogue: 0,0:06:25.32,0:06:28.28,Default,Lilia,0,0,0,,{NOTE:その方なら何か知っているんじゃないかと思って。}
-Dialogue: 0,0:06:29.66,0:06:35.24,Default,Papan,0,0,0,,{NOTE:ブラックライダーズはその秘術を行うために絆石を集めているってこと？}
-Dialogue: 0,0:06:35.24,0:06:36.95,Default,Lilia,0,0,0,,{NOTE:確証はないんですけど…}
-Dialogue: 0,0:06:38.16,0:06:39.75,Default,Papan,0,0,0,,{NOTE:うーん…}
-Dialogue: 0,0:06:39.75,0:06:48.55,Default,Papan,0,0,0,,{NOTE:直感も大事だけど僕たち書士隊の仕事は地味にこつこつ確証を積み上げて事実を導き出すことだよ？}
-Dialogue: 0,0:06:48.55,0:06:52.22,Default,Papan,0,0,0,,{NOTE:直感に頼り過ぎるのはちょっと危険かな。}
-Dialogue: 0,0:06:52.22,0:06:53.76,Default,Lilia,0,0,0,,{NOTE:すみませんでした。}
-Dialogue: 0,0:06:53.76,0:06:54.72,Default,Papan,0,0,0,,{NOTE:あっ…}
-Dialogue: 0,0:06:54.72,0:06:57.60,Default,Papan,0,0,0,,{NOTE:あっいやいや謝らなくていいんだよ。}
-Dialogue: 0,0:06:57.60,0:07:01.23,Default,Papan,0,0,0,,{NOTE:僕は別に落ち込んでほしくて言ったわけじゃないんだ。}
-Dialogue: 0,0:07:01.23,0:07:05.23,Default,Fifi,0,0,0,,{NOTE:パパン副隊長が言いたいのはこういうことよね。}
-Dialogue: 0,0:07:05.23,0:07:11.03,Default,Fifi,0,0,0,,{NOTE:書士隊のお仕事はひらめきを地道な研究で確証に変えていくこと。}
-Dialogue: 0,0:07:11.03,0:07:15.95,Default,Fifi,0,0,0,,{NOTE:いつだって世紀の大発見も最初の一歩はひらめきですもの。}
-Dialogue: 0,0:07:15.95,0:07:17.79,Default,Lilia,0,0,0,,{NOTE:あっ副隊長！}
-Dialogue: 0,0:07:17.79,0:07:19.37,Default,Lilia,0,0,0,,{NOTE:私頑張ります！}
-Dialogue: 0,0:07:19.37,0:07:21.12,Default,Papan,0,0,0,,{NOTE:あっうん…}
-Dialogue: 0,0:07:21.12,0:07:22.92,Default,Papan,0,0,0,,{NOTE:頑張ってね！}
-Dialogue: 0,0:07:22.92,0:07:24.46,Default,Lilia,0,0,0,,{NOTE:ありがとうございました。}
-Dialogue: 0,0:07:26.38,0:07:31.13,Default,Fifi,0,0,0,,{NOTE:自分の意見を押し付けるだけじゃ若い子に煙たがられるだけよ。}
-Dialogue: 0,0:07:31.13,0:07:33.55,Default,Papan,0,0,0,,{NOTE:うっ…勉強になるっす…}
-Dialogue: 0,0:07:33.55,0:07:36.64,Default,Papan,0,0,0,,{NOTE:ってそういやティティ何でここにいるんすか？}
-Dialogue: 0,0:07:36.64,0:07:38.72,Default,Lilia,0,0,0,,{NOTE:あれ？聞いてませんでした？}
-Dialogue: 0,0:07:38.72,0:07:40.10,Default,Papan,0,0,0,,{NOTE:聞いてないよ？}
-Dialogue: 0,0:07:40.10,0:07:45.40,Default,Fifi,0,0,0,,{NOTE:副隊長だけじゃ不安だからってシモーヌ隊長からサポートを頼まれたの。}
-Dialogue: 0,0:07:45.40,0:07:46.40,Default,Papan,0,0,0,,{NOTE:えっ!?}
-Dialogue: 0,0:07:46.40,0:07:48.53,Default,Papan,0,0,0,,{NOTE:何で目をそらすの!?}
-Dialogue: 0,0:07:48.53,0:07:49.44,Default,Papan,0,0,0,,{\i1}{NOTE:あれ？}
-Dialogue: 0,0:07:49.44,0:07:51.65,Default,Papan,0,0,0,,{\i1}{NOTE:僕信頼されてない？}
-Dialogue: 0,0:07:51.65,0:07:54.32,Default,Simone,0,0,0,,{NOTE:お前がいれば百人力だ。}
+Dialogue: 0,0:03:09.46,0:03:11.04,Default,Simone,0,0,0,,Working hard, I see, Pappan.{NOTE:精が出るなパパン。}
+Dialogue: 0,0:03:11.75,0:03:13.63,Default,Pappan,0,0,0,,Captain Simone.{NOTE:シモーヌ隊長。}
+Dialogue: 0,0:03:13.63,0:03:15.29,Default,Simone,0,0,0,,I brought you something to drink.{NOTE:差し入れだ。}
+Dialogue: 0,0:03:15.29,0:03:17.46,Default,Pappan,0,0,0,,I was just getting thirsty.{NOTE:ちょうど喉が渇いてたんすよ。}
+Dialogue: 0,0:03:26.31,0:03:27.43,Default,Simone,0,0,0,,It's from Lilia.{NOTE:リリアからだ。}
+Dialogue: 0,0:03:27.43,0:03:29.81,Default,Pappan,0,0,0,,Please say that earlier!{NOTE:それを早く言ってくださいよ！}
+Dialogue: 0,0:03:29.81,0:03:31.73,Default,Simone,0,0,0,,Sorry.{NOTE:すまない。}
+Dialogue: 0,0:03:31.73,0:03:34.56,Default,Simone,0,0,0,,Are those portraits of the Ebon Riders?{NOTE:これが例のブラックライダーズ？}
+Dialogue: 0,0:03:34.56,0:03:39.03,Default,Pappan,0,0,0,,The portrait I received\Nfrom Lilia was a bit too peculiar.{NOTE:リリアからもらった似顔絵はちょっと個性が強過ぎたので…}
+Dialogue: 0,0:03:39.03,0:03:42.86,Default,Pappan,0,0,0,,So I drew new ones, capturing features reported by witnesses.{NOTE:…目撃者から特徴を聞いて僕が描いたっす。}
+Dialogue: 0,0:03:42.86,0:03:45.41,Default,Simone,0,0,0,,You did great. They're well detailed.{NOTE:細かいところまでよく描けてる。}
+Dialogue: 0,0:03:45.41,0:03:46.87,Default,Simone,0,0,0,,That's my Pappan.{NOTE:さすがパパンだ。}
+Dialogue: 0,0:03:46.87,0:03:48.91,Default,Pappan,0,0,0,,Thanks!{NOTE:あざっす！}
+Dialogue: 0,0:03:48.91,0:03:52.33,Default,Pappan,0,0,0,,They call themselves the four Ebon Riders.{NOTE:彼らはブラックライダーズの四天王と呼ばれている。}
+Dialogue: 0,0:03:52.33,0:03:53.17,Default,Pappan,0,0,0,,Mad.{NOTE:マッド。}
+Dialogue: 0,0:03:53.17,0:03:54.00,Default,Pappan,0,0,0,,Wrath.{NOTE:ラース。}
+Dialogue: 0,0:03:54.00,0:03:54.96,Default,Pappan,0,0,0,,Shadow.{NOTE:シャドウ。}
+Dialogue: 0,0:03:54.96,0:03:56.63,Default,Pappan,0,0,0,,Gale.{NOTE:ゲイルです。}
+Dialogue: 0,0:03:56.63,0:04:02.51,Default,Pappan,0,0,0,,Apparently there's a mysterious figure reigning them at the summit. I'm investigating it right now.{NOTE:どうやら謎の人物が頂点に君臨しているようですが現在鋭意調査中っす。}
+Dialogue: 0,0:04:02.51,0:04:07.18,Default,Pappan,0,0,0,,Who are the Ebon Riders and what is their goal?{NOTE:ブラックライダーズとは何者で目的はいったい何なのか？}
+Dialogue: 0,0:04:07.18,0:04:09.89,Default,Pappan,0,0,0,,I'm going to find it out in my own way.{NOTE:僕なりに調べてみようと思ってます。}
+Dialogue: 0,0:04:09.89,0:04:13.48,Default,Simone,0,0,0,,Lilia seems to have caught a clue about them.{NOTE:リリアが連中について手掛かりをつかんだらしい。}
+Dialogue: 0,0:04:13.48,0:04:15.65,Default,Simone,0,0,0,,Could you go assist her with her research?{NOTE:一緒に調べに向かってくれるか？}
+Dialogue: 0,0:04:15.65,0:04:17.61,Default,Pappan,0,0,0,,Why don't you go, Captain?{NOTE:隊長は行かないんすか？}
+Dialogue: 0,0:04:17.61,0:04:20.82,Default,Simone,0,0,0,,I have other businesses I must attend to.{NOTE:私は他の調査があってな。}
+Dialogue: 0,0:04:20.82,0:04:23.91,Default,Simone,0,0,0,,You're extremely capable.{NOTE:お前がいれば百人力だ。}
+Dialogue: 0,0:04:23.91,0:04:26.03,Default,Simone,0,0,0,,I'm counting on you.{NOTE:頼りにしてるぞ。}
+Dialogue: 0,0:04:26.03,0:04:27.33,Default,Pappan,0,0,0,,Thanks!{NOTE:あざっす！}
+Dialogue: 0,0:04:27.33,0:04:28.24,Default,Pappan,0,0,0,,With pleasure!{NOTE:喜んで！}
+Dialogue: 0,0:04:29.74,0:04:33.29,Default,Pappan,0,0,0,,{\i1}Scrivener Journal Entry no. 21567.{NOTE:書士隊日誌ナンバー21567。}
+Dialogue: 0,0:04:33.29,0:04:35.12,Default,Pappan,0,0,0,,{\i1}Reporter: Pappan.{NOTE:文責パパン。}
+Dialogue: 0,0:04:35.12,0:04:38.92,Default,Pappan,0,0,0,,{\i1}Survey day 1. It's sunny with no clouds.{NOTE:調査１日目。雲一つない快晴なり。}
+Dialogue: 0,0:04:38.92,0:04:41.30,Default,Pappan,0,0,0,,{\i1}I'm in Gildegaran waiting for my traveling companion.{NOTE:ギルデカランにて同行者を待つ。}
+Dialogue: 0,0:04:44.13,0:04:46.84,Default,Pappan,0,0,0,,Captain Simone is away today.{NOTE:今日はシモーヌ隊長がいないからな。}
+Dialogue: 0,0:04:46.84,0:04:49.47,Default,Pappan,0,0,0,,I have to take care of my junior well.{NOTE:僕がしっかり後輩を引っ張らなくっちゃ。}
+Dialogue: 0,0:04:49.47,0:04:51.10,Default,Lilia,0,0,0,,Vice Captain!{NOTE:副隊長～！}
+Dialogue: 0,0:04:51.10,0:04:52.89,Default,Lilia,0,0,0,,Sorry I made you wait!{NOTE:お待たせしました！}
+Dialogue: 0,0:04:52.89,0:04:54.31,Default,Lilia,0,0,0,,Good morning.{NOTE:おはようございます。}
+Dialogue: 0,0:04:54.31,0:04:55.69,Default,Pappan,0,0,0,,Long time no see.{NOTE:ぶりぶりーっす。}
+Dialogue: 0,0:04:55.69,0:04:58.27,Default,Pappan,0,0,0,,Where are we going to first?{NOTE:でまずはどこへ向かう？}
+Dialogue: 0,0:04:58.27,0:05:01.11,Default,Pappan,0,0,0,,Would you care for a stylish cafe?{NOTE:おしゃれなカフェで腹ごしらえでもしちゃう？}
+Dialogue: 0,0:05:03.40,0:05:06.86,Default,Pappan,0,0,0,,J-J-Just kidding! Hahaha…{NOTE:ななな、なーんてね。ハハハ…}
+Dialogue: 0,0:05:06.86,0:05:08.99,Default,Lilia,0,0,0,,Ah, are you hungry?{NOTE:あっおなかすいてるんですか？}
+Dialogue: 0,0:05:08.99,0:05:10.83,Default,Lilia,0,0,0,,Did you eat your breakfast?{NOTE:朝食べ損なったんですか？}
+Dialogue: 0,0:05:10.83,0:05:12.95,Default,Lilia,0,0,0,,Should I make an Energy Drink?{NOTE:元気ドリンコを作りましょうか？}
+Dialogue: 0,0:05:12.95,0:05:16.08,Default,Pappan,0,0,0,,Nah, sorry. It's okay. Thank you.{NOTE:うんごめん大丈夫だよ。ありがとう。}
+Dialogue: 0,0:05:16.08,0:05:18.21,Default,Pappan,0,0,0,,So where are we going to?{NOTE:でどこへ向かうんだっけ？}
+Dialogue: 0,0:05:18.21,0:05:19.75,Default,Lilia,0,0,0,,We're going to Omi Valley.{NOTE:オミの谷…です。}
+Dialogue: 0,0:05:22.21,0:05:26.09,Default,Pappan,0,0,0,,Speaking of Omi Valley, it's said to be Hunters' training ground.{NOTE:オミの谷といえばハンターの修練場と呼ばれてるくらい。}
+Dialogue: 0,0:05:26.09,0:05:29.26,Default,Pappan,0,0,0,,It is a place where you can find ferocious monsters in clusters.{NOTE:凶暴なモンスターがうじゃうじゃといる所だよ。}
+Dialogue: 0,0:05:29.26,0:05:30.56,Default,Lilia,0,0,0,,We'll be fine.{NOTE:大丈夫ですよ。}
+Dialogue: 0,0:05:30.56,0:05:32.27,Default,Pappan,0,0,0,,Do you have a plan?{NOTE:何か策があるんだね？}
+Dialogue: 0,0:05:32.27,0:05:34.68,Default,Pappan,0,0,0,,I knew one could rely on you, Lilia!{NOTE:さっすがリリア！頼りになる！}
+Dialogue: 0,0:05:34.68,0:05:36.44,Default,Lilia,0,0,0,,But I don't have any.{NOTE:いえないですけど。}
+Dialogue: 0,0:05:36.44,0:05:37.98,Default,Pappan,0,0,0,,Then why are we going there?{NOTE:えっじゃあ何で!?}
+Dialogue: 0,0:05:37.98,0:05:39.06,Default,Lilia,0,0,0,,Just my intuition.{NOTE:直感です。}
+Dialogue: 0,0:05:39.06,0:05:40.36,Default,Pappan,0,0,0,,Eh…?{NOTE:え～っ!?}
+Dialogue: 0,0:05:41.61,0:05:44.19,Default,Pappan,0,0,0,,{\i1}My companion is enthusiastic about research.{NOTE:同行者は研究熱心ではあるが…}
+Dialogue: 0,0:05:44.19,0:05:45.95,Default,Pappan,0,0,0,,{\i1}But sometimes she's kind of reckless.{NOTE:…無鉄砲な面あり。}
+Dialogue: 0,0:05:45.95,0:05:49.66,Default,Pappan,0,0,0,,{\i1}There is also room for doubt about her planning ability.{NOTE:また計画性については疑問の余地がある。}
+Dialogue: 0,0:05:49.66,0:05:51.95,Default,Pappan,0,0,0,,It's going to be a long journey…{NOTE:幸先不安な旅だなぁ…}
+Dialogue: 0,0:05:51.95,0:05:52.87,Default,Pappan,0,0,0,,Ah?{NOTE:あっ!?}
+Dialogue: 0,0:05:55.20,0:05:56.75,Default,Pappan,0,0,0,,W-What?{NOTE:な、何？}
+Dialogue: 0,0:05:57.54,0:06:00.50,Default,Lilia,0,0,0,,{\i1}I never understood it.{NOTE:私ずっと分からなかったんです。}
+Dialogue: 0,0:06:00.50,0:06:04.26,Default,Lilia,0,0,0,,{\i1}Why are the Ebon Riders collecting our Kinship Stones?{NOTE:なぜブラックライダーズが絆石を集めているのか。}
+Dialogue: 0,0:06:04.26,0:06:06.97,Default,Lilia,0,0,0,,{\i1}But after investigating an old document,\NI found out about a village…{NOTE:でもある古文書を調べていて}
+Dialogue: 0,0:06:06.97,0:06:13.68,Default,Lilia,1,1,0,,{\i1}…where the secret art of syncing with the monster using\Nthe power of Kinship Stones is passed down through generations.{NOTE:絆石の力を使ってモンスターとシンクロする秘術が代々伝わる村があるらしいんです。}
+Dialogue: 0,0:06:13.68,0:06:15.85,Default,Lilia,0,0,0,,{\i1}I'm not sure about the location of that village.{NOTE:どこにあるか分からないんですけど…}
+Dialogue: 0,0:06:15.85,0:06:18.02,Default,Lilia,0,0,0,,{\i1}But there's an important lead.{NOTE:…一つだけ手掛かりが…}
+Dialogue: 0,0:06:18.02,0:06:21.23,Default,Lilia,0,0,0,,The person that painted the picture is Mr. Pollock from the Omi Valley.{NOTE:絵を描いた人はオミの谷のポロックさん。}
+Dialogue: 0,0:06:21.23,0:06:25.32,Default,Lilia,0,0,0,,Although it is an old picture, there may be people who still know him there.{NOTE:古い絵ですけどまだ村に知っている人がいるかも。}
+Dialogue: 0,0:06:25.32,0:06:28.28,Default,Lilia,0,0,0,,They might know something more.{NOTE:その方なら何か知っているんじゃないかと思って。}
+Dialogue: 0,0:06:29.66,0:06:35.24,Default,Pappan,0,0,0,,So the Ebon Riders are collecting the Kinship Stones\Nin order to obtain that secret art?{NOTE:ブラックライダーズはその秘術を行うために絆石を集めているってこと？}
+Dialogue: 0,0:06:35.24,0:06:36.95,Default,Lilia,0,0,0,,I don't have any evidence for this.{NOTE:確証はないんですけど…}
+Dialogue: 0,0:06:38.16,0:06:39.75,Default,Pappan,0,0,0,,I see.{NOTE:うーん…}
+Dialogue: 0,0:06:39.75,0:06:48.55,Default,Pappan,0,0,0,,Intuition is important, but our Scriveners' job is to draw conclusions by accumulating scientific evidence.{NOTE:直感も大事だけど僕たち書士隊の仕事は地味にこつこつ確証を積み上げて事実を導き出すことだよ？}
+Dialogue: 0,0:06:48.55,0:06:52.22,Default,Pappan,0,0,0,,It is a bit dangerous to depend too much on your intuition.{NOTE:直感に頼り過ぎるのはちょっと危険かな。}
+Dialogue: 0,0:06:52.22,0:06:53.76,Default,Lilia,0,0,0,,I'm sorry.{NOTE:すみませんでした。}
+Dialogue: 0,0:06:53.76,0:06:54.72,Default,Pappan,0,0,0,,Ah…{NOTE:あっ…}
+Dialogue: 0,0:06:54.72,0:06:57.60,Default,Pappan,0,0,0,,There's nothing to apologize for.{NOTE:あっいやいや謝らなくていいんだよ。}
+Dialogue: 0,0:06:57.60,0:07:01.23,Default,Pappan,0,0,0,,I didn't say it to make you depressed.{NOTE:僕は別に落ち込んでほしくて言ったわけじゃないんだ。}
+Dialogue: 0,0:07:01.23,0:07:05.23,Default,Fifi,0,0,0,,What Vice Captain Pappan wants to say is this.{NOTE:パパン副隊長が言いたいのはこういうことよね。}
+Dialogue: 0,0:07:05.23,0:07:11.03,Default,Fifi,0,0,0,,The work of the squadron is to transform insight into evidence through steady research.{NOTE:書士隊のお仕事はひらめきを地道な研究で確証に変えていくこと。}
+Dialogue: 0,0:07:11.03,0:07:15.95,Default,Fifi,0,0,0,,Insight is always the first step behind every great discovery.{NOTE:いつだって世紀の大発見も最初の一歩はひらめきですもの。}
+Dialogue: 0,0:07:15.95,0:07:17.79,Default,Lilia,0,0,0,,Ah, Vice Captain!{NOTE:あっ副隊長！}
+Dialogue: 0,0:07:17.79,0:07:19.37,Default,Lilia,0,0,0,,I will do my best!{NOTE:私頑張ります！}
+Dialogue: 0,0:07:19.37,0:07:21.12,Default,Pappan,0,0,0,,Ah, sure!{NOTE:あっうん…}
+Dialogue: 0,0:07:21.12,0:07:22.92,Default,Pappan,0,0,0,,Good luck!{NOTE:頑張ってね！}
+Dialogue: 0,0:07:22.92,0:07:24.46,Default,Lilia,0,0,0,,Thank you very much.{NOTE:ありがとうございました。}
+Dialogue: 0,0:07:26.38,0:07:31.13,Default,Fifi,0,0,0,,Pushing your own opinions on children will only make them dislike you.{NOTE:自分の意見を押し付けるだけじゃ若い子に煙たがられるだけよ。}
+Dialogue: 0,0:07:31.13,0:07:33.55,Default,Pappan,0,0,0,,Uh, I still have a world to learn.{NOTE:うっ…勉強になるっす…}
+Dialogue: 0,0:07:33.55,0:07:36.64,Default,Pappan,0,0,0,,Wait, what are you doing here, Fifi?{NOTE:ってそういやティティ何でここにいるんすか？}
+Dialogue: 0,0:07:36.64,0:07:38.72,Default,Lilia,0,0,0,,You didn't know about it?{NOTE:あれ？聞いてませんでした？}
+Dialogue: 0,0:07:38.72,0:07:40.10,Default,Pappan,0,0,0,,About what?{NOTE:聞いてないよ？}
+Dialogue: 0,0:07:40.10,0:07:45.40,Default,Fifi,0,0,0,,Captain Simone asked me to support you since she was uneasy leaving you alone.{NOTE:副隊長だけじゃ不安だからってシモーヌ隊長からサポートを頼まれたの。}
+Dialogue: 0,0:07:45.40,0:07:46.40,Default,Pappan,0,0,0,,Eh!?{NOTE:えっ!?}
+Dialogue: 0,0:07:46.40,0:07:48.53,Default,Pappan,0,0,0,,Why are you looking away!?{NOTE:何で目をそらすの!?}
+Dialogue: 0,0:07:48.53,0:07:49.44,Default,Pappan,0,0,0,,{\i1}Huh…?{NOTE:あれ？}
+Dialogue: 0,0:07:49.44,0:07:51.65,Default,Pappan,0,0,0,,{\i1}I'm not trusted…?{NOTE:僕信頼されてない？}
+Dialogue: 0,0:07:51.65,0:07:54.32,Default,Simone,0,0,0,,You're extremely capable.{NOTE:お前がいれば百人力だ。}
 Dialogue: 1,0:07:54.32,0:07:57.24,Default,Simone,0,0,0,,I'm counting on you.{NOTE:頼りにしてるぞ…}
 Dialogue: 0,0:07:55.62,0:07:56.24,Default,Simone,0,0,0,,{\blur12\bord0\1c&H4F00FF&\shad0\alpha&H00&\t(\alpha&HFF&\fs60)}I'm counting on you.
 Dialogue: 0,0:07:56.24,0:07:56.91,Default,Simone,0,0,0,,{\blur12\bord0\1c&H4F00FF&\shad0\alpha&H00&\t(\alpha&HFF&\fs60)}I'm counting on you.
 Dialogue: 0,0:07:56.91,0:07:57.24,Default,Simone,0,0,0,,{\blur12\bord0\1c&H4F00FF&\shad0\alpha&H00&\t(\alpha&HFF&\fs60)}I'm counting on you.
-Dialogue: 0,0:07:57.70,0:08:00.71,Default,Papan,0,0,0,,{NOTE:あの笑顔は何だったんすか…}
-Dialogue: 0,0:08:00.71,0:08:03.83,Default,Fifi,0,0,0,,{NOTE:まあまあ元気出して。明るく明るく。}
-Dialogue: 0,0:08:04.96,0:08:07.00,Default,Fifi,0,0,0,,{NOTE:キラキラニャーン！}
-Dialogue: 0,0:08:07.00,0:08:07.88,Default,Fifi,0,0,0,,{NOTE:あら…}
-Dialogue: 0,0:08:09.42,0:08:11.63,Default,Papan,0,0,0,,{\i1}{NOTE:調査１日目終了。}
-Dialogue: 0,0:08:11.63,0:08:14.47,Default,Papan,0,0,0,,{\i1}{NOTE:思わぬ形で同行者が増えた。}
-Dialogue: 0,0:08:14.47,0:08:18.68,Default,Papan,0,0,0,,{\i1}{NOTE:その理由に異論はあるものの旅は長い。}
-Dialogue: 0,0:08:18.68,0:08:23.39,Default,Papan,0,0,0,,{\i1}{NOTE:同行者との連携を深めるためにもコミュニケーションは有効だ。}
-Dialogue: 0,0:08:23.39,0:08:24.27,Default,Papan,0,0,0,,{NOTE:リリア。}
-Dialogue: 0,0:08:25.90,0:08:28.15,Default,Papan,0,0,0,,{NOTE:一緒に高層エリンギ食べない？}
-Dialogue: 0,0:08:28.15,0:08:29.69,Default,Lilia,0,0,0,,{NOTE:結構です。}
-Dialogue: 0,0:08:29.69,0:08:34.41,Default,Papan,0,0,0,,{NOTE:そう言わずに…味は微妙だけど癖になるっていうか…}
-Dialogue: 0,0:08:34.41,0:08:35.99,Default,Lilia,0,0,0,,{NOTE:調べたいことがあるんで}
-Dialogue: 0,0:08:35.99,0:08:37.41,Default,Lilia,0,0,0,,{NOTE:失礼します。}
-Dialogue: 0,0:08:37.41,0:08:41.25,Default,Papan,0,0,0,,{\i1}{NOTE:同行者とのｺﾐｭﾆｹｰｼｮﾝを図るも失敗。}
-Dialogue: 0,0:08:41.25,0:08:45.25,Default,Papan,0,0,0,,{\i1}{NOTE:今どきの若者との間に断絶感を感じる夜であった。}
-Dialogue: 0,0:08:48.96,0:08:51.26,Default,Papan,0,0,0,,{NOTE:考えられないっすよ。}
-Dialogue: 0,0:08:51.26,0:08:57.34,Default,Papan,0,0,0,,{NOTE:僕が若いころは先輩の誘いを断るなんてあり得ないことでしたよ～。}
-Dialogue: 0,0:08:57.34,0:09:00.14,Default,Fifi,0,0,0,,{NOTE:つらいわね中間管理職は。}
-Dialogue: 0,0:09:00.14,0:09:04.39,Default,Fifi,0,0,0,,{NOTE:私も組織に属する立場だから副隊長の気持ち分かるわ。}
-Dialogue: 0,0:09:04.39,0:09:06.81,Default,Papan,0,0,0,,{NOTE:はい。あぶり高層エリンギ。}
-Dialogue: 0,0:09:06.81,0:09:08.86,Default,Fifi,0,0,0,,{NOTE:ありがとうございます。}
-Dialogue: 0,0:09:10.90,0:09:15.11,Default,Papan,0,0,0,,{NOTE:僕の気持ちを分かってくれるのはティティだけっすよ！}
-Dialogue: 0,0:09:16.41,0:09:18.24,Default,Fifi,0,0,0,,{NOTE:ちゃんと分かってるわよ。}
-Dialogue: 0,0:09:18.24,0:09:22.33,Default,Fifi,0,0,0,,{NOTE:一見軽そうに見えて案外真面目なのよねパパン副隊長は。}
-Dialogue: 0,0:09:22.33,0:09:26.29,Default,Papan,0,0,0,,{NOTE:最近後輩たちの風当たり強くって。こないだなんか…}
-Dialogue: 0,0:09:27.58,0:09:31.34,Default,(unknown),0,0,0,,{NOTE:パパン先輩って細かいですよね。みみっちいっていうか…}
-Dialogue: 0,0:09:31.34,0:09:33.51,Default,(unknown),0,0,0,,{NOTE:そういうの疲れません？}
-Dialogue: 0,0:09:33.51,0:09:36.43,Default,(unknown),0,0,0,,{NOTE:副隊長って何が楽しいんですか？}
-Dialogue: 0,0:09:36.43,0:09:38.51,Default,Papan,0,0,0,,{NOTE:せこくて悪かったな！}
-Dialogue: 0,0:09:38.51,0:09:40.85,Default,Papan,0,0,0,,{NOTE:人生楽しいだけじゃないだろ！}
-Dialogue: 0,0:09:40.85,0:09:45.18,Default,Papan,0,0,0,,{NOTE:僕はｼﾓｰﾇ隊長のようにｶﾘｽﾏ性があるわけでもないし。}
-Dialogue: 0,0:09:45.18,0:09:48.81,Default,Papan,0,0,0,,{NOTE:リリアみたいに直感がさえてるわけでもない。}
-Dialogue: 0,0:09:48.81,0:09:53.11,Default,Papan,0,0,0,,{NOTE:だから地味にこつこつこつこつやるしかないんだ。}
-Dialogue: 0,0:09:53.11,0:09:56.15,Default,Papan,0,0,0,,{NOTE:悪いか！これが僕の仕事の流儀だ！}
-Dialogue: 0,0:10:00.62,0:10:01.70,Default,Fifi,0,0,0,,{NOTE:よく言った！}
-Dialogue: 0,0:10:01.70,0:10:03.20,Default,Papan,0,0,0,,{NOTE:ありがとうございます。}
-Dialogue: 0,0:10:03.20,0:10:05.79,Default,Papan,0,0,0,,{NOTE:今夜はとことん飲みましょう！}
-Dialogue: 0,0:10:05.79,0:10:07.67,Default,Fifi,0,0,0,,{NOTE:もうやめておきなさい。}
-Dialogue: 0,0:10:07.67,0:10:09.33,Default,Fifi,0,0,0,,{NOTE:あしたも早いんでしょ？}
-Dialogue: 0,0:10:09.33,0:10:10.67,Default,Papan,0,0,0,,{NOTE:え～}
-Dialogue: 0,0:10:10.67,0:10:13.50,Default,Papan,0,0,0,,{NOTE:飲ませてくださいよ～。}
-Dialogue: 0,0:10:16.97,0:10:19.47,Default,Fifi,0,0,0,,{NOTE:副隊長起きて！}
-Dialogue: 0,0:10:19.47,0:10:21.14,Default,Fifi,0,0,0,,{NOTE:もう出発の時間よ！}
-Dialogue: 0,0:10:21.14,0:10:22.47,Default,Fifi,0,0,0,,{NOTE:ほら起きて！}
-Dialogue: 0,0:10:29.98,0:10:32.61,Default,Lilia,0,0,0,,{NOTE:副隊長大丈夫ですか？}
-Dialogue: 0,0:10:32.61,0:10:34.36,Default,Papan,0,0,0,,{NOTE:も…もちろんだよ。}
-Dialogue: 0,0:10:35.23,0:10:36.24,Default,Papan,0,0,0,,{NOTE:お待たせ…}
-Dialogue: 0,0:10:39.78,0:10:40.78,Default,(unison),0,0,0,,
-Dialogue: 0,0:10:42.12,0:10:44.49,Default,Papan,0,0,0,,{NOTE:ぼ…僕の後ろに！}
-Dialogue: 0,0:10:44.49,0:10:46.16,Default,Lilia,0,0,0,,{NOTE:大丈夫ですか!?}
-Dialogue: 0,0:10:46.16,0:10:49.50,Default,Papan,0,0,0,,{NOTE:だ…だ…大丈夫！ぼ…僕に任せて！}
-Dialogue: 0,0:10:49.50,0:10:51.29,Default,Fifi,0,0,0,,{NOTE:任せていいのかしら？}
-Dialogue: 0,0:10:51.29,0:10:53.92,Default,Papan,0,0,0,,{NOTE:み…みんな動かないで！}
-Dialogue: 0,0:10:53.92,0:10:59.05,Default,Papan,0,0,0,,{NOTE:ぜ…絶対僕が君…君たちを守る…守るから！}
-Dialogue: 0,0:10:59.05,0:10:59.97,Default,Papan,0,0,0,,{NOTE:ハッ！}
-Dialogue: 0,0:10:59.97,0:11:03.05,Default,Papan,0,0,0,,{NOTE:こんなときのために持ち歩いてたんじゃないか！}
-Dialogue: 0,0:11:03.05,0:11:05.06,Default,Papan,0,0,0,,{NOTE:何かアイテム…う～！}
-Dialogue: 0,0:11:05.06,0:11:07.06,Default,Papan,0,0,0,,{NOTE:何でこんなもんばっかり～！}
-Dialogue: 0,0:11:07.06,0:11:09.10,Default,Lilia,0,0,0,,{NOTE:落ち着いてください！副隊長！}
-Dialogue: 0,0:11:24.07,0:11:25.66,Default,Lilia,0,0,0,,{NOTE:リヴェルトさん！}
-Dialogue: 0,0:11:25.66,0:11:26.41,Default,Reverto,0,0,0,,{NOTE:よう。}
-Dialogue: 0,0:11:26.41,0:11:27.83,Default,Reverto,0,0,0,,{NOTE:久しぶりだな。}
-Dialogue: 0,0:11:28.95,0:11:31.00,Default,Papan,0,0,0,,{NOTE:ぶりぶりーっす…}
+Dialogue: 0,0:07:57.70,0:08:00.71,Default,Pappan,0,0,0,,Why did she smile like that?{NOTE:あの笑顔は何だったんすか…}
+Dialogue: 0,0:08:00.71,0:08:03.83,Default,Fifi,0,0,0,,Don't be so down. Think positive, positive!{NOTE:まあまあ元気出して。明るく明るく。}
+Dialogue: 0,0:08:04.96,0:08:07.00,Default,Fifi,0,0,0,,Kira-kira-nyaa!{NOTE:キラキラニャーン！}
+Dialogue: 0,0:08:07.00,0:08:07.88,Default,Fifi,0,0,0,,Oh…?{NOTE:あら…}
+Dialogue: 0,0:08:09.42,0:08:11.63,Default,Pappan,0,0,0,,{\i1}End of the survey day 1.{NOTE:調査１日目終了。}
+Dialogue: 0,0:08:11.63,0:08:14.47,Default,Pappan,0,0,0,,{\i1}The number of traveling companions has increased unexpectedly.{NOTE:思わぬ形で同行者が増えた。}
+Dialogue: 0,0:08:14.47,0:08:18.68,Default,Pappan,0,0,0,,{\i1}There are different opinions about\Nthe circumstances for it. This journey will be long.{NOTE:その理由に異論はあるものの旅は長い。}
+Dialogue: 0,0:08:18.68,0:08:23.39,Default,Pappan,0,0,0,,{\i1}Communication is an effective way to improve collaboration between fellow travelers.{NOTE:同行者との連携を深めるためにもコミュニケーションは有効だ。}
+Dialogue: 0,0:08:23.39,0:08:24.27,Default,Pappan,0,0,0,,Lilia.{NOTE:リリア。}
+Dialogue: 0,0:08:25.90,0:08:28.15,Default,Pappan,0,0,0,,Would you like to eat mushrooms together?{NOTE:一緒に高層エリンギ食べない？}
+Dialogue: 0,0:08:28.15,0:08:29.69,Default,Lilia,0,0,0,,No, I'll pass.{NOTE:結構です。}
+Dialogue: 0,0:08:29.69,0:08:34.41,Default,Pappan,0,0,0,,A-Are you sure? The taste is so great I could eat it forever…{NOTE:そう言わずに…味は微妙だけど癖になるっていうか…}
+Dialogue: 0,0:08:34.41,0:08:35.99,Default,Lilia,0,0,0,,I have something I want to investigate.{NOTE:調べたいことがあるんで。}
+Dialogue: 0,0:08:35.99,0:08:37.41,Default,Lilia,0,0,0,,Excuse me.{NOTE:失礼します。}
+Dialogue: 0,0:08:37.41,0:08:41.25,Default,Pappan,0,0,0,,{\i1}Communication with companions: failure.{NOTE:同行者とのｺﾐｭﾆｹｰｼｮﾝを図るも失敗。}
+Dialogue: 0,0:08:41.25,0:08:45.25,Default,Pappan,0,0,0,,{\i1}Tonight I feel I can't connect with the present youth anymore.{NOTE:今どきの若者との間に断絶感を感じる夜であった。}
+Dialogue: 0,0:08:48.96,0:08:51.26,Default,Pappan,0,0,0,,I can't believe it.{NOTE:考えられないっすよ。}
+Dialogue: 0,0:08:51.26,0:08:57.34,Default,Pappan,0,0,0,,When I was young it was unthinkable to refuse my seniors' invitation.{NOTE:僕が若いころは先輩の誘いを断るなんてあり得ないことでしたよ～。}
+Dialogue: 0,0:08:57.34,0:09:00.14,Default,Fifi,0,0,0,,Middle management has it hard, hasn't it?{NOTE:つらいわね中間管理職は。}
+Dialogue: 0,0:09:00.14,0:09:04.39,Default,Fifi,0,0,0,,Because I'm affiliated with the organization, I understand Vice Captain's feelings.{NOTE:私も組織に属する立場だから副隊長の気持ち分かるわ。}
+Dialogue: 0,0:09:04.39,0:09:06.81,Default,Pappan,0,0,0,,Here you go. Oiled mushroom.{NOTE:はい。あぶり高層エリンギ。}
+Dialogue: 0,0:09:06.81,0:09:08.86,Default,Fifi,0,0,0,,Thank you very much.{NOTE:ありがとうございます。}
+Dialogue: 0,0:09:10.90,0:09:15.11,Default,Pappan,0,0,0,,Only Fifi understands my feelings!{NOTE:僕の気持ちを分かってくれるのはティティだけっすよ！}
+Dialogue: 0,0:09:16.41,0:09:18.24,Default,Fifi,0,0,0,,I understand you well.{NOTE:ちゃんと分かってるわよ。}
+Dialogue: 0,0:09:18.24,0:09:22.33,Default,Fifi,0,0,0,,You seem lighthearted at first glance, but you're unexpectedly serious, Vice Captain Pappan.{NOTE:一見軽そうに見えて案外真面目なのよねパパン副隊長は。}
+Dialogue: 0,0:09:22.33,0:09:26.29,Default,Pappan,0,0,0,,Youth these days doesn't have a single bit of respect!{NOTE:最近後輩たちの風当たり強くって。こないだなんか…}
+Dialogue: 0,0:09:27.58,0:09:31.34,Default,(unknown),0,0,0,,Pappan is pretty small-minded, isn't he?{NOTE:パパン先輩って細かいですよね。みみっちいっていうか…}
+Dialogue: 0,0:09:31.34,0:09:33.51,Default,(unknown),0,0,0,,Don't you get tired of it?{NOTE:そういうの疲れません？}
+Dialogue: 0,0:09:33.51,0:09:36.43,Default,(unknown),0,0,0,,What is so interesting about the vice captain's job?{NOTE:副隊長って何が楽しいんですか？}
+Dialogue: 0,0:09:36.43,0:09:38.51,Default,Pappan,0,0,0,,I'm sorry for being small-minded, alright!{NOTE:せこくて悪かったな！}
+Dialogue: 0,0:09:38.51,0:09:40.85,Default,Pappan,0,0,0,,Life's not all rainbow and unicorns!{NOTE:人生楽しいだけじゃないだろ！}
+Dialogue: 0,0:09:40.85,0:09:45.18,Default,Pappan,0,0,0,,I am not as charismatic as Captain Simone.{NOTE:僕はｼﾓｰﾇ隊長のようにｶﾘｽﾏ性があるわけでもないし。}
+Dialogue: 0,0:09:45.18,0:09:48.81,Default,Pappan,0,0,0,,I don't have Lilia's intuition either.{NOTE:リリアみたいに直感がさえてるわけでもない。}
+Dialogue: 0,0:09:48.81,0:09:53.11,Default,Pappan,0,0,0,,That's why I need to do old fashioned boring work, step by step, step by step!{NOTE:だから地味にこつこつこつこつやるしかないんだ。}
+Dialogue: 0,0:09:53.11,0:09:56.15,Default,Pappan,0,0,0,,Is it that bad? This is how I work!{NOTE:悪いか！これが僕の仕事の流儀だ！}
+Dialogue: 0,0:10:00.62,0:10:01.70,Default,Fifi,0,0,0,,Well said!{NOTE:よく言った！}
+Dialogue: 0,0:10:01.70,0:10:03.20,Default,Pappan,0,0,0,,Thank you very much.{NOTE:ありがとうございます。}
+Dialogue: 0,0:10:03.20,0:10:05.79,Default,Pappan,0,0,0,,Let's drink thoroughly tonight!{NOTE:今夜はとことん飲みましょう！}
+Dialogue: 0,0:10:05.79,0:10:07.67,Default,Fifi,0,0,0,,Let's not.{NOTE:もうやめておきなさい。}
+Dialogue: 0,0:10:07.67,0:10:09.33,Default,Fifi,0,0,0,,We need to get up early tomorrow, remember?{NOTE:あしたも早いんでしょ？}
+Dialogue: 0,0:10:09.33,0:10:10.67,Default,Pappan,0,0,0,,Ehh?{NOTE:え～}
+Dialogue: 0,0:10:10.67,0:10:13.50,Default,Pappan,0,0,0,,Please let me drink.{NOTE:飲ませてくださいよ～。}
+Dialogue: 0,0:10:16.97,0:10:19.47,Default,Fifi,0,0,0,,Wake up, Vice Captain!{NOTE:副隊長起きて！}
+Dialogue: 0,0:10:19.47,0:10:21.14,Default,Fifi,0,0,0,,It's time to depart!{NOTE:もう出発の時間よ！}
+Dialogue: 0,0:10:21.14,0:10:22.47,Default,Fifi,0,0,0,,Come on, get up!{NOTE:ほら起きて！}
+Dialogue: 0,0:10:29.98,0:10:32.61,Default,Lilia,0,0,0,,Are you okay, Vice Captain?{NOTE:副隊長大丈夫ですか？}
+Dialogue: 0,0:10:32.61,0:10:34.36,Default,Pappan,0,0,0,,O-Of course.{NOTE:も、もちろんだよ。}
+Dialogue: 0,0:10:35.23,0:10:36.24,Default,Pappan,0,0,0,,Sorry I kept you waiting.{NOTE:お待たせ…}
+Dialogue: 0,0:10:39.78,0:10:40.78,Default,(unison),0,0,0,,Eek!{NOTE:ああ！}
+Dialogue: 0,0:10:42.12,0:10:44.49,Default,Pappan,0,0,0,,S-Stand behind me!{NOTE:ぼ、僕の後ろに！}
+Dialogue: 0,0:10:44.49,0:10:46.16,Default,Lilia,0,0,0,,Are you okay!?{NOTE:大丈夫ですか!?}
+Dialogue: 0,0:10:46.16,0:10:49.50,Default,Pappan,0,0,0,,I-I-I am! Leave it to me!{NOTE:だ、だ、大丈夫！ぼ、僕に任せて！}
+Dialogue: 0,0:10:49.50,0:10:51.29,Default,Fifi,0,0,0,,I wonder if we really can…{NOTE:任せていいのかしら？}
+Dialogue: 0,0:10:51.29,0:10:53.92,Default,Pappan,0,0,0,,Everyone, don't move!{NOTE:み、みんな動かないで！}
+Dialogue: 0,0:10:53.92,0:10:59.05,Default,Pappan,0,0,0,,I-I will p-protect you!{NOTE:ぜ、絶対僕が君、君たちを守る、守るから！}
+Dialogue: 0,0:10:59.05,0:10:59.97,Default,Pappan,0,0,0,,Huh!?{NOTE:ハッ！}
+Dialogue: 0,0:10:59.97,0:11:03.05,Default,Pappan,0,0,0,,I brought lots of stuff for such time!{NOTE:こんなときのために持ち歩いてたんじゃないか！}
+Dialogue: 0,0:11:03.05,0:11:05.06,Default,Pappan,0,0,0,,I need some good item…{NOTE:何かアイテム…う～！}
+Dialogue: 0,0:11:05.06,0:11:07.06,Default,Pappan,0,0,0,,Why I can only find useless junk now!?{NOTE:何でこんなもんばっかり～！}
+Dialogue: 0,0:11:07.06,0:11:09.10,Default,Lilia,0,0,0,,Please calm down, Vice Captain!{NOTE:落ち着いてください！副隊長！}
+Dialogue: 0,0:11:24.07,0:11:25.66,Default,Lilia,0,0,0,,Mr. Reverto!{NOTE:リヴェルトさん！}
+Dialogue: 0,0:11:25.66,0:11:26.41,Default,Reverto,0,0,0,,Yo.{NOTE:よう。}
+Dialogue: 0,0:11:26.41,0:11:27.83,Default,Reverto,0,0,0,,It's been a long time.{NOTE:久しぶりだな。}
+Dialogue: 0,0:11:28.95,0:11:31.00,Default,Pappan,0,0,0,,L-Long time no see…{NOTE:ぶりぶりーっす…}
 Comment: 0,0:11:31.00,0:11:31.00,Default,Chapter,0,0,0,,Eyecatch
-Dialogue: 0,0:11:31.58,0:11:32.71,Default,Lute,0,0,0,,{NOTE:ライドオン！}
-Dialogue: 0,0:11:33.92,0:11:35.00,Default,Lute,0,0,0,,{NOTE:リオレウス！}
+Dialogue: 0,0:11:31.58,0:11:32.71,Default,Lute,0,0,0,,Ride On!{NOTE:ライドオン！}
+Dialogue: 0,0:11:33.92,0:11:35.00,Default,Lute,0,0,0,,Rathalos!{NOTE:リオレウス！}
 Comment: 0,0:11:35.00,0:11:35.00,Default,Chapter,0,0,0,,#Black screen
 Comment: 0,0:11:37.00,0:11:37.00,Default,Chapter,0,0,0,,$Eyecatch
-Dialogue: 0,0:11:39.17,0:11:40.26,Default,Navirou,0,0,0,,{NOTE:ニャグゥ！}
+Dialogue: 0,0:11:39.17,0:11:40.26,Default,Navirou,0,0,0,,Nya-ow!{NOTE:ニャグゥ！}
 Comment: 0,0:11:41.01,0:11:41.01,Default,Chapter,0,0,0,,Part B
-Dialogue: 0,0:11:41.34,0:11:43.30,Default,Reverto,0,0,0,,{NOTE:みんな下がっててくれ！}
-Dialogue: 0,0:11:43.30,0:11:44.47,Default,Fifi,0,0,0,,{NOTE:あの木の陰へ！}
-Dialogue: 0,0:11:44.47,0:11:45.01,Default,Lilia,0,0,0,,{NOTE:うん！}
-Dialogue: 0,0:11:45.01,0:11:47.60,Default,Fifi,0,0,0,,{NOTE:ほらパパン副隊長も頑張って歩いて！}
-Dialogue: 0,0:11:47.60,0:11:49.39,Default,Papan,0,0,0,,{NOTE:あっはい…}
-Dialogue: 0,0:11:57.48,0:11:59.03,Default,Lilia,0,0,0,,{NOTE:さすがリヴェルトさん。}
-Dialogue: 0,0:11:59.03,0:11:59.99,Default,Papan,0,0,0,,{NOTE:カッコイイ…}
-Dialogue: 0,0:11:59.99,0:12:02.07,Default,Fifi,0,0,0,,{NOTE:彼にならモフられてもいいわ。}
-Dialogue: 0,0:12:08.99,0:12:10.16,Default,Lilia,0,0,0,,{NOTE:リヴェルトさん!?}
-Dialogue: 0,0:12:10.16,0:12:11.41,Default,Fifi,0,0,0,,{NOTE:どうしたの!?}
-Dialogue: 0,0:12:11.41,0:12:14.54,Default,Reverto,0,0,0,,{NOTE:いやぁ昨日飲み過ぎちまって…}
-Dialogue: 0,0:12:14.54,0:12:16.59,Default,Papan,0,0,0,,{NOTE:まさかのスタミナ切れ!?}
-Dialogue: 0,0:12:16.59,0:12:17.67,Default,Reverto,0,0,0,,{NOTE:すまん…}
-Dialogue: 0,0:12:18.21,0:12:20.59,Default,Fifi,0,0,0,,{NOTE:ちょっリヴェルトさん大丈夫!?}
-Dialogue: 0,0:12:20.59,0:12:22.26,Default,Reverto,0,0,0,,{NOTE:ちょっとヤバい…}
-Dialogue: 0,0:12:24.59,0:12:26.14,Default,Papan,0,0,0,,{NOTE:また襲ってくる気だ。}
-Dialogue: 0,0:12:26.14,0:12:28.89,Default,Papan,0,0,0,,{NOTE:ど…どうしようこのままじゃ…}
-Dialogue: 0,0:12:28.89,0:12:30.27,Default,Lilia,0,0,0,,{NOTE:大丈夫ですよ！}
-Dialogue: 0,0:12:30.27,0:12:32.18,Default,Papan,0,0,0,,{NOTE:また直感で言ってない!?}
-Dialogue: 0,0:12:32.18,0:12:33.85,Default,Lilia,0,0,0,,{NOTE:大丈夫ですって！}
-Dialogue: 0,0:12:33.85,0:12:35.10,Default,Lilia,0,0,0,,{NOTE:ほら！}
-Dialogue: 0,0:12:35.10,0:12:38.32,Default,Papan,0,0,0,,{NOTE:元気ドリンコなんて何の役にも立たないよ！}
-Dialogue: 0,0:12:38.32,0:12:40.65,Default,Papan,0,0,0,,{NOTE:落とし穴とかの方がよっぽど…}
-Dialogue: 0,0:12:40.65,0:12:41.94,Default,Papan,0,0,0,,{NOTE:後ろ～!!}
-Dialogue: 0,0:12:41.94,0:12:42.65,Default,Lilia,0,0,0,,{NOTE:えっ？}
-Dialogue: 0,0:12:43.53,0:12:44.70,Default,Reverto,0,0,0,,{NOTE:伏せろ！リリア！}
-Dialogue: 0,0:12:50.24,0:12:51.91,Default,Lilia,0,0,0,,{NOTE:リヴェルトさん！}
-Dialogue: 0,0:12:51.91,0:12:53.58,Default,Lilia,0,0,0,,{NOTE:リヴェルトさんリヴェルトさん！}
-Dialogue: 0,0:12:53.58,0:12:54.79,Default,Lilia,0,0,0,,{NOTE:元気ドリンコです！}
-Dialogue: 0,0:12:56.58,0:12:58.42,Default,Reverto,0,0,0,,{NOTE:こいつはありがたい。}
-Dialogue: 0,0:12:58.42,0:13:00.42,Default,Reverto,0,0,0,,{NOTE:最高のアイテムじゃねえか。}
-Dialogue: 0,0:13:04.72,0:13:06.09,Default,Reverto,0,0,0,,{NOTE:もう少しあるか？}
-Dialogue: 0,0:13:06.09,0:13:08.68,Default,Lilia,0,0,0,,{NOTE:そんなこともあろうかと用意しておきました。}
-Dialogue: 0,0:13:08.68,0:13:09.89,Default,Lilia,0,0,0,,{NOTE:まだありますよ。}
-Dialogue: 0,0:13:09.89,0:13:11.14,Default,Papan,0,0,0,,{NOTE:あっそれは…}
-Dialogue: 0,0:13:11.14,0:13:11.97,Default,Reverto,0,0,0,,{NOTE:ん？}
-Dialogue: 0,0:13:18.69,0:13:21.23,Default,Reverto,0,0,0,,{NOTE:こりゃ最後にすげえのきた…}
-Dialogue: 0,0:13:21.23,0:13:22.69,Default,Lilia,0,0,0,,{NOTE:まだたくさんありますよ！}
-Dialogue: 0,0:13:28.99,0:13:31.99,Default,Papan,0,0,0,,{\i1}{NOTE:備えあれば憂いなしが…}
-Dialogue: 0,0:13:31.99,0:13:34.50,Default,Papan,0,0,0,,{\i1}{NOTE:…僕の旅のモットーであるが。}
-Dialogue: 0,0:13:34.50,0:13:38.00,Default,Papan,0,0,0,,{\i1}{NOTE:ノー元気ドリンコノージャーニーを痛感した出来事だった。}
-Dialogue: 0,0:13:49.76,0:13:50.89,Default,Reverto,0,0,0,,{NOTE:おーい！}
-Dialogue: 0,0:13:50.89,0:13:52.64,Default,Reverto,0,0,0,,{NOTE:こっち来て食えよ！}
-Dialogue: 0,0:13:52.64,0:13:58.02,Default,Papan,0,0,0,,{NOTE:あんな醜態をさらしておいてご飯を頂く権利はないっす…}
-Dialogue: 0,0:13:58.02,0:14:01.19,Default,Reverto,0,0,0,,{NOTE:ビビって腰抜かしたこと落ち込んでんのか？}
-Dialogue: 0,0:14:01.19,0:14:04.40,Default,Reverto,0,0,0,,{NOTE:モンスターが相手なんだから仕方ないだろ。}
-Dialogue: 0,0:14:04.40,0:14:08.36,Default,Papan,0,0,0,,{NOTE:でも僕は後輩を守るべき立場なのに…}
-Dialogue: 0,0:14:08.36,0:14:11.37,Default,Lilia,0,0,0,,{NOTE:あっそれは最初から期待してませんでした。}
-Dialogue: 0,0:14:11.37,0:14:12.24,Default,Papan,0,0,0,,{NOTE:えっ!?}
-Dialogue: 0,0:14:12.24,0:14:14.87,Default,Lilia,0,0,0,,{NOTE:自分の身は自分で守ります。}
-Dialogue: 0,0:14:14.87,0:14:16.16,Default,Lilia,0,0,0,,{NOTE:知恵を使って。}
-Dialogue: 0,0:14:16.16,0:14:18.50,Default,Fifi,0,0,0,,{NOTE:ドーナツでも食べなさい。}
-Dialogue: 0,0:14:18.50,0:14:19.83,Default,Papan,0,0,0,,{NOTE:ありがとうっす…}
-Dialogue: 0,0:14:21.09,0:14:23.55,Default,Fifi,0,0,0,,{NOTE:あなたにも。すてきだったわ。}
-Dialogue: 0,0:14:23.55,0:14:25.26,Default,Fifi,0,0,0,,{NOTE:これ私の気持ち。}
-Dialogue: 0,0:14:25.26,0:14:27.17,Default,Reverto,0,0,0,,{NOTE:おうサンキュー。}
-Dialogue: 0,0:14:27.17,0:14:29.97,Default,Lilia,0,0,0,,{NOTE:そういえばリヴェルトさんはどうしてここに？}
-Dialogue: 0,0:14:29.97,0:14:31.43,Default,Lilia,0,0,0,,{NOTE:クエストですか？}
-Dialogue: 0,0:14:31.43,0:14:35.22,Default,Reverto,0,0,0,,{NOTE:ああ…正しくは裏クエストってとこだな。}
-Dialogue: 0,0:14:35.22,0:14:36.60,Default,(unison),0,0,0,,{NOTE:裏クエスト？}
-Dialogue: 0,0:14:36.60,0:14:39.23,Default,Reverto,0,0,0,,{NOTE:お前らのボスから頼まれたんだよ。}
-Dialogue: 0,0:14:39.23,0:14:40.98,Default,Lilia,0,0,0,,{NOTE:隊長から聞いてます？}
-Dialogue: 0,0:14:43.48,0:14:47.40,Default,Papan,0,0,0,,{NOTE:やっぱり信用されてないのかな、僕…}
-Dialogue: 0,0:14:47.40,0:14:48.99,Default,Papan,0,0,0,,{NOTE:副隊長なのに…}
-Dialogue: 0,0:14:48.99,0:14:52.07,Default,Reverto,0,0,0,,{NOTE:それは関係ないと思うぞ。}
-Dialogue: 0,0:14:52.07,0:14:57.87,Default,Reverto,0,0,0,,{NOTE:俺が頼まれたのはブラックライダーズとやらが使っている伝承技についてだ。}
-Dialogue: 0,0:14:57.87,0:15:01.33,Default,Reverto,0,0,0,,{NOTE:その実力はどれほどか調べてこいとさ。}
-Dialogue: 0,0:15:01.33,0:15:06.59,Default,Reverto,0,0,0,,{NOTE:本来なら受けない特殊なクエストだがハクム村も被害を受けたと聞いたら…}
-Dialogue: 0,0:15:06.59,0:15:09.38,Default,Reverto,0,0,0,,{NOTE:…俺も黙っちゃいられねえよ。}
-Dialogue: 0,0:15:09.38,0:15:14.43,Default,Reverto,0,0,0,,{NOTE:連中の情報を得るために絆石狩りに遭った村を幾つか回った。}
-Dialogue: 0,0:15:14.43,0:15:18.31,Default,Reverto,0,0,0,,{NOTE:そこで聞いたがやつらはとある秘術を行うために…}
-Dialogue: 0,0:15:18.31,0:15:20.14,Default,Reverto,0,0,0,,{NOTE:…絆石を集めているらしい。}
-Dialogue: 0,0:15:20.14,0:15:21.06,Default,(unison),0,0,0,,{NOTE:あっ！}
-Dialogue: 0,0:15:21.06,0:15:23.23,Default,Papan,0,0,0,,{NOTE:その秘術って…}
-Dialogue: 0,0:15:23.23,0:15:27.90,Default,Reverto,0,0,0,,{NOTE:何でもモンスターとシンクロして力を強化するものらしい。}
-Dialogue: 0,0:15:27.90,0:15:30.82,Default,Papan,0,0,0,,{NOTE:リリアの直感が正しかった！}
-Dialogue: 0,0:15:32.49,0:15:34.28,Default,Reverto,0,0,0,,{NOTE:どういうことだ？}
-Dialogue: 0,0:15:34.28,0:15:35.33,Default,Lilia,0,0,0,,{NOTE:実は…}
-Dialogue: 0,0:15:38.91,0:15:40.46,Default,Reverto,0,0,0,,{NOTE:なるほど。}
-Dialogue: 0,0:15:40.46,0:15:45.00,Default,Reverto,0,0,0,,{NOTE:オミの谷にはその秘術について知る人間がいるかもしれないんだな。}
-Dialogue: 0,0:15:46.17,0:15:49.51,Default,Reverto,0,0,0,,{NOTE:けどあそこは手だれのハンターでも苦戦する場所だ。}
-Dialogue: 0,0:15:49.51,0:15:52.22,Default,Reverto,0,0,0,,{NOTE:お前たちだけじゃちょっと心もとないんじゃないか？}
-Dialogue: 0,0:15:54.60,0:15:56.97,Default,Reverto,0,0,0,,{NOTE:俺も一緒に行ってやるよ。}
-Dialogue: 0,0:15:56.97,0:15:58.10,Default,(mixed),0,0,0,,{NOTE:—おっ？\\N—あら！}
-Dialogue: 0,0:15:58.10,0:15:59.39,Default,Papan,0,0,0,,{NOTE:マジっすか!?}
-Dialogue: 0,0:15:59.39,0:16:02.14,Default,Reverto,0,0,0,,{NOTE:ボスに報酬を弾めと言っておけよ。}
-Dialogue: 0,0:16:02.14,0:16:03.94,Default,Reverto,0,0,0,,{NOTE:これは別任務だからな！}
-Dialogue: 0,0:16:03.94,0:16:04.81,Default,(unison),0,0,0,,{NOTE:あっ！}
-Dialogue: 0,0:16:04.81,0:16:07.23,Default,Papan,0,0,0,,{NOTE:あざーっす！喜んで！}
-Dialogue: 0,0:16:10.07,0:16:13.36,Default,Simone,0,0,0,,{\i1}{NOTE:書士隊日誌ナンバー20332。}
-Dialogue: 0,0:16:13.36,0:16:15.03,Default,Simone,0,0,0,,{\i1}{NOTE:文責パパン。}
-Dialogue: 0,0:16:15.03,0:16:22.12,Default,Simone,0,0,0,,{\i1}{NOTE:モンスターの生態調査で訪れたとある村にてライダー同士の決闘を目撃。}
-Dialogue: 0,0:16:22.12,0:16:25.04,Default,Simone,0,0,0,,{\i1}{NOTE:ライダーがなぜライダーを襲う？}
-Dialogue: 0,0:16:25.04,0:16:28.67,Default,Simone,0,0,0,,{\i1}{NOTE:ライダーは絆石でモンスターと絆を結ぶ。}
-Dialogue: 0,0:16:28.67,0:16:32.51,Default,Simone,0,0,0,,{\i1}{NOTE:その絆石をたくさん集めて何ができるというのだ？}
-Dialogue: 0,0:16:33.88,0:16:40.77,Default,Simone,0,0,0,,{\i1}{NOTE:ハクム村のライダーたちのように絆石に何か他の利用方法があるのだろうか。}
-Dialogue: 0,0:16:40.77,0:16:47.36,Default,Simone,0,0,0,,{\i1}{NOTE:だとしたらそれに数が必要だから奪ってまで集めているということか？}
-Dialogue: 0,0:16:47.36,0:16:52.74,Default,Simone,0,0,0,,{\i1}{NOTE:集めた絆石でいったい何をしようとしているのだろう？}
-Dialogue: 0,0:16:52.74,0:16:57.24,Default,Simone,0,0,0,,{\i1}{NOTE:どうやら全ての理由は絆石にあるようだ…}
-Dialogue: 0,0:16:57.24,0:16:58.53,Default,(unknown),0,0,0,,{NOTE:お疲れさまです。}
-Dialogue: 0,0:16:58.53,0:17:00.20,Default,(unknown),0,0,0,,{NOTE:頼まれていた資料です。}
-Dialogue: 0,0:17:00.20,0:17:01.91,Default,Simone,0,0,0,,{NOTE:ありがとう。}
-Dialogue: 0,0:17:01.91,0:17:04.79,Default,(unknown),0,0,0,,{NOTE:今ごろパパンのやつ大丈夫ですかね？}
-Dialogue: 0,0:17:04.79,0:17:06.54,Default,Simone,0,0,0,,{NOTE:何を心配している？}
-Dialogue: 0,0:17:06.54,0:17:11.96,Default,(unknown),0,0,0,,{NOTE:いや最近あいつ悩んでて後輩との接し方に。}
-Dialogue: 0,0:17:11.96,0:17:15.38,Default,(unknown),0,0,0,,{NOTE:だから隊長もティティに同行を頼んだんですよね？}
-Dialogue: 0,0:17:15.38,0:17:19.51,Default,Simone,0,0,0,,{NOTE:私が心配していたのはパパンの力量ではない。}
-Dialogue: 0,0:17:19.51,0:17:22.72,Default,Simone,0,0,0,,{NOTE:パパンはああ見えて真面目な男だからな。}
-Dialogue: 0,0:17:22.72,0:17:26.27,Default,Simone,0,0,0,,{NOTE:考え過ぎて空回りしてしまうことがある。}
-Dialogue: 0,0:17:26.27,0:17:31.40,Default,Simone,0,0,0,,{NOTE:ティティといればリラックスして気負わず調査に集中できると思ったのだ。}
-Dialogue: 0,0:17:31.40,0:17:32.57,Default,(unknown),0,0,0,,{NOTE:なるほど。}
-Dialogue: 0,0:17:32.57,0:17:36.15,Default,(unknown),0,0,0,,{NOTE:隊長はパパンのことよく分かってますね。}
-Dialogue: 0,0:17:36.15,0:17:38.57,Default,Simone,0,0,0,,{NOTE:私の大事な右腕だからな。}
-Dialogue: 0,0:17:42.91,0:17:44.54,Default,Papan,0,0,0,,{\i1}{NOTE:調査３日目。}
-Dialogue: 0,0:17:44.54,0:17:47.04,Default,Papan,0,0,0,,{\i1}{NOTE:ひたすらオミの谷へ突き進む。}
-Dialogue: 0,0:17:47.04,0:17:56.34,Default,Papan,0,0,0,,{\i1}{NOTE:ハンターの修練場と呼ばれたオミの谷はかつては多種多様なモンスターが成育し多くのハンターたちでにぎわう場所だったと聞いている。}
-Dialogue: 0,0:17:56.34,0:17:59.93,Default,Papan,0,0,0,,{\i1}{NOTE:しかしそこは見る影もないほど様変わりしていた。}
-Dialogue: 0,0:18:02.01,0:18:04.39,Default,Papan,0,0,0,,{NOTE:誰もいないみたいっすね。}
-Dialogue: 0,0:18:04.39,0:18:09.06,Default,Reverto,0,0,0,,{NOTE:昔はモンスターも多くハンターや村人でにぎわう谷だったんだがな…}
-Dialogue: 0,0:18:10.31,0:18:11.73,Default,Lilia,0,0,0,,{NOTE:すみませーん！}
-Dialogue: 0,0:18:11.73,0:18:13.48,Default,Lilia,0,0,0,,{NOTE:誰かいませんか？}
-Dialogue: 0,0:18:14.57,0:18:16.57,Default,Papan,0,0,0,,{NOTE:誰もいないみたいだね。}
-Dialogue: 0,0:18:16.57,0:18:17.82,Default,Lilia,0,0,0,,{NOTE:はい…}
-Dialogue: 0,0:18:17.82,0:18:19.74,Default,Papan,0,0,0,,{NOTE:しょうがないよ。}
-Dialogue: 0,0:18:19.74,0:18:21.45,Default,Papan,0,0,0,,{NOTE:こういうときもある。}
-Dialogue: 0,0:18:21.45,0:18:23.74,Default,Papan,0,0,0,,{NOTE:諦めずに調査を続けよう。}
-Dialogue: 0,0:18:23.74,0:18:24.91,Default,Lilia,0,0,0,,{NOTE:はい。}
-Dialogue: 0,0:18:24.91,0:18:25.66,Default,Lilia,0,0,0,,{NOTE:おっ？}
-Dialogue: 0,0:18:25.66,0:18:27.08,Default,Fifi,0,0,0,,{NOTE:誰かいるみたいだわ。}
-Dialogue: 0,0:18:28.17,0:18:29.29,Default,Lilia,0,0,0,,{NOTE:大丈夫ですか？}
-Dialogue: 0,0:18:31.13,0:18:32.92,Default,Lilia,0,0,0,,{NOTE:すみません！失礼します！}
-Dialogue: 0,0:18:45.43,0:18:46.81,Default,Townfolk,0,0,0,,{NOTE:誰じゃな？}
-Dialogue: 0,0:18:48.06,0:18:49.06,Default,Lilia,0,0,0,,{NOTE:大丈夫ですか!?}
-Dialogue: 0,0:18:52.73,0:18:55.32,Default,Townfolk,0,0,0,,{NOTE:ありがとう。楽になった。}
-Dialogue: 0,0:18:56.11,0:19:01.41,Default,Townfolk,0,0,0,,{NOTE:それであんた方いったいこんな村に何の用じゃ？}
-Dialogue: 0,0:19:01.41,0:19:03.95,Default,Lilia,0,0,0,,{NOTE:王立書士隊のリリアといいます。}
-Dialogue: 0,0:19:03.95,0:19:07.83,Default,Lilia,0,0,0,,{NOTE:私たちこの絵について知りたくてやって来ました。}
-Dialogue: 0,0:19:07.83,0:19:10.04,Default,Townfolk,0,0,0,,{NOTE:それは…}
-Dialogue: 0,0:19:10.04,0:19:13.50,Default,Townfolk,0,0,0,,{NOTE:あっそれはわしの祖父が描いた絵じゃ。}
-Dialogue: 0,0:19:13.50,0:19:14.34,Default,(unison),0,0,0,,{NOTE:えっ!?}
-Dialogue: 0,0:19:16.05,0:19:21.13,Default,Townfolk,0,0,0,,{NOTE:幼いころ祖父からこの絵に描かれた村の話を聞いた。}
-Dialogue: 0,0:19:21.13,0:19:28.89,Default,Townfolk,0,0,0,,{NOTE:その村は深い山に閉ざされた秘境で代々伝わる秘密の術を行っていたらしい。}
-Dialogue: 0,0:19:28.89,0:19:31.77,Default,Lilia,0,0,0,,{NOTE:その術とはどんな術なんですか？}
-Dialogue: 0,0:19:31.77,0:19:36.02,Default,Townfolk,0,0,0,,{NOTE:今はなきクアン村に伝わる秘術らしい。}
-Dialogue: 0,0:19:36.02,0:19:36.90,Default,Lilia,0,0,0,,{NOTE:秘術！}
-Dialogue: 0,0:19:36.90,0:19:39.40,Default,Papan,0,0,0,,{NOTE:内緒の儀式ってことっすか。}
-Dialogue: 0,0:19:39.40,0:19:42.11,Default,Papan,0,0,0,,{NOTE:クアン村といったら確か…}
-Dialogue: 0,0:19:42.11,0:19:45.12,Default,Townfolk,0,0,0,,{NOTE:数年前に滅びたと聞いている。}
-Dialogue: 0,0:19:45.12,0:19:48.45,Default,Townfolk,0,0,0,,{NOTE:黒の凶気に襲われてな。}
-Dialogue: 0,0:19:48.45,0:19:52.58,Default,Townfolk,0,0,0,,{NOTE:じゃが最近になってある噂話を耳にした。}
-Dialogue: 0,0:19:52.58,0:19:55.63,Default,Townfolk,0,0,0,,{NOTE:クアン村の生き残りがいると。}
-Dialogue: 0,0:19:55.63,0:19:59.92,Default,Townfolk,0,0,0,,{NOTE:氷牙竜ベリオロスと不思議な絆を結ぶ者らしい。}
-Dialogue: 0,0:19:59.92,0:20:01.09,Default,Lilia,0,0,0,,{NOTE:アユリアさん！}
-Dialogue: 0,0:20:01.09,0:20:03.76,Default,Papan,0,0,0,,{NOTE:アユリアさんがクアン村の生き残り!?}
-Dialogue: 0,0:20:03.76,0:20:05.72,Default,Papan,0,0,0,,{NOTE:それって…}
-Dialogue: 0,0:20:05.72,0:20:08.77,Default,Papan,0,0,0,,{NOTE:ブラックライダーズがアユリアさんを誘拐したのは…}
-Dialogue: 0,0:20:08.77,0:20:11.64,Default,Papan,0,0,0,,{NOTE:…クアン村の秘術を手に入れるため？}
-Dialogue: 0,0:20:11.64,0:20:16.06,Default,Reverto,0,0,0,,{NOTE:その秘術が悪いやつらの手に渡ったらどうなる？}
-Dialogue: 0,0:20:16.06,0:20:18.40,Default,Townfolk,0,0,0,,{NOTE:悲劇が待っているじゃろう…}
-Dialogue: 0,0:20:22.49,0:20:26.03,Default,Townfolk,0,0,0,,{NOTE:クアン村はあの山の向こうじゃ。}
-Dialogue: 0,0:20:26.03,0:20:29.79,Default,Townfolk,0,0,0,,{NOTE:道は断たれていて行くすべはないが…}
-Dialogue: 0,0:20:29.79,0:20:30.95,Default,Lilia,0,0,0,,{NOTE:大丈夫です。}
-Dialogue: 0,0:20:30.95,0:20:31.71,Default,Papan,0,0,0,,{NOTE:えっ？}
-Dialogue: 0,0:20:31.71,0:20:33.92,Default,Papan,0,0,0,,{NOTE:どうして？また直感？}
-Dialogue: 0,0:20:33.92,0:20:39.46,Default,Lilia,0,0,0,,{NOTE:いえ私は無理でもリュートとシュヴァルならきっと見つけると思います。}
-Dialogue: 0,0:20:39.46,0:20:44.05,Default,Lilia,0,0,0,,{NOTE:私ギルデカランに戻って２人にクアン村のことを伝えようと思います。}
-Dialogue: 0,0:20:45.39,0:20:47.60,Default,Lilia,0,0,0,,{NOTE:ありがとうございました。}
-Dialogue: 0,0:20:47.60,0:20:49.72,Default,Lilia,0,0,0,,{NOTE:とっても助かりました。}
-Dialogue: 0,0:20:49.72,0:20:52.35,Default,Townfolk,0,0,0,,{NOTE:道中気を付けてな。}
-Dialogue: 0,0:20:52.35,0:20:53.64,Default,Lilia,0,0,0,,{NOTE:はい。}
-Dialogue: 0,0:20:53.64,0:21:00.73,Default,Townfolk,0,0,0,,{NOTE:そうじゃ…そういえば数年前にお前さんたちのようにこの村を訪ねてきた者がおった。}
-Dialogue: 0,0:21:00.73,0:21:02.61,Default,Papan,0,0,0,,{NOTE:何を聞きにですか？}
-Dialogue: 0,0:21:02.61,0:21:06.11,Default,Townfolk,0,0,0,,{NOTE:クアン村の生き残りについて聞いてきた。}
-Dialogue: 0,0:21:06.11,0:21:09.99,Default,Townfolk,0,0,0,,{NOTE:それはもう必死で捜しておった。}
-Dialogue: 0,0:21:16.42,0:21:21.13,Default,Lilia,0,0,0,,{NOTE:数年前に訪ねてきた人ってアユリアさんの知り合いですね。}
-Dialogue: 0,0:21:21.13,0:21:24.42,Default,Papan,0,0,0,,{NOTE:その人もクアン村の生き残りかもしれない。}
-Dialogue: 0,0:21:24.42,0:21:26.84,Default,Papan,0,0,0,,{NOTE:…ってただの直感だけど！}
-Dialogue: 0,0:21:26.84,0:21:30.51,Default,Lilia,0,0,0,,{NOTE:「世紀の大発見も最初はひらめきから｣ですよね？}
-Dialogue: 0,0:21:33.10,0:21:36.69,Default,Fifi,0,0,0,,{NOTE:副隊長の直感もなかなかさえてると思うわよ。}
-Dialogue: 0,0:21:36.69,0:21:37.85,Default,Lilia,0,0,0,,{NOTE:そうですよ！}
-Dialogue: 0,0:21:37.85,0:21:40.48,Default,Lilia,0,0,0,,{NOTE:副隊長は私の自慢の先輩です！}
-Dialogue: 0,0:21:40.48,0:21:41.73,Default,Papan,0,0,0,,{NOTE:本当に!?}
-Dialogue: 0,0:21:41.73,0:21:44.95,Default,Lilia,0,0,0,,{NOTE:でも一番尊敬してるのはシモーヌ隊長です！}
-Dialogue: 0,0:21:46.91,0:21:50.58,Default,Fifi,0,0,0,,{NOTE:リリアは全然悪気がないからぐさっと刺さるわね。}
-Dialogue: 0,0:21:50.58,0:21:53.12,Default,Papan,0,0,0,,{NOTE:自慢って言われただけでじゅうぶんっす。}
-Dialogue: 0,0:21:54.41,0:21:56.67,Default,Reverto,0,0,0,,{NOTE:よしギルデカランへ帰るぞ！}
-Dialogue: 0,0:21:56.67,0:21:58.46,Default,(unison),0,0,0,,{NOTE:おーっ！}
-Dialogue: 0,0:21:58.46,0:22:00.00,Default,Papan,0,0,0,,{\i1}{NOTE:調査報告。}
-Dialogue: 0,0:22:00.00,0:22:05.13,Default,Papan,0,0,0,,{\i1}{NOTE:今回の旅でﾌﾞﾗｯｸﾗｲﾀﾞｰｽﾞの謎を解き明かすことはできなかった。}
-Dialogue: 0,0:22:05.13,0:22:10.18,Default,Papan,0,0,0,,{\i1}{NOTE:しかし幾つかの手掛かりを導き出すことができた。}
-Dialogue: 0,0:22:10.18,0:22:16.60,Default,Papan,0,0,0,,{\i1}{NOTE:これらはいつか必ずブラックライダーズの全容を解き明かすためのきっかけとなるはずだ。}
-Dialogue: 0,0:22:21.69,0:22:28.95,Default,Anvis,0,0,0,,{NOTE:私はお前の故郷クアン村の神官が持つ絆石を捜している。}
-Dialogue: 0,0:22:28.95,0:22:30.74,Default,Avinia,0,0,0,,{NOTE:絆石？}
-Dialogue: 0,0:22:30.74,0:22:37.08,Default,Anvis,0,0,0,,{NOTE:クアン村の生き残りであるお前ならその絆石を知っている。}
-Dialogue: 0,0:22:37.08,0:22:40.92,Default,Anvis,0,0,0,,{NOTE:あるいは持っているのでは？}
-Dialogue: 0,0:22:40.92,0:22:44.59,Default,Avinia,0,0,0,,{NOTE:そのような絆石のことは知りませんでした。}
-Dialogue: 0,0:22:44.59,0:22:50.30,Default,Avinia,0,0,0,,{NOTE:それに私の絆石は奪われましたあなたたちに。}
-Dialogue: 0,0:22:50.30,0:22:54.43,Default,Avinia,0,0,0,,{NOTE:幼いころのことは覚えていないんです。}
-Dialogue: 0,0:22:54.43,0:22:56.43,Default,Avinia,0,0,0,,{NOTE:家族のことさえ…何も…}
-Dialogue: 0,0:22:56.43,0:22:59.48,Default,Avinia,0,0,0,,{NOTE:思い出せるものなら思い出したいです！}
-Dialogue: 0,0:22:59.48,0:23:01.73,Default,Anvis,0,0,0,,{NOTE:私は知っている。}
-Dialogue: 0,0:23:01.73,0:23:06.74,Default,Anvis,0,0,0,,{NOTE:クアン村の神官もその者たちが操る秘術も。}
-Dialogue: 0,0:23:15.20,0:23:17.75,Default,Anvis,0,0,0,,{NOTE:私はお前を知っている。}
-Dialogue: 0,0:23:19.62,0:23:24.00,Default,Anvis,0,0,0,,{NOTE:いずれその全てをわがものとしてみせる！}
+Dialogue: 0,0:11:41.34,0:11:43.30,Default,Reverto,0,0,0,,Everyone, take cover!{NOTE:みんな下がっててくれ！}
+Dialogue: 0,0:11:43.30,0:11:44.47,Default,Fifi,0,0,0,,Under that tree!{NOTE:あの木の陰へ！}
+Dialogue: 0,0:11:44.47,0:11:45.01,Default,Lilia,0,0,0,,Yeah!{NOTE:うん！}
+Dialogue: 0,0:11:45.01,0:11:47.60,Default,Fifi,0,0,0,,Hey, Vice Captain Pappan, please walk too!{NOTE:ほらパパン副隊長も頑張って歩いて！}
+Dialogue: 0,0:11:47.60,0:11:49.39,Default,Pappan,0,0,0,,S-Sure…{NOTE:あっはい…}
+Dialogue: 0,0:11:57.48,0:11:59.03,Default,Lilia,0,0,0,,As expected, Mr. Reverto.{NOTE:さすがリヴェルトさん。}
+Dialogue: 0,0:11:59.03,0:11:59.99,Default,Pappan,0,0,0,,He's so cool…{NOTE:カッコイイ…}
+Dialogue: 0,0:11:59.99,0:12:02.07,Default,Fifi,0,0,0,,You can take an example in him.{NOTE:彼にならモフられてもいいわ。}
+Dialogue: 0,0:12:08.99,0:12:10.16,Default,Lilia,0,0,0,,Mr. Reverto!?{NOTE:リヴェルトさん!?}
+Dialogue: 0,0:12:10.16,0:12:11.41,Default,Fifi,0,0,0,,What's wrong!?{NOTE:どうしたの!?}
+Dialogue: 0,0:12:11.41,0:12:14.54,Default,Reverto,0,0,0,,Uh, I drank too much yesterday…{NOTE:いやぁ昨日飲み過ぎちまって…}
+Dialogue: 0,0:12:14.54,0:12:16.59,Default,Pappan,0,0,0,,Don't tell me he ran out of stamina?{NOTE:まさかのスタミナ切れ!?}
+Dialogue: 0,0:12:16.59,0:12:17.67,Default,Reverto,0,0,0,,Sorry.{NOTE:すまん…}
+Dialogue: 0,0:12:18.21,0:12:20.59,Default,Fifi,0,0,0,,Hey! Mr. Reverto, are you okay?{NOTE:ちょっリヴェルトさん大丈夫!?}
+Dialogue: 0,0:12:20.59,0:12:22.26,Default,Reverto,0,0,0,,Could be better…{NOTE:ちょっとヤバい…}
+Dialogue: 0,0:12:24.59,0:12:26.14,Default,Pappan,0,0,0,,It's going to attack again…{NOTE:また襲ってくる気だ。}
+Dialogue: 0,0:12:26.14,0:12:28.89,Default,Pappan,0,0,0,,W-What should we do?{NOTE:ど…どうしようこのままじゃ…}
+Dialogue: 0,0:12:28.89,0:12:30.27,Default,Lilia,0,0,0,,It'll be alright!{NOTE:大丈夫ですよ！}
+Dialogue: 0,0:12:30.27,0:12:32.18,Default,Pappan,0,0,0,,Don't say it's your intuition again?{NOTE:また直感で言ってない!?}
+Dialogue: 0,0:12:32.18,0:12:33.85,Default,Lilia,0,0,0,,I said we'll be alright!{NOTE:大丈夫ですって！}
+Dialogue: 0,0:12:33.85,0:12:35.10,Default,Lilia,0,0,0,,Look!{NOTE:ほら！}
+Dialogue: 0,0:12:35.10,0:12:38.32,Default,Pappan,0,0,0,,Energy Drinks can't help us now!{NOTE:元気ドリンコなんて何の役にも立たないよ！}
+Dialogue: 0,0:12:38.32,0:12:40.65,Default,Pappan,0,0,0,,We should seek a place to hide instead!{NOTE:落とし穴とかの方がよっぽど…}
+Dialogue: 0,0:12:40.65,0:12:41.94,Default,Pappan,0,0,0,,Behind you!{NOTE:後ろ～!!}
+Dialogue: 0,0:12:41.94,0:12:42.65,Default,Lilia,0,0,0,,Oh?{NOTE:えっ？}
+Dialogue: 0,0:12:43.53,0:12:44.70,Default,Reverto,0,0,0,,Get down, Lilia!{NOTE:伏せろ！リリア！}
+Dialogue: 0,0:12:50.24,0:12:51.91,Default,Lilia,0,0,0,,Mr. Reverto!{NOTE:リヴェルトさん！}
+Dialogue: 0,0:12:51.91,0:12:53.58,Default,Lilia,0,0,0,,Mr. Reverto! Mr. Reverto!{NOTE:リヴェルトさんリヴェルトさん！}
+Dialogue: 0,0:12:53.58,0:12:54.79,Default,Lilia,0,0,0,,Look, it's an Energy Drink!{NOTE:元気ドリンコです！}
+Dialogue: 0,0:12:56.58,0:12:58.42,Default,Reverto,0,0,0,,Thanks.{NOTE:こいつはありがたい。}
+Dialogue: 0,0:12:58.42,0:13:00.42,Default,Reverto,0,0,0,,That's my favorite item.{NOTE:最高のアイテムじゃねえか。}
+Dialogue: 0,0:13:04.72,0:13:06.09,Default,Reverto,0,0,0,,Do you have more?{NOTE:もう少しあるか？}
+Dialogue: 0,0:13:06.09,0:13:08.68,Default,Lilia,0,0,0,,I was prepared for this.{NOTE:そんなこともあろうかと用意しておきました。}
+Dialogue: 0,0:13:08.68,0:13:09.89,Default,Lilia,0,0,0,,There's a lot left.{NOTE:まだありますよ。}
+Dialogue: 0,0:13:09.89,0:13:11.14,Default,Pappan,0,0,0,,B-But that's…!{NOTE:あっそれは…}
+Dialogue: 0,0:13:11.14,0:13:11.97,Default,Reverto,0,0,0,,Hmm?{NOTE:ん？}
+Dialogue: 0,0:13:18.69,0:13:21.23,Default,Reverto,0,0,0,,That last one hit the spot real well…{NOTE:こりゃ最後にすげえのきた…}
+Dialogue: 0,0:13:21.23,0:13:22.69,Default,Lilia,0,0,0,,There's still a lot left!{NOTE:まだたくさんありますよ！}
+Dialogue: 0,0:13:28.99,0:13:31.99,Default,Pappan,0,0,0,,{\i1}Preparation grants salvation.{NOTE:備えあれば憂いなしが…}
+Dialogue: 0,0:13:31.99,0:13:34.50,Default,Pappan,0,0,0,,{\i1}That's my traveling motto from now.{NOTE:…僕の旅のモットーであるが。}
+Dialogue: 0,0:13:34.50,0:13:38.00,Default,Pappan,0,0,0,,{\i1}It was this event that made me fully realize how no Energy Drink means no journey.{NOTE:ノー元気ドリンコノージャーニーを痛感した出来事だった。}
+Dialogue: 0,0:13:49.76,0:13:50.89,Default,Reverto,0,0,0,,Hey!{NOTE:おーい！}
+Dialogue: 0,0:13:50.89,0:13:52.64,Default,Reverto,0,0,0,,Come over and eat.{NOTE:こっち来て食えよ！}
+Dialogue: 0,0:13:52.64,0:13:58.02,Default,Pappan,0,0,0,,After showing such a pathetic sight,\NI don't feel like I have the right to eat.{NOTE:あんな醜態をさらしておいてご飯を頂く権利はないっす…}
+Dialogue: 0,0:13:58.02,0:14:01.19,Default,Reverto,0,0,0,,Do you feel down that you were unable to stay upright from fear?{NOTE:ビビって腰抜かしたこと落ち込んでんのか？}
+Dialogue: 0,0:14:01.19,0:14:04.40,Default,Reverto,0,0,0,,You stood against a monster, so it was only natural.{NOTE:モンスターが相手なんだから仕方ないだろ。}
+Dialogue: 0,0:14:04.40,0:14:08.36,Default,Pappan,0,0,0,,But one in my position should protect their juniors.{NOTE:でも僕は後輩を守るべき立場なのに…}
+Dialogue: 0,0:14:08.36,0:14:11.37,Default,Lilia,0,0,0,,I never expected that you did, though.{NOTE:あっそれは最初から期待してませんでした。}
+Dialogue: 0,0:14:11.37,0:14:12.24,Default,Pappan,0,0,0,,Eh?{NOTE:えっ!?}
+Dialogue: 0,0:14:12.24,0:14:14.87,Default,Lilia,0,0,0,,I take care of myself.{NOTE:自分の身は自分で守ります。}
+Dialogue: 0,0:14:14.87,0:14:16.16,Default,Lilia,0,0,0,,Using my wisdom.{NOTE:知恵を使って。}
+Dialogue: 0,0:14:16.16,0:14:18.50,Default,Fifi,0,0,0,,Here, have a donut.{NOTE:ドーナツでも食べなさい。}
+Dialogue: 0,0:14:18.50,0:14:19.83,Default,Pappan,0,0,0,,Thank you…{NOTE:ありがとうっす…}
+Dialogue: 0,0:14:21.09,0:14:23.55,Default,Fifi,0,0,0,,You too. You were amazing.{NOTE:あなたにも。すてきだったわ。}
+Dialogue: 0,0:14:23.55,0:14:25.26,Default,Fifi,0,0,0,,It's a token of my gratitude.{NOTE:これ私の気持ち。}
+Dialogue: 0,0:14:25.26,0:14:27.17,Default,Reverto,0,0,0,,Ah, thanks.{NOTE:おうサンキュー。}
+Dialogue: 0,0:14:27.17,0:14:29.97,Default,Lilia,0,0,0,,By the way, what are you doing here, Mr. Reverto?{NOTE:そういえばリヴェルトさんはどうしてここに？}
+Dialogue: 0,0:14:29.97,0:14:31.43,Default,Lilia,0,0,0,,Are you on a quest?{NOTE:クエストですか？}
+Dialogue: 0,0:14:31.43,0:14:35.22,Default,Reverto,0,0,0,,Yeah… Technically, it's a covert quest, though.{NOTE:ああ…正しくは裏クエストってとこだな。}
+Dialogue: 0,0:14:35.22,0:14:36.60,Default,(unison),0,0,0,,Covert?{NOTE:裏クエスト？}
+Dialogue: 0,0:14:36.60,0:14:39.23,Default,Reverto,0,0,0,,I was given it by your boss.{NOTE:お前らのボスから頼まれたんだよ。}
+Dialogue: 0,0:14:39.23,0:14:40.98,Default,Lilia,0,0,0,,By our Captain?{NOTE:隊長から聞いてます？}
+Dialogue: 0,0:14:43.48,0:14:47.40,Default,Pappan,0,0,0,,I guess I'm not trusted, after all.{NOTE:やっぱり信用されてないのかな、僕…}
+Dialogue: 0,0:14:47.40,0:14:48.99,Default,Pappan,0,0,0,,Even though I'm a vice captain.{NOTE:副隊長なのに…}
+Dialogue: 0,0:14:48.99,0:14:52.07,Default,Reverto,0,0,0,,I don't think it's related to you.{NOTE:それは関係ないと思うぞ。}
+Dialogue: 0,0:14:52.07,0:14:57.87,Default,Reverto,0,0,0,,My quest deals with Ebon Riders\Nand some channeling art.{NOTE:俺が頼まれたのはブラックライダーズとやらが使っている伝承技についてだ。}
+Dialogue: 0,0:14:57.87,0:15:01.33,Default,Reverto,0,0,0,,I'm to investigate what's the extent of their power.{NOTE:その実力はどれほどか調べてこいとさ。}
+Dialogue: 0,0:15:01.33,0:15:06.59,Default,Reverto,0,0,0,,It's a special quest that normally I wouldn't take, but after I heard how Hakum was targeted…{NOTE:本来なら受けない特殊なクエストだがハクム村も被害を受けたと聞いたら…}
+Dialogue: 0,0:15:06.59,0:15:09.38,Default,Reverto,0,0,0,,I couldn't stay silent any longer.{NOTE:…俺も黙っちゃいられねえよ。}
+Dialogue: 0,0:15:09.38,0:15:14.43,Default,Reverto,0,0,0,,I went around several villages where they hunted for Kinship Stones to get some information.{NOTE:連中の情報を得るために絆石狩りに遭った村を幾つか回った。}
+Dialogue: 0,0:15:14.43,0:15:20.14,Default,Reverto,0,0,0,,There I heard that they seem to be collecting Kinship Stones to do a certain secret ritual.{NOTE:そこで聞いたがやつらはとある秘術を行うために絆石を集めているらしい。}
+Dialogue: 0,0:15:20.14,0:15:21.06,Default,(unison),0,0,0,,Ah!{NOTE:あっ！}
+Dialogue: 0,0:15:21.06,0:15:23.23,Default,Pappan,0,0,0,,That ritual…{NOTE:その秘術って…}
+Dialogue: 0,0:15:23.23,0:15:27.90,Default,Reverto,0,0,0,,It seems that it lets you synchronize you with a monster and strengthens your power.{NOTE:何でもモンスターとシンクロして力を強化するものらしい。}
+Dialogue: 0,0:15:27.90,0:15:30.82,Default,Pappan,0,0,0,,Lilia's intuition was right!{NOTE:リリアの直感が正しかった！}
+Dialogue: 0,0:15:32.49,0:15:34.28,Default,Reverto,0,0,0,,What do you mean?{NOTE:どういうことだ？}
+Dialogue: 0,0:15:34.28,0:15:35.33,Default,Lilia,0,0,0,,It's all like this…{NOTE:実は…}
+Dialogue: 0,0:15:38.91,0:15:40.46,Default,Reverto,0,0,0,,I see.{NOTE:なるほど。}
+Dialogue: 0,0:15:40.46,0:15:45.00,Default,Reverto,0,0,0,,There might be someone in the Omi Valley who knows about this ritual.{NOTE:オミの谷にはその秘術について知る人間がいるかもしれないんだな。}
+Dialogue: 0,0:15:46.17,0:15:49.51,Default,Reverto,0,0,0,,But that place is a difficult area even for experienced Hunters.{NOTE:けどあそこは手だれのハンターでも苦戦する場所だ。}
+Dialogue: 0,0:15:49.51,0:15:52.22,Default,Reverto,0,0,0,,Isn't it a little too high level for you?{NOTE:お前たちだけじゃちょっと心もとないんじゃないか？}
+Dialogue: 0,0:15:54.60,0:15:56.97,Default,Reverto,0,0,0,,I'll go with you.{NOTE:俺も一緒に行ってやるよ。}
+Dialogue: 0,0:15:56.97,0:15:58.10,Default,(mixed),0,0,0,,– Oh?\N– Terrific!{NOTE:—おっ？\\N—あら！}
+Dialogue: 0,0:15:58.10,0:15:59.39,Default,Pappan,0,0,0,,Really?{NOTE:マジっすか!?}
+Dialogue: 0,0:15:59.39,0:16:02.14,Default,Reverto,0,0,0,,Tell your boss to get a proper reward ready.{NOTE:ボスに報酬を弾めと言っておけよ。}
+Dialogue: 0,0:16:02.14,0:16:03.94,Default,Reverto,0,0,0,,I don't do freebies.{NOTE:これは別任務だからな！}
+Dialogue: 0,0:16:03.94,0:16:04.81,Default,(unison),0,0,0,,Ah!{NOTE:あっ！}
+Dialogue: 0,0:16:04.81,0:16:07.23,Default,Pappan,0,0,0,,Thanks! With pleasure!{NOTE:あざーっす！喜んで！}
+Dialogue: 0,0:16:10.07,0:16:13.36,Default,Simone,0,0,0,,{\i1}Scrivener Journal Entry no. 20332.{NOTE:書士隊日誌ナンバー20332。}
+Dialogue: 0,0:16:13.36,0:16:15.03,Default,Simone,0,0,0,,{\i1}Reporter: Pappan.{NOTE:文責パパン。}
+Dialogue: 0,0:16:15.03,0:16:22.12,Default,Simone,0,0,0,,{\i1}During an ecological survey of monsters in a certain village, I have witnessed a fight between Riders.{NOTE:モンスターの生態調査で訪れたとある村にてライダー同士の決闘を目撃。}
+Dialogue: 0,0:16:22.12,0:16:25.04,Default,Simone,0,0,0,,{\i1}Why would a Rider fight a fellow Rider?{NOTE:ライダーがなぜライダーを襲う？}
+Dialogue: 0,0:16:25.04,0:16:28.67,Default,Simone,0,0,0,,{\i1}Riders bond with monsters using Kinship Stones.{NOTE:ライダーは絆石でモンスターと絆を結ぶ。}
+Dialogue: 0,0:16:28.67,0:16:32.51,Default,Simone,0,0,0,,{\i1}What happens if one were to collect a lot of such Kinship Stones?{NOTE:その絆石をたくさん集めて何ができるというのだ？}
+Dialogue: 0,0:16:33.88,0:16:40.77,Default,Simone,0,0,0,,{\i1}Can Kinship Stones, such as the ones belonging to the Hakum village's Riders, serve another purpose?{NOTE:ハクム村のライダーたちのように絆石に何か他の利用方法があるのだろうか。}
+Dialogue: 0,0:16:40.77,0:16:47.36,Default,Simone,0,0,0,,{\i1}If so, does the count matter and is\Nthe reason why they keep stealing them?{NOTE:だとしたらそれに数が必要だから奪ってまで集めているということか？}
+Dialogue: 0,0:16:47.36,0:16:52.74,Default,Simone,0,0,0,,{\i1}What on earth are they going to do with the Kinship Stones they have gathered?{NOTE:集めた絆石でいったい何をしようとしているのだろう？}
+Dialogue: 0,0:16:52.74,0:16:57.24,Default,Simone,0,0,0,,{\i1}At any rate, kinship seems to be in the center of it.{NOTE:どうやら全ての理由は絆石にあるようだ…}
+Dialogue: 0,0:16:57.24,0:16:58.53,Default,Scrivener,0,0,0,,Hello.{NOTE:お疲れさまです。}
+Dialogue: 0,0:16:58.53,0:17:00.20,Default,Scrivener,0,0,0,,Here are the documents you've requested.{NOTE:頼まれていた資料です。}
+Dialogue: 0,0:17:00.20,0:17:01.91,Default,Simone,0,0,0,,Thank you.{NOTE:ありがとう。}
+Dialogue: 0,0:17:01.91,0:17:04.79,Default,Scrivener,0,0,0,,I wonder if Pappan is doing fine?{NOTE:今ごろパパンのやつ大丈夫ですかね？}
+Dialogue: 0,0:17:04.79,0:17:06.54,Default,Simone,0,0,0,,What makes you worried about him?{NOTE:何を心配している？}
+Dialogue: 0,0:17:06.54,0:17:11.96,Default,Scrivener,0,0,0,,Well, recently he seems troubled\Ndue to getting out of touch with his juniors.{NOTE:いや最近あいつ悩んでて後輩との接し方に。}
+Dialogue: 0,0:17:11.96,0:17:15.38,Default,Scrivener,0,0,0,,Isn't that the reason why you asked Fifi to accompany him, Captain?{NOTE:だから隊長もティティに同行を頼んだんですよね？}
+Dialogue: 0,0:17:15.38,0:17:19.51,Default,Simone,0,0,0,,What I was worried about wasn't Pappan's competence.{NOTE:私が心配していたのはパパンの力量ではない。}
+Dialogue: 0,0:17:19.51,0:17:22.72,Default,Simone,0,0,0,,Pappan may not look like it,\Nbut he's a serious, capable man.{NOTE:パパンはああ見えて真面目な男だからな。}
+Dialogue: 0,0:17:22.72,0:17:26.27,Default,Simone,0,0,0,,There are times when he's overthinking things and starts going in circles though.{NOTE:考え過ぎて空回りしてしまうことがある。}
+Dialogue: 0,0:17:26.27,0:17:31.40,Default,Simone,0,0,0,,I thought I could get him to enjoy\Nthe survey and relax more if I sent him with Fifi.{NOTE:ティティといればリラックスして気負わず調査に集中できると思ったのだ。}
+Dialogue: 0,0:17:31.40,0:17:32.57,Default,Scrivener,0,0,0,,I see.{NOTE:なるほど。}
+Dialogue: 0,0:17:32.57,0:17:36.15,Default,Scrivener,0,0,0,,Captain, you sure do understand Pappan.{NOTE:隊長はパパンのことよく分かってますね。}
+Dialogue: 0,0:17:36.15,0:17:38.57,Default,Simone,0,0,0,,Well, he is my right hand after all.{NOTE:私の大事な右腕だからな。}
+Dialogue: 0,0:17:42.91,0:17:44.54,Default,Pappan,0,0,0,,{\i1}Survey day 3.{NOTE:調査３日目。}
+Dialogue: 0,0:17:44.54,0:17:47.04,Default,Pappan,0,0,0,,{\i1}We're pushing forward to the Omi Valley.{NOTE:ひたすらオミの谷へ突き進む。}
+Dialogue: 0,0:17:47.04,0:17:56.34,Default,Pappan,1,1,0,,{\i1}Omi Valley, known as Hunter's training ground, was once inhabited with variety of monsters and many Hunters.{NOTE:ハンターの修練場と呼ばれたオミの谷はかつては多種多様なモンスターが成育し多くのハンターたちでにぎわう場所だったと聞いている。}
+Dialogue: 0,0:17:56.34,0:17:59.93,Default,Pappan,0,0,0,,{\i1}However, this has changed completely\Nsince then and there was nothing to be seen.{NOTE:しかしそこは見る影もないほど様変わりしていた。}
+Dialogue: 0,0:18:02.01,0:18:04.39,Default,Pappan,0,0,0,,Looks like there's no one around here.{NOTE:誰もいないみたいっすね。}
+Dialogue: 0,0:18:04.39,0:18:09.06,Default,Reverto,0,0,0,,In the past, it was a valley filled with many monsters\Nand vibrant villages full of Hunters…{NOTE:昔はモンスターも多くハンターや村人でにぎわう谷だったんだがな…}
+Dialogue: 0,0:18:10.31,0:18:11.73,Default,Lilia,0,0,0,,Excuse me!{NOTE:すみませーん！}
+Dialogue: 0,0:18:11.73,0:18:13.48,Default,Lilia,0,0,0,,Is anyone there?{NOTE:誰かいませんか？}
+Dialogue: 0,0:18:14.57,0:18:16.57,Default,Pappan,0,0,0,,Doesn't look like it.{NOTE:誰もいないみたいだね。}
+Dialogue: 0,0:18:16.57,0:18:17.82,Default,Lilia,0,0,0,,Yeah…{NOTE:はい…}
+Dialogue: 0,0:18:17.82,0:18:19.74,Default,Pappan,0,0,0,,We can't do anything about it.{NOTE:しょうがないよ。}
+Dialogue: 0,0:18:19.74,0:18:21.45,Default,Pappan,0,0,0,,Sometimes things go down like this.{NOTE:こういうときもある。}
+Dialogue: 0,0:18:21.45,0:18:23.74,Default,Pappan,0,0,0,,Let's not admit defeat yet\Nand continue the investigation.{NOTE:諦めずに調査を続けよう。}
+Dialogue: 0,0:18:23.74,0:18:24.91,Default,Lilia,0,0,0,,Yes.{NOTE:はい。}
+Dialogue: 0,0:18:24.91,0:18:25.66,Default,Lilia,0,0,0,,Oh?{NOTE:おっ？}
+Dialogue: 0,0:18:25.66,0:18:27.08,Default,Fifi,0,0,0,,There seems to be someone inside.{NOTE:誰かいるみたいだわ。}
+Dialogue: 0,0:18:28.17,0:18:29.29,Default,Lilia,0,0,0,,Are you okay?{NOTE:大丈夫ですか？}
+Dialogue: 0,0:18:31.13,0:18:32.92,Default,Lilia,0,0,0,,Excuse me, I'm going in.{NOTE:すみません！失礼します！}
+Dialogue: 0,0:18:45.43,0:18:46.81,Default,Townfolk,0,0,0,,Who is it?{NOTE:誰じゃな？}
+Dialogue: 0,0:18:48.06,0:18:49.06,Default,Lilia,0,0,0,,Are you okay?{NOTE:大丈夫ですか!?}
+Dialogue: 0,0:18:52.73,0:18:55.32,Default,Townfolk,0,0,0,,Thank you. It got easier.{NOTE:ありがとう。楽になった。}
+Dialogue: 0,0:18:56.11,0:19:01.41,Default,Townfolk,0,0,0,,What on earth brings you to this village?{NOTE:それであんた方いったいこんな村に何の用じゃ？}
+Dialogue: 0,0:19:01.41,0:19:03.95,Default,Lilia,0,0,0,,I'm Lilia of the Royal Scriveners.{NOTE:王立書士隊のリリアといいます。}
+Dialogue: 0,0:19:03.95,0:19:07.83,Default,Lilia,0,0,0,,I came here looking for clues about this picture.{NOTE:私たちこの絵について知りたくてやって来ました。}
+Dialogue: 0,0:19:07.83,0:19:10.04,Default,Townfolk,0,0,0,,That is…{NOTE:それは…}
+Dialogue: 0,0:19:10.04,0:19:13.50,Default,Townfolk,0,0,0,,If it isn't the picture my grandfather had painted!{NOTE:あっそれはわしの祖父が描いた絵じゃ。}
+Dialogue: 0,0:19:13.50,0:19:14.34,Default,(unison),0,0,0,,Eh!?{NOTE:えっ!?}
+Dialogue: 0,0:19:16.05,0:19:21.13,Default,Townfolk,0,0,0,,When I was young, my grandfather told me stories about the village drawn on this picture.{NOTE:幼いころ祖父からこの絵に描かれた村の話を聞いた。}
+Dialogue: 0,0:19:21.13,0:19:24.76,Default,Townfolk,0,0,0,,That village seems to have passed down for generations a certain ritual…{NOTE:その村は深い山に閉ざされた秘境で…}
+Dialogue: 0,0:19:24.76,0:19:28.89,Default,Townfolk,0,0,0,,…performed in secret,\Ndeep in the unexplored area of the mountains.{NOTE:…代々伝わる秘密の術を行っていたらしい。}
+Dialogue: 0,0:19:28.89,0:19:31.77,Default,Lilia,0,0,0,,What kind of ritual?{NOTE:その術とはどんな術なんですか？}
+Dialogue: 0,0:19:31.77,0:19:36.02,Default,Townfolk,0,0,0,,A secret art passed down to a village named Kuang, which no longer exists today.{NOTE:今はなきクアン村に伝わる秘術らしい。}
+Dialogue: 0,0:19:36.02,0:19:36.90,Default,Lilia,0,0,0,,Secret art!{NOTE:秘術！}
+Dialogue: 0,0:19:36.90,0:19:39.40,Default,Pappan,0,0,0,,A rite held in secret?{NOTE:内緒の儀式ってことっすか。}
+Dialogue: 0,0:19:39.40,0:19:42.11,Default,Pappan,0,0,0,,Kuang village means that…{NOTE:クアン村といったら確か…}
+Dialogue: 0,0:19:42.11,0:19:45.12,Default,Townfolk,0,0,0,,I heard that it was destroyed several years ago.{NOTE:数年前に滅びたと聞いている。}
+Dialogue: 0,0:19:45.12,0:19:48.45,Default,Townfolk,0,0,0,,It was subjected to the Black Blight.{NOTE:黒の凶気に襲われてな。}
+Dialogue: 0,0:19:48.45,0:19:52.58,Default,Townfolk,0,0,0,,But I heard a certain gossip recently.{NOTE:じゃが最近になってある噂話を耳にした。}
+Dialogue: 0,0:19:52.58,0:19:55.63,Default,Townfolk,0,0,0,,That there's someone from Kuang village\Nwho has survived its destruction.{NOTE:クアン村の生き残りがいると。}
+Dialogue: 0,0:19:55.63,0:19:59.92,Default,Townfolk,0,0,0,,That person is said to have mysterious kinship with an ice-type Barioth.{NOTE:氷牙竜ベリオロスと不思議な絆を結ぶ者らしい。}
+Dialogue: 0,0:19:59.92,0:20:01.09,Default,Lilia,0,0,0,,Miss Avinia!{NOTE:アユリアさん！}
+Dialogue: 0,0:20:01.09,0:20:03.76,Default,Pappan,0,0,0,,Avinia survived Kuang!?{NOTE:アユリアさんがクアン村の生き残り!?}
+Dialogue: 0,0:20:03.76,0:20:05.72,Default,Pappan,0,0,0,,That means…{NOTE:それって…}
+Dialogue: 0,0:20:05.72,0:20:08.77,Default,Pappan,0,0,0,,Ebon Riders abducted Miss Avinia…{NOTE:ブラックライダーズがアユリアさんを誘拐したのは…}
+Dialogue: 0,0:20:08.77,0:20:11.64,Default,Pappan,0,0,0,,…to obtain Kuang village's secrets?{NOTE:…クアン村の秘術を手に入れるため？}
+Dialogue: 0,0:20:11.64,0:20:16.06,Default,Reverto,0,0,0,,What if that secret art falls into bad hands?{NOTE:その秘術が悪いやつらの手に渡ったらどうなる？}
+Dialogue: 0,0:20:16.06,0:20:18.40,Default,Townfolk,0,0,0,,A calamity will happen…{NOTE:悲劇が待っているじゃろう…}
+Dialogue: 0,0:20:22.49,0:20:26.03,Default,Townfolk,0,0,0,,Kuang village is over that mountain.{NOTE:クアン村はあの山の向こうじゃ。}
+Dialogue: 0,0:20:26.03,0:20:29.79,Default,Townfolk,0,0,0,,The path is severed, so it's not going to be easy.{NOTE:道は断たれていて行くすべはないが…}
+Dialogue: 0,0:20:29.79,0:20:30.95,Default,Lilia,0,0,0,,We'll be okay.{NOTE:大丈夫です。}
+Dialogue: 0,0:20:30.95,0:20:31.71,Default,Pappan,0,0,0,,Eh?{NOTE:えっ？}
+Dialogue: 0,0:20:31.71,0:20:33.92,Default,Pappan,0,0,0,,Why? Your intuition again?{NOTE:どうして？また直感？}
+Dialogue: 0,0:20:33.92,0:20:39.46,Default,Lilia,0,0,0,,No. I can't make it,\Nbut I'm positive Lute and Cheval can.{NOTE:いえ私は無理でもリュートとシュヴァルならきっと見つけると思います。}
+Dialogue: 0,0:20:39.46,0:20:44.05,Default,Lilia,0,0,0,,I will return to Gildegaran\Nand tell them about Kuang village.{NOTE:私ギルデカランに戻って２人にクアン村のことを伝えようと思います。}
+Dialogue: 0,0:20:45.39,0:20:47.60,Default,Lilia,0,0,0,,Thank you very much.{NOTE:ありがとうございました。}
+Dialogue: 0,0:20:47.60,0:20:49.72,Default,Lilia,0,0,0,,It was very helpful.{NOTE:とっても助かりました。}
+Dialogue: 0,0:20:49.72,0:20:52.35,Default,Townfolk,0,0,0,,Be careful on your journey back.{NOTE:道中気を付けてな。}
+Dialogue: 0,0:20:52.35,0:20:53.64,Default,Lilia,0,0,0,,We will.{NOTE:はい。}
+Dialogue: 0,0:20:53.64,0:21:00.73,Default,Townfolk,0,0,0,,Ah, one more thing. A few years ago a group like you visited this village.{NOTE:そうじゃ…そういえば数年前にお前さんたちのようにこの村を訪ねてきた者がおった。}
+Dialogue: 0,0:21:00.73,0:21:02.61,Default,Pappan,0,0,0,,What have they asked you about?{NOTE:何を聞きにですか？}
+Dialogue: 0,0:21:02.61,0:21:06.11,Default,Townfolk,0,0,0,,They asked about Kuang village survivors.{NOTE:クアン村の生き残りについて聞いてきた。}
+Dialogue: 0,0:21:06.11,0:21:09.99,Default,Townfolk,0,0,0,,They desperately looked for them.{NOTE:それはもう必死で捜しておった。}
+Dialogue: 0,0:21:16.42,0:21:21.13,Default,Lilia,0,0,0,,The group who visited him back then must have been Avinia's acquaintances.{NOTE:数年前に訪ねてきた人ってアユリアさんの知り合いですね。}
+Dialogue: 0,0:21:21.13,0:21:24.42,Default,Pappan,0,0,0,,They might be Kuang survivors themselves.{NOTE:その人もクアン村の生き残りかもしれない。}
+Dialogue: 0,0:21:24.42,0:21:26.84,Default,Pappan,0,0,0,,…it's just my intuition though.{NOTE:…ってただの直感だけど！}
+Dialogue: 0,0:21:26.84,0:21:30.51,Default,Lilia,0,0,0,,"Every great discovery starts from an insight", was it?{NOTE:「世紀の大発見も最初はひらめきから｣ですよね？}
+Dialogue: 0,0:21:33.10,0:21:36.69,Default,Fifi,0,0,0,,I think that Vice Captain's intuition is quite sharp.{NOTE:副隊長の直感もなかなかさえてると思うわよ。}
+Dialogue: 0,0:21:36.69,0:21:37.85,Default,Lilia,0,0,0,,That's right!{NOTE:そうですよ！}
+Dialogue: 0,0:21:37.85,0:21:40.48,Default,Lilia,0,0,0,,I'm proud to have Vice Captain as my senior!{NOTE:副隊長は私の自慢の先輩です！}
+Dialogue: 0,0:21:40.48,0:21:41.73,Default,Pappan,0,0,0,,You mean that!?{NOTE:本当に!?}
+Dialogue: 0,0:21:41.73,0:21:44.95,Default,Lilia,0,0,0,,But the one I respect most is Captain Simone.{NOTE:でも一番尊敬してるのはシモーヌ隊長です！}
+Dialogue: 0,0:21:46.91,0:21:50.58,Default,Fifi,0,0,0,,Lilia didn't mean it in bad way.{NOTE:リリアは全然悪気がないからぐさっと刺さるわね。}
+Dialogue: 0,0:21:50.58,0:21:53.12,Default,Pappan,0,0,0,,She's proud to have me. That's plenty.{NOTE:自慢って言われただけでじゅうぶんっす。}
+Dialogue: 0,0:21:54.41,0:21:56.67,Default,Reverto,0,0,0,,Alright, we're going back to Gildegaran.{NOTE:よしギルデカランへ帰るぞ！}
+Dialogue: 0,0:21:56.67,0:21:58.46,Default,(unison),0,0,0,,Yeah!{NOTE:おーっ！}
+Dialogue: 0,0:21:58.46,0:22:00.00,Default,Pappan,0,0,0,,{\i1}Survey report.{NOTE:調査報告。}
+Dialogue: 0,0:22:00.00,0:22:05.13,Default,Pappan,0,0,0,,{\i1}I didn't manage to solve the mystery\Nbehind the Ebon Riders.{NOTE:今回の旅でﾌﾞﾗｯｸﾗｲﾀﾞｰｽﾞの謎を解き明かすことはできなかった。}
+Dialogue: 0,0:22:05.13,0:22:10.18,Default,Pappan,0,0,0,,{\i1}However, I obtained a few important clues.{NOTE:しかし幾つかの手掛かりを導き出すことができた。}
+Dialogue: 0,0:22:10.18,0:22:16.60,Default,Pappan,0,0,0,,{\i1}Some day, these will surely become a trigger to solving the mystery of the Ebon Riders.{NOTE:これらはいつか必ずブラックライダーズの全容を解き明かすためのきっかけとなるはずだ。}
+Dialogue: 0,0:22:21.69,0:22:28.95,Default,Anvis,0,0,0,,I am searching for the Kinship Stone\Nof priests from your hometown, Kuang village.{NOTE:私はお前の故郷クアン村の神官が持つ絆石を捜している。}
+Dialogue: 0,0:22:28.95,0:22:30.74,Default,Avinia,0,0,0,,Kinship Stone?{NOTE:絆石？}
+Dialogue: 0,0:22:30.74,0:22:37.08,Default,Anvis,0,0,0,,As a survivor from Kuang village, you should know that Kinship Stone.{NOTE:クアン村の生き残りであるお前ならその絆石を知っている。}
+Dialogue: 0,0:22:37.08,0:22:40.92,Default,Anvis,0,0,0,,Or maybe you possess it yourself?{NOTE:あるいは持っているのでは？}
+Dialogue: 0,0:22:40.92,0:22:44.59,Default,Avinia,0,0,0,,I have no idea about that Kinship Stone.{NOTE:そのような絆石のことは知りませんでした。}
+Dialogue: 0,0:22:44.59,0:22:50.30,Default,Avinia,0,0,0,,Besides, you took away my Kinship Stone.{NOTE:それに私の絆石は奪われましたあなたたちに。}
+Dialogue: 0,0:22:50.30,0:22:53.01,Default,Avinia,0,0,0,,I don't remember my childhood.{NOTE:幼いころのことは覚えていないんです。}
+Dialogue: 0,0:22:53.01,0:22:54.43,Default,Avinia,0,0,0,,Nothing…{NOTE:何も。}
+Dialogue: 0,0:22:54.43,0:22:56.43,Default,Avinia,0,0,0,,Not even my family.{NOTE:家族のことさえ…}
+Dialogue: 0,0:22:56.43,0:22:59.48,Default,Avinia,0,0,0,,I want to remember it all myself!{NOTE:思い出せるものなら思い出したいです！}
+Dialogue: 0,0:22:59.48,0:23:01.73,Default,Anvis,0,0,0,,I know…{NOTE:私は知っている。}
+Dialogue: 0,0:23:01.73,0:23:06.74,Default,Anvis,0,0,0,,I know about Kuang village's priests\Nas well as the secrets that they control.{NOTE:クアン村の神官もその者たちが操る秘術も。}
+Dialogue: 0,0:23:15.20,0:23:17.91,Default,Anvis,0,0,0,,I know {\i1}you{\i0}.{NOTE:私はお前を知っている。}
+Dialogue: 0,0:23:19.62,0:23:24.00,Default,Anvis,0,0,0,,Sooner or later, everything will fall into my hands.{NOTE:いずれその全てをわがものとしてみせる！}
 Comment: 0,0:23:26.96,0:23:26.96,Default,Chapter,0,0,0,,#Black screen
 Comment: 0,0:23:28.97,0:23:28.97,Default,Chapter,0,0,0,,Preview
-Dialogue: 0,0:23:30.51,0:23:32.09,Default,Navirou,0,0,0,,{NOTE:諸君！ナビルーだ！}
-Dialogue: 0,0:23:32.09,0:23:36.06,Default,Navirou,0,0,0,,{NOTE:何と来週はプップップーのプププのピーなのだ！}
-Dialogue: 0,0:23:36.06,0:23:37.56,Default,Navirou,0,0,0,,{NOTE:何言っているか？}
-Dialogue: 0,0:23:37.56,0:23:39.94,Default,Navirou,0,0,0,,{NOTE:来週を見れば分かるのだ！}
-Dialogue: 0,0:23:39.94,0:23:43.98,Default,Navirou,0,0,0,,{NOTE:次回｢ナビルーおなら大作戦！｣にライドオン！}
+Dialogue: 0,0:23:30.51,0:23:32.09,Default,Navirou,80,80,80,,Ladies and gentlemen, it's Navirou!{NOTE:諸君！ナビルーだ！}
+Dialogue: 0,0:23:32.09,0:23:36.06,Default,Navirou,80,80,80,,What a pleasure! Next week\Nwe get poo-poo-poo… peep!{NOTE:何と来週はプップップーのプププのピーなのだ！}
+Dialogue: 0,0:23:36.06,0:23:37.56,Default,Navirou,80,80,80,,"What the heck?", you say?{NOTE:何言っているか？}
+Dialogue: 0,0:23:37.56,0:23:39.94,Default,Navirou,80,80,80,,You'll find out next week!{NOTE:来週を見れば分かるのだ！}
+Dialogue: 0,0:23:39.94,0:23:43.98,Default,Navirou,80,80,80,,Next time:\N"Navirou's Great Fart Plan!" Ride On!{NOTE:次回｢ナビルーおなら大作戦！｣にライドオン！}
 Comment: 0,0:23:43.98,0:23:43.98,Default,Chapter,0,0,0,,#Sponsors
