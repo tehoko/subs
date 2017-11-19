@@ -22,425 +22,425 @@ Style: Episode,Chinacat,50.0,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,#Sponsors
-Comment: 0,0:00:03.00,0:00:03.00,Default,Chapter,0,0,0,,Intro
-Dialogue: 0,0:00:04.21,0:00:06.34,Default,Narrator,80,80,80,,These kids are called Riders.{NOTE:少年たちはライダー。}
-Dialogue: 0,0:00:06.34,0:00:10.51,Default,Narrator,80,80,80,,And they form kinship with monsters.{NOTE:モンスターと絆を結びし者たちである。}
-Dialogue: 0,0:00:10.51,0:00:16.60,Default,Narrator,80,80,80,,Riders known as the Ebon Riders keep challenging our heroes one after another.{NOTE:ブラックライダーズと名乗るライダーが次々とリュートたちに戦いを挑んできた。}
-Dialogue: 0,0:00:16.60,0:00:20.35,Default,Narrator,80,80,80,,Gale and his Monstie Dusk…{NOTE:ブラックライダーズのゲイルとそのオトモンダスクの前に…}
-Dialogue: 0,0:00:20.35,0:00:28.02,Default,Narrator,80,80,80,,…have already defeated Lute and snatched Kinship Stones from Dan, Nole, Genie and Stone.{NOTE:リュートは傷つきダンノールｼﾞｰﾆｰｽﾄｰﾝはその絆石を奪われてしまった。}
-Dialogue: 0,0:00:28.02,0:00:33.28,Default,Narrator,80,80,80,,Meanwhile, Riders of Hakum Village are targeted by another Ebon Rider.{NOTE:その後もﾌﾞﾗｯｸﾗｲﾀﾞｰｽﾞに狙われるハクム村のﾗｲﾀﾞｰたち。}
-Dialogue: 0,0:00:33.28,0:00:35.86,Default,Narrator,80,80,80,,And so the crisis continues…{NOTE:彼らの危機はまだまだ続く。}
-Dialogue: 0,0:00:37.45,0:00:40.29,Default,Wrath,0,0,0,,So, Hakum village is at the foot of this hill, huh?{NOTE:あの峰の麓がハクム村か…}
-Dialogue: 0,0:00:43.58,0:00:46.38,Default,Wrath,0,0,0,,Just you wait, Lute.{NOTE:首洗って待っとけよリュート｡}
-Comment: 0,0:00:47.04,0:00:47.04,Default,Chapter,0,0,0,,Opening
-Dialogue: 0,0:00:50.30,0:00:57.73,Default,,0,0,0,,{\fad(2500,0)}Monster Hunter Stories: Ride On{NOTE:モンスターハンターストーリーズ：RIDEON}
-Dialogue: 0,0:01:00.90,0:01:04.20,OP/ED Romaji,,0,0,0,,{\k40}Bo{\k20}ku{\k20}ra {\k43}kyou {\k20}mo {\k16}i{\k20}ki{\k23}te{\k20}i{\k106}ru
-Dialogue: 0,0:01:04.20,0:01:07.43,OP/ED Romaji,,0,0,0,,{\k30}Bo{\k20}ku{\k23}ra {\k40}kyou {\k23}mo {\k20}wa{\k30}ra{\k26}tte{\k110}ru
-Dialogue: 0,0:01:07.43,0:01:11.93,OP/ED Romaji,,0,0,0,,{\k26}So{\k20}re {\k19}da{\k23}ke {\k16}de {\k40}mou {\k40}na{\k40}ni{\k36}mo {\k43}i{\k63}ra{\k26}na{\k53}i
-Dialogue: 0,0:01:11.93,0:01:13.80,OP/ED Romaji,,0,0,0,,{\k20}I{\k16}ma {\k23}su{\k20}gu {\k16}ni {\k43}RIDE {\k46}ON
-Dialogue: 0,0:01:13.80,0:01:17.10,OP/ED Romaji,,0,0,0,,{\k30}Bo{\k23}ku{\k16}ra {\k43}su{\k20}gu {\k23}ni {\k16}mo{\k20}to{\k20}me{\k116}ru
-Dialogue: 0,0:01:17.10,0:01:20.30,OP/ED Romaji,,0,0,0,,{\k20}Yo{\k23}ku{\k20}ba{\k36}ri{\k23}na {\k16}i{\k26}ki{\k20}mo{\k23}no {\k110}sa
-Dialogue: 0,0:01:20.30,0:01:26.33,OP/ED Romaji,,0,0,0,,{\k23}Na{\k20}ni{\k20}mo {\k16}mo{\k20}ta{\k23}zu{\k20}ni {\k38}u{\k42}ma{\k40}re{\k20}te{\k19}ki{\k57}ta {\k22}no {\k220}ni
-Dialogue: 0,0:01:26.33,0:01:28.10,OP/ED Romaji,,0,0,0,,{\k24}Shi{\k30}a{\k33}wa{\k46}se {\k43}wa
-Dialogue: 0,0:01:28.10,0:01:31.17,OP/ED Romaji,,0,0,0,,{\k26}So{\k20}ba {\k20}ni {\k36}a{\k36}tte {\k23}chi{\k20}ka{\k20}ku {\k20}ni {\k40}a{\k43}tte
-Dialogue: 0,0:01:31.17,0:01:34.57,OP/ED Romaji,,0,0,0,,{\k16}Ta{\k16}i{\k23}se{\k23}tsu{\k16}na {\k20}mo{\k20}no {\k23}ho{\k20}do {\k16}mi{\k20}e{\k20}na{\k20}ku{\k23}na{\k20}ru {\k20}ke{\k20}do
-Dialogue: 0,0:01:34.57,0:01:35.87,OP/ED Romaji,,0,0,0,,{\k30}Kan{\k23}sha {\k43}shi{\k23}te
-Dialogue: 0,0:01:35.87,0:01:40.90,OP/ED Romaji,,0,0,0,,{\k30}Na{\k16}ni {\k20}ga {\k20}o{\k20}ki{\k36}ta{\k23}tte {\k20}wa{\k36}ka{\k23}tte {\k16}ku{\k40}re{\k36}ru {\k66}hi{\k23}to {\k73}he
-Dialogue: 0,0:01:40.90,0:01:43.90,OP/ED Romaji,,0,0,0,,{\k23}Da{\k20}re {\k20}ni {\k40}da{\k40}tte {\k23}ni{\k16}ge{\k16}ta{\k23}ku{\k40}na{\k36}tte
-Dialogue: 0,0:01:43.90,0:01:47.33,OP/ED Romaji,,0,0,0,,{\k23}Ji{\k36}bun {\k20}wo {\k23}mi{\k16}u{\k23}shi{\k20}na{\k13}i{\k46}sou {\k20}ni {\k16}na{\k23}ru {\k20}ke{\k40}do
-Dialogue: 0,0:01:47.33,0:01:55.30,OP/ED Romaji,,0,0,0,,{\k56}A{\k23}i {\k60}wa {\k20}ka{\k56}na{\k23}ra{\k60}zu {\k23}ki{\k36}mi {\k35}no {\k47}ko{\k36}ko{\k53}ro {\k29}ni {\k50}a{\k29}ru {\k146}yo
-Dialogue: 0,0:01:55.30,0:02:00.53,OP/ED Romaji,,0,0,0,,{\k43}Bo{\k36}ku{\k40}ra {\k83}i{\k40}ssho {\k60}ni {\k16}a{\k23}ru{\k16}i{\k26}te{\k13}i{\k40}kou {\k83}yo
-Dialogue: 0,0:02:00.53,0:02:06.13,OP/ED Romaji,,0,0,0,,{\k20}O{\k20}na{\k53}ji {\k23}so{\k20}ra {\k16}no {\k26}shi{\k56}ta {\k20}o{\k20}na{\k36}ji {\k23}so{\k23}ra {\k20}wo {\k20}mi{\k20}a{\k40}ge{\k19}na{\k20}ga{\k60}ra
-Dialogue: 0,0:02:06.13,0:02:11.20,OP/ED Romaji,,0,0,0,,{\k16}U{\k20}tsu{\k23}ku{\k36}shi{\k20}i {\k33}i{\k26}ro {\k23}no {\k26}ki{\k33}zu{\k20}na {\k26}ka{\k30}zo{\k23}e{\k60}te{\k20}i{\k66}you
-Dialogue: 0,0:02:11.20,0:02:14.43,OP/ED Romaji,,0,0,0,,{\k56}Shi{\k33}a{\k30}wa{\k50}se {\k46}wa {\k30}i{\k43}tsu{\k33}mo
-Dialogue: 0,0:02:14.43,0:02:17.53,OP/ED Romaji,,0,0,0,,{\k26}So{\k23}ba {\k20}ni {\k40}a{\k36}tte {\k23}chi{\k20}ka{\k23}ku {\k20}ni {\k33}a{\k43}tte
-Dialogue: 0,0:02:17.53,0:02:20.93,OP/ED Romaji,,0,0,0,,{\k20}Ta{\k10}i{\k26}se{\k23}tsu{\k20}na {\k20}mo{\k20}no {\k23}ho{\k20}do {\k16}mi{\k20}e{\k23}na{\k20}ku{\k16}na{\k20}ru {\k20}ke{\k20}do
-Dialogue: 0,0:02:20.93,0:02:22.33,OP/ED Romaji,,0,0,0,,{\k33}Kan{\k20}sha {\k46}shi{\k40}te
-Dialogue: 0,0:02:22.33,0:02:27.37,OP/ED Romaji,,0,0,0,,{\k23}Na{\k20}ni {\k16}ga {\k20}o{\k20}ki{\k40}ta{\k20}tte {\k20}wa{\k36}ka{\k23}tte{\k20}ku{\k43}re{\k33}ru {\k60}hi{\k23}to {\k83}he
-Dialogue: 0,0:02:27.37,0:02:30.30,OP/ED Romaji,,0,0,0,,{\k20}Da{\k20}re {\k20}ni {\k30}da{\k46}tte {\k20}ni{\k23}ge{\k16}ta{\k20}ku{\k40}na{\k23}tte
-Dialogue: 0,0:02:30.30,0:02:33.77,OP/ED Romaji,,0,0,0,,{\k26}Ji{\k36}bun {\k23}wo {\k16}mi{\k13}u{\k30}shi{\k20}na{\k13}i{\k46}sou {\k16}ni {\k20}na{\k20}ru {\k23}ke{\k40}do
-Dialogue: 0,0:02:33.77,0:02:41.70,OP/ED Romaji,,0,0,0,,{\k56}A{\k20}i {\k60}wa {\k20}ka{\k56}na{\k23}ra{\k60}zu {\k23}ki{\k40}mi {\k36}no {\k36}ko{\k40}ko{\k60}ro {\k26}ni {\k56}a{\k23}ru {\k153}yo
-Dialogue: 0,0:02:41.70,0:02:46.98,OP/ED Romaji,,0,0,0,,{\fad(0,400)\k46}Bo{\k36}ku{\k43}ra {\k80}i{\k40}ssho {\k56}ni {\k13}a{\k30}ru{\k20}i{\k16}te{\k20}i{\k43}kou {\k123}yo
-Dialogue: 0,0:01:00.90,0:01:04.20,OP/ED English,,0,0,0,,We are still living today{NOTE:僕ら今日も生きている}
-Dialogue: 0,0:01:04.20,0:01:07.43,OP/ED English,,0,0,0,,We are still laughing today{NOTE:僕ら今日も笑ってる}
-Dialogue: 0,0:01:07.43,0:01:11.93,OP/ED English,,0,0,0,,We don't need anything more{NOTE:それだけでもう何もいらない}
-Dialogue: 0,0:01:11.93,0:01:13.80,OP/ED English,,0,0,0,,Just RIDE ON{NOTE:今すぐRIDEON}
-Dialogue: 0,0:01:13.80,0:01:17.10,OP/ED English,,0,0,0,,We're quick to want{NOTE:僕らすぐに求める}
-Dialogue: 0,0:01:17.10,0:01:20.30,OP/ED English,,0,0,0,,This feeling is only natural{NOTE:欲張りな生き物さ}
-Dialogue: 0,0:01:20.30,0:01:26.33,OP/ED English,,0,0,0,,We're born without anything after all{NOTE:何も持たずに生まれてきたのに}
-Dialogue: 0,0:01:26.33,0:01:28.10,OP/ED English,,0,0,0,,Happiness is{NOTE:幸せは}
-Dialogue: 0,0:01:28.10,0:01:31.17,OP/ED English,,0,0,0,,To be by your side, to be close to you{NOTE:そばにあって　近くにあって}
-Dialogue: 0,0:01:31.17,0:01:34.57,OP/ED English,,0,0,0,,Not to lose sight of what is really important{NOTE:大切なものほど見えなくなるけど}
-Dialogue: 0,0:01:34.57,0:01:35.87,OP/ED English,,0,0,0,,To be grateful{NOTE:感謝して}
-Dialogue: 0,0:01:35.87,0:01:40.90,OP/ED English,,0,0,0,,To the person who understands no matter what happens{NOTE:何が起きたって分かってくれる人へ}
-Dialogue: 0,0:01:40.90,0:01:43.90,OP/ED English,,0,0,0,,Everyone is afraid{NOTE:誰にだって　逃げたくなって}
-Dialogue: 0,0:01:43.90,0:01:47.33,OP/ED English,,0,0,0,,To lose sight of oneself{NOTE:自分を見失いそうになるけど}
-Dialogue: 0,0:01:47.33,0:01:55.30,OP/ED English,,0,0,0,,But you will surely find love in your heart{NOTE:愛は必ず君の心にあるよ}
-Dialogue: 0,0:01:55.30,0:02:00.53,OP/ED English,,0,0,0,,Come walk with us{NOTE:僕ら一緒に歩いていこうよ}
-Dialogue: 0,0:02:00.53,0:02:06.13,OP/ED English,,0,0,0,,We're under the same sky, we look at the same stars{NOTE:同じ空のした　同じ空を見上げながら}
-Dialogue: 0,0:02:06.13,0:02:11.20,OP/ED English,,0,0,0,,Let's keep this beautifully colored bond{NOTE:美しい色の絆　数えていよう}
-Dialogue: 0,0:02:11.20,0:02:14.43,OP/ED English,,0,0,0,,Happiness is forever{NOTE:幸せはいつも}
-Dialogue: 0,0:02:14.43,0:02:17.53,OP/ED English,,0,0,0,,To be by your side, to be close to you{NOTE:そばにあって　近くにあって}
-Dialogue: 0,0:02:17.53,0:02:20.93,OP/ED English,,0,0,0,,Not to lose sight of what is really important{NOTE:大切なものほど見えなくなるけど}
-Dialogue: 0,0:02:20.93,0:02:22.33,OP/ED English,,0,0,0,,To be grateful{NOTE:感謝して}
-Dialogue: 0,0:02:22.33,0:02:27.37,OP/ED English,,0,0,0,,To the person who understands no matter what happens{NOTE:何が起きたって分かってくれるひとへ}
-Dialogue: 0,0:02:27.37,0:02:30.30,OP/ED English,,0,0,0,,Everyone is afraid{NOTE:誰にだって　逃げたくなって}
-Dialogue: 0,0:02:30.30,0:02:33.77,OP/ED English,,0,0,0,,Of losing sight of oneself{NOTE:自分を見失いそうになるけど}
-Dialogue: 0,0:02:33.77,0:02:41.70,OP/ED English,,0,0,0,,But you will surely find love in your heart{NOTE:愛は必ず君の心にあるよ}
-Dialogue: 0,0:02:41.70,0:02:46.98,OP/ED English,,0,0,0,,{\fad(0,400)}Come walk with us{NOTE:僕ら一緒に歩いていこうよ}
-Comment: 0,0:02:49.04,0:02:49.04,Default,Chapter,0,0,0,,#Sponsors
-Comment: 0,0:03:03.97,0:03:03.97,Default,Chapter,0,0,0,,#Black screen
-Comment: 0,0:03:05.97,0:03:05.97,Default,Chapter,0,0,0,,Part A
-Dialogue: 0,0:03:06.43,0:03:10.47,Episode,,0,0,0,,{\pos(595,480)\fad(600,600)}\NEpisode 53\N"Hang in there, Velocidrome!"
-Dialogue: 0,0:03:09.14,0:03:10.19,Default,Beats,0,0,0,,Listen up!{NOTE:いいか！}
-Dialogue: 0,0:03:10.19,0:03:12.98,Default,Beats,0,0,0,,Try dodging my attacks!{NOTE:今から俺が繰り出す攻撃をかわすんだ！}
-Dialogue: 0,0:03:12.98,0:03:15.40,Default,Beats,0,0,0,,And do it as if it were an actual battle!{NOTE:実戦のつもりで気合入れてけ！}
-Dialogue: 0,0:03:15.40,0:03:16.90,Default,Nariki,0,0,0,,O…kay.{NOTE:う…うっす｡}
-Dialogue: 0,0:03:16.90,0:03:19.49,Default,Beats,0,0,0,,Geez, what's with that lousy response?{NOTE:何だ何だ！そのふ抜けた返事は！}
-Dialogue: 0,0:03:20.70,0:03:24.70,Default,Nariki,0,0,0,,I mean, it's my first time\NI'm partnering up with a Felyne.{NOTE:ていうか自分ｱｲﾙｰの相棒って初めてなんすけど｡}
-Dialogue: 0,0:03:24.70,0:03:29.87,Default,Beats,0,0,0,,Relax. It's my first time partnering up with a Rider too.{NOTE:ハッ安心しろ｡俺もライダーの相棒は初めてだ｡}
-Dialogue: 0,0:03:29.87,0:03:32.96,Default,Nariki,0,0,0,,How is this supposed to make me feel better?{NOTE:そんなの全然安心できないっすよ｡}
-Dialogue: 0,0:03:32.96,0:03:36.17,Default,Beats,0,0,0,,Hey, hey, that's why we're training in first place, right?{NOTE:おいおいだからこその訓練だろ｡}
-Dialogue: 0,0:03:36.17,0:03:40.26,Default,Beats,0,0,0,,We'll build trust between us through blood, sweat and tears.{NOTE:共に汗を流し互いの心を通じ合わせる｡}
-Dialogue: 0,0:03:40.26,0:03:43.14,Default,Beats,0,0,0,,Let's aim for the sky!{NOTE:一緒にライダーの星目指そうぜ！}
-Dialogue: 0,0:03:44.76,0:03:45.97,Default,Nariki,0,0,0,,But sweat stinks.{NOTE:くさいっすよ｡}
-Dialogue: 0,0:03:45.97,0:03:49.31,Default,Beats,0,0,0,,Kids these days…{NOTE:今どき世代だなお前…}
-Dialogue: 0,0:03:49.31,0:03:51.85,Default,Beats,0,0,0,,Nevermind, just Ride On.{NOTE:ほらライドオンしろ！ライドオン！}
-Dialogue: 0,0:03:51.85,0:03:52.77,Default,Nariki,0,0,0,,Mkay…{NOTE:うっす…}
-Dialogue: 0,0:03:53.60,0:03:54.94,Default,Nariki,0,0,0,,Ride On!{NOTE:ライドオン！}
-Dialogue: 0,0:03:57.07,0:03:58.23,Default,Nariki,0,0,0,,Velocidrome!{NOTE:ドスランポス！}
-Dialogue: 0,0:04:05.53,0:04:06.45,Default,Hyoro,0,0,0,,What's that?{NOTE:何だ？}
-Dialogue: 0,0:04:08.29,0:04:11.16,Default,Beats,0,0,0,,Nariki! Look closely at the attacks!{NOTE:ナリキ！攻撃をよく見ろ！}
-Dialogue: 0,0:04:11.16,0:04:13.29,Default,Nariki,0,0,0,,O-Okay.{NOTE:う…うっす…}
-Dialogue: 0,0:04:13.29,0:04:15.33,Default,Beats,0,0,0,,All right, one more time!{NOTE:さあもう一度だ！}
-Dialogue: 0,0:04:15.33,0:04:16.21,Default,Nariki,0,0,0,,Yeah.{NOTE:うす｡}
-Dialogue: 0,0:04:18.42,0:04:21.38,Default,Spex,0,0,0,,Looks like Nariki's nibbling on the basics.{NOTE:ナリキさん食らい付いてってるゴロニャ｡}
-Dialogue: 0,0:04:21.38,0:04:23.13,Default,Floof,0,0,0,,Hang in there-nyaa.{NOTE:ファイトでしゅニャ｡}
-Dialogue: 0,0:04:23.13,0:04:24.26,Default,Mille,0,0,0,,Spex.{NOTE:ピント｡}
-Dialogue: 0,0:04:24.26,0:04:25.84,Default,Spex,0,0,0,,Ah, it's you, Mille.{NOTE:あっミルさん｡}
-Dialogue: 0,0:04:25.84,0:04:27.97,Default,Mille,0,0,0,,What are those two up to?{NOTE:ナリキたち何してんの？}
-Dialogue: 0,0:04:27.97,0:04:29.89,Default,Spex,0,0,0,,They're training.{NOTE:訓練だゴロニャ｡}
-Dialogue: 0,0:04:29.89,0:04:33.56,Default,Floof,0,0,0,,Beats is trying to fire Nariki up.{NOTE:ビーツがナリキさんに気合を入れてるんでしゅニャ｡}
-Dialogue: 0,0:04:45.82,0:04:50.20,Default,Beats,0,0,0,,Even if your Velocidrome can dodge it,\Nit's no use if you can't dodge it too.{NOTE:ドスランポスがよけられてもお前がよけられなきゃ意味ねえだろ。}
-Dialogue: 0,0:04:50.20,0:04:51.33,Default,Beats,0,0,0,,Listen!{NOTE:いいか！}
-Dialogue: 0,0:04:51.33,0:04:55.50,Default,Beats,0,0,0,,A Rider and their Monstie must be one in both mind and body!{NOTE:ライダーとオトモンは一心同体でなきゃいけねえ！}
-Dialogue: 0,0:04:55.50,0:04:57.08,Default,Beats,0,0,0,,Got it?{NOTE:分かるか?}
-Dialogue: 0,0:04:57.08,0:04:59.13,Default,Nariki,0,0,0,,Y-Yeah.{NOTE:う…うっす｡}
-Dialogue: 0,0:04:59.13,0:05:01.17,Default,Beats,0,0,0,,Alright! Next!{NOTE:もういい！次だ！}
-Dialogue: 0,0:05:02.30,0:05:04.80,Default,Beats,0,0,0,,This time we'll train your jumping.{NOTE:次はジャンプの訓練だ｡}
-Dialogue: 0,0:05:04.80,0:05:07.55,Default,Beats,0,0,0,,Jump over that obstacle while running at full speed.{NOTE:全力疾走であの障害を跳び越えろ｡}
-Dialogue: 0,0:05:07.55,0:05:08.76,Default,Nariki,0,0,0,,Got it.{NOTE:うっす｡}
-Dialogue: 0,0:05:08.76,0:05:10.93,Default,Floof,0,0,0,,Good luck-nyaa…{NOTE:頑張るでしゅニャ～｡}
-Dialogue: 0,0:05:11.93,0:05:13.93,Default,Nariki,0,0,0,,You can do it, Drome.{NOTE:いけるよな？ランポ｡}
-Dialogue: 0,0:05:15.10,0:05:17.15,Default,Nariki,0,0,0,,All right, let's go, Drome!{NOTE:よし！行けランポ！}
-Dialogue: 0,0:05:19.48,0:05:20.90,Default,Beats,0,0,0,,Alright! Jump!{NOTE:よし！跳べ！}
-Dialogue: 0,0:05:41.34,0:05:43.59,Default,Mille,0,0,0,,This should be okay for now.{NOTE:取りあえずこれでよしっと｡}
-Dialogue: 0,0:05:43.59,0:05:44.76,Default,Hyoro,0,0,0,,Are you okay?{NOTE:大丈夫？}
-Dialogue: 0,0:05:44.76,0:05:46.97,Default,Nariki,0,0,0,,Y-Yeah…{NOTE:うっす…}
-Dialogue: 0,0:05:46.97,0:05:48.34,Default,(mixed),0,0,0,,– Pat!\N– Argh!{NOTE:—ほい｡\\N—うっ！}
-Dialogue: 0,0:05:48.34,0:05:49.85,Default,Mille,0,0,0,,Ah, sorry.{NOTE:ああごめん｡}
-Dialogue: 0,0:05:49.85,0:05:51.01,Default,Hyoro,0,0,0,,I guess you're not okay…{NOTE:だいじょばないね｡}
-Dialogue: 0,0:05:53.06,0:05:54.31,Default,Beats,0,0,0,,Tsk.{NOTE:チッ…}
-Dialogue: 0,0:05:54.31,0:05:55.48,Default,Beats,0,0,0,,How pathetic.{NOTE:情けねえ｡}
-Dialogue: 0,0:05:59.52,0:06:00.69,Default,Hyoro,0,0,0,,Beats…{NOTE:ビーツ｡}
-Dialogue: 0,0:06:00.69,0:06:02.98,Default,Hyoro,0,0,0,,Nariki is still learning.{NOTE:ナリキはライダーになりたてなんだ｡}
-Dialogue: 0,0:06:02.98,0:06:05.53,Default,Hyoro,0,0,0,,Be a little more understanding.{NOTE:もうちょっと優しくしてあげなよ｡}
-Dialogue: 0,0:06:05.53,0:06:07.74,Default,Beats,0,0,0,,I have to be tough on him.{NOTE:厳しくしなきゃ駄目だ｡}
-Dialogue: 0,0:06:07.74,0:06:09.03,Default,Hyoro,0,0,0,,Beats…{NOTE:ビーツ…}
-Dialogue: 0,0:06:10.28,0:06:12.12,Default,Beats,0,0,0,,Don't you get it?{NOTE:だってそうだろ？}
-Dialogue: 0,0:06:12.12,0:06:15.12,Default,Beats,0,0,0,,The Ebon Riders are still hunting for Kinship Stones.{NOTE:ブラックライダーズが絆石狩りしてるってのに…}
-Dialogue: 0,0:06:15.12,0:06:17.25,Default,Beats,0,0,0,,And we can't get help from Lute or anyone else.{NOTE:…リュートたちは村にいない｡}
-Dialogue: 0,0:06:17.25,0:06:20.25,Default,Beats,0,0,0,,Pampering isn't a luxury that Nariki gets right now.{NOTE:そんなときに甘やかす時間なんかないんだよ｡}
-Dialogue: 0,0:06:20.25,0:06:22.42,Default,Hyoro,0,0,0,,You sure are strict.{NOTE:ビーツは厳しいゴロニャ｡}
-Dialogue: 0,0:06:22.42,0:06:24.84,Default,Floof,0,0,0,,I feel sorry for Nariki-nyaa.{NOTE:ナリキさんがかわいそうでしゅニャ｡}
-Dialogue: 0,0:06:24.84,0:06:25.76,Default,Beats,0,0,0,,Hmph.{NOTE:フン｡}
-Dialogue: 0,0:06:35.14,0:06:39.23,Default,Nariki,0,0,0,,You know, Drome… you could listen to me a little more.{NOTE:ランポ…お前もう少し言うこと聞いてくれよな｡}
-Dialogue: 0,0:06:41.31,0:06:42.69,Default,Nariki,0,0,0,,Okay?{NOTE:いいか？}
-Dialogue: 0,0:06:42.69,0:06:48.65,Default,Nariki,0,0,0,,Me, Mille and Hyoro are the only ones\Nin the village with Kinship Stones.{NOTE:村で絆石持ってるのもう自分とミル先輩ヒョロ先輩しか残ってないんだ｡}
-Dialogue: 0,0:06:48.65,0:06:51.37,Default,Nariki,0,0,0,,So we can't take it slow right now.{NOTE:気長になんてやってられないんだぞ｡}
-Dialogue: 0,0:06:52.57,0:06:54.91,Default,Nariki,0,0,0,,Are you even listening?{NOTE:お前話聞いてないだろ？}
-Dialogue: 0,0:06:58.00,0:06:59.29,Default,Dan,0,0,0,,What's wrong, Nariki?{NOTE:どうした？ナリキ。}
-Dialogue: 0,0:06:59.29,0:07:01.00,Default,Dan,0,0,0,,I heard you sighing.{NOTE:ため息なんかついて｡}
-Dialogue: 0,0:07:01.00,0:07:02.54,Default,Nariki,0,0,0,,Dan.{NOTE:ダン先輩｡}
-Dialogue: 0,0:07:02.54,0:07:07.26,Default,Dan,0,0,0,,I know you want to get strong right now,\Nbut you shouldn't rush it.{NOTE:強くなりたいという気持ちは分かるが焦りは禁物だぞ｡}
-Dialogue: 0,0:07:07.26,0:07:09.05,Default,Nariki,0,0,0,,Don't rush it, huh…{NOTE:焦りっつうか…}
-Dialogue: 0,0:07:12.14,0:07:14.60,Default,Nariki,0,0,0,,Aren't Velocidromes pretty weak?{NOTE:ドスランポスって弱くないっすか？}
-Dialogue: 0,0:07:14.60,0:07:16.22,Default,Dan,0,0,0,,Hey, hey.{NOTE:待て待て｡}
-Dialogue: 0,0:07:16.22,0:07:19.48,Default,Dan,0,0,0,,Velocidrome is a nice and easy to handle Monstie.{NOTE:ドスランポスは扱いやすいいいオトモンだぞ｡}
-Dialogue: 0,0:07:19.48,0:07:22.06,Default,Nariki,0,0,0,,I can't handle it at all though.{NOTE:全然扱いやすくないっすよ｡}
-Dialogue: 0,0:07:22.06,0:07:25.27,Default,Nariki,0,0,0,,He has no breaths and he can't fly either.{NOTE:ブレスも吐けないし空も飛べない｡}
-Dialogue: 0,0:07:25.27,0:07:28.90,Default,Nariki,0,0,0,,No much how hard we try, this Monstie…{NOTE:オトモンがそんなんじゃいくら頑張ったところで…}
-Dialogue: 0,0:07:28.90,0:07:32.78,Default,Dan,0,0,0,,Hey! A Monstie's strength doesn't come from its attacks.{NOTE:こら！オトモンの強さはモンスターの強さじゃない｡}
-Dialogue: 0,0:07:32.78,0:07:35.83,Default,Dan,0,0,0,,It's built on the kinship with their Riders.{NOTE:ライダーとオトモンの絆の力だ｡}
-Dialogue: 0,0:07:35.83,0:07:40.46,Default,Dan,0,0,0,,Besides, Velocidromes are much\Nfaster than most monsters.{NOTE:それにドスランポスはスピードならたいていのモンスターよりも速い｡}
-Dialogue: 0,0:07:40.46,0:07:44.71,Default,Nariki,0,0,0,,Beats-Senpai says so too,\Nbut tapping into that speed isn't easy.{NOTE:ビーツ先輩もそう言うけど簡単にできないっす｡}
-Dialogue: 0,0:07:44.71,0:07:46.04,Default,Nariki,0,0,0,,I have no talent for it.{NOTE:才能ないんす！}
-Dialogue: 0,0:07:54.76,0:07:57.10,Default,Dan,0,0,0,,I'm sorry, Nariki.{NOTE:すまんなナリキ｡}
-Dialogue: 0,0:07:57.10,0:07:59.22,Default,Dan,0,0,0,,I'm the one who dragged you into this.{NOTE:お前には無理をさせている｡}
-Dialogue: 0,0:08:00.18,0:08:03.69,Default,Dan,0,0,0,,Normally the defense of the village is our job.{NOTE:本来なら村の守りは俺たちの仕事だ｡}
-Dialogue: 0,0:08:03.69,0:08:06.19,Default,Dan,0,0,0,,But, we let them take our Kinship Stones…{NOTE:だが俺たちの絆石は…}
-Dialogue: 0,0:08:07.82,0:08:12.61,Default,Dan,0,0,0,,Mille and Hyoro will also leave the\hvillage soon to help Lute's group.{NOTE:ミルもヒョロもリュートたちを助けるためにまた村を出ていくだろう｡}
-Dialogue: 0,0:08:12.61,0:08:17.12,Default,Dan,0,0,0,,At that time you will be the only Rider left in this village.{NOTE:そうなったらこの村に残されたライダーはお前だけなんだ｡}
-Dialogue: 0,0:08:17.12,0:08:20.16,Default,Dan,0,0,0,,So I know how hard it is, but please do your best.{NOTE:だからつらいのは分かるが頑張ってくれ｡}
-Dialogue: 0,0:08:22.08,0:08:23.50,Default,Nariki,0,0,0,,I understand.{NOTE:分かったっす｡}
-Dialogue: 0,0:08:23.50,0:08:25.88,Default,Nariki,0,0,0,,I will do my best for the sake of our village.{NOTE:自分村のために頑張るっす｡}
-Dialogue: 0,0:08:26.92,0:08:27.79,Default,Dan,0,0,0,,Sorry.{NOTE:すまん｡}
-Dialogue: 0,0:08:33.38,0:08:35.22,Default,Beats,0,0,0,,Come on, come on!{NOTE:そらそら！どうした！}
-Dialogue: 0,0:08:35.22,0:08:37.18,Default,Beats,0,0,0,,Increase your speed!{NOTE:もっとスピードを上げろ！}
-Dialogue: 0,0:08:37.18,0:08:39.52,Default,Nariki,0,0,0,,Drome, let's go faster!{NOTE:ランポ！もっと速くだ！}
-Dialogue: 0,0:08:43.06,0:08:44.39,Default,Nariki,0,0,0,,{\i1}Stronger…{NOTE:もっとだ…}
-Dialogue: 0,0:08:44.39,0:08:46.10,Default,Nariki,0,0,0,,{\i1}I need to get stronger.{NOTE:もっと強くなるんだ！}
-Dialogue: 0,0:08:52.99,0:08:57.32,Default,Nariki,0,0,0,,{\i1}When that happens, we'll be able to get our seniors' Kinship Stones back.{NOTE:強くなって先輩たちの絆石を取り戻すんだ。}
-Dialogue: 0,0:09:02.00,0:09:03.12,Default,Beats,0,0,0,,T-This is bad!{NOTE:ん!?まずい！}
-Dialogue: 0,0:09:03.12,0:09:05.96,Default,Beats,0,0,0,,When you go that fast,\Nyou have to give out orders sooner!{NOTE:スピードを出すなら指示は早めに出さないと！}
-Dialogue: 0,0:09:09.50,0:09:10.88,Default,Nariki,0,0,0,,Drome! Righ—{NOTE:ランポ！右だ—}
-Dialogue: 0,0:09:10.88,0:09:13.26,Default,Nariki,0,0,0,,R—Ow!\N…l-left.{NOTE:右…左…｡}
-Dialogue: 0,0:09:19.10,0:09:21.89,Default,Nariki,0,0,0,,Drome! Left! Right! Left!{NOTE:ランポ！右左右…！}
-Dialogue: 0,0:09:29.48,0:09:31.23,Default,Nariki,0,0,0,,Hey, Drome!{NOTE:おいランポ！}
-Dialogue: 0,0:09:31.23,0:09:33.36,Default,Nariki,0,0,0,,Why don't you listen to me?{NOTE:何で言うことを聞かないんだ！}
-Dialogue: 0,0:09:34.61,0:09:36.61,Default,Nariki,0,0,0,,Do you even understand me?{NOTE:何で分からないんだよ！}
-Dialogue: 0,0:09:36.61,0:09:38.37,Default,Beats,0,0,0,,Don't take out your anger on him, Nariki.{NOTE:八つ当たりはよせ！ナリキ！}
-Dialogue: 0,0:09:39.20,0:09:41.99,Default,Beats,0,0,0,,It's not Drome's fault.{NOTE:うまくいかないのはランポのせいじゃないだろう｡}
-Dialogue: 0,0:09:41.99,0:09:43.45,Default,Nariki,0,0,0,,Ah…{NOTE:あっ…}
-Dialogue: 0,0:09:43.45,0:09:47.96,Default,Beats,0,0,0,,You're trying to become faster and stronger, but…{NOTE:お前は自分勝手に速くなろう強くなろうとしているが…}
-Dialogue: 0,0:09:47.96,0:09:50.96,Default,Beats,0,0,0,,…unless you change your attitude…{NOTE:…その独り善がりな気持ちをあらためないかぎり…}
-Dialogue: 0,0:09:50.96,0:09:54.97,Default,Beats,0,0,0,,…Drome will never listen to you.{NOTE:…いつまでたってもランポはお前の言うことを聞いてはくれないぞ｡}
-Dialogue: 0,0:09:57.43,0:10:01.39,Default,Beats,0,0,0,,What's important is strengthening your kinship.{NOTE:大事なことはオトモンとの絆を強くすることだ｡}
-Dialogue: 0,0:10:01.39,0:10:05.77,Default,Beats,0,0,0,,Everything else will come naturally after that.{NOTE:そうすれば強さとか速さは自然と後からついてくる｡}
-Dialogue: 0,0:10:05.77,0:10:06.73,Default,Beats,0,0,0,,You got that?{NOTE:分かるか？}
-Dialogue: 0,0:10:11.32,0:10:13.57,Default,Beats,0,0,0,,Hey, I can't hear you!{NOTE:おい！返事が聞こえねえぞ！}
-Dialogue: 0,0:10:15.90,0:10:18.20,Default,Nariki,0,0,0,,I get it…{NOTE:言ってることは分かるんすけど…}
-Dialogue: 0,0:10:18.20,0:10:19.87,Default,Nariki,0,0,0,,…but you're {\fs40}g{\fs39}e{\fs38}t{\fs37}t{\fs36}i{\fs35}n{\fs34}g {\fs33}o{\fs32}n {\fs31}m{\fs30}y {\fs29}n{\fs28}e{\fs27}r{\fs26}v{\fs25}e{\fs24}s.{NOTE:…言い方がうざいんすよ｡}
-Dialogue: 0,0:10:21.03,0:10:23.54,Default,Nariki,0,0,0,,I said, you're getting on my nerves!{NOTE:だからうざいっす！}
-Dialogue: 0,0:10:24.54,0:10:25.75,Default,Beats,0,0,0,,Ah, is that so?{NOTE:あっ…そうなの？}
-Dialogue: 0,0:10:31.00,0:10:33.63,Default,Beats,0,0,0,,What the hell!?{NOTE:んだとおおおぉ！}
-Dialogue: 0,0:10:33.63,0:10:35.30,Default,Nariki,0,0,0,,Look at you, acting so big!{NOTE:何だよ偉そうに！}
-Dialogue: 0,0:10:35.30,0:10:40.68,Default,Nariki,0,0,0,,Kinship this, kinship that! You're not even a Rider so what do you understand about Monsties?{NOTE:絆絆って｡ライダーでもないくせにオトモンの何が分かるんだよ！}
-Dialogue: 0,0:10:40.68,0:10:42.72,Default,Beats,0,0,0,,Oh, now you've said it!{NOTE:言ったな！お前！}
-Dialogue: 0,0:10:42.72,0:10:44.47,Default,Nariki,0,0,0,,Ah yes, I did!{NOTE:ああ言ったさ！}
-Dialogue: 0,0:10:47.73,0:10:50.31,Default,Beats,0,0,0,,All right, fine, do whatever then!{NOTE:だったら勝手にしろってんだ！}
-Dialogue: 0,0:10:50.31,0:10:52.11,Default,Nariki,0,0,0,,Yeah, just watch me!{NOTE:ああ勝手にするさ！}
-Dialogue: 0,0:11:02.32,0:11:04.95,Default,Spex,0,0,0,,I wonder how Nariki's doing?{NOTE:ナリキさん大丈夫ゴロニャ？}
-Dialogue: 0,0:11:04.95,0:11:08.62,Default,Floof,0,0,0,,He's fine. He's very motivated-nyaa.{NOTE:大丈夫でしゅニャ｡張り切ってましたから｡}
-Dialogue: 0,0:11:08.62,0:11:10.83,Default,Floof,0,0,0,,Right, Mille-Mille?{NOTE:でしゅよね？ミルミル｡}
-Dialogue: 0,0:11:10.83,0:11:16.59,Default,Mille,0,0,0,,As his senior, I can say that he'll be at this for a\hwhile. New Riders just have to deal with training.{NOTE:新米ライダーがどう逆立ちしたってすぐに一人前になんてならないわよ｡}
-Dialogue: 0,0:11:30.64,0:11:31.69,Default,Spex,0,0,0,,Beats?{NOTE:フンッ！}
-Dialogue: 0,0:11:32.65,0:11:34.61,Default,Hyoro,0,0,0,,Where's Nariki?{NOTE:ナリキはどうしたの？}
-Dialogue: 0,0:11:34.61,0:11:36.44,Default,Beats,0,0,0,,Like I care!{NOTE:あんなやつ知るか！}
-Dialogue: 0,0:11:36.44,0:11:39.24,Default,Beats,0,0,0,,And here I was trying to do something for him!{NOTE:俺がせっかく訓練してやってるってのに！}
-Dialogue: 0,0:11:39.90,0:11:42.57,Default,Nariki,0,0,0,,Damn. Damn. Damn!{NOTE:くそくそくそ！}
-Dialogue: 0,0:11:42.57,0:11:44.03,Default,Nariki,0,0,0,,Drome, you're an idiot!{NOTE:ランポのバカ！}
-Dialogue: 0,0:11:44.03,0:11:45.58,Default,Nariki,0,0,0,,And Beats-Senpai, you too!{NOTE:ビーツ先輩のバカ！}
-Dialogue: 0,0:11:45.58,0:11:47.08,Default,Wrath,0,0,0,,Hey.{NOTE:おい！}
-Dialogue: 0,0:11:47.08,0:11:48.91,Default,Wrath,0,0,0,,Who are you calling an idiot?{NOTE:誰がバカだって？}
-Dialogue: 0,0:11:51.37,0:11:53.17,Default,Wrath,0,0,0,,Hey, youngster.{NOTE:おい小僧。}
-Dialogue: 0,0:11:53.17,0:11:55.92,Default,Wrath,0,0,0,,Do you know which direction Hakum village is in?{NOTE:ハクム村ってどっちか知ってるか？}
-Dialogue: 0,0:12:08.10,0:12:09.98,Default,Nariki,0,0,0,,{\i1}An Ebon Rider!{NOTE:ブラックライダーズ！}
-Comment: 0,0:12:09.98,0:12:09.98,Default,Chapter,0,0,0,,Eyecatch
-Dialogue: 0,0:12:10.52,0:12:11.48,Default,Cheval,0,0,0,,Ride On!{NOTE:ライドオン！}
-Dialogue: 0,0:12:12.82,0:12:13.86,Default,Cheval,0,0,0,,Rathian!{NOTE:リオレイア！}
-Comment: 0,0:12:13.98,0:12:13.98,Default,Chapter,0,0,0,,#Black screen
-Comment: 0,0:12:15.98,0:12:15.98,Default,Chapter,0,0,0,,$Eyecatch
-Dialogue: 0,0:12:18.23,0:12:19.11,Default,Navirou,0,0,0,,Nya-ow!{NOTE:ニャグゥ！}
-Comment: 0,0:12:19.99,0:12:19.99,Default,Chapter,0,0,0,,Part B
-Dialogue: 0,0:12:20.40,0:12:21.74,Default,Wrath,0,0,0,,Hey, youngster.{NOTE:おい坊主｡}
-Dialogue: 0,0:12:21.74,0:12:24.07,Default,Wrath,0,0,0,,Have you seen any Riders around here?{NOTE:この辺でライダーを見なかったか？}
-Dialogue: 0,0:12:28.66,0:12:30.37,Default,Wrath,0,0,0,,It's strange.{NOTE:おかしいぞ｡}
-Dialogue: 0,0:12:30.37,0:12:32.79,Default,Wrath,0,0,0,,You've got Monstie's smell on you.{NOTE:オトモンのにおいがするのになぁ｡}
-Dialogue: 0,0:12:37.88,0:12:40.71,Default,Wrath,0,0,0,,It's not like I'm going to eat you!{NOTE:別に取って食ったりはしねえよ！}
-Dialogue: 0,0:12:40.71,0:12:43.76,Default,Wrath,0,0,0,,So don't be letting out those anxious odors!{NOTE:ビビったにおいさせてんじゃねえ！}
-Dialogue: 0,0:12:43.76,0:12:45.30,Default,Wrath,0,0,0,,Say, youngster.{NOTE:なあ坊主｡}
-Dialogue: 0,0:12:45.30,0:12:47.39,Default,Wrath,0,0,0,,Do you know a guy named Lute?{NOTE:リュートってやつ知ってるか？}
-Dialogue: 0,0:12:48.85,0:12:52.06,Default,Wrath,0,0,0,,I heard he has one hell of a Kinship Stone.{NOTE:すげえ絆石持ってるらしいんだけどよ。}
-Dialogue: 0,0:12:52.06,0:12:54.10,Default,Wrath,0,0,0,,But I guess you don't know where I can find him?{NOTE:どこにいるか分からねえんだ｡}
-Dialogue: 0,0:12:57.90,0:12:58.94,Default,Wrath,0,0,0,,I see.{NOTE:そうか…}
-Dialogue: 0,0:12:58.94,0:13:01.15,Default,Wrath,0,0,0,,You don't, huh.{NOTE:知らねえか｡}
-Dialogue: 0,0:13:01.15,0:13:03.36,Default,Wrath,0,0,0,,Then where's Hakum village?{NOTE:じゃあハクム村はどっちだ？}
-Dialogue: 0,0:13:07.37,0:13:09.45,Default,Nariki,0,0,0,,T-That way.{NOTE:そ…そっち｡}
-Dialogue: 0,0:13:09.45,0:13:11.04,Default,Wrath,0,0,0,,Hmm?{NOTE:ふーん｡}
-Dialogue: 0,0:13:11.04,0:13:13.54,Default,Wrath,0,0,0,,But Hakum village is this way.{NOTE:てこたぁハクム村はこっちだな｡}
-Dialogue: 0,0:13:14.33,0:13:17.25,Default,Wrath,0,0,0,,Don't you lie to me, you damn brat!{NOTE:嘘つきやがって！このくそがきが～！}
-Dialogue: 0,0:13:19.42,0:13:20.84,Default,Wrath,0,0,0,,Whatever!{NOTE:まあいい｡}
-Dialogue: 0,0:13:20.84,0:13:23.88,Default,Wrath,0,0,0,,Gland and I are just getting hungry.{NOTE:俺もグランもちょうど腹が減ってたところだ｡}
-Dialogue: 0,0:13:23.88,0:13:26.84,Default,Wrath,0,0,0,,So I'll save Hakum village for later.{NOTE:ハクム村は腹ごしらえの後だ｡}
-Dialogue: 0,0:13:26.84,0:13:30.22,Default,Wrath,0,0,0,,You're probably living in Hakum, aren't ya?{NOTE:てめえはおおかたハクム村のがきだろう｡}
-Dialogue: 0,0:13:30.22,0:13:33.31,Default,Wrath,0,0,0,,Go on home and tell this to your people:{NOTE:とっとと帰って村のやつらに伝えろ｡}
-Dialogue: 0,0:13:33.31,0:13:35.98,Default,Wrath,0,0,0,,As soon as I'm done eating, I'm coming for you.{NOTE:飯食ったらすぐ行ってやる｡}
-Dialogue: 0,0:13:35.98,0:13:38.15,Default,Wrath,0,0,0,,And if you try to hide Lute…{NOTE:リュートをかくまったりしてみろ！}
-Dialogue: 0,0:13:38.15,0:13:40.73,Default,Wrath,0,0,0,,I'll smash your entire village!{NOTE:村ぶっつぶしてやるってな！}
-Dialogue: 0,0:13:40.73,0:13:42.15,Default,Wrath,0,0,0,,Ride On!{NOTE:ライドオン！}
-Dialogue: 0,0:13:42.15,0:13:43.90,Default,Wrath,0,0,0,,Deviljho!{NOTE:イビルジョー！}
-Dialogue: 0,0:13:48.66,0:13:50.58,Default,Nariki,0,0,0,,A Deviljho as a Monstie…{NOTE:イビルジョーがオトモンだって…}
-Dialogue: 0,0:13:51.70,0:13:53.25,Default,Nariki,0,0,0,,I can't leave things like this!{NOTE:こ…こうしちゃいられない！}
-Dialogue: 0,0:13:53.75,0:13:55.00,Default,Nariki,0,0,0,,Ride On!{NOTE:ライドオン！}
-Dialogue: 0,0:13:57.04,0:13:58.21,Default,Nariki,0,0,0,,Velocidrome!{NOTE:ドスランポス！}
-Dialogue: 0,0:13:59.29,0:14:00.46,Default,Nariki,0,0,0,,What should I do?{NOTE:どうする？}
-Dialogue: 0,0:14:00.46,0:14:02.63,Default,Nariki,0,0,0,,Well, I guess I should tell the village first.{NOTE:まずは村のみんなに知らせなきゃ｡}
-Dialogue: 0,0:14:02.63,0:14:04.63,Default,Beats,0,0,0,,Wait a second, Nariki!{NOTE:待て！ナリキ！}
-Dialogue: 0,0:14:04.63,0:14:06.05,Default,Nariki,0,0,0,,Beats-Senpai.{NOTE:ビーツ先輩｡}
-Dialogue: 0,0:14:06.05,0:14:09.47,Default,Beats,0,0,0,,Don't you go thinking I came here searching for you.{NOTE:言っとくがお前を捜しに来たわけじゃねえ｡}
-Dialogue: 0,0:14:09.47,0:14:11.26,Default,Beats,0,0,0,,I just happened to be in the area.{NOTE:たまたま今のを見てた｡}
-Dialogue: 0,0:14:11.26,0:14:12.76,Default,Nariki,0,0,0,,We've got more important things.{NOTE:そんなことより…}
-Dialogue: 0,0:14:12.76,0:14:15.98,Default,Beats,0,0,0,,Yeah, I know! I'll go tell Hyoro and Mille!{NOTE:ああ！俺がヒョロとミルに知らせる！}
-Dialogue: 0,0:14:15.98,0:14:20.48,Default,Beats,0,0,0,,Until then, keep that guy out of the village!{NOTE:お前はそれまで何とかあいつを足止めして村に近づけるな！}
-Dialogue: 0,0:14:20.48,0:14:22.73,Default,Nariki,0,0,0,,But I can't do anything alon—{NOTE:でも先輩自分一人じゃ…｡}
-Dialogue: 0,0:14:22.73,0:14:24.40,Default,Beats,0,0,0,,You're not alone!{NOTE:お前は一人じゃねえ！}
-Dialogue: 0,0:14:24.40,0:14:25.15,Default,Nariki,0,0,0,,Eh?{NOTE:えっ…}
-Dialogue: 0,0:14:27.24,0:14:28.36,Default,Nariki,0,0,0,,Drome.{NOTE:ランポ｡}
-Dialogue: 0,0:14:28.36,0:14:30.66,Default,Beats,0,0,0,,That's right! You've got your Monstie!{NOTE:そうだ！お前のオトモンだ！}
-Dialogue: 0,0:14:32.08,0:14:32.87,Default,Beats,0,0,0,,Listen up.{NOTE:いいか？}
-Dialogue: 0,0:14:32.87,0:14:35.91,Default,Beats,0,0,0,,Nothing can match Velocidrome's speed.{NOTE:ﾄﾞｽﾗﾝﾎﾟｽはｽﾋﾟｰﾄﾞだけなら誰にも負けねえ！}
-Dialogue: 0,0:14:35.91,0:14:38.54,Default,Beats,0,0,0,,Use that to your advantage!{NOTE:その可能性に勝負をかけろ！}
-Dialogue: 0,0:14:38.54,0:14:40.67,Default,Beats,0,0,0,,Run around and tire him out!{NOTE:走ってやつらを疲れさせるんだ！}
-Dialogue: 0,0:14:40.67,0:14:41.92,Default,Nariki,0,0,0,,Y-Yes sir!{NOTE:う…うっす！}
-Dialogue: 0,0:14:41.92,0:14:43.67,Default,Beats,0,0,0,,Also, Nariki!{NOTE:それからナリキ！}
-Dialogue: 0,0:14:43.67,0:14:47.84,Default,Beats,0,0,0,,I don't think that stubbornness of yours is all that bad, y'know!{NOTE:お前の負けん気だけはいっちょまえなところ嫌いじゃねえ！}
-Dialogue: 0,0:14:47.84,0:14:49.93,Default,Beats,0,0,0,,I believe in you!{NOTE:俺はお前を信じているぞ！}
-Dialogue: 0,0:14:52.18,0:14:52.76,Default,Nariki,0,0,0,,Y-Yes sir!{NOTE:えっ…うっす！}
-Dialogue: 0,0:14:53.51,0:14:56.98,Default,Beats,0,0,0,,You, me and Drome are going to settle this!{NOTE:俺とお前とランポでこの危機を乗り越えるぞ！}
-Dialogue: 0,0:14:56.98,0:14:57.68,Default,Nariki,0,0,0,,Yes sir!{NOTE:うっす！}
-Dialogue: 0,0:15:01.27,0:15:03.52,Default,Nariki,0,0,0,,Alright, let's do it, Drome!{NOTE:よーし！やるぞランポ！}
-Dialogue: 0,0:15:07.69,0:15:09.32,Default,Wrath,0,0,0,,Damn.{NOTE:くそ！}
-Dialogue: 0,0:15:09.32,0:15:12.24,Default,Wrath,0,0,0,,I can't find any food around here.{NOTE:この辺りは食い物が全然見当たらねえ！}
-Dialogue: 0,0:15:16.33,0:15:17.16,Default,Wrath,0,0,0,,What!?{NOTE:何!?}
-Dialogue: 0,0:15:22.75,0:15:24.25,Default,Wrath,0,0,0,,Who are you?{NOTE:誰だ！}
-Dialogue: 0,0:15:24.25,0:15:26.88,Default,Nariki,0,0,0,,I-I'm Lute!{NOTE:お…俺はﾘｭｰﾄだ！}
-Dialogue: 0,0:15:26.88,0:15:29.05,Default,Wrath,0,0,0,,You're Lute…?{NOTE:てめえがﾘｭｰﾄだと？}
-Dialogue: 0,0:15:29.05,0:15:31.76,Default,Wrath,0,0,0,,But I heard you're flying a Rathalos?{NOTE:リオレウスに乗ってるって話だが？}
-Dialogue: 0,0:15:31.76,0:15:35.01,Default,Nariki,0,0,0,,My Rathalos has diarrhea!{NOTE:リオレウスは今おなかを壊している！}
-Dialogue: 0,0:15:35.01,0:15:37.18,Default,Wrath,0,0,0,,Diarrhea!?{NOTE:腹壊しただぁ!?}
-Dialogue: 0,0:15:37.18,0:15:39.56,Default,Nariki,0,0,0,,Y-Yeah! He ate too much!{NOTE:そ…そうだ！食べ過ぎで！}
-Dialogue: 0,0:15:39.56,0:15:41.77,Default,Wrath,0,0,0,,Whatever!{NOTE:そんなこたぁどうでもいい！}
-Dialogue: 0,0:15:41.77,0:15:47.03,Default,Wrath,0,0,0,,Lute! I'm Wrath, one of the dreaded four Ebon Riders!{NOTE:ﾘｭｰﾄ！ﾌﾞﾗｯｸﾗｲﾀﾞｰｽﾞ四天王が一人ラースさまたぁ俺のことだ！}
-Dialogue: 0,0:15:47.03,0:15:50.36,Default,Wrath,0,0,0,,Give up your Kinship Stone!{NOTE:てめえの絆石渡してもらおうか！}
-Dialogue: 0,0:15:50.36,0:15:52.82,Default,Nariki,0,0,0,,Heh! Are you nuts?{NOTE:へーん！やなこった！}
-Dialogue: 0,0:15:52.82,0:15:55.83,Default,Nariki,0,0,0,,If you want it, you gotta catch me!{NOTE:欲しけりゃ俺についてきな！}
-Dialogue: 0,0:15:55.83,0:15:57.54,Default,Nariki,0,0,0,,Let's roll, Drome!{NOTE:逃げるぞランポ！}
-Dialogue: 0,0:16:01.21,0:16:03.00,Default,Wrath,0,0,0,,Gland, catch them!{NOTE:グラン追うぞ｡}
-Dialogue: 0,0:16:07.17,0:16:09.21,Default,Nariki,0,0,0,,Good, Drome, keep it up!{NOTE:いいぞランポ！その調子！}
-Dialogue: 0,0:16:13.80,0:16:15.55,Default,Wrath,0,0,0,,Is that all you've got?{NOTE:おらおらどうした！}
-Dialogue: 0,0:16:15.55,0:16:17.60,Default,Wrath,0,0,0,,I've caught up to you already!{NOTE:もう追い付いちまうぞ！}
-Dialogue: 0,0:16:20.48,0:16:22.27,Default,Nariki,0,0,0,,{\i1}He's so fast…{NOTE:あんなに速いなんて…}
-Dialogue: 0,0:16:22.27,0:16:24.40,Default,Nariki,0,0,0,,{\i1}Beats-Senpai, hurry up!{NOTE:ビーツ先輩早く！}
-Dialogue: 0,0:16:26.44,0:16:28.61,Default,(mixed),0,0,0,,– Are you serious?\N– Nariki!{NOTE:何ですって!?ナリキが!?}
-Dialogue: 0,0:16:28.61,0:16:31.86,Default,Beats,0,0,0,,I am! He's all alone!{NOTE:そうだあいつは一人で…}
-Dialogue: 0,0:16:31.86,0:16:33.32,Default,Mille,0,0,0,,Hyoro, let's go!{NOTE:ヒョロ行くわよ！}
-Dialogue: 0,0:16:33.32,0:16:34.78,Default,Hyoro,0,0,0,,Yeah!{NOTE:分かった！}
-Dialogue: 0,0:16:35.70,0:16:36.83,Default,Mille,0,0,0,,Ride On!{NOTE:ライドオン！}
-Dialogue: 0,0:16:38.99,0:16:40.04,Default,Mille,0,0,0,,Seregios!{NOTE:セルレギオス！}
-Dialogue: 0,0:16:40.70,0:16:41.83,Default,Hyoro,0,0,0,,Ride On!{NOTE:ライドオン！}
-Dialogue: 0,0:16:43.71,0:16:45.08,Default,Hyoro,0,0,0,,Zinogre!{NOTE:ジンオウガ！}
-Dialogue: 0,0:16:46.59,0:16:49.21,Default,Beats,0,0,0,,H-Hey, take me with you!{NOTE:ちょっ…おい！待てってんだよ！}
-Dialogue: 0,0:16:56.05,0:17:00.14,Default,Beats,0,0,0,,{\i1}A Rider and their Monstie must be one in both mind and body!{NOTE:ライダーとオトモンは一心同体にならなきゃな。}
-Dialogue: 0,0:17:00.14,0:17:01.89,Default,Nariki,0,0,0,,Beats-Senpai…{NOTE:ビーツ先輩…}
-Dialogue: 0,0:17:01.89,0:17:04.77,Default,Nariki,0,0,0,,Drome! I want to protect the village!{NOTE:ランポ！俺は村を守りたい！}
-Dialogue: 0,0:17:04.77,0:17:06.98,Default,Nariki,0,0,0,,And so do you, right?{NOTE:お前もそうだろ！ランポ！}
-Dialogue: 0,0:17:20.70,0:17:23.08,Default,Nariki,0,0,0,,{\i1}I guess that's the limit of Drome's stamina…{NOTE:ランポのスタミナも限界か…}
-Dialogue: 0,0:17:27.54,0:17:29.92,Default,Wrath,0,0,0,,Say your prayers, Lute!{NOTE:観念したかリュート！}
-Dialogue: 0,0:17:29.92,0:17:31.13,Default,Nariki,0,0,0,,Let's do it, Drome!{NOTE:いくぞランポ！}
-Dialogue: 0,0:17:38.05,0:17:40.68,Default,Nariki,0,0,0,,Veloci-slash!{NOTE:ドスラーッシュ！}
-Dialogue: 0,0:17:46.69,0:17:47.81,Default,Nariki,0,0,0,,Yes!{NOTE:よし！}
-Dialogue: 0,0:17:55.36,0:17:58.78,Default,Wrath,0,0,0,,Eh, that was disappointing.{NOTE:何だずいぶんあっけねえじゃねえか｡}
-Dialogue: 0,0:17:58.78,0:18:02.49,Default,Wrath,0,0,0,,Lute, I'm going to take your Kinship Stone.{NOTE:リュートお前の絆石はもらうぜ｡}
-Dialogue: 0,0:18:02.49,0:18:03.95,Default,Wrath,0,0,0,,Huh!?{NOTE:あら!?}
-Dialogue: 0,0:18:03.95,0:18:06.50,Default,Wrath,0,0,0,,Aren't you that brat from before!{NOTE:さっきのがきじゃねえか！}
-Dialogue: 0,0:18:07.83,0:18:09.42,Default,Nariki,0,0,0,,And you fell for it!{NOTE:引っ掛かったな！}
-Dialogue: 0,0:18:09.42,0:18:13.67,Default,Nariki,0,0,0,,You're so stupid you thought I was Lute, and chased me all the way here!{NOTE:リュート先輩と間違えてここまで追っ掛けてきたバカライダー！}
-Dialogue: 0,0:18:13.67,0:18:16.38,Default,Wrath,0,0,0,,Say what!?{NOTE:んだとおおおぉ！}
-Dialogue: 0,0:18:18.39,0:18:23.72,Default,Wrath,0,0,0,,I'm going to rip that cocky mouth of yours off!{NOTE:弱っちろいがきのくせに減らず口ばっかたたきやがって！}
-Dialogue: 0,0:18:23.72,0:18:27.77,Default,Wrath,0,0,0,,Actually, whatever. I'm taking your Kinship Stone.{NOTE:まあいい｡てめえの絆石も頂いてやる｡}
-Dialogue: 0,0:18:27.77,0:18:31.61,Default,Wrath,0,0,0,,And your Velocidrome will serve as a lunch for my Gland.{NOTE:それからてめえのドスランポスはグランの餌だ！}
-Dialogue: 0,0:18:31.61,0:18:33.78,Default,Nariki,0,0,0,,S-Stop it…{NOTE:よ…よせっ…}
-Dialogue: 0,0:18:38.49,0:18:39.36,Default,Mille,0,0,0,,This ends now!{NOTE:そこまでよ！}
-Dialogue: 0,0:18:41.95,0:18:44.04,Default,Mille,0,0,0,,You held out well, Nariki.{NOTE:頑張ったわねナリキ｡}
-Dialogue: 0,0:18:44.04,0:18:45.33,Default,Nariki,0,0,0,,Mille-Senpai!{NOTE:ミル先輩！}
-Dialogue: 0,0:18:45.33,0:18:48.33,Default,Wrath,0,0,0,,Hmph. More Riders?{NOTE:フン｡まだライダーがいたのかよ｡}
-Dialogue: 0,0:18:54.42,0:18:56.22,Default,Nariki,0,0,0,,Hyoro-Senpai!{NOTE:ヒョロ先輩！}
-Dialogue: 0,0:18:59.59,0:19:00.80,Default,Nariki,0,0,0,,What!?{NOTE:何!?}
-Dialogue: 0,0:19:02.89,0:19:04.97,Default,Wrath,0,0,0,,Now we're talking!{NOTE:こうでなくちゃいけねえな！}
-Dialogue: 0,0:19:12.31,0:19:14.73,Default,Mille,0,0,0,,He's strong.{NOTE:何てパワーなの｡}
-Dialogue: 0,0:19:14.73,0:19:17.69,Default,Wrath,0,0,0,,Come at me, you cheeky brats!{NOTE:しゃらくせえ！まとめてこい！}
-Dialogue: 0,0:19:17.69,0:19:18.95,Default,Mille,0,0,0,,Don't underestimate us!{NOTE:なめないで！}
-Dialogue: 0,0:19:20.41,0:19:22.32,Default,Wrath,0,0,0,,Dragon Breath!{NOTE:拡散龍ブレス！}
-Dialogue: 0,0:19:25.62,0:19:29.33,Default,Wrath,0,0,0,,Geez, fighting such a boring battle on an empty stomach.{NOTE:すきっ腹のときにつまらねえまねしやがって！}
-Dialogue: 0,0:19:29.33,0:19:32.54,Default,Wrath,0,0,0,,Your three measly Kinship Stones don't make up for that.{NOTE:てめえら３人のかす絆石じゃ足りねえ！}
-Dialogue: 0,0:19:32.54,0:19:36.21,Default,Wrath,0,0,0,,After we're done here, I'm going to Hakum.{NOTE:腹いせにハクム村ぶっつぶしてやるぜ！}
-Dialogue: 0,0:19:36.21,0:19:38.38,Default,Nariki,0,0,0,,It's hopeless. Everything's over…{NOTE:駄目だかなわない…}
-Dialogue: 0,0:19:40.09,0:19:41.30,Default,Wrath,0,0,0,,That's right.{NOTE:そうよ！}
-Dialogue: 0,0:19:41.30,0:19:45.76,Default,Wrath,0,0,0,,No matter how much you brats struggle,\Nnothing's gonna change!{NOTE:雑魚がどんなにあがこうが何も変わりゃしねえんだよ！}
-Dialogue: 0,0:19:47.81,0:19:51.40,Default,Beats,0,0,0,,Nariki! It's too early to give up!{NOTE:ナリキ！諦めんのはまだ早いぜ！}
-Dialogue: 0,0:19:51.40,0:19:53.15,Default,(unison),0,0,0,,Tadaa!{NOTE:ババーン！}
-Dialogue: 0,0:19:53.15,0:19:54.65,Default,Spex,0,0,0,,…a sound effect?{NOTE:効果音…}
-Dialogue: 0,0:19:54.65,0:19:56.73,Default,Beats,0,0,0,,Sorry to keep you waiting!{NOTE:待たせたな！}
-Dialogue: 0,0:19:56.73,0:19:57.99,Default,Nariki,0,0,0,,Beats-Senpai!{NOTE:ビーツ先輩！}
-Dialogue: 0,0:20:00.32,0:20:02.66,Default,Beats,0,0,0,,Eat this!{NOTE:食らえー！}
-Dialogue: 0,0:20:02.66,0:20:04.49,Default,Wrath,0,0,0,,A Barrel Bomb!?{NOTE:タル爆弾!?}
-Dialogue: 0,0:20:04.49,0:20:05.74,Default,Beats,0,0,0,,Get down!{NOTE:はい伏せ！}
-Dialogue: 0,0:20:13.13,0:20:13.92,Default,Beats,0,0,0,,Hey.{NOTE:おい｡}
-Dialogue: 0,0:20:15.09,0:20:17.17,Default,Spex,0,0,0,,I wonder if we made the fuse too long?{NOTE:導火線が長過ぎたゴロニャ｡}
-Dialogue: 0,0:20:17.96,0:20:21.18,Default,Wrath,0,0,0,,You pesky Felynes!{NOTE:このﾎﾟﾝｺﾂｱｲﾙｰどもが！}
-Dialogue: 0,0:20:21.18,0:20:23.30,Default,Nariki,0,0,0,,What are you doing?{NOTE:何やってるんすか！先輩！}
-Dialogue: 0,0:20:23.30,0:20:24.97,Default,Beats,0,0,0,,It's all part of the plan!{NOTE:想定内だ！}
-Dialogue: 0,0:20:24.97,0:20:26.81,Default,Beats,0,0,0,,But you did well, Nariki.{NOTE:ナリキよく頑張った！}
-Dialogue: 0,0:20:26.81,0:20:29.89,Default,Beats,0,0,0,,So now, just leave it to Beats!{NOTE:ここから先はこのビーツさまに任せとけ！}
-Dialogue: 0,0:20:29.89,0:20:32.02,Default,Nariki,0,0,0,,Whatever it is, please don't!{NOTE:えっやめてください！}
-Dialogue: 0,0:20:32.02,0:20:34.19,Default,Nariki,0,0,0,,He's too strong!{NOTE:あいつめちゃくちゃ強いっす！}
-Dialogue: 0,0:20:34.19,0:20:35.61,Default,Nariki,0,0,0,,Fighting back is reckless!{NOTE:無理っすよ！}
-Dialogue: 0,0:20:35.61,0:20:36.90,Default,Beats,0,0,0,,You idiot!{NOTE:バカヤロー！}
-Dialogue: 0,0:20:36.90,0:20:38.44,Default,Beats,0,0,0,,Have a little faith in me!{NOTE:俺を信じろ！}
-Dialogue: 0,0:20:38.44,0:20:39.86,Default,Nariki,0,0,0,,Huh?{NOTE:あっ｡}
-Dialogue: 0,0:20:39.86,0:20:42.57,Default,Beats,0,0,0,,The flame within me cannot be extinguished!{NOTE:輝く炎は情熱の証し！}
-Dialogue: 0,0:20:42.57,0:20:43.66,Default,Beats,0,0,0,,Just watch me!{NOTE:よく見とけ！}
-Dialogue: 0,0:20:43.66,0:20:44.95,Default,Nariki,0,0,0,,Beats-Senpai!{NOTE:ビーツ先輩！}
-Dialogue: 0,0:20:57.67,0:20:59.30,Default,Wrath,0,0,0,,Idiot!{NOTE:バカが！}
-Dialogue: 0,0:20:59.30,0:21:00.96,Default,Wrath,0,0,0,,You didn't even reach me!{NOTE:届いてねえじゃねえか！}
-Dialogue: 0,0:21:07.51,0:21:10.14,Default,Nariki,0,0,0,,Beats-Senpai!{NOTE:ビーツ先輩！}
-Dialogue: 0,0:21:10.14,0:21:12.23,Default,Beats,0,0,0,,Did you see that, Nariki?{NOTE:見たかナリキ…}
-Dialogue: 0,0:21:12.23,0:21:15.19,Default,Beats,0,0,0,,With enough spirit, you can do anything.{NOTE:やる気があれば何でもできる…}
-Dialogue: 0,0:21:15.19,0:21:18.90,Default,Beats,0,0,0,,I believe in you.{NOTE:俺はお前のこと信じてるぜ…}
-Dialogue: 0,0:21:20.65,0:21:22.15,Default,Nariki,0,0,0,,Beats-Senpai!{NOTE:ビーツ先輩！}
-Dialogue: 0,0:21:23.65,0:21:25.49,Default,Hyoro,0,0,0,,Did he get him!?{NOTE:やっつけた!?}
-Dialogue: 0,0:21:25.49,0:21:27.28,Default,Wrath,0,0,0,,Sync Ride!{NOTE:シンクライド！}
-Dialogue: 0,0:21:30.95,0:21:33.16,Default,Mille,0,0,0,,Deviljho is breathing flames!?{NOTE:イビルジョーが炎を吐いてる!?}
-Dialogue: 0,0:21:33.16,0:21:34.37,Default,Hyoro,0,0,0,,The Rite of Channeling!?{NOTE:伝承の儀!?}
-Dialogue: 0,0:21:40.84,0:21:43.09,Default,Wrath,0,0,0,,My Gland with your Monsties?{NOTE:俺とグランをお前らが？}
-Dialogue: 0,0:21:43.09,0:21:44.68,Default,Wrath,0,0,0,,No way, no way!{NOTE:ねえねえねえ！}
-Dialogue: 0,0:21:44.68,0:21:47.76,Default,Wrath,0,0,0,,Not in a hundred years!{NOTE:未来永劫あり得ねえ！}
-Dialogue: 0,0:21:47.76,0:21:51.35,Default,Wrath,0,0,0,,Alright, let's have your Kinship Stones.{NOTE:さーて絆石をもらおうか｡}
-Dialogue: 0,0:21:54.43,0:21:56.31,Default,Nariki,0,0,0,,After what you did to Beats-Senpai?{NOTE:ビーツ先輩をよくも！}
-Dialogue: 0,0:21:56.31,0:21:58.19,Default,Nariki,0,0,0,,Not in a hundred years?{NOTE:未来永劫だと？}
-Dialogue: 0,0:21:58.19,0:22:00.40,Default,Nariki,0,0,0,,You're in for disappointment!{NOTE:あとでほえ面かくなよ！}
-Dialogue: 0,0:22:00.40,0:22:03.90,Default,Wrath,0,0,0,,You're the one who's in for disappointment!{NOTE:ほえ面かくのはてめえだくそがき!!}
-Dialogue: 0,0:22:11.83,0:22:14.83,Default,Wrath,0,0,0,,Oh no, I'm so hungry…{NOTE:あ…あっ？あああ…｡は…腹減ったぁ…｡}
-Dialogue: 0,0:22:17.88,0:22:19.25,Default,Wrath,0,0,0,,It's no use.{NOTE:駄目。}
-Dialogue: 0,0:22:19.25,0:22:23.13,Default,Wrath,0,0,0,,Gland can't fight on empty stomach…{NOTE:グランの空腹まで流れ込んできやがる…}
-Dialogue: 0,0:22:25.34,0:22:27.38,Default,Wrath,0,0,0,,And I can't fight off hunger either!{NOTE:耐えられねえ～！}
-Dialogue: 0,0:22:30.39,0:22:31.81,Default,Hyoro,0,0,0,,Did they just…{NOTE:えっこれって…｡}
-Dialogue: 0,0:22:31.81,0:22:33.47,Default,Mille,0,0,0,,…escape?{NOTE:逃げたってこと？}
-Dialogue: 0,0:22:36.23,0:22:37.85,Default,Nariki,0,0,0,,Beats-Senpai.{NOTE:ビーツ先輩…}
-Dialogue: 0,0:22:37.85,0:22:39.48,Default,Nariki,0,0,0,,What a strong guy you were.{NOTE:惜しい人を｡}
-Dialogue: 0,0:22:41.77,0:22:43.82,Default,Beats,0,0,0,,Don't kill me off just yet.{NOTE:まだ生きてるよ。}
-Dialogue: 0,0:22:43.82,0:22:44.99,Default,Nariki,0,0,0,,Senpai!{NOTE:先輩！}
-Dialogue: 0,0:22:49.16,0:22:52.91,Default,Nariki,0,0,0,,Beats-Senpai, I'm sorry for saying all those things.{NOTE:ビーツ先輩ひどいこと言ってすみませんでした｡}
-Dialogue: 0,0:22:52.91,0:22:55.04,Default,Nariki,0,0,0,,How are your injuries?{NOTE:ケガ大丈夫っすか？}
-Dialogue: 0,0:22:55.04,0:22:57.66,Default,Beats,0,0,0,,This ain't nothing.{NOTE:なーにどうってことねえよ！}
-Dialogue: 0,0:22:57.66,0:23:00.17,Default,Beats,0,0,0,,It just itches a little.{NOTE:ちょっと毛が焦げただけだ｡}
-Dialogue: 0,0:23:00.17,0:23:03.63,Default,Beats,0,0,0,,But more importantly, thanks to you and Drome…{NOTE:それよりお前とランポの頑張りがあったからこそ…}
-Dialogue: 0,0:23:03.63,0:23:06.42,Default,Beats,0,0,0,,…we were able to fend off the Ebon Riders.{NOTE:…ブラックライダーズを退けることができたんだ｡}
-Dialogue: 0,0:23:06.42,0:23:08.05,Default,Nariki,0,0,0,,Y-Yeah!{NOTE:う…うっす！}
-Dialogue: 0,0:23:09.76,0:23:13.81,Default,Beats,0,0,0,,Too bad I didn't get to see it myself this time.{NOTE:とはいえ今回のところは見逃してもらったようなもんだ｡}
-Dialogue: 0,0:23:13.81,0:23:16.18,Default,Beats,0,0,0,,So how about we go all out again tomorrow!?{NOTE:あしたからまたビシバシいくぞ！}
-Dialogue: 0,0:23:16.18,0:23:17.23,Default,Nariki,0,0,0,,Yeah!{NOTE:うっす！}
-Dialogue: 0,0:23:19.02,0:23:22.81,Default,Beats,0,0,0,,Let's aim to be the best team in the world!{NOTE:俺たちで世界一のチームを目指そうぜ！}
-Dialogue: 0,0:23:22.81,0:23:24.36,Default,Nariki,0,0,0,,Yeah!{NOTE:うっす！}
-Comment: 0,0:23:26.99,0:23:26.99,Default,Chapter,0,0,0,,#Black screen
-Comment: 0,0:23:28.99,0:23:28.99,Default,Chapter,0,0,0,,Preview
-Dialogue: 0,0:23:29.70,0:23:30.82,Default,Debli,80,80,80,,I'm Debli!{NOTE:俺デブリ！}
-Dialogue: 0,0:23:30.82,0:23:32.74,Default,Debli,80,80,80,,Not Deb. {\i1}Debli{\i0}!{NOTE:デブじゃねえぞデブリだ！}
-Dialogue: 0,0:23:32.74,0:23:35.04,Default,Debli,80,80,80,,What!? Avinia's kidnapped?{NOTE:何!?アユリアがさらわれた!?}
-Dialogue: 0,0:23:35.04,0:23:36.41,Default,Debli,80,80,80,,I can't leave things like this!{NOTE:こうしちゃいられないぜ！}
-Dialogue: 0,0:23:36.41,0:23:38.29,Default,Debli,80,80,80,,Ooh! Avinia!{NOTE:うお～！アユリア！}
-Dialogue: 0,0:23:38.29,0:23:39.92,Default,Debli,80,80,80,,I'm coming for you!{NOTE:今行くぞ！}
-Dialogue: 0,0:23:39.92,0:23:43.00,Default,Debli,80,80,80,,Next time:\N"For Avinia!" Ride On!{NOTE:次回｢アユリアの為に！｣にライドオン！}
-Comment: 0,0:23:44.00,0:23:44.00,Default,Chapter,0,0,0,,#Sponsors
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}#Sponsors
+Comment: 0,0:00:03.00,0:00:03.00,Default,Chapter,0,0,0,,{TIME:3000,3000}Intro
+Dialogue: 0,0:00:04.21,0:00:06.34,Default,Narrator,80,80,80,,{TIME:4210,6340}These kids are called Riders.{NOTE:少年たちはライダー。}
+Dialogue: 0,0:00:06.34,0:00:10.51,Default,Narrator,80,80,80,,{TIME:6340,10510}And they form kinship with monsters.{NOTE:モンスターと絆を結びし者たちである。}
+Dialogue: 0,0:00:10.51,0:00:16.60,Default,Narrator,80,80,80,,{TIME:10510,16600}Riders known as the Ebon Riders keep challenging our heroes one after another.{NOTE:ブラックライダーズと名乗るライダーが次々とリュートたちに戦いを挑んできた。}
+Dialogue: 0,0:00:16.60,0:00:20.35,Default,Narrator,80,80,80,,{TIME:16600,20350}Gale and his Monstie Dusk…{NOTE:ブラックライダーズのゲイルとそのオトモンダスクの前に…}
+Dialogue: 0,0:00:20.35,0:00:28.02,Default,Narrator,80,80,80,,{TIME:20350,28020}…have already defeated Lute and snatched Kinship Stones from Dan, Nole, Genie and Stone.{NOTE:リュートは傷つきダンノールｼﾞｰﾆｰｽﾄｰﾝはその絆石を奪われてしまった。}
+Dialogue: 0,0:00:28.02,0:00:33.28,Default,Narrator,80,80,80,,{TIME:28020,33280}Meanwhile, Riders of Hakum Village are targeted by another Ebon Rider.{NOTE:その後もﾌﾞﾗｯｸﾗｲﾀﾞｰｽﾞに狙われるハクム村のﾗｲﾀﾞｰたち。}
+Dialogue: 0,0:00:33.28,0:00:35.86,Default,Narrator,80,80,80,,{TIME:33280,35860}And so the crisis continues…{NOTE:彼らの危機はまだまだ続く。}
+Dialogue: 0,0:00:37.45,0:00:40.29,Default,Wrath,0,0,0,,{TIME:37450,40290}So, Hakum village is at the foot of this hill, huh?{NOTE:あの峰の麓がハクム村か…}
+Dialogue: 0,0:00:43.58,0:00:46.38,Default,Wrath,0,0,0,,{TIME:43580,46380}Just you wait, Lute.{NOTE:首洗って待っとけよリュート｡}
+Comment: 0,0:00:47.04,0:00:47.04,Default,Chapter,0,0,0,,{TIME:47040,47040}Opening
+Dialogue: 0,0:00:50.30,0:00:57.73,Default,,0,0,0,,{TIME:50300,57730}{\fad(2500,0)}Monster Hunter Stories: Ride On{NOTE:モンスターハンターストーリーズ：RIDEON}
+Dialogue: 0,0:01:00.90,0:01:04.20,OP/ED Romaji,,0,0,0,,{TIME:60900,64200}{\k40}Bo{\k20}ku{\k20}ra {\k43}kyou {\k20}mo {\k16}i{\k20}ki{\k23}te{\k20}i{\k106}ru
+Dialogue: 0,0:01:04.20,0:01:07.43,OP/ED Romaji,,0,0,0,,{TIME:64200,67430}{\k30}Bo{\k20}ku{\k23}ra {\k40}kyou {\k23}mo {\k20}wa{\k30}ra{\k26}tte{\k110}ru
+Dialogue: 0,0:01:07.43,0:01:11.93,OP/ED Romaji,,0,0,0,,{TIME:67430,71930}{\k26}So{\k20}re {\k19}da{\k23}ke {\k16}de {\k40}mou {\k40}na{\k40}ni{\k36}mo {\k43}i{\k63}ra{\k26}na{\k53}i
+Dialogue: 0,0:01:11.93,0:01:13.80,OP/ED Romaji,,0,0,0,,{TIME:71930,73800}{\k20}I{\k16}ma {\k23}su{\k20}gu {\k16}ni {\k43}RIDE {\k46}ON
+Dialogue: 0,0:01:13.80,0:01:17.10,OP/ED Romaji,,0,0,0,,{TIME:73800,77100}{\k30}Bo{\k23}ku{\k16}ra {\k43}su{\k20}gu {\k23}ni {\k16}mo{\k20}to{\k20}me{\k116}ru
+Dialogue: 0,0:01:17.10,0:01:20.30,OP/ED Romaji,,0,0,0,,{TIME:77100,80300}{\k20}Yo{\k23}ku{\k20}ba{\k36}ri{\k23}na {\k16}i{\k26}ki{\k20}mo{\k23}no {\k110}sa
+Dialogue: 0,0:01:20.30,0:01:26.33,OP/ED Romaji,,0,0,0,,{TIME:80300,86330}{\k23}Na{\k20}ni{\k20}mo {\k16}mo{\k20}ta{\k23}zu{\k20}ni {\k38}u{\k42}ma{\k40}re{\k20}te{\k19}ki{\k57}ta {\k22}no {\k220}ni
+Dialogue: 0,0:01:26.33,0:01:28.10,OP/ED Romaji,,0,0,0,,{TIME:86330,88100}{\k24}Shi{\k30}a{\k33}wa{\k46}se {\k43}wa
+Dialogue: 0,0:01:28.10,0:01:31.17,OP/ED Romaji,,0,0,0,,{TIME:88100,91170}{\k26}So{\k20}ba {\k20}ni {\k36}a{\k36}tte {\k23}chi{\k20}ka{\k20}ku {\k20}ni {\k40}a{\k43}tte
+Dialogue: 0,0:01:31.17,0:01:34.57,OP/ED Romaji,,0,0,0,,{TIME:91170,94570}{\k16}Ta{\k16}i{\k23}se{\k23}tsu{\k16}na {\k20}mo{\k20}no {\k23}ho{\k20}do {\k16}mi{\k20}e{\k20}na{\k20}ku{\k23}na{\k20}ru {\k20}ke{\k20}do
+Dialogue: 0,0:01:34.57,0:01:35.87,OP/ED Romaji,,0,0,0,,{TIME:94570,95870}{\k30}Kan{\k23}sha {\k43}shi{\k23}te
+Dialogue: 0,0:01:35.87,0:01:40.90,OP/ED Romaji,,0,0,0,,{TIME:95870,100900}{\k30}Na{\k16}ni {\k20}ga {\k20}o{\k20}ki{\k36}ta{\k23}tte {\k20}wa{\k36}ka{\k23}tte {\k16}ku{\k40}re{\k36}ru {\k66}hi{\k23}to {\k73}he
+Dialogue: 0,0:01:40.90,0:01:43.90,OP/ED Romaji,,0,0,0,,{TIME:100900,103900}{\k23}Da{\k20}re {\k20}ni {\k40}da{\k40}tte {\k23}ni{\k16}ge{\k16}ta{\k23}ku{\k40}na{\k36}tte
+Dialogue: 0,0:01:43.90,0:01:47.33,OP/ED Romaji,,0,0,0,,{TIME:103900,107330}{\k23}Ji{\k36}bun {\k20}wo {\k23}mi{\k16}u{\k23}shi{\k20}na{\k13}i{\k46}sou {\k20}ni {\k16}na{\k23}ru {\k20}ke{\k40}do
+Dialogue: 0,0:01:47.33,0:01:55.30,OP/ED Romaji,,0,0,0,,{TIME:107330,115300}{\k56}A{\k23}i {\k60}wa {\k20}ka{\k56}na{\k23}ra{\k60}zu {\k23}ki{\k36}mi {\k35}no {\k47}ko{\k36}ko{\k53}ro {\k29}ni {\k50}a{\k29}ru {\k146}yo
+Dialogue: 0,0:01:55.30,0:02:00.53,OP/ED Romaji,,0,0,0,,{TIME:115300,120530}{\k43}Bo{\k36}ku{\k40}ra {\k83}i{\k40}ssho {\k60}ni {\k16}a{\k23}ru{\k16}i{\k26}te{\k13}i{\k40}kou {\k83}yo
+Dialogue: 0,0:02:00.53,0:02:06.13,OP/ED Romaji,,0,0,0,,{TIME:120530,126130}{\k20}O{\k20}na{\k53}ji {\k23}so{\k20}ra {\k16}no {\k26}shi{\k56}ta {\k20}o{\k20}na{\k36}ji {\k23}so{\k23}ra {\k20}wo {\k20}mi{\k20}a{\k40}ge{\k19}na{\k20}ga{\k60}ra
+Dialogue: 0,0:02:06.13,0:02:11.20,OP/ED Romaji,,0,0,0,,{TIME:126130,131200}{\k16}U{\k20}tsu{\k23}ku{\k36}shi{\k20}i {\k33}i{\k26}ro {\k23}no {\k26}ki{\k33}zu{\k20}na {\k26}ka{\k30}zo{\k23}e{\k60}te{\k20}i{\k66}you
+Dialogue: 0,0:02:11.20,0:02:14.43,OP/ED Romaji,,0,0,0,,{TIME:131200,134430}{\k56}Shi{\k33}a{\k30}wa{\k50}se {\k46}wa {\k30}i{\k43}tsu{\k33}mo
+Dialogue: 0,0:02:14.43,0:02:17.53,OP/ED Romaji,,0,0,0,,{TIME:134430,137530}{\k26}So{\k23}ba {\k20}ni {\k40}a{\k36}tte {\k23}chi{\k20}ka{\k23}ku {\k20}ni {\k33}a{\k43}tte
+Dialogue: 0,0:02:17.53,0:02:20.93,OP/ED Romaji,,0,0,0,,{TIME:137530,140930}{\k20}Ta{\k10}i{\k26}se{\k23}tsu{\k20}na {\k20}mo{\k20}no {\k23}ho{\k20}do {\k16}mi{\k20}e{\k23}na{\k20}ku{\k16}na{\k20}ru {\k20}ke{\k20}do
+Dialogue: 0,0:02:20.93,0:02:22.33,OP/ED Romaji,,0,0,0,,{TIME:140930,142330}{\k33}Kan{\k20}sha {\k46}shi{\k40}te
+Dialogue: 0,0:02:22.33,0:02:27.37,OP/ED Romaji,,0,0,0,,{TIME:142330,147370}{\k23}Na{\k20}ni {\k16}ga {\k20}o{\k20}ki{\k40}ta{\k20}tte {\k20}wa{\k36}ka{\k23}tte{\k20}ku{\k43}re{\k33}ru {\k60}hi{\k23}to {\k83}he
+Dialogue: 0,0:02:27.37,0:02:30.30,OP/ED Romaji,,0,0,0,,{TIME:147370,150300}{\k20}Da{\k20}re {\k20}ni {\k30}da{\k46}tte {\k20}ni{\k23}ge{\k16}ta{\k20}ku{\k40}na{\k23}tte
+Dialogue: 0,0:02:30.30,0:02:33.77,OP/ED Romaji,,0,0,0,,{TIME:150300,153770}{\k26}Ji{\k36}bun {\k23}wo {\k16}mi{\k13}u{\k30}shi{\k20}na{\k13}i{\k46}sou {\k16}ni {\k20}na{\k20}ru {\k23}ke{\k40}do
+Dialogue: 0,0:02:33.77,0:02:41.70,OP/ED Romaji,,0,0,0,,{TIME:153770,161700}{\k56}A{\k20}i {\k60}wa {\k20}ka{\k56}na{\k23}ra{\k60}zu {\k23}ki{\k40}mi {\k36}no {\k36}ko{\k40}ko{\k60}ro {\k26}ni {\k56}a{\k23}ru {\k153}yo
+Dialogue: 0,0:02:41.70,0:02:46.98,OP/ED Romaji,,0,0,0,,{TIME:161700,166980}{\fad(0,400)\k46}Bo{\k36}ku{\k43}ra {\k80}i{\k40}ssho {\k56}ni {\k13}a{\k30}ru{\k20}i{\k16}te{\k20}i{\k43}kou {\k123}yo
+Dialogue: 0,0:01:00.90,0:01:04.20,OP/ED English,,0,0,0,,{TIME:60900,64200}We are still living today{NOTE:僕ら今日も生きている}
+Dialogue: 0,0:01:04.20,0:01:07.43,OP/ED English,,0,0,0,,{TIME:64200,67430}We are still laughing today{NOTE:僕ら今日も笑ってる}
+Dialogue: 0,0:01:07.43,0:01:11.93,OP/ED English,,0,0,0,,{TIME:67430,71930}We don't need anything more{NOTE:それだけでもう何もいらない}
+Dialogue: 0,0:01:11.93,0:01:13.80,OP/ED English,,0,0,0,,{TIME:71930,73800}Just RIDE ON{NOTE:今すぐRIDEON}
+Dialogue: 0,0:01:13.80,0:01:17.10,OP/ED English,,0,0,0,,{TIME:73800,77100}We're quick to want{NOTE:僕らすぐに求める}
+Dialogue: 0,0:01:17.10,0:01:20.30,OP/ED English,,0,0,0,,{TIME:77100,80300}This feeling is only natural{NOTE:欲張りな生き物さ}
+Dialogue: 0,0:01:20.30,0:01:26.33,OP/ED English,,0,0,0,,{TIME:80300,86330}We're born without anything after all{NOTE:何も持たずに生まれてきたのに}
+Dialogue: 0,0:01:26.33,0:01:28.10,OP/ED English,,0,0,0,,{TIME:86330,88100}Happiness is{NOTE:幸せは}
+Dialogue: 0,0:01:28.10,0:01:31.17,OP/ED English,,0,0,0,,{TIME:88100,91170}To be by your side, to be close to you{NOTE:そばにあって　近くにあって}
+Dialogue: 0,0:01:31.17,0:01:34.57,OP/ED English,,0,0,0,,{TIME:91170,94570}Not to lose sight of what is really important{NOTE:大切なものほど見えなくなるけど}
+Dialogue: 0,0:01:34.57,0:01:35.87,OP/ED English,,0,0,0,,{TIME:94570,95870}To be grateful{NOTE:感謝して}
+Dialogue: 0,0:01:35.87,0:01:40.90,OP/ED English,,0,0,0,,{TIME:95870,100900}To the person who understands no matter what happens{NOTE:何が起きたって分かってくれる人へ}
+Dialogue: 0,0:01:40.90,0:01:43.90,OP/ED English,,0,0,0,,{TIME:100900,103900}Everyone is afraid{NOTE:誰にだって　逃げたくなって}
+Dialogue: 0,0:01:43.90,0:01:47.33,OP/ED English,,0,0,0,,{TIME:103900,107330}To lose sight of oneself{NOTE:自分を見失いそうになるけど}
+Dialogue: 0,0:01:47.33,0:01:55.30,OP/ED English,,0,0,0,,{TIME:107330,115300}But you will surely find love in your heart{NOTE:愛は必ず君の心にあるよ}
+Dialogue: 0,0:01:55.30,0:02:00.53,OP/ED English,,0,0,0,,{TIME:115300,120530}Come walk with us{NOTE:僕ら一緒に歩いていこうよ}
+Dialogue: 0,0:02:00.53,0:02:06.13,OP/ED English,,0,0,0,,{TIME:120530,126130}We're under the same sky, we look at the same stars{NOTE:同じ空のした　同じ空を見上げながら}
+Dialogue: 0,0:02:06.13,0:02:11.20,OP/ED English,,0,0,0,,{TIME:126130,131200}Let's keep this beautifully colored bond{NOTE:美しい色の絆　数えていよう}
+Dialogue: 0,0:02:11.20,0:02:14.43,OP/ED English,,0,0,0,,{TIME:131200,134430}Happiness is forever{NOTE:幸せはいつも}
+Dialogue: 0,0:02:14.43,0:02:17.53,OP/ED English,,0,0,0,,{TIME:134430,137530}To be by your side, to be close to you{NOTE:そばにあって　近くにあって}
+Dialogue: 0,0:02:17.53,0:02:20.93,OP/ED English,,0,0,0,,{TIME:137530,140930}Not to lose sight of what is really important{NOTE:大切なものほど見えなくなるけど}
+Dialogue: 0,0:02:20.93,0:02:22.33,OP/ED English,,0,0,0,,{TIME:140930,142330}To be grateful{NOTE:感謝して}
+Dialogue: 0,0:02:22.33,0:02:27.37,OP/ED English,,0,0,0,,{TIME:142330,147370}To the person who understands no matter what happens{NOTE:何が起きたって分かってくれるひとへ}
+Dialogue: 0,0:02:27.37,0:02:30.30,OP/ED English,,0,0,0,,{TIME:147370,150300}Everyone is afraid{NOTE:誰にだって　逃げたくなって}
+Dialogue: 0,0:02:30.30,0:02:33.77,OP/ED English,,0,0,0,,{TIME:150300,153770}Of losing sight of oneself{NOTE:自分を見失いそうになるけど}
+Dialogue: 0,0:02:33.77,0:02:41.70,OP/ED English,,0,0,0,,{TIME:153770,161700}But you will surely find love in your heart{NOTE:愛は必ず君の心にあるよ}
+Dialogue: 0,0:02:41.70,0:02:46.98,OP/ED English,,0,0,0,,{TIME:161700,166980}{\fad(0,400)}Come walk with us{NOTE:僕ら一緒に歩いていこうよ}
+Comment: 0,0:02:49.04,0:02:49.04,Default,Chapter,0,0,0,,{TIME:169040,169040}#Sponsors
+Comment: 0,0:03:03.97,0:03:03.97,Default,Chapter,0,0,0,,{TIME:183970,183970}#Black screen
+Comment: 0,0:03:05.97,0:03:05.97,Default,Chapter,0,0,0,,{TIME:185970,185970}Part A
+Dialogue: 0,0:03:06.43,0:03:10.47,Episode,,0,0,0,,{TIME:186430,190470}{\pos(595,480)\fad(600,600)}\NEpisode 53\N"Hang in there, Velocidrome!"
+Dialogue: 0,0:03:09.14,0:03:10.19,Default,Beats,0,0,0,,{TIME:189140,190190}Listen up!{NOTE:いいか！}
+Dialogue: 0,0:03:10.19,0:03:12.98,Default,Beats,0,0,0,,{TIME:190190,192980}Try dodging my attacks!{NOTE:今から俺が繰り出す攻撃をかわすんだ！}
+Dialogue: 0,0:03:12.98,0:03:15.40,Default,Beats,0,0,0,,{TIME:192980,195400}And do it as if it were an actual battle!{NOTE:実戦のつもりで気合入れてけ！}
+Dialogue: 0,0:03:15.40,0:03:16.90,Default,Nariki,0,0,0,,{TIME:195400,196900}O…kay.{NOTE:う…うっす｡}
+Dialogue: 0,0:03:16.90,0:03:19.49,Default,Beats,0,0,0,,{TIME:196900,199490}Geez, what's with that lousy response?{NOTE:何だ何だ！そのふ抜けた返事は！}
+Dialogue: 0,0:03:20.70,0:03:24.70,Default,Nariki,0,0,0,,{TIME:200700,204700}I mean, it's my first time\NI'm partnering up with a Felyne.{NOTE:ていうか自分ｱｲﾙｰの相棒って初めてなんすけど｡}
+Dialogue: 0,0:03:24.70,0:03:29.87,Default,Beats,0,0,0,,{TIME:204700,209870}Relax. It's my first time partnering up with a Rider too.{NOTE:ハッ安心しろ｡俺もライダーの相棒は初めてだ｡}
+Dialogue: 0,0:03:29.87,0:03:32.96,Default,Nariki,0,0,0,,{TIME:209870,212960}How is this supposed to make me feel better?{NOTE:そんなの全然安心できないっすよ｡}
+Dialogue: 0,0:03:32.96,0:03:36.17,Default,Beats,0,0,0,,{TIME:212960,216170}Hey, hey, that's why we're training in first place, right?{NOTE:おいおいだからこその訓練だろ｡}
+Dialogue: 0,0:03:36.17,0:03:40.26,Default,Beats,0,0,0,,{TIME:216170,220260}We'll build trust between us through blood, sweat and tears.{NOTE:共に汗を流し互いの心を通じ合わせる｡}
+Dialogue: 0,0:03:40.26,0:03:43.14,Default,Beats,0,0,0,,{TIME:220260,223140}Let's aim for the sky!{NOTE:一緒にライダーの星目指そうぜ！}
+Dialogue: 0,0:03:44.76,0:03:45.97,Default,Nariki,0,0,0,,{TIME:224760,225970}But sweat stinks.{NOTE:くさいっすよ｡}
+Dialogue: 0,0:03:45.97,0:03:49.31,Default,Beats,0,0,0,,{TIME:225970,229310}Kids these days…{NOTE:今どき世代だなお前…}
+Dialogue: 0,0:03:49.31,0:03:51.85,Default,Beats,0,0,0,,{TIME:229310,231850}Nevermind, just Ride On.{NOTE:ほらライドオンしろ！ライドオン！}
+Dialogue: 0,0:03:51.85,0:03:52.77,Default,Nariki,0,0,0,,{TIME:231850,232770}Mkay…{NOTE:うっす…}
+Dialogue: 0,0:03:53.60,0:03:54.94,Default,Nariki,0,0,0,,{TIME:233600,234940}Ride On!{NOTE:ライドオン！}
+Dialogue: 0,0:03:57.07,0:03:58.23,Default,Nariki,0,0,0,,{TIME:237070,238230}Velocidrome!{NOTE:ドスランポス！}
+Dialogue: 0,0:04:05.53,0:04:06.45,Default,Hyoro,0,0,0,,{TIME:245530,246450}What's that?{NOTE:何だ？}
+Dialogue: 0,0:04:08.29,0:04:11.16,Default,Beats,0,0,0,,{TIME:248290,251160}Nariki! Look closely at the attacks!{NOTE:ナリキ！攻撃をよく見ろ！}
+Dialogue: 0,0:04:11.16,0:04:13.29,Default,Nariki,0,0,0,,{TIME:251160,253290}O-Okay.{NOTE:う…うっす…}
+Dialogue: 0,0:04:13.29,0:04:15.33,Default,Beats,0,0,0,,{TIME:253290,255330}All right, one more time!{NOTE:さあもう一度だ！}
+Dialogue: 0,0:04:15.33,0:04:16.21,Default,Nariki,0,0,0,,{TIME:255330,256210}Yeah.{NOTE:うす｡}
+Dialogue: 0,0:04:18.42,0:04:21.38,Default,Spex,0,0,0,,{TIME:258420,261380}Looks like Nariki's nibbling on the basics.{NOTE:ナリキさん食らい付いてってるゴロニャ｡}
+Dialogue: 0,0:04:21.38,0:04:23.13,Default,Floof,0,0,0,,{TIME:261380,263130}Hang in there-nyaa.{NOTE:ファイトでしゅニャ｡}
+Dialogue: 0,0:04:23.13,0:04:24.26,Default,Mille,0,0,0,,{TIME:263130,264260}Spex.{NOTE:ピント｡}
+Dialogue: 0,0:04:24.26,0:04:25.84,Default,Spex,0,0,0,,{TIME:264260,265840}Ah, it's you, Mille.{NOTE:あっミルさん｡}
+Dialogue: 0,0:04:25.84,0:04:27.97,Default,Mille,0,0,0,,{TIME:265840,267970}What are those two up to?{NOTE:ナリキたち何してんの？}
+Dialogue: 0,0:04:27.97,0:04:29.89,Default,Spex,0,0,0,,{TIME:267970,269890}They're training.{NOTE:訓練だゴロニャ｡}
+Dialogue: 0,0:04:29.89,0:04:33.56,Default,Floof,0,0,0,,{TIME:269890,273560}Beats is trying to fire Nariki up.{NOTE:ビーツがナリキさんに気合を入れてるんでしゅニャ｡}
+Dialogue: 0,0:04:45.82,0:04:50.20,Default,Beats,0,0,0,,{TIME:285820,290200}Even if your Velocidrome can dodge it,\Nit's no use if you can't dodge it too.{NOTE:ドスランポスがよけられてもお前がよけられなきゃ意味ねえだろ。}
+Dialogue: 0,0:04:50.20,0:04:51.33,Default,Beats,0,0,0,,{TIME:290200,291330}Listen!{NOTE:いいか！}
+Dialogue: 0,0:04:51.33,0:04:55.50,Default,Beats,0,0,0,,{TIME:291330,295500}A Rider and their Monstie must be one in both mind and body!{NOTE:ライダーとオトモンは一心同体でなきゃいけねえ！}
+Dialogue: 0,0:04:55.50,0:04:57.08,Default,Beats,0,0,0,,{TIME:295500,297080}Got it?{NOTE:分かるか?}
+Dialogue: 0,0:04:57.08,0:04:59.13,Default,Nariki,0,0,0,,{TIME:297080,299130}Y-Yeah.{NOTE:う…うっす｡}
+Dialogue: 0,0:04:59.13,0:05:01.17,Default,Beats,0,0,0,,{TIME:299130,301170}Alright! Next!{NOTE:もういい！次だ！}
+Dialogue: 0,0:05:02.30,0:05:04.80,Default,Beats,0,0,0,,{TIME:302300,304800}This time we'll train your jumping.{NOTE:次はジャンプの訓練だ｡}
+Dialogue: 0,0:05:04.80,0:05:07.55,Default,Beats,0,0,0,,{TIME:304800,307550}Jump over that obstacle while running at full speed.{NOTE:全力疾走であの障害を跳び越えろ｡}
+Dialogue: 0,0:05:07.55,0:05:08.76,Default,Nariki,0,0,0,,{TIME:307550,308760}Got it.{NOTE:うっす｡}
+Dialogue: 0,0:05:08.76,0:05:10.93,Default,Floof,0,0,0,,{TIME:308760,310930}Good luck-nyaa…{NOTE:頑張るでしゅニャ～｡}
+Dialogue: 0,0:05:11.93,0:05:13.93,Default,Nariki,0,0,0,,{TIME:311930,313930}You can do it, Drome.{NOTE:いけるよな？ランポ｡}
+Dialogue: 0,0:05:15.10,0:05:17.15,Default,Nariki,0,0,0,,{TIME:315100,317150}All right, let's go, Drome!{NOTE:よし！行けランポ！}
+Dialogue: 0,0:05:19.48,0:05:20.90,Default,Beats,0,0,0,,{TIME:319480,320900}Alright! Jump!{NOTE:よし！跳べ！}
+Dialogue: 0,0:05:41.34,0:05:43.59,Default,Mille,0,0,0,,{TIME:341340,343590}This should be okay for now.{NOTE:取りあえずこれでよしっと｡}
+Dialogue: 0,0:05:43.59,0:05:44.76,Default,Hyoro,0,0,0,,{TIME:343590,344760}Are you okay?{NOTE:大丈夫？}
+Dialogue: 0,0:05:44.76,0:05:46.97,Default,Nariki,0,0,0,,{TIME:344760,346970}Y-Yeah…{NOTE:うっす…}
+Dialogue: 0,0:05:46.97,0:05:48.34,Default,(mixed),0,0,0,,{TIME:346970,348340}– Pat!\N– Argh!{NOTE:—ほい｡\\N—うっ！}
+Dialogue: 0,0:05:48.34,0:05:49.85,Default,Mille,0,0,0,,{TIME:348340,349850}Ah, sorry.{NOTE:ああごめん｡}
+Dialogue: 0,0:05:49.85,0:05:51.01,Default,Hyoro,0,0,0,,{TIME:349850,351010}I guess you're not okay…{NOTE:だいじょばないね｡}
+Dialogue: 0,0:05:53.06,0:05:54.31,Default,Beats,0,0,0,,{TIME:353060,354310}Tsk.{NOTE:チッ…}
+Dialogue: 0,0:05:54.31,0:05:55.48,Default,Beats,0,0,0,,{TIME:354310,355480}How pathetic.{NOTE:情けねえ｡}
+Dialogue: 0,0:05:59.52,0:06:00.69,Default,Hyoro,0,0,0,,{TIME:359520,360690}Beats…{NOTE:ビーツ｡}
+Dialogue: 0,0:06:00.69,0:06:02.98,Default,Hyoro,0,0,0,,{TIME:360690,362980}Nariki is still learning.{NOTE:ナリキはライダーになりたてなんだ｡}
+Dialogue: 0,0:06:02.98,0:06:05.53,Default,Hyoro,0,0,0,,{TIME:362980,365530}Be a little more understanding.{NOTE:もうちょっと優しくしてあげなよ｡}
+Dialogue: 0,0:06:05.53,0:06:07.74,Default,Beats,0,0,0,,{TIME:365530,367740}I have to be tough on him.{NOTE:厳しくしなきゃ駄目だ｡}
+Dialogue: 0,0:06:07.74,0:06:09.03,Default,Hyoro,0,0,0,,{TIME:367740,369030}Beats…{NOTE:ビーツ…}
+Dialogue: 0,0:06:10.28,0:06:12.12,Default,Beats,0,0,0,,{TIME:370280,372120}Don't you get it?{NOTE:だってそうだろ？}
+Dialogue: 0,0:06:12.12,0:06:15.12,Default,Beats,0,0,0,,{TIME:372120,375120}The Ebon Riders are still hunting for Kinship Stones.{NOTE:ブラックライダーズが絆石狩りしてるってのに…}
+Dialogue: 0,0:06:15.12,0:06:17.25,Default,Beats,0,0,0,,{TIME:375120,377250}And we can't get help from Lute or anyone else.{NOTE:…リュートたちは村にいない｡}
+Dialogue: 0,0:06:17.25,0:06:20.25,Default,Beats,0,0,0,,{TIME:377250,380250}Pampering isn't a luxury that Nariki gets right now.{NOTE:そんなときに甘やかす時間なんかないんだよ｡}
+Dialogue: 0,0:06:20.25,0:06:22.42,Default,Hyoro,0,0,0,,{TIME:380250,382420}You sure are strict.{NOTE:ビーツは厳しいゴロニャ｡}
+Dialogue: 0,0:06:22.42,0:06:24.84,Default,Floof,0,0,0,,{TIME:382420,384840}I feel sorry for Nariki-nyaa.{NOTE:ナリキさんがかわいそうでしゅニャ｡}
+Dialogue: 0,0:06:24.84,0:06:25.76,Default,Beats,0,0,0,,{TIME:384840,385760}Hmph.{NOTE:フン｡}
+Dialogue: 0,0:06:35.14,0:06:39.23,Default,Nariki,0,0,0,,{TIME:395140,399230}You know, Drome… you could listen to me a little more.{NOTE:ランポ…お前もう少し言うこと聞いてくれよな｡}
+Dialogue: 0,0:06:41.31,0:06:42.69,Default,Nariki,0,0,0,,{TIME:401310,402690}Okay?{NOTE:いいか？}
+Dialogue: 0,0:06:42.69,0:06:48.65,Default,Nariki,0,0,0,,{TIME:402690,408650}Me, Mille and Hyoro are the only ones\Nin the village with Kinship Stones.{NOTE:村で絆石持ってるのもう自分とミル先輩ヒョロ先輩しか残ってないんだ｡}
+Dialogue: 0,0:06:48.65,0:06:51.37,Default,Nariki,0,0,0,,{TIME:408650,411370}So we can't take it slow right now.{NOTE:気長になんてやってられないんだぞ｡}
+Dialogue: 0,0:06:52.57,0:06:54.91,Default,Nariki,0,0,0,,{TIME:412570,414910}Are you even listening?{NOTE:お前話聞いてないだろ？}
+Dialogue: 0,0:06:58.00,0:06:59.29,Default,Dan,0,0,0,,{TIME:418000,419290}What's wrong, Nariki?{NOTE:どうした？ナリキ。}
+Dialogue: 0,0:06:59.29,0:07:01.00,Default,Dan,0,0,0,,{TIME:419290,421000}I heard you sighing.{NOTE:ため息なんかついて｡}
+Dialogue: 0,0:07:01.00,0:07:02.54,Default,Nariki,0,0,0,,{TIME:421000,422540}Dan.{NOTE:ダン先輩｡}
+Dialogue: 0,0:07:02.54,0:07:07.26,Default,Dan,0,0,0,,{TIME:422540,427260}I know you want to get strong right now,\Nbut you shouldn't rush it.{NOTE:強くなりたいという気持ちは分かるが焦りは禁物だぞ｡}
+Dialogue: 0,0:07:07.26,0:07:09.05,Default,Nariki,0,0,0,,{TIME:427260,429050}Don't rush it, huh…{NOTE:焦りっつうか…}
+Dialogue: 0,0:07:12.14,0:07:14.60,Default,Nariki,0,0,0,,{TIME:432140,434600}Aren't Velocidromes pretty weak?{NOTE:ドスランポスって弱くないっすか？}
+Dialogue: 0,0:07:14.60,0:07:16.22,Default,Dan,0,0,0,,{TIME:434600,436220}Hey, hey.{NOTE:待て待て｡}
+Dialogue: 0,0:07:16.22,0:07:19.48,Default,Dan,0,0,0,,{TIME:436220,439480}Velocidrome is a nice and easy to handle Monstie.{NOTE:ドスランポスは扱いやすいいいオトモンだぞ｡}
+Dialogue: 0,0:07:19.48,0:07:22.06,Default,Nariki,0,0,0,,{TIME:439480,442060}I can't handle it at all though.{NOTE:全然扱いやすくないっすよ｡}
+Dialogue: 0,0:07:22.06,0:07:25.27,Default,Nariki,0,0,0,,{TIME:442060,445270}He has no breaths and he can't fly either.{NOTE:ブレスも吐けないし空も飛べない｡}
+Dialogue: 0,0:07:25.27,0:07:28.90,Default,Nariki,0,0,0,,{TIME:445270,448900}No much how hard we try, this Monstie…{NOTE:オトモンがそんなんじゃいくら頑張ったところで…}
+Dialogue: 0,0:07:28.90,0:07:32.78,Default,Dan,0,0,0,,{TIME:448900,452780}Hey! A Monstie's strength doesn't come from its attacks.{NOTE:こら！オトモンの強さはモンスターの強さじゃない｡}
+Dialogue: 0,0:07:32.78,0:07:35.83,Default,Dan,0,0,0,,{TIME:452780,455830}It's built on the kinship with their Riders.{NOTE:ライダーとオトモンの絆の力だ｡}
+Dialogue: 0,0:07:35.83,0:07:40.46,Default,Dan,0,0,0,,{TIME:455830,460460}Besides, Velocidromes are much\Nfaster than most monsters.{NOTE:それにドスランポスはスピードならたいていのモンスターよりも速い｡}
+Dialogue: 0,0:07:40.46,0:07:44.71,Default,Nariki,0,0,0,,{TIME:460460,464710}Beats-Senpai says so too,\Nbut tapping into that speed isn't easy.{NOTE:ビーツ先輩もそう言うけど簡単にできないっす｡}
+Dialogue: 0,0:07:44.71,0:07:46.04,Default,Nariki,0,0,0,,{TIME:464710,466040}I have no talent for it.{NOTE:才能ないんす！}
+Dialogue: 0,0:07:54.76,0:07:57.10,Default,Dan,0,0,0,,{TIME:474760,477100}I'm sorry, Nariki.{NOTE:すまんなナリキ｡}
+Dialogue: 0,0:07:57.10,0:07:59.22,Default,Dan,0,0,0,,{TIME:477100,479220}I'm the one who dragged you into this.{NOTE:お前には無理をさせている｡}
+Dialogue: 0,0:08:00.18,0:08:03.69,Default,Dan,0,0,0,,{TIME:480180,483690}Normally the defense of the village is our job.{NOTE:本来なら村の守りは俺たちの仕事だ｡}
+Dialogue: 0,0:08:03.69,0:08:06.19,Default,Dan,0,0,0,,{TIME:483690,486190}But, we let them take our Kinship Stones…{NOTE:だが俺たちの絆石は…}
+Dialogue: 0,0:08:07.82,0:08:12.61,Default,Dan,0,0,0,,{TIME:487820,492610}Mille and Hyoro will also leave the\hvillage soon to help Lute's group.{NOTE:ミルもヒョロもリュートたちを助けるためにまた村を出ていくだろう｡}
+Dialogue: 0,0:08:12.61,0:08:17.12,Default,Dan,0,0,0,,{TIME:492610,497120}At that time you will be the only Rider left in this village.{NOTE:そうなったらこの村に残されたライダーはお前だけなんだ｡}
+Dialogue: 0,0:08:17.12,0:08:20.16,Default,Dan,0,0,0,,{TIME:497120,500160}So I know how hard it is, but please do your best.{NOTE:だからつらいのは分かるが頑張ってくれ｡}
+Dialogue: 0,0:08:22.08,0:08:23.50,Default,Nariki,0,0,0,,{TIME:502080,503500}I understand.{NOTE:分かったっす｡}
+Dialogue: 0,0:08:23.50,0:08:25.88,Default,Nariki,0,0,0,,{TIME:503500,505880}I will do my best for the sake of our village.{NOTE:自分村のために頑張るっす｡}
+Dialogue: 0,0:08:26.92,0:08:27.79,Default,Dan,0,0,0,,{TIME:506920,507790}Sorry.{NOTE:すまん｡}
+Dialogue: 0,0:08:33.38,0:08:35.22,Default,Beats,0,0,0,,{TIME:513380,515220}Come on, come on!{NOTE:そらそら！どうした！}
+Dialogue: 0,0:08:35.22,0:08:37.18,Default,Beats,0,0,0,,{TIME:515220,517180}Increase your speed!{NOTE:もっとスピードを上げろ！}
+Dialogue: 0,0:08:37.18,0:08:39.52,Default,Nariki,0,0,0,,{TIME:517180,519520}Drome, let's go faster!{NOTE:ランポ！もっと速くだ！}
+Dialogue: 0,0:08:43.06,0:08:44.39,Default,Nariki,0,0,0,,{TIME:523060,524390}{\i1}Stronger…{NOTE:もっとだ…}
+Dialogue: 0,0:08:44.39,0:08:46.10,Default,Nariki,0,0,0,,{TIME:524390,526100}{\i1}I need to get stronger.{NOTE:もっと強くなるんだ！}
+Dialogue: 0,0:08:52.99,0:08:57.32,Default,Nariki,0,0,0,,{TIME:532990,537320}{\i1}When that happens, we'll be able to get our seniors' Kinship Stones back.{NOTE:強くなって先輩たちの絆石を取り戻すんだ。}
+Dialogue: 0,0:09:02.00,0:09:03.12,Default,Beats,0,0,0,,{TIME:542000,543120}T-This is bad!{NOTE:ん!?まずい！}
+Dialogue: 0,0:09:03.12,0:09:05.96,Default,Beats,0,0,0,,{TIME:543120,545960}When you go that fast,\Nyou have to give out orders sooner!{NOTE:スピードを出すなら指示は早めに出さないと！}
+Dialogue: 0,0:09:09.50,0:09:10.88,Default,Nariki,0,0,0,,{TIME:549500,550880}Drome! Righ—{NOTE:ランポ！右だ—}
+Dialogue: 0,0:09:10.88,0:09:13.26,Default,Nariki,0,0,0,,{TIME:550880,553260}R—Ow!\N…l-left.{NOTE:右…左…｡}
+Dialogue: 0,0:09:19.10,0:09:21.89,Default,Nariki,0,0,0,,{TIME:559100,561890}Drome! Left! Right! Left!{NOTE:ランポ！右左右…！}
+Dialogue: 0,0:09:29.48,0:09:31.23,Default,Nariki,0,0,0,,{TIME:569480,571230}Hey, Drome!{NOTE:おいランポ！}
+Dialogue: 0,0:09:31.23,0:09:33.36,Default,Nariki,0,0,0,,{TIME:571230,573360}Why don't you listen to me?{NOTE:何で言うことを聞かないんだ！}
+Dialogue: 0,0:09:34.61,0:09:36.61,Default,Nariki,0,0,0,,{TIME:574610,576610}Do you even understand me?{NOTE:何で分からないんだよ！}
+Dialogue: 0,0:09:36.61,0:09:38.37,Default,Beats,0,0,0,,{TIME:576610,578370}Don't take out your anger on him, Nariki.{NOTE:八つ当たりはよせ！ナリキ！}
+Dialogue: 0,0:09:39.20,0:09:41.99,Default,Beats,0,0,0,,{TIME:579200,581990}It's not Drome's fault.{NOTE:うまくいかないのはランポのせいじゃないだろう｡}
+Dialogue: 0,0:09:41.99,0:09:43.45,Default,Nariki,0,0,0,,{TIME:581990,583450}Ah…{NOTE:あっ…}
+Dialogue: 0,0:09:43.45,0:09:47.96,Default,Beats,0,0,0,,{TIME:583450,587960}You're trying to become faster and stronger, but…{NOTE:お前は自分勝手に速くなろう強くなろうとしているが…}
+Dialogue: 0,0:09:47.96,0:09:50.96,Default,Beats,0,0,0,,{TIME:587960,590960}…unless you change your attitude…{NOTE:…その独り善がりな気持ちをあらためないかぎり…}
+Dialogue: 0,0:09:50.96,0:09:54.97,Default,Beats,0,0,0,,{TIME:590960,594970}…Drome will never listen to you.{NOTE:…いつまでたってもランポはお前の言うことを聞いてはくれないぞ｡}
+Dialogue: 0,0:09:57.43,0:10:01.39,Default,Beats,0,0,0,,{TIME:597430,601390}What's important is strengthening your kinship.{NOTE:大事なことはオトモンとの絆を強くすることだ｡}
+Dialogue: 0,0:10:01.39,0:10:05.77,Default,Beats,0,0,0,,{TIME:601390,605770}Everything else will come naturally after that.{NOTE:そうすれば強さとか速さは自然と後からついてくる｡}
+Dialogue: 0,0:10:05.77,0:10:06.73,Default,Beats,0,0,0,,{TIME:605770,606730}You got that?{NOTE:分かるか？}
+Dialogue: 0,0:10:11.32,0:10:13.57,Default,Beats,0,0,0,,{TIME:611320,613570}Hey, I can't hear you!{NOTE:おい！返事が聞こえねえぞ！}
+Dialogue: 0,0:10:15.90,0:10:18.20,Default,Nariki,0,0,0,,{TIME:615900,618200}I get it…{NOTE:言ってることは分かるんすけど…}
+Dialogue: 0,0:10:18.20,0:10:19.87,Default,Nariki,0,0,0,,{TIME:618200,619870}…but you're {\fs40}g{\fs39}e{\fs38}t{\fs37}t{\fs36}i{\fs35}n{\fs34}g {\fs33}o{\fs32}n {\fs31}m{\fs30}y {\fs29}n{\fs28}e{\fs27}r{\fs26}v{\fs25}e{\fs24}s.{NOTE:…言い方がうざいんすよ｡}
+Dialogue: 0,0:10:21.03,0:10:23.54,Default,Nariki,0,0,0,,{TIME:621030,623540}I said, you're getting on my nerves!{NOTE:だからうざいっす！}
+Dialogue: 0,0:10:24.54,0:10:25.75,Default,Beats,0,0,0,,{TIME:624540,625750}Ah, is that so?{NOTE:あっ…そうなの？}
+Dialogue: 0,0:10:31.00,0:10:33.63,Default,Beats,0,0,0,,{TIME:631000,633630}What the hell!?{NOTE:んだとおおおぉ！}
+Dialogue: 0,0:10:33.63,0:10:35.30,Default,Nariki,0,0,0,,{TIME:633630,635300}Look at you, acting so big!{NOTE:何だよ偉そうに！}
+Dialogue: 0,0:10:35.30,0:10:40.68,Default,Nariki,0,0,0,,{TIME:635300,640680}Kinship this, kinship that! You're not even a Rider so what do you understand about Monsties?{NOTE:絆絆って｡ライダーでもないくせにオトモンの何が分かるんだよ！}
+Dialogue: 0,0:10:40.68,0:10:42.72,Default,Beats,0,0,0,,{TIME:640680,642720}Oh, now you've said it!{NOTE:言ったな！お前！}
+Dialogue: 0,0:10:42.72,0:10:44.47,Default,Nariki,0,0,0,,{TIME:642720,644470}Ah yes, I did!{NOTE:ああ言ったさ！}
+Dialogue: 0,0:10:47.73,0:10:50.31,Default,Beats,0,0,0,,{TIME:647730,650310}All right, fine, do whatever then!{NOTE:だったら勝手にしろってんだ！}
+Dialogue: 0,0:10:50.31,0:10:52.11,Default,Nariki,0,0,0,,{TIME:650310,652110}Yeah, just watch me!{NOTE:ああ勝手にするさ！}
+Dialogue: 0,0:11:02.32,0:11:04.95,Default,Spex,0,0,0,,{TIME:662320,664950}I wonder how Nariki's doing?{NOTE:ナリキさん大丈夫ゴロニャ？}
+Dialogue: 0,0:11:04.95,0:11:08.62,Default,Floof,0,0,0,,{TIME:664950,668620}He's fine. He's very motivated-nyaa.{NOTE:大丈夫でしゅニャ｡張り切ってましたから｡}
+Dialogue: 0,0:11:08.62,0:11:10.83,Default,Floof,0,0,0,,{TIME:668620,670830}Right, Mille-Mille?{NOTE:でしゅよね？ミルミル｡}
+Dialogue: 0,0:11:10.83,0:11:16.59,Default,Mille,0,0,0,,{TIME:670830,676590}As his senior, I can say that he'll be at this for a\hwhile. New Riders just have to deal with training.{NOTE:新米ライダーがどう逆立ちしたってすぐに一人前になんてならないわよ｡}
+Dialogue: 0,0:11:30.64,0:11:31.69,Default,Spex,0,0,0,,{TIME:690640,691690}Beats?{NOTE:フンッ！}
+Dialogue: 0,0:11:32.65,0:11:34.61,Default,Hyoro,0,0,0,,{TIME:692650,694610}Where's Nariki?{NOTE:ナリキはどうしたの？}
+Dialogue: 0,0:11:34.61,0:11:36.44,Default,Beats,0,0,0,,{TIME:694610,696440}Like I care!{NOTE:あんなやつ知るか！}
+Dialogue: 0,0:11:36.44,0:11:39.24,Default,Beats,0,0,0,,{TIME:696440,699240}And here I was trying to do something for him!{NOTE:俺がせっかく訓練してやってるってのに！}
+Dialogue: 0,0:11:39.90,0:11:42.57,Default,Nariki,0,0,0,,{TIME:699900,702570}Damn. Damn. Damn!{NOTE:くそくそくそ！}
+Dialogue: 0,0:11:42.57,0:11:44.03,Default,Nariki,0,0,0,,{TIME:702570,704030}Drome, you're an idiot!{NOTE:ランポのバカ！}
+Dialogue: 0,0:11:44.03,0:11:45.58,Default,Nariki,0,0,0,,{TIME:704030,705580}And Beats-Senpai, you too!{NOTE:ビーツ先輩のバカ！}
+Dialogue: 0,0:11:45.58,0:11:47.08,Default,Wrath,0,0,0,,{TIME:705580,707080}Hey.{NOTE:おい！}
+Dialogue: 0,0:11:47.08,0:11:48.91,Default,Wrath,0,0,0,,{TIME:707080,708910}Who are you calling an idiot?{NOTE:誰がバカだって？}
+Dialogue: 0,0:11:51.37,0:11:53.17,Default,Wrath,0,0,0,,{TIME:711370,713170}Hey, youngster.{NOTE:おい小僧。}
+Dialogue: 0,0:11:53.17,0:11:55.92,Default,Wrath,0,0,0,,{TIME:713170,715920}Do you know which direction Hakum village is in?{NOTE:ハクム村ってどっちか知ってるか？}
+Dialogue: 0,0:12:08.10,0:12:09.98,Default,Nariki,0,0,0,,{TIME:728100,729980}{\i1}An Ebon Rider!{NOTE:ブラックライダーズ！}
+Comment: 0,0:12:09.98,0:12:09.98,Default,Chapter,0,0,0,,{TIME:729980,729980}Eyecatch
+Dialogue: 0,0:12:10.52,0:12:11.48,Default,Cheval,0,0,0,,{TIME:730520,731480}Ride On!{NOTE:ライドオン！}
+Dialogue: 0,0:12:12.82,0:12:13.86,Default,Cheval,0,0,0,,{TIME:732820,733860}Rathian!{NOTE:リオレイア！}
+Comment: 0,0:12:13.98,0:12:13.98,Default,Chapter,0,0,0,,{TIME:733980,733980}#Black screen
+Comment: 0,0:12:15.98,0:12:15.98,Default,Chapter,0,0,0,,{TIME:735980,735980}$Eyecatch
+Dialogue: 0,0:12:18.23,0:12:19.11,Default,Navirou,0,0,0,,{TIME:738230,739110}Nya-ow!{NOTE:ニャグゥ！}
+Comment: 0,0:12:19.99,0:12:19.99,Default,Chapter,0,0,0,,{TIME:739990,739990}Part B
+Dialogue: 0,0:12:20.40,0:12:21.74,Default,Wrath,0,0,0,,{TIME:740400,741740}Hey, youngster.{NOTE:おい坊主｡}
+Dialogue: 0,0:12:21.74,0:12:24.07,Default,Wrath,0,0,0,,{TIME:741740,744070}Have you seen any Riders around here?{NOTE:この辺でライダーを見なかったか？}
+Dialogue: 0,0:12:28.66,0:12:30.37,Default,Wrath,0,0,0,,{TIME:748660,750370}It's strange.{NOTE:おかしいぞ｡}
+Dialogue: 0,0:12:30.37,0:12:32.79,Default,Wrath,0,0,0,,{TIME:750370,752790}You've got Monstie's smell on you.{NOTE:オトモンのにおいがするのになぁ｡}
+Dialogue: 0,0:12:37.88,0:12:40.71,Default,Wrath,0,0,0,,{TIME:757880,760710}It's not like I'm going to eat you!{NOTE:別に取って食ったりはしねえよ！}
+Dialogue: 0,0:12:40.71,0:12:43.76,Default,Wrath,0,0,0,,{TIME:760710,763760}So don't be letting out those anxious odors!{NOTE:ビビったにおいさせてんじゃねえ！}
+Dialogue: 0,0:12:43.76,0:12:45.30,Default,Wrath,0,0,0,,{TIME:763760,765300}Say, youngster.{NOTE:なあ坊主｡}
+Dialogue: 0,0:12:45.30,0:12:47.39,Default,Wrath,0,0,0,,{TIME:765300,767390}Do you know a guy named Lute?{NOTE:リュートってやつ知ってるか？}
+Dialogue: 0,0:12:48.85,0:12:52.06,Default,Wrath,0,0,0,,{TIME:768850,772060}I heard he has one hell of a Kinship Stone.{NOTE:すげえ絆石持ってるらしいんだけどよ。}
+Dialogue: 0,0:12:52.06,0:12:54.10,Default,Wrath,0,0,0,,{TIME:772060,774100}But I guess you don't know where I can find him?{NOTE:どこにいるか分からねえんだ｡}
+Dialogue: 0,0:12:57.90,0:12:58.94,Default,Wrath,0,0,0,,{TIME:777900,778940}I see.{NOTE:そうか…}
+Dialogue: 0,0:12:58.94,0:13:01.15,Default,Wrath,0,0,0,,{TIME:778940,781150}You don't, huh.{NOTE:知らねえか｡}
+Dialogue: 0,0:13:01.15,0:13:03.36,Default,Wrath,0,0,0,,{TIME:781150,783360}Then where's Hakum village?{NOTE:じゃあハクム村はどっちだ？}
+Dialogue: 0,0:13:07.37,0:13:09.45,Default,Nariki,0,0,0,,{TIME:787370,789450}T-That way.{NOTE:そ…そっち｡}
+Dialogue: 0,0:13:09.45,0:13:11.04,Default,Wrath,0,0,0,,{TIME:789450,791040}Hmm?{NOTE:ふーん｡}
+Dialogue: 0,0:13:11.04,0:13:13.54,Default,Wrath,0,0,0,,{TIME:791040,793540}But Hakum village is this way.{NOTE:てこたぁハクム村はこっちだな｡}
+Dialogue: 0,0:13:14.33,0:13:17.25,Default,Wrath,0,0,0,,{TIME:794330,797250}Don't you lie to me, you damn brat!{NOTE:嘘つきやがって！このくそがきが～！}
+Dialogue: 0,0:13:19.42,0:13:20.84,Default,Wrath,0,0,0,,{TIME:799420,800840}Whatever!{NOTE:まあいい｡}
+Dialogue: 0,0:13:20.84,0:13:23.88,Default,Wrath,0,0,0,,{TIME:800840,803880}Gland and I are just getting hungry.{NOTE:俺もグランもちょうど腹が減ってたところだ｡}
+Dialogue: 0,0:13:23.88,0:13:26.84,Default,Wrath,0,0,0,,{TIME:803880,806840}So I'll save Hakum village for later.{NOTE:ハクム村は腹ごしらえの後だ｡}
+Dialogue: 0,0:13:26.84,0:13:30.22,Default,Wrath,0,0,0,,{TIME:806840,810220}You're probably living in Hakum, aren't ya?{NOTE:てめえはおおかたハクム村のがきだろう｡}
+Dialogue: 0,0:13:30.22,0:13:33.31,Default,Wrath,0,0,0,,{TIME:810220,813310}Go on home and tell this to your people:{NOTE:とっとと帰って村のやつらに伝えろ｡}
+Dialogue: 0,0:13:33.31,0:13:35.98,Default,Wrath,0,0,0,,{TIME:813310,815980}As soon as I'm done eating, I'm coming for you.{NOTE:飯食ったらすぐ行ってやる｡}
+Dialogue: 0,0:13:35.98,0:13:38.15,Default,Wrath,0,0,0,,{TIME:815980,818150}And if you try to hide Lute…{NOTE:リュートをかくまったりしてみろ！}
+Dialogue: 0,0:13:38.15,0:13:40.73,Default,Wrath,0,0,0,,{TIME:818150,820730}I'll smash your entire village!{NOTE:村ぶっつぶしてやるってな！}
+Dialogue: 0,0:13:40.73,0:13:42.15,Default,Wrath,0,0,0,,{TIME:820730,822150}Ride On!{NOTE:ライドオン！}
+Dialogue: 0,0:13:42.15,0:13:43.90,Default,Wrath,0,0,0,,{TIME:822150,823900}Deviljho!{NOTE:イビルジョー！}
+Dialogue: 0,0:13:48.66,0:13:50.58,Default,Nariki,0,0,0,,{TIME:828660,830580}A Deviljho as a Monstie…{NOTE:イビルジョーがオトモンだって…}
+Dialogue: 0,0:13:51.70,0:13:53.25,Default,Nariki,0,0,0,,{TIME:831700,833250}I can't leave things like this!{NOTE:こ…こうしちゃいられない！}
+Dialogue: 0,0:13:53.75,0:13:55.00,Default,Nariki,0,0,0,,{TIME:833750,835000}Ride On!{NOTE:ライドオン！}
+Dialogue: 0,0:13:57.04,0:13:58.21,Default,Nariki,0,0,0,,{TIME:837040,838210}Velocidrome!{NOTE:ドスランポス！}
+Dialogue: 0,0:13:59.29,0:14:00.46,Default,Nariki,0,0,0,,{TIME:839290,840460}What should I do?{NOTE:どうする？}
+Dialogue: 0,0:14:00.46,0:14:02.63,Default,Nariki,0,0,0,,{TIME:840460,842630}Well, I guess I should tell the village first.{NOTE:まずは村のみんなに知らせなきゃ｡}
+Dialogue: 0,0:14:02.63,0:14:04.63,Default,Beats,0,0,0,,{TIME:842630,844630}Wait a second, Nariki!{NOTE:待て！ナリキ！}
+Dialogue: 0,0:14:04.63,0:14:06.05,Default,Nariki,0,0,0,,{TIME:844630,846050}Beats-Senpai.{NOTE:ビーツ先輩｡}
+Dialogue: 0,0:14:06.05,0:14:09.47,Default,Beats,0,0,0,,{TIME:846050,849470}Don't you go thinking I came here searching for you.{NOTE:言っとくがお前を捜しに来たわけじゃねえ｡}
+Dialogue: 0,0:14:09.47,0:14:11.26,Default,Beats,0,0,0,,{TIME:849470,851260}I just happened to be in the area.{NOTE:たまたま今のを見てた｡}
+Dialogue: 0,0:14:11.26,0:14:12.76,Default,Nariki,0,0,0,,{TIME:851260,852760}We've got more important things.{NOTE:そんなことより…}
+Dialogue: 0,0:14:12.76,0:14:15.98,Default,Beats,0,0,0,,{TIME:852760,855980}Yeah, I know! I'll go tell Hyoro and Mille!{NOTE:ああ！俺がヒョロとミルに知らせる！}
+Dialogue: 0,0:14:15.98,0:14:20.48,Default,Beats,0,0,0,,{TIME:855980,860480}Until then, keep that guy out of the village!{NOTE:お前はそれまで何とかあいつを足止めして村に近づけるな！}
+Dialogue: 0,0:14:20.48,0:14:22.73,Default,Nariki,0,0,0,,{TIME:860480,862730}But I can't do anything alon—{NOTE:でも先輩自分一人じゃ…｡}
+Dialogue: 0,0:14:22.73,0:14:24.40,Default,Beats,0,0,0,,{TIME:862730,864400}You're not alone!{NOTE:お前は一人じゃねえ！}
+Dialogue: 0,0:14:24.40,0:14:25.15,Default,Nariki,0,0,0,,{TIME:864400,865150}Eh?{NOTE:えっ…}
+Dialogue: 0,0:14:27.24,0:14:28.36,Default,Nariki,0,0,0,,{TIME:867240,868360}Drome.{NOTE:ランポ｡}
+Dialogue: 0,0:14:28.36,0:14:30.66,Default,Beats,0,0,0,,{TIME:868360,870660}That's right! You've got your Monstie!{NOTE:そうだ！お前のオトモンだ！}
+Dialogue: 0,0:14:32.08,0:14:32.87,Default,Beats,0,0,0,,{TIME:872080,872870}Listen up.{NOTE:いいか？}
+Dialogue: 0,0:14:32.87,0:14:35.91,Default,Beats,0,0,0,,{TIME:872870,875910}Nothing can match Velocidrome's speed.{NOTE:ﾄﾞｽﾗﾝﾎﾟｽはｽﾋﾟｰﾄﾞだけなら誰にも負けねえ！}
+Dialogue: 0,0:14:35.91,0:14:38.54,Default,Beats,0,0,0,,{TIME:875910,878540}Use that to your advantage!{NOTE:その可能性に勝負をかけろ！}
+Dialogue: 0,0:14:38.54,0:14:40.67,Default,Beats,0,0,0,,{TIME:878540,880670}Run around and tire him out!{NOTE:走ってやつらを疲れさせるんだ！}
+Dialogue: 0,0:14:40.67,0:14:41.92,Default,Nariki,0,0,0,,{TIME:880670,881920}Y-Yes sir!{NOTE:う…うっす！}
+Dialogue: 0,0:14:41.92,0:14:43.67,Default,Beats,0,0,0,,{TIME:881920,883670}Also, Nariki!{NOTE:それからナリキ！}
+Dialogue: 0,0:14:43.67,0:14:47.84,Default,Beats,0,0,0,,{TIME:883670,887840}I don't think that stubbornness of yours is all that bad, y'know!{NOTE:お前の負けん気だけはいっちょまえなところ嫌いじゃねえ！}
+Dialogue: 0,0:14:47.84,0:14:49.93,Default,Beats,0,0,0,,{TIME:887840,889930}I believe in you!{NOTE:俺はお前を信じているぞ！}
+Dialogue: 0,0:14:52.18,0:14:52.76,Default,Nariki,0,0,0,,{TIME:892180,892760}Y-Yes sir!{NOTE:えっ…うっす！}
+Dialogue: 0,0:14:53.51,0:14:56.98,Default,Beats,0,0,0,,{TIME:893510,896980}You, me and Drome are going to settle this!{NOTE:俺とお前とランポでこの危機を乗り越えるぞ！}
+Dialogue: 0,0:14:56.98,0:14:57.68,Default,Nariki,0,0,0,,{TIME:896980,897680}Yes sir!{NOTE:うっす！}
+Dialogue: 0,0:15:01.27,0:15:03.52,Default,Nariki,0,0,0,,{TIME:901270,903520}Alright, let's do it, Drome!{NOTE:よーし！やるぞランポ！}
+Dialogue: 0,0:15:07.69,0:15:09.32,Default,Wrath,0,0,0,,{TIME:907690,909320}Damn.{NOTE:くそ！}
+Dialogue: 0,0:15:09.32,0:15:12.24,Default,Wrath,0,0,0,,{TIME:909320,912240}I can't find any food around here.{NOTE:この辺りは食い物が全然見当たらねえ！}
+Dialogue: 0,0:15:16.33,0:15:17.16,Default,Wrath,0,0,0,,{TIME:916330,917160}What!?{NOTE:何!?}
+Dialogue: 0,0:15:22.75,0:15:24.25,Default,Wrath,0,0,0,,{TIME:922750,924250}Who are you?{NOTE:誰だ！}
+Dialogue: 0,0:15:24.25,0:15:26.88,Default,Nariki,0,0,0,,{TIME:924250,926880}I-I'm Lute!{NOTE:お…俺はﾘｭｰﾄだ！}
+Dialogue: 0,0:15:26.88,0:15:29.05,Default,Wrath,0,0,0,,{TIME:926880,929050}You're Lute…?{NOTE:てめえがﾘｭｰﾄだと？}
+Dialogue: 0,0:15:29.05,0:15:31.76,Default,Wrath,0,0,0,,{TIME:929050,931760}But I heard you're flying a Rathalos?{NOTE:リオレウスに乗ってるって話だが？}
+Dialogue: 0,0:15:31.76,0:15:35.01,Default,Nariki,0,0,0,,{TIME:931760,935010}My Rathalos has diarrhea!{NOTE:リオレウスは今おなかを壊している！}
+Dialogue: 0,0:15:35.01,0:15:37.18,Default,Wrath,0,0,0,,{TIME:935010,937180}Diarrhea!?{NOTE:腹壊しただぁ!?}
+Dialogue: 0,0:15:37.18,0:15:39.56,Default,Nariki,0,0,0,,{TIME:937180,939560}Y-Yeah! He ate too much!{NOTE:そ…そうだ！食べ過ぎで！}
+Dialogue: 0,0:15:39.56,0:15:41.77,Default,Wrath,0,0,0,,{TIME:939560,941770}Whatever!{NOTE:そんなこたぁどうでもいい！}
+Dialogue: 0,0:15:41.77,0:15:47.03,Default,Wrath,0,0,0,,{TIME:941770,947030}Lute! I'm Wrath, one of the dreaded four Ebon Riders!{NOTE:ﾘｭｰﾄ！ﾌﾞﾗｯｸﾗｲﾀﾞｰｽﾞ四天王が一人ラースさまたぁ俺のことだ！}
+Dialogue: 0,0:15:47.03,0:15:50.36,Default,Wrath,0,0,0,,{TIME:947030,950360}Give up your Kinship Stone!{NOTE:てめえの絆石渡してもらおうか！}
+Dialogue: 0,0:15:50.36,0:15:52.82,Default,Nariki,0,0,0,,{TIME:950360,952820}Heh! Are you nuts?{NOTE:へーん！やなこった！}
+Dialogue: 0,0:15:52.82,0:15:55.83,Default,Nariki,0,0,0,,{TIME:952820,955830}If you want it, you gotta catch me!{NOTE:欲しけりゃ俺についてきな！}
+Dialogue: 0,0:15:55.83,0:15:57.54,Default,Nariki,0,0,0,,{TIME:955830,957540}Let's roll, Drome!{NOTE:逃げるぞランポ！}
+Dialogue: 0,0:16:01.21,0:16:03.00,Default,Wrath,0,0,0,,{TIME:961210,963000}Gland, catch them!{NOTE:グラン追うぞ｡}
+Dialogue: 0,0:16:07.17,0:16:09.21,Default,Nariki,0,0,0,,{TIME:967170,969210}Good, Drome, keep it up!{NOTE:いいぞランポ！その調子！}
+Dialogue: 0,0:16:13.80,0:16:15.55,Default,Wrath,0,0,0,,{TIME:973800,975550}Is that all you've got?{NOTE:おらおらどうした！}
+Dialogue: 0,0:16:15.55,0:16:17.60,Default,Wrath,0,0,0,,{TIME:975550,977600}I've caught up to you already!{NOTE:もう追い付いちまうぞ！}
+Dialogue: 0,0:16:20.48,0:16:22.27,Default,Nariki,0,0,0,,{TIME:980480,982270}{\i1}He's so fast…{NOTE:あんなに速いなんて…}
+Dialogue: 0,0:16:22.27,0:16:24.40,Default,Nariki,0,0,0,,{TIME:982270,984400}{\i1}Beats-Senpai, hurry up!{NOTE:ビーツ先輩早く！}
+Dialogue: 0,0:16:26.44,0:16:28.61,Default,(mixed),0,0,0,,{TIME:986440,988610}– Are you serious?\N– Nariki!{NOTE:何ですって!?ナリキが!?}
+Dialogue: 0,0:16:28.61,0:16:31.86,Default,Beats,0,0,0,,{TIME:988610,991860}I am! He's all alone!{NOTE:そうだあいつは一人で…}
+Dialogue: 0,0:16:31.86,0:16:33.32,Default,Mille,0,0,0,,{TIME:991860,993320}Hyoro, let's go!{NOTE:ヒョロ行くわよ！}
+Dialogue: 0,0:16:33.32,0:16:34.78,Default,Hyoro,0,0,0,,{TIME:993320,994780}Yeah!{NOTE:分かった！}
+Dialogue: 0,0:16:35.70,0:16:36.83,Default,Mille,0,0,0,,{TIME:995700,996830}Ride On!{NOTE:ライドオン！}
+Dialogue: 0,0:16:38.99,0:16:40.04,Default,Mille,0,0,0,,{TIME:998990,1000040}Seregios!{NOTE:セルレギオス！}
+Dialogue: 0,0:16:40.70,0:16:41.83,Default,Hyoro,0,0,0,,{TIME:1000700,1001830}Ride On!{NOTE:ライドオン！}
+Dialogue: 0,0:16:43.71,0:16:45.08,Default,Hyoro,0,0,0,,{TIME:1003710,1005080}Zinogre!{NOTE:ジンオウガ！}
+Dialogue: 0,0:16:46.59,0:16:49.21,Default,Beats,0,0,0,,{TIME:1006590,1009210}H-Hey, take me with you!{NOTE:ちょっ…おい！待てってんだよ！}
+Dialogue: 0,0:16:56.05,0:17:00.14,Default,Beats,0,0,0,,{TIME:1016050,1020140}{\i1}A Rider and their Monstie must be one in both mind and body!{NOTE:ライダーとオトモンは一心同体にならなきゃな。}
+Dialogue: 0,0:17:00.14,0:17:01.89,Default,Nariki,0,0,0,,{TIME:1020140,1021890}Beats-Senpai…{NOTE:ビーツ先輩…}
+Dialogue: 0,0:17:01.89,0:17:04.77,Default,Nariki,0,0,0,,{TIME:1021890,1024770}Drome! I want to protect the village!{NOTE:ランポ！俺は村を守りたい！}
+Dialogue: 0,0:17:04.77,0:17:06.98,Default,Nariki,0,0,0,,{TIME:1024770,1026980}And so do you, right?{NOTE:お前もそうだろ！ランポ！}
+Dialogue: 0,0:17:20.70,0:17:23.08,Default,Nariki,0,0,0,,{TIME:1040700,1043080}{\i1}I guess that's the limit of Drome's stamina…{NOTE:ランポのスタミナも限界か…}
+Dialogue: 0,0:17:27.54,0:17:29.92,Default,Wrath,0,0,0,,{TIME:1047540,1049920}Say your prayers, Lute!{NOTE:観念したかリュート！}
+Dialogue: 0,0:17:29.92,0:17:31.13,Default,Nariki,0,0,0,,{TIME:1049920,1051130}Let's do it, Drome!{NOTE:いくぞランポ！}
+Dialogue: 0,0:17:38.05,0:17:40.68,Default,Nariki,0,0,0,,{TIME:1058050,1060680}Veloci-slash!{NOTE:ドスラーッシュ！}
+Dialogue: 0,0:17:46.69,0:17:47.81,Default,Nariki,0,0,0,,{TIME:1066690,1067810}Yes!{NOTE:よし！}
+Dialogue: 0,0:17:55.36,0:17:58.78,Default,Wrath,0,0,0,,{TIME:1075360,1078780}Eh, that was disappointing.{NOTE:何だずいぶんあっけねえじゃねえか｡}
+Dialogue: 0,0:17:58.78,0:18:02.49,Default,Wrath,0,0,0,,{TIME:1078780,1082490}Lute, I'm going to take your Kinship Stone.{NOTE:リュートお前の絆石はもらうぜ｡}
+Dialogue: 0,0:18:02.49,0:18:03.95,Default,Wrath,0,0,0,,{TIME:1082490,1083950}Huh!?{NOTE:あら!?}
+Dialogue: 0,0:18:03.95,0:18:06.50,Default,Wrath,0,0,0,,{TIME:1083950,1086500}Aren't you that brat from before!{NOTE:さっきのがきじゃねえか！}
+Dialogue: 0,0:18:07.83,0:18:09.42,Default,Nariki,0,0,0,,{TIME:1087830,1089420}And you fell for it!{NOTE:引っ掛かったな！}
+Dialogue: 0,0:18:09.42,0:18:13.67,Default,Nariki,0,0,0,,{TIME:1089420,1093670}You're so stupid you thought I was Lute, and chased me all the way here!{NOTE:リュート先輩と間違えてここまで追っ掛けてきたバカライダー！}
+Dialogue: 0,0:18:13.67,0:18:16.38,Default,Wrath,0,0,0,,{TIME:1093670,1096380}Say what!?{NOTE:んだとおおおぉ！}
+Dialogue: 0,0:18:18.39,0:18:23.72,Default,Wrath,0,0,0,,{TIME:1098390,1103720}I'm going to rip that cocky mouth of yours off!{NOTE:弱っちろいがきのくせに減らず口ばっかたたきやがって！}
+Dialogue: 0,0:18:23.72,0:18:27.77,Default,Wrath,0,0,0,,{TIME:1103720,1107770}Actually, whatever. I'm taking your Kinship Stone.{NOTE:まあいい｡てめえの絆石も頂いてやる｡}
+Dialogue: 0,0:18:27.77,0:18:31.61,Default,Wrath,0,0,0,,{TIME:1107770,1111610}And your Velocidrome will serve as a lunch for my Gland.{NOTE:それからてめえのドスランポスはグランの餌だ！}
+Dialogue: 0,0:18:31.61,0:18:33.78,Default,Nariki,0,0,0,,{TIME:1111610,1113780}S-Stop it…{NOTE:よ…よせっ…}
+Dialogue: 0,0:18:38.49,0:18:39.36,Default,Mille,0,0,0,,{TIME:1118490,1119360}This ends now!{NOTE:そこまでよ！}
+Dialogue: 0,0:18:41.95,0:18:44.04,Default,Mille,0,0,0,,{TIME:1121950,1124040}You held out well, Nariki.{NOTE:頑張ったわねナリキ｡}
+Dialogue: 0,0:18:44.04,0:18:45.33,Default,Nariki,0,0,0,,{TIME:1124040,1125330}Mille-Senpai!{NOTE:ミル先輩！}
+Dialogue: 0,0:18:45.33,0:18:48.33,Default,Wrath,0,0,0,,{TIME:1125330,1128330}Hmph. More Riders?{NOTE:フン｡まだライダーがいたのかよ｡}
+Dialogue: 0,0:18:54.42,0:18:56.22,Default,Nariki,0,0,0,,{TIME:1134420,1136220}Hyoro-Senpai!{NOTE:ヒョロ先輩！}
+Dialogue: 0,0:18:59.59,0:19:00.80,Default,Nariki,0,0,0,,{TIME:1139590,1140800}What!?{NOTE:何!?}
+Dialogue: 0,0:19:02.89,0:19:04.97,Default,Wrath,0,0,0,,{TIME:1142890,1144970}Now we're talking!{NOTE:こうでなくちゃいけねえな！}
+Dialogue: 0,0:19:12.31,0:19:14.73,Default,Mille,0,0,0,,{TIME:1152310,1154730}He's strong.{NOTE:何てパワーなの｡}
+Dialogue: 0,0:19:14.73,0:19:17.69,Default,Wrath,0,0,0,,{TIME:1154730,1157690}Come at me, you cheeky brats!{NOTE:しゃらくせえ！まとめてこい！}
+Dialogue: 0,0:19:17.69,0:19:18.95,Default,Mille,0,0,0,,{TIME:1157690,1158950}Don't underestimate us!{NOTE:なめないで！}
+Dialogue: 0,0:19:20.41,0:19:22.32,Default,Wrath,0,0,0,,{TIME:1160410,1162320}Dragon Breath!{NOTE:拡散龍ブレス！}
+Dialogue: 0,0:19:25.62,0:19:29.33,Default,Wrath,0,0,0,,{TIME:1165620,1169330}Geez, fighting such a boring battle on an empty stomach.{NOTE:すきっ腹のときにつまらねえまねしやがって！}
+Dialogue: 0,0:19:29.33,0:19:32.54,Default,Wrath,0,0,0,,{TIME:1169330,1172540}Your three measly Kinship Stones don't make up for that.{NOTE:てめえら３人のかす絆石じゃ足りねえ！}
+Dialogue: 0,0:19:32.54,0:19:36.21,Default,Wrath,0,0,0,,{TIME:1172540,1176210}After we're done here, I'm going to Hakum.{NOTE:腹いせにハクム村ぶっつぶしてやるぜ！}
+Dialogue: 0,0:19:36.21,0:19:38.38,Default,Nariki,0,0,0,,{TIME:1176210,1178380}It's hopeless. Everything's over…{NOTE:駄目だかなわない…}
+Dialogue: 0,0:19:40.09,0:19:41.30,Default,Wrath,0,0,0,,{TIME:1180090,1181300}That's right.{NOTE:そうよ！}
+Dialogue: 0,0:19:41.30,0:19:45.76,Default,Wrath,0,0,0,,{TIME:1181300,1185760}No matter how much you brats struggle,\Nnothing's gonna change!{NOTE:雑魚がどんなにあがこうが何も変わりゃしねえんだよ！}
+Dialogue: 0,0:19:47.81,0:19:51.40,Default,Beats,0,0,0,,{TIME:1187810,1191400}Nariki! It's too early to give up!{NOTE:ナリキ！諦めんのはまだ早いぜ！}
+Dialogue: 0,0:19:51.40,0:19:53.15,Default,(unison),0,0,0,,{TIME:1191400,1193150}Tadaa!{NOTE:ババーン！}
+Dialogue: 0,0:19:53.15,0:19:54.65,Default,Spex,0,0,0,,{TIME:1193150,1194650}…a sound effect?{NOTE:効果音…}
+Dialogue: 0,0:19:54.65,0:19:56.73,Default,Beats,0,0,0,,{TIME:1194650,1196730}Sorry to keep you waiting!{NOTE:待たせたな！}
+Dialogue: 0,0:19:56.73,0:19:57.99,Default,Nariki,0,0,0,,{TIME:1196730,1197990}Beats-Senpai!{NOTE:ビーツ先輩！}
+Dialogue: 0,0:20:00.32,0:20:02.66,Default,Beats,0,0,0,,{TIME:1200320,1202660}Eat this!{NOTE:食らえー！}
+Dialogue: 0,0:20:02.66,0:20:04.49,Default,Wrath,0,0,0,,{TIME:1202660,1204490}A Barrel Bomb!?{NOTE:タル爆弾!?}
+Dialogue: 0,0:20:04.49,0:20:05.74,Default,Beats,0,0,0,,{TIME:1204490,1205740}Get down!{NOTE:はい伏せ！}
+Dialogue: 0,0:20:13.13,0:20:13.92,Default,Beats,0,0,0,,{TIME:1213130,1213920}Hey.{NOTE:おい｡}
+Dialogue: 0,0:20:15.09,0:20:17.17,Default,Spex,0,0,0,,{TIME:1215090,1217170}I wonder if we made the fuse too long?{NOTE:導火線が長過ぎたゴロニャ｡}
+Dialogue: 0,0:20:17.96,0:20:21.18,Default,Wrath,0,0,0,,{TIME:1217960,1221180}You pesky Felynes!{NOTE:このﾎﾟﾝｺﾂｱｲﾙｰどもが！}
+Dialogue: 0,0:20:21.18,0:20:23.30,Default,Nariki,0,0,0,,{TIME:1221180,1223300}What are you doing?{NOTE:何やってるんすか！先輩！}
+Dialogue: 0,0:20:23.30,0:20:24.97,Default,Beats,0,0,0,,{TIME:1223300,1224970}It's all part of the plan!{NOTE:想定内だ！}
+Dialogue: 0,0:20:24.97,0:20:26.81,Default,Beats,0,0,0,,{TIME:1224970,1226810}But you did well, Nariki.{NOTE:ナリキよく頑張った！}
+Dialogue: 0,0:20:26.81,0:20:29.89,Default,Beats,0,0,0,,{TIME:1226810,1229890}So now, just leave it to Beats!{NOTE:ここから先はこのビーツさまに任せとけ！}
+Dialogue: 0,0:20:29.89,0:20:32.02,Default,Nariki,0,0,0,,{TIME:1229890,1232020}Whatever it is, please don't!{NOTE:えっやめてください！}
+Dialogue: 0,0:20:32.02,0:20:34.19,Default,Nariki,0,0,0,,{TIME:1232020,1234190}He's too strong!{NOTE:あいつめちゃくちゃ強いっす！}
+Dialogue: 0,0:20:34.19,0:20:35.61,Default,Nariki,0,0,0,,{TIME:1234190,1235610}Fighting back is reckless!{NOTE:無理っすよ！}
+Dialogue: 0,0:20:35.61,0:20:36.90,Default,Beats,0,0,0,,{TIME:1235610,1236900}You idiot!{NOTE:バカヤロー！}
+Dialogue: 0,0:20:36.90,0:20:38.44,Default,Beats,0,0,0,,{TIME:1236900,1238440}Have a little faith in me!{NOTE:俺を信じろ！}
+Dialogue: 0,0:20:38.44,0:20:39.86,Default,Nariki,0,0,0,,{TIME:1238440,1239860}Huh?{NOTE:あっ｡}
+Dialogue: 0,0:20:39.86,0:20:42.57,Default,Beats,0,0,0,,{TIME:1239860,1242570}The flame within me cannot be extinguished!{NOTE:輝く炎は情熱の証し！}
+Dialogue: 0,0:20:42.57,0:20:43.66,Default,Beats,0,0,0,,{TIME:1242570,1243660}Just watch me!{NOTE:よく見とけ！}
+Dialogue: 0,0:20:43.66,0:20:44.95,Default,Nariki,0,0,0,,{TIME:1243660,1244950}Beats-Senpai!{NOTE:ビーツ先輩！}
+Dialogue: 0,0:20:57.67,0:20:59.30,Default,Wrath,0,0,0,,{TIME:1257670,1259300}Idiot!{NOTE:バカが！}
+Dialogue: 0,0:20:59.30,0:21:00.96,Default,Wrath,0,0,0,,{TIME:1259300,1260960}You didn't even reach me!{NOTE:届いてねえじゃねえか！}
+Dialogue: 0,0:21:07.51,0:21:10.14,Default,Nariki,0,0,0,,{TIME:1267510,1270140}Beats-Senpai!{NOTE:ビーツ先輩！}
+Dialogue: 0,0:21:10.14,0:21:12.23,Default,Beats,0,0,0,,{TIME:1270140,1272230}Did you see that, Nariki?{NOTE:見たかナリキ…}
+Dialogue: 0,0:21:12.23,0:21:15.19,Default,Beats,0,0,0,,{TIME:1272230,1275190}With enough spirit, you can do anything.{NOTE:やる気があれば何でもできる…}
+Dialogue: 0,0:21:15.19,0:21:18.90,Default,Beats,0,0,0,,{TIME:1275190,1278900}I believe in you.{NOTE:俺はお前のこと信じてるぜ…}
+Dialogue: 0,0:21:20.65,0:21:22.15,Default,Nariki,0,0,0,,{TIME:1280650,1282150}Beats-Senpai!{NOTE:ビーツ先輩！}
+Dialogue: 0,0:21:23.65,0:21:25.49,Default,Hyoro,0,0,0,,{TIME:1283650,1285490}Did he get him!?{NOTE:やっつけた!?}
+Dialogue: 0,0:21:25.49,0:21:27.28,Default,Wrath,0,0,0,,{TIME:1285490,1287280}Sync Ride!{NOTE:シンクライド！}
+Dialogue: 0,0:21:30.95,0:21:33.16,Default,Mille,0,0,0,,{TIME:1290950,1293160}Deviljho is breathing flames!?{NOTE:イビルジョーが炎を吐いてる!?}
+Dialogue: 0,0:21:33.16,0:21:34.37,Default,Hyoro,0,0,0,,{TIME:1293160,1294370}The Rite of Channeling!?{NOTE:伝承の儀!?}
+Dialogue: 0,0:21:40.84,0:21:43.09,Default,Wrath,0,0,0,,{TIME:1300840,1303090}My Gland with your Monsties?{NOTE:俺とグランをお前らが？}
+Dialogue: 0,0:21:43.09,0:21:44.68,Default,Wrath,0,0,0,,{TIME:1303090,1304680}No way, no way!{NOTE:ねえねえねえ！}
+Dialogue: 0,0:21:44.68,0:21:47.76,Default,Wrath,0,0,0,,{TIME:1304680,1307760}Not in a hundred years!{NOTE:未来永劫あり得ねえ！}
+Dialogue: 0,0:21:47.76,0:21:51.35,Default,Wrath,0,0,0,,{TIME:1307760,1311350}Alright, let's have your Kinship Stones.{NOTE:さーて絆石をもらおうか｡}
+Dialogue: 0,0:21:54.43,0:21:56.31,Default,Nariki,0,0,0,,{TIME:1314430,1316310}After what you did to Beats-Senpai?{NOTE:ビーツ先輩をよくも！}
+Dialogue: 0,0:21:56.31,0:21:58.19,Default,Nariki,0,0,0,,{TIME:1316310,1318190}Not in a hundred years?{NOTE:未来永劫だと？}
+Dialogue: 0,0:21:58.19,0:22:00.40,Default,Nariki,0,0,0,,{TIME:1318190,1320400}You're in for disappointment!{NOTE:あとでほえ面かくなよ！}
+Dialogue: 0,0:22:00.40,0:22:03.90,Default,Wrath,0,0,0,,{TIME:1320400,1323900}You're the one who's in for disappointment!{NOTE:ほえ面かくのはてめえだくそがき!!}
+Dialogue: 0,0:22:11.83,0:22:14.83,Default,Wrath,0,0,0,,{TIME:1331830,1334830}Oh no, I'm so hungry…{NOTE:あ…あっ？あああ…｡は…腹減ったぁ…｡}
+Dialogue: 0,0:22:17.88,0:22:19.25,Default,Wrath,0,0,0,,{TIME:1337880,1339250}It's no use.{NOTE:駄目。}
+Dialogue: 0,0:22:19.25,0:22:23.13,Default,Wrath,0,0,0,,{TIME:1339250,1343130}Gland can't fight on empty stomach…{NOTE:グランの空腹まで流れ込んできやがる…}
+Dialogue: 0,0:22:25.34,0:22:27.38,Default,Wrath,0,0,0,,{TIME:1345340,1347380}And I can't fight off hunger either!{NOTE:耐えられねえ～！}
+Dialogue: 0,0:22:30.39,0:22:31.81,Default,Hyoro,0,0,0,,{TIME:1350390,1351810}Did they just…{NOTE:えっこれって…｡}
+Dialogue: 0,0:22:31.81,0:22:33.47,Default,Mille,0,0,0,,{TIME:1351810,1353470}…escape?{NOTE:逃げたってこと？}
+Dialogue: 0,0:22:36.23,0:22:37.85,Default,Nariki,0,0,0,,{TIME:1356230,1357850}Beats-Senpai.{NOTE:ビーツ先輩…}
+Dialogue: 0,0:22:37.85,0:22:39.48,Default,Nariki,0,0,0,,{TIME:1357850,1359480}What a strong guy you were.{NOTE:惜しい人を｡}
+Dialogue: 0,0:22:41.77,0:22:43.82,Default,Beats,0,0,0,,{TIME:1361770,1363820}Don't kill me off just yet.{NOTE:まだ生きてるよ。}
+Dialogue: 0,0:22:43.82,0:22:44.99,Default,Nariki,0,0,0,,{TIME:1363820,1364990}Senpai!{NOTE:先輩！}
+Dialogue: 0,0:22:49.16,0:22:52.91,Default,Nariki,0,0,0,,{TIME:1369160,1372910}Beats-Senpai, I'm sorry for saying all those things.{NOTE:ビーツ先輩ひどいこと言ってすみませんでした｡}
+Dialogue: 0,0:22:52.91,0:22:55.04,Default,Nariki,0,0,0,,{TIME:1372910,1375040}How are your injuries?{NOTE:ケガ大丈夫っすか？}
+Dialogue: 0,0:22:55.04,0:22:57.66,Default,Beats,0,0,0,,{TIME:1375040,1377660}This ain't nothing.{NOTE:なーにどうってことねえよ！}
+Dialogue: 0,0:22:57.66,0:23:00.17,Default,Beats,0,0,0,,{TIME:1377660,1380170}It just itches a little.{NOTE:ちょっと毛が焦げただけだ｡}
+Dialogue: 0,0:23:00.17,0:23:03.63,Default,Beats,0,0,0,,{TIME:1380170,1383630}But more importantly, thanks to you and Drome…{NOTE:それよりお前とランポの頑張りがあったからこそ…}
+Dialogue: 0,0:23:03.63,0:23:06.42,Default,Beats,0,0,0,,{TIME:1383630,1386420}…we were able to fend off the Ebon Riders.{NOTE:…ブラックライダーズを退けることができたんだ｡}
+Dialogue: 0,0:23:06.42,0:23:08.05,Default,Nariki,0,0,0,,{TIME:1386420,1388050}Y-Yeah!{NOTE:う…うっす！}
+Dialogue: 0,0:23:09.76,0:23:13.81,Default,Beats,0,0,0,,{TIME:1389760,1393810}Too bad I didn't get to see it myself this time.{NOTE:とはいえ今回のところは見逃してもらったようなもんだ｡}
+Dialogue: 0,0:23:13.81,0:23:16.18,Default,Beats,0,0,0,,{TIME:1393810,1396180}So how about we go all out again tomorrow!?{NOTE:あしたからまたビシバシいくぞ！}
+Dialogue: 0,0:23:16.18,0:23:17.23,Default,Nariki,0,0,0,,{TIME:1396180,1397230}Yeah!{NOTE:うっす！}
+Dialogue: 0,0:23:19.02,0:23:22.81,Default,Beats,0,0,0,,{TIME:1399020,1402810}Let's aim to be the best team in the world!{NOTE:俺たちで世界一のチームを目指そうぜ！}
+Dialogue: 0,0:23:22.81,0:23:24.36,Default,Nariki,0,0,0,,{TIME:1402810,1404360}Yeah!{NOTE:うっす！}
+Comment: 0,0:23:26.99,0:23:26.99,Default,Chapter,0,0,0,,{TIME:1406990,1406990}#Black screen
+Comment: 0,0:23:28.99,0:23:28.99,Default,Chapter,0,0,0,,{TIME:1408990,1408990}Preview
+Dialogue: 0,0:23:29.70,0:23:30.82,Default,Debli,80,80,80,,{TIME:1409700,1410820}I'm Debli!{NOTE:俺デブリ！}
+Dialogue: 0,0:23:30.82,0:23:32.74,Default,Debli,80,80,80,,{TIME:1410820,1412740}Not Deb. {\i1}Debli{\i0}!{NOTE:デブじゃねえぞデブリだ！}
+Dialogue: 0,0:23:32.74,0:23:35.04,Default,Debli,80,80,80,,{TIME:1412740,1415040}What!? Avinia's kidnapped?{NOTE:何!?アユリアがさらわれた!?}
+Dialogue: 0,0:23:35.04,0:23:36.41,Default,Debli,80,80,80,,{TIME:1415040,1416410}I can't leave things like this!{NOTE:こうしちゃいられないぜ！}
+Dialogue: 0,0:23:36.41,0:23:38.29,Default,Debli,80,80,80,,{TIME:1416410,1418290}Ooh! Avinia!{NOTE:うお～！アユリア！}
+Dialogue: 0,0:23:38.29,0:23:39.92,Default,Debli,80,80,80,,{TIME:1418290,1419920}I'm coming for you!{NOTE:今行くぞ！}
+Dialogue: 0,0:23:39.92,0:23:43.00,Default,Debli,80,80,80,,{TIME:1419920,1423000}Next time:\N"For Avinia!" Ride On!{NOTE:次回｢アユリアの為に！｣にライドオン！}
+Comment: 0,0:23:44.00,0:23:44.00,Default,Chapter,0,0,0,,{TIME:1424000,1424000}#Sponsors

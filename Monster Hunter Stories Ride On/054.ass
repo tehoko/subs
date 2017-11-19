@@ -22,522 +22,522 @@ Style: Episode,Chinacat,50.0,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,#Sponsors
-Comment: 0,0:00:03.02,0:00:03.02,Default,Chapter,0,0,0,,Intro
-Dialogue: 0,0:00:04.19,0:00:06.31,Default,Narrator,80,80,80,,These kids are called Riders.{NOTE:少年たちはライダー。}
-Dialogue: 0,0:00:06.31,0:00:09.69,Default,Narrator,80,80,80,,And they form kinship with monsters.{NOTE:モンスターと絆を結びし者たちである。}
-Dialogue: 0,0:00:09.69,0:00:14.07,Default,Narrator,80,80,80,,One day, Avinia was suddenly kidnapped.{NOTE:ある日突然仲間のアユリアがさらわれてしまった。}
-Dialogue: 0,0:00:14.07,0:00:15.78,Default,(unison),0,0,0,,Avinia!?{NOTE:アユリアが!?}
-Dialogue: 0,0:00:15.78,0:00:22.12,Default,Narrator,80,80,80,,Mysterious Riders who call themselves the Ebon Riders keep appearing one after another.{NOTE:さらに次々現れるブラックライダーズを名乗るなぞ謎のライダーたち。}
-Dialogue: 0,0:00:22.12,0:00:26.63,Default,Narrator,80,80,80,,After being defeated by Gale, Lute meets with Dede Geezer, also known as the Channeler.{NOTE:ゲイルに敗れたリュートは伝承ジイさん、デデ爺の元へ…}
-Dialogue: 0,0:00:26.63,0:00:31.01,Default,Narrator,80,80,80,,There, in the snowy mountains,\Nhe obtains a Channeling Gem…{NOTE:彼から得た絆珠に新たなモンスターの技を入れ込むべく…}
-Dialogue: 0,0:00:31.01,0:00:33.88,Default,Narrator,80,80,80,,…and must learn how to combine skills with other Monsties.{NOTE:…雪山へ修業に向かった。}
-Dialogue: 0,0:00:34.80,0:00:39.26,Default,Narrator,0,0,0,,Meanwhile, Debli is worrying about Avinia.{NOTE:そんな中ずっとｱﾕﾘｱのことが心配なデブリは…}
-Dialogue: 0,0:00:39.26,0:00:41.64,Default,Debli,0,0,0,,I wonder if Avinia is okay…?{NOTE:アユリア大丈夫かなぁ…}
-Dialogue: 0,0:00:41.64,0:00:43.85,Default,Debli,0,0,0,,I hope they didn't do anything to her…{NOTE:ひどいことされてないかなぁ…}
-Dialogue: 0,0:00:45.40,0:00:48.23,Default,Debli,0,0,0,,Like taking away her food…{NOTE:まさかご飯を取り上げられてたり…}
-Dialogue: 0,0:00:48.23,0:00:50.61,Default,Avinia,0,0,0,,Thanks for the fo{\fs35}o{\fs30}o…{\fs44}?{NOTE:いっただっきまーす…}
-Dialogue: 0,0:00:53.36,0:00:56.45,Default,Debli,0,0,0,,H-How cruel!{NOTE:な…何てひどいことを…}
-Dialogue: 0,0:00:56.45,0:00:58.49,Default,Debli,0,0,0,,O-Or maybe…{NOTE:そ-それとも…}
-Dialogue: 0,0:00:58.49,0:01:00.74,Default,Debli,0,0,0,,They put her in a haunted house…{NOTE:お化け部屋に入れられてたり…}
-Dialogue: 0,0:01:00.74,0:01:02.25,Default,Avinia,0,0,0,,I'm scared!{NOTE:怖ーい！}
-Dialogue: 0,0:01:03.62,0:01:05.50,Default,Debli,0,0,0,,Or maybe…!{NOTE:それとも！}
-Dialogue: 0,0:01:05.50,0:01:07.75,Default,Debli,0,0,0,,Something like this…?{NOTE:何かこんな感じで…}
-Dialogue: 0,0:01:14.47,0:01:18.55,Default,Debli,0,0,0,,Those Ebon Riders are such jerks!{NOTE:何てひどいことをするんだブラックライダーズ～！}
-Dialogue: 0,0:01:18.55,0:01:19.97,Default,Debli,0,0,0,,Wait for me, Avinia.{NOTE:待ってろ、アユリア。}
-Dialogue: 0,0:01:19.97,0:01:22.06,Default,Debli,0,0,0,,I'm going to save you!{NOTE:今助けに行くぞ！}
-Dialogue: 0,0:01:22.06,0:01:24.18,Default,Debli,0,0,0,,Ah… wait a second.{NOTE:あっ…おや？}
-Dialogue: 0,0:01:24.18,0:01:26.14,Default,Debli,0,0,0,,Where's Avinia again?{NOTE:アユリアってどこにいるんだ？}
-Dialogue: 0,0:01:27.35,0:01:32.03,Default,Narrator,0,0,0,,Can Debli really save Avinia!?{NOTE:果たしてデブリはアユリアを助け出すことができるのか!?}
-Comment: 0,0:01:32.03,0:01:32.03,Default,Chapter,0,0,0,,Opening
-Dialogue: 0,0:01:35.29,0:01:42.72,Default,,0,0,0,,{\fad(2500,0)}Monster Hunter Stories: Ride On{NOTE:モンスターハンターストーリーズ：RIDEON}
-Dialogue: 0,0:01:45.89,0:01:49.19,OP/ED Romaji,,0,0,0,,{\k40}Bo{\k20}ku{\k20}ra {\k43}kyou {\k20}mo {\k16}i{\k20}ki{\k23}te{\k20}i{\k106}ru
-Dialogue: 0,0:01:49.19,0:01:52.42,OP/ED Romaji,,0,0,0,,{\k30}Bo{\k20}ku{\k23}ra {\k40}kyou {\k23}mo {\k20}wa{\k30}ra{\k26}tte{\k110}ru
-Dialogue: 0,0:01:52.42,0:01:56.92,OP/ED Romaji,,0,0,0,,{\k26}So{\k20}re {\k19}da{\k23}ke {\k16}de {\k40}mou {\k40}na{\k40}ni{\k36}mo {\k43}i{\k63}ra{\k26}na{\k53}i
-Dialogue: 0,0:01:56.92,0:01:58.79,OP/ED Romaji,,0,0,0,,{\k20}I{\k16}ma {\k23}su{\k20}gu {\k16}ni {\k43}RIDE {\k46}ON
-Dialogue: 0,0:01:58.79,0:02:02.09,OP/ED Romaji,,0,0,0,,{\k30}Bo{\k23}ku{\k16}ra {\k43}su{\k20}gu {\k23}ni {\k16}mo{\k20}to{\k20}me{\k116}ru
-Dialogue: 0,0:02:02.09,0:02:05.29,OP/ED Romaji,,0,0,0,,{\k20}Yo{\k23}ku{\k20}ba{\k36}ri{\k23}na {\k16}i{\k26}ki{\k20}mo{\k23}no {\k110}sa
-Dialogue: 0,0:02:05.29,0:02:11.32,OP/ED Romaji,,0,0,0,,{\k23}Na{\k20}ni{\k20}mo {\k16}mo{\k20}ta{\k23}zu{\k20}ni {\k38}u{\k42}ma{\k40}re{\k20}te{\k19}ki{\k57}ta {\k22}no {\k220}ni
-Dialogue: 0,0:02:11.32,0:02:13.09,OP/ED Romaji,,0,0,0,,{\k24}Shi{\k30}a{\k33}wa{\k46}se {\k43}wa
-Dialogue: 0,0:02:13.09,0:02:16.16,OP/ED Romaji,,0,0,0,,{\k26}So{\k20}ba {\k20}ni {\k36}a{\k36}tte {\k23}chi{\k20}ka{\k20}ku {\k20}ni {\k40}a{\k43}tte
-Dialogue: 0,0:02:16.16,0:02:19.56,OP/ED Romaji,,0,0,0,,{\k16}Ta{\k16}i{\k23}se{\k23}tsu{\k16}na {\k20}mo{\k20}no {\k23}ho{\k20}do {\k16}mi{\k20}e{\k20}na{\k20}ku{\k23}na{\k20}ru {\k20}ke{\k20}do
-Dialogue: 0,0:02:19.56,0:02:20.86,OP/ED Romaji,,0,0,0,,{\k30}Kan{\k23}sha {\k43}shi{\k23}te
-Dialogue: 0,0:02:20.86,0:02:25.89,OP/ED Romaji,,0,0,0,,{\k30}Na{\k16}ni {\k20}ga {\k20}o{\k20}ki{\k36}ta{\k23}tte {\k20}wa{\k36}ka{\k23}tte {\k16}ku{\k40}re{\k36}ru {\k66}hi{\k23}to {\k73}he
-Dialogue: 0,0:02:25.89,0:02:28.89,OP/ED Romaji,,0,0,0,,{\k23}Da{\k20}re {\k20}ni {\k40}da{\k40}tte {\k23}ni{\k16}ge{\k16}ta{\k23}ku{\k40}na{\k36}tte
-Dialogue: 0,0:02:28.89,0:02:32.32,OP/ED Romaji,,0,0,0,,{\k23}Ji{\k36}bun {\k20}wo {\k23}mi{\k16}u{\k23}shi{\k20}na{\k13}i{\k46}sou {\k20}ni {\k16}na{\k23}ru {\k20}ke{\k40}do
-Dialogue: 0,0:02:32.32,0:02:40.29,OP/ED Romaji,,0,0,0,,{\k56}A{\k23}i {\k60}wa {\k20}ka{\k56}na{\k23}ra{\k60}zu {\k23}ki{\k36}mi {\k35}no {\k47}ko{\k36}ko{\k53}ro {\k29}ni {\k50}a{\k29}ru {\k146}yo
-Dialogue: 0,0:02:40.29,0:02:45.52,OP/ED Romaji,,0,0,0,,{\k43}Bo{\k36}ku{\k40}ra {\k83}i{\k40}ssho {\k60}ni {\k16}a{\k23}ru{\k16}i{\k26}te{\k13}i{\k40}kou {\k83}yo
-Dialogue: 0,0:02:45.52,0:02:51.12,OP/ED Romaji,,0,0,0,,{\k20}O{\k20}na{\k53}ji {\k23}so{\k20}ra {\k16}no {\k26}shi{\k56}ta {\k20}o{\k20}na{\k36}ji {\k23}so{\k23}ra {\k20}wo {\k20}mi{\k20}a{\k40}ge{\k19}na{\k20}ga{\k60}ra
-Dialogue: 0,0:02:51.12,0:02:56.19,OP/ED Romaji,,0,0,0,,{\k16}U{\k20}tsu{\k23}ku{\k36}shi{\k20}i {\k33}i{\k26}ro {\k23}no {\k26}ki{\k33}zu{\k20}na {\k26}ka{\k30}zo{\k23}e{\k60}te{\k20}i{\k66}you
-Dialogue: 0,0:02:56.19,0:02:59.42,OP/ED Romaji,,0,0,0,,{\k56}Shi{\k33}a{\k30}wa{\k50}se {\k46}wa {\k30}i{\k43}tsu{\k33}mo
-Dialogue: 0,0:02:59.42,0:03:02.52,OP/ED Romaji,,0,0,0,,{\k26}So{\k23}ba {\k20}ni {\k40}a{\k36}tte {\k23}chi{\k20}ka{\k23}ku {\k20}ni {\k33}a{\k43}tte
-Dialogue: 0,0:03:02.52,0:03:05.92,OP/ED Romaji,,0,0,0,,{\k20}Ta{\k10}i{\k26}se{\k23}tsu{\k20}na {\k20}mo{\k20}no {\k23}ho{\k20}do {\k16}mi{\k20}e{\k23}na{\k20}ku{\k16}na{\k20}ru {\k20}ke{\k20}do
-Dialogue: 0,0:03:05.92,0:03:07.32,OP/ED Romaji,,0,0,0,,{\k33}Kan{\k20}sha {\k46}shi{\k40}te
-Dialogue: 0,0:03:07.32,0:03:12.36,OP/ED Romaji,,0,0,0,,{\k23}Na{\k20}ni {\k16}ga {\k20}o{\k20}ki{\k40}ta{\k20}tte {\k20}wa{\k36}ka{\k23}tte{\k20}ku{\k43}re{\k33}ru {\k60}hi{\k23}to {\k83}he
-Dialogue: 0,0:03:12.36,0:03:15.29,OP/ED Romaji,,0,0,0,,{\k20}Da{\k20}re {\k20}ni {\k30}da{\k46}tte {\k20}ni{\k23}ge{\k16}ta{\k20}ku{\k40}na{\k23}tte
-Dialogue: 0,0:03:15.29,0:03:18.76,OP/ED Romaji,,0,0,0,,{\k26}Ji{\k36}bun {\k23}wo {\k16}mi{\k13}u{\k30}shi{\k20}na{\k13}i{\k46}sou {\k16}ni {\k20}na{\k20}ru {\k23}ke{\k40}do
-Dialogue: 0,0:03:18.76,0:03:26.69,OP/ED Romaji,,0,0,0,,{\k56}A{\k20}i {\k60}wa {\k20}ka{\k56}na{\k23}ra{\k60}zu {\k23}ki{\k40}mi {\k36}no {\k36}ko{\k40}ko{\k60}ro {\k26}ni {\k56}a{\k23}ru {\k153}yo
-Dialogue: 0,0:03:26.69,0:03:31.97,OP/ED Romaji,,0,0,0,,{\fad(0,400)\k46}Bo{\k36}ku{\k43}ra {\k80}i{\k40}ssho {\k56}ni {\k13}a{\k30}ru{\k20}i{\k16}te{\k20}i{\k43}kou {\k123}yo
-Dialogue: 0,0:01:45.89,0:01:49.19,OP/ED English,,0,0,0,,We are still living today{NOTE:僕ら今日も生きている}
-Dialogue: 0,0:01:49.19,0:01:52.42,OP/ED English,,0,0,0,,We are still laughing today{NOTE:僕ら今日も笑ってる}
-Dialogue: 0,0:01:52.42,0:01:56.92,OP/ED English,,0,0,0,,We don't need anything more{NOTE:それだけでもう何もいらない}
-Dialogue: 0,0:01:56.92,0:01:58.79,OP/ED English,,0,0,0,,Just RIDE ON{NOTE:今すぐRIDEON}
-Dialogue: 0,0:01:58.79,0:02:02.09,OP/ED English,,0,0,0,,We're quick to want{NOTE:僕らすぐに求める}
-Dialogue: 0,0:02:02.09,0:02:05.29,OP/ED English,,0,0,0,,This feeling is only natural{NOTE:欲張りな生き物さ}
-Dialogue: 0,0:02:05.29,0:02:11.32,OP/ED English,,0,0,0,,We're born without anything after all{NOTE:何も持たずに生まれてきたのに}
-Dialogue: 0,0:02:11.32,0:02:13.09,OP/ED English,,0,0,0,,Happiness is{NOTE:幸せは}
-Dialogue: 0,0:02:13.09,0:02:16.16,OP/ED English,,0,0,0,,To be by your side, to be close to you{NOTE:そばにあって　近くにあって}
-Dialogue: 0,0:02:16.16,0:02:19.56,OP/ED English,,0,0,0,,Not to lose sight of what is really important{NOTE:大切なものほど見えなくなるけど}
-Dialogue: 0,0:02:19.56,0:02:20.86,OP/ED English,,0,0,0,,To be grateful{NOTE:感謝して}
-Dialogue: 0,0:02:20.86,0:02:25.89,OP/ED English,,0,0,0,,To the person who understands no matter what happens{NOTE:何が起きたって分かってくれる人へ}
-Dialogue: 0,0:02:25.89,0:02:28.89,OP/ED English,,0,0,0,,Everyone is afraid{NOTE:誰にだって　逃げたくなって}
-Dialogue: 0,0:02:28.89,0:02:32.32,OP/ED English,,0,0,0,,To lose sight of oneself{NOTE:自分を見失いそうになるけど}
-Dialogue: 0,0:02:32.32,0:02:40.29,OP/ED English,,0,0,0,,But you will surely find love in your heart{NOTE:愛は必ず君の心にあるよ}
-Dialogue: 0,0:02:40.29,0:02:45.52,OP/ED English,,0,0,0,,Come walk with us{NOTE:僕ら一緒に歩いていこうよ}
-Dialogue: 0,0:02:45.52,0:02:51.12,OP/ED English,,0,0,0,,We're under the same sky, we look at the same stars{NOTE:同じ空のした　同じ空を見上げながら}
-Dialogue: 0,0:02:51.12,0:02:56.19,OP/ED English,,0,0,0,,Let's keep this beautifully colored bond{NOTE:美しい色の絆　数えていよう}
-Dialogue: 0,0:02:56.19,0:02:59.42,OP/ED English,,0,0,0,,Happiness is forever{NOTE:幸せはいつも}
-Dialogue: 0,0:02:59.42,0:03:02.52,OP/ED English,,0,0,0,,To be by your side, to be close to you{NOTE:そばにあって　近くにあって}
-Dialogue: 0,0:03:02.52,0:03:05.92,OP/ED English,,0,0,0,,Not to lose sight of what is really important{NOTE:大切なものほど見えなくなるけど}
-Dialogue: 0,0:03:05.92,0:03:07.32,OP/ED English,,0,0,0,,To be grateful{NOTE:感謝して}
-Dialogue: 0,0:03:07.32,0:03:12.36,OP/ED English,,0,0,0,,To the person who understands no matter what happens{NOTE:何が起きたって分かってくれるひとへ}
-Dialogue: 0,0:03:12.36,0:03:15.29,OP/ED English,,0,0,0,,Everyone is afraid{NOTE:誰にだって　逃げたくなって}
-Dialogue: 0,0:03:15.29,0:03:18.76,OP/ED English,,0,0,0,,Of losing sight of oneself{NOTE:自分を見失いそうになるけど}
-Dialogue: 0,0:03:18.76,0:03:26.69,OP/ED English,,0,0,0,,But you will surely find love in your heart{NOTE:愛は必ず君の心にあるよ}
-Dialogue: 0,0:03:26.69,0:03:31.97,OP/ED English,,0,0,0,,{\fad(0,400)}Come walk with us{NOTE:僕ら一緒に歩いていこうよ}
-Comment: 0,0:03:34.02,0:03:34.02,Default,Chapter,0,0,0,,#Sponsors
-Comment: 0,0:03:49.04,0:03:49.04,Default,Chapter,0,0,0,,#Black screen
-Comment: 0,0:03:51.04,0:03:51.04,Default,Chapter,0,0,0,,Part A
-Dialogue: 0,0:03:51.54,0:03:56.54,Episode,,0,0,0,,{\pos(680,470)\fad(600,1000)}\NEpisode 54\N"For Avinia!"{NOTE:第５４話\\Nアユリアの為に！}
-Dialogue: 0,0:03:52.25,0:03:55.46,Default,Debli,0,0,0,,Alright, let's try asking people first.{NOTE:よーし、まずは聞き込み捜査だ。}
-Dialogue: 0,0:03:55.46,0:03:58.00,Default,Debli,0,0,0,,Have you seen this girl?{NOTE:なあ、この女の子知らないか？}
-Dialogue: 0,0:03:58.00,0:03:59.30,Default,Townfolk,0,0,0,,Can't say I have.{NOTE:知らないなぁ。}
-Dialogue: 0,0:03:59.30,0:04:01.01,Default,Townfolk,0,0,0,,Girl…?{NOTE:女の…子？}
-Dialogue: 0,0:04:01.01,0:04:02.84,Default,Townfolk,0,0,0,,Never seen her.{NOTE:見たことないなぁ。}
-Dialogue: 0,0:04:02.84,0:04:04.01,Default,Townfolk,0,0,0,,Is that a human?{NOTE:人間？}
-Dialogue: 0,0:04:04.01,0:04:05.68,Default,Townfolk,0,0,0,,Not sure.{NOTE:分かんないニャ。}
-Dialogue: 0,0:04:05.68,0:04:06.80,Default,Townfolk,0,0,0,,A Monstie?{NOTE:モンスター？}
-Dialogue: 0,0:04:08.47,0:04:10.60,Default,Debli,0,0,0,,There are no clues at all…{NOTE:まるで手掛かりなしだ…}
-Dialogue: 0,0:04:13.27,0:04:14.81,Default,Debli,0,0,0,,Hey, mister.{NOTE:そこの兄ちゃん。}
-Dialogue: 0,0:04:14.81,0:04:16.23,Default,Debli,0,0,0,,Have you seen her before?{NOTE:この子知らねえか？}
-Dialogue: 0,0:04:18.57,0:04:21.03,Default,Gale,0,0,0,,Huh? Doesn't ring a bell.{NOTE:ちょっと分からないなぁ。}
-Dialogue: 0,0:04:21.03,0:04:22.49,Default,Gale,0,0,0,,Did something happen to her?{NOTE:この子がどうかしたの？}
-Dialogue: 0,0:04:22.49,0:04:25.49,Default,Debli,0,0,0,,Her name's Avinia…{NOTE:彼女アユリアっていって…}
-Dialogue: 0,0:04:25.49,0:04:28.12,Default,Debli,0,0,0,,…and she's actually my girlfriend!{NOTE:実は俺のガールフレンド！}
-Dialogue: 0,0:04:28.12,0:04:29.24,Default,Gale,0,0,0,,Huh?{NOTE:えっ？}
-Dialogue: 0,0:04:29.24,0:04:32.75,Default,Debli,0,0,0,,…or so I wish. We're friends.{NOTE:…になったらいいな～って思ってる。友達なんだ。}
-Dialogue: 0,0:04:32.75,0:04:36.58,Default,Gale,0,0,0,,I see. Well, I don't know her. Excuse me.{NOTE:そっか。いや知らないな～。ごめんね。}
-Dialogue: 0,0:04:36.58,0:04:39.46,Default,Debli,0,0,0,,Ah, Ebon Riders…! Do you know anything about them?{NOTE:ブラックライダーズ！…って知らないか？}
-Dialogue: 0,0:04:39.46,0:04:41.42,Default,Gale,0,0,0,,Ebon Riders?{NOTE:ブラックライダーズ？}
-Dialogue: 0,0:04:41.42,0:04:44.30,Default,Debli,0,0,0,,They suddenly kidnapped Avinia.{NOTE:アユリアを突然さらっていったやつらでさ。}
-Dialogue: 0,0:04:44.30,0:04:47.01,Default,Debli,0,0,0,,They're super-bad guys.{NOTE:すっごい悪いやつらなんだ。}
-Dialogue: 0,0:04:47.01,0:04:50.06,Default,Gale,0,0,0,,Really? Kidnapping is so terrible.{NOTE:マジで？それはひどいやつらだな。}
-Dialogue: 0,0:04:50.06,0:04:51.60,Default,Gale,0,0,0,,What's their name again?{NOTE:あ～何だっけ？}
-Dialogue: 0,0:04:51.60,0:04:54.23,Default,Gale,0,0,0,,These Ebon-something guys.{NOTE:そのブラック何とかってやつらは。}
-Dialogue: 0,0:04:54.23,0:04:56.90,Default,Debli,0,0,0,,Yeah, mister, you seem to get it!{NOTE:兄ちゃん、分かってくれるか！}
-Dialogue: 0,0:04:56.90,0:05:01.48,Default,Gale,0,0,0,,Of course I do. I hate scumbags like that too.{NOTE:もちろんさ。俺もそういうだいきらひきょうなやつらは大嫌いだぞ。}
-Dialogue: 0,0:05:01.48,0:05:04.53,Default,Debli,0,0,0,,Oh, looks like we'll get along just fine.{NOTE:おお、気が合うな、俺たち。}
-Dialogue: 0,0:05:04.53,0:05:09.33,Default,Debli,0,0,0,,When I think about how Avinia\Nmust be all alone and scared…{NOTE:アユリアが今一人でどんな怖い思いをしてるかと思うと…}
-Dialogue: 0,0:05:09.33,0:05:11.74,Default,Debli,0,0,0,,I can not bear it any longer!{NOTE:もう耐えられなくて！}
-Dialogue: 0,0:05:11.74,0:05:13.70,Default,Gale,0,0,0,,I get it. I get it!{NOTE:分かる。分かるさ。}
-Dialogue: 0,0:05:13.70,0:05:17.46,Default,Gale,0,0,0,,It's unforgivable to be mean to girls!{NOTE:女の子にそんなひどいことをするなんてマジ許せねえ！}
-Dialogue: 0,0:05:17.46,0:05:21.67,Default,Debli,0,0,0,,That's why I want to find those Ebon Riders…{NOTE:だから俺どうしてもブラックライダーズのアジトを見つけだして…}
-Dialogue: 0,0:05:21.67,0:05:23.67,Default,Debli,0,0,0,,…and save Avinia!{NOTE:アユリアを救いたいんだ！}
-Dialogue: 0,0:05:24.30,0:05:25.30,Default,Gale,0,0,0,,Wait a sec.{NOTE:待てよ。}
-Dialogue: 0,0:05:25.97,0:05:28.55,Default,Gale,0,0,0,,Now that I think of it, I think I saw one.{NOTE:そういえば会ったことがあるような…}
-Dialogue: 0,0:05:28.55,0:05:30.72,Default,Gale,0,0,0,,I mean, one of those Ebon-something guys.{NOTE:そのブラック何とか。}
-Dialogue: 0,0:05:31.68,0:05:32.89,Default,Debli,0,0,0,,Really?{NOTE:ホントか!?}
-Dialogue: 0,0:05:32.89,0:05:34.27,Default,Debli,0,0,0,,What did they look like?{NOTE:どんなやつだった？}
-Dialogue: 0,0:05:34.27,0:05:35.56,Default,Debli,0,0,0,,Please tell me.{NOTE:教えてくれ。}
-Dialogue: 0,0:05:35.56,0:05:38.81,Default,Gale,0,0,0,,– I think he had this here, and that there…\N– Yep, yep.{NOTE:—えっと、ここがこうで、こんなで…\\N—うんうん。}
-Dialogue: 0,0:05:38.81,0:05:41.11,Default,Gale,0,0,0,,– Ah, and of course it was like this!\N– Yep, yep!{NOTE:—ああ確かこんな！\\N—うんうん。}
-Dialogue: 0,0:05:43.28,0:05:45.11,Default,Debli,0,0,0,,Oh, so that's the guy?{NOTE:おお、こいつか。}
-Dialogue: 0,0:05:45.11,0:05:47.53,Default,Debli,0,0,0,,Man, he really looks like he's up to no good.{NOTE:なるほど。悪そうなやつだな。}
-Dialogue: 0,0:05:48.57,0:05:51.70,Default,Gale,0,0,0,,I think I got his features right.{NOTE:われながらよく特徴をつかんでると思うよ。}
-Dialogue: 0,0:05:51.70,0:05:54.04,Default,Debli,0,0,0,,Thanks for everything, mister.{NOTE:色々ありがとな、兄ちゃん。}
-Dialogue: 0,0:05:54.04,0:05:56.50,Default,Gale,0,0,0,,Nah, it's nothing.{NOTE:なぁに、いいってことよ。}
-Dialogue: 0,0:05:56.50,0:05:57.96,Default,Gale,0,0,0,,Good luck.{NOTE:頑張れよ。}
-Dialogue: 0,0:05:57.96,0:05:58.75,Default,Debli,0,0,0,,Yeah.{NOTE:おう。}
-Dialogue: 0,0:05:59.88,0:06:02.17,Default,Debli,0,0,0,,You're one nice guy.{NOTE:あんた親切でいいやつだな。}
-Dialogue: 0,0:06:02.17,0:06:04.09,Default,Debli,0,0,0,,I won't forget your kindness.{NOTE:この恩は忘れねえ。}
-Dialogue: 0,0:06:04.09,0:06:06.67,Default,Debli,0,0,0,,By the way, I'm Debli.{NOTE:ちなみに俺はデブリだ。}
-Dialogue: 0,0:06:06.67,0:06:07.88,Default,Gale,0,0,0,,Deb…{NOTE:デブ…}
-Dialogue: 0,0:06:11.60,0:06:12.01,Default,Gale,0,0,0,,…la?{NOTE:ラ？}
-Dialogue: 0,0:06:13.22,0:06:14.18,Default,Debli,0,0,0,,It's Debli!{NOTE:デブリだ！}
-Dialogue: 0,0:06:14.18,0:06:15.58,Default,Debli,0,0,0,,De-{\alpha&HFF&\t(410,410,\alpha&H00&)}b-{\alpha&HFF&\t(820,820,\alpha&H00&)}li.{NOTE:デ･ブ･リ！}
-Dialogue: 0,0:06:15.58,0:06:16.81,Default,Gale,0,0,0,,Ah, sorry.{NOTE:おっと、失礼。}
-Dialogue: 0,0:06:17.56,0:06:18.81,Default,Debli,0,0,0,,I'm off. See you.{NOTE:じゃあな。あばよ。}
-Dialogue: 0,0:06:19.65,0:06:21.52,Default,Nuts,0,0,0,,What was with him?{NOTE:あいつ何なんだ？}
-Dialogue: 0,0:06:21.52,0:06:24.19,Default,Nuts,0,0,0,,Deb… something.{NOTE:デブ…何とか言ってたけど。}
-Dialogue: 0,0:06:24.90,0:06:26.49,Default,Gale,0,0,0,,Beats me.{NOTE:さあね。}
-Dialogue: 0,0:06:26.49,0:06:27.57,Default,Debli,0,0,0,,Hey!{NOTE:おーい！}
-Dialogue: 0,0:06:27.57,0:06:29.78,Default,Debli,0,0,0,,People of Gildegaran!{NOTE:ギルデカランのみんな！}
-Dialogue: 0,0:06:29.78,0:06:32.49,Default,Debli,0,0,0,,Have you seen this guy?{NOTE:こいつ見たことある人いねえか？}
-Dialogue: 0,0:06:32.49,0:06:34.49,Default,Debli,0,0,0,,He's super-bad.{NOTE:すんげえ悪いやつなんだ。}
-Dialogue: 0,0:06:35.45,0:06:37.33,Default,Townfolk,0,0,0,,– What?\N– Don't ask me…{NOTE:—何？\\N—いや…だってさ…}
-Dialogue: 0,0:06:37.33,0:06:38.62,Default,Debli,0,0,0,,Huh?{NOTE:あれ？}
-Dialogue: 0,0:06:38.62,0:06:41.13,Default,Debli,0,0,0,,Hey! Come on, look at it!{NOTE:ねえ！みんな見てってよ！}
-Dialogue: 0,0:06:41.13,0:06:44.05,Default,Debli,0,0,0,,– I just said he's a villain!\N– Hm?{NOTE:—こいつすんげえ悪いやつなんだってば！\\N—ん？}
-Dialogue: 0,0:06:44.05,0:06:46.09,Default,Debli,0,0,0,,Doesn't anybody know him?{NOTE:誰か知らねえか？}
-Dialogue: 0,0:06:46.09,0:06:48.13,Default,Lilia,0,0,0,,What are you doing, Deb…{NOTE:何してるの？デブ…}
-Dialogue: 0,0:06:48.13,0:06:49.59,Default,(mixed),0,0,0,,– Eh.\N– …li?{NOTE:—え。\\N—リ。}
-Dialogue: 0,0:06:49.59,0:06:51.89,Default,Debli,0,0,0,,It's Debli! Don't make weird pauses!{NOTE:デブリだ！すっと言え！すっと！}
-Dialogue: 0,0:06:53.39,0:06:55.18,Default,Lilia,0,0,0,,So what's with that picture?{NOTE:で何？その絵。}
-Dialogue: 0,0:06:55.18,0:06:57.18,Default,Debli,0,0,0,,Ah, this?{NOTE:おう。これか？}
-Dialogue: 0,0:06:57.18,0:06:59.23,Default,Debli,0,0,0,,It is a portrait of an Ebon Rider.{NOTE:ブラックライダーズの似顔絵だ。}
-Dialogue: 0,0:07:08.82,0:07:09.82,Default,Fifi,0,0,0,,I see.{NOTE:そうね。}
-Dialogue: 0,0:07:09.82,0:07:12.70,Default,Fifi,0,0,0,,No matter how you look,\Nthis picture completely represents Debli.{NOTE:この絵は完全にデブリの似顔絵ね。}
-Dialogue: 0,0:07:12.70,0:07:13.49,Default,Debli,0,0,0,,Eh?{NOTE:えっ？}
-Dialogue: 0,0:07:13.49,0:07:16.54,Default,Debli,0,0,0,,But I'm not an Ebon Rider.{NOTE:でも俺ブラックライダーズじゃねえぞ。}
-Dialogue: 0,0:07:16.54,0:07:18.66,Default,Lilia,0,0,0,,Of course, we know that already.{NOTE:そんなこと分かってるから。}
-Dialogue: 0,0:07:18.66,0:07:19.79,Default,Debli,0,0,0,,Oh?{NOTE:ああ？}
-Dialogue: 0,0:07:19.79,0:07:22.12,Default,Debli,0,0,0,,Then why did he draw my face?{NOTE:じゃあ、どうして俺の顔が？}
-Dialogue: 0,0:07:22.12,0:07:28.46,Default,Lilia,0,0,0,,Um… in short, the person who painted\Nthis picture was teasing you, Debli.{NOTE:えーと…つまり、デブリはその絵を描いた人に完全にからかわれたってこと。}
-Dialogue: 0,0:07:28.46,0:07:29.55,Default,Debli,0,0,0,,Huh!?{NOTE:はあ!?}
-Dialogue: 0,0:07:29.55,0:07:31.63,Default,Debli,0,0,0,,I-It can't be…{NOTE:そ…そんな…}
-Dialogue: 0,0:07:31.63,0:07:34.55,Default,Debli,0,0,0,,That guy seemed super nice!{NOTE:あの兄ちゃんめっちゃいいやつだったぞ!}
-Dialogue: 0,0:07:34.55,0:07:36.01,Default,Debli,0,0,0,,Ah, damn it!{NOTE:そんな～！}
-Dialogue: 0,0:07:36.01,0:07:41.31,Default,Debli,0,0,0,,And here I was thinking I finally\Nhad a clue on how to rescue Avinia!{NOTE:せっかくアユリアを救い出す手掛かりをつかめたと思ったのに～！}
-Dialogue: 0,0:07:43.27,0:07:46.40,Default,Simone,0,0,0,,Lilia, what's the status of your research?{NOTE:リリアその後の調査はどうなっている？}
-Dialogue: 0,0:07:46.40,0:07:52.11,Default,Lilia,0,0,0,,I've estimated their location on the map\Nfrom looking where they appeared.{NOTE:今ブラックライダーズの出没地点から彼らのアジトを割り出しているところです。}
-Dialogue: 0,0:07:52.11,0:07:53.70,Default,Debli,0,0,0,,W-What!?{NOTE:な…何!?}
-Dialogue: 0,0:07:53.70,0:07:55.57,Default,Debli,0,0,0,,So you got it?{NOTE:で、分かったのか？}
-Dialogue: 0,0:07:55.57,0:07:57.58,Default,Debli,0,0,0,,Avinia must be there.{NOTE:そこにアユリアがいるんだ。}
-Dialogue: 0,0:07:57.58,0:07:59.29,Default,Debli,0,0,0,,Let's hurry up and go save her!{NOTE:さっさと助けに行くぞ！}
-Dialogue: 0,0:07:59.29,0:08:05.58,Default,Pappan,0,0,0,,Ah, I'm afraid we can't rescue Avinia that\Neasily just by knowing where they're keeping her.{NOTE:あっ、いや彼らのアジトが分かったところでそう簡単にアユリアさんは救い出せないっす。}
-Dialogue: 0,0:08:05.58,0:08:07.38,Default,Debli,0,0,0,,Why not?{NOTE:何でだよ？}
-Dialogue: 0,0:08:07.38,0:08:10.55,Default,Simone,0,0,0,,The Ebon Riders are no ordinary Riders.{NOTE:ブラックライダーズはただのライダーではない。}
-Dialogue: 0,0:08:10.55,0:08:13.76,Default,Simone,0,0,0,,They're using the Rite of Channeling to obtain new powers.{NOTE:伝承の儀で新たな技を身に付けている。}
-Dialogue: 0,0:08:13.76,0:08:15.68,Default,Debli,0,0,0,,Rite of Channeling?{NOTE:伝承の儀？}
-Dialogue: 0,0:08:15.68,0:08:22.98,Default,Lilia,0,0,0,,Using the Rite of Channeling lets you awaken\Nthe slumbering kinship genes of Monsties.{NOTE:伝承の儀ができるようになればオトモンが本来持つ様々な絆遺伝子を目覚めさせることができるの。}
-Dialogue: 0,0:08:22.98,0:08:24.10,Default,Debli,0,0,0,,Huh…?{NOTE:はあ？}
-Dialogue: 0,0:08:24.10,0:08:27.27,Default,Pappan,0,0,0,,In short, you can power up your Monstie.{NOTE:つまりオトモンをパワーアップできるっす。}
-Dialogue: 0,0:08:27.27,0:08:30.23,Default,Debli,0,0,0,,Oh? The Rite of Channeling is pretty awesome.{NOTE:へぇ～、すげえな、伝承の儀。}
-Dialogue: 0,0:08:30.23,0:08:33.32,Default,Lilia,0,0,0,,Lute is training with Dede Geezer right now.{NOTE:リュートもデデ爺のところで修業中よ。}
-Dialogue: 0,0:08:33.32,0:08:36.03,Default,Debli,0,0,0,,Ah. Well, I can't stay idle.{NOTE:はっ！こうしちゃいられねえ。}
-Dialogue: 0,0:08:36.03,0:08:38.74,Default,Debli,0,0,0,,I'll go too, for Avinia's sake!{NOTE:俺も行くぜ！アユリアを救うために！}
-Dialogue: 0,0:08:40.45,0:08:43.08,Default,Fifi,0,0,0,,But as far as I know you don't have a Monstie?{NOTE:でもあなたにオトモンっていたかしら？}
-Dialogue: 0,0:08:43.08,0:08:45.88,Default,Debli,0,0,0,,Ahaha! Don't look down on me.{NOTE:フハハハハ！俺をバカにすんなよ。}
-Dialogue: 0,0:08:47.17,0:08:48.38,Default,Debli,0,0,0,,Watch closely.{NOTE:いいか？見てろよ。}
-Dialogue: 0,0:08:49.59,0:08:50.67,Default,Debli,0,0,0,,Ride On!{NOTE:ライドオン！}
-Dialogue: 0,0:08:52.21,0:08:53.59,Default,Debli,0,0,0,,Great Poogie!{NOTE:ドスプーギー！}
-Dialogue: 0,0:08:53.59,0:08:55.76,Default,Great Poogie,0,0,0,,Oink oink oink oink!{NOTE:ぷひぷひぷひぷひ！}
-Dialogue: 0,0:09:04.23,0:09:05.94,Default,Debli,0,0,0,,Hey, Poogie!{NOTE:こら！ドスプーギー！}
-Dialogue: 0,0:09:05.94,0:09:09.52,Default,Fifi,0,0,0,,Well, Debli is not a Rider in the first place.{NOTE:まあ、そもそもデブリはライダーじゃないし。}
-Dialogue: 0,0:09:09.52,0:09:10.65,Default,Debli,0,0,0,,What are you saying?{NOTE:何を言う？}
-Dialogue: 0,0:09:10.65,0:09:12.69,Default,Debli,0,0,0,,I'm a true Rider at heart.{NOTE:心はほぼライダーだ。}
-Dialogue: 0,0:09:12.69,0:09:16.11,Default,Debli,0,0,0,,I may even exceed regular Riders!{NOTE:ほぼライダーはライダーを超える存在さ！}
-Dialogue: 0,0:09:16.11,0:09:16.99,Default,(unison),0,0,0,,– Huh?\N– Huh?{NOTE:—はあ？\\N—はあ？}
-Dialogue: 0,0:09:16.99,0:09:21.79,Default,Debli,0,0,0,,Besides, this Great Poogie here and I\Nare connected by a firm kinship.{NOTE:それに俺とドスプーギーは固い絆で結ばれている。}
-Dialogue: 0,0:09:21.79,0:09:26.67,Default,Debli,0,0,0,,I'll do the Rite of Channeling with him\Nand beat the Ebon Riders!{NOTE:俺はこいつに伝承の儀をして、必ずブラックライダーズを倒す！}
-Dialogue: 0,0:09:26.67,0:09:28.29,Default,Debli,0,0,0,,Then…{NOTE:そして…}
-Dialogue: 0,0:09:29.67,0:09:31.25,Default,Debli,0,0,0,,Do you acknowledge my superiority?{NOTE:見たか、俺の技を！}
-Dialogue: 0,0:09:31.25,0:09:32.42,Default,(unknown),0,0,0,,Yes sir!{NOTE:ははー！}
-Dialogue: 0,0:09:32.42,0:09:35.55,Default,Debli,0,0,0,,Master Debli, please forgive me!{NOTE:デブリさまどうかお許しを！}
-Dialogue: 0,0:09:35.55,0:09:38.01,Default,Avinia,0,0,0,,Debli, forgive him!{NOTE:デブリさんお願い許してあげて！}
-Dialogue: 0,0:09:38.01,0:09:42.93,Default,Debli,0,0,0,,Very well. Your kind and pure heart\Nhas saved this troubled soul.{NOTE:分かったよ。君の優しいピュアな心に免じて許してやるぜ。}
-Dialogue: 0,0:09:42.93,0:09:44.35,Default,Avinia,0,0,0,,I am saved!?{NOTE:ホントですか!?}
-Dialogue: 0,0:09:44.35,0:09:47.39,Default,Debli,0,0,0,,Listen well. Don't commit any evil…{NOTE:いいか？二度と悪さは…}
-Dialogue: 0,0:09:49.73,0:09:54.28,Default,Debli,0,0,0,,…ever agai~n.{NOTE:するんじゃねえぞ～！}
-Dialogue: 0,0:09:54.28,0:09:55.90,Default,Avinia,0,0,0,,Yes sir!{NOTE:ははー！}
-Dialogue: 0,0:09:56.95,0:10:00.03,Default,Narrator,0,0,0,,Debli, the best in Gildegaran!{NOTE:よっ！デブリ屋！ギルデカランいち！}
-Dialogue: 0,0:10:00.03,0:10:02.58,Default,(mixed),0,0,0,,Debli, thank you, you were awesome!{NOTE:デブリさんありがとう！すてき！}
-Dialogue: 0,0:10:02.58,0:10:03.79,Default,Debli,0,0,0,,Ah, it's nothing.{NOTE:いや～！}
-Dialogue: 0,0:10:08.25,0:10:09.38,Default,Debli,0,0,0,,All right!{NOTE:よーし！}
-Dialogue: 0,0:10:09.38,0:10:11.50,Default,Debli,0,0,0,,Let's go, Poo…gie?{NOTE:行くぞドスプーギー…？}
-Dialogue: 0,0:10:11.50,0:10:13.13,Default,Debli,0,0,0,,…he's not here!{NOTE:っていないがな！}
-Dialogue: 0,0:10:13.13,0:10:14.67,Default,Debli,0,0,0,,Where did he go?{NOTE:どこ行った!?}
-Dialogue: 0,0:10:16.09,0:10:18.01,Default,Great Poogie,0,0,0,,Oink oink oink oink!{NOTE:ぷひぷひぷひぷひ！}
-Dialogue: 0,0:10:18.01,0:10:19.59,Default,Debli,0,0,0,,Hey! Wait!{NOTE:ちょっ！待てこら！}
-Dialogue: 0,0:10:19.59,0:10:22.97,Default,Fifi,0,0,0,,Somehow that image makes me worry.{NOTE:何だか心配ね。あの思い込み。}
-Dialogue: 0,0:10:22.97,0:10:24.35,Default,Lilia,0,0,0,,You said it…{NOTE:ねぇ…}
-Dialogue: 0,0:10:24.35,0:10:27.06,Default,Debli,0,0,0,,Damn, he's fast!{NOTE:くっそ～。速えな、あいつ。}
-Dialogue: 0,0:10:31.15,0:10:32.65,Default,Debli,0,0,0,,A chance!{NOTE:チャ～ンス。}
-Dialogue: 0,0:10:32.65,0:10:34.11,Default,Debli,0,0,0,,Ride On!{NOTE:ライドオン！}
-Dialogue: 0,0:10:34.11,0:10:35.69,Default,Debli,0,0,0,,Great Poogie!{NOTE:ドスプーギー！}
-Dialogue: 0,0:10:42.07,0:10:43.70,Default,Great Poogie,0,0,0,,Oink oink oink oink.{NOTE:ぷひぷひぷひぷひ！}
-Dialogue: 0,0:10:45.70,0:10:48.00,Default,Debli,0,0,0,,Hey, Poo…gie?{NOTE:こら！ドスプーギー？}
-Dialogue: 0,0:10:48.37,0:10:49.75,Default,Great Poogie,0,0,0,,
-Dialogue: 0,0:10:49.75,0:10:51.46,Default,Fifi,0,0,0,,Yes, good boy.{NOTE:はーい、いい子ね～。}
-Dialogue: 0,0:10:51.46,0:10:52.42,Default,Great Poogie,0,0,0,,Oi~nk!{NOTE:プギ～！}
-Dialogue: 0,0:10:52.42,0:10:54.17,Default,Debli,0,0,0,,What the heck?{NOTE:何なんだそりゃ～！}
-Dialogue: 0,0:10:55.55,0:10:57.59,Default,Lilia,0,0,0,,I wonder if Debli's holding out alright?{NOTE:大丈夫かなデブリ。}
-Dialogue: 0,0:10:57.97,0:10:59.05,Default,Simone,0,0,0,,Lilia?{NOTE:リリア？}
-Dialogue: 0,0:10:59.05,0:11:00.93,Default,Lilia,0,0,0,,Ah, I'm sorry.{NOTE:あっ、すいません。}
-Dialogue: 0,0:11:00.93,0:11:03.35,Default,Pappan,0,0,0,,He's with Fifi, so it should be okay.{NOTE:ティティが一緒ですから、大丈夫っすよ。}
-Dialogue: 0,0:11:03.35,0:11:07.39,Default,Simone,0,0,0,,But I'm surprised that Fifi followed Debli.{NOTE:でもティティはデブリによくついていってくれたな。}
-Dialogue: 0,0:11:07.39,0:11:09.94,Default,Lilia,0,0,0,,Yeah, I am, too.{NOTE:ええ。そうなんですよね。}
-Dialogue: 0,0:11:11.06,0:11:13.90,Default,Pappan,0,0,0,,Perhaps she just doesn't know Debli enough?{NOTE:たぶん他人に思えなかったんじゃないっすか？}
-Dialogue: 0,0:11:13.90,0:11:15.07,Default,(unison),0,0,0,,– Ah.\N– Ah.{NOTE:—あ～。\\N—あ～。}
-Dialogue: 0,0:11:25.78,0:11:26.99,Default,Fifi,0,0,0,,Here you go.{NOTE:はい。}
-Dialogue: 0,0:11:26.99,0:11:27.95,Default,Debli,0,0,0,,Eh?{NOTE:えっ？}
-Dialogue: 0,0:11:27.95,0:11:30.12,Default,Fifi,0,0,0,,It's Lilia's handmade Hot Drink.{NOTE:リリアお手製のﾎｯﾄﾄﾞﾘﾝｸよ。}
-Dialogue: 0,0:11:31.33,0:11:33.75,Default,Debli,0,0,0,,I've heard stories about this stuff.{NOTE:それってすんげえあれなやつじゃん。}
-Dialogue: 0,0:11:33.75,0:11:37.46,Default,Debli,0,0,0,,I'd rather endure the cold than drink that.{NOTE:そんなん飲むくらいなら我慢した方が…}
-Dialogue: 0,0:11:39.51,0:11:42.89,Default,Fifi,0,0,0,,Well, it's not like anyone's forcing you to drink it.{NOTE:まあ無理して飲まなくてもいいかもね～。}
-Dialogue: 0,0:11:42.89,0:11:44.68,Default,Fifi,0,0,0,,We're nice and warm, though.{NOTE:私たちはポカポカだけど。}
-Dialogue: 0,0:11:44.68,0:11:45.60,Default,Great Poogie,0,0,0,,Oink.{NOTE:プギ～。}
-Dialogue: 0,0:11:49.18,0:11:50.48,Default,Fifi,0,0,0,,What's the magic word?{NOTE:何か？}
-Dialogue: 0,0:11:50.48,0:11:51.69,Default,Debli,0,0,0,,Sorry-please.{NOTE:すんませんっした！}
-Dialogue: 0,0:11:51.69,0:11:52.90,Default,Fifi,0,0,0,,That's better.{NOTE:うむ。}
-Dialogue: 0,0:11:54.44,0:11:56.77,Default,Debli,0,0,0,,This is all for Avinia.{NOTE:これも全てアユリアのため。}
-Dialogue: 0,0:11:56.77,0:11:58.82,Default,Debli,0,0,0,,Here goes!{NOTE:いくぞ！おらー！}
-Dialogue: 0,0:12:01.78,0:12:03.74,Default,Debli,0,0,0,,I knew it, it's super bitter!{NOTE:やっぱすんげえ苦え！}
-Dialogue: 0,0:12:03.74,0:12:04.99,Default,Debli,0,0,0,,Oh, I feel hot.{NOTE:ってあったか！}
-Dialogue: 0,0:12:04.99,0:12:06.41,Default,Debli,0,0,0,,But it's so bitter!{NOTE:でも苦え！}
-Dialogue: 0,0:12:06.41,0:12:07.49,Default,Debli,0,0,0,,But it's nice and warm!{NOTE:だがポカポカ！}
-Dialogue: 0,0:12:07.49,0:12:09.91,Default,Fifi,0,0,0,,I wonder if following him was a mistake.{NOTE:ついてきたの失敗だったかしら。}
-Dialogue: 0,0:12:12.16,0:12:13.62,Default,Debli,0,0,0,,Is anyone home?{NOTE:もしもーし。}
-Dialogue: 0,0:12:19.21,0:12:21.67,Default,Debli,0,0,0,,Are you Dede Geezer?{NOTE:あんたがデデ爺か？}
-Dialogue: 0,0:12:21.67,0:12:22.76,Default,Riddlemaster,0,0,0,,Yup.{NOTE:そうダ。}
-Dialogue: 0,0:12:22.76,0:12:24.22,Default,Riddlemaster,0,0,0,,I'm Dede Geezer.{NOTE:デデ爺ダ。}
-Dialogue: 0,0:12:24.22,0:12:25.34,Default,Debli,0,0,0,,I have a favor to ask.{NOTE:お願いだ。}
-Dialogue: 0,0:12:25.34,0:12:28.06,Default,Debli,0,0,0,,Please do the Rite of Channeling on me and this Monstie.{NOTE:俺のオトモンに伝承の儀やってくれ。}
-Dialogue: 0,0:12:28.06,0:12:31.35,Default,Debli,0,0,0,,He's my partner Great Poogie.{NOTE:ほら俺の相棒ドスプーギーだ。}
-Dialogue: 0,0:12:31.35,0:12:32.69,Default,Riddlemaster,0,0,0,,Okay.{NOTE:分かったダ。}
-Dialogue: 0,0:12:32.69,0:12:35.23,Default,Riddlemaster,0,0,0,,But you need to solve my riddle.{NOTE:ならオラのなぞなぞに答えるダ。}
-Dialogue: 0,0:12:35.23,0:12:36.44,Default,Debli,0,0,0,,Riddle?{NOTE:なぞなぞ？}
-Dialogue: 0,0:12:36.44,0:12:39.36,Default,Debli,0,0,0,,Fine. I'll get any question right!{NOTE:よし。全問正解してみせるぜ！}
-Dialogue: 0,0:12:39.36,0:12:41.03,Default,Debli,0,0,0,,For Avinia's sake!{NOTE:アユリアのために！}
-Comment: 0,0:12:41.03,0:12:41.03,Default,Chapter,0,0,0,,Eyecatch
-Dialogue: 0,0:12:41.61,0:12:42.74,Default,Lute,0,0,0,,Ride On!{NOTE:ライドオン！}
-Dialogue: 0,0:12:43.99,0:12:45.03,Default,Lute,0,0,0,,Rathalos!{NOTE:リオレウス！}
-Comment: 0,0:12:45.03,0:12:45.03,Default,Chapter,0,0,0,,#Black screen
-Comment: 0,0:12:47.03,0:12:47.03,Default,Chapter,0,0,0,,$Eyecatch
-Dialogue: 0,0:12:49.20,0:12:49.99,Default,Navirou,0,0,0,,Nya-ow!{NOTE:ニャグゥ！}
-Comment: 0,0:12:51.04,0:12:51.04,Default,Chapter,0,0,0,,Part B
-Dialogue: 0,0:12:51.54,0:12:53.71,Default,Riddlemaster,0,0,0,,What is it, what is it?{NOTE:な～んダなんダ？}
-Dialogue: 0,0:12:53.71,0:12:56.21,Default,Debli,0,0,0,,The answer is Nargacuga.{NOTE:答えはナルガクルガ！}
-Dialogue: 0,0:12:56.21,0:12:57.54,Default,Riddlemaster,0,0,0,,Boo-boop.{NOTE:ブッブー。}
-Dialogue: 0,0:12:57.54,0:12:59.42,Default,Debli,0,0,0,,Eh, again?{NOTE:え～またかよ。}
-Dialogue: 0,0:12:59.42,0:13:02.59,Default,Debli,0,0,0,,This is 20th incorrect answer in a row.{NOTE:これで20問連続不正解じゃねえかよ。}
-Dialogue: 0,0:13:04.55,0:13:06.84,Default,Riddlemaster,0,0,0,,The next question is the last one.{NOTE:次ラストの問題ダ。}
-Dialogue: 0,0:13:07.59,0:13:09.51,Default,Riddlemaster,0,0,0,,Pin-pon, pin-pon!{NOTE:ピンポン、ピンポ～ン！}
-Dialogue: 0,0:13:09.51,0:13:11.64,Default,Riddlemaster,0,0,0,,It's your last chance.{NOTE:ここでチャンスタイム。}
-Dialogue: 0,0:13:11.64,0:13:15.10,Default,Riddlemaster,0,0,0,,If you can answer this question, I will teach you.{NOTE:この問題に答えられたら、教えてやるダ。}
-Dialogue: 0,0:13:15.10,0:13:19.36,Default,Debli,0,0,0,,The last problem is worth 10000 points! You're a kind guy.{NOTE:最後の問題は点数十万倍！的なやつだな。}
-Dialogue: 0,0:13:19.36,0:13:21.23,Default,Debli,0,0,0,,Okay, bring it on!{NOTE:よし！こい！}
-Dialogue: 0,0:13:21.23,0:13:27.07,Default,Riddlemaster,0,0,0,,The Rite of Channeling needs a Monstie,\Na kinship with the Monstie and one more thing.{NOTE:伝承の儀に必要なものはオトモンとオトモンとの絆とあと一つ。}
-Dialogue: 0,0:13:27.07,0:13:29.12,Default,Riddlemaster,0,0,0,,And what is it?{NOTE:これな～んダ？}
-Dialogue: 0,0:13:29.12,0:13:30.49,Default,Riddlemaster,0,0,0,,What is it?{NOTE:なんダ？}
-Dialogue: 0,0:13:31.62,0:13:34.46,Default,Debli,0,0,0,,H-H-H-Hey! Of course I don't know it!{NOTE:そそそ…そんなの分かるはずないだろ。}
-Dialogue: 0,0:13:34.46,0:13:37.83,Default,Debli,0,0,0,,I came here because I don't know it!{NOTE:それが知りたいからここに来たんだっつうの！}
-Dialogue: 0,0:13:37.83,0:13:39.17,Default,Riddlemaster,0,0,0,,Boo-boop.{NOTE:ブッブー。}
-Dialogue: 0,0:13:39.17,0:13:41.05,Default,Debli,0,0,0,,Ehh!?{NOTE:え～！}
-Dialogue: 0,0:13:43.51,0:13:45.30,Default,Fifi,0,0,0,,Are you okay, Debli?{NOTE:大丈夫？デブリ。}
-Dialogue: 0,0:13:46.43,0:13:50.26,Default,Debli,0,0,0,,Hey, old man! Give me one more chance!{NOTE:おいデデ爺！おい！もっかいやらしてくれ～！}
-Dialogue: 0,0:13:50.26,0:13:52.89,Default,Debli,0,0,0,,I absolutely need the Rite of Channeling.{NOTE:どうしても伝承の儀が必要なんだ…}
-Dialogue: 0,0:13:52.89,0:13:55.98,Default,Debli,0,0,0,,Please, Dede Geezer! Open the door!{NOTE:頼むデデ爺！ここを開けてくれ～！}
-Dialogue: 0,0:14:03.40,0:14:05.11,Default,Debli,0,0,0,,Damn…{NOTE:くっそ～…}
-Dialogue: 0,0:14:05.69,0:14:09.74,Default,Fifi,0,0,0,,Let's get back to Gildegaran and make a fresh start.{NOTE:こうなったら一度ギルデカランへ戻って出直しましょう。}
-Dialogue: 0,0:14:10.74,0:14:15.16,Default,Fifi,0,0,0,,No, that won't work! I will not budge\Nuntil I learn the Rite of Channeling!{NOTE:いや駄目だ！伝承の儀を受けられるまでここを動かんぞ！}
-Dialogue: 0,0:14:15.16,0:14:16.66,Default,Debli,0,0,0,,Huh? That's…{NOTE:ん？あれは…}
-Dialogue: 0,0:14:16.66,0:14:17.46,Default,(mixed),0,0,0,,– Hm?\N– Oink?{NOTE:—ん？\\N—プギ？}
-Dialogue: 0,0:14:21.34,0:14:23.25,Default,Debli,0,0,0,,What is this thing?{NOTE:何だ？これ。}
-Dialogue: 0,0:14:23.25,0:14:24.51,Default,Fifi,0,0,0,,It's so pretty.{NOTE:奇麗ね～。}
-Dialogue: 0,0:14:24.51,0:14:25.67,Default,Debli,0,0,0,,This will…{NOTE:これは…}
-Dialogue: 0,0:14:25.67,0:14:26.72,Default,Fifi,0,0,0,,Huh?{NOTE:へっ？}
-Dialogue: 0,0:14:26.72,0:14:29.51,Default,Debli,0,0,0,,…sell for a high price, I think!{NOTE:た…高く売れる予感！}
-Dialogue: 0,0:14:30.59,0:14:31.35,Default,Fifi,0,0,0,,Huh!?{NOTE:はっ!?}
-Dialogue: 0,0:14:31.35,0:14:34.56,Default,Debli,0,0,0,,Alright, I'll sell it and earn at least some living expenses.{NOTE:よーし、こいつを売って生活費を稼ぐぞ。}
-Dialogue: 0,0:14:34.56,0:14:37.06,Default,Debli,0,0,0,,Let's go back to Gildegaran and make a fresh start.{NOTE:ギルデカランに一度戻って出直しだ。}
-Dialogue: 0,0:14:37.06,0:14:38.64,Default,Fifi,0,0,0,,He-Hey!{NOTE:ちょっ…ちょっと！}
-Dialogue: 0,0:14:38.64,0:14:41.40,Default,Fifi,0,0,0,,You just said you won't budge!{NOTE:あなたさっきここを動かないって。}
-Dialogue: 0,0:14:41.40,0:14:45.53,Default,Debli,0,0,0,,It can't be helped. I need money to work ahead.{NOTE:仕方ないだろ。この先修業するにも金は必要なの。}
-Dialogue: 0,0:14:45.53,0:14:48.03,Default,Debli,0,0,0,,– Eh…?\N– You need to look at reality more.{NOTE:—え～。\\N—もっと現実を見ろよ。\\N—えっ？}
-Dialogue: 0,0:14:48.03,0:14:51.74,Default,Debli,0,0,0,,Ah. I wonder if I can sell it for 1000 zenny?{NOTE:あ～。1000ゼニーくらいで売れるかな～。}
-Dialogue: 0,0:14:51.74,0:14:54.03,Default,Fifi,0,0,0,,Are you seriously planning to sell it!?{NOTE:あなた本当に売る気なの!?}
-Dialogue: 0,0:14:55.04,0:14:56.41,Default,Lilia,0,0,0,,A gem?{NOTE:玉？}
-Dialogue: 0,0:14:56.41,0:14:58.08,Default,Fifi,0,0,0,,That's correct.{NOTE:そうなの。}
-Dialogue: 0,0:14:58.08,0:15:02.25,Default,Fifi,0,0,0,,He couldn't answer a single riddle,\Nand picked up a precious stone instead.{NOTE:なぞなぞが答えられなかった代わりに玉を拾ってね。}
-Dialogue: 0,0:15:02.25,0:15:04.75,Default,Fifi,0,0,0,,It was a transparent empty egg, though.{NOTE:透明な空っぽの玉だったんだけど。}
-Dialogue: 0,0:15:04.75,0:15:08.13,Default,Fifi,0,0,0,,When the light hit it, the gem shined so nice and beautifully.{NOTE:光に当たるとすごい奇麗に光るのよ。}
-Dialogue: 0,0:15:09.76,0:15:11.01,Default,Lilia,0,0,0,,Hey, Fifi…{NOTE:ねえ、ティティ。}
-Dialogue: 0,0:15:11.01,0:15:14.93,Default,Lilia,0,0,0,,You found that gem near Dede Geezer's\Nhot spring inn, didn't you?{NOTE:その玉ってデデ爺の温泉宿のそばにあったのよね？}
-Dialogue: 0,0:15:14.93,0:15:15.97,Default,Fifi,0,0,0,,Yes.{NOTE:ええ。}
-Dialogue: 0,0:15:15.97,0:15:19.27,Default,Fifi,0,0,0,,I asked him how can he just pick\Nup things without permission.{NOTE:勝手に持ち帰るのはどうなの？って言ったんだけど。}
-Dialogue: 0,0:15:19.27,0:15:22.65,Default,Fifi,0,0,0,,But then that boy was like, "what I pick up is mine!".{NOTE:あの子｢拾ったもんは俺のもんだ！｣}
-Dialogue: 0,0:15:22.65,0:15:24.40,Default,Fifi,0,0,0,,He wouldn't listen to reason.{NOTE:聞きやしないのよ。}
-Dialogue: 0,0:15:24.40,0:15:26.65,Default,Fifi,0,0,0,,Ah, just thinking about it makes me tired…{NOTE:ああ何だか疲れちゃったわ…}
-Dialogue: 0,0:15:26.65,0:15:29.15,Default,Lilia,0,0,0,,Err… that gem…{NOTE:えっと…その玉絆…}
-Dialogue: 0,0:15:29.15,0:15:31.99,Default,Lilia,0,0,0,,…can't be a Channeling Gem, right?{NOTE:珠ってことないかな？}
-Dialogue: 0,0:15:31.99,0:15:33.87,Default,Fifi,0,0,0,,Eh? Of course not.{NOTE:ええ～？そんな…}
-Dialogue: 0,0:15:34.58,0:15:35.74,Default,Fifi,0,0,0,,Hm?{NOTE:ん？}
-Dialogue: 0,0:15:35.74,0:15:37.08,Default,Fifi,0,0,0,,We're in trouble!{NOTE:大変だわ！}
-Dialogue: 0,0:15:39.37,0:15:40.58,Default,Debli,0,0,0,,Everyone!{NOTE:皆さ～ん！}
-Dialogue: 0,0:15:40.58,0:15:42.42,Default,Debli,0,0,0,,Debli's shop now offers a super-rarity.{NOTE:デブリの店に超レア…}
-Dialogue: 0,0:15:42.42,0:15:45.96,Default,Debli,0,0,0,,A beautiful sparkling and shining\Nprecious stone has just surfaced!{NOTE:…世にも美しいきらりと輝く玉が入ったよ～！}
-Dialogue: 0,0:15:45.96,0:15:47.84,Default,Debli,0,0,0,,First come, first served!{NOTE:早い者勝ちだよ～！}
-Dialogue: 0,0:15:50.88,0:15:52.43,Default,Lilia,0,0,0,,Debli!{NOTE:デブリ！}
-Dialogue: 0,0:15:52.43,0:15:52.93,Default,Debli,0,0,0,,Yo.{NOTE:おう。}
-Dialogue: 0,0:15:52.93,0:15:54.72,Default,Fifi,0,0,0,,Where's that gem?{NOTE:あの玉は!?}
-Dialogue: 0,0:15:54.72,0:15:56.22,Default,Debli,0,0,0,,Ah, I sold it already.{NOTE:おう売れたぜ。}
-Dialogue: 0,0:15:56.22,0:16:00.23,Default,Debli,0,0,0,,Hold your breath - for whopping 2000 zenny at that.{NOTE:聞いて驚け。何と2200ゼニーでだぜ。}
-Dialogue: 0,0:16:00.23,0:16:02.56,Default,(unison),0,0,0,,– We're too late…\N– Huh?{NOTE:—遅かったか…\\N—えっ？}
-Dialogue: 0,0:16:02.56,0:16:03.60,Default,Debli,0,0,0,,What's wrong?{NOTE:どうしたんだ？}
-Dialogue: 0,0:16:03.60,0:16:06.57,Default,Fifi,0,0,0,,That gem wasn't an ordinary precious stone.{NOTE:あの玉ただの玉じゃなかったのよ。}
-Dialogue: 0,0:16:06.57,0:16:08.36,Default,Lilia,0,0,0,,It was a Channeling Gem.{NOTE:絆珠だったの。}
-Dialogue: 0,0:16:08.36,0:16:09.07,Default,Debli,0,0,0,,Huh?{NOTE:は？}
-Dialogue: 0,0:16:09.07,0:16:10.28,Default,Debli,0,0,0,,Channeling Gem?{NOTE:キズナダマ？}
-Dialogue: 0,0:16:10.28,0:16:12.53,Default,Lilia,0,0,0,,It's a stone necessary for the Rite of Channeling.{NOTE:伝承の儀に必要な玉なの。}
-Dialogue: 0,0:16:13.70,0:16:16.70,Default,Debli,0,0,0,,I-I-I've got to get it back!{NOTE:おおお…俺返してもらってくる！}
-Dialogue: 0,0:16:23.83,0:16:25.08,Default,Debli,0,0,0,,There he is!{NOTE:いた！}
-Dialogue: 0,0:16:25.08,0:16:28.50,Default,Debli,0,0,0,,Hey! Mustached mister!{NOTE:おーい！そこのひげのおっさん！}
-Dialogue: 0,0:16:28.50,0:16:29.76,Default,Debli,0,0,0,,Mister, I'm sorry.{NOTE:おっさんすまん。}
-Dialogue: 0,0:16:29.76,0:16:31.88,Default,Debli,0,0,0,,Please, let's undo our trade.{NOTE:さっきの玉返してくれ。}
-Dialogue: 0,0:16:31.88,0:16:32.93,Default,Townfolk,0,0,0,,What?{NOTE:ああ！}
-Dialogue: 0,0:16:32.93,0:16:37.39,Default,Townfolk,0,0,0,,But I already sold that gem to someone else.{NOTE:さっきの玉なら欲しいって人がいてさっさと売っちまったぞ。}
-Dialogue: 0,0:16:37.39,0:16:40.60,Default,Debli,0,0,0,,Say what…? W-W-Who did you sell it to?{NOTE:何ぃ!?だだだ…誰に売ったんだ!?}
-Dialogue: 0,0:16:40.60,0:16:42.73,Default,Townfolk,0,0,0,,To the inn keeper.{NOTE:宿屋をやってる女将だけど…}
-Dialogue: 0,0:16:42.73,0:16:44.69,Default,Debli,0,0,0,,The inn keeper, you say?{NOTE:宿屋の女将だな!?}
-Dialogue: 0,0:16:44.69,0:16:46.10,Default,Debli,0,0,0,,All right!{NOTE:よーし！}
-Dialogue: 0,0:16:47.90,0:16:48.77,Default,Debli,0,0,0,,This is the place.{NOTE:ここか。}
-Dialogue: 0,0:16:49.94,0:16:51.82,Default,Debli,0,0,0,,Excuse me…{NOTE:すみませー…}
-Dialogue: 0,0:16:51.82,0:16:53.11,Default,Debli,0,0,0,,Oh?{NOTE:あ？}
-Dialogue: 0,0:16:53.11,0:16:56.03,Default,Debli,0,0,0,,There it is! My Channeling Gem!{NOTE:あった！俺の絆珠！}
-Dialogue: 0,0:16:56.03,0:16:57.37,Default,Landlady,0,0,0,,What's with the racket?{NOTE:何だい？あんた。}
-Dialogue: 0,0:16:58.24,0:17:00.20,Default,Debli,0,0,0,,Well, this gem is mine, actually.{NOTE:この玉俺のなんだ。}
-Dialogue: 0,0:17:00.20,0:17:01.83,Default,Debli,0,0,0,,Can you give it back?{NOTE:返してくれねえか？}
-Dialogue: 0,0:17:01.83,0:17:03.58,Default,Landlady,0,0,0,,What are you saying?{NOTE:何言ってるんだい。}
-Dialogue: 0,0:17:03.58,0:17:05.62,Default,Landlady,0,0,0,,It's mine, since I just purchased it.{NOTE:これは私が売ってもらったのさ。}
-Dialogue: 0,0:17:06.38,0:17:08.34,Default,Landlady,0,0,0,,I paid 4000 zenny for it.{NOTE:4000ゼニーも払ってね。}
-Dialogue: 0,0:17:08.34,0:17:10.88,Default,Debli,0,0,0,,Eh? 4000 zenny!?{NOTE:えっ!?4000ゼニー!?}
-Dialogue: 0,0:17:10.88,0:17:13.38,Default,Debli,0,0,0,,You think you'd sell it for 2000 zenny by any chance?{NOTE:2000ゼニーで売ってくんねえか？}
-Dialogue: 0,0:17:13.38,0:17:15.09,Default,Landlady,0,0,0,,Don't be absurd.{NOTE:無茶言わないでよ。}
-Dialogue: 0,0:17:15.09,0:17:19.01,Default,Landlady,0,0,0,,I finally found a gem that matches it perfectly.{NOTE:やっと見つけたんだから。こんなにぴったりくる玉。}
-Dialogue: 0,0:17:19.01,0:17:20.56,Default,Debli,0,0,0,,Please, I'll do anything!{NOTE:そこを何とか！}
-Dialogue: 0,0:17:20.56,0:17:23.06,Default,Debli,0,0,0,,I need that gem no matter what!{NOTE:この玉がどうしても必要なんだ！}
-Dialogue: 0,0:17:23.06,0:17:25.35,Default,Debli,0,0,0,,I need it to save a friend dear to me!{NOTE:大事な友達を助けるために！}
-Dialogue: 0,0:17:26.19,0:17:27.48,Default,Landlady,0,0,0,,Save a friend…?{NOTE:友達を…}
-Dialogue: 0,0:17:29.11,0:17:30.23,Default,Debli,0,0,0,,Please.{NOTE:お願いだ。}
-Dialogue: 0,0:17:30.23,0:17:32.78,Default,Debli,0,0,0,,I'm begging you!{NOTE:このとおり。頼みます！}
-Dialogue: 0,0:17:36.66,0:17:38.07,Default,Landlady,0,0,0,,All right…{NOTE:そんじゃまあ…}
-Dialogue: 0,0:17:38.07,0:17:40.99,Default,Landlady,0,0,0,,…you can work off the 4000 zenny.{NOTE:…4000ゼニー分働いてもらおうかね。}
-Dialogue: 0,0:17:40.99,0:17:42.33,Default,Debli,0,0,0,,Eh? Really?{NOTE:えっ!?本当？}
-Dialogue: 0,0:17:42.33,0:17:44.08,Default,Fifi,0,0,0,,I'm happy for you, Debli.{NOTE:よかったじゃないデブリ。}
-Dialogue: 0,0:17:44.08,0:17:45.96,Default,Debli,0,0,0,,When did you get here?{NOTE:っていつの間に！}
-Dialogue: 0,0:17:45.96,0:17:48.38,Default,Fifi,0,0,0,,Work hard under the landlady.{NOTE:宿のお仕事頑張ってね。}
-Dialogue: 0,0:17:48.38,0:17:51.88,Default,Landlady,0,0,0,,If you split the work between you two,\Nyou'll save twice the time.{NOTE:まあ２人でやれば半分の時間で済むしね。}
-Dialogue: 0,0:17:51.88,0:17:53.42,Default,Fifi,0,0,0,,Ah? Between us two?{NOTE:えっ？２人？}
-Dialogue: 0,0:17:53.42,0:17:56.09,Default,Fifi,0,0,0,,But, I'm…{NOTE:いや私は…}
-Dialogue: 0,0:17:56.09,0:17:58.39,Default,Fifi,0,0,0,,Ah, okay, okay. Very well.{NOTE:あ～はいはい分かったわよ。}
-Dialogue: 0,0:18:00.68,0:18:01.93,Default,Debli,0,0,0,,All right!{NOTE:うおー！}
-Dialogue: 0,0:18:01.93,0:18:04.31,Default,Debli,0,0,0,,Wait for me, Avinia!{NOTE:待ってろよアユリア！}
-Dialogue: 0,0:18:05.68,0:18:06.81,Default,Debli,0,0,0,,{NOTE:おりゃー！}
-Dialogue: 0,0:18:06.81,0:18:10.27,Default,Debli,0,0,0,,For Avinia's sake, I'll take on anything!{NOTE:アユリアのためなら何ぼでもこいやー！}
-Dialogue: 0,0:18:12.65,0:18:14.19,Default,Fifi,0,0,0,,Hey, that's reckless.{NOTE:ちょっと無茶よ。}
-Dialogue: 0,0:18:14.19,0:18:18.91,Default,Debli,0,0,0,,I-If you compare it with Avinia's suffering…{NOTE:こ…こんなんアユリアのつらさに比べれば…}
-Dialogue: 0,0:18:18.91,0:18:22.49,Default,Debli,0,0,0,,…th-this is nothing!{NOTE:何でも…ないぜー！}
-Dialogue: 0,0:18:24.12,0:18:26.08,Default,Townfolk,0,0,0,,That boy's pretty strong.{NOTE:すげえなあの兄ちゃん。}
-Dialogue: 0,0:18:39.30,0:18:40.84,Default,Gale,0,0,0,,I like that look.{NOTE:いいねぇその目。}
-Dialogue: 0,0:18:42.14,0:18:44.01,Default,Gale,0,0,0,,Ah, by the way…{NOTE:ああそういえばさ…}
-Dialogue: 0,0:18:44.01,0:18:47.02,Default,Gale,0,0,0,,I bumped into someone looking for you.{NOTE:お前を捜してるってやつに会った。}
-Dialogue: 0,0:18:47.02,0:18:51.69,Default,Gale,0,0,0,,What was he called again… Deb… something.{NOTE:何つったかなぁ確かデブ…何とか。}
-Dialogue: 0,0:18:51.69,0:18:53.19,Default,Avinia,0,0,0,,Debli?{NOTE:デブリさん…}
-Dialogue: 0,0:18:53.19,0:18:56.23,Default,Gale,0,0,0,,Ah, yeah, yeah. That was the name.{NOTE:ああそうそうそんな名前だった。}
-Dialogue: 0,0:18:56.23,0:18:59.49,Default,Gale,0,0,0,,He seemed worried a lot about you.{NOTE:何かずいぶん心配してたみたいだけど。}
-Dialogue: 0,0:19:00.28,0:19:03.91,Default,Gale,0,0,0,,But that worry won't be of much use to you.{NOTE:あれじゃあ何の役にも立ちそうにないなぁ。}
-Dialogue: 0,0:19:05.20,0:19:06.91,Default,Landlady,0,0,0,,Here you go.{NOTE:はい。お疲れさん。}
-Dialogue: 0,0:19:06.91,0:19:08.21,Default,Debli,0,0,0,,Hooray!{NOTE:やった～！}
-Dialogue: 0,0:19:08.21,0:19:09.12,Default,Debli,0,0,0,,Thanks!{NOTE:ありがとう。}
-Dialogue: 0,0:19:09.12,0:19:11.63,Default,Landlady,0,0,0,,Don't mention it. You worked hard.{NOTE:いや。よく働いてくれたしね。}
-Dialogue: 0,0:19:12.58,0:19:14.00,Default,Debli,0,0,0,,All right!{NOTE:よーし。}
-Dialogue: 0,0:19:14.00,0:19:15.55,Default,Debli,0,0,0,,Wait for me, Avinia.{NOTE:待ってろよアユリア。}
-Dialogue: 0,0:19:16.30,0:19:18.72,Default,Debli,0,0,0,,Let's go to Dede Geezer's place once again!{NOTE:デデ爺のとこへもう一回行くぞ。}
-Dialogue: 0,0:19:18.72,0:19:19.68,Default,Fifi,0,0,0,,Okay.{NOTE:そうね。}
-Dialogue: 0,0:19:22.34,0:19:24.64,Default,Debli,0,0,0,,The Rite of Channeling needs three things.{NOTE:伝承の儀に必要なもの。}
-Dialogue: 0,0:19:24.64,0:19:27.35,Default,Debli,0,0,0,,It's a Monstie and a kinship with it.{NOTE:オトモンとオトモンとの絆。}
-Dialogue: 0,0:19:27.35,0:19:29.98,Default,Debli,0,0,0,,And the last thing… is this.{NOTE:そしてもう一つは…これだ。}
-Dialogue: 0,0:19:32.23,0:19:33.81,Default,Riddlemaster,0,0,0,,Correct.{NOTE:正解ダ。}
-Dialogue: 0,0:19:33.81,0:19:37.69,Default,Riddlemaster,0,0,0,,The Rite of Channeling needs that Channeling Gem.{NOTE:伝承の儀に必要なのはその絆珠ダ。}
-Dialogue: 0,0:19:39.24,0:19:40.49,Default,Debli,0,0,0,,Hooray!{NOTE:やった～！}
-Dialogue: 0,0:19:40.49,0:19:43.32,Default,Debli,0,0,0,,So you'll do the Rite on us, right?{NOTE:これで伝承の儀やってくれるんだよな？}
-Dialogue: 0,0:19:43.32,0:19:46.16,Default,Debli,0,0,0,,You can make my Great Poogie strong, right!?{NOTE:俺のドスプーギーを強くできるんだよな!?}
-Dialogue: 0,0:19:47.95,0:19:51.46,Default,Riddlemaster,0,0,0,,But why are you holding it anyway?{NOTE:でもお前が何でそれを持っているダ？}
-Dialogue: 0,0:19:51.46,0:19:52.54,Default,Debli,0,0,0,,Huh?{NOTE:えっ？}
-Dialogue: 0,0:19:52.54,0:19:55.25,Default,Riddlemaster,0,0,0,,Why is it, why is it?{NOTE:なんでダ？な～んでダ？}
-Dialogue: 0,0:19:55.25,0:19:57.50,Default,Debli,0,0,0,,I-I-I picked it up.{NOTE:ひひ…拾ったんだよ。}
-Dialogue: 0,0:19:57.50,0:19:58.88,Default,Riddlemaster,0,0,0,,{\i1}Stare{\i0}.{NOTE:じー。}
-Dialogue: 0,0:19:58.88,0:20:00.09,Default,Debli,0,0,0,,I'm serious.{NOTE:マジだってば。\\N}
-Dialogue: 0,0:20:00.09,0:20:01.51,Default,Riddlemaster,0,0,0,,{\i1}Stare{\i0}.{NOTE:じー。}
-Dialogue: 0,0:20:01.51,0:20:02.51,Default,Fifi,0,0,0,,Uhm…{NOTE:あの…}
-Dialogue: 0,0:20:02.51,0:20:05.18,Default,Fifi,0,0,0,,It's true that this boy lies here and there…{NOTE:確かにこの子はあちこち嘘だらけだけど…}
-Dialogue: 0,0:20:05.18,0:20:06.26,Default,Debli,0,0,0,,Hey!{NOTE:おい！}
-Dialogue: 0,0:20:06.26,0:20:11.31,Default,Fifi,0,0,0,,But he's now desperately trying to become\Nstrong in order to save his important friend.{NOTE:今は大事な仲間を助けるため必死で強くなろうとしてるんです。}
-Dialogue: 0,0:20:11.31,0:20:13.77,Default,Fifi,0,0,0,,That feeling isn't a lie.{NOTE:その気持ちだけは嘘偽りありません。}
-Dialogue: 0,0:20:15.73,0:20:18.53,Default,Fifi,0,0,0,,Please, lend him strength.{NOTE:どうか彼に力を貸してあげてください。}
-Dialogue: 0,0:20:18.53,0:20:19.57,Default,Fifi,0,0,0,,Please.{NOTE:お願いします。}
-Dialogue: 0,0:20:19.57,0:20:20.24,Default,Debli,0,0,0,,Eh?{NOTE:えっ？}
-Dialogue: 0,0:20:26.41,0:20:27.78,Default,Riddlemaster,0,0,0,,Okay.{NOTE:分かったダ。}
-Dialogue: 0,0:20:28.99,0:20:31.16,Default,Riddlemaster,0,0,0,,Give me the Channeling Gem then.{NOTE:んじゃ絆珠を渡すダ。}
-Dialogue: 0,0:20:32.58,0:20:33.46,Default,Debli,0,0,0,,Okay.{NOTE:ああ。}
-Dialogue: 0,0:20:35.83,0:20:39.25,Default,Riddlemaster,0,0,0,,Do you really want me to do the\NRite of Channeling on you with this?{NOTE:ふーむ…お前本当にこれで伝承の儀をするだな？}
-Dialogue: 0,0:20:39.25,0:20:41.17,Default,Debli,0,0,0,,Yes. Please.{NOTE:おうお願いするぜ。}
-Dialogue: 0,0:20:42.05,0:20:43.55,Default,Riddlemaster,0,0,0,,Really…?{NOTE:ホントに？}
-Dialogue: 0,0:20:43.55,0:20:44.93,Default,Debli,0,0,0,,Really!{NOTE:ホントに！}
-Dialogue: 0,0:20:44.93,0:20:46.85,Default,Riddlemaster,0,0,0,,Really-really…?{NOTE:ホントにホントに？}
-Dialogue: 0,0:20:46.85,0:20:48.18,Default,Debli,0,0,0,,Really-really!{NOTE:ホントにホントだ！}
-Dialogue: 0,0:20:49.56,0:20:50.81,Default,Riddlemaster,0,0,0,,Okay.{NOTE:分かったダ。}
-Dialogue: 0,0:20:50.81,0:20:51.98,Default,Debli,0,0,0,,All right!{NOTE:やった～！}
-Dialogue: 0,0:20:53.02,0:20:55.40,Default,Riddlemaster,0,0,0,,What is it, what is it?{NOTE:な～んダなんダ？}
-Dialogue: 0,0:20:55.40,0:20:58.02,Default,Riddlemaster,0,0,0,,What is the Rite?{NOTE:伝承な～んダ？}
-Dialogue: 0,0:20:58.02,0:21:01.82,Default,Riddlemaster,0,0,0,,That which can combine two kinships…{NOTE:二つの絆を合わせてできるの…}
-Dialogue: 0,0:21:01.82,0:21:04.65,Default,Riddlemaster,0,0,0,,…what is it?{NOTE:な～んダ？}
-Dialogue: 0,0:21:04.65,0:21:06.91,Default,Riddlemaster,0,0,0,,Slumbering power, wake up.{NOTE:眠れる力よ目覚めよ。}
-Dialogue: 0,0:21:08.03,0:21:11.16,Default,Debli,0,0,0,,All right, come, my Poogie!{NOTE:よしこい！俺のドスプーギー！}
-Dialogue: 0,0:21:11.83,0:21:13.96,Default,Great Poogie,0,0,0,,
-Dialogue: 0,0:21:13.96,0:21:15.83,Default,Great Poogie,0,0,0,,Oink…{NOTE:プギ～…}
-Dialogue: 0,0:21:15.83,0:21:16.83,Default,Debli,0,0,0,,Huh?{NOTE:あれ？}
-Dialogue: 0,0:21:18.29,0:21:21.71,Default,Debli,0,0,0,,What does this mean? He's just like he usually is.{NOTE:どういうことだよ？何も変わんないじゃないか！}
-Dialogue: 0,0:21:21.71,0:21:23.30,Default,Riddlemaster,0,0,0,,Of course he is.{NOTE:当たり前ダ。}
-Dialogue: 0,0:21:23.30,0:21:25.22,Default,Riddlemaster,0,0,0,,It's empty.{NOTE:これ空っぽダ。}
-Dialogue: 0,0:21:25.22,0:21:27.68,Default,Riddlemaster,0,0,0,,The Rite of Channeling can't succeed like this.{NOTE:空じゃ伝承の儀は成功しないダ。}
-Dialogue: 0,0:21:28.80,0:21:31.77,Default,Debli,0,0,0,,You could've told me that before!{NOTE:はあ～それを早く言えって！}
-Dialogue: 0,0:21:31.77,0:21:33.85,Default,Riddlemaster,0,0,0,,That's why I asked you earlier.{NOTE:だからさっき聞いたダ。}
-Dialogue: 0,0:21:33.85,0:21:38.52,Default,Riddlemaster,0,0,0,,"Do you really want me to do the Rite of Channeling?"{NOTE:｢ホントにホントにこの絆珠で伝承の儀をするのか？｣って。}
-Dialogue: 0,0:21:38.52,0:21:42.65,Default,Debli,0,0,0,,Argh! What's with you? What's with you?\NI remember. Argh!{NOTE:ニャギャ～！何それ!?何それ!?いや聞いた！聞いたけどよ！フゴ～！}
-Dialogue: 0,0:21:42.65,0:21:43.61,Default,Riddlemaster,0,0,0,,Here.{NOTE:ほれ。}
-Dialogue: 0,0:21:45.57,0:21:49.49,Default,Riddlemaster,0,0,0,,I'm formally giving you this Channeling Gem.{NOTE:この絆珠は正式にお前にやるダ。}
-Dialogue: 0,0:21:49.49,0:21:52.24,Default,Riddlemaster,0,0,0,,Work hard and you'll learn it too.{NOTE:頑張ってお前も修業するダ。}
-Dialogue: 0,0:21:52.24,0:21:53.75,Default,Debli,0,0,0,,Learn it?{NOTE:修業？}
-Dialogue: 0,0:21:58.04,0:21:59.04,Default,Fifi,0,0,0,,Hey!{NOTE:ちょっと！}
-Dialogue: 0,0:21:59.71,0:22:01.17,Default,(mixed),0,0,0,,{NOTE:—うわ！\\N—あっ!}
-Dialogue: 0,0:22:01.17,0:22:03.88,Default,Debli,0,0,0,,Hey, wait! My Poogie!{NOTE:こら待て！俺のドスプーギー！}
-Dialogue: 0,0:22:04.59,0:22:05.55,Default,(unison),0,0,0,,Debli?{NOTE:デブリ？}
-Dialogue: 0,0:22:05.55,0:22:06.68,Default,Hyoro,0,0,0,,Why?{NOTE:何で？}
-Dialogue: 0,0:22:06.68,0:22:08.76,Default,Fifi,0,0,0,,He went through the Rite of Channeling.{NOTE:伝承の儀をしてたのよ。}
-Dialogue: 0,0:22:08.76,0:22:12.10,Default,Hyoro,0,0,0,,Eh? Before us?{NOTE:えっ？デブリが僕たちより先に？}
-Dialogue: 0,0:22:12.10,0:22:14.18,Default,Fifi,0,0,0,,Yes, but it failed.{NOTE:でも失敗だったの。}
-Dialogue: 0,0:22:15.18,0:22:16.81,Default,Fifi,0,0,0,,Good luck with your studies.{NOTE:みんな修業頑張ってね。}
-Dialogue: 0,0:22:17.69,0:22:20.11,Default,Fifi,0,0,0,,Thank you as well, Dede Geezer.{NOTE:デデ爺もありがとうございました。}
-Dialogue: 0,0:22:20.11,0:22:22.44,Default,Fifi,0,0,0,,Really… what a troublesome boy.{NOTE:まったく…世話が焼けるんだから。}
-Dialogue: 0,0:22:22.44,0:22:23.57,Default,Riddlemaster,0,0,0,,Did you…{NOTE:もしや…}
-Dialogue: 0,0:22:24.73,0:22:28.28,Default,Riddlemaster,0,0,0,,…two come to learn about the Rite of Channeling?{NOTE:お前たちも伝承の儀をやりに来たダ？}
-Dialogue: 0,0:22:28.28,0:22:29.45,Default,(unison),0,0,0,,– Yes.\N– Yes.{NOTE:—はい。\\N—はい。}
-Dialogue: 0,0:22:29.45,0:22:30.41,Default,Riddlemaster,0,0,0,,Hm.{NOTE:ふむ。}
-Dialogue: 0,0:22:30.41,0:22:35.12,Default,Riddlemaster,0,0,0,,Then you hold on to these too and go to the snowy mountains.{NOTE:ならばお前らもこれを持って雪山に行くダ。}
-Dialogue: 0,0:22:35.12,0:22:36.79,Default,Hyoro,0,0,0,,So that's the Channeling Gem…{NOTE:これが絆珠。}
-Dialogue: 0,0:22:36.79,0:22:37.96,Default,Mille,0,0,0,,It's beautiful.{NOTE:奇麗…}
-Dialogue: 0,0:22:37.96,0:22:40.83,Default,Riddlemaster,0,0,0,,But they're still empty.{NOTE:まだ中身は空っぽだ。}
-Dialogue: 0,0:22:40.83,0:22:44.84,Default,Riddlemaster,0,0,0,,Your task is to learn how to fill them up with the kinship power.{NOTE:その玉に絆の力を込める修業をするダ。}
-Dialogue: 0,0:22:44.84,0:22:46.97,Default,Riddlemaster,0,0,0,,Lute's studying too.{NOTE:リュートも行ってるダ。}
-Dialogue: 0,0:22:46.97,0:22:48.22,Default,Mille,0,0,0,,Oh?{NOTE:お？}
-Dialogue: 0,0:22:50.05,0:22:52.80,Default,(mixed),0,0,0,,Hey! Wait for me, Poogie!{NOTE:こらー！待てドスプーギー！}
-Dialogue: 0,0:22:53.64,0:22:55.35,Default,Debli,0,0,0,,How far are you goin—{NOTE:どこまで行く気なんだ。ぶあっ！}
-Dialogue: 0,0:22:56.02,0:22:57.68,Default,Debli,0,0,0,,Ow-ow-ow…{NOTE:いててて…}
-Dialogue: 0,0:22:59.60,0:23:02.90,Default,Debli,0,0,0,,I can't help Avinia this way…{NOTE:うう～こんなんじゃアユリアを助けに行けねえじゃんか…}
-Dialogue: 0,0:23:03.86,0:23:04.94,Default,Debli,0,0,0,,Damn!{NOTE:くっそー！}
-Dialogue: 0,0:23:04.94,0:23:07.53,Default,Debli,0,0,0,,I want to be stronger!{NOTE:俺はもっと強くなりたいのにー！}
-Dialogue: 0,0:23:08.99,0:23:10.41,Default,Fifi,0,0,0,,It's okay.{NOTE:大丈夫。}
-Dialogue: 0,0:23:10.41,0:23:14.28,Default,Fifi,0,0,0,,If you stay that motivated,\Nyou will definitely get stronger someday.{NOTE:その思いがあればいつか必ず強くなれるわ。}
-Dialogue: 0,0:23:14.28,0:23:15.33,Default,Debli,0,0,0,,Avinia.{NOTE:アユリア。}
-Dialogue: 0,0:23:15.33,0:23:18.75,Default,Debli,0,0,0,,I'll surely get stronger and save you.{NOTE:俺もっと強くなって必ず迎えに行くからな。}
-Dialogue: 0,0:23:18.75,0:23:22.04,Default,Debli,0,0,0,,Wait for me, my Avinia!{NOTE:待ってろよ俺のアユリアー！}
-Comment: 0,0:23:27.05,0:23:27.05,Default,Chapter,0,0,0,,#Black screen
-Comment: 0,0:23:29.05,0:23:29.05,Default,Chapter,0,0,0,,Preview
-Dialogue: 0,0:23:30.22,0:23:31.43,Default,Lute,80,80,80,,Lute here!{NOTE:俺リュート！}
-Dialogue: 0,0:23:31.43,0:23:34.89,Default,Lute,80,80,80,,To obtain the new power, I need to meet with Kirin.{NOTE:新しい力を手に入れるためにキリンに会うことに。}
-Dialogue: 0,0:23:34.89,0:23:38.02,Default,Lute,80,80,80,,Eh? I have to defeat you if I want that power!?{NOTE:えっ？力を得るにはお前を倒さなくちゃいけない!?}
-Dialogue: 0,0:23:38.02,0:23:40.64,Default,Lute,0,80,80,,No, I don't want to fight you!{NOTE:駄目だお前とは戦えない！}
-Dialogue: 0,0:23:40.64,0:23:43.61,Default,Lute,80,80,80,,Next time:\N"The Bolt Rathalos!" Ride On!{NOTE:次回｢雷光のレウス｣にライドオン！}
-Comment: 0,0:23:44.06,0:23:44.06,Default,Chapter,0,0,0,,#Sponsors
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}#Sponsors
+Comment: 0,0:00:03.02,0:00:03.02,Default,Chapter,0,0,0,,{TIME:3020,3020}Intro
+Dialogue: 0,0:00:04.19,0:00:06.31,Default,Narrator,80,80,80,,{TIME:4190,6310}These kids are called Riders.{NOTE:少年たちはライダー。}
+Dialogue: 0,0:00:06.31,0:00:09.69,Default,Narrator,80,80,80,,{TIME:6310,9690}And they form kinship with monsters.{NOTE:モンスターと絆を結びし者たちである。}
+Dialogue: 0,0:00:09.69,0:00:14.07,Default,Narrator,80,80,80,,{TIME:9690,14070}One day, Avinia was suddenly kidnapped.{NOTE:ある日突然仲間のアユリアがさらわれてしまった。}
+Dialogue: 0,0:00:14.07,0:00:15.78,Default,(unison),0,0,0,,{TIME:14070,15780}Avinia!?{NOTE:アユリアが!?}
+Dialogue: 0,0:00:15.78,0:00:22.12,Default,Narrator,80,80,80,,{TIME:15780,22120}Mysterious Riders who call themselves the Ebon Riders keep appearing one after another.{NOTE:さらに次々現れるブラックライダーズを名乗るなぞ謎のライダーたち。}
+Dialogue: 0,0:00:22.12,0:00:26.63,Default,Narrator,80,80,80,,{TIME:22120,26630}After being defeated by Gale, Lute meets with Dede Geezer, also known as the Channeler.{NOTE:ゲイルに敗れたリュートは伝承ジイさん、デデ爺の元へ…}
+Dialogue: 0,0:00:26.63,0:00:31.01,Default,Narrator,80,80,80,,{TIME:26630,31010}There, in the snowy mountains,\Nhe obtains a Channeling Gem…{NOTE:彼から得た絆珠に新たなモンスターの技を入れ込むべく…}
+Dialogue: 0,0:00:31.01,0:00:33.88,Default,Narrator,80,80,80,,{TIME:31010,33880}…and must learn how to combine skills with other Monsties.{NOTE:…雪山へ修業に向かった。}
+Dialogue: 0,0:00:34.80,0:00:39.26,Default,Narrator,0,0,0,,{TIME:34800,39260}Meanwhile, Debli is worrying about Avinia.{NOTE:そんな中ずっとｱﾕﾘｱのことが心配なデブリは…}
+Dialogue: 0,0:00:39.26,0:00:41.64,Default,Debli,0,0,0,,{TIME:39260,41640}I wonder if Avinia is okay…?{NOTE:アユリア大丈夫かなぁ…}
+Dialogue: 0,0:00:41.64,0:00:43.85,Default,Debli,0,0,0,,{TIME:41640,43850}I hope they didn't do anything to her…{NOTE:ひどいことされてないかなぁ…}
+Dialogue: 0,0:00:45.40,0:00:48.23,Default,Debli,0,0,0,,{TIME:45400,48230}Like taking away her food…{NOTE:まさかご飯を取り上げられてたり…}
+Dialogue: 0,0:00:48.23,0:00:50.61,Default,Avinia,0,0,0,,{TIME:48230,50610}Thanks for the fo{\fs35}o{\fs30}o…{\fs44}?{NOTE:いっただっきまーす…}
+Dialogue: 0,0:00:53.36,0:00:56.45,Default,Debli,0,0,0,,{TIME:53360,56450}H-How cruel!{NOTE:な…何てひどいことを…}
+Dialogue: 0,0:00:56.45,0:00:58.49,Default,Debli,0,0,0,,{TIME:56450,58490}O-Or maybe…{NOTE:そ-それとも…}
+Dialogue: 0,0:00:58.49,0:01:00.74,Default,Debli,0,0,0,,{TIME:58490,60740}They put her in a haunted house…{NOTE:お化け部屋に入れられてたり…}
+Dialogue: 0,0:01:00.74,0:01:02.25,Default,Avinia,0,0,0,,{TIME:60740,62250}I'm scared!{NOTE:怖ーい！}
+Dialogue: 0,0:01:03.62,0:01:05.50,Default,Debli,0,0,0,,{TIME:63620,65500}Or maybe…!{NOTE:それとも！}
+Dialogue: 0,0:01:05.50,0:01:07.75,Default,Debli,0,0,0,,{TIME:65500,67750}Something like this…?{NOTE:何かこんな感じで…}
+Dialogue: 0,0:01:14.47,0:01:18.55,Default,Debli,0,0,0,,{TIME:74470,78550}Those Ebon Riders are such jerks!{NOTE:何てひどいことをするんだブラックライダーズ～！}
+Dialogue: 0,0:01:18.55,0:01:19.97,Default,Debli,0,0,0,,{TIME:78550,79970}Wait for me, Avinia.{NOTE:待ってろ、アユリア。}
+Dialogue: 0,0:01:19.97,0:01:22.06,Default,Debli,0,0,0,,{TIME:79970,82060}I'm going to save you!{NOTE:今助けに行くぞ！}
+Dialogue: 0,0:01:22.06,0:01:24.18,Default,Debli,0,0,0,,{TIME:82060,84180}Ah… wait a second.{NOTE:あっ…おや？}
+Dialogue: 0,0:01:24.18,0:01:26.14,Default,Debli,0,0,0,,{TIME:84180,86140}Where's Avinia again?{NOTE:アユリアってどこにいるんだ？}
+Dialogue: 0,0:01:27.35,0:01:32.03,Default,Narrator,0,0,0,,{TIME:87350,92030}Can Debli really save Avinia!?{NOTE:果たしてデブリはアユリアを助け出すことができるのか!?}
+Comment: 0,0:01:32.03,0:01:32.03,Default,Chapter,0,0,0,,{TIME:92030,92030}Opening
+Dialogue: 0,0:01:35.29,0:01:42.72,Default,,0,0,0,,{TIME:95290,102720}{\fad(2500,0)}Monster Hunter Stories: Ride On{NOTE:モンスターハンターストーリーズ：RIDEON}
+Dialogue: 0,0:01:45.89,0:01:49.19,OP/ED Romaji,,0,0,0,,{TIME:105890,109190}{\k40}Bo{\k20}ku{\k20}ra {\k43}kyou {\k20}mo {\k16}i{\k20}ki{\k23}te{\k20}i{\k106}ru
+Dialogue: 0,0:01:49.19,0:01:52.42,OP/ED Romaji,,0,0,0,,{TIME:109190,112420}{\k30}Bo{\k20}ku{\k23}ra {\k40}kyou {\k23}mo {\k20}wa{\k30}ra{\k26}tte{\k110}ru
+Dialogue: 0,0:01:52.42,0:01:56.92,OP/ED Romaji,,0,0,0,,{TIME:112420,116920}{\k26}So{\k20}re {\k19}da{\k23}ke {\k16}de {\k40}mou {\k40}na{\k40}ni{\k36}mo {\k43}i{\k63}ra{\k26}na{\k53}i
+Dialogue: 0,0:01:56.92,0:01:58.79,OP/ED Romaji,,0,0,0,,{TIME:116920,118790}{\k20}I{\k16}ma {\k23}su{\k20}gu {\k16}ni {\k43}RIDE {\k46}ON
+Dialogue: 0,0:01:58.79,0:02:02.09,OP/ED Romaji,,0,0,0,,{TIME:118790,122090}{\k30}Bo{\k23}ku{\k16}ra {\k43}su{\k20}gu {\k23}ni {\k16}mo{\k20}to{\k20}me{\k116}ru
+Dialogue: 0,0:02:02.09,0:02:05.29,OP/ED Romaji,,0,0,0,,{TIME:122090,125290}{\k20}Yo{\k23}ku{\k20}ba{\k36}ri{\k23}na {\k16}i{\k26}ki{\k20}mo{\k23}no {\k110}sa
+Dialogue: 0,0:02:05.29,0:02:11.32,OP/ED Romaji,,0,0,0,,{TIME:125290,131320}{\k23}Na{\k20}ni{\k20}mo {\k16}mo{\k20}ta{\k23}zu{\k20}ni {\k38}u{\k42}ma{\k40}re{\k20}te{\k19}ki{\k57}ta {\k22}no {\k220}ni
+Dialogue: 0,0:02:11.32,0:02:13.09,OP/ED Romaji,,0,0,0,,{TIME:131320,133090}{\k24}Shi{\k30}a{\k33}wa{\k46}se {\k43}wa
+Dialogue: 0,0:02:13.09,0:02:16.16,OP/ED Romaji,,0,0,0,,{TIME:133090,136160}{\k26}So{\k20}ba {\k20}ni {\k36}a{\k36}tte {\k23}chi{\k20}ka{\k20}ku {\k20}ni {\k40}a{\k43}tte
+Dialogue: 0,0:02:16.16,0:02:19.56,OP/ED Romaji,,0,0,0,,{TIME:136160,139560}{\k16}Ta{\k16}i{\k23}se{\k23}tsu{\k16}na {\k20}mo{\k20}no {\k23}ho{\k20}do {\k16}mi{\k20}e{\k20}na{\k20}ku{\k23}na{\k20}ru {\k20}ke{\k20}do
+Dialogue: 0,0:02:19.56,0:02:20.86,OP/ED Romaji,,0,0,0,,{TIME:139560,140860}{\k30}Kan{\k23}sha {\k43}shi{\k23}te
+Dialogue: 0,0:02:20.86,0:02:25.89,OP/ED Romaji,,0,0,0,,{TIME:140860,145890}{\k30}Na{\k16}ni {\k20}ga {\k20}o{\k20}ki{\k36}ta{\k23}tte {\k20}wa{\k36}ka{\k23}tte {\k16}ku{\k40}re{\k36}ru {\k66}hi{\k23}to {\k73}he
+Dialogue: 0,0:02:25.89,0:02:28.89,OP/ED Romaji,,0,0,0,,{TIME:145890,148890}{\k23}Da{\k20}re {\k20}ni {\k40}da{\k40}tte {\k23}ni{\k16}ge{\k16}ta{\k23}ku{\k40}na{\k36}tte
+Dialogue: 0,0:02:28.89,0:02:32.32,OP/ED Romaji,,0,0,0,,{TIME:148890,152320}{\k23}Ji{\k36}bun {\k20}wo {\k23}mi{\k16}u{\k23}shi{\k20}na{\k13}i{\k46}sou {\k20}ni {\k16}na{\k23}ru {\k20}ke{\k40}do
+Dialogue: 0,0:02:32.32,0:02:40.29,OP/ED Romaji,,0,0,0,,{TIME:152320,160290}{\k56}A{\k23}i {\k60}wa {\k20}ka{\k56}na{\k23}ra{\k60}zu {\k23}ki{\k36}mi {\k35}no {\k47}ko{\k36}ko{\k53}ro {\k29}ni {\k50}a{\k29}ru {\k146}yo
+Dialogue: 0,0:02:40.29,0:02:45.52,OP/ED Romaji,,0,0,0,,{TIME:160290,165520}{\k43}Bo{\k36}ku{\k40}ra {\k83}i{\k40}ssho {\k60}ni {\k16}a{\k23}ru{\k16}i{\k26}te{\k13}i{\k40}kou {\k83}yo
+Dialogue: 0,0:02:45.52,0:02:51.12,OP/ED Romaji,,0,0,0,,{TIME:165520,171120}{\k20}O{\k20}na{\k53}ji {\k23}so{\k20}ra {\k16}no {\k26}shi{\k56}ta {\k20}o{\k20}na{\k36}ji {\k23}so{\k23}ra {\k20}wo {\k20}mi{\k20}a{\k40}ge{\k19}na{\k20}ga{\k60}ra
+Dialogue: 0,0:02:51.12,0:02:56.19,OP/ED Romaji,,0,0,0,,{TIME:171120,176190}{\k16}U{\k20}tsu{\k23}ku{\k36}shi{\k20}i {\k33}i{\k26}ro {\k23}no {\k26}ki{\k33}zu{\k20}na {\k26}ka{\k30}zo{\k23}e{\k60}te{\k20}i{\k66}you
+Dialogue: 0,0:02:56.19,0:02:59.42,OP/ED Romaji,,0,0,0,,{TIME:176190,179420}{\k56}Shi{\k33}a{\k30}wa{\k50}se {\k46}wa {\k30}i{\k43}tsu{\k33}mo
+Dialogue: 0,0:02:59.42,0:03:02.52,OP/ED Romaji,,0,0,0,,{TIME:179420,182520}{\k26}So{\k23}ba {\k20}ni {\k40}a{\k36}tte {\k23}chi{\k20}ka{\k23}ku {\k20}ni {\k33}a{\k43}tte
+Dialogue: 0,0:03:02.52,0:03:05.92,OP/ED Romaji,,0,0,0,,{TIME:182520,185920}{\k20}Ta{\k10}i{\k26}se{\k23}tsu{\k20}na {\k20}mo{\k20}no {\k23}ho{\k20}do {\k16}mi{\k20}e{\k23}na{\k20}ku{\k16}na{\k20}ru {\k20}ke{\k20}do
+Dialogue: 0,0:03:05.92,0:03:07.32,OP/ED Romaji,,0,0,0,,{TIME:185920,187320}{\k33}Kan{\k20}sha {\k46}shi{\k40}te
+Dialogue: 0,0:03:07.32,0:03:12.36,OP/ED Romaji,,0,0,0,,{TIME:187320,192360}{\k23}Na{\k20}ni {\k16}ga {\k20}o{\k20}ki{\k40}ta{\k20}tte {\k20}wa{\k36}ka{\k23}tte{\k20}ku{\k43}re{\k33}ru {\k60}hi{\k23}to {\k83}he
+Dialogue: 0,0:03:12.36,0:03:15.29,OP/ED Romaji,,0,0,0,,{TIME:192360,195290}{\k20}Da{\k20}re {\k20}ni {\k30}da{\k46}tte {\k20}ni{\k23}ge{\k16}ta{\k20}ku{\k40}na{\k23}tte
+Dialogue: 0,0:03:15.29,0:03:18.76,OP/ED Romaji,,0,0,0,,{TIME:195290,198760}{\k26}Ji{\k36}bun {\k23}wo {\k16}mi{\k13}u{\k30}shi{\k20}na{\k13}i{\k46}sou {\k16}ni {\k20}na{\k20}ru {\k23}ke{\k40}do
+Dialogue: 0,0:03:18.76,0:03:26.69,OP/ED Romaji,,0,0,0,,{TIME:198760,206690}{\k56}A{\k20}i {\k60}wa {\k20}ka{\k56}na{\k23}ra{\k60}zu {\k23}ki{\k40}mi {\k36}no {\k36}ko{\k40}ko{\k60}ro {\k26}ni {\k56}a{\k23}ru {\k153}yo
+Dialogue: 0,0:03:26.69,0:03:31.97,OP/ED Romaji,,0,0,0,,{TIME:206690,211970}{\fad(0,400)\k46}Bo{\k36}ku{\k43}ra {\k80}i{\k40}ssho {\k56}ni {\k13}a{\k30}ru{\k20}i{\k16}te{\k20}i{\k43}kou {\k123}yo
+Dialogue: 0,0:01:45.89,0:01:49.19,OP/ED English,,0,0,0,,{TIME:105890,109190}We are still living today{NOTE:僕ら今日も生きている}
+Dialogue: 0,0:01:49.19,0:01:52.42,OP/ED English,,0,0,0,,{TIME:109190,112420}We are still laughing today{NOTE:僕ら今日も笑ってる}
+Dialogue: 0,0:01:52.42,0:01:56.92,OP/ED English,,0,0,0,,{TIME:112420,116920}We don't need anything more{NOTE:それだけでもう何もいらない}
+Dialogue: 0,0:01:56.92,0:01:58.79,OP/ED English,,0,0,0,,{TIME:116920,118790}Just RIDE ON{NOTE:今すぐRIDEON}
+Dialogue: 0,0:01:58.79,0:02:02.09,OP/ED English,,0,0,0,,{TIME:118790,122090}We're quick to want{NOTE:僕らすぐに求める}
+Dialogue: 0,0:02:02.09,0:02:05.29,OP/ED English,,0,0,0,,{TIME:122090,125290}This feeling is only natural{NOTE:欲張りな生き物さ}
+Dialogue: 0,0:02:05.29,0:02:11.32,OP/ED English,,0,0,0,,{TIME:125290,131320}We're born without anything after all{NOTE:何も持たずに生まれてきたのに}
+Dialogue: 0,0:02:11.32,0:02:13.09,OP/ED English,,0,0,0,,{TIME:131320,133090}Happiness is{NOTE:幸せは}
+Dialogue: 0,0:02:13.09,0:02:16.16,OP/ED English,,0,0,0,,{TIME:133090,136160}To be by your side, to be close to you{NOTE:そばにあって　近くにあって}
+Dialogue: 0,0:02:16.16,0:02:19.56,OP/ED English,,0,0,0,,{TIME:136160,139560}Not to lose sight of what is really important{NOTE:大切なものほど見えなくなるけど}
+Dialogue: 0,0:02:19.56,0:02:20.86,OP/ED English,,0,0,0,,{TIME:139560,140860}To be grateful{NOTE:感謝して}
+Dialogue: 0,0:02:20.86,0:02:25.89,OP/ED English,,0,0,0,,{TIME:140860,145890}To the person who understands no matter what happens{NOTE:何が起きたって分かってくれる人へ}
+Dialogue: 0,0:02:25.89,0:02:28.89,OP/ED English,,0,0,0,,{TIME:145890,148890}Everyone is afraid{NOTE:誰にだって　逃げたくなって}
+Dialogue: 0,0:02:28.89,0:02:32.32,OP/ED English,,0,0,0,,{TIME:148890,152320}To lose sight of oneself{NOTE:自分を見失いそうになるけど}
+Dialogue: 0,0:02:32.32,0:02:40.29,OP/ED English,,0,0,0,,{TIME:152320,160290}But you will surely find love in your heart{NOTE:愛は必ず君の心にあるよ}
+Dialogue: 0,0:02:40.29,0:02:45.52,OP/ED English,,0,0,0,,{TIME:160290,165520}Come walk with us{NOTE:僕ら一緒に歩いていこうよ}
+Dialogue: 0,0:02:45.52,0:02:51.12,OP/ED English,,0,0,0,,{TIME:165520,171120}We're under the same sky, we look at the same stars{NOTE:同じ空のした　同じ空を見上げながら}
+Dialogue: 0,0:02:51.12,0:02:56.19,OP/ED English,,0,0,0,,{TIME:171120,176190}Let's keep this beautifully colored bond{NOTE:美しい色の絆　数えていよう}
+Dialogue: 0,0:02:56.19,0:02:59.42,OP/ED English,,0,0,0,,{TIME:176190,179420}Happiness is forever{NOTE:幸せはいつも}
+Dialogue: 0,0:02:59.42,0:03:02.52,OP/ED English,,0,0,0,,{TIME:179420,182520}To be by your side, to be close to you{NOTE:そばにあって　近くにあって}
+Dialogue: 0,0:03:02.52,0:03:05.92,OP/ED English,,0,0,0,,{TIME:182520,185920}Not to lose sight of what is really important{NOTE:大切なものほど見えなくなるけど}
+Dialogue: 0,0:03:05.92,0:03:07.32,OP/ED English,,0,0,0,,{TIME:185920,187320}To be grateful{NOTE:感謝して}
+Dialogue: 0,0:03:07.32,0:03:12.36,OP/ED English,,0,0,0,,{TIME:187320,192360}To the person who understands no matter what happens{NOTE:何が起きたって分かってくれるひとへ}
+Dialogue: 0,0:03:12.36,0:03:15.29,OP/ED English,,0,0,0,,{TIME:192360,195290}Everyone is afraid{NOTE:誰にだって　逃げたくなって}
+Dialogue: 0,0:03:15.29,0:03:18.76,OP/ED English,,0,0,0,,{TIME:195290,198760}Of losing sight of oneself{NOTE:自分を見失いそうになるけど}
+Dialogue: 0,0:03:18.76,0:03:26.69,OP/ED English,,0,0,0,,{TIME:198760,206690}But you will surely find love in your heart{NOTE:愛は必ず君の心にあるよ}
+Dialogue: 0,0:03:26.69,0:03:31.97,OP/ED English,,0,0,0,,{TIME:206690,211970}{\fad(0,400)}Come walk with us{NOTE:僕ら一緒に歩いていこうよ}
+Comment: 0,0:03:34.02,0:03:34.02,Default,Chapter,0,0,0,,{TIME:214020,214020}#Sponsors
+Comment: 0,0:03:49.04,0:03:49.04,Default,Chapter,0,0,0,,{TIME:229040,229040}#Black screen
+Comment: 0,0:03:51.04,0:03:51.04,Default,Chapter,0,0,0,,{TIME:231040,231040}Part A
+Dialogue: 0,0:03:51.54,0:03:56.54,Episode,,0,0,0,,{TIME:231540,236540}{\pos(680,470)\fad(600,1000)}\NEpisode 54\N"For Avinia!"{NOTE:第５４話\\Nアユリアの為に！}
+Dialogue: 0,0:03:52.25,0:03:55.46,Default,Debli,0,0,0,,{TIME:232250,235460}Alright, let's try asking people first.{NOTE:よーし、まずは聞き込み捜査だ。}
+Dialogue: 0,0:03:55.46,0:03:58.00,Default,Debli,0,0,0,,{TIME:235460,238000}Have you seen this girl?{NOTE:なあ、この女の子知らないか？}
+Dialogue: 0,0:03:58.00,0:03:59.30,Default,Townfolk,0,0,0,,{TIME:238000,239300}Can't say I have.{NOTE:知らないなぁ。}
+Dialogue: 0,0:03:59.30,0:04:01.01,Default,Townfolk,0,0,0,,{TIME:239300,241010}Girl…?{NOTE:女の…子？}
+Dialogue: 0,0:04:01.01,0:04:02.84,Default,Townfolk,0,0,0,,{TIME:241010,242840}Never seen her.{NOTE:見たことないなぁ。}
+Dialogue: 0,0:04:02.84,0:04:04.01,Default,Townfolk,0,0,0,,{TIME:242840,244010}Is that a human?{NOTE:人間？}
+Dialogue: 0,0:04:04.01,0:04:05.68,Default,Townfolk,0,0,0,,{TIME:244010,245680}Not sure.{NOTE:分かんないニャ。}
+Dialogue: 0,0:04:05.68,0:04:06.80,Default,Townfolk,0,0,0,,{TIME:245680,246800}A Monstie?{NOTE:モンスター？}
+Dialogue: 0,0:04:08.47,0:04:10.60,Default,Debli,0,0,0,,{TIME:248470,250600}There are no clues at all…{NOTE:まるで手掛かりなしだ…}
+Dialogue: 0,0:04:13.27,0:04:14.81,Default,Debli,0,0,0,,{TIME:253270,254810}Hey, mister.{NOTE:そこの兄ちゃん。}
+Dialogue: 0,0:04:14.81,0:04:16.23,Default,Debli,0,0,0,,{TIME:254810,256230}Have you seen her before?{NOTE:この子知らねえか？}
+Dialogue: 0,0:04:18.57,0:04:21.03,Default,Gale,0,0,0,,{TIME:258570,261030}Huh? Doesn't ring a bell.{NOTE:ちょっと分からないなぁ。}
+Dialogue: 0,0:04:21.03,0:04:22.49,Default,Gale,0,0,0,,{TIME:261030,262490}Did something happen to her?{NOTE:この子がどうかしたの？}
+Dialogue: 0,0:04:22.49,0:04:25.49,Default,Debli,0,0,0,,{TIME:262490,265490}Her name's Avinia…{NOTE:彼女アユリアっていって…}
+Dialogue: 0,0:04:25.49,0:04:28.12,Default,Debli,0,0,0,,{TIME:265490,268120}…and she's actually my girlfriend!{NOTE:実は俺のガールフレンド！}
+Dialogue: 0,0:04:28.12,0:04:29.24,Default,Gale,0,0,0,,{TIME:268120,269240}Huh?{NOTE:えっ？}
+Dialogue: 0,0:04:29.24,0:04:32.75,Default,Debli,0,0,0,,{TIME:269240,272750}…or so I wish. We're friends.{NOTE:…になったらいいな～って思ってる。友達なんだ。}
+Dialogue: 0,0:04:32.75,0:04:36.58,Default,Gale,0,0,0,,{TIME:272750,276580}I see. Well, I don't know her. Excuse me.{NOTE:そっか。いや知らないな～。ごめんね。}
+Dialogue: 0,0:04:36.58,0:04:39.46,Default,Debli,0,0,0,,{TIME:276580,279460}Ah, Ebon Riders…! Do you know anything about them?{NOTE:ブラックライダーズ！…って知らないか？}
+Dialogue: 0,0:04:39.46,0:04:41.42,Default,Gale,0,0,0,,{TIME:279460,281420}Ebon Riders?{NOTE:ブラックライダーズ？}
+Dialogue: 0,0:04:41.42,0:04:44.30,Default,Debli,0,0,0,,{TIME:281420,284300}They suddenly kidnapped Avinia.{NOTE:アユリアを突然さらっていったやつらでさ。}
+Dialogue: 0,0:04:44.30,0:04:47.01,Default,Debli,0,0,0,,{TIME:284300,287010}They're super-bad guys.{NOTE:すっごい悪いやつらなんだ。}
+Dialogue: 0,0:04:47.01,0:04:50.06,Default,Gale,0,0,0,,{TIME:287010,290060}Really? Kidnapping is so terrible.{NOTE:マジで？それはひどいやつらだな。}
+Dialogue: 0,0:04:50.06,0:04:51.60,Default,Gale,0,0,0,,{TIME:290060,291600}What's their name again?{NOTE:あ～何だっけ？}
+Dialogue: 0,0:04:51.60,0:04:54.23,Default,Gale,0,0,0,,{TIME:291600,294230}These Ebon-something guys.{NOTE:そのブラック何とかってやつらは。}
+Dialogue: 0,0:04:54.23,0:04:56.90,Default,Debli,0,0,0,,{TIME:294230,296900}Yeah, mister, you seem to get it!{NOTE:兄ちゃん、分かってくれるか！}
+Dialogue: 0,0:04:56.90,0:05:01.48,Default,Gale,0,0,0,,{TIME:296900,301480}Of course I do. I hate scumbags like that too.{NOTE:もちろんさ。俺もそういうだいきらひきょうなやつらは大嫌いだぞ。}
+Dialogue: 0,0:05:01.48,0:05:04.53,Default,Debli,0,0,0,,{TIME:301480,304530}Oh, looks like we'll get along just fine.{NOTE:おお、気が合うな、俺たち。}
+Dialogue: 0,0:05:04.53,0:05:09.33,Default,Debli,0,0,0,,{TIME:304530,309330}When I think about how Avinia\Nmust be all alone and scared…{NOTE:アユリアが今一人でどんな怖い思いをしてるかと思うと…}
+Dialogue: 0,0:05:09.33,0:05:11.74,Default,Debli,0,0,0,,{TIME:309330,311740}I can not bear it any longer!{NOTE:もう耐えられなくて！}
+Dialogue: 0,0:05:11.74,0:05:13.70,Default,Gale,0,0,0,,{TIME:311740,313700}I get it. I get it!{NOTE:分かる。分かるさ。}
+Dialogue: 0,0:05:13.70,0:05:17.46,Default,Gale,0,0,0,,{TIME:313700,317460}It's unforgivable to be mean to girls!{NOTE:女の子にそんなひどいことをするなんてマジ許せねえ！}
+Dialogue: 0,0:05:17.46,0:05:21.67,Default,Debli,0,0,0,,{TIME:317460,321670}That's why I want to find those Ebon Riders…{NOTE:だから俺どうしてもブラックライダーズのアジトを見つけだして…}
+Dialogue: 0,0:05:21.67,0:05:23.67,Default,Debli,0,0,0,,{TIME:321670,323670}…and save Avinia!{NOTE:アユリアを救いたいんだ！}
+Dialogue: 0,0:05:24.30,0:05:25.30,Default,Gale,0,0,0,,{TIME:324300,325300}Wait a sec.{NOTE:待てよ。}
+Dialogue: 0,0:05:25.97,0:05:28.55,Default,Gale,0,0,0,,{TIME:325970,328550}Now that I think of it, I think I saw one.{NOTE:そういえば会ったことがあるような…}
+Dialogue: 0,0:05:28.55,0:05:30.72,Default,Gale,0,0,0,,{TIME:328550,330720}I mean, one of those Ebon-something guys.{NOTE:そのブラック何とか。}
+Dialogue: 0,0:05:31.68,0:05:32.89,Default,Debli,0,0,0,,{TIME:331680,332890}Really?{NOTE:ホントか!?}
+Dialogue: 0,0:05:32.89,0:05:34.27,Default,Debli,0,0,0,,{TIME:332890,334270}What did they look like?{NOTE:どんなやつだった？}
+Dialogue: 0,0:05:34.27,0:05:35.56,Default,Debli,0,0,0,,{TIME:334270,335560}Please tell me.{NOTE:教えてくれ。}
+Dialogue: 0,0:05:35.56,0:05:38.81,Default,Gale,0,0,0,,{TIME:335560,338810}– I think he had this here, and that there…\N– Yep, yep.{NOTE:—えっと、ここがこうで、こんなで…\\N—うんうん。}
+Dialogue: 0,0:05:38.81,0:05:41.11,Default,Gale,0,0,0,,{TIME:338810,341110}– Ah, and of course it was like this!\N– Yep, yep!{NOTE:—ああ確かこんな！\\N—うんうん。}
+Dialogue: 0,0:05:43.28,0:05:45.11,Default,Debli,0,0,0,,{TIME:343280,345110}Oh, so that's the guy?{NOTE:おお、こいつか。}
+Dialogue: 0,0:05:45.11,0:05:47.53,Default,Debli,0,0,0,,{TIME:345110,347530}Man, he really looks like he's up to no good.{NOTE:なるほど。悪そうなやつだな。}
+Dialogue: 0,0:05:48.57,0:05:51.70,Default,Gale,0,0,0,,{TIME:348570,351700}I think I got his features right.{NOTE:われながらよく特徴をつかんでると思うよ。}
+Dialogue: 0,0:05:51.70,0:05:54.04,Default,Debli,0,0,0,,{TIME:351700,354040}Thanks for everything, mister.{NOTE:色々ありがとな、兄ちゃん。}
+Dialogue: 0,0:05:54.04,0:05:56.50,Default,Gale,0,0,0,,{TIME:354040,356500}Nah, it's nothing.{NOTE:なぁに、いいってことよ。}
+Dialogue: 0,0:05:56.50,0:05:57.96,Default,Gale,0,0,0,,{TIME:356500,357960}Good luck.{NOTE:頑張れよ。}
+Dialogue: 0,0:05:57.96,0:05:58.75,Default,Debli,0,0,0,,{TIME:357960,358750}Yeah.{NOTE:おう。}
+Dialogue: 0,0:05:59.88,0:06:02.17,Default,Debli,0,0,0,,{TIME:359880,362170}You're one nice guy.{NOTE:あんた親切でいいやつだな。}
+Dialogue: 0,0:06:02.17,0:06:04.09,Default,Debli,0,0,0,,{TIME:362170,364090}I won't forget your kindness.{NOTE:この恩は忘れねえ。}
+Dialogue: 0,0:06:04.09,0:06:06.67,Default,Debli,0,0,0,,{TIME:364090,366670}By the way, I'm Debli.{NOTE:ちなみに俺はデブリだ。}
+Dialogue: 0,0:06:06.67,0:06:07.88,Default,Gale,0,0,0,,{TIME:366670,367880}Deb…{NOTE:デブ…}
+Dialogue: 0,0:06:11.60,0:06:12.01,Default,Gale,0,0,0,,{TIME:371600,372010}…la?{NOTE:ラ？}
+Dialogue: 0,0:06:13.22,0:06:14.18,Default,Debli,0,0,0,,{TIME:373220,374180}It's Debli!{NOTE:デブリだ！}
+Dialogue: 0,0:06:14.18,0:06:15.58,Default,Debli,0,0,0,,{TIME:374180,375580}De-{\alpha&HFF&\t(410,410,\alpha&H00&)}b-{\alpha&HFF&\t(820,820,\alpha&H00&)}li.{NOTE:デ･ブ･リ！}
+Dialogue: 0,0:06:15.58,0:06:16.81,Default,Gale,0,0,0,,{TIME:375580,376810}Ah, sorry.{NOTE:おっと、失礼。}
+Dialogue: 0,0:06:17.56,0:06:18.81,Default,Debli,0,0,0,,{TIME:377560,378810}I'm off. See you.{NOTE:じゃあな。あばよ。}
+Dialogue: 0,0:06:19.65,0:06:21.52,Default,Nuts,0,0,0,,{TIME:379650,381520}What was with him?{NOTE:あいつ何なんだ？}
+Dialogue: 0,0:06:21.52,0:06:24.19,Default,Nuts,0,0,0,,{TIME:381520,384190}Deb… something.{NOTE:デブ…何とか言ってたけど。}
+Dialogue: 0,0:06:24.90,0:06:26.49,Default,Gale,0,0,0,,{TIME:384900,386490}Beats me.{NOTE:さあね。}
+Dialogue: 0,0:06:26.49,0:06:27.57,Default,Debli,0,0,0,,{TIME:386490,387570}Hey!{NOTE:おーい！}
+Dialogue: 0,0:06:27.57,0:06:29.78,Default,Debli,0,0,0,,{TIME:387570,389780}People of Gildegaran!{NOTE:ギルデカランのみんな！}
+Dialogue: 0,0:06:29.78,0:06:32.49,Default,Debli,0,0,0,,{TIME:389780,392490}Have you seen this guy?{NOTE:こいつ見たことある人いねえか？}
+Dialogue: 0,0:06:32.49,0:06:34.49,Default,Debli,0,0,0,,{TIME:392490,394490}He's super-bad.{NOTE:すんげえ悪いやつなんだ。}
+Dialogue: 0,0:06:35.45,0:06:37.33,Default,Townfolk,0,0,0,,{TIME:395450,397330}– What?\N– Don't ask me…{NOTE:—何？\\N—いや…だってさ…}
+Dialogue: 0,0:06:37.33,0:06:38.62,Default,Debli,0,0,0,,{TIME:397330,398620}Huh?{NOTE:あれ？}
+Dialogue: 0,0:06:38.62,0:06:41.13,Default,Debli,0,0,0,,{TIME:398620,401130}Hey! Come on, look at it!{NOTE:ねえ！みんな見てってよ！}
+Dialogue: 0,0:06:41.13,0:06:44.05,Default,Debli,0,0,0,,{TIME:401130,404050}– I just said he's a villain!\N– Hm?{NOTE:—こいつすんげえ悪いやつなんだってば！\\N—ん？}
+Dialogue: 0,0:06:44.05,0:06:46.09,Default,Debli,0,0,0,,{TIME:404050,406090}Doesn't anybody know him?{NOTE:誰か知らねえか？}
+Dialogue: 0,0:06:46.09,0:06:48.13,Default,Lilia,0,0,0,,{TIME:406090,408130}What are you doing, Deb…{NOTE:何してるの？デブ…}
+Dialogue: 0,0:06:48.13,0:06:49.59,Default,(mixed),0,0,0,,{TIME:408130,409590}– Eh.\N– …li?{NOTE:—え。\\N—リ。}
+Dialogue: 0,0:06:49.59,0:06:51.89,Default,Debli,0,0,0,,{TIME:409590,411890}It's Debli! Don't make weird pauses!{NOTE:デブリだ！すっと言え！すっと！}
+Dialogue: 0,0:06:53.39,0:06:55.18,Default,Lilia,0,0,0,,{TIME:413390,415180}So what's with that picture?{NOTE:で何？その絵。}
+Dialogue: 0,0:06:55.18,0:06:57.18,Default,Debli,0,0,0,,{TIME:415180,417180}Ah, this?{NOTE:おう。これか？}
+Dialogue: 0,0:06:57.18,0:06:59.23,Default,Debli,0,0,0,,{TIME:417180,419230}It is a portrait of an Ebon Rider.{NOTE:ブラックライダーズの似顔絵だ。}
+Dialogue: 0,0:07:08.82,0:07:09.82,Default,Fifi,0,0,0,,{TIME:428820,429820}I see.{NOTE:そうね。}
+Dialogue: 0,0:07:09.82,0:07:12.70,Default,Fifi,0,0,0,,{TIME:429820,432700}No matter how you look,\Nthis picture completely represents Debli.{NOTE:この絵は完全にデブリの似顔絵ね。}
+Dialogue: 0,0:07:12.70,0:07:13.49,Default,Debli,0,0,0,,{TIME:432700,433490}Eh?{NOTE:えっ？}
+Dialogue: 0,0:07:13.49,0:07:16.54,Default,Debli,0,0,0,,{TIME:433490,436540}But I'm not an Ebon Rider.{NOTE:でも俺ブラックライダーズじゃねえぞ。}
+Dialogue: 0,0:07:16.54,0:07:18.66,Default,Lilia,0,0,0,,{TIME:436540,438660}Of course, we know that already.{NOTE:そんなこと分かってるから。}
+Dialogue: 0,0:07:18.66,0:07:19.79,Default,Debli,0,0,0,,{TIME:438660,439790}Oh?{NOTE:ああ？}
+Dialogue: 0,0:07:19.79,0:07:22.12,Default,Debli,0,0,0,,{TIME:439790,442120}Then why did he draw my face?{NOTE:じゃあ、どうして俺の顔が？}
+Dialogue: 0,0:07:22.12,0:07:28.46,Default,Lilia,0,0,0,,{TIME:442120,448460}Um… in short, the person who painted\Nthis picture was teasing you, Debli.{NOTE:えーと…つまり、デブリはその絵を描いた人に完全にからかわれたってこと。}
+Dialogue: 0,0:07:28.46,0:07:29.55,Default,Debli,0,0,0,,{TIME:448460,449550}Huh!?{NOTE:はあ!?}
+Dialogue: 0,0:07:29.55,0:07:31.63,Default,Debli,0,0,0,,{TIME:449550,451630}I-It can't be…{NOTE:そ…そんな…}
+Dialogue: 0,0:07:31.63,0:07:34.55,Default,Debli,0,0,0,,{TIME:451630,454550}That guy seemed super nice!{NOTE:あの兄ちゃんめっちゃいいやつだったぞ!}
+Dialogue: 0,0:07:34.55,0:07:36.01,Default,Debli,0,0,0,,{TIME:454550,456010}Ah, damn it!{NOTE:そんな～！}
+Dialogue: 0,0:07:36.01,0:07:41.31,Default,Debli,0,0,0,,{TIME:456010,461310}And here I was thinking I finally\Nhad a clue on how to rescue Avinia!{NOTE:せっかくアユリアを救い出す手掛かりをつかめたと思ったのに～！}
+Dialogue: 0,0:07:43.27,0:07:46.40,Default,Simone,0,0,0,,{TIME:463270,466400}Lilia, what's the status of your research?{NOTE:リリアその後の調査はどうなっている？}
+Dialogue: 0,0:07:46.40,0:07:52.11,Default,Lilia,0,0,0,,{TIME:466400,472110}I've estimated their location on the map\Nfrom looking where they appeared.{NOTE:今ブラックライダーズの出没地点から彼らのアジトを割り出しているところです。}
+Dialogue: 0,0:07:52.11,0:07:53.70,Default,Debli,0,0,0,,{TIME:472110,473700}W-What!?{NOTE:な…何!?}
+Dialogue: 0,0:07:53.70,0:07:55.57,Default,Debli,0,0,0,,{TIME:473700,475570}So you got it?{NOTE:で、分かったのか？}
+Dialogue: 0,0:07:55.57,0:07:57.58,Default,Debli,0,0,0,,{TIME:475570,477580}Avinia must be there.{NOTE:そこにアユリアがいるんだ。}
+Dialogue: 0,0:07:57.58,0:07:59.29,Default,Debli,0,0,0,,{TIME:477580,479290}Let's hurry up and go save her!{NOTE:さっさと助けに行くぞ！}
+Dialogue: 0,0:07:59.29,0:08:05.58,Default,Pappan,0,0,0,,{TIME:479290,485580}Ah, I'm afraid we can't rescue Avinia that\Neasily just by knowing where they're keeping her.{NOTE:あっ、いや彼らのアジトが分かったところでそう簡単にアユリアさんは救い出せないっす。}
+Dialogue: 0,0:08:05.58,0:08:07.38,Default,Debli,0,0,0,,{TIME:485580,487380}Why not?{NOTE:何でだよ？}
+Dialogue: 0,0:08:07.38,0:08:10.55,Default,Simone,0,0,0,,{TIME:487380,490550}The Ebon Riders are no ordinary Riders.{NOTE:ブラックライダーズはただのライダーではない。}
+Dialogue: 0,0:08:10.55,0:08:13.76,Default,Simone,0,0,0,,{TIME:490550,493760}They're using the Rite of Channeling to obtain new powers.{NOTE:伝承の儀で新たな技を身に付けている。}
+Dialogue: 0,0:08:13.76,0:08:15.68,Default,Debli,0,0,0,,{TIME:493760,495680}Rite of Channeling?{NOTE:伝承の儀？}
+Dialogue: 0,0:08:15.68,0:08:22.98,Default,Lilia,0,0,0,,{TIME:495680,502980}Using the Rite of Channeling lets you awaken\Nthe slumbering kinship genes of Monsties.{NOTE:伝承の儀ができるようになればオトモンが本来持つ様々な絆遺伝子を目覚めさせることができるの。}
+Dialogue: 0,0:08:22.98,0:08:24.10,Default,Debli,0,0,0,,{TIME:502980,504100}Huh…?{NOTE:はあ？}
+Dialogue: 0,0:08:24.10,0:08:27.27,Default,Pappan,0,0,0,,{TIME:504100,507270}In short, you can power up your Monstie.{NOTE:つまりオトモンをパワーアップできるっす。}
+Dialogue: 0,0:08:27.27,0:08:30.23,Default,Debli,0,0,0,,{TIME:507270,510230}Oh? The Rite of Channeling is pretty awesome.{NOTE:へぇ～、すげえな、伝承の儀。}
+Dialogue: 0,0:08:30.23,0:08:33.32,Default,Lilia,0,0,0,,{TIME:510230,513320}Lute is training with Dede Geezer right now.{NOTE:リュートもデデ爺のところで修業中よ。}
+Dialogue: 0,0:08:33.32,0:08:36.03,Default,Debli,0,0,0,,{TIME:513320,516030}Ah. Well, I can't stay idle.{NOTE:はっ！こうしちゃいられねえ。}
+Dialogue: 0,0:08:36.03,0:08:38.74,Default,Debli,0,0,0,,{TIME:516030,518740}I'll go too, for Avinia's sake!{NOTE:俺も行くぜ！アユリアを救うために！}
+Dialogue: 0,0:08:40.45,0:08:43.08,Default,Fifi,0,0,0,,{TIME:520450,523080}But as far as I know you don't have a Monstie?{NOTE:でもあなたにオトモンっていたかしら？}
+Dialogue: 0,0:08:43.08,0:08:45.88,Default,Debli,0,0,0,,{TIME:523080,525880}Ahaha! Don't look down on me.{NOTE:フハハハハ！俺をバカにすんなよ。}
+Dialogue: 0,0:08:47.17,0:08:48.38,Default,Debli,0,0,0,,{TIME:527170,528380}Watch closely.{NOTE:いいか？見てろよ。}
+Dialogue: 0,0:08:49.59,0:08:50.67,Default,Debli,0,0,0,,{TIME:529590,530670}Ride On!{NOTE:ライドオン！}
+Dialogue: 0,0:08:52.21,0:08:53.59,Default,Debli,0,0,0,,{TIME:532210,533590}Great Poogie!{NOTE:ドスプーギー！}
+Dialogue: 0,0:08:53.59,0:08:55.76,Default,Great Poogie,0,0,0,,{TIME:533590,535760}Oink oink oink oink!{NOTE:ぷひぷひぷひぷひ！}
+Dialogue: 0,0:09:04.23,0:09:05.94,Default,Debli,0,0,0,,{TIME:544230,545940}Hey, Poogie!{NOTE:こら！ドスプーギー！}
+Dialogue: 0,0:09:05.94,0:09:09.52,Default,Fifi,0,0,0,,{TIME:545940,549520}Well, Debli is not a Rider in the first place.{NOTE:まあ、そもそもデブリはライダーじゃないし。}
+Dialogue: 0,0:09:09.52,0:09:10.65,Default,Debli,0,0,0,,{TIME:549520,550650}What are you saying?{NOTE:何を言う？}
+Dialogue: 0,0:09:10.65,0:09:12.69,Default,Debli,0,0,0,,{TIME:550650,552690}I'm a true Rider at heart.{NOTE:心はほぼライダーだ。}
+Dialogue: 0,0:09:12.69,0:09:16.11,Default,Debli,0,0,0,,{TIME:552690,556110}I may even exceed regular Riders!{NOTE:ほぼライダーはライダーを超える存在さ！}
+Dialogue: 0,0:09:16.11,0:09:16.99,Default,(unison),0,0,0,,{TIME:556110,556990}– Huh?\N– Huh?{NOTE:—はあ？\\N—はあ？}
+Dialogue: 0,0:09:16.99,0:09:21.79,Default,Debli,0,0,0,,{TIME:556990,561790}Besides, this Great Poogie here and I\Nare connected by a firm kinship.{NOTE:それに俺とドスプーギーは固い絆で結ばれている。}
+Dialogue: 0,0:09:21.79,0:09:26.67,Default,Debli,0,0,0,,{TIME:561790,566670}I'll do the Rite of Channeling with him\Nand beat the Ebon Riders!{NOTE:俺はこいつに伝承の儀をして、必ずブラックライダーズを倒す！}
+Dialogue: 0,0:09:26.67,0:09:28.29,Default,Debli,0,0,0,,{TIME:566670,568290}Then…{NOTE:そして…}
+Dialogue: 0,0:09:29.67,0:09:31.25,Default,Debli,0,0,0,,{TIME:569670,571250}Do you acknowledge my superiority?{NOTE:見たか、俺の技を！}
+Dialogue: 0,0:09:31.25,0:09:32.42,Default,(unknown),0,0,0,,{TIME:571250,572420}Yes sir!{NOTE:ははー！}
+Dialogue: 0,0:09:32.42,0:09:35.55,Default,Debli,0,0,0,,{TIME:572420,575550}Master Debli, please forgive me!{NOTE:デブリさまどうかお許しを！}
+Dialogue: 0,0:09:35.55,0:09:38.01,Default,Avinia,0,0,0,,{TIME:575550,578010}Debli, forgive him!{NOTE:デブリさんお願い許してあげて！}
+Dialogue: 0,0:09:38.01,0:09:42.93,Default,Debli,0,0,0,,{TIME:578010,582930}Very well. Your kind and pure heart\Nhas saved this troubled soul.{NOTE:分かったよ。君の優しいピュアな心に免じて許してやるぜ。}
+Dialogue: 0,0:09:42.93,0:09:44.35,Default,Avinia,0,0,0,,{TIME:582930,584350}I am saved!?{NOTE:ホントですか!?}
+Dialogue: 0,0:09:44.35,0:09:47.39,Default,Debli,0,0,0,,{TIME:584350,587390}Listen well. Don't commit any evil…{NOTE:いいか？二度と悪さは…}
+Dialogue: 0,0:09:49.73,0:09:54.28,Default,Debli,0,0,0,,{TIME:589730,594280}…ever agai~n.{NOTE:するんじゃねえぞ～！}
+Dialogue: 0,0:09:54.28,0:09:55.90,Default,Avinia,0,0,0,,{TIME:594280,595900}Yes sir!{NOTE:ははー！}
+Dialogue: 0,0:09:56.95,0:10:00.03,Default,Narrator,0,0,0,,{TIME:596950,600030}Debli, the best in Gildegaran!{NOTE:よっ！デブリ屋！ギルデカランいち！}
+Dialogue: 0,0:10:00.03,0:10:02.58,Default,(mixed),0,0,0,,{TIME:600030,602580}Debli, thank you, you were awesome!{NOTE:デブリさんありがとう！すてき！}
+Dialogue: 0,0:10:02.58,0:10:03.79,Default,Debli,0,0,0,,{TIME:602580,603790}Ah, it's nothing.{NOTE:いや～！}
+Dialogue: 0,0:10:08.25,0:10:09.38,Default,Debli,0,0,0,,{TIME:608250,609380}All right!{NOTE:よーし！}
+Dialogue: 0,0:10:09.38,0:10:11.50,Default,Debli,0,0,0,,{TIME:609380,611500}Let's go, Poo…gie?{NOTE:行くぞドスプーギー…？}
+Dialogue: 0,0:10:11.50,0:10:13.13,Default,Debli,0,0,0,,{TIME:611500,613130}…he's not here!{NOTE:っていないがな！}
+Dialogue: 0,0:10:13.13,0:10:14.67,Default,Debli,0,0,0,,{TIME:613130,614670}Where did he go?{NOTE:どこ行った!?}
+Dialogue: 0,0:10:16.09,0:10:18.01,Default,Great Poogie,0,0,0,,{TIME:616090,618010}Oink oink oink oink!{NOTE:ぷひぷひぷひぷひ！}
+Dialogue: 0,0:10:18.01,0:10:19.59,Default,Debli,0,0,0,,{TIME:618010,619590}Hey! Wait!{NOTE:ちょっ！待てこら！}
+Dialogue: 0,0:10:19.59,0:10:22.97,Default,Fifi,0,0,0,,{TIME:619590,622970}Somehow that image makes me worry.{NOTE:何だか心配ね。あの思い込み。}
+Dialogue: 0,0:10:22.97,0:10:24.35,Default,Lilia,0,0,0,,{TIME:622970,624350}You said it…{NOTE:ねぇ…}
+Dialogue: 0,0:10:24.35,0:10:27.06,Default,Debli,0,0,0,,{TIME:624350,627060}Damn, he's fast!{NOTE:くっそ～。速えな、あいつ。}
+Dialogue: 0,0:10:31.15,0:10:32.65,Default,Debli,0,0,0,,{TIME:631150,632650}A chance!{NOTE:チャ～ンス。}
+Dialogue: 0,0:10:32.65,0:10:34.11,Default,Debli,0,0,0,,{TIME:632650,634110}Ride On!{NOTE:ライドオン！}
+Dialogue: 0,0:10:34.11,0:10:35.69,Default,Debli,0,0,0,,{TIME:634110,635690}Great Poogie!{NOTE:ドスプーギー！}
+Dialogue: 0,0:10:42.07,0:10:43.70,Default,Great Poogie,0,0,0,,{TIME:642070,643700}Oink oink oink oink.{NOTE:ぷひぷひぷひぷひ！}
+Dialogue: 0,0:10:45.70,0:10:48.00,Default,Debli,0,0,0,,{TIME:645700,648000}Hey, Poo…gie?{NOTE:こら！ドスプーギー？}
+Dialogue: 0,0:10:48.37,0:10:49.75,Default,Great Poogie,0,0,0,,{TIME:648370,649750}
+Dialogue: 0,0:10:49.75,0:10:51.46,Default,Fifi,0,0,0,,{TIME:649750,651460}Yes, good boy.{NOTE:はーい、いい子ね～。}
+Dialogue: 0,0:10:51.46,0:10:52.42,Default,Great Poogie,0,0,0,,{TIME:651460,652420}Oi~nk!{NOTE:プギ～！}
+Dialogue: 0,0:10:52.42,0:10:54.17,Default,Debli,0,0,0,,{TIME:652420,654170}What the heck?{NOTE:何なんだそりゃ～！}
+Dialogue: 0,0:10:55.55,0:10:57.59,Default,Lilia,0,0,0,,{TIME:655550,657590}I wonder if Debli's holding out alright?{NOTE:大丈夫かなデブリ。}
+Dialogue: 0,0:10:57.97,0:10:59.05,Default,Simone,0,0,0,,{TIME:657970,659050}Lilia?{NOTE:リリア？}
+Dialogue: 0,0:10:59.05,0:11:00.93,Default,Lilia,0,0,0,,{TIME:659050,660930}Ah, I'm sorry.{NOTE:あっ、すいません。}
+Dialogue: 0,0:11:00.93,0:11:03.35,Default,Pappan,0,0,0,,{TIME:660930,663350}He's with Fifi, so it should be okay.{NOTE:ティティが一緒ですから、大丈夫っすよ。}
+Dialogue: 0,0:11:03.35,0:11:07.39,Default,Simone,0,0,0,,{TIME:663350,667390}But I'm surprised that Fifi followed Debli.{NOTE:でもティティはデブリによくついていってくれたな。}
+Dialogue: 0,0:11:07.39,0:11:09.94,Default,Lilia,0,0,0,,{TIME:667390,669940}Yeah, I am, too.{NOTE:ええ。そうなんですよね。}
+Dialogue: 0,0:11:11.06,0:11:13.90,Default,Pappan,0,0,0,,{TIME:671060,673900}Perhaps she just doesn't know Debli enough?{NOTE:たぶん他人に思えなかったんじゃないっすか？}
+Dialogue: 0,0:11:13.90,0:11:15.07,Default,(unison),0,0,0,,{TIME:673900,675070}– Ah.\N– Ah.{NOTE:—あ～。\\N—あ～。}
+Dialogue: 0,0:11:25.78,0:11:26.99,Default,Fifi,0,0,0,,{TIME:685780,686990}Here you go.{NOTE:はい。}
+Dialogue: 0,0:11:26.99,0:11:27.95,Default,Debli,0,0,0,,{TIME:686990,687950}Eh?{NOTE:えっ？}
+Dialogue: 0,0:11:27.95,0:11:30.12,Default,Fifi,0,0,0,,{TIME:687950,690120}It's Lilia's handmade Hot Drink.{NOTE:リリアお手製のﾎｯﾄﾄﾞﾘﾝｸよ。}
+Dialogue: 0,0:11:31.33,0:11:33.75,Default,Debli,0,0,0,,{TIME:691330,693750}I've heard stories about this stuff.{NOTE:それってすんげえあれなやつじゃん。}
+Dialogue: 0,0:11:33.75,0:11:37.46,Default,Debli,0,0,0,,{TIME:693750,697460}I'd rather endure the cold than drink that.{NOTE:そんなん飲むくらいなら我慢した方が…}
+Dialogue: 0,0:11:39.51,0:11:42.89,Default,Fifi,0,0,0,,{TIME:699510,702890}Well, it's not like anyone's forcing you to drink it.{NOTE:まあ無理して飲まなくてもいいかもね～。}
+Dialogue: 0,0:11:42.89,0:11:44.68,Default,Fifi,0,0,0,,{TIME:702890,704680}We're nice and warm, though.{NOTE:私たちはポカポカだけど。}
+Dialogue: 0,0:11:44.68,0:11:45.60,Default,Great Poogie,0,0,0,,{TIME:704680,705600}Oink.{NOTE:プギ～。}
+Dialogue: 0,0:11:49.18,0:11:50.48,Default,Fifi,0,0,0,,{TIME:709180,710480}What's the magic word?{NOTE:何か？}
+Dialogue: 0,0:11:50.48,0:11:51.69,Default,Debli,0,0,0,,{TIME:710480,711690}Sorry-please.{NOTE:すんませんっした！}
+Dialogue: 0,0:11:51.69,0:11:52.90,Default,Fifi,0,0,0,,{TIME:711690,712900}That's better.{NOTE:うむ。}
+Dialogue: 0,0:11:54.44,0:11:56.77,Default,Debli,0,0,0,,{TIME:714440,716770}This is all for Avinia.{NOTE:これも全てアユリアのため。}
+Dialogue: 0,0:11:56.77,0:11:58.82,Default,Debli,0,0,0,,{TIME:716770,718820}Here goes!{NOTE:いくぞ！おらー！}
+Dialogue: 0,0:12:01.78,0:12:03.74,Default,Debli,0,0,0,,{TIME:721780,723740}I knew it, it's super bitter!{NOTE:やっぱすんげえ苦え！}
+Dialogue: 0,0:12:03.74,0:12:04.99,Default,Debli,0,0,0,,{TIME:723740,724990}Oh, I feel hot.{NOTE:ってあったか！}
+Dialogue: 0,0:12:04.99,0:12:06.41,Default,Debli,0,0,0,,{TIME:724990,726410}But it's so bitter!{NOTE:でも苦え！}
+Dialogue: 0,0:12:06.41,0:12:07.49,Default,Debli,0,0,0,,{TIME:726410,727490}But it's nice and warm!{NOTE:だがポカポカ！}
+Dialogue: 0,0:12:07.49,0:12:09.91,Default,Fifi,0,0,0,,{TIME:727490,729910}I wonder if following him was a mistake.{NOTE:ついてきたの失敗だったかしら。}
+Dialogue: 0,0:12:12.16,0:12:13.62,Default,Debli,0,0,0,,{TIME:732160,733620}Is anyone home?{NOTE:もしもーし。}
+Dialogue: 0,0:12:19.21,0:12:21.67,Default,Debli,0,0,0,,{TIME:739210,741670}Are you Dede Geezer?{NOTE:あんたがデデ爺か？}
+Dialogue: 0,0:12:21.67,0:12:22.76,Default,Riddlemaster,0,0,0,,{TIME:741670,742760}Yup.{NOTE:そうダ。}
+Dialogue: 0,0:12:22.76,0:12:24.22,Default,Riddlemaster,0,0,0,,{TIME:742760,744220}I'm Dede Geezer.{NOTE:デデ爺ダ。}
+Dialogue: 0,0:12:24.22,0:12:25.34,Default,Debli,0,0,0,,{TIME:744220,745340}I have a favor to ask.{NOTE:お願いだ。}
+Dialogue: 0,0:12:25.34,0:12:28.06,Default,Debli,0,0,0,,{TIME:745340,748060}Please do the Rite of Channeling on me and this Monstie.{NOTE:俺のオトモンに伝承の儀やってくれ。}
+Dialogue: 0,0:12:28.06,0:12:31.35,Default,Debli,0,0,0,,{TIME:748060,751350}He's my partner Great Poogie.{NOTE:ほら俺の相棒ドスプーギーだ。}
+Dialogue: 0,0:12:31.35,0:12:32.69,Default,Riddlemaster,0,0,0,,{TIME:751350,752690}Okay.{NOTE:分かったダ。}
+Dialogue: 0,0:12:32.69,0:12:35.23,Default,Riddlemaster,0,0,0,,{TIME:752690,755230}But you need to solve my riddle.{NOTE:ならオラのなぞなぞに答えるダ。}
+Dialogue: 0,0:12:35.23,0:12:36.44,Default,Debli,0,0,0,,{TIME:755230,756440}Riddle?{NOTE:なぞなぞ？}
+Dialogue: 0,0:12:36.44,0:12:39.36,Default,Debli,0,0,0,,{TIME:756440,759360}Fine. I'll get any question right!{NOTE:よし。全問正解してみせるぜ！}
+Dialogue: 0,0:12:39.36,0:12:41.03,Default,Debli,0,0,0,,{TIME:759360,761030}For Avinia's sake!{NOTE:アユリアのために！}
+Comment: 0,0:12:41.03,0:12:41.03,Default,Chapter,0,0,0,,{TIME:761030,761030}Eyecatch
+Dialogue: 0,0:12:41.61,0:12:42.74,Default,Lute,0,0,0,,{TIME:761610,762740}Ride On!{NOTE:ライドオン！}
+Dialogue: 0,0:12:43.99,0:12:45.03,Default,Lute,0,0,0,,{TIME:763990,765030}Rathalos!{NOTE:リオレウス！}
+Comment: 0,0:12:45.03,0:12:45.03,Default,Chapter,0,0,0,,{TIME:765030,765030}#Black screen
+Comment: 0,0:12:47.03,0:12:47.03,Default,Chapter,0,0,0,,{TIME:767030,767030}$Eyecatch
+Dialogue: 0,0:12:49.20,0:12:49.99,Default,Navirou,0,0,0,,{TIME:769200,769990}Nya-ow!{NOTE:ニャグゥ！}
+Comment: 0,0:12:51.04,0:12:51.04,Default,Chapter,0,0,0,,{TIME:771040,771040}Part B
+Dialogue: 0,0:12:51.54,0:12:53.71,Default,Riddlemaster,0,0,0,,{TIME:771540,773710}What is it, what is it?{NOTE:な～んダなんダ？}
+Dialogue: 0,0:12:53.71,0:12:56.21,Default,Debli,0,0,0,,{TIME:773710,776210}The answer is Nargacuga.{NOTE:答えはナルガクルガ！}
+Dialogue: 0,0:12:56.21,0:12:57.54,Default,Riddlemaster,0,0,0,,{TIME:776210,777540}Boo-boop.{NOTE:ブッブー。}
+Dialogue: 0,0:12:57.54,0:12:59.42,Default,Debli,0,0,0,,{TIME:777540,779420}Eh, again?{NOTE:え～またかよ。}
+Dialogue: 0,0:12:59.42,0:13:02.59,Default,Debli,0,0,0,,{TIME:779420,782590}This is 20th incorrect answer in a row.{NOTE:これで20問連続不正解じゃねえかよ。}
+Dialogue: 0,0:13:04.55,0:13:06.84,Default,Riddlemaster,0,0,0,,{TIME:784550,786840}The next question is the last one.{NOTE:次ラストの問題ダ。}
+Dialogue: 0,0:13:07.59,0:13:09.51,Default,Riddlemaster,0,0,0,,{TIME:787590,789510}Pin-pon, pin-pon!{NOTE:ピンポン、ピンポ～ン！}
+Dialogue: 0,0:13:09.51,0:13:11.64,Default,Riddlemaster,0,0,0,,{TIME:789510,791640}It's your last chance.{NOTE:ここでチャンスタイム。}
+Dialogue: 0,0:13:11.64,0:13:15.10,Default,Riddlemaster,0,0,0,,{TIME:791640,795100}If you can answer this question, I will teach you.{NOTE:この問題に答えられたら、教えてやるダ。}
+Dialogue: 0,0:13:15.10,0:13:19.36,Default,Debli,0,0,0,,{TIME:795100,799360}The last problem is worth 10000 points! You're a kind guy.{NOTE:最後の問題は点数十万倍！的なやつだな。}
+Dialogue: 0,0:13:19.36,0:13:21.23,Default,Debli,0,0,0,,{TIME:799360,801230}Okay, bring it on!{NOTE:よし！こい！}
+Dialogue: 0,0:13:21.23,0:13:27.07,Default,Riddlemaster,0,0,0,,{TIME:801230,807070}The Rite of Channeling needs a Monstie,\Na kinship with the Monstie and one more thing.{NOTE:伝承の儀に必要なものはオトモンとオトモンとの絆とあと一つ。}
+Dialogue: 0,0:13:27.07,0:13:29.12,Default,Riddlemaster,0,0,0,,{TIME:807070,809120}And what is it?{NOTE:これな～んダ？}
+Dialogue: 0,0:13:29.12,0:13:30.49,Default,Riddlemaster,0,0,0,,{TIME:809120,810490}What is it?{NOTE:なんダ？}
+Dialogue: 0,0:13:31.62,0:13:34.46,Default,Debli,0,0,0,,{TIME:811620,814460}H-H-H-Hey! Of course I don't know it!{NOTE:そそそ…そんなの分かるはずないだろ。}
+Dialogue: 0,0:13:34.46,0:13:37.83,Default,Debli,0,0,0,,{TIME:814460,817830}I came here because I don't know it!{NOTE:それが知りたいからここに来たんだっつうの！}
+Dialogue: 0,0:13:37.83,0:13:39.17,Default,Riddlemaster,0,0,0,,{TIME:817830,819170}Boo-boop.{NOTE:ブッブー。}
+Dialogue: 0,0:13:39.17,0:13:41.05,Default,Debli,0,0,0,,{TIME:819170,821050}Ehh!?{NOTE:え～！}
+Dialogue: 0,0:13:43.51,0:13:45.30,Default,Fifi,0,0,0,,{TIME:823510,825300}Are you okay, Debli?{NOTE:大丈夫？デブリ。}
+Dialogue: 0,0:13:46.43,0:13:50.26,Default,Debli,0,0,0,,{TIME:826430,830260}Hey, old man! Give me one more chance!{NOTE:おいデデ爺！おい！もっかいやらしてくれ～！}
+Dialogue: 0,0:13:50.26,0:13:52.89,Default,Debli,0,0,0,,{TIME:830260,832890}I absolutely need the Rite of Channeling.{NOTE:どうしても伝承の儀が必要なんだ…}
+Dialogue: 0,0:13:52.89,0:13:55.98,Default,Debli,0,0,0,,{TIME:832890,835980}Please, Dede Geezer! Open the door!{NOTE:頼むデデ爺！ここを開けてくれ～！}
+Dialogue: 0,0:14:03.40,0:14:05.11,Default,Debli,0,0,0,,{TIME:843400,845110}Damn…{NOTE:くっそ～…}
+Dialogue: 0,0:14:05.69,0:14:09.74,Default,Fifi,0,0,0,,{TIME:845690,849740}Let's get back to Gildegaran and make a fresh start.{NOTE:こうなったら一度ギルデカランへ戻って出直しましょう。}
+Dialogue: 0,0:14:10.74,0:14:15.16,Default,Fifi,0,0,0,,{TIME:850740,855160}No, that won't work! I will not budge\Nuntil I learn the Rite of Channeling!{NOTE:いや駄目だ！伝承の儀を受けられるまでここを動かんぞ！}
+Dialogue: 0,0:14:15.16,0:14:16.66,Default,Debli,0,0,0,,{TIME:855160,856660}Huh? That's…{NOTE:ん？あれは…}
+Dialogue: 0,0:14:16.66,0:14:17.46,Default,(mixed),0,0,0,,{TIME:856660,857460}– Hm?\N– Oink?{NOTE:—ん？\\N—プギ？}
+Dialogue: 0,0:14:21.34,0:14:23.25,Default,Debli,0,0,0,,{TIME:861340,863250}What is this thing?{NOTE:何だ？これ。}
+Dialogue: 0,0:14:23.25,0:14:24.51,Default,Fifi,0,0,0,,{TIME:863250,864510}It's so pretty.{NOTE:奇麗ね～。}
+Dialogue: 0,0:14:24.51,0:14:25.67,Default,Debli,0,0,0,,{TIME:864510,865670}This will…{NOTE:これは…}
+Dialogue: 0,0:14:25.67,0:14:26.72,Default,Fifi,0,0,0,,{TIME:865670,866720}Huh?{NOTE:へっ？}
+Dialogue: 0,0:14:26.72,0:14:29.51,Default,Debli,0,0,0,,{TIME:866720,869510}…sell for a high price, I think!{NOTE:た…高く売れる予感！}
+Dialogue: 0,0:14:30.59,0:14:31.35,Default,Fifi,0,0,0,,{TIME:870590,871350}Huh!?{NOTE:はっ!?}
+Dialogue: 0,0:14:31.35,0:14:34.56,Default,Debli,0,0,0,,{TIME:871350,874560}Alright, I'll sell it and earn at least some living expenses.{NOTE:よーし、こいつを売って生活費を稼ぐぞ。}
+Dialogue: 0,0:14:34.56,0:14:37.06,Default,Debli,0,0,0,,{TIME:874560,877060}Let's go back to Gildegaran and make a fresh start.{NOTE:ギルデカランに一度戻って出直しだ。}
+Dialogue: 0,0:14:37.06,0:14:38.64,Default,Fifi,0,0,0,,{TIME:877060,878640}He-Hey!{NOTE:ちょっ…ちょっと！}
+Dialogue: 0,0:14:38.64,0:14:41.40,Default,Fifi,0,0,0,,{TIME:878640,881400}You just said you won't budge!{NOTE:あなたさっきここを動かないって。}
+Dialogue: 0,0:14:41.40,0:14:45.53,Default,Debli,0,0,0,,{TIME:881400,885530}It can't be helped. I need money to work ahead.{NOTE:仕方ないだろ。この先修業するにも金は必要なの。}
+Dialogue: 0,0:14:45.53,0:14:48.03,Default,Debli,0,0,0,,{TIME:885530,888030}– Eh…?\N– You need to look at reality more.{NOTE:—え～。\\N—もっと現実を見ろよ。\\N—えっ？}
+Dialogue: 0,0:14:48.03,0:14:51.74,Default,Debli,0,0,0,,{TIME:888030,891740}Ah. I wonder if I can sell it for 1000 zenny?{NOTE:あ～。1000ゼニーくらいで売れるかな～。}
+Dialogue: 0,0:14:51.74,0:14:54.03,Default,Fifi,0,0,0,,{TIME:891740,894030}Are you seriously planning to sell it!?{NOTE:あなた本当に売る気なの!?}
+Dialogue: 0,0:14:55.04,0:14:56.41,Default,Lilia,0,0,0,,{TIME:895040,896410}A gem?{NOTE:玉？}
+Dialogue: 0,0:14:56.41,0:14:58.08,Default,Fifi,0,0,0,,{TIME:896410,898080}That's correct.{NOTE:そうなの。}
+Dialogue: 0,0:14:58.08,0:15:02.25,Default,Fifi,0,0,0,,{TIME:898080,902250}He couldn't answer a single riddle,\Nand picked up a precious stone instead.{NOTE:なぞなぞが答えられなかった代わりに玉を拾ってね。}
+Dialogue: 0,0:15:02.25,0:15:04.75,Default,Fifi,0,0,0,,{TIME:902250,904750}It was a transparent empty egg, though.{NOTE:透明な空っぽの玉だったんだけど。}
+Dialogue: 0,0:15:04.75,0:15:08.13,Default,Fifi,0,0,0,,{TIME:904750,908130}When the light hit it, the gem shined so nice and beautifully.{NOTE:光に当たるとすごい奇麗に光るのよ。}
+Dialogue: 0,0:15:09.76,0:15:11.01,Default,Lilia,0,0,0,,{TIME:909760,911010}Hey, Fifi…{NOTE:ねえ、ティティ。}
+Dialogue: 0,0:15:11.01,0:15:14.93,Default,Lilia,0,0,0,,{TIME:911010,914930}You found that gem near Dede Geezer's\Nhot spring inn, didn't you?{NOTE:その玉ってデデ爺の温泉宿のそばにあったのよね？}
+Dialogue: 0,0:15:14.93,0:15:15.97,Default,Fifi,0,0,0,,{TIME:914930,915970}Yes.{NOTE:ええ。}
+Dialogue: 0,0:15:15.97,0:15:19.27,Default,Fifi,0,0,0,,{TIME:915970,919270}I asked him how can he just pick\Nup things without permission.{NOTE:勝手に持ち帰るのはどうなの？って言ったんだけど。}
+Dialogue: 0,0:15:19.27,0:15:22.65,Default,Fifi,0,0,0,,{TIME:919270,922650}But then that boy was like, "what I pick up is mine!".{NOTE:あの子｢拾ったもんは俺のもんだ！｣}
+Dialogue: 0,0:15:22.65,0:15:24.40,Default,Fifi,0,0,0,,{TIME:922650,924400}He wouldn't listen to reason.{NOTE:聞きやしないのよ。}
+Dialogue: 0,0:15:24.40,0:15:26.65,Default,Fifi,0,0,0,,{TIME:924400,926650}Ah, just thinking about it makes me tired…{NOTE:ああ何だか疲れちゃったわ…}
+Dialogue: 0,0:15:26.65,0:15:29.15,Default,Lilia,0,0,0,,{TIME:926650,929150}Err… that gem…{NOTE:えっと…その玉絆…}
+Dialogue: 0,0:15:29.15,0:15:31.99,Default,Lilia,0,0,0,,{TIME:929150,931990}…can't be a Channeling Gem, right?{NOTE:珠ってことないかな？}
+Dialogue: 0,0:15:31.99,0:15:33.87,Default,Fifi,0,0,0,,{TIME:931990,933870}Eh? Of course not.{NOTE:ええ～？そんな…}
+Dialogue: 0,0:15:34.58,0:15:35.74,Default,Fifi,0,0,0,,{TIME:934580,935740}Hm?{NOTE:ん？}
+Dialogue: 0,0:15:35.74,0:15:37.08,Default,Fifi,0,0,0,,{TIME:935740,937080}We're in trouble!{NOTE:大変だわ！}
+Dialogue: 0,0:15:39.37,0:15:40.58,Default,Debli,0,0,0,,{TIME:939370,940580}Everyone!{NOTE:皆さ～ん！}
+Dialogue: 0,0:15:40.58,0:15:42.42,Default,Debli,0,0,0,,{TIME:940580,942420}Debli's shop now offers a super-rarity.{NOTE:デブリの店に超レア…}
+Dialogue: 0,0:15:42.42,0:15:45.96,Default,Debli,0,0,0,,{TIME:942420,945960}A beautiful sparkling and shining\Nprecious stone has just surfaced!{NOTE:…世にも美しいきらりと輝く玉が入ったよ～！}
+Dialogue: 0,0:15:45.96,0:15:47.84,Default,Debli,0,0,0,,{TIME:945960,947840}First come, first served!{NOTE:早い者勝ちだよ～！}
+Dialogue: 0,0:15:50.88,0:15:52.43,Default,Lilia,0,0,0,,{TIME:950880,952430}Debli!{NOTE:デブリ！}
+Dialogue: 0,0:15:52.43,0:15:52.93,Default,Debli,0,0,0,,{TIME:952430,952930}Yo.{NOTE:おう。}
+Dialogue: 0,0:15:52.93,0:15:54.72,Default,Fifi,0,0,0,,{TIME:952930,954720}Where's that gem?{NOTE:あの玉は!?}
+Dialogue: 0,0:15:54.72,0:15:56.22,Default,Debli,0,0,0,,{TIME:954720,956220}Ah, I sold it already.{NOTE:おう売れたぜ。}
+Dialogue: 0,0:15:56.22,0:16:00.23,Default,Debli,0,0,0,,{TIME:956220,960230}Hold your breath - for whopping 2000 zenny at that.{NOTE:聞いて驚け。何と2200ゼニーでだぜ。}
+Dialogue: 0,0:16:00.23,0:16:02.56,Default,(unison),0,0,0,,{TIME:960230,962560}– We're too late…\N– Huh?{NOTE:—遅かったか…\\N—えっ？}
+Dialogue: 0,0:16:02.56,0:16:03.60,Default,Debli,0,0,0,,{TIME:962560,963600}What's wrong?{NOTE:どうしたんだ？}
+Dialogue: 0,0:16:03.60,0:16:06.57,Default,Fifi,0,0,0,,{TIME:963600,966570}That gem wasn't an ordinary precious stone.{NOTE:あの玉ただの玉じゃなかったのよ。}
+Dialogue: 0,0:16:06.57,0:16:08.36,Default,Lilia,0,0,0,,{TIME:966570,968360}It was a Channeling Gem.{NOTE:絆珠だったの。}
+Dialogue: 0,0:16:08.36,0:16:09.07,Default,Debli,0,0,0,,{TIME:968360,969070}Huh?{NOTE:は？}
+Dialogue: 0,0:16:09.07,0:16:10.28,Default,Debli,0,0,0,,{TIME:969070,970280}Channeling Gem?{NOTE:キズナダマ？}
+Dialogue: 0,0:16:10.28,0:16:12.53,Default,Lilia,0,0,0,,{TIME:970280,972530}It's a stone necessary for the Rite of Channeling.{NOTE:伝承の儀に必要な玉なの。}
+Dialogue: 0,0:16:13.70,0:16:16.70,Default,Debli,0,0,0,,{TIME:973700,976700}I-I-I've got to get it back!{NOTE:おおお…俺返してもらってくる！}
+Dialogue: 0,0:16:23.83,0:16:25.08,Default,Debli,0,0,0,,{TIME:983830,985080}There he is!{NOTE:いた！}
+Dialogue: 0,0:16:25.08,0:16:28.50,Default,Debli,0,0,0,,{TIME:985080,988500}Hey! Mustached mister!{NOTE:おーい！そこのひげのおっさん！}
+Dialogue: 0,0:16:28.50,0:16:29.76,Default,Debli,0,0,0,,{TIME:988500,989760}Mister, I'm sorry.{NOTE:おっさんすまん。}
+Dialogue: 0,0:16:29.76,0:16:31.88,Default,Debli,0,0,0,,{TIME:989760,991880}Please, let's undo our trade.{NOTE:さっきの玉返してくれ。}
+Dialogue: 0,0:16:31.88,0:16:32.93,Default,Townfolk,0,0,0,,{TIME:991880,992930}What?{NOTE:ああ！}
+Dialogue: 0,0:16:32.93,0:16:37.39,Default,Townfolk,0,0,0,,{TIME:992930,997390}But I already sold that gem to someone else.{NOTE:さっきの玉なら欲しいって人がいてさっさと売っちまったぞ。}
+Dialogue: 0,0:16:37.39,0:16:40.60,Default,Debli,0,0,0,,{TIME:997390,1000600}Say what…? W-W-Who did you sell it to?{NOTE:何ぃ!?だだだ…誰に売ったんだ!?}
+Dialogue: 0,0:16:40.60,0:16:42.73,Default,Townfolk,0,0,0,,{TIME:1000600,1002730}To the inn keeper.{NOTE:宿屋をやってる女将だけど…}
+Dialogue: 0,0:16:42.73,0:16:44.69,Default,Debli,0,0,0,,{TIME:1002730,1004690}The inn keeper, you say?{NOTE:宿屋の女将だな!?}
+Dialogue: 0,0:16:44.69,0:16:46.10,Default,Debli,0,0,0,,{TIME:1004690,1006100}All right!{NOTE:よーし！}
+Dialogue: 0,0:16:47.90,0:16:48.77,Default,Debli,0,0,0,,{TIME:1007900,1008770}This is the place.{NOTE:ここか。}
+Dialogue: 0,0:16:49.94,0:16:51.82,Default,Debli,0,0,0,,{TIME:1009940,1011820}Excuse me…{NOTE:すみませー…}
+Dialogue: 0,0:16:51.82,0:16:53.11,Default,Debli,0,0,0,,{TIME:1011820,1013110}Oh?{NOTE:あ？}
+Dialogue: 0,0:16:53.11,0:16:56.03,Default,Debli,0,0,0,,{TIME:1013110,1016030}There it is! My Channeling Gem!{NOTE:あった！俺の絆珠！}
+Dialogue: 0,0:16:56.03,0:16:57.37,Default,Landlady,0,0,0,,{TIME:1016030,1017370}What's with the racket?{NOTE:何だい？あんた。}
+Dialogue: 0,0:16:58.24,0:17:00.20,Default,Debli,0,0,0,,{TIME:1018240,1020200}Well, this gem is mine, actually.{NOTE:この玉俺のなんだ。}
+Dialogue: 0,0:17:00.20,0:17:01.83,Default,Debli,0,0,0,,{TIME:1020200,1021830}Can you give it back?{NOTE:返してくれねえか？}
+Dialogue: 0,0:17:01.83,0:17:03.58,Default,Landlady,0,0,0,,{TIME:1021830,1023580}What are you saying?{NOTE:何言ってるんだい。}
+Dialogue: 0,0:17:03.58,0:17:05.62,Default,Landlady,0,0,0,,{TIME:1023580,1025620}It's mine, since I just purchased it.{NOTE:これは私が売ってもらったのさ。}
+Dialogue: 0,0:17:06.38,0:17:08.34,Default,Landlady,0,0,0,,{TIME:1026380,1028340}I paid 4000 zenny for it.{NOTE:4000ゼニーも払ってね。}
+Dialogue: 0,0:17:08.34,0:17:10.88,Default,Debli,0,0,0,,{TIME:1028340,1030880}Eh? 4000 zenny!?{NOTE:えっ!?4000ゼニー!?}
+Dialogue: 0,0:17:10.88,0:17:13.38,Default,Debli,0,0,0,,{TIME:1030880,1033380}You think you'd sell it for 2000 zenny by any chance?{NOTE:2000ゼニーで売ってくんねえか？}
+Dialogue: 0,0:17:13.38,0:17:15.09,Default,Landlady,0,0,0,,{TIME:1033380,1035090}Don't be absurd.{NOTE:無茶言わないでよ。}
+Dialogue: 0,0:17:15.09,0:17:19.01,Default,Landlady,0,0,0,,{TIME:1035090,1039010}I finally found a gem that matches it perfectly.{NOTE:やっと見つけたんだから。こんなにぴったりくる玉。}
+Dialogue: 0,0:17:19.01,0:17:20.56,Default,Debli,0,0,0,,{TIME:1039010,1040560}Please, I'll do anything!{NOTE:そこを何とか！}
+Dialogue: 0,0:17:20.56,0:17:23.06,Default,Debli,0,0,0,,{TIME:1040560,1043060}I need that gem no matter what!{NOTE:この玉がどうしても必要なんだ！}
+Dialogue: 0,0:17:23.06,0:17:25.35,Default,Debli,0,0,0,,{TIME:1043060,1045350}I need it to save a friend dear to me!{NOTE:大事な友達を助けるために！}
+Dialogue: 0,0:17:26.19,0:17:27.48,Default,Landlady,0,0,0,,{TIME:1046190,1047480}Save a friend…?{NOTE:友達を…}
+Dialogue: 0,0:17:29.11,0:17:30.23,Default,Debli,0,0,0,,{TIME:1049110,1050230}Please.{NOTE:お願いだ。}
+Dialogue: 0,0:17:30.23,0:17:32.78,Default,Debli,0,0,0,,{TIME:1050230,1052780}I'm begging you!{NOTE:このとおり。頼みます！}
+Dialogue: 0,0:17:36.66,0:17:38.07,Default,Landlady,0,0,0,,{TIME:1056660,1058070}All right…{NOTE:そんじゃまあ…}
+Dialogue: 0,0:17:38.07,0:17:40.99,Default,Landlady,0,0,0,,{TIME:1058070,1060990}…you can work off the 4000 zenny.{NOTE:…4000ゼニー分働いてもらおうかね。}
+Dialogue: 0,0:17:40.99,0:17:42.33,Default,Debli,0,0,0,,{TIME:1060990,1062330}Eh? Really?{NOTE:えっ!?本当？}
+Dialogue: 0,0:17:42.33,0:17:44.08,Default,Fifi,0,0,0,,{TIME:1062330,1064080}I'm happy for you, Debli.{NOTE:よかったじゃないデブリ。}
+Dialogue: 0,0:17:44.08,0:17:45.96,Default,Debli,0,0,0,,{TIME:1064080,1065960}When did you get here?{NOTE:っていつの間に！}
+Dialogue: 0,0:17:45.96,0:17:48.38,Default,Fifi,0,0,0,,{TIME:1065960,1068380}Work hard under the landlady.{NOTE:宿のお仕事頑張ってね。}
+Dialogue: 0,0:17:48.38,0:17:51.88,Default,Landlady,0,0,0,,{TIME:1068380,1071880}If you split the work between you two,\Nyou'll save twice the time.{NOTE:まあ２人でやれば半分の時間で済むしね。}
+Dialogue: 0,0:17:51.88,0:17:53.42,Default,Fifi,0,0,0,,{TIME:1071880,1073420}Ah? Between us two?{NOTE:えっ？２人？}
+Dialogue: 0,0:17:53.42,0:17:56.09,Default,Fifi,0,0,0,,{TIME:1073420,1076090}But, I'm…{NOTE:いや私は…}
+Dialogue: 0,0:17:56.09,0:17:58.39,Default,Fifi,0,0,0,,{TIME:1076090,1078390}Ah, okay, okay. Very well.{NOTE:あ～はいはい分かったわよ。}
+Dialogue: 0,0:18:00.68,0:18:01.93,Default,Debli,0,0,0,,{TIME:1080680,1081930}All right!{NOTE:うおー！}
+Dialogue: 0,0:18:01.93,0:18:04.31,Default,Debli,0,0,0,,{TIME:1081930,1084310}Wait for me, Avinia!{NOTE:待ってろよアユリア！}
+Dialogue: 0,0:18:05.68,0:18:06.81,Default,Debli,0,0,0,,{TIME:1085680,1086810}{NOTE:おりゃー！}
+Dialogue: 0,0:18:06.81,0:18:10.27,Default,Debli,0,0,0,,{TIME:1086810,1090270}For Avinia's sake, I'll take on anything!{NOTE:アユリアのためなら何ぼでもこいやー！}
+Dialogue: 0,0:18:12.65,0:18:14.19,Default,Fifi,0,0,0,,{TIME:1092650,1094190}Hey, that's reckless.{NOTE:ちょっと無茶よ。}
+Dialogue: 0,0:18:14.19,0:18:18.91,Default,Debli,0,0,0,,{TIME:1094190,1098910}I-If you compare it with Avinia's suffering…{NOTE:こ…こんなんアユリアのつらさに比べれば…}
+Dialogue: 0,0:18:18.91,0:18:22.49,Default,Debli,0,0,0,,{TIME:1098910,1102490}…th-this is nothing!{NOTE:何でも…ないぜー！}
+Dialogue: 0,0:18:24.12,0:18:26.08,Default,Townfolk,0,0,0,,{TIME:1104120,1106080}That boy's pretty strong.{NOTE:すげえなあの兄ちゃん。}
+Dialogue: 0,0:18:39.30,0:18:40.84,Default,Gale,0,0,0,,{TIME:1119300,1120840}I like that look.{NOTE:いいねぇその目。}
+Dialogue: 0,0:18:42.14,0:18:44.01,Default,Gale,0,0,0,,{TIME:1122140,1124010}Ah, by the way…{NOTE:ああそういえばさ…}
+Dialogue: 0,0:18:44.01,0:18:47.02,Default,Gale,0,0,0,,{TIME:1124010,1127020}I bumped into someone looking for you.{NOTE:お前を捜してるってやつに会った。}
+Dialogue: 0,0:18:47.02,0:18:51.69,Default,Gale,0,0,0,,{TIME:1127020,1131690}What was he called again… Deb… something.{NOTE:何つったかなぁ確かデブ…何とか。}
+Dialogue: 0,0:18:51.69,0:18:53.19,Default,Avinia,0,0,0,,{TIME:1131690,1133190}Debli?{NOTE:デブリさん…}
+Dialogue: 0,0:18:53.19,0:18:56.23,Default,Gale,0,0,0,,{TIME:1133190,1136230}Ah, yeah, yeah. That was the name.{NOTE:ああそうそうそんな名前だった。}
+Dialogue: 0,0:18:56.23,0:18:59.49,Default,Gale,0,0,0,,{TIME:1136230,1139490}He seemed worried a lot about you.{NOTE:何かずいぶん心配してたみたいだけど。}
+Dialogue: 0,0:19:00.28,0:19:03.91,Default,Gale,0,0,0,,{TIME:1140280,1143910}But that worry won't be of much use to you.{NOTE:あれじゃあ何の役にも立ちそうにないなぁ。}
+Dialogue: 0,0:19:05.20,0:19:06.91,Default,Landlady,0,0,0,,{TIME:1145200,1146910}Here you go.{NOTE:はい。お疲れさん。}
+Dialogue: 0,0:19:06.91,0:19:08.21,Default,Debli,0,0,0,,{TIME:1146910,1148210}Hooray!{NOTE:やった～！}
+Dialogue: 0,0:19:08.21,0:19:09.12,Default,Debli,0,0,0,,{TIME:1148210,1149120}Thanks!{NOTE:ありがとう。}
+Dialogue: 0,0:19:09.12,0:19:11.63,Default,Landlady,0,0,0,,{TIME:1149120,1151630}Don't mention it. You worked hard.{NOTE:いや。よく働いてくれたしね。}
+Dialogue: 0,0:19:12.58,0:19:14.00,Default,Debli,0,0,0,,{TIME:1152580,1154000}All right!{NOTE:よーし。}
+Dialogue: 0,0:19:14.00,0:19:15.55,Default,Debli,0,0,0,,{TIME:1154000,1155550}Wait for me, Avinia.{NOTE:待ってろよアユリア。}
+Dialogue: 0,0:19:16.30,0:19:18.72,Default,Debli,0,0,0,,{TIME:1156300,1158720}Let's go to Dede Geezer's place once again!{NOTE:デデ爺のとこへもう一回行くぞ。}
+Dialogue: 0,0:19:18.72,0:19:19.68,Default,Fifi,0,0,0,,{TIME:1158720,1159680}Okay.{NOTE:そうね。}
+Dialogue: 0,0:19:22.34,0:19:24.64,Default,Debli,0,0,0,,{TIME:1162340,1164640}The Rite of Channeling needs three things.{NOTE:伝承の儀に必要なもの。}
+Dialogue: 0,0:19:24.64,0:19:27.35,Default,Debli,0,0,0,,{TIME:1164640,1167350}It's a Monstie and a kinship with it.{NOTE:オトモンとオトモンとの絆。}
+Dialogue: 0,0:19:27.35,0:19:29.98,Default,Debli,0,0,0,,{TIME:1167350,1169980}And the last thing… is this.{NOTE:そしてもう一つは…これだ。}
+Dialogue: 0,0:19:32.23,0:19:33.81,Default,Riddlemaster,0,0,0,,{TIME:1172230,1173810}Correct.{NOTE:正解ダ。}
+Dialogue: 0,0:19:33.81,0:19:37.69,Default,Riddlemaster,0,0,0,,{TIME:1173810,1177690}The Rite of Channeling needs that Channeling Gem.{NOTE:伝承の儀に必要なのはその絆珠ダ。}
+Dialogue: 0,0:19:39.24,0:19:40.49,Default,Debli,0,0,0,,{TIME:1179240,1180490}Hooray!{NOTE:やった～！}
+Dialogue: 0,0:19:40.49,0:19:43.32,Default,Debli,0,0,0,,{TIME:1180490,1183320}So you'll do the Rite on us, right?{NOTE:これで伝承の儀やってくれるんだよな？}
+Dialogue: 0,0:19:43.32,0:19:46.16,Default,Debli,0,0,0,,{TIME:1183320,1186160}You can make my Great Poogie strong, right!?{NOTE:俺のドスプーギーを強くできるんだよな!?}
+Dialogue: 0,0:19:47.95,0:19:51.46,Default,Riddlemaster,0,0,0,,{TIME:1187950,1191460}But why are you holding it anyway?{NOTE:でもお前が何でそれを持っているダ？}
+Dialogue: 0,0:19:51.46,0:19:52.54,Default,Debli,0,0,0,,{TIME:1191460,1192540}Huh?{NOTE:えっ？}
+Dialogue: 0,0:19:52.54,0:19:55.25,Default,Riddlemaster,0,0,0,,{TIME:1192540,1195250}Why is it, why is it?{NOTE:なんでダ？な～んでダ？}
+Dialogue: 0,0:19:55.25,0:19:57.50,Default,Debli,0,0,0,,{TIME:1195250,1197500}I-I-I picked it up.{NOTE:ひひ…拾ったんだよ。}
+Dialogue: 0,0:19:57.50,0:19:58.88,Default,Riddlemaster,0,0,0,,{TIME:1197500,1198880}{\i1}Stare{\i0}.{NOTE:じー。}
+Dialogue: 0,0:19:58.88,0:20:00.09,Default,Debli,0,0,0,,{TIME:1198880,1200090}I'm serious.{NOTE:マジだってば。\\N}
+Dialogue: 0,0:20:00.09,0:20:01.51,Default,Riddlemaster,0,0,0,,{TIME:1200090,1201510}{\i1}Stare{\i0}.{NOTE:じー。}
+Dialogue: 0,0:20:01.51,0:20:02.51,Default,Fifi,0,0,0,,{TIME:1201510,1202510}Uhm…{NOTE:あの…}
+Dialogue: 0,0:20:02.51,0:20:05.18,Default,Fifi,0,0,0,,{TIME:1202510,1205180}It's true that this boy lies here and there…{NOTE:確かにこの子はあちこち嘘だらけだけど…}
+Dialogue: 0,0:20:05.18,0:20:06.26,Default,Debli,0,0,0,,{TIME:1205180,1206260}Hey!{NOTE:おい！}
+Dialogue: 0,0:20:06.26,0:20:11.31,Default,Fifi,0,0,0,,{TIME:1206260,1211310}But he's now desperately trying to become\Nstrong in order to save his important friend.{NOTE:今は大事な仲間を助けるため必死で強くなろうとしてるんです。}
+Dialogue: 0,0:20:11.31,0:20:13.77,Default,Fifi,0,0,0,,{TIME:1211310,1213770}That feeling isn't a lie.{NOTE:その気持ちだけは嘘偽りありません。}
+Dialogue: 0,0:20:15.73,0:20:18.53,Default,Fifi,0,0,0,,{TIME:1215730,1218530}Please, lend him strength.{NOTE:どうか彼に力を貸してあげてください。}
+Dialogue: 0,0:20:18.53,0:20:19.57,Default,Fifi,0,0,0,,{TIME:1218530,1219570}Please.{NOTE:お願いします。}
+Dialogue: 0,0:20:19.57,0:20:20.24,Default,Debli,0,0,0,,{TIME:1219570,1220240}Eh?{NOTE:えっ？}
+Dialogue: 0,0:20:26.41,0:20:27.78,Default,Riddlemaster,0,0,0,,{TIME:1226410,1227780}Okay.{NOTE:分かったダ。}
+Dialogue: 0,0:20:28.99,0:20:31.16,Default,Riddlemaster,0,0,0,,{TIME:1228990,1231160}Give me the Channeling Gem then.{NOTE:んじゃ絆珠を渡すダ。}
+Dialogue: 0,0:20:32.58,0:20:33.46,Default,Debli,0,0,0,,{TIME:1232580,1233460}Okay.{NOTE:ああ。}
+Dialogue: 0,0:20:35.83,0:20:39.25,Default,Riddlemaster,0,0,0,,{TIME:1235830,1239250}Do you really want me to do the\NRite of Channeling on you with this?{NOTE:ふーむ…お前本当にこれで伝承の儀をするだな？}
+Dialogue: 0,0:20:39.25,0:20:41.17,Default,Debli,0,0,0,,{TIME:1239250,1241170}Yes. Please.{NOTE:おうお願いするぜ。}
+Dialogue: 0,0:20:42.05,0:20:43.55,Default,Riddlemaster,0,0,0,,{TIME:1242050,1243550}Really…?{NOTE:ホントに？}
+Dialogue: 0,0:20:43.55,0:20:44.93,Default,Debli,0,0,0,,{TIME:1243550,1244930}Really!{NOTE:ホントに！}
+Dialogue: 0,0:20:44.93,0:20:46.85,Default,Riddlemaster,0,0,0,,{TIME:1244930,1246850}Really-really…?{NOTE:ホントにホントに？}
+Dialogue: 0,0:20:46.85,0:20:48.18,Default,Debli,0,0,0,,{TIME:1246850,1248180}Really-really!{NOTE:ホントにホントだ！}
+Dialogue: 0,0:20:49.56,0:20:50.81,Default,Riddlemaster,0,0,0,,{TIME:1249560,1250810}Okay.{NOTE:分かったダ。}
+Dialogue: 0,0:20:50.81,0:20:51.98,Default,Debli,0,0,0,,{TIME:1250810,1251980}All right!{NOTE:やった～！}
+Dialogue: 0,0:20:53.02,0:20:55.40,Default,Riddlemaster,0,0,0,,{TIME:1253020,1255400}What is it, what is it?{NOTE:な～んダなんダ？}
+Dialogue: 0,0:20:55.40,0:20:58.02,Default,Riddlemaster,0,0,0,,{TIME:1255400,1258020}What is the Rite?{NOTE:伝承な～んダ？}
+Dialogue: 0,0:20:58.02,0:21:01.82,Default,Riddlemaster,0,0,0,,{TIME:1258020,1261820}That which can combine two kinships…{NOTE:二つの絆を合わせてできるの…}
+Dialogue: 0,0:21:01.82,0:21:04.65,Default,Riddlemaster,0,0,0,,{TIME:1261820,1264650}…what is it?{NOTE:な～んダ？}
+Dialogue: 0,0:21:04.65,0:21:06.91,Default,Riddlemaster,0,0,0,,{TIME:1264650,1266910}Slumbering power, wake up.{NOTE:眠れる力よ目覚めよ。}
+Dialogue: 0,0:21:08.03,0:21:11.16,Default,Debli,0,0,0,,{TIME:1268030,1271160}All right, come, my Poogie!{NOTE:よしこい！俺のドスプーギー！}
+Dialogue: 0,0:21:11.83,0:21:13.96,Default,Great Poogie,0,0,0,,{TIME:1271830,1273960}
+Dialogue: 0,0:21:13.96,0:21:15.83,Default,Great Poogie,0,0,0,,{TIME:1273960,1275830}Oink…{NOTE:プギ～…}
+Dialogue: 0,0:21:15.83,0:21:16.83,Default,Debli,0,0,0,,{TIME:1275830,1276830}Huh?{NOTE:あれ？}
+Dialogue: 0,0:21:18.29,0:21:21.71,Default,Debli,0,0,0,,{TIME:1278290,1281710}What does this mean? He's just like he usually is.{NOTE:どういうことだよ？何も変わんないじゃないか！}
+Dialogue: 0,0:21:21.71,0:21:23.30,Default,Riddlemaster,0,0,0,,{TIME:1281710,1283300}Of course he is.{NOTE:当たり前ダ。}
+Dialogue: 0,0:21:23.30,0:21:25.22,Default,Riddlemaster,0,0,0,,{TIME:1283300,1285220}It's empty.{NOTE:これ空っぽダ。}
+Dialogue: 0,0:21:25.22,0:21:27.68,Default,Riddlemaster,0,0,0,,{TIME:1285220,1287680}The Rite of Channeling can't succeed like this.{NOTE:空じゃ伝承の儀は成功しないダ。}
+Dialogue: 0,0:21:28.80,0:21:31.77,Default,Debli,0,0,0,,{TIME:1288800,1291770}You could've told me that before!{NOTE:はあ～それを早く言えって！}
+Dialogue: 0,0:21:31.77,0:21:33.85,Default,Riddlemaster,0,0,0,,{TIME:1291770,1293850}That's why I asked you earlier.{NOTE:だからさっき聞いたダ。}
+Dialogue: 0,0:21:33.85,0:21:38.52,Default,Riddlemaster,0,0,0,,{TIME:1293850,1298520}"Do you really want me to do the Rite of Channeling?"{NOTE:｢ホントにホントにこの絆珠で伝承の儀をするのか？｣って。}
+Dialogue: 0,0:21:38.52,0:21:42.65,Default,Debli,0,0,0,,{TIME:1298520,1302650}Argh! What's with you? What's with you?\NI remember. Argh!{NOTE:ニャギャ～！何それ!?何それ!?いや聞いた！聞いたけどよ！フゴ～！}
+Dialogue: 0,0:21:42.65,0:21:43.61,Default,Riddlemaster,0,0,0,,{TIME:1302650,1303610}Here.{NOTE:ほれ。}
+Dialogue: 0,0:21:45.57,0:21:49.49,Default,Riddlemaster,0,0,0,,{TIME:1305570,1309490}I'm formally giving you this Channeling Gem.{NOTE:この絆珠は正式にお前にやるダ。}
+Dialogue: 0,0:21:49.49,0:21:52.24,Default,Riddlemaster,0,0,0,,{TIME:1309490,1312240}Work hard and you'll learn it too.{NOTE:頑張ってお前も修業するダ。}
+Dialogue: 0,0:21:52.24,0:21:53.75,Default,Debli,0,0,0,,{TIME:1312240,1313750}Learn it?{NOTE:修業？}
+Dialogue: 0,0:21:58.04,0:21:59.04,Default,Fifi,0,0,0,,{TIME:1318040,1319040}Hey!{NOTE:ちょっと！}
+Dialogue: 0,0:21:59.71,0:22:01.17,Default,(mixed),0,0,0,,{TIME:1319710,1321170}{NOTE:—うわ！\\N—あっ!}
+Dialogue: 0,0:22:01.17,0:22:03.88,Default,Debli,0,0,0,,{TIME:1321170,1323880}Hey, wait! My Poogie!{NOTE:こら待て！俺のドスプーギー！}
+Dialogue: 0,0:22:04.59,0:22:05.55,Default,(unison),0,0,0,,{TIME:1324590,1325550}Debli?{NOTE:デブリ？}
+Dialogue: 0,0:22:05.55,0:22:06.68,Default,Hyoro,0,0,0,,{TIME:1325550,1326680}Why?{NOTE:何で？}
+Dialogue: 0,0:22:06.68,0:22:08.76,Default,Fifi,0,0,0,,{TIME:1326680,1328760}He went through the Rite of Channeling.{NOTE:伝承の儀をしてたのよ。}
+Dialogue: 0,0:22:08.76,0:22:12.10,Default,Hyoro,0,0,0,,{TIME:1328760,1332100}Eh? Before us?{NOTE:えっ？デブリが僕たちより先に？}
+Dialogue: 0,0:22:12.10,0:22:14.18,Default,Fifi,0,0,0,,{TIME:1332100,1334180}Yes, but it failed.{NOTE:でも失敗だったの。}
+Dialogue: 0,0:22:15.18,0:22:16.81,Default,Fifi,0,0,0,,{TIME:1335180,1336810}Good luck with your studies.{NOTE:みんな修業頑張ってね。}
+Dialogue: 0,0:22:17.69,0:22:20.11,Default,Fifi,0,0,0,,{TIME:1337690,1340110}Thank you as well, Dede Geezer.{NOTE:デデ爺もありがとうございました。}
+Dialogue: 0,0:22:20.11,0:22:22.44,Default,Fifi,0,0,0,,{TIME:1340110,1342440}Really… what a troublesome boy.{NOTE:まったく…世話が焼けるんだから。}
+Dialogue: 0,0:22:22.44,0:22:23.57,Default,Riddlemaster,0,0,0,,{TIME:1342440,1343570}Did you…{NOTE:もしや…}
+Dialogue: 0,0:22:24.73,0:22:28.28,Default,Riddlemaster,0,0,0,,{TIME:1344730,1348280}…two come to learn about the Rite of Channeling?{NOTE:お前たちも伝承の儀をやりに来たダ？}
+Dialogue: 0,0:22:28.28,0:22:29.45,Default,(unison),0,0,0,,{TIME:1348280,1349450}– Yes.\N– Yes.{NOTE:—はい。\\N—はい。}
+Dialogue: 0,0:22:29.45,0:22:30.41,Default,Riddlemaster,0,0,0,,{TIME:1349450,1350410}Hm.{NOTE:ふむ。}
+Dialogue: 0,0:22:30.41,0:22:35.12,Default,Riddlemaster,0,0,0,,{TIME:1350410,1355120}Then you hold on to these too and go to the snowy mountains.{NOTE:ならばお前らもこれを持って雪山に行くダ。}
+Dialogue: 0,0:22:35.12,0:22:36.79,Default,Hyoro,0,0,0,,{TIME:1355120,1356790}So that's the Channeling Gem…{NOTE:これが絆珠。}
+Dialogue: 0,0:22:36.79,0:22:37.96,Default,Mille,0,0,0,,{TIME:1356790,1357960}It's beautiful.{NOTE:奇麗…}
+Dialogue: 0,0:22:37.96,0:22:40.83,Default,Riddlemaster,0,0,0,,{TIME:1357960,1360830}But they're still empty.{NOTE:まだ中身は空っぽだ。}
+Dialogue: 0,0:22:40.83,0:22:44.84,Default,Riddlemaster,0,0,0,,{TIME:1360830,1364840}Your task is to learn how to fill them up with the kinship power.{NOTE:その玉に絆の力を込める修業をするダ。}
+Dialogue: 0,0:22:44.84,0:22:46.97,Default,Riddlemaster,0,0,0,,{TIME:1364840,1366970}Lute's studying too.{NOTE:リュートも行ってるダ。}
+Dialogue: 0,0:22:46.97,0:22:48.22,Default,Mille,0,0,0,,{TIME:1366970,1368220}Oh?{NOTE:お？}
+Dialogue: 0,0:22:50.05,0:22:52.80,Default,(mixed),0,0,0,,{TIME:1370050,1372800}Hey! Wait for me, Poogie!{NOTE:こらー！待てドスプーギー！}
+Dialogue: 0,0:22:53.64,0:22:55.35,Default,Debli,0,0,0,,{TIME:1373640,1375350}How far are you goin—{NOTE:どこまで行く気なんだ。ぶあっ！}
+Dialogue: 0,0:22:56.02,0:22:57.68,Default,Debli,0,0,0,,{TIME:1376020,1377680}Ow-ow-ow…{NOTE:いててて…}
+Dialogue: 0,0:22:59.60,0:23:02.90,Default,Debli,0,0,0,,{TIME:1379600,1382900}I can't help Avinia this way…{NOTE:うう～こんなんじゃアユリアを助けに行けねえじゃんか…}
+Dialogue: 0,0:23:03.86,0:23:04.94,Default,Debli,0,0,0,,{TIME:1383860,1384940}Damn!{NOTE:くっそー！}
+Dialogue: 0,0:23:04.94,0:23:07.53,Default,Debli,0,0,0,,{TIME:1384940,1387530}I want to be stronger!{NOTE:俺はもっと強くなりたいのにー！}
+Dialogue: 0,0:23:08.99,0:23:10.41,Default,Fifi,0,0,0,,{TIME:1388990,1390410}It's okay.{NOTE:大丈夫。}
+Dialogue: 0,0:23:10.41,0:23:14.28,Default,Fifi,0,0,0,,{TIME:1390410,1394280}If you stay that motivated,\Nyou will definitely get stronger someday.{NOTE:その思いがあればいつか必ず強くなれるわ。}
+Dialogue: 0,0:23:14.28,0:23:15.33,Default,Debli,0,0,0,,{TIME:1394280,1395330}Avinia.{NOTE:アユリア。}
+Dialogue: 0,0:23:15.33,0:23:18.75,Default,Debli,0,0,0,,{TIME:1395330,1398750}I'll surely get stronger and save you.{NOTE:俺もっと強くなって必ず迎えに行くからな。}
+Dialogue: 0,0:23:18.75,0:23:22.04,Default,Debli,0,0,0,,{TIME:1398750,1402040}Wait for me, my Avinia!{NOTE:待ってろよ俺のアユリアー！}
+Comment: 0,0:23:27.05,0:23:27.05,Default,Chapter,0,0,0,,{TIME:1407050,1407050}#Black screen
+Comment: 0,0:23:29.05,0:23:29.05,Default,Chapter,0,0,0,,{TIME:1409050,1409050}Preview
+Dialogue: 0,0:23:30.22,0:23:31.43,Default,Lute,80,80,80,,{TIME:1410220,1411430}Lute here!{NOTE:俺リュート！}
+Dialogue: 0,0:23:31.43,0:23:34.89,Default,Lute,80,80,80,,{TIME:1411430,1414890}To obtain the new power, I need to meet with Kirin.{NOTE:新しい力を手に入れるためにキリンに会うことに。}
+Dialogue: 0,0:23:34.89,0:23:38.02,Default,Lute,80,80,80,,{TIME:1414890,1418020}Eh? I have to defeat you if I want that power!?{NOTE:えっ？力を得るにはお前を倒さなくちゃいけない!?}
+Dialogue: 0,0:23:38.02,0:23:40.64,Default,Lute,0,80,80,,{TIME:1418020,1420640}No, I don't want to fight you!{NOTE:駄目だお前とは戦えない！}
+Dialogue: 0,0:23:40.64,0:23:43.61,Default,Lute,80,80,80,,{TIME:1420640,1423610}Next time:\N"The Bolt Rathalos!" Ride On!{NOTE:次回｢雷光のレウス｣にライドオン！}
+Comment: 0,0:23:44.06,0:23:44.06,Default,Chapter,0,0,0,,{TIME:1424060,1424060}#Sponsors
