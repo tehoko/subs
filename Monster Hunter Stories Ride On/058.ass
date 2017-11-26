@@ -19,6 +19,7 @@ Style: Sign,Fira Sans,44.0,&H00DEFAFA,&H000000FF,&H001A2632,&HA0202020,-1,0,0,0,
 Style: OP/ED English,Tahoma,35.0,&H0AFFFFFF,&HFFFFFFFF,&H37FF1513,&H80FF0000,-1,-1,0,0,100.0,120.0,0.0,0.0,1,3.0,0.0,2,23,23,80,1
 Style: OP/ED Romaji,Tahoma,30.0,&H0AFFFFFF,&H19000000,&H37FF1513,&H80FF0000,-1,-1,0,0,100.0,120.0,0.0,0.0,1,3.0,0.0,8,23,23,30,1
 Style: Episode,Chinacat,50.0,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,0,0,0,0,103.0,100.0,0.0,0.0,1,3.0,0.0,2,20,20,20,1
+Style: Beast,Komika Axis,70,&H00FAF9F6,&H000000FF,&H00000040,&H7F202020,-1,0,0,0,100,100,0,0,1,7.0,0,2,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -409,7 +410,7 @@ Dialogue: 0,0:17:01.66,0:17:03.79,Default,Navirou,0,0,0,,{TIME:1021667,1023794}S
 Dialogue: 0,0:17:03.79,0:17:05.33,Default,Navirou,0,0,0,,{TIME:1023794,1025337}Nya-ow!{NOTE:ニャグゥ！}
 Dialogue: 0,0:17:05.33,0:17:06.46,Default,Villager,0,0,0,,{TIME:1025337,1026463}Nya-ow!{NOTE:ニャグゥ！}
 Dialogue: 0,0:17:06.46,0:17:10.17,Default,Lute,0,0,0,,{TIME:1026463,1030175}I think coming to Pawpad Place\Nwas a mistake after all…{NOTE:ニクキュー村に来たの完全に間違いだったな。}
-Dialogue: 0,0:17:16.59,0:17:20.22,Default,,0,0,0,,{TIME:1036598,1040226}{\fad(400,350)\b1\fnKomika Axis\fs70\bord7\shad0\3c&H000040&\pos(210,180)}Water Beast\NRoyal Ludroth{NOTE:水獣\\Nロアルドロス}
+Dialogue: 0,0:17:16.59,0:17:20.22,Beast,,0,0,0,,{TIME:1036598,1040226}{\fad(400,350)\pos(210,180)}Water Beast\NRoyal Ludroth{NOTE:水獣\\Nロアルドロス}
 Dialogue: 0,0:17:25.77,0:17:26.98,Default,Cool,0,0,0,,{TIME:1045774,1046984}A Royal Ludroth!{NOTE:ロアルドロスだ！}
 Dialogue: 0,0:17:35.65,0:17:37.32,Default,Lute,0,0,0,,{TIME:1055659,1057327}My meat!{NOTE:俺の肉！}
 Dialogue: 0,0:17:37.32,0:17:39.41,Default,Navirou,0,0,0,,{TIME:1057327,1059413}Thief!{NOTE:泥棒！}
