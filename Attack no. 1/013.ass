@@ -24,6 +24,7 @@ Style: Blackboard,Etelka Text Pro,43.0,&H00CDD1D2,&H000000FF,&H00000000,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:14.27,0:00:18.74,Lyrics JP,,0,0,0,,{TIME:14270,18740}{\an8}苦しくたって
 Dialogue: 0,0:00:18.74,0:00:21.95,Lyrics JP,,0,0,0,,{TIME:18740,21950}{\an8}悲しくたって
 Dialogue: 0,0:00:21.95,0:00:29.28,Lyrics JP,,0,0,0,,{TIME:21950,29280}{\an8}コートのなかでは平気なの
@@ -60,7 +61,9 @@ Dialogue: 0,0:00:52.41,0:01:00.68,Lyrics EN,,0,0,0,,{TIME:52410,60680}Through th
 Dialogue: 0,0:01:00.68,0:01:08.82,Lyrics EN,,0,0,0,,{TIME:60680,68820}…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:08.82,0:01:16.98,Lyrics EN,,0,0,0,,{TIME:68820,76980}Attack! Attack! Number 1!
 Dialogue: 0,0:01:16.98,0:01:26.12,Lyrics EN,,0,0,0,,{TIME:76980,86120}Attack! Attack! Number 1!
+Comment: 0,0:01:27.04,0:01:27.04,Default,Chapter,0,0,0,,{TIME:87045,87045}Title screen
 Dialogue: 0,0:01:32.61,0:01:40.01,Default,,0,0,0,,{TIME:92610,100010}—Episode 013—\NStrategy without strategy{NOTE:作戦なき作戦}
+Comment: 0,0:01:40.01,0:01:40.01,Default,Chapter,0,0,0,,{TIME:100017,100017}Part A
 Dialogue: 0,0:01:45.71,0:01:56.63,Sign,,0,0,0,,{TIME:105710,116630}All-Japan Middle School Girls Volleyball Championships{NOTE:全国中学女子バレーボール選手権大会}
 Dialogue: 0,0:01:46.28,0:01:50.34,Default,Commentator 1,0,0,0,,{TIME:106280,110340}In the All-Japan Volleyball Championships…{NOTE:全国中学バレー選手権大会もこのXXXで、}
 Dialogue: 0,0:01:50.34,0:01:53.14,Default,Commentator 1,0,0,0,,{TIME:110340,113140}…out of 32 participant teams only 8 are still in.{NOTE:参加チーム三十二このうち、八こが残り。}
@@ -339,6 +342,7 @@ Dialogue: 0,0:12:15.65,0:12:17.54,Default,Hongou,0,0,0,,{TIME:735650,737540}It h
 Dialogue: 0,0:12:30.54,0:12:33.56,Alternative,Ayuhara,0,0,0,,{TIME:750540,753560}Nothing can be done except\Nthe "strategy without strategy"…?{NOTE:作戦なき作戦しか打つ手がないなんて。}
 Dialogue: 0,0:12:33.56,0:12:35.76,Alternative,Ayuhara,0,0,0,,{TIME:753560,755760}I guess it's no use dwelling on it.{NOTE:考えもうつかないXXXだわ。}
 Dialogue: 0,0:12:49.36,0:12:50.11,Default,Kakinouchi,0,0,0,,{TIME:769360,770110}{NOTE:はい。}
+Comment: 0,0:13:10.87,0:13:10.87,Default,Chapter,0,0,0,,{TIME:790873,790873}Part B
 Dialogue: 0,0:13:16.44,0:13:17.15,Default,(unknown),0,0,0,,{TIME:796440,797150}{NOTE:はい！}
 Dialogue: 0,0:13:20.36,0:13:21.15,Default,(unknown),0,0,0,,{TIME:800360,801150}{NOTE:はい！}
 Dialogue: 0,0:13:24.75,0:13:25.63,Default,Kakinouchi,0,0,0,,{TIME:804750,805630}{NOTE:はああい！}
@@ -538,6 +542,7 @@ Dialogue: 0,0:23:32.98,0:23:36.36,Default,Kakinouchi,0,0,0,,{TIME:1412980,141636
 Dialogue: 0,0:23:36.36,0:23:37.40,Default,Kakinouchi,0,0,0,,{TIME:1416360,1417400}Hahahaha.{NOTE:ハハハハ。}
 Dialogue: 0,0:23:37.84,0:23:38.25,Alternative,Ayuhara,0,0,0,,{TIME:1417840,1418250}Eh?{NOTE:え？}
 Dialogue: 0,0:23:39.17,0:23:40.73,Alternative,Ayuhara,0,0,0,,{TIME:1419170,1420730}Went crazy on her own?{NOTE:勝手に気が狂った？}
+Comment: 0,0:23:51.38,0:23:51.38,Default,Chapter,0,0,0,,{TIME:1431388,1431388}Preview
 Dialogue: 0,0:23:53.81,0:23:58.06,Alternative,Narrator,0,0,0,,{TIME:1433810,1438060}Fukuoka wins the first set against Fujimi.{NOTE:福岡中XXXワンセットを落とした富士見学園。}
 Dialogue: 0,0:23:58.06,0:23:59.71,Alternative,Narrator,0,0,0,,{TIME:1438060,1439710}"Remember the music."{NOTE:さっきの音楽を思い出せ。}
 Dialogue: 0,0:23:59.71,0:24:04.10,Alternative,Narrator,0,0,0,,{TIME:1439710,1444100}—says coach Hongou. Kozue, keeping these words in mind, wins the second set.{NOTE:と言う本郷コーチの言葉で立ち直ったこずえたちは第二セットを取る。}
@@ -546,6 +551,7 @@ Dialogue: 0,0:24:06.06,0:24:08.80,Alternative,Narrator,0,0,0,,{TIME:1446060,1448
 Dialogue: 0,0:24:08.80,0:24:11.85,Alternative,Narrator,0,0,0,,{TIME:1448800,1451850}…and Fujimi Academy faces a\hpinch with the score of 15 to 14.{NOTE:…富士見学園は十五対十四ピンチを向かえる。}
 Dialogue: 0,0:24:11.85,0:24:17.30,Alternative,Narrator,0,0,0,,{TIME:1451850,1457300}Just then, Kozue, having reclaimed the\hright to serve, has a wonderful idea.{NOTE:そんな時、相手のXXXこずえは素晴らしい作戦を思いついた。}
 Dialogue: 0,0:24:17.30,0:24:20.89,Alternative,Narrator,0,0,0,,{TIME:1457300,1460890}Please look forward to the next episode.{NOTE:さ、来週のアタックナンバーワンをお楽しみに。}
+Comment: 0,0:24:26.38,0:24:26.38,Default,Chapter,0,0,0,,{TIME:1466382,1466382}Ending
 Dialogue: 0,0:24:40.10,0:24:43.94,Lyrics JP,,0,0,0,,{TIME:1480100,1483940}{\an8}青い青い空に
 Dialogue: 0,0:24:43.94,0:24:47.02,Lyrics JP,,0,0,0,,{TIME:1483940,1487020}{\an8}バンボンボボン
 Dialogue: 0,0:24:47.02,0:24:51.11,Lyrics JP,,0,0,0,,{TIME:1487020,1491110}{\an8}はずむボールが

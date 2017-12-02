@@ -24,6 +24,7 @@ Style: Blackboard,Etelka Text Pro,43.0,&H00CDD1D2,&H000000FF,&H00000000,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:14.27,0:00:18.70,Lyrics JP,,0,0,0,,{TIME:14270,18700}{\an8}苦しくたって
 Dialogue: 0,0:00:18.70,0:00:22.23,Lyrics JP,,0,0,0,,{TIME:18700,22230}{\an8}悲しくたって
 Dialogue: 0,0:00:22.23,0:00:29.24,Lyrics JP,,0,0,0,,{TIME:22230,29240}{\an8}コートのなかでは平気なの
@@ -60,7 +61,9 @@ Dialogue: 0,0:00:52.52,0:01:00.68,Lyrics EN,,0,0,0,,{TIME:52520,60680}Through th
 Dialogue: 0,0:01:00.68,0:01:08.76,Lyrics EN,,0,0,0,,{TIME:60680,68760}…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:08.76,0:01:16.86,Lyrics EN,,0,0,0,,{TIME:68760,76860}Attack! Attack! Number 1!
 Dialogue: 0,0:01:16.86,0:01:26.12,Lyrics EN,,0,0,0,,{TIME:76860,86120}Attack! Attack! Number 1!
+Comment: 0,0:01:27.04,0:01:27.04,Default,Chapter,0,0,0,,{TIME:87045,87045}Title screen
 Dialogue: 0,0:01:32.59,0:01:40.05,Default,,0,0,0,,{TIME:92590,100050}—Episode 006—\NMake it through! Attack duo{NOTE:進め！アタック・コンビ}
+Comment: 0,0:01:40.05,0:01:40.05,Default,Chapter,0,0,0,,{TIME:100057,100057}Part A
 Dialogue: 0,0:01:42.31,0:01:43.82,Default,,0,0,0,,{TIME:102310,103820}Well, how will it be?{NOTE:さ。どうなんだ？}
 Dialogue: 0,0:01:43.82,0:01:45.13,Default,,0,0,0,,{TIME:103820,105130}Answer me.{NOTE:返事をしろ。}
 Dialogue: 0,0:01:45.13,0:01:47.34,Default,,0,0,0,,{TIME:105130,107340}Are you going to do the practice game or not?{NOTE:練習試合をやるかやらないのか？}
@@ -286,6 +289,7 @@ Dialogue: 0,0:12:03.56,0:12:04.47,Default,,0,0,0,,{TIME:723560,724470}Play ball.
 Dialogue: 0,0:12:04.47,0:12:06.45,Default,,0,0,0,,{TIME:724470,726450}Get the serve back like planned!{NOTE:例の作戦でサーブXXXを取るのよ！}
 Dialogue: 0,0:12:09.27,0:12:11.05,Default,,0,0,0,,{TIME:729270,731050}Nice serve, please!{NOTE:ナイスサーブよ！}
 Dialogue: 0,0:12:15.58,0:12:16.48,Default,,0,0,0,,{TIME:735580,736480}Here it goes!{NOTE:(XXX・それよ)！}
+Comment: 0,0:12:26.66,0:12:26.66,Default,Chapter,0,0,0,,{TIME:746663,746663}Part B
 Dialogue: 0,0:12:39.72,0:12:40.82,Default,,0,0,0,,{TIME:759720,760820}What?{NOTE:何だ！}
 Dialogue: 0,0:12:40.82,0:12:42.26,Default,,0,0,0,,{TIME:760820,762260}– We did it.\N– We did it!{NOTE:—やった。\\N—やったわ。}
 Dialogue: 0,0:12:42.26,0:12:44.85,Default,,0,0,0,,{TIME:762260,764850}There it is, the long-awaited attack duo.{NOTE:できた。待望のアタックコンビが。}
@@ -498,6 +502,7 @@ Dialogue: 0,0:23:28.39,0:23:29.83,Default,,0,0,0,,{TIME:1408390,1409830}Professo
 Dialogue: 0,0:23:30.69,0:23:32.61,Alternative,,0,0,0,,{TIME:1410690,1412610}It's the birth of a wonderful team.{NOTE:素晴らしいチームが生まれるぞ。}
 Dialogue: 0,0:23:33.07,0:23:33.79,Alternative,,0,0,0,,{TIME:1413070,1413790}All right.{NOTE:よし！}
 Dialogue: 0,0:23:33.79,0:23:36.53,Alternative,,0,0,0,,{TIME:1413790,1416530}I'll make you into the strongest team!{NOTE:僕はきっとXXXのチームにしてみせる！}
+Comment: 0,0:23:51.34,0:23:51.34,Default,Chapter,0,0,0,,{TIME:1431346,1431346}Preview
 Dialogue: 0,0:23:53.62,0:23:58.94,Alternative,,0,0,0,,{TIME:1433620,1438940}Having reunited with the demon coach, Fujimi Academy volleyball club picks up the training.{NOTE:鬼コーチとも、心が溶け合い、XXX練習に励む富士見学園バレー部。}
 Dialogue: 0,0:23:58.94,0:24:03.30,Alternative,,0,0,0,,{TIME:1438940,1443300}But a new problem appears\h– a possible merging with Hamaki Middle School.{NOTE:しかし、突然浜紀中学との合併と言う新たな問題がおこり。}
 Dialogue: 0,0:24:03.30,0:24:06.71,Alternative,,0,0,0,,{TIME:1443300,1446710}The girls, having finally caught a breath, are disturbed again.{NOTE:せっかく纏まった部員たちの心動揺させる。}
@@ -505,6 +510,7 @@ Dialogue: 0,0:24:06.71,0:24:13.09,Alternative,,0,0,0,,{TIME:1446710,1453090}One 
 Dialogue: 0,0:24:13.09,0:24:15.63,Alternative,,0,0,0,,{TIME:1453090,1455630}"You're the Fujimi's volleyball club, right?"{NOTE:「あんたたちは富士見学園のバレー部ね。」}
 Dialogue: 0,0:24:15.63,0:24:18.63,Alternative,,0,0,0,,{TIME:1455630,1458630}The gang of four unpleasantly laughs and leaves.{NOTE:挑戦的の笑い残して立ち去る四天王。}
 Dialogue: 0,0:24:18.63,0:24:22.31,Alternative,,0,0,0,,{TIME:1458630,1462310}Please look forward to the next episode.{NOTE:さ、来週のアタックナンバーワンをお楽しみに。}
+Comment: 0,0:24:26.38,0:24:26.38,Default,Chapter,0,0,0,,{TIME:1466381,1466381}Ending
 Dialogue: 0,0:24:40.07,0:24:43.94,Lyrics JP,,0,0,0,,{TIME:1480070,1483940}{\an8}青い青い空に
 Dialogue: 0,0:24:43.94,0:24:47.03,Lyrics JP,,0,0,0,,{TIME:1483940,1487030}{\an8}バンボンボボン
 Dialogue: 0,0:24:47.03,0:24:51.10,Lyrics JP,,0,0,0,,{TIME:1487030,1491100}{\an8}はずむボールが

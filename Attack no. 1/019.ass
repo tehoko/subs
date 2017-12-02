@@ -25,6 +25,7 @@ Style: Default (ru),Calibri,45.0,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:14.27,0:00:18.74,Lyrics JP,,0,0,0,,{TIME:14270,18740}{\an8}苦しくたって
 Dialogue: 0,0:00:18.74,0:00:21.95,Lyrics JP,,0,0,0,,{TIME:18740,21950}{\an8}悲しくたって
 Dialogue: 0,0:00:21.95,0:00:29.28,Lyrics JP,,0,0,0,,{TIME:21950,29280}{\an8}コートのなかでは平気なの
@@ -61,7 +62,9 @@ Dialogue: 0,0:00:52.41,0:01:00.68,Lyrics EN,,0,0,0,,{TIME:52410,60680}Through th
 Dialogue: 0,0:01:00.68,0:01:08.82,Lyrics EN,,0,0,0,,{TIME:60680,68820}…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:08.82,0:01:16.98,Lyrics EN,,0,0,0,,{TIME:68820,76980}Attack! Attack! Number 1!
 Dialogue: 0,0:01:16.98,0:01:26.12,Lyrics EN,,0,0,0,,{TIME:76980,86120}Attack! Attack! Number 1!
+Comment: 0,0:01:27.04,0:01:27.04,Default,Chapter,0,0,0,,{TIME:87045,87045}Title screen
 Dialogue: 0,0:01:32.63,0:01:38.68,Default,,0,0,0,,{TIME:92630,98680}—Episode 019—\NThe revived rivals{NOTE:よみがえったライバル}
+Comment: 0,0:01:38.72,0:01:38.72,Default,Chapter,0,0,0,,{TIME:98723,98723}Part A
 Dialogue: 0,0:01:39.80,0:01:40.55,Default,(unknown),0,0,0,,{TIME:99800,100550}{NOTE:はい。}
 Dialogue: 0,0:01:40.55,0:01:41.10,Default,(unknown),0,0,0,,{TIME:100550,101100}{NOTE:それ。}
 Dialogue: 0,0:01:41.10,0:01:46.15,Default,Hongou,0,0,0,,{TIME:101100,106150}All right, girls. Today's practice is over.{NOTE:よし、皆。今日の練習はこれまで。解散。}
@@ -204,6 +207,7 @@ Dialogue: 0,0:11:35.83,0:11:37.38,Default,Hongou,0,0,0,,{TIME:695830,697380}All 
 Dialogue: 0,0:11:37.38,0:11:39.63,Default,Ayuhara,0,0,0,,{TIME:697380,699630}Yes sir! Let's start with passes then.{NOTE:はい。では、パスからよ。}
 Dialogue: 0,0:11:39.63,0:11:41.68,Default,(mixed),0,0,0,,{TIME:699630,701680}– All right.\N– Okay, okay.{NOTE:—よし。\\N—やろう、やろう。}
 Dialogue: 0,0:11:43.16,0:11:44.86,Default,(mixed),0,0,0,,{TIME:703160,704860}– Heave-ho.\N– Here we go.{NOTE:—よいっしょ。\\N—はい。}
+Comment: 0,0:12:14.73,0:12:14.73,Default,Chapter,0,0,0,,{TIME:734733,734733}Part B
 Dialogue: 0,0:12:25.66,0:12:27.41,Default,Hayakawa,0,0,0,,{TIME:745660,747410}It'll be finished soon.{NOTE:もうすぐ完全ね。}
 Dialogue: 0,0:12:27.41,0:12:31.46,Default,Kashiwagi,0,0,0,,{TIME:747410,751460}Yeah. It's practically done already. All but of a few finishing touches.{NOTE:そう。殆んど出来てんだよ。後はもう仕上げだけらしいわよ。}
 Dialogue: 0,0:12:31.46,0:12:35.54,Default,Fukuda,0,0,0,,{TIME:751460,755540}It'll be done before summer vacation's over. It's a wonder they built it so quickly.{NOTE:夏休みまでに完成させたいって突貫工事だったもんね。}
@@ -385,6 +389,7 @@ Dialogue: 0,0:23:29.21,0:23:32.57,Default,Fukuda,0,0,0,,{TIME:1409210,1412570}No
 Dialogue: 0,0:23:34.70,0:23:36.54,Default,Hayakawa,0,0,0,,{TIME:1414700,1416540}Kozue!{NOTE:こずえ！}
 Dialogue: 0,0:23:40.54,0:23:42.37,Default,Ayuhara,0,0,0,,{TIME:1420540,1422370}Are you finished?{NOTE:もうそれで終わりなの？}
 Dialogue: 0,0:23:42.37,0:23:46.25,Default,Ayuhara,0,0,0,,{TIME:1422370,1426250}You still haven't reached 100 yet. So get on with it.{NOTE:まだ百球には成らないわ。さ、どんどん投げてちょうだい。}
+Comment: 0,0:23:49.38,0:23:49.38,Default,Chapter,0,0,0,,{TIME:1429385,1429385}Preview
 Dialogue: 0,0:23:51.76,0:23:54.14,Alternative,Narrator,0,0,0,,{TIME:1431760,1434140}The district qualifiers for All-Japan championships begin.{NOTE:全国大会地区予選が始まった。}
 Dialogue: 0,0:23:54.14,0:23:57.60,Alternative,Narrator,0,0,0,,{TIME:1434140,1437600}With their eyes set on victory, Fujimi Academy passes the qualifier.{NOTE:連続優勝を狙う富士見学園は快調に勝ち進む。}
 Dialogue: 0,0:23:57.60,0:24:01.06,Alternative,Narrator,0,0,0,,{TIME:1437600,1441060}But for some reason, Kudou's playing is particularly bad.{NOTE:だが、なぜか一人くどうの宮XXX。}
@@ -394,6 +399,7 @@ Dialogue: 0,0:24:07.78,0:24:09.23,Alternative,Narrator,0,0,0,,{TIME:1447780,1449
 Dialogue: 0,0:24:09.23,0:24:11.65,Alternative,Narrator,0,0,0,,{TIME:1449230,1451650}…and Kozue's frustration flares up again.{NOTE:こずえの不満が再び燃え上がった。}
 Dialogue: 0,0:24:11.65,0:24:15.62,Alternative,Narrator,0,0,0,,{TIME:1451650,1455620}Just then coach Hongou gives her a\hshocking order: "forfeit the title of captain".{NOTE:そして、本郷コーチまでが一度キャプテンを降りて(XX・見事)と言う。}
 Dialogue: 0,0:24:15.62,0:24:19.33,Alternative,Narrator,0,0,0,,{TIME:1455620,1459330}Please look forward to the next episode.{NOTE:さ、来週のアタックナンバーワンをお楽しみに。}
+Comment: 0,0:24:24.42,0:24:24.42,Default,Chapter,0,0,0,,{TIME:1464420,1464420}Ending
 Dialogue: 0,0:24:38.15,0:24:41.99,Lyrics JP,,0,0,0,,{TIME:1478150,1481990}{\an8}青い青い空に
 Dialogue: 0,0:24:41.99,0:24:45.07,Lyrics JP,,0,0,0,,{TIME:1481990,1485070}{\an8}バンボンボボン
 Dialogue: 0,0:24:45.07,0:24:49.16,Lyrics JP,,0,0,0,,{TIME:1485070,1489160}{\an8}はずむボールが

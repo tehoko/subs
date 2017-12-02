@@ -24,6 +24,7 @@ Style: Blackboard,Etelka Text Pro,43.0,&H00CDD1D2,&H000000FF,&H00000000,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:14.27,0:00:18.74,Lyrics JP,,0,0,0,,{TIME:14270,18740}{\an8}苦しくたって
 Dialogue: 0,0:00:18.74,0:00:21.95,Lyrics JP,,0,0,0,,{TIME:18740,21950}{\an8}悲しくたって
 Dialogue: 0,0:00:21.95,0:00:29.28,Lyrics JP,,0,0,0,,{TIME:21950,29280}{\an8}コートのなかでは平気なの
@@ -60,7 +61,9 @@ Dialogue: 0,0:00:52.41,0:01:00.68,Lyrics EN,,0,0,0,,{TIME:52410,60680}Through th
 Dialogue: 0,0:01:00.68,0:01:08.82,Lyrics EN,,0,0,0,,{TIME:60680,68820}…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:08.82,0:01:16.98,Lyrics EN,,0,0,0,,{TIME:68820,76980}Attack! Attack! Number 1!
 Dialogue: 0,0:01:16.98,0:01:26.12,Lyrics EN,,0,0,0,,{TIME:76980,86120}Attack! Attack! Number 1!
+Comment: 0,0:01:27.04,0:01:27.04,Default,Chapter,0,0,0,,{TIME:87045,87045}Title screen
 Dialogue: 0,0:01:32.61,0:01:40.03,Default,,0,0,0,,{TIME:92610,100030}—Episode 010—\NCreeping conspiracy{NOTE:忍び寄る陰謀}
+Comment: 0,0:01:40.05,0:01:40.05,Default,Chapter,0,0,0,,{TIME:100057,100057}Part A
 Dialogue: 0,0:01:40.97,0:01:42.55,Default,,0,0,0,,{TIME:100970,102550}Ayuhara-san, leave.{NOTE:鮎原さん。出てってよ。}
 Dialogue: 0,0:01:43.61,0:01:45.21,Default,,0,0,0,,{TIME:103610,105210}Get out.{NOTE:さ。出て行ってよ。}
 Dialogue: 0,0:01:46.31,0:01:47.56,Default,,0,0,0,,{TIME:106310,107560}Can't you hear?{NOTE:聞こえないの？}
@@ -364,6 +367,7 @@ Dialogue: 0,0:12:11.26,0:12:11.72,Default,,0,0,0,,{TIME:731260,731720}Okay?{NOTE
 Dialogue: 0,0:12:12.22,0:12:13.25,Default,,0,0,0,,{TIME:732220,733250}Hey, Izumi-kun.{NOTE:ね、泉くん。}
 Dialogue: 0,0:12:13.84,0:12:16.31,Default,,0,0,0,,{TIME:733840,736310}Wow. I can't stay out of this any more.{NOTE:ま。もうこれ以上は許せないわ。}
 Dialogue: 0,0:12:16.81,0:12:18.65,Default,,0,0,0,,{TIME:736810,738650}Yeah. Let's give them a warning.{NOTE:そうよ。行って忠告してあげなきゃ。}
+Comment: 0,0:12:29.58,0:12:29.58,Default,Chapter,0,0,0,,{TIME:749581,749581}Part B
 Dialogue: 0,0:12:33.39,0:12:34.87,Default,,0,0,0,,{TIME:753390,754870}Wipe your tears.{NOTE:さ。涙を拭いて。}
 Dialogue: 0,0:12:35.71,0:12:36.80,Default,,0,0,0,,{TIME:755710,756800}You two.{NOTE:あなたたち。}
 Dialogue: 0,0:12:37.41,0:12:37.99,Default,,0,0,0,,{TIME:757410,757990}Oh.{NOTE:お。}
@@ -666,6 +670,7 @@ Dialogue: 0,0:23:24.92,0:23:27.51,Default,,0,0,0,,{TIME:1404920,1407510}So Izumi
 Dialogue: 0,0:23:29.01,0:23:29.63,Default,,0,0,0,,{TIME:1409010,1409630}Shh.{NOTE:し。}
 Dialogue: 0,0:23:29.63,0:23:30.38,Default,,0,0,0,,{TIME:1409630,1410380}They're here.{NOTE:来た。}
 Dialogue: 0,0:23:39.98,0:23:42.65,Default,,0,0,0,,{TIME:1419980,1422650}She really did contact with Toukai girls.{NOTE:やっぱり東海中学の人として一緒に来たわ。}
+Comment: 0,0:23:50.38,0:23:50.38,Default,Chapter,0,0,0,,{TIME:1430386,1430386}Preview
 Dialogue: 0,0:23:52.92,0:23:58.22,Alternative,,0,0,0,,{TIME:1432920,1438220}Izumi Yuri brings in the Toukai Middle School volleyball team scheduled for the final game.{NOTE:泉ゆりは決勝戦の相手チーム、東海中学バレー部員と一緒にやってきた。}
 Dialogue: 0,0:23:58.22,0:24:00.01,Alternative,,0,0,0,,{TIME:1438220,1440010}Was Izumi really a spy all along?{NOTE:やはり泉はスパイなのか。}
 Dialogue: 0,0:24:00.01,0:24:02.60,Alternative,,0,0,0,,{TIME:1440010,1442600}Kozue and Midori tremble with anger.{NOTE:こずえとみどりは怒りにXXX震わせた。}
@@ -676,6 +681,7 @@ Dialogue: 0,0:24:10.35,0:24:12.65,Alternative,,0,0,0,,{TIME:1450350,1452650}Kozu
 Dialogue: 0,0:24:12.65,0:24:15.99,Alternative,,0,0,0,,{TIME:1452650,1455990}Meanwhile, Izumi, sitting alone in the audience chair…{NOTE:一方、応援席で一人離れて座っている泉は…}
 Dialogue: 0,0:24:15.99,0:24:19.32,Alternative,,0,0,0,,{TIME:1455990,1459320}…watches the girls with a glaring hatred.{NOTE:ギラギラと憎しみ眼差しでコートのこずえを睨んでいた。}
 Dialogue: 0,0:24:19.32,0:24:22.53,Alternative,,0,0,0,,{TIME:1459320,1462530}Please look forward to the next episode.{NOTE:さ、来週のアタックナンバーワンをお楽しみに。}
+Comment: 0,0:24:25.42,0:24:25.42,Default,Chapter,0,0,0,,{TIME:1465422,1465422}Ending
 Dialogue: 0,0:24:39.17,0:24:43.04,Lyrics JP,,0,0,0,,{TIME:1479170,1483040}{\an8}青い青い空に
 Dialogue: 0,0:24:43.04,0:24:46.13,Lyrics JP,,0,0,0,,{TIME:1483040,1486130}{\an8}バンボンボボン
 Dialogue: 0,0:24:46.13,0:24:50.20,Lyrics JP,,0,0,0,,{TIME:1486130,1490200}{\an8}はずむボールが

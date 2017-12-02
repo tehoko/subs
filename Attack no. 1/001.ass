@@ -23,6 +23,7 @@ Style: Sign,Gotham Rounded Medium,43.0,&H009AFBDC,&H000000FF,&H00202020,&H7F2020
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:15.28,0:00:19.75,Lyrics JP,,0,0,0,,{TIME:15280,19750}{\an8}苦しくたって
 Dialogue: 0,0:00:19.75,0:00:22.96,Lyrics JP,,0,0,0,,{TIME:19750,22960}{\an8}悲しくたって
 Dialogue: 0,0:00:22.96,0:00:30.29,Lyrics JP,,0,0,0,,{TIME:22960,30290}{\an8}コートのなかでは平気なの
@@ -59,7 +60,9 @@ Dialogue: 0,0:00:53.42,0:01:01.69,Lyrics EN,,0,0,0,,{TIME:53420,61690}Through th
 Dialogue: 0,0:01:01.69,0:01:09.83,Lyrics EN,,0,0,0,,{TIME:61690,69830}…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:09.83,0:01:17.99,Lyrics EN,,0,0,0,,{TIME:69830,77990}Attack! Attack! Number 1!
 Dialogue: 0,0:01:17.99,0:01:27.13,Lyrics EN,,0,0,0,,{TIME:77990,87130}Attack! Attack! Number 1!
+Comment: 0,0:01:28.04,0:01:28.04,Default,Chapter,0,0,0,,{TIME:88045,88045}Title screen
 Dialogue: 0,0:01:34.05,0:01:39.76,Default,,0,0,0,,{TIME:94050,99760}—Episode 001—\NFujimi Academy's new star
+Comment: 0,0:01:39.76,0:01:39.76,Default,Chapter,0,0,0,,{TIME:99765,99765}Part A
 Dialogue: 0,0:01:51.68,0:01:56.75,Sign,,0,0,0,,{TIME:111680,116750}{\fad(2000,0)}Fujimi Academy
 Dialogue: 0,0:02:04.37,0:02:08.51,Sign,,0,0,0,,{TIME:124370,128510}Math
 Dialogue: 0,0:02:04.37,0:02:08.51,Default,,0,0,0,,{TIME:124370,128510}I can't believe you can't solve such a simple problem.
@@ -257,6 +260,7 @@ Dialogue: 0,0:13:20.99,0:13:23.69,Default,,0,0,0,,{TIME:800990,803690}It wasn't 
 Dialogue: 0,0:13:29.41,0:13:30.85,Default,,0,0,0,,{TIME:809410,810850}It's Ichinose-san.
 Dialogue: 0,0:13:31.53,0:13:32.54,Default,,0,0,0,,{TIME:811530,812540}How curious.
 Dialogue: 0,0:13:33.55,0:13:34.81,Default,,0,0,0,,{TIME:813550,814810}How curious…
+Comment: 0,0:13:37.10,0:13:37.10,Default,Chapter,0,0,0,,{TIME:817107,817107}Part B
 Dialogue: 0,0:13:37.90,0:13:42.92,Sign,,0,0,0,,{TIME:817900,822920}{\1c&H101010&\3c&H101010&\t(0,1890,\1c&H9AFBDC&\3c&H202020&)}Teachers room
 Dialogue: 0,0:13:43.36,0:13:47.31,Default,,0,0,0,,{TIME:823360,827310}By Meihou Academy do you mean that prestigious institute in Tōkyō?
 Dialogue: 0,0:13:47.31,0:13:52.85,Default,,0,0,0,,{TIME:827310,832850}Yes. That's why I've had high expectations for having Ayuhara-san transfer here.
@@ -424,6 +428,7 @@ Dialogue: 0,0:23:23.28,0:23:25.44,Default,,0,0,0,,{TIME:1403280,1405440}What do 
 Dialogue: 0,0:23:26.49,0:23:27.53,Alternative,,0,0,0,,{TIME:1406490,1407530}We can do this.
 Dialogue: 0,0:23:27.53,0:23:28.49,Alternative,,0,0,0,,{TIME:1407530,1408490}We can do this!
 Dialogue: 0,0:23:30.48,0:23:32.30,Default,,0,0,0,,{TIME:1410480,1412300}Let's make it official.
+Comment: 0,0:23:52.80,0:23:52.80,Default,Chapter,0,0,0,,{TIME:1432806,1432806}Preview
 Dialogue: 0,0:23:55.03,0:23:58.40,Alternative,,0,0,0,,{TIME:1435030,1438400}After taking over the so-called "Fujimi Academy's trash"…
 Dialogue: 0,0:23:58.40,0:24:00.09,Alternative,,0,0,0,,{TIME:1438400,1440090}…and challenging the volleyball club…
 Dialogue: 0,0:24:00.09,0:24:03.78,Alternative,,0,0,0,,{TIME:1440090,1443780}…Ayuhara\hKozue immediately begins harsh training.
@@ -434,6 +439,7 @@ Dialogue: 0,0:24:14.39,0:24:16.35,Alternative,,0,0,0,,{TIME:1454390,1456350}If s
 Dialogue: 0,0:24:16.35,0:24:20.23,Alternative,,0,0,0,,{TIME:1456350,1460230}…Kozue will be forced to forfeit the match.
 Dialogue: 0,0:24:20.23,0:24:22.93,Alternative,,0,0,0,,{TIME:1460230,1462930}But Kozue doesn't give up.
 Dialogue: 0,0:24:22.93,0:24:27.81,Alternative,,0,0,0,,{TIME:1462930,1467810}Please look forward to the next episode.
+Comment: 0,0:24:27.84,0:24:27.84,Default,Chapter,0,0,0,,{TIME:1467840,1467840}Ending
 Dialogue: 0,0:24:41.61,0:24:45.48,Lyrics JP,,0,0,0,,{TIME:1481610,1485480}{\an8}青い青い空に
 Dialogue: 0,0:24:45.48,0:24:48.57,Lyrics JP,,0,0,0,,{TIME:1485480,1488570}{\an8}バンボンボボン
 Dialogue: 0,0:24:48.57,0:24:52.64,Lyrics JP,,0,0,0,,{TIME:1488570,1492640}{\an8}はずむボールが

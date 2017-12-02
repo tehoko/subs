@@ -23,6 +23,7 @@ Style: Sign,Gotham Rounded Medium,43.0,&H009AFBDC,&H000000FF,&H00202020,&H7F2020
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:14.27,0:00:18.74,Lyrics JP,,0,0,0,,{TIME:14270,18740}{\an8}苦しくたって
 Dialogue: 0,0:00:18.74,0:00:21.95,Lyrics JP,,0,0,0,,{TIME:18740,21950}{\an8}悲しくたって
 Dialogue: 0,0:00:21.95,0:00:29.28,Lyrics JP,,0,0,0,,{TIME:21950,29280}{\an8}コートのなかでは平気なの
@@ -59,7 +60,9 @@ Dialogue: 0,0:00:52.41,0:01:00.68,Lyrics EN,,0,0,0,,{TIME:52410,60680}Through th
 Dialogue: 0,0:01:00.68,0:01:08.82,Lyrics EN,,0,0,0,,{TIME:60680,68820}…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:08.82,0:01:16.98,Lyrics EN,,0,0,0,,{TIME:68820,76980}Attack! Attack! Number 1!
 Dialogue: 0,0:01:16.98,0:01:26.12,Lyrics EN,,0,0,0,,{TIME:76980,86120}Attack! Attack! Number 1!
+Comment: 0,0:01:27.04,0:01:27.04,Default,Chapter,0,0,0,,{TIME:87045,87045}Title screen
 Dialogue: 0,0:01:32.61,0:01:40.03,Default,,0,0,0,,{TIME:92610,100030}—Episode 012—\NAn ominous enemy{NOTE:不気味な強敵}
+Comment: 0,0:01:40.05,0:01:40.05,Default,Chapter,0,0,0,,{TIME:100057,100057}Part A
 Dialogue: 0,0:01:46.75,0:01:47.79,Default,,0,0,0,,{TIME:106750,107790}{NOTE:ほらそれ！}
 Dialogue: 0,0:01:48.12,0:01:49.13,Default,,0,0,0,,{TIME:108120,109130}Let's go with attack!{NOTE:アタック一わよ！}
 Dialogue: 0,0:01:49.75,0:01:50.38,Default,,0,0,0,,{TIME:109750,110380}OK!{NOTE:OK！}
@@ -317,6 +320,7 @@ Dialogue: 0,0:11:44.85,0:11:45.76,Default,,0,0,0,,{TIME:704850,705760}Watch out!
 Dialogue: 0,0:11:54.31,0:11:55.11,Default,,0,0,0,,{TIME:714310,715110}Wow.{NOTE:ま。}
 Dialogue: 0,0:11:58.36,0:11:59.24,Alternative,,0,0,0,,{TIME:718360,719240}Amazing!{NOTE:すごい！}
 Dialogue: 0,0:11:59.86,0:12:01.36,Alternative,,0,0,0,,{TIME:719860,721360}I can't believe she did it.{NOTE:丸で神業のようだわ。}
+Comment: 0,0:12:06.68,0:12:06.68,Default,Chapter,0,0,0,,{TIME:726683,726683}Part B
 Dialogue: 0,0:12:10.98,0:12:14.77,Sign,,0,0,0,,{TIME:730980,734770}{\fad(1200,0)}Meihou Academy{NOTE:明法学園}
 Dialogue: 0,0:12:15.00,0:12:15.96,Default,,0,0,0,,{TIME:735000,735960}How nostalgic.{NOTE:懐かしいだわ。}
 Dialogue: 0,0:12:16.21,0:12:16.88,Default,,0,0,0,,{TIME:736210,736880}These trees.{NOTE:この木。}
@@ -603,6 +607,7 @@ Dialogue: 0,0:23:29.59,0:23:30.97,Alternative,,0,0,0,,{TIME:1409590,1410970}We c
 Dialogue: 0,0:23:31.38,0:23:32.76,Alternative,,0,0,0,,{TIME:1411380,1412760}Izumi-san, just watch us.{NOTE:泉さん、見てて。}
 Dialogue: 0,0:23:32.76,0:23:35.47,Alternative,,0,0,0,,{TIME:1412760,1415470}Your good will certainly won't go to waste.{NOTE:あなたの好意は絶対に無駄にしないわ。}
 Dialogue: 0,0:23:35.47,0:23:38.35,Alternative,,0,0,0,,{TIME:1415470,1418350}We'll definitely bring you a splendid victory.{NOTE:優勝旗は必ずあなたのもとへ持って帰るから。}
+Comment: 0,0:23:50.38,0:23:50.38,Default,Chapter,0,0,0,,{TIME:1430386,1430386}Preview
 Dialogue: 0,0:23:53.31,0:23:56.11,Alternative,,0,0,0,,{TIME:1433310,1436110}What's the deal with Kakinouchi of Fukuoka Middle School?{NOTE:福岡中学の垣之内とはなにものか？}
 Dialogue: 0,0:23:56.11,0:24:01.03,Alternative,,0,0,0,,{TIME:1436110,1441030}Kozue wants to research Fukuoka's style,\Nbut coach Hongou doesn't let her.{NOTE:こずえは福岡中の試合振りをみたいと言うが、本郷コーチは許せなかった。}
 Dialogue: 0,0:24:01.03,0:24:02.53,Alternative,,0,0,0,,{TIME:1441030,1442530}Finally, the semifinals.{NOTE:いよいよ準決勝。}
@@ -611,6 +616,7 @@ Dialogue: 0,0:24:05.99,0:24:10.12,Alternative,,0,0,0,,{TIME:1445990,1450120}The 
 Dialogue: 0,0:24:10.12,0:24:14.46,Alternative,,0,0,0,,{TIME:1450120,1454460}But Hongou, rather than taking the girls to\hsee the match, makes them listen to music.{NOTE:だが、本郷コーチは試合を見せず、代わりに音楽を聞かせて。}
 Dialogue: 0,0:24:14.46,0:24:19.30,Alternative,,0,0,0,,{TIME:1454460,1459300}Meanwhile the match is unfolding with Meihou girls wanting to look away.{NOTE:その頃、コートでは明法学園が目を覆いたくなる、試合を展開していた。}
 Dialogue: 0,0:24:19.30,0:24:22.67,Alternative,,0,0,0,,{TIME:1459300,1462670}Please look forward to the next episode.{NOTE:さ、来週のアタックナンバーワンをお楽しみに。}
+Comment: 0,0:24:25.42,0:24:25.42,Default,Chapter,0,0,0,,{TIME:1465422,1465422}Ending
 Dialogue: 0,0:24:39.19,0:24:43.03,Lyrics JP,,0,0,0,,{TIME:1479190,1483030}{\an8}青い青い空に
 Dialogue: 0,0:24:43.03,0:24:46.11,Lyrics JP,,0,0,0,,{TIME:1483030,1486110}{\an8}バンボンボボン
 Dialogue: 0,0:24:46.11,0:24:50.20,Lyrics JP,,0,0,0,,{TIME:1486110,1490200}{\an8}はずむボールが

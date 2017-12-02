@@ -23,6 +23,7 @@ Style: Sign,Gotham Rounded Medium,43.0,&H009AFBDC,&H000000FF,&H00202020,&H7F2020
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:14.27,0:00:18.70,Lyrics JP,,0,0,0,,{TIME:14270,18700}{\an8}苦しくたって
 Dialogue: 0,0:00:18.70,0:00:22.23,Lyrics JP,,0,0,0,,{TIME:18700,22230}{\an8}悲しくたって
 Dialogue: 0,0:00:22.23,0:00:29.24,Lyrics JP,,0,0,0,,{TIME:22230,29240}{\an8}コートのなかでは平気なの
@@ -59,7 +60,9 @@ Dialogue: 0,0:00:52.52,0:01:00.68,Lyrics EN,,0,0,0,,{TIME:52520,60680}Through th
 Dialogue: 0,0:01:00.68,0:01:08.76,Lyrics EN,,0,0,0,,{TIME:60680,68760}…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:08.76,0:01:16.86,Lyrics EN,,0,0,0,,{TIME:68760,76860}Attack! Attack! Number 1!
 Dialogue: 0,0:01:16.86,0:01:26.12,Lyrics EN,,0,0,0,,{TIME:76860,86120}Attack! Attack! Number 1!
+Comment: 0,0:01:27.04,0:01:27.04,Default,Chapter,0,0,0,,{TIME:87045,87045}Title screen
 Dialogue: 0,0:01:32.63,0:01:40.05,Default,,0,0,0,,{TIME:92630,100050}—Episode 007—\NMeeting The Big Four{NOTE:四天王の出会い}
+Comment: 0,0:01:40.05,0:01:40.05,Default,Chapter,0,0,0,,{TIME:100057,100057}Part A
 Dialogue: 0,0:01:41.28,0:01:41.90,Default,,0,0,0,,{TIME:101280,101900}{NOTE:はい。}
 Dialogue: 0,0:01:41.90,0:01:42.63,Default,,0,0,0,,{TIME:101900,102630}{NOTE:それ。}
 Dialogue: 0,0:01:42.63,0:01:43.24,Default,,0,0,0,,{TIME:102630,103240}{NOTE:はい。}
@@ -338,6 +341,7 @@ Dialogue: 0,0:13:16.26,0:13:17.50,Default,,0,0,0,,{TIME:796260,797500}They occup
 Dialogue: 0,0:13:17.50,0:13:18.60,Default,,0,0,0,,{TIME:797500,798600}They're practicing now.{NOTE:練習してるのよ。}
 Dialogue: 0,0:13:18.60,0:13:20.39,Default,,0,0,0,,{TIME:798600,800390}The Hamaki's Big Four…{NOTE:浜紀中の四天王が…}
 Dialogue: 0,0:13:20.39,0:13:21.28,Default,,0,0,0,,{TIME:800390,801280}– Eh?\N– Eh?{NOTE:—え？\\N—え？}
+Comment: 0,0:13:23.76,0:13:23.76,Default,Chapter,0,0,0,,{TIME:803760,803760}Part B
 Dialogue: 0,0:13:25.96,0:13:29.71,Default,,0,0,0,,{TIME:805960,809710}Since Hamaki came here, they said they can't use the city gym anymore.{NOTE:浜紀中学は立ち退いたのに、市のスポーツセンターができるんだって。}
 Dialogue: 0,0:13:29.71,0:13:32.63,Default,,0,0,0,,{TIME:809710,812630}And now that the other gym is under renovation…{NOTE:それで(XXX・グランで)何かの工事がもう始まっていて…}
 Dialogue: 0,0:13:32.63,0:13:34.77,Default,,0,0,0,,{TIME:812630,814770}…they got nowhere to practice.{NOTE:練習する場所は無くなっちゃったら死んだ。}
@@ -542,6 +546,7 @@ Dialogue: 0,0:23:34.59,0:23:36.05,Default,,0,0,0,,{TIME:1414590,1416050}No matte
 Dialogue: 0,0:23:38.25,0:23:38.60,Default,,0,0,0,,{TIME:1418250,1418600}Yep.{NOTE:え。}
 Dialogue: 0,0:23:38.60,0:23:39.42,Default,,0,0,0,,{TIME:1418600,1419420}We'll fight.{NOTE:やるわ。}
 Dialogue: 0,0:23:39.42,0:23:41.17,Default,,0,0,0,,{TIME:1419420,1421170}I'll show them how to play.{NOTE:あたしはきっとやってみせるわ。}
+Comment: 0,0:23:51.38,0:23:51.38,Default,Chapter,0,0,0,,{TIME:1431387,1431387}Preview
 Dialogue: 0,0:23:53.65,0:23:56.85,Alternative,,0,0,0,,{TIME:1433650,1436850}While Izumi Yuri's curve ball technique remains a secret…{NOTE:泉ユリの変化球サーブXXXを胸に秘め(る)。}
 Dialogue: 0,0:23:56.85,0:24:02.44,Alternative,,0,0,0,,{TIME:1436850,1442440}…Kozue-Midori attack duo participates in Fujimi all-girls university volleyball training camp.{NOTE:こずえ・みどりアタックコンビは富士見大学女子バレー部の合宿に参加した。}
 Dialogue: 0,0:24:02.44,0:24:05.87,Alternative,,0,0,0,,{TIME:1442440,1445870}Captain Oohara, seeing through their goal right away…{NOTE:彼女XX目的はなんであると見抜いたキャプテンの大原は…}
@@ -550,6 +555,7 @@ Dialogue: 0,0:24:08.89,0:24:11.58,Alternative,,0,0,0,,{TIME:1448890,1451580}Abou
 Dialogue: 0,0:24:12.23,0:24:15.26,Alternative,,0,0,0,,{TIME:1452230,1455260}But they endure the training desperately.{NOTE:だが、二人は練習に必死に耐える。}
 Dialogue: 0,0:24:15.26,0:24:18.63,Alternative,,0,0,0,,{TIME:1455260,1458630}Finally, they start seeing through the curve ball.{NOTE:ついに、変化球サーブXXXの飛球を身につけるだ。}
 Dialogue: 0,0:24:18.63,0:24:21.95,Alternative,,0,0,0,,{TIME:1458630,1461950}Please look forward to the next episode.{NOTE:さ、来週のアタックナンバーワンをお楽しみに。}
+Comment: 0,0:24:26.42,0:24:26.42,Default,Chapter,0,0,0,,{TIME:1466423,1466423}Ending
 Dialogue: 0,0:24:40.17,0:24:44.04,Lyrics JP,,0,0,0,,{TIME:1480170,1484040}{\an8}青い青い空に
 Dialogue: 0,0:24:44.04,0:24:47.13,Lyrics JP,,0,0,0,,{TIME:1484040,1487130}{\an8}バンボンボボン
 Dialogue: 0,0:24:47.13,0:24:51.20,Lyrics JP,,0,0,0,,{TIME:1487130,1491200}{\an8}はずむボールが

@@ -24,6 +24,7 @@ Style: Blackboard,Etelka Text Pro,43.0,&H00CDD1D2,&H000000FF,&H00000000,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:14.27,0:00:18.74,Lyrics JP,,0,0,0,,{TIME:14270,18740}{\an8}苦しくたって
 Dialogue: 0,0:00:18.74,0:00:21.95,Lyrics JP,,0,0,0,,{TIME:18740,21950}{\an8}悲しくたって
 Dialogue: 0,0:00:21.95,0:00:29.28,Lyrics JP,,0,0,0,,{TIME:21950,29280}{\an8}コートのなかでは平気なの
@@ -60,7 +61,9 @@ Dialogue: 0,0:00:52.41,0:01:00.68,Lyrics EN,,0,0,0,,{TIME:52410,60680}Through th
 Dialogue: 0,0:01:00.68,0:01:08.82,Lyrics EN,,0,0,0,,{TIME:60680,68820}…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:08.82,0:01:16.98,Lyrics EN,,0,0,0,,{TIME:68820,76980}Attack! Attack! Number 1!
 Dialogue: 0,0:01:16.98,0:01:26.12,Lyrics EN,,0,0,0,,{TIME:76980,86120}Attack! Attack! Number 1!
+Comment: 0,0:01:27.04,0:01:27.04,Default,Chapter,0,0,0,,{TIME:87045,87045}Title screen
 Dialogue: 0,0:01:32.61,0:01:40.13,Default,,0,0,0,,{TIME:92610,100130}—Episode 014—\NThe deciding serve{NOTE:捨て身の一球}
+Comment: 0,0:01:40.14,0:01:40.14,Default,Chapter,0,0,0,,{TIME:100142,100142}Part A
 Dialogue: 0,0:01:50.42,0:01:53.24,Default,Hongou,0,0,0,,{TIME:110420,113240}All right. The real match begins now.{NOTE:さ、本当の試合はこれからだ。}
 Dialogue: 0,0:01:53.24,0:01:55.76,Default,Hongou,0,0,0,,{TIME:113240,115760}Do your thing. That is all. Go!{NOTE:お前たちのバレーをしろ。それだけだ。行け!}
 Dialogue: 0,0:01:55.76,0:01:56.62,Default,(unison),0,0,0,,{TIME:115760,116620}– Yes sir!\N– Yes sir!{NOTE:—はい！\\N—はい！}
@@ -277,6 +280,7 @@ Dialogue: 0,0:12:19.60,0:12:22.91,Default,Commentator 1,0,0,0,,{TIME:739600,7429
 Dialogue: 0,0:12:22.91,0:12:25.57,Default,Commentator 1,0,0,0,,{TIME:742910,745570}Is Fukuoka going to win?{NOTE:さて、福岡中がこのままで優勝するか？}
 Dialogue: 0,0:12:26.32,0:12:28.90,Default,Commentator 1,0,0,0,,{TIME:746320,748900}Or will Fujimi still make a come back?{NOTE:それとも富士見学園がやってん優勝するか？}
 Dialogue: 0,0:12:29.52,0:12:31.12,Default,Commentator 1,0,0,0,,{TIME:749520,751120}Things got interesting.{NOTE:いよいよ面白くなってまいりました。}
+Comment: 0,0:12:38.00,0:12:38.00,Default,Chapter,0,0,0,,{TIME:758007,758007}Part B
 Dialogue: 0,0:12:46.07,0:12:47.37,Default,Kakinouchi,0,0,0,,{TIME:766070,767370}Keep it together!{NOTE:しっかりしなさいよ！}
 Dialogue: 0,0:12:50.87,0:12:51.89,Default,Kakinouchi,0,0,0,,{TIME:770870,771890}{NOTE:ほら！}
 Dialogue: 0,0:12:52.08,0:12:52.76,Default,(unknown),0,0,0,,{TIME:772080,772760}{NOTE:行くよ！}
@@ -501,6 +505,7 @@ Dialogue: 0,0:23:22.03,0:23:25.10,Default,Commentator 1,0,0,0,,{TIME:1402030,140
 Dialogue: 0,0:23:25.10,0:23:30.37,Default,Commentator 1,0,0,0,,{TIME:1405100,1410370}But it's safe to say that the most contributing factor was captain Ayuhara Kozue's hard work.{NOTE:とくにキャプテン鮎原こずえの働きがあればこその優勝と言えましょう。}
 Dialogue: 0,0:23:30.37,0:23:32.62,Default,Commentator 1,0,0,0,,{TIME:1410370,1412620}You did well, Fujimi Academy.{NOTE:よくぞやった、富士見学園。}
 Dialogue: 0,0:23:32.62,0:23:34.79,Default,Commentator 1,0,0,0,,{TIME:1412620,1414790}The applause lavishly continues on.{NOTE:惜しみなく、拍手が起こられております。}
+Comment: 0,0:23:53.39,0:23:53.39,Default,Chapter,0,0,0,,{TIME:1433390,1433390}Preview
 Dialogue: 0,0:23:55.72,0:23:59.52,Default,Narrator,0,0,0,,{TIME:1435720,1439520}Having won in the All-Japan championships, the volleyball club's popularity explodes.{NOTE:全国優勝成し遂げた、バレー部の人気は爆発XX。}
 Dialogue: 0,0:23:59.52,0:24:03.88,Default,Narrator,0,0,0,,{TIME:1439520,1443880}The girls want autographs and the boys want to become friends.{NOTE:サインを求める女性「友達になって欲しい」と男性となった。}
 Dialogue: 0,0:24:03.88,0:24:06.33,Default,Narrator,0,0,0,,{TIME:1443880,1446330}Kozue becomes the school's queen.{NOTE:今やこずえは学園の女王だ。}
@@ -509,6 +514,7 @@ Dialogue: 0,0:24:09.57,0:24:14.64,Default,Narrator,0,0,0,,{TIME:1449570,1454640}
 Dialogue: 0,0:24:14.64,0:24:18.25,Default,Narrator,0,0,0,,{TIME:1454640,1458250}With many freshmen, the volleyball club becomes the biggest club.{NOTE:入部希望者殺到して、バレー部は一番と大きくなったが。}
 Dialogue: 0,0:24:18.25,0:24:21.31,Default,Narrator,0,0,0,,{TIME:1458250,1461310}Because of this, the gymnastics club has to give up the gym.{NOTE:その為に体操部は体育館から終われている。}
 Dialogue: 0,0:24:21.31,0:24:24.66,Default,Narrator,0,0,0,,{TIME:1461310,1464660}Please look forward to the next episode.{NOTE:さ、来週のアタックナンバーワンをお楽しみに。}
+Comment: 0,0:24:28.38,0:24:28.38,Default,Chapter,0,0,0,,{TIME:1468384,1468384}Ending
 Dialogue: 0,0:24:42.19,0:24:46.03,Lyrics JP,,0,0,0,,{TIME:1482190,1486030}{\an8}青い青い空に
 Dialogue: 0,0:24:46.03,0:24:49.11,Lyrics JP,,0,0,0,,{TIME:1486030,1489110}{\an8}バンボンボボン
 Dialogue: 0,0:24:49.11,0:24:53.20,Lyrics JP,,0,0,0,,{TIME:1489110,1493200}{\an8}はずむボールが

@@ -24,6 +24,7 @@ Style: Blackboard,Etelka Text Pro,43.0,&H00CDD1D2,&H000000FF,&H00000000,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:14.27,0:00:18.70,Lyrics JP,,0,0,0,,{TIME:14270,18700}{\an8}苦しくたって
 Dialogue: 0,0:00:18.70,0:00:22.23,Lyrics JP,,0,0,0,,{TIME:18700,22230}{\an8}悲しくたって
 Dialogue: 0,0:00:22.23,0:00:29.24,Lyrics JP,,0,0,0,,{TIME:22230,29240}{\an8}コートのなかでは平気なの
@@ -60,7 +61,9 @@ Dialogue: 0,0:00:52.52,0:01:00.68,Lyrics EN,,0,0,0,,{TIME:52520,60680}Through th
 Dialogue: 0,0:01:00.68,0:01:08.76,Lyrics EN,,0,0,0,,{TIME:60680,68760}…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:08.76,0:01:16.86,Lyrics EN,,0,0,0,,{TIME:68760,76860}Attack! Attack! Number 1!
 Dialogue: 0,0:01:16.86,0:01:26.12,Lyrics EN,,0,0,0,,{TIME:76860,86120}Attack! Attack! Number 1!
+Comment: 0,0:01:27.04,0:01:27.04,Default,Chapter,0,0,0,,{TIME:87045,87045}Title screen
 Dialogue: 0,0:01:32.61,0:01:40.03,Default,,0,0,0,,{TIME:92610,100030}—Episode 009—\NTorn resignation letters{NOTE:破られた退部届}
+Comment: 0,0:01:40.05,0:01:40.05,Default,Chapter,0,0,0,,{TIME:100057,100057}Part A
 Dialogue: 0,0:01:52.95,0:01:53.76,Default,,0,0,0,,{TIME:112950,113760}Midori-san.{NOTE:みどりさん。}
 Dialogue: 0,0:01:53.76,0:01:55.85,Default,,0,0,0,,{TIME:113760,115850}Finally, it is our turn.{NOTE:いよいよあたしたちの出番が来たようね。}
 Dialogue: 0,0:01:55.85,0:01:56.48,Default,,0,0,0,,{TIME:115850,116480}Yep.{NOTE:え。}
@@ -288,6 +291,7 @@ Dialogue: 0,0:10:53.12,0:10:54.44,Default,,0,0,0,,{TIME:653120,654440}I'm trying
 Dialogue: 0,0:10:54.44,0:10:56.33,Default,,0,0,0,,{TIME:654440,656330}I'll leave it to you, captain.{NOTE:キャプテンにお任せするわ。}
 Dialogue: 0,0:10:58.24,0:10:59.55,Alternative,,0,0,0,,{TIME:658240,659550}I'll take my chances.{NOTE:やってみる。}
 Dialogue: 0,0:10:59.55,0:11:02.35,Alternative,,0,0,0,,{TIME:659550,662350}I'll show you that I can persuade the Big Four.{NOTE:あたしの力で四天王を説得してみせる。}
+Comment: 0,0:11:05.58,0:11:05.58,Default,Chapter,0,0,0,,{TIME:665581,665581}Part B
 Dialogue: 0,0:11:05.71,0:11:09.06,Sign,,0,0,0,,{TIME:665710,669060}{\1c&H141414&\3c&H141414&\t(0,1500,\1c&H9AFBDC&\3c&H202020&)}Club resignation letter{NOTE:退部届}
 Dialogue: 0,0:11:08.30,0:11:09.06,Default,,0,0,0,,{TIME:668300,669060}Ah.{NOTE:ああ。}
 Dialogue: 0,0:11:09.58,0:11:13.29,Default,,0,0,0,,{TIME:669580,673290}Well then, now that we have our letters ready…{NOTE:さ、それで三人の退部届は揃ったわけない。}
@@ -550,6 +554,7 @@ Dialogue: 0,0:23:33.46,0:23:34.57,Default,,0,0,0,,{TIME:1413460,1414570}Hurry.{N
 Dialogue: 0,0:23:36.53,0:23:37.62,Default,,0,0,0,,{TIME:1416530,1417620}Get out!{NOTE:帰ってたら。}
 Dialogue: 0,0:23:41.32,0:23:42.69,Alternative,,0,0,0,,{TIME:1421320,1422690}Why?{NOTE:なぜ…}
 Dialogue: 0,0:23:42.69,0:23:44.12,Alternative,,0,0,0,,{TIME:1422690,1424120}What's going on?{NOTE:一体なぜなの？}
+Comment: 0,0:23:50.386,0:23:50.386,Default,Chapter,0,0,0,,{TIME:1430386,1430386}Preview
 Dialogue: 0,0:23:52.86,0:23:55.61,Alternative,,0,0,0,,{TIME:1432860,1435610}Kozue visits Izumi's home by herself. However…{NOTE:こずえは一人泉の家を訪ねたが…}
 Dialogue: 0,0:23:55.61,0:24:00.04,Alternative,,0,0,0,,{TIME:1435610,1440040}…when it becomes evident she's with\hthe volleyball\hclub, Izumi's stepmother coldens.{NOTE:バレー部の人間と分かったXX、泉の母の態度はXXXした。}
 Dialogue: 0,0:24:00.04,0:24:04.59,Alternative,,0,0,0,,{TIME:1440040,1444590}After Izumi Yuri gets home, she grabs Kozue's arm and drags her out…{NOTE:そこへ帰り合わせた泉ゆりはこずえの腕を掴んで、外へ追い立て。}
@@ -557,6 +562,7 @@ Dialogue: 0,0:24:04.59,0:24:07.95,Alternative,,0,0,0,,{TIME:1444590,1447950}…s
 Dialogue: 0,0:24:07.95,0:24:12.67,Alternative,,0,0,0,,{TIME:1447950,1452670}Kozue can't shake off the feeling that there's something deeper going on.{NOTE:こずえは泉親と何か深いわけがあるに違いないと思ったのだが…}
 Dialogue: 0,0:24:12.67,0:24:16.86,Alternative,,0,0,0,,{TIME:1452670,1456860}But seeing Yuri's attitude, her hand reacts instinctively.{NOTE:こんな態度に、こずえは思わずゆりの方に手は飛んだ。}
 Dialogue: 0,0:24:16.86,0:24:20.43,Alternative,,0,0,0,,{TIME:1456860,1460430}Please look forward to the next episode.{NOTE:さ、来週のアタックナンバーワンをお楽しみに。}
+Comment: 0,0:24:25.422,0:24:25.422,Default,Chapter,0,0,0,,{TIME:1465422,1465422}Ending
 Dialogue: 0,0:24:39.13,0:24:43.00,Lyrics JP,,0,0,0,,{TIME:1479130,1483000}{\an8}青い青い空に
 Dialogue: 0,0:24:43.00,0:24:46.09,Lyrics JP,,0,0,0,,{TIME:1483000,1486090}{\an8}バンボンボボン
 Dialogue: 0,0:24:46.09,0:24:50.16,Lyrics JP,,0,0,0,,{TIME:1486090,1490160}{\an8}はずむボールが

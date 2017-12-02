@@ -23,6 +23,7 @@ Style: Sign,Gotham Rounded Medium,43.0,&H009AFBDC,&H000000FF,&H00202020,&H7F2020
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:15.29,0:00:19.72,Lyrics JP,,0,0,0,,{TIME:15290,19720}{\an8}苦しくたって
 Dialogue: 0,0:00:19.72,0:00:23.25,Lyrics JP,,0,0,0,,{TIME:19720,23250}{\an8}悲しくたって
 Dialogue: 0,0:00:23.25,0:00:30.26,Lyrics JP,,0,0,0,,{TIME:23250,30260}{\an8}コートのなかでは平気なの
@@ -59,7 +60,9 @@ Dialogue: 0,0:00:53.54,0:01:01.70,Lyrics EN,,0,0,0,,{TIME:53540,61700}Through th
 Dialogue: 0,0:01:01.70,0:01:09.78,Lyrics EN,,0,0,0,,{TIME:61700,69780}…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:09.78,0:01:17.88,Lyrics EN,,0,0,0,,{TIME:69780,77880}Attack! Attack! Number 1!
 Dialogue: 0,0:01:17.88,0:01:27.14,Lyrics EN,,0,0,0,,{TIME:77880,87140}Attack! Attack! Number 1!
+Comment: 0,0:01:28.04,0:01:28.04,Default,Chapter,0,0,0,,{TIME:88045,88045}Title screen
 Dialogue: 0,0:01:33.59,0:01:41.01,Default,,0,0,0,,{TIME:93590,101010}—Episode 008—\NThe secret behind "falling leaf"{NOTE:秘笈・木の葉おとし}
+Comment: 0,0:01:41.01,0:01:41.01,Default,Chapter,0,0,0,,{TIME:101018,101018}Part A
 Dialogue: 0,0:01:56.50,0:01:57.64,Default,,0,0,0,,{TIME:116500,117640}We'll be there soon.{NOTE:もうすぐね。}
 Dialogue: 0,0:02:10.52,0:02:14.45,Sign,,0,0,0,,{TIME:130520,134450}Fujimi All-girls University Volleyball Club Training Camp{NOTE:富士見大学女子バレー部合宿所}
 Dialogue: 0,0:02:22.07,0:02:23.90,Default,,0,0,0,,{TIME:142070,143900}What a splendid mansion.{NOTE:立派なお寺ね。}
@@ -306,6 +309,7 @@ Dialogue: 0,0:12:04.16,0:12:07.56,Default,,0,0,0,,{TIME:724160,727560}How is it?
 Dialogue: 0,0:12:17.17,0:12:17.80,Alternative,,0,0,0,,{TIME:737170,737800}I'll do it.{NOTE:やる。}
 Dialogue: 0,0:12:18.17,0:12:19.61,Alternative,,0,0,0,,{TIME:738170,739610}I'll win with you!{NOTE:絶対にやるわ。}
 Dialogue: 0,0:12:22.34,0:12:22.85,Default,,0,0,0,,{TIME:742340,742850}Ah!{NOTE:あぁ。}
+Comment: 0,0:12:35.87,0:12:35.87,Default,Chapter,0,0,0,,{TIME:755879,755879}Part B
 Dialogue: 0,0:12:55.05,0:12:56.22,Default,,0,0,0,,{TIME:775050,776220}Raise and shine.{NOTE:さ、起きるのよ。}
 Dialogue: 0,0:13:15.09,0:13:15.54,Default,,0,0,0,,{TIME:795090,795540}{NOTE:えい。}
 Dialogue: 0,0:13:17.43,0:13:17.83,Default,,0,0,0,,{TIME:797430,797830}{NOTE:はい。}
@@ -527,12 +531,14 @@ Dialogue: 0,0:23:26.04,0:23:27.52,Default,,0,0,0,,{TIME:1406040,1407520}Are you 
 Dialogue: 0,0:23:31.26,0:23:36.11,Alternative,,0,0,0,,{TIME:1411260,1416110}It's time to test the results of the training at university volleyball camp.{NOTE:いよいよ大学バレー部の合宿で鍛えた成果を試す時が来たわ。}
 Dialogue: 0,0:23:36.11,0:23:37.83,Alternative,,0,0,0,,{TIME:1416110,1417830}Falling leaf.{NOTE:木の葉おとす。}
 Dialogue: 0,0:23:37.83,0:23:40.75,Alternative,,0,0,0,,{TIME:1417830,1420750}It's time to see what impact a falling leaf can make.{NOTE:木の葉おとしのXXX試す時が。}
+Comment: 0,0:23:51.38,0:23:51.38,Default,Chapter,0,0,0,,{TIME:1431387,1431387}Preview
 Dialogue: 0,0:23:54.08,0:23:59.29,Alternative,,0,0,0,,{TIME:1434080,1439290}Since the Hamaki merge, there's been a conflict between the attack duo and the Big Four.{NOTE:浜紀学園との合併XX、ますます対立するアタックコンビと四天王…}
 Dialogue: 0,0:23:59.29,0:24:04.37,Alternative,,0,0,0,,{TIME:1439290,1444370}But now that professor Hongou is the\hcoach, the conflict only deepens further.{NOTE:だが、本郷先生はコーチに決まったことから、ますます対立は激しくなる。}
 Dialogue: 0,0:24:04.37,0:24:10.11,Alternative,,0,0,0,,{TIME:1444370,1450110}Izumi puts up a particular opposition, surprising the other club members.{NOTE:得に、四天王の一人泉の反発は、部員達が驚くほどの激し浚った。}
 Dialogue: 0,0:24:10.11,0:24:12.80,Alternative,,0,0,0,,{TIME:1450110,1452800}Professor Hongou acknowledges that skill is crucial…{NOTE:本郷コーチは実力第一と言う…}
 Dialogue: 0,0:24:12.80,0:24:17.90,Alternative,,0,0,0,,{TIME:1452800,1457900}…and thus the girls hold a match to prove whose skill is greater.{NOTE:…そこで試合におって、どちらが実力なあるか、決着を決めることになった。}
 Dialogue: 0,0:24:17.90,0:24:22.13,Alternative,,0,0,0,,{TIME:1457900,1462130}Please look forward to the next episode.{NOTE:さ、来週のアタックナンバーワンをお楽しみに。}
+Comment: 0,0:24:26.42,0:24:26.42,Default,Chapter,0,0,0,,{TIME:1466423,1466423}Ending
 Dialogue: 0,0:24:40.18,0:24:44.05,Lyrics JP,,0,0,0,,{TIME:1480180,1484050}{\an8}青い青い空に
 Dialogue: 0,0:24:44.05,0:24:47.14,Lyrics JP,,0,0,0,,{TIME:1484050,1487140}{\an8}バンボンボボン
 Dialogue: 0,0:24:47.14,0:24:51.21,Lyrics JP,,0,0,0,,{TIME:1487140,1491210}{\an8}はずむボールが

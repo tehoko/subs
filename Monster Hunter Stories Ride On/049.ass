@@ -22,6 +22,8 @@ Style: Episode,Chinacat,50.0,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}#Sponsors
+Comment: 0,0:00:03.00,0:00:03.00,Default,Chapter,0,0,0,,{TIME:3002,3002}Intro
 Dialogue: 0,0:00:03.92,0:00:06.09,Default,,80,80,80,,{TIME:3920,6090}{\an8}They're called "Riders".{NOTE:少年達はライダー。}
 Dialogue: 0,0:00:06.09,0:00:09.36,Default,,80,80,80,,{TIME:6090,9360}{\an8}Despite the horrors of the Black Blight…{NOTE:世界に広がってしまった黒の狂気を止める…}
 Dialogue: 0,0:00:09.36,0:00:12.39,Default,,80,80,80,,{TIME:9360,12390}{\an8}…they faced it bravely.{NOTE:一丸と成って、立ち向かった。}
@@ -30,6 +32,7 @@ Dialogue: 0,0:00:18.46,0:00:24.79,Default,,80,80,80,,{TIME:18460,24790}{\an8}By 
 Dialogue: 0,0:00:24.79,0:00:26.26,Default,,80,80,80,,{TIME:24790,26260}{\an8}However!{NOTE:がしかし！}
 Dialogue: 0,0:00:26.26,0:00:33.02,Default,,80,80,80,,{TIME:26260,33020}{\an8}Avinia has been taken away by mysterious riders who claim to be Ebon Riders.{NOTE:何と、アユリアはが、ブラックライダーズと名乗る、謎のライダー達に連れ去られてしまった。}
 Dialogue: 0,0:00:33.02,0:00:38.03,Default,,80,80,80,,{TIME:33020,38030}{\an8}Who are the Ebon Riders that kidnapped Avinia…?{NOTE:果たして、アユリアを連れ去ったブラックライダーズとはいったい…？}
+Comment: 0,0:00:38.03,0:00:38.03,Default,Chapter,0,0,0,,{TIME:38037,38037}Opening
 Dialogue: 0,0:00:41.29,0:00:48.72,Default,,0,0,0,,{TIME:41290,48720}{\fad(2500,0)}Monster Hunter Stories: Ride On{NOTE:モンスターハンターストーリーズ：RIDE ON}
 Dialogue: 0,0:00:51.89,0:00:55.19,OP/ED Romaji,,0,0,0,,{TIME:51890,55190}{\k40}Bo{\k20}ku{\k20}ra {\k43}kyou {\k20}mo {\k16}i{\k20}ki{\k23}te{\k20}i{\k106}ru
 Dialogue: 0,0:00:55.19,0:00:58.42,OP/ED Romaji,,0,0,0,,{TIME:55190,58420}{\k30}Bo{\k20}ku{\k23}ra {\k40}kyou {\k23}mo {\k20}wa{\k30}ra{\k26}tte{\k110}ru
@@ -85,6 +88,9 @@ Dialogue: 0,0:02:18.36,0:02:21.29,OP/ED English,,0,0,0,,{TIME:138360,141290}Ever
 Dialogue: 0,0:02:21.29,0:02:24.76,OP/ED English,,0,0,0,,{TIME:141290,144760}Of losing sight of oneself{NOTE:自分を見失いそうになるけど}
 Dialogue: 0,0:02:24.76,0:02:32.69,OP/ED English,,0,0,0,,{TIME:144760,152690}But you will surely find love in your heart{NOTE:愛は必ず君の心にあるよ}
 Dialogue: 0,0:02:32.69,0:02:37.92,OP/ED English,,0,0,0,,{TIME:152690,157920}{\fad(0,400)}Come walk with us{NOTE:僕ら一緒に歩いていこうよ}
+Comment: 0,0:02:40.03,0:02:40.03,Default,Chapter,0,0,0,,{TIME:160034,160034}#Sponsors
+Comment: 0,0:02:55.04,0:02:55.04,Default,Chapter,0,0,0,,{TIME:175049,175049}#Black screen
+Comment: 0,0:02:57.05,0:02:57.05,Default,Chapter,0,0,0,,{TIME:177051,177051}Part A
 Dialogue: 0,0:02:57.05,0:03:00.68,Episode,,0,0,0,,{TIME:177050,180680}{\pos(760,130)\fad(700,700)\fs45}Episode 49\N"Invasion of Ebon Riders"{NOTE:第49話\\N襲来！ブラックライダーズ！}
 Dialogue: 0,0:03:01.55,0:03:04.21,Default,Lilia,0,0,0,,{TIME:181550,184210}Who do you think these Ebon Riders are?{NOTE:何なの？ブラックライダーズって。}
 Dialogue: 0,0:03:04.21,0:03:06.55,Default,Hyoro,0,0,0,,{TIME:184210,186550}They call themselves Riders.{NOTE:ライダーズっと言うくらいだから。}
@@ -308,9 +314,13 @@ Dialogue: 0,0:15:14.38,0:15:17.08,Default,Avinia,0,0,0,,{TIME:914380,917080}What
 Dialogue: 0,0:15:17.08,0:15:19.78,Default,Gale,0,0,0,,{TIME:917080,919780}A Kinship Stone, of course.{NOTE:もちろん絆石がありさ。}
 Dialogue: 0,0:15:19.78,0:15:22.28,Default,Gale,0,0,0,,{TIME:919780,922280}And from the world's best Rider, too.{NOTE:世界一のライダーのな。}
 Dialogue: 0,0:15:22.28,0:15:23.35,Default,Avinia,0,0,0,,{TIME:922280,923350}Huh?{NOTE:は？}
+Comment: 0,0:15:24.00,0:15:24.00,Default,Chapter,0,0,0,,{TIME:924005,924005}Eyecatch
 Dialogue: 0,0:15:24.45,0:15:25.91,Default,Lute,0,0,0,,{TIME:924450,925910}Ride On!{NOTE:Ride On!}
 Dialogue: 0,0:15:26.81,0:15:27.85,Default,Lute,0,0,0,,{TIME:926810,927850}Rathalos!{NOTE:リオレウス！}
+Comment: 0,0:15:28.00,0:15:28.00,Default,Chapter,0,0,0,,{TIME:928009,928009}#Black screen
+Comment: 0,0:15:30.01,0:15:30.01,Default,Chapter,0,0,0,,{TIME:930011,930011}$Eyecatch
 Dialogue: 0,0:15:32.22,0:15:33.49,Default,Navirou,0,0,0,,{TIME:932220,933490}Nya-ow!{NOTE:XXX}
+Comment: 0,0:15:34.01,0:15:34.01,Default,Chapter,0,0,0,,{TIME:934015,934015}Part B
 Dialogue: 0,0:15:37.00,0:15:39.30,Default,Beats,0,0,0,,{TIME:937000,939300}Lute will take Navirou.{NOTE:リュートにはナビルーがついている。}
 Dialogue: 0,0:15:39.30,0:15:43.80,Default,Fifi,0,0,0,,{TIME:939300,943800}We'll get to see just how useful he really is as a Navigator.{NOTE:本当にナビゲーターとして役に立ってるかどうかは置いといてね。}
 Dialogue: 0,0:15:46.23,0:15:50.83,Default,Beats,0,0,0,,{TIME:946230,950830}That said, we'll also be lending a hand.{NOTE:と言うわけで、俺達も協力さしてもらうことだ。}
@@ -466,8 +476,11 @@ Dialogue: 0,0:22:56.97,0:22:59.70,Default,Navirou,0,0,0,,{TIME:1376970,1379700}W
 Dialogue: 0,0:22:59.70,0:23:01.60,Default,Gale,0,0,0,,{TIME:1379700,1381600}Hey, Mr. The-world's-best-rider!{NOTE:世界一のライダーくん。}
 Dialogue: 0,0:23:01.60,0:23:04.33,Default,Gale,0,0,0,,{TIME:1381600,1384330}Your Kinship Stone is ours.{NOTE:おまえの絆石はいただきぜ。}
 Dialogue: 0,0:23:22.20,0:23:24.77,Default,Gale,0,0,0,,{TIME:1402200,1404770}It's nothing personal.{NOTE:大したことなな。}
+Comment: 0,0:23:27.03,0:23:27.03,Default,Chapter,0,0,0,,{TIME:1407030,1407030}#Black screen
+Comment: 0,0:23:29.03,0:23:29.03,Default,Chapter,0,0,0,,{TIME:1409032,1409032}Preview
 Dialogue: 0,0:23:30.65,0:23:32.05,Default,Lute,110,110,80,,{TIME:1410650,1412050}Lute here!{NOTE:俺リュート。}
 Dialogue: 0,0:23:32.05,0:23:34.38,Default,Lute,110,110,80,,{TIME:1412050,1414380}What's with this guy? He's crazy strong!{NOTE:なんだ、あいつはめちゃくちゃ強い！}
 Dialogue: 0,0:23:34.38,0:23:36.51,Default,Lute,110,110,80,,{TIME:1414380,1416510}If I'm going to beat him I\hneed… Rite of Channeling?{NOTE:対抗するには伝承の儀？}
 Dialogue: 0,0:23:36.51,0:23:40.01,Default,Lute,110,110,80,,{TIME:1416510,1420010}I don't understand it yet, but I'd better hurry up!{NOTE:よくわからないけどとにかく、急げ！}
 Dialogue: 0,0:23:40.01,0:23:43.91,Default,Lute,110,110,80,,{TIME:1420010,1423910}Next time: "A Strong and Dangerous Man Shrouded in Mystery". Ride On!{NOTE:次回：強くで危ない謎のやつに。Ride On!}
+Comment: 0,0:23:44.04,0:23:44.04,Default,Chapter,0,0,0,,{TIME:1424048,1424048}#Sponsors

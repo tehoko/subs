@@ -24,6 +24,7 @@ Style: Blackboard,Etelka Text Pro,43.0,&H00CDD1D2,&H000000FF,&H00000000,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:14.27,0:00:18.74,Lyrics JP,,0,0,0,,{TIME:14270,18740}{\an8}苦しくたって
 Dialogue: 0,0:00:18.74,0:00:21.95,Lyrics JP,,0,0,0,,{TIME:18740,21950}{\an8}悲しくたって
 Dialogue: 0,0:00:21.95,0:00:29.28,Lyrics JP,,0,0,0,,{TIME:21950,29280}{\an8}コートのなかでは平気なの
@@ -60,8 +61,10 @@ Dialogue: 0,0:00:52.41,0:01:00.68,Lyrics EN,,0,0,0,,{TIME:52410,60680}Through th
 Dialogue: 0,0:01:00.68,0:01:08.82,Lyrics EN,,0,0,0,,{TIME:60680,68820}…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:08.82,0:01:16.98,Lyrics EN,,0,0,0,,{TIME:68820,76980}Attack! Attack! Number 1!
 Dialogue: 0,0:01:16.98,0:01:26.12,Lyrics EN,,0,0,0,,{TIME:76980,86120}Attack! Attack! Number 1!
+Comment: 0,0:01:27.04,0:01:27.04,Default,Chapter,0,0,0,,{TIME:87045,87045}Title screen
 Dialogue: 0,0:01:32.78,0:01:40.05,Default,,0,0,0,,{TIME:92780,100050}—Episode 016—\NHigh life{NOTE:おごれる英雄}
 Dialogue: 0,0:01:40.05,0:01:45.88,Blackboard,,0,0,0,,{TIME:100050,105880}{\fad(700,1800)\1c&H141414&\3c&H141414&\t(0,2000,\1c&HCDD1D2&\3c&H000000&)}Fujimi ・ Fukuoka{NOTE:富士見中・福岡中}
+Comment: 0,0:01:40.05,0:01:40.05,Default,Chapter,0,0,0,,{TIME:100058,100058}Part A
 Dialogue: 0,0:01:50.65,0:01:52.84,Default,Ichinose,0,0,0,,{TIME:110650,112840}Good luck, Ayuhara-kun!{NOTE:頑張れよ、鮎原君。}
 Dialogue: 0,0:01:52.84,0:01:57.94,Default,Commentator,0,0,0,,{TIME:112840,117940}Fujimi Academy captain's, Ayuhara Kozue's feint strategy has landed them a point.{NOTE:富士見学園キャプテン、鮎原こずえのXXフェイント作戦がまんまと的中致しました。}
 Dialogue: 0,0:01:59.56,0:02:00.88,Default,Nakazawa,0,0,0,,{TIME:119560,120880}Here!{NOTE:それ！}
@@ -288,6 +291,7 @@ Dialogue: 0,0:11:52.44,0:11:53.68,Alternative,Ayuhara,0,0,0,,{TIME:712440,713680
 Dialogue: 0,0:11:53.68,0:11:55.95,Alternative,Ayuhara,0,0,0,,{TIME:713680,715950}Why am I playing volleyball?{NOTE:なぜあたしはバレーをやってるのかしら？}
 Dialogue: 0,0:11:56.88,0:11:58.39,Alternative,Ayuhara,0,0,0,,{TIME:716880,718390}Why…{NOTE:なぜ。}
 Dialogue: 0,0:12:00.72,0:12:05.86,Sign,,0,0,0,,{TIME:720720,725860}{\fad(250,0)\1c&H141414&\3c&H141414&\t(0,2000,\1c&H9AFBDC&\3c&H202020&)}Library{NOTE:図書室}
+Comment: 0,0:12:00.72,0:12:00.72,Default,Chapter,0,0,0,,{TIME:720720,720720}Part B
 Dialogue: 0,0:12:10.35,0:12:13.50,Sign,,0,0,0,,{TIME:730350,733500}{\fad(1500,0)}Volleyball{NOTE:バレーボール}
 Dialogue: 0,0:12:14.28,0:12:15.01,Default,Mitamura,0,0,0,,{TIME:734280,735010}Ow.{NOTE:痛い。}
 Dialogue: 0,0:12:15.01,0:12:16.32,Default,Mitamura,0,0,0,,{TIME:735010,736320}Hey, watch it.{NOTE:なにすんだよ。}
@@ -573,6 +577,7 @@ Dialogue: 0,0:23:35.84,0:23:37.41,Alternative,Ayuhara,0,0,0,,{TIME:1415840,14174
 Dialogue: 0,0:23:37.41,0:23:41.28,Alternative,Ayuhara,0,0,0,,{TIME:1417410,1421280}I will show our power to Tsutomu-kun and professor Hongou.{NOTE:努君や本郷先生あたしたちの実力を教えてやるわ。}
 Dialogue: 0,0:23:41.86,0:23:44.01,Alternative,Ayuhara,0,0,0,,{TIME:1421860,1424010}In order to do so, Shellenina-san…{NOTE:そのためにはシェレーニナさん…}
 Dialogue: 0,0:23:44.01,0:23:45.86,Alternative,Ayuhara,0,0,0,,{TIME:1424010,1425860}…we will win with you.{NOTE:必ずあなたに勝って見せるわ。}
+Comment: 0,0:23:50.38,0:23:50.38,Default,Chapter,0,0,0,,{TIME:1430387,1430387}Preview
 Dialogue: 0,0:23:52.80,0:23:56.03,Alternative,Narrator,0,0,0,,{TIME:1432800,1436030}Kozue aims to win with the Soviet Union at all costs.{NOTE:ソ連チームに勝ってみせると大見得を切るこずえに…}
 Dialogue: 0,0:23:56.03,0:23:57.98,Alternative,Narrator,0,0,0,,{TIME:1436030,1437980}The club members don't seem to be happy.{NOTE:…バレー部員達は動揺した。}
 Dialogue: 0,0:23:57.98,0:24:02.45,Alternative,Narrator,0,0,0,,{TIME:1437980,1442450}Without coach Hongou, they hold a desperate, fierce practice.{NOTE:本郷先生がコーチ降りて、不安の中で必死の猛練習が続く。}
@@ -583,6 +588,7 @@ Dialogue: 0,0:24:10.86,0:24:13.01,Alternative,Narrator,0,0,0,,{TIME:1450860,1453
 Dialogue: 0,0:24:13.01,0:24:16.04,Alternative,Narrator,0,0,0,,{TIME:1453010,1456040}Kozue gains a lead by using the "falling leaf" technique…{NOTE:こずえは「木の葉落とし」を駆使して試合をリードしたらが…}
 Dialogue: 0,0:24:16.04,0:24:18.54,Alternative,Narrator,0,0,0,,{TIME:1456040,1458540}…but the Soviet team doesn't seem to be worried.{NOTE:…ソ連チームは慌ててふもなかった。}
 Dialogue: 0,0:24:18.54,0:24:21.72,Alternative,Narrator,0,0,0,,{TIME:1458540,1461720}Please look forward to the next episode.{NOTE:さ、来週のアタックナンバーワンをお楽しみに。}
+Comment: 0,0:24:25.42,0:24:25.42,Default,Chapter,0,0,0,,{TIME:1465422,1465422}Ending
 Dialogue: 0,0:24:39.20,0:24:43.04,Lyrics JP,,0,0,0,,{TIME:1479200,1483040}{\an8}青い青い空に
 Dialogue: 0,0:24:43.04,0:24:46.12,Lyrics JP,,0,0,0,,{TIME:1483040,1486120}{\an8}バンボンボボン
 Dialogue: 0,0:24:46.12,0:24:50.21,Lyrics JP,,0,0,0,,{TIME:1486120,1490210}{\an8}はずむボールが

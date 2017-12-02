@@ -24,6 +24,7 @@ Style: Blackboard,Etelka Text Pro,43.0,&H00CDD1D2,&H000000FF,&H00000000,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:14.27,0:00:18.74,Lyrics JP,,0,0,0,,{TIME:14270,18740}{\an8}苦しくたって
 Dialogue: 0,0:00:18.74,0:00:21.95,Lyrics JP,,0,0,0,,{TIME:18740,21950}{\an8}悲しくたって
 Dialogue: 0,0:00:21.95,0:00:29.28,Lyrics JP,,0,0,0,,{TIME:21950,29280}{\an8}コートのなかでは平気なの
@@ -60,7 +61,9 @@ Dialogue: 0,0:00:52.41,0:01:00.68,Lyrics EN,,0,0,0,,{TIME:52410,60680}Through th
 Dialogue: 0,0:01:00.68,0:01:08.82,Lyrics EN,,0,0,0,,{TIME:60680,68820}…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:08.82,0:01:16.98,Lyrics EN,,0,0,0,,{TIME:68820,76980}Attack! Attack! Number 1!
 Dialogue: 0,0:01:16.98,0:01:26.12,Lyrics EN,,0,0,0,,{TIME:76980,86120}Attack! Attack! Number 1!
+Comment: 0,0:01:27.04,0:01:27.04,Default,Chapter,0,0,0,,{TIME:87045,87045}Title screen
 Dialogue: 0,0:01:32.63,0:01:40.05,Default,,0,0,0,,{TIME:92630,100050}—Episode 005—\NDemon coach's challenge{NOTE:鬼コーチへの挑戦}
+Comment: 0,0:01:40.05,0:01:40.05,Default,Chapter,0,0,0,,{TIME:100057,100057}Part A
 Dialogue: 0,0:01:41.69,0:01:42.77,Default,,0,0,0,,{TIME:101690,102770}Here!{NOTE:それ！}
 Dialogue: 0,0:01:48.13,0:01:49.90,Default,,0,0,0,,{TIME:108130,109900}Throw me more. Don't hold back!{NOTE:さ！どんどん投げて。どんどんよ！}
 Dialogue: 0,0:01:49.90,0:01:51.05,Default,,0,0,0,,{TIME:109900,111050}All right, here goes.{NOTE:うん。行くよ!}
@@ -259,6 +262,7 @@ Dialogue: 0,0:10:47.31,0:10:48.67,Default,,0,0,0,,{TIME:647310,648670}Thank you 
 Dialogue: 0,0:10:49.52,0:10:52.48,Default,,0,0,0,,{TIME:649520,652480}But in return, please let me do it my way.{NOTE:そのかわり、校長先生、私のやり方でやらせてください。}
 Dialogue: 0,0:10:55.18,0:11:00.63,Alternative,,0,0,0,,{TIME:655180,660630}All right. With this, the remaining problem is Ayuhara. Hayakawa. Those two.{NOTE:さて、何と言っても、問題は鮎原。早川。あの二人だ。}
 Dialogue: 0,0:11:01.72,0:11:04.60,Alternative,,0,0,0,,{TIME:661720,664600}But I'll certainly reconcile them.{NOTE:だが…必ず俺は…あの二つを一つにまとめて見せる。}
+Comment: 0,0:11:07.83,0:11:07.83,Default,Chapter,0,0,0,,{TIME:667833,667833}Part B
 Dialogue: 0,0:11:22.10,0:11:24.35,Default,,0,0,0,,{TIME:682100,684350}Ah, I'm done with the cleaning.{NOTE:あ、お掃除終わったわ。}
 Dialogue: 0,0:11:25.74,0:11:26.47,Default,,0,0,0,,{TIME:685740,686470}Ayuhara-san.{NOTE:鮎原さん。}
 Dialogue: 0,0:11:26.47,0:11:26.90,Default,,0,0,0,,{TIME:686470,686900}Yes?{NOTE:はい。}
@@ -492,12 +496,14 @@ Dialogue: 0,0:23:14.56,0:23:16.03,Default,,0,0,0,,{TIME:1394560,1396030}You're p
 Dialogue: 0,0:23:16.03,0:23:16.97,Default,,0,0,0,,{TIME:1396030,1396970}How's that?{NOTE:どうだ。}
 Dialogue: 0,0:23:16.97,0:23:19.01,Default,,0,0,0,,{TIME:1396970,1399010}Do you still accept my challenge?{NOTE:これでも僕の挑戦を受けるのか。}
 Dialogue: 0,0:23:22.64,0:23:26.44,Default,,0,0,0,,{TIME:1402640,1406440}How will it be? You finally have a chance to get back at me.{NOTE:さ。どうだ、君達。折角僕を辞めさせるチャンスなんだぞ。}
+Comment: 0,0:23:51.38,0:23:51.38,Default,Chapter,0,0,0,,{TIME:1431387,1431387}Preview
 Dialogue: 0,0:23:53.77,0:23:59.21,Alternative,,0,0,0,,{TIME:1433770,1439210}If they win with Matsushima, the demon coach will step down. The fires of hatred are stoked.{NOTE:松島中学に勝てば、コーチを辞めてやると言い放った、鬼コーチに憎しみが燃える。}
 Dialogue: 0,0:24:00.17,0:24:05.73,Alternative,,0,0,0,,{TIME:1440170,1445730}The first set. Thanks to Midori's excellence, they get the first set point.{NOTE:第一セット。得にみどりのアタックはXXXたり、たちまちセットポイント迎えた。}
 Dialogue: 0,0:24:05.73,0:24:09.05,Alternative,,0,0,0,,{TIME:1445730,1449050}But the game soon enough turns around in Matsushima's favor.{NOTE:しかし、松島ベンチには、みどりを決定的XXX。}
 Dialogue: 0,0:24:09.05,0:24:11.61,Alternative,,0,0,0,,{TIME:1449050,1451610}Matsushima controls the match completely.{NOTE:試合は一点して松島ペース。}
 Dialogue: 0,0:24:11.61,0:24:17.49,Alternative,,0,0,0,,{TIME:1451610,1457490}Meanwhile the demon coach Hongou observes Fujimi Academy team's pinch from the side.{NOTE:一方、鬼コーチ本郷は、スタンドからピンチにXXX富士見学園チームを偶然としてXXX。}
 Dialogue: 0,0:24:18.14,0:24:21.47,Alternative,,0,0,0,,{TIME:1458140,1461470}Please look forward to the next episode.{NOTE:さ、来週のアタックナンバーワンをお楽しみに。}
+Comment: 0,0:24:26.42,0:24:26.42,Default,Chapter,0,0,0,,{TIME:1466423,1466423}Ending
 Dialogue: 0,0:24:40.16,0:24:44.03,Lyrics JP,,0,0,0,,{TIME:1480160,1484030}{\an8}青い青い空に
 Dialogue: 0,0:24:44.03,0:24:47.12,Lyrics JP,,0,0,0,,{TIME:1484030,1487120}{\an8}バンボンボボン
 Dialogue: 0,0:24:47.12,0:24:51.19,Lyrics JP,,0,0,0,,{TIME:1487120,1491190}{\an8}はずむボールが

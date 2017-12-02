@@ -23,6 +23,7 @@ Style: Sign,Gotham Rounded Medium,43.0,&H009AFBDC,&H000000FF,&H00202020,&H7F2020
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:14.27,0:00:18.74,Lyrics JP,,0,0,0,,{TIME:14270,18740}{\an8}苦しくたって
 Dialogue: 0,0:00:18.74,0:00:21.95,Lyrics JP,,0,0,0,,{TIME:18740,21950}{\an8}悲しくたって
 Dialogue: 0,0:00:21.95,0:00:29.28,Lyrics JP,,0,0,0,,{TIME:21950,29280}{\an8}コートのなかでは平気なの
@@ -59,7 +60,9 @@ Dialogue: 0,0:00:52.41,0:01:00.68,Lyrics EN,,0,0,0,,{TIME:52410,60680}Through th
 Dialogue: 0,0:01:00.68,0:01:08.82,Lyrics EN,,0,0,0,,{TIME:60680,68820}…under the blue sky, I just want to scream:
 Dialogue: 0,0:01:08.82,0:01:16.98,Lyrics EN,,0,0,0,,{TIME:68820,76980}Attack! Attack! Number 1!
 Dialogue: 0,0:01:16.98,0:01:26.12,Lyrics EN,,0,0,0,,{TIME:76980,86120}Attack! Attack! Number 1!
+Comment: 0,0:01:27.04,0:01:27.04,Default,Chapter,0,0,0,,{TIME:87045,87045}Title screen
 Dialogue: 0,0:01:33.13,0:01:38.72,Default,,0,0,0,,{TIME:93130,98720}—Episode 004—\NBall torn to pieces
+Comment: 0,0:01:38.72,0:01:38.72,Default,Chapter,0,0,0,,{TIME:98723,98723}Part A
 Dialogue: 0,0:01:39.78,0:01:41.18,Default,,0,0,0,,{TIME:99780,101180}– Wow…\N– Awesome.
 Dialogue: 0,0:02:00.86,0:02:02.74,Default,,0,0,0,,{TIME:120860,122740}Such an accurate spike…{NOTE:正確なスパイク。}
 Dialogue: 0,0:02:02.74,0:02:04.46,Default,,0,0,0,,{TIME:122740,124460}Almost like a machine.{NOTE:丸で精密機会のようだわ。}
@@ -230,6 +233,7 @@ Dialogue: 0,0:11:53.36,0:11:56.10,Default,,0,0,0,,{TIME:713360,716100}When capta
 Dialogue: 0,0:11:56.10,0:11:59.62,Default,,0,0,0,,{TIME:716100,719620}I won't give up my love for volleyball.
 Dialogue: 0,0:11:59.62,0:12:06.40,Default,,0,0,0,,{TIME:719620,726400}I want a strong and elegant team as much as Hayakawa-san. No, I want it even more than her.
 Dialogue: 0,0:12:06.40,0:12:08.40,Alternative,,0,0,0,,{TIME:726400,728400}But…
+Comment: 0,0:12:41.42,0:12:41.42,Default,Chapter,0,0,0,,{TIME:761427,761427}Part B
 Dialogue: 0,0:12:41.79,0:12:46.07,Default,,0,0,0,,{TIME:761790,766070}– Hold it while I pull the other side.\N– Roger.
 Dialogue: 0,0:12:51.41,0:12:52.07,Default,,0,0,0,,{TIME:771410,772070}Here!
 Dialogue: 0,0:12:54.37,0:12:56.98,Default,,0,0,0,,{TIME:774370,776980}Oh? Hayakawa-san, you don't need to do such things.
@@ -411,12 +415,14 @@ Dialogue: 0,0:23:38.29,0:23:39.38,Alternative,,0,0,0,,{TIME:1418290,1419380}It w
 Dialogue: 0,0:23:39.38,0:23:43.31,Alternative,,0,0,0,,{TIME:1419380,1423310}No matter what, I need Ayuhara Kozue-san's power for the tournament.
 Dialogue: 0,0:23:43.93,0:23:46.51,Alternative,,0,0,0,,{TIME:1423930,1426510}But when it comes to playing, I'm the best.
 Dialogue: 0,0:23:46.51,0:23:48.55,Alternative,,0,0,0,,{TIME:1426510,1428550}I'll become the queen.
+Comment: 0,0:23:52.05,0:23:52.05,Default,Chapter,0,0,0,,{TIME:1432056,1432056}Preview
 Dialogue: 0,0:23:54.55,0:24:00.58,Alternative,,0,0,0,,{TIME:1434550,1440580}After Midori and Kozue called a truce, the coach Hongou…
 Dialogue: 0,0:24:00.58,0:24:03.16,Alternative,,0,0,0,,{TIME:1440580,1443160}…immediately begins a hard training.
 Dialogue: 0,0:24:03.16,0:24:08.86,Alternative,,0,0,0,,{TIME:1443160,1448860}The training's severity becomes questioned at teachers meeting.
 Dialogue: 0,0:24:08.86,0:24:12.27,Alternative,,0,0,0,,{TIME:1448860,1452270}Even so, coach Hongou carries on with the practices.
 Dialogue: 0,0:24:13.22,0:24:19.04,Alternative,,0,0,0,,{TIME:1453220,1459040}Under his guidance, Kozue and Midori's true rivalry becomes ablaze.
 Dialogue: 0,0:24:19.74,0:24:23.01,Alternative,,0,0,0,,{TIME:1459740,1463010}Please look forward to the next episode.
+Comment: 0,0:24:27.09,0:24:27.09,Default,Chapter,0,0,0,,{TIME:1467090,1467090}Ending
 Dialogue: 0,0:24:40.85,0:24:44.72,Lyrics JP,,0,0,0,,{TIME:1480850,1484720}{\an8}青い青い空に
 Dialogue: 0,0:24:44.72,0:24:47.81,Lyrics JP,,0,0,0,,{TIME:1484720,1487810}{\an8}バンボンボボン
 Dialogue: 0,0:24:47.81,0:24:51.88,Lyrics JP,,0,0,0,,{TIME:1487810,1491880}{\an8}はずむボールが
