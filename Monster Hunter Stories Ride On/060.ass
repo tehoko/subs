@@ -25,31 +25,30 @@ Style: Beast,Komika Axis,70.0,&H00FAF9F6,&H000000FF,&H00000040,&H7F202020,-1,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}#Sponsors
 Comment: 0,0:00:03.02,0:00:03.02,Default,Chapter,0,0,0,,{TIME:3024,3024}Intro
-Dialogue: 0,0:00:03.85,0:00:05.65,Default,Narrator,80,80,80,,{TIME:3858,5652}{NOTE:少年たちはﾗｲﾀﾞｰ。}
-Dialogue: 0,0:00:05.65,0:00:08.23,Default,Narrator,80,80,80,,{TIME:5652,8238}{NOTE:ﾓﾝｽﾀｰと絆を結びし者たちである。}
-Dialogue: 0,0:00:09.48,0:00:13.78,Default,Narrator,80,80,80,,{TIME:9489,13785}{NOTE:ブラックライダーズを名乗る謎のライダーたちにアユリアは捕らわれ…}
-Dialogue: 0,0:00:13.78,0:00:16.32,Default,Narrator,80,80,80,,{TIME:13785,16329}{NOTE:…ハクム村も襲撃を受けた。}
-Dialogue: 0,0:00:16.32,0:00:20.83,Default,Narrator,80,80,80,,{TIME:16329,20833}{NOTE:ゲイルに敗れ絆石を奪われたハクム村のライダーたち…}
-Dialogue: 0,0:00:20.83,0:00:24.00,Default,Narrator,80,80,80,,{TIME:20833,24003}{NOTE:…ブラックライダーズの追撃はさらに激しさを増し…}
-Dialogue: 0,0:00:33.01,0:00:34.47,Default,Wrath,0,0,0,,{TIME:33012,34472}{NOTE:しゃらくせえ！}
-Dialogue: 0,0:00:34.47,0:00:35.89,Default,Wrath,0,0,0,,{TIME:34472,35890}{NOTE:まとめて来い！}
-Dialogue: 0,0:00:37.30,0:00:39.01,Default,Wrath,0,0,0,,{TIME:37308,39018}{NOTE:拡散龍ブレス！}
-Dialogue: 0,0:00:45.98,0:00:50.53,Default,Narrator,80,80,80,,{TIME:45984,50530}{NOTE:若きライダーたちはブラックライダーズからアユリアを奪還すべく…}
-Dialogue: 0,0:00:50.53,0:00:55.99,Default,Narrator,80,80,80,,{TIME:50530,55994}{NOTE:…ハクム村を離れ伝承技を手に入れる修業の旅へと向かったのだった。}
-Dialogue: 0,0:00:59.58,0:01:05.96,Default,Narrator,0,0,0,,{TIME:59581,65962}{NOTE:そんな中絆遺伝子を探すミル、ヒョロの元にある手紙が届いた。}
-Dialogue: 0,0:01:07.96,0:01:09.29,Default,Courier,0,0,0,,{TIME:67964,69299}{NOTE:ミルさんですかニャ？}
-Dialogue: 0,0:01:10.04,0:01:10.50,Default,Mille,0,0,0,,{TIME:70049,70508}{NOTE:ん？}
-Dialogue: 0,0:01:11.00,0:01:14.76,Default,Courier,0,0,0,,{TIME:71009,74762}{NOTE:ハクム村のガミガミさんからお手紙ですニャ。}
-Dialogue: 0,0:01:15.30,0:01:16.84,Default,Mille,0,0,0,,{TIME:75305,76848}{NOTE:ありがとう。}
-Dialogue: 0,0:01:16.84,0:01:18.43,Default,Hyoro,0,0,0,,{TIME:76848,78433}{NOTE:何かあったのかな？}
-Dialogue: 0,0:01:20.60,0:01:21.81,Default,Mille,0,0,0,,{TIME:80602,81811}{NOTE:えーっと…}
-Dialogue: 0,0:01:22.60,0:01:24.77,Default,Mille,0,0,0,,{TIME:82604,84772}{NOTE:｢オトモンレース開催。」}
-Dialogue: 0,0:01:24.77,0:01:26.23,Default,Mille,0,0,0,,{TIME:84772,86232}{NOTE:「すぐ戻れ｣って！}
-Dialogue: 0,0:01:26.23,0:01:27.44,Default,(unison),0,0,0,,{TIME:86232,87442}{NOTE:—えっ!?—えっ!?}
-Dialogue: 0,0:01:27.44,0:01:31.65,Default,Mille,0,0,0,,{TIME:87442,91654}{NOTE:せっかく伝承の儀のために修業をしようと思っていたのに…}
-Dialogue: 0,0:01:31.65,0:01:35.03,Default,Hyoro,0,0,0,,{TIME:91654,95033}{NOTE:でも戻らないとガミガミ言われそうだよね。}
-Dialogue: 0,0:01:36.78,0:01:38.41,Default,Mille,0,0,0,,{TIME:96784,98411}{NOTE:あ～もう！}
-Dialogue: 0,0:01:41.37,0:01:42.99,Default,Nuts,0,0,0,,{TIME:101372,102999}{NOTE:いいこと聞いちゃった。}
+Dialogue: 0,0:00:03.85,0:00:05.65,Default,Narrator,80,80,80,,{TIME:3858,5652}These kids are Riders.{NOTE:少年たちはﾗｲﾀﾞｰ。}
+Dialogue: 0,0:00:05.65,0:00:08.23,Default,Narrator,80,80,80,,{TIME:5652,8238}And they form kinship with monsters.{NOTE:ﾓﾝｽﾀｰと絆を結びし者たちである。}
+Dialogue: 0,0:00:09.48,0:00:13.78,Default,Narrator,80,80,80,,{TIME:9489,13785}Avinia was kidnapped by mysterious Riders called the Ebon Riders…{NOTE:ブラックライダーズを名乗る謎のライダーたちにアユリアは捕らわれ…}
+Dialogue: 0,0:00:13.78,0:00:16.32,Default,Narrator,80,80,80,,{TIME:13785,16329}…who also have attacked the Hakum village.{NOTE:…ハクム村も襲撃を受けた。}
+Dialogue: 0,0:00:16.32,0:00:20.83,Default,Narrator,80,80,80,,{TIME:16329,20833}The Riders at Hakum village, defeated by Gale and robbed of their Kinship Stones…{NOTE:ゲイルに敗れ絆石を奪われたハクム村のライダーたち…}
+Dialogue: 0,0:00:20.83,0:00:24.00,Default,Narrator,80,80,80,,{TIME:20833,24003}…further pursuit the Ebon Riders.{NOTE:…ブラックライダーズの追撃はさらに激しさを増し。}
+Dialogue: 0,0:00:33.01,0:00:35.89,Default,Wrath,0,0,0,,{TIME:33012,35890}Come at me, you cheeky brats!{NOTE:しゃらくせえ！まとめて来い！}
+Dialogue: 0,0:00:37.30,0:00:39.01,Default,Wrath,0,0,0,,{TIME:37308,39018}Dragon Breath!{NOTE:拡散龍ブレス！}
+Dialogue: 0,0:00:45.98,0:00:50.53,Default,Narrator,80,80,80,,{TIME:45984,50530}Young Riders, wanting to save Avinia…{NOTE:若きライダーたちはブラックライダーズからアユリアを奪還すべく…}
+Dialogue: 0,0:00:50.53,0:00:55.99,Default,Narrator,80,80,80,,{TIME:50530,55994}…left Hakum village for a journey\Nto learn about the Rite of Channeling.{NOTE:…ハクム村を離れ伝承技を手に入れる修業の旅へと向かったのだった。}
+Dialogue: 0,0:00:59.58,0:01:05.96,Default,Narrator,0,0,0,,{TIME:59581,65962}During they quest to find the kinship genes,\NMille and Hyoro receive a letter.{NOTE:そんな中絆遺伝子を探すミル、ヒョロの元にある手紙が届いた。}
+Dialogue: 0,0:01:07.96,0:01:09.29,Default,Courier,0,0,0,,{TIME:67964,69299}Are you Mille-nya?{NOTE:ミルさんですかニャ？}
+Dialogue: 0,0:01:10.04,0:01:10.50,Default,Mille,0,0,0,,{TIME:70049,70508}Hmm?{NOTE:ん？}
+Dialogue: 0,0:01:11.00,0:01:14.76,Default,Courier,0,0,0,,{TIME:71009,74762}It is a letter from Mr. Gamigami from Hakum Village.{NOTE:ハクム村のガミガミさんからお手紙ですニャ。}
+Dialogue: 0,0:01:15.30,0:01:16.84,Default,Mille,0,0,0,,{TIME:75305,76848}Thank you.{NOTE:ありがとう。}
+Dialogue: 0,0:01:16.84,0:01:18.43,Default,Hyoro,0,0,0,,{TIME:76848,78433}I hope nothing bad happened.{NOTE:何かあったのかな？}
+Dialogue: 0,0:01:20.60,0:01:21.81,Default,Mille,0,0,0,,{TIME:80602,81811}Let's see…{NOTE:えーっと…}
+Dialogue: 0,0:01:22.60,0:01:24.77,Default,Mille,0,0,0,,{TIME:82604,84772}"We're holding Monstie Races."{NOTE:｢オトモンレース開催。」}
+Dialogue: 0,0:01:24.77,0:01:26.23,Default,Mille,0,0,0,,{TIME:84772,86232}"Get back here ASAP"!{NOTE:「すぐ戻れ｣って！}
+Dialogue: 0,0:01:26.23,0:01:27.44,Default,(unison),0,0,0,,{TIME:86232,87442}{NOTE:—えっ!?\\N—えっ!?}
+Dialogue: 0,0:01:27.44,0:01:31.65,Default,Mille,0,0,0,,{TIME:87442,91654}I thought we should focus on getting to know the Rite of Channeling…{NOTE:せっかく伝承の儀のために修業をしようと思っていたのに…}
+Dialogue: 0,0:01:31.65,0:01:35.03,Default,Hyoro,0,0,0,,{TIME:91654,95033}But Gamigami will give us\Nan earful if we don't go back.{NOTE:でも戻らないとガミガミ言われそうだよね。}
+Dialogue: 0,0:01:36.78,0:01:38.41,Default,Mille,0,0,0,,{TIME:96784,98411}Ah, geez!{NOTE:あ～もう！}
+Dialogue: 0,0:01:41.37,0:01:42.99,Default,(mixed),0,0,0,,{TIME:101372,102999}Now that can be useful.{NOTE:いいこと聞いちゃった。}
 Comment: 0,0:01:44.04,0:01:44.04,Default,Chapter,0,0,0,,{TIME:104042,104042}Opening
 Dialogue: 0,0:01:47.30,0:01:54.73,Default,,0,0,0,,{TIME:107302,114732}{\fad(2500,0)}Monster Hunter Stories: Ride On{NOTE:モンスターハンターストーリーズ：RIDE・ON}
 Dialogue: 0,0:01:57.90,0:02:01.20,OP/ED Romaji,,0,0,0,,{TIME:117902,121202}{\k40}Bo{\k20}ku{\k20}ra {\k43}kyou {\k20}mo {\k16}i{\k20}ki{\k23}te{\k20}i{\k106}ru
@@ -109,396 +108,397 @@ Dialogue: 0,0:03:38.70,0:03:43.98,OP/ED English,,0,0,0,,{TIME:218702,223982}{\fa
 Comment: 0,0:03:46.03,0:03:46.03,Default,Chapter,0,0,0,,{TIME:226038,226038}#Sponsors
 Comment: 0,0:04:01.05,0:04:01.05,Default,Chapter,0,0,0,,{TIME:241053,241053}#Black screen
 Comment: 0,0:04:03.05,0:04:03.05,Default,Chapter,0,0,0,,{TIME:243054,243054}Part A
-Dialogue: 0,0:04:03.38,0:04:07.56,Default,,0,0,0,,{TIME:243389,247560}{\fad(600,600)}{NOTE:第６０話オトモンレース、再び！}
-Dialogue: 0,0:04:06.72,0:04:09.68,Default,Lilia,0,0,0,,{TIME:246726,249687}{NOTE:みんなおかえり！}
-Dialogue: 0,0:04:09.68,0:04:12.06,Default,Mille,0,0,0,,{TIME:249687,252064}{NOTE:リリアもティティも戻ってたの？}
-Dialogue: 0,0:04:12.06,0:04:13.10,Default,Lilia,0,0,0,,{TIME:252064,253107}{NOTE:うん。}
-Dialogue: 0,0:04:13.10,0:04:15.56,Default,Lilia,0,0,0,,{TIME:253107,255568}{NOTE:ガミガミさんから手紙もらってね。}
-Dialogue: 0,0:04:15.56,0:04:16.98,Default,Lilia,0,0,0,,{TIME:255568,256986}{NOTE:ミルたちもでしょ？}
-Dialogue: 0,0:04:16.98,0:04:17.90,Default,Mille,0,0,0,,{TIME:256986,257904}{NOTE:ええ。}
-Dialogue: 0,0:04:17.90,0:04:19.82,Default,Gamigami,0,0,0,,{TIME:257904,259822}{NOTE:お～！帰ってきたか！}
-Dialogue: 0,0:04:19.82,0:04:20.49,Default,(unison),0,0,0,,{TIME:259822,260490}{NOTE:—おっ？—おっ？}
-Dialogue: 0,0:04:20.49,0:04:21.99,Default,Geezer A,0,0,0,,{TIME:260490,261991}{NOTE:待っておったぞ。}
-Dialogue: 0,0:04:21.99,0:04:24.41,Default,Geezer B,0,0,0,,{TIME:261991,264410}{NOTE:よくぞ戻った。}
-Dialogue: 0,0:04:24.41,0:04:25.49,Default,Hyoro,0,0,0,,{TIME:264410,265495}{NOTE:あのう…}
-Dialogue: 0,0:04:25.49,0:04:28.49,Default,Hyoro,0,0,0,,{TIME:265495,268498}{NOTE:ホントにやるんですか？オトモンレース。}
-Dialogue: 0,0:04:28.49,0:04:31.16,Default,Geezer B,0,0,0,,{TIME:268498,271167}{NOTE:うむ。村の伝統だからのう。}
-Dialogue: 0,0:04:31.16,0:04:34.67,Default,Mille,0,0,0,,{TIME:271167,274670}{NOTE:でもことしの新人ライダーはナリキ１人よ？}
-Dialogue: 0,0:04:34.67,0:04:35.58,Default,Gamigami,0,0,0,,{TIME:274670,275588}{NOTE:ふん…}
-Dialogue: 0,0:04:35.58,0:04:39.21,Default,Gamigami,0,0,0,,{TIME:275588,279217}{NOTE:ライダーならここにもう２人おるではないか。}
-Dialogue: 0,0:04:39.84,0:04:40.71,Default,(unison),0,0,0,,{TIME:279842,280718}{NOTE:—えっ？—えっ？}
-Dialogue: 0,0:04:41.38,0:04:44.09,Default,Hyoro,0,0,0,,{TIME:281385,284096}{NOTE:あっ、それって僕たちのこと!?}
-Dialogue: 0,0:04:44.09,0:04:47.14,Default,Mille,0,0,0,,{TIME:284096,287141}{NOTE:でも私たちはもう新米じゃないし。}
-Dialogue: 0,0:04:47.14,0:04:51.10,Default,Mille,0,0,0,,{TIME:287141,291103}{NOTE:早く伝承の儀をしてアユリアを助けにいかないと。}
-Dialogue: 0,0:04:51.10,0:04:54.94,Default,Gamigami,0,0,0,,{TIME:291103,294941}{NOTE:そんなこと言われんでも分かっとるわい！}
-Dialogue: 0,0:04:54.94,0:05:00.90,Default,Geezer A,0,0,0,,{TIME:294941,300905}{NOTE:じゃがこんなときだからこそオトモンレースで村の士気を高めるのじゃ。}
-Dialogue: 0,0:05:00.90,0:05:05.74,Default,Geezer B,0,0,0,,{TIME:300905,305743}{NOTE:いや、今ね、子供らには明るい話題が必要なんじゃよ。}
-Dialogue: 0,0:05:05.74,0:05:07.66,Default,Lilia,0,0,0,,{TIME:305743,307662}{NOTE:私からもお願い！}
-Dialogue: 0,0:05:07.66,0:05:11.20,Default,Lilia,0,0,0,,{TIME:307662,311207}{NOTE:ダン先輩たちもブラックライダーズに絆石を奪われて…}
-Dialogue: 0,0:05:11.20,0:05:13.45,Default,Lilia,0,0,0,,{TIME:311207,313459}{NOTE:…元気ないみたいで。}
-Dialogue: 0,0:05:13.45,0:05:14.71,Default,Hyoro,0,0,0,,{TIME:313459,314710}{NOTE:そうなんだ。}
-Dialogue: 0,0:05:14.71,0:05:16.25,Default,Mille,0,0,0,,{TIME:314710,316254}{NOTE:でもねぇ…}
-Dialogue: 0,0:05:16.25,0:05:18.71,Default,Nariki,0,0,0,,{TIME:316254,318714}{NOTE:自分オトモンレースやるっす！}
-Dialogue: 0,0:05:18.71,0:05:19.54,Default,(unison),0,0,0,,{TIME:318714,319549}{NOTE:—えっ!?—えっ!?}
-Dialogue: 0,0:05:19.54,0:05:22.96,Default,Geezer B,0,0,0,,{TIME:319549,322969}{NOTE:おお…そうか！やってくれるか！}
-Dialogue: 0,0:05:22.96,0:05:24.09,Default,Nariki,0,0,0,,{TIME:322969,324095}{NOTE:はいっす！}
-Dialogue: 0,0:05:24.09,0:05:27.26,Default,Nariki,0,0,0,,{TIME:324095,327265}{NOTE:それで村のみんなが元気になってくれるなら。}
-Dialogue: 0,0:05:27.26,0:05:30.18,Default,Nariki,0,0,0,,{TIME:327265,330183}{NOTE:やるっすよね？ヒョロ先輩ミル先輩。}
-Dialogue: 0,0:05:31.10,0:05:31.97,Default,(unison),0,0,0,,{TIME:331102,331978}{NOTE:—うん。—うん。}
-Dialogue: 0,0:05:33.06,0:05:34.89,Default,Hyoro,0,0,0,,{TIME:333062,334897}{NOTE:ナリキがそう言うなら。}
-Dialogue: 0,0:05:34.89,0:05:36.39,Default,Mille,0,0,0,,{TIME:334897,336399}{NOTE:そうね。}
-Dialogue: 0,0:05:36.39,0:05:38.73,Default,Mille,0,0,0,,{TIME:336399,338734}{NOTE:ただし手加減しないわよ！}
-Dialogue: 0,0:05:38.73,0:05:40.40,Default,Nariki,0,0,0,,{TIME:338734,340403}{NOTE:望むところっす！}
-Dialogue: 0,0:05:41.02,0:05:44.49,Default,Gamigami,0,0,0,,{TIME:341028,344490}{NOTE:そうと決まれば準備に取り掛かるぞー！}
-Dialogue: 0,0:05:44.49,0:05:46.15,Default,(unison),0,0,0,,{TIME:344490,346158}{NOTE:—おー！—おー！}
-Dialogue: 0,0:05:47.82,0:05:50.16,Default,Nuts,0,0,0,,{TIME:347827,350162}{NOTE:ゲイルさま～！}
-Dialogue: 0,0:05:50.16,0:05:51.74,Default,Nuts,0,0,0,,{TIME:350162,351747}{NOTE:ゲイルさま～！}
-Dialogue: 0,0:05:53.49,0:05:54.95,Default,Nuts,0,0,0,,{TIME:353499,354959}{NOTE:なあ。お前たち。}
-Dialogue: 0,0:05:54.95,0:05:57.62,Default,Nuts,0,0,0,,{TIME:354959,357628}{NOTE:ゲイルさまを見なかったか？}
-Dialogue: 0,0:05:57.62,0:06:00.17,Default,Minion,0,0,0,,{TIME:357628,360172}{NOTE:あの囚人の女のところに行くのを見ました。}
-Dialogue: 0,0:06:00.92,0:06:02.04,Default,Nuts,0,0,0,,{TIME:360923,362049}{NOTE:またか。}
-Dialogue: 0,0:06:02.04,0:06:06.17,Default,Nuts,0,0,0,,{TIME:362049,366178}{NOTE:せっかくハクム村のライダーの情報つかんできたってのに。}
-Dialogue: 0,0:06:08.01,0:06:11.14,Default,Wrath,0,0,0,,{TIME:368014,371142}{NOTE:ハクム村のライダーがどうしたって？}
-Dialogue: 0,0:06:11.14,0:06:14.52,Default,Nuts,0,0,0,,{TIME:371142,374520}{NOTE:ラースさま！な…何の話かな？}
-Dialogue: 0,0:06:16.56,0:06:20.06,Default,Wrath,0,0,0,,{TIME:376563,380067}{NOTE:うまそうなにおいしてやがるな、お前。}
-Dialogue: 0,0:06:21.52,0:06:23.82,Default,Wrath,0,0,0,,{TIME:381527,383820}{NOTE:俺に隠し事するなら…}
-Dialogue: 0,0:06:26.03,0:06:27.32,Default,Wrath,0,0,0,,{TIME:386032,387325}{NOTE:食っちまうぞ！}
-Dialogue: 0,0:06:31.82,0:06:34.95,Default,Nuts,0,0,0,,{TIME:391829,394957}{NOTE:思い出した！思い出した！思い出した！}
-Dialogue: 0,0:06:34.95,0:06:37.91,Default,Nuts,0,0,0,,{TIME:394957,397919}{NOTE:やつらならオトモンレースをするんだ！}
-Dialogue: 0,0:06:37.91,0:06:40.29,Default,Nuts,0,0,0,,{TIME:397919,400296}{NOTE:だからハクム村に集まってる！}
-Dialogue: 0,0:06:42.67,0:06:44.96,Default,Wrath,0,0,0,,{TIME:402673,404967}{NOTE:そっちの方がうまそうだ。}
-Dialogue: 0,0:06:57.81,0:06:59.27,Default,Villager,0,0,0,,{TIME:417813,419273}{NOTE:串焼きありまーす！}
-Dialogue: 0,0:06:59.98,0:07:01.52,Default,Loloa,0,0,0,,{TIME:419982,421525}{NOTE:ハクム村名産。}
-Dialogue: 0,0:07:01.52,0:07:03.98,Default,Loloa,0,0,0,,{TIME:421525,423986}{NOTE:キノコの串焼きがお薦めですの！}
-Dialogue: 0,0:07:05.15,0:07:06.28,Default,Genie,0,0,0,,{TIME:425154,426280}{NOTE:いよいよだな。}
-Dialogue: 0,0:07:07.15,0:07:08.57,Default,Genie,0,0,0,,{TIME:427156,428574}{NOTE:出るからには勝て。}
-Dialogue: 0,0:07:08.57,0:07:09.78,Default,Nariki,0,0,0,,{TIME:428574,429784}{NOTE:はいっす！}
-Dialogue: 0,0:07:09.78,0:07:14.33,Default,Stone,0,0,0,,{TIME:429784,434330}{NOTE:とはいえミルとヒョロはあれでも黒の凶気と戦ってきた猛者たちだ。}
-Dialogue: 0,0:07:15.41,0:07:18.16,Default,Nole,0,0,0,,{TIME:435414,438167}{NOTE:普通に戦っても勝てないだろうね。}
-Dialogue: 0,0:07:18.16,0:07:21.29,Default,Nariki,0,0,0,,{TIME:438167,441295}{NOTE:ちょっ…レース前にそれ言うっすか？}
-Dialogue: 0,0:07:21.75,0:07:23.54,Default,Dan,0,0,0,,{TIME:441754,443547}{NOTE:まあ慌てるな。}
-Dialogue: 0,0:07:23.54,0:07:27.13,Default,Dan,0,0,0,,{TIME:443547,447134}{NOTE:そういうわけでお前にはハンデをやることにした。}
-Dialogue: 0,0:07:27.13,0:07:28.13,Default,Nariki,0,0,0,,{TIME:447134,448135}{NOTE:ハンデ？}
-Dialogue: 0,0:07:28.13,0:07:30.97,Default,Nariki,0,0,0,,{TIME:448135,450972}{NOTE:ｵﾄﾓﾝﾚｰｽにそんなのあるんすか？}
-Dialogue: 0,0:07:30.97,0:07:33.64,Default,Dan,0,0,0,,{TIME:450972,453641}{NOTE:今回のコースを作ったのは俺たちだ。}
-Dialogue: 0,0:07:34.39,0:07:35.93,Default,Nariki,0,0,0,,{TIME:454392,455935}{NOTE:どういうことっすか？}
-Dialogue: 0,0:07:36.56,0:07:38.81,Default,Genie,0,0,0,,{TIME:456560,458813}{NOTE:それだけでも有利ってことだ。}
-Dialogue: 0,0:07:42.06,0:07:45.19,Default,Hyoro,0,0,0,,{TIME:462066,465194}{NOTE:それにしてもすごい人だね。}
-Dialogue: 0,0:07:45.19,0:07:49.69,Default,Mille,0,0,0,,{TIME:465194,469699}{NOTE:今回は別の村のライダーもレースを見に来てるらしいわ。}
-Dialogue: 0,0:07:49.69,0:07:55.24,Default,Mille,0,0,0,,{TIME:469699,475246}{NOTE:黒の凶気のことですっかり有名になっちゃったらしいから。ハクム村。}
-Dialogue: 0,0:07:55.24,0:07:56.53,Default,Hyoro,0,0,0,,{TIME:475246,476539}{NOTE:なるほど。}
-Dialogue: 0,0:07:56.53,0:07:58.74,Default,Mille,0,0,0,,{TIME:476539,478749}{NOTE:ところでナンバーズたちはどこ？}
-Dialogue: 0,0:07:58.74,0:08:01.46,Default,Hyoro,0,0,0,,{TIME:478749,481460}{NOTE:レース関係の仕事があるって言ってたよ。}
-Dialogue: 0,0:08:01.46,0:08:02.58,Default,Mille,0,0,0,,{TIME:481460,482586}{NOTE:何それ？}
-Dialogue: 0,0:08:02.58,0:08:03.46,Default,Hyoro,0,0,0,,{TIME:482586,483462}{NOTE:さあ。}
-Dialogue: 0,0:08:03.46,0:08:05.42,Default,Debli,0,0,0,,{TIME:483462,485423}{NOTE:らっしゃっせー！}
-Dialogue: 0,0:08:05.42,0:08:09.55,Default,Debli,0,0,0,,{TIME:485423,489552}{NOTE:ハクム村土産に絆石はいかがっすかー？}
-Dialogue: 0,0:08:09.55,0:08:12.68,Default,Debli,0,0,0,,{TIME:489552,492680}{NOTE:キラキラ輝く最高の絆石！}
-Dialogue: 0,0:08:12.68,0:08:14.09,Default,Debli,0,0,0,,{TIME:492680,494098}{NOTE:いかがっすかー？}
-Dialogue: 0,0:08:14.97,0:08:16.93,Default,Hyoro,0,0,0,,{TIME:494974,496934}{NOTE:デブ…}
-Dialogue: 0,0:08:16.93,0:08:17.39,Default,Hyoro,0,0,0,,{TIME:496934,497393}{NOTE:リ？}
-Dialogue: 0,0:08:17.39,0:08:18.47,Default,Debli,0,0,0,,{TIME:497393,498477}{NOTE:すっと言え！}
-Dialogue: 0,0:08:19.27,0:08:20.98,Default,Mille,0,0,0,,{TIME:499270,500980}{NOTE:何でいるのよ？}
-Dialogue: 0,0:08:20.98,0:08:21.89,Default,,0,0,0,,{TIME:500980,501897}{NOTE:フフン。}
-Dialogue: 0,0:08:21.89,0:08:24.65,Default,Debli,0,0,0,,{TIME:501897,504650}{NOTE:人が集まるところに金が動く。}
-Dialogue: 0,0:08:24.65,0:08:27.94,Default,Debli,0,0,0,,{TIME:504650,507945}{NOTE:金が動くところにデブリあり！}
-Dialogue: 0,0:08:27.94,0:08:33.15,Default,Mille,0,0,0,,{TIME:507945,513159}{NOTE:っていうか偽物の絆石をハクム村土産として売っちゃ駄目でしょ！}
-Dialogue: 0,0:08:33.15,0:08:34.74,Default,Debli,0,0,0,,{TIME:513159,514744}{NOTE:やっぱ駄目か…}
-Dialogue: 0,0:08:34.74,0:08:36.49,Default,Mille,0,0,0,,{TIME:514744,516495}{NOTE:当たり前でしょ！}
-Dialogue: 0,0:08:36.49,0:08:37.58,Default,Debli,0,0,0,,{TIME:516495,517580}{NOTE:くそ～。}
-Dialogue: 0,0:08:37.58,0:08:39.91,Default,Debli,0,0,0,,{TIME:517580,519915}{NOTE:もうかると思ったんだけどなぁ…}
-Dialogue: 0,0:08:45.50,0:08:48.75,Default,Announcer,0,0,0,,{TIME:525504,528758}{NOTE:オトモンレースが始まるぞー！}
-Dialogue: 0,0:08:48.75,0:08:52.84,Default,Announcer,0,0,0,,{TIME:528758,532845}{NOTE:ライダーは村の広場のスタートゲートに集まれ！}
-Dialogue: 0,0:08:52.84,0:08:55.84,Default,Announcer,0,0,0,,{TIME:532845,535848}{NOTE:ことしも豪華賞品が待っとるぞー！}
-Dialogue: 0,0:08:59.64,0:09:01.22,Default,Hyoro,0,0,0,,{TIME:539643,541228}{NOTE:ミル行かないと。}
-Dialogue: 0,0:09:01.22,0:09:01.89,Default,Mille,0,0,0,,{TIME:541228,541896}{NOTE:うん。}
-Dialogue: 0,0:09:02.56,0:09:05.02,Default,Mille,0,0,0,,{TIME:542563,545024}{NOTE:とっとと片付けなさいよ。}
-Dialogue: 0,0:09:05.02,0:09:05.81,Default,Debli,0,0,0,,{TIME:545024,545816}{NOTE:ああ…}
-Dialogue: 0,0:09:09.23,0:09:11.23,Default,Debli,0,0,0,,{TIME:549236,551238}{NOTE:豪華賞品…}
-Dialogue: 0,0:09:11.86,0:09:14.99,Default,Beats,0,0,0,,{TIME:551864,554992}{NOTE:さあ、どこまでも青い晴天の空の下。}
-Dialogue: 0,0:09:14.99,0:09:17.95,Default,Beats,0,0,0,,{TIME:554992,557953}{NOTE:ことしもこの日がやって来た！}
-Dialogue: 0,0:09:17.95,0:09:19.45,Default,Beats,0,0,0,,{TIME:557953,559455}{NOTE:ハクム村名物。}
-Dialogue: 0,0:09:19.45,0:09:22.79,Default,Beats,0,0,0,,{TIME:559455,562792}{NOTE:ﾗｲﾀﾞｰによるｵﾄﾓﾝﾚｰｽの開催だ！}
-Dialogue: 0,0:09:22.79,0:09:27.17,Default,Beats,0,0,0,,{TIME:562792,567171}{NOTE:今回の実況は輝く炎は情熱の証し。}
-Dialogue: 0,0:09:27.17,0:09:29.71,Default,Beats,0,0,0,,{TIME:567171,569715}{NOTE:ナンバーズ１号！}
-Dialogue: 0,0:09:29.71,0:09:32.42,Default,Beats,0,0,0,,{TIME:569715,572426}{NOTE:ことビーツが務めさせていただきます。}
-Dialogue: 0,0:09:32.42,0:09:35.59,Default,Beats,0,0,0,,{TIME:572426,575596}{NOTE:そして解説にはハクム村が生んだ博学娘…}
-Dialogue: 0,0:09:35.59,0:09:37.72,Default,Beats,0,0,0,,{TIME:575596,577723}{NOTE:…リリアをお招きしている。}
-Dialogue: 0,0:09:37.72,0:09:39.35,Default,Lilia,0,0,0,,{TIME:577723,579350}{NOTE:よろしくね～。}
-Dialogue: 0,0:09:39.35,0:09:43.10,Default,Beats,0,0,0,,{TIME:579350,583104}{NOTE:そして他にも名だたるゲストが駆け付けてくれた！}
-Dialogue: 0,0:09:43.10,0:09:44.31,Default,Gamigami,0,0,0,,{TIME:583104,584313}{NOTE:オホン…}
-Dialogue: 0,0:09:45.56,0:09:48.27,Default,Gamigami,0,0,0,,{TIME:585564,588275}{NOTE:オトモンレースの歴史は古く…}
-Dialogue: 0,0:09:48.27,0:09:53.11,Default,Gamigami,0,0,0,,{TIME:588275,593114}{NOTE:…ハクム村創立のときから続いていると伝わっておる。}
-Dialogue: 0,0:09:53.11,0:09:59.53,Default,Gamigami,0,0,0,,{TIME:593114,599537}{NOTE:わしガミガミも若き日にはこのオトモンレースに参加し名誉の負傷…}
-Dialogue: 0,0:09:59.53,0:10:02.62,Default,Gamigami,0,0,0,,{TIME:599537,602623}{NOTE:その傷は今もわしの勲章としてさんぜんと…}
-Dialogue: 0,0:10:02.62,0:10:07.92,Default,Beats,0,0,0,,{TIME:602623,607920}{NOTE:え～話が長くなりそうなので。ゲストはハクム村の老人たち！}
-Dialogue: 0,0:10:07.92,0:10:10.17,Default,Geezer B,0,0,0,,{TIME:607920,610172}{NOTE:説明が雑じゃのう…}
-Dialogue: 0,0:10:10.50,0:10:12.67,Default,Beats,0,0,0,,{TIME:610506,612675}{NOTE:さてレース予想ですが}
-Dialogue: 0,0:10:12.67,0:10:15.30,Default,Beats,0,0,0,,{TIME:612675,615302}{NOTE:リリア今回はどうみますか？}
-Dialogue: 0,0:10:15.30,0:10:23.60,Default,Lilia,0,0,0,,{TIME:615302,623602}{NOTE:そうですね。ナリキのドスランポスはスピード的には申し分ありませんがスタミナにやや不安があると聞いてます。}
-Dialogue: 0,0:10:23.60,0:10:28.94,Default,Lilia,0,0,0,,{TIME:623602,628941}{NOTE:ミルとヒョロの２人はそれぞれｾﾙﾚｷﾞｵｽとｼﾞﾝｵｳｶﾞで出場すると聞いてるので…}
-Dialogue: 0,0:10:28.94,0:10:33.61,Default,Lilia,0,0,0,,{TIME:628941,633612}{NOTE:…飛行能力を生かせばミルのセルレギオスが有利なんじゃないかと。}
-Dialogue: 0,0:10:33.61,0:10:36.53,Default,Beats,0,0,0,,{TIME:633612,636532}{NOTE:なるほど。ではミルが大本命ということか。}
-Dialogue: 0,0:10:37.44,0:10:39.70,Default,Beats,0,0,0,,{TIME:637449,639702}{NOTE:一応ゲストにも予想を聞いておこう。}
-Dialogue: 0,0:10:40.28,0:10:42.99,Default,Gamigami,0,0,0,,{TIME:640286,642997}{NOTE:３連単でミル、ヒョロ、ナリキ。}
-Dialogue: 0,0:10:43.83,0:10:45.66,Default,Geezer B,0,0,0,,{TIME:643831,645666}{NOTE:ミル、ヒョロ、ナリキ。}
-Dialogue: 0,0:10:46.29,0:10:48.08,Default,Geezer A,0,0,0,,{TIME:646292,648085}{NOTE:ミル、ヒョロ、ナリキ。}
-Dialogue: 0,0:10:48.71,0:10:51.96,Default,Beats,0,0,0,,{TIME:648711,651964}{NOTE:じいさんたちは満場一致でミル、ヒョロ、ナリキ！}
-Dialogue: 0,0:10:57.26,0:10:59.05,Default,Hyoro,0,0,0,,{TIME:657261,659054}{NOTE:—ナリキ。—あっ…}
-Dialogue: 0,0:10:59.05,0:11:02.18,Default,Hyoro,0,0,0,,{TIME:659054,662183}{NOTE:緊張するとそれがオトモンにも伝わっちゃうよ。}
-Dialogue: 0,0:11:03.22,0:11:05.18,Default,Hyoro,0,0,0,,{TIME:663225,665186}{NOTE:僕もそうだったから。}
-Dialogue: 0,0:11:05.18,0:11:07.68,Default,Mille,0,0,0,,{TIME:665186,667688}{NOTE:お祭りなんだから楽しめばいいのよ。}
-Dialogue: 0,0:11:08.43,0:11:09.89,Default,Nariki,0,0,0,,{TIME:668439,669899}{NOTE:うっす…}
-Dialogue: 0,0:11:09.89,0:11:13.40,Default,Debli,0,0,0,,{TIME:669899,673402}{NOTE:このデブリさまも参加するぞ！}
-Dialogue: 0,0:11:13.40,0:11:14.23,Default,(unison),0,0,0,,{TIME:673402,674236}{NOTE:—えっ!?—えっ!?}
-Dialogue: 0,0:11:14.94,0:11:17.86,Default,Beats,0,0,0,,{TIME:674945,677865}{NOTE:おっとここで飛び入り参加だ！}
-Dialogue: 0,0:11:17.86,0:11:20.45,Default,Beats,0,0,0,,{TIME:677865,680451}{NOTE:つかあいつライダーだったか？}
-Dialogue: 0,0:11:20.45,0:11:23.45,Default,Beats,0,0,0,,{TIME:680451,683454}{NOTE:じいさんたち！飛び入り参加は認められるのか？}
-Dialogue: 0,0:11:24.87,0:11:26.70,Default,Gamigami,0,0,0,,{TIME:684872,686707}{NOTE:さてどうするかのう。}
-Dialogue: 0,0:11:26.70,0:11:29.21,Default,Geezer A,0,0,0,,{TIME:686707,689210}{NOTE:そもそもあれはオトモンなのか？}
-Dialogue: 0,0:11:29.21,0:11:32.88,Default,Beats,0,0,0,,{TIME:689210,692880}{NOTE:いや～まあよく分からんがライドオンはしておるな。}
-Dialogue: 0,0:11:34.54,0:11:39.01,Default,Gamigami,0,0,0,,{TIME:694548,699011}{NOTE:まあレースは出走が多い方が盛り上がるしのう。}
-Dialogue: 0,0:11:39.01,0:11:41.55,Default,Gamigami,0,0,0,,{TIME:699011,701555}{NOTE:というわけで参加ＯＫ！}
-Dialogue: 0,0:11:41.55,0:11:42.47,Default,Beats,0,0,0,,{TIME:701555,702473}{NOTE:ＯＫ！}
-Dialogue: 0,0:11:42.47,0:11:44.05,Default,Beats,0,0,0,,{TIME:702473,704058}{NOTE:ＯＫとの返事だ！}
-Dialogue: 0,0:11:45.64,0:11:50.77,Default,Beats,0,0,0,,{TIME:705643,710773}{NOTE:デブリというダークホースの出現でレース展開は読めなくなった！}
-Dialogue: 0,0:11:50.77,0:11:51.44,Default,Debli,0,0,0,,{TIME:710773,711440}{NOTE:フン…}
-Dialogue: 0,0:11:51.44,0:11:54.90,Default,Debli,0,0,0,,{TIME:711440,714902}{NOTE:豪華賞品はこの俺デブリさまのものだ。}
-Dialogue: 0,0:11:55.77,0:11:57.86,Default,Hyoro,0,0,0,,{TIME:715778,717863}{NOTE:それが目当てなんだ…}
-Dialogue: 0,0:11:57.86,0:12:00.90,Default,Mille,0,0,0,,{TIME:717863,720908}{NOTE:オトモンレースをなめてると痛い目に遭うわよ。}
-Dialogue: 0,0:12:01.53,0:12:03.53,Default,Announcer,0,0,0,,{TIME:721533,723535}{NOTE:さあさあライドオンして。}
-Dialogue: 0,0:12:03.53,0:12:05.49,Default,Announcer,0,0,0,,{TIME:723535,725496}{NOTE:スタートするからのう。}
-Dialogue: 0,0:12:05.49,0:12:06.58,Default,(unison),0,0,0,,{TIME:725496,726580}{NOTE:—うっす！—うっす！}
-Dialogue: 0,0:12:06.58,0:12:07.79,Default,Mille,0,0,0,,{TIME:726580,727790}{NOTE:分かったわ。}
-Dialogue: 0,0:12:07.79,0:12:08.66,Default,Hyoro,0,0,0,,{TIME:727790,728666}{NOTE:はい。}
-Dialogue: 0,0:12:09.04,0:12:10.29,Default,Nariki,0,0,0,,{TIME:729041,730292}{NOTE:ライドオン！}
-Dialogue: 0,0:12:12.62,0:12:13.92,Default,Nariki,0,0,0,,{TIME:732628,733921}{NOTE:ドスランポス！}
-Dialogue: 0,0:12:16.96,0:12:18.05,Default,Hyoro,0,0,0,,{TIME:736966,738050}{NOTE:ライドオン！}
-Dialogue: 0,0:12:20.17,0:12:21.42,Default,Hyoro,0,0,0,,{TIME:740177,741428}{NOTE:ジンオウガ！}
-Dialogue: 0,0:12:21.88,0:12:23.05,Default,Mille,0,0,0,,{TIME:741887,743055}{NOTE:ライドオン！}
-Dialogue: 0,0:12:24.76,0:12:25.80,Default,Mille,0,0,0,,{TIME:744765,745808}{NOTE:セルレギオス！}
-Dialogue: 0,0:12:28.14,0:12:30.68,Default,Beats,0,0,0,,{TIME:748143,750688}{NOTE:ヒョロのジンライとミルのレギオン！}
-Dialogue: 0,0:12:30.68,0:12:33.73,Default,Beats,0,0,0,,{TIME:750688,753732}{NOTE:それぞれジンオウガとセルレギオスの防具に身を包み…}
-Dialogue: 0,0:12:33.73,0:12:35.19,Default,Beats,0,0,0,,{TIME:753732,755192}{NOTE:…登場だー！}
-Dialogue: 0,0:12:35.56,0:12:37.44,Default,Nariki,0,0,0,,{TIME:755567,757444}{NOTE:やっぱカｯコイイっすね！}
-Dialogue: 0,0:12:37.44,0:12:38.90,Default,Hyoro,0,0,0,,{TIME:757444,758904}{NOTE:せっかくだからね。}
-Dialogue: 0,0:12:38.90,0:12:41.99,Default,Mille,0,0,0,,{TIME:758904,761991}{NOTE:だから言ったでしょ。手加減しないって。}
-Dialogue: 0,0:12:41.99,0:12:44.36,Default,Nariki,0,0,0,,{TIME:761991,764368}{NOTE:こりゃ頑張らないと…}
-Dialogue: 0,0:12:46.41,0:12:49.29,Default,Debli,0,0,0,,{TIME:766412,769290}{NOTE:いくら強いモンスターを揃えようとも…}
-Dialogue: 0,0:12:49.29,0:12:52.29,Default,Debli,0,0,0,,{TIME:769290,772293}{NOTE:地を駆けるこのドスプーギーの敵じゃねえ！}
-Dialogue: 0,0:12:54.42,0:12:55.42,Default,Mille,0,0,0,,{TIME:774420,775421}{NOTE:負けないわよ。}
-Dialogue: 0,0:12:55.42,0:12:56.46,Default,Hyoro,0,0,0,,{TIME:775421,776463}{NOTE:頑張ろうね。}
-Dialogue: 0,0:12:56.46,0:12:57.46,Default,Nariki,0,0,0,,{TIME:776463,777464}{NOTE:うっす！}
-Dialogue: 0,0:12:57.46,0:12:59.34,Default,Debli,0,0,0,,{TIME:777464,779341}{NOTE:俺の話を聞けー！}
-Dialogue: 0,0:12:59.34,0:13:04.43,Default,Omna,0,0,0,,{TIME:779341,784430}{NOTE:それではこれよりライダーによるオトモンレースを行う。}
-Dialogue: 0,0:13:04.43,0:13:09.97,Default,Omna,0,0,0,,{TIME:784430,789977}{NOTE:優勝者には素晴らしい賞品を与えるので楽しみにしているようにのう。}
-Dialogue: 0,0:13:10.81,0:13:12.52,Default,Omna,0,0,0,,{TIME:790811,792521}{NOTE:スタートの合図はこの音爆…}
-Dialogue: 0,0:13:12.52,0:13:14.56,Default,Announcer,0,0,0,,{TIME:792521,794565}{NOTE:ではではスタート！}
-Dialogue: 0,0:13:16.31,0:13:18.81,Default,Beats,0,0,0,,{TIME:796317,798819}{NOTE:さあ一斉にスタートだ！}
-Dialogue: 0,0:13:18.81,0:13:22.03,Default,Beats,0,0,0,,{TIME:798819,802031}{NOTE:勝利の栄冠を手にするのはいったい誰だ!?}
-Dialogue: 0,0:13:23.36,0:13:24.78,Default,Omna,0,0,0,,{TIME:803365,804783}{NOTE:わしの出番は…}
+Dialogue: 0,0:04:03.38,0:04:07.56,Episode,,0,0,0,,{TIME:243389,247560}{\fad(400,400)\pos(328,490)}Episode 60\NReturn of the Monstie Races!{NOTE:第６０話オトモンレース、再び！}
+Dialogue: 0,0:04:06.72,0:04:09.68,Default,Lilia,0,0,0,,{TIME:246726,249687}Welcome back, everyone!{NOTE:みんなおかえり！}
+Dialogue: 0,0:04:09.68,0:04:12.06,Default,Mille,0,0,0,,{TIME:249687,252064}Lilia and Fifi, you're back too?{NOTE:リリアもティティも戻ってたの？}
+Dialogue: 0,0:04:12.06,0:04:13.10,Default,Lilia,0,0,0,,{TIME:252064,253107}Yep.{NOTE:うん。}
+Dialogue: 0,0:04:13.10,0:04:15.56,Default,Lilia,0,0,0,,{TIME:253107,255568}We got a letter from Mr. Gamigami.{NOTE:ガミガミさんから手紙もらってね。}
+Dialogue: 0,0:04:15.56,0:04:16.98,Default,Lilia,0,0,0,,{TIME:255568,256986}You too?{NOTE:ミルたちもでしょ？}
+Dialogue: 0,0:04:16.98,0:04:17.90,Default,Mille,0,0,0,,{TIME:256986,257904}Yeah.{NOTE:ええ。}
+Dialogue: 0,0:04:17.90,0:04:19.82,Default,Gamigami,0,0,0,,{TIME:257904,259822}Oh, you're back!{NOTE:お～！帰ってきたか！}
+Dialogue: 0,0:04:19.82,0:04:20.49,Default,(unison),0,0,0,,{TIME:259822,260490}Oh?{NOTE:—おっ？\\N—おっ？}
+Dialogue: 0,0:04:20.49,0:04:21.99,Default,Geezer A,0,0,0,,{TIME:260490,261991}We were waiting for you.{NOTE:待っておったぞ。}
+Dialogue: 0,0:04:21.99,0:04:24.41,Default,Geezer B,0,0,0,,{TIME:261991,264410}Good you're here.{NOTE:よくぞ戻った。}
+Dialogue: 0,0:04:24.41,0:04:25.49,Default,Hyoro,0,0,0,,{TIME:264410,265495}Uhm…{NOTE:あのう…}
+Dialogue: 0,0:04:25.49,0:04:28.49,Default,Hyoro,0,0,0,,{TIME:265495,268498}Are we really holding Monstie Races?{NOTE:ホントにやるんですか？オトモンレース。}
+Dialogue: 0,0:04:28.49,0:04:31.16,Default,Geezer B,0,0,0,,{TIME:268498,271167}Of course we are. It's a village's tradition after all.{NOTE:うむ。村の伝統だからのう。}
+Dialogue: 0,0:04:31.16,0:04:34.67,Default,Mille,0,0,0,,{TIME:271167,274670}But the only one new Rider this year is Nariki, remember?{NOTE:でもことしの新人ライダーはナリキ１人よ？}
+Dialogue: 0,0:04:34.67,0:04:35.58,Default,Gamigami,0,0,0,,{TIME:274670,275588}Heh.{NOTE:ふん…}
+Dialogue: 0,0:04:35.58,0:04:39.21,Default,Gamigami,0,0,0,,{TIME:275588,279217}I think we had two more Riders.{NOTE:ライダーならここにもう２人おるではないか。}
+Dialogue: 0,0:04:39.84,0:04:40.71,Default,(unison),0,0,0,,{TIME:279842,280718}Eh?{NOTE:—えっ？\\N—えっ？}
+Dialogue: 0,0:04:41.38,0:04:44.09,Default,Hyoro,0,0,0,,{TIME:281385,284096}A-Are you referring to us?{NOTE:あっ、それって僕たちのこと!?}
+Dialogue: 0,0:04:44.09,0:04:47.14,Default,Mille,0,0,0,,{TIME:284096,287141}But we're no longer novices.{NOTE:でも私たちはもう新米じゃないし。}
+Dialogue: 0,0:04:47.14,0:04:51.10,Default,Mille,0,0,0,,{TIME:287141,291103}We should be focusing on saving Avinia and learning about the Rite of Channeling.{NOTE:早く伝承の儀をしてアユリアを助けにいかないと。}
+Dialogue: 0,0:04:51.10,0:04:54.94,Default,Gamigami,0,0,0,,{TIME:291103,294941}I know that full well, no need to remind me.{NOTE:そんなこと言われんでも分かっとるわい！}
+Dialogue: 0,0:04:54.94,0:05:00.90,Default,Geezer A,0,0,0,,{TIME:294941,300905}But it is now that raising the morale of the village\Nwith Monstie Races is the most needed.{NOTE:じゃがこんなときだからこそオトモンレースで村の士気を高めるのじゃ。}
+Dialogue: 0,0:05:00.90,0:05:05.74,Default,Geezer B,0,0,0,,{TIME:300905,305743}Now, this village needs something to brighten up the mood.{NOTE:いや、今ね、この村には明るい話題が必要なんじゃよ。}
+Dialogue: 0,0:05:05.74,0:05:07.66,Default,Lilia,0,0,0,,{TIME:305743,307662}I'm asking you as well.{NOTE:私からもお願い！}
+Dialogue: 0,0:05:07.66,0:05:11.20,Default,Lilia,0,0,0,,{TIME:307662,311207}After the Ebon Riders robbed Dan's group of their Kinship Stones…{NOTE:ダン先輩たちもブラックライダーズに絆石を奪われて…}
+Dialogue: 0,0:05:11.20,0:05:13.45,Default,Lilia,0,0,0,,{TIME:311207,313459}…they look very grim.{NOTE:…元気ないみたいで。}
+Dialogue: 0,0:05:13.45,0:05:14.71,Default,Hyoro,0,0,0,,{TIME:313459,314710}I see.{NOTE:そうなんだ。}
+Dialogue: 0,0:05:14.71,0:05:16.25,Default,Mille,0,0,0,,{TIME:314710,316254}But still…{NOTE:でもねぇ…}
+Dialogue: 0,0:05:16.25,0:05:18.71,Default,Nariki,0,0,0,,{TIME:316254,318714}I'll participate in the Monstie Races!{NOTE:自分オトモンレースやるっす！}
+Dialogue: 0,0:05:18.71,0:05:19.54,Default,(unison),0,0,0,,{TIME:318714,319549}Eh?{NOTE:—えっ!?\\N—えっ!?}
+Dialogue: 0,0:05:19.54,0:05:22.96,Default,Geezer B,0,0,0,,{TIME:319549,322969}Hoho, you'll do it? That's the spirit!{NOTE:おお…そうか！やってくれるか！}
+Dialogue: 0,0:05:22.96,0:05:24.09,Default,Nariki,0,0,0,,{TIME:322969,324095}Yeah!{NOTE:はいっす！}
+Dialogue: 0,0:05:24.09,0:05:27.26,Default,Nariki,0,0,0,,{TIME:324095,327265}It'll make the people in the village happier.{NOTE:それで村のみんなが元気になってくれるなら。}
+Dialogue: 0,0:05:27.26,0:05:30.18,Default,Nariki,0,0,0,,{TIME:327265,330183}You're entering too, right? Hyoro, Mille!{NOTE:やるっすよね？ヒョロ先輩、ミル先輩。}
+Dialogue: 0,0:05:31.10,0:05:31.97,Default,(unison),0,0,0,,{TIME:331102,331978}Yeah…{NOTE:—うん。\\N—うん。}
+Dialogue: 0,0:05:33.06,0:05:34.89,Default,Hyoro,0,0,0,,{TIME:333062,334897}We can't disappoint Nariki.{NOTE:ナリキがそう言うなら。}
+Dialogue: 0,0:05:34.89,0:05:36.39,Default,Mille,0,0,0,,{TIME:334897,336399}I guess you're right.{NOTE:そうね。}
+Dialogue: 0,0:05:36.39,0:05:38.73,Default,Mille,0,0,0,,{TIME:336399,338734}But mark my words – we won't go easy on you!{NOTE:ただし手加減しないわよ！}
+Dialogue: 0,0:05:38.73,0:05:40.40,Default,Nariki,0,0,0,,{TIME:338734,340403}Just as I want!{NOTE:望むところっす！}
+Dialogue: 0,0:05:41.02,0:05:44.49,Default,Gamigami,0,0,0,,{TIME:341028,344490}Now that's settled, let's take care of the preparations!{NOTE:そうと決まれば準備に取り掛かるぞー！}
+Dialogue: 0,0:05:44.49,0:05:46.15,Default,(unison),0,0,0,,{TIME:344490,346158}Yeah!!{NOTE:—おー！\\N—おー！}
+Dialogue: 0,0:05:47.82,0:05:50.16,Default,Nuts,0,0,0,,{TIME:347827,350162}Master Gale!{NOTE:ゲイルさま～！}
+Dialogue: 0,0:05:50.16,0:05:51.74,Default,Nuts,0,0,0,,{TIME:350162,351747}Master Gale…!{NOTE:ゲイルさま～！}
+Dialogue: 0,0:05:53.49,0:05:54.95,Default,Nuts,0,0,0,,{TIME:353499,354959}Hey, you minions.{NOTE:なあ。お前たち。}
+Dialogue: 0,0:05:54.95,0:05:57.62,Default,Nuts,0,0,0,,{TIME:354959,357628}Have you seen Master Gale anywhere?{NOTE:ゲイルさまを見なかったか？}
+Dialogue: 0,0:05:57.62,0:06:00.17,Default,Minion,0,0,0,,{TIME:357628,360172}I saw him going to see that woman prisoner.{NOTE:あの囚人の女のところに行くのを見ました。}
+Dialogue: 0,0:06:00.92,0:06:02.04,Default,Nuts,0,0,0,,{TIME:360923,362049}Again?{NOTE:またか。}
+Dialogue: 0,0:06:02.04,0:06:06.17,Default,Nuts,0,0,0,,{TIME:362049,366178}Just when I got a good information on Riders at Hakum village.{NOTE:せっかくハクム村のライダーの情報つかんできたってのに。}
+Dialogue: 0,0:06:08.01,0:06:11.14,Default,Wrath,0,0,0,,{TIME:368014,371142}What about the Riders at Hakum village?{NOTE:ハクム村のライダーがどうしたって？}
+Dialogue: 0,0:06:11.14,0:06:14.52,Default,Nuts,0,0,0,,{TIME:371142,374520}Master Wrath! Just what might you be referring to?{NOTE:ラースさま！な…何の話かな？}
+Dialogue: 0,0:06:16.56,0:06:20.06,Default,Wrath,0,0,0,,{TIME:376563,380067}You smell tasty, you know.{NOTE:うまそうなにおいしてやがるな、お前。}
+Dialogue: 0,0:06:21.52,0:06:23.82,Default,Wrath,0,0,0,,{TIME:381527,383820}If you keep secrets from me…{NOTE:俺に隠し事するなら…}
+Dialogue: 0,0:06:26.03,0:06:27.32,Default,Wrath,0,0,0,,{TIME:386032,387325}I'll eat you!{NOTE:食っちまうぞ！}
+Dialogue: 0,0:06:31.82,0:06:34.95,Default,Nuts,0,0,0,,{TIME:391829,394957}I remember! I remember! I remember!{NOTE:思い出した！思い出した！思い出した！}
+Dialogue: 0,0:06:34.95,0:06:37.91,Default,Nuts,0,0,0,,{TIME:394957,397919}They're holding Monstie Races!{NOTE:やつらならオトモンレースをするんだ！}
+Dialogue: 0,0:06:37.91,0:06:40.29,Default,Nuts,0,0,0,,{TIME:397919,400296}So everyone will be at the Hakum village!{NOTE:だからハクム村に集まってる！}
+Dialogue: 0,0:06:42.67,0:06:44.96,Default,Wrath,0,0,0,,{TIME:402673,404967}I guess they'll be tastier than this hairball.{NOTE:そっちの方がうまそうだ。}
+Dialogue: 0,0:06:57.81,0:06:59.27,Default,Villager,0,0,0,,{TIME:417813,419273}We've got skewers!{NOTE:串焼きありまーす！}
+Dialogue: 0,0:06:59.98,0:07:01.52,Default,Loloa,0,0,0,,{TIME:419982,421525}It's a Hakum village's specialty!{NOTE:ハクム村名産。}
+Dialogue: 0,0:07:01.52,0:07:03.98,Default,Loloa,0,0,0,,{TIME:421525,423986}I greatly recommend our mushroom skewers!{NOTE:キノコの串焼きがお薦めですの！}
+Dialogue: 0,0:07:05.15,0:07:06.28,Default,Genie,0,0,0,,{TIME:425154,426280}It's about to begin soon.{NOTE:いよいよだな。}
+Dialogue: 0,0:07:07.15,0:07:08.57,Default,Genie,0,0,0,,{TIME:427156,428574}Make sure you win.{NOTE:出るからには勝て。}
+Dialogue: 0,0:07:08.57,0:07:09.78,Default,Nariki,0,0,0,,{TIME:428574,429784}Roger!{NOTE:はいっす！}
+Dialogue: 0,0:07:09.78,0:07:14.33,Default,Stone,0,0,0,,{TIME:429784,434330}That said, Mille and Hyoro\Nhave fought with the Black Blight.{NOTE:とはいえミルとヒョロはあれでも黒の凶気と戦ってきた猛者たちだ。}
+Dialogue: 0,0:07:15.41,0:07:18.16,Default,Nole,0,0,0,,{TIME:435414,438167}You won't beat them through normal means.{NOTE:普通に戦っても勝てないだろうね。}
+Dialogue: 0,0:07:18.16,0:07:21.29,Default,Nariki,0,0,0,,{TIME:438167,441295}Why do you say it before the race?{NOTE:ちょっ…レース前にそれ言うっすか？}
+Dialogue: 0,0:07:21.75,0:07:23.54,Default,Dan,0,0,0,,{TIME:441754,443547}Don't panic.{NOTE:まあ慌てるな。}
+Dialogue: 0,0:07:23.54,0:07:27.13,Default,Dan,0,0,0,,{TIME:443547,447134}We decided to get you a handicap.{NOTE:そういうわけでお前にはハンデをやることにした。}
+Dialogue: 0,0:07:27.13,0:07:28.13,Default,Nariki,0,0,0,,{TIME:447134,448135}A handicap?{NOTE:ハンデ？}
+Dialogue: 0,0:07:28.13,0:07:30.97,Default,Nariki,0,0,0,,{TIME:448135,450972}How can you give someone a handicap at Monstie Races?{NOTE:ｵﾄﾓﾝﾚｰｽにそんなのあるんすか？}
+Dialogue: 0,0:07:30.97,0:07:33.64,Default,Dan,0,0,0,,{TIME:450972,453641}We're the ones who built this course.{NOTE:今回のコースを作ったのは俺たちだ。}
+Dialogue: 0,0:07:34.39,0:07:35.93,Default,Nariki,0,0,0,,{TIME:454392,455935}What does it mean to me?{NOTE:どういうことっすか？}
+Dialogue: 0,0:07:36.56,0:07:38.81,Default,Genie,0,0,0,,{TIME:456560,458813}We can share some tricks with you.{NOTE:それだけでも有利ってことだ。}
+Dialogue: 0,0:07:42.06,0:07:45.19,Default,Hyoro,0,0,0,,{TIME:462066,465194}There are so many people here.{NOTE:それにしてもすごい人だね。}
+Dialogue: 0,0:07:45.19,0:07:49.69,Default,Mille,0,0,0,,{TIME:465194,469699}Looks like Riders from different villages are also coming to see the race this time.{NOTE:今回は別の村のライダーもレースを見に来てるらしいわ。}
+Dialogue: 0,0:07:49.69,0:07:55.24,Default,Mille,0,0,0,,{TIME:469699,475246}It's probably thanks to Hakum village's fame caused by the Black Blight.{NOTE:黒の凶気のことですっかり有名になっちゃったらしいから。ハクム村。}
+Dialogue: 0,0:07:55.24,0:07:56.53,Default,Hyoro,0,0,0,,{TIME:475246,476539}I see.{NOTE:なるほど。}
+Dialogue: 0,0:07:56.53,0:07:58.87,Default,Mille,0,0,0,,{TIME:476539,478874}By the way, where are the Numbers?{NOTE:ところでナンバーズたちはどこ？}
+Dialogue: 0,0:07:58.87,0:08:01.54,Default,Hyoro,0,0,0,,{TIME:478874,481544}They said they've got some job related to the race.{NOTE:レース関係の仕事があるって言ってたよ。}
+Dialogue: 0,0:08:01.54,0:08:02.58,Default,Mille,0,0,0,,{TIME:481544,482586}What kind of job?{NOTE:何それ？}
+Dialogue: 0,0:08:02.58,0:08:03.46,Default,Hyoro,0,0,0,,{TIME:482586,483462}Beats me.{NOTE:さあ。}
+Dialogue: 0,0:08:03.46,0:08:05.42,Default,Debli,0,0,0,,{TIME:483462,485423}Welcome, welcome!{NOTE:らっしゃっせー！}
+Dialogue: 0,0:08:05.42,0:08:09.55,Default,Debli,0,0,0,,{TIME:485423,489552}How about a Kinship Stone for a souvenir from Hakum village?{NOTE:ハクム村土産に絆石はいかがっすかー？}
+Dialogue: 0,0:08:09.55,0:08:12.68,Default,Debli,0,0,0,,{TIME:489552,492680}The best Kinship Stones, shiny and sparkly!{NOTE:キラキラ輝く最高の絆石！}
+Dialogue: 0,0:08:12.68,0:08:14.09,Default,Debli,0,0,0,,{TIME:492680,494098}How about one?{NOTE:いかがっすかー？}
+Dialogue: 0,0:08:14.97,0:08:16.93,Default,Hyoro,0,0,0,,{TIME:494974,496934}Deb…{\alpha&HFF&}li?{NOTE:デブ…}
+Dialogue: 0,0:08:16.93,0:08:17.43,Default,Hyoro,0,0,0,,{TIME:496934,497435}Debli?{\alpha&HFF&}…{NOTE:リ？}
+Dialogue: 0,0:08:17.43,0:08:18.47,Default,Debli,0,0,0,,{TIME:497435,498477}Say it normally!{NOTE:すっと言え！}
+Dialogue: 0,0:08:19.27,0:08:20.98,Default,Mille,0,0,0,,{TIME:499270,500980}Why are you here?{NOTE:何でいるのよ？}
+Dialogue: 0,0:08:20.98,0:08:21.89,Default,Debli,0,0,0,,{TIME:500980,501897}Heh.{NOTE:フフン。}
+Dialogue: 0,0:08:21.89,0:08:24.65,Default,Debli,0,0,0,,{TIME:501897,504650}Where there are people, money moves.{NOTE:人が集まるところに金が動く。}
+Dialogue: 0,0:08:24.65,0:08:27.94,Default,Debli,0,0,0,,{TIME:504650,507945}Where money moves, there is Debli!{NOTE:金が動くところにデブリあり！}
+Dialogue: 0,0:08:27.94,0:08:33.15,Default,Mille,0,0,0,,{TIME:507945,513159}More importantly, how can you sell fake Kinship Stones as Hakum village souvenirs!?{NOTE:っていうか偽物の絆石をハクム村土産として売っちゃ駄目でしょ！}
+Dialogue: 0,0:08:33.15,0:08:34.74,Default,Debli,0,0,0,,{TIME:513159,514744}I can't? Figures…{NOTE:やっぱ駄目か…}
+Dialogue: 0,0:08:34.74,0:08:36.49,Default,Mille,0,0,0,,{TIME:514744,516495}Of course you can't!{NOTE:当たり前でしょ！}
+Dialogue: 0,0:08:36.49,0:08:37.58,Default,Debli,0,0,0,,{TIME:516495,517580}Damn.{NOTE:くそ～。}
+Dialogue: 0,0:08:37.58,0:08:39.91,Default,Debli,0,0,0,,{TIME:517580,519915}I hoped I'd get something more from it…{NOTE:もうかると思ったんだけどなぁ…}
+Dialogue: 0,0:08:45.50,0:08:48.75,Default,Announcer,0,0,0,,{TIME:525504,528758}Monstie Races will begin!{NOTE:オトモンレースが始まるぞー！}
+Dialogue: 0,0:08:48.75,0:08:52.84,Default,Announcer,0,0,0,,{TIME:528758,532845}Participants, get to the start gate\Nof the village square!{NOTE:ライダーは村の広場のスタートゲートに集まれ！}
+Dialogue: 0,0:08:52.84,0:08:55.84,Default,Announcer,0,0,0,,{TIME:532845,535848}A splendid prize is waiting for you this year as well!{NOTE:ことしも豪華賞品が待っとるぞー！}
+Dialogue: 0,0:08:59.64,0:09:01.22,Default,Hyoro,0,0,0,,{TIME:539643,541228}Mille, we need to go.{NOTE:ミル行かないと。}
+Dialogue: 0,0:09:01.22,0:09:01.89,Default,Mille,0,0,0,,{TIME:541228,541896}Yeah.{NOTE:うん。}
+Dialogue: 0,0:09:02.56,0:09:05.02,Default,Mille,0,0,0,,{TIME:542563,545024}And you clean up this junk.{NOTE:とっとと片付けなさいよ。}
+Dialogue: 0,0:09:05.02,0:09:05.81,Default,Debli,0,0,0,,{TIME:545024,545816}Okey-dokey.{NOTE:ああ…}
+Dialogue: 0,0:09:09.23,0:09:11.23,Default,Debli,0,0,0,,{TIME:549236,551238}"Splendid prize"…{NOTE:豪華賞品…}
+Dialogue: 0,0:09:11.86,0:09:14.99,Default,Beats,0,0,0,,{TIME:551864,554992}Now, to everyone here under this clear blue sky!{NOTE:さあ、どこまでも青い晴天の空の下。}
+Dialogue: 0,0:09:14.99,0:09:17.95,Default,Beats,0,0,0,,{TIME:554992,557953}The day we've looked forward to a whole year is here!{NOTE:ことしもこの日がやって来た！}
+Dialogue: 0,0:09:17.95,0:09:19.45,Default,Beats,0,0,0,,{TIME:557953,559455}The Hakum village's specialty.{NOTE:ハクム村名物。}
+Dialogue: 0,0:09:19.45,0:09:22.79,Default,Beats,0,0,0,,{TIME:559455,562792}Monstie Races are about to begin!{NOTE:ﾗｲﾀﾞｰによるｵﾄﾓﾝﾚｰｽの開催だ！}
+Dialogue: 0,0:09:22.79,0:09:27.17,Default,Beats,0,0,0,,{TIME:562792,567171}This time your live reporter is full of brilliant passion!{NOTE:今回の実況は輝く炎は情熱の証し。}
+Dialogue: 0,0:09:27.17,0:09:29.71,Default,Beats,0,0,0,,{TIME:567171,569715}Number One!{NOTE:ナンバーズ１号！}
+Dialogue: 0,0:09:29.71,0:09:32.42,Default,Beats,0,0,0,,{TIME:569715,572426}Beats, at your service!{NOTE:ことビーツが務めさせていただきます。}
+Dialogue: 0,0:09:32.42,0:09:35.59,Default,Beats,0,0,0,,{TIME:572426,575596}The commentary will be provided by a girl born here at Hakum village.{NOTE:そして解説にはハクム村が生んだ博学娘…}
+Dialogue: 0,0:09:35.59,0:09:37.72,Default,Beats,0,0,0,,{TIME:575596,577723}Lilia, say hello to the viewers.{NOTE:…リリアをお招きしている。}
+Dialogue: 0,0:09:37.72,0:09:39.35,Default,Lilia,0,0,0,,{TIME:577723,579350}Nice to meet you!{NOTE:よろしくね～。}
+Dialogue: 0,0:09:39.35,0:09:43.10,Default,Beats,0,0,0,,{TIME:579350,583104}We have another famous guest!{NOTE:そして他にも名だたるゲストが駆け付けてくれた！}
+Dialogue: 0,0:09:43.10,0:09:44.31,Default,Gamigami,0,0,0,,{TIME:583104,584313}Ahem.{NOTE:オホン…}
+Dialogue: 0,0:09:45.56,0:09:48.27,Default,Gamigami,0,0,0,,{TIME:585564,588275}History of Monstie Races is quite long.{NOTE:オトモンレースの歴史は古く…}
+Dialogue: 0,0:09:48.27,0:09:53.11,Default,Gamigami,0,0,0,,{TIME:588275,593114}It is said that it continues to this day\Never since Hakum village's establishment.{NOTE:…ハクム村創立のときから続いていると伝わっておる。}
+Dialogue: 0,0:09:53.11,0:09:59.53,Default,Gamigami,0,0,0,,{TIME:593114,599537}I, Gamigami, participated in Monstie Races\Nduring my young days as well.{NOTE:わしガミガミも若き日にはこのオトモンレースに参加し名誉の負傷…}
+Dialogue: 0,0:09:59.53,0:10:02.62,Default,Gamigami,0,0,0,,{TIME:599537,602623}This scar from back then\Nis still like a medal to me now—{NOTE:その傷は今もわしの勲章としてさんぜんと…}
+Dialogue: 0,0:10:02.62,0:10:07.92,Default,Beats,0,0,0,,{TIME:602623,607920}Eh, because the story seems to be long:\Nthe guests are old folks from Hakum village!{NOTE:え～話が長くなりそうなので。ゲストはハクム村の老人たち！}
+Dialogue: 0,0:10:07.92,0:10:10.17,Default,Geezer B,0,0,0,,{TIME:607920,610172}That explanation is sloppy.{NOTE:説明が雑じゃのう…}
+Dialogue: 0,0:10:10.50,0:10:12.67,Default,Beats,0,0,0,,{TIME:610506,612675}Now on to predictions about the winner.{NOTE:さてレース予想ですが…}
+Dialogue: 0,0:10:12.67,0:10:15.30,Default,Beats,0,0,0,,{TIME:612675,615302}Lilia, what's your opinion?{NOTE:リリア今回はどうみますか？}
+Dialogue: 0,0:10:15.30,0:10:23.60,Default,Lilia,0,0,0,,{TIME:615302,623602}Let's see. Although Nariki's Velocidrome is perfect for speed, I heard that it somewhat lacks in stamina.{NOTE:そうですね。ナリキのドスランポスはスピード的には申し分ありませんがスタミナにやや不安があると聞いてます。}
+Dialogue: 0,0:10:23.60,0:10:28.94,Default,Lilia,0,0,0,,{TIME:623602,628941}I heard that Mille and Hyoro will participate with Seregios and Zinogre respectively.{NOTE:ミルとヒョロの２人はそれぞれｾﾙﾚｷﾞｵｽとｼﾞﾝｵｳｶﾞで出場すると聞いてるので…}
+Dialogue: 0,0:10:28.94,0:10:33.61,Default,Lilia,0,0,0,,{TIME:628941,633612}I think Mille's Seregios will be at advantage if she can make use of its flying ability.{NOTE:…飛行能力を生かせばミルのセルレギオスが有利なんじゃないかと。}
+Dialogue: 0,0:10:33.61,0:10:36.53,Default,Beats,0,0,0,,{TIME:633612,636532}I see. So Mille is your favorite?{NOTE:なるほど。ではミルが大本命ということか。}
+Dialogue: 0,0:10:37.44,0:10:39.70,Default,Beats,0,0,0,,{TIME:637449,639702}Let's try asking our guests as well.{NOTE:一応ゲストにも予想を聞いておこう。}
+Dialogue: 0,0:10:40.28,0:10:42.99,Default,Gamigami,0,0,0,,{TIME:640286,642997}Respectively: Mille, Hyoro, Nariki.{NOTE:３連単でミル、ヒョロ、ナリキ。}
+Dialogue: 0,0:10:43.83,0:10:45.66,Default,Geezer B,0,0,0,,{TIME:643831,645666}Mille, Hyoro, Nariki.{NOTE:ミル、ヒョロ、ナリキ。}
+Dialogue: 0,0:10:46.29,0:10:48.08,Default,Geezer A,0,0,0,,{TIME:646292,648085}Mille, Hyoro, Nariki.{NOTE:ミル、ヒョロ、ナリキ。}
+Dialogue: 0,0:10:48.71,0:10:51.96,Default,Beats,0,0,0,,{TIME:648711,651964}Grandpas made themselves clear: Mille, Hyoro, Nariki!{NOTE:じいさんたちは満場一致でミル、ヒョロ、ナリキ！}
+Dialogue: 0,0:10:57.26,0:10:59.05,Default,Hyoro,0,0,0,,{TIME:657261,659054}– Nariki.\N– Ah.{NOTE:—ナリキ。\\N—あっ…}
+Dialogue: 0,0:10:59.05,0:11:02.39,Default,Hyoro,0,0,0,,{TIME:659054,662391}If you're too nervous, it'll affect your Monstie.{NOTE:緊張するとそれがオトモンにも伝わっちゃうよ。}
+Dialogue: 0,0:11:03.22,0:11:05.18,Default,Hyoro,0,0,0,,{TIME:663225,665186}I was like that too.{NOTE:僕もそうだったから。}
+Dialogue: 0,0:11:05.18,0:11:07.68,Default,Mille,0,0,0,,{TIME:665186,667688}It's a festival, so it's okay not to get too tense.{NOTE:お祭りなんだから楽しめばいいのよ。}
+Dialogue: 0,0:11:08.43,0:11:09.89,Default,Nariki,0,0,0,,{TIME:668439,669899}Roger.{NOTE:うっす…}
+Dialogue: 0,0:11:09.89,0:11:13.40,Default,Debli,0,0,0,,{TIME:669899,673402}The illustrious Debli is going in too!{NOTE:このデブリさまも参加するぞ！}
+Dialogue: 0,0:11:13.40,0:11:14.23,Default,(unison),0,0,0,,{TIME:673402,674236}Eh?!{NOTE:—えっ!?\\N—えっ!?}
+Dialogue: 0,0:11:14.94,0:11:17.86,Default,Beats,0,0,0,,{TIME:674945,677865}Whoa! A wild participant appears!{NOTE:おっとここで飛び入り参加だ！}
+Dialogue: 0,0:11:17.86,0:11:20.45,Default,Beats,0,0,0,,{TIME:677865,680451}Wait. Was he even a Rider?{NOTE:つかあいつライダーだったか？}
+Dialogue: 0,0:11:20.45,0:11:23.45,Default,Beats,0,0,0,,{TIME:680451,683454}Grandpas! Is entering so late allowed?{NOTE:じいさんたち！飛び入り参加は認められるのか？}
+Dialogue: 0,0:11:24.87,0:11:26.70,Default,Gamigami,0,0,0,,{TIME:684872,686707}What to do, hm…{NOTE:さてどうするかのう。}
+Dialogue: 0,0:11:26.70,0:11:29.21,Default,Geezer A,0,0,0,,{TIME:686707,689210}Is that his Monstie to begin with?{NOTE:そもそもあれはオトモンなのか？}
+Dialogue: 0,0:11:29.21,0:11:32.88,Default,Beats,0,0,0,,{TIME:689210,692880}Well, I'm not sure, but looks like he can at least Ride On.{NOTE:いや～まあよく分からんがライドオンはしておるな。}
+Dialogue: 0,0:11:34.54,0:11:39.01,Default,Gamigami,0,0,0,,{TIME:694548,699011}Well, the race will be more exciting with more participants.{NOTE:まあレースは出走が多い方が盛り上がるしのう。}
+Dialogue: 0,0:11:39.01,0:11:41.55,Default,Gamigami,0,0,0,,{TIME:699011,701555}That said, entering late is okay!{NOTE:というわけで参加ＯＫ！}
+Dialogue: 0,0:11:41.55,0:11:42.47,Default,Beats,0,0,0,,{TIME:701555,702473}"Okay!"{NOTE:ＯＫ！}
+Dialogue: 0,0:11:42.47,0:11:44.05,Default,Beats,0,0,0,,{TIME:702473,704058}We got an "okay"!{NOTE:ＯＫとの返事だ！}
+Dialogue: 0,0:11:45.64,0:11:50.77,Default,Beats,0,0,0,,{TIME:705643,710773}Now that a dark horse known as Debli has joined the race, I can't predict how things will unfold anymore!{NOTE:デブリというダークホースの出現でレース展開は読めなくなった！}
+Dialogue: 0,0:11:50.77,0:11:51.44,Default,Debli,0,0,0,,{TIME:710773,711440}Heh.{NOTE:フン…}
+Dialogue: 0,0:11:51.44,0:11:54.90,Default,Debli,0,0,0,,{TIME:711440,714902}The glorious prize is already mine.{NOTE:豪華賞品はこの俺デブリさまのものだ。}
+Dialogue: 0,0:11:55.77,0:11:57.86,Default,Hyoro,0,0,0,,{TIME:715778,717863}It's just as you see.{NOTE:それが目当てなんだ…}
+Dialogue: 0,0:11:57.86,0:12:00.90,Default,Mille,0,0,0,,{TIME:717863,720908}You'll be sorry if you underestimate Monstie Races.{NOTE:オトモンレースをなめてると痛い目に遭うわよ。}
+Dialogue: 0,0:12:01.53,0:12:03.53,Default,Announcer,0,0,0,,{TIME:721533,723535}All right, time to Ride On.{NOTE:さあさあライドオンして。}
+Dialogue: 0,0:12:03.53,0:12:05.49,Default,Announcer,0,0,0,,{TIME:723535,725496}We're starting the race.{NOTE:スタートするからのう。}
+Dialogue: 0,0:12:05.49,0:12:06.58,Default,(unison),0,0,0,,{TIME:725496,726580}Yeah!{NOTE:—うっす！\\N—うっす！}
+Dialogue: 0,0:12:06.58,0:12:07.79,Default,Mille,0,0,0,,{TIME:726580,727790}Got it.{NOTE:分かったわ。}
+Dialogue: 0,0:12:07.79,0:12:08.66,Default,Hyoro,0,0,0,,{TIME:727790,728666}Okay.{NOTE:はい。}
+Dialogue: 0,0:12:09.04,0:12:10.29,Default,Nariki,0,0,0,,{TIME:729041,730292}Ride On!{NOTE:ライドオン！}
+Dialogue: 0,0:12:12.62,0:12:13.92,Default,Nariki,0,0,0,,{TIME:732628,733921}Velocidrome!{NOTE:ドスランポス！}
+Dialogue: 0,0:12:16.96,0:12:18.05,Default,Hyoro,0,0,0,,{TIME:736966,738050}Ride On!{NOTE:ライドオン！}
+Dialogue: 0,0:12:20.17,0:12:21.42,Default,Hyoro,0,0,0,,{TIME:740177,741428}Zinogre!{NOTE:ジンオウガ！}
+Dialogue: 0,0:12:21.88,0:12:23.05,Default,Mille,0,0,0,,{TIME:741887,743055}Ride On!{NOTE:ライドオン！}
+Dialogue: 0,0:12:24.76,0:12:25.80,Default,Mille,0,0,0,,{TIME:744765,745808}Seregios!{NOTE:セルレギオス！}
+Dialogue: 0,0:12:28.14,0:12:30.68,Default,Beats,0,0,0,,{TIME:748143,750688}Hyoro's Zinogre and Mille's Seregios!{NOTE:ヒョロのジンライとミルのレギオン！}
+Dialogue: 0,0:12:30.68,0:12:33.73,Default,Beats,0,0,0,,{TIME:750688,753732}Each contestant wears full armor matching their Monstie.{NOTE:それぞれジンオウガとセルレギオスの防具に身を包み…}
+Dialogue: 0,0:12:33.73,0:12:35.19,Default,Beats,0,0,0,,{TIME:753732,755192}What a sight!{NOTE:…登場だー！}
+Dialogue: 0,0:12:35.56,0:12:37.44,Default,Nariki,0,0,0,,{TIME:755567,757444}They're cool like I thought!{NOTE:やっぱカｯコイイっすね！}
+Dialogue: 0,0:12:37.44,0:12:38.90,Default,Hyoro,0,0,0,,{TIME:757444,758904}We came all the way here after all.{NOTE:せっかくだからね。}
+Dialogue: 0,0:12:38.90,0:12:41.99,Default,Mille,0,0,0,,{TIME:758904,761991}Remember how I told you I won't hold back?{NOTE:だから言ったでしょ。手加減しないって。}
+Dialogue: 0,0:12:41.99,0:12:44.36,Default,Nariki,0,0,0,,{TIME:761991,764368}I better do my best!{NOTE:こりゃ頑張らないと…}
+Dialogue: 0,0:12:46.41,0:12:49.29,Default,Debli,0,0,0,,{TIME:766412,769290}No matter how strong monsters you have…{NOTE:いくら強いモンスターを揃えようとも…}
+Dialogue: 0,0:12:49.29,0:12:52.29,Default,Debli,0,0,0,,{TIME:769290,772293}…when it comes to riding on the ground, you're no match for my Great Poogie!{NOTE:地を駆けるこのドスプーギーの敵じゃねえ！}
+Dialogue: 0,0:12:54.42,0:12:55.42,Default,Mille,0,0,0,,{TIME:774420,775421}I won't lose.{NOTE:負けないわよ。}
+Dialogue: 0,0:12:55.42,0:12:56.46,Default,Hyoro,0,0,0,,{TIME:775421,776463}Let's do our best.{NOTE:頑張ろうね。}
+Dialogue: 0,0:12:56.46,0:12:57.46,Default,Nariki,0,0,0,,{TIME:776463,777464}Yeah!{NOTE:うっす！}
+Dialogue: 0,0:12:57.46,0:12:59.34,Default,Debli,0,0,0,,{TIME:777464,779341}Hey, don't ignore me!{NOTE:俺の話を聞けー！}
+Dialogue: 0,0:12:59.34,0:13:04.43,Default,Omna,0,0,0,,{TIME:779341,784430}Let's begin the Monstie Races.{NOTE:それではこれよりライダーによるオトモンレースを行う。}
+Dialogue: 0,0:13:04.43,0:13:09.97,Default,Omna,0,0,0,,{TIME:784430,789977}I am looking forward to giving the winner our wonderful prize.{NOTE:優勝者には素晴らしい賞品を与えるので楽しみにしているようにのう。}
+Dialogue: 0,0:13:10.81,0:13:12.52,Default,Omna,0,0,0,,{TIME:790811,792521}The start signal is this sound bomb—{NOTE:スタートの合図はこの音爆…}
+Dialogue: 0,0:13:12.52,0:13:14.56,Default,Announcer,0,0,0,,{TIME:792521,794565}All right, all right! Start!{NOTE:ではではスタート！}
+Dialogue: 0,0:13:16.31,0:13:18.81,Default,Beats,0,0,0,,{TIME:796317,798819}And they took off!{NOTE:さあ一斉にスタートだ！}
+Dialogue: 0,0:13:18.81,0:13:22.03,Default,Beats,0,0,0,,{TIME:798819,802031}Who will win the glorious prize!?{NOTE:勝利の栄冠を手にするのはいったい誰だ!?}
+Dialogue: 0,0:13:23.36,0:13:24.78,Default,Omna,0,0,0,,{TIME:803365,804783}My start signal…{NOTE:わしの出番は…}
 Comment: 0,0:13:25.99,0:13:25.99,Default,Chapter,0,0,0,,{TIME:805993,805993}Eyecatch
-Dialogue: 0,0:13:26.57,0:13:27.91,Default,Lute,0,0,0,,{TIME:806577,807911}{NOTE:ライドオン！}
-Dialogue: 0,0:13:28.95,0:13:29.99,Default,Lute,0,0,0,,{TIME:808954,809997}{NOTE:リオレウス！}
+Dialogue: 0,0:13:26.57,0:13:27.91,Default,Lute,0,0,0,,{TIME:806577,807911}Ride On!{NOTE:ライドオン！}
+Dialogue: 0,0:13:28.95,0:13:29.99,Default,Lute,0,0,0,,{TIME:808954,809997}Rathalos!{NOTE:リオレウス！}
 Comment: 0,0:13:29.99,0:13:29.99,Default,Chapter,0,0,0,,{TIME:809997,809997}#Black screen
 Comment: 0,0:13:31.99,0:13:31.99,Default,Chapter,0,0,0,,{TIME:811998,811998}$Eyecatch
 Comment: 0,0:13:36.00,0:13:36.00,Default,Chapter,0,0,0,,{TIME:816002,816002}Part B
-Dialogue: 0,0:13:36.67,0:13:39.71,Default,Beats,0,0,0,,{TIME:816670,819715}{NOTE:スタートダッシュにミルが成功！}
-Dialogue: 0,0:13:39.71,0:13:41.38,Default,Beats,0,0,0,,{TIME:819715,821383}{NOTE:ヒョロ、ナリキ！}
-Dialogue: 0,0:13:41.38,0:13:42.88,Default,Beats,0,0,0,,{TIME:821383,822885}{NOTE:そして…}
-Dialogue: 0,0:13:43.38,0:13:45.01,Default,Beats,0,0,0,,{TIME:823385,825012}{NOTE:デブリと続く！}
-Dialogue: 0,0:13:45.67,0:13:48.84,Default,Lilia,0,0,0,,{TIME:825679,828849}{NOTE:ミルは冷静にスタートのタイミングを見てたね。}
-Dialogue: 0,0:13:48.84,0:13:52.10,Default,Beats,0,0,0,,{TIME:828849,832102}{NOTE:さてこの後どんな展開が待っているのか。}
-Dialogue: 0,0:13:52.10,0:13:54.52,Default,Beats,0,0,0,,{TIME:832102,834521}{NOTE:ここでコースの紹介だ！}
-Dialogue: 0,0:13:54.52,0:13:57.06,Default,Beats,0,0,0,,{TIME:834521,837066}{NOTE:オトモンレース歴代最長のコース。}
-Dialogue: 0,0:13:57.06,0:14:01.65,Default,Beats,0,0,0,,{TIME:837066,841653}{NOTE:メインを飾る第１ポイントは村の中央を走るメインストリート。}
-Dialogue: 0,0:14:01.65,0:14:05.53,Default,Beats,0,0,0,,{TIME:841653,845532}{NOTE:真っすぐな直線コースなのでスピードが命となる。}
-Dialogue: 0,0:14:06.15,0:14:08.28,Default,Beats,0,0,0,,{TIME:846158,848285}{NOTE:第２ポイントはボルデの丘。}
-Dialogue: 0,0:14:08.28,0:14:11.41,Default,Beats,0,0,0,,{TIME:848285,851413}{NOTE:ボルデの丘には中継のピントさんがいるぞ。}
-Dialogue: 0,0:14:11.41,0:14:12.79,Default,Beats,0,0,0,,{TIME:851413,852790}{NOTE:ピントさーん！}
-Dialogue: 0,0:14:13.37,0:14:14.41,Default,Spex,0,0,0,,{TIME:853374,854416}{NOTE:はいはい。}
-Dialogue: 0,0:14:14.41,0:14:15.95,Default,Spex,0,0,0,,{TIME:854416,855959}{NOTE:こちら第２ポイント。}
-Dialogue: 0,0:14:15.95,0:14:18.42,Default,Spex,0,0,0,,{TIME:855959,858420}{NOTE:ボルデの丘のピントゴロニャ。}
-Dialogue: 0,0:14:18.42,0:14:23.30,Default,Spex,0,0,0,,{TIME:858420,863300}{NOTE:こちらジャンプ能力が生かされる岩場の攻略がポイントだゴロニャ。}
-Dialogue: 0,0:14:23.63,0:14:28.13,Default,Beats,0,0,0,,{TIME:863634,868138}{NOTE:そして第３ポイントはボルデの丘の先カクセの森。}
-Dialogue: 0,0:14:28.13,0:14:30.55,Default,Beats,0,0,0,,{TIME:868138,870557}{NOTE:カクセの森にはティティさんがいます。}
-Dialogue: 0,0:14:30.55,0:14:33.26,Default,Beats,0,0,0,,{TIME:870557,873268}{NOTE:中継のティティさーん！}
-Dialogue: 0,0:14:33.26,0:14:36.31,Default,Fifi,0,0,0,,{TIME:873268,876313}{NOTE:はーい。第３ポイントのティティよ。}
-Dialogue: 0,0:14:36.31,0:14:40.48,Default,Fifi,0,0,0,,{TIME:876313,880484}{NOTE:ここでのポイントは森の木々をどうかわすかってことね。}
-Dialogue: 0,0:14:43.15,0:14:45.48,Default,Beats,0,0,0,,{TIME:883153,885489}{\i1}{NOTE:ティティさん？どうかしました？}
-Dialogue: 0,0:14:45.48,0:14:46.61,Default,Fifi,0,0,0,,{TIME:885489,886615}{NOTE:ん…}
-Dialogue: 0,0:14:46.61,0:14:48.20,Default,Fifi,0,0,0,,{TIME:886615,888200}{NOTE:気のせいみたい。}
-Dialogue: 0,0:14:48.86,0:14:51.32,Default,Beats,0,0,0,,{TIME:888867,891328}{NOTE:そして折り返しのある第４ポイントは…}
-Dialogue: 0,0:14:51.32,0:14:54.54,Default,Beats,0,0,0,,{TIME:891328,894540}{NOTE:…カクセの森を越えた所にあるガシャの丘です。}
-Dialogue: 0,0:14:54.54,0:14:57.08,Default,Beats,0,0,0,,{TIME:894540,897084}{NOTE:ガシャの丘にはチャモさんがいます。}
-Dialogue: 0,0:14:57.08,0:14:58.66,Default,Beats,0,0,0,,{TIME:897084,898669}{NOTE:つないでみましょう。}
-Dialogue: 0,0:14:58.66,0:15:00.00,Default,Beats,0,0,0,,{TIME:898669,900003}{NOTE:チャモさーん！}
-Dialogue: 0,0:15:04.25,0:15:05.42,Default,Beats,0,0,0,,{TIME:904258,905426}{\i1}{NOTE:チャモさーん！}
-Dialogue: 0,0:15:08.63,0:15:09.59,Default,Beats,0,0,0,,{TIME:908637,909596}{\i1}{NOTE:チャモさーん！}
-Dialogue: 0,0:15:11.89,0:15:12.39,Default,Beats,0,0,0,,{TIME:911890,912391}{\i1}{NOTE:んっ!?}
-Dialogue: 0,0:15:12.97,0:15:13.89,Default,Beats,0,0,0,,{TIME:912975,913892}{\i1}{NOTE:チャモ！}
-Dialogue: 0,0:15:13.89,0:15:15.64,Default,Beats,0,0,0,,{TIME:913892,915644}{\i1}{NOTE:おいチャモ！}
-Dialogue: 0,0:15:15.64,0:15:16.72,Default,Beats,0,0,0,,{TIME:915644,916728}{\i1}{NOTE:チャモさん!?}
-Dialogue: 0,0:15:17.39,0:15:19.60,Default,Lilia,0,0,0,,{TIME:917396,919606}{NOTE:寝てるみたいだね。}
-Dialogue: 0,0:15:19.60,0:15:20.85,Default,Beats,0,0,0,,{TIME:919606,920858}{NOTE:だな…}
-Dialogue: 0,0:15:20.85,0:15:23.48,Default,Beats,0,0,0,,{TIME:920858,923485}{NOTE:え～とにかくガシャの丘で折り返して…}
-Dialogue: 0,0:15:23.48,0:15:27.48,Default,Beats,0,0,0,,{TIME:923485,927489}{NOTE:…ここまで誰が最初に戻ってくるのかを競うレースというわけだ。}
-Dialogue: 0,0:15:27.48,0:15:28.53,Default,Lilia,0,0,0,,{TIME:927489,928532}{NOTE:なるほど。}
-Dialogue: 0,0:15:28.53,0:15:30.28,Default,Lilia,0,0,0,,{TIME:928532,930284}{NOTE:大掛かりなコースだね。}
-Dialogue: 0,0:15:30.28,0:15:31.74,Default,Spex,0,0,0,,{TIME:930284,931743}{\i1}{NOTE:ビーツさん、ビーツさん。}
-Dialogue: 0,0:15:32.32,0:15:36.12,Default,Spex,0,0,0,,{TIME:932327,936123}{NOTE:第２ポイントのボルデの丘にオトモンたちがやって来たゴロニャ。}
-Dialogue: 0,0:15:36.12,0:15:37.12,Default,Beats,0,0,0,,{TIME:936123,937124}{\i1}{NOTE:おお！}
-Dialogue: 0,0:15:40.87,0:15:42.29,Default,Debli,0,0,0,,{TIME:940878,942296}{NOTE:ちょっ…ドスプーギー!?}
-Dialogue: 0,0:15:42.29,0:15:43.58,Default,Debli,0,0,0,,{TIME:942296,943589}{NOTE:どこ行くんだよ！}
-Dialogue: 0,0:15:43.58,0:15:44.33,Default,Spex,0,0,0,,{TIME:943589,944339}{NOTE:んん!?}
-Dialogue: 0,0:15:44.33,0:15:48.38,Default,Spex,0,0,0,,{TIME:944339,948385}{NOTE:飛び入りのデブリ選手が早くもどこかへ行ってしまったでゴロニャ。}
-Dialogue: 0,0:15:49.05,0:15:56.18,Default,Lilia,0,0,0,,{TIME:949052,956185}{NOTE:最初の難所であるボルデの丘にはミル選手、ヒョロ選手、ナリキ選手の順で岩山に差し掛かったみたい。}
-Dialogue: 0,0:15:59.14,0:16:00.23,Default,Spex,0,0,0,,{TIME:959146,960230}{NOTE:ビーツさん。}
-Dialogue: 0,0:16:00.23,0:16:04.77,Default,Spex,0,0,0,,{TIME:960230,964776}{NOTE:立て看板に｢岩山の脇を通るなかれ｣と書かれてるゴロニャ。}
-Dialogue: 0,0:16:05.27,0:16:07.32,Default,Beats,0,0,0,,{TIME:965277,967321}{NOTE:｢岩山の脇を通るなかれ｣？}
-Dialogue: 0,0:16:08.15,0:16:09.69,Default,Beats,0,0,0,,{TIME:968155,969698}{NOTE:どういう意味だ？}
-Dialogue: 0,0:16:09.69,0:16:11.03,Default,Lilia,0,0,0,,{TIME:969698,971033}{NOTE:頓知みたいね。}
-Dialogue: 0,0:16:12.07,0:16:16.45,Default,Mille,0,0,0,,{TIME:972075,976455}{NOTE:この程度の岩山なら飛行能力を持つレギオンでひとっ飛びよ！}
-Dialogue: 0,0:16:21.54,0:16:22.92,Default,Hyoro,0,0,0,,{TIME:981543,982920}{NOTE:ミル、危ない！}
-Dialogue: 0,0:16:27.29,0:16:29.21,Default,Mille,0,0,0,,{TIME:987299,989218}{NOTE:何なのよ～！}
-Dialogue: 0,0:16:29.84,0:16:31.26,Default,Spex,0,0,0,,{TIME:989843,991261}{NOTE:おーっと、ミル選手！}
-Dialogue: 0,0:16:32.09,0:16:36.01,Default,Spex,0,0,0,,{TIME:992095,996016}{NOTE:打上げタル爆弾に迎撃されたでゴロニャ～！}
-Dialogue: 0,0:16:38.22,0:16:39.68,Default,Hyoro,0,0,0,,{TIME:998227,999686}{NOTE:ナリキ！}
-Dialogue: 0,0:16:40.89,0:16:42.31,Default,Dan,0,0,0,,{TIME:1000896,1002314}{\i1}{NOTE:いいか？ナリキ。}
-Dialogue: 0,0:16:42.31,0:16:46.10,Default,Dan,0,0,0,,{TIME:1002314,1006109}{\i1}{NOTE:第２ポイントの岩山はジャンプで登れば早く抜けられる。}
-Dialogue: 0,0:16:46.73,0:16:48.36,Default,Nariki,0,0,0,,{TIME:1006735,1008362}{\i1}{NOTE:うっす！}
-Dialogue: 0,0:16:49.82,0:16:51.36,Default,Nariki,0,0,0,,{TIME:1009821,1011365}{NOTE:ランポ、ジャンプだ！}
-Dialogue: 0,0:16:55.20,0:16:57.12,Default,Hyoro,0,0,0,,{TIME:1015202,1017120}{NOTE:ジンライ、ナリキを追うぞ！}
-Dialogue: 0,0:16:57.12,0:16:59.70,Default,Mille,0,0,0,,{TIME:1017120,1019706}{NOTE:レギオン、新米に負けられないわよ！}
-Dialogue: 0,0:17:00.54,0:17:02.83,Default,Fifi,0,0,0,,{TIME:1020541,1022834}{NOTE:いよいよ第３ポイント。}
-Dialogue: 0,0:17:02.83,0:17:06.08,Default,Fifi,0,0,0,,{TIME:1022834,1026088}{NOTE:カクセの森にオトモンたちがやって来たわよ～。}
-Dialogue: 0,0:17:06.08,0:17:07.42,Default,Fifi,0,0,0,,{TIME:1026088,1027422}{NOTE:ビーツさーん！}
-Dialogue: 0,0:17:08.92,0:17:10.38,Default,Fifi,0,0,0,,{TIME:1028924,1030384}{NOTE:ビーツさーん？}
-Dialogue: 0,0:17:10.38,0:17:12.30,Default,Fifi,0,0,0,,{TIME:1030384,1032302}{NOTE:ちょっと聞こえてんの？}
-Dialogue: 0,0:17:12.30,0:17:14.59,Default,Fifi,0,0,0,,{TIME:1032302,1034596}{NOTE:返事くらいしなさいよ！}
-Dialogue: 0,0:17:14.59,0:17:15.93,Default,Fifi,0,0,0,,{TIME:1034596,1035931}{NOTE:どうしたのかしら？}
-Dialogue: 0,0:17:19.39,0:17:21.60,Default,Fifi,0,0,0,,{TIME:1039393,1041603}{NOTE:あら？糸が切れて…}
-Dialogue: 0,0:17:23.81,0:17:26.77,Default,Fifi,0,0,0,,{TIME:1043814,1046775}{NOTE:何これ…やだ気持ち悪い！}
-Dialogue: 0,0:17:26.77,0:17:29.57,Default,Debli,0,0,0,,{TIME:1046775,1049570}{NOTE:みんな！待て～！}
-Dialogue: 0,0:17:31.28,0:17:32.36,Default,Beats,0,0,0,,{TIME:1051280,1052364}{NOTE:ティティさん？}
-Dialogue: 0,0:17:32.36,0:17:34.15,Default,Beats,0,0,0,,{TIME:1052364,1054157}{NOTE:第３ポイントはどんな状況だ？}
-Dialogue: 0,0:17:35.24,0:17:36.86,Default,Beats,0,0,0,,{TIME:1055242,1056868}{NOTE:ん？まずい。}
-Dialogue: 0,0:17:36.86,0:17:38.78,Default,Beats,0,0,0,,{TIME:1056868,1058787}{NOTE:ここで機材トラブルか。}
-Dialogue: 0,0:17:38.78,0:17:43.75,Default,Lilia,0,0,0,,{TIME:1058787,1063750}{NOTE:それじゃあ誰かが戻ってくるまでレースの様子は分からないわね。}
-Dialogue: 0,0:17:43.75,0:17:46.87,Default,Gamigami,0,0,0,,{TIME:1063750,1066878}{NOTE:生放送は何が起こるか分からん。}
-Dialogue: 0,0:17:46.87,0:17:48.96,Default,Gamigami,0,0,0,,{TIME:1066878,1068964}{NOTE:まさに人生のごとし。}
-Dialogue: 0,0:17:49.88,0:17:50.67,Default,(unison),0,0,0,,{TIME:1069881,1070674}{NOTE:うむ。}
-Dialogue: 0,0:17:51.46,0:17:53.63,Default,Mille,0,0,0,,{TIME:1071466,1073635}{NOTE:逃がさないわよナリキ！}
-Dialogue: 0,0:17:53.63,0:17:55.92,Default,Nariki,0,0,0,,{TIME:1073635,1075929}{NOTE:フン！逃げ切ってみせるっす！}
-Dialogue: 0,0:17:55.92,0:17:56.63,Default,Nariki,0,0,0,,{TIME:1075929,1076638}{NOTE:あっ！}
-Dialogue: 0,0:17:56.63,0:17:57.93,Default,Nariki,0,0,0,,{TIME:1076638,1077931}{NOTE:何かいる…}
-Dialogue: 0,0:18:10.94,0:18:12.36,Default,Nariki,0,0,0,,{TIME:1090944,1092362}{NOTE:お前はラース！}
-Dialogue: 0,0:18:13.82,0:18:15.65,Default,Nariki,0,0,0,,{TIME:1093822,1095657}{NOTE:何でここに!?}
-Dialogue: 0,0:18:15.65,0:18:16.99,Default,Wrath,0,0,0,,{TIME:1095657,1096992}{NOTE:ウッハッハ！}
-Dialogue: 0,0:18:16.99,0:18:18.86,Default,Wrath,0,0,0,,{TIME:1096992,1098869}{NOTE:また会ったな坊主。}
-Dialogue: 0,0:18:19.53,0:18:21.99,Default,Mille,0,0,0,,{TIME:1099536,1101997}{NOTE:この前のﾌﾞﾗｯｸﾗｲﾀﾞｰｽﾞ!?}
-Dialogue: 0,0:18:21.99,0:18:23.62,Default,Hyoro,0,0,0,,{TIME:1101997,1103624}{NOTE:みたいだね。}
-Dialogue: 0,0:18:24.49,0:18:28.00,Default,Wrath,0,0,0,,{TIME:1104499,1108003}{NOTE:今度こそ３人まとめて絆石を頂くぜ！}
-Dialogue: 0,0:18:31.63,0:18:32.96,Default,Wrath,0,0,0,,{TIME:1111632,1112966}{NOTE:シンクライド！}
-Dialogue: 0,0:18:39.72,0:18:41.14,Default,Nariki,0,0,0,,{TIME:1119723,1121141}{NOTE:ブレス来るっす！}
-Dialogue: 0,0:18:43.14,0:18:46.68,Default,Mille,0,0,0,,{TIME:1123143,1126688}{NOTE:残念だけどこのレギオンはそんなに甘くないわよ！}
-Dialogue: 0,0:18:52.94,0:18:54.23,Default,Mille,0,0,0,,{TIME:1132944,1134237}{NOTE:なんてパワーなの。}
-Dialogue: 0,0:19:01.82,0:19:03.20,Default,Hyoro,0,0,0,,{TIME:1141828,1143205}{NOTE:僕が相手だ！}
-Dialogue: 0,0:19:03.20,0:19:04.45,Default,Nariki,0,0,0,,{TIME:1143205,1144456}{NOTE:自分もいくっす！}
-Dialogue: 0,0:19:07.95,0:19:09.50,Default,Hyoro,0,0,0,,{TIME:1147959,1149503}{NOTE:強い。}
-Dialogue: 0,0:19:09.50,0:19:10.50,Default,Mille,0,0,0,,{TIME:1149503,1150504}{NOTE:どうする？}
-Dialogue: 0,0:19:10.50,0:19:12.21,Default,Mille,0,0,0,,{TIME:1150504,1152214}{NOTE:３人でもかなわないなんて…}
-Dialogue: 0,0:19:13.13,0:19:14.88,Default,Nariki,0,0,0,,{TIME:1153131,1154883}{NOTE:自分に考えがあるっす。}
-Dialogue: 0,0:19:14.88,0:19:15.50,Default,Mille,0,0,0,,{TIME:1154883,1155509}{NOTE:えっ？}
-Dialogue: 0,0:19:17.51,0:19:20.88,Default,Wrath,0,0,0,,{TIME:1157511,1160889}{NOTE:さあおとなしく絆石を渡すんだな！}
-Dialogue: 0,0:19:24.68,0:19:26.68,Default,Wrath,0,0,0,,{TIME:1164685,1166687}{NOTE:だあ～逃げるな！}
-Dialogue: 0,0:19:30.85,0:19:31.73,Default,Great Poogie,0,0,0,,{TIME:1170857,1171733}{NOTE:すぴ～…}
-Dialogue: 0,0:19:33.23,0:19:35.69,Default,Debli,0,0,0,,{TIME:1173235,1175696}{NOTE:他のやつらはどこにいるんだ？}
-Dialogue: 0,0:19:36.44,0:19:37.40,Default,Debli,0,0,0,,{TIME:1176446,1177406}{NOTE:あれ？}
-Dialogue: 0,0:19:37.40,0:19:39.90,Default,Debli,0,0,0,,{TIME:1177406,1179908}{NOTE:あいつら俺の後ろにいたのか。}
-Dialogue: 0,0:19:39.90,0:19:42.53,Default,Debli,0,0,0,,{TIME:1179908,1182536}{NOTE:ってことは！俺トップ!?}
-Dialogue: 0,0:19:44.32,0:19:45.03,Default,Debli,0,0,0,,{TIME:1184329,1185038}{NOTE:あれ？}
-Dialogue: 0,0:19:45.78,0:19:47.62,Default,Debli,0,0,0,,{TIME:1185789,1187624}{NOTE:もう一人いたのか？}
-Dialogue: 0,0:19:49.62,0:19:50.37,Default,Great Poogie,0,0,0,,{TIME:1189626,1190377}{NOTE:ブッ…}
-Dialogue: 0,0:19:51.25,0:19:54.67,Default,Great Poogie,0,0,0,,{TIME:1191253,1194673}{NOTE:ピ～ギャ～！}
-Dialogue: 0,0:19:52.12,0:19:54.67,Default,Debli,0,0,0,,{TIME:1192129,1194673}{NOTE:バカどこ行くんだよ～！}
-Dialogue: 0,0:19:53.88,0:19:56.50,Sign,,0,0,0,,{TIME:1193880,1196508}{NOTE:コースの真ん中を走るなかれ！}
-Dialogue: 0,0:19:56.88,0:19:59.38,Default,Nariki,0,0,0,,{TIME:1196883,1199386}{NOTE:コースの真ん中走るのは駄目っすよ！}
-Dialogue: 0,0:19:59.38,0:20:01.01,Default,Hyoro,0,0,0,,{TIME:1199386,1201012}{NOTE:分かった。}
-Dialogue: 0,0:20:01.01,0:20:02.88,Default,Mille,0,0,0,,{TIME:1201012,1202889}{NOTE:走らなければいいんでしょ！}
-Dialogue: 0,0:20:07.47,0:20:08.89,Default,Wrath,0,0,0,,{TIME:1207477,1208895}{NOTE:諦めろ！}
-Dialogue: 0,0:20:08.89,0:20:10.43,Default,Wrath,0,0,0,,{TIME:1208895,1210439}{NOTE:この先は崖だ！}
-Dialogue: 0,0:20:13.56,0:20:15.40,Default,Wrath,0,0,0,,{TIME:1213567,1215402}{NOTE:落とし穴だと!?}
-Dialogue: 0,0:20:15.40,0:20:17.36,Default,Nariki,0,0,0,,{TIME:1215402,1217362}{NOTE:いっけぇ～！}
-Dialogue: 0,0:20:18.94,0:20:22.20,Default,Nariki,0,0,0,,{TIME:1218947,1222200}{NOTE:ドスラッシュ！}
-Dialogue: 0,0:20:24.57,0:20:26.87,Default,Mille,0,0,0,,{TIME:1224578,1226872}{NOTE:シューティングスター！}
-Dialogue: 0,0:20:31.75,0:20:33.54,Default,Hyoro,0,0,0,,{TIME:1231752,1233545}{NOTE:クロスハイボルト！}
-Dialogue: 0,0:20:41.01,0:20:42.26,Default,Hyoro,0,0,0,,{TIME:1241011,1242262}{NOTE:やった…？}
-Dialogue: 0,0:20:42.26,0:20:45.09,Default,Mille,0,0,0,,{TIME:1242262,1245098}{NOTE:取っ捕まえて色々聞き出してやる。}
-Dialogue: 0,0:20:45.09,0:20:45.80,Default,Nariki,0,0,0,,{TIME:1245098,1245807}{NOTE:ん？}
-Dialogue: 0,0:20:48.14,0:20:51.43,Default,Wrath,0,0,0,,{TIME:1248143,1251438}{NOTE:お前ら絶対許さねえ…}
-Dialogue: 0,0:20:51.43,0:20:53.94,Default,Mille,0,0,0,,{TIME:1251438,1253940}{NOTE:嘘!?まだ立てるの!?}
-Dialogue: 0,0:20:53.94,0:20:55.81,Default,Nariki,0,0,0,,{TIME:1253940,1255817}{NOTE:まだ戦う気っすか？}
-Dialogue: 0,0:21:01.07,0:21:03.07,Default,Wrath,0,0,0,,{TIME:1261072,1263074}{NOTE:腹減った…}
-Dialogue: 0,0:21:03.70,0:21:05.03,Default,Wrath,0,0,0,,{TIME:1263700,1265035}{NOTE:今日は帰る…}
-Dialogue: 0,0:21:05.03,0:21:05.95,Default,Hyoro,0,0,0,,{TIME:1265035,1265952}{NOTE:ズコッ！}
-Dialogue: 0,0:21:05.95,0:21:09.62,Default,Wrath,0,0,0,,{TIME:1265952,1269623}{NOTE:だが次は必ずお前らの絆石を頂くぜ！}
-Dialogue: 0,0:21:17.54,0:21:20.50,Default,Nariki,0,0,0,,{TIME:1277547,1280509}{NOTE:自分たち勝ったっすか？}
-Dialogue: 0,0:21:20.50,0:21:21.38,Default,Nariki,0,0,0,,{TIME:1280509,1281384}{NOTE:うん。}
-Dialogue: 0,0:21:21.38,0:21:22.96,Default,Mille,0,0,0,,{TIME:1281384,1282969}{NOTE:ナリキの作戦勝ちよ。}
-Dialogue: 0,0:21:22.96,0:21:24.26,Default,Nariki,0,0,0,,{TIME:1282969,1284262}{NOTE:マジっすか!?}
-Dialogue: 0,0:21:24.26,0:21:26.76,Default,Nariki,0,0,0,,{TIME:1284262,1286765}{NOTE:うう…やった～！}
-Dialogue: 0,0:21:27.26,0:21:28.51,Default,Mille,0,0,0,,{TIME:1287265,1288517}{NOTE:でも、ナリキ！}
-Dialogue: 0,0:21:28.51,0:21:30.47,Default,Mille,0,0,0,,{TIME:1288517,1290477}{NOTE:レースはまだ終わってないわよ！}
-Dialogue: 0,0:21:30.47,0:21:31.93,Default,Hyoro,0,0,0,,{TIME:1290477,1291937}{NOTE:そういうこと！}
-Dialogue: 0,0:21:31.93,0:21:34.52,Default,Nariki,0,0,0,,{TIME:1291937,1294523}{NOTE:えっちょっ…！ずるいっすよ～！}
-Dialogue: 0,0:21:36.35,0:21:37.48,Default,Beats,0,0,0,,{TIME:1296358,1297484}{NOTE:おっと！}
-Dialogue: 0,0:21:37.48,0:21:40.40,Default,Beats,0,0,0,,{TIME:1297484,1300403}{NOTE:ついにオトモンとライダーたちが帰ってきた！}
-Dialogue: 0,0:21:40.40,0:21:43.53,Default,Beats,0,0,0,,{TIME:1300403,1303532}{NOTE:最初にゴールするのは誰だ～!?}
+Dialogue: 0,0:13:36.67,0:13:39.71,Default,Beats,0,0,0,,{TIME:816670,819715}Mille is already at an advantage!{NOTE:スタートダッシュにミルが成功！}
+Dialogue: 0,0:13:39.71,0:13:41.38,Default,Beats,0,0,0,,{TIME:819715,821383}Then Hyoro, Nariki!{NOTE:ヒョロ、ナリキ！}
+Dialogue: 0,0:13:41.38,0:13:42.88,Default,Beats,0,0,0,,{TIME:821383,822885}And then…{NOTE:そして…}
+Dialogue: 0,0:13:43.38,0:13:45.01,Default,Beats,0,0,0,,{TIME:823385,825012}Debli goes after them!{NOTE:デブリと続く！}
+Dialogue: 0,0:13:45.67,0:13:48.84,Default,Lilia,0,0,0,,{TIME:825679,828849}Mille was calmly watching the timing of the start.{NOTE:ミルは冷静にスタートのタイミングを見てたね。}
+Dialogue: 0,0:13:48.84,0:13:52.10,Default,Beats,0,0,0,,{TIME:828849,832102}Let's take a look at what awaits our contestants.{NOTE:さてこの後どんな展開が待っているのか。}
+Dialogue: 0,0:13:52.10,0:13:54.52,Default,Beats,0,0,0,,{TIME:832102,834521}Here's an introduction to the course!{NOTE:ここでコースの紹介だ！}
+Dialogue: 0,0:13:54.52,0:13:57.06,Default,Beats,0,0,0,,{TIME:834521,837066}The longest course in the history of Monstie Races.{NOTE:オトモンレース歴代最長のコース。}
+Dialogue: 0,0:13:57.06,0:14:01.65,Default,Beats,0,0,0,,{TIME:837066,841653}Point One is the main street running in the center of the village.{NOTE:メインを飾る第１ポイントは村の中央を走るメインストリート。}
+Dialogue: 0,0:14:01.65,0:14:05.53,Default,Beats,0,0,0,,{TIME:841653,845532}Speed ​​is everything in this long straight segment.{NOTE:真っすぐな直線コースなのでスピードが命となる。}
+Dialogue: 0,0:14:06.15,0:14:08.28,Default,Beats,0,0,0,,{TIME:846158,848285}Point Two is Borde Hills.{NOTE:第２ポイントはボルデの丘。}
+Dialogue: 0,0:14:08.28,0:14:11.41,Default,Beats,0,0,0,,{TIME:848285,851413}Our relay at Borde Hills, Spex, will keep us up to date.{NOTE:ボルデの丘には中継のピントさんがいるぞ。}
+Dialogue: 0,0:14:11.41,0:14:12.79,Default,Beats,0,0,0,,{TIME:851413,852790}Spex!{NOTE:ピントさーん！}
+Dialogue: 0,0:14:13.37,0:14:14.41,Default,Spex,0,0,0,,{TIME:853374,854416}I hear you loud and clear.{NOTE:はいはい。}
+Dialogue: 0,0:14:14.41,0:14:15.95,Default,Spex,0,0,0,,{TIME:854416,855959}This is Point Two.{NOTE:こちら第２ポイント。}
+Dialogue: 0,0:14:15.95,0:14:18.42,Default,Spex,0,0,0,,{TIME:855959,858420}This is Spex, right from Borde Hills.{NOTE:ボルデの丘のピントゴロニャ。}
+Dialogue: 0,0:14:18.42,0:14:23.30,Default,Spex,0,0,0,,{TIME:858420,863300}Despite its name, this is a pretty rocky area and is where jumping ability proves very useful.{NOTE:こちらジャンプ能力が生かされる岩場の攻略がポイントだゴロニャ。}
+Dialogue: 0,0:14:23.63,0:14:28.13,Default,Beats,0,0,0,,{TIME:863634,868138}The Point Three is Cakse Woods ahead of Borde Hills.{NOTE:そして第３ポイントはボルデの丘の先カクセの森。}
+Dialogue: 0,0:14:28.13,0:14:30.55,Default,Beats,0,0,0,,{TIME:868138,870557}We have Fifi over there.{NOTE:カクセの森にはティティさんがいます。}
+Dialogue: 0,0:14:30.55,0:14:33.26,Default,Beats,0,0,0,,{TIME:870557,873268}Fifi, over to you!{NOTE:中継のティティさーん！}
+Dialogue: 0,0:14:33.26,0:14:36.31,Default,Fifi,0,0,0,,{TIME:873268,876313}It's Fifi from Cakse Woods.{NOTE:はーい。第３ポイントのティティよ。}
+Dialogue: 0,0:14:36.31,0:14:40.48,Default,Fifi,0,0,0,,{TIME:876313,880484}The contestants will have to dodge the forest trees.{NOTE:ここでのポイントは森の木々をどうかわすかってことね。}
+Dialogue: 0,0:14:43.15,0:14:45.48,Default,Beats,0,0,0,,{TIME:883153,885489}{\i1}Fifi? Something's wrong?{NOTE:ティティさん？どうかしました？}
+Dialogue: 0,0:14:45.48,0:14:46.61,Default,Fifi,0,0,0,,{TIME:885489,886615}Hmm…{NOTE:ん…}
+Dialogue: 0,0:14:46.61,0:14:48.20,Default,Fifi,0,0,0,,{TIME:886615,888200}Just my imagination, I think.{NOTE:気のせいみたい。}
+Dialogue: 0,0:14:48.86,0:14:51.32,Default,Beats,0,0,0,,{TIME:888867,891328}And the last point is a turnover…{NOTE:そして折り返しのある第４ポイントは…}
+Dialogue: 0,0:14:51.32,0:14:54.54,Default,Beats,0,0,0,,{TIME:891328,894540}…located at Gasha Hill which crosses Cakse Woods.{NOTE:…カクセの森を越えた所にあるガシャの丘です。}
+Dialogue: 0,0:14:54.54,0:14:57.08,Default,Beats,0,0,0,,{TIME:894540,897084}We have Floof over there.{NOTE:ガシャの丘にはチャモさんがいます。}
+Dialogue: 0,0:14:57.08,0:14:58.66,Default,Beats,0,0,0,,{TIME:897084,898669}Let's connect.{NOTE:つないでみましょう。}
+Dialogue: 0,0:14:58.66,0:15:00.00,Default,Beats,0,0,0,,{TIME:898669,900003}Floof!{NOTE:チャモさーん！}
+Dialogue: 0,0:15:04.25,0:15:05.42,Default,Beats,0,0,0,,{TIME:904258,905426}{\i1}Floof!{NOTE:チャモさーん！}
+Dialogue: 0,0:15:08.63,0:15:09.59,Default,Beats,0,0,0,,{TIME:908637,909596}{\i1}Floof!{NOTE:チャモさーん！}
+Dialogue: 0,0:15:11.89,0:15:12.39,Default,Beats,0,0,0,,{TIME:911890,912391}{\i1}Hm?!{NOTE:んっ!?}
+Dialogue: 0,0:15:12.97,0:15:13.89,Default,Beats,0,0,0,,{TIME:912975,913892}{\i1}Floof!{NOTE:チャモ！}
+Dialogue: 0,0:15:13.89,0:15:15.64,Default,Beats,0,0,0,,{TIME:913892,915644}{\i1}Hey, Floof!{NOTE:おいチャモ！}
+Dialogue: 0,0:15:15.64,0:15:16.72,Default,Beats,0,0,0,,{TIME:915644,916728}{\i1}Floof!?{NOTE:チャモさん!?}
+Dialogue: 0,0:15:17.39,0:15:19.60,Default,Lilia,0,0,0,,{TIME:917396,919606}I think he's sleeping.{NOTE:寝てるみたいだね。}
+Dialogue: 0,0:15:19.60,0:15:20.85,Default,Beats,0,0,0,,{TIME:919606,920858}Figures.{NOTE:だな…}
+Dialogue: 0,0:15:20.85,0:15:23.48,Default,Beats,0,0,0,,{TIME:920858,923485}Anyway, the contestants fold back at Gasha Hill…{NOTE:え～とにかくガシャの丘で折り返して…}
+Dialogue: 0,0:15:23.48,0:15:27.48,Default,Beats,0,0,0,,{TIME:923485,927489}…and whoever gets back here first wins the race.{NOTE:…ここまで誰が最初に戻ってくるのかを競うレースというわけだ。}
+Dialogue: 0,0:15:27.48,0:15:28.53,Default,Lilia,0,0,0,,{TIME:927489,928532}I see.{NOTE:なるほど。}
+Dialogue: 0,0:15:28.53,0:15:30.28,Default,Lilia,0,0,0,,{TIME:928532,930284}It is certainly a big course.{NOTE:大掛かりなコースだね。}
+Dialogue: 0,0:15:30.28,0:15:31.74,Default,Spex,0,0,0,,{TIME:930284,931743}{\i1}Beats, Beats.{NOTE:ビーツさん、ビーツさん。}
+Dialogue: 0,0:15:32.32,0:15:36.12,Default,Spex,0,0,0,,{TIME:932327,936123}They're already at the Point Two near Borde Hills.{NOTE:第２ポイントのボルデの丘にオトモンたちがやって来たゴロニャ。}
+Dialogue: 0,0:15:36.12,0:15:37.12,Default,Beats,0,0,0,,{TIME:936123,937124}{\i1}All right!{NOTE:おお！}
+Dialogue: 0,0:15:40.87,0:15:42.29,Default,Debli,0,0,0,,{TIME:940878,942296}Hey— Poogie?{NOTE:ちょっ…ドスプーギー!?}
+Dialogue: 0,0:15:42.29,0:15:43.58,Default,Debli,0,0,0,,{TIME:942296,943589}Where are you going?{NOTE:どこ行くんだよ！}
+Dialogue: 0,0:15:43.58,0:15:44.33,Default,Spex,0,0,0,,{TIME:943589,944339}Hm?{NOTE:んん!?}
+Dialogue: 0,0:15:44.33,0:15:48.38,Default,Spex,0,0,0,,{TIME:944339,948385}The belated contestant, Debli,\Nhas taken a turn in an unexpected direction.{NOTE:飛び入りのデブリ選手が早くもどこかへ行ってしまったでゴロニャ。}
+Dialogue: 0,0:15:49.05,0:15:56.18,Default,Lilia,0,0,0,,{TIME:949052,956185}Mille, Hyoro and Nariki, in that order,\Nhave reached the rocky part of Borde Hills.{NOTE:最初の難所であるボルデの丘にはミル選手、ヒョロ選手、ナリキ選手の順で岩山に差し掛かったみたい。}
+Dialogue: 0,0:15:59.14,0:16:00.23,Default,Spex,0,0,0,,{TIME:959146,960230}Beats.{NOTE:ビーツさん。}
+Dialogue: 0,0:16:00.23,0:16:04.77,Default,Spex,0,0,0,,{TIME:960230,964776}There's a sign here that says "No need to pass through the rocky region".{NOTE:立て看板に｢岩山の脇を通るなかれ｣と書かれてるゴロニャ。}
+Dialogue: 0,0:16:05.27,0:16:07.32,Default,Beats,0,0,0,,{TIME:965277,967321}"No need to pass through the rocky region"?{NOTE:｢岩山の脇を通るなかれ｣？}
+Dialogue: 0,0:16:08.15,0:16:09.69,Default,Beats,0,0,0,,{TIME:968155,969698}What might that mean?{NOTE:どういう意味だ？}
+Dialogue: 0,0:16:09.69,0:16:11.03,Default,Lilia,0,0,0,,{TIME:969698,971033}I wonder if it's true…{NOTE:頓知みたいね。}
+Dialogue: 0,0:16:12.07,0:16:16.45,Default,Mille,0,0,0,,{TIME:972075,976455}This mountain is perfect for Legion's flying ability!{NOTE:この程度の岩山なら飛行能力を持つレギオンでひとっ飛びよ！}
+Dialogue: 0,0:16:21.54,0:16:22.92,Default,Hyoro,0,0,0,,{TIME:981543,982920}Mille, watch out!{NOTE:ミル、危ない！}
+Dialogue: 0,0:16:27.29,0:16:29.21,Default,Mille,0,0,0,,{TIME:987299,989218}What the heck?!{NOTE:何なのよ～！}
+Dialogue: 0,0:16:29.84,0:16:31.26,Default,Spex,0,0,0,,{TIME:989843,991261}Whoa! Contestant Mille…!{NOTE:おーっと、ミル選手！}
+Dialogue: 0,0:16:32.09,0:16:36.01,Default,Spex,0,0,0,,{TIME:992095,996016}She was taken down by a surprise Barrel Bomb launcher!{NOTE:打上げタル爆弾に迎撃されたでゴロニャ～！}
+Dialogue: 0,0:16:38.22,0:16:39.68,Default,Hyoro,0,0,0,,{TIME:998227,999686}Nariki!{NOTE:ナリキ！}
+Dialogue: 0,0:16:40.89,0:16:42.31,Default,Dan,0,0,0,,{TIME:1000896,1002314}{\i1}Listen carefully, Nariki.{NOTE:いいか？ナリキ。}
+Dialogue: 0,0:16:42.31,0:16:46.10,Default,Dan,0,0,0,,{TIME:1002314,1006109}{\i1}You can quickly overtake them at the rocky part\Nof Point Two with your jumping.{NOTE:第２ポイントの岩山はジャンプで登れば早く抜けられる。}
+Dialogue: 0,0:16:46.73,0:16:48.36,Default,Nariki,0,0,0,,{TIME:1006735,1008362}{\i1}Roger!{NOTE:うっす！}
+Dialogue: 0,0:16:49.82,0:16:51.36,Default,Nariki,0,0,0,,{TIME:1009821,1011365}Jump, Drome!{NOTE:ランポ、ジャンプだ！}
+Dialogue: 0,0:16:55.20,0:16:57.12,Default,Hyoro,0,0,0,,{TIME:1015202,1017120}Zinrai, follow Nariki!{NOTE:ジンライ、ナリキを追うぞ！}
+Dialogue: 0,0:16:57.12,0:16:59.70,Default,Mille,0,0,0,,{TIME:1017120,1019706}We can't lose to a newbie, Legion!{NOTE:レギオン、新米に負けられないわよ！}
+Dialogue: 0,0:17:00.54,0:17:02.83,Default,Fifi,0,0,0,,{TIME:1020541,1022834}Finally, it's Point Three.{NOTE:いよいよ第３ポイント。}
+Dialogue: 0,0:17:02.83,0:17:06.08,Default,Fifi,0,0,0,,{TIME:1022834,1026088}Th Monsties have reached Cakse Forest.{NOTE:カクセの森にオトモンたちがやって来たわよ～。}
+Dialogue: 0,0:17:06.08,0:17:07.42,Default,Fifi,0,0,0,,{TIME:1026088,1027422}Beats!{NOTE:ビーツさーん！}
+Dialogue: 0,0:17:08.92,0:17:10.38,Default,Fifi,0,0,0,,{TIME:1028924,1030384}Beats…?{NOTE:ビーツさーん？}
+Dialogue: 0,0:17:10.38,0:17:12.30,Default,Fifi,0,0,0,,{TIME:1030384,1032302}Can you hear me?{NOTE:ちょっと聞こえてんの？}
+Dialogue: 0,0:17:12.30,0:17:14.59,Default,Fifi,0,0,0,,{TIME:1032302,1034596}At least answer.{NOTE:返事くらいしなさいよ！}
+Dialogue: 0,0:17:14.59,0:17:15.93,Default,Fifi,0,0,0,,{TIME:1034596,1035931}I wonder what's wrong…{NOTE:どうしたのかしら？}
+Dialogue: 0,0:17:19.39,0:17:21.60,Default,Fifi,0,0,0,,{TIME:1039393,1041603}Oh? The thread was cut…{NOTE:あら？糸が切れて…}
+Dialogue: 0,0:17:23.81,0:17:26.77,Default,Fifi,0,0,0,,{TIME:1043814,1046775}What's that…? How disgusting!{NOTE:何これ…やだ気持ち悪い！}
+Dialogue: 0,0:17:26.77,0:17:30.48,Default,Debli,0,0,0,,{TIME:1046775,1050487}Everyone! Wait!{NOTE:みんな！待て～！}
+Dialogue: 0,0:17:28.73,0:17:30.48,Default,Great Poogie,0,0,0,,{TIME:1048735,1050487}Oink! Oink!
+Dialogue: 0,0:17:31.28,0:17:32.36,Default,Beats,0,0,0,,{TIME:1051280,1052364}Fifi?{NOTE:ティティさん？}
+Dialogue: 0,0:17:32.36,0:17:34.15,Default,Beats,0,0,0,,{TIME:1052364,1054157}What's the situation at Point Three?{NOTE:第３ポイントはどんな状況だ？}
+Dialogue: 0,0:17:35.24,0:17:36.86,Default,Beats,0,0,0,,{TIME:1055242,1056868}Hm? This is bad!{NOTE:ん？まずい。}
+Dialogue: 0,0:17:36.86,0:17:38.78,Default,Beats,0,0,0,,{TIME:1056868,1058787}We're experiencing technical difficulties!{NOTE:ここで機材トラブルか。}
+Dialogue: 0,0:17:38.78,0:17:43.75,Default,Lilia,0,0,0,,{TIME:1058787,1063750}This means we don't know how the race is going until someone comes back…{NOTE:それじゃあ誰かが戻ってくるまでレースの様子は分からないわね。}
+Dialogue: 0,0:17:43.75,0:17:46.87,Default,Gamigami,0,0,0,,{TIME:1063750,1066878}Live broadcast doesn't know what's happening.{NOTE:生放送は何が起こるか分からん。}
+Dialogue: 0,0:17:46.87,0:17:48.96,Default,Gamigami,0,0,0,,{TIME:1066878,1068964}How life-like.{NOTE:まさに人生のごとし。}
+Dialogue: 0,0:17:49.88,0:17:50.67,Default,(unison),0,0,0,,{TIME:1069881,1070674}Yeah.{NOTE:うむ。}
+Dialogue: 0,0:17:51.46,0:17:53.63,Default,Mille,0,0,0,,{TIME:1071466,1073635}You're not getting away, Nariki!{NOTE:逃がさないわよナリキ！}
+Dialogue: 0,0:17:53.63,0:17:55.92,Default,Nariki,0,0,0,,{TIME:1073635,1075929}Heh! I'll lose you in no time!{NOTE:フン！逃げ切ってみせるっす！}
+Dialogue: 0,0:17:55.92,0:17:56.63,Default,Nariki,0,0,0,,{TIME:1075929,1076638}Ah?{NOTE:あっ！}
+Dialogue: 0,0:17:56.63,0:17:57.93,Default,Nariki,0,0,0,,{TIME:1076638,1077931}Someone's here!{NOTE:何かいる…}
+Dialogue: 0,0:18:10.94,0:18:12.36,Default,Nariki,0,0,0,,{TIME:1090944,1092362}You're Wrath!{NOTE:お前はラース！}
+Dialogue: 0,0:18:13.82,0:18:15.65,Default,Nariki,0,0,0,,{TIME:1093822,1095657}What are you doing here?{NOTE:何でここに!?}
+Dialogue: 0,0:18:15.65,0:18:16.99,Default,Wrath,0,0,0,,{TIME:1095657,1096992}Haha!{NOTE:ウッハッハ！}
+Dialogue: 0,0:18:16.99,0:18:18.86,Default,Wrath,0,0,0,,{TIME:1096992,1098869}We meet again, kid.{NOTE:また会ったな坊主。}
+Dialogue: 0,0:18:19.53,0:18:21.99,Default,Mille,0,0,0,,{TIME:1099536,1101997}You're that Ebon Rider from before?!{NOTE:この前のﾌﾞﾗｯｸﾗｲﾀﾞｰｽﾞ!?}
+Dialogue: 0,0:18:21.99,0:18:23.62,Default,Hyoro,0,0,0,,{TIME:1101997,1103624}Looks like it.{NOTE:みたいだね。}
+Dialogue: 0,0:18:24.49,0:18:28.00,Default,Wrath,0,0,0,,{TIME:1104499,1108003}This time I will collect the Kinship Stones from all three of you!{NOTE:今度こそ３人まとめて絆石を頂くぜ！}
+Dialogue: 0,0:18:31.63,0:18:32.96,Default,Wrath,0,0,0,,{TIME:1111632,1112966}Sync Ride!{NOTE:シンクライド！}
+Dialogue: 0,0:18:39.72,0:18:41.14,Default,Nariki,0,0,0,,{TIME:1119723,1121141}Breath's coming!{NOTE:ブレス来るっす！}
+Dialogue: 0,0:18:43.14,0:18:46.68,Default,Mille,0,0,0,,{TIME:1123143,1126688}I'm sorry, but my Legion won't give in so easily!{NOTE:残念だけどこのレギオンはそんなに甘くないわよ！}
+Dialogue: 0,0:18:52.94,0:18:54.23,Default,Mille,0,0,0,,{TIME:1132944,1134237}How powerful…{NOTE:なんてパワーなの。}
+Dialogue: 0,0:19:01.82,0:19:03.20,Default,Hyoro,0,0,0,,{TIME:1141828,1143205}I'll take you on!{NOTE:僕が相手だ！}
+Dialogue: 0,0:19:03.20,0:19:04.45,Default,Nariki,0,0,0,,{TIME:1143205,1144456}I'll go with you!{NOTE:自分もいくっす！}
+Dialogue: 0,0:19:07.95,0:19:09.50,Default,Hyoro,0,0,0,,{TIME:1147959,1149503}So strong…{NOTE:強い。}
+Dialogue: 0,0:19:09.50,0:19:10.50,Default,Mille,0,0,0,,{TIME:1149503,1150504}What to do?{NOTE:どうする？}
+Dialogue: 0,0:19:10.50,0:19:12.21,Default,Mille,0,0,0,,{TIME:1150504,1152214}We can't take him on with the three of us…{NOTE:３人でもかなわないなんて…}
+Dialogue: 0,0:19:13.13,0:19:14.88,Default,Nariki,0,0,0,,{TIME:1153131,1154883}I have an idea.{NOTE:自分に考えがあるっす。}
+Dialogue: 0,0:19:14.88,0:19:15.50,Default,Mille,0,0,0,,{TIME:1154883,1155509}Eh?{NOTE:えっ？}
+Dialogue: 0,0:19:17.51,0:19:20.88,Default,Wrath,0,0,0,,{TIME:1157511,1160889}Come on and give your Kinship Stones nicely!{NOTE:さあおとなしく絆石を渡すんだな！}
+Dialogue: 0,0:19:24.68,0:19:26.68,Default,Wrath,0,0,0,,{TIME:1164685,1166687}Huh?! I won't let you escape!{NOTE:だあ～逃げるな！}
+Dialogue: 0,0:19:30.85,0:19:31.73,Default,Great Poogie,0,0,0,,{TIME:1170857,1171733}Oink…?{NOTE:すぴ～…}
+Dialogue: 0,0:19:33.23,0:19:35.69,Default,Debli,0,0,0,,{TIME:1173235,1175696}Where are the others?{NOTE:他のやつらはどこにいるんだ？}
+Dialogue: 0,0:19:36.44,0:19:37.40,Default,Debli,0,0,0,,{TIME:1176446,1177406}Huh?{NOTE:あれ？}
+Dialogue: 0,0:19:37.40,0:19:39.90,Default,Debli,0,0,0,,{TIME:1177406,1179908}They were behind me…{NOTE:あいつら俺の後ろにいたのか。}
+Dialogue: 0,0:19:39.90,0:19:42.53,Default,Debli,0,0,0,,{TIME:1179908,1182536}Which means I'm the first?!{NOTE:ってことは！俺トップ!?}
+Dialogue: 0,0:19:44.32,0:19:45.03,Default,Debli,0,0,0,,{TIME:1184329,1185038}Huh?{NOTE:あれ？}
+Dialogue: 0,0:19:45.78,0:19:47.62,Default,Debli,0,0,0,,{TIME:1185789,1187624}Did we have another contestant?{NOTE:もう一人いたのか？}
+Dialogue: 0,0:19:49.62,0:19:50.37,Default,Great Poogie,0,0,0,,{TIME:1189626,1190377}Oink…{NOTE:ブッ…}
+Dialogue: 0,0:19:51.25,0:19:54.67,Default,Great Poogie,0,0,0,,{TIME:1191253,1194673}Oink!!{NOTE:ピ～ギャ～！}
+Dialogue: 0,0:19:52.12,0:19:54.67,Default,Debli,0,0,0,,{TIME:1192129,1194673}Where are you off to again, you crazy pig?!{NOTE:バカどこ行くんだよ～！}
+Dialogue: 0,0:19:53.88,0:19:56.50,Sign,,0,0,0,,{TIME:1193880,1196508}Do not run in the middle of the course!{NOTE:コースの真ん中を走るなかれ！}
+Dialogue: 0,0:19:56.88,0:19:59.38,Default,Nariki,0,0,0,,{TIME:1196883,1199386}We can't run in the middle of the course!{NOTE:コースの真ん中走るのは駄目っすよ！}
+Dialogue: 0,0:19:59.38,0:20:01.01,Default,Hyoro,0,0,0,,{TIME:1199386,1201012}Got it.{NOTE:分かった。}
+Dialogue: 0,0:20:01.01,0:20:02.88,Default,Mille,0,0,0,,{TIME:1201012,1202889}It should be okay if one doesn't run!{NOTE:走らなければいいんでしょ！}
+Dialogue: 0,0:20:07.47,0:20:08.89,Default,Wrath,0,0,0,,{TIME:1207477,1208895}Give up already!{NOTE:諦めろ！}
+Dialogue: 0,0:20:08.89,0:20:10.43,Default,Wrath,0,0,0,,{TIME:1208895,1210439}It's a cliff ahead!{NOTE:この先は崖だ！}
+Dialogue: 0,0:20:13.56,0:20:15.40,Default,Wrath,0,0,0,,{TIME:1213567,1215402}A pitfall!?{NOTE:落とし穴だと!?}
+Dialogue: 0,0:20:15.40,0:20:17.36,Default,Nariki,0,0,0,,{TIME:1215402,1217362}Go~!{NOTE:いっけぇ～！}
+Dialogue: 0,0:20:18.94,0:20:22.20,Default,Nariki,0,0,0,,{TIME:1218947,1222200}Veloci-slash!{NOTE:ドスラッシュ！}
+Dialogue: 0,0:20:24.57,0:20:26.87,Default,Mille,0,0,0,,{TIME:1224578,1226872}Shooting Star!{NOTE:シューティングスター！}
+Dialogue: 0,0:20:31.75,0:20:33.54,Default,Hyoro,0,0,0,,{TIME:1231752,1233545}Cross High Bolt!{NOTE:クロスハイボルト！}
+Dialogue: 0,0:20:41.01,0:20:42.26,Default,Hyoro,0,0,0,,{TIME:1241011,1242262}Did we get him?{NOTE:やった…？}
+Dialogue: 0,0:20:42.26,0:20:45.09,Default,Mille,0,0,0,,{TIME:1242262,1245098}I'd like to ask him some questions.{NOTE:取っ捕まえて色々聞き出してやる。}
+Dialogue: 0,0:20:45.09,0:20:45.80,Default,Nariki,0,0,0,,{TIME:1245098,1245807}Oh?{NOTE:ん？}
+Dialogue: 0,0:20:48.14,0:20:51.43,Default,Wrath,0,0,0,,{TIME:1248143,1251438}You're not getting out of it.{NOTE:お前ら絶対許さねえ…}
+Dialogue: 0,0:20:51.43,0:20:53.94,Default,Mille,0,0,0,,{TIME:1251438,1253940}No way! How can he still stand after that!?{NOTE:嘘!?まだ立てるの!?}
+Dialogue: 0,0:20:53.94,0:20:55.81,Default,Nariki,0,0,0,,{TIME:1253940,1255817}He still wants to fight us?{NOTE:まだ戦う気っすか？}
+Dialogue: 0,0:21:01.07,0:21:03.07,Default,Wrath,0,0,0,,{TIME:1261072,1263074}So hungry…{NOTE:腹減った…}
+Dialogue: 0,0:21:03.70,0:21:05.03,Default,Wrath,0,0,0,,{TIME:1263700,1265035}Time for a gastronomical retreat…{NOTE:今日は帰る…}
+Dialogue: 0,0:21:05.03,0:21:05.95,Default,Hyoro,0,0,0,,{TIME:1265035,1265952}Fa-thud.{NOTE:ズコッ！}
+Dialogue: 0,0:21:05.95,0:21:09.62,Default,Wrath,0,0,0,,{TIME:1265952,1269623}But I'll get your Kinship Stones next time for sure!{NOTE:だが次は必ずお前らの絆石を頂くぜ！}
+Dialogue: 0,0:21:17.54,0:21:20.50,Default,Nariki,0,0,0,,{TIME:1277547,1280509}We… won?{NOTE:自分たち勝ったっすか？}
+Dialogue: 0,0:21:20.50,0:21:21.38,Default,Nariki,0,0,0,,{TIME:1280509,1281384}Yeah.{NOTE:うん。}
+Dialogue: 0,0:21:21.38,0:21:22.96,Default,Mille,0,0,0,,{TIME:1281384,1282969}Your strategy won, Nariki.{NOTE:ナリキの作戦勝ちよ。}
+Dialogue: 0,0:21:22.96,0:21:24.26,Default,Nariki,0,0,0,,{TIME:1282969,1284262}Really?!{NOTE:マジっすか!?}
+Dialogue: 0,0:21:24.26,0:21:26.76,Default,Nariki,0,0,0,,{TIME:1284262,1286765}All right!{NOTE:うう…やった～！}
+Dialogue: 0,0:21:27.26,0:21:28.51,Default,Mille,0,0,0,,{TIME:1287265,1288517}But, Nariki…{NOTE:でも、ナリキ！}
+Dialogue: 0,0:21:28.51,0:21:30.47,Default,Mille,0,0,0,,{TIME:1288517,1290477}The race is still on!{NOTE:レースはまだ終わってないわよ！}
+Dialogue: 0,0:21:30.47,0:21:31.93,Default,Hyoro,0,0,0,,{TIME:1290477,1291937}Well said!{NOTE:そういうこと！}
+Dialogue: 0,0:21:31.93,0:21:34.52,Default,Nariki,0,0,0,,{TIME:1291937,1294523}Hey, wa— that's not fair!{NOTE:えっちょっ…！ずるいっすよ～！}
+Dialogue: 0,0:21:36.35,0:21:37.48,Default,Beats,0,0,0,,{TIME:1296358,1297484}Whoa!{NOTE:おっと！}
+Dialogue: 0,0:21:37.48,0:21:40.40,Default,Beats,0,0,0,,{TIME:1297484,1300403}Monsties and Riders finally are back!{NOTE:ついにオトモンとライダーたちが帰ってきた！}
+Dialogue: 0,0:21:40.40,0:21:43.53,Default,Beats,0,0,0,,{TIME:1300403,1303532}Who's the first one to cross the goal!?{NOTE:最初にゴールするのは誰だ～!?}
 Dialogue: 0,0:21:44.44,0:21:47.11,Default,(unison),0,0,0,,{TIME:1304449,1307118}{NOTE:うおーっ！}
-Dialogue: 0,0:21:47.11,0:21:49.99,Default,Debli,0,0,0,,{TIME:1307118,1309996}{NOTE:うわああ～！止まってくれぇぇ～！}
-Dialogue: 0,0:21:49.99,0:21:50.66,Default,(mixed),0,0,0,,{TIME:1309996,1310664}{NOTE:えっ!?}
-Dialogue: 0,0:21:50.99,0:21:55.21,Default,Beats,0,0,0,,{TIME:1310997,1315210}{NOTE:何と！ここでデブリ選手が先頭に躍り出た！}
-Dialogue: 0,0:21:55.21,0:21:58.21,Default,Beats,0,0,0,,{TIME:1315210,1318213}{NOTE:そしてそのままゴ～ル！}
-Dialogue: 0,0:21:59.21,0:22:01.21,Default,Beats,0,0,0,,{TIME:1319214,1321216}{NOTE:最後の最後に勝ったのは…}
-Dialogue: 0,0:22:01.21,0:22:03.17,Default,Beats,0,0,0,,{TIME:1321216,1323176}{NOTE:…デブリだぁぁ～！}
-Dialogue: 0,0:22:03.17,0:22:04.26,Default,Debli,0,0,0,,{TIME:1323176,1324261}{NOTE:えっ？}
-Dialogue: 0,0:22:04.26,0:22:05.38,Default,Debli,0,0,0,,{TIME:1324261,1325387}{NOTE:俺１位？}
-Dialogue: 0,0:22:05.38,0:22:06.17,Default,Debli,0,0,0,,{TIME:1325387,1326179}{NOTE:マジで!?}
-Dialogue: 0,0:22:06.17,0:22:07.97,Default,Debli,0,0,0,,{TIME:1326179,1327973}{NOTE:やったぜ～！}
-Dialogue: 0,0:22:07.97,0:22:13.01,Default,Debli,0,0,0,,{TIME:1327973,1333019}{NOTE:豪華賞品は俺が頂きだ～！よっしゃ～！}
-Dialogue: 0,0:22:13.01,0:22:14.39,Default,Mille,0,0,0,,{TIME:1333019,1334396}{NOTE:嘘でしょ…}
-Dialogue: 0,0:22:20.36,0:22:21.48,Default,Dan,0,0,0,,{TIME:1340360,1341486}{NOTE:何っ!?}
-Dialogue: 0,0:22:21.48,0:22:23.57,Default,Dan,0,0,0,,{TIME:1341486,1343572}{NOTE:ブラックライダーズが襲ってきた!?}
-Dialogue: 0,0:22:23.57,0:22:24.82,Default,Nariki,0,0,0,,{TIME:1343572,1344823}{NOTE:はいっす。}
-Dialogue: 0,0:22:24.82,0:22:27.11,Default,Hyoro,0,0,0,,{TIME:1344823,1347117}{NOTE:何とか退けたけど…}
-Dialogue: 0,0:22:27.11,0:22:29.11,Default,Mille,0,0,0,,{TIME:1347117,1349119}{NOTE:まともに戦ったら…}
-Dialogue: 0,0:22:29.11,0:22:32.12,Default,Nariki,0,0,0,,{TIME:1349119,1352122}{NOTE:やっぱりもっと強くならないと…}
-Dialogue: 0,0:22:32.12,0:22:34.29,Default,Nariki,0,0,0,,{TIME:1352122,1354291}{NOTE:アユリアさん助けられないっす。}
-Dialogue: 0,0:22:36.75,0:22:37.83,Default,Lute,0,0,0,,{TIME:1356751,1357836}{NOTE:おーい！}
-Dialogue: 0,0:22:37.83,0:22:38.42,Default,(unison),0,0,0,,{TIME:1357836,1358420}{NOTE:—え？—ん？}
-Dialogue: 0,0:22:38.79,0:22:40.29,Default,Lute,0,0,0,,{TIME:1358795,1360297}{NOTE:みんな～！}
-Dialogue: 0,0:22:40.29,0:22:41.67,Default,Hyoro,0,0,0,,{TIME:1360297,1361673}{NOTE:リュート先輩!?}
-Dialogue: 0,0:22:42.54,0:22:43.92,Default,Mille,0,0,0,,{TIME:1362549,1363925}{NOTE:シュヴァルも！}
-Dialogue: 0,0:22:44.50,0:22:47.13,Default,Lute,0,0,0,,{TIME:1364509,1367137}{NOTE:オトモンレースやるって手紙もらったんだけど。}
-Dialogue: 0,0:22:47.67,0:22:48.55,Default,Cheval,0,0,0,,{TIME:1367679,1368555}{NOTE:うん。}
-Dialogue: 0,0:22:48.55,0:22:50.09,Default,Cheval,0,0,0,,{TIME:1368555,1370098}{NOTE:俺にも届いた。}
-Dialogue: 0,0:22:50.09,0:22:52.22,Default,Lute,0,0,0,,{TIME:1370098,1372225}{NOTE:さあ、やろうぜ！レース！}
-Dialogue: 0,0:22:54.01,0:22:57.06,Default,Dan,0,0,0,,{TIME:1374019,1377063}{NOTE:レースなら…ついさっき終わったぞ。}
-Dialogue: 0,0:22:58.14,0:23:00.40,Default,(unison),0,0,0,,{TIME:1378148,1380400}{NOTE:—ええ～っ!?—ええ～っ!?}
-Dialogue: 0,0:23:01.44,0:23:02.69,Default,Debli,0,0,0,,{TIME:1381443,1382694}{NOTE:ああ？}
-Dialogue: 0,0:23:04.23,0:23:10.41,Default,Omna,0,0,0,,{TIME:1384237,1390410}{NOTE:さあ。賞品として栄えある一日村長の権利を与えよう。}
-Dialogue: 0,0:23:10.41,0:23:13.07,Default,Debli,0,0,0,,{TIME:1390410,1393079}{NOTE:やった～！}
-Dialogue: 0,0:23:14.49,0:23:16.70,Default,Debli,0,0,0,,{TIME:1394497,1396708}{NOTE:…って一日村長？}
-Dialogue: 0,0:23:16.70,0:23:18.54,Default,Geezer A,0,0,0,,{TIME:1396708,1398543}{NOTE:光栄なことじゃぞ。}
-Dialogue: 0,0:23:18.54,0:23:20.75,Default,Geezer B,0,0,0,,{TIME:1398543,1400754}{NOTE:雑用係ともいうがの。}
-Dialogue: 0,0:23:20.75,0:23:22.33,Default,Omna,0,0,0,,{TIME:1400754,1402339}{NOTE:お掃除セットじゃ。}
-Dialogue: 0,0:23:22.33,0:23:23.29,Default,Debli,0,0,0,,{TIME:1402339,1403298}{NOTE:なっ!?}
-Dialogue: 0,0:23:23.29,0:23:26.96,Default,Debli,0,0,0,,{TIME:1403298,1406968}{NOTE:何だよそれぇぇ～！}
+Dialogue: 0,0:21:47.11,0:21:49.99,Default,Debli,0,0,0,,{TIME:1307118,1309996}Ah!! Slow down!{NOTE:うわああ～！止まってくれぇぇ～！}
+Dialogue: 0,0:21:49.99,0:21:50.66,Default,(mixed),0,0,0,,{TIME:1309996,1310664}Eh?!{NOTE:えっ!?}
+Dialogue: 0,0:21:50.99,0:21:55.21,Default,Beats,0,0,0,,{TIME:1310997,1315210}What! Contestant Debli is leading!{NOTE:何と！ここでデブリ選手が先頭に躍り出た！}
+Dialogue: 0,0:21:55.21,0:21:58.21,Default,Beats,0,0,0,,{TIME:1315210,1318213}And… he crosses the goal line!{NOTE:そしてそのままゴ～ル！}
+Dialogue: 0,0:21:59.21,0:22:01.21,Default,Beats,0,0,0,,{TIME:1319214,1321216}He was last but now he's first. A round of applause for…{NOTE:最後の最後に勝ったのは…}
+Dialogue: 0,0:22:01.21,0:22:03.17,Default,Beats,0,0,0,,{TIME:1321216,1323176}Debli!{NOTE:…デブリだぁぁ～！}
+Dialogue: 0,0:22:03.17,0:22:04.26,Default,Debli,0,0,0,,{TIME:1323176,1324261}Eh?{NOTE:えっ？}
+Dialogue: 0,0:22:04.26,0:22:05.38,Default,Debli,0,0,0,,{TIME:1324261,1325387}I'm first?{NOTE:俺１位？}
+Dialogue: 0,0:22:05.38,0:22:06.17,Default,Debli,0,0,0,,{TIME:1325387,1326179}For real?!{NOTE:マジで!?}
+Dialogue: 0,0:22:06.17,0:22:07.97,Default,Debli,0,0,0,,{TIME:1326179,1327973}All right!{NOTE:やったぜ～！}
+Dialogue: 0,0:22:07.97,0:22:13.01,Default,Debli,0,0,0,,{TIME:1327973,1333019}Glorious prize, here I come!{NOTE:豪華賞品は俺が頂きだ～！よっしゃ～！}
+Dialogue: 0,0:22:13.01,0:22:14.39,Default,Mille,0,0,0,,{TIME:1333019,1334396}I can't believe it…{NOTE:嘘でしょ…}
+Dialogue: 0,0:22:20.36,0:22:21.48,Default,Dan,0,0,0,,{TIME:1340360,1341486}What?{NOTE:何っ!?}
+Dialogue: 0,0:22:21.48,0:22:23.57,Default,Dan,0,0,0,,{TIME:1341486,1343572}You were attacked by an Ebon Rider!?{NOTE:ブラックライダーズが襲ってきた!?}
+Dialogue: 0,0:22:23.57,0:22:24.82,Default,Nariki,0,0,0,,{TIME:1343572,1344823}Yes.{NOTE:はいっす。}
+Dialogue: 0,0:22:24.82,0:22:27.11,Default,Hyoro,0,0,0,,{TIME:1344823,1347117}We got him to retreat somehow.{NOTE:何とか退けたけど…}
+Dialogue: 0,0:22:27.11,0:22:29.11,Default,Mille,0,0,0,,{TIME:1347117,1349119}If we were to face him again…{NOTE:まともに戦ったら…}
+Dialogue: 0,0:22:29.11,0:22:32.12,Default,Nariki,0,0,0,,{TIME:1349119,1352122}We really have to get stronger.{NOTE:やっぱりもっと強くならないと…}
+Dialogue: 0,0:22:32.12,0:22:34.29,Default,Nariki,0,0,0,,{TIME:1352122,1354291}Otherwise we won't be able to save Avinia.{NOTE:アユリアさん助けられないっす。}
+Dialogue: 0,0:22:36.75,0:22:37.83,Default,Lute,0,0,0,,{TIME:1356751,1357836}Hey!{NOTE:おーい！}
+Dialogue: 0,0:22:37.83,0:22:38.42,Default,(unison),0,0,0,,{TIME:1357836,1358420}Oh?{NOTE:—え？\\N—ん？}
+Dialogue: 0,0:22:38.79,0:22:40.29,Default,Lute,0,0,0,,{TIME:1358795,1360297}Guys!{NOTE:みんな～！}
+Dialogue: 0,0:22:40.29,0:22:41.67,Default,Hyoro,0,0,0,,{TIME:1360297,1361673}Lute?{NOTE:リュート先輩!?}
+Dialogue: 0,0:22:42.54,0:22:43.92,Default,Mille,0,0,0,,{TIME:1362549,1363925}Cheval too?{NOTE:シュヴァルも！}
+Dialogue: 0,0:22:44.50,0:22:47.13,Default,Lute,0,0,0,,{TIME:1364509,1367137}I got a letter that Monstie Races are to be held again.{NOTE:オトモンレースやるって手紙もらったんだけど。}
+Dialogue: 0,0:22:47.67,0:22:48.55,Default,Cheval,0,0,0,,{TIME:1367679,1368555}Yeah.{NOTE:うん。}
+Dialogue: 0,0:22:48.55,0:22:50.09,Default,Cheval,0,0,0,,{TIME:1368555,1370098}It reached me as well.{NOTE:俺にも届いた。}
+Dialogue: 0,0:22:50.09,0:22:52.22,Default,Lute,0,0,0,,{TIME:1370098,1372225}All right, let's race!{NOTE:さあ、やろうぜ！レース！}
+Dialogue: 0,0:22:54.01,0:22:57.06,Default,Dan,0,0,0,,{TIME:1374019,1377063}The race… has just ended.{NOTE:レースなら…ついさっき終わったぞ。}
+Dialogue: 0,0:22:58.14,0:23:00.40,Default,(unison),0,0,0,,{TIME:1378148,1380400}Eh!?{NOTE:—ええ～っ!?\\N—ええ～っ!?}
+Dialogue: 0,0:23:01.44,0:23:02.69,Default,Debli,0,0,0,,{TIME:1381443,1382694}Huh…?{NOTE:ああ？}
+Dialogue: 0,0:23:04.23,0:23:10.41,Default,Omna,0,0,0,,{TIME:1384237,1390410}All right. As a prize, you get to be the village mayor for a day.{NOTE:さあ。賞品として栄えある一日村長の権利を与えよう。}
+Dialogue: 0,0:23:10.41,0:23:13.07,Default,Debli,0,0,0,,{TIME:1390410,1393079}All right!{NOTE:やった～！}
+Dialogue: 0,0:23:14.49,0:23:16.70,Default,Debli,0,0,0,,{TIME:1394497,1396708}…village mayor for a day?{NOTE:…って一日村長？}
+Dialogue: 0,0:23:16.70,0:23:18.54,Default,Geezer A,0,0,0,,{TIME:1396708,1398543}It's a great honor.{NOTE:光栄なことじゃぞ。}
+Dialogue: 0,0:23:18.54,0:23:20.75,Default,Geezer B,0,0,0,,{TIME:1398543,1400754}It's also a great duty full of odd jobs.{NOTE:雑用係ともいうがの。}
+Dialogue: 0,0:23:20.75,0:23:22.33,Default,Omna,0,0,0,,{TIME:1400754,1402339}Here, take this cleaning set.{NOTE:お掃除セットじゃ。}
+Dialogue: 0,0:23:22.33,0:23:23.29,Default,Debli,0,0,0,,{TIME:1402339,1403298}Ah!?{NOTE:なっ!?}
+Dialogue: 0,0:23:23.29,0:23:26.96,Default,Debli,0,0,0,,{TIME:1403298,1406968}What the heck is this?!{NOTE:何だよそれぇぇ～！}
 Comment: 0,0:23:26.96,0:23:26.96,Default,Chapter,0,0,0,,{TIME:1406967,1406967}#Black screen
 Comment: 0,0:23:28.97,0:23:28.97,Default,Chapter,0,0,0,,{TIME:1408970,1408970}Preview
-Dialogue: 0,0:23:29.88,0:23:31.76,Default,Navirou,80,80,80,,{TIME:1409888,1411765}{NOTE:諸君！ナビルーだ！}
-Dialogue: 0,0:23:31.76,0:23:36.26,Default,Navirou,80,80,80,,{TIME:1411765,1416269}{NOTE:ナビルーたちナンバーズにあのイチビッツがお願い事をしに来たぞ。}
-Dialogue: 0,0:23:36.26,0:23:39.81,Default,Navirou,80,80,80,,{TIME:1416269,1419814}{NOTE:聞いてほしけりゃドーナツ1,000個持ってこ～い！}
-Dialogue: 0,0:23:39.81,0:23:43.98,Default,Navirou,80,80,80,,{TIME:1419814,1423985}{NOTE:次回｢復活？ﾏﾈﾙｶﾞｰ博士！｣にﾗｲﾄﾞｵﾝ！}
+Dialogue: 0,0:23:29.88,0:23:31.76,Default,Navirou,80,80,80,,{TIME:1409888,1411765}Ladies and gentlemen, it's Navirou!{NOTE:諸君！ナビルーだ！}
+Dialogue: 0,0:23:31.76,0:23:36.26,Default,Navirou,80,80,80,,{TIME:1411765,1416269}That Itsy-Bits came to ask Navirou about the Numbers.{NOTE:ナビルーたちナンバーズにあのイチビッツがお願い事をしに来たぞ。}
+Dialogue: 0,0:23:36.26,0:23:39.81,Default,Navirou,80,80,80,,{TIME:1416269,1419814}If I want answers, bring me 1,000 donuts!{NOTE:聞いてほしけりゃドーナツ1,000個持ってこ～い！}
+Dialogue: 0,0:23:39.81,0:23:43.98,Default,Navirou,80,80,80,,{TIME:1419814,1423985}Next time:\N"The Revival of Doctor Manelger?" Ride On!{NOTE:次回｢復活？ﾏﾈﾙｶﾞｰ博士！｣にﾗｲﾄﾞｵﾝ！}
 Comment: 0,0:23:43.98,0:23:43.98,Default,Chapter,0,0,0,,{TIME:1423985,1423985}#Sponsors
