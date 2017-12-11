@@ -22,8 +22,8 @@ Style: Episode,Chinacat,50.0,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,Chapter,0,0,0,,{TIME:0,0}#Sponsors
-Comment: 0,0:00:03.02,0:00:03.02,Default,Chapter,0,0,0,,{TIME:3020,3020}Intro
+Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}#Sponsors
+Comment: 0,0:00:03.02,0:00:03.02,Default,[chapter],0,0,0,,{TIME:3020,3020}Intro
 Dialogue: 0,0:00:04.19,0:00:06.31,Default,Narrator,80,80,80,,{TIME:4190,6310}These kids are called Riders.{NOTE:少年たちはライダー。}
 Dialogue: 0,0:00:06.31,0:00:09.69,Default,Narrator,80,80,80,,{TIME:6310,9690}And they form kinship with monsters.{NOTE:モンスターと絆を結びし者たちである。}
 Dialogue: 0,0:00:09.69,0:00:14.07,Default,Narrator,80,80,80,,{TIME:9690,14070}One day, Avinia was suddenly kidnapped.{NOTE:ある日突然仲間のアユリアがさらわれてしまった。}
@@ -49,66 +49,66 @@ Dialogue: 0,0:01:19.97,0:01:22.06,Default,Debli,0,0,0,,{TIME:79970,82060}I'm goi
 Dialogue: 0,0:01:22.06,0:01:24.18,Default,Debli,0,0,0,,{TIME:82060,84180}Ah… wait a second.{NOTE:あっ…おや？}
 Dialogue: 0,0:01:24.18,0:01:26.14,Default,Debli,0,0,0,,{TIME:84180,86140}Where's Avinia again?{NOTE:アユリアってどこにいるんだ？}
 Dialogue: 0,0:01:27.35,0:01:32.03,Default,Narrator,0,0,0,,{TIME:87350,92030}Can Debli really save Avinia!?{NOTE:果たしてデブリはアユリアを助け出すことができるのか!?}
-Comment: 0,0:01:32.03,0:01:32.03,Default,Chapter,0,0,0,,{TIME:92030,92030}Opening
-Dialogue: 0,0:01:35.29,0:01:42.72,Default,Title,0,0,0,,{TIME:95290,102720}{\fad(2500,0)}Monster Hunter Stories: Ride On{NOTE:モンスターハンターストーリーズ：RIDEON}
-Dialogue: 0,0:01:45.89,0:01:49.19,OP/ED Romaji,,0,0,0,,{TIME:105890,109190}{\k40}Bo{\k20}ku{\k20}ra {\k43}kyou {\k20}mo {\k16}i{\k20}ki{\k23}te{\k20}i{\k106}ru
-Dialogue: 0,0:01:49.19,0:01:52.42,OP/ED Romaji,,0,0,0,,{TIME:109190,112420}{\k30}Bo{\k20}ku{\k23}ra {\k40}kyou {\k23}mo {\k20}wa{\k30}ra{\k26}tte{\k110}ru
-Dialogue: 0,0:01:52.42,0:01:56.92,OP/ED Romaji,,0,0,0,,{TIME:112420,116920}{\k26}So{\k20}re {\k19}da{\k23}ke {\k16}de {\k40}mou {\k40}na{\k40}ni{\k36}mo {\k43}i{\k63}ra{\k26}na{\k53}i
-Dialogue: 0,0:01:56.92,0:01:58.79,OP/ED Romaji,,0,0,0,,{TIME:116920,118790}{\k20}I{\k16}ma {\k23}su{\k20}gu {\k16}ni {\k43}RIDE {\k46}ON
-Dialogue: 0,0:01:58.79,0:02:02.09,OP/ED Romaji,,0,0,0,,{TIME:118790,122090}{\k30}Bo{\k23}ku{\k16}ra {\k43}su{\k20}gu {\k23}ni {\k16}mo{\k20}to{\k20}me{\k116}ru
-Dialogue: 0,0:02:02.09,0:02:05.29,OP/ED Romaji,,0,0,0,,{TIME:122090,125290}{\k20}Yo{\k23}ku{\k20}ba{\k36}ri{\k23}na {\k16}i{\k26}ki{\k20}mo{\k23}no {\k110}sa
-Dialogue: 0,0:02:05.29,0:02:11.32,OP/ED Romaji,,0,0,0,,{TIME:125290,131320}{\k23}Na{\k20}ni{\k20}mo {\k16}mo{\k20}ta{\k23}zu{\k20}ni {\k38}u{\k42}ma{\k40}re{\k20}te{\k19}ki{\k57}ta {\k22}no {\k220}ni
-Dialogue: 0,0:02:11.32,0:02:13.09,OP/ED Romaji,,0,0,0,,{TIME:131320,133090}{\k24}Shi{\k30}a{\k33}wa{\k46}se {\k43}wa
-Dialogue: 0,0:02:13.09,0:02:16.16,OP/ED Romaji,,0,0,0,,{TIME:133090,136160}{\k26}So{\k20}ba {\k20}ni {\k36}a{\k36}tte {\k23}chi{\k20}ka{\k20}ku {\k20}ni {\k40}a{\k43}tte
-Dialogue: 0,0:02:16.16,0:02:19.56,OP/ED Romaji,,0,0,0,,{TIME:136160,139560}{\k16}Ta{\k16}i{\k23}se{\k23}tsu{\k16}na {\k20}mo{\k20}no {\k23}ho{\k20}do {\k16}mi{\k20}e{\k20}na{\k20}ku{\k23}na{\k20}ru {\k20}ke{\k20}do
-Dialogue: 0,0:02:19.56,0:02:20.86,OP/ED Romaji,,0,0,0,,{TIME:139560,140860}{\k30}Kan{\k23}sha {\k43}shi{\k23}te
-Dialogue: 0,0:02:20.86,0:02:25.89,OP/ED Romaji,,0,0,0,,{TIME:140860,145890}{\k30}Na{\k16}ni {\k20}ga {\k20}o{\k20}ki{\k36}ta{\k23}tte {\k20}wa{\k36}ka{\k23}tte {\k16}ku{\k40}re{\k36}ru {\k66}hi{\k23}to {\k73}he
-Dialogue: 0,0:02:25.89,0:02:28.89,OP/ED Romaji,,0,0,0,,{TIME:145890,148890}{\k23}Da{\k20}re {\k20}ni {\k40}da{\k40}tte {\k23}ni{\k16}ge{\k16}ta{\k23}ku{\k40}na{\k36}tte
-Dialogue: 0,0:02:28.89,0:02:32.32,OP/ED Romaji,,0,0,0,,{TIME:148890,152320}{\k23}Ji{\k36}bun {\k20}wo {\k23}mi{\k16}u{\k23}shi{\k20}na{\k13}i{\k46}sou {\k20}ni {\k16}na{\k23}ru {\k20}ke{\k40}do
-Dialogue: 0,0:02:32.32,0:02:40.29,OP/ED Romaji,,0,0,0,,{TIME:152320,160290}{\k56}A{\k23}i {\k60}wa {\k20}ka{\k56}na{\k23}ra{\k60}zu {\k23}ki{\k36}mi {\k35}no {\k47}ko{\k36}ko{\k53}ro {\k29}ni {\k50}a{\k29}ru {\k146}yo
-Dialogue: 0,0:02:40.29,0:02:45.52,OP/ED Romaji,,0,0,0,,{TIME:160290,165520}{\k43}Bo{\k36}ku{\k40}ra {\k83}i{\k40}ssho {\k60}ni {\k16}a{\k23}ru{\k16}i{\k26}te{\k13}i{\k40}kou {\k83}yo
-Dialogue: 0,0:02:45.52,0:02:51.12,OP/ED Romaji,,0,0,0,,{TIME:165520,171120}{\k20}O{\k20}na{\k53}ji {\k23}so{\k20}ra {\k16}no {\k26}shi{\k56}ta {\k20}o{\k20}na{\k36}ji {\k23}so{\k23}ra {\k20}wo {\k20}mi{\k20}a{\k40}ge{\k19}na{\k20}ga{\k60}ra
-Dialogue: 0,0:02:51.12,0:02:56.19,OP/ED Romaji,,0,0,0,,{TIME:171120,176190}{\k16}U{\k20}tsu{\k23}ku{\k36}shi{\k20}i {\k33}i{\k26}ro {\k23}no {\k26}ki{\k33}zu{\k20}na {\k26}ka{\k30}zo{\k23}e{\k60}te{\k20}i{\k66}you
-Dialogue: 0,0:02:56.19,0:02:59.42,OP/ED Romaji,,0,0,0,,{TIME:176190,179420}{\k56}Shi{\k33}a{\k30}wa{\k50}se {\k46}wa {\k30}i{\k43}tsu{\k33}mo
-Dialogue: 0,0:02:59.42,0:03:02.52,OP/ED Romaji,,0,0,0,,{TIME:179420,182520}{\k26}So{\k23}ba {\k20}ni {\k40}a{\k36}tte {\k23}chi{\k20}ka{\k23}ku {\k20}ni {\k33}a{\k43}tte
-Dialogue: 0,0:03:02.52,0:03:05.92,OP/ED Romaji,,0,0,0,,{TIME:182520,185920}{\k20}Ta{\k10}i{\k26}se{\k23}tsu{\k20}na {\k20}mo{\k20}no {\k23}ho{\k20}do {\k16}mi{\k20}e{\k23}na{\k20}ku{\k16}na{\k20}ru {\k20}ke{\k20}do
-Dialogue: 0,0:03:05.92,0:03:07.32,OP/ED Romaji,,0,0,0,,{TIME:185920,187320}{\k33}Kan{\k20}sha {\k46}shi{\k40}te
-Dialogue: 0,0:03:07.32,0:03:12.36,OP/ED Romaji,,0,0,0,,{TIME:187320,192360}{\k23}Na{\k20}ni {\k16}ga {\k20}o{\k20}ki{\k40}ta{\k20}tte {\k20}wa{\k36}ka{\k23}tte{\k20}ku{\k43}re{\k33}ru {\k60}hi{\k23}to {\k83}he
-Dialogue: 0,0:03:12.36,0:03:15.29,OP/ED Romaji,,0,0,0,,{TIME:192360,195290}{\k20}Da{\k20}re {\k20}ni {\k30}da{\k46}tte {\k20}ni{\k23}ge{\k16}ta{\k20}ku{\k40}na{\k23}tte
-Dialogue: 0,0:03:15.29,0:03:18.76,OP/ED Romaji,,0,0,0,,{TIME:195290,198760}{\k26}Ji{\k36}bun {\k23}wo {\k16}mi{\k13}u{\k30}shi{\k20}na{\k13}i{\k46}sou {\k16}ni {\k20}na{\k20}ru {\k23}ke{\k40}do
-Dialogue: 0,0:03:18.76,0:03:26.69,OP/ED Romaji,,0,0,0,,{TIME:198760,206690}{\k56}A{\k20}i {\k60}wa {\k20}ka{\k56}na{\k23}ra{\k60}zu {\k23}ki{\k40}mi {\k36}no {\k36}ko{\k40}ko{\k60}ro {\k26}ni {\k56}a{\k23}ru {\k153}yo
-Dialogue: 0,0:03:26.69,0:03:31.97,OP/ED Romaji,,0,0,0,,{TIME:206690,211970}{\fad(0,400)\k46}Bo{\k36}ku{\k43}ra {\k80}i{\k40}ssho {\k56}ni {\k13}a{\k30}ru{\k20}i{\k16}te{\k20}i{\k43}kou {\k123}yo
-Dialogue: 0,0:01:45.89,0:01:49.19,OP/ED English,,0,0,0,,{TIME:105890,109190}We are still living today{NOTE:僕ら今日も生きている}
-Dialogue: 0,0:01:49.19,0:01:52.42,OP/ED English,,0,0,0,,{TIME:109190,112420}We are still laughing today{NOTE:僕ら今日も笑ってる}
-Dialogue: 0,0:01:52.42,0:01:56.92,OP/ED English,,0,0,0,,{TIME:112420,116920}We don't need anything more{NOTE:それだけでもう何もいらない}
-Dialogue: 0,0:01:56.92,0:01:58.79,OP/ED English,,0,0,0,,{TIME:116920,118790}Just RIDE ON{NOTE:今すぐRIDEON}
-Dialogue: 0,0:01:58.79,0:02:02.09,OP/ED English,,0,0,0,,{TIME:118790,122090}We're quick to want{NOTE:僕らすぐに求める}
-Dialogue: 0,0:02:02.09,0:02:05.29,OP/ED English,,0,0,0,,{TIME:122090,125290}This feeling is only natural{NOTE:欲張りな生き物さ}
-Dialogue: 0,0:02:05.29,0:02:11.32,OP/ED English,,0,0,0,,{TIME:125290,131320}We're born without anything after all{NOTE:何も持たずに生まれてきたのに}
-Dialogue: 0,0:02:11.32,0:02:13.09,OP/ED English,,0,0,0,,{TIME:131320,133090}Happiness is{NOTE:幸せは}
-Dialogue: 0,0:02:13.09,0:02:16.16,OP/ED English,,0,0,0,,{TIME:133090,136160}To be by your side, to be close to you{NOTE:そばにあって　近くにあって}
-Dialogue: 0,0:02:16.16,0:02:19.56,OP/ED English,,0,0,0,,{TIME:136160,139560}Not to lose sight of what is really important{NOTE:大切なものほど見えなくなるけど}
-Dialogue: 0,0:02:19.56,0:02:20.86,OP/ED English,,0,0,0,,{TIME:139560,140860}To be grateful{NOTE:感謝して}
-Dialogue: 0,0:02:20.86,0:02:25.89,OP/ED English,,0,0,0,,{TIME:140860,145890}To the person who understands no matter what happens{NOTE:何が起きたって分かってくれる人へ}
-Dialogue: 0,0:02:25.89,0:02:28.89,OP/ED English,,0,0,0,,{TIME:145890,148890}Everyone is afraid{NOTE:誰にだって　逃げたくなって}
-Dialogue: 0,0:02:28.89,0:02:32.32,OP/ED English,,0,0,0,,{TIME:148890,152320}To lose sight of oneself{NOTE:自分を見失いそうになるけど}
-Dialogue: 0,0:02:32.32,0:02:40.29,OP/ED English,,0,0,0,,{TIME:152320,160290}But you will surely find love in your heart{NOTE:愛は必ず君の心にあるよ}
-Dialogue: 0,0:02:40.29,0:02:45.52,OP/ED English,,0,0,0,,{TIME:160290,165520}Come walk with us{NOTE:僕ら一緒に歩いていこうよ}
-Dialogue: 0,0:02:45.52,0:02:51.12,OP/ED English,,0,0,0,,{TIME:165520,171120}We're under the same sky, we look at the same stars{NOTE:同じ空のした　同じ空を見上げながら}
-Dialogue: 0,0:02:51.12,0:02:56.19,OP/ED English,,0,0,0,,{TIME:171120,176190}Let's keep this beautifully colored bond{NOTE:美しい色の絆　数えていよう}
-Dialogue: 0,0:02:56.19,0:02:59.42,OP/ED English,,0,0,0,,{TIME:176190,179420}Happiness is forever{NOTE:幸せはいつも}
-Dialogue: 0,0:02:59.42,0:03:02.52,OP/ED English,,0,0,0,,{TIME:179420,182520}To be by your side, to be close to you{NOTE:そばにあって　近くにあって}
-Dialogue: 0,0:03:02.52,0:03:05.92,OP/ED English,,0,0,0,,{TIME:182520,185920}Not to lose sight of what is really important{NOTE:大切なものほど見えなくなるけど}
-Dialogue: 0,0:03:05.92,0:03:07.32,OP/ED English,,0,0,0,,{TIME:185920,187320}To be grateful{NOTE:感謝して}
-Dialogue: 0,0:03:07.32,0:03:12.36,OP/ED English,,0,0,0,,{TIME:187320,192360}To the person who understands no matter what happens{NOTE:何が起きたって分かってくれるひとへ}
-Dialogue: 0,0:03:12.36,0:03:15.29,OP/ED English,,0,0,0,,{TIME:192360,195290}Everyone is afraid{NOTE:誰にだって　逃げたくなって}
-Dialogue: 0,0:03:15.29,0:03:18.76,OP/ED English,,0,0,0,,{TIME:195290,198760}Of losing sight of oneself{NOTE:自分を見失いそうになるけど}
-Dialogue: 0,0:03:18.76,0:03:26.69,OP/ED English,,0,0,0,,{TIME:198760,206690}But you will surely find love in your heart{NOTE:愛は必ず君の心にあるよ}
-Dialogue: 0,0:03:26.69,0:03:31.97,OP/ED English,,0,0,0,,{TIME:206690,211970}{\fad(0,400)}Come walk with us{NOTE:僕ら一緒に歩いていこうよ}
-Comment: 0,0:03:34.02,0:03:34.02,Default,Chapter,0,0,0,,{TIME:214020,214020}#Sponsors
-Comment: 0,0:03:49.04,0:03:49.04,Default,Chapter,0,0,0,,{TIME:229040,229040}#Black screen
-Comment: 0,0:03:51.04,0:03:51.04,Default,Chapter,0,0,0,,{TIME:231040,231040}Part A
-Dialogue: 0,0:03:51.54,0:03:56.54,Episode,Title,0,0,0,,{TIME:231540,236540}{\pos(680,470)\fad(600,1000)}\NEpisode 54\N"For Avinia!"{NOTE:第５４話\\Nアユリアの為に！}
+Comment: 0,0:01:32.03,0:01:32.03,Default,[chapter],0,0,0,,{TIME:92030,92030}Opening
+Dialogue: 0,0:01:35.29,0:01:42.72,Default,[title],0,0,0,,{TIME:95290,102720}{\fad(2500,0)}Monster Hunter Stories: Ride On{NOTE:モンスターハンターストーリーズ：RIDEON}
+Dialogue: 0,0:01:45.89,0:01:49.19,OP/ED Romaji,[karaoke],0,0,0,,{TIME:105890,109190}{\k40}Bo{\k20}ku{\k20}ra {\k43}kyou {\k20}mo {\k16}i{\k20}ki{\k23}te{\k20}i{\k106}ru
+Dialogue: 0,0:01:49.19,0:01:52.42,OP/ED Romaji,[karaoke],0,0,0,,{TIME:109190,112420}{\k30}Bo{\k20}ku{\k23}ra {\k40}kyou {\k23}mo {\k20}wa{\k30}ra{\k26}tte{\k110}ru
+Dialogue: 0,0:01:52.42,0:01:56.92,OP/ED Romaji,[karaoke],0,0,0,,{TIME:112420,116920}{\k26}So{\k20}re {\k19}da{\k23}ke {\k16}de {\k40}mou {\k40}na{\k40}ni{\k36}mo {\k43}i{\k63}ra{\k26}na{\k53}i
+Dialogue: 0,0:01:56.92,0:01:58.79,OP/ED Romaji,[karaoke],0,0,0,,{TIME:116920,118790}{\k20}I{\k16}ma {\k23}su{\k20}gu {\k16}ni {\k43}RIDE {\k46}ON
+Dialogue: 0,0:01:58.79,0:02:02.09,OP/ED Romaji,[karaoke],0,0,0,,{TIME:118790,122090}{\k30}Bo{\k23}ku{\k16}ra {\k43}su{\k20}gu {\k23}ni {\k16}mo{\k20}to{\k20}me{\k116}ru
+Dialogue: 0,0:02:02.09,0:02:05.29,OP/ED Romaji,[karaoke],0,0,0,,{TIME:122090,125290}{\k20}Yo{\k23}ku{\k20}ba{\k36}ri{\k23}na {\k16}i{\k26}ki{\k20}mo{\k23}no {\k110}sa
+Dialogue: 0,0:02:05.29,0:02:11.32,OP/ED Romaji,[karaoke],0,0,0,,{TIME:125290,131320}{\k23}Na{\k20}ni{\k20}mo {\k16}mo{\k20}ta{\k23}zu{\k20}ni {\k38}u{\k42}ma{\k40}re{\k20}te{\k19}ki{\k57}ta {\k22}no {\k220}ni
+Dialogue: 0,0:02:11.32,0:02:13.09,OP/ED Romaji,[karaoke],0,0,0,,{TIME:131320,133090}{\k24}Shi{\k30}a{\k33}wa{\k46}se {\k43}wa
+Dialogue: 0,0:02:13.09,0:02:16.16,OP/ED Romaji,[karaoke],0,0,0,,{TIME:133090,136160}{\k26}So{\k20}ba {\k20}ni {\k36}a{\k36}tte {\k23}chi{\k20}ka{\k20}ku {\k20}ni {\k40}a{\k43}tte
+Dialogue: 0,0:02:16.16,0:02:19.56,OP/ED Romaji,[karaoke],0,0,0,,{TIME:136160,139560}{\k16}Ta{\k16}i{\k23}se{\k23}tsu{\k16}na {\k20}mo{\k20}no {\k23}ho{\k20}do {\k16}mi{\k20}e{\k20}na{\k20}ku{\k23}na{\k20}ru {\k20}ke{\k20}do
+Dialogue: 0,0:02:19.56,0:02:20.86,OP/ED Romaji,[karaoke],0,0,0,,{TIME:139560,140860}{\k30}Kan{\k23}sha {\k43}shi{\k23}te
+Dialogue: 0,0:02:20.86,0:02:25.89,OP/ED Romaji,[karaoke],0,0,0,,{TIME:140860,145890}{\k30}Na{\k16}ni {\k20}ga {\k20}o{\k20}ki{\k36}ta{\k23}tte {\k20}wa{\k36}ka{\k23}tte {\k16}ku{\k40}re{\k36}ru {\k66}hi{\k23}to {\k73}he
+Dialogue: 0,0:02:25.89,0:02:28.89,OP/ED Romaji,[karaoke],0,0,0,,{TIME:145890,148890}{\k23}Da{\k20}re {\k20}ni {\k40}da{\k40}tte {\k23}ni{\k16}ge{\k16}ta{\k23}ku{\k40}na{\k36}tte
+Dialogue: 0,0:02:28.89,0:02:32.32,OP/ED Romaji,[karaoke],0,0,0,,{TIME:148890,152320}{\k23}Ji{\k36}bun {\k20}wo {\k23}mi{\k16}u{\k23}shi{\k20}na{\k13}i{\k46}sou {\k20}ni {\k16}na{\k23}ru {\k20}ke{\k40}do
+Dialogue: 0,0:02:32.32,0:02:40.29,OP/ED Romaji,[karaoke],0,0,0,,{TIME:152320,160290}{\k56}A{\k23}i {\k60}wa {\k20}ka{\k56}na{\k23}ra{\k60}zu {\k23}ki{\k36}mi {\k35}no {\k47}ko{\k36}ko{\k53}ro {\k29}ni {\k50}a{\k29}ru {\k146}yo
+Dialogue: 0,0:02:40.29,0:02:45.52,OP/ED Romaji,[karaoke],0,0,0,,{TIME:160290,165520}{\k43}Bo{\k36}ku{\k40}ra {\k83}i{\k40}ssho {\k60}ni {\k16}a{\k23}ru{\k16}i{\k26}te{\k13}i{\k40}kou {\k83}yo
+Dialogue: 0,0:02:45.52,0:02:51.12,OP/ED Romaji,[karaoke],0,0,0,,{TIME:165520,171120}{\k20}O{\k20}na{\k53}ji {\k23}so{\k20}ra {\k16}no {\k26}shi{\k56}ta {\k20}o{\k20}na{\k36}ji {\k23}so{\k23}ra {\k20}wo {\k20}mi{\k20}a{\k40}ge{\k19}na{\k20}ga{\k60}ra
+Dialogue: 0,0:02:51.12,0:02:56.19,OP/ED Romaji,[karaoke],0,0,0,,{TIME:171120,176190}{\k16}U{\k20}tsu{\k23}ku{\k36}shi{\k20}i {\k33}i{\k26}ro {\k23}no {\k26}ki{\k33}zu{\k20}na {\k26}ka{\k30}zo{\k23}e{\k60}te{\k20}i{\k66}you
+Dialogue: 0,0:02:56.19,0:02:59.42,OP/ED Romaji,[karaoke],0,0,0,,{TIME:176190,179420}{\k56}Shi{\k33}a{\k30}wa{\k50}se {\k46}wa {\k30}i{\k43}tsu{\k33}mo
+Dialogue: 0,0:02:59.42,0:03:02.52,OP/ED Romaji,[karaoke],0,0,0,,{TIME:179420,182520}{\k26}So{\k23}ba {\k20}ni {\k40}a{\k36}tte {\k23}chi{\k20}ka{\k23}ku {\k20}ni {\k33}a{\k43}tte
+Dialogue: 0,0:03:02.52,0:03:05.92,OP/ED Romaji,[karaoke],0,0,0,,{TIME:182520,185920}{\k20}Ta{\k10}i{\k26}se{\k23}tsu{\k20}na {\k20}mo{\k20}no {\k23}ho{\k20}do {\k16}mi{\k20}e{\k23}na{\k20}ku{\k16}na{\k20}ru {\k20}ke{\k20}do
+Dialogue: 0,0:03:05.92,0:03:07.32,OP/ED Romaji,[karaoke],0,0,0,,{TIME:185920,187320}{\k33}Kan{\k20}sha {\k46}shi{\k40}te
+Dialogue: 0,0:03:07.32,0:03:12.36,OP/ED Romaji,[karaoke],0,0,0,,{TIME:187320,192360}{\k23}Na{\k20}ni {\k16}ga {\k20}o{\k20}ki{\k40}ta{\k20}tte {\k20}wa{\k36}ka{\k23}tte{\k20}ku{\k43}re{\k33}ru {\k60}hi{\k23}to {\k83}he
+Dialogue: 0,0:03:12.36,0:03:15.29,OP/ED Romaji,[karaoke],0,0,0,,{TIME:192360,195290}{\k20}Da{\k20}re {\k20}ni {\k30}da{\k46}tte {\k20}ni{\k23}ge{\k16}ta{\k20}ku{\k40}na{\k23}tte
+Dialogue: 0,0:03:15.29,0:03:18.76,OP/ED Romaji,[karaoke],0,0,0,,{TIME:195290,198760}{\k26}Ji{\k36}bun {\k23}wo {\k16}mi{\k13}u{\k30}shi{\k20}na{\k13}i{\k46}sou {\k16}ni {\k20}na{\k20}ru {\k23}ke{\k40}do
+Dialogue: 0,0:03:18.76,0:03:26.69,OP/ED Romaji,[karaoke],0,0,0,,{TIME:198760,206690}{\k56}A{\k20}i {\k60}wa {\k20}ka{\k56}na{\k23}ra{\k60}zu {\k23}ki{\k40}mi {\k36}no {\k36}ko{\k40}ko{\k60}ro {\k26}ni {\k56}a{\k23}ru {\k153}yo
+Dialogue: 0,0:03:26.69,0:03:31.97,OP/ED Romaji,[karaoke],0,0,0,,{TIME:206690,211970}{\fad(0,400)\k46}Bo{\k36}ku{\k43}ra {\k80}i{\k40}ssho {\k56}ni {\k13}a{\k30}ru{\k20}i{\k16}te{\k20}i{\k43}kou {\k123}yo
+Dialogue: 0,0:01:45.89,0:01:49.19,OP/ED English,[karaoke],0,0,0,,{TIME:105890,109190}We are still living today{NOTE:僕ら今日も生きている}
+Dialogue: 0,0:01:49.19,0:01:52.42,OP/ED English,[karaoke],0,0,0,,{TIME:109190,112420}We are still laughing today{NOTE:僕ら今日も笑ってる}
+Dialogue: 0,0:01:52.42,0:01:56.92,OP/ED English,[karaoke],0,0,0,,{TIME:112420,116920}We don't need anything more{NOTE:それだけでもう何もいらない}
+Dialogue: 0,0:01:56.92,0:01:58.79,OP/ED English,[karaoke],0,0,0,,{TIME:116920,118790}Just RIDE ON{NOTE:今すぐRIDEON}
+Dialogue: 0,0:01:58.79,0:02:02.09,OP/ED English,[karaoke],0,0,0,,{TIME:118790,122090}We're quick to want{NOTE:僕らすぐに求める}
+Dialogue: 0,0:02:02.09,0:02:05.29,OP/ED English,[karaoke],0,0,0,,{TIME:122090,125290}This feeling is only natural{NOTE:欲張りな生き物さ}
+Dialogue: 0,0:02:05.29,0:02:11.32,OP/ED English,[karaoke],0,0,0,,{TIME:125290,131320}We're born without anything after all{NOTE:何も持たずに生まれてきたのに}
+Dialogue: 0,0:02:11.32,0:02:13.09,OP/ED English,[karaoke],0,0,0,,{TIME:131320,133090}Happiness is{NOTE:幸せは}
+Dialogue: 0,0:02:13.09,0:02:16.16,OP/ED English,[karaoke],0,0,0,,{TIME:133090,136160}To be by your side, to be close to you{NOTE:そばにあって　近くにあって}
+Dialogue: 0,0:02:16.16,0:02:19.56,OP/ED English,[karaoke],0,0,0,,{TIME:136160,139560}Not to lose sight of what is really important{NOTE:大切なものほど見えなくなるけど}
+Dialogue: 0,0:02:19.56,0:02:20.86,OP/ED English,[karaoke],0,0,0,,{TIME:139560,140860}To be grateful{NOTE:感謝して}
+Dialogue: 0,0:02:20.86,0:02:25.89,OP/ED English,[karaoke],0,0,0,,{TIME:140860,145890}To the person who understands no matter what happens{NOTE:何が起きたって分かってくれる人へ}
+Dialogue: 0,0:02:25.89,0:02:28.89,OP/ED English,[karaoke],0,0,0,,{TIME:145890,148890}Everyone is afraid{NOTE:誰にだって　逃げたくなって}
+Dialogue: 0,0:02:28.89,0:02:32.32,OP/ED English,[karaoke],0,0,0,,{TIME:148890,152320}To lose sight of oneself{NOTE:自分を見失いそうになるけど}
+Dialogue: 0,0:02:32.32,0:02:40.29,OP/ED English,[karaoke],0,0,0,,{TIME:152320,160290}But you will surely find love in your heart{NOTE:愛は必ず君の心にあるよ}
+Dialogue: 0,0:02:40.29,0:02:45.52,OP/ED English,[karaoke],0,0,0,,{TIME:160290,165520}Come walk with us{NOTE:僕ら一緒に歩いていこうよ}
+Dialogue: 0,0:02:45.52,0:02:51.12,OP/ED English,[karaoke],0,0,0,,{TIME:165520,171120}We're under the same sky, we look at the same stars{NOTE:同じ空のした　同じ空を見上げながら}
+Dialogue: 0,0:02:51.12,0:02:56.19,OP/ED English,[karaoke],0,0,0,,{TIME:171120,176190}Let's keep this beautifully colored bond{NOTE:美しい色の絆　数えていよう}
+Dialogue: 0,0:02:56.19,0:02:59.42,OP/ED English,[karaoke],0,0,0,,{TIME:176190,179420}Happiness is forever{NOTE:幸せはいつも}
+Dialogue: 0,0:02:59.42,0:03:02.52,OP/ED English,[karaoke],0,0,0,,{TIME:179420,182520}To be by your side, to be close to you{NOTE:そばにあって　近くにあって}
+Dialogue: 0,0:03:02.52,0:03:05.92,OP/ED English,[karaoke],0,0,0,,{TIME:182520,185920}Not to lose sight of what is really important{NOTE:大切なものほど見えなくなるけど}
+Dialogue: 0,0:03:05.92,0:03:07.32,OP/ED English,[karaoke],0,0,0,,{TIME:185920,187320}To be grateful{NOTE:感謝して}
+Dialogue: 0,0:03:07.32,0:03:12.36,OP/ED English,[karaoke],0,0,0,,{TIME:187320,192360}To the person who understands no matter what happens{NOTE:何が起きたって分かってくれるひとへ}
+Dialogue: 0,0:03:12.36,0:03:15.29,OP/ED English,[karaoke],0,0,0,,{TIME:192360,195290}Everyone is afraid{NOTE:誰にだって　逃げたくなって}
+Dialogue: 0,0:03:15.29,0:03:18.76,OP/ED English,[karaoke],0,0,0,,{TIME:195290,198760}Of losing sight of oneself{NOTE:自分を見失いそうになるけど}
+Dialogue: 0,0:03:18.76,0:03:26.69,OP/ED English,[karaoke],0,0,0,,{TIME:198760,206690}But you will surely find love in your heart{NOTE:愛は必ず君の心にあるよ}
+Dialogue: 0,0:03:26.69,0:03:31.97,OP/ED English,[karaoke],0,0,0,,{TIME:206690,211970}{\fad(0,400)}Come walk with us{NOTE:僕ら一緒に歩いていこうよ}
+Comment: 0,0:03:34.02,0:03:34.02,Default,[chapter],0,0,0,,{TIME:214020,214020}#Sponsors
+Comment: 0,0:03:49.04,0:03:49.04,Default,[chapter],0,0,0,,{TIME:229040,229040}#Black screen
+Comment: 0,0:03:51.04,0:03:51.04,Default,[chapter],0,0,0,,{TIME:231040,231040}Part A
+Dialogue: 0,0:03:51.54,0:03:56.54,Episode,[title],0,0,0,,{TIME:231540,236540}{\pos(680,470)\fad(600,1000)}\NEpisode 54\N"For Avinia!"{NOTE:第５４話\\Nアユリアの為に！}
 Dialogue: 0,0:03:52.25,0:03:55.46,Default,Debli,0,0,0,,{TIME:232250,235460}Alright, let's try asking people first.{NOTE:よーし、まずは聞き込み捜査だ。}
 Dialogue: 0,0:03:55.46,0:03:58.00,Default,Debli,0,0,0,,{TIME:235460,238000}Have you seen this girl?{NOTE:なあ、この女の子知らないか？}
 Dialogue: 0,0:03:58.00,0:03:59.30,Default,Townfolk,0,0,0,,{TIME:238000,239300}Can't say I have.{NOTE:知らないなぁ。}
@@ -299,13 +299,13 @@ Dialogue: 0,0:12:32.69,0:12:35.23,Default,Riddlemaster,0,0,0,,{TIME:752690,75523
 Dialogue: 0,0:12:35.23,0:12:36.44,Default,Debli,0,0,0,,{TIME:755230,756440}Riddle?{NOTE:なぞなぞ？}
 Dialogue: 0,0:12:36.44,0:12:39.36,Default,Debli,0,0,0,,{TIME:756440,759360}Fine. I'll get any question right!{NOTE:よし。全問正解してみせるぜ！}
 Dialogue: 0,0:12:39.36,0:12:41.03,Default,Debli,0,0,0,,{TIME:759360,761030}For Avinia's sake!{NOTE:アユリアのために！}
-Comment: 0,0:12:41.03,0:12:41.03,Default,Chapter,0,0,0,,{TIME:761030,761030}Eyecatch
+Comment: 0,0:12:41.03,0:12:41.03,Default,[chapter],0,0,0,,{TIME:761030,761030}Eyecatch
 Dialogue: 0,0:12:41.61,0:12:42.74,Default,Lute,0,0,0,,{TIME:761610,762740}Ride On!{NOTE:ライドオン！}
 Dialogue: 0,0:12:43.99,0:12:45.03,Default,Lute,0,0,0,,{TIME:763990,765030}Rathalos!{NOTE:リオレウス！}
-Comment: 0,0:12:45.03,0:12:45.03,Default,Chapter,0,0,0,,{TIME:765030,765030}#Black screen
-Comment: 0,0:12:47.03,0:12:47.03,Default,Chapter,0,0,0,,{TIME:767030,767030}$Eyecatch
+Comment: 0,0:12:45.03,0:12:45.03,Default,[chapter],0,0,0,,{TIME:765030,765030}#Black screen
+Comment: 0,0:12:47.03,0:12:47.03,Default,[chapter],0,0,0,,{TIME:767030,767030}$Eyecatch
 Dialogue: 0,0:12:49.20,0:12:49.99,Default,Navirou,0,0,0,,{TIME:769200,769990}Nya-ow!{NOTE:ニャグゥ！}
-Comment: 0,0:12:51.04,0:12:51.04,Default,Chapter,0,0,0,,{TIME:771040,771040}Part B
+Comment: 0,0:12:51.04,0:12:51.04,Default,[chapter],0,0,0,,{TIME:771040,771040}Part B
 Dialogue: 0,0:12:51.54,0:12:53.71,Default,Riddlemaster,0,0,0,,{TIME:771540,773710}What is it, what is it?{NOTE:な～んダなんダ？}
 Dialogue: 0,0:12:53.71,0:12:56.21,Default,Debli,0,0,0,,{TIME:773710,776210}The answer is Nargacuga.{NOTE:答えはナルガクルガ！}
 Dialogue: 0,0:12:56.21,0:12:57.54,Default,Riddlemaster,0,0,0,,{TIME:776210,777540}Boo-boop.{NOTE:ブッブー。}
@@ -533,11 +533,11 @@ Dialogue: 0,0:23:10.41,0:23:14.28,Default,Fifi,0,0,0,,{TIME:1390410,1394280}If y
 Dialogue: 0,0:23:14.28,0:23:15.33,Default,Debli,0,0,0,,{TIME:1394280,1395330}Avinia.{NOTE:アユリア。}
 Dialogue: 0,0:23:15.33,0:23:18.75,Default,Debli,0,0,0,,{TIME:1395330,1398750}I'll surely get stronger and save you.{NOTE:俺もっと強くなって必ず迎えに行くからな。}
 Dialogue: 0,0:23:18.75,0:23:22.04,Default,Debli,0,0,0,,{TIME:1398750,1402040}Wait for me, my Avinia!{NOTE:待ってろよ俺のアユリアー！}
-Comment: 0,0:23:27.05,0:23:27.05,Default,Chapter,0,0,0,,{TIME:1407050,1407050}#Black screen
-Comment: 0,0:23:29.05,0:23:29.05,Default,Chapter,0,0,0,,{TIME:1409050,1409050}Preview
+Comment: 0,0:23:27.05,0:23:27.05,Default,[chapter],0,0,0,,{TIME:1407050,1407050}#Black screen
+Comment: 0,0:23:29.05,0:23:29.05,Default,[chapter],0,0,0,,{TIME:1409050,1409050}Preview
 Dialogue: 0,0:23:30.22,0:23:31.43,Default,Lute,80,80,80,,{TIME:1410220,1411430}Lute here!{NOTE:俺リュート！}
 Dialogue: 0,0:23:31.43,0:23:34.89,Default,Lute,80,80,80,,{TIME:1411430,1414890}To obtain the new power, I need to meet with Kirin.{NOTE:新しい力を手に入れるためにキリンに会うことに。}
 Dialogue: 0,0:23:34.89,0:23:38.02,Default,Lute,80,80,80,,{TIME:1414890,1418020}Eh? I have to defeat you if I want that power!?{NOTE:えっ？力を得るにはお前を倒さなくちゃいけない!?}
 Dialogue: 0,0:23:38.02,0:23:40.64,Default,Lute,0,80,80,,{TIME:1418020,1420640}No, I don't want to fight you!{NOTE:駄目だお前とは戦えない！}
 Dialogue: 0,0:23:40.64,0:23:43.61,Default,Lute,80,80,80,,{TIME:1420640,1423610}Next time:\N"The Bolt Rathalos!" Ride On!{NOTE:次回｢雷光のレウス｣にライドオン！}
-Comment: 0,0:23:44.06,0:23:44.06,Default,Chapter,0,0,0,,{TIME:1424060,1424060}#Sponsors
+Comment: 0,0:23:44.06,0:23:44.06,Default,[chapter],0,0,0,,{TIME:1424060,1424060}#Sponsors
