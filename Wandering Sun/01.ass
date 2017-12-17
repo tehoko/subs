@@ -5,6 +5,7 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 PlayResY: 288
 ScriptType: v4.00+
+Title: Wandering Sun - 01
 
 [Aegisub Project Garbage]
 Audio File: source/01.mkv
@@ -12,22 +13,22 @@ Video File: source/01.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Montserrat,18.0,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,0.0,2,20,20,20,1
-Style: Karaoke Romaji,Montserrat,18.0,&H00FFFFFF,&H00919191,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,0.0,8,10,10,7,1
-Style: Karaoke English,Montserrat,18.0,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,0.0,2,20,20,7,1
-Style: Sign,Montserrat,18.0,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,0.0,8,20,20,20,1
+Style: Default,DejaVu Sans Condensed,17.0,&H00F8F8F8,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,0.0,2,20,20,20,1
+Style: Karaoke Romaji,JanieHmkBold,18.0,&H00F8F8F8,&H00919191,&H00000000,&H00000000,-1,0,0,0,120.0,100.0,0.0,0.0,1,1.75,0.0,8,10,10,7,1
+Style: Karaoke English,JanieHmkBold,20.0,&H00F8F8F8,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,120.0,100.0,0.0,0.0,1,2.0,0.0,2,20,20,7,1
+Style: Sign,DejaVu Sans Condensed,17.0,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,0.0,8,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Intro
-Dialogue: 0,0:00:01.48,0:00:03.48,Default,Narrator,0,0,0,,{TIME:1481,3482}What if…{NOTE:もしもあなたが…}
-Dialogue: 0,0:00:05.27,0:00:08.53,Default,Narrator,0,0,0,,{TIME:5276,8530}You were to be replaced with another child when you were born?{NOTE:…生まれた時によその子供と取り替えられたら…？}
-Dialogue: 0,0:00:10.74,0:00:14.91,Default,Narrator,0,0,0,,{TIME:10740,14911}This is a story of a young lady born in a luxurious residence…{NOTE:これは豪華な屋敷の子供として生まれながら…}
-Dialogue: 0,0:00:14.91,0:00:17.74,Default,Narrator,0,0,0,,{TIME:14911,17747}…while raised in a poor family.{NOTE:…貧しい家庭に育てられ…}
-Dialogue: 0,0:00:17.74,0:00:19.95,Default,Narrator,0,0,0,,{TIME:17747,19958}Fighting against her fate…{NOTE:…運命と戦いながら…}
-Dialogue: 0,0:00:19.95,0:00:26.13,Default,Narrator,0,0,0,,{TIME:19958,26130}…she's struggling hard to become a singer.{NOTE:…力強く歌手を目指して立ち上がっていく一人の少女の物語です。}
+Dialogue: 0,0:00:01.48,0:00:03.48,Default,Narrator,0,0,0,,{TIME:1481,3482}{\i1}What if…{NOTE:もしもあなたが…}
+Dialogue: 0,0:00:05.27,0:00:08.53,Default,Narrator,0,0,0,,{TIME:5276,8530}{\i1}You were replaced with another child when you were born?{NOTE:…生まれた時によその子供と取り替えられたら…？}
+Dialogue: 0,0:00:10.74,0:00:14.91,Default,Narrator,0,0,0,,{TIME:10740,14911}{\i1}This is a story of a young lady born into a luxurious life…{NOTE:これは豪華な屋敷の子供として生まれながら…}
+Dialogue: 0,0:00:14.91,0:00:17.74,Default,Narrator,0,0,0,,{TIME:14911,17747}{\i1}…while being raised in a poor family.{NOTE:…貧しい家庭に育てられ…}
+Dialogue: 0,0:00:17.74,0:00:19.95,Default,Narrator,0,0,0,,{TIME:17747,19958}{\i1}Fighting against her fate…{NOTE:…運命と戦いながら…}
+Dialogue: 0,0:00:19.95,0:00:26.13,Default,Narrator,0,0,0,,{TIME:19958,26130}{\i1}…she strives to one day become a singer.{NOTE:…力強く歌手を目指して立ち上がっていく一人の少女の物語です。}
 Comment: 0,0:00:28.00,0:00:28.00,Default,[chapter],0,0,0,,{TIME:28006,28006}Opening
-Dialogue: 0,0:00:28.50,0:00:37.97,Default,[title],0,0,0,,{TIME:28508,37976}{\fad(1000,2500)}Wandering Sun
+Dialogue: 0,0:00:28.50,0:00:37.64,Default,[title],0,0,0,,{TIME:28508,37642}{\an8\fnBelligerent Madness\fs30\3c&H202020&\bord2\1c&H204870&\t(3400,4400,\1c&H406890&)\fad(1000,2500)}Wandering {\1c&H2020A0&\alpha&HFF&\t(3400,4400,\alpha&H00&)}Sun
 Dialogue: 0,0:00:38.26,0:00:45.40,Karaoke Romaji,[karaoke],0,0,0,,{TIME:38268,45400}{\k25}Da{\k25}re{\k20}ka {\k91}ni {\k20}fu{\k20}ma{\k25}re{\k133}ta {\k41}no {\k87}no {\k49}ku{\k42}sa {\k129}mo{NOTE:誰かに踏まれた野の草も}
 Dialogue: 0,0:00:45.40,0:00:53.07,Karaoke Romaji,[karaoke],0,0,0,,{TIME:45400,53074}{\k25}I{\k24}tsu{\k100}ka {\k20}so{\k54}ra {\k133}wo {\k44}fu{\k91}ri{\k41}a{\k45}o{\k187}gu{NOTE:いつか空を振り仰ぐ}
 Dialogue: 0,0:00:53.07,0:01:00.03,Karaoke Romaji,[karaoke],0,0,0,,{TIME:53074,60039}{\k37}Na{\k29}mi{\k29}da {\k83}de {\k41}na{\k25}ni{\k108}mo {\k16}mi{\k25}e{\k20}na{\k20}i {\k25}to{\k41}ki {\k25}ni {\k166}mo{NOTE:涙でなにも見えないときにも}
@@ -38,36 +39,37 @@ Dialogue: 0,0:01:22.77,0:01:29.90,Karaoke Romaji,[karaoke],0,0,0,,{TIME:82770,89
 Dialogue: 0,0:01:29.90,0:01:36.90,Karaoke Romaji,[karaoke],0,0,0,,{TIME:89902,96909}{\k25}Wa{\k33}ta{\k29}shi{\k41}ta{\k45}chi {\k175}wa {\k20}i{\k41}ki{\k29}te{\k24}i{\k40}ru {\k29}no {\k171}yo{NOTE:私達は生きているのよ}
 Dialogue: 0,0:01:36.90,0:01:43.87,Karaoke Romaji,[karaoke],0,0,0,,{TIME:96909,103875}{\k36}Sa{\k33}su{\k29}ra{\k75}i {\k41}na{\k29}ga{\k108}ra {\k15}ki{\k25}zu{\k20}tsu{\k30}ki {\k34}na{\k25}ga{\k195}ra{NOTE:さすらいながら傷つきながら}
 Dialogue: 0,0:01:43.87,0:01:58.01,Karaoke Romaji,[karaoke],0,0,0,,{TIME:103875,118014}{\fad(0,500)\k12}A{\k29}shi{\k20}ta {\k25}no {\k20}ta{\k25}i{\k45}you {\k162}wo {\k29}sa{\k33}ga{\k33}shi{\k33}te{\k25}i{\k29}ru {\k337}no{NOTE:明日の太陽をさがしているの}
-Dialogue: 0,0:00:38.26,0:00:45.40,Karaoke English,[karaoke],0,0,0,,{TIME:38268,45400}The grass on the field, stepped on by someone{NOTE:誰かに踏まれた野の草も}
+Dialogue: 0,0:00:38.26,0:00:45.40,Karaoke English,[karaoke],0,0,0,,{TIME:38268,45400}The grass on the field, is stepped on by someone{NOTE:誰かに踏まれた野の草も}
 Dialogue: 0,0:00:45.40,0:00:53.07,Karaoke English,[karaoke],0,0,0,,{TIME:45400,53074}Someday we'll look up to the sky{NOTE:いつか空を振り仰ぐ}
 Dialogue: 0,0:00:53.07,0:01:00.03,Karaoke English,[karaoke],0,0,0,,{TIME:53074,60039}Even when we can't see from the tears{NOTE:涙でなにも見えないときにも}
-Dialogue: 0,0:01:00.03,0:01:07.05,Karaoke English,[karaoke],0,0,0,,{TIME:60039,67055}We are alive{NOTE:私達は生きているのよ}
+Dialogue: 0,0:01:00.03,0:01:07.05,Karaoke English,[karaoke],0,0,0,,{TIME:60039,67055}We are alive!{NOTE:私達は生きているのよ}
 Dialogue: 0,0:01:07.05,0:01:14.05,Karaoke English,[karaoke],0,0,0,,{TIME:67055,74053}While wandering, while wounded{NOTE:さすらいながら傷つきながら}
-Dialogue: 0,0:01:14.05,0:01:22.77,Karaoke English,[karaoke],0,0,0,,{TIME:74053,82770}We are looking for the sun tomorrow{NOTE:明日の太陽をさがしているの}
+Dialogue: 0,0:01:14.05,0:01:22.77,Karaoke English,[karaoke],0,0,0,,{TIME:74053,82770}We are looking for the sun of tomorrow{NOTE:明日の太陽をさがしているの}
 Dialogue: 0,0:01:22.77,0:01:29.90,Karaoke English,[karaoke],0,0,0,,{TIME:82770,89902}Even when we can't see from the tears{NOTE:涙でなにも見えないときにも}
-Dialogue: 0,0:01:29.90,0:01:36.90,Karaoke English,[karaoke],0,0,0,,{TIME:89902,96909}We are alive{NOTE:私達は生きているのよ}
+Dialogue: 0,0:01:29.90,0:01:36.90,Karaoke English,[karaoke],0,0,0,,{TIME:89902,96909}We are alive!{NOTE:私達は生きているのよ}
 Dialogue: 0,0:01:36.90,0:01:43.87,Karaoke English,[karaoke],0,0,0,,{TIME:96909,103875}While wandering, while wounded{NOTE:さすらいながら傷つきながら}
-Dialogue: 0,0:01:43.87,0:01:58.01,Karaoke English,[karaoke],0,0,0,,{TIME:103875,118014}We are looking for the sun tomorrow{NOTE:明日の太陽をさがしているの}
+Dialogue: 0,0:01:43.87,0:01:58.01,Karaoke English,[karaoke],0,0,0,,{TIME:103875,118014}{\fad(0,500)}We are looking for the sun of tomorrow{NOTE:明日の太陽をさがしているの}
 Comment: 0,0:01:58.16,0:01:58.16,Default,[chapter],0,0,0,,{TIME:118160,118160}Part A
-Dialogue: 0,0:01:58.38,0:02:07.10,Sign,(sign),0,0,0,,{TIME:118389,127106}{\fad(1500,1500)}Tonan General Hospital{NOTE:都南総合病院}
-Dialogue: 0,0:02:07.27,0:02:10.31,Default,Nohara Michiko,0,0,0,,{TIME:127273,130318}Everyone is naked when they're born.{NOTE:生まれた時はみんな裸。}
-Dialogue: 0,0:02:10.31,0:02:11.69,Default,Nohara Michiko,0,0,0,,{TIME:130318,131694}Everyone has similar face…{NOTE:同じような顔で…}
-Dialogue: 0,0:02:11.69,0:02:13.27,Default,Nohara Michiko,0,0,0,,{TIME:131694,133279}…and is crying in a similar voice.{NOTE:同じような声で泣いている。}
-Dialogue: 0,0:02:14.19,0:02:18.07,Default,Nohara Michiko,0,0,0,,{TIME:134197,138076}But the moment they leave this room…{NOTE:でもこの新生児室を一歩出たとた…}
-Dialogue: 0,0:02:18.07,0:02:21.28,Default,Nohara Michiko,0,0,0,,{TIME:138076,141287}…each of these newborns meets their own fate.{NOTE:この子たちにそれぞれの運命が待っている。}
-Dialogue: 0,0:02:21.28,0:02:23.33,Default,Nohara Michiko,0,0,0,,{TIME:141287,143331}The only thing that decides that fate…{NOTE:その運命を決めるのは…}
-Dialogue: 0,0:02:23.33,0:02:25.70,Default,Nohara Michiko,0,0,0,,{TIME:143331,145708}…is a small bracelet attached to the foot.{NOTE:…足についた小さな輪。}
-Dialogue: 0,0:02:27.62,0:02:32.54,Default,Nohara Michiko,0,0,0,,{TIME:147627,152548}What if someone were to replace those bracelets?{NOTE:もし誰かのこの名前の書いてある輪を取り替えされたら…}
+Dialogue: 0,0:01:58.18,0:02:07.10,Sign,(sign),0,0,0,,{TIME:118181,127106}{\1c&H000000&\3c&H000000&\t(0,1650,\1c&HE4F0CB&\3c&H24320A&)\fad(0,1500)}Tonan General Hospital{NOTE:都南総合病院}
+Dialogue: 0,0:02:07.27,0:02:10.31,Default,Nohara Michiko,0,0,0,,{TIME:127273,130318}{\i1}Everyone is naked when they're born.{NOTE:生まれた時はみんな裸。}
+Dialogue: 0,0:02:10.31,0:02:11.69,Default,Nohara Michiko,0,0,0,,{TIME:130318,131694}{\i1}Everyone has a similar face…{NOTE:同じような顔で…}
+Dialogue: 0,0:02:11.69,0:02:14.19,Default,Nohara Michiko,0,0,0,,{TIME:131694,134197}{\i1}…and cries in a similar voice.{NOTE:同じような声で泣いている。}
+Dialogue: 0,0:02:14.19,0:02:18.07,Default,Nohara Michiko,0,0,0,,{TIME:134197,138076}{\i1}But the moment they leave this room…{NOTE:でもこの新生児室を一歩出たとた…}
+Dialogue: 0,0:02:18.07,0:02:21.28,Default,Nohara Michiko,0,0,0,,{TIME:138076,141287}{\i1}…each of these newborns will meet their own fate.{NOTE:この子たちにそれぞれの運命が待っている。}
+Dialogue: 0,0:02:21.28,0:02:23.33,Default,Nohara Michiko,0,0,0,,{TIME:141287,143331}{\i1}And the only thing to decide that fate…{NOTE:その運命を決めるのは…}
+Dialogue: 0,0:02:23.33,0:02:25.70,Default,Nohara Michiko,0,0,0,,{TIME:143331,145708}{\i1}…is a small bracelet attached to their foot.{NOTE:…足についた小さな輪。}
+Dialogue: 0,0:02:24.16,0:02:27.16,Sign,(sign),0,0,0,,{TIME:144165,147168}Mine ・ Kōda{NOTE:峰・香田}
+Dialogue: 0,0:02:27.62,0:02:32.54,Default,Nohara Michiko,0,0,0,,{TIME:147627,152548}{\i1}But what if someone were to replace those bracelets?{NOTE:もし誰かのこの名前の書いてある輪を取り替えされたら…}
 Dialogue: 0,0:02:40.72,0:02:47.23,Default,[title],0,0,0,,{TIME:160723,167230}—Episode 01—\NThe Exchange{NOTE:第1話\\Nすりかえられた運命}
-Dialogue: 0,0:02:47.73,0:02:52.73,Default,Narrator,0,0,0,,{TIME:167730,172735}That's exactly how two girls had their fates exchanged without knowing it.{NOTE:他人の手によって取り返しのつかない運命を背負わされた二人の少女。}
-Dialogue: 0,0:02:50.77,0:02:57.24,Sign,(sign),0,0,0,,{TIME:170775,177240}{\fad(1500,0)}Tokyo Metropolitan High School{NOTE:都立明心高等学校}
-Dialogue: 0,0:02:54.02,0:02:58.78,Default,Narrator,0,0,0,,{TIME:174028,178783}This is one of them, Mine Nozomi, 17 years later.{NOTE:その一人峰のぞみの17年後の姿がここにあった。}
-Dialogue: 0,0:03:02.91,0:03:06.24,Default,Unknown teacher A,0,0,0,,{TIME:182912,186249}This concludes the classes in this semester.{NOTE:これで今学期の授業は終了する。}
+Dialogue: 0,0:02:47.73,0:02:52.73,Default,Narrator,0,0,0,,{TIME:167730,172735}{\i1}That's exactly how two girls had their fates exchanged without knowing it.{NOTE:他人の手によって取り返しのつかない運命を背負わされた二人の少女。}
+Dialogue: 0,0:02:50.77,0:02:57.24,Sign,(sign),0,0,0,,{TIME:170775,177240}{\fad(1500,0)}Tōkyō Metropolitan High School{NOTE:都立明心高等学校}
+Dialogue: 0,0:02:54.02,0:02:58.78,Default,Narrator,0,0,0,,{TIME:174028,178783}{\i1}This is one of them, Mine Nozomi, 17 years later.{NOTE:その一人峰のぞみの17年後の姿がここにあった。}
+Dialogue: 0,0:03:02.91,0:03:06.24,Default,Unknown teacher A,0,0,0,,{TIME:182912,186249}And that concludes classes for this semester.{NOTE:これで今学期の授業は終了する。}
 Dialogue: 0,0:03:06.24,0:03:07.16,Default,Unknown teacher A,0,0,0,,{TIME:186249,187166}Mine!{NOTE:峰！}
-Dialogue: 0,0:03:07.16,0:03:08.54,Default,Mine Nozomi,0,0,0,,{TIME:187166,188543}Sir.{NOTE:はい。}
-Dialogue: 0,0:03:08.54,0:03:11.92,Default,Unknown teacher A,0,0,0,,{TIME:188543,191921}You completely surprised me.{NOTE:先生なんだかすっかり勝手が違ったぞ。}
-Dialogue: 0,0:03:12.58,0:03:16.59,Default,Unknown teacher A,0,0,0,,{TIME:192588,196592}You didn't fall asleep until\Nthe end today. It's not like you.{NOTE:お前今日は珍しく最後まで居眠りをしなかったな。}
-Dialogue: 0,0:03:16.59,0:03:19.17,Default,Mine Nozomi,0,0,0,,{TIME:196592,199178}Well, it was my last class after all.{NOTE:だって、最後の授業だったんですもの。}
+Dialogue: 0,0:03:07.16,0:03:08.54,Default,Mine Nozomi,0,0,0,,{TIME:187166,188543}Sir?{NOTE:はい。}
+Dialogue: 0,0:03:08.54,0:03:11.92,Default,Unknown teacher A,0,0,0,,{TIME:188543,191921}This is definitely a surprise.{NOTE:先生なんだかすっかり勝手が違ったぞ。}
+Dialogue: 0,0:03:12.58,0:03:16.59,Default,Unknown teacher A,0,0,0,,{TIME:192588,196592}You didn't fall asleep until the end today.\NThat's not like you at all.{NOTE:お前今日は珍しく最後まで居眠りをしなかったな。}
+Dialogue: 0,0:03:16.59,0:03:19.17,Default,Mine Nozomi,0,0,0,,{TIME:196592,199178}Well, it is my last class, after all.{NOTE:だって、最後の授業だったんですもの。}
 Dialogue: 0,0:03:19.17,0:03:20.01,Default,Unknown student,0,0,0,,{TIME:199178,200012}Something happened?{NOTE:どうかしたのか？}
 Dialogue: 0,0:03:20.01,0:03:21.05,Default,Unknown student,0,0,0,,{TIME:200012,201055}What did you say?{NOTE:え、何だって？}
 Dialogue: 0,0:03:20.34,0:03:22.97,Default,Unknown student,0,0,0,,{TIME:200346,202974}What do you mean?{NOTE:XXX。}
@@ -77,39 +79,39 @@ Dialogue: 0,0:03:29.18,0:03:31.14,Default,Unknown teacher A,0,0,0,,{TIME:209188,
 Dialogue: 0,0:03:31.14,0:03:32.06,Default,Yumemaro,0,0,0,,{TIME:211149,212066}That's awful!{NOTE:酷い！}
 Dialogue: 0,0:03:32.06,0:03:33.31,Default,Yumemaro,0,0,0,,{TIME:212066,213317}It's too much!{NOTE:それはあんまりだ！}
 Dialogue: 0,0:03:33.31,0:03:36.57,Default,Yumemaro,0,0,0,,{TIME:213317,216571}Nozomi-chan quits school? That's a load of bull, Professor!{NOTE:のぞみちゃんが学校辞める何てとんでもないです先生！}
-Dialogue: 0,0:03:36.57,0:03:38.53,Default,Mine Nozomi,0,0,0,,{TIME:216571,218531}Wait a second, Yumemaro-kun.{NOTE:ちょっと待ってよ、夢麿くん。}
+Dialogue: 0,0:03:36.57,0:03:38.53,Default,Mine Nozomi,0,0,0,,{TIME:216571,218531}Just wait a second, Yumemaro-kun.{NOTE:ちょっと待ってよ、夢麿くん。}
 Dialogue: 0,0:03:39.53,0:03:41.82,Default,Unknown teacher A,0,0,0,,{TIME:219532,221826}Mine isn't quitting.{NOTE:峰は学校を辞めるんじゃない。}
 Dialogue: 0,0:03:41.82,0:03:43.11,Default,Unknown teacher A,0,0,0,,{TIME:221826,223119}She's just transferring.{NOTE:転向するだけだ。}
 Dialogue: 0,0:03:43.11,0:03:44.87,Default,Unknown student,0,0,0,,{TIME:223119,224871}S-So where are you going?{NOTE:と、と言うこと、どこへ行くんですか？}
 Dialogue: 0,0:03:44.87,0:03:46.58,Default,Unknown student,0,0,0,,{TIME:224871,226581}Which school?{NOTE:どこの学校へ？}
-Dialogue: 0,0:03:47.45,0:03:49.87,Default,Unknown teacher A,0,0,0,,{TIME:227457,229876}Mine wants to study full day.{NOTE:峰はこの学校の全日制。}
-Dialogue: 0,0:03:49.87,0:03:53.17,Default,Unknown teacher A,0,0,0,,{TIME:229876,233171}She decided to shift to a daytime school.{NOTE:つまり、昼間部することになったんだよ。}
+Dialogue: 0,0:03:47.45,0:03:49.87,Default,Unknown teacher A,0,0,0,,{TIME:227457,229876}Mine wants to study during the day.{NOTE:峰はこの学校の全日制。}
+Dialogue: 0,0:03:49.87,0:03:53.17,Default,Unknown teacher A,0,0,0,,{TIME:229876,233171}So she decided to shift to a daytime school.{NOTE:つまり、昼間部することになったんだよ。}
 Dialogue: 0,0:03:53.17,0:03:54.38,Default,Unknown student,0,0,0,,{TIME:233171,234380}Really?{NOTE:本当！}
-Dialogue: 0,0:03:54.38,0:03:56.13,Default,Unknown student,0,0,0,,{TIME:234380,236132}You should tell us earlier!{NOTE:(XX・と言ってくれなかったもん)。}
+Dialogue: 0,0:03:54.38,0:03:56.13,Default,Unknown student,0,0,0,,{TIME:234380,236132}You should've told us earlier!{NOTE:(XX・と言ってくれなかったもん)。}
 Dialogue: 0,0:03:57.71,0:04:00.38,Default,Mine Nozomi,0,0,0,,{TIME:237717,240386}Thanks for putting up with me all this time.{NOTE:皆さん、長い間お世話になりました。}
 Dialogue: 0,0:04:00.38,0:04:01.13,Default,Mine Nozomi,0,0,0,,{TIME:240386,241137}Thank you.{NOTE:どうも有難う。}
-Dialogue: 0,0:04:09.39,0:04:11.02,Default,Unknown big guy,0,0,0,,{TIME:249395,251022}Hey, Nozomi.{NOTE:おい、のぞみ。}
-Dialogue: 0,0:04:11.02,0:04:13.39,Default,Unknown big guy,0,0,0,,{TIME:251022,253399}Do you think we'll let you off the hook like that?{NOTE:お前このまま大人しく帰れると思ってんのかよ？}
+Dialogue: 0,0:04:09.39,0:04:11.02,Default,Hotta,0,0,0,,{TIME:249395,251022}Hey, Nozomi.{NOTE:おい、のぞみ。}
+Dialogue: 0,0:04:11.02,0:04:13.39,Default,Hotta,0,0,0,,{TIME:251022,253399}Do you think we'll let you off the hook like that?{NOTE:お前このまま大人しく帰れると思ってんのかよ？}
 Dialogue: 0,0:04:14.77,0:04:15.48,Default,Mine Nozomi,0,0,0,,{TIME:254776,255485}Huh?{NOTE:え？}
-Dialogue: 0,0:04:15.48,0:04:17.98,Default,Unknown blonde guy,0,0,0,,{TIME:255485,257987}Whatever, just make sure to show up at the gym later.{NOTE:いいから、体育館まで顔かしな。}
+Dialogue: 0,0:04:15.48,0:04:17.98,Default,Unknown blonde guy,0,0,0,,{TIME:255485,257987}Just make sure to show up at the gym later.{NOTE:いいから、体育館まで顔かしな。}
 Dialogue: 0,0:04:23.53,0:04:24.99,Default,Mine Nozomi,0,0,0,,{TIME:263534,264994}Why are we here?{NOTE:何があるの？}
-Dialogue: 0,0:04:24.99,0:04:26.16,Default,Unknown big guy,0,0,0,,{TIME:264994,266162}Come on in.{NOTE:入れんよ。}
-Dialogue: 0,0:04:26.16,0:04:27.87,Default,Mine Nozomi,0,0,0,,{TIME:266162,267872}It's late and creepy.{NOTE:こんな遅く気味悪いな。}
+Dialogue: 0,0:04:24.99,0:04:26.16,Default,Hotta,0,0,0,,{TIME:264994,266162}Come on, get inside.{NOTE:入れんよ。}
+Dialogue: 0,0:04:26.16,0:04:27.87,Default,Mine Nozomi,0,0,0,,{TIME:266162,267872}But it's late and creepy.{NOTE:こんな遅く気味悪いな。}
 Dialogue: 0,0:04:27.87,0:04:29.99,Default,Unknown blonde guy,0,0,0,,{TIME:267872,269999}Come on, step in.{NOTE:さっさ、入って入って。}
 Dialogue: 0,0:04:31.83,0:04:32.46,Default,Unknown blonde guy,0,0,0,,{TIME:271834,272460}Hehe.{NOTE:へへ。}
-Dialogue: 0,0:04:32.46,0:04:33.00,Default,Mine Nozomi,0,0,0,,{TIME:272460,273002}Ah!{NOTE:あ！}
+Dialogue: 0,0:04:32.46,0:04:33.00,Default,Mine Nozomi,0,0,0,,{TIME:272460,273002}Oh!{NOTE:あ！}
 Dialogue: 0,0:04:39.09,0:04:41.76,Default,Mine Nozomi,0,0,0,,{TIME:279091,281761}Why are you all here?{NOTE:どうしたの？この所に皆さんお揃いで。}
-Dialogue: 0,0:04:42.84,0:04:43.42,Default,Mine Nozomi,0,0,0,,{TIME:282845,283429}Ah!{NOTE:あ！}
-Dialogue: 0,0:04:47.26,0:04:49.89,Default,Unknown goth girl,0,0,0,,{TIME:287266,289894}Why didn't you tell us before you're transferring?{NOTE:どうして今日まで溜まってたのさ？転校するってこと。}
-Dialogue: 0,0:04:50.43,0:04:51.97,Default,Mine Nozomi,0,0,0,,{TIME:290436,291979}Because, you see…{NOTE:だって！}
-Dialogue: 0,0:04:51.97,0:04:55.44,Default,Unknown student,0,0,0,,{TIME:291979,295441}Keeping such important news to yourself is pretty cold!{NOTE:自分だけいい思いをして寒い気持ちだろうよ！}
-Dialogue: 0,0:04:55.44,0:04:58.27,Default,Unknown goth girl,0,0,0,,{TIME:295441,298277}You could tell at least one of us.{NOTE:一ごとぐらい相談したっていいはずよ。}
+Dialogue: 0,0:04:42.84,0:04:43.42,Default,Mine Nozomi,0,0,0,,{TIME:282845,283429}Ah!?{NOTE:あ！}
+Dialogue: 0,0:04:47.26,0:04:49.89,Default,Unknown goth girl,0,0,0,,{TIME:287266,289894}Why didn't you tell us that you were transferring?{NOTE:どうして今日まで溜まってたのさ？転校するってこと。}
+Dialogue: 0,0:04:50.43,0:04:51.97,Default,Mine Nozomi,0,0,0,,{TIME:290436,291979}Because…{NOTE:だって！}
+Dialogue: 0,0:04:51.97,0:04:55.44,Default,Unknown student,0,0,0,,{TIME:291979,295441}Keeping something that important to yourself was pretty cold!{NOTE:自分だけいい思いをして寒い気持ちだろうよ！}
+Dialogue: 0,0:04:55.44,0:04:58.27,Default,Unknown goth girl,0,0,0,,{TIME:295441,298277}You could've told at least one of us.{NOTE:一ごとぐらい相談したっていいはずよ。}
 Dialogue: 0,0:04:58.27,0:04:59.86,Default,Yumemaro,0,0,0,,{TIME:298277,299862}Now, now, guys.{NOTE:ま、ま、ま、ま、皆さん。}
 Dialogue: 0,0:04:59.86,0:05:02.99,Default,Yumemaro,0,0,0,,{TIME:299862,302990}Even me, her closest friend, didn't know about thi—{NOTE:今度のことは側近の私ってさえ知らなかったことですから。}
-Dialogue: 0,0:05:02.99,0:05:04.24,Default,Unknown big guy,0,0,0,,{TIME:302990,304242}Closest friend? You?{NOTE:何が側近だよ？}
-Dialogue: 0,0:05:04.24,0:05:06.03,Default,Unknown big guy,0,0,0,,{TIME:304242,306035}Don't get ahead of yourself, skinny guy.{NOTE:XXXこいつ。}
-Dialogue: 0,0:05:06.03,0:05:07.32,Default,Mine Nozomi,0,0,0,,{TIME:306035,307328}Yumemaro-kun.{NOTE:夢麿くん。}
-Dialogue: 0,0:05:07.32,0:05:08.28,Default,Unknown big guy,0,0,0,,{TIME:307328,308287}Okay, let's do this!{NOTE:やっちまえ！}
+Dialogue: 0,0:05:02.99,0:05:04.24,Default,Hotta,0,0,0,,{TIME:302990,304242}Closest friend? You?{NOTE:何が側近だよ？}
+Dialogue: 0,0:05:04.24,0:05:06.03,Default,Hotta,0,0,0,,{TIME:304242,306035}Don't get ahead of yourself, bean pole.{NOTE:XXXこいつ。}
+Dialogue: 0,0:05:06.03,0:05:07.32,Default,Mine Nozomi,0,0,0,,{TIME:306035,307328}Yumemaro-kun?{NOTE:夢麿くん。}
+Dialogue: 0,0:05:07.32,0:05:08.28,Default,Hotta,0,0,0,,{TIME:307328,308287}Okay, let's do this!{NOTE:やっちまえ！}
 Dialogue: 0,0:05:08.28,0:05:09.45,Default,Unknown blonde guy,0,0,0,,{TIME:308287,309455}Get her!{NOTE:とれよ！}
 Dialogue: 0,0:05:09.45,0:05:10.58,Default,(mixed),0,0,0,,{TIME:309455,310581}Heave-ho!{NOTE:よっほ！}
 Dialogue: 0,0:05:10.58,0:05:11.95,Default,Mine Nozomi,0,0,0,,{TIME:310581,311958}Stop it!{NOTE:止めてよ！}
@@ -120,32 +122,32 @@ Dialogue: 0,0:05:18.54,0:05:20.21,Default,Mine Nozomi,0,0,0,,{TIME:318548,320216
 Dialogue: 0,0:05:24.09,0:05:25.01,Default,Unknown student,0,0,0,,{TIME:324095,325012}Mine Nozomi.{NOTE:峰のぞみ。}
 Dialogue: 0,0:05:25.01,0:05:25.80,Default,Unknown student,0,0,0,,{TIME:325012,325805}Good luck.{NOTE:頑張れよな。}
 Dialogue: 0,0:05:25.80,0:05:27.43,Default,Unknown student,0,0,0,,{TIME:325805,327431}Don't forget us!{NOTE:俺たちを忘れるんじゃねぞ！}
-Dialogue: 0,0:05:27.43,0:05:28.80,Default,Unknown student,0,0,0,,{TIME:327431,328808}Come play with us some time.{NOTE:又遊びに来いよな。}
+Dialogue: 0,0:05:27.43,0:05:28.80,Default,Unknown student,0,0,0,,{TIME:327431,328808}Come visit us some time.{NOTE:又遊びに来いよな。}
 Dialogue: 0,0:05:31.68,0:05:32.85,Default,Unknown student,0,0,0,,{TIME:331686,332854}Good luck.{NOTE:頑張れよ。}
 Dialogue: 0,0:05:32.85,0:05:33.98,Default,Unknown student,0,0,0,,{TIME:332854,333980}Good luck!{NOTE:頑張れよ。}
-Dialogue: 0,0:05:33.98,0:05:37.35,Default,Unknown goth girl,0,0,0,,{TIME:333980,337358}Please remember us by even at your new school.{NOTE:昼間部行ってもたまには私たちのこと思い出してよね。}
+Dialogue: 0,0:05:33.98,0:05:37.35,Default,Unknown goth girl,0,0,0,,{TIME:333980,337358}Please remember us even at your new school.{NOTE:昼間部行ってもたまには私たちのこと思い出してよね。}
 Dialogue: 0,0:05:38.69,0:05:40.82,Default,Mine Nozomi,0,0,0,,{TIME:338693,340820}I'll show it.{NOTE:私見せちゃう。}
 Dialogue: 0,0:05:40.82,0:05:43.32,Default,Mine Nozomi,0,0,0,,{TIME:340820,343322}I didn't want to show it to anyone until now.{NOTE:今まで誰にも見せたくなかったけど。}
 Dialogue: 0,0:05:43.32,0:05:44.99,Default,Mine Nozomi,0,0,0,,{TIME:343322,344991}But I'll show it!{NOTE:思い切って見せちゃう。}
 Dialogue: 0,0:05:45.53,0:05:46.82,Default,Yumemaro,0,0,0,,{TIME:345533,346826}Huh?!{NOTE:え？！}
-Dialogue: 0,0:05:54.20,0:05:56.29,Default,Unknown big guy,0,0,0,,{TIME:354208,356294}You idiot. Don't cry.{NOTE:馬鹿野郎。めそめそ泣くな。}
+Dialogue: 0,0:05:54.20,0:05:56.29,Default,Hotta,0,0,0,,{TIME:354208,356294}You idiot. Don't cry.{NOTE:馬鹿野郎。めそめそ泣くな。}
 Dialogue: 0,0:05:56.96,0:05:58.79,Default,Mine Nozomi,0,0,0,,{TIME:356961,358796}I'm not crying.{NOTE:めそめそじゃないわ。}
 Dialogue: 0,0:06:12.31,0:06:13.56,Default,Yumemaro,0,0,0,,{TIME:372310,373561}Nozomi-chan.{NOTE:のぞみちゃん。}
-Dialogue: 0,0:06:13.56,0:06:16.06,Default,Yumemaro,0,0,0,,{TIME:373561,376063}Let us know when you know where you're seated.{NOTE:席が決まったら私にご一報と。}
-Dialogue: 0,0:06:16.06,0:06:18.14,Default,Yumemaro,0,0,0,,{TIME:376063,378149}We'll polish your desk to shine.{NOTE:机を(XX・ピカピカりしとっ)からよ。}
-Dialogue: 0,0:06:18.85,0:06:20.90,Default,Mine Nozomi,0,0,0,,{TIME:378858,380902}Thanks, Yumemaro-kun.{NOTE:有難う夢麿くん。}
+Dialogue: 0,0:06:13.56,0:06:16.06,Default,Yumemaro,0,0,0,,{TIME:373561,376063}When you know where you're seated, let us know, too.{NOTE:席が決まったら私にご一報と。}
+Dialogue: 0,0:06:16.06,0:06:18.14,Default,Yumemaro,0,0,0,,{TIME:376063,378149}We'll polish your desk till it shines.{NOTE:机を(XX・ピカピカりしとっ)からよ。}
+Dialogue: 0,0:06:18.85,0:06:20.90,Default,Mine Nozomi,0,0,0,,{TIME:378858,380902}Thank you, Yumemaro-kun.{NOTE:有難う夢麿くん。}
 Dialogue: 0,0:06:28.91,0:06:30.82,Default,Unknown goth girl,0,0,0,,{TIME:388910,390828}Idiot, idiot, idiot!{NOTE:馬鹿。馬鹿。馬鹿！}
 Dialogue: 0,0:06:31.70,0:06:33.37,Default,Unknown goth girl,0,0,0,,{TIME:391704,393372}Nozomi, you idiot!{NOTE:のぞみの馬鹿！}
 Dialogue: 0,0:06:34.16,0:06:36.83,Default,(unison),0,0,0,,{TIME:394165,396834}Mine Nozomi, you idiot!{NOTE:峰のぞみの馬鹿野郎！}
 Dialogue: 0,0:06:38.33,0:06:40.00,Default,Unknown student,0,0,0,,{TIME:398336,400004}Good luck.{NOTE:—頑張れよ。\\N—頑張れよ。}
 Dialogue: 0,0:06:40.00,0:06:41.29,Default,Unknown student,0,0,0,,{TIME:400004,401297}Take care.{NOTE:こら、君しっかりしろ。}
 Dialogue: 0,0:06:41.29,0:06:42.38,Default,Unknown student,0,0,0,,{TIME:401297,402381}Be safe!{NOTE:気をつけてよ！}
-Dialogue: 0,0:06:42.38,0:06:44.84,Default,(mixed),0,0,0,,{TIME:402381,404842}– Come see us again!\N– Stay healthy!{NOTE:—又XX！\\N—元気だなのぞみ！}
+Dialogue: 0,0:06:42.38,0:06:44.84,Default,(mixed),0,0,0,,{TIME:402381,404842}– Come see us again!\N– Stay healthy, Nozomi!{NOTE:—又XX！\\N—元気だなのぞみ！}
 Dialogue: 0,0:06:44.84,0:06:46.34,Default,Unknown student,0,0,0,,{TIME:404842,406344}You can come back any time!{NOTE:又遊びに来いよ！}
 Dialogue: 0,0:06:46.34,0:06:47.84,Default,Unknown student,0,0,0,,{TIME:406344,407845}Stay safe!{NOTE:気をつけろ！}
-Dialogue: 0,0:06:50.09,0:06:52.72,Default,Narrator,0,0,0,,{TIME:410097,412725}A mysterious woman, Nohara Michiko.{NOTE:謎を秘めた女野原道子。}
-Dialogue: 0,0:06:52.72,0:06:56.06,Default,Narrator,0,0,0,,{TIME:412725,416062}The other girl that she swapped is Kōda Miki.{NOTE:彼女によってすり替えられたもう一人の少女、香田美紀。}
-Dialogue: 0,0:06:57.85,0:07:01.65,Default,Narrator,0,0,0,,{TIME:417855,421651}What can she possibly want by appearing before her again?{NOTE:再び姿を現し、一体何をしようというのだろうか？}
+Dialogue: 0,0:06:50.09,0:06:52.72,Default,Narrator,0,0,0,,{TIME:410097,412725}{\i1}Then, a mysterious woman, Nohara Michiko…{NOTE:謎を秘めた女野原道子。}
+Dialogue: 0,0:06:52.72,0:06:56.06,Default,Narrator,0,0,0,,{TIME:412725,416062}{\i1}…goes to visit the other girl that she swapped, Kōda Miki.{NOTE:彼女によってすり替えられたもう一人の少女、香田美紀。}
+Dialogue: 0,0:06:57.85,0:07:01.65,Default,Narrator,0,0,0,,{TIME:417855,421651}{\i1}What could she possibly want after all this time?{NOTE:再び姿を現し、一体何をしようというのだろうか？}
 Dialogue: 0,0:07:11.82,0:07:12.66,Default,Kouda Miki,0,0,0,,{TIME:431827,432662}Yes?{NOTE:はい。}
 Dialogue: 0,0:07:12.66,0:07:13.78,Default,Nohara Michiko,0,0,0,,{TIME:432662,433788}Miki-san, right?{NOTE:美紀さんね。}
 Dialogue: 0,0:07:13.78,0:07:14.99,Default,Kouda Miki,0,0,0,,{TIME:433788,434997}And you are…?{NOTE:あなたは？}
@@ -161,16 +163,16 @@ Dialogue: 0,0:07:33.93,0:07:35.22,Default,Nohara Michiko,0,0,0,,{TIME:453933,455
 Dialogue: 0,0:07:35.22,0:07:36.47,Default,Kouda Miki,0,0,0,,{TIME:455226,456477}Hello?{NOTE:もしもし？}
 Dialogue: 0,0:07:36.47,0:07:37.85,Default,Kouda Miki,0,0,0,,{TIME:456477,457853}Hello.{NOTE:もしもし。}
 Dialogue: 0,0:07:38.43,0:07:39.39,Default,Kouda Miki,0,0,0,,{TIME:458437,459397}Hello!{NOTE:もしもし！}
-Dialogue: 0,0:07:42.81,0:07:44.90,Default,Kouda Miki,0,0,0,,{TIME:462817,464902}{\i1}The real me comes to school.{NOTE:本物の私は学校に来る。}
+Dialogue: 0,0:07:42.81,0:07:44.90,Default,Kouda Miki,0,0,0,,{TIME:462817,464902}{\i1}The real me will come to school?{NOTE:本物の私は学校に来る。}
 Dialogue: 0,0:07:46.02,0:07:47.02,Default,Kouda Miki,0,0,0,,{TIME:466028,467029}{\i1}What on earth does that mean?{NOTE:一体何のことだ？}
-Dialogue: 0,0:07:49.86,0:07:55.37,Default,(sign),0,0,0,,{TIME:469865,475371}Tokyo Metropolitan High School{NOTE:都立明心高等学校}
+Dialogue: 0,0:07:49.86,0:07:55.37,Sign,(sign),0,0,0,,{TIME:469865,475371}Tōkyō Metropolitan High School{NOTE:都立明心高等学校}
 Dialogue: 0,0:07:57.79,0:07:59.37,Default,Miki's follower B,0,0,0,,{TIME:477790,479375}Good morning, Kōda-san!{NOTE:おひゃおう香田ちゃん！}
 Dialogue: 0,0:07:59.37,0:08:00.91,Default,Miki's follower A,0,0,0,,{TIME:479375,480918}Big news, big news!{NOTE:大変よ、大変！}
 Dialogue: 0,0:08:00.91,0:08:01.66,Default,Kouda Miki,0,0,0,,{TIME:480918,481669}You don't say.{NOTE:あそう？}
-Dialogue: 0,0:08:01.66,0:08:03.21,Default,Kouda Miki,0,0,0,,{TIME:481669,483212}A transfer student came, right?{NOTE:転校生が来たのね？}
-Dialogue: 0,0:08:03.83,0:08:05.88,Default,Miki's follower B,0,0,0,,{TIME:483838,485881}How did you know?{NOTE:あら、どうしてご存知なの？}
+Dialogue: 0,0:08:01.66,0:08:03.21,Default,Kouda Miki,0,0,0,,{TIME:481669,483212}Let me guess, a transfer student?{NOTE:転校生が来たのね？}
+Dialogue: 0,0:08:03.83,0:08:05.88,Default,Miki's follower B,0,0,0,,{TIME:483838,485881}How'd you know?{NOTE:あら、どうしてご存知なの？}
 Dialogue: 0,0:08:05.88,0:08:07.84,Default,Kouda Miki,0,0,0,,{TIME:485881,487842}What kind of girl is she?{NOTE:ね、どんな子？}
-Dialogue: 0,0:08:07.84,0:08:09.80,Default,Miki's follower A,0,0,0,,{TIME:487842,489802}What kind of girl, huh…{NOTE:どんな子って…}
+Dialogue: 0,0:08:07.84,0:08:09.80,Default,Miki's follower A,0,0,0,,{TIME:487842,489802}What kind…?{NOTE:どんな子って…}
 Dialogue: 0,0:08:09.80,0:08:11.17,Default,Miki's follower A,0,0,0,,{TIME:489802,491178}She's in the classroom.{NOTE:教室にいるけど。}
 Dialogue: 0,0:08:11.17,0:08:12.80,Default,Miki's follower A,0,0,0,,{TIME:491178,492805}She works at an oden stand.{NOTE:おでん屋ですってよ、おでん屋。}
 Dialogue: 0,0:08:14.22,0:08:17.10,Sign,(sign),0,0,0,,{TIME:494225,497101}Mine Nozomi\N1954-12-07{NOTE:峰のぞみ・昭和２９年・7月12日生}
@@ -181,39 +183,39 @@ Dialogue: 0,0:08:23.23,0:08:25.81,Default,Unknown student,0,0,0,,{TIME:503232,50
 Dialogue: 0,0:08:30.74,0:08:34.45,Sign,(sign),0,0,0,,{TIME:510740,514452}{\fad(0,750)}Mine Nozomi\N1954-12-07{NOTE:峰のぞみ・昭和29年・7月12日生}
 Dialogue: 1,0:08:33.61,0:08:37.16,Sign,(sign),0,0,0,,{TIME:513617,517163}{\fad(750,0)}A girl\NBust: 85 Waist: 60 Hips: 88{NOTE:女です\\Nバスト８５\\Nウェスト６０\\Nヒップ８８}
 Dialogue: 0,0:08:40.37,0:08:42.33,Default,Unknown student,0,0,0,,{TIME:520374,522334}We were waiting for you, Miss Waitress!{NOTE:待ってました、おでん屋さん。}
-Dialogue: 0,0:08:42.33,0:08:44.17,Default,Unknown student,0,0,0,,{TIME:522334,524170}I can't see apron anywhere.{NOTE:XXX！}
+Dialogue: 0,0:08:42.33,0:08:44.17,Default,Unknown student,0,0,0,,{TIME:522334,524170}I can't see her apron anywhere.{NOTE:XXX！}
 Dialogue: 0,0:08:44.17,0:08:45.21,Default,Kouda Miki,0,0,0,,{TIME:524170,525212}{\i1}Her…?{NOTE:あの子？}
 Dialogue: 0,0:08:45.21,0:08:47.33,Default,Kouda Miki,0,0,0,,{TIME:525212,527339}{\i1}She's supposed to be the real me?{NOTE:私の本物ですって？}
 Dialogue: 0,0:08:47.33,0:08:48.79,Default,Kouda Miki,0,0,0,,{TIME:527339,528799}{\i1}Don't make me laugh.{NOTE:笑わせるわ。}
-Dialogue: 0,0:08:48.79,0:08:49.71,Default,Unknown teacher B,0,0,0,,{TIME:528799,529717}Silence.{NOTE:静に！}
-Dialogue: 0,0:08:50.92,0:08:54.01,Default,Unknown teacher B,0,0,0,,{TIME:530926,534013}From today on, a new student will come to our class—{NOTE:え、今日から君達と一緒に勉強する—}
-Dialogue: 0,0:08:54.01,0:08:57.26,Default,Mine Nozomi,0,0,0,,{TIME:534013,537266}Seems the introduction is already done.\NThere's just one mistake, though.{NOTE:紹介はもう済んだようです。最も一つだけ違ってますけど。}
+Dialogue: 0,0:08:48.79,0:08:49.71,Default,Unknown teacher B,0,0,0,,{TIME:528799,529717}Silence!{NOTE:静に！}
+Dialogue: 0,0:08:50.92,0:08:54.01,Default,Unknown teacher B,0,0,0,,{TIME:530926,534013}From today on, we'll have\Na new student in our class—{NOTE:え、今日から君達と一緒に勉強する—}
+Dialogue: 0,0:08:54.01,0:08:57.26,Default,Mine Nozomi,0,0,0,,{TIME:534013,537266}It seems the introduction is already done.\NThere's just one mistake, though.{NOTE:紹介はもう済んだようです。最も一つだけ違ってますけど。}
 Dialogue: 0,0:09:11.15,0:09:13.24,Default,Kouda Miki,0,0,0,,{TIME:551155,553240}{\i1}April 12th.?{NOTE:4月12日？}
-Dialogue: 0,0:09:13.24,0:09:14.82,Default,Kouda Miki,0,0,0,,{TIME:553240,554825}{\i1}It's the same as me.{NOTE:私と同じだわ。}
+Dialogue: 0,0:09:13.24,0:09:14.82,Default,Kouda Miki,0,0,0,,{TIME:553240,554825}{\i1}That's the same as me.{NOTE:私と同じだわ。}
 Dialogue: 0,0:09:30.17,0:09:31.67,Default,Kouda Miki,0,0,0,,{TIME:570174,571675}{\i1}It must be a coincidence.{NOTE:偶然だわ。}
-Dialogue: 0,0:09:31.67,0:09:33.05,Default,Kouda Miki,0,0,0,,{TIME:571675,573052}{\i1}It happens all the time.{NOTE:よくあることよ。}
+Dialogue: 0,0:09:31.67,0:09:33.05,Default,Kouda Miki,0,0,0,,{TIME:571675,573052}{\i1}Things like this happens all the time.{NOTE:よくあることよ。}
 Dialogue: 0,0:09:34.09,0:09:35.47,Default,Kouda Miki,0,0,0,,{TIME:574095,575471}{\i1}B-But…{NOTE:で、でも…}
 Dialogue: 0,0:09:37.97,0:09:40.18,Default,Nohara Michiko,0,0,0,,{TIME:577973,580184}{\i1}The real you will transfer in.{NOTE:本物のあなたが転向して来るわ。}
 Dialogue: 0,0:09:48.98,0:09:50.98,Default,Kouda Miki,0,0,0,,{TIME:588984,590986}I'm Kōda Miki.{NOTE:私香田美紀。}
 Dialogue: 0,0:09:51.73,0:09:53.65,Default,Kouda Miki,0,0,0,,{TIME:591737,593656}I was born on April 12th.{NOTE:4月12日生まれた。}
 Dialogue: 0,0:09:53.65,0:09:55.28,Default,Mine Nozomi,0,0,0,,{TIME:593656,595282}Really?{NOTE:本当？}
-Dialogue: 0,0:09:55.28,0:09:56.95,Default,Mine Nozomi,0,0,0,,{TIME:595282,596951}It's the same as me.{NOTE:じゃ、私と同じじゃない？}
-Dialogue: 0,0:09:56.95,0:09:58.99,Default,Mine Nozomi,0,0,0,,{TIME:596951,598994}Let's be friends.{NOTE:仲良くしましょうよ。ね?}
-Dialogue: 0,0:10:00.24,0:10:02.37,Default,Kouda Miki,0,0,0,,{TIME:600246,602373}You greeted me before, however.{NOTE:挨拶は済んでるはずよ。}
+Dialogue: 0,0:09:55.28,0:09:56.95,Default,Mine Nozomi,0,0,0,,{TIME:595282,596951}The same as me?{NOTE:じゃ、私と同じじゃない？}
+Dialogue: 0,0:09:56.95,0:09:58.99,Default,Mine Nozomi,0,0,0,,{TIME:596951,598994}Well then, let's be friends.{NOTE:仲良くしましょうよ。ね?}
+Dialogue: 0,0:10:00.24,0:10:02.37,Default,Kouda Miki,0,0,0,,{TIME:600246,602373}You did speak to me before, though.{NOTE:挨拶は済んでるはずよ。}
 Dialogue: 0,0:10:02.37,0:10:03.74,Default,Kouda Miki,0,0,0,,{TIME:602373,603749}Over the phone, that is.{NOTE:電話でね。}
 Dialogue: 0,0:10:03.74,0:10:04.66,Default,Mine Nozomi,0,0,0,,{TIME:603749,604667}Phone…?{NOTE:電話？}
 Dialogue: 0,0:10:04.66,0:10:07.46,Default,Kouda Miki,0,0,0,,{TIME:604667,607461}I'll say this once. Do not make weird phone calls again.{NOTE:言っておくわ。変な電話なんかもう二度とかけないで。}
-Dialogue: 0,0:10:09.96,0:10:11.00,Default,Mine Nozomi,0,0,0,,{TIME:609964,611006}Kōda-san.{NOTE:香田さん。}
+Dialogue: 0,0:10:09.96,0:10:11.00,Default,Mine Nozomi,0,0,0,,{TIME:609964,611006}Kōda-san!?{NOTE:香田さん。}
 Dialogue: 0,0:10:12.25,0:10:13.67,Default,Mine Nozomi,0,0,0,,{TIME:612258,613676}{\i1}What a weirdo.{NOTE:変な人。}
-Dialogue: 0,0:10:13.67,0:10:15.51,Default,Mine Nozomi,0,0,0,,{TIME:613676,615511}{\i1}What did she mean…?{NOTE:一体どうしたって言うのかしら？}
+Dialogue: 0,0:10:13.67,0:10:15.51,Default,Mine Nozomi,0,0,0,,{TIME:613676,615511}{\i1}What did she even mean…?{NOTE:一体どうしたって言うのかしら？}
 Dialogue: 0,0:10:26.81,0:10:27.60,Default,Mine Nozomi's mom,0,0,0,,{TIME:626814,627606}Huh?{NOTE:え？}
 Dialogue: 0,0:10:27.60,0:10:30.77,Default,Mine Nozomi's mom,0,0,0,,{TIME:627606,630776}So she was born on the same day as you?{NOTE:のぞみと同じ誕生日の子だね。}
-Dialogue: 0,0:10:30.77,0:10:33.98,Default,Mine Nozomi,0,0,0,,{TIME:630776,633988}Yes, but she's a total stuck-up and I couldn't get along with her.{NOTE:それがやったらとツンツンしていてとてもXXXじゃつらいのよ。}
-Dialogue: 0,0:10:35.57,0:10:39.41,Default,Mine Nozomi's mom,0,0,0,,{TIME:635573,639410}Remember her father is president of a big company and yours has a poor little business.{NOTE:それはお前…社長令嬢がおでん屋の娘みたいに…}
+Dialogue: 0,0:10:30.77,0:10:33.98,Default,Mine Nozomi,0,0,0,,{TIME:630776,633988}Yes, but she's totally stuck-up.\NI couldn't even get along with her.{NOTE:それがやったらとツンツンしていてとてもXXXじゃつらいのよ。}
+Dialogue: 0,0:10:35.57,0:10:39.41,Default,Mine Nozomi's mom,0,0,0,,{TIME:635573,639410}Just remember that her father is the president of a big company and yours just has a small business.{NOTE:それはお前…社長令嬢がおでん屋の娘みたいに…}
 Dialogue: 0,0:10:39.41,0:10:41.99,Default,Mine Nozomi's mom,0,0,0,,{TIME:639410,641996}She might not want to be your friend.{NOTE:…ガラガラしてたらおかしいってもんだからね。}
 Dialogue: 0,0:10:42.28,0:10:43.28,Default,Mine Nozomi's little brother,0,0,0,,{TIME:642288,643289}Yeah.{NOTE:そうさ。}
-Dialogue: 0,0:10:43.28,0:10:46.16,Default,Mine Nozomi's little brother,0,0,0,,{TIME:643289,646167}When she laughs, she goes like "fufufu".{NOTE:笑える時だって、XXは「ほほほほ」。}
-Dialogue: 0,0:10:46.16,0:10:48.37,Default,Mine Nozomi's little brother,0,0,0,,{TIME:646167,648377}But sis goes like "bwahaha"!{NOTE:姉ちゃんはこんな「ガラガラガラ」。}
+Dialogue: 0,0:10:43.28,0:10:46.16,Default,Mine Nozomi's little brother,0,0,0,,{TIME:643289,646167}I'll bet when she laughs, she goes like, "fufufu".{NOTE:笑える時だって、XXは「ほほほほ」。}
+Dialogue: 0,0:10:46.16,0:10:48.37,Default,Mine Nozomi's little brother,0,0,0,,{TIME:646167,648377}But Sis goes like "bwahaha"!{NOTE:姉ちゃんはこんな「ガラガラガラ」。}
 Dialogue: 0,0:10:49.75,0:10:50.46,Default,Mine Nozomi,0,0,0,,{TIME:649753,650462}Hey!{NOTE:こら！}
 Dialogue: 0,0:10:50.83,0:10:53.21,Default,TV,0,0,0,,{TIME:650838,653215}{\an8\i1}"Keiko's dream blooms at night".{NOTE:圭子の夢は夜ひらく。}
 Dialogue: 0,0:10:53.21,0:10:58.13,Default,Unknown TV singer,0,0,0,,{TIME:653215,658137}{\an8}The one that blooms red…{NOTE:赤く咲くのは…}
@@ -229,40 +231,40 @@ Dialogue: 0,0:11:31.04,0:11:34.17,Default,Unknown TV singer,0,0,0,,{TIME:691045,
 Dialogue: 0,0:11:34.17,0:11:40.59,Default,Unknown TV singer,0,0,0,,{TIME:694173,700596}{\an8\fade(0,0,150,0,3000,3000,6423)}My life's getting dark…{NOTE:私の人生暗かった…}
 Dialogue: 0,0:11:40.59,0:11:46.76,Default,Unknown TV singer,0,0,0,,{TIME:700596,706769}{\an8\fade(150,150,200,0,0,0,6173)}No matter how dark the past…{NOTE:過去はどんなに暗くとも…}
 Dialogue: 0,0:11:46.76,0:11:50.81,Default,Unknown TV singer,0,0,0,,{TIME:706769,710814}{\an8\fade(200,200,255,0,0,0,4045)}My dream blooms at night.{NOTE:夢は夜ひらく。}
-Dialogue: 0,0:11:04.35,0:11:08.73,Default,Mine Nozomi's mom,0,0,0,,{TIME:664351,668731}Oh, Nozomi? It's about time you went to Dad.{NOTE:あ、のぞみ？そろそろ父さんの所へ行く時間じゃないのか？}
-Dialogue: 0,0:11:08.73,0:11:10.52,Default,Mine Nozomi,0,0,0,,{TIME:668731,670524}Ah, you're right.{NOTE:あ、そうだっけ。}
+Dialogue: 0,0:11:04.35,0:11:08.73,Default,Mine Nozomi's mom,0,0,0,,{TIME:664351,668731}Oh, Nozomi? It's about time you went to see your father.{NOTE:あ、のぞみ？そろそろ父さんの所へ行く時間じゃないのか？}
+Dialogue: 0,0:11:08.73,0:11:10.52,Default,Mine Nozomi,0,0,0,,{TIME:668731,670524}Oh, you're right.{NOTE:あ、そうだっけ。}
 Dialogue: 0,0:11:10.52,0:11:12.81,Default,Mine Nozomi,0,0,0,,{TIME:670524,672818}I completely forgot.{NOTE:いけね。忘れてた。}
 Dialogue: 0,0:11:12.81,0:11:14.36,Default,Mine Nozomi,0,0,0,,{TIME:672818,674361}Gotta hurry!{NOTE:お急ぎ、お急ぎ！}
-Dialogue: 0,0:11:16.82,0:11:18.28,Default,Mine Nozomi,0,0,0,,{TIME:676822,678282}Gotta get back soon!{NOTE:いってきます！}
+Dialogue: 0,0:11:16.82,0:11:18.28,Default,Mine Nozomi,0,0,0,,{TIME:676822,678282}I'll be back soon!{NOTE:いってきます！}
 Dialogue: 0,0:11:19.53,0:11:22.20,Default,Mine Nozomi's mom,0,0,0,,{TIME:679533,682203}{NOTE:ま、ははは。ははは。}
-Dialogue: 0,0:11:38.96,0:11:41.93,Default,Mine Nozomi's dad,0,0,0,,{TIME:698969,701931}So your first day at school went without problems?{NOTE:え？そうか？XXX行ってきたか？}
+Dialogue: 0,0:11:38.96,0:11:41.93,Default,Mine Nozomi's dad,0,0,0,,{TIME:698969,701931}So, no problems on your first day at school?{NOTE:え？そうか？XXX行ってきたか？}
 Dialogue: 0,0:11:43.51,0:11:46.35,Default,Mine Nozomi's dad,0,0,0,,{TIME:703515,706352}Now that you finally have the chance to attend the daytime classes…{NOTE:ま、せっかく昼間の学校に移ったんだから…}
 Dialogue: 0,0:11:46.35,0:11:49.27,Default,Mine Nozomi's dad,0,0,0,,{TIME:706352,709271}Work hard and study with all you've got.{NOTE:精々一生懸命勉強するんだな。}
 Dialogue: 0,0:11:49.27,0:11:50.18,Default,Mine Nozomi,0,0,0,,{TIME:709271,710189}Thanks.{NOTE:いただき。}
 Dialogue: 0,0:11:52.52,0:11:56.82,Default,Mine Nozomi's dad,0,0,0,,{TIME:712524,716820}And then you will have to thank that lady.{NOTE:あ、それよりお前あの人によく礼を言っとけよ。}
-Dialogue: 0,0:11:56.82,0:12:01.53,Default,Mine Nozomi's dad,0,0,0,,{TIME:716820,721533}You owe her a lot. She worked hard so that you've had the opportunity to enroll here.{NOTE:お前は夜間部から昼間に映ることを熱心にXXてくれたんだから。}
-Dialogue: 0,0:12:02.53,0:12:06.49,Default,Mine Nozomi,0,0,0,,{TIME:722534,726497}Yeah. I hope I have the opportunity to thank her soon.{NOTE:うん。私もお礼を言おうと思って、待ってんだけど。}
+Dialogue: 0,0:11:56.82,0:12:01.53,Default,Mine Nozomi's dad,0,0,0,,{TIME:716820,721533}You owe her a lot. She worked hard to get you into that school.{NOTE:お前は夜間部から昼間に映ることを熱心にXXてくれたんだから。}
+Dialogue: 0,0:12:02.53,0:12:06.49,Default,Mine Nozomi,0,0,0,,{TIME:722534,726497}Yeah. I hope I have the opportunity\Nto thank her one day.{NOTE:うん。私もお礼を言おうと思って、待ってんだけど。}
 Dialogue: 0,0:12:06.49,0:12:08.79,Default,Mine Nozomi's dad,0,0,0,,{TIME:726497,728791}It's weird that she's not here yet.{NOTE:ん、遅いな今日は。}
-Dialogue: 0,0:12:08.79,0:12:12.83,Default,Mine Nozomi's dad,0,0,0,,{TIME:728791,732836}She told she'll drop by for sure after work.{NOTE:会社が引けるは必ずって言ってくれるのに。}
-Dialogue: 0,0:12:12.83,0:12:14.04,Default,Mine Nozomi,0,0,0,,{TIME:732836,734046}Maybe overtime?{NOTE:残業かしら？}
+Dialogue: 0,0:12:08.79,0:12:12.83,Default,Mine Nozomi's dad,0,0,0,,{TIME:728791,732836}She told me she'd drop by for sure after work.{NOTE:会社が引けるは必ずって言ってくれるのに。}
+Dialogue: 0,0:12:12.83,0:12:14.04,Default,Mine Nozomi,0,0,0,,{TIME:732836,734046}Working overtime, maybe?{NOTE:残業かしら？}
 Dialogue: 0,0:12:14.04,0:12:17.17,Default,Mine Nozomi's dad,0,0,0,,{TIME:734046,737174}She's such a nice person, that Nohara-san.{NOTE:感じのいい人だな、野原さんってな。}
-Dialogue: 0,0:12:17.17,0:12:19.93,Default,Mine Nozomi,0,0,0,,{TIME:737174,739935}Yeah, she has this nice auntie aura, that you can tell her everything.{NOTE:何でも相談できる優しい叔母さんって感じね。}
-Dialogue: 0,0:12:21.67,0:12:23.09,Default,Nohara Michiko,0,0,0,,{TIME:741679,743097}{\i1}A nice auntie?{NOTE:優しい叔母さん？}
+Dialogue: 0,0:12:17.17,0:12:19.93,Default,Mine Nozomi,0,0,0,,{TIME:737174,739935}Yeah, she has this "nice auntie" aura. You can tell her anything.{NOTE:何でも相談できる優しい叔母さんって感じね。}
+Dialogue: 0,0:12:21.67,0:12:23.09,Default,Nohara Michiko,0,0,0,,{TIME:741679,743097}{\i1}A "nice auntie"?{NOTE:優しい叔母さん？}
 Dialogue: 0,0:12:23.09,0:12:24.26,Default,Nohara Michiko,0,0,0,,{TIME:743097,744265}{\i1}Me?{NOTE:この私が？}
-Dialogue: 0,0:12:25.43,0:12:28.68,Default,Nohara Michiko,0,0,0,,{TIME:745432,748686}{\i1}Perfect. Everything goes exactly as I had planned.{NOTE:何もかも私の書いた筋書き通りってわけね。}
+Dialogue: 0,0:12:25.43,0:12:28.68,Default,Nohara Michiko,0,0,0,,{TIME:745432,748686}{\i1}Perfect. Everything's going exactly as I had planned.{NOTE:何もかも私の書いた筋書き通りってわけね。}
 Dialogue: 0,0:12:33.06,0:12:34.27,Default,(mixed),0,0,0,,{TIME:753065,754275}Sis!{NOTE:姉ちゃん！}
 Dialogue: 0,0:12:36.40,0:12:38.86,Default,Mine Nozomi,0,0,0,,{TIME:756402,758862}Whatcha doing here, you two?{NOTE:どうしたの、二人揃って。}
-Dialogue: 0,0:12:38.86,0:12:41.69,Default,Mine Nozomi's little brother,0,0,0,,{TIME:758862,761699}A little while ago someone asked for you, Sis.{NOTE:少し前姉ちゃんの所にさ…}
+Dialogue: 0,0:12:38.86,0:12:41.69,Default,Mine Nozomi's little brother,0,0,0,,{TIME:758862,761699}Someone asked for you a little while ago, Sis.{NOTE:少し前姉ちゃんの所にさ…}
 Dialogue: 0,0:12:41.69,0:12:44.61,Default,Mine Nozomi's little sister,0,0,0,,{TIME:761699,764618}He said he's with president's water.{NOTE:来たんだよ(XXX・会社令嬢)とつかえだ。}
 Dialogue: 0,0:12:44.61,0:12:45.41,Default,Mine Nozomi's little brother,0,0,0,,{TIME:764618,765411}You dummy.{NOTE:馬鹿。}
 Dialogue: 0,0:12:45.41,0:12:47.03,Default,Mine Nozomi's little brother,0,0,0,,{TIME:765411,767037}It was "president's daughter".{NOTE:社長令嬢って言うんだよ。}
-Dialogue: 0,0:12:47.03,0:12:48.53,Default,Mine Nozomi's little sister,0,0,0,,{TIME:767037,768539}Ah. Right!{NOTE:あ、そっか。}
-Dialogue: 0,0:12:48.53,0:12:50.58,Default,Mine Nozomi,0,0,0,,{TIME:768539,770582}Someone from Miki-san?{NOTE:美紀さんとお使いの人が？}
+Dialogue: 0,0:12:47.03,0:12:48.53,Default,Mine Nozomi's little sister,0,0,0,,{TIME:767037,768539}Oh. Right!{NOTE:あ、そっか。}
+Dialogue: 0,0:12:48.53,0:12:50.58,Default,Mine Nozomi,0,0,0,,{TIME:768539,770582}Someone named Miki-san?{NOTE:美紀さんとお使いの人が？}
 Dialogue: 0,0:12:55.17,0:12:59.30,Default,Mine Nozomi's mom,0,0,0,,{TIME:775170,779300}He left it here saying it's your birthday present.{NOTE:これをXXX置いてったんだよ。誕生日のプレゼンとだって。}
-Dialogue: 0,0:12:59.30,0:13:00.34,Default,Mine Nozomi,0,0,0,,{TIME:779300,780342}A present to me?{NOTE:私に？}
-Dialogue: 0,0:13:13.14,0:13:14.39,Default,Mine Nozomi,0,0,0,,{TIME:793147,794398}{\i1}Ah.{NOTE:あ。}
-Dialogue: 0,0:13:14.39,0:13:15.94,Default,Mine Nozomi,0,0,0,,{TIME:794398,795941}{\i1}Beautiful…{NOTE:綺麗。}
-Dialogue: 0,0:13:17.73,0:13:18.52,Default,Mine Nozomi,0,0,0,,{TIME:797735,798527}{\i1}Ah!{NOTE:あ！}
+Dialogue: 0,0:12:59.30,0:13:00.34,Default,Mine Nozomi,0,0,0,,{TIME:779300,780342}A present for me?{NOTE:私に？}
+Dialogue: 0,0:13:13.14,0:13:14.39,Default,Mine Nozomi,0,0,0,,{TIME:793147,794398}{\i1}Oh!{NOTE:あ。}
+Dialogue: 0,0:13:14.39,0:13:15.94,Default,Mine Nozomi,0,0,0,,{TIME:794398,795941}{\i1}How beautiful…{NOTE:綺麗。}
+Dialogue: 0,0:13:17.73,0:13:18.52,Default,Mine Nozomi,0,0,0,,{TIME:797735,798527}{\i1}Oh!{NOTE:あ！}
 Dialogue: 0,0:13:23.15,0:13:24.40,Default,Mine Nozomi,0,0,0,,{TIME:803157,804408}{\i1}It's a diamond!{NOTE:ダイアだわ。}
 Comment: 0,0:13:30.50,0:13:30.50,Default,[chapter],0,0,0,,{TIME:810506,810506}Part B
 Dialogue: 0,0:13:38.30,0:13:41.93,Default,Mine Nozomi's mom,0,0,0,,{TIME:818305,821934}{\i1}No way. Nozomi's not here.\NI cannot accept gifts in her place.{NOTE:とんでもない。のぞみに断りもなく、こんなものいただいてわ。}
@@ -272,63 +274,64 @@ Dialogue: 0,0:13:46.52,0:13:48.06,Default,Mine Nozomi's mom,0,0,0,,{TIME:826522,
 Dialogue: 0,0:13:50.40,0:13:53.11,Default,Henchman A,0,0,0,,{TIME:830401,833112}How was it, ma'am? Was is the same?{NOTE:どうですか、お嬢さん？分かりましたか？}
 Dialogue: 0,0:13:53.11,0:13:56.40,Default,Kouda Miki,0,0,0,,{TIME:833112,836407}That's not it. The voice I heard on the phone was different.{NOTE:違うよね。いたずら電話の声とは。}
 Dialogue: 0,0:13:56.40,0:13:57.90,Default,Henchman A,0,0,0,,{TIME:836407,837908}Strange…{NOTE:可笑しいな。}
-Dialogue: 0,0:13:57.90,0:14:01.78,Default,Henchman A,0,0,0,,{TIME:837908,841787}The only other woman left at their house is her little sister.{NOTE:あの家に女と言ったら後は小さな妹だけだし。}
-Dialogue: 0,0:14:02.91,0:14:06.54,Default,Maid,0,0,0,,{TIME:842913,846542}Milady, a friend of yours by the name of Mine came to see you.{NOTE:お嬢様。峰さんと言うお友達の方が見えましたが。}
+Dialogue: 0,0:13:57.90,0:14:01.78,Default,Henchman A,0,0,0,,{TIME:837908,841787}The only other woman left at their house was her little sister.{NOTE:あの家に女と言ったら後は小さな妹だけだし。}
+Dialogue: 0,0:14:02.91,0:14:06.54,Default,Maid,0,0,0,,{TIME:842913,846542}M`lady, a friend of yours named Mine has come to see you.{NOTE:お嬢様。峰さんと言うお友達の方が見えましたが。}
 Dialogue: 0,0:14:07.20,0:14:08.33,Default,Kouda Miki,0,0,0,,{TIME:847209,848335}Her?{NOTE:あの子が？}
 Dialogue: 0,0:14:09.83,0:14:13.00,Default,Henchman A,0,0,0,,{TIME:849837,853006}She's pretty bold to come all the way here.{NOTE:わざわざ来るとはこれ大した度胸の娘ですね。}
 Dialogue: 0,0:14:13.63,0:14:15.59,Default,Kouda Miki,0,0,0,,{TIME:853632,855592}Let her into the living room.{NOTE:XXX。}
-Dialogue: 0,0:14:15.59,0:14:17.76,Default,Maid,0,0,0,,{TIME:855592,857761}Of course, Milady.{NOTE:かしこまりました。}
+Dialogue: 0,0:14:15.59,0:14:17.76,Default,Maid,0,0,0,,{TIME:855592,857761}Of course, M`lady.{NOTE:かしこまりました。}
 Dialogue: 0,0:14:18.76,0:14:21.26,Default,Henchman A,0,0,0,,{TIME:858762,861265}Are we going to teach her a lesson, ma'am?{NOTE:とっちめてやりましょうか、お嬢さん。}
 Dialogue: 0,0:14:22.47,0:14:24.47,Default,Kouda Miki,0,0,0,,{TIME:862474,864476}Yes. Leave it to me.{NOTE:いいわ。私に任しておいて。}
-Dialogue: 0,0:14:36.28,0:14:38.65,Default,Kouda Miki,0,0,0,,{TIME:876280,878657}Thanks for coming, Miki-san.{NOTE:美紀さん。よくいらっしゃったわね。}
+Dialogue: 0,0:14:36.28,0:14:38.65,Default,Mine Nozumi,0,0,0,,{TIME:876280,878657}Thanks for coming, Miki-san.{NOTE:美紀さん。よくいらっしゃったわね。}
 Dialogue: 0,0:14:38.65,0:14:40.95,Default,Kouda Miki,0,0,0,,{TIME:878657,880951}Please, make yourself comfortable.{NOTE:さ、どうぞ。遠慮なくおかけになって。}
-Dialogue: 0,0:14:42.87,0:14:45.45,Default,Kouda Miki,0,0,0,,{TIME:882870,885456}But why did take your school bag with you?{NOTE:どうなったの？鞄何個持ちになって。}
+Dialogue: 0,0:14:42.87,0:14:45.45,Default,Kouda Miki,0,0,0,,{TIME:882870,885456}But why did you bring your school bag?{NOTE:どうなったの？鞄何個持ちになって。}
 Dialogue: 0,0:14:46.20,0:14:47.45,Default,Mine Nozomi,0,0,0,,{TIME:886206,887458}Oh, this?{NOTE:あ、これ？}
 Dialogue: 0,0:14:51.71,0:14:52.75,Default,Mine Nozomi,0,0,0,,{TIME:891712,892755}I'm returning this.{NOTE:お返りするわ。}
-Dialogue: 0,0:14:56.34,0:14:59.30,Default,Mine Nozomi,0,0,0,,{TIME:896341,899303}I put it in my school bag for security.{NOTE:XXXでしょ。通学鞄に出てくるって言うの。}
-Dialogue: 0,0:14:59.30,0:15:04.64,Default,Mine Nozomi,0,0,0,,{TIME:899303,904641}If I took it and chipped or scratched it,\Nit would no longer be possible for me to study.{NOTE:これだけ持って行って落としたりXべたりしたらとっても私には勉強できないもん。}
+Dialogue: 0,0:14:56.34,0:14:59.30,Default,Mine Nozomi,0,0,0,,{TIME:896341,899303}I put it in my school bag to keep it safe.{NOTE:XXXでしょ。通学鞄に出てくるって言うの。}
+Dialogue: 0,0:14:59.30,0:15:04.64,Default,Mine Nozomi,0,0,0,,{TIME:899303,904641}If I took it and chipped or scratched it,\NI wouldn't be able to study.{NOTE:これだけ持って行って落としたりXべたりしたらとっても私には勉強できないもん。}
 Dialogue: 0,0:15:04.64,0:15:06.31,Default,Mine Nozomi,0,0,0,,{TIME:904641,906310}So I came here to return it to you.{NOTE:確かにお返りするわね。}
-Dialogue: 0,0:15:06.31,0:15:08.72,Default,Mine Nozomi,0,0,0,,{TIME:906310,908729}I really cannot accept an object of such value.{NOTE:そんな高価な私はいただけないわ。}
-Dialogue: 0,0:15:13.44,0:15:16.15,Default,Kouda Miki,0,0,0,,{TIME:913442,916153}Perhaps you might've preferred\Na diamond a little bigger than that?{NOTE:お前のクズダイアがと気に召さなくて？}
+Dialogue: 0,0:15:06.31,0:15:08.72,Default,Mine Nozomi,0,0,0,,{TIME:906310,908729}I really can't accept something this valuable.{NOTE:そんな高価な私はいただけないわ。}
+Dialogue: 0,0:15:13.44,0:15:16.15,Default,Kouda Miki,0,0,0,,{TIME:913442,916153}Would you have preferred\Na diamond bigger than this?{NOTE:お前のクズダイアがと気に召さなくて？}
 Dialogue: 0,0:15:17.57,0:15:18.78,Default,Mine Nozomi,0,0,0,,{TIME:917571,918781}Not at all!{NOTE:そんな！}
-Dialogue: 0,0:15:18.78,0:15:22.53,Default,Mine Nozomi,0,0,0,,{TIME:918781,922534}On the contrary, I think this gift is way too expensive.{NOTE:ただ高校生がこんな高いプレゼントするなんて。}
-Dialogue: 0,0:15:23.32,0:15:25.32,Default,Kouda Miki,0,0,0,,{TIME:923327,925329}Your sense of value is off.{NOTE:価値観遅いね。}
-Dialogue: 0,0:15:25.32,0:15:28.54,Default,Kouda Miki,0,0,0,,{TIME:925329,928540}What is 500 yen for you is 50,000 yen for me.{NOTE:あなたの5万円は私の500円ってどこかしら？}
-Dialogue: 0,0:15:29.16,0:15:30.00,Default,Mine Nozomi,0,0,0,,{TIME:929166,930000}Eh?{NOTE:え？}
-Dialogue: 0,0:15:31.37,0:15:34.54,Default,Kouda Miki,0,0,0,,{TIME:931376,934546}Would you rather that I give you money?{NOTE:何ならそれをお金に変えてもよろしくてよ。}
+Dialogue: 0,0:15:18.78,0:15:22.53,Default,Mine Nozomi,0,0,0,,{TIME:918781,922534}I think this gift is way too expensive for someone like me.{NOTE:ただ高校生がこんな高いプレゼントするなんて。}
+Dialogue: 0,0:15:23.32,0:15:25.32,Default,Kouda Miki,0,0,0,,{TIME:923327,925329}Your sense of value is strange.{NOTE:価値観遅いね。}
+Dialogue: 0,0:15:25.32,0:15:28.54,Default,Kouda Miki,0,0,0,,{TIME:925329,928540}What's 500 yen for you is 50,000 yen for me.{NOTE:あなたの5万円は私の500円ってどこかしら？}
+Dialogue: 0,0:15:29.16,0:15:30.00,Default,Mine Nozomi,0,0,0,,{TIME:929166,930000}Huh?{NOTE:え？}
+Dialogue: 0,0:15:31.37,0:15:34.54,Default,Kouda Miki,0,0,0,,{TIME:931376,934546}Would you prefer if I just gave you money?{NOTE:何ならそれをお金に変えてもよろしくてよ。}
 Dialogue: 0,0:15:37.13,0:15:38.21,Default,Mine Nozomi,0,0,0,,{TIME:937132,938217}Money?{NOTE:お金ですって？}
-Dialogue: 0,0:15:38.21,0:15:41.34,Default,Mine Nozomi,0,0,0,,{TIME:938217,941345}Miki-san, I do not really see why I would accept your money.{NOTE:美紀さん。あなたにそんなことしてもらう言うはないわ。}
-Dialogue: 0,0:15:41.34,0:15:45.30,Default,Kouda Miki,0,0,0,,{TIME:941345,945307}Really? Then I think it's time to explain.{NOTE:そう。そこまではっきりおっしゃるのなら私も言うわ。}
+Dialogue: 0,0:15:38.21,0:15:41.34,Default,Mine Nozomi,0,0,0,,{TIME:938217,941345}Miki-san, why would I accept your money?{NOTE:美紀さん。あなたにそんなことしてもらう言うはないわ。}
+Dialogue: 0,0:15:41.34,0:15:45.30,Default,Kouda Miki,0,0,0,,{TIME:941345,945307}Why? Well, I guess it's time to explain.{NOTE:そう。そこまではっきりおっしゃるのなら私も言うわ。}
 Dialogue: 0,0:15:45.30,0:15:49.01,Default,Kouda Miki,0,0,0,,{TIME:945307,949019}Who told you to come to this school?{NOTE:あなた誰に頼まれて(XXX・前立腺)にうつってらしたの？}
 Dialogue: 0,0:15:49.01,0:15:50.52,Default,Mine Nozomi,0,0,0,,{TIME:949019,950521}Told me?{NOTE:頼まれてですって？}
-Dialogue: 0,0:15:50.52,0:15:52.48,Default,Mine Nozomi,0,0,0,,{TIME:950521,952481}Why are you asking me this question?{NOTE:何のことなの？}
+Dialogue: 0,0:15:50.52,0:15:52.48,Default,Mine Nozomi,0,0,0,,{TIME:950521,952481}Why are you asking a question like that?{NOTE:何のことなの？}
 Dialogue: 0,0:15:52.48,0:15:54.39,Default,Kouda Miki,0,0,0,,{TIME:952481,954399}It wasn't your father, was it?{NOTE:父さんがいるんじゃなくって。}
-Dialogue: 0,0:15:54.39,0:15:57.06,Default,Kouda Miki,0,0,0,,{TIME:954399,957069}I know someone else pays for your studies.{NOTE:あなたの学習を出してくれる。}
-Dialogue: 0,0:15:57.06,0:15:58.40,Default,Mine Nozomi,0,0,0,,{TIME:957069,958403}Miki-san.{NOTE:美紀さん。}
-Dialogue: 0,0:16:00.36,0:16:02.28,Default,Kouda Miki,0,0,0,,{TIME:960364,962282}Let's say it clearly.{NOTE:ずばり当てましょうか。}
+Dialogue: 0,0:15:54.39,0:15:57.06,Default,Kouda Miki,0,0,0,,{TIME:954399,957069}I know someone else is paying for your studies.{NOTE:あなたの学習を出してくれる。}
+Dialogue: 0,0:15:57.06,0:15:58.40,Default,Mine Nozomi,0,0,0,,{TIME:957069,958403}Miki-san…?{NOTE:美紀さん。}
+Dialogue: 0,0:16:00.36,0:16:02.28,Default,Kouda Miki,0,0,0,,{TIME:960364,962282}Fine, I'll say it clearly.{NOTE:ずばり当てましょうか。}
 Dialogue: 0,0:16:02.28,0:16:05.41,Default,Kouda Miki,0,0,0,,{TIME:962282,965410}It's a woman around 35 years old.{NOTE:女性年齢35歳前後。}
 Dialogue: 0,0:16:05.41,0:16:07.37,Default,Mine Nozomi,0,0,0,,{TIME:965410,967371}That's enough.{NOTE:いい加減にして。}
 Dialogue: 0,0:16:08.66,0:16:10.12,Default,Mine Nozomi,0,0,0,,{TIME:968664,970123}Excuse me! I have to go.{NOTE:ごめんなさい！XXして。}
 Dialogue: 0,0:16:20.00,0:16:22.05,Default,Mine Nozomi,0,0,0,,{TIME:980008,982052}What on earth was that?{NOTE:まったく馬鹿にしてる。}
-Dialogue: 0,0:16:22.05,0:16:24.80,Default,Mine Nozomi,0,0,0,,{TIME:982052,984805}If you're rich, okay,\Nbut I never asked you for charity.{NOTE:人様に頼まれて動くよののぞみXXじゃないわ。}
+Dialogue: 0,0:16:22.05,0:16:24.80,Default,Mine Nozomi,0,0,0,,{TIME:982052,984805}If she's rich, fine,\Nbut I never asked for her charity.{NOTE:人様に頼まれて動くよののぞみXXじゃないわ。}
 Dialogue: 0,0:16:27.05,0:16:31.01,Default,Mine Nozomi,0,0,0,,{TIME:987057,991019}But why is she so concerned about my transfer?{NOTE:でも、あの人どうして私が転入してきたことに拘るのかしら？}
-Dialogue: 0,0:16:37.27,0:16:41.82,Default,Mine Nozomi,0,0,0,,{TIME:997276,1001822}{\i1}Plus that question about who was my sponsor… Miki-san, what business do you have with it?{NOTE:それにスポンサーがいるだろうなんて、美紀さん一体何のこと言ってんのかしら？}
+Dialogue: 0,0:16:37.27,0:16:41.82,Default,Mine Nozomi,0,0,0,,{TIME:997276,1001822}{\i1}Plus that question about who sponsored me… what business does Miki-san have with that?{NOTE:それにスポンサーがいるだろうなんて、美紀さん一体何のこと言ってんのかしら？}
 Dialogue: 0,0:16:47.24,0:16:48.70,Default,Nohara Michiko,0,0,0,,{TIME:1007244,1008704}{\i1}When I was 17 years old…{NOTE:１７才の私は…}
 Dialogue: 0,0:16:48.70,0:16:51.29,Default,Nohara Michiko,0,0,0,,{TIME:1008704,1011290}{\i1}…you considered me a slave in this mansion.{NOTE:奴隷のようにこき使ったこの館。}
 Dialogue: 0,0:16:54.08,0:16:59.08,Default,Nohara Michiko,0,0,0,,{TIME:1014084,1019089}{\i1}I never went anywhere and stayed crying in a tiny room without sun.{NOTE:どこにも遊びに行けずいつも日の当たらない三畳の部屋でよく鳴ったわ。}
 Dialogue: 0,0:16:54.58,0:16:59.08,Sign,(sign),0,0,0,,{TIME:1014585,1019089}Kōda{NOTE:香田}
 Dialogue: 0,0:17:00.29,0:17:03.59,Default,Nohara Michiko,0,0,0,,{TIME:1020299,1023594}{\i1}This time it's your turn to cry.{NOTE:でも今度はあなたがたのなくばいいよ。}
-Dialogue: 0,0:17:12.72,0:17:15.68,Default,Maid,0,0,0,,{TIME:1032728,1035689}Good morning. There is a package for you, Milady.{NOTE:おはようございます。あの、これはポストに。}
-Dialogue: 0,0:17:20.27,0:17:24.11,Default,Kouda Miki,0,0,0,,{TIME:1040277,1044114}An admirer who couldn't wait for my birthday to offer it to me?{NOTE:さては昨日の早いボーイフレンドのバースデープレゼントね。}
-Dialogue: 0,0:17:26.24,0:17:27.91,Default,Kouda Miki,0,0,0,,{TIME:1046241,1047910}Strange. I wonder who might have sent it?{NOTE:変ね。誰かしら？}
+Dialogue: 0,0:17:12.72,0:17:15.68,Default,Maid,0,0,0,,{TIME:1032728,1035689}Good morning, M`lady. There is a package for you.{NOTE:おはようございます。あの、これはポストに。}
+Dialogue: 0,0:17:20.27,0:17:24.11,Default,Kouda Miki,0,0,0,,{TIME:1040277,1044114}A secret admirer who couldn't wait for my birthday?{NOTE:さては昨日の早いボーイフレンドのバースデープレゼントね。}
+Dialogue: 0,0:17:24.11,0:17:25.61,Sign,(sign),0,0,0,,{TIME:1044114,1045616}{\fad(0,500)}Miki-sama{NOTE:美紀様}
+Dialogue: 0,0:17:26.24,0:17:27.91,Default,Kouda Miki,0,0,0,,{TIME:1046241,1047910}Strange. I wonder who could've sent this?{NOTE:変ね。誰かしら？}
 Dialogue: 0,0:17:36.83,0:17:37.96,Default,Kouda Miki,0,0,0,,{TIME:1056835,1057961}How boring.{NOTE:何だ、つまらない。}
 Dialogue: 0,0:17:41.50,0:17:44.55,Default,Kouda Miki,0,0,0,,{TIME:1061506,1064551}My initials?\NBut it should be an "M", not an "N".{NOTE:お負けにMとNを間違えてるわ。}
 Dialogue: 0,0:17:44.96,0:17:46.26,Default,Kouda Miki,0,0,0,,{TIME:1064968,1066261}"N"?{NOTE:N?}
 Dialogue: 0,0:17:46.26,0:17:48.05,Default,Kouda Miki,0,0,0,,{TIME:1066261,1068055}Her first name starts with "N".{NOTE:あの子ならNだわ。}
-Dialogue: 0,0:17:49.89,0:17:50.97,Default,Kouda Miki,0,0,0,,{TIME:1069890,1070974}Mine Nozomi.{NOTE:峰のぞみ。}
+Dialogue: 0,0:17:49.89,0:17:50.97,Default,Kouda Miki,0,0,0,,{TIME:1069890,1070974}Mine Nozomi…{NOTE:峰のぞみ。}
 Dialogue: 0,0:17:51.76,0:17:53.56,Default,Kouda Miki,0,0,0,,{TIME:1071767,1073560}Don't screw with me.{NOTE:ふざけないでよ。}
-Dialogue: 0,0:17:57.06,0:18:00.19,Default,Kouda Miki,0,0,0,,{TIME:1077064,1080192}From the real lady to the fake lady.{NOTE:本物の令嬢よりニセの令嬢へ！}
-Dialogue: 0,0:18:02.65,0:18:04.23,Default,Kouda Miki,0,0,0,,{TIME:1082653,1084237}I won't forgive it.{NOTE:許せないわ、絶対に。}
+Dialogue: 0,0:17:57.06,0:18:00.19,Default,Kouda Miki,0,0,0,,{TIME:1077064,1080192}"From the real lady to the fake lady."{NOTE:本物の令嬢よりニセの令嬢へ！}
+Dialogue: 0,0:18:02.65,0:18:04.23,Default,Kouda Miki,0,0,0,,{TIME:1082653,1084237}I won't forgive this.{NOTE:許せないわ、絶対に。}
 Dialogue: 0,0:18:04.23,0:18:06.99,Default,Kouda Miki,0,0,0,,{TIME:1084237,1086990}Calling me a fake?{NOTE:私をニセの令嬢だなんて。}
 Dialogue: 0,0:18:15.99,0:18:16.83,Default,Unknown student,0,0,0,,{TIME:1095999,1096833}Bye!{NOTE:さようなら！}
 Dialogue: 0,0:18:16.83,0:18:18.33,Default,Unknown student,0,0,0,,{TIME:1096833,1098335}Till tomorrow.{NOTE:又明日ね。}
@@ -336,10 +339,10 @@ Dialogue: 0,0:18:18.33,0:18:20.04,Default,Mine Nozomi,0,0,0,,{TIME:1098335,11000
 Dialogue: 0,0:18:20.04,0:18:20.83,Default,Kouda Miki,0,0,0,,{TIME:1100045,1100837}Mine-san.{NOTE:峰さん。}
 Dialogue: 0,0:18:22.50,0:18:23.25,Default,Mine Nozomi,0,0,0,,{TIME:1102506,1103256}Oh?{NOTE:あら。}
 Dialogue: 0,0:18:24.21,0:18:26.71,Default,Kouda Miki,0,0,0,,{TIME:1104216,1106718}I'd like to discuss something with you.{NOTE:私お話があるんだけど。}
-Dialogue: 0,0:18:26.71,0:18:27.67,Default,Mine Nozomi,0,0,0,,{TIME:1106718,1107678}Okay.{NOTE:いいわ。}
-Dialogue: 0,0:18:27.67,0:18:29.38,Default,Mine Nozomi,0,0,0,,{TIME:1107678,1109388}I wanted to talk to you too.{NOTE:私も丁度話したいことがあったから。}
+Dialogue: 0,0:18:26.71,0:18:27.67,Default,Mine Nozomi,0,0,0,,{TIME:1106718,1107678}Fine.{NOTE:いいわ。}
+Dialogue: 0,0:18:27.67,0:18:29.38,Default,Mine Nozomi,0,0,0,,{TIME:1107678,1109388}I wanted to talk to you, too.{NOTE:私も丁度話したいことがあったから。}
 Dialogue: 0,0:18:30.47,0:18:31.30,Default,Kouda Miki,0,0,0,,{TIME:1110472,1111306}Is that so?{NOTE:そう？}
-Dialogue: 0,0:18:31.30,0:18:32.89,Default,Kouda Miki,0,0,0,,{TIME:1111306,1112891}Then let us find a quiet place.{NOTE:じゃ、静かな所がいいわね。}
+Dialogue: 0,0:18:31.30,0:18:32.89,Default,Kouda Miki,0,0,0,,{TIME:1111306,1112891}Then let's find a quiet place.{NOTE:じゃ、静かな所がいいわね。}
 Dialogue: 0,0:18:40.10,0:18:41.56,Default,Mine Nozomi,0,0,0,,{TIME:1120107,1121566}Where are we going?{NOTE:どこへ行くの？}
 Dialogue: 0,0:18:42.85,0:18:44.06,Default,Kouda Miki,0,0,0,,{TIME:1122859,1124069}Are you scared?{NOTE:怖い？}
 Dialogue: 0,0:18:44.73,0:18:47.61,Default,Mine Nozomi,0,0,0,,{TIME:1124736,1127614}We can talk just fine here in the car,\Nso where are you taking me?{NOTE:話なら車の中だってできるのに。どうして？}
@@ -352,18 +355,18 @@ Dialogue: 0,0:19:39.04,0:19:40.45,Default,Mine Nozomi,0,0,0,,{TIME:1179041,11804
 Dialogue: 0,0:19:45.83,0:19:47.25,Default,Mine Nozomi,0,0,0,,{TIME:1185839,1187257}Who are these people?{NOTE:何なのこの人達？}
 Dialogue: 0,0:19:47.25,0:19:48.13,Default,Mine Nozomi,0,0,0,,{TIME:1187257,1188133}You know them?{NOTE:お知り合い？}
 Dialogue: 0,0:19:48.13,0:19:48.80,Default,Kouda Miki,0,0,0,,{TIME:1188133,1188800}Who knows?{NOTE:さあ。}
-Dialogue: 0,0:19:49.84,0:19:53.22,Default,Mine Nozomi,0,0,0,,{TIME:1189843,1193221}I've no idea what's going on but that's pretty underhanded.{NOTE:どう言うことが知らないけど、随分卑怯な手を使うよね。}
+Dialogue: 0,0:19:49.84,0:19:53.22,Default,Mine Nozomi,0,0,0,,{TIME:1189843,1193221}I don't know what's going on but this is pretty underhanded.{NOTE:どう言うことが知らないけど、随分卑怯な手を使うよね。}
 Dialogue: 0,0:19:54.05,0:19:55.26,Default,Kouda Miki,0,0,0,,{TIME:1194056,1195265}Underhanded?{NOTE:卑怯？}
-Dialogue: 0,0:19:55.26,0:19:57.68,Default,Kouda Miki,0,0,0,,{TIME:1195265,1197684}You have some nerve saying that!{NOTE:白々しく、よくもそんなこと言えるわね！}
+Dialogue: 0,0:19:55.26,0:19:57.68,Default,Kouda Miki,0,0,0,,{TIME:1195265,1197684}You've got some nerve saying that!{NOTE:白々しく、よくもそんなこと言えるわね！}
 Dialogue: 0,0:19:59.18,0:20:02.73,Default,Kouda Miki,0,0,0,,{TIME:1199186,1202731}Since you're playing dumb, I'll be frank.{NOTE:言えないなら、私からこの際はっきりと言ってあげるわ。}
 Dialogue: 0,0:20:02.73,0:20:06.02,Default,Kouda Miki,0,0,0,,{TIME:1202731,1206026}Unless you're stupid, you should remember this little present you just gave me.{NOTE:馬鹿じゃない限り、自分のプレゼントしたもの忘れはしないわよね。}
 Dialogue: 0,0:20:08.82,0:20:11.44,Default,Kouda Miki,0,0,0,,{TIME:1208820,1211448}A handkerchief suits you well.{NOTE:ハンカチなんて、あなたらしいプレゼントね。}
 Dialogue: 0,0:20:14.91,0:20:17.24,Default,Henchman A,0,0,0,,{TIME:1214910,1217245}Girls should be honest.{NOTE:女の子は素直な方がいいです。}
 Dialogue: 0,0:20:17.24,0:20:19.12,Default,Kouda Miki,0,0,0,,{TIME:1217245,1219122}It was from you, wasn't it?{NOTE:やっぱりあなただったのね。}
 Dialogue: 0,0:20:19.66,0:20:21.20,Default,Kouda Miki,0,0,0,,{TIME:1219664,1221208}That's fine.{NOTE:それならそれでいいけど。}
-Dialogue: 0,0:20:21.20,0:20:24.62,Default,Kouda Miki,0,0,0,,{TIME:1221208,1224628}I just want you to explain to me, what these initials mean?{NOTE:意味ありげなイニシャルを入れたり、一体何の意味なの？}
-Dialogue: 0,0:20:25.21,0:20:26.88,Default,Mine Nozomi,0,0,0,,{TIME:1225212,1226880}I've no idea what you're talking about.{NOTE:勝手な事ばかりなんて言わないでよ。}
-Dialogue: 0,0:20:28.13,0:20:30.96,Default,Kouda Miki,0,0,0,,{TIME:1228131,1230967}I get angry when others keep things from me.{NOTE:私はね、他人に隠し事されると腹が立つ。}
+Dialogue: 0,0:20:21.20,0:20:24.62,Default,Kouda Miki,0,0,0,,{TIME:1221208,1224628}I just want you to explain to me,\Nwhat these initials mean?{NOTE:意味ありげなイニシャルを入れたり、一体何の意味なの？}
+Dialogue: 0,0:20:25.21,0:20:26.88,Default,Mine Nozomi,0,0,0,,{TIME:1225212,1226880}I don't even know what you're talking about.{NOTE:勝手な事ばかりなんて言わないでよ。}
+Dialogue: 0,0:20:28.13,0:20:30.96,Default,Kouda Miki,0,0,0,,{TIME:1228131,1230967}I get angry when people try to keep things from me.{NOTE:私はね、他人に隠し事されると腹が立つ。}
 Dialogue: 0,0:20:30.96,0:20:31.96,Default,Mine Nozomi,0,0,0,,{TIME:1230967,1231968}What the heck?{NOTE:何のこと？}
 Dialogue: 0,0:20:51.32,0:20:52.61,Default,Henchman A,0,0,0,,{TIME:1251321,1252614}Wait, you hussy!{NOTE:このやろ、待て！}
 Dialogue: 0,0:20:52.61,0:20:53.57,Default,Henchman A,0,0,0,,{TIME:1252614,1253573}Get back here!{NOTE:待てよ！}
@@ -371,20 +374,20 @@ Dialogue: 0,0:21:00.99,0:21:02.79,Default,Henchman A,0,0,0,,{TIME:1260997,126279
 Dialogue: 0,0:21:02.79,0:21:04.96,Default,Henchman B,0,0,0,,{TIME:1262791,1264960}It's better for you that way.{NOTE:その方が好きにするぜ。}
 Dialogue: 0,0:21:08.63,0:21:10.25,Default,Unknown blonde guy,0,0,0,,{TIME:1268630,1270257}What… what's that?{NOTE:な、何だあれは？}
 Dialogue: 0,0:21:12.92,0:21:13.92,Default,Unknown blonde guy,0,0,0,,{TIME:1272926,1273927}It's Nozomi!{NOTE:のぞみだ！}
-Dialogue: 0,0:21:13.92,0:21:15.51,Default,Unknown big guy,0,0,0,,{TIME:1273927,1275512}Damn. Hold tight.{NOTE:しくしょ。捕まってろ。}
+Dialogue: 0,0:21:13.92,0:21:15.51,Default,Hotta,0,0,0,,{TIME:1273927,1275512}Damn. Hold tight.{NOTE:しくしょ。捕まってろ。}
 Dialogue: 0,0:21:15.51,0:21:16.55,Default,Unknown blonde guy,0,0,0,,{TIME:1275512,1276555}Wait what?!{NOTE:何だ何だ！}
 Dialogue: 0,0:21:16.55,0:21:18.34,Default,Unknown blonde guy,0,0,0,,{TIME:1276555,1278348}Whatcha gonna do?{NOTE:俺たち何やってるんだ？！}
 Dialogue: 0,0:21:20.01,0:21:20.93,Default,Unknown blonde guy,0,0,0,,{TIME:1280016,1280934}Hey, tough guy!{NOTE:このやろ！}
 Dialogue: 0,0:21:20.93,0:21:22.26,Default,Mine Nozomi,0,0,0,,{TIME:1280934,1282269}– Hotta-kun!\N– Company!{NOTE:—堀田くん。\\N—こいつ！}
 Dialogue: 0,0:21:22.26,0:21:23.81,Default,Henchman A,0,0,0,,{TIME:1282269,1283812}Damn! Get them!{NOTE:くそ！やっちまえ！}
-Dialogue: 0,0:21:23.81,0:21:25.43,Default,Henchman A,0,0,0,,{TIME:1283812,1285438}All right! You're on, piece of trash!{NOTE:よし！やろう、このやろ！}
-Dialogue: 0,0:21:28.81,0:21:30.44,Default,Henchman A,0,0,0,,{TIME:1288817,1290443}Take this! Take this! Take this!{NOTE:この！この！この！}
+Dialogue: 0,0:21:23.81,0:21:25.43,Default,Henchman A,0,0,0,,{TIME:1283812,1285438}All right! You're on, you piece of trash!{NOTE:よし！やろう、このやろ！}
+Dialogue: 0,0:21:28.81,0:21:30.44,Default,Henchman A,0,0,0,,{TIME:1288817,1290443}Take this! And this! And this!{NOTE:この！この！この！}
 Dialogue: 0,0:21:33.36,0:21:35.28,Default,Henchman A,0,0,0,,{TIME:1293363,1295282}Crap! Let's run!{NOTE:XX逃げろ！}
-Dialogue: 0,0:21:41.24,0:21:41.99,Default,Unknown big guy,0,0,0,,{TIME:1301246,1301997}Get lost!{NOTE:消えちまえ！}
-Dialogue: 0,0:21:41.99,0:21:43.62,Default,Unknown blonde guy,0,0,0,,{TIME:1301997,1303623}Don't ever come back!{NOTE:XXXやろうぜ！}
-Dialogue: 0,0:21:44.79,0:21:46.87,Default,Unknown big guy,0,0,0,,{TIME:1304791,1306877}What scumbags.{NOTE:何て胸糞も悪いやつらなんだ。}
+Dialogue: 0,0:21:41.24,0:21:41.99,Default,Hotta,0,0,0,,{TIME:1301246,1301997}Get lost!{NOTE:消えちまえ！}
+Dialogue: 0,0:21:41.99,0:21:43.62,Default,Unknown blonde guy,0,0,0,,{TIME:1301997,1303623}And don't ever come back!{NOTE:XXXやろうぜ！}
+Dialogue: 0,0:21:44.79,0:21:46.87,Default,Hotta,0,0,0,,{TIME:1304791,1306877}What scumbags.{NOTE:何て胸糞も悪いやつらなんだ。}
 Dialogue: 0,0:21:48.42,0:21:49.62,Default,Mine Nozomi,0,0,0,,{TIME:1308420,1309629}Thank you, Hotta-kun.{NOTE:有難う。堀田くん。}
-Dialogue: 0,0:21:50.67,0:21:52.38,Default,Unknown big guy,0,0,0,,{TIME:1310672,1312382}Are you all right, Nozomi?{NOTE:大丈夫か、のぞみ？}
+Dialogue: 0,0:21:50.67,0:21:52.38,Default,Hotta,0,0,0,,{TIME:1310672,1312382}Are you all right, Nozomi?{NOTE:大丈夫か、のぞみ？}
 Dialogue: 0,0:21:52.38,0:21:53.25,Default,Mine Nozomi,0,0,0,,{TIME:1312382,1313258}Yes.{NOTE:え。}
 Dialogue: 0,0:21:53.25,0:21:55.30,Default,Unknown blonde guy,0,0,0,,{TIME:1313258,1315302}D-Did he kiss you or anything?{NOTE:き、キスなんか流されなかったか？}
 Dialogue: 0,0:21:55.30,0:21:57.05,Default,Mine Nozomi,0,0,0,,{TIME:1315302,1317053}As if I'd let him.{NOTE:そんなぼんやりしてるもんですか。}
@@ -392,35 +395,35 @@ Dialogue: 0,0:21:57.05,0:21:58.26,Default,Kouda Miki,0,0,0,,{TIME:1317053,131826
 Dialogue: 0,0:22:00.05,0:22:02.14,Default,Kouda Miki,0,0,0,,{TIME:1320056,1322142}Can you tell me who these two are?{NOTE:何この連中？}
 Dialogue: 0,0:22:02.14,0:22:04.64,Default,Mine Nozomi,0,0,0,,{TIME:1322142,1324644}They're my friends from the night school.{NOTE:友達よ。夜間部の。}
 Dialogue: 0,0:22:05.22,0:22:06.60,Default,Unknown blonde guy,0,0,0,,{TIME:1325228,1326605}Wow, she's got class.{NOTE:いかすね。}
-Dialogue: 0,0:22:06.60,0:22:08.35,Default,Unknown big guy,0,0,0,,{TIME:1326605,1328356}Is she one of your new friends, Nozomi?{NOTE:のぞみの新しい友達か？}
-Dialogue: 0,0:22:08.35,0:22:09.52,Default,Unknown big guy,0,0,0,,{TIME:1328356,1329524}Let's introduce ourselves.{NOTE:なら紹介しろうよ。}
+Dialogue: 0,0:22:06.60,0:22:08.35,Default,Hotta,0,0,0,,{TIME:1326605,1328356}Is she one of your new friends, Nozomi?{NOTE:のぞみの新しい友達か？}
+Dialogue: 0,0:22:08.35,0:22:09.52,Default,Hotta,0,0,0,,{TIME:1328356,1329524}Let's introduce ourselves.{NOTE:なら紹介しろうよ。}
 Dialogue: 0,0:22:11.23,0:22:14.94,Default,Kouda Miki,0,0,0,,{TIME:1331234,1334946}So they're your accomplices who sent me this ridiculous handkerchief…{NOTE:この連中ね、あなたとグルになって意味ありげなハンカチ送ったり…}
-Dialogue: 0,0:22:14.94,0:22:17.53,Default,Kouda Miki,0,0,0,,{TIME:1334946,1337532}…and threatened me with weird phone calls.{NOTE:妙な電話をかけて私に脅しをかけてるのは…}
+Dialogue: 0,0:22:14.94,0:22:17.53,Default,Kouda Miki,0,0,0,,{TIME:1334946,1337532}…and threatened me with weird phone calls?{NOTE:妙な電話をかけて私に脅しをかけてるのは…}
 Dialogue: 0,0:22:17.53,0:22:19.99,Default,Kouda Miki,0,0,0,,{TIME:1337532,1339993}If you wanted money, you should've said so from the beginning.{NOTE:金が欲しいんだったら最初からそう言えばいいじゃないの。}
 Dialogue: 0,0:22:20.45,0:22:21.32,Default,(unison),0,0,0,,{TIME:1340452,1341328}Eh?{NOTE:え？}
-Dialogue: 0,0:22:23.07,0:22:24.03,Default,Mine Nozomi,0,0,0,,{TIME:1343079,1344039}Miki-san.{NOTE:美紀さん。}
+Dialogue: 0,0:22:23.07,0:22:24.03,Default,Mine Nozomi,0,0,0,,{TIME:1343079,1344039}Miki-san…{NOTE:美紀さん。}
 Dialogue: 0,0:22:24.70,0:22:26.16,Default,Kouda Miki,0,0,0,,{TIME:1344706,1346166}You don't have to push yourself.{NOTE:無理しなくてもいいのよ。}
 Dialogue: 0,0:22:26.16,0:22:28.71,Default,Kouda Miki,0,0,0,,{TIME:1346166,1348710}I can give you 100,000 yen like it's nothing.{NOTE:10万円までなら今すぐ出してもいいわ。}
 Dialogue: 0,0:22:28.71,0:22:30.67,Default,Mine Nozomi,0,0,0,,{TIME:1348710,1350670}People like you…{NOTE:あなたって人は…}
-Dialogue: 0,0:22:30.67,0:22:34.50,Default,Kouda Miki,0,0,0,,{TIME:1350670,1354507}I heard part time school systems are poor, but I never thought this much—{NOTE:定時制はガラが悪い噂には聞いていたけど、やっぱり—}
-Dialogue: 0,0:22:34.50,0:22:35.25,Default,Mine Nozomi,0,0,0,,{TIME:1354507,1355258}Idiot!{NOTE:馬鹿！}
+Dialogue: 0,0:22:30.67,0:22:34.50,Default,Kouda Miki,0,0,0,,{TIME:1350670,1354507}I heard part time school systems are poor,\Nbut I never thought this much—{NOTE:定時制はガラが悪い噂には聞いていたけど、やっぱり—}
+Dialogue: 0,0:22:34.50,0:22:35.25,Default,Mine Nozomi,0,0,0,,{TIME:1354507,1355258}You idiot!{NOTE:馬鹿！}
 Dialogue: 0,0:22:37.76,0:22:38.97,Default,Kouda Miki,0,0,0,,{TIME:1357761,1358970}Now you've done it!{NOTE:やったわね！}
-Dialogue: 0,0:22:39.84,0:22:41.72,Default,Kouda Miki,0,0,0,,{TIME:1359846,1361723}I, the daughter of a president a big company…{NOTE:社長令嬢の私が…}
-Dialogue: 0,0:22:41.72,0:22:45.18,Default,Kouda Miki,0,0,0,,{TIME:1361723,1365185}This is the first time someone hit me.{NOTE:私、生まれて初めて打たれたわ。}
-Dialogue: 0,0:22:45.18,0:22:48.48,Default,Kouda Miki,0,0,0,,{TIME:1365185,1368480}On top of that it was some lass from oden stand.{NOTE:しかもXXおでん屋の娘にね。}
+Dialogue: 0,0:22:39.84,0:22:41.72,Default,Kouda Miki,0,0,0,,{TIME:1359846,1361723}For me, the daughter of\Na president a big company…{NOTE:社長令嬢の私が…}
+Dialogue: 0,0:22:41.72,0:22:45.18,Default,Kouda Miki,0,0,0,,{TIME:1361723,1365185}…to be hit like this.{NOTE:私、生まれて初めて打たれたわ。}
+Dialogue: 0,0:22:45.18,0:22:48.48,Default,Kouda Miki,0,0,0,,{TIME:1365185,1368480}On top of that it was from some oden stand-girl.{NOTE:しかもXXおでん屋の娘にね。}
 Dialogue: 0,0:22:50.89,0:22:52.94,Default,Kouda Miki,0,0,0,,{TIME:1370899,1372943}{\i1}Mark my words.{NOTE:覚えてらっしゃい。}
-Dialogue: 0,0:22:52.94,0:22:55.23,Default,Kouda Miki,0,0,0,,{TIME:1372943,1375237}{\i1}I'm not going to let it end like that.{NOTE:このままじゃ済ませないってことね。}
-Dialogue: 0,0:23:06.74,0:23:08.70,Default,Nohara Michiko,0,0,0,,{TIME:1386748,1388708}{\i1}Hate each other more.{NOTE:もっと憎しみ合いなさい。}
+Dialogue: 0,0:22:52.94,0:22:55.23,Default,Kouda Miki,0,0,0,,{TIME:1372943,1375237}{\i1}I'm not going to let it end like this.{NOTE:このままじゃ済ませないってことね。}
+Dialogue: 0,0:23:06.74,0:23:08.70,Default,Nohara Michiko,0,0,0,,{TIME:1386748,1388708}{\i1}Yes… hate each other more.{NOTE:もっと憎しみ合いなさい。}
 Dialogue: 0,0:23:08.70,0:23:10.46,Default,Nohara Michiko,0,0,0,,{TIME:1388708,1390460}{\i1}Be troubled more and more.{NOTE:もっと悩むがいいわ。}
 Dialogue: 0,0:23:10.46,0:23:13.83,Default,Nohara Michiko,0,0,0,,{TIME:1390460,1393838}{\i1}I want you to feel the most miserable.{NOTE:そしてうんと惨めな気持ちになるのよ。}
 Dialogue: 0,0:23:13.83,0:23:16.92,Default,Nohara Michiko,0,0,0,,{TIME:1393838,1396925}{\i1}Just like I felt when I was your age.{NOTE:私が二人と同じ年頃の時の言う。}
 Dialogue: 0,0:23:17.84,0:23:22.01,Default,Nohara Michiko,0,0,0,,{TIME:1397842,1402013}{\i1}The black seeds sown 17 years ago…{NOTE:１７年前に巻いた黒い種が花を開くのは。}
-Dialogue: 0,0:23:22.01,0:23:23.68,Default,Nohara Michiko,0,0,0,,{TIME:1402013,1403682}{\i1}…finally start to open up.{NOTE:これからよ。}
+Dialogue: 0,0:23:22.01,0:23:23.68,Default,Nohara Michiko,0,0,0,,{TIME:1402013,1403682}{\i1}…have finally started to open up.{NOTE:これからよ。}
 Comment: 0,0:23:32.43,0:23:32.43,Default,[chapter],0,0,0,,{TIME:1412439,1412439}Preview
-Dialogue: 0,0:23:34.52,0:23:37.52,Default,Narrator,0,0,0,,{TIME:1414526,1417529}The fateful encounter between Nozomi and Miki finally takes place.{NOTE:宿命的な出会いを迎えたのぞみと美紀。}
-Dialogue: 0,0:23:37.52,0:23:41.49,Default,Narrator,0,0,0,,{TIME:1417529,1421491}Miki who harbors hostility towards Nozomi, reaches out to her…{NOTE:のぞみに対し敵意を抱く美紀がなぜか若いを申し入れ…}
-Dialogue: 0,0:23:41.49,0:23:46.45,Default,Narrator,0,0,0,,{TIME:1421491,1426454}…and invites her to a birthday party as a chance of reconciliation.{NOTE:仲直りの印として誕生パーティーに是非出席してくれと頼むのであった。}
-Dialogue: 0,0:23:46.45,0:23:51.29,Default,Narrator,0,0,0,,{TIME:1426454,1431293}Please look forward to the next episode:\N"Double birthday party".{NOTE:では、来週のさすらいの太陽「二つの誕生パーティー」にご期待ください。}
+Dialogue: 0,0:23:34.52,0:23:37.52,Default,Narrator,0,0,0,,{TIME:1414526,1417529}{\i1}The fateful encounter between Nozomi and Miki finally takes place.{NOTE:宿命的な出会いを迎えたのぞみと美紀。}
+Dialogue: 0,0:23:37.52,0:23:41.49,Default,Narrator,0,0,0,,{TIME:1417529,1421491}{\i1}Miki who harbors hostility towards Nozomi, reaches out to her…{NOTE:のぞみに対し敵意を抱く美紀がなぜか若いを申し入れ…}
+Dialogue: 0,0:23:41.49,0:23:46.45,Default,Narrator,0,0,0,,{TIME:1421491,1426454}{\i1}…and invites her to a birthday party as a chance of reconciliation.{NOTE:仲直りの印として誕生パーティーに是非出席してくれと頼むのであった。}
+Dialogue: 0,0:23:46.45,0:23:51.29,Default,Narrator,0,0,0,,{TIME:1426454,1431293}{\i1}Please look forward to the next episode:\N"Double birthday party".{NOTE:では、来週のさすらいの太陽「二つの誕生パーティー」にご期待ください。}
 Comment: 0,0:23:52.96,0:23:52.96,Default,[chapter],0,0,0,,{TIME:1432961,1432961}Ending
 Dialogue: 0,0:23:57.38,0:24:07.10,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1437382,1447100}{\k20}U{\k33}ta {\k137}wa {\k37}wa{\k20}ta{\k37}shi {\k162}no {\k25}to{\k33}mo{\k83}da{\k33}chi {\k50}da{\k54}ka{\k241}ra{NOTE:うたは私の友達だから}
 Dialogue: 0,0:24:07.10,0:24:15.60,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1447100,1455608}{\k79}Ku{\k25}ru{\k62}shi{\k54}i {\k83}to{\k45}ki {\k100}mo {\k25}wa{\k29}ta{\k33}shi {\k29}no {\k54}yuu{\k54}ga{\k175}ta{NOTE:苦しい時も私の味方}
@@ -431,8 +434,8 @@ Dialogue: 0,0:24:42.96,0:24:52.02,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1482969,
 Dialogue: 0,0:24:52.02,0:25:05.03,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1492029,1505033}{\k29}I{\k24}tsu{\k87}ka {\k24}hi{\k51}ro{\k91}ga{\k194}ru {\k29}a{\k39}shi{\k29}ta {\k25}wo {\k41}shi{\k41}n{\k66}ji{\k91}yo{\k433}u{NOTE:いつか広がる明日を信じよう}
 Dialogue: 0,0:23:57.38,0:24:07.10,Karaoke English,[karaoke],0,0,0,,{TIME:1437382,1447100}Music is my friend{NOTE:うたは私の友達だから}
 Dialogue: 0,0:24:07.10,0:24:15.60,Karaoke English,[karaoke],0,0,0,,{TIME:1447100,1455608}When things get hard, it stays with me{NOTE:苦しい時も私の味方}
-Dialogue: 0,0:24:15.60,0:24:25.32,Karaoke English,[karaoke],0,0,0,,{TIME:1455608,1465327}Heard alone is lonely, but{NOTE:たった一人で淋しいけれど}
+Dialogue: 0,0:24:15.60,0:24:25.32,Karaoke English,[karaoke],0,0,0,,{TIME:1455608,1465327}Heard alone it's lonely, but{NOTE:たった一人で淋しいけれど}
 Dialogue: 0,0:24:25.32,0:24:33.79,Karaoke English,[karaoke],0,0,0,,{TIME:1465327,1473797}Heard together it resonates with everyone{NOTE:心の歌をみんなの歌に}
-Dialogue: 0,0:24:33.79,0:24:42.96,Karaoke English,[karaoke],0,0,0,,{TIME:1473797,1482969}I hope people downtown can hear it{NOTE:みんなの歌が町いっぱいに}
-Dialogue: 0,0:24:42.96,0:24:52.02,Karaoke English,[karaoke],0,0,0,,{TIME:1482969,1492029}Let's believe in tomorrow which will spread someday{NOTE:いつか広がる明日を信じよう}
-Dialogue: 0,0:24:52.02,0:25:05.03,Karaoke English,[karaoke],0,0,0,,{TIME:1492029,1505033}Let's believe in tomorrow which will spread someday{NOTE:いつか広がる明日を信じよう}
+Dialogue: 0,0:24:33.79,0:24:42.96,Karaoke English,[karaoke],0,0,0,,{TIME:1473797,1482969}I hope the people downtown can hear it{NOTE:みんなの歌が町いっぱいに}
+Dialogue: 0,0:24:42.96,0:24:52.02,Karaoke English,[karaoke],0,0,0,,{TIME:1482969,1492029}Let's believe in the tomorrow that will spread someday{NOTE:いつか広がる明日を信じよう}
+Dialogue: 0,0:24:52.02,0:25:05.03,Karaoke English,[karaoke],0,0,0,,{TIME:1492029,1505033}Let's believe in the tomorrow that will spread someday{NOTE:いつか広がる明日を信じよう}
