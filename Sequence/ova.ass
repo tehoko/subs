@@ -13,8 +13,8 @@ Video File: source/ova.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,DejaVu Sans,16,&H00F8F8F8,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,0.0,2,20,20,20,1
-Style: Sign,DejaVu Sans,16,&H00B3F7DA,&H00919191,&H001C4425,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.75,0.0,8,20,20,15,1
+Style: Default,Museo Sans 700,20.0,&H00F3F8FA,&H000000FF,&H001D3544,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,1.7,0.0,2,20,20,20,1
+Style: Sign,Museo Sans 700,20.0,&H00B3F7DA,&H00919191,&H001C4425,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.75,0.0,8,20,20,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -49,7 +49,7 @@ Dialogue: 0,0:03:42.43,0:03:47.10,Default,Morio Megumi,0,0,0,,{TIME:222431,22710
 Dialogue: 0,0:03:47.10,0:03:49.10,Default,Morio Megumi,0,0,0,,{TIME:227102,229104}If only that accident hadn't… well…{NOTE:あんな事故さえなかったら…}
 Dialogue: 0,0:03:54.65,0:03:56.23,Default,Student A,0,0,0,,{TIME:234651,236236}Good morning, Megumi!{NOTE:おはよう、めぐみ！}
 Dialogue: 0,0:03:56.23,0:03:57.52,Default,Morio Megumi,0,0,0,,{TIME:236236,237529}Oh, morning!{NOTE:あ、おはよう！}
-Dialogue: 0,0:03:57.52,0:03:59.78,Default,Student A,0,0,0,,{TIME:237529,239781}Come on, hurry up!{NOTE:ほら、急げ！}
+Dialogue: 0,0:03:57.52,0:03:59.23,Default,Student A,0,0,0,,{TIME:237529,239238}Come on, hurry up!{NOTE:ほら、急げ！}
 Dialogue: 0,0:03:59.78,0:04:01.86,Default,Morio Megumi,0,0,0,,{TIME:239781,241867}We'll be late. Let's run!{NOTE:遅刻しちゃうよ。走ろう！}
 Dialogue: 0,0:04:22.51,0:04:26.55,Default,Teacher A,0,0,0,,{TIME:262512,266558}Today I'm about to introduce a new transfer student…{NOTE:今日は皆に転校生を紹介する。}
 Dialogue: 0,0:04:26.55,0:04:27.76,Default,Teacher A,0,0,0,,{TIME:266558,267767}…or rather I was about to.{NOTE:はずだった。}
@@ -76,7 +76,7 @@ Dialogue: 0,0:05:44.17,0:05:46.47,Default,Radio operator,0,0,0,,{TIME:344177,346
 Dialogue: 0,0:05:56.43,0:05:58.85,Default,Tsuzuki Toshiaki's mom,0,0,0,,{TIME:356439,358858}{\i1}Amnesia?{NOTE:記憶喪失ですか？}
 Dialogue: 0,0:05:58.85,0:06:00.15,Default,Doctor,0,0,0,,{TIME:358858,360151}{\i1}Yes.{NOTE:え。}
 Dialogue: 0,0:06:00.15,0:06:02.73,Default,Doctor,0,0,0,,{TIME:360151,362737}{\i1}But, thankfully, his consciousness is still steady.{NOTE:でも意識はしっかりしています。}
-Dialogue: 0,0:06:02.73,0:06:07.20,Default,Doctor,0,0,0,,{TIME:362737,367200}{\i1}So it would be better to teach little by little rather than forcing him to remember.{NOTE:無理に思い出させようとせずに少しずつ教えるのがいいでしょう}
+Dialogue: 0,0:06:02.73,0:06:07.20,Default,Doctor,0,0,0,,{TIME:362737,367200}{\i1}So it would be better to teach little by little\Nrather than forcing him to remember.{NOTE:無理に思い出させようとせずに少しずつ教えるのがいいでしょう}
 Dialogue: 0,0:06:08.82,0:06:10.03,Default,Tsuzuki Toshiaki's mom,0,0,0,,{TIME:368827,370036}{\i1}Toshiaki…{NOTE:俊明…}
 Dialogue: 0,0:06:14.37,0:06:15.83,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:374374,375834}{\i1}That day…{NOTE:あの日僕は…}
 Dialogue: 0,0:06:15.83,0:06:19.12,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:375834,379129}{\i1}…I lost my entire self.{NOTE:それまでの自分を全て失ってしまった。}
@@ -98,7 +98,7 @@ Dialogue: 0,0:06:56.08,0:06:57.66,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:416082,4
 Dialogue: 0,0:06:57.66,0:06:58.79,Default,Tōno Tsukasa,0,0,0,,{TIME:417667,418793}Thanks.{NOTE:サンキュー。}
 Dialogue: 0,0:06:59.87,0:07:00.79,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:419878,420795}Hey…{NOTE:ね。}
 Dialogue: 0,0:07:00.79,0:07:01.50,Default,Tōno Tsukasa,0,0,0,,{TIME:420795,421504}Hm?{NOTE:ん？}
-Dialogue: 0,0:07:02.58,0:07:04.63,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:422589,424633}Have we meet before?{NOTE:どこかで会ったっけ？}
+Dialogue: 0,0:07:02.58,0:07:04.63,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:422589,424633}Have we met before?{NOTE:どこかで会ったっけ？}
 Dialogue: 0,0:07:05.55,0:07:07.59,Default,Tōno Tsukasa,0,0,0,,{TIME:425550,427594}I don't think so.{NOTE:それはないと思うぜ。}
 Dialogue: 0,0:07:07.59,0:07:10.84,Default,Tōno Tsukasa,0,0,0,,{TIME:427594,430847}You see, I just transferred to this school today.{NOTE:俺は何せ今日転向してきたばっかりだからな。}
 Dialogue: 0,0:07:11.93,0:07:14.55,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:431931,434559}Then you must be Tōno Tsukasa?{NOTE:じゃ、東野司って？}
@@ -119,6 +119,7 @@ Dialogue: 0,0:08:31.38,0:08:33.34,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:511386,5
 Dialogue: 0,0:08:33.34,0:08:35.55,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:513346,515557}As if he could know what the real man looked like.{NOTE:本人に会えるはずもないのに。}
 Dialogue: 0,0:08:39.31,0:08:41.89,Sign,(sign),0,0,0,,{TIME:519310,521896}Tōno Tsukasa{NOTE:東野司}
 Dialogue: 0,0:08:42.89,0:08:46.86,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:522897,526860}Still… he had such a nostalgic feeling around him.{NOTE:でもあいつ妙に懐かしい感じがした。}
+Dialogue: 0,0:08:46.86,0:08:55.36,Sign,(sign),0,0,0,,{TIME:526860,535368}{\1c&HB3F7DA&\3c&H1C4425&\t(5500,8500,\1c&H0C0C0C&\3c&H0C0C0C&)}Tōno Tsukasa{NOTE:東野司}
 Dialogue: 0,0:08:49.32,0:08:51.36,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:529320,531364}Tōno Tsukasa…{NOTE:東野司。}
 Dialogue: 0,0:09:13.63,0:09:15.13,Default,Taisa,0,0,0,,{TIME:553636,555138}{\i1}Seira, watch out!{NOTE:セイラ危ない！}
 Dialogue: 0,0:09:21.39,0:09:23.47,Default,Taisa,0,0,0,,{TIME:561394,563478}{\i1}Seira!{NOTE:セイラ！}
@@ -129,7 +130,7 @@ Comment: 0,0:09:43.20,0:09:43.20,Default,[chapter],0,0,0,,{TIME:583208,583208}Ch
 Dialogue: 0,0:09:51.71,0:09:54.51,Default,Tōno Tsukasa,0,0,0,,{TIME:591716,594511}Why don't we hang around after school?{NOTE:さ、今日放課後付き合えよ。}
 Dialogue: 0,0:09:54.51,0:09:55.30,Default,Morio Megumi,0,0,0,,{TIME:594511,595303}I can't.{NOTE:ダメ。}
 Dialogue: 0,0:09:55.30,0:09:57.43,Default,Morio Megumi,0,0,0,,{TIME:595303,597430}Our acting club has music practice.{NOTE:演劇部の音楽練習がある。}
-Dialogue: 0,0:09:57.43,0:09:59.84,Default,Tōno Tsukasa,0,0,0,,{TIME:597430,599849}Why don't you skip it?{NOTE:そんなのサボっちゃえよ。}
+Dialogue: 0,0:09:57.43,0:09:58.97,Default,Tōno Tsukasa,0,0,0,,{TIME:597430,598973}Why don't you skip it?{NOTE:そんなのサボっちゃえよ。}
 Dialogue: 0,0:09:59.84,0:10:01.26,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:599849,601267}Is something wrong, Megumi?{NOTE:どうしたの、めぐみ？}
 Dialogue: 0,0:10:01.26,0:10:03.35,Default,Morio Megumi,0,0,0,,{TIME:601267,603353}Oh, good morning, Toshiaki-kun.{NOTE:あ、おはよう俊明くん。}
 Dialogue: 0,0:10:03.35,0:10:04.60,Default,Morio Megumi,0,0,0,,{TIME:603353,604604}No, everything's fine.{NOTE:何でもないよ。}
@@ -141,7 +142,7 @@ Dialogue: 0,0:10:31.84,0:10:34.00,Default,Morio Megumi,0,0,0,,{TIME:631840,63400
 Dialogue: 0,0:10:35.13,0:10:37.26,Default,Morio Megumi,0,0,0,,{TIME:635134,637262}Why don't we go to the Forest Park again?{NOTE:又森林公園に行かない？}
 Dialogue: 0,0:10:37.26,0:10:39.09,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:637262,639097}Forest Park?{NOTE:森林公園？}
 Dialogue: 0,0:10:39.09,0:10:42.47,Default,Morio Megumi,0,0,0,,{TIME:639097,642475}We used to play there a lot with the other kids\Nback in the kindergarten.{NOTE:幼稚園のころよくお互いの家同士で言ったんだよ。}
-Dialogue: 0,0:10:45.64,0:10:50.31,Default,Morio Megumi,0,0,0,,{TIME:645645,650316}You might remember something while we're there.{NOTE:あそこなら向かしのこと思い出せるかもしれないよ。}
+Dialogue: 0,0:10:45.64,0:10:50.31,Default,Morio Megumi,0,0,0,,{TIME:645645,650316}You might remember something\Nwhile we're there.{NOTE:あそこなら向かしのこと思い出せるかもしれないよ。}
 Dialogue: 0,0:10:58.03,0:10:59.32,Default,Teacher B,0,0,0,,{TIME:658032,659325}Hey, you two!{NOTE:ほら！そこの二人！}
 Dialogue: 0,0:10:59.32,0:11:00.82,Default,Teacher B,0,0,0,,{TIME:659325,660827}No slacking!{NOTE:なによサボってやる！}
 Dialogue: 0,0:11:04.20,0:11:07.54,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:664205,667542}Please return it by Wednesday.{NOTE:それじゃ、水曜日までに返却お願いします。}
@@ -158,11 +159,11 @@ Dialogue: 0,0:11:49.91,0:11:52.33,Default,Tōno Tsukasa,0,0,0,,{TIME:709918,7123
 Dialogue: 0,0:11:54.29,0:11:55.96,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:714297,715965}Why do you ask that?{NOTE:どうしてそんな事を？}
 Dialogue: 0,0:11:55.96,0:11:58.13,Default,Tōno Tsukasa,0,0,0,,{TIME:715965,718134}Just answer the question, man.{NOTE:いいから答えろよ。}
 Dialogue: 0,0:11:58.13,0:11:59.84,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:718134,719844}Megumi is my childhood friend.{NOTE:めぐりは幼馴染だ。}
-Dialogue: 0,0:12:01.05,0:12:03.47,Default,Tōno Tsukasa,0,0,0,,{TIME:721054,723473}So she's not your girlfriend?{NOTE:じゃあ、お前の彼女ってわけじゃないんだな。}
+Dialogue: 0,0:12:01.05,0:12:03.47,Default,Tōno Tsukasa,0,0,0,,{TIME:721054,723473}In that case, she's not your girlfriend, right?{NOTE:じゃあ、お前の彼女ってわけじゃないんだな。}
 Dialogue: 0,0:12:08.18,0:12:09.85,Default,Tōno Tsukasa,0,0,0,,{TIME:728186,729854}Okay, then.{NOTE:そうっか。}
-Dialogue: 0,0:12:09.85,0:12:13.90,Default,Tōno Tsukasa,0,0,0,,{TIME:729854,733900}So it won't matter to you if I go out with her?{NOTE:ということは俺があいつを誘ってもお前には関係ないわけだ。}
+Dialogue: 0,0:12:09.85,0:12:13.90,Default,Tōno Tsukasa,0,0,0,,{TIME:729854,733900}So it won't matter to you if I go out with her.{NOTE:ということは俺があいつを誘ってもお前には関係ないわけだ。}
 Dialogue: 0,0:12:16.94,0:12:18.15,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:736945,738154}Tōno!{NOTE:東野！}
-Dialogue: 0,0:12:19.28,0:12:22.82,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:739280,742825}Remember how you said that Hideyoshi didn't "resemble" or whatever?{NOTE:この間秀吉の肖像画似てないって言っただろ。}
+Dialogue: 0,0:12:19.28,0:12:22.82,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:739280,742825}Remember how you said that the picture didn't "resemble" Hideyoshi or whatever?{NOTE:この間秀吉の肖像画似てないって言っただろ。}
 Dialogue: 0,0:12:22.82,0:12:23.74,Default,Tōno Tsukasa,0,0,0,,{TIME:742825,743743}Yeah.{NOTE:ああ。}
 Dialogue: 0,0:12:23.74,0:12:25.82,Default,Tōno Tsukasa,0,0,0,,{TIME:743743,745828}Because he didn't.{NOTE:本当に似てないからな。}
 Dialogue: 0,0:12:25.82,0:12:27.45,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:745828,747455}How could you possibly know that?{NOTE:どうしてそんな事が分かるんだ？}
@@ -170,7 +171,7 @@ Dialogue: 0,0:12:28.74,0:12:30.45,Default,Tōno Tsukasa,0,0,0,,{TIME:748748,7504
 Dialogue: 0,0:12:30.45,0:12:31.50,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:750458,751501}Huh?!{NOTE:え？}
 Dialogue: 0,0:12:31.50,0:12:33.50,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:751501,753503}You… met Hideyoshi?{NOTE:秀吉に…会った？}
 Dialogue: 0,0:12:39.67,0:12:42.09,Default,Tōno Tsukasa,0,0,0,,{TIME:759676,762095}Well, to be honest, my phrasing was a bit off.{NOTE:と言うのは性格じゃねえな。}
-Dialogue: 0,0:12:42.09,0:12:45.34,Default,Tōno Tsukasa,0,0,0,,{TIME:762095,765348}I guess you could say, I met him in my previous life.{NOTE:正しくは前世の俺が会った。}
+Dialogue: 0,0:12:42.09,0:12:45.34,Default,Tōno Tsukasa,0,0,0,,{TIME:762095,765348}I guess you could say,\NI met him in my previous life.{NOTE:正しくは前世の俺が会った。}
 Dialogue: 0,0:12:45.34,0:12:47.43,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:765348,767433}Previous… life?{NOTE:前…世？}
 Dialogue: 0,0:12:47.43,0:12:50.77,Default,Tōno Tsukasa,0,0,0,,{TIME:767433,770770}I have memories of my previous life.{NOTE:俺前世の記憶が残ってんだ。}
 Dialogue: 0,0:12:50.77,0:12:52.48,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:770770,772480}Don't be absurd.{NOTE:バカ言うな。}
@@ -180,11 +181,11 @@ Dialogue: 0,0:12:57.23,0:13:00.57,Default,Tōno Tsukasa,0,0,0,,{TIME:777235,7805
 Dialogue: 0,0:13:00.57,0:13:05.82,Default,Tōno Tsukasa,0,0,0,,{TIME:780571,785827}And before that, I was a strategist during Warring States period under Toyotomi Hideyoshi.{NOTE:さらにその前が安土桃山時代で豊臣秀吉の軍師だ。}
 Dialogue: 0,0:13:05.82,0:13:08.87,Default,Tōno Tsukasa,0,0,0,,{TIME:785827,788871}The famous siege of Odawara was my strategy.{NOTE:有名な小田原攻めは俺が立てた作戦だ。}
 Dialogue: 0,0:13:10.91,0:13:14.08,Default,Tōno Tsukasa,0,0,0,,{TIME:790915,794085}But none of that matters anymore.{NOTE:ま、そんな事はどうでもいいさ。}
-Dialogue: 0,0:13:14.08,0:13:18.17,Default,Tōno Tsukasa,0,0,0,,{TIME:794085,798172}What matters is that I'm interested in Morio Megumi.{NOTE:とにかく俺は森尾めぐみが気に入ったってことだ。}
+Dialogue: 0,0:13:14.08,0:13:18.17,Default,Tōno Tsukasa,0,0,0,,{TIME:794085,798172}What matters is that\NI'm interested in Morio Megumi.{NOTE:とにかく俺は森尾めぐみが気に入ったってことだ。}
 Dialogue: 0,0:13:18.17,0:13:19.13,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:798172,799132}Hey, wait.{NOTE:あ、待って。}
 Dialogue: 0,0:13:22.30,0:13:24.92,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:802301,804929}Memories of previous lives…?{NOTE:前世のXX記憶があるなんて。}
 Comment: 0,0:13:50.83,0:13:50.83,Default,[chapter],0,0,0,,{TIME:830830,830830}Chapter 5
-Dialogue: 0,0:13:50.83,0:13:55.87,Default,(sign),0,0,0,,{TIME:830830,835877}{\1c&H101010&\3c&H101010&\t(0,1000,\1c&HF8F8F8&\3c&H202020&)}Mr. Y's Neighbors\N2-2 ~When I see you in my dreams~{NOTE:Y氏の隣人\\N２ー２～夢で逢えたら～}
+Dialogue: 0,0:13:50.83,0:13:55.87,Sign,(sign),0,0,0,,{TIME:830830,835877}{\1c&H101010&\3c&H101010&\t(0,1000,\1c&HB3F7DA&\3c&H1C4425&)}Mr. Y's Neighbors\N2-2 ~When I see you in my dreams~{NOTE:Y氏の隣人\\N２ー２～夢で逢えたら～}
 Dialogue: 0,0:14:37.62,0:14:39.92,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:877627,879921}Looks like you've got the hang of it.{NOTE:もう本番行けそうだね。}
 Dialogue: 0,0:14:39.92,0:14:41.96,Default,Morio Megumi,0,0,0,,{TIME:879921,881964}I think it's still a little off.{NOTE:ままってことかな。}
 Dialogue: 0,0:14:41.96,0:14:44.71,Default,Morio Megumi,0,0,0,,{TIME:881964,884717}And it's important to stay sharp…{NOTE:でも、お終いとの合わせが大切だから…}
@@ -197,6 +198,7 @@ Dialogue: 0,0:15:07.94,0:15:10.32,Default,Morio Megumi,0,0,0,,{TIME:907949,91032
 Dialogue: 0,0:15:10.32,0:15:11.61,Default,Morio Megumi,0,0,0,,{TIME:910326,911619}Why'd you ask?{NOTE:でも、どうして？}
 Dialogue: 0,0:15:14.95,0:15:16.91,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:914956,916916}It's nothing, forget it.{NOTE:いや、何でもないよ。}
 Dialogue: 0,0:15:21.12,0:15:23.46,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:921129,923464}Let's go. Afternoon classes start soon.{NOTE:行こう。午後の授業は始まる。}
+Dialogue: 0,0:15:34.51,0:15:36.97,Sign,(sign),0,0,0,,{TIME:934517,936978}Closed day{NOTE:休館日}
 Dialogue: 0,0:15:43.81,0:15:44.86,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:943818,944861}Huh?{NOTE:あれ？}
 Dialogue: 0,0:15:44.86,0:15:46.86,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:944861,946863}What about the practice in the auditorium?{NOTE:演劇の音楽練習は？}
 Dialogue: 0,0:15:48.19,0:15:50.24,Default,Morio Megumi,0,0,0,,{TIME:948197,950241}I skipped it.{NOTE:サボっちゃった。}
@@ -210,7 +212,7 @@ Dialogue: 0,0:17:06.52,0:17:08.11,Default,Seira,0,0,0,,{TIME:1026525,1028110}{\i
 Dialogue: 0,0:17:08.11,0:17:09.40,Default,Kara,0,0,0,,{TIME:1028110,1029403}{\i1}Yes.{NOTE:え！}
 Dialogue: 0,0:17:09.40,0:17:10.82,Default,Seira,0,0,0,,{TIME:1029403,1030821}{\i1}Just like I thought.{NOTE:思ったと通りだ。}
 Dialogue: 0,0:17:10.82,0:17:12.78,Default,Kara,0,0,0,,{TIME:1030821,1032782}{\i1}I know about you, too.{NOTE:私もあなたの事は知っているわ。}
-Dialogue: 0,0:17:14.15,0:17:18.99,Default,Kara,0,0,0,,{TIME:1034158,1038996}{\i1}You're Seira, the prodigy that set a new record on the semestral tests.{NOTE:シーズンテストで新記録トップを取った秀才セイラでしょう？}
+Dialogue: 0,0:17:14.15,0:17:18.99,Default,Kara,0,0,0,,{TIME:1034158,1038996}{\i1}You're Seira, the prodigy\Nthat set a new record on the semestral tests.{NOTE:シーズンテストで新記録トップを取った秀才セイラでしょう？}
 Dialogue: 0,0:17:24.25,0:17:26.58,Default,Seira,0,0,0,,{TIME:1044252,1046587}{\i1}Happy birthday, Kara.{NOTE:誕生日おめでとう、カラ。}
 Dialogue: 0,0:17:26.58,0:17:28.17,Default,Kara,0,0,0,,{TIME:1046587,1048172}{\i1}Thank you for the earrings.{NOTE:イヤリングありがとう。}
 Dialogue: 0,0:17:29.63,0:17:31.38,Default,Seira,0,0,0,,{TIME:1049632,1051384}{\i1}They look great on you.{NOTE:とっても似合うよ。}
@@ -224,7 +226,7 @@ Dialogue: 0,0:17:50.44,0:17:52.73,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1070444,
 Comment: 0,0:18:03.08,0:18:03.08,Default,[chapter],0,0,0,,{TIME:1083082,1083082}Chapter 6
 Dialogue: 0,0:18:11.29,0:18:12.38,Default,Student A,0,0,0,,{TIME:1091299,1092383}Awesome!{NOTE:凄い！}
 Dialogue: 0,0:18:12.38,0:18:14.88,Default,Student A,0,0,0,,{TIME:1092383,1094885}Tōno-kun is so cool at everything he does!{NOTE:東野くんで何やっても格好いいね。}
-Dialogue: 0,0:18:14.88,0:18:19.84,Default,Student D,0,0,0,,{TIME:1094885,1099849}And Tsuzuki was in the tennis club during middle school so it's only natural they'd have an intense match.{NOTE:中学でテニス部だった俊明くんと押し気味の試合するんだから相当なもんよね。}
+Dialogue: 0,0:18:14.88,0:18:20.09,Default,Student D,1,1,0,,{TIME:1094885,1100099}{\fs19}And Tsuzuki-kun was in the tennis club in junior high, so it's only natural their match would be so intense.{NOTE:中学でテニス部だった俊明くんと押し気味の試合するんだから相当なもんよね。}
 Dialogue: 0,0:18:40.16,0:18:41.20,Default,Student A,0,0,0,,{TIME:1120161,1121203}He did it!{NOTE:やった！}
 Dialogue: 0,0:18:41.20,0:18:43.12,Default,Student D,0,0,0,,{TIME:1121203,1123122}Game set!{NOTE:ゲームセット！}
 Dialogue: 0,0:18:50.08,0:18:51.96,Default,(background noise),0,0,0,,{TIME:1130087,1131964}{\an8}Have you played tennis before?{NOTE:どこかテニスをやったんですか？}
@@ -232,7 +234,8 @@ Dialogue: 0,0:18:55.09,0:18:57.92,Default,Tōno Tsukasa,0,0,0,,{TIME:1135092,113
 Dialogue: 0,0:18:57.92,0:18:58.88,Default,Morio Megumi,0,0,0,,{TIME:1137928,1138888}Yep.{NOTE:え。}
 Dialogue: 0,0:18:58.88,0:19:02.22,Default,Tōno Tsukasa,0,0,0,,{TIME:1138888,1142224}I may not look like it, but I can play the piano.{NOTE:な、俺こう見えても、ピアノ弾けるんだぜ。}
 Dialogue: 0,0:19:02.22,0:19:04.39,Default,Tōno Tsukasa,0,0,0,,{TIME:1142224,1144393}You know, stage music is always super flashy.{NOTE:舞台音楽は派手な方がいいし。}
-Dialogue: 0,0:19:04.39,0:19:07.85,Default,Tōno Tsukasa,0,0,0,,{TIME:1144393,1147855}Why don't you play in an orchestra with me?{NOTE:どうだ？俺と合奏でやらないか？}
+Dialogue: 0,0:19:04.39,0:19:06.52,Default,Tōno Tsukasa,0,0,0,,{TIME:1144393,1146520}Why don't you play in an orchestra with me?{NOTE:どうだ？俺と合奏でやらないか？}
+Dialogue: 0,0:19:06.52,0:19:07.85,Default,Morio Megumi,0,0,0,,{TIME:1146520,1147855}Huh?{NOTE:え？}
 Dialogue: 0,0:19:07.85,0:19:09.89,Default,Tōno Tsukasa,0,0,0,,{TIME:1147855,1149899}It'll be great, I'm telling you.{NOTE:絶対その方がいいって。}
 Dialogue: 0,0:19:09.89,0:19:14.02,Default,Morio Megumi,0,0,0,,{TIME:1149899,1154028}But I've already planned my music career.{NOTE:でも、もう全体の音楽プランはできてしまってるし。}
 Dialogue: 0,0:19:14.02,0:19:16.07,Default,Tōno Tsukasa,0,0,0,,{TIME:1154028,1156072}Whatever you say.{NOTE:そんなの構わないさ。}
@@ -251,6 +254,7 @@ Dialogue: 0,0:19:45.01,0:19:46.76,Default,Morio Megumi,0,0,0,,{TIME:1185017,1186
 Dialogue: 0,0:19:46.76,0:19:48.10,Default,Tōno Tsukasa,0,0,0,,{TIME:1186769,1188104}Morio…{NOTE:森尾…}
 Dialogue: 0,0:19:50.56,0:19:51.73,Default,Morio Megumi,0,0,0,,{TIME:1190564,1191732}Tōno-kun!{NOTE:東野くん！}
 Dialogue: 0,0:19:55.44,0:19:56.40,Default,Morio Megumi,0,0,0,,{TIME:1195444,1196404}Toshiaki-kun!?{NOTE:俊明くん！}
+Dialogue: 0,0:20:13.50,0:20:14.46,Default,Tōno Tsukasa,0,0,0,,{TIME:1213504,1214463}{\i1}Seira!{NOTE:セイラ！}
 Dialogue: 0,0:20:21.26,0:20:22.55,Default,Morio Megumi,0,0,0,,{TIME:1221262,1222555}W-What was that?{NOTE:な、何？}
 Dialogue: 0,0:20:28.51,0:20:29.72,Default,Morio Megumi,0,0,0,,{TIME:1228519,1229728}Tōno-kun!?{NOTE:東野くん！}
 Dialogue: 0,0:20:29.72,0:20:30.93,Default,Morio Megumi,0,0,0,,{TIME:1229728,1230938}Wait!{NOTE:待って！}
@@ -272,7 +276,7 @@ Dialogue: 0,0:21:28.62,0:21:31.49,Default,Tōno Tsukasa,0,0,0,,{TIME:1288621,129
 Dialogue: 0,0:21:31.49,0:21:34.33,Default,Tōno Tsukasa,0,0,0,,{TIME:1291499,1294335}It seems that he lost all of his memory from before then.{NOTE:…それまでの記憶をなくしちまったらしいな。}
 Dialogue: 0,0:21:39.42,0:21:42.42,Default,Tōno Tsukasa,0,0,0,,{TIME:1299423,1302426}What if his memory returns…{NOTE:もしあいつの記憶が戻ったとしても…}
 Dialogue: 0,0:21:42.42,0:21:46.26,Default,Tōno Tsukasa,0,0,0,,{TIME:1302426,1306263}…and this time he forgets about you instead?{NOTE:…今度はお前の事を忘れてしまったらどうする？}
-Dialogue: 0,0:21:52.85,0:21:56.14,Default,Morio Megumi,0,0,0,,{TIME:1312853,1316148}Being forgotten is very painful.{NOTE:忘れられちゃったら辛いよね。}
+Dialogue: 0,0:21:52.85,0:21:56.14,Default,Morio Megumi,0,0,0,,{TIME:1312853,1316148}Being forgotten would be very painful.{NOTE:忘れられちゃったら辛いよね。}
 Dialogue: 0,0:22:04.99,0:22:06.61,Default,Kara,0,0,0,,{TIME:1324990,1326617}{\i1}I felt it.{NOTE:感じた。}
 Dialogue: 0,0:22:06.61,0:22:08.53,Default,Kara,0,0,0,,{TIME:1326617,1328535}{\i1}There's no mistake.{NOTE:今確かに感じたわ！}
 Dialogue: 0,0:22:08.53,0:22:10.41,Default,Kara,0,0,0,,{TIME:1328535,1330412}{\i1}Psychokinesis waves.{NOTE:ピーケーのウエーブ。\\N(psychokinesis)}
@@ -288,7 +292,7 @@ Dialogue: 0,0:22:35.64,0:22:38.10,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1355646,
 Dialogue: 0,0:22:41.86,0:22:43.02,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1361860,1363028}Tōno?{NOTE:東野。}
 Dialogue: 0,0:22:43.65,0:22:46.15,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1363654,1366156}Did you come to finish our fight\Nfrom chemistry class?{NOTE:理科室での続きをやろうって言うのか？}
 Dialogue: 0,0:22:46.15,0:22:47.44,Default,Tōno Tsukasa,0,0,0,,{TIME:1366156,1367449}Nope.{NOTE:違うって。}
-Dialogue: 0,0:22:48.95,0:22:52.20,Default,Tōno Tsukasa,0,0,0,,{TIME:1368951,1372204}When you met me at the library for the first time…{NOTE:お前初めて図書館で俺と会った時…}
+Dialogue: 0,0:22:48.95,0:22:52.20,Default,Tōno Tsukasa,0,0,0,,{TIME:1368951,1372204}When you met me at the library\Nfor the first time…{NOTE:お前初めて図書館で俺と会った時…}
 Dialogue: 0,0:22:52.20,0:22:54.70,Default,Tōno Tsukasa,0,0,0,,{TIME:1372204,1374707}…you asked me if we had met before.{NOTE:「どこかで会ったことないか」って聞いたよな。}
 Dialogue: 0,0:22:54.70,0:22:56.25,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1374707,1376250}Yeah, so what?{NOTE:それがどうした？}
 Dialogue: 0,0:22:57.50,0:23:00.96,Default,Tōno Tsukasa,0,0,0,,{TIME:1377501,1380963}I felt it, too. That I had met you before.{NOTE:俺もお前には会ったことがあるような気がしてきた。}
@@ -301,22 +305,22 @@ Dialogue: 0,0:23:19.06,0:23:20.56,Default,Tōno Tsukasa,0,0,0,,{TIME:1399064,140
 Dialogue: 0,0:23:20.56,0:23:21.52,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1400566,1401525}What…?{NOTE:何だって？}
 Dialogue: 0,0:23:22.48,0:23:25.11,Default,Tōno Tsukasa,0,0,0,,{TIME:1402484,1405112}I did it with a power from my past life.{NOTE:その前世での俺の力だ。}
 Dialogue: 0,0:23:25.11,0:23:29.28,Default,Tōno Tsukasa,0,0,0,,{TIME:1405112,1409283}Sometimes I can't suppress it and it comes out.{NOTE:時々自分でも抑えきれなくなって出ちまうんだ。}
-Dialogue: 0,0:23:29.28,0:23:34.33,Default,Tōno Tsukasa,0,0,0,,{TIME:1409283,1414330}But that former life is… well, it's strange, but it's from the future.{NOTE:その前世だがな、どう言うわけか、今より遥かに未来っぽいんだ。}
+Dialogue: 0,0:23:29.28,0:23:34.33,Default,Tōno Tsukasa,0,0,0,,{TIME:1409283,1414330}But that former life is… well,\Nit's strange, but it's from the far future.{NOTE:その前世だがな、どう言うわけか、今より遥かに未来っぽいんだ。}
 Dialogue: 0,0:23:34.33,0:23:38.54,Default,Tōno Tsukasa,0,0,0,,{TIME:1414330,1418542}In that era, there are lots of psychokinesis users like me. Telepaths, too.{NOTE:その時代では俺みたいなピーキーやテレパスの大勢いて…\\N(psychokinesis)}
 Dialogue: 0,0:23:38.54,0:23:42.62,Default,Tōno Tsukasa,0,0,0,,{TIME:1418542,1422629}All those people get the best education in elite schools.{NOTE:…そういう人間にエリート教育してる学校があったんだ。}
 Dialogue: 0,0:23:42.62,0:23:44.63,Default,Tōno Tsukasa,0,0,0,,{TIME:1422629,1424631}I was going to attend one of those schools, too.{NOTE:俺もそこにいたらしいが…}
-Dialogue: 0,0:23:44.63,0:23:49.51,Default,Tōno Tsukasa,0,0,0,,{TIME:1424631,1429511}But I believed that a person should work for their success, like in the American dream.{NOTE:…自分の力だけでやっていくアメリカンドリームのような憧れを信じて…}
+Dialogue: 0,0:23:44.63,0:23:49.51,Default,Tōno Tsukasa,0,0,0,,{TIME:1424631,1429511}But I believed that a person should work\Nfor their success, like in the American dream.{NOTE:…自分の力だけでやっていくアメリカンドリームのような憧れを信じて…}
 Dialogue: 0,0:23:49.51,0:23:53.72,Default,Tōno Tsukasa,0,0,0,,{TIME:1429511,1433724}So I dropped out of school with a bunch of friends and tried living that kind of life.{NOTE:…何人かの仲間と一緒に学校を飛び出して生きていたんだ。}
 Dialogue: 0,0:23:53.72,0:23:56.31,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1433724,1436310}And what does it have to do with me?{NOTE:それが僕と何の関係がある？}
 Dialogue: 0,0:23:56.31,0:23:57.89,Default,Tōno Tsukasa,0,0,0,,{TIME:1436310,1437895}One of those friends…{NOTE:その仲間の一人。}
-Dialogue: 0,0:23:57.89,0:24:01.81,Default,Tōno Tsukasa,0,0,0,,{TIME:1437895,1441815}My best friend… looked a lot like you.{NOTE:一番の相棒だったやつにお前は似てるのさ。}
+Dialogue: 0,0:23:57.89,0:24:01.81,Default,Tōno Tsukasa,0,0,0,,{TIME:1437895,1441815}My best friend… resembled you a lot.{NOTE:一番の相棒だったやつにお前は似てるのさ。}
 Dialogue: 0,0:24:01.81,0:24:05.94,Default,Tōno Tsukasa,0,0,0,,{TIME:1441815,1445944}And to make it worse, both of us\Nfell for the same woman.{NOTE:おまけに二人して同じ女を好きになったこともあったしな。}
 Dialogue: 0,0:24:08.65,0:24:10.07,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1448655,1450074}Tōno…{NOTE:東野。}
 Dialogue: 0,0:24:10.07,0:24:13.57,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1450074,1453577}Do you seriously believe\Nall this "previous lives" stuff?{NOTE:お前本気で自分の前世を信じているのか？}
 Dialogue: 0,0:24:13.57,0:24:15.20,Default,Tōno Tsukasa,0,0,0,,{TIME:1453577,1455204}I do…{NOTE:本気さ。}
 Dialogue: 0,0:24:15.20,0:24:16.20,Default,Tōno Tsukasa,0,0,0,,{TIME:1455204,1456205}Seira!{NOTE:セイラ！}
 Dialogue: 0,0:24:17.41,0:24:18.87,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1457414,1458874}Seira…?{NOTE:セイラ…？}
-Dialogue: 0,0:24:18.87,0:24:19.58,Default,Tōno Tsukasa,0,0,0,,{TIME:1458874,1459583}See!?{NOTE:ああ！}
+Dialogue: 0,0:24:18.87,0:24:19.58,Default,Tōno Tsukasa,0,0,0,,{TIME:1458874,1459583}Yeah!{NOTE:ああ！}
 Dialogue: 0,0:24:19.58,0:24:21.33,Default,Tōno Tsukasa,0,0,0,,{TIME:1459583,1461335}That was my best friend's—{NOTE:その未来の相棒…}
 Dialogue: 0,0:24:21.33,0:24:24.08,Default,Tōno Tsukasa,0,0,0,,{TIME:1461335,1464088}Or rather, my love rival's name.{NOTE:いや、恋敵の名前だ。}
 Dialogue: 0,0:24:24.92,0:24:26.84,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1464922,1466840}This is absurd.{NOTE:ばかばかしい！}
@@ -401,7 +405,7 @@ Dialogue: 0,0:30:03.09,0:30:04.51,Default,Tōno Tsukasa,0,0,0,,{TIME:1803093,180
 Dialogue: 0,0:30:12.35,0:30:14.31,Default,Kara,0,0,0,,{TIME:1812352,1814312}Seira!{NOTE:セイラ！}
 Dialogue: 0,0:30:16.52,0:30:18.23,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1816523,1818233}Megumi, watch out!{NOTE:めぐみ、危ない！}
 Dialogue: 0,0:30:21.15,0:30:22.40,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1821153,1822404}Megumi!{NOTE:めぐみ！}
-Dialogue: 0,0:30:42.92,0:30:44.55,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1842924,1844551}You're…?{NOTE:君は…}
+Dialogue: 0,0:30:42.92,0:30:44.55,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1842924,1844551}You're…{NOTE:君は…}
 Dialogue: 0,0:30:44.55,0:30:45.51,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1844551,1845510}Taisa.{NOTE:タイサ。}
 Dialogue: 0,0:30:46.51,0:30:47.97,Default,Tōno Tsukasa,0,0,0,,{TIME:1846511,1847971}Seira.{NOTE:セイラ。}
 Dialogue: 0,0:30:51.72,0:30:52.43,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:1851725,1852434}Kara!{NOTE:カラ！}
@@ -428,15 +432,15 @@ Dialogue: 0,0:32:08.09,0:32:11.13,Default,Tōno Tsukasa,0,0,0,,{TIME:1928093,193
 Dialogue: 0,0:32:13.18,0:32:14.30,Default,Police,0,0,0,,{TIME:1933181,1934307}{\i1}Taisa Haim!{NOTE:タイサハイム！}
 Dialogue: 0,0:32:14.30,0:32:15.51,Default,Police,0,0,0,,{TIME:1934307,1935517}{\i1}Seira Mon!{NOTE:セイラムン！}
 Dialogue: 0,0:32:15.51,0:32:18.60,Default,Police,0,0,0,,{TIME:1935517,1938603}{\i1}We're arresting you on the grounds of spacetime manipulation!{NOTE:航時密輸の容疑で逮捕する！}
-Dialogue: 0,0:32:18.60,0:32:20.06,Default,Taisa,0,0,0,,{TIME:1938603,1940063}{\i1}Don't be stupid!{NOTE:バカ言うな！}
+Dialogue: 0,0:32:18.60,0:32:20.06,Default,Taisa,0,0,0,,{TIME:1938603,1940063}{\i1}Nonsense!{NOTE:バカ言うな！}
 Dialogue: 0,0:32:20.06,0:32:23.27,Default,Taisa,0,0,0,,{TIME:1940063,1943275}{\i1}We didn't lay a finger on the time machine!{NOTE:俺達航時マシーンなんて弄ったこともないぞ。}
-Dialogue: 0,0:32:23.27,0:32:24.98,Default,Police,0,0,0,,{TIME:1943275,1944985}{\i1}You say that, but you left the evidence behind.{NOTE:記録は残っているんだ。}
+Dialogue: 0,0:32:23.27,0:32:24.98,Default,Police,0,0,0,,{TIME:1943275,1944985}{\i1}You left the evidence behind.{NOTE:記録は残っているんだ。}
 Dialogue: 0,0:32:24.98,0:32:27.48,Default,Police,0,0,0,,{TIME:1944985,1947487}{\i1}Your card numbers.{NOTE:お前たちのカードナンバーでな！}
 Dialogue: 0,0:32:27.48,0:32:28.53,Default,Seira,0,0,0,,{TIME:1947487,1948530}{\i1}Kara!{NOTE:カラ！}
 Dialogue: 0,0:32:28.53,0:32:29.44,Default,Seira,0,0,0,,{TIME:1948530,1949447}{\i1}You did this?{NOTE:君は…！}
 Dialogue: 0,0:32:33.03,0:32:34.66,Default,Kara,0,0,0,,{TIME:1953034,1954661}It's you, isn't it?{NOTE:あなたなのね。}
 Dialogue: 0,0:32:34.66,0:32:36.87,Default,Kara,0,0,0,,{TIME:1954661,1956872}We've finally met again…{NOTE:やっと会えた。}
-Dialogue: 0,0:32:36.87,0:32:40.50,Default,Kara,0,0,0,,{TIME:1956872,1960500}I've been searching for your voice for such a long time.{NOTE:あれからずっとあなたの声を探していたの。}
+Dialogue: 0,0:32:36.87,0:32:40.50,Default,Kara,0,0,0,,{TIME:1956872,1960500}I've been searching for your voice\Nfor such a long time.{NOTE:あれからずっとあなたの声を探していたの。}
 Dialogue: 0,0:32:40.50,0:32:41.87,Default,Kara,0,0,0,,{TIME:1960500,1961877}Seira.{NOTE:セイラ。}
 Dialogue: 0,0:32:42.62,0:32:44.96,Default,Kara,0,0,0,,{TIME:1962627,1964963}I wanted to apologize to you.{NOTE:XXX。あなたに謝りたかった。}
 Dialogue: 0,0:32:45.92,0:32:48.75,Default,Kara,0,0,0,,{TIME:1965922,1968758}I didn't understand your thoughts at that time.{NOTE:あの頃のあなたの思いが分からなくて。}
@@ -481,8 +485,8 @@ Dialogue: 0,0:35:19.90,0:35:21.16,Default,Kara,0,0,0,,{TIME:2119909,2121161}Seir
 Comment: 0,0:35:22.03,0:35:22.03,Default,[chapter],0,0,0,,{TIME:2122037,2122037}Chapter 9
 Dialogue: 0,0:35:22.32,0:35:26.29,Default,Tōno Tsukasa,0,0,0,,{TIME:2122328,2126291}Still, Toshiaki Tsuzuki has been alive for 16 years.{NOTE:それでも都築俊明は十六年間生きていたぜ。}
 Dialogue: 0,0:35:28.83,0:35:32.00,Default,Tōno Tsukasa,0,0,0,,{TIME:2128835,2132005}The lost memories might never come back…{NOTE:無くしてしまった思いは消して戻らないが…}
-Dialogue: 0,0:35:32.00,0:35:35.09,Default,Tōno Tsukasa,0,0,0,,{TIME:2132005,2135091}…but in exchange, there are a lot of new memories.{NOTE:…代わりに生まれてくる思いだってある。}
-Dialogue: 0,0:35:35.09,0:35:37.92,Default,Tōno Tsukasa,0,0,0,,{TIME:2135091,2137927}You should take good care of those memories and keep on living.{NOTE:どちらも大切にしてお前が生きていけばいい。}
+Dialogue: 0,0:35:32.00,0:35:35.09,Default,Tōno Tsukasa,0,0,0,,{TIME:2132005,2135091}…but in exchange,\Nthere are a lot of new memories.{NOTE:…代わりに生まれてくる思いだってある。}
+Dialogue: 0,0:35:35.09,0:35:37.92,Default,Tōno Tsukasa,0,0,0,,{TIME:2135091,2137927}You should take good care\Nof those memories and keep on living.{NOTE:どちらも大切にしてお前が生きていけばいい。}
 Dialogue: 0,0:35:40.22,0:35:41.72,Default,Tōno Tsukasa,0,0,0,,{TIME:2140221,2141723}Kara.{NOTE:カラ。}
 Dialogue: 0,0:35:41.72,0:35:45.81,Default,Tōno Tsukasa,0,0,0,,{TIME:2141723,2145810}Are you going to take us back to the 23rd century, to the spacetime police?{NOTE:俺達を23世紀の航時局へ連れて行くつもりか？}
 Dialogue: 0,0:35:47.06,0:35:48.93,Default,Kara,0,0,0,,{TIME:2147062,2148936}Of course not.{NOTE:そんなこと。}
@@ -522,4 +526,4 @@ Dialogue: 0,0:37:58.73,0:37:59.86,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:2278735,
 Dialogue: 0,0:37:59.86,0:38:02.53,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:2279861,2282530}You can drop the tough act.{NOTE:強がりはやめたほうがいいぜ。}
 Dialogue: 0,0:38:04.24,0:38:07.95,Default,Morio Megumi,0,0,0,,{TIME:2284240,2287952}Since when do they get along so well?{NOTE:あの二人いつのまに仲良くなったのかしら？}
 Dialogue: 0,0:38:10.53,0:38:12.66,Default,Tōno Tsukasa,0,0,0,,{TIME:2290538,2292665}You can get by wherever you are.{NOTE:どこだってやっていける。}
-Dialogue: 0,0:38:12.66,0:38:15.91,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:2292665,2295919}There's place for everyone in this wide world.{NOTE:この広い世界きっとどこまでもな。}
+Dialogue: 0,0:38:12.66,0:38:15.91,Default,Tsuzuki Toshiaki,0,0,0,,{TIME:2292665,2295919}In this wide world, anything is possible.{NOTE:この広い世界きっとどこまでもな。}
