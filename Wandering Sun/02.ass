@@ -13,10 +13,10 @@ Video File: source/02.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,DejaVu Sans Condensed,17.0,&H00F8F8F8,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,0.0,2,20,20,20,1
-Style: Karaoke Romaji,JanieHmkBold,18.0,&H00F8F8F8,&H00919191,&H00000000,&H00000000,-1,0,0,0,120.0,100.0,0.0,0.0,1,1.75,0.0,8,10,10,7,1
-Style: Karaoke English,JanieHmkBold,20.0,&H00F8F8F8,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,120.0,100.0,0.0,0.0,1,2.0,0.0,2,20,20,7,1
-Style: Sign,DejaVu Sans Condensed,17.0,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,0.0,8,20,20,20,1
+Style: Default,Museo Sans 700,20.0,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,0.0,2,20,20,20,1
+Style: Karaoke Romaji,JanieHmkBold,20.0,&H00F8F8F8,&H00919191,&H00000000,&H00000000,-1,0,0,0,120.0,100.0,0.0,0.0,1,1.75,0.0,8,10,10,7,1
+Style: Karaoke English,JanieHmkBold,21.0,&H00F8F8F8,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,120.0,100.0,0.0,0.0,1,2.0,0.0,2,20,20,7,1
+Style: Sign,Museo Sans 700,20.0,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,0.0,8,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -39,7 +39,7 @@ Dialogue: 0,0:01:23.63,0:01:30.76,Karaoke Romaji,[karaoke],0,0,0,,{TIME:83630,90
 Dialogue: 0,0:01:30.76,0:01:37.76,Karaoke Romaji,[karaoke],0,0,0,,{TIME:90760,97760}{\k25}Wa{\k33}ta{\k29}shi{\k41}ta{\k45}chi {\k175}wa {\k20}i{\k41}ki{\k29}te{\k24}i{\k40}ru {\k29}no {\k171}yo{NOTE:私達は生きているのよ}
 Dialogue: 0,0:01:37.76,0:01:44.73,Karaoke Romaji,[karaoke],0,0,0,,{TIME:97760,104730}{\k36}Sa{\k33}su{\k29}ra{\k75}i {\k41}na{\k29}ga{\k108}ra {\k15}ki{\k25}zu{\k20}tsu{\k30}ki {\k34}na{\k25}ga{\k195}ra{NOTE:さすらいながら傷つきながら}
 Dialogue: 0,0:01:44.73,0:01:58.85,Karaoke Romaji,[karaoke],0,0,0,,{TIME:104730,118850}{\fad(0,500)\k12}A{\k29}shi{\k20}ta {\k25}no {\k20}ta{\k25}i{\k45}you {\k162}wo {\k29}sa{\k33}ga{\k33}shi{\k33}te{\k25}i{\k29}ru {\k337}no{NOTE:明日の太陽をさがしているの}
-Dialogue: 0,0:00:39.12,0:00:46.26,Karaoke English,[karaoke],0,0,0,,{TIME:39120,46260}The grass on the field, is stepped on by someone{NOTE:誰かに踏まれた野の草も}
+Dialogue: 0,0:00:39.12,0:00:46.26,Karaoke English,[karaoke],1,1,0,,{TIME:39120,46260}The grass on the field is stepped on by someone{NOTE:誰かに踏まれた野の草も}
 Dialogue: 0,0:00:46.26,0:00:53.93,Karaoke English,[karaoke],0,0,0,,{TIME:46260,53930}Someday we'll look up to the sky{NOTE:いつか空を振り仰ぐ}
 Dialogue: 0,0:00:53.93,0:01:00.89,Karaoke English,[karaoke],0,0,0,,{TIME:53930,60890}Even when we can't see from the tears{NOTE:涙でなにも見えないときにも}
 Dialogue: 0,0:01:00.89,0:01:07.91,Karaoke English,[karaoke],0,0,0,,{TIME:60890,67910}We are alive!{NOTE:私達は生きているのよ}
@@ -51,7 +51,7 @@ Dialogue: 0,0:01:37.76,0:01:44.73,Karaoke English,[karaoke],0,0,0,,{TIME:97760,1
 Dialogue: 0,0:01:44.73,0:01:58.85,Karaoke English,[karaoke],0,0,0,,{TIME:104730,118850}{\fad(0,500)}We are looking for the sun of tomorrow{NOTE:明日の太陽をさがしているの}
 Comment: 0,0:01:58.85,0:01:58.85,Default,[chapter],0,0,0,,{TIME:118850,118850}Part A
 Dialogue: 0,0:02:21.85,0:02:27.94,Default,[title],0,0,0,,{TIME:141856,147946}—Episode 02—\NDouble Birthday Party{NOTE:第2話\\N二つの誕生パーティー}
-Dialogue: 0,0:01:59.08,0:02:03.42,Default,Narrator,0,0,0,,{TIME:119084,123421}{\i1}Two girls who were replaced by a mysterious woman, Nohara Michiko…{NOTE:謎を秘めた女のはらみちこによってすり替えられた二人の少女…}
+Dialogue: 0,0:01:59.08,0:02:03.42,Default,Narrator,0,0,0,,{TIME:119084,123421}{\i1}Two girls who were replaced\Nby a mysterious woman, Nohara Michiko…{NOTE:謎を秘めた女のはらみちこによってすり替えられた二人の少女…}
 Dialogue: 0,0:02:03.42,0:02:05.34,Default,Narrator,0,0,0,,{TIME:123421,125340}{\i1}…Mine Nozomi and Kōda Miki.{NOTE:峰のぞみと香田美紀は…}
 Dialogue: 0,0:02:05.34,0:02:08.46,Default,Narrator,0,0,0,,{TIME:125340,128467}{\i1}They meet again after 17 years.{NOTE:17年後宿命の出会いを迎えた。}
 Dialogue: 0,0:02:08.46,0:02:11.93,Default,Narrator,0,0,0,,{TIME:128467,131930}{\i1}However, from the day Nozomi moved to Miki's class…{NOTE:だがのぞみがみきのクラスに移ったその日から…}
@@ -83,7 +83,7 @@ Dialogue: 0,0:03:32.55,0:03:33.84,Default,Kōda Miki,0,0,0,,{TIME:212552,213845}
 Dialogue: 0,0:04:08.75,0:04:11.29,Default,Unknown teacher,0,0,0,,{TIME:248755,251299}Kōda, you're pretty late.{NOTE:香田くん。ずいぶん早起きなんだね。}
 Dialogue: 0,0:04:12.92,0:04:14.30,Default,Kōda Miki,0,0,0,,{TIME:252926,254302}Good morning.{NOTE:おはようございます。}
 Dialogue: 0,0:04:16.88,0:04:18.05,Default,Kōda Miki,0,0,0,,{TIME:256888,258056}{\i1}I'm sorry.{NOTE:しょうがないわ。}
-Dialogue: 0,0:04:18.05,0:04:20.89,Default,Kōda Miki,0,0,0,,{TIME:258056,260892}{\i1}The ward office opens at 9 o'clock in the morning.{NOTE:区役所がXの午前9時からなんですもの。}
+Dialogue: 0,0:04:18.05,0:04:20.89,Default,Kōda Miki,0,0,0,,{TIME:258056,260892}{\i1}The ward office opens\Nat 9 o'clock in the morning.{NOTE:区役所がXの午前9時からなんですもの。}
 Dialogue: 0,0:04:35.57,0:04:39.57,Sign,(sign),0,0,0,,{TIME:275573,279577}{\fs14\bord1.5}Father: Kōda Daijirō\NMother: Kōda Sumiyo\NKōda Miki (eldest daughter){NOTE:父・香田大次郎\\N母・香田澄代\\N長女\\N香田美紀}
 Dialogue: 0,0:04:36.53,0:04:37.49,Default,Mine Nozomi,0,0,0,,{TIME:276533,277492}{\i1}"Eldest daughter"?{NOTE:長女？}
 Dialogue: 0,0:04:37.49,0:04:38.57,Default,Mine Nozomi,0,0,0,,{TIME:277492,278576}{\i1}"Kōda Miki".{NOTE:香田美紀。}
@@ -120,7 +120,7 @@ Dialogue: 0,0:06:21.13,0:06:22.59,Default,Funny,0,0,0,,{TIME:381137,382597}Be mo
 Dialogue: 0,0:06:22.59,0:06:24.68,Default,Funny,0,0,0,,{TIME:382597,384682}Don't jump out so suddenly next time.{NOTE:XXXながらいきなり飛び出すなんて。}
 Dialogue: 0,0:06:24.68,0:06:26.26,Default,Mine Nozomi,0,0,0,,{TIME:384682,386267}Who's careless here?!{NOTE:何よ無茶よ！}
 Dialogue: 0,0:06:26.26,0:06:28.56,Default,Mine Nozomi,0,0,0,,{TIME:386267,388561}You have some nerve saying that!{NOTE:そっちこそ心得違いもういいとこじゃない？}
-Dialogue: 0,0:06:28.56,0:06:32.69,Default,Mine Nozomi,0,0,0,,{TIME:388561,392690}You're out of your mind, driving your big car at such speed in such cramped space!{NOTE:こんな狭い陸橋へ渋滞のでっかい外車なんか乗り入れたりしてさ。}
+Dialogue: 0,0:06:28.56,0:06:32.69,Default,Mine Nozomi,0,0,0,,{TIME:388561,392690}You're out of your mind, driving your big car\Nat such speed in such cramped space!{NOTE:こんな狭い陸橋へ渋滞のでっかい外車なんか乗り入れたりしてさ。}
 Dialogue: 0,0:06:32.69,0:06:34.10,Default,Funny,0,0,0,,{TIME:392690,394108}Heh. I see I don't need to worry.{NOTE:へ。安心したよ。}
 Dialogue: 0,0:06:34.10,0:06:36.15,Default,Funny,0,0,0,,{TIME:394108,396152}If you're healthy enough to get mad, you're fine.{NOTE:送るだけの元気があれば大丈夫だ。}
 Dialogue: 0,0:06:36.15,0:06:37.65,Default,Mine Nozomi,0,0,0,,{TIME:396152,397654}Wow, how cold.{NOTE:ま。涼しい。}
@@ -178,7 +178,7 @@ Dialogue: 0,0:09:03.71,0:09:06.21,Default,Mine Shinsuke,0,0,0,,{TIME:543716,5462
 Dialogue: 0,0:09:06.21,0:09:09.18,Default,Kumagorō,0,0,0,,{TIME:546219,549180}She grew very pretty.{NOTE:え？どう綺麗になっちまって。}
 Dialogue: 0,0:09:09.18,0:09:11.64,Default,Kumagorō,0,0,0,,{TIME:549180,551641}Even ordinary parents can make great kids!{NOTE:鳶が鷹を生むだってこの事だぜ。}
 Dialogue: 0,0:09:11.64,0:09:13.81,Default,Kumagorō,0,0,0,,{TIME:551641,553810}She doesn't resemble you at all, Pops.{NOTE:親父さんの子には見えね。}
-Dialogue: 0,0:09:14.51,0:09:18.27,Default,Kumagorō,0,0,0,,{TIME:554519,558272}Uncle will give her a great present the day after tomorrow.{NOTE:あさってはこのおじちゃんが凄いもんプレゼントしてやるからな。}
+Dialogue: 0,0:09:14.51,0:09:18.27,Default,Kumagorō,0,0,0,,{TIME:554519,558272}Uncle will give her a great present\Nthe day after tomorrow.{NOTE:あさってはこのおじちゃんが凄いもんプレゼントしてやるからな。}
 Dialogue: 0,0:09:18.27,0:09:19.44,Default,Mine Yuki,0,0,0,,{TIME:558272,559440}Okay!{NOTE:XXX}
 Dialogue: 0,0:09:19.44,0:09:22.40,Default,Mine Yuki,0,0,0,,{TIME:559440,562401}What will you give her, Dad?{NOTE:ね、父ちゃんは何を出してやるの？}
 Dialogue: 0,0:09:22.40,0:09:23.90,Default,Kumagorō,0,0,0,,{TIME:562401,563903}I-I haven't decided yet, uh…{NOTE:それはその、何だ。}
@@ -186,7 +186,7 @@ Dialogue: 0,0:09:23.90,0:09:25.07,Default,Mine Kazuo,0,0,0,,{TIME:563903,565071}
 Dialogue: 0,0:09:27.90,0:09:29.15,Default,Mine Kazuo,0,0,0,,{TIME:567907,569158}Don't be stupid.{NOTE:馬鹿だな。}
 Dialogue: 0,0:09:29.15,0:09:31.20,Default,Mine Kazuo,0,0,0,,{TIME:569158,571202}You can't ask Dad such question!
 Dialogue: 0,0:09:31.20,0:09:32.53,Default,Mine Yuki,0,0,0,,{TIME:571202,572537}Why?
-Dialogue: 0,0:09:32.53,0:09:37.08,Default,Mine Kazuo,0,0,0,,{TIME:572537,577083}She let Nozomi go to daytime school even though it means she can no longer help him.{NOTE:補助のアルバイトを辞めさせてものぞみ姉ちゃんを昼間の学校怒らせてやったんだぞ。}
+Dialogue: 0,0:09:32.53,0:09:37.08,Default,Mine Kazuo,0,0,0,,{TIME:572537,577083}He let Nozomi go to daytime school even though it means she can no longer help him.{NOTE:補助のアルバイトを辞めさせてものぞみ姉ちゃんを昼間の学校怒らせてやったんだぞ。}
 Dialogue: 0,0:09:37.08,0:09:39.00,Default,Mine Kazuo,0,0,0,,{TIME:577083,579001}It takes a lot of trouble.{NOTE:そのぶんだけかかりが大変なんだ。}
 Dialogue: 0,0:09:39.00,0:09:42.54,Default,Mine Kazuo,0,0,0,,{TIME:579001,582547}That's why Dad had to quit smoking and needs to save money.{NOTE:だから父ちゃんあれほど好きなタバコもやめて倹約してるんじゃないか。}
 Dialogue: 0,0:09:42.54,0:09:43.63,Default,Mine Yuki,0,0,0,,{TIME:582547,583631}Save money?{NOTE:倹約？}
@@ -211,7 +211,7 @@ Dialogue: 0,0:10:34.18,0:10:36.30,Default,Mine Nozomi,0,0,0,,{TIME:634181,636309
 Dialogue: 0,0:10:53.95,0:10:55.32,Default,Kōda Sumiyo,0,0,0,,{TIME:653951,655328}What's wrong, Miki-san?{NOTE:どうしたんです、美紀さん？}
 Dialogue: 0,0:10:56.32,0:10:57.91,Default,Kōda Miki,0,0,0,,{TIME:656329,657914}Mama! This piano is acting up!{NOTE:ママ！このピアノは可笑しいわ！}
 Dialogue: 0,0:10:59.91,0:11:01.29,Default,Kōda Miki,0,0,0,,{TIME:659916,661292}It just doesn't sound good!{NOTE:全然調子が出はしない。}
-Dialogue: 0,0:11:03.62,0:11:06.92,Default,Kōda Daijirō,0,0,0,,{TIME:663628,666923}Miki. You went to the ward office today, didn't you?{NOTE:美紀。お前今日区役所へ行ったそうだね。}
+Dialogue: 0,0:11:03.62,0:11:06.92,Default,Kōda Daijirō,0,0,0,,{TIME:663628,666923}Miki. You went to the ward office\Ntoday, didn't you?{NOTE:美紀。お前今日区役所へ行ったそうだね。}
 Dialogue: 0,0:11:06.92,0:11:09.34,Default,Kōda Miki,0,0,0,,{TIME:666923,669342}Oh, Daddy, I'm surprised you know about it.{NOTE:あら、パパよくご存知ね。}
 Dialogue: 0,0:11:09.34,0:11:12.63,Default,Kōda Daijirō,0,0,0,,{TIME:669342,672637}I heard you went to see the family register. Why?{NOTE:戸籍謄本もらいに行ったそうだが。どうしてだ？}
 Dialogue: 0,0:11:12.63,0:11:14.18,Default,Kōda Miki,0,0,0,,{TIME:672637,674180}Huh, you know a lot, Daddy.{NOTE:え、詳しいじゃない、パパ。}
@@ -288,10 +288,10 @@ Dialogue: 0,0:14:55.28,0:14:58.37,Default,(unison),0,0,0,,{TIME:895284,898370}Ha
 Dialogue: 0,0:14:58.37,0:15:01.16,Default,(unison),0,0,0,,{TIME:898370,901165}Happy birthday to you.{NOTE:Happy birthday to you.}
 Dialogue: 0,0:15:01.16,0:15:04.08,Default,(unison),0,0,0,,{TIME:901165,904084}Happy birthday, Miki-san.{NOTE:Happy birthday美紀さん.}
 Dialogue: 0,0:15:04.08,0:15:07.08,Default,(unison),0,0,0,,{TIME:904084,907087}Happy birthday to you.{NOTE:Happy birthday to you.}
-Dialogue: 0,0:15:14.05,0:15:20.43,Default,Kōda Miki,0,0,0,,{TIME:914053,920434}I am very happy to see so many of you gathered for my birthday today.{NOTE:今日はこんなに沢山の皆さんがお誕生日お祝いにお集まりくださって私とっても幸せでございます。}
+Dialogue: 0,0:15:14.05,0:15:20.43,Default,Kōda Miki,0,0,0,,{TIME:914053,920434}I am very happy to see so many\Nof you gathered for my birthday today.{NOTE:今日はこんなに沢山の皆さんがお誕生日お祝いにお集まりくださって私とっても幸せでございます。}
 Dialogue: 0,0:15:23.47,0:15:27.10,Default,Kōda Miki,0,0,0,,{TIME:923479,927107}And so many nice birthday gifts.{NOTE:それに素敵なバースデープレゼントをこんなにたくさん。}
 Dialogue: 0,0:15:28.60,0:15:30.40,Default,Kōda Miki,0,0,0,,{TIME:928609,930402}Thank you very much.{NOTE:どうも有難うございました。}
-Dialogue: 0,0:15:30.69,0:15:34.11,Sign,(sign),0,0,0,,{TIME:930694,934114}With all my heart\NNozomi{NOTE:心をこめて\\Nのぞみ}
+Dialogue: 0,0:15:30.69,0:15:34.11,Sign,(sign),0,0,0,,{TIME:930694,934114}{\fad(500,0)}With all my heart\NNozomi{NOTE:心をこめて\\Nのぞみ}
 Dialogue: 0,0:15:52.88,0:15:54.80,Default,Kōda Miki,0,0,0,,{TIME:952883,954802}Ah, Mine-san.{NOTE:あら峰さん。}
 Dialogue: 0,0:15:54.80,0:15:57.26,Default,Kōda Miki,0,0,0,,{TIME:954802,957263}What's wrong? Don't you dance?{NOTE:どうしたの？踊れないのあなた？}
 Dialogue: 0,0:15:57.26,0:15:59.09,Default,Mine Nozomi,0,0,0,,{TIME:957263,959098}I can dance.{NOTE:踊れるわよ。私だって。}

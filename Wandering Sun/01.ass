@@ -13,10 +13,10 @@ Video File: source/01.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,DejaVu Sans Condensed,17.0,&H00F8F8F8,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,0.0,2,20,20,20,1
-Style: Karaoke Romaji,JanieHmkBold,18.0,&H00F8F8F8,&H00919191,&H00000000,&H00000000,-1,0,0,0,120.0,100.0,0.0,0.0,1,1.75,0.0,8,10,10,7,1
-Style: Karaoke English,JanieHmkBold,20.0,&H00F8F8F8,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,120.0,100.0,0.0,0.0,1,2.0,0.0,2,20,20,7,1
-Style: Sign,DejaVu Sans Condensed,17.0,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,0.0,8,20,20,20,1
+Style: Default,Museo Sans 700,20,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,0.0,2,20,20,20,1
+Style: Karaoke Romaji,JanieHmkBold,20,&H00F8F8F8,&H00919191,&H00000000,&H00000000,-1,0,0,0,120.0,100.0,0.0,0.0,1,1.75,0.0,8,10,10,7,1
+Style: Karaoke English,JanieHmkBold,21,&H00F8F8F8,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,120.0,100.0,0.0,0.0,1,2.0,0.0,2,20,20,7,1
+Style: Sign,Museo Sans 700,20,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,0.0,8,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -39,7 +39,7 @@ Dialogue: 0,0:01:22.77,0:01:29.90,Karaoke Romaji,[karaoke],0,0,0,,{TIME:82770,89
 Dialogue: 0,0:01:29.90,0:01:36.90,Karaoke Romaji,[karaoke],0,0,0,,{TIME:89902,96909}{\k25}Wa{\k33}ta{\k29}shi{\k41}ta{\k45}chi {\k175}wa {\k20}i{\k41}ki{\k29}te{\k24}i{\k40}ru {\k29}no {\k171}yo{NOTE:私達は生きているのよ}
 Dialogue: 0,0:01:36.90,0:01:43.87,Karaoke Romaji,[karaoke],0,0,0,,{TIME:96909,103875}{\k36}Sa{\k33}su{\k29}ra{\k75}i {\k41}na{\k29}ga{\k108}ra {\k15}ki{\k25}zu{\k20}tsu{\k30}ki {\k34}na{\k25}ga{\k195}ra{NOTE:さすらいながら傷つきながら}
 Dialogue: 0,0:01:43.87,0:01:58.01,Karaoke Romaji,[karaoke],0,0,0,,{TIME:103875,118014}{\fad(0,500)\k12}A{\k29}shi{\k20}ta {\k25}no {\k20}ta{\k25}i{\k45}you {\k162}wo {\k29}sa{\k33}ga{\k33}shi{\k33}te{\k25}i{\k29}ru {\k337}no{NOTE:明日の太陽をさがしているの}
-Dialogue: 0,0:00:38.26,0:00:45.40,Karaoke English,[karaoke],0,0,0,,{TIME:38268,45400}The grass on the field, is stepped on by someone{NOTE:誰かに踏まれた野の草も}
+Dialogue: 0,0:00:38.26,0:00:45.40,Karaoke English,[karaoke],1,1,0,,{TIME:38268,45400}The grass on the field is stepped on by someone{NOTE:誰かに踏まれた野の草も}
 Dialogue: 0,0:00:45.40,0:00:53.07,Karaoke English,[karaoke],0,0,0,,{TIME:45400,53074}Someday we'll look up to the sky{NOTE:いつか空を振り仰ぐ}
 Dialogue: 0,0:00:53.07,0:01:00.03,Karaoke English,[karaoke],0,0,0,,{TIME:53074,60039}Even when we can't see from the tears{NOTE:涙でなにも見えないときにも}
 Dialogue: 0,0:01:00.03,0:01:07.05,Karaoke English,[karaoke],0,0,0,,{TIME:60039,67055}We are alive!{NOTE:私達は生きているのよ}
@@ -133,7 +133,7 @@ Dialogue: 0,0:05:45.53,0:05:46.82,Default,Yumemaro,0,0,0,,{TIME:345533,346826}Hu
 Dialogue: 0,0:05:54.20,0:05:56.29,Default,Hotta,0,0,0,,{TIME:354208,356294}You idiot. Don't cry.{NOTE:馬鹿野郎。めそめそ泣くな。}
 Dialogue: 0,0:05:56.96,0:05:58.79,Default,Mine Nozomi,0,0,0,,{TIME:356961,358796}I'm not crying.{NOTE:めそめそじゃないわ。}
 Dialogue: 0,0:06:12.31,0:06:13.56,Default,Yumemaro,0,0,0,,{TIME:372310,373561}Nozomi-chan.{NOTE:のぞみちゃん。}
-Dialogue: 0,0:06:13.56,0:06:16.06,Default,Yumemaro,0,0,0,,{TIME:373561,376063}When you know where you're seated, let us know, too.{NOTE:席が決まったら私にご一報と。}
+Dialogue: 0,0:06:13.56,0:06:16.06,Default,Yumemaro,0,0,0,,{TIME:373561,376063}When you know where you're seated,\Nlet us know, too.{NOTE:席が決まったら私にご一報と。}
 Dialogue: 0,0:06:16.06,0:06:18.14,Default,Yumemaro,0,0,0,,{TIME:376063,378149}We'll polish your desk till it shines.{NOTE:机を(XX・ピカピカりしとっ)からよ。}
 Dialogue: 0,0:06:18.85,0:06:20.90,Default,Mine Nozomi,0,0,0,,{TIME:378858,380902}Thank you, Yumemaro-kun.{NOTE:有難う夢麿くん。}
 Dialogue: 0,0:06:28.91,0:06:30.82,Default,Unknown goth girl,0,0,0,,{TIME:388910,390828}Idiot, idiot, idiot!{NOTE:馬鹿。馬鹿。馬鹿！}
@@ -204,14 +204,14 @@ Dialogue: 0,0:09:56.95,0:09:58.99,Default,Mine Nozomi,0,0,0,,{TIME:596951,598994
 Dialogue: 0,0:10:00.24,0:10:02.37,Default,Kouda Miki,0,0,0,,{TIME:600246,602373}You did speak to me before, though.{NOTE:挨拶は済んでるはずよ。}
 Dialogue: 0,0:10:02.37,0:10:03.74,Default,Kouda Miki,0,0,0,,{TIME:602373,603749}Over the phone, that is.{NOTE:電話でね。}
 Dialogue: 0,0:10:03.74,0:10:04.66,Default,Mine Nozomi,0,0,0,,{TIME:603749,604667}Phone…?{NOTE:電話？}
-Dialogue: 0,0:10:04.66,0:10:07.46,Default,Kouda Miki,0,0,0,,{TIME:604667,607461}I'll say this once. Do not make weird phone calls again.{NOTE:言っておくわ。変な電話なんかもう二度とかけないで。}
+Dialogue: 0,0:10:04.66,0:10:07.46,Default,Kouda Miki,0,0,0,,{TIME:604667,607461}I'll say this once.\NDo not make weird phone calls again.{NOTE:言っておくわ。変な電話なんかもう二度とかけないで。}
 Dialogue: 0,0:10:09.96,0:10:11.00,Default,Mine Nozomi,0,0,0,,{TIME:609964,611006}Kōda-san!?{NOTE:香田さん。}
 Dialogue: 0,0:10:12.25,0:10:13.67,Default,Mine Nozomi,0,0,0,,{TIME:612258,613676}{\i1}What a weirdo.{NOTE:変な人。}
 Dialogue: 0,0:10:13.67,0:10:15.51,Default,Mine Nozomi,0,0,0,,{TIME:613676,615511}{\i1}What did she even mean…?{NOTE:一体どうしたって言うのかしら？}
 Dialogue: 0,0:10:26.81,0:10:27.60,Default,Mine Nozomi's mom,0,0,0,,{TIME:626814,627606}Huh?{NOTE:え？}
 Dialogue: 0,0:10:27.60,0:10:30.77,Default,Mine Nozomi's mom,0,0,0,,{TIME:627606,630776}So she was born on the same day as you?{NOTE:のぞみと同じ誕生日の子だね。}
 Dialogue: 0,0:10:30.77,0:10:33.98,Default,Mine Nozomi,0,0,0,,{TIME:630776,633988}Yes, but she's totally stuck-up.\NI couldn't even get along with her.{NOTE:それがやったらとツンツンしていてとてもXXXじゃつらいのよ。}
-Dialogue: 0,0:10:35.57,0:10:39.41,Default,Mine Nozomi's mom,0,0,0,,{TIME:635573,639410}Just remember that her father is the president of a big company and yours just has a small business.{NOTE:それはお前…社長令嬢がおでん屋の娘みたいに…}
+Dialogue: 0,0:10:35.57,0:10:39.41,Default,Mine Nozomi's mom,1,1,0,,{TIME:635573,639410}Just remember that her father is the president of a big company and yours just has a small business.{NOTE:それはお前…社長令嬢がおでん屋の娘みたいに…}
 Dialogue: 0,0:10:39.41,0:10:41.99,Default,Mine Nozomi's mom,0,0,0,,{TIME:639410,641996}She might not want to be your friend.{NOTE:…ガラガラしてたらおかしいってもんだからね。}
 Dialogue: 0,0:10:42.28,0:10:43.28,Default,Mine Nozomi's little brother,0,0,0,,{TIME:642288,643289}Yeah.{NOTE:そうさ。}
 Dialogue: 0,0:10:43.28,0:10:46.16,Default,Mine Nozomi's little brother,0,0,0,,{TIME:643289,646167}I'll bet when she laughs, she goes like, "fufufu".{NOTE:笑える時だって、XXは「ほほほほ」。}
@@ -248,7 +248,7 @@ Dialogue: 0,0:12:06.49,0:12:08.79,Default,Mine Nozomi's dad,0,0,0,,{TIME:726497,
 Dialogue: 0,0:12:08.79,0:12:12.83,Default,Mine Nozomi's dad,0,0,0,,{TIME:728791,732836}She told me she'd drop by for sure after work.{NOTE:会社が引けるは必ずって言ってくれるのに。}
 Dialogue: 0,0:12:12.83,0:12:14.04,Default,Mine Nozomi,0,0,0,,{TIME:732836,734046}Working overtime, maybe?{NOTE:残業かしら？}
 Dialogue: 0,0:12:14.04,0:12:17.17,Default,Mine Nozomi's dad,0,0,0,,{TIME:734046,737174}She's such a nice person, that Nohara-san.{NOTE:感じのいい人だな、野原さんってな。}
-Dialogue: 0,0:12:17.17,0:12:19.93,Default,Mine Nozomi,0,0,0,,{TIME:737174,739935}Yeah, she has this "nice auntie" aura. You can tell her anything.{NOTE:何でも相談できる優しい叔母さんって感じね。}
+Dialogue: 0,0:12:17.17,0:12:19.93,Default,Mine Nozomi,0,0,0,,{TIME:737174,739935}Yeah, she has this "nice auntie" aura.\NYou can tell her anything.{NOTE:何でも相談できる優しい叔母さんって感じね。}
 Dialogue: 0,0:12:21.67,0:12:23.09,Default,Nohara Michiko,0,0,0,,{TIME:741679,743097}{\i1}A "nice auntie"?{NOTE:優しい叔母さん？}
 Dialogue: 0,0:12:23.09,0:12:24.26,Default,Nohara Michiko,0,0,0,,{TIME:743097,744265}{\i1}Me?{NOTE:この私が？}
 Dialogue: 0,0:12:25.43,0:12:28.68,Default,Nohara Michiko,0,0,0,,{TIME:745432,748686}{\i1}Perfect. Everything's going exactly as I had planned.{NOTE:何もかも私の書いた筋書き通りってわけね。}
@@ -274,7 +274,7 @@ Dialogue: 0,0:13:46.52,0:13:48.06,Default,Mine Nozomi's mom,0,0,0,,{TIME:826522,
 Dialogue: 0,0:13:50.40,0:13:53.11,Default,Henchman A,0,0,0,,{TIME:830401,833112}How was it, ma'am? Was is the same?{NOTE:どうですか、お嬢さん？分かりましたか？}
 Dialogue: 0,0:13:53.11,0:13:56.40,Default,Kouda Miki,0,0,0,,{TIME:833112,836407}That's not it. The voice I heard on the phone was different.{NOTE:違うよね。いたずら電話の声とは。}
 Dialogue: 0,0:13:56.40,0:13:57.90,Default,Henchman A,0,0,0,,{TIME:836407,837908}Strange…{NOTE:可笑しいな。}
-Dialogue: 0,0:13:57.90,0:14:01.78,Default,Henchman A,0,0,0,,{TIME:837908,841787}The only other woman left at their house was her little sister.{NOTE:あの家に女と言ったら後は小さな妹だけだし。}
+Dialogue: 0,0:13:57.90,0:14:01.78,Default,Henchman A,0,0,0,,{TIME:837908,841787}The only other woman left\Nat their house was her little sister.{NOTE:あの家に女と言ったら後は小さな妹だけだし。}
 Dialogue: 0,0:14:02.91,0:14:06.54,Default,Maid,0,0,0,,{TIME:842913,846542}M`lady, a friend of yours named Mine has come to see you.{NOTE:お嬢様。峰さんと言うお友達の方が見えましたが。}
 Dialogue: 0,0:14:07.20,0:14:08.33,Default,Kouda Miki,0,0,0,,{TIME:847209,848335}Her?{NOTE:あの子が？}
 Dialogue: 0,0:14:09.83,0:14:13.00,Default,Henchman A,0,0,0,,{TIME:849837,853006}She's pretty bold to come all the way here.{NOTE:わざわざ来るとはこれ大した度胸の娘ですね。}
@@ -408,7 +408,7 @@ Dialogue: 0,0:22:28.71,0:22:30.67,Default,Mine Nozomi,0,0,0,,{TIME:1348710,13506
 Dialogue: 0,0:22:30.67,0:22:34.50,Default,Kouda Miki,0,0,0,,{TIME:1350670,1354507}I heard part time school systems are poor,\Nbut I never thought this much—{NOTE:定時制はガラが悪い噂には聞いていたけど、やっぱり—}
 Dialogue: 0,0:22:34.50,0:22:35.25,Default,Mine Nozomi,0,0,0,,{TIME:1354507,1355258}You idiot!{NOTE:馬鹿！}
 Dialogue: 0,0:22:37.76,0:22:38.97,Default,Kouda Miki,0,0,0,,{TIME:1357761,1358970}Now you've done it!{NOTE:やったわね！}
-Dialogue: 0,0:22:39.84,0:22:41.72,Default,Kouda Miki,0,0,0,,{TIME:1359846,1361723}For me, the daughter of\Na president a big company…{NOTE:社長令嬢の私が…}
+Dialogue: 0,0:22:39.84,0:22:41.72,Default,Kouda Miki,0,0,0,,{TIME:1359846,1361723}For me, the daughter\Nof a president a big company…{NOTE:社長令嬢の私が…}
 Dialogue: 0,0:22:41.72,0:22:45.18,Default,Kouda Miki,0,0,0,,{TIME:1361723,1365185}…to be hit like this.{NOTE:私、生まれて初めて打たれたわ。}
 Dialogue: 0,0:22:45.18,0:22:48.48,Default,Kouda Miki,0,0,0,,{TIME:1365185,1368480}On top of that it was from some oden stand-girl.{NOTE:しかもXXおでん屋の娘にね。}
 Dialogue: 0,0:22:50.89,0:22:52.94,Default,Kouda Miki,0,0,0,,{TIME:1370899,1372943}{\i1}Mark my words.{NOTE:覚えてらっしゃい。}
