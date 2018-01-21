@@ -25,15 +25,15 @@ Style: Beast,Komika Axis,70.0,&H00FAF9F6,&H000000FF,&H00000040,&H7F202020,-1,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}#Sponsors
 Comment: 0,0:00:03.02,0:00:03.02,Default,[chapter],0,0,0,,{TIME:3024,3024}Intro
-Dialogue: 0,0:00:03.90,0:00:05.86,Default,Narrator,80,80,80,,{TIME:3900,5860}{NOTE:少年たちはﾗｲﾀﾞｰ。}
-Dialogue: 0,0:00:05.86,0:00:09.44,Default,Narrator,80,80,80,,{TIME:5860,9447}{NOTE:ﾓﾝｽﾀｰと絆を結びし者たちである。}
-Dialogue: 0,0:00:09.44,0:00:14.53,Default,Narrator,80,80,80,,{TIME:9447,14536}{NOTE:ブラｯクライダーズにさらわれたアユリアを見事助け出したリュートたち。}
-Dialogue: 0,0:00:14.53,0:00:17.70,Default,Narrator,80,80,80,,{TIME:14536,17705}{NOTE:一行は次なる襲撃に備えるべく…}
-Dialogue: 0,0:00:17.70,0:00:22.33,Default,Narrator,80,80,80,,{TIME:17705,22335}{NOTE:…新たな力を求めそれぞれの目的の場所へと向かった。}
-Dialogue: 0,0:00:22.33,0:00:26.83,Default,Narrator,80,80,80,,{TIME:22335,26839}{NOTE:そんな中アユリアの前に突如ゲイルが現れ…}
-Dialogue: 0,0:00:26.83,0:00:31.38,Default,Narrator,80,80,80,,{TIME:26839,31386}{NOTE:…自らがアユリアの兄であることを明かすのだった。}
-Dialogue: 0,0:00:31.38,0:00:36.80,Default,Narrator,80,80,80,,{TIME:31386,36808}{NOTE:一方ｼｬﾄﾞｳはｱﾝｳﾞｨｽから秘術を授かることになった。}
-Dialogue: 0,0:00:36.80,0:00:40.06,Default,Narrator,80,80,80,,{TIME:36808,40061}{NOTE:アンヴィスの言う秘術とはいったい…}
+Dialogue: 0,0:00:03.90,0:00:05.86,Default,Narrator,80,80,80,,{TIME:3900,5860}These kids are Riders.{NOTE:少年たちはﾗｲﾀﾞｰ。}
+Dialogue: 0,0:00:05.86,0:00:09.44,Default,Narrator,80,80,80,,{TIME:5860,9447}And they form kinship with monsters.{NOTE:ﾓﾝｽﾀｰと絆を結びし者たちである。}
+Dialogue: 0,0:00:09.44,0:00:14.53,Default,Narrator,80,80,80,,{TIME:9447,14536}Lute and his friends have rescued Avinia from the Ebon Riders.{NOTE:ブラｯクライダーズにさらわれたアユリアを見事助け出したリュートたち。}
+Dialogue: 0,0:00:14.53,0:00:17.70,Default,Narrator,80,80,80,,{TIME:14536,17705}In order to prepare for the Ebon Riders' next raid…{NOTE:一行は次なる襲撃に備えるべく…}
+Dialogue: 0,0:00:17.70,0:00:22.33,Default,Narrator,80,80,80,,{TIME:17705,22335}…the kids decided to become stronger and divided into three teams, each with a different goal.\N{NOTE:…新たな力を求めそれぞれの目的の場所へと向かった。}
+Dialogue: 0,0:00:22.33,0:00:26.83,Default,Narrator,80,80,80,,{TIME:22335,26839}It didn't take long for Gale to appear in front of Avinia.{NOTE:そんな中アユリアの前に突如ゲイルが現れ…}
+Dialogue: 0,0:00:26.83,0:00:31.38,Default,Narrator,80,80,80,,{TIME:26839,31386}He revealed he was Avinia's older brother.{NOTE:…自らがアユリアの兄であることを明かすのだった。}
+Dialogue: 0,0:00:31.38,0:00:36.80,Default,Narrator,80,80,80,,{TIME:31386,36808}Meanwhile Shadow is to undergo a ritual with Anvis.{NOTE:一方ｼｬﾄﾞｳはｱﾝｳﾞｨｽから秘術を授かることになった。}
+Dialogue: 0,0:00:36.80,0:00:40.06,Default,Narrator,80,80,80,,{TIME:36808,40061}Just what is the ritual Anvis is planning to perform?{NOTE:アンヴィスの言う秘術とはいったい…}
 Comment: 0,0:00:40.06,0:00:40.06,Default,[chapter],0,0,0,,{TIME:40061,40061}Opening
 Dialogue: 0,0:00:43.32,0:00:50.78,Default,[title],0,0,0,,{TIME:43321,50781}{\fad(2500,0)}Monster Hunter Stories: Ride On{NOTE:モンスターハンターストーリーズ：RIDE・ON}
 Dialogue: 0,0:00:53.92,0:00:57.22,OP/ED Romaji,[karaoke],0,0,0,,{TIME:53921,57221}{\k40}Bo{\k20}ku{\k20}ra {\k43}kyou {\k20}mo {\k16}i{\k20}ki{\k23}te{\k20}i{\k106}ru
@@ -94,370 +94,369 @@ Comment: 0,0:02:42.05,0:02:42.05,Default,[chapter],0,0,0,,{TIME:162058,162058}#S
 Comment: 0,0:02:57.07,0:02:57.07,Default,[chapter],0,0,0,,{TIME:177072,177072}#Black screen
 Comment: 0,0:02:59.07,0:02:59.07,Default,[chapter],0,0,0,,{TIME:179075,179075}Part A
 Dialogue: 0,0:02:59.57,0:03:03.53,Episode,[title],0,0,0,,{TIME:179575,183538}{\fad(400,400)\pos(688,440)}Episode 66\NTwo Shadows{NOTE:第６６話\\N２人のシャドウ}
-Dialogue: 0,0:03:03.70,0:03:04.70,Default,Gale,0,0,0,,{TIME:183705,184706}{NOTE:あっ。}
-Dialogue: 0,0:03:04.70,0:03:05.74,Default,Gale,0,0,0,,{TIME:184706,185748}{NOTE:姉さん。}
-Dialogue: 0,0:03:05.74,0:03:07.41,Default,Gale,0,0,0,,{TIME:185748,187417}{NOTE:どこ行くんすか？}
-Dialogue: 0,0:03:07.41,0:03:10.12,Default,Shadow,0,0,0,,{TIME:187417,190128}{NOTE:お前には関係ないだろう。}
-Dialogue: 0,0:03:10.12,0:03:14.42,Default,Gale,0,0,0,,{TIME:190128,194424}{NOTE:けど秘術のために残ってないとまずいんじゃないすか。}
-Dialogue: 0,0:03:14.42,0:03:17.84,Default,Shadow,0,0,0,,{TIME:194424,197844}{NOTE:じっとしてるのは性に合わないんだよ。}
-Dialogue: 0,0:03:17.84,0:03:18.97,Default,Shadow,0,0,0,,{TIME:197844,198970}{NOTE:なーに。}
-Dialogue: 0,0:03:18.97,0:03:21.76,Default,Shadow,0,0,0,,{TIME:198970,201764}{NOTE:すぐ戻ってくるさ。}
-Dialogue: 0,0:03:21.76,0:03:23.64,Default,Gale,0,0,0,,{TIME:201764,203641}{NOTE:姉さん！}
-Dialogue: 0,0:03:23.64,0:03:24.30,Default,Shadow,0,0,0,,{TIME:203641,204308}{NOTE:ん？}
-Dialogue: 0,0:03:29.14,0:03:30.89,Default,Gale,0,0,0,,{TIME:209147,210898}{NOTE:いや…}
-Dialogue: 0,0:03:30.89,0:03:31.98,Default,Shadow,0,0,0,,{TIME:210898,211983}{NOTE:フン。}
-Dialogue: 0,0:03:31.98,0:03:33.77,Default,Shadow,0,0,0,,{TIME:211983,213776}{NOTE:変なやつだね。}
-Dialogue: 0,0:03:33.77,0:03:38.32,Default,Shadow,0,0,0,,{TIME:213776,218322}{NOTE:まっ、手土産持ってくるから楽しみにしてな。}
-Dialogue: 0,0:03:42.03,0:03:43.49,Default,Cheval,0,0,0,,{TIME:222034,223494}{NOTE:おかえりみんな。}
-Dialogue: 0,0:03:43.49,0:03:45.16,Default,Loloa,0,0,0,,{TIME:223494,225163}{NOTE:おかえりですの。}
-Dialogue: 0,0:03:45.16,0:03:47.58,Default,Lute,0,0,0,,{TIME:225163,227582}{NOTE:おう！ただいま！}
-Dialogue: 0,0:03:47.58,0:03:49.29,Default,Navirou,0,0,0,,{TIME:227582,229292}{NOTE:ただいまなのだ！}
-Dialogue: 0,0:03:49.29,0:03:52.33,Default,Navirou,0,0,0,,{TIME:229292,232336}{NOTE:ナビルーロスでさぞかし寂しかったろう！}
-Dialogue: 0,0:03:52.33,0:03:54.75,Default,Mille,0,0,0,,{TIME:232336,234756}{NOTE:あんたがいてもやかましいだけよ。}
-Dialogue: 0,0:03:54.75,0:03:56.21,Default,Narrator,0,0,0,,{TIME:234756,236215}{NOTE:ニャグゥ！}
-Dialogue: 0,0:03:56.21,0:03:58.30,Default,Cryo,0,0,0,,{TIME:236215,238301}{NOTE:ティティもおかえりなさい。}
-Dialogue: 0,0:03:58.30,0:04:00.42,Default,Fifi,0,0,0,,{TIME:238301,240428}{NOTE:ええ。ただいま。}
-Dialogue: 0,0:04:00.42,0:04:02.63,Default,Lute,0,0,0,,{TIME:240428,242638}{NOTE:ほら。アユリアも。}
-Dialogue: 0,0:04:02.63,0:04:04.89,Default,Avinia,0,0,0,,{TIME:242638,244891}{NOTE:えっ？えっと…}
-Dialogue: 0,0:04:08.10,0:04:09.43,Default,Avinia,0,0,0,,{TIME:248102,249437}{NOTE:ただいま…}
-Dialogue: 0,0:04:09.43,0:04:11.56,Default,(unison),0,0,0,,{TIME:249437,251564}{NOTE:—おかえり。\\N—…ですの。}
-Dialogue: 0,0:04:11.56,0:04:14.56,Default,Cryo,0,0,0,,{TIME:251564,254567}{NOTE:リュートさんは今帰ってきたばかりじゃないですか。}
-Dialogue: 0,0:04:14.56,0:04:16.11,Default,Lute,0,0,0,,{TIME:254567,256110}{NOTE:いいんだよ。}
-Dialogue: 0,0:04:16.11,0:04:18.69,Default,Lute,0,0,0,,{TIME:256110,258696}{NOTE:こういうのは言いたいときに言う。}
-Dialogue: 0,0:04:18.69,0:04:19.82,Default,Lute,0,0,0,,{TIME:258696,259822}{NOTE:それが…}
-Dialogue: 0,0:04:19.82,0:04:21.40,Default,Navirou,0,0,0,,{TIME:259822,261407}{NOTE:ナビルール！}
-Dialogue: 0,0:04:21.40,0:04:22.61,Default,Lute,0,0,0,,{TIME:261407,262617}{NOTE:あーっ！}
-Dialogue: 0,0:04:22.61,0:04:25.07,Default,Lute,0,0,0,,{TIME:262617,265077}{NOTE:俺が言いたかったのに！}
-Dialogue: 0,0:04:25.62,0:04:27.87,Default,Cheval,0,0,0,,{TIME:265620,267872}{NOTE:伝承は無事に終わった？}
-Dialogue: 0,0:04:27.87,0:04:28.95,Default,Avinia,0,0,0,,{TIME:267872,268956}{NOTE:はい。}
-Dialogue: 0,0:04:28.95,0:04:29.95,Default,Avinia,0,0,0,,{TIME:268956,269957}{NOTE:何とか…}
-Dialogue: 0,0:04:29.95,0:04:30.87,Default,Cheval,0,0,0,,{TIME:269957,270875}{NOTE:ん？}
-Dialogue: 0,0:04:30.87,0:04:32.33,Default,Mille,0,0,0,,{TIME:270875,272335}{NOTE:何かあったの？}
-Dialogue: 0,0:04:36.79,0:04:39.84,Default,Avinia,0,0,0,,{TIME:276798,279842}{NOTE:皆さんにお伝えしたいことがあります。}
-Dialogue: 0,0:04:41.51,0:04:43.13,Default,Omna,0,0,0,,{TIME:281511,283137}{NOTE:何と。}
-Dialogue: 0,0:04:43.13,0:04:47.01,Default,Omna,0,0,0,,{TIME:283137,287016}{NOTE:あのﾌﾞﾗｯｸﾗｲﾀﾞｰｽﾞがお主の兄じゃったのか。}
-Dialogue: 0,0:04:47.01,0:04:48.22,Default,Avinia,0,0,0,,{TIME:287016,288226}{NOTE:はい。}
-Dialogue: 0,0:04:48.22,0:04:52.98,Default,Cheval,0,0,0,,{TIME:288226,292980}{NOTE:そのゲイルって先輩たちの絆石を奪った人だよね。}
-Dialogue: 0,0:04:52.98,0:04:56.23,Default,Genie,0,0,0,,{TIME:292980,296234}{NOTE:あのリオレウス希少種に乗っていたやつか。}
-Dialogue: 0,0:04:56.23,0:04:58.90,Default,Avinia,0,0,0,,{TIME:296234,298903}{NOTE:兄のせいで本当にごめんなさい。}
-Dialogue: 0,0:04:58.90,0:05:00.40,Default,Genie,0,0,0,,{TIME:298903,300404}{NOTE:あっ、おい…}
-Dialogue: 0,0:05:00.40,0:05:03.57,Default,Omna,0,0,0,,{TIME:300404,303574}{NOTE:頭を上げるのじゃ、アユリア。}
-Dialogue: 0,0:05:06.03,0:05:07.32,Default,Omna,0,0,0,,{TIME:306035,307328}{NOTE:アユリア。}
-Dialogue: 0,0:05:11.33,0:05:15.92,Default,Omna,0,0,0,,{TIME:311332,315920}{NOTE:悪事を働いたのはあくまでお主の兄じゃ。}
-Dialogue: 0,0:05:15.92,0:05:18.71,Default,Omna,0,0,0,,{TIME:315920,318714}{NOTE:お主に責はない。}
-Dialogue: 0,0:05:18.71,0:05:20.21,Default,Omna,0,0,0,,{TIME:318714,320216}{NOTE:それにの…}
-Dialogue: 0,0:05:20.21,0:05:23.34,Default,Omna,0,0,0,,{TIME:320216,323344}{NOTE:皆の絆石もすでに戻ってきておる。}
-Dialogue: 0,0:05:23.34,0:05:30.01,Default,Omna,0,0,0,,{TIME:323344,330017}{NOTE:過ぎたことをいつまでも掘り返すのは先に進むための障害にしかならんのじゃよ。}
-Dialogue: 0,0:05:30.01,0:05:31.10,Default,Stone,0,0,0,,{TIME:330017,331102}{NOTE:うむ。}
-Dialogue: 0,0:05:31.10,0:05:32.60,Default,Stone,0,0,0,,{TIME:331102,332603}{NOTE:そのとおりだな。}
-Dialogue: 0,0:05:32.60,0:05:35.60,Default,Genie,0,0,0,,{TIME:332603,335606}{NOTE:俺はまだ何も言ってないぞ。}
-Dialogue: 0,0:05:35.60,0:05:37.73,Default,Avinia,0,0,0,,{TIME:335606,337733}{NOTE:ありがとうございます。}
-Dialogue: 0,0:05:44.69,0:05:47.99,Default,Omna,0,0,0,,{TIME:344699,347994}{NOTE:あとの話はあしたでもよいじゃろう。}
-Dialogue: 0,0:05:49.12,0:05:51.12,Default,Lute,0,0,0,,{TIME:349120,351122}{NOTE:いっただきまーす！}
-Dialogue: 0,0:05:52.03,0:05:54.16,Default,Lute,0,0,0,,{TIME:352039,354166}{NOTE:このスフレうんめぇ～！}
-Dialogue: 0,0:05:54.16,0:05:56.37,Default,Cheval,0,0,0,,{TIME:354166,356377}{NOTE:ホントだおいしい！}
-Dialogue: 0,0:05:56.37,0:05:59.75,Default,Floof,0,0,0,,{TIME:356377,359755}{NOTE:それはロロアが作ってくれたでしゅニャ。}
-Dialogue: 0,0:05:59.75,0:06:02.92,Default,Loloa,0,0,0,,{TIME:359755,362925}{NOTE:喜んでもらえてよかったですの！}
-Dialogue: 0,0:06:02.92,0:06:06.47,Default,Cryo,0,0,0,,{TIME:362925,366470}{NOTE:ロロアさんが手伝ってくれて本当に助かりました。}
-Dialogue: 0,0:06:06.47,0:06:11.55,Default,Fifi,0,0,0,,{TIME:366470,371559}{NOTE:どっかの誰かさんがつまみ食いばかりで邪魔をするもんですからね。}
-Dialogue: 0,0:06:11.55,0:06:13.56,Default,Navirou,0,0,0,,{TIME:371559,373561}{NOTE:つまみ食い～？}
-Dialogue: 0,0:06:13.56,0:06:15.14,Default,Navirou,0,0,0,,{TIME:373561,375146}{NOTE:つまんでないよ！}
-Dialogue: 0,0:06:15.14,0:06:17.64,Default,Navirou,0,0,0,,{TIME:375146,377648}{NOTE:ペロリ食い！}
-Dialogue: 0,0:06:17.64,0:06:19.94,Default,Lute,0,0,0,,{TIME:377648,379942}{NOTE:ペロリ食い！}
-Dialogue: 0,0:06:19.94,0:06:21.81,Default,Mille,0,0,0,,{TIME:379942,381819}{NOTE:やれやれね。}
-Dialogue: 0,0:06:21.81,0:06:22.86,Default,Loloa,0,0,0,,{TIME:381819,382862}{NOTE:アユリア。}
-Dialogue: 0,0:06:22.86,0:06:24.28,Default,Avinia,0,0,0,,{TIME:382862,384280}{NOTE:ん？}
-Dialogue: 0,0:06:24.28,0:06:25.94,Default,Loloa,0,0,0,,{TIME:384280,385948}{NOTE:はいですの。}
-Dialogue: 0,0:06:25.94,0:06:26.94,Default,Avinia,0,0,0,,{TIME:385948,386949}{NOTE:あっ。}
-Dialogue: 0,0:06:26.94,0:06:27.74,Default,Avinia,0,0,0,,{TIME:386949,387742}{NOTE:ありがとう。}
-Dialogue: 0,0:06:35.20,0:06:36.45,Default,Avinia,0,0,0,,{TIME:395207,396459}{NOTE:おいしい…}
-Dialogue: 0,0:06:36.45,0:06:37.66,Default,Loloa,0,0,0,,{TIME:396459,397668}{NOTE:はぁ！}
-Dialogue: 0,0:06:37.66,0:06:41.29,Default,Loloa,0,0,0,,{TIME:397668,401297}{NOTE:アユリアはもうハクム村の一員ですの。}
-Dialogue: 0,0:06:41.29,0:06:45.13,Default,Loloa,0,0,0,,{TIME:401297,405134}{NOTE:遠慮しないでどんどん食べてほしいですの。}
-Dialogue: 0,0:06:45.13,0:06:50.01,Default,Loloa,0,0,0,,{TIME:405134,410014}{NOTE:私もっとお姉ちゃんやアユリアのために何かしたいですの！}
-Dialogue: 0,0:06:52.09,0:06:53.30,Default,Avinia,0,0,0,,{TIME:412099,413309}{NOTE:ありがとう。}
-Dialogue: 0,0:06:57.39,0:06:59.85,Default,Shadow,0,0,0,,{TIME:417396,419857}{NOTE:さあ、急ぐよ！}
-Dialogue: 0,0:06:59.85,0:07:01.90,Default,Shadow,0,0,0,,{TIME:419857,421901}{NOTE:あの生意気な坊やたちを！}
-Dialogue: 0,0:07:03.31,0:07:05.90,Default,Shadow,0,0,0,,{TIME:423319,425905}{NOTE:今度こそたたきのめさないとね！}
-Dialogue: 0,0:07:10.95,0:07:12.24,Default,Cheval,0,0,0,,{TIME:430952,432244}{NOTE:アユリア。}
-Dialogue: 0,0:07:12.24,0:07:14.03,Default,Cheval,0,0,0,,{TIME:432244,434038}{NOTE:すっかりお姉さんだね。}
-Dialogue: 0,0:07:15.03,0:07:19.46,Default,Avinia,0,0,0,,{TIME:435039,439460}{NOTE:そういえばリュートとシュヴァルは家族同然だと聞きました。}
-Dialogue: 0,0:07:19.46,0:07:20.54,Default,Lute,0,0,0,,{TIME:439460,440544}{NOTE:おう。}
-Dialogue: 0,0:07:20.54,0:07:22.83,Default,Lute,0,0,0,,{TIME:440544,442838}{NOTE:昔からずっと一緒だぜ。}
-Dialogue: 0,0:07:22.83,0:07:24.29,Default,Cheval,0,0,0,,{TIME:442838,444298}{NOTE:そうだね。}
-Dialogue: 0,0:07:24.29,0:07:26.30,Default,Cheval,0,0,0,,{TIME:444298,446300}{NOTE:兄弟みたいなものかな。}
-Dialogue: 0,0:07:27.59,0:07:30.59,Default,Avinia,0,0,0,,{TIME:447593,450596}{NOTE:ちなみにどちらがお兄さんなんですか？}
-Dialogue: 0,0:07:30.59,0:07:31.55,Default,Lute,0,0,0,,{TIME:450596,451555}{NOTE:ん？}
-Dialogue: 0,0:07:31.55,0:07:33.01,Default,Cheval,0,0,0,,{TIME:451555,453015}{NOTE:それは…}
-Dialogue: 0,0:07:34.05,0:07:36.68,Default,(unison),0,0,0,,{TIME:454058,456686}{NOTE:—俺…だな。\\N—俺…かな。}
-Dialogue: 0,0:07:36.68,0:07:37.93,Default,Lute,0,0,0,,{TIME:456686,457937}{NOTE:んん？！}
-Dialogue: 0,0:07:37.93,0:07:39.73,Default,Lute,0,0,0,,{TIME:457937,459730}{NOTE:何言ってんだ！シュヴァル！}
-Dialogue: 0,0:07:39.73,0:07:42.52,Default,Lute,0,0,0,,{TIME:459730,462525}{NOTE:どう考えても俺だろう？}
-Dialogue: 0,0:07:42.52,0:07:45.48,Default,Cheval,0,0,0,,{TIME:462525,465486}{NOTE:そっちこそ何言ってるのさ。}
-Dialogue: 0,0:07:45.48,0:07:49.15,Default,Cheval,0,0,0,,{TIME:465486,469156}{NOTE:昔からリュートの後始末してあげてたの俺じゃないか。}
-Dialogue: 0,0:07:49.15,0:07:51.24,Default,Lute,0,0,0,,{TIME:469156,471242}{NOTE:なーっ！}
-Dialogue: 0,0:07:51.24,0:07:53.95,Default,Lute,0,0,0,,{TIME:471242,473953}{NOTE:昔の話をするならシュヴァルだって！}
-Dialogue: 0,0:07:53.95,0:07:55.53,Default,Cheval,0,0,0,,{TIME:473953,475538}{NOTE:ん？}
-Dialogue: 0,0:07:55.53,0:08:01.58,Default,Lute,0,0,0,,{TIME:475538,481585}{NOTE:森で探検してたときシュヴァル俺の後ろに隠れてばっかりだったじゃんか。}
-Dialogue: 0,0:08:01.58,0:08:04.25,Default,Lute,0,0,0,,{TIME:481585,484255}{NOTE:これは俺の方がお兄さんだろ。}
-Dialogue: 0,0:08:04.25,0:08:05.88,Default,Cheval,0,0,0,,{TIME:484255,485881}{NOTE:違うって。}
-Dialogue: 0,0:08:05.88,0:08:09.51,Default,Cheval,0,0,0,,{TIME:485881,489510}{NOTE:それはリュートがこんがり肉持ったまま森に入るから…}
-Dialogue: 0,0:08:09.51,0:08:15.97,Default,Cheval,0,0,0,,{TIME:489510,495975}{NOTE:…においに釣られてﾓﾝｽﾀｰが来るんじゃないかと心配で引き返そうって言ったんだよ。}
-Dialogue: 0,0:08:15.97,0:08:16.97,Default,Lute,0,0,0,,{TIME:495975,496976}{NOTE:あれ？}
-Dialogue: 0,0:08:16.97,0:08:18.60,Default,Lute,0,0,0,,{TIME:496976,498602}{NOTE:そうだっけ？}
-Dialogue: 0,0:08:18.60,0:08:19.89,Default,Cheval,0,0,0,,{TIME:498602,499895}{NOTE:そうだよ。}
-Dialogue: 0,0:08:25.65,0:08:33.28,Default,Lute,0,0,0,,{TIME:505651,513284}{NOTE:兄弟といえばさヒョロとジーニーいつの間にかすっかり仲良しになってるよな。}
-Dialogue: 0,0:08:33.28,0:08:35.32,Default,Avinia,0,0,0,,{TIME:513284,515327}{NOTE:仲が悪かったのですか？}
-Dialogue: 0,0:08:35.32,0:08:37.03,Default,Lute,0,0,0,,{TIME:515327,517038}{NOTE:そりゃあもう。}
-Dialogue: 0,0:08:37.03,0:08:40.91,Default,Lute,0,0,0,,{TIME:517038,520916}{NOTE:何かあるたびにジーニーがきつーいこと言うんだぜ。}
-Dialogue: 0,0:08:40.91,0:08:42.41,Default,Mille,0,0,0,,{TIME:520916,522418}{NOTE:そうそう。}
-Dialogue: 0,0:08:42.41,0:08:46.17,Default,Lute,0,0,0,,{TIME:522418,526172}{NOTE:でも気付いたら普通に仲良くなっててさ。}
-Dialogue: 0,0:08:46.17,0:08:49.09,Default,Mille,0,0,0,,{TIME:526172,529091}{NOTE:きっともう昔とは違うのよ。}
-Dialogue: 0,0:08:57.34,0:08:59.39,Default,Cheval,0,0,0,,{TIME:537349,539393}{NOTE:そっか。}
-Dialogue: 0,0:08:59.39,0:09:00.06,Default,Lute,0,0,0,,{TIME:539393,540061}{NOTE:ん？}
-Dialogue: 0,0:09:00.06,0:09:01.64,Default,Cheval,0,0,0,,{TIME:540061,541645}{NOTE:あっ、いや…}
-Dialogue: 0,0:09:03.77,0:09:08.90,Default,Cheval,0,0,0,,{TIME:543773,548903}{NOTE:俺いつもﾘｭｰﾄの後始末ばかりしていたって言ったけどさ。}
-Dialogue: 0,0:09:08.90,0:09:13.28,Default,Cheval,0,0,0,,{TIME:548903,553282}{NOTE:思えばずっとリュートを頼っていたのかもしれない。}
-Dialogue: 0,0:09:13.28,0:09:20.58,Default,Cheval,0,0,0,,{TIME:553282,560581}{NOTE:迷惑を掛けて自分勝手でそれでも最後まで手を差し伸べてくれたのはリュートだった。}
-Dialogue: 0,0:09:20.58,0:09:24.12,Default,Cheval,0,0,0,,{TIME:560581,564126}{NOTE:苦しいときにそばにいてくれたのもリュートだった。}
-Dialogue: 0,0:09:25.54,0:09:28.75,Default,Cheval,0,0,0,,{TIME:565544,568756}{NOTE:昔は弟のように思っていた。}
-Dialogue: 0,0:09:28.75,0:09:34.55,Default,Cheval,0,0,0,,{TIME:568756,574553}{NOTE:でも今のリュートは俺にとってとても大切で信頼できる兄…かな。}
-Dialogue: 0,0:09:37.34,0:09:42.01,Default,Lute,0,0,0,,{TIME:577348,582019}{NOTE:俺がバカやったり無茶やったりそんなことできるのってさ…}
-Dialogue: 0,0:09:42.01,0:09:43.14,Default,Lute,0,0,0,,{TIME:582019,583145}{NOTE:…何でだと思う？}
-Dialogue: 0,0:09:45.60,0:09:47.31,Default,Lute,0,0,0,,{TIME:585606,587316}{NOTE:シュヴァルがいたからさ！}
-Dialogue: 0,0:09:48.40,0:09:53.90,Default,Lute,0,0,0,,{TIME:588400,593906}{NOTE:シュヴァルがいつも一緒だったから俺は安心してどこへでも飛び出していけた。}
-Dialogue: 0,0:09:53.90,0:09:56.57,Default,Lute,0,0,0,,{TIME:593906,596575}{NOTE:冒険にだって行けたんだ。}
-Dialogue: 0,0:09:56.57,0:09:58.99,Default,Lute,0,0,0,,{TIME:596575,598994}{NOTE:弟はむしろ俺だ。}
-Dialogue: 0,0:09:58.99,0:10:01.62,Default,Lute,0,0,0,,{TIME:598994,601622}{NOTE:いつだって俺はシュヴァルに頼りっぱなしなんだ。}
-Dialogue: 0,0:10:03.16,0:10:04.54,Default,Cheval,0,0,0,,{TIME:603165,604542}{NOTE:ううん。}
-Dialogue: 0,0:10:04.54,0:10:06.96,Default,Cheval,0,0,0,,{TIME:604542,606961}{NOTE:俺の方が頼りっぱなしさ。}
-Dialogue: 0,0:10:06.96,0:10:10.21,Default,Cheval,0,0,0,,{TIME:606961,610214}{NOTE:だからやっぱり俺は弟なんだよ。}
-Dialogue: 0,0:10:10.21,0:10:13.13,Default,Lute,0,0,0,,{TIME:610214,613134}{NOTE:いいや俺が弟だ。}
-Dialogue: 0,0:10:13.13,0:10:14.26,Default,Cheval,0,0,0,,{TIME:613134,614260}{NOTE:ううん。}
-Dialogue: 0,0:10:14.26,0:10:16.17,Default,Cheval,0,0,0,,{TIME:614260,616178}{NOTE:俺が弟なんだ。}
-Dialogue: 0,0:10:16.17,0:10:19.05,Default,Lute,0,0,0,,{TIME:616178,619056}{NOTE:違う。俺が弟なの。}
-Dialogue: 0,0:10:19.05,0:10:22.30,Default,Cheval,0,0,0,,{TIME:619056,622309}{NOTE:違わない。俺が弟だ。}
-Dialogue: 0,0:10:22.35,0:10:23.60,Default,Lute,0,0,0,,{TIME:622351,623602}{NOTE:いいや！俺だ！}
-Dialogue: 0,0:10:23.60,0:10:25.39,Default,Cheval,0,0,0,,{TIME:623602,625396}{NOTE:違う！俺！}
-Dialogue: 0,0:10:25.39,0:10:26.60,Default,Lute,0,0,0,,{TIME:625396,626605}{NOTE:俺！}
-Dialogue: 0,0:10:26.60,0:10:27.27,Default,Cheval,0,0,0,,{TIME:626605,627273}{NOTE:俺！}
-Dialogue: 0,0:10:27.27,0:10:31.90,Default,Loloa,0,0,0,,{TIME:627273,631902}{NOTE:うるさいですの～！}
-Dialogue: 0,0:10:34.82,0:10:37.74,Default,Avinia,0,0,0,,{TIME:634822,637741}{NOTE:２人は間違いなく家族で兄弟です。}
-Dialogue: 0,0:10:38.86,0:10:42.87,Default,Avinia,0,0,0,,{TIME:638868,642872}{NOTE:離れていても互いに思い助け合う。}
-Dialogue: 0,0:10:43.62,0:10:49.54,Default,Avinia,0,0,0,,{TIME:643622,649545}{NOTE:時にはケンカもしてそして自然に仲直りする。}
-Dialogue: 0,0:10:49.54,0:10:52.38,Default,Avinia,0,0,0,,{TIME:649545,652381}{NOTE:兄弟はそうあるものだと…}
-Dialogue: 0,0:10:53.63,0:10:57.13,Default,Avinia,0,0,0,,{TIME:653632,657136}{NOTE:そうあってほしいなぁと私は思います。}
-Dialogue: 0,0:11:02.14,0:11:04.18,Default,Lute,0,0,0,,{TIME:662141,664185}{NOTE:何だか照れくさいな。}
-Dialogue: 0,0:11:04.18,0:11:05.31,Default,Cheval,0,0,0,,{TIME:664185,665311}{NOTE:ホントだね。}
-Dialogue: 0,0:11:06.60,0:11:10.81,Default,Mille,0,0,0,,{TIME:666604,670816}{NOTE:３人ともなかなか恥ずかしいことを言ったんじゃない？}
-Dialogue: 0,0:11:16.94,0:11:19.03,Default,Loloa,0,0,0,,{TIME:676947,679033}{NOTE:お姉ちゃん…}
+Dialogue: 0,0:03:03.70,0:03:04.70,Default,Gale,0,0,0,,{TIME:183705,184706}Ah.{NOTE:あっ。}
+Dialogue: 0,0:03:04.70,0:03:05.74,Default,Gale,0,0,0,,{TIME:184706,185748}Sis.{NOTE:姉さん。}
+Dialogue: 0,0:03:05.74,0:03:07.41,Default,Gale,0,0,0,,{TIME:185748,187417}Where are you going?{NOTE:どこ行くんすか？}
+Dialogue: 0,0:03:07.41,0:03:10.12,Default,Shadow,0,0,0,,{TIME:187417,190128}It shouldn't matter to you.{NOTE:お前には関係ないだろう。}
+Dialogue: 0,0:03:10.12,0:03:14.42,Default,Gale,0,0,0,,{TIME:190128,194424}But there will be troubles if you're not here for the ritual.{NOTE:けど秘術のために残ってないとまずいんじゃないすか。}
+Dialogue: 0,0:03:14.42,0:03:17.84,Default,Shadow,0,0,0,,{TIME:194424,197844}It's not in my nature to stay still for too long.{NOTE:じっとしてるのは性に合わないんだよ。}
+Dialogue: 0,0:03:17.84,0:03:18.97,Default,Shadow,0,0,0,,{TIME:197844,198970}Don't sweat it.{NOTE:なーに。}
+Dialogue: 0,0:03:18.97,0:03:21.76,Default,Shadow,0,0,0,,{TIME:198970,201764}I'll be back in no time.{NOTE:すぐ戻ってくるさ。}
+Dialogue: 0,0:03:21.76,0:03:23.64,Default,Gale,0,0,0,,{TIME:201764,203641}Sis!{NOTE:姉さん！}
+Dialogue: 0,0:03:23.64,0:03:24.30,Default,Shadow,0,0,0,,{TIME:203641,204308}Hm?{NOTE:ん？}
+Dialogue: 0,0:03:29.14,0:03:30.89,Default,Gale,0,0,0,,{TIME:209147,210898}Nah, nevermind.{NOTE:いや…}
+Dialogue: 0,0:03:30.89,0:03:31.98,Default,Shadow,0,0,0,,{TIME:210898,211983}Hmph.{NOTE:フン。}
+Dialogue: 0,0:03:31.98,0:03:33.77,Default,Shadow,0,0,0,,{TIME:211983,213776}You're acting strange.{NOTE:変なやつだね。}
+Dialogue: 0,0:03:33.77,0:03:38.32,Default,Shadow,0,0,0,,{TIME:213776,218322}I'm going to bring you a souvenir so look forward to it.{NOTE:まっ、手土産持ってくるから楽しみにしてな。}
+Dialogue: 0,0:03:42.03,0:03:43.49,Default,Cheval,0,0,0,,{TIME:222034,223494}Welcome back, everyone.{NOTE:おかえりみんな。}
+Dialogue: 0,0:03:43.49,0:03:45.16,Default,Loloa,0,0,0,,{TIME:223494,225163}Welcome back.{NOTE:おかえりですの。}
+Dialogue: 0,0:03:45.16,0:03:47.58,Default,Lute,0,0,0,,{TIME:225163,227582}Yeah! We're home!{NOTE:おう！ただいま！}
+Dialogue: 0,0:03:47.58,0:03:49.29,Default,Navirou,0,0,0,,{TIME:227582,229292}I'm back!{NOTE:ただいまなのだ！}
+Dialogue: 0,0:03:49.29,0:03:52.33,Default,Navirou,0,0,0,,{TIME:229292,232336}I bet you were lonely without Navirou!{NOTE:ナビルーロスでさぞかし寂しかったろう！}
+Dialogue: 0,0:03:52.33,0:03:54.75,Default,Mille,0,0,0,,{TIME:232336,234756}We finally rested a little without you around.{NOTE:あんたがいてもやかましいだけよ。}
+Dialogue: 0,0:03:54.75,0:03:56.21,Default,Narrator,0,0,0,,{TIME:234756,236215}Nya-ow!{NOTE:ニャグゥ！}
+Dialogue: 0,0:03:56.21,0:03:58.30,Default,Cryo,0,0,0,,{TIME:236215,238301}Welcome back, Fifi.{NOTE:ティティもおかえりなさい。}
+Dialogue: 0,0:03:58.30,0:04:00.42,Default,Fifi,0,0,0,,{TIME:238301,240428}I'm home.{NOTE:ええ。ただいま。}
+Dialogue: 0,0:04:00.42,0:04:02.63,Default,Lute,0,0,0,,{TIME:240428,242638}Here. Avinia, you too.{NOTE:ほら。アユリアも。}
+Dialogue: 0,0:04:02.63,0:04:04.89,Default,Avinia,0,0,0,,{TIME:242638,244891}Oh? Err…{NOTE:えっ？えっと…}
+Dialogue: 0,0:04:08.10,0:04:09.43,Default,Avinia,0,0,0,,{TIME:248102,249437}I'm home…{NOTE:ただいま…}
+Dialogue: 0,0:04:09.43,0:04:11.56,Default,(unison),0,0,0,,{TIME:249437,251564}– Welcome back!\N– Welcome back!{NOTE:—おかえり。\\N—…ですの。}
+Dialogue: 0,0:04:11.56,0:04:14.56,Default,Cryo,0,0,0,,{TIME:251564,254567}Lute, you just returned though.{NOTE:リュートさんは今帰ってきたばかりじゃないですか。}
+Dialogue: 0,0:04:14.56,0:04:16.11,Default,Lute,0,0,0,,{TIME:254567,256110}What does it matter?{NOTE:いいんだよ。}
+Dialogue: 0,0:04:16.11,0:04:18.69,Default,Lute,0,0,0,,{TIME:256110,258696}It's a phrase you oughta say when you want to.{NOTE:こういうのは言いたいときに言う。}
+Dialogue: 0,0:04:18.69,0:04:19.82,Default,Lute,0,0,0,,{TIME:258696,259822}And that's…{NOTE:それが…}
+Dialogue: 0,0:04:19.82,0:04:21.40,Default,Navirou,0,0,0,,{TIME:259822,261407}…a Navi-rule.{NOTE:ナビルール！}
+Dialogue: 0,0:04:21.40,0:04:22.61,Default,Lute,0,0,0,,{TIME:261407,262617}Ahh!{NOTE:あーっ！}
+Dialogue: 0,0:04:22.61,0:04:25.07,Default,Lute,0,0,0,,{TIME:262617,265077}I wanted to say it!{NOTE:俺が言いたかったのに！}
+Dialogue: 0,0:04:25.62,0:04:27.87,Default,Cheval,0,0,0,,{TIME:265620,267872}Did you undergo the rite of channeling?{NOTE:伝承は無事に終わった？}
+Dialogue: 0,0:04:27.87,0:04:28.95,Default,Avinia,0,0,0,,{TIME:267872,268956}Yes.{NOTE:はい。}
+Dialogue: 0,0:04:28.95,0:04:29.95,Default,Avinia,0,0,0,,{TIME:268956,269957}Somehow.{NOTE:何とか…}
+Dialogue: 0,0:04:29.95,0:04:30.87,Default,Cheval,0,0,0,,{TIME:269957,270875}Hm?{NOTE:ん？}
+Dialogue: 0,0:04:30.87,0:04:32.33,Default,Mille,0,0,0,,{TIME:270875,272335}Did something happen?{NOTE:何かあったの？}
+Dialogue: 0,0:04:36.79,0:04:39.84,Default,Avinia,0,0,0,,{TIME:276798,279842}Actually, there's something I want to tell everyone.{NOTE:皆さんにお伝えしたいことがあります。}
+Dialogue: 0,0:04:41.51,0:04:43.13,Default,Omna,0,0,0,,{TIME:281511,283137}That's unbelievable.{NOTE:何と。}
+Dialogue: 0,0:04:43.13,0:04:47.01,Default,Omna,0,0,0,,{TIME:283137,287016}That Ebon Rider was your older brother?{NOTE:あのﾌﾞﾗｯｸﾗｲﾀﾞｰｽﾞがお主の兄じゃったのか。}
+Dialogue: 0,0:04:47.01,0:04:48.22,Default,Avinia,0,0,0,,{TIME:287016,288226}Yes.{NOTE:はい。}
+Dialogue: 0,0:04:48.22,0:04:52.98,Default,Cheval,0,0,0,,{TIME:288226,292980}Gale is one of the people that robbed our seniors of their Kinship Stones, right?{NOTE:そのゲイルって先輩たちの絆石を奪った人だよね。}
+Dialogue: 0,0:04:52.98,0:04:56.23,Default,Genie,0,0,0,,{TIME:292980,296234}The one who was riding that rare species of Rathalos, huh?{NOTE:あのリオレウス希少種に乗っていたやつか。}
+Dialogue: 0,0:04:56.23,0:04:58.90,Default,Avinia,0,0,0,,{TIME:296234,298903}I apologize on behalf of my brother.{NOTE:兄のせいで本当にごめんなさい。}
+Dialogue: 0,0:04:58.90,0:05:00.40,Default,Genie,0,0,0,,{TIME:298903,300404}Ah, hey…{NOTE:あっ、おい…}
+Dialogue: 0,0:05:00.40,0:05:03.57,Default,Omna,0,0,0,,{TIME:300404,303574}Raise your head, Avinia.{NOTE:頭を上げるのじゃ、アユリア。}
+Dialogue: 0,0:05:06.03,0:05:07.32,Default,Omna,0,0,0,,{TIME:306035,307328}Avinia.{NOTE:アユリア。}
+Dialogue: 0,0:05:11.33,0:05:15.92,Default,Omna,0,0,0,,{TIME:311332,315920}It's your brother that did evil.{NOTE:悪事を働いたのはあくまでお主の兄じゃ。}
+Dialogue: 0,0:05:15.92,0:05:18.71,Default,Omna,0,0,0,,{TIME:315920,318714}You bear no responsibility.{NOTE:お主に責はない。}
+Dialogue: 0,0:05:18.71,0:05:20.21,Default,Omna,0,0,0,,{TIME:318714,320216}And besides…{NOTE:それにの…}
+Dialogue: 0,0:05:20.21,0:05:23.34,Default,Omna,0,0,0,,{TIME:320216,323344}…everyone got their Kinship Stones back.{NOTE:皆の絆石もすでに戻ってきておる。}
+Dialogue: 0,0:05:23.34,0:05:30.01,Default,Omna,0,0,0,,{TIME:323344,330017}Digging up the past and opening old wounds won't do us anything good.{NOTE:過ぎたことをいつまでも掘り返すのは先に進むための障害にしかならんのじゃよ。}
+Dialogue: 0,0:05:30.01,0:05:31.10,Default,Stone,0,0,0,,{TIME:330017,331102}Yes.{NOTE:うむ。}
+Dialogue: 0,0:05:31.10,0:05:32.60,Default,Stone,0,0,0,,{TIME:331102,332603}Well said.{NOTE:そのとおりだな。}
+Dialogue: 0,0:05:32.60,0:05:35.60,Default,Genie,0,0,0,,{TIME:332603,335606}I haven't said anything yet!{NOTE:俺はまだ何も言ってないぞ。}
+Dialogue: 0,0:05:35.60,0:05:37.73,Default,Avinia,0,0,0,,{TIME:335606,337733}Thank you very much.{NOTE:ありがとうございます。}
+Dialogue: 0,0:05:44.69,0:05:47.99,Default,Omna,0,0,0,,{TIME:344699,347994}Let's finish this talk tomorrow.{NOTE:あとの話はあしたでもよいじゃろう。}
+Dialogue: 0,0:05:49.12,0:05:51.12,Default,Lute,0,0,0,,{TIME:349120,351122}Thanks for the food!{NOTE:いっただきまーす！}
+Dialogue: 0,0:05:52.03,0:05:54.16,Default,Lute,0,0,0,,{TIME:352039,354166}It's super tasty!{NOTE:このスフレうんめぇ～！}
+Dialogue: 0,0:05:54.16,0:05:56.37,Default,Cheval,0,0,0,,{TIME:354166,356377}Yes, it truly is delicious.{NOTE:ホントだおいしい！}
+Dialogue: 0,0:05:56.37,0:05:59.75,Default,Floof,0,0,0,,{TIME:356377,359755}Loloa made it so it's no wonder.{NOTE:それはロロアが作ってくれたでしゅニャ。}
+Dialogue: 0,0:05:59.75,0:06:02.92,Default,Loloa,0,0,0,,{TIME:359755,362925}I'm glad you like it!{NOTE:喜んでもらえてよかったですの！}
+Dialogue: 0,0:06:02.92,0:06:06.47,Default,Cryo,0,0,0,,{TIME:362925,366470}Thank you for your hard work, Loloa.{NOTE:ロロアさんが手伝ってくれて本当に助かりました。}
+Dialogue: 0,0:06:06.47,0:06:11.55,Default,Fifi,0,0,0,,{TIME:366470,371559}But a certain someone here really could use cutlery rather than eating with their paws.{NOTE:どっかの誰かさんがつまみ食いばかりで邪魔をするもんですからね。}
+Dialogue: 0,0:06:11.55,0:06:13.56,Default,Navirou,0,0,0,,{TIME:371559,373561}Eating with their paws?{NOTE:つまみ食い～？}
+Dialogue: 0,0:06:13.56,0:06:15.14,Default,Navirou,0,0,0,,{TIME:373561,375146}I don't know who you're talking about.{NOTE:つまんでないよ！}
+Dialogue: 0,0:06:15.14,0:06:17.64,Default,Navirou,0,0,0,,{TIME:375146,377648}I'm eating with my tongue!{NOTE:ペロリ食い！}
+Dialogue: 0,0:06:17.64,0:06:19.94,Default,Lute,0,0,0,,{TIME:377648,379942}With my tongue!{NOTE:ペロリ食い！}
+Dialogue: 0,0:06:19.94,0:06:21.81,Default,Mille,0,0,0,,{TIME:379942,381819}Really, now…?{NOTE:やれやれね。}
+Dialogue: 0,0:06:21.81,0:06:22.86,Default,Loloa,0,0,0,,{TIME:381819,382862}Avinia.{NOTE:アユリア。}
+Dialogue: 0,0:06:22.86,0:06:24.28,Default,Avinia,0,0,0,,{TIME:382862,384280}Oh?{NOTE:ん？}
+Dialogue: 0,0:06:24.28,0:06:25.94,Default,Loloa,0,0,0,,{TIME:384280,385948}Here you go.{NOTE:はいですの。}
+Dialogue: 0,0:06:25.94,0:06:26.94,Default,Avinia,0,0,0,,{TIME:385948,386949}Ah.{NOTE:あっ。}
+Dialogue: 0,0:06:26.94,0:06:27.74,Default,Avinia,0,0,0,,{TIME:386949,387742}Thank you.{NOTE:ありがとう。}
+Dialogue: 0,0:06:35.20,0:06:36.45,Default,Avinia,0,0,0,,{TIME:395207,396459}Delicious…{NOTE:おいしい…}
+Dialogue: 0,0:06:36.45,0:06:37.66,Default,Loloa,0,0,0,,{TIME:396459,397668}Ah!{NOTE:はぁ！}
+Dialogue: 0,0:06:37.66,0:06:41.29,Default,Loloa,0,0,0,,{TIME:397668,401297}Avinia is already a member of Hakum village.{NOTE:アユリアはもうハクム村の一員ですの。}
+Dialogue: 0,0:06:41.29,0:06:45.13,Default,Loloa,0,0,0,,{TIME:401297,405134}Please, don't hold back and eat as much as you want.{NOTE:遠慮しないでどんどん食べてほしいですの。}
+Dialogue: 0,0:06:45.13,0:06:50.01,Default,Loloa,0,0,0,,{TIME:405134,410014}I want to be of use for you, Avinia.{NOTE:私もっとお姉ちゃんやアユリアのために何かしたいですの！}
+Dialogue: 0,0:06:52.09,0:06:53.30,Default,Avinia,0,0,0,,{TIME:412099,413309}Thank you.{NOTE:ありがとう。}
+Dialogue: 0,0:06:57.39,0:06:59.85,Default,Shadow,0,0,0,,{TIME:417396,419857}Let's hurry!{NOTE:さあ、急ぐよ！}
+Dialogue: 0,0:06:59.85,0:07:01.90,Default,Shadow,0,0,0,,{TIME:419857,421901}Those cheeky little boys!{NOTE:あの生意気な坊やたちを！}
+Dialogue: 0,0:07:03.31,0:07:05.90,Default,Shadow,0,0,0,,{TIME:423319,425905}We'll beat you this time for sure!{NOTE:今度こそたたきのめさないとね！}
+Dialogue: 0,0:07:10.95,0:07:12.24,Default,Cheval,0,0,0,,{TIME:430952,432244}Avinia.{NOTE:アユリア。}
+Dialogue: 0,0:07:12.24,0:07:14.03,Default,Cheval,0,0,0,,{TIME:432244,434038}You're like a big sister to her.{NOTE:すっかりお姉さんだね。}
+Dialogue: 0,0:07:15.03,0:07:19.46,Default,Avinia,0,0,0,,{TIME:435039,439460}By the way, Lute and Cheval, I heard you're like a family yourselves.{NOTE:そういえばリュートとシュヴァルは家族同然だと聞きました。}
+Dialogue: 0,0:07:19.46,0:07:20.54,Default,Lute,0,0,0,,{TIME:439460,440544}Yeah!{NOTE:おう。}
+Dialogue: 0,0:07:20.54,0:07:22.83,Default,Lute,0,0,0,,{TIME:440544,442838}We've been together since long ago.{NOTE:昔からずっと一緒だぜ。}
+Dialogue: 0,0:07:22.83,0:07:24.29,Default,Cheval,0,0,0,,{TIME:442838,444298}Yeah.{NOTE:そうだね。}
+Dialogue: 0,0:07:24.29,0:07:26.30,Default,Cheval,0,0,0,,{TIME:444298,446300}We're like brothers.{NOTE:兄弟みたいなものかな。}
+Dialogue: 0,0:07:27.59,0:07:30.59,Default,Avinia,0,0,0,,{TIME:447593,450596}So, which one of you is the older brother?{NOTE:ちなみにどちらがお兄さんなんですか？}
+Dialogue: 0,0:07:30.59,0:07:31.55,Default,Lute,0,0,0,,{TIME:450596,451555}Hm?{NOTE:ん？}
+Dialogue: 0,0:07:31.55,0:07:33.01,Default,Cheval,0,0,0,,{TIME:451555,453015}That's…{NOTE:それは…}
+Dialogue: 0,0:07:34.05,0:07:36.68,Default,(unison),0,0,0,,{TIME:454058,456686}– …me, I guess.\N– …me, I guess.{NOTE:—俺…だな。\\N—俺…かな。}
+Dialogue: 0,0:07:36.68,0:07:37.93,Default,Lute,0,0,0,,{TIME:456686,457937}What?!{NOTE:んん？！}
+Dialogue: 0,0:07:37.93,0:07:39.73,Default,Lute,0,0,0,,{TIME:457937,459730}What are you saying, Cheval?{NOTE:何言ってんだ！シュヴァル！}
+Dialogue: 0,0:07:39.73,0:07:42.52,Default,Lute,0,0,0,,{TIME:459730,462525}No matter how you look at it, it's me who's older.{NOTE:どう考えても俺だろう？}
+Dialogue: 0,0:07:42.52,0:07:45.48,Default,Cheval,0,0,0,,{TIME:462525,465486}I could say the same.{NOTE:そっちこそ何言ってるのさ。}
+Dialogue: 0,0:07:45.48,0:07:49.15,Default,Cheval,0,0,0,,{TIME:465486,469156}I'm the one who had to take care of you in the old days.{NOTE:昔からリュートの後始末してあげてたの俺じゃないか。}
+Dialogue: 0,0:07:49.15,0:07:51.24,Default,Lute,0,0,0,,{TIME:469156,471242}What?{NOTE:なーっ！}
+Dialogue: 0,0:07:51.24,0:07:53.95,Default,Lute,0,0,0,,{TIME:471242,473953}We're talking about past, now? All right, then!{NOTE:昔の話をするならシュヴァルだって！}
+Dialogue: 0,0:07:53.95,0:07:55.53,Default,Cheval,0,0,0,,{TIME:473953,475538}Hmm?{NOTE:ん？}
+Dialogue: 0,0:07:55.53,0:08:01.58,Default,Lute,0,0,0,,{TIME:475538,481585}When I was exploring the forest,\Nyou always were hiding behind my back.{NOTE:森で探検してたときシュヴァル俺の後ろに隠れてばっかりだったじゃんか。}
+Dialogue: 0,0:08:01.58,0:08:04.25,Default,Lute,0,0,0,,{TIME:481585,484255}That alone makes me the older brother.{NOTE:これは俺の方がお兄さんだろ。}
+Dialogue: 0,0:08:04.25,0:08:05.88,Default,Cheval,0,0,0,,{TIME:484255,485881}It wasn't like that at all!{NOTE:違うって。}
+Dialogue: 0,0:08:05.88,0:08:09.51,Default,Cheval,0,0,0,,{TIME:485881,489510}That's because you entered the forest with cooked meat…{NOTE:それはリュートb肉持ったまま森に入るから…}
+Dialogue: 0,0:08:09.51,0:08:15.97,Default,Cheval,0,0,0,,{TIME:489510,495975}…and I was worrying that monsters could catch its smell, so I tried to turn you around.{NOTE:…においに釣られてﾓﾝｽﾀｰが来るんじゃないかと心配で引き返そうって言ったんだよ。}
+Dialogue: 0,0:08:15.97,0:08:16.97,Default,Lute,0,0,0,,{TIME:495975,496976}Huh?{NOTE:あれ？}
+Dialogue: 0,0:08:16.97,0:08:18.60,Default,Lute,0,0,0,,{TIME:496976,498602}That's how it was?{NOTE:そうだっけ？}
+Dialogue: 0,0:08:18.60,0:08:19.89,Default,Cheval,0,0,0,,{TIME:498602,499895}It is.{NOTE:そうだよ。}
+Dialogue: 0,0:08:25.65,0:08:33.28,Default,Lute,0,0,0,,{TIME:505651,513284}Speaking of brothers, Hyoro and Genie seem to be getting along well these days.{NOTE:兄弟といえばさヒョロとジーニーいつの間にかすっかり仲良しになってるよな。}
+Dialogue: 0,0:08:33.28,0:08:35.32,Default,Avinia,0,0,0,,{TIME:513284,515327}They didn't before?{NOTE:仲が悪かったのですか？}
+Dialogue: 0,0:08:35.32,0:08:37.03,Default,Lute,0,0,0,,{TIME:515327,517038}You'd have to see them.{NOTE:そりゃあもう。}
+Dialogue: 0,0:08:37.03,0:08:40.91,Default,Lute,0,0,0,,{TIME:517038,520916}Genie always kept nitpicking on whatever Hyoro said.{NOTE:何かあるたびにジーニーがきつーいこと言うんだぜ。}
+Dialogue: 0,0:08:40.91,0:08:42.41,Default,Mille,0,0,0,,{TIME:520916,522418}Yeah, I remember.{NOTE:そうそう。}
+Dialogue: 0,0:08:42.41,0:08:46.17,Default,Lute,0,0,0,,{TIME:522418,526172}But once he noticed it, they started to get along well.{NOTE:でも気付いたら普通に仲良くなっててさ。}
+Dialogue: 0,0:08:46.17,0:08:49.09,Default,Mille,0,0,0,,{TIME:526172,529091}I'm sure it's a story of the past now.{NOTE:きっともう昔とは違うのよ。}
+Dialogue: 0,0:08:57.34,0:08:59.39,Default,Cheval,0,0,0,,{TIME:537349,539393}I see.{NOTE:そっか。}
+Dialogue: 0,0:08:59.39,0:09:00.06,Default,Lute,0,0,0,,{TIME:539393,540061}Hm?{NOTE:ん？}
+Dialogue: 0,0:09:00.06,0:09:01.64,Default,Cheval,0,0,0,,{TIME:540061,541645}Ah, it's just…{NOTE:あっ、いや…}
+Dialogue: 0,0:09:03.77,0:09:08.90,Default,Cheval,0,0,0,,{TIME:543773,548903}I said before that I always had to clean up after you, Lute.{NOTE:俺いつもﾘｭｰﾄの後始末ばかりしていたって言ったけどさ。}
+Dialogue: 0,0:09:08.90,0:09:13.28,Default,Cheval,0,0,0,,{TIME:548903,553282}But now that I think of it, I might have been relying on you instead.{NOTE:思えばずっとリュートを頼っていたのかもしれない。}
+Dialogue: 0,0:09:13.28,0:09:20.58,Default,Cheval,1,1,0,,{TIME:553282,560581}Lute, you were always causing trouble for a fact, but in the end, it's you who always gave me a helping hand.{NOTE:迷惑を掛けて自分勝手でそれでも最後まで手を差し伸べてくれたのはリュートだった。}
+Dialogue: 0,0:09:20.58,0:09:24.12,Default,Cheval,0,0,0,,{TIME:560581,564126}It was you who always been there for me in difficult times.{NOTE:苦しいときにそばにいてくれたのもリュートだった。}
+Dialogue: 0,0:09:25.54,0:09:28.75,Default,Cheval,0,0,0,,{TIME:565544,568756}I might have thought of you\Nas my younger brother in the old days.{NOTE:昔は弟のように思っていた。}
+Dialogue: 0,0:09:28.75,0:09:34.55,Default,Cheval,0,0,0,,{TIME:568756,574553}But now, Lute… for me, you're an important and trustworthy older brother… I think.{NOTE:でも今のリュートは俺にとってとても大切で信頼できる兄…かな。}
+Dialogue: 0,0:09:37.34,0:09:43.14,Default,Lute,0,0,0,,{TIME:577348,583145}Why do you think I could do all these reckless and stupid things?{NOTE:俺がバカやったり無茶やったりそんなことできるのってさ…何でだと思う？}
+Dialogue: 0,0:09:45.60,0:09:47.31,Default,Lute,0,0,0,,{TIME:585606,587316}It's because you've been there, Cheval!{NOTE:シュヴァルがいたからさ！}
+Dialogue: 0,0:09:48.40,0:09:53.90,Default,Lute,0,0,0,,{TIME:588400,593906}Because you was always with me, I could rely on you and do anything with confidence.{NOTE:シュヴァルがいつも一緒だったから俺は安心してどこへでも飛び出していけた。}
+Dialogue: 0,0:09:53.90,0:09:56.57,Default,Lute,0,0,0,,{TIME:593906,596575}It's thanks to you I could go on adventures.{NOTE:冒険にだって行けたんだ。}
+Dialogue: 0,0:09:56.57,0:09:58.99,Default,Lute,0,0,0,,{TIME:596575,598994}I'm the younger brother here.{NOTE:弟はむしろ俺だ。}
+Dialogue: 0,0:09:58.99,0:10:01.62,Default,Lute,0,0,0,,{TIME:598994,601622}I depended on you for a long time.{NOTE:いつだって俺はシュヴァルに頼りっぱなしなんだ。}
+Dialogue: 0,0:10:03.16,0:10:04.54,Default,Cheval,0,0,0,,{TIME:603165,604542}No…{NOTE:ううん。}
+Dialogue: 0,0:10:04.54,0:10:06.96,Default,Cheval,0,0,0,,{TIME:604542,606961}I was relying on you even more.{NOTE:俺の方が頼りっぱなしさ。}
+Dialogue: 0,0:10:06.96,0:10:10.21,Default,Cheval,0,0,0,,{TIME:606961,610214}That's why I am the younger brother.{NOTE:だからやっぱり俺は弟なんだよ。}
+Dialogue: 0,0:10:10.21,0:10:13.13,Default,Lute,0,0,0,,{TIME:610214,613134}No, I'm the younger brother.{NOTE:いいや俺が弟だ。}
+Dialogue: 0,0:10:13.13,0:10:14.26,Default,Cheval,0,0,0,,{TIME:613134,614260}No.{NOTE:ううん。}
+Dialogue: 0,0:10:14.26,0:10:16.17,Default,Cheval,0,0,0,,{TIME:614260,616178}I'm the younger brother.{NOTE:俺が弟なんだ。}
+Dialogue: 0,0:10:16.17,0:10:19.05,Default,Lute,0,0,0,,{TIME:616178,619056}Wrong. I'm the younger one.{NOTE:違う。俺が弟なの。}
+Dialogue: 0,0:10:19.05,0:10:22.30,Default,Cheval,0,0,0,,{TIME:619056,622309}But it isn't wrong. I'm the younger one.{NOTE:違わない。俺が弟だ。}
+Dialogue: 0,0:10:22.30,0:10:23.60,Default,Lute,0,0,0,,{TIME:622309,623602}No! I am!{NOTE:いいや！俺だ！}
+Dialogue: 0,0:10:23.60,0:10:25.39,Default,Cheval,0,0,0,,{TIME:623602,625396}Wrong! Me!{NOTE:違う！俺！}
+Dialogue: 0,0:10:25.39,0:10:26.60,Default,Lute,0,0,0,,{TIME:625396,626605}Me!{NOTE:俺！}
+Dialogue: 0,0:10:26.60,0:10:27.27,Default,Cheval,0,0,0,,{TIME:626605,627273}Me!{NOTE:俺！}
+Dialogue: 0,0:10:27.27,0:10:31.90,Default,Loloa,0,0,0,,{TIME:627273,631902}Shut up already!{NOTE:うるさいですの～！}
+Dialogue: 0,0:10:34.82,0:10:37.74,Default,Avinia,0,0,0,,{TIME:634822,637741}The two of you are definitely a family and brothers.{NOTE:２人は間違いなく家族で兄弟です。}
+Dialogue: 0,0:10:38.86,0:10:42.87,Default,Avinia,0,0,0,,{TIME:638868,642872}Even when you are separated, you think about each other and help each other.\N{NOTE:離れていても互いに思い助け合う。}
+Dialogue: 0,0:10:43.62,0:10:49.54,Default,Avinia,0,0,0,,{TIME:643622,649545}Sometimes you fight, and then naturally reconcile.{NOTE:時にはケンカもしてそして自然に仲直りする。}
+Dialogue: 0,0:10:49.54,0:10:52.38,Default,Avinia,0,0,0,,{TIME:649545,652381}Brothers are like that…{NOTE:兄弟はそうあるものだと…}
+Dialogue: 0,0:10:53.63,0:10:57.13,Default,Avinia,0,0,0,,{TIME:653632,657136}…or at least should be like that.\NThat's what I think.{NOTE:そうあってほしいなぁと私は思います。}
+Dialogue: 0,0:11:02.14,0:11:04.18,Default,Lute,0,0,0,,{TIME:662141,664185}You're making me kind of embarrassed.{NOTE:何だか照れくさいな。}
+Dialogue: 0,0:11:04.18,0:11:05.31,Default,Cheval,0,0,0,,{TIME:664185,665311}Really.{NOTE:ホントだね。}
+Dialogue: 0,0:11:06.60,0:11:10.81,Default,Mille,0,0,0,,{TIME:666604,670816}But both of you said quite embarrassing things yourselves, didn't you?{NOTE:３人ともなかなか恥ずかしいことを言ったんじゃない？}
+Dialogue: 0,0:11:16.94,0:11:19.03,Default,Loloa,0,0,0,,{TIME:676947,679033}Sis…{NOTE:お姉ちゃん…}
 Comment: 0,0:11:19.03,0:11:19.03,Default,[chapter],0,0,0,,{TIME:679033,679033}Eyecatch
-Dialogue: 0,0:11:19.61,0:11:20.95,Default,Lute,0,0,0,,{TIME:679617,680951}{NOTE:ライドオン！}
-Dialogue: 0,0:11:21.95,0:11:23.03,Default,Lute,0,0,0,,{TIME:681952,683037}{NOTE:リオレウス！}
+Dialogue: 0,0:11:19.61,0:11:20.95,Default,Lute,0,0,0,,{TIME:679617,680951}Ride On!{NOTE:ライドオン！}
+Dialogue: 0,0:11:21.95,0:11:23.03,Default,Lute,0,0,0,,{TIME:681952,683037}Rathalos!{NOTE:リオレウス！}
 Comment: 0,0:11:23.03,0:11:23.03,Default,[chapter],0,0,0,,{TIME:683036,683036}#Black screen
 Comment: 0,0:11:25.03,0:11:25.03,Default,[chapter],0,0,0,,{TIME:685039,685039}$Eyecatch
-Dialogue: 0,0:11:27.24,0:11:29.04,Default,Navirou,0,0,0,,{TIME:687249,689043}{NOTE:ニャグゥ！}
+Dialogue: 0,0:11:27.24,0:11:29.04,Default,Navirou,0,0,0,,{TIME:687249,689043}Nya-ow!{NOTE:ニャグゥ！}
 Comment: 0,0:11:29.04,0:11:29.04,Default,[chapter],0,0,0,,{TIME:689043,689043}Part B
-Dialogue: 0,0:11:29.91,0:11:34.34,Default,Genie,0,0,0,,{TIME:689919,694340}{NOTE:つまりゲイルはアユリアが妹だと気付いていたのか。}
-Dialogue: 0,0:11:34.34,0:11:38.30,Default,Cheval,0,0,0,,{TIME:694340,698302}{NOTE:それを知った上でﾌﾞﾗｯｸｷｬｯｽﾙに幽閉していた。}
-Dialogue: 0,0:11:38.30,0:11:43.34,Default,Cryo,0,0,0,,{TIME:698302,703349}{NOTE:そしてアユリアさんを取り返しにまたやってきたけれど…}
-Dialogue: 0,0:11:43.34,0:11:47.64,Default,Mille,0,0,0,,{TIME:703349,707645}{NOTE:絆遺伝子を残すとそのまま去ってしまった。}
-Dialogue: 0,0:11:47.64,0:11:50.94,Default,Avinia,0,0,0,,{TIME:707645,710940}{NOTE:兄はいったい何が目的なのでしょうか。}
-Dialogue: 0,0:11:55.52,0:11:57.32,Default,(unison),0,0,0,,{TIME:715527,717321}{NOTE:うーん…}
-Dialogue: 0,0:11:57.32,0:12:00.53,Default,Lute,0,0,0,,{TIME:717321,720532}{NOTE:俺にはさっぱり分かんなーい！}
-Dialogue: 0,0:12:00.53,0:12:01.78,Default,Navirou,0,0,0,,{TIME:720532,721784}{NOTE:ニャーイ！}
-Dialogue: 0,0:12:01.78,0:12:02.57,Default,Lilia's mom,0,0,0,,{TIME:721784,722576}{NOTE:あの…}
-Dialogue: 0,0:12:02.57,0:12:03.95,Default,(unison),0,0,0,,{TIME:722576,723953}{NOTE:—おっ？\\N—おっ？}
-Dialogue: 0,0:12:03.95,0:12:04.91,Default,Navirou,0,0,0,,{TIME:723953,724912}{NOTE:おや！}
-Dialogue: 0,0:12:04.91,0:12:06.99,Default,Navirou,0,0,0,,{TIME:724912,726997}{NOTE:リリアのママさんだ。}
-Dialogue: 0,0:12:06.99,0:12:10.25,Default,Lilia's mom,0,0,0,,{TIME:726997,730251}{NOTE:リュートちゃんたちロロア見なかった？}
-Dialogue: 0,0:12:10.25,0:12:11.71,Default,Lute,0,0,0,,{TIME:730251,731710}{NOTE:ロロア？}
-Dialogue: 0,0:12:11.71,0:12:13.71,Default,Lute,0,0,0,,{TIME:731710,733712}{NOTE:見てないけど。}
-Dialogue: 0,0:12:13.71,0:12:15.75,Default,Avinia,0,0,0,,{TIME:733712,735756}{NOTE:何かあったのですか？}
-Dialogue: 0,0:12:15.75,0:12:20.17,Default,Lilia's mom,0,0,0,,{TIME:735756,740177}{NOTE:朝薬草を摘みに行くっていったっきり帰ってこないのよ。}
-Dialogue: 0,0:12:20.17,0:12:22.68,Default,Lilia's mom,0,0,0,,{TIME:740177,742680}{NOTE:そろそろお昼の時間なのに。}
-Dialogue: 0,0:12:22.68,0:12:24.68,Default,Cheval,0,0,0,,{TIME:742680,744682}{NOTE:薬草って…}
-Dialogue: 0,0:12:24.68,0:12:26.51,Default,Cheval,0,0,0,,{TIME:744682,746517}{NOTE:まさか森に？}
-Dialogue: 0,0:12:26.51,0:12:30.10,Default,Lilia's mom,0,0,0,,{TIME:746517,750104}{NOTE:危ないから森に入るなとは言ったんだけど…}
-Dialogue: 0,0:12:33.31,0:12:35.19,Default,Stone,0,0,0,,{TIME:753315,755192}{NOTE:もしものこともある。}
-Dialogue: 0,0:12:35.19,0:12:37.27,Default,Stone,0,0,0,,{TIME:755192,757278}{NOTE:みんなで手分けして捜すぞ。}
-Dialogue: 0,0:12:48.66,0:12:51.70,Default,Shadow,0,0,0,,{TIME:768664,771709}{NOTE:別に取って食おうなんて思っちゃいないよ。}
-Dialogue: 0,0:12:54.58,0:12:55.67,Default,Shadow,0,0,0,,{TIME:774586,775671}{NOTE:お嬢ちゃん。}
-Dialogue: 0,0:12:55.67,0:12:57.46,Default,Shadow,0,0,0,,{TIME:775671,777464}{NOTE:ハクム村の者だろう？}
-Dialogue: 0,0:12:57.46,0:12:59.71,Default,Shadow,0,0,0,,{TIME:777464,779717}{NOTE:村がどこか教えな。}
-Dialogue: 0,0:12:59.71,0:13:01.34,Default,Loloa,0,0,0,,{TIME:779717,781343}{NOTE:何で！}
-Dialogue: 0,0:13:01.34,0:13:04.97,Default,Shadow,0,0,0,,{TIME:781343,784972}{NOTE:ちょっとﾗｲﾀﾞｰの坊やたちに用があってね。}
-Dialogue: 0,0:13:04.97,0:13:08.26,Default,Shadow,0,0,0,,{TIME:784972,788267}{NOTE:きっつーいお仕置きをしに来たのさ。}
-Dialogue: 0,0:13:10.60,0:13:13.31,Default,Loloa,0,0,0,,{TIME:790602,793314}{NOTE:だ、駄目ですの！}
-Dialogue: 0,0:13:13.31,0:13:14.35,Default,Shadow,0,0,0,,{TIME:793314,794356}{NOTE:あっ？}
-Dialogue: 0,0:13:14.35,0:13:18.86,Default,Loloa,0,0,0,,{TIME:794356,798861}{NOTE:リュ…リュートたちにひどいことをしないでほしいですの！}
-Dialogue: 0,0:13:21.28,0:13:22.82,Default,Shadow,0,0,0,,{TIME:801280,802823}{NOTE:何だい？}
-Dialogue: 0,0:13:22.82,0:13:25.90,Default,Shadow,0,0,0,,{TIME:802823,805909}{NOTE:オトモンもなしであたしたちを止めようっての？}
-Dialogue: 0,0:13:28.12,0:13:29.28,Default,Shadow,0,0,0,,{TIME:808120,809288}{NOTE:フン。}
-Dialogue: 0,0:13:29.28,0:13:32.87,Default,Shadow,0,0,0,,{TIME:809288,812875}{NOTE:あんたたちはどうしてそう生意気なんだ。}
-Dialogue: 0,0:13:32.87,0:13:39.04,Default,Shadow,0,0,0,,{TIME:812875,819048}{NOTE:お嬢ちゃんもまさか坊やたちがよく言う絆ってのを信じているんじゃないだろうね？}
-Dialogue: 0,0:13:39.84,0:13:44.34,Default,Shadow,0,0,0,,{TIME:819840,824345}{NOTE:そんなもろくて弱いものなんて何の意味もない。}
-Dialogue: 0,0:13:44.34,0:13:46.38,Default,Loloa,0,0,0,,{TIME:824345,826388}{NOTE:そんなことないですの！}
-Dialogue: 0,0:13:46.38,0:13:53.77,Default,Loloa,0,0,0,,{TIME:826388,833771}{NOTE:絆は絶対に切れなくてとっても強いってみんないつも言っているですの！}
-Dialogue: 0,0:13:53.77,0:13:55.93,Default,Shadow,0,0,0,,{TIME:833771,835939}{NOTE:気に入らないね。}
-Dialogue: 0,0:13:55.93,0:13:58.81,Default,Shadow,0,0,0,,{TIME:835939,838817}{NOTE:お前もいたぶってやろうか。}
-Dialogue: 0,0:13:58.81,0:14:00.36,Default,Loloa,0,0,0,,{TIME:838817,840361}{NOTE:リュート…}
-Dialogue: 0,0:14:00.36,0:14:01.15,Default,Loloa,0,0,0,,{TIME:840361,841153}{NOTE:シュヴァル…}
-Dialogue: 0,0:14:04.57,0:14:06.40,Default,Loloa,0,0,0,,{TIME:844573,846408}{NOTE:リュート!!}
-Dialogue: 0,0:14:06.40,0:14:09.32,Default,Loloa,0,0,0,,{TIME:846408,849328}{NOTE:シュヴァル!!}
-Dialogue: 0,0:14:09.87,0:14:10.78,Default,Lute,0,0,0,,{TIME:849870,850788}{NOTE:レウス！}
-Dialogue: 0,0:14:10.78,0:14:11.78,Default,Cheval,0,0,0,,{TIME:850788,851789}{NOTE:レイア！}
-Dialogue: 0,0:14:11.78,0:14:12.91,Default,(unison),0,0,0,,{TIME:851789,852915}{NOTE:炎ブレス！}
-Dialogue: 0,0:14:20.83,0:14:22.00,Default,Lute,0,0,0,,{TIME:860839,862007}{NOTE:お前ら！}
-Dialogue: 0,0:14:22.00,0:14:23.84,Default,Shadow,0,0,0,,{TIME:862007,863842}{NOTE:ようやく来たね！}
-Dialogue: 0,0:14:23.84,0:14:26.22,Default,Shadow,0,0,0,,{TIME:863842,866220}{NOTE:生意気な坊やたち！}
-Dialogue: 0,0:14:26.22,0:14:29.18,Default,Shadow,0,0,0,,{TIME:866220,869181}{NOTE:こないだの借りを返しに来たよ。}
-Dialogue: 0,0:14:29.18,0:14:32.89,Default,Shadow,0,0,0,,{TIME:869181,872893}{NOTE:ついでにｱﾕﾘｱっていう嬢ちゃんも頂きにね。}
-Dialogue: 0,0:14:32.89,0:14:34.39,Default,Avinia,0,0,0,,{TIME:872893,874395}{NOTE:—ロロア！\\N—ああ！}
-Dialogue: 0,0:14:36.14,0:14:37.48,Default,Avinia,0,0,0,,{TIME:876146,877481}{NOTE:ケガはないですか!?}
-Dialogue: 0,0:14:37.48,0:14:39.27,Default,Loloa,0,0,0,,{TIME:877481,879274}{NOTE:うう…}
-Dialogue: 0,0:14:39.27,0:14:41.23,Default,Cheval,0,0,0,,{TIME:879274,881235}{NOTE:アユリア。}
-Dialogue: 0,0:14:41.23,0:14:43.69,Default,Cheval,0,0,0,,{TIME:881235,883695}{NOTE:ロロアを連れて一度村へ。}
-Dialogue: 0,0:14:43.69,0:14:45.48,Default,Lute,0,0,0,,{TIME:883695,885489}{NOTE:ここは俺たちに任せろ。}
-Dialogue: 0,0:14:48.65,0:14:49.70,Default,Avinia,0,0,0,,{TIME:888659,889701}{NOTE:分かりました。}
-Dialogue: 0,0:14:51.53,0:14:52.32,Default,Shadow,0,0,0,,{TIME:891537,892329}{NOTE:チッ。}
-Dialogue: 0,0:14:53.37,0:14:54.62,Default,Shadow,0,0,0,,{TIME:893372,894623}{NOTE:まあいい。}
-Dialogue: 0,0:14:54.62,0:14:58.91,Default,Shadow,0,0,0,,{TIME:894623,898919}{NOTE:お嬢ちゃんはあとでゆっくり追い掛けるとするさ。}
-Dialogue: 0,0:14:58.91,0:15:03.13,Default,Shadow,0,0,0,,{TIME:898919,903132}{NOTE:それよりまずは坊やたちの相手をしてあげなくちゃね！}
-Dialogue: 0,0:15:03.13,0:15:04.67,Default,Shadow,0,0,0,,{TIME:903132,904675}{NOTE:じゃあ、いくよ！}
-Dialogue: 0,0:15:04.67,0:15:06.00,Default,Shadow,0,0,0,,{TIME:904675,906009}{NOTE:シンクライド！}
-Dialogue: 0,0:15:08.92,0:15:12.97,Default,Shadow,0,0,0,,{TIME:908929,912975}{NOTE:気持ちいい～！}
-Dialogue: 0,0:15:12.97,0:15:15.64,Default,Shadow,0,0,0,,{TIME:912975,915644}{NOTE:さあ、見せてみな！}
-Dialogue: 0,0:15:15.64,0:15:18.39,Default,Shadow,0,0,0,,{TIME:915644,918397}{NOTE:坊やたちの絆ってやつをさ！}
-Dialogue: 0,0:15:20.98,0:15:21.73,Default,Cheval,0,0,0,,{TIME:920983,921733}{NOTE:リュート！}
-Dialogue: 0,0:15:21.73,0:15:22.60,Default,Lute,0,0,0,,{TIME:921733,922609}{NOTE:おう！}
-Dialogue: 0,0:15:38.33,0:15:39.41,Default,Shadow,0,0,0,,{TIME:938333,939418}{NOTE:生意気な！}
-Dialogue: 0,0:15:40.50,0:15:42.46,Default,Shadow,0,0,0,,{TIME:940502,942463}{NOTE:ざけんじゃねえよ！}
-Dialogue: 0,0:15:46.25,0:15:46.84,Default,Shadow,0,0,0,,{TIME:946258,946842}{NOTE:チッ。}
-Dialogue: 0,0:15:47.46,0:15:48.30,Default,Shadow,0,0,0,,{TIME:947468,948302}{NOTE:やるねぇ。}
-Dialogue: 0,0:15:48.88,0:15:50.72,Default,Lute,0,0,0,,{TIME:948886,950721}{NOTE:今度はこっちの番だ！}
-Dialogue: 0,0:15:52.63,0:15:53.76,Default,Shadow,0,0,0,,{TIME:952639,953765}{NOTE:無駄無駄！}
-Dialogue: 0,0:15:56.64,0:15:59.73,Default,Shadow,0,0,0,,{TIME:956643,959730}{NOTE:そんな鈍い攻撃じゃかすりもしないよ！}
-Dialogue: 0,0:16:01.10,0:16:02.06,Default,Shadow,0,0,0,,{TIME:961106,962065}{NOTE:これは…}
-Dialogue: 0,0:16:04.44,0:16:04.98,Default,Shadow,0,0,0,,{TIME:964443,964985}{NOTE:ハッ！}
-Dialogue: 0,0:16:04.98,0:16:09.44,Default,Shadow,0,0,0,,{TIME:964985,969448}{NOTE:二度も同じ手を食らうほど間抜けじゃあないよ！}
-Dialogue: 0,0:16:14.66,0:16:18.16,Default,Shadow,0,0,0,,{TIME:974661,978165}{NOTE:そうやって当たりもしない攻撃を続ければいいさ。}
-Dialogue: 0,0:16:19.12,0:16:21.54,Default,Shadow,0,0,0,,{TIME:979124,981543}{NOTE:疲れたときが最後だけどね。}
-Dialogue: 0,0:16:30.51,0:16:31.88,Default,Shadow,0,0,0,,{TIME:990511,991887}{NOTE:まさか！}
-Dialogue: 0,0:16:37.05,0:16:38.06,Default,Shadow,0,0,0,,{TIME:997059,998060}{NOTE:ノワル！}
-Dialogue: 0,0:16:40.22,0:16:41.23,Default,Shadow,0,0,0,,{TIME:1000229,1001230}{NOTE:ストーム！}
-Dialogue: 0,0:16:41.23,0:16:42.81,Default,Shadow,0,0,0,,{TIME:1001230,1002814}{NOTE:豪雷ブレス！}
-Dialogue: 0,0:16:42.81,0:16:44.10,Default,Shadow,0,0,0,,{TIME:1002814,1004107}{NOTE:待て！}
-Dialogue: 0,0:16:45.60,0:16:46.61,Default,Shadow,0,0,0,,{TIME:1005609,1006610}{NOTE:—なっ!?\\N—チッ！}
-Dialogue: 0,0:16:54.53,0:16:56.45,Default,Lute,0,0,0,,{TIME:1014535,1016453}{NOTE:レウス！豪火球！}
-Dialogue: 0,0:16:56.45,0:16:58.33,Default,Cheval,0,0,0,,{TIME:1016453,1018330}{NOTE:レイア！アイスサイクロン！}
-Dialogue: 0,0:17:08.38,0:17:10.09,Default,Shadow,0,0,0,,{TIME:1028382,1030092}{NOTE:くそっ…}
-Dialogue: 0,0:17:10.09,0:17:13.59,Default,Shadow,0,0,0,,{TIME:1030092,1033595}{NOTE:あんたたち言葉も交わさずにどうやって…}
-Dialogue: 0,0:17:15.63,0:17:17.84,Default,Lute,0,0,0,,{TIME:1035639,1037849}{NOTE:これが俺たちの絆だ！}
-Dialogue: 0,0:17:17.84,0:17:22.39,Default,Cheval,0,0,0,,{TIME:1037849,1042396}{NOTE:お前たちのコンビネーションより俺たちの絆の方が上だった。}
-Dialogue: 0,0:17:22.39,0:17:23.52,Default,Cheval,0,0,0,,{TIME:1042396,1043522}{NOTE:ただそれだけだ。}
-Dialogue: 0,0:17:25.81,0:17:27.65,Default,Shadow,0,0,0,,{TIME:1045816,1047651}{NOTE:次こそは…}
-Dialogue: 0,0:17:27.65,0:17:29.98,Default,Shadow,0,0,0,,{TIME:1047651,1049987}{NOTE:次こそは絶対に仕留めてやる！}
-Dialogue: 0,0:17:40.99,0:17:43.58,Default,Lute,0,0,0,,{TIME:1060998,1063584}{NOTE:ロロア、ケガはないか？}
-Dialogue: 0,0:17:43.58,0:17:44.91,Default,Loloa,0,0,0,,{TIME:1063584,1064918}{NOTE:大丈夫ですの。}
-Dialogue: 0,0:17:44.91,0:17:48.13,Default,Loloa,0,0,0,,{TIME:1064918,1068130}{NOTE:心配を掛けてごめんなさいですの。}
-Dialogue: 0,0:17:49.50,0:17:52.21,Default,Avinia,0,0,0,,{TIME:1069506,1072217}{NOTE:２人の方は大丈夫でしたか？}
-Dialogue: 0,0:17:52.21,0:17:52.88,Default,(unison),0,0,0,,{TIME:1072217,1072884}{NOTE:おう！}
-Dialogue: 0,0:17:52.88,0:17:54.46,Default,(unison),0,0,0,,{TIME:1072884,1074469}{NOTE:—大丈夫。\\N—大丈夫。}
-Dialogue: 0,0:17:54.46,0:17:55.76,Default,Lute,0,0,0,,{TIME:1074469,1075762}{NOTE:んっ？}
-Dialogue: 0,0:17:55.76,0:17:57.68,Default,(unison),0,0,0,,{TIME:1075762,1077681}{NOTE:—まったく問題ないぜ。\\N—まったく問題ないよ。}
-Dialogue: 0,0:17:57.68,0:17:58.59,Default,(mixed),0,0,0,,{TIME:1077681,1078599}{NOTE:—えっ？\\N—えっ？}
-Dialogue: 0,0:17:58.59,0:17:59.47,Default,(mixed),0,0,0,,{TIME:1078599,1079474}{NOTE:—んっ？\\N—んっ？}
-Dialogue: 0,0:17:59.47,0:18:02.64,Default,(unison),0,0,0,,{TIME:1079474,1082644}{NOTE:—そういえばアユリアの方は大丈夫…\\N—そういえばアユリアの方は大丈夫…}
-Dialogue: 0,0:18:02.64,0:18:03.68,Default,(mixed),0,0,0,,{TIME:1082644,1083687}{NOTE:—んっ!?\\N—んっ!?}
-Dialogue: 0,0:18:03.68,0:18:05.35,Default,(mixed),0,0,0,,{TIME:1083687,1085355}{NOTE:—んっ?\\N—んっ?}
-Dialogue: 0,0:18:12.57,0:18:17.40,Default,Mad,0,0,0,,{TIME:1092571,1097409}{NOTE:勝手に飛び出しておいて何の成果も挙げず帰ってきたのですか。}
-Dialogue: 0,0:18:18.78,0:18:20.07,Default,Anvis,0,0,0,,{TIME:1098785,1100078}{NOTE:シャドウよ。}
-Dialogue: 0,0:18:20.07,0:18:21.33,Default,Shadow,0,0,0,,{TIME:1100078,1101330}{NOTE:はっ。}
-Dialogue: 0,0:18:21.33,0:18:23.16,Default,Anvis,0,0,0,,{TIME:1101330,1103165}{NOTE:お前の忠義…}
-Dialogue: 0,0:18:23.16,0:18:25.75,Default,Anvis,0,0,0,,{TIME:1103165,1105751}{NOTE:…私は高く評価している。}
-Dialogue: 0,0:18:27.25,0:18:28.75,Default,Shadow,0,0,0,,{TIME:1107252,1108754}{NOTE:ありがとうございます。}
-Dialogue: 0,0:18:28.75,0:18:34.42,Default,Anvis,0,0,0,,{TIME:1108754,1114426}{NOTE:しかしお前たち姉妹の力がやつらに劣っているのも事実。}
-Dialogue: 0,0:18:34.42,0:18:38.93,Default,Anvis,0,0,0,,{TIME:1114426,1118930}{NOTE:そこで予定どおり秘術を執り行う。}
-Dialogue: 0,0:18:39.76,0:18:42.93,Default,Anvis,0,0,0,,{TIME:1119765,1122934}{NOTE:お前たちは最強のライダーとなるのだ。}
-Dialogue: 0,0:18:44.18,0:18:45.06,Default,Shadow,0,0,0,,{TIME:1124186,1125062}{NOTE:ははっ！}
-Dialogue: 0,0:19:01.32,0:19:02.62,Default,Wrath,0,0,0,,{TIME:1141328,1142621}{NOTE:くそっ。}
-Dialogue: 0,0:19:02.62,0:19:04.62,Default,Wrath,0,0,0,,{TIME:1142621,1144621}{NOTE:あいつらばっかりずるいぜ。}
-Dialogue: 0,0:19:11.50,0:19:12.58,Default,Shadow,0,0,0,,{TIME:1151505,1152589}{NOTE:ノワル。}
-Dialogue: 0,0:19:12.58,0:19:15.80,Default,Shadow,0,0,0,,{TIME:1152589,1155801}{NOTE:これであたしたちは最強になれる。}
-Dialogue: 0,0:19:17.46,0:19:20.55,Default,Shadow,0,0,0,,{TIME:1157469,1160555}{NOTE:ずっとあたしたちが求めていたもの。}
-Dialogue: 0,0:19:20.55,0:19:22.30,Default,Shadow,0,0,0,,{TIME:1160555,1162307}{NOTE:誰の助けもいらない…}
-Dialogue: 0,0:19:22.30,0:19:25.06,Default,Shadow,0,0,0,,{TIME:1162307,1165060}{NOTE:…あたしたちだけの力。}
-Dialogue: 0,0:19:25.06,0:19:27.27,Default,Shadow,0,0,0,,{TIME:1165060,1167270}{NOTE:ようやくだね。}
-Dialogue: 0,0:19:27.27,0:19:28.35,Default,Shadow,0,0,0,,{TIME:1167270,1168355}{NOTE:ようやくだ。}
-Dialogue: 0,0:19:30.27,0:19:31.90,Default,Shadow,0,0,0,,{TIME:1170273,1171900}{NOTE:ねえ、グリス。}
-Dialogue: 0,0:19:31.90,0:19:34.86,Default,Shadow,0,0,0,,{TIME:1171900,1174861}{NOTE:あたしたちにも絆ってあるのかな。}
-Dialogue: 0,0:19:38.40,0:19:39.95,Default,Shadow,0,0,0,,{TIME:1178407,1179950}{NOTE:何言ってんのさ。}
-Dialogue: 0,0:19:39.95,0:19:41.41,Default,Anvis,0,0,0,,{TIME:1179950,1181410}{NOTE:始めるぞ。}
-Dialogue: 0,0:19:43.66,0:19:45.37,Default,Shadow,0,0,0,,{TIME:1183662,1185372}{NOTE:あたしは後から。}
-Dialogue: 0,0:19:45.37,0:19:46.49,Default,Shadow,0,0,0,,{TIME:1185372,1186498}{NOTE:うん。}
-Dialogue: 0,0:20:10.81,0:20:12.64,Default,Shadow,0,0,0,,{TIME:1210814,1212649}{NOTE:力が…}
-Dialogue: 0,0:20:12.64,0:20:14.52,Default,Shadow,0,0,0,,{TIME:1212649,1214526}{NOTE:…流れ込んでくる！}
-Dialogue: 0,0:20:16.11,0:20:17.44,Default,Shadow,0,0,0,,{TIME:1216111,1217446}{NOTE:グリス！}
-Dialogue: 0,0:20:23.49,0:20:24.57,Default,Shadow,0,0,0,,{TIME:1223493,1224578}{NOTE:ハッ!?}
-Dialogue: 0,0:20:28.03,0:20:28.95,Default,Shadow,0,0,0,,{TIME:1228039,1228957}{NOTE:何だ？}
-Dialogue: 0,0:20:31.08,0:20:32.75,Default,Shadow,0,0,0,,{TIME:1231084,1232753}{NOTE:グリス…}
-Dialogue: 0,0:20:32.75,0:20:33.92,Default,Shadow,0,0,0,,{TIME:1232753,1233920}{NOTE:グリス！}
-Dialogue: 0,0:20:38.96,0:20:40.05,Default,Shadow,0,0,0,,{TIME:1238967,1240051}{NOTE:ノワル！}
-Dialogue: 0,0:20:40.71,0:20:41.67,Default,Gale,0,0,0,,{TIME:1240719,1241678}{NOTE:駄目だ！}
-Dialogue: 0,0:20:41.67,0:20:42.97,Default,Gale,0,0,0,,{TIME:1241678,1242971}{NOTE:近づくな！}
-Dialogue: 0,0:20:42.97,0:20:44.09,Default,Shadow,0,0,0,,{TIME:1242971,1244097}{NOTE:離せ！}
-Dialogue: 0,0:20:44.09,0:20:45.39,Default,Shadow,0,0,0,,{TIME:1244097,1245390}{NOTE:ノワルが！}
-Dialogue: 0,0:20:45.39,0:20:46.76,Default,Shadow,0,0,0,,{TIME:1245390,1246767}{NOTE:ノワル～！}
-Dialogue: 0,0:20:46.76,0:20:48.60,Default,Shadow,0,0,0,,{TIME:1246767,1248602}{NOTE:ああああ…！}
-Dialogue: 0,0:20:48.60,0:20:49.68,Default,Shadow,0,0,0,,{TIME:1248602,1249686}{NOTE:ノワル!!}
-Dialogue: 0,0:20:53.02,0:20:55.02,Default,Shadow,0,0,0,,{TIME:1253023,1255025}{NOTE:ノワル～!!}
-Dialogue: 0,0:21:02.32,0:21:06.03,Default,Shadow,0,0,0,,{TIME:1262324,1266036}{NOTE:グリス～!!}
-Dialogue: 0,0:21:27.64,0:21:28.72,Default,Shadow,0,0,0,,{TIME:1287641,1288725}{NOTE:ノワル？}
-Dialogue: 0,0:21:30.76,0:21:31.52,Default,Shadow,0,0,0,,{TIME:1290769,1291520}{NOTE:おい。}
-Dialogue: 0,0:21:31.52,0:21:32.47,Default,Shadow,0,0,0,,{TIME:1291520,1292479}{NOTE:ノワル！}
-Dialogue: 0,0:21:32.47,0:21:33.60,Default,Shadow,0,0,0,,{TIME:1292479,1293605}{NOTE:どうした！}
-Dialogue: 0,0:21:33.60,0:21:34.77,Default,Shadow,0,0,0,,{TIME:1293605,1294773}{NOTE:しっかりしろ！}
-Dialogue: 0,0:21:38.23,0:21:39.48,Default,Shadow,0,0,0,,{TIME:1298235,1299486}{NOTE:ノワル！}
-Dialogue: 0,0:21:44.69,0:21:46.11,Default,Shadow,0,0,0,,{TIME:1304699,1306117}{NOTE:ノワル…}
-Dialogue: 0,0:21:46.11,0:21:47.49,Default,Shadow,0,0,0,,{TIME:1306117,1307494}{NOTE:よかった。}
-Dialogue: 0,0:21:47.49,0:21:48.82,Default,Shadow,0,0,0,,{TIME:1307494,1308829}{NOTE:大丈夫か？}
-Dialogue: 0,0:21:52.91,0:21:54.45,Default,Shadow,0,0,0,,{TIME:1312916,1314459}{NOTE:ノワル？}
-Dialogue: 0,0:21:54.45,0:21:55.37,Default,Wrath,0,0,0,,{TIME:1314459,1315377}{NOTE:おい。}
-Dialogue: 0,0:21:55.37,0:21:57.83,Default,Wrath,0,0,0,,{TIME:1315377,1317838}{NOTE:いったいどうなっている？}
-Dialogue: 0,0:21:57.83,0:21:59.25,Default,Gale,0,0,0,,{TIME:1317838,1319256}{NOTE:失敗だ…}
-Dialogue: 0,0:21:59.25,0:22:00.75,Default,Shadow,0,0,0,,{TIME:1319256,1320757}{NOTE:はっ？}
-Dialogue: 0,0:22:00.75,0:22:04.80,Default,Gale,0,0,0,,{TIME:1320757,1324803}{NOTE:ノワルの魂はもうここにはない。}
-Dialogue: 0,0:22:10.93,0:22:13.14,Default,Shadow,0,0,0,,{TIME:1330934,1333144}{NOTE:嘘だ…}
-Dialogue: 0,0:22:13.14,0:22:14.14,Default,Shadow,0,0,0,,{TIME:1333144,1334145}{NOTE:ノワル！}
-Dialogue: 0,0:22:14.14,0:22:15.52,Default,Shadow,0,0,0,,{TIME:1334145,1335522}{NOTE:何でもいい！}
-Dialogue: 0,0:22:15.52,0:22:17.56,Default,Shadow,0,0,0,,{TIME:1335522,1337566}{NOTE:何かしゃべってくれ！}
-Dialogue: 0,0:22:17.56,0:22:18.56,Default,Shadow,0,0,0,,{TIME:1337566,1338567}{NOTE:お願いだ！}
-Dialogue: 0,0:22:18.56,0:22:19.73,Default,Shadow,0,0,0,,{TIME:1338567,1339734}{NOTE:お願いだから！}
-Dialogue: 0,0:22:23.11,0:22:24.19,Default,Shadow,0,0,0,,{TIME:1343113,1344197}{NOTE:やだ！}
-Dialogue: 0,0:22:24.19,0:22:25.57,Default,Shadow,0,0,0,,{TIME:1344197,1345574}{NOTE:やだ!!}
-Dialogue: 0,0:22:25.57,0:22:28.86,Default,Shadow,0,0,0,,{TIME:1345574,1348869}{NOTE:あたしの名前を呼んでくれよ！}
-Dialogue: 0,0:22:28.86,0:22:30.86,Default,Shadow,0,0,0,,{TIME:1348869,1350869}{NOTE:ノワル！}
-Dialogue: 0,0:22:38.75,0:22:40.21,Default,Shadow,0,0,0,,{TIME:1358753,1360213}{NOTE:頼むから…}
-Dialogue: 0,0:22:40.21,0:22:43.04,Default,Shadow,0,0,0,,{TIME:1360213,1363049}{NOTE:あたしを一人にしないで…}
-Dialogue: 0,0:22:50.84,0:22:52.51,Default,Anvis,0,0,0,,{TIME:1370849,1372517}{NOTE:成功だ。}
-Dialogue: 0,0:22:52.51,0:22:53.85,Default,Mad,0,0,0,,{TIME:1372517,1373852}{NOTE:はっ？}
-Dialogue: 0,0:22:53.85,0:22:56.73,Default,Anvis,0,0,0,,{TIME:1373852,1376730}{NOTE:重ね合わせの儀は確認できた。}
-Dialogue: 0,0:22:56.73,0:22:58.85,Default,Anvis,0,0,0,,{TIME:1376730,1378857}{NOTE:それだけで十分だ。}
-Dialogue: 0,0:22:58.85,0:23:00.48,Default,Mad,0,0,0,,{TIME:1378857,1380483}{NOTE:では初めから…}
-Dialogue: 0,0:23:02.27,0:23:03.57,Default,Anvis,0,0,0,,{TIME:1382277,1383570}{NOTE:マッドよ。}
-Dialogue: 0,0:23:03.57,0:23:05.11,Default,Mad,0,0,0,,{TIME:1383570,1385113}{NOTE:はっ。}
-Dialogue: 0,0:23:05.11,0:23:07.36,Default,Anvis,0,0,0,,{TIME:1385113,1387365}{NOTE:お前には期待しているぞ。}
-Dialogue: 0,0:23:09.15,0:23:09.86,Default,Mad,0,0,0,,{TIME:1389159,1389868}{NOTE:はっ！}
-Dialogue: 0,0:23:12.28,0:23:14.66,Default,Anvis,0,0,0,,{TIME:1392287,1394664}{NOTE:長かった…}
-Dialogue: 0,0:23:14.66,0:23:17.87,Default,Anvis,0,0,0,,{TIME:1394664,1397876}{NOTE:だがそれももう終わる。}
-Dialogue: 0,0:23:19.96,0:23:21.67,Default,Anvis,0,0,0,,{TIME:1399961,1401671}{NOTE:今度こそ…}
-Dialogue: 0,0:23:21.67,0:23:24.59,Default,Anvis,0,0,0,,{TIME:1401671,1404591}{NOTE:最強は私が手に入れる。}
+Dialogue: 0,0:11:29.91,0:11:34.34,Default,Genie,0,0,0,,{TIME:689919,694340}In other words, Gale has noticed that Avinia's his younger sister?{NOTE:つまりゲイルはアユリアが妹だと気付いていたのか。}
+Dialogue: 0,0:11:34.34,0:11:38.30,Default,Cheval,0,0,0,,{TIME:694340,698302}Yes, and he kept her in the Black Castle despite that.{NOTE:それを知った上でﾌﾞﾗｯｸｷｬｯｽﾙに幽閉していた。}
+Dialogue: 0,0:11:38.30,0:11:43.34,Default,Cryo,0,0,0,,{TIME:698302,703349}Then when she broke free,\Nhe appeared again to recapture her…{NOTE:そしてアユリアさんを取り返しにまたやってきたけれど…}
+Dialogue: 0,0:11:43.34,0:11:47.64,Default,Mille,0,0,0,,{TIME:703349,707645}…but rather than doing so, he left her Dusk's kinship genes.{NOTE:絆遺伝子を残すとそのまま去ってしまった。}
+Dialogue: 0,0:11:47.64,0:11:50.94,Default,Avinia,0,0,0,,{TIME:707645,710940}What in the world is his goal?{NOTE:兄はいったい何が目的なのでしょうか。}
+Dialogue: 0,0:11:55.52,0:11:57.32,Default,(unison),0,0,0,,{TIME:715527,717321}Argh!{NOTE:うーん…}
+Dialogue: 0,0:11:57.32,0:12:00.53,Default,Lute,0,0,0,,{TIME:717321,720532}I don't understand him at all!{NOTE:俺にはさっぱり分かんなーい！}
+Dialogue: 0,0:12:00.53,0:12:01.78,Default,Navirou,0,0,0,,{TIME:720532,721784}At nyall!{NOTE:ニャーイ！}
+Dialogue: 0,0:12:01.78,0:12:02.57,Default,Lilia's mom,0,0,0,,{TIME:721784,722576}Excuse me.{NOTE:あの…}
+Dialogue: 0,0:12:02.57,0:12:03.95,Default,(unison),0,0,0,,{TIME:722576,723953}Huh?{NOTE:—おっ？\\N—おっ？}
+Dialogue: 0,0:12:03.95,0:12:04.91,Default,Navirou,0,0,0,,{TIME:723953,724912}Oh!{NOTE:おや！}
+Dialogue: 0,0:12:04.91,0:12:06.99,Default,Navirou,0,0,0,,{TIME:724912,726997}It's Lilia's mom.{NOTE:リリアのママさんだ。}
+Dialogue: 0,0:12:06.99,0:12:10.25,Default,Lilia's mom,0,0,0,,{TIME:726997,730251}Lute… Did any of you see Loloa?{NOTE:リュートちゃんたちロロア見なかった？}
+Dialogue: 0,0:12:10.25,0:12:11.71,Default,Lute,0,0,0,,{TIME:730251,731710}Loloa?{NOTE:ロロア？}
+Dialogue: 0,0:12:11.71,0:12:13.71,Default,Lute,0,0,0,,{TIME:731710,733712}We didn't see her.{NOTE:見てないけど。}
+Dialogue: 0,0:12:13.71,0:12:15.75,Default,Avinia,0,0,0,,{TIME:733712,735756}Did something happen?{NOTE:何かあったのですか？}
+Dialogue: 0,0:12:15.75,0:12:20.17,Default,Lilia's mom,0,0,0,,{TIME:735756,740177}She went to pick medicinal herbs in the morning,\Nbut she hasn't come back yet.{NOTE:朝薬草を摘みに行くっていったっきり帰ってこないのよ。}
+Dialogue: 0,0:12:20.17,0:12:22.68,Default,Lilia's mom,0,0,0,,{TIME:740177,742680}It's about time for lunch. She should be here.{NOTE:そろそろお昼の時間なのに。}
+Dialogue: 0,0:12:22.68,0:12:24.68,Default,Cheval,0,0,0,,{TIME:742680,744682}Medicinal herbs…{NOTE:薬草って…}
+Dialogue: 0,0:12:24.68,0:12:26.51,Default,Cheval,0,0,0,,{TIME:744682,746517}She went to the forest?{NOTE:まさか森に？}
+Dialogue: 0,0:12:26.51,0:12:30.10,Default,Lilia's mom,0,0,0,,{TIME:746517,750104}I told her not to enter the forest\Nbecause it's dangerous.{NOTE:危ないから森に入るなとは言ったんだけど…}
+Dialogue: 0,0:12:33.31,0:12:35.19,Default,Stone,0,0,0,,{TIME:753315,755192}It's an emergency.{NOTE:もしものこともある。}
+Dialogue: 0,0:12:35.19,0:12:37.27,Default,Stone,0,0,0,,{TIME:755192,757278}We'll go search for her right away.{NOTE:みんなで手分けして捜すぞ。}
+Dialogue: 0,0:12:48.66,0:12:51.70,Default,Shadow,0,0,0,,{TIME:768664,771709}It's not like we're going to eat you.{NOTE:別に取って食おうなんて思っちゃいないよ。}
+Dialogue: 0,0:12:54.58,0:12:55.67,Default,Shadow,0,0,0,,{TIME:774586,775671}Miss.{NOTE:お嬢ちゃん。}
+Dialogue: 0,0:12:55.67,0:12:57.46,Default,Shadow,0,0,0,,{TIME:775671,777464}You're from Hakum village, right?{NOTE:ハクム村の者だろう？}
+Dialogue: 0,0:12:57.46,0:12:59.71,Default,Shadow,0,0,0,,{TIME:777464,779717}Tell us where your village is.{NOTE:村がどこか教えな。}
+Dialogue: 0,0:12:59.71,0:13:01.34,Default,Loloa,0,0,0,,{TIME:779717,781343}Why?{NOTE:何で！}
+Dialogue: 0,0:13:01.34,0:13:04.97,Default,Shadow,0,0,0,,{TIME:781343,784972}We have a little business with your Riders.{NOTE:ちょっとﾗｲﾀﾞｰの坊やたちに用があってね。}
+Dialogue: 0,0:13:04.97,0:13:08.26,Default,Shadow,0,0,0,,{TIME:784972,788267}They deserve a severe punishment for their actions.{NOTE:きっつーいお仕置きをしに来たのさ。}
+Dialogue: 0,0:13:10.60,0:13:13.31,Default,Loloa,0,0,0,,{TIME:790602,793314}Y-You can't!{NOTE:だ、駄目ですの！}
+Dialogue: 0,0:13:13.31,0:13:14.35,Default,Shadow,0,0,0,,{TIME:793314,794356}Huh?{NOTE:あっ？}
+Dialogue: 0,0:13:14.35,0:13:18.86,Default,Loloa,0,0,0,,{TIME:794356,798861}Y-You can't do bad things to Lute and my friends!{NOTE:リュ…リュートたちにひどいことをしないでほしいですの！}
+Dialogue: 0,0:13:21.28,0:13:22.82,Default,Shadow,0,0,0,,{TIME:801280,802823}Are you serious?{NOTE:何だい？}
+Dialogue: 0,0:13:22.82,0:13:25.90,Default,Shadow,0,0,0,,{TIME:802823,805909}You're trying to stop us without even a Monstie?{NOTE:オトモンもなしであたしたちを止めようっての？}
+Dialogue: 0,0:13:28.12,0:13:29.28,Default,Shadow,0,0,0,,{TIME:808120,809288}Hmph.{NOTE:フン。}
+Dialogue: 0,0:13:29.28,0:13:32.87,Default,Shadow,0,0,0,,{TIME:809288,812875}Why are you all so audacious?{NOTE:あんたたちはどうしてそう生意気なんだ。}
+Dialogue: 0,0:13:32.87,0:13:39.04,Default,Shadow,0,0,0,,{TIME:812875,819048}Surely you don't believe in the kinship your friends keep babbling about, do you?{NOTE:お嬢ちゃんもまさか坊やたちがよく言う絆ってのを信じているんじゃないだろうね？}
+Dialogue: 0,0:13:39.84,0:13:44.34,Default,Shadow,0,0,0,,{TIME:819840,824345}Such fragile weak things are meaningless!{NOTE:そんなもろくて弱いものなんて何の意味もない。}
+Dialogue: 0,0:13:44.34,0:13:46.38,Default,Loloa,0,0,0,,{TIME:824345,826388}They're not meaningless!{NOTE:そんなことないですの！}
+Dialogue: 0,0:13:46.38,0:13:53.77,Default,Loloa,0,0,0,,{TIME:826388,833771}Kinship is something that can't be cut no matter what, something that's very strong!{NOTE:絆は絶対に切れなくてとっても強いってみんないつも言っているですの！}
+Dialogue: 0,0:13:53.77,0:13:55.93,Default,Shadow,0,0,0,,{TIME:833771,835939}I don't like it.{NOTE:気に入らないね。}
+Dialogue: 0,0:13:55.93,0:13:58.81,Default,Shadow,0,0,0,,{TIME:835939,838817}How about I teach you a lesson, too?{NOTE:お前もいたぶってやろうか。}
+Dialogue: 0,0:13:58.81,0:14:00.36,Default,Loloa,0,0,0,,{TIME:838817,840361}Lute…{NOTE:リュート…}
+Dialogue: 0,0:14:00.36,0:14:01.15,Default,Loloa,0,0,0,,{TIME:840361,841153}Cheval…{NOTE:シュヴァル…}
+Dialogue: 0,0:14:04.57,0:14:06.40,Default,Loloa,0,0,0,,{TIME:844573,846408}Lute!{NOTE:リュート!!}
+Dialogue: 0,0:14:06.40,0:14:09.32,Default,Loloa,0,0,0,,{TIME:846408,849328}Cheval!{NOTE:シュヴァル!!}
+Dialogue: 0,0:14:09.87,0:14:10.78,Default,Lute,0,0,0,,{TIME:849870,850788}Ratha!{NOTE:レウス！}
+Dialogue: 0,0:14:10.78,0:14:11.78,Default,Cheval,0,0,0,,{TIME:850788,851789}Rathi!{NOTE:レイア！}
+Dialogue: 0,0:14:11.78,0:14:12.91,Default,(unison),0,0,0,,{TIME:851789,852915}Fire Breath!{NOTE:炎ブレス！}
+Dialogue: 0,0:14:20.83,0:14:22.00,Default,Lute,0,0,0,,{TIME:860839,862007}You guys!{NOTE:お前ら！}
+Dialogue: 0,0:14:22.00,0:14:23.84,Default,Shadow,0,0,0,,{TIME:862007,863842}At last, we meet again!{NOTE:ようやく来たね！}
+Dialogue: 0,0:14:23.84,0:14:26.22,Default,Shadow,0,0,0,,{TIME:863842,866220}You cheeky little boys!{NOTE:生意気な坊やたち！}
+Dialogue: 0,0:14:26.22,0:14:29.18,Default,Shadow,0,0,0,,{TIME:866220,869181}We're to pay you back for the other day.{NOTE:こないだの借りを返しに来たよ。}
+Dialogue: 0,0:14:29.18,0:14:32.89,Default,Shadow,0,0,0,,{TIME:869181,872893}We'll take your precious Avinia, too!{NOTE:ついでにｱﾕﾘｱっていう嬢ちゃんも頂きにね。}
+Dialogue: 0,0:14:32.89,0:14:34.39,Default,Avinia,0,0,0,,{TIME:872893,874395}Loloa!{NOTE:—ロロア！\\N—ああ！}
+Dialogue: 0,0:14:36.14,0:14:37.48,Default,Avinia,0,0,0,,{TIME:876146,877481}Are you hurt?{NOTE:ケガはないですか!?}
+Dialogue: 0,0:14:37.48,0:14:39.27,Default,Loloa,0,0,0,,{TIME:877481,879274}No…{NOTE:うう…}
+Dialogue: 0,0:14:39.27,0:14:41.23,Default,Cheval,0,0,0,,{TIME:879274,881235}Avinia.{NOTE:アユリア。}
+Dialogue: 0,0:14:41.23,0:14:43.69,Default,Cheval,0,0,0,,{TIME:881235,883695}Take Loloa back to the village.{NOTE:ロロアを連れて一度村へ。}
+Dialogue: 0,0:14:43.69,0:14:45.48,Default,Lute,0,0,0,,{TIME:883695,885489}Leave them to us.{NOTE:ここは俺たちに任せろ。}
+Dialogue: 0,0:14:48.65,0:14:49.70,Default,Avinia,0,0,0,,{TIME:888659,889701}I understand.{NOTE:分かりました。}
+Dialogue: 0,0:14:51.53,0:14:52.32,Default,Shadow,0,0,0,,{TIME:891537,892329}Tsk.{NOTE:チッ。}
+Dialogue: 0,0:14:53.37,0:14:54.62,Default,Shadow,0,0,0,,{TIME:893372,894623}Oh well.{NOTE:まあいい。}
+Dialogue: 0,0:14:54.62,0:14:58.91,Default,Shadow,0,0,0,,{TIME:894623,898919}We'll hunt her at leisure later.{NOTE:お嬢ちゃんはあとでゆっくり追い掛けるとするさ。}
+Dialogue: 0,0:14:58.91,0:15:03.13,Default,Shadow,0,0,0,,{TIME:898919,903132}But before that, looks like we'll have to take care of you.{NOTE:それよりまずは坊やたちの相手をしてあげなくちゃね！}
+Dialogue: 0,0:15:03.13,0:15:04.67,Default,Shadow,0,0,0,,{TIME:903132,904675}Well, let's go!{NOTE:じゃあ、いくよ！}
+Dialogue: 0,0:15:04.67,0:15:06.00,Default,Shadow,0,0,0,,{TIME:904675,906009}Sync Ride!{NOTE:シンクライド！}
+Dialogue: 0,0:15:08.92,0:15:12.97,Default,Shadow,0,0,0,,{TIME:908929,912975}It feels good!{NOTE:気持ちいい～！}
+Dialogue: 0,0:15:12.97,0:15:15.64,Default,Shadow,0,0,0,,{TIME:912975,915644}Now, show it to us!{NOTE:さあ、見せてみな！}
+Dialogue: 0,0:15:15.64,0:15:18.39,Default,Shadow,0,0,0,,{TIME:915644,918397}That so-called kinship of yours!{NOTE:坊やたちの絆ってやつをさ！}
+Dialogue: 0,0:15:20.98,0:15:21.73,Default,Cheval,0,0,0,,{TIME:920983,921733}Lute!{NOTE:リュート！}
+Dialogue: 0,0:15:21.73,0:15:22.60,Default,Lute,0,0,0,,{TIME:921733,922609}Yeah!{NOTE:おう！}
+Dialogue: 0,0:15:38.33,0:15:39.41,Default,Shadow,0,0,0,,{TIME:938333,939418}That's not enough!{NOTE:生意気な！}
+Dialogue: 0,0:15:40.50,0:15:42.46,Default,Shadow,0,0,0,,{TIME:940502,942463}Don't screw with us!{NOTE:ざけんじゃねえよ！}
+Dialogue: 0,0:15:46.25,0:15:46.84,Default,Shadow,0,0,0,,{TIME:946258,946842}Tsk.{NOTE:チッ。}
+Dialogue: 0,0:15:47.46,0:15:48.30,Default,Shadow,0,0,0,,{TIME:947468,948302}They've got it together.{NOTE:やるねぇ。}
+Dialogue: 0,0:15:48.88,0:15:50.72,Default,Lute,0,0,0,,{TIME:948886,950721}Now's our turn!{NOTE:今度はこっちの番だ！}
+Dialogue: 0,0:15:52.63,0:15:53.76,Default,Shadow,0,0,0,,{TIME:952639,953765}It's no use!{NOTE:無駄無駄！}
+Dialogue: 0,0:15:56.64,0:15:59.73,Default,Shadow,0,0,0,,{TIME:956643,959730}You won't graze us with such a dull attack!{NOTE:そんな鈍い攻撃じゃかすりもしないよ！}
+Dialogue: 0,0:16:01.10,0:16:02.06,Default,Shadow,0,0,0,,{TIME:961106,962065}That's…{NOTE:これは…}
+Dialogue: 0,0:16:04.44,0:16:04.98,Default,Shadow,0,0,0,,{TIME:964443,964985}Hah!{NOTE:ハッ！}
+Dialogue: 0,0:16:04.98,0:16:09.44,Default,Shadow,0,0,0,,{TIME:964985,969448}We're not stupid enough to fall for the same trap twice!{NOTE:二度も同じ手を食らうほど間抜けじゃあないよ！}
+Dialogue: 0,0:16:14.66,0:16:18.16,Default,Shadow,0,0,0,,{TIME:974661,978165}You can't land a single hit.{NOTE:そうやって当たりもしない攻撃を続ければいいさ。}
+Dialogue: 0,0:16:19.12,0:16:21.54,Default,Shadow,0,0,0,,{TIME:979124,981543}The moment you get tired, it's game over for you.{NOTE:疲れたときが最後だけどね。}
+Dialogue: 0,0:16:30.51,0:16:31.88,Default,Shadow,0,0,0,,{TIME:990511,991887}Wait a sec!{NOTE:まさか！}
+Dialogue: 0,0:16:37.05,0:16:38.06,Default,Shadow,0,0,0,,{TIME:997059,998060}Noir!{NOTE:ノワル！}
+Dialogue: 0,0:16:40.22,0:16:41.23,Default,Shadow,0,0,0,,{TIME:1000229,1001230}Storm!{NOTE:ストーム！}
+Dialogue: 0,0:16:41.23,0:16:42.81,Default,Shadow,0,0,0,,{TIME:1001230,1002814}Thunder Breath!{NOTE:豪雷ブレス！}
+Dialogue: 0,0:16:42.81,0:16:44.10,Default,Shadow,0,0,0,,{TIME:1002814,1004107}Wait!{NOTE:待て！}
+Dialogue: 0,0:16:45.60,0:16:46.61,Default,Shadow,0,0,0,,{TIME:1005609,1006610}– Huh!?\N– Tsk!{NOTE:—なっ!?\\N—チッ！}
+Dialogue: 0,0:16:54.53,0:16:56.45,Default,Lute,0,0,0,,{TIME:1014535,1016453}Ratha! Savage Fireball!{NOTE:レウス！豪火球！}
+Dialogue: 0,0:16:56.45,0:16:58.33,Default,Cheval,0,0,0,,{TIME:1016453,1018330}Rathi! Ice Cyclone!{NOTE:レイア！アイスサイクロン！}
+Dialogue: 0,0:17:08.38,0:17:10.09,Default,Shadow,0,0,0,,{TIME:1028382,1030092}Damn…!{NOTE:くそっ…}
+Dialogue: 0,0:17:10.09,0:17:13.59,Default,Shadow,0,0,0,,{TIME:1030092,1033595}You communicate without words…?{NOTE:あんたたち言葉も交わさずにどうやって…}
+Dialogue: 0,0:17:15.63,0:17:17.84,Default,Lute,0,0,0,,{TIME:1035639,1037849}That's our bond!{NOTE:これが俺たちの絆だ！}
+Dialogue: 0,0:17:17.84,0:17:22.39,Default,Cheval,0,0,0,,{TIME:1037849,1042396}The power of our kinship was above yours.{NOTE:お前たちのコンビネーションより俺たちの絆の方が上だった。}
+Dialogue: 0,0:17:22.39,0:17:23.52,Default,Cheval,0,0,0,,{TIME:1042396,1043522}That's all there is to it.{NOTE:ただそれだけだ。}
+Dialogue: 0,0:17:25.81,0:17:27.65,Default,Shadow,0,0,0,,{TIME:1045816,1047651}Next time…{NOTE:次こそは…}
+Dialogue: 0,0:17:27.65,0:17:29.98,Default,Shadow,0,0,0,,{TIME:1047651,1049987}Next time, we'll definitely beat you!{NOTE:次こそは絶対に仕留めてやる！}
+Dialogue: 0,0:17:40.99,0:17:43.58,Default,Lute,0,0,0,,{TIME:1060998,1063584}Loloa, were you hurt?{NOTE:ロロア、ケガはないか？}
+Dialogue: 0,0:17:43.58,0:17:44.91,Default,Loloa,0,0,0,,{TIME:1063584,1064918}I'm fine.{NOTE:大丈夫ですの。}
+Dialogue: 0,0:17:44.91,0:17:48.13,Default,Loloa,0,0,0,,{TIME:1064918,1068130}I'm sorry for making you worry about me.{NOTE:心配を掛けてごめんなさいですの。}
+Dialogue: 0,0:17:49.50,0:17:52.21,Default,Avinia,0,0,0,,{TIME:1069506,1072217}How about you? Are you okay?{NOTE:２人の方は大丈夫でしたか？}
+Dialogue: 0,0:17:52.21,0:17:52.88,Default,(unison),0,0,0,,{TIME:1072217,1072884}Yeah!{NOTE:おう！}
+Dialogue: 0,0:17:52.88,0:17:54.46,Default,(unison),0,0,0,,{TIME:1072884,1074469}– I'm fine.\N– I'm fine.{NOTE:—大丈夫。\\N—大丈夫。}
+Dialogue: 0,0:17:54.46,0:17:55.76,Default,Lute,0,0,0,,{TIME:1074469,1075762}– Hm?\N– Oh?{NOTE:んっ？}
+Dialogue: 0,0:17:55.76,0:17:57.68,Default,(unison),0,0,0,,{TIME:1075762,1077681}– No problem at all.\N– No problem at all.{NOTE:—まったく問題ないぜ。\\N—まったく問題ないよ。}
+Dialogue: 0,0:17:57.68,0:17:58.59,Default,(mixed),0,0,0,,{TIME:1077681,1078599}– Huh?\N– Huh?{NOTE:—えっ？\\N—えっ？}
+Dialogue: 0,0:17:58.59,0:17:59.47,Default,(mixed),0,0,0,,{TIME:1078599,1079474}– Hm?\N– Hm?{NOTE:—んっ？\\N—んっ？}
+Dialogue: 0,0:17:59.47,0:18:02.64,Default,(unison),0,0,0,,{TIME:1079474,1082644}– What about you, Avinia?\N– What about you, Avinia?{NOTE:—そういえばアユリアの方は大丈夫…\\N—そういえばアユリアの方は大丈夫…}
+Dialogue: 0,0:18:02.64,0:18:03.68,Default,(mixed),0,0,0,,{TIME:1082644,1083687}– Huh!?\N– Huh!?{NOTE:—んっ!?\\N—んっ!?}
+Dialogue: 0,0:18:03.68,0:18:05.35,Default,(mixed),0,0,0,,{TIME:1083687,1085355}– Hm?\N– Hm?{NOTE:—んっ?\\N—んっ?}
+Dialogue: 0,0:18:12.57,0:18:17.40,Default,Mad,0,0,0,,{TIME:1092571,1097409}You left without permission and now\Nyou return home without any accomplishment?{NOTE:勝手に飛び出しておいて何の成果も挙げず帰ってきたのですか。}
+Dialogue: 0,0:18:18.78,0:18:20.07,Default,Anvis,0,0,0,,{TIME:1098785,1100078}Shadow.{NOTE:シャドウよ。}
+Dialogue: 0,0:18:20.07,0:18:21.33,Default,Shadow,0,0,0,,{TIME:1100078,1101330}Yes sir.{NOTE:はっ。}
+Dialogue: 0,0:18:21.33,0:18:23.16,Default,Anvis,0,0,0,,{TIME:1101330,1103165}Your loyalty…{NOTE:お前の忠義…}
+Dialogue: 0,0:18:23.16,0:18:25.75,Default,Anvis,0,0,0,,{TIME:1103165,1105751}…is highly appreciated.{NOTE:…私は高く評価している。}
+Dialogue: 0,0:18:27.25,0:18:28.75,Default,Shadow,0,0,0,,{TIME:1107252,1108754}Thank you very much.{NOTE:ありがとうございます。}
+Dialogue: 0,0:18:28.75,0:18:34.42,Default,Anvis,0,0,0,,{TIME:1108754,1114426}However, it is also true that your power is inferior to theirs.{NOTE:しかしお前たち姉妹の力がやつらに劣っているのも事実。}
+Dialogue: 0,0:18:34.42,0:18:38.93,Default,Anvis,0,0,0,,{TIME:1114426,1118930}Therefore, we'll perform ritual as planned.{NOTE:そこで予定どおり秘術を執り行う。}
+Dialogue: 0,0:18:39.76,0:18:42.93,Default,Anvis,0,0,0,,{TIME:1119765,1122934}You'll become the strongest Rider.{NOTE:お前たちは最強のライダーとなるのだ。}
+Dialogue: 0,0:18:44.18,0:18:45.06,Default,Shadow,0,0,0,,{TIME:1124186,1125062}Yes sir!{NOTE:ははっ！}
+Dialogue: 0,0:19:01.32,0:19:02.62,Default,Wrath,0,0,0,,{TIME:1141328,1142621}Damn!{NOTE:くそっ。}
+Dialogue: 0,0:19:02.62,0:19:04.62,Default,Wrath,0,0,0,,{TIME:1142621,1144621}It's not fair it's just them.{NOTE:あいつらばっかりずるいぜ。}
+Dialogue: 0,0:19:11.50,0:19:12.58,Default,Shadow,0,0,0,,{TIME:1151505,1152589}Noir…{NOTE:ノワル。}
+Dialogue: 0,0:19:12.58,0:19:15.80,Default,Shadow,0,0,0,,{TIME:1152589,1155801}This will make us the strongest.{NOTE:これであたしたちは最強になれる。}
+Dialogue: 0,0:19:17.46,0:19:20.55,Default,Shadow,0,0,0,,{TIME:1157469,1160555}It's what we've been seeking for a long time.{NOTE:ずっとあたしたちが求めていたもの。}
+Dialogue: 0,0:19:20.55,0:19:22.30,Default,Shadow,0,0,0,,{TIME:1160555,1162307}Not needing anyone's help…{NOTE:誰の助けもいらない…}
+Dialogue: 0,0:19:22.30,0:19:25.06,Default,Shadow,0,0,0,,{TIME:1162307,1165060}…a power that is ours alone.{NOTE:…あたしたちだけの力。}
+Dialogue: 0,0:19:25.06,0:19:27.27,Default,Shadow,0,0,0,,{TIME:1165060,1167270}Finally it's within our reach.{NOTE:ようやくだね。}
+Dialogue: 0,0:19:27.27,0:19:28.35,Default,Shadow,0,0,0,,{TIME:1167270,1168355}Finally.{NOTE:ようやくだ。}
+Dialogue: 0,0:19:30.27,0:19:31.90,Default,Shadow,0,0,0,,{TIME:1170273,1171900}Hey, Grief.{NOTE:ねえ、グリス。}
+Dialogue: 0,0:19:31.90,0:19:34.86,Default,Shadow,0,0,0,,{TIME:1171900,1174861}Is there a kinship between us, too?{NOTE:あたしたちにも絆ってあるのかな。}
+Dialogue: 0,0:19:38.40,0:19:39.95,Default,Shadow,0,0,0,,{TIME:1178407,1179950}What are you talking about?{NOTE:何言ってんのさ。}
+Dialogue: 0,0:19:39.95,0:19:41.41,Default,Anvis,0,0,0,,{TIME:1179950,1181410}Let's get started.{NOTE:始めるぞ。}
+Dialogue: 0,0:19:43.66,0:19:45.37,Default,Shadow,0,0,0,,{TIME:1183662,1185372}We'll get back to it later.{NOTE:あたしは後から。}
+Dialogue: 0,0:19:45.37,0:19:46.49,Default,Shadow,0,0,0,,{TIME:1185372,1186498}Sure.{NOTE:うん。}
+Dialogue: 0,0:20:10.81,0:20:12.64,Default,Shadow,0,0,0,,{TIME:1210814,1212649}The power…{NOTE:力が…}
+Dialogue: 0,0:20:12.64,0:20:14.52,Default,Shadow,0,0,0,,{TIME:1212649,1214526}…is flowing through me!{NOTE:…流れ込んでくる！}
+Dialogue: 0,0:20:16.11,0:20:17.44,Default,Shadow,0,0,0,,{TIME:1216111,1217446}Grief!{NOTE:グリス！}
+Dialogue: 0,0:20:23.49,0:20:24.57,Default,Shadow,0,0,0,,{TIME:1223493,1224578}Huh!?{NOTE:ハッ!?}
+Dialogue: 0,0:20:28.03,0:20:28.95,Default,Shadow,0,0,0,,{TIME:1228039,1228957}What's that?{NOTE:何だ？}
+Dialogue: 0,0:20:31.08,0:20:32.75,Default,Shadow,0,0,0,,{TIME:1231084,1232753}Grief…{NOTE:グリス…}
+Dialogue: 0,0:20:32.75,0:20:33.92,Default,Shadow,0,0,0,,{TIME:1232753,1233920}Grief!{NOTE:グリス！}
+Dialogue: 0,0:20:38.96,0:20:40.05,Default,Shadow,0,0,0,,{TIME:1238967,1240051}Noir!{NOTE:ノワル！}
+Dialogue: 0,0:20:40.71,0:20:41.67,Default,Gale,0,0,0,,{TIME:1240719,1241678}Stop!{NOTE:駄目だ！}
+Dialogue: 0,0:20:41.67,0:20:42.97,Default,Gale,0,0,0,,{TIME:1241678,1242971}Don't come any closer!{NOTE:近づくな！}
+Dialogue: 0,0:20:42.97,0:20:44.09,Default,Shadow,0,0,0,,{TIME:1242971,1244097}Let me go!{NOTE:離せ！}
+Dialogue: 0,0:20:44.09,0:20:45.39,Default,Shadow,0,0,0,,{TIME:1244097,1245390}Noir…{NOTE:ノワルが！}
+Dialogue: 0,0:20:45.39,0:20:46.76,Default,Shadow,0,0,0,,{TIME:1245390,1246767}Noir!{NOTE:ノワル～！}
+Dialogue: 0,0:20:46.76,0:20:48.60,Default,Shadow,0,0,0,,{TIME:1246767,1248602}Aaaah!{NOTE:ああああ…！}
+Dialogue: 0,0:20:48.60,0:20:49.68,Default,Shadow,0,0,0,,{TIME:1248602,1249686}Noir!{NOTE:ノワル!!}
+Dialogue: 0,0:20:53.02,0:20:55.02,Default,Shadow,0,0,0,,{TIME:1253023,1255025}Noir!{NOTE:ノワル～!!}
+Dialogue: 0,0:21:02.32,0:21:06.03,Default,Shadow,0,0,0,,{TIME:1262324,1266036}Grief!{NOTE:グリス～!!}
+Dialogue: 0,0:21:27.64,0:21:28.72,Default,Shadow,0,0,0,,{TIME:1287641,1288725}Noir…?{NOTE:ノワル？}
+Dialogue: 0,0:21:30.76,0:21:31.52,Default,Shadow,0,0,0,,{TIME:1290769,1291520}Hey.{NOTE:おい。}
+Dialogue: 0,0:21:31.52,0:21:32.47,Default,Shadow,0,0,0,,{TIME:1291520,1292479}Noir!{NOTE:ノワル！}
+Dialogue: 0,0:21:32.47,0:21:33.60,Default,Shadow,0,0,0,,{TIME:1292479,1293605}What's wrong?{NOTE:どうした！}
+Dialogue: 0,0:21:33.60,0:21:34.77,Default,Shadow,0,0,0,,{TIME:1293605,1294773}Get a grip!{NOTE:しっかりしろ！}
+Dialogue: 0,0:21:38.23,0:21:39.48,Default,Shadow,0,0,0,,{TIME:1298235,1299486}Noir!{NOTE:ノワル！}
+Dialogue: 0,0:21:44.69,0:21:46.11,Default,Shadow,0,0,0,,{TIME:1304699,1306117}Noir…{NOTE:ノワル…}
+Dialogue: 0,0:21:46.11,0:21:47.49,Default,Shadow,0,0,0,,{TIME:1306117,1307494}What a relief.{NOTE:よかった。}
+Dialogue: 0,0:21:47.49,0:21:48.82,Default,Shadow,0,0,0,,{TIME:1307494,1308829}Are you okay?{NOTE:大丈夫か？}
+Dialogue: 0,0:21:52.91,0:21:54.45,Default,Shadow,0,0,0,,{TIME:1312916,1314459}Noir?{NOTE:ノワル？}
+Dialogue: 0,0:21:54.45,0:21:55.37,Default,Wrath,0,0,0,,{TIME:1314459,1315377}Hey.{NOTE:おい。}
+Dialogue: 0,0:21:55.37,0:21:57.83,Default,Wrath,0,0,0,,{TIME:1315377,1317838}What's going on?{NOTE:いったいどうなっている？}
+Dialogue: 0,0:21:57.83,0:21:59.25,Default,Gale,0,0,0,,{TIME:1317838,1319256}It failed.{NOTE:失敗だ…}
+Dialogue: 0,0:21:59.25,0:22:00.75,Default,Shadow,0,0,0,,{TIME:1319256,1320757}Huh?{NOTE:はっ？}
+Dialogue: 0,0:22:00.75,0:22:04.80,Default,Gale,0,0,0,,{TIME:1320757,1324803}Noir's soul isn't here anymore.{NOTE:ノワルの魂はもうここにはない。}
+Dialogue: 0,0:22:10.93,0:22:13.14,Default,Shadow,0,0,0,,{TIME:1330934,1333144}You're kidding me.{NOTE:嘘だ…}
+Dialogue: 0,0:22:13.14,0:22:14.14,Default,Shadow,0,0,0,,{TIME:1333144,1334145}Noir!{NOTE:ノワル！}
+Dialogue: 0,0:22:14.14,0:22:15.52,Default,Shadow,0,0,0,,{TIME:1334145,1335522}Tell me something.{NOTE:何でもいい！}
+Dialogue: 0,0:22:15.52,0:22:17.56,Default,Shadow,0,0,0,,{TIME:1335522,1337566}Anything will do!{NOTE:何かしゃべってくれ！}
+Dialogue: 0,0:22:17.56,0:22:18.56,Default,Shadow,0,0,0,,{TIME:1337566,1338567}Please!{NOTE:お願いだ！}
+Dialogue: 0,0:22:18.56,0:22:19.73,Default,Shadow,0,0,0,,{TIME:1338567,1339734}Please…!{NOTE:お願いだから！}
+Dialogue: 0,0:22:23.11,0:22:24.19,Default,Shadow,0,0,0,,{TIME:1343113,1344197}No…{NOTE:やだ！}
+Dialogue: 0,0:22:24.19,0:22:25.57,Default,Shadow,0,0,0,,{TIME:1344197,1345574}No!{NOTE:やだ!!}
+Dialogue: 0,0:22:25.57,0:22:28.86,Default,Shadow,0,0,0,,{TIME:1345574,1348869}Please, say my name!{NOTE:あたしの名前を呼んでくれよ！}
+Dialogue: 0,0:22:28.86,0:22:30.86,Default,Shadow,0,0,0,,{TIME:1348869,1350869}Noir!{NOTE:ノワル！}
+Dialogue: 0,0:22:38.75,0:22:40.21,Default,Shadow,0,0,0,,{TIME:1358753,1360213}I'm begging you…{NOTE:頼むから…}
+Dialogue: 0,0:22:40.21,0:22:43.04,Default,Shadow,0,0,0,,{TIME:1360213,1363049}Don't leave me alone…{NOTE:あたしを一人にしないで…}
+Dialogue: 0,0:22:50.84,0:22:52.51,Default,Anvis,0,0,0,,{TIME:1370849,1372517}A huge success.{NOTE:成功だ。}
+Dialogue: 0,0:22:52.51,0:22:53.85,Default,Mad,0,0,0,,{TIME:1372517,1373852}Huh?{NOTE:はっ？}
+Dialogue: 0,0:22:53.85,0:22:56.73,Default,Anvis,0,0,0,,{TIME:1373852,1376730}I've confirmed my suspicions about the rite of overlapping.{NOTE:重ね合わせの儀は確認できた。}
+Dialogue: 0,0:22:56.73,0:22:58.85,Default,Anvis,0,0,0,,{TIME:1376730,1378857}That's a lot.{NOTE:それだけで十分だ。}
+Dialogue: 0,0:22:58.85,0:23:00.48,Default,Mad,0,0,0,,{TIME:1378857,1380483}So you knew from the beginning…{NOTE:では初めから…}
+Dialogue: 0,0:23:02.27,0:23:03.57,Default,Anvis,0,0,0,,{TIME:1382277,1383570}Mad.{NOTE:マッドよ。}
+Dialogue: 0,0:23:03.57,0:23:05.11,Default,Mad,0,0,0,,{TIME:1383570,1385113}Sir.{NOTE:はっ。}
+Dialogue: 0,0:23:05.11,0:23:07.36,Default,Anvis,0,0,0,,{TIME:1385113,1387365}I'm expecting a lot of you.{NOTE:お前には期待しているぞ。}
+Dialogue: 0,0:23:09.15,0:23:09.86,Default,Mad,0,0,0,,{TIME:1389159,1389868}Yes sir!{NOTE:はっ！}
+Dialogue: 0,0:23:12.28,0:23:14.66,Default,Anvis,0,0,0,,{TIME:1392287,1394664}It took a long time…{NOTE:長かった…}
+Dialogue: 0,0:23:14.66,0:23:17.87,Default,Anvis,0,0,0,,{TIME:1394664,1397876}But now it's over.{NOTE:だがそれももう終わる。}
+Dialogue: 0,0:23:19.96,0:23:21.67,Default,Anvis,0,0,0,,{TIME:1399961,1401671}This time…{NOTE:今度こそ…}
+Dialogue: 0,0:23:21.67,0:23:24.59,Default,Anvis,0,0,0,,{TIME:1401671,1404591}…I'll obtain the ultimate power.{NOTE:最強は私が手に入れる。}
 Comment: 0,0:23:27.01,0:23:27.01,Default,[chapter],0,0,0,,{TIME:1407010,1407010}#Black screen
 Comment: 0,0:23:29.01,0:23:29.01,Default,[chapter],0,0,0,,{TIME:1409012,1409012}Preview
-Dialogue: 0,0:23:30.63,0:23:32.01,Default,Lute,80,80,80,,{TIME:1410639,1412015}{NOTE:俺リュート！}
-Dialogue: 0,0:23:32.01,0:23:34.64,Default,Lute,80,80,80,,{TIME:1412015,1414643}{NOTE:ナリキが新しいオトモンを見つけてきた！}
-Dialogue: 0,0:23:34.64,0:23:36.18,Default,Lute,80,80,80,,{TIME:1414643,1416186}{NOTE:やったなナリキ！}
-Dialogue: 0,0:23:36.18,0:23:40.60,Default,Lute,80,80,80,,{TIME:1416186,1420607}{NOTE:その一方でアユリアの兄ゲイルがついに行動を起こす。}
-Dialogue: 0,0:23:40.60,0:23:44.02,Default,Lute,80,80,80,,{TIME:1420607,1424027}{NOTE:次回｢アンヴィスの企み｣にライドオン！}
+Dialogue: 0,0:23:30.63,0:23:32.01,Default,Lute,80,80,80,,{TIME:1410639,1412015}Lute here!{NOTE:俺リュート！}
+Dialogue: 0,0:23:32.01,0:23:34.64,Default,Lute,80,80,80,,{TIME:1412015,1414643}Nariki has found a new Monstie!{NOTE:ナリキが新しいオトモンを見つけてきた！}
+Dialogue: 0,0:23:34.64,0:23:36.18,Default,Lute,80,80,80,,{TIME:1414643,1416186}Way to go, Nariki!{NOTE:やったなナリキ！}
+Dialogue: 0,0:23:36.18,0:23:40.60,Default,Lute,80,80,80,,{TIME:1416186,1420607}On the other hand, Avinia's\Nolder brother Gale finally takes action.{NOTE:その一方でアユリアの兄ゲイルがついに行動を起こす。}
+Dialogue: 0,0:23:40.60,0:23:44.02,Default,Lute,80,80,80,,{TIME:1420607,1424027}Next time:\N"Anvis's Plan" Ride On!{NOTE:次回｢アンヴィスの企み｣にライドオン！}
 Comment: 0,0:23:44.02,0:23:44.02,Default,[chapter],0,0,0,,{TIME:1424027,1424027}#Sponsors
