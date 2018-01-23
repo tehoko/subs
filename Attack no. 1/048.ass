@@ -121,12 +121,12 @@ Dialogue: 0,0:05:57.06,0:05:58.81,Alternative,Ayuhara,0,0,0,,{TIME:357065,358817
 Dialogue: 0,0:06:00.11,0:06:00.98,Default,Hongou,0,0,0,,{TIME:360110,360986}What's wrong?{NOTE:どうした？}
 Dialogue: 0,0:06:00.98,0:06:02.44,Default,Hongou,0,0,0,,{TIME:360986,362445}Are you down just after three?{NOTE:未だ三球目でダウンか？}
 Dialogue: 0,0:06:02.44,0:06:03.28,Default,Hongou,0,0,0,,{TIME:362445,363280}Redo!{NOTE:やり直し！}
-Dialogue: 0,0:06:04.19,0:06:05.07,Default,Unknown player,0,0,0,,{TIME:364197,365073}Yes sir.{NOTE:はい。}
-Dialogue: 0,0:06:11.28,0:06:13.08,Default,Unknown player,0,0,0,,{TIME:371288,373081}I've had enough!{NOTE:あ、もういいや。}
+Dialogue: 0,0:06:04.19,0:06:05.07,Default,(unknown),0,0,0,,{TIME:364197,365073}Yes sir.{NOTE:はい。}
+Dialogue: 0,0:06:11.28,0:06:13.08,Default,(unknown),0,0,0,,{TIME:371288,373081}I've had enough!{NOTE:あ、もういいや。}
 Dialogue: 0,0:06:13.08,0:06:13.87,Default,Hongou,0,0,0,,{TIME:373081,373874}"Enough"?{NOTE:「いいや」？}
 Dialogue: 0,0:06:13.87,0:06:15.79,Default,Hongou,0,0,0,,{TIME:373874,375792}Have you given up already?{NOTE:バレー部へ入るのは諦めたか。}
 Dialogue: 0,0:06:15.79,0:06:16.50,Default,Hongou,0,0,0,,{TIME:375792,376501}All right, next!{NOTE:よし、次！}
-Dialogue: 0,0:06:16.50,0:06:17.04,Default,Unknown player,0,0,0,,{TIME:376501,377043}Yes sir!{NOTE:はい！}
+Dialogue: 0,0:06:16.50,0:06:17.04,Default,(unknown),0,0,0,,{TIME:376501,377043}Yes sir!{NOTE:はい！}
 Dialogue: 0,0:06:19.71,0:06:21.59,Default,Mitamura,0,0,0,,{TIME:379713,381590}Five consecutive receptions, huh…{NOTE:五球連続レシーブか。}
 Dialogue: 0,0:06:21.59,0:06:24.09,Default,Mitamura,0,0,0,,{TIME:381590,384092}It's a pretty strict test.{NOTE:厳しいな、テストには違いないが。}
 Dialogue: 0,0:06:27.42,0:06:28.26,Default,Hongou,0,0,0,,{TIME:387429,388263}Second!{NOTE:二つ！}
@@ -340,20 +340,20 @@ Dialogue: 0,0:16:46.63,0:16:47.29,Default,Ayuhara,0,0,0,,{TIME:1006631,1007298}H
 Dialogue: 0,0:16:47.88,0:16:49.71,Default,Hayakawa,0,0,0,,{TIME:1007882,1009717}Tsutomu-kun.{NOTE:努さんのこと。}
 Dialogue: 0,0:16:49.71,0:16:50.92,Default,Hayakawa,0,0,0,,{TIME:1009717,1010927}Did I get it right?{NOTE:違った？}
 Dialogue: 0,0:16:50.92,0:16:52.88,Default,Ayuhara,0,0,0,,{TIME:1010927,1012887}Midori!{NOTE:みどりったら。}
-Dialogue: 0,0:17:11.11,0:17:12.61,Default,Unknown girl,0,0,0,,{TIME:1031113,1032615}Hey, Mister!{NOTE:お兄ちゃん！}
+Dialogue: 0,0:17:11.11,0:17:12.61,Default,Toko,0,0,0,,{TIME:1031113,1032615}Hey, Mister!{NOTE:お兄ちゃん！}
 Dialogue: 0,0:17:12.61,0:17:13.40,Default,Ichinose,0,0,0,,{TIME:1032615,1033407}Yo.{NOTE:よ。}
 Dialogue: 0,0:17:13.40,0:17:14.70,Default,Ichinose,0,0,0,,{TIME:1033407,1034700}I'm here again.{NOTE:又来たよ。}
-Dialogue: 0,0:17:14.70,0:17:16.20,Default,Unknown girl,0,0,0,,{TIME:1034700,1036202}We were waiting for you!{NOTE:お待ちXX待ってたわ。}
-Dialogue: 0,0:17:16.20,0:17:17.78,Default,Unknown girl,0,0,0,,{TIME:1036202,1037787}I'll go tell everyone you're here!{NOTE:今教えてくる！}
-Dialogue: 0,0:17:17.78,0:17:19.28,Default,Unknown girl,0,0,0,,{TIME:1037787,1039288}Grandma!{NOTE:おばちゃん！}
-Dialogue: 0,0:17:20.91,0:17:21.74,Default,Unknown girl,0,0,0,,{TIME:1040915,1041749}Grandma.{NOTE:おばちゃん。}
-Dialogue: 0,0:17:21.74,0:17:23.50,Default,Unknown girl,0,0,0,,{TIME:1041749,1043501}The greengrocer mister is here!{NOTE:八百屋のお兄ちゃんが来ましたよ。}
-Dialogue: 0,0:17:23.50,0:17:25.54,Default,Unknown girl,0,0,0,,{TIME:1043501,1045545}Today we'll have a festival too!{NOTE:今日もお祭りですよ！}
+Dialogue: 0,0:17:14.70,0:17:16.20,Default,Toko,0,0,0,,{TIME:1034700,1036202}We were waiting for you!{NOTE:お待ちXX待ってたわ。}
+Dialogue: 0,0:17:16.20,0:17:17.78,Default,Toko,0,0,0,,{TIME:1036202,1037787}I'll go tell everyone you're here!{NOTE:今教えてくる！}
+Dialogue: 0,0:17:17.78,0:17:19.28,Default,Toko,0,0,0,,{TIME:1037787,1039288}Grandma!{NOTE:おばちゃん！}
+Dialogue: 0,0:17:20.91,0:17:21.74,Default,Toko,0,0,0,,{TIME:1040915,1041749}Grandma.{NOTE:おばちゃん。}
+Dialogue: 0,0:17:21.74,0:17:23.50,Default,Toko,0,0,0,,{TIME:1041749,1043501}The greengrocer mister is here!{NOTE:八百屋のお兄ちゃんが来ましたよ。}
+Dialogue: 0,0:17:23.50,0:17:25.54,Default,Toko,0,0,0,,{TIME:1043501,1045545}Today we'll have a festival too!{NOTE:今日もお祭りですよ！}
 Dialogue: 0,0:17:26.00,0:17:28.25,Default,Ichinose,0,0,0,,{TIME:1046003,1048256}Yes, ma'am, a daikon. Would you like me to cut it?{NOTE:はい、奥さん。大根ですね？きりますか？}
 Dialogue: 0,0:17:28.25,0:17:30.09,Default,Ichinose,0,0,0,,{TIME:1048256,1050091}Five of these?{NOTE:へへ。五本まとめて。}
 Dialogue: 0,0:17:30.09,0:17:30.92,Default,Ichinose,0,0,0,,{TIME:1050091,1050925}Thank you.{NOTE:まいどあり。}
-Dialogue: 0,0:17:30.92,0:17:32.13,Default,Unknown girl,0,0,0,,{TIME:1050925,1052134}Welcome, welcome!{NOTE:いらっしゃい、いらっしゃい！}
-Dialogue: 0,0:17:32.13,0:17:33.30,Default,Unknown girl,0,0,0,,{TIME:1052134,1053302}Welcome!{NOTE:いらっしゃい！}
+Dialogue: 0,0:17:30.92,0:17:32.13,Default,Toko,0,0,0,,{TIME:1050925,1052134}Welcome, welcome!{NOTE:いらっしゃい、いらっしゃい！}
+Dialogue: 0,0:17:32.13,0:17:33.30,Default,Toko,0,0,0,,{TIME:1052134,1053302}Welcome!{NOTE:いらっしゃい！}
 Dialogue: 0,0:17:33.30,0:17:35.93,Default,Ichinose,0,0,0,,{TIME:1053302,1055930}Ichinose's greengrocer Mobile Supermarket is here!{NOTE:一ノ瀬青果は動くスーパーXXます！}
 Dialogue: 0,0:17:35.93,0:17:37.97,Default,Ichinose,0,0,0,,{TIME:1055930,1057974}Nowhere the goods are as fresh as at our shop.{NOTE:半端ないご注文大歓迎。}
 Dialogue: 0,0:17:37.97,0:17:40.72,Default,Ichinose,0,0,0,,{TIME:1057974,1060726}If you buy here today, we'll give you a discount next time.{NOTE:まとめておかえになればこれ又XXですよ。}
