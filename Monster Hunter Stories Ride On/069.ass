@@ -33,13 +33,13 @@ Dialogue: 0,0:00:18.16,0:00:20.58,Default,Gale,0,0,0,,{TIME:18164,20583}Come on.
 Dialogue: 0,0:00:20.58,0:00:23.25,Default,Gale,0,0,0,,{TIME:20583,23253}I'll arrange a hideout for you.{NOTE:隠れ場所は俺が手配する。}
 Dialogue: 0,0:00:23.25,0:00:26.92,Default,Avinia,0,0,0,,{TIME:23253,26923}I can't just escape on my own and leave the others behind!{NOTE:私だけが逃げるなどということはできません。}
 Dialogue: 0,0:00:26.92,0:00:30.26,Default,Avinia,0,0,0,,{TIME:26923,30260}I want to fight alongside the Hakum Village Riders!{NOTE:私はハクム村のライダーと一緒に戦います。}
-Dialogue: 0,0:00:30.67,0:00:36.84,Default,Narrator,80,80,80,,{TIME:30677,36849}Their discussion was interrupted by Lute, who misjudged the situation.{NOTE:そこへ現れる リュート。２人の様子を見てゲイルの目的を勘違いしてしまう。}
+Dialogue: 0,0:00:30.67,0:00:36.84,Default,Narrator,80,80,80,,{TIME:30677,36849}Their discussion was interrupted by Lute,\Nwho misjudged the situation.{NOTE:そこへ現れる リュート。２人の様子を見てゲイルの目的を勘違いしてしまう。}
 Dialogue: 0,0:00:37.39,0:00:40.81,Default,Lute,0,0,0,,{TIME:37392,40812}Gale! You came to take Avinia away after all, didn't you?!{NOTE:ゲイル！やっぱりアユリアをさらいに来たんだな！}
 Dialogue: 0,0:00:41.77,0:00:44.94,Default,Narrator,80,80,80,,{TIME:41771,44941}Lute rushes into a Ride On…{NOTE:誤解をしたままライドオンするリュート。}
 Dialogue: 0,0:00:44.94,0:00:48.61,Default,Narrator,80,80,80,,{TIME:44941,48611}…and gets into a fierce air-battle with Gale.{NOTE:ゲイルと激しい空中戦を繰り広げるのだが…}
-Dialogue: 0,0:00:48.61,0:00:52.65,Default,Narrator,80,80,80,,{TIME:48611,52657}But, suddenly, Anvis makes his entrance and takes Avinia away.{NOTE:…突如姿を現したアンヴィスがアユリアをさらう。}
+Dialogue: 0,0:00:48.61,0:00:52.65,Default,Narrator,80,80,80,,{TIME:48611,52657}But, suddenly, Anvis makes his entrance\Nand takes Avinia away.{NOTE:…突如姿を現したアンヴィスがアユリアをさらう。}
 Dialogue: 0,0:00:52.65,0:00:57.78,Default,Narrator,80,80,80,,{TIME:52657,57787}Can Avinia be rescued from the evil hands of Anvis?{NOTE:果たしてアユリアをアンヴィスの魔の手から救い出すことはできるのか？}
-Dialogue: 0,0:00:58.83,0:01:05.00,Default,Narrator,0,0,0,,{TIME:58830,65003}Meanwhile, a certain character is doing espionage in the Black Castle…{NOTE:一方そのころブラックキャッスルではある人物が隠密行動をしていた。}
+Dialogue: 0,0:00:58.83,0:01:05.00,Default,Narrator,0,0,0,,{TIME:58830,65003}Meanwhile, a certain character\Nis doing espionage in the Black Castle…{NOTE:一方そのころブラックキャッスルではある人物が隠密行動をしていた。}
 Comment: 0,0:01:05.00,0:01:05.00,Default,[chapter],0,0,0,,{TIME:65003,65003}Opening
 Dialogue: 0,0:01:08.29,0:01:15.72,Default,[title],0,0,0,,{TIME:68293,75723}{\fad(2500,0)}Monster Hunter Stories: Ride On{NOTE:モンスターハンターストーリーズ：RIDE・ON}
 Dialogue: 0,0:01:18.89,0:01:22.18,OP/ED Romaji,[karaoke],0,0,0,,{TIME:78893,82183}{\k40}Bo{\k20}ku{\k20}ra {\k43}kyou {\k20}mo {\k16}i{\k20}ki{\k23}te{\k20}i{\k106}ru
@@ -99,7 +99,7 @@ Dialogue: 0,0:02:59.70,0:03:04.95,OP/ED English,[karaoke],0,0,0,,{TIME:179703,18
 Comment: 0,0:03:06.99,0:03:06.99,Default,[chapter],0,0,0,,{TIME:186999,186999}#Sponsors
 Comment: 0,0:03:22.01,0:03:22.01,Default,[chapter],0,0,0,,{TIME:202013,202013}#Black screen
 Comment: 0,0:03:24.01,0:03:24.01,Default,[chapter],0,0,0,,{TIME:204016,204016}Part A
-Dialogue: 0,0:03:24.51,0:03:28.52,Episode,[title],0,0,0,,{TIME:204513,208521}{\fad(500,500)\pos(724,480)}Episode 69\NDebli the Spy{NOTE:第６９話\\Nスパイデブリ}
+Dialogue: 0,0:03:24.51,0:03:28.52,Episode,[title],0,0,0,,{TIME:204513,208521}{\fad(500,500)\pos(730,480)}Episode 69\NDebli the Spy{NOTE:第６９話\\Nスパイデブリ}
 Dialogue: 0,0:03:30.77,0:03:32.02,Default,Cheval,0,0,0,,{TIME:210773,212024}Lute!{NOTE:リュート！}
 Dialogue: 0,0:03:32.73,0:03:34.06,Default,Lute,0,0,0,,{TIME:212734,214068}Cheval!?{NOTE:シュヴァル！}
 Dialogue: 0,0:03:34.06,0:03:36.02,Default,Cheval,0,0,0,,{TIME:214068,216028}What happened?{NOTE:いったい何があったんだ！}
@@ -119,8 +119,8 @@ Dialogue: 0,0:04:16.90,0:04:17.73,Default,Lute,0,0,0,,{TIME:256903,257737}Let's 
 Dialogue: 0,0:04:17.73,0:04:18.90,Default,Cheval,0,0,0,,{TIME:257737,258905}Yeah.{NOTE:ああ。}
 Dialogue: 0,0:04:23.24,0:04:25.07,Default,Debli,0,0,0,,{TIME:263242,265077}{\i1}My name is Debli.{NOTE:俺の名はデブリ。}
 Dialogue: 0,0:04:25.07,0:04:28.33,Default,Debli,0,0,0,,{TIME:265077,268331}{\i1}It may not look like it,\Nbut I'm practically a Rider already.{NOTE:こう見えてもうほとんどライダーだ。}
-Dialogue: 0,0:04:28.33,0:04:33.33,Default,Debli,0,0,0,,{TIME:268331,273336}{\i1}I've tracked down the hideout of the group\Nthat took Avinia away.{NOTE:俺は独自のルートでアユリアを連れ去った連中のアジトを突き止め。}
-Dialogue: 0,0:04:33.33,0:04:36.46,Default,Debli,0,0,0,,{TIME:273336,276464}{\i1}And I managed to infiltrate it without anyone knowing.{NOTE:人知れず潜入を果たした。}
+Dialogue: 0,0:04:28.33,0:04:33.33,Default,Debli,0,0,0,,{TIME:268331,273336}{\i1}I've tracked down the hideout\Nof the group that took Avinia away.{NOTE:俺は独自のルートでアユリアを連れ去った連中のアジトを突き止め。}
+Dialogue: 0,0:04:33.33,0:04:36.46,Default,Debli,0,0,0,,{TIME:273336,276464}{\i1}And I managed to infiltrate it\Nwithout anyone knowing.{NOTE:人知れず潜入を果たした。}
 Dialogue: 0,0:04:37.00,0:04:39.05,Default,Knight,0,0,0,,{TIME:277006,279050}Let me introduce a new member.{NOTE:新しい隊員を紹介する。}
 Dialogue: 0,0:04:39.05,0:04:41.46,Default,Knight,0,0,0,,{TIME:279050,281469}Today, we're glad to welcome…{NOTE:こいつは今日から入った…}
 Dialogue: 0,0:04:41.46,0:04:42.67,Default,Knight,0,0,0,,{TIME:281469,282678}What was your name, again?{NOTE:名前何だっけ？}
@@ -129,9 +129,9 @@ Dialogue: 0,0:04:43.34,0:04:45.43,Default,Debli,0,0,0,,{TIME:283346,285431}I'm D
 Dialogue: 0,0:04:47.18,0:04:48.39,Default,Debli,0,0,0,,{TIME:287183,288392}I'm Reverto!{NOTE:リヴェルトっす。}
 Dialogue: 0,0:04:48.39,0:04:50.81,Default,Knight,0,0,0,,{TIME:288392,290812}Reverto as in that Hunter?{NOTE:リヴェルトってハンターの？}
 Dialogue: 0,0:04:50.81,0:04:52.18,Default,Knight,0,0,0,,{TIME:290812,292188}That diabolical lone wolf?{NOTE:孤高で地獄の？}
-Dialogue: 0,0:04:52.18,0:04:55.10,Default,Debli,0,0,0,,{TIME:292188,295107}{\t(919,2919,\1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}No, we just have the same name. Hahaha…{NOTE:同じ名前なんですよ。ハハハハ…}
+Dialogue: 0,0:04:52.18,0:04:55.10,Default,Debli,0,0,0,,{TIME:292188,295107}{\t(2200,2919,\1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}No, we just have the same name. Hahaha…{NOTE:同じ名前なんですよ。ハハハハ…}
 Dialogue: 0,0:04:56.35,0:04:59.11,Default,Debli,0,0,0,,{TIME:296359,299111}{\i1}A few weeks after the infiltration.{NOTE:潜入してからはや数週間。}
-Dialogue: 0,0:04:59.11,0:05:04.11,Default,Debli,0,0,0,,{TIME:299111,304116}{\i1}I gained the trust of my boss and colleagues as a member of the Ebon Riders.{NOTE:俺はブラックライダーズの隊員として上司や同僚の信頼を得つつ。}
+Dialogue: 0,0:04:59.11,0:05:04.11,Default,Debli,0,0,0,,{TIME:299111,304116}{\i1}I gained the trust of my boss and colleagues\Nas a member of the Ebon Riders.{NOTE:俺はブラックライダーズの隊員として上司や同僚の信頼を得つつ。}
 Dialogue: 0,0:05:04.11,0:05:06.66,Default,Debli,0,0,0,,{TIME:304116,306661}{\i1}I started gathering intelligence.{NOTE:功みに情報収集をしてきた。}
 Dialogue: 0,0:05:06.66,0:05:11.58,Default,Debli,0,0,0,,{TIME:306661,311582}{\i1}Through a steady investigation, I determined that Avinia was being held in the dungeon of this castle.{NOTE:地道な捜査の結果アユリアはこの地下牢にいると俺は確信した。}
 Dialogue: 0,0:05:13.58,0:05:14.58,Default,Debli,0,0,0,,{TIME:313584,314585}Avinia?{NOTE:アユリア？}
@@ -155,7 +155,7 @@ Dialogue: 0,0:05:48.07,0:05:50.32,Default,Knight,0,0,0,,{TIME:348077,350329}Her 
 Dialogue: 0,0:05:50.32,0:05:51.37,Default,Debli,0,0,0,,{TIME:350329,351372}What!?{NOTE:え～っ!?}
 Dialogue: 0,0:05:51.37,0:05:56.91,Default,Knight,0,0,0,,{TIME:351372,356919}I think it was the day before you joined the Ebon Riders.{NOTE:確かお前がブラックライダーズに入隊する前の日だったっけな。}
 Dialogue: 0,0:05:56.91,0:05:58.33,Default,Henchman,0,0,0,,{TIME:356919,358337}T-This is bad!{NOTE:ま…まずい！}
-Dialogue: 0,0:05:58.33,0:06:01.04,Default,Henchman,0,0,0,,{TIME:358337,361048}The armory caught fire!{NOTE:武器庫に火が付いたぞ！}
+Dialogue: 0,0:05:58.33,0:05:59.92,Default,Henchman,0,0,0,,{TIME:358337,359922}The armory caught fire!{NOTE:武器庫に火が付いたぞ！}
 Dialogue: 0,0:06:07.34,0:06:10.39,Default,Debli,0,0,0,,{TIME:367346,370391}{\i1}All of my effort… wasted… {NOTE:今までの地道な努力はいったい…}
 Dialogue: 0,0:06:10.39,0:06:11.43,Default,Knight,0,0,0,,{TIME:370391,371434}What's wrong?{NOTE:どうした？}
 Dialogue: 0,0:06:11.43,0:06:14.10,Default,Debli,0,0,0,,{TIME:371434,374103}{\i1}No… This is nothing.{NOTE:いや…こうしちゃいられねえ！}
@@ -214,8 +214,8 @@ Dialogue: 0,0:09:06.06,0:09:07.15,Default,Lute,0,0,0,,{TIME:546067,547151}Gale!{
 Dialogue: 0,0:09:10.07,0:09:12.07,Default,Gale,0,0,0,,{TIME:550071,552073}Him again…?{NOTE:あいつ…}
 Dialogue: 0,0:09:12.07,0:09:14.28,Default,Gale,0,0,0,,{TIME:552073,554283}He's still following me…?{NOTE:まだついてきてたのか…}
 Dialogue: 0,0:09:21.58,0:09:24.08,Default,Gale,0,0,0,,{TIME:561582,564085}You sure are persistent.{NOTE:しつこいやつだな。}
-Dialogue: 0,0:09:24.08,0:09:26.33,Default,Gale,0,0,0,,{TIME:564085,566337}But didn't I tell you to stay out of my way?{NOTE:邪魔をするなと言っただろ。}
-Dialogue: 0,0:09:26.33,0:09:30.50,Default,Lute,0,0,0,,{TIME:566337,570508}I won't let you go until I understand why you're doing this!{NOTE:お前の本当の気持ちを確かめるまで行かせない！}
+Dialogue: 0,0:09:24.08,0:09:26.33,Default,Gale,0,0,0,,{TIME:564085,566337}Didn't I tell you to stay out of my way?{NOTE:邪魔をするなと言っただろ。}
+Dialogue: 0,0:09:26.33,0:09:30.50,Default,Lute,0,0,0,,{TIME:566337,570508}I won't let you go until I understand\Nwhy you're doing this!{NOTE:お前の本当の気持ちを確かめるまで行かせない！}
 Dialogue: 0,0:09:30.50,0:09:32.42,Default,Gale,0,0,0,,{TIME:570508,572426}Why I'm doing this?{NOTE:俺の本当の気持ち？}
 Dialogue: 0,0:09:32.42,0:09:33.88,Default,Lute,0,0,0,,{TIME:572426,573886}Yeah.{NOTE:うん。}
 Dialogue: 0,0:09:33.88,0:09:36.55,Default,Lute,0,0,0,,{TIME:573886,576555}You said you want to save Avinia.{NOTE:お前はアユリアを助けたいと言った。}
@@ -224,7 +224,7 @@ Dialogue: 0,0:09:39.68,0:09:42.81,Default,Lute,0,0,0,,{TIME:579683,582812}But th
 Dialogue: 0,0:09:42.81,0:09:45.18,Default,Lute,0,0,0,,{TIME:582812,585189}Why did you involve Avinia in all of this?{NOTE:何でアユリアを争いに巻き込むんだよ!?}
 Dialogue: 0,0:09:47.52,0:09:50.40,Default,Gale,0,0,0,,{TIME:587525,590402}I didn't plan to involve her.{NOTE:巻き込むつもりはなかった。}
 Dialogue: 0,0:09:50.40,0:09:55.07,Default,Gale,0,0,0,,{TIME:590402,595074}I came here to hide my sister somewhere Anvis couldn't find her.{NOTE:ここに来たのも妹をｱﾝｳﾞｨｽの手の届かない場所へ隠すためだった。}
-Dialogue: 0,0:09:56.11,0:09:59.45,Default,Gale,0,0,0,,{TIME:596117,599453}But I also wanted to make sure that she didn't keep me from my actual goal.{NOTE:俺の本当の目的に巻き込まないためにも。}
+Dialogue: 0,0:09:56.11,0:09:59.45,Default,Gale,0,0,0,,{TIME:596117,599453}But I also wanted to make sure\Nthat she didn't keep me from my actual goal.{NOTE:俺の本当の目的に巻き込まないためにも。}
 Dialogue: 0,0:09:59.45,0:10:02.33,Default,Lute,0,0,0,,{TIME:599453,602331}Your actual goal?{NOTE:本当の目的？}
 Dialogue: 0,0:10:02.33,0:10:04.58,Default,Gale,0,0,0,,{TIME:602331,604583}To kill the person who murdered my mother and father.{NOTE:父さんと母さんの敵を討つ。}
 Dialogue: 0,0:10:07.29,0:10:09.83,Default,Lute,0,0,0,,{TIME:607294,609839}Does Avinia know that?{NOTE:それをアユリアは知っているのか？}
@@ -235,13 +235,13 @@ Dialogue: 0,0:10:24.01,0:10:26.52,Default,Gale,0,0,0,,{TIME:624019,626522}…yea
 Dialogue: 0,0:10:27.48,0:10:30.15,Default,Gale,0,0,0,,{TIME:627481,630151}But she can't do that anymore.{NOTE:だがもう止められない。}
 Dialogue: 0,0:10:32.86,0:10:36.07,Default,Gale,0,0,0,,{TIME:632862,636073}Well, it's not like you could understand me.{NOTE:まあ、俺の気持ちは誰にも分からないよ。}
 Dialogue: 0,0:10:36.07,0:10:38.07,Default,Cheval,0,0,0,,{TIME:636073,638073}I do.{NOTE:分かるよ。}
-Dialogue: 0,0:10:38.07,0:10:42.32,Default,Cheval,0,0,0,,{TIME:638073,642329}It's a feeling that stirs up inside you, like boiling magma.{NOTE:心の中でまるでマグマが沸き立つように自分を突き動かすんだ。}
+Dialogue: 0,0:10:38.07,0:10:42.32,Default,Cheval,0,0,0,,{TIME:638073,642329}It's a feeling that stirs up inside you,\Nlike boiling magma.{NOTE:心の中でまるでマグマが沸き立つように自分を突き動かすんだ。}
 Dialogue: 0,0:10:43.45,0:10:46.91,Default,Cheval,0,0,0,,{TIME:643455,646917}I was once consumed by revenge, too.{NOTE:俺も復讐心にとらわれたことがある。}
-Dialogue: 0,0:10:46.91,0:10:49.79,Default,Cheval,0,0,0,,{TIME:646917,649795}It's a strong urge that won't go away until you strike your target.{NOTE:敵を討つまでは止まらない強い衝動だ。}
+Dialogue: 0,0:10:46.91,0:10:49.79,Default,Cheval,0,0,0,,{TIME:646917,649795}It's a strong urge that won't go away\Nuntil you strike your target.{NOTE:敵を討つまでは止まらない強い衝動だ。}
 Dialogue: 0,0:10:50.75,0:10:53.38,Default,Cheval,0,0,0,,{TIME:650754,653382}But if you let all those vengeful thoughts take over…{NOTE:だが、復讐心にとらわれていては…}
 Dialogue: 0,0:10:53.38,0:10:55.25,Default,Cheval,0,0,0,,{TIME:653382,655259}…you'll just lose sight of yourself.{NOTE:…いつか自分を見失い…}
 Dialogue: 0,0:10:55.25,0:10:59.18,Default,Cheval,0,0,0,,{TIME:655259,659180}You'll end up hurting the people most important to you, your friends, and yourself.{NOTE:…大事な人や仲間そして自分自身をも傷つける。}
-Dialogue: 0,0:11:00.26,0:11:04.31,Default,Cheval,0,0,0,,{TIME:660264,664310}If you really want to protect Avinia, just realize the path you're heading down.{NOTE:アユリアを守りたいならその思いを見詰めるべきだ。}
+Dialogue: 0,0:11:00.26,0:11:04.31,Default,Cheval,0,0,0,,{TIME:660264,664310}If you really want to protect Avinia,\Njust realize the path you're heading down.{NOTE:アユリアを守りたいならその思いを見詰めるべきだ。}
 Dialogue: 0,0:11:04.31,0:11:06.97,Default,Lute,0,0,0,,{TIME:664310,666979}Don't try to fight alone!{NOTE:一人で戦おうとするなよ！}
 Dialogue: 0,0:11:06.97,0:11:08.85,Default,Lute,0,0,0,,{TIME:666979,668856}You're not alone!{NOTE:お前は一人じゃない！}
 Dialogue: 0,0:11:08.85,0:11:10.69,Default,Lute,0,0,0,,{TIME:668856,670691}I'll lend my power to you!{NOTE:俺はお前に力を貸すよ！}
@@ -273,19 +273,20 @@ Dialogue: 0,0:12:25.14,0:12:28.39,Default,Gale,0,0,0,,{TIME:745140,748394}Its na
 Dialogue: 0,0:12:28.39,0:12:31.02,Default,Lute,0,0,0,,{TIME:748394,751021}The Rite of Overlapping?{NOTE:重ね合わせの儀？}
 Dialogue: 0,0:12:31.02,0:12:35.81,Default,Gale,0,0,0,,{TIME:751021,755818}Those who perform it are said to get the ultimate power.{NOTE:重ね合わせの儀を行った者は究極の力を得るといわれていて…}
 Dialogue: 0,0:12:35.81,0:12:39.78,Default,Gale,0,0,0,,{TIME:755818,759780}It was revered and feared at the same time.{NOTE:…あがめられると同時に恐れられていた。}
-Dialogue: 0,0:12:39.78,0:12:45.36,Default,Gale,0,0,0,,{TIME:759780,765369}Because if a person with a wicked heart was to go through the rite,\Nthey'd be able to do things that can't be undone.{NOTE:邪心を持った人間が行うと取り返しのつかないことが起きてしまうからだ。}
-Dialogue: 0,0:12:45.36,0:12:50.54,Default,Gale,0,0,0,,{TIME:765369,770541}So the ritual was no longer done and was kept a secret for a long time.{NOTE:だから長い間儀式は行われることなくその秘密は守られてきた。}
+Dialogue: 0,0:12:39.78,0:12:42.07,Default,Gale,0,0,0,,{TIME:759780,762074}Because if a person with a wicked heart was to go through it…{NOTE:邪心を持った人間が行うと…}
+Dialogue: 0,0:12:42.07,0:12:45.36,Default,Gale,0,0,0,,{TIME:762074,765369}…they'd be able to do things that can't be undone.{NOTE:…取り返しのつかないことが起きてしまうからだ。}
+Dialogue: 0,0:12:45.36,0:12:50.54,Default,Gale,0,0,0,,{TIME:765369,770541}So the ritual was no longer done\Nand was kept a secret for a long time.{NOTE:だから長い間儀式は行われることなくその秘密は守られてきた。}
 Dialogue: 0,0:12:51.83,0:12:56.04,Default,Gale,0,0,0,,{TIME:771834,776046}But, one day, a man came up to my father…{NOTE:だがある日父の前に男が現れて…}
 Dialogue: 0,0:12:56.04,0:12:58.04,Default,Gale,0,0,0,,{TIME:776046,778046}…and demanded he give up the secret.{NOTE:…秘術を授けろと迫った。}
 Dialogue: 0,0:12:58.92,0:13:00.55,Default,Lute,0,0,0,,{TIME:778924,780551}That man…{NOTE:その男って…}
 Dialogue: 0,0:13:01.63,0:13:02.80,Default,Gale,0,0,0,,{TIME:781635,782803}…was Anvis.{NOTE:アンヴィスだ。}
-Dialogue: 0,0:13:04.59,0:13:08.39,Default,Gale,0,0,0,,{TIME:784596,788392}My father saw through his evil and refused his demands.{NOTE:父はやつの邪心を見抜きそれを拒否した。}
+Dialogue: 0,0:13:04.59,0:13:08.39,Default,Gale,0,0,0,,{TIME:784596,788392}My father saw through his evil\Nand refused his demands.{NOTE:父はやつの邪心を見抜きそれを拒否した。}
 Dialogue: 0,0:13:08.39,0:13:10.64,Default,Gale,0,0,0,,{TIME:788392,790644}But Anvis didn't give up.{NOTE:だがアンヴィスは諦めず…}
 Dialogue: 0,0:13:10.64,0:13:15.44,Default,Gale,0,0,0,,{TIME:790644,795441}He took my mother as a hostage to force my father to talk.{NOTE:…母を人質に取って父に無理やり秘術を執り行わせた。}
 Dialogue: 0,0:13:15.44,0:13:18.56,Default,Navirou,0,0,0,,{TIME:795441,798569}W-What happened then?{NOTE:そ、それでどうなったのだ!?}
 Dialogue: 0,0:13:18.56,0:13:20.90,Default,Gale,0,0,0,,{TIME:798569,800904}The Rite of Overlapping failed.{NOTE:重ね合わせの儀は失敗した。}
-Dialogue: 0,0:13:22.44,0:13:25.20,Default,Gale,0,0,0,,{TIME:802448,805200}But that wasn't the end of it.{NOTE:だがそれだけじゃ終わらなかった。}
-Dialogue: 0,0:13:25.78,0:13:33.41,Default,Gale,0,0,0,,{TIME:805784,813417}My parents' deaths were because of Anvis's failure to complete the ritual.{NOTE:重ね合わせの儀が失敗したことによって俺の両親はアンヴィスの野心が招いた結果だ。}
+Dialogue: 0,0:13:22.44,0:13:25.20,Default,Gale,0,0,0,,{TIME:802448,805200}But that's not the end of it.{NOTE:だがそれだけじゃ終わらなかった。}
+Dialogue: 0,0:13:25.78,0:13:33.41,Default,Gale,0,0,0,,{TIME:805784,813417}Because Anvis failed to complete the ritual,\Nmy parents ended up dying.{NOTE:重ね合わせの儀が失敗したことによって俺の両親はアンヴィスの野心が招いた結果だ。}
 Dialogue: 0,0:13:33.41,0:13:34.79,Default,Cryo,0,0,0,,{TIME:813417,814793}This is too much…{NOTE:ひど過ぎます…}
 Dialogue: 0,0:13:34.79,0:13:36.33,Default,Navirou,0,0,0,,{TIME:814793,816337}What a jerk!{NOTE:何てやつだ！}
 Dialogue: 0,0:13:36.33,0:13:38.21,Default,Navirou,0,0,0,,{TIME:816337,818213}I can't forgive him.\NI won't forgive him!{NOTE:許せん！許せんぞ！}
@@ -360,14 +361,14 @@ Dialogue: 0,0:16:53.70,0:16:56.95,Default,Debli,0,0,0,,{TIME:1013700,1016954}How
 Dialogue: 0,0:17:01.16,0:17:02.70,Default,Student,0,0,0,,{TIME:1021166,1022709}Huh? A Great Poogie?{NOTE:えっ？ドスプーギー？}
 Dialogue: 0,0:17:02.70,0:17:04.71,Default,Student,0,0,0,,{TIME:1022709,1024711}I can't believe it.{NOTE:ウケるんですけど。}
 Dialogue: 0,0:17:07.38,0:17:09.38,Default,Debli,0,0,0,,{TIME:1027381,1029383}Don't make light of my Monstie.{NOTE:俺のオトモンをなめるなよ。}
-Dialogue: 0,0:17:09.92,0:17:14.47,Default,Debli,0,0,0,,{TIME:1029925,1034471}It won't lose in either power or speed to your Great Baggies.{NOTE:そんじょそこらのドスバギィにはパワーもスピードも負けないぜ！}
+Dialogue: 0,0:17:09.92,0:17:14.47,Default,Debli,0,0,0,,{TIME:1029925,1034471}It won't lose in either power\Nor speed to your Great Baggies.{NOTE:そんじょそこらのドスバギィにはパワーもスピードも負けないぜ！}
 Dialogue: 0,0:17:16.51,0:17:19.39,Default,Debli,0,0,0,,{TIME:1036515,1039393}See for yourself. Catch me if you can!{NOTE:追い付けるもんなら追い付いてみな！}
 Dialogue: 0,0:17:19.39,0:17:21.60,Default,Student,0,0,0,,{TIME:1039393,1041603}– He's making fun of us!\N– Wait!{NOTE:—なめやがって！\\N—待て！}
 Dialogue: 0,0:17:21.60,0:17:24.14,Default,Student,0,0,0,,{TIME:1041603,1044147}– Get over here!\N– Hey!{NOTE:—待てオラ！\\N—待て！}
 Dialogue: 0,0:17:24.14,0:17:25.06,Default,Debli,0,0,0,,{TIME:1044147,1045065}Heh.{NOTE:フッ。}
 Dialogue: 0,0:17:25.06,0:17:26.52,Default,Debli,0,0,0,,{TIME:1045065,1046525}All according to plan.{NOTE:完璧な作戦。}
 Dialogue: 0,0:17:26.52,0:17:28.23,Default,Debli,0,0,0,,{TIME:1046525,1048235}That should keep them busy for a little while.{NOTE:やつらを巻いてやったぜ。}
-Dialogue: 0,0:17:29.94,0:17:33.24,Default,Debli,0,0,0,,{TIME:1049945,1053240}Now, let's ditch this castle and hurry up to Hakum Village!{NOTE:このまま城を抜け出してハクム村へ急ぐぞ！}
+Dialogue: 0,0:17:29.94,0:17:33.24,Default,Debli,0,0,0,,{TIME:1049945,1053240}Now, let's ditch this castle\Nand hurry up to Hakum Village!{NOTE:このまま城を抜け出してハクム村へ急ぐぞ！}
 Dialogue: 0,0:17:33.24,0:17:35.11,Default,Poogie,0,0,0,,{TIME:1053240,1055117}– Oink!\N– Huh?{NOTE:—プギーッ！\\N—えっ？}
 Dialogue: 0,0:17:35.11,0:17:37.86,Default,Debli,0,0,0,,{TIME:1055117,1057869}No! The exit is in the other direction! Hey!{NOTE:バカ！出口は反対だ！おい！}
 Dialogue: 0,0:17:37.86,0:17:39.87,Default,Debli,0,0,0,,{TIME:1057869,1059871}Go back!{NOTE:戻れって！}
@@ -447,7 +448,7 @@ Dialogue: 0,0:22:00.88,0:22:05.38,Default,Anvis,0,0,0,,{TIME:1320882,1325387}Eve
 Dialogue: 0,0:22:05.38,0:22:08.76,Default,Anvis,0,0,0,,{TIME:1325387,1328765}…I kept you close to me.{NOTE:…私はお前をそばに置き続けた。}
 Dialogue: 0,0:22:08.76,0:22:10.85,Default,Anvis,0,0,0,,{TIME:1328765,1330851}Do you know why?{NOTE:なぜだか分かるか？}
 Dialogue: 0,0:22:12.89,0:22:16.85,Default,Anvis,0,0,0,,{TIME:1332894,1336857}Because I was sure you'd be useful some day.{NOTE:お前はいずれ役に立つと考えたからだ。}
-Dialogue: 0,0:22:16.85,0:22:22.15,Default,Anvis,0,0,0,,{TIME:1336857,1342153}As the only one who can make the Rite of Overlapping succeed, that is.{NOTE:重ね合わせの儀を成功させられるただ一人の者としてな。}
+Dialogue: 0,0:22:16.85,0:22:22.15,Default,Anvis,0,0,0,,{TIME:1336857,1342153}As the only one who can make\Nthe Rite of Overlapping succeed, that is.{NOTE:重ね合わせの儀を成功させられるただ一人の者としてな。}
 Dialogue: 0,0:22:22.15,0:22:23.48,Default,Gale,0,0,0,,{TIME:1342153,1343488}Don't!{NOTE:よせ！}
 Dialogue: 0,0:22:23.48,0:22:24.73,Default,Anvis,0,0,0,,{TIME:1343488,1344739}Relax.{NOTE:安心しろ。}
 Dialogue: 0,0:22:24.73,0:22:27.86,Default,Anvis,0,0,0,,{TIME:1344739,1347868}I won't kill your sister just yet.{NOTE:妹はまだ殺さない。}
