@@ -15,11 +15,11 @@ Video File: source/040.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main Dialog,Tahoma,40.0,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,-1,0,0,0,100.0,120.0,0.0,0.0,1,4.5,2.25,2,23,23,34,1
+Style: Default,Tahoma,40.0,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,-1,0,0,0,100.0,120.0,0.0,0.0,1,4.5,2.25,2,23,23,34,1
 Style: Signs,Tahoma,68.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,4.5,0.0,8,45,45,68,1
 Style: Episode Title,Tahoma,60.0,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,4.5,0.0,2,0,0,150,1
-Style: Small Signs,A-OTF Maru Folk Pro H,45.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,4.5,0.0,7,45,45,45,1
-Style: Medium Signs,A-OTF Maru Folk Pro H,56.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,4.5,0.0,8,45,45,68,1
+Style: Small Signs,Tahoma,45.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,4.5,0.0,7,45,45,45,1
+Style: Medium Signs,Tahoma,56.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,4.5,0.0,8,45,45,68,1
 Style: OP/ED English,Tahoma,35.0,&H00FFFFFF,&HFF0000FF,&HFF0C17A2,&H802627C6,-1,-1,0,0,100.0,120.0,0.0,0.0,1,4.5,2.25,7,23,23,10,1
 Style: OP/ED Romaji,Tahoma,30.0,&H00FFFFFF,&H019B9BA7,&HFF74522F,&H806F5135,-1,-1,0,0,100.0,120.0,0.0,0.0,1,4.5,2.25,7,23,23,44,1
 Style: Preview,Tahoma,50.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,4.5,0.0,9,0,80,25,1
@@ -27,12 +27,32 @@ Style: Credits1,Tahoma,30.0,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,-1,0,0,0
 Style: Credits2,Tahoma,30.0,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,-1,0,0,0,100.0,120.0,0.0,0.0,1,4.5,2.25,3,0,25,25,1
 Style: Flashback,Tahoma,40.0,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,-1,-1,0,0,100.0,120.0,0.0,0.0,1,4.5,2.25,2,23,23,34,1
 Style: Overlap,Tahoma,40.0,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,-1,0,0,0,100.0,120.0,0.0,0.0,1,4.5,2.25,8,23,23,20,1
-Style: Default,Arial,20.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,2.0,2.0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Intro
+Dialogue: 0,0:00:02.87,0:00:06.59,Default,,0,0,0,,{TIME:2878,6590}Beyblade!{NOTE:ﾍﾞｲﾌﾞﾚｰﾄﾞ！}
+Dialogue: 0,0:00:06.59,0:00:09.21,Default,,0,0,0,,{TIME:6590,9218}That is a boys' dream.{NOTE:それは少年たちの夢だ。}
+Dialogue: 0,0:00:09.21,0:00:11.55,Default,,0,0,0,,{TIME:9218,11553}Bladers around the world aiming at the top…{NOTE:世界中のﾌﾞﾚｰﾀﾞｰが頂点を目指し…}
+Dialogue: 0,0:00:11.55,0:00:15.05,Default,,0,0,0,,{TIME:11553,15057}…compete with each other in fierce battles.{NOTE:…競い合い魂をぶつけ合う。}
+Dialogue: 0,0:00:15.05,0:00:18.51,Default,,0,0,0,,{TIME:15057,18519}Turn! Repel! Jump!{NOTE:回せ！弾け！飛ばせ！}
+Dialogue: 0,0:00:18.51,0:00:20.31,Default,,0,0,0,,{TIME:18519,20312}Burst!{NOTE:ﾊﾞｰｽﾄさせろ！}
+Dialogue: 0,0:00:20.31,0:00:24.19,Default,,0,0,0,,{TIME:20312,24191}And then enjoy the glorious feeling of a victory.{NOTE:そしてつかみ取れ栄光の勝利を。}
+Dialogue: 0,0:00:24.19,0:00:29.86,Default,,0,0,0,,{TIME:24191,29863}{\t(4672,5672,\1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}If you enter the battle, you'll find a bright future for sure!{NOTE:戦いの向こうにｷﾐはきっと見つける。輝く未来を。}
 Comment: 0,0:00:30.53,0:00:30.53,Default,[chapter],0,0,0,,{TIME:30531,30531}Last episode summary
+Dialogue: 0,0:00:31.94,0:00:36.24,Default,,0,0,0,,{TIME:31949,36245}We came to the United States where the God Bladers' Cup was opened.{NOTE:俺たちはｺﾞｯﾄﾞﾌﾞﾚｰﾀﾞｰｽﾞｶｯﾌﾟが開催されるｱﾒﾘｶにやってきた。}
+Dialogue: 0,0:00:36.24,0:00:37.37,Default,,0,0,0,,{TIME:36245,37371}There I met…{NOTE:そこで俺は…}
+Dialogue: 0,0:00:37.37,0:00:39.45,Default,,0,0,0,,{TIME:37371,39456}Go, shoot!{NOTE:ｺﾞｰｼｭｰﾄ！}
+Dialogue: 0,0:00:39.45,0:00:42.96,Default,,0,0,0,,{TIME:39456,42960}…the former world champion called the Emperor of Underworld…{NOTE:ｱﾝﾀﾞｰﾜｰﾙﾄﾞの皇帝と呼ばれる元世界王者…}
+Dialogue: 0,0:00:42.96,0:00:45.33,Default,,0,0,0,,{TIME:42960,45337}…Kurz Baratier.{NOTE:…ｸﾙﾂ･ﾊﾞﾗﾃｨｴと出会ったんだ。}
+Dialogue: 0,0:00:45.33,0:00:47.46,Default,,0,0,0,,{TIME:45337,47464}I am the world champion.{NOTE:俺は世界王者だ。}
+Dialogue: 0,0:00:47.46,0:00:50.38,Default,,0,0,0,,{TIME:47464,50384}There is no one stronger than me.{NOTE:俺より強いやつは一人もいない。}
+Dialogue: 0,0:00:50.38,0:00:52.71,Default,,0,0,0,,{TIME:50384,52719}That's an old story.{NOTE:それは昔の話だ。}
+Dialogue: 0,0:00:54.42,0:00:55.72,Default,,0,0,0,,{TIME:54429,55722}Keep yapping, dog.{NOTE:ほざいてろ。}
+Dialogue: 0,0:00:59.85,0:01:03.93,Default,,0,0,0,,{TIME:59852,63939}And the God Bladers' Cup is about to begin!{NOTE:そしていよいよｺﾞｯﾄﾞﾌﾞﾚｰﾀﾞｰｽﾞｶｯﾌﾟが始まるんだ！}
+Dialogue: 0,0:01:06.40,0:01:10.48,Default,,0,0,0,,{TIME:66400,70487}Our special contestant, who entered in the last second…{NOTE:最後の一人にｴﾝﾄﾘｰされたｽﾍﾟｼｬﾙﾌﾞﾚｰﾀﾞｰは…}
+Dialogue: 0,0:01:10.48,0:01:17.03,Default,,0,0,0,,{TIME:70487,77035}…is the legendary world champion, Kurz Baratier!{NOTE:…伝説の世界王者ｸﾙﾂ･ﾊﾞﾗﾃｨｴ！}
+Dialogue: 0,0:01:17.03,0:01:17.99,Default,,0,0,0,,{TIME:77035,77995}Kurz!?{NOTE:ｸﾙﾂ！}
 Comment: 0,0:01:23.50,0:01:23.50,Default,[chapter],0,0,0,,{TIME:83500,83500}Opening
 Dialogue: 0,0:01:26.50,0:01:29.08,OP/ED English,,0,0,0,,{TIME:86503,89089}{\k33}{\k29}Burst! {\k29}Burst! {\k33}Burst! {\k29}Burst! {\k37}Burst! {\k12}Fi{\k54}nish!
 Dialogue: 0,0:01:29.08,0:01:31.13,OP/ED English,,0,0,0,,{TIME:89089,91133}{\k29}{\k29}Burst! {\k29}Burst! {\k33}Burst! {\k29}Bey{\k54}blade!
@@ -57,7 +77,7 @@ Dialogue: 0,0:02:13.21,0:02:16.51,OP/ED English,,0,0,0,,{TIME:133217,136512}and 
 Dialogue: 0,0:02:13.21,0:02:16.51,OP/ED Romaji,,0,0,0,,{TIME:133217,136512}{\k12}{\k33}Shū{\k25}to {\k66}wo {\k12}ha{\k20}na{\k16}tsu{\k12}ze {\k33}i{\k25}ma {\k25}su{\k33}gu {\k12}ni!
 Dialogue: 0,0:02:16.51,0:02:18.18,OP/ED English,,0,0,0,,{TIME:136512,138180}{\k20}{\k41}3, {\k29}2, {\k33}1, {\k37}Go {\k29}Shoot!
 Dialogue: 0,0:02:18.18,0:02:20.93,OP/ED English,,0,0,0,,{TIME:138180,140933}{\k29}{\k37}Bey{\k50}blade! {\k33}(Burst!) {\k37}Bey{\k41}blade! {\k45}(Shoot!)
-Dialogue: 0,0:02:20.93,0:02:23.06,OP/ED English,,0,0,0,,{TIME:140933,143060}A whole new world awaits!j
+Dialogue: 0,0:02:20.93,0:02:23.06,OP/ED English,,0,0,0,,{TIME:140933,143060}A whole new world awaits!
 Dialogue: 0,0:02:20.93,0:02:23.06,OP/ED Romaji,,0,0,0,,{TIME:140933,143060}{\k12}A{\k20}ra{\k16}ta{\k25}na{\k16}ru {\k12}se{\k16}ka{\k16}i {\k16}ga {\k12}ma{\k45}tsu
 Dialogue: 0,0:02:23.06,0:02:27.98,OP/ED English,,0,0,0,,{TIME:143060,147981}Battles like you've never seen before!
 Dialogue: 0,0:02:23.06,0:02:27.98,OP/ED Romaji,,0,0,0,,{TIME:143060,147981}{\k20}{\k24}Ma{\k18}da {\k14}mi{\k33}ta {\k14}ko{\k18}to {\k14}na{\k14}i {\k16}ba{\k23}to{\k45}ru {\k19}mi{\k36}se{\k34}tsu{\k50}ke{\k47}te {\k18}ya{\k35}re
@@ -71,11 +91,286 @@ Dialogue: 0,0:02:43.74,0:02:46.50,OP/ED English,,0,0,0,,{TIME:163747,166500}{\k5
 Dialogue: 0,0:02:46.50,0:02:49.04,OP/ED English,,0,0,0,,{TIME:166500,169044}{\k20}{\k30}BURST {\k26}BURST {\k26}BURST {\k40}BEY{\k116}BLADE
 Dialogue: 0,0:02:49.04,0:02:53.54,OP/ED English,,0,0,0,,{TIME:169044,173549}{\k30}{\k30}BURST {\k30}BURST {\k30}BURST {\k27}3, {\k24}2, {\k25}1 {\k35}GO {\k202}SHOOT!
 Comment: 0,0:02:53.54,0:02:53.54,Default,[chapter],0,0,0,,{TIME:173549,173549}Part A
+Dialogue: 0,0:02:53.54,0:02:58.17,Episode Title,(sign),0,0,0,,{TIME:173549,178178}The Tyrant! Beat Kukulcan!!{NOTE:暴君！\\Nビートククルカン！！}
+Dialogue: 0,0:02:54.88,0:02:58.17,Default,,0,0,0,,{TIME:174883,178178}The Tyrant! Beat Kukulcan!!{NOTE:暴君！\\Nビートククルカン！！}
+Dialogue: 0,0:02:59.80,0:03:02.85,Default,,0,0,0,,{TIME:179805,182850}Okay, boys and girls!{NOTE:ｵｰｹｰﾎﾞｰｲｽﾞｱﾝﾄﾞｶﾞｰﾙｽﾞ！}
+Dialogue: 0,0:03:02.85,0:03:07.85,Default,,0,0,0,,{TIME:182850,187855}Here's the God Bladers' Cup group A line-up!{NOTE:ｺﾞｯﾄﾞﾌﾞﾚｰﾀﾞｰｽﾞｶｯﾌﾟＡｸﾞﾙｰﾌﾟの対戦ｶｰﾄﾞを発表するぜ！}
+Dialogue: 0,0:03:07.85,0:03:10.48,Default,,0,0,0,,{TIME:187855,190482}The first match…{NOTE:第１試合は…}
+Dialogue: 0,0:03:10.48,0:03:13.90,Default,,0,0,0,,{TIME:190482,193902}Kurz Baratier VS Aoi Valt!{NOTE:ｸﾙﾂ･ﾊﾞﾗﾃｨｴＶＳ蒼井ﾊﾞﾙﾄ！}
+Dialogue: 0,0:03:13.90,0:03:15.02,Default,,0,0,0,,{TIME:193902,195028}Kurz!{NOTE:ｸﾙﾂ！}
+Dialogue: 0,0:03:18.07,0:03:23.70,Default,,0,0,0,,{TIME:198073,203704}{\t(4631,5631,\1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}I won't forgive a battle where one steals their opponents' Bey!{NOTE:負けた相手のﾍﾞｲを奪うﾊﾞﾄﾙなんて俺絶対許さねえ}
+Dialogue: 0,0:03:24.20,0:03:25.87,Default,,0,0,0,,{TIME:204204,205873}Are you okay, Bro?{NOTE:ｱﾆｷ大丈夫？}
+Dialogue: 0,0:03:25.87,0:03:28.83,Default,,0,0,0,,{TIME:205873,208834}Yeah! Doesn't matter who he is! I'm gonna win!{NOTE:ああ！誰だろうと俺は勝つぜ！}
+Dialogue: 0,0:03:28.83,0:03:35.17,Default,,0,0,0,,{TIME:208834,215174}Then, the second game: Red Eye VS Boa Alcacer.{NOTE:そして続く第２試合ﾚｯﾄﾞｱｲＶＳﾎﾞｱ･ｱﾙｶｾﾙ。}
+Dialogue: 0,0:03:35.17,0:03:37.75,Default,,0,0,0,,{TIME:215174,217759}Shu.{NOTE:ｼｭｳ。}
+Dialogue: 0,0:03:37.75,0:03:40.17,Default,,0,0,0,,{TIME:217759,220179}And then, and then…!\NThe third match…{NOTE:更に更に更に第３試合は}
+Dialogue: 0,0:03:40.17,0:03:44.55,Default,,0,0,0,,{TIME:220179,224558}Cooza Ackerman VS Norman Tarver.{NOTE:ｸｰｻﾞ･ｱｯｶｰﾏﾝＶＳﾉｰﾏﾝ･ﾀｰﾊﾞｰ。}
+Dialogue: 0,0:03:44.55,0:03:46.81,Default,,0,0,0,,{TIME:224558,226810}So Norman Tarver's my opponent?{NOTE:ｵｲﾗの相手はﾉｰﾏﾝ･ﾀｰﾊﾞｰか。}
+Dialogue: 0,0:03:46.81,0:03:48.47,Default,,0,0,0,,{TIME:226810,228478}Tarver!{NOTE:ﾀｰﾊﾞｰか！}
+Dialogue: 0,0:03:48.47,0:03:50.31,Default,,0,0,0,,{TIME:228478,230314}So what kind of guy is he?{NOTE:てどんなやつだ？}
+Dialogue: 0,0:03:50.60,0:03:56.27,Default,,0,0,0,,{TIME:230606,236278}Group A is absolutely incredible!\NYou can't look away even for a moment!{NOTE:Ａｸﾞﾙｰﾌﾟ一瞬たりとも目が離せない最高の対戦ｶｰﾄﾞだ！}
+Dialogue: 0,0:03:56.27,0:03:58.69,Default,,0,0,0,,{TIME:236278,238697}{\t(1419,2419,\1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)\fad(0,300)}Don't miss it!{NOTE:ﾄﾞﾝﾄﾐｽｲｯﾄ！}
+Dialogue: 0,0:03:59.86,0:04:02.86,Default,,0,0,0,,{TIME:239865,242868}– That was so cool.\N– Move, move!{NOTE:—あれかっこよかったよな。\\N—どいたどいた！}
+Dialogue: 0,0:04:02.86,0:04:06.70,Default,,0,0,0,,{TIME:242868,246705}Make way for Emperor Kurz!{NOTE:皇帝ｸﾙﾂ様のお通りだ！}
+Dialogue: 0,0:04:18.75,0:04:20.71,Default,,0,0,0,,{TIME:258759,260719}Good, good.{NOTE:愉快愉快…}
+Dialogue: 0,0:04:20.71,0:04:21.22,Default,,0,0,0,,{TIME:260719,261220}Huh?{NOTE:ん？}
+Dialogue: 0,0:04:24.34,0:04:26.05,Default,,0,0,0,,{TIME:264348,266058}– Come!\N– Yeah!{NOTE:—おい！\\N—おう！}
+Dialogue: 0,0:04:35.69,0:04:39.82,Default,,0,0,0,,{TIME:275692,279821}Red Eye. We finally meet.{NOTE:ﾚｯﾄﾞｱｲようやく会えたな。}
+Dialogue: 0,0:04:39.82,0:04:43.07,Default,,0,0,0,,{TIME:279821,283075}You seem to have destroyed my playground.{NOTE:俺の遊び場を荒らしてくれたそうじゃないか。}
+Dialogue: 0,0:04:55.42,0:04:57.33,Default,,0,0,0,,{TIME:295420,297339}{\t(919,1919,\1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}Is it over already?{NOTE:もう終わりか？}
+Dialogue: 0,0:04:57.71,0:05:02.59,Default,,0,0,0,,{TIME:297714,302594}I came all the way here to thank you properly.{NOTE:礼を言いにわざわざ来てやったぞ。}
+Dialogue: 0,0:05:02.59,0:05:06.09,Default,,0,0,0,,{TIME:302594,306098}Hey, don't just ignore us!{NOTE:おいｼｶﾄこいてんじゃねえぞこら！}
+Dialogue: 0,0:05:06.64,0:05:08.60,Default,,0,0,0,,{TIME:306640,308600}Hey!{NOTE:お～い！}
+Dialogue: 0,0:05:08.60,0:05:10.93,Default,,0,0,0,,{TIME:308600,310936}Trouble, Valt!{NOTE:大変だﾊﾞﾙﾄ！}
+Dialogue: 0,0:05:10.93,0:05:12.35,Default,,0,0,0,,{TIME:310936,312354}Huh?{NOTE:え？}
+Dialogue: 0,0:05:15.39,0:05:17.52,Default,,0,0,0,,{TIME:315399,317526}Red Eye.{NOTE:ﾚｯﾄﾞｱｲ。}
+Dialogue: 0,0:05:17.52,0:05:20.40,Default,,0,0,0,,{TIME:317526,320404}Those eyes of yours…{NOTE:お前のその目…}
+Dialogue: 0,0:05:20.40,0:05:25.90,Default,,0,0,0,,{TIME:320404,325909}I can't say I dislike your eyes, who have seen the deep darkness.{NOTE:その深い闇を見てきた目俺は嫌いじゃないぞ。}
+Dialogue: 0,0:05:25.90,0:05:26.57,Default,,0,0,0,,{TIME:325909,326577}However…{NOTE:だがな…}
+Dialogue: 0,0:05:26.57,0:05:27.87,Default,,0,0,0,,{TIME:326577,327870}Shu!{NOTE:ｼｭｳ！}
+Dialogue: 0,0:05:30.78,0:05:31.91,Default,,0,0,0,,{TIME:330789,331915}Huh?!{NOTE:ああ!?}
+Dialogue: 0,0:05:31.91,0:05:33.00,Default,,0,0,0,,{TIME:331915,333000}Those guys!{NOTE:あいつら！}
+Dialogue: 0,0:05:33.00,0:05:34.91,Default,,0,0,0,,{TIME:333000,334918}What are you doing to Shu!?{NOTE:ｼｭｳに何の用だ！}
+Dialogue: 0,0:05:34.91,0:05:36.04,Default,,0,0,0,,{TIME:334918,336044}Tch!{NOTE:ﾁｯ！}
+Dialogue: 0,0:05:39.17,0:05:43.01,Default,,0,0,0,,{TIME:339173,343010}Wait. I haven't finished talking to you yet.{NOTE:待て。まだ話は終わってない。}
+Dialogue: 0,0:05:44.05,0:05:46.72,Default,,0,0,0,,{TIME:344052,346722}Let go of Shu!{NOTE:ｼｭｳを放せ！}
+Dialogue: 0,0:05:51.97,0:05:53.89,Default,,0,0,0,,{TIME:351977,353896}You overgrown pigeon! Ow, ow!{NOTE:待ちやがれ！ｲﾀﾀﾀｯ。}
+Dialogue: 0,0:05:53.89,0:05:54.93,Default,,0,0,0,,{TIME:353896,354938}Good, Carl!{NOTE:いいぞｶｰﾙ！}
+Dialogue: 0,0:05:54.93,0:05:56.31,Default,,0,0,0,,{TIME:354938,356315}Show them!{NOTE:やっちまえ！}
+Dialogue: 0,0:06:02.02,0:06:04.23,Default,,0,0,0,,{TIME:362029,364239}Now's our chance!{NOTE:今のうち！}
+Dialogue: 0,0:06:04.23,0:06:06.32,Default,,0,0,0,,{TIME:364239,366325}You're already dead, punks!{NOTE:てめえら生かしちゃおかねえぞ！}
+Dialogue: 0,0:06:06.32,0:06:08.07,Default,,0,0,0,,{TIME:366325,368076}Hey! What's going on here!?{NOTE:こら何を騒いでる！}
+Dialogue: 0,0:06:10.37,0:06:12.24,Default,,0,0,0,,{TIME:370370,372247}Shu!{NOTE:ｼｭｳ！}
+Dialogue: 0,0:06:12.24,0:06:14.79,Default,,0,0,0,,{TIME:372247,374791}Did you see the lineup?{NOTE:組み合わせ見たか？}
+Dialogue: 0,0:06:14.79,0:06:16.71,Default,,0,0,0,,{TIME:374791,376710}We're both in the group A!{NOTE:同じＡｸﾞﾙｰﾌﾟだったな。}
+Dialogue: 0,0:06:20.13,0:06:25.42,Default,,0,0,0,,{TIME:380130,385427}I'm looking forward to fighting you\Nand seeing what you think of me.{NOTE:お前が俺をどう思ってようと戦うのを楽しみにしてる。}
+Dialogue: 0,0:06:25.42,0:06:28.26,Default,,0,0,0,,{TIME:385427,388263}I'm going to defeat Red Eye.{NOTE:ﾚｯﾄﾞｱｲを倒すのは俺だ。}
+Dialogue: 0,0:06:31.18,0:06:34.14,Default,,0,0,0,,{TIME:391183,394144}Oh, you're my opponent!{NOTE:あっｵｲﾗの対戦相手。}
+Dialogue: 0,0:06:34.14,0:06:36.02,Default,,0,0,0,,{TIME:394144,396021}As far as I remember, it was… Norman…?{NOTE:確かﾉｰﾏﾝ…}
+Dialogue: 0,0:06:36.02,0:06:38.31,Default,,0,0,0,,{TIME:396021,398315}It's Norman Tarver.{NOTE:ﾉｰﾏﾝ･ﾀｰﾊﾞｰだ。}
+Dialogue: 0,0:06:38.31,0:06:41.98,Default,,0,0,0,,{TIME:398315,401985}{\t(3254,3754,\1c&H101010&\3c&H101010&\4c&H101010&)}Although I was called "Golden Eye" in the Snake Pit.{NOTE:ﾌｯｽﾈｰｸﾋﾟｯﾄではｺﾞｰﾙﾄﾞｱｲと呼ばれていたが。}
+Dialogue: 0,0:06:43.73,0:06:44.73,Default,,0,0,0,,{TIME:403737,404738}Ah!{NOTE:あっ！}
+Dialogue: 0,0:06:44.73,0:06:47.19,Default,,0,0,0,,{TIME:404738,407199}That glittering mask!{NOTE:あのｷﾗｷﾗ仮面！}
+Dialogue: 0,0:06:50.28,0:06:51.78,Default,,0,0,0,,{TIME:410285,411787}Shu!{NOTE:ｼｭｳ！}
+Dialogue: 0,0:06:56.83,0:07:00.83,Default,,0,0,0,,{TIME:416834,420838}Red Eye is my prey. Remember that.{NOTE:ﾚｯﾄﾞｱｲは俺の獲物だ。覚えておけ。}
+Dialogue: 0,0:07:00.83,0:07:06.38,Default,,0,0,0,,{TIME:420838,426385}Looks like the three from the Snake Pit also entered this Cup.{NOTE:この大会にｽﾈｰｸﾋﾟｯﾄから３人も出場してるってことかよ。}
+Dialogue: 0,0:07:06.38,0:07:09.13,Default,,0,0,0,,{TIME:426385,429137}I won't lose to you, Norman Tarver.{NOTE:負けねえぞﾉｰﾏﾝ･ﾀｰﾊﾞｰ。}
+Dialogue: 0,0:07:10.38,0:07:13.14,Default,,0,0,0,,{TIME:430389,433141}Group A and group B…{NOTE:ＡｸﾞﾙｰﾌﾟＢｸﾞﾙｰﾌﾟともに}
+Dialogue: 0,0:07:13.14,0:07:17.06,Default,,0,0,0,,{TIME:433141,437062}Only one representative of each group can participate in the tournament finals.{NOTE:上位２名だけが決勝ﾄｰﾅﾒﾝﾄに出られるのね。}
+Dialogue: 0,0:07:17.06,0:07:20.31,Default,,0,0,0,,{TIME:437062,440315}It's clear to me who's going to win.{NOTE:誰が勝ちあがっても不思議ではない。}
+Dialogue: 0,0:07:20.31,0:07:24.31,Default,,0,0,0,,{TIME:440315,444319}The Bladers are lined up pretty unevenly.{NOTE:実力者ぞろいのﾌﾞﾚｰﾀﾞｰたちだからのぅ。}
+Dialogue: 0,0:07:24.31,0:07:28.57,Default,,0,0,0,,{TIME:444319,448574}I'd be glad if they all could make it…{NOTE:あの子たちが全員残れたら嬉しいんだけれど…}
+Dialogue: 0,0:07:28.57,0:07:31.36,Default,,0,0,0,,{TIME:448574,451368}Do you believe in them?{NOTE:連中のことを信じておらんのか？}
+Dialogue: 0,0:07:31.36,0:07:34.53,Default,,0,0,0,,{TIME:451368,454538}A lot has happened, right? With Valt.{NOTE:いろいろなことがあったでしょﾊﾞﾙﾄ。}
+Dialogue: 0,0:07:36.20,0:07:38.12,Default,,0,0,0,,{TIME:456206,458125}It's not a laughing matter.{NOTE:笑い事じゃないわよ。}
+Dialogue: 0,0:07:38.12,0:07:40.41,Default,,0,0,0,,{TIME:458125,460419}Valt will be fine.{NOTE:ﾊﾞﾙﾄなら大丈夫じゃ。}
+Dialogue: 0,0:07:40.41,0:07:41.37,Default,,0,0,0,,{TIME:460419,461378}Huh?{NOTE:え？}
+Dialogue: 0,0:07:41.37,0:07:45.17,Default,,0,0,0,,{TIME:461378,465174}I believe in our work.{NOTE:わしらの仕事は信じてやることじゃ。}
+Dialogue: 0,0:07:46.46,0:07:52.05,Default,,0,0,0,,{TIME:466466,472055}Golden Eye. Do you have what it takes to crush Red Eye?{NOTE:ｺﾞｰﾙﾄﾞｱｲﾚｯﾄﾞｱｲを潰せ。できるな？}
+Dialogue: 0,0:07:52.05,0:07:53.59,Default,,0,0,0,,{TIME:472055,473599}Please leave it to me.{NOTE:お任せください。}
+Dialogue: 0,0:07:53.59,0:07:55.51,Default,,0,0,0,,{TIME:473599,475517}I believe in you.{NOTE:信じているぞ。}
+Dialogue: 0,0:07:55.51,0:07:59.98,Default,,0,0,0,,{TIME:475517,479980}I'm sure you can climb to the top just like you did in the Snake Pit.{NOTE:お前ならｽﾈｰｸﾋﾟｯﾄのﾄｯﾌﾟに返り咲くことができる。}
+Dialogue: 0,0:08:01.27,0:08:05.73,Default,,0,0,0,,{TIME:481273,485736}I'll show you who is the strongest in the Snake Pit.{NOTE:ｽﾈｰｸﾋﾟｯﾄで誰が一番強いのか証明してみせます。}
+Dialogue: 0,0:08:05.73,0:08:08.73,Default,,0,0,0,,{TIME:485736,488739}Heh. I'm looking forward to it.{NOTE:ﾌｯ楽しみにしているぞ。}
+Dialogue: 0,0:08:09.36,0:08:11.57,Default,,0,0,0,,{TIME:489364,491575}Go, shoot!{NOTE:ｺﾞｰｼｭｰﾄ！}
+Dialogue: 0,0:08:11.57,0:08:15.74,Default,,0,0,0,,{TIME:491575,495746}3, 2, 1. Go, shoot!{NOTE:ｽﾘｰﾂｰﾜﾝ。ｺﾞｰｼｭｰﾄ！}
+Dialogue: 0,0:08:20.95,0:08:24.25,Default,,0,0,0,,{TIME:500959,504254}Alright! Don't hold back, Hickson!{NOTE:よしﾋｸｿﾝｶﾞﾝｶﾞﾝきてくれ！}
+Dialogue: 0,0:08:24.25,0:08:26.13,Default,,0,0,0,,{TIME:504254,506131}I can, if you want me to…{NOTE:ｶﾞﾝｶﾞﾝはかまわないが…}
+Dialogue: 0,0:08:26.13,0:08:29.67,Default,,0,0,0,,{TIME:506131,509676}…but what kind of measures are you going to take against Kukulcan?{NOTE:ﾋﾞｰﾄｸｸﾙｶﾝを相手にどんな対策でいくつもりなんだ？}
+Dialogue: 0,0:08:29.67,0:08:32.59,Default,,0,0,0,,{TIME:509676,512596}It doesn't matter now. Come on, let's battle!{NOTE:そんなこといいから早くやろうぜ。}
+Dialogue: 0,0:08:32.59,0:08:36.35,Default,,0,0,0,,{TIME:512596,516350}Valt! Beat Kukulcan is an attack type.{NOTE:ﾊﾞﾙﾄﾋﾞｰﾄｸｸﾙｶﾝはｱﾀｯｸﾀｲﾌﾟだ。}
+Dialogue: 0,0:08:36.35,0:08:39.68,Default,,0,0,0,,{TIME:516350,519686}Besides, he's good at high-speed attacks!{NOTE:それにあいつは高速ｱﾀｯｸを得意にしてやがる！}
+Dialogue: 0,0:08:39.68,0:08:44.48,Default,,0,0,0,,{TIME:519686,524483}High-speed attacks or whatever,\NI'm gonna wipe the floor with him!{NOTE:高速ｱﾀｯｸだろうがなんだろうが俺はぜってえに勝つ！}
+Dialogue: 0,0:08:44.85,0:08:47.36,Default,,0,0,0,,{TIME:524858,527361}– Take it seriously, Valt—\N– Ah, geez!{NOTE:—あんなぁﾊﾞﾙﾄ…\\N—あ～もう！}
+Dialogue: 0,0:08:47.36,0:08:49.44,Default,,0,0,0,,{TIME:527361,529446}I told you I'm gonna win!{NOTE:勝つって言ってんだろ！}
+Dialogue: 0,0:08:49.44,0:08:52.65,Default,,0,0,0,,{TIME:529446,532658}I understand how you're pissed off at him.{NOTE:あの野郎を許せねえって気持ちはわかるけどよ。}
+Dialogue: 0,0:08:52.65,0:08:54.74,Default,,0,0,0,,{TIME:532658,534743}But think about it calmly.{NOTE:少しは冷静になれって。}
+Dialogue: 0,0:08:54.74,0:08:56.45,Default,,0,0,0,,{TIME:534743,536453}I am calm!{NOTE:俺は冷静だ！}
+Dialogue: 0,0:08:56.45,0:08:59.54,Default,,0,0,0,,{TIME:536453,539540}Right. We can see that.{NOTE:その言い方は泰然自若とは思えない。}
+Dialogue: 0,0:08:59.54,0:09:01.50,Default,,0,0,0,,{TIME:539540,541500}What the hell you talkin' about!?{NOTE:意味わかんねえよ！}
+Dialogue: 0,0:09:01.75,0:09:03.50,Default,,0,0,0,,{TIME:541750,543502}Go, shoot!{NOTE:ｺﾞｰｼｭｰﾄ！}
+Dialogue: 0,0:09:09.80,0:09:12.21,Default,,0,0,0,,{TIME:549800,552219}Go, shoot!{NOTE:ｺﾞｰｼｭｰﾄ！}
+Dialogue: 0,0:09:13.80,0:09:16.26,Default,,0,0,0,,{TIME:553804,556265}It looks like he got stronger again.{NOTE:また強くなったようだな。}
+Dialogue: 0,0:09:16.26,0:09:19.26,Default,,0,0,0,,{TIME:556265,559268}But he's still weaker than me.{NOTE:だが実力は俺のほうが上だ。}
+Dialogue: 0,0:09:32.53,0:09:34.53,Default,,0,0,0,,{TIME:572531,574533}Can I have a minute?{NOTE:ちょっといいですか。}
+Dialogue: 0,0:09:36.03,0:09:37.95,Default,,0,0,0,,{TIME:576034,577953}Golden Eye.{NOTE:ｺﾞｰﾙﾄﾞｱｲ。}
+Dialogue: 0,0:09:37.95,0:09:41.54,Default,,0,0,0,,{TIME:577953,581540}Did you become Ashram's tool?{NOTE:あなたはｱｼｭﾗﾑの道具に成り下がったのですか？}
+Dialogue: 0,0:09:41.54,0:09:42.58,Default,,0,0,0,,{TIME:581540,582583}What?{NOTE:なんだと！}
+Dialogue: 0,0:09:44.83,0:09:49.63,Default,,0,0,0,,{TIME:584835,589631}Boa. Kill Red Eye.{NOTE:ﾎﾞｱよ。ﾚｯﾄﾞｱｲを潰せ。}
+Dialogue: 0,0:09:49.63,0:09:52.84,Default,,0,0,0,,{TIME:589631,592843}You can defeat him.{NOTE:お前ならﾚｯﾄﾞｱｲを倒せる。}
+Dialogue: 0,0:09:52.84,0:09:54.34,Default,,0,0,0,,{TIME:592843,594344}Master Ashram!{NOTE:ｱｼｭﾗﾑ様！}
+Dialogue: 0,0:09:54.34,0:09:56.38,Default,,0,0,0,,{TIME:594344,596388}What is it?{NOTE:なんだ？}
+Dialogue: 0,0:09:56.38,0:10:01.39,Default,,0,0,0,,{TIME:596388,601393}Am I just another of your tools to obtain the strongest Bey?{NOTE:俺も最強のﾍﾞｲを手に入れるための道具なのですか？}
+Dialogue: 0,0:10:01.39,0:10:02.93,Default,,0,0,0,,{TIME:601393,602936}What might you be talking about?{NOTE:なんの話だ？}
+Dialogue: 0,0:10:05.31,0:10:08.19,Default,,0,0,0,,{TIME:605314,608192}I'm counting on you, Boa.{NOTE:頼んだぞﾎﾞｱ。}
+Dialogue: 0,0:10:08.19,0:10:10.65,Default,,0,0,0,,{TIME:608192,610651}Do not let me down.{NOTE:私を失望させるな))}
+Dialogue: 0,0:10:13.98,0:10:16.28,Default,,0,0,0,,{TIME:613989,616283}I won't be a tool.{NOTE:俺は道具にはなりません。}
+Dialogue: 0,0:10:16.28,0:10:19.62,Default,,0,0,0,,{TIME:616283,619620}Heh. I'm the same, Boa.{NOTE:ﾌｯ俺も同じだﾎﾞｱ。}
+Dialogue: 0,0:10:20.87,0:10:25.12,Default,,0,0,0,,{TIME:620871,625125}I'm not interested in Ashram's project.{NOTE:俺はｱｼｭﾗﾑのﾌﾟﾛｼﾞｪｸﾄなんかに興味はない。}
+Dialogue: 0,0:10:25.12,0:10:27.54,Default,,0,0,0,,{TIME:625125,627544}I'm only interested in Red Eye.{NOTE:興味があるのはﾚｯﾄﾞｱｲのみ。}
+Dialogue: 0,0:10:30.88,0:10:32.71,Default,,0,0,0,,{TIME:630881,632716}What?{NOTE:なんだ？}
+Dialogue: 0,0:10:32.71,0:10:34.42,Default,,0,0,0,,{TIME:632716,634426}I'm the one who'll take Red Eye down.{NOTE:ﾚｯﾄﾞｱｲを倒すのは}
+Dialogue: 0,0:10:34.42,0:10:35.42,Default,,0,0,0,,{TIME:634426,635427}No, it's me.{NOTE:—俺です。\\N—俺だ。}
+Dialogue: 0,0:10:36.84,0:10:38.76,Default,,0,0,0,,{TIME:636845,638764}I won't lose to you either!{NOTE:あなたにも負けません！}
+Dialogue: 0,0:10:38.76,0:10:41.60,Default,,0,0,0,,{TIME:638764,641600}Heh. You took the words right out of my mouth.{NOTE:ﾌｯこっちのｾﾘﾌだ。}
+Dialogue: 0,0:10:46.31,0:10:48.27,Default,,0,0,0,,{TIME:646313,648273}Once more. One more time!{NOTE:もう一回だもう一回！}
+Dialogue: 0,0:10:48.27,0:10:50.56,Default,,0,0,0,,{TIME:648273,650567}Cool off your head.{NOTE:おめえ頭冷やせよ。}
+Dialogue: 0,0:10:50.56,0:10:51.94,Default,,0,0,0,,{TIME:650567,651944}Clear your mind.{NOTE:心頭滅却。}
+Dialogue: 0,0:10:51.94,0:10:54.02,Default,,0,0,0,,{TIME:651944,654029}Again, what you were talking about?!{NOTE:だから意味わかんねえって！}
+Dialogue: 0,0:10:54.02,0:10:57.19,Default,,0,0,0,,{TIME:654029,657199}Next one's gonna be super strong!{NOTE:次もｶﾞﾝｶﾞﾝいくぜ！}
+Dialogue: 0,0:10:57.19,0:10:59.53,Default,,0,0,0,,{TIME:657199,659535}Motivation won't get you anywhere.{NOTE:やる気が空回りしてるな。}
+Dialogue: 0,0:10:59.53,0:11:02.37,Default,,0,0,0,,{TIME:659535,662371}You can't win any battle like that.{NOTE:そんなんじゃ勝てるﾊﾞﾄﾙも勝てやしねえぞ。}
+Dialogue: 0,0:11:08.75,0:11:11.00,Default,,0,0,0,,{TIME:668752,671004}So that's Valt's opponent, huh…?{NOTE:ﾊﾞﾙﾄの相手はこいつか。}
+Dialogue: 0,0:11:11.00,0:11:15.00,Default,,0,0,0,,{TIME:671004,675008}Wait, since when I worry about other people?{NOTE:てなに人の心配してんだかよ俺は…}
+Dialogue: 0,0:11:16.21,0:11:17.88,Default,,0,0,0,,{TIME:676218,677886}Xhakuenji Kaiza.{NOTE:灼炎寺ｶｲｻﾞ。}
+Dialogue: 0,0:11:21.89,0:11:23.55,Default,,0,0,0,,{TIME:681890,683559}What…?{NOTE:なん…だと？}
+Dialogue: 0,0:11:29.48,0:11:32.65,Default,,0,0,0,,{TIME:689481,692651}You look very focused and grim.{NOTE:何を夢中んなって見とるんか思たら…}
+Dialogue: 0,0:11:32.65,0:11:36.32,Default,,0,0,0,,{TIME:692651,696321}No matter how I look, you're researching something.{NOTE:…顔に似合わず研究熱心なんやな。}
+Dialogue: 0,0:11:36.32,0:11:37.40,Default,,0,0,0,,{TIME:696321,697406}You punk…{NOTE:てめえ！}
 Comment: 0,0:11:39.53,0:11:39.53,Default,[chapter],0,0,0,,{TIME:699533,699533}Eyecatch
 Comment: 0,0:11:44.53,0:11:44.53,Default,[chapter],0,0,0,,{TIME:704538,704538}Eyecatch
 Comment: 0,0:11:49.54,0:11:49.54,Default,[chapter],0,0,0,,{TIME:709543,709543}Part B
+Dialogue: 0,0:11:50.29,0:11:53.42,Default,,0,0,0,,{TIME:710294,713422}Wakiya. What did you come here for?{NOTE:ﾜｷﾔてめえ何しに来やがった？}
+Dialogue: 0,0:11:53.42,0:11:57.21,Default,,0,0,0,,{TIME:713422,717217}You look lonely as usual.{NOTE:お前こそ相変わらず友達おらへんようやな。}
+Dialogue: 0,0:11:58.17,0:12:00.63,Default,,0,0,0,,{TIME:718177,720637}You're up with Xhaka?{NOTE:対戦相手はｼｬｶなんやて？}
+Dialogue: 0,0:12:00.63,0:12:04.51,Default,,0,0,0,,{TIME:720637,724516}There is something I noticed by fighting him.{NOTE:わいはあいつと戦って気づいたことがあるんや。}
+Dialogue: 0,0:12:04.51,0:12:06.93,Default,,0,0,0,,{TIME:724516,726935}What are you talking about?{NOTE:だから何だってんだよ？}
+Dialogue: 0,0:12:06.93,0:12:12.14,Default,,0,0,0,,{TIME:726935,732149}Look. I can tell you how to defeat against Sieg Excalibur.{NOTE:そやなｼﾞｰｸｴｸｽｶﾘﾊﾞｰ対策教えたってもええで。}
+Dialogue: 0,0:12:12.14,0:12:13.19,Default,,0,0,0,,{TIME:732149,733192}Huh?{NOTE:はぁ？}
+Dialogue: 0,0:12:16.82,0:12:19.53,Default,,0,0,0,,{TIME:736820,739531}If I wanted you to tell me anything…{NOTE:てめえが教えてぇって言うんだったら…}
+Dialogue: 0,0:12:19.53,0:12:21.53,Default,,0,0,0,,{TIME:739531,741533}…I'd come and ask you, don't you think?{NOTE:聞いてやってもいいぜ。}
+Dialogue: 0,0:12:21.53,0:12:22.61,Default,,0,0,0,,{TIME:741533,742618}Huh?{NOTE:はぁ？}
+Dialogue: 0,0:12:22.61,0:12:24.45,Default,,0,0,0,,{TIME:742618,744453}But you want to know it, right?{NOTE:お前が聞きたいんやろ？}
+Dialogue: 0,0:12:24.45,0:12:26.37,Default,,0,0,0,,{TIME:744453,746371}Don't be so cocky.{NOTE:素直やないな。}
+Dialogue: 0,0:12:26.37,0:12:27.99,Default,,0,0,0,,{TIME:746371,747998}Heh. Who's cocky here?{NOTE:ﾌｯ。どっちがだ。}
+Dialogue: 0,0:12:27.99,0:12:30.41,Default,,0,0,0,,{TIME:747998,750417}Acting so big and wanting to coach me.{NOTE:教えたいくせしやがって。}
+Dialogue: 0,0:12:30.87,0:12:33.00,Default,,0,0,0,,{TIME:750876,753003}Go, shoot!{NOTE:ｺﾞｰｼｭｰﾄ！}
+Dialogue: 0,0:12:43.26,0:12:45.01,Default,,0,0,0,,{TIME:763263,765015}I'm so tired…{NOTE:疲れた。}
+Dialogue: 0,0:12:45.01,0:12:46.18,Default,,0,0,0,,{TIME:765015,766183}Once more.{NOTE:もう一本。}
+Dialogue: 0,0:12:46.18,0:12:47.72,Default,,0,0,0,,{TIME:766183,767726}Let's do it once more.{NOTE:もう一本やろうよ。}
+Dialogue: 0,0:12:47.72,0:12:49.43,Default,,0,0,0,,{TIME:767726,769436}Let me rest for a while.{NOTE:少し休ませてよ。}
+Dialogue: 0,0:12:51.14,0:12:54.48,Default,,0,0,0,,{TIME:771146,774483}But I'm up against the sparkling mask of the Snake Pit!{NOTE:あ～ｵｲﾗの相手はｽﾈｰｸﾋﾟｯﾄのｷﾗｷﾗ仮面なんだ。}
+Dialogue: 0,0:12:54.48,0:12:56.23,Default,,0,0,0,,{TIME:774483,776235}I don't have much time!{NOTE:休んでる暇なんかねえぞ。}
+Dialogue: 0,0:12:56.23,0:12:57.90,Default,,0,0,0,,{TIME:776235,777903}No time, no time!{NOTE:ねえぞねえぞ。}
+Dialogue: 0,0:13:03.49,0:13:05.49,Default,,0,0,0,,{TIME:783492,785494}See? That's what I was talking about.{NOTE:ほら言わんこっちゃない。}
+Dialogue: 0,0:13:05.49,0:13:07.66,Default,,0,0,0,,{TIME:785494,787663}You should rest for a while, too.{NOTE:あんたも少し休みなよ。}
+Dialogue: 0,0:13:07.66,0:13:12.75,Default,,0,0,0,,{TIME:787663,792751}Ah… I wonder what kind of Bey Norman is going to use?{NOTE:はぁ～それにしてもﾉｰﾏﾝはどんなﾍﾞｲを使うのかな？}
+Dialogue: 0,0:13:12.75,0:13:17.50,Default,,0,0,0,,{TIME:792751,797506}Yeah. You can't put up proper countermeasures without knowing that…{NOTE:うんそれがわからないと対策も立てられないね。}
+Dialogue: 0,0:13:21.42,0:13:23.01,Default,,0,0,0,,{TIME:801426,803011}Who is it?{NOTE:誰だろう？}
+Dialogue: 0,0:13:31.39,0:13:34.18,Default,,0,0,0,,{TIME:811395,814189}Oh, my old friend!{NOTE:おお～懐かしの友よ。}
+Dialogue: 0,0:13:34.18,0:13:36.85,Default,,0,0,0,,{TIME:814189,816859}Ah! C-Clio…{NOTE:ｹﾞｯ！ｸｸﾘｵ。}
+Dialogue: 0,0:13:36.85,0:13:39.27,Default,,0,0,0,,{TIME:816859,819278}Is he a vampire?!{NOTE:出た吸血鬼!?}
+Dialogue: 0,0:13:39.27,0:13:42.28,Default,,0,0,0,,{TIME:819278,822281}W-What brings you here?{NOTE:どどうしてここに？}
+Dialogue: 0,0:13:42.28,0:13:44.74,Default,,0,0,0,,{TIME:822281,824741}I came to lend you my power.{NOTE:おぬしに力を貸すために}
+Dialogue: 0,0:13:44.74,0:13:48.70,Default,,0,0,0,,{TIME:824741,828704}I awoke from a deep sleep and entered this realm.{NOTE:我は深き眠りから目覚めこの地に降臨した。}
+Dialogue: 0,0:13:48.70,0:13:51.16,Default,,0,0,0,,{TIME:828704,831164}Lend power? To me?{NOTE:力を貸す？ｵｲﾗに？}
+Dialogue: 0,0:13:51.16,0:13:55.66,Default,,0,0,0,,{TIME:831164,835669}It's to make a friend and climb to the top of the championship together.{NOTE:宿命の友を優勝という頂まで登らせるためだ。}
+Dialogue: 0,0:13:55.66,0:13:57.62,Default,,0,0,0,,{TIME:835669,837629}I will not fight!{NOTE:いざ戦わん！}
+Dialogue: 0,0:13:57.62,0:13:59.38,Default,,0,0,0,,{TIME:837629,839381}Fight? As in, with me?{NOTE:ｵｲﾗと戦うだって？}
+Dialogue: 0,0:13:59.38,0:14:01.21,Default,,0,0,0,,{TIME:839381,841216}If you don't try to defeat me…{NOTE:我を倒せぬようなら…}
+Dialogue: 0,0:14:01.21,0:14:05.55,Default,,0,0,0,,{TIME:841216,845554}…my dream of meeting at the tournament final will surely come true.{NOTE:…決勝ﾄｰﾅﾒﾝﾄに勝ち上がることは夢のまた夢。}
+Dialogue: 0,0:14:05.55,0:14:07.22,Default,,0,0,0,,{TIME:845554,847222}Go for it, Cooza.{NOTE:やりなよｸｰｻﾞ！}
+Dialogue: 0,0:14:07.22,0:14:08.43,Default,,0,0,0,,{TIME:847222,848432}Hmm…{NOTE:ん～。}
+Dialogue: 0,0:14:09.26,0:14:11.60,Default,,0,0,0,,{TIME:849266,851602}All right! Let's do it!{NOTE:よし！やってやる！}
+Dialogue: 0,0:14:11.60,0:14:13.72,Default,,0,0,0,,{TIME:851602,853729}Now I'm motivated!{NOTE:やる気ｽｲｯﾁ入った！}
+Dialogue: 0,0:14:15.02,0:14:16.81,Default,,0,0,0,,{TIME:855022,856815}Ready! Set!{NOTE:ﾚﾃﾞｨｰｾｯﾄ！}
+Dialogue: 0,0:14:16.81,0:14:19.90,Default,,0,0,0,,{TIME:856815,859902}3, 2, 1…{NOTE:ｽﾘｰﾂｰﾜﾝ！}
+Dialogue: 0,0:14:19.90,0:14:23.03,Default,,0,0,0,,{TIME:859902,863030}Go, shoot!{NOTE:ｺﾞｰｼｭｰﾄ！}
+Dialogue: 0,0:14:26.24,0:14:28.36,Default,,0,0,0,,{TIME:866241,868368}Go! Slide-on Shoot!{NOTE:いけｽﾗｲﾄﾞｵﾝｼｭｰﾄ！}
+Dialogue: 0,0:14:38.25,0:14:39.37,Default,,0,0,0,,{TIME:878253,879379}How is it?!{NOTE:これならどうだ！}
+Dialogue: 0,0:14:44.51,0:14:45.63,Default,,0,0,0,,{TIME:884510,885636}You're mine!{NOTE:もらった！}
+Dialogue: 0,0:14:45.63,0:14:47.63,Default,,0,0,0,,{TIME:885636,887638}Not yet!{NOTE:まだまだ。}
+Dialogue: 0,0:14:54.81,0:14:56.98,Default,,0,0,0,,{TIME:894811,896980}Tight Rope Dive!{NOTE:ﾀｲﾄﾛｰﾌﾟﾀﾞｲﾌﾞ！}
+Dialogue: 0,0:15:05.44,0:15:06.94,Default,,0,0,0,,{TIME:905447,906949}Think I'd fall for it?{NOTE:受けて立とう！}
+Dialogue: 0,0:15:24.84,0:15:27.26,Default,,0,0,0,,{TIME:924842,927261}All right!{NOTE:よっしゃ～！}
+Dialogue: 0,0:15:27.26,0:15:28.59,Default,,0,0,0,,{TIME:927261,928595}I can't believe it.{NOTE:まさか。}
+Dialogue: 0,0:15:28.59,0:15:29.97,Default,,0,0,0,,{TIME:928595,929972}You did it, Cooza!{NOTE:やったねｸｰｻﾞ。}
+Dialogue: 0,0:15:29.97,0:15:31.76,Default,,0,0,0,,{TIME:929972,931765}Yeah!{NOTE:おお！}
+Dialogue: 0,0:15:31.76,0:15:34.10,Default,,0,0,0,,{TIME:931765,934101}Thanks to you, I feel more confident.{NOTE:おかげで自信が湧いてきたぞ。}
+Dialogue: 0,0:15:34.10,0:15:36.06,Default,,0,0,0,,{TIME:934101,936061}Thank you, Clio.{NOTE:ｸﾘｵｻﾝｷｭｰな。}
+Dialogue: 0,0:15:36.06,0:15:40.06,Default,,0,0,0,,{TIME:936061,940065}Don't jest. A friend's pleasure is my pleasure.{NOTE:なんの。友の喜びすなわち我が喜び。}
+Dialogue: 0,0:15:40.06,0:15:42.98,Default,,0,0,0,,{TIME:940065,942985}However, I can't be satisfied with a defeat.{NOTE:とはいえ負けたままでは引き下がれまい。}
+Dialogue: 0,0:15:42.98,0:15:44.98,Default,,0,0,0,,{TIME:942985,944987}I challenge you to face me again!{NOTE:いざ今一度勝負！}
+Dialogue: 0,0:15:44.98,0:15:46.69,Default,,0,0,0,,{TIME:944987,946697}Sure! Let's fight, Clio!{NOTE:おうやろうぜｸﾘｵ！}
+Dialogue: 0,0:15:46.69,0:15:48.03,Default,,0,0,0,,{TIME:946697,948031}Hehe.{NOTE:ﾌﾌｯ。}
+Dialogue: 0,0:15:56.79,0:15:59.08,Default,,0,0,0,,{TIME:956790,959084}Let's win, partner.{NOTE:勝とうぜ相棒！}
+Dialogue: 0,0:16:14.18,0:16:16.72,Default,,0,0,0,,{TIME:974183,976727}I will destroy everything.{NOTE:すべてを破壊してやる。}
+Dialogue: 0,0:16:36.03,0:16:38.58,Default,,0,0,0,,{TIME:996038,998582}Okay, boys and girls!{NOTE:ｵｰｹｰﾎﾞｰｲｽﾞｱﾝﾄﾞｶﾞｰﾙｽﾞ！}
+Dialogue: 0,0:16:38.58,0:16:43.92,Default,,0,0,0,,{TIME:998582,1003921}The first game of God Bladers' Cup is about to begin!{NOTE:いよいよｺﾞｯﾄﾞﾌﾞﾚｰﾀﾞｰｽﾞｶｯﾌﾟ運命の第１試合が始まる！}
+Dialogue: 0,0:16:43.92,0:16:49.55,Default,,0,0,0,,{TIME:1003921,1009551}First game is group A's Aoi Valt VS Kurz Baratier!{NOTE:まずはＡｸﾞﾙｰﾌﾟ第１試合蒼井ﾊﾞﾙﾄＶＳｸﾙﾂ･ﾊﾞﾗﾃｨｴだ！}
+Dialogue: 0,0:16:49.55,0:16:51.88,Default,,0,0,0,,{TIME:1009551,1011887}– Hang in there, Bro!\N– Go for it!{NOTE:—ｱﾆｷ頑張れ！\\N—ﾊﾞﾙﾄ頑張れ！}
+Dialogue: 0,0:16:51.88,0:16:54.55,Default,,0,0,0,,{TIME:1011887,1014556}Don't get too carried away, Valt.{NOTE:ﾊﾞﾙﾄ熱くなりすぎんなよ。}
+Dialogue: 0,0:16:56.89,0:17:00.14,Default,,0,0,0,,{TIME:1016892,1020145}In the red corner: a promising wonder boy!{NOTE:赤ｺｰﾅｰ元気印のﾜﾝﾀﾞｰﾎﾞｰｲ。}
+Dialogue: 0,0:17:00.14,0:17:03.56,Default,,0,0,0,,{TIME:1020145,1023565}A miracle boy that just keeps growing: Aoi Valt!{NOTE:成長続けるﾐﾗｸﾙﾎﾞｰｲ蒼井ﾊﾞﾙﾄ！}
+Dialogue: 0,0:17:06.27,0:17:10.40,Default,,0,0,0,,{TIME:1026276,1030405}In the blue corner: a legendary Blader…{NOTE:青ｺｰﾅｰ伝説のﾌﾞﾚｰﾀﾞｰここに降臨。}
+Dialogue: 0,0:17:10.40,0:17:12.99,Default,,0,0,0,,{TIME:1030405,1032991}Emperor Kurz Baratier.{NOTE:皇帝ｸﾙﾂ･ﾊﾞﾗﾃｨｴ。}
+Dialogue: 0,0:17:15.53,0:17:21.54,Default,,0,0,0,,{TIME:1035536,1041542}We're going to witness the Emperor Kurz's battle in a few moments!{NOTE:今この瞬間我々は皇帝ｸﾙﾂの戦いぶりを目撃することになる。}
+Dialogue: 0,0:17:21.54,0:17:26.08,Default,,0,0,0,,{TIME:1041542,1046088}Will Aoi Valt be able to put up a decent fight?!{NOTE:対する蒼井ﾊﾞﾙﾄはどんな戦い方を見せてくれるのか。}
+Dialogue: 0,0:17:26.08,0:17:28.17,Default,,0,0,0,,{TIME:1046088,1048173}Don't miss it!{NOTE:ﾄﾞﾝﾄﾐｽｲｯﾄ！}
+Dialogue: 0,0:17:29.04,0:17:31.51,Default,,0,0,0,,{TIME:1049049,1051510}Let's play, boy.{NOTE:さあ遊ぼうか。}
+Dialogue: 0,0:17:31.51,0:17:33.05,Default,,0,0,0,,{TIME:1051510,1053053}"Play"…?{NOTE:遊ぶだと？}
+Dialogue: 0,0:17:33.05,0:17:34.63,Default,,0,0,0,,{TIME:1053053,1054638}Don't worry.{NOTE:心配するな。}
+Dialogue: 0,0:17:34.63,0:17:37.76,Default,,0,0,0,,{TIME:1054638,1057766}I'm not interested in your weak Bey.{NOTE:お前の弱いﾍﾞｲなどに興味はない。}
+Dialogue: 0,0:17:37.76,0:17:40.14,Default,,0,0,0,,{TIME:1057766,1060143}Don't make light of my Valkyrie!{NOTE:ｳﾞｧﾙｷﾘｰをﾊﾞｶにすんな！}
+Dialogue: 0,0:17:40.14,0:17:44.81,Default,,0,0,0,,{TIME:1060143,1064815}Wow! Aoi Valt's fighting spirit is burning hot!{NOTE:ﾜｵ蒼井ﾊﾞﾙﾄの闘志がﾒﾗﾒﾗと燃えている。}
+Dialogue: 0,0:17:44.81,0:17:48.65,Default,,0,0,0,,{TIME:1064815,1068652}He's unbelievable! He's going berserk again!{NOTE:たくあいつ頭に血がのぼったまんまじゃねえか。}
+Dialogue: 0,0:17:48.65,0:17:50.94,Default,,0,0,0,,{TIME:1068652,1070946}Anger is your enemy.{NOTE:怒りは敵と思え。}
+Dialogue: 0,0:17:50.94,0:17:52.90,Default,,0,0,0,,{TIME:1070946,1072906}Tch. What a simpleton.{NOTE:ﾁｯ単細胞が。}
+Dialogue: 0,0:17:52.90,0:17:56.70,Default,,0,0,0,,{TIME:1072906,1076702}Go hide under your mom's skirt, brat!{NOTE:ｶﾞｷはさっさと負けて引っ込め！}
+Dialogue: 0,0:17:58.49,0:17:59.87,Default,,0,0,0,,{TIME:1078495,1079871}First battle!{NOTE:ﾌｧｰｽﾄﾊﾞﾄﾙ！}
+Dialogue: 0,0:18:00.45,0:18:02.70,Default,,0,0,0,,{TIME:1080455,1082708}I'll finish this with one shot!{NOTE:一発で決めてやるぜ！}
+Dialogue: 0,0:18:02.70,0:18:04.83,Default,,0,0,0,,{TIME:1082708,1084835}Let's see you try.{NOTE:やってみろ。}
+Dialogue: 0,0:18:05.21,0:18:07.29,Default,,0,0,0,,{TIME:1085210,1087296}Ready… set!{NOTE:ﾚﾃﾞｨｰｾｯﾄ！}
+Dialogue: 0,0:18:07.29,0:18:10.42,Default,,0,0,0,,{TIME:1087296,1090424}3! 2! 1!{NOTE:ｽﾘｰﾂｰﾜﾝ！}
+Dialogue: 0,0:18:10.92,0:18:13.13,Default,,0,0,0,,{TIME:1090924,1093135}Go, shoot!{NOTE:ｺﾞｰｼｭｰﾄ！}
+Dialogue: 0,0:18:14.72,0:18:16.51,Default,,0,0,0,,{TIME:1094720,1096513}Skyscraper Shoot!{NOTE:ｽｶｲｽｸﾚｲﾊﾟｰｼｮｯﾄ！}
+Dialogue: 0,0:18:16.88,0:18:19.89,Default,,0,0,0,,{TIME:1096889,1099892}Wow! What a high Shoot!{NOTE:ﾜｵ高い位置からのｼｭｰﾄ。}
+Dialogue: 0,0:18:19.89,0:18:24.52,Default,,0,0,0,,{TIME:1099892,1104521}God Valkyrie dodges the superfast attack!{NOTE:ｺﾞｯﾄﾞｳﾞｧﾙｷﾘｰ高速ｱﾀｯｸをかわした。}
+Dialogue: 0,0:18:24.52,0:18:26.35,Default,,0,0,0,,{TIME:1104521,1106356}Show him what you're made of, Valkyrie!{NOTE:ｶﾞﾝｶﾞﾝいけｳﾞｧﾙｷﾘｰ！}
+Dialogue: 0,0:18:28.31,0:18:30.19,Default,,0,0,0,,{TIME:1108317,1110194}Rush Shoot!{NOTE:ﾗｯｼｭｼｭｰﾄ！}
+Dialogue: 0,0:18:33.40,0:18:34.48,Default,,0,0,0,,{TIME:1113405,1114489}Heh.{NOTE:ﾌｯ。}
+Dialogue: 0,0:18:34.48,0:18:36.95,Default,,0,0,0,,{TIME:1114489,1116950}Go, go, go! More!{NOTE:いけいけいけ！もっとだ！}
+Dialogue: 0,0:18:39.28,0:18:41.62,Default,,0,0,0,,{TIME:1119286,1121622}Hah. You're just too weak.{NOTE:ﾌﾝ…やはり弱い。}
+Dialogue: 0,0:18:42.37,0:18:45.75,Default,,0,0,0,,{TIME:1122372,1125751}In The Underworld running away would be your best option.{NOTE:ｱﾝﾀﾞｰﾜｰﾙﾄﾞでは逃げて正解だったな。}
+Dialogue: 0,0:18:45.75,0:18:48.79,Default,,0,0,0,,{TIME:1125751,1128795}I won't chase you if you do so now.{NOTE:今から逃げ出してもかまわないぞ。}
+Dialogue: 0,0:18:48.79,0:18:50.92,Default,,0,0,0,,{TIME:1128795,1130923}Run away, you say?!{NOTE:逃げるもんか！}
+Dialogue: 0,0:18:56.30,0:18:57.26,Default,,0,0,0,,{TIME:1136303,1137262}What?{NOTE:何だ？}
+Dialogue: 0,0:18:57.26,0:18:58.88,Default,,0,0,0,,{TIME:1137262,1138889}Something changed.{NOTE:何か変形したよ。}
+Dialogue: 0,0:18:58.88,0:19:00.34,Default,,0,0,0,,{TIME:1138889,1140349}Uhm…{NOTE:え～と。}
+Dialogue: 0,0:19:00.34,0:19:04.06,Default,,0,0,0,,{TIME:1140349,1144061}When attacked by the opponent and the lock goes twice…{NOTE:相手のｱﾀｯｸを受けてﾛｯｸが２回進むと…}
+Dialogue: 0,0:19:04.06,0:19:06.56,Default,,0,0,0,,{TIME:1144061,1146563}…the effect blade gets sharp…{NOTE:…ｴﾌｪｸﾄ刃がとがった形になって…}
+Dialogue: 0,0:19:06.56,0:19:09.94,Default,,0,0,0,,{TIME:1146563,1149942}…and gives a strong attack.{NOTE:強い攻撃を与えるようになるんだって。}
+Dialogue: 0,0:19:09.94,0:19:11.94,Default,,0,0,0,,{TIME:1149942,1151944}Watch out, Valt!{NOTE:気いつけろよﾊﾞﾙﾄ！}
+Dialogue: 0,0:19:22.57,0:19:26.45,Default,,0,0,0,,{TIME:1162579,1166458}Go, go, go! Bound Jet Shoot!{NOTE:いけいけいけ！ﾊﾞｳﾝﾄﾞｼﾞｪｯﾄｼｭｰﾄ！}
+Dialogue: 0,0:19:34.46,0:19:36.38,Default,,0,0,0,,{TIME:1174466,1176383}Beat Kukulcan.{NOTE:ﾋﾞｰﾄｸｸﾙｶﾝ。}
+Dialogue: 0,0:19:46.39,0:19:49.14,Default,,0,0,0,,{TIME:1186395,1189147}Trigger Attack!{NOTE:ﾄﾘｶﾞｰｱﾀｯｸ。}
+Dialogue: 0,0:19:51.60,0:19:52.52,Default,,0,0,0,,{TIME:1191608,1192526}It's over.{NOTE:終わりだ。}
+Dialogue: 0,0:20:07.58,0:20:13.29,Default,,0,0,0,,{TIME:1207583,1213297}Beat Kukulcan wins by Burst Finish! Kurz Baratier wins.{NOTE:ﾋﾞｰﾄｸｸﾙｶﾝﾊﾞｰｽﾄﾌｨﾆｯｼｭ。勝者ｸﾙﾂ･ﾊﾞﾗﾃｨｴ。}
+Dialogue: 0,0:20:13.29,0:20:17.59,Default,,0,0,0,,{TIME:1213297,1217593}Strong, so strong!\NBeat Kukulcan's just too strong!{NOTE:強い強い強すぎるぞﾋﾞｰﾄｸｸﾙｶﾝ。}
+Dialogue: 0,0:20:17.59,0:20:20.13,Default,,0,0,0,,{TIME:1217593,1220137}It's overwhelming strength!{NOTE:圧倒的な強さだ！}
+Dialogue: 0,0:20:20.13,0:20:22.51,Default,,0,0,0,,{TIME:1220137,1222514}Way to go, Master Kurz!{NOTE:—ｲｪｰｸﾙﾂ様！\\N—ｳｰｲｪｰ！}
+Dialogue: 0,0:20:24.39,0:20:26.76,Default,,0,0,0,,{TIME:1224391,1226768}Valt… lost?{NOTE:ﾊﾞﾙﾄが負けた。}
+Dialogue: 0,0:20:27.39,0:20:28.35,Default,,0,0,0,,{TIME:1227394,1228353}Valt…{NOTE:ﾊﾞﾙﾄ…}
+Dialogue: 0,0:20:32.52,0:20:34.35,Default,,0,0,0,,{TIME:1232524,1234359}Don't!{NOTE:やめろ！}
+Dialogue: 0,0:20:39.78,0:20:41.20,Default,,0,0,0,,{TIME:1239781,1241200}What the hell were you going to do?!{NOTE:なにすんだ！}
+Dialogue: 0,0:20:41.20,0:20:45.49,Default,,0,0,0,,{TIME:1241200,1245495}Heh. I thought I saw some garbage lying around.{NOTE:ﾌﾝｺﾞﾐが落ちてるのかと思ったぞ。}
+Dialogue: 0,0:20:45.49,0:20:48.66,Default,,0,0,0,,{TIME:1245495,1248665}Cone and play again when you feel like it.\NWe'll kill some time.{NOTE:気が向いたら暇つぶしにまた遊んでやる。}
+Dialogue: 0,0:20:56.92,0:20:59.63,Default,,0,0,0,,{TIME:1256924,1259635}Valt! Control your feelings!{NOTE:ﾊﾞﾙﾄ気持ちを切り替えろ！}
+Dialogue: 0,0:20:59.63,0:21:02.51,Default,,0,0,0,,{TIME:1259635,1262513}You still have a go!{NOTE:まだ決勝にあがるﾁｬﾝｽはある！}
+Dialogue: 0,0:21:02.51,0:21:05.39,Default,,0,0,0,,{TIME:1262513,1265390}Valt hasn't given up yet!{NOTE:ﾊﾞﾙﾄまだ諦めてないわよね。}
+Dialogue: 0,0:21:05.84,0:21:09.47,Default,,0,0,0,,{TIME:1265849,1269478}All right! No more defeats!{NOTE:よ～しもうぜってえ負けねえ！}
+Dialogue: 0,0:21:09.47,0:21:12.52,Default,,0,0,0,,{TIME:1269478,1272523}From here on, I'll go through everyone straight to the finals!{NOTE:ここから先は全勝で決勝に行くぜ。}
+Dialogue: 0,0:21:16.31,0:21:21.28,Default,,0,0,0,,{TIME:1276318,1281281}Once enrolled to the New York Bulls, now a part of the Snake Pit team.{NOTE:かつてﾆｭｰﾖｰｸﾌﾞﾙｽﾞに在籍し今はｽﾈｰｸﾋﾟｯﾄに所属。}
+Dialogue: 0,0:21:21.28,0:21:24.20,Default,,0,0,0,,{TIME:1281281,1284201}Kurenai Shu! Red Eye!{NOTE:紅ｼｭｳことﾚｯﾄﾞｱｲ。}
+Dialogue: 0,0:21:24.20,0:21:29.58,Default,,0,0,0,,{TIME:1284201,1289581}His opponent is Boa Alcacer, who burst into fame thanks to the Snake Pit!{NOTE:かたやｽﾈｰｸﾋﾟｯﾄから彗星のごとく現れたﾎﾞｱ･ｱﾙｶｾﾙ。}
+Dialogue: 0,0:21:29.58,0:21:33.29,Default,,0,0,0,,{TIME:1289581,1293293}The second match in the group A is between fellow Bladers!{NOTE:Ａｸﾞﾙｰﾌﾟ第２試合は同門対決だ。}
+Dialogue: 0,0:21:36.71,0:21:42.01,Default,,0,0,0,,{TIME:1296713,1302010}I'll watch your battle very closely.{NOTE:見せてもらおうかお前たちのﾊﾞﾄﾙを。}
+Dialogue: 0,0:21:42.01,0:21:44.59,Default,,0,0,0,,{TIME:1302010,1304596}I surpassed you.{NOTE:俺はあなたを超えた。}
+Dialogue: 0,0:21:44.59,0:21:47.18,Default,,0,0,0,,{TIME:1304596,1307182}I'm about to prove it to you now.{NOTE:それを今から証明します。}
+Dialogue: 0,0:21:47.18,0:21:49.76,Default,,0,0,0,,{TIME:1307182,1309768}Red Eye! I'm going to defeat you!{NOTE:ﾚｯﾄﾞｱｲあなたを倒す！}
+Dialogue: 0,0:21:59.82,0:22:02.78,Default,,0,0,0,,{TIME:1319820,1322781}Boa. I'll destroy you.{NOTE:ﾎﾞｱお前を破壊する。}
 Comment: 0,0:22:05.03,0:22:05.03,Default,[chapter],0,0,0,,{TIME:1325033,1325033}Ending
-Dialogue: 0,0:22:05.78,0:22:09.37,OP/ED English,,0,0,0,,{TIME:1325784,1329371}Ok, boys and girls, we're gonna train our muscles!!{NOTE:オーケー　ボーイズアンドガールズ　ベイ筋鍛えてるかーい！！}
+Dialogue: 0,0:22:05.78,0:22:09.37,OP/ED English,,0,0,0,,{TIME:1325784,1329371}Okay, boys and girls, we're gonna train our muscles!!{NOTE:オーケー　ボーイズアンドガールズ　ベイ筋鍛えてるかーい！！}
 Dialogue: 0,0:22:09.37,0:22:12.37,OP/ED English,,0,0,0,,{TIME:1329371,1332374}Come on! We can't not wait! It's time for Beyxercise 2!{NOTE:さぁ！　お待ちかね！　ベイササイズ２の時間だぜ！}
 Dialogue: 0,0:22:12.37,0:22:14.04,OP/ED English,,0,0,0,,{TIME:1332374,1334042}It's more intense than the version 1!{NOTE:バージョン１より動きが激しいぞ！}
 Dialogue: 0,0:22:14.04,0:22:16.33,OP/ED English,,0,0,0,,{TIME:1334042,1336336}First of all, showtime from last review!{NOTE:まずは前回の復習から　ショータイム！}
@@ -109,3 +404,11 @@ Dialogue: 0,0:23:30.11,0:23:31.57,OP/ED English,,0,0,0,,{TIME:1410118,1411578}Bu
 Dialogue: 0,0:23:31.57,0:23:32.78,OP/ED English,,0,0,0,,{TIME:1411578,1412788}Nice go shoot!{NOTE:ナイスGOシュート！}
 Dialogue: 0,0:23:32.78,0:23:35.08,OP/ED English,,0,0,0,,{TIME:1412788,1415082}Nice Beyxercise!{NOTE:ナイスベイササイズ！}
 Comment: 0,0:23:35.08,0:23:35.08,Default,[chapter],0,0,0,,{TIME:1415082,1415082}Preview
+Dialogue: 0,0:23:36.54,0:23:38.71,Default,,0,0,0,,{TIME:1416542,1418710}Boa's strength is amazing.{NOTE:ボアの執念すごい。}
+Dialogue: 0,0:23:38.71,0:23:41.12,Default,,0,0,0,,{TIME:1418710,1421129}Ah! Spriggan counterattacks!{NOTE:あっ！ｽﾌﾟﾘｶﾞﾝは反撃！}
+Dialogue: 0,0:23:41.12,0:23:43.92,Default,,0,0,0,,{TIME:1421129,1423924}{NOTE:そしてクーザはノーマンにXXX。}
+Dialogue: 0,0:23:43.92,0:23:47.80,Default,,0,0,0,,{TIME:1423924,1427803}{NOTE:XXXのXXXはXXXかける。そんなもんXXX！}
+Dialogue: 0,0:23:47.80,0:23:50.93,Default,,0,0,0,,{TIME:1427803,1430931}I'm not scared of the Snake Pit!{NOTE:スネークピットなんか怖くないぜ。}
+Dialogue: 0,0:23:50.93,0:23:55.68,Default,,0,0,0,,{TIME:1430931,1435686}Next time on "Beyblade Burst God":\N"Iron Hammer! Twin Nemesis!!"{NOTE:次回「ベイブレードバーストゴッド」：「鉄槌！ツインネメシス!!」。}
+Dialogue: 0,0:23:55.68,0:24:00.02,Default,,0,0,0,,{TIME:1435686,1440023}3, 2, 1! Go, shoot!{NOTE:３・２・１・GOシュート！}
+Dialogue: 0,0:23:56.31,0:24:00.02,Episode Title,(sign),0,0,0,,{TIME:1436311,1440023}Iron Hammer! Twin Nemesis!!{NOTE:鉄槌！ツインネメシス!!}
