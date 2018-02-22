@@ -24,7 +24,7 @@ Style: Ending alt,Gotham Narrow Bold,17.0,&H40F5F4F8,&H000000FF,&H40B4B4B6,&H7F2
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Beginning
+Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Intro
 Dialogue: 0,0:00:01.91,0:00:08.63,Narrator,(narrator),0,0,0,,{TIME:1919,8634}{\an2\fad(500,0)}A mask which is as fragile as glass, people wear it to hide their own faces.
 Comment: 0,0:00:08.63,0:00:08.63,Default,[chapter],0,0,0,,{TIME:8634,8634}Opening
 Dialogue: 0,0:00:15.55,0:00:24.10,Default,[title],0,0,0,,{TIME:15557,24107}THE GLASS MASK
@@ -54,7 +54,7 @@ Dialogue: 1,0:01:31.63,0:01:37.55,Opening,[karaoke],0,0,0,,{TIME:91633,97556}{\b
 Dialogue: 1,0:01:38.14,0:01:44.39,Opening,[karaoke],0,0,0,,{TIME:98140,104396}{\blur1}…because there's someone that smiles on the other side of my tears.
 Dialogue: 1,0:01:44.56,0:01:49.98,Opening,[karaoke],0,0,0,,{TIME:104563,109985}{\blur1}You can do it if you want to,\Nthis feeling in my heart…
 Dialogue: 1,0:01:50.90,0:01:55.74,Opening,[karaoke],0,0,0,,{TIME:110902,115741}{\blur1}Don't cry. Keep on running and running, for someday…
-Comment: 0,0:02:00.11,0:02:00.11,Default,[chapter],0,0,0,,{TIME:120119,120119}Episode
+Comment: 0,0:02:00.11,0:02:00.11,Default,[chapter],0,0,0,,{TIME:120119,120119}Part A
 Dialogue: 0,0:02:00.12,0:02:02.41,Sign,(sign),0,0,0,,{TIME:120120,122415}The Crimson Goddess
 Dialogue: 0,0:02:01.66,0:02:06.79,Narrator,(narrator),0,0,0,,{TIME:121664,126794}Tsukikage Chigusa trained Kitajima Maya\Nhard for her to become an actress…
 Dialogue: 0,0:02:06.79,0:02:10.54,Narrator,(narrator),0,0,0,,{TIME:126794,130548}…with a thousand masks,\Neven sacrificing Maya's ties with her mother.
@@ -244,8 +244,11 @@ Dialogue: 0,0:12:28.62,0:12:31.33,Default,,0,0,0,,{TIME:748624,751335}S… San C
 Dialogue: 0,0:12:33.58,0:12:35.04,Default,,0,0,0,,{TIME:753587,755047}S… San Chan—
 Dialogue: 0,0:12:35.54,0:12:36.46,Default,,0,0,0,,{TIME:755547,756465}Maya…
 Dialogue: 0,0:12:36.84,0:12:38.13,Default,,0,0,0,,{TIME:756840,758133}San Chan…!
-Dialogue: 0,0:13:04.82,0:13:05.91,Default,,0,0,0,,{TIME:784827,785911}Here!
-Dialogue: 0,0:13:05.91,0:13:07.16,Default,,0,0,0,,{TIME:785911,787162}Do it again.
+Comment: 0,0:12:55.77,0:12:55.77,Default,[chapter],0,0,0,,{TIME:775775,775775}Eyecatch
+Comment: 0,0:12:59.77,0:12:59.77,Default,[chapter],0,0,0,,{TIME:779779,779779}#Eyecatch
+Comment: 0,0:13:02.78,0:13:02.78,Default,[chapter],0,0,0,,{TIME:782782,782782}Part B
+Dialogue: 0,0:13:05.03,0:13:06.03,Default,,0,0,0,,{TIME:785034,786035}Here!
+Dialogue: 0,0:13:06.03,0:13:07.16,Default,,0,0,0,,{TIME:786035,787162}Do it again.
 Dialogue: 0,0:13:09.12,0:13:11.20,Default,,0,0,0,,{TIME:789123,791208}Here, Maya!
 Dialogue: 0,0:13:13.33,0:13:14.75,Default,,0,0,0,,{TIME:793335,794753}Here, try again!
 Dialogue: 0,0:13:32.22,0:13:33.56,Default,,0,0,0,,{TIME:812229,813564}Sa… San Chan…
