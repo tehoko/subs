@@ -58,7 +58,7 @@ Dialogue: 0,0:01:34.90,0:01:36.15,Default,Gale,0,0,0,,{TIME:94907,96159}Don't!{N
 Dialogue: 0,0:01:36.15,0:01:37.45,Default,Anvis,0,0,0,,{TIME:96159,97452}Relax.{NOTE:安心しろ。}
 Dialogue: 0,0:01:37.45,0:01:40.62,Default,Anvis,0,0,0,,{TIME:97452,100622}I won't kill your sister just yet.{NOTE:妹はまだ殺さない。}
 Dialogue: 0,0:01:40.62,0:01:46.12,Default,Anvis,0,0,0,,{TIME:100622,106127}You two still have an important role to play.{NOTE:これからお前たちには重要な役割を果たしてもらうからな。}
-Dialogue: 0,0:01:46.12,0:01:50.71,Default,Anvis,0,0,0,,{TIME:106127,110715}And now that I have all the requirements right here before me…{NOTE:全ての要素は揃った。}
+Dialogue: 0,0:01:46.12,0:01:50.71,Default,Anvis,0,0,0,,{TIME:106127,110715}And now that I have all the requirements\Nright here before me…{NOTE:全ての要素は揃った。}
 Dialogue: 0,0:01:50.71,0:01:54.21,Default,Anvis,0,0,0,,{TIME:110715,114218}…I can finally fulfill my life-long dream!{NOTE:今ここに私の積年の野望が果たされる。}
 Comment: 0,0:02:02.06,0:02:02.06,Default,[chapter],0,0,0,,{TIME:122060,122060}Opening
 Dialogue: 0,0:02:05.35,0:02:12.78,Default,[title],0,0,0,,{TIME:125350,132780}{\fad(2500,0)}Monster Hunter Stories: Ride On{NOTE:モンスターハンターストーリーズ：RIDE・ON}
@@ -178,7 +178,7 @@ Dialogue: 0,0:07:15.66,0:07:16.74,Default,Gale,0,0,0,,{TIME:435665,436749}Why…
 Dialogue: 0,0:07:16.74,0:07:18.74,Default,Gale,0,0,0,,{TIME:436749,438749}Why do you even want that power?{NOTE:…そうまでして力を手に入れたい？}
 Dialogue: 0,0:07:20.83,0:07:22.50,Default,Anvis,0,0,0,,{TIME:440835,442505}Do you really want to know?{NOTE:聞きたいか？}
 Dialogue: 0,0:07:24.34,0:07:32.09,Default,Anvis,0,0,0,,{TIME:444340,452098}As Kuang Village's priests,\Nyour clan was always prosperous.{NOTE:お前たち一族はクアン村の神官としていかなるときもあがめ奉られていた。}
-Dialogue: 0,0:07:32.09,0:07:39.23,Default,Anvis,0,0,0,,{TIME:452098,459230}Just because you happened to be responsible for keeping\Nthe secret of the Rite of Overlapping.{NOTE:一子相伝の秘術である、重ね合わせの儀をつかさどる一族というだけで…}
+Dialogue: 0,0:07:32.09,0:07:39.23,Default,Anvis,0,0,0,,{TIME:452098,459230}Just because you happened to be responsible for keeping the secret of the Rite of Overlapping.{NOTE:一子相伝の秘術である、重ね合わせの儀をつかさどる一族というだけで…}
 Dialogue: 0,0:07:39.23,0:07:40.35,Default,Anvis,0,0,0,,{TIME:459230,460356}But, on the other hand…{NOTE:引き換え…}
 Dialogue: 0,0:07:40.35,0:07:46.36,Default,Anvis,0,0,0,,{TIME:460356,466362}…there was my family who was in a position\Nof looking after your priests for generations.{NOTE:…私の一族は代々お前たち神官を世話する立場にあった。}
 Dialogue: 0,0:07:46.36,0:07:49.94,Default,Anvis,0,0,0,,{TIME:466362,469949}But there's no sunlight without a shadow.{NOTE:だが光と影は共にあるもの。}
@@ -216,7 +216,7 @@ Dialogue: 0,0:09:39.72,0:09:45.77,Default,Anvis,0,0,0,,{TIME:579725,585773}Your 
 Dialogue: 0,0:09:56.32,0:09:59.99,Default,Anvis,0,0,0,,{TIME:596325,599995}What happened to your parents\Nis a punishment for that.{NOTE:お前の父と母に起きたことはその報いだ。}
 Dialogue: 0,0:09:59.99,0:10:03.08,Default,Anvis,0,0,0,,{TIME:599995,603082}He should've known better and performed the real thing.{NOTE:私に偽の秘術を施した。}
 Dialogue: 0,0:10:04.87,0:10:07.71,Default,Gale,0,0,0,,{TIME:604875,607711}You don't understand anything after all.{NOTE:やっぱりお前は何も分かってない。}
-Dialogue: 0,0:10:07.71,0:10:10.21,Default,Gale,0,0,0,,{TIME:607711,610214}My father didn't do a fake ritual on you.{NOTE:父は偽の秘術など行わなかった。}
+Dialogue: 0,0:10:07.71,0:10:10.13,Default,Gale,0,0,0,,{TIME:607711,610131}My father didn't do a fake ritual on you.{NOTE:父は偽の秘術など行わなかった。}
 Dialogue: 0,0:10:12.63,0:10:17.13,Default,Gale,0,0,0,,{TIME:612633,617138}It was just that you didn't deserve the Rite of Overlapping.{NOTE:お前が重ね合わせの儀を受けるに値しない者だっただけだ。}
 Dialogue: 0,0:10:17.13,0:10:19.26,Default,Gale,0,0,0,,{TIME:617138,619265}The Rite's failure only proved it.{NOTE:儀式がそれを証明したんだ。}
 Dialogue: 0,0:10:20.18,0:10:23.14,Default,Anvis,0,0,0,,{TIME:620182,623144}And yet here I am, still alive.{NOTE:だが私はこうして生きている。}
@@ -415,7 +415,7 @@ Dialogue: 0,0:20:45.64,0:20:46.64,Default,Lute,0,0,0,,{TIME:1245640,1246641}Huh?
 Dialogue: 0,0:20:47.35,0:20:49.43,Default,Gale,0,0,0,,{TIME:1247350,1249436}The general gist of the Rite of Overlapping…{NOTE:重ね合わせの儀の意味は…}
 Dialogue: 0,0:20:49.43,0:20:52.56,Default,Gale,0,0,0,,{TIME:1249436,1252564}…is in repeating the lyrics to the parts of the song with important implications.{NOTE:…大事な意味合いを持つ部分の歌詞を繰り返す。}
 Dialogue: 0,0:20:52.56,0:20:55.23,Default,Gale,0,0,0,,{TIME:1252564,1255233}In other words, piling them up.{NOTE:つまり重ねることにある。}
-Dialogue: 0,0:20:55.23,0:20:57.69,Default,Gale,0,0,0,,{TIME:1255233,1257694}"Even if you hide your face, I understand your heartbeat."{NOTE:｢顔を隠しても心は分かる。｣}
+Dialogue: 0,0:20:55.23,0:20:57.69,Default,Gale,0,0,0,,{TIME:1255233,1257694}"Even if you hide your face,\NI understand your heartbeat."{NOTE:｢顔を隠しても心は分かる。｣}
 Dialogue: 0,0:20:57.69,0:20:59.40,Default,Gale,0,0,0,,{TIME:1257694,1259404}That part.{NOTE:という部分だ。}
 Dialogue: 0,0:20:59.40,0:21:03.24,Default,Gale,0,0,0,,{TIME:1259404,1263241}That's the part you need to repeat in order for the Rite of Overlapping to be fully successful.{NOTE:それで初めて重ね合わせの儀を施したことになる。}
 Dialogue: 0,0:21:03.24,0:21:05.74,Default,Cheval,0,0,0,,{TIME:1263241,1265744}So you didn't repeat it?{NOTE:そこまではやってないってこと？}
@@ -432,7 +432,7 @@ Dialogue: 0,0:21:37.35,0:21:38.52,Default,Gale,0,0,0,,{TIME:1297359,1298527}Yeah
 Dialogue: 0,0:21:38.52,0:21:42.73,Default,Gale,0,0,0,,{TIME:1298527,1302739}But the Rite of Overlapping really does choose it recipients.{NOTE:でも重ね合わせの儀は本当に人を選ぶんだ。}
 Dialogue: 0,0:21:42.73,0:21:44.11,Default,Gale,0,0,0,,{TIME:1302739,1304115}And Anvis wasn't chosen.{NOTE:あいつは選ばれなかった。}
 Dialogue: 0,0:21:45.11,0:21:47.41,Default,Anvis,0,0,0,,{TIME:1305116,1307410}Move, move! You're in my way!{NOTE:どけどけ！邪魔だ！}
-Dialogue: 0,0:21:47.41,0:21:51.45,Default,Anvis,0,0,0,,{TIME:1307410,1311456}I will not forgive those that get my way!{NOTE:私の行く手を阻むものは容赦せぬ！}
+Dialogue: 0,0:21:47.41,0:21:51.45,Default,Anvis,0,0,0,,{TIME:1307410,1311456}I will not forgive those that get in my way!{NOTE:私の行く手を阻むものは容赦せぬ！}
 Dialogue: 0,0:21:53.54,0:21:56.29,Default,Navirou,0,0,0,,{TIME:1313542,1316294}Where is Anvis going to, now?{NOTE:アンヴィスはどこへ行くつもりなのだ？}
 Dialogue: 0,0:21:56.29,0:21:59.25,Default,Cryo,0,0,0,,{TIME:1316294,1319256}Judging from the direction he flew…{NOTE:やつが飛んでいった方向には…}
 Dialogue: 0,0:21:59.25,0:22:01.25,Default,Cryo,0,0,0,,{TIME:1319256,1321256}…he might be heading to Fulcradgeo.{TODO: what?}{NOTE:…フルクライトジオがあります。}
@@ -461,6 +461,6 @@ Dialogue: 0,0:23:04.11,0:23:07.44,Default,Anvis,0,0,0,,{TIME:1384112,1387449}…
 Comment: 0,0:23:08.11,0:23:08.11,Default,[chapter],0,0,0,,{TIME:1388116,1388116}Preview
 Dialogue: 0,0:23:09.53,0:23:10.86,Default,Lute,80,80,80,,{TIME:1389534,1390869}Lute here.{NOTE:俺リュート。}
 Dialogue: 0,0:23:10.86,0:23:14.16,Default,Lute,80,80,80,,{TIME:1390869,1394164}Anvis powered up through the Rite of Overlapping.{NOTE:アンヴィスが重ね合わせの儀で強くなってしまった。}
-Dialogue: 0,0:23:14.16,0:23:17.08,Default,Lute,80,80,80,,{TIME:1394164,1397083}The city is slowly being destroyed by him.{NOTE:街がどんどんあいつに壊されていく。}
+Dialogue: 0,0:23:14.16,0:23:17.08,Default,Lute,80,80,80,,{TIME:1394164,1397083}Everything is slowly being destroyed by him.{NOTE:街がどんどんあいつに壊されていく。}
 Dialogue: 0,0:23:17.08,0:23:20.04,Default,Lute,80,80,80,,{TIME:1397083,1400045}Let's go, Ratha! We have to stop him!{NOTE:いくぞレウス。早くあいつを止めないと。}
 Dialogue: 0,0:23:20.04,0:23:23.96,Default,Lute,80,80,80,,{TIME:1400045,1403964}Next time:\N"Kushala Daora's Charge" Ride On!{NOTE:次回｢クシャルダオラの進撃｣にライドオン！}
