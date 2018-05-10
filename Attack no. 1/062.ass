@@ -5,7 +5,7 @@ ScriptType: v4.00+
 PlayResX: 960
 PlayResY: 720
 YCbCr Matrix: TV.601
-WrapStyle: 0
+WrapStyle: 2
 ScaledBorderAndShadow: yes
 Title: Attack no. 1 - 062
 Video File: source/062.mkv
@@ -62,452 +62,447 @@ Dialogue: 0,0:01:21.96,0:01:31.38,Lyrics EN,[karaoke],0,0,0,,{TIME:81960,91380}A
 Comment: 0,0:01:32.09,0:01:32.09,Default,[chapter],0,0,0,,{TIME:92092,92092}Title screen
 Dialogue: 0,0:01:37.63,0:01:44.56,Default,[title],0,0,0,,{TIME:97639,104562}—Episode 062—\NThe friendly match: the night before{NOTE:親善試合・その前夜}
 Comment: 0,0:01:44.56,0:01:44.56,Default,[chapter],0,0,0,,{TIME:104562,104562}Part A
-Dialogue: 0,0:01:44.89,0:01:48.77,Sign,(sign),0,0,0,,{TIME:104896,108774}
-Dialogue: 0,0:01:49.23,0:01:54.03,Default,Doctor A,0,0,0,,{TIME:109234,114031}
-Dialogue: 0,0:01:54.03,0:01:54.86,Default,Doctor A,0,0,0,,{TIME:114031,114865}
-Dialogue: 0,0:01:54.86,0:01:56.44,Default,Ayuhara,0,0,0,,{TIME:114865,116449}
-Dialogue: 0,0:01:56.44,0:01:58.32,Default,Hayakawa,0,0,0,,{TIME:116449,118327}
-Dialogue: 0,0:02:04.12,0:02:05.37,Default,Ayuhara,0,0,0,,{TIME:124124,125375}
-Dialogue: 0,0:02:05.37,0:02:06.41,Default,Yagisawa Kaori,0,0,0,,{TIME:125375,126417}
-Dialogue: 0,0:02:06.41,0:02:07.79,Default,Yagisawa Kaori,0,0,0,,{TIME:126417,127794}
-Dialogue: 0,0:02:07.79,0:02:09.67,Default,Ayuhara,0,0,0,,{TIME:127794,129671}
-Dialogue: 0,0:02:09.67,0:02:11.46,Default,Yagisawa Kaori,0,0,0,,{TIME:129671,131465}
-Dialogue: 0,0:02:11.46,0:02:13.13,Default,Yagisawa Shizuka,0,0,0,,{TIME:131465,133132}
-Dialogue: 0,0:02:13.13,0:02:15.01,Default,Yagisawa Shizuka,0,0,0,,{TIME:133132,135010}
-Dialogue: 0,0:02:15.01,0:02:17.47,Default,Yagisawa Katsura,0,0,0,,{TIME:135010,137471}
-Dialogue: 0,0:02:17.47,0:02:19.59,Default,Yagisawa Kaori,0,0,0,,{TIME:137471,139598}
-Dialogue: 0,0:02:19.59,0:02:22.30,Default,Yagisawa Kaori,0,0,0,,{TIME:139598,142309}
-Dialogue: 0,0:02:22.30,0:02:25.02,Default,Yagisawa Kaori,0,0,0,,{TIME:142309,145020}
-Dialogue: 0,0:02:25.02,0:02:26.43,Default,Ayuhara,0,0,0,,{TIME:145020,146438}
-Dialogue: 0,0:02:26.43,0:02:28.60,Default,Hayakawa,0,0,0,,{TIME:146438,148607}
-Dialogue: 0,0:02:28.60,0:02:32.98,Default,Hayakawa,0,0,0,,{TIME:148607,152986}
-Dialogue: 0,0:02:32.98,0:02:35.61,Default,Ayuhara,0,0,0,,{TIME:152986,155614}
-Dialogue: 0,0:02:35.61,0:02:39.03,Default,Yagisawa Kaori,0,0,0,,{TIME:155614,159034}
-Dialogue: 0,0:02:39.03,0:02:40.99,Default,Yagisawa Katsura,0,0,0,,{TIME:159034,160994}
-Dialogue: 0,0:02:40.99,0:02:44.70,Default,Yagisawa Katsura,0,0,0,,{TIME:160994,164706}
-Dialogue: 0,0:02:46.12,0:02:48.95,Default,Yagisawa Kaori,0,0,0,,{TIME:166124,168959}
-Dialogue: 0,0:02:48.95,0:02:50.08,Default,Yagisawa Shizuka,0,0,0,,{TIME:168959,170087}
-Dialogue: 0,0:02:50.08,0:02:51.00,Default,Yagisawa Katsura,0,0,0,,{TIME:170087,171004}
-Dialogue: 0,0:02:52.04,0:02:54.59,Alternative,Ayuhara,0,0,0,,{TIME:172047,174591}
-Dialogue: 0,0:02:54.59,0:02:56.76,Alternative,Ayuhara,0,0,0,,{TIME:174591,176760}
-Dialogue: 0,0:02:56.76,0:02:58.67,Sign,(sign),0,0,0,,{TIME:176760,178679}
-Dialogue: 0,0:03:02.76,0:03:04.51,Default,Oonuma,0,0,0,,{TIME:182766,184518}
-Dialogue: 0,0:03:04.51,0:03:06.35,Default,Ayuhara,0,0,0,,{TIME:184518,186353}
-Dialogue: 0,0:03:06.35,0:03:08.56,Default,Ayuhara,0,0,0,,{TIME:186353,188563}
-Dialogue: 0,0:03:08.56,0:03:10.60,Default,Ayuhara,0,0,0,,{TIME:188563,190607}
-Dialogue: 0,0:03:11.14,0:03:12.56,Default,Hongou,0,0,0,,{TIME:191149,192567}
-Dialogue: 0,0:03:12.56,0:03:13.56,Default,Hongou,0,0,0,,{TIME:192567,193568}
-Dialogue: 0,0:03:13.56,0:03:14.44,Default,(unison),0,0,0,,{TIME:193568,194444}
-Dialogue: 0,0:03:14.44,0:03:16.15,Default,Ayuhara,0,0,0,,{TIME:194444,196154}
-Dialogue: 0,0:03:16.15,0:03:17.03,Default,Hongou,0,0,0,,{TIME:196154,197030}
-Dialogue: 0,0:03:17.03,0:03:20.86,Default,Hongou,0,0,0,,{TIME:197030,200867}
-Dialogue: 0,0:03:20.86,0:03:24.57,Default,Hongou,0,0,0,,{TIME:200867,204579}
-Dialogue: 0,0:03:24.57,0:03:30.58,Default,Shimizu,0,0,0,,{TIME:204579,210584}
-Dialogue: 0,0:03:32.87,0:03:36.04,Default,Hongou,0,0,0,,{TIME:212879,216049}
-Dialogue: 0,0:03:36.04,0:03:37.55,Default,Ayuhara,0,0,0,,{TIME:216049,217551}
-Dialogue: 0,0:03:37.55,0:03:38.71,Default,(unison),0,0,0,,{TIME:217551,218719}
-Dialogue: 0,0:03:38.71,0:03:40.42,Default,Yagisawa Shizuka,0,0,0,,{TIME:218719,220429}
-Dialogue: 0,0:03:40.42,0:03:42.80,Default,Yagisawa Katsura,0,0,0,,{TIME:220429,222806}
-Dialogue: 0,0:03:42.80,0:03:44.34,Default,Yagisawa Kaori,0,0,0,,{TIME:222806,224349}
-Dialogue: 0,0:03:44.34,0:03:45.80,Default,Yagisawa Kaori,0,0,0,,{TIME:224349,225809}
-Dialogue: 0,0:03:45.80,0:03:48.68,Default,Higashida,0,0,0,,{TIME:225809,228687}
-Dialogue: 0,0:03:48.68,0:03:53.06,Default,Yagisawa Katsura,0,0,0,,{TIME:228687,233066}
-Dialogue: 0,0:03:53.06,0:03:54.27,Default,Yagisawa Katsura,0,0,0,,{TIME:233066,234276}
-Dialogue: 0,0:03:54.27,0:03:55.48,Default,Yagisawa Katsura,0,0,0,,{TIME:234276,235484}
-Dialogue: 0,0:03:57.98,0:03:59.90,Default,Yagisawa Katsura,0,0,0,,{TIME:237988,239906}
-Dialogue: 0,0:03:59.90,0:04:01.40,Default,Yagisawa Shizuka,0,0,0,,{TIME:239906,241408}
-Dialogue: 0,0:04:01.40,0:04:02.15,Default,Yagisawa Kaori,0,0,0,,{TIME:241408,242159}
-Dialogue: 0,0:04:02.15,0:04:04.66,Default,Yagisawa Kaori,0,0,0,,{TIME:242159,244661}
-Dialogue: 0,0:04:04.66,0:04:05.62,Default,Yagisawa Kaori,0,0,0,,{TIME:244661,245620}
-Dialogue: 0,0:04:05.62,0:04:06.95,Default,Yagisawa Kaori,0,0,0,,{TIME:245620,246955}
-Dialogue: 0,0:04:06.95,0:04:07.95,Default,Yagisawa Kaori,0,0,0,,{TIME:246955,247956}
-Dialogue: 0,0:04:07.95,0:04:10.33,Default,Yagisawa Kaori,0,0,0,,{TIME:247956,250333}
-Dialogue: 0,0:04:10.33,0:04:12.66,Default,Yagisawa sisters' mom,0,0,0,,{TIME:250333,252669}
-Dialogue: 0,0:04:12.66,0:04:15.88,Default,Yagisawa sisters' mom,0,0,0,,{TIME:252669,255881}
-Dialogue: 0,0:04:15.88,0:04:17.75,Default,Yagisawa sisters' mom,0,0,0,,{TIME:255881,257758}
-Dialogue: 0,0:04:17.75,0:04:21.09,Default,Yagisawa sisters' mom,0,0,0,,{TIME:257758,261094}
-Dialogue: 0,0:04:21.09,0:04:24.93,Default,Yagisawa sisters' mom,0,0,0,,{TIME:261094,264931}
-Dialogue: 0,0:04:24.93,0:04:27.22,Default,Yagisawa sisters' mom,0,0,0,,{TIME:264931,267225}
-Dialogue: 0,0:04:27.22,0:04:30.77,Default,Yagisawa sisters' mom,0,0,0,,{TIME:267225,270771}
-Dialogue: 0,0:04:30.77,0:04:32.89,Default,Nurse,0,0,0,,{TIME:270771,272898}
-Dialogue: 0,0:04:32.89,0:04:34.35,Default,Yagisawa sisters' mom,0,0,0,,{TIME:272898,274357}
-Dialogue: 0,0:04:34.35,0:04:37.56,Default,Yagisawa sisters' mom,0,0,0,,{TIME:274357,277569}
-Dialogue: 0,0:04:37.56,0:04:42.49,Default,Yagisawa sisters' mom,0,0,0,,{TIME:277569,282491}
-Dialogue: 0,0:04:42.49,0:04:44.03,Default,Yagisawa sisters' mom,0,0,0,,{TIME:282491,284034}
-Dialogue: 0,0:04:44.03,0:04:46.99,Default,Yagisawa Kaori,0,0,0,,{TIME:284034,286995}
-Dialogue: 0,0:04:46.99,0:04:48.41,Default,Yagisawa sisters' mom,0,0,0,,{TIME:286995,288413}
-Dialogue: 0,0:04:48.41,0:04:50.54,Default,Yagisawa sisters' mom,0,0,0,,{TIME:288413,290540}
-Dialogue: 0,0:04:50.54,0:04:53.83,Default,Yagisawa sisters' mom,0,0,0,,{TIME:290540,293835}
-Dialogue: 0,0:04:54.66,0:04:56.54,Default,(mixed),0,0,0,,{TIME:294669,296546}
-Dialogue: 0,0:04:56.54,0:04:59.09,Default,Yagisawa sisters' mom,0,0,0,,{TIME:296546,299090}
-Dialogue: 0,0:04:59.09,0:05:02.21,Default,Yagisawa sisters' mom,0,0,0,,{TIME:299090,302219}
-Dialogue: 0,0:05:02.21,0:05:04.22,Default,Yagisawa sisters' mom,0,0,0,,{TIME:302219,304221}
-Dialogue: 0,0:05:05.22,0:05:06.43,Default,Nurse,0,0,0,,{TIME:305222,306431}
-Dialogue: 0,0:05:06.84,0:05:08.01,Default,Yagisawa Kaori,0,0,0,,{TIME:306848,308016}
-Dialogue: 0,0:05:08.01,0:05:09.35,Default,Yagisawa Kaori,0,0,0,,{TIME:308016,309351}
-Dialogue: 0,0:05:09.35,0:05:11.89,Default,Yagisawa Katsura,0,0,0,,{TIME:309351,311895}
-Dialogue: 0,0:05:11.89,0:05:14.02,Default,Yagisawa Kaori,0,0,0,,{TIME:311895,314022}
-Dialogue: 0,0:05:14.02,0:05:15.02,Default,Yagisawa Kaori,0,0,0,,{TIME:314022,315023}
-Dialogue: 0,0:05:15.02,0:05:18.81,Default,Yagisawa Kaori,0,0,0,,{TIME:315023,318819}
-Dialogue: 0,0:05:18.81,0:05:20.90,Default,Yagisawa Kaori,0,0,0,,{TIME:318819,320904}
-Dialogue: 0,0:05:20.90,0:05:24.40,Default,Yagisawa Shizuka,0,0,0,,{TIME:320904,324407}
-Dialogue: 0,0:05:24.40,0:05:25.95,Default,Higashida,0,0,0,,{TIME:324407,325951}
-Dialogue: 0,0:05:25.95,0:05:28.57,Default,Higashida,0,0,0,,{TIME:325951,328578}
-Dialogue: 0,0:05:28.57,0:05:30.45,Default,Higashida,0,0,0,,{TIME:328578,330455}
-Dialogue: 0,0:05:30.45,0:05:31.58,Default,Yagisawa Shizuka,0,0,0,,{TIME:330455,331581}
-Dialogue: 0,0:05:31.58,0:05:38.25,Default,Yagisawa Shizuka,0,0,0,,{TIME:331581,338255}
-Dialogue: 0,0:05:38.25,0:05:39.08,Default,Yagisawa Kaori,0,0,0,,{TIME:338255,339089}
-Dialogue: 0,0:05:39.08,0:05:41.04,Default,Yagisawa Kaori,0,0,0,,{TIME:339089,341049}
-Dialogue: 0,0:05:41.04,0:05:45.05,Default,Yagisawa Kaori,0,0,0,,{TIME:341049,345053}
-Dialogue: 0,0:05:45.05,0:05:48.93,Default,Yagisawa Kaori,0,0,0,,{TIME:345053,348932}
-Dialogue: 0,0:05:48.93,0:05:53.35,Default,Yagisawa Kaori,0,0,0,,{TIME:348932,353353}
-Dialogue: 0,0:05:53.35,0:05:55.68,Default,Yagisawa Katsura,0,0,0,,{TIME:353353,355689}
-Dialogue: 0,0:05:55.68,0:05:57.69,Default,Yagisawa Katsura,0,0,0,,{TIME:355689,357691}
-Dialogue: 0,0:06:02.40,0:06:03.57,Default,Sanjou,0,0,0,,{TIME:362404,363572}
-Dialogue: 0,0:06:03.57,0:06:05.15,Default,Sanjou,0,0,0,,{TIME:363572,365156}
-Dialogue: 0,0:06:05.15,0:06:07.82,Default,Kakinouchi,0,0,0,,{TIME:365156,367826}
-Dialogue: 0,0:06:07.82,0:06:09.11,Default,Hayakawa,0,0,0,,{TIME:367826,369119}
-Dialogue: 0,0:06:09.11,0:06:12.03,Default,Hayakawa,0,0,0,,{TIME:369119,372038}
-Dialogue: 0,0:06:12.03,0:06:15.20,Default,Kakinouchi,0,0,0,,{TIME:372038,375208}
-Dialogue: 0,0:06:15.20,0:06:20.17,Default,Sanjou,0,0,0,,{TIME:375208,380171}
-Dialogue: 0,0:06:20.17,0:06:21.25,Default,Kakinouchi,0,0,0,,{TIME:380171,381256}
-Dialogue: 0,0:06:21.25,0:06:23.17,Default,Kakinouchi,0,0,0,,{TIME:381256,383174}
-Dialogue: 0,0:06:23.17,0:06:25.17,Default,Kakinouchi,0,0,0,,{TIME:383174,385176}
-Dialogue: 0,0:06:28.88,0:06:29.93,Default,Kakinouchi,0,0,0,,{TIME:388889,389931}
-Dialogue: 0,0:06:29.93,0:06:31.51,Default,Kakinouchi,0,0,0,,{TIME:389931,391516}
-Dialogue: 0,0:06:31.51,0:06:35.22,Default,Kakinouchi,0,0,0,,{TIME:391516,395228}
-Dialogue: 0,0:06:35.22,0:06:41.86,Default,Ayuhara,0,0,0,,{TIME:395228,401860}
-Dialogue: 0,0:06:41.86,0:06:43.11,Default,Ayuhara,0,0,0,,{TIME:401860,403111}
-Dialogue: 0,0:06:43.11,0:06:44.82,Default,Sanjou,0,0,0,,{TIME:403111,404821}
-Dialogue: 0,0:06:47.82,0:06:50.11,Default,Hayakawa,0,0,0,,{TIME:407823,410118}
-Dialogue: 0,0:06:50.11,0:06:53.74,Default,Hayakawa,0,0,0,,{TIME:410118,413747}
-Dialogue: 0,0:06:55.49,0:06:56.49,Default,Kakinouchi,0,0,0,,{TIME:415498,416499}
-Dialogue: 0,0:06:56.49,0:06:58.29,Default,Kakinouchi,0,0,0,,{TIME:416499,418293}
-Dialogue: 0,0:07:00.21,0:07:01.00,Default,Yagisawa Kaori,0,0,0,,{TIME:420211,421004}
-Dialogue: 0,0:07:01.00,0:07:01.88,Default,Ayuhara,0,0,0,,{TIME:421004,421880}
-Dialogue: 0,0:07:03.50,0:07:05.30,Default,Higashida,0,0,0,,{TIME:423506,425300}
-Dialogue: 0,0:07:08.80,0:07:11.64,Default,(unknown),0,0,0,,{TIME:428803,431640}
-Dialogue: 0,0:07:11.64,0:07:16.35,Default,(unknown),0,0,0,,{TIME:431640,436353}
-Dialogue: 0,0:07:16.35,0:07:22.19,Default,(unknown),0,0,0,,{TIME:436353,442192}
-Dialogue: 0,0:07:22.19,0:07:28.57,Default,(unknown),0,0,0,,{TIME:442192,448573}
-Dialogue: 0,0:07:28.57,0:07:34.45,Default,(unknown),0,0,0,,{TIME:448573,454454}
-Dialogue: 0,0:07:35.83,0:07:39.04,Default,Hongou,0,0,0,,{TIME:455830,459042}
-Dialogue: 0,0:07:39.04,0:07:42.83,Default,Hongou,0,0,0,,{TIME:459042,462837}
-Dialogue: 0,0:07:42.83,0:07:46.54,Default,Hongou,0,0,0,,{TIME:462837,466549}
-Dialogue: 0,0:07:46.54,0:07:47.50,Default,Yagisawa Kaori,0,0,0,,{TIME:466549,467509}
-Dialogue: 0,0:07:47.50,0:07:49.09,Default,Hongou,0,0,0,,{TIME:467509,469094}
-Dialogue: 0,0:07:49.09,0:07:51.01,Default,Hongou,0,0,0,,{TIME:469094,471012}
-Dialogue: 0,0:07:51.01,0:07:53.84,Default,Hongou,0,0,0,,{TIME:471012,473848}
-Dialogue: 0,0:07:53.84,0:07:55.01,Default,Hongou,0,0,0,,{TIME:473848,475016}
-Dialogue: 0,0:07:55.01,0:08:02.69,Default,Hongou,0,0,0,,{TIME:475016,482691}
-Dialogue: 0,0:08:02.69,0:08:05.52,Default,Yagisawa Katsura,0,0,0,,{TIME:482691,485527}
-Dialogue: 0,0:08:05.52,0:08:07.36,Default,Yagisawa Katsura,0,0,0,,{TIME:485527,487362}
-Dialogue: 0,0:08:09.65,0:08:11.28,Default,Yagisawa Kaori,0,0,0,,{TIME:489656,491282}
-Dialogue: 0,0:08:13.95,0:08:15.37,Default,Hongou,0,0,0,,{TIME:493952,495370}
-Dialogue: 0,0:08:18.99,0:08:19.79,Default,Sanjou,0,0,0,,{TIME:498999,499791}
-Dialogue: 0,0:08:25.38,0:08:26.17,Default,(unknown),0,0,0,,{TIME:505380,506171}
+Dialogue: 0,0:01:44.89,0:01:48.77,Sign,(sign),0,0,0,,{TIME:104896,108774}{\1c&H101010&\3c&H101010&\4c&H101010&\t(0,2000,\1c&H9AFBDC&\3c&H202020&\4c&H202020&)}Medical office{NOTE:医務室}
+Dialogue: 0,0:01:49.23,0:01:54.03,Default,Doctor A,0,0,0,,{TIME:109234,114031}It's nothing serious,\Nbut you shouldn't push yourself for a week.{NOTE:大したことはないが肉離れを起こしているから一週間ばかり無理をせんことだ。}
+Dialogue: 0,0:01:54.03,0:01:54.86,Default,Doctor A,0,0,0,,{TIME:114031,114865}Understand?{NOTE:いいな？}
+Dialogue: 0,0:01:54.86,0:01:56.44,Default,Ayuhara,0,0,0,,{TIME:114865,116449}Yes.{NOTE:はい。}
+Dialogue: 0,0:01:56.44,0:01:58.32,Default,Hayakawa,0,0,0,,{TIME:116449,118327}I'm so relieved.{NOTE:よかった。ほっとしたわ。}
+Dialogue: 0,0:02:04.12,0:02:05.37,Default,Ayuhara,0,0,0,,{TIME:124124,125375}Yagisawa-san.{NOTE:八木沢さん。}
+Dialogue: 0,0:02:05.37,0:02:06.41,Default,Yagisawa Kaori,0,0,0,,{TIME:125375,126417}Ayuhara-san.{NOTE:鮎原さん。}
+Dialogue: 0,0:02:06.41,0:02:07.79,Default,Yagisawa Kaori,0,0,0,,{TIME:126417,127794}How is your injury?{NOTE:どうなの？怪我の方。}
+Dialogue: 0,0:02:07.79,0:02:09.67,Default,Ayuhara,0,0,0,,{TIME:127794,129671}Turns out it was nothing serious.{NOTE:ええ。大したことないわ。}
+Dialogue: 0,0:02:09.67,0:02:11.46,Default,Yagisawa Kaori,0,0,0,,{TIME:129671,131465}I'm happy to hear that.{NOTE:そう。それはよかった。}
+Dialogue: 0,0:02:11.46,0:02:13.13,Default,Yagisawa Shizuka,0,0,0,,{TIME:131465,133132}You played great.{NOTE:そうだけどよくやったな。}
+Dialogue: 0,0:02:13.13,0:02:15.01,Default,Yagisawa Shizuka,0,0,0,,{TIME:133132,135010}I really admire your courage.{NOTE:あんたのファイトでは感心したわ。}
+Dialogue: 0,0:02:15.01,0:02:17.47,Default,Yagisawa Katsura,0,0,0,,{TIME:135010,137471}I wish we could play a little longer.{NOTE:もうちょっと出会えてしなうとこやったわ。}
+Dialogue: 0,0:02:17.47,0:02:19.59,Default,Yagisawa Kaori,0,0,0,,{TIME:137471,139598}Ayuhara-san.\NHayakawa-san.{NOTE:鮎原さん。早川さん。}
+Dialogue: 0,0:02:19.59,0:02:22.30,Default,Yagisawa Kaori,0,0,0,,{TIME:139598,142309}Thank you for this incredible match.{NOTE:いい試合させてもらうって有難う。}
+Dialogue: 0,0:02:22.30,0:02:25.02,Default,Yagisawa Kaori,0,0,0,,{TIME:142309,145020}We won't ever forgive this day.{NOTE:うちら今日の事を一生忘れません。}
+Dialogue: 0,0:02:25.02,0:02:26.43,Default,Ayuhara,0,0,0,,{TIME:145020,146438}Neither will we.{NOTE:私達も。}
+Dialogue: 0,0:02:26.43,0:02:28.60,Default,Hayakawa,0,0,0,,{TIME:146438,148607}Even though we lost, I don't have any regrets.{NOTE:敗れて悔いのない試合だったわ。}
+Dialogue: 0,0:02:28.60,0:02:32.98,Default,Hayakawa,0,0,0,,{TIME:148607,152986}Thanks to you, we got to know\Nthe famed Ōsaka's fighting spirit.{NOTE:おかげで私達大阪の人の本場の根性を勉強させてもらったわ。}
+Dialogue: 0,0:02:32.98,0:02:35.61,Default,Ayuhara,0,0,0,,{TIME:152986,155614}Tell us, how's your mother?{NOTE:それでお母様のご病気はいかがなの？}
+Dialogue: 0,0:02:35.61,0:02:39.03,Default,Yagisawa Kaori,0,0,0,,{TIME:155614,159034}Well, we're on our way to the hospital right now.{NOTE:それがこれからすぐ病院へ行くつもりやねんけど。}
+Dialogue: 0,0:02:39.03,0:02:40.99,Default,Yagisawa Katsura,0,0,0,,{TIME:159034,160994}There's nothing to worry about.{NOTE:なに、心配せんかって。}
+Dialogue: 0,0:02:40.99,0:02:44.70,Default,Yagisawa Katsura,0,0,0,,{TIME:160994,164706}I'm sure when she sees this pennant,\Nshe'll recover immediately.{NOTE:この優勝旗を見てたらお母ちゃんXXなってしまう。}
+Dialogue: 0,0:02:46.12,0:02:48.95,Default,Yagisawa Kaori,0,0,0,,{TIME:166124,168959}Well then, we'll be on our way now.\NTill next time.{NOTE:それなら、これで急ぎますよって又ね。}
+Dialogue: 0,0:02:48.95,0:02:50.08,Default,Yagisawa Shizuka,0,0,0,,{TIME:168959,170087}Bye-bye.{NOTE:XX。XX。}
+Dialogue: 0,0:02:50.08,0:02:51.00,Default,Yagisawa Katsura,0,0,0,,{TIME:170087,171004}See you.{NOTE:又ね。}
+Dialogue: 0,0:02:52.04,0:02:54.59,Alternative,Ayuhara,0,0,0,,{TIME:172047,174591}Their mother is in critical condition,\Nand yet they're so calm.{NOTE:お母さんが死ぬか生きるかっていうのに…}
+Dialogue: 0,0:02:54.59,0:02:56.76,Alternative,Ayuhara,0,0,0,,{TIME:174591,176760}The Yagisawa sisters are excellent rivals.{NOTE:…八木沢三姉妹は素晴らしいライバル。}
+Dialogue: 0,0:02:56.76,0:02:58.67,Sign,(sign),0,0,0,,{TIME:176760,178679}Waiting room\NFujimi High School{NOTE:富士見高校控室}
+Dialogue: 0,0:03:02.76,0:03:04.51,Default,Oonuma,0,0,0,,{TIME:182766,184518}How was it, Ayuhara-san?{NOTE:鮎原さん。どうだった？}
+Dialogue: 0,0:03:04.51,0:03:06.35,Default,Ayuhara,0,0,0,,{TIME:184518,186353}It was a torn muscle.{NOTE:ええ。肉離れですって。}
+Dialogue: 0,0:03:06.35,0:03:08.56,Default,Ayuhara,0,0,0,,{TIME:186353,188563}I'm sorry for making you worry about me.{NOTE:先生。ご心配掛けてすみません。}
+Dialogue: 0,0:03:08.56,0:03:10.60,Default,Ayuhara,0,0,0,,{TIME:188563,190607}It should heal within a week or so.{NOTE:でも一週間ぐらい治るそうです。}
+Dialogue: 0,0:03:11.14,0:03:12.56,Default,Hongou,0,0,0,,{TIME:191149,192567}A week?{NOTE:一週間か？}
+Dialogue: 0,0:03:12.56,0:03:13.56,Default,Hongou,0,0,0,,{TIME:192567,193568}Now that's a bad news.{NOTE:困ったな。}
+Dialogue: 0,0:03:13.56,0:03:14.44,Default,(unison),0,0,0,,{TIME:193568,194444}– Huh?\N– Huh?{NOTE:—えっ？\\N—えっ？}
+Dialogue: 0,0:03:14.44,0:03:16.15,Default,Ayuhara,0,0,0,,{TIME:194444,196154}What do you mean?{NOTE:どういうことですか？}
+Dialogue: 0,0:03:16.15,0:03:17.03,Default,Hongou,0,0,0,,{TIME:196154,197030}{NOTE:ん。}
+Dialogue: 0,0:03:17.03,0:03:20.86,Default,Hongou,0,0,0,,{TIME:197030,200867}Actually, the day after tomorrow there will be\Na friendly match against the Korean team.{NOTE:や、実は明後日韓国チームとの親善試合があるんだが。}
+Dialogue: 0,0:03:20.86,0:03:24.57,Default,Hongou,0,0,0,,{TIME:200867,204579}The names of the twelve top players in the country\Nwho will participate have just been announced.{NOTE:それに出場する選手のベストトゥエルブがさっき発表されたんだ。}
+Dialogue: 0,0:03:24.57,0:03:30.58,Default,Shimizu,0,0,0,,{TIME:204579,210584}Some of you were among them.\NOonuma-san, Ayuhara-san and Hayakawa-san.{NOTE:その12人のメンバーの中に家から大沼さんと鮎原さん、それから早川さんの3人が選ばれたのよ。}
+Dialogue: 0,0:03:32.87,0:03:36.04,Default,Hongou,0,0,0,,{TIME:212879,216049}But I guess Ayuhara has no choice but to decline.{NOTE:しかし、鮎原は辞退するより仕方がないなぁ。}
+Dialogue: 0,0:03:36.04,0:03:37.55,Default,Ayuhara,0,0,0,,{TIME:216049,217551}Professor…{NOTE:先生。}
+Dialogue: 0,0:03:37.55,0:03:38.71,Default,(unison),0,0,0,,{TIME:217551,218719}– Huh?!\N– Huh?!{NOTE:—えっ？！\\N—えっ？！}
+Dialogue: 0,0:03:38.71,0:03:40.42,Default,Yagisawa Shizuka,0,0,0,,{TIME:218719,220429}We're among these top twelve players?{NOTE:うちらベストトゥエルブに？}
+Dialogue: 0,0:03:40.42,0:03:42.80,Default,Yagisawa Katsura,0,0,0,,{TIME:220429,222806}What should we do, Sis?{NOTE:お姉ちゃん、どうしよう？}
+Dialogue: 0,0:03:42.80,0:03:44.34,Default,Yagisawa Kaori,0,0,0,,{TIME:222806,224349}The game's in two days, huh…{NOTE:試合は明後日か。}
+Dialogue: 0,0:03:44.34,0:03:45.80,Default,Yagisawa Kaori,0,0,0,,{TIME:224349,225809}We have to train right away.{NOTE:こうなればすぐでも練習を。}
+Dialogue: 0,0:03:45.80,0:03:48.68,Default,Higashida,0,0,0,,{TIME:225809,228687}That's right. You'd better hurry.{NOTE:そうだね。何しろ急な話だったしね。}
+Dialogue: 0,0:03:48.68,0:03:53.06,Default,Yagisawa Katsura,0,0,0,,{TIME:228687,233066}We've got to go to the hospital.\NWe can't keep mom waiting for so long.{NOTE:そんなこと言うたかどう母ちゃんの病気このまま放っておかれるじゃないの。}
+Dialogue: 0,0:03:53.06,0:03:54.27,Default,Yagisawa Katsura,0,0,0,,{TIME:233066,234276}Don't you agree, Sis?{NOTE:ね、お姉ちゃん？}
+Dialogue: 0,0:03:54.27,0:03:55.48,Default,Yagisawa Katsura,0,0,0,,{TIME:234276,235484}Let's hurry to the hospital.{NOTE:早く病院へ行こう。}
+Dialogue: 0,0:03:57.98,0:03:59.90,Default,Yagisawa Katsura,0,0,0,,{TIME:237988,239906}Is it Mom?{NOTE:お母ちゃんでは？}
+Dialogue: 0,0:03:59.90,0:04:01.40,Default,Yagisawa Shizuka,0,0,0,,{TIME:239906,241408}What if she…{NOTE:ましかしてお母ちゃんが…}
+Dialogue: 0,0:04:01.40,0:04:02.15,Default,Yagisawa Kaori,0,0,0,,{TIME:241408,242159}Silence.{NOTE:あほ！}
+Dialogue: 0,0:04:02.15,0:04:04.66,Default,Yagisawa Kaori,0,0,0,,{TIME:242159,244661}Don't say stupid things.{NOTE:XX言わんといて。}
+Dialogue: 0,0:04:04.66,0:04:05.62,Default,Yagisawa Kaori,0,0,0,,{TIME:244661,245620}Hello?{NOTE:もしもし？}
+Dialogue: 0,0:04:05.62,0:04:06.95,Default,Yagisawa Kaori,0,0,0,,{TIME:245620,246955}Ah, it's you, Mom!{NOTE:あっ、お母ちゃん？}
+Dialogue: 0,0:04:06.95,0:04:07.95,Default,Yagisawa Kaori,0,0,0,,{TIME:246955,247956}This is Kaori.{NOTE:かおりです。}
+Dialogue: 0,0:04:07.95,0:04:10.33,Default,Yagisawa Kaori,0,0,0,,{TIME:247956,250333}How are you?\NHow do you feel?{NOTE:具合は？具合はどうですか？}
+Dialogue: 0,0:04:10.33,0:04:12.66,Default,Yagisawa sisters' mom,0,0,0,,{TIME:250333,252669}Oh, I feel very good right now.{NOTE:ああ、今とってもいい気分よ。}
+Dialogue: 0,0:04:12.66,0:04:15.88,Default,Yagisawa sisters' mom,0,0,0,,{TIME:252669,255881}I watched your entire game on the TV.{NOTE:テレビでずっとあんたらの試合を見せてもらってたよ。}
+Dialogue: 0,0:04:15.88,0:04:17.75,Default,Yagisawa sisters' mom,0,0,0,,{TIME:255881,257758}It was a good game.{NOTE:いい試合だった。}
+Dialogue: 0,0:04:17.75,0:04:21.09,Default,Yagisawa sisters' mom,0,0,0,,{TIME:257758,261094}You played just like I wanted you to.{NOTE:あんたらのお母ちゃんの言うとおり戦ってくれたが。}
+Dialogue: 0,0:04:21.09,0:04:24.93,Default,Yagisawa sisters' mom,0,0,0,,{TIME:261094,264931}But Fujimi High School was great, too.{NOTE:相手の富士見高校も立派な戦いぶりだったな。}
+Dialogue: 0,0:04:24.93,0:04:27.22,Default,Yagisawa sisters' mom,0,0,0,,{TIME:264931,267225}Anyway, congratulations on your victory.{NOTE:とにかく、優勝おめでとう。}
+Dialogue: 0,0:04:27.22,0:04:30.77,Default,Yagisawa sisters' mom,0,0,0,,{TIME:267225,270771}I don't remember the last time\Nwhen I was this happy.{NOTE:お母ちゃんはお母ちゃんはこんなに嬉しいことはあらへん。}
+Dialogue: 0,0:04:30.77,0:04:32.89,Default,Nurse,0,0,0,,{TIME:270771,272898}Yagisawa-san, you shouldn't push yourself.{NOTE:柳沢さんもうそのくらいで…}
+Dialogue: 0,0:04:32.89,0:04:34.35,Default,Yagisawa sisters' mom,0,0,0,,{TIME:272898,274357}Just a little longer.{NOTE:いいえ、もうちょっと。}
+Dialogue: 0,0:04:34.35,0:04:37.56,Default,Yagisawa sisters' mom,0,0,0,,{TIME:274357,277569}I heard that you're up in a friendly match\Nagainst a South Korean team.{NOTE:それから韓国との親善試合がありそうやけど…}
+Dialogue: 0,0:04:37.56,0:04:42.49,Default,Yagisawa sisters' mom,0,0,0,,{TIME:277569,282491}Please show us what the Japan's best players,\Nthe Jidōin High School is made of.{NOTE:…日本一の寺堂院高校の選手として恥ずかしくない試合をしてよ。}
+Dialogue: 0,0:04:42.49,0:04:44.03,Default,Yagisawa sisters' mom,0,0,0,,{TIME:282491,284034}Okay?{NOTE:いいな？}
+Dialogue: 0,0:04:44.03,0:04:46.99,Default,Yagisawa Kaori,0,0,0,,{TIME:284034,286995}Of course, Mom. But we're worried about you.{NOTE:そうだけど、お母ちゃん。うちらお母ちゃんのことが…！}
+Dialogue: 0,0:04:46.99,0:04:48.41,Default,Yagisawa sisters' mom,0,0,0,,{TIME:286995,288413}What are you saying?{NOTE:何を言うのか？}
+Dialogue: 0,0:04:48.41,0:04:50.54,Default,Yagisawa sisters' mom,0,0,0,,{TIME:288413,290540}Stop thinking about me.{NOTE:お母さんのことなら心配いらん。}
+Dialogue: 0,0:04:50.54,0:04:53.83,Default,Yagisawa sisters' mom,0,0,0,,{TIME:290540,293835}Remember, you shouldn't\Nunderestimate the Korean team.{NOTE:それより韓国のチームをもう見たらあかん。}
+Dialogue: 0,0:04:54.66,0:04:56.54,Default,(mixed),0,0,0,,{TIME:294669,296546}– Yagisawa-san, please…\N– Kaori.{NOTE:—柳沢さんそれ以上…\\N—かおり。}
+Dialogue: 0,0:04:56.54,0:04:59.09,Default,Yagisawa sisters' mom,0,0,0,,{TIME:296546,299090}Tell this to Shizuka and Katsura as well.{NOTE:しずかにも、かつらにも、XXXで。}
+Dialogue: 0,0:04:59.09,0:05:02.21,Default,Yagisawa sisters' mom,0,0,0,,{TIME:299090,302219}Come visit me after you win with the Korean team.{NOTE:お母ちゃんの見舞えには韓国にも勝ってくる。}
+Dialogue: 0,0:05:02.21,0:05:04.22,Default,Yagisawa sisters' mom,0,0,0,,{TIME:302219,304221}Only… after you win…{NOTE:勝ってくる…くるよ。}
+Dialogue: 0,0:05:05.22,0:05:06.43,Default,Nurse,0,0,0,,{TIME:305222,306431}Yagisawa-san!{NOTE:柳沢さん！}
+Dialogue: 0,0:05:06.84,0:05:08.01,Default,Yagisawa Kaori,0,0,0,,{TIME:306848,308016}M-Mom…?{NOTE:おっ…お母ちゃん！}
+Dialogue: 0,0:05:08.01,0:05:09.35,Default,Yagisawa Kaori,0,0,0,,{TIME:308016,309351}Mom!{NOTE:お母ちゃん！}
+Dialogue: 0,0:05:09.35,0:05:11.89,Default,Yagisawa Katsura,0,0,0,,{TIME:309351,311895}What did she say, Sis?{NOTE:お姉ちゃん、何があった？}
+Dialogue: 0,0:05:11.89,0:05:14.02,Default,Yagisawa Kaori,0,0,0,,{TIME:311895,314022}She hung up.{NOTE:切れてしまうだわ。}
+Dialogue: 0,0:05:14.02,0:05:18.81,Default,Yagisawa Kaori,0,0,0,,{TIME:314022,318819}Mother said we should visit her only after\Nwe won the match against the Korean team.{NOTE:お母ちゃん。韓国との試合に勝ってからでないと病院へ来たらあかん。}
+Dialogue: 0,0:05:18.81,0:05:20.90,Default,Yagisawa Kaori,0,0,0,,{TIME:318819,320904}Then she hung up.{NOTE:そういうXXんよ。}
+Dialogue: 0,0:05:20.90,0:05:24.40,Default,Yagisawa Shizuka,0,0,0,,{TIME:320904,324407}You're the one who told her\Nabout this match, aren't you?{NOTE:韓国との試合のことを母ちゃんに言うたのはマネージャーね。}
+Dialogue: 0,0:05:24.40,0:05:25.95,Default,Higashida,0,0,0,,{TIME:324407,325951}T-That's right.{NOTE:や、それはそうだけど…}
+Dialogue: 0,0:05:25.95,0:05:28.57,Default,Higashida,0,0,0,,{TIME:325951,328578}I didn't know what to do by myself.{NOTE:私一人ではどないしてるか分からなかった。}
+Dialogue: 0,0:05:28.57,0:05:30.45,Default,Higashida,0,0,0,,{TIME:328578,330455}So I called her…{NOTE:ついうってしまった。}
+Dialogue: 0,0:05:30.45,0:05:31.58,Default,Yagisawa Shizuka,0,0,0,,{TIME:330455,331581}I don't believe this.{NOTE:そんな。}
+Dialogue: 0,0:05:31.58,0:05:38.25,Default,Yagisawa Shizuka,0,0,0,,{TIME:331581,338255}Didn't it occur to you that she'd become upset again\Nwhen she learned about this game?{NOTE:お母ちゃんはあの毀傷よ。韓国との試合があると知ったらこうなることをはじめからわかってるじゃないの。}
+Dialogue: 0,0:05:38.25,0:05:39.08,Default,Yagisawa Kaori,0,0,0,,{TIME:338255,339089}Shizuka.{NOTE:しずか。}
+Dialogue: 0,0:05:39.08,0:05:41.04,Default,Yagisawa Kaori,0,0,0,,{TIME:339089,341049}Katsura, you too.\NListen close.{NOTE:それからかつら。良い聞いて。}
+Dialogue: 0,0:05:41.04,0:05:45.05,Default,Yagisawa Kaori,0,0,0,,{TIME:341049,345053}Our victory is the most effective cure to Mom's illness.{NOTE:お母ちゃんの病気に一番効き目のある薬は勝つことよ。}
+Dialogue: 0,0:05:45.05,0:05:48.93,Default,Yagisawa Kaori,0,0,0,,{TIME:345053,348932}This means we have to win\Nagainst the Korean team, no matter what.{NOTE:こうなったら韓国との試合に何が何でも勝たなあかん。}
+Dialogue: 0,0:05:48.93,0:05:53.35,Default,Yagisawa Kaori,0,0,0,,{TIME:348932,353353}Mom always lived for volleyball.\NShe deserves that much.{NOTE:それがバレー筋に生きてきたお母ちゃんへの孝行というもんよ。}
+Dialogue: 0,0:05:53.35,0:05:55.68,Default,Yagisawa Katsura,0,0,0,,{TIME:353353,355689}Mom, we'll do our best.{NOTE:お母ちゃん。うちあら頑張るX。}
+Dialogue: 0,0:05:55.68,0:05:57.69,Default,Yagisawa Katsura,0,0,0,,{TIME:355689,357691}You too hang in there!{NOTE:お母ちゃんも頑張ってよ。}
+Dialogue: 0,0:06:02.40,0:06:03.57,Default,Sanjou,0,0,0,,{TIME:362404,363572}Ayuhara-san.
+Dialogue: 0,0:06:03.57,0:06:05.15,Default,Sanjou,0,0,0,,{TIME:363572,365156}Hayakawa-san.
+Dialogue: 0,0:06:05.15,0:06:07.82,Default,Kakinouchi,0,0,0,,{TIME:365156,367826}We were chosen, too.
+Dialogue: 0,0:06:07.82,0:06:09.11,Default,Hayakawa,0,0,0,,{TIME:367826,369119}No surprise there.
+Dialogue: 0,0:06:09.11,0:06:12.03,Default,Hayakawa,0,0,0,,{TIME:369119,372038}Of course you'd get chosen.
+Dialogue: 0,0:06:12.03,0:06:15.20,Default,Kakinouchi,0,0,0,,{TIME:372038,375208}I never dreamed we'd play together again so fast.
+Dialogue: 0,0:06:15.20,0:06:20.17,Default,Sanjou,0,0,0,,{TIME:375208,380171}We're up against Korea. Do you think we'll bump\Ninto Sai-san from the World Junior Championships?{NOTE:だけど韓国って言うと ジュニア世界選手権の時のサイさんも来てるんでしょ。}
+Dialogue: 0,0:06:20.17,0:06:21.25,Default,Kakinouchi,0,0,0,,{TIME:380171,381256}Naturally.
+Dialogue: 0,0:06:21.25,0:06:23.17,Default,Kakinouchi,0,0,0,,{TIME:381256,383174}Sai-san's bullet spike…
+Dialogue: 0,0:06:23.17,0:06:25.17,Default,Kakinouchi,0,0,0,,{TIME:383174,385176}I suppose she polished it beyond perfection.
+Dialogue: 0,0:06:28.88,0:06:29.93,Default,Kakinouchi,0,0,0,,{TIME:388889,389931}But no worries.
+Dialogue: 0,0:06:29.93,0:06:31.51,Default,Kakinouchi,0,0,0,,{TIME:389931,391516}We have our Ayuhara-san.
+Dialogue: 0,0:06:31.51,0:06:35.22,Default,Kakinouchi,0,0,0,,{TIME:391516,395228}Plus we beat them once.\NI wouldn't worry about anything.
+Dialogue: 0,0:06:35.22,0:06:39.31,Default,Ayuhara,0,0,0,,{TIME:395228,399316}Kakinouchi-san, believe me, I'd like to play\Nwith you more than anything…{NOTE:垣之内さん、それが私超十二のメンバーの中には入ってるけど…}
+Dialogue: 0,0:06:39.31,0:06:41.86,Default,Ayuhara,0,0,0,,{TIME:399316,401860}…but unfortunately I can't due to a wrist injury.{NOTE:…腕のXXで出場できないのよ。}
+Dialogue: 0,0:06:41.86,0:06:43.11,Default,Ayuhara,0,0,0,,{TIME:401860,403111}I'm sorry.
+Dialogue: 0,0:06:43.11,0:06:44.82,Default,(mixed),0,0,0,,{TIME:403111,404821}– Huh?\N– Really?
+Dialogue: 0,0:06:47.90,0:06:50.11,Default,Hayakawa,0,0,0,,{TIME:407908,410118}They're Akizuki-san and Higaki-san from Tōnan.
+Dialogue: 0,0:06:50.11,0:06:53.74,Default,Hayakawa,0,0,0,,{TIME:410118,413747}Yamamoto-san and Shirakawa-san\Nfrom Aoba are there, too.
+Dialogue: 0,0:06:55.49,0:06:56.49,Default,Kakinouchi,0,0,0,,{TIME:415498,416499}What's with them?
+Dialogue: 0,0:06:56.49,0:06:58.29,Default,Kakinouchi,0,0,0,,{TIME:416499,418293}They're creeping me out.
+Dialogue: 0,0:07:00.21,0:07:01.00,Default,Yagisawa Kaori,0,0,0,,{TIME:420211,421004}Ayuhara-san.
+Dialogue: 0,0:07:01.00,0:07:01.88,Default,Ayuhara,0,0,0,,{TIME:421004,421880}Oh!
+Dialogue: 0,0:07:03.50,0:07:05.30,Default,Higashida,0,0,0,,{TIME:423506,425300}Girls, may I have your attention?
+Dialogue: 0,0:07:08.80,0:07:11.64,Default,(unknown),0,0,0,,{TIME:428803,431640}Although Interhigh has just ended…{NOTE:インターハイが終わったばかりでご苦労ですが…}
+Dialogue: 0,0:07:11.64,0:07:16.35,Default,(unknown),0,0,0,,{TIME:431640,436353}…please remember that the twelve of you\Nrepresent the best players in whole Japan.{NOTE:…皆さんは日本高校女子バレーボール界を代表するベストメンバーであります。}
+Dialogue: 0,0:07:16.35,0:07:22.19,Default,(unknown),0,0,0,,{TIME:436353,442192}I would like you not to forget about it,\Nand give your best in the match with South Korea.{NOTE:どうかその誇りを忘れずに堂々と韓国チームと対戦されるよう切に希望いたします。}
+Dialogue: 0,0:07:22.19,0:07:28.57,Default,(unknown),0,0,0,,{TIME:442192,448573}In addition, since Jidōin High School's\NCoach Yagisawa is hospitalized…{NOTE:なおこの試合の式は優勝校寺堂院高校の八木沢監督は入院されておりますので。}
+Dialogue: 0,0:07:28.57,0:07:34.45,Default,(unknown),0,0,0,,{TIME:448573,454454}…I asked Professor Hongou\Nof Fujimi High School to supervise your new team.{NOTE:…変わって、準優勝校富士見高校の本郷監督にとっていただきます。}
+Dialogue: 0,0:07:35.83,0:07:39.20,Default,Hongou,0,0,0,,{TIME:455830,459209}Okay, well, we'll start training right away.{NOTE:それではこれから早速練習を始めるが…}
+Dialogue: 0,0:07:39.20,0:07:42.83,Default,Hongou,0,0,0,,{TIME:459209,462837}This training is all about making you into a real team.{NOTE:…日数がないのでチームワークに時間をおいてやる。}
+Dialogue: 0,0:07:42.83,0:07:46.54,Default,Hongou,0,0,0,,{TIME:462837,466549}The captain will be Yagisawa Kaori\Nfrom the Jidōin High School.
+Dialogue: 0,0:07:46.54,0:07:47.50,Default,Yagisawa Kaori,0,0,0,,{TIME:466549,467509}Yes sir.
+Dialogue: 0,0:07:47.50,0:07:49.09,Default,Hongou,0,0,0,,{TIME:467509,469094}Now onto the individual players.
+Dialogue: 0,0:07:49.09,0:07:51.01,Default,Hongou,0,0,0,,{TIME:469094,471012}I haven't decided anything yet.
+Dialogue: 0,0:07:51.01,0:07:53.84,Default,Hongou,0,0,0,,{TIME:471012,473848}I have to know you better before\NI decide who plays in which position.{NOTE:適材適所全員に出てもらうつもりでいる。}
+Dialogue: 0,0:07:53.84,0:07:55.01,Default,Hongou,0,0,0,,{TIME:473848,475016}That's all.
+Dialogue: 0,0:07:55.01,0:07:58.43,Default,Hongou,0,0,0,,{TIME:475016,478436}Ah, one last thing.\NRegretfully, Ayuhara Kozue of Fujimi High School…{NOTE:それから富士見高校の鮎原こずえは残念だが…}
+Dialogue: 0,0:07:58.43,0:08:02.69,Default,Hongou,0,0,0,,{TIME:478436,482691}…is excluded from the team for the time being\Ndue to an injury to her wrist.{NOTE:…腕の負傷をしているのでとりあえずメンバーから除外する。}
+Dialogue: 0,0:08:02.69,0:08:05.52,Default,Yagisawa Katsura,0,0,0,,{TIME:482691,485527}Ayuhara-san, don't you worry about anything.
+Dialogue: 0,0:08:05.52,0:08:07.36,Default,Yagisawa Katsura,0,0,0,,{TIME:485527,487362}Just leave it to us.
+Dialogue: 0,0:08:09.65,0:08:11.28,Default,Yagisawa Kaori,0,0,0,,{TIME:489656,491282}Katsura, don't say too much.
+Dialogue: 0,0:08:13.95,0:08:15.37,Default,Hongou,0,0,0,,{TIME:493952,495370}Let's begin the practice.
+Dialogue: 0,0:08:18.99,0:08:19.79,Default,Sanjou,0,0,0,,{TIME:498999,499791}Here goes!
+Dialogue: 0,0:08:25.38,0:08:26.17,Default,(unknown),0,0,0,,{TIME:505380,506171}Catch.
 Dialogue: 0,0:08:26.17,0:08:26.79,Default,(unknown),0,0,0,,{TIME:506171,506798}
-Dialogue: 0,0:08:31.51,0:08:33.59,Default,Kakinouchi,0,0,0,,{TIME:511511,513596}
-Dialogue: 0,0:08:33.59,0:08:34.97,Default,Shimizu,0,0,0,,{TIME:513596,514973}
-Dialogue: 0,0:08:34.97,0:08:37.85,Default,Shimizu,0,0,0,,{TIME:514973,517851}
-Dialogue: 0,0:08:37.85,0:08:38.89,Default,Ayuhara,0,0,0,,{TIME:517851,518893}
-Dialogue: 0,0:08:40.02,0:08:42.56,Default,Kakinouchi,0,0,0,,{TIME:520020,522564}
-Dialogue: 0,0:08:42.56,0:08:43.35,Default,(unknown),0,0,0,,{TIME:522564,523356}
-Dialogue: 0,0:08:43.35,0:08:44.56,Default,Hongou,0,0,0,,{TIME:523356,524566}
-Dialogue: 0,0:08:44.56,0:08:47.44,Default,Hongou,0,0,0,,{TIME:524566,527444}
-Dialogue: 0,0:08:47.44,0:08:49.40,Default,Kakinouchi,0,0,0,,{TIME:527444,529404}
-Dialogue: 0,0:08:51.69,0:08:53.65,Default,Shimizu,0,0,0,,{TIME:531698,533658}
-Dialogue: 0,0:08:53.65,0:08:55.95,Default,Shimizu,0,0,0,,{TIME:533658,535952}
-Dialogue: 0,0:08:55.95,0:08:58.53,Default,Shimizu,0,0,0,,{TIME:535952,538538}
-Dialogue: 0,0:09:06.04,0:09:08.29,Alternative,Ayuhara,0,0,0,,{TIME:546046,548298}
-Dialogue: 0,0:09:08.29,0:09:10.92,Alternative,Ayuhara,0,0,0,,{TIME:548298,550925}
-Dialogue: 0,0:09:13.55,0:09:16.22,Default,Kakinouchi,0,0,0,,{TIME:553553,556222}
-Dialogue: 0,0:09:17.26,0:09:18.09,Default,Ayuhara,0,0,0,,{TIME:557265,558099}
-Dialogue: 0,0:09:18.09,0:09:20.18,Default,Sanjou,0,0,0,,{TIME:558099,560185}
-Dialogue: 0,0:09:20.18,0:09:21.22,Default,Hayakawa,0,0,0,,{TIME:560185,561227}
-Dialogue: 0,0:09:21.22,0:09:22.56,Default,Hayakawa,0,0,0,,{TIME:561227,562562}
-Dialogue: 0,0:09:22.56,0:09:25.98,Default,Hayakawa,0,0,0,,{TIME:562562,565982}
-Dialogue: 0,0:09:25.98,0:09:29.15,Default,Oonuma,0,0,0,,{TIME:565982,569152}
-Dialogue: 0,0:09:29.15,0:09:33.23,Default,Sanjou,0,0,0,,{TIME:569152,573239}
-Dialogue: 0,0:09:33.23,0:09:38.62,Default,Sanjou,0,0,0,,{TIME:573239,578620}
-Dialogue: 0,0:09:39.99,0:09:41.33,Default,Kakinouchi,0,0,0,,{TIME:579996,581331}
-Dialogue: 0,0:09:41.33,0:09:46.46,Default,Kakinouchi,0,0,0,,{TIME:581331,586461}
-Dialogue: 0,0:09:46.46,0:09:49.13,Default,Kakinouchi,0,0,0,,{TIME:586461,589130}
-Dialogue: 0,0:09:49.13,0:09:50.29,Default,Sanjou,0,0,0,,{TIME:589130,590298}
-Dialogue: 0,0:09:50.29,0:09:55.59,Default,Sanjou,0,0,0,,{TIME:590298,595595}
-Dialogue: 0,0:09:55.59,0:09:59.59,Default,Sanjou,0,0,0,,{TIME:595595,599599}
-Dialogue: 0,0:09:59.59,0:10:00.80,Default,Sanjou,0,0,0,,{TIME:599599,600809}
-Dialogue: 0,0:10:00.80,0:10:05.31,Default,Oonuma,0,0,0,,{TIME:600809,605313}
-Dialogue: 0,0:10:05.31,0:10:07.98,Default,Ayuhara,0,0,0,,{TIME:605313,607982}
-Dialogue: 0,0:10:07.98,0:10:10.40,Default,Sanjou,0,0,0,,{TIME:607982,610401}
-Dialogue: 0,0:10:11.61,0:10:14.11,Default,Ayuhara,0,0,0,,{TIME:611611,614113}
-Dialogue: 0,0:10:14.11,0:10:15.36,Default,Hayakawa,0,0,0,,{TIME:614113,615365}
-Dialogue: 0,0:10:27.46,0:10:30.17,Default,Ayuhara,0,0,0,,{TIME:627460,630171}
-Dialogue: 0,0:10:30.17,0:10:31.54,Default,Sai's sister,0,0,0,,{TIME:630171,631548}
-Dialogue: 0,0:10:31.54,0:10:32.00,Default,Ayuhara,0,0,0,,{TIME:631548,632006}
-Dialogue: 0,0:10:32.00,0:10:32.92,Default,Ayuhara,0,0,0,,{TIME:632006,632924}
-Dialogue: 0,0:10:32.92,0:10:35.00,Default,Sai's sister,0,0,0,,{TIME:632924,635009}
-Dialogue: 0,0:10:35.00,0:10:37.09,Default,Ayuhara,0,0,0,,{TIME:635009,637095}
-Dialogue: 0,0:10:37.09,0:10:38.42,Default,Sai,0,0,0,,{TIME:637095,638429}
-Dialogue: 0,0:10:38.42,0:10:39.88,Default,Sai,0,0,0,,{TIME:638429,639889}
-Dialogue: 0,0:10:39.88,0:10:42.60,Default,Ayuhara,0,0,0,,{TIME:639889,642600}
-Dialogue: 0,0:10:42.60,0:10:46.22,Default,Sai,0,0,0,,{TIME:642600,646229}
-Dialogue: 0,0:10:46.22,0:10:49.89,Default,Sai,0,0,0,,{TIME:646229,649899}
-Dialogue: 0,0:10:51.48,0:10:52.86,Default,Sai's sister,0,0,0,,{TIME:651484,652861}
-Dialogue: 0,0:10:52.86,0:10:55.36,Default,Sai's sister,0,0,0,,{TIME:652861,655363}
-Dialogue: 0,0:10:55.36,0:10:57.74,Default,Sai's sister,0,0,0,,{TIME:655363,657740}
-Dialogue: 0,0:10:57.74,0:10:59.57,Default,Sai's sister,0,0,0,,{TIME:657740,659576}
-Dialogue: 0,0:10:59.57,0:11:02.07,Default,Sai,0,0,0,,{TIME:659576,662078}
-Dialogue: 0,0:11:02.07,0:11:03.49,Default,Sai's sister,0,0,0,,{TIME:662078,663496}
-Dialogue: 0,0:11:03.49,0:11:05.62,Default,Sai's sister,0,0,0,,{TIME:663496,665623}
-Dialogue: 0,0:11:05.62,0:11:08.45,Default,Sai's sister,0,0,0,,{TIME:665623,668459}
-Dialogue: 0,0:11:08.45,0:11:10.67,Default,Sai's sister,0,0,0,,{TIME:668459,670670}
-Dialogue: 0,0:11:10.67,0:11:12.54,Default,Sai's sister,0,0,0,,{TIME:670670,672547}
-Dialogue: 0,0:11:12.54,0:11:15.13,Default,Sai's sister,0,0,0,,{TIME:672547,675132}
-Dialogue: 0,0:11:16.34,0:11:18.63,Default,Ayuhara,0,0,0,,{TIME:676342,678636}
-Dialogue: 0,0:11:20.93,0:11:23.18,Default,Sai,0,0,0,,{TIME:680930,683183}
-Dialogue: 0,0:11:23.18,0:11:25.31,Default,Sai,0,0,0,,{TIME:683183,685310}
-Dialogue: 0,0:11:25.31,0:11:27.93,Default,Sai,0,0,0,,{TIME:685310,687937}
-Dialogue: 0,0:11:27.93,0:11:30.77,Default,Sai,0,0,0,,{TIME:687937,690773}
-Dialogue: 0,0:11:32.90,0:11:35.69,Default,Sai's sister,0,0,0,,{TIME:692901,695695}
-Dialogue: 0,0:11:35.69,0:11:37.32,Default,Ayuhara,0,0,0,,{TIME:695695,697322}
-Dialogue: 0,0:11:37.32,0:11:40.53,Default,Ayuhara,0,0,0,,{TIME:697322,700533}
-Dialogue: 0,0:11:40.53,0:11:42.91,Default,Ayuhara,0,0,0,,{TIME:700533,702911}
-Dialogue: 0,0:11:42.91,0:11:43.91,Default,Sai's sister,0,0,0,,{TIME:702911,703912}
-Dialogue: 0,0:11:43.91,0:11:45.99,Default,Sai's sister,0,0,0,,{TIME:703912,705997}
-Dialogue: 0,0:11:46.91,0:11:48.16,Default,Sai,0,0,0,,{TIME:706915,708166}
-Dialogue: 0,0:11:48.16,0:11:50.46,Default,Sai,0,0,0,,{TIME:708166,710460}
-Dialogue: 0,0:11:50.46,0:11:57.05,Default,Sai,0,0,0,,{TIME:710460,717050}
-Dialogue: 0,0:11:59.05,0:12:00.26,Default,Ayuhara,0,0,0,,{TIME:719052,720261}
-Dialogue: 0,0:12:05.80,0:12:06.76,Default,Ayuhara,0,0,0,,{TIME:725808,726767}
-Dialogue: 0,0:12:06.76,0:12:07.85,Default,Doctor A,0,0,0,,{TIME:726767,727852}
-Dialogue: 0,0:12:07.85,0:12:12.44,Default,Ayuhara,0,0,0,,{TIME:727852,732440}
-Dialogue: 0,0:12:12.44,0:12:13.56,Default,Doctor A,0,0,0,,{TIME:732440,733566}
-Dialogue: 0,0:12:13.56,0:12:14.52,Default,Doctor A,0,0,0,,{TIME:733566,734525}
-Dialogue: 0,0:12:14.52,0:12:15.44,Default,Ayuhara,0,0,0,,{TIME:734525,735443}
-Dialogue: 0,0:12:15.44,0:12:19.11,Default,Ayuhara,0,0,0,,{TIME:735443,739113}
-Dialogue: 0,0:12:19.11,0:12:20.94,Default,Doctor A,0,0,0,,{TIME:739113,740949}
-Dialogue: 0,0:12:20.94,0:12:26.03,Default,Doctor A,0,0,0,,{TIME:740949,746037}
-Dialogue: 0,0:12:26.03,0:12:26.87,Default,Ayuhara,0,0,0,,{TIME:746037,746871}
+Dialogue: 0,0:08:31.51,0:08:33.59,Default,Kakinouchi,0,0,0,,{TIME:511511,513596}Toss me the ball, Akizuki-san.
+Dialogue: 0,0:08:33.59,0:08:34.97,Default,Shimizu,0,0,0,,{TIME:513596,514973}Ayuhara-san.
+Dialogue: 0,0:08:34.97,0:08:37.85,Default,Shimizu,0,0,0,,{TIME:514973,517851}Seeing practice from the stands once in a while\Nis a good opportunity to learn.{NOTE:たまには人の練習をみるのもいい勉強になるでしょ。}
+Dialogue: 0,0:08:37.85,0:08:38.89,Default,Ayuhara,0,0,0,,{TIME:517851,518893}Yeah…
+Dialogue: 0,0:08:40.02,0:08:42.56,Default,Kakinouchi,0,0,0,,{TIME:520020,522564}What's with that halfhearted toss?
+Dialogue: 0,0:08:42.56,0:08:43.35,Default,(unknown),0,0,0,,{TIME:522564,523356}Hmph.
+Dialogue: 0,0:08:43.35,0:08:44.56,Default,Hongou,0,0,0,,{TIME:523356,524566}Kakinouchi!
+Dialogue: 0,0:08:44.56,0:08:47.44,Default,Hongou,0,0,0,,{TIME:524566,527444}Your tone doesn't help building a good teamwork.\NDo we understand each other?
+Dialogue: 0,0:08:47.44,0:08:49.40,Default,Kakinouchi,0,0,0,,{TIME:527444,529404}B-But…
+Dialogue: 0,0:08:51.69,0:08:53.65,Default,Shimizu,0,0,0,,{TIME:531698,533658}I bet we're thinking the same thing.
+Dialogue: 0,0:08:53.65,0:08:58.53,Default,Shimizu,0,0,0,,{TIME:533658,538538}Even if they're the best players in the country,\Nhere they're just a bunch of random people.{NOTE:いくら ベスト メンバーを揃えたところでこれじゃまるで烏合の衆としか言いようがないわ。}
+Dialogue: 0,0:09:06.12,0:09:08.29,Alternative,Ayuhara,0,0,0,,{TIME:546129,548298}This is no good.
+Dialogue: 0,0:09:08.29,0:09:10.92,Alternative,Ayuhara,0,0,0,,{TIME:548298,550925}But I just don't understand their attitude.
+Dialogue: 0,0:09:13.55,0:09:16.22,Default,Kakinouchi,0,0,0,,{TIME:553553,556222}Ayuhara-san, did you see our practice?
+Dialogue: 0,0:09:17.26,0:09:18.09,Default,Ayuhara,0,0,0,,{TIME:557265,558099}Yes.
+Dialogue: 0,0:09:18.09,0:09:20.18,Default,Sanjou,0,0,0,,{TIME:558099,560185}We can't possibly train like that.
+Dialogue: 0,0:09:20.18,0:09:21.22,Default,Hayakawa,0,0,0,,{TIME:560185,561227}Yeah.
+Dialogue: 0,0:09:21.22,0:09:22.56,Default,Hayakawa,0,0,0,,{TIME:561227,562562}It's every man for himself.
+Dialogue: 0,0:09:22.56,0:09:25.98,Default,Hayakawa,0,0,0,,{TIME:562562,565982}Especially the girls from Tōnan and Aoba.
+Dialogue: 0,0:09:25.98,0:09:29.19,Default,Oonuma,0,0,0,,{TIME:565982,569194}Why can't they put some effort into this practice?{NOTE:どうして練習に熱を入れないのかしら。}
+Dialogue: 0,0:09:29.19,0:09:33.23,Default,Sanjou,0,0,0,,{TIME:569194,573239}They seem to be thinking\Nabout the tournament in next spring.{NOTE:あの人たち来年春の選抜大会のこと考えてるらしいのよ。}
+Dialogue: 0,0:09:33.23,0:09:38.62,Default,Sanjou,0,0,0,,{TIME:573239,578620}They don't want us to see\Ntheir techniques and style because of that.
+Dialogue: 0,0:09:39.99,0:09:41.33,Default,Kakinouchi,0,0,0,,{TIME:579996,581331}Ayuhara-san.
+Dialogue: 0,0:09:41.33,0:09:46.46,Default,Kakinouchi,0,0,0,,{TIME:581331,586461}I bet Aoba team holds a grudge against you\Nfor losing in this year's Interhigh.
+Dialogue: 0,0:09:46.46,0:09:49.13,Default,Kakinouchi,0,0,0,,{TIME:586461,589130}They're thinking of their revenge\Nat the next tournament.
+Dialogue: 0,0:09:49.13,0:09:50.29,Default,Sanjou,0,0,0,,{TIME:589130,590298}Agreed.
+Dialogue: 0,0:09:50.29,0:09:55.59,Default,Sanjou,0,0,0,,{TIME:590298,595595}Also, I was told that Tōnan is using computers\Nto analyze the power of the rival schools.
+Dialogue: 0,0:09:55.59,0:09:59.59,Default,Sanjou,0,0,0,,{TIME:595595,599599}I'm sure they're seeing this match\Nas a way to collect more data on us.
+Dialogue: 0,0:09:59.59,0:10:00.80,Default,Sanjou,0,0,0,,{TIME:599599,600809}There's no doubt about it.
+Dialogue: 0,0:10:00.80,0:10:05.31,Default,Oonuma,0,0,0,,{TIME:600809,605313}With that kind of attitude,\Nit'll be really difficult to win the game.
+Dialogue: 0,0:10:05.31,0:10:07.98,Default,Ayuhara,0,0,0,,{TIME:605313,607982}What about the Yagisawa sisters from Jidōin?
+Dialogue: 0,0:10:07.98,0:10:10.40,Default,Sanjou,0,0,0,,{TIME:607982,610401}Well, they're pretty angry, of course.
+Dialogue: 0,0:10:11.61,0:10:14.11,Default,Ayuhara,0,0,0,,{TIME:611611,614113}I'm going to the medical office.\NBe right back.
+Dialogue: 0,0:10:14.11,0:10:15.36,Default,Hayakawa,0,0,0,,{TIME:614113,615365}Kozue?
+Dialogue: 0,0:10:27.46,0:10:30.17,Default,Ayuhara,0,0,0,,{TIME:627460,630171}I'm sorry, but I'm in a hurry.
+Dialogue: 0,0:10:30.17,0:10:31.54,Default,Jin-yeong,0,0,0,,{TIME:630171,631548}It's okay.\NAyuhara-san?
+Dialogue: 0,0:10:31.54,0:10:32.00,Default,Ayuhara,0,0,0,,{TIME:631548,632006}Huh?
+Dialogue: 0,0:10:32.00,0:10:32.92,Default,Ayuhara,0,0,0,,{TIME:632006,632924}How do you know me?
+Dialogue: 0,0:10:32.92,0:10:35.00,Default,Jin-yeong,0,0,0,,{TIME:632924,635009}Jin-yeong.
+Dialogue: 0,0:10:35.00,0:10:37.09,Default,Ayuhara,0,0,0,,{TIME:635009,637095}Oh, Sai-san!
+Dialogue: 0,0:10:37.09,0:10:38.42,Default,Sai,0,0,0,,{TIME:637095,638429}Ayuhara-san.
+Dialogue: 0,0:10:38.42,0:10:39.88,Default,Sai,0,0,0,,{TIME:638429,639889}Long time no see.
+Dialogue: 0,0:10:39.88,0:10:42.60,Default,Ayuhara,0,0,0,,{TIME:639889,642600}Thank you for your support in America.{NOTE:アメリカでの友情本当に有難う。}
+Dialogue: 0,0:10:42.60,0:10:46.22,Default,Sai,0,0,0,,{TIME:642600,646229}It was nothing.\NWe trained very hard since then.{NOTE:いいえ。あれから私たち一生懸命練習しました。}
+Dialogue: 0,0:10:46.22,0:10:49.89,Default,Sai,0,0,0,,{TIME:646229,649899}We came here to Japan\Nto test the results of it.{NOTE:そしてその成果を試すために、鮎原さん、日本へ来たのです。}
+Dialogue: 0,0:10:51.48,0:10:52.86,Default,Jin-yeong,0,0,0,,{TIME:651484,652861}Sis!
+Dialogue: 0,0:10:52.86,0:10:55.36,Default,Jin-yeong,0,0,0,,{TIME:652861,655363}I talked to Ayuhara-san first.{NOTE:私の先鮎原さんと話してたのよ。}
+Dialogue: 0,0:10:55.36,0:10:57.74,Default,Jin-yeong,0,0,0,,{TIME:655363,657740}Then you came in and interrupted.
+Dialogue: 0,0:10:57.74,0:10:59.57,Default,Jin-yeong,0,0,0,,{TIME:657740,659576}That was rude, Sis!
+Dialogue: 0,0:10:59.57,0:11:02.07,Default,Sai,0,0,0,,{TIME:659576,662078}Sorry, sorry.
+Dialogue: 0,0:11:02.07,0:11:03.49,Default,Jin-yeong,0,0,0,,{TIME:662078,663496}Let me introduce myself.
+Dialogue: 0,0:11:03.49,0:11:05.62,Default,Jin-yeong,0,0,0,,{TIME:663496,665623}I'm her younger sister, Jin-yeong.
+Dialogue: 0,0:11:05.62,0:11:08.45,Default,Jin-yeong,0,0,0,,{TIME:665623,668459}I heard a lot about you from my sis.
+Dialogue: 0,0:11:08.45,0:11:10.67,Default,Jin-yeong,0,0,0,,{TIME:668459,670670}She told me you're an outstanding player.
+Dialogue: 0,0:11:10.67,0:11:12.54,Default,Jin-yeong,0,0,0,,{TIME:670670,672547}She even showed me a picture of you.
+Dialogue: 0,0:11:12.54,0:11:15.13,Default,Jin-yeong,0,0,0,,{TIME:672547,675132}That's why it doesn't feel\Nlike I met you for the first time.{NOTE:だから初めて会った気がしません}
+Dialogue: 0,0:11:16.34,0:11:18.63,Default,Ayuhara,0,0,0,,{TIME:676342,678636}I'm also happy to meet you.
+Dialogue: 0,0:11:20.93,0:11:25.31,Default,Sai,0,0,0,,{TIME:680930,685310}She's still in middle school,\Nbut she's already part of our team.
+Dialogue: 0,0:11:25.31,0:11:27.93,Default,Sai,0,0,0,,{TIME:685310,687937}She really wanted to come here to Japan\Nand play with you, Ayuhara-san.
+Dialogue: 0,0:11:27.93,0:11:30.77,Default,Sai,0,0,0,,{TIME:687937,690773}You've no idea how excited she was about it.
+Dialogue: 0,0:11:32.90,0:11:35.69,Default,Jin-yeong,0,0,0,,{TIME:692901,695695}Ayuhara-san, I'm glad we finally meet.
+Dialogue: 0,0:11:35.69,0:11:37.32,Default,Ayuhara,0,0,0,,{TIME:695695,697322}But, you see…
+Dialogue: 0,0:11:37.32,0:11:42.91,Default,Ayuhara,0,0,0,,{TIME:697322,702911}I hurt my wrist in the Interhigh finals.\NAs a result, I can't play for a while.
+Dialogue: 0,0:11:42.91,0:11:43.91,Default,Jin-yeong,0,0,0,,{TIME:702911,703912}Huh?
+Dialogue: 0,0:11:43.91,0:11:45.99,Default,Jin-yeong,0,0,0,,{TIME:703912,705997}Ayuhara-san, you can't play?\NThat's disappointing…
+Dialogue: 0,0:11:46.91,0:11:48.16,Default,Sai,0,0,0,,{TIME:706915,708166}Ayuhara-san.
+Dialogue: 0,0:11:48.16,0:11:50.46,Default,Sai,0,0,0,,{TIME:708166,710460}To be honest, I'm disappointed, too.
+Dialogue: 0,0:11:50.46,0:11:57.05,Default,Sai,0,0,0,,{TIME:710460,717050}My bullet spike lost to you back in America,\Nbut I'm confident we can win this time.
+Dialogue: 0,0:11:59.05,0:12:00.26,Default,Ayuhara,0,0,0,,{TIME:719052,720261}Excuse me.
+Dialogue: 0,0:12:05.80,0:12:06.76,Default,Ayuhara,0,0,0,,{TIME:725808,726767}Doctor.
+Dialogue: 0,0:12:06.76,0:12:07.85,Default,Doctor A,0,0,0,,{TIME:726767,727852}Do you need anything?
+Dialogue: 0,0:12:07.85,0:12:12.44,Default,Ayuhara,0,0,0,,{TIME:727852,732440}Does it really take a week\Nuntil it heals up?
+Dialogue: 0,0:12:12.44,0:12:13.56,Default,Doctor A,0,0,0,,{TIME:732440,733566}Hmm…
+Dialogue: 0,0:12:13.56,0:12:14.52,Default,Doctor A,0,0,0,,{TIME:733566,734525}It does.
+Dialogue: 0,0:12:14.52,0:12:15.44,Default,Ayuhara,0,0,0,,{TIME:734525,735443}Please.
+Dialogue: 0,0:12:15.44,0:12:19.11,Default,Ayuhara,0,0,0,,{TIME:735443,739113}Could you please make it heal any faster?
+Dialogue: 0,0:12:19.11,0:12:20.94,Default,Doctor A,0,0,0,,{TIME:739113,740949}I can't do anything.
+Dialogue: 0,0:12:20.94,0:12:26.03,Default,Doctor A,0,0,0,,{TIME:740949,746037}I think it's obvious, but if a torn muscle\Ndoesn't heal properly, there will be complications.
+Dialogue: 0,0:12:26.03,0:12:26.87,Default,Ayuhara,0,0,0,,{TIME:746037,746871}Eh…
 Comment: 0,0:12:31.62,0:12:31.62,Default,[chapter],0,0,0,,{TIME:751626,751626}Part B
-Dialogue: 0,0:12:32.12,0:12:35.63,Sign,(sign),0,0,0,,{TIME:752126,755630}
-Dialogue: 0,0:12:37.08,0:12:38.92,Default,Ayuhara,0,0,0,,{TIME:757089,758925}
-Dialogue: 0,0:12:38.92,0:12:39.88,Default,Shimizu,0,0,0,,{TIME:758925,759884}
-Dialogue: 0,0:12:39.88,0:12:43.80,Default,Ayuhara,0,0,0,,{TIME:759884,763805}
-Dialogue: 0,0:12:43.80,0:12:48.76,Default,Shimizu,0,0,0,,{TIME:763805,768768}
-Dialogue: 0,0:12:48.76,0:12:50.97,Default,Ayuhara,0,0,0,,{TIME:768768,770979}
-Dialogue: 0,0:12:50.97,0:12:52.18,Default,Shimizu,0,0,0,,{TIME:770979,772188}
-Dialogue: 0,0:12:52.18,0:12:56.56,Default,Shimizu,0,0,0,,{TIME:772188,776567}
-Dialogue: 0,0:12:56.56,0:12:58.52,Default,Landlady,0,0,0,,{TIME:776567,778528}
-Dialogue: 0,0:12:58.52,0:13:00.02,Default,Ayuhara,0,0,0,,{TIME:778528,780029}
-Dialogue: 0,0:13:02.24,0:13:03.57,Default,Ayuhara,0,0,0,,{TIME:782240,783574}
-Dialogue: 0,0:13:03.57,0:13:05.41,Default,Ayuhara,0,0,0,,{TIME:783574,785410}
-Dialogue: 0,0:13:05.41,0:13:09.37,Default,Sai,0,0,0,,{TIME:785410,789372}
-Dialogue: 0,0:13:09.37,0:13:10.54,Default,Ayuhara,0,0,0,,{TIME:789372,790540}
-Dialogue: 0,0:13:10.54,0:13:14.04,Default,Ayuhara,0,0,0,,{TIME:790540,794043}
-Dialogue: 0,0:13:14.04,0:13:15.50,Default,Sai,0,0,0,,{TIME:794043,795503}
-Dialogue: 0,0:13:15.50,0:13:18.79,Default,Sai,0,0,0,,{TIME:795503,798798}
-Dialogue: 0,0:13:18.79,0:13:20.67,Default,Ayuhara,0,0,0,,{TIME:798798,800675}
-Dialogue: 0,0:13:20.67,0:13:24.80,Default,Sai,0,0,0,,{TIME:800675,804804}
-Dialogue: 0,0:13:24.80,0:13:28.34,Default,Ayuhara,0,0,0,,{TIME:804804,808349}
-Dialogue: 0,0:13:28.34,0:13:30.68,Default,Ayuhara,0,0,0,,{TIME:808349,810685}
-Dialogue: 0,0:13:30.68,0:13:32.10,Default,(unison),0,0,0,,{TIME:810685,812103}
-Dialogue: 0,0:13:32.10,0:13:32.93,Default,Ayuhara,0,0,0,,{TIME:812103,812937}
-Dialogue: 0,0:13:32.93,0:13:36.06,Default,Ayuhara,0,0,0,,{TIME:812937,816065}
-Dialogue: 0,0:13:36.06,0:13:38.06,Default,Ishida,0,0,0,,{TIME:816065,818067}
-Dialogue: 0,0:13:38.06,0:13:39.86,Default,Ishida,0,0,0,,{TIME:818067,819861}
-Dialogue: 0,0:13:39.86,0:13:42.48,Default,Ishikawa,0,0,0,,{TIME:819861,822488}
-Dialogue: 0,0:13:42.48,0:13:45.11,Default,Ishikawa,0,0,0,,{TIME:822488,825116}
-Dialogue: 0,0:13:47.66,0:13:48.66,Default,Takeichi,0,0,0,,{TIME:827660,828661}
-Dialogue: 0,0:13:48.66,0:13:51.16,Default,Takeichi,0,0,0,,{TIME:828661,831164}
-Dialogue: 0,0:13:52.49,0:13:58.50,Default,Ayuhara,0,0,0,,{TIME:832498,838503}
-Dialogue: 0,0:13:58.50,0:14:02.80,Default,Ayuhara,0,0,0,,{TIME:838503,842800}
-Dialogue: 0,0:14:02.80,0:14:04.21,Default,Ayuhara,0,0,0,,{TIME:842800,844218}
-Dialogue: 0,0:14:12.14,0:14:18.73,Default,Ayuhara,0,0,0,,{TIME:852143,858733}
-Dialogue: 0,0:14:18.73,0:14:21.48,Default,Ayuhara,0,0,0,,{TIME:858733,861486}
-Dialogue: 0,0:14:21.48,0:14:25.19,Default,Ayuhara,0,0,0,,{TIME:861486,865198}
-Dialogue: 0,0:14:25.19,0:14:28.07,Default,Ayuhara,0,0,0,,{TIME:865198,868076}
-Dialogue: 0,0:14:28.07,0:14:31.91,Default,Ayuhara,0,0,0,,{TIME:868076,871913}
-Dialogue: 0,0:14:31.91,0:14:35.62,Default,Ayuhara,0,0,0,,{TIME:871913,875625}
-Dialogue: 0,0:14:35.62,0:14:38.33,Default,Ayuhara,0,0,0,,{TIME:875625,878336}
-Dialogue: 0,0:14:39.42,0:14:45.71,Default,Ayuhara,0,0,0,,{TIME:879420,885718}
-Dialogue: 0,0:14:49.47,0:14:52.47,Default,Ayuhara,0,0,0,,{TIME:889472,892475}
-Dialogue: 0,0:14:52.47,0:14:55.14,Default,Ayuhara,0,0,0,,{TIME:892475,895144}
-Dialogue: 0,0:14:55.14,0:15:00.02,Default,Ayuhara,0,0,0,,{TIME:895144,900024}
-Dialogue: 0,0:15:04.15,0:15:07.40,Default,Ayuhara,0,0,0,,{TIME:904153,907407}
-Dialogue: 0,0:15:07.40,0:15:10.74,Default,Ayuhara,0,0,0,,{TIME:907407,910743}
-Dialogue: 0,0:15:12.41,0:15:14.45,Default,Ayuhara,0,0,0,,{TIME:912412,914455}
-Dialogue: 0,0:15:14.45,0:15:16.20,Alternative,Sai,0,0,0,,{TIME:914455,916207}
-Dialogue: 0,0:15:16.20,0:15:18.83,Alternative,Sai,0,0,0,,{TIME:916207,918835}
-Dialogue: 0,0:15:18.83,0:15:21.04,Default,Ayuhara,0,0,0,,{TIME:918835,921045}
-Dialogue: 0,0:15:26.88,0:15:30.93,Default,Takeichi,0,0,0,,{TIME:926884,930930}
-Dialogue: 0,0:15:30.93,0:15:31.93,Default,Ishida,0,0,0,,{TIME:930930,931930}
-Dialogue: 0,0:15:31.93,0:15:32.80,Default,Inomata,0,0,0,,{TIME:931930,932807}
-Dialogue: 0,0:15:32.80,0:15:33.89,Default,(unknown),0,0,0,,{TIME:932807,933891}
-Dialogue: 0,0:15:35.51,0:15:36.85,Default,Ayuhara,0,0,0,,{TIME:935518,936853}
-Dialogue: 0,0:15:37.89,0:15:38.89,Default,Shimizu,0,0,0,,{TIME:937895,938896}
-Dialogue: 0,0:15:38.89,0:15:41.06,Default,Ayuhara,0,0,0,,{TIME:938896,941065}
-Dialogue: 0,0:15:41.06,0:15:42.35,Default,Shimizu,0,0,0,,{TIME:941065,942358}
-Dialogue: 0,0:15:42.35,0:15:43.73,Default,Shimizu,0,0,0,,{TIME:942358,943734}
-Dialogue: 0,0:15:43.73,0:15:45.23,Default,Ayuhara,0,0,0,,{TIME:943734,945236}
-Dialogue: 0,0:15:46.40,0:15:51.78,Default,Takeichi,0,0,0,,{TIME:946404,951784}
-Dialogue: 0,0:15:51.78,0:15:54.57,Default,Takeichi,0,0,0,,{TIME:951784,954579}
-Dialogue: 0,0:15:54.57,0:15:56.37,Default,Sai,0,0,0,,{TIME:954579,956372}
-Dialogue: 0,0:15:56.37,0:15:57.83,Default,(unison),0,0,0,,{TIME:956372,957832}
-Dialogue: 0,0:15:59.58,0:16:00.50,Default,Takeichi,0,0,0,,{TIME:959584,960501}
-Dialogue: 0,0:16:07.92,0:16:09.26,Alternative,Ayuhara,0,0,0,,{TIME:967925,969260}
-Dialogue: 0,0:16:09.26,0:16:11.47,Alternative,Ayuhara,0,0,0,,{TIME:969260,971471}
-Dialogue: 0,0:16:11.47,0:16:14.30,Alternative,Ayuhara,0,0,0,,{TIME:971471,974307}
-Dialogue: 0,0:16:14.30,0:16:17.01,Alternative,Ayuhara,0,0,0,,{TIME:974307,977018}
-Dialogue: 0,0:16:17.01,0:16:20.02,Alternative,Ayuhara,0,0,0,,{TIME:977018,980021}
-Dialogue: 0,0:16:20.02,0:16:21.81,Alternative,Ayuhara,0,0,0,,{TIME:980021,981814}
-Dialogue: 0,0:16:21.81,0:16:25.44,Alternative,Ayuhara,0,0,0,,{TIME:981814,985443}
-Dialogue: 0,0:16:25.44,0:16:27.02,Alternative,Ayuhara,0,0,0,,{TIME:985443,987028}
-Dialogue: 0,0:16:27.02,0:16:33.86,Alternative,Ayuhara,0,0,0,,{TIME:987028,993867}
-Dialogue: 0,0:16:46.96,0:16:49.17,Default,Ayuhara,0,0,0,,{TIME:1006964,1009175}
-Dialogue: 0,0:16:56.55,0:16:58.72,Default,Ayuhara,0,0,0,,{TIME:1016557,1018726}
-Dialogue: 0,0:16:58.72,0:16:59.39,Default,Shimizu,0,0,0,,{TIME:1018726,1019393}
-Dialogue: 0,0:17:10.44,0:17:11.57,Default,Yagisawa Katsura,0,0,0,,{TIME:1030446,1031571}
-Dialogue: 0,0:17:11.57,0:17:13.07,Default,Yagisawa Katsura,0,0,0,,{TIME:1031571,1033074}
-Dialogue: 0,0:17:15.03,0:17:18.66,Default,Yagisawa Shizuka,0,0,0,,{TIME:1035034,1038663}
-Dialogue: 0,0:17:18.66,0:17:20.95,Default,Akizuki,0,0,0,,{TIME:1038663,1040956}
-Dialogue: 0,0:17:20.95,0:17:21.87,Default,Kakinouchi,0,0,0,,{TIME:1040956,1041874}
-Dialogue: 0,0:17:21.87,0:17:23.45,Default,(unknown),0,0,0,,{TIME:1041874,1043459}
-Dialogue: 0,0:17:23.45,0:17:25.04,Default,(unknown),0,0,0,,{TIME:1043459,1045043}
-Dialogue: 0,0:17:27.33,0:17:28.29,Default,Ayuhara,0,0,0,,{TIME:1047338,1048297}
-Dialogue: 0,0:17:28.29,0:17:29.79,Default,Hayakawa,0,0,0,,{TIME:1048297,1049799}
-Dialogue: 0,0:17:29.79,0:17:30.84,Default,Ayuhara,0,0,0,,{TIME:1049799,1050841}
-Dialogue: 0,0:17:30.84,0:17:32.63,Default,Ayuhara,0,0,0,,{TIME:1050841,1052635}
-Dialogue: 0,0:17:32.63,0:17:35.30,Default,Ayuhara,0,0,0,,{TIME:1052635,1055304}
-Dialogue: 0,0:17:35.30,0:17:36.43,Default,(unknown),0,0,0,,{TIME:1055304,1056430}
-Dialogue: 0,0:17:36.43,0:17:40.35,Default,(unknown),0,0,0,,{TIME:1056430,1060351}
-Dialogue: 0,0:17:40.35,0:17:42.35,Default,(unknown),0,0,0,,{TIME:1060351,1062353}
-Dialogue: 0,0:17:42.35,0:17:44.31,Default,Ayuhara,0,0,0,,{TIME:1062353,1064313}
-Dialogue: 0,0:17:44.31,0:17:47.73,Default,Akizuki,0,0,0,,{TIME:1064313,1067733}
-Dialogue: 0,0:17:47.73,0:17:51.23,Default,Akizuki,0,0,0,,{TIME:1067733,1071237}
-Dialogue: 0,0:17:51.23,0:17:52.90,Default,(unknown),0,0,0,,{TIME:1071237,1072905}
-Dialogue: 0,0:17:53.86,0:17:54.74,Default,Higashida,0,0,0,,{TIME:1073864,1074740}
-Dialogue: 0,0:17:54.74,0:17:56.61,Default,Higashida,0,0,0,,{TIME:1074740,1076617}
-Dialogue: 0,0:17:56.61,0:18:00.12,Default,Hongou,0,0,0,,{TIME:1076617,1080121}
-Dialogue: 0,0:18:00.12,0:18:04.41,Default,Hongou,0,0,0,,{TIME:1080121,1084417}
-Dialogue: 0,0:18:04.41,0:18:06.75,Default,Higashida,0,0,0,,{TIME:1084417,1086752}
-Dialogue: 0,0:18:09.63,0:18:11.17,Default,Higashida,0,0,0,,{TIME:1089630,1091173}
-Dialogue: 0,0:18:13.30,0:18:16.01,Default,Yagisawa Kaori,0,0,0,,{TIME:1093301,1096012}
-Dialogue: 0,0:18:16.01,0:18:19.93,Default,Yagisawa Kaori,0,0,0,,{TIME:1096012,1099932}
-Dialogue: 0,0:18:19.93,0:18:20.85,Default,Higashida,0,0,0,,{TIME:1099932,1100850}
-Dialogue: 0,0:18:20.85,0:18:23.97,Default,Higashida,0,0,0,,{TIME:1100850,1103977}
-Dialogue: 0,0:18:23.97,0:18:25.47,Default,(mixed),0,0,0,,{TIME:1103977,1105479}
-Dialogue: 0,0:18:25.47,0:18:27.23,Default,Yagisawa Shizuka,0,0,0,,{TIME:1105479,1107231}
-Dialogue: 0,0:18:27.23,0:18:29.85,Default,Higashida,0,0,0,,{TIME:1107231,1109859}
-Dialogue: 0,0:18:29.85,0:18:32.32,Default,Hongou,0,0,0,,{TIME:1109859,1112320}
-Dialogue: 0,0:18:32.32,0:18:33.90,Default,Yagisawa Kaori,0,0,0,,{TIME:1112320,1113904}
-Dialogue: 0,0:18:33.90,0:18:36.19,Default,Hongou,0,0,0,,{TIME:1113904,1116198}
-Dialogue: 0,0:18:36.19,0:18:37.53,Default,Yagisawa Katsura,0,0,0,,{TIME:1116198,1117533}
-Dialogue: 0,0:18:37.53,0:18:38.74,Default,Yagisawa Kaori,0,0,0,,{TIME:1117533,1118743}
-Dialogue: 0,0:18:38.74,0:18:45.45,Default,Yagisawa Kaori,0,0,0,,{TIME:1118743,1125458}
-Dialogue: 0,0:18:45.45,0:18:47.41,Default,Yagisawa Kaori,0,0,0,,{TIME:1125458,1127418}
-Dialogue: 0,0:18:47.41,0:18:48.91,Default,Ayuhara,0,0,0,,{TIME:1127418,1128919}
-Dialogue: 0,0:18:48.91,0:18:53.42,Default,Yagisawa Kaori,0,0,0,,{TIME:1128919,1133424}
-Dialogue: 0,0:18:53.42,0:18:55.05,Default,Ayuhara,0,0,0,,{TIME:1133424,1135051}
-Dialogue: 0,0:18:55.05,0:18:56.42,Default,Higashida,0,0,0,,{TIME:1135051,1136427}
-Dialogue: 0,0:18:56.42,0:18:57.51,Default,Higashida,0,0,0,,{TIME:1136427,1137511}
-Dialogue: 0,0:18:57.51,0:18:59.93,Default,Yagisawa Kaori,0,0,0,,{TIME:1137511,1139930}
-Dialogue: 0,0:19:02.97,0:19:06.56,Default,Ayuhara,0,0,0,,{TIME:1142975,1146562}
-Dialogue: 0,0:19:08.18,0:19:09.85,Default,Hongou,0,0,0,,{TIME:1148189,1149857}
-Dialogue: 0,0:19:09.85,0:19:11.10,Default,Hayakawa,0,0,0,,{TIME:1149857,1151108}
-Dialogue: 0,0:19:11.10,0:19:12.06,Default,Hayakawa,0,0,0,,{TIME:1151108,1152068}
-Dialogue: 0,0:19:12.06,0:19:14.90,Default,Hayakawa,0,0,0,,{TIME:1152068,1154904}
-Dialogue: 0,0:19:18.78,0:19:19.61,Default,Hayakawa,0,0,0,,{TIME:1158783,1159617}
-Dialogue: 0,0:19:19.61,0:19:21.11,Sign,(sign),0,0,0,,{TIME:1159617,1161118}
-Dialogue: 0,0:19:25.37,0:19:26.74,Default,Ayuhara,0,0,0,,{TIME:1165373,1166749}
-Dialogue: 0,0:19:26.74,0:19:28.00,Default,Doctor A,0,0,0,,{TIME:1166749,1168000}
-Dialogue: 0,0:19:28.00,0:19:30.41,Default,Doctor A,0,0,0,,{TIME:1168000,1170419}
-Dialogue: 0,0:19:30.41,0:19:32.79,Default,Ayuhara,0,0,0,,{TIME:1170419,1172797}
-Dialogue: 0,0:19:32.79,0:19:35.46,Default,Doctor A,0,0,0,,{TIME:1172797,1175466}
-Dialogue: 0,0:19:35.46,0:19:40.13,Default,Ayuhara,0,0,0,,{TIME:1175466,1180137}
-Dialogue: 0,0:19:40.13,0:19:43.14,Default,Doctor A,0,0,0,,{TIME:1180137,1183140}
-Dialogue: 0,0:19:43.14,0:19:44.55,Default,Ayuhara,0,0,0,,{TIME:1183140,1184558}
-Dialogue: 0,0:19:45.76,0:19:47.56,Default,Doctor A,0,0,0,,{TIME:1185768,1187561}
-Dialogue: 0,0:19:51.06,0:19:55.52,Alternative,Yagisawa Kaori,0,0,0,,{TIME:1191065,1195528}
-Dialogue: 0,0:19:55.52,0:19:57.82,Alternative,Sai's sister,0,0,0,,{TIME:1195528,1197822}
-Dialogue: 0,0:19:57.82,0:19:59.99,Alternative,Sai's sister,0,0,0,,{TIME:1197822,1199990}
-Dialogue: 0,0:19:59.99,0:20:03.41,Alternative,Sai,0,0,0,,{TIME:1199990,1203411}
-Dialogue: 0,0:20:03.41,0:20:09.91,Alternative,Sai,0,0,0,,{TIME:1203411,1209917}
-Dialogue: 0,0:20:09.91,0:20:12.29,Alternative,Sai,0,0,0,,{TIME:1209917,1212293}
-Dialogue: 0,0:20:15.58,0:20:17.13,Default,Ayuhara,0,0,0,,{TIME:1215589,1217133}
-Dialogue: 0,0:20:17.13,0:20:19.46,Default,Ayuhara,0,0,0,,{TIME:1217133,1219468}
-Dialogue: 0,0:20:19.46,0:20:21.26,Default,Ayuhara,0,0,0,,{TIME:1219468,1221262}
-Dialogue: 0,0:20:29.47,0:20:31.10,Default,Ayuhara,0,0,0,,{TIME:1229478,1231105}
-Dialogue: 0,0:20:31.10,0:20:37.73,Default,Doctor A,0,0,0,,{TIME:1231105,1237737}
-Dialogue: 0,0:20:37.73,0:20:39.19,Default,Ayuhara,0,0,0,,{TIME:1237737,1239196}
-Dialogue: 0,0:20:42.15,0:20:45.20,Default,Yagisawa sisters' mom,0,0,0,,{TIME:1242158,1245202}
-Dialogue: 0,0:20:45.20,0:20:49.29,Default,Yagisawa sisters' mom,0,0,0,,{TIME:1245202,1249290}
-Dialogue: 0,0:20:49.29,0:20:52.12,Default,Yagisawa sisters' mom,0,0,0,,{TIME:1249290,1252126}
-Dialogue: 0,0:20:52.12,0:20:54.54,Default,Yagisawa sisters' mom,0,0,0,,{TIME:1252126,1254545}
+Dialogue: 0,0:12:32.12,0:12:35.63,Sign,(sign),0,0,0,,{TIME:752126,755630}{\1c&H101010&\3c&H101010&\4c&H101010&\t(0,2000,\1c&H9AFBDC&\3c&H202020&\4c&H202020&)}Matsukaze Inn
+Dialogue: 0,0:12:37.08,0:12:38.92,Default,Ayuhara,0,0,0,,{TIME:757089,758925}Good morning, Professor Shimizu.
+Dialogue: 0,0:12:38.92,0:12:39.88,Default,Shimizu,0,0,0,,{TIME:758925,759884}Good morning.
+Dialogue: 0,0:12:39.88,0:12:43.80,Default,Ayuhara,0,0,0,,{TIME:759884,763805}Captain and Midori didn't return last night, did they?{NOTE:キャプテンも緑も昨夜とうとう戻ってきませんでしたね。}
+Dialogue: 0,0:12:43.80,0:12:48.76,Default,Shimizu,0,0,0,,{TIME:763805,768768}Yes. All the selected players\Nstayed at the gymnasium.
+Dialogue: 0,0:12:48.76,0:12:50.97,Default,Ayuhara,0,0,0,,{TIME:768768,770979}It's to unite the team, right?
+Dialogue: 0,0:12:50.97,0:12:52.18,Default,Shimizu,0,0,0,,{TIME:770979,772188}I think so.
+Dialogue: 0,0:12:52.18,0:12:56.56,Default,Shimizu,0,0,0,,{TIME:772188,776567}I think Professor Hongou's doing his best\Nto shape up the new team.
+Dialogue: 0,0:12:56.56,0:12:58.52,Default,Landlady,0,0,0,,{TIME:776567,778528}Ayuhara-san, you have a guest.
+Dialogue: 0,0:12:58.52,0:13:00.02,Default,Ayuhara,0,0,0,,{TIME:778528,780029}Huh? I do?
+Dialogue: 0,0:13:02.24,0:13:03.57,Default,Ayuhara,0,0,0,,{TIME:782240,783574}Oh, Sai-san.
+Dialogue: 0,0:13:03.57,0:13:05.41,Default,Ayuhara,0,0,0,,{TIME:783574,785410}What a surprise.
+Dialogue: 0,0:13:05.41,0:13:09.37,Default,Sai,0,0,0,,{TIME:785410,789372}There's a favor I'd like to ask you, Ayuhara-san.
+Dialogue: 0,0:13:09.37,0:13:10.54,Default,Ayuhara,0,0,0,,{TIME:789372,790540}A favor?
+Dialogue: 0,0:13:10.54,0:13:14.04,Default,Ayuhara,0,0,0,,{TIME:790540,794043}I'm all ears.\NI'll help you however I can.
+Dialogue: 0,0:13:14.04,0:13:15.50,Default,Sai,0,0,0,,{TIME:794043,795503}Thank you.
+Dialogue: 0,0:13:15.50,0:13:18.79,Default,Sai,0,0,0,,{TIME:795503,798798}We want to hold a practice match\Nbefore we play tomorrow.
+Dialogue: 0,0:13:18.79,0:13:20.67,Default,Ayuhara,0,0,0,,{TIME:798798,800675}Huh?
+Dialogue: 0,0:13:20.67,0:13:24.80,Default,Sai,0,0,0,,{TIME:800675,804804}Do you know any team\Nthat could play with us?
+Dialogue: 0,0:13:24.80,0:13:28.34,Default,Ayuhara,0,0,0,,{TIME:804804,808349}Sure. I'll try to help you out, Sai-san.
+Dialogue: 0,0:13:28.34,0:13:30.35,Default,Ayuhara,0,0,0,,{TIME:808349,810351}Please wait for me at the Central Gymnasium.
+Dialogue: 0,0:13:30.68,0:13:32.10,Default,(unison),0,0,0,,{TIME:810685,812103}– Huh?\N– Huh?
+Dialogue: 0,0:13:32.10,0:13:32.93,Default,Ayuhara,0,0,0,,{TIME:812103,812937}Yeah.
+Dialogue: 0,0:13:32.93,0:13:36.06,Default,Ayuhara,0,0,0,,{TIME:812937,816065}I'd like us to play with the Korean team.
+Dialogue: 0,0:13:36.06,0:13:38.06,Default,Ishida,0,0,0,,{TIME:816065,818067}Don't make fun of us, Ayuhara-san.
+Dialogue: 0,0:13:38.06,0:13:39.86,Default,Ishida,0,0,0,,{TIME:818067,819861}You can't possibly be serious?
+Dialogue: 0,0:13:39.86,0:13:42.48,Default,Ishikawa,0,0,0,,{TIME:819861,822488}They're our opponents.
+Dialogue: 0,0:13:42.48,0:13:45.11,Default,Ishikawa,0,0,0,,{TIME:822488,825116}Training with them is absurd.
+Dialogue: 0,0:13:47.66,0:13:48.66,Default,Takeichi,0,0,0,,{TIME:827660,828661}Ayuhara-san.
+Dialogue: 0,0:13:48.66,0:13:51.16,Default,Takeichi,0,0,0,,{TIME:828661,831164}You must have a reason for it.\NTell us what's going on.
+Dialogue: 0,0:13:52.49,0:13:58.50,Default,Ayuhara,0,0,0,,{TIME:832498,838503}Last year I participated\Nin the World Junior Volleyball Championship.
+Dialogue: 0,0:13:58.50,0:14:02.80,Default,Ayuhara,0,0,0,,{TIME:838503,842800}Our Japanese team fought\Nagainst the Soviet Union in the final game.
+Dialogue: 0,0:14:02.80,0:14:04.21,Default,Ayuhara,0,0,0,,{TIME:842800,844218}The Soviet Union…
+Dialogue: 0,0:14:12.14,0:14:18.73,Default,Ayuhara,0,0,0,,{TIME:852143,858733}Each country's top players one after another collapsed\Nunder Shellenina's and Borchinskaya's killer spike.
+Dialogue: 0,0:14:18.73,0:14:21.48,Default,Ayuhara,0,0,0,,{TIME:858733,861486}Its destructive power was that fearful.
+Dialogue: 0,0:14:21.48,0:14:25.19,Default,Ayuhara,0,0,0,,{TIME:861486,865198}In order to counter that killer spike…
+Dialogue: 0,0:14:25.19,0:14:28.07,Default,Ayuhara,0,0,0,,{TIME:865198,868076}…we came up with a technique\Nwe named "the two-stage reception".
+Dialogue: 0,0:14:28.07,0:14:31.91,Default,Ayuhara,0,0,0,,{TIME:868076,871913}But we had very little time to develop it properly.
+Dialogue: 0,0:14:31.91,0:14:38.33,Default,Ayuhara,0,0,0,,{TIME:871913,878336}In our training, we needed to simulate\Na very strong attack similar to the killer spike.
+Dialogue: 0,0:14:39.42,0:14:45.71,Default,Ayuhara,0,0,0,,{TIME:879420,885718}At that time, Sai-san of the Korean team\Ncame and offered us a helping hand.
+Dialogue: 0,0:14:49.47,0:14:52.47,Default,Ayuhara,0,0,0,,{TIME:889472,892475}I was so happy I literally cried.
+Dialogue: 0,0:14:52.47,0:14:55.14,Default,Ayuhara,0,0,0,,{TIME:892475,895144}Even though Sai-san's bullet spike isn't a curve ball…
+Dialogue: 0,0:14:55.14,0:15:00.02,Default,Ayuhara,0,0,0,,{TIME:895144,900024}…its speed and power were just like those\Nof the killer spike. It was perfect.
+Dialogue: 0,0:15:04.15,0:15:07.40,Default,Ayuhara,0,0,0,,{TIME:904153,907407}We started with the two-stage reception\Ntraining straight away.
+Dialogue: 0,0:15:07.40,0:15:10.74,Default,Ayuhara,0,0,0,,{TIME:907407,910743}Soon enough and with their help, we've mastered it.
+Dialogue: 0,0:15:12.41,0:15:14.45,Default,Ayuhara,0,0,0,,{TIME:912412,914455}Then, Sai-san said this…
+Dialogue: 0,0:15:14.45,0:15:16.20,Alternative,Sai,0,0,0,,{TIME:914455,916207}We're fellow Asians, after all.
+Dialogue: 0,0:15:16.20,0:15:18.83,Alternative,Sai,0,0,0,,{TIME:916207,918835}Please do your best in our stead.
+Dialogue: 0,0:15:18.83,0:15:21.04,Default,Ayuhara,0,0,0,,{TIME:918835,921045}That's what she said.
+Dialogue: 0,0:15:26.88,0:15:30.93,Default,Takeichi,0,0,0,,{TIME:926884,930930}I understand, Ayuhara-san.\NI'll play with the Korean team.
+Dialogue: 0,0:15:30.93,0:15:31.93,Default,Ishida,0,0,0,,{TIME:930930,931930}Me too.
+Dialogue: 0,0:15:31.93,0:15:32.80,Default,Inomata,0,0,0,,{TIME:931930,932807}Me too.
+Dialogue: 0,0:15:32.80,0:15:33.89,Default,(unknown),0,0,0,,{TIME:932807,933891}Me too!
+Dialogue: 0,0:15:35.51,0:15:36.85,Default,Ayuhara,0,0,0,,{TIME:935518,936853}Thank you.
+Dialogue: 0,0:15:37.89,0:15:38.89,Default,Shimizu,0,0,0,,{TIME:937895,938896}Me too.
+Dialogue: 0,0:15:38.89,0:15:41.06,Default,Ayuhara,0,0,0,,{TIME:938896,941065}Oh, Professor!
+Dialogue: 0,0:15:41.06,0:15:42.35,Default,Shimizu,0,0,0,,{TIME:941065,942358}Count me in.
+Dialogue: 0,0:15:42.35,0:15:43.73,Default,Shimizu,0,0,0,,{TIME:942358,943734}Let's go.
+Dialogue: 0,0:15:43.73,0:15:45.23,Default,Ayuhara,0,0,0,,{TIME:943734,945236}Professor!
+Dialogue: 0,0:15:46.40,0:15:51.78,Default,Takeichi,0,0,0,,{TIME:946404,951784}Sai-san, as you know, Captain,\NAyuhara-san and Hayakawa-san can't play with us.
+Dialogue: 0,0:15:51.78,0:15:54.57,Default,Takeichi,0,0,0,,{TIME:951784,954579}But I promise you\Nthat we will do our best.
+Dialogue: 0,0:15:54.57,0:15:56.37,Default,Sai,0,0,0,,{TIME:954579,956372}Thanks. Let's have a good game.
+Dialogue: 0,0:15:56.37,0:15:57.83,Default,(unison),0,0,0,,{TIME:956372,957832}Let's have a good game.
+Dialogue: 0,0:15:59.58,0:16:00.50,Default,Takeichi,0,0,0,,{TIME:959584,960501}Here goes!
+Dialogue: 0,0:16:07.92,0:16:09.26,Alternative,Ayuhara,0,0,0,,{TIME:967925,969260}Ah!
+Dialogue: 0,0:16:09.26,0:16:11.47,Alternative,Ayuhara,0,0,0,,{TIME:969260,971471}The spike… jumped over the net!{NOTE:スパイクボールはネットを飛び越した。}
+Dialogue: 0,0:16:11.47,0:16:14.30,Alternative,Ayuhara,0,0,0,,{TIME:971471,974307}The ball moves freely as if it was a living thing.{NOTE:まるで生き物のようにボール自由に走る。}
+Dialogue: 0,0:16:14.30,0:16:17.01,Alternative,Ayuhara,0,0,0,,{TIME:974307,977018}There was no such spike when we played in America.{NOTE:アメリカで戦った時あんなスパイクはなかった。}
+Dialogue: 0,0:16:17.01,0:16:20.02,Alternative,Ayuhara,0,0,0,,{TIME:977018,980021}There's no way we can block or receive that!
+Dialogue: 0,0:16:20.02,0:16:21.81,Alternative,Ayuhara,0,0,0,,{TIME:980021,981814}Then there's that reception.
+Dialogue: 0,0:16:21.81,0:16:25.44,Alternative,Ayuhara,0,0,0,,{TIME:981814,985443}Our curve balls worked well\Nagainst Sai-san back in America.
+Dialogue: 0,0:16:25.44,0:16:27.02,Alternative,Ayuhara,0,0,0,,{TIME:985443,987028}But there's no way they're going to work now.
+Dialogue: 0,0:16:27.02,0:16:33.86,Alternative,Ayuhara,0,0,0,,{TIME:987028,993867}Jin-yeong-san's defense zone makes it\Nnearly impossible to break through.{NOTE:スパイかーはサイさんを守り立ててあれだけの守備範囲を守っているジュンギョクさん達のレシーブXXを打ち崩すのは容易んなことじゃないわ。}
+Dialogue: 0,0:16:46.96,0:16:49.17,Default,Ayuhara,0,0,0,,{TIME:1006964,1009175}Meanwhile, look at our new team…{NOTE:それなのに選抜チームは…}
+Dialogue: 0,0:16:56.55,0:16:58.72,Default,Ayuhara,0,0,0,,{TIME:1016557,1018726}I'm going to play in the best players' team.{NOTE:私選抜チームに参加します。}
+Dialogue: 0,0:16:58.72,0:16:59.39,Default,Shimizu,0,0,0,,{TIME:1018726,1019393}Huh?
+Dialogue: 0,0:17:10.44,0:17:11.57,Default,Yagisawa Katsura,0,0,0,,{TIME:1030446,1031571}My goodness.
+Dialogue: 0,0:17:11.57,0:17:13.07,Default,Yagisawa Katsura,0,0,0,,{TIME:1031571,1033074}Why are you just standing there?
+Dialogue: 0,0:17:15.03,0:17:18.66,Default,Yagisawa Shizuka,0,0,0,,{TIME:1035034,1038663}And here we are, trying our best\Nso that we can visit our mom in the hospital.
+Dialogue: 0,0:17:18.66,0:17:20.95,Default,Akizuki,0,0,0,,{TIME:1038663,1040956}Hmph. Like I care.
+Dialogue: 0,0:17:20.95,0:17:21.87,Default,Kakinouchi,0,0,0,,{TIME:1040956,1041874}Akizuki-san!
+Dialogue: 0,0:17:21.87,0:17:23.45,Default,(unknown),0,0,0,,{TIME:1041874,1043459}What are y—\NAh!
+Dialogue: 0,0:17:23.45,0:17:25.04,Default,(unknown),0,0,0,,{TIME:1043459,1045043}Can't you take it more seriously?
+Dialogue: 0,0:17:27.33,0:17:28.29,Default,Ayuhara,0,0,0,,{TIME:1047338,1048297}Wait!
+Dialogue: 0,0:17:28.29,0:17:29.79,Default,Hayakawa,0,0,0,,{TIME:1048297,1049799}You started it!
+Dialogue: 0,0:17:29.79,0:17:30.84,Default,Ayuhara,0,0,0,,{TIME:1049799,1050841}Don't fight!
+Dialogue: 0,0:17:30.84,0:17:32.63,Default,Ayuhara,0,0,0,,{TIME:1050841,1052635}We don't have time to fight.
+Dialogue: 0,0:17:32.63,0:17:35.30,Default,Ayuhara,0,0,0,,{TIME:1052635,1055304}You wouldn't believe the Korean team's strength!
+Dialogue: 0,0:17:35.30,0:17:36.43,Default,(unknown),0,0,0,,{TIME:1055304,1056430}Ayuhara-san.
+Dialogue: 0,0:17:36.43,0:17:40.35,Default,(unknown),0,0,0,,{TIME:1056430,1060351}I heard your Fujimi team holds\Na practice match with the Korean team.
+Dialogue: 0,0:17:40.35,0:17:42.35,Default,(unknown),0,0,0,,{TIME:1060351,1062353}What's the meaning of it?
+Dialogue: 0,0:17:42.35,0:17:44.31,Default,Ayuhara,0,0,0,,{TIME:1062353,1064313}T-That's…
+Dialogue: 0,0:17:44.31,0:17:47.73,Default,Akizuki,0,0,0,,{TIME:1064313,1067733}Fujimi High School\Nhelping out the Korean team…
+Dialogue: 0,0:17:47.73,0:17:51.23,Default,Akizuki,0,0,0,,{TIME:1067733,1071237}In my book, it's a clear case of a betrayal.{NOTE:私達選抜チームに対する裏切り行為じゃないかしら？}
+Dialogue: 0,0:17:51.23,0:17:52.90,Default,(unknown),0,0,0,,{TIME:1071237,1072905}Yeah. What are you thinking?
+Dialogue: 0,0:17:53.86,0:17:54.74,Default,Higashida,0,0,0,,{TIME:1073864,1074740}Hongou-san.
+Dialogue: 0,0:17:54.74,0:17:56.61,Default,Higashida,0,0,0,,{TIME:1074740,1076617}Aren't you going to stop them?
+Dialogue: 0,0:17:56.61,0:18:00.12,Default,Hongou,0,0,0,,{TIME:1076617,1080121}It won't make much sense\Nto force them to get along.
+Dialogue: 0,0:18:00.12,0:18:04.41,Default,Hongou,0,0,0,,{TIME:1080121,1084417}I think it's better to just let them\Nblow off steam, Higashida-san.
+Dialogue: 0,0:18:04.41,0:18:06.75,Default,Higashida,0,0,0,,{TIME:1084417,1086752}I see. You have a point.
+Dialogue: 0,0:18:09.79,0:18:11.17,Default,Higashida,0,0,0,,{TIME:1089797,1091173}Excuse me.
+Dialogue: 0,0:18:13.30,0:18:16.01,Default,Yagisawa Kaori,0,0,0,,{TIME:1093301,1096012}Ayuhara-san, don't waste your breath.
+Dialogue: 0,0:18:16.01,0:18:19.93,Default,Yagisawa Kaori,0,0,0,,{TIME:1096012,1099932}There's no talking to people like them,\Nwho lack any motivation whatsoever.
+Dialogue: 0,0:18:19.93,0:18:20.85,Default,Higashida,0,0,0,,{TIME:1099932,1100850}Yagisawa-kun!
+Dialogue: 0,0:18:20.85,0:18:24.06,Default,Higashida,0,0,0,,{TIME:1100850,1104061}Coach… Coach's condition has worsened!
+Dialogue: 0,0:18:24.06,0:18:25.47,Default,(mixed),0,0,0,,{TIME:1104061,1105479}Huh?!
+Dialogue: 0,0:18:25.47,0:18:27.23,Default,Yagisawa Shizuka,0,0,0,,{TIME:1105479,1107231}Huh? Are you sure?
+Dialogue: 0,0:18:27.23,0:18:29.85,Default,Higashida,0,0,0,,{TIME:1107231,1109859}Yes! The hospital just called.
+Dialogue: 0,0:18:29.85,0:18:32.32,Default,Hongou,0,0,0,,{TIME:1109859,1112320}Yagisawa-kun, hurry up to the hospital.
+Dialogue: 0,0:18:32.32,0:18:33.90,Default,Yagisawa Kaori,0,0,0,,{TIME:1112320,1113904}B-But…
+Dialogue: 0,0:18:33.90,0:18:36.19,Default,Hongou,0,0,0,,{TIME:1113904,1116198}We'll handle this. Hurry up!
+Dialogue: 0,0:18:36.19,0:18:37.53,Default,Yagisawa Katsura,0,0,0,,{TIME:1116198,1117533}Sis…
+Dialogue: 0,0:18:37.53,0:18:38.74,Default,Yagisawa Kaori,0,0,0,,{TIME:1117533,1118743}Excuse us.
+Dialogue: 0,0:18:38.74,0:18:43.41,Default,Yagisawa Kaori,0,0,0,,{TIME:1118743,1123414}Ayuhara-san, I hate to leave\Nwithout making sure the team has united.
+Dialogue: 0,0:18:43.41,0:18:45.45,Default,Yagisawa Kaori,0,0,0,,{TIME:1123414,1125458}We leave it to you.
+Dialogue: 0,0:18:45.45,0:18:47.41,Default,Yagisawa Kaori,0,0,0,,{TIME:1125458,1127418}Okay?
+Dialogue: 0,0:18:47.41,0:18:48.91,Default,Ayuhara,0,0,0,,{TIME:1127418,1128919}Yagisawa-san.
+Dialogue: 0,0:18:48.91,0:18:53.42,Default,Yagisawa Kaori,0,0,0,,{TIME:1128919,1133424}I think you're the only one\Nwho can bring this team together.
+Dialogue: 0,0:18:53.42,0:18:55.05,Default,Ayuhara,0,0,0,,{TIME:1133424,1135051}Sure.
+Dialogue: 0,0:18:55.05,0:18:56.42,Default,Higashida,0,0,0,,{TIME:1135051,1136427}Alright, hurry up!
+Dialogue: 0,0:18:56.42,0:18:57.51,Default,Higashida,0,0,0,,{TIME:1136427,1137511}Hurry!
+Dialogue: 0,0:18:57.51,0:18:59.93,Default,Yagisawa Kaori,0,0,0,,{TIME:1137511,1139930}I wish you luck, Ayuhara-san!
+Dialogue: 0,0:19:02.97,0:19:06.56,Default,Ayuhara,0,0,0,,{TIME:1142975,1146562}Professor, please let me join in for the game.
+Dialogue: 0,0:19:08.18,0:19:09.85,Default,Hongou,0,0,0,,{TIME:1148189,1149857}No.
+Dialogue: 0,0:19:09.85,0:19:11.10,Default,Hayakawa,0,0,0,,{TIME:1149857,1151108}Kozue, Professor's right.
+Dialogue: 0,0:19:11.10,0:19:12.06,Default,Hayakawa,0,0,0,,{TIME:1151108,1152068}You shouldn't do this.
+Dialogue: 0,0:19:12.06,0:19:14.90,Default,Hayakawa,0,0,0,,{TIME:1152068,1154904}The doctor ordered you\Nnot to push yourself for a week!
+Dialogue: 0,0:19:18.78,0:19:19.61,Default,Hayakawa,0,0,0,,{TIME:1158783,1159617}Kozue!
+Dialogue: 0,0:19:19.61,0:19:21.11,Sign,(sign),0,0,0,,{TIME:1159617,1161118}Medical office
+Dialogue: 0,0:19:25.37,0:19:26.74,Default,Ayuhara,0,0,0,,{TIME:1165373,1166749}Doctor.
+Dialogue: 0,0:19:26.74,0:19:28.00,Default,Doctor A,0,0,0,,{TIME:1166749,1168000}It's you again?
+Dialogue: 0,0:19:28.00,0:19:30.41,Default,Doctor A,0,0,0,,{TIME:1168000,1170419}Bugging me won't make it heal any faster.
+Dialogue: 0,0:19:30.41,0:19:32.79,Default,Ayuhara,0,0,0,,{TIME:1170419,1172797}No, please heal it right now.
+Dialogue: 0,0:19:32.79,0:19:35.46,Default,Doctor A,0,0,0,,{TIME:1172797,1175466}Listen to yourself, girl.\NYou're asking the impossible.
+Dialogue: 0,0:19:35.46,0:19:40.13,Default,Ayuhara,0,0,0,,{TIME:1175466,1180137}Impossible or whatever,\NI have to show up in the match tomorrow!
+Dialogue: 0,0:19:40.13,0:19:43.14,Default,Doctor A,0,0,0,,{TIME:1180137,1183140}You have to show up, no matter what?
+Dialogue: 0,0:19:43.14,0:19:44.55,Default,Ayuhara,0,0,0,,{TIME:1183140,1184558}Yes. No matter what.
+Dialogue: 0,0:19:45.76,0:19:47.56,Default,Doctor A,0,0,0,,{TIME:1185768,1187561}No.
+Dialogue: 0,0:19:51.06,0:19:55.52,Alternative,Yagisawa Kaori,0,0,0,,{TIME:1191065,1195528}I think you're the only one\Nwho can bring this team together.
+Dialogue: 0,0:19:55.52,0:19:57.82,Alternative,Jin-yeong,0,0,0,,{TIME:1195528,1197822}Ayuhara-san, you can't play?\NThat's disappointing…
+Dialogue: 0,0:19:57.82,0:19:59.99,Alternative,Jin-yeong,0,0,0,,{TIME:1197822,1199990}I was looking forward to it so much…
+Dialogue: 0,0:19:59.99,0:20:03.41,Alternative,Sai,0,0,0,,{TIME:1199990,1203411}To be honest, I'm disappointed, too.
+Dialogue: 0,0:20:03.41,0:20:09.91,Alternative,Sai,0,0,0,,{TIME:1203411,1209917}My bullet spike lost to you back in America,\Nbut I'm confident we can win this time.
+Dialogue: 0,0:20:09.91,0:20:12.29,Alternative,Sai,0,0,0,,{TIME:1209917,1212293}It's a real shame.
+Dialogue: 0,0:20:15.58,0:20:17.13,Default,Ayuhara,0,0,0,,{TIME:1215589,1217133}Please, Doctor.
+Dialogue: 0,0:20:17.13,0:20:19.46,Default,Ayuhara,0,0,0,,{TIME:1217133,1219468}I have to play.
+Dialogue: 0,0:20:19.46,0:20:21.26,Default,Ayuhara,0,0,0,,{TIME:1219468,1221262}No matter what…\NNo matter what!
+Dialogue: 0,0:20:29.47,0:20:31.10,Default,Ayuhara,0,0,0,,{TIME:1229478,1231105}Thank you very much!
+Dialogue: 0,0:20:31.10,0:20:37.73,Default,Doctor A,0,0,0,,{TIME:1231105,1237737}I'll give you special injections at intervals of time.\NThis means I'll stay with you during the entire match.
+Dialogue: 0,0:20:37.73,0:20:39.19,Default,Ayuhara,0,0,0,,{TIME:1237737,1239196}Thank you.
+Dialogue: 0,0:20:42.15,0:20:45.20,Default,Yagisawa sisters' mom,0,0,0,,{TIME:1242158,1245202}Ka-Kaori… What was that spike just now?
+Dialogue: 0,0:20:45.20,0:20:49.29,Default,Yagisawa sisters' mom,0,0,0,,{TIME:1245202,1249290}Shizuka, toss the ball more precisely.\NIf you don't, it can't be spiked well…
+Dialogue: 0,0:20:49.29,0:20:54.54,Default,Yagisawa sisters' mom,0,0,0,,{TIME:1249290,1254545}Katsura, if you want to block well, then…\Nthen go at it from above…
 Dialogue: 0,0:20:54.54,0:20:55.37,Default,Yagisawa sisters' mom,0,0,0,,{TIME:1254545,1255379}
-Dialogue: 0,0:20:55.37,0:20:57.04,Default,Yagisawa Katsura,0,0,0,,{TIME:1255379,1257047}
-Dialogue: 0,0:20:59.50,0:21:01.34,Default,Doctor B,0,0,0,,{TIME:1259508,1261342}
-Dialogue: 0,0:21:01.34,0:21:03.01,Default,Doctor B,0,0,0,,{TIME:1261342,1263012}
-Dialogue: 0,0:21:03.01,0:21:06.84,Default,Yagisawa Shizuka,0,0,0,,{TIME:1263012,1266849}
-Dialogue: 0,0:21:06.84,0:21:09.64,Default,Doctor B,0,0,0,,{TIME:1266849,1269643}
-Dialogue: 0,0:21:09.64,0:21:12.64,Default,Doctor B,0,0,0,,{TIME:1269643,1272646}
-Dialogue: 0,0:21:12.98,0:21:15.48,Default,Yagisawa Katsura,0,0,0,,{TIME:1272980,1275483}
-Dialogue: 0,0:21:15.48,0:21:17.69,Default,Yagisawa Kaori,0,0,0,,{TIME:1275483,1277693}
-Dialogue: 0,0:21:17.69,0:21:21.78,Default,Yagisawa Kaori,0,0,0,,{TIME:1277693,1281781}
-Dialogue: 0,0:21:21.78,0:21:23.32,Default,Yagisawa Katsura,0,0,0,,{TIME:1281781,1283324}
-Dialogue: 0,0:21:25.45,0:21:26.95,Default,Yagisawa Kaori,0,0,0,,{TIME:1285451,1286952}
-Dialogue: 0,0:21:26.95,0:21:29.41,Default,Yagisawa Kaori,0,0,0,,{TIME:1286952,1289413}
-Dialogue: 0,0:21:30.91,0:21:32.20,Default,Yagisawa Katsura,0,0,0,,{TIME:1290915,1292207}
-Dialogue: 0,0:21:36.42,0:21:37.71,Alternative,Yagisawa Kaori,0,0,0,,{TIME:1296420,1297713}
-Dialogue: 0,0:21:37.71,0:21:39.96,Alternative,Yagisawa Kaori,0,0,0,,{TIME:1297713,1299965}
-Dialogue: 0,0:21:39.96,0:21:42.21,Alternative,Yagisawa Kaori,0,0,0,,{TIME:1299965,1302217}
-Dialogue: 0,0:21:44.72,0:21:46.38,Alternative,Yagisawa Kaori,0,0,0,,{TIME:1304720,1306388}
-Dialogue: 0,0:21:50.60,0:21:53.93,Sign,(sign),0,0,0,,{TIME:1310601,1313937}
-Dialogue: 0,0:21:53.93,0:21:58.85,Sign,(sign),0,0,0,,{TIME:1313937,1318859}
-Dialogue: 0,0:22:03.32,0:22:04.61,Default,Hongou,0,0,0,,{TIME:1323322,1324615}
-Dialogue: 0,0:22:04.61,0:22:08.74,Default,Ayuhara,0,0,0,,{TIME:1324615,1328744}
-Dialogue: 0,0:22:08.74,0:22:10.24,Default,Doctor A,0,0,0,,{TIME:1328744,1330246}
-Dialogue: 0,0:22:10.24,0:22:12.74,Default,Doctor A,0,0,0,,{TIME:1330246,1332748}
-Dialogue: 0,0:22:12.74,0:22:14.16,Default,Hongou,0,0,0,,{TIME:1332748,1334166}
-Dialogue: 0,0:22:14.16,0:22:19.21,Default,Hongou,0,0,0,,{TIME:1334166,1339213}
-Dialogue: 0,0:22:19.21,0:22:20.00,Default,(mixed),0,0,0,,{TIME:1339213,1340004}
-Dialogue: 0,0:22:25.26,0:22:26.34,Default,Shimizu,0,0,0,,{TIME:1345261,1346345}
-Dialogue: 0,0:22:26.34,0:22:27.51,Default,Shimizu,0,0,0,,{TIME:1346345,1347513}
-Dialogue: 0,0:22:27.51,0:22:28.93,Default,Ayuhara,0,0,0,,{TIME:1347513,1348931}
-Dialogue: 0,0:22:28.93,0:22:31.35,Default,Ayuhara,0,0,0,,{TIME:1348931,1351350}
-Dialogue: 0,0:22:31.35,0:22:32.93,Default,Ayuhara,0,0,0,,{TIME:1351350,1352935}
-Dialogue: 0,0:22:32.93,0:22:34.01,Default,Yagisawa Kaori,0,0,0,,{TIME:1352935,1354019}
-Dialogue: 0,0:22:34.01,0:22:35.98,Default,Yagisawa Kaori,0,0,0,,{TIME:1354019,1355980}
-Dialogue: 0,0:22:35.98,0:22:37.69,Default,Yagisawa Kaori,0,0,0,,{TIME:1355980,1357690}
-Dialogue: 0,0:22:37.69,0:22:39.60,Default,Ayuhara,0,0,0,,{TIME:1357690,1359608}
-Dialogue: 0,0:22:39.60,0:22:41.44,Default,Ayuhara,0,0,0,,{TIME:1359608,1361443}
-Dialogue: 0,0:22:41.44,0:22:45.03,Default,Ayuhara,0,0,0,,{TIME:1361443,1365030}
-Dialogue: 0,0:22:45.03,0:22:46.86,Default,Yagisawa Kaori,0,0,0,,{TIME:1365030,1366866}
-Dialogue: 0,0:22:46.86,0:22:50.70,Default,Yagisawa Kaori,0,0,0,,{TIME:1366866,1370703}
-Dialogue: 0,0:22:50.70,0:22:54.41,Default,Yagisawa Kaori,0,0,0,,{TIME:1370703,1374415}
-Dialogue: 0,0:22:54.41,0:22:56.37,Default,Yagisawa Kaori,0,0,0,,{TIME:1374415,1376375}
-Dialogue: 0,0:22:56.37,0:22:59.50,Default,Yagisawa Kaori,0,0,0,,{TIME:1376375,1379503}
-Dialogue: 0,0:22:59.50,0:23:00.96,Default,Yagisawa Kaori,0,0,0,,{TIME:1379503,1380963}
-Dialogue: 0,0:23:00.96,0:23:02.29,Default,(unison),0,0,0,,{TIME:1380963,1382298}
-Dialogue: 0,0:23:02.29,0:23:03.09,Default,Yagisawa Kaori,0,0,0,,{TIME:1382298,1383090}
-Dialogue: 0,0:23:03.09,0:23:06.96,Default,Yagisawa Kaori,0,0,0,,{TIME:1383090,1386969}
-Dialogue: 0,0:23:06.96,0:23:08.22,Default,Yagisawa Kaori,0,0,0,,{TIME:1386969,1388220}
-Dialogue: 0,0:23:08.22,0:23:09.34,Default,Yagisawa Kaori,0,0,0,,{TIME:1388220,1389346}
-Dialogue: 0,0:23:09.34,0:23:12.18,Default,Yagisawa Kaori,0,0,0,,{TIME:1389346,1392182}
-Dialogue: 0,0:23:20.27,0:23:22.48,Default,Sai,0,0,0,,{TIME:1400274,1402484}
-Dialogue: 0,0:23:22.48,0:23:26.48,Default,Ayuhara,0,0,0,,{TIME:1402484,1406488}
-Dialogue: 0,0:23:26.48,0:23:29.53,Default,Ayuhara,0,0,0,,{TIME:1406488,1409533}
-Dialogue: 0,0:23:29.53,0:23:31.32,Default,Sai,0,0,0,,{TIME:1409533,1411327}
-Dialogue: 0,0:23:31.32,0:23:32.32,Default,Sai,0,0,0,,{TIME:1411327,1412328}
-Dialogue: 0,0:23:34.24,0:23:36.29,Blackboard,(sign),0,0,0,,{TIME:1414245,1416290}
+Dialogue: 0,0:20:55.37,0:20:57.04,Default,Yagisawa Katsura,0,0,0,,{TIME:1255379,1257047}Mom…!
+Dialogue: 0,0:20:59.50,0:21:01.34,Default,Doctor B,0,0,0,,{TIME:1259508,1261342}I gave her a shot for sleep.
+Dialogue: 0,0:21:01.34,0:21:03.01,Default,Doctor B,0,0,0,,{TIME:1261342,1263012}Please keep your voices low.
+Dialogue: 0,0:21:03.01,0:21:06.84,Default,Yagisawa Shizuka,0,0,0,,{TIME:1263012,1266849}Doctor…\NWill Mom… Will Mom be okay?
+Dialogue: 0,0:21:06.84,0:21:09.64,Default,Doctor B,0,0,0,,{TIME:1266849,1269643}It's unclear for now.
+Dialogue: 0,0:21:09.64,0:21:12.64,Default,Doctor B,0,0,0,,{TIME:1269643,1272646}Please call me if her condition changes.
+Dialogue: 0,0:21:12.98,0:21:15.48,Default,Yagisawa Katsura,0,0,0,,{TIME:1272980,1275483}Mom, hang in there!
+Dialogue: 0,0:21:15.48,0:21:17.69,Default,Yagisawa Kaori,0,0,0,,{TIME:1275483,1277693}Katsura, keep your voice low!
+Dialogue: 0,0:21:17.69,0:21:21.78,Default,Yagisawa Kaori,0,0,0,,{TIME:1277693,1281781}She's finally fallen asleep.\NWe can't wake her up.
+Dialogue: 0,0:21:21.78,0:21:23.32,Default,Yagisawa Katsura,0,0,0,,{TIME:1281781,1283324}I know, but…
+Dialogue: 0,0:21:25.45,0:21:26.95,Default,Yagisawa Kaori,0,0,0,,{TIME:1285451,1286952}Don't cry.
+Dialogue: 0,0:21:26.95,0:21:29.41,Default,Yagisawa Kaori,0,0,0,,{TIME:1286952,1289413}You know Mom doesn't like crying.
+Dialogue: 0,0:21:30.91,0:21:32.20,Default,Yagisawa Katsura,0,0,0,,{TIME:1290915,1292207}Mom…
+Dialogue: 0,0:21:36.42,0:21:37.71,Alternative,Yagisawa Kaori,0,0,0,,{TIME:1296420,1297713}Mom.
+Dialogue: 0,0:21:37.71,0:21:39.96,Alternative,Yagisawa Kaori,0,0,0,,{TIME:1297713,1299965}You can't die on us.
+Dialogue: 0,0:21:39.96,0:21:42.21,Alternative,Yagisawa Kaori,0,0,0,,{TIME:1299965,1302217}Please, you have to live!
+Dialogue: 0,0:21:44.72,0:21:46.38,Alternative,Yagisawa Kaori,0,0,0,,{TIME:1304720,1306388}Mom…
+Dialogue: 0,0:21:50.60,0:21:53.93,Sign,(sign),0,0,0,,{TIME:1310601,1313937}{\1c&H101010&\3c&H101010&\4c&H101010&\t(0,1800,\1c&H9AFBDC&\3c&H202020&\4c&H202020&)}Central Gymnasium
+Dialogue: 0,0:21:53.93,0:21:58.85,Sign,(sign),0,0,0,,{TIME:1313937,1318859}Japan-Korea Friendly Volleyball Match{NOTE:日韓親善バレーボール大会}
+Dialogue: 0,0:22:03.32,0:22:04.61,Default,Hongou,0,0,0,,{TIME:1323322,1324615}Ayuhara.
+Dialogue: 0,0:22:04.61,0:22:08.74,Default,Ayuhara,0,0,0,,{TIME:1324615,1328744}I'm fine, Professor.\NDoctor allowed me to play.
+Dialogue: 0,0:22:08.74,0:22:10.24,Default,Doctor A,0,0,0,,{TIME:1328744,1330246}No, I did not.
+Dialogue: 0,0:22:10.24,0:22:12.74,Default,Doctor A,0,0,0,,{TIME:1330246,1332748}It's just your determination\Nmade the injury go away.{NOTE:奈良 君のサイトが怪我を吹っ飛ばしたんだ}
+Dialogue: 0,0:22:12.74,0:22:14.16,Default,Hongou,0,0,0,,{TIME:1332748,1334166}I see.
+Dialogue: 0,0:22:14.16,0:22:19.21,Default,Hongou,0,0,0,,{TIME:1334166,1339213}Listen up! In today's game,\Nthere will be only five players.{NOTE:皆いいか。こうなった以上今日の試合は君たち5人で戦うつもりでいてくれ。}
+Dialogue: 0,0:22:19.21,0:22:20.00,Default,(mixed),0,0,0,,{TIME:1339213,1340004}– Yes sir!\N– Yes sir.
+Dialogue: 0,0:22:25.26,0:22:26.34,Default,Shimizu,0,0,0,,{TIME:1345261,1346345}Hello?
+Dialogue: 0,0:22:26.34,0:22:27.51,Default,Shimizu,0,0,0,,{TIME:1346345,1347513}Ah, Yagisawa-san?
+Dialogue: 0,0:22:27.51,0:22:28.93,Default,Ayuhara,0,0,0,,{TIME:1347513,1348931}Professor!
+Dialogue: 0,0:22:28.93,0:22:31.35,Default,Ayuhara,0,0,0,,{TIME:1348931,1351350}Please let me.
+Dialogue: 0,0:22:31.35,0:22:32.93,Default,Ayuhara,0,0,0,,{TIME:1351350,1352935}Hello? This is Ayuhara.
+Dialogue: 0,0:22:32.93,0:22:34.01,Default,Yagisawa Kaori,0,0,0,,{TIME:1352935,1354019}Ayuhara-san.
+Dialogue: 0,0:22:34.01,0:22:35.98,Default,Yagisawa Kaori,0,0,0,,{TIME:1354019,1355980}Our mom… Mom's…
+Dialogue: 0,0:22:35.98,0:22:37.69,Default,Yagisawa Kaori,0,0,0,,{TIME:1355980,1357690}…she has just passed away.
+Dialogue: 0,0:22:37.69,0:22:39.60,Default,Ayuhara,0,0,0,,{TIME:1357690,1359608}Huh?! She passed away?
+Dialogue: 0,0:22:39.60,0:22:41.44,Default,Ayuhara,0,0,0,,{TIME:1359608,1361443}Y-Yagisawa-san…
+Dialogue: 0,0:22:41.44,0:22:45.03,Default,Ayuhara,0,0,0,,{TIME:1361443,1365030}I have no idea what to say to you…
+Dialogue: 0,0:22:45.03,0:22:46.86,Default,Yagisawa Kaori,0,0,0,,{TIME:1365030,1366866}Thank you, Ayuhara-san.
+Dialogue: 0,0:22:46.86,0:22:50.70,Default,Yagisawa Kaori,0,0,0,,{TIME:1366866,1370703}Believe me, I didn't want\Nto sadden you before the game.
+Dialogue: 0,0:22:50.70,0:22:54.41,Default,Yagisawa Kaori,0,0,0,,{TIME:1370703,1374415}But I want you to win today, no matter what.
+Dialogue: 0,0:22:54.41,0:23:00.96,Default,Yagisawa Kaori,0,0,0,,{TIME:1374415,1380963}I don't want to think… that we lost…\Nbecause we weren't there.{NOTE:インターハイ優勝このうちらが個人毎で抜けたから負けたよ言われてなかった。}
+Dialogue: 0,0:23:00.96,0:23:02.29,Default,(unison),0,0,0,,{TIME:1380963,1382298}Sis…!
+Dialogue: 0,0:23:02.29,0:23:03.09,Default,Yagisawa Kaori,0,0,0,,{TIME:1382298,1383090}We…
+Dialogue: 0,0:23:03.09,0:23:06.96,Default,Yagisawa Kaori,0,0,0,,{TIME:1383090,1386969}We were talking about today's game\Nuntil just before she died.
+Dialogue: 0,0:23:06.96,0:23:08.22,Default,Yagisawa Kaori,0,0,0,,{TIME:1386969,1388220}Ayuhara-san.
+Dialogue: 0,0:23:08.22,0:23:09.34,Default,Yagisawa Kaori,0,0,0,,{TIME:1388220,1389346}Please.
+Dialogue: 0,0:23:09.34,0:23:12.18,Default,Yagisawa Kaori,0,0,0,,{TIME:1389346,1392182}Please, win this game.
+Dialogue: 0,0:23:20.27,0:23:22.48,Default,Sai,0,0,0,,{TIME:1400274,1402484}Ayuhara-san, you're here?
+Dialogue: 0,0:23:22.48,0:23:26.48,Default,Ayuhara,0,0,0,,{TIME:1402484,1406488}Sai-san, I'm going to play with you today.
+Dialogue: 0,0:23:26.48,0:23:29.53,Default,Ayuhara,0,0,0,,{TIME:1406488,1409533}But I need to warn you.\NWe're going to win.
+Dialogue: 0,0:23:29.53,0:23:31.32,Default,Sai,0,0,0,,{TIME:1409533,1411327}That's my line.
+Dialogue: 0,0:23:31.32,0:23:32.32,Default,Sai,0,0,0,,{TIME:1411327,1412328}Ayuhara-san.
+Dialogue: 0,0:23:34.24,0:23:36.29,Blackboard,(sign),0,0,0,,{TIME:1414245,1416290}Korea · Japan
 Comment: 0,0:23:55.43,0:23:55.43,Default,[chapter],0,0,0,,{TIME:1435434,1435434}Preview
-Dialogue: 0,0:23:57.39,0:24:01.39,Alternative,Narrator,0,0,0,,{TIME:1437394,1441398}
-Dialogue: 0,0:24:01.39,0:24:06.07,Alternative,Narrator,0,0,0,,{TIME:1441398,1446070}
-Dialogue: 0,0:24:06.07,0:24:08.69,Alternative,Narrator,0,0,0,,{TIME:1446070,1448697}
-Dialogue: 0,0:24:08.69,0:24:12.61,Alternative,Narrator,0,0,0,,{TIME:1448697,1452618}
-Dialogue: 0,0:24:12.61,0:24:17.66,Alternative,Narrator,0,0,0,,{TIME:1452618,1457665}
-Dialogue: 0,0:24:17.66,0:24:21.46,Alternative,Narrator,0,0,0,,{TIME:1457665,1461460}
-Dialogue: 0,0:24:21.46,0:24:25.46,Alternative,Narrator,0,0,0,,{TIME:1461460,1465464}
+Dialogue: 0,0:23:57.39,0:24:01.39,Alternative,Narrator,0,0,0,,{TIME:1437394,1441398}The Yagisawa sisters skip the match with Korea\Nbecause of their mother's death.{NOTE:母の死で親善試合出場を断念した八木沢三姉妹。}
+Dialogue: 0,0:24:01.39,0:24:06.07,Alternative,Narrator,0,0,0,,{TIME:1441398,1446070}Kozue, trying to live up to their expectations,\Nparticipates and uses her injured wrist.{NOTE:こずえは彼女たちの期待を担えつつ負傷した手首をかばって出場した。}
+Dialogue: 0,0:24:06.07,0:24:08.69,Alternative,Narrator,0,0,0,,{TIME:1446070,1448697}But, as expected,\Nthe improvised team shows its flaws.{NOTE:だがやはりにわか仕立ての混成チーム…}
+Dialogue: 0,0:24:08.69,0:24:12.61,Alternative,Narrator,0,0,0,,{TIME:1448697,1452618}The players show lack of discipline and cooperation.{NOTE:…各選手はそれぞれの思いを露骨に表し淫らに乱れた。}
+Dialogue: 0,0:24:12.61,0:24:17.66,Alternative,Narrator,0,0,0,,{TIME:1452618,1457665}The Japanese team barely wins the first set,\Nmostly owing to Kozue's selfless attack.{NOTE:その時こずえの捨て身の攻撃で日本チームはかろうじて第一セットを取ったが…}
+Dialogue: 0,0:24:17.66,0:24:21.46,Alternative,Narrator,0,0,0,,{TIME:1457665,1461460}But as a result, Kozue goes to warm the bench.
+Dialogue: 0,0:24:21.46,0:24:25.46,Alternative,Narrator,0,0,0,,{TIME:1461460,1465464}Please look forward to the next episode.
 Comment: 0,0:24:25.46,0:24:25.46,Default,[chapter],0,0,0,,{TIME:1465464,1465464}Ending
 Dialogue: 0,0:24:39.25,0:24:43.19,Lyrics JP,[karaoke],0,0,0,,{TIME:1479255,1483195}{\an8}青い青い空に
 Dialogue: 0,0:24:43.19,0:24:46.23,Lyrics JP,[karaoke],0,0,0,,{TIME:1483195,1486235}{\an8}バンボンボボン
