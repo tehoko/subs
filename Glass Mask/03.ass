@@ -5,7 +5,7 @@ ScriptType: v4.00+
 PlayResX: 1532
 PlayResY: 1080
 YCbCr Matrix: TV.601
-WrapStyle: 0
+WrapStyle: 2
 ScaledBorderAndShadow: yes
 Title: Glass Mask - 03
 Video File: source/03.mkv
@@ -25,7 +25,7 @@ Style: Ending alt,Gotham Narrow Bold,63,&H40F5F4F8,&H000000FF,&H40B4B4B6,&H7F202
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Intro
-Dialogue: 0,0:00:01.87,0:00:08.63,Narrator,(narrator),0,0,0,,{TIME:1877,8634}{\an2\fad(500,0)}A mask which is as fragile as glass, people wear it to hide their own faces.
+Dialogue: 0,0:00:01.87,0:00:08.63,Narrator,(narrator),0,0,0,,{TIME:1877,8634}{\an2\fad(500,0)}A mask which is as fragile as glass,\Npeople wear it to hide their own faces.
 Comment: 0,0:00:08.63,0:00:08.63,Default,[chapter],0,0,0,,{TIME:8634,8634}Opening
 Dialogue: 0,0:00:15.55,0:00:24.10,Default,[title],0,0,0,,{TIME:15557,24107}THE GLASS MASK
 Dialogue: 0,0:00:24.10,0:00:29.19,Opening alt,[karaoke],0,0,0,,{TIME:24107,29196}{\blur3}On the stage, with the lights off…
@@ -36,11 +36,11 @@ Dialogue: 0,0:00:49.84,0:00:54.63,Opening alt,[karaoke],0,0,0,,{TIME:49841,54638
 Dialogue: 0,0:00:56.26,0:01:01.10,Opening alt,[karaoke],0,0,0,,{TIME:56265,61102}{\blur3}…with stars in their heart.
 Dialogue: 0,0:01:03.35,0:01:07.65,Opening alt,[karaoke],0,0,0,,{TIME:63355,67651}{\blur3}Stage light: a moment to shine…
 Dialogue: 0,0:01:08.27,0:01:14.82,Opening alt,[karaoke],0,0,0,,{TIME:68277,74825}{\blur3}…this city becomes a shining star.
-Dialogue: 0,0:01:16.28,0:01:31.09,Opening alt,[karaoke],0,0,0,,{TIME:76285,91091}{\blur3}The flower in my heart is as fragile as glass, a shinin' dream.
+Dialogue: 0,0:01:16.28,0:01:31.09,Opening alt,[karaoke],0,0,0,,{TIME:76285,91091}{\blur3}The flower in my heart\Nis as fragile as glass, a shinin' dream.
 Dialogue: 0,0:01:31.63,0:01:37.55,Opening alt,[karaoke],0,0,0,,{TIME:91633,97556}{\blur3}You can do it if you want to,\Nso hold on tight to love…
-Dialogue: 0,0:01:38.14,0:01:44.39,Opening alt,[karaoke],0,0,0,,{TIME:98140,104396}{\blur3}…because there's someone that smiles on the other side of my tears.
+Dialogue: 0,0:01:38.14,0:01:44.39,Opening alt,[karaoke],0,0,0,,{TIME:98140,104396}{\blur3}…because there's someone that smiles\Non the other side of my tears.
 Dialogue: 0,0:01:44.56,0:01:49.98,Opening alt,[karaoke],0,0,0,,{TIME:104562,109985}{\blur3}You can do it if you want to,\Nthis feeling in my heart…
-Dialogue: 0,0:01:50.90,0:01:55.74,Opening alt,[karaoke],0,0,0,,{TIME:110902,115741}{\blur3}Don't cry. Keep on running and running for someday…
+Dialogue: 0,0:01:50.90,0:01:55.74,Opening alt,[karaoke],0,0,0,,{TIME:110902,115741}{\blur3}Don't cry. Keep on running\Nand running for someday…
 Dialogue: 1,0:00:24.10,0:00:29.19,Opening,[karaoke],0,0,0,,{TIME:24107,29196}{\blur1}On the stage, with the lights off…
 Dialogue: 1,0:00:30.65,0:00:35.41,Opening,[karaoke],0,0,0,,{TIME:30656,35410}{\blur1}…blue shadows emerge.
 Dialogue: 1,0:00:37.74,0:00:41.95,Opening,[karaoke],0,0,0,,{TIME:37746,41959}{\blur1}Dancing 'round to hear the applause…
@@ -49,16 +49,16 @@ Dialogue: 1,0:00:49.84,0:00:54.63,Opening,[karaoke],0,0,0,,{TIME:49841,54638}{\b
 Dialogue: 1,0:00:56.26,0:01:01.10,Opening,[karaoke],0,0,0,,{TIME:56265,61103}{\blur1}…with stars in their heart.
 Dialogue: 1,0:01:03.35,0:01:07.65,Opening,[karaoke],0,0,0,,{TIME:63355,67651}{\blur1}Stage light: a moment to shine…
 Dialogue: 1,0:01:08.27,0:01:14.82,Opening,[karaoke],0,0,0,,{TIME:68277,74825}{\blur1}…this city becomes a shining star.
-Dialogue: 1,0:01:16.28,0:01:31.09,Opening,[karaoke],0,0,0,,{TIME:76285,91091}{\blur1}The flower in my heart is as fragile as glass, a shinin' dream.
+Dialogue: 1,0:01:16.28,0:01:31.09,Opening,[karaoke],0,0,0,,{TIME:76285,91091}{\blur1}The flower in my heart\Nis as fragile as glass, a shinin' dream.
 Dialogue: 1,0:01:31.63,0:01:37.55,Opening,[karaoke],0,0,0,,{TIME:91633,97556}{\blur1}You can do it if you want to,\Nso hold on tight to love…
-Dialogue: 1,0:01:38.14,0:01:44.39,Opening,[karaoke],0,0,0,,{TIME:98140,104396}{\blur1}…because there's someone that smiles on the other side of my tears.
+Dialogue: 1,0:01:38.14,0:01:44.39,Opening,[karaoke],0,0,0,,{TIME:98140,104396}{\blur1}…because there's someone that smiles\Non the other side of my tears.
 Dialogue: 1,0:01:44.56,0:01:49.98,Opening,[karaoke],0,0,0,,{TIME:104563,109985}{\blur1}You can do it if you want to,\Nthis feeling in my heart…
-Dialogue: 1,0:01:50.90,0:01:55.74,Opening,[karaoke],0,0,0,,{TIME:110902,115741}{\blur1}Don't cry. Keep on running and running, for someday…
+Dialogue: 1,0:01:50.90,0:01:55.74,Opening,[karaoke],0,0,0,,{TIME:110902,115741}{\blur1}Don't cry. Keep on running\Nand running, for someday…
 Comment: 0,0:02:00.12,0:02:00.12,Default,[chapter],0,0,0,,{TIME:120120,120120}Main
-Dialogue: 0,0:02:01.07,0:02:06.54,Narrator,(narrator),0,0,0,,{TIME:121079,126543}Kitajima Maya's talent was discovered by a renown former actress, Chigusa Tsukikage…
+Dialogue: 0,0:02:01.07,0:02:06.54,Narrator,(narrator),0,0,0,,{TIME:121079,126543}Kitajima Maya's talent was discovered\Nby a renown former actress, Chigusa Tsukikage…
 Dialogue: 0,0:02:06.54,0:02:10.50,Narrator,(narrator),0,0,0,,{TIME:126543,130505}…and now she has become\Na student of Tsukikage Theater.
 Dialogue: 0,0:02:10.50,0:02:15.42,Narrator,(narrator),0,0,0,,{TIME:130505,135427}After her performance at the first play,\Nin which she played one of the main roles…
-Dialogue: 0,0:02:15.42,0:02:20.14,Narrator,(narrator),0,0,0,,{TIME:135427,140140}…purple roses were delivered from an anonymous fan.
+Dialogue: 0,0:02:15.42,0:02:20.14,Narrator,(narrator),0,0,0,,{TIME:135427,140140}…purple roses were delivered\Nfrom an anonymous fan.
 Dialogue: 0,0:02:21.18,0:02:27.10,Episode title,[title],0,0,0,,{TIME:141183,147105}{\an5\pos(766,750)\fscy95\blur1\fad(400,0)}—Episode 03—\NThe Beautiful Rival
 Dialogue: 0,0:02:30.69,0:02:32.69,Default,,0,0,0,,{TIME:150692,152694}{\i1}I wonder who?
 Dialogue: 0,0:02:39.40,0:02:41.11,Default,,0,0,0,,{TIME:159409,161119}Welcome.
@@ -72,9 +72,9 @@ Dialogue: 0,0:03:09.27,0:03:12.19,Default,,0,0,0,,{TIME:189272,192192}She hasn't
 Dialogue: 0,0:03:12.19,0:03:14.61,Default,,0,0,0,,{TIME:192192,194611}Ayumi, we all are finally together as a family.
 Dialogue: 0,0:03:14.61,0:03:16.23,Default,,0,0,0,,{TIME:194611,196238}Come on.
 Dialogue: 0,0:03:16.23,0:03:17.86,Default,,0,0,0,,{TIME:196238,197864}Yes.
-Dialogue: 0,0:03:18.99,0:03:22.61,Default,,0,0,0,,{TIME:198990,202619}No sugar for mama because she's on a diet for her next play.
+Dialogue: 0,0:03:18.99,0:03:22.61,Default,,0,0,0,,{TIME:198990,202619}No sugar for mama\Nbecause she's on a diet for her next play.
 Dialogue: 0,0:03:22.61,0:03:23.53,Default,,0,0,0,,{TIME:202619,203537}
-Dialogue: 0,0:03:23.53,0:03:26.87,Default,,0,0,0,,{TIME:203537,206873}No sugar for papa as well because you're on a diet for your tummy.
+Dialogue: 0,0:03:23.53,0:03:26.87,Default,,0,0,0,,{TIME:203537,206873}No sugar for papa as well\Nbecause you're on a diet for your tummy.
 Dialogue: 0,0:03:26.87,0:03:27.79,Default,,0,0,0,,{TIME:206873,207791}
 Dialogue: 0,0:03:27.79,0:03:28.75,Default,,0,0,0,,{TIME:207791,208750}
 Dialogue: 0,0:03:33.58,0:03:37.50,Default,,0,0,0,,{TIME:213588,217509}{\i1}She is coming closer and closer to me…
@@ -85,7 +85,7 @@ Dialogue: 0,0:03:47.39,0:03:51.35,Sign,(sign),0,0,0,,{TIME:227393,231356}Secret 
 Dialogue: 0,0:03:51.35,0:03:53.48,Sign,(sign),0,0,0,,{TIME:231356,233483}Inexperienced Actors
 Dialogue: 0,0:03:53.85,0:03:56.11,Default,,0,0,0,,{TIME:233859,236111}Great job, Masumi!
 Dialogue: 0,0:03:56.11,0:03:58.19,Default,,0,0,0,,{TIME:236111,238196}Every critic gave terrible reviews.
-Dialogue: 0,0:03:58.19,0:04:00.86,Default,,0,0,0,,{TIME:238196,240866}It's scary once Metropolitan Entertainment puts an eye on someone.
+Dialogue: 0,0:03:58.19,0:04:00.86,Default,,0,0,0,,{TIME:238196,240866}It's scary once Metropolitan Entertainment\Nputs an eye on someone.
 Dialogue: 0,0:04:00.86,0:04:01.61,Default,,0,0,0,,{TIME:240866,241616}
 Dialogue: 0,0:04:01.61,0:04:04.66,Default,,0,0,0,,{TIME:241616,244661}You can buy all the major critics\Nto write what you want.
 Dialogue: 0,0:04:07.24,0:04:10.83,Default,,0,0,0,,{TIME:247247,250834}What's wrong?\NYou feel bad?
@@ -96,7 +96,7 @@ Dialogue: 0,0:04:25.34,0:04:27.85,Default,,0,0,0,,{TIME:265348,267851}What a ter
 Dialogue: 0,0:04:27.85,0:04:30.47,Default,,0,0,0,,{TIME:267851,270479}Aoyagi is my patron!
 Dialogue: 0,0:04:30.47,0:04:33.02,Default,,0,0,0,,{TIME:270479,273023}What kind of wording was that?
 Dialogue: 0,0:04:33.02,0:04:36.86,Default,,0,0,0,,{TIME:273023,276860}And that criticism!
-Dialogue: 0,0:04:36.86,0:04:39.40,Default,,0,0,0,,{TIME:276860,279404}I can see that it was only written with terrible intent.
+Dialogue: 0,0:04:36.86,0:04:39.40,Default,,0,0,0,,{TIME:276860,279404}I can see that it was only written\Nwith terrible intent.
 Dialogue: 0,0:04:43.82,0:04:48.91,Default,,0,0,0,,{TIME:283825,288914}Can you believe it?\NWhat's going on?
 Dialogue: 0,0:04:48.91,0:04:49.74,Default,,0,0,0,,{TIME:288914,289748}Teacher!
 Dialogue: 0,0:04:49.74,0:04:50.54,Default,,0,0,0,,{TIME:289748,290540}Teacher!
@@ -104,7 +104,7 @@ Dialogue: 0,0:04:50.54,0:04:52.41,Default,,0,0,0,,{TIME:290540,292417}What was t
 Dialogue: 0,0:04:52.41,0:04:54.12,Default,,0,0,0,,{TIME:292417,294127}Don't mind it.
 Dialogue: 0,0:04:54.12,0:04:56.29,Default,,0,0,0,,{TIME:294127,296296}Someone was behind all the articles.
 Dialogue: 0,0:04:57.67,0:05:02.09,Default,,0,0,0,,{TIME:297672,302093}Someone who wants\Nto destroy Tsukikage Theater.
-Dialogue: 0,0:05:02.09,0:05:03.38,Default,,0,0,0,,{TIME:302093,303386}But teacher…
+Dialogue: 0,0:05:02.09,0:05:03.38,Default,,0,0,0,,{TIME:302093,303386}But, teacher…
 Dialogue: 0,0:05:03.38,0:05:03.88,Default,,0,0,0,,{TIME:303386,303887}Teacher!
 Dialogue: 0,0:05:03.88,0:05:05.34,Default,,0,0,0,,{TIME:303887,305347}Look how it was written!
 Dialogue: 0,0:05:05.34,0:05:09.89,Default,,0,0,0,,{TIME:305347,309893}Don't mind the lying critics!
@@ -136,7 +136,7 @@ Dialogue: 0,0:06:14.12,0:06:17.25,Default,,0,0,0,,{TIME:374124,377252}Running aw
 Dialogue: 0,0:06:18.33,0:06:19.29,Default,,0,0,0,,{TIME:378335,379296}Maya?
 Dialogue: 0,0:06:19.29,0:06:20.63,Default,,0,0,0,,{TIME:379296,380630}No, I won't go home!
 Dialogue: 0,0:06:20.63,0:06:21.96,Default,,0,0,0,,{TIME:380630,381965}What are you talking about?
-Dialogue: 0,0:06:21.96,0:06:24.80,Default,,0,0,0,,{TIME:381965,384801}I'll take you home even with a leash on your neck!
+Dialogue: 0,0:06:21.96,0:06:24.80,Default,,0,0,0,,{TIME:381965,384801}I'll take you home\Neven with a leash on your neck!
 Dialogue: 0,0:06:24.80,0:06:25.38,Default,,0,0,0,,{TIME:384801,385385}Wait!
 Dialogue: 0,0:06:25.38,0:06:25.92,Default,,0,0,0,,{TIME:385385,385927}No!
 Dialogue: 0,0:06:27.84,0:06:28.84,Default,,0,0,0,,{TIME:387846,388847}Open this door!
@@ -168,22 +168,22 @@ Dialogue: 0,0:07:17.02,0:07:19.43,Default,,0,0,0,,{TIME:437020,439439}What are y
 Dialogue: 0,0:07:19.43,0:07:22.94,Default,,0,0,0,,{TIME:439439,442943}There is no way you can be an actress!
 Dialogue: 0,0:07:22.94,0:07:24.48,Default,,0,0,0,,{TIME:442943,444486}
 Dialogue: 0,0:07:26.48,0:07:30.11,Default,,0,0,0,,{TIME:446488,450116}I can't let her go back with you.
-Dialogue: 0,0:07:30.11,0:07:32.78,Default,,0,0,0,,{TIME:450116,452786}You're a mother, supposed to encourage your child…
+Dialogue: 0,0:07:30.11,0:07:32.78,Default,,0,0,0,,{TIME:450116,452786}You're a mother,\Nsupposed to encourage your child…
 Dialogue: 0,0:07:32.78,0:07:37.16,Default,,0,0,0,,{TIME:452786,457165}…but all you do is tell she's not worth anything…
 Dialogue: 0,0:07:37.16,0:07:39.62,Default,,0,0,0,,{TIME:457165,459626}…and don't even listen to her dreams.
 Dialogue: 0,0:07:39.62,0:07:40.54,Default,,0,0,0,,{TIME:459626,460543}What?
 Dialogue: 0,0:07:40.54,0:07:43.71,Default,,0,0,0,,{TIME:460543,463713}Why don't you believe in her possibilities?
 Dialogue: 0,0:07:43.71,0:07:46.84,Default,,0,0,0,,{TIME:463713,466841}Why not invest in her?
 Dialogue: 0,0:07:46.84,0:07:49.17,Default,,0,0,0,,{TIME:466841,469177}Even if she's not good at anything…
-Dialogue: 0,0:07:49.17,0:07:54.30,Default,,0,0,0,,{TIME:469177,474307}…I can look at one possibility she has and expand it.
+Dialogue: 0,0:07:49.17,0:07:54.30,Default,,0,0,0,,{TIME:469177,474307}…I can look at one possibility\Nshe has and expand it.
 Dialogue: 0,0:07:56.35,0:07:58.43,Default,,0,0,0,,{TIME:476351,478436}Listen to you.
 Dialogue: 0,0:07:58.43,0:08:00.56,Default,,0,0,0,,{TIME:478436,480563}What in the world do you know?
 Dialogue: 0,0:08:00.56,0:08:02.77,Default,,0,0,0,,{TIME:480563,482774}You're not even a mother.
 Dialogue: 0,0:08:04.31,0:08:07.40,Default,,0,0,0,,{TIME:484317,487404}To raise a child is not an easy task.
-Dialogue: 0,0:08:07.40,0:08:12.15,Default,,0,0,0,,{TIME:487404,492158}You don't know what I went through raising her as a single mother.
+Dialogue: 0,0:08:07.40,0:08:12.15,Default,,0,0,0,,{TIME:487404,492158}You don't know what I went through\Nraising her as a single mother.
 Dialogue: 0,0:08:12.15,0:08:13.32,Default,,0,0,0,,{TIME:492158,493326}Get out of the way!
 Dialogue: 0,0:08:13.32,0:08:15.57,Default,,0,0,0,,{TIME:493326,495578}I'm taking my daughter home.
-Dialogue: 0,0:08:15.57,0:08:17.99,Default,,0,0,0,,{TIME:495578,497998}If you don't move, I'll splash this boiling water on you!
+Dialogue: 0,0:08:15.57,0:08:17.99,Default,,0,0,0,,{TIME:495578,497998}If you don't move,\NI'll splash this boiling water on you!
 Dialogue: 0,0:08:17.99,0:08:19.29,Default,,0,0,0,,{TIME:497998,499290}Mother!
 Dialogue: 0,0:08:19.29,0:08:20.79,Default,,0,0,0,,{TIME:499290,500792}You can talk all you want.
 Dialogue: 0,0:08:20.79,0:08:22.79,Default,,0,0,0,,{TIME:500792,502794}But when it comes down to it,\Nyou'll just protect yourself.
@@ -193,7 +193,7 @@ Dialogue: 0,0:08:26.00,0:08:27.17,Default,,0,0,0,,{TIME:506006,507173}I won't mo
 Dialogue: 0,0:08:28.55,0:08:29.63,Default,,0,0,0,,{TIME:508550,509634}You…
 Dialogue: 0,0:08:31.38,0:08:33.13,Default,,0,0,0,,{TIME:511386,513138}…stupid daughter!
 Dialogue: 0,0:08:46.52,0:08:49.52,Default,,0,0,0,,{TIME:526526,529529}The face of an actress is her life.
-Dialogue: 0,0:08:49.52,0:08:54.28,Default,,0,0,0,,{TIME:529529,534284}If the boiling water gets on her and she gets a scar, her career as an actress will be over.
+Dialogue: 0,0:08:49.52,0:08:54.28,Default,,0,0,0,,{TIME:529529,534284}If the boiling water gets on her and she gets\Na scar, her career as an actress will be over.
 Dialogue: 0,0:08:54.28,0:08:55.49,Default,,0,0,0,,{TIME:534284,535493}Mother…
 Dialogue: 0,0:08:55.49,0:08:56.36,Default,,0,0,0,,{TIME:535493,536369}I'm sorry.
 Dialogue: 0,0:08:56.36,0:08:58.28,Default,,0,0,0,,{TIME:536369,538288}But I want to do this.
@@ -221,7 +221,7 @@ Dialogue: 0,0:09:58.26,0:09:59.14,Default,,0,0,0,,{TIME:598264,599140}Pleasure�
 Dialogue: 0,0:09:59.14,0:10:00.26,Default,,0,0,0,,{TIME:599140,600266}Madness.
 Dialogue: 0,0:10:04.56,0:10:08.73,Default,,0,0,0,,{TIME:604562,608733}An actress has to wear countless masks.
 Dialogue: 0,0:10:10.31,0:10:12.44,Default,,0,0,0,,{TIME:610318,612445}Remember, Maya.
-Dialogue: 0,0:10:12.44,0:10:17.57,Default,,0,0,0,,{TIME:612445,617575}Each of your experiences go directly towards acting.
+Dialogue: 0,0:10:12.44,0:10:17.57,Default,,0,0,0,,{TIME:612445,617575}Each of your experiences\Ngo directly towards acting.
 Dialogue: 0,0:10:17.57,0:10:18.61,Default,,0,0,0,,{TIME:617575,618618}Teacher…
 Dialogue: 0,0:10:18.61,0:10:19.61,Default,,0,0,0,,{TIME:618618,619619}Maya.
 Dialogue: 0,0:10:19.61,0:10:21.45,Default,,0,0,0,,{TIME:619619,621454}You have a thousand masks.
@@ -232,31 +232,31 @@ Dialogue: 0,0:10:32.71,0:10:34.38,Default,,0,0,0,,{TIME:632715,634384}A thousand
 Dialogue: 0,0:10:36.59,0:10:37.84,Default,,0,0,0,,{TIME:636594,637846}Teacher!
 Dialogue: 0,0:10:37.84,0:10:38.88,Default,,0,0,0,,{TIME:637846,638888}Teacher!
 Dialogue: 0,0:10:38.88,0:10:39.93,Default,,0,0,0,,{TIME:638888,639930}Teacher!
-Dialogue: 0,0:10:45.31,0:10:48.64,Default,,0,0,0,,{TIME:645311,648648}I don't know what will happen after the next attack.
-Dialogue: 0,0:10:48.64,0:10:51.48,Default,,0,0,0,,{TIME:648648,651484}She should be hospitalized and treated thoroughly.
+Dialogue: 0,0:10:45.31,0:10:48.64,Default,,0,0,0,,{TIME:645311,648648}I don't know what will happen\Nafter the next attack.
+Dialogue: 0,0:10:48.64,0:10:51.48,Default,,0,0,0,,{TIME:648648,651484}She should be hospitalized\Nand treated thoroughly.
 Dialogue: 0,0:10:54.11,0:10:56.19,Default,,0,0,0,,{TIME:654112,656197}Thank you for coming.
 Dialogue: 0,0:11:04.33,0:11:05.62,Default,,0,0,0,,{TIME:664330,665623}Genzo…
 Dialogue: 0,0:11:06.16,0:11:08.29,Default,,0,0,0,,{TIME:666166,668293}Oh, you're awake.
 Dialogue: 0,0:11:08.29,0:11:11.12,Default,,0,0,0,,{TIME:668293,671129}Tell my students not to worry.
 Dialogue: 0,0:11:11.12,0:11:13.29,Default,,0,0,0,,{TIME:671129,673298}Yes, Madame.
 Dialogue: 0,0:11:13.29,0:11:15.38,Default,,0,0,0,,{TIME:673298,675383}What did the doctor say?
-Dialogue: 0,0:11:15.38,0:11:18.67,Default,,0,0,0,,{TIME:675383,678678}He suggested that, since you've been working too hard lately…
+Dialogue: 0,0:11:15.38,0:11:18.67,Default,,0,0,0,,{TIME:675383,678678}He suggested that since\Nyou've been working too hard lately…
 Dialogue: 0,0:11:18.67,0:11:21.63,Default,,0,0,0,,{TIME:678678,681639}…you should be hospitalized and treated.
-Dialogue: 0,0:11:21.63,0:11:25.81,Default,,0,0,0,,{TIME:681639,685810}And that he wouldn't know what will happen after the next attack?
+Dialogue: 0,0:11:21.63,0:11:25.81,Default,,0,0,0,,{TIME:681639,685810}And that he wouldn't know\Nwhat will happen after the next attack?
 Dialogue: 0,0:11:25.81,0:11:27.56,Default,,0,0,0,,{TIME:685810,687562}Oh no.
 Dialogue: 0,0:11:28.52,0:11:30.77,Default,,0,0,0,,{TIME:688521,690773}You know it all too well…
-Dialogue: 0,0:11:30.77,0:11:35.69,Default,,0,0,0,,{TIME:690773,695695}…I don't have the time nor the money to be hospitalized right now.
+Dialogue: 0,0:11:30.77,0:11:35.69,Default,,0,0,0,,{TIME:690773,695695}…I don't have the time nor the money\Nto be hospitalized right now.
 Dialogue: 0,0:11:35.69,0:11:36.73,Default,,0,0,0,,{TIME:695695,696738}Genzo.
 Dialogue: 0,0:11:38.61,0:11:39.78,Default,,0,0,0,,{TIME:698615,699781}Yes, Madame.
-Dialogue: 0,0:11:40.95,0:11:49.08,Default,,0,0,0,,{TIME:700950,709083}You are the only one who came with me even after I lost all my wealth and fame.
+Dialogue: 0,0:11:40.95,0:11:49.08,Default,,0,0,0,,{TIME:700950,709083}You are the only one who came with me\Neven after I lost all my wealth and fame.
 Dialogue: 0,0:11:49.08,0:11:50.54,Default,,0,0,0,,{TIME:709083,710543}Thank you.
 Dialogue: 0,0:11:50.54,0:11:52.83,Default,,0,0,0,,{TIME:710543,712837}Don't mention it.
 Dialogue: 0,0:11:52.83,0:11:54.29,Default,,0,0,0,,{TIME:712837,714297}Twenty years ago…
 Dialogue: 0,0:12:00.17,0:12:02.76,Default,,0,0,0,,{TIME:720178,722764}…when the light fell…
-Dialogue: 0,0:12:02.76,0:12:07.93,Default,,0,0,0,,{TIME:722764,727936}…and ruined my face so badly that even surgery couldn't fix it…
+Dialogue: 0,0:12:02.76,0:12:07.93,Default,,0,0,0,,{TIME:722764,727936}…and ruined my face so badly\Nthat even surgery couldn't fix it…
 Dialogue: 0,0:12:07.93,0:12:10.23,Default,,0,0,0,,{TIME:727936,730230}…my acting career was over for good.
-Dialogue: 0,0:12:11.89,0:12:19.53,Default,,0,0,0,,{TIME:731897,739530}Your "Crimson Goddess" had such beauty that the audience will never forget it.
-Dialogue: 0,0:12:19.53,0:12:27.37,Default,,0,0,0,,{TIME:739530,747372}It's only natural that Director Ozaki Ichiren gave you the play rights for it and no one else.
+Dialogue: 0,0:12:11.89,0:12:19.53,Default,,0,0,0,,{TIME:731897,739530}Your "Crimson Goddess" had such beauty\Nthat the audience will never forget it.
+Dialogue: 0,0:12:19.53,0:12:27.37,Default,,0,0,0,,{TIME:739530,747372}It's only natural that Director Ozaki Ichiren\Ngave you the play rights for it and no one else.
 Dialogue: 0,0:12:39.17,0:12:42.80,Default,,0,0,0,,{TIME:759175,762804}Here, you should get some rest, Madame.
 Dialogue: 0,0:12:52.60,0:12:54.02,Default,,0,0,0,,{TIME:772605,774023}Teacher, how are you feeling?
 Dialogue: 0,0:12:55.81,0:12:56.85,Default,,0,0,0,,{TIME:775817,776859}Teacher?
@@ -284,19 +284,19 @@ Dialogue: 0,0:14:21.15,0:14:25.61,Default,,0,0,0,,{TIME:861151,865615}A, me, n, 
 Dialogue: 0,0:14:25.61,0:14:27.28,Default,,0,0,0,,{TIME:865615,867283}More!
 Dialogue: 0,0:14:27.28,0:14:32.16,Default,,0,0,0,,{TIME:867283,872163}A, me, n, bo, a, ka, i, sa…!
 Dialogue: 0,0:14:32.16,0:14:34.62,Sign,(sign),0,0,0,,{TIME:872163,874624}Madame White Rose Press Conference
-Dialogue: 0,0:14:37.87,0:14:39.96,Default,,0,0,0,,{TIME:877877,879962}We're looking forward to you both playing together.
+Dialogue: 0,0:14:37.87,0:14:39.96,Default,,0,0,0,,{TIME:877877,879962}We're looking forward\Nto you both playing together.
 Dialogue: 0,0:14:39.96,0:14:42.29,Default,,0,0,0,,{TIME:879962,882298}Ms. Ayumi, what's your goal for the future?
 Dialogue: 0,0:14:42.29,0:14:45.59,Default,,0,0,0,,{TIME:882298,885593}Do you want to be an actress like your mother?
 Dialogue: 0,0:14:45.59,0:14:49.43,Default,,0,0,0,,{TIME:885593,889430}No. I will not be an actress like my mother.
 Dialogue: 0,0:14:55.14,0:14:57.56,Default,,0,0,0,,{TIME:895144,897563}She is my mother,\Nbut she's a rival as an actress.
-Dialogue: 0,0:14:57.56,0:15:00.44,Default,,0,0,0,,{TIME:897563,900441}I want to become a better actress than my mother.
+Dialogue: 0,0:14:57.56,0:15:00.44,Default,,0,0,0,,{TIME:897563,900441}I want to become a better actress\Nthan my mother.
 Dialogue: 0,0:15:00.44,0:15:01.98,Default,,0,0,0,,{TIME:900441,901984}So the climax of "Miss White Rose"…
-Dialogue: 0,0:15:01.98,0:15:04.82,Default,,0,0,0,,{TIME:901984,904821}…can be expected to be a competition between mother and daughter.
+Dialogue: 0,0:15:01.98,0:15:04.82,Default,,0,0,0,,{TIME:901984,904821}…can be expected to be a competition\Nbetween mother and daughter.
 Dialogue: 0,0:15:08.86,0:15:10.49,Default,,0,0,0,,{TIME:908866,910493}Madame, that's…
-Dialogue: 0,0:15:13.70,0:15:21.50,Default,,0,0,0,,{TIME:913704,921504}{\i1}Hello. I'm terribly sorry for my horrible scene over Maya the other day.
-Dialogue: 0,0:15:21.50,0:15:27.21,Default,,0,0,0,,{TIME:921504,927218}{\i1}After I thought about it, now I understand that I should let her do as she wills, just as you said.
+Dialogue: 0,0:15:13.70,0:15:21.50,Default,,0,0,0,,{TIME:913704,921504}{\i1}Hello. I'm terribly sorry for my horrible scene\Nover Maya the other day.
+Dialogue: 0,0:15:21.50,0:15:27.21,Default,,0,0,0,,{TIME:921504,927218}{\i1}After I thought about it, now I understand that\NI should let her do as she wills, just as you said.
 Dialogue: 0,0:15:27.21,0:15:29.55,Default,,0,0,0,,{TIME:927218,929554}{\i1}It may be lonely or hard…
-Dialogue: 0,0:15:29.55,0:15:35.01,Default,,0,0,0,,{TIME:929554,935017}{\i1}…but I should at least let her do what she wants to do. It's the least that I can do.
+Dialogue: 0,0:15:29.55,0:15:35.01,Default,,0,0,0,,{TIME:929554,935017}{\i1}…but I should at least let her do what\Nshe wants to do. It's the least that I can do.
 Dialogue: 0,0:15:35.01,0:15:37.93,Default,,0,0,0,,{TIME:935017,937937}{\i1}Please take care of my daughter.
 Dialogue: 0,0:15:39.18,0:15:41.69,Default,,0,0,0,,{TIME:939188,941690}Here, let's burn the package.
 Dialogue: 0,0:15:41.69,0:15:43.10,Default,,0,0,0,,{TIME:941690,943109}Madame…
@@ -306,7 +306,7 @@ Dialogue: 0,0:15:45.23,0:15:48.78,Default,,0,0,0,,{TIME:945236,948781}What she n
 Dialogue: 0,0:15:48.78,0:15:50.86,Default,,0,0,0,,{TIME:948781,950867}Not to have anywhere to turn back to.
 Dialogue: 0,0:15:50.86,0:15:51.90,Default,,0,0,0,,{TIME:950867,951909}Madame.
 Dialogue: 0,0:15:56.20,0:15:57.62,Default,,0,0,0,,{TIME:956204,957623}Ladies.
-Dialogue: 0,0:15:57.62,0:16:00.50,Default,,0,0,0,,{TIME:957623,960501}We are going to practice using the hall on the second floor.
+Dialogue: 0,0:15:57.62,0:16:00.50,Default,,0,0,0,,{TIME:957623,960501}We are going to practice\Nusing the hall on the second floor.
 Dialogue: 0,0:16:00.50,0:16:01.79,Default,,0,0,0,,{TIME:960501,961794}Using the hall?
 Dialogue: 0,0:16:01.79,0:16:03.92,Default,,0,0,0,,{TIME:961794,963921}I wonder what we will play?
 Dialogue: 0,0:16:03.92,0:16:06.17,Default,,0,0,0,,{TIME:963921,966174}It's the first time to use the hall.
@@ -318,7 +318,7 @@ Dialogue: 0,0:16:16.09,0:16:16.76,Default,,0,0,0,,{TIME:976099,976767}"Yes".
 Dialogue: 0,0:16:16.76,0:16:17.56,Default,,0,0,0,,{TIME:976767,977560}"No".
 Dialogue: 0,0:16:17.56,0:16:18.39,Default,,0,0,0,,{TIME:977560,978394}"Thank you".
 Dialogue: 0,0:16:18.39,0:16:19.93,Default,,0,0,0,,{TIME:978394,979937}"I'm sorry"…
-Dialogue: 0,0:16:25.65,0:16:29.86,Default,,0,0,0,,{TIME:985651,989864}You are not allowed to use any other words except for those four words. Okay?
+Dialogue: 0,0:16:25.65,0:16:29.86,Default,,0,0,0,,{TIME:985651,989864}You are not allowed to use any other words\Nexcept for those four words. Okay?
 Dialogue: 0,0:16:29.86,0:16:30.90,Default,,0,0,0,,{TIME:989864,990906}Yes!
 Dialogue: 0,0:16:30.90,0:16:34.74,Default,,0,0,0,,{TIME:990906,994744}The play will be improvised from my lead.
 Dialogue: 0,0:16:34.74,0:16:38.16,Default,,0,0,0,,{TIME:994744,998164}You'll fail if your act or the words are not right.
@@ -329,12 +329,12 @@ Dialogue: 0,0:16:56.59,0:16:59.60,Default,,0,0,0,,{TIME:1016599,1019602}Oh, aren
 Dialogue: 0,0:16:59.60,0:17:02.73,Default,,0,0,0,,{TIME:1019602,1022730}You've grown so much since I last saw you.
 Dialogue: 0,0:17:02.73,0:17:04.39,Default,,0,0,0,,{TIME:1022730,1024397}Do you remember me?
 Dialogue: 0,0:17:04.39,0:17:05.23,Default,,0,0,0,,{TIME:1024397,1025233}No.
-Dialogue: 0,0:17:05.23,0:17:07.77,Default,,0,0,0,,{TIME:1025233,1027777}I haven't seen him for a while, but has your father been okay?
+Dialogue: 0,0:17:05.23,0:17:07.77,Default,,0,0,0,,{TIME:1025233,1027777}I haven't seen him for a while,\Nbut has your father been okay?
 Dialogue: 0,0:17:07.77,0:17:09.02,Default,,0,0,0,,{TIME:1027777,1029028}Yes.
 Dialogue: 0,0:17:09.02,0:17:10.73,Default,,0,0,0,,{TIME:1029028,1030738}I get it.
 Dialogue: 0,0:17:10.73,0:17:13.65,Default,,0,0,0,,{TIME:1030738,1033658}It's about how you respond to her words.
-Dialogue: 0,0:17:15.28,0:17:21.83,Default,,0,0,0,,{TIME:1035284,1041832}Depending on her lines, you have to use the same words, but different tones.
-Dialogue: 0,0:17:21.83,0:17:26.00,Default,,1,1,0,,{TIME:1041832,1046002}Depending on your emotions and how you say it,\Nthe same words can be used so differently…
+Dialogue: 0,0:17:15.28,0:17:21.83,Default,,0,0,0,,{TIME:1035284,1041832}Depending on her lines, you have\Nto use the same words, but different tones.
+Dialogue: 0,0:17:21.83,0:17:26.00,Default,,0,0,0,,{TIME:1041832,1046002}Depending on your emotions and how you say it,\Nthe same words can be used so differently…
 Dialogue: 0,0:17:26.62,0:17:28.17,Default,,0,0,0,,{TIME:1046629,1048172}There's something on your shoulder.
 Dialogue: 0,0:17:28.17,0:17:28.79,Default,,0,0,0,,{TIME:1048172,1048798}Eh? Where?
 Dialogue: 0,0:17:28.79,0:17:30.00,Default,,0,0,0,,{TIME:1048798,1050007}Fail.
@@ -346,7 +346,7 @@ Dialogue: 0,0:17:44.98,0:17:47.98,Default,,0,0,0,,{TIME:1064981,1067984}I'm Hime
 Dialogue: 0,0:17:47.98,0:17:50.98,Default,,0,0,0,,{TIME:1067984,1070987}May I please audit the lesson today?
 Dialogue: 0,0:17:50.98,0:17:51.94,Default,,0,0,0,,{TIME:1070987,1071946}Sure.
 Dialogue: 0,0:17:51.94,0:17:55.40,Default,,0,0,0,,{TIME:1071946,1075408}You are learning acting too,\Nof course you can.
-Dialogue: 0,0:17:55.40,0:18:00.66,Default,,0,0,0,,{TIME:1075408,1080663}Miss Tsukikage, how about letting me be on the stage in place of you?
+Dialogue: 0,0:17:55.40,0:18:00.66,Default,,0,0,0,,{TIME:1075408,1080663}Miss Tsukikage, how about letting me\Nbe on the stage in place of you?
 Dialogue: 0,0:18:00.66,0:18:02.95,Default,,0,0,0,,{TIME:1080663,1082957}I would like to practice with one of you all.
 Dialogue: 0,0:18:06.12,0:18:08.25,Default,,0,0,0,,{TIME:1086127,1088254}She's about to test us.
 Dialogue: 0,0:18:08.25,0:18:09.29,Default,,0,0,0,,{TIME:1088254,1089297}Fine.
@@ -412,7 +412,7 @@ Dialogue: 0,0:21:37.00,0:21:40.09,Default,,0,0,0,,{TIME:1297004,1300090}I heard 
 Dialogue: 0,0:21:42.51,0:21:44.80,Default,,0,0,0,,{TIME:1302510,1304804}I'll take a coffee and a hamburger.
 Dialogue: 0,0:21:44.80,0:21:46.42,Default,,0,0,0,,{TIME:1304804,1306429}Yes, coming right up.
 Dialogue: 0,0:21:46.42,0:21:47.22,Default,,0,0,0,,{TIME:1306429,1307223}I know!
-Dialogue: 0,0:21:47.22,0:21:50.01,Default,,0,0,0,,{TIME:1307223,1310017}Maya, would you like to go to "Miss White Rose" with me today?
+Dialogue: 0,0:21:47.22,0:21:50.01,Default,,0,0,0,,{TIME:1307223,1310017}Maya, would you like to go\Nto "Miss White Rose" with me today?
 Dialogue: 0,0:21:50.01,0:21:50.76,Default,,0,0,0,,{TIME:1310017,1310768}I have two tickets.
 Dialogue: 0,0:21:50.76,0:21:53.10,Default,,0,0,0,,{TIME:1310768,1313103}Oh, that's the one Ms. Ayumi's in.
 Dialogue: 0,0:21:53.10,0:21:53.97,Default,,0,0,0,,{TIME:1313103,1313979}I'd love to go!
@@ -448,7 +448,7 @@ Dialogue: 1,0:23:51.09,0:23:57.10,Ending,[karaoke],0,0,0,,{TIME:1431096,1437102}
 Dialogue: 1,0:23:57.10,0:24:03.15,Ending,[karaoke],0,0,0,,{TIME:1437102,1443150}{\blur1}…for the dream\Non my cheek…
 Dialogue: 1,0:24:03.15,0:24:09.15,Ending,[karaoke],0,0,0,,{TIME:1443150,1449156}{\blur1\fad(0,500)}…belongs to you.
 Comment: 0,0:24:19.45,0:24:19.45,Default,[chapter],0,0,0,,{TIME:1459457,1459457}Preview
-Dialogue: 0,0:24:22.29,0:24:27.46,Narrator,(narrator),0,0,0,,{TIME:1462294,1467466}Tsukikage and Ondine participate in Tōkyō prefectural drama contest…
-Dialogue: 0,0:24:27.46,0:24:30.21,Narrator,(narrator),0,0,0,,{TIME:1467466,1470219}…and both are performing the same play: "Growing Up".
-Dialogue: 0,0:24:30.21,0:24:34.72,Narrator,(narrator),0,0,0,,{TIME:1470219,1474723}The main role of Midori will be played by Kitajima Maya and Himekawa Ayumi.{NOTE:主役のみどりをやるのは北島マヤと姫川亜弓}
+Dialogue: 0,0:24:22.29,0:24:27.46,Narrator,(narrator),0,0,0,,{TIME:1462294,1467466}Tsukikage and Ondine participate\Nin Tōkyō prefectural drama contest…
+Dialogue: 0,0:24:27.46,0:24:30.21,Narrator,(narrator),0,0,0,,{TIME:1467466,1470219}…and both are performing\Nthe same play: "Growing Up".
+Dialogue: 0,0:24:30.21,0:24:34.72,Narrator,(narrator),0,0,0,,{TIME:1470219,1474723}The main role of Midori will be played\Nby Kitajima Maya and Himekawa Ayumi.{NOTE:主役のみどりをやるのは北島マヤと姫川亜弓}
 Dialogue: 0,0:24:34.72,0:24:38.22,Narrator,(narrator),0,0,0,,{TIME:1474723,1478227}Please look forward to the next episode:\N"The Lonely Battle".{NOTE:ガラスの仮面 孤独な戦いを楽しみに}

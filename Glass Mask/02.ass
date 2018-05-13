@@ -5,7 +5,7 @@ ScriptType: v4.00+
 PlayResX: 1532
 PlayResY: 1080
 YCbCr Matrix: TV.601
-WrapStyle: 0
+WrapStyle: 2
 ScaledBorderAndShadow: yes
 Title: Glass Mask - 02
 Video File: source/02.mkv
@@ -25,7 +25,7 @@ Style: Ending alt,Gotham Narrow Bold,63,&H40F5F4F8,&H000000FF,&H40B4B4B6,&H7F202
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Intro
-Dialogue: 0,0:00:01.37,0:00:08.13,Narrator,(narrator),0,0,0,,{TIME:1376,8133}{\an2\fad(500,0)}A mask which is as fragile as glass, people wear it to hide their own faces.
+Dialogue: 0,0:00:01.37,0:00:08.13,Narrator,(narrator),0,0,0,,{TIME:1376,8133}{\an2\fad(500,0)}A mask which is as fragile as glass,\Npeople wear it to hide their own faces.
 Comment: 0,0:00:08.13,0:00:08.13,Default,[chapter],0,0,0,,{TIME:8133,8133}Opening
 Dialogue: 0,0:00:15.05,0:00:23.60,Default,[title],0,0,0,,{TIME:15056,23607}THE GLASS MASK
 Dialogue: 0,0:00:23.60,0:00:28.69,Opening alt,[karaoke],0,0,0,,{TIME:23607,28695}{\blur3}On the stage, with the lights off…
@@ -36,11 +36,11 @@ Dialogue: 0,0:00:49.34,0:00:54.13,Opening alt,[karaoke],0,0,0,,{TIME:49341,54137
 Dialogue: 0,0:00:55.76,0:01:00.60,Opening alt,[karaoke],0,0,0,,{TIME:55763,60602}{\blur3}…with stars in their heart.
 Dialogue: 0,0:01:02.85,0:01:07.14,Opening alt,[karaoke],0,0,0,,{TIME:62854,67149}{\blur3}Stage light: a moment to shine…
 Dialogue: 0,0:01:07.77,0:01:14.32,Opening alt,[karaoke],0,0,0,,{TIME:67776,74324}{\blur3}…this city becomes a shining star.
-Dialogue: 0,0:01:15.78,0:01:30.59,Opening alt,[karaoke],0,0,0,,{TIME:75783,90591}{\blur3}The flower in my heart is as fragile as glass, a shinin' dream.
+Dialogue: 0,0:01:15.78,0:01:30.59,Opening alt,[karaoke],0,0,0,,{TIME:75783,90591}{\blur3}The flower in my heart\Nis as fragile as glass, a shinin' dream.
 Dialogue: 0,0:01:31.13,0:01:37.05,Opening alt,[karaoke],0,0,0,,{TIME:91133,97055}{\blur3}You can do it if you want to,\Nso hold on tight to love…
-Dialogue: 0,0:01:37.63,0:01:43.89,Opening alt,[karaoke],0,0,0,,{TIME:97639,103895}{\blur3}…because there's someone that smiles on the other side of my tears.
+Dialogue: 0,0:01:37.63,0:01:43.89,Opening alt,[karaoke],0,0,0,,{TIME:97639,103895}{\blur3}…because there's someone that smiles\Non the other side of my tears.
 Dialogue: 0,0:01:44.06,0:01:49.48,Opening alt,[karaoke],0,0,0,,{TIME:104062,109484}{\blur3}You can do it if you want to,\Nthis feeling in my heart…
-Dialogue: 0,0:01:50.40,0:01:55.24,Opening alt,[karaoke],0,0,0,,{TIME:110402,115240}{\blur3}Don't cry. Keep on running and running for someday…
+Dialogue: 0,0:01:50.40,0:01:55.24,Opening alt,[karaoke],0,0,0,,{TIME:110402,115240}{\blur3}Don't cry. Keep on running\Nand running for someday…
 Dialogue: 1,0:00:23.60,0:00:28.69,Opening,[karaoke],0,0,0,,{TIME:23607,28695}{\blur1}On the stage, with the lights off…
 Dialogue: 1,0:00:30.15,0:00:34.91,Opening,[karaoke],0,0,0,,{TIME:30155,34910}{\blur1}…blue shadows emerge.
 Dialogue: 1,0:00:37.24,0:00:41.45,Opening,[karaoke],0,0,0,,{TIME:37246,41458}{\blur1}Dancing 'round to hear the applause…
@@ -49,23 +49,23 @@ Dialogue: 1,0:00:49.34,0:00:54.13,Opening,[karaoke],0,0,0,,{TIME:49341,54137}{\b
 Dialogue: 1,0:00:55.76,0:01:00.60,Opening,[karaoke],0,0,0,,{TIME:55764,60602}{\blur1}…with stars in their heart.
 Dialogue: 1,0:01:02.85,0:01:07.15,Opening,[karaoke],0,0,0,,{TIME:62854,67150}{\blur1}Stage light: a moment to shine…
 Dialogue: 1,0:01:07.77,0:01:14.32,Opening,[karaoke],0,0,0,,{TIME:67776,74324}{\blur1}…this city becomes a shining star.
-Dialogue: 1,0:01:15.78,0:01:30.59,Opening,[karaoke],0,0,0,,{TIME:75784,90591}{\blur1}The flower in my heart is as fragile as glass, a shinin' dream.
+Dialogue: 1,0:01:15.78,0:01:30.59,Opening,[karaoke],0,0,0,,{TIME:75784,90591}{\blur1}The flower in my heart\Nis as fragile as glass, a shinin' dream.
 Dialogue: 1,0:01:31.13,0:01:37.05,Opening,[karaoke],0,0,0,,{TIME:91133,97055}{\blur1}You can do it if you want to,\Nso hold on tight to love…
-Dialogue: 1,0:01:37.63,0:01:43.89,Opening,[karaoke],0,0,0,,{TIME:97639,103895}{\blur1}…because there's someone that smiles on the other side of my tears.
+Dialogue: 1,0:01:37.63,0:01:43.89,Opening,[karaoke],0,0,0,,{TIME:97639,103895}{\blur1}…because there's someone that smiles\Non the other side of my tears.
 Dialogue: 1,0:01:44.06,0:01:49.48,Opening,[karaoke],0,0,0,,{TIME:104062,109484}{\blur1}You can do it if you want to,\Nthis feeling in my heart…
-Dialogue: 1,0:01:50.40,0:01:55.24,Opening,[karaoke],0,0,0,,{TIME:110402,115240}{\blur1}Don't cry. Keep on running and running, for someday…
+Dialogue: 1,0:01:50.40,0:01:55.24,Opening,[karaoke],0,0,0,,{TIME:110402,115240}{\blur1}Don't cry. Keep on running\Nand running, for someday…
 Comment: 0,0:01:59.74,0:01:59.74,Default,[chapter],0,0,0,,{TIME:119745,119745}Main
-Dialogue: 0,0:02:01.62,0:02:05.45,Narrator,(narrator),0,0,0,,{TIME:121622,125459}No matter how one looks at it, Maya Kitajima is an average girl…
-Dialogue: 0,0:02:05.45,0:02:10.25,Narrator,(narrator),0,0,0,,{TIME:125459,130255}…but, in her heart, there is a burning desire to become an actress.
-Dialogue: 0,0:02:10.25,0:02:14.42,Narrator,(narrator),0,0,0,,{TIME:130255,134426}Maya, whose talent was discovered by\Na former actress, Tsukikage Chigusa…
-Dialogue: 0,0:02:14.42,0:02:19.76,Narrator,(narrator),0,0,0,,{TIME:134426,139765}…is determined to follow in her footsteps by becoming an actress in Tsukikage Theater.
+Dialogue: 0,0:02:01.62,0:02:05.45,Narrator,(narrator),0,0,0,,{TIME:121622,125459}No matter how one looks at it,\NMaya Kitajima is an average girl…
+Dialogue: 0,0:02:05.45,0:02:10.25,Narrator,(narrator),0,0,0,,{TIME:125459,130255}…but, in her heart, there is\Na burning desire to become an actress.
+Dialogue: 0,0:02:10.25,0:02:14.42,Narrator,(narrator),0,0,0,,{TIME:130255,134426}Maya, whose talent was discovered\Nby a former actress, Tsukikage Chigusa…
+Dialogue: 0,0:02:14.42,0:02:19.76,Narrator,(narrator),0,0,0,,{TIME:134426,139765}…is determined to follow in her footsteps\Nby becoming an actress in Tsukikage Theater.
 Dialogue: 0,0:02:20.76,0:02:26.77,Episode title,[title],0,0,0,,{TIME:140766,146772}{\an5\pos(766,750)\fscy95\blur1\fad(200,0)}—Episode 02—\NMr. Purple Rose
-Dialogue: 0,0:02:27.89,0:02:32.81,Default,,0,0,0,,{TIME:147898,152819}{\i1}Dear Mom, I am now a live-in student at Theater Tsukikage.
+Dialogue: 0,0:02:27.89,0:02:32.81,Default,,0,0,0,,{TIME:147898,152819}{\i1}Dear Mom, I am now a live-in student\Nat Theater Tsukikage.
 Dialogue: 0,0:02:32.81,0:02:35.65,Default,,0,0,0,,{TIME:152819,155656}{\i1}Sorry I left without notifying you…
 Dialogue: 0,0:02:35.65,0:02:37.65,Default,,0,0,0,,{TIME:155656,157656}{\i1}…but I'm doing fine here.
 Dialogue: 0,0:02:48.75,0:02:50.25,Sign,(sign),0,0,0,,{TIME:168752,170253}Manpuku Ken
 Dialogue: 0,0:02:50.37,0:02:52.42,Default,,0,0,0,,{TIME:170379,172422}I'm sorry, Mother.
-Dialogue: 0,0:02:52.42,0:02:56.42,Default,,0,0,0,,{TIME:172422,176426}But I really want to become an actress by any means.
+Dialogue: 0,0:02:52.42,0:02:56.42,Default,,0,0,0,,{TIME:172422,176426}But I really want to become\Nan actress by any means.
 Dialogue: 0,0:02:58.30,0:03:02.84,Default,,0,0,0,,{TIME:178303,182849}{\i1}Now I'm going to junior high school from here…
 Dialogue: 0,0:03:02.84,0:03:06.22,Default,,0,0,0,,{TIME:182849,186228}{\i1}…and I am getting a scholarship for this school…
 Dialogue: 0,0:03:07.93,0:03:11.02,Default,,0,0,0,,{TIME:187938,191024}{\i1}…so don't worry about me.
@@ -85,7 +85,7 @@ Dialogue: 0,0:03:53.23,0:03:54.31,Default,,0,0,0,,{TIME:233233,234317}{\i1}She's
 Dialogue: 0,0:03:54.31,0:03:58.19,Default,,0,0,0,,{TIME:234317,238196}{\i1}But she's a girl without a flaw.
 Dialogue: 0,0:04:02.32,0:04:05.32,Default,,0,0,0,,{TIME:242325,245328}{\i1}And, Mom, don't be surprised.
 Dialogue: 0,0:04:05.32,0:04:09.79,Default,,0,0,0,,{TIME:245328,249791}{\i1}I was chosen to play Beth in "Little Women".
-Dialogue: 0,0:04:11.71,0:04:17.21,Default,,0,0,0,,{TIME:251710,257215}{\i1}Tsukikage Theater's first performance, part advertisement as well as opening the theater.
+Dialogue: 0,0:04:11.71,0:04:17.21,Default,,0,0,0,,{TIME:251710,257215}{\i1}Tsukikage Theater's first performance,\Npart advertisement as well as opening the theater.
 Dialogue: 0,0:04:17.21,0:04:19.63,Default,,0,0,0,,{TIME:257215,259634}{\i1}I'll play Beth on that stage!
 Dialogue: 0,0:04:21.38,0:04:24.26,Default,,0,0,0,,{TIME:261386,264264}Shoot, I slept in!
 Dialogue: 0,0:04:24.26,0:04:26.43,Default,,0,0,0,,{TIME:264264,266433}Good morning.
@@ -108,7 +108,7 @@ Dialogue: 0,0:05:10.81,0:05:14.23,Default,,0,0,0,,{TIME:310811,314231}{\i1}What 
 Dialogue: 0,0:05:22.65,0:05:26.91,Narrator,(narrator),0,0,0,,{TIME:322656,326910}With the performance date coming close,\Nthey progressed with their practice.
 Dialogue: 0,0:05:27.82,0:05:29.20,Default,,0,0,0,,{TIME:327828,329204}Maya!
 Dialogue: 0,0:05:29.20,0:05:31.37,Default,,0,0,0,,{TIME:329204,331373}Look how you are picking it up!
-Dialogue: 0,0:05:31.37,0:05:36.41,Default,,0,0,0,,{TIME:331373,336419}Are you trying to understand how Beth would like to pick it up?
+Dialogue: 0,0:05:31.37,0:05:36.41,Default,,0,0,0,,{TIME:331373,336419}Are you trying to understand\Nhow Beth would like to pick it up?
 Dialogue: 0,0:05:37.75,0:05:39.33,Default,,0,0,0,,{TIME:337754,339339}There she goes again.
 Dialogue: 0,0:05:39.33,0:05:43.13,Default,,0,0,0,,{TIME:339339,343134}It's impossible for her to play Beth,\Nbeing a total amateur.
 Dialogue: 0,0:05:43.13,0:05:45.88,Default,,0,0,0,,{TIME:343134,345887}Sayaka would fit Beth much better.
@@ -164,7 +164,7 @@ Dialogue: 0,0:08:30.59,0:08:31.72,Default,,0,0,0,,{TIME:510593,511720}Yes.
 Dialogue: 0,0:08:31.72,0:08:34.51,Default,,0,0,0,,{TIME:511720,514514}…I hope we can play together one day.
 Dialogue: 0,0:08:38.81,0:08:41.47,Default,,0,0,0,,{TIME:518810,521479}I'll try hard till that day!
 Dialogue: 0,0:08:41.47,0:08:42.89,Default,,0,0,0,,{TIME:521479,522897}Good bye!
-Dialogue: 0,0:08:50.48,0:08:55.28,Default,,0,0,0,,{TIME:530488,535285}Well, I sure hope that you will produce a star soon.
+Dialogue: 0,0:08:50.48,0:08:55.28,Default,,0,0,0,,{TIME:530488,535285}Well, I sure hope\Nthat you will produce a star soon.
 Dialogue: 0,0:08:55.28,0:08:57.91,Default,,0,0,0,,{TIME:535285,537912}Until then, let's see how\Nmany money trees grow.
 Dialogue: 0,0:08:59.20,0:09:02.08,Default,,0,0,0,,{TIME:539205,542083}Well the, good luck.
 Dialogue: 0,0:09:02.08,0:09:03.87,Default,,0,0,0,,{TIME:542083,543877}I'll see you again soon.
@@ -177,21 +177,21 @@ Dialogue: 0,0:09:45.29,0:09:50.29,Default,,0,0,0,,{TIME:585293,590298}I saw Mr. 
 Dialogue: 0,0:09:52.55,0:09:56.76,Default,,0,0,0,,{TIME:592550,596763}The owner of this theater is Mr. Aoyagi, huh?
 Dialogue: 0,0:09:56.76,0:09:58.80,Default,,0,0,0,,{TIME:596763,598807}What do you want?
 Dialogue: 0,0:09:58.80,0:10:01.14,Default,,0,0,0,,{TIME:598807,601142}There's only one thing I came here for.
-Dialogue: 0,0:10:01.14,0:10:06.77,Default,,0,0,0,,{TIME:601142,606773}I have no intention to sell the play rights for "The Crimson Goddess."
+Dialogue: 0,0:10:01.14,0:10:06.77,Default,,0,0,0,,{TIME:601142,606773}I have no intention to sell\Nthe play rights for "The Crimson Goddess."
 Dialogue: 0,0:10:08.77,0:10:12.73,Default,,0,0,0,,{TIME:608775,612737}I will come back again and again\Ntill you change your mind.
 Dialogue: 0,0:10:13.73,0:10:15.78,Default,,0,0,0,,{TIME:613738,615782}Please go home now.
 Dialogue: 0,0:10:15.78,0:10:17.32,Default,,0,0,0,,{TIME:615782,617325}I'm a little tired.
 Dialogue: 0,0:10:17.32,0:10:20.49,Default,,0,0,0,,{TIME:617325,620495}I see.\NI won't bother you.
 Dialogue: 0,0:10:20.49,0:10:22.74,Default,,0,0,0,,{TIME:620495,622747}But let me say one thing before I go.
-Dialogue: 0,0:10:22.74,0:10:26.54,Default,,0,0,0,,{TIME:622747,626543}I wouldn't recommend you signing up with Aoyagi Productions.
-Dialogue: 0,0:10:26.54,0:10:31.84,Default,,0,0,0,,{TIME:626543,631840}And sign up with your Metropolitan Entertainment instead?
+Dialogue: 0,0:10:22.74,0:10:26.54,Default,,0,0,0,,{TIME:622747,626543}I wouldn't recommend you\Nsigning up with Aoyagi Productions.
+Dialogue: 0,0:10:26.54,0:10:31.84,Default,,0,0,0,,{TIME:626543,631840}And sign up with\Nyour Metropolitan Entertainment instead?
 Dialogue: 0,0:10:31.84,0:10:33.38,Default,,0,0,0,,{TIME:631840,633383}No, thank you.
 Dialogue: 0,0:10:33.38,0:10:36.21,Default,,0,0,0,,{TIME:633383,636219}I will run my theater just fine.
-Dialogue: 0,0:10:36.21,0:10:39.68,Default,,0,0,0,,{TIME:636219,639681}Don't you see that you are being used by Mr. Aoyagi?
+Dialogue: 0,0:10:36.21,0:10:39.68,Default,,0,0,0,,{TIME:636219,639681}Don't you see that you\Nare being used by Mr. Aoyagi?
 Dialogue: 0,0:10:39.68,0:10:40.97,Default,,0,0,0,,{TIME:639681,640974}Please go home.
 Dialogue: 0,0:10:40.97,0:10:43.01,Default,,0,0,0,,{TIME:640974,643017}You have no right to comment like this.
 Dialogue: 0,0:10:43.01,0:10:43.97,Default,,0,0,0,,{TIME:643017,643977}I see.
-Dialogue: 0,0:10:43.97,0:10:49.81,Default,,0,0,0,,{TIME:643977,649816}But now that I know that the notorious Aoyagi Productions is behind Tsukikage Theater…
+Dialogue: 0,0:10:43.97,0:10:49.81,Default,,0,0,0,,{TIME:643977,649816}But now that I know that the notorious\NAoyagi Productions is behind Tsukikage Theater…
 Dialogue: 0,0:10:49.81,0:10:52.52,Default,,0,0,0,,{TIME:649816,652527}…I won't just let this pass.
 Dialogue: 0,0:10:52.52,0:10:54.86,Default,,0,0,0,,{TIME:652527,654863}Are you threatening me?
 Dialogue: 0,0:10:54.86,0:10:56.53,Default,,0,0,0,,{TIME:654863,656531}No way.
@@ -205,10 +205,10 @@ Dialogue: 0,0:11:42.53,0:11:45.49,Default,,0,0,0,,{TIME:702535,705496}Beth, Beth
 Dialogue: 0,0:11:46.49,0:11:48.49,Default,,0,0,0,,{TIME:706497,708499}I'm fine.
 Dialogue: 0,0:11:48.49,0:11:51.21,Default,,0,0,0,,{TIME:708499,711211}Jo, don't let anyone come near me—
 Dialogue: 0,0:11:51.21,0:11:53.04,Default,,0,0,0,,{TIME:711211,713046}No good, Maya!
-Dialogue: 0,0:11:54.08,0:11:59.38,Default,,0,0,0,,{TIME:714088,719385}This is the scene where Beth is still thinking of her sisters, even though she's struggling herself!
-Dialogue: 0,0:11:59.38,0:12:02.93,Default,,0,0,0,,{TIME:719385,722931}It's been three hours since we first started this same scene…
+Dialogue: 0,0:11:54.08,0:11:59.38,Default,,0,0,0,,{TIME:714088,719385}This is the scene where Beth is still thinking\Nof her sisters, even though she's struggling herself!
+Dialogue: 0,0:11:59.38,0:12:02.93,Default,,0,0,0,,{TIME:719385,722931}It's been three hours\Nsince we first started this same scene…
 Dialogue: 0,0:12:02.93,0:12:06.35,Default,,0,0,0,,{TIME:722931,726351}Think how a sick person\Nwould breathe.
-Dialogue: 0,0:12:06.35,0:12:12.06,Default,,0,0,0,,{TIME:726351,732065}This scene is where Beth is on the edge of her life, and it is this drama's climax.
+Dialogue: 0,0:12:06.35,0:12:12.06,Default,,0,0,0,,{TIME:726351,732065}This scene is where Beth is on the edge\Nof her life, and it is this drama's climax.
 Dialogue: 0,0:12:12.06,0:12:14.40,Default,,0,0,0,,{TIME:732065,734400}Get serious!
 Dialogue: 0,0:12:14.40,0:12:16.81,Default,,0,0,0,,{TIME:734400,736819}Sayaka, let's practice.
 Dialogue: 0,0:12:16.81,0:12:18.65,Default,,0,0,0,,{TIME:736819,738655}You play Beth as a substitute.
@@ -311,12 +311,12 @@ Dialogue: 0,0:18:59.72,0:19:01.59,Default,,0,0,0,,{TIME:1139722,1141599}…what 
 Dialogue: 0,0:19:04.81,0:19:07.10,Default,,0,0,0,,{TIME:1144810,1147104}Hey, Sakurakōji.
 Dialogue: 0,0:19:07.10,0:19:09.31,Default,,0,0,0,,{TIME:1147104,1149315}Oh, Ayumi.
 Dialogue: 0,0:19:09.31,0:19:12.61,Default,,0,0,0,,{TIME:1149315,1152610}This play of Tsukikage Theater\Nisn't all that great.
-Dialogue: 0,0:19:12.61,0:19:16.57,Default,,0,0,0,,{TIME:1152610,1156572}Especially Beth. She's slow in her motion and her speech. She's no good.
+Dialogue: 0,0:19:12.61,0:19:16.57,Default,,0,0,0,,{TIME:1152610,1156572}Especially Beth. She's slow in her motion\Nand her speech. She's no good.
 Dialogue: 0,0:19:17.82,0:19:20.24,Default,,0,0,0,,{TIME:1157823,1160242}She can't help it.\NShe has a fever.
 Dialogue: 0,0:19:20.24,0:19:21.91,Default,,0,0,0,,{TIME:1160242,1161911}Fever?
 Dialogue: 0,0:19:21.91,0:19:26.37,Default,,0,0,0,,{TIME:1161911,1166374}She's on stage with\Na fever of 40°C.
 Dialogue: 0,0:19:26.37,0:19:28.70,Default,,0,0,0,,{TIME:1166374,1168709}40°C?!
-Dialogue: 0,0:19:28.70,0:19:32.12,Default,,0,0,0,,{TIME:1168709,1172129}Oh yes, I have something good for Mother's present
+Dialogue: 0,0:19:28.70,0:19:32.12,Default,,0,0,0,,{TIME:1168709,1172129}Oh yes, I have something good\Nfor Mother's present
 Dialogue: 0,0:19:32.12,0:19:33.88,Default,,0,0,0,,{TIME:1172129,1173881}I'll go get it.
 Dialogue: 0,0:19:40.97,0:19:43.59,Default,,0,0,0,,{TIME:1180971,1183599}Maya, your speech is slow.
 Dialogue: 0,0:19:43.59,0:19:46.60,Default,,0,0,0,,{TIME:1183599,1186602}Sorry, I can't focus very well.
@@ -328,7 +328,7 @@ Dialogue: 0,0:20:07.54,0:20:11.58,Default,,0,0,0,,{TIME:1207540,1211585}Oh, did 
 Dialogue: 0,0:20:11.58,0:20:15.46,Default,,0,0,0,,{TIME:1211585,1215464}Sisters, share the story with me.
 Dialogue: 0,0:20:16.17,0:20:18.09,Default,,0,0,0,,{TIME:1216173,1218092}Oh, here comes Mother.
 Dialogue: 0,0:20:18.09,0:20:21.22,Default,,0,0,0,,{TIME:1218092,1221220}What did you all do today?
-Dialogue: 0,0:20:21.80,0:20:29.22,Default,,0,0,0,,{TIME:1221804,1229228}{\i1}A fever of 40°C and she grows even more beautiful as the play goes on.
+Dialogue: 0,0:20:21.80,0:20:29.22,Default,,0,0,0,,{TIME:1221804,1229228}{\i1}A fever of 40°C and she grows\Neven more beautiful as the play goes on.
 Dialogue: 0,0:20:29.22,0:20:34.19,Default,,0,0,0,,{TIME:1229228,1234191}May I help give out present for poor kids?
 Dialogue: 0,0:20:34.19,0:20:36.81,Default,,0,0,0,,{TIME:1234191,1236819}No, I really want to help!
 Dialogue: 0,0:20:38.69,0:20:41.49,Default,,0,0,0,,{TIME:1238696,1241490}{\i1}Where in that small body…?
@@ -378,7 +378,7 @@ Dialogue: 1,0:23:51.51,0:23:57.51,Ending,[karaoke],0,0,0,,{TIME:1431513,1437519}
 Dialogue: 1,0:23:57.51,0:24:03.56,Ending,[karaoke],0,0,0,,{TIME:1437519,1443567}{\blur1}…for the dream\Non my cheek…
 Dialogue: 1,0:24:03.56,0:24:09.53,Ending,[karaoke],0,0,0,,{TIME:1443567,1449532}{\blur1\fad(0,500)}…belongs to you.
 Comment: 0,0:24:20.08,0:24:20.08,Default,[chapter],0,0,0,,{TIME:1460083,1460083}Preview
-Dialogue: 0,0:24:22.62,0:24:27.17,Narrator,(narrator),0,0,0,,{TIME:1462628,1467174}To become an actress, Maya ran away from home and severed bond with her mother.
-Dialogue: 0,0:24:27.17,0:24:30.17,Narrator,(narrator),0,0,0,,{TIME:1467174,1470177}It's a choice she made, so it cannot be swayed easily.
-Dialogue: 0,0:24:30.17,0:24:35.26,Narrator,(narrator),0,0,0,,{TIME:1470177,1475265}But along the way, she makes enemies with a genius girl, Himekawa Ayumi.
+Dialogue: 0,0:24:22.62,0:24:27.17,Narrator,(narrator),0,0,0,,{TIME:1462628,1467174}To become an actress, Maya ran away from home\Nand severed bond with her mother.
+Dialogue: 0,0:24:27.17,0:24:30.17,Narrator,(narrator),0,0,0,,{TIME:1467174,1470177}It's a choice she made,\Nso it cannot be swayed easily.
+Dialogue: 0,0:24:30.17,0:24:35.26,Narrator,(narrator),0,0,0,,{TIME:1470177,1475265}But along the way, she makes enemies\Nwith a genius girl, Himekawa Ayumi.
 Dialogue: 0,0:24:35.26,0:24:38.93,Narrator,(narrator),0,0,0,,{TIME:1475265,1478936}Please look forward to the next episode:\N"The Beautiful Rival".
