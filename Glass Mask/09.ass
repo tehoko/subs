@@ -14,6 +14,8 @@ Audio File: source/09.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00F7F7FB,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -131,8 +133,8 @@ Dialogue: 0,0:06:40.35,0:06:41.56,Default,,0,0,0,,{TIME:400358,401568}Hmm, what 
 Dialogue: 0,0:06:43.06,0:06:45.23,Default,,0,0,0,,{TIME:403069,405238}Look, they're looking for extras\Nto be her classmates.
 Dialogue: 0,0:06:46.65,0:06:49.61,Default,,0,0,0,,{TIME:406656,409618}Hey, why don't you try out?
 Dialogue: 0,0:06:49.61,0:06:50.74,Default,,0,0,0,,{TIME:409618,410744}Sure.
-Dialogue: 0,0:06:52.41,0:06:53.74,Default,,0,0,0,,{TIME:412412,413747}{\i1}Movies!
-Dialogue: 0,0:06:53.74,0:06:57.95,Default,,0,0,0,,{TIME:413747,417959}{\i1}If I'm going to get a job,\Nthis must be my perfect chance.
+Dialogue: 0,0:06:52.41,0:06:53.74,Thought,,0,0,0,,{TIME:412412,413747}Movies!
+Dialogue: 0,0:06:53.74,0:06:57.95,Thought,,0,0,0,,{TIME:413747,417959}If I'm going to get a job,\Nthis must be my perfect chance.
 Dialogue: 0,0:06:59.46,0:07:02.92,Narrator,(narrator),0,0,0,,{TIME:419461,422923}Maya went out for an audition\Na couple of days later.
 Dialogue: 0,0:07:03.25,0:07:05.21,Default,,0,0,0,,{TIME:423256,425216}My gosh, so many people here.
 Dialogue: 0,0:07:05.21,0:07:06.88,Default,,0,0,0,,{TIME:425216,426885}I hope I'll do fine.
@@ -140,7 +142,7 @@ Dialogue: 0,0:07:09.38,0:07:11.22,Default,,0,0,0,,{TIME:429387,431222}So many go
 Dialogue: 0,0:07:11.22,0:07:13.26,Default,,0,0,0,,{TIME:431222,433266}We're about to start the first audition.
 Dialogue: 0,0:07:13.26,0:07:14.76,Default,,0,0,0,,{TIME:433266,434768}Number 1, please come forward.
 Dialogue: 0,0:07:18.48,0:07:22.23,Narrator,(narrator),0,0,0,,{TIME:438480,442233}The audition proceeded\Nwith uneasiness and nervousness.
-Dialogue: 0,0:07:22.44,0:07:24.56,Default,,0,0,0,,{TIME:442442,444569}{\i1}"I can't believe it… Yoko was doing…"
+Dialogue: 0,0:07:22.44,0:07:24.56,Default,,0,0,0,,{TIME:442442,444569}"I can't believe it… Yoko was doing…"
 Dialogue: 0,0:07:25.07,0:07:26.48,Default,,0,0,0,,{TIME:445070,446488}Next, #87.
 Dialogue: 0,0:07:26.48,0:07:27.23,Default,,0,0,0,,{TIME:446488,447238}Yes.
 Dialogue: 0,0:07:38.33,0:07:40.21,Default,,0,0,0,,{TIME:458333,460210}Did you memorize the printed dialogue?
@@ -204,17 +206,17 @@ Dialogue: 0,0:10:15.82,0:10:17.74,Default,,0,0,0,,{TIME:615824,617742}You even h
 Dialogue: 0,0:10:17.74,0:10:18.86,Default,,0,0,0,,{TIME:617742,618868}That's great.
 Dialogue: 0,0:10:18.86,0:10:19.61,Default,,0,0,0,,{TIME:618868,619619}Yeah.
 Dialogue: 0,0:10:19.61,0:10:21.45,Default,,0,0,0,,{TIME:619619,621454}I want to try anything.
-Dialogue: 0,0:10:26.54,0:10:29.75,Default,,0,0,0,,{TIME:626543,629754}{\i1}Even though this is a small role…
-Dialogue: 0,0:10:29.75,0:10:31.71,Default,,0,0,0,,{TIME:629754,631714}{\i1}…this can be a good lesson for my future.
-Dialogue: 0,0:10:32.96,0:10:36.34,Default,,0,0,0,,{TIME:632966,636343}{\i1}You have to be able to play\Nhundreds and thousands of roles…
-Dialogue: 0,0:10:36.34,0:10:38.38,Default,,0,0,0,,{TIME:636343,638388}{\i1}…to be able to play "The Crimson Goddess."
-Dialogue: 0,0:10:38.38,0:10:39.84,Default,,0,0,0,,{TIME:638388,639848}{\i1}It doesn't matter what my role is.
-Dialogue: 0,0:10:39.84,0:10:41.01,Default,,0,0,0,,{TIME:639848,641015}{\i1}I will be better at it.
+Dialogue: 0,0:10:26.54,0:10:29.75,Thought,,0,0,0,,{TIME:626543,629754}Even though this is a small role…
+Dialogue: 0,0:10:29.75,0:10:31.71,Thought,,0,0,0,,{TIME:629754,631714}…this can be a good lesson for my future.
+Dialogue: 0,0:10:32.96,0:10:36.34,Retrospective,,0,0,0,,{TIME:632966,636343}You have to be able to play\Nhundreds and thousands of roles…
+Dialogue: 0,0:10:36.34,0:10:38.38,Retrospective,,0,0,0,,{TIME:636343,638388}…to be able to play "The Crimson Goddess."
+Dialogue: 0,0:10:38.38,0:10:39.84,Thought,,0,0,0,,{TIME:638388,639848}It doesn't matter what my role is.
+Dialogue: 0,0:10:39.84,0:10:41.01,Thought,,0,0,0,,{TIME:639848,641015}I will be better at it.
 Dialogue: 0,0:11:01.32,0:11:02.41,Default,,0,0,0,,{TIME:661327,662412}Teacher!
 Dialogue: 0,0:11:12.13,0:11:15.71,Default,,0,0,0,,{TIME:672130,675717}Maya! You can't support yourself\Nif your leg is paralyzed!
-Dialogue: 0,0:11:16.92,0:11:20.38,Default,,0,0,0,,{TIME:676926,680388}{\i1}I used my paralyzed leg to support myself.
-Dialogue: 0,0:11:20.38,0:11:22.68,Default,,0,0,0,,{TIME:680388,682682}{\i1}I would have fallen if it was really paralyzed.
-Dialogue: 0,0:11:22.68,0:11:26.01,Default,,0,0,0,,{TIME:682682,686019}{\i1}Teacher, she pushed me to teach me that.
+Dialogue: 0,0:11:16.92,0:11:20.38,Thought,,0,0,0,,{TIME:676926,680388}I used my paralyzed leg to support myself.
+Dialogue: 0,0:11:20.38,0:11:22.68,Thought,,0,0,0,,{TIME:680388,682682}I would have fallen if it was really paralyzed.
+Dialogue: 0,0:11:22.68,0:11:26.01,Thought,,0,0,0,,{TIME:682682,686019}Teacher, she pushed me to teach me that.
 Comment: 0,0:11:30.98,0:11:30.98,Default,[chapter],0,0,0,,{TIME:690982,690982}Eyecatch
 Comment: 0,0:11:34.77,0:11:34.77,Default,[chapter],0,0,0,,{TIME:694776,694776}#Eyecatch
 Comment: 0,0:11:37.78,0:11:37.78,Default,[chapter],0,0,0,,{TIME:697780,697780}Part B
@@ -259,10 +261,10 @@ Dialogue: 0,0:13:31.18,0:13:35.18,Default,,0,0,0,,{TIME:811185,815189}Besides, s
 Dialogue: 0,0:13:35.18,0:13:37.23,Default,,0,0,0,,{TIME:815189,817233}I don't care if she's a singer.
 Dialogue: 0,0:13:37.23,0:13:39.23,Default,,0,0,0,,{TIME:817233,819233}She needs to be professional.
 Dialogue: 0,0:13:39.23,0:13:44.28,Default,,0,0,0,,{TIME:819233,824282}People will pay to come see this movie!
-Dialogue: 0,0:13:49.70,0:13:52.66,Default,,0,0,0,,{TIME:829704,832665}{\i1}I'm only imitating.
-Dialogue: 0,0:13:52.66,0:13:54.62,Default,,0,0,0,,{TIME:832665,834625}{\i1}I don't understand the pain.
-Dialogue: 0,0:13:54.62,0:13:57.71,Default,,0,0,0,,{TIME:834625,837712}{\i1}The inconvenience,\Nthe anguish of being paralyzed.
-Dialogue: 0,0:13:57.71,0:13:58.62,Default,,0,0,0,,{TIME:837712,838628}{\i1}But how?
+Dialogue: 0,0:13:49.70,0:13:52.66,Thought,,0,0,0,,{TIME:829704,832665}I'm only imitating.
+Dialogue: 0,0:13:52.66,0:13:54.62,Thought,,0,0,0,,{TIME:832665,834625}I don't understand the pain.
+Dialogue: 0,0:13:54.62,0:13:57.71,Thought,,0,0,0,,{TIME:834625,837712}The inconvenience,\Nthe anguish of being paralyzed.
+Dialogue: 0,0:13:57.71,0:13:58.62,Thought,,0,0,0,,{TIME:837712,838628}But how?
 Dialogue: 0,0:14:04.26,0:14:05.01,Default,,0,0,0,,{TIME:844260,845011}Okay!
 Dialogue: 0,0:14:05.01,0:14:07.22,Default,,0,0,0,,{TIME:845011,847221}We'll move on to the scene of the hospital lobby.
 Dialogue: 0,0:14:07.22,0:14:09.18,Default,,0,0,0,,{TIME:847221,849182}Emi, please come and sit here.
@@ -280,13 +282,13 @@ Dialogue: 0,0:14:47.47,0:14:49.93,Default,,0,0,0,,{TIME:887470,889931}She just c
 Dialogue: 0,0:14:49.93,0:14:51.14,Default,,0,0,0,,{TIME:889931,891140}Two hours?
 Dialogue: 0,0:14:51.14,0:14:53.01,Default,,0,0,0,,{TIME:891140,893017}Is she stupid?
 Dialogue: 0,0:14:53.01,0:14:55.10,Default,,0,0,0,,{TIME:893017,895103}She only has the role of a pedestrian.
-Dialogue: 0,0:14:57.60,0:14:58.64,Default,,0,0,0,,{TIME:897605,898647}{\i1}I'm getting it.
-Dialogue: 0,0:14:58.64,0:15:02.56,Default,,0,0,0,,{TIME:898647,902568}{\i1}The pain of being able to use just one leg.
-Dialogue: 0,0:15:02.56,0:15:06.82,Default,,0,0,0,,{TIME:902568,906823}{\i1}I'm understanding this girl\Nwho is trying to live the best she can.
+Dialogue: 0,0:14:57.60,0:14:58.64,Thought,,0,0,0,,{TIME:897605,898647}I'm getting it.
+Dialogue: 0,0:14:58.64,0:15:02.56,Thought,,0,0,0,,{TIME:898647,902568}The pain of being able to use just one leg.
+Dialogue: 0,0:15:02.56,0:15:06.82,Thought,,0,0,0,,{TIME:902568,906823}I'm understanding this girl\Nwho is trying to live the best she can.
 Dialogue: 0,0:15:09.07,0:15:11.53,Default,,0,0,0,,{TIME:909075,911536}Scene 34, take 1.
 Dialogue: 0,0:15:11.53,0:15:12.32,Default,,0,0,0,,{TIME:911536,912328}Action!
-Dialogue: 0,0:15:29.97,0:15:32.43,Default,,0,0,0,,{TIME:929971,932432}{\i1}This is what her training was all about.
-Dialogue: 0,0:15:32.43,0:15:34.26,Default,,0,0,0,,{TIME:932432,934267}{\i1}To make her left leg go numb.
+Dialogue: 0,0:15:29.97,0:15:32.43,Thought,,0,0,0,,{TIME:929971,932432}This is what her training was all about.
+Dialogue: 0,0:15:32.43,0:15:34.26,Thought,,0,0,0,,{TIME:932432,934267}To make her left leg go numb.
 Dialogue: 0,0:15:36.76,0:15:39.23,Default,,0,0,0,,{TIME:936769,939230}The way she walks…
 Dialogue: 0,0:15:39.23,0:15:42.65,Default,,0,0,0,,{TIME:939230,942650}…looks as if she's really paralyzed.
 Dialogue: 0,0:16:01.33,0:16:02.62,Default,,0,0,0,,{TIME:961335,962627}I came to see the filming.
@@ -335,8 +337,8 @@ Dialogue: 0,0:19:03.72,0:19:07.14,Default,,0,0,0,,{TIME:1143726,1147146}But some
 Dialogue: 0,0:19:07.14,0:19:09.77,Default,,0,0,0,,{TIME:1147146,1149774}You need experience.
 Dialogue: 0,0:19:09.77,0:19:13.52,Default,,0,0,0,,{TIME:1149774,1153527}I have played many roles\Nin the past twenty years as an actress.
 Dialogue: 0,0:19:16.36,0:19:18.86,Default,,0,0,0,,{TIME:1156364,1158866}Here, you should go to bed now.\NIt's getting late.
-Dialogue: 0,0:19:19.61,0:19:21.16,Default,,0,0,0,,{TIME:1159617,1161160}{\i1}I understand, Mom.
-Dialogue: 0,0:19:21.16,0:19:24.33,Default,,0,0,0,,{TIME:1161160,1164330}{\i1}I have to be able to play any kind of role.
+Dialogue: 0,0:19:19.61,0:19:21.16,Thought,,0,0,0,,{TIME:1159617,1161160}I understand, Mom.
+Dialogue: 0,0:19:21.16,0:19:24.33,Thought,,0,0,0,,{TIME:1161160,1164330}I have to be able to play any kind of role.
 Dialogue: 0,0:19:28.54,0:19:33.83,Sign,(sign),0,0,0,,{TIME:1168542,1173839}
 Dialogue: 0,0:19:32.08,0:19:35.17,Default,,0,0,0,,{TIME:1172088,1175174}Here, I wonder how Maya will appear.
 Dialogue: 0,0:19:35.17,0:19:37.59,Default,,0,0,0,,{TIME:1175174,1177593}I-It's only a small role.
@@ -364,7 +366,7 @@ Dialogue: 0,0:21:33.62,0:21:36.00,Default,,0,0,0,,{TIME:1293626,1296003}Are you 
 Dialogue: 0,0:21:36.00,0:21:38.00,Default,,0,0,0,,{TIME:1296003,1298005}Your little paycheck will be gone.
 Dialogue: 0,0:21:38.00,0:21:38.79,Default,,0,0,0,,{TIME:1298005,1298798}I'm fine.
 Dialogue: 0,0:21:38.79,0:21:40.59,Default,,0,0,0,,{TIME:1298798,1300591}I have a little bit left.
-Dialogue: 0,0:21:40.59,0:21:43.17,Default,,0,0,0,,{TIME:1300591,1303177}{\i1}I can pay for my books now.
+Dialogue: 0,0:21:40.59,0:21:43.17,Thought,,0,0,0,,{TIME:1300591,1303177}I can pay for my books now.
 Dialogue: 0,0:21:43.17,0:21:45.38,Default,,0,0,0,,{TIME:1303177,1305387}Here, cheers again.
 Dialogue: 0,0:21:45.38,0:21:46.30,Default,,0,0,0,,{TIME:1305387,1306305}Cheers!
 Dialogue: 0,0:21:46.97,0:21:47.80,Default,,0,0,0,,{TIME:1306972,1307807}What?
@@ -383,10 +385,10 @@ Dialogue: 0,0:22:10.16,0:22:10.91,Default,,0,0,0,,{TIME:1330162,1330913}No.
 Dialogue: 0,0:22:10.91,0:22:12.62,Default,,0,0,0,,{TIME:1330913,1332623}I want to play this role.
 Dialogue: 0,0:22:12.62,0:22:15.41,Default,,0,0,0,,{TIME:1332623,1335417}I want to challenge something\Nthat is different from my image.
 Dialogue: 0,0:22:15.41,0:22:18.37,Default,,0,0,0,,{TIME:1335417,1338379}It doesn't matter if it's a small role or not.
-Dialogue: 0,0:22:19.25,0:22:20.29,Default,,0,0,0,,{TIME:1339255,1340297}{\i1}Yes.
-Dialogue: 0,0:22:20.29,0:22:22.84,Default,,0,0,0,,{TIME:1340297,1342842}{\i1}So I can play\N"The Crimson Goddess" someday.
-Dialogue: 0,0:22:40.48,0:22:42.02,Default,,0,0,0,,{TIME:1360484,1362027}{\i1}Someday…
-Dialogue: 0,0:22:42.02,0:22:44.44,Default,,0,0,0,,{TIME:1362027,1364446}{\i1}Someday, I'll play\N"The Crimson Goddess."
+Dialogue: 0,0:22:19.25,0:22:20.29,Thought,,0,0,0,,{TIME:1339255,1340297}Yes.
+Dialogue: 0,0:22:20.29,0:22:22.84,Thought,,0,0,0,,{TIME:1340297,1342842}So I can play\N"The Crimson Goddess" someday.
+Dialogue: 0,0:22:40.48,0:22:42.02,Thought,,0,0,0,,{TIME:1360484,1362027}Someday…
+Dialogue: 0,0:22:42.02,0:22:44.44,Thought,,0,0,0,,{TIME:1362027,1364446}Someday, I'll play\N"The Crimson Goddess."
 Comment: 0,0:22:51.37,0:22:51.37,Default,[chapter],0,0,0,,{TIME:1371370,1371370}Ending
 Dialogue: 0,0:22:58.71,0:23:04.84,Ending alt,[karaoke],0,0,0,,{TIME:1378711,1384841}{\blur3}It is lonely by myself…
 Dialogue: 0,0:23:04.84,0:23:10.93,Ending alt,[karaoke],0,0,0,,{TIME:1384841,1390931}{\blur3}…and I almost stumble.

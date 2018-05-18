@@ -14,6 +14,8 @@ Audio File: source/19.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00FAE7EF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -108,25 +110,25 @@ Dialogue: 0,0:06:04.73,0:06:04.73,Default,,0,0,0,,{TIME:364731,364731}An emotion
 Dialogue: 0,0:06:19.91,0:06:19.91,Default,,0,0,0,,{TIME:379913,379913}Oh, they just passed each other by without even looking at one another.
 Dialogue: 0,0:06:22.08,0:06:22.08,Default,,0,0,0,,{TIME:382082,382082}They'll remain as strangers as long as the audition continues.
 Dialogue: 0,0:06:24.58,0:06:24.58,Default,,0,0,0,,{TIME:384584,384584}What a family.
-Dialogue: 0,0:06:28.18,0:06:28.18,Default,,0,0,0,,{TIME:388188,388188}{\i1}I know she has a strict eye for Ayumi's act, but I will do my best on my terms, on behalf of Mr. Purple Rose, too.
+Dialogue: 0,0:06:28.18,0:06:28.18,Thought,,0,0,0,,{TIME:388188,388188}I know she has a strict eye for Ayumi's act, but I will do my best on my terms, on behalf of Mr. Purple Rose, too.
 Dialogue: 0,0:06:38.96,0:06:38.96,Default,,0,0,0,,{TIME:398965,398965}The audition has started downstairs.
 Dialogue: 0,0:06:50.51,0:06:50.51,Default,,0,0,0,,{TIME:410510,410510}Candidate number one,\NMs. Shiratori Reina, please come in.
 Dialogue: 0,0:06:53.04,0:06:53.04,Default,,0,0,0,,{TIME:413046,413046}Yes.
 Dialogue: 0,0:06:55.04,0:06:55.04,Default,,0,0,0,,{TIME:415048,415048}Shiratori Reina.
 Dialogue: 0,0:06:55.11,0:06:55.11,Default,,0,0,0,,{TIME:415115,415115}Please come in.
 Dialogue: 0,0:06:56.24,0:06:56.24,Default,,0,0,0,,{TIME:416249,416249}Excuse me.
-Dialogue: 0,0:06:58.55,0:06:58.55,Default,,0,0,0,,{TIME:418551,418551}{\i1}This is…
+Dialogue: 0,0:06:58.55,0:06:58.55,Thought,,0,0,0,,{TIME:418551,418551}This is…
 Dialogue: 0,0:07:01.82,0:07:01.82,Default,,0,0,0,,{TIME:421821,421821}The first audition is to play as Helen.\NPlease start.
 Dialogue: 0,0:07:05.99,0:07:05.99,Default,,0,0,0,,{TIME:425992,425992}As Helen.
-Dialogue: 0,0:07:11.99,0:07:11.99,Default,,0,0,0,,{TIME:431998,431998}{\i1}I know, she liked dolls.
+Dialogue: 0,0:07:11.99,0:07:11.99,Thought,,0,0,0,,{TIME:431998,431998}I know, she liked dolls.
 Dialogue: 0,0:07:24.14,0:07:24.14,Default,,0,0,0,,{TIME:444144,444144}Candidate number two,\NMs. Hayakawa Akiko.
 Dialogue: 0,0:07:25.61,0:07:25.61,Default,,0,0,0,,{TIME:445612,445612}Yes.
-Dialogue: 0,0:07:32.51,0:07:32.51,Default,,0,0,0,,{TIME:452519,452519}{\i1}Okay, I'll use the blocks.
+Dialogue: 0,0:07:32.51,0:07:32.51,Thought,,0,0,0,,{TIME:452519,452519}Okay, I'll use the blocks.
 Dialogue: 0,0:07:56.04,0:07:56.04,Default,,0,0,0,,{TIME:476042,476042}Kanaya Emi's play is\Ndifferent from the first two.
 Dialogue: 0,0:07:59.27,0:07:59.27,Default,,0,0,0,,{TIME:479279,479279}She's about to use all the toys here.
 Dialogue: 0,0:08:01.18,0:08:01.18,Default,,0,0,0,,{TIME:481181,481181}It's rare to see an act like hers\Nthat doesn't bore the judges.
 Dialogue: 0,0:08:06.08,0:08:06.08,Default,,0,0,0,,{TIME:486086,486086}Very dynamic, and it will be great on stage.
-Dialogue: 0,0:08:13.25,0:08:13.25,Default,,0,0,0,,{TIME:493259,493259}{\i1}Maya, I'm sure she feels insecure\Ngoing up against Ayumi.
+Dialogue: 0,0:08:13.25,0:08:13.25,Thought,,0,0,0,,{TIME:493259,493259}Maya, I'm sure she feels insecure\Ngoing up against Ayumi.
 Dialogue: 0,0:08:21.26,0:08:21.26,Default,,0,0,0,,{TIME:501267,501267}Candidate number four,\NHimekawa Ayumi.
 Dialogue: 0,0:08:26.17,0:08:26.17,Default,,0,0,0,,{TIME:506172,506172}Play as Helen.
 Dialogue: 0,0:08:42.22,0:08:42.22,Default,,0,0,0,,{TIME:522222,522222}W-What is she doing?
@@ -141,7 +143,7 @@ Dialogue: 0,0:09:21.72,0:09:21.72,Default,,0,0,0,,{TIME:561728,561728}Oh, no!
 Dialogue: 0,0:09:42.18,0:09:42.18,Default,,0,0,0,,{TIME:582182,582182}She had her eyes wide open without even moving her eyes off the ball.
 Dialogue: 0,0:09:45.31,0:09:45.31,Default,,0,0,0,,{TIME:585318,585318}I'm sure that's what Helen would do.
 Dialogue: 0,0:10:00.33,0:10:00.33,Default,,0,0,0,,{TIME:600333,600333}I'm looking forward to seeing what kind of play the last candidate can show us.
-Dialogue: 0,0:10:03.37,0:10:03.37,Default,,0,0,0,,{TIME:603370,603370}{\i1}Play as Helen.
+Dialogue: 0,0:10:03.37,0:10:03.37,Thought,,0,0,0,,{TIME:603370,603370}Play as Helen.
 Dialogue: 0,0:10:12.17,0:10:12.17,Default,,0,0,0,,{TIME:612178,612178}Again!
 Dialogue: 0,0:10:14.18,0:10:14.18,Default,,0,0,0,,{TIME:614180,614180}What's going on with her\Nand Himekawa Ayumi?
 Dialogue: 0,0:10:18.45,0:10:18.45,Default,,0,0,0,,{TIME:618451,618451}Oh?
@@ -162,7 +164,7 @@ Dialogue: 0,0:11:16.57,0:11:16.57,Default,,0,0,0,,{TIME:676576,676576}That is co
 Dialogue: 0,0:11:18.74,0:11:18.74,Default,,0,0,0,,{TIME:678745,678745}But, if the real Helen were here,\Nwhat would she do?
 Dialogue: 0,0:11:20.54,0:11:20.54,Default,,0,0,0,,{TIME:680547,680547}Huh!
 Dialogue: 0,0:11:23.24,0:11:23.24,Default,,0,0,0,,{TIME:683249,683249}She wouldn't notice that the toys were here at all.
-Dialogue: 0,0:11:30.32,0:11:30.32,Default,,0,0,0,,{TIME:690323,690323}{\i1}This girl and Himekawa Ayumi definitely possess extraordinary talent.
+Dialogue: 0,0:11:30.32,0:11:30.32,Thought,,0,0,0,,{TIME:690323,690323}This girl and Himekawa Ayumi definitely possess extraordinary talent.
 Comment: 0,0:11:45.70,0:11:45.70,Default,[chapter],0,0,0,,{TIME:705704,705704}Eyecatch
 Comment: 0,0:11:49.29,0:11:49.29,Default,[chapter],0,0,0,,{TIME:709291,709291}#Eyecatch
 Comment: 0,0:11:52.21,0:11:52.21,Default,[chapter],0,0,0,,{TIME:712212,712212}Part B
@@ -181,12 +183,12 @@ Dialogue: 0,0:13:02.48,0:13:02.48,Default,,0,0,0,,{TIME:782482,782482}This is th
 Dialogue: 0,0:13:05.35,0:13:05.35,Default,,0,0,0,,{TIME:785352,785352}I wonder if anyone\Ncan pass this test.
 Dialogue: 0,0:13:09.32,0:13:09.32,Default,,0,0,0,,{TIME:789322,789322}If anyone does,\Nthen she's the real Helen.
 Dialogue: 0,0:13:12.79,0:13:12.79,Default,,0,0,0,,{TIME:792792,792792}If not, let's vote for one of these two.\NHimekawa Ayumi or Kanaya Emi.
-Dialogue: 0,0:13:26.94,0:13:26.94,Default,,0,0,0,,{TIME:806940,806940}{\i1}If I don't get this role,\Nthen Miss Tsukikage will expel me.
-Dialogue: 0,0:13:34.11,0:13:34.11,Default,,0,0,0,,{TIME:814114,814114}{\i1}No, right now, let's focus only on being Helen.
-Dialogue: 0,0:13:38.45,0:13:38.45,Default,,0,0,0,,{TIME:818451,818451}{\i1}It might be my last chance to be Helen.
-Dialogue: 0,0:13:42.95,0:13:42.95,Default,,0,0,0,,{TIME:822956,822956}{\i1}I am Helen.
-Dialogue: 0,0:13:45.69,0:13:45.69,Default,,0,0,0,,{TIME:825692,825692}{\i1}Maya.
-Dialogue: 0,0:13:47.86,0:13:47.86,Default,,0,0,0,,{TIME:827861,827861}{\i1}I know she will meet\Nmy expectations.
+Dialogue: 0,0:13:26.94,0:13:26.94,Thought,,0,0,0,,{TIME:806940,806940}If I don't get this role,\Nthen Miss Tsukikage will expel me.
+Dialogue: 0,0:13:34.11,0:13:34.11,Thought,,0,0,0,,{TIME:814114,814114}No, right now, let's focus only on being Helen.
+Dialogue: 0,0:13:38.45,0:13:38.45,Thought,,0,0,0,,{TIME:818451,818451}It might be my last chance to be Helen.
+Dialogue: 0,0:13:42.95,0:13:42.95,Thought,,0,0,0,,{TIME:822956,822956}I am Helen.
+Dialogue: 0,0:13:45.69,0:13:45.69,Thought,,0,0,0,,{TIME:825692,825692}Maya.
+Dialogue: 0,0:13:47.86,0:13:47.86,Thought,,0,0,0,,{TIME:827861,827861}I know she will meet\Nmy expectations.
 Dialogue: 0,0:13:52.19,0:13:52.19,Sign,(sign),0,0,0,,{TIME:832198,832198}Bidoro
 Dialogue: 0,0:13:56.30,0:13:56.30,Default,,0,0,0,,{TIME:836302,836302}Maya…
 Dialogue: 0,0:14:03.07,0:14:03.07,Default,,0,0,0,,{TIME:843076,843076}Maya…
@@ -195,7 +197,7 @@ Dialogue: 0,0:14:22.19,0:14:22.19,Default,,0,0,0,,{TIME:862195,862195}This can't
 Dialogue: 0,0:14:24.69,0:14:24.69,Default,,0,0,0,,{TIME:864698,864698}Unbelievable.\NNo way.
 Dialogue: 0,0:14:48.55,0:14:48.55,Default,,0,0,0,,{TIME:888555,888555}It stopped.
 Dialogue: 0,0:14:49.32,0:14:49.32,Default,,0,0,0,,{TIME:889322,889322}I wonder what it was.
-Dialogue: 0,0:14:54.16,0:14:54.16,Default,,0,0,0,,{TIME:894160,894160}{\i1}Oh, no!
+Dialogue: 0,0:14:54.16,0:14:54.16,Thought,,0,0,0,,{TIME:894160,894160}Oh, no!
 Dialogue: 0,0:14:56.52,0:14:56.52,Default,,0,0,0,,{TIME:896529,896529}The last test is over.
 Dialogue: 0,0:14:57.83,0:14:57.83,Default,,0,0,0,,{TIME:897831,897831}What!
 Dialogue: 0,0:14:58.99,0:14:58.99,Default,,0,0,0,,{TIME:898998,898998}Over?\NWhat do you mean?
@@ -209,7 +211,7 @@ Dialogue: 0,0:15:41.37,0:15:41.37,Default,,0,0,0,,{TIME:941374,941374}Now, we ha
 Dialogue: 0,0:15:45.14,0:15:45.14,Default,,0,0,0,,{TIME:945145,945145}I see. I didn't even notice\Nthat it was the test.
 Dialogue: 0,0:15:49.11,0:15:49.11,Default,,0,0,0,,{TIME:949115,949115}Didn't notice?
 Dialogue: 0,0:15:51.08,0:15:51.08,Default,,0,0,0,,{TIME:951084,951084}Yes. I was thinking this might be the last time I can play Helen, then I started to forget that I was Kitajima Maya, and then I knew the alarm was going off, but I didn't feel anything.
-Dialogue: 0,0:16:02.42,0:16:02.42,Default,,0,0,0,,{TIME:962429,962429}{\i1}This girl…
+Dialogue: 0,0:16:02.42,0:16:02.42,Thought,,0,0,0,,{TIME:962429,962429}This girl…
 Dialogue: 0,0:16:04.89,0:16:04.89,Default,,0,0,0,,{TIME:964898,964898}What about you, Ayumi?
 Dialogue: 0,0:16:07.20,0:16:07.20,Default,,0,0,0,,{TIME:967200,967200}I just played the role.
 Dialogue: 0,0:16:09.93,0:16:09.93,Default,,0,0,0,,{TIME:969936,969936}You told me to wait as Helen.
@@ -232,9 +234,9 @@ Dialogue: 0,0:17:09.86,0:17:09.86,Default,,0,0,0,,{TIME:1029863,1029863}Wait a m
 Dialogue: 0,0:17:10.99,0:17:10.99,Default,,0,0,0,,{TIME:1030997,1030997}I don't mean to interrupt, but we shouldn't have had an audition if you use those criteria.
 Dialogue: 0,0:17:16.63,0:17:16.63,Default,,0,0,0,,{TIME:1036636,1036636}That's right.
 Dialogue: 0,0:17:17.90,0:17:17.90,Default,,0,0,0,,{TIME:1037904,1037904}The purpose of the audition is to judge solely by acting…
-Dialogue: 0,0:17:21.04,0:17:21.04,Default,,0,0,0,,{TIME:1041041,1041041}{\i1}Argue all you want.
-Dialogue: 0,0:17:22.94,0:17:22.94,Default,,0,0,0,,{TIME:1042942,1042942}{\i1}The executive director and the manager are on my side.
-Dialogue: 0,0:17:25.67,0:17:25.67,Default,,0,0,0,,{TIME:1045679,1045679}{\i1}Besides, we have Himekawa Utako and myself; and we'll chose Himekawa Ayumi for Helen by 4 to 3.
+Dialogue: 0,0:17:21.04,0:17:21.04,Thought,,0,0,0,,{TIME:1041041,1041041}Argue all you want.
+Dialogue: 0,0:17:22.94,0:17:22.94,Thought,,0,0,0,,{TIME:1042942,1042942}The executive director and the manager are on my side.
+Dialogue: 0,0:17:25.67,0:17:25.67,Thought,,0,0,0,,{TIME:1045679,1045679}Besides, we have Himekawa Utako and myself; and we'll chose Himekawa Ayumi for Helen by 4 to 3.
 Dialogue: 0,0:17:33.28,0:17:33.28,Default,,0,0,0,,{TIME:1053286,1053286}I was very intrigued by Kitajima Maya's acting for some reason.
 Dialogue: 0,0:17:37.45,0:17:37.45,Default,,0,0,0,,{TIME:1057457,1057457}So was I.
 Dialogue: 0,0:17:39.59,0:17:39.59,Default,,0,0,0,,{TIME:1059592,1059592}I have high expectations that she will play Helen as she has never been played before.
@@ -243,15 +245,15 @@ Dialogue: 0,0:17:46.26,0:17:46.26,Default,,0,0,0,,{TIME:1066266,1066266}But…!
 Dialogue: 0,0:17:46.80,0:17:46.80,Default,,0,0,0,,{TIME:1066800,1066800}Enough said.
 Dialogue: 0,0:17:48.73,0:17:48.73,Default,,0,0,0,,{TIME:1068735,1068735}I say we put it to a vote.
 Dialogue: 0,0:17:51.30,0:17:51.30,Default,,0,0,0,,{TIME:1071304,1071304}Let's be democratic about it.
-Dialogue: 0,0:17:57.84,0:17:57.84,Default,,0,0,0,,{TIME:1077844,1077844}{\i1}I'm scared. They haven't\Nmade up their minds yet?
-Dialogue: 0,0:18:00.88,0:18:00.88,Default,,0,0,0,,{TIME:1080880,1080880}{\i1}Help me, Mother, Rei,\Neveryone… Sakurakōji…
-Dialogue: 0,0:18:06.51,0:18:06.51,Default,,0,0,0,,{TIME:1086519,1086519}{\i1}Miss Tsukikage.
-Dialogue: 0,0:18:09.72,0:18:09.72,Default,,0,0,0,,{TIME:1089723,1089723}{\i1}Why is it taking so long?\NWhat's going on inside?
-Dialogue: 0,0:18:13.59,0:18:13.59,Default,,0,0,0,,{TIME:1093593,1093593}{\i1}I, Himekawa Ayumi, have so much insecurity and anxiety.
-Dialogue: 0,0:18:20.73,0:18:20.73,Default,,0,0,0,,{TIME:1100734,1100734}{\i1}This girl.
-Dialogue: 0,0:18:22.20,0:18:22.20,Default,,0,0,0,,{TIME:1102202,1102202}{\i1}That's right.
-Dialogue: 0,0:18:23.16,0:18:23.16,Default,,0,0,0,,{TIME:1103169,1103169}{\i1}It's because Maya's my opponent.
-Dialogue: 0,0:18:26.40,0:18:26.40,Default,,0,0,0,,{TIME:1106406,1106406}{\i1}She's making me nervous.
+Dialogue: 0,0:17:57.84,0:17:57.84,Thought,,0,0,0,,{TIME:1077844,1077844}I'm scared. They haven't\Nmade up their minds yet?
+Dialogue: 0,0:18:00.88,0:18:00.88,Thought,,0,0,0,,{TIME:1080880,1080880}Help me, Mother, Rei,\Neveryone… Sakurakōji…
+Dialogue: 0,0:18:06.51,0:18:06.51,Thought,,0,0,0,,{TIME:1086519,1086519}Miss Tsukikage.
+Dialogue: 0,0:18:09.72,0:18:09.72,Thought,,0,0,0,,{TIME:1089723,1089723}Why is it taking so long?\NWhat's going on inside?
+Dialogue: 0,0:18:13.59,0:18:13.59,Thought,,0,0,0,,{TIME:1093593,1093593}I, Himekawa Ayumi, have so much insecurity and anxiety.
+Dialogue: 0,0:18:20.73,0:18:20.73,Thought,,0,0,0,,{TIME:1100734,1100734}This girl.
+Dialogue: 0,0:18:22.20,0:18:22.20,Thought,,0,0,0,,{TIME:1102202,1102202}That's right.
+Dialogue: 0,0:18:23.16,0:18:23.16,Thought,,0,0,0,,{TIME:1103169,1103169}It's because Maya's my opponent.
+Dialogue: 0,0:18:26.40,0:18:26.40,Thought,,0,0,0,,{TIME:1106406,1106406}She's making me nervous.
 Dialogue: 0,0:18:32.37,0:18:32.37,Default,,0,0,0,,{TIME:1112379,1112379}I see, they will vote to decide.
 Dialogue: 0,0:18:35.01,0:18:35.01,Sign,(sign),0,0,0,,{TIME:1115015,1115015}Meeting in session
 Dialogue: 0,0:18:35.41,0:18:35.41,Default,,0,0,0,,{TIME:1115415,1115415}It must be tough for Himekawa Utako.
@@ -281,18 +283,18 @@ Dialogue: 0,0:20:43.77,0:20:43.77,Default,,0,0,0,,{TIME:1243777,1243777}Helen Ke
 Dialogue: 0,0:20:46.94,0:20:46.94,Default,,0,0,0,,{TIME:1246946,1246946}…Himekawa Ayumi.
 Dialogue: 0,0:20:55.18,0:20:55.18,Default,,0,0,0,,{TIME:1255188,1255188}And, also, by Kitajima Maya.
 Dialogue: 0,0:21:05.76,0:21:05.76,Default,,0,0,0,,{TIME:1265765,1265765}We decided to double cast them.
-Dialogue: 0,0:21:09.30,0:21:09.30,Default,,0,0,0,,{TIME:1269302,1269302}{\i1}Double cast?
-Dialogue: 0,0:21:15.24,0:21:15.24,Default,,0,0,0,,{TIME:1275241,1275241}{\i1}With Ayumi?
-Dialogue: 0,0:21:18.11,0:21:18.11,Default,,0,0,0,,{TIME:1278111,1278111}{\i1}With this girl?
+Dialogue: 0,0:21:09.30,0:21:09.30,Thought,,0,0,0,,{TIME:1269302,1269302}Double cast?
+Dialogue: 0,0:21:15.24,0:21:15.24,Thought,,0,0,0,,{TIME:1275241,1275241}With Ayumi?
+Dialogue: 0,0:21:18.11,0:21:18.11,Thought,,0,0,0,,{TIME:1278111,1278111}With this girl?
 Dialogue: 0,0:21:20.68,0:21:20.68,Default,,0,0,0,,{TIME:1280680,1280680}They will take turns each day to play Helen Keller with Annie Sullivan, played by Himekawa Utako.
 Dialogue: 0,0:21:27.98,0:21:27.98,Default,,0,0,0,,{TIME:1287987,1287987}By the way, this play, "The Miracle Worker," might be nominated for acting awards by the Academy.
 Dialogue: 0,0:21:34.79,0:21:34.79,Default,,0,0,0,,{TIME:1294794,1294794}Now, please greet each other in the spirit of cooperation.
-Dialogue: 0,0:21:48.20,0:21:48.20,Default,,0,0,0,,{TIME:1308208,1308208}{\i1}Ayumi…
+Dialogue: 0,0:21:48.20,0:21:48.20,Thought,,0,0,0,,{TIME:1308208,1308208}Ayumi…
 Dialogue: 0,0:21:52.67,0:21:52.67,Default,,0,0,0,,{TIME:1312679,1312679}I won't lose.
-Dialogue: 0,0:22:02.48,0:22:02.48,Default,,0,0,0,,{TIME:1322489,1322489}{\i1}I will play Helen with Ayumi.
-Dialogue: 0,0:22:04.65,0:22:04.65,Default,,0,0,0,,{TIME:1324657,1324657}{\i1}Under Director Onodera…
-Dialogue: 0,0:22:07.26,0:22:07.26,Default,,0,0,0,,{TIME:1327260,1327260}{\i1}…and with her mother as Annie Sullivan.
-Dialogue: 0,0:22:10.89,0:22:10.89,Default,,0,0,0,,{TIME:1330897,1330897}{\i1}I wonder if I can go on, as Helen.
+Dialogue: 0,0:22:02.48,0:22:02.48,Thought,,0,0,0,,{TIME:1322489,1322489}I will play Helen with Ayumi.
+Dialogue: 0,0:22:04.65,0:22:04.65,Thought,,0,0,0,,{TIME:1324657,1324657}Under Director Onodera…
+Dialogue: 0,0:22:07.26,0:22:07.26,Thought,,0,0,0,,{TIME:1327260,1327260}…and with her mother as Annie Sullivan.
+Dialogue: 0,0:22:10.89,0:22:10.89,Thought,,0,0,0,,{TIME:1330897,1330897}I wonder if I can go on, as Helen.
 Dialogue: 0,0:22:19.50,0:22:19.50,Default,,0,0,0,,{TIME:1339506,1339506}So, the decision has been made.
 Comment: 0,0:22:50.36,0:22:50.36,Default,[chapter],0,0,0,,{TIME:1370369,1370369}Ending
 Dialogue: 0,0:22:57.54,0:23:03.67,Ending alt,[karaoke],0,0,0,,{TIME:1377544,1383674}{\blur3}It is lonely by myself…

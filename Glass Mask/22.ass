@@ -14,6 +14,8 @@ Audio File: source/22.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00FBEDED,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -90,7 +92,7 @@ Dialogue: 0,0:04:22.96,0:04:22.96,Default,,0,0,0,,{TIME:262962,262962}Mr. Masumi
 Dialogue: 0,0:04:27.93,0:04:27.93,Default,,0,0,0,,{TIME:267934,267934}You are acting strange today.
 Dialogue: 0,0:04:34.14,0:04:34.14,Default,,0,0,0,,{TIME:274140,274140}Please arrange the ride.
 Dialogue: 0,0:04:36.67,0:04:36.67,Default,,0,0,0,,{TIME:276676,276676}Yes sir.
-Dialogue: 0,0:04:40.44,0:04:40.44,Default,,0,0,0,,{TIME:280447,280447}{\i1}…and show affection as who\Nyou really are, Mr. Hayami Masumi?
+Dialogue: 0,0:04:40.44,0:04:40.44,Retrospective,,0,0,0,,{TIME:280447,280447}…and show affection as who\Nyou really are, Mr. Hayami Masumi?
 Dialogue: 0,0:04:57.29,0:04:57.29,Default,,0,0,0,,{TIME:297297,297297}Here's your seat.
 Dialogue: 0,0:04:57.79,0:04:57.79,Default,,0,0,0,,{TIME:297797,297797}Thank you.
 Dialogue: 0,0:05:08.97,0:05:08.97,Default,,0,0,0,,{TIME:308975,308975}This way, please.
@@ -99,10 +101,10 @@ Dialogue: 0,0:05:21.78,0:05:21.78,Default,,0,0,0,,{TIME:321788,321788}Look at ho
 Dialogue: 0,0:05:24.55,0:05:24.55,Default,,0,0,0,,{TIME:324557,324557}As soon as she steps in,\Nthe whole place becomes brighter.
 Dialogue: 0,0:05:27.59,0:05:27.59,Default,,0,0,0,,{TIME:327594,327594}She was born to be a star.
 Dialogue: 0,0:05:29.89,0:05:29.89,Default,,0,0,0,,{TIME:329896,329896}I know.
-Dialogue: 0,0:05:33.26,0:05:33.26,Default,,0,0,0,,{TIME:333266,333266}{\i1}She's so confident.
-Dialogue: 0,0:05:36.06,0:05:36.06,Default,,0,0,0,,{TIME:336069,336069}{\i1}It must be some kind of mistake that I have more of a chance at winning the award than she does.
-Dialogue: 0,0:05:40.00,0:05:40.00,Default,,0,0,0,,{TIME:340006,340006}{\i1}Yes, it's just a dream.
-Dialogue: 0,0:05:42.60,0:05:42.60,Default,,0,0,0,,{TIME:342609,342609}{\i1}I always wake myself just before the best part.
+Dialogue: 0,0:05:33.26,0:05:33.26,Thought,,0,0,0,,{TIME:333266,333266}She's so confident.
+Dialogue: 0,0:05:36.06,0:05:36.06,Thought,,0,0,0,,{TIME:336069,336069}It must be some kind of mistake that I have more of a chance at winning the award than she does.
+Dialogue: 0,0:05:40.00,0:05:40.00,Thought,,0,0,0,,{TIME:340006,340006}Yes, it's just a dream.
+Dialogue: 0,0:05:42.60,0:05:42.60,Thought,,0,0,0,,{TIME:342609,342609}I always wake myself just before the best part.
 Dialogue: 0,0:05:48.98,0:05:48.98,Default,,0,0,0,,{TIME:348982,348982}Ladies and gentlemen, let us start the Academy Awards.
 Dialogue: 0,0:05:58.39,0:05:58.39,Narrator,(narrator),0,0,0,,{TIME:358391,358391}The nominations for the awards and their presentations were carried out by divisions such as Music Division, Traditional Dance Division, and Western Music Division.
 Dialogue: 0,0:06:07.33,0:06:07.33,Default,,0,0,0,,{TIME:367334,367334}Now, the Stage Drama Division.
@@ -114,13 +116,13 @@ Dialogue: 0,0:06:39.46,0:06:39.46,Default,,0,0,0,,{TIME:399466,399466}…Kitajim
 Dialogue: 0,0:06:49.87,0:06:49.87,Default,,0,0,0,,{TIME:409876,409876}Ms. Kitajima Maya, please.
 Dialogue: 0,0:06:53.81,0:06:53.81,Default,,0,0,0,,{TIME:413813,413813}Please come to the stage.
 Dialogue: 0,0:06:56.51,0:06:56.51,Default,,0,0,0,,{TIME:416516,416516}M-Me?
-Dialogue: 0,0:07:02.58,0:07:02.58,Default,,0,0,0,,{TIME:422589,422589}{\i1}This must be a dream.\NA dream.
+Dialogue: 0,0:07:02.58,0:07:02.58,thought,,0,0,0,,{TIME:422589,422589}This must be a dream.\NA dream.
 Dialogue: 0,0:07:05.32,0:07:05.32,Default,,0,0,0,,{TIME:425325,425325}The Academy Award for\NBest Supporting Actress: Kitajima Maya.
 Dialogue: 0,0:07:10.76,0:07:10.76,Default,,0,0,0,,{TIME:430764,430764}Your performance in "The Miracle Worker"\Nhas a freshness…
 Dialogue: 0,0:07:15.36,0:07:15.36,Default,,0,0,0,,{TIME:435368,435368}…that has never been seen before\Nand lends tremendous emotion to the play.
-Dialogue: 0,0:07:19.67,0:07:19.67,Default,,0,0,0,,{TIME:439673,439673}{\i1}I got it!
-Dialogue: 0,0:07:22.64,0:07:22.64,Default,,0,0,0,,{TIME:442642,442642}{\i1}That's why.
-Dialogue: 0,0:07:24.97,0:07:24.97,Default,,0,0,0,,{TIME:444978,444978}{\i1}I see, I know now.
+Dialogue: 0,0:07:19.67,0:07:19.67,Thought,,0,0,0,,{TIME:439673,439673}I got it!
+Dialogue: 0,0:07:22.64,0:07:22.64,Thought,,0,0,0,,{TIME:442642,442642}That's why.
+Dialogue: 0,0:07:24.97,0:07:24.97,Thought,,0,0,0,,{TIME:444978,444978}I see, I know now.
 Dialogue: 0,0:07:29.91,0:07:29.91,Default,,0,0,0,,{TIME:449916,449916}Oh, I feel like I'm still dreaming,\Nbut ouch…
 Dialogue: 0,0:07:35.68,0:07:35.68,Default,,0,0,0,,{TIME:455689,455689}…it's not a dream.
 Dialogue: 0,0:07:39.62,0:07:39.62,Narrator,(narrator),0,0,0,,{TIME:459626,459626}Then the Best Actor and Best Actress\Nwere announced.
@@ -131,7 +133,7 @@ Dialogue: 0,0:08:05.65,0:08:05.65,Default,,0,0,0,,{TIME:485652,485652}Ayumi.
 Dialogue: 0,0:08:18.86,0:08:18.86,Default,,0,0,0,,{TIME:498865,498865}Congratulations, Mama.
 Dialogue: 0,0:08:21.40,0:08:21.40,Default,,0,0,0,,{TIME:501401,501401}Thank you, Ayumi.
 Dialogue: 0,0:08:25.27,0:08:25.27,Default,,0,0,0,,{TIME:505271,505271}Mama.
-Dialogue: 0,0:08:26.50,0:08:26.50,Default,,0,0,0,,{TIME:506506,506506}{\i1}Mother…
+Dialogue: 0,0:08:26.50,0:08:26.50,Thought,,0,0,0,,{TIME:506506,506506}Mother…
 Dialogue: 0,0:08:29.17,0:08:29.17,Default,,0,0,0,,{TIME:509175,509175}Congratulations, Maya.
 Dialogue: 0,0:08:32.57,0:08:32.57,Default,,0,0,0,,{TIME:512579,512579}Thank you, Ayumi.
 Dialogue: 0,0:08:35.21,0:08:35.21,Default,,0,0,0,,{TIME:515215,515215}But I still don't think\Nyou defeated me.
@@ -139,7 +141,7 @@ Dialogue: 0,0:08:39.01,0:08:39.01,Default,,0,0,0,,{TIME:519019,519019}I finally 
 Dialogue: 0,0:08:42.45,0:08:42.45,Default,,0,0,0,,{TIME:522455,522455}I still think I played\Nthe perfect Helen.
 Dialogue: 0,0:08:45.72,0:08:45.72,Default,,0,0,0,,{TIME:525725,525725}If you'd have played a perfect Helen better\Nthan I did, then I'd have really lost this award.
 Dialogue: 0,0:08:54.16,0:08:54.16,Default,,0,0,0,,{TIME:534167,534167}But…
-Dialogue: 0,0:08:55.80,0:08:55.80,Default,,0,0,0,,{TIME:535802,535802}{\i1}Your performance in "The Miracle Worker"\Nhas brought a freshness that has never been seen before…
+Dialogue: 0,0:08:55.80,0:08:55.80,Thought,,0,0,0,,{TIME:535802,535802}Your performance in "The Miracle Worker"\Nhas brought a freshness that has never been seen before…
 Dialogue: 0,0:09:01.90,0:09:01.90,Default,,0,0,0,,{TIME:541908,541908}Your Helen was a new Helen.
 Dialogue: 0,0:09:03.71,0:09:03.71,Default,,0,0,0,,{TIME:543710,543710}This means that your Helen and mine\Nwere totally different people.
 Dialogue: 0,0:09:07.08,0:09:07.08,Default,,0,0,0,,{TIME:547080,547080}I have regained my confidence that mine was truly a perfect Helen.
@@ -169,23 +171,23 @@ Dialogue: 0,0:10:43.64,0:10:43.64,Default,,0,0,0,,{TIME:643643,643643}You can't 
 Dialogue: 0,0:10:45.64,0:10:45.64,Default,,0,0,0,,{TIME:645645,645645}You have to learn how to sell yourself.
 Dialogue: 0,0:10:47.41,0:10:47.41,Default,,0,0,0,,{TIME:647414,647414}You can't be successful with just your talent.
 Dialogue: 0,0:10:50.31,0:10:50.31,Default,,0,0,0,,{TIME:650316,650316}Why… why are you\Ntelling me all this?
-Dialogue: 0,0:10:54.82,0:10:54.82,Default,,0,0,0,,{TIME:654821,654821}{\i1}Why don't you, as Hayami Masumi,\Nshow your affection to her?
+Dialogue: 0,0:10:54.82,0:10:54.82,Thought,,0,0,0,,{TIME:654821,654821}Why don't you, as Hayami Masumi,\Nshow your affection to her?
 Dialogue: 0,0:11:00.32,0:11:00.32,Default,,0,0,0,,{TIME:660326,660326}Why?
 Dialogue: 0,0:11:02.12,0:11:02.12,Default,,0,0,0,,{TIME:662128,662128}I don't want to break\Na golden egg before it hatches.
 Dialogue: 0,0:11:07.03,0:11:07.03,Default,,0,0,0,,{TIME:667033,667033}I won't be a golden egg\Nfor Metropolitan Entertainment!
 Dialogue: 0,0:11:09.83,0:11:09.83,Default,,0,0,0,,{TIME:669836,669836}Never!
-Dialogue: 0,0:11:21.21,0:11:21.21,Default,,0,0,0,,{TIME:681214,681214}{\i1}This feeling.
-Dialogue: 0,0:11:32.59,0:11:32.59,Default,,0,0,0,,{TIME:692592,692592}{\i1}That summer…
-Dialogue: 0,0:11:37.66,0:11:37.66,Default,,0,0,0,,{TIME:697664,697664}{\i1}…he's Mr. Purple Rose?
-Dialogue: 0,0:11:40.83,0:11:40.83,Default,,0,0,0,,{TIME:700834,700834}{\i1}Is he?
+Dialogue: 0,0:11:21.21,0:11:21.21,Thought,,0,0,0,,{TIME:681214,681214}This feeling.
+Dialogue: 0,0:11:32.59,0:11:32.59,Thought,,0,0,0,,{TIME:692592,692592}That summer…
+Dialogue: 0,0:11:37.66,0:11:37.66,Thought,,0,0,0,,{TIME:697664,697664}…he's Mr. Purple Rose?
+Dialogue: 0,0:11:40.83,0:11:40.83,Thought,,0,0,0,,{TIME:700834,700834}Is he?
 Comment: 0,0:11:54.75,0:11:54.75,Default,[chapter],0,0,0,,{TIME:714756,714756}Eyecatch
 Comment: 0,0:11:58.50,0:11:58.50,Default,[chapter],0,0,0,,{TIME:718509,718509}#Eyecatch
 Comment: 0,0:12:01.47,0:12:01.47,Default,[chapter],0,0,0,,{TIME:721471,721471}Part B
 Dialogue: 0,0:12:22.40,0:12:22.40,Default,,0,0,0,,{TIME:742409,742409}You are too young\Nfor the love scene, little girl.
 Dialogue: 0,0:12:25.17,0:12:25.17,Default,,0,0,0,,{TIME:745178,745178}What happened? Has the heat\Nfrom the hall affected you?
-Dialogue: 0,0:12:33.11,0:12:33.11,Default,,0,0,0,,{TIME:753119,753119}{\i1}No way.\NThat cold bastard can't be.
-Dialogue: 0,0:12:35.68,0:12:35.68,Default,,0,0,0,,{TIME:755689,755689}{\i1}It's just a coincidence.
-Dialogue: 0,0:12:37.15,0:12:37.15,Default,,0,0,0,,{TIME:757157,757157}{\i1}Did she notice?\NNo, she couldn't.
+Dialogue: 0,0:12:33.11,0:12:33.11,Thought,,0,0,0,,{TIME:753119,753119}No way.\NThat cold bastard can't be.
+Dialogue: 0,0:12:35.68,0:12:35.68,Thought,,0,0,0,,{TIME:755689,755689}It's just a coincidence.
+Dialogue: 0,0:12:37.15,0:12:37.15,Thought,,0,0,0,,{TIME:757157,757157}Did she notice?\NNo, she couldn't.
 Dialogue: 0,0:12:46.83,0:12:46.83,Default,,0,0,0,,{TIME:766833,766833}Hello, Miss Tsukikage.
 Dialogue: 0,0:12:48.26,0:12:48.26,Default,,0,0,0,,{TIME:768268,768268}Did you come to see your good student's award presentation?
 Dialogue: 0,0:12:50.37,0:12:50.37,Default,,0,0,0,,{TIME:770370,770370}A good student?\NYes, some future good students.
@@ -243,13 +245,13 @@ Dialogue: 0,0:16:34.49,0:16:34.49,Default,,0,0,0,,{TIME:994494,994494}She said s
 Dialogue: 0,0:16:36.99,0:16:36.99,Default,,0,0,0,,{TIME:996996,996996}I asked her where she was,\Nbut then she hung up.
 Dialogue: 0,0:16:40.13,0:16:40.13,Default,,0,0,0,,{TIME:1000133,1000133}Is that so…
 Dialogue: 0,0:16:41.86,0:16:41.86,Default,,0,0,0,,{TIME:1001868,1001868}Fukui Hospital
-Dialogue: 0,0:16:43.87,0:16:43.87,Default,,0,0,0,,{TIME:1003870,1003870}{\i1}Maya, I've lost my sight,\Nbut I can still see you.
-Dialogue: 0,0:16:50.14,0:16:50.14,Default,,0,0,0,,{TIME:1010143,1010143}{\i1}I'm always watching you.
+Dialogue: 0,0:16:43.87,0:16:43.87,Thought,,0,0,0,,{TIME:1003870,1003870}Maya, I've lost my sight,\Nbut I can still see you.
+Dialogue: 0,0:16:50.14,0:16:50.14,Thought,,0,0,0,,{TIME:1010143,1010143}I'm always watching you.
 Dialogue: 0,0:16:55.54,0:16:55.54,Default,,0,0,0,,{TIME:1015548,1015548}Next time she calls, I'll be sure\Nto find out where she is.
 Dialogue: 0,0:16:58.75,0:16:58.75,Default,,0,0,0,,{TIME:1018752,1018752}So don't feel bad, Maya.
 Dialogue: 0,0:16:59.31,0:16:59.31,Default,,0,0,0,,{TIME:1019319,1019319}Yes.
 Dialogue: 0,0:17:07.09,0:17:07.09,Default,,0,0,0,,{TIME:1027093,1027093}Sakurakōji.
-Dialogue: 0,0:17:12.09,0:17:12.09,Default,,0,0,0,,{TIME:1032098,1032098}{\i1}Maya, I'll do it!
+Dialogue: 0,0:17:12.09,0:17:12.09,Thought,,0,0,0,,{TIME:1032098,1032098}Maya, I'll do it!
 Dialogue: 0,0:17:18.57,0:17:18.57,Default,,0,0,0,,{TIME:1038571,1038571}A TV series?
 Dialogue: 0,0:17:19.87,0:17:19.87,Default,,0,0,0,,{TIME:1039873,1039873}He brought the offer\Nfrom the TV station for you.
 Dialogue: 0,0:17:23.97,0:17:23.97,Default,,0,0,0,,{TIME:1043977,1043977}He also has a television series for Ayumi.
@@ -268,8 +270,8 @@ Dialogue: 0,0:18:14.02,0:18:14.02,Default,,0,0,0,,{TIME:1094027,1094027}What can
 Dialogue: 0,0:18:15.72,0:18:15.72,Default,,0,0,0,,{TIME:1095729,1095729}Should I decline?\NTeacher?
 Dialogue: 0,0:18:18.86,0:18:18.86,Default,,0,0,0,,{TIME:1098865,1098865}It is up to you\Nto make that decision.
 Dialogue: 0,0:18:22.13,0:18:22.13,Default,,0,0,0,,{TIME:1102135,1102135}Teacher…
-Dialogue: 0,0:18:26.57,0:18:26.57,Default,,0,0,0,,{TIME:1106573,1106573}{\i1}You might even become worthless as an actress.
-Dialogue: 0,0:18:31.47,0:18:31.47,Default,,0,0,0,,{TIME:1111478,1111478}{\i1}What should I do?
+Dialogue: 0,0:18:26.57,0:18:26.57,Thought,,0,0,0,,{TIME:1106573,1106573}You might even become worthless as an actress.
+Dialogue: 0,0:18:31.47,0:18:31.47,Thought,,0,0,0,,{TIME:1111478,1111478}What should I do?
 Dialogue: 0,0:18:36.34,0:18:36.34,Default,,0,0,0,,{TIME:1116349,1116349}Mother.
 Dialogue: 0,0:18:42.18,0:18:42.18,Default,,0,0,0,,{TIME:1122188,1122188}Okay, let her in.
 Dialogue: 0,0:18:44.55,0:18:44.55,Default,,0,0,0,,{TIME:1124557,1124557}Excuse me.
@@ -299,14 +301,14 @@ Dialogue: 0,0:20:13.78,0:20:13.78,Default,,0,0,0,,{TIME:1213780,1213780}Yes.
 Dialogue: 0,0:20:42.50,0:20:42.50,Narrator,(narrator),0,0,0,,{TIME:1242509,1242509}Maya has moved forward to a new world,\Nfrom the stage to television.
 Dialogue: 0,0:20:47.84,0:20:47.84,Narrator,(narrator),0,0,0,,{TIME:1247847,1247847}Ayumi, who has refused all television offers in the past…
 Dialogue: 0,0:20:51.98,0:20:51.98,Default,,0,0,0,,{TIME:1251985,1251985}…has accepted the new challenge\Nand jumped into the new world as well.
-Dialogue: 0,0:20:55.95,0:20:55.95,Default,,0,0,0,,{TIME:1255955,1255955}{\i1}Maya, do it.
-Dialogue: 0,0:20:58.05,0:20:58.05,Default,,0,0,0,,{TIME:1258058,1258058}{\i1}Try and see how much your acting ability on stage will work for television.
-Dialogue: 0,0:21:06.73,0:21:06.73,Default,,0,0,0,,{TIME:1266733,1266733}{\i1}Go on ahead, Maya.
-Dialogue: 0,0:21:08.90,0:21:08.90,Default,,0,0,0,,{TIME:1268902,1268902}{\i1}Be destroyed as an actress, or overcome it and jump even further ahead.
-Dialogue: 0,0:21:14.64,0:21:14.64,Default,,0,0,0,,{TIME:1274641,1274641}{\i1}What's important for you\Nis how you will grow as a person.
-Dialogue: 0,0:21:22.08,0:21:22.08,Default,,0,0,0,,{TIME:1282082,1282082}{\i1}Ayumi, I'll do it.
-Dialogue: 0,0:21:24.25,0:21:24.25,Default,,0,0,0,,{TIME:1284250,1284250}{\i1}You'll not only notice my freshness and originality, but also my ability…
-Dialogue: 0,0:21:30.29,0:21:30.29,Default,,0,0,0,,{TIME:1290290,1290290}{\i1}…and someday…!
+Dialogue: 0,0:20:55.95,0:20:55.95,Thought,,0,0,0,,{TIME:1255955,1255955}Maya, do it.
+Dialogue: 0,0:20:58.05,0:20:58.05,Thought,,0,0,0,,{TIME:1258058,1258058}Try and see how much your acting ability on stage will work for television.
+Dialogue: 0,0:21:06.73,0:21:06.73,Thought,,0,0,0,,{TIME:1266733,1266733}Go on ahead, Maya.
+Dialogue: 0,0:21:08.90,0:21:08.90,Thought,,0,0,0,,{TIME:1268902,1268902}Be destroyed as an actress, or overcome it and jump even further ahead.
+Dialogue: 0,0:21:14.64,0:21:14.64,Thought,,0,0,0,,{TIME:1274641,1274641}What's important for you\Nis how you will grow as a person.
+Dialogue: 0,0:21:22.08,0:21:22.08,Thought,,0,0,0,,{TIME:1282082,1282082}Ayumi, I'll do it.
+Dialogue: 0,0:21:24.25,0:21:24.25,Thought,,0,0,0,,{TIME:1284250,1284250}You'll not only notice my freshness and originality, but also my ability…
+Dialogue: 0,0:21:30.29,0:21:30.29,Thought,,0,0,0,,{TIME:1290290,1290290}…and someday…!
 Dialogue: 0,0:21:41.46,0:21:41.46,Default,,0,0,0,,{TIME:1301468,1301468}The battle has just began.
 Dialogue: 0,0:21:45.20,0:21:45.20,Default,,0,0,0,,{TIME:1305205,1305205}I will see how they grow as actresses…
 Dialogue: 0,0:21:49.90,0:21:49.90,Default,,0,0,0,,{TIME:1309909,1309909}…and eventually choose the one of the two for "The Crimson Goddess."

@@ -14,6 +14,8 @@ Audio File: source/05.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00EDECEE,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -74,9 +76,9 @@ Dialogue: 0,0:03:09.35,0:03:11.81,Default,,0,0,0,,{TIME:189356,191817}You are on
 Dialogue: 0,0:03:11.81,0:03:15.19,Narrator,(narrator),0,0,0,,{TIME:191817,195195}The next day, they started training without Maya.
 Dialogue: 0,0:03:15.19,0:03:19.36,Narrator,(narrator),0,0,0,,{TIME:195195,199366}Maya was left alone still in shock.
 Dialogue: 0,0:03:32.46,0:03:36.59,Narrator,(narrator),0,0,0,,{TIME:212462,216591}And the second night in the cottage came.
-Dialogue: 0,0:04:04.74,0:04:06.58,Default,,0,0,0,,{TIME:244745,246580}{\i1}They're still practicing…
-Dialogue: 0,0:04:34.85,0:04:40.23,Default,,0,0,0,,{TIME:274858,280238}{\i1}Hey, there will be a celebration\Non the 20th, so let's do something fun!
-Dialogue: 0,0:04:40.23,0:04:42.69,Default,,0,0,0,,{TIME:280238,282699}{\i1}Yeah, Midori, let's!
+Dialogue: 0,0:04:04.74,0:04:06.58,Thought,,0,0,0,,{TIME:244745,246580}They're still practicing…
+Dialogue: 0,0:04:34.85,0:04:40.23,Retrospective,,0,0,0,,{TIME:274858,280238}Hey, there will be a celebration\Non the 20th, so let's do something fun!
+Dialogue: 0,0:04:40.23,0:04:42.69,Retrospective,,0,0,0,,{TIME:280238,282699}Yeah, Midori, let's!
 Dialogue: 0,0:04:42.69,0:04:44.03,Default,,0,0,0,,{TIME:282699,284034}That's right.
 Dialogue: 0,0:04:44.03,0:04:45.82,Default,,0,0,0,,{TIME:284034,285827}What would you all like to do?
 Dialogue: 0,0:04:45.82,0:04:47.95,Default,,0,0,0,,{TIME:285827,287954}Let's do something we can all enjoy.
@@ -96,11 +98,11 @@ Dialogue: 0,0:05:36.46,0:05:40.00,Default,,0,0,0,,{TIME:336461,340006}You don't 
 Dialogue: 0,0:05:40.50,0:05:41.59,Default,,0,0,0,,{TIME:340507,341591}Hey.
 Dialogue: 0,0:05:41.59,0:05:44.05,Default,,0,0,0,,{TIME:341591,344052}Say something, Shōta.\NSay something.
 Dialogue: 0,0:05:44.05,0:05:46.05,Default,,0,0,0,,{TIME:344052,346054}Say—
-Dialogue: 0,0:05:56.10,0:05:59.60,Default,,0,0,0,,{TIME:356106,359609}{\i1}That's right. I was…
-Dialogue: 0,0:05:59.60,0:06:02.73,Default,,0,0,0,,{TIME:359609,362737}{\i1}Maya, you don't have to play Midori anymore!
-Dialogue: 0,0:06:06.03,0:06:07.15,Default,,0,0,0,,{TIME:366032,367158}{\i1}I don't care.
-Dialogue: 0,0:06:07.15,0:06:09.28,Default,,0,0,0,,{TIME:367158,369286}{\i1}Even if I can't be on stage…
-Dialogue: 0,0:06:09.28,0:06:12.12,Default,,0,0,0,,{TIME:369286,372122}{\i1}…acting is all I've got!
+Dialogue: 0,0:05:56.10,0:05:59.60,Thought,,0,0,0,,{TIME:356106,359609}That's right. I was…
+Dialogue: 0,0:05:59.60,0:06:02.73,Retrospective,,0,0,0,,{TIME:359609,362737}Maya, you don't have to play Midori anymore!
+Dialogue: 0,0:06:06.03,0:06:07.15,Thought,,0,0,0,,{TIME:366032,367158}I don't care.
+Dialogue: 0,0:06:07.15,0:06:09.28,Thought,,0,0,0,,{TIME:367158,369286}Even if I can't be on stage…
+Dialogue: 0,0:06:09.28,0:06:12.12,Thought,,0,0,0,,{TIME:369286,372122}…acting is all I've got!
 Dialogue: 0,0:06:15.91,0:06:17.83,Default,,0,0,0,,{TIME:375917,377836}Shōta…
 Dialogue: 0,0:06:19.33,0:06:21.04,Default,,0,0,0,,{TIME:379337,381047}Don't be shy.
 Dialogue: 0,0:06:21.04,0:06:24.13,Default,,0,0,0,,{TIME:381047,384134}Hey, Shōta, say something.
@@ -204,10 +206,10 @@ Dialogue: 0,0:11:10.25,0:11:12.79,Default,,0,0,0,,{TIME:670253,672797}…I wonde
 Dialogue: 0,0:11:13.92,0:11:15.17,Default,,0,0,0,,{TIME:673923,675175}Never mind them.
 Dialogue: 0,0:11:15.63,0:11:16.55,Default,,0,0,0,,{TIME:675633,676551}Here we go.
 Dialogue: 0,0:11:17.59,0:11:18.97,Default,,0,0,0,,{TIME:677594,678970}We got some juice.
-Dialogue: 0,0:11:22.51,0:11:24.35,Default,,0,0,0,,{TIME:682515,684350}{\i1}A purple rose!
+Dialogue: 0,0:11:22.51,0:11:24.35,Thought,,0,0,0,,{TIME:682515,684350}A purple rose!
 Dialogue: 0,0:11:31.19,0:11:35.15,Sign,(sign),0,0,0,,{TIME:691191,695153}I will be watching you.\NYour secret admirer.
-Dialogue: 0,0:11:32.10,0:11:34.36,Default,,0,0,0,,{TIME:692108,694360}{\i1}He's here…
-Dialogue: 0,0:11:34.36,0:11:36.82,Default,,0,0,0,,{TIME:694360,696821}{\i1}Mr. Purple Rose.
+Dialogue: 0,0:11:32.10,0:11:34.36,Thought,,0,0,0,,{TIME:692108,694360}He's here…
+Dialogue: 0,0:11:34.36,0:11:36.82,Thought,,0,0,0,,{TIME:694360,696821}Mr. Purple Rose.
 Dialogue: 0,0:11:36.82,0:11:39.11,Default,,0,0,0,,{TIME:696821,699115}He's here to see me.
 Comment: 0,0:11:49.70,0:11:49.70,Default,[chapter],0,0,0,,{TIME:709709,709709}Eyecatch
 Comment: 0,0:11:53.71,0:11:53.71,Default,[chapter],0,0,0,,{TIME:713713,713713}#Eyecatch
@@ -216,27 +218,27 @@ Dialogue: 0,0:12:06.93,0:12:08.18,Default,,0,0,0,,{TIME:726935,728186}Ms. Ayumi.
 Dialogue: 0,0:12:09.81,0:12:13.65,Default,,0,0,0,,{TIME:729812,733650}Hi, Maya. I'll be looking forward to\Nplaying the same role as you do.
 Dialogue: 0,0:12:19.19,0:12:20.57,Default,,0,0,0,,{TIME:739197,740573}Thank you, Ms. Ayumi.
 Dialogue: 0,0:12:22.95,0:12:23.66,Default,,0,0,0,,{TIME:742951,743660}Let's go.
-Dialogue: 0,0:12:29.58,0:12:33.25,Default,,0,0,0,,{TIME:749582,753253}{\i1}What's up with that cheerful smile?
-Dialogue: 0,0:12:33.25,0:12:36.50,Default,,0,0,0,,{TIME:753253,756506}{\i1}Like she doesn't even worry about me?
+Dialogue: 0,0:12:29.58,0:12:33.25,Thought,,0,0,0,,{TIME:749582,753253}What's up with that cheerful smile?
+Dialogue: 0,0:12:33.25,0:12:36.50,Thought,,0,0,0,,{TIME:753253,756506}Like she doesn't even worry about me?
 Dialogue: 0,0:12:39.59,0:12:40.59,Default,,0,0,0,,{TIME:759592,760593}Sakurakōji.
 Dialogue: 0,0:12:41.92,0:12:43.17,Default,,0,0,0,,{TIME:761928,763179}Maya.
 Dialogue: 0,0:12:43.80,0:12:45.47,Default,,0,0,0,,{TIME:763805,765473}Sakurakōji!
 Dialogue: 0,0:12:45.47,0:12:46.68,Default,,0,0,0,,{TIME:765473,766683}Hurry!
 Dialogue: 0,0:12:48.01,0:12:50.01,Default,,0,0,0,,{TIME:768017,770019}Let's do our best.
-Dialogue: 0,0:12:54.44,0:12:55.77,Default,,0,0,0,,{TIME:774440,775775}{\i1}Sakurakōji!
-Dialogue: 0,0:12:57.65,0:12:59.11,Default,,0,0,0,,{TIME:777652,779112}{\i1}How nice.
-Dialogue: 0,0:12:59.11,0:13:03.53,Default,,0,0,0,,{TIME:779112,783533}{\i1}I was worried because Ondine Theater\Nand Tsukikage theater are kind of like enemies…
-Dialogue: 0,0:13:03.53,0:13:05.78,Default,,0,0,0,,{TIME:783533,785785}{\i1}Let's do our best, Sakurakōji.
+Dialogue: 0,0:12:54.44,0:12:55.77,Thought,,0,0,0,,{TIME:774440,775775}Sakurakōji!
+Dialogue: 0,0:12:57.65,0:12:59.11,Thought,,0,0,0,,{TIME:777652,779112}How nice.
+Dialogue: 0,0:12:59.11,0:13:03.53,Thought,,0,0,0,,{TIME:779112,783533}I was worried because Ondine Theater\Nand Tsukikage theater are kind of like enemies…
+Dialogue: 0,0:13:03.53,0:13:05.78,Thought,,0,0,0,,{TIME:783533,785785}Let's do our best, Sakurakōji.
 Dialogue: 0,0:13:07.78,0:13:13.20,Default,,0,0,0,,{TIME:787787,793209}We will now play "Growing Up"\Nby Ondine Theater.
 Dialogue: 0,0:13:16.87,0:13:18.33,Sign,(sign),0,0,0,,{TIME:796879,798339}Judging Committee
 Dialogue: 0,0:13:27.26,0:13:29.35,Default,,0,0,0,,{TIME:807265,809350}Let's go see Ondine Theater.
 Dialogue: 0,0:13:29.35,0:13:30.64,Default,,0,0,0,,{TIME:809350,810643}Shall we, Maya?
 Dialogue: 0,0:13:30.64,0:13:33.02,Default,,0,0,0,,{TIME:810643,813021}No, I'll stay here.
-Dialogue: 0,0:13:36.56,0:13:39.06,Default,,0,0,0,,{TIME:816566,819068}{\i1}Ms. Ayumi's Midori is hers.
-Dialogue: 0,0:13:39.06,0:13:41.44,Default,,0,0,0,,{TIME:819068,821446}{\i1}I'll just play my Midori.
-Dialogue: 0,0:13:42.69,0:13:44.40,Default,,0,0,0,,{TIME:822697,824407}{\i1}Just watch, Kitajima Maya…
-Dialogue: 0,0:13:45.28,0:13:48.32,Default,,0,0,0,,{TIME:825283,828328}{\i1}…the real ability of Himekawa Ayumi.
-Dialogue: 0,0:13:50.16,0:13:53.83,Default,,0,0,0,,{TIME:830163,833833}{\i1}I'll make it clear that there's no winning for you.
+Dialogue: 0,0:13:36.56,0:13:39.06,Thought,,0,0,0,,{TIME:816566,819068}Ms. Ayumi's Midori is hers.
+Dialogue: 0,0:13:39.06,0:13:41.44,Thought,,0,0,0,,{TIME:819068,821446}I'll just play my Midori.
+Dialogue: 0,0:13:42.69,0:13:44.40,Thought,,0,0,0,,{TIME:822697,824407}Just watch, Kitajima Maya…
+Dialogue: 0,0:13:45.28,0:13:48.32,Thought,,0,0,0,,{TIME:825283,828328}…the real ability of Himekawa Ayumi.
+Dialogue: 0,0:13:50.16,0:13:53.83,Thought,,0,0,0,,{TIME:830163,833833}I'll make it clear that there's no winning for you.
 Comment: 0,0:13:57.79,0:14:00.25,Sign,(sign),0,0,0,,{TIME:837795,840256}Judging Committee
 Dialogue: 0,0:14:03.42,0:14:04.46,Default,,0,0,0,,{TIME:843426,844469}Midori…
 Comment: 0,0:14:04.46,0:14:05.47,Sign,(sign),0,0,0,,{TIME:844469,845470}Judging Committee
@@ -267,8 +269,8 @@ Dialogue: 0,0:15:34.47,0:15:36.43,Default,,0,0,0,,{TIME:934475,936436}I hope you
 Dialogue: 0,0:15:36.43,0:15:38.56,Default,,0,0,0,,{TIME:936436,938563}You have to win this contest.
 Dialogue: 0,0:15:38.56,0:15:41.19,Default,,0,0,0,,{TIME:938563,941190}And win the National Contest.
 Dialogue: 0,0:15:41.19,0:15:44.90,Default,,0,0,0,,{TIME:941190,944902}If not, Tsukikage Theater\Nwill go out of business.
-Dialogue: 0,0:15:50.24,0:15:53.36,Default,,0,0,0,,{TIME:950241,953369}{\i1}Mr. Purple Rose, please watch me.
-Dialogue: 0,0:15:55.70,0:15:59.62,Default,,0,0,0,,{TIME:955705,959625}{\i1}I will play my Midori so well\Nthat you won't be disappointed.
+Dialogue: 0,0:15:50.24,0:15:53.36,Thought,,0,0,0,,{TIME:950241,953369}Mr. Purple Rose, please watch me.
+Dialogue: 0,0:15:55.70,0:15:59.62,Thought,,0,0,0,,{TIME:955705,959625}I will play my Midori so well\Nthat you won't be disappointed.
 Dialogue: 0,0:16:09.71,0:16:12.09,Default,,0,0,0,,{TIME:969719,972096}Are you guys ready?
 Dialogue: 0,0:16:12.09,0:16:13.30,Default,,0,0,0,,{TIME:972096,973306}Yes!
 Dialogue: 0,0:16:17.76,0:16:20.43,Default,,0,0,0,,{TIME:977768,980438}The judges were all so impressed.
@@ -297,14 +299,14 @@ Dialogue: 0,0:17:36.97,0:17:38.72,Default,,0,0,0,,{TIME:1056973,1058724}I only h
 Dialogue: 0,0:17:38.72,0:17:42.31,Default,,0,0,0,,{TIME:1058724,1062311}…but I will play my best for him!
 Dialogue: 0,0:17:56.24,0:17:58.03,Default,,0,0,0,,{TIME:1076242,1078035}I want a ball.
 Dialogue: 0,0:17:58.03,0:17:59.49,Default,,0,0,0,,{TIME:1078035,1079495}A ball?
-Dialogue: 0,0:17:59.49,0:18:03.62,Default,,0,0,0,,{TIME:1079495,1083624}{\i1}Calm down, my heart.\NMy turn's coming.
+Dialogue: 0,0:17:59.49,0:18:03.62,Thought,,0,0,0,,{TIME:1079495,1083624}Calm down, my heart.\NMy turn's coming.
 Dialogue: 0,0:18:04.50,0:18:07.04,Default,,0,0,0,,{TIME:1084500,1087044}Teacher, Maya is shaking with nervousness.
 Dialogue: 0,0:18:07.04,0:18:08.42,Default,,0,0,0,,{TIME:1087044,1088421}Is she okay?
 Dialogue: 0,0:18:10.29,0:18:11.09,Default,,0,0,0,,{TIME:1090298,1091090}Teacher?
 Dialogue: 0,0:18:11.09,0:18:12.30,Default,,0,0,0,,{TIME:1091090,1092300}What?
 Dialogue: 0,0:18:12.30,0:18:14.21,Default,,0,0,0,,{TIME:1092300,1094218}You are only a ball!
 Dialogue: 0,0:18:14.21,0:18:15.46,Default,,0,0,0,,{TIME:1094218,1095469}Shut up, you're just a bamboo stick!
-Dialogue: 0,0:18:16.17,0:18:16.92,Default,,0,0,0,,{TIME:1096178,1096929}{\i1}I'm up next.
+Dialogue: 0,0:18:16.17,0:18:16.92,Thought,,0,0,0,,{TIME:1096178,1096929}I'm up next.
 Dialogue: 0,0:18:33.15,0:18:34.82,Default,,0,0,0,,{TIME:1113154,1114822}Strange.
 Dialogue: 0,0:18:34.82,0:18:37.07,Default,,0,0,0,,{TIME:1114822,1117074}It's so quiet.
 Dialogue: 0,0:18:37.07,0:18:38.53,Default,,0,0,0,,{TIME:1117074,1118534}No one's here.
@@ -312,8 +314,8 @@ Dialogue: 0,0:18:41.37,0:18:42.53,Default,,0,0,0,,{TIME:1121370,1122538}Wait!
 Dialogue: 0,0:18:50.96,0:18:53.59,Default,,0,0,0,,{TIME:1130963,1133591}That sounds like fun.
 Comment: 0,0:18:54.50,0:18:55.42,Sign,(sign),0,0,0,,{TIME:1134508,1135426}Judging Committee
 Dialogue: 0,0:18:53.59,0:18:56.92,Default,,0,0,0,,{TIME:1133591,1136927}Everyone will laugh with your sense of humor.
-Dialogue: 0,0:18:56.92,0:18:59.38,Default,,0,0,0,,{TIME:1136927,1139388}{\i1}Serious looks on the audience's faces…
-Dialogue: 0,0:18:59.38,0:19:00.43,Default,,0,0,0,,{TIME:1139388,1140431}{\i1}What is this?
+Dialogue: 0,0:18:56.92,0:18:59.38,Thought,,0,0,0,,{TIME:1136927,1139388}Serious looks on the audience's faces…
+Dialogue: 0,0:18:59.38,0:19:00.43,Thought,,0,0,0,,{TIME:1139388,1140431}What is this?
 Dialogue: 0,0:19:04.89,0:19:06.72,Default,,0,0,0,,{TIME:1144894,1146729}How funny!
 Dialogue: 0,0:19:06.72,0:19:08.43,Default,,0,0,0,,{TIME:1146729,1148439}Hey, that's what Midori says.
 Dialogue: 0,0:19:08.43,0:19:09.56,Default,,0,0,0,,{TIME:1148439,1149565}Let's do it like that.
@@ -327,14 +329,14 @@ Dialogue: 0,0:19:29.54,0:19:31.46,Default,,0,0,0,,{TIME:1169543,1171462}Midori!
 Dialogue: 0,0:19:31.46,0:19:32.92,Default,,0,0,0,,{TIME:1171462,1172922}A terrible Midori.
 Dialogue: 0,0:19:32.92,0:19:35.25,Default,,0,0,0,,{TIME:1172922,1175257}She's running around all over the stage.
 Dialogue: 0,0:19:35.25,0:19:37.80,Default,,0,0,0,,{TIME:1175257,1177802}She's almost like a tomboy\Nrather than saucy.
-Dialogue: 0,0:19:37.80,0:19:39.51,Default,,0,0,0,,{TIME:1177802,1179512}{\i1}A terrible Midori?
-Dialogue: 0,0:19:39.51,0:19:44.10,Default,,0,0,0,,{TIME:1179512,1184100}{\i1}They call her that, but everyone\Nis glued to her acting.
-Dialogue: 0,0:19:44.10,0:19:45.30,Default,,0,0,0,,{TIME:1184100,1185309}{\i1}Why?
+Dialogue: 0,0:19:37.80,0:19:39.51,Thought,,0,0,0,,{TIME:1177802,1179512}A terrible Midori?
+Dialogue: 0,0:19:39.51,0:19:44.10,Thought,,0,0,0,,{TIME:1179512,1184100}They call her that, but everyone\Nis glued to her acting.
+Dialogue: 0,0:19:44.10,0:19:45.30,Thought,,0,0,0,,{TIME:1184100,1185309}Why?
 Comment: 0,0:20:04.91,0:20:07.74,Sign,(sign),0,0,0,,{TIME:1204912,1207748}Judging Committee
 Dialogue: 0,0:20:04.99,0:20:09.25,Default,,0,0,0,,{TIME:1204995,1209250}There is something\Nmysteriously fresh in her Midori.
 Dialogue: 0,0:20:12.16,0:20:15.17,Default,,0,0,0,,{TIME:1212169,1215172}Although she is far from the original mage…
 Dialogue: 0,0:20:15.17,0:20:17.88,Default,,0,0,0,,{TIME:1215172,1217883}…this Midori has a strong attractiveness.
-Dialogue: 0,0:20:58.46,0:21:01.88,Default,,0,0,0,,{TIME:1258466,1261886}{\i1}Did you see me, Mr. Purple Rose?
+Dialogue: 0,0:20:58.46,0:21:01.88,Thought,,0,0,0,,{TIME:1258466,1261886}Did you see me, Mr. Purple Rose?
 Dialogue: 0,0:21:06.43,0:21:10.26,Default,,0,0,0,,{TIME:1266432,1270269}We will now announce the winners.
 Dialogue: 0,0:21:10.26,0:21:13.60,Default,,0,0,0,,{TIME:1270269,1273606}The winning group will progress forward…
 Dialogue: 0,0:21:13.60,0:21:17.23,Default,,0,0,0,,{TIME:1273606,1277234}…to the National Contest as\Nthe representative from the Tōkyō district.

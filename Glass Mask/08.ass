@@ -14,6 +14,8 @@ Audio File: source/08.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00F2ECE9,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -121,15 +123,15 @@ Dialogue: 0,0:05:59.90,0:06:03.11,Default,,0,0,0,,{TIME:359901,363113}So let's t
 Dialogue: 0,0:06:03.65,0:06:04.61,Default,,0,0,0,,{TIME:363655,364614}Yes.
 Dialogue: 0,0:06:04.61,0:06:10.57,Default,,0,0,0,,{TIME:364614,370579}And if things are not good tomorrow,\Nthere's always the day after.
 Dialogue: 0,0:06:11.83,0:06:12.91,Default,,0,0,0,,{TIME:371830,372914}Maya…
-Dialogue: 0,0:06:14.62,0:06:17.58,Default,,0,0,0,,{TIME:374624,377586}{\i1}That's right, and I will be an actress someday.
+Dialogue: 0,0:06:14.62,0:06:17.58,Thought,,0,0,0,,{TIME:374624,377586}That's right, and I will be an actress someday.
 Dialogue: 0,0:06:19.79,0:06:20.75,Default,,0,0,0,,{TIME:379796,380755}Hey!
 Dialogue: 0,0:06:20.75,0:06:23.00,Default,,0,0,0,,{TIME:380755,383008}Be quiet! You're about to wreck the stairs!
 Dialogue: 0,0:06:23.00,0:06:24.71,Default,,0,0,0,,{TIME:383008,384718}Sorry!
-Dialogue: 0,0:06:30.89,0:06:33.22,Default,,0,0,0,,{TIME:390891,393226}{\i1}Even though Tsukikage Theater\Nhas gone out of business…
-Dialogue: 0,0:06:33.22,0:06:34.47,Default,,0,0,0,,{TIME:393226,394477}{\i1}…she…
-Dialogue: 0,0:06:34.47,0:06:36.77,Default,,0,0,0,,{TIME:394477,396771}{\i1}…she won't stop.
-Dialogue: 0,0:06:42.31,0:06:45.40,Default,,0,0,0,,{TIME:402319,405405}{\i1}When and how will she come in my way again?{NOTE:あなたはいつ どんな形でまた現れるか}
-Dialogue: 0,0:06:45.40,0:06:47.15,Default,,0,0,0,,{TIME:405405,407157}{\i1}I'm afraid.
+Dialogue: 0,0:06:30.89,0:06:33.22,Thought,,0,0,0,,{TIME:390891,393226}Even though Tsukikage Theater\Nhas gone out of business…
+Dialogue: 0,0:06:33.22,0:06:34.47,Thought,,0,0,0,,{TIME:393226,394477}…she…
+Dialogue: 0,0:06:34.47,0:06:36.77,Thought,,0,0,0,,{TIME:394477,396771}…she won't stop.
+Dialogue: 0,0:06:42.31,0:06:45.40,Thought,,0,0,0,,{TIME:402319,405405}When and how will she come in my way again?
+Dialogue: 0,0:06:45.40,0:06:47.15,Thought,,0,0,0,,{TIME:405405,407157}I'm afraid.
 Dialogue: 0,0:06:49.32,0:06:50.82,Default,,0,0,0,,{TIME:409326,410827}Rei, hurry!
 Dialogue: 0,0:06:52.62,0:06:53.87,Default,,0,0,0,,{TIME:412621,413872}I'm coming.
 Dialogue: 0,0:06:58.04,0:07:00.04,Default,,0,0,0,,{TIME:418043,420045}Good morning!
@@ -184,8 +186,8 @@ Dialogue: 0,0:09:47.21,0:09:50.17,Default,,0,0,0,,{TIME:587212,590173}"That's my
 Dialogue: 0,0:09:53.17,0:09:54.92,Default,,0,0,0,,{TIME:593176,594928}Oh, keep on going.
 Dialogue: 0,0:10:03.81,0:10:05.31,Default,,0,0,0,,{TIME:603812,605313}Well…
 Dialogue: 0,0:10:05.31,0:10:07.19,Default,,0,0,0,,{TIME:605313,607190}Let's stop here.
-Dialogue: 0,0:10:10.52,0:10:14.32,Default,,0,0,0,,{TIME:610527,614322}{\i1}He's all quiet now.
-Dialogue: 0,0:10:14.32,0:10:15.74,Default,,0,0,0,,{TIME:614322,615740}{\i1}How weird.
+Dialogue: 0,0:10:10.61,0:10:14.32,Thought,,0,0,0,,{TIME:610610,614322}He's all quiet now.
+Dialogue: 0,0:10:14.32,0:10:15.74,Thought,,0,0,0,,{TIME:614322,615740}How weird.
 Dialogue: 0,0:10:32.34,0:10:33.34,Default,,0,0,0,,{TIME:632340,633341}Hey, Masumi.
 Dialogue: 0,0:10:38.22,0:10:41.26,Default,,0,0,0,,{TIME:638221,641266}Did you think about\Nwhat we talked about the other day?
 Dialogue: 0,0:10:41.26,0:10:47.02,Default,,0,0,0,,{TIME:641266,647021}Yeah, but you know that Kitajima Maya hates me.
@@ -232,8 +234,8 @@ Dialogue: 0,0:13:27.39,0:13:29.80,Default,,0,0,0,,{TIME:807390,809809}Oh, no. We
 Dialogue: 0,0:13:29.80,0:13:31.89,Default,,0,0,0,,{TIME:809809,811894}Besides, aren't you still in junior high school?
 Dialogue: 0,0:13:31.89,0:13:33.06,Default,,0,0,0,,{TIME:811894,813062}But, I…
 Dialogue: 0,0:13:33.06,0:13:34.60,Default,,0,0,0,,{TIME:813062,814605}No, just go home.
-Dialogue: 0,0:13:36.23,0:13:37.94,Default,,0,0,0,,{TIME:816232,817942}{\i1}It's harder than I thought.
-Dialogue: 0,0:13:37.94,0:13:40.23,Default,,0,0,0,,{TIME:817942,820236}{\i1}I still haven't even paid my tuition yet.
+Dialogue: 0,0:13:36.23,0:13:37.94,Thought,,0,0,0,,{TIME:816232,817942}It's harder than I thought.
+Dialogue: 0,0:13:37.94,0:13:40.23,Thought,,0,0,0,,{TIME:817942,820236}I still haven't even paid my tuition yet.
 Dialogue: 0,0:13:40.86,0:13:42.28,Narrator,(narrator),0,0,0,,{TIME:820862,822280}Maya was becoming irritated.
 Dialogue: 0,0:13:42.28,0:13:44.69,Narrator,(narrator),0,0,0,,{TIME:822280,824699}Not being able to practice\Nwas the hardest of all.
 Dialogue: 0,0:13:44.69,0:13:46.53,Narrator,(narrator),0,0,0,,{TIME:824699,826534}When they started practicing\Nat their apartment…
@@ -249,8 +251,8 @@ Dialogue: 0,0:14:16.77,0:14:17.98,Default,,0,0,0,,{TIME:856773,857982}To Ondine 
 Dialogue: 0,0:14:17.98,0:14:20.06,Default,,0,0,0,,{TIME:857982,860068}Yeah, it's a good deal.
 Dialogue: 0,0:14:20.06,0:14:24.98,Default,,0,0,0,,{TIME:860068,864989}Mr. Onodera would like\Nto have you as a scholarship student.
 Dialogue: 0,0:14:24.98,0:14:26.49,Default,,0,0,0,,{TIME:864989,866491}Mr. Onodera?
-Dialogue: 0,0:14:28.82,0:14:33.95,Default,,0,0,0,,{TIME:868826,873956}{\i1}I would like to comment\Non the play by Tsukikage Theater.
-Dialogue: 0,0:14:33.95,0:14:38.46,Default,,0,0,0,,{TIME:873956,878461}{\i1}Not only that she didn't play it by the book,\Nbut she continued her selfish play!
+Dialogue: 0,0:14:28.82,0:14:33.95,Retrospective,,0,0,0,,{TIME:868826,873956}I would like to comment\Non the play by Tsukikage Theater.
+Dialogue: 0,0:14:33.95,0:14:38.46,Retrospective,,0,0,0,,{TIME:873956,878461}Not only that she didn't play it by the book,\Nbut she continued her selfish play!
 Dialogue: 0,0:14:38.46,0:14:43.04,Default,,0,0,0,,{TIME:878461,883049}Tsukikage Theater and Ondine\Nhad to be enemies at the National Contest.
 Dialogue: 0,0:14:43.04,0:14:47.72,Default,,0,0,0,,{TIME:883049,887720}But Mr. Onodera says he hates to see\Nyour talent get buried without a chance.
 Dialogue: 0,0:14:48.67,0:14:51.59,Default,,0,0,0,,{TIME:888679,891599}Sakurakōji…
@@ -278,9 +280,9 @@ Dialogue: 0,0:16:09.30,0:16:10.88,Default,,0,0,0,,{TIME:969302,970887}I'll go ho
 Dialogue: 0,0:16:10.88,0:16:13.13,Default,,0,0,0,,{TIME:970887,973139}But I won't give up on you.
 Dialogue: 0,0:16:13.13,0:16:14.30,Default,,0,0,0,,{TIME:973139,974307}See ya.
 Dialogue: 0,0:16:20.85,0:16:22.39,Default,,0,0,0,,{TIME:980855,982398}Sakurakōji.
-Dialogue: 0,0:16:25.15,0:16:27.23,Default,,0,0,0,,{TIME:985151,987236}{\i1}To be by your side.
-Dialogue: 0,0:16:27.23,0:16:29.53,Default,,0,0,0,,{TIME:987236,989530}{\i1}To look at you. To love you.
-Dialogue: 0,0:16:29.53,0:16:34.03,Default,,0,0,0,,{TIME:989530,994035}{\i1}And to help you. That's my only wish!
+Dialogue: 0,0:16:25.15,0:16:27.23,Thought,,0,0,0,,{TIME:985151,987236}To be by your side.
+Dialogue: 0,0:16:27.23,0:16:29.53,Thought,,0,0,0,,{TIME:987236,989530}To look at you.\NTo love you.
+Dialogue: 0,0:16:29.53,0:16:34.03,Thought,,0,0,0,,{TIME:989530,994035}And to help you.\NThat's my only wish!
 Dialogue: 0,0:16:42.66,0:16:43.92,Default,,0,0,0,,{TIME:1002668,1003920}See ya later!
 Dialogue: 0,0:16:43.92,0:16:45.25,Default,,0,0,0,,{TIME:1003920,1005254}Bye.
 Dialogue: 0,0:16:45.25,0:16:47.00,Default,,0,0,0,,{TIME:1005254,1007006}Working hard on Sunday, aren't you?
@@ -288,9 +290,9 @@ Dialogue: 0,0:16:47.00,0:16:48.67,Default,,0,0,0,,{TIME:1007006,1008674}Sunday i
 Dialogue: 0,0:16:48.67,0:16:50.63,Default,,0,0,0,,{TIME:1008674,1010635}Why don't you go out yourself today?
 Dialogue: 0,0:16:51.71,0:16:53.80,Default,,0,0,0,,{TIME:1011719,1013804}Hey! Slow down!
 Dialogue: 0,0:16:53.80,0:16:55.13,Default,,0,0,0,,{TIME:1013804,1015139}Sorry!
-Dialogue: 0,0:17:00.39,0:17:01.77,Default,,0,0,0,,{TIME:1020394,1021771}{\i1}It's been three weeks.
-Dialogue: 0,0:17:01.77,0:17:03.60,Default,,0,0,0,,{TIME:1021771,1023606}{\i1}Everyone is busy with work.
-Dialogue: 0,0:17:05.39,0:17:06.48,Default,,0,0,0,,{TIME:1025399,1026484}{\i1}I want to act!
+Dialogue: 0,0:17:00.39,0:17:01.77,Thought,,0,0,0,,{TIME:1020394,1021771}It's been three weeks.
+Dialogue: 0,0:17:01.77,0:17:03.60,Thought,,0,0,0,,{TIME:1021771,1023606}Everyone is busy with work.
+Dialogue: 0,0:17:05.39,0:17:06.48,Thought,,0,0,0,,{TIME:1025399,1026484}I want to act!
 Dialogue: 0,0:17:14.65,0:17:19.49,Sign,(sign),0,0,0,,{TIME:1034659,1039497}King Lear
 Dialogue: 0,0:17:25.08,0:17:26.12,Default,,0,0,0,,{TIME:1045086,1046128}Wow, a tragedy.
 Dialogue: 0,0:17:26.12,0:17:28.54,Default,,0,0,0,,{TIME:1046128,1048548}I really would like to see it.
@@ -333,8 +335,8 @@ Dialogue: 0,0:20:01.53,0:20:03.74,Default,,0,0,0,,{TIME:1201534,1203744}Do what 
 Dialogue: 0,0:20:03.74,0:20:06.03,Default,,0,0,0,,{TIME:1203744,1206038}Take your words with you.
 Dialogue: 0,0:20:06.03,0:20:09.58,Default,,0,0,0,,{TIME:1206038,1209583}From this point on,\Nwe are not father and son anymore.
 Dialogue: 0,0:20:09.58,0:20:12.21,Default,,0,0,0,,{TIME:1209583,1212211}You're not my blood anymore!
-Dialogue: 0,0:20:33.06,0:20:34.40,Default,,0,0,0,,{TIME:1233065,1234400}{\i1}It was beautiful.
-Dialogue: 0,0:20:34.40,0:20:36.69,Default,,0,0,0,,{TIME:1234400,1236694}{\i1}I wonder if I can act like that someday.
+Dialogue: 0,0:20:33.06,0:20:34.40,Thought,,0,0,0,,{TIME:1233065,1234400}It was beautiful.
+Dialogue: 0,0:20:34.40,0:20:36.69,Thought,,0,0,0,,{TIME:1234400,1236694}I wonder if I can act like that someday.
 Dialogue: 0,0:20:45.91,0:20:47.70,Default,,0,0,0,,{TIME:1245911,1247705}You were here, too?
 Dialogue: 0,0:20:47.70,0:20:50.75,Default,,0,0,0,,{TIME:1247705,1250750}Is it okay for a junior high student\Nto stay out so late?
 Dialogue: 0,0:20:50.75,0:20:51.70,Default,,0,0,0,,{TIME:1250750,1251709}It's nine o'clock already.
@@ -350,7 +352,7 @@ Dialogue: 0,0:21:13.56,0:21:18.06,Default,,0,0,0,,{TIME:1273564,1278068}You want
 Dialogue: 0,0:21:18.06,0:21:20.27,Default,,0,0,0,,{TIME:1278068,1280279}What would you do if that's true?
 Dialogue: 0,0:21:20.27,0:21:21.73,Default,,0,0,0,,{TIME:1280279,1281739}No, thank you!
 Dialogue: 0,0:21:30.83,0:21:33.00,Default,,0,0,0,,{TIME:1290831,1293000}She broke your heart beautifully.
-Dialogue: 0,0:21:34.12,0:21:36.46,Default,,0,0,0,,{TIME:1294126,1296462}{\i1}She must hate me so much.
+Dialogue: 0,0:21:34.12,0:21:36.46,Default,,0,0,0,,{TIME:1294126,1296462}She must hate me so much.
 Dialogue: 0,0:21:37.08,0:21:38.17,Default,,0,0,0,,{TIME:1297087,1298172}Mr. Masumi.
 Dialogue: 0,0:21:38.17,0:21:40.42,Default,,0,0,0,,{TIME:1298172,1300424}You seem to have so much interest in her.
 Dialogue: 0,0:21:45.13,0:21:46.76,Default,,0,0,0,,{TIME:1305137,1306764}It's my job.

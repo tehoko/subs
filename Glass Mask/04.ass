@@ -14,6 +14,8 @@ Audio File: source/04.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00E5E0EE,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -78,7 +80,7 @@ Dialogue: 0,0:03:20.66,0:03:22.28,Default,,0,0,0,,{TIME:200660,202286}What do yo
 Dialogue: 0,0:03:22.28,0:03:27.04,Default,,0,0,0,,{TIME:202286,207041}If you win first place, it'll be an excellent\Nchance to change the bad reputation.
 Dialogue: 0,0:03:27.04,0:03:30.16,Default,,0,0,0,,{TIME:207041,210169}To keep Tsukikage Theater\Nfrom going out of business…
 Dialogue: 0,0:03:30.16,0:03:32.67,Default,,0,0,0,,{TIME:210169,212672}…you have to win by any means.
-Dialogue: 0,0:03:34.00,0:03:36.75,Default,,0,0,0,,{TIME:214006,216758}{\i1}Tsukikage Theater… going out of business?
+Dialogue: 0,0:03:34.00,0:03:36.75,Thought,,0,0,0,,{TIME:214006,216758}Tsukikage Theater… going out of business?
 Dialogue: 0,0:03:43.39,0:03:47.43,Sign,(sign),0,0,0,,{TIME:223391,227436}National Acting Contest
 Dialogue: 0,0:03:49.98,0:03:51.77,Default,,0,0,0,,{TIME:229981,231774}Oh? Look over there!
 Dialogue: 0,0:03:51.77,0:03:52.27,Default,,0,0,0,,{TIME:231774,232275}Huh?
@@ -92,8 +94,8 @@ Dialogue: 0,0:04:11.33,0:04:13.46,Default,,0,0,0,,{TIME:251335,253463}Tsukikage 
 Dialogue: 0,0:04:13.46,0:04:15.46,Default,,0,0,0,,{TIME:253463,255465}There's no place for beginners here.
 Dialogue: 0,0:04:15.46,0:04:18.05,Default,,0,0,0,,{TIME:255465,258050}Bud I kind of want to see\Nhow badly they really act.
 Dialogue: 0,0:04:18.05,0:04:19.09,Default,,0,0,0,,{TIME:258050,259093}That's true.
-Dialogue: 0,0:04:20.51,0:04:21.88,Default,,0,0,0,,{TIME:260511,261888}{\i1}This is mortifying…
-Dialogue: 0,0:04:21.88,0:04:25.43,Default,,0,0,0,,{TIME:261888,265433}{\i1}Being embarrassed like this\Nbecause of those articles.
+Dialogue: 0,0:04:20.51,0:04:21.88,Thought,,0,0,0,,{TIME:260511,261888}This is mortifying…
+Dialogue: 0,0:04:21.88,0:04:25.43,Thought,,0,0,0,,{TIME:261888,265433}Being embarrassed like this\Nbecause of those articles.
 Dialogue: 0,0:04:26.14,0:04:27.89,Default,,0,0,0,,{TIME:266142,267894}Hello, Miss Tsukikage.
 Dialogue: 0,0:04:29.93,0:04:32.27,Default,,0,0,0,,{TIME:269937,272273}You girls wait for me outside.
 Dialogue: 0,0:04:32.27,0:04:32.93,Default,,0,0,0,,{TIME:272273,272939}Yes.
@@ -116,7 +118,7 @@ Dialogue: 0,0:05:21.19,0:05:24.57,Default,,0,0,0,,{TIME:321196,324574}If you giv
 Dialogue: 0,0:05:24.57,0:05:27.11,Default,,0,0,0,,{TIME:324574,327119}…then my responsibilities will be relieved.
 Dialogue: 0,0:05:27.11,0:05:30.37,Default,,0,0,0,,{TIME:327119,330373}Then, we shall get going.
 Dialogue: 0,0:05:43.13,0:05:44.47,Default,,0,0,0,,{TIME:343134,344470}What a terrible man!
-Dialogue: 0,0:05:58.86,0:06:00.15,Default,,0,0,0,,{TIME:358860,360152}{\i1}What a terrible man!
+Dialogue: 0,0:05:58.86,0:06:00.15,Thought,,0,0,0,,{TIME:358860,360152}What a terrible man!
 Dialogue: 0,0:06:04.69,0:06:05.49,Default,,0,0,0,,{TIME:364699,365491}Masumi!
 Dialogue: 0,0:06:23.30,0:06:25.55,Default,,0,0,0,,{TIME:383301,385552}I'm announcing the drama guidelines…
 Dialogue: 0,0:06:25.55,0:06:30.05,Default,,0,0,0,,{TIME:385552,390057}…for the pre-audition in the Tōkyō District\Nof the National Acting Contest.
@@ -127,7 +129,7 @@ Dialogue: 0,0:06:36.81,0:06:38.69,Default,,0,0,0,,{TIME:396814,398691}Yeah, the 
 Dialogue: 0,0:06:38.69,0:06:40.02,Default,,0,0,0,,{TIME:398691,400026}Staged in Yoshiwara.
 Dialogue: 0,0:06:40.02,0:06:42.44,Default,,0,0,0,,{TIME:400026,402445}Midori, the main role…
 Dialogue: 0,0:06:42.44,0:06:44.98,Default,,0,0,0,,{TIME:402445,404989}…will be played by Kitajima Maya.
-Dialogue: 0,0:06:46.69,0:06:47.99,Default,,0,0,0,,{TIME:406699,407992}{\i1}Me?
+Dialogue: 0,0:06:46.69,0:06:47.99,Thought,,0,0,0,,{TIME:406699,407992}Me?
 Dialogue: 0,0:06:49.82,0:06:51.99,Default,,0,0,0,,{TIME:409827,411996}Shinyo is Morikawa Akira.
 Dialogue: 0,0:06:51.99,0:06:53.78,Default,,0,0,0,,{TIME:411996,413788}Wait a minute, Teacher.
 Dialogue: 0,0:06:53.78,0:06:57.16,Default,,0,0,0,,{TIME:413788,417168}There's no way I can play the main role\Nin such an important contest.
@@ -161,18 +163,18 @@ Dialogue: 0,0:08:35.85,0:08:37.51,Default,,0,0,0,,{TIME:515850,517518}"Why don't
 Dialogue: 0,0:08:37.51,0:08:38.93,Default,,0,0,0,,{TIME:517518,518936}"Why are you so unfriendly to me?"
 Dialogue: 0,0:08:38.93,0:08:41.43,Default,,0,0,0,,{TIME:518936,521439}"Why are you so cold to me?"
 Dialogue: 0,0:08:41.43,0:08:42.39,Default,,0,0,0,,{TIME:521439,522397}"Why?"
-Dialogue: 0,0:08:43.94,0:08:45.73,Default,,0,0,0,,{TIME:523941,525734}{\i1}She's competitive and saucy.
-Dialogue: 0,0:08:45.73,0:08:48.77,Default,,0,0,0,,{TIME:525734,528779}{\i1}Yet she's feminine inside.
-Dialogue: 0,0:08:48.77,0:08:51.19,Default,,0,0,0,,{TIME:528779,531198}{\i1}I can definitely relate to the kind of girl she is.
-Dialogue: 0,0:08:51.19,0:08:52.28,Default,,0,0,0,,{TIME:531198,532282}{\i1}I know.
-Dialogue: 0,0:08:52.28,0:08:54.82,Default,,0,0,0,,{TIME:532282,534827}{\i1}I know how I'm going to play Midori.
-Dialogue: 0,0:08:54.82,0:08:56.41,Default,,0,0,0,,{TIME:534827,536412}{\i1}Midori…
-Dialogue: 0,0:08:56.41,0:09:00.20,Default,,0,0,0,,{TIME:536412,540207}{\i1}I remember a classmate kind of like her.
-Dialogue: 0,0:09:00.20,0:09:03.50,Default,,0,0,0,,{TIME:540207,543502}{\i1}She was beautiful, rich,\Nand everyone liked her.
-Dialogue: 0,0:09:03.50,0:09:07.84,Default,,0,0,0,,{TIME:543502,547840}{\i1}I've always dreamed\Nthat I could be so outspoken, like her.
-Dialogue: 0,0:09:07.84,0:09:12.47,Default,,0,0,0,,{TIME:547840,552470}{\i1}Now I can be like her in this drama.
-Dialogue: 0,0:09:13.22,0:09:14.97,Default,,0,0,0,,{TIME:553220,554972}{\i1}Acting is so much fun.
-Dialogue: 0,0:09:14.97,0:09:18.22,Default,,0,0,0,,{TIME:554972,558225}{\i1}I can be so many different\Npeople through acting!
+Dialogue: 0,0:08:43.94,0:08:45.73,Thought,,0,0,0,,{TIME:523941,525734}She's competitive and saucy.
+Dialogue: 0,0:08:45.73,0:08:48.77,Thought,,0,0,0,,{TIME:525734,528779}Yet she's feminine inside.
+Dialogue: 0,0:08:48.77,0:08:51.19,Thought,,0,0,0,,{TIME:528779,531198}I can definitely relate to the kind of girl she is.
+Dialogue: 0,0:08:51.19,0:08:52.28,Thought,,0,0,0,,{TIME:531198,532282}I know.
+Dialogue: 0,0:08:52.28,0:08:54.82,Thought,,0,0,0,,{TIME:532282,534827}I know how I'm going to play Midori.
+Dialogue: 0,0:08:54.82,0:08:56.41,Thought,,0,0,0,,{TIME:534827,536412}Midori…
+Dialogue: 0,0:08:56.41,0:09:00.20,Thought,,0,0,0,,{TIME:536412,540207}I remember a classmate kind of like her.
+Dialogue: 0,0:09:00.20,0:09:03.50,Thought,,0,0,0,,{TIME:540207,543502}She was beautiful, rich,\Nand everyone liked her.
+Dialogue: 0,0:09:03.50,0:09:07.84,Thought,,0,0,0,,{TIME:543502,547840}I've always dreamed\Nthat I could be so outspoken, like her.
+Dialogue: 0,0:09:07.84,0:09:12.47,Thought,,0,0,0,,{TIME:547840,552470}Now I can be like her in this drama.
+Dialogue: 0,0:09:13.22,0:09:14.97,Thought,,0,0,0,,{TIME:553220,554972}Acting is so much fun.
+Dialogue: 0,0:09:14.97,0:09:18.22,Thought,,0,0,0,,{TIME:554972,558225}I can be so many different\Npeople through acting!
 Dialogue: 0,0:09:21.60,0:09:22.89,Default,,0,0,0,,{TIME:561604,562897}Okay!
 Dialogue: 0,0:09:22.89,0:09:24.44,Default,,0,0,0,,{TIME:562897,564440}Get whatever you want.
 Dialogue: 0,0:09:24.44,0:09:26.40,Default,,0,0,0,,{TIME:564440,566400}I'll pay for it all.
@@ -186,15 +188,15 @@ Dialogue: 0,0:09:49.46,0:09:51.55,Default,,0,0,0,,{TIME:589465,591550}…and Shi
 Dialogue: 0,0:09:55.97,0:09:57.88,Default,,0,0,0,,{TIME:595971,597888}Hey, continue practicing.
 Dialogue: 0,0:09:58.47,0:10:01.39,Default,,0,0,0,,{TIME:598474,601393}Guys, come out running from the right side.
 Dialogue: 0,0:10:01.39,0:10:04.14,Default,,0,0,0,,{TIME:601393,604146}Concentrate and be cheerful!
-Dialogue: 0,0:10:04.14,0:10:06.56,Default,,0,0,0,,{TIME:604146,606565}{\i1}Ms. Ayumi is Midori…
-Dialogue: 0,0:10:06.56,0:10:09.19,Default,,0,0,0,,{TIME:606565,609193}{\i1}Sakurakōji is Shinyo…
+Dialogue: 0,0:10:04.14,0:10:06.56,Thought,,0,0,0,,{TIME:604146,606565}Ms. Ayumi is Midori…
+Dialogue: 0,0:10:06.56,0:10:09.19,Thought,,0,0,0,,{TIME:606565,609193}Sakurakōji is Shinyo…
 Dialogue: 0,0:10:09.19,0:10:11.94,Default,,0,0,0,,{TIME:609193,611946}I wonder if we can win over Ondine…
 Dialogue: 0,0:10:11.94,0:10:16.20,Default,,0,0,0,,{TIME:611946,616200}We have to win by any means.
 Dialogue: 0,0:10:16.20,0:10:17.86,Default,,0,0,0,,{TIME:616200,617868}To clear the bad reputation.
 Dialogue: 0,0:10:17.86,0:10:19.03,Default,,0,0,0,,{TIME:617868,619036}Yes.
 Dialogue: 0,0:10:19.03,0:10:21.91,Default,,0,0,0,,{TIME:619036,621914}Or else our theater will go out of business.
-Dialogue: 0,0:10:21.91,0:10:23.99,Default,,0,0,0,,{TIME:621914,623998}{\i1}Our theater will go out of business…
-Dialogue: 0,0:10:23.99,0:10:25.70,Default,,0,0,0,,{TIME:623998,625709}{\i1}Our theater will go out of business…
+Dialogue: 0,0:10:21.91,0:10:23.99,Retrospective,,0,0,0,,{TIME:621914,623998}Our theater will go out of business…
+Dialogue: 0,0:10:23.99,0:10:25.70,Retrospective,,0,0,0,,{TIME:623998,625709}Our theater will go out of business…
 Dialogue: 0,0:10:27.62,0:10:30.08,Default,,0,0,0,,{TIME:627628,630089}That's okay. Get whatever you want.
 Dialogue: 0,0:10:30.08,0:10:32.42,Default,,0,0,0,,{TIME:630089,632424}I'll pay for it all.
 Dialogue: 0,0:10:33.67,0:10:35.21,Default,,0,0,0,,{TIME:633676,635219}Wow, that's why I like you, Midori!
@@ -290,21 +292,21 @@ Dialogue: 0,0:15:52.95,0:15:54.74,Default,,0,0,0,,{TIME:952953,954746}I'll go te
 Dialogue: 0,0:15:57.45,0:15:58.91,Default,,0,0,0,,{TIME:957458,958917}Hear about today's business…
 Dialogue: 0,0:16:01.00,0:16:02.50,Default,,0,0,0,,{TIME:961003,962504}Business, business…
 Dialogue: 0,0:16:06.38,0:16:09.76,Default,,0,0,0,,{TIME:966383,969761}The only relationship I have\Nwith my father is through business.
-Dialogue: 0,0:16:09.76,0:16:13.93,Default,,0,0,0,,{TIME:969761,973931}{\i1}Ever since he became\Nthe president of Metropolitan Entertainment…
-Dialogue: 0,0:16:13.93,0:16:17.22,Default,,0,0,0,,{TIME:973931,977227}{\i1}…I was raised to live\Nfor Metropolitan Entertainment…
-Dialogue: 0,0:16:17.22,0:16:18.93,Default,,0,0,0,,{TIME:977227,978937}{\i1}…and I thought it was okay.
-Dialogue: 0,0:16:18.93,0:16:22.19,Default,,0,0,0,,{TIME:978937,982190}{\i1}I didn't know any other way to live.
-Dialogue: 0,0:16:22.48,0:16:23.73,Default,,0,0,0,,{TIME:982483,983734}{\i1}Masumi.
-Dialogue: 0,0:16:23.73,0:16:26.57,Default,,0,0,0,,{TIME:983734,986570}{\i1}Do as your father says.
-Dialogue: 0,0:16:26.57,0:16:30.90,Default,,0,0,0,,{TIME:986570,990907}{\i1}You are to live for the Hayamis and your father.
-Dialogue: 0,0:16:30.90,0:16:37.37,Default,,0,0,0,,{TIME:990907,997372}{\i1}Do not ever forget that,\Nfor you are soon to help your father.
-Dialogue: 0,0:16:37.37,0:16:41.29,Default,,0,0,0,,{TIME:997372,1001292}{\i1}Then he will take care of you.
-Dialogue: 0,0:16:44.37,0:16:46.88,Default,,0,0,0,,{TIME:1004379,1006882}{\i1}Why?
-Dialogue: 0,0:16:46.88,0:16:50.13,Default,,0,0,0,,{TIME:1006882,1010135}{\i1}Why do I now rebel against it?
-Dialogue: 0,0:16:50.13,0:16:56.39,Default,,0,0,0,,{TIME:1010135,1016391}{\i1}I want to live my life my way\Neven if I was dirt poor…
-Dialogue: 0,0:16:56.39,0:16:57.80,Default,,0,0,0,,{TIME:1016391,1017809}{\i1}…just like that girl.
-Dialogue: 0,0:17:02.06,0:17:05.39,Default,,0,0,0,,{TIME:1022064,1025399}{\i1}I want to follow my dream\Nand my life as I choose to…
-Dialogue: 0,0:17:08.32,0:17:09.94,Default,,0,0,0,,{TIME:1028320,1029946}{\i1}…just like she's doing.
+Dialogue: 0,0:16:09.76,0:16:13.93,Thought,,0,0,0,,{TIME:969761,973931}Ever since he became\Nthe president of Metropolitan Entertainment…
+Dialogue: 0,0:16:13.93,0:16:17.22,Thought,,0,0,0,,{TIME:973931,977227}…I was raised to live\Nfor Metropolitan Entertainment…
+Dialogue: 0,0:16:17.22,0:16:18.93,Thought,,0,0,0,,{TIME:977227,978937}…and I thought it was okay.
+Dialogue: 0,0:16:18.93,0:16:22.19,Thought,,0,0,0,,{TIME:978937,982190}I didn't know any other way to live.
+Dialogue: 0,0:16:22.48,0:16:23.73,Retrospective,,0,0,0,,{TIME:982483,983734}Masumi.
+Dialogue: 0,0:16:23.73,0:16:26.57,Retrospective,,0,0,0,,{TIME:983734,986570}Do as your father says.
+Dialogue: 0,0:16:26.57,0:16:30.90,Retrospective,,0,0,0,,{TIME:986570,990907}You are to live for the Hayamis and your father.
+Dialogue: 0,0:16:30.90,0:16:37.37,Retrospective,,0,0,0,,{TIME:990907,997372}Do not ever forget that,\Nfor you are soon to help your father.
+Dialogue: 0,0:16:37.37,0:16:41.29,Retrospective,,0,0,0,,{TIME:997372,1001292}Then he will take care of you.
+Dialogue: 0,0:16:44.37,0:16:46.88,Thought,,0,0,0,,{TIME:1004379,1006882}Why?
+Dialogue: 0,0:16:46.88,0:16:50.13,Thought,,0,0,0,,{TIME:1006882,1010135}Why do I now rebel against it?
+Dialogue: 0,0:16:50.13,0:16:56.39,Thought,,0,0,0,,{TIME:1010135,1016391}I want to live my life my way\Neven if I was dirt poor…
+Dialogue: 0,0:16:56.39,0:16:57.80,Thought,,0,0,0,,{TIME:1016391,1017809}…just like that girl.
+Dialogue: 0,0:17:02.06,0:17:05.39,Thought,,0,0,0,,{TIME:1022064,1025399}I want to follow my dream\Nand my life as I choose to…
+Dialogue: 0,0:17:08.32,0:17:09.94,Thought,,0,0,0,,{TIME:1028320,1029946}…just like she's doing.
 Dialogue: 0,0:17:09.94,0:17:12.65,Narrator,(narrator),0,0,0,,{TIME:1029946,1032657}As the opening date\Nfor the Acting Contest came closer…
 Dialogue: 0,0:17:12.65,0:17:15.57,Narrator,(narrator),0,0,0,,{TIME:1032657,1035577}…Tsukikage Theater\Nscheduled for their rehearsal.
 Dialogue: 0,0:17:15.57,0:17:19.66,Default,,0,0,0,,{TIME:1035577,1039665}The afternoon part starts at 1 PM tomorrow.
@@ -345,26 +347,26 @@ Dialogue: 0,0:18:53.09,0:18:55.80,Default,,0,0,0,,{TIME:1133091,1135802}I wonder
 Dialogue: 0,0:18:55.80,0:18:58.88,Default,,0,0,0,,{TIME:1135802,1138889}He's not good enough for her.
 Dialogue: 0,0:18:58.88,0:19:01.72,Default,,0,0,0,,{TIME:1138889,1141725}Be quiet!
 Dialogue: 0,0:19:01.72,0:19:02.89,Default,,0,0,0,,{TIME:1141725,1142893}Mr. Nobu.
-Dialogue: 0,0:19:02.89,0:19:03.93,Default,,0,0,0,,{TIME:1142893,1143935}{\i1}It's different.
-Dialogue: 0,0:19:03.93,0:19:06.68,Default,,0,0,0,,{TIME:1143935,1146688}{\i1}She's so different from my Midori…
+Dialogue: 0,0:19:02.89,0:19:03.93,Thought,,0,0,0,,{TIME:1142893,1143935}It's different.
+Dialogue: 0,0:19:03.93,0:19:06.68,Thought,,0,0,0,,{TIME:1143935,1146688}She's so different from my Midori…
 Dialogue: 0,0:19:06.68,0:19:07.68,Default,,0,0,0,,{TIME:1146688,1147688}Mr. Nobu!
 Dialogue: 0,0:19:10.19,0:19:12.86,Default,,0,0,0,,{TIME:1150192,1152861}He's not so rude to others.
 Dialogue: 0,0:19:12.86,0:19:14.52,Default,,0,0,0,,{TIME:1152861,1154529}But always like that to me.
 Dialogue: 0,0:19:15.73,0:19:18.74,Default,,0,0,0,,{TIME:1155739,1158742}He never responds when I talk to him…
 Dialogue: 0,0:19:18.74,0:19:20.74,Default,,0,0,0,,{TIME:1158742,1160744}…and runs away when I get near.
-Dialogue: 0,0:19:23.99,0:19:27.83,Default,,0,0,0,,{TIME:1163997,1167834}{\i1}Each of her movements are glowing!
+Dialogue: 0,0:19:23.99,0:19:27.83,Thought,,0,0,0,,{TIME:1163997,1167834}Each of her movements are glowing!
 Dialogue: 0,0:19:27.83,0:19:29.12,Default,,0,0,0,,{TIME:1167834,1169127}Maya!
-Dialogue: 0,0:19:34.17,0:19:36.13,Default,,0,0,0,,{TIME:1174174,1176134}{\i1}Her movement…
-Dialogue: 0,0:19:38.01,0:19:39.76,Default,,0,0,0,,{TIME:1178011,1179763}{\i1}…facial expression…
-Dialogue: 0,0:19:39.76,0:19:40.88,Default,,0,0,0,,{TIME:1179763,1180889}{\i1}Midori!
-Dialogue: 0,0:19:40.88,0:19:43.55,Default,,0,0,0,,{TIME:1180889,1183558}{\i1}She's the real Midori!
+Dialogue: 0,0:19:34.17,0:19:36.13,Thought,,0,0,0,,{TIME:1174174,1176134}Her movement…
+Dialogue: 0,0:19:38.01,0:19:39.76,Thought,,0,0,0,,{TIME:1178011,1179763}…facial expression…
+Dialogue: 0,0:19:39.76,0:19:40.88,Thought,,0,0,0,,{TIME:1179763,1180889}Midori!
+Dialogue: 0,0:19:40.88,0:19:43.55,Thought,,0,0,0,,{TIME:1180889,1183558}She's the real Midori!
 Dialogue: 0,0:19:55.36,0:19:57.44,Default,,0,0,0,,{TIME:1195362,1197447}Why just to me?
 Dialogue: 0,0:19:57.44,0:20:00.07,Default,,0,0,0,,{TIME:1197447,1200075}Why so cold to me?
 Dialogue: 0,0:20:00.07,0:20:01.44,Default,,0,0,0,,{TIME:1200075,1201447}Why to me?
-Dialogue: 0,0:20:36.82,0:20:38.53,Default,,0,0,0,,{TIME:1236820,1238530}{\i1}No way…
-Dialogue: 0,0:20:38.53,0:20:40.40,Default,,0,0,0,,{TIME:1238530,1240407}{\i1}There's no way I can win.
-Dialogue: 0,0:20:43.57,0:20:46.12,Default,,0,0,0,,{TIME:1243577,1246121}{\i1}She's a genius, just as I thought.
-Dialogue: 0,0:20:46.12,0:20:49.70,Default,,0,0,0,,{TIME:1246121,1249707}{\i1}My acting is not even a comparison.
+Dialogue: 0,0:20:36.82,0:20:38.53,Thought,,0,0,0,,{TIME:1236820,1238530}No way…
+Dialogue: 0,0:20:38.53,0:20:40.40,Thought,,0,0,0,,{TIME:1238530,1240407}There's no way I can win.
+Dialogue: 0,0:20:43.57,0:20:46.12,Thought,,0,0,0,,{TIME:1243577,1246121}She's a genius, just as I thought.
+Dialogue: 0,0:20:46.12,0:20:49.70,Thought,,0,0,0,,{TIME:1246121,1249707}My acting is not even a comparison.
 Dialogue: 0,0:20:49.70,0:20:50.83,Default,,0,0,0,,{TIME:1249707,1250834}Maya!
 Dialogue: 0,0:20:50.83,0:20:52.71,Default,,0,0,0,,{TIME:1250834,1252711}Practice is about to start.
 Dialogue: 0,0:20:52.71,0:20:53.54,Default,,0,0,0,,{TIME:1252711,1253544}Come on.
@@ -404,7 +406,7 @@ Dialogue: 0,0:22:28.84,0:22:30.60,Default,,0,0,0,,{TIME:1348849,1350600}I can't 
 Dialogue: 0,0:22:30.60,0:22:33.64,Default,,0,0,0,,{TIME:1350600,1353645}I can't act as good as Ms. Ayumi.
 Dialogue: 0,0:22:33.64,0:22:35.68,Default,,0,0,0,,{TIME:1353645,1355689}Difference…
 Dialogue: 0,0:22:35.68,0:22:38.81,Default,,0,0,0,,{TIME:1355689,1358817}There's so much difference in our abilities!
-Dialogue: 0,0:22:38.81,0:22:41.19,Default,,0,0,0,,{TIME:1358817,1361194}{\i1}There's so much difference in our abilities!
+Dialogue: 0,0:22:38.81,0:22:41.19,Thought,,0,0,0,,{TIME:1358817,1361194}There's so much difference in our abilities!
 Comment: 0,0:22:50.87,0:22:50.87,Default,[chapter],0,0,0,,{TIME:1370870,1370870}Ending
 Dialogue: 0,0:22:58.25,0:23:04.38,Ending alt,[karaoke],0,0,0,,{TIME:1378252,1384383}{\blur3}It is lonely by myself…
 Dialogue: 0,0:23:04.38,0:23:10.47,Ending alt,[karaoke],0,0,0,,{TIME:1384383,1390472}{\blur3}…and I almost stumble.

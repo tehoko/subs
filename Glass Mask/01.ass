@@ -14,6 +14,8 @@ Audio File: source/01.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00E7E6EB,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -48,14 +50,14 @@ Dialogue: 0,0:01:40.80,0:01:42.68,Default,,0,0,0,,{TIME:100809,102686}We have 12
 Dialogue: 0,0:01:42.68,0:01:45.31,Default,,0,0,0,,{TIME:102686,105314}It's impossible for you to do it alone.
 Dialogue: 0,0:01:45.31,0:01:47.39,Default,,0,0,0,,{TIME:105314,107399}I promised her because I knew she won't be able to do it.
 Dialogue: 0,0:01:47.39,0:01:50.27,Default,,0,0,0,,{TIME:107399,110277}I bought that ticket to go with Matsumoto.
-Dialogue: 0,0:02:01.49,0:02:03.58,Default,,0,0,0,,{TIME:121496,123582}{\i1}I'll get that ticket no matter what.
+Dialogue: 0,0:02:01.49,0:02:03.58,Thought,,0,0,0,,{TIME:121496,123582}I'll get that ticket no matter what.
 Dialogue: 0,0:02:06.54,0:02:07.66,Default,,0,0,0,,{TIME:126543,127669}Sugiko!
 Dialogue: 0,0:02:07.66,0:02:09.75,Default,,0,0,0,,{TIME:127669,129755}What are you putting a coat on for?\NWhere are you going?
 Dialogue: 0,0:02:09.75,0:02:12.21,Default,,0,0,0,,{TIME:129755,132215}Yamashita Park.\NI'll be right back.
 Dialogue: 0,0:02:14.30,0:02:16.09,Default,,0,0,0,,{TIME:134301,136094}Two ramens.\NHere you go.
 Dialogue: 0,0:02:16.09,0:02:17.67,Default,,0,0,0,,{TIME:136094,137679}Thank you.
-Dialogue: 0,0:02:17.67,0:02:19.55,Default,,0,0,0,,{TIME:137679,139556}{\i1}I'm running out of time.\NI have to hurry.
-Dialogue: 0,0:02:21.64,0:02:24.93,Default,,0,0,0,,{TIME:141642,144936}{\i1}I have to hurry.\NI have to hurry!
+Dialogue: 0,0:02:17.67,0:02:19.55,Thought,,0,0,0,,{TIME:137679,139556}I'm running out of time.\NI have to hurry.
+Dialogue: 0,0:02:21.64,0:02:24.93,Thought,,0,0,0,,{TIME:141642,144936}I have to hurry.\NI have to hurry!
 Dialogue: 0,0:03:02.93,0:03:05.93,Default,,0,0,0,,{TIME:182933,185936}Oh no… just as I thought.
 Dialogue: 0,0:03:05.93,0:03:09.43,Default,,0,0,0,,{TIME:185936,189439}It's just impossible.
 Dialogue: 0,0:03:09.43,0:03:11.73,Default,,0,0,0,,{TIME:189439,191733}What a silly girl.
@@ -76,7 +78,7 @@ Dialogue: 0,0:04:04.57,0:04:06.58,Default,,0,0,0,,{TIME:244578,246580}I can go!\
 Dialogue: 0,0:04:06.58,0:04:08.87,Default,,0,0,0,,{TIME:246580,248874}I can go to the play with this!
 Dialogue: 0,0:04:09.37,0:04:10.91,Default,,0,0,0,,{TIME:249374,250917}She's crazy!
 Dialogue: 0,0:04:10.91,0:04:11.96,Default,,0,0,0,,{TIME:250917,251960}She sure is!
-Dialogue: 0,0:04:13.96,0:04:15.92,Default,,0,0,0,,{TIME:253962,255920}{\i1}Finally, I've found her.
+Dialogue: 0,0:04:13.96,0:04:15.92,Thought,,0,0,0,,{TIME:253962,255920}Finally, I've found her.
 Comment: 0,0:04:17.25,0:04:17.25,Default,[chapter],0,0,0,,{TIME:257257,257257}Opening
 Dialogue: 0,0:04:24.09,0:04:32.73,Default,[title],0,0,0,,{TIME:264097,272731}THE GLASS MASK
 Dialogue: 0,0:04:32.73,0:04:37.81,Opening alt,[karaoke],0,0,0,,{TIME:272731,277819}{\blur3}On the stage, with the lights off…
@@ -126,7 +128,7 @@ Dialogue: 0,0:08:00.18,0:08:01.85,Default,,0,0,0,,{TIME:480188,481856}She doesn'
 Dialogue: 0,0:08:03.02,0:08:08.98,Narrator,(narrator),0,0,0,,{TIME:483024,488989}Himekawa Ayumi, born to the biggest\Nmovie director and a famous actress.
 Dialogue: 0,0:08:08.98,0:08:11.49,Narrator,(narrator),0,0,0,,{TIME:488989,491491}With beautiful looks\Nand a talented gift for acting…
 Dialogue: 0,0:08:11.49,0:08:14.03,Narrator,(narrator),0,0,0,,{TIME:491491,494035}…she is steadily going forward\Non the road to stardom.
-Dialogue: 0,0:08:15.12,0:08:17.99,Default,,0,0,0,,{TIME:495120,497998}{\i1}She's the same age as I am?\NI can't believe it…
+Dialogue: 0,0:08:15.12,0:08:17.99,Thought,,0,0,0,,{TIME:495120,497998}She's the same age as I am?\NI can't believe it…
 Dialogue: 0,0:08:27.46,0:08:32.01,Default,,0,0,0,,{TIME:507465,512012}Excuse me… I saw the advertisement\Nand I would like to play.
 Dialogue: 0,0:08:32.01,0:08:33.84,Default,,0,0,0,,{TIME:512012,513847}You want to be a student?
 Dialogue: 0,0:08:33.84,0:08:35.72,Default,,0,0,0,,{TIME:513847,515724}Fill this out, and take the exam, please.
@@ -135,7 +137,7 @@ Dialogue: 0,0:08:37.30,0:08:41.22,Default,,0,0,0,,{TIME:517308,521229}The admiss
 Dialogue: 0,0:08:41.22,0:08:43.52,Default,,0,0,0,,{TIME:521229,523523}Admission fee and tuition?
 Dialogue: 0,0:08:43.52,0:08:46.94,Default,,0,0,0,,{TIME:523523,526943}The admission fee is ¥150.000,\Nand the tuition will be ¥20.000 per month.
 Dialogue: 0,0:08:46.94,0:08:52.32,Default,,0,0,0,,{TIME:526943,532323}Six months' tuition has to be paid\Nin advance, so the total will be ¥270.000.
-Dialogue: 0,0:08:52.32,0:08:56.11,Default,,0,0,0,,{TIME:532323,536119}{\i1}¥270.000… there's no way\NI can come up with that much money.
+Dialogue: 0,0:08:52.32,0:08:56.11,Thought,,0,0,0,,{TIME:532323,536119}¥270.000… there's no way\NI can come up with that much money.
 Dialogue: 0,0:08:58.87,0:09:00.04,Default,,0,0,0,,{TIME:538872,540040}
 Dialogue: 0,0:09:04.04,0:09:06.25,Default,,0,0,0,,{TIME:544044,546254}
 Dialogue: 0,0:09:06.25,0:09:08.25,Default,,0,0,0,,{TIME:546254,548254}…you are not concentrating!

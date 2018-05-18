@@ -14,6 +14,8 @@ Audio File: source/06.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00E9E3EE,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -62,9 +64,9 @@ Dialogue: 0,0:02:21.09,0:02:27.14,Episode title,[title],0,0,0,,{TIME:141099,1471
 Dialogue: 0,0:02:32.90,0:02:38.24,Narrator,(narrator),0,0,0,,{TIME:152903,158241}As spring came, Maya and her crew\Nhave departed to Nagoya for the contest.
 Dialogue: 0,0:02:38.24,0:02:44.03,Narrator,(narrator),0,0,0,,{TIME:158241,164039}Tsukikage Theater will play a fairy tale-like\Nsuspense, "Gena and the Five Blue Pots."
 Dialogue: 0,0:02:44.03,0:02:46.58,Narrator,(narrator),0,0,0,,{TIME:164039,166583}Maya will again play the main role.
-Dialogue: 0,0:02:46.58,0:02:51.00,Default,,0,0,0,,{TIME:166583,171004}{\i1}I bet there will be really competitive\Nteams from all over Japan.
-Dialogue: 0,0:02:53.54,0:02:57.26,Default,,0,0,0,,{TIME:173548,177260}{\i1}I haven't seen Sakurakōji for a while.
-Dialogue: 0,0:02:57.26,0:02:58.84,Default,,0,0,0,,{TIME:177260,178845}{\i1}I wonder if I'll get to see him in Nagoya.
+Dialogue: 0,0:02:46.58,0:02:51.00,Thought,,0,0,0,,{TIME:166583,171004}I bet there will be really competitive\Nteams from all over Japan.
+Dialogue: 0,0:02:53.54,0:02:57.26,Thought,,0,0,0,,{TIME:173548,177260}I haven't seen Sakurakōji for a while.
+Dialogue: 0,0:02:57.26,0:02:58.84,Thought,,0,0,0,,{TIME:177260,178845}I wonder if I'll get to see him in Nagoya.
 Dialogue: 0,0:03:00.63,0:03:01.89,Default,,0,0,0,,{TIME:180639,181890}Here, Maya.
 Dialogue: 0,0:03:01.89,0:03:02.80,Default,,0,0,0,,{TIME:181890,182808}Hm?
 Dialogue: 0,0:03:02.80,0:03:05.10,Default,,0,0,0,,{TIME:182808,185102}Maya. Ms. Kitajima Maya.
@@ -136,18 +138,18 @@ Dialogue: 0,0:06:47.82,0:06:50.24,Default,,0,0,0,,{TIME:407823,410243}She's lost
 Dialogue: 0,0:06:54.24,0:06:55.37,Default,,0,0,0,,{TIME:414247,415373}How scary.
 Dialogue: 0,0:06:55.37,0:06:59.33,Default,,0,0,0,,{TIME:415373,419336}Despite all the weight loss, she looks\Neven more beautiful and confident.
 Dialogue: 0,0:07:04.29,0:07:05.17,Default,,0,0,0,,{TIME:424299,425175}Watch out!
-Dialogue: 0,0:07:07.17,0:07:08.47,Default,,0,0,0,,{TIME:427177,428470}{\i1}Sakurakōji!
+Dialogue: 0,0:07:07.17,0:07:08.47,Thought,,0,0,0,,{TIME:427177,428470}Sakurakōji!
 Dialogue: 0,0:07:08.46,0:07:09.84,Default,,0,0,0,,{TIME:428469,429846}Are you okay?
 Dialogue: 0,0:07:09.84,0:07:12.93,Default,,0,0,0,,{TIME:429846,432933}You must be tired,\Nso please don't overwork yourself.
 Dialogue: 0,0:07:12.93,0:07:14.14,Default,,0,0,0,,{TIME:432933,434142}Sure…
 Dialogue: 0,0:07:16.31,0:07:17.06,Default,,0,0,0,,{TIME:436311,437062}Maya!
 Dialogue: 0,0:07:32.41,0:07:33.99,Default,,0,0,0,,{TIME:452410,453995}Maya, we'll be in the room.
-Dialogue: 0,0:07:34.91,0:07:36.66,Default,,0,0,0,,{TIME:454913,456665}{\i1}Sakurakōji…
-Dialogue: 0,0:07:36.66,0:07:38.29,Default,,0,0,0,,{TIME:456665,458291}{\i1}I finally got to see you, but…
+Dialogue: 0,0:07:34.91,0:07:36.66,Thought,,0,0,0,,{TIME:454913,456665}Sakurakōji…
+Dialogue: 0,0:07:36.66,0:07:38.29,Thought,,0,0,0,,{TIME:456665,458291}I finally got to see you, but…
 Dialogue: 0,0:07:43.88,0:07:45.13,Default,,0,0,0,,{TIME:463880,465131}Maya.
 Dialogue: 0,0:07:45.13,0:07:46.59,Default,,0,0,0,,{TIME:465131,466591}Ah, Teacher.
 Dialogue: 0,0:07:46.59,0:07:48.00,Default,,0,0,0,,{TIME:466591,468009}The training is about to start downstairs.
-Dialogue: 0,0:07:51.34,0:07:54.43,Default,,0,0,0,,{TIME:471346,474432}{\i1}That's right. I have to concentrate\Nonly on acting now.
+Dialogue: 0,0:07:51.34,0:07:54.43,Thought,,0,0,0,,{TIME:471346,474432}That's right. I have to concentrate\Nonly on acting now.
 Dialogue: 0,0:07:55.76,0:07:58.35,Narrator,(narrator),0,0,0,,{TIME:475767,478353}The National Contest finally started.
 Dialogue: 0,0:07:58.35,0:08:00.81,Narrator,(narrator),0,0,0,,{TIME:478353,480813}The best troupes from all over the country…
 Dialogue: 0,0:08:00.81,0:08:04.35,Narrator,(narrator),0,0,0,,{TIME:480813,484359}…are about to compete\Nwith each other for a week.
@@ -158,7 +160,7 @@ Dialogue: 0,0:08:13.20,0:08:14.24,Default,,0,0,0,,{TIME:493201,494244}Sakurakōj
 Dialogue: 0,0:08:14.24,0:08:15.07,Default,,0,0,0,,{TIME:494244,495078}Doing well?
 Dialogue: 0,0:08:15.91,0:08:16.53,Default,,0,0,0,,{TIME:495912,496538}Yes.
 Dialogue: 0,0:08:17.45,0:08:19.49,Default,,0,0,0,,{TIME:497455,499499}We finally got here.
-Dialogue: 0,0:08:22.12,0:08:25.25,Default,,0,0,0,,{TIME:502127,505255}{\i1}I have to ask.\NI have to ask him now.
+Dialogue: 0,0:08:22.12,0:08:25.25,Thought,,0,0,0,,{TIME:502127,505255}I have to ask.\NI have to ask him now.
 Dialogue: 0,0:08:28.09,0:08:29.80,Default,,0,0,0,,{TIME:508091,509801}S-Sakurakōji?
 Dialogue: 0,0:08:29.80,0:08:33.05,Default,,0,0,0,,{TIME:509801,513054}You must be really close with Ms. Ayumi.
 Dialogue: 0,0:08:33.05,0:08:34.55,Default,,0,0,0,,{TIME:513054,514555}Oh? Maya?
@@ -192,8 +194,8 @@ Dialogue: 0,0:10:45.22,0:10:47.77,Default,,0,0,0,,{TIME:645228,647772}Please del
 Dialogue: 0,0:10:47.77,0:10:48.64,Default,,0,0,0,,{TIME:647772,648648}Yes.
 Dialogue: 0,0:10:48.64,0:10:50.06,Default,,0,0,0,,{TIME:648648,650066}It's finally the day tomorrow.
 Dialogue: 0,0:10:50.06,0:10:50.81,Default,,0,0,0,,{TIME:650066,650817}Yes.
-Dialogue: 0,0:10:51.77,0:10:53.27,Default,,0,0,0,,{TIME:651776,653278}{\i1}I'm ready.
-Dialogue: 0,0:10:53.27,0:10:55.61,Default,,0,0,0,,{TIME:653278,655613}{\i1}I'll play the best Gena I can.
+Dialogue: 0,0:10:51.77,0:10:53.27,Thought,,0,0,0,,{TIME:651776,653278}I'm ready.
+Dialogue: 0,0:10:53.27,0:10:55.61,Thought,,0,0,0,,{TIME:653278,655613}I'll play the best Gena I can.
 Comment: 0,0:11:11.67,0:11:11.67,Default,[chapter],0,0,0,,{TIME:671671,671671}Eyecatch
 Comment: 0,0:11:15.55,0:11:15.55,Default,[chapter],0,0,0,,{TIME:675550,675550}#Eyecatch
 Comment: 0,0:11:18.55,0:11:18.55,Default,[chapter],0,0,0,,{TIME:678553,678553}Part B
@@ -201,7 +203,7 @@ Dialogue: 0,0:11:33.69,0:11:35.19,Default,,0,0,0,,{TIME:693693,695195}Fresh air!
 Dialogue: 0,0:11:35.57,0:11:36.98,Default,,0,0,0,,{TIME:695570,696988}Hey, look at this!
 Dialogue: 0,0:11:36.98,0:11:37.48,Default,,0,0,0,,{TIME:696988,697488}Huh?
 Dialogue: 0,0:11:39.53,0:11:40.74,Default,,0,0,0,,{TIME:699532,700742}Ah!
-Dialogue: 0,0:11:57.50,0:11:59.42,Default,,0,0,0,,{TIME:717508,719427}{\i1}How terrible!
+Dialogue: 0,0:11:57.50,0:11:59.42,Thought,,0,0,0,,{TIME:717508,719427}How terrible!
 Dialogue: 0,0:11:59.42,0:12:01.80,Default,,0,0,0,,{TIME:719427,721804}All of our equipment\Nand costumes are destroyed!
 Dialogue: 0,0:12:01.80,0:12:03.55,Default,,0,0,0,,{TIME:721804,723555}Who in the world did this, and why?
 Dialogue: 0,0:12:03.55,0:12:07.68,Default,,0,0,0,,{TIME:723555,727685}We found all this while jogging here.
@@ -222,7 +224,7 @@ Dialogue: 0,0:12:41.34,0:12:43.47,Default,,0,0,0,,{TIME:761344,763471}What the�
 Dialogue: 0,0:12:43.47,0:12:45.09,Default,,0,0,0,,{TIME:763471,765098}Is there any evidence?
 Dialogue: 0,0:12:45.09,0:12:48.18,Default,,0,0,0,,{TIME:765098,768184}Well, there's no evidence\Nthat you are not the one.
 Dialogue: 0,0:12:48.18,0:12:49.47,Default,,0,0,0,,{TIME:768184,769477}That's bullshit!
-Dialogue: 0,0:13:11.87,0:13:12.75,Default,,0,0,0,,{TIME:791874,792750}{\i1}Maya…
+Dialogue: 0,0:13:11.87,0:13:12.75,Thought,,0,0,0,,{TIME:791874,792750}Maya…
 Dialogue: 0,0:13:24.88,0:13:25.80,Default,,0,0,0,,{TIME:804887,805805}Teacher…
 Dialogue: 0,0:13:25.80,0:13:26.59,Default,,0,0,0,,{TIME:805805,806597}Maya…
 Dialogue: 0,0:13:27.59,0:13:28.59,Default,,0,0,0,,{TIME:807598,808598}Maya…
@@ -252,7 +254,7 @@ Dialogue: 0,0:14:36.70,0:14:38.29,Default,,0,0,0,,{TIME:876709,878294}Equipment 
 Dialogue: 0,0:14:38.29,0:14:46.09,Default,,0,0,0,,{TIME:878294,886094}Yes. My nephew is an acting teacher\Nat a high school about an hour away from here.
 Dialogue: 0,0:14:46.09,0:14:47.72,Default,,0,0,0,,{TIME:886094,887720}Acting club at a high school?
 Dialogue: 0,0:14:47.72,0:14:53.47,Default,,0,0,0,,{TIME:887720,893476}I called him just for the slightest possibility,\Nand they have everything you need.
-Dialogue: 0,0:14:55.93,0:14:58.94,Default,,0,0,0,,{TIME:895937,898940}{\i1}Oh my gosh. I can play Gena now.
+Dialogue: 0,0:14:55.93,0:14:58.94,Thought,,0,0,0,,{TIME:895937,898940}Oh my gosh. I can play Gena now.
 Dialogue: 0,0:15:02.23,0:15:04.61,Default,,0,0,0,,{TIME:902235,904612}An hour drive from here…
 Dialogue: 0,0:15:04.61,0:15:08.36,Default,,0,0,0,,{TIME:904612,908366}We can leave right now and size our costumes.
 Dialogue: 0,0:15:08.36,0:15:10.86,Default,,0,0,0,,{TIME:908366,910868}Teacher, please let us go.
@@ -269,7 +271,7 @@ Dialogue: 0,0:15:52.61,0:15:54.07,Default,,0,0,0,,{TIME:952618,954078}"Rival," h
 Dialogue: 0,0:16:10.51,0:16:12.18,Default,,0,0,0,,{TIME:970511,972180}Poor girl.
 Dialogue: 0,0:16:12.18,0:16:14.39,Default,,0,0,0,,{TIME:972180,974390}I heard all their equipment was destroyed.
 Dialogue: 0,0:16:14.39,0:16:15.51,Default,,0,0,0,,{TIME:974390,975516}Destroyed?
-Dialogue: 0,0:16:26.19,0:16:28.02,Default,,0,0,0,,{TIME:986194,988029}{\i1}I wonder if Onodera was involved?
+Dialogue: 0,0:16:26.19,0:16:28.02,Thought,,0,0,0,,{TIME:986194,988029}I wonder if Onodera was involved?
 Dialogue: 0,0:16:47.67,0:16:49.46,Default,,0,0,0,,{TIME:1007673,1009467}My god, how dusty!
 Dialogue: 0,0:16:49.46,0:16:51.30,Default,,0,0,0,,{TIME:1009467,1011302}But we can use them.
 Dialogue: 0,0:16:51.30,0:16:53.67,Default,,0,0,0,,{TIME:1011302,1013679}Please take as much as you need.
@@ -278,23 +280,23 @@ Dialogue: 0,0:16:55.51,0:16:56.39,Default,,0,0,0,,{TIME:1015515,1016390}You are 
 Dialogue: 0,0:16:56.39,0:16:57.80,Default,,0,0,0,,{TIME:1016390,1017808}Thank you very much.
 Dialogue: 0,0:17:04.52,0:17:06.90,Default,,0,0,0,,{TIME:1024524,1026901}Whoa, this is a little too tight.
 Dialogue: 0,0:17:06.90,0:17:08.65,Default,,0,0,0,,{TIME:1026901,1028653}Don't complain now!
-Dialogue: 0,0:17:12.69,0:17:14.90,Default,,0,0,0,,{TIME:1032698,1034909}{\i1}It's 11:30 already.
-Dialogue: 0,0:17:14.90,0:17:17.11,Default,,0,0,0,,{TIME:1034909,1037119}{\i1}The equipment's all fixed.
-Dialogue: 0,0:17:17.11,0:17:19.20,Default,,0,0,0,,{TIME:1037119,1039205}{\i1}Now we just have to wait for them to come back.
+Dialogue: 0,0:17:12.69,0:17:14.90,Thought,,0,0,0,,{TIME:1032698,1034909}It's 11:30 already.
+Dialogue: 0,0:17:14.90,0:17:17.11,Thought,,0,0,0,,{TIME:1034909,1037119}The equipment's all fixed.
+Dialogue: 0,0:17:17.11,0:17:19.20,Thought,,0,0,0,,{TIME:1037119,1039205}Now we just have to wait for them to come back.
 Dialogue: 0,0:17:25.25,0:17:26.83,Default,,0,0,0,,{TIME:1045253,1046837}I hope it doesn't get worse.
 Dialogue: 0,0:17:38.64,0:17:41.22,Default,,0,0,0,,{TIME:1058641,1061226}Hey, are you serious?\NAre we really going to do this?
 Dialogue: 0,0:17:41.22,0:17:41.76,Default,,0,0,0,,{TIME:1061226,1061769}Yeah.
-Dialogue: 0,0:17:43.68,0:17:47.23,Default,,0,0,0,,{TIME:1063688,1067233}{\i1}It's nice to hear\Nthat you would do anything for me.
-Dialogue: 0,0:17:47.23,0:17:48.44,Default,,0,0,0,,{TIME:1067233,1068442}{\i1}Please tell us.
-Dialogue: 0,0:17:48.44,0:17:51.02,Default,,0,0,0,,{TIME:1068442,1071028}{\i1}We'll do anything.
-Dialogue: 0,0:17:51.02,0:17:53.82,Default,,0,0,0,,{TIME:1071028,1073823}{\i1}Well, you guys are so talented.
-Dialogue: 0,0:17:53.82,0:17:56.20,Default,,0,0,0,,{TIME:1073823,1076200}{\i1}If you join Ondine,\Nyou will be casted right away.
-Dialogue: 0,0:17:56.20,0:17:57.57,Default,,0,0,0,,{TIME:1076200,1077577}{\i1}Really?
-Dialogue: 0,0:17:57.57,0:18:00.66,Default,,0,0,0,,{TIME:1077577,1080663}{\i1}Yes. But to do so…
-Dialogue: 0,0:18:00.66,0:18:05.58,Default,,0,0,0,,{TIME:1080663,1085585}{\i1}…you have to show that you\Ndon't have any ties to Tsukikage Theater.
-Dialogue: 0,0:18:09.75,0:18:13.88,Default,,0,0,0,,{TIME:1089755,1093884}{\i1}Like keeping them from entering the contest.
-Dialogue: 0,0:18:13.88,0:18:14.67,Default,,0,0,0,,{TIME:1093884,1094677}{\i1}Huh?
-Dialogue: 0,0:18:16.13,0:18:19.55,Default,,0,0,0,,{TIME:1096137,1099557}{\i1}I just want you to show me some proof.
+Dialogue: 0,0:17:43.68,0:17:47.23,Retrospective,,0,0,0,,{TIME:1063688,1067233}It's nice to hear\Nthat you would do anything for me.
+Dialogue: 0,0:17:47.23,0:17:48.44,Retrospective,,0,0,0,,{TIME:1067233,1068442}Please tell us.
+Dialogue: 0,0:17:48.44,0:17:51.02,Retrospective,,0,0,0,,{TIME:1068442,1071028}We'll do anything.
+Dialogue: 0,0:17:51.02,0:17:53.82,Retrospective,,0,0,0,,{TIME:1071028,1073823}Well, you guys are so talented.
+Dialogue: 0,0:17:53.82,0:17:56.20,Retrospective,,0,0,0,,{TIME:1073823,1076200}If you join Ondine,\Nyou will be casted right away.
+Dialogue: 0,0:17:56.20,0:17:57.57,Retrospective,,0,0,0,,{TIME:1076200,1077577}Really?
+Dialogue: 0,0:17:57.57,0:18:00.66,Retrospective,,0,0,0,,{TIME:1077577,1080663}Yes. But to do so…
+Dialogue: 0,0:18:00.66,0:18:05.58,Retrospective,,0,0,0,,{TIME:1080663,1085585}…you have to show that you\Ndon't have any ties to Tsukikage Theater.
+Dialogue: 0,0:18:09.75,0:18:13.88,Retrospective,,0,0,0,,{TIME:1089755,1093884}Like keeping them from entering the contest.
+Dialogue: 0,0:18:13.88,0:18:14.67,Retrospective,,0,0,0,,{TIME:1093884,1094677}Huh?
+Dialogue: 0,0:18:16.13,0:18:19.55,Retrospective,,0,0,0,,{TIME:1096137,1099557}I just want you to show me some proof.
 Dialogue: 0,0:18:24.64,0:18:25.89,Default,,0,0,0,,{TIME:1104645,1105896}What's wrong?
 Dialogue: 0,0:18:25.89,0:18:27.89,Default,,0,0,0,,{TIME:1105896,1107896}Something's wrong with the engine.
 Dialogue: 0,0:18:33.40,0:18:35.19,Default,,0,0,0,,{TIME:1113404,1115197}Do it now.
@@ -306,8 +308,8 @@ Dialogue: 0,0:18:45.16,0:18:46.50,Default,,0,0,0,,{TIME:1125166,1126500}We'll be
 Dialogue: 0,0:18:46.50,0:18:48.87,Default,,0,0,0,,{TIME:1126500,1128878}Please, as soon as possible.
 Dialogue: 0,0:18:50.58,0:18:52.42,Default,,0,0,0,,{TIME:1130588,1132423}Why does the truck have to break down now?
 Dialogue: 0,0:18:54.00,0:18:55.59,Default,,0,0,0,,{TIME:1134008,1135592}Something's strange here.
-Dialogue: 0,0:19:00.13,0:19:01.51,Default,,0,0,0,,{TIME:1140139,1141515}{\i1}Something's wrong.
-Dialogue: 0,0:19:01.51,0:19:03.05,Default,,0,0,0,,{TIME:1141515,1143059}{\i1}They should have been here a long time ago.
+Dialogue: 0,0:19:00.13,0:19:01.51,Thought,,0,0,0,,{TIME:1140139,1141515}Something's wrong.
+Dialogue: 0,0:19:01.51,0:19:03.05,Thought,,0,0,0,,{TIME:1141515,1143059}They should have been here a long time ago.
 Dialogue: 0,0:19:08.93,0:19:10.52,Default,,0,0,0,,{TIME:1148939,1150524}Please start getting ready soon.
 Dialogue: 0,0:19:10.52,0:19:13.98,Default,,0,0,0,,{TIME:1150524,1153986}This play should be over by 1:40 PM.
 Dialogue: 0,0:19:13.98,0:19:14.94,Default,,0,0,0,,{TIME:1153986,1154945}Yes.
@@ -326,12 +328,12 @@ Dialogue: 0,0:19:54.90,0:19:56.15,Default,,0,0,0,,{TIME:1194902,1196153}Please.
 Dialogue: 0,0:19:56.15,0:19:57.07,Default,,0,0,0,,{TIME:1196153,1197071}What?
 Dialogue: 0,0:19:57.07,0:19:58.98,Default,,0,0,0,,{TIME:1197071,1198989}The stage set is not here yet?
 Dialogue: 0,0:19:58.98,0:20:02.74,Default,,0,0,0,,{TIME:1198989,1202743}That's a problem. You have\Nto set it up as soon as this play is over.
-Dialogue: 0,0:20:06.20,0:20:07.74,Default,,0,0,0,,{TIME:1206205,1207748}{\i1}The play just got done.
-Dialogue: 0,0:20:08.58,0:20:10.12,Default,,0,0,0,,{TIME:1208582,1210126}{\i1}Twenty minutes left.
-Dialogue: 0,0:20:10.12,0:20:11.46,Default,,0,0,0,,{TIME:1210126,1211460}{\i1}Please come back…
-Dialogue: 0,0:20:12.71,0:20:14.58,Default,,0,0,0,,{TIME:1212712,1214588}{\i1}Rei, Sayaka…
-Dialogue: 0,0:20:14.58,0:20:15.54,Default,,0,0,0,,{TIME:1214588,1215548}{\i1}Everyone…
-Dialogue: 0,0:20:15.54,0:20:16.54,Default,,0,0,0,,{TIME:1215548,1216549}{\i1}Please!
+Dialogue: 0,0:20:06.20,0:20:07.74,Thought,,0,0,0,,{TIME:1206205,1207748}The play just got done.
+Dialogue: 0,0:20:08.58,0:20:10.12,Thought,,0,0,0,,{TIME:1208582,1210126}Twenty minutes left.
+Dialogue: 0,0:20:10.12,0:20:11.46,Thought,,0,0,0,,{TIME:1210126,1211460}Please come back…
+Dialogue: 0,0:20:12.71,0:20:14.58,Thought,,0,0,0,,{TIME:1212712,1214588}Rei, Sayaka…
+Dialogue: 0,0:20:14.58,0:20:15.54,Thought,,0,0,0,,{TIME:1214588,1215548}Everyone…
+Dialogue: 0,0:20:15.54,0:20:16.54,Thought,,0,0,0,,{TIME:1215548,1216549}Please!
 Dialogue: 0,0:20:24.01,0:20:25.64,Default,,0,0,0,,{TIME:1224014,1225641}Why don't you get back inside?
 Dialogue: 0,0:20:25.64,0:20:27.01,Default,,0,0,0,,{TIME:1225641,1227017}You'll catch a cold.
 Dialogue: 0,0:20:27.01,0:20:28.18,Default,,0,0,0,,{TIME:1227017,1228185}Leave me alone.
@@ -347,14 +349,14 @@ Dialogue: 0,0:20:59.13,0:21:00.55,Default,,0,0,0,,{TIME:1259133,1260551}You're r
 Dialogue: 0,0:21:00.55,0:21:02.09,Default,,0,0,0,,{TIME:1260551,1262094}You're totally right.
 Dialogue: 0,0:21:04.84,0:21:07.55,Default,,0,0,0,,{TIME:1264847,1267558}It's always better to have fewer rivals.
 Dialogue: 0,0:21:07.55,0:21:10.47,Default,,0,0,0,,{TIME:1267558,1270478}You guys especially should be out.
-Dialogue: 0,0:21:16.31,0:21:17.40,Default,,0,0,0,,{TIME:1276317,1277401}{\i1}Terrible!
-Dialogue: 0,0:21:17.40,0:21:18.86,Default,,0,0,0,,{TIME:1277401,1278861}{\i1}What a terrible thing to say!
-Dialogue: 0,0:21:34.00,0:21:36.04,Default,,0,0,0,,{TIME:1294001,1296045}{\i1}I…
-Dialogue: 0,0:21:36.04,0:21:38.13,Default,,0,0,0,,{TIME:1296045,1298130}{\i1}…will never…
-Dialogue: 0,0:21:38.13,0:21:39.63,Default,,0,0,0,,{TIME:1298130,1299632}{\i1}…ever forgive him!
-Dialogue: 0,0:21:50.81,0:21:52.89,Default,,0,0,0,,{TIME:1310810,1312895}{\i1}Look at me. I'm Hayami Masumi.
-Dialogue: 0,0:21:54.43,0:21:58.44,Default,,0,0,0,,{TIME:1314438,1318442}{\i1}The president of Metropolitan Entertainment.
-Dialogue: 0,0:21:59.81,0:22:02.32,Default,,0,0,0,,{TIME:1319819,1322321}{\i1}And I'm all soaking wet for this little girl.
+Dialogue: 0,0:21:16.31,0:21:17.40,Thought,,0,0,0,,{TIME:1276317,1277401}Terrible!
+Dialogue: 0,0:21:17.40,0:21:18.86,Thought,,0,0,0,,{TIME:1277401,1278861}What a terrible thing to say!
+Dialogue: 0,0:21:34.00,0:21:36.04,Thought,,0,0,0,,{TIME:1294001,1296045}I…
+Dialogue: 0,0:21:36.04,0:21:38.13,Thought,,0,0,0,,{TIME:1296045,1298130}…will never…
+Dialogue: 0,0:21:38.13,0:21:39.63,Thought,,0,0,0,,{TIME:1298130,1299632}…ever forgive him!
+Dialogue: 0,0:21:50.81,0:21:52.89,Thought,,0,0,0,,{TIME:1310810,1312895}Look at me. I'm Hayami Masumi.
+Dialogue: 0,0:21:54.43,0:21:58.44,Thought,,0,0,0,,{TIME:1314438,1318442}The president of Metropolitan Entertainment.
+Dialogue: 0,0:21:59.81,0:22:02.32,Thought,,0,0,0,,{TIME:1319819,1322321}And I'm all soaking wet for this little girl.
 Dialogue: 0,0:22:08.16,0:22:09.32,Default,,0,0,0,,{TIME:1328160,1329328}Don't kid me like this!
 Dialogue: 0,0:22:09.32,0:22:12.28,Default,,0,0,0,,{TIME:1329328,1332289}You won't be able to make it on time\Nif you don't start setting up now.
 Dialogue: 0,0:22:12.28,0:22:13.70,Default,,0,0,0,,{TIME:1332289,1333707}You don't have your actors yet either.
@@ -362,8 +364,8 @@ Dialogue: 0,0:22:13.70,0:22:15.75,Default,,0,0,0,,{TIME:1333707,1335751}I have n
 Dialogue: 0,0:22:17.25,0:22:21.13,Default,,0,0,0,,{TIME:1337253,1341131}If they don't show up by 2 PM,\Nthen you will be forced to withdraw.
 Dialogue: 0,0:22:21.13,0:22:22.04,Default,,0,0,0,,{TIME:1341131,1342049}Huh?
 Dialogue: 0,0:22:22.04,0:22:23.09,Default,,0,0,0,,{TIME:1342049,1343092}Do you understand?
-Dialogue: 0,0:22:23.09,0:22:24.30,Default,,0,0,0,,{TIME:1343092,1344301}{\i1}Withdraw?
-Dialogue: 0,0:22:32.68,0:22:33.72,Default,,0,0,0,,{TIME:1352685,1353727}{\i1}Please come back…
+Dialogue: 0,0:22:23.09,0:22:24.30,Thought,,0,0,0,,{TIME:1343092,1344301}Withdraw?
+Dialogue: 0,0:22:32.68,0:22:33.72,Thought,,0,0,0,,{TIME:1352685,1353727}Please come back…
 Comment: 0,0:22:51.24,0:22:51.24,Default,[chapter],0,0,0,,{TIME:1371245,1371245}Ending
 Dialogue: 0,0:22:58.58,0:23:04.71,Ending alt,[karaoke],0,0,0,,{TIME:1378586,1384716}{\blur3}It is lonely by myself…
 Dialogue: 0,0:23:04.71,0:23:10.80,Ending alt,[karaoke],0,0,0,,{TIME:1384716,1390806}{\blur3}…and I almost stumble.

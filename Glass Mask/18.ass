@@ -14,6 +14,8 @@ Audio File: source/18.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00EAE3E7,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -75,7 +77,7 @@ Dialogue: 0,0:03:27.67,0:03:27.67,Default,,0,0,0,,{TIME:207674,207674}That's rig
 Dialogue: 0,0:03:33.51,0:03:33.51,Default,,0,0,0,,{TIME:213513,213513}That's the reason\NI moved out of the house.
 Dialogue: 0,0:03:36.58,0:03:36.58,Default,,0,0,0,,{TIME:216583,216583}I don't need my mother's reputation to get this role.
 Dialogue: 0,0:03:39.85,0:03:39.85,Default,,0,0,0,,{TIME:219853,219853}I will win this role solely with my talent.
-Dialogue: 0,0:03:42.78,0:03:42.78,Default,,0,0,0,,{TIME:222789,222789}{\i1}Ayumi,\Nwhat a strict person you are.
+Dialogue: 0,0:03:42.78,0:03:42.78,Thought,,0,0,0,,{TIME:222789,222789}Ayumi,\Nwhat a strict person you are.
 Dialogue: 0,0:03:49.22,0:03:49.22,Narrator,(narrator),0,0,0,,{TIME:229229,229229}"The Miracle Worker" is an inspiring and touching drama about a girl Helen Keller, who can't hear, see, nor speak but comes to understand words through Ms. Sullivan's passionate and persistent education.
 Dialogue: 0,0:04:09.81,0:04:09.81,Narrator,(narrator),0,0,0,,{TIME:249816,249816}When school got out for summer break, Maya started practicing everyday at the church with Rei.
 Dialogue: 0,0:04:15.58,0:04:15.58,Default,,0,0,0,,{TIME:255588,255588}Sit still and eat this.
@@ -96,8 +98,8 @@ Dialogue: 0,0:05:00.50,0:05:00.50,Default,,0,0,0,,{TIME:300500,300500}Not like t
 Dialogue: 0,0:05:03.37,0:05:03.37,Default,,0,0,0,,{TIME:303370,303370}Now, Maya, play as Helen.
 Dialogue: 0,0:05:07.40,0:05:07.40,Default,,0,0,0,,{TIME:307407,307407}What?
 Dialogue: 0,0:05:09.34,0:05:09.34,Default,,0,0,0,,{TIME:309342,309342}Now, now…
-Dialogue: 0,0:05:13.38,0:05:13.38,Default,,0,0,0,,{TIME:313380,313380}{\i1}Play as Helen?
-Dialogue: 0,0:05:14.68,0:05:14.68,Default,,0,0,0,,{TIME:314681,314681}{\i1}Play as Helen, who is blind, deaf,\Nand not able to speak.
+Dialogue: 0,0:05:13.38,0:05:13.38,Thought,,0,0,0,,{TIME:313380,313380}Play as Helen?
+Dialogue: 0,0:05:14.68,0:05:14.68,Thought,,0,0,0,,{TIME:314681,314681}Play as Helen, who is blind, deaf,\Nand not able to speak.
 Dialogue: 0,0:05:20.15,0:05:20.15,Default,,0,0,0,,{TIME:320153,320153}If you can't do that, you will never\Nknow the real Helen. Understand?
 Dialogue: 0,0:05:25.65,0:05:25.65,Default,,0,0,0,,{TIME:325658,325658}Teacher, that's enough.\NI can practice with her now.
 Dialogue: 0,0:05:32.03,0:05:32.03,Default,,0,0,0,,{TIME:332032,332032}Yeah, here it is.
@@ -108,8 +110,8 @@ Dialogue: 0,0:05:42.54,0:05:42.54,Default,,0,0,0,,{TIME:342542,342542}No way.\NT
 Dialogue: 0,0:05:51.25,0:05:51.25,Default,,0,0,0,,{TIME:351251,351251}Teacher!
 Dialogue: 0,0:05:56.72,0:05:56.72,Default,,0,0,0,,{TIME:356723,356723}What a patient she is.
 Dialogue: 0,0:05:59.79,0:05:59.79,Default,,0,0,0,,{TIME:359793,359793}If she continues like this,\Nshe'll never get better.
-Dialogue: 0,0:06:04.96,0:06:04.96,Default,,0,0,0,,{TIME:364964,364964}{\i1}Teacher is ill,\Nand the practice hall is gone…
-Dialogue: 0,0:06:08.90,0:06:08.90,Default,,0,0,0,,{TIME:368902,368902}{\i1}What should I do now?
+Dialogue: 0,0:06:04.96,0:06:04.96,Thought,,0,0,0,,{TIME:364964,364964}Teacher is ill,\Nand the practice hall is gone…
+Dialogue: 0,0:06:08.90,0:06:08.90,Thought,,0,0,0,,{TIME:368902,368902}What should I do now?
 Dialogue: 0,0:06:29.78,0:06:29.78,Default,,0,0,0,,{TIME:389789,389789}I have a report about the five\Ncandidates for Helen Keller.
 Dialogue: 0,0:06:32.95,0:06:32.95,Default,,0,0,0,,{TIME:392959,392959}Yes.
 Dialogue: 0,0:06:35.66,0:06:35.66,Default,,0,0,0,,{TIME:395662,395662}Shiratori Reina is getting\Nstrict training at her theater.
@@ -129,14 +131,14 @@ Dialogue: 0,0:07:52.00,0:07:52.00,Default,,0,0,0,,{TIME:472005,472005}Wow, there
 Dialogue: 0,0:07:57.37,0:07:57.37,Default,,0,0,0,,{TIME:477377,477377}I'm going.
 Dialogue: 0,0:07:59.81,0:07:59.81,Default,,0,0,0,,{TIME:479813,479813}Maya.
 Dialogue: 0,0:08:02.51,0:08:02.51,Default,,0,0,0,,{TIME:482515,482515}I'll go and practice\NHelen's role there.
-Dialogue: 0,0:08:07.12,0:08:07.12,Default,,0,0,0,,{TIME:487120,487120}{\i1}"I will not be able to be there,\Nbut my friends will look after you."
-Dialogue: 0,0:08:16.12,0:08:16.12,Default,,0,0,0,,{TIME:496129,496129}{\i1}Mr. Purple Rose always helps\Nme out whenever I'm in need.
-Dialogue: 0,0:08:20.16,0:08:20.16,Default,,0,0,0,,{TIME:500166,500166}{\i1}He's like my guardian angel.
+Dialogue: 0,0:08:07.12,0:08:07.12,Thought,,0,0,0,,{TIME:487120,487120}"I will not be able to be there,\Nbut my friends will look after you."
+Dialogue: 0,0:08:16.12,0:08:16.12,Thought,,0,0,0,,{TIME:496129,496129}Mr. Purple Rose always helps\Nme out whenever I'm in need.
+Dialogue: 0,0:08:20.16,0:08:20.16,Thought,,0,0,0,,{TIME:500166,500166}He's like my guardian angel.
 Dialogue: 0,0:08:31.67,0:08:31.67,Sign,(sign),0,0,0,,{TIME:511678,511678}Bidoro
 Dialogue: 0,0:08:32.67,0:08:32.67,Default,,0,0,0,,{TIME:512679,512679}Hey, Sakurakōji.\NYou should have came a day earlier.
 Dialogue: 0,0:08:35.81,0:08:35.81,Default,,0,0,0,,{TIME:515815,515815}Why?
 Dialogue: 0,0:08:37.05,0:08:37.05,Default,,0,0,0,,{TIME:517050,517050}You know, Mr. Purple Rose.\NShe got an invitation from him.
-Dialogue: 0,0:08:49.46,0:08:49.46,Default,,0,0,0,,{TIME:529462,529462}{\i1}Maya, I can't do anything\Nfor you, can I?
+Dialogue: 0,0:08:49.46,0:08:49.46,Thought,,0,0,0,,{TIME:529462,529462}Maya, I can't do anything\Nfor you, can I?
 Dialogue: 0,0:09:04.31,0:09:04.31,Default,,0,0,0,,{TIME:544310,544310}How nice!
 Dialogue: 0,0:09:07.51,0:09:07.51,Default,,0,0,0,,{TIME:547514,547514}Hi there, welcome.
 Dialogue: 0,0:09:09.98,0:09:09.98,Default,,0,0,0,,{TIME:549983,549983}I'm Yamashita, the house sitter.
@@ -155,8 +157,8 @@ Dialogue: 0,0:09:59.83,0:09:59.83,Sign,(sign),0,0,0,,{TIME:599833,599833}Ms. Kit
 Dialogue: 0,0:10:01.13,0:10:01.13,Default,,0,0,0,,{TIME:601134,601134}"I hope you will have\Na wonderful time."
 Dialogue: 0,0:10:04.33,0:10:04.33,Default,,0,0,0,,{TIME:604337,604337}"I do have one wish:\Nplease don't ask around about me."
 Dialogue: 0,0:10:11.41,0:10:11.41,Default,,0,0,0,,{TIME:611411,611411}"—Mr. Purple Rose."
-Dialogue: 0,0:10:22.72,0:10:22.72,Default,,0,0,0,,{TIME:622722,622722}{\i1}I understand.\NI won't ask about you anymore.
-Dialogue: 0,0:10:26.39,0:10:26.39,Default,,0,0,0,,{TIME:626393,626393}{\i1}I will win Helen's role here.
+Dialogue: 0,0:10:22.72,0:10:22.72,Thought,,0,0,0,,{TIME:622722,622722}I understand.\NI won't ask about you anymore.
+Dialogue: 0,0:10:26.39,0:10:26.39,Thought,,0,0,0,,{TIME:626393,626393}I will win Helen's role here.
 Comment: 0,0:10:45.72,0:10:45.72,Default,[chapter],0,0,0,,{TIME:645728,645728}Eyecatch
 Comment: 0,0:10:49.52,0:10:49.52,Default,[chapter],0,0,0,,{TIME:649524,649524}#Eyecatch
 Comment: 0,0:10:52.48,0:10:52.48,Default,[chapter],0,0,0,,{TIME:652485,652485}Part B
@@ -175,16 +177,16 @@ Dialogue: 0,0:11:41.43,0:11:41.43,Default,,0,0,0,,{TIME:701434,701434}No, being 
 Dialogue: 0,0:11:45.60,0:11:45.60,Default,,0,0,0,,{TIME:705605,705605}She's better off by herself.
 Dialogue: 0,0:11:48.37,0:11:48.37,Default,,0,0,0,,{TIME:708375,708375}By herself?
 Dialogue: 0,0:11:52.97,0:11:52.97,Default,,0,0,0,,{TIME:712979,712979}Yes.\NAll by herself.
-Dialogue: 0,0:11:58.81,0:11:58.81,Default,,0,0,0,,{TIME:718818,718818}{\i1}Helen… I still don't understand you.
-Dialogue: 0,0:12:02.85,0:12:02.85,Default,,0,0,0,,{TIME:722856,722856}{\i1}What was your everyday life like?
-Dialogue: 0,0:12:05.55,0:12:05.55,Default,,0,0,0,,{TIME:725558,725558}{\i1}How did you spend a day?
-Dialogue: 0,0:12:10.79,0:12:10.79,Default,,0,0,0,,{TIME:730797,730797}{\i1}Helen…
-Dialogue: 0,0:12:13.60,0:12:13.60,Default,,0,0,0,,{TIME:733600,733600}{\i1}Helen's life.
+Dialogue: 0,0:11:58.81,0:11:58.81,Thought,,0,0,0,,{TIME:718818,718818}Helen… I still don't understand you.
+Dialogue: 0,0:12:02.85,0:12:02.85,Thought,,0,0,0,,{TIME:722856,722856}What was your everyday life like?
+Dialogue: 0,0:12:05.55,0:12:05.55,Thought,,0,0,0,,{TIME:725558,725558}How did you spend a day?
+Dialogue: 0,0:12:10.79,0:12:10.79,Thought,,0,0,0,,{TIME:730797,730797}Helen…
+Dialogue: 0,0:12:13.60,0:12:13.60,Thought,,0,0,0,,{TIME:733600,733600}Helen's life.
 Dialogue: 0,0:12:19.67,0:12:19.67,Default,,0,0,0,,{TIME:739673,739673}I got it.\NI'll live as Helen.
-Dialogue: 0,0:12:25.91,0:12:25.91,Default,,0,0,0,,{TIME:745912,745912}{\i1}Some cotton…
-Dialogue: 0,0:12:30.68,0:12:30.68,Default,,0,0,0,,{TIME:750684,750684}{\i1}…and some dressing.
-Dialogue: 0,0:12:33.65,0:12:33.65,Default,,0,0,0,,{TIME:753653,753653}{\i1}Helen's life.
-Dialogue: 0,0:12:36.95,0:12:36.95,Default,,0,0,0,,{TIME:756956,756956}{\i1}I'll live as Helen,\Nin the darkness and silence.
+Dialogue: 0,0:12:25.91,0:12:25.91,Thought,,0,0,0,,{TIME:745912,745912}Some cotton…
+Dialogue: 0,0:12:30.68,0:12:30.68,Thought,,0,0,0,,{TIME:750684,750684}…and some dressing.
+Dialogue: 0,0:12:33.65,0:12:33.65,Thought,,0,0,0,,{TIME:753653,753653}Helen's life.
+Dialogue: 0,0:12:36.95,0:12:36.95,Thought,,0,0,0,,{TIME:756956,756956}I'll live as Helen,\Nin the darkness and silence.
 Dialogue: 0,0:12:57.14,0:12:57.14,Default,,0,0,0,,{TIME:777143,777143}Maya, Maya.\NMaya!
 Dialogue: 0,0:12:59.54,0:12:59.54,Default,,0,0,0,,{TIME:779546,779546}It's strange, dear.\NAll the windows are closed.
 Dialogue: 0,0:13:03.45,0:13:03.45,Default,,0,0,0,,{TIME:783450,783450}Here, let me have the key.
@@ -196,25 +198,25 @@ Dialogue: 0,0:13:25.57,0:13:25.57,Default,,0,0,0,,{TIME:805572,805572}Huh?
 Dialogue: 0,0:13:25.77,0:13:25.77,Default,,0,0,0,,{TIME:805772,805772}Upstairs.
 Dialogue: 0,0:13:45.39,0:13:45.39,Default,,0,0,0,,{TIME:825392,825392}Ma-Maya…
 Dialogue: 0,0:13:50.26,0:13:50.26,Default,,0,0,0,,{TIME:830263,830263}Maya!
-Dialogue: 0,0:13:52.56,0:13:52.56,Default,,0,0,0,,{TIME:832565,832565}{\i1}Who?\NA touch, but whose hand?
-Dialogue: 0,0:14:02.34,0:14:02.34,Default,,0,0,0,,{TIME:842342,842342}{\i1}Oh, the caretakers.
+Dialogue: 0,0:13:52.56,0:13:52.56,Thought,,0,0,0,,{TIME:832565,832565}Who?\NA touch, but whose hand?
+Dialogue: 0,0:14:02.34,0:14:02.34,Thought,,0,0,0,,{TIME:842342,842342}Oh, the caretakers.
 Dialogue: 0,0:14:05.24,0:14:05.24,Default,,0,0,0,,{TIME:845245,845245}What's wrong, Maya?
 Dialogue: 0,0:14:07.01,0:14:07.01,Default,,0,0,0,,{TIME:847013,847013}What in the world is going on?
 Dialogue: 0,0:14:14.12,0:14:14.12,Default,,0,0,0,,{TIME:854120,854120}Do · not · wo·rry.
 Dialogue: 0,0:14:18.92,0:14:18.92,Default,,0,0,0,,{TIME:858925,858925}This · is · prac·tice · for · my · act·ing?
 Dialogue: 0,0:14:35.84,0:14:35.84,Default,,0,0,0,,{TIME:875842,875842}Say, dear, she says not to worry,\Nbut do you think she's really okay?
 Dialogue: 0,0:14:40.24,0:14:40.24,Default,,0,0,0,,{TIME:880246,880246}Maybe…
-Dialogue: 0,0:14:43.01,0:14:43.01,Default,,0,0,0,,{TIME:883016,883016}{\i1}They came,\Nthat means morning is here.
-Dialogue: 0,0:14:47.65,0:14:47.65,Default,,0,0,0,,{TIME:887654,887654}{\i1}I'm hungry.
-Dialogue: 0,0:15:37.80,0:15:37.80,Default,,0,0,0,,{TIME:937804,937804}{\i1}Here it is!\NThe fridge.
-Dialogue: 0,0:16:08.50,0:16:08.50,Default,,0,0,0,,{TIME:968501,968501}{\i1}I wonder what time it is now.
-Dialogue: 0,0:16:10.63,0:16:10.63,Default,,0,0,0,,{TIME:970637,970637}{\i1}Night, or day?\NOr morning?
-Dialogue: 0,0:16:15.70,0:16:15.70,Default,,0,0,0,,{TIME:975709,975709}{\i1}Many thoughts come\Nto me as I sit like this.
-Dialogue: 0,0:16:20.61,0:16:20.61,Default,,0,0,0,,{TIME:980613,980613}{\i1}Sakurakōji.\NHow is he?
-Dialogue: 0,0:16:23.91,0:16:23.91,Default,,0,0,0,,{TIME:983917,983917}{\i1}Teacher and Rei.
-Dialogue: 0,0:16:25.88,0:16:25.88,Default,,0,0,0,,{TIME:985885,985885}{\i1}It feels so long\Nsince I last saw them.
-Dialogue: 0,0:16:33.29,0:16:33.29,Default,,0,0,0,,{TIME:993293,993293}{\i1}Mother.
-Dialogue: 0,0:16:35.12,0:16:35.12,Default,,0,0,0,,{TIME:995128,995128}{\i1}You have been missing,\Nbut where are you, Mother?
+Dialogue: 0,0:14:43.01,0:14:43.01,Thought,,0,0,0,,{TIME:883016,883016}They came,\Nthat means morning is here.
+Dialogue: 0,0:14:47.65,0:14:47.65,Thought,,0,0,0,,{TIME:887654,887654}I'm hungry.
+Dialogue: 0,0:15:37.80,0:15:37.80,Thought,,0,0,0,,{TIME:937804,937804}Here it is!\NThe fridge.
+Dialogue: 0,0:16:08.50,0:16:08.50,Thought,,0,0,0,,{TIME:968501,968501}I wonder what time it is now.
+Dialogue: 0,0:16:10.63,0:16:10.63,Thought,,0,0,0,,{TIME:970637,970637}Night, or day?\NOr morning?
+Dialogue: 0,0:16:15.70,0:16:15.70,Thought,,0,0,0,,{TIME:975709,975709}Many thoughts come\Nto me as I sit like this.
+Dialogue: 0,0:16:20.61,0:16:20.61,Thought,,0,0,0,,{TIME:980613,980613}Sakurakōji.\NHow is he?
+Dialogue: 0,0:16:23.91,0:16:23.91,Thought,,0,0,0,,{TIME:983917,983917}Teacher and Rei.
+Dialogue: 0,0:16:25.88,0:16:25.88,Thought,,0,0,0,,{TIME:985885,985885}It feels so long\Nsince I last saw them.
+Dialogue: 0,0:16:33.29,0:16:33.29,Thought,,0,0,0,,{TIME:993293,993293}Mother.
+Dialogue: 0,0:16:35.12,0:16:35.12,Thought,,0,0,0,,{TIME:995128,995128}You have been missing,\Nbut where are you, Mother?
 Dialogue: 0,0:17:04.39,0:17:04.39,Default,,0,0,0,,{TIME:1024391,1024391}Business is well this summer,\Nhuh, Masumi?
 Dialogue: 0,0:17:08.12,0:17:08.12,Default,,0,0,0,,{TIME:1028128,1028128}Thank you.
 Dialogue: 0,0:17:10.23,0:17:10.23,Default,,0,0,0,,{TIME:1030230,1030230}This party of yours, with many\Ncelebrities from Metropolitan Entertainment…
@@ -235,32 +237,32 @@ Dialogue: 0,0:17:59.71,0:17:59.71,Default,,0,0,0,,{TIME:1079713,1079713}Mr. Masu
 Dialogue: 0,0:18:00.14,0:18:00.14,Default,,0,0,0,,{TIME:1080146,1080146}Yes.
 Dialogue: 0,0:18:01.98,0:18:01.98,Default,,0,0,0,,{TIME:1081981,1081981}The house sitter of your summer house\Nwants to see you immediately.
 Dialogue: 0,0:18:10.62,0:18:10.62,Default,,0,0,0,,{TIME:1090623,1090623}I've never seen him lose his cool.
-Dialogue: 0,0:18:33.38,0:18:33.38,Default,,0,0,0,,{TIME:1113380,1113380}{\i1}I knew to be careful\Nwhen coming down the stairs.
-Dialogue: 0,0:18:39.61,0:18:39.61,Default,,0,0,0,,{TIME:1119619,1119619}{\i1}Ouch!\NI can't stand up.
-Dialogue: 0,0:18:41.82,0:18:41.82,Default,,0,0,0,,{TIME:1121821,1121821}{\i1}I must have sprained my ankle.
-Dialogue: 0,0:18:44.09,0:18:44.09,Default,,0,0,0,,{TIME:1124090,1124090}{\i1}I wonder how long\NI've been doing this?
-Dialogue: 0,0:18:46.79,0:18:46.79,Default,,0,0,0,,{TIME:1126793,1126793}{\i1}Yet I still can't learn her ways.
-Dialogue: 0,0:18:48.79,0:18:48.79,Default,,0,0,0,,{TIME:1128795,1128795}{\i1}Helen's life, Helen's play…
-Dialogue: 0,0:18:52.26,0:18:52.26,Default,,0,0,0,,{TIME:1132265,1132265}{\i1}I've had enough!
-Dialogue: 0,0:18:54.13,0:18:54.13,Default,,0,0,0,,{TIME:1134134,1134134}{\i1}I want to take the earplugs\Nand blindfold off!
-Dialogue: 0,0:18:57.20,0:18:57.20,Default,,0,0,0,,{TIME:1137203,1137203}{\i1}I want to hear, see and talk.
-Dialogue: 0,0:19:00.40,0:19:00.40,Default,,0,0,0,,{TIME:1140407,1140407}{\i1}I've had enough.
-Dialogue: 0,0:19:03.57,0:19:03.57,Default,,0,0,0,,{TIME:1143576,1143576}{\i1}I'm taking this off.
-Dialogue: 0,0:19:11.05,0:19:11.05,Default,,0,0,0,,{TIME:1151051,1151051}{\i1}No, I can't.
-Dialogue: 0,0:19:13.28,0:19:13.28,Default,,0,0,0,,{TIME:1153286,1153286}{\i1}I will never understand\Nhow Helen feels.
-Dialogue: 0,0:19:18.49,0:19:18.49,Default,,0,0,0,,{TIME:1158491,1158491}{\i1}Whatever happens, I will stay\Nlike this until I learn her ways.
-Dialogue: 0,0:19:36.34,0:19:36.34,Default,,0,0,0,,{TIME:1176343,1176343}{\i1}Who?\NWhose hand is this?
-Dialogue: 0,0:19:38.27,0:19:38.27,Default,,0,0,0,,{TIME:1178278,1178278}{\i1}Not the caretaker?
-Dialogue: 0,0:19:42.58,0:19:42.58,Default,,0,0,0,,{TIME:1182582,1182582}{\i1}Who is he?
-Dialogue: 0,0:19:52.25,0:19:52.25,Default,,0,0,0,,{TIME:1192258,1192258}{\i1}Oh, a rose?
-Dialogue: 0,0:19:58.33,0:19:58.33,Default,,0,0,0,,{TIME:1198331,1198331}{\i1}It's a rose.\NMr. Purple Rose?
-Dialogue: 0,0:20:04.13,0:20:04.13,Default,,0,0,0,,{TIME:1204137,1204137}{\i1}Are · you · Mr. · Pur·ple · Rose?
-Dialogue: 0,0:20:30.03,0:20:30.03,Default,,0,0,0,,{TIME:1230030,1230030}{\i1}Finally!\NI finally get to meet you!
-Dialogue: 0,0:20:33.83,0:20:33.83,Default,,0,0,0,,{TIME:1233833,1233833}{\i1}The person who has been encouraging me ever since my first stage appearance.
-Dialogue: 0,0:20:40.87,0:20:40.87,Default,,0,0,0,,{TIME:1240874,1240874}{\i1}The person who is always on my side.
-Dialogue: 0,0:20:43.87,0:20:43.87,Default,,0,0,0,,{TIME:1243877,1243877}{\i1}Thank you.\NThank you so much.
-Dialogue: 0,0:20:46.88,0:20:46.88,Default,,0,0,0,,{TIME:1246880,1246880}{\i1}Little girl…
-Dialogue: 0,0:21:03.79,0:21:03.79,Default,,0,0,0,,{TIME:1263797,1263797}{\i1}What was that?\NHe just held me and…
+Dialogue: 0,0:18:33.38,0:18:33.38,Thought,,0,0,0,,{TIME:1113380,1113380}I knew to be careful\Nwhen coming down the stairs.
+Dialogue: 0,0:18:39.61,0:18:39.61,Thought,,0,0,0,,{TIME:1119619,1119619}Ouch!\NI can't stand up.
+Dialogue: 0,0:18:41.82,0:18:41.82,Thought,,0,0,0,,{TIME:1121821,1121821}I must have sprained my ankle.
+Dialogue: 0,0:18:44.09,0:18:44.09,Thought,,0,0,0,,{TIME:1124090,1124090}I wonder how long\NI've been doing this?
+Dialogue: 0,0:18:46.79,0:18:46.79,Thought,,0,0,0,,{TIME:1126793,1126793}Yet I still can't learn her ways.
+Dialogue: 0,0:18:48.79,0:18:48.79,Thought,,0,0,0,,{TIME:1128795,1128795}Helen's life, Helen's play…
+Dialogue: 0,0:18:52.26,0:18:52.26,Thought,,0,0,0,,{TIME:1132265,1132265}I've had enough!
+Dialogue: 0,0:18:54.13,0:18:54.13,Thought,,0,0,0,,{TIME:1134134,1134134}I want to take the earplugs\Nand blindfold off!
+Dialogue: 0,0:18:57.20,0:18:57.20,Thought,,0,0,0,,{TIME:1137203,1137203}I want to hear, see and talk.
+Dialogue: 0,0:19:00.40,0:19:00.40,Thought,,0,0,0,,{TIME:1140407,1140407}I've had enough.
+Dialogue: 0,0:19:03.57,0:19:03.57,Thought,,0,0,0,,{TIME:1143576,1143576}I'm taking this off.
+Dialogue: 0,0:19:11.05,0:19:11.05,Thought,,0,0,0,,{TIME:1151051,1151051}No, I can't.
+Dialogue: 0,0:19:13.28,0:19:13.28,Thought,,0,0,0,,{TIME:1153286,1153286}I will never understand\Nhow Helen feels.
+Dialogue: 0,0:19:18.49,0:19:18.49,Thought,,0,0,0,,{TIME:1158491,1158491}Whatever happens, I will stay\Nlike this until I learn her ways.
+Dialogue: 0,0:19:36.34,0:19:36.34,Thought,,0,0,0,,{TIME:1176343,1176343}Who?\NWhose hand is this?
+Dialogue: 0,0:19:38.27,0:19:38.27,Thought,,0,0,0,,{TIME:1178278,1178278}Not the caretaker?
+Dialogue: 0,0:19:42.58,0:19:42.58,Thought,,0,0,0,,{TIME:1182582,1182582}Who is he?
+Dialogue: 0,0:19:52.25,0:19:52.25,Thought,,0,0,0,,{TIME:1192258,1192258}Oh, a rose?
+Dialogue: 0,0:19:58.33,0:19:58.33,Thought,,0,0,0,,{TIME:1198331,1198331}It's a rose.\NMr. Purple Rose?
+Dialogue: 0,0:20:04.13,0:20:04.13,Thought,,0,0,0,,{TIME:1204137,1204137}Are · you · Mr. · Pur·ple · Rose?
+Dialogue: 0,0:20:30.03,0:20:30.03,Thought,,0,0,0,,{TIME:1230030,1230030}Finally!\NI finally get to meet you!
+Dialogue: 0,0:20:33.83,0:20:33.83,Thought,,0,0,0,,{TIME:1233833,1233833}The person who has been encouraging me ever since my first stage appearance.
+Dialogue: 0,0:20:40.87,0:20:40.87,Thought,,0,0,0,,{TIME:1240874,1240874}The person who is always on my side.
+Dialogue: 0,0:20:43.87,0:20:43.87,Thought,,0,0,0,,{TIME:1243877,1243877}Thank you.\NThank you so much.
+Dialogue: 0,0:20:46.88,0:20:46.88,Thought,,0,0,0,,{TIME:1246880,1246880}Little girl…
+Dialogue: 0,0:21:03.79,0:21:03.79,Thought,,0,0,0,,{TIME:1263797,1263797}What was that?\NHe just held me and…
 Dialogue: 0,0:21:21.58,0:21:21.58,Default,,0,0,0,,{TIME:1281581,1281581}W-Wait!\NWho are you?
 Dialogue: 0,0:21:25.01,0:21:25.01,Default,,0,0,0,,{TIME:1285018,1285018}Please tell me, just your name.
 Dialogue: 0,0:21:27.12,0:21:27.12,Default,,0,0,0,,{TIME:1287120,1287120}I appreciate you with all my heart.
@@ -268,14 +270,14 @@ Dialogue: 0,0:21:30.12,0:21:30.12,Default,,0,0,0,,{TIME:1290123,1290123}Every ti
 Dialogue: 0,0:21:33.82,0:21:33.82,Default,,0,0,0,,{TIME:1293827,1293827}Please, please tell me your name.
 Dialogue: 0,0:21:42.20,0:21:42.20,Default,,0,0,0,,{TIME:1302202,1302202}I · am · look·ing · for·ward\Nto · see·ing · your · Hel·en.
 Dialogue: 0,0:21:57.01,0:21:57.01,Default,,0,0,0,,{TIME:1317017,1317017}Wait!
-Dialogue: 0,0:22:07.66,0:22:07.66,Default,,0,0,0,,{TIME:1327660,1327660}{\i1}He's gone.
-Dialogue: 0,0:22:11.63,0:22:11.63,Default,,0,0,0,,{TIME:1331631,1331631}{\i1}Something's wrong with you,\NHayami Masumi.
-Dialogue: 0,0:22:13.76,0:22:13.76,Default,,0,0,0,,{TIME:1333767,1333767}{\i1}She's a girl more than ten years\Nyounger than I am.
-Dialogue: 0,0:22:16.67,0:22:16.67,Default,,0,0,0,,{TIME:1336670,1336670}{\i1}Being the person that I am,\Nbeing the person that I am…
-Dialogue: 0,0:22:20.90,0:22:20.90,Default,,0,0,0,,{TIME:1340907,1340907}{\i1}I am looking forward\Nto seeing your Helen.
-Dialogue: 0,0:22:23.64,0:22:23.64,Default,,0,0,0,,{TIME:1343643,1343643}{\i1}I am looking forward\Nto seeing your Helen!
-Dialogue: 0,0:22:27.34,0:22:27.34,Default,,0,0,0,,{TIME:1347347,1347347}{\i1}I'll do it.\NI won't give up.
-Dialogue: 0,0:22:30.28,0:22:30.28,Default,,0,0,0,,{TIME:1350283,1350283}{\i1}I'll become Helen here.
+Dialogue: 0,0:22:07.66,0:22:07.66,Thought,,0,0,0,,{TIME:1327660,1327660}He's gone.
+Dialogue: 0,0:22:11.63,0:22:11.63,Thought,,0,0,0,,{TIME:1331631,1331631}Something's wrong with you,\NHayami Masumi.
+Dialogue: 0,0:22:13.76,0:22:13.76,Thought,,0,0,0,,{TIME:1333767,1333767}She's a girl more than ten years\Nyounger than I am.
+Dialogue: 0,0:22:16.67,0:22:16.67,Thought,,0,0,0,,{TIME:1336670,1336670}Being the person that I am,\Nbeing the person that I am…
+Dialogue: 0,0:22:20.90,0:22:20.90,Thought,,0,0,0,,{TIME:1340907,1340907}I am looking forward\Nto seeing your Helen.
+Dialogue: 0,0:22:23.64,0:22:23.64,Thought,,0,0,0,,{TIME:1343643,1343643}I am looking forward\Nto seeing your Helen!
+Dialogue: 0,0:22:27.34,0:22:27.34,Thought,,0,0,0,,{TIME:1347347,1347347}I'll do it.\NI won't give up.
+Dialogue: 0,0:22:30.28,0:22:30.28,Thought,,0,0,0,,{TIME:1350283,1350283}I'll become Helen here.
 Dialogue: 0,0:22:34.88,0:22:34.88,Narrator,(narrator),0,0,0,,{TIME:1354888,1354888}Maya has finally met\NMr. Purple Rose.
 Dialogue: 0,0:22:37.75,0:22:37.75,Narrator,(narrator),0,0,0,,{TIME:1357757,1357757}It was a mysterious meeting, but it became an inspiration for Maya, who struggles to understand Helen.
 Comment: 0,0:22:50.45,0:22:50.45,Default,[chapter],0,0,0,,{TIME:1370452,1370452}Ending

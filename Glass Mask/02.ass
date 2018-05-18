@@ -14,6 +14,8 @@ Audio File: source/02.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00DDDCE0,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -60,15 +62,15 @@ Dialogue: 0,0:02:05.45,0:02:10.25,Narrator,(narrator),0,0,0,,{TIME:125459,130255
 Dialogue: 0,0:02:10.25,0:02:14.42,Narrator,(narrator),0,0,0,,{TIME:130255,134426}Maya, whose talent was discovered\Nby a former actress, Tsukikage Chigusa…
 Dialogue: 0,0:02:14.42,0:02:19.76,Narrator,(narrator),0,0,0,,{TIME:134426,139765}…is determined to follow in her footsteps\Nby becoming an actress in Tsukikage Theater.
 Dialogue: 0,0:02:20.76,0:02:26.77,Episode title,[title],0,0,0,,{TIME:140766,146772}{\an5\pos(766,750)\fscy95\blur1\fad(200,0)}—Episode 02—\NMr. Purple Rose
-Dialogue: 0,0:02:27.89,0:02:32.81,Default,,0,0,0,,{TIME:147898,152819}{\i1}Dear Mom, I am now a live-in student\Nat Theater Tsukikage.
-Dialogue: 0,0:02:32.81,0:02:35.65,Default,,0,0,0,,{TIME:152819,155656}{\i1}Sorry I left without notifying you…
-Dialogue: 0,0:02:35.65,0:02:37.65,Default,,0,0,0,,{TIME:155656,157656}{\i1}…but I'm doing fine here.
+Dialogue: 0,0:02:27.89,0:02:32.81,Thought,,0,0,0,,{TIME:147898,152819}Dear Mom, I am now a live-in student\Nat Theater Tsukikage.
+Dialogue: 0,0:02:32.81,0:02:35.65,Thought,,0,0,0,,{TIME:152819,155656}Sorry I left without notifying you…
+Dialogue: 0,0:02:35.65,0:02:37.65,Thought,,0,0,0,,{TIME:155656,157656}…but I'm doing fine here.
 Dialogue: 0,0:02:48.75,0:02:50.25,Sign,(sign),0,0,0,,{TIME:168752,170253}Manpuku Ken
 Dialogue: 0,0:02:50.37,0:02:52.42,Default,,0,0,0,,{TIME:170379,172422}I'm sorry, Mother.
 Dialogue: 0,0:02:52.42,0:02:56.42,Default,,0,0,0,,{TIME:172422,176426}But I really want to become\Nan actress by any means.
-Dialogue: 0,0:02:58.30,0:03:02.84,Default,,0,0,0,,{TIME:178303,182849}{\i1}Now I'm going to junior high school from here…
-Dialogue: 0,0:03:02.84,0:03:06.22,Default,,0,0,0,,{TIME:182849,186228}{\i1}…and I am getting a scholarship for this school…
-Dialogue: 0,0:03:07.93,0:03:11.02,Default,,0,0,0,,{TIME:187938,191024}{\i1}…so don't worry about me.
+Dialogue: 0,0:02:58.30,0:03:02.84,Thought,,0,0,0,,{TIME:178303,182849}Now I'm going to junior high school from here…
+Dialogue: 0,0:03:02.84,0:03:06.22,Thought,,0,0,0,,{TIME:182849,186228}…and I am getting a scholarship for this school.
+Dialogue: 0,0:03:07.93,0:03:11.02,Thought,,0,0,0,,{TIME:187938,191024}So don't worry about me.
 Dialogue: 0,0:03:19.32,0:03:20.32,Default,,0,0,0,,{TIME:199324,200325}Ouch!
 Dialogue: 0,0:03:20.32,0:03:22.41,Default,,0,0,0,,{TIME:200325,202411}What's going on?\NWaking us all up?
 Dialogue: 0,0:03:25.16,0:03:27.79,Default,,0,0,0,,{TIME:205163,207791}What time do you think it is?
@@ -76,17 +78,17 @@ Dialogue: 0,0:03:27.79,0:03:30.66,Default,,0,0,0,,{TIME:207791,210669}I have to 
 Dialogue: 0,0:03:30.66,0:03:32.50,Default,,0,0,0,,{TIME:210669,212504}Let me sleep.
 Dialogue: 0,0:03:33.54,0:03:35.13,Default,,0,0,0,,{TIME:213547,215132}I'm sorry!
 Dialogue: 0,0:03:35.88,0:03:38.05,Default,,0,0,0,,{TIME:215882,218051}On that note, let's get back to sleep.
-Dialogue: 0,0:03:39.59,0:03:44.55,Default,,0,0,0,,{TIME:219594,224558}{\i1}My four roommates are all\Ndrama girls" from all over the country.
-Dialogue: 0,0:03:46.22,0:03:47.97,Default,,0,0,0,,{TIME:226226,227978}{\i1}Mina.
-Dialogue: 0,0:03:47.97,0:03:50.10,Default,,0,0,0,,{TIME:227978,230105}{\i1}Taiko.
-Dialogue: 0,0:03:50.10,0:03:51.44,Default,,0,0,0,,{TIME:230105,231440}{\i1}Sayaka.
-Dialogue: 0,0:03:51.44,0:03:53.23,Default,,0,0,0,,{TIME:231440,233233}{\i1}And Rei.
-Dialogue: 0,0:03:53.23,0:03:54.31,Default,,0,0,0,,{TIME:233233,234317}{\i1}She's so handsome.
-Dialogue: 0,0:03:54.31,0:03:58.19,Default,,0,0,0,,{TIME:234317,238196}{\i1}But she's a girl without a flaw.
-Dialogue: 0,0:04:02.32,0:04:05.32,Default,,0,0,0,,{TIME:242325,245328}{\i1}And, Mom, don't be surprised.
-Dialogue: 0,0:04:05.32,0:04:09.79,Default,,0,0,0,,{TIME:245328,249791}{\i1}I was chosen to play Beth in "Little Women."
-Dialogue: 0,0:04:11.71,0:04:17.21,Default,,0,0,0,,{TIME:251710,257215}{\i1}Tsukikage Theater's first performance,\Npart advertisement as well as opening the theater.
-Dialogue: 0,0:04:17.21,0:04:19.63,Default,,0,0,0,,{TIME:257215,259634}{\i1}I'll play Beth on that stage!
+Dialogue: 0,0:03:39.59,0:03:44.55,Thought,,0,0,0,,{TIME:219594,224558}My four roommates are all\Ndrama girls" from all over the country.
+Dialogue: 0,0:03:46.22,0:03:47.97,Thought,,0,0,0,,{TIME:226226,227978}Mina.
+Dialogue: 0,0:03:47.97,0:03:50.10,Thought,,0,0,0,,{TIME:227978,230105}Taiko.
+Dialogue: 0,0:03:50.10,0:03:51.44,Thought,,0,0,0,,{TIME:230105,231440}Sayaka.
+Dialogue: 0,0:03:51.44,0:03:53.23,Thought,,0,0,0,,{TIME:231440,233233}And Rei.
+Dialogue: 0,0:03:53.23,0:03:54.31,Thought,,0,0,0,,{TIME:233233,234317}She's so handsome.
+Dialogue: 0,0:03:54.31,0:03:58.19,Thought,,0,0,0,,{TIME:234317,238196}But she's a girl without a flaw.
+Dialogue: 0,0:04:02.32,0:04:05.32,Thought,,0,0,0,,{TIME:242325,245328}And, Mom, don't be surprised.
+Dialogue: 0,0:04:05.32,0:04:09.79,Thought,,0,0,0,,{TIME:245328,249791}I was chosen to play Beth in "Little Women."
+Dialogue: 0,0:04:11.71,0:04:17.21,Thought,,0,0,0,,{TIME:251710,257215}Tsukikage Theater's first performance,\Npart advertisement as well as opening the theater.
+Dialogue: 0,0:04:17.21,0:04:19.63,Thought,,0,0,0,,{TIME:257215,259634}I'll play Beth on that stage!
 Dialogue: 0,0:04:21.38,0:04:24.26,Default,,0,0,0,,{TIME:261386,264264}Shoot, I slept in!
 Dialogue: 0,0:04:24.26,0:04:26.43,Default,,0,0,0,,{TIME:264264,266433}Good morning.
 Dialogue: 0,0:04:26.43,0:04:28.81,Default,,0,0,0,,{TIME:266433,268810}Sorry, but I'm running late!
@@ -104,7 +106,7 @@ Dialogue: 0,0:04:54.21,0:04:55.54,Default,,0,0,0,,{TIME:294211,295545}I'll take 
 Dialogue: 0,0:04:55.54,0:04:56.37,Default,,0,0,0,,{TIME:295545,296379}Huh?
 Dialogue: 0,0:04:57.54,0:04:59.67,Default,,0,0,0,,{TIME:297547,299674}She has left her home to be here.
 Dialogue: 0,0:05:00.67,0:05:02.05,Default,,0,0,0,,{TIME:300675,302052}Madame…
-Dialogue: 0,0:05:10.81,0:05:14.23,Default,,0,0,0,,{TIME:310811,314231}{\i1}What she needs now is to forget her past.
+Dialogue: 0,0:05:10.81,0:05:14.23,Thought,,0,0,0,,{TIME:310811,314231}What she needs now is to forget her past.
 Dialogue: 0,0:05:22.65,0:05:26.91,Narrator,(narrator),0,0,0,,{TIME:322656,326910}With the performance date coming close,\Nthey progressed with their practice.
 Dialogue: 0,0:05:27.82,0:05:29.20,Default,,0,0,0,,{TIME:327828,329204}Maya!
 Dialogue: 0,0:05:29.20,0:05:31.37,Default,,0,0,0,,{TIME:329204,331373}Look how you are picking it up!
@@ -220,7 +222,7 @@ Dialogue: 0,0:12:27.03,0:12:27.91,Default,,0,0,0,,{TIME:747038,747914}Yes.
 Dialogue: 0,0:12:29.87,0:12:32.96,Default,,0,0,0,,{TIME:749874,752961}Beth, Beth, look at me!\NDon't die on me!
 Dialogue: 0,0:12:32.96,0:12:34.46,Default,,0,0,0,,{TIME:752961,754462}I'm fine.
 Dialogue: 0,0:12:34.46,0:12:39.38,Default,,0,0,0,,{TIME:754462,759384}Jo, don't let anyone come near me.
-Dialogue: 0,0:12:40.51,0:12:43.47,Default,,0,0,0,,{TIME:760510,763471}{\i1}Sayaka, you play Beth as a substitute.
+Dialogue: 0,0:12:40.51,0:12:43.47,Retrospective,,0,0,0,,{TIME:760510,763471}Sayaka, you play Beth as a substitute.
 Dialogue: 0,0:12:50.10,0:12:51.31,Default,,0,0,0,,{TIME:770103,771312}I don't understand…
 Dialogue: 0,0:12:52.93,0:12:57.27,Default,,0,0,0,,{TIME:772939,777277}I try my hardest\Nto feel like I'm Beth…
 Dialogue: 0,0:12:58.19,0:13:00.32,Default,,0,0,0,,{TIME:778194,780321}I don't understand.
@@ -231,19 +233,19 @@ Dialogue: 0,0:13:06.99,0:13:08.53,Default,,0,0,0,,{TIME:786995,788538}I don't un
 Dialogue: 0,0:13:08.53,0:13:09.70,Default,,0,0,0,,{TIME:788538,789706}You can't help it.
 Dialogue: 0,0:13:09.70,0:13:12.20,Default,,0,0,0,,{TIME:789706,792208}A healthy girl like you\Nis trying to play sick Beth.
 Dialogue: 0,0:13:14.08,0:13:16.79,Default,,0,0,0,,{TIME:794085,796796}Of course it takes time to practice.
-Dialogue: 0,0:13:35.10,0:13:36.35,Default,,0,0,0,,{TIME:815106,816357}{\i1}Three days left.
-Dialogue: 0,0:13:36.35,0:13:39.02,Default,,0,0,0,,{TIME:816357,819027}{\i1}I have to get the role back by any means.
+Dialogue: 0,0:13:35.10,0:13:36.35,Thought,,0,0,0,,{TIME:815106,816357}Three days left.
+Dialogue: 0,0:13:36.35,0:13:39.02,Thought,,0,0,0,,{TIME:816357,819027}I have to get the role back by any means.
 Dialogue: 0,0:13:39.02,0:13:41.57,Default,,0,0,0,,{TIME:819027,821571}Sayaka, you play Beth as a substitute.
 Dialogue: 0,0:13:41.57,0:13:42.53,Default,,0,0,0,,{TIME:821571,822530}Yes!
 Dialogue: 0,0:13:46.07,0:13:47.78,Default,,0,0,0,,{TIME:826075,827785}Hey, girl, get on your feet.
 Dialogue: 0,0:13:47.78,0:13:50.45,Default,,0,0,0,,{TIME:827785,830455}You'll catch a cold walking\Nlike that in the rain.
-Dialogue: 0,0:13:59.42,0:14:03.17,Default,,0,0,0,,{TIME:839422,843176}{\i1}Three days left till the performance.
-Dialogue: 0,0:14:03.17,0:14:05.76,Default,,0,0,0,,{TIME:843176,845762}{\i1}Healthy Maya is playing sick Beth.
-Dialogue: 0,0:14:05.76,0:14:07.59,Default,,0,0,0,,{TIME:845762,847597}{\i1}It just won't work.
-Dialogue: 0,0:14:07.59,0:14:09.34,Default,,0,0,0,,{TIME:847597,849349}{\i1}Hey, you'll catch a cold.
+Dialogue: 0,0:13:59.42,0:14:03.17,Thought,,0,0,0,,{TIME:839422,843176}Three days left till the performance.
+Dialogue: 0,0:14:03.17,0:14:05.76,Retrospective,,0,0,0,,{TIME:843176,845762}Healthy Maya is playing sick Beth.
+Dialogue: 0,0:14:05.76,0:14:07.59,Retrospective,,0,0,0,,{TIME:845762,847597}It just won't work.
+Dialogue: 0,0:14:07.59,0:14:09.34,Retrospective,,0,0,0,,{TIME:847597,849349}Hey, you'll catch a cold.
 Dialogue: 0,0:14:11.39,0:14:15.31,Default,,0,0,0,,{TIME:851392,855313}Yes… rain.
 Dialogue: 0,0:14:15.31,0:14:16.89,Default,,0,0,0,,{TIME:855313,856898}Rain.
-Dialogue: 0,0:14:18.64,0:14:24.40,Default,,0,0,0,,{TIME:858649,864405}{\i1}This cold rain can teach me\Nhow to play Beth!
+Dialogue: 0,0:14:18.64,0:14:24.40,Thought,,0,0,0,,{TIME:858649,864405}This cold rain can teach me\Nhow to play Beth!
 Dialogue: 0,0:14:27.11,0:14:29.16,Default,,0,0,0,,{TIME:867116,869160}Teacher, she's not back yet.
 Dialogue: 0,0:14:29.16,0:14:32.66,Default,,0,0,0,,{TIME:869160,872663}What happened to her\Nthat she's not back this late?
 Dialogue: 0,0:14:32.66,0:14:36.37,Default,,0,0,0,,{TIME:872663,876376}Should we call her mother\Nin Yokohama?
@@ -267,9 +269,9 @@ Dialogue: 0,0:16:01.16,0:16:02.12,Default,,0,0,0,,{TIME:961169,962127}Hey?
 Dialogue: 0,0:16:03.83,0:16:05.67,Default,,0,0,0,,{TIME:963838,965673}Hey, get a grip!
 Dialogue: 0,0:16:05.67,0:16:06.96,Default,,0,0,0,,{TIME:965673,966966}Are you okay?
 Dialogue: 0,0:16:06.96,0:16:07.96,Default,,0,0,0,,{TIME:966966,967967}Hey?
-Dialogue: 0,0:16:08.50,0:16:09.84,Default,,0,0,0,,{TIME:968509,969844}Uncle Laurence?
-Dialogue: 0,0:16:09.84,0:16:11.05,Default,,0,0,0,,{TIME:969844,971053}{\i1}Music?
-Dialogue: 0,0:16:11.97,0:16:13.84,Default,,0,0,0,,{TIME:971971,973848}{\i1}"Little Women!"
+Dialogue: 0,0:16:08.50,0:16:09.84,Thought,,0,0,0,,{TIME:968509,969844}Uncle Laurence?
+Dialogue: 0,0:16:09.84,0:16:11.05,Thought,,0,0,0,,{TIME:969844,971053}Music?
+Dialogue: 0,0:16:11.97,0:16:13.84,Thought,,0,0,0,,{TIME:971971,973848}"Little Women!"
 Dialogue: 0,0:16:20.18,0:16:22.39,Default,,0,0,0,,{TIME:980188,982398}She has a high fever.
 Dialogue: 0,0:16:22.39,0:16:25.98,Default,,0,0,0,,{TIME:982398,985985}I gave her a shot,\Nso let her rest for a while.
 Dialogue: 0,0:16:25.98,0:16:27.90,Default,,0,0,0,,{TIME:985985,987904}Maya, hang in there.
@@ -278,14 +280,14 @@ Dialogue: 0,0:16:32.90,0:16:33.91,Default,,0,0,0,,{TIME:992909,993910}Maya!
 Dialogue: 0,0:16:35.07,0:16:40.24,Default,,0,0,0,,{TIME:995077,1000249}I'm fine, Jo.\NDon't let anyone come near me now.
 Dialogue: 0,0:16:40.24,0:16:43.58,Default,,0,0,0,,{TIME:1000249,1003586}Maya, that's Beth's words…
 Dialogue: 0,0:16:43.58,0:16:45.25,Default,,0,0,0,,{TIME:1003586,1005254}She's becoming Beth herself.
-Dialogue: 0,0:16:53.63,0:16:55.72,Default,,0,0,0,,{TIME:1013638,1015723}{\i1}With that high of a fever…
-Dialogue: 0,0:16:57.01,0:16:58.68,Default,,0,0,0,,{TIME:1017016,1018684}{\i1}…will she be able to get on the stage?
+Dialogue: 0,0:16:53.63,0:16:55.72,Thought,,0,0,0,,{TIME:1013638,1015723}With that high of a fever…
+Dialogue: 0,0:16:57.01,0:16:58.68,Thought,,0,0,0,,{TIME:1017016,1018684}…will she be able to get on the stage?
 Dialogue: 0,0:17:15.49,0:17:22.37,Default,,0,0,0,,{TIME:1035493,1042375}Welcome to "Little Women,"\Nthe first play of Tsukikage Theater.
-Dialogue: 0,0:17:23.33,0:17:24.08,Default,,0,0,0,,{TIME:1043334,1044085}{\i1}What's this?
-Dialogue: 0,0:17:26.25,0:17:28.13,Default,,0,0,0,,{TIME:1046254,1048130}{\i1}The Himekawa family…
-Dialogue: 0,0:17:28.13,0:17:30.21,Default,,0,0,0,,{TIME:1048130,1050216}{\i1}…Hayami Masumi and Onodera…
-Dialogue: 0,0:17:30.21,0:17:33.05,Default,,0,0,0,,{TIME:1050216,1053052}{\i1}…and critics in the middle.
-Dialogue: 0,0:17:33.05,0:17:34.13,Default,,0,0,0,,{TIME:1053052,1054136}{\i1}Something's fishy.
+Dialogue: 0,0:17:23.33,0:17:24.08,Thought,,0,0,0,,{TIME:1043334,1044085}What's this?
+Dialogue: 0,0:17:26.25,0:17:28.13,Thought,,0,0,0,,{TIME:1046254,1048130}The Himekawa family…
+Dialogue: 0,0:17:28.13,0:17:30.21,Thought,,0,0,0,,{TIME:1048130,1050216}…Hayami Masumi and Onodera…
+Dialogue: 0,0:17:30.21,0:17:33.05,Thought,,0,0,0,,{TIME:1050216,1053052}…and critics in the middle.
+Dialogue: 0,0:17:33.05,0:17:34.13,Thought,,0,0,0,,{TIME:1053052,1054136}Something's fishy.
 Dialogue: 0,0:17:34.97,0:17:39.55,Default,,0,0,0,,{TIME:1054971,1059559}Please enjoy our play till the end!
 Dialogue: 0,0:17:43.77,0:17:48.85,Default,,0,0,0,,{TIME:1063771,1068859}You did a great job getting\Nthis many critics and reporters.
 Dialogue: 0,0:17:48.85,0:17:53.07,Default,,0,0,0,,{TIME:1068859,1073072}Teacher, Maya…\Nhas a fever of 40°C.
@@ -328,19 +330,19 @@ Dialogue: 0,0:20:07.54,0:20:11.58,Default,,0,0,0,,{TIME:1207540,1211585}Oh, did 
 Dialogue: 0,0:20:11.58,0:20:15.46,Default,,0,0,0,,{TIME:1211585,1215464}Sisters, share the story with me.
 Dialogue: 0,0:20:16.17,0:20:18.09,Default,,0,0,0,,{TIME:1216173,1218092}Oh, here comes Mother.
 Dialogue: 0,0:20:18.09,0:20:21.22,Default,,0,0,0,,{TIME:1218092,1221220}What did you all do today?
-Dialogue: 0,0:20:21.80,0:20:29.22,Default,,0,0,0,,{TIME:1221804,1229228}{\i1}A fever of 40°C and she grows\Neven more beautiful as the play goes on.
+Dialogue: 0,0:20:21.80,0:20:29.22,Thought,,0,0,0,,{TIME:1221804,1229228}A fever of 40°C and she grows\Neven more beautiful as the play goes on.
 Dialogue: 0,0:20:29.22,0:20:34.19,Default,,0,0,0,,{TIME:1229228,1234191}May I help give out present for poor kids?
 Dialogue: 0,0:20:34.19,0:20:36.81,Default,,0,0,0,,{TIME:1234191,1236819}No, I really want to help!
-Dialogue: 0,0:20:38.69,0:20:41.49,Default,,0,0,0,,{TIME:1238696,1241490}{\i1}Where in that small body…?
-Dialogue: 0,0:20:41.49,0:20:43.61,Default,,0,0,0,,{TIME:1241490,1243617}{\i1}Where is the magical power hidden?
+Dialogue: 0,0:20:38.69,0:20:41.49,Thought,,0,0,0,,{TIME:1238696,1241490}Where in that small body…?
+Dialogue: 0,0:20:41.49,0:20:43.61,Thought,,0,0,0,,{TIME:1241490,1243617}Where is the magical power hidden?
 Dialogue: 0,0:20:59.13,0:21:00.96,Default,,0,0,0,,{TIME:1259133,1260968}Beth, Beth, look at me!
 Dialogue: 0,0:21:00.96,0:21:02.59,Default,,0,0,0,,{TIME:1260968,1262595}Don't die on me!
 Dialogue: 0,0:21:03.51,0:21:04.97,Default,,0,0,0,,{TIME:1263512,1264972}I'm fine.
 Dialogue: 0,0:21:06.43,0:21:07.93,Default,,0,0,0,,{TIME:1266432,1267933}Jo.
 Dialogue: 0,0:21:09.22,0:21:10.18,Default,,0,0,0,,{TIME:1269226,1270186}Beth…
 Dialogue: 0,0:21:20.57,0:21:24.03,Default,,0,0,0,,{TIME:1280571,1284033}Beth is playing the piano\Nin her dream.
-Dialogue: 0,0:21:39.29,0:21:41.13,Default,,0,0,0,,{TIME:1299298,1301133}{\i1}Great, Maya!
-Dialogue: 0,0:21:41.13,0:21:42.46,Default,,0,0,0,,{TIME:1301133,1302468}{\i1}Great acting!
+Dialogue: 0,0:21:39.29,0:21:41.13,Thought,,0,0,0,,{TIME:1299298,1301133}Great, Maya!
+Dialogue: 0,0:21:41.13,0:21:42.46,Thought,,0,0,0,,{TIME:1301133,1302468}Great acting!
 Dialogue: 0,0:21:51.18,0:21:55.64,Default,,0,0,0,,{TIME:1311185,1315648}She doesn't know the real side\Nof the acting world.
 Dialogue: 0,0:21:55.64,0:21:59.06,Default,,0,0,0,,{TIME:1315648,1319068}Kitajima Maya, huh…
 Dialogue: 0,0:21:59.06,0:22:00.48,Default,,0,0,0,,{TIME:1319068,1320486}Maya, good job!

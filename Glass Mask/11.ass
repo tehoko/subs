@@ -14,6 +14,8 @@ Audio File: source/11.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00F3F3F3,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -90,8 +92,8 @@ Dialogue: 0,0:04:06.66,0:04:08.12,Default,,0,0,0,,{TIME:246663,248123}Yes.
 Dialogue: 0,0:04:08.12,0:04:12.08,Default,,0,0,0,,{TIME:248123,252085}Seems like we'll be good rivals for each other.
 Dialogue: 0,0:04:12.08,0:04:15.92,Default,,0,0,0,,{TIME:252085,255922}Then you'll have another rival.
 Dialogue: 0,0:04:17.09,0:04:19.76,Default,,0,0,0,,{TIME:257090,259760}There's another rival you can't forget.
-Dialogue: 0,0:04:21.72,0:04:23.93,Default,,0,0,0,,{TIME:261720,263930}{\i1}Another rival?
-Dialogue: 0,0:04:27.10,0:04:28.47,Default,,0,0,0,,{TIME:267100,268477}{\i1}No way!
+Dialogue: 0,0:04:21.72,0:04:23.93,Thought,,0,0,0,,{TIME:261720,263930}Another rival?
+Dialogue: 0,0:04:27.10,0:04:28.47,Thought,,0,0,0,,{TIME:267100,268477}No way!
 Dialogue: 0,0:04:28.47,0:04:35.02,Default,,0,0,0,,{TIME:268477,275025}I have casted a girl named\NKitajima Maya from Tsukikage Theater.
 Dialogue: 0,0:04:35.02,0:04:36.40,Default,,0,0,0,,{TIME:275025,276401}Kitajima Maya.
 Dialogue: 0,0:04:42.03,0:04:47.57,Default,,0,0,0,,{TIME:282032,287579}My guess is that Miss Tsukikage is seeing her\Nas the candidate for "The Crimson Goddess."
@@ -99,11 +101,11 @@ Dialogue: 0,0:04:48.37,0:04:50.70,Default,,0,0,0,,{TIME:288371,290707}Candidate 
 Dialogue: 0,0:04:50.70,0:04:52.58,Default,,0,0,0,,{TIME:290707,292584}"The Crimson Goddess?"
 Dialogue: 0,0:04:52.58,0:04:55.00,Default,,0,0,0,,{TIME:292584,295003}Mr. Masumi, is there something wrong?
 Dialogue: 0,0:04:55.00,0:04:56.96,Default,,0,0,0,,{TIME:295003,296963}No, nothing.
-Dialogue: 0,0:04:56.96,0:04:58.08,Default,,0,0,0,,{TIME:296963,298089}{\i1}Mr. Masumi?
-Dialogue: 0,0:05:10.60,0:05:11.81,Default,,0,0,0,,{TIME:310602,311812}{\i1}Maya.
-Dialogue: 0,0:05:11.81,0:05:14.60,Default,,0,0,0,,{TIME:311812,314606}{\i1}She's the candidate for the Crimson Goddess?
-Dialogue: 0,0:05:14.60,0:05:16.14,Default,,0,0,0,,{TIME:314606,316149}{\i1}No, I won't lose.
-Dialogue: 0,0:05:16.14,0:05:17.44,Default,,0,0,0,,{TIME:316149,317442}{\i1}Not to her.
+Dialogue: 0,0:04:56.96,0:04:58.08,Thought,,0,0,0,,{TIME:296963,298089}Mr. Masumi?
+Dialogue: 0,0:05:10.60,0:05:11.81,Thought,,0,0,0,,{TIME:310602,311812}Maya.
+Dialogue: 0,0:05:11.81,0:05:14.60,Thought,,0,0,0,,{TIME:311812,314606}She's the candidate for the Crimson Goddess?
+Dialogue: 0,0:05:14.60,0:05:16.14,Thought,,0,0,0,,{TIME:314606,316149}No, I won't lose.
+Dialogue: 0,0:05:16.14,0:05:17.44,Thought,,0,0,0,,{TIME:316149,317442}Not to her.
 Dialogue: 0,0:05:41.46,0:05:45.05,Default,,0,0,0,,{TIME:341466,345053}Sleep tight, and smile.
 Dialogue: 0,0:05:45.38,0:05:48.43,Default,,0,0,0,,{TIME:345387,348431}Oh, baby-sitting is so boring.
 Dialogue: 0,0:05:48.43,0:05:52.97,Default,,0,0,0,,{TIME:348431,352978}Sleep tight, and smile.
@@ -111,8 +113,8 @@ Dialogue: 0,0:05:52.97,0:05:56.10,Default,,0,0,0,,{TIME:352978,356106}Sleep tigh
 Dialogue: 0,0:05:56.10,0:05:57.69,Default,,0,0,0,,{TIME:356106,357691}{\an8}Sleep tight, and smile…
 Dialogue: 0,0:05:56.56,0:06:00.40,Default,,0,0,0,,{TIME:356565,360402}I had doubts about her,\Nbut she is doing pretty good.
 Dialogue: 0,0:06:00.40,0:06:00.94,Default,,0,0,0,,{TIME:360402,360943}Yeah.
-Dialogue: 0,0:06:02.27,0:06:06.03,Default,,0,0,0,,{TIME:362279,366032}{\i1}Why in the world\Ndid Miss Harada choose her over me?
-Dialogue: 0,0:06:06.03,0:06:09.36,Default,,0,0,0,,{TIME:366032,369369}{\i1}Just watch, you'll see.
+Dialogue: 0,0:06:02.27,0:06:06.03,Thought,,0,0,0,,{TIME:362279,366032}Why in the world\Ndid Miss Harada choose her over me?
+Dialogue: 0,0:06:06.03,0:06:09.36,Thought,,0,0,0,,{TIME:366032,369369}Just watch, you'll see.
 Dialogue: 0,0:06:11.07,0:06:12.58,Default,,0,0,0,,{TIME:371079,372580}See you tomorrow.
 Dialogue: 0,0:06:15.66,0:06:17.25,Default,,0,0,0,,{TIME:375667,377252}Oh, Sakurakōji!
 Dialogue: 0,0:06:17.25,0:06:19.21,Default,,0,0,0,,{TIME:377252,379212}I was in the neighborhood,\Nso I decided to stop by.
@@ -129,29 +131,29 @@ Dialogue: 0,0:06:59.58,0:07:01.92,Default,,0,0,0,,{TIME:419586,421922}Oh, crepes
 Dialogue: 0,0:07:01.92,0:07:03.04,Default,,0,0,0,,{TIME:421922,423048}I'll get one for you.
 Dialogue: 0,0:07:03.04,0:07:04.17,Default,,0,0,0,,{TIME:423048,424174}What would you like?
 Dialogue: 0,0:07:04.17,0:07:05.34,Default,,0,0,0,,{TIME:424174,425342}Chocolate.
-Dialogue: 0,0:07:32.66,0:07:33.74,Default,,0,0,0,,{TIME:452661,453745}{\i1}No way!
-Dialogue: 0,0:07:42.33,0:07:44.33,Default,,0,0,0,,{TIME:462337,464339}{\i1}Ms. Ayumi?
-Dialogue: 0,0:07:44.33,0:07:48.38,Default,,0,0,0,,{TIME:464339,468385}{\i1}Why is Ayumi here looking like this?
-Dialogue: 0,0:07:58.85,0:08:01.14,Default,,0,0,0,,{TIME:478853,481147}{\i1}She is a genius.
-Dialogue: 0,0:08:01.14,0:08:01.94,Default,,0,0,0,,{TIME:481147,481940}{\i1}So why?
-Dialogue: 0,0:08:03.73,0:08:06.36,Default,,0,0,0,,{TIME:483733,486361}{\i1}To learn about being a beggar\Nfor "The Prince and the Pauper?"
-Dialogue: 0,0:08:06.36,0:08:08.19,Default,,0,0,0,,{TIME:486361,488196}{\i1}But still…
-Dialogue: 0,0:08:08.19,0:08:09.82,Default,,0,0,0,,{TIME:488196,489823}{\i1}Kitajima Maya.
-Dialogue: 0,0:08:09.82,0:08:12.36,Default,,0,0,0,,{TIME:489823,492367}{\i1}I won't lose.
-Dialogue: 0,0:08:12.36,0:08:17.91,Default,,0,0,0,,{TIME:492367,497914}{\i1}I was called a genius actress,\Nbut I'll prove I have more talent than you do.
-Dialogue: 0,0:08:17.91,0:08:20.70,Default,,0,0,0,,{TIME:497914,500709}{\i1}You may be the candidate\Nfor "The Crimson Goddess" now.
-Dialogue: 0,0:08:20.70,0:08:25.88,Default,,0,0,0,,{TIME:500709,505880}{\i1}But I'll prove I'm a better actress\Nto Miss Tsukikage.
+Dialogue: 0,0:07:32.66,0:07:33.74,Thought,,0,0,0,,{TIME:452661,453745}No way!
+Dialogue: 0,0:07:42.33,0:07:44.33,Thought,,0,0,0,,{TIME:462337,464339}Ms. Ayumi?
+Dialogue: 0,0:07:44.33,0:07:48.38,Thought,,0,0,0,,{TIME:464339,468385}Why is Ayumi here looking like this?
+Dialogue: 0,0:07:58.85,0:08:01.14,Thought,,0,0,0,,{TIME:478853,481147}She is a genius.
+Dialogue: 0,0:08:01.14,0:08:01.94,Thought,,0,0,0,,{TIME:481147,481940}So why?
+Dialogue: 0,0:08:03.73,0:08:06.36,Thought,,0,0,0,,{TIME:483733,486361}To learn about being a beggar\Nfor "The Prince and the Pauper?"
+Dialogue: 0,0:08:06.36,0:08:08.19,Thought,,0,0,0,,{TIME:486361,488196}But still…
+Dialogue: 0,0:08:08.19,0:08:09.82,Thought,,0,0,0,,{TIME:488196,489823}Kitajima Maya.
+Dialogue: 0,0:08:09.82,0:08:12.36,Thought,,0,0,0,,{TIME:489823,492367}I won't lose.
+Dialogue: 0,0:08:12.36,0:08:17.91,Thought,,0,0,0,,{TIME:492367,497914}I was called a genius actress,\Nbut I'll prove I have more talent than you do.
+Dialogue: 0,0:08:17.91,0:08:20.70,Thought,,0,0,0,,{TIME:497914,500709}You may be the candidate\Nfor "The Crimson Goddess" now.
+Dialogue: 0,0:08:20.70,0:08:25.88,Thought,,0,0,0,,{TIME:500709,505880}But I'll prove I'm a better actress\Nto Miss Tsukikage.
 Dialogue: 0,0:08:43.85,0:08:45.77,Default,,0,0,0,,{TIME:523857,525775}Sakurakōji.
 Dialogue: 0,0:08:48.86,0:08:50.98,Default,,0,0,0,,{TIME:528862,530989}So, that's for acting, too?
 Dialogue: 0,0:08:50.98,0:08:54.82,Default,,0,0,0,,{TIME:530989,534826}Yeah, I heard she is everywhere\Nlooking like that all the time.
 Dialogue: 0,0:08:54.82,0:08:57.37,Default,,0,0,0,,{TIME:534826,537370}The theater members are all surprised, too.
 Dialogue: 0,0:08:57.37,0:09:02.29,Default,,0,0,0,,{TIME:537370,542292}I heard she is eager to learn\Nabout acting on top of her talent…
 Dialogue: 0,0:09:02.29,0:09:05.54,Default,,0,0,0,,{TIME:542292,545545}…to be able to play\N"The Crimson Goddess" someday.
-Dialogue: 0,0:09:05.54,0:09:06.67,Default,,0,0,0,,{TIME:545545,546671}{\i1}"The Crimson Goddess."
+Dialogue: 0,0:09:05.54,0:09:06.67,Thought,,0,0,0,,{TIME:545545,546671}"The Crimson Goddess."
 Dialogue: 0,0:09:10.17,0:09:10.96,Default,,0,0,0,,{TIME:550175,550967}Oh.
 Dialogue: 0,0:09:10.96,0:09:12.59,Default,,0,0,0,,{TIME:550967,552593}Maya?
-Dialogue: 0,0:09:12.84,0:09:15.84,Default,,0,0,0,,{TIME:552844,555847}{\i1}Ayumi is going after "The Crimson Goddess?"
-Dialogue: 0,0:09:15.84,0:09:17.26,Default,,0,0,0,,{TIME:555847,557265}{\i1}That genius, Ayumi?
+Dialogue: 0,0:09:12.84,0:09:15.84,Thought,,0,0,0,,{TIME:552844,555847}Ayumi is going after "The Crimson Goddess?"
+Dialogue: 0,0:09:15.84,0:09:17.26,Thought,,0,0,0,,{TIME:555847,557265}That genius, Ayumi?
 Dialogue: 0,0:09:21.64,0:09:22.72,Default,,0,0,0,,{TIME:561644,562728}Maya…
 Dialogue: 0,0:09:24.93,0:09:27.44,Sign,(sign),0,0,0,,{TIME:564939,567442}{\fad(0,1500)}Fujinaga Hall
 Dialogue: 0,0:09:27.44,0:09:30.86,Sign,(sign),0,0,0,,{TIME:567442,570862}{\fad(1500,0)}"The Prince and the Pauper"
@@ -188,8 +190,8 @@ Dialogue: 0,0:11:50.54,0:11:53.50,Default,,0,0,0,,{TIME:710543,713504}"The Princ
 Dialogue: 0,0:11:53.50,0:11:56.79,Default,,0,0,0,,{TIME:713504,716799}Genius Himekawa Ayumi proved her talent.
 Dialogue: 0,0:11:56.79,0:11:59.42,Default,,0,0,0,,{TIME:716799,719427}Playing two roles in one play.
 Dialogue: 0,0:11:59.42,0:12:00.76,Default,,0,0,0,,{TIME:719427,720762}Such good reviews.
-Dialogue: 0,0:12:11.43,0:12:13.52,Default,,0,0,0,,{TIME:731439,733524}{\i1}Today is my first day.
-Dialogue: 0,0:12:13.52,0:12:16.36,Default,,0,0,0,,{TIME:733524,736361}{\i1}I do it my own way, and I'll do my best.
+Dialogue: 0,0:12:11.43,0:12:13.52,Thought,,0,0,0,,{TIME:731439,733524}Today is my first day.
+Dialogue: 0,0:12:13.52,0:12:16.36,Thought,,0,0,0,,{TIME:733524,736361}I do it my own way, and I'll do my best.
 Comment: 0,0:12:18.69,0:12:18.69,Default,[chapter],0,0,0,,{TIME:738695,738695}Eyecatch
 Comment: 0,0:12:22.49,0:12:22.49,Default,[chapter],0,0,0,,{TIME:742492,742492}#Eyecatch
 Comment: 0,0:12:25.45,0:12:25.45,Default,[chapter],0,0,0,,{TIME:745453,745453}Part B
@@ -207,18 +209,18 @@ Dialogue: 0,0:12:57.98,0:13:01.07,Default,,0,0,0,,{TIME:777986,781072}Mostly stu
 Dialogue: 0,0:13:01.07,0:13:02.24,Default,,0,0,0,,{TIME:781072,782240}I see.
 Dialogue: 0,0:13:02.24,0:13:04.11,Default,,0,0,0,,{TIME:782240,784117}Then it will be a good experience.
 Dialogue: 0,0:13:04.11,0:13:09.41,Default,,0,0,0,,{TIME:784117,789414}We'll see how well the audience\Nof Eishin Za will take to your acting.
-Dialogue: 0,0:13:09.41,0:13:13.33,Default,,0,0,0,,{TIME:789414,793334}{\i1}The atmosphere is really different\Nfrom what I'm used to.
+Dialogue: 0,0:13:09.41,0:13:13.33,Thought,,0,0,0,,{TIME:789414,793334}The atmosphere is really different\Nfrom what I'm used to.
 Dialogue: 0,0:13:16.54,0:13:19.17,Default,,0,0,0,,{TIME:796546,799173}What am I, really?
 Dialogue: 0,0:13:19.17,0:13:22.26,Default,,0,0,0,,{TIME:799173,802260}I'm just a tool to him, as a wife.
 Dialogue: 0,0:13:22.26,0:13:24.59,Default,,0,0,0,,{TIME:802260,804595}A tool to raise a son.
 Dialogue: 0,0:13:24.59,0:13:27.01,Default,,0,0,0,,{TIME:804595,807015}What's the reason for me to live?
-Dialogue: 0,0:13:29.09,0:13:30.05,Default,,0,0,0,,{TIME:809099,810059}{\i1}I'm afraid.
-Dialogue: 0,0:13:30.05,0:13:32.56,Default,,0,0,0,,{TIME:810059,812562}{\i1}Can my acting be accepted?
+Dialogue: 0,0:13:29.09,0:13:30.05,Thought,,0,0,0,,{TIME:809099,810059}I'm afraid.
+Dialogue: 0,0:13:30.05,0:13:32.56,Thought,,0,0,0,,{TIME:810059,812562}Can my acting be accepted?
 Dialogue: 0,0:13:33.02,0:13:35.18,Default,,0,0,0,,{TIME:813021,815189}H-Hey, are you okay?
 Dialogue: 0,0:13:37.15,0:13:38.40,Default,,0,0,0,,{TIME:817150,818401}This is not good.
 Dialogue: 0,0:13:39.31,0:13:40.48,Default,,0,0,0,,{TIME:819319,820486}You're up.
-Dialogue: 0,0:13:42.11,0:13:43.36,Default,,0,0,0,,{TIME:822113,823364}{\i1}It's my scene.
-Dialogue: 0,0:13:51.12,0:13:52.87,Default,,0,0,0,,{TIME:831122,832873}{\i1}I'm Tazu.
+Dialogue: 0,0:13:42.11,0:13:43.36,Thought,,0,0,0,,{TIME:822113,823364}It's my scene.
+Dialogue: 0,0:13:51.12,0:13:52.87,Thought,,0,0,0,,{TIME:831122,832873}I'm Tazu.
 Dialogue: 0,0:14:02.21,0:14:03.17,Default,,0,0,0,,{TIME:842216,843176}Miss.
 Dialogue: 0,0:14:03.17,0:14:05.38,Default,,0,0,0,,{TIME:843176,845386}The baby sitter is here.
 Dialogue: 0,0:14:05.38,0:14:07.34,Default,,0,0,0,,{TIME:845386,847347}Her name is Tazu.
@@ -233,15 +235,15 @@ Dialogue: 0,0:14:39.37,0:14:41.17,Default,,0,0,0,,{TIME:879379,881172}Here, Tazu
 Dialogue: 0,0:14:41.17,0:14:42.13,Default,,0,0,0,,{TIME:881172,882131}Okay!
 Dialogue: 0,0:14:48.51,0:14:50.05,Default,,0,0,0,,{TIME:888512,890055}By the way, Chief.
 Dialogue: 0,0:14:50.05,0:14:53.30,Default,,0,0,0,,{TIME:890055,893309}The reason I called you was…
-Dialogue: 0,0:14:57.68,0:14:59.39,Default,,0,0,0,,{TIME:897688,899399}{\i1}The audience is looking at her.
-Dialogue: 0,0:14:59.39,0:15:01.90,Default,,0,0,0,,{TIME:899399,901901}{\i1}We're the main roles of the play,\Nbut she's getting all the attention!
-Dialogue: 0,0:15:06.36,0:15:08.57,Default,,0,0,0,,{TIME:906364,908574}{\i1}W-Why is everyone laughing so hard?
-Dialogue: 0,0:15:08.57,0:15:10.66,Default,,0,0,0,,{TIME:908574,910660}{\i1}What did I do wrong?
+Dialogue: 0,0:14:57.68,0:14:59.39,Thought,,0,0,0,,{TIME:897688,899399}The audience is looking at her.
+Dialogue: 0,0:14:59.39,0:15:01.90,Thought,,0,0,0,,{TIME:899399,901901}We're the main roles of the play,\Nbut she's getting all the attention!
+Dialogue: 0,0:15:06.36,0:15:08.57,Thought,,0,0,0,,{TIME:906364,908574}W-Why is everyone laughing so hard?
+Dialogue: 0,0:15:08.57,0:15:10.66,Thought,,0,0,0,,{TIME:908574,910660}What did I do wrong?
 Dialogue: 0,0:15:10.66,0:15:12.16,Default,,0,0,0,,{TIME:910660,912161}She stands out so much!
 Dialogue: 0,0:15:12.16,0:15:16.49,Default,,0,0,0,,{TIME:912161,916499}She's just a normal girl,\Nbut when she's on stage, she really stands out.
 Dialogue: 0,0:15:16.49,0:15:18.75,Default,,0,0,0,,{TIME:916499,918751}Her acting is not all that great, either.
-Dialogue: 0,0:15:22.04,0:15:24.67,Default,,0,0,0,,{TIME:922045,924674}{\i1}Kitajima Maya.\NDon't think you're on top of the world.
-Dialogue: 0,0:15:24.67,0:15:27.38,Default,,0,0,0,,{TIME:924674,927385}{\i1}I'll make it so that you won't be able\Nto stand up on stage ever again.
+Dialogue: 0,0:15:22.04,0:15:24.67,Thought,,0,0,0,,{TIME:922045,924674}Kitajima Maya.\NDon't think you're on top of the world.
+Dialogue: 0,0:15:24.67,0:15:27.38,Thought,,0,0,0,,{TIME:924674,927385}I'll make it so that you won't be able\Nto stand up on stage ever again.
 Dialogue: 0,0:15:35.60,0:15:37.18,Default,,0,0,0,,{TIME:935601,937186}Mr. Masumi.
 Dialogue: 0,0:15:37.18,0:15:41.77,Default,,0,0,0,,{TIME:937186,941774}You have to be out in thirty minutes\Nto make the next meeting.
 Dialogue: 0,0:15:41.77,0:15:43.48,Default,,0,0,0,,{TIME:941774,943483}I know.
@@ -268,13 +270,13 @@ Dialogue: 0,0:16:44.00,0:16:48.34,Default,,0,0,0,,{TIME:1004003,1008341}Here, do
 Dialogue: 0,0:16:48.34,0:16:50.92,Default,,0,0,0,,{TIME:1008341,1010927}Sleep tight…
 Dialogue: 0,0:16:52.47,0:16:54.93,Default,,0,0,0,,{TIME:1012470,1014931}…little baby…
 Dialogue: 0,0:16:55.30,0:16:56.39,Default,,0,0,0,,{TIME:1015306,1016390}Oh!
-Dialogue: 0,0:17:20.16,0:17:22.08,Default,,0,0,0,,{TIME:1040164,1042083}{\i1}Theater is a real play.
-Dialogue: 0,0:17:22.08,0:17:24.75,Default,,0,0,0,,{TIME:1042083,1044752}{\i1}Go ahead and cry,\Nyou will never be on stage again.
+Dialogue: 0,0:17:20.16,0:17:22.08,Thought,,0,0,0,,{TIME:1040164,1042083}Theater is a real play.
+Dialogue: 0,0:17:22.08,0:17:24.75,Thought,,0,0,0,,{TIME:1042083,1044752}Go ahead and cry,\Nyou will never be on stage again.
 Dialogue: 0,0:17:27.62,0:17:29.00,Default,,0,0,0,,{TIME:1047629,1049005}Miss Harada!
 Dialogue: 0,0:17:57.70,0:18:00.62,Default,,0,0,0,,{TIME:1077702,1080621}You sit back there like I told you.
 Dialogue: 0,0:18:00.62,0:18:03.62,Default,,0,0,0,,{TIME:1080621,1083624}Oh, it ain't easy baby-sitting you.
-Dialogue: 0,0:18:12.75,0:18:15.51,Default,,0,0,0,,{TIME:1092758,1095511}{\i1}No way? I can't believe it!
-Dialogue: 0,0:18:16.34,0:18:19.43,Default,,0,0,0,,{TIME:1096345,1099432}{\i1}Great theater spirit, little girl.
+Dialogue: 0,0:18:12.75,0:18:15.51,Thought,,0,0,0,,{TIME:1092758,1095511}No way? I can't believe it!
+Dialogue: 0,0:18:16.34,0:18:19.43,Thought,,0,0,0,,{TIME:1096345,1099432}Great theater spirit, little girl.
 Dialogue: 0,0:18:19.97,0:18:21.85,Default,,0,0,0,,{TIME:1099974,1101851}A candidate for "The Crimson Goddess."
 Dialogue: 0,0:18:21.85,0:18:24.39,Default,,0,0,0,,{TIME:1101851,1104395}She sure is something else.
 Dialogue: 0,0:18:25.77,0:18:29.52,Default,,0,0,0,,{TIME:1105771,1109525}Okay, this is enough baby-sitting.
@@ -282,9 +284,9 @@ Dialogue: 0,0:18:29.52,0:18:31.36,Default,,0,0,0,,{TIME:1109525,1111360}Let's go
 Dialogue: 0,0:18:32.98,0:18:36.94,Default,,0,0,0,,{TIME:1112987,1116949}Sleep tight…
 Dialogue: 0,0:18:36.94,0:18:39.45,Default,,0,0,0,,{TIME:1116949,1119452}…little baby.
 Dialogue: 0,0:18:39.45,0:18:42.28,Default,,0,0,0,,{TIME:1119452,1122288}Sleep tight…
-Dialogue: 0,0:18:49.37,0:18:52.21,Default,,0,0,0,,{TIME:1129378,1132214}{\i1}I thought I would die…
-Dialogue: 0,0:18:57.72,0:18:59.26,Default,,0,0,0,,{TIME:1137720,1139263}{\i1}I can't believe it!
-Dialogue: 0,0:18:59.26,0:19:01.93,Default,,0,0,0,,{TIME:1139263,1141932}{\i1}She has an even better reputation now.
+Dialogue: 0,0:18:49.37,0:18:52.21,Thought,,0,0,0,,{TIME:1129378,1132214}I thought I would die…
+Dialogue: 0,0:18:57.72,0:18:59.26,Thought,,0,0,0,,{TIME:1137720,1139263}I can't believe it!
+Dialogue: 0,0:18:59.26,0:19:01.93,Thought,,0,0,0,,{TIME:1139263,1141932}She has an even better reputation now.
 Dialogue: 0,0:19:04.93,0:19:10.56,Sign,(sign),0,0,0,,{TIME:1144935,1150566}Fujinaga Hall\N"The Prince and the Pauper"
 Dialogue: 0,0:19:11.23,0:19:13.65,Default,,0,0,0,,{TIME:1151233,1153653}It's as popular as ever.
 Dialogue: 0,0:19:13.65,0:19:15.73,Default,,0,0,0,,{TIME:1153653,1155738}Tickets are sold out every day.

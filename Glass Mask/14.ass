@@ -14,6 +14,8 @@ Audio File: source/14.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00EBEEEE,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -62,12 +64,12 @@ Dialogue: 0,0:02:13.46,0:02:13.46,Narrator,(narrator),0,0,0,,{TIME:133466,133466
 Dialogue: 0,0:02:21.26,0:02:28.14,Episode title,[title],0,0,0,,{TIME:141266,148148}{\an5\pos(766,720)\fscy95\blur1\fad(800,800)}—Episode 14—\NMy New Role as a Doll
 Dialogue: 0,0:02:29.41,0:02:29.41,Sign,(sign),0,0,0,,{TIME:149416,149416}Tōtō University Medical Center{NOTE:東都大学付属病院}
 Dialogue: 0,0:02:32.68,0:02:32.68,Default,,0,0,0,,{TIME:152686,152686}Huh?
-Dialogue: 0,0:02:36.02,0:02:36.02,Default,,0,0,0,,{TIME:156022,156022}{\i1}No, no. It's impossible\Nfor my teacher to die.
+Dialogue: 0,0:02:36.02,0:02:36.02,Thought,,0,0,0,,{TIME:156022,156022}No, no. It's impossible\Nfor my teacher to die.
 Dialogue: 0,0:02:36.48,0:02:36.48,Sign,(sign),0,0,0,,{TIME:156489,156489}Operating room in use
 Dialogue: 0,0:02:38.59,0:02:38.59,Sign,(sign),0,0,0,,{TIME:158591,158591}Operating room in use
-Dialogue: 0,0:02:39.42,0:02:39.42,Default,,0,0,0,,{TIME:159426,159426}{\i1}I still have so many things\Nthat I have to learn from her.
+Dialogue: 0,0:02:39.42,0:02:39.42,Thought,,0,0,0,,{TIME:159426,159426}I still have so many things\Nthat I have to learn from her.
 Dialogue: 0,0:02:41.52,0:02:41.52,Sign,(sign),0,0,0,,{TIME:161528,161528}Operating room in use
-Dialogue: 0,0:02:42.49,0:02:42.49,Default,,0,0,0,,{TIME:162495,162495}{\i1}Please, don't leave me, Teacher!
+Dialogue: 0,0:02:42.49,0:02:42.49,Thought,,0,0,0,,{TIME:162495,162495}Please, don't leave me, Teacher!
 Dialogue: 0,0:02:47.33,0:02:47.33,Default,,0,0,0,,{TIME:167334,167334}How is she?\NHow is the operation going?
 Dialogue: 0,0:02:50.03,0:02:50.03,Default,,0,0,0,,{TIME:170036,170036}It's been two hours already.
 Dialogue: 0,0:02:51.07,0:02:51.07,Sign,(sign),0,0,0,,{TIME:171071,171071}Operating room in use
@@ -75,7 +77,7 @@ Dialogue: 0,0:02:52.43,0:02:52.43,Default,,0,0,0,,{TIME:172439,172439}Two hours?
 Dialogue: 0,0:02:54.37,0:02:54.37,Default,,0,0,0,,{TIME:174374,174374}That type of lifestyle…\NIt was just too much for her body to take.
 Dialogue: 0,0:02:59.61,0:02:59.61,Default,,0,0,0,,{TIME:179612,179612}Her heart was already bad, and then she had to go through the breakup of Tsukikage Theater.
 Dialogue: 0,0:03:03.68,0:03:03.68,Default,,0,0,0,,{TIME:183683,183683}It sure was too much.
-Dialogue: 0,0:03:07.42,0:03:07.42,Default,,0,0,0,,{TIME:187420,187420}{\i1}That's right. It's all because of that man from Metropolitan Entertainment.
+Dialogue: 0,0:03:07.42,0:03:07.42,Thought,,0,0,0,,{TIME:187420,187420}That's right. It's all because of that man from Metropolitan Entertainment.
 Dialogue: 0,0:03:12.72,0:03:12.72,Sign,(sign),0,0,0,,{TIME:192726,192726}Operating room in use
 Dialogue: 0,0:03:19.36,0:03:19.36,Default,,0,0,0,,{TIME:199366,199366}Doctor!
 Dialogue: 0,0:03:20.56,0:03:20.56,Default,,0,0,0,,{TIME:200567,200567}How was the surgery?
@@ -87,7 +89,7 @@ Dialogue: 0,0:03:47.76,0:03:47.76,Narrator,(narrator),0,0,0,,{TIME:227761,227761
 Dialogue: 0,0:03:56.43,0:03:56.43,Narrator,(narrator),0,0,0,,{TIME:236436,236436}It has been four day since the surgery.
 Dialogue: 0,0:04:08.21,0:04:08.21,Default,,0,0,0,,{TIME:248214,248214}If you know of any relatives,\Nplease let them know.
 Dialogue: 0,0:04:13.45,0:04:13.45,Default,,0,0,0,,{TIME:253453,253453}If she doesn't regain consciousness tonight,\Nthen she might be through.
-Dialogue: 0,0:04:17.32,0:04:17.32,Default,,0,0,0,,{TIME:257323,257323}{\i1}She's… about to die?
+Dialogue: 0,0:04:17.32,0:04:17.32,Thought,,0,0,0,,{TIME:257323,257323}She's… about to die?
 Dialogue: 0,0:04:25.06,0:04:25.06,Default,,0,0,0,,{TIME:265065,265065}No!\NThat can't happen!
 Dialogue: 0,0:04:26.36,0:04:26.36,Default,,0,0,0,,{TIME:266366,266366}Maya!
 Dialogue: 0,0:04:27.20,0:04:27.20,Default,,0,0,0,,{TIME:267200,267200}Teacher!
@@ -113,33 +115,33 @@ Dialogue: 0,0:05:25.12,0:05:25.12,Default,,0,0,0,,{TIME:325125,325125}Maya…
 Dialogue: 0,0:05:27.66,0:05:27.66,Default,,0,0,0,,{TIME:327660,327660}Maya, fight for it.
 Dialogue: 0,0:05:29.32,0:05:29.32,Default,,0,0,0,,{TIME:329329,329329}If you lose, the other person will take "The Crimson Goddess."
 Dialogue: 0,0:05:36.63,0:05:36.63,Default,,0,0,0,,{TIME:336636,336636}Yes.
-Dialogue: 0,0:05:41.37,0:05:41.37,Default,,0,0,0,,{TIME:341374,341374}{\i1}My face is burning,\Nso is my heart.
-Dialogue: 0,0:05:48.94,0:05:48.94,Default,,0,0,0,,{TIME:348948,348948}{\i1}I'm a candidate\Nfor "The Crimson Goddess?"
-Dialogue: 0,0:05:51.51,0:05:51.51,Default,,0,0,0,,{TIME:351518,351518}{\i1}I'm always being corrected by her.\NI can't believe it.
-Dialogue: 0,0:05:56.48,0:05:56.48,Default,,0,0,0,,{TIME:356489,356489}{\i1}My dream is about to come true.
-Dialogue: 0,0:05:58.79,0:05:58.79,Default,,0,0,0,,{TIME:358792,358792}{\i1}I don't know who this other person is,\Nbut I won't give up.
+Dialogue: 0,0:05:41.37,0:05:41.37,Thought,,0,0,0,,{TIME:341374,341374}My face is burning,\Nso is my heart.
+Dialogue: 0,0:05:48.94,0:05:48.94,Thought,,0,0,0,,{TIME:348948,348948}I'm a candidate\Nfor "The Crimson Goddess?"
+Dialogue: 0,0:05:51.51,0:05:51.51,Thought,,0,0,0,,{TIME:351518,351518}I'm always being corrected by her.\NI can't believe it.
+Dialogue: 0,0:05:56.48,0:05:56.48,Thought,,0,0,0,,{TIME:356489,356489}My dream is about to come true.
+Dialogue: 0,0:05:58.79,0:05:58.79,Thought,,0,0,0,,{TIME:358792,358792}I don't know who this other person is,\Nbut I won't give up.
 Dialogue: 0,0:06:03.99,0:06:03.99,Narrator,(narrator),0,0,0,,{TIME:363997,363997}That day, "Wuthering Heights"\Nhad come to its last day.
 Dialogue: 0,0:06:08.66,0:06:08.66,Default,,0,0,0,,{TIME:368668,368668}I will die while you will become rich, Heathcliff.
 Dialogue: 0,0:06:12.27,0:06:12.27,Default,,0,0,0,,{TIME:372272,372272}Catherine.
 Dialogue: 0,0:06:13.44,0:06:13.44,Default,,0,0,0,,{TIME:373440,373440}Heathcliff.
-Dialogue: 0,0:06:19.61,0:06:19.61,Default,,0,0,0,,{TIME:379612,379612}{\i1}If you love her, watch her\Ntill the end, no matter what.
-Dialogue: 0,0:06:24.08,0:06:24.08,Default,,0,0,0,,{TIME:384084,384084}{\i1}Maya, why did you want me\Nto come and see your play?
-Dialogue: 0,0:06:30.45,0:06:30.45,Default,,0,0,0,,{TIME:390457,390457}{\i1}I'm hurt to see\Nyour love towards each other.
+Dialogue: 0,0:06:19.61,0:06:19.61,Retrospective,,0,0,0,,{TIME:379612,379612}If you love her, watch her\Ntill the end, no matter what.
+Dialogue: 0,0:06:24.08,0:06:24.08,Thought,,0,0,0,,{TIME:384084,384084}Maya, why did you want me\Nto come and see your play?
+Dialogue: 0,0:06:30.45,0:06:30.45,Thought,,0,0,0,,{TIME:390457,390457}I'm hurt to see\Nyour love towards each other.
 Dialogue: 0,0:06:49.54,0:06:49.54,Default,,0,0,0,,{TIME:409542,409542}I'm hurt that you\Ndidn't even notice me hurting.
 Dialogue: 0,0:06:57.21,0:06:57.21,Sign,(sign),0,0,0,,{TIME:417217,417217}Backstage
 Dialogue: 0,0:06:57.45,0:06:57.45,Default,,0,0,0,,{TIME:417450,417450}Great job!\NYou guys did a wonderful job!
 Dialogue: 0,0:06:59.48,0:06:59.48,Default,,0,0,0,,{TIME:419486,419486}Can I please get an autograph?\NPlease sign this!
 Dialogue: 0,0:07:04.15,0:07:04.15,Default,,0,0,0,,{TIME:424157,424157}Yes, sure.
 Dialogue: 0,0:07:05.72,0:07:05.72,Default,,0,0,0,,{TIME:425725,425725}Ms. Kitajima, any words?
-Dialogue: 0,0:07:13.26,0:07:13.26,Default,,0,0,0,,{TIME:433266,433266}{\i1}Did I lose to her?
-Dialogue: 0,0:07:15.90,0:07:15.90,Default,,0,0,0,,{TIME:435902,435902}{\i1}No, that's not possible.
+Dialogue: 0,0:07:13.26,0:07:13.26,Thought,,0,0,0,,{TIME:433266,433266}Did I lose to her?
+Dialogue: 0,0:07:15.90,0:07:15.90,Thought,,0,0,0,,{TIME:435902,435902}No, that's not possible.
 Dialogue: 0,0:07:17.60,0:07:17.60,Default,,0,0,0,,{TIME:437604,437604}Ms. Kitajima.
 Dialogue: 0,0:07:17.80,0:07:17.80,Default,,0,0,0,,{TIME:437804,437804}Huh?
 Dialogue: 0,0:07:19.77,0:07:19.77,Default,,0,0,0,,{TIME:439773,439773}Here's a gift for you?
 Dialogue: 0,0:07:22.00,0:07:22.00,Default,,0,0,0,,{TIME:442008,442008}Thank you.
 Dialogue: 0,0:07:23.44,0:07:23.44,Sign,(sign),0,0,0,,{TIME:443443,443443}Ms. Kitajima Maya
-Dialogue: 0,0:07:23.84,0:07:23.84,Default,,0,0,0,,{TIME:443843,443843}{\i1}That's him!
-Dialogue: 0,0:07:25.74,0:07:25.74,Default,,0,0,0,,{TIME:445745,445745}{\i1}The man who always encourages me with purple roses.
+Dialogue: 0,0:07:23.84,0:07:23.84,Thought,,0,0,0,,{TIME:443843,443843}That's him!
+Dialogue: 0,0:07:25.74,0:07:25.74,Thought,,0,0,0,,{TIME:445745,445745}The man who always encourages me with purple roses.
 Dialogue: 0,0:07:30.85,0:07:30.85,Default,,0,0,0,,{TIME:450850,450850}"Congratulations on the finale of your play."
 Dialogue: 0,0:07:32.58,0:07:32.58,Default,,0,0,0,,{TIME:452585,452585}"I'm glad to see that you get better with each play."
 Dialogue: 0,0:07:36.52,0:07:36.52,Default,,0,0,0,,{TIME:456523,456523}"—Your number one fan,\Nwho is always looking at you."
@@ -165,15 +167,15 @@ Dialogue: 0,0:08:54.26,0:08:54.26,Default,,0,0,0,,{TIME:534267,534267}Here, a hi
 Dialogue: 0,0:08:58.57,0:08:58.57,Sign,(sign),0,0,0,,{TIME:538571,538571}Yū
 Dialogue: 0,0:09:01.27,0:09:01.27,Default,,0,0,0,,{TIME:541274,541274}Sakurakōji!
 Dialogue: 0,0:09:02.90,0:09:02.90,Default,,0,0,0,,{TIME:542909,542909}Maya!
-Dialogue: 0,0:09:07.38,0:09:07.38,Default,,0,0,0,,{TIME:547380,547380}{\i1}Catherine…
-Dialogue: 0,0:09:09.74,0:09:09.74,Default,,0,0,0,,{TIME:549749,549749}{\i1}I don't want to end our relationship.
-Dialogue: 0,0:09:11.65,0:09:11.65,Default,,0,0,0,,{TIME:551651,551651}{\i1}I will never be able to find a woman like you, Catherine.
-Dialogue: 0,0:09:17.35,0:09:17.35,Default,,0,0,0,,{TIME:557357,557357}{\i1}Ryo, you are just going after your imagination.
-Dialogue: 0,0:09:20.86,0:09:20.86,Default,,0,0,0,,{TIME:560860,560860}{\i1}Catherine is gone with the stage of "Wuthering Heights."
-Dialogue: 0,0:09:24.69,0:09:24.69,Default,,0,0,0,,{TIME:564698,564698}{\i1}Please realize that soon.
-Dialogue: 0,0:09:31.20,0:09:31.20,Default,,0,0,0,,{TIME:571204,571204}{\i1}Sakurakōji, why didn't you wait for me?
-Dialogue: 0,0:09:35.77,0:09:35.77,Default,,0,0,0,,{TIME:575775,575775}{\i1}You didn't stay till the end on the first day either.
-Dialogue: 0,0:09:39.94,0:09:39.94,Default,,0,0,0,,{TIME:579946,579946}{\i1}Why didn't you congratulate me on the play's success?
+Dialogue: 0,0:09:07.38,0:09:07.38,Thought,,0,0,0,,{TIME:547380,547380}Catherine…
+Dialogue: 0,0:09:09.74,0:09:09.74,Thought,,0,0,0,,{TIME:549749,549749}I don't want to end our relationship.
+Dialogue: 0,0:09:11.65,0:09:11.65,Thought,,0,0,0,,{TIME:551651,551651}I will never be able to find a woman like you, Catherine.
+Dialogue: 0,0:09:17.35,0:09:17.35,Thought,,0,0,0,,{TIME:557357,557357}Ryo, you are just going after your imagination.
+Dialogue: 0,0:09:20.86,0:09:20.86,Thought,,0,0,0,,{TIME:560860,560860}Catherine is gone with the stage of "Wuthering Heights."
+Dialogue: 0,0:09:24.69,0:09:24.69,Thought,,0,0,0,,{TIME:564698,564698}Please realize that soon.
+Dialogue: 0,0:09:31.20,0:09:31.20,Thought,,0,0,0,,{TIME:571204,571204}Sakurakōji, why didn't you wait for me?
+Dialogue: 0,0:09:35.77,0:09:35.77,Thought,,0,0,0,,{TIME:575775,575775}You didn't stay till the end on the first day either.
+Dialogue: 0,0:09:39.94,0:09:39.94,Thought,,0,0,0,,{TIME:579946,579946}Why didn't you congratulate me on the play's success?
 Dialogue: 0,0:09:53.49,0:09:53.49,Default,,0,0,0,,{TIME:593493,593493}Oh, Mr. President,\Nyou are still here.
 Dialogue: 0,0:09:56.32,0:09:56.32,Default,,0,0,0,,{TIME:596329,596329}Kitajima Maya was great!
 Dialogue: 0,0:09:59.69,0:09:59.69,Default,,0,0,0,,{TIME:599699,599699}You have a great eye\Nfor choosing her, Mr. President.
@@ -214,7 +216,7 @@ Dialogue: 0,0:11:58.98,0:11:58.98,Default,,0,0,0,,{TIME:718985,718985}I will hav
 Dialogue: 0,0:12:02.48,0:12:02.48,Default,,0,0,0,,{TIME:722489,722489}A doll?
 Dialogue: 0,0:12:03.89,0:12:03.89,Default,,0,0,0,,{TIME:723890,723890}Yes. A doll who just sits\Nin the middle of the stage.
 Dialogue: 0,0:12:08.09,0:12:08.09,Default,,0,0,0,,{TIME:728094,728094}You won't have\Nany movements nor words.
-Dialogue: 0,0:12:10.56,0:12:10.56,Default,,0,0,0,,{TIME:730563,730563}{\i1}Why, why is she giving me\Nsuch a role?
+Dialogue: 0,0:12:10.56,0:12:10.56,Thought,,0,0,0,,{TIME:730563,730563}Why, why is she giving me\Nsuch a role?
 Comment: 0,0:12:19.78,0:12:19.78,Default,[chapter],0,0,0,,{TIME:739781,739781}Eyecatch
 Comment: 0,0:12:23.49,0:12:23.49,Default,[chapter],0,0,0,,{TIME:743493,743493}#Eyecatch
 Comment: 0,0:12:26.45,0:12:26.45,Default,[chapter],0,0,0,,{TIME:746454,746454}Part B
@@ -225,8 +227,8 @@ Dialogue: 0,0:12:38.39,0:12:38.39,Default,,0,0,0,,{TIME:758391,758391}I know I o
 Dialogue: 0,0:12:40.51,0:12:40.51,Narrator,(narrator),0,0,0,,{TIME:760510,760510}"The Smile of Stone" is about a 12 year old, Marisa, who is about to die after giving away a large portion of her property to a doll.
 Dialogue: 0,0:12:46.43,0:12:46.43,Narrator,(narrator),0,0,0,,{TIME:766433,766433}It is a tragic comedy involving a young widow, a countess, a swindler, and many more.
 Dialogue: 0,0:12:54.84,0:12:54.84,Narrator,(narrator),0,0,0,,{TIME:774841,774841}Maya's role is the doll, Elizabeth.
-Dialogue: 0,0:12:59.27,0:12:59.27,Default,,0,0,0,,{TIME:779279,779279}{\i1}Oh, I want to move,\Nor to say something.
-Dialogue: 0,0:13:02.48,0:13:02.48,Default,,0,0,0,,{TIME:782482,782482}{\i1}This role is no fund,\Njust sitting around like this.
+Dialogue: 0,0:12:59.27,0:12:59.27,Thought,,0,0,0,,{TIME:779279,779279}Oh, I want to move,\Nor to say something.
+Dialogue: 0,0:13:02.48,0:13:02.48,Thought,,0,0,0,,{TIME:782482,782482}This role is no fund,\Njust sitting around like this.
 Dialogue: 0,0:13:06.21,0:13:06.21,Narrator,(narrator),0,0,0,,{TIME:786219,786219}Miss Tsukikage started training\Nthe group despite her condition.
 Dialogue: 0,0:13:11.02,0:13:11.02,Default,,0,0,0,,{TIME:791024,791024}Then, you will walk towards the doll\Nand push onto the doll's shoulder.
 Dialogue: 0,0:13:16.29,0:13:16.29,Default,,0,0,0,,{TIME:796296,796296}Very lightly.
@@ -346,10 +348,10 @@ Dialogue: 0,0:22:01.35,0:22:01.35,Default,,0,0,0,,{TIME:1321354,1321354}Hitotsub
 Dialogue: 0,0:22:03.18,0:22:03.18,Default,,0,0,0,,{TIME:1323189,1323189}They have great acting programs…
 Dialogue: 0,0:22:05.99,0:22:05.99,Default,,0,0,0,,{TIME:1325992,1325992}…but, who in the world\Ndid something like this?
 Dialogue: 0,0:22:09.52,0:22:09.52,Default,,0,0,0,,{TIME:1329529,1329529}Well, I didn't meet him,\Nbut he left something like this.
-Dialogue: 0,0:22:17.97,0:22:17.97,Default,,0,0,0,,{TIME:1337971,1337971}{\i1}That's him!\NMr. Purple Rose!
+Dialogue: 0,0:22:17.97,0:22:17.97,Thought,,0,0,0,,{TIME:1337971,1337971}That's him!\NMr. Purple Rose!
 Dialogue: 0,0:22:21.74,0:22:21.74,Default,,0,0,0,,{TIME:1341741,1341741}"Please accept my good intentions."
 Dialogue: 0,0:22:24.11,0:22:24.11,Default,,0,0,0,,{TIME:1344110,1344110}"I'm sure you will be able to learn acting while enjoying your high school days."
-Dialogue: 0,0:22:31.45,0:22:31.45,Default,,0,0,0,,{TIME:1351451,1351451}{\i1}"Looking forward to seeing you grow as an actress."
+Dialogue: 0,0:22:31.45,0:22:31.45,Thought,,0,0,0,,{TIME:1351451,1351451}"Looking forward to seeing you grow as an actress."
 Dialogue: 0,0:22:36.72,0:22:36.72,Default,,0,0,0,,{TIME:1356723,1356723}Mr. Purple Rose,\Nplease keep looking after me.
 Dialogue: 0,0:22:40.22,0:22:40.22,Default,,0,0,0,,{TIME:1360226,1360226}I'll do it.\NI'll make it happen.
 Comment: 0,0:22:51.45,0:22:51.45,Default,[chapter],0,0,0,,{TIME:1371453,1371453}Ending

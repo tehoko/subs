@@ -14,6 +14,8 @@ Audio File: source/03.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00DDDCE0,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -60,12 +62,12 @@ Dialogue: 0,0:02:06.54,0:02:10.50,Narrator,(narrator),0,0,0,,{TIME:126543,130505
 Dialogue: 0,0:02:10.50,0:02:15.42,Narrator,(narrator),0,0,0,,{TIME:130505,135427}After her performance at the first play,\Nin which she played one of the main roles…
 Dialogue: 0,0:02:15.42,0:02:20.14,Narrator,(narrator),0,0,0,,{TIME:135427,140140}…purple roses were delivered\Nfrom an anonymous fan.
 Dialogue: 0,0:02:21.18,0:02:27.10,Episode title,[title],0,0,0,,{TIME:141183,147105}{\an5\pos(766,750)\fscy95\blur1\fad(400,0)}—Episode 03—\NThe Beautiful Rival
-Dialogue: 0,0:02:30.69,0:02:32.69,Default,,0,0,0,,{TIME:150692,152694}{\i1}I wonder who?
+Dialogue: 0,0:02:30.69,0:02:32.69,Thought,,0,0,0,,{TIME:150692,152694}I wonder who?
 Dialogue: 0,0:02:39.40,0:02:41.11,Default,,0,0,0,,{TIME:159409,161119}Welcome.
 Dialogue: 0,0:02:45.29,0:02:48.96,Default,,0,0,0,,{TIME:165290,168960}A purple rose.\NDo you like it, Masumi?
 Dialogue: 0,0:02:48.96,0:02:50.12,Default,,0,0,0,,{TIME:168960,170128}No.
-Dialogue: 0,0:02:57.63,0:02:59.59,Default,,0,0,0,,{TIME:177636,179596}{\i1}Kitajima Maya.
-Dialogue: 0,0:02:59.59,0:03:02.22,Default,,0,0,0,,{TIME:179596,182224}{\i1}I'm afraid of what she will become.
+Dialogue: 0,0:02:57.63,0:02:59.59,Thought,,0,0,0,,{TIME:177636,179596}Kitajima Maya.
+Dialogue: 0,0:02:59.59,0:03:02.22,Thought,,0,0,0,,{TIME:179596,182224}I'm afraid of what she will become.
 Dialogue: 0,0:03:02.22,0:03:04.85,Default,,0,0,0,,{TIME:182224,184851}Ayumi, your tea is ready.
 Dialogue: 0,0:03:06.85,0:03:09.27,Default,,0,0,0,,{TIME:186853,189272}Oh, what a strange child.
 Dialogue: 0,0:03:09.27,0:03:12.19,Default,,0,0,0,,{TIME:189272,192192}She hasn't spoken since\Nwe came back from the play.
@@ -77,9 +79,9 @@ Dialogue: 0,0:03:22.61,0:03:23.53,Default,,0,0,0,,{TIME:202619,203537}
 Dialogue: 0,0:03:23.53,0:03:26.87,Default,,0,0,0,,{TIME:203537,206873}No sugar for papa as well\Nbecause you're on a diet for your tummy.
 Dialogue: 0,0:03:26.87,0:03:27.79,Default,,0,0,0,,{TIME:206873,207791}
 Dialogue: 0,0:03:27.79,0:03:28.75,Default,,0,0,0,,{TIME:207791,208750}
-Dialogue: 0,0:03:33.58,0:03:37.50,Default,,0,0,0,,{TIME:213588,217509}{\i1}She is coming closer and closer to me…
-Dialogue: 0,0:03:38.42,0:03:40.22,Default,,0,0,0,,{TIME:218427,220220}{\i1}…but just watch.
-Dialogue: 0,0:03:40.22,0:03:42.22,Default,,0,0,0,,{TIME:220220,222220}{\i1}I won't let her become better than me.
+Dialogue: 0,0:03:33.58,0:03:37.50,Thought,,0,0,0,,{TIME:213588,217509}She is coming closer and closer to me…
+Dialogue: 0,0:03:38.42,0:03:40.22,Thought,,0,0,0,,{TIME:218427,220220}…but just watch.
+Dialogue: 0,0:03:40.22,0:03:42.22,Thought,,0,0,0,,{TIME:220220,222220}I won't let her become better than me.
 Dialogue: 0,0:03:43.47,0:03:47.39,Sign,(sign),0,0,0,,{TIME:223472,227393}The Crimson Goddess
 Dialogue: 0,0:03:47.39,0:03:51.35,Sign,(sign),0,0,0,,{TIME:227393,231356}Secret Relationship With Aoyagi Productions
 Dialogue: 0,0:03:51.35,0:03:53.48,Sign,(sign),0,0,0,,{TIME:231356,233483}Inexperienced Actors
@@ -117,8 +119,8 @@ Dialogue: 0,0:05:17.44,0:05:19.69,Default,,0,0,0,,{TIME:317442,319694}Hurry!
 Dialogue: 0,0:05:24.74,0:05:28.28,Default,,0,0,0,,{TIME:324741,328286}I had no idea she had heart problems.
 Dialogue: 0,0:05:30.24,0:05:32.20,Default,,0,0,0,,{TIME:330247,332207}What's going to happen to us?
 Dialogue: 0,0:05:35.91,0:05:39.79,Default,,0,0,0,,{TIME:335919,339798}But I was shocked by the critics.
-Dialogue: 0,0:05:49.05,0:05:51.05,Default,,0,0,0,,{TIME:349057,351059}{\i1}Critics…
-Dialogue: 0,0:05:51.05,0:05:53.89,Default,,0,0,0,,{TIME:351059,353895}{\i1}I never thought of drama like that.
+Dialogue: 0,0:05:49.05,0:05:51.05,Thought,,0,0,0,,{TIME:349057,351059}Critics…
+Dialogue: 0,0:05:51.05,0:05:53.89,Thought,,0,0,0,,{TIME:351059,353895}I never thought of drama like that.
 Dialogue: 0,0:05:57.77,0:05:59.86,Default,,0,0,0,,{TIME:357774,359860}Stop chatting now.
 Dialogue: 0,0:05:59.86,0:06:01.69,Default,,0,0,0,,{TIME:359860,361695}We have to start practicing.
 Dialogue: 0,0:06:02.57,0:06:03.40,Default,,0,0,0,,{TIME:362571,363405}Teacher!
@@ -293,11 +295,11 @@ Dialogue: 0,0:14:57.56,0:15:00.44,Default,,0,0,0,,{TIME:897563,900441}I want to 
 Dialogue: 0,0:15:00.44,0:15:01.98,Default,,0,0,0,,{TIME:900441,901984}So the climax of "Miss White Rose…"
 Dialogue: 0,0:15:01.98,0:15:04.82,Default,,0,0,0,,{TIME:901984,904821}…can be expected to be a competition\Nbetween mother and daughter.
 Dialogue: 0,0:15:08.86,0:15:10.49,Default,,0,0,0,,{TIME:908866,910493}Madame, that's…
-Dialogue: 0,0:15:13.70,0:15:21.50,Default,,0,0,0,,{TIME:913704,921504}{\i1}Hello. I'm terribly sorry for my horrible scene\Nover Maya the other day.
-Dialogue: 0,0:15:21.50,0:15:27.21,Default,,0,0,0,,{TIME:921504,927218}{\i1}After I thought about it, now I understand that\NI should let her do as she wills, just as you said.
-Dialogue: 0,0:15:27.21,0:15:29.55,Default,,0,0,0,,{TIME:927218,929554}{\i1}It may be lonely or hard…
-Dialogue: 0,0:15:29.55,0:15:35.01,Default,,0,0,0,,{TIME:929554,935017}{\i1}…but I should at least let her do what\Nshe wants to do. It's the least that I can do.
-Dialogue: 0,0:15:35.01,0:15:37.93,Default,,0,0,0,,{TIME:935017,937937}{\i1}Please take care of my daughter.
+Dialogue: 0,0:15:13.70,0:15:21.50,Thought,,0,0,0,,{TIME:913704,921504}Hello. I'm terribly sorry for my horrible scene\Nover Maya the other day.
+Dialogue: 0,0:15:21.50,0:15:27.21,Thought,,0,0,0,,{TIME:921504,927218}After I thought about it, now I understand that\NI should let her do as she wills, just as you said.
+Dialogue: 0,0:15:27.21,0:15:29.55,Thought,,0,0,0,,{TIME:927218,929554}It may be lonely or hard…
+Dialogue: 0,0:15:29.55,0:15:35.01,Thought,,0,0,0,,{TIME:929554,935017}…but I should at least let her do what\Nshe wants to do. It's the least that I can do.
+Dialogue: 0,0:15:35.01,0:15:37.93,Thought,,0,0,0,,{TIME:935017,937937}Please take care of my daughter.
 Dialogue: 0,0:15:39.18,0:15:41.69,Default,,0,0,0,,{TIME:939188,941690}Here, let's burn the package.
 Dialogue: 0,0:15:41.69,0:15:43.10,Default,,0,0,0,,{TIME:941690,943109}Madame…
 Dialogue: 0,0:15:43.10,0:15:44.31,Default,,0,0,0,,{TIME:943109,944318}Hurry.
@@ -352,7 +354,7 @@ Dialogue: 0,0:18:06.12,0:18:08.25,Default,,0,0,0,,{TIME:1086127,1088254}She's ab
 Dialogue: 0,0:18:08.25,0:18:09.29,Default,,0,0,0,,{TIME:1088254,1089297}Fine.
 Dialogue: 0,0:18:09.29,0:18:12.21,Default,,0,0,0,,{TIME:1089297,1092216}But just with one student.
 Dialogue: 0,0:18:12.63,0:18:13.46,Default,,0,0,0,,{TIME:1092633,1093467}Kitajima Maya.
-Dialogue: 0,0:18:13.46,0:18:14.42,Default,,0,0,0,,{TIME:1093467,1094427}{\i1}Ah!
+Dialogue: 0,0:18:13.46,0:18:14.42,Thought,,0,0,0,,{TIME:1093467,1094427}Ah!
 Dialogue: 0,0:18:14.42,0:18:16.13,Default,,0,0,0,,{TIME:1094427,1096137}Get on the stage.
 Dialogue: 0,0:18:23.68,0:18:26.02,Default,,0,0,0,,{TIME:1103686,1106022}Here, Maya, get on the stage.
 Dialogue: 0,0:18:34.15,0:18:35.07,Default,,0,0,0,,{TIME:1114155,1115072}Start!
@@ -386,24 +388,24 @@ Dialogue: 0,0:19:26.70,0:19:28.37,Default,,0,0,0,,{TIME:1166707,1168376}You don'
 Dialogue: 0,0:19:28.37,0:19:30.08,Default,,0,0,0,,{TIME:1168376,1170086}Man, that girl's tough.
 Dialogue: 0,0:19:30.08,0:19:32.83,Default,,0,0,0,,{TIME:1170086,1172838}But Maya is doing good.
 Dialogue: 0,0:19:43.01,0:19:45.10,Default,,0,0,0,,{TIME:1183015,1185101}Wow, it's been an hour now.
-Dialogue: 0,0:19:47.26,0:19:49.43,Default,,0,0,0,,{TIME:1187269,1189438}{\i1}I didn't think she could do this well.
-Dialogue: 0,0:19:49.43,0:19:52.02,Default,,0,0,0,,{TIME:1189438,1192024}{\i1}But watch, it'll soon be over.
+Dialogue: 0,0:19:47.26,0:19:49.43,Thought,,0,0,0,,{TIME:1187269,1189438}I didn't think she could do this well.
+Dialogue: 0,0:19:49.43,0:19:52.02,Thought,,0,0,0,,{TIME:1189438,1192024}But watch, it'll soon be over.
 Dialogue: 0,0:19:53.40,0:19:55.06,Default,,0,0,0,,{TIME:1193401,1195069}I want to play some music.
 Dialogue: 0,0:19:55.06,0:19:56.48,Default,,0,0,0,,{TIME:1195069,1196487}What kind of music do you like?
 Dialogue: 0,0:20:02.70,0:20:03.61,Default,,0,0,0,,{TIME:1202702,1203619}It's unfair!
 Dialogue: 0,0:20:03.61,0:20:04.49,Default,,0,0,0,,{TIME:1203619,1204495}Go ahead.
 Dialogue: 0,0:20:04.49,0:20:06.16,Default,,0,0,0,,{TIME:1204495,1206163}Tell me what you like.
 Dialogue: 0,0:20:29.77,0:20:32.98,Default,,0,0,0,,{TIME:1229770,1232982}Using four words,\Nthere's no way she can answer that.
-Dialogue: 0,0:20:32.98,0:20:34.98,Default,,0,0,0,,{TIME:1232982,1234984}{\i1}I wonder what she's about to do.
+Dialogue: 0,0:20:32.98,0:20:34.98,Thought,,0,0,0,,{TIME:1232982,1234984}I wonder what she's about to do.
 Dialogue: 0,0:20:47.16,0:20:48.03,Default,,0,0,0,,{TIME:1247163,1248038}Yes.
 Dialogue: 0,0:20:52.96,0:20:55.00,Default,,0,0,0,,{TIME:1252960,1255004}There, it's over.
 Dialogue: 0,0:20:58.50,0:20:59.75,Default,,0,0,0,,{TIME:1258507,1259759}She did it!
 Dialogue: 0,0:21:00.84,0:21:02.76,Default,,0,0,0,,{TIME:1260843,1262762}– Great job.\N– I'm impressed.
 Dialogue: 0,0:21:04.30,0:21:05.80,Default,,0,0,0,,{TIME:1264305,1265806}Awesome!
 Dialogue: 0,0:21:08.76,0:21:10.47,Default,,0,0,0,,{TIME:1268768,1270477}Thank you very much.
-Dialogue: 0,0:21:16.15,0:21:19.61,Default,,0,0,0,,{TIME:1276150,1279610}{\i1}This is the first time\Nthat someone could beat me.
-Dialogue: 0,0:21:22.15,0:21:24.03,Default,,0,0,0,,{TIME:1282156,1284033}{\i1}Kitajima Maya…
-Dialogue: 0,0:21:24.90,0:21:27.70,Default,,0,0,0,,{TIME:1284909,1287703}{\i1}Someday we might compete on stage.
+Dialogue: 0,0:21:16.15,0:21:19.61,Thought,,0,0,0,,{TIME:1276150,1279610}This is the first time\Nthat someone could beat me.
+Dialogue: 0,0:21:22.15,0:21:24.03,Thought,,0,0,0,,{TIME:1282156,1284033}Kitajima Maya…
+Dialogue: 0,0:21:24.90,0:21:27.70,Thought,,0,0,0,,{TIME:1284909,1287703}Someday we might compete on stage.
 Dialogue: 0,0:21:28.91,0:21:30.99,Default,,0,0,0,,{TIME:1288913,1290998}Really, Ayumi did?
 Dialogue: 0,0:21:30.99,0:21:33.37,Default,,0,0,0,,{TIME:1290998,1293375}Yes, suddenly.\NI was so surprised.
 Dialogue: 0,0:21:33.37,0:21:36.37,Default,,0,0,0,,{TIME:1293375,1296378}But it's good to see that you are doing fine.
@@ -425,7 +427,7 @@ Dialogue: 0,0:22:21.38,0:22:22.67,Default,,0,0,0,,{TIME:1341382,1342675}Importan
 Dialogue: 0,0:22:22.67,0:22:24.21,Default,,0,0,0,,{TIME:1342675,1344218}None of your business.
 Dialogue: 0,0:22:24.21,0:22:26.13,Default,,0,0,0,,{TIME:1344218,1346136}It's a purple rose.
 Dialogue: 0,0:22:26.13,0:22:27.42,Default,,0,0,0,,{TIME:1346136,1347428}Please give it back to me.
-Dialogue: 0,0:22:33.47,0:22:36.93,Default,,0,0,0,,{TIME:1353477,1356938}{\i1}A purple rose that has nothing to do with me…
+Dialogue: 0,0:22:33.47,0:22:36.93,Thought,,0,0,0,,{TIME:1353477,1356938}A purple rose that has nothing to do with me…
 Comment: 0,0:22:49.36,0:22:49.36,Default,[chapter],0,0,0,,{TIME:1369368,1369368}Ending
 Dialogue: 0,0:22:56.62,0:23:02.71,Ending alt,[karaoke],0,0,0,,{TIME:1376625,1382715}{\blur3}It is lonely by myself…
 Dialogue: 0,0:23:02.71,0:23:08.84,Ending alt,[karaoke],0,0,0,,{TIME:1382715,1388846}{\blur3}…and I almost stumble.

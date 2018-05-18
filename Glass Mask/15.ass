@@ -14,6 +14,8 @@ Audio File: source/15.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00EBEEEE,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -115,7 +117,7 @@ Dialogue: 0,0:05:03.87,0:05:03.87,Default,,0,0,0,,{TIME:303870,303870}Yup.\NEver
 Dialogue: 0,0:05:06.63,0:05:06.63,Default,,0,0,0,,{TIME:306639,306639}Oh?\NIt's raining.
 Dialogue: 0,0:05:08.84,0:05:08.84,Default,,0,0,0,,{TIME:308842,308842}We're lucky we're done carrying everything inside.
 Dialogue: 0,0:05:10.97,0:05:10.97,Default,,0,0,0,,{TIME:310977,310977}Maya, come on in.\NYou'll get wet.
-Dialogue: 0,0:05:14.58,0:05:14.58,Default,,0,0,0,,{TIME:314581,314581}{\i1}Rain.
+Dialogue: 0,0:05:14.58,0:05:14.58,Thought,,0,0,0,,{TIME:314581,314581}Rain.
 Dialogue: 0,0:05:22.45,0:05:22.45,Default,,0,0,0,,{TIME:322455,322455}The umbrella!
 Dialogue: 0,0:05:30.23,0:05:30.23,Default,,0,0,0,,{TIME:330230,330230}Excuse me.
 Dialogue: 0,0:05:30.49,0:05:30.49,Default,,0,0,0,,{TIME:330497,330497}Yes.
@@ -143,19 +145,19 @@ Dialogue: 0,0:06:18.21,0:06:18.21,Default,,0,0,0,,{TIME:378211,378211}What?\NThe
 Dialogue: 0,0:06:20.81,0:06:20.81,Default,,0,0,0,,{TIME:380814,380814}Wow, can I put my name on the list?
 Dialogue: 0,0:06:22.54,0:06:22.54,Default,,0,0,0,,{TIME:382549,382549}No!\NLet me…
 Dialogue: 0,0:06:23.85,0:06:23.85,Default,,0,0,0,,{TIME:383850,383850}Well, sure, okay!\NWhy not!
-Dialogue: 0,0:06:29.05,0:06:29.05,Default,,0,0,0,,{TIME:389055,389055}{\i1}Yeah. It's a thing of the past.\NI should put it behind me.
+Dialogue: 0,0:06:29.05,0:06:29.05,Thought,,0,0,0,,{TIME:389055,389055}Yeah. It's a thing of the past.\NI should put it behind me.
 Dialogue: 0,0:06:42.80,0:06:42.80,Default,,0,0,0,,{TIME:402802,402802}Maya!\NMaya, wait!
-Dialogue: 0,0:06:57.81,0:06:57.81,Default,,0,0,0,,{TIME:417817,417817}{\i1}Why did I even run after her?
-Dialogue: 0,0:06:59.95,0:06:59.95,Default,,0,0,0,,{TIME:419953,419953}{\i1}I had just decided to put all this behind me.
-Dialogue: 0,0:07:03.59,0:07:03.59,Default,,0,0,0,,{TIME:423590,423590}{\i1}I had so many things\NI wanted to talk about.
-Dialogue: 0,0:07:05.95,0:07:05.95,Default,,0,0,0,,{TIME:425959,425959}{\i1}But now it's all gone…
-Dialogue: 0,0:07:09.52,0:07:09.52,Default,,0,0,0,,{TIME:429529,429529}{\i1}He's doing fine without me.
-Dialogue: 0,0:07:13.80,0:07:13.80,Default,,0,0,0,,{TIME:433800,433800}{\i1}I might have just been one of those many girls of his after all.
+Dialogue: 0,0:06:57.81,0:06:57.81,Thought,,0,0,0,,{TIME:417817,417817}Why did I even run after her?
+Dialogue: 0,0:06:59.95,0:06:59.95,Thought,,0,0,0,,{TIME:419953,419953}I had just decided to put all this behind me.
+Dialogue: 0,0:07:03.59,0:07:03.59,Thought,,0,0,0,,{TIME:423590,423590}I had so many things\NI wanted to talk about.
+Dialogue: 0,0:07:05.95,0:07:05.95,Thought,,0,0,0,,{TIME:425959,425959}But now it's all gone…
+Dialogue: 0,0:07:09.52,0:07:09.52,Thought,,0,0,0,,{TIME:429529,429529}He's doing fine without me.
+Dialogue: 0,0:07:13.80,0:07:13.80,Thought,,0,0,0,,{TIME:433800,433800}I might have just been one of those many girls of his after all.
 Dialogue: 0,0:07:21.74,0:07:21.74,Default,,0,0,0,,{TIME:441741,441741}I'm here to give you your umbrella back. Thank you.
 Dialogue: 0,0:07:23.94,0:07:23.94,Default,,0,0,0,,{TIME:443943,443943}You didn't have to worry about it.
 Dialogue: 0,0:07:33.28,0:07:33.28,Default,,0,0,0,,{TIME:453286,453286}Let me walk you to the train station.
-Dialogue: 0,0:07:42.39,0:07:42.39,Default,,0,0,0,,{TIME:462395,462395}{\i1}There are so many things\NI wanted to talk about.
-Dialogue: 0,0:07:48.56,0:07:48.56,Default,,0,0,0,,{TIME:468568,468568}{\i1}No words can come out.
+Dialogue: 0,0:07:42.39,0:07:42.39,Thought,,0,0,0,,{TIME:462395,462395}There are so many things\NI wanted to talk about.
+Dialogue: 0,0:07:48.56,0:07:48.56,Thought,,0,0,0,,{TIME:468568,468568}No words can come out.
 Dialogue: 0,0:07:52.63,0:07:52.63,Default,,0,0,0,,{TIME:472639,472639}Bye, Sakurakōji.
 Dialogue: 0,0:07:55.10,0:07:55.10,Default,,0,0,0,,{TIME:475108,475108}Uhh, Maya…
 Dialogue: 0,0:07:55.57,0:07:55.57,Default,,0,0,0,,{TIME:475575,475575}Yes.
@@ -163,7 +165,7 @@ Dialogue: 0,0:07:57.31,0:07:57.31,Default,,0,0,0,,{TIME:477310,477310}You did gr
 Dialogue: 0,0:07:59.54,0:07:59.54,Default,,0,0,0,,{TIME:479546,479546}Sakurakōji!
 Dialogue: 0,0:08:01.68,0:08:01.68,Default,,0,0,0,,{TIME:481681,481681}But, I'm not Heathcliff,\Nunfortunately.
 Dialogue: 0,0:08:07.35,0:08:07.35,Default,,0,0,0,,{TIME:487354,487354}Sakurakōji…
-Dialogue: 0,0:08:11.65,0:08:11.65,Default,,0,0,0,,{TIME:491658,491658}{\i1}He is as nice as he used to be,\Nbut something is different…
+Dialogue: 0,0:08:11.65,0:08:11.65,Thought,,0,0,0,,{TIME:491658,491658}He is as nice as he used to be,\Nbut something is different…
 Dialogue: 0,0:08:19.79,0:08:19.79,Sign,(sign),0,0,0,,{TIME:499799,499799}Manpuku Ken
 Dialogue: 0,0:08:27.80,0:08:27.80,Default,,0,0,0,,{TIME:507807,507807}Haru, how are you feeling?
 Dialogue: 0,0:08:30.41,0:08:30.41,Default,,0,0,0,,{TIME:510410,510410}I'm sorry for causing so much trouble.
@@ -179,21 +181,21 @@ Dialogue: 0,0:09:03.97,0:09:03.97,Default,,0,0,0,,{TIME:543977,543977}She is con
 Dialogue: 0,0:09:10.98,0:09:10.98,Default,,0,0,0,,{TIME:550984,550984}The best thing for you is to get better soon, and then come back and work for us again before Maya gets back.
 Dialogue: 0,0:09:20.02,0:09:20.02,Default,,0,0,0,,{TIME:560026,560026}Thank you so much for all of your help for such a long time.
 Dialogue: 0,0:09:23.99,0:09:23.99,Default,,0,0,0,,{TIME:563997,563997}Then, it's okay?
-Dialogue: 0,0:09:27.63,0:09:27.63,Default,,0,0,0,,{TIME:567634,567634}{\i1}Maya, Maya… Where are you and what are you doing?
+Dialogue: 0,0:09:27.63,0:09:27.63,Thought,,0,0,0,,{TIME:567634,567634}Maya, Maya… Where are you and what are you doing?
 Dialogue: 0,0:09:36.10,0:09:36.10,Narrator,(narrator),0,0,0,,{TIME:576109,576109}In the basement of what used to be a cafe, the practice of "The Smile of Stone" heated up every day.
 Dialogue: 0,0:09:42.41,0:09:42.41,Default,,0,0,0,,{TIME:582415,582415}It's ridiculous to brush her hair everyday.
-Dialogue: 0,0:09:51.35,0:09:51.35,Default,,0,0,0,,{TIME:591358,591358}{\i1}I'm getting the movement of a doll down little by little.
+Dialogue: 0,0:09:51.35,0:09:51.35,Thought,,0,0,0,,{TIME:591358,591358}I'm getting the movement of a doll down little by little.
 Dialogue: 0,0:10:00.66,0:10:00.66,Default,,0,0,0,,{TIME:600667,600667}This is a hard role for Maya.
 Dialogue: 0,0:10:02.56,0:10:02.56,Default,,0,0,0,,{TIME:602569,602569}Yeah, she's on the stage constantly, but allowed no movement at all.
 Dialogue: 0,0:10:05.00,0:10:05.00,Default,,0,0,0,,{TIME:605005,605005}No, what I mean is the time she has to sit still.
 Dialogue: 0,0:10:09.47,0:10:09.47,Default,,0,0,0,,{TIME:609476,609476}Just look at her face.
-Dialogue: 0,0:10:14.11,0:10:14.11,Default,,0,0,0,,{TIME:614114,614114}{\i1}Sakurakōji, what changed you so much?
-Dialogue: 0,0:10:18.25,0:10:18.25,Default,,0,0,0,,{TIME:618251,618251}{\i1}I didn't know that it hurts so bad\Nto have someone you love leave.
-Dialogue: 0,0:10:23.89,0:10:23.89,Default,,0,0,0,,{TIME:623890,623890}{\i1}Mother! Besides, I haven't\Neven called her once.
-Dialogue: 0,0:10:29.82,0:10:29.82,Default,,0,0,0,,{TIME:629829,629829}{\i1}Mother!
-Dialogue: 0,0:10:32.99,0:10:32.99,Default,,0,0,0,,{TIME:632999,632999}{\i1}No, I didn't\Neven think about her…
-Dialogue: 0,0:10:37.20,0:10:37.20,Default,,0,0,0,,{TIME:637203,637203}{\i1}Not once.
-Dialogue: 0,0:10:41.64,0:10:41.64,Default,,0,0,0,,{TIME:641641,641641}{\i1}I miss you, Mother.
+Dialogue: 0,0:10:14.11,0:10:14.11,Thought,,0,0,0,,{TIME:614114,614114}Sakurakōji, what changed you so much?
+Dialogue: 0,0:10:18.25,0:10:18.25,Thought,,0,0,0,,{TIME:618251,618251}I didn't know that it hurts so bad\Nto have someone you love leave.
+Dialogue: 0,0:10:23.89,0:10:23.89,Thought,,0,0,0,,{TIME:623890,623890}Mother! Besides, I haven't\Neven called her once.
+Dialogue: 0,0:10:29.82,0:10:29.82,Thought,,0,0,0,,{TIME:629829,629829}Mother!
+Dialogue: 0,0:10:32.99,0:10:32.99,Thought,,0,0,0,,{TIME:632999,632999}No, I didn't\Neven think about her…
+Dialogue: 0,0:10:37.20,0:10:37.20,Thought,,0,0,0,,{TIME:637203,637203}Not once.
+Dialogue: 0,0:10:41.64,0:10:41.64,Thought,,0,0,0,,{TIME:641641,641641}I miss you, Mother.
 Dialogue: 0,0:10:45.14,0:10:45.14,Default,,0,0,0,,{TIME:645145,645145}Miss Tsukikage would have done the same.
 Dialogue: 0,0:10:47.31,0:10:47.31,Default,,0,0,0,,{TIME:647313,647313}Rei!
 Dialogue: 0,0:10:48.81,0:10:48.81,Default,,0,0,0,,{TIME:648815,648815}Are you out of your mind?\NThinking about something?
@@ -226,9 +228,9 @@ Dialogue: 0,0:12:20.34,0:12:20.34,Default,,0,0,0,,{TIME:740340,740340}Okay, plea
 Dialogue: 0,0:12:23.94,0:12:23.94,Default,,0,0,0,,{TIME:743943,743943}Zazen?
 Dialogue: 0,0:12:25.71,0:12:25.71,Default,,0,0,0,,{TIME:745712,745712}Yes. This is a temple of Zen.\NZen means no mind.
 Dialogue: 0,0:12:28.84,0:12:28.84,Default,,0,0,0,,{TIME:748848,748848}Look what we got ourselves into.
-Dialogue: 0,0:12:33.92,0:12:33.92,Default,,0,0,0,,{TIME:753920,753920}{\i1}Maya, did you forget about me?
-Dialogue: 0,0:12:37.99,0:12:37.99,Default,,0,0,0,,{TIME:757991,757991}{\i1}But I haven't forgotten you.
-Dialogue: 0,0:12:40.26,0:12:40.26,Default,,0,0,0,,{TIME:760260,760260}{\i1}I will live until the day\NI see you again.
+Dialogue: 0,0:12:33.92,0:12:33.92,Thought,,0,0,0,,{TIME:753920,753920}Maya, did you forget about me?
+Dialogue: 0,0:12:37.99,0:12:37.99,Thought,,0,0,0,,{TIME:757991,757991}But I haven't forgotten you.
+Dialogue: 0,0:12:40.26,0:12:40.26,Thought,,0,0,0,,{TIME:760260,760260}I will live until the day\NI see you again.
 Comment: 0,0:12:55.77,0:12:55.77,Default,[chapter],0,0,0,,{TIME:775775,775775}Eyecatch
 Comment: 0,0:12:59.52,0:12:59.52,Default,[chapter],0,0,0,,{TIME:779529,779529}#Eyecatch
 Comment: 0,0:13:02.44,0:13:02.44,Default,[chapter],0,0,0,,{TIME:782448,782448}Part B
@@ -238,13 +240,13 @@ Dialogue: 0,0:13:20.43,0:13:20.43,Default,,0,0,0,,{TIME:800433,800433}There are 
 Dialogue: 0,0:13:25.27,0:13:25.27,Default,,0,0,0,,{TIME:805271,805271}There are no minds in stones.
 Dialogue: 0,0:13:28.87,0:13:28.87,Default,,0,0,0,,{TIME:808875,808875}Forget that you are a human being,\Nand become a stone.
 Dialogue: 0,0:13:33.81,0:13:33.81,Default,,0,0,0,,{TIME:813813,813813}Then you will be free from your mind and you will achieve the expression of emptiness on your face.
-Dialogue: 0,0:13:41.68,0:13:41.68,Default,,0,0,0,,{TIME:821688,821688}{\i1}Think I am a stone\Nand become… a stone.
+Dialogue: 0,0:13:41.68,0:13:41.68,Thought,,0,0,0,,{TIME:821688,821688}Think I am a stone\Nand become… a stone.
 Dialogue: 0,0:13:49.32,0:13:49.32,Default,,0,0,0,,{TIME:829329,829329}A stone doesn't think about\NSakurakōji, nor about mother.
-Dialogue: 0,0:13:54.33,0:13:54.33,Default,,0,0,0,,{TIME:834334,834334}{\i1}Become a stone…\NBecome a stone.
-Dialogue: 0,0:14:00.54,0:14:00.54,Default,,0,0,0,,{TIME:840540,840540}{\i1}Maya, it's been two years\Nsince you left home.
-Dialogue: 0,0:14:04.41,0:14:04.41,Default,,0,0,0,,{TIME:844411,844411}{\i1}I bet you grew a little, too.
-Dialogue: 0,0:14:06.61,0:14:06.61,Default,,0,0,0,,{TIME:846613,846613}{\i1}I have cried many times that I don't need you anymore, but I failed.
-Dialogue: 0,0:14:10.75,0:14:10.75,Default,,0,0,0,,{TIME:850750,850750}{\i1}After all, you are the only daughter I have.
+Dialogue: 0,0:13:54.33,0:13:54.33,Thought,,0,0,0,,{TIME:834334,834334}Become a stone…\NBecome a stone.
+Dialogue: 0,0:14:00.54,0:14:00.54,Thought,,0,0,0,,{TIME:840540,840540}Maya, it's been two years\Nsince you left home.
+Dialogue: 0,0:14:04.41,0:14:04.41,Thought,,0,0,0,,{TIME:844411,844411}I bet you grew a little, too.
+Dialogue: 0,0:14:06.61,0:14:06.61,Thought,,0,0,0,,{TIME:846613,846613}I have cried many times that I don't need you anymore, but I failed.
+Dialogue: 0,0:14:10.75,0:14:10.75,Thought,,0,0,0,,{TIME:850750,850750}After all, you are the only daughter I have.
 Dialogue: 0,0:14:16.69,0:14:16.69,Default,,0,0,0,,{TIME:856690,856690}Excuse me, but your magazine…
 Dialogue: 0,0:14:22.69,0:14:22.69,Default,,0,0,0,,{TIME:862696,862696}This is… Maya!
 Dialogue: 0,0:14:25.09,0:14:25.09,Default,,0,0,0,,{TIME:865098,865098}"Natsu Eriko's acting in this play was great, but Kitajima Maya, who played the childhood Catherine, did a fantastic job, doing almost as well as Natsu's role as Catherine."
@@ -293,12 +295,12 @@ Dialogue: 0,0:16:48.97,0:16:48.97,Narrator,(narrator),0,0,0,,{TIME:1008975,10089
 Dialogue: 0,0:16:54.38,0:16:54.38,Default,,0,0,0,,{TIME:1014381,1014381}…who has lost her parents in a plane crash, giving her will to her attorney.
 Dialogue: 0,0:17:01.82,0:17:01.82,Default,,0,0,0,,{TIME:1021821,1021821}Thank you for gathering here today.
 Dialogue: 0,0:17:05.29,0:17:05.29,Default,,0,0,0,,{TIME:1025291,1025291}My name is Prefew, an attorney…
-Dialogue: 0,0:17:05.59,0:17:05.59,Default,,0,0,0,,{TIME:1025592,1025592}{\i1}Where is Kitajima Maya?
-Dialogue: 0,0:17:09.26,0:17:09.26,Default,,0,0,0,,{TIME:1029262,1029262}{\i1}That's Maya!
+Dialogue: 0,0:17:05.59,0:17:05.59,Thought,,0,0,0,,{TIME:1025592,1025592}Where is Kitajima Maya?
+Dialogue: 0,0:17:09.26,0:17:09.26,Thought,,0,0,0,,{TIME:1029262,1029262}That's Maya!
 Dialogue: 0,0:17:12.83,0:17:12.83,Default,,0,0,0,,{TIME:1032832,1032832}Maya is playing a doll. Why?\NWhat's her goal?
 Dialogue: 0,0:17:16.83,0:17:16.83,Default,,0,0,0,,{TIME:1036836,1036836}That's Catherine?\NNo!
-Dialogue: 0,0:17:19.43,0:17:19.43,Default,,0,0,0,,{TIME:1039439,1039439}{\i1}Ayumi?\NAyumi is here.
-Dialogue: 0,0:17:22.17,0:17:22.17,Default,,0,0,0,,{TIME:1042175,1042175}{\i1}Mr. Majima, too.
+Dialogue: 0,0:17:19.43,0:17:19.43,Thought,,0,0,0,,{TIME:1039439,1039439}Ayumi?\NAyumi is here.
+Dialogue: 0,0:17:22.17,0:17:22.17,Thought,,0,0,0,,{TIME:1042175,1042175}Mr. Majima, too.
 Dialogue: 0,0:17:23.71,0:17:23.71,Default,,0,0,0,,{TIME:1043710,1043710}…there are two wills from Marisa here.\NMay I open them now?
 Dialogue: 0,0:17:27.01,0:17:27.01,Default,,0,0,0,,{TIME:1047013,1047013}Hello, everyone!\NHow do you do.
 Dialogue: 0,0:17:32.95,0:17:32.95,Default,,0,0,0,,{TIME:1052952,1052952}Whoa, who is that?\NHow good looking!
@@ -307,22 +309,22 @@ Dialogue: 0,0:17:42.26,0:17:42.26,Default,,0,0,0,,{TIME:1062262,1062262}Marisa P
 Dialogue: 0,0:17:52.60,0:17:52.60,Default,,0,0,0,,{TIME:1072605,1072605}That's a huge doll.
 Dialogue: 0,0:17:54.90,0:17:54.90,Default,,0,0,0,,{TIME:1074908,1074908}No, silly!\NThat's a human.
 Dialogue: 0,0:17:56.50,0:17:56.50,Default,,0,0,0,,{TIME:1076509,1076509}Oh, you think so?
-Dialogue: 0,0:17:57.94,0:17:57.94,Default,,0,0,0,,{TIME:1077944,1077944}{\i1}Prohibited from any facial expression, movement, or words, she's not supposed to act.
-Dialogue: 0,0:18:03.91,0:18:03.91,Default,,0,0,0,,{TIME:1083917,1083917}{\i1}That's a hard role.
+Dialogue: 0,0:17:57.94,0:17:57.94,Thought,,0,0,0,,{TIME:1077944,1077944}Prohibited from any facial expression, movement, or words, she's not supposed to act.
+Dialogue: 0,0:18:03.91,0:18:03.91,Thought,,0,0,0,,{TIME:1083917,1083917}That's a hard role.
 Dialogue: 0,0:18:05.45,0:18:05.45,Default,,0,0,0,,{TIME:1085452,1085452}Catherine, where have you gone?
 Dialogue: 0,0:18:08.02,0:18:08.02,Default,,0,0,0,,{TIME:1088021,1088021}This is so unfair!
 Dialogue: 0,0:18:09.88,0:18:09.88,Default,,0,0,0,,{TIME:1089889,1089889}My weekly salary is only 2.50 pounds, and this doll is worth 65 million pounds?
 Dialogue: 0,0:18:16.83,0:18:16.83,Default,,0,0,0,,{TIME:1096830,1096830}I have to clean her up everyday like this.
 Dialogue: 0,0:18:20.50,0:18:20.50,Default,,0,0,0,,{TIME:1100500,1100500}How crazy is this?
 Dialogue: 0,0:18:25.97,0:18:25.97,Default,,0,0,0,,{TIME:1105972,1105972}Here, stay put.\NI have to go clean up now.
-Dialogue: 0,0:18:32.41,0:18:32.41,Default,,0,0,0,,{TIME:1112412,1112412}{\i1}The doll is the key to the play.
-Dialogue: 0,0:18:34.54,0:18:34.54,Default,,0,0,0,,{TIME:1114547,1114547}{\i1}If there's any movement that lets people know that it's a human,\Nthe play is all over.
-Dialogue: 0,0:18:39.55,0:18:39.55,Default,,0,0,0,,{TIME:1119552,1119552}{\i1}Miss Tsukikage sure did bet on her,\Nand she is doing fine with it.
-Dialogue: 0,0:18:45.15,0:18:45.15,Default,,0,0,0,,{TIME:1125158,1125158}{\i1}Kitajima Maya… What a girl.
-Dialogue: 0,0:18:47.59,0:18:47.59,Default,,0,0,0,,{TIME:1127594,1127594}{\i1}This is Kitajima Maya,\Nwho wears a mask of a doll.
-Dialogue: 0,0:18:50.96,0:18:50.96,Default,,0,0,0,,{TIME:1130964,1130964}{\i1}There's no trace of the Catherine who gave me passion and kindness.
-Dialogue: 0,0:18:55.60,0:18:55.60,Default,,0,0,0,,{TIME:1135602,1135602}{\i1}How silly was I?
-Dialogue: 0,0:18:58.30,0:18:58.30,Default,,0,0,0,,{TIME:1138304,1138304}{\i1}I was an actor myself, and I fell in love with Maya who wore a mask of Catherine.
+Dialogue: 0,0:18:32.41,0:18:32.41,Thought,,0,0,0,,{TIME:1112412,1112412}The doll is the key to the play.
+Dialogue: 0,0:18:34.54,0:18:34.54,Thought,,0,0,0,,{TIME:1114547,1114547}If there's any movement that lets people know that it's a human,\Nthe play is all over.
+Dialogue: 0,0:18:39.55,0:18:39.55,Thought,,0,0,0,,{TIME:1119552,1119552}Miss Tsukikage sure did bet on her,\Nand she is doing fine with it.
+Dialogue: 0,0:18:45.15,0:18:45.15,Thought,,0,0,0,,{TIME:1125158,1125158}Kitajima Maya… What a girl.
+Dialogue: 0,0:18:47.59,0:18:47.59,Thought,,0,0,0,,{TIME:1127594,1127594}This is Kitajima Maya,\Nwho wears a mask of a doll.
+Dialogue: 0,0:18:50.96,0:18:50.96,Thought,,0,0,0,,{TIME:1130964,1130964}There's no trace of the Catherine who gave me passion and kindness.
+Dialogue: 0,0:18:55.60,0:18:55.60,Thought,,0,0,0,,{TIME:1135602,1135602}How silly was I?
+Dialogue: 0,0:18:58.30,0:18:58.30,Thought,,0,0,0,,{TIME:1138304,1138304}I was an actor myself, and I fell in love with Maya who wore a mask of Catherine.
 Dialogue: 0,0:19:06.34,0:19:06.34,Default,,0,0,0,,{TIME:1146346,1146346}Good bye, my Catherine.
 Dialogue: 0,0:19:15.55,0:19:15.55,Narrator,(narrator),0,0,0,,{TIME:1155555,1155555}The play, which started with an audience of twelve, ended in a big success.
 Dialogue: 0,0:19:25.53,0:19:25.53,Default,,0,0,0,,{TIME:1165532,1165532}My prince Rei… I'm in love.
@@ -352,15 +354,15 @@ Dialogue: 0,0:20:39.80,0:20:39.80,Default,,0,0,0,,{TIME:1239806,1239806}That's r
 Dialogue: 0,0:20:42.67,0:20:42.67,Default,,0,0,0,,{TIME:1242676,1242676}When everyone's heart beats\Nthe same pace, there's born a great play.
 Dialogue: 0,0:20:47.38,0:20:47.38,Default,,0,0,0,,{TIME:1247380,1247380}Also, it's important for an actor to pace\Nthe heartbeat with the others.
 Dialogue: 0,0:20:53.21,0:20:53.21,Default,,0,0,0,,{TIME:1253219,1253219}Pace the heartbeat\Nwith the others?
-Dialogue: 0,0:20:58.75,0:20:58.75,Default,,0,0,0,,{TIME:1258758,1258758}{\i1}I have never thought of it that way.
-Dialogue: 0,0:21:02.66,0:21:02.66,Default,,0,0,0,,{TIME:1262662,1262662}{\i1}I only thought of acting for myself.
-Dialogue: 0,0:21:21.38,0:21:21.38,Default,,0,0,0,,{TIME:1281381,1281381}{\i1}That's right, I have never thought of anyone else.
-Dialogue: 0,0:21:25.31,0:21:25.31,Default,,0,0,0,,{TIME:1285318,1285318}{\i1}I always focused on just myself.
-Dialogue: 0,0:21:28.88,0:21:28.88,Default,,0,0,0,,{TIME:1288888,1288888}{\i1}I just played at my own pace on all the other plays I've done.
-Dialogue: 0,0:21:34.66,0:21:34.66,Default,,0,0,0,,{TIME:1294661,1294661}{\i1}Maya, learn how to kill your emotions.
-Dialogue: 0,0:21:41.63,0:21:41.63,Default,,0,0,0,,{TIME:1301634,1301634}{\i1}Maya…
-Dialogue: 0,0:21:43.10,0:21:43.10,Default,,0,0,0,,{TIME:1303103,1303103}{\i1}That's why Miss Tsukikage\Ngave me the role of a doll.
-Dialogue: 0,0:21:46.67,0:21:46.67,Default,,0,0,0,,{TIME:1306673,1306673}{\i1}To empty myself.
+Dialogue: 0,0:20:58.75,0:20:58.75,Thought,,0,0,0,,{TIME:1258758,1258758}I have never thought of it that way.
+Dialogue: 0,0:21:02.66,0:21:02.66,Thought,,0,0,0,,{TIME:1262662,1262662}I only thought of acting for myself.
+Dialogue: 0,0:21:21.38,0:21:21.38,Thought,,0,0,0,,{TIME:1281381,1281381}That's right, I have never thought of anyone else.
+Dialogue: 0,0:21:25.31,0:21:25.31,Thought,,0,0,0,,{TIME:1285318,1285318}I always focused on just myself.
+Dialogue: 0,0:21:28.88,0:21:28.88,Thought,,0,0,0,,{TIME:1288888,1288888}I just played at my own pace on all the other plays I've done.
+Dialogue: 0,0:21:34.66,0:21:34.66,Thought,,0,0,0,,{TIME:1294661,1294661}Maya, learn how to kill your emotions.
+Dialogue: 0,0:21:41.63,0:21:41.63,Thought,,0,0,0,,{TIME:1301634,1301634}Maya…
+Dialogue: 0,0:21:43.10,0:21:43.10,Thought,,0,0,0,,{TIME:1303103,1303103}That's why Miss Tsukikage\Ngave me the role of a doll.
+Dialogue: 0,0:21:46.67,0:21:46.67,Thought,,0,0,0,,{TIME:1306673,1306673}To empty myself.
 Dialogue: 0,0:21:51.37,0:21:51.37,Default,,0,0,0,,{TIME:1311378,1311378}I wonder what happened to her?
 Dialogue: 0,0:21:53.21,0:21:53.21,Default,,0,0,0,,{TIME:1313213,1313213}Seems like she's learning\Nanother step about acting.
 Dialogue: 0,0:21:56.58,0:21:56.58,Default,,0,0,0,,{TIME:1316583,1316583}Act to kill her own emotions…

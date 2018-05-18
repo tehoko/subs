@@ -14,6 +14,8 @@ Audio File: source/10.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00F7F7FB,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -60,11 +62,11 @@ Dialogue: 0,0:02:04.12,0:02:08.37,Narrator,(narrator),0,0,0,,{TIME:124124,128378
 Dialogue: 0,0:02:08.37,0:02:12.04,Narrator,(narrator),0,0,0,,{TIME:128378,132049}…and her powerful acting\Nhad surprised the audience.
 Dialogue: 0,0:02:12.04,0:02:20.09,Narrator,(narrator),0,0,0,,{TIME:132049,140098}Maya is filled with a dream: to try many\Ndifferent roles, and to become an actress.
 Dialogue: 0,0:02:21.05,0:02:27.56,Episode title,[title],0,0,0,,{TIME:141058,147564}{\an5\pos(766,750)\fscy95\blur1\fad(500,500)}—Episode 10—\NThe New Challenge
-Dialogue: 0,0:02:38.45,0:02:39.53,Default,,0,0,0,,{TIME:158450,159534}{\i1}Wow.
-Dialogue: 0,0:02:39.53,0:02:42.24,Default,,0,0,0,,{TIME:159534,162245}{\i1}So many theaters in one place.
-Dialogue: 0,0:02:42.24,0:02:45.91,Default,,0,0,0,,{TIME:162245,165916}{\i1}I hope I can act in a place like this one day.
-Dialogue: 0,0:02:47.20,0:02:49.12,Default,,0,0,0,,{TIME:167209,169127}{\i1}Yeah. Why don't I go ask?
-Dialogue: 0,0:02:50.08,0:02:52.21,Default,,0,0,0,,{TIME:170087,172214}{\i1}Asking can't hurt.
+Dialogue: 0,0:02:38.45,0:02:39.53,Default,,0,0,0,,{TIME:158450,159534}Wow.
+Dialogue: 0,0:02:39.53,0:02:42.24,Default,,0,0,0,,{TIME:159534,162245}So many theaters in one place.
+Dialogue: 0,0:02:42.24,0:02:45.91,Thought,,0,0,0,,{TIME:162245,165916}I hope I can act in a place like this one day.
+Dialogue: 0,0:02:47.20,0:02:49.12,Thought,,0,0,0,,{TIME:167209,169127}Yeah. Why don't I go ask?
+Dialogue: 0,0:02:50.08,0:02:52.21,Thought,,0,0,0,,{TIME:170087,172214}Asking can't hurt.
 Dialogue: 0,0:02:53.09,0:02:55.75,Default,,0,0,0,,{TIME:173090,175759}Excuse me, but the theater opens at one o'clock.
 Dialogue: 0,0:02:55.75,0:02:57.55,Default,,0,0,0,,{TIME:175759,177552}Could you wait outside?
 Dialogue: 0,0:02:57.55,0:03:00.72,Default,,0,0,0,,{TIME:177552,180722}Oh, I came to see\Nthe person in charge of this play.
@@ -89,7 +91,7 @@ Dialogue: 0,0:04:02.32,0:04:04.82,Default,,0,0,0,,{TIME:242325,244828}Could you 
 Dialogue: 0,0:04:05.87,0:04:10.25,Default,,0,0,0,,{TIME:245871,250250}What are you talking about? Give you\Na role in my play when I don't even know you?
 Dialogue: 0,0:04:10.25,0:04:12.79,Default,,0,0,0,,{TIME:250250,252794}Just came out of nowhere.
 Dialogue: 0,0:04:12.79,0:04:15.63,Default,,0,0,0,,{TIME:252794,255630}It's either you have some nerves\Nor you don't know the world yet.
-Dialogue: 0,0:04:16.84,0:04:18.13,Default,,0,0,0,,{TIME:256840,258133}{\i1}I won't give up!
+Dialogue: 0,0:04:16.84,0:04:18.13,Thought,,0,0,0,,{TIME:256840,258133}I won't give up!
 Dialogue: 0,0:04:19.38,0:04:22.72,Default,,0,0,0,,{TIME:259384,262721}It's not the same as a play in school.
 Dialogue: 0,0:04:22.72,0:04:25.19,Default,,0,0,0,,{TIME:262721,265197}You have to audition first,\Nand if you get accepted…
 Dialogue: 0,0:04:25.19,0:04:27.26,Default,,0,0,0,,{TIME:265197,267267}…then you have to train for about ten years.
@@ -139,14 +141,14 @@ Dialogue: 0,0:07:21.31,0:07:23.52,Default,,0,0,0,,{TIME:441316,443526}And I like
 Dialogue: 0,0:07:23.52,0:07:25.77,Default,,0,0,0,,{TIME:443526,445779}Then you should join Ondine Theater even more.
 Dialogue: 0,0:07:25.77,0:07:29.32,Default,,0,0,0,,{TIME:445779,449324}Miss Tsukikage will appreciate it\Nif she needs to feed one person less.
 Dialogue: 0,0:07:29.32,0:07:30.28,Default,,0,0,0,,{TIME:449324,450282}
-Dialogue: 0,0:07:35.83,0:07:37.70,Default,,0,0,0,,{TIME:455830,457707}{\i1}I hurt her again…
+Dialogue: 0,0:07:35.83,0:07:37.70,Thought,,0,0,0,,{TIME:455830,457707}I hurt her again…
 Dialogue: 0,0:07:39.20,0:07:42.46,Default,,0,0,0,,{TIME:459209,462462}She will hate me even more now.
 Dialogue: 0,0:07:42.46,0:07:44.13,Default,,0,0,0,,{TIME:462462,464130}Huh?
 Dialogue: 0,0:07:44.13,0:07:45.00,Default,,0,0,0,,{TIME:464130,465006}Nothing.
-Dialogue: 0,0:07:48.46,0:07:52.47,Default,,0,0,0,,{TIME:468468,472472}{\i1}Miss Tsukikage will appreciate it\Nif she needs to fed one person less.
-Dialogue: 0,0:07:53.51,0:07:56.76,Default,,0,0,0,,{TIME:473515,476768}{\i1}I must be a burden to Miss Tsukikage.
-Dialogue: 0,0:07:56.76,0:07:58.18,Default,,0,0,0,,{TIME:476768,478186}{\i1}What should I do?
-Dialogue: 0,0:07:58.18,0:08:01.48,Default,,0,0,0,,{TIME:478186,481481}{\i1}What can I do not to be a burden to her?
+Dialogue: 0,0:07:48.46,0:07:52.47,Retrospective,,0,0,0,,{TIME:468468,472472}Miss Tsukikage will appreciate it\Nif she needs to fed one person less.
+Dialogue: 0,0:07:53.51,0:07:56.76,Thought,,0,0,0,,{TIME:473515,476768}I must be a burden to Miss Tsukikage.
+Dialogue: 0,0:07:56.76,0:07:58.18,Thought,,0,0,0,,{TIME:476768,478186}What should I do?
+Dialogue: 0,0:07:58.18,0:08:01.48,Thought,,0,0,0,,{TIME:478186,481481}What can I do not to be a burden to her?
 Dialogue: 0,0:08:02.06,0:08:05.94,Sign,(sign),0,0,0,,{TIME:482065,485944}{\fad(500,500)}Eishin Za
 Dialogue: 0,0:08:04.27,0:08:08.27,Default,,0,0,0,,{TIME:484275,488279}Performance acting is not so easy.
 Dialogue: 0,0:08:08.27,0:08:11.44,Default,,0,0,0,,{TIME:488279,491449}Which theater are you from?
@@ -227,9 +229,9 @@ Dialogue: 0,0:12:08.22,0:12:09.27,Default,,0,0,0,,{TIME:728228,729270}Ah!
 Dialogue: 0,0:12:09.27,0:12:10.18,Default,,0,0,0,,{TIME:729270,730188}Yes.
 Dialogue: 0,0:12:10.18,0:12:14.73,Default,,0,0,0,,{TIME:730188,734733}All he wants is the play rights\Nfor "The Crimson Goddess."
 Dialogue: 0,0:12:16.15,0:12:17.61,Default,,0,0,0,,{TIME:736151,737612}How dirty they are!
-Dialogue: 0,0:12:21.90,0:12:23.45,Default,,0,0,0,,{TIME:741908,743451}{\i1}I won't forgive them!
-Dialogue: 0,0:12:23.45,0:12:25.45,Default,,0,0,0,,{TIME:743451,745451}{\i1}I will never forgive them!
-Dialogue: 0,0:12:25.45,0:12:27.20,Default,,0,0,0,,{TIME:745451,747205}{\t(754,1754,\1c&H101010&\3c&H101010&\4c&H101010&)\i1}Never, ever!
+Dialogue: 0,0:12:21.90,0:12:23.45,Thought,,0,0,0,,{TIME:741908,743451}I won't forgive them!
+Dialogue: 0,0:12:23.45,0:12:25.45,Thought,,0,0,0,,{TIME:743451,745451}I will never forgive them!
+Dialogue: 0,0:12:25.45,0:12:27.20,Thought,,0,0,0,,{TIME:745451,747205}{\t(754,1754,\1c&H101010&\3c&H101010&\4c&H101010&)}Never, ever!
 Comment: 0,0:12:27.70,0:12:27.70,Default,[chapter],0,0,0,,{TIME:747704,747704}Eyecatch
 Comment: 0,0:12:31.50,0:12:31.50,Default,[chapter],0,0,0,,{TIME:751501,751501}#Eyecatch
 Comment: 0,0:12:34.46,0:12:34.46,Default,[chapter],0,0,0,,{TIME:754462,754462}Part B
@@ -274,9 +276,9 @@ Dialogue: 0,0:14:51.34,0:14:53.85,Default,,0,0,0,,{TIME:891349,893851}I know dir
 Dialogue: 0,0:14:53.85,0:14:54.76,Default,,0,0,0,,{TIME:893851,894769}Oh, no.
 Dialogue: 0,0:14:54.76,0:15:00.02,Default,,0,0,0,,{TIME:894769,900024}All you young people want is to be\Nin the spotlight, without even showing any talent!
 Dialogue: 0,0:15:00.02,0:15:01.31,Default,,0,0,0,,{TIME:900024,901317}Miss Harada!
-Dialogue: 0,0:15:03.44,0:15:04.73,Default,,0,0,0,,{TIME:903444,904737}{\i1}Just watch!
-Dialogue: 0,0:15:04.73,0:15:06.30,Default,,0,0,0,,{TIME:904737,906305}{\i1}Say what you want at practice…
-Dialogue: 0,0:15:06.30,0:15:08.11,Default,,0,0,0,,{TIME:906305,908116}{\i1}…but once I'm on the stage,\Nit's me who's in control.
+Dialogue: 0,0:15:03.44,0:15:04.73,Thought,,0,0,0,,{TIME:903444,904737}Just watch!
+Dialogue: 0,0:15:04.73,0:15:06.30,Thought,,0,0,0,,{TIME:904737,906305}Say what you want at practice…
+Dialogue: 0,0:15:06.30,0:15:08.11,Thought,,0,0,0,,{TIME:906305,908116}…but once I'm on the stage,\Nit's me who's in control.
 Dialogue: 0,0:15:11.28,0:15:12.49,Default,,0,0,0,,{TIME:911285,912495}Thank you for waiting.
 Dialogue: 0,0:15:14.12,0:15:17.79,Default,,0,0,0,,{TIME:914122,917791}H-Hello, how do you do?\NI'm Kitajima Maya.
 Dialogue: 0,0:15:17.79,0:15:19.37,Default,,0,0,0,,{TIME:917791,919377}How's Miss Tsukikage?
@@ -291,11 +293,11 @@ Dialogue: 0,0:15:39.72,0:15:40.81,Default,,0,0,0,,{TIME:939729,940814}I see.
 Dialogue: 0,0:15:44.48,0:15:48.32,Default,,0,0,0,,{TIME:944485,948322}Display joy, anger, sadness\Nand happiness using this chair.
 Dialogue: 0,0:15:48.32,0:15:49.28,Default,,0,0,0,,{TIME:948322,949282}Huh?
 Dialogue: 0,0:15:49.28,0:15:50.69,Default,,0,0,0,,{TIME:949282,950699}You can use any words.\NHere, go ahead.
-Dialogue: 0,0:15:55.58,0:15:57.54,Default,,0,0,0,,{TIME:955580,957540}{\i1}Using the chair…
-Dialogue: 0,0:15:57.54,0:15:58.49,Default,,0,0,0,,{TIME:957540,958499}{\i1}What should I do?
-Dialogue: 0,0:15:58.49,0:16:00.87,Default,,0,0,0,,{TIME:958499,960877}{\i1}I've never done this before.
-Dialogue: 0,0:16:00.87,0:16:04.71,Default,,0,0,0,,{TIME:960877,964714}{\i1}Joy, anger, sadness and happiness.
-Dialogue: 0,0:16:04.71,0:16:07.17,Default,,0,0,0,,{TIME:964714,967175}{\i1}What should I do using this chair?
+Dialogue: 0,0:15:55.58,0:15:57.54,Thought,,0,0,0,,{TIME:955580,957540}Using the chair…
+Dialogue: 0,0:15:57.54,0:15:58.49,Thought,,0,0,0,,{TIME:957540,958499}What should I do?
+Dialogue: 0,0:15:58.49,0:16:00.87,Thought,,0,0,0,,{TIME:958499,960877}I've never done this before.
+Dialogue: 0,0:16:00.87,0:16:04.71,Thought,,0,0,0,,{TIME:960877,964714}Joy, anger, sadness and happiness.
+Dialogue: 0,0:16:04.71,0:16:07.17,Thought,,0,0,0,,{TIME:964714,967175}What should I do using this chair?
 Dialogue: 0,0:16:09.13,0:16:10.59,Default,,0,0,0,,{TIME:969135,970595}Wow!
 Dialogue: 0,0:16:10.59,0:16:12.43,Default,,0,0,0,,{TIME:970595,972430}You bought me a new chair!
 Dialogue: 0,0:16:12.43,0:16:13.30,Default,,0,0,0,,{TIME:972430,973306}Great!
@@ -311,8 +313,8 @@ Dialogue: 0,0:16:37.53,0:16:39.54,Default,,0,0,0,,{TIME:997538,999540}Sit on thi
 Dialogue: 0,0:16:40.45,0:16:42.54,Default,,0,0,0,,{TIME:1000458,1002543}What's going on?
 Dialogue: 0,0:16:42.54,0:16:44.96,Default,,0,0,0,,{TIME:1002543,1004962}Miss Harada is putting her to the test.
 Dialogue: 0,0:16:45.75,0:16:46.96,Default,,0,0,0,,{TIME:1005755,1006964}Here, now!
-Dialogue: 0,0:16:50.96,0:16:53.17,Default,,0,0,0,,{TIME:1010968,1013179}{\i1}Sit on the tipped chair…
-Dialogue: 0,0:16:53.17,0:16:54.38,Default,,0,0,0,,{TIME:1013179,1014388}{\i1}Sit on the tipped chair…
+Dialogue: 0,0:16:50.96,0:16:53.17,Thought,,0,0,0,,{TIME:1010968,1013179}Sit on the tipped chair…
+Dialogue: 0,0:16:53.17,0:16:54.38,Thought,,0,0,0,,{TIME:1013179,1014388}Sit on the tipped chair…
 Dialogue: 0,0:17:04.39,0:17:05.48,Default,,0,0,0,,{TIME:1024398,1025483}What is she doing?
 Dialogue: 0,0:17:05.48,0:17:08.61,Default,,0,0,0,,{TIME:1025483,1028611}She said to sit on the chair,\Nbut she's on the floor?
 Dialogue: 0,0:17:09.94,0:17:11.94,Default,,0,0,0,,{TIME:1029946,1031948}Why did you take that pose?
@@ -325,7 +327,7 @@ Dialogue: 0,0:17:33.92,0:17:35.55,Default,,0,0,0,,{TIME:1053928,1055555}Theater 
 Dialogue: 0,0:17:35.55,0:17:38.01,Default,,0,0,0,,{TIME:1055555,1058015}You never know what happens.
 Dialogue: 0,0:17:38.01,0:17:40.43,Default,,0,0,0,,{TIME:1058015,1060434}This was to test her theater spirit.
 Dialogue: 0,0:17:42.06,0:17:44.23,Default,,0,0,0,,{TIME:1062061,1064230}And, how did she do?
-Dialogue: 0,0:17:47.31,0:17:48.81,Default,,0,0,0,,{TIME:1067316,1068818}{\i1}Tremendous!
+Dialogue: 0,0:17:47.31,0:17:48.81,Thought,,0,0,0,,{TIME:1067316,1068818}Tremendous!
 Dialogue: 0,0:17:50.23,0:17:52.28,Default,,0,0,0,,{TIME:1070236,1072280}Everyone, be quiet!
 Dialogue: 0,0:17:55.70,0:17:57.70,Default,,0,0,0,,{TIME:1075700,1077702}I have an announcement to make.
 Dialogue: 0,0:18:00.12,0:18:03.37,Default,,0,0,0,,{TIME:1080121,1083374}We will no longer keep Yuki Asae\Nas the baby sitter.
@@ -352,7 +354,7 @@ Dialogue: 0,0:18:59.63,0:19:04.26,Default,,0,0,0,,{TIME:1139639,1144268}If you m
 Dialogue: 0,0:19:04.26,0:19:05.22,Default,,0,0,0,,{TIME:1144268,1145226}Yes!
 Dialogue: 0,0:19:09.02,0:19:11.35,Default,,0,0,0,,{TIME:1149023,1151359}I can act again now!
 Dialogue: 0,0:19:11.35,0:19:12.98,Default,,0,0,0,,{TIME:1151359,1152985}I can be on stage again!
-Dialogue: 0,0:19:14.02,0:19:17.65,Default,,0,0,0,,{TIME:1154028,1157657}{\i1}Miss Tsukikage,\Nthe door is opening up for me.
+Dialogue: 0,0:19:14.02,0:19:17.65,Thought,,0,0,0,,{TIME:1154028,1157657}Miss Tsukikage,\Nthe door is opening up for me.
 Dialogue: 0,0:19:22.62,0:19:23.66,Default,,0,0,0,,{TIME:1162620,1163663}Teacher!
 Dialogue: 0,0:19:27.41,0:19:28.54,Default,,0,0,0,,{TIME:1167416,1168542}Teacher.
 Dialogue: 0,0:19:28.54,0:19:29.87,Default,,0,0,0,,{TIME:1168542,1169877}Teacher!
@@ -379,13 +381,13 @@ Dialogue: 0,0:20:22.09,0:20:23.38,Default,,0,0,0,,{TIME:1222096,1223389}Oh, that
 Dialogue: 0,0:20:23.38,0:20:24.84,Default,,0,0,0,,{TIME:1223389,1224849}Mr. Purple Rose!
 Dialogue: 0,0:20:24.84,0:20:27.97,Default,,0,0,0,,{TIME:1224849,1227977}Yes. It's your secret admirer.
 Dialogue: 0,0:20:27.97,0:20:29.89,Default,,0,0,0,,{TIME:1227977,1229895}Here. He sent a fan letter with it, too.
-Dialogue: 0,0:20:35.06,0:20:40.57,Default,,0,0,0,,{TIME:1235067,1240573}{\i1}"I finally found out where you live,\Nand then learned that Miss Tsukikage is very ill."
-Dialogue: 0,0:20:40.57,0:20:45.07,Default,,0,0,0,,{TIME:1240573,1245077}{\i1}"I don't want to be meddlesome,\Nbut please accept my good intentions."
-Dialogue: 0,0:20:45.07,0:20:49.24,Default,,0,0,0,,{TIME:1245077,1249248}{\i1}"I'm waiting for the day\NI can see you on the stage again."
-Dialogue: 0,0:20:53.58,0:20:55.12,Default,,0,0,0,,{TIME:1253586,1255129}{\i1}Waiting…
+Dialogue: 0,0:20:35.06,0:20:40.57,Thought,,0,0,0,,{TIME:1235067,1240573}"I finally found out where you live,\Nand then learned that Miss Tsukikage is very ill."
+Dialogue: 0,0:20:40.57,0:20:45.07,Thought,,0,0,0,,{TIME:1240573,1245077}"I don't want to be meddlesome,\Nbut please accept my good intentions."
+Dialogue: 0,0:20:45.07,0:20:49.24,Thought,,0,0,0,,{TIME:1245077,1249248}"I'm waiting for the day\NI can see you on the stage again."
+Dialogue: 0,0:20:53.58,0:20:55.12,Default,,0,0,0,,{TIME:1253586,1255129}"Waiting…"
 Dialogue: 0,0:21:37.92,0:21:39.84,Sign,(sign),0,0,0,,{TIME:1297922,1299840}Eishin Za
-Dialogue: 0,0:22:06.28,0:22:08.99,Default,,0,0,0,,{TIME:1326283,1328994}{\i1}Please watch me, Mr. Purple Rose.
-Dialogue: 0,0:22:11.03,0:22:12.95,Default,,0,0,0,,{TIME:1331038,1332957}{\i1}You'll get your share, girl.
+Dialogue: 0,0:22:06.28,0:22:08.99,Thought,,0,0,0,,{TIME:1326283,1328994}Please watch me, Mr. Purple Rose.
+Dialogue: 0,0:22:11.03,0:22:12.95,Thought,,0,0,0,,{TIME:1331038,1332957}You'll get your share, girl.
 Comment: 0,0:22:50.36,0:22:50.36,Default,[chapter],0,0,0,,{TIME:1370369,1370369}Ending
 Dialogue: 0,0:22:57.62,0:23:03.75,Ending alt,[karaoke],0,0,0,,{TIME:1377627,1383757}{\blur3}It is lonely by myself…
 Dialogue: 0,0:23:03.75,0:23:09.84,Ending alt,[karaoke],0,0,0,,{TIME:1383757,1389847}{\blur3}…and I almost stumble.

@@ -14,6 +14,8 @@ Audio File: source/07.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00ECF1F2,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -111,8 +113,8 @@ Dialogue: 0,0:04:53.41,0:04:54.92,Default,,0,0,0,,{TIME:293418,294920}No, I can'
 Dialogue: 0,0:04:54.92,0:04:58.08,Default,,0,0,0,,{TIME:294920,298089}Excuse me, mister!
 Dialogue: 0,0:04:58.08,0:05:00.00,Default,,0,0,0,,{TIME:298089,300008}I guess I have to accept it…
 Dialogue: 0,0:05:03.59,0:05:06.34,Default,,0,0,0,,{TIME:303595,306348}What a silly girl,\Ntrying to act all by herself.
-Dialogue: 0,0:05:06.34,0:05:08.47,Default,,0,0,0,,{TIME:306348,308475}{\i1}But she'll soon make some mistakes.
-Dialogue: 0,0:05:08.47,0:05:10.64,Default,,0,0,0,,{TIME:308475,310644}{\i1}She can't continue on like this.
+Dialogue: 0,0:05:06.34,0:05:08.47,Thought,,0,0,0,,{TIME:306348,308475}But she'll soon make some mistakes.
+Dialogue: 0,0:05:08.47,0:05:10.64,Thought,,0,0,0,,{TIME:308475,310644}She can't continue on like this.
 Dialogue: 0,0:05:10.64,0:05:12.35,Default,,0,0,0,,{TIME:310644,312354}Look, I see some horses.
 Dialogue: 0,0:05:12.35,0:05:15.69,Default,,0,0,0,,{TIME:312354,315690}They are the three Princes\Nfrom the Castle.
 Dialogue: 0,0:05:15.69,0:05:16.39,Default,,0,0,0,,{TIME:315690,316399}What?
@@ -145,19 +147,19 @@ Dialogue: 0,0:06:20.88,0:06:22.59,Default,,0,0,0,,{TIME:380881,382591}Huh? What?
 Dialogue: 0,0:06:22.59,0:06:23.55,Default,,0,0,0,,{TIME:382591,383550}Wait.
 Dialogue: 0,0:06:23.55,0:06:24.71,Default,,0,0,0,,{TIME:383550,384718}Something is strange.
 Dialogue: 0,0:06:24.71,0:06:26.72,Default,,0,0,0,,{TIME:384718,386720}The Princess came first, and now…
-Dialogue: 0,0:06:26.72,0:06:29.47,Default,,0,0,0,,{TIME:386720,389472}{\i1}I can't believe\Nshe's getting on the stage all by herself.
+Dialogue: 0,0:06:26.72,0:06:29.47,Thought,,0,0,0,,{TIME:386720,389472}I can't believe\Nshe's getting on the stage all by herself.
 Dialogue: 0,0:06:29.47,0:06:32.34,Default,,0,0,0,,{TIME:389472,392349}Okay, I'll let you know if I hear anything.
 Dialogue: 0,0:06:34.01,0:06:35.06,Default,,0,0,0,,{TIME:394019,395061}What should I do?
-Dialogue: 0,0:06:35.47,0:06:39.02,Default,,0,0,0,,{TIME:395478,399024}{\i1}And she's making sense\Nof it as a play.
-Dialogue: 0,0:06:39.60,0:06:40.73,Default,,0,0,0,,{TIME:399608,400734}{\i1}Maya…
+Dialogue: 0,0:06:35.47,0:06:39.02,Thought,,0,0,0,,{TIME:395478,399024}And she's making sense\Nof it as a play.
+Dialogue: 0,0:06:39.60,0:06:40.73,Thought,,0,0,0,,{TIME:399608,400734}Maya…
 Dialogue: 0,0:06:40.31,0:06:42.98,Default,,0,0,0,,{TIME:400317,402986}{\an8}A team of two is after this pot.
 Dialogue: 0,0:06:44.19,0:06:45.32,Default,,0,0,0,,{TIME:404195,405322}No, I can't report it.
 Dialogue: 0,0:06:45.32,0:06:47.65,Default,,0,0,0,,{TIME:405322,407657}It would be fine if there's jewelry inside…
 Dialogue: 0,0:06:47.65,0:06:49.74,Default,,0,0,0,,{TIME:407657,409743}But if it's really\Nthe Mark of the Royal Family…
 Dialogue: 0,0:06:49.74,0:06:53.16,Default,,0,0,0,,{TIME:409743,413163}And they find out that it was me\Nwho turned it in to the Sheriff…
 Dialogue: 0,0:06:53.16,0:06:54.41,Default,,0,0,0,,{TIME:413163,414414}They'll kill me for sure!
-Dialogue: 0,0:06:54.41,0:06:56.49,Default,,0,0,0,,{TIME:414414,416499}{\i1}What lively acting.
-Dialogue: 0,0:06:56.49,0:06:59.87,Default,,0,0,0,,{TIME:416499,419878}{\i1}She doesn't even look like the same girl\Nas the one crying in the rain back then.
+Dialogue: 0,0:06:54.41,0:06:56.49,Thought,,0,0,0,,{TIME:414414,416499}What lively acting.
+Dialogue: 0,0:06:56.49,0:06:59.87,Thought,,0,0,0,,{TIME:416499,419878}She doesn't even look like the same girl\Nas the one crying in the rain back then.
 Dialogue: 0,0:07:01.21,0:07:02.88,Default,,0,0,0,,{TIME:421212,422881}Now what do I do?
 Dialogue: 0,0:07:02.88,0:07:06.38,Default,,0,0,0,,{TIME:422881,426384}There are four groups looking for this pot,\Nevery one for different things inside.
 Dialogue: 0,0:07:06.38,0:07:09.42,Default,,0,0,0,,{TIME:426384,429429}The Princess from the Castle…
@@ -212,7 +214,7 @@ Dialogue: 0,0:09:52.42,0:09:56.09,Default,,0,0,0,,{TIME:592425,596096}And… thi
 Dialogue: 0,0:09:57.93,0:09:59.18,Default,,0,0,0,,{TIME:597931,599182}I'm sorry!
 Dialogue: 0,0:09:59.18,0:10:01.30,Default,,0,0,0,,{TIME:599182,601309}My hands slipped.
 Dialogue: 0,0:10:01.30,0:10:02.60,Default,,0,0,0,,{TIME:601309,602602}Oh, you're going home?
-Dialogue: 0,0:10:05.93,0:10:09.48,Default,,0,0,0,,{TIME:605939,609483}{\i1}Maya is playing all by herself.\NI can't believe it. How?
+Dialogue: 0,0:10:05.93,0:10:09.48,Thought,,0,0,0,,{TIME:605939,609483}Maya is playing all by herself.\NI can't believe it. How?
 Dialogue: 0,0:10:20.66,0:10:23.74,Default,,0,0,0,,{TIME:620662,623748}Oh, warriors from the Castle.
 Dialogue: 0,0:10:23.74,0:10:24.45,Default,,0,0,0,,{TIME:623748,624457}What?
 Dialogue: 0,0:10:24.45,0:10:27.83,Default,,0,0,0,,{TIME:624457,627836}You arrested the three rulers who came here?
@@ -303,10 +305,10 @@ Dialogue: 0,0:16:27.36,0:16:28.48,Default,,0,0,0,,{TIME:987361,988488}Me?
 Dialogue: 0,0:16:28.48,0:16:29.73,Default,,0,0,0,,{TIME:988488,989738}Here, go.
 Dialogue: 0,0:16:36.49,0:16:38.66,Default,,0,0,0,,{TIME:996496,998664}Look at her, she's really nervous.
 Dialogue: 0,0:16:38.66,0:16:41.29,Default,,0,0,0,,{TIME:998664,1001291}What a difference from the composure\Nshe had when she was on stage.
-Dialogue: 0,0:16:41.95,0:16:44.00,Default,,0,0,0,,{TIME:1001959,1004002}{\i1}Otto, Keiko.
-Dialogue: 0,0:16:44.00,0:16:46.29,Default,,0,0,0,,{TIME:1004002,1006297}{\i1}You two saved this play.
-Dialogue: 0,0:16:46.29,0:16:47.13,Default,,0,0,0,,{TIME:1006297,1007131}{\i1}Thank you.
-Dialogue: 0,0:16:55.72,0:16:57.09,Default,,0,0,0,,{TIME:1015723,1017098}{\i1}She looks good.
+Dialogue: 0,0:16:41.95,0:16:44.00,Thought,,0,0,0,,{TIME:1001959,1004002}Otto, Keiko.
+Dialogue: 0,0:16:44.00,0:16:46.29,Thought,,0,0,0,,{TIME:1004002,1006297}You two saved this play.
+Dialogue: 0,0:16:46.29,0:16:47.13,Thought,,0,0,0,,{TIME:1006297,1007131}Thank you.
+Dialogue: 0,0:16:55.72,0:16:57.09,Thought,,0,0,0,,{TIME:1015723,1017098}She looks good.
 Dialogue: 0,0:17:04.10,0:17:07.40,Default,,0,0,0,,{TIME:1024106,1027401}I worried how it would be without us, but…
 Dialogue: 0,0:17:07.40,0:17:09.57,Default,,0,0,0,,{TIME:1027401,1029570}She's a total genius!
 Dialogue: 0,0:17:09.57,0:17:13.24,Default,,0,0,0,,{TIME:1029570,1033241}She's just a normal girl off stage.
@@ -330,8 +332,8 @@ Dialogue: 0,0:18:00.07,0:18:01.66,Default,,0,0,0,,{TIME:1080079,1081664}Wow, May
 Dialogue: 0,0:18:01.66,0:18:02.49,Default,,0,0,0,,{TIME:1081664,1082498}You did it!
 Dialogue: 0,0:18:02.49,0:18:03.58,Default,,0,0,0,,{TIME:1082498,1083583}You were so cool!
 Dialogue: 0,0:18:03.58,0:18:04.79,Default,,0,0,0,,{TIME:1083583,1084792}Thank you.
-Dialogue: 0,0:18:04.79,0:18:07.08,Default,,0,0,0,,{TIME:1084792,1087086}{\i1}The audience chose her?
-Dialogue: 0,0:18:07.08,0:18:10.71,Default,,0,0,0,,{TIME:1087086,1090715}{\i1}The girl who was looking over\Nour practice last year through the window?
+Dialogue: 0,0:18:04.79,0:18:07.08,Thought,,0,0,0,,{TIME:1084792,1087086}The audience chose her?
+Dialogue: 0,0:18:07.08,0:18:10.71,Thought,,0,0,0,,{TIME:1087086,1090715}The girl who was looking over\Nour practice last year through the window?
 Dialogue: 0,0:18:11.79,0:18:14.34,Default,,0,0,0,,{TIME:1091799,1094343}The audience doesn't know\Nanything about acting.
 Dialogue: 0,0:18:14.34,0:18:16.17,Default,,0,0,0,,{TIME:1094343,1096178}What matters is the judges.
 Dialogue: 0,0:18:19.05,0:18:20.97,Default,,0,0,0,,{TIME:1099056,1100975}What's wrong, Teacher?

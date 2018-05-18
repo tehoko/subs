@@ -14,6 +14,8 @@ Audio File: source/21.mkv
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
+Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,75,75,75,1
 Style: Episode title,Gotham Bold,86,&H00E7E3EB,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
@@ -66,9 +68,9 @@ Dialogue: 0,0:02:37.59,0:02:37.59,Default,,0,0,0,,{TIME:157590,157590}It's becau
 Dialogue: 0,0:02:40.46,0:02:40.46,Default,,0,0,0,,{TIME:160460,160460}Look at this. Even most of the flowers are addressed to Himekawa Utako and Ayumi.
 Dialogue: 0,0:02:49.80,0:02:49.80,Default,,0,0,0,,{TIME:169803,169803}Quality rather than quantity, it's how much of our heart we put in this.
 Dialogue: 0,0:02:52.83,0:02:52.83,Default,,0,0,0,,{TIME:172839,172839}Excuse me, here's a delivery.
-Dialogue: 0,0:02:57.27,0:02:57.27,Default,,0,0,0,,{TIME:177277,177277}{\i1}What's wrong, Maya?
-Dialogue: 0,0:03:00.54,0:03:00.54,Default,,0,0,0,,{TIME:180547,180547}{\i1}I'm nervous.
-Dialogue: 0,0:03:02.68,0:03:02.68,Default,,0,0,0,,{TIME:182682,182682}{\i1}I'm afraid to be compared with Ayumi.
+Dialogue: 0,0:02:57.27,0:02:57.27,Thought,,0,0,0,,{TIME:177277,177277}What's wrong, Maya?
+Dialogue: 0,0:03:00.54,0:03:00.54,Thought,,0,0,0,,{TIME:180547,180547}I'm nervous.
+Dialogue: 0,0:03:02.68,0:03:02.68,Thought,,0,0,0,,{TIME:182682,182682}I'm afraid to be compared with Ayumi.
 Dialogue: 0,0:03:06.35,0:03:06.35,Default,,0,0,0,,{TIME:186353,186353}Maya!\NCome look!
 Dialogue: 0,0:03:08.68,0:03:08.68,Default,,0,0,0,,{TIME:188688,188688}Hurry, Maya!
 Dialogue: 0,0:03:09.08,0:03:09.08,Default,,0,0,0,,{TIME:189089,189089}Huh?
@@ -86,15 +88,15 @@ Dialogue: 0,0:03:43.92,0:03:43.92,Default,,0,0,0,,{TIME:223923,223923}I'm lookin
 Dialogue: 0,0:03:46.69,0:03:46.69,Default,,0,0,0,,{TIME:226693,226693}Teacher…
 Dialogue: 0,0:03:48.62,0:03:48.62,Default,,0,0,0,,{TIME:228628,228628}A miracle is not something that just happens.
 Dialogue: 0,0:03:50.79,0:03:50.79,Default,,0,0,0,,{TIME:230797,230797}You make it happen,\Nwith your own hands.
-Dialogue: 0,0:03:53.13,0:03:53.13,Default,,0,0,0,,{TIME:233133,233133}{\i1}A miracle is something I make\Nhappen with my own hands.
+Dialogue: 0,0:03:53.13,0:03:53.13,Thought,,0,0,0,,{TIME:233133,233133}A miracle is something I make\Nhappen with my own hands.
 Dialogue: 0,0:04:04.91,0:04:04.91,Narrator,(narrator),0,0,0,,{TIME:244911,244911}"The Miracle Worker," played by\NMaya and Utako, has started.
 Dialogue: 0,0:04:16.99,0:04:16.99,Default,,0,0,0,,{TIME:256990,256990}Young lady,\Nit's your day off today.
 Dialogue: 0,0:04:20.76,0:04:20.76,Default,,0,0,0,,{TIME:260760,260760}Please, hurry.
 Dialogue: 0,0:04:23.56,0:04:23.56,Default,,0,0,0,,{TIME:263563,263563}Thank you for coming,\NMs. Sullivan.
 Dialogue: 0,0:04:26.23,0:04:26.23,Default,,0,0,0,,{TIME:266232,266232}This is my husband.\NThis is Annie.
 Dialogue: 0,0:04:28.20,0:04:28.20,Default,,0,0,0,,{TIME:268201,268201}Nice to meet you.
-Dialogue: 0,0:04:29.03,0:04:29.03,Default,,0,0,0,,{TIME:269035,269035}{\i1}Mr. Purple Rose.\NI'll do it.
-Dialogue: 0,0:04:32.00,0:04:32.00,Default,,0,0,0,,{TIME:272005,272005}{\i1}I'm not scared anymore.
+Dialogue: 0,0:04:29.03,0:04:29.03,Thought,,0,0,0,,{TIME:269035,269035}Mr. Purple Rose.\NI'll do it.
+Dialogue: 0,0:04:32.00,0:04:32.00,Thought,,0,0,0,,{TIME:272005,272005}I'm not scared anymore.
 Dialogue: 0,0:04:35.70,0:04:35.70,Default,,0,0,0,,{TIME:275709,275709}Since when did this country became so big?
 Dialogue: 0,0:04:56.36,0:04:56.36,Default,,0,0,0,,{TIME:296363,296363}Where should I put the suitcase, sir?
 Dialogue: 0,0:04:58.33,0:04:58.33,Default,,0,0,0,,{TIME:298331,298331}Let's put it somewhere convenient for Ms. Sullivan.
@@ -103,21 +105,21 @@ Dialogue: 0,0:05:02.73,0:05:02.73,Default,,0,0,0,,{TIME:302736,302736}Where's He
 Dialogue: 0,0:05:03.67,0:05:03.67,Default,,0,0,0,,{TIME:303670,303670}I'll take the suitcase.
 Dialogue: 0,0:05:05.80,0:05:05.80,Default,,0,0,0,,{TIME:305805,305805}No, I can carry it.
 Dialogue: 0,0:05:07.60,0:05:07.60,Default,,0,0,0,,{TIME:307607,307607}Oh no, I'll do it.
-Dialogue: 0,0:05:16.61,0:05:16.61,Default,,0,0,0,,{TIME:316616,316616}{\i1}This girl seems so different from practice.
-Dialogue: 0,0:05:19.01,0:05:19.01,Default,,0,0,0,,{TIME:319019,319019}{\i1}She seems like a totally different person.
+Dialogue: 0,0:05:16.61,0:05:16.61,Thought,,0,0,0,,{TIME:316616,316616}This girl seems so different from practice.
+Dialogue: 0,0:05:19.01,0:05:19.01,Thought,,0,0,0,,{TIME:319019,319019}She seems like a totally different person.
 Dialogue: 0,0:05:22.28,0:05:22.28,Default,,0,0,0,,{TIME:322288,322288}That's Helen.
-Dialogue: 0,0:05:23.52,0:05:23.52,Default,,0,0,0,,{TIME:323523,323523}{\i1}Oh no, it was my turn.
-Dialogue: 0,0:05:41.30,0:05:41.30,Default,,0,0,0,,{TIME:341307,341307}{\i1}This is it: this breath, this rhythm,\Nthe tension and the calm.
-Dialogue: 0,0:05:47.94,0:05:47.94,Default,,0,0,0,,{TIME:347947,347947}{\i1}The actor who can capture that,\Ncan grab the audience.
-Dialogue: 0,0:05:50.98,0:05:50.98,Default,,0,0,0,,{TIME:350984,350984}{\i1}This girl doesn't know that yet,\Nbut her instinct does.
-Dialogue: 0,0:05:58.69,0:05:58.69,Default,,0,0,0,,{TIME:358692,358692}{\i1}She's leading.\NThis is dangerous.
+Dialogue: 0,0:05:23.52,0:05:23.52,Thought,,0,0,0,,{TIME:323523,323523}Oh no, it was my turn.
+Dialogue: 0,0:05:41.30,0:05:41.30,Thought,,0,0,0,,{TIME:341307,341307}This is it: this breath, this rhythm,\Nthe tension and the calm.
+Dialogue: 0,0:05:47.94,0:05:47.94,Thought,,0,0,0,,{TIME:347947,347947}The actor who can capture that,\Ncan grab the audience.
+Dialogue: 0,0:05:50.98,0:05:50.98,Thought,,0,0,0,,{TIME:350984,350984}This girl doesn't know that yet,\Nbut her instinct does.
+Dialogue: 0,0:05:58.69,0:05:58.69,Thought,,0,0,0,,{TIME:358692,358692}She's leading.\NThis is dangerous.
 Dialogue: 0,0:06:02.12,0:06:02.12,Default,,0,0,0,,{TIME:362128,362128}Here, Helen.\NLet's start with the doll.
 Dialogue: 0,0:06:06.46,0:06:06.46,Default,,0,0,0,,{TIME:366466,366466}D·O·L·L.
 Dialogue: 0,0:06:09.50,0:06:09.50,Default,,0,0,0,,{TIME:369502,369502}A doll.
-Dialogue: 0,0:06:19.54,0:06:19.54,Default,,0,0,0,,{TIME:379546,379546}{\i1}What happened?\NI moved from her hand.
-Dialogue: 0,0:06:22.18,0:06:22.18,Default,,0,0,0,,{TIME:382182,382182}{\i1}She's supposed to slap me\Nin this scene.
-Dialogue: 0,0:06:25.48,0:06:25.48,Default,,0,0,0,,{TIME:385485,385485}{\i1}What happened to Utako?
-Dialogue: 0,0:06:28.35,0:06:28.35,Default,,0,0,0,,{TIME:388355,388355}{\i1}She's taken by Maya's pace.
+Dialogue: 0,0:06:19.54,0:06:19.54,Thought,,0,0,0,,{TIME:379546,379546}What happened?\NI moved from her hand.
+Dialogue: 0,0:06:22.18,0:06:22.18,Thought,,0,0,0,,{TIME:382182,382182}She's supposed to slap me\Nin this scene.
+Dialogue: 0,0:06:25.48,0:06:25.48,Thought,,0,0,0,,{TIME:385485,385485}What happened to Utako?
+Dialogue: 0,0:06:28.35,0:06:28.35,Thought,,0,0,0,,{TIME:388355,388355}She's taken by Maya's pace.
 Dialogue: 0,0:06:35.66,0:06:35.66,Default,,0,0,0,,{TIME:395662,395662}Strange. I can see the darkness around her.
 Dialogue: 0,0:06:38.33,0:06:38.33,Default,,0,0,0,,{TIME:398331,398331}The darkness?
 Dialogue: 0,0:06:39.73,0:06:39.73,Default,,0,0,0,,{TIME:399733,399733}The darkness… the kind of darkness that Helen, who was blind and deaf, was feeling.
@@ -126,8 +128,8 @@ Dialogue: 0,0:06:48.44,0:06:48.44,Default,,0,0,0,,{TIME:408441,408441}There's pl
 Dialogue: 0,0:06:52.31,0:06:52.31,Default,,0,0,0,,{TIME:412312,412312}…it makes me feel blinded\Nto the things around her.
 Dialogue: 0,0:06:56.95,0:06:56.95,Default,,0,0,0,,{TIME:416950,416950}But, her movement is not like Helen, or at least not what's known to be Helen's.
 Dialogue: 0,0:07:10.46,0:07:10.46,Default,,0,0,0,,{TIME:430463,430463}Just because Helen is being played by a different actress makes it a whole new play.
-Dialogue: 0,0:07:14.63,0:07:14.63,Default,,0,0,0,,{TIME:434634,434634}{\i1}Maya, you're great.\NWonderful.
-Dialogue: 0,0:07:18.47,0:07:18.47,Default,,0,0,0,,{TIME:438471,438471}{\i1}They say a play is alive,\Nbut you truly are alive now.
+Dialogue: 0,0:07:14.63,0:07:14.63,Thought,,0,0,0,,{TIME:434634,434634}Maya, you're great.\NWonderful.
+Dialogue: 0,0:07:18.47,0:07:18.47,Thought,,0,0,0,,{TIME:438471,438471}They say a play is alive,\Nbut you truly are alive now.
 Dialogue: 0,0:07:24.11,0:07:24.11,Narrator,(narrator),0,0,0,,{TIME:444110,444110}Helen and the lady teacher, Sullivan,\Nnothing was changed from the script…
 Dialogue: 0,0:07:30.81,0:07:30.81,Narrator,(narrator),0,0,0,,{TIME:450817,450817}…but Utako was feeling that the play was going in an entirely different direction.
 Dialogue: 0,0:07:38.55,0:07:38.55,Narrator,(narrator),0,0,0,,{TIME:458558,458558}The first act was finally over.
@@ -153,15 +155,15 @@ Dialogue: 0,0:08:32.64,0:08:32.64,Default,,0,0,0,,{TIME:512645,512645}Okay, I'll
 Dialogue: 0,0:08:35.68,0:08:35.68,Default,,0,0,0,,{TIME:515682,515682}Great, why don't we have enough film at a time like this?
 Dialogue: 0,0:08:40.48,0:08:40.48,Default,,0,0,0,,{TIME:520487,520487}But, this Helen and Sullivan are really something else.
 Dialogue: 0,0:08:44.12,0:08:44.12,Default,,0,0,0,,{TIME:524124,524124}I've never seen anything like this.
-Dialogue: 0,0:08:49.06,0:08:49.06,Default,,0,0,0,,{TIME:529062,529062}{\i1}What!?
-Dialogue: 0,0:08:51.63,0:08:51.63,Default,,0,0,0,,{TIME:531631,531631}{\i1}What did he mean?
-Dialogue: 0,0:08:54.03,0:08:54.03,Default,,0,0,0,,{TIME:534034,534034}{\i1}What's going on\Nbehind those doors?
+Dialogue: 0,0:08:49.06,0:08:49.06,Thought,,0,0,0,,{TIME:529062,529062}What!?
+Dialogue: 0,0:08:51.63,0:08:51.63,Thought,,0,0,0,,{TIME:531631,531631}What did he mean?
+Dialogue: 0,0:08:54.03,0:08:54.03,Thought,,0,0,0,,{TIME:534034,534034}What's going on\Nbehind those doors?
 Dialogue: 0,0:08:59.60,0:08:59.60,Default,,0,0,0,,{TIME:539606,539606}Rei?
-Dialogue: 0,0:09:11.48,0:09:11.48,Default,,0,0,0,,{TIME:551484,551484}{\i1}Different.\NThis is different from practice.
-Dialogue: 0,0:09:14.15,0:09:14.15,Default,,0,0,0,,{TIME:554154,554154}{\i1}Mrs. Himekawa Utako.\NWhy?
+Dialogue: 0,0:09:11.48,0:09:11.48,Thought,,0,0,0,,{TIME:551484,551484}Different.\NThis is different from practice.
+Dialogue: 0,0:09:14.15,0:09:14.15,Thought,,0,0,0,,{TIME:554154,554154}Mrs. Himekawa Utako.\NWhy?
 Dialogue: 0,0:09:19.05,0:09:19.05,Default,,0,0,0,,{TIME:559059,559059}Here, Helen. I want you to understand that things have names.
-Dialogue: 0,0:09:24.23,0:09:24.23,Default,,0,0,0,,{TIME:564230,564230}{\i1}Helen.\NYes, I am Helen.
-Dialogue: 0,0:09:27.26,0:09:27.26,Default,,0,0,0,,{TIME:567267,567267}{\i1}Whatever happens or changes,\NI am Helen on stage.
+Dialogue: 0,0:09:24.23,0:09:24.23,Thought,,0,0,0,,{TIME:564230,564230}Helen.\NYes, I am Helen.
+Dialogue: 0,0:09:27.26,0:09:27.26,Thought,,0,0,0,,{TIME:567267,567267}Whatever happens or changes,\NI am Helen on stage.
 Dialogue: 0,0:09:38.94,0:09:38.94,Narrator,(narrator),0,0,0,,{TIME:578945,578945}The two were no longer acting,\Nbut became real.
 Dialogue: 0,0:09:43.21,0:09:43.21,Narrator,(narrator),0,0,0,,{TIME:583216,583216}Maya became Helen, and, like her,\NUtako became Annie Sullivan.
 Dialogue: 0,0:09:53.22,0:09:53.22,Narrator,(narrator),0,0,0,,{TIME:593226,593226}Between them was a shared rhythm,\Nand they were even feeling a sense of connection.
@@ -176,12 +178,12 @@ Dialogue: 0,0:11:02.69,0:11:02.69,Narrator,(narrator),0,0,0,,{TIME:662696,662696
 Dialogue: 0,0:11:11.50,0:11:11.50,Default,,0,0,0,,{TIME:671504,671504}It's not over yet, it's a curtain call.\NOpen it up!
 Dialogue: 0,0:11:34.12,0:11:34.12,Default,,0,0,0,,{TIME:694127,694127}Look at that.
 Dialogue: 0,0:11:35.82,0:11:35.82,Default,,0,0,0,,{TIME:695829,695829}She didn't even kiss\Nher own daughter.
-Dialogue: 0,0:11:49.47,0:11:49.47,Default,,0,0,0,,{TIME:709476,709476}{\i1}Maya. You inspire me\Nto keep up with you.
+Dialogue: 0,0:11:49.47,0:11:49.47,Thought,,0,0,0,,{TIME:709476,709476}Maya. You inspire me\Nto keep up with you.
 Dialogue: 0,0:11:57.91,0:11:57.91,Default,,0,0,0,,{TIME:717917,717917}Mr. Purple Rose, did you see me?
 Dialogue: 0,0:12:00.88,0:12:00.88,Default,,0,0,0,,{TIME:720887,720887}My Helen.
 Dialogue: 0,0:12:03.22,0:12:03.22,Default,,0,0,0,,{TIME:723223,723223}I might have given up\Nwithout your encouragement.
 Dialogue: 0,0:12:12.43,0:12:12.43,Default,,0,0,0,,{TIME:732432,732432}Who?\NWho's there?
-Dialogue: 0,0:12:16.60,0:12:16.60,Default,,0,0,0,,{TIME:736603,736603}{\i1}Is it… Mr. Purple Rose?
+Dialogue: 0,0:12:16.60,0:12:16.60,Thought,,0,0,0,,{TIME:736603,736603}Is it… Mr. Purple Rose?
 Dialogue: 0,0:12:33.58,0:12:33.58,Default,,0,0,0,,{TIME:753586,753586}Mr. Purple Rose,\NI know you are there.
 Dialogue: 0,0:12:39.72,0:12:39.72,Default,,0,0,0,,{TIME:759726,759726}Hello there, little girl.
 Dialogue: 0,0:12:40.72,0:12:40.72,Default,,0,0,0,,{TIME:760727,760727}You.
@@ -193,14 +195,14 @@ Dialogue: 0,0:12:51.87,0:12:51.87,Default,,0,0,0,,{TIME:771871,771871}You really
 Dialogue: 0,0:12:53.94,0:12:53.94,Default,,0,0,0,,{TIME:773940,773940}When can you stop\Nmaking that face?
 Dialogue: 0,0:12:58.47,0:12:58.47,Default,,0,0,0,,{TIME:778478,778478}The moment you see me…
 Dialogue: 0,0:13:01.84,0:13:01.84,Default,,0,0,0,,{TIME:781848,781848}…you act as if you've seen a cockroach, centipede, or something.
-Dialogue: 0,0:13:15.96,0:13:15.96,Default,,0,0,0,,{TIME:795962,795962}{\i1}Kitajima Maya.
+Dialogue: 0,0:13:15.96,0:13:15.96,Thought,,0,0,0,,{TIME:795962,795962}Kitajima Maya.
 Dialogue: 0,0:13:19.86,0:13:19.86,Narrator,(narrator),0,0,0,,{TIME:799866,799866}Maya and Utako's acting has received more\Nand more attention as the play continued.
 Dialogue: 0,0:13:24.20,0:13:24.20,Narrator,(narrator),0,0,0,,{TIME:804204,804204}Ayumi's acting was also acclaimed\Nby the critics, but with Maya…
 Dialogue: 0,0:13:30.37,0:13:30.37,Narrator,(narrator),0,0,0,,{TIME:810377,810377}…there was an unknown and unpredictable\Nelement that attracted the crowds.
 Dialogue: 0,0:13:34.78,0:13:34.78,Narrator,(narrator),0,0,0,,{TIME:814781,814781}When Maya and Utako were on stage,\Ntheir in sync acts had no scripts or rehearsal…
 Dialogue: 0,0:13:40.25,0:13:40.25,Default,,0,0,0,,{TIME:820253,820253}…and it was different every time they played.
-Dialogue: 0,0:13:45.09,0:13:45.09,Default,,0,0,0,,{TIME:825091,825091}{\i1}Mr. Purple Rose, Mother…\Nplease watch me.
-Dialogue: 0,0:13:49.39,0:13:49.39,Default,,0,0,0,,{TIME:829396,829396}{\i1}Can you hear that applause?
+Dialogue: 0,0:13:45.09,0:13:45.09,Thought,,0,0,0,,{TIME:825091,825091}Mr. Purple Rose, Mother…\Nplease watch me.
+Dialogue: 0,0:13:49.39,0:13:49.39,Thought,,0,0,0,,{TIME:829396,829396}Can you hear that applause?
 Dialogue: 0,0:13:53.53,0:13:53.53,Sign,(sign),0,0,0,,{TIME:833533,833533}Fukui Hospital
 Dialogue: 0,0:13:55.96,0:13:55.96,Default,,0,0,0,,{TIME:835969,835969}I hear it, I heart it!
 Dialogue: 0,0:13:58.17,0:13:58.17,Default,,0,0,0,,{TIME:838171,838171}I hear the applause.
@@ -229,14 +231,14 @@ Dialogue: 0,0:15:10.94,0:15:10.94,Default,,0,0,0,,{TIME:910944,910944}Shh. I kno
 Dialogue: 0,0:15:16.04,0:15:16.04,Default,,0,0,0,,{TIME:916049,916049}Maya…
 Dialogue: 0,0:15:19.28,0:15:19.28,Default,,0,0,0,,{TIME:919285,919285}I hear the applause.
 Dialogue: 0,0:15:22.02,0:15:22.02,Default,,0,0,0,,{TIME:922022,922022}Your mother hears it.
-Dialogue: 0,0:15:23.45,0:15:23.45,Default,,0,0,0,,{TIME:923456,923456}{\i1}Mother…
+Dialogue: 0,0:15:23.45,0:15:23.45,Thought,,0,0,0,,{TIME:923456,923456}Mother…
 Dialogue: 0,0:15:24.49,0:15:24.49,Narrator,(narrator),0,0,0,,{TIME:924491,924491}"The Miracle Worker," which received great press coverage…
 Dialogue: 0,0:15:28.19,0:15:28.19,Narrator,(narrator),0,0,0,,{TIME:928194,928194}…finally came to the last night\Nwith a heated audience.
 Dialogue: 0,0:15:31.33,0:15:31.33,Default,,0,0,0,,{TIME:931331,931331}Please, this is for you.
 Dialogue: 0,0:15:31.86,0:15:31.86,Default,,0,0,0,,{TIME:931865,931865}Thank you.
-Dialogue: 0,0:15:38.17,0:15:38.17,Default,,0,0,0,,{TIME:938171,938171}{\i1}A purple rose!
-Dialogue: 0,0:15:44.14,0:15:44.14,Default,,0,0,0,,{TIME:944144,944144}{\i1}He's here, somewhere in here!
-Dialogue: 0,0:15:46.37,0:15:46.37,Default,,0,0,0,,{TIME:946379,946379}{\i1}Mr. Purple Rose.
+Dialogue: 0,0:15:38.17,0:15:38.17,Thought,,0,0,0,,{TIME:938171,938171}A purple rose!
+Dialogue: 0,0:15:44.14,0:15:44.14,Thought,,0,0,0,,{TIME:944144,944144}He's here, somewhere in here!
+Dialogue: 0,0:15:46.37,0:15:46.37,Thought,,0,0,0,,{TIME:946379,946379}Mr. Purple Rose.
 Dialogue: 0,0:15:59.89,0:15:59.89,Default,,0,0,0,,{TIME:959893,959893}He's somewhere in here.\NI have to hurry.
 Dialogue: 0,0:16:03.53,0:16:03.53,Default,,0,0,0,,{TIME:963530,963530}Where is he?
 Dialogue: 0,0:16:09.00,0:16:09.00,Default,,0,0,0,,{TIME:969002,969002}Excuse me!
@@ -255,8 +257,8 @@ Dialogue: 0,0:16:52.77,0:16:52.77,Default,,0,0,0,,{TIME:1012779,1012779}Move!
 Dialogue: 0,0:16:58.55,0:16:58.55,Default,,0,0,0,,{TIME:1018551,1018551}Are you okay, Mr. Masumi?
 Dialogue: 0,0:16:59.78,0:16:59.78,Default,,0,0,0,,{TIME:1019786,1019786}I'm fine.
 Dialogue: 0,0:17:02.28,0:17:02.28,Default,,0,0,0,,{TIME:1022288,1022288}It just hit my shoulder.
-Dialogue: 0,0:17:09.59,0:17:09.59,Default,,0,0,0,,{TIME:1029596,1029596}{\i1}Why did he… for me?
-Dialogue: 0,0:17:11.89,0:17:11.89,Default,,0,0,0,,{TIME:1031898,1031898}{\i1}I thought he hated me.
+Dialogue: 0,0:17:09.59,0:17:09.59,Thought,,0,0,0,,{TIME:1029596,1029596}Why did he… for me?
+Dialogue: 0,0:17:11.89,0:17:11.89,Thought,,0,0,0,,{TIME:1031898,1031898}I thought he hated me.
 Dialogue: 0,0:17:14.53,0:17:14.53,Default,,0,0,0,,{TIME:1034534,1034534}Are you okay?
 Dialogue: 0,0:17:15.86,0:17:15.86,Default,,0,0,0,,{TIME:1035869,1035869}Yes.
 Dialogue: 0,0:17:24.51,0:17:24.51,Default,,0,0,0,,{TIME:1044511,1044511}I… I misunderstood.
@@ -268,8 +270,8 @@ Dialogue: 0,0:17:41.46,0:17:41.46,Default,,0,0,0,,{TIME:1061461,1061461}The play
 Dialogue: 0,0:17:48.43,0:17:48.43,Default,,0,0,0,,{TIME:1068435,1068435}That's the way it is, little girl.
 Dialogue: 0,0:17:51.63,0:17:51.63,Default,,0,0,0,,{TIME:1071638,1071638}D-Don't worry.
 Dialogue: 0,0:17:53.40,0:17:53.40,Default,,0,0,0,,{TIME:1073406,1073406}Until this play is over,\NI won't be sick or injured!
-Dialogue: 0,0:18:15.19,0:18:15.19,Default,,0,0,0,,{TIME:1095195,1095195}{\i1}He's always like that, a cold man.\NAlways.
-Dialogue: 0,0:18:18.39,0:18:18.39,Default,,0,0,0,,{TIME:1098398,1098398}{\i1}He only cares about this theater.
+Dialogue: 0,0:18:15.19,0:18:15.19,Thought,,0,0,0,,{TIME:1095195,1095195}He's always like that, a cold man.\NAlways.
+Dialogue: 0,0:18:18.39,0:18:18.39,Thought,,0,0,0,,{TIME:1098398,1098398}He only cares about this theater.
 Dialogue: 0,0:18:22.53,0:18:22.53,Default,,0,0,0,,{TIME:1102535,1102535}Are you Kitajima Maya?
 Dialogue: 0,0:18:26.57,0:18:26.57,Default,,0,0,0,,{TIME:1106573,1106573}Yes, I am. But why?
 Dialogue: 0,0:18:29.24,0:18:29.24,Default,,0,0,0,,{TIME:1109242,1109242}Just for twenty minutes,\Nin a coffee shop down the street.
@@ -283,7 +285,7 @@ Dialogue: 0,0:18:56.16,0:18:56.16,Default,,0,0,0,,{TIME:1136169,1136169}It's not
 Dialogue: 0,0:18:57.97,0:18:57.97,Default,,0,0,0,,{TIME:1137971,1137971}You can do it.
 Dialogue: 0,0:19:08.94,0:19:08.94,Default,,0,0,0,,{TIME:1148948,1148948}I'll take the job.
 Dialogue: 0,0:19:11.31,0:19:11.31,Default,,0,0,0,,{TIME:1151317,1151317}Really?\NThen let's hurry up.
-Dialogue: 0,0:19:15.82,0:19:15.82,Default,,0,0,0,,{TIME:1155822,1155822}{\i1}Oh shit, that's Hayami Masumi\Nfrom Metropolitan Entertainment.
+Dialogue: 0,0:19:15.82,0:19:15.82,Thought,,0,0,0,,{TIME:1155822,1155822}Oh shit, that's Hayami Masumi\Nfrom Metropolitan Entertainment.
 Dialogue: 0,0:19:19.62,0:19:19.62,Default,,0,0,0,,{TIME:1159626,1159626}E-Excuse us.
 Dialogue: 0,0:19:23.43,0:19:23.43,Default,,0,0,0,,{TIME:1163430,1163430}I don't have anything to do with\NMetropolitan Entertainment.
 Dialogue: 0,0:19:30.50,0:19:30.50,Default,,0,0,0,,{TIME:1170503,1170503}You are so terrible.
@@ -299,7 +301,7 @@ Dialogue: 0,0:20:00.80,0:20:00.80,Default,,0,0,0,,{TIME:1200800,1200800}It's my 
 Dialogue: 0,0:20:04.27,0:20:04.27,Default,,0,0,0,,{TIME:1204270,1204270}Was it your dream to become\Na second class actress?
 Dialogue: 0,0:20:09.74,0:20:09.74,Default,,0,0,0,,{TIME:1209743,1209743}Was it?
 Dialogue: 0,0:20:13.98,0:20:13.98,Default,,0,0,0,,{TIME:1213980,1213980}I thought you'd become an actress\Nwho'd make your mother proud.
-Dialogue: 0,0:20:18.75,0:20:18.75,Default,,0,0,0,,{TIME:1218752,1218752}{\i1}Mother…
+Dialogue: 0,0:20:18.75,0:20:18.75,Thought,,0,0,0,,{TIME:1218752,1218752}Mother…
 Dialogue: 0,0:20:29.09,0:20:29.09,Default,,0,0,0,,{TIME:1229095,1229095}Uhh, I…
 Dialogue: 0,0:20:31.06,0:20:31.06,Default,,0,0,0,,{TIME:1231064,1231064}Watch your act, little girl.
 Dialogue: 0,0:20:34.60,0:20:34.60,Default,,0,0,0,,{TIME:1234601,1234601}You've been nominated for Best Supporting Actress by the Academy Awards Stage Drama Division.
@@ -330,9 +332,9 @@ Dialogue: 0,0:22:09.09,0:22:09.09,Default,,0,0,0,,{TIME:1329095,1329095}Young la
 Dialogue: 0,0:22:12.03,0:22:12.03,Default,,0,0,0,,{TIME:1332032,1332032}I want to know…
 Dialogue: 0,0:22:14.16,0:22:14.16,Default,,0,0,0,,{TIME:1334167,1334167}…what made her the better actress.
 Dialogue: 0,0:22:17.87,0:22:17.87,Default,,0,0,0,,{TIME:1337871,1337871}What's the difference between her and I?
-Dialogue: 0,0:22:24.71,0:22:24.71,Default,,0,0,0,,{TIME:1344711,1344711}{\i1}I can't believe it.
-Dialogue: 0,0:22:26.91,0:22:26.91,Default,,0,0,0,,{TIME:1346913,1346913}{\i1}I'm the favored candidate?
-Dialogue: 0,0:22:29.71,0:22:29.71,Default,,0,0,0,,{TIME:1349716,1349716}{\i1}I can't believe it…
+Dialogue: 0,0:22:24.71,0:22:24.71,Thought,,0,0,0,,{TIME:1344711,1344711}I can't believe it.
+Dialogue: 0,0:22:26.91,0:22:26.91,Thought,,0,0,0,,{TIME:1346913,1346913}I'm the favored candidate?
+Dialogue: 0,0:22:29.71,0:22:29.71,Thought,,0,0,0,,{TIME:1349716,1349716}I can't believe it…
 Dialogue: 0,0:22:33.85,0:22:33.85,Default,,0,0,0,,{TIME:1353853,1353853}Mother.
 Dialogue: 0,0:22:38.22,0:22:38.22,Default,,0,0,0,,{TIME:1358224,1358224}Mother…!
 Comment: 0,0:12:22.69,0:12:22.69,Default,[chapter],0,0,0,,{TIME:742699,742699}Eyecatch
