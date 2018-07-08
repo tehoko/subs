@@ -68,18 +68,18 @@ Dialogue: 0,0:01:53.82,0:01:55.03,Default,Ryuuji,0,0,0,,{TIME:113822,115032}Tsut
 Dialogue: 0,0:01:55.03,0:01:56.11,Default,Ayuhara,0,0,0,,{TIME:115032,116116}Huh!?{NOTE:えっ？！}
 Dialogue: 0,0:01:57.36,0:01:58.41,Default,Ryuuji,0,0,0,,{TIME:117367,118410}Did I surprise you?{NOTE:驚いたか？}
 Dialogue: 0,0:01:58.41,0:02:00.03,Default,Ryuuji,0,0,0,,{TIME:118410,120037}My name's Ryuuji.{NOTE:俺竜二ってんだ。}
-Dialogue: 0,0:02:00.03,0:02:02.66,Default,Ryuuji,0,0,0,,{TIME:120037,122664}Do I really resemble that Tsutomu-kun that much?{NOTE:その努くんとかに俺がそんなに似てるの？}
-Dialogue: 0,0:02:02.66,0:02:05.12,Default,Ryuuji,0,0,0,,{TIME:122664,125125}I'd like to learn what he's like.{NOTE:努くんってどんな人が聞きたいな。}
+Dialogue: 0,0:02:00.03,0:02:02.66,Default,Ryuuji,0,0,0,,{TIME:120037,122664}Do I really resemble him that much?{NOTE:その努くんとかに俺がそんなに似てるの？}
+Dialogue: 0,0:02:02.66,0:02:05.12,Default,Ryuuji,0,0,0,,{TIME:122664,125125}I'd like to learn what he was like.{NOTE:努くんってどんな人が聞きたいな。}
 Dialogue: 0,0:02:05.12,0:02:07.04,Default,Ryuuji,0,0,0,,{TIME:125125,127044}Why don't you come to Yamato Shrine?{NOTE:大和神社の境内へ行きてくれない？}
 Dialogue: 0,0:02:07.04,0:02:07.83,Default,Ryuuji,0,0,0,,{TIME:127044,127836}You're free, aren't you?{NOTE:いいだろう？}
 Dialogue: 0,0:02:07.83,0:02:08.46,Default,Ayuhara,0,0,0,,{TIME:127836,128461}Huh?{NOTE:えっ？}
 Dialogue: 0,0:02:08.46,0:02:10.54,Default,Ayuhara,0,0,0,,{TIME:128461,130547}To Yamato Shrine?{NOTE:大和神社の境内へ？}
 Dialogue: 0,0:02:10.54,0:02:12.29,Default,Ryuuji,0,0,0,,{TIME:130547,132299}Yep. I'll be waiting there for you.{NOTE:じゃ、そこで待ってるから。}
 Dialogue: 0,0:02:13.46,0:02:15.26,Alternative,Ayuhara,0,0,0,,{TIME:133467,135260}Yamato Shrine…{NOTE:大和神社の境内。}
-Dialogue: 0,0:02:15.26,0:02:20.30,Sign,(sign),0,0,0,,{TIME:135260,140307}Matsukaze Inn{NOTE:松風旅館}
-Dialogue: 0,0:02:22.26,0:02:25.72,Alternative,Ayuhara,0,0,0,,{TIME:142267,145729}Someone named Ryuuji-san wants to learn about Tsutomu-kun.{NOTE:竜二さんとかいう人努くんのことを聞きたい何て。}
+Dialogue: 0,0:02:15.26,0:02:20.30,Sign,(sign),0,0,0,,{TIME:135260,140307}{\fad(0,2000)}Matsukaze Inn{NOTE:松風旅館}
+Dialogue: 0,0:02:22.26,0:02:25.72,Alternative,Ayuhara,0,0,0,,{TIME:142267,145729}Someone named Ryuuji-san\Nwants to learn about Tsutomu-kun.{NOTE:竜二さんとかいう人努くんのことを聞きたい何て。}
 Dialogue: 0,0:02:25.72,0:02:27.23,Alternative,Ayuhara,0,0,0,,{TIME:145729,147230}But what for?{NOTE:一体どういうつもりかしら？}
-Dialogue: 0,0:02:46.33,0:02:47.70,Default,Ayuhara,0,0,0,,{TIME:166333,167709}Tsutomu-kun...{NOTE:努くん。}
+Dialogue: 0,0:02:46.33,0:02:47.70,Default,Ayuhara,0,0,0,,{TIME:166333,167709}Tsutomu-kun.{NOTE:努くん。}
 Dialogue: 0,0:03:00.17,0:03:02.68,Alternative,Ayuhara,0,0,0,,{TIME:180179,182683}Just because he looks like Tsutomu-kun…{NOTE:努くんに似ているっていうのに。}
 Dialogue: 0,0:03:02.68,0:03:05.22,Alternative,Ayuhara,0,0,0,,{TIME:182683,185227}…I couldn't refuse his invitation.{NOTE:あの人の電話どうしても断れなかった。}
 Dialogue: 0,0:03:11.85,0:03:12.73,Alternative,Ayuhara,0,0,0,,{TIME:191858,192733}Huh?!{NOTE:あっ！}
@@ -96,7 +96,7 @@ Dialogue: 0,0:04:10.62,0:04:12.04,Default,Ayuhara,0,0,0,,{TIME:250625,252043}Uhm
 Dialogue: 0,0:04:12.04,0:04:13.08,Default,Ayuhara,0,0,0,,{TIME:252043,253086}I'm…{NOTE:私は…}
 Dialogue: 0,0:04:13.08,0:04:16.29,Default,Fuji,0,0,0,,{TIME:253086,256298}Former captain of the All-Japan's middle school team.{NOTE:中学時代オールジャパンのキャプテンとしてXXX。}
 Dialogue: 0,0:04:16.29,0:04:20.05,Default,Fuji,0,0,0,,{TIME:256298,260051}Fujimi High School's famous attacker, Ayuhara Kozue. Right?{NOTE:富士見高校の名アタッカー鮎原こずえでしょう。}
-Dialogue: 0,0:04:22.97,0:04:26.51,Default,Fuji,0,0,0,,{TIME:262971,266516}I've heard a lot about you and wanted to talk to you face-to-face.{NOTE:その鮎原こずえにちょっとばかりよう成って来たね、私。}
+Dialogue: 0,0:04:22.97,0:04:26.51,Default,Fuji,0,0,0,,{TIME:262971,266516}I've heard a lot about you\Nand wanted to talk to you face-to-face.{NOTE:その鮎原こずえにちょっとばかりよう成って来たね、私。}
 Dialogue: 0,0:04:26.51,0:04:27.72,Default,Ayuhara,0,0,0,,{TIME:266516,267726}Talk to me?{NOTE:私に用が？}
 Dialogue: 0,0:04:27.72,0:04:30.02,Default,Ayuhara,0,0,0,,{TIME:267726,270020}How did you know I'd be here?{NOTE:どうして私はここにいるって？}
 Dialogue: 0,0:04:30.02,0:04:30.64,Default,Fuji,0,0,0,,{TIME:270020,270645}Hmph.{NOTE:フン。}
@@ -107,8 +107,8 @@ Dialogue: 0,0:04:38.27,0:04:39.48,Default,Ayuhara,0,0,0,,{TIME:278278,279488}But
 Dialogue: 0,0:04:39.48,0:04:41.90,Default,Fuji,0,0,0,,{TIME:279488,281907}You're waiting for someone, right?{NOTE:誰かを待ってるって言うのね。}
 Dialogue: 0,0:04:43.28,0:04:44.11,Default,Ayuhara,0,0,0,,{TIME:283283,284117}Exactly.{NOTE:そうなんです。}
 Dialogue: 0,0:04:44.11,0:04:45.28,Default,Fuji,0,0,0,,{TIME:284117,285285}It's no use.{NOTE:無駄よ。}
-Dialogue: 0,0:04:45.28,0:04:46.45,Default,Ayuhara,0,0,0,,{TIME:285285,286453}Huh?{NOTE:へっ？}
-Dialogue: 0,0:04:46.45,0:04:49.20,Default,Fuji,0,0,0,,{TIME:286453,289206}The person you're waiting for…{NOTE:あなたの待っている人…}
+Dialogue: 0,0:04:45.28,0:04:46.24,Default,Ayuhara,0,0,0,,{TIME:285285,286244}Huh?{NOTE:へっ？}
+Dialogue: 0,0:04:46.24,0:04:49.20,Default,Fuji,0,0,0,,{TIME:286244,289206}The person you're waiting for…{NOTE:あなたの待っている人…}
 Dialogue: 0,0:04:49.20,0:04:50.74,Default,Fuji,0,0,0,,{TIME:289206,290749}…won't come here.{NOTE:…ここには来ないわ。}
 Dialogue: 0,0:04:50.74,0:04:52.50,Default,Ayuhara,0,0,0,,{TIME:290749,292501}What are you talking about?{NOTE:何ですって？}
 Dialogue: 0,0:04:52.50,0:04:54.33,Default,Ayuhara,0,0,0,,{TIME:292501,294336}How can you know that?{NOTE:どうしてあなたはそんな事を？}
@@ -142,13 +142,13 @@ Dialogue: 0,0:06:53.83,0:06:55.04,Default,Hongou,0,0,0,,{TIME:413830,415040}Hmm.
 Dialogue: 0,0:06:55.04,0:06:59.66,Default,Hongou,0,0,0,,{TIME:415040,419669}I don't want to underestimate Kōtoku High,\Nsince they won so well against Kanagawa.{NOTE:や、それは僕だって神奈川女子高をやぶった甲徳の実力を高くかわないわけじゃありません。}
 Dialogue: 0,0:07:00.58,0:07:02.71,Default,Hongou,0,0,0,,{TIME:420587,422712}But, no matter how you look…{NOTE:しかし、どう見ても…}
 Dialogue: 0,0:07:04.71,0:07:07.34,Default,Hongou,0,0,0,,{TIME:424716,427344}…their match was weird.{NOTE:今日の試合は可笑しいですよ。}
-Dialogue: 0,0:07:07.34,0:07:13.26,Default,Shimizu,0,0,0,,{TIME:427344,433266}Kanagawa seemed to have no motivation from the start except for their two main players.{NOTE:神奈川女子校は主力選手2人がまるでやる気がないみたいでしたわ。最初から。}
+Dialogue: 0,0:07:07.34,0:07:13.26,Default,Shimizu,0,0,0,,{TIME:427344,433266}Kanagawa seemed to have no motivation\Nfrom the start except for their two main players.{NOTE:神奈川女子校は主力選手2人がまるでやる気がないみたいでしたわ。最初から。}
 Dialogue: 0,0:07:13.26,0:07:16.64,Default,Hongou,0,0,0,,{TIME:433266,436645}Something must have happened in their team.\NI can't think of anything else.{NOTE:何か酷く精神的に参ったとしか考えられません。}
 Dialogue: 0,0:07:16.64,0:07:17.68,Default,Hongou,0,0,0,,{TIME:436645,437686}However…{NOTE:しかし…}
 Dialogue: 0,0:07:19.23,0:07:20.27,Default,Hongou,0,0,0,,{TIME:439230,440273}…we'll be fine.{NOTE:大丈夫です。}
-Dialogue: 0,0:07:20.27,0:07:23.27,Default,Hongou,0,0,0,,{TIME:440273,443276}Something like that won't happen to our team under any circumstances.{NOTE:我々のメンバーは消してあんな事になりませんよ。}
+Dialogue: 0,0:07:20.27,0:07:23.27,Default,Hongou,0,0,0,,{TIME:440273,443276}Something like that won't happen\Nto our team under any circumstances.{NOTE:我々のメンバーは消してあんな事になりませんよ。}
 Dialogue: 0,0:07:24.86,0:07:27.07,Default,Hongou,0,0,0,,{TIME:444861,447072}No matter what happens…{NOTE:たとえどんな事あっても…}
-Dialogue: 0,0:07:28.69,0:07:32.57,Default,Hongou,0,0,0,,{TIME:448698,452577}…once our girls stand on the court, they play with all they have.{NOTE:一度コートに立てば皆ファイトの塊となってぶつかっていく。}
+Dialogue: 0,0:07:28.69,0:07:32.57,Default,Hongou,0,0,0,,{TIME:448698,452577}…once our girls stand on the court,\Nthey play with all they have.{NOTE:一度コートに立てば皆ファイトの塊となってぶつかっていく。}
 Dialogue: 0,0:07:32.57,0:07:35.20,Default,Hongou,0,0,0,,{TIME:452577,455205}I believe in Fujimi High.{NOTE:それが我が富士見高の信条です。}
 Dialogue: 0,0:07:44.58,0:07:52.05,Default,Fuji,0,0,0,,{TIME:464589,472055}Someone I know took that photo by chance near this shrine around midnight yesterday.{NOTE:その写真はね、私の知ってる人は昨日夜中の12時頃 この神社の境内で偶然撮ったのよ。}
 Dialogue: 0,0:07:55.68,0:08:00.64,Alternative,Ayuhara,0,0,0,,{TIME:475684,480647}Professor Hongou wouldn't never touch a woman he barely knew like that.{NOTE:本郷先生が見も知らぬ女の人とあんな不潔な事…}
@@ -168,10 +168,10 @@ Dialogue: 0,0:08:38.22,0:08:39.39,Default,Ayuhara,0,0,0,,{TIME:518226,519394}It'
 Dialogue: 0,0:08:43.31,0:08:44.48,Default,Fuji,0,0,0,,{TIME:523314,524482}Are you done already?{NOTE:もういいんじゃない？}
 Dialogue: 0,0:08:44.48,0:08:47.11,Default,Fuji,0,0,0,,{TIME:524482,527110}Save your breath, Ayuhara-san.{NOTE:無駄な事よしなさいよ、鮎原さん。}
 Dialogue: 0,0:08:48.73,0:08:51.78,Default,Fuji,0,0,0,,{TIME:528737,531781}That was just a single photo.\NI still have the negatives right here.{NOTE:一枚やぶいたって、こっちにはネガがあるんですもん。}
-Dialogue: 0,0:08:51.78,0:08:54.61,Default,Fuji,0,0,0,,{TIME:531781,534617}And I can develop it how ever many times I want.{NOTE:そんな写真いくらだってできんのよ。}
+Dialogue: 0,0:08:51.78,0:08:54.61,Default,Fuji,0,0,0,,{TIME:531781,534617}I can develop it how ever many times I want.{NOTE:そんな写真いくらだってできんのよ。}
 Dialogue: 0,0:09:11.84,0:09:13.05,Default,Ayuhara,0,0,0,,{TIME:551843,553053}Fuji-san.{NOTE:藤さん。}
 Dialogue: 0,0:09:13.05,0:09:16.59,Default,Ayuhara,0,0,0,,{TIME:553053,556598}Why are you doing all this?{NOTE:一体あなたは何のためにこんな事をするの？}
-Dialogue: 0,0:09:17.30,0:09:20.47,Default,Fuji,0,0,0,,{TIME:557307,560477}Oh, Ayuhara-san, Do you even need to ask?{NOTE:鮎原さん、あなたそんな事もない分からないの？}
+Dialogue: 0,0:09:17.30,0:09:20.47,Default,Fuji,0,0,0,,{TIME:557307,560477}Oh, Ayuhara-san.\NDo you even need to ask?{NOTE:鮎原さん、あなたそんな事もない分からないの？}
 Dialogue: 0,0:09:24.64,0:09:25.98,Default,Fuji,0,0,0,,{TIME:564647,565982}Alright.{NOTE:いいわ。}
 Dialogue: 0,0:09:25.98,0:09:31.40,Default,Fuji,0,0,0,,{TIME:565982,571404}Do you think you can win tomorrow's game after seeing this photo?{NOTE:あなたこう言う写真がある事を知ってて……明日の試合は私達に勝てると思う？}
 Dialogue: 0,0:09:37.36,0:09:38.45,Default,Ayuhara,0,0,0,,{TIME:577368,578453}Fuji-san!{NOTE:藤さん！}
@@ -220,17 +220,18 @@ Dialogue: 0,0:12:22.36,0:12:24.95,Default,Fuji,0,0,0,,{TIME:742367,744953}He's t
 Dialogue: 0,0:12:24.95,0:12:27.78,Default,Fuji,0,0,0,,{TIME:744953,747789}And a pretty big volleyball fan, too.{NOTE:それもだいもバレーファンのね。}
 Dialogue: 0,0:12:27.78,0:12:29.58,Default,Ayuhara,0,0,0,,{TIME:747789,749582}So you were working together.{NOTE:じゃあ、あなた方はグルなのね。}
 Dialogue: 0,0:12:33.58,0:12:36.04,Alternative,Ayuhara,0,0,0,,{TIME:753586,756047}Ryuuji-san was deceiving me from the very start.{NOTE:竜二さんは初めから私を騙そうとして…}
-Dialogue: 0,0:12:36.04,0:12:38.46,Alternative,Ayuhara,0,0,0,,{TIME:756047,758466}And he used Tsutomu-kun to reach me…{NOTE:…努くんの事を出しに使って電話を…}
+Dialogue: 0,0:12:36.04,0:12:38.46,Alternative,Ayuhara,0,0,0,,{TIME:756047,758466}He used Tsutomu-kun to reach me…{NOTE:…努くんの事を出しに使って電話を…}
 Comment: 0,0:12:43.59,0:12:43.59,Default,[chapter],0,0,0,,{TIME:763596,763596}Part B
-Dialogue: 0,0:12:43.84,0:12:51.02,Sign,(sign),0,0,0,,{TIME:763846,771020}Matsukaze Inn{NOTE:松風旅館}
+Dialogue: 0,0:12:43.76,0:12:51.02,Sign,(sign),0,0,0,,{TIME:763762,771020}{\1c&H161616&\3c&H161616&\4c&H161616&\t(0,2000,\1c&H9AFBDC&\3c&H202020&\4c&H202020&)\fad(0,2000)}Matsukaze Inn{NOTE:松風旅館}
 Dialogue: 0,0:12:51.56,0:12:54.23,Default,(unknown),0,0,0,,{TIME:771562,774232}We've sure come a long way.{NOTE:多くの競合に勝ち抜いてここまで来たのね。}
 Dialogue: 0,0:12:54.23,0:12:55.19,Default,Nakazawa,0,0,0,,{TIME:774232,775191}Let's win tomorrow.{NOTE:明日も頑張らなくちゃ。}
 Dialogue: 0,0:12:55.19,0:12:56.77,Default,(mixed),0,0,0,,{TIME:775191,776776}Let's give our best!{NOTE:じゃあXXX頑張るか。}
 Dialogue: 0,0:12:56.77,0:12:57.27,Default,Nakazawa,0,0,0,,{TIME:776776,777277}Yeah.{NOTE:おう。}
 Dialogue: 0,0:12:57.27,0:12:59.07,Default,Hongou,0,0,0,,{TIME:777277,779070}Dinner's going to be ready soon.{NOTE:さあ、もうすぐ食事だぞ。}
 Dialogue: 0,0:12:59.07,0:13:01.36,Default,Hongou,0,0,0,,{TIME:779070,781364}So eat to your hearts content\Nand show me a good game tomorrow.{NOTE:たくさん食べて、明日いい試合を頼むぞ。}
-Dialogue: 0,0:13:01.36,0:13:04.07,Default,Shimizu,0,0,0,,{TIME:781364,784075}I don't see Ayuhara-san and Hayakawa-san with you, though…{NOTE:鮎原さんと早川さんが見えないけど。}
-Dialogue: 0,0:13:04.07,0:13:09.33,Default,Ishida,0,0,0,,{TIME:784075,789330}Ayuhara-san got a phone call from some guy who looked just like Tsutomu-san and went to meet him at the shrine downtown.{NOTE:鮎原さんはさっき努さんに似てる人から電話があって、村の神社に出かけていきましたけど。}
+Dialogue: 0,0:13:01.36,0:13:04.07,Default,Shimizu,0,0,0,,{TIME:781364,784075}I don't see Ayuhara-san\Nor Hayakawa-san with you, though…{NOTE:鮎原さんと早川さんが見えないけど。}
+Dialogue: 0,0:13:04.07,0:13:06.95,Default,Ishida,0,0,0,,{TIME:784075,786953}Ayuhara-san got a phone call from some guy\Nwho looked just like Tsutomu-san…{NOTE:鮎原さんはさっき努さんに似てる人から電話があって…}
+Dialogue: 0,0:13:06.95,0:13:09.33,Default,Ishida,0,0,0,,{TIME:786953,789330}…and went to meet him at the shrine downtown.{NOTE:…村の神社に出かけていきましたけど。}
 Dialogue: 0,0:13:09.33,0:13:11.33,Default,Shimizu,0,0,0,,{TIME:789330,791330}Some guy who looks like Tsutomu-san?{NOTE:努さんに似た人ですって？}
 Dialogue: 0,0:13:12.83,0:13:16.58,Default,Takeichi,0,0,0,,{TIME:792834,796587}Hayakawa-san also received a call from someone and is out now.{NOTE:早川さんも誰からか電話があって、今出ていきました。}
 Dialogue: 0,0:13:16.58,0:13:17.75,Alternative,Oonuma,0,0,0,,{TIME:796587,797755}Ayuhara-san…{NOTE:鮎原さん。}
@@ -250,11 +251,11 @@ Dialogue: 0,0:14:01.88,0:14:04.09,Default,Ryuuji,0,0,0,,{TIME:841883,844093}I'll
 Dialogue: 0,0:14:04.09,0:14:07.80,Default,Ryuuji,0,0,0,,{TIME:844093,847805}You understand what's going to happen\Nif Fujimi wins tomorrow, don't you?{NOTE:明日の試合富士見高は勝てばどんな事に成るか。}
 Dialogue: 0,0:14:07.80,0:14:08.93,Default,Ryuuji,0,0,0,,{TIME:847805,848931}Keep that in mind.{NOTE:よく覚えておいてよ。}
 Dialogue: 0,0:14:08.93,0:14:10.22,Default,Fuji,0,0,0,,{TIME:848931,850224}Yes. Also…{NOTE:そうよ。それに…}
-Dialogue: 0,0:14:15.31,0:14:18.06,Default,Fuji,0,0,0,,{TIME:855313,858065}If Fujimi wins, we'll mess up that pretty face of your's a little bit.{NOTE:富士見高が勝てば、あんたのその顔は…}
+Dialogue: 0,0:14:15.31,0:14:18.06,Default,Fuji,0,0,0,,{TIME:855313,858065}If Fujimi wins, we'll mess up that pretty face of yours a little bit.{NOTE:富士見高が勝てば、あんたのその顔は…}
 Dialogue: 0,0:14:28.40,0:14:29.95,Alternative,Ayuhara,0,0,0,,{TIME:868409,869952}I thought it was strange.{NOTE:変だと思ったけど。}
 Dialogue: 0,0:14:29.95,0:14:33.53,Alternative,Ayuhara,0,0,0,,{TIME:869952,873539}Sanjou-san's team must have been put under pressure as well.{NOTE:三条さんのチームもきっとこの手で負けたん違いないわ。}
 Dialogue: 0,0:14:33.53,0:14:37.79,Alternative,Ayuhara,0,0,0,,{TIME:873539,877794}We've trained so hard for this tournament…{NOTE:でも今までの血の滲むような練習は全てこのインターハイのためだった。}
-Dialogue: 0,0:14:37.79,0:14:41.46,Alternative,Ayuhara,0,0,0,,{TIME:877794,881464}…and now someone's telling us to lose it on purpose.{NOTE:それよりこんな卑怯な脅迫にあって技と負けなければならないなんて。}
+Dialogue: 0,0:14:37.79,0:14:41.46,Alternative,Ayuhara,0,0,0,,{TIME:877794,881464}…and now someone's telling us\Nto lose it on purpose.{NOTE:それよりこんな卑怯な脅迫にあって技と負けなければならないなんて。}
 Dialogue: 0,0:14:41.46,0:14:42.96,Alternative,Ayuhara,0,0,0,,{TIME:881464,882965}I can't believe it.{NOTE:諦めきれない。}
 Dialogue: 0,0:14:48.93,0:14:51.47,Alternative,Ayuhara,0,0,0,,{TIME:888930,891474}I don't care what happens to my face.{NOTE:私の顔なんかどう成ったっていい。}
 Dialogue: 0,0:14:51.47,0:14:52.85,Alternative,Ayuhara,0,0,0,,{TIME:891474,892850}But…{NOTE:でも…}
@@ -263,34 +264,34 @@ Dialogue: 0,0:15:02.48,0:15:04.48,Alternative,Ayuhara,0,0,0,,{TIME:902485,904487
 Dialogue: 0,0:15:08.07,0:15:11.03,Alternative,Fuji,0,0,0,,{TIME:908074,911035}It doesn't take a genius to figure out\Nhe'd get fired on the spot.{NOTE:そうなればもちろん本郷先生は学校首。}
 Dialogue: 0,0:15:11.03,0:15:14.87,Alternative,Fuji,0,0,0,,{TIME:911035,914872}I can even see your precious volleyball club getting disbanded.{NOTE:富士見高校バレー部も解散に追い込まれるんじゃない事。}
 Dialogue: 0,0:15:14.87,0:15:20.21,Alternative,Ayuhara,0,0,0,,{TIME:914872,920211}And it would break Professor Shimizu's heart.\NShe likes him so much.{NOTE:その上、本郷先生に好意を寄せている清水先生はどんなに傷つけてしまうことか？}
-Dialogue: 0,0:15:20.21,0:15:22.92,Alternative,Ayuhara,0,0,0,,{TIME:920211,922922}Professor Hongou! What have you done?{NOTE:本郷先生、何て事してくれたの？}
+Dialogue: 0,0:15:20.21,0:15:22.92,Alternative,Ayuhara,0,0,0,,{TIME:920211,922922}Professor Hongou!\NWhat have you done?{NOTE:本郷先生、何て事してくれたの？}
 Dialogue: 0,0:15:22.92,0:15:24.84,Alternative,Ayuhara,0,0,0,,{TIME:922922,924841}To think that he'd…{NOTE:あの本郷先生が…}
 Dialogue: 0,0:15:24.84,0:15:27.84,Alternative,Ayuhara,0,0,0,,{TIME:924841,927844}No, I still can't believe it.{NOTE:私には未だ信じられない。}
 Dialogue: 0,0:15:27.84,0:15:29.51,Alternative,Fuji,0,0,0,,{TIME:927844,929512}You're such a baby.{NOTE:あなたも随分おねんねね。}
 Dialogue: 0,0:15:29.51,0:15:31.09,Alternative,Fuji,0,0,0,,{TIME:929512,931097}You trust people so blindly.{NOTE:馬鹿みたい信用してるけど。}
 Dialogue: 0,0:15:31.09,0:15:32.97,Alternative,Fuji,0,0,0,,{TIME:931097,932974}Your professor is just like any ordinary man.{NOTE:先生だって普通の男性よ。}
-Dialogue: 0,0:15:32.97,0:15:35.51,Alternative,Fuji,0,0,0,,{TIME:932974,935518}Stuff like this is gonna happen from time to time.{NOTE:そんな事したって不思議はないわよ。}
+Dialogue: 0,0:15:32.97,0:15:35.30,Alternative,Fuji,0,0,0,,{TIME:932974,935309}Stuff like this is gonna happen from time to time.{NOTE:そんな事したって不思議はないわよ。}
 Dialogue: 0,0:15:38.39,0:15:40.94,Alternative,Ayuhara,0,0,0,,{TIME:938396,940940}What should I do?{NOTE:私は一体どうしたらいいの？}
 Dialogue: 0,0:15:40.94,0:15:42.69,Alternative,Ayuhara,0,0,0,,{TIME:940940,942692}Tsutomu-kun.{NOTE:努くん。}
 Dialogue: 0,0:15:42.69,0:15:44.61,Alternative,Ayuhara,0,0,0,,{TIME:942692,944610}Tsutomu-kun.{NOTE:努くん。}
 Dialogue: 0,0:15:44.61,0:15:46.02,Alternative,Ayuhara,0,0,0,,{TIME:944610,946028}Tsutomu-kun…{NOTE:努くん…}
 Dialogue: 0,0:15:49.40,0:15:52.95,Sign,(sign),0,0,0,,{TIME:949406,952952}{\fad(1500,0)}Central Gymnasium{NOTE:中央体育館}
-Dialogue: 0,0:15:53.32,0:15:58.91,Default,Commentator,0,0,0,,{TIME:953327,958916}Today is the first semifinal match of the Interhigh volleyball tournament. The air is full of excitement.{NOTE:ここ日本一を決定するインターハイの熱戦にXXXでXXX続いてきましたが…}
-Dialogue: 0,0:15:58.91,0:16:03.83,Default,Commentator,0,0,0,,{TIME:958916,963838}The remaining four teams put up a fierce fight to advance to the finals.{NOTE:…勝ち残った4個決勝進出をかけて激しい試合が続いております。}
-Dialogue: 0,0:16:03.83,0:16:07.46,Default,Commentator,0,0,0,,{TIME:963838,967467}The audience cheers for their favorite teams loudly.{NOTE:応援合戦のここを先途とXXをの応援を続けております。}
+Dialogue: 0,0:15:53.32,0:15:58.91,Default,Commentator,1,1,0,,{TIME:953327,958916}Today is the first semifinal match of the Interhigh volleyball tournament. The air is full of excitement.{NOTE:ここ日本一を決定するインターハイの熱戦にXXXでXXX続いてきましたが…}
+Dialogue: 0,0:15:58.91,0:16:03.83,Default,Commentator,0,0,0,,{TIME:958916,963838}The remaining four teams put up\Na fierce fight to advance to the finals.{NOTE:…勝ち残った4個決勝進出をかけて激しい試合が続いております。}
+Dialogue: 0,0:16:03.83,0:16:07.46,Default,Commentator,0,0,0,,{TIME:963838,967467}The audience cheers\Nfor their favorite teams loudly.{NOTE:応援合戦のここを先途とXXをの応援を続けております。}
 Dialogue: 0,0:16:07.46,0:16:11.63,Default,Commentator,0,0,0,,{TIME:967467,971637}Especially Kōtoku High School, which wasn't expected to advance to the semifinals.{NOTE:得に甲徳高校は予想だにしなかった準決勝進出に…}
 Dialogue: 0,0:16:11.63,0:16:14.76,Default,Commentator,0,0,0,,{TIME:971637,974765}We can clearly hear the enthusiastic cheers for their players all the way from here.{NOTE:…大勢の応援団送り出して選手を励ましております。}
 Dialogue: 0,0:16:22.64,0:16:24.69,Default,Hongou,0,0,0,,{TIME:982647,984692}Alright! Double attack!{NOTE:よし、行け。ダブルアタック。}
 Dialogue: 0,0:16:49.42,0:16:51.34,Blackboard,(sign),0,0,0,,{TIME:1009425,1011344}Kōtoku · Fujimi{NOTE:甲徳・富士見}
-Dialogue: 0,0:16:49.84,0:16:52.84,Default,Commentator,0,0,0,,{TIME:1009842,1012845}Unlike most predictions, Kōtoku is already leading 8 to 3.{NOTE:大方の予想を裏切って甲徳早くも八対三とリード。}
-Dialogue: 0,0:16:52.84,0:16:55.55,Default,Commentator,0,0,0,,{TIME:1012845,1015556}Kōtoku, who just yesterday, defeated the prestigious Kanagawa…{NOTE:甲徳高校昨日名門神奈川女子高校をやぶり…}
-Dialogue: 0,0:16:55.55,0:16:59.47,Default,Commentator,0,0,0,,{TIME:1015556,1019477}…looks like they're completely overwhelming Fujimi High School as well.{NOTE:…XXXのって今日も優勝候補の一つ富士見高校を完全に圧倒しております。}
-Dialogue: 0,0:16:59.47,0:17:05.10,Default,Commentator,0,0,0,,{TIME:1019477,1025107}Oonuma just missed another one of Fuji's direct spikes.\NAnd that last ball was by no means difficult to receive.{NOTE:今の藤のダイレクトスパイクも大沼名機の力を持ってすればレシーブできないこと難しいボールではないはずですが…}
-Dialogue: 0,0:17:05.10,0:17:09.82,Default,Commentator,0,0,0,,{TIME:1025107,1029820}I wonder what's wrong with Fujimi?\NThe players look like they've almost given up.{NOTE:…今日の富士見どうした事がXXXの選手達がまるで制裁をかいております。}
+Dialogue: 0,0:16:49.84,0:16:52.84,Default,Commentator,0,0,0,,{TIME:1009842,1012845}Unlike most predictions,\NKōtoku is already leading 8 to 3.{NOTE:大方の予想を裏切って甲徳早くも八対三とリード。}
+Dialogue: 0,0:16:52.84,0:16:55.55,Default,Commentator,0,0,0,,{TIME:1012845,1015556}Kōtoku, who just yesterday defeated the prestigious Kanagawa…{NOTE:甲徳高校昨日名門神奈川女子高校をやぶり…}
+Dialogue: 0,0:16:55.55,0:16:59.47,Default,Commentator,0,0,0,,{TIME:1015556,1019477}…today is completely overwhelming the favorite\Nfor this match, Fujimi High School as well.{NOTE:…XXXのって今日も優勝候補の一つ富士見高校を完全に圧倒しております。}
+Dialogue: 0,0:16:59.47,0:17:05.10,Default,Commentator,1,1,0,,{TIME:1019477,1025107}Oonuma missed another one of Fuji's direct spikes.\NThat last ball was by no means difficult to receive.{NOTE:今の藤のダイレクトスパイクも大沼名機の力を持ってすればレシーブできないこと難しいボールではないはずですが…}
+Dialogue: 0,0:17:05.10,0:17:09.82,Default,Commentator,0,0,0,,{TIME:1025107,1029820}What's wrong, Fujimi?\NThe players look like they've almost given up.{NOTE:…今日の富士見どうした事がXXXの選手達がまるで制裁をかいております。}
 Dialogue: 0,0:17:11.03,0:17:12.19,Default,Hongou,0,0,0,,{TIME:1031030,1032197}It's no good.{NOTE:いかん！}
-Dialogue: 0,0:17:12.19,0:17:16.74,Default,Hongou,0,0,0,,{TIME:1032197,1036744}Oonuma, Ayuhara, and Hayakawa\Nare completely out of sync.{NOTE:大沼、鮎原、早川の三人の呼吸がまるで合ってない。}
+Dialogue: 0,0:17:12.19,0:17:16.74,Default,Hongou,0,0,0,,{TIME:1032197,1036744}Oonuma, Ayuhara and Hayakawa\Nare completely out of sync.{NOTE:大沼、鮎原、早川の三人の呼吸がまるで合ってない。}
 Dialogue: 0,0:17:17.24,0:17:18.20,Default,Fuji,0,0,0,,{TIME:1037244,1038204}Here I go!{NOTE:行くわよ！}
-Dialogue: 0,0:17:18.20,0:17:19.33,Default,Ishida,0,0,0,,{TIME:1038204,1039330}Don't mind it, don't mind it!{NOTE:ドンマイ・ドンマイ！}
+Dialogue: 0,0:17:18.20,0:17:19.33,Default,Ishida,0,0,0,,{TIME:1038204,1039330}Don't mind, don't mind!{NOTE:ドンマイ・ドンマイ！}
 Dialogue: 0,0:17:19.33,0:17:20.83,Default,Ishida,0,0,0,,{TIME:1039330,1040831}We'll get them this time!{NOTE:今渡こそもらっていこう！}
 Dialogue: 0,0:17:20.83,0:17:22.16,Default,(unison),0,0,0,,{TIME:1040831,1042166}– Yeah!\N– Yeah!{NOTE:おう！}
 Dialogue: 0,0:17:28.50,0:17:29.63,Default,Ishida,0,0,0,,{TIME:1048506,1049632}Nice! Nice!{NOTE:ナイス！ナイス！}
@@ -298,15 +299,15 @@ Dialogue: 0,0:17:31.34,0:17:33.67,Default,Commentator,0,0,0,,{TIME:1051342,10536
 Dialogue: 0,0:17:34.05,0:17:35.13,Default,Ishida,0,0,0,,{TIME:1054053,1055137}Damn!{NOTE:くそ！}
 Dialogue: 0,0:17:42.35,0:17:44.10,Default,Ryuuji,0,0,0,,{TIME:1062353,1064105}Good girl, Ayuhara.\NKeep it up, Ayuhara.{NOTE:いいぞ、鮎原。その調子だ、鮎原。}
 Dialogue: 0,0:17:59.12,0:18:02.24,Alternative,Ayuhara,0,0,0,,{TIME:1079120,1082248}The others aren't playing any better than me.{NOTE:いつものファイトのXXX今の態度とXXX。}
-Dialogue: 0,0:18:02.24,0:18:06.46,Alternative,Ayuhara,0,0,0,,{TIME:1082248,1086460}What if  the Captain and Midori are being blackmailed as well?{NOTE:もしかしたら私ばかりでなくキャプテンやみどりまでも脅迫されているんでは…}
-Dialogue: 0,0:18:07.50,0:18:08.50,Alternative,Ayuhara,0,0,0,,{TIME:1087503,1088504}Hey, if I recall correctly…{NOTE:そういえば、あの時…}
+Dialogue: 0,0:18:02.24,0:18:06.46,Alternative,Ayuhara,0,0,0,,{TIME:1082248,1086460}What if Captain and Midori\Nare being blackmailed as well?{NOTE:もしかしたら私ばかりでなくキャプテンやみどりまでも脅迫されているんでは…}
+Dialogue: 0,0:18:07.50,0:18:09.92,Alternative,Ayuhara,0,0,0,,{TIME:1087503,1089922}Hey, if I recall correctly…{NOTE:そういえば、あの時…}
 Dialogue: 0,0:18:14.26,0:18:16.76,Alternative,Fuji,0,0,0,,{TIME:1094260,1096762}That's a lot of questions.{NOTE:いちいち煩い人ね。}
 Dialogue: 0,0:18:16.76,0:18:19.34,Alternative,Fuji,0,0,0,,{TIME:1096762,1099348}Are you coming with me or not?{NOTE:それより私にしたがって来るか来ないのか？}
 Dialogue: 0,0:18:19.34,0:18:20.97,Alternative,Fuji,0,0,0,,{TIME:1099348,1100975}Give me a clear answer.{NOTE:早くはっきりしてちょうだい。}
 Dialogue: 0,0:18:22.72,0:18:25.81,Alternative,Fuji,0,0,0,,{TIME:1102726,1105812}I don't have time to be here with you all day long, you know.{NOTE:あなた一人だけに時間をされてる暇はないんだから。}
 Dialogue: 0,0:18:28.19,0:18:31.06,Alternative,Fuji,0,0,0,,{TIME:1108190,1111068}I don't have time to be here with you all day long, you know.{NOTE:あなた一人だけに時間をされてる暇はないんだから。}
 Dialogue: 0,0:18:31.06,0:18:33.82,Alternative,Fuji,0,0,0,,{TIME:1111068,1113821}I don't have time to be here with you all day long, you know.{NOTE:あなた一人だけに時間をされてる暇はないんだから。}
-Dialogue: 0,0:18:34.61,0:18:37.74,Alternative,Ayuhara,0,0,0,,{TIME:1114614,1117742}There's no mistake.\NThey blackmailed the Captain and Midori, too.{NOTE:キャプテンやみどりも別々に脅迫されたに違いないわ。}
+Dialogue: 0,0:18:34.61,0:18:37.74,Alternative,Ayuhara,0,0,0,,{TIME:1114614,1117742}There's no mistake.\NThey blackmailed Captain and Midori, too.{NOTE:キャプテンやみどりも別々に脅迫されたに違いないわ。}
 Dialogue: 0,0:18:42.41,0:18:43.53,Alternative,Ayuhara,0,0,0,,{TIME:1122413,1123539}We're going to lose.{NOTE:負ける！}
 Dialogue: 0,0:18:43.53,0:18:46.79,Alternative,Ayuhara,0,0,0,,{TIME:1123539,1126792}At this rate we're going to lose this for sure!{NOTE:必ず負けてしまう。このままでは。}
 Dialogue: 0,0:18:51.29,0:18:51.92,Default,Hongou,0,0,0,,{TIME:1131297,1131922}{NOTE:おっ？}
@@ -321,7 +322,7 @@ Dialogue: 0,0:19:06.35,0:19:07.89,Alternative,Hongou,0,0,0,,{TIME:1146354,114789
 Dialogue: 0,0:19:07.89,0:19:10.98,Alternative,Hongou,0,0,0,,{TIME:1147897,1150983}No, it's not just Ayuhara.{NOTE:いいえ、鮎原ばかりではない。}
 Dialogue: 0,0:19:10.98,0:19:15.44,Alternative,Hongou,0,0,0,,{TIME:1150983,1155446}Oonuma and Hayakawa have been looking over here for a while, too.{NOTE:さっきからこっちを伺う大沼や早川の目も何か針を含んでるようだ。}
 Dialogue: 0,0:19:17.82,0:19:19.15,Alternative,Hongou,0,0,0,,{TIME:1157823,1159158}What's with that look?{NOTE:その目は。}
-Dialogue: 0,0:19:19.15,0:19:21.57,Alternative,Hongou,0,0,0,,{TIME:1159158,1161577}Does it have to do with their performance today?{NOTE:今日のプレイと何か関係があるというのか？}
+Dialogue: 0,0:19:19.15,0:19:21.57,Alternative,Hongou,0,0,0,,{TIME:1159158,1161577}Does it have to do\Nwith your performance today?{NOTE:今日のプレイと何か関係があるというのか？}
 Dialogue: 0,0:19:24.49,0:19:27.83,Alternative,Hongou,0,0,0,,{TIME:1164497,1167832}What on earth happened to you girls?{NOTE:一体お前達三人に何を起こったというのだ？}
 Dialogue: 0,0:19:55.52,0:19:57.52,Default,Commentator,0,0,0,,{TIME:1195528,1197528}It's a set point for Kōtoku.{NOTE:甲徳セットポイントを迎えました。}
 Dialogue: 0,0:20:17.09,0:20:18.46,Default,Commentator,0,0,0,,{TIME:1217091,1218467}And a service!{NOTE:サービスです。}
@@ -334,10 +335,10 @@ Dialogue: 0,0:20:36.23,0:20:38.11,Default,Hongou,0,0,0,,{TIME:1236235,1238112}Wh
 Dialogue: 0,0:20:38.11,0:20:40.74,Default,Hongou,0,0,0,,{TIME:1238112,1240740}Neither the double attack nor machine gun attack work.{NOTE:ダブルアタックもマシンガンアタックも決まらないばかりか。}
 Dialogue: 0,0:20:40.74,0:20:43.03,Default,Hongou,0,0,0,,{TIME:1240740,1243033}You can't even receive today.{NOTE:六人レシーブするはできんじゃないか？}
 Dialogue: 0,0:20:43.03,0:20:47.83,Default,Shimizu,0,0,0,,{TIME:1243033,1247830}You look like Kanagawa did yesterday.\NIt's like you're trying to lose on purpose.{NOTE:何だかあなた達昨日の神奈川女子校そっくりわざと負けてるみたい。}
-Dialogue: 0,0:20:47.83,0:20:49.54,Default,Shimizu,0,0,0,,{TIME:1247830,1249540}What's wrong? Did something happen?{NOTE:どうしたの？何かあったの？}
+Dialogue: 0,0:20:47.83,0:20:49.54,Default,Shimizu,0,0,0,,{TIME:1247830,1249540}What's wrong?\NDid something happen?{NOTE:どうしたの？何かあったの？}
 Dialogue: 0,0:20:51.75,0:20:53.66,Default,Hongou,0,0,0,,{TIME:1251751,1253669}Listen, and listen well.{NOTE:いいか。よく聞け。}
 Dialogue: 0,0:20:53.66,0:20:56.29,Default,Hongou,0,0,0,,{TIME:1253669,1256297}I don't know what's happening in your heads.{NOTE:俺はお前達の心に何が起こったかは知らん。}
-Dialogue: 0,0:20:56.29,0:20:58.88,Default,Hongou,0,0,0,,{TIME:1256297,1258883}But I believe in this.{NOTE:しかし、俺はこれだけは信じている。}
+Dialogue: 0,0:20:56.29,0:20:58.88,Default,Hongou,0,0,0,,{TIME:1256297,1258883}But I believe in this:{NOTE:しかし、俺はこれだけは信じている。}
 Dialogue: 0,0:20:58.88,0:21:01.51,Default,Hongou,0,0,0,,{TIME:1258883,1261510}In Fujimi High, no matter what happens…{NOTE:富士見高バレーはたとえどんな事があっても…}
 Dialogue: 0,0:21:01.51,0:21:05.22,Default,Hongou,0,0,0,,{TIME:1261510,1265222}…once you stand on the court, you play with all you have.{NOTE:…一度コートに立てば皆はファイトの塊となってぶつかっていくことをな。}
 Dialogue: 0,0:21:06.59,0:21:07.68,Default,Hongou,0,0,0,,{TIME:1266599,1267683}Oonuma.{NOTE:大沼。}
@@ -351,7 +352,7 @@ Dialogue: 0,0:21:44.09,0:21:46.09,Default,Ryuuji,0,0,0,,{TIME:1304094,1306096}Wh
 Dialogue: 0,0:21:44.63,0:21:47.63,Blackboard,(sign),0,0,0,,{TIME:1304637,1307639}{\fad(1000,1000)}Kōtoku · Fujimi{NOTE:甲徳・富士見}
 Dialogue: 0,0:21:46.09,0:21:47.55,Default,Ryuuji,0,0,0,,{TIME:1306096,1307556}Ayuhara!{NOTE:鮎原！}
 Dialogue: 0,0:21:48.22,0:21:49.22,Default,Ryuuji,0,0,0,,{TIME:1308224,1309225}Get a grip!{NOTE:しっかりしろ！}
-Dialogue: 0,0:21:50.39,0:21:53.06,Default,Commentator,0,0,0,,{TIME:1310392,1313062}The second set.\Nis completely one-sided in Kōtoku's favor.{NOTE:第二セットいよいよ甲徳のワンサイドゲーム。}
+Dialogue: 0,0:21:50.39,0:21:53.06,Default,Commentator,0,0,0,,{TIME:1310392,1313062}The second set is completely one-sided in Kōtoku's favor.{NOTE:第二セットいよいよ甲徳のワンサイドゲーム。}
 Dialogue: 0,0:21:53.06,0:21:56.23,Default,Commentator,0,0,0,,{TIME:1313062,1316232}For the first time, Fujimi High School isn't living up to its expectations.{NOTE:それにしてもXXいない富士見高校の試合ぶりであります。}
 Dialogue: 0,0:21:53.52,0:21:56.64,Blackboard,(sign),0,0,0,,{TIME:1313521,1316649}{\fad(1000,1000)}Kōtoku · Fujimi{NOTE:甲徳・富士見}
 Dialogue: 0,0:21:56.23,0:21:57.56,Default,Commentator,0,0,0,,{TIME:1316232,1317566}Looks like Fujimi is in danger.{NOTE:富士見高校危うし。}
@@ -361,9 +362,9 @@ Dialogue: 0,0:22:01.98,0:22:05.49,Alternative,Ayuhara,0,0,0,,{TIME:1321986,13254
 Dialogue: 0,0:22:05.49,0:22:07.28,Alternative,Ayuhara,0,0,0,,{TIME:1325491,1327283}But on the inside you're nothing like him.{NOTE:中には何て汚いの。}
 Dialogue: 0,0:22:07.28,0:22:09.57,Alternative,Ayuhara,0,0,0,,{TIME:1327283,1329578}You're a dirty rat.{NOTE:薄汚い溝鼠。}
 Dialogue: 0,0:22:09.57,0:22:12.24,Alternative,Ayuhara,0,0,0,,{TIME:1329578,1332248}But I'm playing a fixed game myself.{NOTE:でもその脅迫にのって八百長やってる私も。}
-Dialogue: 0,0:22:12.24,0:22:13.54,Alternative,Ayuhara,0,0,0,,{TIME:1332248,1333541}So I'm no better.{NOTE:溝鼠XX。}
+Dialogue: 0,0:22:12.24,0:22:13.54,Alternative,Ayuhara,0,0,0,,{TIME:1332248,1333541}I'm no better.{NOTE:溝鼠XX。}
 Dialogue: 0,0:22:15.66,0:22:17.71,Alternative,Ayuhara,0,0,0,,{TIME:1335668,1337711}Save us, Naka! Ishimatsu!{NOTE:助けてよ、ナカ。石松。}
-Dialogue: 0,0:22:18.79,0:22:21.29,Alternative,Hongou,0,0,0,,{TIME:1338796,1341298}I believe in this.{NOTE:俺はこれだけは信じている。}
+Dialogue: 0,0:22:18.79,0:22:21.29,Alternative,Hongou,0,0,0,,{TIME:1338796,1341298}I believe in this:{NOTE:俺はこれだけは信じている。}
 Dialogue: 0,0:22:21.29,0:22:23.88,Alternative,Hongou,0,0,0,,{TIME:1341298,1343884}In Fujimi High, no matter what happens…{NOTE:富士見高のメンバーはたとえどんな事があっても…}
 Dialogue: 0,0:22:23.88,0:22:27.55,Alternative,Hongou,0,0,0,,{TIME:1343884,1347555}…once you stand on the court, you play with all you have.{NOTE:…一度コートに立てば皆XXXとなってぶつかっていく事をな。}
 Dialogue: 0,0:22:29.51,0:22:30.34,Default,(unknown),0,0,0,,{TIME:1349515,1350349}Ayuhara-san!{NOTE:鮎原さん！}
@@ -379,6 +380,7 @@ Dialogue: 0,0:23:09.09,0:23:11.64,Alternative,Ayuhara,0,0,0,,{TIME:1389096,13916
 Dialogue: 0,0:23:11.64,0:23:14.35,Alternative,Ayuhara,0,0,0,,{TIME:1391640,1394351}I want to play to the best of my ability.{NOTE:そして力いっぱいプレイをXXたい。}
 Dialogue: 0,0:23:17.89,0:23:19.48,Default,Ryuuji,0,0,0,,{TIME:1397897,1399481}Ayuhara!{NOTE:鮎原！}
 Dialogue: 0,0:23:19.48,0:23:20.69,Default,Ryuuji,0,0,0,,{TIME:1399481,1400691}Fujimi!{NOTE:富士見！}
+Dialogue: 0,0:23:24.27,0:23:25.40,Alternative,Ichinose,0,0,0,,{TIME:1404278,1405404}Kozue-kun.{NOTE:こずえくん。}
 Dialogue: 0,0:23:25.40,0:23:27.28,Alternative,Ichinose,0,0,0,,{TIME:1405404,1407281}Attack Number One.{NOTE:アタックナンバーワン。}
 Dialogue: 0,0:23:27.28,0:23:28.94,Alternative,Ayuhara,0,0,0,,{TIME:1407281,1408949}Attack Number One.{NOTE:アタックナンバーワン。}
 Dialogue: 0,0:23:28.94,0:23:30.53,Alternative,(unison),0,0,0,,{TIME:1408949,1410533}Attack Number One!{NOTE:アタックナンバーワン！}
@@ -389,10 +391,10 @@ Dialogue: 0,0:23:46.92,0:23:48.55,Alternative,Ayuhara,0,0,0,,{TIME:1426926,14285
 Dialogue: 0,0:23:52.18,0:23:53.55,Alternative,Ayuhara,0,0,0,,{TIME:1432181,1433557}Attack!{NOTE:アタック！}
 Comment: 0,0:23:59.43,0:23:59.43,Default,[chapter],0,0,0,,{TIME:1439437,1439437}Preview
 Dialogue: 0,0:24:02.31,0:24:04.73,Alternative,Narrator,0,0,0,,{TIME:1442316,1444735}"This is my beloved court."{NOTE:ここは私の大切なコート。}
-Dialogue: 0,0:24:04.73,0:24:07.48,Alternative,Narrator,0,0,0,,{TIME:1444735,1447488}"A place where I play volleyball and sacrifice everything else for it."{NOTE:私が全てを賭けてバレーボールをやる場所。}
+Dialogue: 0,0:24:04.73,0:24:07.48,Alternative,Narrator,0,0,0,,{TIME:1444735,1447488}"A place where I play volleyball\Nand sacrifice everything else for it."{NOTE:私が全てを賭けてバレーボールをやる場所。}
 Dialogue: 0,0:24:07.48,0:24:11.07,Alternative,Narrator,0,0,0,,{TIME:1447488,1451075}"I can't betray this sacred place."{NOTE:私にはこの神聖なコートを裏切ることなんてできない。}
 Dialogue: 0,0:24:11.07,0:24:14.32,Alternative,Narrator,0,0,0,,{TIME:1451075,1454328}Kozue's anger at the fixed game has come to a boiling point.{NOTE:八百長試合に対するこずえの怒りが爆発した。}
-Dialogue: 0,0:24:14.32,0:24:17.95,Alternative,Narrator,0,0,0,,{TIME:1454328,1457957}And her spike is strengthened by Miyuki and Midori.{NOTE:みゆき・みどりの強力を得てこずえのスパイクが蘇る。}
+Dialogue: 0,0:24:14.32,0:24:17.95,Alternative,Narrator,0,0,0,,{TIME:1454328,1457957}Her spike is strengthened\Nby Miyuki and Midori.{NOTE:みゆき・みどりの強力を得てこずえのスパイクが蘇る。}
 Dialogue: 0,0:24:17.95,0:24:21.91,Alternative,Narrator,0,0,0,,{TIME:1457957,1461919}However, Kōtoku had already scored 11 points into the second set.{NOTE:しかし、甲徳は既に第二セット十一点を取っていた。}
 Dialogue: 0,0:24:21.91,0:24:24.42,Alternative,Narrator,0,0,0,,{TIME:1461919,1464421}Can Kozue turn things around?{NOTE:果たしてこずえの挽回Xか？}
 Dialogue: 0,0:24:24.42,0:24:27.67,Alternative,Narrator,0,0,0,,{TIME:1464421,1467675}Please look forward to the next episode.{NOTE:次回「アタックナンバーワン」にご期待ください。}
