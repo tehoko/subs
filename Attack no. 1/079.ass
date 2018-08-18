@@ -121,8 +121,8 @@ Dialogue: 0,0:05:31.83,0:05:34.00,Default,Makimura,0,0,0,,{TIME:331832,334000}Wh
 Dialogue: 0,0:05:34.00,0:05:37.46,Default,Makimura,0,0,0,,{TIME:334000,337462}Ah, a splendid country,\Nthis land Yamato of bounteous harvests!"{NOTE:うまし国そ蜻蛉島大和の国は}
 Dialogue: 0,0:05:38.42,0:05:42.00,Default,Inomata,0,0,0,,{TIME:338421,342008}I think I have read it somewhere.\NWhat was it again?
 Dialogue: 0,0:05:42.00,0:05:43.26,Default,Hayakawa,0,0,0,,{TIME:342008,343260}Kojiki, right?{NOTE:古事記}
-Dialogue: 0,0:05:43.26,0:05:44.34,Default,Makimura,0,0,0,,{TIME:343260,344344}It's Man'yōshū.{NOTE:万葉集}
-Dialogue: 0,0:05:44.34,0:05:45.26,Default,Makimura,0,0,0,,{TIME:344344,345262}Emperor Jomei.{NOTE:舒明天皇}
+Dialogue: 0,0:05:42.00,0:05:47.01,Sign,(sign),0,0,0,,{TIME:342008,347013}Kojiki – the oldest extant chronicle in Japan\NMan'yōshū – earliest Japanese poetry anthology
+Dialogue: 0,0:05:43.26,0:05:45.26,Default,Makimura,0,0,0,,{TIME:343260,345262}It's Man'yōshū.\NEmperor Jomei.{NOTE:万葉集舒明天皇}
 Dialogue: 0,0:05:45.26,0:05:47.30,Default,Hayakawa,0,0,0,,{TIME:345262,347305}Ah, of course.
 Dialogue: 0,0:05:48.30,0:05:49.55,Default,Ayuhara,0,0,0,,{TIME:348306,349558}Let's go.
 Dialogue: 0,0:05:49.55,0:05:50.97,Default,(unison),0,0,0,,{TIME:349558,350976}– Yeah.\N– Okay.
@@ -200,6 +200,7 @@ Dialogue: 0,0:10:31.33,0:10:34.21,Default,Hayakawa,0,0,0,,{TIME:631339,634217}Do
 Dialogue: 0,0:10:36.42,0:10:37.72,Default,Hayakawa,0,0,0,,{TIME:636427,637720}The moon's out.
 Dialogue: 0,0:10:37.72,0:10:39.01,Default,Ayuhara,0,0,0,,{TIME:637720,639013}Yes.
 Dialogue: 0,0:10:39.01,0:10:44.47,Default,Hayakawa,0,0,0,,{TIME:639013,644477}"On the horizon – isn't that the same moon\Nthat rises in spring over the Hill of Mikasa?"{NOTE:あまの原ふりさけみれば春日なる三笠の山にいでし月かも。}
+Dialogue: 0,0:10:39.01,0:10:43.64,Sign,(sign),0,0,0,,{TIME:639013,643643}A poem by Abe no Nakamaro\N(Kokin Wakashū 9:406)
 Dialogue: 0,0:10:49.81,0:10:51.27,Default,Hayakawa,0,0,0,,{TIME:649816,651276}It's so beautiful…
 Dialogue: 0,0:10:53.44,0:10:54.73,Default,Ayuhara,0,0,0,,{TIME:653444,654737}Especially at night.
 Dialogue: 0,0:10:56.28,0:10:57.44,Default,Ayuhara,0,0,0,,{TIME:656281,657448}It's so quiet.
@@ -364,15 +365,15 @@ Dialogue: 0,0:22:20.71,0:22:22.55,Default,Ayuhara,0,0,0,,{TIME:1340714,1342550}I
 Dialogue: 0,0:22:27.80,0:22:29.51,Default,Maya,0,0,0,,{TIME:1347805,1349515}We're here.
 Dialogue: 0,0:22:37.18,0:22:38.18,Default,Tani,0,0,0,,{TIME:1357189,1358189}We're sorry about yesterday.
 Dialogue: 0,0:22:39.69,0:22:40.94,Default,Ishida,0,0,0,,{TIME:1359692,1360943}You tricked me!
-Dialogue: 0,0:22:40.94,0:22:43.19,Default,Ishida,0,0,0,,{TIME:1360943,1363195}I thought we'd fight one-on-one.
-Dialogue: 0,0:22:43.19,0:22:44.61,Default,Maya,0,0,0,,{TIME:1363195,1364612}I don't really want to.
+Dialogue: 0,0:22:40.94,0:22:43.19,Default,Ishida,0,0,0,,{TIME:1360943,1363195}You said we'd fight one-on-one.
+Dialogue: 0,0:22:43.19,0:22:44.61,Default,Maya,0,0,0,,{TIME:1363195,1364612}I never said anything like that.
 Dialogue: 0,0:22:44.61,0:22:46.78,Default,Maya,0,0,0,,{TIME:1364612,1366782}One-on-one fights are boring.
 Dialogue: 0,0:22:46.78,0:22:49.28,Default,Maya,0,0,0,,{TIME:1366782,1369285}I was thinking more\Nabout a six-on-six fight.
 Dialogue: 0,0:22:50.36,0:22:52.16,Default,Maya,0,0,0,,{TIME:1370369,1372162}Why don't you\Nintroduce yourselves to her?
 Dialogue: 0,0:22:56.20,0:22:57.91,Default,Tani,0,0,0,,{TIME:1376208,1377918}Me first.
 Dialogue: 0,0:22:57.91,0:22:59.25,Default,Tani,0,0,0,,{TIME:1377918,1379253}Tani.
-Dialogue: 0,0:22:59.25,0:23:01.38,Default,Tani,0,0,0,,{TIME:1379253,1381380}I'm a former tennis champion.
-Dialogue: 0,0:23:01.38,0:23:02.63,Default,Tani,0,0,0,,{TIME:1381380,1382631}You'd better take me seriously.
+Dialogue: 0,0:22:59.25,0:23:01.17,Default,Tani,0,0,0,,{TIME:1379253,1381171}I'm a former tennis champion.
+Dialogue: 0,0:23:01.17,0:23:02.63,Default,Tani,0,0,0,,{TIME:1381171,1382631}You'd better take me seriously.
 Dialogue: 0,0:23:04.13,0:23:06.63,Default,Tobe,0,0,0,,{TIME:1384133,1386635}I'm Tobe.\NI have fourth dan in jūdō.
 Dialogue: 0,0:23:06.63,0:23:09.51,Default,Kamura,0,0,0,,{TIME:1386635,1389513}Kamura.\NI'm a soccer goalkeeper.
 Dialogue: 0,0:23:09.51,0:23:12.14,Default,Kasagi,0,0,0,,{TIME:1389513,1392141}Kasagi. I'm a boxer.
