@@ -18,11 +18,11 @@ Style: Thought,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,
 Style: Retrospective,Museo Sans 700,75,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,6.0,0.0,2,75,75,75,1
 Style: Sign,Museo Sans 700,75,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,6.0,0.0,8,75,75,75,1
 Style: Narrator,Museo Sans 700,75,&H00DEFFFB,&H000000FF,&H002C5154,&H7F202020,-1,-1,0,0,100.0,100.0,0.0,0.0,1,6.0,0.0,2,75,75,75,1
-Style: Episode title,Gotham Black,86,&H000000C0,&H000000FF,&H00F0F0F0,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,5.0,0.0,2,75,75,75,1
+Style: Episode title,BPreplay,120,&H000000C0,&H000000FF,&H00F0F0F0,&H7FFFFFFF,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,75,75,75,1
 Style: Opening,Gotham Thin,71,&H00FEA600,&H000000FF,&H00FEA600,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,1.9,0.0,8,75,75,45,1
 Style: Opening alt,Gotham Thin,71,&H40A0401D,&H000000FF,&H40A0401D,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,7.5,0.0,8,75,75,45,1
-Style: Ending,Gotham Narrow Bold,63,&H00F5F4F8,&H000000FF,&H00444445,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,7,115,75,45,1
-Style: Ending alt,Gotham Narrow Bold,63,&H203D5064,&H000000FF,&H403D5064,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.0,0.0,7,115,75,45,1
+Style: Ending,Gotham Bold,63,&H00F5F4F8,&H000000FF,&H00444445,&H7F202020,-1,0,0,0,90.0,100.0,0.0,0.0,1,0.0,0.0,7,115,75,45,1
+Style: Ending alt,Gotham Bold,63,&H203D5064,&H000000FF,&H403D5064,&H7F202020,-1,0,0,0,90.0,100.0,0.0,0.0,1,3.0,0.0,7,115,75,45,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -62,45 +62,46 @@ Dialogue: 0,0:02:12.04,0:02:15.55,Default,,0,0,0,,{TIME:132049,135552}…goes to
 Dialogue: 0,0:02:20.24,0:02:21.55,Default,,0,0,0,,{TIME:140240,141558}…Kitajima Maya.
 Dialogue: 0,0:02:24.14,0:02:26.27,Thought,,0,0,0,,{TIME:144144,146271}Maya… My Maya.
 Dialogue: 0,0:02:27.85,0:02:32.73,Thought,,0,0,0,,{TIME:147856,152736}I remember I was staring at her\Nlike this just a little over two years ago.
-Dialogue: 0,0:02:34.90,0:02:40.91,Episode title,[title],0,0,0,,{TIME:154905,160911}{\an5\pos(766,700)\fscy95\blur2\fad(400,400)}—Episode 23—\NMy Maya
+Dialogue: 0,0:02:34.90,0:02:40.91,Episode title,[title],0,0,0,,{TIME:154905,160911}{\bord7\fscx120\an5\pos(766,700)\blur1.5\fad(400,400)}—Episode 23—\NMy Maya
+Dialogue: 0,0:02:34.90,0:02:40.91,Episode title,[title],0,0,0,,{TIME:154905,160911}{\fscx120\an5\pos(766,700)\blur1.5\be3\fad(400,400)}—Episode 23—\NMy Maya
 Dialogue: 0,0:02:46.24,0:02:47.58,Retrospective,,0,0,0,,{TIME:166249,167584}A ticker for the play?
-Dialogue: 0,0:02:47.58,0:02:50.00,Retrospective,,0,0,0,,{TIME:167584,170003}You can have it if you want it that much.
+Dialogue: 0,0:02:47.58,0:02:50.00,Retrospective,,0,0,0,,{TIME:167584,170003}You can have it\Nif you want it that much.
 Dialogue: 0,0:02:52.29,0:02:55.92,Retrospective,,0,0,0,,{TIME:172297,175926}But only if you promise to do\Nall the deliveries on New Year's Eve.
-Dialogue: 0,0:03:00.13,0:03:03.35,Retrospective,,0,0,0,,{TIME:180138,183350}You have to do them all by midnight.
+Dialogue: 0,0:03:00.13,0:03:03.35,Retrospective,,0,0,0,,{TIME:180138,183350}You have to do them\Nall by midnight.
 Dialogue: 0,0:03:03.55,0:03:09.18,Retrospective,,0,0,0,,{TIME:183558,189189}That means you have until all the ships\Nfinish sounding their horns.
 Dialogue: 0,0:03:15.07,0:03:16.27,Default,,0,0,0,,{TIME:195070,196279}Maya!
 Dialogue: 0,0:03:16.27,0:03:18.74,Default,,0,0,0,,{TIME:196279,198740}As I promised,\NI finished them all.
 Dialogue: 0,0:03:21.28,0:03:23.24,Default,,0,0,0,,{TIME:201284,203245}Give me the ticket.
 Dialogue: 0,0:03:23.24,0:03:26.79,Default,,0,0,0,,{TIME:203245,206790}F-Fine, if you want it that bad,\Nyou can have it!
-Dialogue: 0,0:03:26.79,0:03:28.91,Default,,0,0,0,,{TIME:206790,208917}What is so important about this anyway?
-Dialogue: 0,0:03:28.91,0:03:30.25,Default,,0,0,0,,{TIME:208917,210252}Here!\NGo get it!
+Dialogue: 0,0:03:26.79,0:03:28.91,Default,,0,0,0,,{TIME:206790,208917}What is so important\Nabout this anyway?
+Dialogue: 0,0:03:28.91,0:03:30.25,Default,,0,0,0,,{TIME:208917,210252}Here! Go get it!
 Dialogue: 0,0:03:37.05,0:03:38.05,Default,,0,0,0,,{TIME:217050,218051}Maya!
 Dialogue: 0,0:03:39.30,0:03:41.30,Default,,0,0,0,,{TIME:219302,221304}I can go!\NI can go!
 Dialogue: 0,0:03:41.30,0:03:43.55,Default,,0,0,0,,{TIME:221304,223557}I can go the play with this!
 Dialogue: 0,0:03:43.55,0:03:45.72,Thought,,0,0,0,,{TIME:223557,225726}I had found her.
 Dialogue: 0,0:03:45.72,0:03:47.72,Thought,,0,0,0,,{TIME:225726,227728}A girl of a thousand masks.
-Dialogue: 0,0:03:47.72,0:03:50.81,Thought,,0,0,0,,{TIME:227728,230814}A girl who could play "The Crimson Goddess".
-Dialogue: 0,0:03:50.81,0:03:55.77,Thought,,0,0,0,,{TIME:230814,235777}I took her to my new drama school,\NTsukikage Theatre…
-Dialogue: 0,0:03:55.77,0:03:58.07,Thought,,0,0,0,,{TIME:235777,238071}…and determined how serious\Nshe was about acting.
+Dialogue: 0,0:03:47.72,0:03:50.81,Thought,,0,0,0,,{TIME:227728,230814}A girl who could play\N"The Crimson Goddess".
+Dialogue: 0,0:03:50.81,0:03:55.77,Thought,,0,0,0,,{TIME:230814,235777}I took her to my new drama school,\NTsukikage Theatre,
+Dialogue: 0,0:03:55.77,0:03:58.07,Thought,,0,0,0,,{TIME:235777,238071}and determined how serious\Nshe was about acting.
 Dialogue: 0,0:04:00.82,0:04:03.49,Default,,0,0,0,,{TIME:240824,243493}You can't be an actress\Nas a hobby or for recreation.
-Dialogue: 0,0:04:04.66,0:04:08.87,Default,,0,0,0,,{TIME:244661,248874}Can you dedicate your life to acting?
-Dialogue: 0,0:04:08.87,0:04:10.79,Default,,0,0,0,,{TIME:248874,250792}What are you going to do after you join?
+Dialogue: 0,0:04:04.66,0:04:08.87,Default,,0,0,0,,{TIME:244661,248874}Can you dedicate\Nyour life to acting?
+Dialogue: 0,0:04:08.87,0:04:10.79,Default,,0,0,0,,{TIME:248874,250792}What are you going to do\Nafter you join?
 Dialogue: 0,0:04:10.79,0:04:12.37,Default,,0,0,0,,{TIME:250792,252376}I'll be an actress!
 Dialogue: 0,0:04:14.50,0:04:17.21,Default,,0,0,0,,{TIME:254504,257215}I want to be an actress!
-Dialogue: 0,0:04:20.76,0:04:24.18,Default,,0,0,0,,{TIME:260761,264181}Well said.\NThose are the words I wanted to hear.
+Dialogue: 0,0:04:20.76,0:04:24.18,Default,,0,0,0,,{TIME:260761,264181}Well said. Those are\Nthe words I wanted to hear.
 Dialogue: 0,0:04:27.01,0:04:34.19,Thought,,0,0,0,,{TIME:267017,274191}Maya joined my drama school, Tsukikage Theatre,\Nand I gave her the role of Beth in "Little Women".
 Dialogue: 0,0:04:35.94,0:04:38.94,Default,,0,0,0,,{TIME:275942,278945}Emotions!\NEmotion will make the play.
 Dialogue: 0,0:04:39.61,0:04:40.90,Default,,0,0,0,,{TIME:279613,280906}Emotions…
-Dialogue: 0,0:04:44.95,0:04:47.12,Default,,0,0,0,,{TIME:284951,287120}No!\NThat's not Beth playing!
+Dialogue: 0,0:04:44.95,0:04:47.12,Default,,0,0,0,,{TIME:284951,287120}No! That's not Beth playing!
 Dialogue: 0,0:04:47.12,0:04:47.53,Default,,0,0,0,,{TIME:287120,287537}Yes!
 Dialogue: 0,0:04:48.74,0:04:51.54,Thought,,0,0,0,,{TIME:288747,291541}I wanted to train her\Nfor "The Crimson Goddess".
 Dialogue: 0,0:04:53.62,0:04:58.00,Default,,0,0,0,,{TIME:293627,298006}If you are here for the play rights for\N"The Crimson Goddess", you're wasting your time.
 Dialogue: 0,0:04:58.96,0:05:00.42,Default,,0,0,0,,{TIME:298965,300425}I won't give it up.
 Dialogue: 0,0:05:00.42,0:05:03.51,Default,,0,0,0,,{TIME:300425,303512}I will come back again and again\Ntill you change your mind.
-Dialogue: 0,0:05:03.51,0:05:06.43,Thought,,0,0,0,,{TIME:303512,306431}There were many who wanted\Nto get the play rights…
-Dialogue: 0,0:05:06.43,0:05:09.97,Thought,,0,0,0,,{TIME:306431,309976}…for "The Crimson Goddess",\Nwhich I received from Ozaki Ichiren.
+Dialogue: 0,0:05:03.51,0:05:06.43,Thought,,0,0,0,,{TIME:303512,306431}There were many who wanted\Nto get the play rights
+Dialogue: 0,0:05:06.43,0:05:09.97,Thought,,0,0,0,,{TIME:306431,309976}for "The Crimson Goddess",\Nwhich I received from Ozaki Ichiren.
 Dialogue: 0,0:05:09.97,0:05:14.06,Thought,,0,0,0,,{TIME:309976,314064}One of them was Hayami Masumi, the young\Npresident of Metropolitan Entertainment.
-Dialogue: 0,0:05:19.23,0:05:22.28,Thought,,0,0,0,,{TIME:319236,322280}Maya was struggling for her first role.
+Dialogue: 0,0:05:19.23,0:05:22.28,Thought,,0,0,0,,{TIME:319236,322280}Maya was struggling\Nfor her first role.
 Dialogue: 0,0:05:26.49,0:05:28.11,Default,,0,0,0,,{TIME:326493,328119}Hey girl, be careful.
 Dialogue: 0,0:05:28.11,0:05:31.41,Default,,0,0,0,,{TIME:328119,331414}You'll catch a cold walking around\Nin the rain like this.
 Dialogue: 0,0:05:41.38,0:05:42.96,Default,,0,0,0,,{TIME:341383,342968}Wait for me here.
@@ -113,25 +114,25 @@ Dialogue: 0,0:06:02.27,0:06:05.57,Default,,0,0,0,,{TIME:362279,365574}What are y
 Dialogue: 0,0:06:05.57,0:06:08.20,Default,,0,0,0,,{TIME:365574,368201}Thank you for the music, Uncle.
 Dialogue: 0,0:06:09.03,0:06:10.62,Default,,0,0,0,,{TIME:369035,370620}What happened to you?
 Dialogue: 0,0:06:14.83,0:06:15.37,Default,,0,0,0,,{TIME:374832,375375}Hey?
-Dialogue: 0,0:06:17.54,0:06:20.79,Default,,0,0,0,,{TIME:377544,380797}Hey, are you okay?\NHey!
-Dialogue: 0,0:06:22.21,0:06:24.30,Thought,,0,0,0,,{TIME:382215,384301}Uncle Laurence?\NMusic?
+Dialogue: 0,0:06:17.54,0:06:20.79,Default,,0,0,0,,{TIME:377544,380797}Hey, are you okay? Hey!
+Dialogue: 0,0:06:22.21,0:06:24.30,Thought,,0,0,0,,{TIME:382215,384301}Uncle Laurence? Music?
 Dialogue: 0,0:06:25.63,0:06:27.63,Thought,,0,0,0,,{TIME:385635,387637}"Little Women"!
 Dialogue: 0,0:06:31.93,0:06:34.43,Thought,,0,0,0,,{TIME:391933,394436}And the first day came.
 Dialogue: 0,0:06:34.43,0:06:37.31,Thought,,0,0,0,,{TIME:394436,397314}An actress, Himekawa Utako,\Nand her daughter, Ayumi,
-Dialogue: 0,0:06:37.31,0:06:39.35,Thought,,0,0,0,,{TIME:397314,399357}…along with Hayami Masumi\Nfrom Metropolitan Entertainment…
-Dialogue: 0,0:06:39.35,0:06:42.15,Thought,,0,0,0,,{TIME:399357,402152}…and Director Onodera were all watching.
+Dialogue: 0,0:06:37.31,0:06:39.35,Thought,,0,0,0,,{TIME:397314,399357}along with Hayami Masumi\Nfrom Metropolitan Entertainment
+Dialogue: 0,0:06:39.35,0:06:42.15,Thought,,0,0,0,,{TIME:399357,402152}and Director Onodera,\Nwere all watching.
 Dialogue: 0,0:06:44.36,0:06:46.40,Default,,0,0,0,,{TIME:404362,406406}Teacher, Maya is…
-Dialogue: 0,0:06:46.40,0:06:48.82,Default,,0,0,0,,{TIME:406406,408825}…has a fever of 40°C.
+Dialogue: 0,0:06:46.40,0:06:48.82,Default,,0,0,0,,{TIME:406406,408825}She has a fever of 40°C.
 Dialogue: 0,0:06:48.82,0:06:49.95,Default,,0,0,0,,{TIME:408825,409951}What?
-Dialogue: 0,0:06:51.20,0:06:53.87,Default,,0,0,0,,{TIME:411202,413872}There's no way she can be on the stage.
-Dialogue: 0,0:06:54.28,0:06:57.79,Default,,0,0,0,,{TIME:414289,417792}Teacher, I can play as a substitute.
-Dialogue: 0,0:07:01.96,0:07:03.67,Default,,0,0,0,,{TIME:421963,423673}Maya, what are you going to do?
+Dialogue: 0,0:06:51.20,0:06:53.87,Default,,0,0,0,,{TIME:411202,413872}There's no way\Nshe can be on the stage.
+Dialogue: 0,0:06:54.28,0:06:57.79,Default,,0,0,0,,{TIME:414289,417792}Teacher, I can play\Nas a substitute.
+Dialogue: 0,0:07:01.96,0:07:03.67,Default,,0,0,0,,{TIME:421963,423673}Maya, what are you\Ngoing to do?
 Dialogue: 0,0:07:04.54,0:07:06.63,Default,,0,0,0,,{TIME:424549,426635}I can do it.\NI can do it!
-Dialogue: 0,0:07:07.38,0:07:09.63,Default,,0,0,0,,{TIME:427385,429638}What if you pass out on stage?
+Dialogue: 0,0:07:07.38,0:07:09.63,Default,,0,0,0,,{TIME:427385,429638}What if you\Npass out on stage?
 Dialogue: 0,0:07:09.63,0:07:13.09,Default,,0,0,0,,{TIME:429638,433099}I'll get up.\NPlease let me play!
 Dialogue: 0,0:07:13.09,0:07:15.60,Default,,0,0,0,,{TIME:433099,435602}I see. Go on.\NTry your best!
 Dialogue: 0,0:07:20.35,0:07:21.60,Thought,,0,0,0,,{TIME:440357,441608}I am Beth.
-Dialogue: 0,0:07:24.98,0:07:29.74,Thought,,0,0,0,,{TIME:444986,449741}Maya continued on with a fever of 40°C.
+Dialogue: 0,0:07:24.98,0:07:29.74,Thought,,0,0,0,,{TIME:444986,449741}Maya continued on\Nwith a fever of 40°C.
 Dialogue: 0,0:07:41.29,0:07:47.84,Thought,,0,0,0,,{TIME:461294,467842}A fever of 40°C and she grows\Neven more beautiful as the play goes on.
 Dialogue: 0,0:07:48.59,0:07:51.51,Default,,0,0,0,,{TIME:468593,471513}Beth, Beth, look at me.\NDon't die on me!
 Dialogue: 0,0:07:52.97,0:07:55.85,Default,,0,0,0,,{TIME:472973,475850}I'm fine.
@@ -141,64 +142,64 @@ Dialogue: 0,0:08:09.99,0:08:13.57,Default,,0,0,0,,{TIME:489990,493576}Beth is pl
 Dialogue: 0,0:08:22.21,0:08:25.04,Thought,,0,0,0,,{TIME:502210,505046}Maya's talent and passion\Nwere confirmed.
 Dialogue: 0,0:08:25.33,0:08:27.38,Default,,0,0,0,,{TIME:505338,507382}Great job, Maya.
 Dialogue: 0,0:08:28.17,0:08:30.55,Default,,0,0,0,,{TIME:508174,510552}Here's a gift from your fan.
-Dialogue: 0,0:08:30.55,0:08:33.17,Default,,0,0,0,,{TIME:510552,513179}It was left outside the backstage.
+Dialogue: 0,0:08:30.55,0:08:33.17,Default,,0,0,0,,{TIME:510552,513179}It was left\Noutside the backstage.
 Dialogue: 0,0:08:33.17,0:08:35.72,Default,,0,0,0,,{TIME:513179,515724}"Please become\Na healthy Beth soon."
 Dialogue: 0,0:08:36.47,0:08:42.18,Thought,,0,0,0,,{TIME:516474,522188}Purple roses were sent\Nby a secret admirer for the first time.
 Dialogue: 0,0:08:45.94,0:08:47.31,Default,,0,0,0,,{TIME:525942,527318}Madame, that's…
 Dialogue: 0,0:08:49.98,0:08:56.41,Thought,,0,0,0,,{TIME:529988,536411}At the time, I was devoted to how\NI would raise Maya as an actress.
-Dialogue: 0,0:08:57.32,0:08:59.62,Default,,0,0,0,,{TIME:537328,539622}She doesn't need letters from her mother.
+Dialogue: 0,0:08:57.32,0:08:59.62,Default,,0,0,0,,{TIME:537328,539622}She doesn't need\Nletters from her mother.
 Dialogue: 0,0:08:59.62,0:09:02.20,Default,,0,0,0,,{TIME:539622,542208}Here, let's burn the package.
 Dialogue: 0,0:09:02.20,0:09:03.54,Default,,0,0,0,,{TIME:542208,543543}Madame…
 Dialogue: 0,0:09:03.54,0:09:04.91,Default,,0,0,0,,{TIME:543543,544919}Hurry.
 Dialogue: 0,0:09:04.91,0:09:05.87,Default,,0,0,0,,{TIME:544919,545879}Y-Yes.
 Dialogue: 0,0:09:05.87,0:09:11.17,Default,,0,0,0,,{TIME:545879,551176}What she needs now is separation from her past.\NNot to have anywhere to turn back to.
-Dialogue: 0,0:09:11.17,0:09:13.76,Thought,,0,0,0,,{TIME:551176,553762}I severed all of Maya's ties to her mother.
+Dialogue: 0,0:09:11.17,0:09:13.76,Thought,,0,0,0,,{TIME:551176,553762}I severed all of Maya's ties\Nto her mother.
 Dialogue: 0,0:09:16.43,0:09:24.27,Default,,0,0,0,,{TIME:556431,564272}A·me·n·bo·a·ka·i·na·a·i·u·e·o.\NA·me…
-Dialogue: 0,0:09:24.48,0:09:27.56,Default,,0,0,0,,{TIME:564481,567567}Maya, your voice is the weakest.
-Dialogue: 0,0:09:28.06,0:09:31.07,Thought,,0,0,0,,{TIME:568068,571071}I trained Maya harder than anyone else.
+Dialogue: 0,0:09:24.48,0:09:27.56,Default,,0,0,0,,{TIME:564481,567567}Maya, your voice\Nis the weakest.
+Dialogue: 0,0:09:28.06,0:09:31.07,Thought,,0,0,0,,{TIME:568068,571071}I trained Maya\Nharder than anyone else.
 Dialogue: 0,0:09:32.03,0:09:34.61,Default,,0,0,0,,{TIME:572030,574616}…a·ka·i·na…
-Dialogue: 0,0:09:34.61,0:09:36.91,Default,,0,0,0,,{TIME:574616,576910}Not good enough.\NMore!
+Dialogue: 0,0:09:34.61,0:09:36.91,Default,,0,0,0,,{TIME:574616,576910}Not good enough. More!
 Dialogue: 0,0:09:36.91,0:09:37.53,Default,,0,0,0,,{TIME:576910,577535}Teacher!
 Dialogue: 0,0:09:37.53,0:09:42.37,Thought,,0,0,0,,{TIME:577535,582373}Then my body was overcome\Nby a heart attack.
 Dialogue: 0,0:09:43.83,0:09:49.13,Thought,,0,0,0,,{TIME:583833,589130}Masumi's plan to acquire\N"The Crimson Goddess" was just starting.
 Dialogue: 0,0:09:50.63,0:09:54.09,Thought,,0,0,0,,{TIME:590632,594094}I had to rely on Maya.
-Dialogue: 0,0:09:59.80,0:10:04.02,Thought,,0,0,0,,{TIME:599808,604020}Maya met my expectations very well.
+Dialogue: 0,0:09:59.80,0:10:04.02,Thought,,0,0,0,,{TIME:599808,604020}Maya met my\Nexpectations very well.
 Dialogue: 0,0:10:04.02,0:10:11.06,Thought,,0,0,0,,{TIME:604020,611069}As Midori in "Growing Up", she competed\Nequally with the genius Himekawa Ayumi.
 Dialogue: 0,0:10:16.32,0:10:18.11,Default,,0,0,0,,{TIME:616324,618117}Goodbye, father.
 Dialogue: 0,0:10:20.32,0:10:28.04,Thought,,0,0,0,,{TIME:620328,628044}In "Gena and the Five Blue Pots", she stood\Non stage by herself playing all 14 roles.
-Dialogue: 0,0:10:46.98,0:10:49.44,Thought,,0,0,0,,{TIME:646980,649440}However, Tsukikage Theatre was destroyed\Nafter all, and all that was left…
-Dialogue: 0,0:10:49.44,0:10:54.48,Thought,,0,0,0,,{TIME:649440,654487}…was an old church as a training hall\Nand a few members, including Maya.
+Dialogue: 0,0:10:46.98,0:10:49.44,Thought,,0,0,0,,{TIME:646980,649440}However, Tsukikage Theatre was destroyed\Nafter all, and all that was left
+Dialogue: 0,0:10:49.44,0:10:54.48,Thought,,0,0,0,,{TIME:649440,654487}was an old church as a training hall\Nand a few members, including Maya.
 Dialogue: 0,0:10:57.07,0:10:57.86,Default,,0,0,0,,{TIME:657073,657866}Teacher.
-Dialogue: 0,0:11:07.29,0:11:09.83,Default,,0,0,0,,{TIME:667292,669836}What is "The Crimson Goddess" really like?
+Dialogue: 0,0:11:07.29,0:11:09.83,Default,,0,0,0,,{TIME:667292,669836}What is "The Crimson\NGoddess" really like?
 Dialogue: 0,0:11:09.83,0:11:15.21,Default,,0,0,0,,{TIME:669836,675216}I wonder if I can play\Nsuch a legendary role someday.
 Dialogue: 0,0:11:16.00,0:11:21.80,Default,,0,0,0,,{TIME:676009,681806}You can only play that role when you're able\Nto forget that you're a human being.
 Dialogue: 0,0:11:21.80,0:11:25.39,Default,,0,0,0,,{TIME:681806,685393}There's no one that can play\N"The Crimson Goddess" now.
 Dialogue: 0,0:11:25.39,0:11:28.43,Default,,0,0,0,,{TIME:685393,688438}Maya, you are far from\Nplaying that role right now.
 Dialogue: 0,0:11:30.27,0:11:32.02,Default,,0,0,0,,{TIME:690273,692025}You must practice hard.
-Dialogue: 0,0:11:32.02,0:11:35.32,Default,,0,0,0,,{TIME:692025,695320}You need to be able to play\Nhundreds and thousands of roles…
-Dialogue: 0,0:11:35.32,0:11:37.11,Default,,0,0,0,,{TIME:695320,697113}…to be able to play "The Crimson Goddess".
+Dialogue: 0,0:11:32.02,0:11:35.32,Default,,0,0,0,,{TIME:692025,695320}You need to be able to play\Nhundreds and thousands of roles
+Dialogue: 0,0:11:35.32,0:11:37.11,Default,,0,0,0,,{TIME:695320,697113}to be able to play\N"The Crimson Goddess".
 Dialogue: 0,0:11:37.11,0:11:39.28,Default,,0,0,0,,{TIME:697113,699282}Teacher, please tell me.
-Dialogue: 0,0:11:39.28,0:11:42.20,Default,,0,0,0,,{TIME:699282,702202}What type of person is the Crimson Goddess?
-Dialogue: 0,0:11:42.20,0:11:45.03,Default,,0,0,0,,{TIME:702202,705038}The crimson Goddess is not a person.
+Dialogue: 0,0:11:39.28,0:11:42.20,Default,,0,0,0,,{TIME:699282,702202}What type of person\Nis the Crimson Goddess?
+Dialogue: 0,0:11:42.20,0:11:45.03,Default,,0,0,0,,{TIME:702202,705038}The Crimson Goddess\Nis not a person.
 Dialogue: 0,0:11:46.03,0:11:48.58,Default,,0,0,0,,{TIME:706039,708583}She is… a plum tree.
 Dialogue: 0,0:11:52.46,0:11:55.25,Default,,0,0,0,,{TIME:712462,715256}A plum… tree.
 Dialogue: 0,0:11:56.75,0:11:58.50,Default,,0,0,0,,{TIME:716758,718509}Close up on her at once!
-Dialogue: 0,0:12:03.72,0:12:05.72,Thought,,0,0,0,,{TIME:723723,725725}Encouraged by her passion\Nfor "The Crimson Goddess"…
-Dialogue: 0,0:12:05.72,0:12:10.31,Thought,,0,0,0,,{TIME:725725,730313}{\fs70}…and the purple roses that were sent to her at every\Nstage appearance, Maya sped along the actress' path.
+Dialogue: 0,0:12:03.72,0:12:05.72,Thought,,0,0,0,,{TIME:723723,725725}Encouraged by her passion\Nfor "The Crimson Goddess"
+Dialogue: 0,0:12:05.72,0:12:10.31,Thought,,0,0,0,,{TIME:725725,730313}{\fs70}and the purple roses that were sent to her at every\Nstage appearance, Maya sped along the actress' path.
 Dialogue: 0,0:12:10.31,0:12:12.73,Thought,,0,0,0,,{TIME:730313,732732}But the path of an actress\Nis still very tough.
 Dialogue: 0,0:12:15.90,0:12:18.94,Default,,0,0,0,,{TIME:735902,738947}Heathcliff has done nothing wrong!\NNothing wrong!
-Dialogue: 0,0:12:18.94,0:12:21.03,Default,,0,0,0,,{TIME:738947,741032}Get out of the way, Catherine!
+Dialogue: 0,0:12:18.94,0:12:21.03,Default,,0,0,0,,{TIME:738947,741032}Get out of the way,\NCatherine!
 Dialogue: 0,0:12:26.91,0:12:31.91,Default,,0,0,0,,{TIME:746913,751918}But my body couldn't wait\Nfor Maya's development.
 Dialogue: 0,0:12:31.91,0:12:36.17,Thought,,0,0,0,,{TIME:751918,756172}I couldn't die until I left\N"The Crimson Goddess" to someone.
 Dialogue: 0,0:12:36.17,0:12:38.42,Thought,,0,0,0,,{TIME:756172,758424}Maya, my Maya!
 Comment: 0,0:12:41.71,0:12:41.71,Default,[chapter],0,0,0,,{TIME:761719,761719}Eyecatch
 Comment: 0,0:12:45.51,0:12:45.51,Default,[chapter],0,0,0,,{TIME:765515,765515}#Eyecatch
 Comment: 0,0:12:48.35,0:12:48.35,Default,[chapter],0,0,0,,{TIME:768351,768351}Part B
-Dialogue: 0,0:12:48.35,0:12:50.68,Default,,0,0,0,,{TIME:768351,770687}Tōtō University Medical Center
+Dialogue: 0,0:12:48.35,0:12:50.68,Sign,(sign),0,0,0,,{TIME:768351,770687}Tōtō University Medical Center
 Dialogue: 0,0:12:50.31,0:12:56.06,Thought,,0,0,0,,{TIME:770311,776067}I started thinking about the next play\Nas soon as my condition got better.
-Dialogue: 0,0:12:56.48,0:12:58.61,Default,,0,0,0,,{TIME:776484,778611}Now, I'll announce the casting.
+Dialogue: 0,0:12:56.48,0:12:58.61,Default,,0,0,0,,{TIME:776484,778611}Now, I'll announce\Nthe casting.
 Dialogue: 0,0:13:00.28,0:13:02.44,Default,,0,0,0,,{TIME:780280,782448}I wonder what I will be.
-Dialogue: 0,0:13:02.44,0:13:04.57,Default,,0,0,0,,{TIME:782448,784575}I'm sure you'll play the main role.
+Dialogue: 0,0:13:02.44,0:13:04.57,Default,,0,0,0,,{TIME:782448,784575}I'm sure you'll play\Nthe main role.
 Dialogue: 0,0:13:06.45,0:13:06.82,Default,,0,0,0,,{TIME:786452,786828}Now, Maya.
 Dialogue: 0,0:13:06.82,0:13:07.49,Default,,0,0,0,,{TIME:786828,787495}Yes!
 Dialogue: 0,0:13:08.07,0:13:10.03,Default,,0,0,0,,{TIME:788079,790039}I will have you play a doll.
@@ -206,45 +207,45 @@ Dialogue: 0,0:13:11.41,0:13:12.62,Default,,0,0,0,,{TIME:791416,792625}A doll?
 Dialogue: 0,0:13:12.62,0:13:16.71,Default,,0,0,0,,{TIME:792625,796713}Yes. A doll who just sits\Nin the middle of the stage.
 Dialogue: 0,0:13:16.71,0:13:18.42,Default,,0,0,0,,{TIME:796713,798423}You won't have\Nany movements nor words.
 Dialogue: 0,0:13:18.42,0:13:27.84,Thought,,0,0,0,,{TIME:798423,807849}{\fs70}The challenge I gave her with this role was to empty\Nher mind and to synchronize herself with others.
-Dialogue: 0,0:13:29.76,0:13:32.77,Thought,,0,0,0,,{TIME:809767,812770}Deprived of movement, words,\Nany form of expression…
-Dialogue: 0,0:13:32.77,0:13:39.11,Thought,,0,0,0,,{TIME:812770,819110}…Maya seemed to be successfully\Ncompleting the challenge.
+Dialogue: 0,0:13:29.76,0:13:32.77,Thought,,0,0,0,,{TIME:809767,812770}Deprived of movement, words,\Nany form of expression,
+Dialogue: 0,0:13:32.77,0:13:39.11,Thought,,0,0,0,,{TIME:812770,819110}Maya seemed to be successfully\Ncompleting the challenge.
 Dialogue: 0,0:13:42.61,0:13:45.03,Thought,,0,0,0,,{TIME:822613,825033}The last day of\N"The Smile of Stone".
 Dialogue: 0,0:13:48.53,0:13:49.74,Default,,0,0,0,,{TIME:828536,829746}Mother.
 Dialogue: 0,0:13:55.46,0:13:57.08,Default,,0,0,0,,{TIME:835460,837086}Mother!
 Dialogue: 0,0:13:57.08,0:13:59.71,Thought,,0,0,0,,{TIME:837086,839714}I'm sorry, Mother.
 Dialogue: 0,0:14:02.92,0:14:05.67,Thought,,0,0,0,,{TIME:842925,845678}The mask is gone,\Nthe mask of a doll.
 Dialogue: 0,0:14:08.43,0:14:13.60,Default,,0,0,0,,{TIME:848431,853603}What are you doing,\Ntaking your mask off on the stage?
-Dialogue: 0,0:14:14.31,0:14:17.14,Default,,0,0,0,,{TIME:854312,857148}Because of your unprofessional behavior…
-Dialogue: 0,0:14:17.14,0:14:19.98,Default,,0,0,0,,{TIME:857148,859984}…this important last day of the play\Nwas almost jeopardized.
+Dialogue: 0,0:14:14.31,0:14:17.14,Default,,0,0,0,,{TIME:854312,857148}Because of your\Nunprofessional behavior
+Dialogue: 0,0:14:17.14,0:14:19.98,Default,,0,0,0,,{TIME:857148,859984}this important last day of the play\Nwas almost jeopardized.
 Dialogue: 0,0:14:21.02,0:14:25.74,Default,,0,0,0,,{TIME:861027,865740}Teacher, Maya saw someone that seemed like her\Nmother on the way to the theatre today.
 Dialogue: 0,0:14:26.90,0:14:31.12,Default,,0,0,0,,{TIME:866908,871120}It doesn't matter what it is, it still doesn't give you\Na reason to take your mask off on stage.
-Dialogue: 0,0:14:31.12,0:14:33.87,Default,,0,0,0,,{TIME:871120,873873}Maya, you failed as an actress.
-Dialogue: 0,0:14:34.87,0:14:36.29,Default,,0,0,0,,{TIME:874874,876292}Failed…
-Dialogue: 0,0:14:36.50,0:14:38.62,Default,,0,0,0,,{TIME:876501,878628}You won't be in the next play.
-Dialogue: 0,0:14:38.62,0:14:40.67,Default,,0,0,0,,{TIME:878628,880671}You're on probation for a while.
+Dialogue: 0,0:14:31.12,0:14:33.87,Default,,0,0,0,,{TIME:871120,873873}Maya, you failed\Nas an actress.
+Dialogue: 0,0:14:34.87,0:14:36.29,Default,,0,0,0,,{TIME:874874,876292}Failed?
+Dialogue: 0,0:14:36.50,0:14:38.62,Default,,0,0,0,,{TIME:876501,878628}You won't be\Nin the next play.
+Dialogue: 0,0:14:38.62,0:14:40.67,Default,,0,0,0,,{TIME:878628,880671}You're on probation\Nfor a while.
 Dialogue: 0,0:14:43.80,0:14:45.34,Default,,0,0,0,,{TIME:883800,885343}Probation?
 Dialogue: 0,0:14:45.34,0:14:49.84,Default,,0,0,0,,{TIME:885343,889847}I knew I had to kill myself\Nbefore I went onto that stage…
 Dialogue: 0,0:14:49.84,0:14:51.64,Default,,0,0,0,,{TIME:889847,891641}You couldn't help it, Maya.
-Dialogue: 0,0:14:51.64,0:14:55.68,Default,,0,0,0,,{TIME:891641,895686}What we wear is a glass mask.
+Dialogue: 0,0:14:51.64,0:14:55.68,Default,,0,0,0,,{TIME:891641,895686}What we wear\Nis a glass mask.
 Dialogue: 0,0:14:55.68,0:14:57.10,Default,,0,0,0,,{TIME:895686,897105}Glass mask?
-Dialogue: 0,0:14:57.10,0:15:00.27,Default,,0,0,0,,{TIME:897105,900274}Yes.\NA fragile glass mask.
+Dialogue: 0,0:14:57.10,0:15:00.27,Default,,0,0,0,,{TIME:897105,900274}Yes. A fragile glass mask.
 Dialogue: 0,0:15:00.27,0:15:02.56,Default,,0,0,0,,{TIME:900274,902568}That's why it's so easy to break it\Nand show the real face.
 Dialogue: 0,0:15:11.70,0:15:16.45,Thought,,0,0,0,,{TIME:911702,916457}Since her dream was so large,\Nshe was greatly disappointed.
 Dialogue: 0,0:15:16.45,0:15:19.58,Thought,,0,0,0,,{TIME:916457,919584}I had to cast off her naivety.
-Dialogue: 0,0:15:27.84,0:15:31.34,Default,,0,0,0,,{TIME:927844,931347}Is this your shelter from the rain, little girl?
+Dialogue: 0,0:15:27.84,0:15:31.34,Default,,0,0,0,,{TIME:927844,931347}Is this your shelter\Nfrom the rain, little girl?
 Dialogue: 0,0:15:31.34,0:15:34.80,Default,,0,0,0,,{TIME:931347,934809}You… Leave me alone!
 Dialogue: 0,0:15:34.80,0:15:38.64,Default,,0,0,0,,{TIME:934809,938646}I can't let you go.\NYou are our important substitute.
 Dialogue: 0,0:15:39.43,0:15:40.81,Default,,0,0,0,,{TIME:939439,940815}A substitute?
 Dialogue: 0,0:15:47.02,0:15:48.44,Thought,,0,0,0,,{TIME:947029,948448}Ayumi.
 Dialogue: 0,0:15:48.44,0:15:49.53,Thought,,0,0,0,,{TIME:948448,949532}Kitajima Maya.
-Dialogue: 0,0:15:52.07,0:15:56.37,Thought,,0,0,0,,{TIME:952076,956372}The ad-lib that was exchanged between\NKitajima Maya and Himekawa Ayumi…
-Dialogue: 0,0:15:56.37,0:15:59.25,Thought,,0,0,0,,{TIME:956372,959250}…was such a surprising present to the world.
+Dialogue: 0,0:15:52.07,0:15:56.37,Thought,,0,0,0,,{TIME:952076,956372}The ad-lib that was exchanged between\NKitajima Maya and Himekawa Ayumi
+Dialogue: 0,0:15:56.37,0:15:59.25,Thought,,0,0,0,,{TIME:956372,959250}was such a surprising\Npresent to the world.
 Dialogue: 0,0:16:07.25,0:16:10.05,Default,,0,0,0,,{TIME:967258,970052}I heard you declined\Nthe audition for Helen's role.
 Dialogue: 0,0:16:10.05,0:16:11.13,Default,,0,0,0,,{TIME:970052,971137}Yes.
 Dialogue: 0,0:16:11.13,0:16:12.80,Default,,0,0,0,,{TIME:971137,972805}You are afraid of Ayumi,\Nis that right?
 Dialogue: 0,0:16:12.80,0:16:13.68,Default,,0,0,0,,{TIME:972805,973681}Teacher.
 Dialogue: 0,0:16:14.34,0:16:18.14,Default,,0,0,0,,{TIME:974348,978144}You got scared after being lead by Ayumi\Nin "The Cherry Tree of Dream Festivals".
-Dialogue: 0,0:16:20.31,0:16:23.19,Default,,0,0,0,,{TIME:980313,983190}Maya, you are hereby expelled!
+Dialogue: 0,0:16:20.31,0:16:23.19,Default,,0,0,0,,{TIME:980313,983190}Maya, you are\Nhereby expelled!
 Dialogue: 0,0:16:23.19,0:16:24.10,Default,,0,0,0,,{TIME:983190,984108}Expelled?
 Dialogue: 0,0:16:24.10,0:16:27.86,Default,,0,0,0,,{TIME:984108,987862}You knew you weren't allowed\Nto get on stage, yet you took that role.
 Dialogue: 0,0:16:27.86,0:16:30.40,Default,,0,0,0,,{TIME:987862,990406}That's reason enough.
@@ -256,9 +257,9 @@ Dialogue: 0,0:16:47.13,0:16:48.63,Thought,,0,0,0,,{TIME:1007131,1008633}Some cot
 Dialogue: 0,0:16:51.92,0:16:53.17,Thought,,0,0,0,,{TIME:1011928,1013179}…and some dressing.
 Dialogue: 0,0:16:54.43,0:16:55.89,Thought,,0,0,0,,{TIME:1014430,1015890}Helen's life.
 Dialogue: 0,0:16:57.30,0:17:01.14,Thought,,0,0,0,,{TIME:1017308,1021145}I'll live as Helen,\Nin the darkness and silence.
-Dialogue: 0,0:17:01.14,0:17:04.39,Thought,,0,0,0,,{TIME:1021145,1024398}Just as I planned, Maya practiced hard…
-Dialogue: 0,0:17:04.39,0:17:09.69,Thought,,0,0,0,,{TIME:1024398,1029695}…in a summer house provided by Mr. Purple Rose,\Ncausing scratches all over her body.
-Dialogue: 0,0:17:10.73,0:17:12.19,Thought,,0,0,0,,{TIME:1030738,1032197}Mr. Purple Rose.
+Dialogue: 0,0:17:01.14,0:17:04.39,Thought,,0,0,0,,{TIME:1021145,1024398}Just as I planned,\NMaya practiced hard
+Dialogue: 0,0:17:04.39,0:17:09.69,Thought,,0,0,0,,{TIME:1024398,1029695}in a summer house provided by Mr. Purple Rose,\Ncausing scratches all over her body.
+Dialogue: 0,0:17:10.73,0:17:13.57,Thought,,0,0,0,,{TIME:1030738,1033574}Mr. Purple Rose.
 Dialogue: 0,0:17:17.11,0:17:20.58,Thought,,0,0,0,,{TIME:1037119,1040580}I already knew who he was.
 Dialogue: 0,0:17:21.95,0:17:24.87,Thought,,0,0,0,,{TIME:1041958,1044877}But it didn't matter.
 Dialogue: 0,0:17:24.87,0:17:29.96,Thought,,0,0,0,,{TIME:1044877,1049966}If he could help Maya become an actress,\Nhe could have been the Devil himself.
@@ -274,45 +275,45 @@ Dialogue: 0,0:18:08.17,0:18:10.25,Thought,,0,0,0,,{TIME:1088170,1090256}{\t(1586
 Dialogue: 0,0:18:10.63,0:18:15.01,Default,,0,0,0,,{TIME:1090631,1095011}We'll now start the audition\Nfor the role of Helen Keller.
 Dialogue: 0,0:18:16.13,0:18:18.05,Default,,0,0,0,,{TIME:1096137,1098055}Here, we have\Nthe five candidates.
 Dialogue: 0,0:18:18.84,0:18:20.80,Thought,,0,0,0,,{TIME:1098848,1100808}The audition finally started.
-Dialogue: 0,0:18:34.82,0:18:39.95,Thought,,0,0,0,,{TIME:1114822,1119952}Maya. I knew she would meet my expectations.
-Dialogue: 0,0:18:47.12,0:18:51.46,Default,,0,0,0,,{TIME:1127126,1131464}I hereby announce the decision.
-Dialogue: 0,0:18:51.46,0:18:54.75,Default,,0,0,0,,{TIME:1131464,1134759}Helen Keller will be played by…
-Dialogue: 0,0:18:54.75,0:18:56.38,Default,,0,0,0,,{TIME:1134759,1136385}…Himekawa Ayumi.
+Dialogue: 0,0:18:34.82,0:18:39.95,Thought,,0,0,0,,{TIME:1114822,1119952}Maya. I knew she would\Nmeet my expectations.
+Dialogue: 0,0:18:47.12,0:18:51.46,Default,,0,0,0,,{TIME:1127126,1131464}I hereby announce\Nthe decision.
+Dialogue: 0,0:18:51.46,0:18:54.75,Default,,0,0,0,,{TIME:1131464,1134759}Helen Keller\Nwill be played by…
+Dialogue: 0,0:18:54.75,0:18:56.38,Default,,0,0,0,,{TIME:1134759,1136385}Himekawa Ayumi.
 Dialogue: 0,0:19:02.76,0:19:04.85,Default,,0,0,0,,{TIME:1142767,1144852}And, also, by Kitajima Maya.
-Dialogue: 0,0:19:13.52,0:19:16.40,Default,,0,0,0,,{TIME:1153527,1156405}We decided to double cast them.
+Dialogue: 0,0:19:13.52,0:19:16.40,Default,,0,0,0,,{TIME:1153527,1156405}We decided to\Ndouble cast them.
 Dialogue: 0,0:19:17.57,0:19:18.86,Thought,,0,0,0,,{TIME:1157573,1158866}Double cast?
 Dialogue: 0,0:19:22.82,0:19:24.83,Thought,,0,0,0,,{TIME:1162828,1164830}Maya won the role of Helen.
-Dialogue: 0,0:19:26.49,0:19:31.29,Thought,,0,0,0,,{TIME:1166499,1171295}But if Ayumi's Helen was better…
+Dialogue: 0,0:19:26.49,0:19:31.29,Thought,,0,0,0,,{TIME:1166499,1171295}But if Ayumi's\NHelen was better…
 Dialogue: 0,0:19:34.09,0:19:36.88,Thought,,0,0,0,,{TIME:1174090,1176884}…then Ayumi would play\N"The Crimson Goddess".
 Dialogue: 0,0:19:39.34,0:19:43.93,Thought,,0,0,0,,{TIME:1179345,1183933}I promised myself that only the best\Nwould play "The Crimson Goddess".
 Dialogue: 0,0:19:47.43,0:19:50.27,Thought,,0,0,0,,{TIME:1187436,1190272}What's wrong, Maya?
 Dialogue: 0,0:19:50.27,0:19:52.44,Thought,,0,0,0,,{TIME:1190272,1192441}I'm nervous.
-Dialogue: 0,0:19:52.44,0:19:56.65,Thought,,0,0,0,,{TIME:1192441,1196654}I'm afraid\Nto be compared with Ayumi.
+Dialogue: 0,0:19:52.44,0:19:56.65,Thought,,0,0,0,,{TIME:1192441,1196654}I'm afraid to be\Ncompared with Ayumi.
 Dialogue: 0,0:20:17.84,0:20:19.46,Default,,0,0,0,,{TIME:1217842,1219468}Helen!
 Dialogue: 0,0:20:28.97,0:20:31.89,Default,,0,0,0,,{TIME:1228978,1231897}Wa… ter!
-Dialogue: 0,0:20:40.07,0:20:42.11,Thought,,0,0,0,,{TIME:1240072,1242116}The battle was over…
-Dialogue: 0,0:20:42.11,0:20:47.62,Thought,,0,0,0,,{TIME:1242116,1247621}…and the overwhelming emotion\Nby both actresses impressed me equally.
+Dialogue: 0,0:20:40.07,0:20:42.11,Thought,,0,0,0,,{TIME:1240072,1242116}The battle was over,
+Dialogue: 0,0:20:42.11,0:20:47.62,Thought,,0,0,0,,{TIME:1242116,1247621}and the overwhelming emotion\Nby both actresses impressed me equally.
 Dialogue: 0,0:20:57.88,0:21:00.71,Default,,0,0,0,,{TIME:1257882,1260718}Congratulations, Maya.
 Dialogue: 0,0:21:01.55,0:21:03.13,Default,,0,0,0,,{TIME:1261552,1263137}Thank you, Ayumi.
 Dialogue: 0,0:21:03.72,0:21:06.84,Default,,0,0,0,,{TIME:1263721,1266849}But I still don't think\Nyou defeated me.
 Dialogue: 0,0:21:11.60,0:21:13.39,Default,,0,0,0,,{TIME:1271604,1273397}Hello, Miss Tsukikage.
-Dialogue: 0,0:21:13.39,0:21:15.56,Default,,0,0,0,,{TIME:1273397,1275566}Did you come to see\Nyour good student's award presentation?
+Dialogue: 0,0:21:13.39,0:21:15.56,Default,,0,0,0,,{TIME:1273397,1275566}Did you come to see your\Ngood student's award presentation?
 Dialogue: 0,0:21:15.56,0:21:19.57,Default,,0,0,0,,{TIME:1275566,1279570}A good student?\NYes, some future good students.
 Dialogue: 0,0:21:23.03,0:21:24.78,Default,,0,0,0,,{TIME:1283032,1284784}"Future good students"…?
 Dialogue: 0,0:21:40.67,0:21:43.92,Default,,0,0,0,,{TIME:1300674,1303928}How are you, Miss Tsukikage?\NAny words of celebration?
 Dialogue: 0,0:21:44.76,0:21:48.55,Default,,0,0,0,,{TIME:1304762,1308557}Yes. Both Helens\Nhave some extraordinary talent.
-Dialogue: 0,0:21:48.55,0:21:52.85,Default,,0,0,0,,{TIME:1308557,1312853}I must say they are suited\Nto be candidates for "The Crimson Goddess".
+Dialogue: 0,0:21:48.55,0:21:52.85,Default,,0,0,0,,{TIME:1308557,1312853}I must say they are suited to be\Nthe candidates for "The Crimson Goddess".
 Dialogue: 0,0:21:53.22,0:21:56.39,Default,,0,0,0,,{TIME:1313229,1316398}Ms. Kitajima Maya, Ms. Himekawa Ayumi.\NPlease come forward.
-Dialogue: 0,0:21:56.77,0:21:59.44,Default,,0,0,0,,{TIME:1316774,1319443}Everyone, I would like to take\Nadvantage of this opportunity…
-Dialogue: 0,0:21:59.44,0:22:02.78,Default,,0,0,0,,{TIME:1319443,1322780}…to introduce the two candidates\Nfor "The Crimson Goddess".
-Dialogue: 0,0:22:02.78,0:22:05.69,Default,,0,0,0,,{TIME:1322780,1325699}Kitajima Maya and Himekawa Ayumi.
+Dialogue: 0,0:21:56.77,0:21:59.44,Default,,0,0,0,,{TIME:1316774,1319443}Everyone, I would like to take\Nadvantage of this opportunity
+Dialogue: 0,0:21:59.44,0:22:02.78,Default,,0,0,0,,{TIME:1319443,1322780}to introduce the two candidates\Nfor "The Crimson Goddess".
+Dialogue: 0,0:22:02.78,0:22:05.69,Default,,0,0,0,,{TIME:1322780,1325699}Kitajima Maya\Nand Himekawa Ayumi.
 Dialogue: 0,0:22:15.50,0:22:17.54,Thought,,0,0,0,,{TIME:1335501,1337545}From the stage to television.
 Dialogue: 0,0:22:17.54,0:22:23.34,Thought,,0,0,0,,{TIME:1337545,1343341}Maya has to step forward and take\Nnew challenges to grow as an actress.
 Dialogue: 0,0:22:28.55,0:22:31.89,Thought,,0,0,0,,{TIME:1348556,1351892}So does Ayumi.
 Dialogue: 0,0:22:31.89,0:22:36.14,Thought,,0,0,0,,{TIME:1351892,1356146}The new battle for the two girls who aspire\Nto be "The Crimson Goddess" has just started.
 Dialogue: 0,0:22:36.98,0:22:42.94,Thought,,0,0,0,,{TIME:1356981,1362945}What's important is for you\Nto grow as a person.
 Dialogue: 0,0:22:42.94,0:22:48.20,Thought,,0,0,0,,{TIME:1362945,1368200}{\t(4455,5255,\1c&H101010&\3c&H101010&\4c&H101010&)}Go on, Maya!\NMy Maya!
-Comment: 0,0:22:51.45,0:22:51.45,Default,[chapter],0,0,0,,{TIME:1371453,1371453}Ending
+Comment: 0,0:22:48.36,0:22:48.36,Default,[chapter],0,0,0,,{TIME:1368367,1368367}Ending
 Dialogue: 0,0:22:55.12,0:23:01.25,Ending alt,[karaoke],0,0,0,,{TIME:1375124,1381254}{\blur3}It is lonely by myself,
 Dialogue: 0,0:23:01.25,0:23:07.34,Ending alt,[karaoke],0,0,0,,{TIME:1381254,1387344}{\blur3}and I almost stumble.
 Dialogue: 0,0:23:07.34,0:23:19.35,Ending alt,[karaoke],0,0,0,,{TIME:1387344,1399354}{\blur3}Something calls me here,\Njust like a whisper in the wind.
