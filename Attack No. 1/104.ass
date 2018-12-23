@@ -16,6 +16,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Gotham Rounded Medium,43,&H00BFF6FF,&H007A8688,&H00202020,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,3.0,0.0,2,36,36,36,1
 Style: Alternative,Gotham Rounded Medium,43,&H00BFF6FF,&H007A8688,&H00202020,&H7F202020,-1,-1,0,0,94.0,100.0,0.0,0.0,1,3.0,0.0,2,36,36,36,1
 Style: Lyrics EN,Gotham Rounded Medium,43,&H00BFF6FF,&H00C8B400,&H00202020,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,3.0,0.0,2,36,36,36,1
+Style: Lyrics END,Gotham Rounded Medium,43,&H00BFF6FF,&H00C8B400,&H00202020,&H7F202020,-1,-1,0,0,94.0,100.0,0.0,0.0,1,3.0,0.0,8,36,36,36,1
 Style: Lyrics JP,Source Han Sans CN,45,&H00BFF6FF,&H0097F0F8,&H00202020,&H7F101010,-1,0,0,0,90.0,100.0,0.0,0.0,1,3.0,0.0,2,36,36,36,1
 Style: Sign,Gotham Rounded Medium,43,&H009AFBDC,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94.0,100.0,0.0,0.0,1,3.0,0.0,8,36,36,36,1
 Style: Blackboard,Etelka Text Pro,43,&H00CDD1D2,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.0,0.0,8,10,10,10,1
@@ -62,228 +63,245 @@ Dialogue: 0,0:01:21.95,0:01:31.37,Lyrics EN,[karaoke],0,0,0,,{TIME:81956,91376}A
 Comment: 0,0:01:32.09,0:01:32.09,Default,[chapter],0,0,0,,{TIME:92092,92092}Title screen
 Dialogue: 0,0:01:37.68,0:01:44.60,Default,[title],0,0,0,,{TIME:97681,104605}—Episode 104—\NShe's the No. 1{NOTE:栄光のアタックNo.1}
 Comment: 0,0:01:44.60,0:01:44.60,Default,[chapter],0,0,0,,{TIME:104605,104605}Part A
-Dialogue: 0,0:02:01.91,0:02:08.54,Sign,(sign),0,0,0,,{TIME:121913,128545}
-Dialogue: 0,0:02:15.13,0:02:20.76,Default,Commentator,0,0,0,,{TIME:135135,140766}
-Dialogue: 0,0:02:20.76,0:02:23.64,Default,Commentator,0,0,0,,{TIME:140766,143644}
-Dialogue: 0,0:02:23.64,0:02:29.27,Default,Commentator,0,0,0,,{TIME:143644,149274}
-Dialogue: 0,0:02:29.27,0:02:35.94,Default,Commentator,0,0,0,,{TIME:149274,155947}
-Dialogue: 0,0:02:39.95,0:02:42.37,Default,Commentator,0,0,0,,{TIME:159951,162371}
-Dialogue: 0,0:02:47.37,0:02:50.17,Default,Commentator,0,0,0,,{TIME:167376,170170}
-Dialogue: 0,0:02:50.17,0:02:52.17,Default,Commentator,0,0,0,,{TIME:170170,172172}
-Dialogue: 0,0:02:52.54,0:02:54.04,Alternative,Ayuhara,0,0,0,,{TIME:172547,174049}
-Dialogue: 0,0:02:54.04,0:02:57.55,Alternative,Ayuhara,0,0,0,,{TIME:174049,177552}
-Dialogue: 0,0:02:57.55,0:03:01.34,Alternative,Ayuhara,0,0,0,,{TIME:177552,181348}
-Dialogue: 0,0:03:04.10,0:03:07.06,Alternative,Ayuhara,0,0,0,,{TIME:184101,187062}
-Dialogue: 0,0:03:09.52,0:03:10.44,Default,Kiyama,0,0,0,,{TIME:189523,190440}
-Dialogue: 0,0:03:12.81,0:03:13.65,Default,Kiyama,0,0,0,,{TIME:192818,193652}
-Dialogue: 0,0:03:13.65,0:03:16.57,Default,Ayuhara,0,0,0,,{TIME:193652,196571}
-Dialogue: 0,0:03:21.28,0:03:23.32,Default,Inokuma,0,0,0,,{TIME:201284,203328}
-Dialogue: 0,0:03:23.32,0:03:24.37,Default,(unison),0,0,0,,{TIME:203328,204371}
-Dialogue: 0,0:03:24.37,0:03:26.70,Default,Inokuma,0,0,0,,{TIME:204371,206707}
-Dialogue: 0,0:03:26.70,0:03:28.87,Default,Inokuma,0,0,0,,{TIME:206707,208875}
-Dialogue: 0,0:03:32.92,0:03:33.92,Alternative,Inokuma,0,0,0,,{TIME:212921,213922}
-Dialogue: 0,0:03:36.92,0:03:39.63,Default,Inokuma,0,0,0,,{TIME:216925,219636}
-Dialogue: 0,0:03:39.63,0:03:40.84,Default,Ayuhara,0,0,0,,{TIME:219636,220846}
-Dialogue: 0,0:03:45.01,0:03:46.76,Default,Inokuma,0,0,0,,{TIME:225016,226768}
-Dialogue: 0,0:03:51.02,0:03:54.27,Default,Inokuma,0,0,0,,{TIME:231022,234276}
-Dialogue: 0,0:03:54.27,0:03:56.61,Default,Inokuma,0,0,0,,{TIME:234276,236611}
-Dialogue: 0,0:03:58.86,0:04:02.07,Default,Inokuma,0,0,0,,{TIME:238864,242075}
-Dialogue: 0,0:04:02.07,0:04:03.95,Default,Inokuma,0,0,0,,{TIME:242075,243952}
-Dialogue: 0,0:04:03.95,0:04:06.24,Default,Inokuma,0,0,0,,{TIME:243952,246246}
-Dialogue: 0,0:04:06.24,0:04:07.37,Default,(unison),0,0,0,,{TIME:246246,247372}
-Dialogue: 0,0:04:07.37,0:04:12.00,Default,Inokuma,0,0,0,,{TIME:247372,252002}
-Dialogue: 0,0:04:12.00,0:04:14.42,Default,Inokuma,0,0,0,,{TIME:252002,254421}
-Dialogue: 0,0:04:14.42,0:04:16.88,Default,Inokuma,0,0,0,,{TIME:254421,256882}
-Dialogue: 0,0:04:16.88,0:04:18.34,Default,Inokuma,0,0,0,,{TIME:256882,258341}
-Dialogue: 0,0:04:18.34,0:04:20.92,Default,Inokuma,0,0,0,,{TIME:258341,260927}
-Dialogue: 0,0:04:20.92,0:04:21.84,Default,Inokuma,0,0,0,,{TIME:260927,261845}
-Dialogue: 0,0:04:21.84,0:04:22.51,Default,(unison),0,0,0,,{TIME:261845,262512}
-Dialogue: 0,0:04:23.26,0:04:23.97,Default,Inokuma,0,0,0,,{TIME:263263,263972}
-Dialogue: 0,0:04:26.05,0:04:28.35,Default,Inokuma,0,0,0,,{TIME:266057,268351}
-Dialogue: 0,0:04:28.35,0:04:29.22,Default,(unison),0,0,0,,{TIME:268351,269227}
-Dialogue: 0,0:04:30.89,0:04:32.02,Default,Matsuyama,0,0,0,,{TIME:270896,272022}
-Dialogue: 0,0:04:32.02,0:04:33.10,Default,(unison),0,0,0,,{TIME:272022,273106}
-Dialogue: 0,0:04:34.44,0:04:36.52,Alternative,Inokuma,0,0,0,,{TIME:274441,276526}
-Dialogue: 0,0:04:38.15,0:04:42.53,Default,Commentator,0,0,0,,{TIME:278153,282532}
-Dialogue: 0,0:04:43.36,0:04:47.53,Alternative,Commentator,0,0,0,,{TIME:283366,287537}
-Dialogue: 0,0:04:47.53,0:04:51.04,Alternative,Commentator,0,0,0,,{TIME:287537,291041}
-Dialogue: 0,0:04:51.04,0:04:54.75,Alternative,Commentator,0,0,0,,{TIME:291041,294753}
-Dialogue: 0,0:04:56.08,0:04:58.29,Default,Nakazawa,0,0,0,,{TIME:296087,298298}
-Dialogue: 0,0:04:58.29,0:04:59.67,Default,Nakazawa,0,0,0,,{TIME:298298,299674}
-Dialogue: 0,0:05:01.46,0:05:03.09,Default,Makimura,0,0,0,,{TIME:301468,303094}
-Dialogue: 0,0:05:03.84,0:05:05.18,Default,Hayakawa,0,0,0,,{TIME:303845,305180}
-Dialogue: 0,0:05:05.51,0:05:09.26,Alternative,Hongou,0,0,0,,{TIME:305514,309267}
-Dialogue: 0,0:05:09.26,0:05:11.14,Alternative,Hongou,0,0,0,,{TIME:309267,311144}
-Dialogue: 0,0:05:12.68,0:05:15.02,Alternative,Commentator,0,0,0,,{TIME:312687,315023}
-Dialogue: 0,0:05:15.35,0:05:17.73,Alternative,Hongou,0,0,0,,{TIME:315357,317734}
-Dialogue: 0,0:05:17.73,0:05:19.27,Alternative,Hongou,0,0,0,,{TIME:317734,319277}
-Dialogue: 0,0:05:19.27,0:05:21.53,Alternative,Hongou,0,0,0,,{TIME:319277,321530}
-Dialogue: 0,0:05:29.57,0:05:31.91,Alternative,Ayuhara,0,0,0,,{TIME:329579,331915}
-Dialogue: 0,0:05:31.91,0:05:33.37,Alternative,Ayuhara,0,0,0,,{TIME:331915,333375}
-Dialogue: 0,0:05:33.37,0:05:36.62,Alternative,Ayuhara,0,0,0,,{TIME:333375,336628}
-Dialogue: 0,0:05:49.05,0:05:50.10,Alternative,Yushima,0,0,0,,{TIME:349057,350100}
-Dialogue: 0,0:05:50.10,0:05:52.93,Alternative,Yushima,0,0,0,,{TIME:350100,352936}
-Dialogue: 0,0:05:54.64,0:05:58.23,Alternative,Ayuhara,0,0,0,,{TIME:354646,358233}
-Dialogue: 0,0:06:02.57,0:06:04.40,Alternative,Ayuhara,0,0,0,,{TIME:362571,364406}
-Dialogue: 0,0:06:05.36,0:06:06.24,Default,(unknown),0,0,0,,{TIME:365365,366241}
-Dialogue: 0,0:06:11.95,0:06:15.66,Alternative,Shellenina,0,0,0,,{TIME:371955,375667}
-Dialogue: 0,0:06:15.66,0:06:18.50,Alternative,Shellenina,0,0,0,,{TIME:375667,378503}
-Dialogue: 0,0:06:18.50,0:06:21.67,Alternative,Shellenina,0,0,0,,{TIME:378503,381673}
-Dialogue: 0,0:06:22.50,0:06:24.21,Default,Kiyama,0,0,0,,{TIME:382507,384217}
-Dialogue: 0,0:06:24.21,0:06:25.55,Default,Kiyama,0,0,0,,{TIME:384217,385552}
-Dialogue: 0,0:06:25.55,0:06:26.13,Default,Ayuhara,0,0,0,,{TIME:385552,386136}
-Dialogue: 0,0:06:26.34,0:06:27.09,Default,Matsuyama,0,0,0,,{TIME:386344,387095}
-Dialogue: 0,0:06:27.09,0:06:28.13,Default,(unison),0,0,0,,{TIME:387095,388138}
-Dialogue: 0,0:06:43.36,0:06:44.27,Default,Commentator,0,0,0,,{TIME:403361,404279}
-Dialogue: 0,0:06:44.27,0:06:47.03,Default,Commentator,0,0,0,,{TIME:404279,407032}
-Dialogue: 0,0:06:48.45,0:06:50.86,Default,Commentator,0,0,0,,{TIME:408450,410869}
-Dialogue: 0,0:06:53.53,0:06:56.58,Default,Commentator,0,0,0,,{TIME:413538,416583}
-Dialogue: 0,0:06:58.41,0:07:01.75,Default,Commentator,0,0,0,,{TIME:418418,421755}
-Dialogue: 0,0:07:01.75,0:07:05.25,Alternative,Ayuhara,0,0,0,,{TIME:421755,425258}
-Dialogue: 0,0:07:06.80,0:07:08.63,Default,Commentator,0,0,0,,{TIME:426801,428637}
-Dialogue: 0,0:07:08.63,0:07:10.22,Default,Commentator,0,0,0,,{TIME:428637,430221}
-Dialogue: 0,0:07:16.85,0:07:17.93,Default,Commentator,0,0,0,,{TIME:436853,437938}
-Dialogue: 0,0:07:18.93,0:07:19.89,Default,(mixed,0,0,0,,{TIME:438939,439898}
-Dialogue: 0,0:07:20.23,0:07:21.35,Default,Inokuma,0,0,0,,{TIME:440231,441358}
-Dialogue: 0,0:07:26.57,0:07:27.73,Default,Hayakawa,0,0,0,,{TIME:446571,447739}
-Dialogue: 0,0:07:31.53,0:07:36.08,Alternative,Commentator,0,0,0,,{TIME:451534,456081}
-Dialogue: 0,0:07:36.08,0:07:38.62,Alternative,Commentator,0,0,0,,{TIME:456081,458625}
-Dialogue: 0,0:07:40.91,0:07:42.08,Default,Hayakawa,0,0,0,,{TIME:460919,462087}
-Dialogue: 0,0:07:42.58,0:07:43.96,Default,Nakazawa,0,0,0,,{TIME:462587,463964}
-Dialogue: 0,0:07:43.96,0:07:46.88,Default,Makimura,0,0,0,,{TIME:463964,466883}
-Dialogue: 0,0:07:46.88,0:07:51.93,Default,Nakazawa,0,0,0,,{TIME:466883,471930}
-Dialogue: 0,0:07:52.34,0:07:54.39,Default,Ayuhara,0,0,0,,{TIME:472347,474391}
-Dialogue: 0,0:07:55.18,0:07:58.35,Default,Mihara,0,0,0,,{TIME:475183,478353}
-Dialogue: 0,0:07:58.60,0:08:01.06,Alternative,Shellenina,0,0,0,,{TIME:478603,481064}
-Dialogue: 0,0:08:01.06,0:08:03.31,Alternative,Shellenina,0,0,0,,{TIME:481064,483316}
-Dialogue: 0,0:08:19.95,0:08:21.54,Default,Matsuyama,0,0,0,,{TIME:499958,501543}
-Dialogue: 0,0:08:25.25,0:08:26.00,Default,Kiyama,0,0,0,,{TIME:505255,506006}
-Dialogue: 0,0:08:27.25,0:08:29.21,Default,Mihara,0,0,0,,{TIME:507257,509217}
-Dialogue: 0,0:08:29.71,0:08:31.51,Default,Kiyama,0,0,0,,{TIME:509718,511511}
-Dialogue: 0,0:08:31.51,0:08:34.09,Default,Ayuhara,0,0,0,,{TIME:511511,514097}
-Dialogue: 0,0:08:34.09,0:08:36.30,Default,Matsuyama,0,0,0,,{TIME:514097,516307}
-Dialogue: 0,0:08:36.30,0:08:38.60,Default,Ayuhara,0,0,0,,{TIME:516307,518601}
-Dialogue: 0,0:08:38.60,0:08:40.22,Default,Matsuyama,0,0,0,,{TIME:518601,520228}
-Dialogue: 0,0:08:40.22,0:08:41.31,Default,(unison),0,0,0,,{TIME:520228,521312}
-Dialogue: 0,0:08:41.31,0:08:42.89,Default,Commentator,0,0,0,,{TIME:521312,522897}
-Dialogue: 0,0:08:42.89,0:08:44.98,Default,Commentator,0,0,0,,{TIME:522897,524983}
-Dialogue: 0,0:08:44.98,0:08:47.36,Alternative,Yushima,0,0,0,,{TIME:524983,527360}
-Dialogue: 0,0:08:47.36,0:08:50.53,Alternative,Yushima,0,0,0,,{TIME:527360,530530}
-Dialogue: 0,0:09:10.13,0:09:10.96,Default,Hayakawa,0,0,0,,{TIME:550133,550967}
-Dialogue: 0,0:09:10.96,0:09:11.84,Default,Makimura,0,0,0,,{TIME:550967,551843}
-Dialogue: 0,0:09:11.84,0:09:12.63,Default,Nakazawa,0,0,0,,{TIME:551843,552635}
-Dialogue: 0,0:09:13.13,0:09:14.59,Default,Hayakawa,0,0,0,,{TIME:553136,554596}
-Dialogue: 0,0:09:23.77,0:09:24.77,Default,Hayakawa,0,0,0,,{TIME:563772,564773}
-Dialogue: 0,0:09:25.56,0:09:27.19,Default,Nakazawa,0,0,0,,{TIME:565565,567192}
-Dialogue: 0,0:09:27.19,0:09:31.02,Default,Nakazawa,0,0,0,,{TIME:567192,571029}
-Dialogue: 0,0:09:31.02,0:09:32.69,Default,Hongou,0,0,0,,{TIME:571029,572697}
-Dialogue: 0,0:09:33.65,0:09:34.40,Default,Inokuma,0,0,0,,{TIME:573656,574407}
-Dialogue: 0,0:09:40.24,0:09:41.33,Default,Yagisawa,0,0,0,,{TIME:580246,581331}
-Dialogue: 0,0:09:42.87,0:09:44.83,Default,Yagisawa,0,0,0,,{TIME:582874,584834}
-Dialogue: 0,0:09:45.16,0:09:46.54,Default,Inokuma,0,0,0,,{TIME:585168,586544}
-Dialogue: 0,0:09:47.29,0:09:48.54,Default,Yagisawa,0,0,0,,{TIME:587295,588546}
-Dialogue: 0,0:09:51.04,0:09:52.00,Default,Kiyama,0,0,0,,{TIME:591049,592008}
-Dialogue: 0,0:09:53.30,0:09:54.51,Default,Inokuma,0,0,0,,{TIME:593301,594511}
-Dialogue: 0,0:09:54.51,0:09:58.26,Default,Mihara,0,0,0,,{TIME:594511,598264}
-Dialogue: 0,0:10:50.48,0:10:53.15,Default,Commentator,0,0,0,,{TIME:650483,653153}
-Dialogue: 0,0:10:53.15,0:10:55.15,Default,Commentator,0,0,0,,{TIME:653153,655155}
-Dialogue: 0,0:11:18.72,0:11:20.76,Default,Commentator,0,0,0,,{TIME:678720,680763}
-Dialogue: 0,0:11:20.76,0:11:23.30,Default,Commentator,0,0,0,,{TIME:680763,683308}
-Dialogue: 0,0:11:23.30,0:11:25.68,Default,Commentator,0,0,0,,{TIME:683308,685685}
-Dialogue: 0,0:11:25.68,0:11:28.81,Default,Commentator,0,0,0,,{TIME:685685,688813}
-Dialogue: 0,0:11:31.02,0:11:32.40,Default,Mihara,0,0,0,,{TIME:691024,692400}
-Dialogue: 0,0:11:32.40,0:11:34.69,Default,Mihara,0,0,0,,{TIME:692400,694694}
-Dialogue: 0,0:11:34.69,0:11:38.11,Default,Mihara,0,0,0,,{TIME:694694,698114}
-Dialogue: 0,0:11:40.40,0:11:41.49,Default,Matsuyama,0,0,0,,{TIME:700408,701492}
-Dialogue: 0,0:11:41.49,0:11:42.66,Default,(unison),0,0,0,,{TIME:701492,702660}
+Dialogue: 0,0:02:01.91,0:02:08.54,Sign,(sign),0,0,0,,{TIME:121913,128545}{\alpha&HFF&\t(500,1000,\alpha&H00&)}Women's World Volleyball\NChampionship Tournament{NOTE:世界女子バレーボールー選手権大会}
+Dialogue: 0,0:02:15.13,0:02:20.76,Default,Commentator,0,0,0,,{TIME:135135,140766}The Volleyball World Championships held in Sofia,\Nthe capital of Bulgaria, are coming to an end.
+Dialogue: 0,0:02:20.76,0:02:23.64,Default,Commentator,0,0,0,,{TIME:140766,143644}We're watching the final match\Nof the women's league.
+Dialogue: 0,0:02:23.64,0:02:29.27,Default,Commentator,0,0,0,,{TIME:143644,149274}A fierce battle on the court between\NJapan and the Soviet Union continues on.
+Dialogue: 0,0:02:29.27,0:02:31.81,Default,Commentator,0,0,0,,{TIME:149274,151818}The Japanese team won the first set.\NThe second went to Russia.
+Dialogue: 0,0:02:31.81,0:02:35.94,Default,Commentator,0,0,0,,{TIME:151818,155947}The Russians haven't been idle in the third set\Nas well and now we have a set point.
+Dialogue: 0,0:02:39.95,0:02:42.37,Default,Commentator,0,0,0,,{TIME:159951,162371}The ball flies in Shellenina's direction.\NWill we see it again?
+Dialogue: 0,0:02:47.37,0:02:50.17,Default,Commentator,0,0,0,,{TIME:167376,170170}Shellenina's powerful somersault\Ncurve spike scores a point.
+Dialogue: 0,0:02:50.17,0:02:52.17,Default,Commentator,0,0,0,,{TIME:170170,172172}The third set\Ngoes to the Russians.
+Dialogue: 0,0:02:52.54,0:02:54.04,Alternative,Ayuhara,0,0,0,,{TIME:172547,174049}What a technique.
+Dialogue: 0,0:02:54.04,0:02:57.55,Alternative,Ayuhara,0,0,0,,{TIME:174049,177552}The only thing that can stop it\Nis something of a comparable caliber.
+Dialogue: 0,0:02:57.55,0:03:01.34,Alternative,Ayuhara,0,0,0,,{TIME:177552,181348}I have to stop Shellenina\Nsomehow, no matter what.
+Dialogue: 0,0:03:04.10,0:03:07.06,Alternative,Ayuhara,0,0,0,,{TIME:184101,187062}No matter what…\NNo matter what!
+Dialogue: 0,0:03:09.52,0:03:10.44,Default,Kiyama,0,0,0,,{TIME:189523,190440}Ayuhara-san?
+Dialogue: 0,0:03:12.81,0:03:13.65,Default,Kiyama,0,0,0,,{TIME:192818,193652}What's wrong?
+Dialogue: 0,0:03:13.65,0:03:16.57,Default,Ayuhara,0,0,0,,{TIME:193652,196571}I just… I just slipped.\NI'm fine.
+Dialogue: 0,0:03:21.28,0:03:23.32,Default,Inokuma,0,0,0,,{TIME:201284,203328}I hope you got the hang\Nof the trajectory already.
+Dialogue: 0,0:03:23.32,0:03:24.37,Default,(unison),0,0,0,,{TIME:203328,204371}Huh?
+Dialogue: 0,0:03:24.37,0:03:26.70,Default,Inokuma,0,0,0,,{TIME:204371,206707}I'm talking about Shellenina's\Nspike, its trajectory.
+Dialogue: 0,0:03:26.70,0:03:28.87,Default,Inokuma,0,0,0,,{TIME:206707,208875}If you understand its trajectory,\Nyou'll receive it.
+Dialogue: 0,0:03:32.92,0:03:33.92,Alternative,Inokuma,0,0,0,,{TIME:212921,213922}Ayuhara…
+Dialogue: 0,0:03:36.92,0:03:39.63,Default,Inokuma,0,0,0,,{TIME:216925,219636}Ayuhara! Come to the bench\Nand rest up for a bit.
+Dialogue: 0,0:03:39.63,0:03:40.84,Default,Ayuhara,0,0,0,,{TIME:219636,220846}B-But I'm okay, really.
+Dialogue: 0,0:03:45.01,0:03:46.76,Default,Inokuma,0,0,0,,{TIME:225016,226768}Okay, girls, sit down with me.
+Dialogue: 0,0:03:51.02,0:03:54.27,Default,Inokuma,0,0,0,,{TIME:231022,234276}It's a strong spike,\Nno doubt about it.
+Dialogue: 0,0:03:54.27,0:03:56.61,Default,Inokuma,0,0,0,,{TIME:234276,236611}It has the speed and the power.
+Dialogue: 0,0:03:58.86,0:04:02.07,Default,Inokuma,0,0,0,,{TIME:238864,242075}But speed and power\Naren't the problem here.
+Dialogue: 0,0:04:02.07,0:04:03.95,Default,Inokuma,0,0,0,,{TIME:242075,243952}All of you know\Nhow to deal with these.
+Dialogue: 0,0:04:03.95,0:04:06.24,Default,Inokuma,0,0,0,,{TIME:243952,246246}It all boils down to the trajectory.\NYou have to know it.
+Dialogue: 0,0:04:06.24,0:04:07.37,Default,(unison),0,0,0,,{TIME:246246,247372}– Yes sir.\N– Yes sir.
+Dialogue: 0,0:04:07.37,0:04:12.00,Default,Inokuma,0,0,0,,{TIME:247372,252002}Unlike in the quick attack, the ball spins\Nfor a while in one place, giving you some time.
+Dialogue: 0,0:04:12.00,0:04:14.42,Default,Inokuma,0,0,0,,{TIME:252002,254421}That moment is enough\Nto predict the trajectory change.
+Dialogue: 0,0:04:14.42,0:04:16.88,Default,Inokuma,0,0,0,,{TIME:254421,256882}And when you know the trajectory,\Nyou only have to cut it.
+Dialogue: 0,0:04:16.88,0:04:18.34,Default,Inokuma,0,0,0,,{TIME:256882,258341}Don't be afraid.
+Dialogue: 0,0:04:18.34,0:04:20.92,Default,Inokuma,0,0,0,,{TIME:258341,260927}There's no way\Nyou can't receive it!
+Dialogue: 0,0:04:20.92,0:04:21.84,Default,Inokuma,0,0,0,,{TIME:260927,261845}Can you do it?
+Dialogue: 0,0:04:21.84,0:04:22.51,Default,(unison),0,0,0,,{TIME:261845,262512}– Yes sir!\N– Yes sir!
+Dialogue: 0,0:04:23.26,0:04:23.97,Default,Inokuma,0,0,0,,{TIME:263263,263972}Good!
+Dialogue: 0,0:04:26.05,0:04:28.35,Default,Inokuma,0,0,0,,{TIME:266057,268351}It's the fourth set.\NShow them what you've got.
+Dialogue: 0,0:04:28.35,0:04:29.22,Default,(unison),0,0,0,,{TIME:268351,269227}– Yes sir!\N– Yes sir!
+Dialogue: 0,0:04:30.89,0:04:32.02,Default,Matsuyama,0,0,0,,{TIME:270896,272022}Let's go!
+Dialogue: 0,0:04:32.02,0:04:33.10,Default,(unison),0,0,0,,{TIME:272022,273106}– Yeah!\N– Yeah!
+Dialogue: 0,0:04:34.44,0:04:36.52,Alternative,Inokuma,0,0,0,,{TIME:274441,276526}Good luck, Ayuhara.
+Dialogue: 0,0:04:38.15,0:04:42.53,Default,Commentator,0,0,0,,{TIME:278153,282532}All people in Japan can follow this encounter\Nas its broadcast via satellite television.
+Dialogue: 0,0:04:43.36,0:04:47.53,Alternative,Commentator,0,0,0,,{TIME:283366,287537}Although Japan has won the first set,\Nthe second and the third went to the Soviet Union.
+Dialogue: 0,0:04:47.53,0:04:51.04,Alternative,Commentator,0,0,0,,{TIME:287537,291041}To stay in the game, Japan has\Nto win the fourth set at all costs.
+Dialogue: 0,0:04:51.04,0:04:54.75,Alternative,Commentator,0,0,0,,{TIME:291041,294753}Only after we get to the final set,\Nwe'll stand a chance.
+Dialogue: 0,0:04:56.08,0:04:58.29,Default,Nakazawa,0,0,0,,{TIME:296087,298298}I can't bear it anymore.
+Dialogue: 0,0:04:58.29,0:04:59.67,Default,Nakazawa,0,0,0,,{TIME:298298,299674}Hang in there, Chief!
+Dialogue: 0,0:05:01.46,0:05:03.09,Default,Makimura,0,0,0,,{TIME:301468,303094}Ayuhara-san, you can do it!
+Dialogue: 0,0:05:03.84,0:05:05.18,Default,Hayakawa,0,0,0,,{TIME:303845,305180}Kozue…
+Dialogue: 0,0:05:05.51,0:05:09.26,Alternative,Hongou,0,0,0,,{TIME:305514,309267}Inokuma must've given them clues\Nhow to receive Shellenina's spike.
+Dialogue: 0,0:05:09.26,0:05:11.14,Alternative,Hongou,0,0,0,,{TIME:309267,311144}But Ayuhara's…
+Dialogue: 0,0:05:12.68,0:05:15.02,Alternative,Commentator,0,0,0,,{TIME:312687,315023}Finally, the fourth set\Nhas just begun!
+Dialogue: 0,0:05:15.35,0:05:17.73,Alternative,Hongou,0,0,0,,{TIME:315357,317734}Ayuhara's tired.\NShe's getting sloppy.
+Dialogue: 0,0:05:17.73,0:05:19.27,Alternative,Hongou,0,0,0,,{TIME:317734,319277}I hope she recovers soon.
+Dialogue: 0,0:05:19.27,0:05:21.53,Alternative,Hongou,0,0,0,,{TIME:319277,321530}Inokuma must be\Nwell aware of it, but still…
+Dialogue: 0,0:05:29.57,0:05:31.91,Alternative,Ayuhara,0,0,0,,{TIME:329579,331915}If we lose this set,\Neverything is over.
+Dialogue: 0,0:05:31.91,0:05:33.37,Alternative,Ayuhara,0,0,0,,{TIME:331915,333375}We have to make\Na breakthrough.
+Dialogue: 0,0:05:33.37,0:05:36.62,Alternative,Ayuhara,0,0,0,,{TIME:333375,336628}To make that breakthrough,\NI have to come up with a new technique.
+Dialogue: 0,0:05:49.05,0:05:50.10,Alternative,Yushima,0,0,0,,{TIME:349057,350100}Ayuhara-kun.
+Dialogue: 0,0:05:50.10,0:05:52.93,Alternative,Yushima,0,0,0,,{TIME:350100,352936}I hope this at least\Nyou some clue.
+Dialogue: 0,0:05:54.64,0:05:58.23,Alternative,Ayuhara,0,0,0,,{TIME:354646,358233}I have to find a way to play Yushima-san's\Nspike and make it stronger.
+Dialogue: 0,0:06:02.57,0:06:04.40,Alternative,Ayuhara,0,0,0,,{TIME:362571,364406}What to do?\NWhat do I do?
+Dialogue: 0,0:06:05.36,0:06:06.24,Default,(unknown),0,0,0,,{TIME:365365,366241}Ayuhara-san!
+Dialogue: 0,0:06:11.95,0:06:15.66,Alternative,Shellenina,0,0,0,,{TIME:371955,375667}Ayuhara, that technique just now\Nwasn't the tornado drop.
+Dialogue: 0,0:06:15.66,0:06:18.50,Alternative,Shellenina,0,0,0,,{TIME:375667,378503}Which one is better,\Nyours or mine?
+Dialogue: 0,0:06:18.50,0:06:21.67,Alternative,Shellenina,0,0,0,,{TIME:378503,381673}This set will resolve everything.
+Dialogue: 0,0:06:22.50,0:06:24.21,Default,Kiyama,0,0,0,,{TIME:382507,384217}Don't mind, don't mind.
+Dialogue: 0,0:06:24.21,0:06:25.55,Default,Kiyama,0,0,0,,{TIME:384217,385552}Don't let it get to you.
+Dialogue: 0,0:06:25.55,0:06:26.13,Default,Ayuhara,0,0,0,,{TIME:385552,386136}Yeah.
+Dialogue: 0,0:06:26.34,0:06:27.09,Default,Matsuyama,0,0,0,,{TIME:386344,387095}Fight!
+Dialogue: 0,0:06:27.09,0:06:28.13,Default,(unison),0,0,0,,{TIME:387095,388138}– Yeah!\N– Yeah!
+Dialogue: 0,0:06:43.36,0:06:44.27,Default,Commentator,0,0,0,,{TIME:403361,404279}A successful reception!
+Dialogue: 0,0:06:44.27,0:06:47.03,Default,Commentator,0,0,0,,{TIME:404279,407032}Captain Matsuyama received\NShellenina's spike!
+Dialogue: 0,0:06:48.45,0:06:50.86,Default,Commentator,0,0,0,,{TIME:408450,410869}Yamagami saves the ball\Nwith a skillful toss!
+Dialogue: 0,0:06:53.53,0:06:56.58,Default,Commentator,0,0,0,,{TIME:413538,416583}What a skill!\NKiyama's feint scores a point!
+Dialogue: 0,0:06:58.41,0:07:01.75,Default,Commentator,0,0,0,,{TIME:418418,421755}Matsuyama · Yagamami duo\Nmakes a comeback of the Japanese team!
+Dialogue: 0,0:07:01.75,0:07:05.25,Alternative,Ayuhara,0,0,0,,{TIME:421755,425258}Good. I'll play with\Neverything I have, too.
+Dialogue: 0,0:07:06.80,0:07:08.63,Default,Commentator,0,0,0,,{TIME:426801,428637}Furumoto's curve ball serve!
+Dialogue: 0,0:07:08.63,0:07:10.22,Default,Commentator,0,0,0,,{TIME:428637,430221}It flies up high!
+Dialogue: 0,0:07:16.85,0:07:17.93,Default,Commentator,0,0,0,,{TIME:436853,437938}A chance for Japan!
+Dialogue: 0,0:07:18.93,0:07:19.89,Default,(mixed,0,0,0,,{TIME:438939,439898}– Ayuhara-san!\N– Got it!
+Dialogue: 0,0:07:20.23,0:07:21.35,Default,Inokuma,0,0,0,,{TIME:440231,441358}Oh! Don't do this!
+Dialogue: 0,0:07:26.57,0:07:27.73,Default,Hayakawa,0,0,0,,{TIME:446571,447739}Kozue!
+Dialogue: 0,0:07:31.53,0:07:36.08,Alternative,Commentator,0,0,0,,{TIME:451534,456081}Ayuhara's excellent spike scores, but she's\Nlost her balance and fell unluckily on the court.
+Dialogue: 0,0:07:36.08,0:07:38.62,Alternative,Commentator,0,0,0,,{TIME:456081,458625}She seems to be fine, though!\NShe already stood up.
+Dialogue: 0,0:07:40.91,0:07:42.08,Default,Hayakawa,0,0,0,,{TIME:460919,462087}Thank goodness.
+Dialogue: 0,0:07:42.58,0:07:43.96,Default,Nakazawa,0,0,0,,{TIME:462587,463964}That's our Chief!
+Dialogue: 0,0:07:43.96,0:07:46.88,Default,Makimura,0,0,0,,{TIME:463964,466883}But that landing looked terrible.
+Dialogue: 0,0:07:46.88,0:07:51.93,Default,Nakazawa,0,0,0,,{TIME:466883,471930}She'll be fine, that's Chief we're\Ntalking about! She's made of steel!
+Dialogue: 0,0:07:52.34,0:07:54.39,Default,Ayuhara,0,0,0,,{TIME:472347,474391}I'm sorry. I'm fine.
+Dialogue: 0,0:07:55.18,0:07:58.35,Default,Mihara,0,0,0,,{TIME:475183,478353}Coach, are you sure to keep\NAyuhara-san on the court?
+Dialogue: 0,0:07:58.60,0:08:01.06,Alternative,Shellenina,0,0,0,,{TIME:478603,481064}That was your new\Nmiracle ball, Ayuhara?
+Dialogue: 0,0:08:01.06,0:08:03.31,Alternative,Shellenina,0,0,0,,{TIME:481064,483316}But I won't lose to you.\NI won't lose to you, Ayuhara.
+Dialogue: 0,0:08:19.95,0:08:21.54,Default,Matsuyama,0,0,0,,{TIME:499958,501543}Oh! Ayuhara-san?!
+Dialogue: 0,0:08:25.25,0:08:26.00,Default,Kiyama,0,0,0,,{TIME:505255,506006}Ayuhara-san!
+Dialogue: 0,0:08:27.25,0:08:29.21,Default,Mihara,0,0,0,,{TIME:507257,509217}Coach…
+Dialogue: 0,0:08:29.71,0:08:31.51,Default,Kiyama,0,0,0,,{TIME:509718,511511}Are you okay?
+Dialogue: 0,0:08:31.51,0:08:34.09,Default,Ayuhara,0,0,0,,{TIME:511511,514097}I'm sorry. I'll receive it\Nnext time for sure.
+Dialogue: 0,0:08:34.09,0:08:36.30,Default,Matsuyama,0,0,0,,{TIME:514097,516307}Ayuhara-san, you…
+Dialogue: 0,0:08:36.30,0:08:38.60,Default,Ayuhara,0,0,0,,{TIME:516307,518601}I'm okay, Captain.\NIt's nothing, really.
+Dialogue: 0,0:08:38.60,0:08:40.22,Default,Matsuyama,0,0,0,,{TIME:518601,520228}Very well. Let's go!
+Dialogue: 0,0:08:40.22,0:08:41.31,Default,(unison),0,0,0,,{TIME:520228,521312}– Fight!\N– Fight!
+Dialogue: 0,0:08:41.31,0:08:42.89,Default,Commentator,0,0,0,,{TIME:521312,522897}Ayuhara stands up again.
+Dialogue: 0,0:08:42.89,0:08:44.98,Default,Commentator,0,0,0,,{TIME:522897,524983}But still, what a play it was!
+Dialogue: 0,0:08:44.98,0:08:47.36,Alternative,Yushima,0,0,0,,{TIME:524983,527360}No, this is not good.\NDon't exert yourself.
+Dialogue: 0,0:08:47.36,0:08:50.53,Alternative,Yushima,0,0,0,,{TIME:527360,530530}You need all of your energy\Nfor the new spike.
+Dialogue: 0,0:09:10.13,0:09:10.96,Default,Hayakawa,0,0,0,,{TIME:550133,550967}Kozue…
+Dialogue: 0,0:09:10.96,0:09:11.84,Default,Makimura,0,0,0,,{TIME:550967,551843}Ayuhara-san!
+Dialogue: 0,0:09:11.84,0:09:12.63,Default,Nakazawa,0,0,0,,{TIME:551843,552635}Chief…
+Dialogue: 0,0:09:13.13,0:09:14.59,Default,Hayakawa,0,0,0,,{TIME:553136,554596}Kozue!
+Dialogue: 0,0:09:23.77,0:09:24.77,Default,Hayakawa,0,0,0,,{TIME:563772,564773}Kozue?
+Dialogue: 0,0:09:25.56,0:09:27.19,Default,Nakazawa,0,0,0,,{TIME:565565,567192}Stop it, Chief!
+Dialogue: 0,0:09:27.19,0:09:31.02,Default,Nakazawa,0,0,0,,{TIME:567192,571029}What are we going to do without\Nour Captain? Come on, Chief!
+Dialogue: 0,0:09:31.02,0:09:32.69,Default,Hongou,0,0,0,,{TIME:571029,572697}Hey, don't panic.
+Dialogue: 0,0:09:33.65,0:09:34.40,Default,Inokuma,0,0,0,,{TIME:573656,574407}Time!
+Dialogue: 0,0:09:40.24,0:09:41.33,Default,Yagisawa,0,0,0,,{TIME:580246,581331}Ayuhara-san?
+Dialogue: 0,0:09:42.87,0:09:44.83,Default,Yagisawa,0,0,0,,{TIME:582874,584834}Ayuhara-san,\Nare you alright?
+Dialogue: 0,0:09:45.16,0:09:46.54,Default,Inokuma,0,0,0,,{TIME:585168,586544}Yagisawa! Switch her.
+Dialogue: 0,0:09:47.29,0:09:48.54,Default,Yagisawa,0,0,0,,{TIME:587295,588546}Yes sir!
+Dialogue: 0,0:09:51.04,0:09:52.00,Default,Kiyama,0,0,0,,{TIME:591049,592008}Ayuhara-san…
+Dialogue: 0,0:09:53.30,0:09:54.51,Default,Inokuma,0,0,0,,{TIME:593301,594511}How is she, Mihara-san?
+Dialogue: 0,0:09:54.51,0:09:58.26,Default,Mihara,0,0,0,,{TIME:594511,598264}I'm not sure yet.\NAt any rate, she has to rest.
+Dialogue: 0,0:10:50.48,0:10:55.15,Default,Commentator,0,0,0,,{TIME:650483,655155}The Japanese team has greatly mobilized\Nin the fourth set, pressuring their opponents.
+Dialogue: 0,0:11:18.72,0:11:20.76,Default,Commentator,0,0,0,,{TIME:678720,680763}A good back feint\Nfrom Yamagami.
+Dialogue: 0,0:11:20.76,0:11:23.30,Default,Commentator,0,0,0,,{TIME:680763,683308}The Japanese team\Nplays like born anew.
+Dialogue: 0,0:11:23.30,0:11:25.68,Default,Commentator,0,0,0,,{TIME:683308,685685}They managed\Nto regain the lead.
+Dialogue: 0,0:11:25.68,0:11:28.81,Default,Commentator,0,0,0,,{TIME:685685,688813}With a little luck,\Nwe'll qualify for the final set.
+Dialogue: 0,0:11:31.02,0:11:32.40,Default,Mihara,0,0,0,,{TIME:691024,692400}She's not hurt.
+Dialogue: 0,0:11:32.40,0:11:34.69,Default,Mihara,0,0,0,,{TIME:692400,694694}But she's exhausted, so…
+Dialogue: 0,0:11:34.69,0:11:38.11,Default,Mihara,0,0,0,,{TIME:694694,698114}I think we should let her rest up\Nfor a while, then she'll be fine.
+Dialogue: 0,0:11:40.40,0:11:41.49,Default,Matsuyama,0,0,0,,{TIME:700408,701492}Fight!
+Dialogue: 0,0:11:41.49,0:11:42.66,Default,(unison),0,0,0,,{TIME:701492,702660}– Yeah!\N– Yeah!
 Comment: 0,0:11:53.54,0:11:53.54,Default,[chapter],0,0,0,,{TIME:713546,713546}Part B
-Dialogue: 0,0:12:52.43,0:12:53.73,Default,Ayuhara,0,0,0,,{TIME:772438,773731}
-Dialogue: 0,0:12:53.73,0:12:59.44,Alternative,Ichinose,0,0,0,,{TIME:773731,779445}
-Dialogue: 0,0:12:59.44,0:13:01.69,Alternative,Ichinose,0,0,0,,{TIME:779445,781698}
-Dialogue: 0,0:13:01.69,0:13:07.24,Alternative,Ichinose,0,0,0,,{TIME:781698,787245}
-Dialogue: 0,0:13:07.24,0:13:09.20,Default,Ayuhara,0,0,0,,{TIME:787245,789205}
-Dialogue: 0,0:13:12.41,0:13:13.62,Default,Ayuhara,0,0,0,,{TIME:792417,793626}
-Dialogue: 0,0:13:24.76,0:13:26.97,Default,Commentator,0,0,0,,{TIME:804762,806973}
-Dialogue: 0,0:13:33.56,0:13:34.64,Default,Inokuma,0,0,0,,{TIME:813563,814647}
-Dialogue: 0,0:13:34.64,0:13:36.39,Default,(unison),0,0,0,,{TIME:814647,816399}
-Dialogue: 0,0:13:36.39,0:13:37.98,Default,Ayuhara,0,0,0,,{TIME:816399,817984}
-Dialogue: 0,0:13:44.03,0:13:45.03,Default,Inokuma,0,0,0,,{TIME:824032,825033}
-Dialogue: 0,0:13:45.03,0:13:47.45,Default,Inokuma,0,0,0,,{TIME:825033,827452}
-Dialogue: 0,0:13:47.45,0:13:48.24,Default,Ayuhara,0,0,0,,{TIME:827452,828244}
-Dialogue: 0,0:13:51.58,0:13:53.79,Alternative,Commentator,0,0,0,,{TIME:831581,833791}
-Dialogue: 0,0:13:53.79,0:13:56.54,Alternative,Commentator,0,0,0,,{TIME:833791,836544}
-Dialogue: 0,0:13:56.54,0:13:59.17,Alternative,Commentator,0,0,0,,{TIME:836544,839172}
-Dialogue: 0,0:14:00.00,0:14:01.21,Default,Hayakawa,0,0,0,,{TIME:840006,841215}
-Dialogue: 0,0:14:01.88,0:14:03.38,Default,Hayakawa,0,0,0,,{TIME:841883,843384}
-Dialogue: 0,0:14:03.38,0:14:05.97,Default,Nakazawa,0,0,0,,{TIME:843384,845970}
-Dialogue: 0,0:14:05.97,0:14:07.88,Default,Makimura,0,0,0,,{TIME:845970,847889}
-Dialogue: 0,0:14:07.88,0:14:09.89,Default,Hayakawa,0,0,0,,{TIME:847889,849891}
-Dialogue: 0,0:14:13.93,0:14:15.89,Default,Hayakawa,0,0,0,,{TIME:853936,855897}
-Dialogue: 0,0:14:15.89,0:14:16.56,Default,Hayakawa,0,0,0,,{TIME:855897,856564}
-Dialogue: 0,0:14:23.78,0:14:24.78,Default,Shellenina,0,0,0,,{TIME:863780,864781}
-Dialogue: 0,0:15:17.08,0:15:19.79,Default,(audience),0,0,0,,{TIME:917083,919794}
-Dialogue: 0,0:15:19.79,0:15:21.17,Default,(audience),0,0,0,,{TIME:919794,921170}
-Dialogue: 0,0:15:21.46,0:15:23.33,Alternative,Inokuma,0,0,0,,{TIME:921462,923339}
-Dialogue: 0,0:15:23.33,0:15:25.13,Alternative,Inokuma,0,0,0,,{TIME:923339,925133}
-Dialogue: 0,0:15:26.05,0:15:28.26,Alternative,Yushima,0,0,0,,{TIME:926050,928261}
-Dialogue: 0,0:15:28.26,0:15:29.59,Alternative,Yushima,0,0,0,,{TIME:928261,929595}
-Dialogue: 0,0:16:27.57,0:16:28.90,Default,Nakazawa,0,0,0,,{TIME:987570,988905}
-Dialogue: 0,0:16:28.90,0:16:31.74,Default,Makimura,0,0,0,,{TIME:988905,991741}
-Dialogue: 0,0:16:31.74,0:16:33.03,Default,Nakazawa,0,0,0,,{TIME:991741,993034}
-Dialogue: 0,0:16:35.62,0:16:37.20,Default,Commentator,0,0,0,,{TIME:995620,997205}
-Dialogue: 0,0:16:48.09,0:16:49.80,Default,Nakazawa,0,0,0,,{TIME:1008090,1009800}
-Dialogue: 0,0:16:49.80,0:16:52.22,Default,Makimura,0,0,0,,{TIME:1009800,1012220}
-Dialogue: 0,0:16:52.22,0:16:53.67,Default,Nakazawa,0,0,0,,{TIME:1012220,1013679}
-Dialogue: 0,0:16:55.68,0:16:59.10,Alternative,Commentator,0,0,0,,{TIME:1015681,1019101}
-Dialogue: 0,0:17:03.56,0:17:05.98,Alternative,Commentator,0,0,0,,{TIME:1023564,1025983}
-Dialogue: 0,0:17:05.98,0:17:08.48,Alternative,Commentator,0,0,0,,{TIME:1025983,1028486}
-Dialogue: 0,0:17:08.48,0:17:11.23,Alternative,Commentator,0,0,0,,{TIME:1028486,1031239}
-Dialogue: 0,0:17:11.23,0:17:13.53,Alternative,Commentator,0,0,0,,{TIME:1031239,1033533}
-Dialogue: 0,0:17:58.49,0:18:00.66,Default,Commentator,0,0,0,,{TIME:1078494,1080663}
-Dialogue: 0,0:18:19.55,0:18:22.31,Default,Ayuhara,0,0,0,,{TIME:1099557,1102310}
-Dialogue: 0,0:18:27.10,0:18:28.94,Default,Commentator,0,0,0,,{TIME:1107106,1108941}
-Dialogue: 0,0:18:28.94,0:18:32.44,Default,Commentator,0,0,0,,{TIME:1108941,1112445}
-Dialogue: 0,0:18:32.44,0:18:35.15,Alternative,Commentator,0,0,0,,{TIME:1112445,1115156}
-Dialogue: 0,0:18:35.15,0:18:37.95,Default,Sophia,0,0,0,,{TIME:1115156,1117950}
-Dialogue: 0,0:18:57.38,0:18:58.97,Default,Shellenina,0,0,0,,{TIME:1137386,1138971}
-Dialogue: 0,0:18:58.97,0:19:00.34,Default,Ayuhara,0,0,0,,{TIME:1138971,1140348}
-Dialogue: 0,0:19:03.76,0:19:07.02,Default,Commentator,0,0,0,,{TIME:1143768,1147021}
-Dialogue: 0,0:19:07.02,0:19:08.77,Default,Commentator,0,0,0,,{TIME:1147021,1148773}
-Dialogue: 0,0:19:08.77,0:19:12.73,Default,Commentator,0,0,0,,{TIME:1148773,1152735}
-Dialogue: 0,0:19:12.73,0:19:17.86,Default,Commentator,0,0,0,,{TIME:1152735,1157865}
-Dialogue: 0,0:19:17.86,0:19:21.95,Default,Commentator,0,0,0,,{TIME:1157865,1161952}
-Dialogue: 0,0:19:24.45,0:19:26.24,Default,Commentator,0,0,0,,{TIME:1164455,1166248}
-Dialogue: 0,0:19:26.24,0:19:30.08,Default,Commentator,0,0,0,,{TIME:1166248,1170086}
-Dialogue: 0,0:19:30.08,0:19:34.88,Default,Commentator,0,0,0,,{TIME:1170086,1174882}
-Dialogue: 0,0:19:34.88,0:19:37.46,Default,Commentator,0,0,0,,{TIME:1174882,1177468}
-Dialogue: 0,0:19:37.46,0:19:40.97,Default,Commentator,0,0,0,,{TIME:1177468,1180971}
-Dialogue: 0,0:19:40.97,0:19:45.47,Default,Commentator,0,0,0,,{TIME:1180971,1185476}
-Dialogue: 0,0:19:47.43,0:19:48.72,Default,Ayuhara's mom,0,0,0,,{TIME:1187436,1188729}
-Dialogue: 0,0:19:49.56,0:19:55.06,Alternative,Commentator,0,0,0,,{TIME:1189563,1195069}
-Dialogue: 0,0:19:55.06,0:19:59.57,Default,Ayuhara's mom,0,0,0,,{TIME:1195069,1199573}
-Dialogue: 0,0:20:05.20,0:20:07.62,Default,Commentator,0,0,0,,{TIME:1205204,1207623}
-Dialogue: 0,0:20:07.62,0:20:12.54,Default,Commentator,0,0,0,,{TIME:1207623,1212545}
-Dialogue: 0,0:20:19.00,0:20:22.68,Default,Commentator,0,0,0,,{TIME:1219009,1222680}
-Dialogue: 0,0:20:22.68,0:20:24.93,Default,Commentator,0,0,0,,{TIME:1222680,1224932}
-Dialogue: 0,0:20:24.93,0:20:27.89,Default,Commentator,0,0,0,,{TIME:1224932,1227893}
-Dialogue: 0,0:20:27.89,0:20:32.23,Default,Commentator,0,0,0,,{TIME:1227893,1232231}
-Dialogue: 0,0:20:32.23,0:20:36.23,Default,Announcer,0,0,0,,{TIME:1232231,1236235}
-Dialogue: 0,0:20:36.23,0:20:40.90,Default,Commentator,0,0,0,,{TIME:1236235,1240906}
-Dialogue: 0,0:20:41.74,0:20:45.41,Default,Commentator,0,0,0,,{TIME:1241741,1245411}
-Dialogue: 0,0:20:45.41,0:20:49.49,Alternative,Yushima,0,0,0,,{TIME:1245411,1249498}
-Dialogue: 0,0:20:49.49,0:20:52.20,Default,Ayuhara,0,0,0,,{TIME:1249498,1252209}
-Dialogue: 0,0:20:52.54,0:20:55.17,Default,Announcer,0,0,0,,{TIME:1252543,1255171}
-Dialogue: 0,0:21:02.63,0:21:05.51,Default,Shellenina,0,0,0,,{TIME:1262636,1265514}
-Dialogue: 0,0:21:08.35,0:21:11.52,Default,Commentator,0,0,0,,{TIME:1268350,1271520}
-Dialogue: 0,0:21:11.52,0:21:14.98,Default,Commentator,0,0,0,,{TIME:1271520,1274982}
-Dialogue: 0,0:21:18.48,0:21:20.32,Default,Nakazawa,0,0,0,,{TIME:1278486,1280321}
-Dialogue: 0,0:21:22.44,0:21:24.11,Default,Hayakawa,0,0,0,,{TIME:1282448,1284116}
-Dialogue: 0,0:21:29.24,0:21:33.58,Default,Commentator,0,0,0,,{TIME:1289246,1293584}
-Dialogue: 0,0:21:33.58,0:21:38.79,Default,Commentator,0,0,0,,{TIME:1293584,1298798}
-Dialogue: 0,0:23:24.44,0:23:26.61,Alternative,Ayuhara,0,0,0,,{TIME:1404445,1406614}
-Dialogue: 0,0:23:26.61,0:23:31.74,Alternative,Ayuhara,0,0,0,,{TIME:1406614,1411744}
-Dialogue: 0,0:23:31.74,0:23:34.87,Alternative,Ayuhara,0,0,0,,{TIME:1411744,1414872}
-Dialogue: 0,0:23:34.87,0:23:37.95,Alternative,Ayuhara,0,0,0,,{TIME:1414872,1417958}
-Dialogue: 0,0:23:37.95,0:23:40.87,Alternative,Ayuhara,0,0,0,,{TIME:1417958,1420878}
-Dialogue: 0,0:23:40.87,0:23:43.25,Alternative,Ayuhara,0,0,0,,{TIME:1420878,1423255}
-Dialogue: 0,0:23:47.05,0:23:53.89,Sign,(sign),0,0,0,,{TIME:1427051,1433891}
+Dialogue: 0,0:12:52.43,0:12:53.73,Default,Ayuhara,0,0,0,,{TIME:772438,773731}Tsutomu-kun!
+Dialogue: 0,0:12:53.73,0:12:59.44,Alternative,Ichinose,0,0,0,,{TIME:773731,779445}When things get bad, when it's too painful, I think\Nof you constantly challenging herself, Kozue-kun.
+Dialogue: 0,0:12:59.44,0:13:01.69,Alternative,Ichinose,0,0,0,,{TIME:779445,781698}Let's do our best\Ntogether, Kozue-kun.
+Dialogue: 0,0:13:01.69,0:13:07.24,Alternative,Ichinose,0,0,0,,{TIME:781698,787245}Keep walking your path\Nand become world's Attack No. 1.
+Dialogue: 0,0:13:07.24,0:13:09.20,Default,Ayuhara,0,0,0,,{TIME:787245,789205}World's Attack No. 1…
+Dialogue: 0,0:13:12.41,0:13:13.62,Default,Ayuhara,0,0,0,,{TIME:792417,793626}Ah! Tsutomu-kun!
+Dialogue: 0,0:13:24.76,0:13:26.97,Default,Commentator,0,0,0,,{TIME:804762,806973}Japan seizes the fourth set!
+Dialogue: 0,0:13:33.56,0:13:34.64,Default,Inokuma,0,0,0,,{TIME:813563,814647}Ayuhara…
+Dialogue: 0,0:13:34.64,0:13:36.39,Default,(unison),0,0,0,,{TIME:814647,816399}– Ayuhara-san?!\N– Ayuhara-san?
+Dialogue: 0,0:13:36.39,0:13:37.98,Default,Ayuhara,0,0,0,,{TIME:816399,817984}Coach.
+Dialogue: 0,0:13:44.03,0:13:45.03,Default,Inokuma,0,0,0,,{TIME:824032,825033}It's the final set.
+Dialogue: 0,0:13:45.03,0:13:47.45,Default,Inokuma,0,0,0,,{TIME:825033,827452}Are you up to it, Ayuhara?
+Dialogue: 0,0:13:47.45,0:13:48.24,Default,Ayuhara,0,0,0,,{TIME:827452,828244}Yes sir.
+Dialogue: 0,0:13:51.58,0:13:53.79,Alternative,Commentator,0,0,0,,{TIME:831581,833791}Japan vs. the Soviet Union.\NThe fifth set.
+Dialogue: 0,0:13:53.79,0:13:56.54,Alternative,Commentator,0,0,0,,{TIME:833791,836544}This is the final set\Nthat decides everything.
+Dialogue: 0,0:13:56.54,0:13:59.17,Alternative,Commentator,0,0,0,,{TIME:836544,839172}Both teams are\Nentering the court.
+Dialogue: 0,0:14:00.00,0:14:01.21,Default,Hayakawa,0,0,0,,{TIME:840006,841215}Kozue!
+Dialogue: 0,0:14:01.88,0:14:03.38,Default,Hayakawa,0,0,0,,{TIME:841883,843384}Kozue!
+Dialogue: 0,0:14:03.38,0:14:05.97,Default,Nakazawa,0,0,0,,{TIME:843384,845970}It wouldn't be the same\Nwithout Chief. Show them!
+Dialogue: 0,0:14:05.97,0:14:07.88,Default,Makimura,0,0,0,,{TIME:845970,847889}Good luck, Ayuhara-san.
+Dialogue: 0,0:14:07.88,0:14:09.89,Default,Hayakawa,0,0,0,,{TIME:847889,849891}Kozue.
+Dialogue: 0,0:14:13.93,0:14:15.89,Default,Hayakawa,0,0,0,,{TIME:853936,855897}Kozue, do your best.
+Dialogue: 0,0:14:15.89,0:14:16.56,Default,Hayakawa,0,0,0,,{TIME:855897,856564}Do your best!
+Dialogue: 0,0:14:23.78,0:14:24.78,Default,Shellenina,0,0,0,,{TIME:863780,864781}Ayuhara.
+Dialogue: 0,0:15:17.08,0:15:19.79,Default,(audience),0,0,0,,{TIME:917083,919794}Ayuhara! Good going!
+Dialogue: 0,0:15:19.79,0:15:21.17,Default,(audience),0,0,0,,{TIME:919794,921170}Great! Ayuhara!
+Dialogue: 0,0:15:21.46,0:15:25.13,Alternative,Inokuma,0,0,0,,{TIME:921462,925133}Yes. That's how you play. Just thinking\Nabout hitting the ball and nothing else.
+Dialogue: 0,0:15:26.05,0:15:28.26,Alternative,Yushima,0,0,0,,{TIME:926050,928261}That's right.\NAyuhara-kun, that's enough.
+Dialogue: 0,0:15:28.26,0:15:29.59,Alternative,Yushima,0,0,0,,{TIME:928261,929595}Don't think about\Nnew techniques.
+Dialogue: 0,0:16:27.57,0:16:28.90,Default,Nakazawa,0,0,0,,{TIME:987570,988905}What's wrong, Chief?
+Dialogue: 0,0:16:28.90,0:16:31.74,Default,Makimura,0,0,0,,{TIME:988905,991741}Ayuhara-san, hang in there!\NAyuhara-san!
+Dialogue: 0,0:16:31.74,0:16:33.03,Default,Nakazawa,0,0,0,,{TIME:991741,993034}Show them, Chief!
+Dialogue: 0,0:16:35.62,0:16:37.20,Default,Commentator,0,0,0,,{TIME:995620,997205}The Russians gain a lead\Nby one point.
+Dialogue: 0,0:16:48.09,0:16:49.80,Default,Nakazawa,0,0,0,,{TIME:1008090,1009800}Come on, Chief.
+Dialogue: 0,0:16:49.80,0:16:52.22,Default,Makimura,0,0,0,,{TIME:1009800,1012220}Pull yourself together,\NAyuhara-san!
+Dialogue: 0,0:16:52.22,0:16:53.67,Default,Nakazawa,0,0,0,,{TIME:1012220,1013679}Hold on, Chief!
+Dialogue: 0,0:16:55.68,0:16:59.10,Alternative,Commentator,0,0,0,,{TIME:1015681,1019101}You can see that this is the final match.\NBoth teams play very passionately.
+Dialogue: 0,0:17:03.56,0:17:08.48,Alternative,Commentator,0,0,0,,{TIME:1023564,1028486}Each time the Japanese score a point,\Nthe Russians catch up. It's like a game of tag.
+Dialogue: 0,0:17:08.48,0:17:11.23,Alternative,Commentator,0,0,0,,{TIME:1028486,1031239}Both teams desperately fight\Nfor the right to serve.
+Dialogue: 0,0:17:11.23,0:17:13.53,Alternative,Commentator,0,0,0,,{TIME:1031239,1033533}Fight, Japan!\NFight, Russia!
+Dialogue: 0,0:17:58.49,0:18:00.66,Default,Commentator,0,0,0,,{TIME:1078494,1080663}It's a match point for Japan!
+Dialogue: 0,0:18:19.55,0:18:22.31,Default,Ayuhara,0,0,0,,{TIME:1099557,1102310}Attack!
+Dialogue: 0,0:18:27.10,0:18:28.94,Default,Commentator,0,0,0,,{TIME:1107106,1108941}We win!\NJapan won the match!
+Dialogue: 0,0:18:28.94,0:18:31.77,Default,Commentator,0,0,0,,{TIME:1108941,1111777}The Japanese women's team\Nwon the World Championships!
+Dialogue: 0,0:18:31.77,0:18:32.44,Alternative,Commentator,0,0,0,,{TIME:1111777,1112445}The Japanese women's team\Nwon the World Championships!
+Dialogue: 0,0:18:32.44,0:18:35.15,Alternative,Commentator,0,0,0,,{TIME:1112445,1115156}Ayuhara's final spike\Nhas defeated the Soviet Union!
+Dialogue: 0,0:18:35.15,0:18:37.95,Default,Sophia,0,0,0,,{TIME:1115156,1117950}Ayuhara! Ayuhara!
+Dialogue: 0,0:18:57.38,0:18:58.97,Default,Shellenina,0,0,0,,{TIME:1137386,1138971}Ayuhara…
+Dialogue: 0,0:18:58.97,0:19:00.34,Default,Ayuhara,0,0,0,,{TIME:1138971,1140348}Shellenina.
+Dialogue: 0,0:19:03.76,0:19:07.02,Default,Commentator,0,0,0,,{TIME:1143768,1147021}The Japanese team wins the\NWomen's Volleyball World Championship.
+Dialogue: 0,0:19:07.02,0:19:08.77,Default,Commentator,0,0,0,,{TIME:1147021,1148773}Every player gets rewarded\Nwith a gold medal.
+Dialogue: 0,0:19:08.77,0:19:12.73,Default,Commentator,0,0,0,,{TIME:1148773,1152735}It took a lot of hardship and a lot of sacrifices\Nto achieve what the girls just have.
+Dialogue: 0,0:19:12.73,0:19:17.86,Default,Commentator,0,0,0,,{TIME:1152735,1157865}They have worked hard for a long time\Nfor this very moment.
+Dialogue: 0,0:19:17.86,0:19:21.95,Default,Commentator,0,0,0,,{TIME:1157865,1161952}The gold medals shine beautifully\Non the girls' chests.
+Dialogue: 0,0:19:24.45,0:19:26.24,Default,Commentator,0,0,0,,{TIME:1164455,1166248}Congratulations, Japan.
+Dialogue: 0,0:19:26.24,0:19:30.08,Default,Commentator,0,0,0,,{TIME:1166248,1170086}There's no stopping of the tremendous\Napplause from the audience.
+Dialogue: 0,0:19:30.08,0:19:37.46,Default,Commentator,0,0,0,,{TIME:1170086,1177468}Captain Matsuyama and each of her players have\Ndemonstrated thorough training and fought like lions.
+Dialogue: 0,0:19:37.46,0:19:40.97,Default,Commentator,0,0,0,,{TIME:1177468,1180971}Especially No. 12, Ayuhara Kozue,\Nwho deserves special attention.
+Dialogue: 0,0:19:40.97,0:19:45.47,Default,Commentator,0,0,0,,{TIME:1180971,1185476}She was the decisive player\Ndespite being the youngest on the team.
+Dialogue: 0,0:19:47.43,0:19:48.72,Default,Ayuhara's mom,0,0,0,,{TIME:1187436,1188729}Kozue…
+Dialogue: 0,0:19:49.56,0:19:54.73,Alternative,Commentator,0,0,0,,{TIME:1189563,1194735}It won't be an exaggeration to say that today was birth\Nof a new star who will lead the Japanese volleyball.
+Dialogue: 0,0:19:55.06,0:19:59.57,Default,Ayuhara's mom,0,0,0,,{TIME:1195069,1199573}Kozue, I'm so happy.\NYour mom is so happy right now…
+Dialogue: 0,0:20:05.20,0:20:07.62,Default,Commentator,0,0,0,,{TIME:1205204,1207623}Everyone has tears in their eyes.
+Dialogue: 0,0:20:07.62,0:20:12.54,Default,Commentator,0,0,0,,{TIME:1207623,1212545}The tension of the game finally vanished,\Nleaving room for emotions.
+Dialogue: 0,0:20:19.00,0:20:22.68,Default,Commentator,0,0,0,,{TIME:1219009,1222680}And now we come to the next highlight\Nof this year's World Volleyball Championships.
+Dialogue: 0,0:20:22.68,0:20:27.89,Default,Commentator,0,0,0,,{TIME:1222680,1227893}In just a moment, the name of this year's\Nbest player will be announced. Who will it be?
+Dialogue: 0,0:20:27.89,0:20:32.23,Default,Commentator,0,0,0,,{TIME:1227893,1232231}I see the chairman of the commission\Nstepping up to the microphone.
+Dialogue: 0,0:20:32.23,0:20:36.23,Default,Announcer,0,0,0,,{TIME:1232231,1236235}Best one: Ayuhara Kozue, Japan.
+Dialogue: 0,0:20:36.23,0:20:40.90,Default,Commentator,0,0,0,,{TIME:1236235,1240906}It's Ayuhara! Ayuhara was voted\Nas the best player in the world!
+Dialogue: 0,0:20:41.74,0:20:45.41,Default,Commentator,0,0,0,,{TIME:1241741,1245411}The players all over the world\Nsend applause to Ayuhara.
+Dialogue: 0,0:20:45.41,0:20:49.49,Alternative,Yushima,0,0,0,,{TIME:1245411,1249498}Ayuhara-kun, you did it!\NYou became the world's star!
+Dialogue: 0,0:20:49.49,0:20:52.20,Default,Ayuhara,0,0,0,,{TIME:1249498,1252209}M-Me? The best player?
+Dialogue: 0,0:20:52.54,0:20:55.17,Default,Announcer,0,0,0,,{TIME:1252543,1255171}Ayuhara Kozue, Japan.
+Dialogue: 0,0:21:02.63,0:21:05.51,Default,Shellenina,0,0,0,,{TIME:1262636,1265514}Ayuhara, you're\Nthe best in the world.
+Dialogue: 0,0:21:08.35,0:21:11.52,Default,Commentator,0,0,0,,{TIME:1268350,1271520}Shellenina, Ayuhara's great rival since\Nthe Junior World Championships…
+Dialogue: 0,0:21:11.52,0:21:14.98,Default,Commentator,0,0,0,,{TIME:1271520,1274982}…applauds Ayuhara and\Ncongratulates her wholeheartedly.
+Dialogue: 0,0:21:18.48,0:21:20.32,Default,Nakazawa,0,0,0,,{TIME:1278486,1280321}You did it, Chief!
+Dialogue: 0,0:21:22.44,0:21:24.11,Default,Hayakawa,0,0,0,,{TIME:1282448,1284116}Attack No. 1!
+Dialogue: 0,0:21:29.24,0:21:33.58,Default,Commentator,0,0,0,,{TIME:1289246,1293584}Ayuhara Kozue oficially becomes\Nthe world's Attack No. 1.
+Dialogue: 0,0:21:33.58,0:21:38.79,Default,Commentator,0,0,0,,{TIME:1293584,1298798}I cannot even fathom\Nhow she is feeling right now.
+Dialogue: 0,0:23:24.44,0:23:26.61,Alternative,Ayuhara,0,0,0,,{TIME:1404445,1406614}The game isn't over yet.
+Dialogue: 0,0:23:26.61,0:23:31.74,Alternative,Ayuhara,0,0,0,,{TIME:1406614,1411744}I'm going to aim for the Olympic Games in Munich.\NThen for the next World Championship.
+Dialogue: 0,0:23:31.74,0:23:34.87,Alternative,Ayuhara,0,0,0,,{TIME:1411744,1414872}The road ahead of me is still long\Nand bumpy, like it's always been.
+Dialogue: 0,0:23:34.87,0:23:37.95,Alternative,Ayuhara,0,0,0,,{TIME:1414872,1417958}I merely took the first step\Ndown that road.
+Dialogue: 0,0:23:37.95,0:23:40.87,Alternative,Ayuhara,0,0,0,,{TIME:1417958,1420878}I'll see how far it takes me.
+Dialogue: 0,0:23:40.87,0:23:43.25,Alternative,Ayuhara,0,0,0,,{TIME:1420878,1423255}Together with my volleyball.
+Dialogue: 0,0:23:47.05,0:23:53.89,Sign,(sign),0,0,0,,{TIME:1427051,1433891}{\fad(2000,0)\t(4840,6840,\1c&H101010&\3c&H101010&\4c&H101010&)\an2}The End
+Dialogue: 0,0:21:23.19,0:21:27.62,Lyrics END,[karaoke],0,0,0,,{TIME:1283199,1287620}{\fad(2000,0)}Even though it hurts…
+Dialogue: 0,0:21:27.62,0:21:31.29,Lyrics END,[karaoke],0,0,0,,{TIME:1287620,1291290}…even though I feel sad…
+Dialogue: 0,0:21:31.29,0:21:38.42,Lyrics END,[karaoke],0,0,0,,{TIME:1291290,1298422}…on the court I feel just fine.
+Dialogue: 0,0:21:38.42,0:21:46.93,Lyrics END,[karaoke],0,0,0,,{TIME:1298422,1306931}When I hear the ball flying,\Nmy heart races.
+Dialogue: 0,0:21:46.93,0:21:51.18,Lyrics END,[karaoke],0,0,0,,{TIME:1306931,1311185}Receive. Toss. Spike.
+Dialogue: 0,0:21:51.18,0:21:55.47,Lyrics END,[karaoke],0,0,0,,{TIME:1311185,1315479}{\fad(0,500)}One-two, one-two! Attack!
+Dialogue: 0,0:21:59.56,0:22:07.86,Lyrics END,[karaoke],0,0,0,,{TIME:1319568,1327868}Through the tears and sweat,\Nputting up a youthful fight…
+Dialogue: 0,0:22:07.86,0:22:16.16,Lyrics END,[karaoke],0,0,0,,{TIME:1327868,1336168}…under the blue sky,\NI just want to scream:
+Dialogue: 0,0:22:16.16,0:22:24.46,Lyrics END,[karaoke],0,0,0,,{TIME:1336168,1344468}Attack! Attack! Number 1!
+Dialogue: 0,0:22:24.46,0:22:33.22,Lyrics END,[karaoke],0,0,0,,{TIME:1344468,1353227}{\fad(0,500)}Attack! Attack! Number 1!
+Dialogue: 0,0:22:35.56,0:22:39.94,Lyrics END,[karaoke],0,0,0,,{TIME:1355563,1359942}Even though it hurts…
+Dialogue: 0,0:22:39.94,0:22:43.52,Lyrics END,[karaoke],0,0,0,,{TIME:1359942,1363529}…even though I feel sad…
+Dialogue: 0,0:22:43.52,0:22:50.82,Lyrics END,[karaoke],0,0,0,,{TIME:1363529,1370828}…I have my team mates.
+Dialogue: 0,0:22:50.82,0:22:59.21,Lyrics END,[karaoke],0,0,0,,{TIME:1370828,1379211}I find myself whistling\Nand my heart races.
+Dialogue: 0,0:22:59.21,0:23:03.50,Lyrics END,[karaoke],0,0,0,,{TIME:1379211,1383507}Receive. Toss. Spike.
+Dialogue: 0,0:23:03.50,0:23:08.72,Lyrics END,[karaoke],0,0,0,,{TIME:1383507,1388721}{\fad(0,500)}One-two, one-two! Attack!
+Dialogue: 0,0:23:11.80,0:23:20.10,Lyrics END,[karaoke],0,0,0,,{TIME:1391807,1400107}Showing fighting spirit\Nthrough the tears…
+Dialogue: 0,0:23:20.10,0:23:28.44,Lyrics END,[karaoke],0,0,0,,{TIME:1400107,1408449}…looking at billowing clouds,\NI just want to scream:
+Dialogue: 0,0:23:28.44,0:23:36.87,Lyrics END,[karaoke],0,0,0,,{TIME:1408449,1416874}Attack! Attack! Number 1!
+Dialogue: 0,0:23:36.87,0:23:48.42,Lyrics END,[karaoke],0,0,0,,{TIME:1416874,1428427}{\fad(0,2000)}Attack! Attack! Number 1!
