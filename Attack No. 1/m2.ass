@@ -23,68 +23,71 @@ Style: Lyrics Romaji,Gotham Rounded Medium,64,&H00BFF6FF,&H8C7A8688,&H00202020,&
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:00:14.53,0:00:26.88,Default,,0,0,0,,{TIME:14530,26881}{\an5\pos(960,780)\fn(Engcomica)\fs120\bord0\blur1.2\1c&H131313&\t(0,580,\1c&HD4D4B1&)\t(580,3000,0.3,\1c&HF3EFF2&)\fad(0,400)}Attack No. 1{NOTE:アタックNo.1}
-Dialogue: 1,0:00:14.53,0:00:26.88,Default,,0,0,0,,{TIME:14530,26881}{\an5\pos(960,885)\fn(Engcomica)\fs75\bord0\blur1.2\1c&H131313&\t(0,580,\1c&HD4D4B1&)\t(580,3000,0.3,\1c&HF3EFF2&)\fad(0,400)\b0}Revolving reception arc{NOTE:富士見学園の新星}
-Dialogue: 0,0:00:27.79,0:00:32.17,Lyrics Kanji,,0,0,0,,{TIME:27790,32170}苦しくたって
-Dialogue: 0,0:00:32.17,0:00:35.80,Lyrics Kanji,,0,0,0,,{TIME:32170,35800}悲しくたって
-Dialogue: 0,0:00:35.80,0:00:43.02,Lyrics Kanji,,0,0,0,,{TIME:35800,43020}コートのなかではへいきなの
-Dialogue: 0,0:00:43.02,0:00:51.53,Lyrics Kanji,,0,0,0,,{TIME:43020,51530}ボールがうなると胸がはずむわ
-Dialogue: 0,0:00:51.53,0:00:55.82,Lyrics Kanji,,0,0,0,,{TIME:51530,55820}レシーブ  トス  スパイク
-Dialogue: 0,0:00:55.82,0:01:00.11,Lyrics Kanji,,0,0,0,,{TIME:55820,60110}ワン・トゥー  ワン・トゥー  アタック
-Dialogue: 0,0:01:04.21,0:01:12.55,Lyrics Kanji,,0,0,0,,{TIME:64210,72550}涙も汗も 若いファイトで
-Dialogue: 0,0:01:12.55,0:01:20.81,Lyrics Kanji,,0,0,0,,{TIME:72550,80810}青空に遠く さけびたい
-Dialogue: 0,0:01:20.81,0:01:29.11,Lyrics Kanji,,0,0,0,,{TIME:80810,89110}アタック  アタック  No.1
-Dialogue: 0,0:01:29.11,0:01:37.48,Lyrics Kanji,,0,0,0,,{TIME:89110,97480}アタック  アタック  No.1
-Dialogue: 0,0:01:40.16,0:01:44.58,Lyrics Kanji,,0,0,0,,{TIME:100160,104580}苦しくたって
-Dialogue: 0,0:01:44.58,0:01:48.17,Lyrics Kanji,,0,0,0,,{TIME:104580,108170}悲しくたって
-Dialogue: 0,0:01:48.17,0:01:55.42,Lyrics Kanji,,0,0,0,,{TIME:108170,115420}チームの仲間が いるんだもん
-Dialogue: 0,0:01:55.42,0:02:03.85,Lyrics Kanji,,0,0,0,,{TIME:115420,123850}ホイッスルがなると 心がはずむわ
-Dialogue: 0,0:02:03.85,0:02:08.10,Lyrics Kanji,,0,0,0,,{TIME:123850,128100}レシーブ  トス  スパイク
-Dialogue: 0,0:02:08.10,0:02:12.73,Lyrics Kanji,,0,0,0,,{TIME:128100,132730}ワン・ツー  ワン・ツー  アタック
-Dialogue: 0,0:02:16.44,0:02:24.79,Lyrics Kanji,,0,0,0,,{TIME:136440,144790}涙の中に若い心で
-Dialogue: 0,0:02:24.79,0:02:33.04,Lyrics Kanji,,0,0,0,,{TIME:144790,153040}ながれゆく雲にさけびたい
-Dialogue: 0,0:02:33.04,0:02:41.47,Lyrics Kanji,,0,0,0,,{TIME:153040,161470}アタック  アタック  No.1
-Dialogue: 0,0:02:41.47,0:02:52.15,Lyrics Kanji,,0,0,0,,{TIME:161470,172150}{\fad(0,1000)}アタック  アタック  No.1
-Dialogue: 0,0:00:27.79,0:00:32.17,Lyrics Romaji,,0,0,0,,{TIME:27790,32170}{\k30}Ku{\k20}ru{\k33}shi{\k54}ku {\k58}ta{\k241}tte
-Dialogue: 0,0:00:32.17,0:00:35.80,Lyrics Romaji,,0,0,0,,{TIME:32170,35800}{\k33}Ka{\k20}na{\k37}shi{\k50}ku{\k58} ta{\k155}tte
-Dialogue: 0,0:00:35.80,0:00:43.02,Lyrics Romaji,,0,0,0,,{TIME:35800,43020}{\k66}Koo{\k75}to {\k29}no {\k33}na{\k25}ka {\k29}de {\k87}wa {\k62}hei{\k75}ki {\k37}na{\k200}no
-Dialogue: 0,0:00:43.02,0:00:51.53,Lyrics Romaji,,0,0,0,,{TIME:43020,51530}{\k87}Boo{\k29}ru {\k100}ga {\k33}u{\k50}na{\k25}ru {\k133}to {\k25}mu{\k25}ne {\k29}ga {\k29}ha{\k50}zu{\k29}mu {\k204}wa
-Dialogue: 0,0:00:51.53,0:00:55.82,Lyrics Romaji,,0,0,0,,{TIME:51530,55820}{\k37}Re{\k54}shii{\k20}bu {\k100}tosu {\k33}su{\k25}pa{\k29}i{\k129}ku
-Dialogue: 0,0:00:55.82,0:01:00.11,Lyrics Romaji,,0,0,0,,{TIME:55820,60110}{\k50}Wan {\k54}tsu {\k54}wan {\k54}tsu {\k33}a{\k50}ta{\k133}kku
-Dialogue: 0,0:01:04.21,0:01:12.55,Lyrics Romaji,,0,0,0,,{TIME:64210,72550}{\k33}Na{\k50}mi{\k25}da {\k50}mo {\k29}a{\k25}se {\k233}mo {\k25}wa{\k25}ka{\k25}i {\k29}fa{\k50}i{\k25}to {\k210}de
-Dialogue: 0,0:01:12.55,0:01:20.81,Lyrics Romaji,,0,0,0,,{TIME:72550,80810}{\k45}A{\k54}o{\k29}zo{\k45}ra {\k29}ni {\k50}to{\k29}o{\k125}ku {\k50}sa{\k50}ke{\k75}bi{\k66}ta{\k175}i
-Dialogue: 0,0:01:20.81,0:01:29.11,Lyrics Romaji,,0,0,0,,{TIME:80810,89110}{\k25}A{\k54}ta{\k125}kku {\k29}a{\k50}ta{\k129}kku {\k104}nan{\k108}baa {\k212}wan
-Dialogue: 0,0:01:29.11,0:01:37.48,Lyrics Romaji,,0,0,0,,{TIME:89110,97480}{\k25}A{\k54}ta{\k129}kku {\k29}a{\k50}ta{\k125}kku {\k108}nan{\k104}baa {\k221}wan
-Dialogue: 0,0:01:40.16,0:01:44.58,Lyrics Romaji,,0,0,0,,{TIME:100160,104580}{\k25}Ku{\k20}ru{\k41}shi{\k45}ku {\k62}ta{\k241}tte
-Dialogue: 0,0:01:44.58,0:01:48.17,Lyrics Romaji,,0,0,0,,{TIME:104580,108170}{\k29}Ka{\k25}na{\k33}shi{\k50}ku {\k58}ta{\k162}tte
-Dialogue: 0,0:01:48.17,0:01:55.42,Lyrics Romaji,,0,0,0,,{TIME:108170,115420}{\k58}Chii{\k83}mu {\k25}no {\k33}na{\k25}ka{\k25}ma {\k91}ga{\k25} i{\k33}ru{\k79}n{\k33}da{\k212}mon
-Dialogue: 0,0:01:55.42,0:02:03.85,Lyrics Romaji,,0,0,0,,{TIME:115420,123850}{\k33}Ho{\k45}i{\k33}ssu{\k29}ru {\k70}ga {\k37}na{\k71}ru {\k104}to {\k25}ko{\k25}ko{\k29}ro {\k29}ga {\k29}ha{\k45}zu{\k29}mu {\k200}wa
-Dialogue: 0,0:02:03.85,0:02:08.10,Lyrics Romaji,,0,0,0,,{TIME:123850,128100}{\k33}Re{\k54}shii{\k20}bu {\k108}tosu {\k29}su{\k20}pa{\k29}i{\k129}ku
-Dialogue: 0,0:02:08.10,0:02:12.73,Lyrics Romaji,,0,0,0,,{TIME:128100,132730}{\k54}Wan {\k54}tsu {\k50}wan {\k54}tsu {\k29}a{\k54}ta{\k166}kku
-Dialogue: 0,0:02:16.44,0:02:24.79,Lyrics Romaji,,0,0,0,,{TIME:136440,144790}{\k29}Na{\k50}mi{\k25}da {\k37}no {\k41}na{\k25}ka {\k233}ni {\k25}wa{\k20}ka{\k29}i {\k25}ko{\k50}ko{\k29}ro {\k204}de
-Dialogue: 0,0:02:24.79,0:02:33.04,Lyrics Romaji,,0,0,0,,{TIME:144790,153040}{\k58}Na{\k54}ga{\k25}re{\k45}yu{\k29}ku {\k45}ku{\k37}mo {\k121}ni {\k54}sa{\k45}ke{\k83}bi{\k58}ta{\k175}i
-Dialogue: 0,0:02:33.04,0:02:41.47,Lyrics Romaji,,0,0,0,,{TIME:153040,161470}{\k25}A{\k54}ta{\k133}kku {\k25}a{\k50}ta{\k121}kku {\k116}nan{\k104}baa {\k204}wan
-Dialogue: 0,0:02:41.47,0:02:52.15,Lyrics Romaji,,0,0,0,,{TIME:161470,172150}{\fad(0,1000)\k29}A{\k50}ta{\k129}kku {\k33}a{\k50}ta{\k120}kku {\k112}nan{\k108}baa {\k429}wan
-Dialogue: 0,0:00:27.79,0:00:32.17,Lyrics English,,0,0,0,,{TIME:27790,32170}Even though it hurts…
-Dialogue: 0,0:00:32.17,0:00:35.80,Lyrics English,,0,0,0,,{TIME:32170,35800}…even though I feel sad…
-Dialogue: 0,0:00:35.80,0:00:43.02,Lyrics English,,0,0,0,,{TIME:35800,43020}…on the court I feel just fine.
-Dialogue: 0,0:00:43.02,0:00:51.53,Lyrics English,,0,0,0,,{TIME:43020,51530}When I hear the ball flying, my heart races.
-Dialogue: 0,0:00:51.53,0:00:55.82,Lyrics English,,0,0,0,,{TIME:51530,55820}Receive. Toss. Spike.
-Dialogue: 0,0:00:55.82,0:01:00.11,Lyrics English,,0,0,0,,{TIME:55820,60110}One-two, one-two! Attack!
-Dialogue: 0,0:01:04.21,0:01:12.55,Lyrics English,,0,0,0,,{TIME:64210,72550}Through the tears and sweat, putting up a youthful fight…
-Dialogue: 0,0:01:12.55,0:01:20.81,Lyrics English,,0,0,0,,{TIME:72550,80810}…under the blue sky, I just want to scream:
-Dialogue: 0,0:01:20.81,0:01:29.11,Lyrics English,,0,0,0,,{TIME:80810,89110}Attack! Attack! Number 1!
-Dialogue: 0,0:01:29.11,0:01:37.48,Lyrics English,,0,0,0,,{TIME:89110,97480}Attack! Attack! Number 1!
-Dialogue: 0,0:01:40.16,0:01:44.58,Lyrics English,,0,0,0,,{TIME:100160,104580}Even though it hurts…
-Dialogue: 0,0:01:44.58,0:01:48.17,Lyrics English,,0,0,0,,{TIME:104580,108170}…even though I feel sad…
-Dialogue: 0,0:01:48.17,0:01:55.42,Lyrics English,,0,0,0,,{TIME:108170,115420}…I have my team mates.
-Dialogue: 0,0:01:55.42,0:02:03.85,Lyrics English,,0,0,0,,{TIME:115420,123850}I find myself whistling and my heart races.
-Dialogue: 0,0:02:03.85,0:02:08.10,Lyrics English,,0,0,0,,{TIME:123850,128100}Receive. Toss. Spike.
-Dialogue: 0,0:02:08.10,0:02:12.73,Lyrics English,,0,0,0,,{TIME:128100,132730}One-two, one-two! Attack!
-Dialogue: 0,0:02:16.44,0:02:24.79,Lyrics English,,0,0,0,,{TIME:136440,144790}Showing fighting spirit through the tears…
-Dialogue: 0,0:02:24.79,0:02:33.04,Lyrics English,,0,0,0,,{TIME:144790,153040}…looking at billowing clouds, I just want to scream:
-Dialogue: 0,0:02:33.04,0:02:41.47,Lyrics English,,0,0,0,,{TIME:153040,161470}Attack! Attack! Number 1!
-Dialogue: 0,0:02:41.47,0:02:52.15,Lyrics English,,0,0,0,,{TIME:161470,172150}{\fad(0,1000)}Attack! Attack! Number 1!
+Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Logo
+Comment: 0,0:00:14.32,0:00:14.32,Default,[chapter],0,0,0,,{TIME:14327,14327}Opening
+Dialogue: 1,0:00:14.53,0:00:26.88,Default,[title],0,0,0,,{TIME:14530,26881}{\an5\pos(960,780)\fn(Engcomica)\fs120\bord0\blur1.2\1c&H131313&\t(0,580,\1c&HD4D4B1&)\t(580,3000,0.3,\1c&HF3EFF2&)\fad(0,400)}Attack No. 1{NOTE:アタックNo.1}
+Dialogue: 1,0:00:14.53,0:00:26.88,Default,[title],0,0,0,,{TIME:14530,26881}{\an5\pos(960,885)\fn(Engcomica)\fs75\bord0\blur1.2\1c&H131313&\t(0,580,\1c&HD4D4B1&)\t(580,3000,0.3,\1c&HF3EFF2&)\fad(0,400)\b0}Revolving reception arc{NOTE:富士見学園の新星}
+Dialogue: 0,0:00:27.79,0:00:32.17,Lyrics Kanji,[karaoke],0,0,0,,{TIME:27790,32170}苦しくたって
+Dialogue: 0,0:00:32.17,0:00:35.80,Lyrics Kanji,[karaoke],0,0,0,,{TIME:32170,35800}悲しくたって
+Dialogue: 0,0:00:35.80,0:00:43.02,Lyrics Kanji,[karaoke],0,0,0,,{TIME:35800,43020}コートのなかではへいきなの
+Dialogue: 0,0:00:43.02,0:00:51.53,Lyrics Kanji,[karaoke],0,0,0,,{TIME:43020,51530}ボールがうなると胸がはずむわ
+Dialogue: 0,0:00:51.53,0:00:55.82,Lyrics Kanji,[karaoke],0,0,0,,{TIME:51530,55820}レシーブ  トス  スパイク
+Dialogue: 0,0:00:55.82,0:01:00.11,Lyrics Kanji,[karaoke],0,0,0,,{TIME:55820,60110}ワン・トゥー  ワン・トゥー  アタック
+Dialogue: 0,0:01:04.21,0:01:12.55,Lyrics Kanji,[karaoke],0,0,0,,{TIME:64210,72550}涙も汗も 若いファイトで
+Dialogue: 0,0:01:12.55,0:01:20.81,Lyrics Kanji,[karaoke],0,0,0,,{TIME:72550,80810}青空に遠く さけびたい
+Dialogue: 0,0:01:20.81,0:01:29.11,Lyrics Kanji,[karaoke],0,0,0,,{TIME:80810,89110}アタック  アタック  No.1
+Dialogue: 0,0:01:29.11,0:01:37.48,Lyrics Kanji,[karaoke],0,0,0,,{TIME:89110,97480}アタック  アタック  No.1
+Dialogue: 0,0:01:40.16,0:01:44.58,Lyrics Kanji,[karaoke],0,0,0,,{TIME:100160,104580}苦しくたって
+Dialogue: 0,0:01:44.58,0:01:48.17,Lyrics Kanji,[karaoke],0,0,0,,{TIME:104580,108170}悲しくたって
+Dialogue: 0,0:01:48.17,0:01:55.42,Lyrics Kanji,[karaoke],0,0,0,,{TIME:108170,115420}チームの仲間が いるんだもん
+Dialogue: 0,0:01:55.42,0:02:03.85,Lyrics Kanji,[karaoke],0,0,0,,{TIME:115420,123850}ホイッスルがなると 心がはずむわ
+Dialogue: 0,0:02:03.85,0:02:08.10,Lyrics Kanji,[karaoke],0,0,0,,{TIME:123850,128100}レシーブ  トス  スパイク
+Dialogue: 0,0:02:08.10,0:02:12.73,Lyrics Kanji,[karaoke],0,0,0,,{TIME:128100,132730}ワン・ツー  ワン・ツー  アタック
+Dialogue: 0,0:02:16.44,0:02:24.79,Lyrics Kanji,[karaoke],0,0,0,,{TIME:136440,144790}涙の中に若い心で
+Dialogue: 0,0:02:24.79,0:02:33.04,Lyrics Kanji,[karaoke],0,0,0,,{TIME:144790,153040}ながれゆく雲にさけびたい
+Dialogue: 0,0:02:33.04,0:02:41.47,Lyrics Kanji,[karaoke],0,0,0,,{TIME:153040,161470}アタック  アタック  No.1
+Dialogue: 0,0:02:41.47,0:02:52.15,Lyrics Kanji,[karaoke],0,0,0,,{TIME:161470,172150}{\fad(0,1000)}アタック  アタック  No.1
+Dialogue: 0,0:00:27.79,0:00:32.17,Lyrics Romaji,[karaoke],0,0,0,,{TIME:27790,32170}{\k30}Ku{\k20}ru{\k33}shi{\k54}ku{\k58}ta{\k241}tte
+Dialogue: 0,0:00:32.17,0:00:35.80,Lyrics Romaji,[karaoke],0,0,0,,{TIME:32170,35800}{\k33}Ka{\k20}na{\k37}shi{\k50}ku{\k58}ta{\k155}tte
+Dialogue: 0,0:00:35.80,0:00:43.02,Lyrics Romaji,[karaoke],0,0,0,,{TIME:35800,43020}{\k66}Koo{\k75}to {\k29}no {\k33}na{\k25}ka {\k29}de {\k87}wa {\k62}hei{\k75}ki {\k37}na{\k200}no
+Dialogue: 0,0:00:43.02,0:00:51.53,Lyrics Romaji,[karaoke],0,0,0,,{TIME:43020,51530}{\k87}Boo{\k29}ru {\k100}ga {\k33}u{\k50}na{\k25}ru {\k133}to {\k25}mu{\k25}ne {\k29}ga {\k29}ha{\k50}zu{\k29}mu {\k204}wa
+Dialogue: 0,0:00:51.53,0:00:55.82,Lyrics Romaji,[karaoke],0,0,0,,{TIME:51530,55820}{\k37}Re{\k54}shii{\k20}bu {\k100}tosu {\k33}su{\k25}pa{\k29}i{\k129}ku
+Dialogue: 0,0:00:55.82,0:01:00.11,Lyrics Romaji,[karaoke],0,0,0,,{TIME:55820,60110}{\k50}Wan {\k54}tsuu {\k54}wan {\k54}tsuu {\k33}a{\k50}ta{\k133}kku
+Dialogue: 0,0:01:04.21,0:01:12.55,Lyrics Romaji,[karaoke],0,0,0,,{TIME:64210,72550}{\k33}Na{\k50}mi{\k25}da {\k50}mo {\k29}a{\k25}se {\k233}mo {\k25}wa{\k25}ka{\k25}i {\k29}fa{\k50}i{\k25}to {\k210}de
+Dialogue: 0,0:01:12.55,0:01:20.81,Lyrics Romaji,[karaoke],0,0,0,,{TIME:72550,80810}{\k45}A{\k54}o{\k29}zo{\k45}ra {\k29}ni {\k50}to{\k29}o{\k125}ku {\k50}sa{\k50}ke{\k75}bi{\k66}ta{\k175}i
+Dialogue: 0,0:01:20.81,0:01:29.11,Lyrics Romaji,[karaoke],0,0,0,,{TIME:80810,89110}{\k25}A{\k54}ta{\k125}kku {\k29}a{\k50}ta{\k129}kku {\k104}nan{\k108}baa {\k212}wan
+Dialogue: 0,0:01:29.11,0:01:37.48,Lyrics Romaji,[karaoke],0,0,0,,{TIME:89110,97480}{\k25}A{\k54}ta{\k129}kku {\k29}a{\k50}ta{\k125}kku {\k108}nan{\k104}baa {\k221}wan
+Dialogue: 0,0:01:40.16,0:01:44.58,Lyrics Romaji,[karaoke],0,0,0,,{TIME:100160,104580}{\k25}Ku{\k20}ru{\k41}shi{\k45}ku{\k62}ta{\k241}tte
+Dialogue: 0,0:01:44.58,0:01:48.17,Lyrics Romaji,[karaoke],0,0,0,,{TIME:104580,108170}{\k29}Ka{\k25}na{\k33}shi{\k50}ku{\k58}ta{\k162}tte
+Dialogue: 0,0:01:48.17,0:01:55.42,Lyrics Romaji,[karaoke],0,0,0,,{TIME:108170,115420}{\k58}Chii{\k83}mu {\k25}no {\k33}na{\k25}ka{\k25}ma {\k91}ga{\k25} i{\k33}ru{\k79}n{\k33}da{\k212}mon
+Dialogue: 0,0:01:55.42,0:02:03.85,Lyrics Romaji,[karaoke],0,0,0,,{TIME:115420,123850}{\k33}Ho{\k45}i{\k33}ssu{\k29}ru {\k70}ga {\k37}na{\k71}ru {\k104}to {\k25}ko{\k25}ko{\k29}ro {\k29}ga {\k29}ha{\k45}zu{\k29}mu {\k200}wa
+Dialogue: 0,0:02:03.85,0:02:08.10,Lyrics Romaji,[karaoke],0,0,0,,{TIME:123850,128100}{\k33}Re{\k54}shii{\k20}bu {\k108}tosu {\k29}su{\k20}pa{\k29}i{\k129}ku
+Dialogue: 0,0:02:08.10,0:02:12.73,Lyrics Romaji,[karaoke],0,0,0,,{TIME:128100,132730}{\k54}Wan {\k54}tsuu {\k50}wan {\k54}tsuu {\k29}a{\k54}ta{\k166}kku
+Dialogue: 0,0:02:16.44,0:02:24.79,Lyrics Romaji,[karaoke],0,0,0,,{TIME:136440,144790}{\k29}Na{\k50}mi{\k25}da {\k37}no {\k41}na{\k25}ka {\k233}ni {\k25}wa{\k20}ka{\k29}i {\k25}ko{\k50}ko{\k29}ro {\k204}de
+Dialogue: 0,0:02:24.79,0:02:33.04,Lyrics Romaji,[karaoke],0,0,0,,{TIME:144790,153040}{\k58}Na{\k54}ga{\k25}re{\k45}yu{\k29}ku {\k45}ku{\k37}mo {\k121}ni {\k54}sa{\k45}ke{\k83}bi{\k58}ta{\k175}i
+Dialogue: 0,0:02:33.04,0:02:41.47,Lyrics Romaji,[karaoke],0,0,0,,{TIME:153040,161470}{\k25}A{\k54}ta{\k133}kku {\k25}a{\k50}ta{\k121}kku {\k116}nan{\k104}baa {\k204}wan
+Dialogue: 0,0:02:41.47,0:02:52.15,Lyrics Romaji,[karaoke],0,0,0,,{TIME:161470,172150}{\fad(0,1000)\k29}A{\k50}ta{\k129}kku {\k33}a{\k50}ta{\k120}kku {\k112}nan{\k108}baa {\k429}wan
+Dialogue: 0,0:00:27.79,0:00:32.17,Lyrics English,[karaoke],0,0,0,,{TIME:27790,32170}Even though it hurts…
+Dialogue: 0,0:00:32.17,0:00:35.80,Lyrics English,[karaoke],0,0,0,,{TIME:32170,35800}…even though I feel sad…
+Dialogue: 0,0:00:35.80,0:00:43.02,Lyrics English,[karaoke],0,0,0,,{TIME:35800,43020}…on the court I feel just fine.
+Dialogue: 0,0:00:43.02,0:00:51.53,Lyrics English,[karaoke],0,0,0,,{TIME:43020,51530}When I hear the ball flying, my heart races.
+Dialogue: 0,0:00:51.53,0:00:55.82,Lyrics English,[karaoke],0,0,0,,{TIME:51530,55820}Receive. Toss. Spike.
+Dialogue: 0,0:00:55.82,0:01:00.11,Lyrics English,[karaoke],0,0,0,,{TIME:55820,60110}One-two, one-two! Attack!
+Dialogue: 0,0:01:04.21,0:01:12.55,Lyrics English,[karaoke],0,0,0,,{TIME:64210,72550}Through the tears and sweat, putting up a youthful fight…
+Dialogue: 0,0:01:12.55,0:01:20.81,Lyrics English,[karaoke],0,0,0,,{TIME:72550,80810}…under the blue sky, I just want to scream:
+Dialogue: 0,0:01:20.81,0:01:29.11,Lyrics English,[karaoke],0,0,0,,{TIME:80810,89110}Attack! Attack! Number 1!
+Dialogue: 0,0:01:29.11,0:01:37.48,Lyrics English,[karaoke],0,0,0,,{TIME:89110,97480}Attack! Attack! Number 1!
+Dialogue: 0,0:01:40.16,0:01:44.58,Lyrics English,[karaoke],0,0,0,,{TIME:100160,104580}Even though it hurts…
+Dialogue: 0,0:01:44.58,0:01:48.17,Lyrics English,[karaoke],0,0,0,,{TIME:104580,108170}…even though I feel sad…
+Dialogue: 0,0:01:48.17,0:01:55.42,Lyrics English,[karaoke],0,0,0,,{TIME:108170,115420}…I have my team mates.
+Dialogue: 0,0:01:55.42,0:02:03.85,Lyrics English,[karaoke],0,0,0,,{TIME:115420,123850}I find myself whistling and my heart races.
+Dialogue: 0,0:02:03.85,0:02:08.10,Lyrics English,[karaoke],0,0,0,,{TIME:123850,128100}Receive. Toss. Spike.
+Dialogue: 0,0:02:08.10,0:02:12.73,Lyrics English,[karaoke],0,0,0,,{TIME:128100,132730}One-two, one-two! Attack!
+Dialogue: 0,0:02:16.44,0:02:24.79,Lyrics English,[karaoke],0,0,0,,{TIME:136440,144790}Showing fighting spirit through the tears…
+Dialogue: 0,0:02:24.79,0:02:33.04,Lyrics English,[karaoke],0,0,0,,{TIME:144790,153040}…looking at billowing clouds, I just want to scream:
+Dialogue: 0,0:02:33.04,0:02:41.47,Lyrics English,[karaoke],0,0,0,,{TIME:153040,161470}Attack! Attack! Number 1!
+Dialogue: 0,0:02:41.47,0:02:52.15,Lyrics English,[karaoke],0,0,0,,{TIME:161470,172150}{\fad(0,1000)}Attack! Attack! Number 1!
+Comment: 0,0:02:58.40,0:02:58.40,Default,[chapter],0,0,0,,{TIME:178408,178408}Main
 Dialogue: 0,0:03:18.42,0:03:20.26,Default,Ooki,0,0,0,,{TIME:198420,200260}I can't reach it!{NOTE:あ、止めない！}
 Dialogue: 0,0:03:21.34,0:03:22.80,Default,Ikezaki,0,0,0,,{TIME:201340,202800}Leave it to me!{NOTE:あ、任しておいて。}
 Dialogue: 0,0:03:26.39,0:03:28.93,Default,Ayuhara,0,0,0,,{TIME:206390,208930}Okay, girls, come over here.{NOTE:さ、みんな、集まって。}
@@ -259,7 +262,7 @@ Dialogue: 0,0:12:29.64,0:12:30.93,Default,Ayuhara,0,0,0,,{TIME:749645,750938}Mid
 Dialogue: 0,0:12:30.93,0:12:32.48,Default,Hayakawa,0,0,0,,{TIME:750938,752481}Ayuhara-san, let's fight together.{NOTE:一緒にやりましょう。}
 Dialogue: 0,0:12:32.48,0:12:34.06,Default,Hayakawa,0,0,0,,{TIME:752481,754066}No matter how tough it'll be.{NOTE:どんなに厳しい合宿でも。}
 Dialogue: 0,0:12:36.40,0:12:38.61,Default,Ayuhara,0,0,0,,{TIME:756402,758612}I'll fight. I'll show them how to play.{NOTE:やるわ。私きっとやってみせるわ。}
-Dialogue: 0,0:12:40.73,0:12:44.53,Sign,,0,0,0,,{TIME:760739,764535}Fujimi Women's University volleyball club's training camp site{NOTE:富士見大学女子バレー部合宿所}
+Dialogue: 0,0:12:40.73,0:12:44.53,Sign,(sign),0,0,0,,{TIME:760739,764535}Fujimi Women's University volleyball club's training camp site{NOTE:富士見大学女子バレー部合宿所}
 Dialogue: 0,0:12:45.91,0:12:47.03,Default,Hayakawa,0,0,0,,{TIME:765911,767037}It's tough…{NOTE:厳しい！}
 Dialogue: 0,0:12:49.24,0:12:50.74,Default,Ayuhara,0,0,0,,{TIME:769248,770749}I feel weak in mornings.{NOTE:朝には弱いんだ、あたし。}
 Dialogue: 0,0:12:50.74,0:12:52.29,Default,Oohara,0,0,0,,{TIME:770749,772293}Pull it together.{NOTE:さ、しっかり走って。}
@@ -309,7 +312,7 @@ Dialogue: 0,0:16:20.50,0:16:21.25,Alternative,Ayuhara,0,0,0,,{TIME:980501,981251
 Dialogue: 0,0:16:24.88,0:16:27.25,Alternative,Ayuhara,0,0,0,,{TIME:984880,987257}The ball didn't rotate and it sank.{NOTE:回転しないボールが沈んだ。}
 Dialogue: 0,0:16:27.25,0:16:30.17,Alternative,Ayuhara,0,0,0,,{TIME:987257,990177}I know. If I hit it without giving it rotation…{NOTE:そうだ。回転しないように打ったら…}
 Dialogue: 0,0:16:38.01,0:16:39.64,Alternative,Ayuhara,0,0,0,,{TIME:998018,999645}That must be it.{NOTE:分かってる。これだわ！}
-Dialogue: 0,0:16:41.98,0:16:44.02,Sign,,0,0,0,,{TIME:1001980,1004024}Fujimi Academy{NOTE:富士見学園}
+Dialogue: 0,0:16:41.98,0:16:44.02,Sign,(sign),0,0,0,,{TIME:1001980,1004024}Fujimi Academy{NOTE:富士見学園}
 Dialogue: 0,0:16:44.98,0:16:46.65,Default,Kajioka,0,0,0,,{TIME:1004983,1006652}Well then, Professor Hongou.{NOTE:じゃ、本郷先生。}
 Dialogue: 0,0:16:46.65,0:16:49.98,Default,Kajioka,0,0,0,,{TIME:1006652,1009988}Are you saying you want to be\Nthe volleyball club's coach no matter what?{NOTE:あなたはどうしてもバレー部のコーチになるとおっしゃるんですか？}
 Dialogue: 0,0:16:49.98,0:16:52.07,Default,Kajioka,0,0,0,,{TIME:1009988,1012074}Hehe. I'd like to see that.{NOTE:へへ。これは見ものだ。}
@@ -517,9 +520,9 @@ Dialogue: 0,0:27:34.34,0:27:35.34,Default,Ayuhara,0,0,0,,{TIME:1654340,1655341}S
 Dialogue: 0,0:27:35.34,0:27:39.13,Default,Hayakawa,0,0,0,,{TIME:1655341,1659137}They're too bold!\NIt's unbecoming for middle school students.{NOTE:行きすぎよ。中学生としたらあんな態度取るべきじゃないわ。}
 Dialogue: 0,0:27:39.13,0:27:40.30,Default,Ayuhara,0,0,0,,{TIME:1659137,1660305}Let them be.{NOTE:放っときなさいよ。}
 Dialogue: 0,0:27:40.30,0:27:42.30,Default,Ayuhara,0,0,0,,{TIME:1660305,1662307}Tomorrow's game is more important.{NOTE:明日の試合の方が大事よ。}
-Dialogue: 0,0:27:41.76,0:27:46.93,Sign,,0,0,0,,{TIME:1661764,1666936}Tōkai district middle school volleyball championship{NOTE:東海地区中学バレーボール予餞会所}
-Dialogue: 0,0:27:48.35,0:27:50.73,Sign,,0,0,0,,{TIME:1668354,1670732}Good luck, Kawakita Middle School{NOTE:ガンバレ川北中学}
-Dialogue: 0,0:27:50.73,0:27:52.77,Sign,,0,0,0,,{TIME:1670732,1672775}Certain victory, Fujimi Academy{NOTE:必勝！富士見学園}
+Dialogue: 0,0:27:41.76,0:27:46.93,Sign,(sign),0,0,0,,{TIME:1661764,1666936}Tōkai district middle school volleyball championship{NOTE:東海地区中学バレーボール予餞会所}
+Dialogue: 0,0:27:48.35,0:27:50.73,Sign,(sign),0,0,0,,{TIME:1668354,1670732}Good luck, Kawakita Middle School{NOTE:ガンバレ川北中学}
+Dialogue: 0,0:27:50.73,0:27:52.77,Sign,(sign),0,0,0,,{TIME:1670732,1672775}Certain victory, Fujimi Academy{NOTE:必勝！富士見学園}
 Dialogue: 0,0:27:53.61,0:27:54.90,Default,Ichinose,0,0,0,,{TIME:1673610,1674903}Do your best!{NOTE:頑張れよ！}
 Dialogue: 0,0:27:56.15,0:27:57.61,Default,(audience),0,0,0,,{TIME:1676154,1677614}Ayuhara-san!{NOTE:鮎原さん！}
 Dialogue: 0,0:28:02.99,0:28:05.16,Default,(audience),0,0,0,,{TIME:1682994,1685163}– Waah!\N– Good!{NOTE:—わぁぁい！\\N—いいぞ！}
@@ -533,7 +536,7 @@ Dialogue: 0,0:28:42.86,0:28:44.16,Default,(unknown),0,0,0,,{TIME:1722867,1724160
 Dialogue: 0,0:28:44.36,0:28:45.20,Default,(unknown),0,0,0,,{TIME:1724369,1725203}Again!{NOTE:未だ！}
 Dialogue: 0,0:29:04.22,0:29:06.72,Default,(audience),0,0,0,,{TIME:1744222,1746724}Good!{NOTE:いいぞ！}
 Dialogue: 0,0:29:12.18,0:29:13.64,Default,Izumi,0,0,0,,{TIME:1752188,1753648}Next time it won't be this easy.{NOTE:今度はそう上手くないわよ。}
-Dialogue: 0,0:29:13.64,0:29:15.19,Blackboard,,0,0,0,,{TIME:1753648,1755191}Fujimi · Sone{NOTE:富士見中・曽根中}
+Dialogue: 0,0:29:13.64,0:29:15.19,Blackboard,(sign),0,0,0,,{TIME:1753648,1755191}Fujimi · Sone{NOTE:富士見中・曽根中}
 Dialogue: 0,0:29:32.54,0:29:33.79,Default,(mixed),0,0,0,,{TIME:1772542,1773793}Don't mind, don't mind!{NOTE:—ドンマイドンマイ！\\N—XXX！}
 Dialogue: 0,0:29:52.47,0:29:53.22,Default,Hongou,0,0,0,,{TIME:1792478,1793229}Time!{NOTE:タイム！}
 Dialogue: 0,0:29:54.93,0:29:56.69,Default,Hongou,0,0,0,,{TIME:1794939,1796691}What's wrong, girls?{NOTE:何だ？どうしたみんな？}
@@ -571,11 +574,11 @@ Dialogue: 0,0:31:30.99,0:31:32.62,Default,Hayakawa,0,0,0,,{TIME:1890993,1892620}
 Dialogue: 0,0:31:32.62,0:31:36.45,Default,Ayuhara,0,0,0,,{TIME:1892620,1896457}Rather than taking them on now,\Nwe should focus on the tomorrow's match.{NOTE:今彼女とっちめるより先ず明日の決勝戦に勝つことよ。}
 Dialogue: 0,0:31:36.45,0:31:37.12,Default,Hayakawa,0,0,0,,{TIME:1896457,1897125}Okay.{NOTE:うん。}
 Dialogue: 0,0:31:38.20,0:31:39.21,Alternative,Ayuhara,0,0,0,,{TIME:1898209,1899210}We won't lose.{NOTE:負けるもんか？}
-Dialogue: 0,0:31:52.05,0:31:52.97,Blackboard,,0,0,0,,{TIME:1912056,1912974}Fujimi · Tōkai{NOTE:富士見中・東海中}
+Dialogue: 0,0:31:52.05,0:31:52.97,Blackboard,(sign),0,0,0,,{TIME:1912056,1912974}Fujimi · Tōkai{NOTE:富士見中・東海中}
 Dialogue: 0,0:31:53.43,0:31:57.35,Default,Commentator,0,0,0,,{TIME:1913433,1917353}Yet another Captain Ayuhara Kozue's splendid spike hits the court.{NOTE:又のキャプテン鮎原こずえのスパイクが見事決まりました。}
 Dialogue: 0,0:31:57.35,0:32:04.56,Default,Commentator,0,0,0,,{TIME:1917353,1924569}Fujimi Academy continues to attack fiercely\Nin the final All-Japan's district qualifying match.{NOTE:全日本女子中学バレーボール大会の予選の決勝に来て、富士見学園の目標が爆発したと言う感じであります。}
 Dialogue: 0,0:32:07.40,0:32:11.95,Default,Commentator,0,0,0,,{TIME:1927405,1931951}Today's Fujimi's performance cannot be compared to yesterday's match with Sone.{NOTE:昨日の曽根中学との大戦であれほどXXした富士見学園とは思われません。}
-Dialogue: 0,0:32:19.79,0:32:21.12,Blackboard,,0,0,0,,{TIME:1939792,1941127}Fujimi · Tōkai{NOTE:富士見中・東海中}
+Dialogue: 0,0:32:19.79,0:32:21.12,Blackboard,(sign),0,0,0,,{TIME:1939792,1941127}Fujimi · Tōkai{NOTE:富士見中・東海中}
 Dialogue: 0,0:32:28.80,0:32:30.09,Alternative,Izumi,0,0,0,,{TIME:1948801,1950094}What's going on?{NOTE:どうしたって言うのかしら？}
 Dialogue: 0,0:32:30.09,0:32:31.72,Alternative,Izumi,0,0,0,,{TIME:1950094,1951721}The strategy was changed.{NOTE:作戦を返りなんて。}
 Dialogue: 0,0:32:31.72,0:32:33.89,Alternative,Izumi,0,0,0,,{TIME:1951721,1953890}It's almost as if they figured out my plan.{NOTE:こっちの計画の裏をかかれたみたい。}
@@ -792,7 +795,7 @@ Dialogue: 0,0:43:11.19,0:43:12.31,Default,Izumi's stepmom,0,0,0,,{TIME:2591192,2
 Dialogue: 0,0:43:31.96,0:43:34.21,Default,(audience),0,0,0,,{TIME:2611964,2614216}Do your best, girls!{NOTE:みんな頑張ってしてくれよ！}
 Dialogue: 0,0:43:37.97,0:43:39.26,Default,Ayuhara,0,0,0,,{TIME:2617970,2619263}We're off!{NOTE:行ってきます！}
 Dialogue: 0,0:43:39.26,0:43:40.47,Default,Hayakawa,0,0,0,,{TIME:2619263,2620471}We'll do our best!{NOTE:頑張ります！}
-Dialogue: 0,0:44:14.63,0:44:17.63,Sign,,0,0,0,,{TIME:2654631,2657634}{\fad(500,0)}Meihō Academy{NOTE:明法学園}
+Dialogue: 0,0:44:14.63,0:44:17.63,Sign,(sign),0,0,0,,{TIME:2654631,2657634}{\fad(500,0)}Meihō Academy{NOTE:明法学園}
 Dialogue: 0,0:44:16.80,0:44:18.17,Default,Ayuhara,0,0,0,,{TIME:2656800,2658176}How nostalgic.{NOTE:懐かしいわ。}
 Dialogue: 0,0:44:18.17,0:44:20.42,Default,Ayuhara,0,0,0,,{TIME:2658176,2660429}These trees. These flowers. This smell.{NOTE:この木。この花。この土の匂い。}
 Dialogue: 0,0:44:20.42,0:44:21.93,Default,Ayuhara,0,0,0,,{TIME:2660429,2661930}I remember it all.{NOTE:みんな思い出があるわ。}
@@ -838,11 +841,11 @@ Dialogue: 0,0:46:04.82,0:46:08.57,Default,Commentator,0,0,0,,{TIME:2764825,27685
 Dialogue: 0,0:46:08.57,0:46:12.41,Default,Commentator,0,0,0,,{TIME:2768578,2772415}The first game is Fujimi Academy vs. Sapporo Middle School.{NOTE:第一試合富士見学園対札幌中学の熱戦が繰り広げられております。}
 Dialogue: 0,0:46:16.12,0:46:17.54,Default,Ichinose,0,0,0,,{TIME:2776128,2777546}Good luck!{NOTE:頑張れよ！}
 Dialogue: 0,0:46:17.54,0:46:18.92,Default,(audience),0,0,0,,{TIME:2777546,2778922}They're awesome!{NOTE:凄い！}
-Dialogue: 0,0:46:17.96,0:46:20.92,Blackboard,,0,0,0,,{TIME:2777963,2780924}{\fad(600,0)}Sapporo · Fujimi
+Dialogue: 0,0:46:17.96,0:46:20.92,Blackboard,(sign),0,0,0,,{TIME:2777963,2780924}{\fad(600,0)}Sapporo · Fujimi
 Dialogue: 0,0:46:24.34,0:46:28.01,Default,Commentator,0,0,0,,{TIME:2784344,2788015}They face each other after a long series of fierce battles.{NOTE:今日まで荒々しくも豪快な試合Xで勝ち進んで参りました。}
 Dialogue: 0,0:46:28.01,0:46:31.35,Default,Commentator,0,0,0,,{TIME:2788015,2791351}Sapporo Middle School stands before the attack duo of Fujimi Academy.{NOTE:札幌中学も富士見学園のアタックコンビの前に。}
 Dialogue: 0,0:46:31.35,0:46:33.35,Default,Commentator,0,0,0,,{TIME:2791351,2793353}And they already have a problem.{NOTE:しっかり鳴りを潜めております。}
-Dialogue: 0,0:46:35.60,0:46:39.65,Blackboard,,0,0,0,,{TIME:2795605,2799651}{\fad(800,1100)}Sapporo · Fujimi{NOTE:札幌中・富士見中}
+Dialogue: 0,0:46:35.60,0:46:39.65,Blackboard,(sign),0,0,0,,{TIME:2795605,2799651}{\fad(800,1100)}Sapporo · Fujimi{NOTE:札幌中・富士見中}
 Dialogue: 0,0:46:50.41,0:46:51.78,Default,Commentator,0,0,0,,{TIME:2810412,2811788}Fujimi Academy wins the match by landslide.{NOTE:富士見学園勝ちました。}
 Dialogue: 0,0:46:51.78,0:46:56.37,Default,Commentator,0,0,0,,{TIME:2811788,2816376}They follow the example set by Fukuoka's excellent victories.{NOTE:これで決勝戦XX決まり強豪福岡中学と優勝を争うことになりました。}
 Dialogue: 0,0:47:01.17,0:47:02.25,Alternative,Ayuhara,0,0,0,,{TIME:2821173,2822257}It's Fukuoka.{NOTE:福岡中だわ。}
@@ -854,13 +857,13 @@ Dialogue: 0,0:47:31.53,0:47:34.87,Default,Commentator,0,0,0,,{TIME:2851536,28548
 Dialogue: 0,0:47:34.87,0:47:38.25,Default,Commentator,0,0,0,,{TIME:2854873,2858251}Meanwhile, Fujimi's Captain Ayuhara is known as an ambidextrous attacker.{NOTE:一歩、富士見のキャプテン鮎原は左右両手の名アタッカー。}
 Dialogue: 0,0:47:38.25,0:47:40.87,Default,Commentator,0,0,0,,{TIME:2858251,2860879}It's an interesting fight between an attacker and a receiver.{NOTE:アタッカー対レシーバー。面白い対決であります。}
 Dialogue: 0,0:47:40.87,0:47:43.21,Default,Commentator,0,0,0,,{TIME:2860879,2863215}Which one will emerge victorious?{NOTE:果たして、勝利はどちらのものになりますか？}
-Dialogue: 0,0:47:57.47,0:47:59.06,Sign,,0,0,0,,{TIME:2877479,2879064}Good luck, Fukuoka{NOTE:ガンバレ福岡中学}
+Dialogue: 0,0:47:57.47,0:47:59.06,Sign,(sign),0,0,0,,{TIME:2877479,2879064}Good luck, Fukuoka{NOTE:ガンバレ福岡中学}
 Dialogue: 0,0:47:59.56,0:48:00.39,Default,Ayuhara,0,0,0,,{TIME:2879564,2880399}Amazing.{NOTE:凄い。}
 Dialogue: 0,0:48:00.39,0:48:02.02,Default,Ayuhara,0,0,0,,{TIME:2880399,2882025}Her aim at line is perfect.{NOTE:ラインを狙って打つなんて。}
 Dialogue: 0,0:48:15.74,0:48:16.45,Default,Hayakawa,0,0,0,,{TIME:2895747,2896455}Try a feint!{NOTE:フェイント！}
 Dialogue: 0,0:48:18.79,0:48:19.79,Default,Ayuhara,0,0,0,,{TIME:2898792,2899793}Damn!{NOTE:しまった！}
 Dialogue: 0,0:48:19.79,0:48:22.58,Default,Ayuhara,0,0,0,,{TIME:2899793,2902587}I can't penetrate it at all!{NOTE:XXXみんな駄目にされてしまう。}
-Dialogue: 0,0:48:19.91,0:48:23.46,Blackboard,,0,0,0,,{TIME:2899918,2903463}{\fad(900,900)}Fujimi · Fukuoka{NOTE:富士見・福岡}
+Dialogue: 0,0:48:19.91,0:48:23.46,Blackboard,(sign),0,0,0,,{TIME:2899918,2903463}{\fad(900,900)}Fujimi · Fukuoka{NOTE:富士見・福岡}
 Dialogue: 0,0:48:22.58,0:48:23.46,Default,Ayuhara,0,0,0,,{TIME:2902587,2903463}What to do?{NOTE:どうしよう？}
 Dialogue: 0,0:48:23.88,0:48:27.17,Default,Commentator,0,0,0,,{TIME:2903880,2907174}Looks like Fukuoka completely controls this match as well.{NOTE:どうやらこの試合も福岡中のペースになってきたようです。}
 Dialogue: 0,0:48:27.17,0:48:29.13,Default,Commentator,0,0,0,,{TIME:2907174,2909136}Oh, Fujimi got the right to serve.{NOTE:富士見にサーブ権が回ったようです。}
@@ -870,8 +873,8 @@ Dialogue: 0,0:48:42.39,0:48:43.60,Default,Commentator,0,0,0,,{TIME:2922399,29236
 Dialogue: 0,0:48:43.60,0:48:45.19,Default,Commentator,0,0,0,,{TIME:2923607,2925193}As expected from Kakinouchi.{NOTE:さすがレシーバの垣之内。}
 Dialogue: 0,0:48:45.19,0:48:48.02,Default,Commentator,0,0,0,,{TIME:2925193,2928029}She perfectly warded off the famous "falling leaf".{NOTE:見事に評判の木の葉落としを拾い上げました。}
 Dialogue: 0,0:48:52.78,0:48:55.41,Default,Kakinouchi,0,0,0,,{TIME:2932784,2935412}Ayuhara-san. Resistance is futile.{NOTE:鮎原さん、何をしても無駄だ。}
-Dialogue: 0,0:48:59.91,0:49:01.50,Sign,,0,0,0,,{TIME:2939915,2941500}Good luck, Fukuoka{NOTE:ガンバレ福岡中学}
-Dialogue: 0,0:49:01.50,0:49:03.42,Blackboard,,0,0,0,,{TIME:2941500,2943420}Fukuoka · Fujimi{NOTE:福岡中・富士見中}
+Dialogue: 0,0:48:59.91,0:49:01.50,Sign,(sign),0,0,0,,{TIME:2939915,2941500}Good luck, Fukuoka{NOTE:ガンバレ福岡中学}
+Dialogue: 0,0:49:01.50,0:49:03.42,Blackboard,(sign),0,0,0,,{TIME:2941500,2943420}Fukuoka · Fujimi{NOTE:福岡中・富士見中}
 Dialogue: 0,0:49:01.87,0:49:03.67,Default,Commentator,0,0,0,,{TIME:2941877,2943670}Fukuoka wins the first set.{NOTE:第一セットは福岡中がとりました。}
 Dialogue: 0,0:49:03.67,0:49:06.67,Default,Hongou,0,0,0,,{TIME:2943670,2946673}Do you now understand Fukuoka's strength?{NOTE:分かっただろ？福岡中の恐ろしさは。}
 Dialogue: 0,0:49:06.67,0:49:09.71,Default,Hongou,0,0,0,,{TIME:2946673,2949718}It's something you can only see by yourself on the court.{NOTE:コートの中で戦ってみて初めて分かる怖さだ。}
@@ -886,12 +889,12 @@ Dialogue: 0,0:49:33.40,0:49:37.49,Default,(audience),0,0,0,,{TIME:2973408,297749
 Dialogue: 0,0:49:40.24,0:49:41.70,Default,Kudou,0,0,0,,{TIME:2980248,2981708}Here I go!{NOTE:行くわよ！}
 Dialogue: 0,0:49:45.96,0:49:46.88,Default,(unknown),0,0,0,,{TIME:2985962,2986880}Look out!{NOTE:XX！}
 Dialogue: 0,0:49:48.67,0:49:49.46,Default,(unknown),0,0,0,,{TIME:2988673,2989466}Hit!{NOTE:XX！}
-Dialogue: 0,0:49:52.55,0:49:55.05,Blackboard,,0,0,0,,{TIME:2992551,2995055}{\fad(600,600)}Fujimi · Fukuoka{NOTE:富士見中・福岡中}
-Dialogue: 0,0:50:02.97,0:50:05.64,Blackboard,,0,0,0,,{TIME:3002979,3005649}{\fad(600,600)}Fujimi · Fukuoka{NOTE:富士見中・福岡中}
+Dialogue: 0,0:49:52.55,0:49:55.05,Blackboard,(sign),0,0,0,,{TIME:2992551,2995055}{\fad(600,600)}Fujimi · Fukuoka{NOTE:富士見中・福岡中}
+Dialogue: 0,0:50:02.97,0:50:05.64,Blackboard,(sign),0,0,0,,{TIME:3002979,3005649}{\fad(600,600)}Fujimi · Fukuoka{NOTE:富士見中・福岡中}
 Dialogue: 0,0:50:05.73,0:50:07.52,Default,Ichinose,0,0,0,,{TIME:3005732,3007526}Good! Keep it up!{NOTE:いいぞ！その調子だ！}
 Dialogue: 0,0:50:07.52,0:50:08.81,Default,Ichinose,0,0,0,,{TIME:3007526,3008818}Come on!{NOTE:頑張れよ！}
-Dialogue: 0,0:50:13.19,0:50:14.78,Blackboard,,0,0,0,,{TIME:3013198,3014783}Fujimi · Fukuoka{NOTE:富士見中・福岡中}
-Dialogue: 0,0:50:21.28,0:50:24.25,Blackboard,,0,0,0,,{TIME:3021288,3024250}{\fad(600,0)}Fujimi · Fukuoka{NOTE:富士見中・福岡中}
+Dialogue: 0,0:50:13.19,0:50:14.78,Blackboard,(sign),0,0,0,,{TIME:3013198,3014783}Fujimi · Fukuoka{NOTE:富士見中・福岡中}
+Dialogue: 0,0:50:21.28,0:50:24.25,Blackboard,(sign),0,0,0,,{TIME:3021288,3024250}{\fad(600,0)}Fujimi · Fukuoka{NOTE:富士見中・福岡中}
 Dialogue: 0,0:50:24.33,0:50:25.58,Default,Commentator,0,0,0,,{TIME:3024334,3025585}12 to 10.{NOTE:十二対十。}
 Dialogue: 0,0:50:25.58,0:50:27.71,Default,Commentator,0,0,0,,{TIME:3025585,3027712}Fujimi Academy gained a lead by two points.{NOTE:富士見学園が二点リードいたしました。}
 Dialogue: 0,0:50:28.46,0:50:30.17,Default,(audience),0,0,0,,{TIME:3028463,3030173}Great, Fujimi!{NOTE:いいぞ！富士見！}
@@ -907,7 +910,7 @@ Dialogue: 0,0:51:02.45,0:51:03.37,Default,Hayakawa,0,0,0,,{TIME:3062455,3063373}
 Dialogue: 0,0:51:07.41,0:51:08.71,Default,Kashiwagi,0,0,0,,{TIME:3067419,3068712}Don't sweat it.{NOTE:気にしない、気にしない。}
 Dialogue: 0,0:51:17.63,0:51:19.43,Default,Ayuhara,0,0,0,,{TIME:3077636,3079431}Nice reception, Oyoshi.{NOTE:おヨシ、ナイスレシーブよ。}
 Dialogue: 0,0:51:24.93,0:51:25.72,Default,Ayuhara,0,0,0,,{TIME:3084935,3085729}Attack!{NOTE:アタック！}
-Dialogue: 0,0:51:35.82,0:51:37.53,Blackboard,,0,0,0,,{TIME:3095821,3097531}Fujimi · Fukuoka{NOTE:富士見中・福岡中}
+Dialogue: 0,0:51:35.82,0:51:37.53,Blackboard,(sign),0,0,0,,{TIME:3095821,3097531}Fujimi · Fukuoka{NOTE:富士見中・福岡中}
 Dialogue: 0,0:51:37.78,0:51:40.03,Default,Commentator,0,0,0,,{TIME:3097781,3100035}The second set goes to Fujimi Academy.{NOTE:第二セットは富士見学園がとりました。}
 Dialogue: 0,0:51:40.03,0:51:41.87,Default,Commentator,0,0,0,,{TIME:3100035,3101870}Set score is now 1 to 1.{NOTE:セットカウントは1対1。}
 Dialogue: 0,0:51:41.87,0:51:44.45,Default,Commentator,0,0,0,,{TIME:3101870,3104456}The third set will be the final battle\Nthat decides the outcome.{NOTE:決戦は第三セットに持ち込まれました。}
@@ -926,7 +929,7 @@ Dialogue: 0,0:52:05.18,0:52:05.97,Default,(unison),0,0,0,,{TIME:3125185,3125977}
 Dialogue: 0,0:52:06.31,0:52:11.35,Default,Commentator,0,0,0,,{TIME:3126310,3131358}The All-Japan middle school girls volleyball championship reaches its decisive stage.{NOTE:さて、全国中学女子バレーの日本一をかけた決勝戦もいよいよ大詰め。}
 Dialogue: 0,0:52:11.35,0:52:12.81,Default,Commentator,0,0,0,,{TIME:3131358,3132817}The third set is about to start.{NOTE:第三セットであります。}
 Dialogue: 0,0:52:12.81,0:52:16.15,Default,Commentator,0,0,0,,{TIME:3132817,3136154}Will the title of Japan's best go to Fukuoka Middle School from Kyūshū?{NOTE:日本一の栄冠は福岡中学か？あるいは富士見学園？}
-Dialogue: 0,0:52:14.73,0:52:17.07,Blackboard,,0,0,0,,{TIME:3134736,3137071}Fujimi · Fukuoka{NOTE:富士見中・福岡中}
+Dialogue: 0,0:52:14.73,0:52:17.07,Blackboard,(sign),0,0,0,,{TIME:3134736,3137071}Fujimi · Fukuoka{NOTE:富士見中・福岡中}
 Dialogue: 0,0:52:26.08,0:52:28.33,Alternative,Ayuhara,0,0,0,,{TIME:3146081,3148333}No good. She received an out.{NOTE:行けない。アウトのボールを落とされるわ。}
 Dialogue: 0,0:52:32.58,0:52:34.92,Default,Ozawa,0,0,0,,{TIME:3152587,3154923}I can do the revolving reception as well!{NOTE:私だって回転レシーブできる！}
 Dialogue: 0,0:52:36.00,0:52:36.79,Default,Ayuhara,0,0,0,,{TIME:3156007,3156799}Ozawa-san!{NOTE:小沢さん！}
@@ -941,12 +944,12 @@ Dialogue: 0,0:52:49.52,0:52:50.98,Default,Hongou,0,0,0,,{TIME:3169521,3170980}Qu
 Dialogue: 0,0:52:50.98,0:52:51.60,Default,Fukuda,0,0,0,,{TIME:3170980,3171606}Yes sir.{NOTE:はい。}
 Dialogue: 0,0:52:51.60,0:52:53.52,Default,Hongou,0,0,0,,{TIME:3171606,3173525}Ikezaki. You replace her.{NOTE:池崎。お前は返りに入れ。}
 Dialogue: 0,0:52:53.52,0:52:54.10,Default,Ikezaki,0,0,0,,{TIME:3173525,3174109}Roger!{NOTE:はい。}
-Dialogue: 0,0:52:56.02,0:52:58.32,Blackboard,,0,0,0,,{TIME:3176027,3178321}{\fad(0,1600)}Fukuoka · Fujimi{NOTE:福岡中・富士見中}
-Dialogue: 0,0:53:00.69,0:53:05.62,Blackboard,,0,0,0,,{TIME:3180699,3185620}{\fad(1600,1600)}Fukuoka · Fujimi{NOTE:福岡中・富士見中}
-Dialogue: 0,0:53:07.87,0:53:10.87,Blackboard,,0,0,0,,{TIME:3187872,3190875}{\fad(1200,0)}Fukuoka · Fujimi{NOTE:福岡中・富士見中}
+Dialogue: 0,0:52:56.02,0:52:58.32,Blackboard,(sign),0,0,0,,{TIME:3176027,3178321}{\fad(0,1600)}Fukuoka · Fujimi{NOTE:福岡中・富士見中}
+Dialogue: 0,0:53:00.69,0:53:05.62,Blackboard,(sign),0,0,0,,{TIME:3180699,3185620}{\fad(1600,1600)}Fukuoka · Fujimi{NOTE:福岡中・富士見中}
+Dialogue: 0,0:53:07.87,0:53:10.87,Blackboard,(sign),0,0,0,,{TIME:3187872,3190875}{\fad(1200,0)}Fukuoka · Fujimi{NOTE:福岡中・富士見中}
 Dialogue: 0,0:53:11.33,0:53:13.37,Default,Commentator,0,0,0,,{TIME:3191334,3193378}A fierce battle, suitable for the final game.{NOTE:決勝戦に相応しい熱戦です。}
 Dialogue: 0,0:53:13.37,0:53:15.29,Default,Commentator,0,0,0,,{TIME:3193378,3195296}It's truly a great battle, full of suspense!{NOTE:正に手に汗を握る熱戦です！}
-Dialogue: 0,0:53:15.42,0:53:17.88,Blackboard,,0,0,0,,{TIME:3195422,3197882}{\fad(600,600)}Fukuoka · Fujimi{NOTE:福岡中・富士見中}
+Dialogue: 0,0:53:15.42,0:53:17.88,Blackboard,(sign),0,0,0,,{TIME:3195422,3197882}{\fad(600,600)}Fukuoka · Fujimi{NOTE:福岡中・富士見中}
 Dialogue: 0,0:53:18.38,0:53:21.88,Default,Commentator,0,0,0,,{TIME:3198383,3201886}Finally it's a match point in the third set for Fukuoka.{NOTE:第三セットついに福岡中学マッチポイントであります！}
 Dialogue: 0,0:53:22.38,0:53:23.34,Default,Ayuhara's mom,0,0,0,,{TIME:3202387,3203346}Kozue.{NOTE:こずえ。}
 Dialogue: 0,0:53:44.07,0:53:46.57,Default,Commentator,0,0,0,,{TIME:3224075,3226578}Did it go in? Or was it an out? We await the decision.{NOTE:セーフか？それともアウトか？XXXであります！}
@@ -960,7 +963,7 @@ Dialogue: 0,0:53:59.67,0:54:02.51,Default,Commentator,0,0,0,,{TIME:3239674,32425
 Dialogue: 0,0:54:03.67,0:54:04.55,Default,Katori,0,0,0,,{TIME:3243678,3244553}Here I go!{NOTE:行くわよ！}
 Dialogue: 0,0:54:15.85,0:54:16.56,Default,Hayakawa,0,0,0,,{TIME:3255857,3256566}Kozue!{NOTE:こずえ！}
 Dialogue: 0,0:54:16.56,0:54:17.69,Default,(unison),0,0,0,,{TIME:3256566,3257692}– We did it!\N– We did it!{NOTE:—よかった！\\N—よかった！}
-Dialogue: 0,0:54:18.23,0:54:21.15,Blackboard,,0,0,0,,{TIME:3258234,3261154}Fukuoka · Fujimi{NOTE:福岡中・富士見中}
+Dialogue: 0,0:54:18.23,0:54:21.15,Blackboard,(sign),0,0,0,,{TIME:3258234,3261154}Fukuoka · Fujimi{NOTE:福岡中・富士見中}
 Dialogue: 0,0:54:19.36,0:54:21.19,Default,Commentator,0,0,0,,{TIME:3259360,3261196}It's a tie. We got a tie!{NOTE:ついに同点！同点であります！}
 Dialogue: 0,0:54:21.19,0:54:25.78,Default,Commentator,0,0,0,,{TIME:3261196,3265784}Fujimi Academy captain's, Ayuhara Kozue's feint strategy has landed them a point.{NOTE:富士見学園キャプテン鮎原こずえのXXフェイント作戦がXXと的中いたしました。}
 Dialogue: 0,0:54:26.40,0:54:27.82,Default,(mixed),0,0,0,,{TIME:3266409,3267827}– Nakazawa.\N– Sir.{NOTE:—中沢。\\N—はい。}
@@ -973,7 +976,7 @@ Dialogue: 0,0:54:36.12,0:54:37.83,Alternative,Nakazawa,0,0,0,,{TIME:3276127,3277
 Dialogue: 0,0:54:39.21,0:54:40.13,Default,Nakazawa,0,0,0,,{TIME:3279214,3280131}Here goes nothing!{NOTE:行くよ！}
 Dialogue: 0,0:54:40.13,0:54:41.21,Default,Hayakawa,0,0,0,,{TIME:3280131,3281216}You can do it!{NOTE:頑張ってよ！}
 Dialogue: 0,0:54:48.76,0:54:50.76,Default,(mixed),0,0,0,,{TIME:3288765,3290767}Nice, nice, nice! You did it!{NOTE:XXX！}
-Dialogue: 0,0:54:50.76,0:54:51.89,Blackboard,,0,0,0,,{TIME:3290767,3291893}Fukuoka · Fujimi{NOTE:福岡中・富士見中}
+Dialogue: 0,0:54:50.76,0:54:51.89,Blackboard,(sign),0,0,0,,{TIME:3290767,3291893}Fukuoka · Fujimi{NOTE:福岡中・富士見中}
 Dialogue: 0,0:54:52.72,0:54:53.77,Default,Fukuoka's coach,0,0,0,,{TIME:3292727,3293770}Time!{NOTE:タイム。}
 Dialogue: 0,0:54:53.77,0:54:56.10,Default,Commentator,0,0,0,,{TIME:3293770,3296105}Ah, timeout! Fukuoka's coach requested a timeout.{NOTE:お？タイム。タイムを要求いたしました。}
 Dialogue: 0,0:54:56.10,0:54:59.10,Default,Commentator,0,0,0,,{TIME:3296105,3299107}How is Fukuoka going to crawl out\Nfrom their deep pinch?{NOTE:福岡中学はここでどうこのピンチを切り抜けるでしょう？}
@@ -1041,7 +1044,7 @@ Dialogue: 0,0:57:32.63,0:57:35.30,Alternative,Kakinouchi,0,0,0,,{TIME:3452637,34
 Dialogue: 0,0:57:35.30,0:57:37.89,Alternative,Kakinouchi,0,0,0,,{TIME:3455306,3457892}What an amazing technique.{NOTE:恐ろしくほどのテクニック。}
 Dialogue: 0,0:57:37.89,0:57:40.43,Alternative,Kakinouchi,0,0,0,,{TIME:3457892,3460436}Fujimi Academy and Ayuhara Kozue.{NOTE:富士見学園の鮎原こずえ。}
 Dialogue: 0,0:57:40.43,0:57:43.39,Alternative,Kakinouchi,0,0,0,,{TIME:3460436,3463398}I won't forget those names anytime soon.{NOTE:その名前は決して忘れることはない。}
-Dialogue: 0,0:57:44.14,0:57:52.28,Sign,,0,0,0,,{TIME:3464148,3472281}{\fad(0,2200)}Fujimi{NOTE:富士見}
+Dialogue: 0,0:57:44.14,0:57:52.28,Sign,(sign),0,0,0,,{TIME:3464148,3472281}{\fad(0,2200)}Fujimi{NOTE:富士見}
 Dialogue: 0,0:57:45.44,0:57:49.19,Default,Commentator,0,0,0,,{TIME:3465441,3469195}Fujimi Academy's banner is raised on the central pole.{NOTE:インターポールに富士見学園のXXがXX上がりました。}
 Dialogue: 0,0:57:49.19,0:57:52.69,Default,Commentator,0,0,0,,{TIME:3469195,3472699}There are tears. Fujimi Academy's team is in tears.{NOTE:泣いております。富士見学園チームただ涙であります。}
 Dialogue: 0,0:57:52.69,0:57:56.24,Default,Commentator,0,0,0,,{TIME:3472699,3476244}Same goes to the regrettable Fukuoka Middle School's team.{NOTE:そして惜しくも破れた福岡中学又涙であります。}
@@ -1057,8 +1060,8 @@ Dialogue: 0,0:58:44.33,0:58:47.12,Default,Commentator,0,0,0,,{TIME:3524332,35271
 Dialogue: 0,0:58:47.12,0:58:52.25,Default,Commentator,0,0,0,,{TIME:3527128,3532258}But it's safe to say that the most contributing factor\Nwas Captain Ayuhara Kozue's hard work.{NOTE:得にキャプテン鮎原こずえの働きがあればこその優勝と言えましょう。}
 Dialogue: 0,0:58:52.25,0:58:54.46,Default,Commentator,0,0,0,,{TIME:3532258,3534469}You did well, Fujimi Academy.{NOTE:よくぞやった富士見学園。}
 Dialogue: 0,0:58:54.46,0:58:56.51,Default,Commentator,0,0,0,,{TIME:3534469,3536511}The applause lavishly continues on.{NOTE:惜しみなく拍手がおこられております。}
-Dialogue: 0,0:58:42.04,0:58:50.25,Lyrics Kanji,,0,0,0,,{TIME:3522040,3530256}{NOTE:涙も汗も若いファイトで}
-Dialogue: 0,0:58:50.25,0:58:58.26,Lyrics Kanji,,0,0,0,,{TIME:3530256,3538264}{NOTE:青空に遠く叫びたい}
-Dialogue: 0,0:58:58.26,0:59:06.43,Lyrics Kanji,,0,0,0,,{TIME:3538264,3546439}{NOTE:アタックアタックナンバーワン}
-Dialogue: 0,0:59:06.43,0:59:16.74,Lyrics Kanji,,0,0,0,,{TIME:3546439,3556741}{NOTE:アタックアタックナンバーワン}
-Dialogue: 0,0:59:11.77,0:59:17.90,Default,,0,0,0,,{TIME:3551778,3557908}{\pos(968,765)\1c&HDEEECE&\b1\bord0\fs90\fad(0,1000)}Fin{NOTE:終}
+Dialogue: 0,0:58:42.04,0:58:50.25,Lyrics Kanji,[karaoke],0,0,0,,{TIME:3522040,3530256}{NOTE:涙も汗も若いファイトで}
+Dialogue: 0,0:58:50.25,0:58:58.26,Lyrics Kanji,[karaoke],0,0,0,,{TIME:3530256,3538264}{NOTE:青空に遠く叫びたい}
+Dialogue: 0,0:58:58.26,0:59:06.43,Lyrics Kanji,[karaoke],0,0,0,,{TIME:3538264,3546439}{NOTE:アタックアタックナンバーワン}
+Dialogue: 0,0:59:06.43,0:59:16.74,Lyrics Kanji,[karaoke],0,0,0,,{TIME:3546439,3556741}{NOTE:アタックアタックナンバーワン}
+Dialogue: 0,0:59:11.77,0:59:17.90,Default,(sign),0,0,0,,{TIME:3551778,3557908}{}{\pos(968,765)\1c&HDEEECE&\b1\bord0\fs90\t(5130,6130,2,\1c&H202000&)\fad(0,300)}Fin{NOTE:終}

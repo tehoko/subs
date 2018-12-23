@@ -23,72 +23,74 @@ Style: Lyrics Romaji,Gotham Rounded Medium,64,&H00BFF6FF,&H8C7A8688,&H00202020,&
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.14,0:00:13.74,Default,,0,0,0,,{TIME:1140,13740}{\an4\pos(60,690)\fn(Utopia Std)\fs135\fscy110\bord1.9500000000000002\blur4\1a&HFF&\3c&H131313&\t(0,1000,\3a&H40&\blur2)\t(1000,2000,2.0,\3a&HC0&)}Attack N{\fs100\fscx120}0{\fs135}.1{NOTE:アタックNo.1}
-Dialogue: 0,0:00:01.14,0:00:13.74,Default,,0,0,0,,{TIME:1140,13740}{\an4\pos(705,708)\fn(Utopia with Oldstyle Figures)\fs75\bord1.35\blur4\1a&HFF&\3c&H131313&\t(0,1000,\3a&H40&\blur2)\t(1000,2000,2.0,\3a&HC0&)}Fujimi Academy's New Star{NOTE:富士見学園の新星}
-Dialogue: 1,0:00:01.14,0:00:13.74,Default,,0,0,0,,{TIME:1140,13740}{\an4\pos(60,690)\fn(Utopia Std)\fs135\fscy110\bord0\blur3\1c&H131313&\t(0,1000,2.0,\1c&H131340&)\t(1000,2000,\1c&H1015B2&\blur1.4)}Attack N{\fs100\fscx120}0{\fs135}.1{NOTE:アタックNo.1}
-Dialogue: 1,0:00:01.14,0:00:13.74,Default,,0,0,0,,{TIME:1140,13740}{\an4\pos(705,708)\fn(Utopia with Oldstyle Figures)\fs75\bord0\blur3\1c&H131313&\t(0,1000,2.0,\1c&H131340&)\t(1000,2000,\1c&H1015B2&\blur1.4)}Fujimi Academy's New Star{NOTE:富士見学園の新星}
-Dialogue: 0,0:00:13.99,0:00:18.33,Lyrics Kanji,,0,0,0,,{TIME:13990,18330}苦しくたって
-Dialogue: 0,0:00:18.33,0:00:21.96,Lyrics Kanji,,0,0,0,,{TIME:18330,21960}悲しくたって
-Dialogue: 0,0:00:21.96,0:00:29.13,Lyrics Kanji,,0,0,0,,{TIME:21960,29130}コートのなかではへいきなの
-Dialogue: 0,0:00:29.13,0:00:37.60,Lyrics Kanji,,0,0,0,,{TIME:29130,37600}ボールがうなると胸がはずむわ
-Dialogue: 0,0:00:37.60,0:00:41.89,Lyrics Kanji,,0,0,0,,{TIME:37600,41890}レシーブ  トス  スパイク
-Dialogue: 0,0:00:41.89,0:00:46.27,Lyrics Kanji,,0,0,0,,{TIME:41890,46270}ワン・トゥー  ワン・トゥー  アタック
-Dialogue: 0,0:00:50.28,0:00:58.62,Lyrics Kanji,,0,0,0,,{TIME:50280,58620}涙も汗も 若いファイトで
-Dialogue: 0,0:00:58.62,0:01:06.87,Lyrics Kanji,,0,0,0,,{TIME:58620,66870}青空に遠く さけびたい
-Dialogue: 0,0:01:06.87,0:01:15.17,Lyrics Kanji,,0,0,0,,{TIME:66870,75170}アタック  アタック  No.1
-Dialogue: 0,0:01:15.17,0:01:23.64,Lyrics Kanji,,0,0,0,,{TIME:75170,83640}アタック  アタック  No.1
-Dialogue: 0,0:01:26.19,0:01:30.57,Lyrics Kanji,,0,0,0,,{TIME:86190,90570}苦しくたって
-Dialogue: 0,0:01:30.57,0:01:34.15,Lyrics Kanji,,0,0,0,,{TIME:90570,94150}悲しくたって
-Dialogue: 0,0:01:34.15,0:01:41.41,Lyrics Kanji,,0,0,0,,{TIME:94150,101410}チームの仲間が いるんだもん
-Dialogue: 0,0:01:41.41,0:01:49.79,Lyrics Kanji,,0,0,0,,{TIME:101410,109790}ホイッスルがなると 心がはずむわ
-Dialogue: 0,0:01:49.79,0:01:54.05,Lyrics Kanji,,0,0,0,,{TIME:109790,114050}レシーブ  トス  スパイク
-Dialogue: 0,0:01:54.05,0:01:58.68,Lyrics Kanji,,0,0,0,,{TIME:114050,118680}ワン・ツー  ワン・ツー  アタック
-Dialogue: 0,0:02:02.35,0:02:10.61,Lyrics Kanji,,0,0,0,,{TIME:122350,130610}涙の中に若い心で
-Dialogue: 0,0:02:10.61,0:02:18.95,Lyrics Kanji,,0,0,0,,{TIME:130610,138950}ながれゆく雲にさけびたい
-Dialogue: 0,0:02:18.95,0:02:27.29,Lyrics Kanji,,0,0,0,,{TIME:138950,147290}アタック  アタック  No.1
-Dialogue: 0,0:02:27.29,0:02:37.92,Lyrics Kanji,,0,0,0,,{TIME:147290,157920}{\fad(0,1000)}アタック  アタック  No.1
-Dialogue: 0,0:00:13.99,0:00:18.33,Lyrics Romaji,,0,0,0,,{TIME:13990,18330}{\k25}Ku{\k16}ru{\k37}shi{\k54}ku {\k58}ta{\k241}tte
-Dialogue: 0,0:00:18.33,0:00:21.96,Lyrics Romaji,,0,0,0,,{TIME:18330,21960}{\k29}Ka{\k20}na{\k37}shi{\k54}ku {\k58}ta{\k162}tte
-Dialogue: 0,0:00:21.96,0:00:29.13,Lyrics Romaji,,0,0,0,,{TIME:21960,29130}{\k62}Koo{\k75}to {\k33}no {\k29}na{\k29}ka {\k20}de {\k95}wa {\k62}hei{\k70}ki {\k37}na{\k200}no
-Dialogue: 0,0:00:29.13,0:00:37.60,Lyrics Romaji,,0,0,0,,{TIME:29130,37600}{\k83}Boo{\k29}ru {\k104}ga {\k33}u{\k50}na{\k29}ru {\k129}to {\k29}mu{\k16}ne {\k33}ga {\k29}ha{\k45}zu{\k33}mu {\k200}wa
-Dialogue: 0,0:00:37.60,0:00:41.89,Lyrics Romaji,,0,0,0,,{TIME:37600,41890}{\k37}Re{\k54}shii{\k20}bu {\k104}tosu {\k29}su{\k25}pa{\k29}i{\k54}ku
-Dialogue: 0,0:00:41.89,0:00:46.27,Lyrics Romaji,,0,0,0,,{TIME:41890,46270}{\k50}Wan {\k54}tsu {\k54}wan {\k54}tsu {\k33}a{\k50}ta{\k141}kku
-Dialogue: 0,0:00:50.28,0:00:58.62,Lyrics Romaji,,0,0,0,,{TIME:50280,58620}{\k33}Na{\k50}mi{\k25}da {\k50}mo {\k29}a{\k25}se {\k233}mo {\k25}wa{\k25}ka{\k25}i {\k29}fa{\k50}i{\k25}to {\k208}de
-Dialogue: 0,0:00:58.62,0:01:06.87,Lyrics Romaji,,0,0,0,,{TIME:58620,66870}{\k45}A{\k54}o{\k29}zo{\k45}ra {\k29}ni {\k50}to{\k29}o{\k125}ku {\k50}sa{\k50}ke{\k75}bi{\k66}ta{\k175}i
-Dialogue: 0,0:01:06.87,0:01:15.17,Lyrics Romaji,,0,0,0,,{TIME:66870,75170}{\k25}A{\k54}ta{\k125}kku {\k29}a{\k50}ta{\k129}kku {\k104}nan{\k108}baa {\k212}wan
-Dialogue: 0,0:01:15.17,0:01:23.64,Lyrics Romaji,,0,0,0,,{TIME:75170,83640}{\k25}A{\k54}ta{\k129}kku {\k29}a{\k50}ta{\k125}kku {\k108}nan{\k104}baa {\k221}wan
-Dialogue: 0,0:01:26.19,0:01:30.57,Lyrics Romaji,,0,0,0,,{TIME:86190,90570}{\k25}Ku{\k20}ru{\k41}shi{\k45}ku {\k62}ta{\k241}tte
-Dialogue: 0,0:01:30.57,0:01:34.15,Lyrics Romaji,,0,0,0,,{TIME:90570,94150}{\k29}Ka{\k25}na{\k33}shi{\k50}ku {\k58}ta{\k162}tte
-Dialogue: 0,0:01:34.15,0:01:41.41,Lyrics Romaji,,0,0,0,,{TIME:94150,101410}{\k58}Chii{\k83}mu {\k25}no {\k33}na{\k25}ka{\k25}ma {\k91}ga{\k25} i{\k33}ru{\k79}n{\k33}da{\k212}mon
-Dialogue: 0,0:01:41.41,0:01:49.79,Lyrics Romaji,,0,0,0,,{TIME:101410,109790}{\k33}Ho{\k45}i{\k33}ssu{\k29}ru {\k70}ga {\k37}na{\k71}ru {\k104}to {\k25}ko{\k25}ko{\k29}ro {\k29}ga {\k29}ha{\k45}zu{\k29}mu {\k200}wa
-Dialogue: 0,0:01:49.79,0:01:54.05,Lyrics Romaji,,0,0,0,,{TIME:109790,114050}{\k33}Re{\k54}shii{\k20}bu {\k108}tosu {\k29}su{\k20}pa{\k29}i{\k129}ku
-Dialogue: 0,0:01:54.05,0:01:58.68,Lyrics Romaji,,0,0,0,,{TIME:114050,118680}{\k54}Wan {\k54}tsu {\k50}wan {\k54}tsu {\k29}a{\k54}ta{\k166}kku
-Dialogue: 0,0:02:02.35,0:02:10.61,Lyrics Romaji,,0,0,0,,{TIME:122350,130610}{\k29}Na{\k50}mi{\k25}da {\k37}no {\k41}na{\k25}ka {\k233}ni {\k25}wa{\k20}ka{\k29}i {\k25}ko{\k50}ko{\k29}ro {\k204}de
-Dialogue: 0,0:02:10.61,0:02:18.95,Lyrics Romaji,,0,0,0,,{TIME:130610,138950}{\k58}Na{\k54}ga{\k25}re{\k45}yu{\k29}ku {\k45}ku{\k37}mo {\k121}ni {\k54}sa{\k45}ke{\k83}bi{\k58}ta{\k175}i
-Dialogue: 0,0:02:18.95,0:02:27.29,Lyrics Romaji,,0,0,0,,{TIME:138950,147290}{\k25}A{\k54}ta{\k133}kku {\k25}a{\k50}ta{\k121}kku {\k116}nan{\k104}baa {\k204}wan
-Dialogue: 0,0:02:27.29,0:02:37.92,Lyrics Romaji,,0,0,0,,{TIME:147290,157920}{\fad(0,1000)\k29}A{\k50}ta{\k129}kku {\k33}a{\k50}ta{\k120}kku {\k112}nan{\k108}baa {\k429}wan
-Dialogue: 0,0:00:13.99,0:00:18.33,Lyrics English,,0,0,0,,{TIME:13990,18330}Even though it hurts…
-Dialogue: 0,0:00:18.33,0:00:21.96,Lyrics English,,0,0,0,,{TIME:18330,21960}…even though I feel sad…
-Dialogue: 0,0:00:21.96,0:00:29.13,Lyrics English,,0,0,0,,{TIME:21960,29130}…on the court I feel just fine.
-Dialogue: 0,0:00:29.13,0:00:37.60,Lyrics English,,0,0,0,,{TIME:29130,37600}When I hear the ball flying, my heart races.
-Dialogue: 0,0:00:37.60,0:00:41.89,Lyrics English,,0,0,0,,{TIME:37600,41890}Receive. Toss. Spike.
-Dialogue: 0,0:00:41.89,0:00:46.27,Lyrics English,,0,0,0,,{TIME:41890,46270}One-two, one-two! Attack!
-Dialogue: 0,0:00:50.28,0:00:58.62,Lyrics English,,0,0,0,,{TIME:50280,58620}Through the tears and sweat, putting up a youthful fight…
-Dialogue: 0,0:00:58.62,0:01:06.87,Lyrics English,,0,0,0,,{TIME:58620,66870}…under the blue sky, I just want to scream:
-Dialogue: 0,0:01:06.87,0:01:15.17,Lyrics English,,0,0,0,,{TIME:66870,75170}Attack! Attack! Number 1!
-Dialogue: 0,0:01:15.17,0:01:23.64,Lyrics English,,0,0,0,,{TIME:75170,83640}Attack! Attack! Number 1!
-Dialogue: 0,0:01:26.19,0:01:30.57,Lyrics English,,0,0,0,,{TIME:86190,90570}Even though it hurts…
-Dialogue: 0,0:01:30.57,0:01:34.15,Lyrics English,,0,0,0,,{TIME:90570,94150}…even though I feel sad…
-Dialogue: 0,0:01:34.15,0:01:41.41,Lyrics English,,0,0,0,,{TIME:94150,101410}…I have my team mates.
-Dialogue: 0,0:01:41.41,0:01:49.79,Lyrics English,,0,0,0,,{TIME:101410,109790}I find myself whistling and my heart races.
-Dialogue: 0,0:01:49.79,0:01:54.05,Lyrics English,,0,0,0,,{TIME:109790,114050}Receive. Toss. Spike.
-Dialogue: 0,0:01:54.05,0:01:58.68,Lyrics English,,0,0,0,,{TIME:114050,118680}One-two, one-two! Attack!
-Dialogue: 0,0:02:02.35,0:02:10.61,Lyrics English,,0,0,0,,{TIME:122350,130610}Showing fighting spirit through the tears…
-Dialogue: 0,0:02:10.61,0:02:18.95,Lyrics English,,0,0,0,,{TIME:130610,138950}…looking at billowing clouds, I just want to scream:
-Dialogue: 0,0:02:18.95,0:02:27.29,Lyrics English,,0,0,0,,{TIME:138950,147290}Attack! Attack! Number 1!
-Dialogue: 0,0:02:27.29,0:02:37.92,Lyrics English,,0,0,0,,{TIME:147290,157920}{\fad(0,1000)}Attack! Attack! Number 1!
-Dialogue: 0,0:02:57.61,0:03:00.82,Sign,,0,0,0,,{TIME:177610,180820}{\fad(1900,0)}Fujimi Academy{NOTE:富士見学園}
-Dialogue: 0,0:03:08.33,0:03:12.08,Sign,,0,0,0,,{TIME:188330,192080}{\fad(0,2000)}Math{NOTE:数学}
+Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Opening
+Dialogue: 0,0:00:01.14,0:00:13.74,Default,[title],0,0,0,,{TIME:1140,13740}{\an4\pos(60,690)\fn(Utopia Std)\fs135\fscy110\bord1.9500000000000002\blur4\1a&HFF&\3c&H131313&\t(0,1000,\3a&H40&\blur2)\t(1000,2000,2.0,\3a&HC0&)}Attack N{\fs100\fscx120}0{\fs135}.1{NOTE:アタックNo.1}
+Dialogue: 0,0:00:01.14,0:00:13.74,Default,[title],0,0,0,,{TIME:1140,13740}{\an4\pos(705,708)\fn(Utopia with Oldstyle Figures)\fs75\bord1.35\blur4\1a&HFF&\3c&H131313&\t(0,1000,\3a&H40&\blur2)\t(1000,2000,2.0,\3a&HC0&)}Fujimi Academy's New Star{NOTE:富士見学園の新星}
+Dialogue: 1,0:00:01.14,0:00:13.74,Default,[title],0,0,0,,{TIME:1140,13740}{\an4\pos(60,690)\fn(Utopia Std)\fs135\fscy110\bord0\blur3\1c&H131313&\t(0,1000,2.0,\1c&H131340&)\t(1000,2000,\1c&H1015B2&\blur1.4)}Attack N{\fs100\fscx120}0{\fs135}.1{NOTE:アタックNo.1}
+Dialogue: 1,0:00:01.14,0:00:13.74,Default,[title],0,0,0,,{TIME:1140,13740}{\an4\pos(705,708)\fn(Utopia with Oldstyle Figures)\fs75\bord0\blur3\1c&H131313&\t(0,1000,2.0,\1c&H131340&)\t(1000,2000,\1c&H1015B2&\blur1.4)}Fujimi Academy's New Star{NOTE:富士見学園の新星}
+Dialogue: 0,0:00:13.99,0:00:18.33,Lyrics Kanji,[karaoke],0,0,0,,{TIME:13990,18330}苦しくたって
+Dialogue: 0,0:00:18.33,0:00:21.96,Lyrics Kanji,[karaoke],0,0,0,,{TIME:18330,21960}悲しくたって
+Dialogue: 0,0:00:21.96,0:00:29.13,Lyrics Kanji,[karaoke],0,0,0,,{TIME:21960,29130}コートのなかではへいきなの
+Dialogue: 0,0:00:29.13,0:00:37.60,Lyrics Kanji,[karaoke],0,0,0,,{TIME:29130,37600}ボールがうなると胸がはずむわ
+Dialogue: 0,0:00:37.60,0:00:41.89,Lyrics Kanji,[karaoke],0,0,0,,{TIME:37600,41890}レシーブ  トス  スパイク
+Dialogue: 0,0:00:41.89,0:00:46.27,Lyrics Kanji,[karaoke],0,0,0,,{TIME:41890,46270}ワン・トゥー  ワン・トゥー  アタック
+Dialogue: 0,0:00:50.28,0:00:58.62,Lyrics Kanji,[karaoke],0,0,0,,{TIME:50280,58620}涙も汗も 若いファイトで
+Dialogue: 0,0:00:58.62,0:01:06.87,Lyrics Kanji,[karaoke],0,0,0,,{TIME:58620,66870}青空に遠く さけびたい
+Dialogue: 0,0:01:06.87,0:01:15.17,Lyrics Kanji,[karaoke],0,0,0,,{TIME:66870,75170}アタック  アタック  No.1
+Dialogue: 0,0:01:15.17,0:01:23.64,Lyrics Kanji,[karaoke],0,0,0,,{TIME:75170,83640}アタック  アタック  No.1
+Dialogue: 0,0:01:26.19,0:01:30.57,Lyrics Kanji,[karaoke],0,0,0,,{TIME:86190,90570}苦しくたって
+Dialogue: 0,0:01:30.57,0:01:34.15,Lyrics Kanji,[karaoke],0,0,0,,{TIME:90570,94150}悲しくたって
+Dialogue: 0,0:01:34.15,0:01:41.41,Lyrics Kanji,[karaoke],0,0,0,,{TIME:94150,101410}チームの仲間が いるんだもん
+Dialogue: 0,0:01:41.41,0:01:49.79,Lyrics Kanji,[karaoke],0,0,0,,{TIME:101410,109790}ホイッスルがなると 心がはずむわ
+Dialogue: 0,0:01:49.79,0:01:54.05,Lyrics Kanji,[karaoke],0,0,0,,{TIME:109790,114050}レシーブ  トス  スパイク
+Dialogue: 0,0:01:54.05,0:01:58.68,Lyrics Kanji,[karaoke],0,0,0,,{TIME:114050,118680}ワン・ツー  ワン・ツー  アタック
+Dialogue: 0,0:02:02.35,0:02:10.61,Lyrics Kanji,[karaoke],0,0,0,,{TIME:122350,130610}涙の中に若い心で
+Dialogue: 0,0:02:10.61,0:02:18.95,Lyrics Kanji,[karaoke],0,0,0,,{TIME:130610,138950}ながれゆく雲にさけびたい
+Dialogue: 0,0:02:18.95,0:02:27.29,Lyrics Kanji,[karaoke],0,0,0,,{TIME:138950,147290}アタック  アタック  No.1
+Dialogue: 0,0:02:27.29,0:02:37.92,Lyrics Kanji,[karaoke],0,0,0,,{TIME:147290,157920}{\fad(0,1000)}アタック  アタック  No.1
+Dialogue: 0,0:00:13.99,0:00:18.33,Lyrics Romaji,[karaoke],0,0,0,,{TIME:13990,18330}{\k25}Ku{\k16}ru{\k37}shi{\k54}ku{\k58}ta{\k241}tte
+Dialogue: 0,0:00:18.33,0:00:21.96,Lyrics Romaji,[karaoke],0,0,0,,{TIME:18330,21960}{\k29}Ka{\k20}na{\k37}shi{\k54}ku{\k58}ta{\k162}tte
+Dialogue: 0,0:00:21.96,0:00:29.13,Lyrics Romaji,[karaoke],0,0,0,,{TIME:21960,29130}{\k62}Koo{\k75}to {\k33}no {\k29}na{\k29}ka {\k20}de {\k95}wa {\k62}hei{\k70}ki {\k37}na{\k200}no
+Dialogue: 0,0:00:29.13,0:00:37.60,Lyrics Romaji,[karaoke],0,0,0,,{TIME:29130,37600}{\k83}Boo{\k29}ru {\k104}ga {\k33}u{\k50}na{\k29}ru {\k129}to {\k29}mu{\k16}ne {\k33}ga {\k29}ha{\k45}zu{\k33}mu {\k200}wa
+Dialogue: 0,0:00:37.60,0:00:41.89,Lyrics Romaji,[karaoke],0,0,0,,{TIME:37600,41890}{\k37}Re{\k54}shii{\k20}bu {\k104}tosu {\k29}su{\k25}pa{\k29}i{\k54}ku
+Dialogue: 0,0:00:41.89,0:00:46.27,Lyrics Romaji,[karaoke],0,0,0,,{TIME:41890,46270}{\k50}Wan {\k54}tsuu {\k54}wan {\k54}tsuu {\k33}a{\k50}ta{\k141}kku
+Dialogue: 0,0:00:50.28,0:00:58.62,Lyrics Romaji,[karaoke],0,0,0,,{TIME:50280,58620}{\k33}Na{\k50}mi{\k25}da {\k50}mo {\k29}a{\k25}se {\k233}mo {\k25}wa{\k25}ka{\k25}i {\k29}fa{\k50}i{\k25}to {\k208}de
+Dialogue: 0,0:00:58.62,0:01:06.87,Lyrics Romaji,[karaoke],0,0,0,,{TIME:58620,66870}{\k45}A{\k54}o{\k29}zo{\k45}ra {\k29}ni {\k50}to{\k29}o{\k125}ku {\k50}sa{\k50}ke{\k75}bi{\k66}ta{\k175}i
+Dialogue: 0,0:01:06.87,0:01:15.17,Lyrics Romaji,[karaoke],0,0,0,,{TIME:66870,75170}{\k25}A{\k54}ta{\k125}kku {\k29}a{\k50}ta{\k129}kku {\k104}nan{\k108}baa {\k212}wan
+Dialogue: 0,0:01:15.17,0:01:23.64,Lyrics Romaji,[karaoke],0,0,0,,{TIME:75170,83640}{\k25}A{\k54}ta{\k129}kku {\k29}a{\k50}ta{\k125}kku {\k108}nan{\k104}baa {\k221}wan
+Dialogue: 0,0:01:26.19,0:01:30.57,Lyrics Romaji,[karaoke],0,0,0,,{TIME:86190,90570}{\k25}Ku{\k20}ru{\k41}shi{\k45}ku{\k62}ta{\k241}tte
+Dialogue: 0,0:01:30.57,0:01:34.15,Lyrics Romaji,[karaoke],0,0,0,,{TIME:90570,94150}{\k29}Ka{\k25}na{\k33}shi{\k50}ku{\k58}ta{\k162}tte
+Dialogue: 0,0:01:34.15,0:01:41.41,Lyrics Romaji,[karaoke],0,0,0,,{TIME:94150,101410}{\k58}Chii{\k83}mu {\k25}no {\k33}na{\k25}ka{\k25}ma {\k91}ga{\k25} i{\k33}ru{\k79}n{\k33}da{\k212}mon
+Dialogue: 0,0:01:41.41,0:01:49.79,Lyrics Romaji,[karaoke],0,0,0,,{TIME:101410,109790}{\k33}Ho{\k45}i{\k33}ssu{\k29}ru {\k70}ga {\k37}na{\k71}ru {\k104}to {\k25}ko{\k25}ko{\k29}ro {\k29}ga {\k29}ha{\k45}zu{\k29}mu {\k200}wa
+Dialogue: 0,0:01:49.79,0:01:54.05,Lyrics Romaji,[karaoke],0,0,0,,{TIME:109790,114050}{\k33}Re{\k54}shii{\k20}bu {\k108}tosu {\k29}su{\k20}pa{\k29}i{\k129}ku
+Dialogue: 0,0:01:54.05,0:01:58.68,Lyrics Romaji,[karaoke],0,0,0,,{TIME:114050,118680}{\k54}Wan {\k54}tsuu {\k50}wan {\k54}tsuu {\k29}a{\k54}ta{\k166}kku
+Dialogue: 0,0:02:02.35,0:02:10.61,Lyrics Romaji,[karaoke],0,0,0,,{TIME:122350,130610}{\k29}Na{\k50}mi{\k25}da {\k37}no {\k41}na{\k25}ka {\k233}ni {\k25}wa{\k20}ka{\k29}i {\k25}ko{\k50}ko{\k29}ro {\k204}de
+Dialogue: 0,0:02:10.61,0:02:18.95,Lyrics Romaji,[karaoke],0,0,0,,{TIME:130610,138950}{\k58}Na{\k54}ga{\k25}re{\k45}yu{\k29}ku {\k45}ku{\k37}mo {\k121}ni {\k54}sa{\k45}ke{\k83}bi{\k58}ta{\k175}i
+Dialogue: 0,0:02:18.95,0:02:27.29,Lyrics Romaji,[karaoke],0,0,0,,{TIME:138950,147290}{\k25}A{\k54}ta{\k133}kku {\k25}a{\k50}ta{\k121}kku {\k116}nan{\k104}baa {\k204}wan
+Dialogue: 0,0:02:27.29,0:02:37.92,Lyrics Romaji,[karaoke],0,0,0,,{TIME:147290,157920}{\fad(0,1000)\k29}A{\k50}ta{\k129}kku {\k33}a{\k50}ta{\k120}kku {\k112}nan{\k108}baa {\k429}wan
+Dialogue: 0,0:00:13.99,0:00:18.33,Lyrics English,[karaoke],0,0,0,,{TIME:13990,18330}Even though it hurts…
+Dialogue: 0,0:00:18.33,0:00:21.96,Lyrics English,[karaoke],0,0,0,,{TIME:18330,21960}…even though I feel sad…
+Dialogue: 0,0:00:21.96,0:00:29.13,Lyrics English,[karaoke],0,0,0,,{TIME:21960,29130}…on the court I feel just fine.
+Dialogue: 0,0:00:29.13,0:00:37.60,Lyrics English,[karaoke],0,0,0,,{TIME:29130,37600}When I hear the ball flying, my heart races.
+Dialogue: 0,0:00:37.60,0:00:41.89,Lyrics English,[karaoke],0,0,0,,{TIME:37600,41890}Receive. Toss. Spike.
+Dialogue: 0,0:00:41.89,0:00:46.27,Lyrics English,[karaoke],0,0,0,,{TIME:41890,46270}One-two, one-two! Attack!
+Dialogue: 0,0:00:50.28,0:00:58.62,Lyrics English,[karaoke],0,0,0,,{TIME:50280,58620}Through the tears and sweat, putting up a youthful fight…
+Dialogue: 0,0:00:58.62,0:01:06.87,Lyrics English,[karaoke],0,0,0,,{TIME:58620,66870}…under the blue sky, I just want to scream:
+Dialogue: 0,0:01:06.87,0:01:15.17,Lyrics English,[karaoke],0,0,0,,{TIME:66870,75170}Attack! Attack! Number 1!
+Dialogue: 0,0:01:15.17,0:01:23.64,Lyrics English,[karaoke],0,0,0,,{TIME:75170,83640}Attack! Attack! Number 1!
+Dialogue: 0,0:01:26.19,0:01:30.57,Lyrics English,[karaoke],0,0,0,,{TIME:86190,90570}Even though it hurts…
+Dialogue: 0,0:01:30.57,0:01:34.15,Lyrics English,[karaoke],0,0,0,,{TIME:90570,94150}…even though I feel sad…
+Dialogue: 0,0:01:34.15,0:01:41.41,Lyrics English,[karaoke],0,0,0,,{TIME:94150,101410}…I have my team mates.
+Dialogue: 0,0:01:41.41,0:01:49.79,Lyrics English,[karaoke],0,0,0,,{TIME:101410,109790}I find myself whistling and my heart races.
+Dialogue: 0,0:01:49.79,0:01:54.05,Lyrics English,[karaoke],0,0,0,,{TIME:109790,114050}Receive. Toss. Spike.
+Dialogue: 0,0:01:54.05,0:01:58.68,Lyrics English,[karaoke],0,0,0,,{TIME:114050,118680}One-two, one-two! Attack!
+Dialogue: 0,0:02:02.35,0:02:10.61,Lyrics English,[karaoke],0,0,0,,{TIME:122350,130610}Showing fighting spirit through the tears…
+Dialogue: 0,0:02:10.61,0:02:18.95,Lyrics English,[karaoke],0,0,0,,{TIME:130610,138950}…looking at billowing clouds, I just want to scream:
+Dialogue: 0,0:02:18.95,0:02:27.29,Lyrics English,[karaoke],0,0,0,,{TIME:138950,147290}Attack! Attack! Number 1!
+Dialogue: 0,0:02:27.29,0:02:37.92,Lyrics English,[karaoke],0,0,0,,{TIME:147290,157920}{\fad(0,1000)}Attack! Attack! Number 1!
+Comment: 0,0:02:43.93,0:02:43.93,Default,[chapter],0,0,0,,{TIME:163935,163935}Main
+Dialogue: 0,0:02:57.61,0:03:00.82,Sign,(sign),0,0,0,,{TIME:177610,180820}{\fad(1900,0)}Fujimi Academy{NOTE:富士見学園}
+Dialogue: 0,0:03:08.33,0:03:12.08,Sign,(sign),0,0,0,,{TIME:188330,192080}{\fad(0,2000)}Math{NOTE:数学}
 Dialogue: 0,0:03:12.75,0:03:13.88,Default,Ingo,0,0,0,,{TIME:192750,193880}Ayuhara-kun.{NOTE:鮎原くん。}
 Dialogue: 0,0:03:14.79,0:03:16.42,Default,Ingo,0,0,0,,{TIME:194790,196420}Hey.{NOTE:こら。}
 Dialogue: 0,0:03:16.42,0:03:17.46,Default,Ingo,0,0,0,,{TIME:196420,197460}Ayuhara-kun.{NOTE:鮎原くん。}
@@ -103,7 +105,7 @@ Dialogue: 0,0:03:40.57,0:03:41.45,Default,Ayuhara,0,0,0,,{TIME:220570,221450}Yes
 Dialogue: 0,0:03:44.70,0:03:46.20,Default,Ingo,0,0,0,,{TIME:224700,226200}Ayuhara-kun!{NOTE:鮎原くん！}
 Dialogue: 0,0:03:46.20,0:03:47.79,Default,Student A,0,0,0,,{TIME:226200,227790}She surprised me.{NOTE:驚いたね、まったく。}
 Dialogue: 0,0:03:47.79,0:03:49.95,Default,Student B,0,0,0,,{TIME:227790,229950}She has some nerve acting like this.{NOTE:よりも行ってインゴの前だよね。}
-Dialogue: 0,0:03:50.37,0:03:52.25,Sign,,0,0,0,,{TIME:230370,232250}Infirmary{NOTE:教員室}
+Dialogue: 0,0:03:50.37,0:03:52.25,Sign,(sign),0,0,0,,{TIME:230370,232250}Infirmary{NOTE:教員室}
 Dialogue: 0,0:03:52.83,0:03:56.38,Default,Ingo,0,0,0,,{TIME:232830,236380}By Meihō Academy you mean that prestigious institute in Tōkyō?{NOTE:明方学園、と言うとあの東京の名門校ですか？}
 Dialogue: 0,0:03:56.38,0:03:57.42,Default,Teacher A,0,0,0,,{TIME:236380,237420}Yes.{NOTE:そう。}
 Dialogue: 0,0:03:57.42,0:04:02.38,Default,Teacher A,0,0,0,,{TIME:237420,242380}That's why I've had high expectations for having Ayuhara-san transfer here.{NOTE:だから私は鮎原こずえの転入は相当の刺激に成ると期待しとったんですが。}
@@ -330,7 +332,7 @@ Dialogue: 0,0:16:50.32,0:16:51.44,Default,Ayuhara,0,0,0,,{TIME:1010320,1011440}W
 Dialogue: 0,0:17:08.59,0:17:11.38,Alternative,Ayuhara,0,0,0,,{TIME:1028590,1031380}Their spirit is what lets them learn so quickly.{NOTE:技術をカバー出来るのはこのファイトだ。}
 Dialogue: 0,0:17:11.38,0:17:12.71,Alternative,Ayuhara,0,0,0,,{TIME:1031380,1032710}We'll win.{NOTE:絶対に勝つ。}
 Dialogue: 0,0:17:12.71,0:17:14.55,Alternative,Ayuhara,0,0,0,,{TIME:1032710,1034550}We'll win for sure!{NOTE:絶対に勝って見せるわ。}
-Dialogue: 0,0:17:19.60,0:17:22.81,Sign,,0,0,0,,{TIME:1039600,1042810}Teachers room{NOTE:教員室}
+Dialogue: 0,0:17:19.60,0:17:22.81,Sign,(sign),0,0,0,,{TIME:1039600,1042810}Teachers room{NOTE:教員室}
 Dialogue: 0,0:17:23.39,0:17:26.77,Default,Teacher C,0,0,0,,{TIME:1043390,1046770}I am secretly looking forward to the today's match.{NOTE:私は密かに今日の試合を楽しみにしてたんですよ。}
 Dialogue: 0,0:17:26.77,0:17:29.44,Default,Teacher D,0,0,0,,{TIME:1046770,1049440}Me too, actually.{NOTE:え。実は、私もそうなんですよ。}
 Dialogue: 0,0:17:29.44,0:17:33.19,Default,Teacher D,0,0,0,,{TIME:1049440,1053190}Today we'll see how far can\Nthe bad-performing students go.{NOTE:あの劣等生グループはどこまでやれるかは、これを今日見るかいですから。}
@@ -464,7 +466,7 @@ Dialogue: 0,0:25:59.78,0:26:01.87,Alternative,Ayuhara,0,0,0,,{TIME:1559780,15618
 Dialogue: 0,0:26:01.87,0:26:04.95,Alternative,Ayuhara,0,0,0,,{TIME:1561870,1564950}I'm so glad I'm able to play volleyball.{NOTE:皆と一緒にバレーボールが出来るなんて。}
 Dialogue: 0,0:26:04.95,0:26:06.54,Alternative,Ayuhara,0,0,0,,{TIME:1564950,1566540}I also met new friends.{NOTE:皆素敵な友達。}
 Dialogue: 0,0:26:07.87,0:26:13.00,Alternative,Ayuhara,0,0,0,,{TIME:1567870,1573000}Together with everyone, dreaming of sparkling future not unlike the stars in that night sky.{NOTE:あの夜空に光る星のようにキラキラした目的に向かって皆と一緒に。}
-Dialogue: 0,0:26:17.43,0:26:19.80,Sign,,0,0,0,,{TIME:1577430,1579800}Volleyball club's room{NOTE:バレー部室}
+Dialogue: 0,0:26:17.43,0:26:19.80,Sign,(sign),0,0,0,,{TIME:1577430,1579800}Volleyball club's room{NOTE:バレー部室}
 Dialogue: 0,0:26:21.05,0:26:22.97,Default,Katsuragi,0,0,0,,{TIME:1581050,1582970}Ah, you're here so early?{NOTE:あら？もう集まってるのね。}
 Dialogue: 0,0:26:22.97,0:26:25.43,Default,Katsuragi,0,0,0,,{TIME:1582970,1585430}Ayuhara-san, there's a letter to our club.{NOTE:鮎原さん、バレー部に手紙来てたわよ。}
 Dialogue: 0,0:26:25.43,0:26:26.18,Default,Katsuragi,0,0,0,,{TIME:1585430,1586180}Here.{NOTE:はい。}
@@ -532,7 +534,7 @@ Dialogue: 0,0:29:52.81,0:29:56.27,Default,Ichinose,0,0,0,,{TIME:1792810,1796270}
 Dialogue: 0,0:29:57.48,0:29:58.94,Default,Hayakawa,0,0,0,,{TIME:1797480,1798940}Oh, that was it?{NOTE:あら、そうなの？}
 Dialogue: 0,0:29:58.94,0:30:03.44,Default,Hayakawa,0,0,0,,{TIME:1798940,1803440}Hey, Ayuhara-san, I've known Tsutomu-san ever since kindergarten.{NOTE:ね鮎原さん、私と努さんとは幼稚園からずっと一緒だったの。}
 Dialogue: 0,0:30:03.44,0:30:07.28,Default,Hayakawa,0,0,0,,{TIME:1803440,1807280}We had reputation of being good friends at elementary school.{NOTE:小学校で評判の仲良しだったのよ。}
-Dialogue: 0,0:30:07.66,0:30:08.49,Sign,,0,0,0,,{TIME:1807660,1808490}Teachers room{NOTE:教員室}
+Dialogue: 0,0:30:07.66,0:30:08.49,Sign,(sign),0,0,0,,{TIME:1807660,1808490}Teachers room{NOTE:教員室}
 Dialogue: 0,0:30:09.41,0:30:11.53,Default,Hayakawa,0,0,0,,{TIME:1809410,1811530}Thank you very much.{NOTE:どうもありがとうございました。}
 Dialogue: 0,0:30:11.53,0:30:13.04,Default,Teacher A,0,0,0,,{TIME:1811530,1813040}Nah, don't mention it.{NOTE:いや、私もね。}
 Dialogue: 0,0:30:13.04,0:30:16.54,Default,Teacher A,0,0,0,,{TIME:1813040,1816540}I thought we should put an effort into the sport clubs as well.{NOTE:運動部にはもっと力を入れるべきだと考えていたんだよ。}
@@ -641,7 +643,7 @@ Dialogue: 0,0:35:16.51,0:35:18.22,Default,Ayuhara,0,0,0,,{TIME:2116510,2118220}V
 Dialogue: 0,0:35:18.22,0:35:20.09,Default,Ayuhara,0,0,0,,{TIME:2118220,2120090}I love volleyball.{NOTE:私はバレーボールが大好きなの。}
 Dialogue: 0,0:35:20.09,0:35:24.81,Default,Ayuhara,0,0,0,,{TIME:2120090,2124810}That's why even if Hayakawa-san did become a captain, I'd still be okay with it.{NOTE:だから、早川さんがキャプテンに成ってバレー部が上手くいってなら、それでもいいと思っているのよ。}
 Dialogue: 0,0:35:33.69,0:35:34.82,Default,Ayuhara,0,0,0,,{TIME:2133690,2134820}I'm home.{NOTE:ただいま。}
-Dialogue: 0,0:35:35.48,0:35:37.69,Sign,,0,0,0,,{TIME:2135480,2137690}To Ayuhara Kozue-sama{NOTE:鮎原こずえ様}
+Dialogue: 0,0:35:35.48,0:35:37.69,Sign,(sign),0,0,0,,{TIME:2135480,2137690}To Ayuhara Kozue-sama{NOTE:鮎原こずえ様}
 Dialogue: 0,0:35:38.53,0:35:39.57,Default,Ayuhara,0,0,0,,{TIME:2138530,2139570}Who left it here?{NOTE:誰かしら？}
 Dialogue: 0,0:35:39.57,0:35:41.99,Default,Ayuhara,0,0,0,,{TIME:2139570,2141990}There's no stamp. It must have been delivered directly.{NOTE:切ってが貼ってないわ。直接持ってきたものね。}
 Dialogue: 0,0:35:46.79,0:35:48.00,Default,Ayuhara,0,0,0,,{TIME:2146790,2148000}"Ayuhara-san."{NOTE:鮎原さん。}
@@ -654,7 +656,7 @@ Dialogue: 0,0:36:14.86,0:36:16.23,Default,Fukuda,0,0,0,,{TIME:2174860,2176230}Wh
 Dialogue: 0,0:36:17.02,0:36:20.36,Default,Hayakawa,0,0,0,,{TIME:2177020,2180360}I forgot to lock the door yesterday.{NOTE:私昨日部屋に鍵をかけるの忘れてたの。}
 Dialogue: 0,0:36:20.36,0:36:21.70,Default,Hayakawa,0,0,0,,{TIME:2180360,2181700}I realized only this morning.{NOTE:今朝気がついたのよ。}
 Dialogue: 0,0:36:21.70,0:36:25.78,Default,Hayakawa,0,0,0,,{TIME:2181700,2185780}It'd be bad if our equipment was stolen, and this is why I've asked you to come.{NOTE:もしバレー部のものがなくなっていたら、大変だか、らそれであなたたちに来てもらったの。}
-Dialogue: 0,0:36:25.53,0:36:30.37,Sign,,0,0,0,,{TIME:2185530,2190370}Volleyball club's room{NOTE:バレー部室}
+Dialogue: 0,0:36:25.53,0:36:30.37,Sign,(sign),0,0,0,,{TIME:2185530,2190370}Volleyball club's room{NOTE:バレー部室}
 Dialogue: 0,0:36:30.12,0:36:32.00,Default,Hayakawa,0,0,0,,{TIME:2190120,2192000}It is unlocked all right.{NOTE:やっぱりかかってないわ。}
 Dialogue: 0,0:36:32.00,0:36:33.33,Default,Hayakawa,0,0,0,,{TIME:2192000,2193330}Ah.{NOTE:あ。}
 Dialogue: 0,0:36:33.33,0:36:34.58,Default,Hayakawa,0,0,0,,{TIME:2193330,2194580}Ayuhara-san!{NOTE:鮎原さん！}
@@ -712,10 +714,10 @@ Dialogue: 0,0:39:24.13,0:39:24.88,Default,Katsuragi,0,0,0,,{TIME:2364130,2364880
 Dialogue: 0,0:39:24.88,0:39:26.92,Default,Hayakawa,0,0,0,,{TIME:2364880,2366920}I am the captain here.{NOTE:私はキャプテンよ。}
 Dialogue: 0,0:39:26.92,0:39:29.43,Default,Hayakawa,0,0,0,,{TIME:2366920,2369430}I've been chosen by everyone's free will.{NOTE:皆の遺志でキャプテンに成ったのよ。}
 Dialogue: 0,0:39:29.43,0:39:31.22,Default,Hayakawa,0,0,0,,{TIME:2369430,2371220}That's why we're going to have it my way.{NOTE:私は私のやり方で通すわ。}
-Dialogue: 0,0:39:35.26,0:39:41.77,Sign,,0,0,0,,{TIME:2375260,2381770}{\fad(2700,0)}Tōkai district middle school volleyball championship\NCity Gym{NOTE:東海地区中学校バレー選手権大会}
+Dialogue: 0,0:39:35.26,0:39:41.77,Sign,(sign),0,0,0,,{TIME:2375260,2381770}{\fad(2700,0)}Tōkai district middle school volleyball championship\NCity Gym{NOTE:東海地区中学校バレー選手権大会}
 Dialogue: 0,0:39:45.48,0:39:47.44,Default,Ichinose,0,0,0,,{TIME:2385480,2387440}As expected from a strong candidate.{NOTE:さすがに有力候補だ。}
 Dialogue: 0,0:39:47.44,0:39:48.74,Default,Ichinose,0,0,0,,{TIME:2387440,2388740}It sure is lively.{NOTE:張り切ったな。}
-Dialogue: 0,0:39:48.90,0:39:50.82,Lyrics English,,0,0,0,,{TIME:2388900,2390820}{\an8\k41}Go! {\k50}Go! {\k20}Mi{\k20}ka{\k58}wa!{NOTE:フレ！フレ！三河！}
+Dialogue: 0,0:39:48.90,0:39:50.82,Lyrics English,(sign),0,0,0,,{TIME:2388900,2390820}{\an8\k41}Go! {\k50}Go! {\k20}Mi{\k20}ka{\k58}wa!{NOTE:フレ！フレ！三河！}
 Dialogue: 0,0:39:50.24,0:39:54.74,Default,Audience,0,0,0,,{TIME:2390240,2394740}Of course, the strength is the most important, but at such times I'd want better cheering party.{NOTE:でも、各力が第一もいいけどこう言う時はやっぱり応援団ぐらい欲しいな。}
 Dialogue: 0,0:39:55.58,0:39:59.16,Default,Audience,0,0,0,,{TIME:2395580,2399160}You can't blame them, we're very weak compared to Mikawa.{NOTE:しょっぱなから、強敵三河中学とはついてないよな。}
 Dialogue: 0,0:39:59.16,0:40:03.13,Default,Ichinose,0,0,0,,{TIME:2399160,2403130}What do you know? Our Fujimi Academy has Ayuhara-san and Hayakawa-san.{NOTE:何、富士見学園のバレー部には鮎原と早川あるさ。}
@@ -735,7 +737,7 @@ Dialogue: 0,0:40:56.93,0:41:01.39,Default,Hayakawa,0,0,0,,{TIME:2456930,2461390}
 Dialogue: 0,0:41:01.39,0:41:07.11,Default,Ayuhara,0,0,0,,{TIME:2461390,2467110}I see. After you've pulled that one man show in the\hgym, it didn't occur to you to ask anyone for help.{NOTE:分かったわ。前の学校のバレー部でも、あなたのワンマンについていけず誰も相手にしなかったのね。}
 Dialogue: 0,0:41:07.11,0:41:09.94,Default,Hayakawa,0,0,0,,{TIME:2467110,2469940}Shut it. My volleyball won't be defeated.{NOTE:煩いわね。私はバレーは誰にも負けないわ。}
 Dialogue: 0,0:41:09.94,0:41:10.94,Default,Hayakawa,0,0,0,,{TIME:2469940,2470940}No one will defeat me.{NOTE:負けるもんか？}
-Dialogue: 0,0:41:10.48,0:41:11.99,Blackboard,,0,0,0,,{TIME:2470480,2471990}Mikawa · Fujimi{NOTE:三河中学・富士見学園}
+Dialogue: 0,0:41:10.48,0:41:11.99,Blackboard,(sign),0,0,0,,{TIME:2470480,2471990}Mikawa · Fujimi{NOTE:三河中学・富士見学園}
 Dialogue: 0,0:41:18.70,0:41:19.70,Default,Ayuhara,0,0,0,,{TIME:2478700,2479700}Hayakawa-san!{NOTE:早川さん！}
 Dialogue: 0,0:41:24.96,0:41:25.87,Default,Katsuragi,0,0,0,,{TIME:2484960,2485870}Ayuhara-san!{NOTE:鮎原さん！}
 Dialogue: 0,0:41:29.84,0:41:32.13,Default,Audience,0,0,0,,{TIME:2489840,2492130}Damn it. It got completely one-sided.{NOTE:くしょ、全然XX子供XX。}
@@ -766,7 +768,7 @@ Dialogue: 0,0:43:09.06,0:43:10.40,Default,Ayuhara,0,0,0,,{TIME:2589060,2590400}A
 Dialogue: 0,0:43:10.40,0:43:12.40,Default,Ayuhara,0,0,0,,{TIME:2590400,2592400}You're just looking for attention.{NOTE:自分一人だけ目立とうとしてるわ。}
 Dialogue: 0,0:43:13.86,0:43:15.90,Default,Hongou,0,0,0,,{TIME:2593860,2595900}Hey, take it easy.{NOTE:おい、その辺でXX。}
 Dialogue: 0,0:43:15.90,0:43:17.65,Default,Hongou,0,0,0,,{TIME:2595900,2597650}We're on the bus.{NOTE:ここはバスの中だぞ。}
-Dialogue: 0,0:43:17.65,0:43:20.53,Sign,,0,0,120,,{TIME:2597650,2600530}Principal's room{NOTE:校長室}
+Dialogue: 0,0:43:17.65,0:43:20.53,Sign,(sign),0,0,120,,{TIME:2597650,2600530}Principal's room{NOTE:校長室}
 Dialogue: 0,0:43:19.07,0:43:20.20,Default,Principal,0,0,0,,{TIME:2599070,2600200}Oh?{NOTE:お？}
 Dialogue: 0,0:43:21.07,0:43:23.12,Default,Principal,0,0,0,,{TIME:2601070,2603120}You want to be a volleyball coach?{NOTE:ボールのコーチをやりたい。}
 Dialogue: 0,0:43:23.99,0:43:24.83,Default,Hongou,0,0,0,,{TIME:2603990,2604830}Yes, sir.{NOTE:はい。}
@@ -832,7 +834,7 @@ Dialogue: 0,0:46:44.65,0:46:45.53,Default,Hongou,0,0,0,,{TIME:2804650,2805530}Wh
 Dialogue: 0,0:46:53.66,0:46:54.45,Default,(mixed),0,0,0,,{TIME:2813660,2814450}Next!{NOTE:次！}
 Dialogue: 0,0:46:55.20,0:46:55.91,Default,Hongou,0,0,0,,{TIME:2815200,2815910}Let's go!{NOTE:行くぞ！}
 Dialogue: 0,0:47:09.26,0:47:10.72,Alternative,Hongou,0,0,0,,{TIME:2829260,2830720}All right, everyone's fired up.{NOTE:よし。皆燃えてきたぞ。}
-Dialogue: 0,0:47:18.06,0:47:20.44,Sign,,0,0,0,,{TIME:2838060,2840440}Principal's room{NOTE:校長室}
+Dialogue: 0,0:47:18.06,0:47:20.44,Sign,(sign),0,0,0,,{TIME:2838060,2840440}Principal's room{NOTE:校長室}
 Dialogue: 0,0:47:18.77,0:47:21.61,Default,Principal,0,0,0,,{TIME:2838770,2841610}We received a complaint from\Nthe Parent-Teacher Association, too.{NOTE:PTAからも文句が出とります。}
 Dialogue: 0,0:47:21.61,0:47:24.90,Default,Principal,0,0,0,,{TIME:2841610,2844900}They're saying that your training is too harsh.{NOTE:とにかく、行き過ぎたと言うのですよ。}
 Dialogue: 0,0:47:24.90,0:47:28.95,Default,Ingo,0,0,0,,{TIME:2844900,2848950}I'd like to have you put your excessive energy into something more useful.{NOTE:そう言う余ったエネルギーは勉学に注いでいただきたい。}
@@ -886,17 +888,17 @@ Dialogue: 0,0:49:21.98,0:49:23.77,Default,Hongou,0,0,0,,{TIME:2961980,2963770}Ho
 Dialogue: 0,0:49:23.77,0:49:26.06,Default,Ayuhara,0,0,0,,{TIME:2963770,2966060}We accept.{NOTE:はい。やります。}
 Dialogue: 0,0:49:26.06,0:49:29.07,Default,Hongou,0,0,0,,{TIME:2966060,2969070}Okay then, do your best.{NOTE:ま、精々頑張りたまえ。}
 Dialogue: 0,0:49:29.07,0:49:30.07,Alternative,Ayuhara,0,0,0,,{TIME:2969070,2970070}We'll do it.{NOTE:やるわ。}
-Dialogue: 0,0:49:31.23,0:49:34.24,Sign,,0,0,0,,{TIME:2971230,2974240}City Gym{NOTE:市立体育館}
+Dialogue: 0,0:49:31.23,0:49:34.24,Sign,(sign),0,0,0,,{TIME:2971230,2974240}City Gym{NOTE:市立体育館}
 Dialogue: 0,0:49:40.91,0:49:41.41,Default,(unknown),0,0,0,,{TIME:2980910,2981410}Here goes!{NOTE:行くよ！}
 Dialogue: 0,0:49:43.87,0:49:45.12,Default,Ayuhara,0,0,0,,{TIME:2983870,2985120}Got it!{NOTE:はい、もらったわ！}
-Dialogue: 0,0:49:45.12,0:49:45.71,Default,,0,0,0,,{TIME:2985120,2985710}Me!{NOTE:私よ！}
+Dialogue: 0,0:49:45.12,0:49:45.71,Default,(sign),0,0,0,,{TIME:2985120,2985710}Me!{NOTE:私よ！}
 Dialogue: 0,0:49:49.88,0:49:51.13,Default,Kashiwagi,0,0,0,,{TIME:2989880,2991130}You did it.{NOTE:やったわね。}
 Dialogue: 0,0:49:51.13,0:49:53.51,Default,Ayuhara,0,0,0,,{TIME:2991130,2993510}Katsuragi-san, give us a good serve.{NOTE:桂城さん、いいサーブ頼むわよ。}
 Dialogue: 0,0:49:53.51,0:49:54.67,Default,Katsuragi,0,0,0,,{TIME:2993510,2994670}Leave it to me.{NOTE:任しておいて。}
 Dialogue: 0,0:50:03.39,0:50:04.43,Default,Kashiwagi,0,0,0,,{TIME:3003390,3004430}Someone!{NOTE:XXX！}
 Dialogue: 0,0:50:04.43,0:50:05.73,Default,Ayuhara,0,0,0,,{TIME:3004430,3005730}I'll get it!{NOTE:XXXわ！}
 Dialogue: 0,0:50:05.73,0:50:07.10,Default,(unknown),0,0,0,,{TIME:3005730,3007100}Me!{NOTE:XXX！}
-Dialogue: 0,0:50:09.52,0:50:11.02,Blackboard,,0,0,0,,{TIME:3009520,3011020}Fujimi · Matsushima{NOTE:富士見中・松島中}
+Dialogue: 0,0:50:09.52,0:50:11.02,Blackboard,(sign),0,0,0,,{TIME:3009520,3011020}Fujimi · Matsushima{NOTE:富士見中・松島中}
 Dialogue: 0,0:50:11.82,0:50:12.86,Default,Matsushima's coach,0,0,0,,{TIME:3011820,3012860}Time!{NOTE:タイム！}
 Dialogue: 0,0:50:12.86,0:50:15.40,Default,Katsuragi,0,0,0,,{TIME:3012860,3015400}Nice spike, Hayakawa-san.{NOTE:早川さん、ナイススパイクよ。}
 Dialogue: 0,0:50:15.40,0:50:17.82,Alternative,Ayuhara,0,0,0,,{TIME:3015400,3017820}Hayakawa-san's showing her bad habit again.{NOTE:早川さん又悪い癖を出してるわ。}
@@ -920,8 +922,8 @@ Dialogue: 0,0:51:25.31,0:51:27.23,Default,Hayakawa,0,0,0,,{TIME:3085310,3087230}
 Dialogue: 0,0:51:31.06,0:51:32.44,Default,(unknown),0,0,0,,{TIME:3091060,3092440}Kakko!{NOTE:行け！}
 Dialogue: 0,0:51:32.44,0:51:33.40,Default,Kashiwagi,0,0,0,,{TIME:3092440,3093400}Got it!{NOTE:はい！}
 Dialogue: 0,0:51:36.11,0:51:37.32,Default,Ayuhara,0,0,0,,{TIME:3096110,3097320}Leave it to me!{NOTE:任しておいて！}
-Dialogue: 0,0:51:47.66,0:51:49.21,Blackboard,,0,0,0,,{TIME:3107660,3109210}Fujimi · Matsushima{NOTE:富士見中・松島中}
-Dialogue: 0,0:51:58.97,0:52:00.51,Blackboard,,0,0,0,,{TIME:3118970,3120510}Fujimi · Matsushima{NOTE:富士見中・松島中}
+Dialogue: 0,0:51:47.66,0:51:49.21,Blackboard,(sign),0,0,0,,{TIME:3107660,3109210}Fujimi · Matsushima{NOTE:富士見中・松島中}
+Dialogue: 0,0:51:58.97,0:52:00.51,Blackboard,(sign),0,0,0,,{TIME:3118970,3120510}Fujimi · Matsushima{NOTE:富士見中・松島中}
 Dialogue: 0,0:52:00.88,0:52:03.05,Default,Matsushima's coach,0,0,0,,{TIME:3120880,3123050}Keep it up!{NOTE:XXX！}
 Dialogue: 0,0:52:03.05,0:52:04.43,Alternative,Hayakawa,0,0,0,,{TIME:3123050,3124430}We had a lead just a second ago.{NOTE:あんなに勝ってたのに。}
 Dialogue: 0,0:52:04.43,0:52:06.68,Alternative,Hayakawa,0,0,0,,{TIME:3124430,3126680}Too bad, but this set goes to you.{NOTE:残念だけど、このセットは負けよ。}
@@ -977,8 +979,8 @@ Dialogue: 0,0:54:36.25,0:54:37.04,Default,Ichinose,0,0,0,,{TIME:3276250,3277040}
 Dialogue: 0,0:54:40.00,0:54:41.38,Default,Katsuragi,0,0,0,,{TIME:3280000,3281380}Here I go!{NOTE:はい、行くわよ！}
 Dialogue: 0,0:54:52.43,0:54:53.56,Default,(unknown),0,0,0,,{TIME:3292430,3293560}Nice, nice!{NOTE:ナイス、ナイス！}
 Dialogue: 0,0:55:13.91,0:55:14.70,Default,Ayuhara,0,0,0,,{TIME:3313910,3314700}Attack!{NOTE:アタック！}
-Dialogue: 0,0:55:14.87,0:55:16.20,Blackboard,,0,0,0,,{TIME:3314870,3316200}Fujimi · Matsushima{NOTE:富士見中・松島中}
-Dialogue: 0,0:55:23.59,0:55:26.80,Blackboard,,0,0,0,,{TIME:3323590,3326800}Fujimi · Matsushima{NOTE:富士見中・松島中}
+Dialogue: 0,0:55:14.87,0:55:16.20,Blackboard,(sign),0,0,0,,{TIME:3314870,3316200}Fujimi · Matsushima{NOTE:富士見中・松島中}
+Dialogue: 0,0:55:23.59,0:55:26.80,Blackboard,(sign),0,0,0,,{TIME:3323590,3326800}Fujimi · Matsushima{NOTE:富士見中・松島中}
 Dialogue: 0,0:55:24.84,0:55:28.01,Default,Ichinose,0,0,0,,{TIME:3324840,3328010}Professor, the tables have turned. It's the set point.{NOTE:先生、とうとう逆転ですよ。セットポイントです。}
 Dialogue: 0,0:55:36.81,0:55:38.10,Default,Kashiwagi,0,0,0,,{TIME:3336810,3338100}Ayuhara-san, awesome!{NOTE:鮎原さん、すごい。}
 Dialogue: 0,0:55:38.10,0:55:39.73,Default,Kashiwagi,0,0,0,,{TIME:3338100,3339730}We got to the final set.{NOTE:ファイナルセットに持ち込めたわね。}
@@ -989,7 +991,7 @@ Dialogue: 0,0:55:54.33,0:55:57.29,Alternative,Hongou,0,0,0,,{TIME:3354330,335729
 Dialogue: 0,0:55:57.29,0:55:58.87,Alternative,Hongou,0,0,0,,{TIME:3357290,3358870}They'll win for sure.{NOTE:必ず勝つだろう。}
 Dialogue: 0,0:55:58.87,0:56:05.46,Alternative,Hongou,0,0,0,,{TIME:3358870,3365460}But no matter how strong we are, if we aren't united, we won't accomplish anything.{NOTE:しかし、いくら力がついても、選手達と心が通い合わなければ何もならん。}
 Dialogue: 0,0:56:05.46,0:56:08.42,Alternative,Hongou,0,0,0,,{TIME:3365460,3368420}I'll keep my promise. I'll withdraw from coaching.{NOTE:約束は約束。僕はコーチから手を引く。}
-Dialogue: 0,0:56:14.22,0:56:15.60,Blackboard,,0,0,0,,{TIME:3374220,3375600}Fujimi · Matsushima{NOTE:富士見中・松島中}
+Dialogue: 0,0:56:14.22,0:56:15.60,Blackboard,(sign),0,0,0,,{TIME:3374220,3375600}Fujimi · Matsushima{NOTE:富士見中・松島中}
 Dialogue: 0,0:56:15.72,0:56:18.14,Default,Ayuhara,0,0,0,,{TIME:3375720,3378140}All right, match point. Do your best.{NOTE:さ、マッチポイントよ。頑張ってきましょう！}
 Dialogue: 0,0:56:18.14,0:56:19.02,Default,(unknown),0,0,0,,{TIME:3378140,3379020}Okay!{NOTE:オッケー！}
 Dialogue: 0,0:56:19.02,0:56:20.81,Default,(unknown),0,0,0,,{TIME:3379020,3380810}– Good luck, girls!\N– Yeah!{NOTE:—いいぞ頑張って！\\N—うん！—おう！}
@@ -1059,7 +1061,7 @@ Dialogue: 0,0:59:40.89,0:59:43.47,Default,Ayuhara,0,0,0,,{TIME:3580890,3583470}D
 Dialogue: 0,0:59:44.01,0:59:45.89,Default,(unison),0,0,0,,{TIME:3584010,3585890}– Hm…\N– Hmm…{NOTE:んん。}
 Dialogue: 0,0:59:45.89,0:59:47.02,Default,Ayuhara,0,0,0,,{TIME:3585890,3587020}I got it!{NOTE:分かったわ！}
 Dialogue: 0,0:59:47.02,0:59:51.31,Default,Ayuhara,0,0,0,,{TIME:3587020,3591310}You're probably thinking the same. In the end, our club needs Professor Hongou.{NOTE:そう。皆同じ考えね。やっぱり私達には本郷先生が必要なのよ。}
-Dialogue: 0,0:59:51.69,0:59:55.65,Sign,,0,0,0,,{TIME:3591690,3595650}Volleyball club's room{NOTE:バレー部室}
+Dialogue: 0,0:59:51.69,0:59:55.65,Sign,(sign),0,0,0,,{TIME:3591690,3595650}Volleyball club's room{NOTE:バレー部室}
 Dialogue: 0,0:59:57.86,0:59:59.07,Default,Ayuhara,0,0,0,,{TIME:3597860,3599070}Oh? What's that?{NOTE:あ？あれは？}
 Dialogue: 0,0:59:59.07,1:00:00.03,Default,(unison),0,0,0,,{TIME:3599070,3600030}Oh?{NOTE:え？}
 Dialogue: 0,1:00:01.28,1:00:03.74,Alternative,Hongou,0,0,0,,{TIME:3601280,3603740}As promised, I've withdrew from coaching.{NOTE:約束通りコーチを止めてやる。}
@@ -1095,3 +1097,4 @@ Dialogue: 0,1:01:36.88,1:01:37.71,Alternative,Hongou,0,0,0,,{TIME:3696880,369771
 Dialogue: 0,1:01:37.71,1:01:39.17,Alternative,Hongou,0,0,0,,{TIME:3697710,3699170}I will…{NOTE:僕が…}
 Dialogue: 0,1:01:39.17,1:01:41.46,Alternative,Hongou,0,0,0,,{TIME:3699170,3701460}I will make you into the Japan's best team!{NOTE:僕がきっと日本一のバレー部にしてみせる。}
 Dialogue: 0,1:01:41.46,1:01:43.55,Default,(mixed),0,0,0,,{TIME:3701460,3703550}– Professor!\N– Professor!{NOTE:—先生！—先生！}
+Dialogue: 0,1:02:02.86,1:02:10.49,Default,,0,0,0,,{TIME:3722865,3730498}{\pos(968,820)\1c&H328CCB&\b1\bord0\fs100\fad(0,1000)\alpha&HFF&\t(0,1000,0.8,\alpha&H00&)\t(5991,7991,\1c&H0010C0&)}Fin
