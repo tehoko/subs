@@ -20,6 +20,7 @@ Style: Title,Times New Roman,46,&H00736FD4,&H000000FF,&H00000000,&H00000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Beginning
 Dialogue: 0,0:00:05.27,0:00:08.24,Alternative,Tateno Mizuki's dad,0,0,0,,{TIME:5272,8242}Will you come to the\NChristmas party this year?{NOTE:クリスマスパーティーに来ないか}
 Dialogue: 0,0:00:08.24,0:00:13.21,Alternative,Tateno Mizuki's dad,0,0,0,,{TIME:8242,13213}I have been inviting you every year,\Nbut you have never wanted to come.{NOTE:毎年 招待状を出すのにまだ一度も来てくれたことがないね}
 Dialogue: 0,0:00:13.21,0:00:20.92,Alternative,Tateno Mizuki's dad,0,0,0,,{TIME:13213,20921}You hate me, you hate parties, you hate\Nthe month of December and you hate Christmas.{NOTE:君は僕が嫌いでパーティーが嫌いで 12月が嫌いでクリスマスが嫌いだ}
@@ -27,12 +28,12 @@ Dialogue: 0,0:00:20.92,0:00:23.62,Alternative,Tateno Mizuki's dad,0,0,0,,{TIME:2
 Dialogue: 0,0:00:23.62,0:00:26.19,Alternative,Tateno Mizuki's dad,0,0,0,,{TIME:23624,26193}I'd like you to come\Nto the Christmas party.{NOTE:クリスマスパーティーに来てほしい}
 Dialogue: 0,0:00:26.19,0:00:30.86,Alternative,Tateno Mizuki's dad,0,0,0,,{TIME:26193,30864}I will try my upmost\Nto make this party fun.{NOTE:とびきり 面白くないパーティーにしてあげるから}
 Dialogue: 0,0:00:30.86,0:00:33.50,Alternative,Tateno Mizuki's dad,0,0,0,,{TIME:30864,33500}To you, who doesn't like fun things.{NOTE:楽しいことが嫌いな君へ}
-Dialogue: 0,0:01:07.46,0:01:12.00,Title,[title],0,0,0,,{TIME:67467,72005}{\c&HB020C0&\t(0,1500,\c&H7070D3&)\fad(1500,0)\fscx70\pos(325,300)\be1}A Christmas in January{NOTE:一月にはクリスマス}
-Dialogue: 0,0:01:12.00,0:01:13.54,Title,[title],0,0,0,,{TIME:72005,73540}{\c&H7070D3&\t(0,1500,0.4,\c&HA040FF&\alpha&HFF&)\fscx70\pos(325,300)\be1}A Christmas in January{NOTE:一月にはクリスマス}
+Comment: 0,0:01:04.09,0:01:04.09,Default,[chapter],0,0,0,,{TIME:64097,64097}Title
+Dialogue: 0,0:01:07.46,0:01:13.54,Title,[title],0,0,0,,{TIME:67467,73540}{\c&HB020C0&\alpha&HFF&\t(0,1500,\c&H7070D3&\alpha&H00&)\t(4500,6073,0.4,\c&HA040FF&\alpha&HFF&)\fscx70\pos(325,300)\blur0.7}A Christmas in January{NOTE:一月にはクリスマス一月にはクリスマス}
 Dialogue: 0,0:01:12.90,0:01:14.90,Default,Bouya,0,0,0,,{TIME:72906,74908}It's the first snow, huh…{NOTE:初雪 だね}
 Dialogue: 0,0:01:14.90,0:01:17.07,Default,Bouya,0,0,0,,{TIME:74908,77077}Snow is so beautiful.{NOTE:雪って綺麗だな}
 Dialogue: 0,0:01:17.07,0:01:21.98,Default,Bouya,0,0,0,,{TIME:77077,81982}Speaking of snow, don't you think\Nit resembles a woman in a way?{NOTE:雪っていうのはさ こう女 のイメージだと思わないか}
-Dialogue: 0,0:01:21.98,0:01:27.75,Default,Bouya,0,0,0,,{TIME:81982,87754}It seems so calm, then suddenly it can become\Nso violent that it gets out of hand.{NOTE:こんなに 穏やかだと思うと 急に手がつけられないくらい激しくなって}
+Dialogue: 0,0:01:21.98,0:01:27.75,Default,Bouya,0,0,0,,{TIME:81982,87754}It seems so calm, then suddenly it can\Nbecome so violent that it gets out of hand.{NOTE:こんなに 穏やかだと思うと 急に手がつけられないくらい激しくなって}
 Dialogue: 0,0:01:27.75,0:01:36.36,Default,Bouya,0,0,0,,{TIME:87754,96363}You lose yourself in its sound and at some point\Nyou become unable to move and become at its mercy.{NOTE:いつのまにか 音の中が入り込んできて 気が付くと すっかり 身動きの取れなくなっている自分がいるんだよ}
 Dialogue: 0,0:01:36.36,0:01:37.56,Default,Bouya,0,0,0,,{TIME:96363,97564}It's painful…{NOTE:辛いよね}
 Dialogue: 0,0:01:37.56,0:01:38.09,Default,Fujioka Junshou,0,0,0,,{TIME:97564,98098}Yes.{NOTE:うん}
@@ -43,7 +44,7 @@ Dialogue: 0,0:01:44.53,0:01:46.34,Default,Fujioka Junshou,0,0,0,,{TIME:104538,10
 Dialogue: 0,0:01:46.34,0:01:48.24,Default,Fujioka Junshou,0,0,0,,{TIME:106340,108241}I don't want to see you sink.{NOTE:沈んだ 君なんか見たくないよ}
 Dialogue: 0,0:01:48.24,0:01:53.04,Default,Fujioka Junshou,0,0,0,,{TIME:108241,113046}Usually you'd jump around\Nand say "wow, now we can ski".{NOTE:いつもなら雪が降るとスキーができるって スキップして喜ぶ じゃないか}
 Dialogue: 0,0:01:53.04,0:01:54.74,Default,Bouya,0,0,0,,{TIME:113046,114748}This time I can't.{NOTE:いや 駄目だ}
-Dialogue: 0,0:01:54.74,0:01:59.75,Default,Bouya,0,0,0,,{TIME:114748,119753}I really don't feel like\NI can jump around today, Fujioka-kun.{NOTE:今日はとてもスキップができそうもないんだってば 藤岡くん}
+Dialogue: 0,0:01:54.74,0:01:59.75,Default,Bouya,0,0,0,,{TIME:114748,119753}I really don't feel like I can\Njump around today, Fujioka-kun.{NOTE:今日はとてもスキップができそうもないんだってば 藤岡くん}
 Dialogue: 0,0:02:01.02,0:02:04.09,Default,Fujioka Junshou,0,0,0,,{TIME:121021,124091}I can see that.\NYou're right. Sorry.{NOTE:そうだな それはそうだ 悪かった}
 Dialogue: 0,0:02:04.09,0:02:05.62,Default,Bouya,0,0,0,,{TIME:124091,125626}You're so nice.{NOTE:君はいいな}
 Dialogue: 0,0:02:05.62,0:02:07.59,Default,Bouya,0,0,0,,{TIME:125626,127594}You always comfort me.{NOTE:いつも落ち着いて}
@@ -65,7 +66,7 @@ Dialogue: 0,0:02:57.81,0:02:59.64,Alternative,Fujioka Junshou,0,0,0,,{TIME:17781
 Dialogue: 0,0:02:59.64,0:03:01.31,Alternative,Fujioka Junshou,0,0,0,,{TIME:179646,181314}I don't like it.{NOTE:その色は 苦手だ}
 Dialogue: 0,0:03:05.21,0:03:06.72,Default,Fujioka Junshou,0,0,0,,{TIME:185218,186720}They fit you very well.{NOTE:よく似合ってるよ}
 Dialogue: 0,0:03:06.72,0:03:09.12,Default,Fujioka Junshou,0,0,0,,{TIME:186720,189122}They go well with your clothes.{NOTE:君のイメージにぴったりだね}
-Dialogue: 0,0:03:09.12,0:03:12.65,Default,Fujioka Junshou,0,0,0,,{TIME:189122,192659}They may be a bit expensive,\Nbut last a long time.{NOTE:ちょっと値段は高いけど長持ちする しね}
+Dialogue: 0,0:03:09.12,0:03:12.65,Default,Fujioka Junshou,0,0,0,,{TIME:189122,192659}They may be a bit expensive,\Nbut will last a long time.{NOTE:ちょっと値段は高いけど長持ちする しね}
 Dialogue: 0,0:03:12.65,0:03:14.36,Default,Fujioka Junshou,0,0,0,,{TIME:192659,194361}Do you need another size?{NOTE:サイズ持ってきてあげようか}
 Dialogue: 0,0:03:16.66,0:03:18.39,Default,Tateno Mizuki,0,0,0,,{TIME:196663,198398}I'm not convinced.{NOTE:なんだか ピンとこない}
 Dialogue: 0,0:03:18.39,0:03:19.19,Default,Fujioka Junshou,0,0,0,,{TIME:198398,199199}Are you sure?{NOTE:そう？}
@@ -125,7 +126,7 @@ Dialogue: 0,0:05:42.94,0:05:44.77,Default,Fujioka Junshou,0,0,0,,{TIME:342943,34
 Dialogue: 0,0:05:44.77,0:05:46.27,Default,Tateno Mizuki,0,0,0,,{TIME:344778,346279}Doesn't matter.{NOTE:いいわよ 別に}
 Dialogue: 0,0:05:46.27,0:05:48.54,Default,Tateno Mizuki,0,0,0,,{TIME:346279,348548}It's not like I wanted them,\Nno matter what.{NOTE:どうしても欲しいってわけじゃないから}
 Dialogue: 0,0:05:48.54,0:05:51.31,Default,Tateno Mizuki,0,0,0,,{TIME:348548,351318}Besides, this is not the only\Nshoe store in the area.{NOTE:それに靴屋はここだけじゃないわな}
-Dialogue: 0,0:05:55.48,0:05:57.22,Alternative,Fujioka Junshou,0,0,0,,{TIME:355488,357224}I feel sorry for her.{NOTE:かわいいそうだったかな}
+Dialogue: 0,0:05:55.48,0:05:57.22,Alternative,Fujioka Junshou,0,0,0,,{TIME:355488,357224}I almost feel sorry for her.{NOTE:かわいいそうだったかな}
 Dialogue: 0,0:05:57.22,0:06:00.62,Alternative,Fujioka Junshou,0,0,0,,{TIME:357224,360627}No, no. I can't forget\Nhow she played me.{NOTE:いやいや どうこした 悪戯を甘やかすのか}
 Dialogue: 0,0:06:00.62,0:06:02.22,Alternative,Fujioka Junshou,0,0,0,,{TIME:360627,362229}Stupid kid.{NOTE:バカな子だ}
 Dialogue: 0,0:06:04.83,0:06:06.66,Default,Seiko,0,0,0,,{TIME:364831,366666}That was a little too cruel.{NOTE:ちょっと酷すぎるわね}
@@ -137,11 +138,11 @@ Dialogue: 0,0:06:14.00,0:06:15.14,Default,Fujioka Junshou,0,0,0,,{TIME:374007,37
 Dialogue: 0,0:06:15.14,0:06:17.07,Default,Fujioka Junshou,0,0,0,,{TIME:375141,377077}In the end I felt the same way.{NOTE:俺だって落ち込んでる}
 Dialogue: 0,0:06:17.07,0:06:21.48,Default,Seiko,0,0,0,,{TIME:377077,381481}Maybe you saw your old self in her.{NOTE:じゅんしょう はその子に自分の昔の姿を見たんじゃない？}
 Dialogue: 0,0:06:21.48,0:06:24.11,Default,Seiko,0,0,0,,{TIME:381481,384117}Perhaps that's why you got angry.{NOTE:だから余計 腹が立ったのよ}
-Dialogue: 0,0:06:24.91,0:06:28.52,Default,Seiko,0,0,0,,{TIME:384918,388521}You were quite mischievous yourself\Nwhen you was little, Junshou.{NOTE:クレモナ から 住所によく意地悪されたのに}
+Dialogue: 0,0:06:24.91,0:06:28.52,Default,Seiko,0,0,0,,{TIME:384918,388521}You were quite mischievous yourself\Nwhen you were little, Junshou.{NOTE:クレモナ から 住所によく意地悪されたのに}
 Dialogue: 0,0:06:28.52,0:06:29.62,Default,Fujioka Junshou,0,0,0,,{TIME:388521,389623}Yeah.{NOTE:ああ}
 Dialogue: 0,0:06:29.62,0:06:32.02,Default,Fujioka Junshou,0,0,0,,{TIME:389623,392025}I was an unruly, bad kid.{NOTE:俺は手に負えない 悪ガキ だったよ}
 Dialogue: 0,0:06:33.19,0:06:34.49,Default,Seiko,0,0,0,,{TIME:393193,394494}Sorry, sorry.{NOTE:ごめんごめん}
-Dialogue: 0,0:06:34.49,0:06:35.89,Default,Seiko,0,0,0,,{TIME:394494,395896}Don't be depressed.{NOTE:落ち込まないで}
+Dialogue: 0,0:06:34.49,0:06:35.89,Default,Seiko,0,0,0,,{TIME:394494,395896}Don't get depressed.{NOTE:落ち込まないで}
 Dialogue: 0,0:06:35.89,0:06:37.39,Default,Seiko,0,0,0,,{TIME:395896,397397}I won't say it anymore.{NOTE:もう言わないから}
 Dialogue: 0,0:06:38.39,0:06:40.76,Default,Seiko,0,0,0,,{TIME:398398,400767}Snow… I wonder if it piles up.{NOTE:雪つもるかしら}
 Dialogue: 0,0:06:41.90,0:06:46.53,Alternative,Fujioka Junshou,0,0,0,,{TIME:401902,406539}Bouya-kun, you said I'm not interested\Nin women, but that's not true.{NOTE:ぼうやくん 俺が女に興味ないなんてとんでもない}
@@ -158,7 +159,7 @@ Dialogue: 0,0:07:27.98,0:07:29.38,Default,Fujioka Junshou's dad,0,0,0,,{TIME:447
 Dialogue: 0,0:07:29.38,0:07:30.08,Default,Fujioka Junshou,0,0,0,,{TIME:449382,450083}Huh?{NOTE:えっ？}
 Dialogue: 0,0:07:30.08,0:07:33.01,Default,Fujioka Junshou,0,0,0,,{TIME:450083,453019}Dad, you're making me worry.{NOTE:お父さん 勇気ある行動ですね}
 Dialogue: 0,0:07:33.01,0:07:36.48,Default,Fujioka Junshou's dad,0,0,0,,{TIME:453019,456489}No, if something happens,\NI'll call the police immediately.{NOTE:何かあったらすぐ警察に連絡できるよ}
-Dialogue: 0,0:07:36.48,0:07:38.49,Default,Fujioka Junshou's dad,0,0,0,,{TIME:456489,458491}Telephone number\Nis enough for me.{NOTE:私の電話番号をしていいよ}
+Dialogue: 0,0:07:36.48,0:07:38.15,Default,Fujioka Junshou's dad,0,0,0,,{TIME:456489,458158}Telephone number\Nis enough for me.{NOTE:私の電話番号をしていいよ}
 Dialogue: 0,0:07:39.59,0:07:44.36,Alternative,Fujioka Junshou,0,0,0,,{TIME:459592,464364}Which means you want me\Nto go take a look, right?{NOTE:ということは俺が見てくるっていうことなんだな}
 Dialogue: 0,0:07:56.14,0:07:57.87,Alternative,Fujioka Junshou,0,0,0,,{TIME:476142,477877}It's a nice house.{NOTE:可愛い家だよな}
 Dialogue: 0,0:07:57.87,0:08:01.04,Alternative,Fujioka Junshou,0,0,0,,{TIME:477877,481047}A pink roof and white walls.{NOTE:ピンクの屋根に白い壁だもんな}
@@ -174,7 +175,7 @@ Dialogue: 0,0:08:40.68,0:08:42.95,Default,Tateno Mizuki,0,0,0,,{TIME:520687,5229
 Dialogue: 0,0:08:42.95,0:08:45.52,Default,Fujioka Junshou,0,0,0,,{TIME:522956,525525}I-I'm from the temple next door.{NOTE:と、隣のお寺のものですけど}
 Dialogue: 0,0:08:47.02,0:08:49.29,Default,Tateno Mizuki,0,0,0,,{TIME:527026,529295}Have you come to give me\Nan amulet or something?{NOTE:…を貰いにでも来たの}
 Dialogue: 0,0:08:49.29,0:08:53.23,Default,Fujioka Junshou,0,0,0,,{TIME:529295,533233}N-No. We thought we saw someone,\Nand thought it might be a thief.{NOTE:い、いいえ 人の気配がするんで 泥棒 かと 思って}
-Dialogue: 0,0:08:54.33,0:08:56.83,Default,Tateno Mizuki,0,0,0,,{TIME:534334,536836}I came here three days ago.{NOTE:3日前にこの家に来たのよ}
+Dialogue: 0,0:08:54.33,0:08:56.83,Default,Tateno Mizuki,0,0,0,,{TIME:534334,536836}I moved in here three days ago.{NOTE:3日前にこの家に来たのよ}
 Dialogue: 0,0:08:56.83,0:08:59.13,Default,Fujioka Junshou,0,0,0,,{TIME:536836,539139}I-I see. I apologize.{NOTE:そうですか すみません}
 Dialogue: 0,0:08:59.13,0:09:01.07,Default,Fujioka Junshou,0,0,0,,{TIME:539139,541074}I've entered without permission.{NOTE:勝手に上がり込んだりして}
 Dialogue: 0,0:09:02.40,0:09:03.87,Alternative,Fujioka Junshou,0,0,0,,{TIME:542409,543877}How cold…{NOTE:寒い}
@@ -185,7 +186,7 @@ Dialogue: 0,0:09:26.59,0:09:27.33,Default,Fujioka Junshou,0,0,0,,{TIME:566599,56
 Dialogue: 0,0:09:27.33,0:09:30.83,Default,Fujioka Junshou,0,0,0,,{TIME:567333,570837}Y-You see, my work at the\Nshoe store is a part-time job.{NOTE:あ、あのね 僕はね靴屋の店員はアルバイトで}
 Dialogue: 0,0:09:30.83,0:09:34.67,Default,Fujioka Junshou,0,0,0,,{TIME:570837,574674}There was no sign of anyone moving in\Nand we saw someone's presence here,{NOTE:これは筆耕しの気配ないし 隣の家からは誰がいるようだし}
 Dialogue: 0,0:09:34.67,0:09:36.77,Default,Fujioka Junshou,0,0,0,,{TIME:574674,576776}I thought it would be terrible\Nif there was fire.{NOTE:もし火事でも出たらその大変だ}
-Dialogue: 0,0:09:37.87,0:09:40.94,Default,Tateno Mizuki,0,0,0,,{TIME:577877,580947}Funny how you want to explain\Neverything at once.{NOTE:一番に説明しようとしてるのおもしろい}
+Dialogue: 0,0:09:37.87,0:09:40.94,Default,Tateno Mizuki,0,0,0,,{TIME:577877,580947}Funny how you want to\Nexplain everything at once.{NOTE:一番に説明しようとしてるのおもしろい}
 Dialogue: 0,0:09:40.94,0:09:44.61,Default,Fujioka Junshou,0,0,0,,{TIME:580947,584617}I'm neither a thief nor a homosexual.{NOTE:僕はね 泥棒じゃないし 断じてホモでもない}
 Dialogue: 0,0:09:53.89,0:09:55.86,Default,Tateno Mizuki,0,0,0,,{TIME:593893,595862}Do you want me to believe you?{NOTE:信じてほしい？}
 Dialogue: 0,0:09:55.86,0:09:59.39,Default,Fujioka Junshou,0,0,0,,{TIME:595862,599399}What about you?\NAre you really from this family?{NOTE:君こそ本当にこの家の人}
@@ -196,7 +197,7 @@ Dialogue: 0,0:10:15.54,0:10:18.85,Default,Fujioka Junshou,0,0,0,,{TIME:615548,61
 Dialogue: 0,0:10:20.12,0:10:21.42,Default,Tateno Mizuki,0,0,0,,{TIME:620120,621421}Of course.{NOTE:覚えてるわよ}
 Dialogue: 0,0:10:21.42,0:10:24.02,Default,Tateno Mizuki,0,0,0,,{TIME:621421,624023}Yes, I've been pretty bad, too.{NOTE:そうよ 私すごく意地悪なの}
 Dialogue: 0,0:10:24.02,0:10:25.89,Default,Tateno Mizuki,0,0,0,,{TIME:624023,625892}But you're no better.{NOTE:でもあなたもそうよ}
-Dialogue: 0,0:10:25.89,0:10:29.56,Default,Tateno Mizuki,0,0,0,,{TIME:625892,629562}If you was a good person,\Nyou wouldn't have retaliated.{NOTE:本当に優しい人なら仕返しなんかしないわ}
+Dialogue: 0,0:10:25.89,0:10:29.56,Default,Tateno Mizuki,0,0,0,,{TIME:625892,629562}If you were a good person,\Nyou wouldn't have retaliated.{NOTE:本当に優しい人なら仕返しなんかしないわ}
 Dialogue: 0,0:10:29.56,0:10:32.26,Default,Tateno Mizuki,0,0,0,,{TIME:629562,632265}You wouldn't have done\Nsomething like that.{NOTE:こんな子供のやったことなんか}
 Dialogue: 0,0:10:32.26,0:10:34.26,Default,Tateno Mizuki,0,0,0,,{TIME:632265,634267}You're not nice at all,{NOTE:やさしくないのに}
 Dialogue: 0,0:10:34.26,0:10:35.70,Default,Tateno Mizuki,0,0,0,,{TIME:634267,635702}and yet you pretend you are.{NOTE:やさし…して}
@@ -208,8 +209,8 @@ Dialogue: 0,0:11:03.56,0:11:05.56,Alternative,Tateno Mizuki,0,0,0,,{TIME:663563,
 Dialogue: 0,0:11:06.66,0:11:09.83,Alternative,Fujioka Junshou,0,0,0,,{TIME:666666,669836}I don't have to worry\Nabout what that girl says to me.{NOTE:気にするな あんなこと言ったことなんか}
 Dialogue: 0,0:11:09.83,0:11:12.33,Alternative,Fujioka Junshou,0,0,0,,{TIME:669836,672338}I used to hear\Nthat stuff a lot in the past.{NOTE:あんなことは昔よく言われたもんだ}
 Dialogue: 0,0:11:13.23,0:11:16.44,Alternative,Fujioka Junshou,0,0,0,,{TIME:673239,676442}Even Seiko told me\Nthat I was a really mean boy.{NOTE:俺は本当に悪ガキでそういう子だって}
-Dialogue: 0,0:11:17.61,0:11:20.81,Default,Seiko,0,0,0,,{TIME:677610,680813}I hate bullies like you, Junshou!{NOTE:じゅんしょうなんて 私苛めっ子大嫌い！}
-Dialogue: 0,0:11:20.81,0:11:22.11,Default,Seiko,0,0,0,,{TIME:680813,682115}I hate you!{NOTE:大嫌いよ！}
+Dialogue: 0,0:11:17.61,0:11:20.81,Alternative,Seiko,0,0,0,,{TIME:677610,680813}I hate bullies like you, Junshou!{NOTE:じゅんしょうなんて 私苛めっ子大嫌い！}
+Dialogue: 0,0:11:20.81,0:11:22.11,Alternative,Seiko,0,0,0,,{TIME:680813,682115}I hate you!{NOTE:大嫌いよ！}
 Dialogue: 0,0:11:22.88,0:11:27.25,Alternative,Fujioka Junshou,0,0,0,,{TIME:682882,687253}Those words hurt me,\Nbut I can't tell Seiko how it felt.{NOTE:あの言葉が気になって そういうに俺の気持ちを打ち明けられない}
 Dialogue: 0,0:11:31.19,0:11:33.22,Default,Fujioka Junshou's dad,0,0,0,,{TIME:691190,693226}Junshou, do you have a moment?{NOTE:じゅんしょう ちょっと}
 Dialogue: 0,0:11:33.22,0:11:36.62,Default,Fujioka Junshou's dad,0,0,0,,{TIME:693226,696629}Our new neighbor who just moved in\Nhas come to greet us.{NOTE:隣の方が引越しの挨拶に来られてね}
@@ -242,7 +243,7 @@ Dialogue: 0,0:13:12.95,0:13:17.76,Default,Tateno Mizuki,0,0,0,,{TIME:792959,7977
 Dialogue: 0,0:13:17.76,0:13:18.89,Alternative,Fujioka Junshou,0,0,0,,{TIME:797764,798898}College?{NOTE:大学？}
 Dialogue: 0,0:13:18.89,0:13:21.23,Alternative,Fujioka Junshou,0,0,0,,{TIME:798898,801234}But she doesn't look older\Nthan a high school student.{NOTE:中学生にしか見えないじゃないか}
 Dialogue: 0,0:13:21.23,0:13:24.10,Default,Tateno Mizuki,0,0,0,,{TIME:801234,804103}I'm already in the fourth grade.\NI'm graduating this spring anyway.{NOTE:4年生だから どうせこの春 卒業 だし}
-Dialogue: 0,0:13:25.33,0:13:28.44,Default,Fujioka Junshou's dad,0,0,0,,{TIME:805338,808441}This fella is still in college.{NOTE:こいつもまだ大学へ行ってましてね}
+Dialogue: 0,0:13:25.33,0:13:28.44,Default,Fujioka Junshou's dad,0,0,0,,{TIME:805338,808441}This fella here is still in college, too.{NOTE:こいつもまだ大学へ行ってましてね}
 Dialogue: 0,0:13:28.44,0:13:30.00,Default,Tateno Mizuki,0,0,0,,{TIME:808441,810009}You're in third grade, right?{NOTE:3年生ですって}
 Dialogue: 0,0:13:30.00,0:13:31.74,Default,Tateno Mizuki,0,0,0,,{TIME:810009,811744}You're younger than me.{NOTE:私より若いのね}
 Dialogue: 0,0:13:31.74,0:13:33.07,Default,Tateno Mizuki,0,0,0,,{TIME:811744,813079}What a surprise.{NOTE:びっくりしたら}
@@ -317,15 +318,15 @@ Dialogue: 0,0:19:12.31,0:19:14.68,Default,Seiko,0,0,0,,{TIME:1152318,1154687}It'
 Dialogue: 0,0:19:14.68,0:19:18.69,Default,Seiko,0,0,0,,{TIME:1154687,1158691}I've been waiting a long time for him,\Na year or two won't make a difference.{NOTE:もうずっと待ってたんだもの 彼が 打ち明けてくれるのはね}
 Dialogue: 0,0:19:18.69,0:19:21.22,Default,Guest,0,0,0,,{TIME:1158691,1161227}With all the snow outside,\Nit's pretty hot in here.{NOTE:外は雪だっていうのに暑い暑い}
 Dialogue: 0,0:19:21.22,0:19:22.36,Default,Guest,0,0,0,,{TIME:1161227,1162361}You got that right.{NOTE:本当}
-Dialogue: 0,0:19:23.29,0:19:26.86,Default,Bouya,0,0,0,,{TIME:1163295,1166866}Now that I think about it, I've been\Nonly talking about my heartbreak all the time.{NOTE:俺考えてみたら失恋ばっかなんだよね}
-Dialogue: 0,0:19:26.86,0:19:29.50,Default,Bouya,0,0,0,,{TIME:1166866,1169502}I feel pretty stupid, you know.{NOTE:バカバカしくなってきたねこの席にいるの}
+Dialogue: 0,0:19:23.29,0:19:26.86,Default,Bouya,0,0,0,,{TIME:1163295,1166866}Now that I think about it,\Nmy life's been a string of heartbreaks.{NOTE:俺考えてみたら失恋ばっかなんだよね}
+Dialogue: 0,0:19:26.86,0:19:29.50,Default,Bouya,0,0,0,,{TIME:1166866,1169502}And now even you're\Ntaken away from me.{NOTE:バカバカしくなってきたねこの席にいるの}
 Dialogue: 0,0:19:33.57,0:19:38.57,Default,Seiko,0,0,0,,{TIME:1173572,1178577}Hey, your neighbor's house\Nis pretty nice, don't you think?{NOTE:ねえ あなたなりの家って可愛いよね}
 Dialogue: 0,0:19:38.57,0:19:40.71,Default,Seiko,0,0,0,,{TIME:1178577,1180713}It looks like straight\Nfrom an illustration.{NOTE:どうあnの挿絵に出てくるような家}
 Dialogue: 0,0:19:41.48,0:19:43.64,Default,Seiko,0,0,0,,{TIME:1181480,1183649}I wonder if she's there.{NOTE:あの子いるのかしら}
 Dialogue: 0,0:19:45.05,0:19:49.12,Alternative,Seiko,0,0,0,,{TIME:1185051,1189121}During the day, I'm playing outside.\NI just come back at night.{NOTE:一日中遊んでいるから 夜何に変えるだけ}
 Dialogue: 0,0:19:49.82,0:19:52.02,Alternative,Fujioka Junshou,0,0,0,,{TIME:1189822,1192024}I wonder if she has any friends?{NOTE:あの子にも友達いるのかな}
 Dialogue: 0,0:19:58.26,0:20:02.06,Alternative,Fujioka Junshou,0,0,0,,{TIME:1198264,1202068}Given the way she is,\NI don't think she's seeing anyone.{NOTE:あんなこと付き合えるような奴がいるとは思えない}
-Dialogue: 0,0:20:03.50,0:20:12.27,Alternative,Fujioka Junshou,0,0,0,,{TIME:1203502,1212278}I'm pretty sure that she'll sitting all alone\Nin the dark in that cold, empty house.{NOTE:きっとあの寒くて何もないあの家に あの暗闇の中にたった一人で}
+Dialogue: 0,0:20:03.50,0:20:12.27,Alternative,Fujioka Junshou,0,0,0,,{TIME:1203502,1212278}I'm pretty sure that she's sitting all alone\Nin the dark in that cold, empty house.{NOTE:きっとあの寒くて何もないあの家に あの暗闇の中にたった一人で}
 Dialogue: 0,0:20:15.58,0:20:17.75,Default,Seiko,0,0,0,,{TIME:1215581,1217750}She might be home.\NShall we invite her?{NOTE:いるかもしれないわ 誘ってみる}
 Dialogue: 0,0:20:23.78,0:20:26.42,Default,Seiko,0,0,0,,{TIME:1223789,1226425}I guess she's not here, after all.{NOTE:やっぱりないのかしら}
 Dialogue: 0,0:20:30.69,0:20:32.53,Default,Fujioka Junshou,0,0,0,,{TIME:1230696,1232531}Good afternoon.{NOTE:こんばんは}
@@ -361,7 +362,7 @@ Dialogue: 0,0:22:22.00,0:22:22.97,Default,Fujioka Junshou,0,0,0,,{TIME:1342007,1
 Dialogue: 0,0:22:25.17,0:22:28.44,Default,Tateno Mizuki,0,0,0,,{TIME:1345177,1348447}Is it payback for my payback\Nfor your payback?{NOTE:それは仕返しの仕返しの仕返しのつもり？}
 Dialogue: 0,0:22:29.51,0:22:31.71,Default,Fujioka Junshou,0,0,0,,{TIME:1349515,1351717}Stop saying garbage.{NOTE:嫌な言い方するなよ}
 Dialogue: 0,0:22:31.71,0:22:35.45,Default,Fujioka Junshou,0,0,0,,{TIME:1351717,1355454}I invited you here because I thought\Nyou'd feel lonely, being alone in that house.{NOTE:あの家に一人でいて 寂しいだろうと思って 読んだんだ}
-Dialogue: 0,0:22:35.45,0:22:37.72,Default,Fujioka Junshou,0,0,0,,{TIME:1355454,1357723}If you didn't want to come,\Nyou could've just say so.{NOTE:嫌なら来なきぇよかったんだ}
+Dialogue: 0,0:22:35.45,0:22:37.72,Default,Fujioka Junshou,0,0,0,,{TIME:1355454,1357723}If you didn't want to come,\Nyou could've just said so.{NOTE:嫌なら来なきぇよかったんだ}
 Dialogue: 0,0:22:42.22,0:22:43.22,Default,Tateno Mizuki,0,0,0,,{TIME:1362228,1363229}I'm leaving.{NOTE:帰る}
 Dialogue: 0,0:22:44.89,0:22:46.69,Default,Seiko,0,0,0,,{TIME:1364897,1366699}Hold on.{NOTE:待って}
 Dialogue: 0,0:22:46.69,0:22:48.60,Default,Seiko,0,0,0,,{TIME:1366699,1368601}Junshou, I'm going with her.{NOTE:じゅんしょ私は送っていくわ}
@@ -465,7 +466,7 @@ Dialogue: 0,0:28:41.65,0:28:43.48,Default,Tateno Mizuki,0,0,0,,{TIME:1721653,172
 Dialogue: 0,0:28:43.48,0:28:47.96,Default,Tateno Mizuki,0,0,0,,{TIME:1723488,1727960}I hate warmth\Nand I hate Christmas.{NOTE:あったかいの嫌いなの クリスマスも嫌い}
 Dialogue: 0,0:28:50.09,0:28:51.93,Default,Tateno Mizuki,0,0,0,,{TIME:1730095,1731930}Today is Christmas Day.{NOTE:今日はクリスマス}
 Dialogue: 0,0:28:51.93,0:28:54.60,Default,Tateno Mizuki,0,0,0,,{TIME:1731930,1734600}Even I have someone who loves me.{NOTE:こんな私でも愛してくれる人いるの}
-Dialogue: 0,0:28:56.10,0:28:58.73,Default,Tateno Mizuki,0,0,0,,{TIME:1736101,1738737}I'm going to see that person.{NOTE:私その人のところに行くの}
+Dialogue: 0,0:28:56.10,0:28:58.73,Default,Tateno Mizuki,0,0,0,,{TIME:1736101,1738737}I'm going to live with that person.{NOTE:私その人のところに行くの}
 Dialogue: 0,0:29:02.80,0:29:06.21,Default,Tateno Mizuki,0,0,0,,{TIME:1742808,1746211}He's been taking care\Nof me for many years.{NOTE:もう何年も前から私のこと …に従ってるの}
 Dialogue: 0,0:29:06.21,0:29:09.48,Default,Tateno Mizuki,0,0,0,,{TIME:1746211,1749481}He used to say I look very much\Nlike his late daughter.{NOTE:死んで娘さんによく似てるんですって}
 Dialogue: 0,0:29:09.48,0:29:13.58,Default,Tateno Mizuki,0,0,0,,{TIME:1749481,1753585}See? Even if I don't have my father,\NI've got my next move figured out.{NOTE:ね？父親がいなくなっても 私の進路はちゃんと決まってるのよ}
@@ -488,12 +489,12 @@ Dialogue: 0,0:30:05.83,0:30:07.30,Default,Tateno Mizuki,0,0,0,,{TIME:1805837,180
 Dialogue: 0,0:30:08.47,0:30:10.80,Default,Fujioka Junshou,0,0,0,,{TIME:1808473,1810809}I just told her "I love you".{NOTE:好きだ と言っただけだよ}
 Dialogue: 0,0:30:10.80,0:30:12.74,Default,Tateno Mizuki,0,0,0,,{TIME:1810809,1812744}And what did she say?{NOTE:そしたら せいこさんは？}
 Dialogue: 0,0:30:12.74,0:30:14.78,Default,Tateno Mizuki,0,0,0,,{TIME:1812744,1814780}What did Seiko-san say to you?{NOTE:せいこさんは 何て言ったの？}
-Dialogue: 0,0:30:18.08,0:30:19.28,Default,Tateno Mizuki,0,0,0,,{TIME:1818083,1819284}"I love you."{NOTE:好き}
-Dialogue: 0,0:30:21.55,0:30:22.55,Default,Tateno Mizuki,0,0,0,,{TIME:1821553,1822554}"I love you."{NOTE:好き}
+Dialogue: 0,0:30:18.08,0:30:19.28,Default,Tateno Mizuki,0,0,0,,{TIME:1818083,1819284}"I love you".{NOTE:好き}
+Dialogue: 0,0:30:21.55,0:30:22.55,Default,Tateno Mizuki,0,0,0,,{TIME:1821553,1822554}"I love you".{NOTE:好き}
 Dialogue: 0,0:30:23.38,0:30:24.52,Default,Tateno Mizuki,0,0,0,,{TIME:1823388,1824523}That's what she told you, isn't it?{NOTE:そういったのね}
 Dialogue: 0,0:30:27.82,0:30:28.99,Default,Tateno Mizuki,0,0,0,,{TIME:1827826,1828994}How boring.{NOTE:つまんない}
 Dialogue: 0,0:30:28.99,0:30:30.49,Default,Tateno Mizuki,0,0,0,,{TIME:1828994,1830495}So simple.{NOTE:シンプルね}
-Dialogue: 0,0:30:30.49,0:30:33.66,Default,Tateno Mizuki,0,0,0,,{TIME:1830495,1833665}Lovers' conversations are stupid.{NOTE:恋人同士の会話 なんてバカみたい}
+Dialogue: 0,0:30:30.49,0:30:33.66,Default,Tateno Mizuki,0,0,0,,{TIME:1830495,1833665}Lovers' conversations are so stupid.{NOTE:恋人同士の会話 なんてバカみたい}
 Dialogue: 0,0:30:33.66,0:30:36.36,Default,Fujioka Junshou,0,0,0,,{TIME:1833665,1836368}If you found someone\Nthat you could love…{NOTE:君だって 好きな人ができれば}
 Dialogue: 0,0:30:36.36,0:30:39.10,Default,Tateno Mizuki,0,0,0,,{TIME:1836368,1839104}I'll never find someone to love.{NOTE:好きな人なんて一生できないわ}
 Dialogue: 0,0:30:39.10,0:30:40.23,Default,Tateno Mizuki,0,0,0,,{TIME:1839104,1840238}Good bye.{NOTE:じゃあね}
@@ -506,7 +507,7 @@ Dialogue: 0,0:31:07.69,0:31:09.76,Default,Seiko,0,0,0,,{TIME:1867699,1869768}She
 Dialogue: 0,0:31:09.76,0:31:11.26,Default,Seiko,0,0,0,,{TIME:1869768,1871269}And she still has a fever.{NOTE:未だ熱だっているのに}
 Dialogue: 0,0:31:12.73,0:31:14.13,Default,Seiko,0,0,0,,{TIME:1872738,1874139}Will she be all right?{NOTE:大丈夫かしら}
 Dialogue: 0,0:31:14.13,0:31:15.27,Default,Fujioka Junshou,0,0,0,,{TIME:1874139,1875273}You're right.{NOTE:そうだな}
-Dialogue: 0,0:31:19.61,0:31:20.57,Default,Seiko,0,0,0,,{TIME:1879611,1880579}I love you.{NOTE:好き}
+Dialogue: 0,0:31:19.61,0:31:20.57,Alternative,Seiko,0,0,0,,{TIME:1879611,1880579}I love you.{NOTE:好き}
 Dialogue: 0,0:31:22.58,0:31:23.71,Default,Fujioka Junshou's dad,0,0,0,,{TIME:1882581,1883715}Junshou.{NOTE:じゅんしょう}
 Dialogue: 0,0:31:23.71,0:31:24.54,Default,Fujioka Junshou's dad,0,0,0,,{TIME:1883715,1884549}Come with me for a bit.{NOTE:ちょっと来てくれ}
 Dialogue: 0,0:31:25.48,0:31:26.55,Default,Fujioka Junshou,0,0,0,,{TIME:1885484,1886551}In our temple?{NOTE:家の寺で}
@@ -524,7 +525,7 @@ Dialogue: 0,0:32:03.02,0:32:06.75,Alternative,Fujioka Junshou,0,0,0,,{TIME:19230
 Dialogue: 0,0:32:08.19,0:32:09.36,Alternative,Fujioka Junshou,0,0,0,,{TIME:1928193,1929361}Still.{NOTE:それでも}
 Dialogue: 0,0:32:11.53,0:32:12.96,Alternative,Fujioka Junshou,0,0,0,,{TIME:1931530,1932964}In there, that girl…{NOTE:その中で彼女は}
 Dialogue: 0,0:32:14.16,0:32:17.00,Alternative,Fujioka Junshou,0,0,0,,{TIME:1934166,1937002}She's probably sitting all alone.{NOTE:やっぱり一人ぼっちなんだ}
-Dialogue: 0,0:32:29.74,0:32:32.81,Default,Guest,0,0,0,,{TIME:1949748,1952818}Thank you for coming in this cold.{NOTE:寒いところありがとうございました}
+Dialogue: 0,0:32:28.31,0:32:32.81,Default,Guest,0,0,0,,{TIME:1948313,1952818}Thank you for coming in this cold.{NOTE:寒いところありがとうございました}
 Dialogue: 0,0:32:32.81,0:32:35.65,Default,Fujioka Junshou,0,0,0,,{TIME:1952818,1955654}Excuse me, where's Mizuki-san?{NOTE:あの みずきさんは？}
 Dialogue: 0,0:32:35.65,0:32:40.12,Default,Guest,0,0,0,,{TIME:1955654,1960125}She still has a fever.\NShe's taking a rest at our house.{NOTE:まだ熱がありましてね 家の方で休んでるんですよ}
 Dialogue: 0,0:32:40.12,0:32:42.82,Default,Fujioka Junshou,0,0,0,,{TIME:1960125,1962828}Of course she has,\Nwhen she's so reckless.{NOTE:当たり前だ 無茶ばっかりするから}
@@ -539,8 +540,8 @@ Dialogue: 0,0:33:08.08,0:33:09.48,Default,Fujioka Junshou,0,0,0,,{TIME:1988086,1
 Dialogue: 0,0:33:13.25,0:33:15.39,Alternative,Fujioka Junshou,0,0,0,,{TIME:1993258,1995393}Maybe they're talking?{NOTE:話し込んでんのかな}
 Dialogue: 0,0:33:27.87,0:33:28.80,Default,Fujioka Junshou,0,0,0,,{TIME:2007873,2008807}Seiko!{NOTE:せいこ！}
 Dialogue: 0,0:33:33.11,0:33:34.27,Alternative,Fujioka Junshou,0,0,0,,{TIME:2013111,2014279}No way…{NOTE:まさか}
-Dialogue: 0,0:33:36.44,0:33:38.28,Default,Tateno Mizuki,0,0,0,,{TIME:2016448,2018283}I won't let you!{NOTE:私が邪魔してやる}
-Dialogue: 0,0:33:38.28,0:33:40.18,Alternative,Fujioka Junshou,0,0,0,,{TIME:2018283,2020185}It cannot be!{NOTE:まさか そんな}
+Dialogue: 0,0:33:36.44,0:33:37.71,Alternative,Tateno Mizuki,0,0,0,,{TIME:2016448,2017716}I won't let you!{NOTE:私が邪魔してやる}
+Dialogue: 0,0:33:38.28,0:33:40.18,Alternative,Fujioka Junshou,0,0,0,,{TIME:2018283,2020185}It can't be!{NOTE:まさか そんな}
 Dialogue: 0,0:33:45.69,0:33:46.59,Default,Fujioka Junshou,0,0,0,,{TIME:2025690,2026591}Seiko!{NOTE:せいこ！}
 Dialogue: 0,0:33:47.99,0:33:49.16,Default,Seiko,0,0,0,,{TIME:2027993,2029160}Junshou!{NOTE:じゅんしょ！}
 Dialogue: 0,0:33:50.32,0:33:51.09,Default,Fujioka Junshou,0,0,0,,{TIME:2030328,2031096}Are you okay?{NOTE:大丈夫か？}
@@ -570,11 +571,11 @@ Dialogue: 0,0:35:26.12,0:35:28.32,Default,Tateno Mizuki,0,0,0,,{TIME:2126124,212
 Dialogue: 0,0:35:28.32,0:35:30.59,Default,Tateno Mizuki,0,0,0,,{TIME:2128326,2130595}Dad!{NOTE:お父さん！}
 Dialogue: 0,0:35:35.96,0:35:39.00,Default,Fujioka Junshou's dad,0,0,0,,{TIME:2135967,2139004}The same thing happened\Nwith you a long time ago.{NOTE:お前にも昔こんなことがあったな}
 Dialogue: 0,0:35:39.00,0:35:42.54,Default,Fujioka Junshou's dad,0,0,0,,{TIME:2139004,2142540}You played with fire and\Nhalf of the temple went up in smoke.{NOTE:火遊びでトラの半分も焼いてしまって}
-Dialogue: 0,0:35:42.54,0:35:46.44,Default,Fujioka Junshou's dad,0,0,0,,{TIME:2142540,2146444}At that time, you was crying\Nand calling for you mother, just like her.{NOTE:あの時も こんな風に 母さんに座って泣いていたっけ}
+Dialogue: 0,0:35:42.54,0:35:46.44,Default,Fujioka Junshou's dad,0,0,0,,{TIME:2142540,2146444}At that time, you were crying\Nand calling for you mother, just like her.{NOTE:あの時も こんな風に 母さんに座って泣いていたっけ}
 Dialogue: 0,0:35:54.05,0:35:56.88,Default,Tateno Mizuki,0,0,0,,{TIME:2154052,2156888}I thought I'd burn all the letters.{NOTE:手紙を燃やすと 思ったのに}
 Dialogue: 0,0:35:56.88,0:35:59.35,Default,Tateno Mizuki,0,0,0,,{TIME:2156888,2159357}The letters from my dad.{NOTE:お父さんからの手紙}
 Dialogue: 0,0:35:59.35,0:36:01.45,Default,Tateno Mizuki,0,0,0,,{TIME:2159357,2161459}I've burned them all.{NOTE:全部燃やして}
-Dialogue: 0,0:36:09.56,0:36:11.03,Default,Tateno Mizuki,0,0,0,,{TIME:2169567,2171036}Go ahead.{NOTE:はい どうぞ}
+Dialogue: 0,0:36:09.56,0:36:11.03,Default,Tateno Mizuki,0,0,0,,{TIME:2169567,2171036}Come on in.{NOTE:はい どうぞ}
 Dialogue: 0,0:36:20.77,0:36:22.58,Default,Fujioka Junshou,0,0,0,,{TIME:2180779,2182580}Are you going to do\Nsomething reckless again?{NOTE:また 無茶なことするつもり}
 Dialogue: 0,0:36:22.58,0:36:23.94,Default,Fujioka Junshou,0,0,0,,{TIME:2182580,2183948}You must stay in bed.{NOTE:寝てなきゃダメだよ}
 Dialogue: 0,0:36:25.91,0:36:28.38,Default,Tateno Mizuki,0,0,0,,{TIME:2185917,2188386}I'm giving you that house.{NOTE:あの家 あなたにあげる}
@@ -593,7 +594,7 @@ Dialogue: 0,0:37:21.27,0:37:24.74,Default,Tateno Mizuki,0,0,0,,{TIME:2241272,224
 Dialogue: 0,0:37:24.74,0:37:29.81,Default,Tateno Mizuki,0,0,0,,{TIME:2244742,2249814}I hate December. I hate Christmas.\NI hate my birthday!{NOTE:12月は嫌い クリスマスは嫌い 誕生日は嫌い}
 Dialogue: 0,0:37:31.11,0:37:35.68,Default,Tateno Mizuki,0,0,0,,{TIME:2251116,2255687}If I didn't like anything\Nand never expected anything,{NOTE:何も好きになったり期待したりしなければ}
 Dialogue: 0,0:37:35.68,0:37:37.65,Default,Tateno Mizuki,0,0,0,,{TIME:2255687,2257655}no one would betray me either.{NOTE:裏切られることないんだもの}
-Dialogue: 0,0:37:38.45,0:37:42.99,Default,Fujioka Junshou,0,0,0,,{TIME:2258456,2262994}But you was hoping your father\Nwould come back, right?{NOTE:でも君はお父さんが帰ってくるの待っていたんだろう}
+Dialogue: 0,0:37:38.45,0:37:42.99,Default,Fujioka Junshou,0,0,0,,{TIME:2258456,2262994}But you were hoping your father\Nwould come back, right?{NOTE:でも君はお父さんが帰ってくるの待っていたんだろう}
 Dialogue: 0,0:37:42.99,0:37:45.56,Default,Fujioka Junshou,0,0,0,,{TIME:2262994,2265563}You were waiting\Nfor him in that house.{NOTE:あの家で期待して}
 Dialogue: 0,0:37:47.06,0:37:52.60,Default,Tateno Mizuki,0,0,0,,{TIME:2267065,2272604}Because he had to build that house\Nall of the sudden. That old fool.{NOTE:だってあの人 突然 あんな家 バカみたい}
 Dialogue: 0,0:37:52.60,0:37:58.30,Default,Tateno Mizuki,0,0,0,,{TIME:2272604,2278309}Long ago, I saw a house on a postcard\Nand said I'd like to live in it some day.{NOTE:昔私が 一度だけ住んでみたいって言った 絵葉書に書いてあった家を}
@@ -608,13 +609,13 @@ Dialogue: 0,0:38:27.90,0:38:31.87,Default,Fujioka Junshou,0,0,0,,{TIME:2307906,2
 Dialogue: 0,0:38:31.87,0:38:35.24,Default,Fujioka Junshou,0,0,0,,{TIME:2311876,2315246}I'm adopted.{NOTE:俺養子だったからさ}
 Dialogue: 0,0:38:35.24,0:38:39.45,Default,Fujioka Junshou,0,0,0,,{TIME:2315246,2319450}But, you know, even I wound up\Nbeing wanted by someone.{NOTE:でもね こんな俺でも ちゃんと愛してくれてた}
 Dialogue: 0,0:38:39.45,0:38:41.65,Default,Tateno Mizuki,0,0,0,,{TIME:2319450,2321653}But I…{NOTE:でも私は}
-Dialogue: 0,0:38:41.65,0:38:44.12,Default,Tateno Mizuki,0,0,0,,{TIME:2321653,2324122}You hate me yourself, don't you?!{NOTE:あなただって 私のこと嫌いでしょ}
+Dialogue: 0,0:38:41.65,0:38:44.12,Default,Tateno Mizuki,0,0,0,,{TIME:2321653,2324122}You hate me, don't you?!{NOTE:あなただって 私のこと嫌いでしょ}
 Dialogue: 0,0:38:46.62,0:38:47.99,Default,Tateno Mizuki,0,0,0,,{TIME:2326624,2327992}I hate myself, too.{NOTE:私も嫌い}
 Dialogue: 0,0:38:47.99,0:38:53.86,Default,Tateno Mizuki,0,0,0,,{TIME:2327992,2333865}Deep down, I know that\NI'm a selfish and cold person.{NOTE:私自分の中に自分勝手で冷たい 自分しかいないこと知ってるから}
 Dialogue: 0,0:38:53.86,0:38:55.20,Default,Fujioka Junshou,0,0,0,,{TIME:2333865,2335200}That's not true.{NOTE:そんなことないよ}
-Dialogue: 0,0:38:55.20,0:39:01.97,Default,Tateno Mizuki,0,0,0,,{TIME:2335200,2341973}As a child, all I've heard was\Nmy father's reprimands and yelling.{NOTE:私子供の頃からお父さんのとなったり怒ったりしてる声しか聞かなかった}
+Dialogue: 0,0:38:55.20,0:39:01.97,Default,Tateno Mizuki,0,0,0,,{TIME:2335200,2341973}As a child, all I had heard was\Nmy father's reprimands and yelling.{NOTE:私子供の頃からお父さんのとなったり怒ったりしてる声しか聞かなかった}
 Dialogue: 0,0:39:01.97,0:39:04.64,Default,Tateno Mizuki,0,0,0,,{TIME:2341973,2344642}How can I speak gentle words?{NOTE:どうすれば優しい言葉を喋れるの}
-Dialogue: 0,0:39:04.64,0:39:06.01,Default,Tateno Mizuki,0,0,0,,{TIME:2344642,2346010}Show it to me.{NOTE:教えて}
+Dialogue: 0,0:39:04.64,0:39:06.01,Default,Tateno Mizuki,0,0,0,,{TIME:2344642,2346010}Teach me.{NOTE:教えて}
 Dialogue: 0,0:39:06.01,0:39:07.67,Default,Tateno Mizuki,0,0,0,,{TIME:2346010,2347679}What should I do?{NOTE:どうすればいいの？}
 Dialogue: 0,0:39:07.67,0:39:10.21,Default,Tateno Mizuki,0,0,0,,{TIME:2347679,2350215}How can I become a kind person?{NOTE:どうしたらやさしくなれるの？}
 Dialogue: 0,0:39:10.21,0:39:14.28,Default,Tateno Mizuki,0,0,0,,{TIME:2350215,2354285}How should I live my life now?{NOTE:私どういう風に生きていけばいいの？}
@@ -648,8 +649,9 @@ Dialogue: 0,0:41:51.60,0:41:52.71,Default,Bouya,0,0,0,,{TIME:2511609,2512710}Wha
 Dialogue: 0,0:41:52.71,0:41:55.11,Default,Fujioka Junshou,0,0,0,,{TIME:2512710,2515113}Didn't you say anything like that?{NOTE:なんかそんなようなことを言ってなかったっけ}
 Dialogue: 0,0:41:55.11,0:41:56.48,Default,Bouya,0,0,0,,{TIME:2515113,2516481}It's possible.{NOTE:どうだったかな}
 Dialogue: 0,0:41:56.48,0:41:59.61,Default,Bouya,0,0,0,,{TIME:2516481,2519617}I must've forgotten\Nif I said it only once.{NOTE:一度言ったことなんか忘れちゃったよ}
-Dialogue: 0,0:41:59.61,0:42:03.25,Default,Bouya,0,0,0,,{TIME:2519617,2523254}By the way, Seiko-san\Nwill be moving soon, right?{NOTE:それよりもうすぐせいこうさん寺に引っ越してくるんだって}
+Dialogue: 0,0:41:59.61,0:42:03.25,Default,Bouya,0,0,0,,{TIME:2519617,2523254}By the way, Seiko-san\Nwill be moving in soon, right?{NOTE:それよりもうすぐせいこうさん寺に引っ越してくるんだって}
 Dialogue: 0,0:42:03.25,0:42:04.12,Default,Fujioka Junshou,0,0,0,,{TIME:2523254,2524122}Yes.{NOTE:ああ}
 Dialogue: 0,0:42:06.29,0:42:10.59,Alternative,Fujioka Junshou,0,0,0,,{TIME:2526290,2530595}That girl showed up\Nand vanished like snow.{NOTE:あの子 雪みたいに現れて そして消えちまった}
 Dialogue: 0,0:42:12.33,0:42:17.73,Alternative,Fujioka Junshou,0,0,0,,{TIME:2532330,2537735}It's as if the bond we had developed\Nduring that period was a gift from Santa Claus.{NOTE:俺たちはその間に結ばれて まるでサンタクロースの置いていったプレゼント 見たい}
 Dialogue: 0,0:42:20.03,0:42:23.04,Alternative,Fujioka Junshou,0,0,0,,{TIME:2540038,2543040}A Santa Claus who hates\NChristmas, of course.{NOTE:クリスマスが嫌いなサンタクロースだなんて}
+Comment: 0,0:42:23.97,0:42:23.97,Default,[chapter],0,0,0,,{TIME:2543975,2543975}Ending
