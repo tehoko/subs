@@ -5,7 +5,7 @@ ScriptType: v4.00+
 PlayResX: 720
 PlayResY: 480
 YCbCr Matrix: TV.601
-WrapStyle: 1
+WrapStyle: 2
 ScaledBorderAndShadow: yes
 Title: Wandering Sun - 04
 Video File: source/05.mkv
@@ -13,10 +13,10 @@ Audio File: source/05.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Museo Sans 700,33,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,2,33,33,33,1
-Style: Karaoke Romaji,JanieHmkBold,33,&H00F8F8F8,&H00919191,&H00000000,&H00000000,-1,0,0,0,120.0,100.0,0.0,0.0,1,3.0,0.0,8,16,16,11,1
-Style: Karaoke English,JanieHmkBold,35,&H00F8F8F8,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,120.0,100.0,0.0,0.0,1,3.5,0.0,2,33,33,11,1
-Style: Sign,Museo Sans 700,33,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,8,33,33,33,1
+Style: Default,Rubik Medium,33,&H00EBFEFF,&H000000FF,&H0028313C,&H7F000000,-1,0,0,0,100.0,98.0,0.0,0.0,1,3.0,1.0,2,33,33,25,1
+Style: Sign,Rubik Medium,33,&H00D3F0CB,&H000000FF,&H0024320A,&H7F000000,-1,0,0,0,100.0,98.0,0.0,0.0,1,3.0,1.0,8,33,33,33,1
+Style: Karaoke Romaji,JanieHmkBold,33,&H00E5F7F8,&H00869091,&H001B2128,&H7F000000,-1,0,0,0,120.0,100.0,0.0,0.0,1,3.0,1.0,8,16,16,11,1
+Style: Karaoke English,JanieHmkBold,35,&H00E5F7F8,&H000000FF,&H001B2128,&H7F000000,-1,0,0,0,120.0,100.0,0.0,0.0,1,3.0,1.0,2,33,33,11,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -62,7 +62,7 @@ Dialogue: 0,0:24:33.34,0:24:42.56,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1473346,
 Dialogue: 0,0:24:42.56,0:24:51.36,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1482564,1491364}{\k20}I{\k29}tsu{\k79}ka {\k25}hi{\k62}ro{\k54}ga{\k221}ru {\k20}a{\k33}shi{\k25}ta {\k29}wo {\k29}shi{\k29}n{\k33}ji{\k29}yo{\k158}u{NOTE:いつか広がるあしたを信じよう}
 Dialogue: 0,0:24:51.36,0:25:04.87,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1491364,1504878}{\fad(0,1000)\k29}I{\k37}tsu{\k83}ka {\k29}hi{\k50}ro{\k66}ga{\k216}ru {\k20}a{\k37}shi{\k25}ta {\k33}wo {\k75}shin{\k58}ji{\k70}yo{\k475}u{NOTE:いつか広がるあしたを信じよう}
 Dialogue: 0,0:23:57.14,0:24:06.82,Karaoke English,[karaoke],0,0,0,,{TIME:1437143,1446820}Music is your friend{NOTE:うたはあなたの友達だから}
-Dialogue: 0,0:24:06.82,0:24:15.12,Karaoke English,[karaoke],0,0,0,,{TIME:1446820,1455120}When things get hard, it stays with you{NOTE:悲しい時もあなたの見方}
+Dialogue: 0,0:24:06.82,0:24:15.12,Karaoke English,[karaoke],0,0,0,,{TIME:1446820,1455120}When things get sad, it stays with you{NOTE:悲しい時もあなたの見方}
 Dialogue: 0,0:24:15.12,0:24:24.92,Karaoke English,[karaoke],0,0,0,,{TIME:1455120,1464921}You and I hold hands together{NOTE:私とあなたが手を取り合って}
 Dialogue: 0,0:24:24.92,0:24:33.33,Karaoke English,[karaoke],0,0,0,,{TIME:1464921,1473331}The song of hope belongs to everyone{NOTE:希望の歌を皆の歌に}
 Dialogue: 0,0:24:33.34,0:24:42.56,Karaoke English,[karaoke],0,0,0,,{TIME:1473346,1482564}Everyone's song fills the sky{NOTE:皆の歌が空いっぱいに}

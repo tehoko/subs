@@ -13,20 +13,20 @@ Audio File: source/04.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Museo Sans 700,33,&H00FFFEEF,&H000000FF,&H00544325,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,2,33,33,33,1
-Style: Karaoke Romaji,JanieHmkBold,33,&H00F8F8F8,&H00919191,&H00000000,&H00000000,-1,0,0,0,120.0,100.0,0.0,0.0,1,3.0,0.0,8,16,16,11,1
-Style: Karaoke English,JanieHmkBold,35,&H00F8F8F8,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,120.0,100.0,0.0,0.0,1,3.5,0.0,2,33,33,11,1
-Style: Sign,Museo Sans 700,33,&H00E4F0CB,&H000000FF,&H0024320A,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,8,33,33,33,1
+Style: Default,Rubik Medium,33,&H00EBFEFF,&H000000FF,&H0028313C,&H7F000000,-1,0,0,0,100.0,98.0,0.0,0.0,1,3.0,1.0,2,33,33,25,1
+Style: Sign,Rubik Medium,33,&H00D3F0CB,&H000000FF,&H0024320A,&H7F000000,-1,0,0,0,100.0,98.0,0.0,0.0,1,3.0,1.0,8,33,33,33,1
+Style: Karaoke Romaji,JanieHmkBold,33,&H00E5F7F8,&H00869091,&H001B2128,&H7F000000,-1,0,0,0,120.0,100.0,0.0,0.0,1,3.0,1.0,8,16,16,11,1
+Style: Karaoke English,JanieHmkBold,35,&H00E5F7F8,&H000000FF,&H001B2128,&H7F000000,-1,0,0,0,120.0,100.0,0.0,0.0,1,3.0,1.0,2,33,33,11,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Intro
-Dialogue: 0,0:00:02.25,0:00:04.21,Default,Narrator,0,0,0,,{TIME:2256,4216}{\i1}What if…{NOTE:もしもあなたが…}
-Dialogue: 0,0:00:06.05,0:00:09.30,Default,Narrator,0,0,0,,{TIME:6051,9304}{\i1}You were replaced with another child when you were born?{NOTE:…生まれた時によその子供と取り替えられたら…？}
-Dialogue: 0,0:00:11.55,0:00:15.72,Default,Narrator,0,0,0,,{TIME:11557,15727}{\i1}This is a story about a young lady born into a luxurious life…{NOTE:これは豪華な屋敷の子供として生まれながら…}
-Dialogue: 0,0:00:15.72,0:00:18.60,Default,Narrator,0,0,0,,{TIME:15727,18605}{\i1}…while being raised in a poor family.{NOTE:…貧しい家庭に育てられ…}
-Dialogue: 0,0:00:18.60,0:00:20.74,Default,Narrator,0,0,0,,{TIME:18605,20742}{\i1}Fighting against her fate…{NOTE:…運命と戦いながら…}
-Dialogue: 0,0:00:20.74,0:00:26.90,Default,Narrator,0,0,0,,{TIME:20742,26900}{\i1}…she strives to one day become a singer.{NOTE:…力強く歌手を目指して立ち上がっていく一人の少女の物語です。}
+Dialogue: 0,0:00:02.25,0:00:04.21,Default,Narrator,0,0,0,,{TIME:2256,4216}{\i1}What if…{NOTE:もしもあなたが}
+Dialogue: 0,0:00:06.05,0:00:09.30,Default,Narrator,0,0,0,,{TIME:6051,9304}{\i1}…you were replaced with\Nanother child when you were born?{NOTE:生まれた時によその子供と取り替えられたら？}
+Dialogue: 0,0:00:11.55,0:00:15.72,Default,Narrator,0,0,0,,{TIME:11557,15727}{\i1}This is a story about a young lady\Nborn into a luxurious life{NOTE:これは豪華な屋敷の子供として生まれながら}
+Dialogue: 0,0:00:15.72,0:00:18.60,Default,Narrator,0,0,0,,{TIME:15727,18605}{\i1}while being raised in a poor family.{NOTE:貧しい家庭に育てられ}
+Dialogue: 0,0:00:18.60,0:00:20.74,Default,Narrator,0,0,0,,{TIME:18605,20742}{\i1}Fighting against her fate,{NOTE:運命と戦いながら}
+Dialogue: 0,0:00:20.74,0:00:26.90,Default,Narrator,0,0,0,,{TIME:20742,26900}{\i1}she strives to one day\Nbecome a singer.{NOTE:力強く歌手を目指して立ち上がっていく一人の少女の物語です}
 Comment: 0,0:00:28.87,0:00:28.87,Default,[chapter],0,0,0,,{TIME:28875,28875}Opening
 Dialogue: 0,0:00:29.28,0:00:38.50,Default,[title],0,0,0,,{TIME:29280,38500}{\an8\fnBelligerent Madness\fs50\3c&H202020&\bord2\1c&H204870&\t(3400,4400,\1c&H406890&)\fad(1000,2500)}Wandering {\1c&H2020A0&\alpha&HFF&\t(3400,4400,\alpha&H00&)}Sun
 Dialogue: 0,0:00:39.12,0:00:46.26,Karaoke Romaji,[karaoke],0,0,0,,{TIME:39120,46260}{\k25}Da{\k25}re{\k20}ka {\k91}ni {\k20}fu{\k20}ma{\k25}re{\k133}ta {\k41}no {\k87}no {\k49}ku{\k42}sa {\k129}mo{NOTE:誰かに踏まれた野の草も}
@@ -39,7 +39,7 @@ Dialogue: 0,0:01:23.63,0:01:30.76,Karaoke Romaji,[karaoke],0,0,0,,{TIME:83630,90
 Dialogue: 0,0:01:30.76,0:01:37.76,Karaoke Romaji,[karaoke],0,0,0,,{TIME:90760,97760}{\k25}Wa{\k33}ta{\k29}shi{\k41}ta{\k45}chi {\k175}wa {\k20}i{\k41}ki{\k29}te{\k24}i{\k40}ru {\k29}no {\k171}yo{NOTE:私達は生きているのよ}
 Dialogue: 0,0:01:37.76,0:01:44.73,Karaoke Romaji,[karaoke],0,0,0,,{TIME:97760,104730}{\k36}Sa{\k33}su{\k29}ra{\k75}i {\k41}na{\k29}ga{\k108}ra {\k15}ki{\k25}zu{\k20}tsu{\k30}ki {\k34}na{\k25}ga{\k195}ra{NOTE:さすらいながら傷つきながら}
 Dialogue: 0,0:01:44.73,0:01:58.20,Karaoke Romaji,[karaoke],0,0,0,,{TIME:104730,118206}{\fad(0,500)\k12}A{\k29}shi{\k20}ta {\k25}no {\k20}ta{\k25}i{\k45}you {\k162}wo {\k29}sa{\k33}ga{\k33}shi{\k33}te{\k25}i{\k29}ru {\k337}no{NOTE:明日の太陽をさがしているの}
-Dialogue: 0,0:00:39.12,0:00:46.26,Karaoke English,[karaoke],1,1,0,,{TIME:39120,46260}The grass on the field is stepped on by someone{NOTE:誰かに踏まれた野の草も}
+Dialogue: 0,0:00:39.12,0:00:46.26,Karaoke English,[karaoke],1,1,0,,{TIME:39120,46260}The grass on the field\Nis stepped on by someone{NOTE:誰かに踏まれた野の草も}
 Dialogue: 0,0:00:46.26,0:00:53.93,Karaoke English,[karaoke],0,0,0,,{TIME:46260,53930}Someday we'll look up to the sky{NOTE:いつか空を振り仰ぐ}
 Dialogue: 0,0:00:53.93,0:01:00.89,Karaoke English,[karaoke],0,0,0,,{TIME:53930,60890}Even when we can't see from the tears{NOTE:涙でなにも見えないときにも}
 Dialogue: 0,0:01:00.89,0:01:07.91,Karaoke English,[karaoke],0,0,0,,{TIME:60890,67910}We are alive!{NOTE:私達は生きているのよ}
@@ -50,414 +50,413 @@ Dialogue: 0,0:01:30.76,0:01:37.76,Karaoke English,[karaoke],0,0,0,,{TIME:90760,9
 Dialogue: 0,0:01:37.76,0:01:44.73,Karaoke English,[karaoke],0,0,0,,{TIME:97760,104730}While wandering, while wounded{NOTE:さすらいながら傷つきながら}
 Dialogue: 0,0:01:44.73,0:01:58.20,Karaoke English,[karaoke],0,0,0,,{TIME:104730,118206}{\fad(0,500)}We are looking for the sun of tomorrow{NOTE:明日の太陽をさがしているの}
 Comment: 0,0:01:58.82,0:01:58.82,Default,[chapter],0,0,0,,{TIME:118823,118823}Part A
-Dialogue: 0,0:02:01.40,0:02:05.53,Default,Narrator,0,0,0,,{TIME:121409,125538}{\i1}Nozomi's father, Shinsuke, who was involved in a fight and suffered serious injury…{NOTE:喧嘩に巻き込まれ重傷を負ったのぞみの父慎介は…}
-Dialogue: 0,0:02:05.53,0:02:08.95,Default,Narrator,0,0,0,,{TIME:125538,128958}{\i1}…was taken to the hospital.{NOTE:…病院へと 担ぎ込まれていった。}
-Dialogue: 0,0:02:08.95,0:02:13.62,Default,Narrator,0,0,0,,{TIME:128958,133629}{\i1}Now that the worker of the family was hospitalized…{NOTE:一家の働き手である父を病院に撮られたみね家の生活は…}
+Dialogue: 0,0:02:01.40,0:02:05.53,Default,Narrator,0,0,0,,{TIME:121409,125538}{\i1}Nozomi's father, Shinsuke, who was involved in a fight and suffered serious injury,{NOTE:喧嘩に巻き込まれ重傷を負ったのぞみの父慎介は}
+Dialogue: 0,0:02:05.53,0:02:08.95,Default,Narrator,0,0,0,,{TIME:125538,128958}{\i1}was taken to the hospital.{NOTE:病院へと 担ぎ込まれていった}
 Dialogue: 0,0:02:10.33,0:02:12.37,Sign,(sign),0,0,0,,{TIME:130334,132378}Surgery{NOTE:手術中}
-Dialogue: 0,0:02:13.62,0:02:17.30,Default,Narrator,0,0,0,,{TIME:133629,137300}{\i1}…responsibility for the Mine family rested in the hands of Nozomi.{NOTE:…今のぞみの方に重くのしかかる落としていた。}
+Dialogue: 0,0:02:08.95,0:02:13.62,Default,Narrator,0,0,0,,{TIME:128958,133629}{\i1}Now that the worker of the family was hospitalized,{NOTE:一家の働き手である父を病院に撮られたみね家の生活は}
+Dialogue: 0,0:02:13.62,0:02:17.30,Default,Narrator,0,0,0,,{TIME:133629,137300}{\i1}responsibility for the Mine family rested in the hands of Nozomi.{NOTE:今のぞみの方に重くのしかかる落としていた}
 Dialogue: 0,0:02:18.84,0:02:26.80,Default,[title],0,0,0,,{TIME:138843,146809}{\fad(0,900)}—Episode 04—\NThere's a Song Within Me{NOTE:第4話\\N私には歌がある}
 Dialogue: 0,0:02:39.07,0:02:41.78,Default,Kumagorō,0,0,0,,{TIME:159072,161783}This way, this way!{NOTE:おい、こっちだ、こっちだ！}
-Dialogue: 0,0:02:41.78,0:02:43.99,Default,Kumagorō,0,0,0,,{TIME:161783,163993}You arrive just at the right time.{NOTE:や、ごくろさん。}
-Dialogue: 0,0:02:43.99,0:02:46.07,Default,Kumagorō,0,0,0,,{TIME:163993,166079}As expected from the Tōkyō Metropolitan Police.{NOTE:さすが警視庁のXXXだ。}
-Dialogue: 0,0:02:46.07,0:02:48.24,Default,Kumagorō,0,0,0,,{TIME:166079,168247}Hehehe.{NOTE:へへへ。}
-Dialogue: 0,0:02:48.24,0:02:50.70,Default,Kumagorō,0,0,0,,{TIME:168247,170708}Nice to know you can count on the police.{NOTE:やることがてきぱきして気持ちがいいね。}
+Dialogue: 0,0:02:41.78,0:02:43.99,Default,Kumagorō,0,0,0,,{TIME:161783,163993}You arrive just at the right time.{NOTE:や、ごくろさん}
+Dialogue: 0,0:02:43.99,0:02:46.07,Default,Kumagorō,0,0,0,,{TIME:163993,166079}As expected from the Tōkyō Metropolitan Police.{NOTE:さすが警視庁のXXXだ}
+Dialogue: 0,0:02:46.07,0:02:48.24,Default,Kumagorō,0,0,0,,{TIME:166079,168247}Hehehe.{NOTE:へへへ}
+Dialogue: 0,0:02:48.24,0:02:50.70,Default,Kumagorō,0,0,0,,{TIME:168247,170708}Nice to know you can count on the police.{NOTE:やることがてきぱきして気持ちがいいね}
 Dialogue: 0,0:02:50.70,0:02:51.58,Default,Police,0,0,0,,{TIME:170708,171584}Huh?{NOTE:え？}
-Dialogue: 0,0:02:51.58,0:02:52.58,Default,Police,0,0,0,,{TIME:171584,172585}What do you mean…?{NOTE:—てきぱき？\\N—あ、あの…}
+Dialogue: 0,0:02:51.58,0:02:52.58,Default,Police,0,0,0,,{TIME:171584,172585}What do you mean?{NOTE:—てきぱき？\\N—あ、あの}
 Dialogue: 0,0:02:52.58,0:02:54.42,Default,Kumagorō,0,0,0,,{TIME:172585,174420}What are you doing?{NOTE:何もたもたしてるぜ！}
 Dialogue: 0,0:02:54.42,0:02:57.88,Default,Kumagorō,0,0,0,,{TIME:174420,177882}It's a matter of life and death!{NOTE:人間XXX死ぬか生きるかの瀬戸際だ！}
-Dialogue: 0,0:02:57.88,0:03:00.30,Default,Police,0,0,0,,{TIME:177882,180301}Life and death…?{NOTE:瀬戸際だって？}
+Dialogue: 0,0:02:57.88,0:03:00.30,Default,Police,0,0,0,,{TIME:177882,180301}Life and death?{NOTE:瀬戸際だって？}
 Dialogue: 0,0:03:00.30,0:03:02.38,Default,Kumagorō,0,0,0,,{TIME:180301,182386}Hurry up and step on it!{NOTE:早くXXX、早く！}
-Dialogue: 0,0:03:02.38,0:03:03.59,Default,Police,0,0,0,,{TIME:182386,183596}O-Okay…{NOTE:ほ、ほお。}
-Dialogue: 0,0:03:08.18,0:03:09.68,Default,Kumagorō,0,0,0,,{TIME:188184,189685}Turn over there to the left…\NNo, to the right…{NOTE:そこのXXXには右だ、いいえいいえ、左だって…}
+Dialogue: 0,0:03:02.38,0:03:03.59,Default,Police,0,0,0,,{TIME:182386,183596}O-Okay…{NOTE:ほ、ほお}
+Dialogue: 0,0:03:08.18,0:03:09.68,Default,Kumagorō,0,0,0,,{TIME:188184,189685}Turn over there to the left…\NNo, to the right…{NOTE:そこのXXXには右だ、いいえいいえ、左だって}
 Dialogue: 0,0:03:09.68,0:03:11.52,Default,Police,0,0,0,,{TIME:189685,191521}– …no, to the right.\N– Where to?{NOTE:ど、ど、どっちですか？}
-Dialogue: 0,0:03:11.52,0:03:13.81,Default,Kumagorō,0,0,0,,{TIME:191521,193815}This way… aaah!{NOTE:こっち…あああ！}
+Dialogue: 0,0:03:11.52,0:03:13.81,Default,Kumagorō,0,0,0,,{TIME:191521,193815}This way… ahh!{NOTE:こっちあああ！}
 Dialogue: 0,0:03:14.89,0:03:17.40,Default,Kumagorō,0,0,0,,{TIME:194899,197401}You idiot, no one told you to brake!{NOTE:ばかやろ！XXXじゃない言ってんだよ！}
 Dialogue: 0,0:03:17.40,0:03:18.36,Default,Kumagorō,0,0,0,,{TIME:197401,198361}Ah!{NOTE:あった！}
-Dialogue: 0,0:03:20.32,0:03:23.11,Default,Kumagorō,0,0,0,,{TIME:200321,203116}Ah, now there should be a draw bridge…{NOTE:あ、その先にXXX入って。}
+Dialogue: 0,0:03:20.32,0:03:23.11,Default,Kumagorō,0,0,0,,{TIME:200321,203116}Ah, now there should be a draw bridge…{NOTE:あ、その先にXXX入って}
 Dialogue: 0,0:03:23.11,0:03:24.49,Default,Kumagorō,0,0,0,,{TIME:203116,204492}Wait, it's not here?{NOTE:間違いだった？}
-Dialogue: 0,0:03:24.49,0:03:27.53,Default,Kumagorō,0,0,0,,{TIME:204492,207537}Do a U-turn near that "no U-turn" sign.{NOTE:そこのUターン禁止のところでUターンしてくれ。}
-Dialogue: 0,0:03:27.53,0:03:29.12,Default,Kumagorō,0,0,0,,{TIME:207537,209122}Aaah!{NOTE:あああ！}
+Dialogue: 0,0:03:24.49,0:03:27.53,Default,Kumagorō,0,0,0,,{TIME:204492,207537}Do a U-turn near that "no U-turn" sign.{NOTE:そこのUターン禁止のところでUターンしてくれ}
+Dialogue: 0,0:03:27.53,0:03:29.12,Default,Kumagorō,0,0,0,,{TIME:207537,209122}Ahh!{NOTE:あああ！}
 Dialogue: 0,0:03:29.12,0:03:32.45,Sign,(sign),0,0,0,,{TIME:209122,212458}{\fad(0,1000)}Minami General Hospital{NOTE:南総合病院}
 Dialogue: 0,0:03:35.37,0:03:36.33,Default,Kumagorō,0,0,0,,{TIME:215378,216337}Thanks for the ride!{NOTE:恩に着るぜ！}
 Dialogue: 0,0:03:36.33,0:03:36.92,Default,Police,0,0,0,,{TIME:216337,216921}Hello?{NOTE:もしもし！？}
-Dialogue: 0,0:03:36.92,0:03:40.59,Default,Kumagorō,0,0,0,,{TIME:216921,220591}Ah, all right, all right. Here, have your reward.{NOTE:いや、分かってる分かってる。XXX。ほら。取っておきな。}
+Dialogue: 0,0:03:36.92,0:03:40.59,Default,Kumagorō,0,0,0,,{TIME:216921,220591}Ah, all right, all right. Here, have your reward.{NOTE:いや、分かってる分かってるXXXほら取っておきな}
 Dialogue: 0,0:03:40.59,0:03:41.96,Default,Police,0,0,0,,{TIME:220591,221968}Hey!{NOTE:あ、ちょっと！}
 Dialogue: 0,0:03:41.96,0:03:44.01,Default,Police,0,0,0,,{TIME:221968,224011}Wait!{NOTE:おい、きみ！}
-Dialogue: 0,0:03:44.01,0:03:45.01,Default,Police,0,0,0,,{TIME:224011,225012}Wait…{NOTE:きみ…}
-Dialogue: 0,0:03:53.56,0:03:54.52,Default,Mine Nozomi,0,0,0,,{TIME:233563,234522}Dad…{NOTE:お父さん。}
-Dialogue: 0,0:03:54.52,0:03:55.60,Default,Mine Nozomi,0,0,0,,{TIME:234522,235606}Hang in there.{NOTE:しっかりして。}
-Dialogue: 0,0:03:55.60,0:03:56.69,Default,Mine Nozomi,0,0,0,,{TIME:235606,236691}You'll make it through.{NOTE:頑張るのよ。}
-Dialogue: 0,0:03:58.60,0:04:01.61,Default,Kumagorō,0,0,0,,{TIME:238609,241612}You can't die on us, Pops. Kumagorō's here with you.{NOTE:おやじさん。死んじゃ駄目だ。この熊五郎がついているぜ。}
-Dialogue: 0,0:04:01.61,0:04:03.03,Default,Mine Nozomi,0,0,0,,{TIME:241612,243030}Kuma-san…{NOTE:くまさん。}
-Dialogue: 0,0:04:03.03,0:04:04.11,Default,Kumagorō,0,0,0,,{TIME:243030,244115}Nozomi-chan.{NOTE:のぞみちゃん。}
-Dialogue: 0,0:04:04.11,0:04:06.57,Default,Kumagorō,0,0,0,,{TIME:244115,246576}Is it really so bad that he needs a second surgery?{NOTE:再手術にだって…そんなに酷くやられたんだって？}
-Dialogue: 0,0:04:06.57,0:04:07.36,Default,Mine Nozomi,0,0,0,,{TIME:246576,247368}Yes…{NOTE:ええ。}
-Dialogue: 0,0:04:08.57,0:04:11.53,Default,Kumagorō,0,0,0,,{TIME:248578,251539}Doctors, nurses, listen well to me.{NOTE:ええ、XXX看護婦諸君。}
-Dialogue: 0,0:04:11.53,0:04:15.62,Default,Kumagorō,0,0,0,,{TIME:251539,255626}Do everything you can to save him.{NOTE:前事故の親父さんの命に関わるようのことがあったらですが…}
-Dialogue: 0,0:04:15.62,0:04:18.71,Default,Kumagorō,0,0,0,,{TIME:255626,258713}Otherwise you'll have to deal with this Kumagorō here!{NOTE:…この熊五郎黙っちゃいませんからね。}
-Dialogue: 0,0:04:18.71,0:04:20.00,Default,Mine Nozomi,0,0,0,,{TIME:258713,260006}Uncle…{NOTE:おじさん。}
-Dialogue: 0,0:04:20.00,0:04:21.38,Default,Kumagorō,0,0,0,,{TIME:260006,261382}Hmph. Okay, okay.{NOTE:フン。いいから、いいから。}
-Dialogue: 0,0:04:21.38,0:04:24.71,Default,Kumagorō,0,0,0,,{TIME:261382,264719}But if you need blood transfusion, just ask.{NOTE:それにな、毎日輸血が必要な時は声をかけてくんな。}
-Dialogue: 0,0:04:24.71,0:04:27.47,Default,Kumagorō,0,0,0,,{TIME:264719,267471}I'll donate a lifetime or two worth of blood!{NOTE:一生でもXXXでもXXXするぜ。}
-Dialogue: 0,0:04:27.47,0:04:29.76,Default,Mine Nozomi,0,0,0,,{TIME:267471,269765}I understand, Uncle.{NOTE:おじさん、分かったわ。}
-Dialogue: 0,0:04:29.76,0:04:33.31,Default,Doctor,0,0,0,,{TIME:269765,273311}I'm sorry, but since we're going to start with the surgery, please leave this room.{NOTE:すいませんが、手術を始めますから関係の方でてください。}
-Dialogue: 0,0:04:33.31,0:04:35.22,Default,Mine Shizuko,0,0,0,,{TIME:273311,275229}Nozomi{NOTE:のぞみ。}
-Dialogue: 0,0:04:35.22,0:04:36.89,Default,Mine Shizuko,0,0,0,,{TIME:275229,276897}I'm going to stay, so it'll be okay.{NOTE:母さんが立ち会うからいいわよ。}
-Dialogue: 0,0:04:37.73,0:04:38.44,Default,Mine Nozomi,0,0,0,,{TIME:277732,278441}Okay.{NOTE:うん。}
-Dialogue: 0,0:04:39.90,0:04:41.27,Default,Mine Nozomi,0,0,0,,{TIME:279901,281277}Okay, Uncle, let's go.{NOTE:さあ、おじさん、出よう。}
-Dialogue: 0,0:04:41.27,0:04:42.65,Default,Mine Shinsuke,0,0,0,,{TIME:281277,282653}No… Nozomi…{NOTE:の…のぞみ…}
+Dialogue: 0,0:03:44.01,0:03:45.01,Default,Police,0,0,0,,{TIME:224011,225012}Wait…{NOTE:きみ}
+Dialogue: 0,0:03:53.56,0:03:54.52,Default,Mine Nozomi,0,0,0,,{TIME:233563,234522}Dad…{NOTE:お父さん}
+Dialogue: 0,0:03:54.52,0:03:55.60,Default,Mine Nozomi,0,0,0,,{TIME:234522,235606}Hang in there.{NOTE:しっかりして}
+Dialogue: 0,0:03:55.60,0:03:56.69,Default,Mine Nozomi,0,0,0,,{TIME:235606,236691}You'll make it through.{NOTE:頑張るのよ}
+Dialogue: 0,0:03:58.60,0:04:01.61,Default,Kumagorō,0,0,0,,{TIME:238609,241612}You can't die on us, Pops. Kumagorō's here with you.{NOTE:おやじさん死んじゃ駄目だこの熊五郎がついているぜ}
+Dialogue: 0,0:04:01.61,0:04:03.03,Default,Mine Nozomi,0,0,0,,{TIME:241612,243030}Kuma-san…{NOTE:くまさん}
+Dialogue: 0,0:04:03.03,0:04:04.11,Default,Kumagorō,0,0,0,,{TIME:243030,244115}Nozomi-chan.{NOTE:のぞみちゃん}
+Dialogue: 0,0:04:04.11,0:04:06.57,Default,Kumagorō,0,0,0,,{TIME:244115,246576}Is it really so bad that he needs a second surgery?{NOTE:再手術にだってそんなに酷くやられたんだって？}
+Dialogue: 0,0:04:06.57,0:04:07.36,Default,Mine Nozomi,0,0,0,,{TIME:246576,247368}Yes…{NOTE:ええ}
+Dialogue: 0,0:04:08.57,0:04:11.53,Default,Kumagorō,0,0,0,,{TIME:248578,251539}Doctors, nurses, listen well to me.{NOTE:ええ、XXX看護婦諸君}
+Dialogue: 0,0:04:11.53,0:04:15.62,Default,Kumagorō,0,0,0,,{TIME:251539,255626}Do everything you can to save him.{NOTE:前事故の親父さんの命に関わるようのことがあったらですが}
+Dialogue: 0,0:04:15.62,0:04:18.71,Default,Kumagorō,0,0,0,,{TIME:255626,258713}Otherwise you'll have to deal with this Kumagorō here!{NOTE:この熊五郎黙っちゃいませんからね}
+Dialogue: 0,0:04:18.71,0:04:20.00,Default,Mine Nozomi,0,0,0,,{TIME:258713,260006}Uncle…{NOTE:おじさん}
+Dialogue: 0,0:04:20.00,0:04:21.38,Default,Kumagorō,0,0,0,,{TIME:260006,261382}Hmph. Okay, okay.{NOTE:フンいいから、いいから}
+Dialogue: 0,0:04:21.38,0:04:24.71,Default,Kumagorō,0,0,0,,{TIME:261382,264719}But if you need blood transfusion, just ask.{NOTE:それにな、毎日輸血が必要な時は声をかけてくんな}
+Dialogue: 0,0:04:24.71,0:04:27.47,Default,Kumagorō,0,0,0,,{TIME:264719,267471}I'll donate a lifetime or two worth of blood!{NOTE:一生でもXXXでもXXXするぜ}
+Dialogue: 0,0:04:27.47,0:04:29.76,Default,Mine Nozomi,0,0,0,,{TIME:267471,269765}I understand, Uncle.{NOTE:おじさん、分かったわ}
+Dialogue: 0,0:04:29.76,0:04:33.31,Default,Doctor,0,0,0,,{TIME:269765,273311}I'm sorry, but since we're going to start with the surgery, please leave this room.{NOTE:すいませんが、手術を始めますから関係の方でてください}
+Dialogue: 0,0:04:33.31,0:04:35.22,Default,Mine Shizuko,0,0,0,,{TIME:273311,275229}Nozomi.{NOTE:のぞみ}
+Dialogue: 0,0:04:35.22,0:04:36.89,Default,Mine Shizuko,0,0,0,,{TIME:275229,276897}I'm going to stay, so it'll be okay.{NOTE:母さんが立ち会うからいいわよ}
+Dialogue: 0,0:04:37.73,0:04:38.44,Default,Mine Nozomi,0,0,0,,{TIME:277732,278441}Okay.{NOTE:うん}
+Dialogue: 0,0:04:39.90,0:04:41.27,Default,Mine Nozomi,0,0,0,,{TIME:279901,281277}Okay, Uncle, let's go.{NOTE:さあ、おじさん、出よう}
+Dialogue: 0,0:04:41.27,0:04:42.65,Default,Mine Shinsuke,0,0,0,,{TIME:281277,282653}No… Nozomi…{NOTE:ののぞみ}
 Dialogue: 0,0:04:42.65,0:04:43.19,Default,Mine Nozomi,0,0,0,,{TIME:282653,283196}Huh?{NOTE:え？}
-Dialogue: 0,0:04:44.28,0:04:44.94,Default,Mine Shizuko,0,0,0,,{TIME:284280,284947}Ah.{NOTE:あ。}
-Dialogue: 0,0:04:46.94,0:04:48.70,Default,Mine Shinsuke,0,0,0,,{TIME:286949,288701}Nozomi.{NOTE:のぞみ。}
-Dialogue: 0,0:04:48.70,0:04:50.32,Default,Mine Nozomi,0,0,0,,{TIME:288701,290328}What is it, Dad?{NOTE:何？父さん。}
-Dialogue: 0,0:04:51.91,0:04:53.16,Default,Mine Shinsuke,0,0,0,,{TIME:291913,293164}Nozomi…{NOTE:のぞみ。}
-Dialogue: 0,0:04:55.45,0:04:56.91,Default,(mixed),0,0,0,,{TIME:295458,296918}– Nozomi.\N– What is it?{NOTE:—のぞみ。\\N—何？}
-Dialogue: 0,0:04:58.83,0:05:02.42,Default,Mine Shinsuke,0,0,0,,{TIME:298836,302423}Nozomi, there's something\NI want to tell you before I die.{NOTE:のぞみ、死ぬ前に話しておきたい事が…}
+Dialogue: 0,0:04:44.28,0:04:44.94,Default,Mine Shizuko,0,0,0,,{TIME:284280,284947}Ah.{NOTE:あ}
+Dialogue: 0,0:04:46.94,0:04:48.70,Default,Mine Shinsuke,0,0,0,,{TIME:286949,288701}Nozomi.{NOTE:のぞみ}
+Dialogue: 0,0:04:48.70,0:04:50.32,Default,Mine Nozomi,0,0,0,,{TIME:288701,290328}What is it, Dad?{NOTE:何？父さん}
+Dialogue: 0,0:04:51.91,0:04:53.16,Default,Mine Shinsuke,0,0,0,,{TIME:291913,293164}Nozomi…{NOTE:のぞみ}
+Dialogue: 0,0:04:55.45,0:04:56.91,Default,(mixed),0,0,0,,{TIME:295458,296918}– Nozomi.\N– What is it?{NOTE:—のぞみ\\N—何？}
+Dialogue: 0,0:04:58.83,0:05:02.42,Default,Mine Shinsuke,0,0,0,,{TIME:298836,302423}Nozomi, there's something\NI want to tell you before I die.{NOTE:のぞみ、死ぬ前に話しておきたい事が}
 Dialogue: 0,0:05:02.42,0:05:04.09,Default,Mine Nozomi,0,0,0,,{TIME:302423,304091}No! I don't want to hear it!{NOTE:いや！聞きたくない！}
-Dialogue: 0,0:05:04.09,0:05:05.42,Default,Mine Nozomi,0,0,0,,{TIME:304091,305426}You have to live.{NOTE:父さんが生きるのよ。}
-Dialogue: 0,0:05:05.42,0:05:07.92,Default,Mine Nozomi,0,0,0,,{TIME:305426,307929}It won't be fair if you leave us all alone.{NOTE:だって私達を残って先に死ぬなんてずるい。}
-Dialogue: 0,0:05:07.92,0:05:09.22,Default,Mine Shinsuke,0,0,0,,{TIME:307929,309222}But…{NOTE:しかし…}
-Dialogue: 0,0:05:09.22,0:05:11.76,Default,Mine Nozomi,0,0,0,,{TIME:309222,311766}There's still a lot of things\NI want to do before I mature.{NOTE:私にいたいことがあるので生きてちょうだい。}
-Dialogue: 0,0:05:11.76,0:05:14.51,Default,Mine Nozomi,0,0,0,,{TIME:311766,314518}You can tell me once you get back on your feet.{NOTE:そして元気ないって私に言って。}
-Dialogue: 0,0:05:15.51,0:05:16.89,Default,Kumagorō,0,0,0,,{TIME:315519,316896}How moving…{NOTE:チェ。何か喋って}
-Dialogue: 0,0:05:22.90,0:05:23.90,Default,Kumagorō,0,0,0,,{TIME:322902,323903}She has it together.{NOTE:偉いな。}
-Dialogue: 0,0:05:23.90,0:05:26.90,Default,Kumagorō,0,0,0,,{TIME:323903,326906}I wasn't anywhere that strong when I was 17.{NOTE:俺が17の時あんなにしっかりしてなかったね。}
-Dialogue: 0,0:05:31.24,0:05:32.45,Default,Mine Yuki,0,0,0,,{TIME:331244,332453}Ah, mister.{NOTE:あ、お兄ちゃん。}
+Dialogue: 0,0:05:04.09,0:05:05.42,Default,Mine Nozomi,0,0,0,,{TIME:304091,305426}You have to live.{NOTE:父さんが生きるのよ}
+Dialogue: 0,0:05:05.42,0:05:07.92,Default,Mine Nozomi,0,0,0,,{TIME:305426,307929}It won't be fair if you leave us all alone.{NOTE:だって私達を残って先に死ぬなんてずるい}
+Dialogue: 0,0:05:07.92,0:05:09.22,Default,Mine Shinsuke,0,0,0,,{TIME:307929,309222}But…{NOTE:しかし}
+Dialogue: 0,0:05:09.22,0:05:11.76,Default,Mine Nozomi,0,0,0,,{TIME:309222,311766}There's still a lot of things\NI want to do before I mature.{NOTE:私にいたいことがあるので生きてちょうだい}
+Dialogue: 0,0:05:11.76,0:05:14.51,Default,Mine Nozomi,0,0,0,,{TIME:311766,314518}You can tell me once you get back on your feet.{NOTE:そして元気ないって私に言って}
+Dialogue: 0,0:05:15.51,0:05:16.89,Default,Kumagorō,0,0,0,,{TIME:315519,316896}How moving…{NOTE:チェ何か喋って}
+Dialogue: 0,0:05:22.90,0:05:23.90,Default,Kumagorō,0,0,0,,{TIME:322902,323903}She has it together.{NOTE:偉いな}
+Dialogue: 0,0:05:23.90,0:05:26.90,Default,Kumagorō,0,0,0,,{TIME:323903,326906}I wasn't anywhere that strong when I was 17.{NOTE:俺が17の時あんなにしっかりしてなかったね}
+Dialogue: 0,0:05:31.24,0:05:32.45,Default,Mine Yuki,0,0,0,,{TIME:331244,332453}Ah, mister.{NOTE:あ、お兄ちゃん}
 Dialogue: 0,0:05:32.45,0:05:34.95,Default,Mine Yuki,0,0,0,,{TIME:332453,334956}Are you here for surgery, too?{NOTE:お兄ちゃんも手術するの？}
 Dialogue: 0,0:05:34.95,0:05:35.70,Default,Funny,0,0,0,,{TIME:334956,335705}Hm?{NOTE:ん？}
-Dialogue: 0,0:05:35.70,0:05:38.91,Default,Funny,0,0,0,,{TIME:335705,338918}I'm not here for a surgery.\NJust a little stab with a needle.{NOTE:手術はしないけど、ちょっと針を刺したんだ。}
-Dialogue: 0,0:05:41.00,0:05:42.42,Default,Mine Yuki,0,0,0,,{TIME:341003,342421}Hey, mister.{NOTE:ね、お兄ちゃん。}
+Dialogue: 0,0:05:35.70,0:05:38.91,Default,Funny,0,0,0,,{TIME:335705,338918}I'm not here for a surgery.\NJust a little stab with a needle.{NOTE:手術はしないけど、ちょっと針を刺したんだ}
+Dialogue: 0,0:05:41.00,0:05:42.42,Default,Mine Yuki,0,0,0,,{TIME:341003,342421}Hey, mister.{NOTE:ね、お兄ちゃん}
 Dialogue: 0,0:05:42.42,0:05:42.92,Default,Funny,0,0,0,,{TIME:342421,342922}Hm?{NOTE:ん？}
 Dialogue: 0,0:05:42.92,0:05:45.00,Default,Mine Yuki,0,0,0,,{TIME:342922,345007}Is Yuki's dad going to die?{NOTE:ゆきの父が死んじゃうの？}
 Dialogue: 0,0:05:45.00,0:05:46.13,Default,Funny,0,0,0,,{TIME:345007,346133}Huh?{NOTE:え？}
-Dialogue: 0,0:05:47.88,0:05:49.26,Default,Funny,0,0,0,,{TIME:347885,349262}It'll be fine.{NOTE:大丈夫だよ。}
-Dialogue: 0,0:05:49.26,0:05:52.39,Default,Funny,0,0,0,,{TIME:349262,352390}But to make it succeed,\Nyou must be a good girl, Yuki.{NOTE:でもね、そのためにゆきちゃんもいい子出なくちゃいけないな。}
-Dialogue: 0,0:05:52.39,0:05:54.22,Default,Mine Yuki,0,0,0,,{TIME:352390,354225}Sure. Yuki's gonna pray.{NOTE:うん。ゆきはお祈りをする。}
+Dialogue: 0,0:05:47.88,0:05:49.26,Default,Funny,0,0,0,,{TIME:347885,349262}It'll be fine.{NOTE:大丈夫だよ}
+Dialogue: 0,0:05:49.26,0:05:52.39,Default,Funny,0,0,0,,{TIME:349262,352390}But to make it succeed,\Nyou must be a good girl, Yuki.{NOTE:でもね、そのためにゆきちゃんもいい子出なくちゃいけないな}
+Dialogue: 0,0:05:52.39,0:05:54.22,Default,Mine Yuki,0,0,0,,{TIME:352390,354225}Sure. Yuki's gonna pray.{NOTE:うんゆきはお祈りをする}
 Dialogue: 0,0:05:54.22,0:05:57.06,Default,Mine Yuki,0,0,0,,{TIME:354225,357061}Mister, do you know where God does live?{NOTE:お兄ちゃん、神様ってどっちの方に住んでるの？}
 Dialogue: 0,0:05:57.06,0:05:57.77,Default,Funny,0,0,0,,{TIME:357061,357770}Huh?{NOTE:え？}
-Dialogue: 0,0:05:57.77,0:05:58.81,Default,Funny,0,0,0,,{TIME:357770,358813}Let's see…{NOTE:そう…}
-Dialogue: 0,0:05:58.81,0:06:00.39,Default,Funny,0,0,0,,{TIME:358813,360398}You see, God…{NOTE:神様はね…}
-Dialogue: 0,0:06:00.39,0:06:03.02,Default,Funny,0,0,0,,{TIME:360398,363025}…lives in everyone's heart.{NOTE:本当は皆の心の中がいるんだ。}
-Dialogue: 0,0:06:03.02,0:06:07.48,Default,Funny,0,0,0,,{TIME:363025,367488}If you close your eyes and think about your dad, it'll lead Him to your dad.{NOTE:目をつぶって、お父さんのことを考えればその心がお父さんに通じるんだよ。}
-Dialogue: 0,0:06:07.48,0:06:08.48,Default,Mine Yuki,0,0,0,,{TIME:367488,368489}Okay.{NOTE:うん。}
-Dialogue: 0,0:06:13.24,0:06:16.41,Default,Mine Yuki,0,0,0,,{TIME:373244,376414}Mister, could you pray with me?{NOTE:お兄ちゃんも一緒にお祈りをしてね。}
-Dialogue: 0,0:06:16.41,0:06:17.37,Default,Funny,0,0,0,,{TIME:376414,377373}Sure.{NOTE:ああ。}
-Dialogue: 0,0:06:19.20,0:06:20.50,Default,Mine Nozomi,0,0,0,,{TIME:379208,380501}Dad…{NOTE:お父さん。}
+Dialogue: 0,0:05:57.77,0:05:58.81,Default,Funny,0,0,0,,{TIME:357770,358813}Let's see…{NOTE:そう}
+Dialogue: 0,0:05:58.81,0:06:00.39,Default,Funny,0,0,0,,{TIME:358813,360398}You see, God{NOTE:神様はね}
+Dialogue: 0,0:06:00.39,0:06:03.02,Default,Funny,0,0,0,,{TIME:360398,363025}lives in everyone's heart.{NOTE:本当は皆の心の中がいるんだ}
+Dialogue: 0,0:06:03.02,0:06:07.48,Default,Funny,0,0,0,,{TIME:363025,367488}If you close your eyes and think about your dad, it'll lead Him to your dad.{NOTE:目をつぶって、お父さんのことを考えればその心がお父さんに通じるんだよ}
+Dialogue: 0,0:06:07.48,0:06:08.48,Default,Mine Yuki,0,0,0,,{TIME:367488,368489}Okay.{NOTE:うん}
+Dialogue: 0,0:06:13.24,0:06:16.41,Default,Mine Yuki,0,0,0,,{TIME:373244,376414}Mister, could you pray with me?{NOTE:お兄ちゃんも一緒にお祈りをしてね}
+Dialogue: 0,0:06:16.41,0:06:17.37,Default,Funny,0,0,0,,{TIME:376414,377373}Sure.{NOTE:ああ}
+Dialogue: 0,0:06:19.20,0:06:20.50,Default,Mine Nozomi,0,0,0,,{TIME:379208,380501}Dad…{NOTE:お父さん}
 Dialogue: 0,0:06:20.50,0:06:21.58,Default,(unison),0,0,0,,{TIME:380501,381585}Dad!{NOTE:お父さん！}
-Dialogue: 0,0:06:21.58,0:06:22.42,Default,Mine Shizuko,0,0,0,,{TIME:381585,382420}Dad!{NOTE:お父さん。}
-Dialogue: 0,0:06:24.96,0:06:26.63,Default,Doctor,0,0,0,,{TIME:384964,386632}Now, please leave the room.{NOTE:さあ、皆さん、出てください。}
+Dialogue: 0,0:06:21.58,0:06:22.42,Default,Mine Shizuko,0,0,0,,{TIME:381585,382420}Dad!{NOTE:お父さん}
+Dialogue: 0,0:06:24.96,0:06:26.63,Default,Doctor,0,0,0,,{TIME:384964,386632}Now, please leave the room.{NOTE:さあ、皆さん、出てください}
 Dialogue: 0,0:06:29.76,0:06:31.76,Default,Mine Yuki,0,0,0,,{TIME:389760,391762}Sis, is Dad going to die?!{NOTE:お姉ちゃん！XX死んじゃうの？}
-Dialogue: 0,0:06:31.76,0:06:33.59,Default,Mine Nozomi,0,0,0,,{TIME:391762,393597}Don't be stupid. He's going to be fine.{NOTE:馬鹿ね。大丈夫よ。}
-Dialogue: 0,0:06:38.18,0:06:40.47,Default,Kumagorō,0,0,0,,{TIME:398185,400479}Hey. Who the heck are you, punk?{NOTE:おい、何もんだ？手前は。}
-Dialogue: 0,0:06:41.60,0:06:45.02,Default,Takada Yumemaro,0,0,0,,{TIME:401605,405025}I am Takada Yumemaro.\NI came to comfort Nozomi-chan.{NOTE:僕は高田夢麿。のぞみちゃんを慰めに来たんです。}
-Dialogue: 0,0:06:45.02,0:06:46.27,Default,Takada Yumemaro,0,0,0,,{TIME:405025,406277}At any rate, please let me through.{NOTE:とにかくそこどいてください。}
-Dialogue: 0,0:06:46.27,0:06:48.23,Default,Kumagorō,0,0,0,,{TIME:406277,408237}I'm not in the mood to pick a fight either.{NOTE:俺だって邪魔する気はねぇ。}
+Dialogue: 0,0:06:31.76,0:06:33.59,Default,Mine Nozomi,0,0,0,,{TIME:391762,393597}Don't be stupid. He's going to be fine.{NOTE:馬鹿ね大丈夫よ}
+Dialogue: 0,0:06:38.18,0:06:40.47,Default,Kumagorō,0,0,0,,{TIME:398185,400479}Hey. Who the heck are you, punk?{NOTE:おい、何もんだ？手前は}
+Dialogue: 0,0:06:41.60,0:06:45.02,Default,Takada Yumemaro,0,0,0,,{TIME:401605,405025}I am Takada Yumemaro.\NI came to comfort Nozomi-chan.{NOTE:僕は高田夢麿のぞみちゃんを慰めに来たんです}
+Dialogue: 0,0:06:45.02,0:06:46.27,Default,Takada Yumemaro,0,0,0,,{TIME:405025,406277}At any rate, please let me through.{NOTE:とにかくそこどいてください}
+Dialogue: 0,0:06:46.27,0:06:48.23,Default,Kumagorō,0,0,0,,{TIME:406277,408237}I'm not in the mood to pick a fight either.{NOTE:俺だって邪魔する気はねぇ}
 Dialogue: 0,0:06:48.23,0:06:51.40,Default,Kumagorō,0,0,0,,{TIME:408237,411407}But what the hell is wrong with you,\Nwearing those clothes?{NOTE:しかしお前のその服装は何だ？}
 Dialogue: 0,0:06:51.40,0:06:53.32,Default,Takada Yumemaro,0,0,0,,{TIME:411407,413326}What's wrong about my clothes?{NOTE:この恰好どうしていけないんですか？}
 Dialogue: 0,0:06:53.32,0:06:54.61,Default,Kumagorō,0,0,0,,{TIME:413326,414618}"What's wrong"?!{NOTE:どうしてだと？！}
 Dialogue: 0,0:06:54.61,0:06:59.24,Default,Kumagorō,0,0,0,,{TIME:414618,419248}You're going to appear with a black armband in front of a person who's fighting for his life!?{NOTE:生きるか死ぬかの病人の前に黒い腕章つけて現れていいのか？え？！}
 Dialogue: 0,0:06:59.24,0:07:01.37,Default,Kumagorō,0,0,0,,{TIME:419248,421375}You really are clueless, aren't you?{NOTE:お前すこしたりねえのか？}
-Dialogue: 0,0:07:01.37,0:07:03.91,Default,Kumagorō,0,0,0,,{TIME:421375,423919}You use such armbands only at funerals.{NOTE:そういう腕章は葬式の時につけるもんだ。}
-Dialogue: 0,0:07:03.91,0:07:07.50,Default,Kumagorō,0,0,0,,{TIME:423919,427506}And here you are putting two of them!{NOTE:しかもご丁寧にふたつをつけてやがって…このやろ！}
-Dialogue: 0,0:07:07.50,0:07:09.21,Default,Takada Yumemaro,0,0,0,,{TIME:427506,429216}But it's just a pattern.{NOTE:こ…これは模様です。}
+Dialogue: 0,0:07:01.37,0:07:03.91,Default,Kumagorō,0,0,0,,{TIME:421375,423919}You use such armbands only at funerals.{NOTE:そういう腕章は葬式の時につけるもんだ}
+Dialogue: 0,0:07:03.91,0:07:07.50,Default,Kumagorō,0,0,0,,{TIME:423919,427506}And here you are putting two of them!{NOTE:しかもご丁寧にふたつをつけてやがってこのやろ！}
+Dialogue: 0,0:07:07.50,0:07:09.21,Default,Takada Yumemaro,0,0,0,,{TIME:427506,429216}But it's just a pattern.{NOTE:ここれは模様です}
 Dialogue: 0,0:07:09.21,0:07:10.34,Default,Kumagorō,0,0,0,,{TIME:429216,430343}Shut your trap!{NOTE:煩い！}
 Dialogue: 0,0:07:10.34,0:07:11.84,Default,Kumagorō,0,0,0,,{TIME:430343,431844}Don't make lame excuses!{NOTE:屁理屈言うんじゃね！}
 Dialogue: 0,0:07:11.84,0:07:14.84,Sign,(sign),0,0,0,,{TIME:431844,434847}Surgery{NOTE:手術中}
-Dialogue: 0,0:07:15.72,0:07:16.80,Default,Mine Kazuo,0,0,0,,{TIME:435723,436807}It's taking ages…{NOTE:遅いな。}
-Dialogue: 0,0:07:16.80,0:07:18.60,Default,Mine Kazuo,0,0,0,,{TIME:436807,438601}What if Dad's already…{NOTE:もしかしたら父ちゃん…}
-Dialogue: 0,0:07:18.60,0:07:19.39,Default,Mine Nozomi,0,0,0,,{TIME:438601,439393}Idiot.{NOTE:馬鹿。}
+Dialogue: 0,0:07:15.72,0:07:16.80,Default,Mine Kazuo,0,0,0,,{TIME:435723,436807}It's taking ages…{NOTE:遅いな}
+Dialogue: 0,0:07:16.80,0:07:18.60,Default,Mine Kazuo,0,0,0,,{TIME:436807,438601}What if Dad's already…{NOTE:もしかしたら父ちゃん}
+Dialogue: 0,0:07:18.60,0:07:19.39,Default,Mine Nozomi,0,0,0,,{TIME:438601,439393}Idiot.{NOTE:馬鹿}
 Dialogue: 0,0:07:19.39,0:07:21.14,Default,Mine Nozomi,0,0,0,,{TIME:439393,441145}Stop spouting nonsense.{NOTE:何て事言うの？}
-Dialogue: 0,0:07:21.14,0:07:21.97,Default,Mine Nozomi,0,0,0,,{TIME:441145,441979}What are you doing, Yuki?{NOTE:なにしてんの？ゆき。}
-Dialogue: 0,0:07:21.97,0:07:24.31,Default,Mine Yuki,0,0,0,,{TIME:441979,444315}I'm praying for a mister.{NOTE:輸送のお兄ちゃんを習ってるの。}
+Dialogue: 0,0:07:21.14,0:07:21.97,Default,Mine Nozomi,0,0,0,,{TIME:441145,441979}What are you doing, Yuki?{NOTE:なにしてんの？ゆき}
+Dialogue: 0,0:07:21.97,0:07:24.31,Default,Mine Yuki,0,0,0,,{TIME:441979,444315}I'm praying for a mister.{NOTE:輸送のお兄ちゃんを習ってるの}
 Dialogue: 0,0:07:24.31,0:07:25.27,Default,Mine Nozomi,0,0,0,,{TIME:444315,445274}A mister?{NOTE:輸送のお兄ちゃん？}
-Dialogue: 0,0:07:25.27,0:07:25.98,Default,Mine Yuki,0,0,0,,{TIME:445274,445983}Yep.{NOTE:うん。}
-Dialogue: 0,0:07:25.98,0:07:26.90,Default,Mine Yuki,0,0,0,,{TIME:445983,446900}I am.{NOTE:そう。}
-Dialogue: 0,0:07:29.32,0:07:30.36,Default,Mine Yuki,0,0,0,,{TIME:449320,450363}I'm trying my best.{NOTE:そうなの。}
-Dialogue: 0,0:07:31.53,0:07:33.49,Default,Mine Yuki,0,0,0,,{TIME:451530,453491}He was very tall.{NOTE:姿高くてね。}
-Dialogue: 0,0:07:33.49,0:07:36.16,Default,Mine Yuki,0,0,0,,{TIME:453491,456160}And he had a beautiful scarf.{NOTE:首にマフラーまいた。}
+Dialogue: 0,0:07:25.27,0:07:25.98,Default,Mine Yuki,0,0,0,,{TIME:445274,445983}Yep.{NOTE:うん}
+Dialogue: 0,0:07:25.98,0:07:26.90,Default,Mine Yuki,0,0,0,,{TIME:445983,446900}I am.{NOTE:そう}
+Dialogue: 0,0:07:29.32,0:07:30.36,Default,Mine Yuki,0,0,0,,{TIME:449320,450363}I'm trying my best.{NOTE:そうなの}
+Dialogue: 0,0:07:31.53,0:07:33.49,Default,Mine Yuki,0,0,0,,{TIME:451530,453491}He was very tall.{NOTE:姿高くてね}
+Dialogue: 0,0:07:33.49,0:07:36.16,Default,Mine Yuki,0,0,0,,{TIME:453491,456160}And he had a beautiful scarf.{NOTE:首にマフラーまいた}
 Dialogue: 0,0:07:36.16,0:07:37.74,Default,Mine Nozomi,0,0,0,,{TIME:456160,457745}{\i1}Funny!{NOTE:ファニー！}
-Dialogue: 0,0:07:37.74,0:07:39.12,Default,Mine Nozomi,0,0,0,,{TIME:457745,459121}{\i1}It must be Funny.{NOTE:ファニーだわ。}
+Dialogue: 0,0:07:37.74,0:07:39.12,Default,Mine Nozomi,0,0,0,,{TIME:457745,459121}{\i1}It must be Funny.{NOTE:ファニーだわ}
 Dialogue: 0,0:07:49.67,0:07:50.80,Default,Doctor,0,0,0,,{TIME:469673,470800}Hurry up! Hurry up!{NOTE:輸血！輸血だ！}
 Dialogue: 0,0:07:50.80,0:07:52.00,Default,Doctor,0,0,0,,{TIME:470800,472008}Prepare for the transfusion!{NOTE:XXX！}
-Dialogue: 0,0:07:53.59,0:07:55.47,Default,Funny,0,0,0,,{TIME:473594,475471}Doctor, you can use my blood.{NOTE:先生！僕の血を…}
-Dialogue: 0,0:07:55.47,0:07:56.55,Default,Doctor,0,0,0,,{TIME:475471,476555}Good.{NOTE:ああ。}
+Dialogue: 0,0:07:53.59,0:07:55.47,Default,Funny,0,0,0,,{TIME:473594,475471}Doctor, you can use my blood.{NOTE:先生！僕の血を}
+Dialogue: 0,0:07:55.47,0:07:56.55,Default,Doctor,0,0,0,,{TIME:475471,476555}Good.{NOTE:ああ}
 Dialogue: 0,0:08:03.60,0:08:04.98,Sign,(sign),0,0,0,,{TIME:483604,484980}Surgery{NOTE:手術}
-Dialogue: 0,0:08:03.89,0:08:05.56,Default,Mine Shizuko,0,0,0,,{TIME:483896,485564}Ah, the lamp's gone off.{NOTE:あ、ランプが消えたや。}
-Dialogue: 0,0:08:05.56,0:08:06.23,Default,Mine Nozomi,0,0,0,,{TIME:485564,486232}Ah.{NOTE:あ。}
-Dialogue: 0,0:08:14.78,0:08:15.61,Default,Mine Nozomi,0,0,0,,{TIME:494782,495616}Dad!{NOTE:お父さん。}
-Dialogue: 0,0:08:17.45,0:08:18.61,Default,Mine Nozomi,0,0,0,,{TIME:497451,498619}Doctor, uhm…{NOTE:先生、あの…}
-Dialogue: 0,0:08:20.28,0:08:22.70,Default,Doctor,0,0,0,,{TIME:500287,502705}The operation was a success.{NOTE:手術は1大成功です。}
-Dialogue: 0,0:08:22.70,0:08:24.12,Default,Doctor,0,0,0,,{TIME:502705,504125}Tonight will be the most tough.{NOTE:今夜が山でしょう。}
-Dialogue: 0,0:08:25.33,0:08:26.62,Default,Mine Nozomi,0,0,0,,{TIME:505334,506627}I see.{NOTE:はい。}
-Dialogue: 0,0:08:42.64,0:08:43.85,Default,Kōda Miki,0,0,0,,{TIME:522643,523853}Enter.{NOTE:どうぞ。}
-Dialogue: 0,0:08:44.52,0:08:47.44,Default,Kōda Miki,0,0,0,,{TIME:524520,527440}It's just you, Daddy…{NOTE:何だ、パパか。}
-Dialogue: 0,0:08:47.44,0:08:51.19,Default,Kōda Daijirō,0,0,0,,{TIME:527440,531193}Did you expect a nice boyfriend? Hmm.{NOTE:素敵なボーイフレンドでも入ってくる約束があったのかね？ん。}
-Dialogue: 0,0:08:52.44,0:08:53.69,Default,Kōda Miki,0,0,0,,{TIME:532445,533696}It wouldn't be so bad.{NOTE:まあね。}
+Dialogue: 0,0:08:03.89,0:08:05.56,Default,Mine Shizuko,0,0,0,,{TIME:483896,485564}Ah, the lamp's gone off.{NOTE:あ、ランプが消えたや}
+Dialogue: 0,0:08:05.56,0:08:06.23,Default,Mine Nozomi,0,0,0,,{TIME:485564,486232}Ah.{NOTE:あ}
+Dialogue: 0,0:08:14.78,0:08:15.61,Default,Mine Nozomi,0,0,0,,{TIME:494782,495616}Dad!{NOTE:お父さん}
+Dialogue: 0,0:08:17.45,0:08:18.61,Default,Mine Nozomi,0,0,0,,{TIME:497451,498619}Doctor, uhm…{NOTE:先生、あの}
+Dialogue: 0,0:08:20.28,0:08:22.70,Default,Doctor,0,0,0,,{TIME:500287,502705}The operation was a success.{NOTE:手術は1大成功です}
+Dialogue: 0,0:08:22.70,0:08:24.12,Default,Doctor,0,0,0,,{TIME:502705,504125}Tonight will be the most tough.{NOTE:今夜が山でしょう}
+Dialogue: 0,0:08:25.33,0:08:26.62,Default,Mine Nozomi,0,0,0,,{TIME:505334,506627}I see.{NOTE:はい}
+Dialogue: 0,0:08:42.64,0:08:43.85,Default,Kōda Miki,0,0,0,,{TIME:522643,523853}Enter.{NOTE:どうぞ}
+Dialogue: 0,0:08:44.52,0:08:47.44,Default,Kōda Miki,0,0,0,,{TIME:524520,527440}It's just you, Daddy…{NOTE:何だ、パパか}
+Dialogue: 0,0:08:47.44,0:08:51.19,Default,Kōda Daijirō,0,0,0,,{TIME:527440,531193}Did you expect a nice boyfriend? Hmm.{NOTE:素敵なボーイフレンドでも入ってくる約束があったのかね？ん}
+Dialogue: 0,0:08:52.44,0:08:53.69,Default,Kōda Miki,0,0,0,,{TIME:532445,533696}It wouldn't be so bad.{NOTE:まあね}
 Dialogue: 0,0:08:53.69,0:08:55.78,Default,Kōda Miki,0,0,0,,{TIME:533696,535781}Do you need anything, Daddy?{NOTE:なんか御用、パパ？}
-Dialogue: 0,0:08:55.78,0:08:56.65,Default,Kōda Daijirō,0,0,0,,{TIME:535781,536657}Yeah.{NOTE:んん。}
-Dialogue: 0,0:08:56.65,0:08:58.61,Default,Kōda Daijirō,0,0,0,,{TIME:536657,538617}I just watched the news on the TV.{NOTE:今はテレビのニュースで見たんだが…}
-Dialogue: 0,0:08:58.61,0:09:01.41,Default,Kōda Daijirō,0,0,0,,{TIME:538617,541412}About that cute girl who came to your birthday party…{NOTE:…お前の誕生日に来てくれたあの可愛い子。}
-Dialogue: 0,0:09:01.41,0:09:03.12,Default,Kōda Miki,0,0,0,,{TIME:541412,543122}Don't call her cute, at least.{NOTE:可愛いだけ余計よ。}
+Dialogue: 0,0:08:55.78,0:08:56.65,Default,Kōda Daijirō,0,0,0,,{TIME:535781,536657}Yeah.{NOTE:んん}
+Dialogue: 0,0:08:56.65,0:08:58.61,Default,Kōda Daijirō,0,0,0,,{TIME:536657,538617}I just watched the news on the TV.{NOTE:今はテレビのニュースで見たんだが}
+Dialogue: 0,0:08:58.61,0:09:01.41,Default,Kōda Daijirō,0,0,0,,{TIME:538617,541412}About that cute girl who came to your birthday party…{NOTE:お前の誕生日に来てくれたあの可愛い子}
+Dialogue: 0,0:09:01.41,0:09:03.12,Default,Kōda Miki,0,0,0,,{TIME:541412,543122}Don't call her cute, at least.{NOTE:可愛いだけ余計よ}
 Dialogue: 0,0:09:03.12,0:09:05.04,Default,Kōda Miki,0,0,0,,{TIME:543122,545040}Did something happen to Mine Nozomi?{NOTE:峰のぞみがどうかしたの？}
-Dialogue: 0,0:09:05.04,0:09:08.87,Default,Kōda Daijirō,0,0,0,,{TIME:545040,548878}Her father seems to have been stabbed by the neighboring gangsters.{NOTE:あの子のお父さんがその辺のヤクザに刺されて重体らしい。}
+Dialogue: 0,0:09:05.04,0:09:08.87,Default,Kōda Daijirō,0,0,0,,{TIME:545040,548878}Her father seems to have been stabbed by the neighboring gangsters.{NOTE:あの子のお父さんがその辺のヤクザに刺されて重体らしい}
 Dialogue: 0,0:09:09.62,0:09:10.46,Default,Kōda Miki,0,0,0,,{TIME:549627,550463}Are you serious?{NOTE:本当？！}
-Dialogue: 0,0:09:11.21,0:09:13.54,Default,Kōda Daijirō,0,0,0,,{TIME:551213,553549}You seem to dislike that girl…{NOTE:お前はあの子が嫌いらしいが…}
-Dialogue: 0,0:09:13.54,0:09:16.30,Default,Kōda Daijirō,0,0,0,,{TIME:553549,556302}…but in the end you do care about her, don't you?{NOTE:…やはり心配なのかね？}
+Dialogue: 0,0:09:11.21,0:09:13.54,Default,Kōda Daijirō,0,0,0,,{TIME:551213,553549}You seem to dislike that girl,{NOTE:お前はあの子が嫌いらしいが}
+Dialogue: 0,0:09:13.54,0:09:16.30,Default,Kōda Daijirō,0,0,0,,{TIME:553549,556302}but in the end you do care about her, don't you?{NOTE:やはり心配なのかね？}
 Dialogue: 0,0:09:16.30,0:09:18.92,Default,Kōda Miki,0,0,0,,{TIME:556302,558929}Who, me? Why should I care about her?{NOTE:何が心配なもんですか、あんな子？}
-Dialogue: 0,0:09:18.92,0:09:20.05,Default,Kōda Miki,0,0,0,,{TIME:558929,560055}Hmph.{NOTE:フン。}
-Dialogue: 0,0:09:20.05,0:09:21.22,Default,Kōda Daijirō,0,0,0,,{TIME:560055,561223}Anyway…{NOTE:まあ、いい。}
-Dialogue: 0,0:09:21.22,0:09:24.64,Default,Kōda Daijirō,0,0,0,,{TIME:561223,564643}…it's late today, but please visit her tomorrow morning.{NOTE:今夜もう遅いから、明日にでも早速見舞いに行ってあげなさい。}
-Dialogue: 0,0:09:26.39,0:09:27.48,Default,Kōda Daijirō,0,0,0,,{TIME:566395,567480}Well then, good night.{NOTE:じゃ、おやすみ。}
-Dialogue: 0,0:09:28.77,0:09:31.48,Default,Kōda Miki,0,0,0,,{TIME:568772,571484}{\i1}So that's what happened to Nozomi…{NOTE:いいXXX、のぞみのやつ。}
-Dialogue: 0,0:09:31.48,0:09:35.69,Default,Kōda Miki,0,0,0,,{TIME:571484,575696}{\i1}But now I know why she doesn't show up.{NOTE:でもそれで分かったわ。XXXそれで私と約束を。}
-Dialogue: 0,0:09:52.96,0:09:54.63,Default,Funny,0,0,0,,{TIME:592963,594632}It was just you?{NOTE:何だ、びっくりした。}
+Dialogue: 0,0:09:18.92,0:09:20.05,Default,Kōda Miki,0,0,0,,{TIME:558929,560055}Hmph.{NOTE:フン}
+Dialogue: 0,0:09:20.05,0:09:21.22,Default,Kōda Daijirō,0,0,0,,{TIME:560055,561223}Anyway…{NOTE:まあ、いい}
+Dialogue: 0,0:09:21.22,0:09:24.64,Default,Kōda Daijirō,0,0,0,,{TIME:561223,564643}It's late today, but please visit her tomorrow morning.{NOTE:今夜もう遅いから、明日にでも早速見舞いに行ってあげなさい}
+Dialogue: 0,0:09:26.39,0:09:27.48,Default,Kōda Daijirō,0,0,0,,{TIME:566395,567480}Well then, good night.{NOTE:じゃ、おやすみ}
+Dialogue: 0,0:09:28.77,0:09:31.48,Default,Kōda Miki,0,0,0,,{TIME:568772,571484}{\i1}So that's what happened to Nozomi…{NOTE:いいXXX、のぞみのやつ}
+Dialogue: 0,0:09:31.48,0:09:35.69,Default,Kōda Miki,0,0,0,,{TIME:571484,575696}{\i1}But now I know why she doesn't show up.{NOTE:でもそれで分かったわXXXそれで私と約束を}
+Dialogue: 0,0:09:52.96,0:09:54.63,Default,Funny,0,0,0,,{TIME:592963,594632}It was just you?{NOTE:何だ、びっくりした}
 Dialogue: 0,0:09:54.63,0:09:56.05,Default,Funny,0,0,0,,{TIME:594632,596050}You surprised me.{NOTE:お嬢さんでしたか？}
 Dialogue: 0,0:09:56.05,0:09:59.59,Default,Kōda Miki,0,0,0,,{TIME:596050,599595}Was Nozomi more important than a date with me?{NOTE:私との約束よりのぞみの方が大事なの？}
-Dialogue: 0,0:09:59.59,0:10:02.76,Default,Funny,0,0,0,,{TIME:599595,602765}No. I thought I had refused that appointment.{NOTE:いいえ。あの約束はお断りしたはずです。}
-Dialogue: 0,0:10:02.76,0:10:04.89,Default,Kōda Miki,0,0,0,,{TIME:602765,604892}To be able to meet with her, right?{NOTE:あの子と会うためにね。}
-Dialogue: 0,0:10:04.89,0:10:09.89,Default,Funny,0,0,0,,{TIME:604892,609897}I know you don't feel the slightest interest in me.{NOTE:お嬢さん。あなたは別に僕なんかに興味があるわけじゃないんでしょ。}
-Dialogue: 0,0:10:09.89,0:10:12.52,Default,Funny,0,0,0,,{TIME:609897,612525}It's more like, you don't want me to be kind to her.{NOTE:ただ僕はあの子と仲良くするのが気に入らないんだ。}
+Dialogue: 0,0:09:59.59,0:10:02.76,Default,Funny,0,0,0,,{TIME:599595,602765}No. I thought I had refused that appointment.{NOTE:いいえあの約束はお断りしたはずです}
+Dialogue: 0,0:10:02.76,0:10:04.89,Default,Kōda Miki,0,0,0,,{TIME:602765,604892}To be able to meet with her, right?{NOTE:あの子と会うためにね}
+Dialogue: 0,0:10:04.89,0:10:09.89,Default,Funny,0,0,0,,{TIME:604892,609897}I know you don't feel the slightest interest in me.{NOTE:お嬢さんあなたは別に僕なんかに興味があるわけじゃないんでしょ}
+Dialogue: 0,0:10:09.89,0:10:12.52,Default,Funny,0,0,0,,{TIME:609897,612525}It's more like, you don't want me to be kind to her.{NOTE:ただ僕はあの子と仲良くするのが気に入らないんだ}
 Dialogue: 0,0:10:12.52,0:10:13.48,Default,Kōda Miki,0,0,0,,{TIME:612525,613484}What's wrong with that?{NOTE:いけない？}
 Dialogue: 0,0:10:13.48,0:10:15.52,Default,Funny,0,0,0,,{TIME:613484,615528}Why do you pick on her so much?{NOTE:なぜそんな憎むんですか？}
 Dialogue: 0,0:10:15.52,0:10:18.86,Default,Funny,0,0,0,,{TIME:615528,618864}What did she exactly do to you?{NOTE:一体彼女があなたに何をしたって言うんですか？}
-Dialogue: 0,0:10:18.86,0:10:20.32,Default,Kōda Miki,0,0,0,,{TIME:618864,620324}I don't like her.{NOTE:気に入らないのよ。}
-Dialogue: 0,0:10:20.32,0:10:23.32,Default,Kōda Miki,0,0,0,,{TIME:620324,623327}I don't like everything about her.{NOTE:あの子の全てが私にXX気に入らないの。}
-Dialogue: 0,0:10:23.32,0:10:27.66,Default,Funny,0,0,0,,{TIME:623327,627665}I think you misunderstand her.{NOTE:お嬢さん。あなたは彼女を誤解してるんですよ。}
-Dialogue: 0,0:10:27.66,0:10:29.62,Default,Kōda Miki,0,0,0,,{TIME:627665,629625}You don't know her at all.{NOTE:冗談じゃないわ。}
-Dialogue: 0,0:10:29.62,0:10:31.37,Default,Kōda Miki,0,0,0,,{TIME:629625,631377}You'll see for yourself soon enough…{NOTE:そのうちはあなたにも分かるわよ。}
-Dialogue: 0,0:10:31.37,0:10:33.58,Default,Kōda Miki,0,0,0,,{TIME:631377,633587}…just what kind of person she really is.{NOTE:あの人はどんな人か？}
-Dialogue: 0,0:10:33.58,0:10:34.54,Default,Funny,0,0,0,,{TIME:633587,634547}Whatever.{NOTE:じゃあ。}
-Dialogue: 0,0:10:40.80,0:10:42.51,Default,Kōda Miki,0,0,0,,{TIME:640803,642513}{\i1}What's so special about her?{NOTE:何よ。あんな子。}
-Dialogue: 0,0:10:49.97,0:10:51.10,Default,Nohara Michiko,0,0,0,,{TIME:649979,651105}Hello?{NOTE:もしもし。}
-Dialogue: 0,0:10:51.10,0:10:52.23,Default,Nohara Michiko,0,0,0,,{TIME:651105,652231}Miki-san.{NOTE:お嬢さん。}
+Dialogue: 0,0:10:18.86,0:10:20.32,Default,Kōda Miki,0,0,0,,{TIME:618864,620324}I don't like her.{NOTE:気に入らないのよ}
+Dialogue: 0,0:10:20.32,0:10:23.32,Default,Kōda Miki,0,0,0,,{TIME:620324,623327}I don't like everything about her.{NOTE:あの子の全てが私にXX気に入らないの}
+Dialogue: 0,0:10:23.32,0:10:27.66,Default,Funny,0,0,0,,{TIME:623327,627665}I think you misunderstand her.{NOTE:お嬢さんあなたは彼女を誤解してるんですよ}
+Dialogue: 0,0:10:27.66,0:10:29.62,Default,Kōda Miki,0,0,0,,{TIME:627665,629625}You don't know her at all.{NOTE:冗談じゃないわ}
+Dialogue: 0,0:10:29.62,0:10:33.58,Default,Kōda Miki,0,0,0,,{TIME:629625,633587}You'll see for yourself soon enough\Njust what kind of person she really is.{NOTE:そのうちはあなたにも分かるわよあの人はどんな人か？}
+Dialogue: 0,0:10:33.58,0:10:34.54,Default,Funny,0,0,0,,{TIME:633587,634547}Whatever.{NOTE:じゃあ}
+Dialogue: 0,0:10:40.80,0:10:42.51,Default,Kōda Miki,0,0,0,,{TIME:640803,642513}{\i1}What's so special about her?{NOTE:何よあんな子}
+Dialogue: 0,0:10:49.97,0:10:51.10,Default,Nohara Michiko,0,0,0,,{TIME:649979,651105}Hello?{NOTE:もしもし}
+Dialogue: 0,0:10:51.10,0:10:52.23,Default,Nohara Michiko,0,0,0,,{TIME:651105,652231}Miki-san.{NOTE:お嬢さん}
 Dialogue: 0,0:10:53.69,0:10:55.27,Default,Nohara Michiko,0,0,0,,{TIME:653691,655276}Huh?{NOTE:え？}
 Dialogue: 0,0:10:55.27,0:10:56.77,Default,Nohara Michiko,0,0,0,,{TIME:655276,656777}She's not there?{NOTE:出かけているって？}
-Dialogue: 0,0:10:56.77,0:10:57.31,Default,Nohara Michiko,0,0,0,,{TIME:656777,657319}Bye then.{NOTE:じゃ。}
-Dialogue: 0,0:11:00.82,0:11:02.94,Default,Nohara Michiko,0,0,0,,{TIME:660823,662949}{\i1}What a happy-go-lucky girl.{NOTE:全く幸せな娘だわ。}
-Dialogue: 0,0:11:02.94,0:11:04.78,Default,Nohara Michiko,0,0,0,,{TIME:662949,664785}{\i1}Thanks to my exchange…{NOTE:私が作り変えて行ったおかげで…}
-Dialogue: 0,0:11:04.78,0:11:08.07,Default,Nohara Michiko,0,0,0,,{TIME:664785,668079}{\i1}…now she gets to catch colds from playing around too late.{NOTE:…こんな時間までお嬢さん風邪をひかせた遊び待っていられるんだから。}
-Dialogue: 0,0:11:13.29,0:11:17.63,Default,Nohara Michiko,0,0,0,,{TIME:673294,677631}{\i1}The other girl, on the other hand, is suffering a lot…{NOTE:その代わりしなくてもいい苦労してる子がいるけど。}
-Dialogue: 0,0:11:34.73,0:11:35.81,Default,Mine Nozomi,0,0,0,,{TIME:694732,695815}Ah.{NOTE:あ。}
+Dialogue: 0,0:10:56.77,0:10:57.31,Default,Nohara Michiko,0,0,0,,{TIME:656777,657319}Bye then.{NOTE:じゃ}
+Dialogue: 0,0:11:00.82,0:11:02.94,Default,Nohara Michiko,0,0,0,,{TIME:660823,662949}{\i1}What a happy-go-lucky girl.{NOTE:全く幸せな娘だわ}
+Dialogue: 0,0:11:02.94,0:11:04.78,Default,Nohara Michiko,0,0,0,,{TIME:662949,664785}{\i1}Thanks to my exchange,{NOTE:私が作り変えて行ったおかげで}
+Dialogue: 0,0:11:04.78,0:11:08.07,Default,Nohara Michiko,0,0,0,,{TIME:664785,668079}{\i1}now she gets to catch colds from playing around too late.{NOTE:こんな時間までお嬢さん風邪をひかせた遊び待っていられるんだから}
+Dialogue: 0,0:11:13.29,0:11:17.63,Default,Nohara Michiko,0,0,0,,{TIME:673294,677631}{\i1}The other girl, on the other hand, is suffering a lot…{NOTE:その代わりしなくてもいい苦労してる子がいるけど}
+Dialogue: 0,0:11:34.73,0:11:35.81,Default,Mine Nozomi,0,0,0,,{TIME:694732,695815}Ah.{NOTE:あ}
 Dialogue: 0,0:11:35.81,0:11:36.85,Default,Mine Nozomi,0,0,0,,{TIME:695815,696858}Ah!{NOTE:あ！}
-Dialogue: 0,0:11:40.40,0:11:41.19,Default,Mine Nozomi,0,0,0,,{TIME:700404,701196}Dad!{NOTE:父さん。}
-Dialogue: 0,0:11:42.61,0:11:44.82,Default,Mine Nozomi,0,0,0,,{TIME:702615,704825}Mom, Dad's awake.{NOTE:母さん、父さんが…}
-Dialogue: 0,0:11:44.82,0:11:46.53,Default,Mine Shizuko,0,0,0,,{TIME:704825,706535}It's me. Do you recognize me?{NOTE:私ですよ。分かりますか？}
-Dialogue: 0,0:11:46.53,0:11:47.91,Default,Mine Nozomi,0,0,0,,{TIME:706535,707911}He's awake!{NOTE:気がついたんだわ。}
+Dialogue: 0,0:11:40.40,0:11:41.19,Default,Mine Nozomi,0,0,0,,{TIME:700404,701196}Dad!{NOTE:父さん}
+Dialogue: 0,0:11:42.61,0:11:44.82,Default,Mine Nozomi,0,0,0,,{TIME:702615,704825}Mom, Dad's awake.{NOTE:母さん、父さんが}
+Dialogue: 0,0:11:44.82,0:11:46.53,Default,Mine Shizuko,0,0,0,,{TIME:704825,706535}It's me. Do you recognize me?{NOTE:私ですよ分かりますか？}
+Dialogue: 0,0:11:46.53,0:11:47.91,Default,Mine Nozomi,0,0,0,,{TIME:706535,707911}He's awake!{NOTE:気がついたんだわ}
 Dialogue: 0,0:11:50.45,0:11:52.04,Default,(unison),0,0,0,,{TIME:710456,712041}– Wah!\N– Dad!{NOTE:—ワー！\\N—父ちゃん！}
-Dialogue: 0,0:11:53.25,0:11:54.79,Default,(unison),0,0,0,,{TIME:713250,714793}Dad…{NOTE:お父ちゃん。}
-Dialogue: 0,0:11:54.79,0:11:56.33,Default,(unison),0,0,0,,{TIME:714793,716337}Dad.{NOTE:—父ちゃん。\\N—お父ちゃん。}
-Dialogue: 0,0:11:56.33,0:11:57.17,Default,(unison),0,0,0,,{TIME:716337,717171}Dad…{NOTE:お父ちゃん。}
-Dialogue: 0,0:11:57.17,0:11:58.38,Default,Doctor,0,0,0,,{TIME:717171,718380}Everything will be alright.{NOTE:もう大丈夫です。}
+Dialogue: 0,0:11:53.25,0:11:54.79,Default,(unison),0,0,0,,{TIME:713250,714793}Dad…{NOTE:お父ちゃん}
+Dialogue: 0,0:11:54.79,0:11:56.33,Default,(unison),0,0,0,,{TIME:714793,716337}Dad.{NOTE:—父ちゃん\\N—お父ちゃん}
+Dialogue: 0,0:11:56.33,0:11:57.17,Default,(unison),0,0,0,,{TIME:716337,717171}Dad…{NOTE:お父ちゃん}
+Dialogue: 0,0:11:57.17,0:11:58.38,Default,Doctor,0,0,0,,{TIME:717171,718380}Everything will be alright.{NOTE:もう大丈夫です}
 Dialogue: 0,0:11:58.38,0:12:00.29,Default,(mixed),0,0,0,,{TIME:718380,720299}Thank you, Mister Doctor!{NOTE:—XXX万歳！\\N—ワー！}
 Dialogue: 0,0:12:00.29,0:12:03.42,Default,Mine Yuki,0,0,0,,{TIME:720299,723427}Thank you, thank you!{NOTE:万歳！万歳！}
-Dialogue: 0,0:12:01.38,0:12:03.42,Default,Kumagorō,0,0,0,,{TIME:721383,723427}Aw, it hurt.{NOTE:痛いな、おい。}
+Dialogue: 0,0:12:01.38,0:12:03.42,Default,Kumagorō,0,0,0,,{TIME:721383,723427}Aw, it hurt.{NOTE:痛いな、おい}
 Dialogue: 0,0:12:03.42,0:12:05.84,Default,Kumagorō,0,0,0,,{TIME:723427,725846}Wait, what? Pops is alive again?!{NOTE:わ！おやじさん生き返ったか？}
 Dialogue: 0,0:12:05.84,0:12:07.34,Default,Kumagorō,0,0,0,,{TIME:725846,727348}Thank goodness, thank goodness!{NOTE:よかった、よかった！}
 Dialogue: 0,0:12:07.34,0:12:08.64,Default,Kumagorō,0,0,0,,{TIME:727348,728641}Thank you, Doctor!{NOTE:有難う、先生！}
-Dialogue: 0,0:12:08.64,0:12:10.68,Default,Kumagorō,0,0,0,,{TIME:728641,730684}I mean, Master Professor, thank you very much.{NOTE:いやいや、大博士殿、有難う。}
-Dialogue: 0,0:12:10.68,0:12:13.68,Default,Doctor,0,0,0,,{TIME:730684,733687}No need. The patient was saved thanks to his willpower.{NOTE:いいえ、助かったのは患者の精神力のおかげですよ。}
+Dialogue: 0,0:12:08.64,0:12:10.68,Default,Kumagorō,0,0,0,,{TIME:728641,730684}I mean, Master Professor, thank you very much.{NOTE:いやいや、大博士殿、有難う}
+Dialogue: 0,0:12:10.68,0:12:13.68,Default,Doctor,0,0,0,,{TIME:730684,733687}No need. The patient was saved thanks to his willpower.{NOTE:いいえ、助かったのは患者の精神力のおかげですよ}
 Dialogue: 0,0:12:13.68,0:12:15.35,Default,Kumagorō,0,0,0,,{TIME:733687,735356}I see… willpower.{NOTE:そう、精神力？}
-Dialogue: 0,0:12:15.35,0:12:16.73,Default,Kumagorō,0,0,0,,{TIME:735356,736732}Life's such a mystery.{NOTE:XXXなぁ。}
-Dialogue: 0,0:12:16.73,0:12:24.61,Default,Kumagorō,0,0,0,,{TIME:736732,744615}I bet it's because Nozomi-chan refused to hear his last words. He just couldn't afford to die.{NOTE:何しろ、親父さんが遺言を言おうに模様のぞみちゃんが聞く耳持たねXXXだから死ねないよね、これは親父さん。}
-Dialogue: 0,0:12:24.61,0:12:26.40,Default,Mine Nozomi,0,0,0,,{TIME:744615,746408}You and your theories…{NOTE:いやなおじさん。}
+Dialogue: 0,0:12:15.35,0:12:16.73,Default,Kumagorō,0,0,0,,{TIME:735356,736732}Life's such a mystery.{NOTE:XXXなぁ}
+Dialogue: 0,0:12:16.73,0:12:24.61,Default,Kumagorō,0,0,0,,{TIME:736732,744615}I bet it's because Nozomi-chan refused to hear his last words. He just couldn't afford to die.{NOTE:何しろ、親父さんが遺言を言おうに模様のぞみちゃんが聞く耳持たねXXXだから死ねないよね、これは親父さん}
+Dialogue: 0,0:12:24.61,0:12:26.40,Default,Mine Nozomi,0,0,0,,{TIME:744615,746408}You and your theories…{NOTE:いやなおじさん}
 Dialogue: 0,0:12:26.40,0:12:30.66,Default,Mine Nozomi,0,0,0,,{TIME:746408,750663}But what did he want to tell me?{NOTE:でも父さん私に何を言い残すもだったかしら？}
 Dialogue: 0,0:12:30.66,0:12:31.37,Default,Kumagorō,0,0,0,,{TIME:750663,751372}Huh?{NOTE:え？}
-Dialogue: 0,0:12:31.37,0:12:32.03,Default,Kumagorō,0,0,0,,{TIME:751372,752039}Ah…{NOTE:んん…}
-Dialogue: 0,0:12:32.03,0:12:33.04,Default,Mine Shizuko,0,0,0,,{TIME:752039,753040}{NOTE:え…}
-Dialogue: 0,0:12:33.04,0:12:34.29,Default,Mine Shizuko,0,0,0,,{TIME:753040,754291}Beats me.{NOTE:さあ。}
-Dialogue: 0,0:12:34.29,0:12:36.37,Default,Mine Nozomi,0,0,0,,{TIME:754291,756377}Are you hiding something from me?{NOTE:失礼ね、母さん達。}
-Dialogue: 0,0:12:36.37,0:12:37.29,Default,Mine Shizuko,0,0,0,,{TIME:756377,757294}I don't know anything.{NOTE:知りませんよ。}
-Dialogue: 0,0:12:37.29,0:12:40.96,Default,Kumagorō,0,0,0,,{TIME:757294,760964}Now it's all over. Don't think about it anymore{NOTE:まあ、いいじゃないか？もうすんだことだよ。}
-Dialogue: 0,0:12:40.96,0:12:42.59,Default,Mine Nozomi,0,0,0,,{TIME:760964,762591}I want to know if it's something about me.{NOTE:私に関係あることね。}
-Dialogue: 0,0:12:42.59,0:12:43.55,Default,Kumagorō,0,0,0,,{TIME:762591,763550}Hehe…{NOTE:へへ。}
-Dialogue: 0,0:12:43.55,0:12:46.09,Default,Kumagorō,0,0,0,,{TIME:763550,766095}I guess you could say so…{NOTE:まあ、ねえ、その。}
-Dialogue: 0,0:12:46.09,0:12:48.97,Default,Mine Nozomi,0,0,0,,{TIME:766095,768972}I hope it's not something such as "we're not your real parents"…{NOTE:まさかお前の本当のお母さんXXXなんて。}
-Dialogue: 0,0:12:48.97,0:12:52.18,Default,Mine Nozomi,0,0,0,,{TIME:768972,772184}…or other melodrama-style grandiosity like that.{NOTE:まるでメロドラマみたいなこと言うんじゃないでしょうね。}
+Dialogue: 0,0:12:31.37,0:12:32.03,Default,Kumagorō,0,0,0,,{TIME:751372,752039}Ah…{NOTE:んん}
+Dialogue: 0,0:12:32.03,0:12:33.04,Default,Mine Shizuko,0,0,0,,{TIME:752039,753040}{NOTE:え}
+Dialogue: 0,0:12:33.04,0:12:34.29,Default,Mine Shizuko,0,0,0,,{TIME:753040,754291}Beats me.{NOTE:さあ}
+Dialogue: 0,0:12:34.29,0:12:36.37,Default,Mine Nozomi,0,0,0,,{TIME:754291,756377}Are you hiding something from me?{NOTE:失礼ね、母さん達}
+Dialogue: 0,0:12:36.37,0:12:37.29,Default,Mine Shizuko,0,0,0,,{TIME:756377,757294}I don't know anything.{NOTE:知りませんよ}
+Dialogue: 0,0:12:37.29,0:12:40.96,Default,Kumagorō,0,0,0,,{TIME:757294,760964}Now it's all over. Don't think about it anymore{NOTE:まあ、いいじゃないか？もうすんだことだよ}
+Dialogue: 0,0:12:40.96,0:12:42.59,Default,Mine Nozomi,0,0,0,,{TIME:760964,762591}I want to know if it's something about me.{NOTE:私に関係あることね}
+Dialogue: 0,0:12:42.59,0:12:43.55,Default,Kumagorō,0,0,0,,{TIME:762591,763550}Hehe…{NOTE:へへ}
+Dialogue: 0,0:12:43.55,0:12:46.09,Default,Kumagorō,0,0,0,,{TIME:763550,766095}I guess you could say so…{NOTE:まあ、ねえ、その}
+Dialogue: 0,0:12:46.09,0:12:48.97,Default,Mine Nozomi,0,0,0,,{TIME:766095,768972}I hope it's not something such as "we're not your real parents"{NOTE:まさかお前の本当のお母さんXXXなんて}
+Dialogue: 0,0:12:48.97,0:12:52.18,Default,Mine Nozomi,0,0,0,,{TIME:768972,772184}or other melodrama-style\Ngrandiosity like that.{NOTE:まるでメロドラマみたいなこと言うんじゃないでしょうね}
 Dialogue: 0,0:12:52.18,0:12:54.77,Default,Mine Shizuko,0,0,0,,{TIME:772184,774770}{\1c&HFFFEEF&\3c&H544325&\t(586,2586,\1c&H101010&\3c&H101010&)}Nozomi!{NOTE:お前！}
 Comment: 0,0:12:55.35,0:12:55.35,Default,[chapter],0,0,0,,{TIME:775353,775353}Part B
 Dialogue: 0,0:12:55.35,0:12:59.35,Sign,(sign),0,0,0,,{TIME:775353,779358}Minami General Hospital{NOTE:南総合病院}
-Dialogue: 0,0:13:00.31,0:13:01.65,Default,Kumagorō,0,0,0,,{TIME:780317,781652}Hey, Hey, Nozomi-chan.{NOTE:よ、よ、のぞみちゃんよ。}
+Dialogue: 0,0:13:00.31,0:13:01.65,Default,Kumagorō,0,0,0,,{TIME:780317,781652}Hey, Hey, Nozomi-chan.{NOTE:よ、よ、のぞみちゃんよ}
 Dialogue: 0,0:13:01.65,0:13:03.06,Default,Kumagorō,0,0,0,,{TIME:781652,783069}What the heck was that?{NOTE:何だ、あのXXXは？}
-Dialogue: 0,0:13:03.06,0:13:08.82,Default,Kumagorō,0,0,0,,{TIME:783069,788826}How could you question your parents' identity after they have been raising you for 17 years?{NOTE:17年間も育ててくれたお袋さんに向かって本当のお母さんがどうのこうなんてよ。}
-Dialogue: 0,0:13:08.82,0:13:11.20,Default,Mine Nozomi,0,0,0,,{TIME:788826,791203}I was just kidding.{NOTE:あ、あのことは冗談よ。}
-Dialogue: 0,0:13:11.20,0:13:15.99,Default,Kumagorō,0,0,0,,{TIME:791203,795999}These things aren't joking matter. Kumagorō vows on the heavenly kingdom…{NOTE:けっ！冗談も怪談もあるでこの熊五郎はな、お天道様に誓って言うが。}
-Dialogue: 0,0:13:15.99,0:13:20.46,Default,Kumagorō,0,0,0,,{TIME:795999,800462}…that you, Nozomi-chan, are Mine's family fully-fledged eldest daughter!{NOTE:のぞみちゃんはな、歴とした峰家のご長女様なんだぞ。}
-Dialogue: 0,0:13:20.46,0:13:22.38,Default,Mine Nozomi,0,0,0,,{TIME:800462,802381}I know, Kuma-san.{NOTE:分かってるわよ、くまさん。}
-Dialogue: 0,0:13:23.25,0:13:26.26,Default,Kumagorō,0,0,0,,{TIME:803257,806260}Your father was poor and yet he worked his but off…{NOTE:親父さんは金もないのに無理しちゃってよ。}
-Dialogue: 0,0:13:26.26,0:13:28.92,Default,Kumagorō,0,0,0,,{TIME:806260,808929}…to get you born in the most prestigious hospital in Tōkyō.{NOTE:東京で一番有名な病院で…}
-Dialogue: 0,0:13:28.92,0:13:31.84,Default,Kumagorō,0,0,0,,{TIME:808929,811848}You're the luckiest girl in the world, Nozomi-chan.{NOTE:のぞみちゃん生まさせたんじゃないかよ。}
-Dialogue: 0,0:13:31.84,0:13:35.39,Default,Mine Nozomi,0,0,0,,{TIME:811848,815394}Well then, swear on the heavenly kingdom again that you say the truth…{NOTE:じゃあ、おじさん、もう一度あのお天道様に誓って…}
-Dialogue: 0,0:13:35.39,0:13:38.39,Default,Mine Nozomi,0,0,0,,{TIME:815394,818397}…and tell me what Dad wanted to say to me in the operating room back then.{NOTE:…さっき父さんが私に言い残そうとしたこと教えてちょうだい。}
-Dialogue: 0,0:13:40.31,0:13:42.60,Default,Kumagorō,0,0,0,,{TIME:820314,822609}I don't know anything.{NOTE:おれ知らないな。}
-Dialogue: 0,0:13:42.60,0:13:44.44,Default,Kumagorō,0,0,0,,{TIME:822609,824444}By the way, Nozomi-chan!{NOTE:ああ、あの、それより、のぞみちゃん。}
+Dialogue: 0,0:13:03.06,0:13:08.82,Default,Kumagorō,0,0,0,,{TIME:783069,788826}How could you question your parents' identity after they have been raising you for 17 years?{NOTE:17年間も育ててくれたお袋さんに向かって本当のお母さんがどうのこうなんてよ}
+Dialogue: 0,0:13:08.82,0:13:11.20,Default,Mine Nozomi,0,0,0,,{TIME:788826,791203}I was just kidding.{NOTE:あ、あのことは冗談よ}
+Dialogue: 0,0:13:11.20,0:13:15.99,Default,Kumagorō,0,0,0,,{TIME:791203,795999}These things aren't joking matter. Kumagorō vows on the heavenly kingdom{NOTE:けっ！冗談も怪談もあるでこの熊五郎はな、お天道様に誓って言うが}
+Dialogue: 0,0:13:15.99,0:13:20.46,Default,Kumagorō,0,0,0,,{TIME:795999,800462}that you, Nozomi-chan, are Mine's family fully-fledged eldest daughter!{NOTE:のぞみちゃんはな、歴とした峰家のご長女様なんだぞ}
+Dialogue: 0,0:13:20.46,0:13:22.38,Default,Mine Nozomi,0,0,0,,{TIME:800462,802381}I know, Kuma-san.{NOTE:分かってるわよ、くまさん}
+Dialogue: 0,0:13:23.25,0:13:26.26,Default,Kumagorō,0,0,0,,{TIME:803257,806260}Your father was poor and yet he worked his butt off{NOTE:親父さんは金もないのに無理しちゃってよ}
+Dialogue: 0,0:13:26.26,0:13:28.92,Default,Kumagorō,0,0,0,,{TIME:806260,808929}to get you born in the most prestigious hospital in Tōkyō.{NOTE:東京で一番有名な病院で}
+Dialogue: 0,0:13:28.92,0:13:31.84,Default,Kumagorō,0,0,0,,{TIME:808929,811848}You're the luckiest girl in the world, Nozomi-chan.{NOTE:のぞみちゃん生まさせたんじゃないかよ}
+Dialogue: 0,0:13:31.84,0:13:35.39,Default,Mine Nozomi,0,0,0,,{TIME:811848,815394}Well then, swear on the heavenly kingdom again that you say the truth,{NOTE:じゃあ、おじさん、もう一度あのお天道様に誓って}
+Dialogue: 0,0:13:35.39,0:13:38.39,Default,Mine Nozomi,0,0,0,,{TIME:815394,818397}and tell me what Dad wanted to say to me in the operating room back then.{NOTE:さっき父さんが私に言い残そうとしたこと教えてちょうだい}
+Dialogue: 0,0:13:40.31,0:13:42.60,Default,Kumagorō,0,0,0,,{TIME:820314,822609}I don't know anything.{NOTE:おれ知らないな}
+Dialogue: 0,0:13:42.60,0:13:44.44,Default,Kumagorō,0,0,0,,{TIME:822609,824444}By the way, Nozomi-chan!{NOTE:ああ、あの、それより、のぞみちゃん}
 Dialogue: 0,0:13:44.44,0:13:48.90,Default,Kumagorō,0,0,0,,{TIME:824444,828907}We have to go to the stand or we won't have time to open for the usual time.{NOTE:早いとこ屋台の仕込みXXXてと間に合わねーんじゃねーのか？}
 Dialogue: 0,0:13:48.90,0:13:49.49,Default,Mine Nozomi,0,0,0,,{TIME:828907,829491}You're right.{NOTE:分かったわ！}
 Dialogue: 0,0:13:49.49,0:13:51.03,Default,Kumagorō,0,0,0,,{TIME:829491,831034}Hey, where are you going?{NOTE:お、おい、おい！どこへ行くんだよ？}
-Dialogue: 0,0:13:51.03,0:13:53.37,Default,Mine Nozomi,0,0,0,,{TIME:831034,833370}To the school. I'll be back in an instant.{NOTE:学校よ。すぐ帰るわ。}
-Dialogue: 0,0:13:53.37,0:13:54.87,Default,Kumagorō,0,0,0,,{TIME:833370,834872}Whew, that was close.{NOTE:やれやれ。まったく。}
-Dialogue: 0,0:13:54.87,0:13:56.87,Default,Kumagorō,0,0,0,,{TIME:834872,836872}She's incredible, that girl.{NOTE:疲れさせるぜ。}
+Dialogue: 0,0:13:51.03,0:13:53.37,Default,Mine Nozomi,0,0,0,,{TIME:831034,833370}To the school. I'll be back in an instant.{NOTE:学校よすぐ帰るわ}
+Dialogue: 0,0:13:53.37,0:13:54.87,Default,Kumagorō,0,0,0,,{TIME:833370,834872}Whew, that was close.{NOTE:やれやれまったく}
+Dialogue: 0,0:13:54.87,0:13:56.87,Default,Kumagorō,0,0,0,,{TIME:834872,836872}She's incredible, that girl.{NOTE:疲れさせるぜ}
 Dialogue: 0,0:14:04.42,0:14:06.92,Default,Kōda Miki's follower A,0,0,0,,{TIME:844423,846925}Isn't that Mine-san?{NOTE:あら？前行くの峰さんじゃない？}
-Dialogue: 0,0:14:06.92,0:14:09.30,Default,Kōda Miki's follower B,0,0,0,,{TIME:846925,849303}She was absent during today's classes.{NOTE:今日来てなかったよ、確か。}
-Dialogue: 0,0:14:09.30,0:14:12.26,Default,Kōda Miki's follower A,0,0,0,,{TIME:849303,852264}What is she doing here so late? In her casual clothes on top of it.{NOTE:何しに来たのかしら？それも私服でよ。}
+Dialogue: 0,0:14:06.92,0:14:09.30,Default,Kōda Miki's follower B,0,0,0,,{TIME:846925,849303}She was absent during today's classes.{NOTE:今日来てなかったよ、確か}
+Dialogue: 0,0:14:09.30,0:14:12.26,Default,Kōda Miki's follower A,0,0,0,,{TIME:849303,852264}What is she doing here so late? In her casual clothes on top of it.{NOTE:何しに来たのかしら？それも私服でよ}
 Dialogue: 0,0:14:12.26,0:14:15.39,Default,Kōda Miki,0,0,0,,{TIME:852264,855392}Perhaps she hasn't adjusted to a daytime school yet?{NOTE:まだ夜間部の気分が抜けないんじゃない？}
-Dialogue: 0,0:14:16.26,0:14:19.27,Default,(mixed),0,0,0,,{TIME:856268,859271}– What are you doing here so late?\N– I'm delivering absence form.{NOTE:—今頃何をしにきたの？\\N—欠席届けを出しに。}
-Dialogue: 0,0:14:19.27,0:14:22.44,Default,(mixed),0,0,0,,{TIME:859271,862440}– That's all there is to it.\N– It must be hard to live near gangsters.{NOTE:—XXね？やくざに知り合いがあると大変ね。\\N—そうでしたもんです。}
-Dialogue: 0,0:14:22.44,0:14:23.73,Default,Mine Nozomi,0,0,0,,{TIME:862440,863733}It's none of your business.{NOTE:変な言い方しないで。}
-Dialogue: 0,0:14:23.73,0:14:25.44,Default,Kōda Miki,0,0,0,,{TIME:863733,865444}I could you say the same to you.{NOTE:あなたこそ変な真似しないでよ。}
+Dialogue: 0,0:14:16.26,0:14:19.27,Default,(mixed),0,0,0,,{TIME:856268,859271}– What are you doing here so late?\N– I'm delivering absence form.{NOTE:—今頃何をしにきたの？\\N—欠席届けを出しに}
+Dialogue: 0,0:14:19.27,0:14:22.44,Default,(mixed),0,0,0,,{TIME:859271,862440}– That's all there is to it.\N– It must be hard to live near gangsters.{NOTE:—XXね？やくざに知り合いがあると大変ね\\N—そうでしたもんです}
+Dialogue: 0,0:14:22.44,0:14:23.73,Default,Mine Nozomi,0,0,0,,{TIME:862440,863733}It's none of your business.{NOTE:変な言い方しないで}
+Dialogue: 0,0:14:23.73,0:14:25.44,Default,Kōda Miki,0,0,0,,{TIME:863733,865444}I could you say the same to you.{NOTE:あなたこそ変な真似しないでよ}
 Dialogue: 0,0:14:25.44,0:14:26.65,Default,Mine Nozomi,0,0,0,,{TIME:865444,866653}What did I do this time?{NOTE:私が何を？}
-Dialogue: 0,0:14:26.65,0:14:32.70,Default,Kōda Miki,0,0,0,,{TIME:866653,872701}It seems there was a strange phone call from your woman friend while I was out.{NOTE:私の留守中にまたあなたの知り合いのあの変な女から電話がかかってきたらしいわ。}
-Dialogue: 0,0:14:32.70,0:14:35.24,Default,Mine Nozomi,0,0,0,,{TIME:872701,875245}Miki-san, you're still suspecting me?{NOTE:美紀さん。未だXXXってるの私を？}
+Dialogue: 0,0:14:26.65,0:14:32.70,Default,Kōda Miki,0,0,0,,{TIME:866653,872701}It seems there was a strange phone call from your woman friend while I was out.{NOTE:私の留守中にまたあなたの知り合いのあの変な女から電話がかかってきたらしいわ}
+Dialogue: 0,0:14:32.70,0:14:35.24,Default,Mine Nozomi,0,0,0,,{TIME:872701,875245}Miki-san, you're still suspecting me?{NOTE:美紀さん未だXXXってるの私を？}
 Dialogue: 0,0:14:35.24,0:14:38.70,Default,Kōda Miki,0,0,0,,{TIME:875245,878707}Who else would be so envious of me?{NOTE:あなたの他に私を妬んだりする人がXX？}
-Dialogue: 0,0:14:45.58,0:14:47.04,Default,Kōda Miki,0,0,0,,{TIME:885589,887049}Things are going to get tough for you.{NOTE:これから大変ね。}
-Dialogue: 0,0:14:47.04,0:14:49.71,Default,Kōda Miki,0,0,0,,{TIME:887049,889718}If you want, I can hire you as a maid in my house.{NOTE:よかったら家のお手伝いさせてあげてもいいのよ。}
-Dialogue: 0,0:14:52.01,0:14:55.26,Default,Kōda Miki,0,0,0,,{TIME:892012,895265}You could also bring your siblings if you wanted, to keep them close.{NOTE:何だった弟さん妹も連れて来たらどうかしら。}
+Dialogue: 0,0:14:45.58,0:14:47.04,Default,Kōda Miki,0,0,0,,{TIME:885589,887049}Things are going to get tough for you.{NOTE:これから大変ね}
+Dialogue: 0,0:14:47.04,0:14:49.71,Default,Kōda Miki,0,0,0,,{TIME:887049,889718}If you want, I can hire you as a maid in my house.{NOTE:よかったら家のお手伝いさせてあげてもいいのよ}
+Dialogue: 0,0:14:52.01,0:14:55.26,Default,Kōda Miki,0,0,0,,{TIME:892012,895265}You could also bring your siblings if you wanted, to keep them close.{NOTE:何だった弟さん妹も連れて来たらどうかしら}
 Dialogue: 0,0:14:55.26,0:14:56.72,Default,Kōda Miki,0,0,0,,{TIME:895265,896725}I'm coming!{NOTE:今行く！}
-Dialogue: 0,0:15:02.94,0:15:04.73,Default,Mine Nozomi,0,0,0,,{TIME:902940,904733}Cheer up, Kuma-san.{NOTE:元気だしてよ、くまさん。}
-Dialogue: 0,0:15:04.73,0:15:05.73,Default,Kumagorō,0,0,0,,{TIME:904733,905734}Sorry.{NOTE:すまない。}
-Dialogue: 0,0:15:05.73,0:15:10.15,Default,Kumagorō,0,0,0,,{TIME:905734,910155}Seems like no one wants to come here with me around. If only your dad was here…{NOTE:俺がついていながら客の入りがこんなに悪いたってXX俺XX親父さんにな…}
-Dialogue: 0,0:15:10.15,0:15:11.61,Default,Mine Nozomi,0,0,0,,{TIME:910155,911615}Don't sweat it.{NOTE:気にしないって。}
-Dialogue: 0,0:15:11.61,0:15:15.03,Default,Mine Nozomi,0,0,0,,{TIME:911615,915035}Even Dad has days when there are no customers at all.{NOTE:父さんがやったって全然出ない日があるんだから。}
-Dialogue: 0,0:15:15.03,0:15:16.66,Default,Mine Nozomi,0,0,0,,{TIME:915035,916662}It's okay, it really is.{NOTE:いいって、いいって。}
-Dialogue: 0,0:15:16.66,0:15:19.49,Default,Mine Nozomi,0,0,0,,{TIME:916662,919498}I bet we'll get crowded in no time.{NOTE:そのうちきっと、わんさかお客さんが来るかもよ。}
-Dialogue: 0,0:15:19.49,0:15:22.08,Default,Kumagorō,0,0,0,,{TIME:919498,922084}If only you had brother at such times…{NOTE:こんな時あの兄さんがいてくれたから…}
+Dialogue: 0,0:15:02.94,0:15:04.73,Default,Mine Nozomi,0,0,0,,{TIME:902940,904733}Cheer up, Kuma-san.{NOTE:元気だしてよ、くまさん}
+Dialogue: 0,0:15:04.73,0:15:05.73,Default,Kumagorō,0,0,0,,{TIME:904733,905734}Sorry.{NOTE:すまない}
+Dialogue: 0,0:15:05.73,0:15:10.15,Default,Kumagorō,0,0,0,,{TIME:905734,910155}Seems like no one wants to come here with me around. If only your dad was here…{NOTE:俺がついていながら客の入りがこんなに悪いたってXX俺XX親父さんにな}
+Dialogue: 0,0:15:10.15,0:15:11.61,Default,Mine Nozomi,0,0,0,,{TIME:910155,911615}Don't sweat it.{NOTE:気にしないって}
+Dialogue: 0,0:15:11.61,0:15:15.03,Default,Mine Nozomi,0,0,0,,{TIME:911615,915035}Even Dad has days when there are no customers at all.{NOTE:父さんがやったって全然出ない日があるんだから}
+Dialogue: 0,0:15:15.03,0:15:16.66,Default,Mine Nozomi,0,0,0,,{TIME:915035,916662}It's okay, it really is.{NOTE:いいって、いいって}
+Dialogue: 0,0:15:16.66,0:15:19.49,Default,Mine Nozomi,0,0,0,,{TIME:916662,919498}I bet we'll get crowded in no time.{NOTE:そのうちきっと、わんさかお客さんが来るかもよ}
+Dialogue: 0,0:15:19.49,0:15:22.08,Default,Kumagorō,0,0,0,,{TIME:919498,922084}If only you had brother at such times…{NOTE:こんな時あの兄さんがいてくれたから}
 Dialogue: 0,0:15:22.08,0:15:23.41,Default,Mine Nozomi,0,0,0,,{TIME:922084,923418}"Brother"?!{NOTE:兄さんって！？}
 Dialogue: 0,0:15:23.41,0:15:24.79,Default,Kumagorō,0,0,0,,{TIME:923418,924795}Huh?{NOTE:え？}
-Dialogue: 0,0:15:24.79,0:15:26.79,Default,Mine Nozomi,0,0,0,,{TIME:924795,926795}Do I have a brother?{NOTE:お兄さんがいたの？私に。}
-Dialogue: 0,0:15:26.79,0:15:29.21,Default,Kumagorō,0,0,0,,{TIME:926795,929216}No, that's not what I meant…{NOTE:う、いいえ、その…}
-Dialogue: 0,0:15:29.21,0:15:32.63,Default,Mine Nozomi,0,0,0,,{TIME:929216,932636}That must be what Dad wanted to tell me.{NOTE:お父さんが私に残したい事ってそのことだったね。}
+Dialogue: 0,0:15:24.79,0:15:26.79,Default,Mine Nozomi,0,0,0,,{TIME:924795,926795}Do I have a brother?{NOTE:お兄さんがいたの？私に}
+Dialogue: 0,0:15:26.79,0:15:29.21,Default,Kumagorō,0,0,0,,{TIME:926795,929216}No, that's not what I meant…{NOTE:う、いいえ、その}
+Dialogue: 0,0:15:29.21,0:15:32.63,Default,Mine Nozomi,0,0,0,,{TIME:929216,932636}That must be what Dad wanted to tell me.{NOTE:お父さんが私に残したい事ってそのことだったね}
 Dialogue: 0,0:15:32.63,0:15:33.88,Default,Kumagorō,0,0,0,,{TIME:932636,933887}Hey! Nozomi-chan!{NOTE:おい！のぞみちゃん！}
-Dialogue: 0,0:15:36.34,0:15:39.85,Default,Kumagorō,0,0,0,,{TIME:936348,939852}Why am I always such a fool…?{NOTE:馬鹿だな、俺ってやつは。}
-Dialogue: 0,0:15:46.14,0:15:48.15,Default,Mine Shizuko,0,0,0,,{TIME:946149,948151}I was sick back then, Darling.{NOTE:そのころ母さんは病気でね…}
-Dialogue: 0,0:15:48.15,0:15:53.15,Default,Mine Shizuko,0,0,0,,{TIME:948151,953156}I couldn't afford to take care of a child so I gave your older brother up for adoption.{NOTE:子供が可哀想だと思って生まれたばかりの兄さんを養子に出したんだよ。}
+Dialogue: 0,0:15:36.34,0:15:39.85,Default,Kumagorō,0,0,0,,{TIME:936348,939852}Why am I always such a fool?{NOTE:馬鹿だな、俺ってやつは}
+Dialogue: 0,0:15:46.14,0:15:48.15,Default,Mine Shizuko,0,0,0,,{TIME:946149,948151}I was sick back then, Darling.{NOTE:そのころ母さんは病気でね}
+Dialogue: 0,0:15:48.15,0:15:53.15,Default,Mine Shizuko,0,0,0,,{TIME:948151,953156}I couldn't afford to take care of a child so I gave your older brother up for adoption.{NOTE:子供が可哀想だと思って生まれたばかりの兄さんを養子に出したんだよ}
 Dialogue: 0,0:15:53.15,0:15:55.95,Default,Mine Nozomi,0,0,0,,{TIME:953156,955951}So where is he now?{NOTE:それで兄さんは今どこにいるの？}
-Dialogue: 0,0:15:55.95,0:16:00.41,Default,Mine Shizuko,0,0,0,,{TIME:955951,960414}He was given to one of those families with the big ranches at the highlands of Shinshū.{NOTE:信州の高原で大きな牧場やってる人にもらわれたんだけどね。}
-Dialogue: 0,0:16:00.41,0:16:05.33,Default,Mine Shizuko,0,0,0,,{TIME:960414,965335}Dad tried to visit them a couple of years ago, but the ranch has already gone to other people.{NOTE:父さんが何年か前に訪ねて行った時には牧場ももう人手に渡ってんだよね。}
-Dialogue: 0,0:16:05.33,0:16:07.92,Default,Mine Shizuko,0,0,0,,{TIME:965335,967921}No one knew where the previous owners went to.{NOTE:誰に聞いてもそのXXこと。}
-Dialogue: 0,0:16:07.92,0:16:08.92,Default,Mine Nozomi,0,0,0,,{TIME:967921,968922}{\i1}I see.{NOTE:そう。}
-Dialogue: 0,0:16:08.92,0:16:11.13,Default,Mine Nozomi,0,0,0,,{TIME:968922,971133}{\i1}That's how it was.{NOTE:そうだったの。}
-Dialogue: 0,0:16:11.13,0:16:15.05,Default,Mine Shizuko,0,0,0,,{TIME:971133,975053}{\i1}We've thought countless times about telling you,\Nbut we didn't want to make you sad.{NOTE:言ってしまうXX今までXX何度もXXお前XX可哀想。}
-Dialogue: 0,0:16:15.05,0:16:17.43,Default,Mine Shizuko,0,0,0,,{TIME:975053,977430}{\i1}Please, forgive me…{NOTE:許しておくれ。}
-Dialogue: 0,0:16:30.31,0:16:31.48,Default,Customer A,0,0,0,,{TIME:990319,991486}Hey, Pops!{NOTE:親父さん。}
+Dialogue: 0,0:15:55.95,0:16:00.41,Default,Mine Shizuko,0,0,0,,{TIME:955951,960414}He was given to one of those families with the big ranches at the highlands of Shinshū.{NOTE:信州の高原で大きな牧場やってる人にもらわれたんだけどね}
+Dialogue: 0,0:16:00.41,0:16:05.33,Default,Mine Shizuko,0,0,0,,{TIME:960414,965335}Dad tried to visit them a couple of years ago, but the ranch has already gone to other people.{NOTE:父さんが何年か前に訪ねて行った時には牧場ももう人手に渡ってんだよね}
+Dialogue: 0,0:16:05.33,0:16:07.92,Default,Mine Shizuko,0,0,0,,{TIME:965335,967921}No one knew where the previous owners went to.{NOTE:誰に聞いてもそのXXこと}
+Dialogue: 0,0:16:07.92,0:16:08.92,Default,Mine Nozomi,0,0,0,,{TIME:967921,968922}{\i1}I see.{NOTE:そう}
+Dialogue: 0,0:16:08.92,0:16:11.13,Default,Mine Nozomi,0,0,0,,{TIME:968922,971133}{\i1}That's how it was.{NOTE:そうだったの}
+Dialogue: 0,0:16:11.13,0:16:15.05,Default,Mine Shizuko,0,0,0,,{TIME:971133,975053}{\i1}We've thought countless times about telling you,\Nbut we didn't want to make you sad.{NOTE:言ってしまうXX今までXX何度もXXお前XX可哀想}
+Dialogue: 0,0:16:15.05,0:16:17.43,Default,Mine Shizuko,0,0,0,,{TIME:975053,977430}{\i1}Please, forgive me…{NOTE:許しておくれ}
+Dialogue: 0,0:16:30.31,0:16:31.48,Default,Customer A,0,0,0,,{TIME:990319,991486}Hey, Pops!{NOTE:親父さん}
 Dialogue: 0,0:16:31.48,0:16:32.11,Default,Kumagorō,0,0,0,,{TIME:991486,992112}Hmm?{NOTE:んん？}
 Dialogue: 0,0:16:33.15,0:16:36.11,Default,Customer A,0,0,0,,{TIME:993155,996116}Sorry Pops, but we'd like some liquor.{NOTE:親父さん、すまんけど、酒をあげてもらないけど？}
-Dialogue: 0,0:16:36.11,0:16:38.61,Default,Kumagorō,0,0,0,,{TIME:996116,998619}Sorry, but you'll have to drink someplace else.{NOTE:自分でついで飲みな。}
-Dialogue: 0,0:16:38.61,0:16:41.62,Default,Customer B,0,0,0,,{TIME:998619,1001622}Look, there's a lot of beer, too.{NOTE:とっちゃん。ビールもたくさんあるぜ。}
-Dialogue: 0,0:16:41.62,0:16:45.00,Default,Kumagorō,0,0,0,,{TIME:1001622,1005000}Why don't you get something to eat?\NI don't want to deal with leftovers.{NOTE:さきよりおでんくってXXがない子ちゃん残すわけにはいかないんだ。}
-Dialogue: 0,0:16:45.00,0:16:46.71,Default,Customer A,0,0,0,,{TIME:1005000,1006710}Why don't we take everything?{NOTE:俺なら全部もらうXX。}
+Dialogue: 0,0:16:36.11,0:16:38.61,Default,Kumagorō,0,0,0,,{TIME:996116,998619}Sorry, but you'll have to drink someplace else.{NOTE:自分でついで飲みな}
+Dialogue: 0,0:16:38.61,0:16:41.62,Default,Customer B,0,0,0,,{TIME:998619,1001622}Look, there's a lot of beer, too.{NOTE:とっちゃんビールもたくさんあるぜ}
+Dialogue: 0,0:16:41.62,0:16:45.00,Default,Kumagorō,0,0,0,,{TIME:1001622,1005000}Why don't you get something to eat?\NI don't want to deal with leftovers.{NOTE:さきよりおでんくってXXがない子ちゃん残すわけにはいかないんだ}
+Dialogue: 0,0:16:45.00,0:16:46.71,Default,Customer A,0,0,0,,{TIME:1005000,1006710}Why don't we take everything?{NOTE:俺なら全部もらうXX}
 Dialogue: 0,0:16:46.71,0:16:48.12,Default,Kumagorō,0,0,0,,{TIME:1006710,1008128}Everything?!{NOTE:全部？！}
 Dialogue: 0,0:16:48.12,0:16:50.83,Default,Kumagorō,0,0,0,,{TIME:1008128,1010839}Did you come here to mock me?{NOTE:いやいや、手前達、俺XXに来たんだ？}
-Dialogue: 0,0:16:50.83,0:16:52.38,Default,Customer A,0,0,0,,{TIME:1010839,1012382}We're not mocking you.{NOTE:そうじゃないったら。}
-Dialogue: 0,0:16:52.38,0:16:54.42,Default,Customer A,0,0,0,,{TIME:1012382,1014426}We'll buy everything but the stand.{NOTE:XX全部欲しいXXなの。}
-Dialogue: 0,0:16:54.42,0:16:58.84,Default,Kumagorō,0,0,0,,{TIME:1014426,1018847}A-Are you serious? Liquor, food, everything?{NOTE:ほ…本当か？本当に酒もおでんも全部買ってくれるんっすか？}
-Dialogue: 0,0:16:58.84,0:17:01.26,Default,Customer B,0,0,0,,{TIME:1018847,1021266}That's what we tried to say to begin with.{NOTE:初めからそう言ったつもりだけどな。}
-Dialogue: 0,0:17:01.26,0:17:02.18,Default,Kumagorō,0,0,0,,{TIME:1021266,1022184}I see…{NOTE:そうっすか。}
-Dialogue: 0,0:17:02.18,0:17:03.10,Default,Kumagorō,0,0,0,,{TIME:1022184,1023101}Hehehe!{NOTE:へへへ。}
+Dialogue: 0,0:16:50.83,0:16:52.38,Default,Customer A,0,0,0,,{TIME:1010839,1012382}We're not mocking you.{NOTE:そうじゃないったら}
+Dialogue: 0,0:16:52.38,0:16:54.42,Default,Customer A,0,0,0,,{TIME:1012382,1014426}We'll buy everything but the stand.{NOTE:XX全部欲しいXXなの}
+Dialogue: 0,0:16:54.42,0:16:58.84,Default,Kumagorō,0,0,0,,{TIME:1014426,1018847}A-Are you serious?\NLiquor, food, everything?{NOTE:ほ本当か？本当に酒もおでんも全部買ってくれるんっすか？}
+Dialogue: 0,0:16:58.84,0:17:01.26,Default,Customer B,0,0,0,,{TIME:1018847,1021266}That's what we tried to say to begin with.{NOTE:初めからそう言ったつもりだけどな}
+Dialogue: 0,0:17:01.26,0:17:02.18,Default,Kumagorō,0,0,0,,{TIME:1021266,1022184}I see…{NOTE:そうっすか}
+Dialogue: 0,0:17:02.18,0:17:03.10,Default,Kumagorō,0,0,0,,{TIME:1022184,1023101}Hehehe!{NOTE:へへへ}
 Dialogue: 0,0:17:03.10,0:17:04.14,Default,Kumagorō,0,0,0,,{TIME:1023101,1024144}All right, boss!{NOTE:社長さん！}
-Dialogue: 0,0:17:04.14,0:17:07.18,Default,Kumagorō,0,0,0,,{TIME:1024144,1027189}I'll help you with the delivery. Lead the way, boss!{NOTE:今日は特別のXX社長。どこへXX？}
-Dialogue: 0,0:17:11.19,0:17:12.23,Default,Mine Nozomi,0,0,0,,{TIME:1031193,1032235}Ah…{NOTE:あ。}
-Dialogue: 0,0:17:12.23,0:17:13.40,Default,Mine Nozomi,0,0,0,,{TIME:1032235,1033403}The stand…{NOTE:屋台が…}
+Dialogue: 0,0:17:04.14,0:17:07.18,Default,Kumagorō,0,0,0,,{TIME:1024144,1027189}I'll help you with the delivery. Lead the way, boss!{NOTE:今日は特別のXX社長どこへXX？}
+Dialogue: 0,0:17:11.19,0:17:12.23,Default,Mine Nozomi,0,0,0,,{TIME:1031193,1032235}Ah…{NOTE:あ}
+Dialogue: 0,0:17:12.23,0:17:13.40,Default,Mine Nozomi,0,0,0,,{TIME:1032235,1033403}The stand…{NOTE:屋台が}
 Dialogue: 0,0:17:13.40,0:17:15.03,Default,Mine Nozomi,0,0,0,,{TIME:1033403,1035030}Where is the stand?{NOTE:屋台がどこかに？}
-Dialogue: 0,0:17:15.94,0:17:16.99,Default,Customer B,0,0,0,,{TIME:1035948,1036990}Hello.{NOTE:どうも。}
+Dialogue: 0,0:17:15.94,0:17:16.99,Default,Customer B,0,0,0,,{TIME:1035948,1036990}Hello.{NOTE:どうも}
 Dialogue: 0,0:17:18.53,0:17:20.41,Default,Customer B,0,0,0,,{TIME:1038533,1040410}Excuse me, but are you Nozomi-san?{NOTE:失礼ですが、あんた、のぞみさん？}
-Dialogue: 0,0:17:20.41,0:17:21.66,Default,Mine Nozomi,0,0,0,,{TIME:1040410,1041662}Yes.{NOTE:え。そうです。}
-Dialogue: 0,0:17:21.66,0:17:22.91,Default,Mine Nozomi,0,0,0,,{TIME:1041662,1042913}That's my name.{NOTE:のぞみですけど。}
-Dialogue: 0,0:17:22.91,0:17:23.99,Default,Customer B,0,0,0,,{TIME:1042913,1043996}Great.{NOTE:よかった。}
-Dialogue: 0,0:17:23.99,0:17:26.91,Default,Customer B,0,0,0,,{TIME:1043996,1046917}A man named Kumagorō-san knew you'd return…{NOTE:熊五郎って言う人にあんたが戻ってくるはずかだら…}
-Dialogue: 0,0:17:26.91,0:17:28.83,Default,Customer B,0,0,0,,{TIME:1046917,1048835}…and he told me to wait for you.{NOTE:…待ってるようにって言われたんだよ。}
-Dialogue: 0,0:17:28.83,0:17:30.29,Default,Mine Nozomi,0,0,0,,{TIME:1048835,1050294}I see. Thanks.{NOTE:そう？ありがとう。}
+Dialogue: 0,0:17:20.41,0:17:21.66,Default,Mine Nozomi,0,0,0,,{TIME:1040410,1041662}Yes.{NOTE:えそうです}
+Dialogue: 0,0:17:21.66,0:17:22.91,Default,Mine Nozomi,0,0,0,,{TIME:1041662,1042913}That's my name.{NOTE:のぞみですけど}
+Dialogue: 0,0:17:22.91,0:17:23.99,Default,Customer B,0,0,0,,{TIME:1042913,1043996}Great.{NOTE:よかった}
+Dialogue: 0,0:17:23.99,0:17:26.91,Default,Customer B,0,0,0,,{TIME:1043996,1046917}A man named Kumagorō-san\Nknew you'd return{NOTE:熊五郎って言う人にあんたが戻ってくるはずかだら}
+Dialogue: 0,0:17:26.91,0:17:28.83,Default,Customer B,0,0,0,,{TIME:1046917,1048835}and told me to wait for you.{NOTE:待ってるようにって言われたんだよ}
+Dialogue: 0,0:17:28.83,0:17:30.29,Default,Mine Nozomi,0,0,0,,{TIME:1048835,1050294}I see. Thanks.{NOTE:そう？ありがとう}
 Dialogue: 0,0:17:30.29,0:17:31.88,Default,Mine Nozomi,0,0,0,,{TIME:1050294,1051880}So where is Kuma-san now?{NOTE:それでくまさん今どこに？}
-Dialogue: 0,0:17:31.88,0:17:33.96,Default,Customer B,0,0,0,,{TIME:1051880,1053966}He's at the construction camp on the other side of the river.{NOTE:川向こうの飯場です。}
+Dialogue: 0,0:17:31.88,0:17:33.96,Default,Customer B,0,0,0,,{TIME:1051880,1053966}He's at the construction camp on the other side of the river.{NOTE:川向こうの飯場です}
 Dialogue: 0,0:17:33.96,0:17:34.54,Default,Mine Nozomi,0,0,0,,{TIME:1053966,1054549}Construction camp?{NOTE:飯場？}
-Dialogue: 0,0:17:39.05,0:17:41.05,Default,Customer B,0,0,0,,{TIME:1059054,1061056}We're migrant workers.{NOTE:俺たち出稼ぎなんだ。}
-Dialogue: 0,0:17:41.05,0:17:45.47,Default,Customer B,0,0,0,,{TIME:1061056,1065477}Tomorrow we dismount and go to another place like that.{NOTE:明日から又別々に別れって、余所の仕事場に行かなきゃならない。}
-Dialogue: 0,0:17:45.47,0:17:48.98,Default,Customer B,0,0,0,,{TIME:1065477,1068981}Tonight we're holding a goodbye party.{NOTE:だから今夜はつまり解散パーティーってことかな。}
+Dialogue: 0,0:17:39.05,0:17:41.05,Default,Customer B,0,0,0,,{TIME:1059054,1061056}We're migrant workers.{NOTE:俺たち出稼ぎなんだ}
+Dialogue: 0,0:17:41.05,0:17:45.47,Default,Customer B,0,0,0,,{TIME:1061056,1065477}Tomorrow we dismount and go to another place like that.{NOTE:明日から又別々に別れって、余所の仕事場に行かなきゃならない}
+Dialogue: 0,0:17:45.47,0:17:48.98,Default,Customer B,0,0,0,,{TIME:1065477,1068981}Tonight we're holding a goodbye party.{NOTE:だから今夜はつまり解散パーティーってことかな}
 Dialogue: 0,0:17:48.98,0:17:49.69,Default,Mine Nozomi,0,0,0,,{TIME:1068981,1069690}You too?{NOTE:あなたも？}
-Dialogue: 0,0:17:49.69,0:17:50.77,Default,Customer B,0,0,0,,{TIME:1069690,1070774}Yes.{NOTE:うむ。}
-Dialogue: 0,0:17:50.77,0:17:53.02,Default,Customer B,0,0,0,,{TIME:1070774,1073026}I'll be working in Kōbe from tomorrow.{NOTE:明日から神戸で働くのさ。}
-Dialogue: 0,0:17:54.36,0:17:56.02,Default,Customer B,0,0,0,,{TIME:1074361,1076029}Look, we built all of this.{NOTE:あれ俺たちが作ったんだよ。}
-Dialogue: 0,0:18:03.03,0:18:06.33,Default,Customer B,0,0,0,,{TIME:1083036,1086331}Often, when I look at a building I worked on…{NOTE:運よく自分達残されたものと出会える時があると…}
-Dialogue: 0,0:18:06.33,0:18:10.25,Default,Customer B,0,0,0,,{TIME:1086331,1090252}…I think of all the other guys I've worked with at that time.{NOTE:…必ずその時は一緒に働いた仲間たちを思い出すんだ。}
-Dialogue: 0,0:18:10.25,0:18:13.71,Default,Customer B,0,0,0,,{TIME:1090252,1093714}Then it repeats again. That's our life.{NOTE:その繰り返しだよ。俺たちで稼ぎの土建屋は。}
-Dialogue: 0,0:18:13.71,0:18:14.63,Default,Mine Nozomi,0,0,0,,{TIME:1093714,1094631}I see…{NOTE:そう。}
-Dialogue: 0,0:18:34.81,0:18:37.07,Default,Kumagorō,0,0,0,,{TIME:1114818,1117070}Don't hold back. Eat some more.{NOTE:だらしねえな食えよ。}
-Dialogue: 0,0:18:37.07,0:18:38.57,Default,Kumagorō,0,0,0,,{TIME:1117070,1118572}Come on, swallow this.{NOTE:ほれ食えったら。}
-Dialogue: 0,0:18:38.57,0:18:40.32,Default,Kumagorō,0,0,0,,{TIME:1118572,1120323}There's still a lot of food to eat.{NOTE:おでんもいっぱいあるからよ。}
-Dialogue: 0,0:18:41.53,0:18:42.82,Default,Mine Nozomi,0,0,0,,{TIME:1121533,1122826}Kuma-san.{NOTE:くまさん。}
-Dialogue: 0,0:18:42.82,0:18:45.24,Default,Kumagorō,0,0,0,,{TIME:1122826,1125245}Hey, Nozomi-chan! Hehe.{NOTE:よ、のぞみちゃん！へへ。}
-Dialogue: 0,0:18:45.24,0:18:46.45,Default,Kumagorō,0,0,0,,{TIME:1125245,1126455}I sold everything.{NOTE:俺売ったぜ。}
-Dialogue: 0,0:18:46.45,0:18:48.62,Default,Kumagorō,0,0,0,,{TIME:1126455,1128623}I managed… to sell everything.{NOTE:全部売ったんだな、俺は。}
-Dialogue: 0,0:18:48.62,0:18:51.20,Default,Mine Nozomi,0,0,0,,{TIME:1128623,1131209}Thanks. That's good, but…{NOTE:ありがとう。それはいいだけど…}
-Dialogue: 0,0:18:51.20,0:18:54.08,Default,Drunkard,0,0,0,,{TIME:1131209,1134087}Come on, miss, come and have a drink with us.{NOTE:よ、姉ちゃん、こっちXXいっぱいやろうぜ。}
+Dialogue: 0,0:17:49.69,0:17:50.77,Default,Customer B,0,0,0,,{TIME:1069690,1070774}Yes.{NOTE:うむ}
+Dialogue: 0,0:17:50.77,0:17:53.02,Default,Customer B,0,0,0,,{TIME:1070774,1073026}I'll be working in Kōbe from tomorrow.{NOTE:明日から神戸で働くのさ}
+Dialogue: 0,0:17:54.36,0:17:56.02,Default,Customer B,0,0,0,,{TIME:1074361,1076029}Look, we built all of this.{NOTE:あれ俺たちが作ったんだよ}
+Dialogue: 0,0:18:03.03,0:18:06.33,Default,Customer B,0,0,0,,{TIME:1083036,1086331}Often, when I look\Nat a building I worked on,{NOTE:運よく自分達残されたものと出会える時があると}
+Dialogue: 0,0:18:06.33,0:18:10.25,Default,Customer B,0,0,0,,{TIME:1086331,1090252}I think of all the other guys I've worked with at that time.{NOTE:必ずその時は一緒に働いた仲間たちを思い出すんだ}
+Dialogue: 0,0:18:10.25,0:18:13.71,Default,Customer B,0,0,0,,{TIME:1090252,1093714}Then it repeats again. That's our life.{NOTE:その繰り返しだよ俺たちで稼ぎの土建屋は}
+Dialogue: 0,0:18:13.71,0:18:14.63,Default,Mine Nozomi,0,0,0,,{TIME:1093714,1094631}I see…{NOTE:そう}
+Dialogue: 0,0:18:34.81,0:18:37.07,Default,Kumagorō,0,0,0,,{TIME:1114818,1117070}Don't hold back. Eat some more.{NOTE:だらしねえな食えよ}
+Dialogue: 0,0:18:37.07,0:18:38.57,Default,Kumagorō,0,0,0,,{TIME:1117070,1118572}Come on, swallow this.{NOTE:ほれ食えったら}
+Dialogue: 0,0:18:38.57,0:18:40.32,Default,Kumagorō,0,0,0,,{TIME:1118572,1120323}There's still a lot of food to eat.{NOTE:おでんもいっぱいあるからよ}
+Dialogue: 0,0:18:41.53,0:18:42.82,Default,Mine Nozomi,0,0,0,,{TIME:1121533,1122826}Kuma-san.{NOTE:くまさん}
+Dialogue: 0,0:18:42.82,0:18:45.24,Default,Kumagorō,0,0,0,,{TIME:1122826,1125245}Hey, Nozomi-chan! Hehe.{NOTE:よ、のぞみちゃん！へへ}
+Dialogue: 0,0:18:45.24,0:18:46.45,Default,Kumagorō,0,0,0,,{TIME:1125245,1126455}I sold everything.{NOTE:俺売ったぜ}
+Dialogue: 0,0:18:46.45,0:18:48.62,Default,Kumagorō,0,0,0,,{TIME:1126455,1128623}I managed… to sell everything.{NOTE:全部売ったんだな、俺は}
+Dialogue: 0,0:18:48.62,0:18:51.20,Default,Mine Nozomi,0,0,0,,{TIME:1128623,1131209}Thanks. That's good, but…{NOTE:ありがとうそれはいいだけど}
+Dialogue: 0,0:18:51.20,0:18:54.08,Default,Drunkard,0,0,0,,{TIME:1131209,1134087}Come on, miss, come and have a drink with us.{NOTE:よ、姉ちゃん、こっちXXいっぱいやろうぜ}
 Dialogue: 0,0:18:54.08,0:18:55.08,Default,Kumagorō,0,0,0,,{TIME:1134087,1135088}Hey, youngster!{NOTE:馬鹿やろ！}
-Dialogue: 0,0:18:55.08,0:18:57.71,Default,Kumagorō,0,0,0,,{TIME:1135088,1137716}Leave her alone, or you'll find yourself dealing with me!{NOTE:子の娘にちょっとでもXXXただXXぜ。}
+Dialogue: 0,0:18:55.08,0:18:57.71,Default,Kumagorō,0,0,0,,{TIME:1135088,1137716}Leave her alone, or you'll find yourself dealing with me!{NOTE:子の娘にちょっとでもXXXただXXぜ}
 Dialogue: 0,0:18:58.67,0:18:59.59,Default,Drunkard,0,0,0,,{TIME:1138675,1139593}Must be love!{NOTE:こい、こい！}
-Dialogue: 0,0:19:02.47,0:19:05.22,Default,Kumagorō,0,0,0,,{TIME:1142471,1145223}I managed to sell the whole stall.{NOTE:おじちゃんが売ったんだぜ。}
+Dialogue: 0,0:19:02.47,0:19:05.22,Default,Kumagorō,0,0,0,,{TIME:1142471,1145223}I managed to sell the whole stall.{NOTE:おじちゃんが売ったんだぜ}
 Dialogue: 0,0:19:05.22,0:19:06.80,Default,Drunkard,0,0,0,,{TIME:1145223,1146808}Hey, Pops! Where's the oden?{NOTE:親父さん！おでんどうした？}
-Dialogue: 0,0:19:06.80,0:19:10.43,Default,Drunkard,0,0,0,,{TIME:1146808,1150437}You sold it to us but I can't see it anywhere! I'm hungry and want to eat!{NOTE:売った売ったってきっとおでんこっち来るんじゃないかよ。}
+Dialogue: 0,0:19:06.80,0:19:10.43,Default,Drunkard,0,0,0,,{TIME:1146808,1150437}You sold it to us but I can't see it anywhere! I'm hungry and want to eat!{NOTE:売った売ったってきっとおでんこっち来るんじゃないかよ}
 Dialogue: 0,0:19:10.43,0:19:12.77,Default,Kumagorō,0,0,0,,{TIME:1150437,1152773}Shut your traps! Bring it yourselves!{NOTE:煩いな！手前らで勝手に持ってきあがれ！}
-Dialogue: 0,0:19:12.77,0:19:15.23,Default,Mine Nozomi,0,0,0,,{TIME:1152773,1155233}I'm sorry. I'll bring it at once.{NOTE:ごめんなさい。今すぐ持ってきますから。}
-Dialogue: 0,0:19:16.69,0:19:17.52,Default,Customer B,0,0,0,,{TIME:1156693,1157527}Want me to help?{NOTE:手伝おうか。}
-Dialogue: 0,0:19:17.52,0:19:18.23,Default,Mine Nozomi,0,0,0,,{TIME:1157527,1158235}I'm fine.{NOTE:大丈夫よ。}
+Dialogue: 0,0:19:12.77,0:19:15.23,Default,Mine Nozomi,0,0,0,,{TIME:1152773,1155233}I'm sorry. I'll bring it at once.{NOTE:ごめんなさい今すぐ持ってきますから}
+Dialogue: 0,0:19:16.69,0:19:17.52,Default,Customer B,0,0,0,,{TIME:1156693,1157527}Want me to help?{NOTE:手伝おうか}
+Dialogue: 0,0:19:17.52,0:19:18.23,Default,Mine Nozomi,0,0,0,,{TIME:1157527,1158235}I'm fine.{NOTE:大丈夫よ}
 Dialogue: 0,0:19:22.86,0:19:24.32,Default,Kumagorō,0,0,0,,{TIME:1162866,1164326}Hey, Nozomi-chan!{NOTE:おい、のぞみちゃん！}
 Dialogue: 0,0:19:24.32,0:19:26.24,Default,Kumagorō,0,0,0,,{TIME:1164326,1166244}How about you sing us a song?{NOTE:皆さんにXXX}
-Dialogue: 0,0:19:26.24,0:19:27.41,Default,Mine Nozomi,0,0,0,,{TIME:1166244,1167412}Ah, sing a song?{NOTE:あら、いやだ。}
-Dialogue: 0,0:19:27.41,0:19:28.62,Default,Mine Nozomi,0,0,0,,{TIME:1167412,1168622}I'd rather not…{NOTE:聞かせるだなんて…}
+Dialogue: 0,0:19:26.24,0:19:27.41,Default,Mine Nozomi,0,0,0,,{TIME:1166244,1167412}Ah, sing a song?{NOTE:あら、いやだ}
+Dialogue: 0,0:19:27.41,0:19:28.62,Default,Mine Nozomi,0,0,0,,{TIME:1167412,1168622}I'd rather not…{NOTE:聞かせるだなんて}
 Dialogue: 0,0:19:28.62,0:19:30.08,Default,(unison),0,0,0,,{TIME:1168622,1170082}No buts! We'll be quiet!{NOTE:待ってました！}
-Dialogue: 0,0:19:32.91,0:19:36.62,Default,Kumagorō,0,0,0,,{TIME:1172918,1176629}These guys bought everything so they deserve it…{NOTE:XXおでんは全部買ってくれたお客さんたちよ…}
-Dialogue: 0,0:19:38.63,0:19:40.96,Default,Customer B,0,0,0,,{TIME:1178631,1180967}{\i1}Tomorrow we dismount and go elsewhere.{NOTE:俺たちに明日から別れ別れなんだ。}
-Dialogue: 0,0:19:42.42,0:19:44.42,Default,Customer B,0,0,0,,{TIME:1182427,1184429}Here, you can use this. It's a bit old though.{NOTE:よかったら使えないよ。思いだけど。}
-Dialogue: 0,0:19:44.42,0:19:45.26,Default,Mine Nozomi,0,0,0,,{TIME:1184429,1185263}Thanks.{NOTE:うん。}
-Dialogue: 0,0:19:50.81,0:19:59.19,Default,Mine Nozomi,0,0,0,,{TIME:1190811,1199194}{\an8}♪ I chased after rabbits on that mountain ♪{NOTE:うさぎ追いしかの山}
-Dialogue: 0,0:19:59.19,0:20:07.74,Default,Mine Nozomi,0,0,0,,{TIME:1199194,1207744}{\an8}♪ I fished for minnow in that river ♪{NOTE:こぶな釣りしかの川}
-Dialogue: 0,0:20:07.74,0:20:16.87,Default,Mine Nozomi,0,0,0,,{TIME:1207744,1216878}{\an8}♪ I still dream of those days even now ♪{NOTE:夢はいまもめぐりて}
-Dialogue: 0,0:20:16.87,0:20:26.93,Default,Mine Nozomi,0,0,0,,{TIME:1216878,1226930}{\an8}♪ Oh, how I miss my old country home ♪{NOTE:忘れがたきふるさと}
-Dialogue: 0,0:20:26.93,0:20:35.77,Default,Mine Nozomi,0,0,0,,{TIME:1226930,1235772}{\an8}♪ Father and mother – are they doing well? ♪{NOTE:いかにいます父母}
-Dialogue: 0,0:20:35.77,0:20:44.28,Default,Mine Nozomi,0,0,0,,{TIME:1235772,1244281}{\an8}♪ Is everything well with my old friends? ♪{NOTE:つつがなしや友がき}
-Dialogue: 0,0:20:44.28,0:20:53.45,Default,Mine Nozomi,0,0,0,,{TIME:1244281,1253456}{\an8}♪ When the rain falls, when the wind blows ♪{NOTE:雨に風につけても}
-Dialogue: 0,0:20:53.45,0:21:03.09,Default,Mine Nozomi,0,0,0,,{TIME:1253456,1263091}{\an8}♪ I stop and recall of my old country home ♪{NOTE:思いいずるふるさと\\N}
-Dialogue: 0,0:21:03.09,0:21:11.76,Default,Mine Nozomi,0,0,0,,{TIME:1263091,1271766}{\an8}♪ Some day when I have done\Nwhat I set out to do ♪{NOTE:志を果たして\\N}
-Dialogue: 0,0:21:11.76,0:21:20.27,Default,Mine Nozomi,0,0,0,,{TIME:1271766,1280275}{\an8}♪ I'll return home one of these days ♪{NOTE:いつの日にか帰らん}
-Dialogue: 0,0:21:20.27,0:21:29.40,Default,Mine Nozomi,0,0,0,,{TIME:1280275,1289409}{\an8}♪ Where the mountains are green,\Nmy old country home ♪{NOTE:山は青きふるさと}
-Dialogue: 0,0:21:29.40,0:21:38.50,Default,Mine Nozomi,0,0,0,,{TIME:1289409,1298501}{\an8}♪ Where the waters are clear,\Nmy old country home ♪{NOTE:水は清きふるさと}
-Dialogue: 0,0:21:14.81,0:21:18.44,Default,Customer A,0,0,0,,{TIME:1274811,1278440}We didn't know each other for too long, but take care, friend.{NOTE:いいや、短い付き合ったけど、体に気をつけなよな。}
-Dialogue: 0,0:21:18.44,0:21:20.06,Default,Customer B,0,0,0,,{TIME:1278440,1280066}You too, mister.{NOTE:はあ。親父さんもな。}
-Dialogue: 0,0:21:21.31,0:21:23.69,Default,Customer B,0,0,0,,{TIME:1281318,1283695}Your hometown was north, right?{NOTE:いいだっけな？親父さんの里は。}
-Dialogue: 0,0:21:23.69,0:21:25.28,Default,Customer A,0,0,0,,{TIME:1283695,1285280}Yeah. Come and see me sometimes.{NOTE:え、今度遊びにこいよ。}
-Dialogue: 0,0:21:25.28,0:21:28.45,Default,Customer A,0,0,0,,{TIME:1285280,1288450}I'll introduce you to my daughter.{NOTE:その時はな、うちの娘を紹介してやるだな。}
-Dialogue: 0,0:21:28.45,0:21:30.24,Default,Customer A,0,0,0,,{TIME:1288450,1290243}She turns 18 this year.{NOTE:今年１８XX。}
+Dialogue: 0,0:19:32.91,0:19:36.62,Default,Kumagorō,0,0,0,,{TIME:1172918,1176629}These guys bought everything so they deserve it…{NOTE:XXおでんは全部買ってくれたお客さんたちよ}
+Dialogue: 0,0:19:38.63,0:19:40.96,Default,Customer B,0,0,0,,{TIME:1178631,1180967}{\i1}Tomorrow we dismount and go elsewhere.{NOTE:俺たちに明日から別れ別れなんだ}
+Dialogue: 0,0:19:42.42,0:19:44.42,Default,Customer B,0,0,0,,{TIME:1182427,1184429}Here, you can use this. It's a bit old though.{NOTE:よかったら使えないよ思いだけど}
+Dialogue: 0,0:19:44.42,0:19:45.26,Default,Mine Nozomi,0,0,0,,{TIME:1184429,1185263}Thanks.{NOTE:うん}
+Dialogue: 0,0:19:50.81,0:19:59.19,Default,Mine Nozomi,0,0,0,,{TIME:1190811,1199194}{\an8\fnArial}♪{\fn}  I chased after rabbits on that mountain  {\fnArial}♪{NOTE:うさぎ追いしかの山}
+Dialogue: 0,0:19:59.19,0:20:07.74,Default,Mine Nozomi,0,0,0,,{TIME:1199194,1207744}{\an8\fnArial}♪{\fn}  I fished for minnow in that river  {\fnArial}♪{NOTE:こぶな釣りしかの川}
+Dialogue: 0,0:20:07.74,0:20:16.87,Default,Mine Nozomi,0,0,0,,{TIME:1207744,1216878}{\an8\fnArial}♪{\fn}  I still dream of those days even now  {\fnArial}♪{NOTE:夢はいまもめぐりて}
+Dialogue: 0,0:20:16.87,0:20:26.93,Default,Mine Nozomi,0,0,0,,{TIME:1216878,1226930}{\an8\fnArial}♪{\fn}  Oh, how I miss my old country home  {\fnArial}♪{NOTE:忘れがたきふるさと}
+Dialogue: 0,0:20:26.93,0:20:35.77,Default,Mine Nozomi,0,0,0,,{TIME:1226930,1235772}{\an8\fnArial}♪{\fn}  Father and mother – are they doing well?  {\fnArial}♪{NOTE:いかにいます父母}
+Dialogue: 0,0:20:35.77,0:20:44.28,Default,Mine Nozomi,0,0,0,,{TIME:1235772,1244281}{\an8\fnArial}♪{\fn}  Is everything well with my old friends?  {\fnArial}♪{NOTE:つつがなしや友がき}
+Dialogue: 0,0:20:44.28,0:20:53.45,Default,Mine Nozomi,0,0,0,,{TIME:1244281,1253456}{\an8\fnArial}♪{\fn}  When the rain falls, when the wind blows  {\fnArial}♪{NOTE:雨に風につけても}
+Dialogue: 0,0:20:53.45,0:21:03.09,Default,Mine Nozomi,0,0,0,,{TIME:1253456,1263091}{\an8\fnArial}♪{\fn}  I stop and recall of my old country home  {\fnArial}♪{NOTE:思いいずるふるさと\\N}
+Dialogue: 0,0:21:03.09,0:21:11.76,Default,Mine Nozomi,0,0,0,,{TIME:1263091,1271766}{\an8\fnArial}♪{\fn}  Some day when I have done  {\fnArial}♪{\fn}\N{\an8\fnArial}♪{\fn}  what I set out to do  {\fnArial}♪{NOTE:志を果たして\\N}
+Dialogue: 0,0:21:11.76,0:21:20.27,Default,Mine Nozomi,0,0,0,,{TIME:1271766,1280275}{\an8\fnArial}♪{\fn}  I'll return home one of these days  {\fnArial}♪{NOTE:いつの日にか帰らん}
+Dialogue: 0,0:21:20.27,0:21:29.40,Default,Mine Nozomi,0,0,0,,{TIME:1280275,1289409}{\an8\fnArial}♪{\fn}  Where the mountains are green,  {\fnArial}♪{\fn}\N{\an8\fnArial}♪{\fn}  my old country home  {\fnArial}♪{NOTE:山は青きふるさと}
+Dialogue: 0,0:21:29.40,0:21:38.50,Default,Mine Nozomi,0,0,0,,{TIME:1289409,1298501}{\an8\fnArial}♪{\fn}  Where the waters are clear,  {\fnArial}♪{\fn}\N{\an8\fnArial}♪{\fn}  my old country home  {\fnArial}♪{NOTE:水は清きふるさと}
+Dialogue: 0,0:21:14.81,0:21:18.44,Default,Customer A,0,0,0,,{TIME:1274811,1278440}We didn't know each other for too long, but take care, friend.{NOTE:いいや、短い付き合ったけど、体に気をつけなよな}
+Dialogue: 0,0:21:18.44,0:21:20.06,Default,Customer B,0,0,0,,{TIME:1278440,1280066}You too, mister.{NOTE:はあ親父さんもな}
+Dialogue: 0,0:21:21.31,0:21:23.69,Default,Customer B,0,0,0,,{TIME:1281318,1283695}Your hometown was north, right?{NOTE:いいだっけな？親父さんの里は}
+Dialogue: 0,0:21:23.69,0:21:25.28,Default,Customer A,0,0,0,,{TIME:1283695,1285280}Yeah. Come and see me sometimes.{NOTE:え、今度遊びにこいよ}
+Dialogue: 0,0:21:25.28,0:21:28.45,Default,Customer A,0,0,0,,{TIME:1285280,1288450}I'll introduce you to my daughter.{NOTE:その時はな、うちの娘を紹介してやるだな}
+Dialogue: 0,0:21:28.45,0:21:30.24,Default,Customer A,0,0,0,,{TIME:1288450,1290243}She turns 18 this year.{NOTE:今年１８XX}
 Dialogue: 0,0:21:30.24,0:21:32.45,Default,Customer A,0,0,0,,{TIME:1290243,1292454}She's more or less your age…
-Dialogue: 0,0:21:49.72,0:21:51.97,Default,(mixed),0,0,0,,{TIME:1309721,1311973}Heave-ho.{NOTE:よいっしょっと。}
-Dialogue: 0,0:21:51.97,0:21:53.97,Default,Customer B,0,0,0,,{TIME:1311973,1313975}Take care.{NOTE:気をつけてな。}
+Dialogue: 0,0:21:49.72,0:21:51.97,Default,(mixed),0,0,0,,{TIME:1309721,1311973}Heave-ho.{NOTE:よいっしょっと}
+Dialogue: 0,0:21:51.97,0:21:53.97,Default,Customer B,0,0,0,,{TIME:1311973,1313975}Take care.{NOTE:気をつけてな}
 Dialogue: 0,0:21:53.97,0:21:55.93,Default,Customer A,0,0,0,,{TIME:1313975,1315936}Hey, miss!{NOTE:おい、姉ちゃん！}
-Dialogue: 0,0:21:55.93,0:21:58.31,Default,Customer A,0,0,0,,{TIME:1315936,1318313}Here's a little from all of us.{NOTE:ほら、皆の気持ちだ。}
-Dialogue: 0,0:21:58.31,0:22:00.89,Default,Customer A,0,0,0,,{TIME:1318313,1320899}You can buy something good to eat for your father.{NOTE:父さんに美味いもんを食わしてやれや。}
+Dialogue: 0,0:21:55.93,0:21:58.31,Default,Customer A,0,0,0,,{TIME:1315936,1318313}Here's a little from all of us.{NOTE:ほら、皆の気持ちだ}
+Dialogue: 0,0:21:58.31,0:22:00.89,Default,Customer A,0,0,0,,{TIME:1318313,1320899}You can buy something good to eat for your father.{NOTE:父さんに美味いもんを食わしてやれや}
 Dialogue: 0,0:22:00.89,0:22:02.52,Default,Mine Nozomi,0,0,0,,{TIME:1320899,1322524}Who told you about my father?{NOTE:だれの父さんの事？}
-Dialogue: 0,0:22:06.27,0:22:08.24,Default,Customer A,0,0,0,,{TIME:1326279,1328240}Ah, don't mind him. He only meant good.{NOTE:XXX。対したことじゃないだから。}
+Dialogue: 0,0:22:06.27,0:22:08.24,Default,Customer A,0,0,0,,{TIME:1326279,1328240}Ah, don't mind him. He only meant good.{NOTE:XXX対したことじゃないだから}
 Dialogue: 0,0:22:08.24,0:22:10.40,Default,(mixed),0,0,0,,{TIME:1328240,1330408}Hey, miss!{NOTE:—姉ちゃん！\\N—姉ちゃんよ！}
 Dialogue: 0,0:22:10.40,0:22:12.99,Default,(mixed),0,0,0,,{TIME:1330408,1332994}– Good luck!\N– Hang in there!{NOTE:—頑張れよ！\\N—負けんじゃないぞ！}
 Dialogue: 0,0:22:12.99,0:22:17.29,Default,(mixed),0,0,0,,{TIME:1332994,1337290}You're a good girl! Godspeed!{NOTE:俺たちがついていくからな！}
-Dialogue: 0,0:22:19.16,0:22:22.29,Default,Narrator,0,0,0,,{TIME:1339167,1342295}{\i1}They might never meet again.{NOTE:二度と出会うことはないかもしれない。}
-Dialogue: 0,0:22:22.29,0:22:27.59,Default,Narrator,0,0,0,,{TIME:1342295,1347591}{\i1}However, Nozomi will never forget the short time they spent together.{NOTE:しかし共に過ごした一時をのぞみも又決して忘れることはないだろう。}
-Dialogue: 0,0:22:31.68,0:22:33.43,Default,Mine Nozomi,0,0,0,,{TIME:1351680,1353431}{\i1}Kazuo. Yuki.{NOTE:かずお。ゆき。}
-Dialogue: 0,0:22:33.43,0:22:36.89,Default,Mine Nozomi,0,0,0,,{TIME:1353431,1356893}{\i1}From tomorrow on, your sister's going to work in Dad's place.{NOTE:明日から姉ちゃん父さんの分まで働くからね。}
-Dialogue: 0,0:22:36.89,0:22:38.64,Default,Mine Nozomi,0,0,0,,{TIME:1356893,1358645}{\i1}To tell you the truth…{NOTE:本当の事言うと姉ちゃん…}
-Dialogue: 0,0:22:38.64,0:22:43.94,Default,Mine Nozomi,0,0,0,,{TIME:1358645,1363942}{\i1}…when Mom told me about our brother,\NI thought it'd have been better to go look for him.{NOTE:…お母さんのこと聞かされて兄さんを探し出してXXしようと考えたの。}
-Dialogue: 0,0:22:43.94,0:22:46.86,Default,Mine Nozomi,0,0,0,,{TIME:1363942,1366861}{\i1}But somehow I gained more confidence in myself.{NOTE:でも姉ちゃん何だか自身がついてきたきちゃった。}
-Dialogue: 0,0:22:46.86,0:22:50.03,Default,Mine Nozomi,0,0,0,,{TIME:1366861,1370031}{\i1}About working. And about singing.{NOTE:仕事にも。そして歌にも。}
-Dialogue: 0,0:22:50.03,0:22:52.86,Default,Mine Nozomi,0,0,0,,{TIME:1370031,1372867}{\i1}It's thanks to the gentle people I met today.{NOTE:今日あった優しい人たちのおかげでね。}
+Dialogue: 0,0:22:19.16,0:22:22.29,Default,Narrator,0,0,0,,{TIME:1339167,1342295}{\i1}They might never meet again.{NOTE:二度と出会うことはないかもしれない}
+Dialogue: 0,0:22:22.29,0:22:27.59,Default,Narrator,0,0,0,,{TIME:1342295,1347591}{\i1}However, Nozomi will never forget the short time they spent together.{NOTE:しかし共に過ごした一時をのぞみも又決して忘れることはないだろう}
+Dialogue: 0,0:22:31.68,0:22:33.43,Default,Mine Nozomi,0,0,0,,{TIME:1351680,1353431}{\i1}Kazuo. Yuki.{NOTE:かずおゆき}
+Dialogue: 0,0:22:33.43,0:22:36.89,Default,Mine Nozomi,0,0,0,,{TIME:1353431,1356893}{\i1}From tomorrow on, your sister's going to work in Dad's place.{NOTE:明日から姉ちゃん父さんの分まで働くからね}
+Dialogue: 0,0:22:36.89,0:22:40.60,Default,Mine Nozomi,0,0,0,,{TIME:1356893,1360605}{\i1}To tell you the truth, when Mom\Ntold me about our brother,{NOTE:本当の事言うと姉ちゃんお母さんのこと聞かされて}
+Dialogue: 0,0:22:40.60,0:22:43.94,Default,Mine Nozomi,0,0,0,,{TIME:1360605,1363942}{\i1}I thought it would've been\Nbetter to go look for him.{NOTE:兄さんを探し出してXXしようと考えたの}
+Dialogue: 0,0:22:43.94,0:22:46.86,Default,Mine Nozomi,0,0,0,,{TIME:1363942,1366861}{\i1}But somehow I gained more confidence in myself.{NOTE:でも姉ちゃん何だか自身がついてきたきちゃった}
+Dialogue: 0,0:22:46.86,0:22:50.03,Default,Mine Nozomi,0,0,0,,{TIME:1366861,1370031}{\i1}About working. And about singing.{NOTE:仕事にもそして歌にも}
+Dialogue: 0,0:22:50.03,0:22:52.86,Default,Mine Nozomi,0,0,0,,{TIME:1370031,1372867}{\i1}It's thanks to the gentle people I met today.{NOTE:今日あった優しい人たちのおかげでね}
 Dialogue: 0,0:23:02.54,0:23:05.71,Default,Nohara Michiko,0,0,0,,{TIME:1382544,1385714}How can you look so happy?{NOTE:何であんな楽しそうにしてるんだろう？}
 Dialogue: 0,0:23:05.71,0:23:06.79,Default,Nohara Michiko,0,0,0,,{TIME:1385714,1386798}Is it about singing?{NOTE:歌？}
-Dialogue: 0,0:23:06.79,0:23:09.38,Default,Nohara Michiko,0,0,0,,{TIME:1386798,1389384}That must be it. There is a song within her.{NOTE:そうだわ。あの子には歌がある。}
-Dialogue: 0,0:23:09.38,0:23:12.59,Default,Nohara Michiko,0,0,0,,{TIME:1389384,1392595}That song is what keeps that girl's heart so strong.{NOTE:歌があの子の心の支えなってるんだ。}
-Dialogue: 0,0:23:12.59,0:23:14.09,Default,Nohara Michiko,0,0,0,,{TIME:1392595,1394097}That's fine.{NOTE:それならそれでいい。}
-Dialogue: 0,0:23:14.09,0:23:17.18,Default,Nohara Michiko,0,0,0,,{TIME:1394097,1397183}It just means that I have to take that song away from her.{NOTE:あの子から歌を奪い取ってしまえばいいのよ。}
-Dialogue: 0,0:23:17.18,0:23:19.47,Default,Nohara Michiko,0,0,0,,{TIME:1397183,1399477}Without it, she'll be broken.{NOTE:奪い取って死ぬ。}
+Dialogue: 0,0:23:06.79,0:23:09.38,Default,Nohara Michiko,0,0,0,,{TIME:1386798,1389384}That must be it. There is a song within her.{NOTE:そうだわあの子には歌がある}
+Dialogue: 0,0:23:09.38,0:23:12.59,Default,Nohara Michiko,0,0,0,,{TIME:1389384,1392595}That song is what keeps that girl's heart so strong.{NOTE:歌があの子の心の支えなってるんだ}
+Dialogue: 0,0:23:12.59,0:23:14.09,Default,Nohara Michiko,0,0,0,,{TIME:1392595,1394097}That's fine.{NOTE:それならそれでいい}
+Dialogue: 0,0:23:14.09,0:23:17.18,Default,Nohara Michiko,0,0,0,,{TIME:1394097,1397183}It just means that I have to take that song away from her.{NOTE:あの子から歌を奪い取ってしまえばいいのよ}
+Dialogue: 0,0:23:17.18,0:23:19.47,Default,Nohara Michiko,0,0,0,,{TIME:1397183,1399477}Without it, she'll be broken.{NOTE:奪い取って死ぬ}
 Comment: 0,0:23:22.98,0:23:22.98,Default,[chapter],0,0,0,,{TIME:1402981,1402981}Preview
-Dialogue: 0,0:23:26.27,0:23:29.61,Default,Narrator,0,0,0,,{TIME:1406276,1409612}{\i1}Nozomi learned about her interest in singing…{NOTE:歌が心の支えであることを知ったのぞみは…}
-Dialogue: 0,0:23:29.61,0:23:32.44,Default,Narrator,0,0,0,,{TIME:1409612,1412449}{\i1}…and went to the downtown with a guitar.{NOTE:…ギターを抱え街に出るのだった。}
-Dialogue: 0,0:23:34.57,0:23:37.20,Default,Narrator,0,0,0,,{TIME:1414576,1417203}{\i1}While learning the wonders of the adult world…{NOTE:大人の世界に戸惑いを覚えながら…}
-Dialogue: 0,0:23:37.20,0:23:43.00,Default,Narrator,0,0,0,,{TIME:1417203,1423001}{\i1}…Nozomi was taught about the severity of a singer's life.{NOTE:…のぞみは又歌で生活していく厳しさを知らされるのだった。}
-Dialogue: 0,0:23:43.00,0:23:49.50,Default,Narrator,0,0,0,,{TIME:1423001,1429507}{\i1}Please look forward to the next episode:\N"The First Encore".{NOTE:では来週の「さすらいの太陽」：「初めてのアンコール」に是非ご期待ください。}
+Dialogue: 0,0:23:26.27,0:23:29.61,Default,Narrator,0,0,0,,{TIME:1406276,1409612}{\i1}Nozomi learned about her interest in singing{NOTE:歌が心の支えであることを知ったのぞみは}
+Dialogue: 0,0:23:29.61,0:23:32.44,Default,Narrator,0,0,0,,{TIME:1409612,1412449}{\i1}and went to the downtown with a guitar.{NOTE:ギターを抱え街に出るのだった}
+Dialogue: 0,0:23:34.57,0:23:37.20,Default,Narrator,0,0,0,,{TIME:1414576,1417203}{\i1}While learning the wonders\Nof the adult world,{NOTE:大人の世界に戸惑いを覚えながら}
+Dialogue: 0,0:23:37.20,0:23:43.00,Default,Narrator,0,0,0,,{TIME:1417203,1423001}{\i1}Nozomi was taught about the severity of a singer's life.{NOTE:のぞみは又歌で生活していく厳しさを知らされるのだった}
+Dialogue: 0,0:23:43.00,0:23:49.50,Default,Narrator,0,0,0,,{TIME:1423001,1429507}{\i1}Please look forward to the next episode:\N"The First Encore".{NOTE:では来週の「さすらいの太陽」：「初めてのアンコール」に是非ご期待ください}
 Comment: 0,0:23:53.16,0:23:53.16,Default,[chapter],0,0,0,,{TIME:1433168,1433168}Ending
 Dialogue: 0,0:23:58.57,0:24:08.29,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1438573,1448293}{\k20}U{\k33}ta {\k137}wa {\k37}wa{\k20}ta{\k37}shi {\k162}no {\k25}to{\k33}mo{\k83}da{\k33}chi {\k50}da{\k54}ka{\k241}ra{NOTE:うたは私の友達だから}
 Dialogue: 0,0:24:08.29,0:24:16.79,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1448293,1456793}{\k79}Ku{\k25}ru{\k62}shi{\k54}i {\k83}to{\k45}ki {\k100}mo {\k25}wa{\k29}ta{\k33}shi {\k29}no {\k54}mi{\k54}ka{\k175}ta{NOTE:苦しい時も私の味方}
