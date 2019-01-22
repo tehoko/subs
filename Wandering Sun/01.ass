@@ -15,8 +15,8 @@ Audio File: source/01.mkv
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Rubik Medium,33,&H00EBFEFF,&H000000FF,&H0028313C,&H7F000000,-1,0,0,0,100.0,98.0,0.0,0.0,1,3.0,1.0,2,33,33,25,1
 Style: Sign,Rubik Medium,33,&H00D3F0CB,&H000000FF,&H0024320A,&H7F000000,-1,0,0,0,100.0,98.0,0.0,0.0,1,3.0,1.0,8,33,33,33,1
-Style: Karaoke Romaji,JanieHmkBold,33,&H00E5F7F8,&H00869091,&H001B2128,&H7F000000,-1,0,0,0,120.0,100.0,0.0,0.0,1,3.0,1.0,8,16,16,11,1
-Style: Karaoke English,JanieHmkBold,35,&H00E5F7F8,&H000000FF,&H001B2128,&H7F000000,-1,0,0,0,120.0,100.0,0.0,0.0,1,3.0,1.0,2,33,33,11,1
+Style: Karaoke Romaji,JanieHmkBold,33,&H00E5F7F8,&H00869091,&H001B2128,&H7F000000,-1,0,0,0,120.0,100.0,0.0,0.0,1,3.0,1.0,2,16,16,11,1
+Style: Karaoke English,JanieHmkBold,35,&H00E5F7F8,&H000000FF,&H001B2128,&H7F000000,-1,0,0,0,120.0,100.0,0.0,0.0,1,3.0,1.0,8,33,33,11,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -29,26 +29,26 @@ Dialogue: 0,0:00:17.74,0:00:19.95,Default,Narrator,0,0,0,,{TIME:17747,19958}{\i1
 Dialogue: 0,0:00:19.95,0:00:26.13,Default,Narrator,0,0,0,,{TIME:19958,26130}{\i1}she strives to one day\Nbecome a singer.{NOTE:力強く歌手を目指して立ち上がっていく一人の少女の物語です}
 Comment: 0,0:00:28.00,0:00:28.00,Default,[chapter],0,0,0,,{TIME:28007,28007}Opening
 Dialogue: 0,0:00:28.50,0:00:37.64,Default,[title],0,0,0,,{TIME:28508,37642}{\an8\fnBelligerent Madness\fs50\3c&H202020&\bord2\1c&H204870&\t(3400,4400,\1c&H406890&)\fad(1000,2500)}Wandering {\1c&H2020A0&\alpha&HFF&\t(3400,4400,\alpha&H00&)}Sun
-Dialogue: 0,0:00:38.26,0:00:45.40,Karaoke Romaji,[karaoke],0,0,0,,{TIME:38268,45400}{\k25}Da{\k25}re{\k20}ka {\k91}ni {\k20}fu{\k20}ma{\k25}re{\k133}ta {\k41}no {\k87}no {\k49}ku{\k42}sa {\k129}mo{NOTE:誰かに踏まれた野の草も}
-Dialogue: 0,0:00:45.40,0:00:53.07,Karaoke Romaji,[karaoke],0,0,0,,{TIME:45400,53074}{\k25}I{\k24}tsu{\k100}ka {\k20}so{\k54}ra {\k133}wo {\k44}fu{\k91}ri{\k41}a{\k45}o{\k187}gu{NOTE:いつか空を振り仰ぐ}
-Dialogue: 0,0:00:53.07,0:01:00.03,Karaoke Romaji,[karaoke],0,0,0,,{TIME:53074,60039}{\k37}Na{\k29}mi{\k29}da {\k83}de {\k41}na{\k25}ni{\k108}mo {\k16}mi{\k25}e{\k20}na{\k20}i {\k25}to{\k41}ki {\k25}ni {\k166}mo{NOTE:涙でなにも見えないときにも}
-Dialogue: 0,0:01:00.03,0:01:07.05,Karaoke Romaji,[karaoke],0,0,0,,{TIME:60039,67055}{\k25}Wa{\k33}ta{\k29}shi{\k41}ta{\k45}chi {\k175}wa {\k20}i{\k41}ki{\k29}te{\k24}i{\k40}ru {\k29}no {\k171}yo{NOTE:私達は生きているのよ}
-Dialogue: 0,0:01:07.05,0:01:14.05,Karaoke Romaji,[karaoke],0,0,0,,{TIME:67055,74053}{\k36}Sa{\k33}su{\k29}ra{\k75}i {\k41}na{\k29}ga{\k108}ra {\k15}ki{\k25}zu{\k20}tsu{\k30}ki {\k34}na{\k25}ga{\k195}ra{NOTE:さすらいながら傷つきながら}
-Dialogue: 0,0:01:14.05,0:01:22.77,Karaoke Romaji,[karaoke],0,0,0,,{TIME:74053,82770}{\k12}A{\k29}shi{\k20}ta {\k25}no {\k20}ta{\k25}i{\k45}you {\k162}wo {\k29}sa{\k33}ga{\k33}shi{\k33}te{\k25}i{\k29}ru {\k337}no{NOTE:明日の太陽をさがしているの}
-Dialogue: 0,0:01:22.77,0:01:29.90,Karaoke Romaji,[karaoke],0,0,0,,{TIME:82770,89902}{\k45}Shi{\k33}a{\k29}wa{\k83}se {\k45}no {\k29}u{\k95}ta {\k41}to{\k28}o{\k25}i {\k25}to{\k37}ki {\k25}ni {\k166}mo{NOTE:涙でなにも見えないときにも}
-Dialogue: 0,0:01:29.90,0:01:36.90,Karaoke Romaji,[karaoke],0,0,0,,{TIME:89902,96909}{\k25}Wa{\k33}ta{\k29}shi{\k41}ta{\k45}chi {\k175}wa {\k20}i{\k41}ki{\k29}te{\k24}i{\k40}ru {\k29}no {\k171}yo{NOTE:私達は生きているのよ}
-Dialogue: 0,0:01:36.90,0:01:43.87,Karaoke Romaji,[karaoke],0,0,0,,{TIME:96909,103875}{\k36}Sa{\k33}su{\k29}ra{\k75}i {\k41}na{\k29}ga{\k108}ra {\k15}ki{\k25}zu{\k20}tsu{\k30}ki {\k34}na{\k25}ga{\k195}ra{NOTE:さすらいながら傷つきながら}
-Dialogue: 0,0:01:43.87,0:01:58.01,Karaoke Romaji,[karaoke],0,0,0,,{TIME:103875,118014}{\fad(0,500)\k12}A{\k29}shi{\k20}ta {\k25}no {\k20}ta{\k25}i{\k45}you {\k162}wo {\k29}sa{\k33}ga{\k33}shi{\k33}te{\k25}i{\k29}ru {\k337}no{NOTE:明日の太陽をさがしているの}
-Dialogue: 0,0:00:38.26,0:00:45.40,Karaoke English,[karaoke],1,1,0,,{TIME:38268,45400}The grass on the field\Nis stepped on by someone{NOTE:誰かに踏まれた野の草も}
-Dialogue: 0,0:00:45.40,0:00:53.07,Karaoke English,[karaoke],0,0,0,,{TIME:45400,53074}Someday we'll look up to the sky{NOTE:いつか空を振り仰ぐ}
-Dialogue: 0,0:00:53.07,0:01:00.03,Karaoke English,[karaoke],0,0,0,,{TIME:53074,60039}Even when we can't see from the tears{NOTE:涙でなにも見えないときにも}
-Dialogue: 0,0:01:00.03,0:01:07.05,Karaoke English,[karaoke],0,0,0,,{TIME:60039,67055}We are alive!{NOTE:私達は生きているのよ}
-Dialogue: 0,0:01:07.05,0:01:14.05,Karaoke English,[karaoke],0,0,0,,{TIME:67055,74053}While wandering, while wounded{NOTE:さすらいながら傷つきながら}
-Dialogue: 0,0:01:14.05,0:01:22.77,Karaoke English,[karaoke],0,0,0,,{TIME:74053,82770}We are looking for the sun of tomorrow{NOTE:明日の太陽をさがしているの}
-Dialogue: 0,0:01:22.77,0:01:29.90,Karaoke English,[karaoke],0,0,0,,{TIME:82770,89902}Even when we can't see from the tears{NOTE:涙でなにも見えないときにも}
-Dialogue: 0,0:01:29.90,0:01:36.90,Karaoke English,[karaoke],0,0,0,,{TIME:89902,96909}We are alive!{NOTE:私達は生きているのよ}
-Dialogue: 0,0:01:36.90,0:01:43.87,Karaoke English,[karaoke],0,0,0,,{TIME:96909,103875}While wandering, while wounded{NOTE:さすらいながら傷つきながら}
-Dialogue: 0,0:01:43.87,0:01:58.01,Karaoke English,[karaoke],0,0,0,,{TIME:103875,118014}{\fad(0,500)}We are looking for the sun of tomorrow{NOTE:明日の太陽をさがしているの}
+Dialogue: 0,0:00:38.35,0:00:45.48,Karaoke Romaji,[karaoke],0,0,0,,{TIME:38351,45483}{\k16.0}Da{\k21.5}re{\k37.6}ka {\k83.4}ni {\k16.7}fu{\k12.5}ma{\k20.8}re{\k146.0}ta {\k41.7}no {\k95.9}no {\k50.1}ku{\k41.7}sa {\k129.3}mo{NOTE:誰かに踏まれた野の草も}
+Dialogue: 0,0:00:45.48,0:00:53.07,Karaoke Romaji,[karaoke],0,0,0,,{TIME:45483,53074}{\k20.9}I{\k16.6}tsu{\k112.7}ka {\k25.0}so{\k41.7}ra {\k133.5}wo {\k41.7}fu{\k95.9}ri{\k41.7}a{\k45.9}o{\k183.5}gu{NOTE:いつか空を振り仰ぐ}
+Dialogue: 0,0:00:53.07,0:01:00.08,Karaoke Romaji,[karaoke],0,0,0,,{TIME:53074,60081}{\k41.7}Na{\k20.9}mi{\k29.2}da {\k66.7}de {\k70.9}na{\k20.8}ni{\k96.0}mo {\k20.8}mi{\k33.4}e{\k16.7}na{\k20.8}i {\k16.7}to{\k58.4}ki {\k20.9}ni {\k166.8}mo{NOTE:涙でなにも見えないときにも}
+Dialogue: 0,0:01:00.08,0:01:07.17,Karaoke Romaji,[karaoke],0,0,0,,{TIME:60081,67171}{\k16.7}Wa{\k45.9}ta{\k29.2}shi{\k41.7}ta{\k45.8}chi {\k179.4}wa {\k16.7}i{\k37.5}ki{\k29.2}te{\k12.5}i{\k41.7}ru {\k25.0}no {\k187.7}yo{NOTE:私達は生きているのよ}
+Dialogue: 0,0:01:07.17,0:01:14.09,Karaoke Romaji,[karaoke],0,0,0,,{TIME:67171,74095}{\k41.7}Sa{\k16.7}su{\k25.1}ra{\k91.7}i {\k41.7}na{\k16.7}ga{\k104.3}ra {\k12.5}ki{\k25.0}zu{\k16.7}tsu{\k29.2}ki {\k37.5}na{\k25.1}ga{\k208.5}ra{NOTE:さすらいながら傷つきながら}
+Dialogue: 0,0:01:14.09,0:01:22.93,Karaoke Romaji,[karaoke],0,0,0,,{TIME:74095,82937}{\k20.8}A{\k20.9}shi{\k16.7}ta {\k25.0}no {\k16.7}ta{\k29.2}i{\k20.8}yo{\k29.2}u {\k166.9}wo {\k25.0}sa{\k29.2}ga{\k37.5}shi{\k45.9}te{\k16.7}i{\k25.0}ru {\k358.7}no{NOTE:明日の太陽をさがしているの}
+Dialogue: 0,0:01:22.93,0:01:29.90,Karaoke Romaji,[karaoke],0,0,0,,{TIME:82937,89902}{\k33.4}Shi{\k25.0}a{\k37.5}wa{\k87.6}se {\k45.9}no {\k20.9}u{\k112.6}ta {\k16.7}to{\k41.7}o{\k25.0}i {\k16.7}to{\k45.9}ki {\k29.1}ni {\k158.5}mo{NOTE:涙でなにも見えないときにも}
+Dialogue: 0,0:01:29.90,0:01:36.99,Karaoke Romaji,[karaoke],0,0,0,,{TIME:89902,96993}{\k16.7}Wa{\k41.7}ta{\k29.2}shi{\k41.7}ta{\k41.7}chi {\k175.2}wa {\k20.9}i{\k45.9}ki{\k25.0}te{\k16.7}i{\k37.5}ru {\k29.2}no {\k187.7}yo{NOTE:私達は生きているのよ}
+Dialogue: 0,0:01:36.99,0:01:43.91,Karaoke Romaji,[karaoke],0,0,0,,{TIME:96993,103916}{\k37.5}Sa{\k41.7}su{\k16.7}ra{\k70.9}i {\k45.9}na{\k20.8}ga{\k104.3}ra {\k20.9}ki{\k20.8}zu{\k20.9}tsu{\k20.8}ki {\k45.9}na{\k20.9}ga{\k204.3}ra{NOTE:さすらいながら傷つきながら}
+Dialogue: 0,0:01:43.91,0:01:53.09,Karaoke Romaji,[karaoke],0,0,0,,{TIME:103916,113092}{\fad(0,150)\k16.7}A{\k16.7}shi{\k20.9}ta {\k29.2}no {\k20.8}ta{\k16.7}i{\k16.7}yo{\k41.7}u {\k158.5}wo {\k25.0}sa{\k37.5}ga{\k37.6}shi{\k45.9}te{\k16.6}i{\k25.1}ru {\k392.0}no{NOTE:明日の太陽をさがしているの}
+Dialogue: 0,0:00:38.35,0:00:45.48,Karaoke English,[karaoke],1,1,0,,{TIME:38351,45483}The grass on the field\Nis stepped on by someone{NOTE:誰かに踏まれた野の草も}
+Dialogue: 0,0:00:45.48,0:00:53.07,Karaoke English,[karaoke],0,0,0,,{TIME:45483,53074}Someday we'll look up to the sky{NOTE:いつか空を振り仰ぐ}
+Dialogue: 0,0:00:53.07,0:01:00.08,Karaoke English,[karaoke],0,0,0,,{TIME:53074,60081}Even when we can't see from the tears{NOTE:涙でなにも見えないときにも}
+Dialogue: 0,0:01:00.08,0:01:07.17,Karaoke English,[karaoke],0,0,0,,{TIME:60081,67171}We are alive!{NOTE:私達は生きているのよ}
+Dialogue: 0,0:01:07.17,0:01:14.09,Karaoke English,[karaoke],0,0,0,,{TIME:67171,74095}While wandering, while wounded{NOTE:さすらいながら傷つきながら}
+Dialogue: 0,0:01:14.09,0:01:22.93,Karaoke English,[karaoke],0,0,0,,{TIME:74095,82937}We are looking for the sun of tomorrow{NOTE:明日の太陽をさがしているの}
+Dialogue: 0,0:01:22.93,0:01:29.90,Karaoke English,[karaoke],0,0,0,,{TIME:82937,89902}Even when we can't see from the tears{NOTE:涙でなにも見えないときにも}
+Dialogue: 0,0:01:29.90,0:01:36.99,Karaoke English,[karaoke],0,0,0,,{TIME:89902,96993}We are alive!{NOTE:私達は生きているのよ}
+Dialogue: 0,0:01:36.99,0:01:43.91,Karaoke English,[karaoke],0,0,0,,{TIME:96993,103916}While wandering, while wounded{NOTE:さすらいながら傷つきながら}
+Dialogue: 0,0:01:43.91,0:01:53.09,Karaoke English,[karaoke],0,0,0,,{TIME:103916,113092}{\fad(0,150)}We are looking for the sun of tomorrow{NOTE:明日の太陽をさがしているの}
 Comment: 0,0:01:58.18,0:01:58.18,Default,[chapter],0,0,0,,{TIME:118181,118181}Part A
 Dialogue: 0,0:01:58.18,0:02:07.10,Sign,(sign),0,0,0,,{TIME:118181,127106}{\1c&H101010&\3c&H101010&\4c&H101010&\t(0,2000,\1c&HD3F0CB&\3c&H24320A&\4c&H000000&)}Tonan General Hospital{NOTE:都南総合病院}
 Dialogue: 0,0:02:07.27,0:02:10.31,Default,Nohara Michiko,0,0,0,,{TIME:127273,130318}{\i1}Everyone is naked when they're born.{NOTE:生まれた時はみんな裸}
@@ -425,17 +425,17 @@ Dialogue: 0,0:23:37.52,0:23:41.49,Default,Narrator,0,0,0,,{TIME:1417529,1421491}
 Dialogue: 0,0:23:41.49,0:23:46.45,Default,Narrator,0,0,0,,{TIME:1421491,1426454}{\i1}and invites her to a birthday party\Nas a chance for reconciliation.{NOTE:仲直りの印として誕生パーティーに是非出席してくれと頼むのであった}
 Dialogue: 0,0:23:46.45,0:23:51.29,Default,Narrator,0,0,0,,{TIME:1426454,1431293}{\i1}Please look forward to the next episode:\N"Double Birthday Party".{NOTE:では、来週の「さすらいの太陽」：「二つの誕生パーティー」にご期待ください}
 Comment: 0,0:23:52.96,0:23:52.96,Default,[chapter],0,0,0,,{TIME:1432961,1432961}Ending
-Dialogue: 0,0:23:57.38,0:24:07.10,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1437382,1447100}{\k20}U{\k33}ta {\k137}wa {\k37}wa{\k20}ta{\k37}shi {\k162}no {\k25}to{\k33}mo{\k83}da{\k33}chi {\k50}da{\k54}ka{\k241}ra{NOTE:うたは私の友達だから}
-Dialogue: 0,0:24:07.10,0:24:15.60,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1447100,1455608}{\k79}Ku{\k25}ru{\k62}shi{\k54}i {\k83}to{\k45}ki {\k100}mo {\k25}wa{\k29}ta{\k33}shi {\k29}no {\k54}mi{\k54}ka{\k175}ta{NOTE:苦しい時も私の味方}
-Dialogue: 0,0:24:15.60,0:24:25.32,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1455608,1465327}{\k54}Ta{\k150}tta {\k29}hi{\k25}to{\k33}ri {\k171}de {\k25}sa{\k20}bi{\k120}shii {\k54}ke{\k66}re{\k221}do{NOTE:たった一人で淋しいけれど}
-Dialogue: 0,0:24:25.32,0:24:33.79,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1465327,1473797}{\k79}Ko{\k29}ko{\k61}ro {\k63}no {\k79}u{\k54}ta {\k81}wo {\k25}mi{\k29}n{\k33}na {\k29}no {\k54}u{\k54}ta {\k175}ni{NOTE:心の歌をみんなの歌に}
-Dialogue: 0,0:24:33.79,0:24:42.96,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1473797,1482969}{\k30}Mi{\k30}n{\k90}na {\k40}no {\k40}u{\k95}ta {\k191}ga {\k29}ba{\k34}chi {\k50}i{\k80}ppa{\k40}i {\k167}ni{NOTE:みんなの歌が町いっぱいに}
-Dialogue: 0,0:24:42.96,0:24:52.02,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1482969,1492029}{\k29}I{\k29}tsu{\k87}ka {\k20}hi{\k53}ro{\k95}ga{\k189}ru {\k29}a{\k29}shi{\k29}ta {\k25}wo {\k29}shi{\k29}n{\k29}ji{\k50}yo{\k151}u{NOTE:いつか広がる明日を信じよう}
-Dialogue: 0,0:24:52.02,0:25:05.11,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1492029,1505116}{\fad(0,1000)\k29}I{\k24}tsu{\k87}ka {\k24}hi{\k51}ro{\k91}ga{\k194}ru {\k29}a{\k39}shi{\k29}ta {\k25}wo {\k41}shi{\k41}n{\k66}ji{\k91}yo{\k433}u{NOTE:いつか広がる明日を信じよう}
-Dialogue: 0,0:23:57.38,0:24:07.10,Karaoke English,[karaoke],0,0,0,,{TIME:1437382,1447100}Music is my friend{NOTE:うたは私の友達だから}
-Dialogue: 0,0:24:07.10,0:24:15.60,Karaoke English,[karaoke],0,0,0,,{TIME:1447100,1455608}When things get hard, it stays with me{NOTE:苦しい時も私の味方}
-Dialogue: 0,0:24:15.60,0:24:25.32,Karaoke English,[karaoke],0,0,0,,{TIME:1455608,1465327}Heard alone it's lonely, but{NOTE:たった一人で淋しいけれど}
-Dialogue: 0,0:24:25.32,0:24:33.79,Karaoke English,[karaoke],0,0,0,,{TIME:1465327,1473797}Heard together it resonates with everyone{NOTE:心の歌をみんなの歌に}
-Dialogue: 0,0:24:33.79,0:24:42.96,Karaoke English,[karaoke],0,0,0,,{TIME:1473797,1482969}I hope the people downtown can hear it{NOTE:みんなの歌が町いっぱいに}
-Dialogue: 0,0:24:42.96,0:24:52.02,Karaoke English,[karaoke],0,0,0,,{TIME:1482969,1492029}Let's believe in the tomorrow that will spread someday{NOTE:いつか広がる明日を信じよう}
-Dialogue: 0,0:24:52.02,0:25:05.11,Karaoke English,[karaoke],0,0,0,,{TIME:1492029,1505116}{\fad(0,1000)}Let's believe in the tomorrow that will spread someday{NOTE:いつか広がる明日を信じよう}
+Dialogue: 0,0:23:57.25,0:24:06.85,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1437257,1446850}{\k25.0}U{\k29.2}ta {\k141.8}wa {\k37.5}wa{\k20.9}ta{\k37.5}shi {\k158.5}no {\k33.4}to{\k33.4}mo{\k79.2}da{\k33.4}chi {\k58.4}da{\k50.0}ka{\k221.1}ra{NOTE:うたは私の友達だから}
+Dialogue: 0,0:24:06.85,0:24:15.35,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1446850,1455358}{\k100.1}Ku{\k20.8}ru{\k66.7}shi{\k54.3}i {\k79.2}to{\k45.9}ki {\k100.1}mo {\k25.0}wa{\k29.2}ta{\k33.4}shi {\k29.2}no {\k54.2}mi{\k54.2}ka{\k158.5}ta{NOTE:苦しい時も私の味方}
+Dialogue: 0,0:24:15.35,0:24:25.16,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1455358,1465160}{\k75.1}Ta{\k146.0}tta {\k29.2}hi{\k25.0}to{\k33.4}ri {\k171.0}de {\k25.0}sa{\k20.8}bi{\k121.0}shii {\k54.2}ke{\k66.7}re{\k212.8}do{NOTE:たった一人で淋しいけれど}
+Dialogue: 0,0:24:25.16,0:24:33.62,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1465160,1473626}{\k91.7}Ko{\k29.2}ko{\k58.4}ro {\k62.6}no {\k83.4}u{\k50.0}ta {\k87.6}wo {\k29.2}mi{\k29.2}n{\k33.4}na {\k29.2}no {\k54.2}u{\k54.2}ta {\k154.3}ni{NOTE:心の歌をみんなの歌に}
+Dialogue: 0,0:24:33.62,0:24:42.80,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1473626,1482802}{\k50.1}Mi{\k29.2}n{\k91.7}na {\k41.7}no {\k37.6}u{\k83.4}ta {\k191.9}ga {\k37.5}ba{\k37.5}chi {\k45.9}i{\k79.3}ppa{\k50.0}i {\k141.8}ni{NOTE:みんなの歌が町いっぱいに}
+Dialogue: 0,0:24:42.80,0:24:51.93,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1482802,1491936}{\k33.4}I{\k33.4}tsu{\k87.5}ka {\k20.9}hi{\k58.4}ro{\k91.7}ga{\k179.4}ru {\k41.7}a{\k25.0}shi{\k25.0}ta {\k29.2}wo {\k33.4}shi{\k25.0}n{\k37.6}ji{\k58.4}yo{\k133.4}u{NOTE:いつか広がる明日を信じよう}
+Dialogue: 0,0:24:51.93,0:25:05.11,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1491936,1505116}{\fad(0,1000)\k25.1}I{\k25.0}tsu{\k87.6}ka {\k25.0}hi{\k58.4}ro{\k87.6}ga{\k196.0}ru {\k33.4}a{\k37.5}shi{\k29.2}ta {\k25.0}wo {\k37.6}shi{\k41.7}n{\k66.7}ji{\k87.6}yo{\k454.6}u{NOTE:いつか広がる明日を信じよう}
+Dialogue: 0,0:23:57.25,0:24:06.85,Karaoke English,[karaoke],0,0,0,,{TIME:1437257,1446850}Music is my friend{NOTE:うたは私の友達だから}
+Dialogue: 0,0:24:06.85,0:24:15.35,Karaoke English,[karaoke],0,0,0,,{TIME:1446850,1455358}When things get hard, it stays with me{NOTE:苦しい時も私の味方}
+Dialogue: 0,0:24:15.35,0:24:25.16,Karaoke English,[karaoke],0,0,0,,{TIME:1455358,1465160}Heard alone it's lonely, but{NOTE:たった一人で淋しいけれど}
+Dialogue: 0,0:24:25.16,0:24:33.62,Karaoke English,[karaoke],0,0,0,,{TIME:1465160,1473626}Heard together it resonates with everyone{NOTE:心の歌をみんなの歌に}
+Dialogue: 0,0:24:33.62,0:24:42.80,Karaoke English,[karaoke],0,0,0,,{TIME:1473626,1482802}I hope the people downtown can hear it{NOTE:みんなの歌が町いっぱいに}
+Dialogue: 0,0:24:42.80,0:24:51.93,Karaoke English,[karaoke],0,0,0,,{TIME:1482802,1491936}Let's believe in the tomorrow\Nthat will spread someday{NOTE:いつか広がる明日を信じよう}
+Dialogue: 0,0:24:51.93,0:25:05.11,Karaoke English,[karaoke],0,0,0,,{TIME:1491936,1505116}{\fad(0,1000)}Let's believe in the tomorrow\Nthat will spread someday{NOTE:いつか広がる明日を信じよう}
