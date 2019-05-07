@@ -54,7 +54,7 @@ Dialogue: 0,0:02:00.69,0:02:05.82,Sign,(sign),0,0,0,,{TIME:120692,125822}Account
 Dialogue: 0,0:02:01.65,0:02:04.27,Default,Accountant,0,0,0,,{TIME:121652,124279}You need to understand\Nthat we can't wait forever.
 Dialogue: 0,0:02:04.27,0:02:06.78,Default,Accountant,0,0,0,,{TIME:124279,126782}The money for the last month…
 Dialogue: 0,0:02:06.78,0:02:08.90,Default,Mine Nozomi,0,0,0,,{TIME:126782,128909}I'm not saying we won't pay.
-Dialogue: 0,0:02:08.90,0:02:11.07,Default,Mine Nozomi,0,0,0,,{TIME:128909,131078}I'm just asking you to\Ngive us a little longer.
+Dialogue: 0,0:02:08.90,0:02:11.07,Default,Mine Nozomi,0,0,0,,{TIME:128909,131078}I'm just asking you\Nto give us a little longer.
 Dialogue: 0,0:02:13.62,0:02:18.58,Default,Accountant,0,0,0,,{TIME:133622,138585}Considering the situation you're in,\NI'll see what I can do regarding the deadline.
 Dialogue: 0,0:02:18.58,0:02:20.21,Default,Mine Nozomi,0,0,0,,{TIME:138585,140212}Thank you very much.
 Dialogue: 0,0:02:20.21,0:02:23.75,Default,Accountant,0,0,0,,{TIME:140212,143757}It's just that 200,000 yen\Nis a lot of money.
@@ -108,9 +108,10 @@ Dialogue: 0,0:05:19.76,0:05:23.06,Default,(mixed),0,0,0,,{TIME:319766,323061}–
 Dialogue: 0,0:05:23.39,0:05:26.85,Default,Mine Nozomi,0,0,0,,{TIME:323395,326857}I just have to sing\Nwell enough a few times.
 Dialogue: 0,0:05:26.85,0:05:28.56,Default,Mine Nozomi,0,0,0,,{TIME:326857,328567}I'll definitely win.\NJust watch me.
 Dialogue: 0,0:05:29.44,0:05:31.57,Default,Mine Shizuko,0,0,0,,{TIME:329443,331570}You sure are confident.
-Dialogue: 0,0:05:33.78,0:05:38.53,Sign,(sign),0,0,0,,{TIME:333780,338535}TV "Channel"{NOTE:チャンネルTV}
+Dialogue: 0,0:05:33.78,0:05:38.53,Sign,(sign),0,0,0,,{TIME:333780,338535}{\fad(2000,500)\t(2755,4755,\1c&H101010&\3c&H101010&\4c&H101010&)}TV "Channel"{NOTE:チャンネルTV}
+Dialogue: 0,0:05:42.58,0:05:47.50,Sign,(sign),0,0,0,,{TIME:342581,347502}{\fad(0,2000)}"Aim For The Stars"\NContestants Audition Venue{NOTE:歌えチャンピオンオーディション\\N出場者選出会場}
 Dialogue: 0,0:05:50.17,0:05:52.34,Default,Announcer,0,0,0,,{TIME:350172,352340}Thank you all for waiting.
-Dialogue: 0,0:05:52.34,0:05:56.47,Default,Announcer,0,0,0,,{TIME:352340,356470}After careful examination of the audition results,\Nwe've decided to take four candidates.
+Dialogue: 0,0:05:52.34,0:05:56.47,Default,Announcer,0,0,0,,{TIME:352340,356470}After careful examination of the audition results,\Nwe've decided to accept four candidates.
 Dialogue: 0,0:05:56.47,0:05:58.59,Default,Announcer,0,0,0,,{TIME:356470,358597}I'll now read their names.
 Dialogue: 0,0:05:59.09,0:06:00.18,Default,Announcer,0,0,0,,{TIME:359097,360182}Yamada Kazuko-san.
 Dialogue: 0,0:06:00.18,0:06:01.18,Default,Yamada Kazuko,0,0,0,,{TIME:360182,361183}Here.
@@ -131,7 +132,7 @@ Dialogue: 0,0:06:41.97,0:06:45.81,Default,Kumagorō,0,0,0,,{TIME:401973,405811}I
 Dialogue: 0,0:06:45.81,0:06:48.10,Default,Kumagorō,0,0,0,,{TIME:405811,408104}How am I going to cheer for her?
 Dialogue: 0,0:06:48.10,0:06:51.19,Default,Mine Shizuko,0,0,0,,{TIME:408104,411191}Don't feel hurt, Kuma-san.
 Dialogue: 0,0:06:51.19,0:06:55.73,Default,Mine Shizuko,0,0,0,,{TIME:411191,415737}She's the kind of girl who does things without\Nthinking twice, not to mention warning anyone.
-Dialogue: 0,0:06:56.82,0:06:59.49,Default,Kumagorō,0,0,0,,{TIME:416822,419491}In fact I think that's one\Nof Nozomi-chan's virtues.
+Dialogue: 0,0:06:56.82,0:06:59.49,Default,Kumagorō,0,0,0,,{TIME:416822,419491}Yeah, that's actually one\Nof Nozomi-chan's virtues.
 Dialogue: 0,0:06:59.49,0:07:00.65,Default,Mine Kazuo,0,0,0,,{TIME:419491,420659}Ah!
 Dialogue: 0,0:07:01.11,0:07:03.28,Default,Mine Kazuo,0,0,0,,{TIME:421117,423286}Now it's Sis' turn!
 Dialogue: 0,0:07:03.28,0:07:04.66,Default,Kumagorō,0,0,0,,{TIME:423286,424663}Oh? Where, where?
@@ -154,7 +155,7 @@ Dialogue: 0,0:08:16.98,0:08:19.02,Default,Critic,0,0,0,,{TIME:496985,499029}Very
 Dialogue: 0,0:08:19.02,0:08:21.99,Default,Critic,0,0,0,,{TIME:499029,501990}I can't find fault with anything.\NTen out of ten.
 Dialogue: 0,0:08:23.90,0:08:27.37,Sign,(sign),0,0,0,,{TIME:503909,507370}Yamada · Mine{NOTE:山田 · 峰}
 Dialogue: 0,0:08:27.87,0:08:30.54,Default,(mixed),0,0,0,,{TIME:507871,510540}She did it! Alright!
-Dialogue: 0,0:08:30.54,0:08:33.54,Default,Mine Kazuo,0,0,0,,{TIME:510540,513543}You heard, Mom? She's won!
+Dialogue: 0,0:08:30.54,0:08:33.54,Default,Mine Kazuo,0,0,0,,{TIME:510540,513543}Heard that, Mom? She won!
 Dialogue: 0,0:08:33.54,0:08:36.63,Default,Mine Shizuko,0,0,0,,{TIME:513543,516630}I'm happy for her.
 Dialogue: 0,0:08:43.21,0:08:48.30,Default,Narrator,0,0,0,,{TIME:523219,528308}{\i1}With her outstanding singing skills, Nozomi\Nwon for the second, then for the third,
 Dialogue: 0,0:08:48.30,0:08:52.14,Default,Narrator,0,0,0,,{TIME:528308,532145}{\i1}then for the fourth time,\Nqualifying for the final round.
@@ -168,7 +169,7 @@ Dialogue: 0,0:09:20.00,0:09:25.51,Default,Kōda Miki,0,0,0,,{TIME:560006,565512}
 Dialogue: 0,0:09:26.26,0:09:30.64,Default,Kōda Miki,0,0,0,,{TIME:566262,570642}There is only one thing that is more\Nimportant to Nozomi than music.
 Dialogue: 0,0:09:32.43,0:09:35.98,Default,Kōda Miki,0,0,0,,{TIME:572435,575981}You see, she's in love with\Na boy called Fanni.
 Dialogue: 0,0:09:35.98,0:09:39.31,Default,Kōda Sumiyo,0,0,0,,{TIME:575981,579317}Fanni? Ah, that boxer\Nwho went to America?
-Dialogue: 0,0:09:39.31,0:09:44.69,Default,Kōda Miki,0,0,0,,{TIME:579317,584698}Yes. What if she learned that he\Nhas suddenly returned home?
+Dialogue: 0,0:09:39.31,0:09:44.69,Default,Kōda Miki,0,0,0,,{TIME:579317,584698}Yes. What if she learned that\Nhe has suddenly returned home?
 Dialogue: 0,0:09:44.69,0:09:47.49,Default,Kōda Miki,0,0,0,,{TIME:584698,587492}If he asked to pick him up from\NHaneda Airport when the contest is on?
 Dialogue: 0,0:09:47.49,0:09:49.78,Default,Kōda Sumiyo,0,0,0,,{TIME:587492,589786}Miki, you can't be serious.
 Dialogue: 0,0:09:49.78,0:09:51.74,Default,Kōda Miki,0,0,0,,{TIME:589786,591746}Things are getting interesting.
@@ -239,7 +240,7 @@ Dialogue: 0,0:13:04.52,0:13:07.15,Default,Mine Nozomi,0,0,0,,{TIME:784522,787150
 Dialogue: 0,0:13:07.15,0:13:09.56,Default,Mine Nozomi,0,0,0,,{TIME:787150,789569}{\i1}Fanni will be at the airport at 2.
 Dialogue: 0,0:13:15.53,0:13:20.07,Default,Mine Nozomi,0,0,0,,{TIME:795533,800079}{\i1}But if I pass that up, there's no knowing\Nwhen I get to meet him next time.
 Dialogue: 0,0:13:20.07,0:13:22.70,Default,Mine Nozomi,0,0,0,,{TIME:800079,802707}{\i1}Ah, what should I do?
-Dialogue: 0,0:13:40.26,0:13:45.06,Default,Kōda Miki,0,0,0,,{TIME:820266,825063}If Nozomi really shows up, it means\Nthat she really is in love with Fanni.
+Dialogue: 0,0:13:40.26,0:13:45.06,Default,Kōda Miki,0,0,0,,{TIME:820266,825063}If Nozomi shows up, it means\Nthat she really is in love with Fanni.
 Dialogue: 0,0:13:45.06,0:13:50.19,Default,Kōda Miki,0,0,0,,{TIME:825063,830193}But why is the renowned lyricist Nohara Jun\Npursuing some oden stand girl?
 Dialogue: 0,0:13:50.61,0:13:53.90,Default,Kōda Miki,0,0,0,,{TIME:830610,833905}That's not how you\Nshould make the headlines.
 Dialogue: 0,0:13:53.90,0:14:00.11,Default,Kōda Miki,0,0,0,,{TIME:833905,840119}It'd be much better if you romanced with me,\Na daughter of a wealthy industrialist.
@@ -264,7 +265,7 @@ Dialogue: 0,0:15:20.28,0:15:22.99,Default,Nohara Jun,0,0,0,,{TIME:920283,922994}
 Dialogue: 0,0:15:22.99,0:15:29.41,Default,Nohara Jun,0,0,0,,{TIME:922994,929417}I'm sure your beloved Fanni looks to you\Nlike he's the best man in the world right now,
 Dialogue: 0,0:15:29.41,0:15:32.37,Default,Nohara Jun,0,0,0,,{TIME:929417,932378}but I guarantee that he'll lose\Nhis shine some day as well.
 Dialogue: 0,0:15:32.37,0:15:36.88,Default,Nohara Jun,0,0,0,,{TIME:932378,936883}If he doesn't, you'd better be aware\Nthat you can't survive in this world.
-Dialogue: 0,0:15:38.96,0:15:41.88,Default,Kōda Miki,0,0,0,,{TIME:938968,941888}Now we've done it, Nohara-san.
+Dialogue: 0,0:15:38.96,0:15:41.88,Default,Kōda Miki,0,0,0,,{TIME:938968,941888}Now you've done it, Nohara-san.
 Dialogue: 0,0:15:41.88,0:15:45.89,Default,Kōda Miki,0,0,0,,{TIME:941888,945892}But no matter how hard she tries, there's no way\Nshe can make it to the studio in time.
 Dialogue: 0,0:15:54.60,0:15:58.69,Default,Taxi driver,0,0,0,,{TIME:954609,958696}20 minutes? That's impossible.\NWe won't make it.
 Dialogue: 0,0:15:58.69,0:16:00.99,Default,Mine Nozomi,0,0,0,,{TIME:958696,960990}Please, you have to do something.
@@ -287,7 +288,7 @@ Dialogue: 0,0:17:08.59,0:17:14.02,Default,Announcer,0,0,0,,{TIME:1028599,1034021
 Dialogue: 0,0:17:14.02,0:17:18.27,Default,Announcer,0,0,0,,{TIME:1034021,1038276}The final round of the latest season\Nof "Aim For The Stars"!
 Dialogue: 0,0:17:22.48,0:17:27.24,Default,Announcer,0,0,0,,{TIME:1042488,1047243}Ladies and gentlemen, we must also inform you\Nthat unfortunately Mine Nozomi-san,
 Dialogue: 0,0:17:27.24,0:17:31.53,Default,Announcer,0,0,0,,{TIME:1047243,1051539}the girl who has proved last week\Nto have the best voice, hasn't arrived yet.
-Dialogue: 0,0:17:31.53,0:17:37.71,Default,Announcer,0,0,0,,{TIME:1051539,1057712}If she doesn't show up after the challenger's song,\Nshe'll regretfully have to be disqualified.
+Dialogue: 0,0:17:31.53,0:17:37.71,Default,Announcer,0,0,0,,{TIME:1051539,1057712}If she doesn't show up before the challenger's song,\Nshe'll regretfully have to be disqualified.
 Dialogue: 0,0:17:37.71,0:17:41.00,Default,Announcer,0,0,0,,{TIME:1057712,1061007}Well, here's the first contestant!\NThis way, please!
 Dialogue: 0,0:17:43.67,0:17:45.59,Default,Mine Kazuo,0,0,0,,{TIME:1063676,1065595}What's going on?\NWhere is she?
 Dialogue: 0,0:17:45.59,0:17:48.30,Default,Mine Yuki,0,0,0,,{TIME:1065595,1068306}Sis, you dummy!\NYou're gonna lose!
@@ -364,7 +365,7 @@ Dialogue: 0,0:23:23.59,0:23:29.64,Default,Narrator,0,0,0,,{TIME:1403599,1409647}
 Dialogue: 0,0:23:29.64,0:23:32.52,Default,Narrator,0,0,0,,{TIME:1409647,1412525}{\i1}However, as if blind\Nto Nozomi's feelings,
 Dialogue: 0,0:23:32.52,0:23:37.65,Default,Narrator,0,0,0,,{TIME:1412525,1417655}{\i1}Egawa Isao focuses on teaching Miki,\Nwho is going to make her debut soon.
 Dialogue: 0,0:23:37.65,0:23:42.24,Default,Narrator,0,0,0,,{TIME:1417655,1422243}{\i1}Day after day, Nozomi becomes\Nmore and more anxious and impatient.
-Dialogue: 0,0:23:42.24,0:23:47.83,Default,Narrator,0,0,0,,{TIME:1422243,1427832}{\i1}Then she hears Egawa Isao cold words:\N"I have no intention to give you lessons".
+Dialogue: 0,0:23:42.24,0:23:47.83,Default,Narrator,0,0,0,,{TIME:1422243,1427832}{\i1}Then she hears Egawa Isao's cold words:\N"I have no intention to give you lessons".
 Dialogue: 0,0:23:47.83,0:23:52.62,Default,Narrator,0,0,0,,{TIME:1427832,1432628}{\i1}Please look forward to the next episode:\N"Singing In The Sunset".
 Comment: 0,0:23:53.46,0:23:53.46,Default,[chapter],0,0,0,,{TIME:1433462,1433462}Ending
 Dialogue: 0,0:23:57.67,0:24:07.26,Karaoke Romaji,[karaoke],0,0,0,,{TIME:1437675,1447268}{\k20.0}{\k30.0}U{\k33.4}ta {\k137.6}wa {\k37.6}wa{\k20.8}ta{\k41.7}shi {\k158.5}no {\k33.4}to{\k33.4}mo{\k79.2}da{\k33.4}chi {\k54.2}da{\k54.2}ka{\k191.9}ra{NOTE:うたは私の友達だから}
