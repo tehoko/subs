@@ -13,46 +13,46 @@ Title: Meiken Lassie - 01
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: lassie default,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,15,1
+Style: lassie default,Rubik Medium,31,&H00F5F8FA,&H000000FF,&H1419232D,&H0019232D,0,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,15,1
 Style: lassie group,Caxton Std,27,&H002156D2,&H00000000,&H37000000,&H69000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.0,0.5,2,10,10,10,1
-Style: lassie song en,FOT Manyo Sosho Std Stripped,35,&H00E5ECED,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.5,8,10,10,10,1
-Style: lassie song jp,Cocogoose,25,&H00E4EBED,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,15,1
-Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
-Style: lassie episode,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
+Style: lassie song en,FOT Manyo Sosho Std Stripped,35,&H00E5ECED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.5,8,10,10,10,1
+Style: lassie song jp,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,15,1
+Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
+Style: lassie episode,Round Irregularity,40,&H00D4D2D0,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
 Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:04.94,lassie group,,0,0,0,,{TIME:0,4943}{\pos(320,188)}OldCastle and South Wind Subs present
+Dialogue: 0,0:00:00.00,0:00:04.94,lassie group,,0,0,0,,{TIME:0,4943}{\pos(320,188)}South Wind Subs and OldCastle present
 Dialogue: 0,0:00:00.00,0:00:04.94,lassie wmt,,0,0,0,,{TIME:0,4943}{\pos(320,312)}WORLD MASTERPIECE THEATER
-Dialogue: 0,0:00:05.65,0:00:12.78,lassie title,,0,0,0,,{TIME:5652,12784}{\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
+Dialogue: 0,0:00:05.65,0:00:12.78,lassie title,,0,0,0,,{TIME:5652,12784}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
 Dialogue: 0,0:00:06.15,0:00:12.32,lassie default,,0,0,0,,{TIME:6152,12325}{\fs28\i1\pos(320,460)}"Neverending Story" sung by Jun Morioka
-Dialogue: 0,0:00:16.78,0:00:23.08,lassie song jp,[karaoke],0,0,0,,{TIME:16788,23086}ryoute ni atarashii asa{NOTE:両手に新しい朝}
-Dialogue: 0,0:00:24.87,0:00:28.88,lassie song jp,[karaoke],0,0,0,,{TIME:24879,28883}jibun ni kitaishite{NOTE:自分に期待して}
-Dialogue: 0,0:00:29.88,0:00:32.47,lassie song jp,[karaoke],0,0,0,,{TIME:29884,32470}aruite yukou{NOTE:歩いて行こう}
-Dialogue: 0,0:00:33.13,0:00:35.80,lassie song jp,[karaoke],0,0,0,,{TIME:33137,35807}osanai hi{NOTE:幼い日}
-Dialogue: 0,0:00:36.97,0:00:40.77,lassie song jp,[karaoke],0,0,0,,{TIME:36975,40770}chiisana mune wo{NOTE:ちいさな胸を}
-Dialogue: 0,0:00:41.22,0:00:43.85,lassie song jp,[karaoke],0,0,0,,{TIME:41229,43856}tokimekaseteta{NOTE:ときめかせてた}
-Dialogue: 0,0:00:44.02,0:00:46.77,lassie song jp,[karaoke],0,0,0,,{TIME:44023,46776}zutto{NOTE:ずっと}
-Dialogue: 0,0:00:46.98,0:00:50.69,lassie song jp,[karaoke],0,0,0,,{TIME:46985,50697}soba de mimamotteru{NOTE:そばで見守ってる}
-Dialogue: 0,0:00:51.82,0:00:58.66,lassie song jp,[karaoke],0,0,0,,{TIME:51823,58663}daichi no komoriuta no you ni{NOTE:大地の子守歌のように}
-Dialogue: 0,0:00:58.83,0:01:02.37,lassie song jp,[karaoke],0,0,0,,{TIME:58830,62375}sore wa kitto{NOTE:それはきっと}
-Dialogue: 0,0:01:02.58,0:01:06.29,lassie song jp,[karaoke],0,0,0,,{TIME:62584,66296}dare no naka ni mo aru{NOTE:誰の中にもある}
-Dialogue: 0,0:01:06.58,0:01:13.92,lassie song jp,[karaoke],0,0,0,,{TIME:66588,73928}owaranai monogatari{NOTE:終わらない物語}
-Dialogue: 0,0:00:16.78,0:00:23.08,lassie song en,[karaoke],0,0,0,,{TIME:16788,23086}Walk towards
-Dialogue: 0,0:00:24.87,0:00:28.88,lassie song en,[karaoke],0,0,0,,{TIME:24879,28883}the new day
-Dialogue: 0,0:00:29.88,0:00:32.47,lassie song en,[karaoke],0,0,0,,{TIME:29884,32470}with hope
-Dialogue: 0,0:00:33.13,0:00:35.80,lassie song en,[karaoke],0,0,0,,{TIME:33137,35807}In my childhood days,
-Dialogue: 0,0:00:36.97,0:00:40.77,lassie song en,[karaoke],0,0,0,,{TIME:36975,40770}my little heart
-Dialogue: 0,0:00:41.22,0:00:43.85,lassie song en,[karaoke],0,0,0,,{TIME:41229,43856}beat faster
-Dialogue: 0,0:00:44.02,0:00:46.77,lassie song en,[karaoke],0,0,0,,{TIME:44023,46776}I will
-Dialogue: 0,0:00:46.98,0:00:50.69,lassie song en,[karaoke],0,0,0,,{TIME:46985,50697}watch over you always,
-Dialogue: 0,0:00:51.82,0:00:58.66,lassie song en,[karaoke],0,0,0,,{TIME:51823,58663}like a lullaby from the earth
-Dialogue: 0,0:00:58.83,0:01:02.37,lassie song en,[karaoke],0,0,0,,{TIME:58830,62375}I'm sure everyone
-Dialogue: 0,0:01:02.58,0:01:06.29,lassie song en,[karaoke],0,0,0,,{TIME:62584,66296}has one within them,
-Dialogue: 0,0:01:06.58,0:01:13.92,lassie song en,[karaoke],0,0,0,,{TIME:66588,73928}a neverending story
-Dialogue: 0,0:01:20.56,0:01:28.19,lassie episode,[title],0,0,0,,{TIME:80560,88192}{\fad(1500,0)\pos(320,300)\1c&HD0CFC7&}I'M NOT ALONE
-Dialogue: 0,0:01:33.07,0:01:33.99,lassie default,,0,0,0,,{TIME:93072,93990}Hot! Hot!
+Dialogue: 0,0:00:16.78,0:00:23.08,lassie song jp,[karaoke],0,0,0,,{TIME:16788,23086}{\blur0.5}ryoute ni atarashii asa{NOTE:両手に新しい朝}
+Dialogue: 0,0:00:24.87,0:00:28.88,lassie song jp,[karaoke],0,0,0,,{TIME:24879,28883}{\blur0.5}jibun ni kitaishite{NOTE:自分に期待して}
+Dialogue: 0,0:00:29.88,0:00:32.47,lassie song jp,[karaoke],0,0,0,,{TIME:29884,32470}{\blur0.5}aruite yukou{NOTE:歩いて行こう}
+Dialogue: 0,0:00:33.13,0:00:35.80,lassie song jp,[karaoke],0,0,0,,{TIME:33137,35807}{\blur0.5}osanai hi{NOTE:幼い日}
+Dialogue: 0,0:00:36.97,0:00:40.77,lassie song jp,[karaoke],0,0,0,,{TIME:36975,40770}{\blur0.5}chiisana mune wo{NOTE:ちいさな胸を}
+Dialogue: 0,0:00:41.22,0:00:43.85,lassie song jp,[karaoke],0,0,0,,{TIME:41229,43856}{\blur0.5}tokimekaseteta{NOTE:ときめかせてた}
+Dialogue: 0,0:00:44.02,0:00:46.77,lassie song jp,[karaoke],0,0,0,,{TIME:44023,46776}{\blur0.5}zutto{NOTE:ずっと}
+Dialogue: 0,0:00:46.98,0:00:50.69,lassie song jp,[karaoke],0,0,0,,{TIME:46985,50697}{\blur0.5}soba de mimamotteru{NOTE:そばで見守ってる}
+Dialogue: 0,0:00:51.82,0:00:58.66,lassie song jp,[karaoke],0,0,0,,{TIME:51823,58663}{\blur0.5}daichi no komoriuta no you ni{NOTE:大地の子守歌のように}
+Dialogue: 0,0:00:58.83,0:01:02.37,lassie song jp,[karaoke],0,0,0,,{TIME:58830,62375}{\blur0.5}sore wa kitto{NOTE:それはきっと}
+Dialogue: 0,0:01:02.58,0:01:06.29,lassie song jp,[karaoke],0,0,0,,{TIME:62584,66296}{\blur0.5}dare no naka ni mo aru{NOTE:誰の中にもある}
+Dialogue: 0,0:01:06.58,0:01:13.92,lassie song jp,[karaoke],0,0,0,,{TIME:66588,73928}{\blur0.5}owaranai monogatari{NOTE:終わらない物語}
+Dialogue: 0,0:00:16.78,0:00:23.08,lassie song en,[karaoke],0,0,0,,{TIME:16788,23086}{\blur0.5}Walk towards
+Dialogue: 0,0:00:24.87,0:00:28.88,lassie song en,[karaoke],0,0,0,,{TIME:24879,28883}{\blur0.5}the new day
+Dialogue: 0,0:00:29.88,0:00:32.47,lassie song en,[karaoke],0,0,0,,{TIME:29884,32470}{\blur0.5}with hope
+Dialogue: 0,0:00:33.13,0:00:35.80,lassie song en,[karaoke],0,0,0,,{TIME:33137,35807}{\blur0.5}In my childhood days,
+Dialogue: 0,0:00:36.97,0:00:40.77,lassie song en,[karaoke],0,0,0,,{TIME:36975,40770}{\blur0.5}my little heart
+Dialogue: 0,0:00:41.22,0:00:43.85,lassie song en,[karaoke],0,0,0,,{TIME:41229,43856}{\blur0.5}beat faster
+Dialogue: 0,0:00:44.02,0:00:46.77,lassie song en,[karaoke],0,0,0,,{TIME:44023,46776}{\blur0.5}I will
+Dialogue: 0,0:00:46.98,0:00:50.69,lassie song en,[karaoke],0,0,0,,{TIME:46985,50697}{\blur0.5}watch over you always,
+Dialogue: 0,0:00:51.82,0:00:58.66,lassie song en,[karaoke],0,0,0,,{TIME:51823,58663}{\blur0.5}like a lullaby from the earth
+Dialogue: 0,0:00:58.83,0:01:02.37,lassie song en,[karaoke],0,0,0,,{TIME:58830,62375}{\blur0.5}I'm sure everyone
+Dialogue: 0,0:01:02.58,0:01:06.29,lassie song en,[karaoke],0,0,0,,{TIME:62584,66296}{\blur0.5}has one within them,
+Dialogue: 0,0:01:06.58,0:01:13.92,lassie song en,[karaoke],0,0,0,,{TIME:66588,73928}{\blur0.5}a neverending story
+Dialogue: 0,0:01:20.56,0:01:28.19,lassie episode,[title],0,0,0,,{TIME:80560,88192}{\blur0.5\fad(1500,0)\pos(320,300)}I'M NOT ALONE
+Dialogue: 0,0:01:33.07,0:01:34.82,lassie default,,0,0,0,,{TIME:93072,94824}Hot! Hot!
 Dialogue: 0,0:01:43.91,0:01:46.66,lassie default,,0,0,0,,{TIME:103916,106669}John? I'm going soon.
 Dialogue: 0,0:01:59.68,0:02:01.68,lassie default,,0,0,0,,{TIME:119682,121684}Jules Verne, huh?
 Dialogue: 0,0:02:03.35,0:02:04.85,lassie default,,0,0,0,,{TIME:123353,124854}I read him a lot, too.
@@ -105,11 +105,11 @@ Dialogue: 0,0:05:19.96,0:05:22.71,lassie default,,0,0,0,,{TIME:319966,322718}Wha
 Dialogue: 0,0:05:22.71,0:05:25.09,lassie default,,0,0,0,,{TIME:322718,325096}At least say\N"good morning" to your son.
 Dialogue: 0,0:05:25.09,0:05:26.59,lassie default,,0,0,0,,{TIME:325096,326597}Oh, Doctor…
 Dialogue: 0,0:05:32.77,0:05:34.06,lassie default,,0,0,0,,{TIME:332770,334063}Mom!
-Dialogue: 0,0:05:34.64,0:05:37.40,lassie default,,0,0,0,,{TIME:334647,337400}Ggood morning, John.\NDid you eat your breakfast today?
+Dialogue: 0,0:05:34.64,0:05:37.40,lassie default,,0,0,0,,{TIME:334647,337400}Good morning, John.\NDid you eat your breakfast today?
 Dialogue: 0,0:05:37.40,0:05:39.77,lassie default,,0,0,0,,{TIME:337400,339777}Yes. Dad made it for me.
 Dialogue: 0,0:05:40.52,0:05:42.98,lassie default,,0,0,0,,{TIME:340528,342989}It must be tough for you,\Nstaying up all night long.
 Dialogue: 0,0:05:43.90,0:05:45.49,lassie default,,0,0,0,,{TIME:343906,345491}I'm fine.
-Dialogue: 0,0:05:45.49,0:05:48.20,lassie default,,0,0,0,,{TIME:345491,348202}The lady who gives birth to the baby\Nalways has it most difficult.
+Dialogue: 0,0:05:45.49,0:05:48.20,lassie default,,0,0,0,,{TIME:345491,348202}The lady who gives birth to the baby\Nalways has it the worst.
 Dialogue: 0,0:05:48.20,0:05:50.78,lassie default,,0,0,0,,{TIME:348202,350788}The entire night passed\Nand the baby still didn't come out.
 Dialogue: 0,0:05:53.33,0:05:56.46,lassie default,,0,0,0,,{TIME:353332,356460}Oh, good, good.\NYou're almost there.
 Dialogue: 0,0:05:56.46,0:05:58.17,lassie default,,0,0,0,,{TIME:356460,358170}Mrs. Carraclough!\NI need your help!
@@ -124,11 +124,11 @@ Dialogue: 0,0:06:31.07,0:06:35.12,lassie default,,0,0,0,,{TIME:391078,395124}Hey
 Dialogue: 0,0:06:35.12,0:06:36.87,lassie default,,0,0,0,,{TIME:395124,396876}The baby's here!
 Dialogue: 0,0:06:36.87,0:06:38.83,lassie default,,0,0,0,,{TIME:396876,398836}It's a girl!
 Dialogue: 0,0:06:38.83,0:06:40.21,lassie default,,0,0,0,,{TIME:398836,400212}It's a girl!
-Dialogue: 0,0:06:47.76,0:06:50.13,lassie default,,0,0,0,,{TIME:407762,410139}Congrats!\NYou became a father!
+Dialogue: 0,0:06:47.76,0:06:50.13,lassie default,,0,0,0,,{TIME:407762,410139}Congrats!\NYou're a father now, you rascal!
 Dialogue: 0,0:06:51.68,0:06:53.60,lassie default,,0,0,0,,{TIME:411682,413601}Congratulations!
 Dialogue: 0,0:06:54.35,0:06:55.72,lassie default,,0,0,0,,{TIME:414352,415728}Thank you, thank you!
 Dialogue: 0,0:07:08.78,0:07:10.32,lassie default,,0,0,0,,{TIME:428783,430326}Hey, Colin.
-Dialogue: 0,0:07:10.32,0:07:12.82,lassie default,,0,0,0,,{TIME:430326,432828}Why don't we come to the river\Nbefore we go home?
+Dialogue: 0,0:07:10.32,0:07:12.82,lassie default,,0,0,0,,{TIME:430326,432828}Why don't we come\Nto the river after school?
 Dialogue: 0,0:07:14.28,0:07:18.29,lassie default,,0,0,0,,{TIME:434288,438292}I'd like to,\Nbut I have work in the store.
 Dialogue: 0,0:07:20.50,0:07:24.84,lassie default,,0,0,0,,{TIME:440503,444840}Oh, well. My mom's gonna\Nbe home soon, anyway.
 Dialogue: 0,0:07:24.84,0:07:26.55,lassie default,,0,0,0,,{TIME:444840,446550}The river, you say?
@@ -163,7 +163,7 @@ Dialogue: 0,0:09:22.83,0:09:23.95,lassie default,,0,0,0,,{TIME:562833,563959}No 
 Dialogue: 0,0:09:33.05,0:09:34.55,lassie default,,0,0,0,,{TIME:573052,574553}Ah, John.
 Dialogue: 0,0:09:34.80,0:09:36.05,lassie default,,0,0,0,,{TIME:574804,576055}Mom!
 Dialogue: 0,0:09:36.05,0:09:37.55,lassie default,,0,0,0,,{TIME:576055,577556}You're such a baby.
-Dialogue: 0,0:09:38.22,0:09:41.64,lassie default,,0,0,0,,{TIME:578224,581644}I'm sorry, but I have to go out again.
+Dialogue: 0,0:09:38.22,0:09:41.64,lassie default,,0,0,0,,{TIME:578224,581644}I'm sorry,\Nbut I have to go out again.
 Dialogue: 0,0:09:41.64,0:09:44.52,lassie default,,0,0,0,,{TIME:581644,584522}A patient with peritonitis\Nis now down with a cold on top of it.
 Dialogue: 0,0:09:44.52,0:09:47.56,lassie default,,0,0,0,,{TIME:584522,587566}He is going to have a procedure\Nand I'll have to take care of him tonight.
 Dialogue: 0,0:09:48.19,0:09:50.94,lassie default,,0,0,0,,{TIME:588192,590945}But, Mom,\Nyou haven't slept last night.
@@ -176,7 +176,7 @@ Dialogue: 0,0:10:08.46,0:10:09.92,lassie default,,0,0,0,,{TIME:608462,609922}Tha
 Dialogue: 0,0:10:25.93,0:10:27.48,lassie default,,0,0,0,,{TIME:625938,627481}Colin!
 Dialogue: 0,0:10:28.73,0:10:29.77,lassie default,,0,0,0,,{TIME:628732,629775}John?
 Dialogue: 0,0:10:29.77,0:10:31.36,lassie default,,0,0,0,,{TIME:629775,631360}Hey, Colin!
-Dialogue: 0,0:10:31.36,0:10:33.98,lassie default,,0,0,0,,{TIME:631360,633988}I told you before, I can't play today.
+Dialogue: 0,0:10:31.36,0:10:33.98,lassie default,,0,0,0,,{TIME:631360,633988}I told you before,\NI can't play today.
 Dialogue: 0,0:10:33.98,0:10:36.69,lassie default,,0,0,0,,{TIME:633988,636699}I know. Did they\Nput you on delivery?
 Dialogue: 0,0:10:36.69,0:10:38.11,lassie default,,0,0,0,,{TIME:636699,638117}Are these the goods?
 Dialogue: 0,0:10:38.11,0:10:39.49,lassie default,,0,0,0,,{TIME:638117,639493}Yes.
@@ -194,7 +194,7 @@ Dialogue: 0,0:11:30.46,0:11:32.58,lassie default,,0,0,0,,{TIME:690461,692588}Oh,
 Dialogue: 0,0:11:36.50,0:11:41.26,lassie default,,0,0,0,,{TIME:696508,701263}Amazing… I'd love\Nto fly one some day.
 Dialogue: 0,0:11:46.01,0:11:47.77,lassie default,,0,0,0,,{TIME:706018,707770}It's landing here!
 Dialogue: 0,0:12:09.50,0:12:11.50,lassie default,,0,0,0,,{TIME:729500,731502}So awesome.
-Dialogue: 0,0:12:28.47,0:12:32.18,lassie default,,0,0,0,,{TIME:748477,752189}Hey, stay away from this bike!
+Dialogue: 0,0:12:28.47,0:12:32.18,lassie default,,0,0,0,,{TIME:748477,752189}Hey, stay away from the bike!
 Dialogue: 0,0:12:32.18,0:12:36.77,lassie default,,0,0,0,,{TIME:752189,756777}Hey, don't do that!\NIt's not mine, you know!
 Dialogue: 0,0:12:36.77,0:12:40.15,lassie default,,0,0,0,,{TIME:756777,760155}Don't touch it!
 Dialogue: 0,0:12:44.45,0:12:45.66,lassie default,,0,0,0,,{TIME:764451,765661}This is bad…
@@ -213,7 +213,7 @@ Dialogue: 0,0:13:49.85,0:13:53.52,lassie default,,0,0,0,,{TIME:829850,833520}Alr
 Dialogue: 0,0:14:01.52,0:14:04.15,lassie default,,0,0,0,,{TIME:841528,844156}Are you okay?
 Dialogue: 0,0:14:04.15,0:14:05.94,lassie default,,0,0,0,,{TIME:844156,845949}Did you get hurt?
 Dialogue: 0,0:14:27.67,0:14:32.30,lassie default,,0,0,0,,{TIME:867679,872309}Don't go near sheep again.\NYou'll be crushed if you do.
-Dialogue: 0,0:14:32.30,0:14:34.81,lassie default,,0,0,0,,{TIME:872309,874812}Now, go home to your owner. Okay?
+Dialogue: 0,0:14:32.30,0:14:34.81,lassie default,,0,0,0,,{TIME:872309,874812}Now, go home\Nto your owner. Okay?
 Dialogue: 0,0:14:36.81,0:14:41.06,lassie default,,0,0,0,,{TIME:876814,881068}I have to deliver these\Nas soon as possible.
 Dialogue: 0,0:14:41.06,0:14:42.61,lassie default,,0,0,0,,{TIME:881068,882611}Bye!
 Dialogue: 0,0:15:24.77,0:15:27.28,lassie default,,0,0,0,,{TIME:924778,927281}Oh, I'm so beat.
@@ -230,15 +230,15 @@ Dialogue: 0,0:16:14.03,0:16:18.49,lassie default,,0,0,0,,{TIME:974036,978499}Col
 Dialogue: 0,0:16:18.49,0:16:19.75,lassie default,,0,0,0,,{TIME:978499,979750}Laters!
 Dialogue: 0,0:16:23.04,0:16:23.71,lassie default,,0,0,0,,{TIME:983045,983712}John?
 Dialogue: 0,0:16:26.50,0:16:28.71,lassie default,,0,0,0,,{TIME:986507,988717}Faster! Faster! Faster!
-Dialogue: 0,0:16:39.93,0:16:41.81,lassie default,,0,0,0,,{TIME:999937,1001813}Look, I lit the fire.
-Dialogue: 0,0:16:42.81,0:16:44.31,lassie default,,0,0,0,,{TIME:1002814,1004316}Let's get you warmed up.
+Dialogue: 0,0:16:39.93,0:16:42.27,lassie default,,0,0,0,,{TIME:999937,1002272}Look, I lit the fire.
+Dialogue: 0,0:16:42.27,0:16:44.31,lassie default,,0,0,0,,{TIME:1002272,1004316}Now, let's get you warmed up.
 Dialogue: 0,0:16:48.07,0:16:54.24,lassie default,,0,0,0,,{TIME:1008070,1014243}My mom often comes back late,\Nso I know how to light it on.
 Dialogue: 0,0:16:54.24,0:16:56.49,lassie default,,0,0,0,,{TIME:1014243,1016495}What do you think?\NFeel any better?
 Dialogue: 0,0:17:02.87,0:17:06.29,lassie default,,0,0,0,,{TIME:1022876,1026296}What a good smell!\NIt's the food Mom has made.
 Dialogue: 0,0:17:07.71,0:17:11.05,lassie default,,0,0,0,,{TIME:1027714,1031051}Let me guess, you're hungry?
 Dialogue: 0,0:17:12.42,0:17:13.88,lassie default,,0,0,0,,{TIME:1032427,1033887}Wait here.
 Dialogue: 0,0:17:17.26,0:17:19.51,lassie default,,0,0,0,,{TIME:1037266,1039518}Oh? We ran out of milk.
-Dialogue: 0,0:17:19.51,0:17:21.43,lassie default,,0,0,0,,{TIME:1039518,1041436}Wait for me.\NI'm going to fetch some milk!
+Dialogue: 0,0:17:19.51,0:17:21.43,lassie default,,0,0,0,,{TIME:1039518,1041436}Wait for me.\NI'm going to fetch some!
 Dialogue: 0,0:17:32.86,0:17:34.57,lassie default,,0,0,0,,{TIME:1052864,1054575}Sandy!
 Dialogue: 0,0:17:43.41,0:17:46.29,lassie default,,0,0,0,,{TIME:1063417,1066295}What color is the puppy?
 Dialogue: 0,0:17:46.29,0:17:48.67,lassie default,,0,0,0,,{TIME:1066295,1068672}Hm, how to describe it…
@@ -258,7 +258,7 @@ Dialogue: 0,0:18:42.18,0:18:46.43,lassie default,,0,0,0,,{TIME:1122184,1126438}B
 Dialogue: 0,0:18:56.65,0:18:58.57,lassie default,,0,0,0,,{TIME:1136657,1138575}Looks like I'm stuck here.
 Dialogue: 0,0:18:59.91,0:19:02.62,lassie default,,0,0,0,,{TIME:1139910,1142621}Two people from section 2\Nhaven't returned yet.
 Dialogue: 0,0:19:02.62,0:19:04.08,lassie default,,0,0,0,,{TIME:1142621,1144081}I wonder what's going on?
-Dialogue: 0,0:19:06.37,0:19:09.08,lassie default,,0,0,0,,{TIME:1146375,1149086}They should've came back\Na long time ago.
+Dialogue: 0,0:19:06.37,0:19:09.08,lassie default,,0,0,0,,{TIME:1146375,1149086}They should've come back\Na long time ago.
 Dialogue: 0,0:19:11.08,0:19:13.59,lassie default,,0,0,0,,{TIME:1151088,1153590}I hope there wasn't an accident.
 Dialogue: 0,0:19:15.34,0:19:16.63,lassie default,,0,0,0,,{TIME:1155342,1156635}I can't believe it!
 Dialogue: 0,0:19:16.63,0:19:19.59,lassie default,,0,0,0,,{TIME:1156635,1159596}It was a helpless puppy\Njust seconds ago!
@@ -286,23 +286,23 @@ Dialogue: 0,0:20:36.63,0:20:38.00,lassie default,,0,0,0,,{TIME:1236631,1238008}Y
 Dialogue: 0,0:20:43.72,0:20:45.89,lassie default,,0,0,0,,{TIME:1243722,1245891}It's completely dark already.
 Dialogue: 0,0:20:46.55,0:20:49.31,lassie default,,0,0,0,,{TIME:1246558,1249311}You sure work hard,\NSam Carraclough.
 Dialogue: 0,0:20:50.52,0:20:52.89,lassie default,,0,0,0,,{TIME:1250520,1252898}No, that's not how it looks.
-Dialogue: 0,0:20:53.89,0:20:57.69,lassie default,,0,0,0,,{TIME:1253899,1257694}There were two men I didn't see,\Nso I rushed to look for them.
+Dialogue: 0,0:20:53.89,0:20:57.69,lassie default,,0,0,0,,{TIME:1253899,1257694}There were two men who didn't return,\Nso I rushed to look for them.
 Dialogue: 0,0:20:57.69,0:20:59.90,lassie default,,0,0,0,,{TIME:1257694,1259905}When I went down,\NI found them making toasts.
-Dialogue: 0,0:21:00.69,0:21:04.28,lassie default,,0,0,0,,{TIME:1260697,1264284}Today Hamilton had a baby.
+Dialogue: 0,0:21:00.69,0:21:04.28,lassie default,,0,0,0,,{TIME:1260697,1264284}Hamilton's baby was born today.
 Dialogue: 0,0:21:04.28,0:21:06.78,lassie default,,0,0,0,,{TIME:1264284,1266787}What about your own child?
 Dialogue: 0,0:21:06.78,0:21:10.16,lassie default,,0,0,0,,{TIME:1266787,1270165}Poor thing, all alone the whole day.\NWho's going to sing him a lullaby?
 Dialogue: 0,0:21:10.16,0:21:13.54,lassie default,,0,0,0,,{TIME:1270165,1273543}I-I know.\NI'm going to him right now.
 Dialogue: 0,0:21:15.42,0:21:16.79,lassie default,,0,0,0,,{TIME:1275420,1276797}John really means a lot…
 Dialogue: 0,0:21:18.00,0:21:18.54,lassie default,,0,0,0,,{TIME:1278006,1278548}John?
-Dialogue: 0,0:21:19.96,0:21:23.05,lassie default,,0,0,0,,{TIME:1279966,1283053}Don't tell me\Nyou've been waiting for me?
+Dialogue: 0,0:21:19.96,0:21:23.05,lassie default,,0,0,0,,{TIME:1279966,1283053}Don't tell me\Nhe's been waiting for me?
 Dialogue: 0,0:21:27.72,0:21:29.55,lassie default,,0,0,0,,{TIME:1287724,1289559}I wonder where it came from?
-Dialogue: 0,0:21:40.40,0:21:43.74,lassie default,,0,0,0,,{TIME:1300403,1303740}Looks like you\Nweren't alone, after all.
+Dialogue: 0,0:21:40.40,0:21:44.15,lassie default,,0,0,0,,{TIME:1300403,1304157}Looks like you\Nweren't alone, after all.
 Dialogue: 0,0:21:58.96,0:22:03.26,lassie default,,0,0,0,,{TIME:1318964,1323260}{\i1}I went to school and\NI left the puppy at home, but…
 Dialogue: 0,0:22:03.26,0:22:06.76,lassie default,,0,0,0,,{TIME:1323260,1326763}{\i1}it caused a huge mess.
 Dialogue: 0,0:22:06.76,0:22:08.34,lassie default,,0,0,0,,{TIME:1326763,1328348}{\i1}What should I do?
 Dialogue: 0,0:22:09.26,0:22:11.68,lassie default,,0,0,0,,{TIME:1329266,1331685}{\i1}Next episode:\N"A Big Mess At Home".
 Dialogue: 0,0:22:11.68,0:22:13.01,lassie default,,0,0,0,,{TIME:1331685,1333019}{\i1}Look forward to it!
-Dialogue: 0,0:22:15.35,0:22:19.23,lassie default,,0,0,0,,{TIME:1335355,1339234}{\fs28\i1\pos(320,465)}"Shounen no Oka" sung by Jun Morioka
+Dialogue: 0,0:22:15.35,0:22:19.23,lassie default,,0,0,0,,{TIME:1335355,1339234}{\fs28\i1\pos(320,465)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:24.03,0:22:27.24,lassie song jp,[karaoke],0,0,0,,{TIME:1344030,1347242}tasogare ni wa kimi to{NOTE:黄昏には君と}
 Dialogue: 0,0:22:27.40,0:22:31.20,lassie song jp,[karaoke],0,0,0,,{TIME:1347409,1351204}oka no ue kakenobori{NOTE:丘の上駆け登り}
 Dialogue: 0,0:22:31.53,0:22:34.41,lassie song jp,[karaoke],0,0,0,,{TIME:1351538,1354416}tooi sora o miteta{NOTE:遠い空を見えた}
