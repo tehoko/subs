@@ -20,7 +20,7 @@ Style: lassie song en ed,FOT Manyo Sosho Std Stripped,35,&H00EDEDFB,&H000000FF,&
 Style: lassie song jp op,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,15,1
 Style: lassie song jp ed,Cocogoose,25,&H00EDEDFB,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,20,9,1
 Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
-Style: lassie episode,Round Irregularity,40,&H00D4D2D0,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
+Style: lassie episode,Round Irregularity,40,&H00DED8CE,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
 Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
@@ -62,7 +62,7 @@ Dialogue: 0,0:02:12.28,0:02:13.55,lassie default,,0,0,0,,{TIME:132280,133550}Uh!
 Dialogue: 0,0:02:16.42,0:02:17.59,lassie default,,0,0,0,,{TIME:136420,137590}It's a dream!
 Dialogue: 0,0:02:18.61,0:02:19.74,lassie default,,0,0,0,,{TIME:138610,139740}Right.
 Dialogue: 0,0:02:19.86,0:02:21.28,lassie default,,0,0,0,,{TIME:139860,141280}It's just a dream.
-Dialogue: 0,0:02:22.74,0:02:27.11,lassie episode,,0,0,0,,{TIME:142740,147110}WELCOME BACK, LASSIE
+Dialogue: 0,0:02:22.62,0:02:27.50,lassie episode,[title],0,0,0,,{TIME:142622,147502}{\blur0.5\fad(300,0)\pos(320,295)}Welcome Back, Lassie
 Dialogue: 0,0:02:32.32,0:02:33.24,lassie default,,0,0,0,,{TIME:152320,153240}{\i1}John,{\i0}
 Dialogue: 0,0:02:33.89,0:02:36.61,lassie default,,0,0,0,,{TIME:153890,156610}{\i1}There is no news of Lassie for today.{\i0}
 Dialogue: 0,0:02:37.17,0:02:41.97,lassie default,,0,0,0,,{TIME:157170,161970}{\i1}Its last appearance was\Nthree days ago of West Darlington.{\i0}
@@ -375,7 +375,7 @@ Dialogue: 0,0:21:42.96,0:21:44.39,lassie default,,0,0,0,,{TIME:1302960,1304390}H
 Dialogue: 0,0:21:59.49,0:22:02.53,lassie default,,0,0,0,,{TIME:1319490,1322530}{\i1}After a long journey,\NLassie returned to our village!{\i0}
 Dialogue: 0,0:22:02.65,0:22:06.26,lassie default,,0,0,0,,{TIME:1322650,1326260}{\i1}After that it became famous in the newspapers!{\i0}
 Dialogue: 0,0:22:06.63,0:22:10.90,lassie default,,0,0,0,,{TIME:1326630,1330900}{\i1}That's why Duke Rudering decided\Nto organize a big party for it!{\i0}
-Dialogue: 0,0:22:11.76,0:22:14.57,lassie default,,0,0,0,,{TIME:1331760,1334570}{\i1}The last episode:\NRUNNING TOWARDS THE DREAM{\i0}
+Dialogue: 0,0:22:11.76,0:22:14.57,lassie default,,0,0,0,,{TIME:1331760,1334570}{\i1}The last episode:\N"Running Towards The Dream".{\i0}
 Dialogue: 0,0:22:14.85,0:22:16.11,lassie default,,0,0,0,,{TIME:1334850,1336110}{\i1}Be sure to watch!{\i0}
 Dialogue: 0,0:22:17.06,0:22:20.90,lassie default,,0,0,0,,{TIME:1337065,1340902}{\fs28\i1\pos(320,473)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:25.69,0:22:28.91,lassie song jp ed,[karaoke],0,0,0,,{TIME:1345699,1348910}tasogare ni wa kimi to{NOTE:黄昏には君と}

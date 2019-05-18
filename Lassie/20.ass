@@ -20,7 +20,7 @@ Style: lassie song en ed,FOT Manyo Sosho Std Stripped,35,&H00DFE3F5,&H000000FF,&
 Style: lassie song jp op,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,15,1
 Style: lassie song jp ed,Cocogoose,25,&H00DFE3F5,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,20,12,1
 Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
-Style: lassie episode,Round Irregularity,40,&H00D4D2D0,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
+Style: lassie episode,Round Irregularity,35,&H00DCDDC9,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
 Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
@@ -54,7 +54,7 @@ Dialogue: 0,0:00:58.78,0:01:02.33,lassie song en op,[karaoke],0,0,0,,{TIME:58788
 Dialogue: 0,0:01:02.54,0:01:06.25,lassie song en op,[karaoke],0,0,0,,{TIME:62542,66254}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.54,0:01:13.88,lassie song en op,[karaoke],0,0,0,,{TIME:66546,73886}{\blur0.5}a neverending story
 Dialogue: 0,0:01:24.21,0:01:25.52,lassie default,,0,0,0,,{TIME:84210,85520}{\i1}Ah, that's great!{\i0}
-Dialogue: 0,0:01:25.33,0:01:30.28,lassie episode,,0,0,0,,{TIME:85330,90280}IT IS SERIOUS! MY MOTHER FELL
+Dialogue: 0,0:01:25.48,0:01:30.36,lassie episode,[title],0,0,0,,{TIME:85481,90361}{\blur0.5\fad(300,0)\pos(320,290)}It's Serious! My Mother Collapsed
 Dialogue: 0,0:01:25.93,0:01:27.91,lassie default,,0,0,0,,{TIME:85930,87910}{\i1}It's just fever!{\i0}
 Dialogue: 0,0:01:28.01,0:01:30.28,lassie default,,0,0,0,,{TIME:88010,90280}{\i1}So I can go to work!{\i0}
 Dialogue: 0,0:01:30.50,0:01:31.88,lassie default,,0,0,0,,{TIME:90500,91880}{\i1}No! No!{\i0}
@@ -468,7 +468,7 @@ Dialogue: 0,0:21:47.92,0:21:51.67,lassie default,,0,0,0,,{TIME:1307920,1311670}I
 Dialogue: 0,0:22:00.46,0:22:04.65,lassie default,,0,0,0,,{TIME:1320460,1324650}{\i1}Grandmother Forrest's son returned\Nto the village 20 years later.{\i0}
 Dialogue: 0,0:22:04.68,0:22:08.47,lassie default,,0,0,0,,{TIME:1324680,1328470}{\i1}But the grandmother didn't reply\Nand didn't received her son.{\i0}
 Dialogue: 0,0:22:08.72,0:22:12.22,lassie default,,0,0,0,,{TIME:1328720,1332220}{\i1}At that time, her grandson also appeared.{\i0}
-Dialogue: 0,0:22:12.44,0:22:14.90,lassie default,,0,0,0,,{TIME:1332440,1334900}{\i1}Next episode:\NI WANT TO SEE MY GRANDMOTHER{\i0}
+Dialogue: 0,0:22:12.44,0:22:14.90,lassie default,,0,0,0,,{TIME:1332440,1334900}{\i1}Next episode:\N"I Want To See My Grandmother".
 Dialogue: 0,0:22:14.90,0:22:16.23,lassie default,,0,0,0,,{TIME:1334900,1336230}{\i1}Be sure to watch!{\i0}
 Dialogue: 0,0:22:17.64,0:22:21.52,lassie default,,0,0,0,,{TIME:1337649,1341528}{\fs28\i1\pos(320,468)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:26.32,0:22:29.53,lassie song jp ed,[karaoke],0,0,0,,{TIME:1346324,1349536}tasogare ni wa kimi to{NOTE:黄昏には君と}

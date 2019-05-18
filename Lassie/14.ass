@@ -20,7 +20,7 @@ Style: lassie song en ed,FOT Manyo Sosho Std Stripped,35,&H00D4E9F1,&H000000FF,&
 Style: lassie song jp op,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,15,1
 Style: lassie song jp ed,Cocogoose,25,&H00D4E9F1,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,16,1
 Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
-Style: lassie episode,Round Irregularity,40,&H00D4D2D0,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
+Style: lassie episode,Round Irregularity,40,&H00D7DFE7,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
 Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
@@ -53,7 +53,7 @@ Dialogue: 0,0:00:51.78,0:00:58.62,lassie song en op,[karaoke],0,0,0,,{TIME:51781
 Dialogue: 0,0:00:58.78,0:01:02.33,lassie song en op,[karaoke],0,0,0,,{TIME:58788,62333}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.54,0:01:06.25,lassie song en op,[karaoke],0,0,0,,{TIME:62542,66254}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.54,0:01:13.88,lassie song en op,[karaoke],0,0,0,,{TIME:66546,73886}{\blur0.5}a neverending story
-Dialogue: 0,0:01:33.70,0:01:38.38,lassie episode,,0,0,0,,{TIME:93700,98380}FOLLOW THE SUSPICIOUS MAN
+Dialogue: 0,0:01:33.78,0:01:38.74,lassie episode,[title],0,0,0,,{TIME:93781,98745}{\blur0.5\fad(300,0)\pos(320,285)}Follow The Suspicious Man!
 Dialogue: 0,0:02:01.39,0:02:02.20,lassie default,,0,0,0,,{TIME:121390,122200}Hm?
 Dialogue: 0,0:02:14.10,0:02:16.11,lassie default,,0,0,0,,{TIME:134100,136110}Hey... just a moment!
 Dialogue: 0,0:02:16.17,0:02:18.14,lassie default,,0,0,0,,{TIME:136170,138140}Ah! Oh...!
@@ -413,7 +413,7 @@ Dialogue: 0,0:21:59.86,0:22:01.59,lassie default,,0,0,0,,{TIME:1319860,1321590}{
 Dialogue: 0,0:22:01.65,0:22:04.95,lassie default,,0,0,0,,{TIME:1321650,1324950}{\i1}Ian was arrested for stealing the golden\Nwatch as the interrogator accused him!{\i0}
 Dialogue: 0,0:22:05.11,0:22:07.15,lassie default,,0,0,0,,{TIME:1325110,1327150}{\i1}That guy is not bad!{\i0}
 Dialogue: 0,0:22:07.29,0:22:10.01,lassie default,,0,0,0,,{TIME:1327290,1330010}{\i1}Lassie, I'm sure there is something!{\i0}
-Dialogue: 0,0:22:10.55,0:22:13.29,lassie default,,0,0,0,,{TIME:1330550,1333290}{\i1}Next episode:\NDETECTING THE INNOCENCE OF IAN{\i0}
+Dialogue: 0,0:22:10.55,0:22:13.29,lassie default,,0,0,0,,{TIME:1330550,1333290}{\i1}Next episode:\N"Proving Ian's Innocence".
 Dialogue: 0,0:22:13.49,0:22:14.84,lassie default,,0,0,0,,{TIME:1333490,1334840}{\i1}Be sure to watch!{\i0}
 Dialogue: 0,0:22:16.18,0:22:20.06,lassie default,,0,0,0,,{TIME:1336189,1340068}{\fs28\i1\pos(320,465)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:24.86,0:22:28.07,lassie song jp ed,[karaoke],0,0,0,,{TIME:1344864,1348076}tasogare ni wa kimi to{NOTE:黄昏には君と}

@@ -20,7 +20,7 @@ Style: lassie song en ed,FOT Manyo Sosho Std Stripped,35,&H00D4E9F1,&H000000FF,&
 Style: lassie song jp op,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,15,1
 Style: lassie song jp ed,Cocogoose,25,&H00D4E9F1,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,12,1
 Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
-Style: lassie episode,Round Irregularity,40,&H00D4D2D0,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
+Style: lassie episode,Round Irregularity,40,&H00E4DBC9,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
 Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
@@ -53,7 +53,7 @@ Dialogue: 0,0:00:51.73,0:00:58.58,lassie song en op,[karaoke],0,0,0,,{TIME:51739
 Dialogue: 0,0:00:58.74,0:01:02.29,lassie song en op,[karaoke],0,0,0,,{TIME:58746,62292}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.50,0:01:06.21,lassie song en op,[karaoke],0,0,0,,{TIME:62500,66212}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.50,0:01:13.84,lassie song en op,[karaoke],0,0,0,,{TIME:66504,73845}{\blur0.5}a neverending story
-Dialogue: 0,0:01:22.96,0:01:27.68,lassie episode,,0,0,0,,{TIME:82960,87680}6 MILES IN SEARCH FOR FOOD
+Dialogue: 0,0:01:22.68,0:01:27.56,lassie episode,[title],0,0,0,,{TIME:82687,87567}{\blur0.5\fad(300,0)\pos(320,290)}6 Miles In Search For Food
 Dialogue: 0,0:01:30.95,0:01:32.93,lassie default,,0,0,0,,{TIME:90950,92930}Well, the weather is lovely!
 Dialogue: 0,0:01:33.86,0:01:37.17,lassie default,,0,0,0,,{TIME:93860,97170}With the sunshine I have\Nto find something to cook!
 Dialogue: 0,0:01:37.89,0:01:39.28,lassie default,,0,0,0,,{TIME:97890,99280}Lassie, wake up!
@@ -299,7 +299,7 @@ Dialogue: 0,0:22:00.40,0:22:02.18,lassie default,,0,0,0,,{TIME:1320400,1322180}{
 Dialogue: 0,0:22:02.18,0:22:04.47,lassie default,,0,0,0,,{TIME:1322180,1324470}{\i1}There is strong wind and continuous rain!{\i0}
 Dialogue: 0,0:22:04.73,0:22:07.80,lassie default,,0,0,0,,{TIME:1324730,1327800}{\i1}But Lassie, we have to get out immediately!{\i0}
 Dialogue: 0,0:22:07.80,0:22:10.27,lassie default,,0,0,0,,{TIME:1327800,1330270}{\i1}To give Dr. Hooper the syringe!{\i0}
-Dialogue: 0,0:22:10.72,0:22:13.54,lassie default,,0,0,0,,{TIME:1330720,1333540}{\i1}Next episode:\NRUNNING THROUGH THE STORM{\i0}
+Dialogue: 0,0:22:10.72,0:22:13.54,lassie default,,0,0,0,,{TIME:1330720,1333540}{\i1}Next episode:\N"Running Through The Storm".
 Dialogue: 0,0:22:13.81,0:22:15.02,lassie default,,0,0,0,,{TIME:1333810,1335020}{\i1}Be sure to watch!{\i0}
 Dialogue: 0,0:22:16.31,0:22:20.19,lassie default,,0,0,0,,{TIME:1336314,1340193}{\fs28\i1\pos(320,469)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:24.99,0:22:28.20,lassie song jp ed,[karaoke],0,0,0,,{TIME:1344990,1348201}tasogare ni wa kimi to{NOTE:黄昏には君と}

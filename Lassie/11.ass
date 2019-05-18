@@ -20,7 +20,7 @@ Style: lassie song en ed,FOT Manyo Sosho Std Stripped,35,&H00D4E9F1,&H000000FF,&
 Style: lassie song jp op,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,15,1
 Style: lassie song jp ed,Cocogoose,25,&H00D4E9F1,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,12,1
 Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
-Style: lassie episode,Round Irregularity,40,&H00D4D2D0,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
+Style: lassie episode,Round Irregularity,40,&H00D9D7EB,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
 Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
@@ -53,7 +53,7 @@ Dialogue: 0,0:00:51.82,0:00:58.66,lassie song en op,[karaoke],0,0,0,,{TIME:51823
 Dialogue: 0,0:00:58.83,0:01:02.37,lassie song en op,[karaoke],0,0,0,,{TIME:58830,62375}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.58,0:01:06.29,lassie song en op,[karaoke],0,0,0,,{TIME:62584,66296}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.58,0:01:13.92,lassie song en op,[karaoke],0,0,0,,{TIME:66588,73928}{\blur0.5}a neverending story
-Dialogue: 0,0:01:24.79,0:01:29.81,lassie episode,,0,0,0,,{TIME:84790,89810}PRISCILLA, LAST SELFISHNESS
+Dialogue: 0,0:01:24.85,0:01:29.90,lassie episode,[title],0,0,0,,{TIME:84856,89902}{\blur0.5\fad(300,0)\pos(320,290)}Priscilla, Last Selfishness
 Dialogue: 0,0:01:37.55,0:01:38.64,lassie default,,0,0,0,,{TIME:97550,98640}Well, I'm done!
 Dialogue: 0,0:01:47.30,0:01:48.61,lassie default,,0,0,0,,{TIME:107300,108610}I won't lose!
 Dialogue: 0,0:01:51.83,0:01:53.97,lassie default,,0,0,0,,{TIME:111830,113970}Sandy is very happy!
@@ -388,7 +388,7 @@ Dialogue: 0,0:21:57.83,0:22:01.93,lassie default,,0,0,0,,{TIME:1317830,1321930}{
 Dialogue: 0,0:22:02.09,0:22:03.66,lassie default,,0,0,0,,{TIME:1322090,1323660}{\i1}This uncle is very good!{\i0}
 Dialogue: 0,0:22:03.77,0:22:07.09,lassie default,,0,0,0,,{TIME:1323770,1327090}{\i1}He became very famous in the village\Nbecause we liked him.{\i0}
 Dialogue: 0,0:22:07.31,0:22:09.03,lassie default,,0,0,0,,{TIME:1327310,1329030}{\i1}But... that night...{\i0}
-Dialogue: 0,0:22:09.78,0:22:12.13,lassie default,,0,0,0,,{TIME:1329780,1332130}{\i1}Next episode:\NWHO CAUSED THE FIRE?{\i0}
+Dialogue: 0,0:22:09.78,0:22:12.13,lassie default,,0,0,0,,{TIME:1329780,1332130}{\i1}Next episode:\N"Who Caused The Fire".
 Dialogue: 0,0:22:12.32,0:22:13.62,lassie default,,0,0,0,,{TIME:1332320,1333620}{\i1}Be sure to watch!{\i0}
 Dialogue: 0,0:22:15.23,0:22:19.10,lassie default,,0,0,0,,{TIME:1335230,1339109}{\fs28\i1\pos(320,468)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:23.90,0:22:27.11,lassie song jp ed,[karaoke],0,0,0,,{TIME:1343905,1347117}tasogare ni wa kimi to{NOTE:黄昏には君と}

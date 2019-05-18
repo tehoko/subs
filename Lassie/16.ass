@@ -20,7 +20,7 @@ Style: lassie song en ed,FOT Manyo Sosho Std Stripped,35,&H00D4E9F1,&H000000FF,&
 Style: lassie song jp op,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,15,1
 Style: lassie song jp ed,Cocogoose,25,&H00D4E9F1,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,12,1
 Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
-Style: lassie episode,Round Irregularity,40,&H00D4D2D0,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
+Style: lassie episode,Round Irregularity,40,&H00E2E4DF,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
 Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
@@ -55,7 +55,7 @@ Dialogue: 0,0:01:02.50,0:01:06.21,lassie song en op,[karaoke],0,0,0,,{TIME:62500
 Dialogue: 0,0:01:06.50,0:01:13.84,lassie song en op,[karaoke],0,0,0,,{TIME:66504,73845}{\blur0.5}a neverending story
 Dialogue: 0,0:01:24.19,0:01:26.60,lassie default,,0,0,0,,{TIME:84190,86600}John, I count on you for the rest!
 Dialogue: 0,0:01:26.86,0:01:28.75,lassie default,,0,0,0,,{TIME:86860,88750}Yes, I accompanied you to safety!
-Dialogue: 0,0:01:35.81,0:01:39.75,lassie episode,,0,0,0,,{TIME:95810,99750}HURRY! SAVE DR. HOOPER
+Dialogue: 0,0:01:35.53,0:01:39.95,lassie episode,[title],0,0,0,,{TIME:95533,99954}{\blur0.5\fad(300,0)\pos(320,280)}Hurry! Save Dr. Hooper
 Dialogue: 0,0:01:51.83,0:01:52.91,lassie default,,0,0,0,,{TIME:111830,112910}Yes!
 Dialogue: 0,0:01:53.79,0:01:55.19,lassie default,,0,0,0,,{TIME:113790,115190}Good morning, John!
 Dialogue: 0,0:01:56.61,0:01:58.23,lassie default,,0,0,0,,{TIME:116610,118230}Ah! Have you finished?
@@ -342,7 +342,7 @@ Dialogue: 0,0:21:59.37,0:22:03.43,lassie default,,0,0,0,,{TIME:1319370,1323430}{
 Dialogue: 0,0:22:03.73,0:22:05.65,lassie default,,0,0,0,,{TIME:1323730,1325650}{\i1}But on the wedding day,{\i0}
 Dialogue: 0,0:22:05.77,0:22:08.86,lassie default,,0,0,0,,{TIME:1325770,1328860}{\i1}Miss Mary doesn't want to go to church!{\i0}
 Dialogue: 0,0:22:09.03,0:22:10.48,lassie default,,0,0,0,,{TIME:1329030,1330480}{\i1}What happened?{\i0}
-Dialogue: 0,0:22:10.78,0:22:13.41,lassie default,,0,0,0,,{TIME:1330780,1333410}{\i1}Next episode:\NTHE MARRIAGE OF TEACHER CURRY{\i0}
+Dialogue: 0,0:22:10.78,0:22:13.41,lassie default,,0,0,0,,{TIME:1330780,1333410}{\i1}Next episode:\N"The Marriage Of Ms. Curry".
 Dialogue: 0,0:22:13.41,0:22:15.22,lassie default,,0,0,0,,{TIME:1333410,1335220}{\i1}Be sure to watch!{\i0}
 Dialogue: 0,0:22:16.73,0:22:20.61,lassie default,,0,0,0,,{TIME:1336731,1340610}{\fs28\i1\pos(320,466)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:25.40,0:22:28.61,lassie song jp ed,[karaoke],0,0,0,,{TIME:1345407,1348618}tasogare ni wa kimi to{NOTE:黄昏には君と}

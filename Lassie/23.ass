@@ -20,7 +20,7 @@ Style: lassie song en ed,FOT Manyo Sosho Std Stripped,35,&H00DAEBF1,&H000000FF,&
 Style: lassie song jp op,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,15,1
 Style: lassie song jp ed,Cocogoose,25,&H00DAEBF1,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,20,12,1
 Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
-Style: lassie episode,Round Irregularity,40,&H00D4D2D0,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
+Style: lassie episode,Round Irregularity,35,&H00D7E1D4,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
 Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
@@ -72,7 +72,7 @@ Dialogue: 0,0:02:07.61,0:02:09.27,lassie default,,0,0,0,,{TIME:127610,129270}I'm
 Dialogue: 0,0:02:09.39,0:02:12.34,lassie default,,0,0,0,,{TIME:129390,132340}Then I will regain Lassie!
 Dialogue: 0,0:02:12.51,0:02:13.09,lassie default,,0,0,0,,{TIME:132510,133090}Ah!
 Dialogue: 0,0:02:15.87,0:02:16.93,lassie default,,0,0,0,,{TIME:135870,136930}Lassie!
-Dialogue: 0,0:02:25.96,0:02:30.83,lassie episode,,0,0,0,,{TIME:145960,150830}DO YOUR BEST, JOHN, AND PROTECT LASSIE!
+Dialogue: 0,0:02:25.91,0:02:31.21,lassie episode,[title],0,0,0,,{TIME:145917,151214}{\blur0.5\fad(300,0)\pos(320,300)}Do Your Best, John!\NProtect Lassie
 Dialogue: 0,0:02:35.10,0:02:36.58,lassie default,,0,0,0,,{TIME:155100,156580}Good morning, Mom...
 Dialogue: 0,0:02:37.10,0:02:39.60,lassie default,,0,0,0,,{TIME:157100,159600}Ah, good morning John! I already ate!
 Dialogue: 0,0:02:40.08,0:02:42.40,lassie default,,0,0,0,,{TIME:160080,162400}Father haven't returned since yesterday?
@@ -401,7 +401,7 @@ Dialogue: 0,0:22:00.78,0:22:04.49,lassie default,,0,0,0,,{TIME:1320780,1324490}{
 Dialogue: 0,0:22:04.76,0:22:05.80,lassie default,,0,0,0,,{TIME:1324760,1325800}{\i1}And without food...{\i0}
 Dialogue: 0,0:22:06.06,0:22:08.71,lassie default,,0,0,0,,{TIME:1326060,1328710}{\i1}Lassie chasing unruly dogs.{\i0}
 Dialogue: 0,0:22:08.85,0:22:10.71,lassie default,,0,0,0,,{TIME:1328850,1330710}{\i1}This time it faces the gun!{\i0}
-Dialogue: 0,0:22:11.33,0:22:14.54,lassie default,,0,0,0,,{TIME:1331330,1334540}{\i1}Next episode:\NUNKNOWN PLACES. SEARCH FOR LASSIE{\i0}
+Dialogue: 0,0:22:11.33,0:22:14.54,lassie default,,0,0,0,,{TIME:1331330,1334540}{\i1}Next episode:\N"Unknown Places! Search For Lassie".
 Dialogue: 0,0:22:14.70,0:22:16.12,lassie default,,0,0,0,,{TIME:1334700,1336120}{\i1}Be sure to watch!{\i0}
 Dialogue: 0,0:22:17.35,0:22:21.23,lassie default,,0,0,0,,{TIME:1337357,1341236}{\fs28\i1\pos(320,468)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:26.03,0:22:29.24,lassie song jp ed,[karaoke],0,0,0,,{TIME:1346032,1349244}tasogare ni wa kimi to{NOTE:黄昏には君と}

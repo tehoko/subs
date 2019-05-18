@@ -20,7 +20,7 @@ Style: lassie song en ed,FOT Manyo Sosho Std Stripped,35,&H00D4E9F1,&H000000FF,&
 Style: lassie song jp op,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,15,15,1
 Style: lassie song jp ed,Cocogoose,25,&H00D4E9F1,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,12,1
 Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
-Style: lassie episode,Round Irregularity,40,&H00D4D2D0,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
+Style: lassie episode,Round Irregularity,36,&H00D0DDD9,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
 Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
@@ -56,7 +56,7 @@ Dialogue: 0,0:01:06.58,0:01:13.92,lassie song en op,[karaoke],0,0,0,,{TIME:66588
 Dialogue: 0,0:01:22.73,0:01:25.08,lassie default,,0,0,0,,{TIME:82730,85080}{\i1}Ladies and gentlemen!{\i0}
 Dialogue: 0,0:01:25.65,0:01:29.87,lassie default,,0,0,0,,{TIME:85650,89870}{\i1}Welcome to Benjamin Circus!{\i0}
 Dialogue: 0,0:01:30.47,0:01:34.13,lassie default,,0,0,0,,{TIME:90470,94130}{\i1}This is the first time that\Nmany tricks we'll be played here!{\i0}
-Dialogue: 0,0:01:32.21,0:01:36.13,lassie episode,,0,0,0,,{TIME:92210,96130}A BIG PROBLEM! THE ELEPHANT\NESCAPED FROM THE CIRCUS
+Dialogue: 0,0:01:31.73,0:01:36.28,lassie episode,[title],0,0,0,,{TIME:91738,96284}{\blur0.5\fad(400,0)\pos(320,295)}A Big Problem! The Elephant\NEscaped From The Circus
 Dialogue: 0,0:01:34.23,0:01:36.33,lassie default,,0,0,0,,{TIME:94230,96330}{\i1}Please enjoy with us!{\i0}
 Dialogue: 0,0:01:49.00,0:01:50.46,lassie default,,0,0,0,,{TIME:109000,110460}Oh...!
 Dialogue: 0,0:01:55.76,0:01:56.58,lassie default,,0,0,0,,{TIME:115760,116580}Oh...!
@@ -294,7 +294,7 @@ Dialogue: 0,0:22:00.88,0:22:03.79,lassie default,,0,0,0,,{TIME:1320880,1323790}{
 Dialogue: 0,0:22:03.93,0:22:05.24,lassie default,,0,0,0,,{TIME:1323930,1325240}{\i1}And on that ship,{\i0}
 Dialogue: 0,0:22:05.36,0:22:07.76,lassie default,,0,0,0,,{TIME:1325360,1327760}{\i1}a girl has become our friend.{\i0}
 Dialogue: 0,0:22:07.88,0:22:10.93,lassie default,,0,0,0,,{TIME:1327880,1330930}{\i1}She owned a treasure map.{\i0}
-Dialogue: 0,0:22:11.52,0:22:14.27,lassie default,,0,0,0,,{TIME:1331520,1334270}{\i1}Next episode:\NCOLIN'S LOVE AND THE TREASURE{\i0}
+Dialogue: 0,0:22:11.52,0:22:14.27,lassie default,,0,0,0,,{TIME:1331520,1334270}{\i1}Next episode:\N"Colin's Love And The Treasure".
 Dialogue: 0,0:22:14.55,0:22:15.88,lassie default,,0,0,0,,{TIME:1334550,1335880}{\i1}Be sure to watch!{\i0}
 Dialogue: 0,0:22:16.35,0:22:20.23,lassie default,,0,0,0,,{TIME:1336356,1340235}{\fs28\i1\pos(320,468)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:25.03,0:22:28.24,lassie song jp ed,[karaoke],0,0,0,,{TIME:1345031,1348243}tasogare ni wa kimi to{NOTE:黄昏には君と}

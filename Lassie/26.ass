@@ -20,7 +20,7 @@ Style: lassie song en ed,FOT Manyo Sosho Std Stripped,35,&H00DEECF1,&H000000FF,&
 Style: lassie song jp op,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,15,1
 Style: lassie song jp ed,Cocogoose,25,&H00DEECF1,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,25,8,1
 Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
-Style: lassie episode,Round Irregularity,40,&H00D4D2D0,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
+Style: lassie episode,Round Irregularity,40,&H00E7E6DA,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
 Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
@@ -53,7 +53,7 @@ Dialogue: 0,0:00:51.78,0:00:58.62,lassie song en op,[karaoke],0,0,0,,{TIME:51781
 Dialogue: 0,0:00:58.78,0:01:02.33,lassie song en op,[karaoke],0,0,0,,{TIME:58788,62333}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.54,0:01:06.25,lassie song en op,[karaoke],0,0,0,,{TIME:62542,66254}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.54,0:01:13.88,lassie song en op,[karaoke],0,0,0,,{TIME:66546,73886}{\blur0.5}a neverending story
-Dialogue: 0,0:01:24.12,0:01:27.95,lassie episode,,0,0,0,,{TIME:84120,87950}RUNNING TOWARDS THE DREAM
+Dialogue: 0,0:01:23.93,0:01:28.31,lassie episode,[title],0,0,0,,{TIME:83938,88318}{\blur0.5\fad(300,0)\pos(320,300)}Running Towards The Dream
 Dialogue: 0,0:01:31.22,0:01:33.53,lassie default,,0,0,0,,{TIME:91220,93530}Father! Mom!
 Dialogue: 0,0:01:34.41,0:01:35.67,lassie default,,0,0,0,,{TIME:94410,95670}- Come on!\N- Yes!
 Dialogue: 0,0:01:44.59,0:01:45.37,lassie default,,0,0,0,,{TIME:104590,105370}- Ah!\N- Oh!
@@ -457,7 +457,7 @@ Dialogue: 0,0:22:03.02,0:22:05.05,lassie default,,0,0,0,,{TIME:1323020,1325050}{
 Dialogue: 0,0:22:05.23,0:22:07.72,lassie default,,0,0,0,,{TIME:1325230,1327720}{\i1}Because I have a lot of nice friends!{\i0}
 Dialogue: 0,0:22:07.97,0:22:10.82,lassie default,,0,0,0,,{TIME:1327970,1330820}{\i1}But, where is my mother?{\i0}
 Dialogue: 0,0:22:11.07,0:22:12.78,lassie default,,0,0,0,,{TIME:1331070,1332780}{\i1}Mom!{\i0}
-Dialogue: 0,0:22:13.77,0:22:16.29,lassie default,,0,0,0,,{TIME:1333770,1336290}{\i1}"HOMELESS GIRL REMY"\NPlease look forward!{\i0}
+Dialogue: 0,0:22:13.77,0:22:16.29,lassie default,,0,0,0,,{TIME:1333770,1336290}{\i1}"Homeless Girl Remy"\NPlease look forward!{\i0}
 Dialogue: 0,0:22:17.89,0:22:21.77,lassie default,,0,0,0,,{TIME:1337899,1341778}{\fs28\i1\pos(320,472)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:26.53,0:22:29.74,lassie song jp ed,[karaoke],0,0,0,,{TIME:1346533,1349744}tasogare ni wa kimi to{NOTE:黄昏には君と}
 Dialogue: 0,0:22:29.91,0:22:33.70,lassie song jp ed,[karaoke],0,0,0,,{TIME:1349911,1353707}oka no ue kakenobori{NOTE:丘の上駆け登り}

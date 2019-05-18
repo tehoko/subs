@@ -20,7 +20,7 @@ Style: lassie song en ed,FOT Manyo Sosho Std Stripped,35,&H00D4E9F1,&H000000FF,&
 Style: lassie song jp op,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,15,1
 Style: lassie song jp ed,Cocogoose,25,&H00D4E9F1,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,10,1
 Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
-Style: lassie episode,Round Irregularity,40,&H00D4D2D0,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
+Style: lassie episode,Round Irregularity,40,&H00D5E9E6,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
 Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
@@ -53,7 +53,7 @@ Dialogue: 0,0:00:51.78,0:00:58.62,lassie song en op,[karaoke],0,0,0,,{TIME:51781
 Dialogue: 0,0:00:58.78,0:01:02.33,lassie song en op,[karaoke],0,0,0,,{TIME:58788,62333}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.54,0:01:06.25,lassie song en op,[karaoke],0,0,0,,{TIME:62542,66254}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.54,0:01:13.88,lassie song en op,[karaoke],0,0,0,,{TIME:66546,73886}{\blur0.5}a neverending story
-Dialogue: 0,0:01:22.51,0:01:27.42,lassie episode,,0,0,0,,{TIME:82510,87420}SANDY STEALS COWS?
+Dialogue: 0,0:01:22.81,0:01:27.77,lassie episode,[title],0,0,0,,{TIME:82812,87775}{\blur0.5\fad(300,0)\pos(320,285)}Sandy Is Stealing The Cows?
 Dialogue: 0,0:01:29.25,0:01:31.36,lassie default,,0,0,0,,{TIME:89250,91360}Like this you won't depend on me!
 Dialogue: 0,0:01:37.55,0:01:39.66,lassie default,,0,0,0,,{TIME:97550,99660}What? Didn't you go?
 Dialogue: 0,0:01:40.05,0:01:41.11,lassie default,,0,0,0,,{TIME:100050,101110}I have homeworks!
@@ -415,7 +415,7 @@ Dialogue: 0,0:21:58.89,0:22:01.52,lassie default,,0,0,0,,{TIME:1318890,1321520}{
 Dialogue: 0,0:22:01.83,0:22:04.76,lassie default,,0,0,0,,{TIME:1321830,1324760}{\i1}That huge guy was working hard.{\i0}
 Dialogue: 0,0:22:04.87,0:22:07.75,lassie default,,0,0,0,,{TIME:1324870,1327750}{\i1}But the police came to the area strangely.{\i0}
 Dialogue: 0,0:22:08.35,0:22:10.79,lassie default,,0,0,0,,{TIME:1328350,1330790}{\i1}There is a thief who stole from the bank.{\i0}
-Dialogue: 0,0:22:11.48,0:22:14.38,lassie default,,0,0,0,,{TIME:1331480,1334380}{\i1}Next episode:\NFOLLOW THE SUSPICIOUS MAN{\i0}
+Dialogue: 0,0:22:11.48,0:22:14.38,lassie default,,0,0,0,,{TIME:1331480,1334380}{\i1}Next episode:\N"Follow The Suspicious Man".
 Dialogue: 0,0:22:14.59,0:22:16.01,lassie default,,0,0,0,,{TIME:1334590,1336010}{\i1}Be sure to watch!{\i0}
 Dialogue: 0,0:22:16.52,0:22:20.40,lassie default,,0,0,0,,{TIME:1336523,1340402}{\fs28\i1\pos(320,468)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:25.19,0:22:28.41,lassie song jp ed,[karaoke],0,0,0,,{TIME:1345198,1348410}tasogare ni wa kimi to{NOTE:黄昏には君と}

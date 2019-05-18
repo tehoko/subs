@@ -20,7 +20,7 @@ Style: lassie song en ed,FOT Manyo Sosho Std Stripped,35,&H00C7E6F1,&H000000FF,&
 Style: lassie song jp op,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,15,1
 Style: lassie song jp ed,Cocogoose,25,&H00C7E6F1,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,12,1
 Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
-Style: lassie episode,Round Irregularity,40,&H00D4D2D0,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
+Style: lassie episode,Round Irregularity,40,&H00D9E5E6,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
 Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
@@ -53,7 +53,7 @@ Dialogue: 0,0:00:51.82,0:00:58.66,lassie song en op,[karaoke],0,0,0,,{TIME:51823
 Dialogue: 0,0:00:58.83,0:01:02.37,lassie song en op,[karaoke],0,0,0,,{TIME:58830,62375}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.58,0:01:06.29,lassie song en op,[karaoke],0,0,0,,{TIME:62584,66296}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.58,0:01:13.92,lassie song en op,[karaoke],0,0,0,,{TIME:66588,73928}{\blur0.5}a neverending story
-Dialogue: 0,0:01:23.07,0:01:27.84,lassie episode,,0,0,0,,{TIME:83070,87840}MY FATHER'S SALARY
+Dialogue: 0,0:01:22.77,0:01:27.73,lassie episode,[title],0,0,0,,{TIME:82770,87734}{\blur0.5\fad(300,0)\pos(320,290)}My Father's Salary
 Dialogue: 0,0:01:36.34,0:01:40.10,lassie default,,0,0,0,,{TIME:96340,100100}What is that? It started\Nto drink milk by itself!
 Dialogue: 0,0:01:40.10,0:01:41.07,lassie default,,0,0,0,,{TIME:100100,101070}You see?
 Dialogue: 0,0:01:41.31,0:01:44.22,lassie default,,0,0,0,,{TIME:101310,104220}Listen Lassie, you grow up quickly!
@@ -388,7 +388,7 @@ Dialogue: 0,0:21:59.56,0:22:00.62,lassie default,,0,0,0,,{TIME:1319560,1320620}{
 Dialogue: 0,0:22:00.89,0:22:03.79,lassie default,,0,0,0,,{TIME:1320890,1323790}{\i1}It's a holiday for everyone,\Nbut not for me!{\i0}
 Dialogue: 0,0:22:04.00,0:22:07.12,lassie default,,0,0,0,,{TIME:1324000,1327120}{\i1}Now Lassie, let's go to the lake today!{\i0}
 Dialogue: 0,0:22:07.30,0:22:10.15,lassie default,,0,0,0,,{TIME:1327300,1330150}{\i1}I want to catch something to cook!{\i0}
-Dialogue: 0,0:22:10.74,0:22:13.41,lassie default,,0,0,0,,{TIME:1330740,1333410}{\i1}Next episode:\N6 MILES IN SEARCH FOR FOOD{\i0}
+Dialogue: 0,0:22:10.74,0:22:13.41,lassie default,,0,0,0,,{TIME:1330740,1333410}{\i1}Next episode:\N"6 Miles In Search For Food".
 Dialogue: 0,0:22:13.57,0:22:15.04,lassie default,,0,0,0,,{TIME:1333570,1335040}{\i1}Be sure to watch!{\i0}
 Dialogue: 0,0:22:16.64,0:22:20.52,lassie default,,0,0,0,,{TIME:1336648,1340527}{\fs28\i1\pos(320,468)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:25.32,0:22:28.53,lassie song jp ed,[karaoke],0,0,0,,{TIME:1345323,1348535}tasogare ni wa kimi to{NOTE:黄昏には君と}

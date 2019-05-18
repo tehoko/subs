@@ -20,7 +20,7 @@ Style: lassie song en ed,FOT Manyo Sosho Std Stripped,35,&H00D4E9F1,&H000000FF,&
 Style: lassie song jp op,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,15,1
 Style: lassie song jp ed,Cocogoose,25,&H00D4E9F1,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,12,1
 Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
-Style: lassie episode,Round Irregularity,40,&H00D4D2D0,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
+Style: lassie episode,Round Irregularity,40,&H00D4DDDE,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
 Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
@@ -53,7 +53,7 @@ Dialogue: 0,0:00:51.73,0:00:58.58,lassie song en op,[karaoke],0,0,0,,{TIME:51739
 Dialogue: 0,0:00:58.74,0:01:02.29,lassie song en op,[karaoke],0,0,0,,{TIME:58746,62292}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.50,0:01:06.21,lassie song en op,[karaoke],0,0,0,,{TIME:62500,66212}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.50,0:01:13.84,lassie song en op,[karaoke],0,0,0,,{TIME:66504,73845}{\blur0.5}a neverending story
-Dialogue: 0,0:01:23.62,0:01:27.71,lassie episode,,0,0,0,,{TIME:83620,87710}I DON'T LIKE LASSIE
+Dialogue: 0,0:01:23.68,0:01:28.06,lassie episode,[title],0,0,0,,{TIME:83688,88067}{\blur0.5\fad(300,0)\pos(320,290)}I Don't Like Lassie
 Dialogue: 0,0:01:33.07,0:01:34.84,lassie default,,0,0,0,,{TIME:93070,94840}It came, it came! My dear!
 Dialogue: 0,0:01:35.00,0:01:36.32,lassie default,,0,0,0,,{TIME:95000,96320}- Look!\N- Oh!
 Dialogue: 0,0:01:36.59,0:01:38.56,lassie default,,0,0,0,,{TIME:96590,98560}Hurry up ​​and adjust the clock time!
@@ -329,7 +329,7 @@ Dialogue: 0,0:22:01.56,0:22:03.67,lassie default,,0,0,0,,{TIME:1321560,1323670}{
 Dialogue: 0,0:22:03.81,0:22:07.36,lassie default,,0,0,0,,{TIME:1323810,1327360}{\i1}When we first met, there was a plane flying!{\i0}
 Dialogue: 0,0:22:07.65,0:22:10.10,lassie default,,0,0,0,,{TIME:1327650,1330100}{\i1}That plane returned again!{\i0}
 Dialogue: 0,0:22:10.45,0:22:12.38,lassie default,,0,0,0,,{TIME:1330450,1332380}{\i1}I wonder if I can fly with it?{\i0}
-Dialogue: 0,0:22:13.22,0:22:16.35,lassie default,,0,0,0,,{TIME:1333220,1336350}{\i1}Next episode:\NPRINCESS OF THE SKY{\i0}
+Dialogue: 0,0:22:13.22,0:22:16.35,lassie default,,0,0,0,,{TIME:1333220,1336350}{\i1}Next episode:\N"Princess Of The Sky".
 Dialogue: 0,0:22:16.48,0:22:17.68,lassie default,,0,0,0,,{TIME:1336480,1337680}{\i1}Be sure to watch!{\i0}
 Dialogue: 0,0:22:19.31,0:22:23.19,lassie default,,0,0,0,,{TIME:1339317,1343196}{\fs28\i1\pos(320,468)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:27.99,0:22:31.20,lassie song jp ed,[karaoke],0,0,0,,{TIME:1347993,1351204}tasogare ni wa kimi to{NOTE:黄昏には君と}

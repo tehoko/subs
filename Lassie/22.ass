@@ -20,7 +20,7 @@ Style: lassie song en ed,FOT Manyo Sosho Std Stripped,35,&H00DFE8F2,&H000000FF,&
 Style: lassie song jp op,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,35,13,1
 Style: lassie song jp ed,Cocogoose,25,&H00DFE8F2,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,27,12,1
 Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
-Style: lassie episode,Round Irregularity,40,&H00D4D2D0,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
+Style: lassie episode,Round Irregularity,35,&H00D4D7DB,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
 Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
@@ -53,7 +53,7 @@ Dialogue: 0,0:00:51.78,0:00:58.62,lassie song en op,[karaoke],0,0,0,,{TIME:51781
 Dialogue: 0,0:00:58.78,0:01:02.33,lassie song en op,[karaoke],0,0,0,,{TIME:58788,62333}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.54,0:01:06.25,lassie song en op,[karaoke],0,0,0,,{TIME:62542,66254}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.54,0:01:13.88,lassie song en op,[karaoke],0,0,0,,{TIME:66546,73886}{\blur0.5}a neverending story
-Dialogue: 0,0:01:23.66,0:01:28.56,lassie episode,,0,0,0,,{TIME:83660,88560}JOHN'S DECISION! PROTECT THE MINE
+Dialogue: 0,0:01:23.81,0:01:28.77,lassie episode,[title],0,0,0,,{TIME:83813,88776}{\blur0.5\fad(300,0)\pos(320,290)}John's Decision! Protect The Mine
 Dialogue: 0,0:01:36.45,0:01:39.49,lassie default,,0,0,0,,{TIME:96450,99490}Oh, Lassie, you look busy!
 Dialogue: 0,0:01:40.26,0:01:41.76,lassie default,,0,0,0,,{TIME:100260,101760}Here it is, it has come!
 Dialogue: 0,0:01:41.92,0:01:43.39,lassie default,,0,0,0,,{TIME:101920,103390}Today it was exactly on time!
@@ -445,7 +445,7 @@ Dialogue: 0,0:22:03.25,0:22:04.72,lassie default,,0,0,0,,{TIME:1323250,1324720}{
 Dialogue: 0,0:22:04.72,0:22:06.19,lassie default,,0,0,0,,{TIME:1324720,1326190}{\i1}I will help everyone with anything!{\i0}
 Dialogue: 0,0:22:06.56,0:22:07.40,lassie default,,0,0,0,,{TIME:1326560,1327400}{\i1}Otherwise...{\i0}
 Dialogue: 0,0:22:07.48,0:22:10.09,lassie default,,0,0,0,,{TIME:1327480,1330090}{\i1}They will move Lassie to Scotland!{\i0}
-Dialogue: 0,0:22:10.61,0:22:13.82,lassie default,,0,0,0,,{TIME:1330610,1333820}{\i1}Next episode:\NDO YOUR BEST, JOHN, AND PROTECT LASSIE!{\i0}
+Dialogue: 0,0:22:10.61,0:22:13.82,lassie default,,0,0,0,,{TIME:1330610,1333820}{\i1}Next episode:\N"Do Your Best, John! Protect Lassie".
 Dialogue: 0,0:22:14.01,0:22:15.19,lassie default,,0,0,0,,{TIME:1334010,1335190}{\i1}Be sure to watch!{\i0}
 Dialogue: 0,0:22:17.27,0:22:21.15,lassie default,,0,0,0,,{TIME:1337274,1341152}{\fs28\i1\pos(320,465)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:25.94,0:22:29.16,lassie song jp ed,[karaoke],0,0,0,,{TIME:1345949,1349160}tasogare ni wa kimi to{NOTE:黄昏には君と}

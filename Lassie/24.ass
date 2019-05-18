@@ -20,7 +20,7 @@ Style: lassie song en ed,FOT Manyo Sosho Std Stripped,35,&H00E8EAF0,&H000000FF,&
 Style: lassie song jp op,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,15,1
 Style: lassie song jp ed,Cocogoose,25,&H00E8EAF0,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,22,7,1
 Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
-Style: lassie episode,Round Irregularity,40,&H00D4D2D0,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
+Style: lassie episode,Round Irregularity,38,&H00CDE5E8,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
 Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
@@ -64,7 +64,7 @@ Dialogue: 0,0:01:45.13,0:01:46.82,lassie default,,0,0,0,,{TIME:105130,106820}No,
 Dialogue: 0,0:01:46.98,0:01:47.89,lassie default,,0,0,0,,{TIME:106980,107890}Ah...!
 Dialogue: 0,0:01:52.85,0:01:54.31,lassie default,,0,0,0,,{TIME:112850,114310}What does that mean?
 Dialogue: 0,0:01:54.34,0:01:56.53,lassie default,,0,0,0,,{TIME:114340,116530}Let it go to John!
-Dialogue: 0,0:01:58.04,0:02:02.96,lassie episode,,0,0,0,,{TIME:118040,122960}UNKNOWN PLACES. SEARCH FOR LASSIE
+Dialogue: 0,0:01:58.09,0:02:03.35,lassie episode,[title],0,0,0,,{TIME:118097,123353}{\blur0.5\fad(300,0)\pos(320,310)}Unknown Places!\NSearch For Lassie
 Dialogue: 0,0:02:05.28,0:02:08.53,lassie default,,0,0,0,,{TIME:125280,128530}Do you understand what you have done?
 Dialogue: 0,0:02:08.55,0:02:10.29,lassie default,,0,0,0,,{TIME:128550,130290}Yes... of course!
 Dialogue: 0,0:02:10.36,0:02:11.07,lassie default,,0,0,0,,{TIME:130360,131070}Huh!
@@ -345,7 +345,7 @@ Dialogue: 0,0:22:01.14,0:22:04.31,lassie default,,0,0,0,,{TIME:1321140,1324310}{
 Dialogue: 0,0:22:04.69,0:22:07.68,lassie default,,0,0,0,,{TIME:1324690,1327680}{\i1}But I don't know yet where Lassie is.{\i0}
 Dialogue: 0,0:22:08.88,0:22:10.08,lassie default,,0,0,0,,{TIME:1328880,1330080}{\i1}Do your best, Lassie!{\i0}
 Dialogue: 0,0:22:10.23,0:22:12.06,lassie default,,0,0,0,,{TIME:1330230,1332060}{\i1}I will definitely find you!{\i0}
-Dialogue: 0,0:22:13.06,0:22:15.05,lassie default,,0,0,0,,{TIME:1333060,1335050}{\i1}Next episode:\NWELCOME BACK, LASSIE{\i0}
+Dialogue: 0,0:22:13.06,0:22:15.05,lassie default,,0,0,0,,{TIME:1333060,1335050}{\i1}Next episode:\N"Welcome Back, Lassie".
 Dialogue: 0,0:22:15.17,0:22:16.47,lassie default,,0,0,0,,{TIME:1335170,1336470}{\i1}Be sure to watch!{\i0}
 Dialogue: 0,0:22:17.69,0:22:21.57,lassie default,,0,0,0,,{TIME:1337691,1341570}{\fs28\i1\pos(320,470)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:26.36,0:22:29.57,lassie song jp ed,[karaoke],0,0,0,,{TIME:1346366,1349578}tasogare ni wa kimi to{NOTE:黄昏には君と}
