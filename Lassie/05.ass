@@ -25,6 +25,34 @@ Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.85,lassie group,,0,0,0,,{TIME:0,4859}{\pos(320,188)}OldCastle and South Wind Subs present
+Dialogue: 0,0:00:00.00,0:00:04.85,lassie wmt,,0,0,0,,{TIME:0,4859}{\pos(320,312)}WORLD MASTERPIECE THEATER
+Dialogue: 0,0:00:05.61,0:00:12.70,lassie title,,0,0,0,,{TIME:5610,12700}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
+Dialogue: 0,0:00:06.06,0:00:12.24,lassie default,,0,0,0,,{TIME:6069,12242}{\fs28\i1\pos(320,462)}"Neverending Story" sung by Jun Morioka
+Dialogue: 0,0:00:16.70,0:00:23.00,lassie song jp op,[karaoke],0,0,0,,{TIME:16704,23002}{\blur0.5}ryoute ni atarashii asa{NOTE:両手に新しい朝}
+Dialogue: 0,0:00:24.79,0:00:28.80,lassie song jp op,[karaoke],0,0,0,,{TIME:24796,28800}{\blur0.5}jibun ni kitaishite{NOTE:自分に期待して}
+Dialogue: 0,0:00:29.80,0:00:32.38,lassie song jp op,[karaoke],0,0,0,,{TIME:29801,32387}{\blur0.5}aruite yukou{NOTE:歩いて行こう}
+Dialogue: 0,0:00:33.05,0:00:35.72,lassie song jp op,[karaoke],0,0,0,,{TIME:33054,35723}{\blur0.5}osanai hi{NOTE:幼い日}
+Dialogue: 0,0:00:36.89,0:00:40.68,lassie song jp op,[karaoke],0,0,0,,{TIME:36891,40687}{\blur0.5}chiisana mune wo{NOTE:ちいさな胸を}
+Dialogue: 0,0:00:41.14,0:00:43.77,lassie song jp op,[karaoke],0,0,0,,{TIME:41145,43773}{\blur0.5}tokimekaseteta{NOTE:ときめかせてた}
+Dialogue: 0,0:00:43.94,0:00:46.69,lassie song jp op,[karaoke],0,0,0,,{TIME:43940,46693}{\blur0.5}zutto{NOTE:ずっと}
+Dialogue: 0,0:00:46.90,0:00:50.61,lassie song jp op,[karaoke],0,0,0,,{TIME:46901,50613}{\blur0.5}soba de mimamotteru{NOTE:そばで見守ってる}
+Dialogue: 0,0:00:51.73,0:00:58.58,lassie song jp op,[karaoke],0,0,0,,{TIME:51739,58580}{\blur0.5}daichi no komoriuta no you ni{NOTE:大地の子守歌のように}
+Dialogue: 0,0:00:58.74,0:01:02.29,lassie song jp op,[karaoke],0,0,0,,{TIME:58746,62292}{\blur0.5}sore wa kitto{NOTE:それはきっと}
+Dialogue: 0,0:01:02.50,0:01:06.21,lassie song jp op,[karaoke],0,0,0,,{TIME:62500,66212}{\blur0.5}dare no naka ni mo aru{NOTE:誰の中にもある}
+Dialogue: 0,0:01:06.50,0:01:13.84,lassie song jp op,[karaoke],0,0,0,,{TIME:66504,73845}{\blur0.5}owaranai monogatari{NOTE:終わらない物語}
+Dialogue: 0,0:00:16.70,0:00:23.00,lassie song en op,[karaoke],0,0,0,,{TIME:16704,23002}{\blur0.5}Walk towards
+Dialogue: 0,0:00:24.79,0:00:28.80,lassie song en op,[karaoke],0,0,0,,{TIME:24796,28800}{\blur0.5}the new day
+Dialogue: 0,0:00:29.80,0:00:32.38,lassie song en op,[karaoke],0,0,0,,{TIME:29801,32387}{\blur0.5}with hope
+Dialogue: 0,0:00:33.05,0:00:35.72,lassie song en op,[karaoke],0,0,0,,{TIME:33054,35723}{\blur0.5}In my childhood days,
+Dialogue: 0,0:00:36.89,0:00:40.68,lassie song en op,[karaoke],0,0,0,,{TIME:36891,40687}{\blur0.5}my little heart
+Dialogue: 0,0:00:41.14,0:00:43.77,lassie song en op,[karaoke],0,0,0,,{TIME:41145,43773}{\blur0.5}beat faster
+Dialogue: 0,0:00:43.94,0:00:46.69,lassie song en op,[karaoke],0,0,0,,{TIME:43940,46693}{\blur0.5}I will
+Dialogue: 0,0:00:46.90,0:00:50.61,lassie song en op,[karaoke],0,0,0,,{TIME:46901,50613}{\blur0.5}watch over you always,
+Dialogue: 0,0:00:51.73,0:00:58.58,lassie song en op,[karaoke],0,0,0,,{TIME:51739,58580}{\blur0.5}like a lullaby from the earth
+Dialogue: 0,0:00:58.74,0:01:02.29,lassie song en op,[karaoke],0,0,0,,{TIME:58746,62292}{\blur0.5}I'm sure everyone
+Dialogue: 0,0:01:02.50,0:01:06.21,lassie song en op,[karaoke],0,0,0,,{TIME:62500,66212}{\blur0.5}has one within them,
+Dialogue: 0,0:01:06.50,0:01:13.84,lassie song en op,[karaoke],0,0,0,,{TIME:66504,73845}{\blur0.5}a neverending story
 Dialogue: 0,0:01:22.96,0:01:27.68,lassie episode,,0,0,0,,{TIME:82960,87680}6 MILES IN SEARCH FOR FOOD
 Dialogue: 0,0:01:30.95,0:01:32.93,lassie default,,0,0,0,,{TIME:90950,92930}Well, the weather is lovely!
 Dialogue: 0,0:01:33.86,0:01:37.17,lassie default,,0,0,0,,{TIME:93860,97170}With the sunshine I have\Nto find something to cook!
@@ -273,3 +301,36 @@ Dialogue: 0,0:22:04.73,0:22:07.80,lassie default,,0,0,0,,{TIME:1324730,1327800}{
 Dialogue: 0,0:22:07.80,0:22:10.27,lassie default,,0,0,0,,{TIME:1327800,1330270}{\i1}To give Dr. Hooper the syringe!{\i0}
 Dialogue: 0,0:22:10.72,0:22:13.54,lassie default,,0,0,0,,{TIME:1330720,1333540}{\i1}Next episode:\NRUNNING THROUGH THE STORM{\i0}
 Dialogue: 0,0:22:13.81,0:22:15.02,lassie default,,0,0,0,,{TIME:1333810,1335020}{\i1}Be sure to watch!{\i0}
+Dialogue: 0,0:22:16.31,0:22:20.19,lassie default,,0,0,0,,{TIME:1336314,1340193}{\fs28\i1\pos(320,469)}"The Boy's Hill" sung by Jun Morioka
+Dialogue: 0,0:22:24.99,0:22:28.20,lassie song jp ed,[karaoke],0,0,0,,{TIME:1344990,1348201}tasogare ni wa kimi to{NOTE:黄昏には君と}
+Dialogue: 0,0:22:28.36,0:22:32.16,lassie song jp ed,[karaoke],0,0,0,,{TIME:1348368,1352163}oka no ue kakenobori{NOTE:丘の上駆け登り}
+Dialogue: 0,0:22:32.49,0:22:35.37,lassie song jp ed,[karaoke],0,0,0,,{TIME:1352497,1355375}tooi sora o miteta{NOTE:遠い空を見えた}
+Dialogue: 0,0:22:36.20,0:22:40.21,lassie song jp ed,[karaoke],0,0,0,,{TIME:1356209,1360213}shounen no anogoro woo{NOTE:少年のあの頃woo}
+Dialogue: 0,0:22:40.42,0:22:43.21,lassie song jp ed,[karaoke],0,0,0,,{TIME:1360422,1363216}poketto kara ochita{NOTE:ポケットから落ちた}
+Dialogue: 0,0:22:44.21,0:22:47.88,lassie song jp ed,[karaoke],0,0,0,,{TIME:1364217,1367888}candy to toki no suna{NOTE:キャンディと時の砂}
+Dialogue: 0,0:22:48.09,0:22:51.01,lassie song jp ed,[karaoke],0,0,0,,{TIME:1368096,1371016}otona ni naru tame no{NOTE:大人になるための}
+Dialogue: 0,0:22:51.55,0:22:55.60,lassie song jp ed,[karaoke],0,0,0,,{TIME:1371558,1375604}tabi wa hajimatteta{NOTE:度は始まってた}
+Dialogue: 0,0:22:56.10,0:22:59.02,lassie song jp ed,[karaoke],0,0,0,,{TIME:1376104,1379024}moeagaru{NOTE:燃えあがる}
+Dialogue: 0,0:22:59.44,0:23:03.11,lassie song jp ed,[karaoke],0,0,0,,{TIME:1379441,1383111}yuuhi no kanata{NOTE:夕陽の彼方}
+Dialogue: 0,0:23:03.32,0:23:06.86,lassie song jp ed,[karaoke],0,0,0,,{TIME:1383320,1386865}mada deaenai{NOTE:まだ出会えない}
+Dialogue: 0,0:23:07.11,0:23:10.91,lassie song jp ed,[karaoke],0,0,0,,{TIME:1387115,1390911}hito ya machi ga kitto matteru{NOTE:人や街がきっと待ってる}
+Dialogue: 0,0:23:11.16,0:23:14.53,lassie song jp ed,[karaoke],0,0,0,,{TIME:1391161,1394539}hohoen de{NOTE:微笑んで}
+Dialogue: 0,0:23:14.78,0:23:18.46,lassie song jp ed,[karaoke],0,0,0,,{TIME:1394789,1398460}yakusoku shita ne{NOTE:約束したね}
+Dialogue: 0,0:23:18.71,0:23:22.29,lassie song jp ed,[karaoke],0,0,0,,{TIME:1398710,1402297}ano oka wo koe{NOTE:あの丘を越え}
+Dialogue: 0,0:23:22.42,0:23:29.34,lassie song jp ed,[karaoke],0,0,0,,{TIME:1402422,1409346}itsuka yume wo sagashi ni yukou to{NOTE:いつか夢を探しに行こうと}
+Dialogue: 0,0:22:24.99,0:22:28.20,lassie song en ed,[karaoke],0,0,0,,{TIME:1344990,1348201}The clock strikes twelve,
+Dialogue: 0,0:22:28.36,0:22:32.16,lassie song en ed,[karaoke],0,0,0,,{TIME:1348368,1352163}and I run with you up the hill
+Dialogue: 0,0:22:32.49,0:22:35.37,lassie song en ed,[karaoke],0,0,0,,{TIME:1352497,1355375}We can see the distant skies
+Dialogue: 0,0:22:36.20,0:22:40.21,lassie song en ed,[karaoke],0,0,0,,{TIME:1356209,1360213}I still remember that time, woo
+Dialogue: 0,0:22:40.42,0:22:43.21,lassie song en ed,[karaoke],0,0,0,,{TIME:1360422,1363216}Falling out of the pocket,
+Dialogue: 0,0:22:44.21,0:22:47.88,lassie song en ed,[karaoke],0,0,0,,{TIME:1364217,1367888}a candy and the sands of time
+Dialogue: 0,0:22:48.09,0:22:51.01,lassie song en ed,[karaoke],0,0,0,,{TIME:1368096,1371016}The journey has begun
+Dialogue: 0,0:22:51.55,0:22:55.60,lassie song en ed,[karaoke],0,0,0,,{TIME:1371558,1375604}to become an adult
+Dialogue: 0,0:22:56.10,0:22:59.02,lassie song en ed,[karaoke],0,0,0,,{TIME:1376104,1379024}The hot burning
+Dialogue: 0,0:22:59.44,0:23:03.11,lassie song en ed,[karaoke],0,0,0,,{TIME:1379441,1383111}setting sun
+Dialogue: 0,0:23:03.32,0:23:06.86,lassie song en ed,[karaoke],0,0,0,,{TIME:1383320,1386865}is still high in the sky
+Dialogue: 0,0:23:07.11,0:23:10.91,lassie song en ed,[karaoke],0,0,0,,{TIME:1387115,1390911}People and towns are waiting
+Dialogue: 0,0:23:11.16,0:23:14.53,lassie song en ed,[karaoke],0,0,0,,{TIME:1391161,1394539}You promised
+Dialogue: 0,0:23:14.78,0:23:18.46,lassie song en ed,[karaoke],0,0,0,,{TIME:1394789,1398460}with a big smile
+Dialogue: 0,0:23:18.71,0:23:22.29,lassie song en ed,[karaoke],0,0,0,,{TIME:1398710,1402297}after we crossed that hill
+Dialogue: 0,0:23:22.42,0:23:29.34,lassie song en ed,[karaoke],0,0,0,,{TIME:1402422,1409346}that someday we'll fulfill our dreams
