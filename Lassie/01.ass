@@ -25,10 +25,10 @@ Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:04.94,lassie group,,0,0,0,,{TIME:0,4943}{\pos(320,188)}OldCastle and South Wind Subs present
-Dialogue: 0,0:00:00.00,0:00:04.94,lassie wmt,,0,0,0,,{TIME:0,4943}{\pos(320,312)}WORLD MASTERPIECE THEATER
-Dialogue: 0,0:00:05.65,0:00:12.78,lassie title,,0,0,0,,{TIME:5652,12784}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
-Dialogue: 0,0:00:06.15,0:00:12.32,lassie default,,0,0,0,,{TIME:6152,12325}{\fs28\i1\pos(320,462)}"Neverending Story" sung by Jun Morioka
+Dialogue: 0,0:00:00.00,0:00:04.94,lassie group,(sign),0,0,0,,{TIME:0,4943}{\pos(320,188)}OldCastle and South Wind Subs present
+Dialogue: 0,0:00:00.00,0:00:04.94,lassie wmt,(sign),0,0,0,,{TIME:0,4943}{\pos(320,312)}WORLD MASTERPIECE THEATER
+Dialogue: 0,0:00:05.65,0:00:12.78,lassie title,(sign),0,0,0,,{TIME:5652,12784}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
+Dialogue: 0,0:00:06.15,0:00:12.32,lassie default,(sign),0,0,0,,{TIME:6152,12325}{\fs28\i1\pos(320,462)}"Neverending Story" sung by Jun Morioka
 Dialogue: 0,0:00:16.78,0:00:23.08,lassie song jp op,[karaoke],0,0,0,,{TIME:16788,23086}{\blur0.5}ryoute ni atarashii asa{NOTE:両手に新しい朝}
 Dialogue: 0,0:00:24.87,0:00:28.88,lassie song jp op,[karaoke],0,0,0,,{TIME:24879,28883}{\blur0.5}jibun ni kitaishite{NOTE:自分に期待して}
 Dialogue: 0,0:00:29.88,0:00:32.47,lassie song jp op,[karaoke],0,0,0,,{TIME:29884,32470}{\blur0.5}aruite yukou{NOTE:歩いて行こう}
@@ -54,257 +54,257 @@ Dialogue: 0,0:00:58.83,0:01:02.37,lassie song en op,[karaoke],0,0,0,,{TIME:58830
 Dialogue: 0,0:01:02.58,0:01:06.29,lassie song en op,[karaoke],0,0,0,,{TIME:62584,66296}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.58,0:01:13.92,lassie song en op,[karaoke],0,0,0,,{TIME:66588,73928}{\blur0.5}a neverending story
 Dialogue: 0,0:01:20.56,0:01:28.19,lassie episode,[title],0,0,0,,{TIME:80560,88192}{\blur0.5\fad(1500,0)\pos(320,295)}I'm Not Alone
-Dialogue: 0,0:01:33.07,0:01:34.82,lassie default,,0,0,0,,{TIME:93072,94824}Hot! Hot!
-Dialogue: 0,0:01:43.91,0:01:46.66,lassie default,,0,0,0,,{TIME:103916,106669}John? I'm going soon.
-Dialogue: 0,0:01:59.68,0:02:01.68,lassie default,,0,0,0,,{TIME:119682,121684}Jules Verne, huh?
-Dialogue: 0,0:02:03.35,0:02:04.85,lassie default,,0,0,0,,{TIME:123353,124854}I read him a lot, too.
-Dialogue: 0,0:02:07.81,0:02:08.65,lassie default,,0,0,0,,{TIME:127815,128650}Oh?
-Dialogue: 0,0:02:12.02,0:02:13.69,lassie default,,0,0,0,,{TIME:132028,133696}Good morning, Dad.
-Dialogue: 0,0:02:15.07,0:02:18.57,lassie default,,0,0,0,,{TIME:135073,138576}Oh, right!\NI'm going to be late for work.
-Dialogue: 0,0:02:18.57,0:02:21.87,lassie default,,0,0,0,,{TIME:138576,141871}I'm going out now,\Nbut I made you breakfast.
-Dialogue: 0,0:02:21.87,0:02:23.08,lassie default,,0,0,0,,{TIME:141871,143081}Where's Mom?
-Dialogue: 0,0:02:23.08,0:02:25.58,lassie default,,0,0,0,,{TIME:143081,145583}She's been at\NHamilton's since yesterday.
-Dialogue: 0,0:02:25.58,0:02:27.54,lassie default,,0,0,0,,{TIME:145583,147543}Looks like it's a difficult delivery.
-Dialogue: 0,0:02:27.54,0:02:28.79,lassie default,,0,0,0,,{TIME:147543,148795}I see.
-Dialogue: 0,0:02:29.79,0:02:32.79,lassie default,,0,0,0,,{TIME:149796,152799}The baby's not born yet?
-Dialogue: 0,0:02:33.34,0:02:34.30,lassie default,,0,0,0,,{TIME:153341,154300}See you later.
-Dialogue: 0,0:02:34.71,0:02:39.09,lassie default,,0,0,0,,{TIME:154717,159097}Oh, I might be late today,\Nso take care of the house.
-Dialogue: 0,0:02:39.09,0:02:41.39,lassie default,,0,0,0,,{TIME:159097,161391}Mom should be back by noon.
-Dialogue: 0,0:02:41.39,0:02:43.30,lassie default,,0,0,0,,{TIME:161391,163309}Hey, is it a boy or a girl?
-Dialogue: 0,0:02:44.06,0:02:45.81,lassie default,,0,0,0,,{TIME:164060,165812}Oh? What is?
-Dialogue: 0,0:02:46.31,0:02:49.02,lassie default,,0,0,0,,{TIME:166312,169023}Mrs. Hamilton's baby, of course!
-Dialogue: 0,0:02:49.02,0:02:51.23,lassie default,,0,0,0,,{TIME:169023,171234}I sure hope it's a boy.
-Dialogue: 0,0:02:51.23,0:02:55.32,lassie default,,0,0,0,,{TIME:171234,175321}If it is, I'll take him\Nto the hill of the Rocky Heath.
-Dialogue: 0,0:02:59.07,0:03:00.49,lassie default,,0,0,0,,{TIME:179075,180493}Have a nice day at work!
-Dialogue: 0,0:03:00.49,0:03:01.36,lassie default,,0,0,0,,{TIME:180493,181369}Thanks.
-Dialogue: 0,0:03:16.09,0:03:17.21,lassie default,,0,0,0,,{TIME:196092,197218}All right, see you later.
-Dialogue: 0,0:03:17.21,0:03:18.09,lassie default,,0,0,0,,{TIME:197218,198094}Be careful.
-Dialogue: 0,0:03:29.31,0:03:30.10,lassie default,,0,0,0,,{TIME:209313,210106}Good morning, Sam.
-Dialogue: 0,0:03:30.10,0:03:31.14,lassie default,,0,0,0,,{TIME:210106,211149}Good morning, Ed.
-Dialogue: 0,0:03:31.60,0:03:33.15,lassie default,,0,0,0,,{TIME:211607,213151}Hey, Sam.
-Dialogue: 0,0:03:33.15,0:03:34.52,lassie default,,0,0,0,,{TIME:213151,214527}Good morning, Kevin.
-Dialogue: 0,0:03:34.52,0:03:35.52,lassie default,,0,0,0,,{TIME:214527,215528}Good morning, Sam.
-Dialogue: 0,0:03:35.52,0:03:37.15,lassie default,,0,0,0,,{TIME:215528,217155}Good morning.\NWe rely on you today.
-Dialogue: 0,0:03:37.61,0:03:38.48,lassie default,,0,0,0,,{TIME:217613,218489}Good morning, Sam.
-Dialogue: 0,0:03:38.48,0:03:39.49,lassie default,,0,0,0,,{TIME:218489,219490}Yeah, good morning.
-Dialogue: 0,0:03:39.49,0:03:40.03,lassie default,,0,0,0,,{TIME:219490,220032}Morning.
-Dialogue: 0,0:03:40.03,0:03:41.65,lassie default,,0,0,0,,{TIME:220032,221659}How are things today?
-Dialogue: 0,0:03:52.12,0:03:54.29,lassie default,,0,0,0,,{TIME:232128,234297}This is the tastiest way to eat it!
-Dialogue: 0,0:04:02.26,0:04:04.26,lassie default,,0,0,0,,{TIME:242263,244265}Thanks for the food.
-Dialogue: 0,0:04:08.26,0:04:11.31,lassie default,,0,0,0,,{TIME:248269,251314}I'm leaving!
-Dialogue: 0,0:04:23.24,0:04:26.12,lassie default,,0,0,0,,{TIME:263242,266120}Eh, not like anybody's gonna answer.\NI'm all alone today.
-Dialogue: 0,0:04:26.12,0:04:28.87,lassie default,,0,0,0,,{TIME:266120,268873}Be careful, John!
-Dialogue: 0,0:04:29.29,0:04:31.37,lassie default,,0,0,0,,{TIME:269290,271375}I will!
-Dialogue: 0,0:04:36.67,0:04:39.09,lassie default,,0,0,0,,{TIME:276672,279091}Right. Before I go to school…
-Dialogue: 0,0:04:44.38,0:04:46.68,lassie default,,0,0,0,,{TIME:284388,286682}John Carraclough!
-Dialogue: 0,0:04:47.64,0:04:51.18,lassie default,,0,0,0,,{TIME:287642,291187}Where are you going?\NThis is not the road to school.
-Dialogue: 0,0:04:51.85,0:04:55.35,lassie default,,0,0,0,,{TIME:291854,295358}I haven't said "good morning"\Nto my mother yet.
-Dialogue: 0,0:04:55.35,0:04:56.94,lassie default,,0,0,0,,{TIME:295358,296943}So I'm going to\NMrs. Hamilton's house.
-Dialogue: 0,0:04:56.94,0:04:58.61,lassie default,,0,0,0,,{TIME:296943,298611}Have a nice day, Grandma!
-Dialogue: 0,0:05:11.45,0:05:14.50,lassie default,,0,0,0,,{TIME:311457,314502}Melissa, your son's here!
-Dialogue: 0,0:05:16.33,0:05:19.50,lassie default,,0,0,0,,{TIME:316337,319507}Just a minute.\NI can't exactly talk to him right now.
-Dialogue: 0,0:05:19.96,0:05:22.71,lassie default,,0,0,0,,{TIME:319966,322718}What are you talking about,\NMrs. Carraclough?
-Dialogue: 0,0:05:22.71,0:05:25.09,lassie default,,0,0,0,,{TIME:322718,325096}At least say\N"good morning" to your son.
-Dialogue: 0,0:05:25.09,0:05:26.59,lassie default,,0,0,0,,{TIME:325096,326597}Oh, Doctor…
-Dialogue: 0,0:05:32.77,0:05:34.06,lassie default,,0,0,0,,{TIME:332770,334063}Mom!
-Dialogue: 0,0:05:34.64,0:05:37.40,lassie default,,0,0,0,,{TIME:334647,337400}Good morning, John.\NDid you eat your breakfast today?
-Dialogue: 0,0:05:37.40,0:05:39.77,lassie default,,0,0,0,,{TIME:337400,339777}Yes. Dad made it for me.
-Dialogue: 0,0:05:40.52,0:05:42.98,lassie default,,0,0,0,,{TIME:340528,342989}It must be tough for you,\Nstaying up all night long.
-Dialogue: 0,0:05:43.90,0:05:45.49,lassie default,,0,0,0,,{TIME:343906,345491}I'm fine.
-Dialogue: 0,0:05:45.49,0:05:48.20,lassie default,,0,0,0,,{TIME:345491,348202}The lady who gives birth to the baby\Nalways has it the worst.
-Dialogue: 0,0:05:48.20,0:05:50.78,lassie default,,0,0,0,,{TIME:348202,350788}The entire night passed\Nand the baby still didn't come out.
-Dialogue: 0,0:05:53.33,0:05:56.46,lassie default,,0,0,0,,{TIME:353332,356460}Oh, good, good.\NYou're almost there.
-Dialogue: 0,0:05:56.46,0:05:58.17,lassie default,,0,0,0,,{TIME:356460,358170}Mrs. Carraclough!\NI need your help!
-Dialogue: 0,0:05:59.42,0:06:01.29,lassie default,,0,0,0,,{TIME:359422,361299}If all goes smooth,\NI'll be back before lunch.
-Dialogue: 0,0:06:02.04,0:06:02.88,lassie default,,0,0,0,,{TIME:362049,362884}Bye.
-Dialogue: 0,0:06:03.46,0:06:04.30,lassie default,,0,0,0,,{TIME:363467,364302}Good luck!
-Dialogue: 0,0:06:23.15,0:06:24.32,lassie default,,0,0,0,,{TIME:383154,384322}Yes?
-Dialogue: 0,0:06:24.32,0:06:25.65,lassie default,,0,0,0,,{TIME:384322,385656}Ah, that's right.
-Dialogue: 0,0:06:26.61,0:06:27.86,lassie default,,0,0,0,,{TIME:386616,387867}I see.
-Dialogue: 0,0:06:28.53,0:06:29.99,lassie default,,0,0,0,,{TIME:388534,389994}That's fantastic!
-Dialogue: 0,0:06:31.07,0:06:35.12,lassie default,,0,0,0,,{TIME:391078,395124}Hey, someone tell Brad Hamilton!
-Dialogue: 0,0:06:35.12,0:06:36.87,lassie default,,0,0,0,,{TIME:395124,396876}The baby's here!
-Dialogue: 0,0:06:36.87,0:06:38.83,lassie default,,0,0,0,,{TIME:396876,398836}It's a girl!
-Dialogue: 0,0:06:38.83,0:06:40.21,lassie default,,0,0,0,,{TIME:398836,400212}It's a girl!
-Dialogue: 0,0:06:47.76,0:06:50.13,lassie default,,0,0,0,,{TIME:407762,410139}Congrats!\NYou're a father now, you rascal!
-Dialogue: 0,0:06:51.68,0:06:53.60,lassie default,,0,0,0,,{TIME:411682,413601}Congratulations!
-Dialogue: 0,0:06:54.35,0:06:55.72,lassie default,,0,0,0,,{TIME:414352,415728}Thank you, thank you!
-Dialogue: 0,0:07:08.78,0:07:10.32,lassie default,,0,0,0,,{TIME:428783,430326}Hey, Colin.
-Dialogue: 0,0:07:10.32,0:07:12.82,lassie default,,0,0,0,,{TIME:430326,432828}Why don't we come\Nto the river after school?
-Dialogue: 0,0:07:14.28,0:07:18.29,lassie default,,0,0,0,,{TIME:434288,438292}I'd like to,\Nbut I have work in the store.
-Dialogue: 0,0:07:20.50,0:07:24.84,lassie default,,0,0,0,,{TIME:440503,444840}Oh, well. My mom's gonna\Nbe home soon, anyway.
-Dialogue: 0,0:07:24.84,0:07:26.55,lassie default,,0,0,0,,{TIME:444840,446550}The river, you say?
-Dialogue: 0,0:07:26.55,0:07:29.51,lassie default,,0,0,0,,{TIME:446550,449512}I can't believe you kids.\NWhat's so fun about getting all muddy?
-Dialogue: 0,0:07:29.51,0:07:32.05,lassie default,,0,0,0,,{TIME:449512,452056}Uh, you're a kid yourself.
-Dialogue: 0,0:07:32.05,0:07:34.60,lassie default,,0,0,0,,{TIME:452056,454600}Whatever.\NWe're not going, anyway.
-Dialogue: 0,0:07:34.60,0:07:36.01,lassie default,,0,0,0,,{TIME:454600,456018}What? You're not?
-Dialogue: 0,0:07:37.10,0:07:38.98,lassie default,,0,0,0,,{TIME:457103,458980}I see. Oh, well.
-Dialogue: 0,0:07:40.06,0:07:41.85,lassie default,,0,0,0,,{TIME:460064,461857}Bye-bye!
-Dialogue: 0,0:07:58.20,0:07:59.45,lassie default,,0,0,0,,{TIME:478207,479458}I'm back!
-Dialogue: 0,0:08:00.87,0:08:02.71,lassie default,,0,0,0,,{TIME:480876,482712}Mom, I'm home!
-Dialogue: 0,0:08:06.34,0:08:07.80,lassie default,,0,0,0,,{TIME:486340,487800}Mom?
-Dialogue: 0,0:08:10.63,0:08:13.59,lassie default,,0,0,0,,{TIME:490636,493597}Mom, are you here?
-Dialogue: 0,0:08:18.18,0:08:20.10,lassie default,,0,0,0,,{TIME:498185,500104}Maybe she's sleeping upstairs.
-Dialogue: 0,0:08:25.86,0:08:27.52,lassie default,,0,0,0,,{TIME:505860,507528}Mom?
-Dialogue: 0,0:08:40.20,0:08:41.91,lassie default,,0,0,0,,{TIME:520207,521917}Oh, it's you, John.
-Dialogue: 0,0:08:42.37,0:08:45.25,lassie default,,0,0,0,,{TIME:522376,525254}Did Mrs. Hamilton deliver the baby?
-Dialogue: 0,0:08:45.25,0:08:46.63,lassie default,,0,0,0,,{TIME:525254,526630}Yes, she did!
-Dialogue: 0,0:08:46.63,0:08:51.09,lassie default,,0,0,0,,{TIME:526630,531093}Your dad told me that I can take a day off,\Nso I came here right away.
-Dialogue: 0,0:08:51.09,0:08:53.59,lassie default,,0,0,0,,{TIME:531093,533596}The ladies who helped\Nhave all left, too.
-Dialogue: 0,0:08:53.59,0:08:57.05,lassie default,,0,0,0,,{TIME:533596,537058}Come with me.\NYou have to see our child.
-Dialogue: 0,0:08:57.05,0:08:58.47,lassie default,,0,0,0,,{TIME:537058,538476}Sure, but…
-Dialogue: 0,0:08:58.47,0:09:00.77,lassie default,,0,0,0,,{TIME:538476,540770}Do you know where's my mom?
-Dialogue: 0,0:09:00.77,0:09:05.27,lassie default,,0,0,0,,{TIME:540770,545274}Ah, she left with Dr. Hopper.\NDon't worry.
-Dialogue: 0,0:09:05.27,0:09:07.10,lassie default,,0,0,0,,{TIME:545274,547109}Here, this way.\NCome on.
-Dialogue: 0,0:09:09.73,0:09:12.11,lassie default,,0,0,0,,{TIME:549737,552114}Oh, it's so cute.
-Dialogue: 0,0:09:12.53,0:09:16.11,lassie default,,0,0,0,,{TIME:552531,556118}I know, right? Her eyelashes\Nare so long, she's a true beauty.
-Dialogue: 0,0:09:16.11,0:09:17.11,lassie default,,0,0,0,,{TIME:556118,557119}John?
-Dialogue: 0,0:09:17.66,0:09:21.20,lassie default,,0,0,0,,{TIME:557661,561207}I am so grateful\Nto your mother and father.
-Dialogue: 0,0:09:21.20,0:09:22.12,lassie default,,0,0,0,,{TIME:561207,562124}Thank you for everything.
-Dialogue: 0,0:09:22.83,0:09:23.95,lassie default,,0,0,0,,{TIME:562833,563959}No problem…
-Dialogue: 0,0:09:33.05,0:09:34.55,lassie default,,0,0,0,,{TIME:573052,574553}Ah, John.
-Dialogue: 0,0:09:34.80,0:09:36.05,lassie default,,0,0,0,,{TIME:574804,576055}Mom!
-Dialogue: 0,0:09:36.05,0:09:37.55,lassie default,,0,0,0,,{TIME:576055,577556}You're such a baby.
-Dialogue: 0,0:09:38.22,0:09:41.64,lassie default,,0,0,0,,{TIME:578224,581644}I'm sorry,\Nbut I have to go out again.
-Dialogue: 0,0:09:41.64,0:09:44.52,lassie default,,0,0,0,,{TIME:581644,584522}A patient with peritonitis\Nis now down with a cold on top of it.
-Dialogue: 0,0:09:44.52,0:09:47.56,lassie default,,0,0,0,,{TIME:584522,587566}He is going to have a procedure\Nand I'll have to take care of him tonight.
-Dialogue: 0,0:09:48.19,0:09:50.94,lassie default,,0,0,0,,{TIME:588192,590945}But, Mom,\Nyou haven't slept last night.
-Dialogue: 0,0:09:52.40,0:09:54.24,lassie default,,0,0,0,,{TIME:592404,594240}Your mother is strong.
-Dialogue: 0,0:09:54.24,0:09:56.57,lassie default,,0,0,0,,{TIME:594240,596575}But will you be able\Nto eat dinner by yourself, John?
-Dialogue: 0,0:09:58.45,0:10:00.78,lassie default,,0,0,0,,{TIME:598452,600788}I'll be fine. Don't worry.
-Dialogue: 0,0:10:00.78,0:10:03.08,lassie default,,0,0,0,,{TIME:600788,603082}Nice. You're such a big boy now.
-Dialogue: 0,0:10:04.66,0:10:08.46,lassie default,,0,0,0,,{TIME:604667,608462}I have prepared the food in a pot,\Nso you only need to heat it later.
-Dialogue: 0,0:10:08.46,0:10:09.92,lassie default,,0,0,0,,{TIME:608462,609922}Thanks.
-Dialogue: 0,0:10:25.93,0:10:27.48,lassie default,,0,0,0,,{TIME:625938,627481}Colin!
-Dialogue: 0,0:10:28.73,0:10:29.77,lassie default,,0,0,0,,{TIME:628732,629775}John?
-Dialogue: 0,0:10:29.77,0:10:31.36,lassie default,,0,0,0,,{TIME:629775,631360}Hey, Colin!
-Dialogue: 0,0:10:31.36,0:10:33.98,lassie default,,0,0,0,,{TIME:631360,633988}I told you before,\NI can't play today.
-Dialogue: 0,0:10:33.98,0:10:36.69,lassie default,,0,0,0,,{TIME:633988,636699}I know. Did they\Nput you on delivery?
-Dialogue: 0,0:10:36.69,0:10:38.11,lassie default,,0,0,0,,{TIME:636699,638117}Are these the goods?
-Dialogue: 0,0:10:38.11,0:10:39.49,lassie default,,0,0,0,,{TIME:638117,639493}Yes.
-Dialogue: 0,0:10:39.49,0:10:41.49,lassie default,,0,0,0,,{TIME:639493,641495}Looks kinda heavy.
-Dialogue: 0,0:10:42.24,0:10:43.49,lassie default,,0,0,0,,{TIME:642246,643497}Hey, how about I help you out?
-Dialogue: 0,0:10:44.12,0:10:45.79,lassie default,,0,0,0,,{TIME:644123,645791}Oh? Really?
-Dialogue: 0,0:10:45.79,0:10:51.00,lassie default,,0,0,0,,{TIME:645791,651005}You bet! We can ride together\Nall around the town that way.
-Dialogue: 0,0:10:52.08,0:10:56.26,lassie default,,0,0,0,,{TIME:652089,656260}Okay. If you ride the bike,\NI'll take care of this.
-Dialogue: 0,0:10:57.67,0:11:02.09,lassie default,,0,0,0,,{TIME:657678,662099}I was asked to deliver this stuff to places\Nall over the town and to a nearby village.
-Dialogue: 0,0:11:02.09,0:11:04.51,lassie default,,0,0,0,,{TIME:662099,664518}I was wondering\Nhow I'm going to handle that.
-Dialogue: 0,0:11:05.43,0:11:09.48,lassie default,,0,0,0,,{TIME:665436,669481}Eh, I thought we're gonna\Ndo the deliveries together.
-Dialogue: 0,0:11:09.48,0:11:11.90,lassie default,,0,0,0,,{TIME:669481,671901}I'm alone again.
-Dialogue: 0,0:11:12.94,0:11:14.52,lassie default,,0,0,0,,{TIME:672943,674528}Well, that's too bad.
-Dialogue: 0,0:11:30.46,0:11:32.58,lassie default,,0,0,0,,{TIME:690461,692588}Oh, it's an airplane!
-Dialogue: 0,0:11:36.50,0:11:41.26,lassie default,,0,0,0,,{TIME:696508,701263}Amazing… I'd love\Nto fly one some day.
-Dialogue: 0,0:11:46.01,0:11:47.77,lassie default,,0,0,0,,{TIME:706018,707770}It's landing here!
-Dialogue: 0,0:12:09.50,0:12:11.50,lassie default,,0,0,0,,{TIME:729500,731502}So awesome.
-Dialogue: 0,0:12:28.47,0:12:32.18,lassie default,,0,0,0,,{TIME:748477,752189}Hey, stay away from the bike!
-Dialogue: 0,0:12:32.18,0:12:36.77,lassie default,,0,0,0,,{TIME:752189,756777}Hey, don't do that!\NIt's not mine, you know!
-Dialogue: 0,0:12:36.77,0:12:40.15,lassie default,,0,0,0,,{TIME:756777,760155}Don't touch it!
-Dialogue: 0,0:12:44.45,0:12:45.66,lassie default,,0,0,0,,{TIME:764451,765661}This is bad…
-Dialogue: 0,0:12:47.03,0:12:49.83,lassie default,,0,0,0,,{TIME:767037,769832}How long are they going\Nto be like this?
-Dialogue: 0,0:12:58.29,0:12:59.92,lassie default,,0,0,0,,{TIME:778299,779925}Hey, it's a…
-Dialogue: 0,0:12:59.92,0:13:01.84,lassie default,,0,0,0,,{TIME:779925,781844}What is it doing here?
-Dialogue: 0,0:13:01.84,0:13:04.34,lassie default,,0,0,0,,{TIME:781844,784346}Whose dog is it?
-Dialogue: 0,0:13:05.59,0:13:08.18,lassie default,,0,0,0,,{TIME:785597,788183}Don't move.\NYou'll be crushed if you move!
-Dialogue: 0,0:13:12.85,0:13:13.93,lassie default,,0,0,0,,{TIME:792855,793939}Wait for me!
-Dialogue: 0,0:13:25.70,0:13:28.16,lassie default,,0,0,0,,{TIME:805701,808162}Hey, stay where you are!
-Dialogue: 0,0:13:30.20,0:13:32.08,lassie default,,0,0,0,,{TIME:810205,812082}Where did it go?
-Dialogue: 0,0:13:36.54,0:13:39.13,lassie default,,0,0,0,,{TIME:816545,819131}Hey, where did you go?
-Dialogue: 0,0:13:42.30,0:13:43.51,lassie default,,0,0,0,,{TIME:822301,823510}Here you are.
-Dialogue: 0,0:13:44.55,0:13:47.18,lassie default,,0,0,0,,{TIME:824553,827181}Come on, come here…
-Dialogue: 0,0:13:49.85,0:13:53.52,lassie default,,0,0,0,,{TIME:829850,833520}Alright. All's good now.\NAre you okay?
-Dialogue: 0,0:14:01.52,0:14:04.15,lassie default,,0,0,0,,{TIME:841528,844156}Are you okay?
-Dialogue: 0,0:14:04.15,0:14:05.94,lassie default,,0,0,0,,{TIME:844156,845949}Did you get hurt?
-Dialogue: 0,0:14:27.67,0:14:32.30,lassie default,,0,0,0,,{TIME:867679,872309}Don't go near sheep again.\NYou'll be crushed if you do.
-Dialogue: 0,0:14:32.30,0:14:34.81,lassie default,,0,0,0,,{TIME:872309,874812}Now, go home\Nto your owner. Okay?
-Dialogue: 0,0:14:36.81,0:14:41.06,lassie default,,0,0,0,,{TIME:876814,881068}I have to deliver these\Nas soon as possible.
-Dialogue: 0,0:14:41.06,0:14:42.61,lassie default,,0,0,0,,{TIME:881068,882611}Bye!
-Dialogue: 0,0:15:24.77,0:15:27.28,lassie default,,0,0,0,,{TIME:924778,927281}Oh, I'm so beat.
-Dialogue: 0,0:15:28.44,0:15:31.07,lassie default,,0,0,0,,{TIME:928449,931076}When I go back home,\Nit's dinner all alone…
-Dialogue: 0,0:15:35.28,0:15:38.16,lassie default,,0,0,0,,{TIME:935289,938167}What's the matter, buddy?\NYou're still here?
-Dialogue: 0,0:15:39.66,0:15:41.00,lassie default,,0,0,0,,{TIME:939668,941003}Could it be…
-Dialogue: 0,0:15:42.21,0:15:44.00,lassie default,,0,0,0,,{TIME:942212,944006}That you don't have\Na home to go back to?
-Dialogue: 0,0:15:47.09,0:15:49.09,lassie default,,0,0,0,,{TIME:947092,949094}Are you lost?
-Dialogue: 0,0:15:51.68,0:15:55.26,lassie default,,0,0,0,,{TIME:951680,955267}You look so sad.\NWhat's going on?
-Dialogue: 0,0:15:57.60,0:16:00.02,lassie default,,0,0,0,,{TIME:957603,960022}Don't tell me you're sick?
-Dialogue: 0,0:16:02.56,0:16:05.61,lassie default,,0,0,0,,{TIME:962566,965611}This is bad! This is bad!
-Dialogue: 0,0:16:05.61,0:16:08.48,lassie default,,0,0,0,,{TIME:965611,968489}You just rest.\NI'll take you home immediately!
-Dialogue: 0,0:16:14.03,0:16:18.49,lassie default,,0,0,0,,{TIME:974036,978499}Colin! I'm done with the delivery!\NI left the bike outside!
-Dialogue: 0,0:16:18.49,0:16:19.75,lassie default,,0,0,0,,{TIME:978499,979750}Laters!
-Dialogue: 0,0:16:23.04,0:16:23.71,lassie default,,0,0,0,,{TIME:983045,983712}John?
-Dialogue: 0,0:16:26.50,0:16:28.71,lassie default,,0,0,0,,{TIME:986507,988717}Faster! Faster! Faster!
-Dialogue: 0,0:16:39.93,0:16:42.27,lassie default,,0,0,0,,{TIME:999937,1002272}Look, I lit the fire.
-Dialogue: 0,0:16:42.27,0:16:44.31,lassie default,,0,0,0,,{TIME:1002272,1004316}Now, let's get you warmed up.
-Dialogue: 0,0:16:48.07,0:16:54.24,lassie default,,0,0,0,,{TIME:1008070,1014243}My mom often comes back late,\Nso I know how to light it on.
-Dialogue: 0,0:16:54.24,0:16:56.49,lassie default,,0,0,0,,{TIME:1014243,1016495}What do you think?\NFeel any better?
-Dialogue: 0,0:17:02.87,0:17:06.29,lassie default,,0,0,0,,{TIME:1022876,1026296}What a good smell!\NIt's the food Mom has made.
-Dialogue: 0,0:17:07.71,0:17:11.05,lassie default,,0,0,0,,{TIME:1027714,1031051}Let me guess, you're hungry?
-Dialogue: 0,0:17:12.42,0:17:13.88,lassie default,,0,0,0,,{TIME:1032427,1033887}Wait here.
-Dialogue: 0,0:17:17.26,0:17:19.51,lassie default,,0,0,0,,{TIME:1037266,1039518}Oh? We ran out of milk.
-Dialogue: 0,0:17:19.51,0:17:21.43,lassie default,,0,0,0,,{TIME:1039518,1041436}Wait for me.\NI'm going to fetch some!
-Dialogue: 0,0:17:32.86,0:17:34.57,lassie default,,0,0,0,,{TIME:1052864,1054575}Sandy!
-Dialogue: 0,0:17:43.41,0:17:46.29,lassie default,,0,0,0,,{TIME:1063417,1066295}What color is the puppy?
-Dialogue: 0,0:17:46.29,0:17:48.67,lassie default,,0,0,0,,{TIME:1066295,1068672}Hm, how to describe it…
-Dialogue: 0,0:17:48.67,0:17:53.09,lassie default,,0,0,0,,{TIME:1068672,1073093}It's mostly brown,\Nbut it has also white spots.
-Dialogue: 0,0:17:53.09,0:17:54.67,lassie default,,0,0,0,,{TIME:1073093,1074678}It's about this big.
-Dialogue: 0,0:17:54.67,0:17:55.88,lassie default,,0,0,0,,{TIME:1074678,1075887}So it's still just a pup.
-Dialogue: 0,0:17:58.51,0:18:01.43,lassie default,,0,0,0,,{TIME:1078515,1081435}Let me see that guy next time.
-Dialogue: 0,0:18:01.43,0:18:02.72,lassie default,,0,0,0,,{TIME:1081435,1082728}Yeah. Sure.
-Dialogue: 0,0:18:02.72,0:18:04.22,lassie default,,0,0,0,,{TIME:1082728,1084229}Really?
-Dialogue: 0,0:18:04.64,0:18:06.35,lassie default,,0,0,0,,{TIME:1084646,1086356}It's a promise!
-Dialogue: 0,0:18:06.35,0:18:08.10,lassie default,,0,0,0,,{TIME:1086356,1088108}Thanks for the milk!
-Dialogue: 0,0:18:20.70,0:18:23.79,lassie default,,0,0,0,,{TIME:1100704,1103790}Here, I brought you some milk.\NIt's delicious.
-Dialogue: 0,0:18:26.20,0:18:29.25,lassie default,,0,0,0,,{TIME:1106209,1109254}What's the matter?\NWeren't you hungry?
-Dialogue: 0,0:18:35.21,0:18:38.93,lassie default,,0,0,0,,{TIME:1115218,1118930}What's the matter?\NYou can't drink milk by yourself?
-Dialogue: 0,0:18:39.76,0:18:41.39,lassie default,,0,0,0,,{TIME:1119765,1121391}You're like a baby.
-Dialogue: 0,0:18:42.18,0:18:46.43,lassie default,,0,0,0,,{TIME:1122184,1126438}Boy, I am tired.\NIt'd be nice if Dad came home soon.
-Dialogue: 0,0:18:56.65,0:18:58.57,lassie default,,0,0,0,,{TIME:1136657,1138575}Looks like I'm stuck here.
-Dialogue: 0,0:18:59.91,0:19:02.62,lassie default,,0,0,0,,{TIME:1139910,1142621}Two people from section 2\Nhaven't returned yet.
-Dialogue: 0,0:19:02.62,0:19:04.08,lassie default,,0,0,0,,{TIME:1142621,1144081}I wonder what's going on?
-Dialogue: 0,0:19:06.37,0:19:09.08,lassie default,,0,0,0,,{TIME:1146375,1149086}They should've come back\Na long time ago.
-Dialogue: 0,0:19:11.08,0:19:13.59,lassie default,,0,0,0,,{TIME:1151088,1153590}I hope there wasn't an accident.
-Dialogue: 0,0:19:15.34,0:19:16.63,lassie default,,0,0,0,,{TIME:1155342,1156635}I can't believe it!
-Dialogue: 0,0:19:16.63,0:19:19.59,lassie default,,0,0,0,,{TIME:1156635,1159596}It was a helpless puppy\Njust seconds ago!
-Dialogue: 0,0:19:20.68,0:19:23.72,lassie default,,0,0,0,,{TIME:1160681,1163725}I know. I know!\NThat's what it's after.
-Dialogue: 0,0:19:23.72,0:19:24.89,lassie default,,0,0,0,,{TIME:1163725,1164893}Colin!
-Dialogue: 0,0:19:26.18,0:19:27.68,lassie default,,0,0,0,,{TIME:1166186,1167688}Colin!
-Dialogue: 0,0:19:29.77,0:19:31.65,lassie default,,0,0,0,,{TIME:1169773,1171650}John? Is it you, John?
-Dialogue: 0,0:19:31.65,0:19:32.69,lassie default,,0,0,0,,{TIME:1171650,1172693}Yes.
-Dialogue: 0,0:19:33.73,0:19:37.32,lassie default,,0,0,0,,{TIME:1173735,1177322}Sorry, John.\NI got scolded by Dad.
-Dialogue: 0,0:19:37.32,0:19:40.40,lassie default,,0,0,0,,{TIME:1177322,1180409}He asked if I thanked you\Nfor helping with the delivery.
-Dialogue: 0,0:19:40.40,0:19:42.86,lassie default,,0,0,0,,{TIME:1180409,1182869}Well, how could you?\NI was in such a rush.
-Dialogue: 0,0:19:42.86,0:19:45.33,lassie default,,0,0,0,,{TIME:1182869,1185330}Say, do you happen\Nto have a baby bottle?
-Dialogue: 0,0:19:45.33,0:19:46.28,lassie default,,0,0,0,,{TIME:1185330,1186289}A baby bottle?
-Dialogue: 0,0:19:49.33,0:19:51.12,lassie default,,0,0,0,,{TIME:1189334,1191128}– A puppy?\N– Yes!
-Dialogue: 0,0:19:51.12,0:19:54.88,lassie default,,0,0,0,,{TIME:1191128,1194881}We just sold the last one\Nto Mrs. Hamilton.
-Dialogue: 0,0:19:54.88,0:19:55.79,lassie default,,0,0,0,,{TIME:1194881,1195799}I see…
-Dialogue: 0,0:19:56.63,0:20:00.88,lassie default,,0,0,0,,{TIME:1196633,1200887}Ah, wait, we still have one.\NIt's the one we used for my little brother.
-Dialogue: 0,0:20:02.55,0:20:04.39,lassie default,,0,0,0,,{TIME:1202556,1204391}Next time, you must\Nshow me that puppy!
-Dialogue: 0,0:20:04.39,0:20:05.47,lassie default,,0,0,0,,{TIME:1204391,1205475}Sure thing!
-Dialogue: 0,0:20:10.18,0:20:12.60,lassie default,,0,0,0,,{TIME:1210188,1212607}Can it drink through it, though?
-Dialogue: 0,0:20:19.65,0:20:22.65,lassie default,,0,0,0,,{TIME:1219656,1222659}You must've been starving.
-Dialogue: 0,0:20:24.07,0:20:26.12,lassie default,,0,0,0,,{TIME:1224077,1226121}You drank it all already.
-Dialogue: 0,0:20:32.21,0:20:35.00,lassie default,,0,0,0,,{TIME:1232210,1235005}Look at you, buddy!\NYou've gotten all cheerful.
-Dialogue: 0,0:20:36.63,0:20:38.00,lassie default,,0,0,0,,{TIME:1236631,1238008}You feel better, don't you?
-Dialogue: 0,0:20:43.72,0:20:45.89,lassie default,,0,0,0,,{TIME:1243722,1245891}It's completely dark already.
-Dialogue: 0,0:20:46.55,0:20:49.31,lassie default,,0,0,0,,{TIME:1246558,1249311}You sure work hard,\NSam Carraclough.
-Dialogue: 0,0:20:50.52,0:20:52.89,lassie default,,0,0,0,,{TIME:1250520,1252898}No, that's not how it looks.
-Dialogue: 0,0:20:53.89,0:20:57.69,lassie default,,0,0,0,,{TIME:1253899,1257694}There were two men who didn't return,\Nso I rushed to look for them.
-Dialogue: 0,0:20:57.69,0:20:59.90,lassie default,,0,0,0,,{TIME:1257694,1259905}When I went down,\NI found them making toasts.
-Dialogue: 0,0:21:00.69,0:21:04.28,lassie default,,0,0,0,,{TIME:1260697,1264284}Hamilton's baby was born today.
-Dialogue: 0,0:21:04.28,0:21:06.78,lassie default,,0,0,0,,{TIME:1264284,1266787}What about your own child?
-Dialogue: 0,0:21:06.78,0:21:10.16,lassie default,,0,0,0,,{TIME:1266787,1270165}Poor thing, all alone the whole day.\NWho's going to sing him a lullaby?
-Dialogue: 0,0:21:10.16,0:21:13.54,lassie default,,0,0,0,,{TIME:1270165,1273543}I-I know.\NI'm going to him right now.
-Dialogue: 0,0:21:15.42,0:21:16.79,lassie default,,0,0,0,,{TIME:1275420,1276797}John really means a lot…
-Dialogue: 0,0:21:18.00,0:21:18.54,lassie default,,0,0,0,,{TIME:1278006,1278548}John?
-Dialogue: 0,0:21:19.96,0:21:23.05,lassie default,,0,0,0,,{TIME:1279966,1283053}Don't tell me\Nhe's been waiting for me?
-Dialogue: 0,0:21:27.72,0:21:29.55,lassie default,,0,0,0,,{TIME:1287724,1289559}I wonder where it came from?
-Dialogue: 0,0:21:40.40,0:21:44.15,lassie default,,0,0,0,,{TIME:1300403,1304157}Looks like you\Nweren't alone, after all.
-Dialogue: 0,0:21:58.96,0:22:03.26,lassie default,,0,0,0,,{TIME:1318964,1323260}{\i1}I went to school and\NI left the puppy at home, but…
-Dialogue: 0,0:22:03.26,0:22:06.76,lassie default,,0,0,0,,{TIME:1323260,1326763}{\i1}it caused a huge mess.
-Dialogue: 0,0:22:06.76,0:22:08.34,lassie default,,0,0,0,,{TIME:1326763,1328348}{\i1}What should I do?
-Dialogue: 0,0:22:09.26,0:22:11.68,lassie default,,0,0,0,,{TIME:1329266,1331685}{\i1}Next episode:\N"A Big Mess At Home".
-Dialogue: 0,0:22:11.68,0:22:13.01,lassie default,,0,0,0,,{TIME:1331685,1333019}{\i1}Look forward to it!
-Dialogue: 0,0:22:15.35,0:22:19.23,lassie default,,0,0,0,,{TIME:1335355,1339234}{\fs28\i1\pos(320,465)}"The Boy's Hill" sung by Jun Morioka
+Dialogue: 0,0:01:33.07,0:01:34.82,lassie default,Sam Carraclough,0,0,0,,{TIME:93072,94824}Hot! Hot!
+Dialogue: 0,0:01:43.91,0:01:46.66,lassie default,Sam Carraclough,0,0,0,,{TIME:103916,106669}John? I'm going soon.
+Dialogue: 0,0:01:59.68,0:02:01.68,lassie default,Sam Carraclough,0,0,0,,{TIME:119682,121684}Jules Verne, huh?
+Dialogue: 0,0:02:03.35,0:02:04.85,lassie default,Sam Carraclough,0,0,0,,{TIME:123353,124854}I read him a lot, too.
+Dialogue: 0,0:02:07.81,0:02:08.65,lassie default,John Carraclough,0,0,0,,{TIME:127815,128650}Oh?
+Dialogue: 0,0:02:12.02,0:02:13.69,lassie default,John Carraclough,0,0,0,,{TIME:132028,133696}Good morning, Dad.
+Dialogue: 0,0:02:15.07,0:02:18.57,lassie default,Sam Carraclough,0,0,0,,{TIME:135073,138576}Oh, right!\NI'm going to be late for work.
+Dialogue: 0,0:02:18.57,0:02:21.87,lassie default,Sam Carraclough,0,0,0,,{TIME:138576,141871}I'm going out now,\Nbut I made you breakfast.
+Dialogue: 0,0:02:21.87,0:02:23.08,lassie default,John Carraclough,0,0,0,,{TIME:141871,143081}Where's Mom?
+Dialogue: 0,0:02:23.08,0:02:25.58,lassie default,Sam Carraclough,0,0,0,,{TIME:143081,145583}She's been at\NHamilton's since yesterday.
+Dialogue: 0,0:02:25.58,0:02:27.54,lassie default,Sam Carraclough,0,0,0,,{TIME:145583,147543}Looks like it's a difficult delivery.
+Dialogue: 0,0:02:27.54,0:02:28.79,lassie default,John Carraclough,0,0,0,,{TIME:147543,148795}I see.
+Dialogue: 0,0:02:29.79,0:02:32.79,lassie default,John Carraclough,0,0,0,,{TIME:149796,152799}The baby's not born yet?
+Dialogue: 0,0:02:33.34,0:02:34.30,lassie default,Sam Carraclough,0,0,0,,{TIME:153341,154300}See you later.
+Dialogue: 0,0:02:34.71,0:02:39.09,lassie default,Sam Carraclough,0,0,0,,{TIME:154717,159097}Oh, I might be late today,\Nso take care of the house.
+Dialogue: 0,0:02:39.09,0:02:41.39,lassie default,Sam Carraclough,0,0,0,,{TIME:159097,161391}Mom should be back by noon.
+Dialogue: 0,0:02:41.39,0:02:43.30,lassie default,John Carraclough,0,0,0,,{TIME:161391,163309}Hey, is it a boy or a girl?
+Dialogue: 0,0:02:44.06,0:02:45.81,lassie default,Sam Carraclough,0,0,0,,{TIME:164060,165812}Oh? What is?
+Dialogue: 0,0:02:46.31,0:02:49.02,lassie default,John Carraclough,0,0,0,,{TIME:166312,169023}Mrs. Hamilton's baby, of course!
+Dialogue: 0,0:02:49.02,0:02:51.23,lassie default,John Carraclough,0,0,0,,{TIME:169023,171234}I sure hope it's a boy.
+Dialogue: 0,0:02:51.23,0:02:55.32,lassie default,John Carraclough,0,0,0,,{TIME:171234,175321}If it is, I'll take him\Nto the hill of the Rocky Heath.
+Dialogue: 0,0:02:59.07,0:03:00.49,lassie default,John Carraclough,0,0,0,,{TIME:179075,180493}Have a nice day at work!
+Dialogue: 0,0:03:00.49,0:03:01.36,lassie default,Sam Carraclough,0,0,0,,{TIME:180493,181369}Thanks.
+Dialogue: 0,0:03:16.09,0:03:17.21,lassie default,Worker,0,0,0,,{TIME:196092,197218}All right, see you later.
+Dialogue: 0,0:03:17.21,0:03:18.09,lassie default,Housewife,0,0,0,,{TIME:197218,198094}Be careful.
+Dialogue: 0,0:03:29.31,0:03:30.10,lassie default,Worker,0,0,0,,{TIME:209313,210106}Good morning, Sam.
+Dialogue: 0,0:03:30.10,0:03:31.14,lassie default,Sam Carraclough,0,0,0,,{TIME:210106,211149}Good morning, Ed.
+Dialogue: 0,0:03:31.60,0:03:33.15,lassie default,Worker,0,0,0,,{TIME:211607,213151}Hey, Sam.
+Dialogue: 0,0:03:33.15,0:03:34.52,lassie default,Sam Carraclough,0,0,0,,{TIME:213151,214527}Good morning, Kevin.
+Dialogue: 0,0:03:34.52,0:03:35.52,lassie default,Worker,0,0,0,,{TIME:214527,215528}Good morning, Sam.
+Dialogue: 0,0:03:35.52,0:03:37.15,lassie default,Sam Carraclough,0,0,0,,{TIME:215528,217155}Good morning.\NWe rely on you today.
+Dialogue: 0,0:03:37.61,0:03:38.48,lassie default,Worker,0,0,0,,{TIME:217613,218489}Good morning, Sam.
+Dialogue: 0,0:03:38.48,0:03:39.49,lassie default,Sam Carraclough,0,0,0,,{TIME:218489,219490}Yeah, good morning.
+Dialogue: 0,0:03:39.49,0:03:40.03,lassie default,Worker,0,0,0,,{TIME:219490,220032}Morning.
+Dialogue: 0,0:03:40.03,0:03:41.65,lassie default,Sam Carraclough,0,0,0,,{TIME:220032,221659}How are things today?
+Dialogue: 0,0:03:52.12,0:03:54.29,lassie default,John Carraclough,0,0,0,,{TIME:232128,234297}This is the tastiest way to eat it!
+Dialogue: 0,0:04:02.26,0:04:04.26,lassie default,John Carraclough,0,0,0,,{TIME:242263,244265}Thanks for the food.
+Dialogue: 0,0:04:08.26,0:04:11.31,lassie default,John Carraclough,0,0,0,,{TIME:248269,251314}I'm leaving!
+Dialogue: 0,0:04:23.24,0:04:26.12,lassie default,John Carraclough,0,0,0,,{TIME:263242,266120}Eh, not like anybody's gonna answer.\NI'm all alone today.
+Dialogue: 0,0:04:26.12,0:04:28.87,lassie default,John Carraclough,0,0,0,,{TIME:266120,268873}Be careful, John!
+Dialogue: 0,0:04:29.29,0:04:31.37,lassie default,John Carraclough,0,0,0,,{TIME:269290,271375}I will!
+Dialogue: 0,0:04:36.67,0:04:39.09,lassie default,John Carraclough,0,0,0,,{TIME:276672,279091}Right. Before I go to school…
+Dialogue: 0,0:04:44.38,0:04:46.68,lassie default,Grandma Forrester,0,0,0,,{TIME:284388,286682}John Carraclough!
+Dialogue: 0,0:04:47.64,0:04:51.18,lassie default,Grandma Forrester,0,0,0,,{TIME:287642,291187}Where are you going?\NThis is not the road to school.
+Dialogue: 0,0:04:51.85,0:04:55.35,lassie default,John Carraclough,0,0,0,,{TIME:291854,295358}I haven't said "good morning"\Nto my mother yet.
+Dialogue: 0,0:04:55.35,0:04:56.94,lassie default,John Carraclough,0,0,0,,{TIME:295358,296943}So I'm going to\NMrs. Hamilton's house.
+Dialogue: 0,0:04:56.94,0:04:58.61,lassie default,John Carraclough,0,0,0,,{TIME:296943,298611}Have a nice day, Grandma!
+Dialogue: 0,0:05:11.45,0:05:14.50,lassie default,Housewife,0,0,0,,{TIME:311457,314502}Melissa, your son's here!
+Dialogue: 0,0:05:16.33,0:05:19.50,lassie default,Melissa Carraclough,0,0,0,,{TIME:316337,319507}Just a minute.\NI can't exactly talk to him right now.
+Dialogue: 0,0:05:19.96,0:05:22.71,lassie default,Dr. Hopper,0,0,0,,{TIME:319966,322718}What are you talking about,\NMrs. Carraclough?
+Dialogue: 0,0:05:22.71,0:05:25.09,lassie default,Dr. Hopper,0,0,0,,{TIME:322718,325096}At least say\N"good morning" to your son.
+Dialogue: 0,0:05:25.09,0:05:26.59,lassie default,Melissa Carraclough,0,0,0,,{TIME:325096,326597}Oh, Doctor…
+Dialogue: 0,0:05:32.77,0:05:34.06,lassie default,John Carraclough,0,0,0,,{TIME:332770,334063}Mom!
+Dialogue: 0,0:05:34.64,0:05:37.40,lassie default,Melissa Carraclough,0,0,0,,{TIME:334647,337400}Good morning, John.\NDid you eat your breakfast today?
+Dialogue: 0,0:05:37.40,0:05:39.77,lassie default,John Carraclough,0,0,0,,{TIME:337400,339777}Yes. Dad made it for me.
+Dialogue: 0,0:05:40.52,0:05:42.98,lassie default,John Carraclough,0,0,0,,{TIME:340528,342989}It must be tough for you,\Nstaying up all night long.
+Dialogue: 0,0:05:43.90,0:05:45.49,lassie default,Melissa Carraclough,0,0,0,,{TIME:343906,345491}I'm fine.
+Dialogue: 0,0:05:45.49,0:05:48.20,lassie default,Melissa Carraclough,0,0,0,,{TIME:345491,348202}The lady who gives birth to the baby\Nalways has it the worst.
+Dialogue: 0,0:05:48.20,0:05:50.78,lassie default,Melissa Carraclough,0,0,0,,{TIME:348202,350788}The entire night passed\Nand the baby still didn't come out.
+Dialogue: 0,0:05:53.33,0:05:56.46,lassie default,Dr. Hopper,0,0,0,,{TIME:353332,356460}Oh, good, good.\NYou're almost there.
+Dialogue: 0,0:05:56.46,0:05:58.17,lassie default,Dr. Hopper,0,0,0,,{TIME:356460,358170}Mrs. Carraclough!\NI need your help!
+Dialogue: 0,0:05:59.42,0:06:01.29,lassie default,Melissa Carraclough,0,0,0,,{TIME:359422,361299}If all goes smooth,\NI'll be back before lunch.
+Dialogue: 0,0:06:02.04,0:06:02.88,lassie default,Melissa Carraclough,0,0,0,,{TIME:362049,362884}Bye.
+Dialogue: 0,0:06:03.46,0:06:04.30,lassie default,John Carraclough,0,0,0,,{TIME:363467,364302}Good luck!
+Dialogue: 0,0:06:23.15,0:06:24.32,lassie default,Sam Carraclough,0,0,0,,{TIME:383154,384322}Yes?
+Dialogue: 0,0:06:24.32,0:06:25.65,lassie default,Sam Carraclough,0,0,0,,{TIME:384322,385656}Ah, that's right.
+Dialogue: 0,0:06:26.61,0:06:27.86,lassie default,Sam Carraclough,0,0,0,,{TIME:386616,387867}I see.
+Dialogue: 0,0:06:28.53,0:06:29.99,lassie default,Sam Carraclough,0,0,0,,{TIME:388534,389994}That's fantastic!
+Dialogue: 0,0:06:31.07,0:06:35.12,lassie default,Sam Carraclough,0,0,0,,{TIME:391078,395124}Hey, someone tell Brad Hamilton!
+Dialogue: 0,0:06:35.12,0:06:36.87,lassie default,Sam Carraclough,0,0,0,,{TIME:395124,396876}The baby's here!
+Dialogue: 0,0:06:36.87,0:06:38.83,lassie default,Sam Carraclough,0,0,0,,{TIME:396876,398836}It's a girl!
+Dialogue: 0,0:06:38.83,0:06:40.21,lassie default,Sam Carraclough,0,0,0,,{TIME:398836,400212}It's a girl!
+Dialogue: 0,0:06:47.76,0:06:50.13,lassie default,Worker,0,0,0,,{TIME:407762,410139}Congrats!\NYou're a father now, you rascal!
+Dialogue: 0,0:06:51.68,0:06:53.60,lassie default,Worker,0,0,0,,{TIME:411682,413601}Congratulations!
+Dialogue: 0,0:06:54.35,0:06:55.72,lassie default,Hamilton,0,0,0,,{TIME:414352,415728}Thank you, thank you!
+Dialogue: 0,0:07:08.78,0:07:10.32,lassie default,John Carraclough,0,0,0,,{TIME:428783,430326}Hey, Colin.
+Dialogue: 0,0:07:10.32,0:07:12.82,lassie default,John Carraclough,0,0,0,,{TIME:430326,432828}Why don't we come\Nto the river after school?
+Dialogue: 0,0:07:14.28,0:07:18.29,lassie default,Colin,0,0,0,,{TIME:434288,438292}I'd like to,\Nbut I have work in the store.
+Dialogue: 0,0:07:20.50,0:07:24.84,lassie default,John Carraclough,0,0,0,,{TIME:440503,444840}Oh, well. My mom's gonna\Nbe home soon, anyway.
+Dialogue: 0,0:07:24.84,0:07:26.55,lassie default,Sandy,0,0,0,,{TIME:444840,446550}The river, you say?
+Dialogue: 0,0:07:26.55,0:07:29.51,lassie default,Sandy,0,0,0,,{TIME:446550,449512}I can't believe you kids.\NWhat's so fun about getting all muddy?
+Dialogue: 0,0:07:29.51,0:07:32.05,lassie default,John Carraclough,0,0,0,,{TIME:449512,452056}Uh, you're a kid yourself.
+Dialogue: 0,0:07:32.05,0:07:34.60,lassie default,John Carraclough,0,0,0,,{TIME:452056,454600}Whatever.\NWe're not going, anyway.
+Dialogue: 0,0:07:34.60,0:07:36.01,lassie default,Sandy,0,0,0,,{TIME:454600,456018}What? You're not?
+Dialogue: 0,0:07:37.10,0:07:38.98,lassie default,Sandy,0,0,0,,{TIME:457103,458980}I see. Oh, well.
+Dialogue: 0,0:07:40.06,0:07:41.85,lassie default,Children,0,0,0,,{TIME:460064,461857}Bye-bye!
+Dialogue: 0,0:07:58.20,0:07:59.45,lassie default,John Carraclough,0,0,0,,{TIME:478207,479458}I'm back!
+Dialogue: 0,0:08:00.87,0:08:02.71,lassie default,John Carraclough,0,0,0,,{TIME:480876,482712}Mom, I'm home!
+Dialogue: 0,0:08:06.34,0:08:07.80,lassie default,John Carraclough,0,0,0,,{TIME:486340,487800}Mom?
+Dialogue: 0,0:08:10.63,0:08:13.59,lassie default,John Carraclough,0,0,0,,{TIME:490636,493597}Mom, are you here?
+Dialogue: 0,0:08:18.18,0:08:20.10,lassie default,John Carraclough,0,0,0,,{TIME:498185,500104}Maybe she's sleeping upstairs.
+Dialogue: 0,0:08:25.86,0:08:27.52,lassie default,John Carraclough,0,0,0,,{TIME:505860,507528}Mom?
+Dialogue: 0,0:08:40.20,0:08:41.91,lassie default,Hamilton,0,0,0,,{TIME:520207,521917}Oh, it's you, John.
+Dialogue: 0,0:08:42.37,0:08:45.25,lassie default,John Carraclough,0,0,0,,{TIME:522376,525254}Did Mrs. Hamilton deliver the baby?
+Dialogue: 0,0:08:45.25,0:08:46.63,lassie default,Hamilton,0,0,0,,{TIME:525254,526630}Yes, she did!
+Dialogue: 0,0:08:46.63,0:08:51.09,lassie default,Hamilton,0,0,0,,{TIME:526630,531093}Your dad told me that I can take a day off,\Nso I came here right away.
+Dialogue: 0,0:08:51.09,0:08:53.59,lassie default,Hamilton,0,0,0,,{TIME:531093,533596}The ladies who helped\Nhave all left, too.
+Dialogue: 0,0:08:53.59,0:08:57.05,lassie default,Hamilton,0,0,0,,{TIME:533596,537058}Come with me.\NYou have to see our child.
+Dialogue: 0,0:08:57.05,0:08:58.47,lassie default,John Carraclough,0,0,0,,{TIME:537058,538476}Sure, but…
+Dialogue: 0,0:08:58.47,0:09:00.77,lassie default,John Carraclough,0,0,0,,{TIME:538476,540770}Do you know where's my mom?
+Dialogue: 0,0:09:00.77,0:09:05.27,lassie default,Hamilton,0,0,0,,{TIME:540770,545274}Ah, she left with Dr. Hopper.\NDon't worry.
+Dialogue: 0,0:09:05.27,0:09:07.10,lassie default,Hamilton,0,0,0,,{TIME:545274,547109}Here, this way.\NCome on.
+Dialogue: 0,0:09:09.73,0:09:12.11,lassie default,John Carraclough,0,0,0,,{TIME:549737,552114}Oh, it's so cute.
+Dialogue: 0,0:09:12.53,0:09:16.11,lassie default,Hamilton,0,0,0,,{TIME:552531,556118}I know, right? Her eyelashes\Nare so long, she's a true beauty.
+Dialogue: 0,0:09:16.11,0:09:17.11,lassie default,Mrs. Hamilton,0,0,0,,{TIME:556118,557119}John?
+Dialogue: 0,0:09:17.66,0:09:21.20,lassie default,Mrs. Hamilton,0,0,0,,{TIME:557661,561207}I am so grateful\Nto your mother and father.
+Dialogue: 0,0:09:21.20,0:09:22.12,lassie default,Mrs. Hamilton,0,0,0,,{TIME:561207,562124}Thank you for everything.
+Dialogue: 0,0:09:22.83,0:09:23.95,lassie default,John Carraclough,0,0,0,,{TIME:562833,563959}No problem…
+Dialogue: 0,0:09:33.05,0:09:34.55,lassie default,Melissa Carraclough,0,0,0,,{TIME:573052,574553}Ah, John.
+Dialogue: 0,0:09:34.80,0:09:36.05,lassie default,John Carraclough,0,0,0,,{TIME:574804,576055}Mom!
+Dialogue: 0,0:09:36.05,0:09:37.55,lassie default,Melissa Carraclough,0,0,0,,{TIME:576055,577556}You're such a baby.
+Dialogue: 0,0:09:38.22,0:09:41.64,lassie default,Melissa Carraclough,0,0,0,,{TIME:578224,581644}I'm sorry,\Nbut I have to go out again.
+Dialogue: 0,0:09:41.64,0:09:44.52,lassie default,Melissa Carraclough,0,0,0,,{TIME:581644,584522}A patient with peritonitis\Nis now down with a cold on top of it.
+Dialogue: 0,0:09:44.52,0:09:47.56,lassie default,Melissa Carraclough,0,0,0,,{TIME:584522,587566}He is going to have a procedure\Nand I'll have to take care of him tonight.
+Dialogue: 0,0:09:48.19,0:09:50.94,lassie default,John Carraclough,0,0,0,,{TIME:588192,590945}But, Mom,\Nyou haven't slept last night.
+Dialogue: 0,0:09:52.40,0:09:54.24,lassie default,Melissa Carraclough,0,0,0,,{TIME:592404,594240}Your mother is strong.
+Dialogue: 0,0:09:54.24,0:09:56.57,lassie default,Melissa Carraclough,0,0,0,,{TIME:594240,596575}But will you be able\Nto eat dinner by yourself, John?
+Dialogue: 0,0:09:58.45,0:10:00.78,lassie default,John Carraclough,0,0,0,,{TIME:598452,600788}I'll be fine. Don't worry.
+Dialogue: 0,0:10:00.78,0:10:03.08,lassie default,Melissa Carraclough,0,0,0,,{TIME:600788,603082}Nice. You're such a big boy now.
+Dialogue: 0,0:10:04.66,0:10:08.46,lassie default,Melissa Carraclough,0,0,0,,{TIME:604667,608462}I have prepared the food in a pot,\Nso you only need to heat it later.
+Dialogue: 0,0:10:08.46,0:10:09.92,lassie default,John Carraclough,0,0,0,,{TIME:608462,609922}Thanks.
+Dialogue: 0,0:10:25.93,0:10:27.48,lassie default,John Carraclough,0,0,0,,{TIME:625938,627481}Colin!
+Dialogue: 0,0:10:28.73,0:10:29.77,lassie default,Colin,0,0,0,,{TIME:628732,629775}John?
+Dialogue: 0,0:10:29.77,0:10:31.36,lassie default,John Carraclough,0,0,0,,{TIME:629775,631360}Hey, Colin!
+Dialogue: 0,0:10:31.36,0:10:33.98,lassie default,Colin,0,0,0,,{TIME:631360,633988}I told you before,\NI can't play today.
+Dialogue: 0,0:10:33.98,0:10:36.69,lassie default,John Carraclough,0,0,0,,{TIME:633988,636699}I know. Did they\Nput you on delivery?
+Dialogue: 0,0:10:36.69,0:10:38.11,lassie default,John Carraclough,0,0,0,,{TIME:636699,638117}Are these the goods?
+Dialogue: 0,0:10:38.11,0:10:39.49,lassie default,Colin,0,0,0,,{TIME:638117,639493}Yes.
+Dialogue: 0,0:10:39.49,0:10:41.49,lassie default,John Carraclough,0,0,0,,{TIME:639493,641495}Looks kinda heavy.
+Dialogue: 0,0:10:42.24,0:10:43.49,lassie default,John Carraclough,0,0,0,,{TIME:642246,643497}Hey, how about I help you out?
+Dialogue: 0,0:10:44.12,0:10:45.79,lassie default,Colin,0,0,0,,{TIME:644123,645791}Oh? Really?
+Dialogue: 0,0:10:45.79,0:10:51.00,lassie default,John Carraclough,0,0,0,,{TIME:645791,651005}You bet! We can ride together\Nall around the town that way.
+Dialogue: 0,0:10:52.08,0:10:56.26,lassie default,Colin,0,0,0,,{TIME:652089,656260}Okay. If you ride the bike,\NI'll take care of this.
+Dialogue: 0,0:10:57.67,0:11:02.09,lassie default,Colin,0,0,0,,{TIME:657678,662099}I was asked to deliver this stuff to places\Nall over the town and to a nearby village.
+Dialogue: 0,0:11:02.09,0:11:04.51,lassie default,Colin,0,0,0,,{TIME:662099,664518}I was wondering\Nhow I'm going to handle that.
+Dialogue: 0,0:11:05.43,0:11:09.48,lassie default,John Carraclough,0,0,0,,{TIME:665436,669481}Eh, I thought we're gonna\Ndo the deliveries together.
+Dialogue: 0,0:11:09.48,0:11:11.90,lassie default,John Carraclough,0,0,0,,{TIME:669481,671901}I'm alone again.
+Dialogue: 0,0:11:12.94,0:11:14.52,lassie default,John Carraclough,0,0,0,,{TIME:672943,674528}Well, that's too bad.
+Dialogue: 0,0:11:30.46,0:11:32.58,lassie default,John Carraclough,0,0,0,,{TIME:690461,692588}Oh, it's an airplane!
+Dialogue: 0,0:11:36.50,0:11:41.26,lassie default,John Carraclough,0,0,0,,{TIME:696508,701263}Amazing… I'd love\Nto fly one some day.
+Dialogue: 0,0:11:46.01,0:11:47.77,lassie default,John Carraclough,0,0,0,,{TIME:706018,707770}It's landing here!
+Dialogue: 0,0:12:09.50,0:12:11.50,lassie default,John Carraclough,0,0,0,,{TIME:729500,731502}So awesome.
+Dialogue: 0,0:12:28.47,0:12:32.18,lassie default,John Carraclough,0,0,0,,{TIME:748477,752189}Hey, stay away from the bike!
+Dialogue: 0,0:12:32.18,0:12:36.77,lassie default,John Carraclough,0,0,0,,{TIME:752189,756777}Hey, don't do that!\NIt's not mine, you know!
+Dialogue: 0,0:12:36.77,0:12:40.15,lassie default,John Carraclough,0,0,0,,{TIME:756777,760155}Don't touch it!
+Dialogue: 0,0:12:44.45,0:12:45.66,lassie default,John Carraclough,0,0,0,,{TIME:764451,765661}This is bad…
+Dialogue: 0,0:12:47.03,0:12:49.83,lassie default,John Carraclough,0,0,0,,{TIME:767037,769832}How long are they going\Nto be like this?
+Dialogue: 0,0:12:58.29,0:12:59.92,lassie default,John Carraclough,0,0,0,,{TIME:778299,779925}Hey, it's a…
+Dialogue: 0,0:12:59.92,0:13:01.84,lassie default,John Carraclough,0,0,0,,{TIME:779925,781844}What is it doing here?
+Dialogue: 0,0:13:01.84,0:13:04.34,lassie default,John Carraclough,0,0,0,,{TIME:781844,784346}Whose dog is it?
+Dialogue: 0,0:13:05.59,0:13:08.18,lassie default,John Carraclough,0,0,0,,{TIME:785597,788183}Don't move.\NYou'll be crushed if you move!
+Dialogue: 0,0:13:12.85,0:13:13.93,lassie default,John Carraclough,0,0,0,,{TIME:792855,793939}Wait for me!
+Dialogue: 0,0:13:25.70,0:13:28.16,lassie default,John Carraclough,0,0,0,,{TIME:805701,808162}Hey, stay where you are!
+Dialogue: 0,0:13:30.20,0:13:32.08,lassie default,John Carraclough,0,0,0,,{TIME:810205,812082}Where did it go?
+Dialogue: 0,0:13:36.54,0:13:39.13,lassie default,John Carraclough,0,0,0,,{TIME:816545,819131}Hey, where did you go?
+Dialogue: 0,0:13:42.30,0:13:43.51,lassie default,John Carraclough,0,0,0,,{TIME:822301,823510}Here you are.
+Dialogue: 0,0:13:44.55,0:13:47.18,lassie default,John Carraclough,0,0,0,,{TIME:824553,827181}Come on, come here…
+Dialogue: 0,0:13:49.85,0:13:53.52,lassie default,John Carraclough,0,0,0,,{TIME:829850,833520}Alright. All's good now.\NAre you okay?
+Dialogue: 0,0:14:01.52,0:14:04.15,lassie default,John Carraclough,0,0,0,,{TIME:841528,844156}Are you okay?
+Dialogue: 0,0:14:04.15,0:14:05.94,lassie default,John Carraclough,0,0,0,,{TIME:844156,845949}Did you get hurt?
+Dialogue: 0,0:14:27.67,0:14:32.30,lassie default,John Carraclough,0,0,0,,{TIME:867679,872309}Don't go near sheep again.\NYou'll be crushed if you do.
+Dialogue: 0,0:14:32.30,0:14:34.81,lassie default,John Carraclough,0,0,0,,{TIME:872309,874812}Now, go home\Nto your owner. Okay?
+Dialogue: 0,0:14:36.81,0:14:41.06,lassie default,John Carraclough,0,0,0,,{TIME:876814,881068}I have to deliver these\Nas soon as possible.
+Dialogue: 0,0:14:41.06,0:14:42.61,lassie default,John Carraclough,0,0,0,,{TIME:881068,882611}Bye!
+Dialogue: 0,0:15:24.77,0:15:27.28,lassie default,John Carraclough,0,0,0,,{TIME:924778,927281}Oh, I'm so beat.
+Dialogue: 0,0:15:28.44,0:15:31.07,lassie default,John Carraclough,0,0,0,,{TIME:928449,931076}When I go back home,\Nit's dinner all alone…
+Dialogue: 0,0:15:35.28,0:15:38.16,lassie default,John Carraclough,0,0,0,,{TIME:935289,938167}What's the matter, buddy?\NYou're still here?
+Dialogue: 0,0:15:39.66,0:15:41.00,lassie default,John Carraclough,0,0,0,,{TIME:939668,941003}Could it be…
+Dialogue: 0,0:15:42.21,0:15:44.00,lassie default,John Carraclough,0,0,0,,{TIME:942212,944006}That you don't have\Na home to go back to?
+Dialogue: 0,0:15:47.09,0:15:49.09,lassie default,John Carraclough,0,0,0,,{TIME:947092,949094}Are you lost?
+Dialogue: 0,0:15:51.68,0:15:55.26,lassie default,John Carraclough,0,0,0,,{TIME:951680,955267}You look so sad.\NWhat's going on?
+Dialogue: 0,0:15:57.60,0:16:00.02,lassie default,John Carraclough,0,0,0,,{TIME:957603,960022}Don't tell me you're sick?
+Dialogue: 0,0:16:02.56,0:16:05.61,lassie default,John Carraclough,0,0,0,,{TIME:962566,965611}This is bad! This is bad!
+Dialogue: 0,0:16:05.61,0:16:08.48,lassie default,John Carraclough,0,0,0,,{TIME:965611,968489}You just rest.\NI'll take you home immediately!
+Dialogue: 0,0:16:14.16,0:16:18.49,lassie default,John Carraclough,0,0,0,,{TIME:974161,978499}Colin! I'm done with the delivery!\NI left the bike outside!
+Dialogue: 0,0:16:18.49,0:16:19.75,lassie default,John Carraclough,0,0,0,,{TIME:978499,979750}Laters!
+Dialogue: 0,0:16:23.04,0:16:23.71,lassie default,Colin,0,0,0,,{TIME:983045,983712}John?
+Dialogue: 0,0:16:26.50,0:16:28.71,lassie default,John Carraclough,0,0,0,,{TIME:986507,988717}Faster! Faster! Faster!
+Dialogue: 0,0:16:39.93,0:16:42.27,lassie default,John Carraclough,0,0,0,,{TIME:999937,1002272}Look, I lit the fire.
+Dialogue: 0,0:16:42.27,0:16:44.31,lassie default,John Carraclough,0,0,0,,{TIME:1002272,1004316}Now, let's get you warmed up.
+Dialogue: 0,0:16:48.07,0:16:54.24,lassie default,John Carraclough,0,0,0,,{TIME:1008070,1014243}My mom often comes back late,\Nso I know how to light it on.
+Dialogue: 0,0:16:54.24,0:16:56.49,lassie default,John Carraclough,0,0,0,,{TIME:1014243,1016495}What do you think?\NFeel any better?
+Dialogue: 0,0:17:02.87,0:17:06.29,lassie default,John Carraclough,0,0,0,,{TIME:1022876,1026296}What a good smell!\NIt's the food Mom has made.
+Dialogue: 0,0:17:07.71,0:17:11.05,lassie default,John Carraclough,0,0,0,,{TIME:1027714,1031051}Let me guess, you're hungry?
+Dialogue: 0,0:17:12.42,0:17:13.88,lassie default,John Carraclough,0,0,0,,{TIME:1032427,1033887}Wait here.
+Dialogue: 0,0:17:17.26,0:17:19.51,lassie default,John Carraclough,0,0,0,,{TIME:1037266,1039518}Oh? We ran out of milk.
+Dialogue: 0,0:17:19.51,0:17:21.43,lassie default,John Carraclough,0,0,0,,{TIME:1039518,1041436}Wait for me.\NI'm going to fetch some!
+Dialogue: 0,0:17:32.86,0:17:34.57,lassie default,John Carraclough,0,0,0,,{TIME:1052864,1054575}Sandy!
+Dialogue: 0,0:17:43.41,0:17:46.29,lassie default,Sandy,0,0,0,,{TIME:1063417,1066295}What color is the puppy?
+Dialogue: 0,0:17:46.29,0:17:48.67,lassie default,John Carraclough,0,0,0,,{TIME:1066295,1068672}Hm, how to describe it…
+Dialogue: 0,0:17:48.67,0:17:53.09,lassie default,John Carraclough,0,0,0,,{TIME:1068672,1073093}It's mostly brown,\Nbut it has also white spots.
+Dialogue: 0,0:17:53.09,0:17:54.67,lassie default,John Carraclough,0,0,0,,{TIME:1073093,1074678}It's about this big.
+Dialogue: 0,0:17:54.67,0:17:55.88,lassie default,Sandy,0,0,0,,{TIME:1074678,1075887}So it's still just a pup.
+Dialogue: 0,0:17:58.51,0:18:01.43,lassie default,Sandy,0,0,0,,{TIME:1078515,1081435}Let me see that guy next time.
+Dialogue: 0,0:18:01.43,0:18:02.72,lassie default,John Carraclough,0,0,0,,{TIME:1081435,1082728}Yeah. Sure.
+Dialogue: 0,0:18:02.72,0:18:04.22,lassie default,Sandy,0,0,0,,{TIME:1082728,1084229}Really?
+Dialogue: 0,0:18:04.64,0:18:06.35,lassie default,Sandy,0,0,0,,{TIME:1084646,1086356}It's a promise!
+Dialogue: 0,0:18:06.35,0:18:08.10,lassie default,John Carraclough,0,0,0,,{TIME:1086356,1088108}Thanks for the milk!
+Dialogue: 0,0:18:20.70,0:18:23.79,lassie default,John Carraclough,0,0,0,,{TIME:1100704,1103790}Here, I brought you some milk.\NIt's delicious.
+Dialogue: 0,0:18:26.20,0:18:29.25,lassie default,John Carraclough,0,0,0,,{TIME:1106209,1109254}What's the matter?\NWeren't you hungry?
+Dialogue: 0,0:18:35.21,0:18:38.93,lassie default,John Carraclough,0,0,0,,{TIME:1115218,1118930}What's the matter?\NYou can't drink milk by yourself?
+Dialogue: 0,0:18:39.76,0:18:41.39,lassie default,John Carraclough,0,0,0,,{TIME:1119765,1121391}You're like a baby.
+Dialogue: 0,0:18:42.18,0:18:46.43,lassie default,John Carraclough,0,0,0,,{TIME:1122184,1126438}Boy, I am tired.\NIt'd be nice if Dad came home soon.
+Dialogue: 0,0:18:56.65,0:18:58.57,lassie default,Sam Carraclough,0,0,0,,{TIME:1136657,1138575}Looks like I'm stuck here.
+Dialogue: 0,0:18:59.91,0:19:02.62,lassie default,Sam Carraclough,0,0,0,,{TIME:1139910,1142621}Two people from section 2\Nhaven't returned yet.
+Dialogue: 0,0:19:02.62,0:19:04.08,lassie default,Sam Carraclough,0,0,0,,{TIME:1142621,1144081}I wonder what's going on?
+Dialogue: 0,0:19:06.37,0:19:09.08,lassie default,Sam Carraclough,0,0,0,,{TIME:1146375,1149086}They should've come back\Na long time ago.
+Dialogue: 0,0:19:11.08,0:19:13.59,lassie default,Sam Carraclough,0,0,0,,{TIME:1151088,1153590}I hope there wasn't an accident.
+Dialogue: 0,0:19:15.34,0:19:16.63,lassie default,John Carraclough,0,0,0,,{TIME:1155342,1156635}I can't believe it!
+Dialogue: 0,0:19:16.63,0:19:19.59,lassie default,John Carraclough,0,0,0,,{TIME:1156635,1159596}It was a helpless puppy\Njust seconds ago!
+Dialogue: 0,0:19:20.68,0:19:23.72,lassie default,John Carraclough,0,0,0,,{TIME:1160681,1163725}I know. I know!\NThat's what it's after.
+Dialogue: 0,0:19:23.72,0:19:24.89,lassie default,John Carraclough,0,0,0,,{TIME:1163725,1164893}Colin!
+Dialogue: 0,0:19:26.18,0:19:27.68,lassie default,John Carraclough,0,0,0,,{TIME:1166186,1167688}Colin!
+Dialogue: 0,0:19:29.77,0:19:31.65,lassie default,Colin,0,0,0,,{TIME:1169773,1171650}John? Is it you, John?
+Dialogue: 0,0:19:31.65,0:19:32.69,lassie default,John Carraclough,0,0,0,,{TIME:1171650,1172693}Yes.
+Dialogue: 0,0:19:33.73,0:19:37.32,lassie default,Colin,0,0,0,,{TIME:1173735,1177322}Sorry, John.\NI got scolded by Dad.
+Dialogue: 0,0:19:37.32,0:19:40.40,lassie default,Colin,0,0,0,,{TIME:1177322,1180409}He asked if I thanked you\Nfor helping with the delivery.
+Dialogue: 0,0:19:40.40,0:19:42.86,lassie default,John Carraclough,0,0,0,,{TIME:1180409,1182869}Well, how could you?\NI was in such a rush.
+Dialogue: 0,0:19:42.86,0:19:45.33,lassie default,John Carraclough,0,0,0,,{TIME:1182869,1185330}Say, do you happen\Nto have a baby bottle?
+Dialogue: 0,0:19:45.33,0:19:46.28,lassie default,Colin,0,0,0,,{TIME:1185330,1186289}A baby bottle?
+Dialogue: 0,0:19:49.33,0:19:51.12,lassie default,(mixed),0,0,0,,{TIME:1189334,1191128}– A puppy?\N– Yes!
+Dialogue: 0,0:19:51.12,0:19:54.88,lassie default,Colin,0,0,0,,{TIME:1191128,1194881}We just sold the last one\Nto Mrs. Hamilton.
+Dialogue: 0,0:19:54.88,0:19:55.79,lassie default,John Carraclough,0,0,0,,{TIME:1194881,1195799}I see…
+Dialogue: 0,0:19:56.63,0:20:00.88,lassie default,Colin,0,0,0,,{TIME:1196633,1200887}Ah, wait, we still have one.\NIt's the one we used for my little brother.
+Dialogue: 0,0:20:02.55,0:20:04.39,lassie default,Colin,0,0,0,,{TIME:1202556,1204391}Next time, you must\Nshow me that puppy!
+Dialogue: 0,0:20:04.39,0:20:05.47,lassie default,John Carraclough,0,0,0,,{TIME:1204391,1205475}Sure thing!
+Dialogue: 0,0:20:10.18,0:20:12.60,lassie default,John Carraclough,0,0,0,,{TIME:1210188,1212607}Can it drink through it, though?
+Dialogue: 0,0:20:19.65,0:20:22.65,lassie default,John Carraclough,0,0,0,,{TIME:1219656,1222659}You must've been starving.
+Dialogue: 0,0:20:24.07,0:20:26.12,lassie default,John Carraclough,0,0,0,,{TIME:1224077,1226121}You drank it all already.
+Dialogue: 0,0:20:32.21,0:20:35.00,lassie default,John Carraclough,0,0,0,,{TIME:1232210,1235005}Look at you, buddy!\NYou've gotten all cheerful.
+Dialogue: 0,0:20:36.63,0:20:38.00,lassie default,John Carraclough,0,0,0,,{TIME:1236631,1238008}You feel better, don't you?
+Dialogue: 0,0:20:43.72,0:20:45.89,lassie default,Sam Carraclough,0,0,0,,{TIME:1243722,1245891}It's completely dark already.
+Dialogue: 0,0:20:46.55,0:20:49.31,lassie default,Grandma Forrester,0,0,0,,{TIME:1246558,1249311}You sure work hard,\NSam Carraclough.
+Dialogue: 0,0:20:50.52,0:20:52.89,lassie default,Sam Carraclough,0,0,0,,{TIME:1250520,1252898}No, that's not how it looks.
+Dialogue: 0,0:20:53.89,0:20:57.69,lassie default,Sam Carraclough,0,0,0,,{TIME:1253899,1257694}There were two men who didn't return,\Nso I rushed to look for them.
+Dialogue: 0,0:20:57.69,0:20:59.90,lassie default,Sam Carraclough,0,0,0,,{TIME:1257694,1259905}When I went down,\NI found them making toasts.
+Dialogue: 0,0:21:00.69,0:21:04.28,lassie default,Sam Carraclough,0,0,0,,{TIME:1260697,1264284}Hamilton's baby was born today.
+Dialogue: 0,0:21:04.28,0:21:06.78,lassie default,Grandma Forrester,0,0,0,,{TIME:1264284,1266787}What about your own child?
+Dialogue: 0,0:21:06.78,0:21:10.16,lassie default,Grandma Forrester,0,0,0,,{TIME:1266787,1270165}Poor thing, all alone the whole day.\NWho's going to sing him a lullaby?
+Dialogue: 0,0:21:10.16,0:21:13.54,lassie default,Sam Carraclough,0,0,0,,{TIME:1270165,1273543}I-I know.\NI'm going to him right now.
+Dialogue: 0,0:21:15.42,0:21:16.79,lassie default,Sam Carraclough,0,0,0,,{TIME:1275420,1276797}John really means a lot…
+Dialogue: 0,0:21:18.00,0:21:18.54,lassie default,Sam Carraclough,0,0,0,,{TIME:1278006,1278548}John?
+Dialogue: 0,0:21:19.96,0:21:23.05,lassie default,Sam Carraclough,0,0,0,,{TIME:1279966,1283053}Don't tell me\Nhe's been waiting for me?
+Dialogue: 0,0:21:27.72,0:21:29.55,lassie default,Sam Carraclough,0,0,0,,{TIME:1287724,1289559}I wonder where it came from?
+Dialogue: 0,0:21:40.40,0:21:44.15,lassie default,Sam Carraclough,0,0,0,,{TIME:1300403,1304157}Looks like you\Nweren't alone, after all.
+Dialogue: 0,0:21:58.96,0:22:03.26,lassie default,John Carraclough,0,0,0,,{TIME:1318964,1323260}{\i1}I went to school and\NI left the puppy at home, but…
+Dialogue: 0,0:22:03.26,0:22:06.76,lassie default,John Carraclough,0,0,0,,{TIME:1323260,1326763}{\i1}it caused a huge mess.
+Dialogue: 0,0:22:06.76,0:22:08.34,lassie default,John Carraclough,0,0,0,,{TIME:1326763,1328348}{\i1}What should I do?
+Dialogue: 0,0:22:09.26,0:22:11.68,lassie default,John Carraclough,0,0,0,,{TIME:1329266,1331685}{\i1}Next episode:\N"A Big Mess At Home".
+Dialogue: 0,0:22:11.68,0:22:13.01,lassie default,John Carraclough,0,0,0,,{TIME:1331685,1333019}{\i1}Look forward to it!
+Dialogue: 0,0:22:15.35,0:22:19.23,lassie default,(sign),0,0,0,,{TIME:1335355,1339234}{\fs28\i1\pos(320,465)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:24.03,0:22:27.24,lassie song jp ed,[karaoke],0,0,0,,{TIME:1344030,1347242}tasogare ni wa kimi to{NOTE:黄昏には君と}
 Dialogue: 0,0:22:27.40,0:22:31.20,lassie song jp ed,[karaoke],0,0,0,,{TIME:1347409,1351204}oka no ue kakenobori{NOTE:丘の上駆け登り}
 Dialogue: 0,0:22:31.53,0:22:34.41,lassie song jp ed,[karaoke],0,0,0,,{TIME:1351538,1354416}tooi sora o miteta{NOTE:遠い空を見えた}
