@@ -25,6 +25,7 @@ Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:00.00,0:00:04.90,lassie group,,0,0,0,,{TIME:0,4901}{\pos(320,188)}OldCastle and South Wind Subs present
 Dialogue: 0,0:00:00.00,0:00:04.90,lassie wmt,,0,0,0,,{TIME:0,4901}{\pos(320,312)}WORLD MASTERPIECE THEATER
 Dialogue: 0,0:00:05.61,0:00:12.74,lassie title,,0,0,0,,{TIME:5610,12742}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
@@ -53,6 +54,7 @@ Dialogue: 0,0:00:51.78,0:00:58.62,lassie song en op,[karaoke],0,0,0,,{TIME:51781
 Dialogue: 0,0:00:58.78,0:01:02.33,lassie song en op,[karaoke],0,0,0,,{TIME:58788,62333}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.54,0:01:06.25,lassie song en op,[karaoke],0,0,0,,{TIME:62542,66254}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.54,0:01:13.88,lassie song en op,[karaoke],0,0,0,,{TIME:66546,73886}{\blur0.5}a neverending story
+Comment: 0,0:01:19.93,0:01:19.93,[chapter],[chapter],0,0,0,,{TIME:79934,79934}Part A
 Dialogue: 0,0:01:22.81,0:01:27.77,lassie episode,[title],0,0,0,,{TIME:82812,87775}{\blur0.5\fad(300,0)\pos(320,285)}Sandy Is Stealing The Cows?
 Dialogue: 0,0:01:29.25,0:01:31.36,lassie default,,0,0,0,,{TIME:89250,91360}Like this you won't depend on me!
 Dialogue: 0,0:01:37.55,0:01:39.66,lassie default,,0,0,0,,{TIME:97550,99660}What? Didn't you go?
@@ -243,6 +245,7 @@ Dialogue: 0,0:12:04.18,0:12:05.11,lassie default,,0,0,0,,{TIME:724180,725110}Wha
 Dialogue: 0,0:12:05.19,0:12:06.59,lassie default,,0,0,0,,{TIME:725190,726590}Hear its voice?
 Dialogue: 0,0:12:06.61,0:12:08.87,lassie default,,0,0,0,,{TIME:726610,728870}Yeah, there are some people with it!
 Dialogue: 0,0:12:10.41,0:12:11.39,lassie default,,0,0,0,,{TIME:730410,731390}Okay!
+Comment: 0,0:12:14.25,0:12:14.25,[chapter],[chapter],0,0,0,,{TIME:734255,734255}Part B
 Dialogue: 0,0:12:17.94,0:12:19.43,lassie default,,0,0,0,,{TIME:737940,739430}That's it!
 Dialogue: 0,0:12:19.99,0:12:22.34,lassie default,,0,0,0,,{TIME:739990,742340}This is the biggest proof\Nof the thief's existence!
 Dialogue: 0,0:12:22.45,0:12:25.33,lassie default,,0,0,0,,{TIME:742450,745330}Bansen will take us there!
@@ -411,12 +414,14 @@ Dialogue: 0,0:21:33.92,0:21:35.76,lassie default,,0,0,0,,{TIME:1293920,1295760}Y
 Dialogue: 0,0:21:36.46,0:21:37.75,lassie default,,0,0,0,,{TIME:1296460,1297750}Silly…
 Dialogue: 0,0:21:39.38,0:21:40.53,lassie default,,0,0,0,,{TIME:1299380,1300530}Father…
 Dialogue: 0,0:21:41.68,0:21:42.72,lassie default,,0,0,0,,{TIME:1301680,1302720}I'm sorry…
+Comment: 0,0:21:56.54,0:21:56.54,[chapter],[chapter],0,0,0,,{TIME:1316545,1316545}Preview
 Dialogue: 0,0:21:58.89,0:22:01.52,lassie default,,0,0,0,,{TIME:1318890,1321520}{\i1}My father saved a very huge man on his way.
 Dialogue: 0,0:22:01.83,0:22:04.76,lassie default,,0,0,0,,{TIME:1321830,1324760}{\i1}That huge guy was working hard.
 Dialogue: 0,0:22:04.87,0:22:07.75,lassie default,,0,0,0,,{TIME:1324870,1327750}{\i1}But the police came to the area strangely.
 Dialogue: 0,0:22:08.35,0:22:10.79,lassie default,,0,0,0,,{TIME:1328350,1330790}{\i1}There is a thief who stole from the bank.
 Dialogue: 0,0:22:11.48,0:22:14.38,lassie default,,0,0,0,,{TIME:1331480,1334380}{\i1}Next episode:\N"Follow The Suspicious Man".
 Dialogue: 0,0:22:14.59,0:22:16.01,lassie default,,0,0,0,,{TIME:1334590,1336010}{\i1}Be sure to watch!
+Comment: 0,0:22:16.52,0:22:16.52,[chapter],[chapter],0,0,0,,{TIME:1336523,1336523}Ending
 Dialogue: 0,0:22:16.52,0:22:20.40,lassie default,,0,0,0,,{TIME:1336523,1340402}{\fs28\i1\pos(320,468)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:25.19,0:22:28.41,lassie song jp ed,[karaoke],0,0,0,,{TIME:1345198,1348410}tasogare ni wa kimi to{NOTE:黄昏には君と}
 Dialogue: 0,0:22:28.57,0:22:32.37,lassie song jp ed,[karaoke],0,0,0,,{TIME:1348577,1352372}oka no ue kakenobori{NOTE:丘の上駆け登り}

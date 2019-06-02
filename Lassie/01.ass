@@ -25,6 +25,7 @@ Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:00.00,0:00:04.94,lassie group,(sign),0,0,0,,{TIME:0,4943}{\pos(320,188)}OldCastle and South Wind Subs present
 Dialogue: 0,0:00:00.00,0:00:04.94,lassie wmt,(sign),0,0,0,,{TIME:0,4943}{\pos(320,312)}WORLD MASTERPIECE THEATER
 Dialogue: 0,0:00:05.65,0:00:12.78,lassie title,(sign),0,0,0,,{TIME:5652,12784}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
@@ -53,6 +54,7 @@ Dialogue: 0,0:00:51.82,0:00:58.66,lassie song en op,[karaoke],0,0,0,,{TIME:51823
 Dialogue: 0,0:00:58.83,0:01:02.37,lassie song en op,[karaoke],0,0,0,,{TIME:58830,62375}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.58,0:01:06.29,lassie song en op,[karaoke],0,0,0,,{TIME:62584,66296}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.58,0:01:13.92,lassie song en op,[karaoke],0,0,0,,{TIME:66588,73928}{\blur0.5}a neverending story
+Comment: 0,0:01:19.97,0:01:19.97,[chapter],[chapter],0,0,0,,{TIME:79976,79976}Part A
 Dialogue: 0,0:01:20.56,0:01:28.19,lassie episode,[title],0,0,0,,{TIME:80560,88192}{\blur0.5\fad(1500,0)\pos(320,295)}I'm Not Alone
 Dialogue: 0,0:01:33.07,0:01:34.82,lassie default,Sam Carraclough,0,0,0,,{TIME:93072,94824}Hot! Hot!
 Dialogue: 0,0:01:43.91,0:01:46.66,lassie default,Sam Carraclough,0,0,0,,{TIME:103916,106669}John? I'm going soon.
@@ -192,6 +194,7 @@ Dialogue: 0,0:11:02.09,0:11:04.51,lassie default,Colin,0,0,0,,{TIME:662099,66451
 Dialogue: 0,0:11:05.43,0:11:09.48,lassie default,John Carraclough,0,0,0,,{TIME:665436,669481}Eh, I thought we're gonna\Ndo the deliveries together.
 Dialogue: 0,0:11:09.48,0:11:11.90,lassie default,John Carraclough,0,0,0,,{TIME:669481,671901}I'm alone again.
 Dialogue: 0,0:11:12.94,0:11:14.52,lassie default,John Carraclough,0,0,0,,{TIME:672943,674528}Well, that's too bad.
+Comment: 0,0:11:23.45,0:11:23.45,[chapter],[chapter],0,0,0,,{TIME:683454,683454}Part B
 Dialogue: 0,0:11:30.46,0:11:32.58,lassie default,John Carraclough,0,0,0,,{TIME:690461,692588}Oh, it's an airplane!
 Dialogue: 0,0:11:36.50,0:11:41.26,lassie default,John Carraclough,0,0,0,,{TIME:696508,701263}Amazing… I'd love\Nto fly one some day.
 Dialogue: 0,0:11:46.01,0:11:47.77,lassie default,John Carraclough,0,0,0,,{TIME:706018,707770}It's landing here!
@@ -299,11 +302,13 @@ Dialogue: 0,0:21:18.00,0:21:18.54,lassie default,Sam Carraclough,0,0,0,,{TIME:12
 Dialogue: 0,0:21:19.96,0:21:23.05,lassie default,Sam Carraclough,0,0,0,,{TIME:1279966,1283053}Don't tell me\Nhe's been waiting for me?
 Dialogue: 0,0:21:27.72,0:21:29.55,lassie default,Sam Carraclough,0,0,0,,{TIME:1287724,1289559}I wonder where it came from?
 Dialogue: 0,0:21:40.40,0:21:44.15,lassie default,Sam Carraclough,0,0,0,,{TIME:1300403,1304157}Looks like you\Nweren't alone, after all.
+Comment: 0,0:21:58.25,0:21:58.25,[chapter],[chapter],0,0,0,,{TIME:1318255,1318255}Preview
 Dialogue: 0,0:21:58.96,0:22:03.26,lassie default,John Carraclough,0,0,0,,{TIME:1318964,1323260}{\i1}I went to school and\NI left the puppy at home, but…
 Dialogue: 0,0:22:03.26,0:22:06.76,lassie default,John Carraclough,0,0,0,,{TIME:1323260,1326763}{\i1}it caused a huge mess.
 Dialogue: 0,0:22:06.76,0:22:08.34,lassie default,John Carraclough,0,0,0,,{TIME:1326763,1328348}{\i1}What should I do?
 Dialogue: 0,0:22:09.26,0:22:11.68,lassie default,John Carraclough,0,0,0,,{TIME:1329266,1331685}{\i1}Next episode:\N"A Big Mess At Home".
 Dialogue: 0,0:22:11.68,0:22:13.01,lassie default,John Carraclough,0,0,0,,{TIME:1331685,1333019}{\i1}Look forward to it!
+Comment: 0,0:22:15.35,0:22:15.35,[chapter],[chapter],0,0,0,,{TIME:1335355,1335355}Ending
 Dialogue: 0,0:22:15.35,0:22:19.23,lassie default,(sign),0,0,0,,{TIME:1335355,1339234}{\fs28\i1\pos(320,465)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:24.03,0:22:27.24,lassie song jp ed,[karaoke],0,0,0,,{TIME:1344030,1347242}tasogare ni wa kimi to{NOTE:黄昏には君と}
 Dialogue: 0,0:22:27.40,0:22:31.20,lassie song jp ed,[karaoke],0,0,0,,{TIME:1347409,1351204}oka no ue kakenobori{NOTE:丘の上駆け登り}

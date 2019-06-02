@@ -25,6 +25,7 @@ Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:00.00,0:00:04.94,lassie group,,0,0,0,,{TIME:0,4943}{\pos(320,188)}OldCastle and South Wind Subs present
 Dialogue: 0,0:00:00.00,0:00:04.94,lassie wmt,,0,0,0,,{TIME:0,4943}{\pos(320,312)}WORLD MASTERPIECE THEATER
 Dialogue: 0,0:00:05.65,0:00:12.78,lassie title,,0,0,0,,{TIME:5652,12784}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
@@ -53,6 +54,7 @@ Dialogue: 0,0:00:51.82,0:00:58.66,lassie song en op,[karaoke],0,0,0,,{TIME:51823
 Dialogue: 0,0:00:58.83,0:01:02.37,lassie song en op,[karaoke],0,0,0,,{TIME:58830,62375}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.58,0:01:06.29,lassie song en op,[karaoke],0,0,0,,{TIME:62584,66296}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.58,0:01:13.92,lassie song en op,[karaoke],0,0,0,,{TIME:66588,73928}{\blur0.5}a neverending story
+Comment: 0,0:01:19.97,0:01:19.97,[chapter],[chapter],0,0,0,,{TIME:79976,79976}Part A
 Dialogue: 0,0:01:23.27,0:01:28.15,lassie episode,[title],0,0,0,,{TIME:83271,88151}{\blur0.5\fad(300,0)\pos(320,280)}Colin's Love And The Treasure
 Dialogue: 0,0:01:29.04,0:01:30.22,lassie default,,0,0,0,,{TIME:89040,90220}I'm leaving!
 Dialogue: 0,0:01:30.36,0:01:31.80,lassie default,,0,0,0,,{TIME:90360,91800}Be careful!
@@ -273,6 +275,7 @@ Dialogue: 0,0:11:30.91,0:11:32.17,lassie default,,0,0,0,,{TIME:690910,692170}Lov
 Dialogue: 0,0:11:32.20,0:11:33.34,lassie default,,0,0,0,,{TIME:692200,693340}What does Colin mean?
 Dialogue: 0,0:11:33.57,0:11:34.88,lassie default,,0,0,0,,{TIME:693570,694880}That's true!
 Dialogue: 0,0:11:35.08,0:11:36.35,lassie default,,0,0,0,,{TIME:695080,696350}Eh…?
+Comment: 0,0:11:47.89,0:11:47.89,[chapter],[chapter],0,0,0,,{TIME:707895,707895}Part B
 Dialogue: 0,0:11:53.97,0:11:56.32,lassie default,,0,0,0,,{TIME:713970,716320}Listen, how does the treasure look?
 Dialogue: 0,0:11:56.45,0:12:00.13,lassie default,,0,0,0,,{TIME:716450,720130}Could you have seen two hackers before?
 Dialogue: 0,0:12:00.30,0:12:01.33,lassie default,,0,0,0,,{TIME:720300,721330}Wrong!
@@ -475,6 +478,7 @@ Dialogue: 0,0:21:34.43,0:21:35.83,lassie default,,0,0,0,,{TIME:1294430,1295830}I
 Dialogue: 0,0:21:36.18,0:21:38.27,lassie default,,0,0,0,,{TIME:1296180,1298270}And now everyone, get ready to go!
 Dialogue: 0,0:21:38.50,0:21:40.19,lassie default,,0,0,0,,{TIME:1298500,1300190}Woe to you!
 Dialogue: 0,0:21:41.31,0:21:45.18,lassie default,,0,0,0,,{TIME:1301310,1305180}{\i1}We have to go back because\Nit's waiting for us now!
+Comment: 0,0:21:56.83,0:21:56.83,[chapter],[chapter],0,0,0,,{TIME:1316837,1316837}Preview
 Dialogue: 0,0:21:59.36,0:22:02.08,lassie default,,0,0,0,,{TIME:1319360,1322080}{\i1}Has the influenza epidemic\Nspread in the village?
 Dialogue: 0,0:22:02.21,0:22:04.29,lassie default,,0,0,0,,{TIME:1322210,1324290}{\i1}Even my father got sick and stayed at home!
 Dialogue: 0,0:22:04.49,0:22:05.85,lassie default,,0,0,0,,{TIME:1324490,1325850}{\i1}And daily visit,
@@ -482,6 +486,7 @@ Dialogue: 0,0:22:05.92,0:22:08.23,lassie default,,0,0,0,,{TIME:1325920,1328230}{
 Dialogue: 0,0:22:08.32,0:22:09.70,lassie default,,0,0,0,,{TIME:1328320,1329700}{\i1}Is she okay?
 Dialogue: 0,0:22:10.40,0:22:13.69,lassie default,,0,0,0,,{TIME:1330400,1333690}{\i1}Next episode:\N"It's Serious! My Mother Collapsed".
 Dialogue: 0,0:22:13.88,0:22:15.22,lassie default,,0,0,0,,{TIME:1333880,1335220}{\i1}Be sure to watch!
+Comment: 0,0:22:16.85,0:22:16.85,[chapter],[chapter],0,0,0,,{TIME:1336857,1336857}Ending
 Dialogue: 0,0:22:16.85,0:22:20.73,lassie default,,0,0,0,,{TIME:1336857,1340736}{\fs28\i1\pos(320,465)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:25.53,0:22:28.74,lassie song jp ed,[karaoke],0,0,0,,{TIME:1345532,1348743}tasogare ni wa kimi to{NOTE:黄昏には君と}
 Dialogue: 0,0:22:28.91,0:22:32.70,lassie song jp ed,[karaoke],0,0,0,,{TIME:1348910,1352706}oka no ue kakenobori{NOTE:丘の上駆け登り}

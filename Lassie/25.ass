@@ -25,6 +25,7 @@ Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:00.00,0:00:04.90,lassie group,,0,0,0,,{TIME:0,4901}{\pos(320,188)}OldCastle and South Wind Subs present
 Dialogue: 0,0:00:00.00,0:00:04.90,lassie wmt,,0,0,0,,{TIME:0,4901}{\pos(320,312)}WORLD MASTERPIECE THEATER
 Dialogue: 0,0:00:05.61,0:00:12.74,lassie title,,0,0,0,,{TIME:5610,12742}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
@@ -53,6 +54,7 @@ Dialogue: 0,0:00:51.78,0:00:58.62,lassie song en op,[karaoke],0,0,0,,{TIME:51781
 Dialogue: 0,0:00:58.78,0:01:02.33,lassie song en op,[karaoke],0,0,0,,{TIME:58788,62333}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.54,0:01:06.25,lassie song en op,[karaoke],0,0,0,,{TIME:62542,66254}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.54,0:01:13.88,lassie song en op,[karaoke],0,0,0,,{TIME:66546,73886}{\blur0.5}a neverending story
+Comment: 0,0:01:19.93,0:01:19.93,[chapter],[chapter],0,0,0,,{TIME:79934,79934}Part A
 Dialogue: 0,0:01:48.69,0:01:49.72,lassie default,,0,0,0,,{TIME:108690,109720}Lassie!
 Dialogue: 0,0:01:50.43,0:01:52.69,lassie default,,0,0,0,,{TIME:110430,112690}Don't go this way!
 Dialogue: 0,0:01:55.24,0:01:58.48,lassie default,,0,0,0,,{TIME:115240,118480}Crossing such river is dangerous to you!
@@ -264,6 +266,7 @@ Dialogue: 0,0:13:03.66,0:13:05.44,lassie default,,0,0,0,,{TIME:783660,785440}Sle
 Dialogue: 0,0:13:05.71,0:13:07.05,lassie default,,0,0,0,,{TIME:785710,787050}Lassie…
 Dialogue: 0,0:13:08.99,0:13:09.73,lassie default,,0,0,0,,{TIME:788990,789730}Oh!
 Dialogue: 0,0:13:10.86,0:13:11.77,lassie default,,0,0,0,,{TIME:790860,791770}John…
+Comment: 0,0:13:15.02,0:13:15.02,[chapter],[chapter],0,0,0,,{TIME:795024,795024}Part B
 Dialogue: 0,0:13:19.09,0:13:22.87,lassie default,,0,0,0,,{TIME:799090,802870}He felt relieved after he was nervous!
 Dialogue: 0,0:13:25.65,0:13:28.06,lassie default,,0,0,0,,{TIME:805650,808060}So let him sleep.
 Dialogue: 0,0:13:29.23,0:13:30.87,lassie default,,0,0,0,,{TIME:809230,810870}What about Lassie?
@@ -372,11 +375,13 @@ Dialogue: 0,0:21:30.18,0:21:32.18,lassie default,,0,0,0,,{TIME:1290180,1292180}L
 Dialogue: 0,0:21:40.49,0:21:41.75,lassie default,,0,0,0,,{TIME:1300490,1301750}Hey!
 Dialogue: 0,0:21:41.79,0:21:42.87,lassie default,,0,0,0,,{TIME:1301790,1302870}Hey!
 Dialogue: 0,0:21:42.96,0:21:44.39,lassie default,,0,0,0,,{TIME:1302960,1304390}Hey!
+Comment: 0,0:21:57.04,0:21:57.04,[chapter],[chapter],0,0,0,,{TIME:1317045,1317045}Preview
 Dialogue: 0,0:21:59.49,0:22:02.53,lassie default,,0,0,0,,{TIME:1319490,1322530}{\i1}After a long journey,\NLassie returned to our village!
 Dialogue: 0,0:22:02.65,0:22:06.26,lassie default,,0,0,0,,{TIME:1322650,1326260}{\i1}After that it became famous in the newspapers!
 Dialogue: 0,0:22:06.63,0:22:10.90,lassie default,,0,0,0,,{TIME:1326630,1330900}{\i1}That's why Duke Rudering decided\Nto organize a big party for it!
 Dialogue: 0,0:22:11.76,0:22:14.57,lassie default,,0,0,0,,{TIME:1331760,1334570}{\i1}The last episode:\N"Running Towards The Dream".
 Dialogue: 0,0:22:14.85,0:22:16.11,lassie default,,0,0,0,,{TIME:1334850,1336110}{\i1}Be sure to watch!
+Comment: 0,0:22:17.06,0:22:17.06,[chapter],[chapter],0,0,0,,{TIME:1337065,1337065}Ending
 Dialogue: 0,0:22:17.06,0:22:20.90,lassie default,,0,0,0,,{TIME:1337065,1340902}{\fs28\i1\pos(320,473)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:25.69,0:22:28.91,lassie song jp ed,[karaoke],0,0,0,,{TIME:1345699,1348910}tasogare ni wa kimi to{NOTE:黄昏には君と}
 Dialogue: 0,0:22:29.07,0:22:32.87,lassie song jp ed,[karaoke],0,0,0,,{TIME:1349077,1352873}oka no ue kakenobori{NOTE:丘の上駆け登り}

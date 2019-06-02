@@ -25,6 +25,7 @@ Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:00.00,0:00:04.94,lassie group,,0,0,0,,{TIME:0,4943}{\pos(320,188)}OldCastle and South Wind Subs present
 Dialogue: 0,0:00:00.00,0:00:04.94,lassie wmt,,0,0,0,,{TIME:0,4943}{\pos(320,312)}WORLD MASTERPIECE THEATER
 Dialogue: 0,0:00:05.65,0:00:12.78,lassie title,,0,0,0,,{TIME:5652,12784}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
@@ -53,6 +54,7 @@ Dialogue: 0,0:00:51.82,0:00:58.66,lassie song en op,[karaoke],0,0,0,,{TIME:51823
 Dialogue: 0,0:00:58.83,0:01:02.37,lassie song en op,[karaoke],0,0,0,,{TIME:58830,62375}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.58,0:01:06.29,lassie song en op,[karaoke],0,0,0,,{TIME:62584,66296}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.58,0:01:13.92,lassie song en op,[karaoke],0,0,0,,{TIME:66588,73928}{\blur0.5}a neverending story
+Comment: 0,0:01:19.97,0:01:19.97,[chapter],[chapter],0,0,0,,{TIME:79976,79976}Part A
 Dialogue: 0,0:01:21.88,0:01:24.83,lassie default,,0,0,0,,{TIME:81880,84830}The manager has lost his golden watch!
 Dialogue: 0,0:01:25.02,0:01:27.11,lassie default,,0,0,0,,{TIME:85020,87110}That man you brought is the real thief!
 Dialogue: 0,0:01:27.21,0:01:28.14,lassie default,,0,0,0,,{TIME:87210,88140}That man?
@@ -210,6 +212,7 @@ Dialogue: 0,0:10:52.11,0:10:53.80,lassie default,,0,0,0,,{TIME:652110,653800}But
 Dialogue: 0,0:10:54.01,0:10:56.83,lassie default,,0,0,0,,{TIME:654010,656830}Walter… continue from manager Duhan!
 Dialogue: 0,0:10:57.12,0:10:58.81,lassie default,,0,0,0,,{TIME:657120,658810}We will investigate this guide!
 Dialogue: 0,0:10:59.20,0:11:00.12,lassie default,,0,0,0,,{TIME:659200,660120}Yes!
+Comment: 0,0:11:06.93,0:11:06.93,[chapter],[chapter],0,0,0,,{TIME:666937,666937}Part B
 Dialogue: 0,0:11:07.79,0:11:11.10,lassie default,,0,0,0,,{TIME:667790,671100}{\i1}The next king was James I.
 Dialogue: 0,0:11:11.24,0:11:14.35,lassie default,,0,0,0,,{TIME:671240,674350}{\i1}James was the father of Mary Stuart.
 Dialogue: 0,0:11:14.55,0:11:16.96,lassie default,,0,0,0,,{TIME:674550,676960}{\i1}When Queen Elizabeth died,
@@ -403,11 +406,13 @@ Dialogue: 0,0:20:50.65,0:20:52.03,lassie default,,0,0,0,,{TIME:1250650,1252030}I
 Dialogue: 0,0:20:52.11,0:20:55.50,lassie default,,0,0,0,,{TIME:1252110,1255500}You really are a good man!
 Dialogue: 0,0:21:06.88,0:21:09.64,lassie default,,0,0,0,,{TIME:1266880,1269640}Wait, I want to see him too!
 Dialogue: 0,0:21:24.46,0:21:25.21,lassie default,,0,0,0,,{TIME:1284460,1285210}Whoa…
+Comment: 0,0:21:56.46,0:21:56.46,[chapter],[chapter],0,0,0,,{TIME:1316461,1316461}Preview
 Dialogue: 0,0:21:59.15,0:22:01.83,lassie default,,0,0,0,,{TIME:1319150,1321830}{\i1}When Dr. Hopper went to catch\Nfish, he was seriously injured!
 Dialogue: 0,0:22:02.14,0:22:05.24,lassie default,,0,0,0,,{TIME:1322140,1325240}{\i1}I tried to save him, but I couldn't!
 Dialogue: 0,0:22:05.85,0:22:09.54,lassie default,,0,0,0,,{TIME:1325850,1329540}{\i1}Lassie, you are the only one\Nwho can tell to the villagers!
 Dialogue: 0,0:22:10.19,0:22:13.57,lassie default,,0,0,0,,{TIME:1330190,1333570}{\i1}Next episode:\N"Hurry! Save Dr. Hopper".
 Dialogue: 0,0:22:13.78,0:22:14.99,lassie default,,0,0,0,,{TIME:1333780,1334990}{\i1}Be sure to watch!
+Comment: 0,0:22:16.39,0:22:16.39,[chapter],[chapter],0,0,0,,{TIME:1336398,1336398}Ending
 Dialogue: 0,0:22:16.39,0:22:20.27,lassie default,,0,0,0,,{TIME:1336398,1340277}{\fs28\i1\pos(320,465)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:25.07,0:22:28.28,lassie song jp ed,[karaoke],0,0,0,,{TIME:1345073,1348285}tasogare ni wa kimi to{NOTE:黄昏には君と}
 Dialogue: 0,0:22:28.45,0:22:32.24,lassie song jp ed,[karaoke],0,0,0,,{TIME:1348451,1352247}oka no ue kakenobori{NOTE:丘の上駆け登り}

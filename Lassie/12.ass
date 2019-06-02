@@ -25,6 +25,7 @@ Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:00.00,0:00:04.85,lassie group,,0,0,0,,{TIME:0,4859}{\pos(320,188)}OldCastle and South Wind Subs present
 Dialogue: 0,0:00:00.00,0:00:04.85,lassie wmt,,0,0,0,,{TIME:0,4859}{\pos(320,312)}WORLD MASTERPIECE THEATER
 Dialogue: 0,0:00:05.65,0:00:12.70,lassie title,,0,0,0,,{TIME:5652,12700}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
@@ -53,6 +54,7 @@ Dialogue: 0,0:00:51.73,0:00:58.58,lassie song en op,[karaoke],0,0,0,,{TIME:51739
 Dialogue: 0,0:00:58.74,0:01:02.29,lassie song en op,[karaoke],0,0,0,,{TIME:58746,62292}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.50,0:01:06.21,lassie song en op,[karaoke],0,0,0,,{TIME:62500,66212}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.50,0:01:13.84,lassie song en op,[karaoke],0,0,0,,{TIME:66504,73845}{\blur0.5}a neverending story
+Comment: 0,0:01:19.89,0:01:19.89,[chapter],[chapter],0,0,0,,{TIME:79893,79893}Part A
 Dialogue: 0,0:01:34.65,0:01:39.62,lassie episode,[title],0,0,0,,{TIME:94657,99621}{\blur0.5\fad(300,0)\pos(320,275)}Who Caused The Fire?
 Dialogue: 0,0:01:40.83,0:01:41.88,lassie default,,0,0,0,,{TIME:100830,101880}What's up, John?
 Dialogue: 0,0:01:42.48,0:01:43.97,lassie default,,0,0,0,,{TIME:102480,103970}Try harder!
@@ -242,6 +244,7 @@ Dialogue: 0,0:11:21.86,0:11:25.33,lassie default,,0,0,0,,{TIME:681860,685330}Tha
 Dialogue: 0,0:11:26.28,0:11:26.99,lassie default,,0,0,0,,{TIME:686280,686990}It was good!
 Dialogue: 0,0:11:47.23,0:11:48.58,lassie default,,0,0,0,,{TIME:707230,708580}I have finished, Doucho.
 Dialogue: 0,0:11:48.71,0:11:49.89,lassie default,,0,0,0,,{TIME:708710,709890}Should I sleep now?
+Comment: 0,0:11:58.11,0:11:58.11,[chapter],[chapter],0,0,0,,{TIME:718113,718113}Part B
 Dialogue: 0,0:12:43.77,0:12:44.91,lassie default,,0,0,0,,{TIME:763770,764910}That's bad!
 Dialogue: 0,0:12:51.15,0:12:52.74,lassie default,,0,0,0,,{TIME:771150,772740}Fire!
 Dialogue: 0,0:12:54.37,0:12:55.53,lassie default,,0,0,0,,{TIME:774370,775530}Damn!
@@ -405,12 +408,14 @@ Dialogue: 0,0:21:32.81,0:21:33.58,lassie default,,0,0,0,,{TIME:1292810,1293580}I
 Dialogue: 0,0:21:33.79,0:21:35.63,lassie default,,0,0,0,,{TIME:1293790,1295630}This is because of these kids.
 Dialogue: 0,0:21:36.18,0:21:39.35,lassie default,,0,0,0,,{TIME:1296180,1299350}This means we will do\Nfun things there, right?
 Dialogue: 0,0:21:43.25,0:21:44.69,lassie default,,0,0,0,,{TIME:1303250,1304690}Yeah! Yeah!
+Comment: 0,0:21:56.46,0:21:56.46,[chapter],[chapter],0,0,0,,{TIME:1316461,1316461}Preview
 Dialogue: 0,0:21:59.83,0:22:02.98,lassie default,,0,0,0,,{TIME:1319830,1322980}{\i1}Sandy's poor cow was stolen.
 Dialogue: 0,0:22:03.24,0:22:04.54,lassie default,,0,0,0,,{TIME:1323240,1324540}{\i1}We must find the perpetrator,
 Dialogue: 0,0:22:04.65,0:22:07.03,lassie default,,0,0,0,,{TIME:1324650,1327030}{\i1}so everyone decided to look for him.
 Dialogue: 0,0:22:07.48,0:22:09.56,lassie default,,0,0,0,,{TIME:1327480,1329560}{\i1}Sandy behaves strangely!
 Dialogue: 0,0:22:10.70,0:22:13.14,lassie default,,0,0,0,,{TIME:1330700,1333140}{\i1}Next episode:\N"Sandy Is Stealing The Cows?"
 Dialogue: 0,0:22:13.57,0:22:15.04,lassie default,,0,0,0,,{TIME:1333570,1335040}{\i1}Be sure to watch!
+Comment: 0,0:22:16.35,0:22:16.35,[chapter],[chapter],0,0,0,,{TIME:1336356,1336356}Ending
 Dialogue: 0,0:22:16.35,0:22:20.23,lassie default,,0,0,0,,{TIME:1336356,1340235}{\fs28\i1\pos(320,468)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:25.03,0:22:28.24,lassie song jp ed,[karaoke],0,0,0,,{TIME:1345031,1348243}tasogare ni wa kimi to{NOTE:黄昏には君と}
 Dialogue: 0,0:22:28.41,0:22:32.20,lassie song jp ed,[karaoke],0,0,0,,{TIME:1348410,1352205}oka no ue kakenobori{NOTE:丘の上駆け登り}

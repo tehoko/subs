@@ -25,6 +25,7 @@ Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:00.00,0:00:04.85,lassie group,(sign),0,0,0,,{TIME:0,4859}{\pos(320,188)}OldCastle and South Wind Subs present
 Dialogue: 0,0:00:00.00,0:00:04.85,lassie wmt,(sign),0,0,0,,{TIME:0,4859}{\pos(320,312)}WORLD MASTERPIECE THEATER
 Dialogue: 0,0:00:05.61,0:00:12.74,lassie title,(sign),0,0,0,,{TIME:5610,12742}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
@@ -53,6 +54,7 @@ Dialogue: 0,0:00:51.73,0:00:58.58,lassie song en op,[karaoke],0,0,0,,{TIME:51739
 Dialogue: 0,0:00:58.74,0:01:02.29,lassie song en op,[karaoke],0,0,0,,{TIME:58746,62292}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.50,0:01:06.21,lassie song en op,[karaoke],0,0,0,,{TIME:62500,66212}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.50,0:01:13.84,lassie song en op,[karaoke],0,0,0,,{TIME:66504,73845}{\blur0.5}a neverending story
+Comment: 0,0:01:19.89,0:01:19.89,[chapter],[chapter],0,0,0,,{TIME:79892,79892}Part A
 Dialogue: 0,0:01:22.22,0:01:27.15,lassie episode,[title],0,0,0,,{TIME:82228,87150}{\blur0.5\fad(500,0)\pos(320,295)}Goodbye, Lassie
 Dialogue: 0,0:01:29.02,0:01:32.19,lassie default,Colin,0,0,0,,{TIME:89027,92196}So she got here on this boat?{NOTE:dog gender}
 Dialogue: 0,0:01:32.19,0:01:37.70,lassie default,John Carraclough,0,0,0,,{TIME:92196,97702}Yeah. I mean, the collar\NI found fits her perfectly.
@@ -204,6 +206,7 @@ Dialogue: 0,0:11:26.29,0:11:29.62,lassie default,John Carraclough,0,0,0,,{TIME:6
 Dialogue: 0,0:11:30.54,0:11:34.13,lassie default,Colin,0,0,0,,{TIME:690544,694131}I don't know, but\Nhe sure works his men hard.
 Dialogue: 0,0:11:34.13,0:11:35.50,lassie default,Water lock operator,0,0,0,,{TIME:694131,695507}What's the matter?
 Dialogue: 0,0:11:36.34,0:11:38.88,lassie default,Water lock operator,0,0,0,,{TIME:696342,698886}Have you said your\Ngoodbyes to the dog, kid?
+Comment: 0,0:11:50.43,0:11:50.43,[chapter],[chapter],0,0,0,,{TIME:710439,710439}Part B
 Dialogue: 0,0:11:53.27,0:11:59.99,lassie default,Water lock operator,0,0,0,,{TIME:713275,719990}Look at yourself. A bit of honest work\Nand you stop fooling around.
 Dialogue: 0,0:12:02.49,0:12:04.16,lassie default,John Carraclough,0,0,0,,{TIME:722493,724161}Are you okay?
 Dialogue: 0,0:12:04.16,0:12:06.24,lassie default,Colin,0,0,0,,{TIME:724161,726247}Give me a few minutes.
@@ -367,12 +370,14 @@ Dialogue: 0,0:21:39.31,0:21:40.52,lassie default,Water lock operator,0,0,0,,{TIM
 Dialogue: 0,0:21:40.52,0:21:42.86,lassie default,John Carraclough,0,0,0,,{TIME:1300529,1302864}Yes! We will come, for sure!
 Dialogue: 0,0:21:44.24,0:21:47.16,lassie default,John Carraclough,0,0,0,,{TIME:1304241,1307160}Now, Lassie, let's go.\NTo our home.
 Dialogue: 0,0:21:47.16,0:21:50.70,lassie default,John Carraclough,0,0,0,,{TIME:1307160,1310705}Hot tea and milk are waiting\Nfor us. Come on!
+Comment: 0,0:21:56.16,0:21:56.16,[chapter],[chapter],0,0,0,,{TIME:1316169,1316169}Preview
 Dialogue: 0,0:21:59.17,0:22:01.21,lassie default,John Carraclough,0,0,0,,{TIME:1319172,1321216}{\i1}Tomorrow is my Mom's birthday.
 Dialogue: 0,0:22:01.21,0:22:04.67,lassie default,John Carraclough,0,0,0,,{TIME:1321216,1324678}{\i1}But looks like Dad lost his salary.
 Dialogue: 0,0:22:04.67,0:22:07.80,lassie default,John Carraclough,0,0,0,,{TIME:1324678,1327806}{\i1}He can't buy any gift for Mom.
 Dialogue: 0,0:22:07.80,0:22:10.97,lassie default,John Carraclough,0,0,0,,{TIME:1327806,1330976}{\i1}Lassie, we're gonna\Nlook for it with your nose!
 Dialogue: 0,0:22:10.97,0:22:13.35,lassie default,John Carraclough,0,0,0,,{TIME:1330976,1333353}{\i1}Next episode:\N"My Father's Salary".
 Dialogue: 0,0:22:13.35,0:22:14.68,lassie default,John Carraclough,0,0,0,,{TIME:1333353,1334688}{\i1}Be sure to watch!
+Comment: 0,0:22:16.10,0:22:16.10,[chapter],[chapter],0,0,0,,{TIME:1336106,1336106}Ending
 Dialogue: 0,0:22:16.10,0:22:19.98,lassie default,(sign),0,0,0,,{TIME:1336106,1339985}{\fs28\i1\pos(320,465)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:24.78,0:22:27.99,lassie song jp ed,[karaoke],0,0,0,,{TIME:1344781,1347993}tasogare ni wa kimi to{NOTE:黄昏には君と}
 Dialogue: 0,0:22:28.15,0:22:31.95,lassie song jp ed,[karaoke],0,0,0,,{TIME:1348159,1351955}oka no ue kakenobori{NOTE:丘の上駆け登り}

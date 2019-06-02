@@ -25,6 +25,7 @@ Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:00.00,0:00:04.94,lassie group,,0,0,0,,{TIME:0,4943}{\pos(320,188)}OldCastle and South Wind Subs present
 Dialogue: 0,0:00:00.00,0:00:04.90,lassie wmt,,0,0,0,,{TIME:0,4901}{\pos(320,312)}WORLD MASTERPIECE THEATER
 Dialogue: 0,0:00:05.61,0:00:12.74,lassie title,,0,0,0,,{TIME:5610,12742}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
@@ -53,6 +54,7 @@ Dialogue: 0,0:00:51.78,0:00:58.62,lassie song en op,[karaoke],0,0,0,,{TIME:51781
 Dialogue: 0,0:00:58.78,0:01:02.33,lassie song en op,[karaoke],0,0,0,,{TIME:58788,62333}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.54,0:01:06.25,lassie song en op,[karaoke],0,0,0,,{TIME:62542,66254}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.54,0:01:13.88,lassie song en op,[karaoke],0,0,0,,{TIME:66546,73886}{\blur0.5}a neverending story
+Comment: 0,0:01:19.93,0:01:19.93,[chapter],[chapter],0,0,0,,{TIME:79934,79934}Part A
 Dialogue: 0,0:01:24.21,0:01:25.52,lassie default,,0,0,0,,{TIME:84210,85520}Ah, that's great!
 Dialogue: 0,0:01:25.48,0:01:30.36,lassie episode,[title],0,0,0,,{TIME:85481,90361}{\blur0.5\fad(300,0)\pos(320,290)}It's Serious! My Mother Collapsed
 Dialogue: 0,0:01:25.93,0:01:27.91,lassie default,,0,0,0,,{TIME:85930,87910}It's just fever!
@@ -255,6 +257,7 @@ Dialogue: 0,0:10:49.26,0:10:50.33,lassie default,,0,0,0,,{TIME:649260,650330}And
 Dialogue: 0,0:10:51.47,0:10:52.36,lassie default,,0,0,0,,{TIME:651470,652360}Okay!
 Dialogue: 0,0:10:52.52,0:10:55.67,lassie default,,0,0,0,,{TIME:652520,655670}I count on you, John! Lassie!
 Dialogue: 0,0:10:55.89,0:10:56.67,lassie default,,0,0,0,,{TIME:655890,656670}Yes!
+Comment: 0,0:11:00.72,0:11:00.72,[chapter],[chapter],0,0,0,,{TIME:660723,660723}Part B
 Dialogue: 0,0:11:04.11,0:11:06.64,lassie default,,0,0,0,,{TIME:664110,666640}Well, the lungs are okay!
 Dialogue: 0,0:11:06.92,0:11:08.35,lassie default,,0,0,0,,{TIME:666920,668350}John, the tongue inhibitor!
 Dialogue: 0,0:11:08.35,0:11:10.25,lassie default,,0,0,0,,{TIME:668350,670250}Tongue inhibitor… yes!
@@ -465,11 +468,13 @@ Dialogue: 0,0:21:38.13,0:21:39.73,lassie default,,0,0,0,,{TIME:1298130,1299730}Y
 Dialogue: 0,0:21:39.95,0:21:43.36,lassie default,,0,0,0,,{TIME:1299950,1303360}No, but you, Mom, you always\Nwork hard and always…
 Dialogue: 0,0:21:43.69,0:21:45.88,lassie default,,0,0,0,,{TIME:1303690,1305880}Always do your best!
 Dialogue: 0,0:21:47.92,0:21:51.67,lassie default,,0,0,0,,{TIME:1307920,1311670}I am proud because you are my mother!
+Comment: 0,0:21:57.71,0:21:57.71,[chapter],[chapter],0,0,0,,{TIME:1317712,1317712}Preview
 Dialogue: 0,0:22:00.46,0:22:04.65,lassie default,,0,0,0,,{TIME:1320460,1324650}{\i1}Grandmother Forrest's son returned\Nto the village 20 years later.
 Dialogue: 0,0:22:04.68,0:22:08.47,lassie default,,0,0,0,,{TIME:1324680,1328470}{\i1}But the grandmother didn't reply\Nand didn't received her son.
 Dialogue: 0,0:22:08.72,0:22:12.22,lassie default,,0,0,0,,{TIME:1328720,1332220}{\i1}At that time, her grandson also appeared.
 Dialogue: 0,0:22:12.44,0:22:14.90,lassie default,,0,0,0,,{TIME:1332440,1334900}{\i1}Next episode:\N"I Want To See My Grandmother".
 Dialogue: 0,0:22:14.90,0:22:16.23,lassie default,,0,0,0,,{TIME:1334900,1336230}{\i1}Be sure to watch!
+Comment: 0,0:22:17.64,0:22:17.64,[chapter],[chapter],0,0,0,,{TIME:1337649,1337649}Ending
 Dialogue: 0,0:22:17.64,0:22:21.52,lassie default,,0,0,0,,{TIME:1337649,1341528}{\fs28\i1\pos(320,468)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:26.32,0:22:29.53,lassie song jp ed,[karaoke],0,0,0,,{TIME:1346324,1349536}tasogare ni wa kimi to{NOTE:黄昏には君と}
 Dialogue: 0,0:22:29.70,0:22:33.49,lassie song jp ed,[karaoke],0,0,0,,{TIME:1349703,1353498}oka no ue kakenobori{NOTE:丘の上駆け登り}

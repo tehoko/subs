@@ -25,6 +25,7 @@ Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:00.00,0:00:04.94,lassie group,,0,0,0,,{TIME:0,4943}{\pos(320,188)}OldCastle and South Wind Subs present
 Dialogue: 0,0:00:00.00,0:00:04.94,lassie wmt,,0,0,0,,{TIME:0,4943}{\pos(320,312)}WORLD MASTERPIECE THEATER
 Dialogue: 0,0:00:05.73,0:00:12.78,lassie title,,0,0,0,,{TIME:5735,12784}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
@@ -53,6 +54,7 @@ Dialogue: 0,0:00:51.82,0:00:58.66,lassie song en op,[karaoke],0,0,0,,{TIME:51823
 Dialogue: 0,0:00:58.83,0:01:02.37,lassie song en op,[karaoke],0,0,0,,{TIME:58830,62375}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.58,0:01:06.29,lassie song en op,[karaoke],0,0,0,,{TIME:62584,66296}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.58,0:01:13.92,lassie song en op,[karaoke],0,0,0,,{TIME:66588,73928}{\blur0.5}a neverending story
+Comment: 0,0:01:19.97,0:01:19.97,[chapter],[chapter],0,0,0,,{TIME:79976,79976}Part A
 Dialogue: 0,0:01:22.77,0:01:27.73,lassie episode,[title],0,0,0,,{TIME:82770,87734}{\blur0.5\fad(300,0)\pos(320,290)}My Father's Salary
 Dialogue: 0,0:01:36.49,0:01:40.24,lassie default,,0,0,0,,{TIME:96492,100246}What's that? She started\Nto drink milk on her own?
 Dialogue: 0,0:01:40.24,0:01:41.49,lassie default,,0,0,0,,{TIME:100246,101497}I know, right?
@@ -241,6 +243,7 @@ Dialogue: 0,0:12:37.11,0:12:39.07,lassie default,,0,0,0,,{TIME:757111,759071}In 
 Dialogue: 0,0:12:39.98,0:12:42.90,lassie default,,0,0,0,,{TIME:759989,762908}Now because of it,\Nmy salary's gone.
 Dialogue: 0,0:12:43.70,0:12:46.32,lassie default,,0,0,0,,{TIME:763701,766328}I can't celebrate\Nmy wife's birthday…
 Dialogue: 0,0:12:50.12,0:12:51.70,lassie default,,0,0,0,,{TIME:770124,771709}What to do?
+Comment: 0,0:12:54.54,0:12:54.54,[chapter],[chapter],0,0,0,,{TIME:774545,774545}Part B
 Dialogue: 0,0:13:02.88,0:13:04.59,lassie default,,0,0,0,,{TIME:782886,784596}Literally, just like my husband.
 Dialogue: 0,0:13:13.23,0:13:14.23,lassie default,,0,0,0,,{TIME:793230,794231}I'm back.
 Dialogue: 0,0:13:14.48,0:13:15.44,lassie default,,0,0,0,,{TIME:794481,795441}What?!
@@ -377,12 +380,14 @@ Dialogue: 0,0:21:42.03,0:21:44.44,lassie default,,0,0,0,,{TIME:1302030,1304449}G
 Dialogue: 0,0:21:44.44,0:21:46.99,lassie default,,0,0,0,,{TIME:1304449,1306993}I let that kid choose a reward\Nfor catching the thief,
 Dialogue: 0,0:21:46.99,0:21:50.24,lassie default,,0,0,0,,{TIME:1306993,1310247}and he had to choose\Nthe most expensive brooch!
 Dialogue: 0,0:21:50.95,0:21:53.50,lassie default,,0,0,0,,{TIME:1310956,1313500}I'm never going back\Nto this place again.
+Comment: 0,0:21:56.67,0:21:56.67,[chapter],[chapter],0,0,0,,{TIME:1316670,1316670}Preview
 Dialogue: 0,0:21:59.71,0:22:01.13,lassie default,,0,0,0,,{TIME:1319714,1321132}{\i1}Today is Saturday.
 Dialogue: 0,0:22:01.13,0:22:04.26,lassie default,,0,0,0,,{TIME:1321132,1324261}{\i1}It's a day off for everyone,\Nbut not for the two of us.
 Dialogue: 0,0:22:04.26,0:22:07.51,lassie default,,0,0,0,,{TIME:1324261,1327514}{\i1}All right, Lassie.\NLet's go to the lake today!
 Dialogue: 0,0:22:07.51,0:22:10.93,lassie default,,0,0,0,,{TIME:1327514,1330934}{\i1}We're going to fish\Nfor Mom's feast!
 Dialogue: 0,0:22:10.93,0:22:13.81,lassie default,,0,0,0,,{TIME:1330934,1333812}{\i1}Next episode:\N"6 Miles In Search For Food".
 Dialogue: 0,0:22:13.81,0:22:15.02,lassie default,,0,0,0,,{TIME:1333812,1335021}{\i1}Be sure to watch!
+Comment: 0,0:22:16.64,0:22:16.64,[chapter],[chapter],0,0,0,,{TIME:1336648,1336648}Ending
 Dialogue: 0,0:22:16.64,0:22:20.52,lassie default,,0,0,0,,{TIME:1336648,1340527}{\fs28\i1\pos(320,468)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:25.32,0:22:28.53,lassie song jp ed,[karaoke],0,0,0,,{TIME:1345323,1348535}tasogare ni wa kimi to{NOTE:黄昏には君と}
 Dialogue: 0,0:22:28.70,0:22:32.49,lassie song jp ed,[karaoke],0,0,0,,{TIME:1348702,1352497}oka no ue kakenobori{NOTE:丘の上駆け登り}

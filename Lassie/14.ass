@@ -25,6 +25,7 @@ Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:00.00,0:00:04.90,lassie group,,0,0,0,,{TIME:0,4901}{\pos(320,188)}OldCastle and South Wind Subs present
 Dialogue: 0,0:00:00.00,0:00:04.90,lassie wmt,,0,0,0,,{TIME:0,4901}{\pos(320,312)}WORLD MASTERPIECE THEATER
 Dialogue: 0,0:00:05.69,0:00:12.74,lassie title,,0,0,0,,{TIME:5693,12742}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
@@ -53,6 +54,7 @@ Dialogue: 0,0:00:51.78,0:00:58.62,lassie song en op,[karaoke],0,0,0,,{TIME:51781
 Dialogue: 0,0:00:58.78,0:01:02.33,lassie song en op,[karaoke],0,0,0,,{TIME:58788,62333}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.54,0:01:06.25,lassie song en op,[karaoke],0,0,0,,{TIME:62542,66254}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.54,0:01:13.88,lassie song en op,[karaoke],0,0,0,,{TIME:66546,73886}{\blur0.5}a neverending story
+Comment: 0,0:01:19.93,0:01:19.93,[chapter],[chapter],0,0,0,,{TIME:79934,79934}Part A
 Dialogue: 0,0:01:33.78,0:01:38.74,lassie episode,[title],0,0,0,,{TIME:93781,98745}{\blur0.5\fad(300,0)\pos(320,285)}Follow The Suspicious Man!
 Dialogue: 0,0:02:01.39,0:02:02.20,lassie default,,0,0,0,,{TIME:121390,122200}Hm?
 Dialogue: 0,0:02:14.10,0:02:16.11,lassie default,,0,0,0,,{TIME:134100,136110}Hey… just a moment!
@@ -206,6 +208,7 @@ Dialogue: 0,0:10:43.12,0:10:45.29,lassie default,,0,0,0,,{TIME:643120,645290}I c
 Dialogue: 0,0:10:46.19,0:10:48.91,lassie default,,0,0,0,,{TIME:646190,648910}He's the real criminal! No doubt about it!
 Dialogue: 0,0:10:49.36,0:10:50.08,lassie default,,0,0,0,,{TIME:649360,650080}Oh ah!
 Dialogue: 0,0:10:50.79,0:10:51.58,lassie default,,0,0,0,,{TIME:650790,651580}Ah…
+Comment: 0,0:10:53.63,0:10:53.63,[chapter],[chapter],0,0,0,,{TIME:653632,653632}Part B
 Dialogue: 0,0:11:00.69,0:11:01.73,lassie default,,0,0,0,,{TIME:660690,661730}Father!
 Dialogue: 0,0:11:02.00,0:11:02.72,lassie default,,0,0,0,,{TIME:662000,662720}Yes?
 Dialogue: 0,0:11:03.13,0:11:05.03,lassie default,,0,0,0,,{TIME:663130,665030}About the Ian's command…
@@ -408,6 +411,7 @@ Dialogue: 0,0:21:40.96,0:21:43.94,lassie default,,0,0,0,,{TIME:1300960,1303940}I
 Dialogue: 0,0:21:44.07,0:21:46.72,lassie default,,0,0,0,,{TIME:1304070,1306720}No, don't tell to the people!
 Dialogue: 0,0:21:46.97,0:21:47.69,lassie default,,0,0,0,,{TIME:1306970,1307690}Oh?
 Dialogue: 0,0:21:50.56,0:21:53.77,lassie default,,0,0,0,,{TIME:1310560,1313770}However I will inevitably catch him!
+Comment: 0,0:21:56.16,0:21:56.16,[chapter],[chapter],0,0,0,,{TIME:1316169,1316169}Preview
 Dialogue: 0,0:21:58.69,0:21:59.76,lassie default,,0,0,0,,{TIME:1318690,1319760}{\i1}It's bad!
 Dialogue: 0,0:21:59.86,0:22:01.59,lassie default,,0,0,0,,{TIME:1319860,1321590}{\i1}Ian has been arrested!
 Dialogue: 0,0:22:01.65,0:22:04.95,lassie default,,0,0,0,,{TIME:1321650,1324950}{\i1}Ian was arrested for stealing the golden\Nwatch as the interrogator accused him!
@@ -415,6 +419,7 @@ Dialogue: 0,0:22:05.11,0:22:07.15,lassie default,,0,0,0,,{TIME:1325110,1327150}{
 Dialogue: 0,0:22:07.29,0:22:10.01,lassie default,,0,0,0,,{TIME:1327290,1330010}{\i1}Lassie, I'm sure there is something!
 Dialogue: 0,0:22:10.55,0:22:13.29,lassie default,,0,0,0,,{TIME:1330550,1333290}{\i1}Next episode:\N"Proving Ian's Innocence".
 Dialogue: 0,0:22:13.49,0:22:14.84,lassie default,,0,0,0,,{TIME:1333490,1334840}{\i1}Be sure to watch!
+Comment: 0,0:22:16.18,0:22:16.18,[chapter],[chapter],0,0,0,,{TIME:1336189,1336189}Ending
 Dialogue: 0,0:22:16.18,0:22:20.06,lassie default,,0,0,0,,{TIME:1336189,1340068}{\fs28\i1\pos(320,465)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:24.86,0:22:28.07,lassie song jp ed,[karaoke],0,0,0,,{TIME:1344864,1348076}tasogare ni wa kimi to{NOTE:黄昏には君と}
 Dialogue: 0,0:22:28.24,0:22:32.03,lassie song jp ed,[karaoke],0,0,0,,{TIME:1348243,1352038}oka no ue kakenobori{NOTE:丘の上駆け登り}

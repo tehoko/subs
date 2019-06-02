@@ -25,6 +25,7 @@ Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:00.00,0:00:04.85,lassie group,,0,0,0,,{TIME:0,4859}{\pos(320,188)}OldCastle and South Wind Subs present
 Dialogue: 0,0:00:00.00,0:00:04.85,lassie wmt,,0,0,0,,{TIME:0,4859}{\pos(320,312)}WORLD MASTERPIECE THEATER
 Dialogue: 0,0:00:05.56,0:00:12.70,lassie title,,0,0,0,,{TIME:5568,12700}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
@@ -53,6 +54,7 @@ Dialogue: 0,0:00:51.73,0:00:58.58,lassie song en op,[karaoke],0,0,0,,{TIME:51739
 Dialogue: 0,0:00:58.74,0:01:02.29,lassie song en op,[karaoke],0,0,0,,{TIME:58746,62292}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.50,0:01:06.21,lassie song en op,[karaoke],0,0,0,,{TIME:62500,66212}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.50,0:01:13.84,lassie song en op,[karaoke],0,0,0,,{TIME:66504,73845}{\blur0.5}a neverending story
+Comment: 0,0:01:19.89,0:01:19.89,[chapter],[chapter],0,0,0,,{TIME:79892,79892}Part A
 Dialogue: 0,0:01:26.08,0:01:27.89,lassie default,,0,0,0,,{TIME:86080,87890}Will the bus return here after two hours?
 Dialogue: 0,0:01:27.97,0:01:30.79,lassie default,,0,0,0,,{TIME:87970,90790}The time has passed!
 Dialogue: 0,0:01:31.08,0:01:34.15,lassie default,,0,0,0,,{TIME:91080,94150}If you walk in this way you\Nwill find a village nearby.
@@ -244,6 +246,7 @@ Dialogue: 0,0:10:51.46,0:10:52.46,lassie default,,0,0,0,,{TIME:651460,652460}For
 Dialogue: 0,0:10:52.61,0:10:55.20,lassie default,,0,0,0,,{TIME:652610,655200}Oh, could he be…
 Dialogue: 0,0:10:55.34,0:10:57.27,lassie default,,0,0,0,,{TIME:655340,657270}Grandma Forrest's grandson?
 Dialogue: 0,0:10:57.35,0:10:58.16,lassie default,,0,0,0,,{TIME:657350,658160}Hm?
+Comment: 0,0:11:01.47,0:11:01.47,[chapter],[chapter],0,0,0,,{TIME:661473,661473}Part B
 Dialogue: 0,0:11:03.74,0:11:05.97,lassie default,,0,0,0,,{TIME:663740,665970}Do you know my grandmother?
 Dialogue: 0,0:11:06.25,0:11:08.23,lassie default,,0,0,0,,{TIME:666250,668230}We really know her…
 Dialogue: 0,0:11:08.35,0:11:08.94,lassie default,,0,0,0,,{TIME:668350,668940}Yes…
@@ -471,12 +474,14 @@ Dialogue: 0,0:21:05.97,0:21:07.03,lassie default,,0,0,0,,{TIME:1265970,1267030}M
 Dialogue: 0,0:21:27.79,0:21:28.78,lassie default,,0,0,0,,{TIME:1287790,1288780}Oh!
 Dialogue: 0,0:21:36.58,0:21:38.41,lassie default,,0,0,0,,{TIME:1296580,1298410}Yeah, Albert!
 Dialogue: 0,0:21:41.56,0:21:43.71,lassie default,,0,0,0,,{TIME:1301560,1303710}Well, I'll take the picture now!
+Comment: 0,0:21:58.71,0:21:58.71,[chapter],[chapter],0,0,0,,{TIME:1318713,1318713}Preview
 Dialogue: 0,0:22:01.80,0:22:04.16,lassie default,,0,0,0,,{TIME:1321800,1324160}{\i1}Coal ran out of the mine suddenly!
 Dialogue: 0,0:22:04.27,0:22:06.74,lassie default,,0,0,0,,{TIME:1324270,1326740}{\i1}The mine will be closed!
 Dialogue: 0,0:22:06.86,0:22:10.43,lassie default,,0,0,0,,{TIME:1326860,1330430}{\i1}This is what my father did without sleep!
 Dialogue: 0,0:22:10.63,0:22:11.71,lassie default,,0,0,0,,{TIME:1330630,1331710}{\i1}I…
 Dialogue: 0,0:22:12.16,0:22:15.31,lassie default,,0,0,0,,{TIME:1332160,1335310}{\i1}Next episode:\N"John's Decision! Protect The Mine".
 Dialogue: 0,0:22:15.53,0:22:16.91,lassie default,,0,0,0,,{TIME:1335530,1336910}{\i1}Be sure to watch!
+Comment: 0,0:22:18.60,0:22:18.60,[chapter],[chapter],0,0,0,,{TIME:1338608,1338608}Ending
 Dialogue: 0,0:22:18.60,0:22:22.48,lassie default,,0,0,0,,{TIME:1338608,1342487}{\fs28\i1\pos(320,467)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:27.28,0:22:30.49,lassie song jp ed,[karaoke],0,0,0,,{TIME:1347284,1350495}tasogare ni wa kimi to{NOTE:黄昏には君と}
 Dialogue: 0,0:22:30.66,0:22:34.45,lassie song jp ed,[karaoke],0,0,0,,{TIME:1350662,1354457}oka no ue kakenobori{NOTE:丘の上駆け登り}

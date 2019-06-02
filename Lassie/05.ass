@@ -25,6 +25,7 @@ Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:00.00,0:00:04.85,lassie group,,0,0,0,,{TIME:0,4859}{\pos(320,188)}OldCastle and South Wind Subs present
 Dialogue: 0,0:00:00.00,0:00:04.85,lassie wmt,,0,0,0,,{TIME:0,4859}{\pos(320,312)}WORLD MASTERPIECE THEATER
 Dialogue: 0,0:00:05.61,0:00:12.70,lassie title,,0,0,0,,{TIME:5610,12700}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
@@ -53,6 +54,7 @@ Dialogue: 0,0:00:51.73,0:00:58.58,lassie song en op,[karaoke],0,0,0,,{TIME:51739
 Dialogue: 0,0:00:58.74,0:01:02.29,lassie song en op,[karaoke],0,0,0,,{TIME:58746,62292}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.50,0:01:06.21,lassie song en op,[karaoke],0,0,0,,{TIME:62500,66212}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.50,0:01:13.84,lassie song en op,[karaoke],0,0,0,,{TIME:66504,73845}{\blur0.5}a neverending story
+Comment: 0,0:01:19.89,0:01:19.89,[chapter],[chapter],0,0,0,,{TIME:79892,79892}Part A
 Dialogue: 0,0:01:22.68,0:01:27.56,lassie episode,[title],0,0,0,,{TIME:82687,87567}{\blur0.5\fad(300,0)\pos(320,290)}6 Miles In Search For Food
 Dialogue: 0,0:01:31.07,0:01:33.07,lassie default,,0,0,0,,{TIME:91070,93072}The weather is lovely today.
 Dialogue: 0,0:01:34.03,0:01:37.28,lassie default,,0,0,0,,{TIME:94032,97285}Waking up with the sun\Nfeels great.
@@ -171,6 +173,7 @@ Dialogue: 0,0:10:22.51,0:10:25.85,lassie default,,0,0,0,,{TIME:622518,625855}If 
 Dialogue: 0,0:10:26.77,0:10:27.64,lassie default,,0,0,0,,{TIME:626772,627648}Here we are…
 Dialogue: 0,0:10:48.16,0:10:49.92,lassie default,,0,0,0,,{TIME:648169,649920}And another tunnel!
 Dialogue: 0,0:11:02.39,0:11:05.97,lassie default,,0,0,0,,{TIME:662391,665978}No, Lassie! We can't do that\Nonce we get out of the tunnel.
+Comment: 0,0:11:25.99,0:11:25.99,[chapter],[chapter],0,0,0,,{TIME:685998,685998}Part B
 Dialogue: 0,0:11:52.31,0:11:53.06,lassie default,,0,0,0,,{TIME:712316,713067}Hey!
 Dialogue: 0,0:11:55.06,0:11:57.73,lassie default,,0,0,0,,{TIME:715069,717738}If I find you next time,\Nit won't end with scolding!
 Dialogue: 0,0:12:01.20,0:12:02.15,lassie default,,0,0,0,,{TIME:721200,722159}For Pete's sake.
@@ -282,6 +285,7 @@ Dialogue: 0,0:21:30.60,0:21:33.06,lassie default,,0,0,0,,{TIME:1290602,1293063}N
 Dialogue: 0,0:21:34.94,0:21:38.73,lassie default,,0,0,0,,{TIME:1294940,1298735}I knew he was up to something,\Nbut I'd never guess he'd go that far.
 Dialogue: 0,0:21:38.73,0:21:40.02,lassie default,,0,0,0,,{TIME:1298735,1300028}He's one little urchin.
 Dialogue: 0,0:21:40.02,0:21:41.27,lassie default,,0,0,0,,{TIME:1300028,1301279}That's right.
+Comment: 0,0:21:56.33,0:21:56.33,[chapter],[chapter],0,0,0,,{TIME:1316336,1316336}Preview
 Dialogue: 0,0:21:59.25,0:22:00.59,lassie default,,0,0,0,,{TIME:1319256,1320590}{\i1}A storm is coming.
 Dialogue: 0,0:22:00.59,0:22:02.38,lassie default,,0,0,0,,{TIME:1320590,1322384}{\i1}A storm like no other.
 Dialogue: 0,0:22:02.38,0:22:04.84,lassie default,,0,0,0,,{TIME:1322384,1324845}{\i1}There's extreme wind\Nand endless rain.
@@ -289,6 +293,7 @@ Dialogue: 0,0:22:04.84,0:22:08.01,lassie default,,0,0,0,,{TIME:1324845,1328014}{
 Dialogue: 0,0:22:08.01,0:22:10.93,lassie default,,0,0,0,,{TIME:1328014,1330934}{\i1}We're going to deliver\Na syringe to Dr. Hopper.
 Dialogue: 0,0:22:10.93,0:22:14.06,lassie default,,0,0,0,,{TIME:1330934,1334062}{\i1}Next episode:\N"Running Through The Storm".
 Dialogue: 0,0:22:14.06,0:22:15.27,lassie default,,0,0,0,,{TIME:1334062,1335272}{\i1}Be sure to watch!
+Comment: 0,0:22:16.31,0:22:16.31,[chapter],[chapter],0,0,0,,{TIME:1336314,1336314}Ending
 Dialogue: 0,0:22:16.31,0:22:20.19,lassie default,,0,0,0,,{TIME:1336314,1340193}{\fs28\i1\pos(320,469)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:24.99,0:22:28.20,lassie song jp ed,[karaoke],0,0,0,,{TIME:1344990,1348201}tasogare ni wa kimi to{NOTE:黄昏には君と}
 Dialogue: 0,0:22:28.36,0:22:32.16,lassie song jp ed,[karaoke],0,0,0,,{TIME:1348368,1352163}oka no ue kakenobori{NOTE:丘の上駆け登り}

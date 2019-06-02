@@ -25,6 +25,7 @@ Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:00.00,0:00:04.94,lassie group,,0,0,0,,{TIME:0,4943}{\pos(320,188)}OldCastle and South Wind Subs present
 Dialogue: 0,0:00:00.00,0:00:04.94,lassie wmt,,0,0,0,,{TIME:0,4943}{\pos(320,312)}WORLD MASTERPIECE THEATER
 Dialogue: 0,0:00:05.65,0:00:12.78,lassie title,,0,0,0,,{TIME:5652,12784}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
@@ -53,6 +54,7 @@ Dialogue: 0,0:00:51.78,0:00:58.62,lassie song en op,[karaoke],0,0,0,,{TIME:51781
 Dialogue: 0,0:00:58.78,0:01:02.33,lassie song en op,[karaoke],0,0,0,,{TIME:58788,62333}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.54,0:01:06.25,lassie song en op,[karaoke],0,0,0,,{TIME:62542,66254}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.54,0:01:13.88,lassie song en op,[karaoke],0,0,0,,{TIME:66546,73886}{\blur0.5}a neverending story
+Comment: 0,0:01:19.97,0:01:19.97,[chapter],[chapter],0,0,0,,{TIME:79976,79976}Part A
 Dialogue: 0,0:01:23.93,0:01:28.31,lassie episode,[title],0,0,0,,{TIME:83938,88318}{\blur0.5\fad(300,0)\pos(320,300)}Running Towards The Dream
 Dialogue: 0,0:01:31.22,0:01:33.53,lassie default,,0,0,0,,{TIME:91220,93530}Father! Mom!
 Dialogue: 0,0:01:34.41,0:01:35.67,lassie default,,0,0,0,,{TIME:94410,95670}- Come on!\N- Yes!
@@ -230,6 +232,7 @@ Dialogue: 0,0:10:24.14,0:10:27.18,lassie default,,0,0,0,,{TIME:624140,627180}aft
 Dialogue: 0,0:10:27.24,0:10:27.89,lassie default,,0,0,0,,{TIME:627240,627890}Eh?
 Dialogue: 0,0:10:27.91,0:10:28.89,lassie default,,0,0,0,,{TIME:627910,628890}Lassie…
 Dialogue: 0,0:10:29.96,0:10:33.97,lassie default,,0,0,0,,{TIME:629960,633970}You have become well known in England!
+Comment: 0,0:10:36.82,0:10:36.82,[chapter],[chapter],0,0,0,,{TIME:636824,636824}Part B
 Dialogue: 0,0:10:49.08,0:10:50.08,lassie default,,0,0,0,,{TIME:649080,650080}Oh?
 Dialogue: 0,0:10:51.70,0:10:52.65,lassie default,,0,0,0,,{TIME:651700,652650}Ah…?
 Dialogue: 0,0:11:06.52,0:11:07.18,lassie default,,0,0,0,,{TIME:666520,667180}Oh!
@@ -451,6 +454,7 @@ Dialogue: 0,0:20:44.12,0:20:46.97,lassie default,,0,0,0,,{TIME:1244120,1246970}{
 Dialogue: 0,0:20:47.29,0:20:48.42,lassie default,,0,0,0,,{TIME:1247290,1248420}{\i1}That's it!
 Dialogue: 0,0:20:49.79,0:20:52.93,lassie default,,0,0,0,,{TIME:1249790,1252930}I apologize to everyone, despite the fact\Nthat they have struggled to come here,
 Dialogue: 0,0:20:53.04,0:20:54.56,lassie default,,0,0,0,,{TIME:1253040,1254560}John Carraclough…
+Comment: 0,0:21:57.92,0:21:57.92,[chapter],[chapter],0,0,0,,{TIME:1317921,1317921}Preview
 Dialogue: 0,0:22:00.34,0:22:01.58,lassie default,,0,0,0,,{TIME:1320340,1321580}{\i1}I'm Remy!
 Dialogue: 0,0:22:01.69,0:22:02.86,lassie default,,0,0,0,,{TIME:1321690,1322860}{\i1}I sing!
 Dialogue: 0,0:22:03.02,0:22:05.05,lassie default,,0,0,0,,{TIME:1323020,1325050}{\i1}No, I'm not alone!
@@ -458,6 +462,7 @@ Dialogue: 0,0:22:05.23,0:22:07.72,lassie default,,0,0,0,,{TIME:1325230,1327720}{
 Dialogue: 0,0:22:07.97,0:22:10.82,lassie default,,0,0,0,,{TIME:1327970,1330820}{\i1}But, where is my mother?
 Dialogue: 0,0:22:11.07,0:22:12.78,lassie default,,0,0,0,,{TIME:1331070,1332780}{\i1}Mom!
 Dialogue: 0,0:22:13.77,0:22:16.29,lassie default,,0,0,0,,{TIME:1333770,1336290}{\i1}"Homeless Girl Remy"\NPlease look forward!
+Comment: 0,0:22:17.89,0:22:17.89,[chapter],[chapter],0,0,0,,{TIME:1337899,1337899}Ending
 Dialogue: 0,0:22:17.89,0:22:21.77,lassie default,,0,0,0,,{TIME:1337899,1341778}{\fs28\i1\pos(320,472)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:26.53,0:22:29.74,lassie song jp ed,[karaoke],0,0,0,,{TIME:1346533,1349744}tasogare ni wa kimi to{NOTE:黄昏には君と}
 Dialogue: 0,0:22:29.91,0:22:33.70,lassie song jp ed,[karaoke],0,0,0,,{TIME:1349911,1353707}oka no ue kakenobori{NOTE:丘の上駆け登り}
