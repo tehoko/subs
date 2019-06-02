@@ -20,7 +20,7 @@ Style: lassie song en ed,FOT Manyo Sosho Std Stripped,35,&H00D4E9F1,&H000000FF,&
 Style: lassie song jp op,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,15,1
 Style: lassie song jp ed,Cocogoose,25,&H00D4E9F1,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,15,12,1
 Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
-Style: lassie episode,Round Irregularity,40,&H00D4D2D0,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
+Style: lassie episode,Round Irregularity,40,&H00CFDACD,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
 Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
@@ -54,290 +54,279 @@ Dialogue: 0,0:00:58.74,0:01:02.29,lassie song en op,[karaoke],0,0,0,,{TIME:58746
 Dialogue: 0,0:01:02.50,0:01:06.21,lassie song en op,[karaoke],0,0,0,,{TIME:62500,66212}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.50,0:01:13.84,lassie song en op,[karaoke],0,0,0,,{TIME:66504,73845}{\blur0.5}a neverending story
 Dialogue: 0,0:01:23.14,0:01:27.65,lassie episode,[title],0,0,0,,{TIME:83146,87650}{\blur0.5\fad(300,0)\pos(320,290)}Catch The Muffler Thief
-Dialogue: 0,0:02:18.49,0:02:19.74,lassie default,,0,0,0,,{TIME:138493,139744}Well, see you later!
-Dialogue: 0,0:02:19.74,0:02:21.07,lassie default,,0,0,0,,{TIME:139744,141079}Goodbye!
-Dialogue: 0,0:02:21.07,0:02:21.99,lassie default,,0,0,0,,{TIME:141079,141996}The weather is cold.
-Dialogue: 0,0:02:25.24,0:02:29.04,lassie default,,0,0,0,,{TIME:145249,149045}Even in such a cold morning, I have to work.
-Dialogue: 0,0:02:29.04,0:02:32.00,lassie default,,0,0,0,,{TIME:149045,152006}Today you have many patients with fever.
-Dialogue: 0,0:02:33.21,0:02:34.84,lassie default,,0,0,0,,{TIME:153216,154842}You can play with the snow,
-Dialogue: 0,0:02:34.84,0:02:37.09,lassie default,,0,0,0,,{TIME:154842,157095}but be careful not to get fever too!
-Dialogue: 0,0:02:37.09,0:02:38.05,lassie default,,0,0,0,,{TIME:157095,158054}Okay!
-Dialogue: 0,0:02:40.64,0:02:42.72,lassie default,,0,0,0,,{TIME:160640,162725}The handle is frozen.
-Dialogue: 0,0:02:42.72,0:02:45.64,lassie default,,0,0,0,,{TIME:162725,165645}I wonder if it crashes?
-Dialogue: 0,0:02:46.85,0:02:48.23,lassie default,,0,0,0,,{TIME:166854,168231}Well, I'm leaving!
+Dialogue: 0,0:02:18.49,0:02:19.74,lassie default,,0,0,0,,{TIME:138493,139744}See you later.
+Dialogue: 0,0:02:19.74,0:02:21.07,lassie default,,0,0,0,,{TIME:139744,141079}Good bye.
+Dialogue: 0,0:02:21.07,0:02:21.99,lassie default,,0,0,0,,{TIME:141079,141996}It's freezing.
+Dialogue: 0,0:02:25.24,0:02:29.04,lassie default,,0,0,0,,{TIME:145249,149045}To think I have to work\Neven in such a cold morning.
+Dialogue: 0,0:02:29.04,0:02:32.00,lassie default,,0,0,0,,{TIME:149045,152006}Many people are down\Nwith a fever in this weather.
+Dialogue: 0,0:02:33.21,0:02:37.09,lassie default,,0,0,0,,{TIME:153216,157095}You can play with the snow,\Nas long as you don't catch a cold yourself.
+Dialogue: 0,0:02:37.09,0:02:38.05,lassie default,,0,0,0,,{TIME:157095,158054}Roger that.
+Dialogue: 0,0:02:40.64,0:02:42.72,lassie default,,0,0,0,,{TIME:160640,162725}The handle appears to be frozen.
+Dialogue: 0,0:02:42.72,0:02:45.64,lassie default,,0,0,0,,{TIME:162725,165645}How did he open it so easily… Oh?
+Dialogue: 0,0:02:46.85,0:02:48.23,lassie default,,0,0,0,,{TIME:166854,168231}All right, I'm heading out.
 Dialogue: 0,0:02:48.23,0:02:49.35,lassie default,,0,0,0,,{TIME:168231,169357}Okay!
-Dialogue: 0,0:02:51.52,0:02:54.11,lassie default,,0,0,0,,{TIME:171526,174112}Even this is frozen!
-Dialogue: 0,0:02:54.11,0:02:57.32,lassie default,,0,0,0,,{TIME:174112,177323}How did my mother boil tea for breakfast?
-Dialogue: 0,0:02:57.78,0:03:00.99,lassie default,,0,0,0,,{TIME:177782,180993}That's it, I will test the boiler!
-Dialogue: 0,0:03:02.45,0:03:03.37,lassie default,,0,0,0,,{TIME:182453,183371}Ah hot!
-Dialogue: 0,0:03:18.59,0:03:21.01,lassie default,,0,0,0,,{TIME:198594,201013}Lassie, what are you looking at?
-Dialogue: 0,0:03:21.01,0:03:24.35,lassie default,,0,0,0,,{TIME:201013,204350}You see, this is your first winter, right?
-Dialogue: 0,0:03:24.35,0:03:26.51,lassie default,,0,0,0,,{TIME:204350,206519}Although you seem very big…
-Dialogue: 0,0:03:27.47,0:03:29.23,lassie default,,0,0,0,,{TIME:207478,209230}It's snow! The snow!
-Dialogue: 0,0:03:29.23,0:03:31.44,lassie default,,0,0,0,,{TIME:209230,211441}Today it's snowing, this weather is cold!
-Dialogue: 0,0:03:32.90,0:03:34.48,lassie default,,0,0,0,,{TIME:212900,214485}Look at this, Lassie!
-Dialogue: 0,0:03:34.48,0:03:36.44,lassie default,,0,0,0,,{TIME:214485,216446}The road and the roof and\Neverything is white, right?
-Dialogue: 0,0:03:37.69,0:03:41.07,lassie default,,0,0,0,,{TIME:217697,221075}As expected, from this morning\Neven Grandma Forrest closed the window!
-Dialogue: 0,0:03:45.07,0:03:49.33,lassie default,,0,0,0,,{TIME:225079,229333}From there, she still watches\Noutside the house as usual!
-Dialogue: 0,0:03:49.33,0:03:50.62,lassie default,,0,0,0,,{TIME:229333,230626}Well, Lassie…
-Dialogue: 0,0:03:50.62,0:03:52.08,lassie default,,0,0,0,,{TIME:230626,232086}I will leave the house under your care today.
-Dialogue: 0,0:03:53.17,0:03:55.08,lassie default,,0,0,0,,{TIME:233171,235089}Don't show this sad face…
-Dialogue: 0,0:03:55.63,0:03:59.13,lassie default,,0,0,0,,{TIME:235631,239135}I'm sure you'll be used to staying\Nat home until I come back, right?
-Dialogue: 0,0:03:59.13,0:04:00.42,lassie default,,0,0,0,,{TIME:239135,240428}When I come back we'll play together!
-Dialogue: 0,0:04:00.42,0:04:02.22,lassie default,,0,0,0,,{TIME:240428,242221}I will let you go in snow!
-Dialogue: 0,0:04:02.22,0:04:02.97,lassie default,,0,0,0,,{TIME:242221,242972}Bye!
-Dialogue: 0,0:05:30.85,0:05:33.10,lassie default,,0,0,0,,{TIME:330852,333104}Colin is absent because he has fever,
-Dialogue: 0,0:05:33.10,0:05:36.81,lassie default,,0,0,0,,{TIME:333104,336816}and Sandy can't ride the bike\Nbecause of the snow.
+Dialogue: 0,0:02:51.52,0:02:54.11,lassie default,,0,0,0,,{TIME:171526,174112}Looks like the faucet\Nis frozen, too.
+Dialogue: 0,0:02:54.11,0:02:57.32,lassie default,,0,0,0,,{TIME:174112,177323}How did Mom even boil\Nthe water for our breakfast tea?
+Dialogue: 0,0:02:57.78,0:03:00.99,lassie default,,0,0,0,,{TIME:177782,180993}That's it.\NI'll use the kettle.
+Dialogue: 0,0:03:02.45,0:03:03.37,lassie default,,0,0,0,,{TIME:182453,183371}Ah, hot!
+Dialogue: 0,0:03:18.59,0:03:21.01,lassie default,,0,0,0,,{TIME:198594,201013}What are you looking at, Lassie?
+Dialogue: 0,0:03:21.01,0:03:24.35,lassie default,,0,0,0,,{TIME:201013,204350}Oh, right. It's your first\Ntime seeing the winter.
+Dialogue: 0,0:03:24.35,0:03:26.51,lassie default,,0,0,0,,{TIME:204350,206519}You've grown so big already.
+Dialogue: 0,0:03:27.47,0:03:29.23,lassie default,,0,0,0,,{TIME:207478,209230}This is snow.\NSnow.
+Dialogue: 0,0:03:29.23,0:03:31.44,lassie default,,0,0,0,,{TIME:209230,211441}Today it's snowing,\Nso the weather is cold.
+Dialogue: 0,0:03:32.90,0:03:34.48,lassie default,,0,0,0,,{TIME:212900,214485}Look at this, Lassie.
+Dialogue: 0,0:03:34.48,0:03:36.44,lassie default,,0,0,0,,{TIME:214485,216446}Everything is in white,\Nfrom the roads to the roofs.
+Dialogue: 0,0:03:37.69,0:03:41.07,lassie default,,0,0,0,,{TIME:217697,221075}Not even Grandma Forrest could keep\Nher window opened this morning.
+Dialogue: 0,0:03:45.07,0:03:49.33,lassie default,,0,0,0,,{TIME:225079,229333}But I'll bet she's still watching\Nthe street from behind the drapes.
+Dialogue: 0,0:03:49.33,0:03:52.08,lassie default,,0,0,0,,{TIME:229333,232086}All right, then, Lassie. I'm leaving\Nthe house under your care today.
+Dialogue: 0,0:03:53.17,0:03:55.08,lassie default,,0,0,0,,{TIME:233171,235089}Don't give me those puppy eyes.
+Dialogue: 0,0:03:55.63,0:03:59.13,lassie default,,0,0,0,,{TIME:235631,239135}I still get back to you\Nevery day, right?
+Dialogue: 0,0:03:59.13,0:04:00.42,lassie default,,0,0,0,,{TIME:239135,240428}We'll play together\Nwhen I come back.
+Dialogue: 0,0:04:00.42,0:04:02.22,lassie default,,0,0,0,,{TIME:240428,242221}We'll play in the snow.
+Dialogue: 0,0:04:02.22,0:04:02.97,lassie default,,0,0,0,,{TIME:242221,242972}Bye.
+Dialogue: 0,0:05:30.85,0:05:33.10,lassie default,,0,0,0,,{TIME:330852,333104}Colin's absent…\NHe's caught a cold too, huh?
+Dialogue: 0,0:05:33.10,0:05:36.81,lassie default,,0,0,0,,{TIME:333104,336816}Sandy won't be coming either.\NShe can't ride her bike in this snow.
 Dialogue: 0,0:05:58.92,0:06:00.75,lassie default,,0,0,0,,{TIME:358921,360756}John Carraclough!
-Dialogue: 0,0:06:00.75,0:06:02.25,lassie default,,0,0,0,,{TIME:360756,362258}Stop staring outside!
-Dialogue: 0,0:06:02.63,0:06:03.42,lassie default,,0,0,0,,{TIME:362633,363426}Oh…
-Dialogue: 0,0:06:03.42,0:06:04.30,lassie default,,0,0,0,,{TIME:363426,364302}Okay!
-Dialogue: 0,0:06:11.43,0:06:13.26,lassie default,,0,0,0,,{TIME:371434,373269}Stop laughing!
-Dialogue: 0,0:06:14.02,0:06:16.60,lassie default,,0,0,0,,{TIME:374020,376606}You know that you get a penalty when\Nyou're late without an excuse, right?
-Dialogue: 0,0:06:16.60,0:06:21.19,lassie default,,0,0,0,,{TIME:376606,381193}Yes. We used the sleigh for our preparation,\Nwhich took a long time to get it ready.
+Dialogue: 0,0:06:00.75,0:06:02.25,lassie default,,0,0,0,,{TIME:360756,362258}Stop daydreaming.
+Dialogue: 0,0:06:02.63,0:06:03.42,lassie default,,0,0,0,,{TIME:362633,363426}Ah…
+Dialogue: 0,0:06:03.42,0:06:04.30,lassie default,,0,0,0,,{TIME:363426,364302}Yes, sir.
+Dialogue: 0,0:06:11.43,0:06:13.26,lassie default,,0,0,0,,{TIME:371434,373269}Don't giggle at me here.
+Dialogue: 0,0:06:14.02,0:06:16.60,lassie default,,0,0,0,,{TIME:374020,376606}You're late because of the snow,\Nis that correct?
+Dialogue: 0,0:06:16.60,0:06:21.19,lassie default,,0,0,0,,{TIME:376606,381193}Yes sir. We had to bring a sleigh\Nfrom Ryans and it took a lot of time.
 Dialogue: 0,0:06:21.19,0:06:22.48,lassie default,,0,0,0,,{TIME:381193,382486}I understand.
-Dialogue: 0,0:06:22.48,0:06:24.53,lassie default,,0,0,0,,{TIME:382486,384530}Take off your coat and take your seat.
-Dialogue: 0,0:06:24.53,0:06:25.28,lassie default,,0,0,0,,{TIME:384530,385281}Okay!
-Dialogue: 0,0:06:34.29,0:06:35.95,lassie default,,0,0,0,,{TIME:394290,395958}Colin took a vacation, right?
-Dialogue: 0,0:06:35.95,0:06:37.29,lassie default,,0,0,0,,{TIME:395958,397293}He has fever!
-Dialogue: 0,0:06:37.29,0:06:42.08,lassie default,,0,0,0,,{TIME:397293,402089}Listen, my grandfather made me cookies\Nand I put it in my coat, outside.
-Dialogue: 0,0:06:42.08,0:06:42.88,lassie default,,0,0,0,,{TIME:402089,402882}Eh?
-Dialogue: 0,0:06:42.88,0:06:45.05,lassie default,,0,0,0,,{TIME:402882,405051}Want to try it?
-Dialogue: 0,0:06:49.38,0:06:50.43,lassie default,,0,0,0,,{TIME:409388,410431}Hey!
-Dialogue: 0,0:06:50.43,0:06:51.51,lassie default,,0,0,0,,{TIME:410431,411515}What about Lassie?
-Dialogue: 0,0:06:51.84,0:06:52.68,lassie default,,0,0,0,,{TIME:411849,412683}Um…
-Dialogue: 0,0:06:52.68,0:06:55.51,lassie default,,0,0,0,,{TIME:412683,415519}I usually leave it in the backyard to play there.
-Dialogue: 0,0:06:55.51,0:06:57.10,lassie default,,0,0,0,,{TIME:415519,417104}Today it is inside the house.
-Dialogue: 0,0:06:57.10,0:06:58.85,lassie default,,0,0,0,,{TIME:417104,418856}Have you locked the doors?
+Dialogue: 0,0:06:22.48,0:06:24.53,lassie default,,0,0,0,,{TIME:382486,384530}Take off your coat\Nand take your seat.
+Dialogue: 0,0:06:24.53,0:06:25.28,lassie default,,0,0,0,,{TIME:384530,385281}Yes sir.
+Dialogue: 0,0:06:34.29,0:06:35.95,lassie default,,0,0,0,,{TIME:394290,395958}Colin took a day off, huh?
+Dialogue: 0,0:06:35.95,0:06:37.29,lassie default,,0,0,0,,{TIME:395958,397293}Yes. He's got a cold.
+Dialogue: 0,0:06:37.29,0:06:42.08,lassie default,,0,0,0,,{TIME:397293,402089}Listen, when Grandpa was pulling the sleigh,\NI had a chance to snatch a few cookies.
+Dialogue: 0,0:06:42.08,0:06:42.88,lassie default,,0,0,0,,{TIME:402089,402882}Oh?
+Dialogue: 0,0:06:42.88,0:06:45.05,lassie default,,0,0,0,,{TIME:402882,405051}I'll give you some later.
+Dialogue: 0,0:06:49.38,0:06:50.43,lassie default,,0,0,0,,{TIME:409388,410431}Hey.
+Dialogue: 0,0:06:50.43,0:06:51.51,lassie default,,0,0,0,,{TIME:410431,411515}How's Lassie?
+Dialogue: 0,0:06:52.68,0:06:55.51,lassie default,,0,0,0,,{TIME:412683,415519}I usually leave her outside\Nso she can play in the backyard.
+Dialogue: 0,0:06:55.51,0:06:57.10,lassie default,,0,0,0,,{TIME:415519,417104}But today I had to keep her inside.
+Dialogue: 0,0:06:57.10,0:06:58.85,lassie default,,0,0,0,,{TIME:417104,418856}You locked her up?
 Dialogue: 0,0:06:58.85,0:07:00.02,lassie default,,0,0,0,,{TIME:418856,420024}I had no choice.
-Dialogue: 0,0:07:01.44,0:07:05.78,lassie default,,0,0,0,,{TIME:421442,425780}If it feels bored, I hope not to cause\Nchaos inside the house.
+Dialogue: 0,0:07:01.44,0:07:02.77,lassie default,,0,0,0,,{TIME:421442,422777}I know she'll be bored.
+Dialogue: 0,0:07:02.77,0:07:05.78,lassie default,,0,0,0,,{TIME:422777,425780}I just hope she won't cause a mess\Nlike she did the other day.
 Dialogue: 0,0:08:57.64,0:08:58.72,lassie default,,0,0,0,,{TIME:537641,538726}Push!
-Dialogue: 0,0:09:15.03,0:09:16.45,lassie default,,0,0,0,,{TIME:555034,556452}I feel sick.
-Dialogue: 0,0:09:16.45,0:09:18.12,lassie default,,0,0,0,,{TIME:556452,558120}The weather is very cold.
-Dialogue: 0,0:09:18.12,0:09:20.03,lassie default,,0,0,0,,{TIME:558120,560039}However, I can't resist not the drink.
-Dialogue: 0,0:09:23.95,0:09:25.92,lassie default,,0,0,0,,{TIME:563959,565920}Hey, what is it, dog?
-Dialogue: 0,0:09:25.92,0:09:28.46,lassie default,,0,0,0,,{TIME:565920,568464}Why did you stop?
-Dialogue: 0,0:09:28.46,0:09:30.92,lassie default,,0,0,0,,{TIME:568464,570925}Look, this is the same as machine oil.
+Dialogue: 0,0:09:15.03,0:09:18.12,lassie default,,0,0,0,,{TIME:555034,558120}It's bitter cold this morning.
+Dialogue: 0,0:09:18.12,0:09:20.03,lassie default,,0,0,0,,{TIME:558120,560039}Better to get myself warm.
+Dialogue: 0,0:09:23.95,0:09:25.92,lassie default,,0,0,0,,{TIME:563959,565920}Oh? What's up, buddy?
+Dialogue: 0,0:09:25.92,0:09:28.46,lassie default,,0,0,0,,{TIME:565920,568464}Are you going to lecture me, too?
+Dialogue: 0,0:09:28.46,0:09:30.92,lassie default,,0,0,0,,{TIME:568464,570925}Look, this is like machine oil.
 Dialogue: 0,0:09:30.92,0:09:33.92,lassie default,,0,0,0,,{TIME:570925,573928}Without this thing, my body\Nwill not hold up anymore.
 Dialogue: 0,0:09:33.92,0:09:36.01,lassie default,,0,0,0,,{TIME:573928,576013}I can't put it away.
-Dialogue: 0,0:09:36.01,0:09:39.55,lassie default,,0,0,0,,{TIME:576013,579558}I'm hiding here until I drink as I please!
-Dialogue: 0,0:09:40.39,0:09:42.06,lassie default,,0,0,0,,{TIME:580392,582061}You want to try it, right?
-Dialogue: 0,0:09:42.06,0:09:43.60,lassie default,,0,0,0,,{TIME:582061,583604}You will feel warm!
+Dialogue: 0,0:09:36.01,0:09:39.55,lassie default,,0,0,0,,{TIME:576013,579558}So I hid here and now I'm drinking.
+Dialogue: 0,0:09:40.39,0:09:42.06,lassie default,,0,0,0,,{TIME:580392,582061}How about a sip, buddy?
+Dialogue: 0,0:09:42.06,0:09:43.60,lassie default,,0,0,0,,{TIME:582061,583604}It'll warm you up.
 Dialogue: 0,0:09:43.60,0:09:44.98,lassie default,,0,0,0,,{TIME:583604,584980}Eh?
-Dialogue: 0,0:09:47.69,0:09:48.44,lassie default,,0,0,0,,{TIME:587691,588442}Pfff!
-Dialogue: 0,0:09:48.44,0:09:51.23,lassie default,,0,0,0,,{TIME:588442,591237}That's why I hate dogs!
-Dialogue: 0,0:09:51.23,0:09:53.40,lassie default,,0,0,0,,{TIME:591237,593405}Does the smell of wine is really strong?
-Dialogue: 0,0:10:31.69,0:10:36.78,lassie default,,0,0,0,,{TIME:631694,636782}Maybe everyone is having fun now\Nand making a snowman…
+Dialogue: 0,0:09:48.44,0:09:51.23,lassie default,,0,0,0,,{TIME:588442,591237}Even stray dogs hate me.
+Dialogue: 0,0:09:51.23,0:09:53.40,lassie default,,0,0,0,,{TIME:591237,593405}Maybe I reek of alcohol too much?
+Dialogue: 0,0:10:31.69,0:10:36.78,lassie default,,0,0,0,,{TIME:631694,636782}Everyone's probably having fun\Nand making a snowman now.
 Dialogue: 0,0:10:36.78,0:10:37.32,lassie default,,0,0,0,,{TIME:636782,637324}Oh?
-Dialogue: 0,0:10:45.16,0:10:46.95,lassie default,,0,0,0,,{TIME:645166,646959}Lassie!
-Dialogue: 0,0:10:48.91,0:10:51.25,lassie default,,0,0,0,,{TIME:648919,651255}Lassie! Come here!
-Dialogue: 0,0:10:51.25,0:10:53.21,lassie default,,0,0,0,,{TIME:651255,653215}You shouldn't be in such a cold place!
+Dialogue: 0,0:10:45.16,0:10:46.95,lassie default,,0,0,0,,{TIME:645166,646959}Lassie…
+Dialogue: 0,0:10:48.91,0:10:51.25,lassie default,,0,0,0,,{TIME:648919,651255}Lassie! Come here.
+Dialogue: 0,0:10:51.25,0:10:53.21,lassie default,,0,0,0,,{TIME:651255,653215}You shouldn't be outside\Nwhen it's so cold.
 Dialogue: 0,0:10:55.67,0:10:58.80,lassie default,,0,0,0,,{TIME:655676,658804}I'm also on my own now.
-Dialogue: 0,0:11:12.02,0:11:15.02,lassie default,,0,0,0,,{TIME:672026,675029}Does everyone is having fun?
-Dialogue: 0,0:11:15.02,0:11:18.07,lassie default,,0,0,0,,{TIME:675029,678073}My father delivers the goods through the snow.
+Dialogue: 0,0:11:12.02,0:11:15.02,lassie default,,0,0,0,,{TIME:672026,675029}I wonder what everyone's doing.
+Dialogue: 0,0:11:15.02,0:11:18.07,lassie default,,0,0,0,,{TIME:675029,678073}My father is doing the deliveries\Ndespite the snow.
 Dialogue: 0,0:11:18.07,0:11:21.82,lassie default,,0,0,0,,{TIME:678073,681827}My mother took my little brother\Nand went to Dr. Hopper.
-Dialogue: 0,0:11:21.82,0:11:24.07,lassie default,,0,0,0,,{TIME:681827,684079}My little brother has fever.
-Dialogue: 0,0:11:24.07,0:11:25.58,lassie default,,0,0,0,,{TIME:684079,685581}Me too.
-Dialogue: 0,0:11:26.79,0:11:29.25,lassie default,,0,0,0,,{TIME:686790,689251}But when you are beside me\NI feel more comfortable.
-Dialogue: 0,0:11:29.25,0:11:32.63,lassie default,,0,0,0,,{TIME:689251,692630}All I do is read books.
-Dialogue: 0,0:11:33.83,0:11:35.59,lassie default,,0,0,0,,{TIME:693839,695591}Don't look here and there!
-Dialogue: 0,0:11:35.59,0:11:38.42,lassie default,,0,0,0,,{TIME:695591,698427}The place is a mess and I feel embarrassed.
-Dialogue: 0,0:11:42.51,0:11:45.14,lassie default,,0,0,0,,{TIME:702514,705142}Come here, Lassie! It's warm!
-Dialogue: 0,0:11:49.48,0:11:52.98,lassie default,,0,0,0,,{TIME:709480,712983}I have no friends now.
+Dialogue: 0,0:11:21.82,0:11:24.07,lassie default,,0,0,0,,{TIME:681827,684079}It seems he has a fever.
+Dialogue: 0,0:11:24.07,0:11:25.58,lassie default,,0,0,0,,{TIME:684079,685581}Just like I have, heh.
+Dialogue: 0,0:11:26.79,0:11:29.25,lassie default,,0,0,0,,{TIME:686790,689251}But for me, it's nothing\Nout of ordinary.
+Dialogue: 0,0:11:29.25,0:11:32.63,lassie default,,0,0,0,,{TIME:689251,692630}I'm just staying home\Nso that it doesn't go too bad.
+Dialogue: 0,0:11:33.83,0:11:35.59,lassie default,,0,0,0,,{TIME:693839,695591}Don't look around so much.
+Dialogue: 0,0:11:35.59,0:11:38.42,lassie default,,0,0,0,,{TIME:695591,698427}This place is a mess.\NIt's a bit embarrassing.
+Dialogue: 0,0:11:42.51,0:11:45.14,lassie default,,0,0,0,,{TIME:702514,705142}Come here, Lassie.\NIt's warm.
+Dialogue: 0,0:11:49.48,0:11:52.98,lassie default,,0,0,0,,{TIME:709480,712983}I don't have too many friends.
 Dialogue: 0,0:11:52.98,0:11:56.19,lassie default,,0,0,0,,{TIME:712983,716195}You are the first to enter my room.
-Dialogue: 0,0:11:56.19,0:11:58.44,lassie default,,0,0,0,,{TIME:716195,718447}John and the others haven't come yet.
-Dialogue: 0,0:11:59.28,0:12:04.62,lassie default,,0,0,0,,{TIME:719281,724620}I don't know anyone other than John,\NI can talk to him with all ease.
-Dialogue: 0,0:12:04.62,0:12:06.87,lassie default,,0,0,0,,{TIME:724620,726872}I'm very shy.
-Dialogue: 0,0:12:06.87,0:12:09.79,lassie default,,0,0,0,,{TIME:726872,729792}What should I do to come John and Sandy?
+Dialogue: 0,0:11:56.19,0:11:58.44,lassie default,,0,0,0,,{TIME:716195,718447}I wasn't visited by\NJohn or anyone else yet.
+Dialogue: 0,0:11:59.28,0:12:04.62,lassie default,,0,0,0,,{TIME:719281,724620}I'm nothing like him. I can't talk\Nto strangers with ease like he can.
+Dialogue: 0,0:12:04.62,0:12:06.87,lassie default,,0,0,0,,{TIME:724620,726872}I'm a very shy person.
+Dialogue: 0,0:12:06.87,0:12:09.79,lassie default,,0,0,0,,{TIME:726872,729792}How can John and Sandy\Nbe so outgoing?
 Dialogue: 0,0:12:10.50,0:12:11.16,lassie default,,0,0,0,,{TIME:730501,731168}Oh?
 Dialogue: 0,0:12:11.16,0:12:12.83,lassie default,,0,0,0,,{TIME:731168,732836}Ah, that?
-Dialogue: 0,0:12:12.83,0:12:14.83,lassie default,,0,0,0,,{TIME:732836,734838}Do you look at the strange shape?
-Dialogue: 0,0:12:14.83,0:12:16.42,lassie default,,0,0,0,,{TIME:734838,736423}I made it badly.
-Dialogue: 0,0:12:16.42,0:12:17.96,lassie default,,0,0,0,,{TIME:736423,737967}I'm a little bad at manual work.
-Dialogue: 0,0:12:18.63,0:12:22.72,lassie default,,0,0,0,,{TIME:738634,742721}Our store uses these mobile machines.
-Dialogue: 0,0:12:22.72,0:12:25.34,lassie default,,0,0,0,,{TIME:742721,745349}I used to buy things like that.
-Dialogue: 0,0:12:27.01,0:12:27.89,lassie default,,0,0,0,,{TIME:747017,747893}Look!
-Dialogue: 0,0:12:27.89,0:12:29.93,lassie default,,0,0,0,,{TIME:747893,749937}It is small, but it moves correctly.
-Dialogue: 0,0:12:30.68,0:12:34.35,lassie default,,0,0,0,,{TIME:750688,754358}These is just a motor ship\Non the river, but it moves fast!
-Dialogue: 0,0:12:35.35,0:12:38.57,lassie default,,0,0,0,,{TIME:755359,758570}I wonder why I don't?
-Dialogue: 0,0:12:38.57,0:12:41.94,lassie default,,0,0,0,,{TIME:758570,761949}I'm not quite sure of myself\Nto be a dynamic person.
-Dialogue: 0,0:12:43.53,0:12:46.07,lassie default,,0,0,0,,{TIME:763534,766078}I don't have any!
-Dialogue: 0,0:12:46.91,0:12:50.87,lassie default,,0,0,0,,{TIME:766912,770874}I have no choice but to read novels.
-Dialogue: 0,0:12:50.87,0:12:53.25,lassie default,,0,0,0,,{TIME:770874,773252}Anything can be done in books.
-Dialogue: 0,0:12:54.75,0:12:58.75,lassie default,,0,0,0,,{TIME:774753,778757}The book I'm reading now\Nis "The Dog of Baskerville".
-Dialogue: 0,0:12:58.75,0:13:01.59,lassie default,,0,0,0,,{TIME:778757,781593}And it's about a dog\Nturned into a big monster.
-Dialogue: 0,0:13:01.59,0:13:04.51,lassie default,,0,0,0,,{TIME:781593,784513}This great mystery has been\Nfollowed by a detective.
-Dialogue: 0,0:13:05.13,0:13:08.80,lassie default,,0,0,0,,{TIME:785139,788809}I love Sherlock Holmes because he is fast-paced!
-Dialogue: 0,0:13:08.80,0:13:10.18,lassie default,,0,0,0,,{TIME:788809,790185}He is amazing!
-Dialogue: 0,0:13:10.18,0:13:14.06,lassie default,,0,0,0,,{TIME:790185,794064}Lassie, what would you say\Nif you were in his place?
+Dialogue: 0,0:12:12.83,0:12:14.83,lassie default,,0,0,0,,{TIME:732836,734838}Looks awful, doesn't it?
+Dialogue: 0,0:12:14.83,0:12:16.42,lassie default,,0,0,0,,{TIME:734838,736423}I couldn't make it any better.
+Dialogue: 0,0:12:16.42,0:12:17.96,lassie default,,0,0,0,,{TIME:736423,737967}I'm bad at crafts.
+Dialogue: 0,0:12:18.63,0:12:22.72,lassie default,,0,0,0,,{TIME:738634,742721}This is one of the toy steam engines\Nfrom our shop's catalogs.
+Dialogue: 0,0:12:22.72,0:12:25.34,lassie default,,0,0,0,,{TIME:742721,745349}I begged my parents\Nuntil they bought me one.
+Dialogue: 0,0:12:27.01,0:12:27.89,lassie default,,0,0,0,,{TIME:747017,747893}Check this out.
+Dialogue: 0,0:12:27.89,0:12:29.93,lassie default,,0,0,0,,{TIME:747893,749937}It's so small, but it's working.
+Dialogue: 0,0:12:30.68,0:12:34.35,lassie default,,0,0,0,,{TIME:750688,754358}I'd like to put it on a boat\Nand test it on a river.
+Dialogue: 0,0:12:35.35,0:12:38.57,lassie default,,0,0,0,,{TIME:755359,758570}I'm such a weirdo.
+Dialogue: 0,0:12:38.57,0:12:41.94,lassie default,,0,0,0,,{TIME:758570,761949}I'm not good at running\Nor anything like that.
+Dialogue: 0,0:12:43.53,0:12:46.07,lassie default,,0,0,0,,{TIME:763534,766078}I don't have a single thing\NI'm talented at.
+Dialogue: 0,0:12:46.91,0:12:50.87,lassie default,,0,0,0,,{TIME:766912,770874}Because of that, I do nothing\Nall day long but read novels.
+Dialogue: 0,0:12:50.87,0:12:53.25,lassie default,,0,0,0,,{TIME:770874,773252}In books, everything is possible.
+Dialogue: 0,0:12:54.75,0:12:58.75,lassie default,,0,0,0,,{TIME:774753,778757}The book I'm reading now is\N"The Hound of the Baskervilles".
+Dialogue: 0,0:12:58.75,0:13:01.59,lassie default,,0,0,0,,{TIME:778757,781593}It has this ghostlike diabolical dog.
+Dialogue: 0,0:13:01.59,0:13:04.51,lassie default,,0,0,0,,{TIME:781593,784513}A famous detective\Nis investigating its mystery.
+Dialogue: 0,0:13:05.13,0:13:08.80,lassie default,,0,0,0,,{TIME:785139,788809}I'd like to be smart one day\Nlike Sherlock Holmes.
+Dialogue: 0,0:13:08.80,0:13:10.18,lassie default,,0,0,0,,{TIME:788809,790185}It's strange.
+Dialogue: 0,0:13:10.18,0:13:14.06,lassie default,,0,0,0,,{TIME:790185,794064}Why is it so easy\Nto speak to you, Lassie?
 Dialogue: 0,0:13:14.85,0:13:16.02,lassie default,,0,0,0,,{TIME:794857,796025}Are you sleeping?
-Dialogue: 0,0:13:16.02,0:13:17.94,lassie default,,0,0,0,,{TIME:796025,797943}Well, let's sleep together!
-Dialogue: 0,0:13:18.94,0:13:19.82,lassie default,,0,0,0,,{TIME:798944,799820}Ah…
-Dialogue: 0,0:13:19.82,0:13:21.11,lassie default,,0,0,0,,{TIME:799820,801113}It's very warm…
-Dialogue: 0,0:13:23.24,0:13:26.20,lassie default,,0,0,0,,{TIME:803240,806201}In any case, you don't understand\Nwhat people are saying.
-Dialogue: 0,0:13:42.76,0:13:44.63,lassie default,,0,0,0,,{TIME:822760,824636}Lassie, what's up?
-Dialogue: 0,0:13:49.01,0:13:51.22,lassie default,,0,0,0,,{TIME:829016,831226}I understand, do you want to go now?
-Dialogue: 0,0:13:52.39,0:13:53.64,lassie default,,0,0,0,,{TIME:832394,833645}Wait a moment!
-Dialogue: 0,0:13:56.48,0:13:57.73,lassie default,,0,0,0,,{TIME:836482,837733}The snowing has stopped.
-Dialogue: 0,0:13:58.65,0:14:00.98,lassie default,,0,0,0,,{TIME:838650,840986}It's okay to go out now.
-Dialogue: 0,0:14:00.98,0:14:02.19,lassie default,,0,0,0,,{TIME:840986,842196}But the weather is still cold.
-Dialogue: 0,0:14:05.61,0:14:07.61,lassie default,,0,0,0,,{TIME:845616,847618}Come back again, Lassie!
-Dialogue: 0,0:14:09.70,0:14:13.24,lassie default,,0,0,0,,{TIME:849703,853248}In fact, I don't want you to go.
-Dialogue: 0,0:14:13.24,0:14:14.95,lassie default,,0,0,0,,{TIME:853248,854958}Yet I will let it go on its way.
-Dialogue: 0,0:14:16.08,0:14:18.67,lassie default,,0,0,0,,{TIME:856085,858670}But Lassie was very warm…
-Dialogue: 0,0:14:40.94,0:14:46.53,lassie default,,0,0,0,,{TIME:880943,886532}This means that the war\Nlasted for 100 years…
-Dialogue: 0,0:14:46.53,0:14:47.74,lassie default,,0,0,0,,{TIME:886532,887741}Carraclough!
-Dialogue: 0,0:14:47.74,0:14:48.82,lassie default,,0,0,0,,{TIME:887741,888826}Oh? Yes!
-Dialogue: 0,0:14:48.82,0:14:52.83,lassie default,,0,0,0,,{TIME:888826,892830}Who was the ruler of England\Nwhen the war started?
-Dialogue: 0,0:14:53.37,0:14:56.29,lassie default,,0,0,0,,{TIME:893372,896291}He was the Black Prince…
-Dialogue: 0,0:14:57.29,0:14:58.62,lassie default,,0,0,0,,{TIME:897292,898627}Well done.
-Dialogue: 0,0:14:58.62,0:15:02.67,lassie default,,0,0,0,,{TIME:898627,902673}Which caused the suffering of the French.\NWho is it, Spinner?
-Dialogue: 0,0:15:04.67,0:15:05.59,lassie default,,0,0,0,,{TIME:904675,905592}Spinner!
-Dialogue: 0,0:15:05.59,0:15:06.63,lassie default,,0,0,0,,{TIME:905592,906635}Sorry…
-Dialogue: 0,0:15:06.63,0:15:08.67,lassie default,,0,0,0,,{TIME:906635,908679}What did you say about Rock?
-Dialogue: 0,0:15:10.18,0:15:12.72,lassie default,,0,0,0,,{TIME:910180,912724}Focus on the lesson while explaining!
-Dialogue: 0,0:15:14.81,0:15:15.64,lassie default,,0,0,0,,{TIME:914810,915644}But…
-Dialogue: 0,0:15:15.64,0:15:16.47,lassie default,,0,0,0,,{TIME:915644,916478}Spinner!
-Dialogue: 0,0:15:33.70,0:15:35.74,lassie default,,0,0,0,,{TIME:933704,935747}What is all of this?
-Dialogue: 0,0:15:40.00,0:15:41.29,lassie default,,0,0,0,,{TIME:940002,941295}Horrible!
-Dialogue: 0,0:15:41.29,0:15:42.92,lassie default,,0,0,0,,{TIME:941295,942921}It's my coat!
-Dialogue: 0,0:15:42.92,0:15:44.75,lassie default,,0,0,0,,{TIME:942921,944756}Mine also!
-Dialogue: 0,0:15:44.75,0:15:47.25,lassie default,,0,0,0,,{TIME:944756,947259}Who did such a thing?
-Dialogue: 0,0:15:48.01,0:15:49.34,lassie default,,0,0,0,,{TIME:948010,949344}No, that…
-Dialogue: 0,0:15:49.34,0:15:50.97,lassie default,,0,0,0,,{TIME:949344,950971}The culprit is just an animal!
-Dialogue: 0,0:15:51.22,0:15:55.55,lassie default,,0,0,0,,{TIME:951221,955559}Is it an animal?
-Dialogue: 0,0:15:55.55,0:15:56.72,lassie default,,0,0,0,,{TIME:955559,956727}Calm down!
-Dialogue: 0,0:15:58.27,0:16:00.89,lassie default,,0,0,0,,{TIME:958270,960898}This thing is not worth any fuss!
-Dialogue: 0,0:16:00.89,0:16:03.06,lassie default,,0,0,0,,{TIME:960898,963066}Go back to the classroom and\Nprepare for the next lesson!
-Dialogue: 0,0:16:03.52,0:16:04.52,lassie default,,0,0,0,,{TIME:963525,964526}You too.
-Dialogue: 0,0:16:04.52,0:16:07.15,lassie default,,0,0,0,,{TIME:964526,967154}What's the problem if it's a bit dirty?
-Dialogue: 0,0:16:07.15,0:16:11.20,lassie default,,0,0,0,,{TIME:967154,971200}But in my pocket it were cookies\Nand it had eaten all!
-Dialogue: 0,0:16:11.20,0:16:14.57,lassie default,,0,0,0,,{TIME:971200,974578}Teacher, is not here!
-Dialogue: 0,0:16:14.57,0:16:16.58,lassie default,,0,0,0,,{TIME:974578,976580}Teacher, there is a strange dog!
-Dialogue: 0,0:16:17.12,0:16:18.99,lassie default,,0,0,0,,{TIME:977122,978999}It's wearing a shawl around its neck!
-Dialogue: 0,0:16:18.99,0:16:20.54,lassie default,,0,0,0,,{TIME:978999,980542}A dog?
+Dialogue: 0,0:13:16.02,0:13:17.94,lassie default,,0,0,0,,{TIME:796025,797943}Okay, let's sleep together.
+Dialogue: 0,0:13:18.94,0:13:21.11,lassie default,,0,0,0,,{TIME:798944,801113}It's so warm.
+Dialogue: 0,0:13:23.24,0:13:26.61,lassie default,,0,0,0,,{TIME:803240,806618}In any case, you don't\Nunderstand human language.
+Dialogue: 0,0:13:42.76,0:13:44.63,lassie default,,0,0,0,,{TIME:822760,824636}Lassie? What's going on?
+Dialogue: 0,0:13:49.01,0:13:51.22,lassie default,,0,0,0,,{TIME:829016,831226}I understand.\NYou want to go home already.
+Dialogue: 0,0:13:52.39,0:13:53.64,lassie default,,0,0,0,,{TIME:832394,833645}Wait a moment.
+Dialogue: 0,0:13:56.48,0:13:57.73,lassie default,,0,0,0,,{TIME:836482,837733}The snow has stopped.
+Dialogue: 0,0:13:58.65,0:14:00.98,lassie default,,0,0,0,,{TIME:838650,840986}You should be good to go\Nwith this muffler.
+Dialogue: 0,0:14:00.98,0:14:02.19,lassie default,,0,0,0,,{TIME:840986,842196}But it's still cold.
+Dialogue: 0,0:14:05.61,0:14:07.61,lassie default,,0,0,0,,{TIME:845616,847618}Come again some time, Lassie.
+Dialogue: 0,0:14:09.70,0:14:13.24,lassie default,,0,0,0,,{TIME:849703,853248}To be honest, it doesn't matter\Nif you can't understand me.
+Dialogue: 0,0:14:13.24,0:14:14.95,lassie default,,0,0,0,,{TIME:853248,854958}I just wanted to talk to someone.
+Dialogue: 0,0:14:16.08,0:14:18.67,lassie default,,0,0,0,,{TIME:856085,858670}It was so nice, Lassie.
+Dialogue: 0,0:14:40.94,0:14:46.53,lassie default,,0,0,0,,{TIME:880943,886532}This roughly outlines\Nthe Hundred Years' War.
+Dialogue: 0,0:14:46.53,0:14:47.74,lassie default,,0,0,0,,{TIME:886532,887741}Mr. Carraclough.
+Dialogue: 0,0:14:47.74,0:14:48.82,lassie default,,0,0,0,,{TIME:887741,888826}Oh? Sir?
+Dialogue: 0,0:14:48.82,0:14:52.83,lassie default,,0,0,0,,{TIME:888826,892830}Who was the British prince who played\Nan active part in this war?
+Dialogue: 0,0:14:53.37,0:14:56.29,lassie default,,0,0,0,,{TIME:893372,896291}It was… The Black Prince.
+Dialogue: 0,0:14:57.29,0:14:58.62,lassie default,,0,0,0,,{TIME:897292,898627}Very well.
+Dialogue: 0,0:14:58.62,0:15:02.67,lassie default,,0,0,0,,{TIME:898627,902673}What happened after the victory of the\NBlack Prince over the French in Poitiers?
+Dialogue: 0,0:15:04.67,0:15:05.59,lassie default,,0,0,0,,{TIME:904675,905592}Mr. Spinner.
+Dialogue: 0,0:15:05.59,0:15:06.63,lassie default,,0,0,0,,{TIME:905592,906635}Uhm…
+Dialogue: 0,0:15:06.63,0:15:08.67,lassie default,,0,0,0,,{TIME:906635,908679}It seems something's\Ngoing on in the hallway.
+Dialogue: 0,0:15:10.18,0:15:12.72,lassie default,,0,0,0,,{TIME:910180,912724}During a class,\Nfocus on what's going on here.
+Dialogue: 0,0:15:14.81,0:15:15.56,lassie default,,0,0,0,,{TIME:914810,915561}But…
+Dialogue: 0,0:15:15.56,0:15:16.47,lassie default,,0,0,0,,{TIME:915561,916478}Mr. Spinner!
+Dialogue: 0,0:15:33.70,0:15:35.74,lassie default,,0,0,0,,{TIME:933704,935747}What on earth is that?
+Dialogue: 0,0:15:40.00,0:15:41.29,lassie default,,0,0,0,,{TIME:940002,941295}This is terrible.
+Dialogue: 0,0:15:41.29,0:15:42.92,lassie default,,0,0,0,,{TIME:941295,942921}Ah! My coat!
+Dialogue: 0,0:15:42.92,0:15:44.75,lassie default,,0,0,0,,{TIME:942921,944756}Mine too!
+Dialogue: 0,0:15:44.75,0:15:47.25,lassie default,,0,0,0,,{TIME:944756,947259}Who could do such a thing?
+Dialogue: 0,0:15:48.01,0:15:49.34,lassie default,,0,0,0,,{TIME:948010,949344}No, wait.
+Dialogue: 0,0:15:49.34,0:15:50.97,lassie default,,0,0,0,,{TIME:949344,950971}The culprit is an animal!
+Dialogue: 0,0:15:51.22,0:15:55.55,lassie default,,0,0,0,,{TIME:951221,955559}– An animal?\N– Really?
+Dialogue: 0,0:15:55.55,0:15:56.72,lassie default,,0,0,0,,{TIME:955559,956727}Silence!
+Dialogue: 0,0:15:58.27,0:16:00.89,lassie default,,0,0,0,,{TIME:958270,960898}This matter is not worth any fuss!
+Dialogue: 0,0:16:00.89,0:16:03.06,lassie default,,0,0,0,,{TIME:960898,963066}Go back to the classroom at once!
+Dialogue: 0,0:16:03.52,0:16:04.52,lassie default,,0,0,0,,{TIME:963525,964526}That includes you.
+Dialogue: 0,0:16:04.52,0:16:07.15,lassie default,,0,0,0,,{TIME:964526,967154}What is the problem\Nif it is a bit dirty?
+Dialogue: 0,0:16:07.15,0:16:11.20,lassie default,,0,0,0,,{TIME:967154,971200}But the cookies I had\Nin the pocket were all eaten.
+Dialogue: 0,0:16:11.20,0:16:14.57,lassie default,,0,0,0,,{TIME:971200,974578}Sir, my muffler is missing, too.
+Dialogue: 0,0:16:14.57,0:16:16.58,lassie default,,0,0,0,,{TIME:974578,976580}Sir! There's a strange dog here!
+Dialogue: 0,0:16:17.12,0:16:18.99,lassie default,,0,0,0,,{TIME:977122,978999}It's wearing a muffler\Naround its neck.
+Dialogue: 0,0:16:18.99,0:16:20.54,lassie default,,0,0,0,,{TIME:978999,980542}What? A dog?
 Dialogue: 0,0:16:20.54,0:16:21.54,lassie default,,0,0,0,,{TIME:980542,981543}Where? Where?
-Dialogue: 0,0:16:21.54,0:16:23.04,lassie default,,0,0,0,,{TIME:981543,983045}I really took the shawl
-Dialogue: 0,0:16:23.04,0:16:24.58,lassie default,,0,0,0,,{TIME:983045,984588}It's scary…
-Dialogue: 0,0:16:26.17,0:16:26.84,lassie default,,0,0,0,,{TIME:986173,986840}Ah…!
-Dialogue: 0,0:16:28.59,0:16:29.55,lassie default,,0,0,0,,{TIME:988592,989551}It barked!
-Dialogue: 0,0:16:29.55,0:16:31.72,lassie default,,0,0,0,,{TIME:989551,991720}- Maybe he is a predator!\N- Lassie!
+Dialogue: 0,0:16:21.54,0:16:23.04,lassie default,,0,0,0,,{TIME:981543,983045}Wow, you're right.\NIt really has a muffler.
+Dialogue: 0,0:16:23.04,0:16:24.58,lassie default,,0,0,0,,{TIME:983045,984588}Looks scary…
+Dialogue: 0,0:16:28.84,0:16:29.55,lassie default,,0,0,0,,{TIME:988842,989551}It barked!
+Dialogue: 0,0:16:29.55,0:16:31.72,lassie default,,0,0,0,,{TIME:989551,991720}– Maybe it's rabid?\N– Lassie!
 Dialogue: 0,0:16:31.72,0:16:33.38,lassie default,,0,0,0,,{TIME:991720,993388}John Carraclough!
-Dialogue: 0,0:16:33.38,0:16:34.89,lassie default,,0,0,0,,{TIME:993388,994890}Is this your dog?
-Dialogue: 0,0:16:34.89,0:16:36.18,lassie default,,0,0,0,,{TIME:994890,996183}Yeah…
-Dialogue: 0,0:16:36.18,0:16:38.56,lassie default,,0,0,0,,{TIME:996183,998560}The school if for study only!
-Dialogue: 0,0:16:38.56,0:16:40.64,lassie default,,0,0,0,,{TIME:998560,1000646}You don't have to bring a dog here!
-Dialogue: 0,0:16:40.64,0:16:41.85,lassie default,,0,0,0,,{TIME:1000646,1001855}Okay!
-Dialogue: 0,0:16:41.85,0:16:44.69,lassie default,,0,0,0,,{TIME:1001855,1004691}I will try to get it out!
-Dialogue: 0,0:16:44.69,0:16:46.65,lassie default,,0,0,0,,{TIME:1004691,1006652}Okay, me too!
-Dialogue: 0,0:16:46.65,0:16:48.86,lassie default,,0,0,0,,{TIME:1006652,1008862}Please wait!
-Dialogue: 0,0:16:48.86,0:16:50.03,lassie default,,0,0,0,,{TIME:1008862,1010030}It may bite you!
-Dialogue: 0,0:16:50.03,0:16:52.19,lassie default,,0,0,0,,{TIME:1010030,1012199}Teacher! Lassie…
+Dialogue: 0,0:16:33.38,0:16:34.89,lassie default,,0,0,0,,{TIME:993388,994890}Is that your dog?
+Dialogue: 0,0:16:34.89,0:16:36.18,lassie default,,0,0,0,,{TIME:994890,996183}W-Well…
+Dialogue: 0,0:16:36.18,0:16:38.56,lassie default,,0,0,0,,{TIME:996183,998560}The school is a place for studying!
+Dialogue: 0,0:16:38.56,0:16:40.64,lassie default,,0,0,0,,{TIME:998560,1000646}You can't bring your dog here!
+Dialogue: 0,0:16:40.64,0:16:41.85,lassie default,,0,0,0,,{TIME:1000646,1001855}All right.
+Dialogue: 0,0:16:41.85,0:16:44.69,lassie default,,0,0,0,,{TIME:1001855,1004691}I'll get it and get the muffler back.
+Dialogue: 0,0:16:44.69,0:16:46.65,lassie default,,0,0,0,,{TIME:1004691,1006652}Good, I'll help you.
+Dialogue: 0,0:16:46.65,0:16:48.86,lassie default,,0,0,0,,{TIME:1006652,1008862}W… Wait right here!
+Dialogue: 0,0:16:48.86,0:16:50.03,lassie default,,0,0,0,,{TIME:1008862,1010030}It might bite you!
+Dialogue: 0,0:16:50.03,0:16:52.19,lassie default,,0,0,0,,{TIME:1010030,1012199}Sir, Lassie is—
 Dialogue: 0,0:16:52.19,0:16:53.28,lassie default,,0,0,0,,{TIME:1012199,1013283}It escaped!
 Dialogue: 0,0:16:53.28,0:16:54.28,lassie default,,0,0,0,,{TIME:1013283,1014284}Wait!
-Dialogue: 0,0:16:54.28,0:16:56.20,lassie default,,0,0,0,,{TIME:1014284,1016203}Well, me too!
-Dialogue: 0,0:16:56.20,0:16:58.20,lassie default,,0,0,0,,{TIME:1016203,1018205}Please stop! Boys!
-Dialogue: 0,0:16:58.20,0:17:00.08,lassie default,,0,0,0,,{TIME:1018205,1020082}All of you, wait!
-Dialogue: 0,0:17:01.04,0:17:05.00,lassie default,,0,0,0,,{TIME:1021041,1025003}Wait…!
-Dialogue: 0,0:17:05.00,0:17:07.46,lassie default,,0,0,0,,{TIME:1025003,1027464}Children, come back immediately!
+Dialogue: 0,0:16:54.28,0:16:56.20,lassie default,,0,0,0,,{TIME:1014284,1016203}Let's join them!
+Dialogue: 0,0:16:56.20,0:16:58.20,lassie default,,0,0,0,,{TIME:1016203,1018205}Stop right there!\NListen to me!
+Dialogue: 0,0:16:58.20,0:17:00.08,lassie default,,0,0,0,,{TIME:1018205,1020082}Everyone, wait!
+Dialogue: 0,0:17:01.04,0:17:04.58,lassie default,,0,0,0,,{TIME:1021041,1024586}Wait!
+Dialogue: 0,0:17:05.00,0:17:07.46,lassie default,,0,0,0,,{TIME:1025003,1027464}Come back immediately, children!
 Dialogue: 0,0:17:07.96,0:17:08.59,lassie default,,0,0,0,,{TIME:1027965,1028590}Hey!
-Dialogue: 0,0:17:09.46,0:17:11.67,lassie default,,0,0,0,,{TIME:1029466,1031677}Strange, since when Lassie…?
-Dialogue: 0,0:17:11.67,0:17:13.01,lassie default,,0,0,0,,{TIME:1031677,1033011}What are you doing here?
-Dialogue: 0,0:17:13.01,0:17:14.59,lassie default,,0,0,0,,{TIME:1033011,1034596}Hurry up and stop everyone!
-Dialogue: 0,0:17:14.59,0:17:15.93,lassie default,,0,0,0,,{TIME:1034596,1035931}But, Lassie…
-Dialogue: 0,0:17:15.93,0:17:17.72,lassie default,,0,0,0,,{TIME:1035931,1037724}Aren't you its owner?
-Dialogue: 0,0:17:17.72,0:17:21.47,lassie default,,0,0,0,,{TIME:1037724,1041478}The shawl it was wearing wasn't mine.
-Dialogue: 0,0:17:21.47,0:17:23.93,lassie default,,0,0,0,,{TIME:1041478,1043939}Spinner ah, huh?
+Dialogue: 0,0:17:09.46,0:17:11.67,lassie default,,0,0,0,,{TIME:1029466,1031677}This is bad.\NLassie would never do such a thing.
+Dialogue: 0,0:17:11.67,0:17:13.01,lassie default,,0,0,0,,{TIME:1031677,1033011}What are you doing?
+Dialogue: 0,0:17:13.01,0:17:14.59,lassie default,,0,0,0,,{TIME:1033011,1034596}Hurry up and stop them!
+Dialogue: 0,0:17:14.59,0:17:15.93,lassie default,,0,0,0,,{TIME:1034596,1035931}But, Lassie's…
+Dialogue: 0,0:17:15.93,0:17:17.72,lassie default,,0,0,0,,{TIME:1035931,1037724}You're her owner, aren't you?
+Dialogue: 0,0:17:17.72,0:17:21.47,lassie default,,0,0,0,,{TIME:1037724,1041478}The muffler it was\Nwearing wasn't mine.
+Dialogue: 0,0:17:21.47,0:17:23.93,lassie default,,0,0,0,,{TIME:1041478,1043939}What? Spinner, are you sure?
 Dialogue: 0,0:17:23.93,0:17:24.73,lassie default,,0,0,0,,{TIME:1043939,1044731}Yes.
-Dialogue: 0,0:17:24.73,0:17:27.65,lassie default,,0,0,0,,{TIME:1044731,1047651}Just before I saw the dog wearing\Na green-colored shawl, but…
-Dialogue: 0,0:17:27.65,0:17:29.61,lassie default,,0,0,0,,{TIME:1047651,1049611}My shawl is brown.
-Dialogue: 0,0:17:29.61,0:17:33.07,lassie default,,0,0,0,,{TIME:1049611,1053073}Also how can Lassie wrap\Nthe shawl around its neck?
-Dialogue: 0,0:17:33.07,0:17:34.07,lassie default,,0,0,0,,{TIME:1053073,1054074}Oh, right!
-Dialogue: 0,0:17:34.07,0:17:36.99,lassie default,,0,0,0,,{TIME:1054074,1056994}It's better to follow everyone,\Nbecause the dog is not guilty.
-Dialogue: 0,0:17:45.04,0:17:46.54,lassie default,,0,0,0,,{TIME:1065043,1066545}What do you do?
-Dialogue: 0,0:17:46.54,0:17:48.21,lassie default,,0,0,0,,{TIME:1066545,1068213}Please wait!
-Dialogue: 0,0:17:48.21,0:17:50.50,lassie default,,0,0,0,,{TIME:1068213,1070507}All of you, please wait!
-Dialogue: 0,0:17:59.93,0:18:01.64,lassie default,,0,0,0,,{TIME:1079933,1081643}Well, we have besieged it!
+Dialogue: 0,0:17:24.73,0:17:27.65,lassie default,,0,0,0,,{TIME:1044731,1047651}The muffler it was wearing\Nwas green, but…
+Dialogue: 0,0:17:27.65,0:17:29.61,lassie default,,0,0,0,,{TIME:1047651,1049611}Mine's brown.
+Dialogue: 0,0:17:29.61,0:17:33.07,lassie default,,0,0,0,,{TIME:1049611,1053073}Besides, do you seriously think Lassie\Ncould wrap it around her neck by herself?
+Dialogue: 0,0:17:33.07,0:17:34.07,lassie default,,0,0,0,,{TIME:1053073,1054074}You're right!
+Dialogue: 0,0:17:34.07,0:17:36.99,lassie default,,0,0,0,,{TIME:1054074,1056994}Now everyone's after the dog.\NPoor thing, it didn't do anything wrong.
+Dialogue: 0,0:17:45.04,0:17:46.54,lassie default,,0,0,0,,{TIME:1065043,1066545}What!
+Dialogue: 0,0:17:46.54,0:17:48.21,lassie default,,0,0,0,,{TIME:1066545,1068213}Stop this instant!
+Dialogue: 0,0:17:48.21,0:17:50.50,lassie default,,0,0,0,,{TIME:1068213,1070507}I'm telling you to stop!
+Dialogue: 0,0:17:59.93,0:18:01.64,lassie default,,0,0,0,,{TIME:1079933,1081643}All right. We've got it cornered.
 Dialogue: 0,0:18:02.76,0:18:04.14,lassie default,,0,0,0,,{TIME:1082769,1084146}Lassie!
-Dialogue: 0,0:18:06.35,0:18:08.69,lassie default,,0,0,0,,{TIME:1086356,1088692}Well, now I will deal with it!
-Dialogue: 0,0:18:08.69,0:18:10.56,lassie default,,0,0,0,,{TIME:1088692,1090569}Wait, what if it's not guilty?
-Dialogue: 0,0:18:10.56,0:18:11.61,lassie default,,0,0,0,,{TIME:1090569,1091612}But this…
-Dialogue: 0,0:18:11.61,0:18:13.53,lassie default,,0,0,0,,{TIME:1091612,1093530}Wait a moment!
-Dialogue: 0,0:18:13.53,0:18:14.90,lassie default,,0,0,0,,{TIME:1093530,1094906}Lassie didn't do it!
-Dialogue: 0,0:18:14.90,0:18:17.24,lassie default,,0,0,0,,{TIME:1094906,1097242}Spinner's shawl is different from this!
+Dialogue: 0,0:18:06.35,0:18:08.69,lassie default,,0,0,0,,{TIME:1086356,1088692}Let me teach it a lesson\Nit won't forget.
+Dialogue: 0,0:18:08.69,0:18:10.56,lassie default,,0,0,0,,{TIME:1088692,1090569}Don't you think\Nthat's a little extreme?
+Dialogue: 0,0:18:10.56,0:18:11.61,lassie default,,0,0,0,,{TIME:1090569,1091612}But it…
+Dialogue: 0,0:18:11.61,0:18:13.53,lassie default,,0,0,0,,{TIME:1091612,1093530}Everyone, wait!
+Dialogue: 0,0:18:13.53,0:18:14.90,lassie default,,0,0,0,,{TIME:1093530,1094906}Lassie didn't do it.
+Dialogue: 0,0:18:14.90,0:18:17.24,lassie default,,0,0,0,,{TIME:1094906,1097242}She didn't take that muffler!
 Dialogue: 0,0:18:17.24,0:18:19.20,lassie default,,0,0,0,,{TIME:1097242,1099202}What are you talking about?
-Dialogue: 0,0:18:19.20,0:18:21.66,lassie default,,0,0,0,,{TIME:1099202,1101663}There is no one else to steal the other shawl!
-Dialogue: 0,0:18:21.66,0:18:25.45,lassie default,,0,0,0,,{TIME:1101663,1105459}Also, you're trying to say that\Nyou know who the culprit is?
-Dialogue: 0,0:18:25.45,0:18:28.17,lassie default,,0,0,0,,{TIME:1105459,1108170}I don't know who did it, but…
-Dialogue: 0,0:18:28.50,0:18:29.46,lassie default,,0,0,0,,{TIME:1108503,1109463}You see?
-Dialogue: 0,0:18:29.46,0:18:30.50,lassie default,,0,0,0,,{TIME:1109463,1110505}You are wrong!
-Dialogue: 0,0:18:30.50,0:18:33.80,lassie default,,0,0,0,,{TIME:1110505,1113800}Spinner, please explain to them!
-Dialogue: 0,0:18:34.17,0:18:35.30,lassie default,,0,0,0,,{TIME:1114176,1115302}Oh…
+Dialogue: 0,0:18:19.20,0:18:21.66,lassie default,,0,0,0,,{TIME:1099202,1101663}Don't you see it's wearing it?
+Dialogue: 0,0:18:21.66,0:18:25.45,lassie default,,0,0,0,,{TIME:1101663,1105459}Or are you trying to say you're the one\Nwho wrapped it around its neck?
+Dialogue: 0,0:18:25.45,0:18:28.50,lassie default,,0,0,0,,{TIME:1105459,1108503}I don't know who did it, but…
+Dialogue: 0,0:18:28.50,0:18:29.46,lassie default,,0,0,0,,{TIME:1108503,1109463}Listen to yourself.
+Dialogue: 0,0:18:29.46,0:18:30.50,lassie default,,0,0,0,,{TIME:1109463,1110505}No, hear me out.
+Dialogue: 0,0:18:30.50,0:18:33.80,lassie default,,0,0,0,,{TIME:1110505,1113800}Spinner! You tell them!
+Dialogue: 0,0:18:34.17,0:18:35.30,lassie default,,0,0,0,,{TIME:1114176,1115302}Oh?
 Dialogue: 0,0:18:35.30,0:18:36.01,lassie default,,0,0,0,,{TIME:1115302,1116011}Hm?
-Dialogue: 0,0:18:36.01,0:18:38.76,lassie default,,0,0,0,,{TIME:1116011,1118764}Spinner is not here!
-Dialogue: 0,0:18:40.76,0:18:43.76,lassie default,,0,0,0,,{TIME:1120766,1123769}Spinner! Make an effort, faster!
-Dialogue: 0,0:18:45.97,0:18:48.06,lassie default,,0,0,0,,{TIME:1125979,1128065}What is that?
-Dialogue: 0,0:18:48.94,0:18:50.23,lassie default,,0,0,0,,{TIME:1128940,1130233}These tracks…
-Dialogue: 0,0:18:50.23,0:18:52.36,lassie default,,0,0,0,,{TIME:1130233,1132361}…go inside!
+Dialogue: 0,0:18:36.01,0:18:38.76,lassie default,,0,0,0,,{TIME:1116011,1118764}I can't see Spinner anywhere.
+Dialogue: 0,0:18:40.76,0:18:43.76,lassie default,,0,0,0,,{TIME:1120766,1123769}Spinner! Make an effort! Faster!
+Dialogue: 0,0:18:45.97,0:18:48.06,lassie default,,0,0,0,,{TIME:1125979,1128065}Oh? What's that?
+Dialogue: 0,0:18:48.94,0:18:52.36,lassie default,,0,0,0,,{TIME:1128940,1132361}These tracks… go inside the hut?
 Dialogue: 0,0:18:52.36,0:18:53.36,lassie default,,0,0,0,,{TIME:1132361,1133362}It's dangerous!
-Dialogue: 0,0:18:55.36,0:18:57.44,lassie default,,0,0,0,,{TIME:1135364,1137449}If these were made by the culprit
-Dialogue: 0,0:18:57.44,0:18:59.11,lassie default,,0,0,0,,{TIME:1137449,1139117}and it wasn't your dog
-Dialogue: 0,0:18:59.11,0:19:02.24,lassie default,,0,0,0,,{TIME:1139117,1142245}we will know the perpetrator\Nonly if we see it!
-Dialogue: 0,0:19:02.24,0:19:04.41,lassie default,,0,0,0,,{TIME:1142245,1144414}Carraclough, step aside!
-Dialogue: 0,0:19:04.41,0:19:06.24,lassie default,,0,0,0,,{TIME:1144414,1146249}Let me look inside!
+Dialogue: 0,0:18:55.36,0:18:59.11,lassie default,,0,0,0,,{TIME:1135364,1139117}If these were made by the culprit…\Nand it wasn't your dog…
+Dialogue: 0,0:18:59.11,0:19:02.24,lassie default,,0,0,0,,{TIME:1139117,1142245}We can't know for sure\Nwhat kind of animal it was!
+Dialogue: 0,0:19:02.24,0:19:04.41,lassie default,,0,0,0,,{TIME:1142245,1144414}Step aside, Mr. Carraclough.
+Dialogue: 0,0:19:04.41,0:19:06.24,lassie default,,0,0,0,,{TIME:1144414,1146249}I am going to investigate\Nwhat is inside.
 Dialogue: 0,0:19:15.13,0:19:16.25,lassie default,,0,0,0,,{TIME:1155133,1156259}It's angry!
-Dialogue: 0,0:19:17.17,0:19:18.80,lassie default,,0,0,0,,{TIME:1157177,1158804}Look, as I expected!
-Dialogue: 0,0:19:18.80,0:19:20.63,lassie default,,0,0,0,,{TIME:1158804,1160639}Caraclough, do something!
-Dialogue: 0,0:19:26.01,0:19:28.64,lassie default,,0,0,0,,{TIME:1166019,1168647}Lassie, what's up?
-Dialogue: 0,0:19:41.66,0:19:43.66,lassie default,,0,0,0,,{TIME:1181660,1183662}Let's take a look inside.
+Dialogue: 0,0:19:17.17,0:19:18.80,lassie default,,0,0,0,,{TIME:1157177,1158804}See? Told you.
+Dialogue: 0,0:19:18.80,0:19:20.63,lassie default,,0,0,0,,{TIME:1158804,1160639}Mr. Carraclough,\Ntalk some sense into it.
+Dialogue: 0,0:19:26.01,0:19:28.64,lassie default,,0,0,0,,{TIME:1166019,1168647}What's going on, Lassie?
+Dialogue: 0,0:19:41.66,0:19:43.66,lassie default,,0,0,0,,{TIME:1181660,1183662}Why don't you want us\Nto look inside?
 Dialogue: 0,0:19:43.66,0:19:44.87,lassie default,,0,0,0,,{TIME:1183662,1184871}We won't do anything bad.
-Dialogue: 0,0:19:50.16,0:19:51.21,lassie default,,0,0,0,,{TIME:1190168,1191211}Is it okay?
-Dialogue: 0,0:20:03.84,0:20:07.18,lassie default,,0,0,0,,{TIME:1203849,1207185}Carraclough, is anything in there?
-Dialogue: 0,0:20:08.22,0:20:09.52,lassie default,,0,0,0,,{TIME:1208228,1209521}Carraclough!
-Dialogue: 0,0:20:11.69,0:20:13.31,lassie default,,0,0,0,,{TIME:1211690,1213316}Carraclough!
-Dialogue: 0,0:20:20.15,0:20:22.24,lassie default,,0,0,0,,{TIME:1220157,1222242}- Oh really?\N- Where? Where?
-Dialogue: 0,0:20:22.57,0:20:23.66,lassie default,,0,0,0,,{TIME:1222576,1223660}Those two blows?
-Dialogue: 0,0:20:23.66,0:20:25.28,lassie default,,0,0,0,,{TIME:1223660,1225287}Also her puppies!
-Dialogue: 0,0:20:26.62,0:20:29.75,lassie default,,0,0,0,,{TIME:1226621,1229750}It's my shawl!
-Dialogue: 0,0:20:29.75,0:20:31.20,lassie default,,0,0,0,,{TIME:1229750,1231209}But it's okay!
-Dialogue: 0,0:20:31.20,0:20:32.33,lassie default,,0,0,0,,{TIME:1231209,1232335}That these blows should be taken.
-Dialogue: 0,0:20:33.04,0:20:36.71,lassie default,,0,0,0,,{TIME:1233044,1236715}The beatings are still so satisfying\Nthat I stayed here.
-Dialogue: 0,0:20:36.71,0:20:39.34,lassie default,,0,0,0,,{TIME:1236715,1239342}Yes, isn't it better to leave it alone?
-Dialogue: 0,0:20:39.76,0:20:41.42,lassie default,,0,0,0,,{TIME:1239760,1241428}It's not possible!
-Dialogue: 0,0:20:41.42,0:20:43.34,lassie default,,0,0,0,,{TIME:1241428,1243346}This is the school's warehouse!
-Dialogue: 0,0:20:47.55,0:20:48.89,lassie default,,0,0,0,,{TIME:1247559,1248894}I see.
-Dialogue: 0,0:20:48.89,0:20:52.52,lassie default,,0,0,0,,{TIME:1248894,1252522}But I will leave her until\Nher puppies stop breastfeeding!
-Dialogue: 0,0:20:53.02,0:20:54.44,lassie default,,0,0,0,,{TIME:1253023,1254441}That's great, Lassie!
-Dialogue: 0,0:20:55.85,0:20:57.52,lassie default,,0,0,0,,{TIME:1255859,1257527}I'm sorry, John, I…
-Dialogue: 0,0:20:57.56,0:20:58.73,lassie default,,0,0,0,,{TIME:1257569,1258737}Sorry, John…
-Dialogue: 0,0:20:58.73,0:21:00.23,lassie default,,0,0,0,,{TIME:1258737,1260238}You're a clever dog, Lassie!
-Dialogue: 0,0:21:00.23,0:21:02.03,lassie default,,0,0,0,,{TIME:1260238,1262032}A beautiful shawl!
-Dialogue: 0,0:21:02.03,0:21:03.65,lassie default,,0,0,0,,{TIME:1262032,1263658}Go back after school!
-Dialogue: 0,0:21:03.65,0:21:06.03,lassie default,,0,0,0,,{TIME:1263658,1266036}So, the teacher said!
+Dialogue: 0,0:19:50.16,0:19:51.21,lassie default,,0,0,0,,{TIME:1190168,1191211}It's okay, right?
+Dialogue: 0,0:20:03.84,0:20:07.18,lassie default,,0,0,0,,{TIME:1203849,1207185}Do you see anything suspicious,\NMr. Carraclough?
+Dialogue: 0,0:20:08.22,0:20:09.52,lassie default,,0,0,0,,{TIME:1208228,1209521}Mr. Carraclough.
+Dialogue: 0,0:20:11.69,0:20:13.31,lassie default,,0,0,0,,{TIME:1211690,1213316}Mr. Carraclough!
+Dialogue: 0,0:20:20.15,0:20:22.24,lassie default,,0,0,0,,{TIME:1220157,1222242}– For reals.\N– Let me see!
+Dialogue: 0,0:20:22.57,0:20:23.66,lassie default,,0,0,0,,{TIME:1222576,1223660}It's a badger.
+Dialogue: 0,0:20:23.66,0:20:25.28,lassie default,,0,0,0,,{TIME:1223660,1225287}It has babies!
+Dialogue: 0,0:20:26.83,0:20:29.75,lassie default,,0,0,0,,{TIME:1226830,1229750}My muffler is beneath them.
+Dialogue: 0,0:20:29.75,0:20:32.33,lassie default,,0,0,0,,{TIME:1229750,1232335}Oh, whatever.\NI'll let them have it.
+Dialogue: 0,0:20:33.04,0:20:36.71,lassie default,,0,0,0,,{TIME:1233044,1236715}They can stay here\Nuntil they grow big, right?
+Dialogue: 0,0:20:36.71,0:20:39.34,lassie default,,0,0,0,,{TIME:1236715,1239342}Yes. We'd better leave them alone.
+Dialogue: 0,0:20:39.76,0:20:41.42,lassie default,,0,0,0,,{TIME:1239760,1241428}Now that is a problem.
+Dialogue: 0,0:20:41.42,0:20:43.34,lassie default,,0,0,0,,{TIME:1241428,1243346}This is the school's warehouse.
+Dialogue: 0,0:20:47.55,0:20:48.89,lassie default,,0,0,0,,{TIME:1247559,1248894}Very well.
+Dialogue: 0,0:20:48.89,0:20:52.52,lassie default,,0,0,0,,{TIME:1248894,1252522}But I will let her stay here only\Nuntil her cubs stop breastfeeding.
+Dialogue: 0,0:20:53.02,0:20:54.44,lassie default,,0,0,0,,{TIME:1253023,1254441}Isn't it great, Lassie?
+Dialogue: 0,0:20:55.85,0:20:57.56,lassie default,,0,0,0,,{TIME:1255859,1257569}I'm sorry, John. I…
+Dialogue: 0,0:20:57.56,0:20:58.73,lassie default,,0,0,0,,{TIME:1257569,1258737}Sorry, John.
+Dialogue: 0,0:20:58.73,0:21:00.23,lassie default,,0,0,0,,{TIME:1258737,1260238}You're a clever dog, Lassie.
+Dialogue: 0,0:21:00.23,0:21:02.03,lassie default,,0,0,0,,{TIME:1260238,1262032}You have a beautiful muffler.
+Dialogue: 0,0:21:02.03,0:21:03.65,lassie default,,0,0,0,,{TIME:1262032,1263658}Come see us again at school.
+Dialogue: 0,0:21:03.65,0:21:06.03,lassie default,,0,0,0,,{TIME:1263658,1266036}Yeah! We'll deal with the teachers.
 Dialogue: 0,0:21:07.32,0:21:08.83,lassie default,,0,0,0,,{TIME:1267329,1268830}Colin!
-Dialogue: 0,0:21:08.83,0:21:11.04,lassie default,,0,0,0,,{TIME:1268830,1271041}Hey Colin!
+Dialogue: 0,0:21:08.83,0:21:11.04,lassie default,,0,0,0,,{TIME:1268830,1271041}Hey! Colin!
 Dialogue: 0,0:21:11.37,0:21:12.41,lassie default,,0,0,0,,{TIME:1271374,1272417}Hey!
-Dialogue: 0,0:21:13.12,0:21:14.33,lassie default,,0,0,0,,{TIME:1273126,1274336}John!
-Dialogue: 0,0:21:14.33,0:21:16.54,lassie default,,0,0,0,,{TIME:1274336,1276546}Lassie, was the shawl warm?
-Dialogue: 0,0:21:17.33,0:21:21.09,lassie default,,0,0,0,,{TIME:1277339,1281092}This shawl is especially from Colin?
-Dialogue: 0,0:21:21.09,0:21:24.88,lassie default,,0,0,0,,{TIME:1281092,1284888}Today, there was a thief in school,
-Dialogue: 0,0:21:24.88,0:21:28.05,lassie default,,0,0,0,,{TIME:1284888,1288058}but Lassie managed to find the real culprit!
-Dialogue: 0,0:21:28.80,0:21:29.97,lassie default,,0,0,0,,{TIME:1288809,1289976}Eh…?
-Dialogue: 0,0:21:29.97,0:21:31.47,lassie default,,0,0,0,,{TIME:1289976,1291478}Is that so?
-Dialogue: 0,0:21:31.47,0:21:33.77,lassie default,,0,0,0,,{TIME:1291478,1293772}Yes, it's like a detective!
-Dialogue: 0,0:21:33.77,0:21:37.56,lassie default,,0,0,0,,{TIME:1293772,1297567}Lassie, did you remember\Nwhat I was telling you?
+Dialogue: 0,0:21:13.12,0:21:14.33,lassie default,,0,0,0,,{TIME:1273126,1274336}John?
+Dialogue: 0,0:21:14.33,0:21:16.54,lassie default,,0,0,0,,{TIME:1274336,1276546}Lassie!\NWas the muffler warm?
+Dialogue: 0,0:21:17.33,0:21:21.09,lassie default,,0,0,0,,{TIME:1277339,1281092}So you're the one\Nwho gave it to her?
+Dialogue: 0,0:21:21.09,0:21:24.88,lassie default,,0,0,0,,{TIME:1281092,1284888}We had an adventure at school today.\NSomebody stole Spinner's scarf.
+Dialogue: 0,0:21:24.88,0:21:28.05,lassie default,,0,0,0,,{TIME:1284888,1288058}But Lassie found\Nthe real culprit in an instant.
+Dialogue: 0,0:21:29.97,0:21:31.35,lassie default,,0,0,0,,{TIME:1289976,1291353}She's like a detective.
+Dialogue: 0,0:21:31.35,0:21:33.77,lassie default,,0,0,0,,{TIME:1291353,1293772}Yeah, totally!
+Dialogue: 0,0:21:33.77,0:21:37.56,lassie default,,0,0,0,,{TIME:1293772,1297567}Lassie… Did you remember\Nwhat I was telling you earlier?
 Dialogue: 0,0:21:41.23,0:21:42.40,lassie default,,0,0,0,,{TIME:1301238,1302405}I see.
-Dialogue: 0,0:21:42.40,0:21:44.28,lassie default,,0,0,0,,{TIME:1302405,1304282}You remembered then…
-Dialogue: 0,0:21:44.28,0:21:45.36,lassie default,,0,0,0,,{TIME:1304282,1305367}Lassie…
-Dialogue: 0,0:21:47.49,0:21:50.91,lassie default,,0,0,0,,{TIME:1307494,1310914}Hey Colin, will you come to school tomorrow?
-Dialogue: 0,0:21:50.91,0:21:51.62,lassie default,,0,0,0,,{TIME:1310914,1311623}Yes!
-Dialogue: 0,0:21:59.17,0:22:01.71,lassie default,,0,0,0,,{TIME:1319172,1321716}{\i1}I had quarreled with Sandy at school.
-Dialogue: 0,0:22:01.71,0:22:04.01,lassie default,,0,0,0,,{TIME:1321716,1324010}{\i1}Lassie, you are the reason!
-Dialogue: 0,0:22:04.01,0:22:06.59,lassie default,,0,0,0,,{TIME:1324010,1326596}{\i1}This is because you are\Nfollowing me like a fool!
-Dialogue: 0,0:22:06.59,0:22:07.63,lassie default,,0,0,0,,{TIME:1326596,1327639}{\i1}You act with dignity,
-Dialogue: 0,0:22:07.63,0:22:09.85,lassie default,,0,0,0,,{TIME:1327639,1329850}{\i1}but you can't do anything without me!
+Dialogue: 0,0:21:42.40,0:21:44.28,lassie default,,0,0,0,,{TIME:1302405,1304282}So you listened…
+Dialogue: 0,0:21:44.28,0:21:45.36,lassie default,,0,0,0,,{TIME:1304282,1305367}Lassie.
+Dialogue: 0,0:21:47.49,0:21:50.91,lassie default,,0,0,0,,{TIME:1307494,1310914}Hey, Colin! You're coming\Nto school tomorrow, right?
+Dialogue: 0,0:21:50.91,0:21:51.79,lassie default,,0,0,0,,{TIME:1310914,1311790}Yes!
+Dialogue: 0,0:21:59.17,0:22:01.71,lassie default,,0,0,0,,{TIME:1319172,1321716}{\i1}I had a fight with Sandy at school.
+Dialogue: 0,0:22:01.71,0:22:04.01,lassie default,,0,0,0,,{TIME:1321716,1324010}{\i1}Lassie, you can't go with me.
+Dialogue: 0,0:22:04.01,0:22:06.59,lassie default,,0,0,0,,{TIME:1324010,1326596}{\i1}You've been following me\Neverywhere lately.
+Dialogue: 0,0:22:06.59,0:22:09.85,lassie default,,0,0,0,,{TIME:1326596,1329850}{\i1}You pretend to be good,\Nbut you can't do anything without me.
 Dialogue: 0,0:22:09.85,0:22:11.81,lassie default,,0,0,0,,{TIME:1329850,1331810}{\i1}Don't follow me anymore!
-Dialogue: 0,0:22:11.81,0:22:14.22,lassie default,,0,0,0,,{TIME:1331810,1334229}{\i1}Next episode:\N"I Don't Like Lassie".
+Dialogue: 0,0:22:11.81,0:22:14.22,lassie default,,0,0,0,,{TIME:1331810,1334229}{\i1}Next episode:\N"I Hate Lassie".
 Dialogue: 0,0:22:14.22,0:22:15.73,lassie default,,0,0,0,,{TIME:1334229,1335730}{\i1}Be sure to watch!
 Dialogue: 0,0:22:16.64,0:22:20.52,lassie default,,0,0,0,,{TIME:1336648,1340527}{\fs28\i1\pos(320,468)}"The Boy's Hill" sung by Jun Morioka
 Dialogue: 0,0:22:25.32,0:22:28.53,lassie song jp ed,[karaoke],0,0,0,,{TIME:1345323,1348535}tasogare ni wa kimi to{NOTE:黄昏には君と}
