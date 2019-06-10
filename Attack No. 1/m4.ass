@@ -15,11 +15,11 @@ Audio File: source/m4.mkv
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gotham Rounded Medium,64,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,4.5,0.0,2,180,180,135,1
 Style: Alternative,Gotham Rounded Medium,64,&H00BFF6FF,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94.0,100.0,0.0,0.0,1,4.5,0.0,2,54,54,135,1
-Style: Lyrics English,Gotham Rounded Medium,64,&H00BFF6FF,&H8C7A8688,&H00202020,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,4.5,0.0,2,54,54,135,1
+Style: Lyrics English,Gotham Rounded Medium,64,&H00BFF6FF,&H00C8B400,&H00202020,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,4.5,0.0,2,54,54,135,1
 Style: Lyrics Kanji,Source Han Sans CN,67,&H00BFF6FF,&H0097F0F8,&H00202020,&H7F101010,-1,0,0,0,90.0,100.0,0.0,0.0,1,4.5,0.0,8,54,54,135,1
 Style: Sign,Gotham Rounded Medium,64,&H009AFBDC,&H000000FF,&H00202020,&H7F202020,-1,-1,0,0,94.0,100.0,0.0,0.0,1,4.5,0.0,8,54,54,135,1
 Style: Blackboard,Etelka Text Pro,64,&H00CDD1D2,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,4.5,0.0,8,15,15,135,1
-Style: Lyrics Romaji,Gotham Rounded Medium,64,&H00BFF6FF,&H8C7A8688,&H00202020,&H7F202020,-1,-1,0,0,94.0,100.0,0.0,0.0,1,4.5,0.0,8,15,15,135,1
+Style: Lyrics Romaji,Gotham Rounded Medium,64,&H00BFF6FF,&H00C8B400,&H00202020,&H7F202020,-1,0,0,0,94.0,100.0,0.0,0.0,1,4.5,0.0,8,54,54,135,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -34,8 +34,8 @@ Dialogue: 0,0:01:10.75,0:01:15.05,Lyrics Kanji,[karaoke],0,0,0,,{TIME:70758,7505
 Dialogue: 0,0:01:15.05,0:01:19.35,Lyrics Kanji,[karaoke],0,0,0,,{TIME:75054,79350}{\fad(0,500)}ワン・トゥー  ワン・トゥー  アタック
 Dialogue: 0,0:01:23.43,0:01:31.77,Lyrics Kanji,[karaoke],0,0,0,,{TIME:83438,91779}涙も汗も 若いファイトで
 Dialogue: 0,0:01:31.77,0:01:40.03,Lyrics Kanji,[karaoke],0,0,0,,{TIME:91779,100038}青空に遠く さけびたい
-Dialogue: 0,0:01:40.03,0:01:48.33,Lyrics Kanji,[karaoke],0,0,0,,{TIME:100038,108338}アタック  アタック  No.1
-Dialogue: 0,0:01:48.33,0:01:56.72,Lyrics Kanji,[karaoke],0,0,0,,{TIME:108338,116721}{\fad(0,500)}アタック  アタック  No.1
+Dialogue: 0,0:01:40.03,0:01:48.33,Lyrics Kanji,[karaoke],0,0,0,,{TIME:100038,108338}アタック  アタック  ナンバーワン
+Dialogue: 0,0:01:48.33,0:01:56.72,Lyrics Kanji,[karaoke],0,0,0,,{TIME:108338,116721}{\fad(0,500)}アタック  アタック  ナンバーワン
 Dialogue: 0,0:01:59.39,0:02:03.81,Lyrics Kanji,[karaoke],0,0,0,,{TIME:119390,123811}苦しくたって
 Dialogue: 0,0:02:03.81,0:02:07.39,Lyrics Kanji,[karaoke],0,0,0,,{TIME:123811,127398}悲しくたって
 Dialogue: 0,0:02:07.39,0:02:14.65,Lyrics Kanji,[karaoke],0,0,0,,{TIME:127398,134656}チームの仲間が いるんだもん
@@ -44,8 +44,8 @@ Dialogue: 0,0:02:23.08,0:02:27.33,Lyrics Kanji,[karaoke],0,0,0,,{TIME:143081,147
 Dialogue: 0,0:02:27.33,0:02:31.96,Lyrics Kanji,[karaoke],0,0,0,,{TIME:147335,151964}{\fad(0,500)}ワン・ツー  ワン・ツー  アタック
 Dialogue: 0,0:02:35.71,0:02:44.01,Lyrics Kanji,[karaoke],0,0,0,,{TIME:155718,164018}涙の中に若い心で
 Dialogue: 0,0:02:44.01,0:02:52.31,Lyrics Kanji,[karaoke],0,0,0,,{TIME:164018,172318}ながれゆく雲にさけびたい
-Dialogue: 0,0:02:52.31,0:03:00.70,Lyrics Kanji,[karaoke],0,0,0,,{TIME:172318,180702}アタック  アタック  No.1
-Dialogue: 0,0:03:00.70,0:03:11.12,Lyrics Kanji,[karaoke],0,0,0,,{TIME:180702,191129}{\fad(0,1000)}アタック  アタック  No.1
+Dialogue: 0,0:02:52.31,0:03:00.70,Lyrics Kanji,[karaoke],0,0,0,,{TIME:172318,180702}アタック  アタック  ナンバーワン
+Dialogue: 0,0:03:00.70,0:03:11.12,Lyrics Kanji,[karaoke],0,0,0,,{TIME:180702,191129}{\fad(0,1000)}アタック  アタック  ナンバーワン
 Dialogue: 0,0:00:47.02,0:00:51.40,Lyrics Romaji,[karaoke],0,0,0,,{TIME:47026,51406}{\k30}Ku{\k20}ru{\k33}shi{\k54}ku{\k58}ta{\k241}tte
 Dialogue: 0,0:00:51.40,0:00:55.03,Lyrics Romaji,[karaoke],0,0,0,,{TIME:51406,55034}{\k33}Ka{\k20}na{\k37}shi{\k50}ku{\k58}ta{\k155}tte
 Dialogue: 0,0:00:55.03,0:01:02.25,Lyrics Romaji,[karaoke],0,0,0,,{TIME:55034,62250}{\k66}Koo{\k75}to {\k29}no {\k33}na{\k25}ka {\k29}de {\k87}wa {\k62}hei{\k75}ki {\k37}na{\k200}no
