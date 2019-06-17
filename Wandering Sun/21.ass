@@ -73,6 +73,8 @@ Dialogue: 0,0:03:43.17,0:03:45.42,Default,Mine Nozomi,0,0,0,,{TIME:223176,225429
 Dialogue: 0,0:03:53.60,0:03:56.18,Default,Mine Nozomi,0,0,0,,{TIME:233603,236189}{\i1}Unfamiliar people\Nin an unfamiliar place.
 Dialogue: 0,0:03:56.18,0:03:59.45,Default,Mine Nozomi,0,0,0,,{TIME:236189,239459}{\i1}This is where I'll find my song.\NNo doubt about it.
 Dialogue: 0,0:04:02.61,0:04:05.19,Default,Mine Nozomi,0,0,0,,{TIME:242612,245198}Good evening.\NHow about I sing you something?
+Dialogue: 0,0:04:10.49,0:04:16.83,Default,Mine Nozomi,0,0,0,,{TIME:250495,256835}{\fnArial}♪{\fn}  I'm walking slowly by the calm sea  {\fnArial}♪{\fn}
+Dialogue: 0,0:04:16.83,0:04:18.33,Default,Mine Nozomi,0,0,0,,{TIME:256835,258336}{\fnArial}♪{\fn}  The soft sand—
 Dialogue: 0,0:04:18.33,0:04:20.13,Default,Guest,0,0,0,,{TIME:258336,260130}Stop it!
 Dialogue: 0,0:04:20.13,0:04:22.04,Default,Guest,0,0,0,,{TIME:260130,262048}We hate that kind of songs here.
 Dialogue: 0,0:04:22.04,0:04:22.88,Default,Mine Nozomi,0,0,0,,{TIME:262048,262883}I understand.
@@ -80,6 +82,7 @@ Dialogue: 0,0:04:23.84,0:04:28.05,Default,Guest,0,0,0,,{TIME:263842,268054}If yo
 Dialogue: 0,0:04:28.05,0:04:28.84,Default,Mine Nozomi,0,0,0,,{TIME:268054,268847}Okay.
 Dialogue: 0,0:04:29.63,0:04:31.97,Default,Mine Nozomi,0,0,0,,{TIME:269639,271975}{\i1}Something that touches your heart…
 Dialogue: 0,0:04:31.97,0:04:34.72,Default,Mine Nozomi,0,0,0,,{TIME:271975,274728}{\i1}Alright. Let's try this one.
+Dialogue: 0,0:04:34.72,0:04:39.73,Default,Mine Nozomi,0,0,0,,{TIME:274728,279733}{\fnArial}♪{\fn}  Good bye, my dear—
 Dialogue: 0,0:04:39.94,0:04:41.81,Default,Guest,0,0,0,,{TIME:279941,281818}No, not like this!
 Dialogue: 0,0:04:42.11,0:04:44.07,Default,Guest,0,0,0,,{TIME:282110,284070}We told you to sing\Nsomething better.
 Dialogue: 0,0:04:44.07,0:04:46.07,Default,Mine Nozomi,0,0,0,,{TIME:284070,286072}What would you like\Nme to sing, then?
@@ -90,11 +93,19 @@ Dialogue: 0,0:04:55.99,0:04:57.04,Default,Mine Nozomi,0,0,0,,{TIME:295999,297042
 Dialogue: 0,0:04:57.04,0:04:59.75,Default,Guest,0,0,0,,{TIME:297042,299753}We grew up on such songs.\NHey, everyone!
 Dialogue: 0,0:04:59.75,0:05:01.83,Default,Guest,0,0,0,,{TIME:299753,301838}Let's teach this girl\Nwhat a war song sounds like!
 Dialogue: 0,0:05:01.83,0:05:03.50,Default,Guest,0,0,0,,{TIME:301838,303507}One, two!
-Dialogue: 0,0:05:38.33,0:05:39.96,Default,Guest,0,0,0,,{TIME:338333,339960}Hey, young lady.
+Dialogue: 0,0:05:03.50,0:05:13.39,Default,Guest,0,0,0,,{TIME:303507,313391}{\fnArial}♪{\fn}  You and I are  {\fnArial}♪{\fn}\N{\fnArial}♪{\fn}  two cherry blossoms  {\fnArial}♪{\fn}{NOTE:貴様と俺とは同期の桜}
+Dialogue: 0,0:05:13.39,0:05:23.44,Default,Guest,0,0,0,,{TIME:313391,323443}{\fnArial}♪{\fn}  We bloom in the shadow  {\fnArial}♪{\fn}\N{\fnArial}♪{\fn}  of a pile of sand bags  {\fnArial}♪{\fn}{NOTE:同じ兵学校の庭に咲く}
+Dialogue: 0,0:05:23.44,0:05:27.69,Default,Guest,0,0,0,,{TIME:323443,327697}{\fad(0,1000)\fnArial}♪{\fn}  Since we are flowers,  {\fnArial}♪{\fn}\N{\fnArial}♪{\fn}  we are doomed to fall  {\fnArial}♪{\fn}{NOTE:咲いた花な ら散るのは覚悟}
+Dialogue: 0,0:05:27.69,0:05:36.03,Default,Mine Nozomi,0,0,0,,{TIME:327697,336039}{\fad(1000,0)\fnArial}♪{\fn}  My face is that of a broken doll's,  {\fnArial}♪{\fn}\N{\fnArial}♪{\fn}  but I am still a woman  {\fnArial}♪{\fn}
+Dialogue: 0,0:05:36.03,0:05:38.33,Default,Mine Nozomi,0,0,0,,{TIME:336039,338333}{\fnArial}♪{\fn}  So why are the tears—
+Dialogue: 0,0:05:38.33,0:05:39.96,Default,Guest,0,0,0,,{TIME:338333,339960}Hey, miss.
 Dialogue: 0,0:05:41.71,0:05:45.46,Default,Guest,0,0,0,,{TIME:341711,345465}Instead of this neat stuff,\Ngive us a nice strong piece.
 Dialogue: 0,0:05:46.00,0:05:47.50,Default,Mine Nozomi,0,0,0,,{TIME:346007,347509}Err…
 Dialogue: 0,0:05:47.50,0:05:49.59,Default,Mine Nozomi,0,0,0,,{TIME:347509,349594}I don't know that many, to be honest.
 Dialogue: 0,0:05:49.59,0:05:51.13,Default,Mine Nozomi,0,0,0,,{TIME:349594,351137}Can you give me an example?
+Dialogue: 0,0:05:51.13,0:06:01.89,Default,Guest,0,0,0,,{TIME:351137,361898}{\fnArial}♪{\fn}  Have you ever been to  {\fnArial}♪{\fn}\N{\fnArial}♪{\fn}  Temple Zuigan in Matsushima?  {\fnArial}♪{\fn}{NOTE:松島のサアヨー瑞巌寺ほどの}
+Dialogue: 0,0:06:01.89,0:06:08.98,Default,Guest,0,0,0,,{TIME:361898,368989}{\fnArial}♪{\fn}  Its halls are so big, big  {\fnArial}♪{\fn}{NOTE:寺もないとエー}
+Dialogue: 0,0:06:08.98,0:06:14.24,Default,Guest,0,0,0,,{TIME:368989,374244}{\fad(0,2000)\fnArial}♪{\fn}  Buddha can play hide and seek  {\fnArial}♪{\fn}{NOTE:あれはエー\\Nアレワエーエ　エトソーリャ大漁だエー}
 Dialogue: 0,0:06:31.63,0:06:33.47,Default,Mine Nozomi,0,0,0,,{TIME:391636,393471}{\i1}Is there a song that\Ncan move everyone?
 Dialogue: 0,0:06:33.47,0:06:36.85,Default,Mine Nozomi,0,0,0,,{TIME:393471,396850}{\i1}If so, what does it sound like?\NWhat is it that people will love?
 Dialogue: 0,0:06:36.85,0:06:38.43,Default,Mine Nozomi,0,0,0,,{TIME:396850,398435}{\i1}Nothing comes to my mind.
@@ -151,7 +162,7 @@ Dialogue: 0,0:09:51.37,0:09:54.88,Default,Egawa Isao,0,0,0,,{TIME:591377,594881}
 Dialogue: 0,0:09:54.88,0:09:56.46,Default,Egawa Isao,0,0,0,,{TIME:594881,596466}You don't have to worry about her.
 Dialogue: 0,0:09:56.46,0:09:58.88,Default,Egawa Isao,0,0,0,,{TIME:596466,598885}We must all wait for the day\Nwhen she comes back.
 Dialogue: 0,0:09:59.42,0:10:02.01,Default,Egawa Isao,0,0,0,,{TIME:599427,602013}You just have to trust your big sister.
-Dialogue: 0,0:10:02.01,0:10:03.26,Default,(unison),0,0,0,,{TIME:602013,603264}Yeah.
+Dialogue: 0,0:10:02.01,0:10:03.26,Default,(unison),0,0,0,,{TIME:602013,603264}Okay.
 Dialogue: 0,0:10:06.10,0:10:07.85,Default,Kōda Miki,0,0,0,,{TIME:606100,607852}A real singer?\NWhat's that about?
 Dialogue: 0,0:10:07.85,0:10:12.14,Default,Kōda Miki,0,0,0,,{TIME:607852,612148}What else could a singer want apart from\Na big stage and crowd every night?
 Dialogue: 0,0:10:12.14,0:10:16.77,Default,Kōda Miki,0,0,0,,{TIME:612148,616778}She just went on that journey because\Nshe's too devastated to face reality.
@@ -179,7 +190,7 @@ Dialogue: 0,0:11:48.78,0:11:49.99,Default,Mine Nozomi,0,0,0,,{TIME:708786,709996
 Dialogue: 0,0:11:50.95,0:11:52.58,Default,Fisherman,0,0,0,,{TIME:710955,712582}What did you come here for?
 Dialogue: 0,0:11:52.58,0:11:55.16,Default,Mine Nozomi,0,0,0,,{TIME:712582,715168}Just like you see.\NI'm a traveling artist.
 Dialogue: 0,0:11:55.16,0:11:56.37,Default,Fisherman,0,0,0,,{TIME:715168,716377}Artist?
-Dialogue: 0,0:12:01.59,0:12:04.46,Default,Mine Nozomi,0,0,0,,{TIME:721591,724469}{\i1}Why does he look at me like that?\NIt's like he hated my guts.
+Dialogue: 0,0:12:01.59,0:12:04.46,Default,Mine Nozomi,0,0,0,,{TIME:721591,724469}{\i1}Why does he look at me like that?\NIt's like he hates my guts.
 Comment: 0,0:12:06.77,0:12:06.77,Default,[chapter],0,0,0,,{TIME:726779,726779}Part B
 Dialogue: 0,0:12:20.78,0:12:23.83,Default,Mine Nozomi,0,0,0,,{TIME:740785,743830}I hope you caught many fish today.
 Dialogue: 0,0:12:23.83,0:12:28.33,Default,Mine Nozomi,0,0,0,,{TIME:743830,748334}But maybe my songs could\Nmake you forget your fatigue.
@@ -263,7 +274,7 @@ Dialogue: 0,0:18:31.15,0:18:33.90,Default,Nitta Akira,0,0,0,,{TIME:1111155,11139
 Dialogue: 0,0:18:33.90,0:18:37.91,Default,Nitta Akira,0,0,0,,{TIME:1113908,1117912}By singing, they're only trying\Nto cover for their loneliness.
 Dialogue: 0,0:18:38.62,0:18:40.49,Default,Nitta Akira,0,0,0,,{TIME:1118621,1120498}You see, Shingo had a lover, too.
 Dialogue: 0,0:18:40.49,0:18:43.91,Default,Nitta Akira,0,0,0,,{TIME:1120498,1123918}But she grew tired\Nof living here in poverty.
-Dialogue: 0,0:18:43.91,0:18:46.17,Default,Nitta Akira,0,0,0,,{TIME:1123918,1126170}One day, she left him to become a singer.
+Dialogue: 0,0:18:43.91,0:18:46.17,Default,Nitta Akira,0,0,0,,{TIME:1123918,1126170}One day, she left him\Nto become a singer.
 Dialogue: 0,0:18:46.17,0:18:47.42,Default,Nitta Akira,0,0,0,,{TIME:1126170,1127421}Nozomi-chan.
 Dialogue: 0,0:18:47.42,0:18:51.42,Default,Nitta Akira,0,0,0,,{TIME:1127421,1131425}You know the girl who always sits\Non the cliff and looks at the sea?
 Dialogue: 0,0:18:53.42,0:18:56.22,Default,Nitta Akira,0,0,0,,{TIME:1133427,1136222}Her name is Akemi.
@@ -305,11 +316,11 @@ Dialogue: 0,0:21:58.36,0:21:59.44,Default,Fisherman,0,0,0,,{TIME:1318362,1319447
 Dialogue: 0,0:21:59.44,0:22:00.07,Default,Mine Nozomi,0,0,0,,{TIME:1319447,1320072}What?
 Dialogue: 0,0:22:00.07,0:22:01.44,Default,Villager,0,0,0,,{TIME:1320072,1321449}Both of you, hurry up!
 Dialogue: 0,0:22:02.78,0:22:04.74,Default,Mine Nozomi,0,0,0,,{TIME:1322783,1324743}Let's go, Akemi-san.
-Dialogue: 0,0:22:04.74,0:22:05.61,Default,Akemi,0,0,0,,{TIME:1324743,1325619}Yeah.
+Dialogue: 0,0:22:04.74,0:22:05.61,Default,Akemi,0,0,0,,{TIME:1324743,1325619}Okay.
 Dialogue: 0,0:22:22.67,0:22:27.64,Default,Fisherman,0,0,0,,{TIME:1342678,1347641}How many years has it been\Nwhen we set out with so many boats?
 Dialogue: 0,0:22:27.64,0:22:30.22,Default,Villager,0,0,0,,{TIME:1347641,1350227}The sea didn't abandon us, after all.
-Dialogue: 0,0:22:30.22,0:22:33.73,Default,Villager,0,0,0,,{TIME:1350227,1353731}We were raised by it.\NWe're the men of the sea.
-Dialogue: 0,0:22:33.73,0:22:34.98,Default,Villager,0,0,0,,{TIME:1353731,1354982}We're like a family.
+Dialogue: 0,0:22:30.22,0:22:33.73,Default,Villager,0,0,0,,{TIME:1350227,1353731}We were raised by it. We're the men\Nof the sea. We live from it and die on it.
+Dialogue: 0,0:22:33.73,0:22:34.98,Default,Villager,0,0,0,,{TIME:1353731,1354982}We're inseparable.
 Dialogue: 0,0:22:34.98,0:22:35.81,Default,Villager,0,0,0,,{TIME:1354982,1355816}Well said.
 Dialogue: 0,0:22:37.06,0:22:39.40,Default,Fisherman,0,0,0,,{TIME:1357067,1359403}Let's all sing our song together!
 Dialogue: 0,0:22:39.40,0:22:40.23,Default,(unison),0,0,0,,{TIME:1359403,1360237}– Yeah!\N– Alright!
@@ -318,6 +329,13 @@ Dialogue: 0,0:22:41.53,0:22:43.53,Default,Mine Nozomi,0,0,0,,{TIME:1361530,13635
 Dialogue: 0,0:22:43.53,0:22:45.24,Default,Fisherman,0,0,0,,{TIME:1363532,1365242}How about you sing\Nthe lead for our song?
 Dialogue: 0,0:22:47.95,0:22:50.12,Default,Nitta Akira,0,0,0,,{TIME:1367953,1370122}Here, Nozomi-chan.\NIt's your chance to shine.
 Dialogue: 0,0:22:50.12,0:22:50.95,Default,Mine Nozomi,0,0,0,,{TIME:1370122,1370956}Thanks.
+Dialogue: 0,0:22:52.45,0:22:55.75,Default,Mine Kazuo,0,0,0,,{TIME:1372458,1375753}{\an8\fnArial}♪{\fn}  Here goes the first batch  {\fnArial}♪{\fn}{NOTE:一つとせ}
+Dialogue: 0,0:22:55.75,0:22:59.08,Default,Mine Kazuo,0,0,0,,{TIME:1375753,1379089}{\an8\fnArial}♪{\fn}  This is the biggest one  {\fnArial}♪{\fn}{NOTE:一番づつに}
+Dialogue: 0,0:22:59.08,0:23:02.80,Default,Mine Kazuo,0,0,0,,{TIME:1379089,1382801}{\an8\fnArial}♪{\fn}  We stack it one by one  {\fnArial}♪{\fn}{NOTE:積み込んで}
+Dialogue: 0,0:23:02.80,0:23:09.22,Default,Mine Kazuo,0,0,0,,{TIME:1382801,1389225}{\an8\fnArial}♪{\fn}  The great water  {\fnArial}♪{\fn}\N{\fnArial}♪{\fn}  is singing for us  {\fnArial}♪{\fn}{NOTE:川口押し込む大矢声}
+Dialogue: 0,0:23:09.22,0:23:14.35,Default,Mine Kazuo,0,0,0,,{TIME:1389225,1394355}{\an8\fnArial}♪{\fn}  Look at the deck,  {\fnArial}♪{\fn}\N{\fnArial}♪{\fn}  we caught so many  {\fnArial}♪{\fn}{NOTE:浜ァ　大漁だね}
+Dialogue: 0,0:23:14.35,0:23:17.81,Default,Mine Kazuo,0,0,0,,{TIME:1394355,1397816}{\an8\fnArial}♪{\fn}  Here goes the second batch  {\fnArial}♪{\fn}{NOTE:二つとせ}
+Dialogue: 0,0:23:17.81,0:23:20.86,Default,,0,0,0,,{TIME:1397816,1400861}{\fad(0,2000)\an8\fnArial}♪{\fn}  This is the sweetest one  {\fnArial}♪{\fn}
 Dialogue: 0,0:23:03.76,0:23:09.76,Default,Narrator,0,0,0,,{TIME:1383761,1389767}{\i1}Nozomi's passionate song has revived the will\Nto live in a girl who's forgotten how to speak.
 Dialogue: 0,0:23:09.76,0:23:14.10,Default,Narrator,0,0,0,,{TIME:1389767,1394104}{\i1}At the same time, this small fishing village\Nwas blessed with a haul unseen for many years.
 Dialogue: 0,0:23:15.23,0:23:21.40,Default,Narrator,0,0,0,,{TIME:1395231,1401403}{\i1}The joy and strong singing voices\Nof the sea men echoed in the Pacific Ocean.
