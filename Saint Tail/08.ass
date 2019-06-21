@@ -13,268 +13,272 @@ Video File: source/08.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,2.0,2.0,2,10,10,10,1
+Style: saint tail default,Calibri,80,&H00FBFBFB,&H000000FF,&H00373737,&H80373737,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,2,50,50,50,1
+Style: saint tail sign,Calibri,75,&H00D4FFED,&H000000FF,&H006E8E22,&HC7000000,-1,-1,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,8,50,50,50,1
+Style: saint tail title,Campanile,150,&H00EDE6FF,&H000000FF,&H009457EA,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
+Style: saint tail op en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
+Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,70,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.11,0:00:06.17,Default,,0,0,0,,Someone help me!
-Dialogue: 0,0:00:06.32,0:00:07.81,Default,,0,0,0,,It's St. Tail!
-Dialogue: 0,0:00:08.46,0:00:10.36,Default,,0,0,0,,She's heading for the\Nexit on the first floor!
-Dialogue: 0,0:00:12.10,0:00:14.76,Default,,0,0,0,,Just as I suspected.\NI know she'll come out this way!
-Dialogue: 0,0:00:18.81,0:00:19.74,Default,,0,0,0,,Here she comes!
-Dialogue: 0,0:00:21.35,0:00:22.78,Default,,0,0,0,,I've got you now, St. Tail!
-Dialogue: 0,0:00:25.99,0:00:26.96,Default,,0,0,0,,Darn it!
-Dialogue: 0,0:00:27.13,0:00:27.99,Default,,0,0,0,,Asuka!
-Dialogue: 0,0:00:30.67,0:00:31.83,Default,,0,0,0,,Takamiya!
-Dialogue: 0,0:00:31.91,0:00:33.10,Default,,0,0,0,,Better luck next time!
-Dialogue: 0,0:00:34.81,0:00:36.11,Default,,0,0,0,,Be seeing you!
-Dialogue: 0,0:00:36.62,0:00:39.25,Default,,0,0,0,,She's getting away again! Darn it!
-Dialogue: 0,0:00:44.84,0:00:46.74,Default,,0,0,0,,Dolphins Vs. Eagles
-Dialogue: 0,0:00:48.28,0:00:50.18,Default,,0,0,0,,St. Tail dropped these?
-Dialogue: 0,0:00:53.12,0:00:58.02,Default,,0,0,0,,Pinch!\NBeware of Lost Objects
-Dialogue: 0,0:01:13.80,0:01:15.66,Default,,0,0,0,,My form's not all that bad.
-Dialogue: 0,0:01:23.96,0:01:24.75,Default,,0,0,0,,Sorry.
-Dialogue: 0,0:01:25.43,0:01:26.89,Default,,0,0,0,,I shouldn't have\Ndone that in the chapel.
-Dialogue: 0,0:01:27.16,0:01:27.92,Default,,0,0,0,,It's all right.
-Dialogue: 0,0:01:28.40,0:01:29.37,Default,,0,0,0,,Excuse me.
-Dialogue: 0,0:01:32.21,0:01:35.80,Default,,0,0,0,,Oh! Are you Oikawa, the pitcher\Nfor the Southern Rainbow Dolphins?
-Dialogue: 0,0:01:36.18,0:01:37.65,Default,,0,0,0,,You know me?
-Dialogue: 0,0:01:38.12,0:01:40.68,Default,,0,0,0,,Of course, you're a celebrity!
-Dialogue: 0,0:01:42.20,0:01:46.63,Default,,0,0,0,,I was until last month.\NI'm on a losing streak now.
-Dialogue: 0,0:01:47.11,0:01:49.84,Default,,0,0,0,,Don't give up.\NMy prayers are with you.
-Dialogue: 0,0:01:51.35,0:01:52.25,Default,,0,0,0,,Thanks.
-Dialogue: 0,0:01:52.92,0:01:55.65,Default,,0,0,0,,And what brings you here today?
-Dialogue: 0,0:01:56.89,0:01:58.29,Default,,0,0,0,,Oh, nothing.
-Dialogue: 0,0:01:59.57,0:02:02.97,Default,,0,0,0,,I may not be of much help...
-Dialogue: 0,0:02:03.41,0:02:05.60,Default,,0,0,0,,you can share your troubles with me.
-Dialogue: 0,0:02:10.39,0:02:17.13,Default,,0,0,0,,The truth is I lost my lucky glove.
-Dialogue: 0,0:02:17.41,0:02:17.93,Default,,0,0,0,,What?!
-Dialogue: 0,0:02:23.82,0:02:25.95,Default,,0,0,0,,Strike three! You're out!
-Dialogue: 0,0:02:27.76,0:02:33.39,Default,,0,0,0,,The daughter of our owner's\Nfriend wanted my autograph.
-Dialogue: 0,0:02:37.95,0:02:39.28,Default,,0,0,0,,May I have your autograph?
-Dialogue: 0,0:02:41.39,0:02:42.38,Default,,0,0,0,,Sure thing.
-Dialogue: 0,0:02:43.36,0:02:47.30,Default,,0,0,0,,I asked her to hold the glove\Nwhile I signed her board.
-Dialogue: 0,0:02:50.31,0:02:56.55,Default,,0,0,0,,But then, both she and\Nmy glove disappeared.
-Dialogue: 0,0:02:59.00,0:03:02.36,Default,,0,0,0,,This was the glove I had used\Nwhen I pitched a no-hitter.
-Dialogue: 0,0:03:03.04,0:03:06.27,Default,,0,0,0,,It brought me luck, and\NI'd been using it ever since.
-Dialogue: 0,0:03:06.71,0:03:07.34,Default,,0,0,0,,I see.
-Dialogue: 0,0:03:08.05,0:03:12.15,Default,,0,0,0,,Our next game is for the championship.
-Dialogue: 0,0:03:13.00,0:03:17.43,Default,,0,0,0,,I came here to pray for her to return it.
-Dialogue: 0,0:03:17.94,0:03:19.74,Default,,0,0,0,,When is the game?
-Dialogue: 0,0:03:20.68,0:03:24.38,Default,,0,0,0,,This Sunday, against the Eagles.
-Dialogue: 0,0:03:26.89,0:03:32.73,Default,,0,0,0,,Have faith, the Lord\Nis looking out for you.
-Dialogue: 0,0:03:35.61,0:03:40.57,Default,,0,0,0,,...and that's why I want you\Nto get his glove back.
-Dialogue: 0,0:03:41.36,0:03:43.12,Default,,0,0,0,,OK, Seira.
-Dialogue: 0,0:03:43.46,0:03:44.93,Default,,0,0,0,,The truth is...
-Dialogue: 0,0:03:46.60,0:03:48.23,Default,,0,0,0,,...ta-da!
-Dialogue: 0,0:03:49.24,0:03:52.11,Default,,0,0,0,,I've got tickets to Sunday's game!
-Dialogue: 0,0:03:54.99,0:03:57.35,Default,,0,0,0,,What? Oh no!
-Dialogue: 0,0:03:58.63,0:03:59.79,Default,,0,0,0,,What's wrong?
-Dialogue: 0,0:04:00.33,0:04:03.60,Default,,0,0,0,,I lost the tickets to\Nthe Dolphins game!
-Dialogue: 0,0:04:03.91,0:04:06.97,Default,,0,0,0,,I didn't know you\Nwere a baseball fan.
-Dialogue: 0,0:04:08.98,0:04:12.18,Default,,0,0,0,,No, it's not for me.
-Dialogue: 0,0:04:12.63,0:04:16.46,Default,,0,0,0,,Remember math class the other day?
-Dialogue: 0,0:04:18.27,0:04:20.24,Default,,0,0,0,,Your score is terrible!
-Dialogue: 0,0:04:23.55,0:04:25.21,Default,,0,0,0,,If you score below 30 again...
-Dialogue: 0,0:04:25.25,0:04:27.81,Default,,0,0,0,,I'll revoke your recess and\Nyou'll have to go to study hall.
-Dialogue: 0,0:04:28.13,0:04:28.82,Default,,0,0,0,,What?
-Dialogue: 0,0:04:30.20,0:04:31.19,Default,,0,0,0,,Tough luck!
-Dialogue: 0,0:04:31.57,0:04:32.40,Default,,0,0,0,,Mister Asuka!
-Dialogue: 0,0:04:32.57,0:04:33.19,Default,,0,0,0,,Yes, ma'am.
-Dialogue: 0,0:04:33.71,0:04:35.94,Default,,0,0,0,,I want you to tutor Miss Haneoka.
-Dialogue: 0,0:04:36.21,0:04:36.90,Default,,0,0,0,,What?!
-Dialogue: 0,0:04:37.55,0:04:40.35,Default,,0,0,0,,Having an honor student\Ntutor her should help.
-Dialogue: 0,0:04:41.02,0:04:43.08,Default,,0,0,0,,-Oh, no! Not him!\N-Oh, no! Not her!
-Dialogue: 0,0:04:44.10,0:04:49.09,Default,,0,0,0,,Enough of that! This is not\Na request, it's an order!
-Dialogue: 0,0:04:50.24,0:04:54.41,Default,,0,0,0,,I don't quite remember the incident,\Nbut how lucky for you.
-Dialogue: 0,0:04:54.52,0:04:59.08,Default,,0,0,0,,That's not luck! Do you know\Nwhat he did after class?
-Dialogue: 0,0:05:00.56,0:05:05.50,Default,,0,0,0,,You know, I'd really like to see the\Nnext Dolphins game at the Big Dome.
-Dialogue: 0,0:05:07.61,0:05:11.71,Default,,0,0,0,,Let's make a deal, Miss Haneoka.
-Dialogue: 0,0:05:12.12,0:05:14.45,Default,,0,0,0,,Are you telling me to treat you?
-Dialogue: 0,0:05:15.10,0:05:18.50,Default,,0,0,0,,Or you can stay in\Nstudy hall during recess.
-Dialogue: 0,0:05:18.54,0:05:19.20,Default,,0,0,0,,See you.
-Dialogue: 0,0:05:19.31,0:05:21.54,Default,,0,0,0,,No, no! It'll be my\Npleasure to treat you!
-Dialogue: 0,0:05:23.82,0:05:27.05,Default,,0,0,0,,The creep had me cornered!
-Dialogue: 0,0:05:27.46,0:05:28.98,Default,,0,0,0,,So you have a date with him.
-Dialogue: 0,0:05:30.26,0:05:32.86,Default,,0,0,0,,You must be looking\Nforward to Sunday.
-Dialogue: 0,0:05:33.34,0:05:35.13,Default,,0,0,0,,Don't be ridiculous!
-Dialogue: 0,0:05:35.31,0:05:36.80,Default,,0,0,0,,It was blackmail.
-Dialogue: 0,0:05:37.18,0:05:40.74,Default,,0,0,0,,I had to beg Papa for the tickets!
-Dialogue: 0,0:05:42.76,0:05:46.19,Default,,0,0,0,,And after all that, I've lost them.
-Dialogue: 0,0:05:48.60,0:05:50.94,Default,,0,0,0,,What should I do, Seira?!
-Dialogue: 0,0:05:51.68,0:05:54.80,Default,,0,0,0,,Well, anyway, let's go\Nlook for them tomorrow.
-Dialogue: 0,0:05:57.99,0:05:59.92,Default,,0,0,0,,Tickets to the Dolphins game?
-Dialogue: 0,0:06:00.73,0:06:03.22,Default,,0,0,0,,I must have dropped them.\NHave you seen them around?
-Dialogue: 0,0:06:03.60,0:06:04.57,Default,,0,0,0,,No.
-Dialogue: 0,0:06:04.77,0:06:06.03,Default,,0,0,0,,Neither have I.
-Dialogue: 0,0:06:06.21,0:06:07.47,Default,,0,0,0,,Too bad.
-Dialogue: 0,0:06:07.65,0:06:09.44,Default,,0,0,0,,The Dolphins are so popular.
-Dialogue: 0,0:06:09.78,0:06:11.94,Default,,0,0,0,,I doubt you'll get more tickets.
-Dialogue: 0,0:06:12.46,0:06:15.69,Default,,0,0,0,,Shh! Don't talk so loud.\NHe might hear you!
-Dialogue: 0,0:06:16.03,0:06:16.93,Default,,0,0,0,,Hey, Haneoka!
-Dialogue: 0,0:06:17.83,0:06:22.10,Default,,0,0,0,,Don't forget about Sunday and\NI promise you'll score 100 on the test.
-Dialogue: 0,0:06:25.99,0:06:29.28,Default,,0,0,0,,She promised to take\NAsuka to that game.
-Dialogue: 0,0:06:29.79,0:06:30.92,Default,,0,0,0,,What?!
-Dialogue: 0,0:06:31.43,0:06:32.73,Default,,0,0,0,,You're going with him?
-Dialogue: 0,0:06:32.97,0:06:35.60,Default,,0,0,0,,You two are always fighting!\NWhat gives?
-Dialogue: 0,0:06:35.87,0:06:39.24,Default,,0,0,0,,It's not like that!\NI can explain!
-Dialogue: 0,0:06:40.02,0:06:41.31,Default,,0,0,0,,Oh?
-Dialogue: 0,0:06:41.75,0:06:45.15,Default,,0,0,0,,Um, anyway, I lost the tickets!
-Dialogue: 0,0:06:48.27,0:06:52.64,Default,,0,0,0,,The tickets St. Tail dropped,\Nand the tickets Haneoka lost...
-Dialogue: 0,0:06:53.14,0:06:57.24,Default,,0,0,0,,are for the same Dolphins\Ngame. Could she be...
-Dialogue: 0,0:07:08.78,0:07:12.01,Default,,0,0,0,,Now I remember! I had them\Nwith me on that last caper!
-Dialogue: 0,0:07:17.73,0:07:21.69,Default,,0,0,0,,That's it, I must have lost them\Nwhile I was escaping.
-Dialogue: 0,0:07:28.86,0:07:32.76,Default,,0,0,0,,Good show, Meimi!
-Dialogue: 0,0:07:32.93,0:07:34.33,Default,,0,0,0,,That was a 10!
-Dialogue: 0,0:07:34.90,0:07:37.93,Default,,0,0,0,,No, I just got lucky, that's all.
-Dialogue: 0,0:07:39.65,0:07:41.31,Default,,0,0,0,,I think I overdid it.
-Dialogue: 0,0:07:41.85,0:07:48.16,Default,,0,0,0,,Such technique...\NQuite extraordinary. It must be her.
-Dialogue: 0,0:07:48.67,0:07:49.66,Default,,0,0,0,,There it goes!
-Dialogue: 0,0:07:51.24,0:07:52.60,Default,,0,0,0,,Get it, Asuka!
-Dialogue: 0,0:08:00.73,0:08:03.02,Default,,0,0,0,,Who picked him to be goal keeper?
-Dialogue: 0,0:08:03.33,0:08:05.13,Default,,0,0,0,,Asuka, are you alive?
-Dialogue: 0,0:08:05.74,0:08:08.57,Default,,0,0,0,,Hey, what's this?
-Dialogue: 0,0:08:09.68,0:08:11.70,Default,,0,0,0,,"Tonight, I will enter\Nthe Uehara residence...
-Dialogue: 0,0:08:11.75,0:08:15.69,Default,,0,0,0,,for pitcher Oikawa's glove.\NSigned, St. Tail."
-Dialogue: 0,0:08:16.86,0:08:20.06,Default,,0,0,0,,Hey, Asuka, it's a\Nchallenge from St. Tail.
-Dialogue: 0,0:08:21.10,0:08:22.50,Default,,0,0,0,,Do you hear me?
-Dialogue: 0,0:08:23.24,0:08:24.83,Default,,0,0,0,,Snap out of it, Asuka!
-Dialogue: 0,0:08:25.18,0:08:27.94,Default,,0,0,0,,I just don't get it,\Nboth St. Tail and Takamiya!
-Dialogue: 0,0:08:27.99,0:08:30.35,Default,,0,0,0,,Why are they always after this guy?
-Dialogue: 0,0:08:30.76,0:08:32.35,Default,,0,0,0,,Pay attention, will you?
-Dialogue: 0,0:08:32.86,0:08:35.89,Default,,0,0,0,,Meimi Haneoka...\Nyou're mighty suspicious.
-Dialogue: 0,0:08:38.11,0:08:40.41,Default,,0,0,0,,Now, to go look for those tickets...
-Dialogue: 0,0:08:42.28,0:08:44.05,Default,,0,0,0,,Where do you think you're going?
-Dialogue: 0,0:08:44.39,0:08:46.38,Default,,0,0,0,,I... I have to go somewhere.
-Dialogue: 0,0:08:47.23,0:08:51.19,Default,,0,0,0,,No way!\NThe test is tomorrow!
-Dialogue: 0,0:09:04.13,0:09:09.16,Default,,0,0,0,,Solving trigonometry problems\Nis like a criminal investigation.
-Dialogue: 0,0:09:09.81,0:09:14.15,Default,,0,0,0,,You find each and every clue,\Nfit them into place, until...
-Dialogue: 0,0:09:14.19,0:09:16.09,Default,,0,0,0,,Bam! See, you've\Nsolved the problem.
-Dialogue: 0,0:09:16.26,0:09:18.35,Default,,0,0,0,,Is detective work all\Nyou ever think about?
-Dialogue: 0,0:09:18.86,0:09:20.96,Default,,0,0,0,,Mathematics is one of the\Nfoundations of detective work!
-Dialogue: 0,0:09:23.07,0:09:25.94,Default,,0,0,0,,Is arresting St. Tail\Nthat important to you?
-Dialogue: 0,0:09:31.16,0:09:32.82,Default,,0,0,0,,Well, is it?
-Dialogue: 0,0:09:33.36,0:09:35.02,Default,,0,0,0,,None of your business.
-Dialogue: 0,0:09:35.70,0:09:36.86,Default,,0,0,0,,What's that mean?!
-Dialogue: 0,0:09:37.54,0:09:39.56,Default,,0,0,0,,It's between St. Tail and me!
-Dialogue: 0,0:09:40.38,0:09:42.44,Default,,0,0,0,,Why can't you tell me?
-Dialogue: 0,0:09:48.53,0:09:49.39,Default,,0,0,0,,Sorry.
-Dialogue: 0,0:09:50.20,0:09:54.33,Default,,0,0,0,,Now, the next problem...\NThe angle of a figure on a flat plane...
-Dialogue: 0,0:09:54.44,0:10:00.31,Default,,0,0,0,,all the points at a given distance...
-Dialogue: 0,0:10:00.79,0:10:01.78,Default,,0,0,0,,Hey! Hey!
-Dialogue: 0,0:10:02.16,0:10:06.39,Default,,0,0,0,,Miss Haneoka!\NI'd like to speak to you.
-Dialogue: 0,0:10:13.89,0:10:16.65,Default,,0,0,0,,What is it, Miss Takamiya?
-Dialogue: 0,0:10:20.40,0:10:21.26,Default,,0,0,0,,Here.
-Dialogue: 0,0:10:22.91,0:10:25.17,Default,,0,0,0,,Aren't these yours?
-Dialogue: 0,0:10:43.45,0:10:46.91,Default,,0,0,0,,Actually I found these the other night.
-Dialogue: 0,0:10:48.90,0:10:51.33,Default,,0,0,0,,Do you want to know\Nwhere I found them?
-Dialogue: 0,0:10:56.91,0:11:01.91,Default,,0,0,0,,Um, thanks, but these aren't mine.
-Dialogue: 0,0:11:03.33,0:11:04.92,Default,,0,0,0,,Oh, really?
-Dialogue: 0,0:11:05.23,0:11:08.10,Default,,0,0,0,,Well then, I guess I'll\Nkeep them for myself.
-Dialogue: 0,0:11:11.81,0:11:14.87,Default,,0,0,0,,Asuka is a big Dolphins fan, right?
-Dialogue: 0,0:11:16.19,0:11:20.46,Default,,0,0,0,,I'm sure he'll be happy to go,\Nif I ask him. Bye!
-Dialogue: 0,0:11:22.77,0:11:24.03,Default,,0,0,0,,Rats!
-Dialogue: 0,0:11:24.81,0:11:26.11,Default,,0,0,0,,What'll I do?
-Dialogue: 0,0:11:26.18,0:11:29.55,Default,,0,0,0,,The game's this Sunday\Nand I don't have the tickets!
-Dialogue: 0,0:11:30.92,0:11:34.25,Default,,0,0,0,,And of all people,\Nwhy'd Rina have to find them?
-Dialogue: 0,0:11:36.27,0:11:38.36,Default,,0,0,0,,I've got to get those tickets back.
-Dialogue: 0,0:11:39.21,0:11:42.64,Default,,0,0,0,,But I could get caught. Still...
-Dialogue: 0,0:11:45.15,0:11:46.12,Default,,0,0,0,,Still...
-Dialogue: 0,0:11:47.12,0:11:48.59,Default,,0,0,0,,Don't forget!
-Dialogue: 0,0:11:49.86,0:11:54.96,Default,,0,0,0,,He was so excited about going.\NI can't just tell him it's off.
-Dialogue: 0,0:11:57.51,0:12:02.38,Default,,0,0,0,,I said no! This is mine and\NI'm not letting anyone take it!
-Dialogue: 0,0:12:02.79,0:12:06.49,Default,,0,0,0,,But you have to put\Nthe glove on that table.
-Dialogue: 0,0:12:06.70,0:12:07.50,Default,,0,0,0,,No!
-Dialogue: 0,0:12:07.67,0:12:10.80,Default,,0,0,0,,What's so important about this table?
-Dialogue: 0,0:12:11.14,0:12:12.61,Default,,0,0,0,,Don't!
-Dialogue: 0,0:12:17.46,0:12:19.32,Default,,0,0,0,,What is this stuff?
-Dialogue: 0,0:12:19.73,0:12:25.76,Default,,0,0,0,,A special fluorescent paint.\NI'm using it to expose St. Tail.
-Dialogue: 0,0:12:26.24,0:12:29.44,Default,,0,0,0,,Why are you so obsessed\Nwith St. Tail, anyway?
-Dialogue: 0,0:12:30.05,0:12:32.85,Default,,0,0,0,,I told you, I'm going to\Nbecome a detective...
-Dialogue: 0,0:12:33.13,0:12:35.75,Default,,0,0,0,,and I'm not letting that ridiculous\Npetty thief get the best of me!
-Dialogue: 0,0:12:36.87,0:12:38.60,Default,,0,0,0,,A ridiculous petty thief, eh?
-Dialogue: 0,0:12:39.51,0:12:41.50,Default,,0,0,0,,Give it to me!
-Dialogue: 0,0:12:41.58,0:12:42.37,Default,,0,0,0,,No!
-Dialogue: 0,0:12:43.48,0:12:48.85,Default,,0,0,0,,I've got a great idea.\NThis time, we do a double-cross!
-Dialogue: 0,0:12:49.76,0:12:53.60,Default,,0,0,0,,Oh, Lord, forgive me, for\NI use no gimmick or trick.
-Dialogue: 0,0:12:59.85,0:13:00.75,Default,,0,0,0,,One!
-Dialogue: 0,0:13:03.26,0:13:04.35,Default,,0,0,0,,Two!
-Dialogue: 0,0:13:06.70,0:13:08.67,Default,,0,0,0,,Three!
-Dialogue: 0,0:13:23.10,0:13:26.80,Default,,0,0,0,,May the blessings of God be with us.
-Dialogue: 0,0:13:28.18,0:13:30.91,Default,,0,0,0,,Be careful, remember\Nyour last caper.
-Dialogue: 0,0:13:31.22,0:13:31.95,Default,,0,0,0,,I will.
-Dialogue: 0,0:13:42.64,0:13:44.01,Default,,0,0,0,,We've got you!
-Dialogue: 0,0:13:44.72,0:13:46.24,Default,,0,0,0,,The real glove is at the Big Dome!
-Dialogue: 0,0:13:46.65,0:13:47.64,Default,,0,0,0,,Grab her!
-Dialogue: 0,0:13:48.96,0:13:50.08,Default,,0,0,0,,Did we get her?
-Dialogue: 0,0:13:50.19,0:13:50.99,Default,,0,0,0,,Sure did!
-Dialogue: 0,0:13:51.26,0:13:52.46,Default,,0,0,0,,Turn on the lights!
-Dialogue: 0,0:13:53.57,0:13:56.04,Default,,0,0,0,,What?!?\NIt's a dummy!
-Dialogue: 0,0:14:00.25,0:14:02.34,Default,,0,0,0,,Damn! She got past us again!
-Dialogue: 0,0:14:03.89,0:14:05.32,Default,,0,0,0,,So, it was a trap.
-Dialogue: 0,0:14:07.93,0:14:12.87,Default,,0,0,0,,Oikawa's glove, huh?\NBoy, you're lucky that I'm a big fan.
-Dialogue: 0,0:14:13.18,0:14:15.67,Default,,0,0,0,,Too bad, you can't have it!
-Dialogue: 0,0:14:18.19,0:14:19.38,Default,,0,0,0,,Asuka...
-Dialogue: 0,0:14:20.36,0:14:24.66,Default,,0,0,0,,I have tickets to the Dolphins game.
-Dialogue: 0,0:14:25.71,0:14:26.93,Default,,0,0,0,,Takamiya!
-Dialogue: 0,0:14:27.91,0:14:29.34,Default,,0,0,0,,Will... will you go with me?
-Dialogue: 0,0:14:33.46,0:14:36.98,Default,,0,0,0,,Sorry, but I'm already\Ngoing with Haneoka.
-Dialogue: 0,0:14:40.94,0:14:47.00,Default,,0,0,0,,Oh, really? I just hope she\Nremembers her promise.
-Dialogue: 0,0:14:47.09,0:14:47.68,Default,,0,0,0,,What?
-Dialogue: 0,0:14:48.82,0:14:52.42,Default,,0,0,0,,I know who St. Tail is.
-Dialogue: 0,0:14:54.84,0:14:56.67,Default,,0,0,0,,Shall I tell you?
-Dialogue: 0,0:14:57.24,0:14:58.40,Default,,0,0,0,,Oh no!
-Dialogue: 0,0:15:09.57,0:15:10.54,Default,,0,0,0,,No!
-Dialogue: 0,0:15:13.14,0:15:14.58,Default,,0,0,0,,Don't you want to know?
-Dialogue: 0,0:15:15.31,0:15:17.28,Default,,0,0,0,,I just want to capture her.
-Dialogue: 0,0:15:25.54,0:15:28.87,Default,,0,0,0,,I don't care who she is. I just\Nwant to capture her on my own!
-Dialogue: 0,0:15:34.36,0:15:38.85,Default,,0,0,0,,A breeze?\NThe dome roof is...!
-Dialogue: 0,0:15:50.39,0:15:51.62,Default,,0,0,0,,St. Tail!
-Dialogue: 0,0:15:52.16,0:15:53.22,Default,,0,0,0,,Good evening!
-Dialogue: 0,0:15:54.13,0:15:56.00,Default,,0,0,0,,How'd you know we were here?
-Dialogue: 0,0:15:56.37,0:15:58.53,Default,,0,0,0,,Never mind that, quickly, arrest her!
-Dialogue: 0,0:15:58.88,0:16:00.40,Default,,0,0,0,,And here's the first pitch!
-Dialogue: 0,0:16:00.68,0:16:03.51,Default,,0,0,0,,It's Show Time!
-Dialogue: 0,0:16:03.85,0:16:04.75,Default,,0,0,0,,Help!
-Dialogue: 0,0:16:05.32,0:16:07.22,Default,,0,0,0,,And we're already in the 7th inning.
-Dialogue: 0,0:16:18.22,0:16:20.28,Default,,0,0,0,,Asuka, do something!
-Dialogue: 0,0:16:21.26,0:16:22.85,Default,,0,0,0,,It's out of my hands.
-Dialogue: 0,0:16:24.00,0:16:26.02,Default,,0,0,0,,I'm sorry!
-Dialogue: 0,0:16:26.30,0:16:28.10,Default,,0,0,0,,Oh, be quiet! Stop your bawling.
-Dialogue: 0,0:16:28.41,0:16:31.24,Default,,0,0,0,,All right, let's end\Nthe game, shall we?
-Dialogue: 0,0:16:32.42,0:16:33.08,Default,,0,0,0,,One!
-Dialogue: 0,0:16:33.12,0:16:33.68,Default,,0,0,0,,Two!
-Dialogue: 0,0:16:33.72,0:16:34.52,Default,,0,0,0,,Three!
-Dialogue: 0,0:16:47.88,0:16:50.65,Default,,0,0,0,,I'm giving this back\Nto pitcher Oikawa.
-Dialogue: 0,0:16:51.12,0:16:54.29,Default,,0,0,0,,You may be his fan,\Nbut taking his glove was wrong!
-Dialogue: 0,0:16:54.83,0:16:55.56,Default,,0,0,0,,What?
-Dialogue: 0,0:16:55.90,0:16:58.53,Default,,0,0,0,,She stole the glove?
-Dialogue: 0,0:16:59.04,0:17:01.01,Default,,0,0,0,,I'll never do it again.
-Dialogue: 0,0:17:01.92,0:17:05.98,Default,,0,0,0,,And I'll take these back, too!
-Dialogue: 0,0:17:07.69,0:17:08.49,Default,,0,0,0,,Darn.
-Dialogue: 0,0:17:09.43,0:17:11.02,Default,,0,0,0,,St. Tail! Wait!
-Dialogue: 0,0:17:24.60,0:17:25.62,Default,,0,0,0,,Goodbye!
-Dialogue: 0,0:17:31.51,0:17:34.24,Default,,0,0,0,,Thank you, my love.
-Dialogue: 0,0:17:41.44,0:17:43.87,Default,,0,0,0,,Man! How many times\Ndo I have to tell you?
-Dialogue: 0,0:17:44.11,0:17:47.20,Default,,0,0,0,,Listen, meet me at gate #2!
-Dialogue: 0,0:17:47.72,0:17:50.18,Default,,0,0,0,,You listen! I don't know\Nwhere gate #2 is!
-Dialogue: 0,0:17:50.76,0:17:53.35,Default,,0,0,0,,I told you, it's the\Nentrance on the North end!
-Dialogue: 0,0:17:53.70,0:17:55.63,Default,,0,0,0,,And which side is North?!
-Dialogue: 0,0:17:58.00,0:18:03.10,Default,,0,0,0,,Meimi Haneoka,\NI'll get you next time.
-Dialogue: 0,0:18:04.62,0:18:08.45,Default,,0,0,0,,And the championship game between\Nthe Dolphins and the Eagles...
-Dialogue: 0,0:18:08.50,0:18:09.66,Default,,0,0,0,,is about to start!
-Dialogue: 0,0:18:10.73,0:18:14.22,Default,,0,0,0,,On the mound is Oikawa, who hasn't\Nbeen doing too well the past few games.
-Dialogue: 0,0:18:14.37,0:18:17.04,Default,,0,0,0,,Let's see what he has\Nin store for us today.
-Dialogue: 0,0:18:24.13,0:18:25.53,Default,,0,0,0,,Steerike!
-Dialogue: 0,0:18:27.47,0:18:29.40,Default,,0,0,0,,Strike! You're out!
-Dialogue: 0,0:18:30.41,0:18:31.64,Default,,0,0,0,,What a fastball!
-Dialogue: 0,0:18:32.05,0:18:34.91,Default,,0,0,0,,Three strikes! Looks like\NOikawa is out of his slump.
-Dialogue: 0,0:18:35.52,0:18:36.54,Default,,0,0,0,,All right!
-Dialogue: 0,0:18:40.13,0:18:43.07,Default,,0,0,0,,Oikawa has struck out\Nthree batters in this inning.
-Dialogue: 0,0:18:44.64,0:18:47.30,Default,,0,0,0,,He's really looking good!
-Dialogue: 0,0:18:47.65,0:18:48.44,Default,,0,0,0,,Sure is.
-Dialogue: 0,0:18:58.64,0:19:02.27,Default,,0,0,0,,No! I just want to\Ncapture her on my own!
-Dialogue: 0,0:19:05.49,0:19:07.25,Default,,0,0,0,,I guess we have to thank St. Tail.
-Dialogue: 0,0:19:09.06,0:19:12.69,Default,,0,0,0,,Why are you blushing? Weirdo.
-Dialogue: 0,0:19:13.80,0:19:16.90,Default,,0,0,0,,You wouldn't understand.\NIt's very hot.
-Dialogue: 0,0:19:18.15,0:19:19.44,Default,,0,0,0,,I love you!
+Dialogue: 0,0:00:04.11,0:00:06.17,saint tail default,,0,0,0,,Someone help me!
+Dialogue: 0,0:00:06.32,0:00:07.81,saint tail default,,0,0,0,,It's St. Tail!
+Dialogue: 0,0:00:08.46,0:00:10.36,saint tail default,,0,0,0,,She's heading for the\Nexit on the first floor!
+Dialogue: 0,0:00:12.10,0:00:14.76,saint tail default,,0,0,0,,Just as I suspected.\NI know she'll come out this way!
+Dialogue: 0,0:00:18.81,0:00:19.74,saint tail default,,0,0,0,,Here she comes!
+Dialogue: 0,0:00:21.35,0:00:22.78,saint tail default,,0,0,0,,I've got you now, St. Tail!
+Dialogue: 0,0:00:25.99,0:00:26.96,saint tail default,,0,0,0,,Darn it!
+Dialogue: 0,0:00:27.13,0:00:27.99,saint tail default,,0,0,0,,Asuka!
+Dialogue: 0,0:00:30.67,0:00:31.83,saint tail default,,0,0,0,,Takamiya!
+Dialogue: 0,0:00:31.91,0:00:33.10,saint tail default,,0,0,0,,Better luck next time!
+Dialogue: 0,0:00:34.81,0:00:36.11,saint tail default,,0,0,0,,Be seeing you!
+Dialogue: 0,0:00:36.62,0:00:39.25,saint tail default,,0,0,0,,She's getting away again! Darn it!
+Dialogue: 0,0:00:44.84,0:00:46.74,saint tail default,,0,0,0,,Dolphins Vs. Eagles
+Dialogue: 0,0:00:48.28,0:00:50.18,saint tail default,,0,0,0,,St. Tail dropped these?
+Dialogue: 0,0:00:53.12,0:00:58.02,saint tail default,,0,0,0,,Pinch!\NBeware of Lost Objects
+Dialogue: 0,0:01:13.80,0:01:15.66,saint tail default,,0,0,0,,My form's not all that bad.
+Dialogue: 0,0:01:23.96,0:01:24.75,saint tail default,,0,0,0,,Sorry.
+Dialogue: 0,0:01:25.43,0:01:26.89,saint tail default,,0,0,0,,I shouldn't have\Ndone that in the chapel.
+Dialogue: 0,0:01:27.16,0:01:27.92,saint tail default,,0,0,0,,It's all right.
+Dialogue: 0,0:01:28.40,0:01:29.37,saint tail default,,0,0,0,,Excuse me.
+Dialogue: 0,0:01:32.21,0:01:35.80,saint tail default,,0,0,0,,Oh! Are you Oikawa, the pitcher\Nfor the Southern Rainbow Dolphins?
+Dialogue: 0,0:01:36.18,0:01:37.65,saint tail default,,0,0,0,,You know me?
+Dialogue: 0,0:01:38.12,0:01:40.68,saint tail default,,0,0,0,,Of course, you're a celebrity!
+Dialogue: 0,0:01:42.20,0:01:46.63,saint tail default,,0,0,0,,I was until last month.\NI'm on a losing streak now.
+Dialogue: 0,0:01:47.11,0:01:49.84,saint tail default,,0,0,0,,Don't give up.\NMy prayers are with you.
+Dialogue: 0,0:01:51.35,0:01:52.25,saint tail default,,0,0,0,,Thanks.
+Dialogue: 0,0:01:52.92,0:01:55.65,saint tail default,,0,0,0,,And what brings you here today?
+Dialogue: 0,0:01:56.89,0:01:58.29,saint tail default,,0,0,0,,Oh, nothing.
+Dialogue: 0,0:01:59.57,0:02:02.97,saint tail default,,0,0,0,,I may not be of much help...
+Dialogue: 0,0:02:03.41,0:02:05.60,saint tail default,,0,0,0,,you can share your troubles with me.
+Dialogue: 0,0:02:10.39,0:02:17.13,saint tail default,,0,0,0,,The truth is I lost my lucky glove.
+Dialogue: 0,0:02:17.41,0:02:17.93,saint tail default,,0,0,0,,What?!
+Dialogue: 0,0:02:23.82,0:02:25.95,saint tail default,,0,0,0,,Strike three! You're out!
+Dialogue: 0,0:02:27.76,0:02:33.39,saint tail default,,0,0,0,,The daughter of our owner's\Nfriend wanted my autograph.
+Dialogue: 0,0:02:37.95,0:02:39.28,saint tail default,,0,0,0,,May I have your autograph?
+Dialogue: 0,0:02:41.39,0:02:42.38,saint tail default,,0,0,0,,Sure thing.
+Dialogue: 0,0:02:43.36,0:02:47.30,saint tail default,,0,0,0,,I asked her to hold the glove\Nwhile I signed her board.
+Dialogue: 0,0:02:50.31,0:02:56.55,saint tail default,,0,0,0,,But then, both she and\Nmy glove disappeared.
+Dialogue: 0,0:02:59.00,0:03:02.36,saint tail default,,0,0,0,,This was the glove I had used\Nwhen I pitched a no-hitter.
+Dialogue: 0,0:03:03.04,0:03:06.27,saint tail default,,0,0,0,,It brought me luck, and\NI'd been using it ever since.
+Dialogue: 0,0:03:06.71,0:03:07.34,saint tail default,,0,0,0,,I see.
+Dialogue: 0,0:03:08.05,0:03:12.15,saint tail default,,0,0,0,,Our next game is for the championship.
+Dialogue: 0,0:03:13.00,0:03:17.43,saint tail default,,0,0,0,,I came here to pray for her to return it.
+Dialogue: 0,0:03:17.94,0:03:19.74,saint tail default,,0,0,0,,When is the game?
+Dialogue: 0,0:03:20.68,0:03:24.38,saint tail default,,0,0,0,,This Sunday, against the Eagles.
+Dialogue: 0,0:03:26.89,0:03:32.73,saint tail default,,0,0,0,,Have faith, the Lord\Nis looking out for you.
+Dialogue: 0,0:03:35.61,0:03:40.57,saint tail default,,0,0,0,,...and that's why I want you\Nto get his glove back.
+Dialogue: 0,0:03:41.36,0:03:43.12,saint tail default,,0,0,0,,OK, Seira.
+Dialogue: 0,0:03:43.46,0:03:44.93,saint tail default,,0,0,0,,The truth is...
+Dialogue: 0,0:03:46.60,0:03:48.23,saint tail default,,0,0,0,,...ta-da!
+Dialogue: 0,0:03:49.24,0:03:52.11,saint tail default,,0,0,0,,I've got tickets to Sunday's game!
+Dialogue: 0,0:03:54.99,0:03:57.35,saint tail default,,0,0,0,,What? Oh no!
+Dialogue: 0,0:03:58.63,0:03:59.79,saint tail default,,0,0,0,,What's wrong?
+Dialogue: 0,0:04:00.33,0:04:03.60,saint tail default,,0,0,0,,I lost the tickets to\Nthe Dolphins game!
+Dialogue: 0,0:04:03.91,0:04:06.97,saint tail default,,0,0,0,,I didn't know you\Nwere a baseball fan.
+Dialogue: 0,0:04:08.98,0:04:12.18,saint tail default,,0,0,0,,No, it's not for me.
+Dialogue: 0,0:04:12.63,0:04:16.46,saint tail default,,0,0,0,,Remember math class the other day?
+Dialogue: 0,0:04:18.27,0:04:20.24,saint tail default,,0,0,0,,Your score is terrible!
+Dialogue: 0,0:04:23.55,0:04:25.21,saint tail default,,0,0,0,,If you score below 30 again...
+Dialogue: 0,0:04:25.25,0:04:27.81,saint tail default,,0,0,0,,I'll revoke your recess and\Nyou'll have to go to study hall.
+Dialogue: 0,0:04:28.13,0:04:28.82,saint tail default,,0,0,0,,What?
+Dialogue: 0,0:04:30.20,0:04:31.19,saint tail default,,0,0,0,,Tough luck!
+Dialogue: 0,0:04:31.57,0:04:32.40,saint tail default,,0,0,0,,Mister Asuka!
+Dialogue: 0,0:04:32.57,0:04:33.19,saint tail default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:04:33.71,0:04:35.94,saint tail default,,0,0,0,,I want you to tutor Miss Haneoka.
+Dialogue: 0,0:04:36.21,0:04:36.90,saint tail default,,0,0,0,,What?!
+Dialogue: 0,0:04:37.55,0:04:40.35,saint tail default,,0,0,0,,Having an honor student\Ntutor her should help.
+Dialogue: 0,0:04:41.02,0:04:43.08,saint tail default,,0,0,0,,-Oh, no! Not him!\N-Oh, no! Not her!
+Dialogue: 0,0:04:44.10,0:04:49.09,saint tail default,,0,0,0,,Enough of that! This is not\Na request, it's an order!
+Dialogue: 0,0:04:50.24,0:04:54.41,saint tail default,,0,0,0,,I don't quite remember the incident,\Nbut how lucky for you.
+Dialogue: 0,0:04:54.52,0:04:59.08,saint tail default,,0,0,0,,That's not luck! Do you know\Nwhat he did after class?
+Dialogue: 0,0:05:00.56,0:05:05.50,saint tail default,,0,0,0,,You know, I'd really like to see the\Nnext Dolphins game at the Big Dome.
+Dialogue: 0,0:05:07.61,0:05:11.71,saint tail default,,0,0,0,,Let's make a deal, Miss Haneoka.
+Dialogue: 0,0:05:12.12,0:05:14.45,saint tail default,,0,0,0,,Are you telling me to treat you?
+Dialogue: 0,0:05:15.10,0:05:18.50,saint tail default,,0,0,0,,Or you can stay in\Nstudy hall during recess.
+Dialogue: 0,0:05:18.54,0:05:19.20,saint tail default,,0,0,0,,See you.
+Dialogue: 0,0:05:19.31,0:05:21.54,saint tail default,,0,0,0,,No, no! It'll be my\Npleasure to treat you!
+Dialogue: 0,0:05:23.82,0:05:27.05,saint tail default,,0,0,0,,The creep had me cornered!
+Dialogue: 0,0:05:27.46,0:05:28.98,saint tail default,,0,0,0,,So you have a date with him.
+Dialogue: 0,0:05:30.26,0:05:32.86,saint tail default,,0,0,0,,You must be looking\Nforward to Sunday.
+Dialogue: 0,0:05:33.34,0:05:35.13,saint tail default,,0,0,0,,Don't be ridiculous!
+Dialogue: 0,0:05:35.31,0:05:36.80,saint tail default,,0,0,0,,It was blackmail.
+Dialogue: 0,0:05:37.18,0:05:40.74,saint tail default,,0,0,0,,I had to beg Papa for the tickets!
+Dialogue: 0,0:05:42.76,0:05:46.19,saint tail default,,0,0,0,,And after all that, I've lost them.
+Dialogue: 0,0:05:48.60,0:05:50.94,saint tail default,,0,0,0,,What should I do, Seira?!
+Dialogue: 0,0:05:51.68,0:05:54.80,saint tail default,,0,0,0,,Well, anyway, let's go\Nlook for them tomorrow.
+Dialogue: 0,0:05:57.99,0:05:59.92,saint tail default,,0,0,0,,Tickets to the Dolphins game?
+Dialogue: 0,0:06:00.73,0:06:03.22,saint tail default,,0,0,0,,I must have dropped them.\NHave you seen them around?
+Dialogue: 0,0:06:03.60,0:06:04.57,saint tail default,,0,0,0,,No.
+Dialogue: 0,0:06:04.77,0:06:06.03,saint tail default,,0,0,0,,Neither have I.
+Dialogue: 0,0:06:06.21,0:06:07.47,saint tail default,,0,0,0,,Too bad.
+Dialogue: 0,0:06:07.65,0:06:09.44,saint tail default,,0,0,0,,The Dolphins are so popular.
+Dialogue: 0,0:06:09.78,0:06:11.94,saint tail default,,0,0,0,,I doubt you'll get more tickets.
+Dialogue: 0,0:06:12.46,0:06:15.69,saint tail default,,0,0,0,,Shh! Don't talk so loud.\NHe might hear you!
+Dialogue: 0,0:06:16.03,0:06:16.93,saint tail default,,0,0,0,,Hey, Haneoka!
+Dialogue: 0,0:06:17.83,0:06:22.10,saint tail default,,0,0,0,,Don't forget about Sunday and\NI promise you'll score 100 on the test.
+Dialogue: 0,0:06:25.99,0:06:29.28,saint tail default,,0,0,0,,She promised to take\NAsuka to that game.
+Dialogue: 0,0:06:29.79,0:06:30.92,saint tail default,,0,0,0,,What?!
+Dialogue: 0,0:06:31.43,0:06:32.73,saint tail default,,0,0,0,,You're going with him?
+Dialogue: 0,0:06:32.97,0:06:35.60,saint tail default,,0,0,0,,You two are always fighting!\NWhat gives?
+Dialogue: 0,0:06:35.87,0:06:39.24,saint tail default,,0,0,0,,It's not like that!\NI can explain!
+Dialogue: 0,0:06:40.02,0:06:41.31,saint tail default,,0,0,0,,Oh?
+Dialogue: 0,0:06:41.75,0:06:45.15,saint tail default,,0,0,0,,Um, anyway, I lost the tickets!
+Dialogue: 0,0:06:48.27,0:06:52.64,saint tail default,,0,0,0,,The tickets St. Tail dropped,\Nand the tickets Haneoka lost...
+Dialogue: 0,0:06:53.14,0:06:57.24,saint tail default,,0,0,0,,are for the same Dolphins\Ngame. Could she be...
+Dialogue: 0,0:07:08.78,0:07:12.01,saint tail default,,0,0,0,,Now I remember! I had them\Nwith me on that last caper!
+Dialogue: 0,0:07:17.73,0:07:21.69,saint tail default,,0,0,0,,That's it, I must have lost them\Nwhile I was escaping.
+Dialogue: 0,0:07:28.86,0:07:32.76,saint tail default,,0,0,0,,Good show, Meimi!
+Dialogue: 0,0:07:32.93,0:07:34.33,saint tail default,,0,0,0,,That was a 10!
+Dialogue: 0,0:07:34.90,0:07:37.93,saint tail default,,0,0,0,,No, I just got lucky, that's all.
+Dialogue: 0,0:07:39.65,0:07:41.31,saint tail default,,0,0,0,,I think I overdid it.
+Dialogue: 0,0:07:41.85,0:07:48.16,saint tail default,,0,0,0,,Such technique...\NQuite extraordinary. It must be her.
+Dialogue: 0,0:07:48.67,0:07:49.66,saint tail default,,0,0,0,,There it goes!
+Dialogue: 0,0:07:51.24,0:07:52.60,saint tail default,,0,0,0,,Get it, Asuka!
+Dialogue: 0,0:08:00.73,0:08:03.02,saint tail default,,0,0,0,,Who picked him to be goal keeper?
+Dialogue: 0,0:08:03.33,0:08:05.13,saint tail default,,0,0,0,,Asuka, are you alive?
+Dialogue: 0,0:08:05.74,0:08:08.57,saint tail default,,0,0,0,,Hey, what's this?
+Dialogue: 0,0:08:09.68,0:08:11.70,saint tail default,,0,0,0,,"Tonight, I will enter\Nthe Uehara residence...
+Dialogue: 0,0:08:11.75,0:08:15.69,saint tail default,,0,0,0,,for pitcher Oikawa's glove.\NSigned, St. Tail."
+Dialogue: 0,0:08:16.86,0:08:20.06,saint tail default,,0,0,0,,Hey, Asuka, it's a\Nchallenge from St. Tail.
+Dialogue: 0,0:08:21.10,0:08:22.50,saint tail default,,0,0,0,,Do you hear me?
+Dialogue: 0,0:08:23.24,0:08:24.83,saint tail default,,0,0,0,,Snap out of it, Asuka!
+Dialogue: 0,0:08:25.18,0:08:27.94,saint tail default,,0,0,0,,I just don't get it,\Nboth St. Tail and Takamiya!
+Dialogue: 0,0:08:27.99,0:08:30.35,saint tail default,,0,0,0,,Why are they always after this guy?
+Dialogue: 0,0:08:30.76,0:08:32.35,saint tail default,,0,0,0,,Pay attention, will you?
+Dialogue: 0,0:08:32.86,0:08:35.89,saint tail default,,0,0,0,,Meimi Haneoka...\Nyou're mighty suspicious.
+Dialogue: 0,0:08:38.11,0:08:40.41,saint tail default,,0,0,0,,Now, to go look for those tickets...
+Dialogue: 0,0:08:42.28,0:08:44.05,saint tail default,,0,0,0,,Where do you think you're going?
+Dialogue: 0,0:08:44.39,0:08:46.38,saint tail default,,0,0,0,,I... I have to go somewhere.
+Dialogue: 0,0:08:47.23,0:08:51.19,saint tail default,,0,0,0,,No way!\NThe test is tomorrow!
+Dialogue: 0,0:09:04.13,0:09:09.16,saint tail default,,0,0,0,,Solving trigonometry problems\Nis like a criminal investigation.
+Dialogue: 0,0:09:09.81,0:09:14.15,saint tail default,,0,0,0,,You find each and every clue,\Nfit them into place, until...
+Dialogue: 0,0:09:14.19,0:09:16.09,saint tail default,,0,0,0,,Bam! See, you've\Nsolved the problem.
+Dialogue: 0,0:09:16.26,0:09:18.35,saint tail default,,0,0,0,,Is detective work all\Nyou ever think about?
+Dialogue: 0,0:09:18.86,0:09:20.96,saint tail default,,0,0,0,,Mathematics is one of the\Nfoundations of detective work!
+Dialogue: 0,0:09:23.07,0:09:25.94,saint tail default,,0,0,0,,Is arresting St. Tail\Nthat important to you?
+Dialogue: 0,0:09:31.16,0:09:32.82,saint tail default,,0,0,0,,Well, is it?
+Dialogue: 0,0:09:33.36,0:09:35.02,saint tail default,,0,0,0,,None of your business.
+Dialogue: 0,0:09:35.70,0:09:36.86,saint tail default,,0,0,0,,What's that mean?!
+Dialogue: 0,0:09:37.54,0:09:39.56,saint tail default,,0,0,0,,It's between St. Tail and me!
+Dialogue: 0,0:09:40.38,0:09:42.44,saint tail default,,0,0,0,,Why can't you tell me?
+Dialogue: 0,0:09:48.53,0:09:49.39,saint tail default,,0,0,0,,Sorry.
+Dialogue: 0,0:09:50.20,0:09:54.33,saint tail default,,0,0,0,,Now, the next problem...\NThe angle of a figure on a flat plane...
+Dialogue: 0,0:09:54.44,0:10:00.31,saint tail default,,0,0,0,,all the points at a given distance...
+Dialogue: 0,0:10:00.79,0:10:01.78,saint tail default,,0,0,0,,Hey! Hey!
+Dialogue: 0,0:10:02.16,0:10:06.39,saint tail default,,0,0,0,,Miss Haneoka!\NI'd like to speak to you.
+Dialogue: 0,0:10:13.89,0:10:16.65,saint tail default,,0,0,0,,What is it, Miss Takamiya?
+Dialogue: 0,0:10:20.40,0:10:21.26,saint tail default,,0,0,0,,Here.
+Dialogue: 0,0:10:22.91,0:10:25.17,saint tail default,,0,0,0,,Aren't these yours?
+Dialogue: 0,0:10:43.45,0:10:46.91,saint tail default,,0,0,0,,Actually I found these the other night.
+Dialogue: 0,0:10:48.90,0:10:51.33,saint tail default,,0,0,0,,Do you want to know\Nwhere I found them?
+Dialogue: 0,0:10:56.91,0:11:01.91,saint tail default,,0,0,0,,Um, thanks, but these aren't mine.
+Dialogue: 0,0:11:03.33,0:11:04.92,saint tail default,,0,0,0,,Oh, really?
+Dialogue: 0,0:11:05.23,0:11:08.10,saint tail default,,0,0,0,,Well then, I guess I'll\Nkeep them for myself.
+Dialogue: 0,0:11:11.81,0:11:14.87,saint tail default,,0,0,0,,Asuka is a big Dolphins fan, right?
+Dialogue: 0,0:11:16.19,0:11:20.46,saint tail default,,0,0,0,,I'm sure he'll be happy to go,\Nif I ask him. Bye!
+Dialogue: 0,0:11:22.77,0:11:24.03,saint tail default,,0,0,0,,Rats!
+Dialogue: 0,0:11:24.81,0:11:26.11,saint tail default,,0,0,0,,What'll I do?
+Dialogue: 0,0:11:26.18,0:11:29.55,saint tail default,,0,0,0,,The game's this Sunday\Nand I don't have the tickets!
+Dialogue: 0,0:11:30.92,0:11:34.25,saint tail default,,0,0,0,,And of all people,\Nwhy'd Rina have to find them?
+Dialogue: 0,0:11:36.27,0:11:38.36,saint tail default,,0,0,0,,I've got to get those tickets back.
+Dialogue: 0,0:11:39.21,0:11:42.64,saint tail default,,0,0,0,,But I could get caught. Still...
+Dialogue: 0,0:11:45.15,0:11:46.12,saint tail default,,0,0,0,,Still...
+Dialogue: 0,0:11:47.12,0:11:48.59,saint tail default,,0,0,0,,Don't forget!
+Dialogue: 0,0:11:49.86,0:11:54.96,saint tail default,,0,0,0,,He was so excited about going.\NI can't just tell him it's off.
+Dialogue: 0,0:11:57.51,0:12:02.38,saint tail default,,0,0,0,,I said no! This is mine and\NI'm not letting anyone take it!
+Dialogue: 0,0:12:02.79,0:12:06.49,saint tail default,,0,0,0,,But you have to put\Nthe glove on that table.
+Dialogue: 0,0:12:06.70,0:12:07.50,saint tail default,,0,0,0,,No!
+Dialogue: 0,0:12:07.67,0:12:10.80,saint tail default,,0,0,0,,What's so important about this table?
+Dialogue: 0,0:12:11.14,0:12:12.61,saint tail default,,0,0,0,,Don't!
+Dialogue: 0,0:12:17.46,0:12:19.32,saint tail default,,0,0,0,,What is this stuff?
+Dialogue: 0,0:12:19.73,0:12:25.76,saint tail default,,0,0,0,,A special fluorescent paint.\NI'm using it to expose St. Tail.
+Dialogue: 0,0:12:26.24,0:12:29.44,saint tail default,,0,0,0,,Why are you so obsessed\Nwith St. Tail, anyway?
+Dialogue: 0,0:12:30.05,0:12:32.85,saint tail default,,0,0,0,,I told you, I'm going to\Nbecome a detective...
+Dialogue: 0,0:12:33.13,0:12:35.75,saint tail default,,0,0,0,,and I'm not letting that ridiculous\Npetty thief get the best of me!
+Dialogue: 0,0:12:36.87,0:12:38.60,saint tail default,,0,0,0,,A ridiculous petty thief, eh?
+Dialogue: 0,0:12:39.51,0:12:41.50,saint tail default,,0,0,0,,Give it to me!
+Dialogue: 0,0:12:41.58,0:12:42.37,saint tail default,,0,0,0,,No!
+Dialogue: 0,0:12:43.48,0:12:48.85,saint tail default,,0,0,0,,I've got a great idea.\NThis time, we do a double-cross!
+Dialogue: 0,0:12:49.76,0:12:53.60,saint tail default,,0,0,0,,Oh, Lord, forgive me, for\NI use no gimmick or trick.
+Dialogue: 0,0:12:59.85,0:13:00.75,saint tail default,,0,0,0,,One!
+Dialogue: 0,0:13:03.26,0:13:04.35,saint tail default,,0,0,0,,Two!
+Dialogue: 0,0:13:06.70,0:13:08.67,saint tail default,,0,0,0,,Three!
+Dialogue: 0,0:13:23.10,0:13:26.80,saint tail default,,0,0,0,,May the blessings of God be with us.
+Dialogue: 0,0:13:28.18,0:13:30.91,saint tail default,,0,0,0,,Be careful, remember\Nyour last caper.
+Dialogue: 0,0:13:31.22,0:13:31.95,saint tail default,,0,0,0,,I will.
+Dialogue: 0,0:13:42.64,0:13:44.01,saint tail default,,0,0,0,,We've got you!
+Dialogue: 0,0:13:44.72,0:13:46.24,saint tail default,,0,0,0,,The real glove is at the Big Dome!
+Dialogue: 0,0:13:46.65,0:13:47.64,saint tail default,,0,0,0,,Grab her!
+Dialogue: 0,0:13:48.96,0:13:50.08,saint tail default,,0,0,0,,Did we get her?
+Dialogue: 0,0:13:50.19,0:13:50.99,saint tail default,,0,0,0,,Sure did!
+Dialogue: 0,0:13:51.26,0:13:52.46,saint tail default,,0,0,0,,Turn on the lights!
+Dialogue: 0,0:13:53.57,0:13:56.04,saint tail default,,0,0,0,,What?!?\NIt's a dummy!
+Dialogue: 0,0:14:00.25,0:14:02.34,saint tail default,,0,0,0,,Damn! She got past us again!
+Dialogue: 0,0:14:03.89,0:14:05.32,saint tail default,,0,0,0,,So, it was a trap.
+Dialogue: 0,0:14:07.93,0:14:12.87,saint tail default,,0,0,0,,Oikawa's glove, huh?\NBoy, you're lucky that I'm a big fan.
+Dialogue: 0,0:14:13.18,0:14:15.67,saint tail default,,0,0,0,,Too bad, you can't have it!
+Dialogue: 0,0:14:18.19,0:14:19.38,saint tail default,,0,0,0,,Asuka...
+Dialogue: 0,0:14:20.36,0:14:24.66,saint tail default,,0,0,0,,I have tickets to the Dolphins game.
+Dialogue: 0,0:14:25.71,0:14:26.93,saint tail default,,0,0,0,,Takamiya!
+Dialogue: 0,0:14:27.91,0:14:29.34,saint tail default,,0,0,0,,Will... will you go with me?
+Dialogue: 0,0:14:33.46,0:14:36.98,saint tail default,,0,0,0,,Sorry, but I'm already\Ngoing with Haneoka.
+Dialogue: 0,0:14:40.94,0:14:47.00,saint tail default,,0,0,0,,Oh, really? I just hope she\Nremembers her promise.
+Dialogue: 0,0:14:47.09,0:14:47.68,saint tail default,,0,0,0,,What?
+Dialogue: 0,0:14:48.82,0:14:52.42,saint tail default,,0,0,0,,I know who St. Tail is.
+Dialogue: 0,0:14:54.84,0:14:56.67,saint tail default,,0,0,0,,Shall I tell you?
+Dialogue: 0,0:14:57.24,0:14:58.40,saint tail default,,0,0,0,,Oh no!
+Dialogue: 0,0:15:09.57,0:15:10.54,saint tail default,,0,0,0,,No!
+Dialogue: 0,0:15:13.14,0:15:14.58,saint tail default,,0,0,0,,Don't you want to know?
+Dialogue: 0,0:15:15.31,0:15:17.28,saint tail default,,0,0,0,,I just want to capture her.
+Dialogue: 0,0:15:25.54,0:15:28.87,saint tail default,,0,0,0,,I don't care who she is. I just\Nwant to capture her on my own!
+Dialogue: 0,0:15:34.36,0:15:38.85,saint tail default,,0,0,0,,A breeze?\NThe dome roof is...!
+Dialogue: 0,0:15:50.39,0:15:51.62,saint tail default,,0,0,0,,St. Tail!
+Dialogue: 0,0:15:52.16,0:15:53.22,saint tail default,,0,0,0,,Good evening!
+Dialogue: 0,0:15:54.13,0:15:56.00,saint tail default,,0,0,0,,How'd you know we were here?
+Dialogue: 0,0:15:56.37,0:15:58.53,saint tail default,,0,0,0,,Never mind that, quickly, arrest her!
+Dialogue: 0,0:15:58.88,0:16:00.40,saint tail default,,0,0,0,,And here's the first pitch!
+Dialogue: 0,0:16:00.68,0:16:03.51,saint tail default,,0,0,0,,It's Show Time!
+Dialogue: 0,0:16:03.85,0:16:04.75,saint tail default,,0,0,0,,Help!
+Dialogue: 0,0:16:05.32,0:16:07.22,saint tail default,,0,0,0,,And we're already in the 7th inning.
+Dialogue: 0,0:16:18.22,0:16:20.28,saint tail default,,0,0,0,,Asuka, do something!
+Dialogue: 0,0:16:21.26,0:16:22.85,saint tail default,,0,0,0,,It's out of my hands.
+Dialogue: 0,0:16:24.00,0:16:26.02,saint tail default,,0,0,0,,I'm sorry!
+Dialogue: 0,0:16:26.30,0:16:28.10,saint tail default,,0,0,0,,Oh, be quiet! Stop your bawling.
+Dialogue: 0,0:16:28.41,0:16:31.24,saint tail default,,0,0,0,,All right, let's end\Nthe game, shall we?
+Dialogue: 0,0:16:32.42,0:16:33.08,saint tail default,,0,0,0,,One!
+Dialogue: 0,0:16:33.12,0:16:33.68,saint tail default,,0,0,0,,Two!
+Dialogue: 0,0:16:33.72,0:16:34.52,saint tail default,,0,0,0,,Three!
+Dialogue: 0,0:16:47.88,0:16:50.65,saint tail default,,0,0,0,,I'm giving this back\Nto pitcher Oikawa.
+Dialogue: 0,0:16:51.12,0:16:54.29,saint tail default,,0,0,0,,You may be his fan,\Nbut taking his glove was wrong!
+Dialogue: 0,0:16:54.83,0:16:55.56,saint tail default,,0,0,0,,What?
+Dialogue: 0,0:16:55.90,0:16:58.53,saint tail default,,0,0,0,,She stole the glove?
+Dialogue: 0,0:16:59.04,0:17:01.01,saint tail default,,0,0,0,,I'll never do it again.
+Dialogue: 0,0:17:01.92,0:17:05.98,saint tail default,,0,0,0,,And I'll take these back, too!
+Dialogue: 0,0:17:07.69,0:17:08.49,saint tail default,,0,0,0,,Darn.
+Dialogue: 0,0:17:09.43,0:17:11.02,saint tail default,,0,0,0,,St. Tail! Wait!
+Dialogue: 0,0:17:24.60,0:17:25.62,saint tail default,,0,0,0,,Goodbye!
+Dialogue: 0,0:17:31.51,0:17:34.24,saint tail default,,0,0,0,,Thank you, my love.
+Dialogue: 0,0:17:41.44,0:17:43.87,saint tail default,,0,0,0,,Man! How many times\Ndo I have to tell you?
+Dialogue: 0,0:17:44.11,0:17:47.20,saint tail default,,0,0,0,,Listen, meet me at gate #2!
+Dialogue: 0,0:17:47.72,0:17:50.18,saint tail default,,0,0,0,,You listen! I don't know\Nwhere gate #2 is!
+Dialogue: 0,0:17:50.76,0:17:53.35,saint tail default,,0,0,0,,I told you, it's the\Nentrance on the North end!
+Dialogue: 0,0:17:53.70,0:17:55.63,saint tail default,,0,0,0,,And which side is North?!
+Dialogue: 0,0:17:58.00,0:18:03.10,saint tail default,,0,0,0,,Meimi Haneoka,\NI'll get you next time.
+Dialogue: 0,0:18:04.62,0:18:08.45,saint tail default,,0,0,0,,And the championship game between\Nthe Dolphins and the Eagles...
+Dialogue: 0,0:18:08.50,0:18:09.66,saint tail default,,0,0,0,,is about to start!
+Dialogue: 0,0:18:10.73,0:18:14.22,saint tail default,,0,0,0,,On the mound is Oikawa, who hasn't\Nbeen doing too well the past few games.
+Dialogue: 0,0:18:14.37,0:18:17.04,saint tail default,,0,0,0,,Let's see what he has\Nin store for us today.
+Dialogue: 0,0:18:24.13,0:18:25.53,saint tail default,,0,0,0,,Steerike!
+Dialogue: 0,0:18:27.47,0:18:29.40,saint tail default,,0,0,0,,Strike! You're out!
+Dialogue: 0,0:18:30.41,0:18:31.64,saint tail default,,0,0,0,,What a fastball!
+Dialogue: 0,0:18:32.05,0:18:34.91,saint tail default,,0,0,0,,Three strikes! Looks like\NOikawa is out of his slump.
+Dialogue: 0,0:18:35.52,0:18:36.54,saint tail default,,0,0,0,,All right!
+Dialogue: 0,0:18:40.13,0:18:43.07,saint tail default,,0,0,0,,Oikawa has struck out\Nthree batters in this inning.
+Dialogue: 0,0:18:44.64,0:18:47.30,saint tail default,,0,0,0,,He's really looking good!
+Dialogue: 0,0:18:47.65,0:18:48.44,saint tail default,,0,0,0,,Sure is.
+Dialogue: 0,0:18:58.64,0:19:02.27,saint tail default,,0,0,0,,No! I just want to\Ncapture her on my own!
+Dialogue: 0,0:19:05.49,0:19:07.25,saint tail default,,0,0,0,,I guess we have to thank St. Tail.
+Dialogue: 0,0:19:09.06,0:19:12.69,saint tail default,,0,0,0,,Why are you blushing? Weirdo.
+Dialogue: 0,0:19:13.80,0:19:16.90,saint tail default,,0,0,0,,You wouldn't understand.\NIt's very hot.
+Dialogue: 0,0:19:18.15,0:19:19.44,saint tail default,,0,0,0,,I love you!

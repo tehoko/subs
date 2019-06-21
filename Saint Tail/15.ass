@@ -13,240 +13,244 @@ Video File: source/15.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,2.0,2.0,2,10,10,10,1
+Style: saint tail default,Calibri,80,&H00FBFBFB,&H000000FF,&H00373737,&H80373737,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,2,50,50,50,1
+Style: saint tail sign,Calibri,75,&H00D4FFED,&H000000FF,&H006E8E22,&HC7000000,-1,-1,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,8,50,50,50,1
+Style: saint tail title,Campanile,150,&H00EDE6FF,&H000000FF,&H009457EA,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
+Style: saint tail op en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
+Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,70,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.30,0:00:08.86,Default,,0,0,0,,You can't beat a hot bun\Nin winter, can you?
-Dialogue: 0,0:00:09.34,0:00:11.07,Default,,0,0,0,,Mmm. It's the best!
-Dialogue: 0,0:00:14.35,0:00:17.44,Default,,0,0,0,,Oh, my. Meimi, that big mouth.\NIt's really un-ladylike!
-Dialogue: 0,0:00:20.09,0:00:21.82,Default,,0,0,0,,Well then, I'll just have another.
-Dialogue: 0,0:00:22.30,0:00:23.27,Default,,0,0,0,,What?!
-Dialogue: 0,0:00:24.54,0:00:25.66,Default,,0,0,0,,It's gone!
-Dialogue: 0,0:00:34.99,0:00:37.39,Default,,0,0,0,,Those are my buns!\NGive them back to me!
-Dialogue: 0,0:00:39.33,0:00:41.46,Default,,0,0,0,,Meimi, wait a minute!
-Dialogue: 0,0:00:43.01,0:00:44.34,Default,,0,0,0,,Hold it!
-Dialogue: 0,0:00:48.05,0:00:50.04,Default,,0,0,0,,Look out!
-Dialogue: 0,0:00:55.33,0:00:57.32,Default,,0,0,0,,Meimi, pull yourself together!
-Dialogue: 0,0:01:00.34,0:01:02.50,Default,,0,0,0,,I'm so glad you're okay.
-Dialogue: 0,0:01:04.22,0:01:06.65,Default,,0,0,0,,What's with that dog?!
-Dialogue: 0,0:01:09.03,0:01:12.29,Default,,0,0,0,,Run After a Jewel Thief!\NLittle, The Naughty Dog
-Dialogue: 0,0:01:15.40,0:01:16.37,Default,,0,0,0,,Little?
-Dialogue: 0,0:01:17.78,0:01:20.54,Default,,0,0,0,,He's quite popular\Nat that park.
-Dialogue: 0,0:01:20.82,0:01:23.72,Default,,0,0,0,,They say he goes off\Nwith whatever he pleases.
-Dialogue: 0,0:01:24.06,0:01:26.55,Default,,0,0,0,,With a name like "Little"\Nand a big body like that...
-Dialogue: 0,0:01:26.63,0:01:28.12,Default,,0,0,0,,what a strange thing to call him.
-Dialogue: 0,0:01:28.20,0:01:31.26,Default,,0,0,0,,But I feel sorry for Little.
-Dialogue: 0,0:01:31.90,0:01:33.00,Default,,0,0,0,,Sorry?
-Dialogue: 0,0:01:34.08,0:01:37.64,Default,,0,0,0,,Little's original owner was\Ntransferred to work abroad...
-Dialogue: 0,0:01:37.68,0:01:39.24,Default,,0,0,0,,because of his job.
-Dialogue: 0,0:01:41.16,0:01:43.68,Default,,0,0,0,,Little was left with a friend...
-Dialogue: 0,0:01:44.16,0:01:46.60,Default,,0,0,0,,but the friend's wife\Ndidn't like him.
-Dialogue: 0,0:01:46.73,0:01:49.43,Default,,0,0,0,,He doesn't get\Nany attention at all.
-Dialogue: 0,0:01:52.31,0:01:53.11,Default,,0,0,0,,I see.
-Dialogue: 0,0:01:54.08,0:01:57.68,Default,,0,0,0,,He's trying to get attention\Nby taking people's things.
-Dialogue: 0,0:02:11.98,0:02:14.35,Default,,0,0,0,,This bun is really delicious.
-Dialogue: 0,0:02:19.93,0:02:21.70,Default,,0,0,0,,Wasn't that good?
-Dialogue: 0,0:02:23.57,0:02:24.34,Default,,0,0,0,,Here...
-Dialogue: 0,0:02:28.89,0:02:29.72,Default,,0,0,0,,Go get it!
-Dialogue: 0,0:02:40.37,0:02:42.50,Default,,0,0,0,,Little! Here we go again!
-Dialogue: 0,0:02:43.05,0:02:44.17,Default,,0,0,0,,Fetch!
-Dialogue: 0,0:02:55.47,0:02:57.03,Default,,0,0,0,,Are you alright?
-Dialogue: 0,0:03:01.28,0:03:02.68,Default,,0,0,0,,Haneoka, what do you\Nthink you're doing?!
-Dialogue: 0,0:03:02.72,0:03:04.78,Default,,0,0,0,,Have you got some kind of\Ngrudge against me?!
-Dialogue: 0,0:03:05.16,0:03:06.22,Default,,0,0,0,,What?!
-Dialogue: 0,0:03:06.26,0:03:08.56,Default,,0,0,0,,It's your fault for reading\Nthe paper while walking!
-Dialogue: 0,0:03:09.10,0:03:12.73,Default,,0,0,0,,I read the paper to gather\Ninformation on St. Tail.
-Dialogue: 0,0:03:12.77,0:03:14.14,Default,,0,0,0,,Not very much help, is it?
-Dialogue: 0,0:03:14.18,0:03:15.73,Default,,0,0,0,,She just keeps slipping\Npast you every time.
-Dialogue: 0,0:03:15.81,0:03:17.18,Default,,0,0,0,,What's that?!
-Dialogue: 0,0:03:17.21,0:03:18.27,Default,,0,0,0,,What about it?!
-Dialogue: 0,0:03:20.42,0:03:23.86,Default,,0,0,0,,The Jewel Thief Appears!
-Dialogue: 0,0:03:29.44,0:03:31.20,Default,,0,0,0,,Hey, you! Wait!
-Dialogue: 0,0:03:35.08,0:03:36.98,Default,,0,0,0,,Hey, I said hold it!
-Dialogue: 0,0:03:39.76,0:03:42.23,Default,,0,0,0,,Darn dog running\Ninto a place like this.
-Dialogue: 0,0:03:47.11,0:03:48.27,Default,,0,0,0,,I see.
-Dialogue: 0,0:03:48.44,0:03:50.97,Default,,0,0,0,,He hides the things\Nhe steals in that hole.
-Dialogue: 0,0:03:51.02,0:03:52.01,Default,,0,0,0,,Little!
-Dialogue: 0,0:03:55.49,0:03:57.58,Default,,0,0,0,,You shouldn't do\Nthings like this!
-Dialogue: 0,0:03:59.73,0:04:00.63,Default,,0,0,0,,Right?
-Dialogue: 0,0:04:02.57,0:04:04.40,Default,,0,0,0,,You two...
-Dialogue: 0,0:04:09.79,0:04:10.84,Default,,0,0,0,,There it is!
-Dialogue: 0,0:04:10.89,0:04:13.82,Default,,0,0,0,,Hey, brother, that's it!\NThe raccoon stuffed-animal.
-Dialogue: 0,0:04:14.50,0:04:16.33,Default,,0,0,0,,I'll go get it back.
-Dialogue: 0,0:04:17.03,0:04:19.66,Default,,0,0,0,,What are you doing?!\NGet to work!
-Dialogue: 0,0:04:19.71,0:04:21.37,Default,,0,0,0,,Ouch! What are you doing, brother?!
-Dialogue: 0,0:04:21.44,0:04:22.67,Default,,0,0,0,,Hey, Mister!
-Dialogue: 0,0:04:23.35,0:04:25.14,Default,,0,0,0,,I'd like this stuffed animal.
-Dialogue: 0,0:04:25.28,0:04:27.05,Default,,0,0,0,,Yes, welcome!
-Dialogue: 0,0:04:27.09,0:04:29.49,Default,,0,0,0,,"Stuffed Toy Shop CHILD"\NHere you are.\NThanks for waiting.
-Dialogue: 0,0:04:37.17,0:04:39.27,Default,,0,0,0,,Little is an innocent, good dog.
-Dialogue: 0,0:04:39.91,0:04:41.78,Default,,0,0,0,,Not the best looking, but...
-Dialogue: 0,0:04:42.18,0:04:45.09,Default,,0,0,0,,Is it possible you're\Njealous of Little and me?
-Dialogue: 0,0:04:46.39,0:04:48.86,Default,,0,0,0,,Don't be stupid.\NI like you best of all.
-Dialogue: 0,0:05:00.75,0:05:02.72,Default,,0,0,0,,Akira, everything will be fine.
-Dialogue: 0,0:05:02.93,0:05:05.90,Default,,0,0,0,,Your prayers will surely\Nreach God.
-Dialogue: 0,0:05:10.77,0:05:16.24,Default,,0,0,0,,That boy, Akira, took the\Nstuffed animal raccoon from Yoko.
-Dialogue: 0,0:05:17.39,0:05:18.91,Default,,0,0,0,,He likes her so much...
-Dialogue: 0,0:05:18.96,0:05:20.93,Default,,0,0,0,,he probably did it\Nto get her attention.
-Dialogue: 0,0:05:24.97,0:05:27.34,Default,,0,0,0,,Akira, regretting what\Nhe had done...
-Dialogue: 0,0:05:27.37,0:05:30.04,Default,,0,0,0,,tried to return the\Nstuffed-animal right away.
-Dialogue: 0,0:05:33.62,0:05:36.28,Default,,0,0,0,,But someone stole the\Nstuffed animal from him.
-Dialogue: 0,0:05:36.66,0:05:38.89,Default,,0,0,0,,Who would do such\Na terrible thing?
-Dialogue: 0,0:05:39.17,0:05:40.56,Default,,0,0,0,,Well, the culprit is a dog.
-Dialogue: 0,0:05:40.63,0:05:41.43,Default,,0,0,0,,A dog?
-Dialogue: 0,0:05:42.04,0:05:44.10,Default,,0,0,0,,Do you mean, Little?
-Dialogue: 0,0:05:45.54,0:05:50.50,Default,,0,0,0,,We know that the stuffed animal\Nis somewhere in that park but...
-Dialogue: 0,0:05:51.26,0:05:52.28,Default,,0,0,0,,Hold it!
-Dialogue: 0,0:05:57.33,0:05:59.03,Default,,0,0,0,,I'll get that stuffed animal.
-Dialogue: 0,0:06:01.11,0:06:02.13,Default,,0,0,0,,Meimi!
-Dialogue: 0,0:06:03.45,0:06:04.67,Default,,0,0,0,,Little!
-Dialogue: 0,0:06:06.32,0:06:08.31,Default,,0,0,0,,Maybe he's not here today?
-Dialogue: 0,0:06:09.66,0:06:10.65,Default,,0,0,0,,That's strange.
-Dialogue: 0,0:06:10.69,0:06:12.22,Default,,0,0,0,,He's not over here, either.
-Dialogue: 0,0:06:12.87,0:06:13.89,Default,,0,0,0,,What?
-Dialogue: 0,0:06:17.27,0:06:19.64,Default,,0,0,0,,The stuffed animal is gone.
-Dialogue: 0,0:06:22.55,0:06:23.92,Default,,0,0,0,,Little!
-Dialogue: 0,0:06:27.76,0:06:29.85,Default,,0,0,0,,Hey! Be quiet!
-Dialogue: 0,0:06:30.53,0:06:31.47,Default,,0,0,0,,You idiot!
-Dialogue: 0,0:06:31.50,0:06:33.63,Default,,0,0,0,,Why did you bring the dog along?!
-Dialogue: 0,0:06:34.41,0:06:35.84,Default,,0,0,0,,What could I do?!
-Dialogue: 0,0:06:35.88,0:06:38.21,Default,,0,0,0,,He wouldn't let go\Nof the stuffed animal!
-Dialogue: 0,0:06:39.59,0:06:40.85,Default,,0,0,0,,Let's just get out of here!
-Dialogue: 0,0:06:55.62,0:06:57.24,Default,,0,0,0,,Little!
-Dialogue: 0,0:06:57.32,0:06:59.31,Default,,0,0,0,,Shut up! I just got\Nthe baby to sleep!
-Dialogue: 0,0:07:00.36,0:07:01.95,Default,,0,0,0,,Oh, it's alright.
-Dialogue: 0,0:07:02.00,0:07:03.59,Default,,0,0,0,,I'm very sorry.
-Dialogue: 0,0:07:04.54,0:07:05.80,Default,,0,0,0,,Little!
-Dialogue: 0,0:07:05.97,0:07:07.34,Default,,0,0,0,,Little, where are you?!
-Dialogue: 0,0:07:24.64,0:07:26.23,Default,,0,0,0,,Hey, be quiet!
-Dialogue: 0,0:07:39.27,0:07:41.21,Default,,0,0,0,,You caused a lot of trouble.
-Dialogue: 0,0:07:43.71,0:07:45.54,Default,,0,0,0,,He's the one that\Nmade the mistake...
-Dialogue: 0,0:07:45.58,0:07:47.35,Default,,0,0,0,,and put the toy out for sale!
-Dialogue: 0,0:07:47.89,0:07:50.76,Default,,0,0,0,,Hey brother, let's stop doing\Nthis stuffed-animal business.
-Dialogue: 0,0:07:51.06,0:07:53.66,Default,,0,0,0,,We're supposed to be jewel thieves.
-Dialogue: 0,0:07:54.03,0:07:55.52,Default,,0,0,0,,You idiot!
-Dialogue: 0,0:07:55.57,0:07:58.90,Default,,0,0,0,,The stuffed animal-toy shop is\Nto camouflage the jewel thefts!
-Dialogue: 0,0:07:59.21,0:08:01.20,Default,,0,0,0,,How dumb can you be?
-Dialogue: 0,0:08:01.25,0:08:02.22,Default,,0,0,0,,Never mind!
-Dialogue: 0,0:08:02.25,0:08:04.31,Default,,0,0,0,,What counts is that\Nthe jewel is back.
-Dialogue: 0,0:08:06.93,0:08:09.42,Default,,0,0,0,,We hide the stolen jewels\Nin the stuffed animals.
-Dialogue: 0,0:08:09.47,0:08:10.59,Default,,0,0,0,,When things cool down...
-Dialogue: 0,0:08:10.63,0:08:12.63,Default,,0,0,0,,we can take them to another\Ncity and pawn 'em off.
-Dialogue: 0,0:08:12.84,0:08:14.47,Default,,0,0,0,,It's a great racket.
-Dialogue: 0,0:08:14.61,0:08:17.08,Default,,0,0,0,,The only thing left\Nis to get rid of the dog.
-Dialogue: 0,0:08:22.52,0:08:24.08,Default,,0,0,0,,You're gonna kill him?!
-Dialogue: 0,0:08:24.20,0:08:25.22,Default,,0,0,0,,That's outrageous!
-Dialogue: 0,0:08:25.43,0:08:27.49,Default,,0,0,0,,Even if he's a dog...
-Dialogue: 0,0:08:27.53,0:08:29.47,Default,,0,0,0,,we can't let anybody\Nwho knows about us get away.
-Dialogue: 0,0:08:37.82,0:08:39.45,Default,,0,0,0,,Little!
-Dialogue: 0,0:08:41.16,0:08:42.96,Default,,0,0,0,,Where has he gone?
-Dialogue: 0,0:08:45.10,0:08:46.93,Default,,0,0,0,,Hold him still!
-Dialogue: 0,0:08:46.97,0:08:49.50,Default,,0,0,0,,Brother, I don't like\Nthis sort of thing!
-Dialogue: 0,0:08:55.26,0:08:56.82,Default,,0,0,0,,You imbecile!
-Dialogue: 0,0:08:57.13,0:08:58.39,Default,,0,0,0,,Sorry.
-Dialogue: 0,0:08:59.23,0:09:00.29,Default,,0,0,0,,After him!
-Dialogue: 0,0:09:01.67,0:09:02.76,Default,,0,0,0,,Little...
-Dialogue: 0,0:09:05.04,0:09:06.10,Default,,0,0,0,,Little!
-Dialogue: 0,0:09:21.14,0:09:22.54,Default,,0,0,0,,Little!
-Dialogue: 0,0:09:22.61,0:09:24.14,Default,,0,0,0,,You're alright, aren't you?!
-Dialogue: 0,0:09:25.98,0:09:27.61,Default,,0,0,0,,Hey, that tickles!
-Dialogue: 0,0:09:31.03,0:09:32.12,Default,,0,0,0,,Hey! Hold it!
-Dialogue: 0,0:09:34.80,0:09:36.79,Default,,0,0,0,,Where have you been all this time?
-Dialogue: 0,0:09:39.45,0:09:40.57,Default,,0,0,0,,Little!
-Dialogue: 0,0:09:43.42,0:09:44.78,Default,,0,0,0,,Yipes! Get out of sight!
-Dialogue: 0,0:09:45.69,0:09:47.28,Default,,0,0,0,,What's the matter?!
-Dialogue: 0,0:09:51.10,0:09:53.09,Default,,0,0,0,,What? Is there something wrong here?
-Dialogue: 0,0:09:55.04,0:09:57.41,Default,,0,0,0,,Okay, okay!
-Dialogue: 0,0:10:05.76,0:10:07.73,Default,,0,0,0,,That's Yoko's raccoon!
-Dialogue: 0,0:10:07.77,0:10:09.36,Default,,0,0,0,,Hey! What are you doing?!
-Dialogue: 0,0:10:12.04,0:10:13.51,Default,,0,0,0,,Little, stop it!
-Dialogue: 0,0:10:14.15,0:10:17.45,Default,,0,0,0,,Ah, may I take a look around\Nin this warehouse?
-Dialogue: 0,0:10:17.95,0:10:20.18,Default,,0,0,0,,This place is off-limits.
-Dialogue: 0,0:10:20.49,0:10:21.39,Default,,0,0,0,,Jerk.
-Dialogue: 0,0:10:21.43,0:10:22.29,Default,,0,0,0,,What's that?!
-Dialogue: 0,0:10:22.66,0:10:23.60,Default,,0,0,0,,Oh, nothing.
-Dialogue: 0,0:10:23.63,0:10:25.16,Default,,0,0,0,,Thank you very much.
-Dialogue: 0,0:10:30.08,0:10:32.27,Default,,0,0,0,,Can we just let\Nthem go like that?
-Dialogue: 0,0:10:33.12,0:10:33.95,Default,,0,0,0,,We've got no choice.
-Dialogue: 0,0:10:33.99,0:10:35.25,Default,,0,0,0,,We'll have to change plans.
-Dialogue: 0,0:10:45.08,0:10:46.17,Default,,0,0,0,,Mr. Asuka Jr.
-Dialogue: 0,0:10:47.88,0:10:49.61,Default,,0,0,0,,St. Tail!
-Dialogue: 0,0:10:56.70,0:11:00.29,Default,,0,0,0,,"I'll be picking up a\Nstuffed-toy raccoon..."
-Dialogue: 0,0:11:00.67,0:11:01.87,Default,,0,0,0,,"from the number one warehouse.\N- St. Tail."
-Dialogue: 0,0:11:02.71,0:11:04.54,Default,,0,0,0,,A stuffed-toy raccoon?
-Dialogue: 0,0:11:05.98,0:11:08.42,Default,,0,0,0,,What's she gonna do\Nwith a thing like that?
-Dialogue: 0,0:11:14.23,0:11:17.69,Default,,0,0,0,,Lord, forgive me,\Nfor I use no gimmick or trick.
-Dialogue: 0,0:11:23.05,0:11:24.04,Default,,0,0,0,,One!
-Dialogue: 0,0:11:26.46,0:11:27.82,Default,,0,0,0,,Two!
-Dialogue: 0,0:11:29.77,0:11:31.86,Default,,0,0,0,,Three!
-Dialogue: 0,0:11:45.33,0:11:49.03,Default,,0,0,0,,Looks like it's necessary for St. Tail\Nto make an appearance after all.
-Dialogue: 0,0:11:49.40,0:11:53.07,Default,,0,0,0,,But I wonder what the raccoon\Nis doing in a place like that?
-Dialogue: 0,0:11:53.85,0:11:57.71,Default,,0,0,0,,That storage area is rumored\Nto be connected with criminal activity.
-Dialogue: 0,0:11:57.75,0:11:59.05,Default,,0,0,0,,Be very careful.
-Dialogue: 0,0:11:59.36,0:12:00.26,Default,,0,0,0,,Sure.
-Dialogue: 0,0:12:00.39,0:12:01.36,Default,,0,0,0,,I'll be fine.
-Dialogue: 0,0:12:01.40,0:12:03.56,Default,,0,0,0,,I'm only going there\Nto get that stuffed animal.
-Dialogue: 0,0:12:05.70,0:12:09.16,Default,,0,0,0,,May the blessings of\NGod be with us!
-Dialogue: 0,0:12:31.56,0:12:34.92,Default,,0,0,0,,Not even St. Tail would be able\Nto get past this security.
-Dialogue: 0,0:12:35.20,0:12:39.06,Default,,0,0,0,,Well, there's no way into the\Nwarehouse other than this door.
-Dialogue: 0,0:12:39.27,0:12:41.10,Default,,0,0,0,,Don't underestimate St. Tail!
-Dialogue: 0,0:12:41.44,0:12:43.00,Default,,0,0,0,,Stay on guard.
-Dialogue: 0,0:12:43.28,0:12:44.21,Default,,0,0,0,,Yes sir!
-Dialogue: 0,0:12:45.22,0:12:46.44,Default,,0,0,0,,Asuka Jr! What's that?!
-Dialogue: 0,0:12:47.72,0:12:48.85,Default,,0,0,0,,What?!
-Dialogue: 0,0:12:54.13,0:12:55.46,Default,,0,0,0,,St. Tail!
-Dialogue: 0,0:12:55.84,0:12:57.63,Default,,0,0,0,,Everyone! Stay at your posts!
-Dialogue: 0,0:12:57.71,0:12:58.54,Default,,0,0,0,,Yes, sir!
-Dialogue: 0,0:13:04.32,0:13:06.81,Default,,0,0,0,,I've got you now, St. Tail!
-Dialogue: 0,0:13:12.64,0:13:14.63,Default,,0,0,0,,A rubber doll?
-Dialogue: 0,0:13:14.98,0:13:16.34,Default,,0,0,0,,Oh, no!
-Dialogue: 0,0:13:18.21,0:13:19.58,Default,,0,0,0,,Asuka Jr!
-Dialogue: 0,0:13:25.76,0:13:26.82,Default,,0,0,0,,One!
-Dialogue: 0,0:13:27.30,0:13:28.43,Default,,0,0,0,,Two!
-Dialogue: 0,0:13:28.47,0:13:29.60,Default,,0,0,0,,Three!
-Dialogue: 0,0:13:36.49,0:13:37.61,Default,,0,0,0,,Darn it!
-Dialogue: 0,0:13:37.69,0:13:39.85,Default,,0,0,0,,St. Tail has gotten\Ninto the warehouse!
-Dialogue: 0,0:13:53.89,0:13:56.95,Default,,0,0,0,,St. Tail, today I'll get\Nyou for sure.
-Dialogue: 0,0:14:03.47,0:14:04.40,Default,,0,0,0,,It's...
-Dialogue: 0,0:14:07.31,0:14:09.01,Default,,0,0,0,,Show...
-Dialogue: 0,0:14:12.26,0:14:13.75,Default,,0,0,0,,Time!
-Dialogue: 0,0:14:18.87,0:14:20.27,Default,,0,0,0,,What's going on?!
-Dialogue: 0,0:14:28.32,0:14:29.29,Default,,0,0,0,,Why?
-Dialogue: 0,0:14:29.62,0:14:31.29,Default,,0,0,0,,Yoko's raccoon isn't here!
-Dialogue: 0,0:14:34.77,0:14:35.96,Default,,0,0,0,,Darn it!
-Dialogue: 0,0:14:36.30,0:14:37.13,Default,,0,0,0,,Oh, no!
-Dialogue: 0,0:14:39.91,0:14:41.71,Default,,0,0,0,,Hold it! St. Tail!
-Dialogue: 0,0:14:44.19,0:14:47.18,Default,,0,0,0,,Where could Yoko's\Nraccoon have gone?
-Dialogue: 0,0:15:03.79,0:15:04.69,Default,,0,0,0,,Little?!
-Dialogue: 0,0:15:05.53,0:15:07.02,Default,,0,0,0,,Why are you here?
-Dialogue: 0,0:15:07.97,0:15:09.23,Default,,0,0,0,,Wait, Little!
-Dialogue: 0,0:15:15.15,0:15:17.14,Default,,0,0,0,,Could the raccoon be here?
-Dialogue: 0,0:15:22.90,0:15:24.23,Default,,0,0,0,,Someone's here!
-Dialogue: 0,0:15:28.51,0:15:29.41,Default,,0,0,0,,Little!
-Dialogue: 0,0:15:30.21,0:15:31.74,Default,,0,0,0,,This is bad! Hide over there!
-Dialogue: 0,0:15:36.66,0:15:37.92,Default,,0,0,0,,You!
-Dialogue: 0,0:15:47.11,0:15:49.24,Default,,0,0,0,,Where are you?! St. Tail!
-Dialogue: 0,0:16:04.31,0:16:05.64,Default,,0,0,0,,You won't get away!
-Dialogue: 0,0:16:11.43,0:16:12.83,Default,,0,0,0,,Thank you, Little.
-Dialogue: 0,0:16:14.83,0:16:15.89,Default,,0,0,0,,Darn it!
-Dialogue: 0,0:16:35.71,0:16:36.87,Default,,0,0,0,,What are you doing?!
-Dialogue: 0,0:17:02.16,0:17:04.32,Default,,0,0,0,,You're jewel thieves, aren't you?
-Dialogue: 0,0:17:06.14,0:17:07.63,Default,,0,0,0,,So what if we are?
-Dialogue: 0,0:17:09.61,0:17:10.44,Default,,0,0,0,,Okay...
-Dialogue: 0,0:17:10.48,0:17:12.47,Default,,0,0,0,,hand that thing over.
-Dialogue: 0,0:17:27.31,0:17:29.30,Default,,0,0,0,,Hurry up and hand it over!
-Dialogue: 0,0:17:34.06,0:17:35.75,Default,,0,0,0,,What! That mutt!
-Dialogue: 0,0:18:21.59,0:18:22.99,Default,,0,0,0,,A diamond!
-Dialogue: 0,0:18:33.28,0:18:34.14,Default,,0,0,0,,You...
-Dialogue: 0,0:18:38.09,0:18:41.49,Default,,0,0,0,,Akira returned the\Nraccoon to Yoko.
-Dialogue: 0,0:18:41.53,0:18:43.59,Default,,0,0,0,,They've really become close.
-Dialogue: 0,0:18:44.17,0:18:46.26,Default,,0,0,0,,The jewel thieves\Nhave been arrested.
-Dialogue: 0,0:18:46.30,0:18:48.29,Default,,0,0,0,,So I guess we can consider\Nthis case closed, right?
-Dialogue: 0,0:18:48.44,0:18:50.43,Default,,0,0,0,,We owe it all to Little, don't we?
-Dialogue: 0,0:18:50.88,0:18:52.87,Default,,0,0,0,,That's right.\NLittle deserves the credit.
-Dialogue: 0,0:19:02.80,0:19:05.40,Default,,0,0,0,,That dog, why was he\Nat the warehouse?
-Dialogue: 0,0:19:07.85,0:19:08.84,Default,,0,0,0,,Little...
-Dialogue: 0,0:19:09.02,0:19:10.28,Default,,0,0,0,,I'll race you to that tree!
-Dialogue: 0,0:19:11.29,0:19:11.98,Default,,0,0,0,,Ready!
-Dialogue: 0,0:19:12.39,0:19:13.22,Default,,0,0,0,,Go!
+Dialogue: 0,0:00:06.30,0:00:08.86,saint tail default,,0,0,0,,You can't beat a hot bun\Nin winter, can you?
+Dialogue: 0,0:00:09.34,0:00:11.07,saint tail default,,0,0,0,,Mmm. It's the best!
+Dialogue: 0,0:00:14.35,0:00:17.44,saint tail default,,0,0,0,,Oh, my. Meimi, that big mouth.\NIt's really un-ladylike!
+Dialogue: 0,0:00:20.09,0:00:21.82,saint tail default,,0,0,0,,Well then, I'll just have another.
+Dialogue: 0,0:00:22.30,0:00:23.27,saint tail default,,0,0,0,,What?!
+Dialogue: 0,0:00:24.54,0:00:25.66,saint tail default,,0,0,0,,It's gone!
+Dialogue: 0,0:00:34.99,0:00:37.39,saint tail default,,0,0,0,,Those are my buns!\NGive them back to me!
+Dialogue: 0,0:00:39.33,0:00:41.46,saint tail default,,0,0,0,,Meimi, wait a minute!
+Dialogue: 0,0:00:43.01,0:00:44.34,saint tail default,,0,0,0,,Hold it!
+Dialogue: 0,0:00:48.05,0:00:50.04,saint tail default,,0,0,0,,Look out!
+Dialogue: 0,0:00:55.33,0:00:57.32,saint tail default,,0,0,0,,Meimi, pull yourself together!
+Dialogue: 0,0:01:00.34,0:01:02.50,saint tail default,,0,0,0,,I'm so glad you're okay.
+Dialogue: 0,0:01:04.22,0:01:06.65,saint tail default,,0,0,0,,What's with that dog?!
+Dialogue: 0,0:01:09.03,0:01:12.29,saint tail default,,0,0,0,,Run After a Jewel Thief!\NLittle, The Naughty Dog
+Dialogue: 0,0:01:15.40,0:01:16.37,saint tail default,,0,0,0,,Little?
+Dialogue: 0,0:01:17.78,0:01:20.54,saint tail default,,0,0,0,,He's quite popular\Nat that park.
+Dialogue: 0,0:01:20.82,0:01:23.72,saint tail default,,0,0,0,,They say he goes off\Nwith whatever he pleases.
+Dialogue: 0,0:01:24.06,0:01:26.55,saint tail default,,0,0,0,,With a name like "Little"\Nand a big body like that...
+Dialogue: 0,0:01:26.63,0:01:28.12,saint tail default,,0,0,0,,what a strange thing to call him.
+Dialogue: 0,0:01:28.20,0:01:31.26,saint tail default,,0,0,0,,But I feel sorry for Little.
+Dialogue: 0,0:01:31.90,0:01:33.00,saint tail default,,0,0,0,,Sorry?
+Dialogue: 0,0:01:34.08,0:01:37.64,saint tail default,,0,0,0,,Little's original owner was\Ntransferred to work abroad...
+Dialogue: 0,0:01:37.68,0:01:39.24,saint tail default,,0,0,0,,because of his job.
+Dialogue: 0,0:01:41.16,0:01:43.68,saint tail default,,0,0,0,,Little was left with a friend...
+Dialogue: 0,0:01:44.16,0:01:46.60,saint tail default,,0,0,0,,but the friend's wife\Ndidn't like him.
+Dialogue: 0,0:01:46.73,0:01:49.43,saint tail default,,0,0,0,,He doesn't get\Nany attention at all.
+Dialogue: 0,0:01:52.31,0:01:53.11,saint tail default,,0,0,0,,I see.
+Dialogue: 0,0:01:54.08,0:01:57.68,saint tail default,,0,0,0,,He's trying to get attention\Nby taking people's things.
+Dialogue: 0,0:02:11.98,0:02:14.35,saint tail default,,0,0,0,,This bun is really delicious.
+Dialogue: 0,0:02:19.93,0:02:21.70,saint tail default,,0,0,0,,Wasn't that good?
+Dialogue: 0,0:02:23.57,0:02:24.34,saint tail default,,0,0,0,,Here...
+Dialogue: 0,0:02:28.89,0:02:29.72,saint tail default,,0,0,0,,Go get it!
+Dialogue: 0,0:02:40.37,0:02:42.50,saint tail default,,0,0,0,,Little! Here we go again!
+Dialogue: 0,0:02:43.05,0:02:44.17,saint tail default,,0,0,0,,Fetch!
+Dialogue: 0,0:02:55.47,0:02:57.03,saint tail default,,0,0,0,,Are you alright?
+Dialogue: 0,0:03:01.28,0:03:02.68,saint tail default,,0,0,0,,Haneoka, what do you\Nthink you're doing?!
+Dialogue: 0,0:03:02.72,0:03:04.78,saint tail default,,0,0,0,,Have you got some kind of\Ngrudge against me?!
+Dialogue: 0,0:03:05.16,0:03:06.22,saint tail default,,0,0,0,,What?!
+Dialogue: 0,0:03:06.26,0:03:08.56,saint tail default,,0,0,0,,It's your fault for reading\Nthe paper while walking!
+Dialogue: 0,0:03:09.10,0:03:12.73,saint tail default,,0,0,0,,I read the paper to gather\Ninformation on St. Tail.
+Dialogue: 0,0:03:12.77,0:03:14.14,saint tail default,,0,0,0,,Not very much help, is it?
+Dialogue: 0,0:03:14.18,0:03:15.73,saint tail default,,0,0,0,,She just keeps slipping\Npast you every time.
+Dialogue: 0,0:03:15.81,0:03:17.18,saint tail default,,0,0,0,,What's that?!
+Dialogue: 0,0:03:17.21,0:03:18.27,saint tail default,,0,0,0,,What about it?!
+Dialogue: 0,0:03:20.42,0:03:23.86,saint tail default,,0,0,0,,The Jewel Thief Appears!
+Dialogue: 0,0:03:29.44,0:03:31.20,saint tail default,,0,0,0,,Hey, you! Wait!
+Dialogue: 0,0:03:35.08,0:03:36.98,saint tail default,,0,0,0,,Hey, I said hold it!
+Dialogue: 0,0:03:39.76,0:03:42.23,saint tail default,,0,0,0,,Darn dog running\Ninto a place like this.
+Dialogue: 0,0:03:47.11,0:03:48.27,saint tail default,,0,0,0,,I see.
+Dialogue: 0,0:03:48.44,0:03:50.97,saint tail default,,0,0,0,,He hides the things\Nhe steals in that hole.
+Dialogue: 0,0:03:51.02,0:03:52.01,saint tail default,,0,0,0,,Little!
+Dialogue: 0,0:03:55.49,0:03:57.58,saint tail default,,0,0,0,,You shouldn't do\Nthings like this!
+Dialogue: 0,0:03:59.73,0:04:00.63,saint tail default,,0,0,0,,Right?
+Dialogue: 0,0:04:02.57,0:04:04.40,saint tail default,,0,0,0,,You two...
+Dialogue: 0,0:04:09.79,0:04:10.84,saint tail default,,0,0,0,,There it is!
+Dialogue: 0,0:04:10.89,0:04:13.82,saint tail default,,0,0,0,,Hey, brother, that's it!\NThe raccoon stuffed-animal.
+Dialogue: 0,0:04:14.50,0:04:16.33,saint tail default,,0,0,0,,I'll go get it back.
+Dialogue: 0,0:04:17.03,0:04:19.66,saint tail default,,0,0,0,,What are you doing?!\NGet to work!
+Dialogue: 0,0:04:19.71,0:04:21.37,saint tail default,,0,0,0,,Ouch! What are you doing, brother?!
+Dialogue: 0,0:04:21.44,0:04:22.67,saint tail default,,0,0,0,,Hey, Mister!
+Dialogue: 0,0:04:23.35,0:04:25.14,saint tail default,,0,0,0,,I'd like this stuffed animal.
+Dialogue: 0,0:04:25.28,0:04:27.05,saint tail default,,0,0,0,,Yes, welcome!
+Dialogue: 0,0:04:27.09,0:04:29.49,saint tail default,,0,0,0,,"Stuffed Toy Shop CHILD"\NHere you are.\NThanks for waiting.
+Dialogue: 0,0:04:37.17,0:04:39.27,saint tail default,,0,0,0,,Little is an innocent, good dog.
+Dialogue: 0,0:04:39.91,0:04:41.78,saint tail default,,0,0,0,,Not the best looking, but...
+Dialogue: 0,0:04:42.18,0:04:45.09,saint tail default,,0,0,0,,Is it possible you're\Njealous of Little and me?
+Dialogue: 0,0:04:46.39,0:04:48.86,saint tail default,,0,0,0,,Don't be stupid.\NI like you best of all.
+Dialogue: 0,0:05:00.75,0:05:02.72,saint tail default,,0,0,0,,Akira, everything will be fine.
+Dialogue: 0,0:05:02.93,0:05:05.90,saint tail default,,0,0,0,,Your prayers will surely\Nreach God.
+Dialogue: 0,0:05:10.77,0:05:16.24,saint tail default,,0,0,0,,That boy, Akira, took the\Nstuffed animal raccoon from Yoko.
+Dialogue: 0,0:05:17.39,0:05:18.91,saint tail default,,0,0,0,,He likes her so much...
+Dialogue: 0,0:05:18.96,0:05:20.93,saint tail default,,0,0,0,,he probably did it\Nto get her attention.
+Dialogue: 0,0:05:24.97,0:05:27.34,saint tail default,,0,0,0,,Akira, regretting what\Nhe had done...
+Dialogue: 0,0:05:27.37,0:05:30.04,saint tail default,,0,0,0,,tried to return the\Nstuffed-animal right away.
+Dialogue: 0,0:05:33.62,0:05:36.28,saint tail default,,0,0,0,,But someone stole the\Nstuffed animal from him.
+Dialogue: 0,0:05:36.66,0:05:38.89,saint tail default,,0,0,0,,Who would do such\Na terrible thing?
+Dialogue: 0,0:05:39.17,0:05:40.56,saint tail default,,0,0,0,,Well, the culprit is a dog.
+Dialogue: 0,0:05:40.63,0:05:41.43,saint tail default,,0,0,0,,A dog?
+Dialogue: 0,0:05:42.04,0:05:44.10,saint tail default,,0,0,0,,Do you mean, Little?
+Dialogue: 0,0:05:45.54,0:05:50.50,saint tail default,,0,0,0,,We know that the stuffed animal\Nis somewhere in that park but...
+Dialogue: 0,0:05:51.26,0:05:52.28,saint tail default,,0,0,0,,Hold it!
+Dialogue: 0,0:05:57.33,0:05:59.03,saint tail default,,0,0,0,,I'll get that stuffed animal.
+Dialogue: 0,0:06:01.11,0:06:02.13,saint tail default,,0,0,0,,Meimi!
+Dialogue: 0,0:06:03.45,0:06:04.67,saint tail default,,0,0,0,,Little!
+Dialogue: 0,0:06:06.32,0:06:08.31,saint tail default,,0,0,0,,Maybe he's not here today?
+Dialogue: 0,0:06:09.66,0:06:10.65,saint tail default,,0,0,0,,That's strange.
+Dialogue: 0,0:06:10.69,0:06:12.22,saint tail default,,0,0,0,,He's not over here, either.
+Dialogue: 0,0:06:12.87,0:06:13.89,saint tail default,,0,0,0,,What?
+Dialogue: 0,0:06:17.27,0:06:19.64,saint tail default,,0,0,0,,The stuffed animal is gone.
+Dialogue: 0,0:06:22.55,0:06:23.92,saint tail default,,0,0,0,,Little!
+Dialogue: 0,0:06:27.76,0:06:29.85,saint tail default,,0,0,0,,Hey! Be quiet!
+Dialogue: 0,0:06:30.53,0:06:31.47,saint tail default,,0,0,0,,You idiot!
+Dialogue: 0,0:06:31.50,0:06:33.63,saint tail default,,0,0,0,,Why did you bring the dog along?!
+Dialogue: 0,0:06:34.41,0:06:35.84,saint tail default,,0,0,0,,What could I do?!
+Dialogue: 0,0:06:35.88,0:06:38.21,saint tail default,,0,0,0,,He wouldn't let go\Nof the stuffed animal!
+Dialogue: 0,0:06:39.59,0:06:40.85,saint tail default,,0,0,0,,Let's just get out of here!
+Dialogue: 0,0:06:55.62,0:06:57.24,saint tail default,,0,0,0,,Little!
+Dialogue: 0,0:06:57.32,0:06:59.31,saint tail default,,0,0,0,,Shut up! I just got\Nthe baby to sleep!
+Dialogue: 0,0:07:00.36,0:07:01.95,saint tail default,,0,0,0,,Oh, it's alright.
+Dialogue: 0,0:07:02.00,0:07:03.59,saint tail default,,0,0,0,,I'm very sorry.
+Dialogue: 0,0:07:04.54,0:07:05.80,saint tail default,,0,0,0,,Little!
+Dialogue: 0,0:07:05.97,0:07:07.34,saint tail default,,0,0,0,,Little, where are you?!
+Dialogue: 0,0:07:24.64,0:07:26.23,saint tail default,,0,0,0,,Hey, be quiet!
+Dialogue: 0,0:07:39.27,0:07:41.21,saint tail default,,0,0,0,,You caused a lot of trouble.
+Dialogue: 0,0:07:43.71,0:07:45.54,saint tail default,,0,0,0,,He's the one that\Nmade the mistake...
+Dialogue: 0,0:07:45.58,0:07:47.35,saint tail default,,0,0,0,,and put the toy out for sale!
+Dialogue: 0,0:07:47.89,0:07:50.76,saint tail default,,0,0,0,,Hey brother, let's stop doing\Nthis stuffed-animal business.
+Dialogue: 0,0:07:51.06,0:07:53.66,saint tail default,,0,0,0,,We're supposed to be jewel thieves.
+Dialogue: 0,0:07:54.03,0:07:55.52,saint tail default,,0,0,0,,You idiot!
+Dialogue: 0,0:07:55.57,0:07:58.90,saint tail default,,0,0,0,,The stuffed animal-toy shop is\Nto camouflage the jewel thefts!
+Dialogue: 0,0:07:59.21,0:08:01.20,saint tail default,,0,0,0,,How dumb can you be?
+Dialogue: 0,0:08:01.25,0:08:02.22,saint tail default,,0,0,0,,Never mind!
+Dialogue: 0,0:08:02.25,0:08:04.31,saint tail default,,0,0,0,,What counts is that\Nthe jewel is back.
+Dialogue: 0,0:08:06.93,0:08:09.42,saint tail default,,0,0,0,,We hide the stolen jewels\Nin the stuffed animals.
+Dialogue: 0,0:08:09.47,0:08:10.59,saint tail default,,0,0,0,,When things cool down...
+Dialogue: 0,0:08:10.63,0:08:12.63,saint tail default,,0,0,0,,we can take them to another\Ncity and pawn 'em off.
+Dialogue: 0,0:08:12.84,0:08:14.47,saint tail default,,0,0,0,,It's a great racket.
+Dialogue: 0,0:08:14.61,0:08:17.08,saint tail default,,0,0,0,,The only thing left\Nis to get rid of the dog.
+Dialogue: 0,0:08:22.52,0:08:24.08,saint tail default,,0,0,0,,You're gonna kill him?!
+Dialogue: 0,0:08:24.20,0:08:25.22,saint tail default,,0,0,0,,That's outrageous!
+Dialogue: 0,0:08:25.43,0:08:27.49,saint tail default,,0,0,0,,Even if he's a dog...
+Dialogue: 0,0:08:27.53,0:08:29.47,saint tail default,,0,0,0,,we can't let anybody\Nwho knows about us get away.
+Dialogue: 0,0:08:37.82,0:08:39.45,saint tail default,,0,0,0,,Little!
+Dialogue: 0,0:08:41.16,0:08:42.96,saint tail default,,0,0,0,,Where has he gone?
+Dialogue: 0,0:08:45.10,0:08:46.93,saint tail default,,0,0,0,,Hold him still!
+Dialogue: 0,0:08:46.97,0:08:49.50,saint tail default,,0,0,0,,Brother, I don't like\Nthis sort of thing!
+Dialogue: 0,0:08:55.26,0:08:56.82,saint tail default,,0,0,0,,You imbecile!
+Dialogue: 0,0:08:57.13,0:08:58.39,saint tail default,,0,0,0,,Sorry.
+Dialogue: 0,0:08:59.23,0:09:00.29,saint tail default,,0,0,0,,After him!
+Dialogue: 0,0:09:01.67,0:09:02.76,saint tail default,,0,0,0,,Little...
+Dialogue: 0,0:09:05.04,0:09:06.10,saint tail default,,0,0,0,,Little!
+Dialogue: 0,0:09:21.14,0:09:22.54,saint tail default,,0,0,0,,Little!
+Dialogue: 0,0:09:22.61,0:09:24.14,saint tail default,,0,0,0,,You're alright, aren't you?!
+Dialogue: 0,0:09:25.98,0:09:27.61,saint tail default,,0,0,0,,Hey, that tickles!
+Dialogue: 0,0:09:31.03,0:09:32.12,saint tail default,,0,0,0,,Hey! Hold it!
+Dialogue: 0,0:09:34.80,0:09:36.79,saint tail default,,0,0,0,,Where have you been all this time?
+Dialogue: 0,0:09:39.45,0:09:40.57,saint tail default,,0,0,0,,Little!
+Dialogue: 0,0:09:43.42,0:09:44.78,saint tail default,,0,0,0,,Yipes! Get out of sight!
+Dialogue: 0,0:09:45.69,0:09:47.28,saint tail default,,0,0,0,,What's the matter?!
+Dialogue: 0,0:09:51.10,0:09:53.09,saint tail default,,0,0,0,,What? Is there something wrong here?
+Dialogue: 0,0:09:55.04,0:09:57.41,saint tail default,,0,0,0,,Okay, okay!
+Dialogue: 0,0:10:05.76,0:10:07.73,saint tail default,,0,0,0,,That's Yoko's raccoon!
+Dialogue: 0,0:10:07.77,0:10:09.36,saint tail default,,0,0,0,,Hey! What are you doing?!
+Dialogue: 0,0:10:12.04,0:10:13.51,saint tail default,,0,0,0,,Little, stop it!
+Dialogue: 0,0:10:14.15,0:10:17.45,saint tail default,,0,0,0,,Ah, may I take a look around\Nin this warehouse?
+Dialogue: 0,0:10:17.95,0:10:20.18,saint tail default,,0,0,0,,This place is off-limits.
+Dialogue: 0,0:10:20.49,0:10:21.39,saint tail default,,0,0,0,,Jerk.
+Dialogue: 0,0:10:21.43,0:10:22.29,saint tail default,,0,0,0,,What's that?!
+Dialogue: 0,0:10:22.66,0:10:23.60,saint tail default,,0,0,0,,Oh, nothing.
+Dialogue: 0,0:10:23.63,0:10:25.16,saint tail default,,0,0,0,,Thank you very much.
+Dialogue: 0,0:10:30.08,0:10:32.27,saint tail default,,0,0,0,,Can we just let\Nthem go like that?
+Dialogue: 0,0:10:33.12,0:10:33.95,saint tail default,,0,0,0,,We've got no choice.
+Dialogue: 0,0:10:33.99,0:10:35.25,saint tail default,,0,0,0,,We'll have to change plans.
+Dialogue: 0,0:10:45.08,0:10:46.17,saint tail default,,0,0,0,,Mr. Asuka Jr.
+Dialogue: 0,0:10:47.88,0:10:49.61,saint tail default,,0,0,0,,St. Tail!
+Dialogue: 0,0:10:56.70,0:11:00.29,saint tail default,,0,0,0,,"I'll be picking up a\Nstuffed-toy raccoon..."
+Dialogue: 0,0:11:00.67,0:11:01.87,saint tail default,,0,0,0,,"from the number one warehouse.\N- St. Tail."
+Dialogue: 0,0:11:02.71,0:11:04.54,saint tail default,,0,0,0,,A stuffed-toy raccoon?
+Dialogue: 0,0:11:05.98,0:11:08.42,saint tail default,,0,0,0,,What's she gonna do\Nwith a thing like that?
+Dialogue: 0,0:11:14.23,0:11:17.69,saint tail default,,0,0,0,,Lord, forgive me,\Nfor I use no gimmick or trick.
+Dialogue: 0,0:11:23.05,0:11:24.04,saint tail default,,0,0,0,,One!
+Dialogue: 0,0:11:26.46,0:11:27.82,saint tail default,,0,0,0,,Two!
+Dialogue: 0,0:11:29.77,0:11:31.86,saint tail default,,0,0,0,,Three!
+Dialogue: 0,0:11:45.33,0:11:49.03,saint tail default,,0,0,0,,Looks like it's necessary for St. Tail\Nto make an appearance after all.
+Dialogue: 0,0:11:49.40,0:11:53.07,saint tail default,,0,0,0,,But I wonder what the raccoon\Nis doing in a place like that?
+Dialogue: 0,0:11:53.85,0:11:57.71,saint tail default,,0,0,0,,That storage area is rumored\Nto be connected with criminal activity.
+Dialogue: 0,0:11:57.75,0:11:59.05,saint tail default,,0,0,0,,Be very careful.
+Dialogue: 0,0:11:59.36,0:12:00.26,saint tail default,,0,0,0,,Sure.
+Dialogue: 0,0:12:00.39,0:12:01.36,saint tail default,,0,0,0,,I'll be fine.
+Dialogue: 0,0:12:01.40,0:12:03.56,saint tail default,,0,0,0,,I'm only going there\Nto get that stuffed animal.
+Dialogue: 0,0:12:05.70,0:12:09.16,saint tail default,,0,0,0,,May the blessings of\NGod be with us!
+Dialogue: 0,0:12:31.56,0:12:34.92,saint tail default,,0,0,0,,Not even St. Tail would be able\Nto get past this security.
+Dialogue: 0,0:12:35.20,0:12:39.06,saint tail default,,0,0,0,,Well, there's no way into the\Nwarehouse other than this door.
+Dialogue: 0,0:12:39.27,0:12:41.10,saint tail default,,0,0,0,,Don't underestimate St. Tail!
+Dialogue: 0,0:12:41.44,0:12:43.00,saint tail default,,0,0,0,,Stay on guard.
+Dialogue: 0,0:12:43.28,0:12:44.21,saint tail default,,0,0,0,,Yes sir!
+Dialogue: 0,0:12:45.22,0:12:46.44,saint tail default,,0,0,0,,Asuka Jr! What's that?!
+Dialogue: 0,0:12:47.72,0:12:48.85,saint tail default,,0,0,0,,What?!
+Dialogue: 0,0:12:54.13,0:12:55.46,saint tail default,,0,0,0,,St. Tail!
+Dialogue: 0,0:12:55.84,0:12:57.63,saint tail default,,0,0,0,,Everyone! Stay at your posts!
+Dialogue: 0,0:12:57.71,0:12:58.54,saint tail default,,0,0,0,,Yes, sir!
+Dialogue: 0,0:13:04.32,0:13:06.81,saint tail default,,0,0,0,,I've got you now, St. Tail!
+Dialogue: 0,0:13:12.64,0:13:14.63,saint tail default,,0,0,0,,A rubber doll?
+Dialogue: 0,0:13:14.98,0:13:16.34,saint tail default,,0,0,0,,Oh, no!
+Dialogue: 0,0:13:18.21,0:13:19.58,saint tail default,,0,0,0,,Asuka Jr!
+Dialogue: 0,0:13:25.76,0:13:26.82,saint tail default,,0,0,0,,One!
+Dialogue: 0,0:13:27.30,0:13:28.43,saint tail default,,0,0,0,,Two!
+Dialogue: 0,0:13:28.47,0:13:29.60,saint tail default,,0,0,0,,Three!
+Dialogue: 0,0:13:36.49,0:13:37.61,saint tail default,,0,0,0,,Darn it!
+Dialogue: 0,0:13:37.69,0:13:39.85,saint tail default,,0,0,0,,St. Tail has gotten\Ninto the warehouse!
+Dialogue: 0,0:13:53.89,0:13:56.95,saint tail default,,0,0,0,,St. Tail, today I'll get\Nyou for sure.
+Dialogue: 0,0:14:03.47,0:14:04.40,saint tail default,,0,0,0,,It's...
+Dialogue: 0,0:14:07.31,0:14:09.01,saint tail default,,0,0,0,,Show...
+Dialogue: 0,0:14:12.26,0:14:13.75,saint tail default,,0,0,0,,Time!
+Dialogue: 0,0:14:18.87,0:14:20.27,saint tail default,,0,0,0,,What's going on?!
+Dialogue: 0,0:14:28.32,0:14:29.29,saint tail default,,0,0,0,,Why?
+Dialogue: 0,0:14:29.62,0:14:31.29,saint tail default,,0,0,0,,Yoko's raccoon isn't here!
+Dialogue: 0,0:14:34.77,0:14:35.96,saint tail default,,0,0,0,,Darn it!
+Dialogue: 0,0:14:36.30,0:14:37.13,saint tail default,,0,0,0,,Oh, no!
+Dialogue: 0,0:14:39.91,0:14:41.71,saint tail default,,0,0,0,,Hold it! St. Tail!
+Dialogue: 0,0:14:44.19,0:14:47.18,saint tail default,,0,0,0,,Where could Yoko's\Nraccoon have gone?
+Dialogue: 0,0:15:03.79,0:15:04.69,saint tail default,,0,0,0,,Little?!
+Dialogue: 0,0:15:05.53,0:15:07.02,saint tail default,,0,0,0,,Why are you here?
+Dialogue: 0,0:15:07.97,0:15:09.23,saint tail default,,0,0,0,,Wait, Little!
+Dialogue: 0,0:15:15.15,0:15:17.14,saint tail default,,0,0,0,,Could the raccoon be here?
+Dialogue: 0,0:15:22.90,0:15:24.23,saint tail default,,0,0,0,,Someone's here!
+Dialogue: 0,0:15:28.51,0:15:29.41,saint tail default,,0,0,0,,Little!
+Dialogue: 0,0:15:30.21,0:15:31.74,saint tail default,,0,0,0,,This is bad! Hide over there!
+Dialogue: 0,0:15:36.66,0:15:37.92,saint tail default,,0,0,0,,You!
+Dialogue: 0,0:15:47.11,0:15:49.24,saint tail default,,0,0,0,,Where are you?! St. Tail!
+Dialogue: 0,0:16:04.31,0:16:05.64,saint tail default,,0,0,0,,You won't get away!
+Dialogue: 0,0:16:11.43,0:16:12.83,saint tail default,,0,0,0,,Thank you, Little.
+Dialogue: 0,0:16:14.83,0:16:15.89,saint tail default,,0,0,0,,Darn it!
+Dialogue: 0,0:16:35.71,0:16:36.87,saint tail default,,0,0,0,,What are you doing?!
+Dialogue: 0,0:17:02.16,0:17:04.32,saint tail default,,0,0,0,,You're jewel thieves, aren't you?
+Dialogue: 0,0:17:06.14,0:17:07.63,saint tail default,,0,0,0,,So what if we are?
+Dialogue: 0,0:17:09.61,0:17:10.44,saint tail default,,0,0,0,,Okay...
+Dialogue: 0,0:17:10.48,0:17:12.47,saint tail default,,0,0,0,,hand that thing over.
+Dialogue: 0,0:17:27.31,0:17:29.30,saint tail default,,0,0,0,,Hurry up and hand it over!
+Dialogue: 0,0:17:34.06,0:17:35.75,saint tail default,,0,0,0,,What! That mutt!
+Dialogue: 0,0:18:21.59,0:18:22.99,saint tail default,,0,0,0,,A diamond!
+Dialogue: 0,0:18:33.28,0:18:34.14,saint tail default,,0,0,0,,You...
+Dialogue: 0,0:18:38.09,0:18:41.49,saint tail default,,0,0,0,,Akira returned the\Nraccoon to Yoko.
+Dialogue: 0,0:18:41.53,0:18:43.59,saint tail default,,0,0,0,,They've really become close.
+Dialogue: 0,0:18:44.17,0:18:46.26,saint tail default,,0,0,0,,The jewel thieves\Nhave been arrested.
+Dialogue: 0,0:18:46.30,0:18:48.29,saint tail default,,0,0,0,,So I guess we can consider\Nthis case closed, right?
+Dialogue: 0,0:18:48.44,0:18:50.43,saint tail default,,0,0,0,,We owe it all to Little, don't we?
+Dialogue: 0,0:18:50.88,0:18:52.87,saint tail default,,0,0,0,,That's right.\NLittle deserves the credit.
+Dialogue: 0,0:19:02.80,0:19:05.40,saint tail default,,0,0,0,,That dog, why was he\Nat the warehouse?
+Dialogue: 0,0:19:07.85,0:19:08.84,saint tail default,,0,0,0,,Little...
+Dialogue: 0,0:19:09.02,0:19:10.28,saint tail default,,0,0,0,,I'll race you to that tree!
+Dialogue: 0,0:19:11.29,0:19:11.98,saint tail default,,0,0,0,,Ready!
+Dialogue: 0,0:19:12.39,0:19:13.22,saint tail default,,0,0,0,,Go!

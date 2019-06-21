@@ -13,299 +13,303 @@ Video File: source/36.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,2.0,2.0,2,10,10,10,1
+Style: saint tail default,Calibri,80,&H00FBFBFB,&H000000FF,&H00373737,&H80373737,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,2,50,50,50,1
+Style: saint tail sign,Calibri,75,&H00D4FFED,&H000000FF,&H006E8E22,&HC7000000,-1,-1,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,8,50,50,50,1
+Style: saint tail title,Campanile,150,&H00EDE6FF,&H000000FF,&H009457EA,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
+Style: saint tail op en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
+Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,70,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.99,0:00:10.89,Default,,0,0,0,,It's nice to walk in the forest!
-Dialogue: 0,0:00:11.09,0:00:14.55,Default,,0,0,0,,I've heard that trees produce\Nelements which relax people.
-Dialogue: 0,0:00:15.77,0:00:17.89,Default,,0,0,0,,The girls who are tired\Nof the business of urban life...
-Dialogue: 0,0:00:18.01,0:00:20.47,Default,,0,0,0,,...are resting for a minute,\NI suppose.
-Dialogue: 0,0:00:20.81,0:00:23.18,Default,,0,0,0,,Hey! Why don't we\Nrace to that tree?
-Dialogue: 0,0:00:23.38,0:00:24.51,Default,,0,0,0,,All right!
-Dialogue: 0,0:00:24.79,0:00:26.75,Default,,0,0,0,,Are you ready? Go!
-Dialogue: 0,0:00:34.24,0:00:35.83,Default,,0,0,0,,First place!
-Dialogue: 0,0:00:47.13,0:00:49.96,Default,,0,0,0,,Man! I don't know if you're\Ntired from playing or what...
-Dialogue: 0,0:00:50.17,0:00:52.19,Default,,0,0,0,,...but aren't you\Nmissing the point?
-Dialogue: 0,0:00:52.31,0:00:54.14,Default,,0,0,0,,We're on the mountain...
-Dialogue: 0,0:00:54.24,0:00:55.54,Default,,0,0,0,,...behind the school\Nto observe nature.
-Dialogue: 0,0:00:55.65,0:00:56.64,Default,,0,0,0,,But we are still in class.
-Dialogue: 0,0:00:57.18,0:00:58.67,Default,,0,0,0,,Mr. Yamano is amazed, too.
-Dialogue: 0,0:01:04.83,0:01:09.17,Default,,0,0,0,,A PRECIOUS\NCREATURE OF NATURE:\NSAVE THE BEAUTIFUL BUTTERFLY
-Dialogue: 0,0:01:18.36,0:01:19.48,Default,,0,0,0,,It's like...
-Dialogue: 0,0:01:19.63,0:01:22.50,Default,,0,0,0,,...when you put out cotton\Nsoaked in sugar water...
-Dialogue: 0,0:01:23.07,0:01:25.20,Default,,0,0,0,,...then different\Ninsects gather.
-Dialogue: 0,0:01:25.74,0:01:28.30,Default,,0,0,0,,Here, in particular, there are\Nmany varieties of butterflies.
-Dialogue: 0,0:01:36.53,0:01:37.55,Default,,0,0,0,,Beautiful!
-Dialogue: 0,0:01:37.70,0:01:39.39,Default,,0,0,0,,I wonder what those\Nbutterflies are called.
-Dialogue: 0,0:01:39.64,0:01:41.16,Default,,0,0,0,,Aren't they swallowtails\Nor something?
-Dialogue: 0,0:01:41.67,0:01:44.30,Default,,0,0,0,,They look a little\Ndifferent to me...
-Dialogue: 0,0:01:45.08,0:01:47.51,Default,,0,0,0,,They're called\NYamano Oomurasaki.
-Dialogue: 0,0:01:47.62,0:01:49.38,Default,,0,0,0,,Yamano Oomurasaki?
-Dialogue: 0,0:01:49.82,0:01:51.81,Default,,0,0,0,,It's the same name\Nas yours, Mr. Yamano.
-Dialogue: 0,0:01:52.59,0:01:54.12,Default,,0,0,0,,As a matter of fact,\Nthirty years ago...
-Dialogue: 0,0:01:54.30,0:01:56.63,Default,,0,0,0,,...I discovered that butterfly.
-Dialogue: 0,0:02:06.56,0:02:07.99,Default,,0,0,0,,The first time I saw it was...
-Dialogue: 0,0:02:08.16,0:02:10.56,Default,,0,0,0,,...when I had just come\Nto this school.
-Dialogue: 0,0:02:27.40,0:02:28.42,Default,,0,0,0,,Here it is!
-Dialogue: 0,0:02:28.97,0:02:30.53,Default,,0,0,0,,"Yamano Oomurasaki.
-Dialogue: 0,0:02:30.94,0:02:34.63,Default,,0,0,0,,Discovered by\NMr. Ikutaro Yamano in 1966.
-Dialogue: 0,0:02:34.75,0:02:37.84,Default,,0,0,0,,Found in a few small areas\Nlike Seika City."
-Dialogue: 0,0:02:38.45,0:02:41.08,Default,,0,0,0,,At that time there was\Na lot of green around here.
-Dialogue: 0,0:02:41.19,0:02:42.52,Default,,0,0,0,,But the groves\Naround here...
-Dialogue: 0,0:02:42.63,0:02:43.86,Default,,0,0,0,,...have been\Ndestroyed one by one.
-Dialogue: 0,0:02:44.10,0:02:46.07,Default,,0,0,0,,Now we can only see\NYamano Oomurasaki...
-Dialogue: 0,0:02:46.27,0:02:48.86,Default,,0,0,0,,...right here\Nin the forest of St. Paulia.
-Dialogue: 0,0:02:49.14,0:02:50.44,Default,,0,0,0,,Poor things...
-Dialogue: 0,0:02:50.88,0:02:52.94,Default,,0,0,0,,But it's not all bad.
-Dialogue: 0,0:02:53.28,0:02:56.38,Default,,0,0,0,,A few years ago,\Na law was passed...
-Dialogue: 0,0:02:56.49,0:02:58.32,Default,,0,0,0,,...which prohibits taking\Nany insects from this forest.
-Dialogue: 0,0:02:58.56,0:02:59.99,Default,,0,0,0,,Can you guys hear me?
-Dialogue: 0,0:03:16.90,0:03:19.06,Default,,0,0,0,,Mr. Yamano has a butterfly\Nnamed after him.
-Dialogue: 0,0:03:19.23,0:03:20.89,Default,,0,0,0,,He's great!
-Dialogue: 0,0:03:21.00,0:03:22.10,Default,,0,0,0,,He deserves his position...
-Dialogue: 0,0:03:22.24,0:03:23.43,Default,,0,0,0,,...as the special advisor\Nhere at St. Paulia Academy.
-Dialogue: 0,0:03:23.64,0:03:24.77,Default,,0,0,0,,He's super nice!
-Dialogue: 0,0:03:25.05,0:03:27.31,Default,,0,0,0,,What's that? I heard\N"great" and "super nice."
-Dialogue: 0,0:03:27.42,0:03:29.08,Default,,0,0,0,,Is someone\Ntalking about me?
-Dialogue: 0,0:03:29.96,0:03:32.65,Default,,0,0,0,,Is it Haneoka or Mimori?
-Dialogue: 0,0:03:34.50,0:03:36.12,Default,,0,0,0,,Hey! What are you doing?!
-Dialogue: 0,0:03:37.77,0:03:39.76,Default,,0,0,0,,Start cleaning\Nlike you're supposed to!
-Dialogue: 0,0:03:39.88,0:03:42.37,Default,,0,0,0,,If you don't, I'll be scolded\Nas the group leader!
-Dialogue: 0,0:03:42.68,0:03:45.21,Default,,0,0,0,,All right. I understand,\NGroup Leader!
-Dialogue: 0,0:03:46.45,0:03:49.36,Default,,0,0,0,,Hey, Takamiya. You, too,\Ncome here and help us.
-Dialogue: 0,0:03:50.03,0:03:51.59,Default,,0,0,0,,All right...!
-Dialogue: 0,0:03:56.71,0:03:58.23,Default,,0,0,0,,Bagworm...!
-Dialogue: 0,0:04:00.55,0:04:02.45,Default,,0,0,0,,The bagworm scared me!
-Dialogue: 0,0:04:08.17,0:04:10.29,Default,,0,0,0,,Asuka! I was scared!
-Dialogue: 0,0:04:10.40,0:04:11.73,Default,,0,0,0,,Let go of me!
-Dialogue: 0,0:04:12.01,0:04:13.84,Default,,0,0,0,,It's hard to believe\Nthat Takamiya has...
-Dialogue: 0,0:04:13.94,0:04:15.60,Default,,0,0,0,,...something she's afraid of...
-Dialogue: 0,0:04:15.78,0:04:16.84,Default,,0,0,0,,Right, Meimi?
-Dialogue: 0,0:04:20.96,0:04:24.69,Default,,0,0,0,,Hey, what kind\Nof insect don't you like?
-Dialogue: 0,0:04:25.20,0:04:27.26,Default,,0,0,0,,I suppose... ants.
-Dialogue: 0,0:04:29.24,0:04:30.23,Default,,0,0,0,,How about you, Kyoko?
-Dialogue: 0,0:04:30.34,0:04:31.60,Default,,0,0,0,,For me it's a mantis.
-Dialogue: 0,0:04:33.38,0:04:36.08,Default,,0,0,0,,I just can't stand that face.
-Dialogue: 0,0:04:36.29,0:04:38.41,Default,,0,0,0,,What don't you like?
-Dialogue: 0,0:04:39.19,0:04:41.35,Default,,0,0,0,,- Well...\N- Yours must be this...
-Dialogue: 0,0:04:41.60,0:04:42.59,Default,,0,0,0,,Here!
-Dialogue: 0,0:04:47.51,0:04:48.53,Default,,0,0,0,,Oh, shoot...!
-Dialogue: 0,0:04:48.65,0:04:50.14,Default,,0,0,0,,Asuka!
-Dialogue: 0,0:05:01.44,0:05:04.30,Default,,0,0,0,,You boiled the pasta\Ntoo long today.
-Dialogue: 0,0:05:04.64,0:05:05.87,Default,,0,0,0,,If you're going to complain...
-Dialogue: 0,0:05:05.98,0:05:07.81,Default,,0,0,0,,...why don't you cook\Nonce in a while?!
-Dialogue: 0,0:05:08.55,0:05:10.54,Default,,0,0,0,,And what happened\Nto your face?
-Dialogue: 0,0:05:10.66,0:05:11.92,Default,,0,0,0,,Nothing.
-Dialogue: 0,0:05:12.39,0:05:13.66,Default,,0,0,0,,It's a girlfriend, isn't it?
-Dialogue: 0,0:05:14.73,0:05:15.96,Default,,0,0,0,,No!
-Dialogue: 0,0:05:16.63,0:05:17.62,Default,,0,0,0,,I remember when...
-Dialogue: 0,0:05:17.77,0:05:19.43,Default,,0,0,0,,...great-great-grandfather\Nwould tell us...
-Dialogue: 0,0:05:19.71,0:05:22.11,Default,,0,0,0,,...that we're a family who\Nhas trouble with women.
-Dialogue: 0,0:05:22.28,0:05:24.01,Default,,0,0,0,,Shut up!
-Dialogue: 0,0:05:31.00,0:05:33.12,Default,,0,0,0,,Oh, shoot. I did it again.
-Dialogue: 0,0:05:33.67,0:05:35.69,Default,,0,0,0,,He must be very angry now.
-Dialogue: 0,0:05:38.38,0:05:40.21,Default,,0,0,0,,Hey, Ruby!
-Dialogue: 0,0:06:29.01,0:06:30.34,Default,,0,0,0,,Mr. Yamano...
-Dialogue: 0,0:06:31.89,0:06:32.87,Default,,0,0,0,,Mimori...
-Dialogue: 0,0:06:35.63,0:06:38.92,Default,,0,0,0,,You can't find a single\NYamano Oomurasaki?
-Dialogue: 0,0:06:40.27,0:06:41.93,Default,,0,0,0,,Who would do\Nsuch a terrible thing?
-Dialogue: 0,0:06:42.94,0:06:44.93,Default,,0,0,0,,I hate to accuse anyone...
-Dialogue: 0,0:06:45.48,0:06:47.50,Default,,0,0,0,,...but I can guess who did it...
-Dialogue: 0,0:06:49.72,0:06:53.55,Default,,0,0,0,,About a week ago,\Ntwo young men visited me.
-Dialogue: 0,0:06:55.20,0:06:58.29,Default,,0,0,0,,So you want to collect\Na Yamano Oomurasaki...
-Dialogue: 0,0:06:58.54,0:07:02.47,Default,,0,0,0,,...in the forest of St. Paulia, right?\NIt's impossible.
-Dialogue: 0,0:07:03.08,0:07:05.52,Default,,0,0,0,,This is a protected habitat\Nfor the Yamano Oomurasaki.
-Dialogue: 0,0:07:06.02,0:07:08.18,Default,,0,0,0,,The law prohibits\Ntheir collection.
-Dialogue: 0,0:07:08.93,0:07:11.83,Default,,0,0,0,,So why don't you\Ngive up and go home?
-Dialogue: 0,0:07:12.00,0:07:15.63,Default,,0,0,0,,Mr. Yamano,\Nwe already knew that.
-Dialogue: 0,0:07:15.81,0:07:18.33,Default,,0,0,0,,That's why we came here\Nto discuss it with you.
-Dialogue: 0,0:07:19.38,0:07:22.47,Default,,0,0,0,,How about just a few?
-Dialogue: 0,0:07:22.59,0:07:24.02,Default,,0,0,0,,No one would know.
-Dialogue: 0,0:07:24.22,0:07:25.82,Default,,0,0,0,,I won't do that!
-Dialogue: 0,0:07:28.46,0:07:31.83,Default,,0,0,0,,Idiots!\NDon't come back again!
-Dialogue: 0,0:07:34.38,0:07:38.34,Default,,0,0,0,,I suppose they did it\Nas revenge for my refusal.
-Dialogue: 0,0:07:39.72,0:07:41.92,Default,,0,0,0,,Mimori, no, Sister...
-Dialogue: 0,0:07:42.49,0:07:44.69,Default,,0,0,0,,Will you hear my prayer?
-Dialogue: 0,0:07:44.80,0:07:45.79,Default,,0,0,0,,What is it?
-Dialogue: 0,0:07:46.87,0:07:49.80,Default,,0,0,0,,Could you ask God,\Nwith me...
-Dialogue: 0,0:07:50.68,0:07:52.27,Default,,0,0,0,,...that those butterflies...
-Dialogue: 0,0:07:52.48,0:07:55.41,Default,,0,0,0,,...will return to the forest\Nof St. Paulia again?
-Dialogue: 0,0:07:55.85,0:07:56.95,Default,,0,0,0,,Mr. Yamano...
-Dialogue: 0,0:08:05.87,0:08:06.84,Default,,0,0,0,,That's terrible!
-Dialogue: 0,0:08:07.11,0:08:08.80,Default,,0,0,0,,I investigated...
-Dialogue: 0,0:08:08.98,0:08:11.14,Default,,0,0,0,,...and discovered that\NMr. Yamano was correct.
-Dialogue: 0,0:08:11.85,0:08:13.65,Default,,0,0,0,,The two men,\NYoshiyuki Ishida...
-Dialogue: 0,0:08:13.79,0:08:15.31,Default,,0,0,0,,...and Kenichi Kawai live in\Na European-style building...
-Dialogue: 0,0:08:15.49,0:08:16.98,Default,,0,0,0,,...on Seventh Avenue.
-Dialogue: 0,0:08:17.50,0:08:18.96,Default,,0,0,0,,On the surface they pretend...
-Dialogue: 0,0:08:19.10,0:08:20.86,Default,,0,0,0,,...to be regular\Nbutterfly collectors.
-Dialogue: 0,0:08:21.10,0:08:22.09,Default,,0,0,0,,But behind the scenes...
-Dialogue: 0,0:08:22.21,0:08:23.37,Default,,0,0,0,,...they're selling rare butterflies...
-Dialogue: 0,0:08:23.47,0:08:25.67,Default,,0,0,0,,...which are illegal to catch,\Nand fetch a lot of money.
-Dialogue: 0,0:08:26.08,0:08:28.51,Default,,0,0,0,,Good job, Seira!\NA wonderful investigation!
-Dialogue: 0,0:08:29.12,0:08:31.95,Default,,0,0,0,,So what happened\Nto the Yamano Oomurasaki?
-Dialogue: 0,0:08:32.13,0:08:33.09,Default,,0,0,0,,Don't worry.
-Dialogue: 0,0:08:33.26,0:08:36.03,Default,,0,0,0,,The men are still hiding\Nthe butterflies in their house.
-Dialogue: 0,0:08:36.53,0:08:37.56,Default,,0,0,0,,Meimi...
-Dialogue: 0,0:08:37.74,0:08:39.10,Default,,0,0,0,,For Mr. Yamano's sake...
-Dialogue: 0,0:08:39.27,0:08:41.50,Default,,0,0,0,,...please get\Nthe Yamano Oomurasaki back.
-Dialogue: 0,0:08:42.61,0:08:43.64,Default,,0,0,0,,All right!
-Dialogue: 0,0:08:43.95,0:08:46.18,Default,,0,0,0,,Those men are enemies\Nof the entire earth!
-Dialogue: 0,0:08:46.96,0:08:49.72,Default,,0,0,0,,St. Tail will teach them\Na harsh lesson!
-Dialogue: 0,0:08:52.87,0:08:56.53,Default,,0,0,0,,NIKO NIKO MART\NFRESH-MADE OMUSUBI
-Dialogue: 0,0:09:03.42,0:09:04.89,Default,,0,0,0,,Shoot! It's a miss.
-Dialogue: 0,0:09:05.29,0:09:06.59,Default,,0,0,0,,How about yours?
-Dialogue: 0,0:09:06.96,0:09:08.33,Default,,0,0,0,,Mine, too.
-Dialogue: 0,0:09:09.13,0:09:11.16,Default,,0,0,0,,Asuka, how about yours?
-Dialogue: 0,0:09:13.78,0:09:16.47,Default,,0,0,0,,"Tonight I'll take\Nthe Yamano Oomurasaki...
-Dialogue: 0,0:09:16.58,0:09:18.78,Default,,0,0,0,,...from the Ishida residence\Non Seventh Avenue.
-Dialogue: 0,0:09:18.89,0:09:19.87,Default,,0,0,0,,-St. Tail"
-Dialogue: 0,0:09:20.26,0:09:21.65,Default,,0,0,0,,It's a warning note!
-Dialogue: 0,0:09:23.39,0:09:26.45,Default,,0,0,0,,I licked St. Tail's\Nwarning note...
-Dialogue: 0,0:09:26.57,0:09:28.90,Default,,0,0,0,,- Let me lick it, too!\N- Me, too!
-Dialogue: 0,0:09:29.01,0:09:30.70,Default,,0,0,0,,What are you doing?!
-Dialogue: 0,0:09:36.82,0:09:38.19,Default,,0,0,0,,Eimi, can you come here?
-Dialogue: 0,0:09:38.29,0:09:39.26,Default,,0,0,0,,What's up?
-Dialogue: 0,0:09:43.40,0:09:44.80,Default,,0,0,0,,I've just had an idea.
-Dialogue: 0,0:09:45.07,0:09:46.70,Default,,0,0,0,,For the opening\Nof my next magic show...
-Dialogue: 0,0:09:46.84,0:09:48.71,Default,,0,0,0,,...how about this?
-Dialogue: 0,0:09:49.55,0:09:51.31,Default,,0,0,0,,Oh, are doves coming out?
-Dialogue: 0,0:09:51.58,0:09:53.35,Default,,0,0,0,,Not really.
-Dialogue: 0,0:09:57.23,0:09:58.66,Default,,0,0,0,,Wow! Beautiful!
-Dialogue: 0,0:09:59.30,0:10:00.43,Default,,0,0,0,,Really, Eimi?
-Dialogue: 0,0:10:00.54,0:10:01.73,Default,,0,0,0,,Yes, really!
-Dialogue: 0,0:10:01.87,0:10:04.57,Default,,0,0,0,,I'm sure your next show is\Ngoing to be another success!
-Dialogue: 0,0:10:05.95,0:10:07.04,Default,,0,0,0,,Eimi...
-Dialogue: 0,0:10:07.62,0:10:09.02,Default,,0,0,0,,Genichiro...
-Dialogue: 0,0:10:21.18,0:10:23.01,Default,,0,0,0,,It's really embarrassing...
-Dialogue: 0,0:10:24.22,0:10:25.62,Default,,0,0,0,,Oh, well.
-Dialogue: 0,0:10:25.75,0:10:27.48,Default,,0,0,0,,It's a little early,\Nbut I guess I should go.
-Dialogue: 0,0:10:28.62,0:10:30.82,Default,,0,0,0,,Ruby, cover for me\Nwhile I'm gone!
-Dialogue: 0,0:10:44.09,0:10:47.62,Default,,0,0,0,,Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
-Dialogue: 0,0:10:52.94,0:10:54.13,Default,,0,0,0,,One!
-Dialogue: 0,0:10:56.35,0:10:57.44,Default,,0,0,0,,Two!
-Dialogue: 0,0:10:59.65,0:11:02.05,Default,,0,0,0,,Three!
-Dialogue: 0,0:11:15.39,0:11:18.08,Default,,0,0,0,,Meimi, tonight you're\Ndealing with butterflies.
-Dialogue: 0,0:11:18.32,0:11:19.85,Default,,0,0,0,,Please be more\Ncareful than usual.
-Dialogue: 0,0:11:20.16,0:11:21.82,Default,,0,0,0,,Yes. You can count on me!
-Dialogue: 0,0:11:24.70,0:11:27.76,Default,,0,0,0,,May the blessings\Nof God be with us.
-Dialogue: 0,0:11:51.36,0:11:53.85,Default,,0,0,0,,Ishida, are they\Nthat interesting?
-Dialogue: 0,0:11:54.03,0:11:55.46,Default,,0,0,0,,They're just butterflies.
-Dialogue: 0,0:11:55.60,0:11:57.26,Default,,0,0,0,,Just butterflies?
-Dialogue: 0,0:11:57.64,0:11:59.07,Default,,0,0,0,,These are some\Nof the last in the whole world.
-Dialogue: 0,0:11:59.21,0:12:00.64,Default,,0,0,0,,They're Yamano Oomurasaki!
-Dialogue: 0,0:12:01.14,0:12:04.44,Default,,0,0,0,,Look at these beautiful,\Ncolorful patterns and shapes!
-Dialogue: 0,0:12:04.72,0:12:07.51,Default,,0,0,0,,They are jewels\Nmade by the gods.
-Dialogue: 0,0:12:08.89,0:12:10.76,Default,,0,0,0,,Sir, you have guests.
-Dialogue: 0,0:12:11.26,0:12:13.06,Default,,0,0,0,,Who's here at this hour?
-Dialogue: 0,0:12:13.20,0:12:15.07,Default,,0,0,0,,He said he's Asuka Jr.
-Dialogue: 0,0:12:15.47,0:12:16.77,Default,,0,0,0,,Asuka Jr.?
-Dialogue: 0,0:12:17.51,0:12:18.77,Default,,0,0,0,,Is it the Asuka Jr. ...
-Dialogue: 0,0:12:18.91,0:12:20.40,Default,,0,0,0,,...who is the special\Ninvestigator of St. Tail?
-Dialogue: 0,0:12:20.55,0:12:21.52,Default,,0,0,0,,Yes.
-Dialogue: 0,0:12:22.42,0:12:23.39,Default,,0,0,0,,That means...
-Dialogue: 0,0:12:23.65,0:12:25.55,Default,,0,0,0,,...St. Tail is after them...
-Dialogue: 0,0:12:26.29,0:12:27.49,Default,,0,0,0,,Calm down.
-Dialogue: 0,0:12:28.00,0:12:29.46,Default,,0,0,0,,Without any evidence...
-Dialogue: 0,0:12:29.63,0:12:31.73,Default,,0,0,0,,...no one can do anything to us.
-Dialogue: 0,0:12:32.57,0:12:34.44,Default,,0,0,0,,All right. Tell him\Nwe'll be with him in a minute.
-Dialogue: 0,0:12:34.61,0:12:35.60,Default,,0,0,0,,Yes.
-Dialogue: 0,0:12:38.35,0:12:41.62,Default,,0,0,0,,If they discover\Nthese here, I'll be...
-Dialogue: 0,0:12:42.12,0:12:43.32,Default,,0,0,0,,Don't worry.
-Dialogue: 0,0:12:43.49,0:12:45.22,Default,,0,0,0,,We'll hide them\Nin the usual place.
-Dialogue: 0,0:12:52.41,0:12:54.94,Default,,0,0,0,,Are you Asuka Jr.?\NWhat's the problem?
-Dialogue: 0,0:12:56.22,0:12:57.48,Default,,0,0,0,,St. Tail warned us...
-Dialogue: 0,0:12:57.59,0:12:59.92,Default,,0,0,0,,...that she will steal some\NYamano Oomurasaki.
-Dialogue: 0,0:13:00.03,0:13:01.08,Default,,0,0,0,,Where are the butterflies?
-Dialogue: 0,0:13:02.03,0:13:03.66,Default,,0,0,0,,That's strange.
-Dialogue: 0,0:13:04.13,0:13:07.50,Default,,0,0,0,,We don't have those\Nbutterflies in our collection.
-Dialogue: 0,0:13:07.88,0:13:09.14,Default,,0,0,0,,Anything wrong?
-Dialogue: 0,0:13:09.25,0:13:10.41,Default,,0,0,0,,Nothing...
-Dialogue: 0,0:13:11.12,0:13:14.95,Default,,0,0,0,,It is true that our hobby\Nis collecting butterflies.
-Dialogue: 0,0:13:15.73,0:13:20.36,Default,,0,0,0,,But it's illegal to catch\Na Yamano Oomurasaki.
-Dialogue: 0,0:13:20.67,0:13:23.33,Default,,0,0,0,,There is no way\Nwe would have them.
-Dialogue: 0,0:13:24.04,0:13:25.77,Default,,0,0,0,,So you're sure...
-Dialogue: 0,0:13:25.88,0:13:27.04,Default,,0,0,0,,...that there aren't...
-Dialogue: 0,0:13:27.22,0:13:28.61,Default,,0,0,0,,...any Yamano Oomurasaki\Nin this house?
-Dialogue: 0,0:13:29.15,0:13:30.35,Default,,0,0,0,,I've had enough!
-Dialogue: 0,0:13:30.76,0:13:31.98,Default,,0,0,0,,If you don't believe us...
-Dialogue: 0,0:13:32.12,0:13:33.65,Default,,0,0,0,,...why don't you\Nsearch the house?
-Dialogue: 0,0:13:46.65,0:13:49.32,Default,,0,0,0,,There's a pool...\NThey live in a mansion.
-Dialogue: 0,0:13:49.73,0:13:51.35,Default,,0,0,0,,He inherited it.
-Dialogue: 0,0:13:52.83,0:13:54.03,Default,,0,0,0,,How is your search going?
-Dialogue: 0,0:13:54.74,0:13:55.83,Default,,0,0,0,,Well, Asuka Jr. ...
-Dialogue: 0,0:13:55.97,0:13:58.57,Default,,0,0,0,,We haven't seen\Na single butterfly outside.
-Dialogue: 0,0:13:58.94,0:14:02.14,Default,,0,0,0,,I see. That's enough out here.\NPlease help us inside.
-Dialogue: 0,0:14:02.35,0:14:03.32,Default,,0,0,0,,Yes.
-Dialogue: 0,0:14:09.16,0:14:11.86,Default,,0,0,0,,I have to fiind the butterflies\Nbefore Asuka Jr. does.
-Dialogue: 0,0:14:15.48,0:14:18.04,Default,,0,0,0,,Where on earth\Nare they hiding them?
-Dialogue: 0,0:14:22.39,0:14:23.36,Default,,0,0,0,,I see!
-Dialogue: 0,0:14:24.09,0:14:26.39,Default,,0,0,0,,Asuka Jr., we haven't\Nfound any on the first floor.
-Dialogue: 0,0:14:26.50,0:14:28.26,Default,,0,0,0,,There aren't any\Non the second floor or in the attic.
-Dialogue: 0,0:14:29.14,0:14:30.37,Default,,0,0,0,,Why don't you admit...
-Dialogue: 0,0:14:30.47,0:14:33.17,Default,,0,0,0,,...that you've made\Na mistake, Asuka Jr.?
-Dialogue: 0,0:14:33.41,0:14:34.57,Default,,0,0,0,,It can't be right...
-Dialogue: 0,0:14:34.95,0:14:36.14,Default,,0,0,0,,It's impossible...
-Dialogue: 0,0:14:36.25,0:14:38.65,Default,,0,0,0,,...that St. Tail would send\Na fake warning note.
-Dialogue: 0,0:14:39.66,0:14:42.39,Default,,0,0,0,,Rather than listening\Nto the words of a citizen...
-Dialogue: 0,0:14:42.53,0:14:44.56,Default,,0,0,0,,...you trust the words of a thief?
-Dialogue: 0,0:14:45.87,0:14:48.97,Default,,0,0,0,,How rude! I told the truth!
-Dialogue: 0,0:14:50.85,0:14:51.84,Default,,0,0,0,,St. Tail!
-Dialogue: 0,0:14:57.40,0:14:58.38,Default,,0,0,0,,It's...
-Dialogue: 0,0:15:00.00,0:15:02.70,Default,,0,0,0,,...Show...
-Dialogue: 0,0:15:03.61,0:15:04.87,Default,,0,0,0,,...Time!
-Dialogue: 0,0:15:17.27,0:15:19.00,Default,,0,0,0,,It's the butterflies' curse!
-Dialogue: 0,0:15:19.37,0:15:22.14,Default,,0,0,0,,I'm not deceived\Nby this illusion!
-Dialogue: 0,0:15:26.69,0:15:27.71,Default,,0,0,0,,Good evening!
-Dialogue: 0,0:15:28.36,0:15:30.48,Default,,0,0,0,,I came to pick up\Nthe Yamano Oomurasaki!
-Dialogue: 0,0:15:30.96,0:15:33.52,Default,,0,0,0,,St. Tail! Battle with me!
-Dialogue: 0,0:15:34.34,0:15:35.46,Default,,0,0,0,,One!
-Dialogue: 0,0:15:35.57,0:15:36.60,Default,,0,0,0,,Two!
-Dialogue: 0,0:15:36.71,0:15:37.80,Default,,0,0,0,,Three!
-Dialogue: 0,0:15:49.57,0:15:51.06,Default,,0,0,0,,Yamano Oomurasaki!
-Dialogue: 0,0:15:51.17,0:15:53.40,Default,,0,0,0,,We searched everywhere,\Nand we couldn't find them...!
-Dialogue: 0,0:15:53.87,0:15:55.14,Default,,0,0,0,,There's a difference out here!
-Dialogue: 0,0:15:55.24,0:15:56.21,Default,,0,0,0,,What?!
-Dialogue: 0,0:15:56.98,0:15:58.38,Default,,0,0,0,,That's what I said...
-Dialogue: 0,0:15:58.62,0:16:01.55,Default,,0,0,0,,...but I just saw the reflection\Nof the wings by the moonlight.
-Dialogue: 0,0:16:04.70,0:16:06.06,Default,,0,0,0,,They're my butterflies!
-Dialogue: 0,0:16:06.17,0:16:07.22,Default,,0,0,0,,Give them back!
-Dialogue: 0,0:16:07.33,0:16:08.93,Default,,0,0,0,,Arrest these guys!
-Dialogue: 0,0:16:14.08,0:16:15.88,Default,,0,0,0,,I'm taking these butterflies!
-Dialogue: 0,0:16:16.29,0:16:17.91,Default,,0,0,0,,I won't let you escape!
-Dialogue: 0,0:16:24.50,0:16:25.90,Default,,0,0,0,,Wait!
-Dialogue: 0,0:16:35.42,0:16:37.65,Default,,0,0,0,,He definitely did a belly flop!
-Dialogue: 0,0:16:39.26,0:16:40.39,Default,,0,0,0,,Are you all right?
-Dialogue: 0,0:16:41.17,0:16:44.54,Default,,0,0,0,,Shut up! Next time\NI'll definitely catch you!
-Dialogue: 0,0:16:44.64,0:16:45.61,Default,,0,0,0,,All right!
-Dialogue: 0,0:17:38.12,0:17:41.02,Default,,0,0,0,,God, thank you very much.
-Dialogue: 0,0:17:54.75,0:17:55.72,Default,,0,0,0,,Good morning!
-Dialogue: 0,0:17:55.85,0:17:56.82,Default,,0,0,0,,Good morning!
-Dialogue: 0,0:17:57.46,0:17:59.75,Default,,0,0,0,,Oh, I wonder what it is...
-Dialogue: 0,0:18:05.30,0:18:08.50,Default,,0,0,0,,"St. Tail shows up\Nat the butterfly mansion!"
-Dialogue: 0,0:18:09.38,0:18:10.84,Default,,0,0,0,,Good morning, Haneoka!
-Dialogue: 0,0:18:10.98,0:18:13.95,Default,,0,0,0,,Look at my big scoop!
-Dialogue: 0,0:18:14.25,0:18:18.62,Default,,0,0,0,,So it was the same people\Nwho damaged our mountain.
-Dialogue: 0,0:18:19.00,0:18:20.93,Default,,0,0,0,,Besides the Yamano Oomurasaki...
-Dialogue: 0,0:18:21.03,0:18:23.40,Default,,0,0,0,,...those men were selling\Nother butterflies, too.
-Dialogue: 0,0:18:24.04,0:18:26.94,Default,,0,0,0,,Mr. Yamano must\Nbe relieved now.
-Dialogue: 0,0:18:27.48,0:18:29.97,Default,,0,0,0,,By the way, Sawatari...
-Dialogue: 0,0:18:30.19,0:18:32.71,Default,,0,0,0,,...don't you have\Nsome other big news?
-Dialogue: 0,0:18:33.16,0:18:35.75,Default,,0,0,0,,Women's intuition\Nis very sharp!
-Dialogue: 0,0:18:36.27,0:18:38.50,Default,,0,0,0,,As a matter of fact, although\NI didn't put it in the article...
-Dialogue: 0,0:18:38.74,0:18:41.97,Default,,0,0,0,,...the best scoop from last night\Nis this photograph!
-Dialogue: 0,0:18:42.65,0:18:44.77,Default,,0,0,0,,You mean the real\Nidentity of St. Tail?!
-Dialogue: 0,0:18:45.48,0:18:46.58,Default,,0,0,0,,I wonder...
-Dialogue: 0,0:18:46.69,0:18:48.15,Default,,0,0,0,,Let me see! Let me see!
-Dialogue: 0,0:18:51.13,0:18:52.19,Default,,0,0,0,,What's this?
-Dialogue: 0,0:18:55.24,0:18:56.90,Default,,0,0,0,,What is it?\NAn exclusive photo?
-Dialogue: 0,0:18:59.34,0:19:00.64,Default,,0,0,0,,Let me see, too.
-Dialogue: 0,0:19:02.69,0:19:03.67,Default,,0,0,0,,Saruwatari...
-Dialogue: 0,0:19:05.59,0:19:08.42,Default,,0,0,0,,I didn't take that photo...
-Dialogue: 0,0:19:08.53,0:19:09.52,Default,,0,0,0,,...but my acquaintance...
-Dialogue: 0,0:19:09.77,0:19:11.06,Default,,0,0,0,,...happened to have a camera...
-Dialogue: 0,0:19:11.17,0:19:12.16,Default,,0,0,0,,Saruwatari!
-Dialogue: 0,0:19:12.81,0:19:15.57,Default,,0,0,0,,Boy...\NOh, a butterfly!
-Dialogue: 0,0:19:16.18,0:19:17.84,Default,,0,0,0,,Ah-cho!
-Dialogue: 0,0:19:18.18,0:19:19.74,Default,,0,0,0,,Wait a minute!
+Dialogue: 0,0:00:07.99,0:00:10.89,saint tail default,,0,0,0,,It's nice to walk in the forest!
+Dialogue: 0,0:00:11.09,0:00:14.55,saint tail default,,0,0,0,,I've heard that trees produce\Nelements which relax people.
+Dialogue: 0,0:00:15.77,0:00:17.89,saint tail default,,0,0,0,,The girls who are tired\Nof the business of urban life...
+Dialogue: 0,0:00:18.01,0:00:20.47,saint tail default,,0,0,0,,...are resting for a minute,\NI suppose.
+Dialogue: 0,0:00:20.81,0:00:23.18,saint tail default,,0,0,0,,Hey! Why don't we\Nrace to that tree?
+Dialogue: 0,0:00:23.38,0:00:24.51,saint tail default,,0,0,0,,All right!
+Dialogue: 0,0:00:24.79,0:00:26.75,saint tail default,,0,0,0,,Are you ready? Go!
+Dialogue: 0,0:00:34.24,0:00:35.83,saint tail default,,0,0,0,,First place!
+Dialogue: 0,0:00:47.13,0:00:49.96,saint tail default,,0,0,0,,Man! I don't know if you're\Ntired from playing or what...
+Dialogue: 0,0:00:50.17,0:00:52.19,saint tail default,,0,0,0,,...but aren't you\Nmissing the point?
+Dialogue: 0,0:00:52.31,0:00:54.14,saint tail default,,0,0,0,,We're on the mountain...
+Dialogue: 0,0:00:54.24,0:00:55.54,saint tail default,,0,0,0,,...behind the school\Nto observe nature.
+Dialogue: 0,0:00:55.65,0:00:56.64,saint tail default,,0,0,0,,But we are still in class.
+Dialogue: 0,0:00:57.18,0:00:58.67,saint tail default,,0,0,0,,Mr. Yamano is amazed, too.
+Dialogue: 0,0:01:04.83,0:01:09.17,saint tail default,,0,0,0,,A PRECIOUS\NCREATURE OF NATURE:\NSAVE THE BEAUTIFUL BUTTERFLY
+Dialogue: 0,0:01:18.36,0:01:19.48,saint tail default,,0,0,0,,It's like...
+Dialogue: 0,0:01:19.63,0:01:22.50,saint tail default,,0,0,0,,...when you put out cotton\Nsoaked in sugar water...
+Dialogue: 0,0:01:23.07,0:01:25.20,saint tail default,,0,0,0,,...then different\Ninsects gather.
+Dialogue: 0,0:01:25.74,0:01:28.30,saint tail default,,0,0,0,,Here, in particular, there are\Nmany varieties of butterflies.
+Dialogue: 0,0:01:36.53,0:01:37.55,saint tail default,,0,0,0,,Beautiful!
+Dialogue: 0,0:01:37.70,0:01:39.39,saint tail default,,0,0,0,,I wonder what those\Nbutterflies are called.
+Dialogue: 0,0:01:39.64,0:01:41.16,saint tail default,,0,0,0,,Aren't they swallowtails\Nor something?
+Dialogue: 0,0:01:41.67,0:01:44.30,saint tail default,,0,0,0,,They look a little\Ndifferent to me...
+Dialogue: 0,0:01:45.08,0:01:47.51,saint tail default,,0,0,0,,They're called\NYamano Oomurasaki.
+Dialogue: 0,0:01:47.62,0:01:49.38,saint tail default,,0,0,0,,Yamano Oomurasaki?
+Dialogue: 0,0:01:49.82,0:01:51.81,saint tail default,,0,0,0,,It's the same name\Nas yours, Mr. Yamano.
+Dialogue: 0,0:01:52.59,0:01:54.12,saint tail default,,0,0,0,,As a matter of fact,\Nthirty years ago...
+Dialogue: 0,0:01:54.30,0:01:56.63,saint tail default,,0,0,0,,...I discovered that butterfly.
+Dialogue: 0,0:02:06.56,0:02:07.99,saint tail default,,0,0,0,,The first time I saw it was...
+Dialogue: 0,0:02:08.16,0:02:10.56,saint tail default,,0,0,0,,...when I had just come\Nto this school.
+Dialogue: 0,0:02:27.40,0:02:28.42,saint tail default,,0,0,0,,Here it is!
+Dialogue: 0,0:02:28.97,0:02:30.53,saint tail default,,0,0,0,,"Yamano Oomurasaki.
+Dialogue: 0,0:02:30.94,0:02:34.63,saint tail default,,0,0,0,,Discovered by\NMr. Ikutaro Yamano in 1966.
+Dialogue: 0,0:02:34.75,0:02:37.84,saint tail default,,0,0,0,,Found in a few small areas\Nlike Seika City."
+Dialogue: 0,0:02:38.45,0:02:41.08,saint tail default,,0,0,0,,At that time there was\Na lot of green around here.
+Dialogue: 0,0:02:41.19,0:02:42.52,saint tail default,,0,0,0,,But the groves\Naround here...
+Dialogue: 0,0:02:42.63,0:02:43.86,saint tail default,,0,0,0,,...have been\Ndestroyed one by one.
+Dialogue: 0,0:02:44.10,0:02:46.07,saint tail default,,0,0,0,,Now we can only see\NYamano Oomurasaki...
+Dialogue: 0,0:02:46.27,0:02:48.86,saint tail default,,0,0,0,,...right here\Nin the forest of St. Paulia.
+Dialogue: 0,0:02:49.14,0:02:50.44,saint tail default,,0,0,0,,Poor things...
+Dialogue: 0,0:02:50.88,0:02:52.94,saint tail default,,0,0,0,,But it's not all bad.
+Dialogue: 0,0:02:53.28,0:02:56.38,saint tail default,,0,0,0,,A few years ago,\Na law was passed...
+Dialogue: 0,0:02:56.49,0:02:58.32,saint tail default,,0,0,0,,...which prohibits taking\Nany insects from this forest.
+Dialogue: 0,0:02:58.56,0:02:59.99,saint tail default,,0,0,0,,Can you guys hear me?
+Dialogue: 0,0:03:16.90,0:03:19.06,saint tail default,,0,0,0,,Mr. Yamano has a butterfly\Nnamed after him.
+Dialogue: 0,0:03:19.23,0:03:20.89,saint tail default,,0,0,0,,He's great!
+Dialogue: 0,0:03:21.00,0:03:22.10,saint tail default,,0,0,0,,He deserves his position...
+Dialogue: 0,0:03:22.24,0:03:23.43,saint tail default,,0,0,0,,...as the special advisor\Nhere at St. Paulia Academy.
+Dialogue: 0,0:03:23.64,0:03:24.77,saint tail default,,0,0,0,,He's super nice!
+Dialogue: 0,0:03:25.05,0:03:27.31,saint tail default,,0,0,0,,What's that? I heard\N"great" and "super nice."
+Dialogue: 0,0:03:27.42,0:03:29.08,saint tail default,,0,0,0,,Is someone\Ntalking about me?
+Dialogue: 0,0:03:29.96,0:03:32.65,saint tail default,,0,0,0,,Is it Haneoka or Mimori?
+Dialogue: 0,0:03:34.50,0:03:36.12,saint tail default,,0,0,0,,Hey! What are you doing?!
+Dialogue: 0,0:03:37.77,0:03:39.76,saint tail default,,0,0,0,,Start cleaning\Nlike you're supposed to!
+Dialogue: 0,0:03:39.88,0:03:42.37,saint tail default,,0,0,0,,If you don't, I'll be scolded\Nas the group leader!
+Dialogue: 0,0:03:42.68,0:03:45.21,saint tail default,,0,0,0,,All right. I understand,\NGroup Leader!
+Dialogue: 0,0:03:46.45,0:03:49.36,saint tail default,,0,0,0,,Hey, Takamiya. You, too,\Ncome here and help us.
+Dialogue: 0,0:03:50.03,0:03:51.59,saint tail default,,0,0,0,,All right...!
+Dialogue: 0,0:03:56.71,0:03:58.23,saint tail default,,0,0,0,,Bagworm...!
+Dialogue: 0,0:04:00.55,0:04:02.45,saint tail default,,0,0,0,,The bagworm scared me!
+Dialogue: 0,0:04:08.17,0:04:10.29,saint tail default,,0,0,0,,Asuka! I was scared!
+Dialogue: 0,0:04:10.40,0:04:11.73,saint tail default,,0,0,0,,Let go of me!
+Dialogue: 0,0:04:12.01,0:04:13.84,saint tail default,,0,0,0,,It's hard to believe\Nthat Takamiya has...
+Dialogue: 0,0:04:13.94,0:04:15.60,saint tail default,,0,0,0,,...something she's afraid of...
+Dialogue: 0,0:04:15.78,0:04:16.84,saint tail default,,0,0,0,,Right, Meimi?
+Dialogue: 0,0:04:20.96,0:04:24.69,saint tail default,,0,0,0,,Hey, what kind\Nof insect don't you like?
+Dialogue: 0,0:04:25.20,0:04:27.26,saint tail default,,0,0,0,,I suppose... ants.
+Dialogue: 0,0:04:29.24,0:04:30.23,saint tail default,,0,0,0,,How about you, Kyoko?
+Dialogue: 0,0:04:30.34,0:04:31.60,saint tail default,,0,0,0,,For me it's a mantis.
+Dialogue: 0,0:04:33.38,0:04:36.08,saint tail default,,0,0,0,,I just can't stand that face.
+Dialogue: 0,0:04:36.29,0:04:38.41,saint tail default,,0,0,0,,What don't you like?
+Dialogue: 0,0:04:39.19,0:04:41.35,saint tail default,,0,0,0,,- Well...\N- Yours must be this...
+Dialogue: 0,0:04:41.60,0:04:42.59,saint tail default,,0,0,0,,Here!
+Dialogue: 0,0:04:47.51,0:04:48.53,saint tail default,,0,0,0,,Oh, shoot...!
+Dialogue: 0,0:04:48.65,0:04:50.14,saint tail default,,0,0,0,,Asuka!
+Dialogue: 0,0:05:01.44,0:05:04.30,saint tail default,,0,0,0,,You boiled the pasta\Ntoo long today.
+Dialogue: 0,0:05:04.64,0:05:05.87,saint tail default,,0,0,0,,If you're going to complain...
+Dialogue: 0,0:05:05.98,0:05:07.81,saint tail default,,0,0,0,,...why don't you cook\Nonce in a while?!
+Dialogue: 0,0:05:08.55,0:05:10.54,saint tail default,,0,0,0,,And what happened\Nto your face?
+Dialogue: 0,0:05:10.66,0:05:11.92,saint tail default,,0,0,0,,Nothing.
+Dialogue: 0,0:05:12.39,0:05:13.66,saint tail default,,0,0,0,,It's a girlfriend, isn't it?
+Dialogue: 0,0:05:14.73,0:05:15.96,saint tail default,,0,0,0,,No!
+Dialogue: 0,0:05:16.63,0:05:17.62,saint tail default,,0,0,0,,I remember when...
+Dialogue: 0,0:05:17.77,0:05:19.43,saint tail default,,0,0,0,,...great-great-grandfather\Nwould tell us...
+Dialogue: 0,0:05:19.71,0:05:22.11,saint tail default,,0,0,0,,...that we're a family who\Nhas trouble with women.
+Dialogue: 0,0:05:22.28,0:05:24.01,saint tail default,,0,0,0,,Shut up!
+Dialogue: 0,0:05:31.00,0:05:33.12,saint tail default,,0,0,0,,Oh, shoot. I did it again.
+Dialogue: 0,0:05:33.67,0:05:35.69,saint tail default,,0,0,0,,He must be very angry now.
+Dialogue: 0,0:05:38.38,0:05:40.21,saint tail default,,0,0,0,,Hey, Ruby!
+Dialogue: 0,0:06:29.01,0:06:30.34,saint tail default,,0,0,0,,Mr. Yamano...
+Dialogue: 0,0:06:31.89,0:06:32.87,saint tail default,,0,0,0,,Mimori...
+Dialogue: 0,0:06:35.63,0:06:38.92,saint tail default,,0,0,0,,You can't find a single\NYamano Oomurasaki?
+Dialogue: 0,0:06:40.27,0:06:41.93,saint tail default,,0,0,0,,Who would do\Nsuch a terrible thing?
+Dialogue: 0,0:06:42.94,0:06:44.93,saint tail default,,0,0,0,,I hate to accuse anyone...
+Dialogue: 0,0:06:45.48,0:06:47.50,saint tail default,,0,0,0,,...but I can guess who did it...
+Dialogue: 0,0:06:49.72,0:06:53.55,saint tail default,,0,0,0,,About a week ago,\Ntwo young men visited me.
+Dialogue: 0,0:06:55.20,0:06:58.29,saint tail default,,0,0,0,,So you want to collect\Na Yamano Oomurasaki...
+Dialogue: 0,0:06:58.54,0:07:02.47,saint tail default,,0,0,0,,...in the forest of St. Paulia, right?\NIt's impossible.
+Dialogue: 0,0:07:03.08,0:07:05.52,saint tail default,,0,0,0,,This is a protected habitat\Nfor the Yamano Oomurasaki.
+Dialogue: 0,0:07:06.02,0:07:08.18,saint tail default,,0,0,0,,The law prohibits\Ntheir collection.
+Dialogue: 0,0:07:08.93,0:07:11.83,saint tail default,,0,0,0,,So why don't you\Ngive up and go home?
+Dialogue: 0,0:07:12.00,0:07:15.63,saint tail default,,0,0,0,,Mr. Yamano,\Nwe already knew that.
+Dialogue: 0,0:07:15.81,0:07:18.33,saint tail default,,0,0,0,,That's why we came here\Nto discuss it with you.
+Dialogue: 0,0:07:19.38,0:07:22.47,saint tail default,,0,0,0,,How about just a few?
+Dialogue: 0,0:07:22.59,0:07:24.02,saint tail default,,0,0,0,,No one would know.
+Dialogue: 0,0:07:24.22,0:07:25.82,saint tail default,,0,0,0,,I won't do that!
+Dialogue: 0,0:07:28.46,0:07:31.83,saint tail default,,0,0,0,,Idiots!\NDon't come back again!
+Dialogue: 0,0:07:34.38,0:07:38.34,saint tail default,,0,0,0,,I suppose they did it\Nas revenge for my refusal.
+Dialogue: 0,0:07:39.72,0:07:41.92,saint tail default,,0,0,0,,Mimori, no, Sister...
+Dialogue: 0,0:07:42.49,0:07:44.69,saint tail default,,0,0,0,,Will you hear my prayer?
+Dialogue: 0,0:07:44.80,0:07:45.79,saint tail default,,0,0,0,,What is it?
+Dialogue: 0,0:07:46.87,0:07:49.80,saint tail default,,0,0,0,,Could you ask God,\Nwith me...
+Dialogue: 0,0:07:50.68,0:07:52.27,saint tail default,,0,0,0,,...that those butterflies...
+Dialogue: 0,0:07:52.48,0:07:55.41,saint tail default,,0,0,0,,...will return to the forest\Nof St. Paulia again?
+Dialogue: 0,0:07:55.85,0:07:56.95,saint tail default,,0,0,0,,Mr. Yamano...
+Dialogue: 0,0:08:05.87,0:08:06.84,saint tail default,,0,0,0,,That's terrible!
+Dialogue: 0,0:08:07.11,0:08:08.80,saint tail default,,0,0,0,,I investigated...
+Dialogue: 0,0:08:08.98,0:08:11.14,saint tail default,,0,0,0,,...and discovered that\NMr. Yamano was correct.
+Dialogue: 0,0:08:11.85,0:08:13.65,saint tail default,,0,0,0,,The two men,\NYoshiyuki Ishida...
+Dialogue: 0,0:08:13.79,0:08:15.31,saint tail default,,0,0,0,,...and Kenichi Kawai live in\Na European-style building...
+Dialogue: 0,0:08:15.49,0:08:16.98,saint tail default,,0,0,0,,...on Seventh Avenue.
+Dialogue: 0,0:08:17.50,0:08:18.96,saint tail default,,0,0,0,,On the surface they pretend...
+Dialogue: 0,0:08:19.10,0:08:20.86,saint tail default,,0,0,0,,...to be regular\Nbutterfly collectors.
+Dialogue: 0,0:08:21.10,0:08:22.09,saint tail default,,0,0,0,,But behind the scenes...
+Dialogue: 0,0:08:22.21,0:08:23.37,saint tail default,,0,0,0,,...they're selling rare butterflies...
+Dialogue: 0,0:08:23.47,0:08:25.67,saint tail default,,0,0,0,,...which are illegal to catch,\Nand fetch a lot of money.
+Dialogue: 0,0:08:26.08,0:08:28.51,saint tail default,,0,0,0,,Good job, Seira!\NA wonderful investigation!
+Dialogue: 0,0:08:29.12,0:08:31.95,saint tail default,,0,0,0,,So what happened\Nto the Yamano Oomurasaki?
+Dialogue: 0,0:08:32.13,0:08:33.09,saint tail default,,0,0,0,,Don't worry.
+Dialogue: 0,0:08:33.26,0:08:36.03,saint tail default,,0,0,0,,The men are still hiding\Nthe butterflies in their house.
+Dialogue: 0,0:08:36.53,0:08:37.56,saint tail default,,0,0,0,,Meimi...
+Dialogue: 0,0:08:37.74,0:08:39.10,saint tail default,,0,0,0,,For Mr. Yamano's sake...
+Dialogue: 0,0:08:39.27,0:08:41.50,saint tail default,,0,0,0,,...please get\Nthe Yamano Oomurasaki back.
+Dialogue: 0,0:08:42.61,0:08:43.64,saint tail default,,0,0,0,,All right!
+Dialogue: 0,0:08:43.95,0:08:46.18,saint tail default,,0,0,0,,Those men are enemies\Nof the entire earth!
+Dialogue: 0,0:08:46.96,0:08:49.72,saint tail default,,0,0,0,,St. Tail will teach them\Na harsh lesson!
+Dialogue: 0,0:08:52.87,0:08:56.53,saint tail default,,0,0,0,,NIKO NIKO MART\NFRESH-MADE OMUSUBI
+Dialogue: 0,0:09:03.42,0:09:04.89,saint tail default,,0,0,0,,Shoot! It's a miss.
+Dialogue: 0,0:09:05.29,0:09:06.59,saint tail default,,0,0,0,,How about yours?
+Dialogue: 0,0:09:06.96,0:09:08.33,saint tail default,,0,0,0,,Mine, too.
+Dialogue: 0,0:09:09.13,0:09:11.16,saint tail default,,0,0,0,,Asuka, how about yours?
+Dialogue: 0,0:09:13.78,0:09:16.47,saint tail default,,0,0,0,,"Tonight I'll take\Nthe Yamano Oomurasaki...
+Dialogue: 0,0:09:16.58,0:09:18.78,saint tail default,,0,0,0,,...from the Ishida residence\Non Seventh Avenue.
+Dialogue: 0,0:09:18.89,0:09:19.87,saint tail default,,0,0,0,,-St. Tail"
+Dialogue: 0,0:09:20.26,0:09:21.65,saint tail default,,0,0,0,,It's a warning note!
+Dialogue: 0,0:09:23.39,0:09:26.45,saint tail default,,0,0,0,,I licked St. Tail's\Nwarning note...
+Dialogue: 0,0:09:26.57,0:09:28.90,saint tail default,,0,0,0,,- Let me lick it, too!\N- Me, too!
+Dialogue: 0,0:09:29.01,0:09:30.70,saint tail default,,0,0,0,,What are you doing?!
+Dialogue: 0,0:09:36.82,0:09:38.19,saint tail default,,0,0,0,,Eimi, can you come here?
+Dialogue: 0,0:09:38.29,0:09:39.26,saint tail default,,0,0,0,,What's up?
+Dialogue: 0,0:09:43.40,0:09:44.80,saint tail default,,0,0,0,,I've just had an idea.
+Dialogue: 0,0:09:45.07,0:09:46.70,saint tail default,,0,0,0,,For the opening\Nof my next magic show...
+Dialogue: 0,0:09:46.84,0:09:48.71,saint tail default,,0,0,0,,...how about this?
+Dialogue: 0,0:09:49.55,0:09:51.31,saint tail default,,0,0,0,,Oh, are doves coming out?
+Dialogue: 0,0:09:51.58,0:09:53.35,saint tail default,,0,0,0,,Not really.
+Dialogue: 0,0:09:57.23,0:09:58.66,saint tail default,,0,0,0,,Wow! Beautiful!
+Dialogue: 0,0:09:59.30,0:10:00.43,saint tail default,,0,0,0,,Really, Eimi?
+Dialogue: 0,0:10:00.54,0:10:01.73,saint tail default,,0,0,0,,Yes, really!
+Dialogue: 0,0:10:01.87,0:10:04.57,saint tail default,,0,0,0,,I'm sure your next show is\Ngoing to be another success!
+Dialogue: 0,0:10:05.95,0:10:07.04,saint tail default,,0,0,0,,Eimi...
+Dialogue: 0,0:10:07.62,0:10:09.02,saint tail default,,0,0,0,,Genichiro...
+Dialogue: 0,0:10:21.18,0:10:23.01,saint tail default,,0,0,0,,It's really embarrassing...
+Dialogue: 0,0:10:24.22,0:10:25.62,saint tail default,,0,0,0,,Oh, well.
+Dialogue: 0,0:10:25.75,0:10:27.48,saint tail default,,0,0,0,,It's a little early,\Nbut I guess I should go.
+Dialogue: 0,0:10:28.62,0:10:30.82,saint tail default,,0,0,0,,Ruby, cover for me\Nwhile I'm gone!
+Dialogue: 0,0:10:44.09,0:10:47.62,saint tail default,,0,0,0,,Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
+Dialogue: 0,0:10:52.94,0:10:54.13,saint tail default,,0,0,0,,One!
+Dialogue: 0,0:10:56.35,0:10:57.44,saint tail default,,0,0,0,,Two!
+Dialogue: 0,0:10:59.65,0:11:02.05,saint tail default,,0,0,0,,Three!
+Dialogue: 0,0:11:15.39,0:11:18.08,saint tail default,,0,0,0,,Meimi, tonight you're\Ndealing with butterflies.
+Dialogue: 0,0:11:18.32,0:11:19.85,saint tail default,,0,0,0,,Please be more\Ncareful than usual.
+Dialogue: 0,0:11:20.16,0:11:21.82,saint tail default,,0,0,0,,Yes. You can count on me!
+Dialogue: 0,0:11:24.70,0:11:27.76,saint tail default,,0,0,0,,May the blessings\Nof God be with us.
+Dialogue: 0,0:11:51.36,0:11:53.85,saint tail default,,0,0,0,,Ishida, are they\Nthat interesting?
+Dialogue: 0,0:11:54.03,0:11:55.46,saint tail default,,0,0,0,,They're just butterflies.
+Dialogue: 0,0:11:55.60,0:11:57.26,saint tail default,,0,0,0,,Just butterflies?
+Dialogue: 0,0:11:57.64,0:11:59.07,saint tail default,,0,0,0,,These are some\Nof the last in the whole world.
+Dialogue: 0,0:11:59.21,0:12:00.64,saint tail default,,0,0,0,,They're Yamano Oomurasaki!
+Dialogue: 0,0:12:01.14,0:12:04.44,saint tail default,,0,0,0,,Look at these beautiful,\Ncolorful patterns and shapes!
+Dialogue: 0,0:12:04.72,0:12:07.51,saint tail default,,0,0,0,,They are jewels\Nmade by the gods.
+Dialogue: 0,0:12:08.89,0:12:10.76,saint tail default,,0,0,0,,Sir, you have guests.
+Dialogue: 0,0:12:11.26,0:12:13.06,saint tail default,,0,0,0,,Who's here at this hour?
+Dialogue: 0,0:12:13.20,0:12:15.07,saint tail default,,0,0,0,,He said he's Asuka Jr.
+Dialogue: 0,0:12:15.47,0:12:16.77,saint tail default,,0,0,0,,Asuka Jr.?
+Dialogue: 0,0:12:17.51,0:12:18.77,saint tail default,,0,0,0,,Is it the Asuka Jr. ...
+Dialogue: 0,0:12:18.91,0:12:20.40,saint tail default,,0,0,0,,...who is the special\Ninvestigator of St. Tail?
+Dialogue: 0,0:12:20.55,0:12:21.52,saint tail default,,0,0,0,,Yes.
+Dialogue: 0,0:12:22.42,0:12:23.39,saint tail default,,0,0,0,,That means...
+Dialogue: 0,0:12:23.65,0:12:25.55,saint tail default,,0,0,0,,...St. Tail is after them...
+Dialogue: 0,0:12:26.29,0:12:27.49,saint tail default,,0,0,0,,Calm down.
+Dialogue: 0,0:12:28.00,0:12:29.46,saint tail default,,0,0,0,,Without any evidence...
+Dialogue: 0,0:12:29.63,0:12:31.73,saint tail default,,0,0,0,,...no one can do anything to us.
+Dialogue: 0,0:12:32.57,0:12:34.44,saint tail default,,0,0,0,,All right. Tell him\Nwe'll be with him in a minute.
+Dialogue: 0,0:12:34.61,0:12:35.60,saint tail default,,0,0,0,,Yes.
+Dialogue: 0,0:12:38.35,0:12:41.62,saint tail default,,0,0,0,,If they discover\Nthese here, I'll be...
+Dialogue: 0,0:12:42.12,0:12:43.32,saint tail default,,0,0,0,,Don't worry.
+Dialogue: 0,0:12:43.49,0:12:45.22,saint tail default,,0,0,0,,We'll hide them\Nin the usual place.
+Dialogue: 0,0:12:52.41,0:12:54.94,saint tail default,,0,0,0,,Are you Asuka Jr.?\NWhat's the problem?
+Dialogue: 0,0:12:56.22,0:12:57.48,saint tail default,,0,0,0,,St. Tail warned us...
+Dialogue: 0,0:12:57.59,0:12:59.92,saint tail default,,0,0,0,,...that she will steal some\NYamano Oomurasaki.
+Dialogue: 0,0:13:00.03,0:13:01.08,saint tail default,,0,0,0,,Where are the butterflies?
+Dialogue: 0,0:13:02.03,0:13:03.66,saint tail default,,0,0,0,,That's strange.
+Dialogue: 0,0:13:04.13,0:13:07.50,saint tail default,,0,0,0,,We don't have those\Nbutterflies in our collection.
+Dialogue: 0,0:13:07.88,0:13:09.14,saint tail default,,0,0,0,,Anything wrong?
+Dialogue: 0,0:13:09.25,0:13:10.41,saint tail default,,0,0,0,,Nothing...
+Dialogue: 0,0:13:11.12,0:13:14.95,saint tail default,,0,0,0,,It is true that our hobby\Nis collecting butterflies.
+Dialogue: 0,0:13:15.73,0:13:20.36,saint tail default,,0,0,0,,But it's illegal to catch\Na Yamano Oomurasaki.
+Dialogue: 0,0:13:20.67,0:13:23.33,saint tail default,,0,0,0,,There is no way\Nwe would have them.
+Dialogue: 0,0:13:24.04,0:13:25.77,saint tail default,,0,0,0,,So you're sure...
+Dialogue: 0,0:13:25.88,0:13:27.04,saint tail default,,0,0,0,,...that there aren't...
+Dialogue: 0,0:13:27.22,0:13:28.61,saint tail default,,0,0,0,,...any Yamano Oomurasaki\Nin this house?
+Dialogue: 0,0:13:29.15,0:13:30.35,saint tail default,,0,0,0,,I've had enough!
+Dialogue: 0,0:13:30.76,0:13:31.98,saint tail default,,0,0,0,,If you don't believe us...
+Dialogue: 0,0:13:32.12,0:13:33.65,saint tail default,,0,0,0,,...why don't you\Nsearch the house?
+Dialogue: 0,0:13:46.65,0:13:49.32,saint tail default,,0,0,0,,There's a pool...\NThey live in a mansion.
+Dialogue: 0,0:13:49.73,0:13:51.35,saint tail default,,0,0,0,,He inherited it.
+Dialogue: 0,0:13:52.83,0:13:54.03,saint tail default,,0,0,0,,How is your search going?
+Dialogue: 0,0:13:54.74,0:13:55.83,saint tail default,,0,0,0,,Well, Asuka Jr. ...
+Dialogue: 0,0:13:55.97,0:13:58.57,saint tail default,,0,0,0,,We haven't seen\Na single butterfly outside.
+Dialogue: 0,0:13:58.94,0:14:02.14,saint tail default,,0,0,0,,I see. That's enough out here.\NPlease help us inside.
+Dialogue: 0,0:14:02.35,0:14:03.32,saint tail default,,0,0,0,,Yes.
+Dialogue: 0,0:14:09.16,0:14:11.86,saint tail default,,0,0,0,,I have to fiind the butterflies\Nbefore Asuka Jr. does.
+Dialogue: 0,0:14:15.48,0:14:18.04,saint tail default,,0,0,0,,Where on earth\Nare they hiding them?
+Dialogue: 0,0:14:22.39,0:14:23.36,saint tail default,,0,0,0,,I see!
+Dialogue: 0,0:14:24.09,0:14:26.39,saint tail default,,0,0,0,,Asuka Jr., we haven't\Nfound any on the first floor.
+Dialogue: 0,0:14:26.50,0:14:28.26,saint tail default,,0,0,0,,There aren't any\Non the second floor or in the attic.
+Dialogue: 0,0:14:29.14,0:14:30.37,saint tail default,,0,0,0,,Why don't you admit...
+Dialogue: 0,0:14:30.47,0:14:33.17,saint tail default,,0,0,0,,...that you've made\Na mistake, Asuka Jr.?
+Dialogue: 0,0:14:33.41,0:14:34.57,saint tail default,,0,0,0,,It can't be right...
+Dialogue: 0,0:14:34.95,0:14:36.14,saint tail default,,0,0,0,,It's impossible...
+Dialogue: 0,0:14:36.25,0:14:38.65,saint tail default,,0,0,0,,...that St. Tail would send\Na fake warning note.
+Dialogue: 0,0:14:39.66,0:14:42.39,saint tail default,,0,0,0,,Rather than listening\Nto the words of a citizen...
+Dialogue: 0,0:14:42.53,0:14:44.56,saint tail default,,0,0,0,,...you trust the words of a thief?
+Dialogue: 0,0:14:45.87,0:14:48.97,saint tail default,,0,0,0,,How rude! I told the truth!
+Dialogue: 0,0:14:50.85,0:14:51.84,saint tail default,,0,0,0,,St. Tail!
+Dialogue: 0,0:14:57.40,0:14:58.38,saint tail default,,0,0,0,,It's...
+Dialogue: 0,0:15:00.00,0:15:02.70,saint tail default,,0,0,0,,...Show...
+Dialogue: 0,0:15:03.61,0:15:04.87,saint tail default,,0,0,0,,...Time!
+Dialogue: 0,0:15:17.27,0:15:19.00,saint tail default,,0,0,0,,It's the butterflies' curse!
+Dialogue: 0,0:15:19.37,0:15:22.14,saint tail default,,0,0,0,,I'm not deceived\Nby this illusion!
+Dialogue: 0,0:15:26.69,0:15:27.71,saint tail default,,0,0,0,,Good evening!
+Dialogue: 0,0:15:28.36,0:15:30.48,saint tail default,,0,0,0,,I came to pick up\Nthe Yamano Oomurasaki!
+Dialogue: 0,0:15:30.96,0:15:33.52,saint tail default,,0,0,0,,St. Tail! Battle with me!
+Dialogue: 0,0:15:34.34,0:15:35.46,saint tail default,,0,0,0,,One!
+Dialogue: 0,0:15:35.57,0:15:36.60,saint tail default,,0,0,0,,Two!
+Dialogue: 0,0:15:36.71,0:15:37.80,saint tail default,,0,0,0,,Three!
+Dialogue: 0,0:15:49.57,0:15:51.06,saint tail default,,0,0,0,,Yamano Oomurasaki!
+Dialogue: 0,0:15:51.17,0:15:53.40,saint tail default,,0,0,0,,We searched everywhere,\Nand we couldn't find them...!
+Dialogue: 0,0:15:53.87,0:15:55.14,saint tail default,,0,0,0,,There's a difference out here!
+Dialogue: 0,0:15:55.24,0:15:56.21,saint tail default,,0,0,0,,What?!
+Dialogue: 0,0:15:56.98,0:15:58.38,saint tail default,,0,0,0,,That's what I said...
+Dialogue: 0,0:15:58.62,0:16:01.55,saint tail default,,0,0,0,,...but I just saw the reflection\Nof the wings by the moonlight.
+Dialogue: 0,0:16:04.70,0:16:06.06,saint tail default,,0,0,0,,They're my butterflies!
+Dialogue: 0,0:16:06.17,0:16:07.22,saint tail default,,0,0,0,,Give them back!
+Dialogue: 0,0:16:07.33,0:16:08.93,saint tail default,,0,0,0,,Arrest these guys!
+Dialogue: 0,0:16:14.08,0:16:15.88,saint tail default,,0,0,0,,I'm taking these butterflies!
+Dialogue: 0,0:16:16.29,0:16:17.91,saint tail default,,0,0,0,,I won't let you escape!
+Dialogue: 0,0:16:24.50,0:16:25.90,saint tail default,,0,0,0,,Wait!
+Dialogue: 0,0:16:35.42,0:16:37.65,saint tail default,,0,0,0,,He definitely did a belly flop!
+Dialogue: 0,0:16:39.26,0:16:40.39,saint tail default,,0,0,0,,Are you all right?
+Dialogue: 0,0:16:41.17,0:16:44.54,saint tail default,,0,0,0,,Shut up! Next time\NI'll definitely catch you!
+Dialogue: 0,0:16:44.64,0:16:45.61,saint tail default,,0,0,0,,All right!
+Dialogue: 0,0:17:38.12,0:17:41.02,saint tail default,,0,0,0,,God, thank you very much.
+Dialogue: 0,0:17:54.75,0:17:55.72,saint tail default,,0,0,0,,Good morning!
+Dialogue: 0,0:17:55.85,0:17:56.82,saint tail default,,0,0,0,,Good morning!
+Dialogue: 0,0:17:57.46,0:17:59.75,saint tail default,,0,0,0,,Oh, I wonder what it is...
+Dialogue: 0,0:18:05.30,0:18:08.50,saint tail default,,0,0,0,,"St. Tail shows up\Nat the butterfly mansion!"
+Dialogue: 0,0:18:09.38,0:18:10.84,saint tail default,,0,0,0,,Good morning, Haneoka!
+Dialogue: 0,0:18:10.98,0:18:13.95,saint tail default,,0,0,0,,Look at my big scoop!
+Dialogue: 0,0:18:14.25,0:18:18.62,saint tail default,,0,0,0,,So it was the same people\Nwho damaged our mountain.
+Dialogue: 0,0:18:19.00,0:18:20.93,saint tail default,,0,0,0,,Besides the Yamano Oomurasaki...
+Dialogue: 0,0:18:21.03,0:18:23.40,saint tail default,,0,0,0,,...those men were selling\Nother butterflies, too.
+Dialogue: 0,0:18:24.04,0:18:26.94,saint tail default,,0,0,0,,Mr. Yamano must\Nbe relieved now.
+Dialogue: 0,0:18:27.48,0:18:29.97,saint tail default,,0,0,0,,By the way, Sawatari...
+Dialogue: 0,0:18:30.19,0:18:32.71,saint tail default,,0,0,0,,...don't you have\Nsome other big news?
+Dialogue: 0,0:18:33.16,0:18:35.75,saint tail default,,0,0,0,,Women's intuition\Nis very sharp!
+Dialogue: 0,0:18:36.27,0:18:38.50,saint tail default,,0,0,0,,As a matter of fact, although\NI didn't put it in the article...
+Dialogue: 0,0:18:38.74,0:18:41.97,saint tail default,,0,0,0,,...the best scoop from last night\Nis this photograph!
+Dialogue: 0,0:18:42.65,0:18:44.77,saint tail default,,0,0,0,,You mean the real\Nidentity of St. Tail?!
+Dialogue: 0,0:18:45.48,0:18:46.58,saint tail default,,0,0,0,,I wonder...
+Dialogue: 0,0:18:46.69,0:18:48.15,saint tail default,,0,0,0,,Let me see! Let me see!
+Dialogue: 0,0:18:51.13,0:18:52.19,saint tail default,,0,0,0,,What's this?
+Dialogue: 0,0:18:55.24,0:18:56.90,saint tail default,,0,0,0,,What is it?\NAn exclusive photo?
+Dialogue: 0,0:18:59.34,0:19:00.64,saint tail default,,0,0,0,,Let me see, too.
+Dialogue: 0,0:19:02.69,0:19:03.67,saint tail default,,0,0,0,,Saruwatari...
+Dialogue: 0,0:19:05.59,0:19:08.42,saint tail default,,0,0,0,,I didn't take that photo...
+Dialogue: 0,0:19:08.53,0:19:09.52,saint tail default,,0,0,0,,...but my acquaintance...
+Dialogue: 0,0:19:09.77,0:19:11.06,saint tail default,,0,0,0,,...happened to have a camera...
+Dialogue: 0,0:19:11.17,0:19:12.16,saint tail default,,0,0,0,,Saruwatari!
+Dialogue: 0,0:19:12.81,0:19:15.57,saint tail default,,0,0,0,,Boy...\NOh, a butterfly!
+Dialogue: 0,0:19:16.18,0:19:17.84,saint tail default,,0,0,0,,Ah-cho!
+Dialogue: 0,0:19:18.18,0:19:19.74,saint tail default,,0,0,0,,Wait a minute!

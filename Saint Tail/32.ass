@@ -13,346 +13,350 @@ Video File: source/32.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,2.0,2.0,2,10,10,10,1
+Style: saint tail default,Calibri,80,&H00FBFBFB,&H000000FF,&H00373737,&H80373737,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,2,50,50,50,1
+Style: saint tail sign,Calibri,75,&H00D4FFED,&H000000FF,&H006E8E22,&HC7000000,-1,-1,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,8,50,50,50,1
+Style: saint tail title,Campanile,150,&H00EDE6FF,&H000000FF,&H009457EA,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
+Style: saint tail op en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
+Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,70,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.71,0:00:09.31,Default,,0,0,0,,Mikako! Good morning!
-Dialogue: 0,0:00:09.42,0:00:10.48,Default,,0,0,0,,Good morning!
-Dialogue: 0,0:00:10.59,0:00:12.49,Default,,0,0,0,,- Good morning!\N- Good luck!
-Dialogue: 0,0:00:15.70,0:00:19.29,Default,,0,0,0,,Meimi, you look\Nvery sleepy today.
-Dialogue: 0,0:00:19.40,0:00:21.17,Default,,0,0,0,,Yeah, yesterday's homework...
-Dialogue: 0,0:00:21.27,0:00:22.24,Default,,0,0,0,,Hey!
-Dialogue: 0,0:00:23.08,0:00:25.10,Default,,0,0,0,,Why are you looking\Nso gloomy in the morning?
-Dialogue: 0,0:00:25.21,0:00:26.61,Default,,0,0,0,,What did you say?!
-Dialogue: 0,0:00:26.72,0:00:29.98,Default,,0,0,0,,With that expression on your face,\Nyou can't enjoy the day!
-Dialogue: 0,0:00:31.13,0:00:32.18,Default,,0,0,0,,Good morning!
-Dialogue: 0,0:00:32.96,0:00:34.79,Default,,0,0,0,,You two are so close!
-Dialogue: 0,0:00:34.90,0:00:37.09,Default,,0,0,0,,Mikako! What are\Nyou talking about?!
-Dialogue: 0,0:00:39.01,0:00:41.34,Default,,0,0,0,,You're running\Nthis early, aren't you?
-Dialogue: 0,0:00:41.91,0:00:44.51,Default,,0,0,0,,Because soon we'll\Ncommemorate the year...
-Dialogue: 0,0:00:44.62,0:00:47.21,Default,,0,0,0,,...of the Olympics,\Nand we're going to have...
-Dialogue: 0,0:00:47.32,0:00:48.79,Default,,0,0,0,,...the Seika Open Marathon.
-Dialogue: 0,0:00:48.89,0:00:50.42,Default,,0,0,0,,That's right! See you later!
-Dialogue: 0,0:00:52.20,0:00:54.29,Default,,0,0,0,,Saruwatari was pretty excited!
-Dialogue: 0,0:00:54.40,0:00:57.07,Default,,0,0,0,,He says that Mikako\Nwill represent our school...
-Dialogue: 0,0:00:57.18,0:00:59.14,Default,,0,0,0,,...and she's favored\Nto win the race.
-Dialogue: 0,0:00:59.58,0:01:02.51,Default,,0,0,0,,I see... Mikako!\NGood luck!
-Dialogue: 0,0:01:04.09,0:01:05.06,Default,,0,0,0,,Thank you!
-Dialogue: 0,0:01:06.73,0:01:11.03,Default,,0,0,0,,STEAL A WOMAN'S\NMARATHON RUNNING SHOES
-Dialogue: 0,0:01:12.57,0:01:14.54,Default,,0,0,0,,Hey, Meimi! After school today...
-Dialogue: 0,0:01:14.64,0:01:16.17,Default,,0,0,0,,...can you go shopping with us?
-Dialogue: 0,0:01:16.45,0:01:17.47,Default,,0,0,0,,All right!
-Dialogue: 0,0:01:18.05,0:01:19.68,Default,,0,0,0,,Hi, Haneoka!
-Dialogue: 0,0:01:19.92,0:01:22.82,Default,,0,0,0,,I want you to go\Nsomewhere with me.
-Dialogue: 0,0:01:23.26,0:01:26.39,Default,,0,0,0,,Sorry! I've just made plans.
-Dialogue: 0,0:01:27.53,0:01:30.66,Default,,0,0,0,,Well, it has to be today.
-Dialogue: 0,0:01:31.31,0:01:33.77,Default,,0,0,0,,To tell you the truth,\NI'm writing an article...
-Dialogue: 0,0:01:33.88,0:01:36.28,Default,,0,0,0,,...about an attractive runner's\Nroad to victory.
-Dialogue: 0,0:01:36.85,0:01:37.94,Default,,0,0,0,,I know! It's a special...
-Dialogue: 0,0:01:38.05,0:01:39.82,Default,,0,0,0,,...about the senior, Mikako Tamura.
-Dialogue: 0,0:01:40.49,0:01:42.05,Default,,0,0,0,,What's wrong with that?
-Dialogue: 0,0:01:43.23,0:01:45.79,Default,,0,0,0,,Today Mikako will practice\Non the riverbank.
-Dialogue: 0,0:01:46.34,0:01:48.20,Default,,0,0,0,,I want to take some pictures there...
-Dialogue: 0,0:01:48.31,0:01:50.03,Default,,0,0,0,,...showing her supportive friends.
-Dialogue: 0,0:01:50.84,0:01:52.87,Default,,0,0,0,,I was wondering if you would be\None of her fans in the photographs.
-Dialogue: 0,0:01:53.78,0:01:56.15,Default,,0,0,0,,Sounds like fun!\NLet's all go together!
-Dialogue: 0,0:01:56.49,0:01:57.82,Default,,0,0,0,,You told us your plan...
-Dialogue: 0,0:01:57.92,0:02:00.19,Default,,0,0,0,,...but your real purpose\Nis to take pictures...
-Dialogue: 0,0:02:00.30,0:02:01.59,Default,,0,0,0,,...of Meimi, isn't it?
-Dialogue: 0,0:02:01.70,0:02:03.39,Default,,0,0,0,,Well, that's one of the reasons.
-Dialogue: 0,0:02:03.70,0:02:04.96,Default,,0,0,0,,In the past week...
-Dialogue: 0,0:02:05.10,0:02:07.44,Default,,0,0,0,,...I've been following her\Nin order to write an article about her.
-Dialogue: 0,0:02:07.88,0:02:09.64,Default,,0,0,0,,But she doesn't look very happy.
-Dialogue: 0,0:02:09.91,0:02:12.71,Default,,0,0,0,,So I was wondering\Nif we could all try to cheer her up.
-Dialogue: 0,0:02:13.45,0:02:15.44,Default,,0,0,0,,Good for you, Sawatari!
-Dialogue: 0,0:02:16.09,0:02:18.36,Default,,0,0,0,,All right! I'm going\Nto be supportive of her!
-Dialogue: 0,0:02:18.63,0:02:20.10,Default,,0,0,0,,Yeah! That's a good angle!
-Dialogue: 0,0:02:20.43,0:02:22.20,Default,,0,0,0,,Haneoka is in the middle!\NYeah! That's right!
-Dialogue: 0,0:02:22.30,0:02:23.29,Default,,0,0,0,,Very good!
-Dialogue: 0,0:02:26.04,0:02:28.44,Default,,0,0,0,,There she is! Mikako!
-Dialogue: 0,0:02:28.55,0:02:30.02,Default,,0,0,0,,- Yay!\N- Good luck!
-Dialogue: 0,0:02:39.90,0:02:41.67,Default,,0,0,0,,Oh, all of you came!
-Dialogue: 0,0:02:41.77,0:02:42.74,Default,,0,0,0,,Take this...!
-Dialogue: 0,0:02:42.94,0:02:44.03,Default,,0,0,0,,Thank you!
-Dialogue: 0,0:02:44.14,0:02:45.70,Default,,0,0,0,,We're going to speed it up!
-Dialogue: 0,0:02:45.81,0:02:46.91,Default,,0,0,0,,Yes!
-Dialogue: 0,0:03:02.61,0:03:03.67,Default,,0,0,0,,Mr. Tsukamoto!
-Dialogue: 0,0:03:03.78,0:03:05.04,Default,,0,0,0,,Remember my shoes\Nthat you had the other day?
-Dialogue: 0,0:03:05.15,0:03:06.68,Default,,0,0,0,,What did you do with them?!
-Dialogue: 0,0:03:08.56,0:03:10.46,Default,,0,0,0,,Go away!\NWe're in the middle of a workout!
-Dialogue: 0,0:03:12.43,0:03:13.99,Default,,0,0,0,,Mikako!
-Dialogue: 0,0:03:15.00,0:03:16.13,Default,,0,0,0,,Come on, Hiroko! Let's go!
-Dialogue: 0,0:03:16.24,0:03:17.33,Default,,0,0,0,,All right.
-Dialogue: 0,0:03:19.61,0:03:22.71,Default,,0,0,0,,I did it!\NI captured their rivalry!
-Dialogue: 0,0:03:23.55,0:03:25.14,Default,,0,0,0,,Was I wrong...?
-Dialogue: 0,0:03:25.49,0:03:26.51,Default,,0,0,0,,Yeah...!
-Dialogue: 0,0:03:31.74,0:03:33.17,Default,,0,0,0,,Who's that girl?
-Dialogue: 0,0:03:33.84,0:03:37.71,Default,,0,0,0,,She is considered\Nthe biggest threat to Mikako.
-Dialogue: 0,0:03:38.01,0:03:40.45,Default,,0,0,0,,She's Hiroko Hashimoto\Nfrom Seika Minami Academy.
-Dialogue: 0,0:03:40.89,0:03:42.72,Default,,0,0,0,,She doesn't seem very nice.
-Dialogue: 0,0:03:43.32,0:03:45.26,Default,,0,0,0,,She's the daughter\Nof the Chairman of the Board.
-Dialogue: 0,0:03:45.43,0:03:47.22,Default,,0,0,0,,She has her own coach.
-Dialogue: 0,0:03:48.07,0:03:50.69,Default,,0,0,0,,Oh, is that the man on the bicycle?
-Dialogue: 0,0:03:56.58,0:03:57.67,Default,,0,0,0,,I wonder if something's...
-Dialogue: 0,0:03:57.78,0:03:59.12,Default,,0,0,0,,...going on between those two.
-Dialogue: 0,0:04:07.10,0:04:09.57,Default,,0,0,0,,Don't you need to practice today?
-Dialogue: 0,0:04:10.71,0:04:12.04,Default,,0,0,0,,I don't care about practice...
-Dialogue: 0,0:04:12.58,0:04:16.17,Default,,0,0,0,,I... I can't run anymore...!
-Dialogue: 0,0:04:16.82,0:04:20.45,Default,,0,0,0,,If you don't mind,\Ncould you tell me why?
-Dialogue: 0,0:04:23.03,0:04:24.23,Default,,0,0,0,,The other day...
-Dialogue: 0,0:04:24.40,0:04:27.67,Default,,0,0,0,,...we had a practice workout\Nat Seika Minami Academy.
-Dialogue: 0,0:04:28.34,0:04:29.64,Default,,0,0,0,,Hiroko's coach...
-Dialogue: 0,0:04:29.81,0:04:31.30,Default,,0,0,0,,...Mr. Tsukamoto approached me.
-Dialogue: 0,0:04:31.62,0:04:34.11,Default,,0,0,0,,Mikako. As usual,\Nyour times are great.
-Dialogue: 0,0:04:34.49,0:04:35.61,Default,,0,0,0,,Thank you very much.
-Dialogue: 0,0:04:36.16,0:04:37.22,Default,,0,0,0,,I would like to see...
-Dialogue: 0,0:04:37.43,0:04:38.59,Default,,0,0,0,,...your custom jogging shoes.
-Dialogue: 0,0:04:38.76,0:04:41.39,Default,,0,0,0,,We'd like to check them out.
-Dialogue: 0,0:04:42.14,0:04:43.30,Default,,0,0,0,,Sure!
-Dialogue: 0,0:04:45.34,0:04:47.90,Default,,0,0,0,,He said he would\Nreturn them right away...
-Dialogue: 0,0:04:48.01,0:04:51.35,Default,,0,0,0,,...and I lent them to him\Nwithout being suspicious.
-Dialogue: 0,0:04:54.46,0:04:57.86,Default,,0,0,0,,The next day, the shoes\Nwere returned right away.
-Dialogue: 0,0:04:58.10,0:04:59.53,Default,,0,0,0,,But...
-Dialogue: 0,0:05:00.00,0:05:01.44,Default,,0,0,0,,Ouch!
-Dialogue: 0,0:05:04.51,0:05:06.27,Default,,0,0,0,,The shoes he returned\Nweren't mine...
-Dialogue: 0,0:05:06.55,0:05:09.11,Default,,0,0,0,,...and a pin was hidden inside.
-Dialogue: 0,0:05:09.45,0:05:11.15,Default,,0,0,0,,If I had been wearing\Nthem in the race...
-Dialogue: 0,0:05:11.26,0:05:12.92,Default,,0,0,0,,...and didn't notice,\Nmy foot would have been...
-Dialogue: 0,0:05:15.17,0:05:17.53,Default,,0,0,0,,That's very cruel sabotage!
-Dialogue: 0,0:05:18.17,0:05:23.16,Default,,0,0,0,,My shoes were custom-made\Nabroad for my feet.
-Dialogue: 0,0:05:23.95,0:05:25.21,Default,,0,0,0,,If I order another pair...
-Dialogue: 0,0:05:25.42,0:05:27.15,Default,,0,0,0,,...they won't be here\Nin time for the race...
-Dialogue: 0,0:05:27.49,0:05:30.75,Default,,0,0,0,,Without them my times\Nwon't be good enough to win.
-Dialogue: 0,0:05:31.30,0:05:35.06,Default,,0,0,0,,My real shoes must be\Nat Tsukamoto's place.
-Dialogue: 0,0:05:35.44,0:05:37.63,Default,,0,0,0,,I went there to get them back...
-Dialogue: 0,0:05:37.81,0:05:39.40,Default,,0,0,0,,...but they chased me away...
-Dialogue: 0,0:05:44.19,0:05:48.02,Default,,0,0,0,,Don't worry. I'm sure\NGod will protect you.
-Dialogue: 0,0:05:57.28,0:05:59.91,Default,,0,0,0,,All right, Hiroko!\NThat's all for today.
-Dialogue: 0,0:06:02.49,0:06:03.89,Default,,0,0,0,,Thank you for the workout!
-Dialogue: 0,0:06:11.44,0:06:12.40,Default,,0,0,0,,Father...!
-Dialogue: 0,0:06:18.42,0:06:20.01,Default,,0,0,0,,Tsukamoto, you're positive...
-Dialogue: 0,0:06:20.12,0:06:22.52,Default,,0,0,0,,...that you can assure\Nmy Hiroko of a win, aren't you?
-Dialogue: 0,0:06:23.29,0:06:24.42,Default,,0,0,0,,Of course!
-Dialogue: 0,0:06:24.63,0:06:26.06,Default,,0,0,0,,When she gets first place...
-Dialogue: 0,0:06:26.27,0:06:29.67,Default,,0,0,0,,...you'll keep your promise,\Nwon't you, Mr. Chairman?
-Dialogue: 0,0:06:30.27,0:06:31.47,Default,,0,0,0,,I'm aware of what you want.
-Dialogue: 0,0:06:32.04,0:06:34.27,Default,,0,0,0,,If you've trained a runner\Nwho took first place...
-Dialogue: 0,0:06:34.38,0:06:36.18,Default,,0,0,0,,...it's easier for me to reward you...
-Dialogue: 0,0:06:36.29,0:06:38.38,Default,,0,0,0,,...with a winning bonus\Nand a promotion...
-Dialogue: 0,0:06:38.49,0:06:40.15,Default,,0,0,0,,...to the school's Head Coach...
-Dialogue: 0,0:06:40.26,0:06:41.39,Default,,0,0,0,,...at the board meeting.
-Dialogue: 0,0:06:42.00,0:06:44.06,Default,,0,0,0,,I'll ensure that she wins\Nno matter what...!
-Dialogue: 0,0:06:44.53,0:06:46.47,Default,,0,0,0,,I have a secret plan.
-Dialogue: 0,0:06:46.71,0:06:47.97,Default,,0,0,0,,I'm counting on you.
-Dialogue: 0,0:06:48.11,0:06:49.94,Default,,0,0,0,,If my daughter\Nbecomes the top runner...
-Dialogue: 0,0:06:50.04,0:06:52.14,Default,,0,0,0,,...my position at the school\Nwill be solidified.
-Dialogue: 0,0:06:52.88,0:06:55.58,Default,,0,0,0,,Coach! In exchange\Nfor my winning...
-Dialogue: 0,0:06:55.79,0:06:57.78,Default,,0,0,0,,...he'll receive money\Nfrom my father...?!
-Dialogue: 0,0:07:03.60,0:07:06.20,Default,,0,0,0,,Mikako's shoes were switched?!
-Dialogue: 0,0:07:07.14,0:07:08.17,Default,,0,0,0,,It's as I suspected...
-Dialogue: 0,0:07:08.91,0:07:10.47,Default,,0,0,0,,Did you know about it, Meimi?
-Dialogue: 0,0:07:11.05,0:07:12.11,Default,,0,0,0,,Well, yeah...
-Dialogue: 0,0:07:12.62,0:07:14.82,Default,,0,0,0,,Then can you do it?
-Dialogue: 0,0:07:14.99,0:07:16.29,Default,,0,0,0,,Of course!
-Dialogue: 0,0:07:16.70,0:07:19.16,Default,,0,0,0,,St. Tail won't allow\Ncheaters to tarnish...
-Dialogue: 0,0:07:19.27,0:07:20.89,Default,,0,0,0,,...the sanctity of sports.
-Dialogue: 0,0:07:21.30,0:07:23.24,Default,,0,0,0,,But we don't have time.
-Dialogue: 0,0:07:23.74,0:07:26.37,Default,,0,0,0,,The race will start\Nat 10:00 a.m. tomorrow.
-Dialogue: 0,0:07:26.88,0:07:27.91,Default,,0,0,0,,All right.
-Dialogue: 0,0:07:28.38,0:07:31.29,Default,,0,0,0,,I should get Mikako's\Nshoes back tonight then.
-Dialogue: 0,0:07:31.39,0:07:32.38,Default,,0,0,0,,You can count on me!
-Dialogue: 0,0:07:40.64,0:07:42.51,Default,,0,0,0,,It's tomorrow at last.
-Dialogue: 0,0:07:44.01,0:07:46.54,Default,,0,0,0,,Asuka, are you going\Nto watch the race?
-Dialogue: 0,0:07:46.85,0:07:49.15,Default,,0,0,0,,The race is\Nbeing held during class.
-Dialogue: 0,0:07:49.29,0:07:51.09,Default,,0,0,0,,But Sawatari was telling us...
-Dialogue: 0,0:07:51.23,0:07:52.92,Default,,0,0,0,,...he'd get permission\Nto go take pictures.
-Dialogue: 0,0:07:53.16,0:07:54.79,Default,,0,0,0,,He is special...
-Dialogue: 0,0:07:54.97,0:07:56.43,Default,,0,0,0,,...because he's\Nwith the school newspaper.
-Dialogue: 0,0:07:56.87,0:07:59.07,Default,,0,0,0,,Then we should\Nget permission, too.
-Dialogue: 0,0:07:59.18,0:08:01.61,Default,,0,0,0,,I'm Mikako's fan!
-Dialogue: 0,0:08:01.78,0:08:03.58,Default,,0,0,0,,Just because you're her fan...
-Dialogue: 0,0:08:03.68,0:08:06.52,Default,,0,0,0,,...doesn't mean Sister is going\Nto give you automatic permission.
-Dialogue: 0,0:08:06.86,0:08:08.15,Default,,0,0,0,,Let's go.
-Dialogue: 0,0:08:08.26,0:08:09.23,Default,,0,0,0,,You think so...?
-Dialogue: 0,0:08:11.87,0:08:12.83,Default,,0,0,0,,"Tonight...
-Dialogue: 0,0:08:12.94,0:08:14.66,Default,,0,0,0,,...I'm going to Seika Minami Academy,\Nin the track team's room...
-Dialogue: 0,0:08:14.77,0:08:16.57,Default,,0,0,0,,...to get a pair of jogging shoes."
-Dialogue: 0,0:08:17.21,0:08:18.94,Default,,0,0,0,,It's St. Tail's warning note!
-Dialogue: 0,0:08:19.05,0:08:21.28,Default,,0,0,0,,I have to go!
-Dialogue: 0,0:08:21.38,0:08:22.37,Default,,0,0,0,,Hey, Asuka!
-Dialogue: 0,0:08:25.46,0:08:27.29,Default,,0,0,0,,I'm home!
-Dialogue: 0,0:08:28.03,0:08:29.36,Default,,0,0,0,,Welcome home, Meimi.
-Dialogue: 0,0:08:30.03,0:08:31.06,Default,,0,0,0,,Dad!
-Dialogue: 0,0:08:31.17,0:08:32.14,Default,,0,0,0,,Mom!
-Dialogue: 0,0:08:32.34,0:08:33.46,Default,,0,0,0,,Where are you?
-Dialogue: 0,0:08:33.64,0:08:34.63,Default,,0,0,0,,Here! Here!
-Dialogue: 0,0:08:35.21,0:08:36.77,Default,,0,0,0,,What? Where?
-Dialogue: 0,0:08:37.05,0:08:38.45,Default,,0,0,0,,Over here, Meimi!
-Dialogue: 0,0:08:41.96,0:08:44.02,Default,,0,0,0,,Oh. It's no use hiding...!
-Dialogue: 0,0:08:44.93,0:08:46.49,Default,,0,0,0,,Aha! I've got you!
-Dialogue: 0,0:08:47.00,0:08:48.16,Default,,0,0,0,,Ouch!
-Dialogue: 0,0:08:48.54,0:08:49.87,Default,,0,0,0,,Success! Success!
-Dialogue: 0,0:08:49.97,0:08:51.41,Default,,0,0,0,,Boy, where's Mom?!
-Dialogue: 0,0:08:51.98,0:08:53.81,Default,,0,0,0,,Here I am.
-Dialogue: 0,0:08:53.98,0:08:56.18,Default,,0,0,0,,Mom! Were you there all along?!
-Dialogue: 0,0:08:56.28,0:08:57.25,Default,,0,0,0,,Yes!
-Dialogue: 0,0:08:57.39,0:08:58.75,Default,,0,0,0,,Then the shadow\Nin the kitchen was...?
-Dialogue: 0,0:08:59.16,0:09:02.25,Default,,0,0,0,,Here it is! It's my idea\Nfor some new magic.
-Dialogue: 0,0:09:02.73,0:09:03.92,Default,,0,0,0,,Using a mirror and a light...
-Dialogue: 0,0:09:04.03,0:09:06.47,Default,,0,0,0,,... I can make an item,\Nwhich isn't there, appear.
-Dialogue: 0,0:09:06.97,0:09:09.20,Default,,0,0,0,,Wow! That's great, Dad!
-Dialogue: 0,0:09:09.84,0:09:11.90,Default,,0,0,0,,Let me have\Nthat trick for a moment!
-Dialogue: 0,0:09:12.31,0:09:15.04,Default,,0,0,0,,Meimi! Why don't you\Ncome down and have a snack?
-Dialogue: 0,0:09:15.45,0:09:16.55,Default,,0,0,0,,Later!
-Dialogue: 0,0:09:16.86,0:09:18.26,Default,,0,0,0,,Meimi may...
-Dialogue: 0,0:09:18.53,0:09:21.89,Default,,0,0,0,,...seriously be thinking\Nabout following in my footsteps.
-Dialogue: 0,0:09:22.20,0:09:23.29,Default,,0,0,0,,I wonder...
-Dialogue: 0,0:09:27.68,0:09:29.87,Default,,0,0,0,,Now let's get to work!
-Dialogue: 0,0:09:43.14,0:09:44.40,Default,,0,0,0,,BASEBALL CLUB
-Dialogue: 0,0:09:44.51,0:09:46.00,Default,,0,0,0,,TRACK AND FIELD CLUB
-Dialogue: 0,0:09:58.13,0:09:59.16,Default,,0,0,0,,First place...
-Dialogue: 0,0:10:01.57,0:10:04.37,Default,,0,0,0,,Could these be?!\NMikako Tamura's shoes?!
-Dialogue: 0,0:10:12.63,0:10:14.46,Default,,0,0,0,,What's the matter?
-Dialogue: 0,0:10:15.17,0:10:18.00,Default,,0,0,0,,Coach! These are\NMikako Tamura's shoes, aren't they?!
-Dialogue: 0,0:10:18.24,0:10:19.73,Default,,0,0,0,,What's going on?
-Dialogue: 0,0:10:19.91,0:10:21.84,Default,,0,0,0,,Why were these in our\Nlocker room?! Please explain!
-Dialogue: 0,0:10:23.62,0:10:25.74,Default,,0,0,0,,These are...\NHiroko, they're for you.
-Dialogue: 0,0:10:26.19,0:10:28.09,Default,,0,0,0,,For me?!
-Dialogue: 0,0:10:28.39,0:10:31.36,Default,,0,0,0,,It may not be appropriate\Nfor me to say this...
-Dialogue: 0,0:10:31.80,0:10:32.77,Default,,0,0,0,,...but to be honest with you...
-Dialogue: 0,0:10:32.87,0:10:35.73,Default,,0,0,0,,...your current times aren't\Ngood enough to beat Mikako.
-Dialogue: 0,0:10:35.84,0:10:36.81,Default,,0,0,0,,What?!
-Dialogue: 0,0:10:37.04,0:10:39.03,Default,,0,0,0,,I've done it because\NI've been thinking about you...
-Dialogue: 0,0:10:39.15,0:10:40.98,Default,,0,0,0,,...trying so hard to measure up...
-Dialogue: 0,0:10:41.08,0:10:42.57,Default,,0,0,0,,...to the expectations of the school.
-Dialogue: 0,0:10:43.89,0:10:45.32,Default,,0,0,0,,It's not fair...
-Dialogue: 0,0:10:45.43,0:10:46.62,Default,,0,0,0,,...to take her shoes...
-Dialogue: 0,0:10:46.76,0:10:48.49,Default,,0,0,0,,...and her chance of recording\Na winning time! Coach!
-Dialogue: 0,0:10:49.23,0:10:51.96,Default,,0,0,0,,I'm going to return\Nthe shoes to Mikako!
-Dialogue: 0,0:10:52.07,0:10:53.04,Default,,0,0,0,,Wait, Hiroko!
-Dialogue: 0,0:10:57.08,0:10:58.05,Default,,0,0,0,,That's...!
-Dialogue: 0,0:10:58.52,0:10:59.48,Default,,0,0,0,,Stop it! Hiroko!
-Dialogue: 0,0:10:59.85,0:11:00.82,Default,,0,0,0,,It's bitter!
-Dialogue: 0,0:11:01.15,0:11:03.52,Default,,0,0,0,,Coach! This isn't\NMikako's special drink!
-Dialogue: 0,0:11:03.66,0:11:05.02,Default,,0,0,0,,You did something to it!
-Dialogue: 0,0:11:05.96,0:11:07.73,Default,,0,0,0,,That's what I'm telling you...
-Dialogue: 0,0:11:08.53,0:11:10.37,Default,,0,0,0,,...I want you to win!
-Dialogue: 0,0:11:10.77,0:11:12.74,Default,,0,0,0,,How dare you...!\NI know that...
-Dialogue: 0,0:11:13.38,0:11:15.21,Default,,0,0,0,,...my winning will make you money!
-Dialogue: 0,0:11:16.38,0:11:17.91,Default,,0,0,0,,You talked my father into this.
-Dialogue: 0,0:11:18.02,0:11:19.04,Default,,0,0,0,,How dare you...
-Dialogue: 0,0:11:19.16,0:11:21.42,Default,,0,0,0,,...make me your cash cow?
-Dialogue: 0,0:11:21.69,0:11:23.52,Default,,0,0,0,,I won't run tomorrow!
-Dialogue: 0,0:11:23.63,0:11:25.60,Default,,0,0,0,,I don't want to run\Nif I have to cheat my opponent!
-Dialogue: 0,0:11:35.32,0:11:37.65,Default,,0,0,0,,Mr. Tsukamoto, Hiroko!\NIs something wrong?!
-Dialogue: 0,0:11:39.09,0:11:40.08,Default,,0,0,0,,No.
-Dialogue: 0,0:11:40.20,0:11:42.16,Default,,0,0,0,,We're just getting nervous\Nbecause the race is close.
-Dialogue: 0,0:11:42.93,0:11:44.42,Default,,0,0,0,,Is that right?
-Dialogue: 0,0:11:44.87,0:11:47.81,Default,,0,0,0,,Asuka Jr. and the police are here.
-Dialogue: 0,0:11:48.18,0:11:49.64,Default,,0,0,0,,Just a moment.\NI'll be right there.
-Dialogue: 0,0:11:49.75,0:11:50.71,Default,,0,0,0,,The police...?
-Dialogue: 0,0:11:51.55,0:11:53.28,Default,,0,0,0,,Keep these shoes in the locker.
-Dialogue: 0,0:11:53.95,0:11:55.68,Default,,0,0,0,,No one's going to get\Nsuspicious seeing shoes...
-Dialogue: 0,0:11:55.79,0:11:56.95,Default,,0,0,0,,...in the track team's locker room.
-Dialogue: 0,0:11:57.06,0:11:58.03,Default,,0,0,0,,But...
-Dialogue: 0,0:11:59.57,0:12:00.93,Default,,0,0,0,,Don't do anything stupid.
-Dialogue: 0,0:12:01.47,0:12:02.83,Default,,0,0,0,,I'll take care of the situation.
-Dialogue: 0,0:12:03.31,0:12:05.90,Default,,0,0,0,,You should think only of running.
-Dialogue: 0,0:12:09.68,0:12:10.65,Default,,0,0,0,,A warning note?
-Dialogue: 0,0:12:11.12,0:12:12.78,Default,,0,0,0,,Mysterious thief or whatever...
-Dialogue: 0,0:12:13.09,0:12:14.15,Default,,0,0,0,,How can you investigate...
-Dialogue: 0,0:12:14.26,0:12:16.16,Default,,0,0,0,,...every little tip?
-Dialogue: 0,0:12:16.40,0:12:19.96,Default,,0,0,0,,But St. Tail doesn't steal\Nwithout a good reason.
-Dialogue: 0,0:12:20.64,0:12:21.70,Default,,0,0,0,,The fact that it's\Njust before the race...
-Dialogue: 0,0:12:21.84,0:12:22.90,Default,,0,0,0,,...makes me think\Nof something else.
-Dialogue: 0,0:12:23.71,0:12:24.68,Default,,0,0,0,,Among your athletes...
-Dialogue: 0,0:12:24.78,0:12:26.44,Default,,0,0,0,,...is there anyone\Nwho could be her target?
-Dialogue: 0,0:12:27.02,0:12:29.58,Default,,0,0,0,,We have an important\Nrace tomorrow.
-Dialogue: 0,0:12:30.12,0:12:32.52,Default,,0,0,0,,I don't want you to make it\Na big deal, if possible!
-Dialogue: 0,0:12:33.20,0:12:36.56,Default,,0,0,0,,We won't bother anyone.
-Dialogue: 0,0:12:37.00,0:12:38.70,Default,,0,0,0,,Then suit yourself.
-Dialogue: 0,0:12:42.35,0:12:45.65,Default,,0,0,0,,Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
-Dialogue: 0,0:12:51.03,0:12:52.00,Default,,0,0,0,,One!
-Dialogue: 0,0:12:54.54,0:12:55.56,Default,,0,0,0,,Two!
-Dialogue: 0,0:12:57.78,0:13:00.61,Default,,0,0,0,,Three!
-Dialogue: 0,0:13:14.01,0:13:16.00,Default,,0,0,0,,Mikako's special shoes have...
-Dialogue: 0,0:13:16.24,0:13:18.30,Default,,0,0,0,,...the initial "M."
-Dialogue: 0,0:13:18.68,0:13:19.88,Default,,0,0,0,,Please be careful.
-Dialogue: 0,0:13:20.72,0:13:21.69,Default,,0,0,0,,Count on me!
-Dialogue: 0,0:13:23.86,0:13:27.06,Default,,0,0,0,,May the blessings\Nof God be with us.
-Dialogue: 0,0:13:38.85,0:13:39.82,Default,,0,0,0,,Excuse me.
-Dialogue: 0,0:13:40.99,0:13:43.39,Default,,0,0,0,,Hiroko! You're still here?!
-Dialogue: 0,0:13:44.33,0:13:45.82,Default,,0,0,0,,You'd better go home and rest.
-Dialogue: 0,0:13:45.93,0:13:47.26,Default,,0,0,0,,Otherwise, you can't\Nrun well tomorrow.
-Dialogue: 0,0:13:47.87,0:13:50.60,Default,,0,0,0,,Coach, I'd like to stay with them.
-Dialogue: 0,0:13:51.04,0:13:52.10,Default,,0,0,0,,Is she...?
-Dialogue: 0,0:13:52.25,0:13:54.74,Default,,0,0,0,,She's the ace of our team,\NHiroko Hashimoto.
-Dialogue: 0,0:14:02.50,0:14:03.62,Default,,0,0,0,,What...?!
-Dialogue: 0,0:14:04.13,0:14:06.10,Default,,0,0,0,,Mr. Tsukamoto and Hiroko.\NGet out of the room!
-Dialogue: 0,0:14:06.21,0:14:07.30,Default,,0,0,0,,All right!
-Dialogue: 0,0:14:09.81,0:14:11.04,Default,,0,0,0,,It's St. Tail!
-Dialogue: 0,0:14:12.05,0:14:13.04,Default,,0,0,0,,Catch her!
-Dialogue: 0,0:14:15.52,0:14:17.05,Default,,0,0,0,,- She's outside! Chase her!\N- Yes, sir!
-Dialogue: 0,0:14:25.81,0:14:28.30,Default,,0,0,0,,Well, where are the shoes...?
-Dialogue: 0,0:14:32.39,0:14:33.79,Default,,0,0,0,,These must be them!
-Dialogue: 0,0:14:36.36,0:14:37.42,Default,,0,0,0,,Wait a minute.
-Dialogue: 0,0:14:37.60,0:14:39.33,Default,,0,0,0,,She hasn't stolen anything yet.
-Dialogue: 0,0:14:45.08,0:14:47.21,Default,,0,0,0,,This must be a dummy!\NThe locker room is at risk!
-Dialogue: 0,0:14:47.95,0:14:48.98,Default,,0,0,0,,Darn!
-Dialogue: 0,0:14:52.49,0:14:54.48,Default,,0,0,0,,St. Tail! Come down!
-Dialogue: 0,0:14:54.60,0:14:56.50,Default,,0,0,0,,Come down and give me a fight!
-Dialogue: 0,0:15:07.82,0:15:08.88,Default,,0,0,0,,It's...
-Dialogue: 0,0:15:10.69,0:15:13.86,Default,,0,0,0,,...Show...
-Dialogue: 0,0:15:14.27,0:15:16.06,Default,,0,0,0,,...Time!
-Dialogue: 0,0:15:25.52,0:15:26.85,Default,,0,0,0,,All right! I'm coming up!
-Dialogue: 0,0:15:29.40,0:15:30.76,Default,,0,0,0,,What...?!
-Dialogue: 0,0:15:30.87,0:15:32.42,Default,,0,0,0,,Hiroko! What are you doing?!
-Dialogue: 0,0:15:36.91,0:15:38.81,Default,,0,0,0,,Hiroko! Come down!
-Dialogue: 0,0:15:39.18,0:15:42.41,Default,,0,0,0,,If you can't race tomorrow,\Nmy job is...!
-Dialogue: 0,0:15:42.96,0:15:44.12,Default,,0,0,0,,That's what I want!
-Dialogue: 0,0:15:44.59,0:15:45.72,Default,,0,0,0,,What did she say?!
-Dialogue: 0,0:15:46.36,0:15:49.59,Default,,0,0,0,,St. Tail!\NWhy don't you attack me?!
-Dialogue: 0,0:15:50.57,0:15:52.37,Default,,0,0,0,,She's trying to provoke me.
-Dialogue: 0,0:15:53.41,0:15:55.00,Default,,0,0,0,,Asuka Jr., I beg you!
-Dialogue: 0,0:15:55.45,0:15:56.78,Default,,0,0,0,,PIease stop Hiroko!
-Dialogue: 0,0:15:56.95,0:15:58.64,Default,,0,0,0,,Of course!
-Dialogue: 0,0:15:58.89,0:16:00.79,Default,,0,0,0,,And I'll catch St. Tail, too!
-Dialogue: 0,0:16:09.44,0:16:11.53,Default,,0,0,0,,Stay still up there!
-Dialogue: 0,0:16:11.94,0:16:15.11,Default,,0,0,0,,Don't come any closer.\NIt's better if I get hurt.
-Dialogue: 0,0:16:15.58,0:16:18.11,Default,,0,0,0,,What are you talking about?!
-Dialogue: 0,0:16:18.59,0:16:21.18,Default,,0,0,0,,If I get hurt and can't race...
-Dialogue: 0,0:16:21.30,0:16:23.53,Default,,0,0,0,,...you and my father\Nwill think about it.
-Dialogue: 0,0:16:23.80,0:16:25.86,Default,,0,0,0,,Come down, Hiroko!
-Dialogue: 0,0:16:26.97,0:16:28.53,Default,,0,0,0,,Don't come any closer!
-Dialogue: 0,0:16:39.93,0:16:41.40,Default,,0,0,0,,Mr. Tsukamoto!
-Dialogue: 0,0:16:42.50,0:16:44.63,Default,,0,0,0,,I'm taking Mikako's shoes!
-Dialogue: 0,0:16:45.31,0:16:47.33,Default,,0,0,0,,You'd better not interfere anymore!
-Dialogue: 0,0:16:48.81,0:16:50.25,Default,,0,0,0,,Mikako's shoes?!
-Dialogue: 0,0:16:50.35,0:16:52.65,Default,,0,0,0,,What's going on, Mr. Tsukamoto?!
-Dialogue: 0,0:16:52.86,0:16:54.52,Default,,0,0,0,,What's the explanation here?
-Dialogue: 0,0:16:55.96,0:16:57.49,Default,,0,0,0,,It's all over...!
-Dialogue: 0,0:16:58.43,0:17:00.09,Default,,0,0,0,,That's good...\NThis is the way...
-Dialogue: 0,0:17:04.54,0:17:06.81,Default,,0,0,0,,TAMURA
-Dialogue: 0,0:17:10.49,0:17:11.58,Default,,0,0,0,,These are...!
-Dialogue: 0,0:17:15.57,0:17:17.90,Default,,0,0,0,,Thank you, God.
-Dialogue: 0,0:17:30.16,0:17:31.15,Default,,0,0,0,,Mikako!
-Dialogue: 0,0:17:31.56,0:17:32.69,Default,,0,0,0,,Hiroko!
-Dialogue: 0,0:17:33.16,0:17:34.89,Default,,0,0,0,,It's time to compete, Mikako!
-Dialogue: 0,0:17:35.44,0:17:37.80,Default,,0,0,0,,Yes. I won't be easy on you!
-Dialogue: 0,0:17:39.21,0:17:40.70,Default,,0,0,0,,On your mark!
-Dialogue: 0,0:17:41.45,0:17:42.61,Default,,0,0,0,,Get set!
-Dialogue: 0,0:17:52.87,0:17:55.80,Default,,0,0,0,,Mikako was very happy.
-Dialogue: 0,0:17:56.21,0:17:59.27,Default,,0,0,0,,The coach confessed to everything.
-Dialogue: 0,0:17:59.48,0:18:02.21,Default,,0,0,0,,So Hiroko can also race\Nwithout any problem.
-Dialogue: 0,0:18:02.42,0:18:03.41,Default,,0,0,0,,Really?!
-Dialogue: 0,0:18:03.56,0:18:06.42,Default,,0,0,0,,Then the result of the race\Nis even more exciting!
-Dialogue: 0,0:18:07.36,0:18:10.36,Default,,0,0,0,,Hey! Sister gave us\Nspecial permission!
-Dialogue: 0,0:18:10.74,0:18:12.07,Default,,0,0,0,,So we can go now?!
-Dialogue: 0,0:18:12.24,0:18:14.30,Default,,0,0,0,,- Yeah!\N- We'll be in time for the finish!
-Dialogue: 0,0:18:18.95,0:18:20.92,Default,,0,0,0,,Hurry up! Here! Here!
-Dialogue: 0,0:18:50.95,0:18:54.40,Default,,0,0,0,,SEIKA CITY MARATHON
-Dialogue: 0,0:18:59.50,0:19:01.22,Default,,0,0,0,,Tied for first place!
-Dialogue: 0,0:19:01.37,0:19:03.16,Default,,0,0,0,,This is the first time\Nin the history of the race!
-Dialogue: 0,0:19:03.27,0:19:05.26,Default,,0,0,0,,Great! Both of them!
-Dialogue: 0,0:19:05.37,0:19:09.31,Default,,0,0,0,,Yeah. I guess\NSt. Tail and I are rivals, too.
+Dialogue: 0,0:00:07.71,0:00:09.31,saint tail default,,0,0,0,,Mikako! Good morning!
+Dialogue: 0,0:00:09.42,0:00:10.48,saint tail default,,0,0,0,,Good morning!
+Dialogue: 0,0:00:10.59,0:00:12.49,saint tail default,,0,0,0,,- Good morning!\N- Good luck!
+Dialogue: 0,0:00:15.70,0:00:19.29,saint tail default,,0,0,0,,Meimi, you look\Nvery sleepy today.
+Dialogue: 0,0:00:19.40,0:00:21.17,saint tail default,,0,0,0,,Yeah, yesterday's homework...
+Dialogue: 0,0:00:21.27,0:00:22.24,saint tail default,,0,0,0,,Hey!
+Dialogue: 0,0:00:23.08,0:00:25.10,saint tail default,,0,0,0,,Why are you looking\Nso gloomy in the morning?
+Dialogue: 0,0:00:25.21,0:00:26.61,saint tail default,,0,0,0,,What did you say?!
+Dialogue: 0,0:00:26.72,0:00:29.98,saint tail default,,0,0,0,,With that expression on your face,\Nyou can't enjoy the day!
+Dialogue: 0,0:00:31.13,0:00:32.18,saint tail default,,0,0,0,,Good morning!
+Dialogue: 0,0:00:32.96,0:00:34.79,saint tail default,,0,0,0,,You two are so close!
+Dialogue: 0,0:00:34.90,0:00:37.09,saint tail default,,0,0,0,,Mikako! What are\Nyou talking about?!
+Dialogue: 0,0:00:39.01,0:00:41.34,saint tail default,,0,0,0,,You're running\Nthis early, aren't you?
+Dialogue: 0,0:00:41.91,0:00:44.51,saint tail default,,0,0,0,,Because soon we'll\Ncommemorate the year...
+Dialogue: 0,0:00:44.62,0:00:47.21,saint tail default,,0,0,0,,...of the Olympics,\Nand we're going to have...
+Dialogue: 0,0:00:47.32,0:00:48.79,saint tail default,,0,0,0,,...the Seika Open Marathon.
+Dialogue: 0,0:00:48.89,0:00:50.42,saint tail default,,0,0,0,,That's right! See you later!
+Dialogue: 0,0:00:52.20,0:00:54.29,saint tail default,,0,0,0,,Saruwatari was pretty excited!
+Dialogue: 0,0:00:54.40,0:00:57.07,saint tail default,,0,0,0,,He says that Mikako\Nwill represent our school...
+Dialogue: 0,0:00:57.18,0:00:59.14,saint tail default,,0,0,0,,...and she's favored\Nto win the race.
+Dialogue: 0,0:00:59.58,0:01:02.51,saint tail default,,0,0,0,,I see... Mikako!\NGood luck!
+Dialogue: 0,0:01:04.09,0:01:05.06,saint tail default,,0,0,0,,Thank you!
+Dialogue: 0,0:01:06.73,0:01:11.03,saint tail default,,0,0,0,,STEAL A WOMAN'S\NMARATHON RUNNING SHOES
+Dialogue: 0,0:01:12.57,0:01:14.54,saint tail default,,0,0,0,,Hey, Meimi! After school today...
+Dialogue: 0,0:01:14.64,0:01:16.17,saint tail default,,0,0,0,,...can you go shopping with us?
+Dialogue: 0,0:01:16.45,0:01:17.47,saint tail default,,0,0,0,,All right!
+Dialogue: 0,0:01:18.05,0:01:19.68,saint tail default,,0,0,0,,Hi, Haneoka!
+Dialogue: 0,0:01:19.92,0:01:22.82,saint tail default,,0,0,0,,I want you to go\Nsomewhere with me.
+Dialogue: 0,0:01:23.26,0:01:26.39,saint tail default,,0,0,0,,Sorry! I've just made plans.
+Dialogue: 0,0:01:27.53,0:01:30.66,saint tail default,,0,0,0,,Well, it has to be today.
+Dialogue: 0,0:01:31.31,0:01:33.77,saint tail default,,0,0,0,,To tell you the truth,\NI'm writing an article...
+Dialogue: 0,0:01:33.88,0:01:36.28,saint tail default,,0,0,0,,...about an attractive runner's\Nroad to victory.
+Dialogue: 0,0:01:36.85,0:01:37.94,saint tail default,,0,0,0,,I know! It's a special...
+Dialogue: 0,0:01:38.05,0:01:39.82,saint tail default,,0,0,0,,...about the senior, Mikako Tamura.
+Dialogue: 0,0:01:40.49,0:01:42.05,saint tail default,,0,0,0,,What's wrong with that?
+Dialogue: 0,0:01:43.23,0:01:45.79,saint tail default,,0,0,0,,Today Mikako will practice\Non the riverbank.
+Dialogue: 0,0:01:46.34,0:01:48.20,saint tail default,,0,0,0,,I want to take some pictures there...
+Dialogue: 0,0:01:48.31,0:01:50.03,saint tail default,,0,0,0,,...showing her supportive friends.
+Dialogue: 0,0:01:50.84,0:01:52.87,saint tail default,,0,0,0,,I was wondering if you would be\None of her fans in the photographs.
+Dialogue: 0,0:01:53.78,0:01:56.15,saint tail default,,0,0,0,,Sounds like fun!\NLet's all go together!
+Dialogue: 0,0:01:56.49,0:01:57.82,saint tail default,,0,0,0,,You told us your plan...
+Dialogue: 0,0:01:57.92,0:02:00.19,saint tail default,,0,0,0,,...but your real purpose\Nis to take pictures...
+Dialogue: 0,0:02:00.30,0:02:01.59,saint tail default,,0,0,0,,...of Meimi, isn't it?
+Dialogue: 0,0:02:01.70,0:02:03.39,saint tail default,,0,0,0,,Well, that's one of the reasons.
+Dialogue: 0,0:02:03.70,0:02:04.96,saint tail default,,0,0,0,,In the past week...
+Dialogue: 0,0:02:05.10,0:02:07.44,saint tail default,,0,0,0,,...I've been following her\Nin order to write an article about her.
+Dialogue: 0,0:02:07.88,0:02:09.64,saint tail default,,0,0,0,,But she doesn't look very happy.
+Dialogue: 0,0:02:09.91,0:02:12.71,saint tail default,,0,0,0,,So I was wondering\Nif we could all try to cheer her up.
+Dialogue: 0,0:02:13.45,0:02:15.44,saint tail default,,0,0,0,,Good for you, Sawatari!
+Dialogue: 0,0:02:16.09,0:02:18.36,saint tail default,,0,0,0,,All right! I'm going\Nto be supportive of her!
+Dialogue: 0,0:02:18.63,0:02:20.10,saint tail default,,0,0,0,,Yeah! That's a good angle!
+Dialogue: 0,0:02:20.43,0:02:22.20,saint tail default,,0,0,0,,Haneoka is in the middle!\NYeah! That's right!
+Dialogue: 0,0:02:22.30,0:02:23.29,saint tail default,,0,0,0,,Very good!
+Dialogue: 0,0:02:26.04,0:02:28.44,saint tail default,,0,0,0,,There she is! Mikako!
+Dialogue: 0,0:02:28.55,0:02:30.02,saint tail default,,0,0,0,,- Yay!\N- Good luck!
+Dialogue: 0,0:02:39.90,0:02:41.67,saint tail default,,0,0,0,,Oh, all of you came!
+Dialogue: 0,0:02:41.77,0:02:42.74,saint tail default,,0,0,0,,Take this...!
+Dialogue: 0,0:02:42.94,0:02:44.03,saint tail default,,0,0,0,,Thank you!
+Dialogue: 0,0:02:44.14,0:02:45.70,saint tail default,,0,0,0,,We're going to speed it up!
+Dialogue: 0,0:02:45.81,0:02:46.91,saint tail default,,0,0,0,,Yes!
+Dialogue: 0,0:03:02.61,0:03:03.67,saint tail default,,0,0,0,,Mr. Tsukamoto!
+Dialogue: 0,0:03:03.78,0:03:05.04,saint tail default,,0,0,0,,Remember my shoes\Nthat you had the other day?
+Dialogue: 0,0:03:05.15,0:03:06.68,saint tail default,,0,0,0,,What did you do with them?!
+Dialogue: 0,0:03:08.56,0:03:10.46,saint tail default,,0,0,0,,Go away!\NWe're in the middle of a workout!
+Dialogue: 0,0:03:12.43,0:03:13.99,saint tail default,,0,0,0,,Mikako!
+Dialogue: 0,0:03:15.00,0:03:16.13,saint tail default,,0,0,0,,Come on, Hiroko! Let's go!
+Dialogue: 0,0:03:16.24,0:03:17.33,saint tail default,,0,0,0,,All right.
+Dialogue: 0,0:03:19.61,0:03:22.71,saint tail default,,0,0,0,,I did it!\NI captured their rivalry!
+Dialogue: 0,0:03:23.55,0:03:25.14,saint tail default,,0,0,0,,Was I wrong...?
+Dialogue: 0,0:03:25.49,0:03:26.51,saint tail default,,0,0,0,,Yeah...!
+Dialogue: 0,0:03:31.74,0:03:33.17,saint tail default,,0,0,0,,Who's that girl?
+Dialogue: 0,0:03:33.84,0:03:37.71,saint tail default,,0,0,0,,She is considered\Nthe biggest threat to Mikako.
+Dialogue: 0,0:03:38.01,0:03:40.45,saint tail default,,0,0,0,,She's Hiroko Hashimoto\Nfrom Seika Minami Academy.
+Dialogue: 0,0:03:40.89,0:03:42.72,saint tail default,,0,0,0,,She doesn't seem very nice.
+Dialogue: 0,0:03:43.32,0:03:45.26,saint tail default,,0,0,0,,She's the daughter\Nof the Chairman of the Board.
+Dialogue: 0,0:03:45.43,0:03:47.22,saint tail default,,0,0,0,,She has her own coach.
+Dialogue: 0,0:03:48.07,0:03:50.69,saint tail default,,0,0,0,,Oh, is that the man on the bicycle?
+Dialogue: 0,0:03:56.58,0:03:57.67,saint tail default,,0,0,0,,I wonder if something's...
+Dialogue: 0,0:03:57.78,0:03:59.12,saint tail default,,0,0,0,,...going on between those two.
+Dialogue: 0,0:04:07.10,0:04:09.57,saint tail default,,0,0,0,,Don't you need to practice today?
+Dialogue: 0,0:04:10.71,0:04:12.04,saint tail default,,0,0,0,,I don't care about practice...
+Dialogue: 0,0:04:12.58,0:04:16.17,saint tail default,,0,0,0,,I... I can't run anymore...!
+Dialogue: 0,0:04:16.82,0:04:20.45,saint tail default,,0,0,0,,If you don't mind,\Ncould you tell me why?
+Dialogue: 0,0:04:23.03,0:04:24.23,saint tail default,,0,0,0,,The other day...
+Dialogue: 0,0:04:24.40,0:04:27.67,saint tail default,,0,0,0,,...we had a practice workout\Nat Seika Minami Academy.
+Dialogue: 0,0:04:28.34,0:04:29.64,saint tail default,,0,0,0,,Hiroko's coach...
+Dialogue: 0,0:04:29.81,0:04:31.30,saint tail default,,0,0,0,,...Mr. Tsukamoto approached me.
+Dialogue: 0,0:04:31.62,0:04:34.11,saint tail default,,0,0,0,,Mikako. As usual,\Nyour times are great.
+Dialogue: 0,0:04:34.49,0:04:35.61,saint tail default,,0,0,0,,Thank you very much.
+Dialogue: 0,0:04:36.16,0:04:37.22,saint tail default,,0,0,0,,I would like to see...
+Dialogue: 0,0:04:37.43,0:04:38.59,saint tail default,,0,0,0,,...your custom jogging shoes.
+Dialogue: 0,0:04:38.76,0:04:41.39,saint tail default,,0,0,0,,We'd like to check them out.
+Dialogue: 0,0:04:42.14,0:04:43.30,saint tail default,,0,0,0,,Sure!
+Dialogue: 0,0:04:45.34,0:04:47.90,saint tail default,,0,0,0,,He said he would\Nreturn them right away...
+Dialogue: 0,0:04:48.01,0:04:51.35,saint tail default,,0,0,0,,...and I lent them to him\Nwithout being suspicious.
+Dialogue: 0,0:04:54.46,0:04:57.86,saint tail default,,0,0,0,,The next day, the shoes\Nwere returned right away.
+Dialogue: 0,0:04:58.10,0:04:59.53,saint tail default,,0,0,0,,But...
+Dialogue: 0,0:05:00.00,0:05:01.44,saint tail default,,0,0,0,,Ouch!
+Dialogue: 0,0:05:04.51,0:05:06.27,saint tail default,,0,0,0,,The shoes he returned\Nweren't mine...
+Dialogue: 0,0:05:06.55,0:05:09.11,saint tail default,,0,0,0,,...and a pin was hidden inside.
+Dialogue: 0,0:05:09.45,0:05:11.15,saint tail default,,0,0,0,,If I had been wearing\Nthem in the race...
+Dialogue: 0,0:05:11.26,0:05:12.92,saint tail default,,0,0,0,,...and didn't notice,\Nmy foot would have been...
+Dialogue: 0,0:05:15.17,0:05:17.53,saint tail default,,0,0,0,,That's very cruel sabotage!
+Dialogue: 0,0:05:18.17,0:05:23.16,saint tail default,,0,0,0,,My shoes were custom-made\Nabroad for my feet.
+Dialogue: 0,0:05:23.95,0:05:25.21,saint tail default,,0,0,0,,If I order another pair...
+Dialogue: 0,0:05:25.42,0:05:27.15,saint tail default,,0,0,0,,...they won't be here\Nin time for the race...
+Dialogue: 0,0:05:27.49,0:05:30.75,saint tail default,,0,0,0,,Without them my times\Nwon't be good enough to win.
+Dialogue: 0,0:05:31.30,0:05:35.06,saint tail default,,0,0,0,,My real shoes must be\Nat Tsukamoto's place.
+Dialogue: 0,0:05:35.44,0:05:37.63,saint tail default,,0,0,0,,I went there to get them back...
+Dialogue: 0,0:05:37.81,0:05:39.40,saint tail default,,0,0,0,,...but they chased me away...
+Dialogue: 0,0:05:44.19,0:05:48.02,saint tail default,,0,0,0,,Don't worry. I'm sure\NGod will protect you.
+Dialogue: 0,0:05:57.28,0:05:59.91,saint tail default,,0,0,0,,All right, Hiroko!\NThat's all for today.
+Dialogue: 0,0:06:02.49,0:06:03.89,saint tail default,,0,0,0,,Thank you for the workout!
+Dialogue: 0,0:06:11.44,0:06:12.40,saint tail default,,0,0,0,,Father...!
+Dialogue: 0,0:06:18.42,0:06:20.01,saint tail default,,0,0,0,,Tsukamoto, you're positive...
+Dialogue: 0,0:06:20.12,0:06:22.52,saint tail default,,0,0,0,,...that you can assure\Nmy Hiroko of a win, aren't you?
+Dialogue: 0,0:06:23.29,0:06:24.42,saint tail default,,0,0,0,,Of course!
+Dialogue: 0,0:06:24.63,0:06:26.06,saint tail default,,0,0,0,,When she gets first place...
+Dialogue: 0,0:06:26.27,0:06:29.67,saint tail default,,0,0,0,,...you'll keep your promise,\Nwon't you, Mr. Chairman?
+Dialogue: 0,0:06:30.27,0:06:31.47,saint tail default,,0,0,0,,I'm aware of what you want.
+Dialogue: 0,0:06:32.04,0:06:34.27,saint tail default,,0,0,0,,If you've trained a runner\Nwho took first place...
+Dialogue: 0,0:06:34.38,0:06:36.18,saint tail default,,0,0,0,,...it's easier for me to reward you...
+Dialogue: 0,0:06:36.29,0:06:38.38,saint tail default,,0,0,0,,...with a winning bonus\Nand a promotion...
+Dialogue: 0,0:06:38.49,0:06:40.15,saint tail default,,0,0,0,,...to the school's Head Coach...
+Dialogue: 0,0:06:40.26,0:06:41.39,saint tail default,,0,0,0,,...at the board meeting.
+Dialogue: 0,0:06:42.00,0:06:44.06,saint tail default,,0,0,0,,I'll ensure that she wins\Nno matter what...!
+Dialogue: 0,0:06:44.53,0:06:46.47,saint tail default,,0,0,0,,I have a secret plan.
+Dialogue: 0,0:06:46.71,0:06:47.97,saint tail default,,0,0,0,,I'm counting on you.
+Dialogue: 0,0:06:48.11,0:06:49.94,saint tail default,,0,0,0,,If my daughter\Nbecomes the top runner...
+Dialogue: 0,0:06:50.04,0:06:52.14,saint tail default,,0,0,0,,...my position at the school\Nwill be solidified.
+Dialogue: 0,0:06:52.88,0:06:55.58,saint tail default,,0,0,0,,Coach! In exchange\Nfor my winning...
+Dialogue: 0,0:06:55.79,0:06:57.78,saint tail default,,0,0,0,,...he'll receive money\Nfrom my father...?!
+Dialogue: 0,0:07:03.60,0:07:06.20,saint tail default,,0,0,0,,Mikako's shoes were switched?!
+Dialogue: 0,0:07:07.14,0:07:08.17,saint tail default,,0,0,0,,It's as I suspected...
+Dialogue: 0,0:07:08.91,0:07:10.47,saint tail default,,0,0,0,,Did you know about it, Meimi?
+Dialogue: 0,0:07:11.05,0:07:12.11,saint tail default,,0,0,0,,Well, yeah...
+Dialogue: 0,0:07:12.62,0:07:14.82,saint tail default,,0,0,0,,Then can you do it?
+Dialogue: 0,0:07:14.99,0:07:16.29,saint tail default,,0,0,0,,Of course!
+Dialogue: 0,0:07:16.70,0:07:19.16,saint tail default,,0,0,0,,St. Tail won't allow\Ncheaters to tarnish...
+Dialogue: 0,0:07:19.27,0:07:20.89,saint tail default,,0,0,0,,...the sanctity of sports.
+Dialogue: 0,0:07:21.30,0:07:23.24,saint tail default,,0,0,0,,But we don't have time.
+Dialogue: 0,0:07:23.74,0:07:26.37,saint tail default,,0,0,0,,The race will start\Nat 10:00 a.m. tomorrow.
+Dialogue: 0,0:07:26.88,0:07:27.91,saint tail default,,0,0,0,,All right.
+Dialogue: 0,0:07:28.38,0:07:31.29,saint tail default,,0,0,0,,I should get Mikako's\Nshoes back tonight then.
+Dialogue: 0,0:07:31.39,0:07:32.38,saint tail default,,0,0,0,,You can count on me!
+Dialogue: 0,0:07:40.64,0:07:42.51,saint tail default,,0,0,0,,It's tomorrow at last.
+Dialogue: 0,0:07:44.01,0:07:46.54,saint tail default,,0,0,0,,Asuka, are you going\Nto watch the race?
+Dialogue: 0,0:07:46.85,0:07:49.15,saint tail default,,0,0,0,,The race is\Nbeing held during class.
+Dialogue: 0,0:07:49.29,0:07:51.09,saint tail default,,0,0,0,,But Sawatari was telling us...
+Dialogue: 0,0:07:51.23,0:07:52.92,saint tail default,,0,0,0,,...he'd get permission\Nto go take pictures.
+Dialogue: 0,0:07:53.16,0:07:54.79,saint tail default,,0,0,0,,He is special...
+Dialogue: 0,0:07:54.97,0:07:56.43,saint tail default,,0,0,0,,...because he's\Nwith the school newspaper.
+Dialogue: 0,0:07:56.87,0:07:59.07,saint tail default,,0,0,0,,Then we should\Nget permission, too.
+Dialogue: 0,0:07:59.18,0:08:01.61,saint tail default,,0,0,0,,I'm Mikako's fan!
+Dialogue: 0,0:08:01.78,0:08:03.58,saint tail default,,0,0,0,,Just because you're her fan...
+Dialogue: 0,0:08:03.68,0:08:06.52,saint tail default,,0,0,0,,...doesn't mean Sister is going\Nto give you automatic permission.
+Dialogue: 0,0:08:06.86,0:08:08.15,saint tail default,,0,0,0,,Let's go.
+Dialogue: 0,0:08:08.26,0:08:09.23,saint tail default,,0,0,0,,You think so...?
+Dialogue: 0,0:08:11.87,0:08:12.83,saint tail default,,0,0,0,,"Tonight...
+Dialogue: 0,0:08:12.94,0:08:14.66,saint tail default,,0,0,0,,...I'm going to Seika Minami Academy,\Nin the track team's room...
+Dialogue: 0,0:08:14.77,0:08:16.57,saint tail default,,0,0,0,,...to get a pair of jogging shoes."
+Dialogue: 0,0:08:17.21,0:08:18.94,saint tail default,,0,0,0,,It's St. Tail's warning note!
+Dialogue: 0,0:08:19.05,0:08:21.28,saint tail default,,0,0,0,,I have to go!
+Dialogue: 0,0:08:21.38,0:08:22.37,saint tail default,,0,0,0,,Hey, Asuka!
+Dialogue: 0,0:08:25.46,0:08:27.29,saint tail default,,0,0,0,,I'm home!
+Dialogue: 0,0:08:28.03,0:08:29.36,saint tail default,,0,0,0,,Welcome home, Meimi.
+Dialogue: 0,0:08:30.03,0:08:31.06,saint tail default,,0,0,0,,Dad!
+Dialogue: 0,0:08:31.17,0:08:32.14,saint tail default,,0,0,0,,Mom!
+Dialogue: 0,0:08:32.34,0:08:33.46,saint tail default,,0,0,0,,Where are you?
+Dialogue: 0,0:08:33.64,0:08:34.63,saint tail default,,0,0,0,,Here! Here!
+Dialogue: 0,0:08:35.21,0:08:36.77,saint tail default,,0,0,0,,What? Where?
+Dialogue: 0,0:08:37.05,0:08:38.45,saint tail default,,0,0,0,,Over here, Meimi!
+Dialogue: 0,0:08:41.96,0:08:44.02,saint tail default,,0,0,0,,Oh. It's no use hiding...!
+Dialogue: 0,0:08:44.93,0:08:46.49,saint tail default,,0,0,0,,Aha! I've got you!
+Dialogue: 0,0:08:47.00,0:08:48.16,saint tail default,,0,0,0,,Ouch!
+Dialogue: 0,0:08:48.54,0:08:49.87,saint tail default,,0,0,0,,Success! Success!
+Dialogue: 0,0:08:49.97,0:08:51.41,saint tail default,,0,0,0,,Boy, where's Mom?!
+Dialogue: 0,0:08:51.98,0:08:53.81,saint tail default,,0,0,0,,Here I am.
+Dialogue: 0,0:08:53.98,0:08:56.18,saint tail default,,0,0,0,,Mom! Were you there all along?!
+Dialogue: 0,0:08:56.28,0:08:57.25,saint tail default,,0,0,0,,Yes!
+Dialogue: 0,0:08:57.39,0:08:58.75,saint tail default,,0,0,0,,Then the shadow\Nin the kitchen was...?
+Dialogue: 0,0:08:59.16,0:09:02.25,saint tail default,,0,0,0,,Here it is! It's my idea\Nfor some new magic.
+Dialogue: 0,0:09:02.73,0:09:03.92,saint tail default,,0,0,0,,Using a mirror and a light...
+Dialogue: 0,0:09:04.03,0:09:06.47,saint tail default,,0,0,0,,... I can make an item,\Nwhich isn't there, appear.
+Dialogue: 0,0:09:06.97,0:09:09.20,saint tail default,,0,0,0,,Wow! That's great, Dad!
+Dialogue: 0,0:09:09.84,0:09:11.90,saint tail default,,0,0,0,,Let me have\Nthat trick for a moment!
+Dialogue: 0,0:09:12.31,0:09:15.04,saint tail default,,0,0,0,,Meimi! Why don't you\Ncome down and have a snack?
+Dialogue: 0,0:09:15.45,0:09:16.55,saint tail default,,0,0,0,,Later!
+Dialogue: 0,0:09:16.86,0:09:18.26,saint tail default,,0,0,0,,Meimi may...
+Dialogue: 0,0:09:18.53,0:09:21.89,saint tail default,,0,0,0,,...seriously be thinking\Nabout following in my footsteps.
+Dialogue: 0,0:09:22.20,0:09:23.29,saint tail default,,0,0,0,,I wonder...
+Dialogue: 0,0:09:27.68,0:09:29.87,saint tail default,,0,0,0,,Now let's get to work!
+Dialogue: 0,0:09:43.14,0:09:44.40,saint tail default,,0,0,0,,BASEBALL CLUB
+Dialogue: 0,0:09:44.51,0:09:46.00,saint tail default,,0,0,0,,TRACK AND FIELD CLUB
+Dialogue: 0,0:09:58.13,0:09:59.16,saint tail default,,0,0,0,,First place...
+Dialogue: 0,0:10:01.57,0:10:04.37,saint tail default,,0,0,0,,Could these be?!\NMikako Tamura's shoes?!
+Dialogue: 0,0:10:12.63,0:10:14.46,saint tail default,,0,0,0,,What's the matter?
+Dialogue: 0,0:10:15.17,0:10:18.00,saint tail default,,0,0,0,,Coach! These are\NMikako Tamura's shoes, aren't they?!
+Dialogue: 0,0:10:18.24,0:10:19.73,saint tail default,,0,0,0,,What's going on?
+Dialogue: 0,0:10:19.91,0:10:21.84,saint tail default,,0,0,0,,Why were these in our\Nlocker room?! Please explain!
+Dialogue: 0,0:10:23.62,0:10:25.74,saint tail default,,0,0,0,,These are...\NHiroko, they're for you.
+Dialogue: 0,0:10:26.19,0:10:28.09,saint tail default,,0,0,0,,For me?!
+Dialogue: 0,0:10:28.39,0:10:31.36,saint tail default,,0,0,0,,It may not be appropriate\Nfor me to say this...
+Dialogue: 0,0:10:31.80,0:10:32.77,saint tail default,,0,0,0,,...but to be honest with you...
+Dialogue: 0,0:10:32.87,0:10:35.73,saint tail default,,0,0,0,,...your current times aren't\Ngood enough to beat Mikako.
+Dialogue: 0,0:10:35.84,0:10:36.81,saint tail default,,0,0,0,,What?!
+Dialogue: 0,0:10:37.04,0:10:39.03,saint tail default,,0,0,0,,I've done it because\NI've been thinking about you...
+Dialogue: 0,0:10:39.15,0:10:40.98,saint tail default,,0,0,0,,...trying so hard to measure up...
+Dialogue: 0,0:10:41.08,0:10:42.57,saint tail default,,0,0,0,,...to the expectations of the school.
+Dialogue: 0,0:10:43.89,0:10:45.32,saint tail default,,0,0,0,,It's not fair...
+Dialogue: 0,0:10:45.43,0:10:46.62,saint tail default,,0,0,0,,...to take her shoes...
+Dialogue: 0,0:10:46.76,0:10:48.49,saint tail default,,0,0,0,,...and her chance of recording\Na winning time! Coach!
+Dialogue: 0,0:10:49.23,0:10:51.96,saint tail default,,0,0,0,,I'm going to return\Nthe shoes to Mikako!
+Dialogue: 0,0:10:52.07,0:10:53.04,saint tail default,,0,0,0,,Wait, Hiroko!
+Dialogue: 0,0:10:57.08,0:10:58.05,saint tail default,,0,0,0,,That's...!
+Dialogue: 0,0:10:58.52,0:10:59.48,saint tail default,,0,0,0,,Stop it! Hiroko!
+Dialogue: 0,0:10:59.85,0:11:00.82,saint tail default,,0,0,0,,It's bitter!
+Dialogue: 0,0:11:01.15,0:11:03.52,saint tail default,,0,0,0,,Coach! This isn't\NMikako's special drink!
+Dialogue: 0,0:11:03.66,0:11:05.02,saint tail default,,0,0,0,,You did something to it!
+Dialogue: 0,0:11:05.96,0:11:07.73,saint tail default,,0,0,0,,That's what I'm telling you...
+Dialogue: 0,0:11:08.53,0:11:10.37,saint tail default,,0,0,0,,...I want you to win!
+Dialogue: 0,0:11:10.77,0:11:12.74,saint tail default,,0,0,0,,How dare you...!\NI know that...
+Dialogue: 0,0:11:13.38,0:11:15.21,saint tail default,,0,0,0,,...my winning will make you money!
+Dialogue: 0,0:11:16.38,0:11:17.91,saint tail default,,0,0,0,,You talked my father into this.
+Dialogue: 0,0:11:18.02,0:11:19.04,saint tail default,,0,0,0,,How dare you...
+Dialogue: 0,0:11:19.16,0:11:21.42,saint tail default,,0,0,0,,...make me your cash cow?
+Dialogue: 0,0:11:21.69,0:11:23.52,saint tail default,,0,0,0,,I won't run tomorrow!
+Dialogue: 0,0:11:23.63,0:11:25.60,saint tail default,,0,0,0,,I don't want to run\Nif I have to cheat my opponent!
+Dialogue: 0,0:11:35.32,0:11:37.65,saint tail default,,0,0,0,,Mr. Tsukamoto, Hiroko!\NIs something wrong?!
+Dialogue: 0,0:11:39.09,0:11:40.08,saint tail default,,0,0,0,,No.
+Dialogue: 0,0:11:40.20,0:11:42.16,saint tail default,,0,0,0,,We're just getting nervous\Nbecause the race is close.
+Dialogue: 0,0:11:42.93,0:11:44.42,saint tail default,,0,0,0,,Is that right?
+Dialogue: 0,0:11:44.87,0:11:47.81,saint tail default,,0,0,0,,Asuka Jr. and the police are here.
+Dialogue: 0,0:11:48.18,0:11:49.64,saint tail default,,0,0,0,,Just a moment.\NI'll be right there.
+Dialogue: 0,0:11:49.75,0:11:50.71,saint tail default,,0,0,0,,The police...?
+Dialogue: 0,0:11:51.55,0:11:53.28,saint tail default,,0,0,0,,Keep these shoes in the locker.
+Dialogue: 0,0:11:53.95,0:11:55.68,saint tail default,,0,0,0,,No one's going to get\Nsuspicious seeing shoes...
+Dialogue: 0,0:11:55.79,0:11:56.95,saint tail default,,0,0,0,,...in the track team's locker room.
+Dialogue: 0,0:11:57.06,0:11:58.03,saint tail default,,0,0,0,,But...
+Dialogue: 0,0:11:59.57,0:12:00.93,saint tail default,,0,0,0,,Don't do anything stupid.
+Dialogue: 0,0:12:01.47,0:12:02.83,saint tail default,,0,0,0,,I'll take care of the situation.
+Dialogue: 0,0:12:03.31,0:12:05.90,saint tail default,,0,0,0,,You should think only of running.
+Dialogue: 0,0:12:09.68,0:12:10.65,saint tail default,,0,0,0,,A warning note?
+Dialogue: 0,0:12:11.12,0:12:12.78,saint tail default,,0,0,0,,Mysterious thief or whatever...
+Dialogue: 0,0:12:13.09,0:12:14.15,saint tail default,,0,0,0,,How can you investigate...
+Dialogue: 0,0:12:14.26,0:12:16.16,saint tail default,,0,0,0,,...every little tip?
+Dialogue: 0,0:12:16.40,0:12:19.96,saint tail default,,0,0,0,,But St. Tail doesn't steal\Nwithout a good reason.
+Dialogue: 0,0:12:20.64,0:12:21.70,saint tail default,,0,0,0,,The fact that it's\Njust before the race...
+Dialogue: 0,0:12:21.84,0:12:22.90,saint tail default,,0,0,0,,...makes me think\Nof something else.
+Dialogue: 0,0:12:23.71,0:12:24.68,saint tail default,,0,0,0,,Among your athletes...
+Dialogue: 0,0:12:24.78,0:12:26.44,saint tail default,,0,0,0,,...is there anyone\Nwho could be her target?
+Dialogue: 0,0:12:27.02,0:12:29.58,saint tail default,,0,0,0,,We have an important\Nrace tomorrow.
+Dialogue: 0,0:12:30.12,0:12:32.52,saint tail default,,0,0,0,,I don't want you to make it\Na big deal, if possible!
+Dialogue: 0,0:12:33.20,0:12:36.56,saint tail default,,0,0,0,,We won't bother anyone.
+Dialogue: 0,0:12:37.00,0:12:38.70,saint tail default,,0,0,0,,Then suit yourself.
+Dialogue: 0,0:12:42.35,0:12:45.65,saint tail default,,0,0,0,,Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
+Dialogue: 0,0:12:51.03,0:12:52.00,saint tail default,,0,0,0,,One!
+Dialogue: 0,0:12:54.54,0:12:55.56,saint tail default,,0,0,0,,Two!
+Dialogue: 0,0:12:57.78,0:13:00.61,saint tail default,,0,0,0,,Three!
+Dialogue: 0,0:13:14.01,0:13:16.00,saint tail default,,0,0,0,,Mikako's special shoes have...
+Dialogue: 0,0:13:16.24,0:13:18.30,saint tail default,,0,0,0,,...the initial "M."
+Dialogue: 0,0:13:18.68,0:13:19.88,saint tail default,,0,0,0,,Please be careful.
+Dialogue: 0,0:13:20.72,0:13:21.69,saint tail default,,0,0,0,,Count on me!
+Dialogue: 0,0:13:23.86,0:13:27.06,saint tail default,,0,0,0,,May the blessings\Nof God be with us.
+Dialogue: 0,0:13:38.85,0:13:39.82,saint tail default,,0,0,0,,Excuse me.
+Dialogue: 0,0:13:40.99,0:13:43.39,saint tail default,,0,0,0,,Hiroko! You're still here?!
+Dialogue: 0,0:13:44.33,0:13:45.82,saint tail default,,0,0,0,,You'd better go home and rest.
+Dialogue: 0,0:13:45.93,0:13:47.26,saint tail default,,0,0,0,,Otherwise, you can't\Nrun well tomorrow.
+Dialogue: 0,0:13:47.87,0:13:50.60,saint tail default,,0,0,0,,Coach, I'd like to stay with them.
+Dialogue: 0,0:13:51.04,0:13:52.10,saint tail default,,0,0,0,,Is she...?
+Dialogue: 0,0:13:52.25,0:13:54.74,saint tail default,,0,0,0,,She's the ace of our team,\NHiroko Hashimoto.
+Dialogue: 0,0:14:02.50,0:14:03.62,saint tail default,,0,0,0,,What...?!
+Dialogue: 0,0:14:04.13,0:14:06.10,saint tail default,,0,0,0,,Mr. Tsukamoto and Hiroko.\NGet out of the room!
+Dialogue: 0,0:14:06.21,0:14:07.30,saint tail default,,0,0,0,,All right!
+Dialogue: 0,0:14:09.81,0:14:11.04,saint tail default,,0,0,0,,It's St. Tail!
+Dialogue: 0,0:14:12.05,0:14:13.04,saint tail default,,0,0,0,,Catch her!
+Dialogue: 0,0:14:15.52,0:14:17.05,saint tail default,,0,0,0,,- She's outside! Chase her!\N- Yes, sir!
+Dialogue: 0,0:14:25.81,0:14:28.30,saint tail default,,0,0,0,,Well, where are the shoes...?
+Dialogue: 0,0:14:32.39,0:14:33.79,saint tail default,,0,0,0,,These must be them!
+Dialogue: 0,0:14:36.36,0:14:37.42,saint tail default,,0,0,0,,Wait a minute.
+Dialogue: 0,0:14:37.60,0:14:39.33,saint tail default,,0,0,0,,She hasn't stolen anything yet.
+Dialogue: 0,0:14:45.08,0:14:47.21,saint tail default,,0,0,0,,This must be a dummy!\NThe locker room is at risk!
+Dialogue: 0,0:14:47.95,0:14:48.98,saint tail default,,0,0,0,,Darn!
+Dialogue: 0,0:14:52.49,0:14:54.48,saint tail default,,0,0,0,,St. Tail! Come down!
+Dialogue: 0,0:14:54.60,0:14:56.50,saint tail default,,0,0,0,,Come down and give me a fight!
+Dialogue: 0,0:15:07.82,0:15:08.88,saint tail default,,0,0,0,,It's...
+Dialogue: 0,0:15:10.69,0:15:13.86,saint tail default,,0,0,0,,...Show...
+Dialogue: 0,0:15:14.27,0:15:16.06,saint tail default,,0,0,0,,...Time!
+Dialogue: 0,0:15:25.52,0:15:26.85,saint tail default,,0,0,0,,All right! I'm coming up!
+Dialogue: 0,0:15:29.40,0:15:30.76,saint tail default,,0,0,0,,What...?!
+Dialogue: 0,0:15:30.87,0:15:32.42,saint tail default,,0,0,0,,Hiroko! What are you doing?!
+Dialogue: 0,0:15:36.91,0:15:38.81,saint tail default,,0,0,0,,Hiroko! Come down!
+Dialogue: 0,0:15:39.18,0:15:42.41,saint tail default,,0,0,0,,If you can't race tomorrow,\Nmy job is...!
+Dialogue: 0,0:15:42.96,0:15:44.12,saint tail default,,0,0,0,,That's what I want!
+Dialogue: 0,0:15:44.59,0:15:45.72,saint tail default,,0,0,0,,What did she say?!
+Dialogue: 0,0:15:46.36,0:15:49.59,saint tail default,,0,0,0,,St. Tail!\NWhy don't you attack me?!
+Dialogue: 0,0:15:50.57,0:15:52.37,saint tail default,,0,0,0,,She's trying to provoke me.
+Dialogue: 0,0:15:53.41,0:15:55.00,saint tail default,,0,0,0,,Asuka Jr., I beg you!
+Dialogue: 0,0:15:55.45,0:15:56.78,saint tail default,,0,0,0,,PIease stop Hiroko!
+Dialogue: 0,0:15:56.95,0:15:58.64,saint tail default,,0,0,0,,Of course!
+Dialogue: 0,0:15:58.89,0:16:00.79,saint tail default,,0,0,0,,And I'll catch St. Tail, too!
+Dialogue: 0,0:16:09.44,0:16:11.53,saint tail default,,0,0,0,,Stay still up there!
+Dialogue: 0,0:16:11.94,0:16:15.11,saint tail default,,0,0,0,,Don't come any closer.\NIt's better if I get hurt.
+Dialogue: 0,0:16:15.58,0:16:18.11,saint tail default,,0,0,0,,What are you talking about?!
+Dialogue: 0,0:16:18.59,0:16:21.18,saint tail default,,0,0,0,,If I get hurt and can't race...
+Dialogue: 0,0:16:21.30,0:16:23.53,saint tail default,,0,0,0,,...you and my father\Nwill think about it.
+Dialogue: 0,0:16:23.80,0:16:25.86,saint tail default,,0,0,0,,Come down, Hiroko!
+Dialogue: 0,0:16:26.97,0:16:28.53,saint tail default,,0,0,0,,Don't come any closer!
+Dialogue: 0,0:16:39.93,0:16:41.40,saint tail default,,0,0,0,,Mr. Tsukamoto!
+Dialogue: 0,0:16:42.50,0:16:44.63,saint tail default,,0,0,0,,I'm taking Mikako's shoes!
+Dialogue: 0,0:16:45.31,0:16:47.33,saint tail default,,0,0,0,,You'd better not interfere anymore!
+Dialogue: 0,0:16:48.81,0:16:50.25,saint tail default,,0,0,0,,Mikako's shoes?!
+Dialogue: 0,0:16:50.35,0:16:52.65,saint tail default,,0,0,0,,What's going on, Mr. Tsukamoto?!
+Dialogue: 0,0:16:52.86,0:16:54.52,saint tail default,,0,0,0,,What's the explanation here?
+Dialogue: 0,0:16:55.96,0:16:57.49,saint tail default,,0,0,0,,It's all over...!
+Dialogue: 0,0:16:58.43,0:17:00.09,saint tail default,,0,0,0,,That's good...\NThis is the way...
+Dialogue: 0,0:17:04.54,0:17:06.81,saint tail default,,0,0,0,,TAMURA
+Dialogue: 0,0:17:10.49,0:17:11.58,saint tail default,,0,0,0,,These are...!
+Dialogue: 0,0:17:15.57,0:17:17.90,saint tail default,,0,0,0,,Thank you, God.
+Dialogue: 0,0:17:30.16,0:17:31.15,saint tail default,,0,0,0,,Mikako!
+Dialogue: 0,0:17:31.56,0:17:32.69,saint tail default,,0,0,0,,Hiroko!
+Dialogue: 0,0:17:33.16,0:17:34.89,saint tail default,,0,0,0,,It's time to compete, Mikako!
+Dialogue: 0,0:17:35.44,0:17:37.80,saint tail default,,0,0,0,,Yes. I won't be easy on you!
+Dialogue: 0,0:17:39.21,0:17:40.70,saint tail default,,0,0,0,,On your mark!
+Dialogue: 0,0:17:41.45,0:17:42.61,saint tail default,,0,0,0,,Get set!
+Dialogue: 0,0:17:52.87,0:17:55.80,saint tail default,,0,0,0,,Mikako was very happy.
+Dialogue: 0,0:17:56.21,0:17:59.27,saint tail default,,0,0,0,,The coach confessed to everything.
+Dialogue: 0,0:17:59.48,0:18:02.21,saint tail default,,0,0,0,,So Hiroko can also race\Nwithout any problem.
+Dialogue: 0,0:18:02.42,0:18:03.41,saint tail default,,0,0,0,,Really?!
+Dialogue: 0,0:18:03.56,0:18:06.42,saint tail default,,0,0,0,,Then the result of the race\Nis even more exciting!
+Dialogue: 0,0:18:07.36,0:18:10.36,saint tail default,,0,0,0,,Hey! Sister gave us\Nspecial permission!
+Dialogue: 0,0:18:10.74,0:18:12.07,saint tail default,,0,0,0,,So we can go now?!
+Dialogue: 0,0:18:12.24,0:18:14.30,saint tail default,,0,0,0,,- Yeah!\N- We'll be in time for the finish!
+Dialogue: 0,0:18:18.95,0:18:20.92,saint tail default,,0,0,0,,Hurry up! Here! Here!
+Dialogue: 0,0:18:50.95,0:18:54.40,saint tail default,,0,0,0,,SEIKA CITY MARATHON
+Dialogue: 0,0:18:59.50,0:19:01.22,saint tail default,,0,0,0,,Tied for first place!
+Dialogue: 0,0:19:01.37,0:19:03.16,saint tail default,,0,0,0,,This is the first time\Nin the history of the race!
+Dialogue: 0,0:19:03.27,0:19:05.26,saint tail default,,0,0,0,,Great! Both of them!
+Dialogue: 0,0:19:05.37,0:19:09.31,saint tail default,,0,0,0,,Yeah. I guess\NSt. Tail and I are rivals, too.

@@ -13,257 +13,261 @@ Video File: source/17.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,2.0,2.0,2,10,10,10,1
+Style: saint tail default,Calibri,80,&H00FBFBFB,&H000000FF,&H00373737,&H80373737,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,2,50,50,50,1
+Style: saint tail sign,Calibri,75,&H00D4FFED,&H000000FF,&H006E8E22,&HC7000000,-1,-1,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,8,50,50,50,1
+Style: saint tail title,Campanile,150,&H00EDE6FF,&H000000FF,&H009457EA,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
+Style: saint tail op en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
+Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,70,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.77,0:00:09.13,Default,,0,0,0,,How about going to buy chocolate\Nafter school today?
-Dialogue: 0,0:00:09.34,0:00:11.61,Default,,0,0,0,,It's almost Valentine's Day.
-Dialogue: 0,0:00:11.81,0:00:15.55,Default,,0,0,0,,I'll have to give some\Nobligation chocolates this year.
-Dialogue: 0,0:00:15.76,0:00:20.28,Default,,0,0,0,,-Meimi, you're going too, right?\N-Valentine's. What shall I do?
-Dialogue: 0,0:00:20.50,0:00:23.30,Default,,0,0,0,,Aren't you giving\NAsuka Jr. chocolate?
-Dialogue: 0,0:00:23.54,0:00:25.17,Default,,0,0,0,,What? You're kidding!
-Dialogue: 0,0:00:25.38,0:00:28.21,Default,,0,0,0,,What's that?\NIs that how you really feel?
-Dialogue: 0,0:00:28.42,0:00:32.82,Default,,0,0,0,,Someone's giving me chocolate?\N"True love" chocolate?
-Dialogue: 0,0:00:33.03,0:00:36.83,Default,,0,0,0,,You've got it wrong!\NIt's obligation chocolate!
-Dialogue: 0,0:00:37.03,0:00:38.76,Default,,0,0,0,,I don't care which it is...
-Dialogue: 0,0:00:38.97,0:00:43.27,Default,,0,0,0,,...but a better gift would be\Na meat bun or octopus fritters.
-Dialogue: 0,0:00:43.48,0:00:47.61,Default,,0,0,0,,What a kid! Valentine chocolates\Naren't a 3:00 snack!
-Dialogue: 0,0:00:47.82,0:00:50.66,Default,,0,0,0,,You won't get any\N"true love" chocolates!
-Dialogue: 0,0:00:50.86,0:00:53.83,Default,,0,0,0,,-Be quiet!\N-What do you mean, be quiet?
-Dialogue: 0,0:00:54.04,0:00:56.60,Default,,0,0,0,,-What's it to you?\N-What do you mean?
-Dialogue: 0,0:00:56.81,0:00:58.61,Default,,0,0,0,,Jeez!
-Dialogue: 0,0:00:59.21,0:01:02.48,Default,,0,0,0,,Asuka, what are you doing?
-Dialogue: 0,0:01:02.95,0:01:07.45,Default,,0,0,0,,That's no way to treat a lady.\NYou've got to be gentle.
-Dialogue: 0,0:01:09.20,0:01:11.40,Default,,0,0,0,,It's Tohru Ijuin!
-Dialogue: 0,0:01:11.84,0:01:14.60,Default,,0,0,0,,Hey, who's Tohru Ijuin\Nsupposed to be?
-Dialogue: 0,0:01:14.81,0:01:18.71,Default,,0,0,0,,You don't know?\NRight now, Tohru Ijuin is...
-Dialogue: 0,0:01:19.22,0:01:22.21,Default,,0,0,0,,...an ultra-popular guy\Namong the freshmen.
-Dialogue: 0,0:01:22.43,0:01:26.23,Default,,0,0,0,,Sure! He models, always\Nin the latest magazines.
-Dialogue: 0,0:01:26.44,0:01:29.74,Default,,0,0,0,,Then how could such a guy\Nknow Asuka Jr.?
-Dialogue: 0,0:01:29.94,0:01:31.67,Default,,0,0,0,,Who knows?
-Dialogue: 0,0:01:32.28,0:01:35.51,Default,,0,0,0,,Oh, good morning!\NI'm a freshmen in class A.
-Dialogue: 0,0:01:36.09,0:01:38.15,Default,,0,0,0,,Tohru Ijuin.
-Dialogue: 0,0:01:41.90,0:01:47.10,Default,,0,0,0,,THE HEART THIEF ON\NST. VALENTINE'S DAY??
-Dialogue: 0,0:01:50.69,0:01:56.35,Default,,0,0,0,,Just know that I'm not friends with\Nthis guy. We live near each other--
-Dialogue: 0,0:01:56.57,0:02:00.37,Default,,0,0,0,,That's mean!\NWe played a lot together as children.
-Dialogue: 0,0:02:00.58,0:02:02.91,Default,,0,0,0,,Be quiet, don't follow me!
-Dialogue: 0,0:02:03.11,0:02:08.45,Default,,0,0,0,,In the first place, you're younger!\NSo why are you bigger than me?
-Dialogue: 0,0:02:08.79,0:02:12.13,Default,,0,0,0,,Asuka, you're at it again?\NHe's always like this.
-Dialogue: 0,0:02:12.33,0:02:16.00,Default,,0,0,0,,He absolutely despises my good looks.
-Dialogue: 0,0:02:19.72,0:02:24.15,Default,,0,0,0,,-Pardon me! You're Tohru Ijuin, right?\N-Yes, I am.
-Dialogue: 0,0:02:24.36,0:02:28.16,Default,,0,0,0,,-Isn't she from another school?\N-I think so.
-Dialogue: 0,0:02:28.37,0:02:32.50,Default,,0,0,0,,-Please enjoy these cookies I made.\N-Thanks.
-Dialogue: 0,0:02:32.71,0:02:35.68,Default,,0,0,0,,And will you let me take your picture?
-Dialogue: 0,0:02:35.88,0:02:38.04,Default,,0,0,0,,-Sure.\N-Thank you!
-Dialogue: 0,0:02:38.25,0:02:44.09,Default,,0,0,0,,Wait a minute! I look best diagonally\Nfrom the right, at a 30-degree angle.
-Dialogue: 0,0:02:44.30,0:02:47.74,Default,,0,0,0,,Okay! I understand.
-Dialogue: 0,0:02:47.94,0:02:52.31,Default,,0,0,0,,This is stupid.\NLet's go and leave this guy.
-Dialogue: 0,0:02:56.06,0:02:59.22,Default,,0,0,0,,Hey, wait for me, Asuka!
-Dialogue: 0,0:02:59.77,0:03:03.43,Default,,0,0,0,,Asuka! Please wait for me!
-Dialogue: 0,0:03:03.64,0:03:05.20,Default,,0,0,0,,Yeah, just like that!
-Dialogue: 0,0:03:05.65,0:03:10.48,Default,,0,0,0,,"There is nothing stronger\Nthan a mother's love.
-Dialogue: 0,0:03:10.69,0:03:14.25,Default,,0,0,0,,I am prepared for anything.
-Dialogue: 0,0:03:14.60,0:03:19.59,Default,,0,0,0,,The mountain that you see\Nover there is Mt. Asahi."
-Dialogue: 0,0:03:20.24,0:03:22.34,Default,,0,0,0,,Well, we shall stop here.
-Dialogue: 0,0:03:22.55,0:03:27.54,Default,,0,0,0,,We will have a test next week\Non today's lesson. Review it well.
-Dialogue: 0,0:03:27.76,0:03:31.56,Default,,0,0,0,,-What?\N-You're joking!
-Dialogue: 0,0:03:41.39,0:03:45.98,Default,,0,0,0,,Can you lend me your English notebook?\NI didn't take any notes.
-Dialogue: 0,0:03:46.20,0:03:47.46,Default,,0,0,0,,Well...
-Dialogue: 0,0:03:47.67,0:03:51.16,Default,,0,0,0,,Hey, Tohru! Hurry up\Nor I'll leave without you!
-Dialogue: 0,0:03:51.37,0:03:54.71,Default,,0,0,0,,Yeah. Give me a minute!\NIs it no?
-Dialogue: 0,0:03:55.42,0:03:57.47,Default,,0,0,0,,It's okay.
-Dialogue: 0,0:04:01.56,0:04:03.72,Default,,0,0,0,,Here, this is it.
-Dialogue: 0,0:04:04.17,0:04:07.26,Default,,0,0,0,,Thank you!\NI'll return it tomorrow!
-Dialogue: 0,0:04:11.65,0:04:15.81,Default,,0,0,0,,This is the English notebook.\NWait! That's the wrong one!
-Dialogue: 0,0:04:18.80,0:04:22.29,Default,,0,0,0,,Oh, no, what am I going to do?
-Dialogue: 0,0:04:24.51,0:04:28.54,Default,,0,0,0,,-What? You're gonna buy that much?\N-But they're all obligations.
-Dialogue: 0,0:04:28.75,0:04:31.15,Default,,0,0,0,,And who's the true love?
-Dialogue: 0,0:04:31.36,0:04:35.26,Default,,0,0,0,,That's a secret!\NAnd, Meimi, what about you?
-Dialogue: 0,0:04:35.47,0:04:36.93,Default,,0,0,0,,What? Me?
-Dialogue: 0,0:04:41.48,0:04:44.97,Default,,0,0,0,,-Who'd give him anything?\N-Meimi, how about you?
-Dialogue: 0,0:04:45.19,0:04:47.38,Default,,0,0,0,,That's my secret too!
-Dialogue: 0,0:04:47.59,0:04:50.12,Default,,0,0,0,,Unfair, you've all got secrets!
-Dialogue: 0,0:04:50.33,0:04:53.30,Default,,0,0,0,,-So, Ryoko, yours is...?\N-Me?
-Dialogue: 0,0:04:53.50,0:04:57.37,Default,,0,0,0,,You keep asking about us,\Nbut what about you?
-Dialogue: 0,0:04:57.58,0:05:00.95,Default,,0,0,0,,Isn't it obvious? It's...
-Dialogue: 0,0:05:01.15,0:05:02.45,Default,,0,0,0,,Yes?
-Dialogue: 0,0:05:02.66,0:05:04.15,Default,,0,0,0,,A secret.
-Dialogue: 0,0:05:10.04,0:05:12.87,Default,,0,0,0,,So you lent him the wrong notebook?
-Dialogue: 0,0:05:13.18,0:05:15.15,Default,,0,0,0,,Yes, exactly.
-Dialogue: 0,0:05:15.35,0:05:19.22,Default,,0,0,0,,That notebook is the one\NI use as a diary...
-Dialogue: 0,0:05:19.43,0:05:21.86,Default,,0,0,0,,...to write my daily thoughts in.
-Dialogue: 0,0:05:24.24,0:05:28.37,Default,,0,0,0,,In that notebook,\NI've written many poems...
-Dialogue: 0,0:05:28.58,0:05:31.14,Default,,0,0,0,,...thinking about Tohru.
-Dialogue: 0,0:05:32.25,0:05:35.62,Default,,0,0,0,,If Tohru should see any of that...
-Dialogue: 0,0:05:35.83,0:05:41.06,Default,,0,0,0,,...I'd be so embarrassed\NI wouldn't be able to live!
-Dialogue: 0,0:05:41.54,0:05:46.53,Default,,0,0,0,,Don't worry.\NI'm sure God will lend you a hand.
-Dialogue: 0,0:05:55.27,0:05:58.00,Default,,0,0,0,,Get a notebook back from Tohru Ijuin?
-Dialogue: 0,0:05:58.54,0:06:00.91,Default,,0,0,0,,Right. And it has to be today.
-Dialogue: 0,0:06:01.11,0:06:04.98,Default,,0,0,0,,Before he gets a chance\Nto look at that notebook.
-Dialogue: 0,0:06:05.19,0:06:06.71,Default,,0,0,0,,Oh, I see.
-Dialogue: 0,0:06:06.93,0:06:11.09,Default,,0,0,0,,Kanako Shimamura is in love with him.
-Dialogue: 0,0:06:11.30,0:06:14.46,Default,,0,0,0,,But she's afraid\Nto have him find out.
-Dialogue: 0,0:06:14.67,0:06:19.94,Default,,0,0,0,,This would be the chance to tell him.\NAnd it's almost Valentine's Day.
-Dialogue: 0,0:06:20.22,0:06:23.88,Default,,0,0,0,,You may be right, but...
-Dialogue: 0,0:06:24.09,0:06:30.16,Default,,0,0,0,,A boy as popular as Tohru would\Nnever even give me a second thought.
-Dialogue: 0,0:06:30.37,0:06:34.81,Default,,0,0,0,,And I'm happy just to\Nbe able to look at him.
-Dialogue: 0,0:06:35.52,0:06:40.58,Default,,0,0,0,,There are many girls who are unable\Nto honestly display their feelings.
-Dialogue: 0,0:06:40.80,0:06:43.23,Default,,0,0,0,,Meimi, you're probably...
-Dialogue: 0,0:06:45.11,0:06:46.40,Default,,0,0,0,,Right?
-Dialogue: 0,0:06:46.81,0:06:51.11,Default,,0,0,0,,I understand. Right!\NSt. Tail is a supporter of girls.
-Dialogue: 0,0:06:51.32,0:06:54.62,Default,,0,0,0,,I will get that notebook\Nback for Kanako.
-Dialogue: 0,0:06:54.83,0:06:56.62,Default,,0,0,0,,ART ROOM
-Dialogue: 0,0:07:02.21,0:07:05.90,Default,,0,0,0,,-Let's clean up quickly and go home!\N-Yeah.
-Dialogue: 0,0:07:08.02,0:07:11.35,Default,,0,0,0,,Jeez, what a filthy classroom.
-Dialogue: 0,0:07:16.67,0:07:18.43,Default,,0,0,0,,What's this?
-Dialogue: 0,0:07:22.08,0:07:25.85,Default,,0,0,0,,"NOTE" GETS CHANGED\NTO "HEART"
-Dialogue: 0,0:07:26.06,0:07:27.53,Default,,0,0,0,,Ouch.
-Dialogue: 0,0:07:27.73,0:07:29.36,Default,,0,0,0,,It's a...
-Dialogue: 0,0:07:30.43,0:07:34.39,Default,,0,0,0,,Tonight I will be stealing\NTohru Ijuin's heart away.
-Dialogue: 0,0:07:34.61,0:07:36.84,Default,,0,0,0,,St. Tail!
-Dialogue: 0,0:07:38.15,0:07:40.41,Default,,0,0,0,,His heart?
-Dialogue: 0,0:07:40.62,0:07:42.75,Default,,0,0,0,,What about his heart?
-Dialogue: 0,0:07:42.96,0:07:48.49,Default,,0,0,0,,-What are you doing here?\N-Let's go home together, Asuka.
-Dialogue: 0,0:07:48.71,0:07:51.30,Default,,0,0,0,,Never mind that. Look.
-Dialogue: 0,0:07:52.11,0:07:57.28,Default,,0,0,0,,"Tonight I will be stealing\NTohru Ijuin's heart away. -St. Tail"
-Dialogue: 0,0:07:57.89,0:08:00.79,Default,,0,0,0,,-What's this about?\N-That's my question!
-Dialogue: 0,0:08:03.10,0:08:04.86,Default,,0,0,0,,What does it mean?
-Dialogue: 0,0:08:05.07,0:08:09.03,Default,,0,0,0,,If it says "heart"...\NYou're kidding! My heart?
-Dialogue: 0,0:08:09.25,0:08:14.65,Default,,0,0,0,,This heart? She's gonna perform\Nopen-heart surgery on me?
-Dialogue: 0,0:08:14.86,0:08:18.92,Default,,0,0,0,,Of course not, you idiot!\NThink seriously.
-Dialogue: 0,0:08:19.14,0:08:23.23,Default,,0,0,0,,For example, maybe you have\Na pet cat or dog named Heart.
-Dialogue: 0,0:08:23.44,0:08:26.71,Default,,0,0,0,,-No, only a turtle named Samantha.\N-I see.
-Dialogue: 0,0:08:27.15,0:08:29.52,Default,,0,0,0,,Then what could it mean?
-Dialogue: 0,0:08:29.72,0:08:33.18,Default,,0,0,0,,What could St. Tail\Nwant to steal from you?
-Dialogue: 0,0:08:34.17,0:08:35.69,Default,,0,0,0,,Well...
-Dialogue: 0,0:08:38.68,0:08:41.41,Default,,0,0,0,,Heart, heart, heart...
-Dialogue: 0,0:08:41.62,0:08:44.64,Default,,0,0,0,,That's it!\NI know what it is, Asuka!
-Dialogue: 0,0:08:44.89,0:08:48.52,Default,,0,0,0,,What is it? What's she gonna steal?
-Dialogue: 0,0:08:48.73,0:08:50.36,Default,,0,0,0,,To put it simply...
-Dialogue: 0,0:08:50.57,0:08:54.83,Default,,0,0,0,,...St. Tail has fallen in love\Nwith me, and tonight she's coming...
-Dialogue: 0,0:08:55.04,0:08:58.60,Default,,0,0,0,,...to flirt with me\Nand steal my heart away.
-Dialogue: 0,0:08:58.82,0:09:01.79,Default,,0,0,0,,-Think seriously!\N-I'm serious!
-Dialogue: 0,0:09:01.99,0:09:05.86,Default,,0,0,0,,Besides, what else could\N"steal my heart away" mean?
-Dialogue: 0,0:09:06.07,0:09:09.09,Default,,0,0,0,,Stupid. That's just stupid!
-Dialogue: 0,0:09:09.51,0:09:12.81,Default,,0,0,0,,Asuka, what are you so upset about?
-Dialogue: 0,0:09:13.02,0:09:17.61,Default,,0,0,0,,Asuka! Could you be jealous\Nof how I attract all the girls?
-Dialogue: 0,0:09:17.83,0:09:19.29,Default,,0,0,0,,Be quiet!
-Dialogue: 0,0:09:19.50,0:09:22.66,Default,,0,0,0,,That St. Tail, with a guy like this.
-Dialogue: 0,0:09:22.87,0:09:25.34,Default,,0,0,0,,I, Tohru Ijuin...
-Dialogue: 0,0:09:25.61,0:09:29.04,Default,,0,0,0,,...shall allow my heart to be stolen!
-Dialogue: 0,0:09:32.06,0:09:34.46,Default,,0,0,0,,-What's wrong?\N-Don't talk to me!
-Dialogue: 0,0:09:51.73,0:09:53.82,Default,,0,0,0,,Hey, wait a minute.
-Dialogue: 0,0:09:54.64,0:09:57.07,Default,,0,0,0,,Where are you taking me?
-Dialogue: 0,0:09:57.27,0:09:59.67,Default,,0,0,0,,Where else? To buy a present.
-Dialogue: 0,0:09:59.88,0:10:03.32,Default,,0,0,0,,We're going to buy a present\Nto give St. Tail.
-Dialogue: 0,0:10:03.52,0:10:07.01,Default,,0,0,0,,A present? Look here!\NWhat are you thinking?
-Dialogue: 0,0:10:07.66,0:10:12.26,Default,,0,0,0,,St. Tail is coming to steal\Nmy heart away, you know.
-Dialogue: 0,0:10:12.47,0:10:16.00,Default,,0,0,0,,Wouldn't it be rude\Nnot to be prepared for it?
-Dialogue: 0,0:10:16.21,0:10:18.74,Default,,0,0,0,,Imbecile! She's a thief!
-Dialogue: 0,0:10:18.95,0:10:23.01,Default,,0,0,0,,Never mind. Just tell me\Nwhat gift would make her happy.
-Dialogue: 0,0:10:23.23,0:10:25.53,Default,,0,0,0,,How should I know?
-Dialogue: 0,0:10:28.54,0:10:33.03,Default,,0,0,0,,Okay, I can't be\Ndragging my feet here.
-Dialogue: 0,0:10:41.33,0:10:43.36,Default,,0,0,0,,That wonderful chocolate smell!
-Dialogue: 0,0:10:43.57,0:10:48.53,Default,,0,0,0,,-Don't look yet.\N-Why? What's wrong with it? Delicious!
-Dialogue: 0,0:10:48.75,0:10:53.05,Default,,0,0,0,,I said no. I haven't put\Nthe finishing touch on it yet.
-Dialogue: 0,0:10:53.26,0:10:55.56,Default,,0,0,0,,The finishing touch?
-Dialogue: 0,0:10:56.73,0:10:59.06,Default,,0,0,0,,A special flower.
-Dialogue: 0,0:10:59.94,0:11:02.97,Default,,0,0,0,,With lots of love! Sprinkle!
-Dialogue: 0,0:11:03.18,0:11:05.44,Default,,0,0,0,,I see.
-Dialogue: 0,0:11:06.55,0:11:09.49,Default,,0,0,0,,You're right. This is delicious!
-Dialogue: 0,0:11:09.69,0:11:13.46,Default,,0,0,0,,-Isn't it?\N-I wonder why.
-Dialogue: 0,0:11:15.14,0:11:19.47,Default,,0,0,0,,Listening to them is embarrassing.\NIsn't that so, Ruby?
-Dialogue: 0,0:11:22.32,0:11:25.52,Default,,0,0,0,,Aren't I right? Valentine's Day.
-Dialogue: 0,0:11:25.73,0:11:29.96,Default,,0,0,0,,Ruby, do you have someone\Nto give chocolates to?
-Dialogue: 0,0:11:45.23,0:11:49.14,Default,,0,0,0,,I've been waiting for you.\NWell? Don't I look great?
-Dialogue: 0,0:11:49.84,0:11:52.64,Default,,0,0,0,,Hey, what are you up to, anyway?
-Dialogue: 0,0:11:52.88,0:11:55.08,Default,,0,0,0,,What are you talking about?
-Dialogue: 0,0:11:55.29,0:11:59.59,Default,,0,0,0,,This is the proper etiquette\Nfor receiving a lady.
-Dialogue: 0,0:12:00.87,0:12:05.40,Default,,0,0,0,,Kanako, it's dinnertime!\NCome down here!
-Dialogue: 0,0:12:05.61,0:12:08.60,Default,,0,0,0,,Yes! I'll be right there!
-Dialogue: 0,0:12:13.83,0:12:17.56,Default,,0,0,0,,Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
-Dialogue: 0,0:12:22.58,0:12:23.57,Default,,0,0,0,,One!
-Dialogue: 0,0:12:26.15,0:12:27.68,Default,,0,0,0,,Two!
-Dialogue: 0,0:12:29.29,0:12:31.66,Default,,0,0,0,,Three!
-Dialogue: 0,0:12:45.43,0:12:48.52,Default,,0,0,0,,Please be careful, Meimi.
-Dialogue: 0,0:12:48.90,0:12:51.03,Default,,0,0,0,,Yes, I know!
-Dialogue: 0,0:12:53.34,0:12:56.97,Default,,0,0,0,,May the blessings of God be with us.
-Dialogue: 0,0:13:02.73,0:13:06.33,Default,,0,0,0,,You can stay,\Nbut please don't get in the way.
-Dialogue: 0,0:13:06.54,0:13:08.97,Default,,0,0,0,,I know.
-Dialogue: 0,0:13:09.74,0:13:13.27,Default,,0,0,0,,St. Tail, come if you dare.
-Dialogue: 0,0:13:13.49,0:13:16.01,Default,,0,0,0,,I'll get you for sure.
-Dialogue: 0,0:13:16.22,0:13:19.35,Default,,0,0,0,,Who would give St. Tail\Nto a creep like him?
-Dialogue: 0,0:13:19.57,0:13:21.76,Default,,0,0,0,,My style!
-Dialogue: 0,0:13:22.74,0:13:24.50,Default,,0,0,0,,She's here!
-Dialogue: 0,0:13:24.71,0:13:25.90,Default,,0,0,0,,Wait, Tohru!
-Dialogue: 0,0:13:26.75,0:13:28.74,Default,,0,0,0,,Welcome!
-Dialogue: 0,0:13:31.26,0:13:33.69,Default,,0,0,0,,What's the matter, Tohru?
-Dialogue: 0,0:13:34.30,0:13:38.43,Default,,0,0,0,,It's a present, Asuka!
-Dialogue: 0,0:13:39.11,0:13:42.84,Default,,0,0,0,,Wait a minute, idiot!\NDon't bring that in here!
-Dialogue: 0,0:13:43.42,0:13:45.51,Default,,0,0,0,,But why--?
-Dialogue: 0,0:13:46.99,0:13:51.05,Default,,0,0,0,,What did I tell you?! Idiot!
-Dialogue: 0,0:13:54.84,0:13:56.77,Default,,0,0,0,,It's about time.
-Dialogue: 0,0:13:59.28,0:14:01.51,Default,,0,0,0,,Quick! Open the window!
-Dialogue: 0,0:14:03.46,0:14:05.48,Default,,0,0,0,,Is that you, St. Tail?
-Dialogue: 0,0:14:06.23,0:14:10.17,Default,,0,0,0,,-This must be it.\N-St. Tail!
-Dialogue: 0,0:14:10.41,0:14:13.77,Default,,0,0,0,,Please steal my heart!
-Dialogue: 0,0:14:15.32,0:14:19.25,Default,,0,0,0,,-Why are you running away?\N-What's going on here?
-Dialogue: 0,0:14:19.49,0:14:22.26,Default,,0,0,0,,Where are you?\NWhere did you go, St. Tail?
-Dialogue: 0,0:14:22.77,0:14:24.73,Default,,0,0,0,,Please steal my heart!
-Dialogue: 0,0:14:24.94,0:14:27.20,Default,,0,0,0,,What? Steal his heart?
-Dialogue: 0,0:14:28.61,0:14:30.84,Default,,0,0,0,,St. Tail!
-Dialogue: 0,0:14:31.52,0:14:35.95,Default,,0,0,0,,Stop it! I'm not St. Tail!
-Dialogue: 0,0:14:36.76,0:14:38.69,Default,,0,0,0,,What?
-Dialogue: 0,0:14:39.93,0:14:41.80,Default,,0,0,0,,Hold it, St. Tail!
-Dialogue: 0,0:14:42.91,0:14:44.90,Default,,0,0,0,,St. Tail!
-Dialogue: 0,0:14:46.58,0:14:49.78,Default,,0,0,0,,Do you love Tohru that much?
-Dialogue: 0,0:14:50.29,0:14:53.42,Default,,0,0,0,,What's he mixed-up about?
-Dialogue: 0,0:14:53.83,0:14:56.77,Default,,0,0,0,,I'm taking the notebook,\Njust as I told you!
-Dialogue: 0,0:14:57.30,0:14:59.24,Default,,0,0,0,,Notebook?
-Dialogue: 0,0:15:03.85,0:15:09.19,Default,,0,0,0,,Oh, it's not "heart."\NIt's "notebook."
-Dialogue: 0,0:15:09.60,0:15:13.23,Default,,0,0,0,,-See you around!\N-I won't let you get away!
-Dialogue: 0,0:15:13.44,0:15:15.27,Default,,0,0,0,,Asuka!
-Dialogue: 0,0:15:23.19,0:15:24.78,Default,,0,0,0,,St. Tail!
-Dialogue: 0,0:15:25.70,0:15:27.79,Default,,0,0,0,,Steal my heart!
-Dialogue: 0,0:15:37.22,0:15:40.25,Default,,0,0,0,,-You're in the way!\N-No, you're in the way!
-Dialogue: 0,0:15:40.46,0:15:43.40,Default,,0,0,0,,I'm gonna catch St. Tail!
-Dialogue: 0,0:15:43.84,0:15:46.24,Default,,0,0,0,,Asuka, up ahead!
-Dialogue: 0,0:15:52.39,0:15:57.05,Default,,0,0,0,,My heart, please steal it!
-Dialogue: 0,0:16:01.04,0:16:05.34,Default,,0,0,0,,I'm pretty sure that\NKanako's house is in this area.
-Dialogue: 0,0:16:09.39,0:16:11.48,Default,,0,0,0,,St. Tail!
-Dialogue: 0,0:16:13.10,0:16:16.19,Default,,0,0,0,,Please wait! My heart!
-Dialogue: 0,0:16:17.17,0:16:19.64,Default,,0,0,0,,Something's going on outside.
-Dialogue: 0,0:16:19.84,0:16:23.11,Default,,0,0,0,,-St. Tail!\N-I'll go look.
-Dialogue: 0,0:16:34.91,0:16:37.31,Default,,0,0,0,,Please wait!
-Dialogue: 0,0:16:37.75,0:16:39.81,Default,,0,0,0,,Please wait!
-Dialogue: 0,0:16:50.57,0:16:52.44,Default,,0,0,0,,I give you my heart.
-Dialogue: 0,0:16:52.65,0:16:54.58,Default,,0,0,0,,Tohru.
-Dialogue: 0,0:17:01.20,0:17:03.06,Default,,0,0,0,,You're cute.
-Dialogue: 0,0:17:05.91,0:17:08.07,Default,,0,0,0,,I've made up my mind!
-Dialogue: 0,0:17:13.89,0:17:14.98,Default,,0,0,0,,Okay!
-Dialogue: 0,0:17:19.27,0:17:21.90,Default,,0,0,0,,Hold it, St. Tail!
-Dialogue: 0,0:17:26.88,0:17:29.35,Default,,0,0,0,,What's happening?
-Dialogue: 0,0:17:35.13,0:17:37.40,Default,,0,0,0,,Now you're caught!
-Dialogue: 0,0:17:38.11,0:17:40.13,Default,,0,0,0,,Darn it!
-Dialogue: 0,0:17:46.32,0:17:48.92,Default,,0,0,0,,I'll remember this, St. Tail!
-Dialogue: 0,0:17:49.13,0:17:52.93,Default,,0,0,0,,You won't get away from me next time!
-Dialogue: 0,0:18:09.64,0:18:14.81,Default,,0,0,0,,What happened to you yesterday?\NYou said you'd buy chocolate with us.
-Dialogue: 0,0:18:15.02,0:18:19.18,Default,,0,0,0,,Oh, sorry about that!\NSomething urgent came up.
-Dialogue: 0,0:18:19.96,0:18:24.02,Default,,0,0,0,,Good morning, Asuka Jr.!\NSt. Tail got away again?
-Dialogue: 0,0:18:24.24,0:18:27.90,Default,,0,0,0,,Be quiet! I almost had her!
-Dialogue: 0,0:18:28.11,0:18:33.35,Default,,0,0,0,,If only that ship hadn't passed!\NNext time, I'll get her for sure!
-Dialogue: 0,0:18:33.56,0:18:37.99,Default,,0,0,0,,Asuka! Asuka, good morning!
-Dialogue: 0,0:18:38.84,0:18:41.27,Default,,0,0,0,,Good morning!
-Dialogue: 0,0:18:41.74,0:18:44.17,Default,,0,0,0,,-Kanako?\N-Yes?
-Dialogue: 0,0:18:44.38,0:18:48.32,Default,,0,0,0,,-Where are your glasses?\N-I changed to contact lenses.
-Dialogue: 0,0:18:48.52,0:18:51.98,Default,,0,0,0,,She's much cuter this way, isn't she?
-Dialogue: 0,0:18:53.33,0:18:56.20,Default,,0,0,0,,Hey, what's going on?
-Dialogue: 0,0:18:56.40,0:18:59.77,Default,,0,0,0,,My heart was stolen,\Njust like the notice said.
-Dialogue: 0,0:18:59.98,0:19:01.34,Default,,0,0,0,,By St. Tail?
-Dialogue: 0,0:19:01.55,0:19:04.04,Default,,0,0,0,,Of course not! By Kanako!
-Dialogue: 0,0:19:04.26,0:19:06.25,Default,,0,0,0,,Is that so?
-Dialogue: 0,0:19:06.46,0:19:10.59,Default,,0,0,0,,You better hurry too,\Nor you'll be late for school.
-Dialogue: 0,0:19:11.40,0:19:12.84,Default,,0,0,0,,-But...\N-Really.
-Dialogue: 0,0:19:13.04,0:19:14.60,Default,,0,0,0,,What a guy!
-Dialogue: 0,0:19:14.81,0:19:18.64,Default,,0,0,0,,We're the happiest people alive!
+Dialogue: 0,0:00:05.77,0:00:09.13,saint tail default,,0,0,0,,How about going to buy chocolate\Nafter school today?
+Dialogue: 0,0:00:09.34,0:00:11.61,saint tail default,,0,0,0,,It's almost Valentine's Day.
+Dialogue: 0,0:00:11.81,0:00:15.55,saint tail default,,0,0,0,,I'll have to give some\Nobligation chocolates this year.
+Dialogue: 0,0:00:15.76,0:00:20.28,saint tail default,,0,0,0,,-Meimi, you're going too, right?\N-Valentine's. What shall I do?
+Dialogue: 0,0:00:20.50,0:00:23.30,saint tail default,,0,0,0,,Aren't you giving\NAsuka Jr. chocolate?
+Dialogue: 0,0:00:23.54,0:00:25.17,saint tail default,,0,0,0,,What? You're kidding!
+Dialogue: 0,0:00:25.38,0:00:28.21,saint tail default,,0,0,0,,What's that?\NIs that how you really feel?
+Dialogue: 0,0:00:28.42,0:00:32.82,saint tail default,,0,0,0,,Someone's giving me chocolate?\N"True love" chocolate?
+Dialogue: 0,0:00:33.03,0:00:36.83,saint tail default,,0,0,0,,You've got it wrong!\NIt's obligation chocolate!
+Dialogue: 0,0:00:37.03,0:00:38.76,saint tail default,,0,0,0,,I don't care which it is...
+Dialogue: 0,0:00:38.97,0:00:43.27,saint tail default,,0,0,0,,...but a better gift would be\Na meat bun or octopus fritters.
+Dialogue: 0,0:00:43.48,0:00:47.61,saint tail default,,0,0,0,,What a kid! Valentine chocolates\Naren't a 3:00 snack!
+Dialogue: 0,0:00:47.82,0:00:50.66,saint tail default,,0,0,0,,You won't get any\N"true love" chocolates!
+Dialogue: 0,0:00:50.86,0:00:53.83,saint tail default,,0,0,0,,-Be quiet!\N-What do you mean, be quiet?
+Dialogue: 0,0:00:54.04,0:00:56.60,saint tail default,,0,0,0,,-What's it to you?\N-What do you mean?
+Dialogue: 0,0:00:56.81,0:00:58.61,saint tail default,,0,0,0,,Jeez!
+Dialogue: 0,0:00:59.21,0:01:02.48,saint tail default,,0,0,0,,Asuka, what are you doing?
+Dialogue: 0,0:01:02.95,0:01:07.45,saint tail default,,0,0,0,,That's no way to treat a lady.\NYou've got to be gentle.
+Dialogue: 0,0:01:09.20,0:01:11.40,saint tail default,,0,0,0,,It's Tohru Ijuin!
+Dialogue: 0,0:01:11.84,0:01:14.60,saint tail default,,0,0,0,,Hey, who's Tohru Ijuin\Nsupposed to be?
+Dialogue: 0,0:01:14.81,0:01:18.71,saint tail default,,0,0,0,,You don't know?\NRight now, Tohru Ijuin is...
+Dialogue: 0,0:01:19.22,0:01:22.21,saint tail default,,0,0,0,,...an ultra-popular guy\Namong the freshmen.
+Dialogue: 0,0:01:22.43,0:01:26.23,saint tail default,,0,0,0,,Sure! He models, always\Nin the latest magazines.
+Dialogue: 0,0:01:26.44,0:01:29.74,saint tail default,,0,0,0,,Then how could such a guy\Nknow Asuka Jr.?
+Dialogue: 0,0:01:29.94,0:01:31.67,saint tail default,,0,0,0,,Who knows?
+Dialogue: 0,0:01:32.28,0:01:35.51,saint tail default,,0,0,0,,Oh, good morning!\NI'm a freshmen in class A.
+Dialogue: 0,0:01:36.09,0:01:38.15,saint tail default,,0,0,0,,Tohru Ijuin.
+Dialogue: 0,0:01:41.90,0:01:47.10,saint tail default,,0,0,0,,THE HEART THIEF ON\NST. VALENTINE'S DAY??
+Dialogue: 0,0:01:50.69,0:01:56.35,saint tail default,,0,0,0,,Just know that I'm not friends with\Nthis guy. We live near each other--
+Dialogue: 0,0:01:56.57,0:02:00.37,saint tail default,,0,0,0,,That's mean!\NWe played a lot together as children.
+Dialogue: 0,0:02:00.58,0:02:02.91,saint tail default,,0,0,0,,Be quiet, don't follow me!
+Dialogue: 0,0:02:03.11,0:02:08.45,saint tail default,,0,0,0,,In the first place, you're younger!\NSo why are you bigger than me?
+Dialogue: 0,0:02:08.79,0:02:12.13,saint tail default,,0,0,0,,Asuka, you're at it again?\NHe's always like this.
+Dialogue: 0,0:02:12.33,0:02:16.00,saint tail default,,0,0,0,,He absolutely despises my good looks.
+Dialogue: 0,0:02:19.72,0:02:24.15,saint tail default,,0,0,0,,-Pardon me! You're Tohru Ijuin, right?\N-Yes, I am.
+Dialogue: 0,0:02:24.36,0:02:28.16,saint tail default,,0,0,0,,-Isn't she from another school?\N-I think so.
+Dialogue: 0,0:02:28.37,0:02:32.50,saint tail default,,0,0,0,,-Please enjoy these cookies I made.\N-Thanks.
+Dialogue: 0,0:02:32.71,0:02:35.68,saint tail default,,0,0,0,,And will you let me take your picture?
+Dialogue: 0,0:02:35.88,0:02:38.04,saint tail default,,0,0,0,,-Sure.\N-Thank you!
+Dialogue: 0,0:02:38.25,0:02:44.09,saint tail default,,0,0,0,,Wait a minute! I look best diagonally\Nfrom the right, at a 30-degree angle.
+Dialogue: 0,0:02:44.30,0:02:47.74,saint tail default,,0,0,0,,Okay! I understand.
+Dialogue: 0,0:02:47.94,0:02:52.31,saint tail default,,0,0,0,,This is stupid.\NLet's go and leave this guy.
+Dialogue: 0,0:02:56.06,0:02:59.22,saint tail default,,0,0,0,,Hey, wait for me, Asuka!
+Dialogue: 0,0:02:59.77,0:03:03.43,saint tail default,,0,0,0,,Asuka! Please wait for me!
+Dialogue: 0,0:03:03.64,0:03:05.20,saint tail default,,0,0,0,,Yeah, just like that!
+Dialogue: 0,0:03:05.65,0:03:10.48,saint tail default,,0,0,0,,"There is nothing stronger\Nthan a mother's love.
+Dialogue: 0,0:03:10.69,0:03:14.25,saint tail default,,0,0,0,,I am prepared for anything.
+Dialogue: 0,0:03:14.60,0:03:19.59,saint tail default,,0,0,0,,The mountain that you see\Nover there is Mt. Asahi."
+Dialogue: 0,0:03:20.24,0:03:22.34,saint tail default,,0,0,0,,Well, we shall stop here.
+Dialogue: 0,0:03:22.55,0:03:27.54,saint tail default,,0,0,0,,We will have a test next week\Non today's lesson. Review it well.
+Dialogue: 0,0:03:27.76,0:03:31.56,saint tail default,,0,0,0,,-What?\N-You're joking!
+Dialogue: 0,0:03:41.39,0:03:45.98,saint tail default,,0,0,0,,Can you lend me your English notebook?\NI didn't take any notes.
+Dialogue: 0,0:03:46.20,0:03:47.46,saint tail default,,0,0,0,,Well...
+Dialogue: 0,0:03:47.67,0:03:51.16,saint tail default,,0,0,0,,Hey, Tohru! Hurry up\Nor I'll leave without you!
+Dialogue: 0,0:03:51.37,0:03:54.71,saint tail default,,0,0,0,,Yeah. Give me a minute!\NIs it no?
+Dialogue: 0,0:03:55.42,0:03:57.47,saint tail default,,0,0,0,,It's okay.
+Dialogue: 0,0:04:01.56,0:04:03.72,saint tail default,,0,0,0,,Here, this is it.
+Dialogue: 0,0:04:04.17,0:04:07.26,saint tail default,,0,0,0,,Thank you!\NI'll return it tomorrow!
+Dialogue: 0,0:04:11.65,0:04:15.81,saint tail default,,0,0,0,,This is the English notebook.\NWait! That's the wrong one!
+Dialogue: 0,0:04:18.80,0:04:22.29,saint tail default,,0,0,0,,Oh, no, what am I going to do?
+Dialogue: 0,0:04:24.51,0:04:28.54,saint tail default,,0,0,0,,-What? You're gonna buy that much?\N-But they're all obligations.
+Dialogue: 0,0:04:28.75,0:04:31.15,saint tail default,,0,0,0,,And who's the true love?
+Dialogue: 0,0:04:31.36,0:04:35.26,saint tail default,,0,0,0,,That's a secret!\NAnd, Meimi, what about you?
+Dialogue: 0,0:04:35.47,0:04:36.93,saint tail default,,0,0,0,,What? Me?
+Dialogue: 0,0:04:41.48,0:04:44.97,saint tail default,,0,0,0,,-Who'd give him anything?\N-Meimi, how about you?
+Dialogue: 0,0:04:45.19,0:04:47.38,saint tail default,,0,0,0,,That's my secret too!
+Dialogue: 0,0:04:47.59,0:04:50.12,saint tail default,,0,0,0,,Unfair, you've all got secrets!
+Dialogue: 0,0:04:50.33,0:04:53.30,saint tail default,,0,0,0,,-So, Ryoko, yours is...?\N-Me?
+Dialogue: 0,0:04:53.50,0:04:57.37,saint tail default,,0,0,0,,You keep asking about us,\Nbut what about you?
+Dialogue: 0,0:04:57.58,0:05:00.95,saint tail default,,0,0,0,,Isn't it obvious? It's...
+Dialogue: 0,0:05:01.15,0:05:02.45,saint tail default,,0,0,0,,Yes?
+Dialogue: 0,0:05:02.66,0:05:04.15,saint tail default,,0,0,0,,A secret.
+Dialogue: 0,0:05:10.04,0:05:12.87,saint tail default,,0,0,0,,So you lent him the wrong notebook?
+Dialogue: 0,0:05:13.18,0:05:15.15,saint tail default,,0,0,0,,Yes, exactly.
+Dialogue: 0,0:05:15.35,0:05:19.22,saint tail default,,0,0,0,,That notebook is the one\NI use as a diary...
+Dialogue: 0,0:05:19.43,0:05:21.86,saint tail default,,0,0,0,,...to write my daily thoughts in.
+Dialogue: 0,0:05:24.24,0:05:28.37,saint tail default,,0,0,0,,In that notebook,\NI've written many poems...
+Dialogue: 0,0:05:28.58,0:05:31.14,saint tail default,,0,0,0,,...thinking about Tohru.
+Dialogue: 0,0:05:32.25,0:05:35.62,saint tail default,,0,0,0,,If Tohru should see any of that...
+Dialogue: 0,0:05:35.83,0:05:41.06,saint tail default,,0,0,0,,...I'd be so embarrassed\NI wouldn't be able to live!
+Dialogue: 0,0:05:41.54,0:05:46.53,saint tail default,,0,0,0,,Don't worry.\NI'm sure God will lend you a hand.
+Dialogue: 0,0:05:55.27,0:05:58.00,saint tail default,,0,0,0,,Get a notebook back from Tohru Ijuin?
+Dialogue: 0,0:05:58.54,0:06:00.91,saint tail default,,0,0,0,,Right. And it has to be today.
+Dialogue: 0,0:06:01.11,0:06:04.98,saint tail default,,0,0,0,,Before he gets a chance\Nto look at that notebook.
+Dialogue: 0,0:06:05.19,0:06:06.71,saint tail default,,0,0,0,,Oh, I see.
+Dialogue: 0,0:06:06.93,0:06:11.09,saint tail default,,0,0,0,,Kanako Shimamura is in love with him.
+Dialogue: 0,0:06:11.30,0:06:14.46,saint tail default,,0,0,0,,But she's afraid\Nto have him find out.
+Dialogue: 0,0:06:14.67,0:06:19.94,saint tail default,,0,0,0,,This would be the chance to tell him.\NAnd it's almost Valentine's Day.
+Dialogue: 0,0:06:20.22,0:06:23.88,saint tail default,,0,0,0,,You may be right, but...
+Dialogue: 0,0:06:24.09,0:06:30.16,saint tail default,,0,0,0,,A boy as popular as Tohru would\Nnever even give me a second thought.
+Dialogue: 0,0:06:30.37,0:06:34.81,saint tail default,,0,0,0,,And I'm happy just to\Nbe able to look at him.
+Dialogue: 0,0:06:35.52,0:06:40.58,saint tail default,,0,0,0,,There are many girls who are unable\Nto honestly display their feelings.
+Dialogue: 0,0:06:40.80,0:06:43.23,saint tail default,,0,0,0,,Meimi, you're probably...
+Dialogue: 0,0:06:45.11,0:06:46.40,saint tail default,,0,0,0,,Right?
+Dialogue: 0,0:06:46.81,0:06:51.11,saint tail default,,0,0,0,,I understand. Right!\NSt. Tail is a supporter of girls.
+Dialogue: 0,0:06:51.32,0:06:54.62,saint tail default,,0,0,0,,I will get that notebook\Nback for Kanako.
+Dialogue: 0,0:06:54.83,0:06:56.62,saint tail default,,0,0,0,,ART ROOM
+Dialogue: 0,0:07:02.21,0:07:05.90,saint tail default,,0,0,0,,-Let's clean up quickly and go home!\N-Yeah.
+Dialogue: 0,0:07:08.02,0:07:11.35,saint tail default,,0,0,0,,Jeez, what a filthy classroom.
+Dialogue: 0,0:07:16.67,0:07:18.43,saint tail default,,0,0,0,,What's this?
+Dialogue: 0,0:07:22.08,0:07:25.85,saint tail default,,0,0,0,,"NOTE" GETS CHANGED\NTO "HEART"
+Dialogue: 0,0:07:26.06,0:07:27.53,saint tail default,,0,0,0,,Ouch.
+Dialogue: 0,0:07:27.73,0:07:29.36,saint tail default,,0,0,0,,It's a...
+Dialogue: 0,0:07:30.43,0:07:34.39,saint tail default,,0,0,0,,Tonight I will be stealing\NTohru Ijuin's heart away.
+Dialogue: 0,0:07:34.61,0:07:36.84,saint tail default,,0,0,0,,St. Tail!
+Dialogue: 0,0:07:38.15,0:07:40.41,saint tail default,,0,0,0,,His heart?
+Dialogue: 0,0:07:40.62,0:07:42.75,saint tail default,,0,0,0,,What about his heart?
+Dialogue: 0,0:07:42.96,0:07:48.49,saint tail default,,0,0,0,,-What are you doing here?\N-Let's go home together, Asuka.
+Dialogue: 0,0:07:48.71,0:07:51.30,saint tail default,,0,0,0,,Never mind that. Look.
+Dialogue: 0,0:07:52.11,0:07:57.28,saint tail default,,0,0,0,,"Tonight I will be stealing\NTohru Ijuin's heart away. -St. Tail"
+Dialogue: 0,0:07:57.89,0:08:00.79,saint tail default,,0,0,0,,-What's this about?\N-That's my question!
+Dialogue: 0,0:08:03.10,0:08:04.86,saint tail default,,0,0,0,,What does it mean?
+Dialogue: 0,0:08:05.07,0:08:09.03,saint tail default,,0,0,0,,If it says "heart"...\NYou're kidding! My heart?
+Dialogue: 0,0:08:09.25,0:08:14.65,saint tail default,,0,0,0,,This heart? She's gonna perform\Nopen-heart surgery on me?
+Dialogue: 0,0:08:14.86,0:08:18.92,saint tail default,,0,0,0,,Of course not, you idiot!\NThink seriously.
+Dialogue: 0,0:08:19.14,0:08:23.23,saint tail default,,0,0,0,,For example, maybe you have\Na pet cat or dog named Heart.
+Dialogue: 0,0:08:23.44,0:08:26.71,saint tail default,,0,0,0,,-No, only a turtle named Samantha.\N-I see.
+Dialogue: 0,0:08:27.15,0:08:29.52,saint tail default,,0,0,0,,Then what could it mean?
+Dialogue: 0,0:08:29.72,0:08:33.18,saint tail default,,0,0,0,,What could St. Tail\Nwant to steal from you?
+Dialogue: 0,0:08:34.17,0:08:35.69,saint tail default,,0,0,0,,Well...
+Dialogue: 0,0:08:38.68,0:08:41.41,saint tail default,,0,0,0,,Heart, heart, heart...
+Dialogue: 0,0:08:41.62,0:08:44.64,saint tail default,,0,0,0,,That's it!\NI know what it is, Asuka!
+Dialogue: 0,0:08:44.89,0:08:48.52,saint tail default,,0,0,0,,What is it? What's she gonna steal?
+Dialogue: 0,0:08:48.73,0:08:50.36,saint tail default,,0,0,0,,To put it simply...
+Dialogue: 0,0:08:50.57,0:08:54.83,saint tail default,,0,0,0,,...St. Tail has fallen in love\Nwith me, and tonight she's coming...
+Dialogue: 0,0:08:55.04,0:08:58.60,saint tail default,,0,0,0,,...to flirt with me\Nand steal my heart away.
+Dialogue: 0,0:08:58.82,0:09:01.79,saint tail default,,0,0,0,,-Think seriously!\N-I'm serious!
+Dialogue: 0,0:09:01.99,0:09:05.86,saint tail default,,0,0,0,,Besides, what else could\N"steal my heart away" mean?
+Dialogue: 0,0:09:06.07,0:09:09.09,saint tail default,,0,0,0,,Stupid. That's just stupid!
+Dialogue: 0,0:09:09.51,0:09:12.81,saint tail default,,0,0,0,,Asuka, what are you so upset about?
+Dialogue: 0,0:09:13.02,0:09:17.61,saint tail default,,0,0,0,,Asuka! Could you be jealous\Nof how I attract all the girls?
+Dialogue: 0,0:09:17.83,0:09:19.29,saint tail default,,0,0,0,,Be quiet!
+Dialogue: 0,0:09:19.50,0:09:22.66,saint tail default,,0,0,0,,That St. Tail, with a guy like this.
+Dialogue: 0,0:09:22.87,0:09:25.34,saint tail default,,0,0,0,,I, Tohru Ijuin...
+Dialogue: 0,0:09:25.61,0:09:29.04,saint tail default,,0,0,0,,...shall allow my heart to be stolen!
+Dialogue: 0,0:09:32.06,0:09:34.46,saint tail default,,0,0,0,,-What's wrong?\N-Don't talk to me!
+Dialogue: 0,0:09:51.73,0:09:53.82,saint tail default,,0,0,0,,Hey, wait a minute.
+Dialogue: 0,0:09:54.64,0:09:57.07,saint tail default,,0,0,0,,Where are you taking me?
+Dialogue: 0,0:09:57.27,0:09:59.67,saint tail default,,0,0,0,,Where else? To buy a present.
+Dialogue: 0,0:09:59.88,0:10:03.32,saint tail default,,0,0,0,,We're going to buy a present\Nto give St. Tail.
+Dialogue: 0,0:10:03.52,0:10:07.01,saint tail default,,0,0,0,,A present? Look here!\NWhat are you thinking?
+Dialogue: 0,0:10:07.66,0:10:12.26,saint tail default,,0,0,0,,St. Tail is coming to steal\Nmy heart away, you know.
+Dialogue: 0,0:10:12.47,0:10:16.00,saint tail default,,0,0,0,,Wouldn't it be rude\Nnot to be prepared for it?
+Dialogue: 0,0:10:16.21,0:10:18.74,saint tail default,,0,0,0,,Imbecile! She's a thief!
+Dialogue: 0,0:10:18.95,0:10:23.01,saint tail default,,0,0,0,,Never mind. Just tell me\Nwhat gift would make her happy.
+Dialogue: 0,0:10:23.23,0:10:25.53,saint tail default,,0,0,0,,How should I know?
+Dialogue: 0,0:10:28.54,0:10:33.03,saint tail default,,0,0,0,,Okay, I can't be\Ndragging my feet here.
+Dialogue: 0,0:10:41.33,0:10:43.36,saint tail default,,0,0,0,,That wonderful chocolate smell!
+Dialogue: 0,0:10:43.57,0:10:48.53,saint tail default,,0,0,0,,-Don't look yet.\N-Why? What's wrong with it? Delicious!
+Dialogue: 0,0:10:48.75,0:10:53.05,saint tail default,,0,0,0,,I said no. I haven't put\Nthe finishing touch on it yet.
+Dialogue: 0,0:10:53.26,0:10:55.56,saint tail default,,0,0,0,,The finishing touch?
+Dialogue: 0,0:10:56.73,0:10:59.06,saint tail default,,0,0,0,,A special flower.
+Dialogue: 0,0:10:59.94,0:11:02.97,saint tail default,,0,0,0,,With lots of love! Sprinkle!
+Dialogue: 0,0:11:03.18,0:11:05.44,saint tail default,,0,0,0,,I see.
+Dialogue: 0,0:11:06.55,0:11:09.49,saint tail default,,0,0,0,,You're right. This is delicious!
+Dialogue: 0,0:11:09.69,0:11:13.46,saint tail default,,0,0,0,,-Isn't it?\N-I wonder why.
+Dialogue: 0,0:11:15.14,0:11:19.47,saint tail default,,0,0,0,,Listening to them is embarrassing.\NIsn't that so, Ruby?
+Dialogue: 0,0:11:22.32,0:11:25.52,saint tail default,,0,0,0,,Aren't I right? Valentine's Day.
+Dialogue: 0,0:11:25.73,0:11:29.96,saint tail default,,0,0,0,,Ruby, do you have someone\Nto give chocolates to?
+Dialogue: 0,0:11:45.23,0:11:49.14,saint tail default,,0,0,0,,I've been waiting for you.\NWell? Don't I look great?
+Dialogue: 0,0:11:49.84,0:11:52.64,saint tail default,,0,0,0,,Hey, what are you up to, anyway?
+Dialogue: 0,0:11:52.88,0:11:55.08,saint tail default,,0,0,0,,What are you talking about?
+Dialogue: 0,0:11:55.29,0:11:59.59,saint tail default,,0,0,0,,This is the proper etiquette\Nfor receiving a lady.
+Dialogue: 0,0:12:00.87,0:12:05.40,saint tail default,,0,0,0,,Kanako, it's dinnertime!\NCome down here!
+Dialogue: 0,0:12:05.61,0:12:08.60,saint tail default,,0,0,0,,Yes! I'll be right there!
+Dialogue: 0,0:12:13.83,0:12:17.56,saint tail default,,0,0,0,,Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
+Dialogue: 0,0:12:22.58,0:12:23.57,saint tail default,,0,0,0,,One!
+Dialogue: 0,0:12:26.15,0:12:27.68,saint tail default,,0,0,0,,Two!
+Dialogue: 0,0:12:29.29,0:12:31.66,saint tail default,,0,0,0,,Three!
+Dialogue: 0,0:12:45.43,0:12:48.52,saint tail default,,0,0,0,,Please be careful, Meimi.
+Dialogue: 0,0:12:48.90,0:12:51.03,saint tail default,,0,0,0,,Yes, I know!
+Dialogue: 0,0:12:53.34,0:12:56.97,saint tail default,,0,0,0,,May the blessings of God be with us.
+Dialogue: 0,0:13:02.73,0:13:06.33,saint tail default,,0,0,0,,You can stay,\Nbut please don't get in the way.
+Dialogue: 0,0:13:06.54,0:13:08.97,saint tail default,,0,0,0,,I know.
+Dialogue: 0,0:13:09.74,0:13:13.27,saint tail default,,0,0,0,,St. Tail, come if you dare.
+Dialogue: 0,0:13:13.49,0:13:16.01,saint tail default,,0,0,0,,I'll get you for sure.
+Dialogue: 0,0:13:16.22,0:13:19.35,saint tail default,,0,0,0,,Who would give St. Tail\Nto a creep like him?
+Dialogue: 0,0:13:19.57,0:13:21.76,saint tail default,,0,0,0,,My style!
+Dialogue: 0,0:13:22.74,0:13:24.50,saint tail default,,0,0,0,,She's here!
+Dialogue: 0,0:13:24.71,0:13:25.90,saint tail default,,0,0,0,,Wait, Tohru!
+Dialogue: 0,0:13:26.75,0:13:28.74,saint tail default,,0,0,0,,Welcome!
+Dialogue: 0,0:13:31.26,0:13:33.69,saint tail default,,0,0,0,,What's the matter, Tohru?
+Dialogue: 0,0:13:34.30,0:13:38.43,saint tail default,,0,0,0,,It's a present, Asuka!
+Dialogue: 0,0:13:39.11,0:13:42.84,saint tail default,,0,0,0,,Wait a minute, idiot!\NDon't bring that in here!
+Dialogue: 0,0:13:43.42,0:13:45.51,saint tail default,,0,0,0,,But why--?
+Dialogue: 0,0:13:46.99,0:13:51.05,saint tail default,,0,0,0,,What did I tell you?! Idiot!
+Dialogue: 0,0:13:54.84,0:13:56.77,saint tail default,,0,0,0,,It's about time.
+Dialogue: 0,0:13:59.28,0:14:01.51,saint tail default,,0,0,0,,Quick! Open the window!
+Dialogue: 0,0:14:03.46,0:14:05.48,saint tail default,,0,0,0,,Is that you, St. Tail?
+Dialogue: 0,0:14:06.23,0:14:10.17,saint tail default,,0,0,0,,-This must be it.\N-St. Tail!
+Dialogue: 0,0:14:10.41,0:14:13.77,saint tail default,,0,0,0,,Please steal my heart!
+Dialogue: 0,0:14:15.32,0:14:19.25,saint tail default,,0,0,0,,-Why are you running away?\N-What's going on here?
+Dialogue: 0,0:14:19.49,0:14:22.26,saint tail default,,0,0,0,,Where are you?\NWhere did you go, St. Tail?
+Dialogue: 0,0:14:22.77,0:14:24.73,saint tail default,,0,0,0,,Please steal my heart!
+Dialogue: 0,0:14:24.94,0:14:27.20,saint tail default,,0,0,0,,What? Steal his heart?
+Dialogue: 0,0:14:28.61,0:14:30.84,saint tail default,,0,0,0,,St. Tail!
+Dialogue: 0,0:14:31.52,0:14:35.95,saint tail default,,0,0,0,,Stop it! I'm not St. Tail!
+Dialogue: 0,0:14:36.76,0:14:38.69,saint tail default,,0,0,0,,What?
+Dialogue: 0,0:14:39.93,0:14:41.80,saint tail default,,0,0,0,,Hold it, St. Tail!
+Dialogue: 0,0:14:42.91,0:14:44.90,saint tail default,,0,0,0,,St. Tail!
+Dialogue: 0,0:14:46.58,0:14:49.78,saint tail default,,0,0,0,,Do you love Tohru that much?
+Dialogue: 0,0:14:50.29,0:14:53.42,saint tail default,,0,0,0,,What's he mixed-up about?
+Dialogue: 0,0:14:53.83,0:14:56.77,saint tail default,,0,0,0,,I'm taking the notebook,\Njust as I told you!
+Dialogue: 0,0:14:57.30,0:14:59.24,saint tail default,,0,0,0,,Notebook?
+Dialogue: 0,0:15:03.85,0:15:09.19,saint tail default,,0,0,0,,Oh, it's not "heart."\NIt's "notebook."
+Dialogue: 0,0:15:09.60,0:15:13.23,saint tail default,,0,0,0,,-See you around!\N-I won't let you get away!
+Dialogue: 0,0:15:13.44,0:15:15.27,saint tail default,,0,0,0,,Asuka!
+Dialogue: 0,0:15:23.19,0:15:24.78,saint tail default,,0,0,0,,St. Tail!
+Dialogue: 0,0:15:25.70,0:15:27.79,saint tail default,,0,0,0,,Steal my heart!
+Dialogue: 0,0:15:37.22,0:15:40.25,saint tail default,,0,0,0,,-You're in the way!\N-No, you're in the way!
+Dialogue: 0,0:15:40.46,0:15:43.40,saint tail default,,0,0,0,,I'm gonna catch St. Tail!
+Dialogue: 0,0:15:43.84,0:15:46.24,saint tail default,,0,0,0,,Asuka, up ahead!
+Dialogue: 0,0:15:52.39,0:15:57.05,saint tail default,,0,0,0,,My heart, please steal it!
+Dialogue: 0,0:16:01.04,0:16:05.34,saint tail default,,0,0,0,,I'm pretty sure that\NKanako's house is in this area.
+Dialogue: 0,0:16:09.39,0:16:11.48,saint tail default,,0,0,0,,St. Tail!
+Dialogue: 0,0:16:13.10,0:16:16.19,saint tail default,,0,0,0,,Please wait! My heart!
+Dialogue: 0,0:16:17.17,0:16:19.64,saint tail default,,0,0,0,,Something's going on outside.
+Dialogue: 0,0:16:19.84,0:16:23.11,saint tail default,,0,0,0,,-St. Tail!\N-I'll go look.
+Dialogue: 0,0:16:34.91,0:16:37.31,saint tail default,,0,0,0,,Please wait!
+Dialogue: 0,0:16:37.75,0:16:39.81,saint tail default,,0,0,0,,Please wait!
+Dialogue: 0,0:16:50.57,0:16:52.44,saint tail default,,0,0,0,,I give you my heart.
+Dialogue: 0,0:16:52.65,0:16:54.58,saint tail default,,0,0,0,,Tohru.
+Dialogue: 0,0:17:01.20,0:17:03.06,saint tail default,,0,0,0,,You're cute.
+Dialogue: 0,0:17:05.91,0:17:08.07,saint tail default,,0,0,0,,I've made up my mind!
+Dialogue: 0,0:17:13.89,0:17:14.98,saint tail default,,0,0,0,,Okay!
+Dialogue: 0,0:17:19.27,0:17:21.90,saint tail default,,0,0,0,,Hold it, St. Tail!
+Dialogue: 0,0:17:26.88,0:17:29.35,saint tail default,,0,0,0,,What's happening?
+Dialogue: 0,0:17:35.13,0:17:37.40,saint tail default,,0,0,0,,Now you're caught!
+Dialogue: 0,0:17:38.11,0:17:40.13,saint tail default,,0,0,0,,Darn it!
+Dialogue: 0,0:17:46.32,0:17:48.92,saint tail default,,0,0,0,,I'll remember this, St. Tail!
+Dialogue: 0,0:17:49.13,0:17:52.93,saint tail default,,0,0,0,,You won't get away from me next time!
+Dialogue: 0,0:18:09.64,0:18:14.81,saint tail default,,0,0,0,,What happened to you yesterday?\NYou said you'd buy chocolate with us.
+Dialogue: 0,0:18:15.02,0:18:19.18,saint tail default,,0,0,0,,Oh, sorry about that!\NSomething urgent came up.
+Dialogue: 0,0:18:19.96,0:18:24.02,saint tail default,,0,0,0,,Good morning, Asuka Jr.!\NSt. Tail got away again?
+Dialogue: 0,0:18:24.24,0:18:27.90,saint tail default,,0,0,0,,Be quiet! I almost had her!
+Dialogue: 0,0:18:28.11,0:18:33.35,saint tail default,,0,0,0,,If only that ship hadn't passed!\NNext time, I'll get her for sure!
+Dialogue: 0,0:18:33.56,0:18:37.99,saint tail default,,0,0,0,,Asuka! Asuka, good morning!
+Dialogue: 0,0:18:38.84,0:18:41.27,saint tail default,,0,0,0,,Good morning!
+Dialogue: 0,0:18:41.74,0:18:44.17,saint tail default,,0,0,0,,-Kanako?\N-Yes?
+Dialogue: 0,0:18:44.38,0:18:48.32,saint tail default,,0,0,0,,-Where are your glasses?\N-I changed to contact lenses.
+Dialogue: 0,0:18:48.52,0:18:51.98,saint tail default,,0,0,0,,She's much cuter this way, isn't she?
+Dialogue: 0,0:18:53.33,0:18:56.20,saint tail default,,0,0,0,,Hey, what's going on?
+Dialogue: 0,0:18:56.40,0:18:59.77,saint tail default,,0,0,0,,My heart was stolen,\Njust like the notice said.
+Dialogue: 0,0:18:59.98,0:19:01.34,saint tail default,,0,0,0,,By St. Tail?
+Dialogue: 0,0:19:01.55,0:19:04.04,saint tail default,,0,0,0,,Of course not! By Kanako!
+Dialogue: 0,0:19:04.26,0:19:06.25,saint tail default,,0,0,0,,Is that so?
+Dialogue: 0,0:19:06.46,0:19:10.59,saint tail default,,0,0,0,,You better hurry too,\Nor you'll be late for school.
+Dialogue: 0,0:19:11.40,0:19:12.84,saint tail default,,0,0,0,,-But...\N-Really.
+Dialogue: 0,0:19:13.04,0:19:14.60,saint tail default,,0,0,0,,What a guy!
+Dialogue: 0,0:19:14.81,0:19:18.64,saint tail default,,0,0,0,,We're the happiest people alive!

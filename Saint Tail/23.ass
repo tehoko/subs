@@ -13,222 +13,226 @@ Video File: source/23.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,2.0,2.0,2,10,10,10,1
+Style: saint tail default,Calibri,80,&H00FBFBFB,&H000000FF,&H00373737,&H80373737,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,2,50,50,50,1
+Style: saint tail sign,Calibri,75,&H00D4FFED,&H000000FF,&H006E8E22,&HC7000000,-1,-1,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,8,50,50,50,1
+Style: saint tail title,Campanile,150,&H00EDE6FF,&H000000FF,&H009457EA,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
+Style: saint tail op en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
+Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,70,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:38.95,0:00:44.15,Default,,0,0,0,,UNFORGIVABLE!\NTHE BAD GUYS DESTROY A HOUSE
-Dialogue: 0,0:00:50.04,0:00:53.07,Default,,0,0,0,,-Good morning!\N-Good morning, Meimi!
-Dialogue: 0,0:00:53.32,0:00:56.28,Default,,0,0,0,,Hey, Meimi, look at this!
-Dialogue: 0,0:00:56.52,0:00:58.42,Default,,0,0,0,,This brings back memories.
-Dialogue: 0,0:00:58.66,0:01:01.79,Default,,0,0,0,,Isn't this a Miho-chan doll?\NI had one like this.
-Dialogue: 0,0:01:02.53,0:01:07.80,Default,,0,0,0,,I found it cleaning my room. It brought\Nback memories so I brought it with me.
-Dialogue: 0,0:01:08.04,0:01:11.91,Default,,0,0,0,,I wonder if I still have mine.\NI'll try looking for it.
-Dialogue: 0,0:01:12.15,0:01:17.78,Default,,0,0,0,,We girls have a lot of memories\Nin these dolls, don't we?
-Dialogue: 0,0:01:18.43,0:01:21.80,Default,,0,0,0,,You girls are lucky to have\Nthat much time on your hands.
-Dialogue: 0,0:01:22.04,0:01:24.47,Default,,0,0,0,,I don't even have time\Nto make memories.
-Dialogue: 0,0:01:24.71,0:01:29.27,Default,,0,0,0,,I'm so busy trying\Nto catch St. Tail that...
-Dialogue: 0,0:01:30.49,0:01:35.12,Default,,0,0,0,,Right. With all those memories of\NSt. Tail escaping, you're frustrated.
-Dialogue: 0,0:01:35.70,0:01:37.22,Default,,0,0,0,,What's that?
-Dialogue: 0,0:01:37.47,0:01:40.90,Default,,0,0,0,,If you don't like it,\Ntry catching her quickly.
-Dialogue: 0,0:01:41.14,0:01:45.84,Default,,0,0,0,,It'll be your most precious memory.\NThough it's probably impossible.
-Dialogue: 0,0:01:46.42,0:01:51.12,Default,,0,0,0,,Now you've said it! I'm not after\NSt. Tail for a reason like that!
-Dialogue: 0,0:01:51.36,0:01:54.49,Default,,0,0,0,,Precious memories, what nonsense!
-Dialogue: 0,0:01:54.74,0:01:59.76,Default,,0,0,0,,Is that so? Are you saying there are\Nno memories between you and St. Tail?
-Dialogue: 0,0:02:01.22,0:02:03.24,Default,,0,0,0,,Why are you so upset?
-Dialogue: 0,0:02:03.49,0:02:06.82,Default,,0,0,0,,-How should I know?\N-My doll...
-Dialogue: 0,0:02:09.60,0:02:12.80,Default,,0,0,0,,It disgusts me to know\Nwhat a dingbat that guy is!
-Dialogue: 0,0:02:13.54,0:02:17.74,Default,,0,0,0,,Oh, my. We should be\Nthe ones appreciating him.
-Dialogue: 0,0:02:18.55,0:02:23.01,Default,,0,0,0,,Why is that?\NHe's never done anything to save--
-Dialogue: 0,0:02:24.23,0:02:26.86,Default,,0,0,0,,That's not true, is it?
-Dialogue: 0,0:02:27.10,0:02:30.97,Default,,0,0,0,,When you're angry, Meimi,\Nit's usually about Asuka Jr.
-Dialogue: 0,0:02:31.21,0:02:33.14,Default,,0,0,0,,Seira, you're mean!
-Dialogue: 0,0:02:33.38,0:02:38.04,Default,,0,0,0,,Anyway, today there was another\Nlost sheep that wandered by here.
-Dialogue: 0,0:02:38.86,0:02:41.99,Default,,0,0,0,,A while ago, Michiru came by\Nto ask for help.
-Dialogue: 0,0:02:42.23,0:02:46.46,Default,,0,0,0,,She used to live happily\Nin a mansion with her parents.
-Dialogue: 0,0:02:47.04,0:02:52.21,Default,,0,0,0,,But one year ago, Michiru's father\Nco-signed a loan for a friend...
-Dialogue: 0,0:02:52.45,0:02:56.39,Default,,0,0,0,,...and because of that,\Nthey lost their mansion.
-Dialogue: 0,0:02:57.26,0:03:00.70,Default,,0,0,0,,That friend he co-signed for...
-Dialogue: 0,0:03:00.93,0:03:04.34,Default,,0,0,0,,...took the loan money\Nand disappeared.
-Dialogue: 0,0:03:05.14,0:03:09.48,Default,,0,0,0,,Not only did the loan company\Ntake control of the mansion...
-Dialogue: 0,0:03:09.72,0:03:12.31,Default,,0,0,0,,...but everything inside\Nof it as well.
-Dialogue: 0,0:03:13.39,0:03:16.45,Default,,0,0,0,,Michiru's jewelry box\Nwas a precious thing...
-Dialogue: 0,0:03:16.70,0:03:19.26,Default,,0,0,0,,...filled with all kinds of memories.
-Dialogue: 0,0:03:19.97,0:03:23.31,Default,,0,0,0,,Michiru hid the box in the house.
-Dialogue: 0,0:03:23.55,0:03:28.64,Default,,0,0,0,,Right after that, they were forced\Nto vacate the property.
-Dialogue: 0,0:03:29.39,0:03:33.35,Default,,0,0,0,,Then that jewelry box is\Nstill hidden in the house.
-Dialogue: 0,0:03:34.94,0:03:37.56,Default,,0,0,0,,She was planning to get it back later.
-Dialogue: 0,0:03:37.81,0:03:40.83,Default,,0,0,0,,But Negoro, who owns\Nthe loan company...
-Dialogue: 0,0:03:44.92,0:03:50.29,Default,,0,0,0,,It's you again. You'll get nowhere,\Nno matter how many times you come.
-Dialogue: 0,0:03:50.53,0:03:52.69,Default,,0,0,0,,Just for a little while.
-Dialogue: 0,0:03:52.94,0:03:56.43,Default,,0,0,0,,I want to see the inside\Nof the house one more time.
-Dialogue: 0,0:03:56.68,0:04:01.67,Default,,0,0,0,,This house doesn't belong to you\Nanymore, young lady. It's mine.
-Dialogue: 0,0:04:02.79,0:04:05.99,Default,,0,0,0,,Also, this land is being sold...
-Dialogue: 0,0:04:06.23,0:04:10.36,Default,,0,0,0,,...so we're gonna have\Nto tear down the house.
-Dialogue: 0,0:04:10.91,0:04:16.07,Default,,0,0,0,,What will happen to her memories?\NThe jewelry box of memories?!
-Dialogue: 0,0:04:16.92,0:04:22.05,Default,,0,0,0,,There's nothing that can be done\Nabout Michiru's house being torn down.
-Dialogue: 0,0:04:22.63,0:04:27.00,Default,,0,0,0,,Then at least the jewelry box\Nshould be returned to Michiru.
-Dialogue: 0,0:04:27.84,0:04:29.93,Default,,0,0,0,,If it isn't, it'll be too sad.
-Dialogue: 0,0:04:30.18,0:04:34.48,Default,,0,0,0,,Ever since the house was taken,\NMichiru's mother has become ill.
-Dialogue: 0,0:04:35.79,0:04:38.52,Default,,0,0,0,,They're breaking down\Nthe house tomorrow.
-Dialogue: 0,0:04:38.76,0:04:40.92,Default,,0,0,0,,We only have tonight\Nto carry this out.
-Dialogue: 0,0:04:41.33,0:04:43.77,Default,,0,0,0,,Let's get those memories back!
-Dialogue: 0,0:04:51.39,0:04:52.61,Default,,0,0,0,,What's this?
-Dialogue: 0,0:05:00.04,0:05:01.87,Default,,0,0,0,,Is this a--?
-Dialogue: 0,0:05:02.28,0:05:05.24,Default,,0,0,0,,"Tonight, I'll be entering\Nthe Misaki mansion...
-Dialogue: 0,0:05:05.48,0:05:07.95,Default,,0,0,0,,...to pick up a jewelry box.\N-St. Tail"
-Dialogue: 0,0:05:08.19,0:05:10.49,Default,,0,0,0,,It's a notice from St. Tail!
-Dialogue: 0,0:05:10.73,0:05:13.69,Default,,0,0,0,,-A notice from St. Tail?\N-Where is it?
-Dialogue: 0,0:05:13.93,0:05:17.63,Default,,0,0,0,,Don't push. I can't see it!
-Dialogue: 0,0:05:25.76,0:05:28.38,Default,,0,0,0,,So that's the Misaki mansion.
-Dialogue: 0,0:05:31.27,0:05:33.13,Default,,0,0,0,,What's happening?
-Dialogue: 0,0:05:35.74,0:05:39.77,Default,,0,0,0,,-I'll leave tomorrow up to you.\N-I understand.
-Dialogue: 0,0:05:45.23,0:05:51.29,Default,,0,0,0,,This is really troublesome, isn't it?\NTearing down a mansion like this.
-Dialogue: 0,0:05:51.54,0:05:56.34,Default,,0,0,0,,Making this an open lot is the terms\Nthe buyer made. What can I say?
-Dialogue: 0,0:05:56.58,0:05:58.55,Default,,0,0,0,,It'll all be done by tomorrow.
-Dialogue: 0,0:05:58.79,0:06:01.48,Default,,0,0,0,,We're finally getting to the cash.
-Dialogue: 0,0:06:01.73,0:06:07.32,Default,,0,0,0,,Didn't think that it'd go this smooth.\NLike a bubble on a wet hand.
-Dialogue: 0,0:06:07.57,0:06:11.77,Default,,0,0,0,,Nobody would suspect that\Nyou borrowed the money and I lent it.
-Dialogue: 0,0:06:12.58,0:06:14.85,Default,,0,0,0,,Not realizing a thing...
-Dialogue: 0,0:06:15.09,0:06:19.65,Default,,0,0,0,,...your co-signer Misaki is\Neither a real nice guy or an idiot.
-Dialogue: 0,0:06:19.90,0:06:25.63,Default,,0,0,0,,-Oh, how my heart aches.\N-That guy picked a bad friend.
-Dialogue: 0,0:06:25.87,0:06:28.93,Default,,0,0,0,,-Speak for yourself.\N-Excuse me.
-Dialogue: 0,0:06:29.18,0:06:30.84,Default,,0,0,0,,Who are you?
-Dialogue: 0,0:06:31.08,0:06:36.49,Default,,0,0,0,,Mr. Negoro? I'm Asuka Jr. I'm assisting\Nin the St. Tail investigations.
-Dialogue: 0,0:06:37.00,0:06:38.62,Default,,0,0,0,,St. Tail?
-Dialogue: 0,0:06:38.87,0:06:42.77,Default,,0,0,0,,Actually, we just received\Na notice from her.
-Dialogue: 0,0:06:43.01,0:06:47.21,Default,,0,0,0,,She's going to appear here tonight\Nto steal a jewelry box.
-Dialogue: 0,0:06:47.82,0:06:50.48,Default,,0,0,0,,A jewelry box? Impossible!
-Dialogue: 0,0:06:50.72,0:06:54.52,Default,,0,0,0,,How could there be such a thing\Nin this unoccupied mansion?
-Dialogue: 0,0:06:54.76,0:06:56.96,Default,,0,0,0,,By the way, what's that for?
-Dialogue: 0,0:06:57.20,0:06:59.60,Default,,0,0,0,,Tomorrow we're clearing this lot.
-Dialogue: 0,0:06:59.84,0:07:02.37,Default,,0,0,0,,You're going to tear it down.
-Dialogue: 0,0:07:05.19,0:07:09.38,Default,,0,0,0,,If St. Tail is coming, there will\Nbe a horde of cops here too!
-Dialogue: 0,0:07:09.63,0:07:12.86,Default,,0,0,0,,I know.\NAnyway, you'd better disappear.
-Dialogue: 0,0:07:13.10,0:07:16.33,Default,,0,0,0,,But is there really\Na jewelry box in there?
-Dialogue: 0,0:07:17.11,0:07:21.60,Default,,0,0,0,,I got everything in there out.\NThere shouldn't be anything left.
-Dialogue: 0,0:07:21.85,0:07:24.48,Default,,0,0,0,,Something's fishy.
-Dialogue: 0,0:07:24.72,0:07:28.32,Default,,0,0,0,,St. Tail wouldn't come to steal\Nsomething that's not there.
-Dialogue: 0,0:07:29.13,0:07:31.29,Default,,0,0,0,,Could she have uncovered our scheme?
-Dialogue: 0,0:07:31.54,0:07:36.27,Default,,0,0,0,,And the proof is hidden in this\Nmansion? And she's coming to steal it.
-Dialogue: 0,0:07:38.08,0:07:43.65,Default,,0,0,0,,St. Tail has caused many criminals\Nto be arrested.
-Dialogue: 0,0:07:44.40,0:07:48.06,Default,,0,0,0,,Maybe we should clear\Nthe lot off tonight.
-Dialogue: 0,0:07:48.30,0:07:51.83,Default,,0,0,0,,Whatever St. Tail is up to,\Nif there's no place here...
-Dialogue: 0,0:07:52.08,0:07:54.41,Default,,0,0,0,,...there's nothing to worry about.
-Dialogue: 0,0:07:54.88,0:07:58.72,Default,,0,0,0,,If the mansion isn't here,\Nthere's nothing that can be done.
-Dialogue: 0,0:07:58.96,0:08:02.99,Default,,0,0,0,,Since it's been decided,\Nlet's tear it down right away!
-Dialogue: 0,0:08:03.73,0:08:05.03,Default,,0,0,0,,Here it is!
-Dialogue: 0,0:08:05.27,0:08:07.74,Default,,0,0,0,,It's a woman!
-Dialogue: 0,0:08:07.98,0:08:10.67,Default,,0,0,0,,Hey, look at this!
-Dialogue: 0,0:08:10.92,0:08:13.85,Default,,0,0,0,,What's all the panic about?
-Dialogue: 0,0:08:14.09,0:08:16.75,Default,,0,0,0,,Look! Doesn't this\Nbring back memories?
-Dialogue: 0,0:08:16.99,0:08:20.22,Default,,0,0,0,,It's the Miho-chan doll\Nthat you bought for me.
-Dialogue: 0,0:08:20.47,0:08:21.99,Default,,0,0,0,,I remember!
-Dialogue: 0,0:08:22.24,0:08:27.11,Default,,0,0,0,,I bought it for your fifth birthday.\NYou've had it all these years.
-Dialogue: 0,0:08:27.35,0:08:30.72,Default,,0,0,0,,This doll was so very precious\Nto you, Meimi.
-Dialogue: 0,0:08:30.96,0:08:35.29,Default,,0,0,0,,You didn't want any doll\Nother than this Miho-chan.
-Dialogue: 0,0:08:35.53,0:08:39.83,Default,,0,0,0,,Papa, can you make this doll\Nnew again with your magic?
-Dialogue: 0,0:08:40.64,0:08:45.08,Default,,0,0,0,,Well, let's see. I wonder if I can.
-Dialogue: 0,0:08:47.02,0:08:51.05,Default,,0,0,0,,But your precious memories\Nmay disappear too, Meimi.
-Dialogue: 0,0:08:53.07,0:08:55.90,Default,,0,0,0,,Well, I'll keep it the way it is.
-Dialogue: 0,0:08:56.31,0:08:57.60,Default,,0,0,0,,Here.
-Dialogue: 0,0:09:05.46,0:09:09.02,Default,,0,0,0,,I'm sorry, I've got to go to work.
-Dialogue: 0,0:09:09.26,0:09:13.53,Default,,0,0,0,,So please entertain our guest.
-Dialogue: 0,0:09:24.39,0:09:27.52,Default,,0,0,0,,You're joking!\NI can't let you do that!
-Dialogue: 0,0:09:28.00,0:09:32.53,Default,,0,0,0,,Why? We've got to complete\Nthe clearing of the lot by tonight.
-Dialogue: 0,0:09:32.78,0:09:34.61,Default,,0,0,0,,Get out of the way.
-Dialogue: 0,0:09:34.85,0:09:37.72,Default,,0,0,0,,You said it'd be done tomorrow,\Ndidn't you?
-Dialogue: 0,0:09:37.95,0:09:39.72,Default,,0,0,0,,The plans have changed.
-Dialogue: 0,0:09:39.96,0:09:43.62,Default,,0,0,0,,St. Tail's coming!\NThere's no time for that!
-Dialogue: 0,0:09:44.13,0:09:47.23,Default,,0,0,0,,She can take anything she wants.
-Dialogue: 0,0:09:47.47,0:09:50.53,Default,,0,0,0,,What could be\Nin an empty house anyway?
-Dialogue: 0,0:09:50.78,0:09:54.05,Default,,0,0,0,,A jewelry box. I understand.
-Dialogue: 0,0:09:54.29,0:09:59.55,Default,,0,0,0,,Then please let us check if there\Nis really a jewelry box in there.
-Dialogue: 0,0:10:00.60,0:10:02.12,Default,,0,0,0,,There isn't one.
-Dialogue: 0,0:10:02.37,0:10:05.81,Default,,0,0,0,,Well, if it's not there,\NI'm clearing the place.
-Dialogue: 0,0:10:06.24,0:10:10.01,Default,,0,0,0,,But should we find one,\Nyou'll have to leave things to us.
-Dialogue: 0,0:10:10.25,0:10:12.81,Default,,0,0,0,,If stolen things are in there...
-Dialogue: 0,0:10:13.06,0:10:17.12,Default,,0,0,0,,...we have an obligation\Nto protect them from St. Tail!
-Dialogue: 0,0:10:17.60,0:10:20.19,Default,,0,0,0,,You won't find one.
-Dialogue: 0,0:10:29.79,0:10:33.32,Default,,0,0,0,,Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
-Dialogue: 0,0:10:38.34,0:10:40.10,Default,,0,0,0,,One!
-Dialogue: 0,0:10:41.65,0:10:43.34,Default,,0,0,0,,Two!
-Dialogue: 0,0:10:44.99,0:10:47.68,Default,,0,0,0,,Three!
-Dialogue: 0,0:11:01.49,0:11:03.78,Default,,0,0,0,,St. Tail, hurry.
-Dialogue: 0,0:11:04.03,0:11:09.02,Default,,0,0,0,,I don't know why, but they're\Nplanning to clear the lot tonight.
-Dialogue: 0,0:11:09.27,0:11:11.64,Default,,0,0,0,,You're kidding! But why?
-Dialogue: 0,0:11:11.87,0:11:16.21,Default,,0,0,0,,I've checked up a bit\Non that loan company...
-Dialogue: 0,0:11:16.45,0:11:18.88,Default,,0,0,0,,...and it seems to be a little shady.
-Dialogue: 0,0:11:19.59,0:11:22.08,Default,,0,0,0,,Meimi, be very careful.
-Dialogue: 0,0:11:22.50,0:11:27.30,Default,,0,0,0,,Don't worry. I'll be back\Nwith Michiru's box of memories.
-Dialogue: 0,0:11:29.81,0:11:33.30,Default,,0,0,0,,May the blessings of God be with us.
-Dialogue: 0,0:11:34.82,0:11:37.55,Default,,0,0,0,,Please let me get there in time!
-Dialogue: 0,0:11:42.70,0:11:45.14,Default,,0,0,0,,Well? There's nothing here, is there?
-Dialogue: 0,0:11:57.77,0:12:02.63,Default,,0,0,0,,Now, are you satisfied?\NSt. Tail has probably made a mistake.
-Dialogue: 0,0:12:02.88,0:12:06.97,Default,,0,0,0,,I'll be keeping you to your promise\Nand start clearing the lot.
-Dialogue: 0,0:12:07.65,0:12:09.68,Default,,0,0,0,,I haven't said it's not here yet!
-Dialogue: 0,0:12:10.29,0:12:14.09,Default,,0,0,0,,A promise is a promise.\NI won't stand for this any longer.
-Dialogue: 0,0:12:14.33,0:12:16.89,Default,,0,0,0,,The work is going to be started.
-Dialogue: 0,0:12:18.07,0:12:19.40,Default,,0,0,0,,Even if I stay?
-Dialogue: 0,0:12:19.64,0:12:22.11,Default,,0,0,0,,You should be careful\Nof the chandelier.
-Dialogue: 0,0:12:22.35,0:12:25.61,Default,,0,0,0,,It'll probably come falling\Nwith the tremor.
-Dialogue: 0,0:12:31.50,0:12:33.30,Default,,0,0,0,,What a stubborn idiot!
-Dialogue: 0,0:12:38.95,0:12:41.94,Default,,0,0,0,,Stop it! Stop it right now!
-Dialogue: 0,0:12:42.19,0:12:43.65,Default,,0,0,0,,What a pesky brat!
-Dialogue: 0,0:12:45.39,0:12:48.33,Default,,0,0,0,,What do you think you're doing?
-Dialogue: 0,0:12:48.57,0:12:50.86,Default,,0,0,0,,It's St. Tail!
-Dialogue: 0,0:12:56.05,0:12:58.54,Default,,0,0,0,,Everyone! Get to your positions!
-Dialogue: 0,0:13:08.14,0:13:10.27,Default,,0,0,0,,That's St. Tail!
-Dialogue: 0,0:13:10.51,0:13:14.21,Default,,0,0,0,,Knock her down with the bulldozer!\NNever mind! I'll do it myself!
-Dialogue: 0,0:13:16.65,0:13:19.45,Default,,0,0,0,,How terrible can he get?
-Dialogue: 0,0:13:23.90,0:13:25.80,Default,,0,0,0,,Stop it!
-Dialogue: 0,0:13:33.86,0:13:37.19,Default,,0,0,0,,Darn! Quit scampering around!
-Dialogue: 0,0:13:51.02,0:13:54.01,Default,,0,0,0,,After her!\NSt. Tail has entered the mansion!
-Dialogue: 0,0:14:00.24,0:14:01.97,Default,,0,0,0,,Darn it!
-Dialogue: 0,0:14:02.58,0:14:04.44,Default,,0,0,0,,Hold it!
-Dialogue: 0,0:14:16.07,0:14:19.67,Default,,0,0,0,,It can't be.\NI'm sure it was this room.
-Dialogue: 0,0:14:32.64,0:14:35.16,Default,,0,0,0,,St. Tail, you're in full view.
-Dialogue: 0,0:14:38.68,0:14:40.65,Default,,0,0,0,,Give yourself up, St. Tail!
-Dialogue: 0,0:14:40.89,0:14:44.15,Default,,0,0,0,,It's unforgivable\Nto take someone's memories!
-Dialogue: 0,0:14:54.35,0:14:57.44,Default,,0,0,0,,I've got you cornered, St. Tail!
-Dialogue: 0,0:14:57.69,0:14:59.59,Default,,0,0,0,,You! Come here!
-Dialogue: 0,0:15:05.10,0:15:08.00,Default,,0,0,0,,Wait a minute!\NWhat are you guys doing?
-Dialogue: 0,0:15:08.24,0:15:12.94,Default,,0,0,0,,With all this weight,\Nthe chandelier is gonna fall!
-Dialogue: 0,0:15:16.66,0:15:18.49,Default,,0,0,0,,There!
-Dialogue: 0,0:15:30.25,0:15:32.81,Default,,0,0,0,,That's where it was?
-Dialogue: 0,0:15:33.39,0:15:37.45,Default,,0,0,0,,St. Tail, I'll have you\Nshow me your identity!
-Dialogue: 0,0:15:42.91,0:15:45.68,Default,,0,0,0,,That idiot! At a time like this!
-Dialogue: 0,0:15:45.92,0:15:47.08,Default,,0,0,0,,Unforgivable!
-Dialogue: 0,0:15:50.86,0:15:56.39,Default,,0,0,0,,If I get rid of this mansion,\Nthere's nothing St. Tail can do!
-Dialogue: 0,0:16:01.28,0:16:03.27,Default,,0,0,0,,What?
-Dialogue: 0,0:16:05.09,0:16:08.15,Default,,0,0,0,,I won't let you destroy any more!
-Dialogue: 0,0:16:12.70,0:16:14.76,Default,,0,0,0,,It's...
-Dialogue: 0,0:16:15.14,0:16:17.80,Default,,0,0,0,,...Show...
-Dialogue: 0,0:16:19.79,0:16:21.88,Default,,0,0,0,,...Time!
-Dialogue: 0,0:16:22.99,0:16:24.72,Default,,0,0,0,,You pesky worm!
-Dialogue: 0,0:16:39.82,0:16:45.13,Default,,0,0,0,,Exactly what I was worried about.\NHe's getting licked! Darn!
-Dialogue: 0,0:16:50.71,0:16:54.84,Default,,0,0,0,,Goodbye. And I've got\Nthe jewelry box of memories.
-Dialogue: 0,0:16:55.69,0:16:56.85,Default,,0,0,0,,Memories?
-Dialogue: 0,0:16:57.29,0:17:00.63,Default,,0,0,0,,What do you mean, memories, St. Tail?
-Dialogue: 0,0:17:00.87,0:17:05.74,Default,,0,0,0,,Hey, what are you doing here?\NHold it right there!
-Dialogue: 0,0:17:11.69,0:17:15.05,Default,,0,0,0,,-And where are you going?\N-Well...
-Dialogue: 0,0:17:18.37,0:17:20.89,Default,,0,0,0,,-Hey, son!\N-Dad? Why are you here?
-Dialogue: 0,0:17:21.14,0:17:24.67,Default,,0,0,0,,I had business with these two.\NNegoro and Momochi.
-Dialogue: 0,0:17:24.91,0:17:28.01,Default,,0,0,0,,-You're under arrest for fraud.\N-Fraud?
-Dialogue: 0,0:17:28.25,0:17:31.28,Default,,0,0,0,,These two are convicted criminals.
-Dialogue: 0,0:17:31.53,0:17:34.43,Default,,0,0,0,,We already know\Nthat you two teamed up...
-Dialogue: 0,0:17:34.67,0:17:38.00,Default,,0,0,0,,...to swindle this mansion\Nfrom Mr. Misaki. Give up!
-Dialogue: 0,0:17:38.54,0:17:39.77,Default,,0,0,0,,Darn it!
-Dialogue: 0,0:17:51.53,0:17:55.90,Default,,0,0,0,,-Mother, here, some water.\N-Thank you.
-Dialogue: 0,0:18:06.50,0:18:07.79,Default,,0,0,0,,I'm home!
-Dialogue: 0,0:18:08.03,0:18:14.20,Default,,0,0,0,,Father, my treasure box has come back!\NMy precious memories are back!
-Dialogue: 0,0:18:19.82,0:18:23.72,Default,,0,0,0,,I'm glad! Then Michiru's able\Nto return to that house.
-Dialogue: 0,0:18:24.26,0:18:28.00,Default,,0,0,0,,Yes. It's only natural because\Nthose two have been caught.
-Dialogue: 0,0:18:28.24,0:18:30.71,Default,,0,0,0,,But the house has\Nbeen damaged so much.
-Dialogue: 0,0:18:31.38,0:18:35.14,Default,,0,0,0,,Don't worry.\NThe memories haven't been damaged!
-Dialogue: 0,0:18:48.61,0:18:49.87,Default,,0,0,0,,What is it?
-Dialogue: 0,0:18:50.45,0:18:53.72,Default,,0,0,0,,I've heard that you've made\Na few more memories.
-Dialogue: 0,0:18:53.96,0:18:58.59,Default,,0,0,0,,Memories! Quit bugging me about them!\NYou act just like someone I know.
-Dialogue: 0,0:18:59.37,0:19:00.84,Default,,0,0,0,,Someone you know?
-Dialogue: 0,0:19:01.07,0:19:05.80,Default,,0,0,0,,Well, who was it?
-Dialogue: 0,0:19:06.65,0:19:10.41,Default,,0,0,0,,Oh, forget it!\NIt's none of your concern!
+Dialogue: 0,0:00:38.95,0:00:44.15,saint tail default,,0,0,0,,UNFORGIVABLE!\NTHE BAD GUYS DESTROY A HOUSE
+Dialogue: 0,0:00:50.04,0:00:53.07,saint tail default,,0,0,0,,-Good morning!\N-Good morning, Meimi!
+Dialogue: 0,0:00:53.32,0:00:56.28,saint tail default,,0,0,0,,Hey, Meimi, look at this!
+Dialogue: 0,0:00:56.52,0:00:58.42,saint tail default,,0,0,0,,This brings back memories.
+Dialogue: 0,0:00:58.66,0:01:01.79,saint tail default,,0,0,0,,Isn't this a Miho-chan doll?\NI had one like this.
+Dialogue: 0,0:01:02.53,0:01:07.80,saint tail default,,0,0,0,,I found it cleaning my room. It brought\Nback memories so I brought it with me.
+Dialogue: 0,0:01:08.04,0:01:11.91,saint tail default,,0,0,0,,I wonder if I still have mine.\NI'll try looking for it.
+Dialogue: 0,0:01:12.15,0:01:17.78,saint tail default,,0,0,0,,We girls have a lot of memories\Nin these dolls, don't we?
+Dialogue: 0,0:01:18.43,0:01:21.80,saint tail default,,0,0,0,,You girls are lucky to have\Nthat much time on your hands.
+Dialogue: 0,0:01:22.04,0:01:24.47,saint tail default,,0,0,0,,I don't even have time\Nto make memories.
+Dialogue: 0,0:01:24.71,0:01:29.27,saint tail default,,0,0,0,,I'm so busy trying\Nto catch St. Tail that...
+Dialogue: 0,0:01:30.49,0:01:35.12,saint tail default,,0,0,0,,Right. With all those memories of\NSt. Tail escaping, you're frustrated.
+Dialogue: 0,0:01:35.70,0:01:37.22,saint tail default,,0,0,0,,What's that?
+Dialogue: 0,0:01:37.47,0:01:40.90,saint tail default,,0,0,0,,If you don't like it,\Ntry catching her quickly.
+Dialogue: 0,0:01:41.14,0:01:45.84,saint tail default,,0,0,0,,It'll be your most precious memory.\NThough it's probably impossible.
+Dialogue: 0,0:01:46.42,0:01:51.12,saint tail default,,0,0,0,,Now you've said it! I'm not after\NSt. Tail for a reason like that!
+Dialogue: 0,0:01:51.36,0:01:54.49,saint tail default,,0,0,0,,Precious memories, what nonsense!
+Dialogue: 0,0:01:54.74,0:01:59.76,saint tail default,,0,0,0,,Is that so? Are you saying there are\Nno memories between you and St. Tail?
+Dialogue: 0,0:02:01.22,0:02:03.24,saint tail default,,0,0,0,,Why are you so upset?
+Dialogue: 0,0:02:03.49,0:02:06.82,saint tail default,,0,0,0,,-How should I know?\N-My doll...
+Dialogue: 0,0:02:09.60,0:02:12.80,saint tail default,,0,0,0,,It disgusts me to know\Nwhat a dingbat that guy is!
+Dialogue: 0,0:02:13.54,0:02:17.74,saint tail default,,0,0,0,,Oh, my. We should be\Nthe ones appreciating him.
+Dialogue: 0,0:02:18.55,0:02:23.01,saint tail default,,0,0,0,,Why is that?\NHe's never done anything to save--
+Dialogue: 0,0:02:24.23,0:02:26.86,saint tail default,,0,0,0,,That's not true, is it?
+Dialogue: 0,0:02:27.10,0:02:30.97,saint tail default,,0,0,0,,When you're angry, Meimi,\Nit's usually about Asuka Jr.
+Dialogue: 0,0:02:31.21,0:02:33.14,saint tail default,,0,0,0,,Seira, you're mean!
+Dialogue: 0,0:02:33.38,0:02:38.04,saint tail default,,0,0,0,,Anyway, today there was another\Nlost sheep that wandered by here.
+Dialogue: 0,0:02:38.86,0:02:41.99,saint tail default,,0,0,0,,A while ago, Michiru came by\Nto ask for help.
+Dialogue: 0,0:02:42.23,0:02:46.46,saint tail default,,0,0,0,,She used to live happily\Nin a mansion with her parents.
+Dialogue: 0,0:02:47.04,0:02:52.21,saint tail default,,0,0,0,,But one year ago, Michiru's father\Nco-signed a loan for a friend...
+Dialogue: 0,0:02:52.45,0:02:56.39,saint tail default,,0,0,0,,...and because of that,\Nthey lost their mansion.
+Dialogue: 0,0:02:57.26,0:03:00.70,saint tail default,,0,0,0,,That friend he co-signed for...
+Dialogue: 0,0:03:00.93,0:03:04.34,saint tail default,,0,0,0,,...took the loan money\Nand disappeared.
+Dialogue: 0,0:03:05.14,0:03:09.48,saint tail default,,0,0,0,,Not only did the loan company\Ntake control of the mansion...
+Dialogue: 0,0:03:09.72,0:03:12.31,saint tail default,,0,0,0,,...but everything inside\Nof it as well.
+Dialogue: 0,0:03:13.39,0:03:16.45,saint tail default,,0,0,0,,Michiru's jewelry box\Nwas a precious thing...
+Dialogue: 0,0:03:16.70,0:03:19.26,saint tail default,,0,0,0,,...filled with all kinds of memories.
+Dialogue: 0,0:03:19.97,0:03:23.31,saint tail default,,0,0,0,,Michiru hid the box in the house.
+Dialogue: 0,0:03:23.55,0:03:28.64,saint tail default,,0,0,0,,Right after that, they were forced\Nto vacate the property.
+Dialogue: 0,0:03:29.39,0:03:33.35,saint tail default,,0,0,0,,Then that jewelry box is\Nstill hidden in the house.
+Dialogue: 0,0:03:34.94,0:03:37.56,saint tail default,,0,0,0,,She was planning to get it back later.
+Dialogue: 0,0:03:37.81,0:03:40.83,saint tail default,,0,0,0,,But Negoro, who owns\Nthe loan company...
+Dialogue: 0,0:03:44.92,0:03:50.29,saint tail default,,0,0,0,,It's you again. You'll get nowhere,\Nno matter how many times you come.
+Dialogue: 0,0:03:50.53,0:03:52.69,saint tail default,,0,0,0,,Just for a little while.
+Dialogue: 0,0:03:52.94,0:03:56.43,saint tail default,,0,0,0,,I want to see the inside\Nof the house one more time.
+Dialogue: 0,0:03:56.68,0:04:01.67,saint tail default,,0,0,0,,This house doesn't belong to you\Nanymore, young lady. It's mine.
+Dialogue: 0,0:04:02.79,0:04:05.99,saint tail default,,0,0,0,,Also, this land is being sold...
+Dialogue: 0,0:04:06.23,0:04:10.36,saint tail default,,0,0,0,,...so we're gonna have\Nto tear down the house.
+Dialogue: 0,0:04:10.91,0:04:16.07,saint tail default,,0,0,0,,What will happen to her memories?\NThe jewelry box of memories?!
+Dialogue: 0,0:04:16.92,0:04:22.05,saint tail default,,0,0,0,,There's nothing that can be done\Nabout Michiru's house being torn down.
+Dialogue: 0,0:04:22.63,0:04:27.00,saint tail default,,0,0,0,,Then at least the jewelry box\Nshould be returned to Michiru.
+Dialogue: 0,0:04:27.84,0:04:29.93,saint tail default,,0,0,0,,If it isn't, it'll be too sad.
+Dialogue: 0,0:04:30.18,0:04:34.48,saint tail default,,0,0,0,,Ever since the house was taken,\NMichiru's mother has become ill.
+Dialogue: 0,0:04:35.79,0:04:38.52,saint tail default,,0,0,0,,They're breaking down\Nthe house tomorrow.
+Dialogue: 0,0:04:38.76,0:04:40.92,saint tail default,,0,0,0,,We only have tonight\Nto carry this out.
+Dialogue: 0,0:04:41.33,0:04:43.77,saint tail default,,0,0,0,,Let's get those memories back!
+Dialogue: 0,0:04:51.39,0:04:52.61,saint tail default,,0,0,0,,What's this?
+Dialogue: 0,0:05:00.04,0:05:01.87,saint tail default,,0,0,0,,Is this a--?
+Dialogue: 0,0:05:02.28,0:05:05.24,saint tail default,,0,0,0,,"Tonight, I'll be entering\Nthe Misaki mansion...
+Dialogue: 0,0:05:05.48,0:05:07.95,saint tail default,,0,0,0,,...to pick up a jewelry box.\N-St. Tail"
+Dialogue: 0,0:05:08.19,0:05:10.49,saint tail default,,0,0,0,,It's a notice from St. Tail!
+Dialogue: 0,0:05:10.73,0:05:13.69,saint tail default,,0,0,0,,-A notice from St. Tail?\N-Where is it?
+Dialogue: 0,0:05:13.93,0:05:17.63,saint tail default,,0,0,0,,Don't push. I can't see it!
+Dialogue: 0,0:05:25.76,0:05:28.38,saint tail default,,0,0,0,,So that's the Misaki mansion.
+Dialogue: 0,0:05:31.27,0:05:33.13,saint tail default,,0,0,0,,What's happening?
+Dialogue: 0,0:05:35.74,0:05:39.77,saint tail default,,0,0,0,,-I'll leave tomorrow up to you.\N-I understand.
+Dialogue: 0,0:05:45.23,0:05:51.29,saint tail default,,0,0,0,,This is really troublesome, isn't it?\NTearing down a mansion like this.
+Dialogue: 0,0:05:51.54,0:05:56.34,saint tail default,,0,0,0,,Making this an open lot is the terms\Nthe buyer made. What can I say?
+Dialogue: 0,0:05:56.58,0:05:58.55,saint tail default,,0,0,0,,It'll all be done by tomorrow.
+Dialogue: 0,0:05:58.79,0:06:01.48,saint tail default,,0,0,0,,We're finally getting to the cash.
+Dialogue: 0,0:06:01.73,0:06:07.32,saint tail default,,0,0,0,,Didn't think that it'd go this smooth.\NLike a bubble on a wet hand.
+Dialogue: 0,0:06:07.57,0:06:11.77,saint tail default,,0,0,0,,Nobody would suspect that\Nyou borrowed the money and I lent it.
+Dialogue: 0,0:06:12.58,0:06:14.85,saint tail default,,0,0,0,,Not realizing a thing...
+Dialogue: 0,0:06:15.09,0:06:19.65,saint tail default,,0,0,0,,...your co-signer Misaki is\Neither a real nice guy or an idiot.
+Dialogue: 0,0:06:19.90,0:06:25.63,saint tail default,,0,0,0,,-Oh, how my heart aches.\N-That guy picked a bad friend.
+Dialogue: 0,0:06:25.87,0:06:28.93,saint tail default,,0,0,0,,-Speak for yourself.\N-Excuse me.
+Dialogue: 0,0:06:29.18,0:06:30.84,saint tail default,,0,0,0,,Who are you?
+Dialogue: 0,0:06:31.08,0:06:36.49,saint tail default,,0,0,0,,Mr. Negoro? I'm Asuka Jr. I'm assisting\Nin the St. Tail investigations.
+Dialogue: 0,0:06:37.00,0:06:38.62,saint tail default,,0,0,0,,St. Tail?
+Dialogue: 0,0:06:38.87,0:06:42.77,saint tail default,,0,0,0,,Actually, we just received\Na notice from her.
+Dialogue: 0,0:06:43.01,0:06:47.21,saint tail default,,0,0,0,,She's going to appear here tonight\Nto steal a jewelry box.
+Dialogue: 0,0:06:47.82,0:06:50.48,saint tail default,,0,0,0,,A jewelry box? Impossible!
+Dialogue: 0,0:06:50.72,0:06:54.52,saint tail default,,0,0,0,,How could there be such a thing\Nin this unoccupied mansion?
+Dialogue: 0,0:06:54.76,0:06:56.96,saint tail default,,0,0,0,,By the way, what's that for?
+Dialogue: 0,0:06:57.20,0:06:59.60,saint tail default,,0,0,0,,Tomorrow we're clearing this lot.
+Dialogue: 0,0:06:59.84,0:07:02.37,saint tail default,,0,0,0,,You're going to tear it down.
+Dialogue: 0,0:07:05.19,0:07:09.38,saint tail default,,0,0,0,,If St. Tail is coming, there will\Nbe a horde of cops here too!
+Dialogue: 0,0:07:09.63,0:07:12.86,saint tail default,,0,0,0,,I know.\NAnyway, you'd better disappear.
+Dialogue: 0,0:07:13.10,0:07:16.33,saint tail default,,0,0,0,,But is there really\Na jewelry box in there?
+Dialogue: 0,0:07:17.11,0:07:21.60,saint tail default,,0,0,0,,I got everything in there out.\NThere shouldn't be anything left.
+Dialogue: 0,0:07:21.85,0:07:24.48,saint tail default,,0,0,0,,Something's fishy.
+Dialogue: 0,0:07:24.72,0:07:28.32,saint tail default,,0,0,0,,St. Tail wouldn't come to steal\Nsomething that's not there.
+Dialogue: 0,0:07:29.13,0:07:31.29,saint tail default,,0,0,0,,Could she have uncovered our scheme?
+Dialogue: 0,0:07:31.54,0:07:36.27,saint tail default,,0,0,0,,And the proof is hidden in this\Nmansion? And she's coming to steal it.
+Dialogue: 0,0:07:38.08,0:07:43.65,saint tail default,,0,0,0,,St. Tail has caused many criminals\Nto be arrested.
+Dialogue: 0,0:07:44.40,0:07:48.06,saint tail default,,0,0,0,,Maybe we should clear\Nthe lot off tonight.
+Dialogue: 0,0:07:48.30,0:07:51.83,saint tail default,,0,0,0,,Whatever St. Tail is up to,\Nif there's no place here...
+Dialogue: 0,0:07:52.08,0:07:54.41,saint tail default,,0,0,0,,...there's nothing to worry about.
+Dialogue: 0,0:07:54.88,0:07:58.72,saint tail default,,0,0,0,,If the mansion isn't here,\Nthere's nothing that can be done.
+Dialogue: 0,0:07:58.96,0:08:02.99,saint tail default,,0,0,0,,Since it's been decided,\Nlet's tear it down right away!
+Dialogue: 0,0:08:03.73,0:08:05.03,saint tail default,,0,0,0,,Here it is!
+Dialogue: 0,0:08:05.27,0:08:07.74,saint tail default,,0,0,0,,It's a woman!
+Dialogue: 0,0:08:07.98,0:08:10.67,saint tail default,,0,0,0,,Hey, look at this!
+Dialogue: 0,0:08:10.92,0:08:13.85,saint tail default,,0,0,0,,What's all the panic about?
+Dialogue: 0,0:08:14.09,0:08:16.75,saint tail default,,0,0,0,,Look! Doesn't this\Nbring back memories?
+Dialogue: 0,0:08:16.99,0:08:20.22,saint tail default,,0,0,0,,It's the Miho-chan doll\Nthat you bought for me.
+Dialogue: 0,0:08:20.47,0:08:21.99,saint tail default,,0,0,0,,I remember!
+Dialogue: 0,0:08:22.24,0:08:27.11,saint tail default,,0,0,0,,I bought it for your fifth birthday.\NYou've had it all these years.
+Dialogue: 0,0:08:27.35,0:08:30.72,saint tail default,,0,0,0,,This doll was so very precious\Nto you, Meimi.
+Dialogue: 0,0:08:30.96,0:08:35.29,saint tail default,,0,0,0,,You didn't want any doll\Nother than this Miho-chan.
+Dialogue: 0,0:08:35.53,0:08:39.83,saint tail default,,0,0,0,,Papa, can you make this doll\Nnew again with your magic?
+Dialogue: 0,0:08:40.64,0:08:45.08,saint tail default,,0,0,0,,Well, let's see. I wonder if I can.
+Dialogue: 0,0:08:47.02,0:08:51.05,saint tail default,,0,0,0,,But your precious memories\Nmay disappear too, Meimi.
+Dialogue: 0,0:08:53.07,0:08:55.90,saint tail default,,0,0,0,,Well, I'll keep it the way it is.
+Dialogue: 0,0:08:56.31,0:08:57.60,saint tail default,,0,0,0,,Here.
+Dialogue: 0,0:09:05.46,0:09:09.02,saint tail default,,0,0,0,,I'm sorry, I've got to go to work.
+Dialogue: 0,0:09:09.26,0:09:13.53,saint tail default,,0,0,0,,So please entertain our guest.
+Dialogue: 0,0:09:24.39,0:09:27.52,saint tail default,,0,0,0,,You're joking!\NI can't let you do that!
+Dialogue: 0,0:09:28.00,0:09:32.53,saint tail default,,0,0,0,,Why? We've got to complete\Nthe clearing of the lot by tonight.
+Dialogue: 0,0:09:32.78,0:09:34.61,saint tail default,,0,0,0,,Get out of the way.
+Dialogue: 0,0:09:34.85,0:09:37.72,saint tail default,,0,0,0,,You said it'd be done tomorrow,\Ndidn't you?
+Dialogue: 0,0:09:37.95,0:09:39.72,saint tail default,,0,0,0,,The plans have changed.
+Dialogue: 0,0:09:39.96,0:09:43.62,saint tail default,,0,0,0,,St. Tail's coming!\NThere's no time for that!
+Dialogue: 0,0:09:44.13,0:09:47.23,saint tail default,,0,0,0,,She can take anything she wants.
+Dialogue: 0,0:09:47.47,0:09:50.53,saint tail default,,0,0,0,,What could be\Nin an empty house anyway?
+Dialogue: 0,0:09:50.78,0:09:54.05,saint tail default,,0,0,0,,A jewelry box. I understand.
+Dialogue: 0,0:09:54.29,0:09:59.55,saint tail default,,0,0,0,,Then please let us check if there\Nis really a jewelry box in there.
+Dialogue: 0,0:10:00.60,0:10:02.12,saint tail default,,0,0,0,,There isn't one.
+Dialogue: 0,0:10:02.37,0:10:05.81,saint tail default,,0,0,0,,Well, if it's not there,\NI'm clearing the place.
+Dialogue: 0,0:10:06.24,0:10:10.01,saint tail default,,0,0,0,,But should we find one,\Nyou'll have to leave things to us.
+Dialogue: 0,0:10:10.25,0:10:12.81,saint tail default,,0,0,0,,If stolen things are in there...
+Dialogue: 0,0:10:13.06,0:10:17.12,saint tail default,,0,0,0,,...we have an obligation\Nto protect them from St. Tail!
+Dialogue: 0,0:10:17.60,0:10:20.19,saint tail default,,0,0,0,,You won't find one.
+Dialogue: 0,0:10:29.79,0:10:33.32,saint tail default,,0,0,0,,Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
+Dialogue: 0,0:10:38.34,0:10:40.10,saint tail default,,0,0,0,,One!
+Dialogue: 0,0:10:41.65,0:10:43.34,saint tail default,,0,0,0,,Two!
+Dialogue: 0,0:10:44.99,0:10:47.68,saint tail default,,0,0,0,,Three!
+Dialogue: 0,0:11:01.49,0:11:03.78,saint tail default,,0,0,0,,St. Tail, hurry.
+Dialogue: 0,0:11:04.03,0:11:09.02,saint tail default,,0,0,0,,I don't know why, but they're\Nplanning to clear the lot tonight.
+Dialogue: 0,0:11:09.27,0:11:11.64,saint tail default,,0,0,0,,You're kidding! But why?
+Dialogue: 0,0:11:11.87,0:11:16.21,saint tail default,,0,0,0,,I've checked up a bit\Non that loan company...
+Dialogue: 0,0:11:16.45,0:11:18.88,saint tail default,,0,0,0,,...and it seems to be a little shady.
+Dialogue: 0,0:11:19.59,0:11:22.08,saint tail default,,0,0,0,,Meimi, be very careful.
+Dialogue: 0,0:11:22.50,0:11:27.30,saint tail default,,0,0,0,,Don't worry. I'll be back\Nwith Michiru's box of memories.
+Dialogue: 0,0:11:29.81,0:11:33.30,saint tail default,,0,0,0,,May the blessings of God be with us.
+Dialogue: 0,0:11:34.82,0:11:37.55,saint tail default,,0,0,0,,Please let me get there in time!
+Dialogue: 0,0:11:42.70,0:11:45.14,saint tail default,,0,0,0,,Well? There's nothing here, is there?
+Dialogue: 0,0:11:57.77,0:12:02.63,saint tail default,,0,0,0,,Now, are you satisfied?\NSt. Tail has probably made a mistake.
+Dialogue: 0,0:12:02.88,0:12:06.97,saint tail default,,0,0,0,,I'll be keeping you to your promise\Nand start clearing the lot.
+Dialogue: 0,0:12:07.65,0:12:09.68,saint tail default,,0,0,0,,I haven't said it's not here yet!
+Dialogue: 0,0:12:10.29,0:12:14.09,saint tail default,,0,0,0,,A promise is a promise.\NI won't stand for this any longer.
+Dialogue: 0,0:12:14.33,0:12:16.89,saint tail default,,0,0,0,,The work is going to be started.
+Dialogue: 0,0:12:18.07,0:12:19.40,saint tail default,,0,0,0,,Even if I stay?
+Dialogue: 0,0:12:19.64,0:12:22.11,saint tail default,,0,0,0,,You should be careful\Nof the chandelier.
+Dialogue: 0,0:12:22.35,0:12:25.61,saint tail default,,0,0,0,,It'll probably come falling\Nwith the tremor.
+Dialogue: 0,0:12:31.50,0:12:33.30,saint tail default,,0,0,0,,What a stubborn idiot!
+Dialogue: 0,0:12:38.95,0:12:41.94,saint tail default,,0,0,0,,Stop it! Stop it right now!
+Dialogue: 0,0:12:42.19,0:12:43.65,saint tail default,,0,0,0,,What a pesky brat!
+Dialogue: 0,0:12:45.39,0:12:48.33,saint tail default,,0,0,0,,What do you think you're doing?
+Dialogue: 0,0:12:48.57,0:12:50.86,saint tail default,,0,0,0,,It's St. Tail!
+Dialogue: 0,0:12:56.05,0:12:58.54,saint tail default,,0,0,0,,Everyone! Get to your positions!
+Dialogue: 0,0:13:08.14,0:13:10.27,saint tail default,,0,0,0,,That's St. Tail!
+Dialogue: 0,0:13:10.51,0:13:14.21,saint tail default,,0,0,0,,Knock her down with the bulldozer!\NNever mind! I'll do it myself!
+Dialogue: 0,0:13:16.65,0:13:19.45,saint tail default,,0,0,0,,How terrible can he get?
+Dialogue: 0,0:13:23.90,0:13:25.80,saint tail default,,0,0,0,,Stop it!
+Dialogue: 0,0:13:33.86,0:13:37.19,saint tail default,,0,0,0,,Darn! Quit scampering around!
+Dialogue: 0,0:13:51.02,0:13:54.01,saint tail default,,0,0,0,,After her!\NSt. Tail has entered the mansion!
+Dialogue: 0,0:14:00.24,0:14:01.97,saint tail default,,0,0,0,,Darn it!
+Dialogue: 0,0:14:02.58,0:14:04.44,saint tail default,,0,0,0,,Hold it!
+Dialogue: 0,0:14:16.07,0:14:19.67,saint tail default,,0,0,0,,It can't be.\NI'm sure it was this room.
+Dialogue: 0,0:14:32.64,0:14:35.16,saint tail default,,0,0,0,,St. Tail, you're in full view.
+Dialogue: 0,0:14:38.68,0:14:40.65,saint tail default,,0,0,0,,Give yourself up, St. Tail!
+Dialogue: 0,0:14:40.89,0:14:44.15,saint tail default,,0,0,0,,It's unforgivable\Nto take someone's memories!
+Dialogue: 0,0:14:54.35,0:14:57.44,saint tail default,,0,0,0,,I've got you cornered, St. Tail!
+Dialogue: 0,0:14:57.69,0:14:59.59,saint tail default,,0,0,0,,You! Come here!
+Dialogue: 0,0:15:05.10,0:15:08.00,saint tail default,,0,0,0,,Wait a minute!\NWhat are you guys doing?
+Dialogue: 0,0:15:08.24,0:15:12.94,saint tail default,,0,0,0,,With all this weight,\Nthe chandelier is gonna fall!
+Dialogue: 0,0:15:16.66,0:15:18.49,saint tail default,,0,0,0,,There!
+Dialogue: 0,0:15:30.25,0:15:32.81,saint tail default,,0,0,0,,That's where it was?
+Dialogue: 0,0:15:33.39,0:15:37.45,saint tail default,,0,0,0,,St. Tail, I'll have you\Nshow me your identity!
+Dialogue: 0,0:15:42.91,0:15:45.68,saint tail default,,0,0,0,,That idiot! At a time like this!
+Dialogue: 0,0:15:45.92,0:15:47.08,saint tail default,,0,0,0,,Unforgivable!
+Dialogue: 0,0:15:50.86,0:15:56.39,saint tail default,,0,0,0,,If I get rid of this mansion,\Nthere's nothing St. Tail can do!
+Dialogue: 0,0:16:01.28,0:16:03.27,saint tail default,,0,0,0,,What?
+Dialogue: 0,0:16:05.09,0:16:08.15,saint tail default,,0,0,0,,I won't let you destroy any more!
+Dialogue: 0,0:16:12.70,0:16:14.76,saint tail default,,0,0,0,,It's...
+Dialogue: 0,0:16:15.14,0:16:17.80,saint tail default,,0,0,0,,...Show...
+Dialogue: 0,0:16:19.79,0:16:21.88,saint tail default,,0,0,0,,...Time!
+Dialogue: 0,0:16:22.99,0:16:24.72,saint tail default,,0,0,0,,You pesky worm!
+Dialogue: 0,0:16:39.82,0:16:45.13,saint tail default,,0,0,0,,Exactly what I was worried about.\NHe's getting licked! Darn!
+Dialogue: 0,0:16:50.71,0:16:54.84,saint tail default,,0,0,0,,Goodbye. And I've got\Nthe jewelry box of memories.
+Dialogue: 0,0:16:55.69,0:16:56.85,saint tail default,,0,0,0,,Memories?
+Dialogue: 0,0:16:57.29,0:17:00.63,saint tail default,,0,0,0,,What do you mean, memories, St. Tail?
+Dialogue: 0,0:17:00.87,0:17:05.74,saint tail default,,0,0,0,,Hey, what are you doing here?\NHold it right there!
+Dialogue: 0,0:17:11.69,0:17:15.05,saint tail default,,0,0,0,,-And where are you going?\N-Well...
+Dialogue: 0,0:17:18.37,0:17:20.89,saint tail default,,0,0,0,,-Hey, son!\N-Dad? Why are you here?
+Dialogue: 0,0:17:21.14,0:17:24.67,saint tail default,,0,0,0,,I had business with these two.\NNegoro and Momochi.
+Dialogue: 0,0:17:24.91,0:17:28.01,saint tail default,,0,0,0,,-You're under arrest for fraud.\N-Fraud?
+Dialogue: 0,0:17:28.25,0:17:31.28,saint tail default,,0,0,0,,These two are convicted criminals.
+Dialogue: 0,0:17:31.53,0:17:34.43,saint tail default,,0,0,0,,We already know\Nthat you two teamed up...
+Dialogue: 0,0:17:34.67,0:17:38.00,saint tail default,,0,0,0,,...to swindle this mansion\Nfrom Mr. Misaki. Give up!
+Dialogue: 0,0:17:38.54,0:17:39.77,saint tail default,,0,0,0,,Darn it!
+Dialogue: 0,0:17:51.53,0:17:55.90,saint tail default,,0,0,0,,-Mother, here, some water.\N-Thank you.
+Dialogue: 0,0:18:06.50,0:18:07.79,saint tail default,,0,0,0,,I'm home!
+Dialogue: 0,0:18:08.03,0:18:14.20,saint tail default,,0,0,0,,Father, my treasure box has come back!\NMy precious memories are back!
+Dialogue: 0,0:18:19.82,0:18:23.72,saint tail default,,0,0,0,,I'm glad! Then Michiru's able\Nto return to that house.
+Dialogue: 0,0:18:24.26,0:18:28.00,saint tail default,,0,0,0,,Yes. It's only natural because\Nthose two have been caught.
+Dialogue: 0,0:18:28.24,0:18:30.71,saint tail default,,0,0,0,,But the house has\Nbeen damaged so much.
+Dialogue: 0,0:18:31.38,0:18:35.14,saint tail default,,0,0,0,,Don't worry.\NThe memories haven't been damaged!
+Dialogue: 0,0:18:48.61,0:18:49.87,saint tail default,,0,0,0,,What is it?
+Dialogue: 0,0:18:50.45,0:18:53.72,saint tail default,,0,0,0,,I've heard that you've made\Na few more memories.
+Dialogue: 0,0:18:53.96,0:18:58.59,saint tail default,,0,0,0,,Memories! Quit bugging me about them!\NYou act just like someone I know.
+Dialogue: 0,0:18:59.37,0:19:00.84,saint tail default,,0,0,0,,Someone you know?
+Dialogue: 0,0:19:01.07,0:19:05.80,saint tail default,,0,0,0,,Well, who was it?
+Dialogue: 0,0:19:06.65,0:19:10.41,saint tail default,,0,0,0,,Oh, forget it!\NIt's none of your concern!

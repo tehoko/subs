@@ -13,318 +13,322 @@ Video File: source/35.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,2.0,2.0,2,10,10,10,1
+Style: saint tail default,Calibri,80,&H00FBFBFB,&H000000FF,&H00373737,&H80373737,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,2,50,50,50,1
+Style: saint tail sign,Calibri,75,&H00D4FFED,&H000000FF,&H006E8E22,&HC7000000,-1,-1,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,8,50,50,50,1
+Style: saint tail title,Campanile,150,&H00EDE6FF,&H000000FF,&H009457EA,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
+Style: saint tail op en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
+Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,70,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:16.32,0:00:18.88,Default,,0,0,0,,I'm so glad\Nit's nice weather, Seira.
-Dialogue: 0,0:00:19.40,0:00:20.83,Default,,0,0,0,,You were looking forward...
-Dialogue: 0,0:00:21.00,0:00:22.76,Default,,0,0,0,,...to this field trip very much.
-Dialogue: 0,0:00:23.54,0:00:25.40,Default,,0,0,0,,Today let's forget about studying...
-Dialogue: 0,0:00:25.51,0:00:27.70,Default,,0,0,0,,...and just have fun, Seira!
-Dialogue: 0,0:00:27.98,0:00:30.04,Default,,0,0,0,,You're always forgetting\Nabout schoolwork.
-Dialogue: 0,0:00:30.18,0:00:33.58,Default,,0,0,0,,Why don't you make a wish\Nat the "Tree of Happiness"?
-Dialogue: 0,0:00:33.69,0:00:38.49,Default,,0,0,0,,Like, "Please make me\Na little bit smart!"
-Dialogue: 0,0:00:38.66,0:00:40.15,Default,,0,0,0,,It's none of your business.
-Dialogue: 0,0:00:41.37,0:00:42.66,Default,,0,0,0,,all the girls are there now.
-Dialogue: 0,0:00:43.74,0:00:45.64,Default,,0,0,0,,What's\Nthe "Tree of Happiness"?
-Dialogue: 0,0:00:46.24,0:00:47.73,Default,,0,0,0,,What?\NDon't you know about it?
-Dialogue: 0,0:00:48.04,0:00:50.64,Default,,0,0,0,,It's a tree in this park\Nwhich is popular right now.
-Dialogue: 0,0:00:50.88,0:00:52.01,Default,,0,0,0,,Really?
-Dialogue: 0,0:00:52.15,0:00:53.74,Default,,0,0,0,,Yeah! Let's go see it!
-Dialogue: 0,0:01:03.74,0:01:04.70,Default,,0,0,0,,This is it!
-Dialogue: 0,0:01:05.34,0:01:07.87,Default,,0,0,0,,There's a rumor that if you\Ncarve your wish on the tree...
-Dialogue: 0,0:01:07.98,0:01:09.14,Default,,0,0,0,,...your wish will come true.
-Dialogue: 0,0:01:09.51,0:01:12.38,Default,,0,0,0,,You can carve your name\Nalong with the one you love.
-Dialogue: 0,0:01:18.66,0:01:20.43,Default,,0,0,0,,There are a lot of scars...
-Dialogue: 0,0:01:21.67,0:01:22.93,Default,,0,0,0,,Yeah... I feel sorry for it...
-Dialogue: 0,0:01:28.18,0:01:32.62,Default,,0,0,0,,GET BACK\NTHE "TREE OF HAPPINESS"!
-Dialogue: 0,0:01:33.35,0:01:34.65,Default,,0,0,0,,Good morning!
-Dialogue: 0,0:01:35.59,0:01:37.12,Default,,0,0,0,,They seem in love!
-Dialogue: 0,0:01:38.10,0:01:39.89,Default,,0,0,0,,What? What? What is it?!
-Dialogue: 0,0:01:40.30,0:01:42.60,Default,,0,0,0,,Oh, Meimi. It's about\Nthe "Tree of Happiness."
-Dialogue: 0,0:01:42.77,0:01:43.83,Default,,0,0,0,,The "Tree of Happiness"?
-Dialogue: 0,0:01:44.07,0:01:46.70,Default,,0,0,0,,Yes! Hanako of Class C\Ncarved in the tree...
-Dialogue: 0,0:01:46.81,0:01:50.47,Default,,0,0,0,,...and wished for a date\Nwith a boy she likes.
-Dialogue: 0,0:01:50.58,0:01:52.11,Default,,0,0,0,,- Then...\N- Then...?.!
-Dialogue: 0,0:01:52.45,0:01:54.35,Default,,0,0,0,,Then it came true!
-Dialogue: 0,0:01:54.46,0:01:55.89,Default,,0,0,0,,Wow! That's great!
-Dialogue: 0,0:01:56.39,0:01:57.36,Default,,0,0,0,,I envy her!
-Dialogue: 0,0:01:57.56,0:01:58.55,Default,,0,0,0,,I'm going to go there again...
-Dialogue: 0,0:01:58.70,0:02:00.19,Default,,0,0,0,,...and make more\Nand more wishes!
-Dialogue: 0,0:02:00.43,0:02:02.46,Default,,0,0,0,,You have too many wishes.
-Dialogue: 0,0:02:02.57,0:02:03.76,Default,,0,0,0,,That's not true!
-Dialogue: 0,0:02:04.17,0:02:07.07,Default,,0,0,0,,I asked about Kosuke,\NKazuhiko, and Akio...
-Dialogue: 0,0:02:07.18,0:02:08.74,Default,,0,0,0,,How about\NYasuhiro and Isshin?
-Dialogue: 0,0:02:08.98,0:02:11.58,Default,,0,0,0,,Well... Meimi,\Ndid you make a wish?
-Dialogue: 0,0:02:11.69,0:02:15.38,Default,,0,0,0,,No, I didn't because\NI felt sorry for the tree.
-Dialogue: 0,0:02:15.99,0:02:17.98,Default,,0,0,0,,Meimi, you worry too much.
-Dialogue: 0,0:02:18.13,0:02:20.00,Default,,0,0,0,,You shouldn't think too much\Nabout this kind of thing.
-Dialogue: 0,0:02:20.13,0:02:21.26,Default,,0,0,0,,You should just enjoy it!
-Dialogue: 0,0:02:21.50,0:02:25.94,Default,,0,0,0,,I thought you had made\Na wish about Asuka Jr.
-Dialogue: 0,0:02:26.28,0:02:29.30,Default,,0,0,0,,Don't be stupid! Why would\NI want to wish about him?!
-Dialogue: 0,0:02:29.42,0:02:30.78,Default,,0,0,0,,What about me?
-Dialogue: 0,0:02:30.92,0:02:33.39,Default,,0,0,0,,You talked mean\Nabout me as usual.
-Dialogue: 0,0:02:33.69,0:02:35.32,Default,,0,0,0,,No, I didn't!
-Dialogue: 0,0:02:35.89,0:02:38.89,Default,,0,0,0,,Didn't you make a wish at\Nthe "Tree of Happiness"...
-Dialogue: 0,0:02:39.00,0:02:41.87,Default,,0,0,0,,...that you could\Ncatch St. Tail?
-Dialogue: 0,0:02:42.07,0:02:45.30,Default,,0,0,0,,Stupid! I don't have\Nto ask God about it!
-Dialogue: 0,0:02:45.74,0:02:47.61,Default,,0,0,0,,I'll catch her by myself!
-Dialogue: 0,0:02:48.38,0:02:51.25,Default,,0,0,0,,That's why\Nhe can't catch her at all.
-Dialogue: 0,0:02:51.35,0:02:53.29,Default,,0,0,0,,- That's right!\N- You shut up!
-Dialogue: 0,0:03:01.20,0:03:02.57,Default,,0,0,0,,Arborist?
-Dialogue: 0,0:03:02.97,0:03:05.31,Default,,0,0,0,,Yes. I treat the trees...
-Dialogue: 0,0:03:05.54,0:03:08.54,Default,,0,0,0,,...which are damaged\Nby disease and pollution.
-Dialogue: 0,0:03:08.92,0:03:10.68,Default,,0,0,0,,You mean a tree doctor.
-Dialogue: 0,0:03:10.85,0:03:11.82,Default,,0,0,0,,Yes.
-Dialogue: 0,0:03:12.52,0:03:13.65,Default,,0,0,0,,About a year ago...
-Dialogue: 0,0:03:13.93,0:03:16.89,Default,,0,0,0,,...in the grove on the hill\Nnear Tachibana Nature Park...
-Dialogue: 0,0:03:17.43,0:03:21.39,Default,,0,0,0,,... I found a white tree\Nwhich was dying from disease.
-Dialogue: 0,0:03:25.91,0:03:29.01,Default,,0,0,0,,The disease had\Nprogressed badly.
-Dialogue: 0,0:03:29.32,0:03:31.34,Default,,0,0,0,,If nothing was done,\Nit appeared that it would fall...
-Dialogue: 0,0:03:31.45,0:03:32.51,Default,,0,0,0,,...any minute.
-Dialogue: 0,0:03:45.85,0:03:47.71,Default,,0,0,0,,Good... It still has a chance.
-Dialogue: 0,0:04:24.75,0:04:26.21,Default,,0,0,0,,It took time.
-Dialogue: 0,0:04:26.41,0:04:28.71,Default,,0,0,0,,But the tree fully recovered.
-Dialogue: 0,0:04:30.76,0:04:34.38,Default,,0,0,0,,Your thoughts must\Nhave reached the tree.
-Dialogue: 0,0:04:35.33,0:04:36.35,Default,,0,0,0,,After that, I went there...
-Dialogue: 0,0:04:36.46,0:04:37.86,Default,,0,0,0,,...to check on it\Nfrom time to time.
-Dialogue: 0,0:04:38.17,0:04:40.53,Default,,0,0,0,,But when I went there today,\Nthe tree was gone.
-Dialogue: 0,0:04:41.04,0:04:42.51,Default,,0,0,0,,The tree was gone?
-Dialogue: 0,0:04:43.04,0:04:44.01,Default,,0,0,0,,Yes.
-Dialogue: 0,0:04:44.25,0:04:46.04,Default,,0,0,0,,The owner of Tachibana\NNature Park...
-Dialogue: 0,0:04:46.18,0:04:49.34,Default,,0,0,0,,...took it out\Nby the roots. And...
-Dialogue: 0,0:04:50.86,0:04:52.55,Default,,0,0,0,,Oh, that tree.
-Dialogue: 0,0:04:52.69,0:04:56.15,Default,,0,0,0,,I want it to become the new\N"Tree of Happiness. "
-Dialogue: 0,0:04:57.10,0:04:58.62,Default,,0,0,0,,A new "Tree of Happiness"?
-Dialogue: 0,0:04:58.97,0:05:01.23,Default,,0,0,0,,The current tree\Nhas so many scars...
-Dialogue: 0,0:05:01.34,0:05:02.90,Default,,0,0,0,,...that we can't\Nuse it anymore.
-Dialogue: 0,0:05:03.01,0:05:05.04,Default,,0,0,0,,We were looking\Nfor a new tree.
-Dialogue: 0,0:05:05.65,0:05:07.17,Default,,0,0,0,,I beg you, Mr. Tachibana!
-Dialogue: 0,0:05:07.28,0:05:09.05,Default,,0,0,0,,Please don't\Ncontinue with this!
-Dialogue: 0,0:05:09.15,0:05:10.59,Default,,0,0,0,,Trees are living, too!
-Dialogue: 0,0:05:10.99,0:05:12.25,Default,,0,0,0,,You're hurting them!
-Dialogue: 0,0:05:12.63,0:05:15.46,Default,,0,0,0,,It's none of your business\Nwhat I do in my park.
-Dialogue: 0,0:05:16.03,0:05:19.33,Default,,0,0,0,,Or are the trees saying\Nthey're hurting?
-Dialogue: 0,0:05:19.57,0:05:22.54,Default,,0,0,0,,Yes, they are!\NYou just can 't hear them!
-Dialogue: 0,0:05:23.41,0:05:24.54,Default,,0,0,0,,That's stupid.
-Dialogue: 0,0:05:25.28,0:05:28.44,Default,,0,0,0,,The "Tree of Happiness"\Nis a money tree for this park.
-Dialogue: 0,0:05:28.82,0:05:32.55,Default,,0,0,0,,Some come just to carve\Ntheir wishes on the tree.
-Dialogue: 0,0:05:33.19,0:05:34.75,Default,,0,0,0,,So I have\Nno intention of stopping...
-Dialogue: 0,0:05:34.90,0:05:36.42,Default,,0,0,0,,...no matter what you say.
-Dialogue: 0,0:05:40.51,0:05:43.07,Default,,0,0,0,,It's best for trees to be\Nin their natural state.
-Dialogue: 0,0:05:43.78,0:05:46.84,Default,,0,0,0,,But he's moving them\Nand carving them up...
-Dialogue: 0,0:05:47.15,0:05:48.21,Default,,0,0,0,,Don't worry.
-Dialogue: 0,0:05:48.92,0:05:52.05,Default,,0,0,0,,I'm sure your prayers\Nhave reached God.
-Dialogue: 0,0:05:55.40,0:05:57.63,Default,,0,0,0,,That's what the owner\Nof the park said?
-Dialogue: 0,0:05:57.74,0:05:59.73,Default,,0,0,0,,Yes. According to Kudo...
-Dialogue: 0,0:05:59.87,0:06:02.90,Default,,0,0,0,,...the tree will be planted\Nin the park tomorrow night.
-Dialogue: 0,0:06:03.41,0:06:04.38,Default,,0,0,0,,Tomorrow night?
-Dialogue: 0,0:06:05.08,0:06:06.05,Default,,0,0,0,,Yes.
-Dialogue: 0,0:06:06.15,0:06:07.14,Default,,0,0,0,,So it's in time...
-Dialogue: 0,0:06:07.32,0:06:08.38,Default,,0,0,0,,...for the opening\Nthe day after tomorrow.
-Dialogue: 0,0:06:08.89,0:06:11.32,Default,,0,0,0,,Then what will happen to\Nthe current tree in the park?
-Dialogue: 0,0:06:11.86,0:06:15.02,Default,,0,0,0,,It's terrible,\Nbut it will be disposed of.
-Dialogue: 0,0:06:15.23,0:06:16.29,Default,,0,0,0,,No way!
-Dialogue: 0,0:06:16.50,0:06:19.13,Default,,0,0,0,,It'll be replaced because\Nit isn't useful anymore...
-Dialogue: 0,0:06:19.34,0:06:21.67,Default,,0,0,0,,Trees are not an instrument\Nfor humans to make money.
-Dialogue: 0,0:06:21.78,0:06:25.27,Default,,0,0,0,,So, Meimi, I would like you\Nto steal the tree.
-Dialogue: 0,0:06:26.12,0:06:27.11,Default,,0,0,0,,all right, Seira.
-Dialogue: 0,0:06:27.59,0:06:29.35,Default,,0,0,0,,Count on St. Tail.
-Dialogue: 0,0:06:32.06,0:06:33.26,Default,,0,0,0,,I'm home!
-Dialogue: 0,0:06:33.36,0:06:34.85,Default,,0,0,0,,Welcome back, Meimi!
-Dialogue: 0,0:06:39.21,0:06:40.83,Default,,0,0,0,,Whose voice is that?
-Dialogue: 0,0:06:41.14,0:06:42.98,Default,,0,0,0,,Meimi! It's me! Me!
-Dialogue: 0,0:06:46.72,0:06:48.48,Default,,0,0,0,,Ruby! You can...?!
-Dialogue: 0,0:06:51.23,0:06:53.32,Default,,0,0,0,,Meimi, I'm Ruby!
-Dialogue: 0,0:06:54.10,0:06:56.36,Default,,0,0,0,,Dad! What's that?!\NInteresting!
-Dialogue: 0,0:06:57.20,0:06:58.64,Default,,0,0,0,,It's a voice changer.
-Dialogue: 0,0:06:59.01,0:07:00.44,Default,,0,0,0,,I found it at a toy store.
-Dialogue: 0,0:07:00.81,0:07:02.97,Default,,0,0,0,,I thought I might\Nuse it for my magic.
-Dialogue: 0,0:07:05.28,0:07:07.58,Default,,0,0,0,,Meimi, your eyes\Nare like stars...
-Dialogue: 0,0:07:07.72,0:07:10.45,Default,,0,0,0,,...of the first magnitude\Nin the night sky...
-Dialogue: 0,0:07:13.16,0:07:14.19,Default,,0,0,0,,Oh, by the way...
-Dialogue: 0,0:07:14.30,0:07:15.56,Default,,0,0,0,,...the park you went to\Non your field trip the other day...
-Dialogue: 0,0:07:15.67,0:07:18.00,Default,,0,0,0,,...was showcased on TV.
-Dialogue: 0,0:07:21.18,0:07:22.27,Default,,0,0,0,,As you can see...
-Dialogue: 0,0:07:22.38,0:07:24.75,Default,,0,0,0,,...nature remains\Nundisturbed here...
-Dialogue: 0,0:07:24.98,0:07:28.18,Default,,0,0,0,,...and visitors can\Nobserve rare plants.
-Dialogue: 0,0:07:28.96,0:07:32.22,Default,,0,0,0,,Also, there are athletic\Nand cycling courses...
-Dialogue: 0,0:07:32.46,0:07:34.80,Default,,0,0,0,,...and people of all ages\Ncan find enjoyment here.
-Dialogue: 0,0:07:35.70,0:07:38.50,Default,,0,0,0,,This is the owner\Nof the park, Mr. Tachibana.
-Dialogue: 0,0:07:39.44,0:07:41.67,Default,,0,0,0,,Hello. I'm the owner,\NTachibana.
-Dialogue: 0,0:07:43.08,0:07:44.21,Default,,0,0,0,,Over here...
-Dialogue: 0,0:07:44.35,0:07:46.44,Default,,0,0,0,,...the "Tree of Happiness"\Nis very popular...
-Dialogue: 0,0:07:46.65,0:07:49.42,Default,,0,0,0,,...because it can make\Nwishes come true.
-Dialogue: 0,0:07:49.53,0:07:52.55,Default,,0,0,0,,I hope you can come\Nto Tachibana Nature Park...
-Dialogue: 0,0:07:52.77,0:07:56.06,Default,,0,0,0,,...and carve your wishes...
-Dialogue: 0,0:07:56.17,0:07:57.14,Default,,0,0,0,,...in the "Tree of Happiness."
-Dialogue: 0,0:07:57.41,0:08:00.20,Default,,0,0,0,,He is advertising\Nthe "Tree of Happiness " like this...!
-Dialogue: 0,0:08:01.91,0:08:04.64,Default,,0,0,0,,But that park\Nhas changed a lot.
-Dialogue: 0,0:08:04.95,0:08:08.05,Default,,0,0,0,,Yes. It used\Nto be a small park.
-Dialogue: 0,0:08:08.26,0:08:10.09,Default,,0,0,0,,Is that right?
-Dialogue: 0,0:08:10.56,0:08:13.76,Default,,0,0,0,,Now we have to pay\Nan expensive entrance fee.
-Dialogue: 0,0:08:14.70,0:08:17.80,Default,,0,0,0,,We often\Nwent there on dates.
-Dialogue: 0,0:08:18.54,0:08:21.44,Default,,0,0,0,,It's no longer\Nthe park of our memories.
-Dialogue: 0,0:08:22.35,0:08:24.98,Default,,0,0,0,,But you haven't changed\Nsince that time...
-Dialogue: 0,0:08:25.09,0:08:26.68,Default,,0,0,0,,...and you're\Njust as close to me.
-Dialogue: 0,0:08:27.29,0:08:28.76,Default,,0,0,0,,Of course, Eimi.
-Dialogue: 0,0:08:29.16,0:08:30.68,Default,,0,0,0,,And will be forever.
-Dialogue: 0,0:08:33.77,0:08:36.00,Default,,0,0,0,,Oh, well... I guess we'll leave\Nthese young ones alone...
-Dialogue: 0,0:08:36.14,0:08:39.40,Default,,0,0,0,,...and we should get going.\NRight, Ruby?
-Dialogue: 0,0:08:42.48,0:08:43.61,Default,,0,0,0,,You're still here, Meimi...!
-Dialogue: 0,0:08:47.12,0:08:48.46,Default,,0,0,0,,I'm going now!
-Dialogue: 0,0:08:56.74,0:08:58.00,Default,,0,0,0,,What's this?
-Dialogue: 0,0:08:58.58,0:09:00.01,Default,,0,0,0,,Is it a delivery?
-Dialogue: 0,0:09:02.95,0:09:04.21,Default,,0,0,0,,What the...?!
-Dialogue: 0,0:09:13.64,0:09:14.60,Default,,0,0,0,,What?!
-Dialogue: 0,0:09:15.57,0:09:17.90,Default,,0,0,0,,"Tonight I'm going\Nto Tachibana Nature Park...
-Dialogue: 0,0:09:18.11,0:09:20.20,Default,,0,0,0,,...to get the 'Tree of Happiness.'"
-Dialogue: 0,0:09:20.78,0:09:22.54,Default,,0,0,0,,It's a warning note from St. Tail!
-Dialogue: 0,0:09:22.79,0:09:24.25,Default,,0,0,0,,There's no time to lose!
-Dialogue: 0,0:09:41.70,0:09:42.79,Default,,0,0,0,,Once more...
-Dialogue: 0,0:09:43.14,0:09:45.80,Default,,0,0,0,,...I'm going to ask\NMr. Tachibana to stop.
-Dialogue: 0,0:09:50.15,0:09:51.45,Default,,0,0,0,,Excuse me...!
-Dialogue: 0,0:09:54.59,0:09:57.12,Default,,0,0,0,,That's strange. I wonder\Nif anyone is here.
-Dialogue: 0,0:10:01.74,0:10:03.37,Default,,0,0,0,,We've got it at last!
-Dialogue: 0,0:10:03.48,0:10:05.24,Default,,0,0,0,,We had\Na tough time getting it.
-Dialogue: 0,0:10:05.85,0:10:08.32,Default,,0,0,0,,Let the rich guy know...
-Dialogue: 0,0:10:08.69,0:10:11.16,Default,,0,0,0,,...that we've got the flower\Nhe asked for.
-Dialogue: 0,0:10:14.10,0:10:15.40,Default,,0,0,0,,It's...?!
-Dialogue: 0,0:10:39.41,0:10:40.64,Default,,0,0,0,,It's a...!
-Dialogue: 0,0:10:41.75,0:10:44.68,Default,,0,0,0,,This flower is designated\Na national treasure!
-Dialogue: 0,0:10:45.52,0:10:48.52,Default,,0,0,0,,And so is this flower here.
-Dialogue: 0,0:10:50.70,0:10:51.96,Default,,0,0,0,,I don't believe it!
-Dialogue: 0,0:10:52.47,0:10:55.37,Default,,0,0,0,,all of these are plants\Nthat are nearly extinct.
-Dialogue: 0,0:10:56.51,0:10:58.45,Default,,0,0,0,,Why are these here?
-Dialogue: 0,0:11:12.11,0:11:15.27,Default,,0,0,0,,This guy again!\NWhat a persistent fellow!
-Dialogue: 0,0:11:15.58,0:11:18.64,Default,,0,0,0,,He's seen too much.
-Dialogue: 0,0:11:19.29,0:11:20.48,Default,,0,0,0,,What should we\Ndo with him?
-Dialogue: 0,0:11:20.72,0:11:22.25,Default,,0,0,0,,He saw the secret.
-Dialogue: 0,0:11:22.69,0:11:24.53,Default,,0,0,0,,If he tells anyone...
-Dialogue: 0,0:11:24.70,0:11:26.69,Default,,0,0,0,,...we're selling the national\Ntreasure plants...
-Dialogue: 0,0:11:26.94,0:11:28.23,Default,,0,0,0,,He can't tell.
-Dialogue: 0,0:11:28.37,0:11:31.64,Default,,0,0,0,,Now that he knows our secret,\Nwe can't let him go.
-Dialogue: 0,0:11:32.71,0:11:33.84,Default,,0,0,0,,I'm going to\Nthe "Tree of Happiness"...
-Dialogue: 0,0:11:34.02,0:11:35.11,Default,,0,0,0,,...to watch its replacement.
-Dialogue: 0,0:11:35.22,0:11:37.52,Default,,0,0,0,,Make sure you watch him\Nuntil I come back.
-Dialogue: 0,0:11:37.62,0:11:38.78,Default,,0,0,0,,Yes, sir.
-Dialogue: 0,0:11:43.70,0:11:47.03,Default,,0,0,0,,Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
-Dialogue: 0,0:11:52.38,0:11:53.35,Default,,0,0,0,,One!
-Dialogue: 0,0:11:55.96,0:11:56.93,Default,,0,0,0,,Two!
-Dialogue: 0,0:11:59.06,0:12:02.00,Default,,0,0,0,,Three!
-Dialogue: 0,0:12:14.63,0:12:16.53,Default,,0,0,0,,Be careful, Meimi.
-Dialogue: 0,0:12:16.63,0:12:17.72,Default,,0,0,0,,Count on me.
-Dialogue: 0,0:12:17.83,0:12:19.80,Default,,0,0,0,,Nothing is\Nimpossible for St. Tail.
-Dialogue: 0,0:12:22.14,0:12:25.27,Default,,0,0,0,,May the blessings\Nof God be with us.
-Dialogue: 0,0:12:29.15,0:12:30.59,Default,,0,0,0,,You're Mr. Tachibana,\Naren't you?
-Dialogue: 0,0:12:33.46,0:12:36.86,Default,,0,0,0,,Oh, welcome. I was\Nwaiting for you, Asuka Jr.
-Dialogue: 0,0:12:37.47,0:12:38.46,Default,,0,0,0,,Hello.
-Dialogue: 0,0:12:38.57,0:12:39.63,Default,,0,0,0,,Anyway...
-Dialogue: 0,0:12:39.77,0:12:42.57,Default,,0,0,0,,...the "Tree of Happiness"\Nthat St. Tail is targeting...
-Dialogue: 0,0:12:42.81,0:12:44.71,Default,,0,0,0,,...was planted\Naround here, I thought.
-Dialogue: 0,0:12:45.05,0:12:47.28,Default,,0,0,0,,Oh, you mean the old tree.
-Dialogue: 0,0:12:47.39,0:12:49.65,Default,,0,0,0,,It's over there\Nlying on the ground.
-Dialogue: 0,0:12:51.13,0:12:52.43,Default,,0,0,0,,Why did you do that?
-Dialogue: 0,0:12:52.77,0:12:55.74,Default,,0,0,0,,It has too many\Nscars to use.
-Dialogue: 0,0:12:55.97,0:12:59.27,Default,,0,0,0,,So we're replacing it\Nwith that new one.
-Dialogue: 0,0:13:01.45,0:13:02.85,Default,,0,0,0,,Oh, then you're\Nreturning the old tree...
-Dialogue: 0,0:13:02.99,0:13:04.18,Default,,0,0,0,,...to its natural habitat.
-Dialogue: 0,0:13:04.29,0:13:05.25,Default,,0,0,0,,No way we're going to do...
-Dialogue: 0,0:13:05.36,0:13:06.35,Default,,0,0,0,,...something\Nso time-consuming.
-Dialogue: 0,0:13:06.46,0:13:09.26,Default,,0,0,0,,We'll cut it up and make\Nbenches or something.
-Dialogue: 0,0:13:11.27,0:13:12.57,Default,,0,0,0,,What is he thinking?!
-Dialogue: 0,0:13:12.90,0:13:15.30,Default,,0,0,0,,Is this something the owner\Nof a nature park would do?
-Dialogue: 0,0:13:21.42,0:13:23.79,Default,,0,0,0,,St. Tail hasn't\Nshown up, has she?
-Dialogue: 0,0:13:23.96,0:13:25.79,Default,,0,0,0,,I wonder if she gave up.
-Dialogue: 0,0:13:26.03,0:13:28.36,Default,,0,0,0,,No. She'll definitely come...
-Dialogue: 0,0:13:28.80,0:13:30.39,Default,,0,0,0,,...since she sent\Nthe warning note.
-Dialogue: 0,0:13:31.14,0:13:32.20,Default,,0,0,0,,All right!
-Dialogue: 0,0:13:32.71,0:13:33.73,Default,,0,0,0,,All right!
-Dialogue: 0,0:13:36.68,0:13:39.71,Default,,0,0,0,,Okay. The transplant\Nis almost done.
-Dialogue: 0,0:13:40.19,0:13:44.15,Default,,0,0,0,,Well, St. Tail didn't show up.\NWhat a pity!
-Dialogue: 0,0:13:45.47,0:13:48.90,Default,,0,0,0,,What happened?!\NWhy didn't you show up, St. Tail?!
-Dialogue: 0,0:13:53.45,0:13:55.88,Default,,0,0,0,,From now on, I want this\Nnew "Tree of Happiness"...
-Dialogue: 0,0:13:55.99,0:13:58.05,Default,,0,0,0,,...to make a lot of money.
-Dialogue: 0,0:13:58.32,0:14:01.26,Default,,0,0,0,,To commemorate this event,\NI should carve the first wish.
-Dialogue: 0,0:14:02.00,0:14:03.09,Default,,0,0,0,,Let's see...
-Dialogue: 0,0:14:03.27,0:14:05.67,Default,,0,0,0,,I wish that this park\Nbecomes more prosperous...
-Dialogue: 0,0:14:11.52,0:14:12.64,Default,,0,0,0,,What's that?!
-Dialogue: 0,0:14:12.82,0:14:13.94,Default,,0,0,0,,Whose voice is that?!
-Dialogue: 0,0:14:14.19,0:14:16.45,Default,,0,0,0,,What's that voice?!
-Dialogue: 0,0:14:18.36,0:14:21.59,Default,,0,0,0,,Ouch! It hurts!
-Dialogue: 0,0:14:21.70,0:14:23.79,Default,,0,0,0,,You hurt me!
-Dialogue: 0,0:14:23.91,0:14:26.31,Default,,0,0,0,,I won't forgive you!
-Dialogue: 0,0:14:27.81,0:14:29.94,Default,,0,0,0,,It can't be true...!\NThe tree talked...?!
-Dialogue: 0,0:14:33.46,0:14:35.76,Default,,0,0,0,,Not yet.\NThe real show starts now.
-Dialogue: 0,0:14:41.14,0:14:42.26,Default,,0,0,0,,It's...
-Dialogue: 0,0:14:43.68,0:14:46.24,Default,,0,0,0,,...Show...
-Dialogue: 0,0:14:47.18,0:14:48.67,Default,,0,0,0,,...Time!
-Dialogue: 0,0:14:55.63,0:14:57.07,Default,,0,0,0,,Help me!
-Dialogue: 0,0:14:59.31,0:15:00.43,Default,,0,0,0,,She has shown up.
-Dialogue: 0,0:15:00.54,0:15:01.94,Default,,0,0,0,,Come out! St. Tail!
-Dialogue: 0,0:15:05.62,0:15:07.18,Default,,0,0,0,,There she is.\NShe's up in the tree!
-Dialogue: 0,0:15:11.63,0:15:12.76,Default,,0,0,0,,One!
-Dialogue: 0,0:15:12.87,0:15:14.06,Default,,0,0,0,,Two!
-Dialogue: 0,0:15:14.17,0:15:16.33,Default,,0,0,0,,Three!
-Dialogue: 0,0:15:27.33,0:15:28.38,Default,,0,0,0,,Shoot!
-Dialogue: 0,0:15:32.94,0:15:34.67,Default,,0,0,0,,I'm taking\Nthe "Tree of Happiness"!
-Dialogue: 0,0:15:35.34,0:15:37.07,Default,,0,0,0,,I won't let you leave!
-Dialogue: 0,0:15:39.78,0:15:42.38,Default,,0,0,0,,I'm going to catch you\Ntoday for sure!
-Dialogue: 0,0:15:42.82,0:15:45.42,Default,,0,0,0,,It's dangerous to run without\Nlooking where you're going!
-Dialogue: 0,0:15:54.18,0:15:58.67,Default,,0,0,0,,I'm going to catch you\Nnext time for sure!
-Dialogue: 0,0:16:12.68,0:16:13.70,Default,,0,0,0,,Mr. Tachibana.
-Dialogue: 0,0:16:17.86,0:16:20.65,Default,,0,0,0,,Mr. Tachibana,\Nyou're under arrest.
-Dialogue: 0,0:16:20.76,0:16:23.56,Default,,0,0,0,,What... what are you\Ntalking about?
-Dialogue: 0,0:16:24.07,0:16:26.59,Default,,0,0,0,,Those two\Nconfessed to everything.
-Dialogue: 0,0:16:26.74,0:16:27.71,Default,,0,0,0,,What?!
-Dialogue: 0,0:16:30.38,0:16:31.61,Default,,0,0,0,,You...!
-Dialogue: 0,0:16:39.70,0:16:40.99,Default,,0,0,0,,Hello, Son!
-Dialogue: 0,0:16:41.84,0:16:43.33,Default,,0,0,0,,Oh, hi, Dad!
-Dialogue: 0,0:16:43.64,0:16:46.57,Default,,0,0,0,,What are you doing here?
-Dialogue: 0,0:16:47.04,0:16:49.17,Default,,0,0,0,,Isn't that Mr. Tachibana?
-Dialogue: 0,0:16:49.38,0:16:52.48,Default,,0,0,0,,He was using\Nthe nature park as a cover...
-Dialogue: 0,0:16:52.62,0:16:54.82,Default,,0,0,0,,...for selling\Nrare flowers illegally.
-Dialogue: 0,0:16:55.19,0:16:56.29,Default,,0,0,0,,What?!
-Dialogue: 0,0:16:56.83,0:16:58.92,Default,,0,0,0,,He's been\Na suspect for a while.
-Dialogue: 0,0:16:59.37,0:17:01.46,Default,,0,0,0,,We got the warrant\Nand came here, then...
-Dialogue: 0,0:17:01.77,0:17:03.30,Default,,0,0,0,,You got a big bust.
-Dialogue: 0,0:17:04.04,0:17:07.10,Default,,0,0,0,,No wonder. I thought\Nsomething was strange.
-Dialogue: 0,0:17:07.62,0:17:08.85,Default,,0,0,0,,Oh, Mr. Kudo.
-Dialogue: 0,0:17:09.19,0:17:10.35,Default,,0,0,0,,Are you all right?
-Dialogue: 0,0:17:10.56,0:17:12.29,Default,,0,0,0,,Yes. Thank you very much.
-Dialogue: 0,0:17:12.66,0:17:13.72,Default,,0,0,0,,What happened to you?
-Dialogue: 0,0:17:14.10,0:17:15.53,Default,,0,0,0,,I came to ask Mr. Tachibana...
-Dialogue: 0,0:17:15.70,0:17:17.26,Default,,0,0,0,,...to stop the "Tree of Happiness"...
-Dialogue: 0,0:17:17.44,0:17:18.80,Default,,0,0,0,,...and I was suddenly hit.
-Dialogue: 0,0:17:19.14,0:17:20.33,Default,,0,0,0,,Because he discovered\Ntheir secret...
-Dialogue: 0,0:17:20.44,0:17:22.41,Default,,0,0,0,,...he was locked up.
-Dialogue: 0,0:17:22.98,0:17:25.04,Default,,0,0,0,,But I'm glad that\Nyour injury isn't serious.
-Dialogue: 0,0:17:25.22,0:17:26.38,Default,,0,0,0,,Would you like the police car\Nto give you a ride?
-Dialogue: 0,0:17:26.52,0:17:29.08,Default,,0,0,0,,No. I want to clear my head\Nby walking home.
-Dialogue: 0,0:17:29.49,0:17:31.26,Default,,0,0,0,,Thank you very much.
-Dialogue: 0,0:17:34.53,0:17:36.87,Default,,0,0,0,,That's what it is. St. Tail.
-Dialogue: 0,0:17:42.72,0:17:44.95,Default,,0,0,0,,I couldn't get\Nthe tree back after all.
-Dialogue: 0,0:17:45.72,0:17:49.12,Default,,0,0,0,,Even though I come here,\Nthe tree won't be here...
-Dialogue: 0,0:18:06.63,0:18:09.72,Default,,0,0,0,,I'm so glad... It's safe.
-Dialogue: 0,0:18:20.36,0:18:22.15,Default,,0,0,0,,Did you read\Ntoday's paper?
-Dialogue: 0,0:18:22.26,0:18:23.25,Default,,0,0,0,,Yes.
-Dialogue: 0,0:18:23.36,0:18:25.33,Default,,0,0,0,,The owner Tachibana\Nwas arrested.
-Dialogue: 0,0:18:25.43,0:18:28.42,Default,,0,0,0,,The City of Seika is going\Nto manage the park.
-Dialogue: 0,0:18:28.74,0:18:30.67,Default,,0,0,0,,And Kudo replanted\Nthe "Tree of Happiness"...
-Dialogue: 0,0:18:30.98,0:18:33.67,Default,,0,0,0,,...and he's treating it.
-Dialogue: 0,0:18:38.29,0:18:40.72,Default,,0,0,0,,It is now prohibited...
-Dialogue: 0,0:18:40.83,0:18:42.42,Default,,0,0,0,,...to carve in\Nthe "Tree of Happiness".
-Dialogue: 0,0:18:43.43,0:18:45.06,Default,,0,0,0,,From now on it is a symbol...
-Dialogue: 0,0:18:45.30,0:18:47.36,Default,,0,0,0,,...of the importance\Nof natural life...
-Dialogue: 0,0:18:47.57,0:18:49.44,Default,,0,0,0,,...and it is to be\Nloved by people.
-Dialogue: 0,0:18:51.18,0:18:53.15,Default,,0,0,0,,People's wishes\Ndo come true...
-Dialogue: 0,0:18:53.35,0:18:55.75,Default,,0,0,0,,...when they put\Nsome effort into it.
-Dialogue: 0,0:18:56.16,0:18:59.72,Default,,0,0,0,,That's quite a wise saying\Ncoming from you!
-Dialogue: 0,0:18:59.83,0:19:00.82,Default,,0,0,0,,I suppose so.
-Dialogue: 0,0:19:00.93,0:19:03.49,Default,,0,0,0,,But if I give her any praise,\Nshe gets snobby. So I won't.
-Dialogue: 0,0:19:04.37,0:19:05.57,Default,,0,0,0,,What do you mean?!
-Dialogue: 0,0:19:05.71,0:19:06.68,Default,,0,0,0,,Nothing.
-Dialogue: 0,0:19:06.91,0:19:09.90,Default,,0,0,0,,Please put a little more effort\Ninto getting better grades.
-Dialogue: 0,0:19:11.39,0:19:12.75,Default,,0,0,0,,Mind your own business!
-Dialogue: 0,0:19:17.40,0:19:19.46,Default,,0,0,0,,Such good friends...
+Dialogue: 0,0:00:16.32,0:00:18.88,saint tail default,,0,0,0,,I'm so glad\Nit's nice weather, Seira.
+Dialogue: 0,0:00:19.40,0:00:20.83,saint tail default,,0,0,0,,You were looking forward...
+Dialogue: 0,0:00:21.00,0:00:22.76,saint tail default,,0,0,0,,...to this field trip very much.
+Dialogue: 0,0:00:23.54,0:00:25.40,saint tail default,,0,0,0,,Today let's forget about studying...
+Dialogue: 0,0:00:25.51,0:00:27.70,saint tail default,,0,0,0,,...and just have fun, Seira!
+Dialogue: 0,0:00:27.98,0:00:30.04,saint tail default,,0,0,0,,You're always forgetting\Nabout schoolwork.
+Dialogue: 0,0:00:30.18,0:00:33.58,saint tail default,,0,0,0,,Why don't you make a wish\Nat the "Tree of Happiness"?
+Dialogue: 0,0:00:33.69,0:00:38.49,saint tail default,,0,0,0,,Like, "Please make me\Na little bit smart!"
+Dialogue: 0,0:00:38.66,0:00:40.15,saint tail default,,0,0,0,,It's none of your business.
+Dialogue: 0,0:00:41.37,0:00:42.66,saint tail default,,0,0,0,,all the girls are there now.
+Dialogue: 0,0:00:43.74,0:00:45.64,saint tail default,,0,0,0,,What's\Nthe "Tree of Happiness"?
+Dialogue: 0,0:00:46.24,0:00:47.73,saint tail default,,0,0,0,,What?\NDon't you know about it?
+Dialogue: 0,0:00:48.04,0:00:50.64,saint tail default,,0,0,0,,It's a tree in this park\Nwhich is popular right now.
+Dialogue: 0,0:00:50.88,0:00:52.01,saint tail default,,0,0,0,,Really?
+Dialogue: 0,0:00:52.15,0:00:53.74,saint tail default,,0,0,0,,Yeah! Let's go see it!
+Dialogue: 0,0:01:03.74,0:01:04.70,saint tail default,,0,0,0,,This is it!
+Dialogue: 0,0:01:05.34,0:01:07.87,saint tail default,,0,0,0,,There's a rumor that if you\Ncarve your wish on the tree...
+Dialogue: 0,0:01:07.98,0:01:09.14,saint tail default,,0,0,0,,...your wish will come true.
+Dialogue: 0,0:01:09.51,0:01:12.38,saint tail default,,0,0,0,,You can carve your name\Nalong with the one you love.
+Dialogue: 0,0:01:18.66,0:01:20.43,saint tail default,,0,0,0,,There are a lot of scars...
+Dialogue: 0,0:01:21.67,0:01:22.93,saint tail default,,0,0,0,,Yeah... I feel sorry for it...
+Dialogue: 0,0:01:28.18,0:01:32.62,saint tail default,,0,0,0,,GET BACK\NTHE "TREE OF HAPPINESS"!
+Dialogue: 0,0:01:33.35,0:01:34.65,saint tail default,,0,0,0,,Good morning!
+Dialogue: 0,0:01:35.59,0:01:37.12,saint tail default,,0,0,0,,They seem in love!
+Dialogue: 0,0:01:38.10,0:01:39.89,saint tail default,,0,0,0,,What? What? What is it?!
+Dialogue: 0,0:01:40.30,0:01:42.60,saint tail default,,0,0,0,,Oh, Meimi. It's about\Nthe "Tree of Happiness."
+Dialogue: 0,0:01:42.77,0:01:43.83,saint tail default,,0,0,0,,The "Tree of Happiness"?
+Dialogue: 0,0:01:44.07,0:01:46.70,saint tail default,,0,0,0,,Yes! Hanako of Class C\Ncarved in the tree...
+Dialogue: 0,0:01:46.81,0:01:50.47,saint tail default,,0,0,0,,...and wished for a date\Nwith a boy she likes.
+Dialogue: 0,0:01:50.58,0:01:52.11,saint tail default,,0,0,0,,- Then...\N- Then...?.!
+Dialogue: 0,0:01:52.45,0:01:54.35,saint tail default,,0,0,0,,Then it came true!
+Dialogue: 0,0:01:54.46,0:01:55.89,saint tail default,,0,0,0,,Wow! That's great!
+Dialogue: 0,0:01:56.39,0:01:57.36,saint tail default,,0,0,0,,I envy her!
+Dialogue: 0,0:01:57.56,0:01:58.55,saint tail default,,0,0,0,,I'm going to go there again...
+Dialogue: 0,0:01:58.70,0:02:00.19,saint tail default,,0,0,0,,...and make more\Nand more wishes!
+Dialogue: 0,0:02:00.43,0:02:02.46,saint tail default,,0,0,0,,You have too many wishes.
+Dialogue: 0,0:02:02.57,0:02:03.76,saint tail default,,0,0,0,,That's not true!
+Dialogue: 0,0:02:04.17,0:02:07.07,saint tail default,,0,0,0,,I asked about Kosuke,\NKazuhiko, and Akio...
+Dialogue: 0,0:02:07.18,0:02:08.74,saint tail default,,0,0,0,,How about\NYasuhiro and Isshin?
+Dialogue: 0,0:02:08.98,0:02:11.58,saint tail default,,0,0,0,,Well... Meimi,\Ndid you make a wish?
+Dialogue: 0,0:02:11.69,0:02:15.38,saint tail default,,0,0,0,,No, I didn't because\NI felt sorry for the tree.
+Dialogue: 0,0:02:15.99,0:02:17.98,saint tail default,,0,0,0,,Meimi, you worry too much.
+Dialogue: 0,0:02:18.13,0:02:20.00,saint tail default,,0,0,0,,You shouldn't think too much\Nabout this kind of thing.
+Dialogue: 0,0:02:20.13,0:02:21.26,saint tail default,,0,0,0,,You should just enjoy it!
+Dialogue: 0,0:02:21.50,0:02:25.94,saint tail default,,0,0,0,,I thought you had made\Na wish about Asuka Jr.
+Dialogue: 0,0:02:26.28,0:02:29.30,saint tail default,,0,0,0,,Don't be stupid! Why would\NI want to wish about him?!
+Dialogue: 0,0:02:29.42,0:02:30.78,saint tail default,,0,0,0,,What about me?
+Dialogue: 0,0:02:30.92,0:02:33.39,saint tail default,,0,0,0,,You talked mean\Nabout me as usual.
+Dialogue: 0,0:02:33.69,0:02:35.32,saint tail default,,0,0,0,,No, I didn't!
+Dialogue: 0,0:02:35.89,0:02:38.89,saint tail default,,0,0,0,,Didn't you make a wish at\Nthe "Tree of Happiness"...
+Dialogue: 0,0:02:39.00,0:02:41.87,saint tail default,,0,0,0,,...that you could\Ncatch St. Tail?
+Dialogue: 0,0:02:42.07,0:02:45.30,saint tail default,,0,0,0,,Stupid! I don't have\Nto ask God about it!
+Dialogue: 0,0:02:45.74,0:02:47.61,saint tail default,,0,0,0,,I'll catch her by myself!
+Dialogue: 0,0:02:48.38,0:02:51.25,saint tail default,,0,0,0,,That's why\Nhe can't catch her at all.
+Dialogue: 0,0:02:51.35,0:02:53.29,saint tail default,,0,0,0,,- That's right!\N- You shut up!
+Dialogue: 0,0:03:01.20,0:03:02.57,saint tail default,,0,0,0,,Arborist?
+Dialogue: 0,0:03:02.97,0:03:05.31,saint tail default,,0,0,0,,Yes. I treat the trees...
+Dialogue: 0,0:03:05.54,0:03:08.54,saint tail default,,0,0,0,,...which are damaged\Nby disease and pollution.
+Dialogue: 0,0:03:08.92,0:03:10.68,saint tail default,,0,0,0,,You mean a tree doctor.
+Dialogue: 0,0:03:10.85,0:03:11.82,saint tail default,,0,0,0,,Yes.
+Dialogue: 0,0:03:12.52,0:03:13.65,saint tail default,,0,0,0,,About a year ago...
+Dialogue: 0,0:03:13.93,0:03:16.89,saint tail default,,0,0,0,,...in the grove on the hill\Nnear Tachibana Nature Park...
+Dialogue: 0,0:03:17.43,0:03:21.39,saint tail default,,0,0,0,,... I found a white tree\Nwhich was dying from disease.
+Dialogue: 0,0:03:25.91,0:03:29.01,saint tail default,,0,0,0,,The disease had\Nprogressed badly.
+Dialogue: 0,0:03:29.32,0:03:31.34,saint tail default,,0,0,0,,If nothing was done,\Nit appeared that it would fall...
+Dialogue: 0,0:03:31.45,0:03:32.51,saint tail default,,0,0,0,,...any minute.
+Dialogue: 0,0:03:45.85,0:03:47.71,saint tail default,,0,0,0,,Good... It still has a chance.
+Dialogue: 0,0:04:24.75,0:04:26.21,saint tail default,,0,0,0,,It took time.
+Dialogue: 0,0:04:26.41,0:04:28.71,saint tail default,,0,0,0,,But the tree fully recovered.
+Dialogue: 0,0:04:30.76,0:04:34.38,saint tail default,,0,0,0,,Your thoughts must\Nhave reached the tree.
+Dialogue: 0,0:04:35.33,0:04:36.35,saint tail default,,0,0,0,,After that, I went there...
+Dialogue: 0,0:04:36.46,0:04:37.86,saint tail default,,0,0,0,,...to check on it\Nfrom time to time.
+Dialogue: 0,0:04:38.17,0:04:40.53,saint tail default,,0,0,0,,But when I went there today,\Nthe tree was gone.
+Dialogue: 0,0:04:41.04,0:04:42.51,saint tail default,,0,0,0,,The tree was gone?
+Dialogue: 0,0:04:43.04,0:04:44.01,saint tail default,,0,0,0,,Yes.
+Dialogue: 0,0:04:44.25,0:04:46.04,saint tail default,,0,0,0,,The owner of Tachibana\NNature Park...
+Dialogue: 0,0:04:46.18,0:04:49.34,saint tail default,,0,0,0,,...took it out\Nby the roots. And...
+Dialogue: 0,0:04:50.86,0:04:52.55,saint tail default,,0,0,0,,Oh, that tree.
+Dialogue: 0,0:04:52.69,0:04:56.15,saint tail default,,0,0,0,,I want it to become the new\N"Tree of Happiness. "
+Dialogue: 0,0:04:57.10,0:04:58.62,saint tail default,,0,0,0,,A new "Tree of Happiness"?
+Dialogue: 0,0:04:58.97,0:05:01.23,saint tail default,,0,0,0,,The current tree\Nhas so many scars...
+Dialogue: 0,0:05:01.34,0:05:02.90,saint tail default,,0,0,0,,...that we can't\Nuse it anymore.
+Dialogue: 0,0:05:03.01,0:05:05.04,saint tail default,,0,0,0,,We were looking\Nfor a new tree.
+Dialogue: 0,0:05:05.65,0:05:07.17,saint tail default,,0,0,0,,I beg you, Mr. Tachibana!
+Dialogue: 0,0:05:07.28,0:05:09.05,saint tail default,,0,0,0,,Please don't\Ncontinue with this!
+Dialogue: 0,0:05:09.15,0:05:10.59,saint tail default,,0,0,0,,Trees are living, too!
+Dialogue: 0,0:05:10.99,0:05:12.25,saint tail default,,0,0,0,,You're hurting them!
+Dialogue: 0,0:05:12.63,0:05:15.46,saint tail default,,0,0,0,,It's none of your business\Nwhat I do in my park.
+Dialogue: 0,0:05:16.03,0:05:19.33,saint tail default,,0,0,0,,Or are the trees saying\Nthey're hurting?
+Dialogue: 0,0:05:19.57,0:05:22.54,saint tail default,,0,0,0,,Yes, they are!\NYou just can 't hear them!
+Dialogue: 0,0:05:23.41,0:05:24.54,saint tail default,,0,0,0,,That's stupid.
+Dialogue: 0,0:05:25.28,0:05:28.44,saint tail default,,0,0,0,,The "Tree of Happiness"\Nis a money tree for this park.
+Dialogue: 0,0:05:28.82,0:05:32.55,saint tail default,,0,0,0,,Some come just to carve\Ntheir wishes on the tree.
+Dialogue: 0,0:05:33.19,0:05:34.75,saint tail default,,0,0,0,,So I have\Nno intention of stopping...
+Dialogue: 0,0:05:34.90,0:05:36.42,saint tail default,,0,0,0,,...no matter what you say.
+Dialogue: 0,0:05:40.51,0:05:43.07,saint tail default,,0,0,0,,It's best for trees to be\Nin their natural state.
+Dialogue: 0,0:05:43.78,0:05:46.84,saint tail default,,0,0,0,,But he's moving them\Nand carving them up...
+Dialogue: 0,0:05:47.15,0:05:48.21,saint tail default,,0,0,0,,Don't worry.
+Dialogue: 0,0:05:48.92,0:05:52.05,saint tail default,,0,0,0,,I'm sure your prayers\Nhave reached God.
+Dialogue: 0,0:05:55.40,0:05:57.63,saint tail default,,0,0,0,,That's what the owner\Nof the park said?
+Dialogue: 0,0:05:57.74,0:05:59.73,saint tail default,,0,0,0,,Yes. According to Kudo...
+Dialogue: 0,0:05:59.87,0:06:02.90,saint tail default,,0,0,0,,...the tree will be planted\Nin the park tomorrow night.
+Dialogue: 0,0:06:03.41,0:06:04.38,saint tail default,,0,0,0,,Tomorrow night?
+Dialogue: 0,0:06:05.08,0:06:06.05,saint tail default,,0,0,0,,Yes.
+Dialogue: 0,0:06:06.15,0:06:07.14,saint tail default,,0,0,0,,So it's in time...
+Dialogue: 0,0:06:07.32,0:06:08.38,saint tail default,,0,0,0,,...for the opening\Nthe day after tomorrow.
+Dialogue: 0,0:06:08.89,0:06:11.32,saint tail default,,0,0,0,,Then what will happen to\Nthe current tree in the park?
+Dialogue: 0,0:06:11.86,0:06:15.02,saint tail default,,0,0,0,,It's terrible,\Nbut it will be disposed of.
+Dialogue: 0,0:06:15.23,0:06:16.29,saint tail default,,0,0,0,,No way!
+Dialogue: 0,0:06:16.50,0:06:19.13,saint tail default,,0,0,0,,It'll be replaced because\Nit isn't useful anymore...
+Dialogue: 0,0:06:19.34,0:06:21.67,saint tail default,,0,0,0,,Trees are not an instrument\Nfor humans to make money.
+Dialogue: 0,0:06:21.78,0:06:25.27,saint tail default,,0,0,0,,So, Meimi, I would like you\Nto steal the tree.
+Dialogue: 0,0:06:26.12,0:06:27.11,saint tail default,,0,0,0,,all right, Seira.
+Dialogue: 0,0:06:27.59,0:06:29.35,saint tail default,,0,0,0,,Count on St. Tail.
+Dialogue: 0,0:06:32.06,0:06:33.26,saint tail default,,0,0,0,,I'm home!
+Dialogue: 0,0:06:33.36,0:06:34.85,saint tail default,,0,0,0,,Welcome back, Meimi!
+Dialogue: 0,0:06:39.21,0:06:40.83,saint tail default,,0,0,0,,Whose voice is that?
+Dialogue: 0,0:06:41.14,0:06:42.98,saint tail default,,0,0,0,,Meimi! It's me! Me!
+Dialogue: 0,0:06:46.72,0:06:48.48,saint tail default,,0,0,0,,Ruby! You can...?!
+Dialogue: 0,0:06:51.23,0:06:53.32,saint tail default,,0,0,0,,Meimi, I'm Ruby!
+Dialogue: 0,0:06:54.10,0:06:56.36,saint tail default,,0,0,0,,Dad! What's that?!\NInteresting!
+Dialogue: 0,0:06:57.20,0:06:58.64,saint tail default,,0,0,0,,It's a voice changer.
+Dialogue: 0,0:06:59.01,0:07:00.44,saint tail default,,0,0,0,,I found it at a toy store.
+Dialogue: 0,0:07:00.81,0:07:02.97,saint tail default,,0,0,0,,I thought I might\Nuse it for my magic.
+Dialogue: 0,0:07:05.28,0:07:07.58,saint tail default,,0,0,0,,Meimi, your eyes\Nare like stars...
+Dialogue: 0,0:07:07.72,0:07:10.45,saint tail default,,0,0,0,,...of the first magnitude\Nin the night sky...
+Dialogue: 0,0:07:13.16,0:07:14.19,saint tail default,,0,0,0,,Oh, by the way...
+Dialogue: 0,0:07:14.30,0:07:15.56,saint tail default,,0,0,0,,...the park you went to\Non your field trip the other day...
+Dialogue: 0,0:07:15.67,0:07:18.00,saint tail default,,0,0,0,,...was showcased on TV.
+Dialogue: 0,0:07:21.18,0:07:22.27,saint tail default,,0,0,0,,As you can see...
+Dialogue: 0,0:07:22.38,0:07:24.75,saint tail default,,0,0,0,,...nature remains\Nundisturbed here...
+Dialogue: 0,0:07:24.98,0:07:28.18,saint tail default,,0,0,0,,...and visitors can\Nobserve rare plants.
+Dialogue: 0,0:07:28.96,0:07:32.22,saint tail default,,0,0,0,,Also, there are athletic\Nand cycling courses...
+Dialogue: 0,0:07:32.46,0:07:34.80,saint tail default,,0,0,0,,...and people of all ages\Ncan find enjoyment here.
+Dialogue: 0,0:07:35.70,0:07:38.50,saint tail default,,0,0,0,,This is the owner\Nof the park, Mr. Tachibana.
+Dialogue: 0,0:07:39.44,0:07:41.67,saint tail default,,0,0,0,,Hello. I'm the owner,\NTachibana.
+Dialogue: 0,0:07:43.08,0:07:44.21,saint tail default,,0,0,0,,Over here...
+Dialogue: 0,0:07:44.35,0:07:46.44,saint tail default,,0,0,0,,...the "Tree of Happiness"\Nis very popular...
+Dialogue: 0,0:07:46.65,0:07:49.42,saint tail default,,0,0,0,,...because it can make\Nwishes come true.
+Dialogue: 0,0:07:49.53,0:07:52.55,saint tail default,,0,0,0,,I hope you can come\Nto Tachibana Nature Park...
+Dialogue: 0,0:07:52.77,0:07:56.06,saint tail default,,0,0,0,,...and carve your wishes...
+Dialogue: 0,0:07:56.17,0:07:57.14,saint tail default,,0,0,0,,...in the "Tree of Happiness."
+Dialogue: 0,0:07:57.41,0:08:00.20,saint tail default,,0,0,0,,He is advertising\Nthe "Tree of Happiness " like this...!
+Dialogue: 0,0:08:01.91,0:08:04.64,saint tail default,,0,0,0,,But that park\Nhas changed a lot.
+Dialogue: 0,0:08:04.95,0:08:08.05,saint tail default,,0,0,0,,Yes. It used\Nto be a small park.
+Dialogue: 0,0:08:08.26,0:08:10.09,saint tail default,,0,0,0,,Is that right?
+Dialogue: 0,0:08:10.56,0:08:13.76,saint tail default,,0,0,0,,Now we have to pay\Nan expensive entrance fee.
+Dialogue: 0,0:08:14.70,0:08:17.80,saint tail default,,0,0,0,,We often\Nwent there on dates.
+Dialogue: 0,0:08:18.54,0:08:21.44,saint tail default,,0,0,0,,It's no longer\Nthe park of our memories.
+Dialogue: 0,0:08:22.35,0:08:24.98,saint tail default,,0,0,0,,But you haven't changed\Nsince that time...
+Dialogue: 0,0:08:25.09,0:08:26.68,saint tail default,,0,0,0,,...and you're\Njust as close to me.
+Dialogue: 0,0:08:27.29,0:08:28.76,saint tail default,,0,0,0,,Of course, Eimi.
+Dialogue: 0,0:08:29.16,0:08:30.68,saint tail default,,0,0,0,,And will be forever.
+Dialogue: 0,0:08:33.77,0:08:36.00,saint tail default,,0,0,0,,Oh, well... I guess we'll leave\Nthese young ones alone...
+Dialogue: 0,0:08:36.14,0:08:39.40,saint tail default,,0,0,0,,...and we should get going.\NRight, Ruby?
+Dialogue: 0,0:08:42.48,0:08:43.61,saint tail default,,0,0,0,,You're still here, Meimi...!
+Dialogue: 0,0:08:47.12,0:08:48.46,saint tail default,,0,0,0,,I'm going now!
+Dialogue: 0,0:08:56.74,0:08:58.00,saint tail default,,0,0,0,,What's this?
+Dialogue: 0,0:08:58.58,0:09:00.01,saint tail default,,0,0,0,,Is it a delivery?
+Dialogue: 0,0:09:02.95,0:09:04.21,saint tail default,,0,0,0,,What the...?!
+Dialogue: 0,0:09:13.64,0:09:14.60,saint tail default,,0,0,0,,What?!
+Dialogue: 0,0:09:15.57,0:09:17.90,saint tail default,,0,0,0,,"Tonight I'm going\Nto Tachibana Nature Park...
+Dialogue: 0,0:09:18.11,0:09:20.20,saint tail default,,0,0,0,,...to get the 'Tree of Happiness.'"
+Dialogue: 0,0:09:20.78,0:09:22.54,saint tail default,,0,0,0,,It's a warning note from St. Tail!
+Dialogue: 0,0:09:22.79,0:09:24.25,saint tail default,,0,0,0,,There's no time to lose!
+Dialogue: 0,0:09:41.70,0:09:42.79,saint tail default,,0,0,0,,Once more...
+Dialogue: 0,0:09:43.14,0:09:45.80,saint tail default,,0,0,0,,...I'm going to ask\NMr. Tachibana to stop.
+Dialogue: 0,0:09:50.15,0:09:51.45,saint tail default,,0,0,0,,Excuse me...!
+Dialogue: 0,0:09:54.59,0:09:57.12,saint tail default,,0,0,0,,That's strange. I wonder\Nif anyone is here.
+Dialogue: 0,0:10:01.74,0:10:03.37,saint tail default,,0,0,0,,We've got it at last!
+Dialogue: 0,0:10:03.48,0:10:05.24,saint tail default,,0,0,0,,We had\Na tough time getting it.
+Dialogue: 0,0:10:05.85,0:10:08.32,saint tail default,,0,0,0,,Let the rich guy know...
+Dialogue: 0,0:10:08.69,0:10:11.16,saint tail default,,0,0,0,,...that we've got the flower\Nhe asked for.
+Dialogue: 0,0:10:14.10,0:10:15.40,saint tail default,,0,0,0,,It's...?!
+Dialogue: 0,0:10:39.41,0:10:40.64,saint tail default,,0,0,0,,It's a...!
+Dialogue: 0,0:10:41.75,0:10:44.68,saint tail default,,0,0,0,,This flower is designated\Na national treasure!
+Dialogue: 0,0:10:45.52,0:10:48.52,saint tail default,,0,0,0,,And so is this flower here.
+Dialogue: 0,0:10:50.70,0:10:51.96,saint tail default,,0,0,0,,I don't believe it!
+Dialogue: 0,0:10:52.47,0:10:55.37,saint tail default,,0,0,0,,all of these are plants\Nthat are nearly extinct.
+Dialogue: 0,0:10:56.51,0:10:58.45,saint tail default,,0,0,0,,Why are these here?
+Dialogue: 0,0:11:12.11,0:11:15.27,saint tail default,,0,0,0,,This guy again!\NWhat a persistent fellow!
+Dialogue: 0,0:11:15.58,0:11:18.64,saint tail default,,0,0,0,,He's seen too much.
+Dialogue: 0,0:11:19.29,0:11:20.48,saint tail default,,0,0,0,,What should we\Ndo with him?
+Dialogue: 0,0:11:20.72,0:11:22.25,saint tail default,,0,0,0,,He saw the secret.
+Dialogue: 0,0:11:22.69,0:11:24.53,saint tail default,,0,0,0,,If he tells anyone...
+Dialogue: 0,0:11:24.70,0:11:26.69,saint tail default,,0,0,0,,...we're selling the national\Ntreasure plants...
+Dialogue: 0,0:11:26.94,0:11:28.23,saint tail default,,0,0,0,,He can't tell.
+Dialogue: 0,0:11:28.37,0:11:31.64,saint tail default,,0,0,0,,Now that he knows our secret,\Nwe can't let him go.
+Dialogue: 0,0:11:32.71,0:11:33.84,saint tail default,,0,0,0,,I'm going to\Nthe "Tree of Happiness"...
+Dialogue: 0,0:11:34.02,0:11:35.11,saint tail default,,0,0,0,,...to watch its replacement.
+Dialogue: 0,0:11:35.22,0:11:37.52,saint tail default,,0,0,0,,Make sure you watch him\Nuntil I come back.
+Dialogue: 0,0:11:37.62,0:11:38.78,saint tail default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:11:43.70,0:11:47.03,saint tail default,,0,0,0,,Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
+Dialogue: 0,0:11:52.38,0:11:53.35,saint tail default,,0,0,0,,One!
+Dialogue: 0,0:11:55.96,0:11:56.93,saint tail default,,0,0,0,,Two!
+Dialogue: 0,0:11:59.06,0:12:02.00,saint tail default,,0,0,0,,Three!
+Dialogue: 0,0:12:14.63,0:12:16.53,saint tail default,,0,0,0,,Be careful, Meimi.
+Dialogue: 0,0:12:16.63,0:12:17.72,saint tail default,,0,0,0,,Count on me.
+Dialogue: 0,0:12:17.83,0:12:19.80,saint tail default,,0,0,0,,Nothing is\Nimpossible for St. Tail.
+Dialogue: 0,0:12:22.14,0:12:25.27,saint tail default,,0,0,0,,May the blessings\Nof God be with us.
+Dialogue: 0,0:12:29.15,0:12:30.59,saint tail default,,0,0,0,,You're Mr. Tachibana,\Naren't you?
+Dialogue: 0,0:12:33.46,0:12:36.86,saint tail default,,0,0,0,,Oh, welcome. I was\Nwaiting for you, Asuka Jr.
+Dialogue: 0,0:12:37.47,0:12:38.46,saint tail default,,0,0,0,,Hello.
+Dialogue: 0,0:12:38.57,0:12:39.63,saint tail default,,0,0,0,,Anyway...
+Dialogue: 0,0:12:39.77,0:12:42.57,saint tail default,,0,0,0,,...the "Tree of Happiness"\Nthat St. Tail is targeting...
+Dialogue: 0,0:12:42.81,0:12:44.71,saint tail default,,0,0,0,,...was planted\Naround here, I thought.
+Dialogue: 0,0:12:45.05,0:12:47.28,saint tail default,,0,0,0,,Oh, you mean the old tree.
+Dialogue: 0,0:12:47.39,0:12:49.65,saint tail default,,0,0,0,,It's over there\Nlying on the ground.
+Dialogue: 0,0:12:51.13,0:12:52.43,saint tail default,,0,0,0,,Why did you do that?
+Dialogue: 0,0:12:52.77,0:12:55.74,saint tail default,,0,0,0,,It has too many\Nscars to use.
+Dialogue: 0,0:12:55.97,0:12:59.27,saint tail default,,0,0,0,,So we're replacing it\Nwith that new one.
+Dialogue: 0,0:13:01.45,0:13:02.85,saint tail default,,0,0,0,,Oh, then you're\Nreturning the old tree...
+Dialogue: 0,0:13:02.99,0:13:04.18,saint tail default,,0,0,0,,...to its natural habitat.
+Dialogue: 0,0:13:04.29,0:13:05.25,saint tail default,,0,0,0,,No way we're going to do...
+Dialogue: 0,0:13:05.36,0:13:06.35,saint tail default,,0,0,0,,...something\Nso time-consuming.
+Dialogue: 0,0:13:06.46,0:13:09.26,saint tail default,,0,0,0,,We'll cut it up and make\Nbenches or something.
+Dialogue: 0,0:13:11.27,0:13:12.57,saint tail default,,0,0,0,,What is he thinking?!
+Dialogue: 0,0:13:12.90,0:13:15.30,saint tail default,,0,0,0,,Is this something the owner\Nof a nature park would do?
+Dialogue: 0,0:13:21.42,0:13:23.79,saint tail default,,0,0,0,,St. Tail hasn't\Nshown up, has she?
+Dialogue: 0,0:13:23.96,0:13:25.79,saint tail default,,0,0,0,,I wonder if she gave up.
+Dialogue: 0,0:13:26.03,0:13:28.36,saint tail default,,0,0,0,,No. She'll definitely come...
+Dialogue: 0,0:13:28.80,0:13:30.39,saint tail default,,0,0,0,,...since she sent\Nthe warning note.
+Dialogue: 0,0:13:31.14,0:13:32.20,saint tail default,,0,0,0,,All right!
+Dialogue: 0,0:13:32.71,0:13:33.73,saint tail default,,0,0,0,,All right!
+Dialogue: 0,0:13:36.68,0:13:39.71,saint tail default,,0,0,0,,Okay. The transplant\Nis almost done.
+Dialogue: 0,0:13:40.19,0:13:44.15,saint tail default,,0,0,0,,Well, St. Tail didn't show up.\NWhat a pity!
+Dialogue: 0,0:13:45.47,0:13:48.90,saint tail default,,0,0,0,,What happened?!\NWhy didn't you show up, St. Tail?!
+Dialogue: 0,0:13:53.45,0:13:55.88,saint tail default,,0,0,0,,From now on, I want this\Nnew "Tree of Happiness"...
+Dialogue: 0,0:13:55.99,0:13:58.05,saint tail default,,0,0,0,,...to make a lot of money.
+Dialogue: 0,0:13:58.32,0:14:01.26,saint tail default,,0,0,0,,To commemorate this event,\NI should carve the first wish.
+Dialogue: 0,0:14:02.00,0:14:03.09,saint tail default,,0,0,0,,Let's see...
+Dialogue: 0,0:14:03.27,0:14:05.67,saint tail default,,0,0,0,,I wish that this park\Nbecomes more prosperous...
+Dialogue: 0,0:14:11.52,0:14:12.64,saint tail default,,0,0,0,,What's that?!
+Dialogue: 0,0:14:12.82,0:14:13.94,saint tail default,,0,0,0,,Whose voice is that?!
+Dialogue: 0,0:14:14.19,0:14:16.45,saint tail default,,0,0,0,,What's that voice?!
+Dialogue: 0,0:14:18.36,0:14:21.59,saint tail default,,0,0,0,,Ouch! It hurts!
+Dialogue: 0,0:14:21.70,0:14:23.79,saint tail default,,0,0,0,,You hurt me!
+Dialogue: 0,0:14:23.91,0:14:26.31,saint tail default,,0,0,0,,I won't forgive you!
+Dialogue: 0,0:14:27.81,0:14:29.94,saint tail default,,0,0,0,,It can't be true...!\NThe tree talked...?!
+Dialogue: 0,0:14:33.46,0:14:35.76,saint tail default,,0,0,0,,Not yet.\NThe real show starts now.
+Dialogue: 0,0:14:41.14,0:14:42.26,saint tail default,,0,0,0,,It's...
+Dialogue: 0,0:14:43.68,0:14:46.24,saint tail default,,0,0,0,,...Show...
+Dialogue: 0,0:14:47.18,0:14:48.67,saint tail default,,0,0,0,,...Time!
+Dialogue: 0,0:14:55.63,0:14:57.07,saint tail default,,0,0,0,,Help me!
+Dialogue: 0,0:14:59.31,0:15:00.43,saint tail default,,0,0,0,,She has shown up.
+Dialogue: 0,0:15:00.54,0:15:01.94,saint tail default,,0,0,0,,Come out! St. Tail!
+Dialogue: 0,0:15:05.62,0:15:07.18,saint tail default,,0,0,0,,There she is.\NShe's up in the tree!
+Dialogue: 0,0:15:11.63,0:15:12.76,saint tail default,,0,0,0,,One!
+Dialogue: 0,0:15:12.87,0:15:14.06,saint tail default,,0,0,0,,Two!
+Dialogue: 0,0:15:14.17,0:15:16.33,saint tail default,,0,0,0,,Three!
+Dialogue: 0,0:15:27.33,0:15:28.38,saint tail default,,0,0,0,,Shoot!
+Dialogue: 0,0:15:32.94,0:15:34.67,saint tail default,,0,0,0,,I'm taking\Nthe "Tree of Happiness"!
+Dialogue: 0,0:15:35.34,0:15:37.07,saint tail default,,0,0,0,,I won't let you leave!
+Dialogue: 0,0:15:39.78,0:15:42.38,saint tail default,,0,0,0,,I'm going to catch you\Ntoday for sure!
+Dialogue: 0,0:15:42.82,0:15:45.42,saint tail default,,0,0,0,,It's dangerous to run without\Nlooking where you're going!
+Dialogue: 0,0:15:54.18,0:15:58.67,saint tail default,,0,0,0,,I'm going to catch you\Nnext time for sure!
+Dialogue: 0,0:16:12.68,0:16:13.70,saint tail default,,0,0,0,,Mr. Tachibana.
+Dialogue: 0,0:16:17.86,0:16:20.65,saint tail default,,0,0,0,,Mr. Tachibana,\Nyou're under arrest.
+Dialogue: 0,0:16:20.76,0:16:23.56,saint tail default,,0,0,0,,What... what are you\Ntalking about?
+Dialogue: 0,0:16:24.07,0:16:26.59,saint tail default,,0,0,0,,Those two\Nconfessed to everything.
+Dialogue: 0,0:16:26.74,0:16:27.71,saint tail default,,0,0,0,,What?!
+Dialogue: 0,0:16:30.38,0:16:31.61,saint tail default,,0,0,0,,You...!
+Dialogue: 0,0:16:39.70,0:16:40.99,saint tail default,,0,0,0,,Hello, Son!
+Dialogue: 0,0:16:41.84,0:16:43.33,saint tail default,,0,0,0,,Oh, hi, Dad!
+Dialogue: 0,0:16:43.64,0:16:46.57,saint tail default,,0,0,0,,What are you doing here?
+Dialogue: 0,0:16:47.04,0:16:49.17,saint tail default,,0,0,0,,Isn't that Mr. Tachibana?
+Dialogue: 0,0:16:49.38,0:16:52.48,saint tail default,,0,0,0,,He was using\Nthe nature park as a cover...
+Dialogue: 0,0:16:52.62,0:16:54.82,saint tail default,,0,0,0,,...for selling\Nrare flowers illegally.
+Dialogue: 0,0:16:55.19,0:16:56.29,saint tail default,,0,0,0,,What?!
+Dialogue: 0,0:16:56.83,0:16:58.92,saint tail default,,0,0,0,,He's been\Na suspect for a while.
+Dialogue: 0,0:16:59.37,0:17:01.46,saint tail default,,0,0,0,,We got the warrant\Nand came here, then...
+Dialogue: 0,0:17:01.77,0:17:03.30,saint tail default,,0,0,0,,You got a big bust.
+Dialogue: 0,0:17:04.04,0:17:07.10,saint tail default,,0,0,0,,No wonder. I thought\Nsomething was strange.
+Dialogue: 0,0:17:07.62,0:17:08.85,saint tail default,,0,0,0,,Oh, Mr. Kudo.
+Dialogue: 0,0:17:09.19,0:17:10.35,saint tail default,,0,0,0,,Are you all right?
+Dialogue: 0,0:17:10.56,0:17:12.29,saint tail default,,0,0,0,,Yes. Thank you very much.
+Dialogue: 0,0:17:12.66,0:17:13.72,saint tail default,,0,0,0,,What happened to you?
+Dialogue: 0,0:17:14.10,0:17:15.53,saint tail default,,0,0,0,,I came to ask Mr. Tachibana...
+Dialogue: 0,0:17:15.70,0:17:17.26,saint tail default,,0,0,0,,...to stop the "Tree of Happiness"...
+Dialogue: 0,0:17:17.44,0:17:18.80,saint tail default,,0,0,0,,...and I was suddenly hit.
+Dialogue: 0,0:17:19.14,0:17:20.33,saint tail default,,0,0,0,,Because he discovered\Ntheir secret...
+Dialogue: 0,0:17:20.44,0:17:22.41,saint tail default,,0,0,0,,...he was locked up.
+Dialogue: 0,0:17:22.98,0:17:25.04,saint tail default,,0,0,0,,But I'm glad that\Nyour injury isn't serious.
+Dialogue: 0,0:17:25.22,0:17:26.38,saint tail default,,0,0,0,,Would you like the police car\Nto give you a ride?
+Dialogue: 0,0:17:26.52,0:17:29.08,saint tail default,,0,0,0,,No. I want to clear my head\Nby walking home.
+Dialogue: 0,0:17:29.49,0:17:31.26,saint tail default,,0,0,0,,Thank you very much.
+Dialogue: 0,0:17:34.53,0:17:36.87,saint tail default,,0,0,0,,That's what it is. St. Tail.
+Dialogue: 0,0:17:42.72,0:17:44.95,saint tail default,,0,0,0,,I couldn't get\Nthe tree back after all.
+Dialogue: 0,0:17:45.72,0:17:49.12,saint tail default,,0,0,0,,Even though I come here,\Nthe tree won't be here...
+Dialogue: 0,0:18:06.63,0:18:09.72,saint tail default,,0,0,0,,I'm so glad... It's safe.
+Dialogue: 0,0:18:20.36,0:18:22.15,saint tail default,,0,0,0,,Did you read\Ntoday's paper?
+Dialogue: 0,0:18:22.26,0:18:23.25,saint tail default,,0,0,0,,Yes.
+Dialogue: 0,0:18:23.36,0:18:25.33,saint tail default,,0,0,0,,The owner Tachibana\Nwas arrested.
+Dialogue: 0,0:18:25.43,0:18:28.42,saint tail default,,0,0,0,,The City of Seika is going\Nto manage the park.
+Dialogue: 0,0:18:28.74,0:18:30.67,saint tail default,,0,0,0,,And Kudo replanted\Nthe "Tree of Happiness"...
+Dialogue: 0,0:18:30.98,0:18:33.67,saint tail default,,0,0,0,,...and he's treating it.
+Dialogue: 0,0:18:38.29,0:18:40.72,saint tail default,,0,0,0,,It is now prohibited...
+Dialogue: 0,0:18:40.83,0:18:42.42,saint tail default,,0,0,0,,...to carve in\Nthe "Tree of Happiness".
+Dialogue: 0,0:18:43.43,0:18:45.06,saint tail default,,0,0,0,,From now on it is a symbol...
+Dialogue: 0,0:18:45.30,0:18:47.36,saint tail default,,0,0,0,,...of the importance\Nof natural life...
+Dialogue: 0,0:18:47.57,0:18:49.44,saint tail default,,0,0,0,,...and it is to be\Nloved by people.
+Dialogue: 0,0:18:51.18,0:18:53.15,saint tail default,,0,0,0,,People's wishes\Ndo come true...
+Dialogue: 0,0:18:53.35,0:18:55.75,saint tail default,,0,0,0,,...when they put\Nsome effort into it.
+Dialogue: 0,0:18:56.16,0:18:59.72,saint tail default,,0,0,0,,That's quite a wise saying\Ncoming from you!
+Dialogue: 0,0:18:59.83,0:19:00.82,saint tail default,,0,0,0,,I suppose so.
+Dialogue: 0,0:19:00.93,0:19:03.49,saint tail default,,0,0,0,,But if I give her any praise,\Nshe gets snobby. So I won't.
+Dialogue: 0,0:19:04.37,0:19:05.57,saint tail default,,0,0,0,,What do you mean?!
+Dialogue: 0,0:19:05.71,0:19:06.68,saint tail default,,0,0,0,,Nothing.
+Dialogue: 0,0:19:06.91,0:19:09.90,saint tail default,,0,0,0,,Please put a little more effort\Ninto getting better grades.
+Dialogue: 0,0:19:11.39,0:19:12.75,saint tail default,,0,0,0,,Mind your own business!
+Dialogue: 0,0:19:17.40,0:19:19.46,saint tail default,,0,0,0,,Such good friends...

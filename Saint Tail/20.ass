@@ -13,249 +13,253 @@ Video File: source/20.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,2.0,2.0,2,10,10,10,1
+Style: saint tail default,Calibri,80,&H00FBFBFB,&H000000FF,&H00373737,&H80373737,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,2,50,50,50,1
+Style: saint tail sign,Calibri,75,&H00D4FFED,&H000000FF,&H006E8E22,&HC7000000,-1,-1,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,8,50,50,50,1
+Style: saint tail title,Campanile,150,&H00EDE6FF,&H000000FF,&H009457EA,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
+Style: saint tail op en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
+Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,70,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.41,0:00:08.14,Default,,0,0,0,,-Good morning, Meimi.\N-Good morning, Seira.
-Dialogue: 0,0:00:08.75,0:00:12.15,Default,,0,0,0,,-Another lovely day, isn't it?\N-It sure is.
-Dialogue: 0,0:00:17.17,0:00:19.80,Default,,0,0,0,,Seira, what's going on there?
-Dialogue: 0,0:00:20.01,0:00:24.81,Default,,0,0,0,,Maybe Asuka Jr.'s solved a case\Nand they want his autograph.
-Dialogue: 0,0:00:25.02,0:00:27.11,Default,,0,0,0,,That's ridiculous!
-Dialogue: 0,0:00:31.06,0:00:34.50,Default,,0,0,0,,Yutaka, please!\NGet your father to sign this.
-Dialogue: 0,0:00:34.84,0:00:38.47,Default,,0,0,0,,But my father's not even an actor.
-Dialogue: 0,0:00:39.31,0:00:41.78,Default,,0,0,0,,What's going on here?
-Dialogue: 0,0:00:41.98,0:00:47.85,Default,,0,0,0,,Didn't you know?\NYutaka's father wrote a bestseller.
-Dialogue: 0,0:00:48.13,0:00:51.59,Default,,0,0,0,,Oh, really? Seira, did you know?
-Dialogue: 0,0:00:51.80,0:00:55.80,Default,,0,0,0,,I bought one. It's titled\NExpedition Journal of Jurassic Island.
-Dialogue: 0,0:00:56.41,0:01:01.01,Default,,0,0,0,,His father discovered an egg\Nof the legendary bird.
-Dialogue: 0,0:01:02.09,0:01:03.78,Default,,0,0,0,,A legendary bird?
-Dialogue: 0,0:01:04.53,0:01:09.76,Default,,0,0,0,,GET BACK THE PHANTOM BIRD EGG!
-Dialogue: 0,0:01:13.34,0:01:18.71,Default,,0,0,0,,-Seira, have you read it?\N-Yes, would you like to read it?
-Dialogue: 0,0:01:19.72,0:01:24.79,Default,,0,0,0,,It looks so hard.\NMaybe I'll just go get his autograph.
-Dialogue: 0,0:01:25.40,0:01:31.17,Default,,0,0,0,,Professor Mochizuki, Yutaka's father,\Nis a well-known explorer.
-Dialogue: 0,0:01:31.51,0:01:34.88,Default,,0,0,0,,He was investigating\Nthe existence of the bird...
-Dialogue: 0,0:01:35.08,0:01:38.11,Default,,0,0,0,,...in a jungle\Nin the southern hemisphere.
-Dialogue: 0,0:01:38.76,0:01:41.13,Default,,0,0,0,,And he discovered the egg?
-Dialogue: 0,0:01:41.76,0:01:46.79,Default,,0,0,0,,Yes. A fiery red Apua bird said\Nto have lived on the island ages ago.
-Dialogue: 0,0:01:47.01,0:01:50.07,Default,,0,0,0,,Then he compiled his report\Ninto a book.
-Dialogue: 0,0:01:50.38,0:01:56.51,Default,,0,0,0,,Exploring a jungle,\Na fiery red bird. How romantic!
-Dialogue: 0,0:02:03.31,0:02:05.64,Default,,0,0,0,,A lizard!
-Dialogue: 0,0:02:07.21,0:02:12.38,Default,,0,0,0,,You'll never go exploring the jungle\Nif this little thing scares you.
-Dialogue: 0,0:02:23.34,0:02:27.14,Default,,0,0,0,,Mr. Asuka, pets are not allowed\Nin the school.
-Dialogue: 0,0:02:27.35,0:02:31.75,Default,,0,0,0,,As punishment, you will clean\Nthe birdcage after school!
-Dialogue: 0,0:02:34.20,0:02:35.36,Default,,0,0,0,,Yes, ma'am.
-Dialogue: 0,0:02:46.86,0:02:49.32,Default,,0,0,0,,Your father's precious egg?
-Dialogue: 0,0:02:49.66,0:02:53.89,Default,,0,0,0,,Yes, a Professor Hyuga from\Nthe Scientific Research lnstitute...
-Dialogue: 0,0:02:54.10,0:02:57.63,Default,,0,0,0,,...came by, claiming\Nto be my father's friend.
-Dialogue: 0,0:03:00.85,0:03:04.78,Default,,0,0,0,,I'd appreciate you letting me\Nborrow your father's egg.
-Dialogue: 0,0:03:05.12,0:03:09.58,Default,,0,0,0,,My father's not in tonight.\NCan you wait until tomorrow?
-Dialogue: 0,0:03:10.17,0:03:12.63,Default,,0,0,0,,I have his permission.
-Dialogue: 0,0:03:12.84,0:03:15.47,Default,,0,0,0,,I'd like to study the egg...
-Dialogue: 0,0:03:15.68,0:03:19.37,Default,,0,0,0,,...as part of my research\Nof the Apua bird.
-Dialogue: 0,0:03:19.59,0:03:23.02,Default,,0,0,0,,Why, I promise to return it\Nin two or three days.
-Dialogue: 0,0:03:23.23,0:03:28.03,Default,,0,0,0,,He said he'd return it and I let him\Ntake it without thinking it through.
-Dialogue: 0,0:03:28.60,0:03:32.00,Default,,0,0,0,,What? Hyuga took the egg last night?
-Dialogue: 0,0:03:32.58,0:03:35.34,Default,,0,0,0,,Oh, God, I'm finished.
-Dialogue: 0,0:03:35.55,0:03:38.28,Default,,0,0,0,,Dad, what do you mean?
-Dialogue: 0,0:03:39.19,0:03:43.59,Default,,0,0,0,,Yutaka, I made the egg. It's a fake.
-Dialogue: 0,0:03:43.80,0:03:46.93,Default,,0,0,0,,I painted an ostrich egg.
-Dialogue: 0,0:03:47.54,0:03:51.37,Default,,0,0,0,,Then you lied\Nabout discovering the egg?
-Dialogue: 0,0:03:51.58,0:03:54.64,Default,,0,0,0,,You wrote that book\Nbased on pure fiction?
-Dialogue: 0,0:03:54.95,0:03:58.18,Default,,0,0,0,,No, I'm certain\NI really did find the egg.
-Dialogue: 0,0:03:58.39,0:04:01.49,Default,,0,0,0,,Animals are very delicate creatures.
-Dialogue: 0,0:04:02.00,0:04:05.80,Default,,0,0,0,,Being tossed around on\Na long ocean voyage to Japan...
-Dialogue: 0,0:04:06.01,0:04:07.80,Default,,0,0,0,,...would kill any animal.
-Dialogue: 0,0:04:08.01,0:04:11.81,Default,,0,0,0,,That egg is priceless,\Nso I didn't bring it back.
-Dialogue: 0,0:04:12.02,0:04:15.98,Default,,0,0,0,,-I wanted the bird to be raised there.\N-I see.
-Dialogue: 0,0:04:16.36,0:04:21.66,Default,,0,0,0,,But I had to let the world\Nknow of my discovery.
-Dialogue: 0,0:04:21.87,0:04:26.83,Default,,0,0,0,,I needed proof\Nto convince my colleagues.
-Dialogue: 0,0:04:27.72,0:04:32.08,Default,,0,0,0,,So you made the fake to use as proof.
-Dialogue: 0,0:04:32.29,0:04:37.28,Default,,0,0,0,,But I never imagined my book\Nwould cause such a sensation.
-Dialogue: 0,0:04:37.50,0:04:42.94,Default,,0,0,0,,A man in my position should never have\Nused a fake to prove his discovery.
-Dialogue: 0,0:04:43.14,0:04:46.31,Default,,0,0,0,,Then why don't you explain it\Nto everyone now?
-Dialogue: 0,0:04:46.92,0:04:49.75,Default,,0,0,0,,You're right.\NBut of all the bad luck...
-Dialogue: 0,0:04:49.96,0:04:53.65,Default,,0,0,0,,...it will be Hyuga\Nwho breaks the news.
-Dialogue: 0,0:04:56.10,0:04:57.69,Default,,0,0,0,,I see.
-Dialogue: 0,0:04:58.51,0:05:03.04,Default,,0,0,0,,Professor Hyuga has always\Ncriticized my father's research.
-Dialogue: 0,0:05:03.25,0:05:07.95,Default,,0,0,0,,If he analyzes the egg,\Nhe's sure to realize it's a fake.
-Dialogue: 0,0:05:08.16,0:05:10.59,Default,,0,0,0,,I need the egg back before that.
-Dialogue: 0,0:05:10.80,0:05:13.53,Default,,0,0,0,,And where is the egg now?
-Dialogue: 0,0:05:13.74,0:05:16.36,Default,,0,0,0,,Hyuga's Scientific Research lnstitute.
-Dialogue: 0,0:05:19.18,0:05:20.88,Default,,0,0,0,,A fake egg, huh?
-Dialogue: 0,0:05:21.68,0:05:26.38,Default,,0,0,0,,Using a fake to prove one's theory\Nis certainly unforgivable.
-Dialogue: 0,0:05:26.59,0:05:31.00,Default,,0,0,0,,But Professor Mochizuki\Ndeeply regrets it now.
-Dialogue: 0,0:05:31.57,0:05:36.01,Default,,0,0,0,,And it's too bad Professor Hyuga\Nwill reveal the truth.
-Dialogue: 0,0:05:36.21,0:05:39.81,Default,,0,0,0,,I did some checking and learned\Nthat Professor Hyuga...
-Dialogue: 0,0:05:40.02,0:05:44.01,Default,,0,0,0,,...is scheduled to go on TV\Ntomorrow to discuss the egg.
-Dialogue: 0,0:05:44.46,0:05:45.83,Default,,0,0,0,,I understand.
-Dialogue: 0,0:05:46.03,0:05:50.02,Default,,0,0,0,,You want me to get the egg\Nbefore he analyzes it.
-Dialogue: 0,0:05:50.24,0:05:53.40,Default,,0,0,0,,Brilliant deduction.\NI knew I could count on you.
-Dialogue: 0,0:05:57.59,0:06:02.99,Default,,0,0,0,,Why did she have to stick me\Nwith this dirty job?
-Dialogue: 0,0:06:05.43,0:06:09.17,Default,,0,0,0,,I need to clean this place up.
-Dialogue: 0,0:06:11.15,0:06:13.44,Default,,0,0,0,,What's this?
-Dialogue: 0,0:06:15.29,0:06:19.28,Default,,0,0,0,,What? "Tonight at 8:00, I am going\Nto Professor Hyuga's lab...
-Dialogue: 0,0:06:19.50,0:06:25.53,Default,,0,0,0,,...to steal the legendary egg.\N-St. Tail." St. Tail's note!
-Dialogue: 0,0:06:30.08,0:06:33.57,Default,,0,0,0,,-I'm home!\N-Welcome home, Meimi.
-Dialogue: 0,0:06:33.79,0:06:36.38,Default,,0,0,0,,What's with Dad?
-Dialogue: 0,0:06:41.74,0:06:44.07,Default,,0,0,0,,Hi, Dad!
-Dialogue: 0,0:06:44.58,0:06:46.48,Default,,0,0,0,,Oh, Meimi, welcome home.
-Dialogue: 0,0:06:47.11,0:06:52.35,Default,,0,0,0,,What's the matter? You promised\Nto show me your trick when I got back.
-Dialogue: 0,0:06:52.56,0:06:55.76,Default,,0,0,0,,I'm sorry. I got so involved\Nwith the program.
-Dialogue: 0,0:06:55.96,0:06:57.30,Default,,0,0,0,,What program?
-Dialogue: 0,0:06:57.50,0:06:59.73,Default,,0,0,0,,UNCOVER PARANORMAL PHENOMENA\NWlTH DR. HYUGA
-Dialogue: 0,0:06:59.94,0:07:02.77,Default,,0,0,0,,-You know him?\N-Yeah, in a way.
-Dialogue: 0,0:07:03.01,0:07:08.51,Default,,0,0,0,,You were saying there is nothing\Nthat is scientifically unexplainable.
-Dialogue: 0,0:07:08.72,0:07:10.35,Default,,0,0,0,,That's right.
-Dialogue: 0,0:07:10.56,0:07:16.56,Default,,0,0,0,,Supernatural phenomena and legendary\Ncreatures do not exist in our society.
-Dialogue: 0,0:07:16.77,0:07:20.47,Default,,0,0,0,,For example, mirages\Nand a dead person's spirit...
-Dialogue: 0,0:07:20.68,0:07:26.45,Default,,0,0,0,,...which so many romanticize about,\Nhave been scientifically explained.
-Dialogue: 0,0:07:27.43,0:07:30.05,Default,,0,0,0,,This is a mirage, right?
-Dialogue: 0,0:07:30.26,0:07:35.29,Default,,0,0,0,,Isn't it incredible? Even a machine\Nis capable of creating one.
-Dialogue: 0,0:07:35.51,0:07:37.27,Default,,0,0,0,,And now, to continue...
-Dialogue: 0,0:07:37.48,0:07:39.95,Default,,0,0,0,,A dead person's spirit!
-Dialogue: 0,0:07:41.05,0:07:46.78,Default,,0,0,0,,Lately, I've been hearing of fools\Ncausing a sensation by ranting...
-Dialogue: 0,0:07:47.00,0:07:51.13,Default,,0,0,0,,...of miracles and legends,\Nbut I will expose them all!
-Dialogue: 0,0:07:51.34,0:07:54.31,Default,,0,0,0,,This journal is a bestseller, right?
-Dialogue: 0,0:07:54.51,0:07:59.45,Default,,0,0,0,,Yes. In my professional opinion,\Nthe legendary Apua bird...
-Dialogue: 0,0:07:59.65,0:08:03.95,Default,,0,0,0,,...does not exist anywhere.\NThis book is a fake.
-Dialogue: 0,0:08:04.16,0:08:09.72,Default,,0,0,0,,And tomorrow on this program,\Nwe will reveal the infamous egg!
-Dialogue: 0,0:08:11.01,0:08:14.67,Default,,0,0,0,,The egg Professor Mochizuki found\Ncannot be real!
-Dialogue: 0,0:08:14.88,0:08:17.37,Default,,0,0,0,,And I will expose--
-Dialogue: 0,0:08:17.69,0:08:18.78,Default,,0,0,0,,Mom!
-Dialogue: 0,0:08:18.99,0:08:21.46,Default,,0,0,0,,Why'd you turn it off?\NIt was interesting.
-Dialogue: 0,0:08:22.00,0:08:25.45,Default,,0,0,0,,Because I don't like that man!
-Dialogue: 0,0:08:25.67,0:08:28.87,Default,,0,0,0,,The other day at a magic show,\Nthat awful man...
-Dialogue: 0,0:08:29.08,0:08:32.31,Default,,0,0,0,,...revealed the secrets\Nin front of the magician!
-Dialogue: 0,0:08:32.52,0:08:35.54,Default,,0,0,0,,Then he's one of Dad's enemies.
-Dialogue: 0,0:08:35.82,0:08:39.88,Default,,0,0,0,,That's right. Without the world's\Nmysteries and magic...
-Dialogue: 0,0:08:40.10,0:08:42.50,Default,,0,0,0,,...there'd be no dreams or hope!
-Dialogue: 0,0:08:42.70,0:08:47.73,Default,,0,0,0,,You're right. Eimi, I appreciate\Nyou always thinking of me.
-Dialogue: 0,0:08:47.95,0:08:50.11,Default,,0,0,0,,Oh, dear, I...
-Dialogue: 0,0:08:54.19,0:08:56.68,Default,,0,0,0,,Oh, brother, here we go again!
-Dialogue: 0,0:08:59.57,0:09:02.20,Default,,0,0,0,,Hi, Ruby!
-Dialogue: 0,0:09:03.48,0:09:07.61,Default,,0,0,0,,I've got work to do. I'll play\Nwith you in just a little while.
-Dialogue: 0,0:09:23.45,0:09:27.25,Default,,0,0,0,,Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
-Dialogue: 0,0:09:32.26,0:09:34.03,Default,,0,0,0,,One!
-Dialogue: 0,0:09:35.64,0:09:37.54,Default,,0,0,0,,Two!
-Dialogue: 0,0:09:39.08,0:09:42.14,Default,,0,0,0,,Three!
-Dialogue: 0,0:09:54.67,0:09:57.97,Default,,0,0,0,,Meimi, you have to be\Nextra careful this time.
-Dialogue: 0,0:09:58.35,0:09:59.91,Default,,0,0,0,,Don't worry!
-Dialogue: 0,0:10:00.12,0:10:04.75,Default,,0,0,0,,I've heard Professor Hyuga has\Na state-of-the-art security system...
-Dialogue: 0,0:10:04.96,0:10:07.19,Default,,0,0,0,,...wired in his laboratory.
-Dialogue: 0,0:10:07.40,0:10:10.99,Default,,0,0,0,,It just makes the job\Nmore challenging for me!
-Dialogue: 0,0:10:13.24,0:10:16.64,Default,,0,0,0,,May the blessings of God be with us.
-Dialogue: 0,0:10:23.23,0:10:25.66,Default,,0,0,0,,HYUGA SCIENTIFIC\NRESEARCH INSTITUTE
-Dialogue: 0,0:10:25.87,0:10:29.27,Default,,0,0,0,,I appreciate you reporters\Ncoming out here.
-Dialogue: 0,0:10:29.97,0:10:34.21,Default,,0,0,0,,Professor Hyuga, there are reports\NSt. Tail has announced--
-Dialogue: 0,0:10:34.42,0:10:37.21,Default,,0,0,0,,I don't know about any St. Tail...
-Dialogue: 0,0:10:37.42,0:10:43.42,Default,,0,0,0,,...but my computers will capture\Nany brash, petty thief!
-Dialogue: 0,0:10:44.13,0:10:46.57,Default,,0,0,0,,Well, just wait and see!
-Dialogue: 0,0:10:58.26,0:11:00.92,Default,,0,0,0,,You seem to be\Nmy personal bodyguards...
-Dialogue: 0,0:11:01.13,0:11:04.19,Default,,0,0,0,,...but I told you,\NI don't need your protection.
-Dialogue: 0,0:11:04.41,0:11:07.31,Default,,0,0,0,,You're not taking St. Tail\Nvery seriously!
-Dialogue: 0,0:11:07.51,0:11:10.11,Default,,0,0,0,,If she says she's coming, she will!
-Dialogue: 0,0:11:10.49,0:11:15.25,Default,,0,0,0,,Detective, I appreciate your concern,\Nbut I want you to leave.
-Dialogue: 0,0:11:15.46,0:11:17.59,Default,,0,0,0,,I have enough help here.
-Dialogue: 0,0:11:17.97,0:11:19.33,Default,,0,0,0,,We can't do that.
-Dialogue: 0,0:11:19.54,0:11:24.53,Default,,0,0,0,,Since she has made her announcement,\Nit is our duty to arrest her.
-Dialogue: 0,0:11:24.75,0:11:30.71,Default,,0,0,0,,This laboratory has been equipped with\Nthe latest computers I've invented.
-Dialogue: 0,0:11:30.92,0:11:34.22,Default,,0,0,0,,When it comes to police intuition\Nor experience...
-Dialogue: 0,0:11:34.43,0:11:36.90,Default,,0,0,0,,...I just don't believe in that.
-Dialogue: 0,0:11:37.10,0:11:42.04,Default,,0,0,0,,That is your prerogative, but\Nour job is to stand guard right here.
-Dialogue: 0,0:11:42.25,0:11:43.91,Default,,0,0,0,,Have it your way then.
-Dialogue: 0,0:11:44.45,0:11:47.32,Default,,0,0,0,,That door is unlocked, isn't it?
-Dialogue: 0,0:11:47.52,0:11:51.89,Default,,0,0,0,,St. Tail can easily enter from here.
-Dialogue: 0,0:11:53.17,0:11:57.43,Default,,0,0,0,,As part of my plan, I'm letting\NSt. Tail get in easily!
-Dialogue: 0,0:11:57.64,0:12:03.58,Default,,0,0,0,,I will capture her alive and then\Nmy secret weapon will go into action!
-Dialogue: 0,0:12:04.19,0:12:05.48,Default,,0,0,0,,Secret weapon?
-Dialogue: 0,0:12:07.06,0:12:09.62,Default,,0,0,0,,And this is it!
-Dialogue: 0,0:12:09.80,0:12:11.16,Default,,0,0,0,,I AM A GENIUS!
-Dialogue: 0,0:12:14.51,0:12:15.67,Default,,0,0,0,,Perfect.
-Dialogue: 0,0:12:16.74,0:12:19.54,Default,,0,0,0,,What is that?
-Dialogue: 0,0:12:20.49,0:12:23.94,Default,,0,0,0,,These will not kill or hurt anything.
-Dialogue: 0,0:12:24.16,0:12:28.39,Default,,0,0,0,,It's like a tranquilizer gun\Nfor live capture.
-Dialogue: 0,0:12:28.90,0:12:31.89,Default,,0,0,0,,That's quite impressive.\NAnd what is this?
-Dialogue: 0,0:12:32.11,0:12:35.37,Default,,0,0,0,,Oh, that.\NThat's the character analyzer.
-Dialogue: 0,0:12:35.78,0:12:38.01,Default,,0,0,0,,It looks like it'll fry someone.
-Dialogue: 0,0:12:38.29,0:12:43.38,Default,,0,0,0,,Shall I demonstrate it?\NYou just stand there quietly.
-Dialogue: 0,0:12:56.82,0:13:00.48,Default,,0,0,0,,Daisuke Asuka. Born August 22.
-Dialogue: 0,0:13:00.70,0:13:03.43,Default,,0,0,0,,Horoscope: Leo. Blood type: AB.
-Dialogue: 0,0:13:03.80,0:13:09.00,Default,,0,0,0,,Fantastic! It analyzes one's personal\Ndata just by shining a light.
-Dialogue: 0,0:13:09.21,0:13:12.48,Default,,0,0,0,,Does that mean\Nif the light hits St. Tail...
-Dialogue: 0,0:13:12.68,0:13:15.15,Default,,0,0,0,,...we'll learn her true identity?
-Dialogue: 0,0:13:15.42,0:13:19.99,Default,,0,0,0,,That's right. Today's the day\Nwe learn her true identity.
-Dialogue: 0,0:13:20.20,0:13:22.63,Default,,0,0,0,,Aren't you happy?
-Dialogue: 0,0:13:23.37,0:13:27.78,Default,,0,0,0,,Just in case, I'm going\Nto tape St. Tail's capture...
-Dialogue: 0,0:13:27.98,0:13:30.85,Default,,0,0,0,,...and have it shown on national TV.
-Dialogue: 0,0:13:31.39,0:13:33.08,Default,,0,0,0,,What a showoff!
-Dialogue: 0,0:13:33.29,0:13:36.99,Default,,0,0,0,,If I am unable to capture her...
-Dialogue: 0,0:13:37.20,0:13:41.07,Default,,0,0,0,,...I will shave my head completely!
-Dialogue: 0,0:13:50.56,0:13:52.53,Default,,0,0,0,,It's almost time.
-Dialogue: 0,0:14:00.58,0:14:03.70,Default,,0,0,0,,What's that? It's St. Tail!
-Dialogue: 0,0:14:04.42,0:14:10.15,Default,,0,0,0,,We've got you, St. Tail!\NAssistants A, B, fire!
-Dialogue: 0,0:14:12.40,0:14:14.70,Default,,0,0,0,,Here I am! Here!
-Dialogue: 0,0:14:19.18,0:14:21.17,Default,,0,0,0,,Drat! Give it to me!
-Dialogue: 0,0:14:22.28,0:14:26.69,Default,,0,0,0,,-She'll never be able to get close!\N-Not here, at any rate!
-Dialogue: 0,0:14:29.77,0:14:32.29,Default,,0,0,0,,You idiot! What are you shooting at?
-Dialogue: 0,0:14:32.54,0:14:34.77,Default,,0,0,0,,You call this gun safe?
-Dialogue: 0,0:14:38.62,0:14:39.88,Default,,0,0,0,,It's...
-Dialogue: 0,0:14:42.09,0:14:43.65,Default,,0,0,0,,...show...
-Dialogue: 0,0:14:45.86,0:14:48.23,Default,,0,0,0,,...time!
-Dialogue: 0,0:14:52.04,0:14:55.31,Default,,0,0,0,,What are these things? Stop!
-Dialogue: 0,0:14:56.88,0:14:58.28,Default,,0,0,0,,Here goes!
-Dialogue: 0,0:15:01.69,0:15:03.72,Default,,0,0,0,,Now's my chance!
-Dialogue: 0,0:15:03.96,0:15:07.23,Default,,0,0,0,,You're not getting away!
-Dialogue: 0,0:15:09.78,0:15:12.94,Default,,0,0,0,,Damn! I'll reveal her identity!
-Dialogue: 0,0:15:14.92,0:15:16.41,Default,,0,0,0,,Look out!
-Dialogue: 0,0:15:21.87,0:15:24.03,Default,,0,0,0,,I won't let you get away!
-Dialogue: 0,0:15:25.61,0:15:27.16,Default,,0,0,0,,Take that!
-Dialogue: 0,0:15:32.85,0:15:34.62,Default,,0,0,0,,Here!
-Dialogue: 0,0:15:47.45,0:15:49.35,Default,,0,0,0,,Stop, St. Tail!
-Dialogue: 0,0:15:49.55,0:15:51.18,Default,,0,0,0,,I'll let you go today...
-Dialogue: 0,0:15:51.39,0:15:55.72,Default,,0,0,0,,...only because I don't want\Nto capture you with machinery!
-Dialogue: 0,0:15:55.93,0:15:58.40,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:16:03.51,0:16:07.50,Default,,0,0,0,,-Professor! Professor!\N-The egg, the egg.
-Dialogue: 0,0:16:07.75,0:16:10.48,Default,,0,0,0,,Professor, snap out of it!
-Dialogue: 0,0:16:10.69,0:16:14.06,Default,,0,0,0,,What was I doing? That's right!
-Dialogue: 0,0:16:14.27,0:16:19.50,Default,,0,0,0,,I'm sure my computer grasped\NSt. Tail's true identity!
-Dialogue: 0,0:16:19.71,0:16:21.54,Default,,0,0,0,,Are you sure?
-Dialogue: 0,0:16:21.75,0:16:24.48,Default,,0,0,0,,St. Tail's identity.
-Dialogue: 0,0:16:25.09,0:16:28.25,Default,,0,0,0,,Everything's in order!
-Dialogue: 0,0:16:30.80,0:16:32.26,Default,,0,0,0,,What happened?
-Dialogue: 0,0:16:32.53,0:16:35.43,Default,,0,0,0,,It's all white.
-Dialogue: 0,0:16:36.94,0:16:40.04,Default,,0,0,0,,Hey, what's the meaning of this?
-Dialogue: 0,0:16:43.02,0:16:46.08,Default,,0,0,0,,This is one of those pebbles\NSt. Tail threw.
-Dialogue: 0,0:16:46.29,0:16:49.82,Default,,0,0,0,,-What is it, Dad?\N-Impossible!
-Dialogue: 0,0:16:50.70,0:16:53.86,Default,,0,0,0,,Hey! Dad, isn't this a magnet?
-Dialogue: 0,0:16:54.07,0:16:57.48,Default,,0,0,0,,I get it. These machines\Ndon't take to magnets.
-Dialogue: 0,0:16:57.78,0:17:03.69,Default,,0,0,0,,That's ridiculous!\NBut the video should show her face.
-Dialogue: 0,0:17:07.70,0:17:14.04,Default,,0,0,0,,My machines of the latest technology\Nwere thwarted by mere magnets. Damn!
-Dialogue: 0,0:17:18.69,0:17:20.32,Default,,0,0,0,,What's that?
-Dialogue: 0,0:17:26.14,0:17:30.70,Default,,0,0,0,,What's this?\NDad, it's the egg! The egg's back!
-Dialogue: 0,0:17:30.91,0:17:33.68,Default,,0,0,0,,What did you say?
-Dialogue: 0,0:17:34.52,0:17:36.28,Default,,0,0,0,,This.
-Dialogue: 0,0:17:37.32,0:17:41.12,Default,,0,0,0,,Yutaka, I'm going to make\Na public apology.
-Dialogue: 0,0:17:41.93,0:17:43.92,Default,,0,0,0,,About the egg being a fake?
-Dialogue: 0,0:17:44.51,0:17:50.00,Default,,0,0,0,,Yes, and I'll ask everyone to help\Npreserve the island's natural state.
-Dialogue: 0,0:17:50.22,0:17:52.12,Default,,0,0,0,,Dad.
-Dialogue: 0,0:17:54.72,0:17:56.75,Default,,0,0,0,,I'm so glad.
-Dialogue: 0,0:17:57.53,0:18:00.43,Default,,0,0,0,,-Good morning!\N-Good morning!
-Dialogue: 0,0:18:01.94,0:18:05.96,Default,,0,0,0,,Professor Mochizuki was so very happy.
-Dialogue: 0,0:18:08.85,0:18:12.81,Default,,0,0,0,,-Good morning, Meimi, Seira.\N-We'd better hurry!
-Dialogue: 0,0:18:13.43,0:18:16.12,Default,,0,0,0,,-Please let us through!\N-Again?
-Dialogue: 0,0:18:17.33,0:18:19.56,Default,,0,0,0,,Congratulations! I saw the paper.
-Dialogue: 0,0:18:19.77,0:18:24.61,Default,,0,0,0,,The Apua bird's egg on\NJurassic lsland hatched, didn't it?
-Dialogue: 0,0:18:25.52,0:18:29.08,Default,,0,0,0,,It's so neat! Please get me\Nyour father's autograph.
-Dialogue: 0,0:18:29.46,0:18:31.08,Default,,0,0,0,,Well, I...
-Dialogue: 0,0:18:34.63,0:18:36.10,Default,,0,0,0,,DR. HYUGA WENT BALD!
-Dialogue: 0,0:18:40.28,0:18:42.04,Default,,0,0,0,,Good morning, Asuka Jr.
-Dialogue: 0,0:18:42.25,0:18:45.68,Default,,0,0,0,,Did you see this?\NLook at that bald fool!
-Dialogue: 0,0:18:45.92,0:18:51.69,Default,,0,0,0,,A bet's a bet. And he bet he could\Nreveal St. Tail's true identity.
-Dialogue: 0,0:18:52.27,0:18:57.23,Default,,0,0,0,,I guess that means capturing St. Tail\Nshould be left to you, Asuka Jr.
-Dialogue: 0,0:18:57.44,0:19:02.18,Default,,0,0,0,,That's right, because I'm the best.\NI know everything about St. Tail!
-Dialogue: 0,0:19:02.39,0:19:04.65,Default,,0,0,0,,Though she's always getting away?
-Dialogue: 0,0:19:04.92,0:19:09.66,Default,,0,0,0,,What did you say? I had a good reason\Nfor letting her go this time!
-Dialogue: 0,0:19:10.10,0:19:12.33,Default,,0,0,0,,I know.
-Dialogue: 0,0:19:15.28,0:19:18.84,Default,,0,0,0,,You said, "I don't want\Nto capture you with machinery!"
-Dialogue: 0,0:19:19.05,0:19:21.58,Default,,0,0,0,,And you work so hard at it!
+Dialogue: 0,0:00:05.41,0:00:08.14,saint tail default,,0,0,0,,-Good morning, Meimi.\N-Good morning, Seira.
+Dialogue: 0,0:00:08.75,0:00:12.15,saint tail default,,0,0,0,,-Another lovely day, isn't it?\N-It sure is.
+Dialogue: 0,0:00:17.17,0:00:19.80,saint tail default,,0,0,0,,Seira, what's going on there?
+Dialogue: 0,0:00:20.01,0:00:24.81,saint tail default,,0,0,0,,Maybe Asuka Jr.'s solved a case\Nand they want his autograph.
+Dialogue: 0,0:00:25.02,0:00:27.11,saint tail default,,0,0,0,,That's ridiculous!
+Dialogue: 0,0:00:31.06,0:00:34.50,saint tail default,,0,0,0,,Yutaka, please!\NGet your father to sign this.
+Dialogue: 0,0:00:34.84,0:00:38.47,saint tail default,,0,0,0,,But my father's not even an actor.
+Dialogue: 0,0:00:39.31,0:00:41.78,saint tail default,,0,0,0,,What's going on here?
+Dialogue: 0,0:00:41.98,0:00:47.85,saint tail default,,0,0,0,,Didn't you know?\NYutaka's father wrote a bestseller.
+Dialogue: 0,0:00:48.13,0:00:51.59,saint tail default,,0,0,0,,Oh, really? Seira, did you know?
+Dialogue: 0,0:00:51.80,0:00:55.80,saint tail default,,0,0,0,,I bought one. It's titled\NExpedition Journal of Jurassic Island.
+Dialogue: 0,0:00:56.41,0:01:01.01,saint tail default,,0,0,0,,His father discovered an egg\Nof the legendary bird.
+Dialogue: 0,0:01:02.09,0:01:03.78,saint tail default,,0,0,0,,A legendary bird?
+Dialogue: 0,0:01:04.53,0:01:09.76,saint tail default,,0,0,0,,GET BACK THE PHANTOM BIRD EGG!
+Dialogue: 0,0:01:13.34,0:01:18.71,saint tail default,,0,0,0,,-Seira, have you read it?\N-Yes, would you like to read it?
+Dialogue: 0,0:01:19.72,0:01:24.79,saint tail default,,0,0,0,,It looks so hard.\NMaybe I'll just go get his autograph.
+Dialogue: 0,0:01:25.40,0:01:31.17,saint tail default,,0,0,0,,Professor Mochizuki, Yutaka's father,\Nis a well-known explorer.
+Dialogue: 0,0:01:31.51,0:01:34.88,saint tail default,,0,0,0,,He was investigating\Nthe existence of the bird...
+Dialogue: 0,0:01:35.08,0:01:38.11,saint tail default,,0,0,0,,...in a jungle\Nin the southern hemisphere.
+Dialogue: 0,0:01:38.76,0:01:41.13,saint tail default,,0,0,0,,And he discovered the egg?
+Dialogue: 0,0:01:41.76,0:01:46.79,saint tail default,,0,0,0,,Yes. A fiery red Apua bird said\Nto have lived on the island ages ago.
+Dialogue: 0,0:01:47.01,0:01:50.07,saint tail default,,0,0,0,,Then he compiled his report\Ninto a book.
+Dialogue: 0,0:01:50.38,0:01:56.51,saint tail default,,0,0,0,,Exploring a jungle,\Na fiery red bird. How romantic!
+Dialogue: 0,0:02:03.31,0:02:05.64,saint tail default,,0,0,0,,A lizard!
+Dialogue: 0,0:02:07.21,0:02:12.38,saint tail default,,0,0,0,,You'll never go exploring the jungle\Nif this little thing scares you.
+Dialogue: 0,0:02:23.34,0:02:27.14,saint tail default,,0,0,0,,Mr. Asuka, pets are not allowed\Nin the school.
+Dialogue: 0,0:02:27.35,0:02:31.75,saint tail default,,0,0,0,,As punishment, you will clean\Nthe birdcage after school!
+Dialogue: 0,0:02:34.20,0:02:35.36,saint tail default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:02:46.86,0:02:49.32,saint tail default,,0,0,0,,Your father's precious egg?
+Dialogue: 0,0:02:49.66,0:02:53.89,saint tail default,,0,0,0,,Yes, a Professor Hyuga from\Nthe Scientific Research lnstitute...
+Dialogue: 0,0:02:54.10,0:02:57.63,saint tail default,,0,0,0,,...came by, claiming\Nto be my father's friend.
+Dialogue: 0,0:03:00.85,0:03:04.78,saint tail default,,0,0,0,,I'd appreciate you letting me\Nborrow your father's egg.
+Dialogue: 0,0:03:05.12,0:03:09.58,saint tail default,,0,0,0,,My father's not in tonight.\NCan you wait until tomorrow?
+Dialogue: 0,0:03:10.17,0:03:12.63,saint tail default,,0,0,0,,I have his permission.
+Dialogue: 0,0:03:12.84,0:03:15.47,saint tail default,,0,0,0,,I'd like to study the egg...
+Dialogue: 0,0:03:15.68,0:03:19.37,saint tail default,,0,0,0,,...as part of my research\Nof the Apua bird.
+Dialogue: 0,0:03:19.59,0:03:23.02,saint tail default,,0,0,0,,Why, I promise to return it\Nin two or three days.
+Dialogue: 0,0:03:23.23,0:03:28.03,saint tail default,,0,0,0,,He said he'd return it and I let him\Ntake it without thinking it through.
+Dialogue: 0,0:03:28.60,0:03:32.00,saint tail default,,0,0,0,,What? Hyuga took the egg last night?
+Dialogue: 0,0:03:32.58,0:03:35.34,saint tail default,,0,0,0,,Oh, God, I'm finished.
+Dialogue: 0,0:03:35.55,0:03:38.28,saint tail default,,0,0,0,,Dad, what do you mean?
+Dialogue: 0,0:03:39.19,0:03:43.59,saint tail default,,0,0,0,,Yutaka, I made the egg. It's a fake.
+Dialogue: 0,0:03:43.80,0:03:46.93,saint tail default,,0,0,0,,I painted an ostrich egg.
+Dialogue: 0,0:03:47.54,0:03:51.37,saint tail default,,0,0,0,,Then you lied\Nabout discovering the egg?
+Dialogue: 0,0:03:51.58,0:03:54.64,saint tail default,,0,0,0,,You wrote that book\Nbased on pure fiction?
+Dialogue: 0,0:03:54.95,0:03:58.18,saint tail default,,0,0,0,,No, I'm certain\NI really did find the egg.
+Dialogue: 0,0:03:58.39,0:04:01.49,saint tail default,,0,0,0,,Animals are very delicate creatures.
+Dialogue: 0,0:04:02.00,0:04:05.80,saint tail default,,0,0,0,,Being tossed around on\Na long ocean voyage to Japan...
+Dialogue: 0,0:04:06.01,0:04:07.80,saint tail default,,0,0,0,,...would kill any animal.
+Dialogue: 0,0:04:08.01,0:04:11.81,saint tail default,,0,0,0,,That egg is priceless,\Nso I didn't bring it back.
+Dialogue: 0,0:04:12.02,0:04:15.98,saint tail default,,0,0,0,,-I wanted the bird to be raised there.\N-I see.
+Dialogue: 0,0:04:16.36,0:04:21.66,saint tail default,,0,0,0,,But I had to let the world\Nknow of my discovery.
+Dialogue: 0,0:04:21.87,0:04:26.83,saint tail default,,0,0,0,,I needed proof\Nto convince my colleagues.
+Dialogue: 0,0:04:27.72,0:04:32.08,saint tail default,,0,0,0,,So you made the fake to use as proof.
+Dialogue: 0,0:04:32.29,0:04:37.28,saint tail default,,0,0,0,,But I never imagined my book\Nwould cause such a sensation.
+Dialogue: 0,0:04:37.50,0:04:42.94,saint tail default,,0,0,0,,A man in my position should never have\Nused a fake to prove his discovery.
+Dialogue: 0,0:04:43.14,0:04:46.31,saint tail default,,0,0,0,,Then why don't you explain it\Nto everyone now?
+Dialogue: 0,0:04:46.92,0:04:49.75,saint tail default,,0,0,0,,You're right.\NBut of all the bad luck...
+Dialogue: 0,0:04:49.96,0:04:53.65,saint tail default,,0,0,0,,...it will be Hyuga\Nwho breaks the news.
+Dialogue: 0,0:04:56.10,0:04:57.69,saint tail default,,0,0,0,,I see.
+Dialogue: 0,0:04:58.51,0:05:03.04,saint tail default,,0,0,0,,Professor Hyuga has always\Ncriticized my father's research.
+Dialogue: 0,0:05:03.25,0:05:07.95,saint tail default,,0,0,0,,If he analyzes the egg,\Nhe's sure to realize it's a fake.
+Dialogue: 0,0:05:08.16,0:05:10.59,saint tail default,,0,0,0,,I need the egg back before that.
+Dialogue: 0,0:05:10.80,0:05:13.53,saint tail default,,0,0,0,,And where is the egg now?
+Dialogue: 0,0:05:13.74,0:05:16.36,saint tail default,,0,0,0,,Hyuga's Scientific Research lnstitute.
+Dialogue: 0,0:05:19.18,0:05:20.88,saint tail default,,0,0,0,,A fake egg, huh?
+Dialogue: 0,0:05:21.68,0:05:26.38,saint tail default,,0,0,0,,Using a fake to prove one's theory\Nis certainly unforgivable.
+Dialogue: 0,0:05:26.59,0:05:31.00,saint tail default,,0,0,0,,But Professor Mochizuki\Ndeeply regrets it now.
+Dialogue: 0,0:05:31.57,0:05:36.01,saint tail default,,0,0,0,,And it's too bad Professor Hyuga\Nwill reveal the truth.
+Dialogue: 0,0:05:36.21,0:05:39.81,saint tail default,,0,0,0,,I did some checking and learned\Nthat Professor Hyuga...
+Dialogue: 0,0:05:40.02,0:05:44.01,saint tail default,,0,0,0,,...is scheduled to go on TV\Ntomorrow to discuss the egg.
+Dialogue: 0,0:05:44.46,0:05:45.83,saint tail default,,0,0,0,,I understand.
+Dialogue: 0,0:05:46.03,0:05:50.02,saint tail default,,0,0,0,,You want me to get the egg\Nbefore he analyzes it.
+Dialogue: 0,0:05:50.24,0:05:53.40,saint tail default,,0,0,0,,Brilliant deduction.\NI knew I could count on you.
+Dialogue: 0,0:05:57.59,0:06:02.99,saint tail default,,0,0,0,,Why did she have to stick me\Nwith this dirty job?
+Dialogue: 0,0:06:05.43,0:06:09.17,saint tail default,,0,0,0,,I need to clean this place up.
+Dialogue: 0,0:06:11.15,0:06:13.44,saint tail default,,0,0,0,,What's this?
+Dialogue: 0,0:06:15.29,0:06:19.28,saint tail default,,0,0,0,,What? "Tonight at 8:00, I am going\Nto Professor Hyuga's lab...
+Dialogue: 0,0:06:19.50,0:06:25.53,saint tail default,,0,0,0,,...to steal the legendary egg.\N-St. Tail." St. Tail's note!
+Dialogue: 0,0:06:30.08,0:06:33.57,saint tail default,,0,0,0,,-I'm home!\N-Welcome home, Meimi.
+Dialogue: 0,0:06:33.79,0:06:36.38,saint tail default,,0,0,0,,What's with Dad?
+Dialogue: 0,0:06:41.74,0:06:44.07,saint tail default,,0,0,0,,Hi, Dad!
+Dialogue: 0,0:06:44.58,0:06:46.48,saint tail default,,0,0,0,,Oh, Meimi, welcome home.
+Dialogue: 0,0:06:47.11,0:06:52.35,saint tail default,,0,0,0,,What's the matter? You promised\Nto show me your trick when I got back.
+Dialogue: 0,0:06:52.56,0:06:55.76,saint tail default,,0,0,0,,I'm sorry. I got so involved\Nwith the program.
+Dialogue: 0,0:06:55.96,0:06:57.30,saint tail default,,0,0,0,,What program?
+Dialogue: 0,0:06:57.50,0:06:59.73,saint tail default,,0,0,0,,UNCOVER PARANORMAL PHENOMENA\NWlTH DR. HYUGA
+Dialogue: 0,0:06:59.94,0:07:02.77,saint tail default,,0,0,0,,-You know him?\N-Yeah, in a way.
+Dialogue: 0,0:07:03.01,0:07:08.51,saint tail default,,0,0,0,,You were saying there is nothing\Nthat is scientifically unexplainable.
+Dialogue: 0,0:07:08.72,0:07:10.35,saint tail default,,0,0,0,,That's right.
+Dialogue: 0,0:07:10.56,0:07:16.56,saint tail default,,0,0,0,,Supernatural phenomena and legendary\Ncreatures do not exist in our society.
+Dialogue: 0,0:07:16.77,0:07:20.47,saint tail default,,0,0,0,,For example, mirages\Nand a dead person's spirit...
+Dialogue: 0,0:07:20.68,0:07:26.45,saint tail default,,0,0,0,,...which so many romanticize about,\Nhave been scientifically explained.
+Dialogue: 0,0:07:27.43,0:07:30.05,saint tail default,,0,0,0,,This is a mirage, right?
+Dialogue: 0,0:07:30.26,0:07:35.29,saint tail default,,0,0,0,,Isn't it incredible? Even a machine\Nis capable of creating one.
+Dialogue: 0,0:07:35.51,0:07:37.27,saint tail default,,0,0,0,,And now, to continue...
+Dialogue: 0,0:07:37.48,0:07:39.95,saint tail default,,0,0,0,,A dead person's spirit!
+Dialogue: 0,0:07:41.05,0:07:46.78,saint tail default,,0,0,0,,Lately, I've been hearing of fools\Ncausing a sensation by ranting...
+Dialogue: 0,0:07:47.00,0:07:51.13,saint tail default,,0,0,0,,...of miracles and legends,\Nbut I will expose them all!
+Dialogue: 0,0:07:51.34,0:07:54.31,saint tail default,,0,0,0,,This journal is a bestseller, right?
+Dialogue: 0,0:07:54.51,0:07:59.45,saint tail default,,0,0,0,,Yes. In my professional opinion,\Nthe legendary Apua bird...
+Dialogue: 0,0:07:59.65,0:08:03.95,saint tail default,,0,0,0,,...does not exist anywhere.\NThis book is a fake.
+Dialogue: 0,0:08:04.16,0:08:09.72,saint tail default,,0,0,0,,And tomorrow on this program,\Nwe will reveal the infamous egg!
+Dialogue: 0,0:08:11.01,0:08:14.67,saint tail default,,0,0,0,,The egg Professor Mochizuki found\Ncannot be real!
+Dialogue: 0,0:08:14.88,0:08:17.37,saint tail default,,0,0,0,,And I will expose--
+Dialogue: 0,0:08:17.69,0:08:18.78,saint tail default,,0,0,0,,Mom!
+Dialogue: 0,0:08:18.99,0:08:21.46,saint tail default,,0,0,0,,Why'd you turn it off?\NIt was interesting.
+Dialogue: 0,0:08:22.00,0:08:25.45,saint tail default,,0,0,0,,Because I don't like that man!
+Dialogue: 0,0:08:25.67,0:08:28.87,saint tail default,,0,0,0,,The other day at a magic show,\Nthat awful man...
+Dialogue: 0,0:08:29.08,0:08:32.31,saint tail default,,0,0,0,,...revealed the secrets\Nin front of the magician!
+Dialogue: 0,0:08:32.52,0:08:35.54,saint tail default,,0,0,0,,Then he's one of Dad's enemies.
+Dialogue: 0,0:08:35.82,0:08:39.88,saint tail default,,0,0,0,,That's right. Without the world's\Nmysteries and magic...
+Dialogue: 0,0:08:40.10,0:08:42.50,saint tail default,,0,0,0,,...there'd be no dreams or hope!
+Dialogue: 0,0:08:42.70,0:08:47.73,saint tail default,,0,0,0,,You're right. Eimi, I appreciate\Nyou always thinking of me.
+Dialogue: 0,0:08:47.95,0:08:50.11,saint tail default,,0,0,0,,Oh, dear, I...
+Dialogue: 0,0:08:54.19,0:08:56.68,saint tail default,,0,0,0,,Oh, brother, here we go again!
+Dialogue: 0,0:08:59.57,0:09:02.20,saint tail default,,0,0,0,,Hi, Ruby!
+Dialogue: 0,0:09:03.48,0:09:07.61,saint tail default,,0,0,0,,I've got work to do. I'll play\Nwith you in just a little while.
+Dialogue: 0,0:09:23.45,0:09:27.25,saint tail default,,0,0,0,,Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
+Dialogue: 0,0:09:32.26,0:09:34.03,saint tail default,,0,0,0,,One!
+Dialogue: 0,0:09:35.64,0:09:37.54,saint tail default,,0,0,0,,Two!
+Dialogue: 0,0:09:39.08,0:09:42.14,saint tail default,,0,0,0,,Three!
+Dialogue: 0,0:09:54.67,0:09:57.97,saint tail default,,0,0,0,,Meimi, you have to be\Nextra careful this time.
+Dialogue: 0,0:09:58.35,0:09:59.91,saint tail default,,0,0,0,,Don't worry!
+Dialogue: 0,0:10:00.12,0:10:04.75,saint tail default,,0,0,0,,I've heard Professor Hyuga has\Na state-of-the-art security system...
+Dialogue: 0,0:10:04.96,0:10:07.19,saint tail default,,0,0,0,,...wired in his laboratory.
+Dialogue: 0,0:10:07.40,0:10:10.99,saint tail default,,0,0,0,,It just makes the job\Nmore challenging for me!
+Dialogue: 0,0:10:13.24,0:10:16.64,saint tail default,,0,0,0,,May the blessings of God be with us.
+Dialogue: 0,0:10:23.23,0:10:25.66,saint tail default,,0,0,0,,HYUGA SCIENTIFIC\NRESEARCH INSTITUTE
+Dialogue: 0,0:10:25.87,0:10:29.27,saint tail default,,0,0,0,,I appreciate you reporters\Ncoming out here.
+Dialogue: 0,0:10:29.97,0:10:34.21,saint tail default,,0,0,0,,Professor Hyuga, there are reports\NSt. Tail has announced--
+Dialogue: 0,0:10:34.42,0:10:37.21,saint tail default,,0,0,0,,I don't know about any St. Tail...
+Dialogue: 0,0:10:37.42,0:10:43.42,saint tail default,,0,0,0,,...but my computers will capture\Nany brash, petty thief!
+Dialogue: 0,0:10:44.13,0:10:46.57,saint tail default,,0,0,0,,Well, just wait and see!
+Dialogue: 0,0:10:58.26,0:11:00.92,saint tail default,,0,0,0,,You seem to be\Nmy personal bodyguards...
+Dialogue: 0,0:11:01.13,0:11:04.19,saint tail default,,0,0,0,,...but I told you,\NI don't need your protection.
+Dialogue: 0,0:11:04.41,0:11:07.31,saint tail default,,0,0,0,,You're not taking St. Tail\Nvery seriously!
+Dialogue: 0,0:11:07.51,0:11:10.11,saint tail default,,0,0,0,,If she says she's coming, she will!
+Dialogue: 0,0:11:10.49,0:11:15.25,saint tail default,,0,0,0,,Detective, I appreciate your concern,\Nbut I want you to leave.
+Dialogue: 0,0:11:15.46,0:11:17.59,saint tail default,,0,0,0,,I have enough help here.
+Dialogue: 0,0:11:17.97,0:11:19.33,saint tail default,,0,0,0,,We can't do that.
+Dialogue: 0,0:11:19.54,0:11:24.53,saint tail default,,0,0,0,,Since she has made her announcement,\Nit is our duty to arrest her.
+Dialogue: 0,0:11:24.75,0:11:30.71,saint tail default,,0,0,0,,This laboratory has been equipped with\Nthe latest computers I've invented.
+Dialogue: 0,0:11:30.92,0:11:34.22,saint tail default,,0,0,0,,When it comes to police intuition\Nor experience...
+Dialogue: 0,0:11:34.43,0:11:36.90,saint tail default,,0,0,0,,...I just don't believe in that.
+Dialogue: 0,0:11:37.10,0:11:42.04,saint tail default,,0,0,0,,That is your prerogative, but\Nour job is to stand guard right here.
+Dialogue: 0,0:11:42.25,0:11:43.91,saint tail default,,0,0,0,,Have it your way then.
+Dialogue: 0,0:11:44.45,0:11:47.32,saint tail default,,0,0,0,,That door is unlocked, isn't it?
+Dialogue: 0,0:11:47.52,0:11:51.89,saint tail default,,0,0,0,,St. Tail can easily enter from here.
+Dialogue: 0,0:11:53.17,0:11:57.43,saint tail default,,0,0,0,,As part of my plan, I'm letting\NSt. Tail get in easily!
+Dialogue: 0,0:11:57.64,0:12:03.58,saint tail default,,0,0,0,,I will capture her alive and then\Nmy secret weapon will go into action!
+Dialogue: 0,0:12:04.19,0:12:05.48,saint tail default,,0,0,0,,Secret weapon?
+Dialogue: 0,0:12:07.06,0:12:09.62,saint tail default,,0,0,0,,And this is it!
+Dialogue: 0,0:12:09.80,0:12:11.16,saint tail default,,0,0,0,,I AM A GENIUS!
+Dialogue: 0,0:12:14.51,0:12:15.67,saint tail default,,0,0,0,,Perfect.
+Dialogue: 0,0:12:16.74,0:12:19.54,saint tail default,,0,0,0,,What is that?
+Dialogue: 0,0:12:20.49,0:12:23.94,saint tail default,,0,0,0,,These will not kill or hurt anything.
+Dialogue: 0,0:12:24.16,0:12:28.39,saint tail default,,0,0,0,,It's like a tranquilizer gun\Nfor live capture.
+Dialogue: 0,0:12:28.90,0:12:31.89,saint tail default,,0,0,0,,That's quite impressive.\NAnd what is this?
+Dialogue: 0,0:12:32.11,0:12:35.37,saint tail default,,0,0,0,,Oh, that.\NThat's the character analyzer.
+Dialogue: 0,0:12:35.78,0:12:38.01,saint tail default,,0,0,0,,It looks like it'll fry someone.
+Dialogue: 0,0:12:38.29,0:12:43.38,saint tail default,,0,0,0,,Shall I demonstrate it?\NYou just stand there quietly.
+Dialogue: 0,0:12:56.82,0:13:00.48,saint tail default,,0,0,0,,Daisuke Asuka. Born August 22.
+Dialogue: 0,0:13:00.70,0:13:03.43,saint tail default,,0,0,0,,Horoscope: Leo. Blood type: AB.
+Dialogue: 0,0:13:03.80,0:13:09.00,saint tail default,,0,0,0,,Fantastic! It analyzes one's personal\Ndata just by shining a light.
+Dialogue: 0,0:13:09.21,0:13:12.48,saint tail default,,0,0,0,,Does that mean\Nif the light hits St. Tail...
+Dialogue: 0,0:13:12.68,0:13:15.15,saint tail default,,0,0,0,,...we'll learn her true identity?
+Dialogue: 0,0:13:15.42,0:13:19.99,saint tail default,,0,0,0,,That's right. Today's the day\Nwe learn her true identity.
+Dialogue: 0,0:13:20.20,0:13:22.63,saint tail default,,0,0,0,,Aren't you happy?
+Dialogue: 0,0:13:23.37,0:13:27.78,saint tail default,,0,0,0,,Just in case, I'm going\Nto tape St. Tail's capture...
+Dialogue: 0,0:13:27.98,0:13:30.85,saint tail default,,0,0,0,,...and have it shown on national TV.
+Dialogue: 0,0:13:31.39,0:13:33.08,saint tail default,,0,0,0,,What a showoff!
+Dialogue: 0,0:13:33.29,0:13:36.99,saint tail default,,0,0,0,,If I am unable to capture her...
+Dialogue: 0,0:13:37.20,0:13:41.07,saint tail default,,0,0,0,,...I will shave my head completely!
+Dialogue: 0,0:13:50.56,0:13:52.53,saint tail default,,0,0,0,,It's almost time.
+Dialogue: 0,0:14:00.58,0:14:03.70,saint tail default,,0,0,0,,What's that? It's St. Tail!
+Dialogue: 0,0:14:04.42,0:14:10.15,saint tail default,,0,0,0,,We've got you, St. Tail!\NAssistants A, B, fire!
+Dialogue: 0,0:14:12.40,0:14:14.70,saint tail default,,0,0,0,,Here I am! Here!
+Dialogue: 0,0:14:19.18,0:14:21.17,saint tail default,,0,0,0,,Drat! Give it to me!
+Dialogue: 0,0:14:22.28,0:14:26.69,saint tail default,,0,0,0,,-She'll never be able to get close!\N-Not here, at any rate!
+Dialogue: 0,0:14:29.77,0:14:32.29,saint tail default,,0,0,0,,You idiot! What are you shooting at?
+Dialogue: 0,0:14:32.54,0:14:34.77,saint tail default,,0,0,0,,You call this gun safe?
+Dialogue: 0,0:14:38.62,0:14:39.88,saint tail default,,0,0,0,,It's...
+Dialogue: 0,0:14:42.09,0:14:43.65,saint tail default,,0,0,0,,...show...
+Dialogue: 0,0:14:45.86,0:14:48.23,saint tail default,,0,0,0,,...time!
+Dialogue: 0,0:14:52.04,0:14:55.31,saint tail default,,0,0,0,,What are these things? Stop!
+Dialogue: 0,0:14:56.88,0:14:58.28,saint tail default,,0,0,0,,Here goes!
+Dialogue: 0,0:15:01.69,0:15:03.72,saint tail default,,0,0,0,,Now's my chance!
+Dialogue: 0,0:15:03.96,0:15:07.23,saint tail default,,0,0,0,,You're not getting away!
+Dialogue: 0,0:15:09.78,0:15:12.94,saint tail default,,0,0,0,,Damn! I'll reveal her identity!
+Dialogue: 0,0:15:14.92,0:15:16.41,saint tail default,,0,0,0,,Look out!
+Dialogue: 0,0:15:21.87,0:15:24.03,saint tail default,,0,0,0,,I won't let you get away!
+Dialogue: 0,0:15:25.61,0:15:27.16,saint tail default,,0,0,0,,Take that!
+Dialogue: 0,0:15:32.85,0:15:34.62,saint tail default,,0,0,0,,Here!
+Dialogue: 0,0:15:47.45,0:15:49.35,saint tail default,,0,0,0,,Stop, St. Tail!
+Dialogue: 0,0:15:49.55,0:15:51.18,saint tail default,,0,0,0,,I'll let you go today...
+Dialogue: 0,0:15:51.39,0:15:55.72,saint tail default,,0,0,0,,...only because I don't want\Nto capture you with machinery!
+Dialogue: 0,0:15:55.93,0:15:58.40,saint tail default,,0,0,0,,Thank you.
+Dialogue: 0,0:16:03.51,0:16:07.50,saint tail default,,0,0,0,,-Professor! Professor!\N-The egg, the egg.
+Dialogue: 0,0:16:07.75,0:16:10.48,saint tail default,,0,0,0,,Professor, snap out of it!
+Dialogue: 0,0:16:10.69,0:16:14.06,saint tail default,,0,0,0,,What was I doing? That's right!
+Dialogue: 0,0:16:14.27,0:16:19.50,saint tail default,,0,0,0,,I'm sure my computer grasped\NSt. Tail's true identity!
+Dialogue: 0,0:16:19.71,0:16:21.54,saint tail default,,0,0,0,,Are you sure?
+Dialogue: 0,0:16:21.75,0:16:24.48,saint tail default,,0,0,0,,St. Tail's identity.
+Dialogue: 0,0:16:25.09,0:16:28.25,saint tail default,,0,0,0,,Everything's in order!
+Dialogue: 0,0:16:30.80,0:16:32.26,saint tail default,,0,0,0,,What happened?
+Dialogue: 0,0:16:32.53,0:16:35.43,saint tail default,,0,0,0,,It's all white.
+Dialogue: 0,0:16:36.94,0:16:40.04,saint tail default,,0,0,0,,Hey, what's the meaning of this?
+Dialogue: 0,0:16:43.02,0:16:46.08,saint tail default,,0,0,0,,This is one of those pebbles\NSt. Tail threw.
+Dialogue: 0,0:16:46.29,0:16:49.82,saint tail default,,0,0,0,,-What is it, Dad?\N-Impossible!
+Dialogue: 0,0:16:50.70,0:16:53.86,saint tail default,,0,0,0,,Hey! Dad, isn't this a magnet?
+Dialogue: 0,0:16:54.07,0:16:57.48,saint tail default,,0,0,0,,I get it. These machines\Ndon't take to magnets.
+Dialogue: 0,0:16:57.78,0:17:03.69,saint tail default,,0,0,0,,That's ridiculous!\NBut the video should show her face.
+Dialogue: 0,0:17:07.70,0:17:14.04,saint tail default,,0,0,0,,My machines of the latest technology\Nwere thwarted by mere magnets. Damn!
+Dialogue: 0,0:17:18.69,0:17:20.32,saint tail default,,0,0,0,,What's that?
+Dialogue: 0,0:17:26.14,0:17:30.70,saint tail default,,0,0,0,,What's this?\NDad, it's the egg! The egg's back!
+Dialogue: 0,0:17:30.91,0:17:33.68,saint tail default,,0,0,0,,What did you say?
+Dialogue: 0,0:17:34.52,0:17:36.28,saint tail default,,0,0,0,,This.
+Dialogue: 0,0:17:37.32,0:17:41.12,saint tail default,,0,0,0,,Yutaka, I'm going to make\Na public apology.
+Dialogue: 0,0:17:41.93,0:17:43.92,saint tail default,,0,0,0,,About the egg being a fake?
+Dialogue: 0,0:17:44.51,0:17:50.00,saint tail default,,0,0,0,,Yes, and I'll ask everyone to help\Npreserve the island's natural state.
+Dialogue: 0,0:17:50.22,0:17:52.12,saint tail default,,0,0,0,,Dad.
+Dialogue: 0,0:17:54.72,0:17:56.75,saint tail default,,0,0,0,,I'm so glad.
+Dialogue: 0,0:17:57.53,0:18:00.43,saint tail default,,0,0,0,,-Good morning!\N-Good morning!
+Dialogue: 0,0:18:01.94,0:18:05.96,saint tail default,,0,0,0,,Professor Mochizuki was so very happy.
+Dialogue: 0,0:18:08.85,0:18:12.81,saint tail default,,0,0,0,,-Good morning, Meimi, Seira.\N-We'd better hurry!
+Dialogue: 0,0:18:13.43,0:18:16.12,saint tail default,,0,0,0,,-Please let us through!\N-Again?
+Dialogue: 0,0:18:17.33,0:18:19.56,saint tail default,,0,0,0,,Congratulations! I saw the paper.
+Dialogue: 0,0:18:19.77,0:18:24.61,saint tail default,,0,0,0,,The Apua bird's egg on\NJurassic lsland hatched, didn't it?
+Dialogue: 0,0:18:25.52,0:18:29.08,saint tail default,,0,0,0,,It's so neat! Please get me\Nyour father's autograph.
+Dialogue: 0,0:18:29.46,0:18:31.08,saint tail default,,0,0,0,,Well, I...
+Dialogue: 0,0:18:34.63,0:18:36.10,saint tail default,,0,0,0,,DR. HYUGA WENT BALD!
+Dialogue: 0,0:18:40.28,0:18:42.04,saint tail default,,0,0,0,,Good morning, Asuka Jr.
+Dialogue: 0,0:18:42.25,0:18:45.68,saint tail default,,0,0,0,,Did you see this?\NLook at that bald fool!
+Dialogue: 0,0:18:45.92,0:18:51.69,saint tail default,,0,0,0,,A bet's a bet. And he bet he could\Nreveal St. Tail's true identity.
+Dialogue: 0,0:18:52.27,0:18:57.23,saint tail default,,0,0,0,,I guess that means capturing St. Tail\Nshould be left to you, Asuka Jr.
+Dialogue: 0,0:18:57.44,0:19:02.18,saint tail default,,0,0,0,,That's right, because I'm the best.\NI know everything about St. Tail!
+Dialogue: 0,0:19:02.39,0:19:04.65,saint tail default,,0,0,0,,Though she's always getting away?
+Dialogue: 0,0:19:04.92,0:19:09.66,saint tail default,,0,0,0,,What did you say? I had a good reason\Nfor letting her go this time!
+Dialogue: 0,0:19:10.10,0:19:12.33,saint tail default,,0,0,0,,I know.
+Dialogue: 0,0:19:15.28,0:19:18.84,saint tail default,,0,0,0,,You said, "I don't want\Nto capture you with machinery!"
+Dialogue: 0,0:19:19.05,0:19:21.58,saint tail default,,0,0,0,,And you work so hard at it!

@@ -13,283 +13,287 @@ Video File: source/05.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,2.0,2.0,2,10,10,10,1
+Style: saint tail default,Calibri,80,&H00FBFBFB,&H000000FF,&H00373737,&H80373737,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,2,50,50,50,1
+Style: saint tail sign,Calibri,75,&H00D4FFED,&H000000FF,&H006E8E22,&HC7000000,-1,-1,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,8,50,50,50,1
+Style: saint tail title,Campanile,150,&H00EDE6FF,&H000000FF,&H009457EA,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
+Style: saint tail op en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
+Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,70,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.14,0:00:04.04,Default,,0,0,0,,Meimi Haneoka is 14 years old.
-Dialogue: 0,0:00:04.21,0:00:07.73,Default,,0,0,0,,By day she is a happy student\Nat St. Paulia School.
-Dialogue: 0,0:00:08.49,0:00:10.92,Default,,0,0,0,,But at night, she becomes\Nthe thief St. Tail...
-Dialogue: 0,0:00:10.96,0:00:13.39,Default,,0,0,0,,to do good deeds for all who\Ncome asking the help of Seira...
-Dialogue: 0,0:00:13.43,0:00:15.19,Default,,0,0,0,,a nun in training.
-Dialogue: 0,0:00:16.34,0:00:20.57,Default,,0,0,0,,Looking to capture the elusive\NSt. Tail is an amateur detective...
-Dialogue: 0,0:00:20.62,0:00:22.61,Default,,0,0,0,,and Meimi's classmate, Asuka Jr.
-Dialogue: 0,0:00:23.46,0:00:25.22,Default,,0,0,0,,As for Meimi...
-Dialogue: 0,0:00:25.26,0:00:28.25,Default,,0,0,0,,she may have more than a bit of\Ninterest in such a determined boy.
-Dialogue: 0,0:00:30.44,0:00:34.77,Default,,0,0,0,,Legend of Happiness?\NThe Clock Tower Commotion
-Dialogue: 0,0:00:44.81,0:00:47.71,Default,,0,0,0,,Did you see the ad\Nfor the Wonder Garden?
-Dialogue: 0,0:00:47.75,0:00:49.91,Default,,0,0,0,,It just opened this month.
-Dialogue: 0,0:00:50.26,0:00:52.62,Default,,0,0,0,,Oh, I love amusement parks!
-Dialogue: 0,0:00:52.83,0:00:55.23,Default,,0,0,0,,Actually, I've already been there.
-Dialogue: 0,0:00:56.34,0:00:57.70,Default,,0,0,0,,Who with?!
-Dialogue: 0,0:00:59.31,0:01:00.54,Default,,0,0,0,,If you must know...
-Dialogue: 0,0:01:02.89,0:01:05.29,Default,,0,0,0,,Look, it's Tominaga from class C!
-Dialogue: 0,0:01:05.53,0:01:06.69,Default,,0,0,0,,Since when?
-Dialogue: 0,0:01:07.50,0:01:11.37,Default,,0,0,0,,It's a wonderful place.\NThe flowers are really lovely.
-Dialogue: 0,0:01:11.48,0:01:14.24,Default,,0,0,0,,But the main attraction is... this!
-Dialogue: 0,0:01:15.65,0:01:17.88,Default,,0,0,0,,The mechanical clock\Nof Wonder Castle!
-Dialogue: 0,0:01:17.96,0:01:19.95,Default,,0,0,0,,The dolls move and it's so beautiful.
-Dialogue: 0,0:01:20.63,0:01:23.90,Default,,0,0,0,,It was built by a famous\Nforeign doll-maker.
-Dialogue: 0,0:01:24.14,0:01:27.74,Default,,0,0,0,,Every one of his creations\Ncosts a huge amount of money.
-Dialogue: 0,0:01:28.35,0:01:30.34,Default,,0,0,0,,Also, it's said that if...
-Dialogue: 0,0:01:30.39,0:01:34.83,Default,,0,0,0,,you watch this clock with the one\Nyou love, it'll bring happiness.
-Dialogue: 0,0:01:34.87,0:01:36.49,Default,,0,0,0,,And you watched it together!
-Dialogue: 0,0:01:36.94,0:01:37.77,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:01:38.28,0:01:39.74,Default,,0,0,0,,How wonderful!
-Dialogue: 0,0:01:40.18,0:01:43.88,Default,,0,0,0,,I'm jealous, I've never\Neven been on a date.
-Dialogue: 0,0:01:44.32,0:01:46.62,Default,,0,0,0,,Who do you want to date, Meimi?
-Dialogue: 0,0:01:46.70,0:01:50.15,Default,,0,0,0,,Don't tell me\Nyou want to date Asuka Jr.
-Dialogue: 0,0:01:50.64,0:01:51.97,Default,,0,0,0,,Don't be silly!
-Dialogue: 0,0:01:52.31,0:01:54.80,Default,,0,0,0,,Who'd want to date\Na dinky detective like him?!
-Dialogue: 0,0:01:55.15,0:01:56.74,Default,,0,0,0,,Just who do you think\Nyou're calling "dinky"?!
-Dialogue: 0,0:01:56.82,0:01:58.45,Default,,0,0,0,,If that bugs you,\Nwhy don't you go ahead...
-Dialogue: 0,0:01:58.49,0:02:00.15,Default,,0,0,0,,and catch St. Tail,\Nyou bungling detective!
-Dialogue: 0,0:02:00.23,0:02:03.17,Default,,0,0,0,,Even if I do capture her,\NI'm not letting you see her!
-Dialogue: 0,0:02:03.24,0:02:05.40,Default,,0,0,0,,Who cares, she's not like\Nsome beetle on display, is she?!
-Dialogue: 0,0:02:05.44,0:02:06.27,Default,,0,0,0,,Shut up!
-Dialogue: 0,0:02:06.35,0:02:07.51,Default,,0,0,0,,Same to you!
-Dialogue: 0,0:02:08.65,0:02:10.14,Default,,0,0,0,,Hey, Asuka!
-Dialogue: 0,0:02:10.62,0:02:12.35,Default,,0,0,0,,Yeah, I'm coming.
-Dialogue: 0,0:02:16.44,0:02:17.37,Default,,0,0,0,,Seira...
-Dialogue: 0,0:02:21.95,0:02:23.15,Default,,0,0,0,,What is it?
-Dialogue: 0,0:02:23.22,0:02:26.25,Default,,0,0,0,,Meimi, there's only one reason\Nwhy I would ask you to come here.
-Dialogue: 0,0:02:27.23,0:02:29.86,Default,,0,0,0,,I have a favor to ask of St. Tail.
-Dialogue: 0,0:02:30.41,0:02:32.34,Default,,0,0,0,,Something that only she can do.
-Dialogue: 0,0:02:33.15,0:02:34.61,Default,,0,0,0,,The doll at the amusement park?
-Dialogue: 0,0:02:34.68,0:02:36.98,Default,,0,0,0,,Yes, and it's located\Nin a very high place.
-Dialogue: 0,0:02:37.26,0:02:38.99,Default,,0,0,0,,You mean that amusement park?
-Dialogue: 0,0:02:39.23,0:02:41.75,Default,,0,0,0,,Yes, Wonder Garden\NAmusement Park.
-Dialogue: 0,0:02:41.87,0:02:43.80,Default,,0,0,0,,Then, by a high place,\Nyou must mean...
-Dialogue: 0,0:02:43.91,0:02:46.40,Default,,0,0,0,,The mechanical clock\Nof Wonder Castle.
-Dialogue: 0,0:02:47.25,0:02:50.27,Default,,0,0,0,,This girl tied a precious doll\Nthat she had brought with her...
-Dialogue: 0,0:02:50.32,0:02:52.29,Default,,0,0,0,,to the strings of her balloons.
-Dialogue: 0,0:02:52.49,0:02:54.12,Default,,0,0,0,,This is the doll you\Nwant me to get?
-Dialogue: 0,0:02:54.40,0:02:57.77,Default,,0,0,0,,Yes, she borrowed the doll\Nfrom a friend...
-Dialogue: 0,0:02:57.84,0:03:00.24,Default,,0,0,0,,and must return it\Nthe next time they meet.
-Dialogue: 0,0:03:01.22,0:03:02.44,Default,,0,0,0,,However...
-Dialogue: 0,0:03:17.09,0:03:18.72,Default,,0,0,0,,The doll!
-Dialogue: 0,0:03:40.65,0:03:43.08,Default,,0,0,0,,They contacted the\Namusement park...
-Dialogue: 0,0:03:43.35,0:03:47.31,Default,,0,0,0,,but were told to forget\Nabout the doll.
-Dialogue: 0,0:03:47.87,0:03:50.06,Default,,0,0,0,,All I have to do is\Nget the doll back.
-Dialogue: 0,0:03:50.34,0:03:51.77,Default,,0,0,0,,That's easy.
-Dialogue: 0,0:03:51.81,0:03:53.80,Default,,0,0,0,,Only, you have to get\Nit back by Sunday.
-Dialogue: 0,0:03:53.98,0:03:56.51,Default,,0,0,0,,Sunday... that's tomorrow.
-Dialogue: 0,0:03:57.06,0:04:01.93,Default,,0,0,0,,The doll's owner is coming to the\Ngirl's house tomorrow to play.
-Dialogue: 0,0:04:02.07,0:04:03.04,Default,,0,0,0,,She needs it by then.
-Dialogue: 0,0:04:03.10,0:04:04.83,Default,,0,0,0,,Which means I have\Nto do it tonight.
-Dialogue: 0,0:04:04.91,0:04:08.44,Default,,0,0,0,,And the doll emerges from\Nthe clock on the hour.
-Dialogue: 0,0:04:09.32,0:04:12.29,Default,,0,0,0,,So you have to get the doll\Nbefore the balloon carries it away.
-Dialogue: 0,0:04:12.46,0:04:14.45,Default,,0,0,0,,Okay, leave it to me.
-Dialogue: 0,0:04:17.94,0:04:19.07,Default,,0,0,0,,I'm home!
-Dialogue: 0,0:04:19.85,0:04:21.21,Default,,0,0,0,,Welcome back, Meimi.
-Dialogue: 0,0:04:21.85,0:04:23.25,Default,,0,0,0,,What's up?
-Dialogue: 0,0:04:23.39,0:04:24.15,Default,,0,0,0,,This...
-Dialogue: 0,0:04:24.56,0:04:26.32,Default,,0,0,0,,You haven't gone\Nthere yet, have you?
-Dialogue: 0,0:04:26.36,0:04:28.26,Default,,0,0,0,,Huh...? No.
-Dialogue: 0,0:04:28.63,0:04:33.07,Default,,0,0,0,,We were just about to go.\NDo you want to come, too?
-Dialogue: 0,0:04:35.72,0:04:38.38,Default,,0,0,0,,It'll complicate things\Nif I go with them...
-Dialogue: 0,0:04:38.79,0:04:40.85,Default,,0,0,0,,You want to go, don't you?
-Dialogue: 0,0:04:41.03,0:04:42.02,Default,,0,0,0,,Yes.
-Dialogue: 0,0:04:42.27,0:04:43.50,Default,,0,0,0,,Good.
-Dialogue: 0,0:04:43.61,0:04:47.27,Default,,0,0,0,,Besides, you might find\Nsome ideas for new magic tricks.
-Dialogue: 0,0:04:48.82,0:04:51.31,Default,,0,0,0,,Jeez, they always use\Nme as an excuse.
-Dialogue: 0,0:04:56.60,0:04:58.16,Default,,0,0,0,,You want to come?
-Dialogue: 0,0:04:58.98,0:05:01.34,Default,,0,0,0,,But I've got work to do...
-Dialogue: 0,0:05:02.15,0:05:03.92,Default,,0,0,0,,Ready yet?
-Dialogue: 0,0:05:04.16,0:05:05.59,Default,,0,0,0,,Almost.
-Dialogue: 0,0:05:06.53,0:05:08.76,Default,,0,0,0,,I want you to stay home\Nand watch the house.
-Dialogue: 0,0:05:18.76,0:05:21.25,Default,,0,0,0,,It's been a long time since I've\Nbeen to an amusement park.
-Dialogue: 0,0:05:22.47,0:05:24.53,Default,,0,0,0,,It's time for the doll to come out.
-Dialogue: 0,0:05:25.44,0:05:27.67,Default,,0,0,0,,Hey, hey... what's the rush?
-Dialogue: 0,0:05:28.62,0:05:30.59,Default,,0,0,0,,I have something I want to see!
-Dialogue: 0,0:05:37.21,0:05:38.40,Default,,0,0,0,,There.
-Dialogue: 0,0:05:38.58,0:05:40.07,Default,,0,0,0,,It's almost time.
-Dialogue: 0,0:05:44.22,0:05:45.38,Default,,0,0,0,,Asuka Jr.!
-Dialogue: 0,0:05:45.43,0:05:46.49,Default,,0,0,0,,Haneoka!
-Dialogue: 0,0:05:46.53,0:05:48.90,Default,,0,0,0,,What brings you here?
-Dialogue: 0,0:05:48.94,0:05:52.20,Default,,0,0,0,,To have fun... what else?
-Dialogue: 0,0:05:52.58,0:05:55.17,Default,,0,0,0,,Yeah, that makes sense.
-Dialogue: 0,0:05:55.49,0:05:58.65,Default,,0,0,0,,So that's the clock tower\Nthe girls were fussing over?
-Dialogue: 0,0:06:03.87,0:06:05.67,Default,,0,0,0,,When you watch it with\Nthe one you love...
-Dialogue: 0,0:06:05.74,0:06:07.04,Default,,0,0,0,,it brings happiness.
-Dialogue: 0,0:06:11.49,0:06:13.65,Default,,0,0,0,,Why don't they come out?
-Dialogue: 0,0:06:14.63,0:06:17.07,Default,,0,0,0,,Hey there, what's going on?
-Dialogue: 0,0:06:17.14,0:06:18.87,Default,,0,0,0,,Is something wrong?
-Dialogue: 0,0:06:18.91,0:06:20.81,Default,,0,0,0,,It's just some malfunction.
-Dialogue: 0,0:06:20.85,0:06:23.75,Default,,0,0,0,,There's a temp repairman here,\Nif I remember correctly.
-Dialogue: 0,0:06:23.79,0:06:25.42,Default,,0,0,0,,Yes, I'll get him!
-Dialogue: 0,0:06:27.23,0:06:29.06,Default,,0,0,0,,They say it's just\Nsome malfunction.
-Dialogue: 0,0:06:29.10,0:06:30.26,Default,,0,0,0,,See you.
-Dialogue: 0,0:06:33.41,0:06:35.51,Default,,0,0,0,,Ah! ...My balloon!
-Dialogue: 0,0:06:36.69,0:06:37.88,Default,,0,0,0,,That's right.
-Dialogue: 0,0:06:37.93,0:06:40.12,Default,,0,0,0,,At least I can check\Nif the balloons are still there.
-Dialogue: 0,0:06:40.33,0:06:42.26,Default,,0,0,0,,Too bad, Meimi.
-Dialogue: 0,0:06:42.44,0:06:46.27,Default,,0,0,0,,I'm going to go get some ice cream.
-Dialogue: 0,0:06:48.05,0:06:51.65,Default,,0,0,0,,"Employees Only"
-Dialogue: 0,0:07:00.01,0:07:02.61,Default,,0,0,0,,Oh, it's a costume.
-Dialogue: 0,0:07:08.94,0:07:11.27,Default,,0,0,0,,Good, it's still there.
-Dialogue: 0,0:07:16.79,0:07:18.15,Default,,0,0,0,,Good work.
-Dialogue: 0,0:07:18.83,0:07:21.29,Default,,0,0,0,,All I did was remove a gear.
-Dialogue: 0,0:07:21.33,0:07:22.66,Default,,0,0,0,,Piece of cake.
-Dialogue: 0,0:07:22.70,0:07:24.97,Default,,0,0,0,,The big job's coming up.
-Dialogue: 0,0:07:28.05,0:07:29.57,Default,,0,0,0,,Identical dolls.
-Dialogue: 0,0:07:29.65,0:07:31.68,Default,,0,0,0,,Why bother with all this stuff?
-Dialogue: 0,0:07:31.73,0:07:34.02,Default,,0,0,0,,Why not just go ahead and steal it?
-Dialogue: 0,0:07:34.17,0:07:36.33,Default,,0,0,0,,The police are on guard.
-Dialogue: 0,0:07:36.40,0:07:38.50,Default,,0,0,0,,Sometimes it's better\Nto use your brain.
-Dialogue: 0,0:07:39.24,0:07:40.54,Default,,0,0,0,,Well, faking a malfunction...
-Dialogue: 0,0:07:40.58,0:07:42.78,Default,,0,0,0,,and switching the dolls\Nduring the repair...
-Dialogue: 0,0:07:42.82,0:07:44.01,Default,,0,0,0,,I guess that's using your brain.
-Dialogue: 0,0:07:44.32,0:07:46.31,Default,,0,0,0,,Which means those are all fakes!
-Dialogue: 0,0:07:47.67,0:07:49.16,Default,,0,0,0,,Who's there?!
-Dialogue: 0,0:07:52.41,0:07:54.85,Default,,0,0,0,,Cool it! It's nothing!
-Dialogue: 0,0:07:55.08,0:07:57.64,Default,,0,0,0,,Okay, let's get to work.
-Dialogue: 0,0:08:06.55,0:08:07.91,Default,,0,0,0,,They won't\Nget away with this!
-Dialogue: 0,0:08:11.63,0:08:12.89,Default,,0,0,0,,Bye.
-Dialogue: 0,0:08:15.97,0:08:18.13,Default,,0,0,0,,Please come by.
-Dialogue: 0,0:08:23.72,0:08:26.45,Default,,0,0,0,,It's an ad for Wonder Garden.
-Dialogue: 0,0:08:27.70,0:08:32.86,Default,,0,0,0,,"I'm going to Wonder Garden\Ntonight to get the doll... St. Tail."
-Dialogue: 0,0:08:32.91,0:08:33.94,Default,,0,0,0,,How dare she!
-Dialogue: 0,0:08:33.98,0:08:35.38,Default,,0,0,0,,She was in that\Nrabbit costume!
-Dialogue: 0,0:08:42.70,0:08:44.83,Default,,0,0,0,,I'll return this later.
-Dialogue: 0,0:08:45.01,0:08:46.31,Default,,0,0,0,,Haneoka!
-Dialogue: 0,0:08:48.95,0:08:50.18,Default,,0,0,0,,What?!
-Dialogue: 0,0:08:50.22,0:08:51.88,Default,,0,0,0,,That amusement park...
-Dialogue: 0,0:08:53.50,0:08:55.66,Default,,0,0,0,,That clock at Wonder Castle\Nwith the dolls that's said to...
-Dialogue: 0,0:08:57.34,0:08:58.77,Default,,0,0,0,,You mean...
-Dialogue: 0,0:08:59.14,0:09:03.10,Default,,0,0,0,,bring happiness to couples when\Nthey view it together.
-Dialogue: 0,0:09:03.19,0:09:04.31,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:09:04.36,0:09:07.16,Default,,0,0,0,,Is he trying to ask\Nme to go with him?
-Dialogue: 0,0:09:08.37,0:09:10.03,Default,,0,0,0,,About how much is it worth?
-Dialogue: 0,0:09:10.51,0:09:12.17,Default,,0,0,0,,Excuse me?
-Dialogue: 0,0:09:12.58,0:09:15.10,Default,,0,0,0,,Is it true that it's very expensive?
-Dialogue: 0,0:09:15.28,0:09:17.45,Default,,0,0,0,,It's supposed to be.
-Dialogue: 0,0:09:17.72,0:09:21.56,Default,,0,0,0,,Why would she do\Nsomething so villainous?!
-Dialogue: 0,0:09:24.11,0:09:26.23,Default,,0,0,0,,I got it, never mind.
-Dialogue: 0,0:09:26.45,0:09:27.47,Default,,0,0,0,,See you.
-Dialogue: 0,0:09:30.46,0:09:32.45,Default,,0,0,0,,What's with him, anyway!
-Dialogue: 0,0:09:33.03,0:09:34.52,Default,,0,0,0,,I hate him!
-Dialogue: 0,0:09:50.87,0:09:53.00,Default,,0,0,0,,He's so insensitive.
-Dialogue: 0,0:09:53.55,0:09:55.85,Default,,0,0,0,,Oh, look who's grouchy.
-Dialogue: 0,0:09:57.99,0:10:00.62,Default,,0,0,0,,I'll take you the next time I go.
-Dialogue: 0,0:10:02.44,0:10:04.34,Default,,0,0,0,,I've got to get to work.
-Dialogue: 0,0:10:05.48,0:10:06.88,Default,,0,0,0,,Meimi.
-Dialogue: 0,0:10:12.96,0:10:14.16,Default,,0,0,0,,Meimi?
-Dialogue: 0,0:10:14.23,0:10:15.46,Default,,0,0,0,,Are you there?
-Dialogue: 0,0:10:16.07,0:10:17.13,Default,,0,0,0,,Oh, no!
-Dialogue: 0,0:10:17.61,0:10:18.84,Default,,0,0,0,,What's wrong?
-Dialogue: 0,0:10:18.94,0:10:20.47,Default,,0,0,0,,She's not answering.
-Dialogue: 0,0:10:24.46,0:10:27.12,Default,,0,0,0,,What are you doing over there?
-Dialogue: 0,0:10:30.04,0:10:32.51,Default,,0,0,0,,I was thinking of going to\Nget some juice or something.
-Dialogue: 0,0:10:33.28,0:10:34.47,Default,,0,0,0,,From the window?
-Dialogue: 0,0:10:34.52,0:10:36.48,Default,,0,0,0,,I thought I'd try something new.
-Dialogue: 0,0:10:37.59,0:10:39.25,Default,,0,0,0,,I'll be off, then.
-Dialogue: 0,0:10:40.66,0:10:43.63,Default,,0,0,0,,Going in and out\Nof the window at night.
-Dialogue: 0,0:10:44.11,0:10:46.44,Default,,0,0,0,,She's my girl, all right.
-Dialogue: 0,0:11:03.82,0:11:07.49,Default,,0,0,0,,Please forgive me,\Nfor I use no gimmick or trick.
-Dialogue: 0,0:11:12.78,0:11:13.90,Default,,0,0,0,,One!
-Dialogue: 0,0:11:15.79,0:11:16.88,Default,,0,0,0,,Two!
-Dialogue: 0,0:11:19.36,0:11:21.02,Default,,0,0,0,,Three!
-Dialogue: 0,0:11:36.64,0:11:40.44,Default,,0,0,0,,May the blessings\Nof God be with us.
-Dialogue: 0,0:11:59.60,0:12:03.66,Default,,0,0,0,,That doll was specially made.\NIt's invaluable...
-Dialogue: 0,0:12:03.71,0:12:06.44,Default,,0,0,0,,There's only one of its\Nkind in the world.
-Dialogue: 0,0:12:06.48,0:12:08.45,Default,,0,0,0,,If it were ever stolen...
-Dialogue: 0,0:12:08.75,0:12:10.19,Default,,0,0,0,,Please be rest assured...
-Dialogue: 0,0:12:10.49,0:12:13.69,Default,,0,0,0,,St. Tail always has some\Nreason for stealing.
-Dialogue: 0,0:12:13.93,0:12:15.19,Default,,0,0,0,,I'm sure it's the same this time.
-Dialogue: 0,0:12:15.23,0:12:16.79,Default,,0,0,0,,You can't be too sure.
-Dialogue: 0,0:12:16.84,0:12:17.67,Default,,0,0,0,,Dad!
-Dialogue: 0,0:12:17.71,0:12:22.51,Default,,0,0,0,,If the latest artwork thefts\Nare the work of St. Tail...
-Dialogue: 0,0:12:22.85,0:12:25.12,Default,,0,0,0,,then everything falls into place.
-Dialogue: 0,0:12:25.49,0:12:27.19,Default,,0,0,0,,No, it can't be.
-Dialogue: 0,0:12:27.30,0:12:28.99,Default,,0,0,0,,You're still green, son.
-Dialogue: 0,0:12:29.04,0:12:31.97,Default,,0,0,0,,She may be called "Saint", but\Nshe's no more than a thief.
-Dialogue: 0,0:12:33.38,0:12:35.87,Default,,0,0,0,,I'm done with the repairs for now.
-Dialogue: 0,0:12:36.29,0:12:37.55,Default,,0,0,0,,All right, thanks.
-Dialogue: 0,0:12:37.59,0:12:38.56,Default,,0,0,0,,Don't mention it.
-Dialogue: 0,0:12:39.13,0:12:40.12,Default,,0,0,0,,What an idiot.
-Dialogue: 0,0:12:40.50,0:12:42.59,Default,,0,0,0,,If St. Tail is going to appear...
-Dialogue: 0,0:12:43.04,0:12:45.80,Default,,0,0,0,,it'll be when the dolls come out.
-Dialogue: 0,0:12:48.32,0:12:49.41,Default,,0,0,0,,What the...?!
-Dialogue: 0,0:13:04.42,0:13:07.29,Default,,0,0,0,,"These dolls are fake!\NSt. Tail"
-Dialogue: 0,0:13:07.73,0:13:08.79,Default,,0,0,0,,St. Tail!
-Dialogue: 0,0:13:09.10,0:13:10.36,Default,,0,0,0,,When did she...?!
-Dialogue: 0,0:13:10.77,0:13:13.26,Default,,0,0,0,,Don't tell me she\Nswitched them with fakes!
-Dialogue: 0,0:13:15.05,0:13:16.48,Default,,0,0,0,,St. Tail! Where is she?!
-Dialogue: 0,0:13:16.56,0:13:18.55,Default,,0,0,0,,Stay calm, don't leave your posts!
-Dialogue: 0,0:13:20.20,0:13:23.13,Default,,0,0,0,,They still don't get it?\NTalk about dense.
-Dialogue: 0,0:13:29.09,0:13:30.38,Default,,0,0,0,,I won't let you get away!
-Dialogue: 0,0:13:34.07,0:13:36.26,Default,,0,0,0,,She's trying to confuse us\Nwith bits of paper!
-Dialogue: 0,0:13:36.84,0:13:38.77,Default,,0,0,0,,I can see right through you.
-Dialogue: 0,0:13:39.08,0:13:40.84,Default,,0,0,0,,Light her face up! Her face!
-Dialogue: 0,0:13:42.09,0:13:45.49,Default,,0,0,0,,I can see right through you, too!\NIf you want to light up something...
-Dialogue: 0,0:13:45.66,0:13:47.42,Default,,0,0,0,,leave it to St. Tail!
-Dialogue: 0,0:13:48.60,0:13:51.40,Default,,0,0,0,,It's Show Time!
-Dialogue: 0,0:13:53.45,0:13:55.28,Default,,0,0,0,,The lights are moving by themselves!
-Dialogue: 0,0:14:15.67,0:14:16.97,Default,,0,0,0,,What's going on?
-Dialogue: 0,0:14:17.17,0:14:19.70,Default,,0,0,0,,We don't light up at night.
-Dialogue: 0,0:14:20.01,0:14:21.41,Default,,0,0,0,,Now for the real show.
-Dialogue: 0,0:14:28.43,0:14:30.20,Default,,0,0,0,,Hold it! St. Tail!
-Dialogue: 0,0:14:43.81,0:14:44.97,Default,,0,0,0,,I can't see!
-Dialogue: 0,0:15:08.13,0:15:09.50,Default,,0,0,0,,Identical dolls.
-Dialogue: 0,0:15:10.64,0:15:11.47,Default,,0,0,0,,These!
-Dialogue: 0,0:15:11.54,0:15:12.80,Default,,0,0,0,,These are the real ones!
-Dialogue: 0,0:15:12.91,0:15:15.47,Default,,0,0,0,,And there's the statue\Nthat was stolen last week.
-Dialogue: 0,0:15:16.45,0:15:17.48,Default,,0,0,0,,Dad!
-Dialogue: 0,0:15:21.83,0:15:23.36,Default,,0,0,0,,You're under arrest!
-Dialogue: 0,0:15:29.19,0:15:30.85,Default,,0,0,0,,Ouch, you're squashing me, too!
-Dialogue: 0,0:15:46.96,0:15:48.06,Default,,0,0,0,,St. Tail!
-Dialogue: 0,0:15:54.62,0:15:56.61,Default,,0,0,0,,The rest of you, go after St. Tail!
-Dialogue: 0,0:16:00.80,0:16:02.06,Default,,0,0,0,,Here goes.
-Dialogue: 0,0:16:02.17,0:16:02.83,Default,,0,0,0,,One...
-Dialogue: 0,0:16:03.04,0:16:03.90,Default,,0,0,0,,Two...
-Dialogue: 0,0:16:04.04,0:16:05.34,Default,,0,0,0,,Three!
-Dialogue: 0,0:16:11.49,0:16:12.46,Default,,0,0,0,,Asuka Jr!
-Dialogue: 0,0:16:12.69,0:16:14.29,Default,,0,0,0,,Which one should we arrest?!
-Dialogue: 0,0:16:14.70,0:16:16.17,Default,,0,0,0,,Yikes!
-Dialogue: 0,0:16:18.31,0:16:19.78,Default,,0,0,0,,What the...?!
-Dialogue: 0,0:16:19.85,0:16:22.91,Default,,0,0,0,,Do you have a St. Tail parade\Nor something at this amusement park?!
-Dialogue: 0,0:16:23.02,0:16:24.82,Default,,0,0,0,,Of course not!
-Dialogue: 0,0:16:31.68,0:16:33.14,Default,,0,0,0,,I lost her.
-Dialogue: 0,0:16:35.18,0:16:38.85,Default,,0,0,0,,Fantastic, isn't it?\NSt. Tail's illusion parade!
-Dialogue: 0,0:16:39.66,0:16:44.16,Default,,0,0,0,,There's no way to\Nfind me in all this.
-Dialogue: 0,0:17:03.25,0:17:04.24,Default,,0,0,0,,No way!
-Dialogue: 0,0:17:04.79,0:17:05.85,Default,,0,0,0,,Don't underestimate me.
-Dialogue: 0,0:17:05.93,0:17:08.52,Default,,0,0,0,,No matter where you go...\NI'll find you!
-Dialogue: 0,0:17:09.10,0:17:10.26,Default,,0,0,0,,How?
-Dialogue: 0,0:17:12.71,0:17:13.94,Default,,0,0,0,,You're not getting away!
-Dialogue: 0,0:17:16.12,0:17:18.38,Default,,0,0,0,,Asuka Jr.! That's dangerous!
-Dialogue: 0,0:17:25.38,0:17:26.47,Default,,0,0,0,,Fool!
-Dialogue: 0,0:17:26.55,0:17:27.84,Default,,0,0,0,,I won't...
-Dialogue: 0,0:17:28.82,0:17:30.48,Default,,0,0,0,,miss this chance!
-Dialogue: 0,0:17:36.37,0:17:38.84,Default,,0,0,0,,Like I said... I'm taking\Nthe doll with me!
-Dialogue: 0,0:17:39.04,0:17:40.34,Default,,0,0,0,,The doll...
-Dialogue: 0,0:17:41.38,0:17:43.58,Default,,0,0,0,,That's the doll\Nyou wanted?
-Dialogue: 0,0:17:44.12,0:17:47.86,Default,,0,0,0,,If you had asked me out,\Nit would've made me happy.
-Dialogue: 0,0:17:49.34,0:17:50.20,Default,,0,0,0,,But...
-Dialogue: 0,0:17:51.48,0:17:53.03,Default,,0,0,0,,it turned out to be\Nlike a date, anyway!
-Dialogue: 0,0:17:53.08,0:17:54.60,Default,,0,0,0,,I really enjoyed myself!
-Dialogue: 0,0:17:55.39,0:17:56.37,Default,,0,0,0,,Date...?
-Dialogue: 0,0:17:57.56,0:17:59.02,Default,,0,0,0,,Cut the jokes!
-Dialogue: 0,0:18:04.47,0:18:06.41,Default,,0,0,0,,I'm serious, you know!
-Dialogue: 0,0:18:15.40,0:18:18.53,Default,,0,0,0,,I'm serious... darn.
-Dialogue: 0,0:18:20.82,0:18:22.98,Default,,0,0,0,,Thank you, Asuka Jr.
-Dialogue: 0,0:18:23.36,0:18:27.79,Default,,0,0,0,,All of the dolls have been recovered,\Nthanks to you.
-Dialogue: 0,0:18:27.97,0:18:32.80,Default,,0,0,0,,Those two turned out to be the ones\Nresponsible for the art thefts.
-Dialogue: 0,0:18:33.45,0:18:36.97,Default,,0,0,0,,I thought it was strange\Nfor her to do such a thing.
-Dialogue: 0,0:18:37.12,0:18:37.78,Default,,0,0,0,,What?
-Dialogue: 0,0:18:38.03,0:18:40.08,Default,,0,0,0,,No, it's nothing.
-Dialogue: 0,0:18:53.33,0:18:55.89,Default,,0,0,0,,Don't ever tie it to\Na balloon again.
-Dialogue: 0,0:19:06.73,0:19:09.72,Default,,0,0,0,,It brings happiness if you watch it\Ntogether with the one you love.
-Dialogue: 0,0:19:10.14,0:19:11.70,Default,,0,0,0,,Well, who cares...
-Dialogue: 0,0:19:11.94,0:19:16.94,Default,,0,0,0,,My nights are always filled\Nwith the prospect of happiness.
+Dialogue: 0,0:00:02.14,0:00:04.04,saint tail default,,0,0,0,,Meimi Haneoka is 14 years old.
+Dialogue: 0,0:00:04.21,0:00:07.73,saint tail default,,0,0,0,,By day she is a happy student\Nat St. Paulia School.
+Dialogue: 0,0:00:08.49,0:00:10.92,saint tail default,,0,0,0,,But at night, she becomes\Nthe thief St. Tail...
+Dialogue: 0,0:00:10.96,0:00:13.39,saint tail default,,0,0,0,,to do good deeds for all who\Ncome asking the help of Seira...
+Dialogue: 0,0:00:13.43,0:00:15.19,saint tail default,,0,0,0,,a nun in training.
+Dialogue: 0,0:00:16.34,0:00:20.57,saint tail default,,0,0,0,,Looking to capture the elusive\NSt. Tail is an amateur detective...
+Dialogue: 0,0:00:20.62,0:00:22.61,saint tail default,,0,0,0,,and Meimi's classmate, Asuka Jr.
+Dialogue: 0,0:00:23.46,0:00:25.22,saint tail default,,0,0,0,,As for Meimi...
+Dialogue: 0,0:00:25.26,0:00:28.25,saint tail default,,0,0,0,,she may have more than a bit of\Ninterest in such a determined boy.
+Dialogue: 0,0:00:30.44,0:00:34.77,saint tail default,,0,0,0,,Legend of Happiness?\NThe Clock Tower Commotion
+Dialogue: 0,0:00:44.81,0:00:47.71,saint tail default,,0,0,0,,Did you see the ad\Nfor the Wonder Garden?
+Dialogue: 0,0:00:47.75,0:00:49.91,saint tail default,,0,0,0,,It just opened this month.
+Dialogue: 0,0:00:50.26,0:00:52.62,saint tail default,,0,0,0,,Oh, I love amusement parks!
+Dialogue: 0,0:00:52.83,0:00:55.23,saint tail default,,0,0,0,,Actually, I've already been there.
+Dialogue: 0,0:00:56.34,0:00:57.70,saint tail default,,0,0,0,,Who with?!
+Dialogue: 0,0:00:59.31,0:01:00.54,saint tail default,,0,0,0,,If you must know...
+Dialogue: 0,0:01:02.89,0:01:05.29,saint tail default,,0,0,0,,Look, it's Tominaga from class C!
+Dialogue: 0,0:01:05.53,0:01:06.69,saint tail default,,0,0,0,,Since when?
+Dialogue: 0,0:01:07.50,0:01:11.37,saint tail default,,0,0,0,,It's a wonderful place.\NThe flowers are really lovely.
+Dialogue: 0,0:01:11.48,0:01:14.24,saint tail default,,0,0,0,,But the main attraction is... this!
+Dialogue: 0,0:01:15.65,0:01:17.88,saint tail default,,0,0,0,,The mechanical clock\Nof Wonder Castle!
+Dialogue: 0,0:01:17.96,0:01:19.95,saint tail default,,0,0,0,,The dolls move and it's so beautiful.
+Dialogue: 0,0:01:20.63,0:01:23.90,saint tail default,,0,0,0,,It was built by a famous\Nforeign doll-maker.
+Dialogue: 0,0:01:24.14,0:01:27.74,saint tail default,,0,0,0,,Every one of his creations\Ncosts a huge amount of money.
+Dialogue: 0,0:01:28.35,0:01:30.34,saint tail default,,0,0,0,,Also, it's said that if...
+Dialogue: 0,0:01:30.39,0:01:34.83,saint tail default,,0,0,0,,you watch this clock with the one\Nyou love, it'll bring happiness.
+Dialogue: 0,0:01:34.87,0:01:36.49,saint tail default,,0,0,0,,And you watched it together!
+Dialogue: 0,0:01:36.94,0:01:37.77,saint tail default,,0,0,0,,Yeah.
+Dialogue: 0,0:01:38.28,0:01:39.74,saint tail default,,0,0,0,,How wonderful!
+Dialogue: 0,0:01:40.18,0:01:43.88,saint tail default,,0,0,0,,I'm jealous, I've never\Neven been on a date.
+Dialogue: 0,0:01:44.32,0:01:46.62,saint tail default,,0,0,0,,Who do you want to date, Meimi?
+Dialogue: 0,0:01:46.70,0:01:50.15,saint tail default,,0,0,0,,Don't tell me\Nyou want to date Asuka Jr.
+Dialogue: 0,0:01:50.64,0:01:51.97,saint tail default,,0,0,0,,Don't be silly!
+Dialogue: 0,0:01:52.31,0:01:54.80,saint tail default,,0,0,0,,Who'd want to date\Na dinky detective like him?!
+Dialogue: 0,0:01:55.15,0:01:56.74,saint tail default,,0,0,0,,Just who do you think\Nyou're calling "dinky"?!
+Dialogue: 0,0:01:56.82,0:01:58.45,saint tail default,,0,0,0,,If that bugs you,\Nwhy don't you go ahead...
+Dialogue: 0,0:01:58.49,0:02:00.15,saint tail default,,0,0,0,,and catch St. Tail,\Nyou bungling detective!
+Dialogue: 0,0:02:00.23,0:02:03.17,saint tail default,,0,0,0,,Even if I do capture her,\NI'm not letting you see her!
+Dialogue: 0,0:02:03.24,0:02:05.40,saint tail default,,0,0,0,,Who cares, she's not like\Nsome beetle on display, is she?!
+Dialogue: 0,0:02:05.44,0:02:06.27,saint tail default,,0,0,0,,Shut up!
+Dialogue: 0,0:02:06.35,0:02:07.51,saint tail default,,0,0,0,,Same to you!
+Dialogue: 0,0:02:08.65,0:02:10.14,saint tail default,,0,0,0,,Hey, Asuka!
+Dialogue: 0,0:02:10.62,0:02:12.35,saint tail default,,0,0,0,,Yeah, I'm coming.
+Dialogue: 0,0:02:16.44,0:02:17.37,saint tail default,,0,0,0,,Seira...
+Dialogue: 0,0:02:21.95,0:02:23.15,saint tail default,,0,0,0,,What is it?
+Dialogue: 0,0:02:23.22,0:02:26.25,saint tail default,,0,0,0,,Meimi, there's only one reason\Nwhy I would ask you to come here.
+Dialogue: 0,0:02:27.23,0:02:29.86,saint tail default,,0,0,0,,I have a favor to ask of St. Tail.
+Dialogue: 0,0:02:30.41,0:02:32.34,saint tail default,,0,0,0,,Something that only she can do.
+Dialogue: 0,0:02:33.15,0:02:34.61,saint tail default,,0,0,0,,The doll at the amusement park?
+Dialogue: 0,0:02:34.68,0:02:36.98,saint tail default,,0,0,0,,Yes, and it's located\Nin a very high place.
+Dialogue: 0,0:02:37.26,0:02:38.99,saint tail default,,0,0,0,,You mean that amusement park?
+Dialogue: 0,0:02:39.23,0:02:41.75,saint tail default,,0,0,0,,Yes, Wonder Garden\NAmusement Park.
+Dialogue: 0,0:02:41.87,0:02:43.80,saint tail default,,0,0,0,,Then, by a high place,\Nyou must mean...
+Dialogue: 0,0:02:43.91,0:02:46.40,saint tail default,,0,0,0,,The mechanical clock\Nof Wonder Castle.
+Dialogue: 0,0:02:47.25,0:02:50.27,saint tail default,,0,0,0,,This girl tied a precious doll\Nthat she had brought with her...
+Dialogue: 0,0:02:50.32,0:02:52.29,saint tail default,,0,0,0,,to the strings of her balloons.
+Dialogue: 0,0:02:52.49,0:02:54.12,saint tail default,,0,0,0,,This is the doll you\Nwant me to get?
+Dialogue: 0,0:02:54.40,0:02:57.77,saint tail default,,0,0,0,,Yes, she borrowed the doll\Nfrom a friend...
+Dialogue: 0,0:02:57.84,0:03:00.24,saint tail default,,0,0,0,,and must return it\Nthe next time they meet.
+Dialogue: 0,0:03:01.22,0:03:02.44,saint tail default,,0,0,0,,However...
+Dialogue: 0,0:03:17.09,0:03:18.72,saint tail default,,0,0,0,,The doll!
+Dialogue: 0,0:03:40.65,0:03:43.08,saint tail default,,0,0,0,,They contacted the\Namusement park...
+Dialogue: 0,0:03:43.35,0:03:47.31,saint tail default,,0,0,0,,but were told to forget\Nabout the doll.
+Dialogue: 0,0:03:47.87,0:03:50.06,saint tail default,,0,0,0,,All I have to do is\Nget the doll back.
+Dialogue: 0,0:03:50.34,0:03:51.77,saint tail default,,0,0,0,,That's easy.
+Dialogue: 0,0:03:51.81,0:03:53.80,saint tail default,,0,0,0,,Only, you have to get\Nit back by Sunday.
+Dialogue: 0,0:03:53.98,0:03:56.51,saint tail default,,0,0,0,,Sunday... that's tomorrow.
+Dialogue: 0,0:03:57.06,0:04:01.93,saint tail default,,0,0,0,,The doll's owner is coming to the\Ngirl's house tomorrow to play.
+Dialogue: 0,0:04:02.07,0:04:03.04,saint tail default,,0,0,0,,She needs it by then.
+Dialogue: 0,0:04:03.10,0:04:04.83,saint tail default,,0,0,0,,Which means I have\Nto do it tonight.
+Dialogue: 0,0:04:04.91,0:04:08.44,saint tail default,,0,0,0,,And the doll emerges from\Nthe clock on the hour.
+Dialogue: 0,0:04:09.32,0:04:12.29,saint tail default,,0,0,0,,So you have to get the doll\Nbefore the balloon carries it away.
+Dialogue: 0,0:04:12.46,0:04:14.45,saint tail default,,0,0,0,,Okay, leave it to me.
+Dialogue: 0,0:04:17.94,0:04:19.07,saint tail default,,0,0,0,,I'm home!
+Dialogue: 0,0:04:19.85,0:04:21.21,saint tail default,,0,0,0,,Welcome back, Meimi.
+Dialogue: 0,0:04:21.85,0:04:23.25,saint tail default,,0,0,0,,What's up?
+Dialogue: 0,0:04:23.39,0:04:24.15,saint tail default,,0,0,0,,This...
+Dialogue: 0,0:04:24.56,0:04:26.32,saint tail default,,0,0,0,,You haven't gone\Nthere yet, have you?
+Dialogue: 0,0:04:26.36,0:04:28.26,saint tail default,,0,0,0,,Huh...? No.
+Dialogue: 0,0:04:28.63,0:04:33.07,saint tail default,,0,0,0,,We were just about to go.\NDo you want to come, too?
+Dialogue: 0,0:04:35.72,0:04:38.38,saint tail default,,0,0,0,,It'll complicate things\Nif I go with them...
+Dialogue: 0,0:04:38.79,0:04:40.85,saint tail default,,0,0,0,,You want to go, don't you?
+Dialogue: 0,0:04:41.03,0:04:42.02,saint tail default,,0,0,0,,Yes.
+Dialogue: 0,0:04:42.27,0:04:43.50,saint tail default,,0,0,0,,Good.
+Dialogue: 0,0:04:43.61,0:04:47.27,saint tail default,,0,0,0,,Besides, you might find\Nsome ideas for new magic tricks.
+Dialogue: 0,0:04:48.82,0:04:51.31,saint tail default,,0,0,0,,Jeez, they always use\Nme as an excuse.
+Dialogue: 0,0:04:56.60,0:04:58.16,saint tail default,,0,0,0,,You want to come?
+Dialogue: 0,0:04:58.98,0:05:01.34,saint tail default,,0,0,0,,But I've got work to do...
+Dialogue: 0,0:05:02.15,0:05:03.92,saint tail default,,0,0,0,,Ready yet?
+Dialogue: 0,0:05:04.16,0:05:05.59,saint tail default,,0,0,0,,Almost.
+Dialogue: 0,0:05:06.53,0:05:08.76,saint tail default,,0,0,0,,I want you to stay home\Nand watch the house.
+Dialogue: 0,0:05:18.76,0:05:21.25,saint tail default,,0,0,0,,It's been a long time since I've\Nbeen to an amusement park.
+Dialogue: 0,0:05:22.47,0:05:24.53,saint tail default,,0,0,0,,It's time for the doll to come out.
+Dialogue: 0,0:05:25.44,0:05:27.67,saint tail default,,0,0,0,,Hey, hey... what's the rush?
+Dialogue: 0,0:05:28.62,0:05:30.59,saint tail default,,0,0,0,,I have something I want to see!
+Dialogue: 0,0:05:37.21,0:05:38.40,saint tail default,,0,0,0,,There.
+Dialogue: 0,0:05:38.58,0:05:40.07,saint tail default,,0,0,0,,It's almost time.
+Dialogue: 0,0:05:44.22,0:05:45.38,saint tail default,,0,0,0,,Asuka Jr.!
+Dialogue: 0,0:05:45.43,0:05:46.49,saint tail default,,0,0,0,,Haneoka!
+Dialogue: 0,0:05:46.53,0:05:48.90,saint tail default,,0,0,0,,What brings you here?
+Dialogue: 0,0:05:48.94,0:05:52.20,saint tail default,,0,0,0,,To have fun... what else?
+Dialogue: 0,0:05:52.58,0:05:55.17,saint tail default,,0,0,0,,Yeah, that makes sense.
+Dialogue: 0,0:05:55.49,0:05:58.65,saint tail default,,0,0,0,,So that's the clock tower\Nthe girls were fussing over?
+Dialogue: 0,0:06:03.87,0:06:05.67,saint tail default,,0,0,0,,When you watch it with\Nthe one you love...
+Dialogue: 0,0:06:05.74,0:06:07.04,saint tail default,,0,0,0,,it brings happiness.
+Dialogue: 0,0:06:11.49,0:06:13.65,saint tail default,,0,0,0,,Why don't they come out?
+Dialogue: 0,0:06:14.63,0:06:17.07,saint tail default,,0,0,0,,Hey there, what's going on?
+Dialogue: 0,0:06:17.14,0:06:18.87,saint tail default,,0,0,0,,Is something wrong?
+Dialogue: 0,0:06:18.91,0:06:20.81,saint tail default,,0,0,0,,It's just some malfunction.
+Dialogue: 0,0:06:20.85,0:06:23.75,saint tail default,,0,0,0,,There's a temp repairman here,\Nif I remember correctly.
+Dialogue: 0,0:06:23.79,0:06:25.42,saint tail default,,0,0,0,,Yes, I'll get him!
+Dialogue: 0,0:06:27.23,0:06:29.06,saint tail default,,0,0,0,,They say it's just\Nsome malfunction.
+Dialogue: 0,0:06:29.10,0:06:30.26,saint tail default,,0,0,0,,See you.
+Dialogue: 0,0:06:33.41,0:06:35.51,saint tail default,,0,0,0,,Ah! ...My balloon!
+Dialogue: 0,0:06:36.69,0:06:37.88,saint tail default,,0,0,0,,That's right.
+Dialogue: 0,0:06:37.93,0:06:40.12,saint tail default,,0,0,0,,At least I can check\Nif the balloons are still there.
+Dialogue: 0,0:06:40.33,0:06:42.26,saint tail default,,0,0,0,,Too bad, Meimi.
+Dialogue: 0,0:06:42.44,0:06:46.27,saint tail default,,0,0,0,,I'm going to go get some ice cream.
+Dialogue: 0,0:06:48.05,0:06:51.65,saint tail default,,0,0,0,,"Employees Only"
+Dialogue: 0,0:07:00.01,0:07:02.61,saint tail default,,0,0,0,,Oh, it's a costume.
+Dialogue: 0,0:07:08.94,0:07:11.27,saint tail default,,0,0,0,,Good, it's still there.
+Dialogue: 0,0:07:16.79,0:07:18.15,saint tail default,,0,0,0,,Good work.
+Dialogue: 0,0:07:18.83,0:07:21.29,saint tail default,,0,0,0,,All I did was remove a gear.
+Dialogue: 0,0:07:21.33,0:07:22.66,saint tail default,,0,0,0,,Piece of cake.
+Dialogue: 0,0:07:22.70,0:07:24.97,saint tail default,,0,0,0,,The big job's coming up.
+Dialogue: 0,0:07:28.05,0:07:29.57,saint tail default,,0,0,0,,Identical dolls.
+Dialogue: 0,0:07:29.65,0:07:31.68,saint tail default,,0,0,0,,Why bother with all this stuff?
+Dialogue: 0,0:07:31.73,0:07:34.02,saint tail default,,0,0,0,,Why not just go ahead and steal it?
+Dialogue: 0,0:07:34.17,0:07:36.33,saint tail default,,0,0,0,,The police are on guard.
+Dialogue: 0,0:07:36.40,0:07:38.50,saint tail default,,0,0,0,,Sometimes it's better\Nto use your brain.
+Dialogue: 0,0:07:39.24,0:07:40.54,saint tail default,,0,0,0,,Well, faking a malfunction...
+Dialogue: 0,0:07:40.58,0:07:42.78,saint tail default,,0,0,0,,and switching the dolls\Nduring the repair...
+Dialogue: 0,0:07:42.82,0:07:44.01,saint tail default,,0,0,0,,I guess that's using your brain.
+Dialogue: 0,0:07:44.32,0:07:46.31,saint tail default,,0,0,0,,Which means those are all fakes!
+Dialogue: 0,0:07:47.67,0:07:49.16,saint tail default,,0,0,0,,Who's there?!
+Dialogue: 0,0:07:52.41,0:07:54.85,saint tail default,,0,0,0,,Cool it! It's nothing!
+Dialogue: 0,0:07:55.08,0:07:57.64,saint tail default,,0,0,0,,Okay, let's get to work.
+Dialogue: 0,0:08:06.55,0:08:07.91,saint tail default,,0,0,0,,They won't\Nget away with this!
+Dialogue: 0,0:08:11.63,0:08:12.89,saint tail default,,0,0,0,,Bye.
+Dialogue: 0,0:08:15.97,0:08:18.13,saint tail default,,0,0,0,,Please come by.
+Dialogue: 0,0:08:23.72,0:08:26.45,saint tail default,,0,0,0,,It's an ad for Wonder Garden.
+Dialogue: 0,0:08:27.70,0:08:32.86,saint tail default,,0,0,0,,"I'm going to Wonder Garden\Ntonight to get the doll... St. Tail."
+Dialogue: 0,0:08:32.91,0:08:33.94,saint tail default,,0,0,0,,How dare she!
+Dialogue: 0,0:08:33.98,0:08:35.38,saint tail default,,0,0,0,,She was in that\Nrabbit costume!
+Dialogue: 0,0:08:42.70,0:08:44.83,saint tail default,,0,0,0,,I'll return this later.
+Dialogue: 0,0:08:45.01,0:08:46.31,saint tail default,,0,0,0,,Haneoka!
+Dialogue: 0,0:08:48.95,0:08:50.18,saint tail default,,0,0,0,,What?!
+Dialogue: 0,0:08:50.22,0:08:51.88,saint tail default,,0,0,0,,That amusement park...
+Dialogue: 0,0:08:53.50,0:08:55.66,saint tail default,,0,0,0,,That clock at Wonder Castle\Nwith the dolls that's said to...
+Dialogue: 0,0:08:57.34,0:08:58.77,saint tail default,,0,0,0,,You mean...
+Dialogue: 0,0:08:59.14,0:09:03.10,saint tail default,,0,0,0,,bring happiness to couples when\Nthey view it together.
+Dialogue: 0,0:09:03.19,0:09:04.31,saint tail default,,0,0,0,,Yeah.
+Dialogue: 0,0:09:04.36,0:09:07.16,saint tail default,,0,0,0,,Is he trying to ask\Nme to go with him?
+Dialogue: 0,0:09:08.37,0:09:10.03,saint tail default,,0,0,0,,About how much is it worth?
+Dialogue: 0,0:09:10.51,0:09:12.17,saint tail default,,0,0,0,,Excuse me?
+Dialogue: 0,0:09:12.58,0:09:15.10,saint tail default,,0,0,0,,Is it true that it's very expensive?
+Dialogue: 0,0:09:15.28,0:09:17.45,saint tail default,,0,0,0,,It's supposed to be.
+Dialogue: 0,0:09:17.72,0:09:21.56,saint tail default,,0,0,0,,Why would she do\Nsomething so villainous?!
+Dialogue: 0,0:09:24.11,0:09:26.23,saint tail default,,0,0,0,,I got it, never mind.
+Dialogue: 0,0:09:26.45,0:09:27.47,saint tail default,,0,0,0,,See you.
+Dialogue: 0,0:09:30.46,0:09:32.45,saint tail default,,0,0,0,,What's with him, anyway!
+Dialogue: 0,0:09:33.03,0:09:34.52,saint tail default,,0,0,0,,I hate him!
+Dialogue: 0,0:09:50.87,0:09:53.00,saint tail default,,0,0,0,,He's so insensitive.
+Dialogue: 0,0:09:53.55,0:09:55.85,saint tail default,,0,0,0,,Oh, look who's grouchy.
+Dialogue: 0,0:09:57.99,0:10:00.62,saint tail default,,0,0,0,,I'll take you the next time I go.
+Dialogue: 0,0:10:02.44,0:10:04.34,saint tail default,,0,0,0,,I've got to get to work.
+Dialogue: 0,0:10:05.48,0:10:06.88,saint tail default,,0,0,0,,Meimi.
+Dialogue: 0,0:10:12.96,0:10:14.16,saint tail default,,0,0,0,,Meimi?
+Dialogue: 0,0:10:14.23,0:10:15.46,saint tail default,,0,0,0,,Are you there?
+Dialogue: 0,0:10:16.07,0:10:17.13,saint tail default,,0,0,0,,Oh, no!
+Dialogue: 0,0:10:17.61,0:10:18.84,saint tail default,,0,0,0,,What's wrong?
+Dialogue: 0,0:10:18.94,0:10:20.47,saint tail default,,0,0,0,,She's not answering.
+Dialogue: 0,0:10:24.46,0:10:27.12,saint tail default,,0,0,0,,What are you doing over there?
+Dialogue: 0,0:10:30.04,0:10:32.51,saint tail default,,0,0,0,,I was thinking of going to\Nget some juice or something.
+Dialogue: 0,0:10:33.28,0:10:34.47,saint tail default,,0,0,0,,From the window?
+Dialogue: 0,0:10:34.52,0:10:36.48,saint tail default,,0,0,0,,I thought I'd try something new.
+Dialogue: 0,0:10:37.59,0:10:39.25,saint tail default,,0,0,0,,I'll be off, then.
+Dialogue: 0,0:10:40.66,0:10:43.63,saint tail default,,0,0,0,,Going in and out\Nof the window at night.
+Dialogue: 0,0:10:44.11,0:10:46.44,saint tail default,,0,0,0,,She's my girl, all right.
+Dialogue: 0,0:11:03.82,0:11:07.49,saint tail default,,0,0,0,,Please forgive me,\Nfor I use no gimmick or trick.
+Dialogue: 0,0:11:12.78,0:11:13.90,saint tail default,,0,0,0,,One!
+Dialogue: 0,0:11:15.79,0:11:16.88,saint tail default,,0,0,0,,Two!
+Dialogue: 0,0:11:19.36,0:11:21.02,saint tail default,,0,0,0,,Three!
+Dialogue: 0,0:11:36.64,0:11:40.44,saint tail default,,0,0,0,,May the blessings\Nof God be with us.
+Dialogue: 0,0:11:59.60,0:12:03.66,saint tail default,,0,0,0,,That doll was specially made.\NIt's invaluable...
+Dialogue: 0,0:12:03.71,0:12:06.44,saint tail default,,0,0,0,,There's only one of its\Nkind in the world.
+Dialogue: 0,0:12:06.48,0:12:08.45,saint tail default,,0,0,0,,If it were ever stolen...
+Dialogue: 0,0:12:08.75,0:12:10.19,saint tail default,,0,0,0,,Please be rest assured...
+Dialogue: 0,0:12:10.49,0:12:13.69,saint tail default,,0,0,0,,St. Tail always has some\Nreason for stealing.
+Dialogue: 0,0:12:13.93,0:12:15.19,saint tail default,,0,0,0,,I'm sure it's the same this time.
+Dialogue: 0,0:12:15.23,0:12:16.79,saint tail default,,0,0,0,,You can't be too sure.
+Dialogue: 0,0:12:16.84,0:12:17.67,saint tail default,,0,0,0,,Dad!
+Dialogue: 0,0:12:17.71,0:12:22.51,saint tail default,,0,0,0,,If the latest artwork thefts\Nare the work of St. Tail...
+Dialogue: 0,0:12:22.85,0:12:25.12,saint tail default,,0,0,0,,then everything falls into place.
+Dialogue: 0,0:12:25.49,0:12:27.19,saint tail default,,0,0,0,,No, it can't be.
+Dialogue: 0,0:12:27.30,0:12:28.99,saint tail default,,0,0,0,,You're still green, son.
+Dialogue: 0,0:12:29.04,0:12:31.97,saint tail default,,0,0,0,,She may be called "Saint", but\Nshe's no more than a thief.
+Dialogue: 0,0:12:33.38,0:12:35.87,saint tail default,,0,0,0,,I'm done with the repairs for now.
+Dialogue: 0,0:12:36.29,0:12:37.55,saint tail default,,0,0,0,,All right, thanks.
+Dialogue: 0,0:12:37.59,0:12:38.56,saint tail default,,0,0,0,,Don't mention it.
+Dialogue: 0,0:12:39.13,0:12:40.12,saint tail default,,0,0,0,,What an idiot.
+Dialogue: 0,0:12:40.50,0:12:42.59,saint tail default,,0,0,0,,If St. Tail is going to appear...
+Dialogue: 0,0:12:43.04,0:12:45.80,saint tail default,,0,0,0,,it'll be when the dolls come out.
+Dialogue: 0,0:12:48.32,0:12:49.41,saint tail default,,0,0,0,,What the...?!
+Dialogue: 0,0:13:04.42,0:13:07.29,saint tail default,,0,0,0,,"These dolls are fake!\NSt. Tail"
+Dialogue: 0,0:13:07.73,0:13:08.79,saint tail default,,0,0,0,,St. Tail!
+Dialogue: 0,0:13:09.10,0:13:10.36,saint tail default,,0,0,0,,When did she...?!
+Dialogue: 0,0:13:10.77,0:13:13.26,saint tail default,,0,0,0,,Don't tell me she\Nswitched them with fakes!
+Dialogue: 0,0:13:15.05,0:13:16.48,saint tail default,,0,0,0,,St. Tail! Where is she?!
+Dialogue: 0,0:13:16.56,0:13:18.55,saint tail default,,0,0,0,,Stay calm, don't leave your posts!
+Dialogue: 0,0:13:20.20,0:13:23.13,saint tail default,,0,0,0,,They still don't get it?\NTalk about dense.
+Dialogue: 0,0:13:29.09,0:13:30.38,saint tail default,,0,0,0,,I won't let you get away!
+Dialogue: 0,0:13:34.07,0:13:36.26,saint tail default,,0,0,0,,She's trying to confuse us\Nwith bits of paper!
+Dialogue: 0,0:13:36.84,0:13:38.77,saint tail default,,0,0,0,,I can see right through you.
+Dialogue: 0,0:13:39.08,0:13:40.84,saint tail default,,0,0,0,,Light her face up! Her face!
+Dialogue: 0,0:13:42.09,0:13:45.49,saint tail default,,0,0,0,,I can see right through you, too!\NIf you want to light up something...
+Dialogue: 0,0:13:45.66,0:13:47.42,saint tail default,,0,0,0,,leave it to St. Tail!
+Dialogue: 0,0:13:48.60,0:13:51.40,saint tail default,,0,0,0,,It's Show Time!
+Dialogue: 0,0:13:53.45,0:13:55.28,saint tail default,,0,0,0,,The lights are moving by themselves!
+Dialogue: 0,0:14:15.67,0:14:16.97,saint tail default,,0,0,0,,What's going on?
+Dialogue: 0,0:14:17.17,0:14:19.70,saint tail default,,0,0,0,,We don't light up at night.
+Dialogue: 0,0:14:20.01,0:14:21.41,saint tail default,,0,0,0,,Now for the real show.
+Dialogue: 0,0:14:28.43,0:14:30.20,saint tail default,,0,0,0,,Hold it! St. Tail!
+Dialogue: 0,0:14:43.81,0:14:44.97,saint tail default,,0,0,0,,I can't see!
+Dialogue: 0,0:15:08.13,0:15:09.50,saint tail default,,0,0,0,,Identical dolls.
+Dialogue: 0,0:15:10.64,0:15:11.47,saint tail default,,0,0,0,,These!
+Dialogue: 0,0:15:11.54,0:15:12.80,saint tail default,,0,0,0,,These are the real ones!
+Dialogue: 0,0:15:12.91,0:15:15.47,saint tail default,,0,0,0,,And there's the statue\Nthat was stolen last week.
+Dialogue: 0,0:15:16.45,0:15:17.48,saint tail default,,0,0,0,,Dad!
+Dialogue: 0,0:15:21.83,0:15:23.36,saint tail default,,0,0,0,,You're under arrest!
+Dialogue: 0,0:15:29.19,0:15:30.85,saint tail default,,0,0,0,,Ouch, you're squashing me, too!
+Dialogue: 0,0:15:46.96,0:15:48.06,saint tail default,,0,0,0,,St. Tail!
+Dialogue: 0,0:15:54.62,0:15:56.61,saint tail default,,0,0,0,,The rest of you, go after St. Tail!
+Dialogue: 0,0:16:00.80,0:16:02.06,saint tail default,,0,0,0,,Here goes.
+Dialogue: 0,0:16:02.17,0:16:02.83,saint tail default,,0,0,0,,One...
+Dialogue: 0,0:16:03.04,0:16:03.90,saint tail default,,0,0,0,,Two...
+Dialogue: 0,0:16:04.04,0:16:05.34,saint tail default,,0,0,0,,Three!
+Dialogue: 0,0:16:11.49,0:16:12.46,saint tail default,,0,0,0,,Asuka Jr!
+Dialogue: 0,0:16:12.69,0:16:14.29,saint tail default,,0,0,0,,Which one should we arrest?!
+Dialogue: 0,0:16:14.70,0:16:16.17,saint tail default,,0,0,0,,Yikes!
+Dialogue: 0,0:16:18.31,0:16:19.78,saint tail default,,0,0,0,,What the...?!
+Dialogue: 0,0:16:19.85,0:16:22.91,saint tail default,,0,0,0,,Do you have a St. Tail parade\Nor something at this amusement park?!
+Dialogue: 0,0:16:23.02,0:16:24.82,saint tail default,,0,0,0,,Of course not!
+Dialogue: 0,0:16:31.68,0:16:33.14,saint tail default,,0,0,0,,I lost her.
+Dialogue: 0,0:16:35.18,0:16:38.85,saint tail default,,0,0,0,,Fantastic, isn't it?\NSt. Tail's illusion parade!
+Dialogue: 0,0:16:39.66,0:16:44.16,saint tail default,,0,0,0,,There's no way to\Nfind me in all this.
+Dialogue: 0,0:17:03.25,0:17:04.24,saint tail default,,0,0,0,,No way!
+Dialogue: 0,0:17:04.79,0:17:05.85,saint tail default,,0,0,0,,Don't underestimate me.
+Dialogue: 0,0:17:05.93,0:17:08.52,saint tail default,,0,0,0,,No matter where you go...\NI'll find you!
+Dialogue: 0,0:17:09.10,0:17:10.26,saint tail default,,0,0,0,,How?
+Dialogue: 0,0:17:12.71,0:17:13.94,saint tail default,,0,0,0,,You're not getting away!
+Dialogue: 0,0:17:16.12,0:17:18.38,saint tail default,,0,0,0,,Asuka Jr.! That's dangerous!
+Dialogue: 0,0:17:25.38,0:17:26.47,saint tail default,,0,0,0,,Fool!
+Dialogue: 0,0:17:26.55,0:17:27.84,saint tail default,,0,0,0,,I won't...
+Dialogue: 0,0:17:28.82,0:17:30.48,saint tail default,,0,0,0,,miss this chance!
+Dialogue: 0,0:17:36.37,0:17:38.84,saint tail default,,0,0,0,,Like I said... I'm taking\Nthe doll with me!
+Dialogue: 0,0:17:39.04,0:17:40.34,saint tail default,,0,0,0,,The doll...
+Dialogue: 0,0:17:41.38,0:17:43.58,saint tail default,,0,0,0,,That's the doll\Nyou wanted?
+Dialogue: 0,0:17:44.12,0:17:47.86,saint tail default,,0,0,0,,If you had asked me out,\Nit would've made me happy.
+Dialogue: 0,0:17:49.34,0:17:50.20,saint tail default,,0,0,0,,But...
+Dialogue: 0,0:17:51.48,0:17:53.03,saint tail default,,0,0,0,,it turned out to be\Nlike a date, anyway!
+Dialogue: 0,0:17:53.08,0:17:54.60,saint tail default,,0,0,0,,I really enjoyed myself!
+Dialogue: 0,0:17:55.39,0:17:56.37,saint tail default,,0,0,0,,Date...?
+Dialogue: 0,0:17:57.56,0:17:59.02,saint tail default,,0,0,0,,Cut the jokes!
+Dialogue: 0,0:18:04.47,0:18:06.41,saint tail default,,0,0,0,,I'm serious, you know!
+Dialogue: 0,0:18:15.40,0:18:18.53,saint tail default,,0,0,0,,I'm serious... darn.
+Dialogue: 0,0:18:20.82,0:18:22.98,saint tail default,,0,0,0,,Thank you, Asuka Jr.
+Dialogue: 0,0:18:23.36,0:18:27.79,saint tail default,,0,0,0,,All of the dolls have been recovered,\Nthanks to you.
+Dialogue: 0,0:18:27.97,0:18:32.80,saint tail default,,0,0,0,,Those two turned out to be the ones\Nresponsible for the art thefts.
+Dialogue: 0,0:18:33.45,0:18:36.97,saint tail default,,0,0,0,,I thought it was strange\Nfor her to do such a thing.
+Dialogue: 0,0:18:37.12,0:18:37.78,saint tail default,,0,0,0,,What?
+Dialogue: 0,0:18:38.03,0:18:40.08,saint tail default,,0,0,0,,No, it's nothing.
+Dialogue: 0,0:18:53.33,0:18:55.89,saint tail default,,0,0,0,,Don't ever tie it to\Na balloon again.
+Dialogue: 0,0:19:06.73,0:19:09.72,saint tail default,,0,0,0,,It brings happiness if you watch it\Ntogether with the one you love.
+Dialogue: 0,0:19:10.14,0:19:11.70,saint tail default,,0,0,0,,Well, who cares...
+Dialogue: 0,0:19:11.94,0:19:16.94,saint tail default,,0,0,0,,My nights are always filled\Nwith the prospect of happiness.

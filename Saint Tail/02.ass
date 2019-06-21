@@ -13,355 +13,359 @@ Video File: source/02.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20.0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,2.0,2.0,2,10,10,10,1
+Style: saint tail default,Calibri,80,&H00FBFBFB,&H000000FF,&H00373737,&H80373737,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,2,50,50,50,1
+Style: saint tail sign,Calibri,75,&H00D4FFED,&H000000FF,&H006E8E22,&HC7000000,-1,-1,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,8,50,50,50,1
+Style: saint tail title,Campanile,150,&H00EDE6FF,&H000000FF,&H009457EA,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
+Style: saint tail op en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
+Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,70,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.97,0:00:12.06,Default,,0,0,0,,Asuka Jr.
-Dialogue: 0,0:00:12.54,0:00:13.90,Default,,0,0,0,,Let's walk home together!
-Dialogue: 0,0:00:14.28,0:00:14.80,Default,,0,0,0,,Sure!
-Dialogue: 0,0:00:16.02,0:00:17.14,Default,,0,0,0,,We heard the news!
-Dialogue: 0,0:00:17.25,0:00:19.35,Default,,0,0,0,,You've been asked by the Mayor...
-Dialogue: 0,0:00:19.43,0:00:22.33,Default,,0,0,0,,to help arrest that\Nphantom thief, Saint Tail!
-Dialogue: 0,0:00:23.81,0:00:24.78,Default,,0,0,0,,Is it true?
-Dialogue: 0,0:00:24.91,0:00:26.04,Default,,0,0,0,,Yup, it sure is!
-Dialogue: 0,0:00:26.12,0:00:27.64,Default,,0,0,0,,Wow! That's great!
-Dialogue: 0,0:00:27.82,0:00:30.02,Default,,0,0,0,,They say you did great\Non the last case!
-Dialogue: 0,0:00:30.93,0:00:34.42,Default,,0,0,0,,How you protected the\Njewels from Saint Tail!
-Dialogue: 0,0:00:34.74,0:00:37.34,Default,,0,0,0,,It was all over the papers!
-Dialogue: 0,0:00:37.69,0:00:39.09,Default,,0,0,0,,I read that article, too.
-Dialogue: 0,0:00:39.59,0:00:41.93,Default,,0,0,0,,It said, "He protected the Blue\NMeteorite from Saint Tail...
-Dialogue: 0,0:00:42.00,0:00:44.30,Default,,0,0,0,,and helped in the arrest of Umido."\NThat's how it went?
-Dialogue: 0,0:00:44.41,0:00:45.47,Default,,0,0,0,,Yup, that's how it went.
-Dialogue: 0,0:00:46.32,0:00:49.58,Default,,0,0,0,,But you let Saint Tail get away,\Ndidn't you?
-Dialogue: 0,0:00:50.60,0:00:53.09,Default,,0,0,0,,That's why I've been\Nasked to catch her.
-Dialogue: 0,0:00:53.61,0:00:57.44,Default,,0,0,0,,I'm the only one who's\Nseen her up close.
-Dialogue: 0,0:00:59.19,0:01:01.13,Default,,0,0,0,,See! This is my official permit!
-Dialogue: 0,0:01:01.70,0:01:02.72,Default,,0,0,0,,What is it?
-Dialogue: 0,0:01:03.61,0:01:06.13,Default,,0,0,0,,It's the badge I gotfrom the Mayor.
-Dialogue: 0,0:01:07.12,0:01:10.78,Default,,0,0,0,,All I have to do is show this\Nand I can get in to investigate.
-Dialogue: 0,0:01:11.30,0:01:12.93,Default,,0,0,0,,Hey, that's really something.
-Dialogue: 0,0:01:13.14,0:01:16.27,Default,,0,0,0,,Does your dad know?
-Dialogue: 0,0:01:17.59,0:01:19.68,Default,,0,0,0,,He got himself all worked up over it.
-Dialogue: 0,0:01:19.76,0:01:21.89,Default,,0,0,0,,He wants me to get the job done,\Ndo or die.
-Dialogue: 0,0:01:23.84,0:01:26.93,Default,,0,0,0,,Isn't that Saint Tail's first failure?
-Dialogue: 0,0:01:27.08,0:01:27.64,Default,,0,0,0,,Failure?
-Dialogue: 0,0:01:28.25,0:01:30.62,Default,,0,0,0,,And her nemesis is Asuka Jr.
-Dialogue: 0,0:01:31.03,0:01:33.52,Default,,0,0,0,,I've got to hand it to you,\Nyou're great!
-Dialogue: 0,0:01:33.61,0:01:34.80,Default,,0,0,0,,It's true, it's true.
-Dialogue: 0,0:01:34.88,0:01:36.40,Default,,0,0,0,,Ain't it fabulous?
-Dialogue: 0,0:01:36.55,0:01:38.68,Default,,0,0,0,,Ah, it's nothing.
-Dialogue: 0,0:01:38.96,0:01:40.01,Default,,0,0,0,,You've got it all wrong!
-Dialogue: 0,0:01:40.09,0:01:40.62,Default,,0,0,0,,Huh?
-Dialogue: 0,0:01:41.36,0:01:43.09,Default,,0,0,0,,I haven't failed!
-Dialogue: 0,0:01:44.37,0:01:45.97,Default,,0,0,0,,Whose voice was that?
-Dialogue: 0,0:01:46.35,0:01:47.28,Default,,0,0,0,,Beats me.
-Dialogue: 0,0:01:49.59,0:01:52.79,Default,,0,0,0,,Oh, Meimi,\Ndon't let it bother you!
-Dialogue: 0,0:01:52.93,0:01:55.20,Default,,0,0,0,,I've never failed once!
-Dialogue: 0,0:01:55.64,0:01:56.61,Default,,0,0,0,,I know, I know.
-Dialogue: 0,0:01:56.68,0:01:59.41,Default,,0,0,0,,Why don't you drop by the\Nchurch for a while?
-Dialogue: 0,0:01:59.52,0:02:01.86,Default,,0,0,0,,I haven't failed!
-Dialogue: 0,0:02:06.65,0:02:08.62,Default,,0,0,0,,He's really asking for it!
-Dialogue: 0,0:02:08.89,0:02:11.58,Default,,0,0,0,,As if a guy like that\Ncould catch me!
-Dialogue: 0,0:02:11.83,0:02:14.49,Default,,0,0,0,,My, you're fired up,\Naren't you Meimi?
-Dialogue: 0,0:02:14.61,0:02:15.73,Default,,0,0,0,,That's great!
-Dialogue: 0,0:02:15.81,0:02:16.44,Default,,0,0,0,,Huh?
-Dialogue: 0,0:02:16.55,0:02:18.45,Default,,0,0,0,,Your mission this time is...
-Dialogue: 0,0:02:23.27,0:02:24.50,Default,,0,0,0,,This tiara.
-Dialogue: 0,0:02:25.51,0:02:27.50,Default,,0,0,0,,It's called Electra.
-Dialogue: 0,0:02:27.68,0:02:28.58,Default,,0,0,0,,Electra?
-Dialogue: 0,0:02:32.13,0:02:34.93,Default,,0,0,0,,Named for the star\Nin the Subaru constellation.
-Dialogue: 0,0:02:35.24,0:02:37.04,Default,,0,0,0,,Also known as "the missing one".
-Dialogue: 0,0:02:38.12,0:02:42.58,Default,,0,0,0,,It was stolen from someone by Egami,\Nwho lives on 7th avenue.
-Dialogue: 0,0:02:43.60,0:02:47.97,Default,,0,0,0,,Let's return it to\Nits rightful owner.
-Dialogue: 0,0:02:48.52,0:02:49.51,Default,,0,0,0,,Wait a minute!
-Dialogue: 0,0:02:49.82,0:02:50.45,Default,,0,0,0,,What?
-Dialogue: 0,0:02:50.86,0:02:52.35,Default,,0,0,0,,This wouldn't be a good time.
-Dialogue: 0,0:02:52.63,0:02:54.39,Default,,0,0,0,,You heard, didn't you?
-Dialogue: 0,0:02:54.47,0:02:57.44,Default,,0,0,0,,Asuka Jr. received a badge from the\NMayor, granting investigation power.
-Dialogue: 0,0:02:57.51,0:03:00.01,Default,,0,0,0,,He's all wound up\Nand ready to leap into action.
-Dialogue: 0,0:03:01.49,0:03:05.56,Default,,0,0,0,,Meimi, you're not afraid of\NAsuka Jr., are you?
-Dialogue: 0,0:03:05.71,0:03:06.40,Default,,0,0,0,,What?
-Dialogue: 0,0:03:07.88,0:03:10.11,Default,,0,0,0,,If that's so, it can't be helped.
-Dialogue: 0,0:03:10.52,0:03:12.96,Default,,0,0,0,,Let's forget about this caper.
-Dialogue: 0,0:03:13.03,0:03:14.06,Default,,0,0,0,,Wait a minute!
-Dialogue: 0,0:03:14.54,0:03:15.73,Default,,0,0,0,,You're kidding, aren't you?
-Dialogue: 0,0:03:16.21,0:03:17.64,Default,,0,0,0,,Let's do it!
-Dialogue: 0,0:03:17.88,0:03:20.11,Default,,0,0,0,,You just leave it to me!
-Dialogue: 0,0:03:22.10,0:03:26.29,Default,,0,0,0,,I'm not afraid of a bumbling\Ndetective like him at all!
-Dialogue: 0,0:03:29.12,0:03:30.45,Default,,0,0,0,,I'm leaving!
-Dialogue: 0,0:03:34.30,0:03:37.03,Default,,0,0,0,,Saint Tail... Isn't she wonderful?
-Dialogue: 0,0:03:37.68,0:03:40.74,Default,,0,0,0,,She's exactly like me\Nwhen I was young.
-Dialogue: 0,0:03:40.86,0:03:41.55,Default,,0,0,0,,Aww shoot...
-Dialogue: 0,0:03:42.73,0:03:43.72,Default,,0,0,0,,That's strange.
-Dialogue: 0,0:03:47.21,0:03:48.77,Default,,0,0,0,,What's the matter, Papa?
-Dialogue: 0,0:03:49.42,0:03:51.48,Default,,0,0,0,,The balloons...\Nwhere have I put them?
-Dialogue: 0,0:03:52.33,0:03:53.19,Default,,0,0,0,,Balloons?
-Dialogue: 0,0:03:53.50,0:03:55.06,Default,,0,0,0,,The ones I use for my magic.
-Dialogue: 0,0:03:57.01,0:04:00.14,Default,,0,0,0,,Aren't they supposed to\Nbe in your trunk?
-Dialogue: 0,0:04:00.46,0:04:03.29,Default,,0,0,0,,Yes, but they're not there!
-Dialogue: 0,0:04:07.68,0:04:09.61,Default,,0,0,0,,Only the balloons have disappeared.
-Dialogue: 0,0:04:10.39,0:04:12.65,Default,,0,0,0,,Papa, are you sure they're missing?
-Dialogue: 0,0:04:14.30,0:04:16.00,Default,,0,0,0,,Remember what happened\Nthe other day.
-Dialogue: 0,0:04:16.64,0:04:18.70,Default,,0,0,0,,You put two socks on one foot and...
-Dialogue: 0,0:04:19.05,0:04:21.38,Default,,0,0,0,,went around saying\N"Where's my other sock?!"
-Dialogue: 0,0:04:21.73,0:04:23.39,Default,,0,0,0,,Oh, don't bring that up.
-Dialogue: 0,0:04:26.04,0:04:27.44,Default,,0,0,0,,Anyway, it's strange.
-Dialogue: 0,0:04:39.88,0:04:40.94,Default,,0,0,0,,Hey! What's that?
-Dialogue: 0,0:04:41.09,0:04:42.45,Default,,0,0,0,,Asuka! Up in the sky!
-Dialogue: 0,0:04:42.53,0:04:43.15,Default,,0,0,0,,Huh?
-Dialogue: 0,0:04:46.71,0:04:47.87,Default,,0,0,0,,What's that?
-Dialogue: 0,0:04:48.18,0:04:52.24,Default,,0,0,0,,"I'll be picking up the Electra\Ntonight - Saint Tail."
-Dialogue: 0,0:04:53.60,0:04:55.96,Default,,0,0,0,,It's a note from Saint Tail!
-Dialogue: 0,0:04:56.21,0:04:58.90,Default,,0,0,0,,Hey, it's a challenge! What class!
-Dialogue: 0,0:05:00.49,0:05:01.42,Default,,0,0,0,,You're kidding!
-Dialogue: 0,0:05:01.52,0:05:02.49,Default,,0,0,0,,This is fantastic!
-Dialogue: 0,0:05:03.06,0:05:04.19,Default,,0,0,0,,She's the phantom, alright!
-Dialogue: 0,0:05:04.50,0:05:06.02,Default,,0,0,0,,She's got real guts!
-Dialogue: 0,0:05:10.45,0:05:13.01,Default,,0,0,0,,I'll be ready for you, Saint Tail!
-Dialogue: 0,0:05:16.77,0:05:20.77,Default,,0,0,0,,Meimi? Just what is this\Nall about exactly?
-Dialogue: 0,0:05:22.99,0:05:27.83,Default,,0,0,0,,Hey have you heard? Saint Tail\Nsent Asuka Jr. a challenge!
-Dialogue: 0,0:05:27.91,0:05:29.24,Default,,0,0,0,,Don't you think that's strange?
-Dialogue: 0,0:05:29.31,0:05:30.34,Default,,0,0,0,,What is?
-Dialogue: 0,0:05:31.76,0:05:35.75,Default,,0,0,0,,Why do you think she told Asuka Jr.?
-Dialogue: 0,0:05:36.14,0:05:38.10,Default,,0,0,0,,It does seem too good to be true.
-Dialogue: 0,0:05:38.34,0:05:39.17,Default,,0,0,0,,Doesn't it?
-Dialogue: 0,0:05:42.86,0:05:45.62,Default,,0,0,0,,Maybe Saint Tail and Asuka Jr. are...
-Dialogue: 0,0:05:45.70,0:05:46.72,Default,,0,0,0,,No doubt!
-Dialogue: 0,0:05:47.21,0:05:49.30,Default,,0,0,0,,The two of them are in this together!
-Dialogue: 0,0:05:54.06,0:05:55.36,Default,,0,0,0,,So...
-Dialogue: 0,0:05:57.47,0:06:00.20,Default,,0,0,0,,Saint Tail has sent a challenge.
-Dialogue: 0,0:06:00.85,0:06:04.25,Default,,0,0,0,,I won 't let anyone get\Nmy tiara, Electra!
-Dialogue: 0,0:06:06.40,0:06:10.20,Default,,0,0,0,,Sir, there is a rumor going around...
-Dialogue: 0,0:06:10.75,0:06:11.72,Default,,0,0,0,,Yes, what is it?
-Dialogue: 0,0:06:13.59,0:06:17.26,Default,,0,0,0,,What! Saint Tail and Asuka Jr.\Nare working together?!
-Dialogue: 0,0:06:17.84,0:06:18.83,Default,,0,0,0,,Excuse me.
-Dialogue: 0,0:06:23.02,0:06:25.75,Default,,0,0,0,,You're Mr. Egami, the tiara's owner,\Naren't you?
-Dialogue: 0,0:06:26.20,0:06:27.36,Default,,0,0,0,,And you are?
-Dialogue: 0,0:06:28.54,0:06:32.14,Default,,0,0,0,,The Mayor asked me to assist in\Nthe Saint Tail investigation.
-Dialogue: 0,0:06:32.25,0:06:33.22,Default,,0,0,0,,My name is Asuka.
-Dialogue: 0,0:06:35.77,0:06:38.93,Default,,0,0,0,,Oh, so you're Asuka Jr.
-Dialogue: 0,0:06:39.55,0:06:41.14,Default,,0,0,0,,I've been waiting for you.
-Dialogue: 0,0:06:44.96,0:06:46.19,Default,,0,0,0,,Excuse me.
-Dialogue: 0,0:06:51.95,0:06:54.58,Default,,0,0,0,,I leave all security in your hands.
-Dialogue: 0,0:06:54.93,0:06:56.09,Default,,0,0,0,,Yes, sir! I understand.
-Dialogue: 0,0:06:56.60,0:06:58.57,Default,,0,0,0,,Please catch Saint Tail.
-Dialogue: 0,0:06:59.48,0:07:01.97,Default,,0,0,0,,No matter what the rumors may say...
-Dialogue: 0,0:07:02.29,0:07:04.28,Default,,0,0,0,,I trust you.
-Dialogue: 0,0:07:05.86,0:07:08.03,Default,,0,0,0,,Rumors? What are you talking about?
-Dialogue: 0,0:07:08.61,0:07:09.70,Default,,0,0,0,,You don't know?
-Dialogue: 0,0:07:10.11,0:07:13.67,Default,,0,0,0,,There's great doubt\Nabout you right now!
-Dialogue: 0,0:07:14.99,0:07:19.95,Default,,0,0,0,,It's suspected that you\Nare Saint Tail's accomplice!
-Dialogue: 0,0:07:20.38,0:07:21.87,Default,,0,0,0,,What did you say?
-Dialogue: 0,0:07:22.96,0:07:25.48,Default,,0,0,0,,She sent you a note, didn't she?
-Dialogue: 0,0:07:25.96,0:07:27.33,Default,,0,0,0,,Wait, please!
-Dialogue: 0,0:07:27.44,0:07:28.16,Default,,0,0,0,,Of course.
-Dialogue: 0,0:07:28.37,0:07:32.33,Default,,0,0,0,,I'm sure it's all just rumors.
-Dialogue: 0,0:07:33.86,0:07:38.89,Default,,0,0,0,,For the sake of clearing your name,\Nplease protect my Electra.
-Dialogue: 0,0:07:39.41,0:07:40.81,Default,,0,0,0,,Of course!
-Dialogue: 0,0:07:41.42,0:07:43.21,Default,,0,0,0,,Who'd want to work with\Nthat girl, anyway?
-Dialogue: 0,0:07:43.76,0:07:44.72,Default,,0,0,0,,Sir?
-Dialogue: 0,0:07:46.57,0:07:49.06,Default,,0,0,0,,Everything is ready.
-Dialogue: 0,0:07:49.61,0:07:51.98,Default,,0,0,0,,The tiara is in place.
-Dialogue: 0,0:07:52.99,0:07:54.95,Default,,0,0,0,,Everything has gone well.
-Dialogue: 0,0:07:56.00,0:07:58.73,Default,,0,0,0,,The fool trusted me completely.
-Dialogue: 0,0:08:00.48,0:08:03.57,Default,,0,0,0,,I'd never be tricked\Nby a brat like that!
-Dialogue: 0,0:08:05.49,0:08:08.33,Default,,0,0,0,,I'll set them both up and turn him in\Nto the police along with Saint Tail!
-Dialogue: 0,0:08:10.08,0:08:12.17,Default,,0,0,0,,By the way, Mr. Egami,\Nwhere is Electra right now?
-Dialogue: 0,0:08:13.62,0:08:16.78,Default,,0,0,0,,The truth is, hearing about the\Nchallenge made me nervous.
-Dialogue: 0,0:08:16.87,0:08:20.82,Default,,0,0,0,,I couldn't leave it in the mansion,\Nso I've hidden it in a safe place.
-Dialogue: 0,0:08:21.75,0:08:24.51,Default,,0,0,0,,You're really a worrier, aren't you?
-Dialogue: 0,0:08:24.72,0:08:26.52,Default,,0,0,0,,So, where did you hide it?
-Dialogue: 0,0:08:28.57,0:08:29.54,Default,,0,0,0,,Over there!
-Dialogue: 0,0:08:37.17,0:08:39.43,Default,,0,0,0,,At the top of that clock tower.
-Dialogue: 0,0:08:42.28,0:08:45.25,Default,,0,0,0,,Why hide it in such a difficult place?!
-Dialogue: 0,0:08:45.63,0:08:47.06,Default,,0,0,0,,Where exactly in the\Nclock tower is it?
-Dialogue: 0,0:08:47.53,0:08:49.19,Default,,0,0,0,,On the face of the clock.
-Dialogue: 0,0:08:49.47,0:08:51.03,Default,,0,0,0,,Behind the hour hand.
-Dialogue: 0,0:09:00.41,0:09:01.14,Default,,0,0,0,,What!
-Dialogue: 0,0:09:01.31,0:09:03.80,Default,,0,0,0,,On the face of the clock,\Nbehind the hour hand?
-Dialogue: 0,0:09:05.19,0:09:07.49,Default,,0,0,0,,That's a tough place to get it from.
-Dialogue: 0,0:09:08.27,0:09:12.10,Default,,0,0,0,,Actually, I know for sure he's lying.
-Dialogue: 0,0:09:12.55,0:09:14.52,Default,,0,0,0,,The tiara is really behind\Nthe minute hand.
-Dialogue: 0,0:09:14.92,0:09:17.91,Default,,0,0,0,,How did you get information like that?
-Dialogue: 0,0:09:18.64,0:09:22.54,Default,,0,0,0,,Egami is trying to frame Asuka Jr.!
-Dialogue: 0,0:09:22.92,0:09:24.65,Default,,0,0,0,,What? A trap!
-Dialogue: 0,0:09:46.76,0:09:50.86,Default,,0,0,0,,There's a rumor that Asuka Jr.\Nis Saint Tail's accomplice.
-Dialogue: 0,0:09:51.24,0:09:55.74,Default,,0,0,0,,Egami would never tell him the true\Nhiding place of the tiara, would he?
-Dialogue: 0,0:09:58.37,0:10:04.67,Default,,0,0,0,,He lied so Asuka Jr. will be\Narrested along with Saint Tail.
-Dialogue: 0,0:10:05.05,0:10:06.52,Default,,0,0,0,,That's terrible.
-Dialogue: 0,0:10:06.76,0:10:10.03,Default,,0,0,0,,It's all because of that note you sent\Nto challenge him, Meimi!
-Dialogue: 0,0:10:10.91,0:10:12.03,Default,,0,0,0,,You think so?
-Dialogue: 0,0:10:13.28,0:10:17.01,Default,,0,0,0,,I guess so... He's getting set up,\Nbecause of me!
-Dialogue: 0,0:10:19.07,0:10:26.84,Default,,0,0,0,,If you steal the tiara from the minute\Nhand, Asuka Jr.'s name is cleared.
-Dialogue: 0,0:10:27.60,0:10:28.58,Default,,0,0,0,,That's right.
-Dialogue: 0,0:10:29.74,0:10:32.83,Default,,0,0,0,,My lord, forgive me,\Nfor I use no gimmick or trick.
-Dialogue: 0,0:10:37.93,0:10:38.79,Default,,0,0,0,,One!
-Dialogue: 0,0:10:41.41,0:10:42.31,Default,,0,0,0,,Two!
-Dialogue: 0,0:10:44.75,0:10:46.31,Default,,0,0,0,,Three!
-Dialogue: 0,0:11:00.84,0:11:03.86,Default,,0,0,0,,May the blessing of God be with us.
-Dialogue: 0,0:11:06.19,0:11:07.68,Default,,0,0,0,,But I'll tell you this...
-Dialogue: 0,0:11:08.33,0:11:11.20,Default,,0,0,0,,I'm not doing this to help him!
-Dialogue: 0,0:11:11.71,0:11:12.77,Default,,0,0,0,,Yes, yes.
-Dialogue: 0,0:11:13.51,0:11:15.07,Default,,0,0,0,,Off you go.
-Dialogue: 0,0:11:32.98,0:11:33.97,Default,,0,0,0,,Asuka Jr.!
-Dialogue: 0,0:11:35.29,0:11:37.85,Default,,0,0,0,,Do you intend to sit there and\Nstake out the place all night?
-Dialogue: 0,0:11:38.60,0:11:40.12,Default,,0,0,0,,Not all night.
-Dialogue: 0,0:11:40.84,0:11:43.63,Default,,0,0,0,,Saint Tail will be coming at exactly 6:00.
-Dialogue: 0,0:11:45.02,0:11:46.04,Default,,0,0,0,,How do you know that?
-Dialogue: 0,0:11:46.99,0:11:50.52,Default,,0,0,0,,The only time Saint Tail can reach\Nthe hour hand is 6:00.
-Dialogue: 0,0:11:51.67,0:11:54.73,Default,,0,0,0,,To steal Electra at any other time...
-Dialogue: 0,0:11:55.92,0:11:57.11,Default,,0,0,0,,is impossible!
-Dialogue: 0,0:11:57.76,0:11:58.66,Default,,0,0,0,,I see.
-Dialogue: 0,0:11:58.96,0:12:01.56,Default,,0,0,0,,I'm counting on you, Asuka Jr.
-Dialogue: 0,0:12:04.08,0:12:05.57,Default,,0,0,0,,I'm waiting for you, Saint Tail!
-Dialogue: 0,0:12:08.46,0:12:13.26,Default,,0,0,0,,What a fool! You don't know that\NElectra is behind the minute hand!
-Dialogue: 0,0:12:14.05,0:12:17.34,Default,,0,0,0,,At 6:00, everyone will see\Nthat you and Saint Tail...
-Dialogue: 0,0:12:17.42,0:12:18.91,Default,,0,0,0,,are both idiots!
-Dialogue: 0,0:12:42.71,0:12:44.67,Default,,0,0,0,,Looks like there isn't any security.
-Dialogue: 0,0:12:47.15,0:12:49.38,Default,,0,0,0,,I have to climb the clock tower.
-Dialogue: 0,0:13:03.84,0:13:04.97,Default,,0,0,0,,That's...!
-Dialogue: 0,0:13:13.41,0:13:17.17,Default,,0,0,0,,Almost 6:00. Time for Saint Tail\Nto make her appearance.
-Dialogue: 0,0:13:18.76,0:13:20.49,Default,,0,0,0,,Sir! We've got trouble!
-Dialogue: 0,0:13:20.57,0:13:23.09,Default,,0,0,0,,What's wrong?\NWhy are you so excited?
-Dialogue: 0,0:13:23.81,0:13:28.04,Default,,0,0,0,,Sir! Someone is climbing the ladder\Non the side of the clock tower!
-Dialogue: 0,0:13:28.29,0:13:29.02,Default,,0,0,0,,What?
-Dialogue: 0,0:13:29.43,0:13:32.06,Default,,0,0,0,,That ladder leads to the top stairs!
-Dialogue: 0,0:13:32.64,0:13:33.23,Default,,0,0,0,,Oh, no!
-Dialogue: 0,0:13:56.38,0:13:59.15,Default,,0,0,0,,Okay! Saint Tail, come on out!
-Dialogue: 0,0:13:59.56,0:14:00.49,Default,,0,0,0,,Hi!
-Dialogue: 0,0:14:01.80,0:14:02.36,Default,,0,0,0,,What?
-Dialogue: 0,0:14:02.80,0:14:07.04,Default,,0,0,0,,What a beautiful moon.\NI'm so happy you waited for me.
-Dialogue: 0,0:14:07.62,0:14:09.02,Default,,0,0,0,,Saint Tail.
-Dialogue: 0,0:14:09.76,0:14:11.25,Default,,0,0,0,,Why are you up there?
-Dialogue: 0,0:14:11.40,0:14:13.06,Default,,0,0,0,,I know where it's really hidden.
-Dialogue: 0,0:14:13.14,0:14:16.60,Default,,0,0,0,,Electra is behind the minute hand.
-Dialogue: 0,0:14:18.29,0:14:20.09,Default,,0,0,0,,Behind the minute hand?
-Dialogue: 0,0:14:29.36,0:14:32.89,Default,,0,0,0,,Well, that's it. I've got Electra.
-Dialogue: 0,0:14:37.42,0:14:39.51,Default,,0,0,0,,My Electra is being stolen!
-Dialogue: 0,0:14:39.63,0:14:41.86,Default,,0,0,0,,Wait! Saint Tail!
-Dialogue: 0,0:14:42.07,0:14:43.19,Default,,0,0,0,,Darn!
-Dialogue: 0,0:14:45.01,0:14:46.20,Default,,0,0,0,,What's going on?!
-Dialogue: 0,0:14:46.28,0:14:49.15,Default,,0,0,0,,Mr. Egami, you said the Electra was\Nbehind the hour hand!
-Dialogue: 0,0:14:49.22,0:14:50.19,Default,,0,0,0,,Shut up!
-Dialogue: 0,0:14:50.96,0:14:53.40,Default,,0,0,0,,Saint Tail, I won't let you get away!
-Dialogue: 0,0:14:58.89,0:15:00.52,Default,,0,0,0,,You can't escape!
-Dialogue: 0,0:15:00.79,0:15:02.76,Default,,0,0,0,,Don't move, Saint Tail!
-Dialogue: 0,0:15:06.81,0:15:09.25,Default,,0,0,0,,It's showtime!
-Dialogue: 0,0:15:23.77,0:15:26.67,Default,,0,0,0,,That's the balloon she used\Nto send me the challenge.
-Dialogue: 0,0:15:27.55,0:15:29.18,Default,,0,0,0,,Bye, bye!
-Dialogue: 0,0:15:30.02,0:15:31.18,Default,,0,0,0,,Darn it!
-Dialogue: 0,0:15:32.43,0:15:33.46,Default,,0,0,0,,You won't get away!
-Dialogue: 0,0:15:50.69,0:15:51.42,Default,,0,0,0,,Ouch!
-Dialogue: 0,0:15:56.55,0:15:59.31,Default,,0,0,0,,This time,\NI'll bust that big one!
-Dialogue: 0,0:16:00.56,0:16:02.86,Default,,0,0,0,,Stop!
-Dialogue: 0,0:16:03.23,0:16:04.26,Default,,0,0,0,,Shut up!!
-Dialogue: 0,0:16:20.69,0:16:22.78,Default,,0,0,0,,This will get my Electra back!
-Dialogue: 0,0:16:27.71,0:16:29.68,Default,,0,0,0,,Brat! How dare you!
-Dialogue: 0,0:16:44.47,0:16:46.44,Default,,0,0,0,,Cut it out!! ...Stop!!
-Dialogue: 0,0:16:50.92,0:16:52.22,Default,,0,0,0,,Stop... please...
-Dialogue: 0,0:16:59.35,0:17:02.84,Default,,0,0,0,,I wasn't trying to protect you!\NDon't misunderstand what I did!
-Dialogue: 0,0:17:07.44,0:17:08.31,Default,,0,0,0,,Listen!
-Dialogue: 0,0:17:08.42,0:17:10.21,Default,,0,0,0,,Keep sending me those challenges!
-Dialogue: 0,0:17:10.45,0:17:11.94,Default,,0,0,0,,Give me a fair chance!
-Dialogue: 0,0:17:12.36,0:17:14.33,Default,,0,0,0,,I'll get you sooner or later!
-Dialogue: 0,0:17:14.57,0:17:16.54,Default,,0,0,0,,Are you listening?!
-Dialogue: 0,0:17:22.33,0:17:25.69,Default,,0,0,0,,I don't know why,\Nbut it's fun to have him around.
-Dialogue: 0,0:17:26.01,0:17:29.70,Default,,0,0,0,,And I'll do anything\Nto keep on feeling this way.
-Dialogue: 0,0:17:37.64,0:17:38.58,Default,,0,0,0,,Good Morning!
-Dialogue: 0,0:17:38.85,0:17:39.78,Default,,0,0,0,,Good Morning!
-Dialogue: 0,0:17:49.48,0:17:52.11,Default,,0,0,0,,The real owner was very happy.
-Dialogue: 0,0:17:52.33,0:17:54.62,Default,,0,0,0,,She says, "Thank you for\Nreturning Electra".
-Dialogue: 0,0:17:55.77,0:17:57.97,Default,,0,0,0,,Hang on a sec.\NI'll catch up with you.
-Dialogue: 0,0:17:58.15,0:17:58.80,Default,,0,0,0,,Sure.
-Dialogue: 0,0:18:02.09,0:18:04.96,Default,,0,0,0,,That old man...\Nhe even had me fooled!
-Dialogue: 0,0:18:05.84,0:18:07.17,Default,,0,0,0,,Hey, great detective!
-Dialogue: 0,0:18:07.74,0:18:09.71,Default,,0,0,0,,You're a hero in the papers, again.
-Dialogue: 0,0:18:09.85,0:18:11.51,Default,,0,0,0,,You caught another crook, huh?
-Dialogue: 0,0:18:11.62,0:18:14.82,Default,,0,0,0,,Yeah... but Saint Tail still got away.
-Dialogue: 0,0:18:15.07,0:18:17.87,Default,,0,0,0,,Well, you can give us the details later.
-Dialogue: 0,0:18:20.02,0:18:21.25,Default,,0,0,0,,Asuka Jr.!
-Dialogue: 0,0:18:22.26,0:18:23.49,Default,,0,0,0,,Asuka Jr.!
-Dialogue: 0,0:18:25.03,0:18:26.66,Default,,0,0,0,,What do you want?
-Dialogue: 0,0:18:26.81,0:18:29.24,Default,,0,0,0,,Glad to hear your name's been cleared.\NThat's great!
-Dialogue: 0,0:18:29.62,0:18:31.05,Default,,0,0,0,,Yeah. Thanks.
-Dialogue: 0,0:18:32.83,0:18:37.09,Default,,0,0,0,,And you let Saint Tail get away again.\NI hear you're on bad terms with her.
-Dialogue: 0,0:18:37.81,0:18:40.14,Default,,0,0,0,,What do you mean, "again"!
-Dialogue: 0,0:18:40.32,0:18:43.12,Default,,0,0,0,,Anyway, it's none of your business!
-Dialogue: 0,0:18:44.50,0:18:47.73,Default,,0,0,0,,Ah, she's a hopeless case.
-Dialogue: 0,0:18:49.68,0:18:51.65,Default,,0,0,0,,But that cut...! Could it be?
-Dialogue: 0,0:18:58.88,0:19:01.01,Default,,0,0,0,,Well, hang in there till next time!
-Dialogue: 0,0:19:03.49,0:19:07.62,Default,,0,0,0,,I know that Saint Tail is a girl\Nabout the same age as me.
-Dialogue: 0,0:19:09.21,0:19:10.37,Default,,0,0,0,,It couldn't be...
-Dialogue: 0,0:19:11.72,0:19:13.05,Default,,0,0,0,,Nah, it can't be!
-Dialogue: 0,0:19:28.01,0:19:32.81,Default,,0,0,0,,Saint Tail Mini-Theatre!\N"The Great Hot Potato Chase!"
-Dialogue: 0,0:19:41.08,0:19:45.42,Default,,0,0,0,,Autumn leaves.\NIt'll be fall in no time.
-Dialogue: 0,0:19:46.94,0:19:47.96,Default,,0,0,0,,Meimi?
-Dialogue: 0,0:19:48.21,0:19:50.68,Default,,0,0,0,,I'm at the best part of the story,\Nso don't talk to me right now!
-Dialogue: 0,0:19:50.88,0:19:53.35,Default,,0,0,0,,Autumn, is a season for reading...
-Dialogue: 0,0:19:53.56,0:19:56.65,Default,,0,0,0,,But how about reading something\Nother than comic books sometime?
-Dialogue: 0,0:19:57.87,0:20:00.50,Default,,0,0,0,,Ah... "Autumn of Romance."
-Dialogue: 0,0:20:00.82,0:20:03.38,Default,,0,0,0,,I'd like to be chased by...
-Dialogue: 0,0:20:03.46,0:20:07.12,Default,,0,0,0,,a handsome, passionate lover,\Nlike the girl in this comic!
-Dialogue: 0,0:20:07.47,0:20:15.24,Default,,0,0,0,,But Meimi, you do have a passionate\Nperson chasing after you, don't you?
-Dialogue: 0,0:20:17.77,0:20:22.23,Default,,0,0,0,,Hot potatoes!
-Dialogue: 0,0:20:27.30,0:20:29.63,Default,,0,0,0,,Meimi! How un-ladylike!
-Dialogue: 0,0:20:29.71,0:20:33.48,Default,,0,0,0,,My, Seira.\NWasn't that your stomach just now?
-Dialogue: 0,0:20:33.59,0:20:42.12,Default,,0,0,0,,That's right ladies! Come and get them!\NThey're hot and sweet!
-Dialogue: 0,0:20:43.26,0:20:46.69,Default,,0,0,0,,Autumn's the season to\Ncrave sweet potatoes!
-Dialogue: 0,0:20:47.37,0:20:50.67,Default,,0,0,0,,Stone-baked sweet potatoes!\NHot!
-Dialogue: 0,0:20:50.78,0:20:53.15,Default,,0,0,0,,Well then Meimi, please go ahead!
-Dialogue: 0,0:20:53.49,0:20:59.33,Default,,0,0,0,,Hey, just a minute!\NWhy should I have to go buy it myself!
-Dialogue: 0,0:20:59.64,0:21:05.05,Default,,0,0,0,,I'm a servant of God. Sister told me\Nit's forbidden for me to buy and eat.
-Dialogue: 0,0:21:05.29,0:21:08.63,Default,,0,0,0,,Oh really? Then that means I don't\Nhave to get one for you, right?
-Dialogue: 0,0:21:09.48,0:21:16.85,Default,,0,0,0,,Buying is forbidden, but it's fine\Nto have a kind friend share a snack.
-Dialogue: 0,0:21:18.87,0:21:20.84,Default,,0,0,0,,I always have to play these roles.
-Dialogue: 0,0:21:21.21,0:21:23.21,Default,,0,0,0,,Someday, Seira's gonna get punished!
-Dialogue: 0,0:21:23.69,0:21:27.56,Default,,0,0,0,,Natural and delicious!\NStone-baked hot potatoes!
-Dialogue: 0,0:21:27.64,0:21:29.69,Default,,0,0,0,,Nobody's looking... here I go!
-Dialogue: 0,0:21:29.81,0:21:31.30,Default,,0,0,0,,Sir!
-Dialogue: 0,0:21:31.38,0:21:33.35,Default,,0,0,0,,Hey! Haneoka, is that you?
-Dialogue: 0,0:21:34.83,0:21:36.02,Default,,0,0,0,,That voice!
-Dialogue: 0,0:21:37.60,0:21:39.30,Default,,0,0,0,,Asuka Jr.!
-Dialogue: 0,0:21:39.77,0:21:41.74,Default,,0,0,0,,What are you doing here?
-Dialogue: 0,0:21:42.42,0:21:44.82,Default,,0,0,0,,Wha... what?\NIt's none of your business!
-Dialogue: 0,0:21:45.43,0:21:47.72,Default,,0,0,0,,What about you!\NWhat are you doing here?
-Dialogue: 0,0:21:47.94,0:21:49.16,Default,,0,0,0,,What else?
-Dialogue: 0,0:21:49.44,0:21:52.38,Default,,0,0,0,,I'm in the middle of an investigation\Nto catch Saint Tail's tail!
-Dialogue: 0,0:21:52.58,0:21:53.52,Default,,0,0,0,,Don't even try.
-Dialogue: 0,0:21:53.62,0:21:56.32,Default,,0,0,0,,Saint Tail isn't a slowpoke\Nthat you'd be able to catch!
-Dialogue: 0,0:21:56.83,0:21:57.92,Default,,0,0,0,,What did you say?!
-Dialogue: 0,0:21:58.00,0:22:01.87,Default,,0,0,0,,The Mayor himself commissioned me!
-Dialogue: 0,0:22:02.48,0:22:04.25,Default,,0,0,0,,So don't interfere!
-Dialogue: 0,0:22:04.89,0:22:06.29,Default,,0,0,0,,Are you kidding?
-Dialogue: 0,0:22:06.40,0:22:07.79,Default,,0,0,0,,This isn't a Samurai movie!
-Dialogue: 0,0:22:07.90,0:22:10.46,Default,,0,0,0,,Who'd be impressed with\Na thing like that?
-Dialogue: 0,0:22:10.54,0:22:12.13,Default,,0,0,0,,-What did you say?!\N-What of it?!
-Dialogue: 0,0:22:12.25,0:22:15.65,Default,,0,0,0,,Stone-baked hot potatoes!
-Dialogue: 0,0:22:17.03,0:22:18.66,Default,,0,0,0,,Piping hot sweet potatoes!
-Dialogue: 0,0:22:18.80,0:22:21.97,Default,,0,0,0,,Wait! Mr. hot potato vendor!
-Dialogue: 0,0:22:23.69,0:22:25.18,Default,,0,0,0,,What's with you?
-Dialogue: 0,0:22:25.59,0:22:28.99,Default,,0,0,0,,Why are you acting so strange?\NDid you want to buy a sweet potato?
-Dialogue: 0,0:22:29.37,0:22:32.27,Default,,0,0,0,,That's right! Anything wrong with that?!\NGo ahead and laugh!
-Dialogue: 0,0:22:32.35,0:22:33.71,Default,,0,0,0,,How stupid.
-Dialogue: 0,0:22:33.79,0:22:35.75,Default,,0,0,0,,That's nothing to be ashamed of.
-Dialogue: 0,0:22:35.89,0:22:38.05,Default,,0,0,0,,I like them, too.\NSweet potatoes.
-Dialogue: 0,0:22:39.34,0:22:40.40,Default,,0,0,0,,Get on!
-Dialogue: 0,0:22:41.18,0:22:43.67,Default,,0,0,0,,Let's go!\NWe can still catch it!
-Dialogue: 0,0:22:52.88,0:22:54.75,Default,,0,0,0,,All right!\NThere it is!
-Dialogue: 0,0:23:07.56,0:23:09.66,Default,,0,0,0,,It's a patrol car!\NWhat are we gonna do?
-Dialogue: 0,0:23:09.80,0:23:12.50,Default,,0,0,0,,We can't stop!\NWhat am I supposed to do!
-Dialogue: 0,0:23:12.88,0:23:15.71,Default,,0,0,0,,You two on the bicycle up ahead!\NStop right now!
-Dialogue: 0,0:23:16.39,0:23:19.29,Default,,0,0,0,,Oh, no!\NIt's my dad's patrol car!
-Dialogue: 0,0:23:19.77,0:23:23.50,Default,,0,0,0,,Blah Blah Blah Blah...
-Dialogue: 0,0:23:24.75,0:23:26.28,Default,,0,0,0,,I'm sorry Asuka Jr.
-Dialogue: 0,0:23:26.39,0:23:28.02,Default,,0,0,0,,It's all because of me.
-Dialogue: 0,0:23:28.13,0:23:29.56,Default,,0,0,0,,Don't worry.
-Dialogue: 0,0:23:29.64,0:23:31.60,Default,,0,0,0,,I'm used to Dad chewing me out.
-Dialogue: 0,0:23:32.31,0:23:35.84,Default,,0,0,0,,More importantly, I'm sorry we\Ndidn't get to buy the sweet potato.
-Dialogue: 0,0:23:36.63,0:23:38.59,Default,,0,0,0,,Oh yeah! I forgot all about it!
-Dialogue: 0,0:23:38.93,0:23:40.37,Default,,0,0,0,,What do you mean you forgot?
-Dialogue: 0,0:23:41.98,0:23:45.28,Default,,0,0,0,,Piping hot sweet potatoes!
-Dialogue: 0,0:23:47.56,0:23:48.76,Default,,0,0,0,,Wait!
-Dialogue: 0,0:23:49.00,0:23:50.97,Default,,0,0,0,,Sweet potato vendor!
-Dialogue: 0,0:23:59.23,0:24:01.53,Default,,0,0,0,,Meimi sure is taking a long time!
+Dialogue: 0,0:00:10.97,0:00:12.06,saint tail default,,0,0,0,,Asuka Jr.
+Dialogue: 0,0:00:12.54,0:00:13.90,saint tail default,,0,0,0,,Let's walk home together!
+Dialogue: 0,0:00:14.28,0:00:14.80,saint tail default,,0,0,0,,Sure!
+Dialogue: 0,0:00:16.02,0:00:17.14,saint tail default,,0,0,0,,We heard the news!
+Dialogue: 0,0:00:17.25,0:00:19.35,saint tail default,,0,0,0,,You've been asked by the Mayor...
+Dialogue: 0,0:00:19.43,0:00:22.33,saint tail default,,0,0,0,,to help arrest that\Nphantom thief, Saint Tail!
+Dialogue: 0,0:00:23.81,0:00:24.78,saint tail default,,0,0,0,,Is it true?
+Dialogue: 0,0:00:24.91,0:00:26.04,saint tail default,,0,0,0,,Yup, it sure is!
+Dialogue: 0,0:00:26.12,0:00:27.64,saint tail default,,0,0,0,,Wow! That's great!
+Dialogue: 0,0:00:27.82,0:00:30.02,saint tail default,,0,0,0,,They say you did great\Non the last case!
+Dialogue: 0,0:00:30.93,0:00:34.42,saint tail default,,0,0,0,,How you protected the\Njewels from Saint Tail!
+Dialogue: 0,0:00:34.74,0:00:37.34,saint tail default,,0,0,0,,It was all over the papers!
+Dialogue: 0,0:00:37.69,0:00:39.09,saint tail default,,0,0,0,,I read that article, too.
+Dialogue: 0,0:00:39.59,0:00:41.93,saint tail default,,0,0,0,,It said, "He protected the Blue\NMeteorite from Saint Tail...
+Dialogue: 0,0:00:42.00,0:00:44.30,saint tail default,,0,0,0,,and helped in the arrest of Umido."\NThat's how it went?
+Dialogue: 0,0:00:44.41,0:00:45.47,saint tail default,,0,0,0,,Yup, that's how it went.
+Dialogue: 0,0:00:46.32,0:00:49.58,saint tail default,,0,0,0,,But you let Saint Tail get away,\Ndidn't you?
+Dialogue: 0,0:00:50.60,0:00:53.09,saint tail default,,0,0,0,,That's why I've been\Nasked to catch her.
+Dialogue: 0,0:00:53.61,0:00:57.44,saint tail default,,0,0,0,,I'm the only one who's\Nseen her up close.
+Dialogue: 0,0:00:59.19,0:01:01.13,saint tail default,,0,0,0,,See! This is my official permit!
+Dialogue: 0,0:01:01.70,0:01:02.72,saint tail default,,0,0,0,,What is it?
+Dialogue: 0,0:01:03.61,0:01:06.13,saint tail default,,0,0,0,,It's the badge I gotfrom the Mayor.
+Dialogue: 0,0:01:07.12,0:01:10.78,saint tail default,,0,0,0,,All I have to do is show this\Nand I can get in to investigate.
+Dialogue: 0,0:01:11.30,0:01:12.93,saint tail default,,0,0,0,,Hey, that's really something.
+Dialogue: 0,0:01:13.14,0:01:16.27,saint tail default,,0,0,0,,Does your dad know?
+Dialogue: 0,0:01:17.59,0:01:19.68,saint tail default,,0,0,0,,He got himself all worked up over it.
+Dialogue: 0,0:01:19.76,0:01:21.89,saint tail default,,0,0,0,,He wants me to get the job done,\Ndo or die.
+Dialogue: 0,0:01:23.84,0:01:26.93,saint tail default,,0,0,0,,Isn't that Saint Tail's first failure?
+Dialogue: 0,0:01:27.08,0:01:27.64,saint tail default,,0,0,0,,Failure?
+Dialogue: 0,0:01:28.25,0:01:30.62,saint tail default,,0,0,0,,And her nemesis is Asuka Jr.
+Dialogue: 0,0:01:31.03,0:01:33.52,saint tail default,,0,0,0,,I've got to hand it to you,\Nyou're great!
+Dialogue: 0,0:01:33.61,0:01:34.80,saint tail default,,0,0,0,,It's true, it's true.
+Dialogue: 0,0:01:34.88,0:01:36.40,saint tail default,,0,0,0,,Ain't it fabulous?
+Dialogue: 0,0:01:36.55,0:01:38.68,saint tail default,,0,0,0,,Ah, it's nothing.
+Dialogue: 0,0:01:38.96,0:01:40.01,saint tail default,,0,0,0,,You've got it all wrong!
+Dialogue: 0,0:01:40.09,0:01:40.62,saint tail default,,0,0,0,,Huh?
+Dialogue: 0,0:01:41.36,0:01:43.09,saint tail default,,0,0,0,,I haven't failed!
+Dialogue: 0,0:01:44.37,0:01:45.97,saint tail default,,0,0,0,,Whose voice was that?
+Dialogue: 0,0:01:46.35,0:01:47.28,saint tail default,,0,0,0,,Beats me.
+Dialogue: 0,0:01:49.59,0:01:52.79,saint tail default,,0,0,0,,Oh, Meimi,\Ndon't let it bother you!
+Dialogue: 0,0:01:52.93,0:01:55.20,saint tail default,,0,0,0,,I've never failed once!
+Dialogue: 0,0:01:55.64,0:01:56.61,saint tail default,,0,0,0,,I know, I know.
+Dialogue: 0,0:01:56.68,0:01:59.41,saint tail default,,0,0,0,,Why don't you drop by the\Nchurch for a while?
+Dialogue: 0,0:01:59.52,0:02:01.86,saint tail default,,0,0,0,,I haven't failed!
+Dialogue: 0,0:02:06.65,0:02:08.62,saint tail default,,0,0,0,,He's really asking for it!
+Dialogue: 0,0:02:08.89,0:02:11.58,saint tail default,,0,0,0,,As if a guy like that\Ncould catch me!
+Dialogue: 0,0:02:11.83,0:02:14.49,saint tail default,,0,0,0,,My, you're fired up,\Naren't you Meimi?
+Dialogue: 0,0:02:14.61,0:02:15.73,saint tail default,,0,0,0,,That's great!
+Dialogue: 0,0:02:15.81,0:02:16.44,saint tail default,,0,0,0,,Huh?
+Dialogue: 0,0:02:16.55,0:02:18.45,saint tail default,,0,0,0,,Your mission this time is...
+Dialogue: 0,0:02:23.27,0:02:24.50,saint tail default,,0,0,0,,This tiara.
+Dialogue: 0,0:02:25.51,0:02:27.50,saint tail default,,0,0,0,,It's called Electra.
+Dialogue: 0,0:02:27.68,0:02:28.58,saint tail default,,0,0,0,,Electra?
+Dialogue: 0,0:02:32.13,0:02:34.93,saint tail default,,0,0,0,,Named for the star\Nin the Subaru constellation.
+Dialogue: 0,0:02:35.24,0:02:37.04,saint tail default,,0,0,0,,Also known as "the missing one".
+Dialogue: 0,0:02:38.12,0:02:42.58,saint tail default,,0,0,0,,It was stolen from someone by Egami,\Nwho lives on 7th avenue.
+Dialogue: 0,0:02:43.60,0:02:47.97,saint tail default,,0,0,0,,Let's return it to\Nits rightful owner.
+Dialogue: 0,0:02:48.52,0:02:49.51,saint tail default,,0,0,0,,Wait a minute!
+Dialogue: 0,0:02:49.82,0:02:50.45,saint tail default,,0,0,0,,What?
+Dialogue: 0,0:02:50.86,0:02:52.35,saint tail default,,0,0,0,,This wouldn't be a good time.
+Dialogue: 0,0:02:52.63,0:02:54.39,saint tail default,,0,0,0,,You heard, didn't you?
+Dialogue: 0,0:02:54.47,0:02:57.44,saint tail default,,0,0,0,,Asuka Jr. received a badge from the\NMayor, granting investigation power.
+Dialogue: 0,0:02:57.51,0:03:00.01,saint tail default,,0,0,0,,He's all wound up\Nand ready to leap into action.
+Dialogue: 0,0:03:01.49,0:03:05.56,saint tail default,,0,0,0,,Meimi, you're not afraid of\NAsuka Jr., are you?
+Dialogue: 0,0:03:05.71,0:03:06.40,saint tail default,,0,0,0,,What?
+Dialogue: 0,0:03:07.88,0:03:10.11,saint tail default,,0,0,0,,If that's so, it can't be helped.
+Dialogue: 0,0:03:10.52,0:03:12.96,saint tail default,,0,0,0,,Let's forget about this caper.
+Dialogue: 0,0:03:13.03,0:03:14.06,saint tail default,,0,0,0,,Wait a minute!
+Dialogue: 0,0:03:14.54,0:03:15.73,saint tail default,,0,0,0,,You're kidding, aren't you?
+Dialogue: 0,0:03:16.21,0:03:17.64,saint tail default,,0,0,0,,Let's do it!
+Dialogue: 0,0:03:17.88,0:03:20.11,saint tail default,,0,0,0,,You just leave it to me!
+Dialogue: 0,0:03:22.10,0:03:26.29,saint tail default,,0,0,0,,I'm not afraid of a bumbling\Ndetective like him at all!
+Dialogue: 0,0:03:29.12,0:03:30.45,saint tail default,,0,0,0,,I'm leaving!
+Dialogue: 0,0:03:34.30,0:03:37.03,saint tail default,,0,0,0,,Saint Tail... Isn't she wonderful?
+Dialogue: 0,0:03:37.68,0:03:40.74,saint tail default,,0,0,0,,She's exactly like me\Nwhen I was young.
+Dialogue: 0,0:03:40.86,0:03:41.55,saint tail default,,0,0,0,,Aww shoot...
+Dialogue: 0,0:03:42.73,0:03:43.72,saint tail default,,0,0,0,,That's strange.
+Dialogue: 0,0:03:47.21,0:03:48.77,saint tail default,,0,0,0,,What's the matter, Papa?
+Dialogue: 0,0:03:49.42,0:03:51.48,saint tail default,,0,0,0,,The balloons...\Nwhere have I put them?
+Dialogue: 0,0:03:52.33,0:03:53.19,saint tail default,,0,0,0,,Balloons?
+Dialogue: 0,0:03:53.50,0:03:55.06,saint tail default,,0,0,0,,The ones I use for my magic.
+Dialogue: 0,0:03:57.01,0:04:00.14,saint tail default,,0,0,0,,Aren't they supposed to\Nbe in your trunk?
+Dialogue: 0,0:04:00.46,0:04:03.29,saint tail default,,0,0,0,,Yes, but they're not there!
+Dialogue: 0,0:04:07.68,0:04:09.61,saint tail default,,0,0,0,,Only the balloons have disappeared.
+Dialogue: 0,0:04:10.39,0:04:12.65,saint tail default,,0,0,0,,Papa, are you sure they're missing?
+Dialogue: 0,0:04:14.30,0:04:16.00,saint tail default,,0,0,0,,Remember what happened\Nthe other day.
+Dialogue: 0,0:04:16.64,0:04:18.70,saint tail default,,0,0,0,,You put two socks on one foot and...
+Dialogue: 0,0:04:19.05,0:04:21.38,saint tail default,,0,0,0,,went around saying\N"Where's my other sock?!"
+Dialogue: 0,0:04:21.73,0:04:23.39,saint tail default,,0,0,0,,Oh, don't bring that up.
+Dialogue: 0,0:04:26.04,0:04:27.44,saint tail default,,0,0,0,,Anyway, it's strange.
+Dialogue: 0,0:04:39.88,0:04:40.94,saint tail default,,0,0,0,,Hey! What's that?
+Dialogue: 0,0:04:41.09,0:04:42.45,saint tail default,,0,0,0,,Asuka! Up in the sky!
+Dialogue: 0,0:04:42.53,0:04:43.15,saint tail default,,0,0,0,,Huh?
+Dialogue: 0,0:04:46.71,0:04:47.87,saint tail default,,0,0,0,,What's that?
+Dialogue: 0,0:04:48.18,0:04:52.24,saint tail default,,0,0,0,,"I'll be picking up the Electra\Ntonight - Saint Tail."
+Dialogue: 0,0:04:53.60,0:04:55.96,saint tail default,,0,0,0,,It's a note from Saint Tail!
+Dialogue: 0,0:04:56.21,0:04:58.90,saint tail default,,0,0,0,,Hey, it's a challenge! What class!
+Dialogue: 0,0:05:00.49,0:05:01.42,saint tail default,,0,0,0,,You're kidding!
+Dialogue: 0,0:05:01.52,0:05:02.49,saint tail default,,0,0,0,,This is fantastic!
+Dialogue: 0,0:05:03.06,0:05:04.19,saint tail default,,0,0,0,,She's the phantom, alright!
+Dialogue: 0,0:05:04.50,0:05:06.02,saint tail default,,0,0,0,,She's got real guts!
+Dialogue: 0,0:05:10.45,0:05:13.01,saint tail default,,0,0,0,,I'll be ready for you, Saint Tail!
+Dialogue: 0,0:05:16.77,0:05:20.77,saint tail default,,0,0,0,,Meimi? Just what is this\Nall about exactly?
+Dialogue: 0,0:05:22.99,0:05:27.83,saint tail default,,0,0,0,,Hey have you heard? Saint Tail\Nsent Asuka Jr. a challenge!
+Dialogue: 0,0:05:27.91,0:05:29.24,saint tail default,,0,0,0,,Don't you think that's strange?
+Dialogue: 0,0:05:29.31,0:05:30.34,saint tail default,,0,0,0,,What is?
+Dialogue: 0,0:05:31.76,0:05:35.75,saint tail default,,0,0,0,,Why do you think she told Asuka Jr.?
+Dialogue: 0,0:05:36.14,0:05:38.10,saint tail default,,0,0,0,,It does seem too good to be true.
+Dialogue: 0,0:05:38.34,0:05:39.17,saint tail default,,0,0,0,,Doesn't it?
+Dialogue: 0,0:05:42.86,0:05:45.62,saint tail default,,0,0,0,,Maybe Saint Tail and Asuka Jr. are...
+Dialogue: 0,0:05:45.70,0:05:46.72,saint tail default,,0,0,0,,No doubt!
+Dialogue: 0,0:05:47.21,0:05:49.30,saint tail default,,0,0,0,,The two of them are in this together!
+Dialogue: 0,0:05:54.06,0:05:55.36,saint tail default,,0,0,0,,So...
+Dialogue: 0,0:05:57.47,0:06:00.20,saint tail default,,0,0,0,,Saint Tail has sent a challenge.
+Dialogue: 0,0:06:00.85,0:06:04.25,saint tail default,,0,0,0,,I won 't let anyone get\Nmy tiara, Electra!
+Dialogue: 0,0:06:06.40,0:06:10.20,saint tail default,,0,0,0,,Sir, there is a rumor going around...
+Dialogue: 0,0:06:10.75,0:06:11.72,saint tail default,,0,0,0,,Yes, what is it?
+Dialogue: 0,0:06:13.59,0:06:17.26,saint tail default,,0,0,0,,What! Saint Tail and Asuka Jr.\Nare working together?!
+Dialogue: 0,0:06:17.84,0:06:18.83,saint tail default,,0,0,0,,Excuse me.
+Dialogue: 0,0:06:23.02,0:06:25.75,saint tail default,,0,0,0,,You're Mr. Egami, the tiara's owner,\Naren't you?
+Dialogue: 0,0:06:26.20,0:06:27.36,saint tail default,,0,0,0,,And you are?
+Dialogue: 0,0:06:28.54,0:06:32.14,saint tail default,,0,0,0,,The Mayor asked me to assist in\Nthe Saint Tail investigation.
+Dialogue: 0,0:06:32.25,0:06:33.22,saint tail default,,0,0,0,,My name is Asuka.
+Dialogue: 0,0:06:35.77,0:06:38.93,saint tail default,,0,0,0,,Oh, so you're Asuka Jr.
+Dialogue: 0,0:06:39.55,0:06:41.14,saint tail default,,0,0,0,,I've been waiting for you.
+Dialogue: 0,0:06:44.96,0:06:46.19,saint tail default,,0,0,0,,Excuse me.
+Dialogue: 0,0:06:51.95,0:06:54.58,saint tail default,,0,0,0,,I leave all security in your hands.
+Dialogue: 0,0:06:54.93,0:06:56.09,saint tail default,,0,0,0,,Yes, sir! I understand.
+Dialogue: 0,0:06:56.60,0:06:58.57,saint tail default,,0,0,0,,Please catch Saint Tail.
+Dialogue: 0,0:06:59.48,0:07:01.97,saint tail default,,0,0,0,,No matter what the rumors may say...
+Dialogue: 0,0:07:02.29,0:07:04.28,saint tail default,,0,0,0,,I trust you.
+Dialogue: 0,0:07:05.86,0:07:08.03,saint tail default,,0,0,0,,Rumors? What are you talking about?
+Dialogue: 0,0:07:08.61,0:07:09.70,saint tail default,,0,0,0,,You don't know?
+Dialogue: 0,0:07:10.11,0:07:13.67,saint tail default,,0,0,0,,There's great doubt\Nabout you right now!
+Dialogue: 0,0:07:14.99,0:07:19.95,saint tail default,,0,0,0,,It's suspected that you\Nare Saint Tail's accomplice!
+Dialogue: 0,0:07:20.38,0:07:21.87,saint tail default,,0,0,0,,What did you say?
+Dialogue: 0,0:07:22.96,0:07:25.48,saint tail default,,0,0,0,,She sent you a note, didn't she?
+Dialogue: 0,0:07:25.96,0:07:27.33,saint tail default,,0,0,0,,Wait, please!
+Dialogue: 0,0:07:27.44,0:07:28.16,saint tail default,,0,0,0,,Of course.
+Dialogue: 0,0:07:28.37,0:07:32.33,saint tail default,,0,0,0,,I'm sure it's all just rumors.
+Dialogue: 0,0:07:33.86,0:07:38.89,saint tail default,,0,0,0,,For the sake of clearing your name,\Nplease protect my Electra.
+Dialogue: 0,0:07:39.41,0:07:40.81,saint tail default,,0,0,0,,Of course!
+Dialogue: 0,0:07:41.42,0:07:43.21,saint tail default,,0,0,0,,Who'd want to work with\Nthat girl, anyway?
+Dialogue: 0,0:07:43.76,0:07:44.72,saint tail default,,0,0,0,,Sir?
+Dialogue: 0,0:07:46.57,0:07:49.06,saint tail default,,0,0,0,,Everything is ready.
+Dialogue: 0,0:07:49.61,0:07:51.98,saint tail default,,0,0,0,,The tiara is in place.
+Dialogue: 0,0:07:52.99,0:07:54.95,saint tail default,,0,0,0,,Everything has gone well.
+Dialogue: 0,0:07:56.00,0:07:58.73,saint tail default,,0,0,0,,The fool trusted me completely.
+Dialogue: 0,0:08:00.48,0:08:03.57,saint tail default,,0,0,0,,I'd never be tricked\Nby a brat like that!
+Dialogue: 0,0:08:05.49,0:08:08.33,saint tail default,,0,0,0,,I'll set them both up and turn him in\Nto the police along with Saint Tail!
+Dialogue: 0,0:08:10.08,0:08:12.17,saint tail default,,0,0,0,,By the way, Mr. Egami,\Nwhere is Electra right now?
+Dialogue: 0,0:08:13.62,0:08:16.78,saint tail default,,0,0,0,,The truth is, hearing about the\Nchallenge made me nervous.
+Dialogue: 0,0:08:16.87,0:08:20.82,saint tail default,,0,0,0,,I couldn't leave it in the mansion,\Nso I've hidden it in a safe place.
+Dialogue: 0,0:08:21.75,0:08:24.51,saint tail default,,0,0,0,,You're really a worrier, aren't you?
+Dialogue: 0,0:08:24.72,0:08:26.52,saint tail default,,0,0,0,,So, where did you hide it?
+Dialogue: 0,0:08:28.57,0:08:29.54,saint tail default,,0,0,0,,Over there!
+Dialogue: 0,0:08:37.17,0:08:39.43,saint tail default,,0,0,0,,At the top of that clock tower.
+Dialogue: 0,0:08:42.28,0:08:45.25,saint tail default,,0,0,0,,Why hide it in such a difficult place?!
+Dialogue: 0,0:08:45.63,0:08:47.06,saint tail default,,0,0,0,,Where exactly in the\Nclock tower is it?
+Dialogue: 0,0:08:47.53,0:08:49.19,saint tail default,,0,0,0,,On the face of the clock.
+Dialogue: 0,0:08:49.47,0:08:51.03,saint tail default,,0,0,0,,Behind the hour hand.
+Dialogue: 0,0:09:00.41,0:09:01.14,saint tail default,,0,0,0,,What!
+Dialogue: 0,0:09:01.31,0:09:03.80,saint tail default,,0,0,0,,On the face of the clock,\Nbehind the hour hand?
+Dialogue: 0,0:09:05.19,0:09:07.49,saint tail default,,0,0,0,,That's a tough place to get it from.
+Dialogue: 0,0:09:08.27,0:09:12.10,saint tail default,,0,0,0,,Actually, I know for sure he's lying.
+Dialogue: 0,0:09:12.55,0:09:14.52,saint tail default,,0,0,0,,The tiara is really behind\Nthe minute hand.
+Dialogue: 0,0:09:14.92,0:09:17.91,saint tail default,,0,0,0,,How did you get information like that?
+Dialogue: 0,0:09:18.64,0:09:22.54,saint tail default,,0,0,0,,Egami is trying to frame Asuka Jr.!
+Dialogue: 0,0:09:22.92,0:09:24.65,saint tail default,,0,0,0,,What? A trap!
+Dialogue: 0,0:09:46.76,0:09:50.86,saint tail default,,0,0,0,,There's a rumor that Asuka Jr.\Nis Saint Tail's accomplice.
+Dialogue: 0,0:09:51.24,0:09:55.74,saint tail default,,0,0,0,,Egami would never tell him the true\Nhiding place of the tiara, would he?
+Dialogue: 0,0:09:58.37,0:10:04.67,saint tail default,,0,0,0,,He lied so Asuka Jr. will be\Narrested along with Saint Tail.
+Dialogue: 0,0:10:05.05,0:10:06.52,saint tail default,,0,0,0,,That's terrible.
+Dialogue: 0,0:10:06.76,0:10:10.03,saint tail default,,0,0,0,,It's all because of that note you sent\Nto challenge him, Meimi!
+Dialogue: 0,0:10:10.91,0:10:12.03,saint tail default,,0,0,0,,You think so?
+Dialogue: 0,0:10:13.28,0:10:17.01,saint tail default,,0,0,0,,I guess so... He's getting set up,\Nbecause of me!
+Dialogue: 0,0:10:19.07,0:10:26.84,saint tail default,,0,0,0,,If you steal the tiara from the minute\Nhand, Asuka Jr.'s name is cleared.
+Dialogue: 0,0:10:27.60,0:10:28.58,saint tail default,,0,0,0,,That's right.
+Dialogue: 0,0:10:29.74,0:10:32.83,saint tail default,,0,0,0,,My lord, forgive me,\Nfor I use no gimmick or trick.
+Dialogue: 0,0:10:37.93,0:10:38.79,saint tail default,,0,0,0,,One!
+Dialogue: 0,0:10:41.41,0:10:42.31,saint tail default,,0,0,0,,Two!
+Dialogue: 0,0:10:44.75,0:10:46.31,saint tail default,,0,0,0,,Three!
+Dialogue: 0,0:11:00.84,0:11:03.86,saint tail default,,0,0,0,,May the blessing of God be with us.
+Dialogue: 0,0:11:06.19,0:11:07.68,saint tail default,,0,0,0,,But I'll tell you this...
+Dialogue: 0,0:11:08.33,0:11:11.20,saint tail default,,0,0,0,,I'm not doing this to help him!
+Dialogue: 0,0:11:11.71,0:11:12.77,saint tail default,,0,0,0,,Yes, yes.
+Dialogue: 0,0:11:13.51,0:11:15.07,saint tail default,,0,0,0,,Off you go.
+Dialogue: 0,0:11:32.98,0:11:33.97,saint tail default,,0,0,0,,Asuka Jr.!
+Dialogue: 0,0:11:35.29,0:11:37.85,saint tail default,,0,0,0,,Do you intend to sit there and\Nstake out the place all night?
+Dialogue: 0,0:11:38.60,0:11:40.12,saint tail default,,0,0,0,,Not all night.
+Dialogue: 0,0:11:40.84,0:11:43.63,saint tail default,,0,0,0,,Saint Tail will be coming at exactly 6:00.
+Dialogue: 0,0:11:45.02,0:11:46.04,saint tail default,,0,0,0,,How do you know that?
+Dialogue: 0,0:11:46.99,0:11:50.52,saint tail default,,0,0,0,,The only time Saint Tail can reach\Nthe hour hand is 6:00.
+Dialogue: 0,0:11:51.67,0:11:54.73,saint tail default,,0,0,0,,To steal Electra at any other time...
+Dialogue: 0,0:11:55.92,0:11:57.11,saint tail default,,0,0,0,,is impossible!
+Dialogue: 0,0:11:57.76,0:11:58.66,saint tail default,,0,0,0,,I see.
+Dialogue: 0,0:11:58.96,0:12:01.56,saint tail default,,0,0,0,,I'm counting on you, Asuka Jr.
+Dialogue: 0,0:12:04.08,0:12:05.57,saint tail default,,0,0,0,,I'm waiting for you, Saint Tail!
+Dialogue: 0,0:12:08.46,0:12:13.26,saint tail default,,0,0,0,,What a fool! You don't know that\NElectra is behind the minute hand!
+Dialogue: 0,0:12:14.05,0:12:17.34,saint tail default,,0,0,0,,At 6:00, everyone will see\Nthat you and Saint Tail...
+Dialogue: 0,0:12:17.42,0:12:18.91,saint tail default,,0,0,0,,are both idiots!
+Dialogue: 0,0:12:42.71,0:12:44.67,saint tail default,,0,0,0,,Looks like there isn't any security.
+Dialogue: 0,0:12:47.15,0:12:49.38,saint tail default,,0,0,0,,I have to climb the clock tower.
+Dialogue: 0,0:13:03.84,0:13:04.97,saint tail default,,0,0,0,,That's...!
+Dialogue: 0,0:13:13.41,0:13:17.17,saint tail default,,0,0,0,,Almost 6:00. Time for Saint Tail\Nto make her appearance.
+Dialogue: 0,0:13:18.76,0:13:20.49,saint tail default,,0,0,0,,Sir! We've got trouble!
+Dialogue: 0,0:13:20.57,0:13:23.09,saint tail default,,0,0,0,,What's wrong?\NWhy are you so excited?
+Dialogue: 0,0:13:23.81,0:13:28.04,saint tail default,,0,0,0,,Sir! Someone is climbing the ladder\Non the side of the clock tower!
+Dialogue: 0,0:13:28.29,0:13:29.02,saint tail default,,0,0,0,,What?
+Dialogue: 0,0:13:29.43,0:13:32.06,saint tail default,,0,0,0,,That ladder leads to the top stairs!
+Dialogue: 0,0:13:32.64,0:13:33.23,saint tail default,,0,0,0,,Oh, no!
+Dialogue: 0,0:13:56.38,0:13:59.15,saint tail default,,0,0,0,,Okay! Saint Tail, come on out!
+Dialogue: 0,0:13:59.56,0:14:00.49,saint tail default,,0,0,0,,Hi!
+Dialogue: 0,0:14:01.80,0:14:02.36,saint tail default,,0,0,0,,What?
+Dialogue: 0,0:14:02.80,0:14:07.04,saint tail default,,0,0,0,,What a beautiful moon.\NI'm so happy you waited for me.
+Dialogue: 0,0:14:07.62,0:14:09.02,saint tail default,,0,0,0,,Saint Tail.
+Dialogue: 0,0:14:09.76,0:14:11.25,saint tail default,,0,0,0,,Why are you up there?
+Dialogue: 0,0:14:11.40,0:14:13.06,saint tail default,,0,0,0,,I know where it's really hidden.
+Dialogue: 0,0:14:13.14,0:14:16.60,saint tail default,,0,0,0,,Electra is behind the minute hand.
+Dialogue: 0,0:14:18.29,0:14:20.09,saint tail default,,0,0,0,,Behind the minute hand?
+Dialogue: 0,0:14:29.36,0:14:32.89,saint tail default,,0,0,0,,Well, that's it. I've got Electra.
+Dialogue: 0,0:14:37.42,0:14:39.51,saint tail default,,0,0,0,,My Electra is being stolen!
+Dialogue: 0,0:14:39.63,0:14:41.86,saint tail default,,0,0,0,,Wait! Saint Tail!
+Dialogue: 0,0:14:42.07,0:14:43.19,saint tail default,,0,0,0,,Darn!
+Dialogue: 0,0:14:45.01,0:14:46.20,saint tail default,,0,0,0,,What's going on?!
+Dialogue: 0,0:14:46.28,0:14:49.15,saint tail default,,0,0,0,,Mr. Egami, you said the Electra was\Nbehind the hour hand!
+Dialogue: 0,0:14:49.22,0:14:50.19,saint tail default,,0,0,0,,Shut up!
+Dialogue: 0,0:14:50.96,0:14:53.40,saint tail default,,0,0,0,,Saint Tail, I won't let you get away!
+Dialogue: 0,0:14:58.89,0:15:00.52,saint tail default,,0,0,0,,You can't escape!
+Dialogue: 0,0:15:00.79,0:15:02.76,saint tail default,,0,0,0,,Don't move, Saint Tail!
+Dialogue: 0,0:15:06.81,0:15:09.25,saint tail default,,0,0,0,,It's showtime!
+Dialogue: 0,0:15:23.77,0:15:26.67,saint tail default,,0,0,0,,That's the balloon she used\Nto send me the challenge.
+Dialogue: 0,0:15:27.55,0:15:29.18,saint tail default,,0,0,0,,Bye, bye!
+Dialogue: 0,0:15:30.02,0:15:31.18,saint tail default,,0,0,0,,Darn it!
+Dialogue: 0,0:15:32.43,0:15:33.46,saint tail default,,0,0,0,,You won't get away!
+Dialogue: 0,0:15:50.69,0:15:51.42,saint tail default,,0,0,0,,Ouch!
+Dialogue: 0,0:15:56.55,0:15:59.31,saint tail default,,0,0,0,,This time,\NI'll bust that big one!
+Dialogue: 0,0:16:00.56,0:16:02.86,saint tail default,,0,0,0,,Stop!
+Dialogue: 0,0:16:03.23,0:16:04.26,saint tail default,,0,0,0,,Shut up!!
+Dialogue: 0,0:16:20.69,0:16:22.78,saint tail default,,0,0,0,,This will get my Electra back!
+Dialogue: 0,0:16:27.71,0:16:29.68,saint tail default,,0,0,0,,Brat! How dare you!
+Dialogue: 0,0:16:44.47,0:16:46.44,saint tail default,,0,0,0,,Cut it out!! ...Stop!!
+Dialogue: 0,0:16:50.92,0:16:52.22,saint tail default,,0,0,0,,Stop... please...
+Dialogue: 0,0:16:59.35,0:17:02.84,saint tail default,,0,0,0,,I wasn't trying to protect you!\NDon't misunderstand what I did!
+Dialogue: 0,0:17:07.44,0:17:08.31,saint tail default,,0,0,0,,Listen!
+Dialogue: 0,0:17:08.42,0:17:10.21,saint tail default,,0,0,0,,Keep sending me those challenges!
+Dialogue: 0,0:17:10.45,0:17:11.94,saint tail default,,0,0,0,,Give me a fair chance!
+Dialogue: 0,0:17:12.36,0:17:14.33,saint tail default,,0,0,0,,I'll get you sooner or later!
+Dialogue: 0,0:17:14.57,0:17:16.54,saint tail default,,0,0,0,,Are you listening?!
+Dialogue: 0,0:17:22.33,0:17:25.69,saint tail default,,0,0,0,,I don't know why,\Nbut it's fun to have him around.
+Dialogue: 0,0:17:26.01,0:17:29.70,saint tail default,,0,0,0,,And I'll do anything\Nto keep on feeling this way.
+Dialogue: 0,0:17:37.64,0:17:38.58,saint tail default,,0,0,0,,Good Morning!
+Dialogue: 0,0:17:38.85,0:17:39.78,saint tail default,,0,0,0,,Good Morning!
+Dialogue: 0,0:17:49.48,0:17:52.11,saint tail default,,0,0,0,,The real owner was very happy.
+Dialogue: 0,0:17:52.33,0:17:54.62,saint tail default,,0,0,0,,She says, "Thank you for\Nreturning Electra".
+Dialogue: 0,0:17:55.77,0:17:57.97,saint tail default,,0,0,0,,Hang on a sec.\NI'll catch up with you.
+Dialogue: 0,0:17:58.15,0:17:58.80,saint tail default,,0,0,0,,Sure.
+Dialogue: 0,0:18:02.09,0:18:04.96,saint tail default,,0,0,0,,That old man...\Nhe even had me fooled!
+Dialogue: 0,0:18:05.84,0:18:07.17,saint tail default,,0,0,0,,Hey, great detective!
+Dialogue: 0,0:18:07.74,0:18:09.71,saint tail default,,0,0,0,,You're a hero in the papers, again.
+Dialogue: 0,0:18:09.85,0:18:11.51,saint tail default,,0,0,0,,You caught another crook, huh?
+Dialogue: 0,0:18:11.62,0:18:14.82,saint tail default,,0,0,0,,Yeah... but Saint Tail still got away.
+Dialogue: 0,0:18:15.07,0:18:17.87,saint tail default,,0,0,0,,Well, you can give us the details later.
+Dialogue: 0,0:18:20.02,0:18:21.25,saint tail default,,0,0,0,,Asuka Jr.!
+Dialogue: 0,0:18:22.26,0:18:23.49,saint tail default,,0,0,0,,Asuka Jr.!
+Dialogue: 0,0:18:25.03,0:18:26.66,saint tail default,,0,0,0,,What do you want?
+Dialogue: 0,0:18:26.81,0:18:29.24,saint tail default,,0,0,0,,Glad to hear your name's been cleared.\NThat's great!
+Dialogue: 0,0:18:29.62,0:18:31.05,saint tail default,,0,0,0,,Yeah. Thanks.
+Dialogue: 0,0:18:32.83,0:18:37.09,saint tail default,,0,0,0,,And you let Saint Tail get away again.\NI hear you're on bad terms with her.
+Dialogue: 0,0:18:37.81,0:18:40.14,saint tail default,,0,0,0,,What do you mean, "again"!
+Dialogue: 0,0:18:40.32,0:18:43.12,saint tail default,,0,0,0,,Anyway, it's none of your business!
+Dialogue: 0,0:18:44.50,0:18:47.73,saint tail default,,0,0,0,,Ah, she's a hopeless case.
+Dialogue: 0,0:18:49.68,0:18:51.65,saint tail default,,0,0,0,,But that cut...! Could it be?
+Dialogue: 0,0:18:58.88,0:19:01.01,saint tail default,,0,0,0,,Well, hang in there till next time!
+Dialogue: 0,0:19:03.49,0:19:07.62,saint tail default,,0,0,0,,I know that Saint Tail is a girl\Nabout the same age as me.
+Dialogue: 0,0:19:09.21,0:19:10.37,saint tail default,,0,0,0,,It couldn't be...
+Dialogue: 0,0:19:11.72,0:19:13.05,saint tail default,,0,0,0,,Nah, it can't be!
+Dialogue: 0,0:19:28.01,0:19:32.81,saint tail default,,0,0,0,,Saint Tail Mini-Theatre!\N"The Great Hot Potato Chase!"
+Dialogue: 0,0:19:41.08,0:19:45.42,saint tail default,,0,0,0,,Autumn leaves.\NIt'll be fall in no time.
+Dialogue: 0,0:19:46.94,0:19:47.96,saint tail default,,0,0,0,,Meimi?
+Dialogue: 0,0:19:48.21,0:19:50.68,saint tail default,,0,0,0,,I'm at the best part of the story,\Nso don't talk to me right now!
+Dialogue: 0,0:19:50.88,0:19:53.35,saint tail default,,0,0,0,,Autumn, is a season for reading...
+Dialogue: 0,0:19:53.56,0:19:56.65,saint tail default,,0,0,0,,But how about reading something\Nother than comic books sometime?
+Dialogue: 0,0:19:57.87,0:20:00.50,saint tail default,,0,0,0,,Ah... "Autumn of Romance."
+Dialogue: 0,0:20:00.82,0:20:03.38,saint tail default,,0,0,0,,I'd like to be chased by...
+Dialogue: 0,0:20:03.46,0:20:07.12,saint tail default,,0,0,0,,a handsome, passionate lover,\Nlike the girl in this comic!
+Dialogue: 0,0:20:07.47,0:20:15.24,saint tail default,,0,0,0,,But Meimi, you do have a passionate\Nperson chasing after you, don't you?
+Dialogue: 0,0:20:17.77,0:20:22.23,saint tail default,,0,0,0,,Hot potatoes!
+Dialogue: 0,0:20:27.30,0:20:29.63,saint tail default,,0,0,0,,Meimi! How un-ladylike!
+Dialogue: 0,0:20:29.71,0:20:33.48,saint tail default,,0,0,0,,My, Seira.\NWasn't that your stomach just now?
+Dialogue: 0,0:20:33.59,0:20:42.12,saint tail default,,0,0,0,,That's right ladies! Come and get them!\NThey're hot and sweet!
+Dialogue: 0,0:20:43.26,0:20:46.69,saint tail default,,0,0,0,,Autumn's the season to\Ncrave sweet potatoes!
+Dialogue: 0,0:20:47.37,0:20:50.67,saint tail default,,0,0,0,,Stone-baked sweet potatoes!\NHot!
+Dialogue: 0,0:20:50.78,0:20:53.15,saint tail default,,0,0,0,,Well then Meimi, please go ahead!
+Dialogue: 0,0:20:53.49,0:20:59.33,saint tail default,,0,0,0,,Hey, just a minute!\NWhy should I have to go buy it myself!
+Dialogue: 0,0:20:59.64,0:21:05.05,saint tail default,,0,0,0,,I'm a servant of God. Sister told me\Nit's forbidden for me to buy and eat.
+Dialogue: 0,0:21:05.29,0:21:08.63,saint tail default,,0,0,0,,Oh really? Then that means I don't\Nhave to get one for you, right?
+Dialogue: 0,0:21:09.48,0:21:16.85,saint tail default,,0,0,0,,Buying is forbidden, but it's fine\Nto have a kind friend share a snack.
+Dialogue: 0,0:21:18.87,0:21:20.84,saint tail default,,0,0,0,,I always have to play these roles.
+Dialogue: 0,0:21:21.21,0:21:23.21,saint tail default,,0,0,0,,Someday, Seira's gonna get punished!
+Dialogue: 0,0:21:23.69,0:21:27.56,saint tail default,,0,0,0,,Natural and delicious!\NStone-baked hot potatoes!
+Dialogue: 0,0:21:27.64,0:21:29.69,saint tail default,,0,0,0,,Nobody's looking... here I go!
+Dialogue: 0,0:21:29.81,0:21:31.30,saint tail default,,0,0,0,,Sir!
+Dialogue: 0,0:21:31.38,0:21:33.35,saint tail default,,0,0,0,,Hey! Haneoka, is that you?
+Dialogue: 0,0:21:34.83,0:21:36.02,saint tail default,,0,0,0,,That voice!
+Dialogue: 0,0:21:37.60,0:21:39.30,saint tail default,,0,0,0,,Asuka Jr.!
+Dialogue: 0,0:21:39.77,0:21:41.74,saint tail default,,0,0,0,,What are you doing here?
+Dialogue: 0,0:21:42.42,0:21:44.82,saint tail default,,0,0,0,,Wha... what?\NIt's none of your business!
+Dialogue: 0,0:21:45.43,0:21:47.72,saint tail default,,0,0,0,,What about you!\NWhat are you doing here?
+Dialogue: 0,0:21:47.94,0:21:49.16,saint tail default,,0,0,0,,What else?
+Dialogue: 0,0:21:49.44,0:21:52.38,saint tail default,,0,0,0,,I'm in the middle of an investigation\Nto catch Saint Tail's tail!
+Dialogue: 0,0:21:52.58,0:21:53.52,saint tail default,,0,0,0,,Don't even try.
+Dialogue: 0,0:21:53.62,0:21:56.32,saint tail default,,0,0,0,,Saint Tail isn't a slowpoke\Nthat you'd be able to catch!
+Dialogue: 0,0:21:56.83,0:21:57.92,saint tail default,,0,0,0,,What did you say?!
+Dialogue: 0,0:21:58.00,0:22:01.87,saint tail default,,0,0,0,,The Mayor himself commissioned me!
+Dialogue: 0,0:22:02.48,0:22:04.25,saint tail default,,0,0,0,,So don't interfere!
+Dialogue: 0,0:22:04.89,0:22:06.29,saint tail default,,0,0,0,,Are you kidding?
+Dialogue: 0,0:22:06.40,0:22:07.79,saint tail default,,0,0,0,,This isn't a Samurai movie!
+Dialogue: 0,0:22:07.90,0:22:10.46,saint tail default,,0,0,0,,Who'd be impressed with\Na thing like that?
+Dialogue: 0,0:22:10.54,0:22:12.13,saint tail default,,0,0,0,,-What did you say?!\N-What of it?!
+Dialogue: 0,0:22:12.25,0:22:15.65,saint tail default,,0,0,0,,Stone-baked hot potatoes!
+Dialogue: 0,0:22:17.03,0:22:18.66,saint tail default,,0,0,0,,Piping hot sweet potatoes!
+Dialogue: 0,0:22:18.80,0:22:21.97,saint tail default,,0,0,0,,Wait! Mr. hot potato vendor!
+Dialogue: 0,0:22:23.69,0:22:25.18,saint tail default,,0,0,0,,What's with you?
+Dialogue: 0,0:22:25.59,0:22:28.99,saint tail default,,0,0,0,,Why are you acting so strange?\NDid you want to buy a sweet potato?
+Dialogue: 0,0:22:29.37,0:22:32.27,saint tail default,,0,0,0,,That's right! Anything wrong with that?!\NGo ahead and laugh!
+Dialogue: 0,0:22:32.35,0:22:33.71,saint tail default,,0,0,0,,How stupid.
+Dialogue: 0,0:22:33.79,0:22:35.75,saint tail default,,0,0,0,,That's nothing to be ashamed of.
+Dialogue: 0,0:22:35.89,0:22:38.05,saint tail default,,0,0,0,,I like them, too.\NSweet potatoes.
+Dialogue: 0,0:22:39.34,0:22:40.40,saint tail default,,0,0,0,,Get on!
+Dialogue: 0,0:22:41.18,0:22:43.67,saint tail default,,0,0,0,,Let's go!\NWe can still catch it!
+Dialogue: 0,0:22:52.88,0:22:54.75,saint tail default,,0,0,0,,All right!\NThere it is!
+Dialogue: 0,0:23:07.56,0:23:09.66,saint tail default,,0,0,0,,It's a patrol car!\NWhat are we gonna do?
+Dialogue: 0,0:23:09.80,0:23:12.50,saint tail default,,0,0,0,,We can't stop!\NWhat am I supposed to do!
+Dialogue: 0,0:23:12.88,0:23:15.71,saint tail default,,0,0,0,,You two on the bicycle up ahead!\NStop right now!
+Dialogue: 0,0:23:16.39,0:23:19.29,saint tail default,,0,0,0,,Oh, no!\NIt's my dad's patrol car!
+Dialogue: 0,0:23:19.77,0:23:23.50,saint tail default,,0,0,0,,Blah Blah Blah Blah...
+Dialogue: 0,0:23:24.75,0:23:26.28,saint tail default,,0,0,0,,I'm sorry Asuka Jr.
+Dialogue: 0,0:23:26.39,0:23:28.02,saint tail default,,0,0,0,,It's all because of me.
+Dialogue: 0,0:23:28.13,0:23:29.56,saint tail default,,0,0,0,,Don't worry.
+Dialogue: 0,0:23:29.64,0:23:31.60,saint tail default,,0,0,0,,I'm used to Dad chewing me out.
+Dialogue: 0,0:23:32.31,0:23:35.84,saint tail default,,0,0,0,,More importantly, I'm sorry we\Ndidn't get to buy the sweet potato.
+Dialogue: 0,0:23:36.63,0:23:38.59,saint tail default,,0,0,0,,Oh yeah! I forgot all about it!
+Dialogue: 0,0:23:38.93,0:23:40.37,saint tail default,,0,0,0,,What do you mean you forgot?
+Dialogue: 0,0:23:41.98,0:23:45.28,saint tail default,,0,0,0,,Piping hot sweet potatoes!
+Dialogue: 0,0:23:47.56,0:23:48.76,saint tail default,,0,0,0,,Wait!
+Dialogue: 0,0:23:49.00,0:23:50.97,saint tail default,,0,0,0,,Sweet potato vendor!
+Dialogue: 0,0:23:59.23,0:24:01.53,saint tail default,,0,0,0,,Meimi sure is taking a long time!
