@@ -21,6 +21,38 @@ Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F2
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
+Dialogue: 0,0:00:13.70,0:00:17.45,saint tail title,[title],0,0,0,,{TIME:13701,17455}{\fax-0.04\blur3\1a&HFF&\shad0}Saint Tail
+Dialogue: 1,0:00:13.70,0:00:17.45,saint tail title,[title],0,0,0,,{TIME:13701,17455}{\fax-0.04\blur2\bord0\shad0}Saint Tail
+Dialogue: 0,0:00:17.70,0:00:21.66,saint tail op jp,[karaoke],0,0,0,,{TIME:17705,21668}{\pos(690,1010)\blur1}kitzutsuku tabi ni nanimo miezuni{NOTE:傷つく度に何も見えずに}
+Dialogue: 0,0:00:21.66,0:00:25.58,saint tail op jp,[karaoke],0,0,0,,{TIME:21668,25588}{\pos(700,1010)\blur1}kokoro ni itsuwaridaite{NOTE:心に偽り抱いて}
+Dialogue: 0,0:00:25.58,0:00:29.55,saint tail op jp,[karaoke],0,0,0,,{TIME:25588,29551}{\pos(700,1010)\blur1}toki no hayasa ni miugoki torezu{NOTE:時の速さに　身動きとれず}
+Dialogue: 0,0:00:29.55,0:00:34.59,saint tail op jp,[karaoke],0,0,0,,{TIME:29551,34597}{\pos(705,1010)\blur1}subete wo tozashiteta kedo{NOTE:全てを　閉ざしてたけど}
+Dialogue: 0,0:00:34.59,0:00:40.64,saint tail op jp,[karaoke],0,0,0,,{TIME:34597,40645}{\pos(705,1010)\blur1}tomerarenai no nanimo kamo{NOTE:とめられないの　何もかも}
+Dialogue: 0,0:00:41.06,0:00:47.61,saint tail op jp,[karaoke],0,0,0,,{TIME:41062,47610}{\pos(705,1010)\blur1}uketomete maiagaru{NOTE:受け止めて　舞い上がる}
+Dialogue: 0,0:00:49.57,0:00:53.49,saint tail op jp,[karaoke],0,0,0,,{TIME:49571,53491}{\pos(705,1010)\blur1}subete no toki wo koetetobitatsu{NOTE:全ての時を　越えて飛び立つ}
+Dialogue: 0,0:00:53.49,0:00:56.99,saint tail op jp,[karaoke],0,0,0,,{TIME:53491,56995}{\pos(705,1010)\blur1}anata no kuuki daite{NOTE:あなたの空気抱いて}
+Dialogue: 0,0:00:56.99,0:01:03.00,saint tail op jp,[karaoke],0,0,0,,{TIME:56995,63001}{\pos(700,1010)\blur1}kono sekai made tsutsumu hikaritachi{NOTE:この世界まで　つつむ光達}
+Dialogue: 0,0:01:05.46,0:01:09.25,saint tail op jp,[karaoke],0,0,0,,{TIME:65461,69257}{\pos(700,1010)\blur1}hateshinai sora kawaranu hitomi{NOTE:果てしない空　変わらぬ瞳}
+Dialogue: 0,0:01:09.25,0:01:12.96,saint tail op jp,[karaoke],0,0,0,,{TIME:69257,72969}{\pos(700,1010)\blur1}aishiteitai{NOTE:愛していたい}
+Dialogue: 0,0:01:12.96,0:01:19.35,saint tail op jp,[karaoke],0,0,0,,{TIME:72969,79350}{\pos(710,1010)\blur1}donna ni tooku hanareteitatte{NOTE:どんなに遠く　離れていたって}
+Dialogue: 0,0:01:19.35,0:01:22.77,saint tail op jp,[karaoke],0,0,0,,{TIME:79350,82770}{\pos(700,1010)\blur1}futari tokete yuku{NOTE:二人溶けてゆく}
+Comment: 0,0:01:27.06,0:01:29.44,saint tail op jp,[karaoke],0,0,0,,{TIME:87066,89444}{\blur1}want you here tonight
+Dialogue: 0,0:00:17.70,0:00:21.66,saint tail op en,[karaoke],0,0,0,,{TIME:17705,21668}Whenever my feelings were hurt,\NI couldn't see anything,
+Dialogue: 0,0:00:21.66,0:00:25.58,saint tail op en,[karaoke],0,0,0,,{TIME:21668,25588}because I held a lie in my heart.
+Dialogue: 0,0:00:25.58,0:00:29.55,saint tail op en,[karaoke],0,0,0,,{TIME:25588,29551}Time moved faster than I could react,
+Dialogue: 0,0:00:29.55,0:00:34.59,saint tail op en,[karaoke],0,0,0,,{TIME:29551,34597}so I pulled myself away\Nfrom everything, but now
+Dialogue: 0,0:00:34.59,0:00:40.64,saint tail op en,[karaoke],0,0,0,,{TIME:34597,40645}I can't stop anything at all.
+Dialogue: 0,0:00:41.06,0:00:47.61,saint tail op en,[karaoke],0,0,0,,{TIME:41062,47610}Accepting everything, I rise up.
+Dialogue: 0,0:00:49.57,0:00:53.49,saint tail op en,[karaoke],0,0,0,,{TIME:49571,53491}I'll fly over all of time\Nwhile holding onto your presence,
+Dialogue: 0,0:00:53.49,0:00:56.99,saint tail op en,[karaoke],0,0,0,,{TIME:53491,56995}following the trace of you.
+Dialogue: 0,0:00:56.99,0:01:03.00,saint tail op en,[karaoke],0,0,0,,{TIME:56995,63001}My world becomes engulfed with light.
+Dialogue: 0,0:01:05.46,0:01:09.25,saint tail op en,[karaoke],0,0,0,,{TIME:65461,69257}A never ending sky,\Nyour never changing eyes
+Dialogue: 0,0:01:09.25,0:01:12.96,saint tail op en,[karaoke],0,0,0,,{TIME:69257,72969}I want to love these things.
+Dialogue: 0,0:01:12.96,0:01:19.35,saint tail op en,[karaoke],0,0,0,,{TIME:72969,79350}No matter the distance,\Nor if we are separated
+Dialogue: 0,0:01:19.35,0:01:22.77,saint tail op en,[karaoke],0,0,0,,{TIME:79350,82770}we are always connected.
+Dialogue: 0,0:01:27.06,0:01:29.44,saint tail op en,[karaoke],0,0,0,,{TIME:87066,89444}Want you here tonight!
+Comment: 0,0:01:31.11,0:01:31.11,[chapter],[chapter],0,0,0,,{TIME:91112,91112}Part A
 Dialogue: 0,0:01:47.12,0:01:49.83,saint tail default,,0,0,0,,{TIME:107128,109839}We haven't dined out for a while.
 Dialogue: 0,0:01:50.04,0:01:53.59,saint tail default,,0,0,0,,{TIME:110048,113593}Let's make the best of it\Nby eating something great.
 Dialogue: 0,0:01:53.84,0:01:56.30,saint tail default,,0,0,0,,{TIME:113843,116304}But there's a long line everywhere.
