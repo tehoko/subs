@@ -18,6 +18,8 @@ Style: saint tail sign,Calibri,75,&H00D4FFED,&H000000FF,&H006E8E22,&HC7000000,-1
 Style: saint tail title,Campanile,130,&H00E6E4F9,&H000000FF,&H008D56C7,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
 Style: saint tail op en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
 Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H00001020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,3.0,2,20,20,70,1
+Style: saint tail ed en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,30,40,1
+Style: saint tail ed jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,30,32,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -318,3 +320,34 @@ Dialogue: 0,0:20:18.28,0:20:20.19,saint tail default,,0,0,0,,{TIME:1218280,12201
 Dialogue: 0,0:20:27.95,0:20:30.70,saint tail default,,0,0,0,,{TIME:1227956,1230709}I AM RETURNING THIS.\N– ST. TAIL
 Dialogue: 0,0:20:32.58,0:20:33.83,saint tail default,,0,0,0,,{TIME:1232586,1233837}…that my hand…
 Dialogue: 0,0:20:34.08,0:20:35.04,saint tail default,,0,0,0,,{TIME:1234087,1235046}…can reach you…
+Comment: 0,0:20:56.27,0:20:56.27,[chapter],[chapter],0,0,0,,{TIME:1256276,1256276}Ending
+Dialogue: 0,0:21:07.24,0:21:09.91,saint tail ed jp,[karaoke],0,0,0,,{TIME:1267245,1269915}{\blur1}merodii wo yume miyou{NOTE:メロディーを夢見よう}
+Dialogue: 0,0:21:09.91,0:21:14.96,saint tail ed jp,[karaoke],0,0,0,,{TIME:1269915,1274961}{\blur1}kitto futari wa moto no mama ja nai kara{NOTE:きっと　二人は　もとのままじゃないから}
+Dialogue: 0,0:21:14.96,0:21:22.42,saint tail ed jp,[karaoke],0,0,0,,{TIME:1274961,1282427}{\blur1}niji no iro yominagara yureru irodori no tonneru{NOTE:虹の色　読みながら　ゆれる　彩りのトンネル}
+Dialogue: 0,0:21:22.42,0:21:26.76,saint tail ed jp,[karaoke],0,0,0,,{TIME:1282427,1286765}{\blur1}hashirinuketemitai kara{NOTE:走り抜けてみたいから}
+Dialogue: 0,0:21:34.10,0:21:37.15,saint tail ed jp,[karaoke],0,0,0,,{TIME:1294105,1297150}{\blur1}fukakaina deeto no ato{NOTE:不可解なデートのあと}
+Dialogue: 0,0:21:38.02,0:21:42.15,saint tail ed jp,[karaoke],0,0,0,,{TIME:1298026,1302155}{\blur1}yonaka wa itsumo samishii kara{NOTE:夜中はいつも　さみしいから}
+Dialogue: 0,0:21:42.61,0:21:49.70,saint tail ed jp,[karaoke],0,0,0,,{TIME:1302614,1309704}{\blur1}mabuta no naka de anata wo sagasu{NOTE:まぶたの中で　あなたを捜す}
+Dialogue: 0,0:21:49.70,0:21:53.29,saint tail ed jp,[karaoke],0,0,0,,{TIME:1309704,1313291}{\blur1}sou roman wo kaizou shitai yo{NOTE:そうロマンを改造したいよ}
+Dialogue: 0,0:21:53.41,0:21:56.54,saint tail ed jp,[karaoke],0,0,0,,{TIME:1313416,1316545}{\blur1}kinou no koto wasurete{NOTE:昨日のこと意れて}
+Dialogue: 0,0:21:57.21,0:22:01.00,saint tail ed jp,[karaoke],0,0,0,,{TIME:1317212,1321007}{\blur1}motomeru mama nagasareteikou{NOTE:求めるまま流されていこう}
+Dialogue: 0,0:22:01.00,0:22:04.88,saint tail ed jp,[karaoke],0,0,0,,{TIME:1321007,1324886}{\blur1}biito dake wa kikoeru kara{NOTE:ビートだけは聞こえるから}
+Dialogue: 0,0:22:05.88,0:22:08.55,saint tail ed jp,[karaoke],0,0,0,,{TIME:1325887,1328557}{\blur1}merodii wo tsudzukeyou{NOTE:メロティーを続けよう}
+Dialogue: 0,0:22:08.55,0:22:13.43,saint tail ed jp,[karaoke],0,0,0,,{TIME:1328557,1333436}{\blur1}moshimo futari no ai ga yureteshimattemo{NOTE:もしも　二人の　愛が揺れてしまっても}
+Dialogue: 0,0:22:13.43,0:22:20.69,saint tail ed jp,[karaoke],0,0,0,,{TIME:1333436,1340694}{\blur1}niji wo mayoi nagara fushigi na kenka wo shiyou{NOTE:虹を迷いながら　不思議なケンカをしよう}
+Dialogue: 0,0:22:20.98,0:22:27.36,saint tail ed jp,[karaoke],0,0,0,,{TIME:1340986,1347367}{\blur1}namida wo jouhatsu sasenagara{NOTE:涙を蒸発させながら}
+Dialogue: 0,0:21:07.24,0:21:09.91,saint tail ed en,[karaoke],0,0,0,,{TIME:1267245,1269915}Let me dream of a melody,
+Dialogue: 0,0:21:09.91,0:21:14.96,saint tail ed en,[karaoke],0,0,0,,{TIME:1269915,1274961}'cause something tells me\Nwe won't stay like that for long.
+Dialogue: 0,0:21:14.96,0:21:22.42,saint tail ed en,[karaoke],0,0,0,,{TIME:1274961,1282427}The future is like a rainbow,\Na tunnel of vibrant colors,
+Dialogue: 0,0:21:22.42,0:21:26.76,saint tail ed en,[karaoke],0,0,0,,{TIME:1282427,1286765}and I'm stepping right inside of it.
+Dialogue: 0,0:21:34.10,0:21:37.15,saint tail ed en,[karaoke],0,0,0,,{TIME:1294105,1297150}The night after our mysterious date
+Dialogue: 0,0:21:38.02,0:21:42.15,saint tail ed en,[karaoke],0,0,0,,{TIME:1298026,1302155}I get so lonely you wouldn't imagine.
+Dialogue: 0,0:21:42.61,0:21:49.70,saint tail ed en,[karaoke],0,0,0,,{TIME:1302614,1309704}Under my eyelids there's only image of you.
+Dialogue: 0,0:21:49.70,0:21:53.29,saint tail ed en,[karaoke],0,0,0,,{TIME:1309704,1313291}I want to remodel this romance
+Dialogue: 0,0:21:53.41,0:21:56.54,saint tail ed en,[karaoke],0,0,0,,{TIME:1313416,1316545}and forget about yesterday already.
+Dialogue: 0,0:21:57.21,0:22:01.00,saint tail ed en,[karaoke],0,0,0,,{TIME:1317212,1321007}Let's stop holding back and get carried away.
+Dialogue: 0,0:22:01.00,0:22:04.88,saint tail ed en,[karaoke],0,0,0,,{TIME:1321007,1324886}Can you hear the beat of my heart?
+Dialogue: 0,0:22:05.88,0:22:08.55,saint tail ed en,[karaoke],0,0,0,,{TIME:1325887,1328557}Let this sweet melody continue.
+Dialogue: 0,0:22:08.55,0:22:13.43,saint tail ed en,[karaoke],0,0,0,,{TIME:1328557,1333436}Even if our love is shaken,
+Dialogue: 0,0:22:13.43,0:22:20.69,saint tail ed en,[karaoke],0,0,0,,{TIME:1333436,1340694}or we stray from the rainbow,\Nthere's not a day I'd rewind.
+Dialogue: 0,0:22:20.98,0:22:27.36,saint tail ed en,[karaoke],0,0,0,,{TIME:1340986,1347367}You see, my tears have dried long ago.
