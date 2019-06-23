@@ -18,6 +18,8 @@ Style: saint tail sign,Calibri,75,&H00D4FFED,&H000000FF,&H006E8E22,&HC7000000,-1
 Style: saint tail title,Campanile,150,&H00EDE6FF,&H000000FF,&H009457EA,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
 Style: saint tail op en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
 Style: saint tail op jp,Gotham Rounded,50,&H05FAFEFF,&H000000FF,&H00868686,&H00001020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,1.5,2,20,20,70,1
+Style: saint tail ed en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
+Style: saint tail ed jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,40,70,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -299,3 +301,26 @@ Dialogue: 0,0:20:29.49,0:20:33.25,saint tail default,,0,0,0,,{TIME:1229499,12332
 Dialogue: 0,0:20:36.84,0:20:38.92,saint tail default,,0,0,0,,{TIME:1236840,1238925}Were you two together last night?
 Dialogue: 0,0:20:39.13,0:20:42.59,saint tail default,,0,0,0,,{TIME:1239134,1242596}Don't be ridiculous!\NI wouldn't be caught dead—
 Dialogue: 0,0:20:44.38,0:20:46.72,saint tail default,,0,0,0,,{TIME:1244389,1246725}Hey, that hurts, Meimi!
+Comment: 0,0:20:53.27,0:20:53.27,[chapter],[chapter],0,0,0,,{TIME:1253273,1253273}Ending
+Dialogue: 0,0:20:54.14,0:21:00.61,saint tail ed jp,[karaoke],0,0,0,,{TIME:1254149,1260614}{\blur1}kisu wo shitemoraeru mae no{NOTE:キスをしてもらえるまえの}
+Dialogue: 0,0:21:01.61,0:21:06.99,saint tail ed jp,[karaoke],0,0,0,,{TIME:1261615,1266995}{\blur1}namida no wake wo{NOTE:涙のわけを}
+Dialogue: 0,0:21:07.45,0:21:14.00,saint tail ed jp,[karaoke],0,0,0,,{TIME:1267454,1274002}{\blur1}moshimo ima tazuneraretara{NOTE:もしも今尋ねられたら}
+Dialogue: 0,0:21:15.04,0:21:19.96,saint tail ed jp,[karaoke],0,0,0,,{TIME:1275045,1279966}{\blur1}dou sureba ii{NOTE:どうすればいい}
+Dialogue: 0,0:21:20.46,0:21:28.47,saint tail ed jp,[karaoke],0,0,0,,{TIME:1280467,1288475}{\blur1}konna kimochi wa kitto hajimete{NOTE:こんな気持ちは　きっとはじめて}
+Dialogue: 0,0:21:28.80,0:21:38.10,saint tail ed jp,[karaoke],0,0,0,,{TIME:1288809,1298109}{\blur1}ah nee anata ga shiranai{NOTE:Ah　ねえ　あなたが知らない}
+Dialogue: 0,0:21:38.40,0:21:44.99,saint tail ed jp,[karaoke],0,0,0,,{TIME:1298401,1304991}{\blur1}aa watashi wo shittemo{NOTE:ああ　私を知っても}
+Dialogue: 0,0:21:44.99,0:21:51.99,saint tail ed jp,[karaoke],0,0,0,,{TIME:1304991,1311998}{\blur1}nee kirai ni nattari{NOTE:ねえ　嫌いになったり}
+Dialogue: 0,0:21:51.99,0:21:58.83,saint tail ed jp,[karaoke],0,0,0,,{TIME:1311998,1318839}{\blur1}shinai to sotto sasayaite{NOTE:しないと　そっと　ささやいて}
+Dialogue: 0,0:21:59.21,0:22:04.76,saint tail ed jp,[karaoke],0,0,0,,{TIME:1319214,1324761}{\blur1}totemo kowai no{NOTE:とても怖いの}
+Dialogue: 0,0:22:05.88,0:22:14.02,saint tail ed jp,[karaoke],0,0,0,,{TIME:1325887,1334020}{\blur1}negai wa kanaimasu ka{NOTE:願いは叶いますか}
+Dialogue: 0,0:20:54.14,0:21:00.61,saint tail ed en,[karaoke],0,0,0,,{TIME:1254149,1260614}If you asked me
+Dialogue: 0,0:21:01.61,0:21:06.99,saint tail ed en,[karaoke],0,0,0,,{TIME:1261615,1266995}before we shared our first kiss
+Dialogue: 0,0:21:07.45,0:21:14.00,saint tail ed en,[karaoke],0,0,0,,{TIME:1267454,1274002}for the reason I was crying,
+Dialogue: 0,0:21:15.04,0:21:19.96,saint tail ed en,[karaoke],0,0,0,,{TIME:1275045,1279966}I don't know what I'd say.
+Dialogue: 0,0:21:20.46,0:21:28.47,saint tail ed en,[karaoke],0,0,0,,{TIME:1280467,1288475}It's the first time in my life\NI feel like this.
+Dialogue: 0,0:21:28.80,0:21:38.10,saint tail ed en,[karaoke],0,0,0,,{TIME:1288809,1298109}Ah, you still don't know so many things,
+Dialogue: 0,0:21:38.40,0:21:44.99,saint tail ed en,[karaoke],0,0,0,,{TIME:1298401,1304991}Ah, even though you know me pretty well.
+Dialogue: 0,0:21:44.99,0:21:51.99,saint tail ed en,[karaoke],0,0,0,,{TIME:1304991,1311998}Hey, my biggest silent wish
+Dialogue: 0,0:21:51.99,0:21:58.83,saint tail ed en,[karaoke],0,0,0,,{TIME:1311998,1318839}is for you to not end up hating me.
+Dialogue: 0,0:21:59.21,0:22:04.76,saint tail ed en,[karaoke],0,0,0,,{TIME:1319214,1324761}I'd be devastated if you did.
+Dialogue: 0,0:22:05.88,0:22:14.02,saint tail ed en,[karaoke],0,0,0,,{TIME:1325887,1334020}Will my prayer be answered?
