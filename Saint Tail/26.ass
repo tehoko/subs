@@ -18,6 +18,8 @@ Style: saint tail sign,Calibri,75,&H00D4FFED,&H000000FF,&H006E8E22,&HC7000000,-1
 Style: saint tail title,Campanile,150,&H00E6E4F9,&H000000FF,&H008D56C7,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
 Style: saint tail op en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
 Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H00001020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,1.5,2,20,20,70,1
+Style: saint tail ed en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,40,40,1
+Style: saint tail ed jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,40,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -310,3 +312,26 @@ Dialogue: 0,0:20:37.38,0:20:40.05,saint tail default,,0,0,0,,{TIME:1237382,12400
 Dialogue: 0,0:20:40.71,0:20:43.47,saint tail default,,0,0,0,,{TIME:1240719,1243472}Asuka Jr. seems to be in a good mood.
 Dialogue: 0,0:20:43.72,0:20:45.68,saint tail default,,0,0,0,,{TIME:1243722,1245682}Sure does.
 Dialogue: 0,0:20:45.93,0:20:48.10,saint tail default,,0,0,0,,{TIME:1245932,1248101}It's nice to see him smiling again.
+Comment: 0,0:20:57.27,0:20:57.27,[chapter],[chapter],0,0,0,,{TIME:1257277,1257277}Ending
+Dialogue: 0,0:21:04.32,0:21:11.41,saint tail ed jp,[karaoke],0,0,0,,{TIME:1264326,1271416}{\blur1\pos(680,1060)}ima no jibun ja nai watashi ni naritai{NOTE:今の自分じゃない　私になりたい}
+Dialogue: 0,0:21:12.37,0:21:20.09,saint tail ed jp,[karaoke],0,0,0,,{TIME:1272375,1280091}{\blur1}nido to kanashiku naranai kokoro ga hoshii{NOTE:二度と悲しくならない心が欲しい}
+Dialogue: 0,0:21:20.09,0:21:26.64,saint tail ed jp,[karaoke],0,0,0,,{TIME:1280091,1286640}{\blur1}dakedo kibun ga totemo ii yoru wa{NOTE:だけど気分がとてもいい夜は}
+Dialogue: 0,0:21:27.72,0:21:35.35,saint tail ed jp,[karaoke],0,0,0,,{TIME:1287724,1295357}{\blur1}zutto kono mama de itai nante omou{NOTE:ずっとこのままでいたいなんて思う}
+Dialogue: 0,0:21:35.35,0:21:41.98,saint tail ed jp,[karaoke],0,0,0,,{TIME:1295357,1301988}{\blur1}tsuki ga donna katachi ni mietemo{NOTE:月がどんな形に見えても}
+Dialogue: 0,0:21:42.94,0:21:49.49,saint tail ed jp,[karaoke],0,0,0,,{TIME:1302948,1309496}{\blur1}kuraku oto no nai uchuu no chiri no naka{NOTE:暗く音のない宇宙の塵の中}
+Dialogue: 0,0:21:50.58,0:21:57.00,saint tail ed jp,[karaoke],0,0,0,,{TIME:1310580,1317003}{\blur1}pokkari ukanderu tada no marui ishi de{NOTE:ぽっかり浮かんでる　ただの丸い石で}
+Dialogue: 0,0:21:58.17,0:22:04.84,saint tail ed jp,[karaoke],0,0,0,,{TIME:1318171,1324845}{\blur1}subete no hontou no sugata wa tabun sonna mono{NOTE:すべてのほんとうの姿は多分そんなもの}
+Comment: 0,0:22:09.64,0:22:12.93,saint tail ed jp,[karaoke],0,0,0,,{TIME:1329641,1332936}{\blur1}oh upside down{NOTE:OhーUpSideDown}
+Comment: 0,0:22:17.27,0:22:20.27,saint tail ed jp,[karaoke],0,0,0,,{TIME:1337274,1340277}{\blur1}oh upside down{NOTE:OhーUpSideDown}
+Comment: 0,0:22:24.99,0:22:27.57,saint tail ed jp,[karaoke],0,0,0,,{TIME:1344990,1347576}{\blur1}oh upside down{NOTE:OhーUpSideDown}
+Dialogue: 0,0:21:04.32,0:21:11.41,saint tail ed en,[karaoke],0,0,0,,{TIME:1264326,1271416}I want to become someone today I'm not.{NOTE:今の自分じゃない　私になりたい}
+Dialogue: 0,0:21:12.37,0:21:20.09,saint tail ed en,[karaoke],0,0,0,,{TIME:1272375,1280091}To have courage and never feel down again.{NOTE:二度と悲しくならない心が欲しい}
+Dialogue: 0,0:21:20.09,0:21:26.64,saint tail ed en,[karaoke],0,0,0,,{TIME:1280091,1286640}But tonight somehow everything just feels so well.{NOTE:だけど気分がとてもいい夜は}
+Dialogue: 0,0:21:27.72,0:21:35.35,saint tail ed en,[karaoke],0,0,0,,{TIME:1287724,1295357}I wouldn't mind if things stayed that way.{NOTE:ずっとこのままでいたいなんて思う}
+Dialogue: 0,0:21:35.35,0:21:41.98,saint tail ed en,[karaoke],0,0,0,,{TIME:1295357,1301988}No matter how you look at the Moon,{NOTE:月がどんな形に見えても}
+Dialogue: 0,0:21:42.94,0:21:49.49,saint tail ed en,[karaoke],0,0,0,,{TIME:1302948,1309496}It's but a dust in a dark, soundless universe.{NOTE:暗く音のない宇宙の塵の中}
+Dialogue: 0,0:21:50.58,0:21:57.00,saint tail ed en,[karaoke],0,0,0,,{TIME:1310580,1317003}Just a rock suspended in the sky.{NOTE:ぽっかり浮かんでる　ただの丸い石で}
+Dialogue: 0,0:21:58.17,0:22:04.84,saint tail ed en,[karaoke],0,0,0,,{TIME:1318171,1324845}Maybe everything down here is like that?{NOTE:すべてのほんとうの姿は多分そんなもの}
+Dialogue: 0,0:22:09.64,0:22:12.93,saint tail ed en,[karaoke],0,0,0,,{TIME:1329641,1332936}Oh, upside down!{NOTE:OhーUpSideDown}
+Dialogue: 0,0:22:17.27,0:22:20.27,saint tail ed en,[karaoke],0,0,0,,{TIME:1337274,1340277}Oh, upside down!{NOTE:OhーUpSideDown}
+Dialogue: 0,0:22:24.99,0:22:27.57,saint tail ed en,[karaoke],0,0,0,,{TIME:1344990,1347576}Oh, upside down!{NOTE:OhーUpSideDown}
