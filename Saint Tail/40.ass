@@ -15,15 +15,15 @@ Video File: source/40.mkv
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: saint tail default,Calibri,80,&H00FBFBFB,&H000000FF,&H00373737,&H80373737,-1,0,0,0,100.0,100.0,0.0,0.0,1,4.5,0.0,2,50,50,50,1
 Style: saint tail sign,Calibri,75,&H00D4FFED,&H000000FF,&H006E8E22,&HC7000000,-1,-1,0,0,100.0,100.0,0.0,0.0,1,4.5,0.0,8,50,50,50,1
-Style: saint tail title,Campanile,150,&H00E6E4F9,&H000000FF,&H008D56C7,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
+Style: saint tail title,Campanile,130,&H00E6E4F9,&H000000FF,&H008D56C7,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
 Style: saint tail op en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
-Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,70,1
+Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H00001020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,3.0,2,20,20,70,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
-Dialogue: 0,0:00:14.61,0:00:18.12,saint tail title,[title],0,0,0,,{TIME:14619,18122}{\pos(720,880)\fad(200,0)\1c&H201040&\3c&H201040&\4c&H201040&\t(0,600,0.3,\1c&HE6E4F9&\3c&H8D56C7&\4c&HAD686E&)\fax-0.04\blur3\1a&HFF&\shad0}Saint Tail
-Dialogue: 1,0:00:14.61,0:00:18.12,saint tail title,[title],0,0,0,,{TIME:14619,18122}{\pos(720,880)\fad(200,0)\1c&H201040&\3c&H201040&\4c&H201040&\t(0,600,0.3,\1c&HE6E4F9&\3c&H8D56C7&\4c&HAD686E&)\fax-0.04\blur2\bord0\shad0}Saint Tail
+Dialogue: 0,0:00:14.61,0:00:18.12,saint tail title,[title],0,0,0,,{TIME:14619,18122}{\pos(710,895)\fad(200,0)\1c&H201040&\3c&H201040&\4c&H201040&\t(0,600,0.3,\1c&HE6E4F9&\3c&H8D56C7&\4c&HAD686E&)\fax-0.04\blur3\1a&HFF&\shad0}Saint Tail
+Dialogue: 1,0:00:14.61,0:00:18.12,saint tail title,[title],0,0,0,,{TIME:14619,18122}{\pos(710,895)\fad(200,0)\1c&H201040&\3c&H201040&\4c&H201040&\t(0,600,0.3,\1c&HE6E4F9&\3c&H8D56C7&\4c&HAD686E&)\fax-0.04\blur2\bord0\shad0}Saint Tail
 Dialogue: 0,0:00:09.98,0:00:13.82,saint tail op jp,[karaoke],0,0,0,,{TIME:9989,13826}{\pos(710,1055)\blur1}kirameku hi no hikari{NOTE:きらめく陽の光}
 Dialogue: 0,0:00:13.82,0:00:17.12,saint tail op jp,[karaoke],0,0,0,,{TIME:13826,17121}{\pos(705,1055)\blur1}karada ippai abite{NOTE:体いっぱい浴びて}
 Dialogue: 0,0:00:18.12,0:00:22.12,saint tail op jp,[karaoke],0,0,0,,{TIME:18122,22126}{\pos(705,1055)\blur1}ichinichi ga hajimaru{NOTE:一日が始まる}
