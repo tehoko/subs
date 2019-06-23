@@ -18,6 +18,8 @@ Style: saint tail sign,Calibri,75,&H00D4FFED,&H000000FF,&H006E8E22,&HC7000000,-1
 Style: saint tail title,Campanile,150,&H00EDE6FF,&H000000FF,&H009457EA,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
 Style: saint tail op en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
 Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,70,1
+Style: saint tail ed en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
+Style: saint tail ed jp,Gotham Rounded,50,&H00F0FBFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,40,70,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -369,3 +371,48 @@ Dialogue: 0,0:23:41.98,0:23:45.27,saint tail default,,0,0,0,,{TIME:1421983,14252
 Dialogue: 0,0:23:47.57,0:23:48.74,saint tail default,,0,0,0,,{TIME:1427572,1428740}Wait!
 Dialogue: 0,0:23:48.99,0:23:50.95,saint tail default,,0,0,0,,{TIME:1428990,1430951}Sweet potato vendor!
 Dialogue: 0,0:23:59.25,0:24:01.54,saint tail default,,0,0,0,,{TIME:1439250,1441544}Meimi sure is taking a long time!
+Comment: 0,0:24:06.46,0:24:06.46,[chapter],[chapter],0,0,0,,{TIME:1446466,1446466}Ending
+Dialogue: 0,0:24:33.57,0:24:39.41,saint tail ed jp,[karaoke],0,0,0,,{TIME:1473576,1479416}{\blur0.75}kisu wo shitemoraeru mae no{NOTE:キスをしてもらえるまえの}
+Dialogue: 0,0:24:41.04,0:24:46.17,saint tail ed jp,[karaoke],0,0,0,,{TIME:1481042,1486172}{\blur0.75}namida no wake wo{NOTE:涙のわけを}
+Dialogue: 0,0:24:46.84,0:24:53.30,saint tail ed jp,[karaoke],0,0,0,,{TIME:1486840,1493304}{\blur0.75}moshimo ima tazuneraretara{NOTE:もしも今尋ねられたら}
+Dialogue: 0,0:24:54.38,0:24:59.26,saint tail ed jp,[karaoke],0,0,0,,{TIME:1494389,1499269}{\blur0.75}dou sureba ii{NOTE:どうすればいい}
+Dialogue: 0,0:24:59.72,0:25:07.81,saint tail ed jp,[karaoke],0,0,0,,{TIME:1499728,1507819}{\blur0.75}sukoshi mukashi wo omoidashiteru{NOTE:少し昔を　思い出してる}
+Dialogue: 0,0:25:08.19,0:25:17.16,saint tail ed jp,[karaoke],0,0,0,,{TIME:1508194,1517162}{\blur0.75}ah nee hontou no ai no{NOTE:Ah　ねえ　ほんとうの愛の}
+Dialogue: 0,0:25:17.74,0:25:24.16,saint tail ed jp,[karaoke],0,0,0,,{TIME:1517746,1524169}{\blur0.75}aa imi mo shiranai de{NOTE:ああ　意味も知らないで}
+Dialogue: 0,0:25:24.37,0:25:31.21,saint tail ed jp,[karaoke],0,0,0,,{TIME:1524377,1531217}{\blur0.75}nee kagami no mukou no{NOTE:ねえ　鏡の向こうの}
+Dialogue: 0,0:25:31.46,0:25:38.09,saint tail ed jp,[karaoke],0,0,0,,{TIME:1531468,1538099}{\blur0.75}jibun wo shikaritai kurai{NOTE:自分を叱りたいくらい}
+Dialogue: 0,0:25:38.55,0:25:44.52,saint tail ed jp,[karaoke],0,0,0,,{TIME:1538558,1544522}{\blur0.75}koi wo kasaneta{NOTE:恋をかさねた}
+Dialogue: 0,0:25:45.31,0:25:54.07,saint tail ed jp,[karaoke],0,0,0,,{TIME:1545315,1554074}{\blur0.75}watashi wa kirei desu ka{NOTE:私はきれいですか}
+Dialogue: 0,0:25:58.62,0:26:05.46,saint tail ed jp,[karaoke],0,0,0,,{TIME:1558620,1565460}{\blur0.75}anata sae watashi wo suki de{NOTE:あなたさえ私を好きで}
+Dialogue: 0,0:26:06.12,0:26:11.25,saint tail ed jp,[karaoke],0,0,0,,{TIME:1566127,1571257}{\blur0.75}itekureru nara{NOTE:いてくれるなら}
+Dialogue: 0,0:26:11.96,0:26:18.76,saint tail ed jp,[karaoke],0,0,0,,{TIME:1571966,1578765}{\blur0.75}kono saki no shiawase nanka{NOTE:この先の幸せなんか}
+Dialogue: 0,0:26:19.47,0:26:24.64,saint tail ed jp,[karaoke],0,0,0,,{TIME:1579474,1584646}{\blur0.75}dou demo ii wa{NOTE:どうでもいいわ}
+Dialogue: 0,0:26:24.89,0:26:32.86,saint tail ed jp,[karaoke],0,0,0,,{TIME:1584896,1592862}{\blur0.75}konna kimochi wa kitto hajimete{NOTE:こんな気持ちは　きっとはじめて}
+Dialogue: 0,0:26:33.27,0:26:42.53,saint tail ed jp,[karaoke],0,0,0,,{TIME:1593279,1602539}{\blur0.75}ah nee anata ga shiranai{NOTE:Ah　ねえ　あなたが知らない}
+Dialogue: 0,0:26:42.83,0:26:49.12,saint tail ed jp,[karaoke],0,0,0,,{TIME:1602831,1609129}{\blur0.75}aa watashi wo shittemo{NOTE:ああ　私を知っても}
+Dialogue: 0,0:26:49.50,0:26:56.21,saint tail ed jp,[karaoke],0,0,0,,{TIME:1609504,1616219}{\blur0.75}nee kirai ni nattari{NOTE:ねえ　嫌いになったり}
+Dialogue: 0,0:26:56.46,0:27:02.97,saint tail ed jp,[karaoke],0,0,0,,{TIME:1616469,1622976}{\blur0.75}shinai to sotto sasayaite{NOTE:しないと　そっと　ささやいて}
+Dialogue: 0,0:27:03.68,0:27:09.69,saint tail ed jp,[karaoke],0,0,0,,{TIME:1623685,1629691}{\blur0.75}totemo kowai no{NOTE:とても怖いの}
+Dialogue: 0,0:27:10.31,0:27:18.65,saint tail ed jp,[karaoke],0,0,0,,{TIME:1630316,1638658}{\blur0.75}negai wa kanaimasu ka{NOTE:願いは叶いますか}
+Dialogue: 0,0:24:33.57,0:24:39.41,saint tail ed en,[karaoke],0,0,0,,{TIME:1473576,1479416}If you asked me
+Dialogue: 0,0:24:41.04,0:24:46.17,saint tail ed en,[karaoke],0,0,0,,{TIME:1481042,1486172}before we shared our first kiss
+Dialogue: 0,0:24:46.84,0:24:53.30,saint tail ed en,[karaoke],0,0,0,,{TIME:1486840,1493304}for the reason I was crying,
+Dialogue: 0,0:24:54.38,0:24:59.26,saint tail ed en,[karaoke],0,0,0,,{TIME:1494389,1499269}I don't know what I'd say.
+Dialogue: 0,0:24:59.72,0:25:07.81,saint tail ed en,[karaoke],0,0,0,,{TIME:1499728,1507819}I feel like reminiscing a little.
+Dialogue: 0,0:25:08.19,0:25:17.16,saint tail ed en,[karaoke],0,0,0,,{TIME:1508194,1517162}Ah, tell me, what is true love?
+Dialogue: 0,0:25:17.74,0:25:24.16,saint tail ed en,[karaoke],0,0,0,,{TIME:1517746,1524169}Ah, I don't know what it means.
+Dialogue: 0,0:25:24.37,0:25:31.21,saint tail ed en,[karaoke],0,0,0,,{TIME:1524377,1531217}Hey, I want to scold
+Dialogue: 0,0:25:31.46,0:25:38.09,saint tail ed en,[karaoke],0,0,0,,{TIME:1531468,1538099}the me inside the mirror.
+Dialogue: 0,0:25:38.55,0:25:44.52,saint tail ed en,[karaoke],0,0,0,,{TIME:1538558,1544522}I am struck with love.
+Dialogue: 0,0:25:45.31,0:25:54.07,saint tail ed en,[karaoke],0,0,0,,{TIME:1545315,1554074}Am I beautiful to you?
+Dialogue: 0,0:25:58.62,0:26:05.46,saint tail ed en,[karaoke],0,0,0,,{TIME:1558620,1565460}If I only had your heart,
+Dialogue: 0,0:26:06.12,0:26:11.25,saint tail ed en,[karaoke],0,0,0,,{TIME:1566127,1571257}if you only stayed with me,
+Dialogue: 0,0:26:11.96,0:26:18.76,saint tail ed en,[karaoke],0,0,0,,{TIME:1571966,1578765}my happiness would reach no bounds.
+Dialogue: 0,0:26:19.47,0:26:24.64,saint tail ed en,[karaoke],0,0,0,,{TIME:1579474,1584646}Nothing else would really matter.
+Dialogue: 0,0:26:24.89,0:26:32.86,saint tail ed en,[karaoke],0,0,0,,{TIME:1584896,1592862}It's the first time in my life\NI feel like this.
+Dialogue: 0,0:26:33.27,0:26:42.53,saint tail ed en,[karaoke],0,0,0,,{TIME:1593279,1602539}Ah, you still don't know so many things,
+Dialogue: 0,0:26:42.83,0:26:49.12,saint tail ed en,[karaoke],0,0,0,,{TIME:1602831,1609129}Ah, even though you know me pretty well.
+Dialogue: 0,0:26:49.50,0:26:56.21,saint tail ed en,[karaoke],0,0,0,,{TIME:1609504,1616219}Hey, my biggest silent wish
+Dialogue: 0,0:26:56.46,0:27:02.97,saint tail ed en,[karaoke],0,0,0,,{TIME:1616469,1622976}is for you to not end up hating me.
+Dialogue: 0,0:27:03.68,0:27:09.69,saint tail ed en,[karaoke],0,0,0,,{TIME:1623685,1629691}I'd be devastated if you did.
+Dialogue: 0,0:27:10.31,0:27:18.65,saint tail ed en,[karaoke],0,0,0,,{TIME:1630316,1638658}Will my prayer be answered?
