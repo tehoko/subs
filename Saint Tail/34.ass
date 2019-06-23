@@ -15,12 +15,46 @@ Video File: source/34.mkv
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: saint tail default,Calibri,80,&H00FBFBFB,&H000000FF,&H00373737,&H80373737,-1,0,0,0,100.0,100.0,0.0,0.0,1,4.5,0.0,2,50,50,50,1
 Style: saint tail sign,Calibri,75,&H00D4FFED,&H000000FF,&H006E8E22,&HC7000000,-1,-1,0,0,100.0,100.0,0.0,0.0,1,4.5,0.0,8,50,50,50,1
-Style: saint tail title,Campanile,150,&H00EDE6FF,&H000000FF,&H009457EA,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
+Style: saint tail title,Campanile,150,&H00E6E4F9,&H000000FF,&H008D56C7,&H00AD686E,-1,0,0,0,140.0,100.0,0.0,0.0,1,6.0,10.0,2,20,20,60,1
 Style: saint tail op en,Holla,70,&H00FFFFFF,&H000000FF,&H005D26B1,&H7F202020,0,0,0,0,130.0,100.0,0.0,0.0,1,5.0,0.0,8,20,20,40,1
 Style: saint tail op jp,Gotham Rounded,50,&H00FFFFFF,&H000000FF,&H00868686,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,70,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
+Dialogue: 0,0:00:14.61,0:00:18.12,saint tail title,[title],0,0,0,,{TIME:14619,18122}{\pos(720,880)\fad(200,0)\1c&H201040&\3c&H201040&\4c&H201040&\t(0,600,0.3,\1c&HE6E4F9&\3c&H8D56C7&\4c&HAD686E&)\fax-0.04\blur3\1a&HFF&\shad0}Saint Tail
+Dialogue: 1,0:00:14.61,0:00:18.12,saint tail title,[title],0,0,0,,{TIME:14619,18122}{\pos(720,880)\fad(200,0)\1c&H201040&\3c&H201040&\4c&H201040&\t(0,600,0.3,\1c&HE6E4F9&\3c&H8D56C7&\4c&HAD686E&)\fax-0.04\blur2\bord0\shad0}Saint Tail
+Dialogue: 0,0:00:09.98,0:00:13.82,saint tail op jp,[karaoke],0,0,0,,{TIME:9989,13826}{\pos(710,1055)\blur1}kirameku hi no hikari{NOTE:きらめく陽の光}
+Dialogue: 0,0:00:13.82,0:00:17.12,saint tail op jp,[karaoke],0,0,0,,{TIME:13826,17121}{\pos(705,1055)\blur1}karada ippai abite{NOTE:体いっぱい浴びて}
+Dialogue: 0,0:00:18.12,0:00:22.12,saint tail op jp,[karaoke],0,0,0,,{TIME:18122,22126}{\pos(705,1055)\blur1}ichinichi ga hajimaru{NOTE:一日が始まる}
+Dialogue: 0,0:00:25.33,0:00:28.46,saint tail op jp,[karaoke],0,0,0,,{TIME:25338,28466}{\pos(708,1055)\blur1}ichiban taisetsuna{NOTE:いちばん大好きな}
+Dialogue: 0,0:00:29.34,0:00:33.51,saint tail op jp,[karaoke],0,0,0,,{TIME:29342,33513}{\pos(710,1055)\blur1}tokimeiteiru jikan{NOTE:ときめいている時間}
+Dialogue: 0,0:00:33.51,0:00:36.84,saint tail op jp,[karaoke],0,0,0,,{TIME:33513,36849}{\pos(710,1055)\blur1}sutekina dekigoto{NOTE:素敵な出来事}
+Dialogue: 0,0:00:36.84,0:00:40.72,saint tail op jp,[karaoke],0,0,0,,{TIME:36849,40728}{\pos(710,1055)\blur1}okoru ki ga suru no{NOTE:起こる気がするの}
+Dialogue: 0,0:00:40.72,0:00:48.40,saint tail op jp,[karaoke],0,0,0,,{TIME:40728,48403}{\pos(705,1055)\blur1}woom kagami no naka utsutta watashi mo{NOTE:Woom　鏡の中写った私も}
+Dialogue: 0,0:00:48.40,0:00:52.28,saint tail op jp,[karaoke],0,0,0,,{TIME:48403,52282}{\pos(708,1055)\blur1}woom nakanaka deshou{NOTE:Woom　なかなかでしょう}
+Dialogue: 0,0:00:52.28,0:00:56.03,saint tail op jp,[karaoke],0,0,0,,{TIME:52282,56035}{\pos(708,1055)\blur1}totemo ii kanji da wa…{NOTE:とてもイイ感じだわ...}
+Dialogue: 0,0:00:56.03,0:01:02.87,saint tail op jp,[karaoke],0,0,0,,{TIME:56035,62875}{\pos(708,1055)\blur1}sunda aozora ni te wo nobashi{NOTE:澄んだ青空に手を伸ばし}
+Dialogue: 0,0:01:03.79,0:01:10.67,saint tail op jp,[karaoke],0,0,0,,{TIME:63793,70675}{\pos(708,1055)\blur1}kibou afureru wa wakuwaku suru{NOTE:希望あふれるわ　ワクワクする}
+Dialogue: 0,0:01:11.46,0:01:15.09,saint tail op jp,[karaoke],0,0,0,,{TIME:71467,75096}{\pos(700,1055)\blur1}koi mo shigoto nandemo{NOTE:恋も仕事も何でも}
+Dialogue: 0,0:01:15.09,0:01:18.60,saint tail op jp,[karaoke],0,0,0,,{TIME:75096,78600}{\pos(700,1055)\blur1}charenji suru no yo{NOTE:チャレンジするのよ}
+Dialogue: 0,0:01:18.60,0:01:24.89,saint tail op jp,[karaoke],0,0,0,,{TIME:78600,84897}{\pos(710,1055)\blur1}atarashii watashi ni natte{NOTE:新しい私になって}
+Dialogue: 0,0:00:09.98,0:00:13.82,saint tail op en,[karaoke],0,0,0,,{TIME:9989,13826}I can feel the sunshine on me,
+Dialogue: 0,0:00:13.82,0:00:17.12,saint tail op en,[karaoke],0,0,0,,{TIME:13826,17121}I think I'll bask in it a little more.
+Dialogue: 0,0:00:18.12,0:00:22.12,saint tail op en,[karaoke],0,0,0,,{TIME:18122,22126}It's a beginning of a new day.
+Dialogue: 0,0:00:25.33,0:00:28.46,saint tail op en,[karaoke],0,0,0,,{TIME:25338,28466}That's the moment I like the most,
+Dialogue: 0,0:00:29.34,0:00:33.51,saint tail op en,[karaoke],0,0,0,,{TIME:29342,33513}the one that starts it all.
+Dialogue: 0,0:00:33.51,0:00:36.84,saint tail op en,[karaoke],0,0,0,,{TIME:33513,36849}Something lovely is about to happen,
+Dialogue: 0,0:00:36.84,0:00:40.72,saint tail op en,[karaoke],0,0,0,,{TIME:36849,40728}I just have a hunch like that.
+Dialogue: 0,0:00:40.72,0:00:48.40,saint tail op en,[karaoke],0,0,0,,{TIME:40728,48403}Woom! My reflection the mirror
+Dialogue: 0,0:00:48.40,0:00:52.28,saint tail op en,[karaoke],0,0,0,,{TIME:48403,52282}Woom! Looks rather pretty.
+Dialogue: 0,0:00:52.28,0:00:56.03,saint tail op en,[karaoke],0,0,0,,{TIME:52282,56035}It feels so nice.
+Dialogue: 0,0:00:56.03,0:01:02.87,saint tail op en,[karaoke],0,0,0,,{TIME:56035,62875}I reach out to the clear blue sky.
+Dialogue: 0,0:01:03.79,0:01:10.67,saint tail op en,[karaoke],0,0,0,,{TIME:63793,70675}I'm so excited and filled with hope.
+Dialogue: 0,0:01:11.46,0:01:15.09,saint tail op en,[karaoke],0,0,0,,{TIME:71467,75096}Love, work, everything,
+Dialogue: 0,0:01:15.09,0:01:18.60,saint tail op en,[karaoke],0,0,0,,{TIME:75096,78600}I want to take these challenges on
+Dialogue: 0,0:01:18.60,0:01:24.89,saint tail op en,[karaoke],0,0,0,,{TIME:78600,84897}and build myself again.
+Comment: 0,0:01:35.11,0:01:35.11,[chapter],[chapter],0,0,0,,{TIME:95116,95116}Part A
 Dialogue: 0,0:01:50.25,0:01:53.80,saint tail default,,0,0,0,,{TIME:110256,113801}She's an angel! It's like\Nan angel is riding a horse!
 Dialogue: 0,0:01:53.88,0:01:57.18,saint tail default,,0,0,0,,{TIME:113885,117180}I've never seen\Nsuch a beautiful lady!
 Dialogue: 0,0:01:58.13,0:01:59.80,saint tail default,,0,0,0,,{TIME:118139,119807}I wish I were that horse!
