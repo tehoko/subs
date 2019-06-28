@@ -23,6 +23,7 @@ Style: saint tail ed jp,Gotham Rounded,50,&H00F0FBFF,&H000000FF,&H00868686,&H7F2
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Part A
 Dialogue: 0,0:00:10.99,0:00:12.07,saint tail default,,0,0,0,,{TIME:10990,12075}Asuka Jr.
 Dialogue: 0,0:00:12.53,0:00:13.91,saint tail default,,0,0,0,,{TIME:12534,13910}Let's walk home together!
 Dialogue: 0,0:00:14.28,0:00:14.78,saint tail default,,0,0,0,,{TIME:14285,14786}Sure!
@@ -192,6 +193,9 @@ Dialogue: 0,0:09:12.53,0:09:14.53,saint tail default,,0,0,0,,{TIME:552531,554533
 Dialogue: 0,0:09:14.90,0:09:17.91,saint tail default,,0,0,0,,{TIME:554909,557912}How did you get information like that?
 Dialogue: 0,0:09:18.62,0:09:22.54,saint tail default,,0,0,0,,{TIME:558621,562541}Egami is trying to frame Asuka Jr.!
 Dialogue: 0,0:09:22.91,0:09:24.66,saint tail default,,0,0,0,,{TIME:562917,564668}What? A trap!
+Comment: 0,0:09:29.59,0:09:29.59,[chapter],[chapter],0,0,0,,{TIME:569590,569590}Eyecatch A
+Comment: 0,0:09:35.59,0:09:35.59,[chapter],[chapter],0,0,0,,{TIME:575596,575596}Eyecatch B
+Comment: 0,0:09:40.60,0:09:40.60,[chapter],[chapter],0,0,0,,{TIME:580601,580601}Part B
 Dialogue: 0,0:09:46.77,0:09:50.86,saint tail default,,0,0,0,,{TIME:586774,590861}There's a rumor that Asuka Jr.\Nis St. Tail's accomplice.
 Dialogue: 0,0:09:51.23,0:09:55.74,saint tail default,,0,0,0,,{TIME:591237,595741}Egami would never tell him the true\Nhiding place of the tiara, would he?
 Dialogue: 0,0:09:58.36,0:10:04.66,saint tail default,,0,0,0,,{TIME:598369,604667}He lied so Asuka Jr. will be\Narrested along with St. Tail.
