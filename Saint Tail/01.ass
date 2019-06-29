@@ -5,7 +5,7 @@ ScriptType: v4.00+
 PlayResX: 1440
 PlayResY: 1080
 YCbCr Matrix: TV.601
-WrapStyle: 1
+WrapStyle: 2
 ScaledBorderAndShadow: yes
 Title: Saint Tail - 01
 Audio File: source/01.mkv
@@ -72,7 +72,7 @@ Dialogue: 0,0:03:01.45,0:03:05.28,saint tail default,,0,0,0,,{TIME:181452,185289
 Dialogue: 0,0:03:11.17,0:03:12.00,saint tail default,,0,0,0,,{TIME:191170,192004}Chance!
 Dialogue: 0,0:03:15.46,0:03:17.21,saint tail default,,0,0,0,,{TIME:195466,197218}Ouch!
 Dialogue: 0,0:03:21.43,0:03:22.76,saint tail default,,0,0,0,,{TIME:201431,202765}Darn!
-Dialogue: 0,0:03:27.64,0:03:32.44,saint tail default,,0,0,0,,{TIME:207645,212442}The Cutest Little Thief!\NShe'll Steal Your Heart.{NOTE:登場！キュートな大泥棒！？\\Nあなたのハート盗みます。}
+Dialogue: 0,0:03:27.64,0:03:32.44,saint tail default,[title],0,0,0,,{TIME:207645,212442}The Cutest Little Thief!\NShe'll Steal Your Heart.{NOTE:登場！キュートな大泥棒！？\\Nあなたのハート盗みます。}
 Dialogue: 0,0:03:35.36,0:03:37.02,saint tail default,,0,0,0,,{TIME:215361,217029}Good morning!
 Dialogue: 0,0:03:38.69,0:03:39.65,saint tail default,,0,0,0,,{TIME:218698,219657}Good morning!
 Dialogue: 0,0:03:42.20,0:03:43.74,saint tail default,,0,0,0,,{TIME:222201,223745}Good morning, Meimi!
@@ -116,7 +116,7 @@ Dialogue: 0,0:05:38.10,0:05:39.90,saint tail default,,0,0,0,,{TIME:338109,339902
 Dialogue: 0,0:05:42.73,0:05:43.48,saint tail default,,0,0,0,,{TIME:342738,343489}Seira…
 Dialogue: 0,0:05:44.65,0:05:48.28,saint tail default,,0,0,0,,{TIME:344657,348286}Miss Haneoka, Mr. Asuka!\NThe two of you just stay right there!
 Dialogue: 0,0:05:48.28,0:05:49.49,saint tail default,,0,0,0,,{TIME:348286,349495}Yes…
-Dialogue: 0,0:06:22.11,0:06:24.98,saint tail default,,0,0,0,,{TIME:382111,384989}Excuse me,\Ndo you have a moment?
+Dialogue: 0,0:06:22.11,0:06:24.98,saint tail default,,0,0,0,,{TIME:382111,384989}Excuse me, do you have a moment?
 Dialogue: 0,0:06:24.98,0:06:25.78,saint tail default,,0,0,0,,{TIME:384989,385781}Certainly.
 Dialogue: 0,0:06:27.99,0:06:31.95,saint tail default,,0,0,0,,{TIME:387992,391954}Sister-in-training Seira.\NColdhearted Seira.
 Dialogue: 0,0:06:31.95,0:06:37.25,saint tail default,,0,0,0,,{TIME:391954,397251}Coldhearted is much too cruel.\NIt is all the teachings of our Lord.
@@ -167,7 +167,7 @@ Dialogue: 0,0:10:08.17,0:10:11.25,saint tail default,,0,0,0,,{TIME:608170,611257
 Dialogue: 0,0:10:16.22,0:10:17.26,saint tail default,,0,0,0,,{TIME:616220,617263}One!
 Dialogue: 0,0:10:19.55,0:10:20.93,saint tail default,,0,0,0,,{TIME:619557,620933}Two!
 Dialogue: 0,0:10:22.81,0:10:24.14,saint tail default,,0,0,0,,{TIME:622810,624145}Three!
-Dialogue: 0,0:10:40.45,0:10:44.24,saint tail default,,0,0,0,,{TIME:640452,644248}May the blessings\Nof God be with us.
+Dialogue: 0,0:10:40.45,0:10:44.24,saint tail default,,0,0,0,,{TIME:640452,644248}May the blessings of God be with us.
 Dialogue: 0,0:11:16.07,0:11:18.69,saint tail default,,0,0,0,,{TIME:676071,678699}This must be where\Nshe keeps the safe.
 Dialogue: 0,0:11:20.57,0:11:23.87,saint tail default,,0,0,0,,{TIME:680576,683871}That's strange… why is it open?
 Dialogue: 0,0:11:26.54,0:11:27.37,saint tail default,,0,0,0,,{TIME:686540,687374}What?
@@ -180,7 +180,7 @@ Dialogue: 0,0:12:17.29,0:12:18.55,saint tail default,,0,0,0,,{TIME:737299,738550
 Dialogue: 0,0:12:18.55,0:12:19.05,saint tail default,,0,0,0,,{TIME:738550,739051}Yes.
 Dialogue: 0,0:12:22.47,0:12:24.01,saint tail default,,0,0,0,,{TIME:742471,744014}This is great.
 Dialogue: 0,0:12:24.59,0:12:29.64,saint tail default,,0,0,0,,{TIME:744598,749645}We steal back the gems that we sell\Nand then resell them to another sucker.
-Dialogue: 0,0:12:30.18,0:12:32.27,saint tail default,,0,0,0,,{TIME:750187,752273}There are no rules\Nin making money.
+Dialogue: 0,0:12:30.18,0:12:32.27,saint tail default,,0,0,0,,{TIME:750187,752273}There are no rules in making money.
 Dialogue: 0,0:12:34.77,0:12:36.27,saint tail default,,0,0,0,,{TIME:754775,756277}That's terrible!
 Dialogue: 0,0:12:36.27,0:12:37.77,saint tail default,,0,0,0,,{TIME:756277,757778}Absolutely unforgivable!
 Comment: 0,0:12:37.77,0:12:37.77,[chapter],[chapter],0,0,0,,{TIME:757778,757778}Eyecatch A
@@ -221,7 +221,7 @@ Dialogue: 0,0:15:04.88,0:15:06.00,saint tail default,,0,0,0,,{TIME:904883,906009
 Dialogue: 0,0:15:06.00,0:15:07.09,saint tail default,,0,0,0,,{TIME:906009,907094}What the…?!
 Dialogue: 0,0:15:41.46,0:15:42.79,saint tail default,,0,0,0,,{TIME:941462,942796}What's this?
 Dialogue: 0,0:15:45.71,0:15:48.26,saint tail default,,0,0,0,,{TIME:945716,948260}I'll just exchange the fake\None for the real one.
-Dialogue: 0,0:16:11.11,0:16:13.78,saint tail default,,0,0,0,,{TIME:971116,973785}May the blessings\Nof God be with us.
+Dialogue: 0,0:16:11.11,0:16:13.78,saint tail default,,0,0,0,,{TIME:971116,973785}May the blessings of God be with us.
 Dialogue: 0,0:16:24.00,0:16:25.75,saint tail default,,0,0,0,,{TIME:984004,985756}So, that's what this was all about.
 Dialogue: 0,0:16:27.54,0:16:29.21,saint tail default,,0,0,0,,{TIME:987549,989218}Asuka, Jr.…
 Dialogue: 0,0:16:33.80,0:16:35.22,saint tail default,,0,0,0,,{TIME:993805,995224}What are you doing?
