@@ -25,7 +25,7 @@ Style: Lyrics Romaji,Gotham Rounded Medium,64,&H00BFF6FF,&H00C8B400,&H00202020,&
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Logo
 Comment: 0,0:00:13.40,0:00:13.40,Default,[chapter],0,0,0,,{TIME:13409,13409}Opening
-Dialogue: 0,0:00:24.21,0:00:33.47,Default,[title],0,0,0,,{TIME:24212,33471}{\fn(Utopia Black)\b0\fs120\bord0\blur1.2\an1\pos(220,920)\1c&H101010&\t(0,500,\1c&H2010A0&)\t(500,1000,\1c&H522EC0&)}Attack No. 1\N{\fs85}The Phoenix Arc{NOTE:アタックNo.1\\N涙の世界選手権}
+Dialogue: 0,0:00:24.21,0:00:33.47,Default,[title],0,0,0,,{TIME:24212,33471}{\fnUtopia Black\b0\fs120\bord0\blur1.2\an1\pos(220,920)\1c&H181818&\fad(100,0)\t(0,500,\1c&H2010A0&)\t(500,1000,\1c&H522EC0&)}Attack No. 1\N{\fs85}The Phoenix Arc{NOTE:アタックNo.1\\N涙の世界選手権}
 Dialogue: 0,0:00:47.02,0:00:51.40,Lyrics Kanji,[karaoke],0,0,0,,{TIME:47026,51406}苦しくたって
 Dialogue: 0,0:00:51.40,0:00:55.03,Lyrics Kanji,[karaoke],0,0,0,,{TIME:51406,55034}悲しくたって
 Dialogue: 0,0:00:55.03,0:01:02.25,Lyrics Kanji,[karaoke],0,0,0,,{TIME:55034,62250}コートのなかではへいきなの
@@ -91,10 +91,10 @@ Dialogue: 0,0:03:25.10,0:03:30.85,Default,Shimizu,0,0,0,,{TIME:205101,210857}Alr
 Dialogue: 0,0:03:32.44,0:03:37.44,Alternative,Ayuhara,0,0,0,,{TIME:212442,217447}Our opponents this time were the Yagisawa sisters from\NJidōin High School in Ōsaka, known as the Interhigh queens.{NOTE:インターハイの優勝校 大阪の寺堂院高校の 八木沢三姉妹と…}
 Dialogue: 0,0:03:37.44,0:03:41.99,Alternative,Ayuhara,0,0,0,,{TIME:217447,221993}Our Fujimi team was to play\Na practice match against them.{NOTE:私たち 富士見高校と ３人バレーをすることになった}
 Dialogue: 0,0:03:42.53,0:03:44.95,Default,(unison),0,0,0,,{TIME:222535,224954}– Good luck.\N– Good luck.{NOTE:お願いします！}
-Dialogue: 0,0:03:45.16,0:03:47.99,Alternative,Ayuhara,0,0,0,,{TIME:225163,227999}We're playing against\Nsuch a scary rival this time.{NOTE:私が初めて出会った 恐ろしいライバル}
-Dialogue: 0,0:03:47.99,0:03:50.20,Alternative,Ayuhara,0,0,0,,{TIME:227999,230209}I wonder what their\N"trinity attack" is like.{NOTE:あの人たちの 三位一体の攻撃とは}
+Dialogue: 0,0:03:45.16,0:03:47.99,Alternative,Ayuhara,0,0,0,,{TIME:225163,227999}We're playing against such a scary rival this time.{NOTE:私が初めて出会った 恐ろしいライバル}
+Dialogue: 0,0:03:47.99,0:03:50.20,Alternative,Ayuhara,0,0,0,,{TIME:227999,230209}I wonder what their "trinity attack" is like.{NOTE:あの人たちの 三位一体の攻撃とは}
 Dialogue: 0,0:03:55.54,0:03:56.63,Default,Hayakawa,0,0,0,,{TIME:235548,236632}Jidōin High School.{NOTE:寺堂院高校}
-Dialogue: 0,0:03:56.63,0:03:58.46,Default,Hayakawa,0,0,0,,{TIME:236632,238468}They're calm just like\Nqueens should be.{NOTE:さすが 王者の貫禄 十分ね}
+Dialogue: 0,0:03:56.63,0:03:58.46,Default,Hayakawa,0,0,0,,{TIME:236632,238468}They're calm just like queens should be.{NOTE:さすが 王者の貫禄 十分ね}
 Dialogue: 0,0:03:58.46,0:03:59.38,Default,Ayuhara,0,0,0,,{TIME:238468,239385}Yeah.{NOTE:ええ}
 Dialogue: 0,0:04:00.17,0:04:04.76,Alternative,Ayuhara,0,0,0,,{TIME:240178,244766}If they beat us here, we won't\Nstand a chance at the Interhigh.{NOTE:この挑戦に敗れるような ことがあれば インターハイでの 優勝の望みはないわ}
 Dialogue: 0,0:04:04.76,0:04:06.26,Alternative,Ayuhara,0,0,0,,{TIME:244766,246267}We can't lose, no matter what!{NOTE:絶対 負けたくないわ}
@@ -102,14 +102,16 @@ Dialogue: 0,0:04:23.32,0:04:26.07,Alternative,Ayuhara,0,0,0,,{TIME:263326,266078
 Dialogue: 0,0:04:26.07,0:04:28.91,Alternative,Ayuhara,0,0,0,,{TIME:266078,268915}The Yagisawa sisters…\NYou're a fearsome opponent.{NOTE:八木沢三姉妹 恐ろしい相手だわ}
 Dialogue: 0,0:04:34.67,0:04:36.00,Default,Ayuhara,0,0,0,,{TIME:274670,276005}Captain, last one!{NOTE:キャプテン ラスト！}
 Dialogue: 0,0:04:57.65,0:05:01.69,Default,Ayuhara,0,0,0,,{TIME:297652,301697}Once they jump, I can't tell\Nwhich one strikes the ball.{NOTE:３人がジャンプするから 誰が打ったか 全然分からないのよ}
-Dialogue: 0,0:05:01.69,0:05:04.20,Default,Hayakawa,0,0,0,,{TIME:301697,304200}I don't have the slightest idea\Nhow to get past it.{NOTE:このままでは攻撃の隙は つかめないわ}
+Dialogue: 0,0:05:01.69,0:05:04.15,Default,Hayakawa,0,0,0,,{TIME:301697,304158}I don't have the slightest idea how to get past it.{NOTE:このままでは攻撃の隙は つかめないわ}
 Dialogue: 0,0:05:05.07,0:05:07.99,Default,Ayuhara,0,0,0,,{TIME:305076,307995}If we lose sight of their movement\Nfor even a second, it's over.{NOTE:でも 相手の動きに 目をくらませられたら負けよ}
-Dialogue: 0,0:05:07.99,0:05:09.53,Default,Ayuhara,0,0,0,,{TIME:307995,309539}We have to throw them\Noff balance somehow!{NOTE:あの動きを破らなければ}
+Dialogue: 0,0:05:07.99,0:05:09.53,Default,Ayuhara,0,0,0,,{TIME:307995,309539}We have to throw them off balance somehow!{NOTE:あの動きを破らなければ}
 Dialogue: 0,0:05:18.63,0:05:19.79,Default,Ayuhara,0,0,0,,{TIME:318631,319799}Attack!{NOTE:アタック！}
 Dialogue: 0,0:05:20.84,0:05:21.92,Default,Yagisawa,0,0,0,,{TIME:320842,321926}Oopsie!{NOTE:しもたわ}
 Dialogue: 0,0:05:23.55,0:05:25.30,Default,Nakazawa,0,0,0,,{TIME:323553,325304}Great! She did it!{NOTE:わー やったー！}
+Dialogue: 0,0:05:34.98,0:05:36.77,Blackboard,(sign),0,0,0,,{TIME:334981,336774}{\an2}Jidōin
 Dialogue: 0,0:05:41.98,0:05:43.11,Alternative,Shimizu,0,0,0,,{TIME:341988,343114}They're too strong.{NOTE:違う…}
 Dialogue: 0,0:05:43.11,0:05:45.03,Alternative,Shimizu,0,0,0,,{TIME:343114,345032}The gap between them is too much.{NOTE:あまりにも桁が違うわ}
+Dialogue: 0,0:05:53.49,0:05:55.45,Blackboard,(sign),0,0,0,,{TIME:353499,355459}Jidōin · Fujimi
 Dialogue: 0,0:06:07.59,0:06:08.47,Alternative,Ayuhara,0,0,0,,{TIME:367597,368472}We've completely lost.{NOTE:完敗だわ}
 Dialogue: 0,0:06:08.47,0:06:09.64,Default,Yagisawa,0,0,0,,{TIME:368472,369640}Ayuhara-san.{NOTE:鮎原さん}
 Dialogue: 0,0:06:12.18,0:06:13.89,Default,(unison),0,0,0,,{TIME:372184,373895}– Thank you.\N– Thank you.{NOTE:どうもありがとう}
@@ -121,7 +123,7 @@ Dialogue: 0,0:06:22.57,0:06:24.86,Default,Yagisawa,0,0,0,,{TIME:382570,384864}Se
 Dialogue: 0,0:06:24.86,0:06:26.19,Default,(mixed),0,0,0,,{TIME:384864,386198}– Let's go.\N– Yeah.{NOTE:—行こう！\\N—うん！}
 Dialogue: 0,0:06:31.82,0:06:34.87,Alternative,Ayuhara,0,0,0,,{TIME:391829,394874}"Let's meet at the Interhigh".{NOTE:インターハイで会いましょう…}
 Dialogue: 0,0:06:41.42,0:06:43.04,Default,Oonuma,0,0,0,,{TIME:401422,403049}Here you are.{NOTE:ここにいたの}
-Dialogue: 0,0:06:43.04,0:06:44.96,Default,Ayuhara,0,0,0,,{TIME:403049,404967}Yeah, we just wanted\Nto wash our faces.{NOTE:ええ じゃんじゃん 顔 洗ったの}
+Dialogue: 0,0:06:43.04,0:06:44.96,Default,Ayuhara,0,0,0,,{TIME:403049,404967}Yeah, we just wanted to wash our faces.{NOTE:ええ じゃんじゃん 顔 洗ったの}
 Dialogue: 0,0:06:44.96,0:06:46.51,Default,Ayuhara,0,0,0,,{TIME:404967,406510}It's a little refreshing.{NOTE:少しさっぱりしますよ}
 Dialogue: 0,0:06:46.51,0:06:47.97,Default,Hayakawa,0,0,0,,{TIME:406510,407970}How about you, Captain?{NOTE:キャプテンも洗ったら？}
 Dialogue: 0,0:06:48.97,0:06:50.09,Default,Oonuma,0,0,0,,{TIME:408971,410097}I guess I'll join you.{NOTE:そうね}
@@ -134,22 +136,22 @@ Dialogue: 0,0:07:12.91,0:07:14.41,Default,Ayuhara,0,0,0,,{TIME:432912,434413}Pro
 Dialogue: 0,0:07:17.41,0:07:18.58,Default,Ayuhara,0,0,0,,{TIME:437416,438584}Professor Shimizu…{NOTE:清水先生…}
 Dialogue: 0,0:07:23.08,0:07:26.34,Alternative,Shimizu,0,0,0,,{TIME:443089,446342}I shouldn't have agreed\Nto that three-player match after all.{NOTE:やはり３人バレーなんて やるべきではなかった}
 Dialogue: 0,0:07:26.34,0:07:27.88,Alternative,Shimizu,0,0,0,,{TIME:446342,447885}It was too much of a shock to them.{NOTE:ショックが大きすぎたわ…}
-Dialogue: 0,0:07:29.76,0:07:34.55,Alternative,Shimizu,0,0,0,,{TIME:449762,454558}I don't have what it takes\Nto support them.{NOTE:私には これ以上 彼女たちを 引っ張っていく力がない}
+Dialogue: 0,0:07:29.76,0:07:34.55,Alternative,Shimizu,0,0,0,,{TIME:449762,454558}I don't have what it takes to support them.{NOTE:私には これ以上 彼女たちを 引っ張っていく力がない}
 Dialogue: 0,0:07:34.55,0:07:36.47,Alternative,Shimizu,0,0,0,,{TIME:454558,456477}There's only one way left.{NOTE:残された方法は ただ１つ}
 Dialogue: 0,0:07:39.93,0:07:41.98,Default,Hongou,0,0,0,,{TIME:459939,461983}I'm sorry, Professor Shimizu.{NOTE:残念ですが清水先生}
-Dialogue: 0,0:07:41.98,0:07:43.77,Default,Hongou,0,0,0,,{TIME:461983,463776}I'm afraid I can't help you.{NOTE:コーチ就任は お断りします}
-Dialogue: 0,0:07:43.77,0:07:50.40,Default,Shimizu,0,0,0,,{TIME:463776,470408}We have many outstanding players such as\NAyuhara-san, yet I don't know what to do at all.{NOTE:鮎原さんをはじめ すばらしい選手が そろってるって いうのに 私の力では どうすることも できないんです}
+Dialogue: 0,0:07:41.98,0:07:43.60,Default,Hongou,0,0,0,,{TIME:461983,463609}I'm afraid I can't help you.{NOTE:コーチ就任は お断りします}
+Dialogue: 0,0:07:43.60,0:07:50.40,Default,Shimizu,0,0,0,,{TIME:463609,470408}We have many outstanding players such as\NAyuhara-san, yet I don't know what to do at all.{NOTE:鮎原さんをはじめ すばらしい選手が そろってるって いうのに 私の力では どうすることも できないんです}
 Dialogue: 0,0:07:52.70,0:07:55.57,Default,Shimizu,0,0,0,,{TIME:472702,475579}I'm a novice at coaching.{NOTE:コーチとして 素人の私に…}
-Dialogue: 0,0:07:55.57,0:07:58.12,Default,Hongou,0,0,0,,{TIME:475579,478124}I understand your\Nsituation all too well.{NOTE:ええ 事情は 私にも よく分かります}
+Dialogue: 0,0:07:55.57,0:07:58.12,Default,Hongou,0,0,0,,{TIME:475579,478124}I understand your situation all too well.{NOTE:ええ 事情は 私にも よく分かります}
 Dialogue: 0,0:08:00.50,0:08:03.58,Default,Hongou,0,0,0,,{TIME:480501,483587}But I still have to refuse.{NOTE:しかし やはり お断りする以外にない}
 Dialogue: 0,0:08:03.58,0:08:06.29,Default,Shimizu,0,0,0,,{TIME:483587,486298}Professor Hongou…{NOTE:本郷先生！}
 Dialogue: 0,0:08:06.29,0:08:09.76,Default,Hongou,0,0,0,,{TIME:486298,489760}I'm busy, Professor Shimizu.\NExcuse me, please.{NOTE:清水先生 忙しいので これで失礼します}
 Dialogue: 0,0:08:24.06,0:08:26.27,Alternative,Ayuhara,0,0,0,,{TIME:504066,506277}Everyone's so depressed.{NOTE:みんなが 意気消沈している}
 Dialogue: 0,0:08:26.27,0:08:29.19,Alternative,Ayuhara,0,0,0,,{TIME:506277,509196}None of us can prepare for a game\Nthat we've already lost anyway.{NOTE:でも望みのない戦いに ファイトは湧かないわ}
-Dialogue: 0,0:08:29.19,0:08:31.74,Alternative,Ayuhara,0,0,0,,{TIME:509196,511741}No matter how much\Nwe love volleyball…{NOTE:たとえ どんなに バレーを愛していても}
-Dialogue: 0,0:08:32.90,0:08:34.99,Default,Oonuma,0,0,0,,{TIME:512908,514994}Stop it, everyone!{NOTE:—みんな やめて\\N—えっ？}
+Dialogue: 0,0:08:29.19,0:08:31.74,Alternative,Ayuhara,0,0,0,,{TIME:509196,511741}No matter how much we love volleyball…{NOTE:たとえ どんなに バレーを愛していても}
+Dialogue: 0,0:08:32.90,0:08:34.99,Default,Oonuma,0,0,0,,{TIME:512908,514994}Get it together, everyone!{NOTE:—みんな やめて\\N—えっ？}
 Dialogue: 0,0:08:34.99,0:08:35.87,Default,Shimizu,0,0,0,,{TIME:514994,515870}Oonuma-san!{NOTE:大沼さん！}
-Dialogue: 0,0:08:35.87,0:08:38.78,Default,Oonuma,0,0,0,,{TIME:515870,518789}Why can't you just give\Npractice your all?{NOTE:みんな なぜ こんなに だらけた練習しか できないの？}
+Dialogue: 0,0:08:35.87,0:08:38.78,Default,Oonuma,0,0,0,,{TIME:515870,518789}Why can't you just give practice your all?{NOTE:みんな なぜ こんなに だらけた練習しか できないの？}
 Dialogue: 0,0:08:38.78,0:08:43.21,Default,Oonuma,0,0,0,,{TIME:518789,523210}If you really like volleyball, if you love it,\Nsnap out of it already!{NOTE:ほんとに バレーが好きなら バレーを 愛してるなら いいかげんに ショックから 立ち直るべきだわ！}
 Dialogue: 0,0:08:43.21,0:08:46.96,Default,Oonuma,0,0,0,,{TIME:523210,526964}And yet here you are, getting depressed\Nover nothing. You're better off quitting.{NOTE:それなのに みんな勝手に ファイトをなくして しまうなんて やめた方がいいわ}
 Dialogue: 0,0:08:46.96,0:08:51.17,Default,Oonuma,0,0,0,,{TIME:526964,531177}Even if we can't win the Interhigh,\Nwe have to do our best!{NOTE:たとえインターハイで 優勝はできなくても みんなで 力いっぱい頑張るのよ！}
@@ -157,15 +159,14 @@ Dialogue: 0,0:09:21.83,0:09:23.08,Default,Oonuma,0,0,0,,{TIME:561832,563084}Ayuh
 Dialogue: 0,0:09:23.08,0:09:24.04,Default,Ayuhara,0,0,0,,{TIME:563084,564043}Yes!{NOTE:はい！}
 Dialogue: 0,0:09:25.79,0:09:26.75,Default,Oonuma,0,0,0,,{TIME:565795,566754}Next!{NOTE:次！}
 Dialogue: 0,0:09:26.75,0:09:27.37,Default,Hayakawa,0,0,0,,{TIME:566754,567379}Yes!{NOTE:はい！}
-Dialogue: 0,0:09:38.68,0:09:39.97,Default,Ayuhara,0,0,0,,{TIME:578682,579975}Midori!{NOTE:みどり！}
-Dialogue: 0,0:09:39.97,0:09:42.77,Default,Oonuma,0,0,0,,{TIME:579975,582770}Stand up, Hayakawa! Stand up!{NOTE:さあ 立つのよ 早川 立って！}
-Dialogue: 0,0:09:42.77,0:09:44.43,Default,Oonuma,0,0,0,,{TIME:582770,584438}What's with you?{NOTE:どうしたのよ}
+Dialogue: 0,0:09:38.68,0:09:39.22,Default,Ayuhara,0,0,0,,{TIME:578682,579225}Midori!{NOTE:みどり！}
+Dialogue: 0,0:09:39.97,0:09:42.06,Default,Oonuma,0,0,0,,{TIME:579975,582061}Stand up, Hayakawa! Stand up!{NOTE:さあ 立つのよ 早川 立って！}
+Dialogue: 0,0:09:42.77,0:09:43.81,Default,Oonuma,0,0,0,,{TIME:582770,583813}What's with you?{NOTE:どうしたのよ}
 Dialogue: 0,0:09:44.43,0:09:45.43,Default,Hayakawa,0,0,0,,{TIME:584438,585439}I've had it!{NOTE:もうたくさん！}
-Dialogue: 0,0:09:45.43,0:09:47.39,Default,Ayuhara,0,0,0,,{TIME:585439,587399}Midori…{NOTE:みどり！}
+Dialogue: 0,0:09:45.43,0:09:46.56,Default,Ayuhara,0,0,0,,{TIME:585439,586565}Midori…{NOTE:みどり！}
 Dialogue: 0,0:09:47.39,0:09:49.69,Default,Hayakawa,0,0,0,,{TIME:587399,589693}I'm fed with this nonsense practice!{NOTE:こんな うそっぱちの 練習なんて嫌よ！}
 Dialogue: 0,0:09:49.69,0:09:50.86,Default,Oonuma,0,0,0,,{TIME:589693,590861}What did you just say?!{NOTE:何ですって？}
-Dialogue: 0,0:09:50.86,0:09:55.53,Default,Hayakawa,0,0,0,,{TIME:590861,595533}I don't see the point in practicing when\Nwe know that we're going to lose anyway!{NOTE:負ける… そう分かっていて なれ合いの練習だなんて 嫌よ 絶対に！}
-Dialogue: 0,0:09:55.53,0:09:57.78,Default,(unison),0,0,0,,{TIME:595533,597785}– Huh?\N– Huh?{NOTE:ええ？}
+Dialogue: 0,0:09:50.86,0:09:55.15,Default,Hayakawa,0,0,0,,{TIME:590861,595157}I don't see the point in practicing when\Nwe know that we're going to lose anyway!{NOTE:負ける… そう分かっていて なれ合いの練習だなんて 嫌よ 絶対に！}
 Dialogue: 0,0:09:57.78,0:10:00.07,Default,Ayuhara,0,0,0,,{TIME:597785,600079}Midori, what are you saying?{NOTE:みどり 何てことを}
 Dialogue: 0,0:10:00.07,0:10:01.16,Default,Hayakawa,0,0,0,,{TIME:600079,601163}Just what you heard.{NOTE:嫌なのよ}
 Dialogue: 0,0:10:01.16,0:10:05.54,Default,Hayakawa,0,0,0,,{TIME:601163,605543}This training is completely pointless\Nand you know it! Just stop pretending!{NOTE:誰のためとか何とか言って みんなは 結局 自分をごまかしてるんだわ}
@@ -176,13 +177,13 @@ Dialogue: 0,0:10:31.94,0:10:33.40,Default,Ayuhara,0,0,0,,{TIME:631944,633404}P-P
 Dialogue: 0,0:10:35.07,0:10:36.61,Default,Hayakawa,0,0,0,,{TIME:635072,636615}Professor!{NOTE:先生！}
 Dialogue: 0,0:10:39.28,0:10:41.95,Default,Hongou,0,0,0,,{TIME:639285,641954}You girls!\NWhy are you sitting on the court?!{NOTE:お前たち このざまは 一体 何だ？}
 Dialogue: 0,0:10:41.95,0:10:44.45,Default,Hongou,0,0,0,,{TIME:641954,644456}We're going to fix this team\Nright away! Line up!{NOTE:俺がたたき直してやるから １列に並べ！}
-Dialogue: 0,0:10:47.62,0:10:50.17,Default,Hongou,0,0,0,,{TIME:647626,650171}This kind of practice\Ngets us nowhere.{NOTE:こんな練習では どうにもならん}
+Dialogue: 0,0:10:47.62,0:10:50.17,Default,Hongou,0,0,0,,{TIME:647626,650171}That kind of practice will get you nowhere.{NOTE:こんな練習では どうにもならん}
 Dialogue: 0,0:10:50.17,0:10:53.92,Default,Hongou,0,0,0,,{TIME:650171,653924}I'll arrange a training camp\Nat a university for you.{NOTE:全員を大学の寮に合宿させる 分かったな！}
 Dialogue: 0,0:10:53.92,0:10:55.42,Default,Ayuhara,0,0,0,,{TIME:653924,655426}Professor Hongou!{NOTE:本郷先生！}
 Dialogue: 0,0:11:17.57,0:11:19.24,Default,Hayakawa,0,0,0,,{TIME:677573,679241}What's wrong, Kozue?{NOTE:どうしたの？ こずえ}
 Dialogue: 0,0:11:23.45,0:11:25.20,Default,Hayakawa,0,0,0,,{TIME:683454,685206}You still want to practice?{NOTE:まだ練習？}
 Dialogue: 0,0:11:25.20,0:11:26.95,Default,Ayuhara,0,0,0,,{TIME:685206,686957}I just thought of something.{NOTE:今 急に思いついたの}
-Dialogue: 0,0:11:26.95,0:11:29.71,Default,Ayuhara,0,0,0,,{TIME:686957,689710}I feel like I realized\Na weak point in my spike.{NOTE:私のスパイクの欠点が 分かったような気がして}
+Dialogue: 0,0:11:26.95,0:11:29.71,Default,Ayuhara,0,0,0,,{TIME:686957,689710}I feel like I realized a weak point in my spike.{NOTE:私のスパイクの欠点が 分かったような気がして}
 Dialogue: 0,0:11:34.04,0:11:36.09,Default,Ayuhara,0,0,0,,{TIME:694048,696091}Ah, it's no use…{NOTE:ああ… 駄目だわ}
 Dialogue: 0,0:11:38.17,0:11:41.43,Default,Ayuhara,0,0,0,,{TIME:698177,701430}There's a big difference between\Nthinking of something and doing it.{NOTE:やっぱり 頭の中と やってみるのでは 大違いね}
 Dialogue: 0,0:11:41.43,0:11:44.72,Default,Hayakawa,0,0,0,,{TIME:701430,704725}A weak point?\NDid Professor Hongou point something out?{NOTE:欠点だなんて 本郷先生がそう言ったの？}
@@ -203,10 +204,10 @@ Dialogue: 0,0:12:43.90,0:12:45.20,Default,Hongou,0,0,0,,{TIME:763909,765202}Oh, 
 Dialogue: 0,0:12:45.20,0:12:46.62,Default,Hongou,0,0,0,,{TIME:765202,766620}But it's only worked once so far.{NOTE:たった一度きりな}
 Dialogue: 0,0:12:46.62,0:12:47.57,Default,Ayuhara,0,0,0,,{TIME:766620,767579}Huh?{NOTE:えっ？}
 Dialogue: 0,0:12:47.57,0:12:49.83,Default,Hongou,0,0,0,,{TIME:767579,769832}Fine, I'll explain it thoroughly.{NOTE:この際 みんなも聞いておけ}
-Dialogue: 0,0:12:49.83,0:12:53.62,Default,Hongou,0,0,0,,{TIME:769832,773627}The opponent we'll meet at the Interhigh\Nare nothing like the ones we played with so far.{NOTE:インターハイでぶつかる相手は 今までの相手とは桁違いだ}
+Dialogue: 0,0:12:49.83,0:12:53.62,Default,Hongou,0,0,0,,{TIME:769832,773627}The opponents we'll meet at the Interhigh\Nare nothing like the ones we played with so far.{NOTE:インターハイでぶつかる相手は 今までの相手とは桁違いだ}
 Dialogue: 0,0:12:53.62,0:12:58.59,Default,Hongou,0,0,0,,{TIME:773627,778590}A technique that worked once\Nwon't work second time against them.{NOTE:一度 通用した戦法が 二度も役に立つと思ったら とんだことになる}
-Dialogue: 0,0:12:58.59,0:13:00.34,Default,Hongou,0,0,0,,{TIME:778590,780342}For example,\Nlet's take you, Ayuhara.{NOTE:例えば 鮎原}
-Dialogue: 0,0:13:00.34,0:13:01.46,Default,Ayuhara,0,0,0,,{TIME:780342,781468}Sir.{NOTE:はい}
+Dialogue: 0,0:12:58.59,0:13:00.34,Default,Hongou,0,0,0,,{TIME:778590,780342}For example, let's take you, Ayuhara.{NOTE:例えば 鮎原}
+Dialogue: 0,0:13:00.34,0:13:01.46,Default,Ayuhara,0,0,0,,{TIME:780342,781468}Sir?{NOTE:はい}
 Dialogue: 0,0:13:01.46,0:13:04.84,Default,Hongou,0,0,0,,{TIME:781468,784847}You certainly were an excellent\Nattacker in middle school.{NOTE:君は確かに 中学時代 すばらしいアタッカーだった}
 Dialogue: 0,0:13:04.84,0:13:09.85,Default,Hongou,0,0,0,,{TIME:784847,789852}However, it's dubious how far you can go\Nat the Interhigh. It's on whole another level.{NOTE:だが 一回りレベルの違う インターハイで 君がどこまでやれるか疑問だな}
 Dialogue: 0,0:13:11.64,0:13:15.23,Default,Hongou,0,0,0,,{TIME:791645,795232}The game with the Yagisawa sisters\Nthe other day has proved that very well.{NOTE:それは 既に先日の 八木沢姉妹の試合で証明済みだ}
@@ -217,7 +218,7 @@ Dialogue: 0,0:13:26.32,0:13:31.24,Default,Takeichi,0,0,0,,{TIME:806327,811248}If
 Dialogue: 0,0:13:31.24,0:13:35.33,Default,Nakazawa,0,0,0,,{TIME:811248,815336}Forget Jidōin, we might\Nnot even be able to beat Misawa.{NOTE:寺堂院どころか美沢にだって 勝てやしないじゃない}
 Dialogue: 0,0:13:35.75,0:13:38.25,Default,Oonuma,0,0,0,,{TIME:815753,818255}We can't rely solely on Ayuhara-san.{NOTE:鮎原さんに頼ろうとした 私たちがいけないのよ}
 Dialogue: 0,0:13:39.34,0:13:43.17,Default,Oonuma,0,0,0,,{TIME:819340,823177}All of us have shared responsibility\Non the match score.{NOTE:私たちの一人一人の動きが 全ての得点につながる}
-Dialogue: 0,0:13:43.17,0:13:45.34,Default,Oonuma,0,0,0,,{TIME:823177,825346}Offense is said\Nto be the greatest defense.{NOTE:攻撃こそ最大の防御}
+Dialogue: 0,0:13:43.17,0:13:45.34,Default,Oonuma,0,0,0,,{TIME:823177,825346}Offense is said to be the greatest defense.{NOTE:攻撃こそ最大の防御}
 Dialogue: 0,0:13:45.34,0:13:47.01,Default,Oonuma,0,0,0,,{TIME:825346,827014}We should focus on that.{NOTE:その意気込みでやらなくては}
 Dialogue: 0,0:13:47.01,0:13:48.68,Default,(mixed),0,0,0,,{TIME:827014,828682}– Alright, Captain!\N– Roger that!{NOTE:—了解 キャプテン！\\N—了解！}
 Dialogue: 0,0:13:54.31,0:13:56.14,Default,Oonuma,0,0,0,,{TIME:834313,836148}Let's hurry up and go to sleep.{NOTE:早く部屋に行って眠ることね}
@@ -226,22 +227,22 @@ Dialogue: 0,0:13:58.81,0:13:59.94,Default,Oonuma,0,0,0,,{TIME:838817,839943}Oh? 
 Dialogue: 0,0:14:00.52,0:14:02.19,Default,Hayakawa,0,0,0,,{TIME:840527,842196}She's stayed behind with Professor.{NOTE:まだ残ってます 先生と}
 Dialogue: 0,0:14:05.36,0:14:08.03,Default,Hongou,0,0,0,,{TIME:845366,848035}I expected to see you here, Ayuhara.{NOTE:鮎原 やっぱり残っていたな}
 Dialogue: 0,0:14:08.03,0:14:09.78,Default,Ayuhara,0,0,0,,{TIME:848035,849787}Please tell me, Professor!{NOTE:教えてください 先生}
-Dialogue: 0,0:14:12.03,0:14:15.04,Default,Ayuhara,0,0,0,,{TIME:852039,855042}I gave my all\Nto obtain my current attack.{NOTE:先生 今のアタックでさえ 私には精いっぱいです}
+Dialogue: 0,0:14:12.03,0:14:15.04,Default,Ayuhara,0,0,0,,{TIME:852039,855042}I gave my all to obtain my current attack.{NOTE:先生 今のアタックでさえ 私には精いっぱいです}
 Dialogue: 0,0:14:15.04,0:14:20.04,Default,Ayuhara,0,0,0,,{TIME:855042,860047}But what should I do if we need even more power?\NI just don't know what to do anymore.{NOTE:なのに これ以上の努力を 要求されるとしたら どうすればいいのか 見当もつきません}
-Dialogue: 0,0:14:20.04,0:14:21.96,Default,Hongou,0,0,0,,{TIME:860047,861965}So you want me\Nto solve that problem for you.{NOTE:それを教えてほしいと言うのかね？}
+Dialogue: 0,0:14:20.04,0:14:21.96,Default,Hongou,0,0,0,,{TIME:860047,861965}So you want me to solve that problem for you.{NOTE:それを教えてほしいと言うのかね？}
 Dialogue: 0,0:14:21.96,0:14:23.05,Default,Ayuhara,0,0,0,,{TIME:861965,863050}Yes sir.{NOTE:はい}
 Dialogue: 0,0:14:23.05,0:14:25.46,Default,Hongou,0,0,0,,{TIME:863050,865469}You're asking too much, Ayuhara.{NOTE:ちょっと虫がよすぎるぞ 鮎原}
 Dialogue: 0,0:14:25.46,0:14:26.47,Default,Ayuhara,0,0,0,,{TIME:865469,866470}Huh?{NOTE:えっ？}
 Dialogue: 0,0:14:26.47,0:14:30.26,Default,Hongou,0,0,0,,{TIME:866470,870265}You can destroy this wall\Nthat's blocking you with your own power.{NOTE:自分の ぶつかった壁は 自分の力で たたき壊す他はない}
 Dialogue: 0,0:14:30.26,0:14:33.01,Default,Hongou,0,0,0,,{TIME:870265,873018}But trying to overcome that wall\Nwith a ladder is not the way to go.{NOTE:人の力で壁に はしごを かけようとしても無駄だ}
 Dialogue: 0,0:14:34.85,0:14:36.43,Default,Hongou,0,0,0,,{TIME:874853,876438}I can say only one thing.{NOTE:俺に言えることは 一つだけ}
-Dialogue: 0,0:14:40.35,0:14:42.23,Default,Hongou,0,0,0,,{TIME:880359,882236}Get rid of your pride\Nas attack number one.{NOTE:アタックナンバーワンの 誇りを捨てろ！}
-Dialogue: 0,0:14:50.95,0:14:53.41,Default,Ichinose,0,0,0,,{TIME:890953,893414}But I'm just thinking\Nabout our customers.{NOTE:でも お客さんの 利益を考えないようでは…}
+Dialogue: 0,0:14:40.35,0:14:42.23,Default,Hongou,0,0,0,,{TIME:880359,882236}Get rid of your pride as attack number one.{NOTE:アタックナンバーワンの 誇りを捨てろ！}
+Dialogue: 0,0:14:50.95,0:14:53.41,Default,Ichinose,0,0,0,,{TIME:890953,893414}But I'm just thinking about our customers.{NOTE:でも お客さんの 利益を考えないようでは…}
 Dialogue: 0,0:14:53.41,0:14:57.33,Default,Ichinose's dad,0,0,0,,{TIME:893414,897334}That may be true, but if you keep doing this\Nwe might go out of business in this town!{NOTE:ああ しかし そんなことをしたら この街で商売が できなくなってしまうぞ}
 Dialogue: 0,0:14:57.33,0:14:58.50,Default,Ichinose,0,0,0,,{TIME:897334,898502}That's nonsense!{NOTE:そんなバカな！}
 Dialogue: 0,0:14:58.50,0:15:00.25,Default,Ichinose's mom,0,0,0,,{TIME:898502,900254}Please don't yell, Tsutomu.{NOTE:それがしきたりなのよ}
 Dialogue: 0,0:15:00.25,0:15:03.88,Default,Ichinose's dad,0,0,0,,{TIME:900254,903882}You'll inherit this shop either way.\NYou can do whatever you want with it.{NOTE:どうせ お前に譲る店だから お前の 好きなようにしていい}
-Dialogue: 0,0:15:03.88,0:15:06.00,Default,Ichinose's dad,0,0,0,,{TIME:903882,906009}But please, Tsutomu,\Neverything but that.{NOTE:でも努 それだけは やめてくれ}
+Dialogue: 0,0:15:03.88,0:15:06.00,Default,Ichinose's dad,0,0,0,,{TIME:903882,906009}But please, Tsutomu, everything but that.{NOTE:でも努 それだけは やめてくれ}
 Dialogue: 0,0:15:06.00,0:15:06.92,Default,Ichinose,0,0,0,,{TIME:906009,906927}Have it your way, Dad!{NOTE:分かったよ 父さん！}
 Dialogue: 0,0:15:08.55,0:15:09.47,Default,Ichinose's mom,0,0,0,,{TIME:908554,909471}Tsutomu…{NOTE:努…}
 Dialogue: 0,0:15:10.51,0:15:12.30,Default,Ayuhara,0,0,0,,{TIME:910514,912307}Tsutomu-kun.{NOTE:努君}
@@ -251,20 +252,20 @@ Dialogue: 0,0:15:29.82,0:15:31.45,Default,Ichinose,0,0,0,,{TIME:929825,931452}Ou
 Dialogue: 0,0:15:31.45,0:15:37.49,Default,Ichinose,0,0,0,,{TIME:931452,937499}If we buy directly from the production area, there's no place\Nfor the middleman, so we can sell our vegetables cheaply.{NOTE:産地から直接 野菜を 持ってきて売れば 中間業者が 入らなくなるから 野菜が安く売れる}
 Dialogue: 0,0:15:37.49,0:15:41.42,Default,Ichinose,0,0,0,,{TIME:937499,941420}But my dad says that's not possible\Nand just forbids me.{NOTE:この直売方式が 野菜に限っては できないんだよ こずえ君}
 Dialogue: 0,0:15:41.42,0:15:42.29,Default,Ayuhara,0,0,0,,{TIME:941420,942296}Why?{NOTE:なぜ？}
-Dialogue: 0,0:15:42.29,0:15:44.29,Default,Ichinose,0,0,0,,{TIME:942296,944298}Because apparently no one\Nhas done it before.{NOTE:今まで やったとこがないからさ}
+Dialogue: 0,0:15:42.29,0:15:44.29,Default,Ichinose,0,0,0,,{TIME:942296,944298}Because apparently no one has done it before.{NOTE:今まで やったとこがないからさ}
 Dialogue: 0,0:15:44.29,0:15:46.59,Default,Ichinose,0,0,0,,{TIME:944298,946592}If we were to try it,\Nwe'd get resistance from the other stores.{NOTE:やれば 他の店から抵抗がある}
 Dialogue: 0,0:15:46.59,0:15:48.84,Default,Ichinose,0,0,0,,{TIME:946592,948844}Dad's afraid of the backlash.{NOTE:おやじは それを心配して やるなって言うんだ}
 Dialogue: 0,0:15:48.84,0:15:51.30,Default,Ichinose,0,0,0,,{TIME:948844,951305}But I still want to try it, Kozue-kun.{NOTE:しかし 僕は やってみたいんだ こずえ君}
-Dialogue: 0,0:15:51.30,0:15:56.05,Default,Ichinose,0,0,0,,{TIME:951305,956059}There never will be any progress unless we can\Novercome the boundaries set by common sense.{NOTE:常識を打ち破らなければ 何の進歩もないからね}
+Dialogue: 0,0:15:51.30,0:15:55.47,Default,Ichinose,0,0,0,,{TIME:951305,955476}There never will be any progress unless we can\Novercome the boundaries set by common sense.{NOTE:常識を打ち破らなければ 何の進歩もないからね}
 Dialogue: 0,0:15:56.05,0:15:57.39,Default,Ayuhara,0,0,0,,{TIME:956059,957394}You're right.{NOTE:そうね}
 Dialogue: 0,0:15:57.39,0:16:00.77,Default,Ayuhara,0,0,0,,{TIME:957394,960772}In order to have progress,\Nwe must keep an open mind to possibilities.{NOTE:新しいものを 生み出すには 常識を打ち破らなくては いけないわね}
-Dialogue: 0,0:16:02.19,0:16:04.90,Default,Ayuhara,0,0,0,,{TIME:962191,964902}I feel encouraged\Nafter hearing your words.{NOTE:私にも 何とか 自信が湧いてきたわ}
+Dialogue: 0,0:16:02.19,0:16:04.90,Default,Ayuhara,0,0,0,,{TIME:962191,964902}I feel encouraged after hearing your words.{NOTE:私にも 何とか 自信が湧いてきたわ}
 Dialogue: 0,0:16:04.90,0:16:07.52,Default,Ichinose,0,0,0,,{TIME:964902,967529}Good. That's the spirit, Kozue-kun.{NOTE:うん そうだよ その意気だよ こずえ君}
 Dialogue: 0,0:16:07.52,0:16:10.36,Default,Ichinose,0,0,0,,{TIME:967529,970365}Do not hesitate. Go for it!{NOTE:何も迷うことはないんだ 頑張れよ！}
 Dialogue: 0,0:16:10.36,0:16:12.11,Default,Ayuhara,0,0,0,,{TIME:970365,972117}I will.{NOTE:私 やるわ}
 Dialogue: 0,0:16:12.11,0:16:13.70,Default,Ichinose,0,0,0,,{TIME:972117,973702}Good luck, Kozue-kun.{NOTE:頑張れよ こずえ君}
 Dialogue: 0,0:16:13.70,0:16:14.66,Default,Ayuhara,0,0,0,,{TIME:973702,974661}Thanks.{NOTE:ええ}
-Dialogue: 0,0:16:14.66,0:16:17.41,Default,Ichinose,0,0,0,,{TIME:974661,977414}I'll go cheer you on\Nduring the prefectural qualifiers.{NOTE:県大会には必ず応援に行くよ}
+Dialogue: 0,0:16:14.66,0:16:17.41,Default,Ichinose,0,0,0,,{TIME:974661,977414}I'll go cheer you on during the prefectural qualifiers.{NOTE:県大会には必ず応援に行くよ}
 Dialogue: 0,0:16:17.41,0:16:18.41,Default,Ayuhara,0,0,0,,{TIME:977414,978415}Thank you.{NOTE:ありがとう}
 Dialogue: 0,0:16:31.42,0:16:35.22,Default,Hongou,0,0,0,,{TIME:991428,995224}Here's our strategy for the preliminaries.\NOonuma will give us a chance.{NOTE:県大会の作戦を言う大沼が チャンスボールを上げる}
 Dialogue: 0,0:16:35.22,0:16:39.22,Default,Hongou,0,0,0,,{TIME:995224,999228}To accomplish that, we'll leave both reception\Nand toss completely up to Oonuma.{NOTE:そのため レシーブとトスの 完全一体化を 大沼には要求する}
@@ -272,17 +273,22 @@ Dialogue: 0,0:16:39.22,0:16:41.27,Default,Hongou,0,0,0,,{TIME:999228,1001271}Are
 Dialogue: 0,0:16:41.27,0:16:42.10,Default,Oonuma,0,0,0,,{TIME:1001271,1002105}Yes sir!{NOTE:はい！}
 Dialogue: 0,0:16:44.77,0:16:49.44,Default,Hongou,0,0,0,,{TIME:1004775,1009446}Then Hayakawa relays that toss with her long spike\Neither to the right or left end of the net.{NOTE:そのトスを 早川は ネットの右端か 左端へ ロングスパイクする}
 Dialogue: 0,0:16:49.44,0:16:50.65,Default,Hayakawa,0,0,0,,{TIME:1009446,1010656}Yes sir.{NOTE:はい}
-Dialogue: 0,0:16:50.65,0:16:55.07,Default,Hongou,0,0,0,,{TIME:1010656,1015077}The enemy will naturally think\Nthe ball will be an out.{NOTE:これは 敵の目をくらませ アウトと 思わせる以上 １センチの誤差も 許されない}
+Dialogue: 0,0:16:50.65,0:16:55.07,Default,Hongou,0,0,0,,{TIME:1010656,1015077}The enemy will naturally think the ball will be an out.{NOTE:これは 敵の目をくらませ アウトと 思わせる以上 １センチの誤差も 許されない}
 Dialogue: 0,0:16:55.07,0:16:58.87,Default,Hongou,0,0,0,,{TIME:1015077,1018872}Then at the last moment Ayuhara slams\NHayakawa's spike to the corner of the enemy's court.{NOTE:そして鮎原が 早川のスパイクを もう一度 敵のコーナーへ スパイクするんだ}
 Dialogue: 0,0:16:58.87,0:17:00.66,Default,Ayuhara,0,0,0,,{TIME:1018872,1020666}Just like I thought!{NOTE:や… やっぱり？}
-Dialogue: 0,0:17:00.66,0:17:04.87,Default,Hongou,0,0,0,,{TIME:1020666,1024878}Yes. Spiked balls are flying\Nat 30 to 40 km/h.{NOTE:そうだ スパイクボールは 時速30キロか 40キロで飛んでいる}
+Dialogue: 0,0:17:00.66,0:17:04.87,Default,Hongou,0,0,0,,{TIME:1020666,1024878}Yes. Spiked balls are flying at 30 to 40 km/h.{NOTE:そうだ スパイクボールは 時速30キロか 40キロで飛んでいる}
 Dialogue: 0,0:17:04.87,0:17:11.34,Default,Hongou,0,0,0,,{TIME:1024878,1031343}You need to catch up with that ball,\Njump and spike rather than cutting it.{NOTE:そのボールに やや平行に 走りつつ ジャンプして スパイクボールを カットするように スパイクする}
-Dialogue: 0,0:17:11.34,0:17:13.38,Default,Hongou,0,0,0,,{TIME:1031343,1033387}I named this technique\Na "double attack".{NOTE:これをダブルアタックと 名付けた}
+Dialogue: 0,0:17:11.34,0:17:13.38,Default,Hongou,0,0,0,,{TIME:1031343,1033387}I named this technique a "double attack".{NOTE:これをダブルアタックと 名付けた}
 Dialogue: 0,0:17:13.38,0:17:14.72,Default,Ayuhara,0,0,0,,{TIME:1033387,1034721}Double attack?{NOTE:ダブルアタック}
+Dialogue: 0,0:17:14.72,0:17:19.72,Sign,(sign),0,0,0,,{TIME:1034721,1039726}Tōkai District Volleyball Interhigh qualifying venue{NOTE:東海地区バレーボールインターハイ予選会場}
+Dialogue: 0,0:17:20.18,0:17:21.06,Blackboard,(sign),0,0,0,,{TIME:1040185,1041061}Ota · Yokohama{NOTE:太田・浜?}
+Dialogue: 0,0:17:21.93,0:17:22.85,Blackboard,(sign),0,0,0,,{TIME:1041937,1042854}Tenryū{NOTE:天竜}
+Dialogue: 0,0:17:23.73,0:17:25.14,Blackboard,(sign),0,0,0,,{TIME:1043730,1045148}Misawa · Futaba{NOTE:美沢・双葉}
+Dialogue: 0,0:17:27.10,0:17:28.98,Blackboard,(sign),0,0,0,,{TIME:1047109,1048986}Tenryū · Tōkai{NOTE:天竜・東海}
 Dialogue: 0,0:17:29.73,0:17:31.61,Default,Hayakawa,0,0,0,,{TIME:1049736,1051613}Tenryū is pretty good.{NOTE:天竜ってすごいわね}
-Dialogue: 0,0:17:31.61,0:17:32.82,Default,Oonuma,0,0,0,,{TIME:1051613,1052823}They're a dark horse.{NOTE:ダークホースね}
+Dialogue: 0,0:17:31.61,0:17:32.82,Default,Oonuma,0,0,0,,{TIME:1051613,1052823}They're the dark horse.{NOTE:ダークホースね}
 Dialogue: 0,0:17:32.82,0:17:36.36,Default,Ayuhara,0,0,0,,{TIME:1052823,1056368}They have no distinct technique,\Nbut they have an outstanding team work.{NOTE:別に特徴はないけど 抜群のチームワークね}
-Dialogue: 0,0:17:36.36,0:17:38.66,Default,Hayakawa,0,0,0,,{TIME:1056368,1058662}I think they might get\Nto the semifinals.{NOTE:決勝戦には 進出してくるわ}
+Dialogue: 0,0:17:36.36,0:17:38.66,Default,Hayakawa,0,0,0,,{TIME:1056368,1058662}I think they might get to the semifinals.{NOTE:決勝戦には 進出してくるわ}
 Dialogue: 0,0:17:38.66,0:17:40.53,Default,Hayakawa,0,0,0,,{TIME:1058662,1060539}So they'll play against…{NOTE:それに対するのは…}
 Dialogue: 0,0:17:40.53,0:17:43.12,Default,Oonuma,0,0,0,,{TIME:1060539,1063125}Either Misawa or us.{NOTE:美沢か 私たちのどちらかだわ}
 Dialogue: 0,0:17:43.12,0:17:46.08,Default,Hayakawa,0,0,0,,{TIME:1063125,1066086}Maybe we'll have to play with\NMisawa first, then Tenryū?{NOTE:第１難関が美沢で 第２が天竜か}
@@ -293,31 +299,33 @@ Dialogue: 0,0:17:51.00,0:17:52.25,Default,Ayuhara,0,0,0,,{TIME:1071008,1072259}A
 Dialogue: 0,0:17:52.25,0:17:53.92,Default,Hayakawa,0,0,0,,{TIME:1072259,1073927}Kozue. What are you doing?{NOTE:こずえ 何してんの？}
 Dialogue: 0,0:17:53.92,0:17:55.80,Default,Hayakawa,0,0,0,,{TIME:1073927,1075804}People are talking to you, you know.{NOTE:人が大事な話を してるときに}
 Dialogue: 0,0:17:55.80,0:17:57.30,Default,Ayuhara,0,0,0,,{TIME:1075804,1077306}I'm sorry.{NOTE:ごめんなさい}
-Dialogue: 0,0:17:57.30,0:18:00.18,Default,Ayuhara,0,0,0,,{TIME:1077306,1080183}It's just I can't see\NTsutomu-kun anywhere.{NOTE:さっきから努君 捜してるんだけど 来てないのよ}
+Dialogue: 0,0:17:57.30,0:18:00.18,Default,Ayuhara,0,0,0,,{TIME:1077306,1080183}It's just I can't see Tsutomu-kun anywhere.{NOTE:さっきから努君 捜してるんだけど 来てないのよ}
 Dialogue: 0,0:18:00.18,0:18:02.10,Default,Hayakawa,0,0,0,,{TIME:1080183,1082102}Don't worry, he must be busy.{NOTE:いいじゃない 忙しいのよ}
 Dialogue: 0,0:18:02.10,0:18:03.93,Default,Ayuhara,0,0,0,,{TIME:1082102,1083937}Midori…{NOTE:みどり}
 Dialogue: 0,0:18:05.35,0:18:09.23,Default,Hongou,0,0,0,,{TIME:1085355,1089234}Alright, girls, prepare yourselves.\NWe're playing against Matsubara High next.{NOTE:さあ みんな 準備しろ 相手は松原高校だぞ}
 Dialogue: 0,0:18:09.23,0:18:11.02,Default,(unison),0,0,0,,{TIME:1089234,1091028}– Yes sir.\N– Yes sir.{NOTE:はい！}
 Dialogue: 0,0:18:11.02,0:18:12.65,Default,(mixed),0,0,0,,{TIME:1091028,1092654}– Kozue.\N– Y-Yeah.{NOTE:—こずえ \\N—う うん…}
+Dialogue: 0,0:18:19.53,0:18:20.91,Blackboard,(sign),0,0,0,,{TIME:1099536,1100912}Fujimi · Matsubara{NOTE:富士見・松原}
 Dialogue: 0,0:18:24.24,0:18:25.62,Alternative,Ayuhara,0,0,0,,{TIME:1104249,1105626}He's still not here…{NOTE:まだ来てないわ}
 Dialogue: 0,0:18:25.62,0:18:28.17,Alternative,Ayuhara,0,0,0,,{TIME:1105626,1108170}Maybe something's wrong?\NMaybe something happen—{NOTE:どうかしたのかしら何かあったのかしら}
 Dialogue: 0,0:18:28.17,0:18:30.33,Default,Oonuma,0,0,0,,{TIME:1108170,1110339}Kozue, chance ball!{NOTE:こずえ チャンスボール！}
 Dialogue: 0,0:18:41.18,0:18:42.68,Default,Hayakawa,0,0,0,,{TIME:1121183,1122684}What are you doing?{NOTE:何やってんのよ！}
-Dialogue: 0,0:18:42.68,0:18:44.06,Default,Hayakawa,0,0,0,,{TIME:1122684,1124061}What are you doing…?{NOTE:何やってんのよ！}
+Dialogue: 0,0:18:42.68,0:18:44.06,Default,Hayakawa,0,0,0,,{TIME:1122684,1124061}What are you doing?{NOTE:何やってんのよ！}
 Dialogue: 0,0:18:44.06,0:18:45.18,Default,Hayakawa,0,0,0,,{TIME:1124061,1125187}What are you doing!?{NOTE:何やってんのよ！}
 Dialogue: 0,0:18:45.18,0:18:46.64,Default,Hongou,0,0,0,,{TIME:1125187,1126647}Do not hesitate, Ayuhara!{NOTE:迷うな 鮎原}
+Dialogue: 0,0:18:47.98,0:18:49.85,Blackboard,(sign),0,0,0,,{TIME:1127981,1129858}Fujimi · Matsubara{NOTE:富士見・松原}
 Dialogue: 0,0:18:51.06,0:18:52.27,Default,Ishikawa,0,0,0,,{TIME:1131068,1132277}{\an8}Ah, what a close call.{NOTE:危ない 危ない}
 Dialogue: 0,0:18:52.27,0:18:54.73,Default,Nakazawa,0,0,0,,{TIME:1132277,1134738}{\an8}Who'd think Matsubara would give us problems.{NOTE:松原に こんなに てこずるなんてさ}
 Dialogue: 0,0:18:53.52,0:18:55.90,Default,Hayakawa,0,0,0,,{TIME:1133528,1135906}Kozue, come here for a bit.{NOTE:こずえ ちょっとちょっと}
 Dialogue: 0,0:18:55.90,0:18:57.61,Default,Hayakawa,0,0,0,,{TIME:1135906,1137616}What was with you today?{NOTE:一体 どうしたっていうの？}
-Dialogue: 0,0:18:57.61,0:19:02.24,Default,Hayakawa,0,0,0,,{TIME:1137616,1142245}We might've won,\Nbut you've played like a novice!{NOTE:今日は運よく勝てたから いいようなものの あなた 凡ミスの 連続じゃないの}
+Dialogue: 0,0:18:57.61,0:19:02.24,Default,Hayakawa,0,0,0,,{TIME:1137616,1142245}We might've won, but you've played like a novice!{NOTE:今日は運よく勝てたから いいようなものの あなた 凡ミスの 連続じゃないの}
 Dialogue: 0,0:19:02.24,0:19:04.37,Default,Ayuhara,0,0,0,,{TIME:1142245,1144373}I'm sorry.{NOTE:ご… ごめんなさい}
-Dialogue: 0,0:19:04.37,0:19:07.37,Default,Hayakawa,0,0,0,,{TIME:1144373,1147376}Tomorrow we're playing against Numazu.\NGet a grip!{NOTE:明日は沼津と対戦なのよ しっかりしてよ}
+Dialogue: 0,0:19:04.37,0:19:07.33,Default,Hayakawa,0,0,0,,{TIME:1144373,1147334}Tomorrow we're playing against Numazu.\NGet a grip!{NOTE:明日は沼津と対戦なのよ しっかりしてよ}
 Dialogue: 0,0:19:07.33,0:19:09.16,Default,Oonuma,0,0,0,,{TIME:1147334,1149169}Hayakawa-san, that's enough.{NOTE:早川さん もういいわよ}
 Dialogue: 0,0:19:09.16,0:19:10.58,Default,Hayakawa,0,0,0,,{TIME:1149169,1150587}But Captain!{NOTE:でも キャプテン！}
 Dialogue: 0,0:19:10.58,0:19:12.17,Default,Oonuma,0,0,0,,{TIME:1150587,1152172}Good luck tomorrow, Ayuhara-san.{NOTE:明日は 頑張ってね 鮎原さん}
 Dialogue: 0,0:19:12.17,0:19:13.79,Default,Ayuhara,0,0,0,,{TIME:1152172,1153799}Sure.{NOTE:はい}
-Dialogue: 0,0:19:13.79,0:19:16.51,Default,Hayakawa,0,0,0,,{TIME:1153799,1156510}I'm sure Tsutomu-san\Nwill come see you tomorrow.{NOTE:あしたは来てくれるわよ 努さん}
+Dialogue: 0,0:19:13.79,0:19:16.51,Default,Hayakawa,0,0,0,,{TIME:1153799,1156510}I'm sure Tsutomu-san will come see you tomorrow.{NOTE:あしたは来てくれるわよ 努さん}
 Dialogue: 0,0:19:16.51,0:19:17.76,Default,Ayuhara,0,0,0,,{TIME:1156510,1157761}Yeah…{NOTE:ええ}
 Dialogue: 0,0:19:20.51,0:19:23.68,Default,Toko,0,0,0,,{TIME:1160514,1163684}It's the greengrocer man!\NCheap fruits! Very cheap!{NOTE:八百屋です 安いよ とっても安いよ}
 Dialogue: 0,0:19:23.68,0:19:27.10,Default,Toko,0,0,0,,{TIME:1163684,1167104}Fresh fruits, very cheap!{NOTE:新鮮なお野菜がとっても安いんです 八百屋ですよ}
@@ -339,7 +347,7 @@ Dialogue: 0,0:20:03.14,0:20:04.93,Default,Housewife,0,0,0,,{TIME:1203140,1204933
 Dialogue: 0,0:20:07.85,0:20:09.64,Default,Ayuhara,0,0,0,,{TIME:1207853,1209646}Tsutomu-kun.{NOTE:努君}
 Dialogue: 0,0:20:09.64,0:20:10.89,Default,Ichinose,0,0,0,,{TIME:1209646,1210897}Oh, what's up?{NOTE:あっ な… どうしたんだい？}
 Dialogue: 0,0:20:10.89,0:20:13.48,Default,(mixed),0,0,0,,{TIME:1210897,1213483}– You look overwhelmed. Let me help you.\N– I'm fine.{NOTE:—忙しそうね 私にも手伝わせて\\N—いいよ}
-Dialogue: 0,0:20:13.48,0:20:14.94,Default,Housewife,0,0,0,,{TIME:1213483,1214943}Hey, I'd like to buy\Nthese tomatoes.{NOTE:ちょっと そのトマト取ってくださらない？}
+Dialogue: 0,0:20:13.48,0:20:14.94,Default,Housewife,0,0,0,,{TIME:1213483,1214943}Hey, I'd like to buy these tomatoes.{NOTE:ちょっと そのトマト取ってくださらない？}
 Dialogue: 0,0:20:14.94,0:20:15.56,Default,(unison),0,0,0,,{TIME:1214943,1215569}– Yes ma'am.\N– Yes ma'am.{NOTE:はい}
 Dialogue: 0,0:20:15.56,0:20:18.61,Default,Ayuhara,0,0,0,,{TIME:1215569,1218613}One kilogram, right? Let's see…{NOTE:１袋ですね？ えっと}
 Dialogue: 0,0:20:18.61,0:20:19.74,Default,Ayuhara,0,0,0,,{TIME:1218613,1219740}That'll be 100 yen.{NOTE:100円です}
@@ -347,11 +355,11 @@ Dialogue: 0,0:20:19.74,0:20:20.74,Default,Housewife,0,0,0,,{TIME:1219740,1220741
 Dialogue: 0,0:20:20.74,0:20:22.49,Default,Ichinose,0,0,0,,{TIME:1220741,1222492}Thank you. Ah, let's see…{NOTE:はい 毎度！ えっと…}
 Dialogue: 0,0:20:22.49,0:20:24.91,Default,Housewife,0,0,0,,{TIME:1222492,1224911}Please serve me too.{NOTE:ちょっとちょっと こっちもお願いよ}
 Dialogue: 0,0:20:24.91,0:20:27.45,Default,Ayuhara,0,0,0,,{TIME:1224911,1227456}Of course. Just a second.{NOTE:はいはい 少々お待ちください}
-Dialogue: 0,0:20:27.45,0:20:31.83,Default,Toko,0,0,0,,{TIME:1227456,1231835}Aren't you glad that\NMiss came to help us out?{NOTE:お兄ちゃん よかったねお姉ちゃんが手伝いに来てくれて}
+Dialogue: 0,0:20:27.45,0:20:31.83,Default,Toko,0,0,0,,{TIME:1227456,1231835}Aren't you glad that Miss came to help us out?{NOTE:お兄ちゃん よかったねお姉ちゃんが手伝いに来てくれて}
 Dialogue: 0,0:20:31.83,0:20:33.00,Default,Ayuhara,0,0,0,,{TIME:1231835,1233003}Oh.{NOTE:まあ}
-Dialogue: 0,0:20:33.00,0:20:35.42,Default,Housewife,0,0,0,,{TIME:1233003,1235422}How can you be making a profit\Nwith such prices?{NOTE:あんた これじゃ もうけがないでしょう？}
+Dialogue: 0,0:20:33.00,0:20:35.42,Default,Housewife,0,0,0,,{TIME:1233003,1235422}How can you be making a profit with such prices?{NOTE:あんた これじゃ もうけがないでしょう？}
 Dialogue: 0,0:20:35.42,0:20:41.01,Default,Ichinose,0,0,0,,{TIME:1235422,1241011}Oh, I can sell them fresh and so cheap\Nbecause I contracted the producers directly.{NOTE:いいえ 産地の生産者と契約して 直接運んでくるから 新鮮な野菜を安く売れるんですよ}
-Dialogue: 0,0:20:41.01,0:20:42.97,Default,Housewife,0,0,0,,{TIME:1241011,1242971}Well, then, good luck\Nwith your business.{NOTE:これからも どんどん頼むわね}
+Dialogue: 0,0:20:41.01,0:20:42.97,Default,Housewife,0,0,0,,{TIME:1241011,1242971}Well, then, good luck with your business.{NOTE:これからも どんどん頼むわね}
 Dialogue: 0,0:20:42.97,0:20:44.26,Default,Housewife,0,0,0,,{TIME:1242971,1244264}Is she your girlfriend?{NOTE:こちらガールフレンド？}
 Dialogue: 0,0:20:44.26,0:20:47.51,Default,Ichinose,0,0,0,,{TIME:1244264,1247517}N-No, that's not how it is.{NOTE:いやあ そんな 違いますよ}
 Dialogue: 0,0:20:47.51,0:20:50.85,Default,Toko,0,0,0,,{TIME:1247517,1250854}Huh! You're both blushing!{NOTE:あら？２人とも赤くなってる}
@@ -360,13 +368,13 @@ Dialogue: 0,0:20:52.27,0:20:54.10,Default,Toko,0,0,0,,{TIME:1252272,1254107}What
 Dialogue: 0,0:21:04.45,0:21:07.28,Default,Ichinose,0,0,0,,{TIME:1264451,1267287}Sorry I didn't come\Nto cheer for you today, Kozue-kun.{NOTE:こずえ君 今日は 応援を すっぽかしてごめんね}
 Dialogue: 0,0:21:07.28,0:21:08.33,Default,Ayuhara,0,0,0,,{TIME:1267287,1268330}It's alright.{NOTE:ううん いいのよ}
 Dialogue: 0,0:21:08.33,0:21:10.91,Default,Ayuhara,0,0,0,,{TIME:1268330,1270916}You just started a new job.{NOTE:新しいお仕事 始めたばかりですもの}
-Dialogue: 0,0:21:10.91,0:21:12.54,Default,Ayuhara,0,0,0,,{TIME:1270916,1272542}It must be tough,\Ndoing it all by yourself.{NOTE:でも大変ね 一人きりで}
+Dialogue: 0,0:21:10.91,0:21:12.54,Default,Ayuhara,0,0,0,,{TIME:1270916,1272542}It must be tough, doing it all by yourself.{NOTE:でも大変ね 一人きりで}
 Dialogue: 0,0:21:12.54,0:21:15.08,Default,Ichinose,0,0,0,,{TIME:1272542,1275086}Haha, not at all.{NOTE:アッハハ… そんなことあるもんか}
 Dialogue: 0,0:21:15.08,0:21:17.63,Default,Ichinose,0,0,0,,{TIME:1275086,1277631}On the contrary, I'm very excited.{NOTE:今 僕 ものすごく 張り切ってるんだ}
-Dialogue: 0,0:21:17.63,0:21:19.46,Default,Ichinose,0,0,0,,{TIME:1277631,1279466}You saw the sales\Nyourself, didn't you?{NOTE:君も見ただろ？ 直売方式}
-Dialogue: 0,0:21:19.46,0:21:22.09,Default,Ichinose,0,0,0,,{TIME:1279466,1282093}It was a bold decision,\Nbut it ended up great.{NOTE:思い切って やってみたけど 本当によかった}
-Dialogue: 0,0:21:22.09,0:21:24.42,Default,Ayuhara,0,0,0,,{TIME:1282093,1284429}But Tsutomu-kun,\Ncan you really do all this alone?{NOTE:だけど 努君 一人で やってけるかしら？}
-Dialogue: 0,0:21:24.42,0:21:27.18,Default,Ayuhara,0,0,0,,{TIME:1284429,1287182}There were a lot of customers\Nto deal with today.{NOTE:今日なんか あんなに てんてこまい してたじゃないの}
+Dialogue: 0,0:21:17.63,0:21:19.46,Default,Ichinose,0,0,0,,{TIME:1277631,1279466}You saw the sales yourself, didn't you?{NOTE:君も見ただろ？ 直売方式}
+Dialogue: 0,0:21:19.46,0:21:22.09,Default,Ichinose,0,0,0,,{TIME:1279466,1282093}It was a bold decision, but it ended up great.{NOTE:思い切って やってみたけど 本当によかった}
+Dialogue: 0,0:21:22.09,0:21:24.42,Default,Ayuhara,0,0,0,,{TIME:1282093,1284429}But Tsutomu-kun, can you really do all this alone?{NOTE:だけど 努君 一人で やってけるかしら？}
+Dialogue: 0,0:21:24.42,0:21:27.18,Default,Ayuhara,0,0,0,,{TIME:1284429,1287182}There were a lot of customers to deal with today.{NOTE:今日なんか あんなに てんてこまい してたじゃないの}
 Dialogue: 0,0:21:27.18,0:21:29.30,Default,Ichinose,0,0,0,,{TIME:1287182,1289309}Tsk. I'm not that frail.{NOTE:ちぇっ あんなの目じゃないよ}
 Dialogue: 0,0:21:29.30,0:21:32.39,Default,Ichinose,0,0,0,,{TIME:1289309,1292395}If you have so much time to worry about me,\Nthink about your volleyball.{NOTE:僕の心配する 暇があったら バレーのことを考えろよ}
 Dialogue: 0,0:21:32.39,0:21:35.60,Default,Ichinose,0,0,0,,{TIME:1292395,1295607}That reminds me of\NProfessor Hongou's double attack.{NOTE:そうそう 本郷先生考案の ダブルアタック}
@@ -375,13 +383,13 @@ Dialogue: 0,0:21:38.81,0:21:40.61,Default,Ayuhara,0,0,0,,{TIME:1298819,1300612}I
 Dialogue: 0,0:21:40.61,0:21:44.57,Default,Ichinose,0,0,0,,{TIME:1300612,1304574}Listen. No matter what happens,\NI'll go cheer you on during the final game.{NOTE:いいかい？ 決勝戦のときは どんなことがあっても 応援に行くからね}
 Dialogue: 0,0:21:44.57,0:21:47.57,Default,Ichinose,0,0,0,,{TIME:1304574,1307577}Show me your double attack then.{NOTE:そのときには 必ずダブルアタックを 見せてくれよ こずえ君}
 Dialogue: 0,0:21:49.83,0:21:52.37,Default,Ichinose,0,0,0,,{TIME:1309830,1312374}Believe in yourself.{NOTE:さあ 自信を持つんだ}
-Dialogue: 0,0:21:52.79,0:21:55.50,Default,Ichinose,0,0,0,,{TIME:1312791,1315502}I know for sure\NAyuhara Kozue can do it.{NOTE:鮎原こずえになら きっとできる}
+Dialogue: 0,0:21:52.79,0:21:55.50,Default,Ichinose,0,0,0,,{TIME:1312791,1315502}I know for sure Ayuhara Kozue can do it.{NOTE:鮎原こずえになら きっとできる}
 Dialogue: 0,0:21:55.50,0:21:57.58,Default,Ayuhara,0,0,0,,{TIME:1315502,1317587}Tsutomu-kun…{NOTE:努君}
 Dialogue: 0,0:21:57.58,0:21:59.63,Default,Ichinose,0,0,0,,{TIME:1317587,1319631}It's a promise.{NOTE:約束だぞ}
 Dialogue: 0,0:22:04.42,0:22:07.59,Default,Ichinose,0,0,0,,{TIME:1324427,1327597}If I lie, I'll eat a thousand needles.{NOTE:うそついたら針千本 飲ますからな}
 Dialogue: 0,0:22:09.30,0:22:12.76,Default,Ichinose,0,0,0,,{TIME:1329307,1332769}Go! {\alpha&HFF&\t(750,750,\alpha&H00&)}Go! {\alpha&HFF&\t(1370,1370,\alpha&H00&)}A{\alpha&HFF&\t(1660,1660,\alpha&H00&)}yu{\alpha&HFF&\t(2070,2070,\alpha&H00&)}ha{\alpha&HFF&\t(2400,2400,\alpha&H00&)}ra!{NOTE:フレー フレー 鮎原！}
 Dialogue: 0,0:22:22.11,0:22:30.32,Blackboard,(sign),0,0,0,,{TIME:1342112,1350328}Numazu · Fujimi{NOTE:沼津・富士見}
-Dialogue: 0,0:22:31.24,0:22:34.37,Default,Hayakawa,0,0,0,,{TIME:1351246,1354374}Good going, Kozue!{NOTE:こずえ いい調子よ}
+Dialogue: 0,0:22:30.74,0:22:32.70,Default,Hayakawa,0,0,0,,{TIME:1350745,1352706}Good going, Kozue!{NOTE:こずえ いい調子よ}
 Dialogue: 0,0:22:38.71,0:22:39.75,Default,Ayuhara,0,0,0,,{TIME:1358712,1359754}It's the sign!{NOTE:みんな サインよ！}
 Dialogue: 0,0:22:47.51,0:22:48.38,Alternative,Shimizu,0,0,0,,{TIME:1367512,1368388}Good luck.{NOTE:しっかりね}
 Dialogue: 0,0:22:54.60,0:22:56.35,Default,Ayuhara,0,0,0,,{TIME:1374603,1376354}Captain!{NOTE:キャプテン！}
@@ -391,20 +399,20 @@ Dialogue: 0,0:23:16.70,0:23:18.58,Blackboard,(sign),0,0,0,,{TIME:1396708,1398585
 Dialogue: 0,0:23:24.00,0:23:25.38,Blackboard,(sign),0,0,0,,{TIME:1404007,1405383}Numazu · Fujimi{NOTE:沼津・富士見}
 Dialogue: 0,0:23:25.84,0:23:28.34,Default,Oonuma,0,0,0,,{TIME:1405842,1408345}Five points left. Hold out, girls!{NOTE:あと５点よ みんな頑張って}
 Dialogue: 0,0:23:28.34,0:23:29.63,Default,(unison),0,0,0,,{TIME:1408345,1409638}– Yeah!\N– Yeah!{NOTE:おー！}
-Dialogue: 0,0:23:33.47,0:23:35.14,Alternative,Ayuhara,0,0,0,,{TIME:1413475,1415143}It's the sign for\Nthe double attack again.{NOTE:またダブルアタックのサインよ}
+Dialogue: 0,0:23:33.47,0:23:35.14,Alternative,Ayuhara,0,0,0,,{TIME:1413475,1415143}It's the sign for the double attack again.{NOTE:またダブルアタックのサインよ}
 Dialogue: 0,0:23:35.14,0:23:36.22,Default,Shimizu,0,0,0,,{TIME:1415143,1416227}Professor!{NOTE:先生！}
-Dialogue: 0,0:23:36.22,0:23:39.23,Default,Shimizu,0,0,0,,{TIME:1416227,1419230}They just recovered\Nfrom the previous mistake.{NOTE:さっきの失敗から やっと 立ち直りかけたところですわ}
+Dialogue: 0,0:23:36.22,0:23:39.23,Default,Shimizu,0,0,0,,{TIME:1416227,1419230}They just recovered from the previous mistake.{NOTE:さっきの失敗から やっと 立ち直りかけたところですわ}
 Dialogue: 0,0:23:39.23,0:23:41.90,Default,Shimizu,0,0,0,,{TIME:1419230,1421900}We shouldn't press them so hard\Nin such important game.{NOTE:こんな大事なところで… いけませんわ}
-Dialogue: 0,0:23:41.90,0:23:44.19,Default,Hongou,0,0,0,,{TIME:1421900,1424194}I press them {\i1}because{\i0}\Nit's an important game.{NOTE:大事なところだから やるんですよ}
-Dialogue: 0,0:23:44.19,0:23:46.19,Default,Shimizu,0,0,0,,{TIME:1424194,1426196}But we can't afford\Nany more failures.{NOTE:でも今度 失敗したら 大変です}
-Dialogue: 0,0:23:46.19,0:23:48.44,Default,Shimizu,0,0,0,,{TIME:1426196,1428448}They'll lose confidence\Nand it'll be all for nothing.{NOTE:自信を失って またズルズルと…}
+Dialogue: 0,0:23:41.90,0:23:44.19,Default,Hongou,0,0,0,,{TIME:1421900,1424194}I press them {\i1}because{\i0} it's an important game.{NOTE:大事なところだから やるんですよ}
+Dialogue: 0,0:23:44.19,0:23:46.19,Default,Shimizu,0,0,0,,{TIME:1424194,1426196}But we can't afford any more failures.{NOTE:でも今度 失敗したら 大変です}
+Dialogue: 0,0:23:46.19,0:23:48.44,Default,Shimizu,0,0,0,,{TIME:1426196,1428448}They'll lose confidence and it'll be all for nothing.{NOTE:自信を失って またズルズルと…}
 Dialogue: 0,0:23:48.44,0:23:53.45,Default,Hongou,0,0,0,,{TIME:1428448,1433453}If we were to lose now, we might as well give up.\NWe'd have no chance with Misawa nor Tenryū anyway.{NOTE:こんなところで 負けるようだったら インターハイは おろか 美沢にも天竜にも 勝てんでしょう}
-Dialogue: 0,0:23:56.58,0:23:57.29,Alternative,Ayuhara,0,0,0,,{TIME:1436581,1437290}This time…!{NOTE:今度こそ}
+Dialogue: 0,0:23:56.58,0:23:57.29,Alternative,Ayuhara,0,0,0,,{TIME:1436581,1437290}This time, for sure!{NOTE:今度こそ}
 Dialogue: 0,0:24:22.73,0:24:24.15,Alternative,Ayuhara,0,0,0,,{TIME:1462732,1464150}Dammit!{NOTE:悔しい…}
 Dialogue: 0,0:24:25.19,0:24:26.90,Alternative,Ichinose,0,0,0,,{TIME:1465193,1466903}Believe in yourself.{NOTE:さあ 自信を持つんだ}
-Dialogue: 0,0:24:26.90,0:24:29.03,Alternative,Ichinose,0,0,0,,{TIME:1466903,1469030}I know for sure\NAyuhara Kozue can do it!{NOTE:鮎原こずえになら きっとできる}
+Dialogue: 0,0:24:26.90,0:24:29.03,Alternative,Ichinose,0,0,0,,{TIME:1466903,1469030}I know for sure Ayuhara Kozue can do it!{NOTE:鮎原こずえになら きっとできる}
 Dialogue: 0,0:24:30.03,0:24:31.78,Alternative,Ayuhara,0,0,0,,{TIME:1470031,1471783}If we lose heart here, it's all over.{NOTE:ここでくじけたら負けよ}
-Dialogue: 0,0:24:31.78,0:24:34.16,Alternative,Ayuhara,0,0,0,,{TIME:1471783,1474160}Believe in yourself\Nand win this through!{NOTE:さあ 自信を持って 頑張るのよ}
+Dialogue: 0,0:24:31.78,0:24:34.16,Alternative,Ayuhara,0,0,0,,{TIME:1471783,1474160}Believe in yourself and win this through!{NOTE:さあ 自信を持って 頑張るのよ}
 Dialogue: 0,0:24:48.13,0:24:50.63,Default,Toko,0,0,0,,{TIME:1488133,1490635}Everything sold out!{NOTE:お兄ちゃん みんな売れちゃったね}
 Dialogue: 0,0:24:50.63,0:24:53.22,Default,Ichinose,0,0,0,,{TIME:1490635,1493221}Yeah. It's all thanks\Nto your advertising, Toko-chan.{NOTE:ああ トコちゃんが 宣伝してくれたおかげだよ}
 Dialogue: 0,0:24:53.22,0:24:55.01,Default,Ichinose,0,0,0,,{TIME:1493221,1495015}Thank you.{NOTE:ありがとう}
@@ -417,18 +425,18 @@ Dialogue: 0,0:25:12.78,0:25:16.11,Default,Thug,0,0,0,,{TIME:1512782,1516119}Why 
 Dialogue: 0,0:25:16.11,0:25:18.70,Default,Thug,0,0,0,,{TIME:1516119,1518705}Do you have something to say?{NOTE:何とか言ってみろ！}
 Dialogue: 0,0:25:18.70,0:25:21.12,Default,Ichinose,0,0,0,,{TIME:1518705,1521124}Destroy? No way. I just…{NOTE:邪魔だなんて 僕はただ…}
 Dialogue: 0,0:25:21.12,0:25:23.58,Default,Thug,0,0,0,,{TIME:1521124,1523585}Spare us that rubbish, punk.{NOTE:野郎 うるせえや！}
-Dialogue: 0,0:25:23.58,0:25:27.17,Default,Thug,0,0,0,,{TIME:1523585,1527172}Let's have compensation\Nfor our damage.{NOTE:この野郎 さあ 俺たちの損害を 弁償してもらおうじゃねえか}
+Dialogue: 0,0:25:23.58,0:25:27.17,Default,Thug,0,0,0,,{TIME:1523585,1527172}Let's have compensation for our damage.{NOTE:この野郎 さあ 俺たちの損害を 弁償してもらおうじゃねえか}
 Dialogue: 0,0:25:27.17,0:25:29.79,Default,Ichinose,0,0,0,,{TIME:1527172,1529799}Let go of me.{NOTE:そんな！ 放してください！}
 Dialogue: 0,0:25:29.79,0:25:33.21,Default,Ichinose,0,0,0,,{TIME:1529799,1533219}I'm only selling cheap and fresh\Nvegetables to my customers.{NOTE:僕は 安くて新鮮な野菜を お客さんに 売っているだけです}
-Dialogue: 0,0:25:33.21,0:25:35.34,Default,Thug,0,0,0,,{TIME:1533219,1535346}What…? You're asking for it!{NOTE:何？ 生意気 言うな こいつ！}
+Dialogue: 0,0:25:33.21,0:25:35.34,Default,Thug,0,0,0,,{TIME:1533219,1535346}What? You're asking for it!{NOTE:何？ 生意気 言うな こいつ！}
 Dialogue: 0,0:25:38.64,0:25:40.26,Default,Ichinose,0,0,0,,{TIME:1538641,1540268}Please don't use violence.{NOTE:乱暴しないでください}
 Dialogue: 0,0:25:40.26,0:25:42.18,Default,Thug,0,0,0,,{TIME:1540268,1542187}Screw you.{NOTE:うるせえ！ この野郎！}
 Dialogue: 0,0:25:42.18,0:25:45.81,Default,Thug,0,0,0,,{TIME:1542187,1545815}Think you're such a big shot?{NOTE:生意気なこと言いやがって ふざけんな！ 畜生！}
 Dialogue: 0,0:25:45.81,0:25:47.81,Default,Thug,0,0,0,,{TIME:1545815,1547817}Give us half of the sales!{NOTE:売り上げの半分を 俺たちによこせ！}
-Dialogue: 0,0:25:47.81,0:25:50.61,Default,Thug,0,0,0,,{TIME:1547817,1550612}If you do, we'll let you\Noff the hook for today.{NOTE:今日のところは それで 勘弁してやらあ ああ？}
+Dialogue: 0,0:25:47.81,0:25:50.61,Default,Thug,0,0,0,,{TIME:1547817,1550612}If you do, we'll let you off the hook for today.{NOTE:今日のところは それで 勘弁してやらあ ああ？}
 Dialogue: 0,0:25:50.61,0:25:51.98,Default,Ichinose,0,0,0,,{TIME:1550612,1551988}No way in hell.{NOTE:い… 嫌だ！}
-Dialogue: 0,0:25:51.98,0:25:54.11,Default,Ichinose,0,0,0,,{TIME:1551988,1554115}I have no reason\Nto give money to you!{NOTE:あんた方に金を渡す理由はない！}
-Dialogue: 0,0:25:54.11,0:25:55.32,Default,Thug,0,0,0,,{TIME:1554115,1555325}What…?{NOTE:何？}
+Dialogue: 0,0:25:51.98,0:25:54.11,Default,Ichinose,0,0,0,,{TIME:1551988,1554115}I have no reason to give money to you!{NOTE:あんた方に金を渡す理由はない！}
+Dialogue: 0,0:25:54.11,0:25:55.32,Default,Thug,0,0,0,,{TIME:1554115,1555325}What?{NOTE:何？}
 Dialogue: 0,0:25:56.45,0:25:58.87,Default,Toko,0,0,0,,{TIME:1556451,1558870}Here they are, Mr. Policeman!{NOTE:おまわりさんが来たよ！}
 Dialogue: 0,0:25:58.87,0:26:00.33,Default,Toko,0,0,0,,{TIME:1558870,1560330}Mr. Policeman!{NOTE:おまわりさん！}
 Dialogue: 0,0:26:00.33,0:26:01.79,Default,Thug,0,0,0,,{TIME:1560330,1561790}Let's get the hell out of here.{NOTE:おい！ 逃げろ！}
@@ -446,7 +454,7 @@ Dialogue: 0,0:26:39.11,0:26:40.66,Default,Hongou,0,0,0,,{TIME:1599119,1600662}Do
 Dialogue: 0,0:26:45.45,0:26:47.00,Default,Toko,0,0,0,,{TIME:1605458,1607001}Miss!{NOTE:お姉ちゃん！}
 Dialogue: 0,0:26:47.00,0:26:48.25,Default,Ayuhara,0,0,0,,{TIME:1607001,1608253}Toko-chan, what's wrong?{NOTE:あら トコちゃん}
 Dialogue: 0,0:26:48.25,0:26:49.71,Default,Toko,0,0,0,,{TIME:1608253,1609712}Miss, big trouble!{NOTE:お姉ちゃん 大変なの！}
-Dialogue: 0,0:26:49.71,0:26:52.67,Default,Toko,0,0,0,,{TIME:1609712,1612674}Greengrocer Mister\Nwas badly hurt!{NOTE:お兄ちゃんが けがしたのよ！}
+Dialogue: 0,0:26:49.71,0:26:52.67,Default,Toko,0,0,0,,{TIME:1609712,1612674}Greengrocer Mister was badly hurt!{NOTE:お兄ちゃんが けがしたのよ！}
 Dialogue: 0,0:26:52.67,0:26:54.59,Default,Ayuhara,0,0,0,,{TIME:1612674,1614592}Huh?! Tsutomu-kun?!{NOTE:ええ？ 努君が？}
 Dialogue: 0,0:26:59.84,0:27:02.10,Default,Ayuhara,0,0,0,,{TIME:1619848,1622100}Tsutomu-kun, how's your injury?\NDoes it hurt?{NOTE:努君 けがは？ けがは どうだった？}
 Dialogue: 0,0:27:02.10,0:27:04.76,Default,Ichinose,0,0,0,,{TIME:1622100,1624769}Oh, this? It's nothing serious.{NOTE:アハハ これ？ 大したことじゃないよ}
@@ -457,15 +465,15 @@ Dialogue: 0,0:27:12.73,0:27:17.74,Default,Ichinose,0,0,0,,{TIME:1632735,1637740}
 Dialogue: 0,0:27:17.74,0:27:20.99,Default,Ayuhara,0,0,0,,{TIME:1637740,1640994}Tsutomu-kun, I'm begging you\Nto stop this dangerous work.{NOTE:努君 もう そんな 危ないお仕事は やめてちょうだい}
 Dialogue: 0,0:27:20.99,0:27:21.99,Default,Ichinose,0,0,0,,{TIME:1640994,1641995}Huh?{NOTE:ええ？}
 Dialogue: 0,0:27:21.99,0:27:23.53,Default,Ichinose,0,0,0,,{TIME:1641995,1643538}Hahaha.{NOTE:アッハッハッハ}
-Dialogue: 0,0:27:23.53,0:27:26.45,Default,Ichinose,0,0,0,,{TIME:1643538,1646457}Kozue-kun, you've got\Na surprisingly weak heart.{NOTE:こずえ君 意外と 気が小さいんだな}
+Dialogue: 0,0:27:23.53,0:27:26.45,Default,Ichinose,0,0,0,,{TIME:1643538,1646457}Kozue-kun, you've got a surprisingly weak heart.{NOTE:こずえ君 意外と 気が小さいんだな}
 Dialogue: 0,0:27:26.45,0:27:30.71,Default,Ichinose,0,0,0,,{TIME:1646457,1650712}I'm not going to stop\Nwith my direct sales, no matter what.{NOTE:僕は 何も金もうけの ためにだけ こんなことを しているんじゃないんだ}
-Dialogue: 0,0:27:30.71,0:27:36.84,Default,Ichinose,0,0,0,,{TIME:1650712,1656843}Have you seen how happy those housewives\Nwere when taking cheap and fresh vegetables?{NOTE:僕が安くて新鮮な野菜を 持っていくことで 団地の奥さんたちは すごく喜んでくれている}
-Dialogue: 0,0:27:36.84,0:27:40.84,Default,Ichinose,0,0,0,,{TIME:1656843,1660847}I intend to put all I have\Ninto this work, Kozue-kun.{NOTE:こずえ君 僕はこの仕事に 青春を懸けているんだ}
+Dialogue: 0,0:27:30.71,0:27:36.84,Default,Ichinose,0,0,0,,{TIME:1650712,1656843}Have you seen how happy those housewives were\Nwhen taking cheap and fresh vegetables?{NOTE:僕が安くて新鮮な野菜を 持っていくことで 団地の奥さんたちは すごく喜んでくれている}
+Dialogue: 0,0:27:36.84,0:27:40.84,Default,Ichinose,0,0,0,,{TIME:1656843,1660847}I intend to put all I have into this work, Kozue-kun.{NOTE:こずえ君 僕はこの仕事に 青春を懸けているんだ}
 Dialogue: 0,0:27:40.84,0:27:43.39,Default,Ichinose,0,0,0,,{TIME:1660847,1663391}An injury like that is nothing.{NOTE:こんな けがぐらいで へこたれはしないよ}
-Dialogue: 0,0:27:43.39,0:27:45.72,Default,Ichinose,0,0,0,,{TIME:1663391,1665727}It'll take much more\Nthan that to stop me.{NOTE:あんな妨害なんかに 絶対 負けるもんか！}
-Dialogue: 0,0:27:45.72,0:27:47.18,Default,Ayuhara,0,0,0,,{TIME:1665727,1667187}Tsutomu-kun.{NOTE:努君}
+Dialogue: 0,0:27:43.39,0:27:45.72,Default,Ichinose,0,0,0,,{TIME:1663391,1665727}It'll take much more than that to stop me.{NOTE:あんな妨害なんかに 絶対 負けるもんか！}
+Dialogue: 0,0:27:45.72,0:27:47.18,Alternative,Ayuhara,0,0,0,,{TIME:1665727,1667187}Tsutomu-kun.{NOTE:努君}
 Dialogue: 0,0:27:47.18,0:27:48.60,Alternative,Ayuhara,0,0,0,,{TIME:1667187,1668605}You've changed.{NOTE:あなたは変わったわ}
-Dialogue: 0,0:27:48.60,0:27:51.19,Alternative,Ayuhara,0,0,0,,{TIME:1668605,1671191}You've grown up\Nso much more than me.{NOTE:私なんかより うんと 大人になったみたい}
+Dialogue: 0,0:27:48.60,0:27:51.19,Alternative,Ayuhara,0,0,0,,{TIME:1668605,1671191}You've grown up so much more than me.{NOTE:私なんかより うんと 大人になったみたい}
 Dialogue: 0,0:27:56.19,0:27:58.07,Default,Ichinose,0,0,0,,{TIME:1676196,1678072}It's a race with that sun!{NOTE:よーし 太陽と競争だ}
 Dialogue: 0,0:28:04.45,0:28:09.37,Alternative,Announcer,0,0,0,,{TIME:1684454,1689375}The High School Women's\NVolleyball Tournament semifinals.{NOTE:ただいまから 高校女子バレーボール 県大会 準決勝}
 Dialogue: 0,0:28:09.37,0:28:14.08,Alternative,Announcer,0,0,0,,{TIME:1689375,1694088}A three-set match of Fujimi High School\Nvs. Misawa Academy will begin shortly.{NOTE:富士見高校 対 美沢学院の ３セットマッチを行います}
@@ -474,11 +482,11 @@ Dialogue: 0,0:28:32.69,0:28:34.10,Default,Mihara,0,0,0,,{TIME:1712690,1714108}It
 Dialogue: 0,0:28:39.61,0:28:40.65,Default,Ayuhara,0,0,0,,{TIME:1719614,1720657}Attack!{NOTE:アタック！}
 Dialogue: 0,0:28:43.20,0:28:44.53,Default,Mihara,0,0,0,,{TIME:1723201,1724535}Machine gun attack!{NOTE:マシンガンアタック}
 Dialogue: 0,0:28:44.53,0:28:45.95,Blackboard,(sign),0,0,0,,{TIME:1724535,1725954}Misawa · Fujimi{NOTE:美沢・富士見}
-Dialogue: 0,0:28:46.99,0:28:50.08,Default,Mihara,0,0,0,,{TIME:1726996,1730083}I'll receive the next one,\Nno matter what!{NOTE:この次は絶対に レシーブしてみせる！}
+Dialogue: 0,0:28:46.99,0:28:50.08,Default,Mihara,0,0,0,,{TIME:1726996,1730083}I'll receive the next one, no matter what!{NOTE:この次は絶対に レシーブしてみせる！}
 Dialogue: 0,0:29:00.30,0:29:03.80,Default,Farmer,0,0,0,,{TIME:1740301,1743805}Here comes another.\NThat's the last one.{NOTE:ほーれ お次は これだ このかごで終わりだぞ}
 Dialogue: 0,0:29:03.80,0:29:06.39,Default,Ichinose,0,0,0,,{TIME:1743805,1746391}Ah, thanks.{NOTE:ハハッ ありがとう}
 Dialogue: 0,0:29:06.39,0:29:08.01,Default,Farmer,0,0,0,,{TIME:1746391,1748017}It must be tough for you, too.{NOTE:大変だな 君も}
-Dialogue: 0,0:29:08.01,0:29:10.31,Default,Farmer,0,0,0,,{TIME:1748017,1750311}Having to drive\Nsuch a long way to my farm.{NOTE:こんなに遠くまで 仕入れに来るんじゃ}
+Dialogue: 0,0:29:08.01,0:29:10.31,Default,Farmer,0,0,0,,{TIME:1748017,1750311}Having to drive such a long way to my farm.{NOTE:こんなに遠くまで 仕入れに来るんじゃ}
 Dialogue: 0,0:29:10.31,0:29:16.44,Default,Ichinose,0,0,0,,{TIME:1750311,1756442}Well, I did decide to purchase goods without the middleman.\NThis way of operating might be tough, but I still want to keep at it.{NOTE:“産地で仕入れて直接 売る” この直売方式を 大変だけど なんとか続けていきたいんだ}
 Dialogue: 0,0:29:16.44,0:29:17.65,Default,Farmer,0,0,0,,{TIME:1756442,1757652}So you'll come tomorrow, too?{NOTE:あしたも来るかい？}
 Dialogue: 0,0:29:17.65,0:29:22.49,Default,Ichinose,0,0,0,,{TIME:1757652,1762490}I decided for myself that I'll try as far as I can.\NAnyway, it's a pleasure to do business with you.{NOTE:自分で決めたことだからねできるところまでやってみる まあ よろしく頼むよ}
@@ -502,18 +510,18 @@ Dialogue: 0,0:30:47.32,0:30:49.24,Default,Mitamura,0,0,0,,{TIME:1847325,1849243}
 Dialogue: 0,0:31:13.05,0:31:14.31,Default,Ayuhara,0,0,0,,{TIME:1873059,1874310}All yours, Captain!{NOTE:キャプテン お願い！}
 Dialogue: 0,0:31:14.31,0:31:15.06,Default,Oonuma,0,0,0,,{TIME:1874310,1875061}On it!{NOTE:任して！}
 Dialogue: 0,0:31:27.53,0:31:28.57,Default,(mixed),0,0,0,,{TIME:1887532,1888574}She did it!{NOTE:やった！}
-Dialogue: 0,0:31:28.57,0:31:30.49,Default,Ishida,0,0,0,,{TIME:1888574,1890493}An easy victory\Nwith the double attack!{NOTE:ダブルアタック ストレート勝ち！}
-Dialogue: 0,0:31:30.66,0:31:36.91,Alternative,Announcer,0,0,0,,{TIME:1890660,1896916}{\an8}Fujimi High School wins in the semi-finals of\NHigh School Women's Volleyball Prefectural Tournament.{NOTE:高校女子バレーボール 県大会 決勝戦は 富士見高校の進出が決定しました}
+Dialogue: 0,0:31:28.57,0:31:30.49,Default,Ishida,0,0,0,,{TIME:1888574,1890493}An easy victory with the double attack!{NOTE:ダブルアタック ストレート勝ち！}
+Dialogue: 0,0:31:30.66,0:31:37.75,Alternative,Announcer,0,0,0,,{TIME:1890660,1897750}{\an8}Fujimi High School wins in the semi-finals of\NHigh School Women's Volleyball Prefectural Tournament.{NOTE:高校女子バレーボール 県大会 決勝戦は 富士見高校の進出が決定しました}
 Dialogue: 0,0:31:36.74,0:31:40.21,Default,Shimizu,0,0,0,,{TIME:1896749,1900211}Tomorrow's gonna be the final match\Nwith Tenryū High School.{NOTE:あしたは いよいよ 天竜高校との決勝戦ね}
 Dialogue: 0,0:31:40.21,0:31:43.50,Default,Ayuhara,0,0,0,,{TIME:1900211,1903506}Yeah. I want us to become the prefecture\Nrepresentatives and go to Interhigh.{NOTE:ええ 県代表になって インターハイに 是非出たいですね}
 Dialogue: 0,0:31:43.50,0:31:48.55,Default,Hayakawa,0,0,0,,{TIME:1903506,1908553}Well, we did just beat Misawa Academy, and we\Nconsidered them to be our most powerful enemy.{NOTE:一番の強敵だと思ってた 美沢学院に勝ったし 何だか このまま ずっと勝っちゃって…}
-Dialogue: 0,0:31:48.55,0:31:52.22,Default,Hayakawa,0,0,0,,{TIME:1908553,1912223}Who knows? Maybe we'll keeping winning\Nfor the whole Interhigh and become the champions?{NOTE:気が付いたらインターハイで 優勝してたってことに なるんじゃないかしら}
+Dialogue: 0,0:31:48.55,0:31:52.22,Default,Hayakawa,0,0,0,,{TIME:1908553,1912223}Who knows? Maybe we'll keep winning\Nfor the whole Interhigh and become the champions?{NOTE:気が付いたらインターハイで 優勝してたってことに なるんじゃないかしら}
 Dialogue: 0,0:31:52.22,0:31:55.51,Default,Ayuhara,0,0,0,,{TIME:1912223,1915518}There you go again, Midori.\NIt won't be that easy.{NOTE:まあ みどりったら そうはいかないわよ}
 Dialogue: 0,0:31:55.51,0:31:59.02,Default,Hayakawa,0,0,0,,{TIME:1915518,1919021}I guess.\NOur goal is still miles away.{NOTE:そうねまだまだ 前途はいばらの道ってわけね}
 Dialogue: 0,0:31:59.02,0:32:00.18,Default,Hayakawa,0,0,0,,{TIME:1919021,1920189}Fight, fight!{NOTE:ファイト ファイト}
 Dialogue: 0,0:32:12.07,0:32:14.41,Default,Ichinose,0,0,0,,{TIME:1932076,1934412}Tomorrow is the final game, right?{NOTE:あしたは いよいよ決勝戦だね}
 Dialogue: 0,0:32:14.41,0:32:15.95,Default,Ayuhara,0,0,0,,{TIME:1934412,1935955}Yeah.{NOTE:うん}
-Dialogue: 0,0:32:15.91,0:32:17.95,Default,Ichinose,0,0,0,,{TIME:1935913,1937957}You don't sound enthusiastic.{NOTE:何だい？ 元気がないな}
+Dialogue: 0,0:32:15.95,0:32:17.95,Default,Ichinose,0,0,0,,{TIME:1935955,1937957}You don't sound enthusiastic.{NOTE:何だい？ 元気がないな}
 Dialogue: 0,0:32:17.95,0:32:19.20,Default,Ichinose,0,0,0,,{TIME:1937957,1939208}Don't you believe you'll win?{NOTE:勝てる自信がないのかい？}
 Dialogue: 0,0:32:19.20,0:32:23.58,Default,Ayuhara,0,0,0,,{TIME:1939208,1943588}No, that's not it. I always feel this way\Nthe day before an important match.{NOTE:ううん そうじゃないけど やっぱり 試合の前の日は 何となく…}
 Dialogue: 0,0:32:24.83,0:32:28.67,Default,Ichinose,0,0,0,,{TIME:1944839,1948676}That's not like you, Kozue-kun. Get a grip!\NWhere's your usual fighting spirit?{NOTE:こずえ君らしくないぞ しっかりしろいつものファイトは どうしたんだい？}
@@ -521,16 +529,16 @@ Dialogue: 0,0:32:28.67,0:32:30.21,Default,Ayuhara,0,0,0,,{TIME:1948676,1950219}I
 Dialogue: 0,0:32:30.21,0:32:33.84,Default,Ayuhara,0,0,0,,{TIME:1950219,1953848}That aside, you look somewhat\Ntired yourself, Tsutomu-kun.{NOTE:それより努君こそ 何だか疲れてるみたいよ}
 Dialogue: 0,0:32:33.84,0:32:35.60,Default,Ayuhara,0,0,0,,{TIME:1953848,1955600}How's your work?{NOTE:お仕事 大変なんでしょ？}
 Dialogue: 0,0:32:35.60,0:32:38.26,Default,Ichinose,0,0,0,,{TIME:1955600,1958269}Actually, it's pretty tough.{NOTE:そりゃあ なかなか 思うようにはいかないさ}
-Dialogue: 0,0:32:38.26,0:32:40.06,Default,Ichinose,0,0,0,,{TIME:1958269,1960062}There are some painful things\NI need to deal with.{NOTE:つらいことや 苦しいこともある}
+Dialogue: 0,0:32:38.26,0:32:40.06,Default,Ichinose,0,0,0,,{TIME:1958269,1960062}There are some painful things I need to deal with.{NOTE:つらいことや 苦しいこともある}
 Dialogue: 0,0:32:40.06,0:32:42.35,Default,Ichinose,0,0,0,,{TIME:1960062,1962356}But I'll work hard.{NOTE:でも一生懸命 頑張らなきゃ}
 Dialogue: 0,0:32:44.52,0:32:45.94,Default,Ayuhara,0,0,0,,{TIME:1964525,1965943}I'll work hard, too.{NOTE:私もやるわ}
 Dialogue: 0,0:32:45.94,0:32:48.23,Default,Ayuhara,0,0,0,,{TIME:1965943,1968237}I won't lose to you, Tsutomu-kun.{NOTE:努君に負けてはいられないもん}
 Dialogue: 0,0:32:55.53,0:32:58.16,Default,Ichinose,0,0,0,,{TIME:1975536,1978164}Hey, Kozue-kun.\NWanna climb Mt. Fuji with me?{NOTE:ねえ こずえ君 富士山に登ってみないか？}
 Dialogue: 0,0:32:58.16,0:32:59.33,Default,Ayuhara,0,0,0,,{TIME:1978164,1979332}Huh?{NOTE:えっ？}
 Dialogue: 0,0:32:59.33,0:33:00.54,Default,Ayuhara,0,0,0,,{TIME:1979332,1980541}Yeah.{NOTE:ええ}
-Dialogue: 0,0:33:01.50,0:33:05.42,Default,Ichinose,0,0,0,,{TIME:1981501,1985421}Of course, after you're done\Nwith tomorrow's finals.{NOTE:いやあ もちろん あしたの決勝戦が済んだらさ}
-Dialogue: 0,0:33:05.42,0:33:08.04,Default,Ayuhara,0,0,0,,{TIME:1985421,1988049}But Tsutomu-kun,\Nwhat about your job?{NOTE:ええ でも努君 お仕事は？}
-Dialogue: 0,0:33:08.04,0:33:11.21,Default,Ichinose,0,0,0,,{TIME:1988049,1991219}Don't sweat it.\NOne day won't make a difference.{NOTE:ああ 大丈夫だよ １日ぐらい}
+Dialogue: 0,0:33:01.50,0:33:05.42,Default,Ichinose,0,0,0,,{TIME:1981501,1985421}Of course, after you're done with tomorrow's finals.{NOTE:いやあ もちろん あしたの決勝戦が済んだらさ}
+Dialogue: 0,0:33:05.42,0:33:08.04,Default,Ayuhara,0,0,0,,{TIME:1985421,1988049}But Tsutomu-kun, what about your job?{NOTE:ええ でも努君 お仕事は？}
+Dialogue: 0,0:33:08.04,0:33:11.17,Default,Ichinose,0,0,0,,{TIME:1988049,1991177}Don't sweat it.\NOne day won't make a difference.{NOTE:ああ 大丈夫だよ １日ぐらい}
 Dialogue: 0,0:33:14.93,0:33:16.59,Default,Ichinose,0,0,0,,{TIME:1994931,1996599}Let's climb it together.{NOTE:ね？ 一緒に登ってみよう}
 Dialogue: 0,0:33:16.59,0:33:19.35,Default,Ayuhara,0,0,0,,{TIME:1996599,1999352}Yeah. I have to win tomorrow's\Nfinals no matter what.{NOTE:ええ あしたの決勝戦は どうしても勝たなきゃ}
 Dialogue: 0,0:33:19.35,0:33:21.52,Default,Ayuhara,0,0,0,,{TIME:1999352,2001521}But this will be the first time\NI'll have climbed Mt. Fuji.{NOTE:私 富士山に登るの初めて}
@@ -549,17 +557,17 @@ Dialogue: 0,0:34:02.39,0:34:07.60,Default,Farmer,0,0,0,,{TIME:2042395,2047608}Bu
 Dialogue: 0,0:34:07.60,0:34:11.69,Default,Ichinose,0,0,0,,{TIME:2047608,2051696}I'll travel anywhere if it lets me\Ncut my costs and sell them cheaper.{NOTE:少しでも安く 売ってもらえるんなら どんな所へでも行きますよ}
 Dialogue: 0,0:34:11.69,0:34:14.44,Default,Farmer,0,0,0,,{TIME:2051696,2054448}I see… You're one impressive youngster.{NOTE:ああ 若えのに感心なこったな}
 Dialogue: 0,0:34:14.44,0:34:16.49,Default,Ichinose,0,0,0,,{TIME:2054448,2056492}Not at all.{NOTE:いやあ そんなことないですよ}
-Dialogue: 0,0:34:16.49,0:34:18.70,Default,Ichinose,0,0,0,,{TIME:2056492,2058703}Alright then,\Nthank you very much.{NOTE:じゃあ どうも ありがとうございました}
+Dialogue: 0,0:34:16.49,0:34:18.70,Default,Ichinose,0,0,0,,{TIME:2056492,2058703}Alright then, thank you very much.{NOTE:じゃあ どうも ありがとうございました}
 Dialogue: 0,0:34:18.70,0:34:20.95,Default,Farmer,0,0,0,,{TIME:2058703,2060955}Sure. See you tomorrow.{NOTE:ああああ また来てくれや}
 Dialogue: 0,0:34:20.95,0:34:23.45,Default,Farmer,0,0,0,,{TIME:2060955,2063457}The road is dangerous.\NBe careful on your way home.{NOTE:山道は危険だで 気い付けていけや}
 Dialogue: 0,0:34:23.45,0:34:25.25,Default,Ichinose,0,0,0,,{TIME:2063457,2065251}I will.{NOTE:はい！}
 Dialogue: 0,0:34:25.25,0:34:27.16,Default,Ichinose,0,0,0,,{TIME:2065251,2067169}Alright then, till tomorrow!{NOTE:それじゃあ またあした！}
 Dialogue: 0,0:34:40.72,0:34:44.89,Default,Commentator,0,0,0,,{TIME:2080725,2084895}Ayuhara's feint does its job\Nand earns her team another point.{NOTE:ダブルアタックと見せて 鮎原のフェイント鮮やかに決まりました！}
-Dialogue: 0,0:34:44.89,0:34:47.89,Default,Commentator,0,0,0,,{TIME:2084895,2087898}At a score of 14 to 4,\Nit's now a set point for Fujimi!{NOTE:14対４ 富士見 セットポイントを迎えました}
+Dialogue: 0,0:34:44.89,0:34:47.89,Default,Commentator,0,0,0,,{TIME:2084895,2087898}At a score of 14 to 4, it's now a set point for Fujimi!{NOTE:14対４ 富士見 セットポイントを迎えました}
 Dialogue: 0,0:34:53.77,0:34:56.19,Default,Oonuma,0,0,0,,{TIME:2093779,2096198}We just need one more point!{NOTE:あと１ポイント いいこと？}
 Dialogue: 0,0:34:56.19,0:34:57.61,Default,Oonuma,0,0,0,,{TIME:2096198,2097617}We have to make it!{NOTE:みんな しまっていきましょ}
 Dialogue: 0,0:34:57.61,0:34:58.36,Default,(unison),0,0,0,,{TIME:2097617,2098367}– Yeah!\N– Yeah!{NOTE:はい！}
-Dialogue: 0,0:34:58.36,0:35:00.78,Default,Hayakawa,0,0,0,,{TIME:2098367,2100786}No problem.\NWe just have to stay with the double attack.{NOTE:ダブルアタックのあるかぎり 軽い 軽い}
+Dialogue: 0,0:34:58.36,0:35:00.78,Default,Hayakawa,0,0,0,,{TIME:2098367,2100786}No problem. We just have to\Nstay with the double attack.{NOTE:ダブルアタックのあるかぎり 軽い 軽い}
 Dialogue: 0,0:35:00.78,0:35:02.58,Default,Ayuhara,0,0,0,,{TIME:2100786,2102580}But we can't let our guard down.{NOTE:でも油断は禁物よ}
 Dialogue: 0,0:35:18.55,0:35:22.43,Default,Commentator,0,0,0,,{TIME:2118554,2122433}Tenryū's captain Suga for the first time\Nsucceeds at receiving the double attack!{NOTE:天竜キャプテン 須賀初めてダブルアタックを レシーブしました}
 Dialogue: 0,0:35:25.93,0:35:27.02,Default,(mixed),0,0,0,,{TIME:2125936,2127021}– Kozue!\N– Got it!{NOTE:—こずえ！\\N—はい！}
@@ -568,7 +576,7 @@ Dialogue: 0,0:35:55.59,0:35:57.38,Default,Commentator,0,0,0,,{TIME:2155591,21573
 Dialogue: 0,0:36:04.22,0:36:07.01,Default,Commentator,0,0,0,,{TIME:2164225,2167019}Fujimi finally wins the first set.{NOTE:富士見 ついに 第１セットを取りました}
 Dialogue: 0,0:36:23.53,0:36:25.87,Alternative,Ichinose,0,0,0,,{TIME:2183536,2185871}It's so late already.\NI hope I can make it in time.{NOTE:だいぶ遅れちゃったな 間に合うかな}
 Dialogue: 0,0:36:27.87,0:36:29.25,Alternative,Ichinose,0,0,0,,{TIME:2187873,2189250}Hang in there.{NOTE:頑張ってくれよ}
-Dialogue: 0,0:36:46.55,0:36:48.60,Default,Commentator,0,0,0,,{TIME:2206559,2208602}The Tenryū team\Nearns another point.{NOTE:天竜またも粘り勝ち}
+Dialogue: 0,0:36:46.55,0:36:48.60,Default,Commentator,0,0,0,,{TIME:2206559,2208602}The Tenryū team earns another point.{NOTE:天竜またも粘り勝ち}
 Dialogue: 0,0:36:48.60,0:36:53.06,Default,Commentator,0,0,0,,{TIME:2208602,2213065}In the first set we thought Fujimi's double attack\Nto be invincible, but Tenryū proved that wrong.{NOTE:一時はレシーブ不可能かと 思われていた 富士見のダブルアタックを 今や 確実にレシーブ}
 Dialogue: 0,0:36:53.06,0:36:58.07,Default,Commentator,0,0,0,,{TIME:2213065,2218070}They pick up every serve. I'm sure\Nimpatience plays a big role in that, too.{NOTE:拾いに拾い 相手の焦りに乗じて 第２セット 確実に ポイントを稼いでおります}
 Dialogue: 0,0:37:27.01,0:37:29.56,Alternative,Ichinose,0,0,0,,{TIME:2247016,2249560}Kozue-kun!{NOTE:こずえ君！}
@@ -585,8 +593,8 @@ Dialogue: 0,0:38:49.39,0:38:50.39,Default,Hayakawa,0,0,0,,{TIME:2329390,2330391}
 Dialogue: 0,0:38:50.39,0:38:52.89,Default,Hongou,0,0,0,,{TIME:2330391,2332893}We're bound to defeat them.{NOTE:要するに相手を徹底的に揺すれ！}
 Dialogue: 0,0:38:52.89,0:38:54.68,Default,Hongou,0,0,0,,{TIME:2332893,2334687}We will win for sure.{NOTE:そうすれば 必ず勝てる}
 Dialogue: 0,0:38:54.68,0:38:55.81,Default,(unison),0,0,0,,{TIME:2334687,2335813}– Yes sir!\N– Yes sir!{NOTE:はい！}
-Dialogue: 0,0:38:56.35,0:38:59.19,Default,Commentator,0,0,0,,{TIME:2336355,2339191}Finally the third set\Nis about to begin.{NOTE:いよいよ 第３セットの開始であります}
-Dialogue: 0,0:38:59.19,0:39:02.52,Default,Commentator,0,0,0,,{TIME:2339191,2342528}The serve goes to Ayuhara Kozue,\Ncaptain of the All-Japan middle school team.{NOTE:サーバーは 中学オールジャパンの キャプテンを務めた鮎原こずえ}
+Dialogue: 0,0:38:56.35,0:38:59.19,Default,Commentator,0,0,0,,{TIME:2336355,2339191}Finally the third set is about to begin.{NOTE:いよいよ 第３セットの開始であります}
+Dialogue: 0,0:38:59.19,0:39:02.52,Default,Commentator,0,0,0,,{TIME:2339191,2342528}The serve goes to Ayuhara Kozue\Nof the All-Japan middle school team.{NOTE:サーバーは 中学オールジャパンの キャプテンを務めた鮎原こずえ}
 Dialogue: 0,0:39:02.52,0:39:05.99,Default,Commentator,0,0,0,,{TIME:2342528,2345990}She's a wonderful player,\Ndespite being a first year student.{NOTE:１年生ながら すばらしいプレイヤーであります}
 Dialogue: 0,0:39:06.40,0:39:08.70,Default,Mitamura,0,0,0,,{TIME:2346407,2348701}We're counting on you, Ayuhara!{NOTE:頼むぞ 鮎原！}
 Dialogue: 0,0:39:08.70,0:39:10.74,Default,Mitamura,0,0,0,,{TIME:2348701,2350744}Go! {\alpha&HFF&\t(500,500,\alpha&H00&)}Go! {\alpha&HFF&\t(917,917,\alpha&H00&)}Fu{\alpha&HFF&\t(1126,1126,\alpha&H00&)}ji{\alpha&HFF&\t(1418,1418,\alpha&H00&)}mi!{NOTE:フレ！ フレ！ 富士見！}
@@ -594,22 +602,25 @@ Dialogue: 0,0:39:10.74,0:39:13.28,Default,Mitamura,0,0,0,,{TIME:2350744,2353289}
 Dialogue: 0,0:39:13.28,0:39:14.54,Default,Ayuhara,0,0,0,,{TIME:2353289,2354540}Tsutomu-kun!{NOTE:努君！}
 Dialogue: 0,0:39:18.21,0:39:20.75,Alternative,Ayuhara,0,0,0,,{TIME:2358210,2360754}Tsutomu-kun… I'm such a fool.{NOTE:努君… 私ってバカね}
 Dialogue: 0,0:39:20.75,0:39:24.46,Alternative,Ayuhara,0,0,0,,{TIME:2360754,2364466}I bet that shoelace was hit by a spike.\NWhat am I thinking?{NOTE:スパイクのひもが 切れたくらいでウフフ… どうかしてるわね}
-Dialogue: 0,0:39:55.70,0:40:01.96,Default,Commentator,0,0,0,,{TIME:2395706,2401962}After nothing but the double attack from left and right, another Fujimi's\Nfamous technique, the machine gun attack, firmly hits the court.{NOTE:左右両端からの ダブルアタックのあと これまた 富士見得意の マシンガンアタックが 見事に決まりました！}
+Dialogue: 0,0:39:50.95,0:39:53.70,Sign,(sign),0,0,0,,{TIME:2390951,2393704}{\an2}Operating{NOTE:手術中}
+Dialogue: 0,0:39:55.70,0:39:58.04,Default,Commentator,0,0,0,,{TIME:2395706,2398042}After nothing but the double attack from left and right,{NOTE:左右両端からの ダブルアタックのあと これまた 富士見得意の マシンガンアタックが 見事に決まりました！}
+Dialogue: 0,0:39:58.04,0:40:01.96,Default,Commentator,0,0,0,,{TIME:2398042,2401962}another Fujimi's famous technique,\Nthe machine gun attack, firmly hits the court.{NOTE:左右両端からの ダブルアタックのあと これまた 富士見得意の マシンガンアタックが 見事に決まりました！}
 Dialogue: 0,0:40:23.06,0:40:25.11,Default,Hayakawa,0,0,0,,{TIME:2423067,2425110}I'll aim at the center!{NOTE:真ん中いくわよ！}
 Dialogue: 0,0:40:25.11,0:40:25.86,Default,Ayuhara,0,0,0,,{TIME:2425110,2425861}Got it!{NOTE:いいわ！}
 Dialogue: 0,0:40:32.61,0:40:33.82,Default,Commentator,0,0,0,,{TIME:2432618,2433827}That's unexpected.{NOTE:これは珍しい}
 Dialogue: 0,0:40:33.82,0:40:36.16,Default,Commentator,0,0,0,,{TIME:2433827,2436163}A double attack from the center!{NOTE:中央からの ダブルアタックであります}
 Dialogue: 0,0:40:36.16,0:40:37.41,Default,Commentator,0,0,0,,{TIME:2436163,2437414}Fujimi gains another point!{NOTE:見事 決まりました！}
-Dialogue: 0,0:40:38.24,0:40:40.58,Default,Commentator,0,0,0,,{TIME:2438248,2440584}It seems Tenryū has lost their\Nresolve in this set.{NOTE:第３セット 前半 リードを許した天竜}
-Dialogue: 0,0:40:40.58,0:40:42.41,Default,Commentator,0,0,0,,{TIME:2440584,2442419}They're desperately\Ntrying to catch up.{NOTE:死に物狂いの反撃}
+Dialogue: 0,0:40:38.24,0:40:40.58,Default,Commentator,0,0,0,,{TIME:2438248,2440584}It seems Tenryū has lost their resolve in this set.{NOTE:第３セット 前半 リードを許した天竜}
+Dialogue: 0,0:40:40.58,0:40:42.41,Default,Commentator,0,0,0,,{TIME:2440584,2442419}They're desperately trying to catch up.{NOTE:死に物狂いの反撃}
+Dialogue: 0,0:40:43.92,0:40:56.85,Blackboard,(sign),0,0,0,,{TIME:2443921,2456850}Fujimi · Tenryū
 Dialogue: 0,0:40:42.41,0:40:45.54,Default,Commentator,0,0,0,,{TIME:2442419,2445547}Again, they demonstrate\Nan incredible stamina and perseverance.{NOTE:ジリジリと持ち前の粘りを 再び発揮してきました}
-Dialogue: 0,0:40:46.96,0:40:49.05,Default,Commentator,0,0,0,,{TIME:2446966,2449051}Tenryū catches up,\Npoint by point!{NOTE:すさまじい天竜の 追い上げであります}
-Dialogue: 0,0:40:49.05,0:40:51.42,Default,Commentator,0,0,0,,{TIME:2449051,2451428}Fujimi desperately\Ntries to stop them!{NOTE:必死にこれを 食い止めんとする富士見}
+Dialogue: 0,0:40:46.96,0:40:49.05,Default,Commentator,0,0,0,,{TIME:2446966,2449051}Tenryū catches up, point by point!{NOTE:すさまじい天竜の 追い上げであります}
+Dialogue: 0,0:40:49.05,0:40:51.42,Default,Commentator,0,0,0,,{TIME:2449051,2451428}Fujimi desperately tries to stop them!{NOTE:必死にこれを 食い止めんとする富士見}
 Dialogue: 0,0:40:52.34,0:40:54.43,Default,Commentator,0,0,0,,{TIME:2452346,2454431}Another point for Tenryū!{NOTE:あっ！ 天竜 また決まりました！}
 Dialogue: 0,0:40:57.39,0:41:02.02,Default,Commentator,0,0,0,,{TIME:2457393,2462022}A tie! Tenryū finally caught up\Nand finally achieved a draw.{NOTE:デュース！ ついに天竜が よく追い上げて デュースにこぎ着けました}
 Dialogue: 0,0:41:02.02,0:41:06.06,Default,Commentator,0,0,0,,{TIME:2462022,2466068}This is truly a match at an Interhigh-worthy level.\NBoth teams are going head to head.{NOTE:インターハイ出場を懸けて 文字どおり １点を争う大白熱戦}
-Dialogue: 0,0:41:06.06,0:41:10.07,Default,Commentator,0,0,0,,{TIME:2466068,2470072}At this rate,\Nit's a battle of sheer willpower.{NOTE:こうなると 勝負を決するのは もはや 精神力の 問題でありましょう}
-Dialogue: 0,0:41:11.53,0:41:13.90,Alternative,Ayuhara,0,0,0,,{TIME:2471532,2473909}If we lose here,\NI won't be able to face Tsutomu-kun.{NOTE:もし負けたら 努君に合わす顔がない}
+Dialogue: 0,0:41:06.06,0:41:10.07,Default,Commentator,0,0,0,,{TIME:2466068,2470072}At this rate, it's a battle of sheer willpower.{NOTE:こうなると 勝負を決するのは もはや 精神力の 問題でありましょう}
+Dialogue: 0,0:41:11.53,0:41:13.90,Alternative,Ayuhara,0,0,0,,{TIME:2471532,2473909}If we lose here, I won't be able to face Tsutomu-kun.{NOTE:もし負けたら 努君に合わす顔がない}
 Dialogue: 0,0:41:13.90,0:41:15.45,Alternative,Ayuhara,0,0,0,,{TIME:2473909,2475452}I have to think of something!{NOTE:何としても勝たなければ}
 Dialogue: 0,0:41:30.75,0:41:32.05,Alternative,Commentator,0,0,0,,{TIME:2490759,2492052}It's a tie, again!{NOTE:またもや デュースであります}
 Dialogue: 0,0:41:38.60,0:41:40.68,Default,Toko,0,0,0,,{TIME:2498600,2500686}Miss!{NOTE:お姉ちゃん！}
@@ -617,17 +628,17 @@ Dialogue: 0,0:41:40.68,0:41:42.89,Default,Toko,0,0,0,,{TIME:2500686,2502896}Miss
 Dialogue: 0,0:41:42.89,0:41:45.19,Default,Toko,0,0,0,,{TIME:2502896,2505190}Tsutomu's in trouble!{NOTE:努お兄ちゃんが大変よ！}
 Dialogue: 0,0:41:46.60,0:41:47.52,Default,Hongou,0,0,0,,{TIME:2506608,2507526}Time!{NOTE:タイム！}
 Dialogue: 0,0:41:48.86,0:41:51.69,Default,Toko,0,0,0,,{TIME:2508861,2511697}Miss! We have to hurry!{NOTE:ああっ… お姉ちゃん 早く！}
-Dialogue: 0,0:41:51.69,0:41:53.36,Default,Ayuhara,0,0,0,,{TIME:2511697,2513365}Wh-What did happen\Nto Tsutomu-kun?{NOTE:努君が…}
+Dialogue: 0,0:41:51.69,0:41:53.36,Default,Ayuhara,0,0,0,,{TIME:2511697,2513365}Wh-What did happen to Tsutomu-kun?{NOTE:努君が…}
 Dialogue: 0,0:41:53.36,0:41:55.57,Default,Hongou,0,0,0,,{TIME:2513365,2515576}Go to the hospital immediately.{NOTE:おい すぐ病院へ行ってやれ}
 Dialogue: 0,0:41:55.57,0:41:58.53,Default,Ayuhara,0,0,0,,{TIME:2515576,2518537}He's fatally injured…\NTsutomu-kun?{NOTE:重傷… 努君…}
 Dialogue: 0,0:41:58.53,0:41:59.95,Default,Ayuhara,0,0,0,,{TIME:2518537,2519955}Tsutomu-kun!{NOTE:努君！}
 Dialogue: 0,0:42:15.22,0:42:19.09,Default,Hongou,0,0,0,,{TIME:2535220,2539099}This is an emergency.\NGo see him at once!{NOTE:他のこととは 訳が違う さあ！早く行け！}
 Dialogue: 0,0:42:19.09,0:42:21.89,Default,(mixed),0,0,0,,{TIME:2539099,2541894}– Ayuhara-san.\N– Ayuhara-san!{NOTE:—鮎原さん！\\N—鮎原さん}
-Dialogue: 0,0:42:26.27,0:42:28.52,Default,Ayuhara,0,0,0,,{TIME:2546273,2548525}I can't go until this\Nimportant game is over.{NOTE:この大事な試合が終わるまでは 行けません}
+Dialogue: 0,0:42:26.27,0:42:28.52,Default,Ayuhara,0,0,0,,{TIME:2546273,2548525}I can't go until this important game is over.{NOTE:この大事な試合が終わるまでは 行けません}
 Dialogue: 0,0:42:28.52,0:42:29.52,Default,Hayakawa,0,0,0,,{TIME:2548525,2549526}Kozue?{NOTE:こずえ！}
 Dialogue: 0,0:42:34.23,0:42:37.45,Default,Hayakawa,0,0,0,,{TIME:2554239,2557451}That's right.\NLet's resume the game immediately!{NOTE:そうです 一刻も早く 試合を再開しましょう}
-Dialogue: 0,0:42:37.45,0:42:39.91,Default,Hayakawa,0,0,0,,{TIME:2557451,2559912}Then let's win it\Nas soon as possible!{NOTE:一刻も早く勝ちましょう}
-Dialogue: 0,0:42:39.91,0:42:42.83,Default,Hayakawa,0,0,0,,{TIME:2559912,2562831}To get Kozue to the hospital\Nas soon as possible!{NOTE:こずえを一刻も早く 病院へやるために}
+Dialogue: 0,0:42:37.45,0:42:39.91,Default,Hayakawa,0,0,0,,{TIME:2557451,2559912}Then let's win it as soon as possible!{NOTE:一刻も早く勝ちましょう}
+Dialogue: 0,0:42:39.91,0:42:42.83,Default,Hayakawa,0,0,0,,{TIME:2559912,2562831}To get Kozue to the hospital as soon as possible!{NOTE:こずえを一刻も早く 病院へやるために}
 Dialogue: 0,0:42:42.83,0:42:43.91,Default,Ayuhara,0,0,0,,{TIME:2562831,2563916}Thank you, Midori.{NOTE:ありがとう みどり}
 Dialogue: 0,0:42:44.75,0:42:46.29,Default,Hongou,0,0,0,,{TIME:2564750,2566293}B-But…{NOTE:し… しかし…}
 Dialogue: 0,0:42:47.04,0:42:50.04,Default,Ayuhara,0,0,0,,{TIME:2567044,2570047}Tsutomu-kun won't die.\NHe can't die, no matter what.{NOTE:努君は死にません 絶対に死にません！}
@@ -650,6 +661,7 @@ Dialogue: 0,0:43:41.84,0:43:43.76,Default,Shimizu,0,0,0,,{TIME:2621849,2623767}I
 Dialogue: 0,0:43:43.76,0:43:44.72,Default,Hongou,0,0,0,,{TIME:2623767,2624726}Go!{NOTE:早く！}
 Dialogue: 0,0:43:48.64,0:43:50.35,Default,Hongou,0,0,0,,{TIME:2628647,2630357}I hope she makes it in time.{NOTE:間に合ってくれればいいが}
 Dialogue: 0,0:43:52.60,0:43:54.31,Default,Hayakawa,0,0,0,,{TIME:2632609,2634319}She will. I'm sure of it.{NOTE:間に合います きっと}
+Dialogue: 0,0:44:08.37,0:44:09.71,Sign,(sign),0,0,0,,{TIME:2648375,2649710}Fujimigahama Municipal Hospital{NOTE:富士見ヶ浜市立病院}
 Dialogue: 0,0:44:18.96,0:44:19.76,Default,(mixed),0,0,0,,{TIME:2658969,2659761}– Kozue.\N– Kozue.{NOTE:こずえ！}
 Dialogue: 0,0:44:19.76,0:44:20.80,Default,Ayuhara,0,0,0,,{TIME:2659761,2660804}Tsutomu-kun!{NOTE:努君！}
 Dialogue: 0,0:44:24.14,0:44:25.35,Default,Ayuhara,0,0,0,,{TIME:2664141,2665350}Tsutomu… kun.{NOTE:努… 君…}
@@ -658,7 +670,7 @@ Dialogue: 0,0:44:34.15,0:44:36.02,Default,Ayuhara's dad,0,0,0,,{TIME:2674151,267
 Dialogue: 0,0:44:36.02,0:44:40.03,Default,Ayuhara's dad,0,0,0,,{TIME:2676028,2680032}Tsutomu-kun kept on calling your name,\Nstruggling to breathe!{NOTE:努君は苦しい息の下で お前の名を呼び続けていたんだぞ}
 Dialogue: 0,0:44:40.03,0:44:42.45,Default,Ayuhara,0,0,0,,{TIME:2680032,2682451}Stop! I don't want to hear this!{NOTE:やめて！ 聞きたくないわ！}
 Dialogue: 0,0:44:51.58,0:44:53.42,Default,Ayuhara's mom,0,0,0,,{TIME:2691585,2693420}Kozue, please compose yourself.{NOTE:こずえ しっかりして}
-Dialogue: 0,0:44:54.54,0:44:57.29,Default,Ayuhara's dad,0,0,0,,{TIME:2694546,2697299}Now, go and look\Nat Tsutomu-kun.{NOTE:努君に会ってあげなさい}
+Dialogue: 0,0:44:54.54,0:44:57.29,Default,Ayuhara's dad,0,0,0,,{TIME:2694546,2697299}Now, go and look at Tsutomu-kun.{NOTE:努君に会ってあげなさい}
 Dialogue: 0,0:45:10.81,0:45:13.77,Default,Ichinose's dad,0,0,0,,{TIME:2710812,2713774}Tsutomu… Kozue-chan's here.\NShe came here for you.{NOTE:努 こずえちゃんだよ 来てくれたんだよ}
 Dialogue: 0,0:45:13.77,0:45:16.19,Default,Ayuhara,0,0,0,,{TIME:2713774,2716193}No! No! No!{NOTE:嫌！ 嫌よ！ もう嫌！}
 Dialogue: 0,0:45:17.23,0:45:18.40,Default,Ayuhara's dad,0,0,0,,{TIME:2717236,2718403}What's wrong, Kozue?{NOTE:どうしたんだ こずえ}
@@ -667,7 +679,7 @@ Dialogue: 0,0:45:20.40,0:45:22.95,Default,Ayuhara,0,0,0,,{TIME:2720405,2722950}I
 Dialogue: 0,0:45:23.70,0:45:25.70,Default,Ayuhara,0,0,0,,{TIME:2723700,2725702}I just don't believe it!{NOTE:絶対に信じないわ！}
 Dialogue: 0,0:45:26.74,0:45:27.57,Default,Ayuhara's mom,0,0,0,,{TIME:2726745,2727579}Kozue!{NOTE:こずえ！}
 Dialogue: 0,0:45:44.09,0:45:46.43,Default,Toko,0,0,0,,{TIME:2744096,2746431}Idiot! Idiot! Idiot!{NOTE:バカ！ バカ！ バカ！}
-Dialogue: 0,0:45:46.43,0:45:48.97,Default,Toko,0,0,0,,{TIME:2746431,2748976}Even though he called\Nyour name so much…{NOTE:お兄ちゃんは あんなに呼んでたのに！}
+Dialogue: 0,0:45:46.43,0:45:48.97,Default,Toko,0,0,0,,{TIME:2746431,2748976}Even though he called your name so much…{NOTE:お兄ちゃんは あんなに呼んでたのに！}
 Dialogue: 0,0:45:48.97,0:45:51.18,Default,Toko,0,0,0,,{TIME:2748976,2751186}Even though I told you!{NOTE:私が 知らせてあげたのに！}
 Dialogue: 0,0:45:55.69,0:45:59.65,Default,Toko,0,0,0,,{TIME:2755691,2759653}If you just came with me right away,\Nyou could've seen him!{NOTE:バレーなんか ほっといて すぐ来れば 会えたんだよ！}
 Dialogue: 0,0:45:59.65,0:46:02.28,Default,Toko,0,0,0,,{TIME:2759653,2762281}Idiot, idiot, idiot!{NOTE:バカ バカ バカ バカ！}
@@ -679,15 +691,15 @@ Dialogue: 0,0:46:24.63,0:46:26.59,Default,Ayuhara,0,0,0,,{TIME:2784636,2786596}I
 Dialogue: 0,0:46:26.59,0:46:27.72,Default,Ayuhara,0,0,0,,{TIME:2786596,2787723}I…{NOTE:私…}
 Dialogue: 0,0:46:28.97,0:46:30.26,Default,Ayuhara,0,0,0,,{TIME:2788974,2790267}I just…{NOTE:私…}
 Dialogue: 0,0:46:38.52,0:46:42.11,Alternative,Ayuhara,0,0,0,,{TIME:2798525,2802112}I wanted to climb Mt. Fuji\Nwith you, Tsutomu-kun.{NOTE:私 努君と一緒に 富士山に登りたかった}
-Dialogue: 0,0:46:42.11,0:46:44.48,Alternative,Ayuhara,0,0,0,,{TIME:2802112,2804489}I had something\NI wanted to confess.{NOTE:そして打ち明けたい ことがあったの}
+Dialogue: 0,0:46:42.11,0:46:44.48,Alternative,Ayuhara,0,0,0,,{TIME:2802112,2804489}I had something I wanted to confess.{NOTE:そして打ち明けたい ことがあったの}
 Dialogue: 0,0:47:03.63,0:47:07.26,Alternative,Ichinose,0,0,0,,{TIME:2823633,2827262}Kozue-kun. What is it\Nthat you wanted to tell me?{NOTE:こずえ君 打ち明けたいことって何だい？}
 Dialogue: 0,0:47:14.26,0:47:17.43,Alternative,Ayuhara,0,0,0,,{TIME:2834269,2837439}I'll tell you in a moment.\NJust please close your eyes.{NOTE:今言うわ お願い 目を閉じて}
 Dialogue: 0,0:47:23.61,0:47:25.65,Alternative,Ichinose,0,0,0,,{TIME:2843612,2845655}Close them? Like this?{NOTE:目を？ こうかい？}
 Dialogue: 0,0:47:26.82,0:47:30.03,Alternative,Ichinose,0,0,0,,{TIME:2846823,2850035}Kozue-kun.\NCan I hold your hand?{NOTE:こずえ君 手を握っていいかい？}
 Dialogue: 0,0:47:33.12,0:47:38.91,Alternative,Ichinose,0,0,0,,{TIME:2853121,2858919}When I close my eyes,\NI feel like you're going to go somewhere.{NOTE:じっと 目を閉じていると 君がどっかへ 行ってしまいそうな 気がするんだよ}
 Dialogue: 0,0:47:44.67,0:47:46.17,Alternative,Ayuhara,0,0,0,,{TIME:2864674,2866176}Tsutomu-kun.{NOTE:努君}
-Dialogue: 0,0:47:46.17,0:47:48.34,Alternative,Ayuhara,0,0,0,,{TIME:2866176,2868345}Time to get brave\Nand finally say it.{NOTE:勇気を出して言うわ}
-Dialogue: 0,0:47:49.51,0:47:53.01,Alternative,Ayuhara,0,0,0,,{TIME:2869513,2873016}For quite some time,\NTsutomu-kun…{NOTE:私 前から 努君のこと…}
+Dialogue: 0,0:47:46.17,0:47:48.34,Alternative,Ayuhara,0,0,0,,{TIME:2866176,2868345}Time to get brave and finally say it.{NOTE:勇気を出して言うわ}
+Dialogue: 0,0:47:49.51,0:47:53.01,Alternative,Ayuhara,0,0,0,,{TIME:2869513,2873016}For quite some time, Tsutomu-kun…{NOTE:私 前から 努君のこと…}
 Dialogue: 0,0:47:54.60,0:47:56.81,Alternative,Ayuhara,0,0,0,,{TIME:2874601,2876812}I've been in love with you.{NOTE:とっても好きだったの}
 Dialogue: 0,0:47:59.27,0:48:00.81,Alternative,Ichinose,0,0,0,,{TIME:2879272,2880816}Kozue-kun.{NOTE:こずえ君}
 Dialogue: 0,0:48:08.65,0:48:11.07,Alternative,Hayakawa,0,0,0,,{TIME:2888657,2891076}When will you come back, Kozue?{NOTE:こずえ もう返ってこないの？}
@@ -695,24 +707,24 @@ Dialogue: 0,0:48:11.07,0:48:13.37,Alternative,Hayakawa,0,0,0,,{TIME:2891076,2893
 Dialogue: 0,0:48:13.37,0:48:16.79,Alternative,Hayakawa,0,0,0,,{TIME:2893370,2896790}I feel so sad.\NIt feels so lonely without you.{NOTE:私 悲しい寂しいわ}
 Dialogue: 0,0:48:17.45,0:48:18.83,Default,Oonuma,0,0,0,,{TIME:2897457,2898834}Hayakawa-san!{NOTE:早川さん！}
 Dialogue: 0,0:48:24.13,0:48:27.71,Default,Shimizu,0,0,0,,{TIME:2904131,2907717}Hayakawa-san is trying to replace\NAyuhara-san, isn't she?{NOTE:早川さん 鮎原さんの 穴を埋めようと必死なんですね}
-Dialogue: 0,0:48:27.71,0:48:31.09,Default,Hongou,0,0,0,,{TIME:2907717,2911096}She has good intentions,\Nbut it's not going to work.{NOTE:いや それはいいが それだけではないから困る}
+Dialogue: 0,0:48:27.71,0:48:31.09,Default,Hongou,0,0,0,,{TIME:2907717,2911096}She has good intentions, but it's not going to work.{NOTE:いや それはいいが それだけではないから困る}
 Dialogue: 0,0:48:31.09,0:48:31.93,Default,Shimizu,0,0,0,,{TIME:2911096,2911930}Why?{NOTE:え？}
 Dialogue: 0,0:48:31.93,0:48:33.39,Default,Hongou,0,0,0,,{TIME:2911930,2913390}She's too annoyed.{NOTE:いらだっています}
 Dialogue: 0,0:48:33.39,0:48:35.26,Default,Hongou,0,0,0,,{TIME:2913390,2915267}Look at her.{NOTE:それが証拠に ご覧なさい}
 Dialogue: 0,0:48:35.26,0:48:37.89,Default,Hongou,0,0,0,,{TIME:2915267,2917894}Look at all that useless movement.\NShe's giving it too much power.{NOTE:無駄な動きが多く 力が入り過ぎている}
 Dialogue: 0,0:48:44.10,0:48:46.31,Default,Hongou,0,0,0,,{TIME:2924109,2926319}As a result, she's already tired.{NOTE:だから すぐ疲れてしまう}
-Dialogue: 0,0:48:48.53,0:48:50.61,Default,Shimizu,0,0,0,,{TIME:2928530,2930615}She must be thinking\Nabout Ayuhara-san.{NOTE:鮎原さんのことが まだ…}
+Dialogue: 0,0:48:48.53,0:48:50.61,Default,Shimizu,0,0,0,,{TIME:2928530,2930615}She must be thinking about Ayuhara-san.{NOTE:鮎原さんのことが まだ…}
 Dialogue: 0,0:48:50.61,0:48:51.90,Default,Hongou,0,0,0,,{TIME:2930615,2931908}Of course.{NOTE:無論です}
 Dialogue: 0,0:48:51.90,0:48:56.62,Default,Hongou,0,0,0,,{TIME:2931908,2936621}She's the one who asked Ayuhara\Nnot to quit volleyball and come back to the team.{NOTE:早川は鮎原に バレーを捨てるなコートに帰ってくれ と言った本人です}
 Dialogue: 0,0:48:56.74,0:48:58.03,Default,Ayuhara,0,0,0,,{TIME:2936746,2938039}Tsutomu-kun's diary?{NOTE:努君の日記}
 Dialogue: 0,0:48:58.83,0:49:00.41,Default,Ayuhara,0,0,0,,{TIME:2938832,2940417}Thank you, Auntie.{NOTE:ありがとう 叔母さん}
 Dialogue: 0,0:49:01.62,0:49:07.59,Default,Ichinose's mom,0,0,0,,{TIME:2941626,2947591}We're distributing mementos from his life.\NI think you should have it.{NOTE:実はね 努の 形見分けなんだけど これはあなたに あげた方がいいと思って}
-Dialogue: 0,0:49:07.59,0:49:09.84,Default,Ichinose's mom,0,0,0,,{TIME:2947591,2949843}I want you to get better\Nagain, Kozue-san.{NOTE:こずえさんに もう一度 元気になってほしいの}
+Dialogue: 0,0:49:07.59,0:49:09.84,Default,Ichinose's mom,0,0,0,,{TIME:2947591,2949843}I want you to get better again, Kozue-san.{NOTE:こずえさんに もう一度 元気になってほしいの}
 Dialogue: 0,0:49:09.84,0:49:10.80,Default,Ayuhara,0,0,0,,{TIME:2949843,2950802}Thank you.{NOTE:ええ}
-Dialogue: 0,0:49:13.97,0:49:16.68,Default,Ichinose's mom,0,0,0,,{TIME:2953972,2956683}I'm sure Tsutomu\Nwould've liked it this way.{NOTE:努もきっと喜ぶわ}
+Dialogue: 0,0:49:13.97,0:49:16.68,Default,Ichinose's mom,0,0,0,,{TIME:2953972,2956683}I'm sure Tsutomu would've liked it this way.{NOTE:努もきっと喜ぶわ}
 Dialogue: 0,0:49:19.97,0:49:21.77,Alternative,Ayuhara,0,0,0,,{TIME:2959978,2961771}Tsutomu-kun's diary…{NOTE:努君の日記}
 Dialogue: 0,0:49:21.77,0:49:26.48,Alternative,Ayuhara,0,0,0,,{TIME:2961771,2966485}I'm pressing to my chest everything\Nhe didn't show to anyone until now.{NOTE:誰にも見せない 努君の全てを 今 私が この胸に抱きしめている}
-Dialogue: 0,0:49:29.77,0:49:33.20,Alternative,Ayuhara,0,0,0,,{TIME:2969779,2973200}This book holds all\Nthe memories of Tsutomu-kun.{NOTE:努君の思い出が この中に全部あるんだわ}
+Dialogue: 0,0:49:29.77,0:49:33.20,Alternative,Ayuhara,0,0,0,,{TIME:2969779,2973200}This book holds all the memories of Tsutomu-kun.{NOTE:努君の思い出が この中に全部あるんだわ}
 Dialogue: 0,0:49:33.20,0:49:36.78,Alternative,Ayuhara,0,0,0,,{TIME:2973200,2976786}With this, I can meet with\NTsutomu-kun one more time.{NOTE:私はもう一度 努君と この中で会えるんだわ}
 Dialogue: 0,0:49:43.58,0:49:46.42,Alternative,Ayuhara,0,0,0,,{TIME:2983585,2986421}"I'm in love with Ayuhara Kozue."{NOTE:“僕は鮎原こずえを愛している”}
 Dialogue: 0,0:49:48.38,0:49:49.79,Default,Ayuhara,0,0,0,,{TIME:2988381,2989799}"In love"!?{NOTE:“愛している”}
@@ -721,16 +733,16 @@ Dialogue: 0,0:49:52.13,0:49:57.80,Alternative,Ichinose,0,0,0,,{TIME:2992135,2997
 Dialogue: 0,0:49:59.05,0:50:01.10,Default,Ayuhara,0,0,0,,{TIME:2999059,3001102}The best attacker in the world!{NOTE:世界の アタックナンバーワン！}
 Dialogue: 0,0:50:04.81,0:50:08.06,Alternative,Ichinose,0,0,0,,{TIME:3004814,3008068}World's Attack No. 1.{NOTE:世界の アタックナンバーワン！}
 Dialogue: 0,0:50:08.27,0:50:09.98,Default,Ayuhara,0,0,0,,{TIME:3008276,3009986}T-Tsutomu-kun…{NOTE:つ… 努君が…}
-Dialogue: 0,0:50:12.78,0:50:14.95,Default,Ayuhara,0,0,0,,{TIME:3012781,3014950}These pictures and data\Nare all about me!{NOTE:私の写真とデータ}
+Dialogue: 0,0:50:12.78,0:50:14.95,Default,Ayuhara,0,0,0,,{TIME:3012781,3014950}These pictures and data are all about me!{NOTE:私の写真とデータ}
 Dialogue: 0,0:50:14.95,0:50:17.99,Default,Ayuhara,0,0,0,,{TIME:3014950,3017994}He went this far?!{NOTE:こんなに… こんなにまで！}
 Dialogue: 0,0:50:23.04,0:50:25.54,Default,Ayuhara,0,0,0,,{TIME:3023041,3025544}Through all of this, just for me?{NOTE:こんなにも 私のために努君が}
 Dialogue: 0,0:50:38.18,0:50:43.39,Alternative,Ichinose,0,0,0,,{TIME:3038181,3043395}I came to understanding that we have to devote\Nourselves to our talents for the sake of our futures.{NOTE:“僕たちの未来のためにも 僕たちは お互いの青春を 豊かなものにしなければならない”}
 Dialogue: 0,0:50:44.68,0:50:49.81,Alternative,Ichinose,0,0,0,,{TIME:3044688,3049818}Right now, my biggest wish is for Kozue-kun\Nto become the best attacker in the world.{NOTE:“僕は こずえ君に望む 世界のアタックナンバーワンに なってほしいと”}
 Dialogue: 0,0:50:50.36,0:50:51.61,Default,Ayuhara,0,0,0,,{TIME:3050360,3051611}Tsutomu-kun.{NOTE:努君}
-Dialogue: 0,0:51:00.53,0:51:04.16,Default,Hongou,0,0,0,,{TIME:3060537,3064165}But even so, Professor,\NI still believe in Ayuhara.{NOTE:しかし 先生 僕は鮎原を信じていますよ}
+Dialogue: 0,0:51:00.53,0:51:04.16,Default,Hongou,0,0,0,,{TIME:3060537,3064165}But even so, Professor, I still believe in Ayuhara.{NOTE:しかし 先生 僕は鮎原を信じていますよ}
 Dialogue: 0,0:51:04.16,0:51:06.45,Default,Hongou,0,0,0,,{TIME:3064165,3066459}I'm confident she'll return to us.{NOTE:必ず戻ってきてくれると}
-Dialogue: 0,0:51:06.45,0:51:10.33,Default,Shimizu,0,0,0,,{TIME:3066459,3070338}But we have to go\Nto Tōkyō in a few days.{NOTE:でも 東京でのインターハイまで 何日もないんですよ}
-Dialogue: 0,0:51:10.33,0:51:12.92,Default,Hongou,0,0,0,,{TIME:3070338,3072924}I hope she comes back\Nbefore we leave.{NOTE:その間です その間に}
+Dialogue: 0,0:51:06.45,0:51:10.33,Default,Shimizu,0,0,0,,{TIME:3066459,3070338}But we have to go to Tōkyō in a few days.{NOTE:でも 東京でのインターハイまで 何日もないんですよ}
+Dialogue: 0,0:51:10.33,0:51:12.92,Default,Hongou,0,0,0,,{TIME:3070338,3072924}I hope she comes back before we leave.{NOTE:その間です その間に}
 Dialogue: 0,0:51:26.18,0:51:27.48,Default,Hayakawa,0,0,0,,{TIME:3086187,3087480}Ah! Kozue!{NOTE:あっ こずえ！}
 Dialogue: 0,0:51:27.48,0:51:28.73,Default,(unison),0,0,0,,{TIME:3087480,3088732}– Huh?!\N– Oh!{NOTE:—えっ！\\N—えっ！}
 Dialogue: 0,0:51:28.73,0:51:29.98,Default,Hongou,0,0,0,,{TIME:3088732,3089983}She's here?!{NOTE:来たか！}
@@ -745,15 +757,15 @@ Dialogue: 0,0:51:53.54,0:51:55.13,Default,Oonuma,0,0,0,,{TIME:3113548,3115133}I'
 Dialogue: 0,0:51:55.13,0:51:56.46,Default,Ishida,0,0,0,,{TIME:3115133,3116468}Yo! Welcome back!{NOTE:よっ！ おかえり！}
 Dialogue: 0,0:51:56.46,0:51:57.67,Default,Takeichi,0,0,0,,{TIME:3116468,3117677}We've been waiting for you!{NOTE:待ってたわ}
 Dialogue: 0,0:51:58.17,0:51:59.67,Default,(mixed),0,0,0,,{TIME:3118178,3119679}– Alright, come on.\N– Yeah.{NOTE:—さあ！\\N—はい！}
-Dialogue: 0,0:52:09.60,0:52:12.27,Default,Ayuhara,0,0,0,,{TIME:3129606,3132275}I'm sorry for all\Nthe trouble, Professor.{NOTE:先生 ご迷惑おかけしました}
+Dialogue: 0,0:52:09.60,0:52:12.27,Default,Ayuhara,0,0,0,,{TIME:3129606,3132275}I'm sorry for all the trouble, Professor.{NOTE:先生 ご迷惑おかけしました}
 Dialogue: 0,0:52:12.27,0:52:13.77,Default,Hongou,0,0,0,,{TIME:3132275,3133777}Alright! Save formalities for later.{NOTE:よし！ 挨拶は後だ}
 Dialogue: 0,0:52:15.44,0:52:18.61,Default,Hongou,0,0,0,,{TIME:3135445,3138615}We don't have much time.\NAyuhara. Hayakawa. Oonuma.{NOTE:時間が惜しい 鮎原！ 早川！ 大沼！}
-Dialogue: 0,0:52:18.61,0:52:20.40,Default,Hongou,0,0,0,,{TIME:3138615,3140408}Get down to double attack\Npractice immediately.{NOTE:すぐ ダブルアタックの 練習にかかれ！}
+Dialogue: 0,0:52:18.61,0:52:20.40,Default,Hongou,0,0,0,,{TIME:3138615,3140408}Get down to double attack practice immediately.{NOTE:すぐ ダブルアタックの 練習にかかれ！}
 Dialogue: 0,0:52:20.40,0:52:22.16,Default,(mixed),0,0,0,,{TIME:3140408,3142160}– Yes sir!\N– Yes sir!{NOTE:—はい！\\N—はい！}
 Dialogue: 0,0:52:22.16,0:52:23.78,Default,Ayuhara,0,0,0,,{TIME:3142160,3143787}Y-Yes sir!{NOTE:は… はい！}
-Dialogue: 0,0:52:24.16,0:52:26.12,Default,Hongou,0,0,0,,{TIME:3144162,3146122}Let's start with\Nthe center double attack!{NOTE:中央から決めるダブルアタックだ！}
+Dialogue: 0,0:52:24.16,0:52:26.12,Default,Hongou,0,0,0,,{TIME:3144162,3146122}Let's start with the center double attack!{NOTE:中央から決めるダブルアタックだ！}
 Dialogue: 0,0:52:26.12,0:52:26.99,Default,Ayuhara,0,0,0,,{TIME:3146122,3146998}Yes sir!{NOTE:はい！}
-Dialogue: 0,0:52:34.42,0:52:36.25,Default,Shimizu,0,0,0,,{TIME:3154422,3156257}It's the revival\Nof the double attack!{NOTE:ダブルアタック 健在ですわ！}
+Dialogue: 0,0:52:34.42,0:52:36.25,Default,Shimizu,0,0,0,,{TIME:3154422,3156257}It's the revival of the double attack!{NOTE:ダブルアタック 健在ですわ！}
 Dialogue: 0,0:52:36.25,0:52:38.05,Default,Hongou,0,0,0,,{TIME:3156257,3158051}Good, Ayuhara.\NYou have recovered well.{NOTE:よし 鮎原 よく立ち直ったな！}
 Dialogue: 0,0:52:41.30,0:52:45.51,Default,Mitamura,0,0,0,,{TIME:3161304,3165517}Go! {\alpha&HFF&\t(1627,1627,\alpha&H00&)}Go! {\alpha&HFF&\t(2836,2836,\alpha&H00&)}Fu{\alpha&HFF&\t(3379,3379,\alpha&H00&)}ji{\alpha&HFF&\t(3879,3879,\alpha&H00&)}mi!{NOTE:フレー！ フレー！ 富士見}
 Dialogue: 0,0:52:45.51,0:52:46.47,Default,Mitamura,0,0,0,,{TIME:3165517,3166476}Come on!{NOTE:それ！}
@@ -761,20 +773,20 @@ Dialogue: 0,0:52:46.47,0:52:50.18,Default,(unison),0,0,0,,{TIME:3166476,3170188}
 Dialogue: 0,0:52:50.89,0:52:52.48,Default,Mitamura,0,0,0,,{TIME:3170897,3172482}Win the Interhigh!{NOTE:インターハイに勝って来いよ！}
 Dialogue: 0,0:52:52.48,0:52:55.23,Default,(mixed),0,0,0,,{TIME:3172482,3175235}– Good luck!\N– If you win, I'll date you!{NOTE:—頑張って！\\N—頑張ってこい！}
 Dialogue: 0,0:52:55.81,0:52:59.69,Default,Mitamura,0,0,0,,{TIME:3175819,3179698}Hayakawa-kun! Ayuhara-san!\NDo your best!{NOTE:早川君 鮎原さん 頼むよ ベストを尽くせよ！}
-Dialogue: 0,0:52:59.69,0:53:01.99,Default,Ayuhara,0,0,0,,{TIME:3179698,3181991}You can count on us,\NMitamura-kun.{NOTE:任しておいて 三田村君}
+Dialogue: 0,0:52:59.69,0:53:01.99,Default,Ayuhara,0,0,0,,{TIME:3179698,3181991}You can count on us, Mitamura-kun.{NOTE:任しておいて 三田村君}
 Dialogue: 0,0:53:01.99,0:53:04.86,Default,Mitamura,0,0,0,,{TIME:3181991,3184869}Great! Good to see\Nyou've cheered up!{NOTE:よーし 元気になったな その意気込み 忘れるな！}
 Dialogue: 0,0:53:04.86,0:53:07.78,Default,Hayakawa,0,0,0,,{TIME:3184869,3187789}Mitamura-kun, it's alright already.\NIt's dangerous to run!{NOTE:三田村君 もういいわ！ 走るの危ない！}
 Dialogue: 0,0:53:07.78,0:53:10.29,Default,Mitamura,0,0,0,,{TIME:3187789,3190291}I'll be fine, Hayakawa-kun!\NDon't lose to Kozue-san.{NOTE:大丈夫さ 早川君 こずえさんに負けんなよ！}
-Dialogue: 0,0:53:11.08,0:53:12.21,Default,Hayakawa,0,0,0,,{TIME:3191084,3192210}Don't mind it,\Ndon't mind it!{NOTE:ドンマイ ドンマイ}
+Dialogue: 0,0:53:11.08,0:53:12.21,Default,Hayakawa,0,0,0,,{TIME:3191084,3192210}Don't mind it, don't mind it!{NOTE:ドンマイ ドンマイ}
 Dialogue: 0,0:53:14.25,0:53:15.83,Default,Hayakawa,0,0,0,,{TIME:3194254,3195839}Ah! I told you!{NOTE:ああっ だから言ったでしょ}
 Dialogue: 0,0:53:15.83,0:53:17.84,Default,Mitamura,0,0,0,,{TIME:3195839,3197841}I'm fine! Ah—{NOTE:へ… 平気さ あっ 痛っ！}
 Dialogue: 0,0:53:17.84,0:53:19.96,Default,(mixed),0,0,0,,{TIME:3197841,3199968}I knew it.{NOTE:—ああっ！\\N—やった…}
 Dialogue: 0,0:53:28.93,0:53:30.01,Default,Ayuhara,0,0,0,,{TIME:3208935,3210019}I'm so happy.{NOTE:よかった}
 Dialogue: 0,0:53:30.01,0:53:30.93,Default,Ayuhara,0,0,0,,{TIME:3210019,3210937}About what?{NOTE:何が？}
 Dialogue: 0,0:53:30.93,0:53:33.10,Default,Hayakawa,0,0,0,,{TIME:3210937,3213106}You need to ask?\NYou look so much better.{NOTE:何がって元気出たじゃない}
-Dialogue: 0,0:53:33.10,0:53:35.48,Default,Hayakawa,0,0,0,,{TIME:3213106,3215483}Seems like Mitamura-kun's\Nenergy got to you.{NOTE:三田村君 目をパチクリさせてたわ}
-Dialogue: 0,0:53:40.57,0:53:42.49,Default,Hayakawa,0,0,0,,{TIME:3220572,3222490}Looks like you\Ngot over Tsutomu-san.{NOTE:どうやら努さんの…}
-Dialogue: 0,0:53:42.49,0:53:45.45,Default,Ayuhara,0,0,0,,{TIME:3222490,3225452}Yes. Weeping won't\Ndo me any good.{NOTE:ええ もう メソメソしている 場合じゃないもの}
+Dialogue: 0,0:53:33.10,0:53:35.48,Default,Hayakawa,0,0,0,,{TIME:3213106,3215483}Seems like Mitamura-kun's energy got to you.{NOTE:三田村君 目をパチクリさせてたわ}
+Dialogue: 0,0:53:40.57,0:53:42.49,Default,Hayakawa,0,0,0,,{TIME:3220572,3222490}Looks like you got over Tsutomu-san.{NOTE:どうやら努さんの…}
+Dialogue: 0,0:53:42.49,0:53:45.45,Default,Ayuhara,0,0,0,,{TIME:3222490,3225452}Yes. Weeping won't do me any good.{NOTE:ええ もう メソメソしている 場合じゃないもの}
 Dialogue: 0,0:53:45.45,0:53:48.28,Default,Ayuhara,0,0,0,,{TIME:3225452,3228288}I'll give my best in the matches.{NOTE:試合になったら やるわよ 私}
 Dialogue: 0,0:53:48.28,0:53:50.24,Default,Hayakawa,0,0,0,,{TIME:3228288,3230248}That's the spirit. Keep it up!{NOTE:その意気 その意気よ}
 Dialogue: 0,0:53:50.24,0:53:53.33,Default,Hayakawa,0,0,0,,{TIME:3230248,3233334}Keep your head high, Attack No. 1.{NOTE:燃えろ アタックナンバーワン！}
@@ -782,4 +794,4 @@ Dialogue: 0,0:53:59.67,0:54:02.76,Alternative,Ayuhara,0,0,0,,{TIME:3239674,32427
 Dialogue: 0,0:54:15.10,0:54:17.77,Alternative,Hongou,0,0,0,,{TIME:3255106,3257776}Become strong, Ayuhara.{NOTE:鮎原 強くなってくれ}
 Dialogue: 0,0:54:17.77,0:54:22.19,Alternative,Hongou,0,0,0,,{TIME:3257776,3262197}You will never get over by just\Ntrying to forget Ichinose Tsutomu.{NOTE:一ノ瀬 努を忘れようと するだけでは 決して 立ち直ることはできん}
 Dialogue: 0,0:54:22.19,0:54:26.15,Alternative,Hongou,0,0,0,,{TIME:3262197,3266159}Only once you accept that life and death\Nare inseparable, can you move on.{NOTE:死という現実を 乗り越えてこそ お前は飛躍できるのだ}
-Dialogue: 0,0:54:35.00,0:54:42.00,Sign,(sign),0,0,0,,{TIME:3275001,3282001}{\fn(Engcomica)\an5\pos(1580,500)\1c&HF5E3E7&\fs120\bord0\blur1.2\alpha&H10&}Fin{NOTE:終}
+Dialogue: 0,0:54:35.00,0:54:41.54,Sign,(sign),0,0,0,,{TIME:3275001,3281549}{\fnEngcomica\an5\pos(1570,500)\1c&HF5E3E7&\fs120\bord0\blur1.2\alpha&H10&}Fin{NOTE:終}
