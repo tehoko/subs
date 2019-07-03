@@ -5,7 +5,7 @@ ScriptType: v4.00+
 PlayResX: 1440
 PlayResY: 1080
 YCbCr Matrix: TV.601
-WrapStyle: 1
+WrapStyle: 2
 ScaledBorderAndShadow: yes
 Title: Saint Tail - 13
 Audio File: source/13.mkv
@@ -55,265 +55,260 @@ Dialogue: 0,0:01:12.96,0:01:19.35,saint tail op en,[karaoke],0,0,0,,{TIME:72969,
 Dialogue: 0,0:01:19.35,0:01:22.77,saint tail op en,[karaoke],0,0,0,,{TIME:79350,82770}we are always connected.
 Dialogue: 0,0:01:27.06,0:01:29.44,saint tail op en,[karaoke],0,0,0,,{TIME:87066,89444}Want you here tonight!
 Comment: 0,0:01:31.11,0:01:31.11,[chapter],[chapter],0,0,0,,{TIME:91112,91112}Part A
-Dialogue: 0,0:01:40.58,0:01:43.70,saint tail default,,0,0,0,,{TIME:100580,103708}Ah… I wish there was a\Ngreat scoop somewhere…
-Dialogue: 0,0:01:48.46,0:01:50.46,saint tail default,,0,0,0,,{TIME:108463,110465}Hazama Residence
-Dialogue: 0,0:01:51.13,0:01:52.55,saint tail default,,0,0,0,,{TIME:111132,112550}Come on, hurry up!
-Dialogue: 0,0:01:52.55,0:01:53.59,saint tail default,,0,0,0,,{TIME:112550,113593}I am!
-Dialogue: 0,0:01:58.80,0:02:00.68,saint tail default,,0,0,0,,{TIME:118806,120683}Looks like we did it.
-Dialogue: 0,0:02:01.18,0:02:06.73,saint tail default,,0,0,0,,{TIME:121184,126731}Yeah. The old lady didn't want anyone\Nto know about this mirror…
-Dialogue: 0,0:02:06.77,0:02:10.65,saint tail default,,0,0,0,,{TIME:126773,130652}and once we put it up in\NThursday's auction, we'll be rich!
-Dialogue: 0,0:02:10.69,0:02:12.44,saint tail default,,0,0,0,,{TIME:130693,132445}I hope we get a good price.
-Dialogue: 0,0:02:12.57,0:02:13.48,saint tail default,,0,0,0,,{TIME:132570,133488}We will.
-Dialogue: 0,0:02:13.90,0:02:14.94,saint tail default,,0,0,0,,{TIME:133905,134947}What's this…?
-Dialogue: 0,0:02:16.69,0:02:18.15,saint tail default,,0,0,0,,{TIME:136699,138159}You got the appraisal?
-Dialogue: 0,0:02:18.36,0:02:21.16,saint tail default,,0,0,0,,{TIME:138368,141162}Right here.\NHurry up and drive.
-Dialogue: 0,0:02:21.20,0:02:21.78,saint tail default,,0,0,0,,{TIME:141204,141788}Okay.
-Dialogue: 0,0:02:22.28,0:02:23.45,saint tail default,,0,0,0,,{TIME:142288,143456}Thieves…?!
-Dialogue: 0,0:02:34.46,0:02:35.63,saint tail default,,0,0,0,,{TIME:154467,155635}This is my scoop!!
-Dialogue: 0,0:02:36.21,0:02:41.59,saint tail default,,0,0,0,,{TIME:156219,161599}Mystical Princess Rosa's Mirror
-Dialogue: 0,0:02:51.52,0:02:55.23,saint tail default,,0,0,0,,{TIME:171526,175238}My, it's such a finely crafted mirror!
-Dialogue: 0,0:02:56.32,0:03:02.66,saint tail default,,0,0,0,,{TIME:176322,182662}It was made in the 17th century\Nfor Princess Rosa of Reyche.
-Dialogue: 0,0:03:02.78,0:03:05.74,saint tail default,,0,0,0,,{TIME:182787,185748}No wonder…\Nit's such a magnificent mirror.
-Dialogue: 0,0:03:05.99,0:03:07.54,saint tail default,,0,0,0,,{TIME:185998,187542}The truth is, last night…
-Dialogue: 0,0:03:07.58,0:03:11.04,saint tail default,,0,0,0,,{TIME:187583,191045}the mirror was stolen\Nalong with its appraisal form.
-Dialogue: 0,0:03:13.29,0:03:16.59,saint tail default,,0,0,0,,{TIME:193297,196592}There is a lovely legend regarding\Nthe princess who owned this mirror.
-Dialogue: 0,0:03:17.71,0:03:22.01,saint tail default,,0,0,0,,{TIME:197719,202014}Antique collectors around the\Nworld are anxious to possess it.
-Dialogue: 0,0:03:22.93,0:03:27.77,saint tail default,,0,0,0,,{TIME:202932,207770}If the word of its theft gets out…
-Dialogue: 0,0:03:27.81,0:03:32.60,saint tail default,,0,0,0,,{TIME:207812,212608}I fear the collectors will do\Nanything to get their hands on it.
-Dialogue: 0,0:03:33.73,0:03:39.19,saint tail default,,0,0,0,,{TIME:213735,219198}I merely want to live out my\Nlife in peace with my mirror.
-Dialogue: 0,0:03:39.94,0:03:42.41,saint tail default,,0,0,0,,{TIME:219949,222410}Then we can't notify\Nthe police either, can we…
-Dialogue: 0,0:03:42.61,0:03:48.75,saint tail default,,0,0,0,,{TIME:222618,228750}No, all I can do is pray that it's\Nreturned to me without a scratch.
-Dialogue: 0,0:03:49.91,0:03:51.21,saint tail default,,0,0,0,,{TIME:229917,231210}I understand.
+Dialogue: 0,0:01:40.58,0:01:43.83,saint tail default,,0,0,0,,{TIME:100580,103833}Ah… I wish there was a\Ngreat scoop somewhere…
+Dialogue: 0,0:01:46.96,0:01:50.63,saint tail sign,(sign),0,0,0,,{TIME:106961,110632}{\fad(2000,0)}Hazama Residence
+Dialogue: 0,0:01:51.09,0:01:52.46,saint tail default,,0,0,0,,{TIME:111090,112467}Come on, hurry up!
+Dialogue: 0,0:01:52.46,0:01:53.59,saint tail default,,0,0,0,,{TIME:112467,113593}I am!
+Dialogue: 0,0:01:58.80,0:02:00.55,saint tail default,,0,0,0,,{TIME:118806,120558}Looks like we did it.
+Dialogue: 0,0:02:01.18,0:02:07.10,saint tail default,,0,0,0,,{TIME:121184,127106}Yeah. The old lady didn't want anyone\Nto know about this mirror,
+Dialogue: 0,0:02:07.10,0:02:10.86,saint tail default,,0,0,0,,{TIME:127106,130860}and once we put it up in\NThursday's auction, we'll be rich!
+Dialogue: 0,0:02:10.86,0:02:12.73,saint tail default,,0,0,0,,{TIME:130860,132737}I hope we get a good price.
+Dialogue: 0,0:02:12.73,0:02:13.90,saint tail default,,0,0,0,,{TIME:132737,133905}We will.
+Dialogue: 0,0:02:13.90,0:02:14.78,saint tail default,,0,0,0,,{TIME:133905,134781}{\i1}What's this?
+Dialogue: 0,0:02:16.86,0:02:18.49,saint tail default,,0,0,0,,{TIME:136866,138493}You got the appraisal?
+Dialogue: 0,0:02:18.49,0:02:21.28,saint tail default,,0,0,0,,{TIME:138493,141287}Right here.\NHurry up and drive.
+Dialogue: 0,0:02:21.28,0:02:21.87,saint tail default,,0,0,0,,{TIME:141287,141871}Okay.
+Dialogue: 0,0:02:22.49,0:02:23.45,saint tail default,,0,0,0,,{TIME:142497,143456}{\i1}Thieves?!
+Dialogue: 0,0:02:34.50,0:02:35.63,saint tail default,,0,0,0,,{TIME:154509,155635}This is my scoop!
+Dialogue: 0,0:02:37.17,0:02:40.43,saint tail default,[title],0,0,0,,{TIME:157178,160431}Mystical Princess Rosa's Mirror.
+Dialogue: 0,0:02:51.60,0:02:55.02,saint tail default,,0,0,0,,{TIME:171609,175029}My, it's such a finely crafted mirror!
+Dialogue: 0,0:02:56.40,0:03:02.99,saint tail default,,0,0,0,,{TIME:176406,182995}It was made in the 17th century\Nfor Princess Rosa of Reyche.
+Dialogue: 0,0:03:02.99,0:03:05.91,saint tail default,,0,0,0,,{TIME:182995,185915}No wonder…\Nit's such a magnificent mirror.
+Dialogue: 0,0:03:05.91,0:03:07.66,saint tail default,,0,0,0,,{TIME:185915,187667}The truth is, last night
+Dialogue: 0,0:03:07.66,0:03:11.00,saint tail default,,0,0,0,,{TIME:187667,191003}the mirror was stolen\Nalong with its appraisal form.
+Dialogue: 0,0:03:13.29,0:03:16.46,saint tail default,,0,0,0,,{TIME:193297,196467}There is a lovely legend regarding\Nthe princess who owned this mirror.
+Dialogue: 0,0:03:17.71,0:03:22.93,saint tail default,,0,0,0,,{TIME:197719,202932}Antique collectors around the\Nworld are anxious to possess it.
+Dialogue: 0,0:03:22.93,0:03:27.52,saint tail default,,0,0,0,,{TIME:202932,207520}If the word of its theft gets out,
+Dialogue: 0,0:03:27.52,0:03:33.15,saint tail default,,0,0,0,,{TIME:207520,213151}I fear the collectors will do\Nanything to get their hands on it.
+Dialogue: 0,0:03:33.90,0:03:39.15,saint tail default,,0,0,0,,{TIME:213901,219157}I merely want to live out my\Nlife in peace with my mirror.
+Dialogue: 0,0:03:39.86,0:03:42.66,saint tail default,,0,0,0,,{TIME:219866,222660}Then we can't notify\Nthe police either, can we…
+Dialogue: 0,0:03:42.66,0:03:48.87,saint tail default,,0,0,0,,{TIME:222660,228875}No, all I can do is pray that it's\Nreturned to me without a scratch.
+Dialogue: 0,0:03:50.00,0:03:51.46,saint tail default,,0,0,0,,{TIME:230001,231461}I understand.
 Dialogue: 0,0:03:51.46,0:03:55.13,saint tail default,,0,0,0,,{TIME:231461,235131}Let us pray. I'm sure our\Nprayers will be answered.
-Dialogue: 0,0:04:01.80,0:04:04.14,saint tail default,,0,0,0,,{TIME:241804,244140}And does she have any suspects?
+Dialogue: 0,0:04:01.84,0:04:04.30,saint tail default,,0,0,0,,{TIME:241846,244307}And does she have any suspects?
 Dialogue: 0,0:04:04.30,0:04:08.81,saint tail default,,0,0,0,,{TIME:244307,248811}Yes, the mirror could have only been\Nstolen by people in Mrs. Hazama's home.
-Dialogue: 0,0:04:10.52,0:04:15.65,saint tail default,,0,0,0,,{TIME:250521,255651}She knows those two wanted it\Nand has no doubt they stole it.
-Dialogue: 0,0:04:16.48,0:04:19.86,saint tail default,,0,0,0,,{TIME:256486,259864}She says they visited her the\Nother evening and after they left…
-Dialogue: 0,0:04:19.90,0:04:22.65,saint tail default,,0,0,0,,{TIME:259906,262658}she noticed the mirror was gone.
-Dialogue: 0,0:04:23.24,0:04:25.87,saint tail default,,0,0,0,,{TIME:263242,265870}It was there when they arrived.
-Dialogue: 0,0:04:26.87,0:04:30.62,saint tail default,,0,0,0,,{TIME:266871,270625}You'll need to find out where they've\Nhidden it before you can get it back.
-Dialogue: 0,0:04:31.25,0:04:32.87,saint tail default,,0,0,0,,{TIME:271250,272877}I know what I have to do Seira.
-Dialogue: 0,0:04:33.75,0:04:36.29,saint tail default,,0,0,0,,{TIME:273753,276297}Leave it to St. Tail.
-Dialogue: 0,0:04:38.34,0:04:41.01,saint tail default,,0,0,0,,{TIME:278341,281010}It's done!\NIt's all done!!
-Dialogue: 0,0:04:42.55,0:04:45.59,saint tail default,,0,0,0,,{TIME:282553,285598}Good morning, Miss Haneoka!\NBeautiful morning, isn't it?!
-Dialogue: 0,0:04:46.14,0:04:48.60,saint tail default,,0,0,0,,{TIME:286140,288601}Oh, good morning, Sawatari.
-Dialogue: 0,0:04:49.43,0:04:52.14,saint tail default,,0,0,0,,{TIME:289435,292146}Oh, it's the latest school newspaper.
-Dialogue: 0,0:04:52.68,0:04:55.77,saint tail default,,0,0,0,,{TIME:292688,295775}Look, the feature story is my scoop!
-Dialogue: 0,0:04:57.06,0:05:03.53,saint tail default,,0,0,0,,{TIME:297068,303533}Mirror stolen from estate…\NSt. Tail is the thief?!
-Dialogue: 0,0:05:04.49,0:05:05.99,saint tail default,,0,0,0,,{TIME:304492,305993}What's the matter, Haneoka?
-Dialogue: 0,0:05:06.28,0:05:07.32,saint tail default,,0,0,0,,{TIME:306285,307328}Great, isn't it?
-Dialogue: 0,0:05:07.37,0:05:10.49,saint tail default,,0,0,0,,{TIME:307370,310498}That's how I'll\Nstrike a blow against St. Tail!
-Dialogue: 0,0:05:13.20,0:05:17.92,saint tail default,,0,0,0,,{TIME:313209,317922}I've got more secret\Ninformation on this case, too!
-Dialogue: 0,0:05:21.30,0:05:24.22,saint tail default,,0,0,0,,{TIME:321300,324220}Hey, what's going on?!
-Dialogue: 0,0:05:24.80,0:05:27.93,saint tail default,,0,0,0,,{TIME:324804,327932}What are you doing! Let me go!
-Dialogue: 0,0:05:27.97,0:05:29.89,saint tail default,,0,0,0,,{TIME:327974,329892}Hey, monkey boy!
-Dialogue: 0,0:05:30.01,0:05:31.47,saint tail default,,0,0,0,,{TIME:330017,331477}Who are you calling a monkey?!
-Dialogue: 0,0:05:32.01,0:05:34.77,saint tail default,,0,0,0,,{TIME:332019,334772}St. Tail would never do\Nanything like this and you know it!
-Dialogue: 0,0:05:37.81,0:05:40.48,saint tail default,,0,0,0,,{TIME:337817,340486}You don't have any proof,\Nso don't print lies!
-Dialogue: 0,0:05:43.07,0:05:46.15,saint tail default,,0,0,0,,{TIME:343072,346158}At any rate,\Nyou'd better rewrite your story.
+Dialogue: 0,0:04:10.64,0:04:16.02,saint tail default,,0,0,0,,{TIME:250646,256027}She knows those two wanted it\Nand has no doubt they stole it.
+Dialogue: 0,0:04:16.52,0:04:19.53,saint tail default,,0,0,0,,{TIME:256527,259530}She says they visited her\Nthe other evening
+Dialogue: 0,0:04:19.53,0:04:22.65,saint tail default,,0,0,0,,{TIME:259530,262658}and after they left she noticed\Nthe mirror was gone.
+Dialogue: 0,0:04:23.32,0:04:25.99,saint tail default,,0,0,0,,{TIME:263326,265995}It was there when they arrived.
+Dialogue: 0,0:04:27.16,0:04:31.33,saint tail default,,0,0,0,,{TIME:267163,271334}You'll need to find out where they've\Nhidden it before you can get it back.
+Dialogue: 0,0:04:31.33,0:04:33.00,saint tail default,,0,0,0,,{TIME:271334,273002}I know what I have to do Seira.
+Dialogue: 0,0:04:33.87,0:04:36.21,saint tail default,,0,0,0,,{TIME:273878,276214}Leave it to St. Tail.
+Dialogue: 0,0:04:38.42,0:04:41.21,saint tail default,,0,0,0,,{TIME:278424,281219}It's done!\NIt's all done!
+Dialogue: 0,0:04:42.63,0:04:45.43,saint tail default,,0,0,0,,{TIME:282637,285431}Good morning, Miss Haneoka!\NBeautiful morning, isn't it?!
+Dialogue: 0,0:04:46.14,0:04:48.39,saint tail default,,0,0,0,,{TIME:286140,288392}Oh, good morning, Sawatari.
+Dialogue: 0,0:04:49.35,0:04:52.81,saint tail default,,0,0,0,,{TIME:289352,292814}Oh, it's the latest school newspaper.
+Dialogue: 0,0:04:52.81,0:04:55.85,saint tail default,,0,0,0,,{TIME:292814,295858}Look, the feature story is my scoop!
+Dialogue: 0,0:04:57.06,0:05:00.11,saint tail default,,0,0,0,,{TIME:297068,300112}{\i1}"Mirror stolen from estate…"
+Dialogue: 0,0:05:01.69,0:05:04.03,saint tail default,,0,0,0,,{TIME:301697,304033}{\i1}"St. Tail is the thief"?!
+Dialogue: 0,0:05:04.70,0:05:05.61,saint tail default,,0,0,0,,{TIME:304700,305618}What's the matter, Haneoka?
+Dialogue: 0,0:05:06.28,0:05:07.66,saint tail default,,0,0,0,,{TIME:306285,307662}Great, isn't it?
+Dialogue: 0,0:05:07.66,0:05:10.91,saint tail default,,0,0,0,,{TIME:307662,310915}That's how I'll strike\Na blow against St. Tail!
+Dialogue: 0,0:05:13.20,0:05:17.71,saint tail default,,0,0,0,,{TIME:313209,317713}I've got more secret\Ninformation on this case, too!
+Dialogue: 0,0:05:21.17,0:05:23.92,saint tail default,,0,0,0,,{TIME:321175,323928}Hey, what's going on?!
+Dialogue: 0,0:05:25.09,0:05:27.89,saint tail default,,0,0,0,,{TIME:325096,327890}What are you doing! Let me go!
+Dialogue: 0,0:05:28.34,0:05:29.97,saint tail default,,0,0,0,,{TIME:328349,329976}Hey, monkey boy!
+Dialogue: 0,0:05:29.97,0:05:31.35,saint tail default,,0,0,0,,{TIME:329976,331352}Who are you calling a monkey?!
+Dialogue: 0,0:05:32.01,0:05:34.81,saint tail default,,0,0,0,,{TIME:332019,334814}St. Tail would never do\Nanything like this and you know it!
+Dialogue: 0,0:05:37.90,0:05:40.48,saint tail default,,0,0,0,,{TIME:337900,340486}You don't have any proof,\Nso don't print lies!
+Dialogue: 0,0:05:43.15,0:05:46.49,saint tail default,,0,0,0,,{TIME:343155,346492}At any rate,\Nyou'd better rewrite your story.
 Dialogue: 0,0:05:46.49,0:05:48.49,saint tail default,,0,0,0,,{TIME:346492,348494}Th… they're right!
-Dialogue: 0,0:05:48.53,0:05:50.32,saint tail default,,0,0,0,,{TIME:348536,350329}You wrote it without any proof…
-Dialogue: 0,0:05:50.37,0:05:53.54,saint tail default,,0,0,0,,{TIME:350371,353541}so you're the one who's going to\Nlook real bad in the end you know!
-Dialogue: 0,0:05:54.62,0:05:56.46,saint tail default,,0,0,0,,{TIME:354625,356460}Why is she so upset?
-Dialogue: 0,0:05:58.00,0:06:00.33,saint tail default,,0,0,0,,{TIME:358004,360339}Let me tell you something…
-Dialogue: 0,0:06:00.84,0:06:04.01,saint tail default,,0,0,0,,{TIME:360840,364010}we reporters stake\Nour lives on our stories.
-Dialogue: 0,0:06:04.71,0:06:09.39,saint tail default,,0,0,0,,{TIME:364719,369390}The universe could explode,\Nbut we'd never rewrite our story!
-Dialogue: 0,0:06:10.09,0:06:12.97,saint tail default,,0,0,0,,{TIME:370099,372977}He's hopeless.\NI guess I have no other choice…
-Dialogue: 0,0:06:15.56,0:06:16.77,saint tail default,,0,0,0,,{TIME:375563,376772}What the…?
-Dialogue: 0,0:06:18.98,0:06:22.65,saint tail default,,0,0,0,,{TIME:378983,382653}"My target is Princess Rosa's mirror…?"
-Dialogue: 0,0:06:23.40,0:06:24.23,saint tail default,,0,0,0,,{TIME:383404,384238}What the…?
-Dialogue: 0,0:06:25.28,0:06:26.49,saint tail default,,0,0,0,,{TIME:385281,386490}A… a scoop!
-Dialogue: 0,0:06:26.65,0:06:27.78,saint tail default,,0,0,0,,{TIME:386657,387783}Hey, give it back!
-Dialogue: 0,0:06:28.24,0:06:29.16,saint tail default,,0,0,0,,{TIME:388242,389160}No way!
-Dialogue: 0,0:06:29.41,0:06:32.99,saint tail default,,0,0,0,,{TIME:389410,392997}A note from St. Tail is a great scoop!
-Dialogue: 0,0:06:33.12,0:06:35.08,saint tail default,,0,0,0,,{TIME:393122,395082}I've got to go rewrite my story!
-Dialogue: 0,0:06:35.58,0:06:39.25,saint tail default,,0,0,0,,{TIME:395583,399253}Excuse me ladies! Adieu! Adios!
-Dialogue: 0,0:06:42.17,0:06:46.05,saint tail default,,0,0,0,,{TIME:402173,406052}What was all that\Nabout never rewriting a story?
-Dialogue: 0,0:06:46.26,0:06:47.59,saint tail default,,0,0,0,,{TIME:406260,407595}But it worked out well.
-Dialogue: 0,0:06:48.13,0:06:52.89,saint tail default,,0,0,0,,{TIME:408137,412892}Now he won't write about\Nthe mirror belonging to Mrs. Hazama.
-Dialogue: 0,0:06:53.26,0:06:55.77,saint tail default,,0,0,0,,{TIME:413267,415770}I think he knows more about the mirror.
-Dialogue: 0,0:06:56.56,0:06:58.23,saint tail default,,0,0,0,,{TIME:416562,418230}I've got to find out.
-Dialogue: 0,0:07:00.69,0:07:01.81,saint tail default,,0,0,0,,{TIME:420691,421817}Journalism Club
-Dialogue: 0,0:07:05.52,0:07:10.40,saint tail default,,0,0,0,,{TIME:425529,430409}Where'd Sawatari go off to anyway?\NHe's not here or in the classroom…
-Dialogue: 0,0:07:10.74,0:07:13.91,saint tail default,,0,0,0,,{TIME:430743,433913}I've always been interested in journalism,\Neven when I was younger.
-Dialogue: 0,0:07:14.33,0:07:16.24,saint tail default,,0,0,0,,{TIME:434330,436248}Really? You too, Miss Haneoka?
-Dialogue: 0,0:07:16.29,0:07:17.45,saint tail default,,0,0,0,,{TIME:436290,437458}That's right!
-Dialogue: 0,0:07:17.50,0:07:20.12,saint tail default,,0,0,0,,{TIME:437500,440127}Sawatari and Haneoka…?
-Dialogue: 0,0:07:20.79,0:07:25.21,saint tail default,,0,0,0,,{TIME:440795,445216}I didn't know you were\Ninterested in making the school paper.
-Dialogue: 0,0:07:25.71,0:07:28.67,saint tail default,,0,0,0,,{TIME:445716,448678}Your constant enthusiasm\Nmust have rubbed off on me.
-Dialogue: 0,0:07:30.80,0:07:32.72,saint tail default,,0,0,0,,{TIME:450805,452723}Look around for as long as you like.
-Dialogue: 0,0:07:32.89,0:07:34.10,saint tail default,,0,0,0,,{TIME:452890,454100}Girls are always welcome here.
-Dialogue: 0,0:07:34.26,0:07:35.47,saint tail default,,0,0,0,,{TIME:454266,455476}Thank you.
-Dialogue: 0,0:07:37.89,0:07:40.73,saint tail default,,0,0,0,,{TIME:457895,460731}Hey! Why am I hiding for?
-Dialogue: 0,0:07:40.77,0:07:43.23,saint tail default,,0,0,0,,{TIME:460773,463234}Wow, is this your camera?
+Dialogue: 0,0:05:48.49,0:05:50.28,saint tail default,,0,0,0,,{TIME:348494,350288}You wrote it without any proof,
+Dialogue: 0,0:05:50.28,0:05:53.66,saint tail default,,0,0,0,,{TIME:350288,353666}so you're the one who's going to\Nlook real bad in the end, you know!
+Dialogue: 0,0:05:54.87,0:05:56.87,saint tail default,,0,0,0,,{TIME:354876,356878}{\i1}Why is she so upset?
+Dialogue: 0,0:05:58.08,0:06:00.21,saint tail default,,0,0,0,,{TIME:358087,360214}Let me tell you something.
+Dialogue: 0,0:06:00.21,0:06:03.84,saint tail default,,0,0,0,,{TIME:360214,363843}We reporters stake\Nour lives on our stories.
+Dialogue: 0,0:06:04.80,0:06:09.93,saint tail default,,0,0,0,,{TIME:364802,369932}The universe could explode,\Nbut we'd never rewrite our story!
+Dialogue: 0,0:06:10.22,0:06:12.68,saint tail default,,0,0,0,,{TIME:370224,372685}{\i1}He's hopeless.\NI guess I have no other choice…
+Dialogue: 0,0:06:15.43,0:06:16.98,saint tail default,,0,0,0,,{TIME:375438,376981}What the…?
+Dialogue: 0,0:06:19.60,0:06:22.69,saint tail default,,0,0,0,,{TIME:379609,382695}"My target is\NPrincess Rosa's mirror"?
+Dialogue: 0,0:06:23.23,0:06:24.65,saint tail default,,0,0,0,,{TIME:383237,384655}What the…?
+Dialogue: 0,0:06:25.23,0:06:26.53,saint tail default,,0,0,0,,{TIME:385239,386532}A… a scoop!
+Dialogue: 0,0:06:26.53,0:06:28.11,saint tail default,,0,0,0,,{TIME:386532,388117}Hey, give it back!
+Dialogue: 0,0:06:28.11,0:06:29.41,saint tail default,,0,0,0,,{TIME:388117,389410}No way!
+Dialogue: 0,0:06:29.41,0:06:33.16,saint tail default,,0,0,0,,{TIME:389410,393164}A note from St. Tail is a great scoop!
+Dialogue: 0,0:06:33.16,0:06:35.58,saint tail default,,0,0,0,,{TIME:393164,395583}I've got to go rewrite my story!
+Dialogue: 0,0:06:35.58,0:06:39.21,saint tail default,,0,0,0,,{TIME:395583,399211}Excuse me ladies! Adieu! Adios!
+Dialogue: 0,0:06:42.17,0:06:46.38,saint tail default,,0,0,0,,{TIME:402173,406385}What was all that\Nabout never rewriting a story?
+Dialogue: 0,0:06:46.38,0:06:48.13,saint tail default,,0,0,0,,{TIME:406385,408137}{\i1}But it worked out well.
+Dialogue: 0,0:06:48.13,0:06:53.26,saint tail default,,0,0,0,,{TIME:408137,413267}{\i1}Now he won't write about\Nthe mirror belonging to Mrs. Hazama.
+Dialogue: 0,0:06:53.26,0:06:55.89,saint tail default,,0,0,0,,{TIME:413267,415895}I think he knows more\Nabout the mirror.
+Dialogue: 0,0:06:56.64,0:06:58.64,saint tail default,,0,0,0,,{TIME:416646,418648}{\i1}I've got to find out.
+Dialogue: 0,0:07:00.60,0:07:01.85,saint tail sign,(sign),0,0,0,,{TIME:420608,421859}Journalism Club
+Dialogue: 0,0:07:05.52,0:07:10.74,saint tail default,,0,0,0,,{TIME:425529,430743}Where'd Sawatari go off to anyway?\NHe's not here or in the classroom…
+Dialogue: 0,0:07:10.74,0:07:14.20,saint tail default,,0,0,0,,{TIME:430743,434205}I've always been interested in journalism,\Neven when I was younger.
+Dialogue: 0,0:07:14.33,0:07:16.33,saint tail default,,0,0,0,,{TIME:434330,436332}Really? You too, Miss Haneoka?
+Dialogue: 0,0:07:16.33,0:07:17.41,saint tail default,,0,0,0,,{TIME:436332,437416}That's right!
+Dialogue: 0,0:07:17.41,0:07:20.37,saint tail default,,0,0,0,,{TIME:437416,440378}{\i1}Sawatari and Haneoka?
+Dialogue: 0,0:07:20.79,0:07:25.34,saint tail default,,0,0,0,,{TIME:440795,445341}I didn't know you were\Ninterested in making the school paper.
+Dialogue: 0,0:07:25.71,0:07:28.59,saint tail default,,0,0,0,,{TIME:445716,448594}Your constant enthusiasm\Nmust have rubbed off on me.
+Dialogue: 0,0:07:30.88,0:07:32.93,saint tail default,,0,0,0,,{TIME:450888,452932}Look around for as long as you like.
+Dialogue: 0,0:07:32.93,0:07:34.26,saint tail default,,0,0,0,,{TIME:452932,454266}Girls are always welcome here.
+Dialogue: 0,0:07:34.26,0:07:35.72,saint tail default,,0,0,0,,{TIME:454266,455726}Thank you.
+Dialogue: 0,0:07:37.93,0:07:40.77,saint tail default,,0,0,0,,{TIME:457937,460773}{\i1}Wait, why am I hiding for?
+Dialogue: 0,0:07:40.77,0:07:43.90,saint tail default,,0,0,0,,{TIME:460773,463901}Wow, is this your camera?
 Dialogue: 0,0:07:48.78,0:07:50.44,saint tail default,,0,0,0,,{TIME:468781,470449}Did you take this photo\Nwith this camera?
-Dialogue: 0,0:07:50.49,0:07:51.57,saint tail default,,0,0,0,,{TIME:470491,471575}This is great!
+Dialogue: 0,0:07:50.44,0:07:51.65,saint tail default,,0,0,0,,{TIME:470449,471659}This is great!
 Dialogue: 0,0:07:51.65,0:07:53.45,saint tail default,,0,0,0,,{TIME:471659,473452}There's a lot more! Want to see?
-Dialogue: 0,0:07:54.24,0:07:56.49,saint tail default,,0,0,0,,{TIME:474245,476497}Yes! Wow!
-Dialogue: 0,0:07:56.74,0:07:59.87,saint tail default,,0,0,0,,{TIME:476747,479875}You've even taken pictures of stars?\NThey're beautiful.
-Dialogue: 0,0:08:06.00,0:08:08.42,saint tail default,,0,0,0,,{TIME:486007,488426}I feel like I'd be\Nintruding if I go in now.
-Dialogue: 0,0:08:08.59,0:08:10.17,saint tail default,,0,0,0,,{TIME:488592,490177}But what I'm doing is eavesdropping…
-Dialogue: 0,0:08:11.30,0:08:14.30,saint tail default,,0,0,0,,{TIME:491303,494306}I've put on a good act\Npretending to be interested.
-Dialogue: 0,0:08:14.80,0:08:16.60,saint tail default,,0,0,0,,{TIME:494807,496600}Now all I have to\Ndo is get the information.
-Dialogue: 0,0:08:17.64,0:08:20.39,saint tail default,,0,0,0,,{TIME:497643,500396}By the way, about that mirror…
-Dialogue: 0,0:08:23.14,0:08:24.10,saint tail default,,0,0,0,,{TIME:503149,504108}Haneoka!
-Dialogue: 0,0:08:25.73,0:08:26.98,saint tail default,,0,0,0,,{TIME:505735,506986}What's with him?
-Dialogue: 0,0:08:27.06,0:08:28.48,saint tail default,,0,0,0,,{TIME:507069,508487}I'm so happy!
-Dialogue: 0,0:08:29.15,0:08:29.98,saint tail default,,0,0,0,,{TIME:509155,509989}Wait…
-Dialogue: 0,0:08:30.07,0:08:36.12,saint tail default,,0,0,0,,{TIME:510072,516120}Every girl who's come to me was\Nonly interested in my good looks.
-Dialogue: 0,0:08:36.95,0:08:41.08,saint tail default,,0,0,0,,{TIME:516954,521083}You're the first one who\Nshowed an interest in my work!
-Dialogue: 0,0:08:41.37,0:08:43.00,saint tail default,,0,0,0,,{TIME:521375,523002}You don't understand…
-Dialogue: 0,0:08:43.58,0:08:45.04,saint tail default,,0,0,0,,{TIME:523586,525046}What am I gonna do?
-Dialogue: 0,0:08:45.58,0:08:48.00,saint tail default,,0,0,0,,{TIME:525588,528007}Haneoka, if it's alright, would you…
-Dialogue: 0,0:08:52.51,0:08:54.76,saint tail default,,0,0,0,,{TIME:532511,534764}Asuka Jr.! Why is he here?
-Dialogue: 0,0:08:55.30,0:08:57.43,saint tail default,,0,0,0,,{TIME:535306,537433}Monkey boy, I want to talk to you.
-Dialogue: 0,0:08:58.30,0:08:59.06,saint tail default,,0,0,0,,{TIME:538309,539060}That's not my name!
-Dialogue: 0,0:08:59.56,0:09:01.14,saint tail default,,0,0,0,,{TIME:539560,541145}Besides, I have nothing to say to you!
-Dialogue: 0,0:09:01.89,0:09:04.73,saint tail default,,0,0,0,,{TIME:541896,544732}He couldn't be jealous?
+Dialogue: 0,0:07:54.24,0:07:56.78,saint tail default,,0,0,0,,{TIME:474245,476789}Yes! Wow!
+Dialogue: 0,0:07:56.78,0:07:59.58,saint tail default,,0,0,0,,{TIME:476789,479583}You've even taken pictures of stars?\NThey're beautiful.
+Dialogue: 0,0:08:06.04,0:08:08.67,saint tail default,,0,0,0,,{TIME:486048,488676}I feel like I'd be\Nintruding if I go in now.
+Dialogue: 0,0:08:08.67,0:08:10.51,saint tail default,,0,0,0,,{TIME:488676,490511}But what I'm doing\Nis eavesdropping…
+Dialogue: 0,0:08:11.30,0:08:14.72,saint tail default,,0,0,0,,{TIME:491303,494724}{\i1}I've put on a good act\Npretending to be interested.
+Dialogue: 0,0:08:14.72,0:08:16.97,saint tail default,,0,0,0,,{TIME:494724,496976}{\i1}Now all I have to\Ndo is get the information.
+Dialogue: 0,0:08:17.64,0:08:20.43,saint tail default,,0,0,0,,{TIME:497643,500438}By the way, about that mirror…
+Dialogue: 0,0:08:23.19,0:08:24.15,saint tail default,,0,0,0,,{TIME:503190,504150}Haneoka!
+Dialogue: 0,0:08:25.65,0:08:26.98,saint tail default,,0,0,0,,{TIME:505651,506986}{\i1}What's with him?
+Dialogue: 0,0:08:26.98,0:08:28.32,saint tail default,,0,0,0,,{TIME:506986,508320}I'm so happy!
+Dialogue: 0,0:08:29.15,0:08:29.98,saint tail default,,0,0,0,,{TIME:509155,509989}{\i1}Wait…
+Dialogue: 0,0:08:29.98,0:08:35.78,saint tail default,,0,0,0,,{TIME:509989,515786}Every girl who's come to me was\Nonly interested in my good looks.
+Dialogue: 0,0:08:36.95,0:08:41.41,saint tail default,,0,0,0,,{TIME:516954,521417}You're the first one who\Nshowed an interest in my work!
+Dialogue: 0,0:08:41.41,0:08:43.00,saint tail default,,0,0,0,,{TIME:521417,523002}You don't understand…
+Dialogue: 0,0:08:43.96,0:08:45.00,saint tail default,,0,0,0,,{TIME:523961,525004}{\i1}What am I gonna do?
+Dialogue: 0,0:08:45.58,0:08:48.21,saint tail default,,0,0,0,,{TIME:525588,528215}Haneoka, if it's alright, would you…
+Dialogue: 0,0:08:52.51,0:08:54.88,saint tail default,,0,0,0,,{TIME:532511,534889}{\i1}Asuka Jr.! Why is he here?
+Dialogue: 0,0:08:55.38,0:08:57.43,saint tail default,,0,0,0,,{TIME:535389,537433}Monkey boy, I want to talk to you.
+Dialogue: 0,0:08:58.01,0:08:58.85,saint tail default,,0,0,0,,{TIME:538017,538851}That's not my name!
+Dialogue: 0,0:08:59.56,0:09:01.31,saint tail default,,0,0,0,,{TIME:539560,541312}Besides, I have\Nnothing to say to you!
+Dialogue: 0,0:09:01.89,0:09:04.73,saint tail default,,0,0,0,,{TIME:541896,544732}{\i1}He couldn't be jealous?
 Dialogue: 0,0:09:07.23,0:09:11.11,saint tail default,,0,0,0,,{TIME:547234,551113}Sawatari, you know a lot more\Nabout that mirror, don't you?
 Dialogue: 0,0:09:12.40,0:09:14.07,saint tail default,,0,0,0,,{TIME:552406,554075}No, I guess not…
-Dialogue: 0,0:09:15.07,0:09:17.91,saint tail default,,0,0,0,,{TIME:555076,557912}Reporters never reveal their sources.
-Dialogue: 0,0:09:18.41,0:09:22.41,saint tail default,,0,0,0,,{TIME:558412,562416}The world could end,\Nbut we'd never talk.
-Dialogue: 0,0:09:23.58,0:09:27.17,saint tail default,,0,0,0,,{TIME:563584,567171}I'd like to hear more about it, too.\NIt must be a beautiful mirror.
-Dialogue: 0,0:09:27.63,0:09:28.92,saint tail default,,0,0,0,,{TIME:567630,568923}It sure is!
-Dialogue: 0,0:09:29.09,0:09:32.51,saint tail default,,0,0,0,,{TIME:569090,572510}There's a story about a\Nprincess in the mirror's history.
-Dialogue: 0,0:09:32.67,0:09:35.63,saint tail default,,0,0,0,,{TIME:572676,575638}And it sure is interesting.
-Dialogue: 0,0:09:36.26,0:09:40.43,saint tail default,,0,0,0,,{TIME:576263,580434}I thought you said you'd never talk,\Nnot even if the world came to an end.
-Dialogue: 0,0:09:41.56,0:09:44.81,saint tail default,,0,0,0,,{TIME:581560,584814}Alright already.\NYou want to hear it too, don't you?
+Dialogue: 0,0:09:15.07,0:09:18.41,saint tail default,,0,0,0,,{TIME:555076,558412}Reporters never\Nreveal their sources.
+Dialogue: 0,0:09:18.41,0:09:22.54,saint tail default,,0,0,0,,{TIME:558412,562541}The world could end,\Nbut we'd never talk.
+Dialogue: 0,0:09:23.58,0:09:27.25,saint tail default,,0,0,0,,{TIME:563584,567254}I'd like to hear more about it, too.\NIt must be a beautiful mirror.
+Dialogue: 0,0:09:27.63,0:09:29.17,saint tail default,,0,0,0,,{TIME:567630,569173}It sure is!
+Dialogue: 0,0:09:29.17,0:09:32.67,saint tail default,,0,0,0,,{TIME:569173,572676}There's a story about a princess\Nin the mirror's history.
+Dialogue: 0,0:09:32.67,0:09:35.67,saint tail default,,0,0,0,,{TIME:572676,575679}And it sure is interesting.
+Dialogue: 0,0:09:36.22,0:09:40.26,saint tail default,,0,0,0,,{TIME:576222,580267}I thought you said you'd never talk,\Nnot even if the world came to an end.
+Dialogue: 0,0:09:41.56,0:09:44.98,saint tail default,,0,0,0,,{TIME:581560,584980}Alright already.\NYou want to hear it too, don't you?
 Dialogue: 0,0:09:44.98,0:09:45.94,saint tail default,,0,0,0,,{TIME:584980,585940}Party pooper.
-Dialogue: 0,0:09:46.89,0:09:48.06,saint tail default,,0,0,0,,{TIME:586899,588067}The legend behind this mirror…
-Dialogue: 0,0:09:48.15,0:09:51.69,saint tail default,,0,0,0,,{TIME:588150,591695}is a love story about\NPrincess Rosa of Reyche.
-Dialogue: 0,0:09:52.78,0:09:53.90,saint tail default,,0,0,0,,{TIME:592780,593906}A love story?
-Dialogue: 0,0:09:54.11,0:09:57.70,saint tail default,,0,0,0,,{TIME:594115,597701}I did some research and\Nlearned that a long time ago…
-Dialogue: 0,0:09:57.99,0:10:01.74,saint tail default,,0,0,0,,{TIME:597993,601747}Princess Rosa fell in love with a\Nyoung mirror maker from her village.
-Dialogue: 0,0:10:05.33,0:10:07.83,saint tail default,,0,0,0,,{TIME:605334,607837}She was sad because\Nshe knew their love could never be.
-Dialogue: 0,0:10:08.37,0:10:09.33,saint tail default,,0,0,0,,{TIME:608379,609338}Then one day…
-Dialogue: 0,0:10:09.58,0:10:14.34,saint tail default,,0,0,0,,{TIME:609588,614343}she asked him to make a mirror\Nthat would reflect her true self.
+Dialogue: 0,0:09:46.89,0:09:51.82,saint tail default,,0,0,0,,{TIME:586899,591821}The legend behind this mirror is\Na love story about Princess Rosa of Reyche.
+Dialogue: 0,0:09:52.78,0:09:54.11,saint tail default,,0,0,0,,{TIME:592780,594115}A love story?
+Dialogue: 0,0:09:54.11,0:09:57.99,saint tail default,,0,0,0,,{TIME:594115,597993}I did some research and\Nlearned that a long time ago…
+Dialogue: 0,0:09:57.99,0:10:01.74,saint tail default,,0,0,0,,{TIME:597993,601747}Princess Rosa fell in love with\Na young mirror maker from her village.
+Dialogue: 0,0:10:05.33,0:10:08.42,saint tail default,,0,0,0,,{TIME:605334,608420}She was sad because she knew\Ntheir love could never be.
+Dialogue: 0,0:10:08.42,0:10:14.71,saint tail default,,0,0,0,,{TIME:608420,614718}Then one day, she asked him to make a mirror\Nthat would reflect her true self.
 Dialogue: 0,0:10:14.71,0:10:16.34,saint tail default,,0,0,0,,{TIME:614718,616345}Not the figure in royal robes.
-Dialogue: 0,0:10:17.55,0:10:21.18,saint tail default,,0,0,0,,{TIME:617555,621183}And when the mirror was\Nfinished and brought to the castle…
-Dialogue: 0,0:10:21.64,0:10:24.60,saint tail default,,0,0,0,,{TIME:621642,624603}The woman reflected on\Nit was not Princess Rosa…
-Dialogue: 0,0:10:25.14,0:10:28.35,saint tail default,,0,0,0,,{TIME:625146,628357}but a simple young maiden named Rosa,\Nher face filled with love.
-Dialogue: 0,0:10:29.56,0:10:31.65,saint tail default,,0,0,0,,{TIME:629567,631652}The princess forsook her title…
-Dialogue: 0,0:10:31.81,0:10:33.32,saint tail default,,0,0,0,,{TIME:631819,633320}and took only the mirror with her.
-Dialogue: 0,0:10:33.48,0:10:34.86,saint tail default,,0,0,0,,{TIME:633487,634864}She left the castle\Nto marry the mirror maker.
-Dialogue: 0,0:10:35.48,0:10:37.40,saint tail default,,0,0,0,,{TIME:635489,637408}And they lived happily ever after.
-Dialogue: 0,0:10:38.15,0:10:40.03,saint tail default,,0,0,0,,{TIME:638159,640035}It has been said that any\Nwoman possessing that mirror…
-Dialogue: 0,0:10:40.20,0:10:42.53,saint tail default,,0,0,0,,{TIME:640202,642538}will live in happiness.
-Dialogue: 0,0:10:44.87,0:10:46.41,saint tail default,,0,0,0,,{TIME:644874,646417}The real me…
-Dialogue: 0,0:10:48.83,0:10:53.09,saint tail default,,0,0,0,,{TIME:648836,653090}A mirror that will reflect\Nthe me that isn't St. Tail…
-Dialogue: 0,0:10:54.55,0:10:57.59,saint tail default,,0,0,0,,{TIME:654550,657595}I guess that's why antique\Ncollectors around the world…
-Dialogue: 0,0:10:58.30,0:11:02.43,saint tail default,,0,0,0,,{TIME:658304,662433}especially women,\Nall want that mirror.
-Dialogue: 0,0:11:02.97,0:11:06.35,saint tail default,,0,0,0,,{TIME:662975,666353}They can't even estimate\Nhow much it will sell for.
-Dialogue: 0,0:11:08.02,0:11:10.52,saint tail default,,0,0,0,,{TIME:668022,670524}And why would\NSt. Tail want that mirror?
-Dialogue: 0,0:11:12.40,0:11:14.82,saint tail default,,0,0,0,,{TIME:672401,674820}As I suspected.\NIt's always about St. Tail.
-Dialogue: 0,0:11:16.07,0:11:17.48,saint tail default,,0,0,0,,{TIME:676071,677489}That I don't know.
-Dialogue: 0,0:11:18.24,0:11:19.99,saint tail default,,0,0,0,,{TIME:678240,679992}And this is top secret…
-Dialogue: 0,0:11:20.32,0:11:24.91,saint tail default,,0,0,0,,{TIME:680326,684914}the mirror is being put\Non the block at the city's auction.
-Dialogue: 0,0:11:25.62,0:11:26.79,saint tail default,,0,0,0,,{TIME:685623,686790}What did you say?!
-Dialogue: 0,0:11:30.87,0:11:34.34,saint tail default,,0,0,0,,{TIME:690878,694340}Lord, forgive me,\Nfor I use no gimmick or trick.
-Dialogue: 0,0:11:39.42,0:11:40.42,saint tail default,,0,0,0,,{TIME:699428,700429}One!
-Dialogue: 0,0:11:42.64,0:11:43.72,saint tail default,,0,0,0,,{TIME:702640,703724}Two!
-Dialogue: 0,0:11:45.76,0:11:48.02,saint tail default,,0,0,0,,{TIME:705768,708020}Three!
-Dialogue: 0,0:12:04.70,0:12:06.62,saint tail default,,0,0,0,,{TIME:724703,726622}I'm leaving now Ruby.
-Dialogue: 0,0:12:08.16,0:12:10.79,saint tail default,,0,0,0,,{TIME:728165,730793}Seira, I want to ask you something.
-Dialogue: 0,0:12:11.21,0:12:14.58,saint tail default,,0,0,0,,{TIME:731210,734588}Can you put a\Nstolen item up for auction?
-Dialogue: 0,0:12:15.75,0:12:17.71,saint tail default,,0,0,0,,{TIME:735756,737716}Usually, no.
-Dialogue: 0,0:12:18.13,0:12:22.01,saint tail default,,0,0,0,,{TIME:738133,742012}But the thieves also\Ntook the appraisal slip with them.
-Dialogue: 0,0:12:23.34,0:12:25.01,saint tail default,,0,0,0,,{TIME:743347,745015}So it's possible…
-Dialogue: 0,0:12:28.51,0:12:30.14,saint tail default,,0,0,0,,{TIME:748519,750145}Take care of Ruby please.
-Dialogue: 0,0:12:30.43,0:12:31.39,saint tail default,,0,0,0,,{TIME:750437,751397}I will.
-Dialogue: 0,0:12:33.06,0:12:36.65,saint tail default,,0,0,0,,{TIME:753065,756652}May God bless and protect us.
+Dialogue: 0,0:10:17.55,0:10:21.72,saint tail default,,0,0,0,,{TIME:617555,621725}And when the mirror was\Nfinished and brought to the castle…
+Dialogue: 0,0:10:21.72,0:10:25.18,saint tail default,,0,0,0,,{TIME:621725,625187}The woman reflected on it\Nwas not Princess Rosa,
+Dialogue: 0,0:10:25.18,0:10:28.73,saint tail default,,0,0,0,,{TIME:625187,628732}but a simple young maiden named Rosa,\Nher face filled with love.
+Dialogue: 0,0:10:29.69,0:10:33.48,saint tail default,,0,0,0,,{TIME:629692,633487}The princess forsook her title\Nand took only the mirror with her.
+Dialogue: 0,0:10:33.48,0:10:38.15,saint tail default,,0,0,0,,{TIME:633487,638159}She left the castle to marry the mirror maker\Nand they lived happily ever after.
+Dialogue: 0,0:10:38.15,0:10:43.16,saint tail default,,0,0,0,,{TIME:638159,643164}It has been said that any woman possessing\Nthat mirror will live in happiness.
+Dialogue: 0,0:10:44.91,0:10:46.95,saint tail default,,0,0,0,,{TIME:644915,646959}{\i1}The real me…
+Dialogue: 0,0:10:48.79,0:10:53.59,saint tail default,,0,0,0,,{TIME:648794,653591}{\i1}A mirror that will reflect\Nthe me that isn't St. Tail…
+Dialogue: 0,0:10:54.55,0:10:58.26,saint tail default,,0,0,0,,{TIME:654550,658262}I guess that's why antique\Ncollectors around the world,
+Dialogue: 0,0:10:58.26,0:11:03.01,saint tail default,,0,0,0,,{TIME:658262,663017}especially women,\Nall want that mirror.
+Dialogue: 0,0:11:03.01,0:11:06.56,saint tail default,,0,0,0,,{TIME:663017,666562}They can't even estimate\Nhow much it will sell for.
+Dialogue: 0,0:11:08.10,0:11:11.27,saint tail default,,0,0,0,,{TIME:668105,671275}And why would\NSt. Tail want that mirror?
+Dialogue: 0,0:11:12.44,0:11:15.36,saint tail default,,0,0,0,,{TIME:672443,675362}{\i1}As I suspected.\NIt's always about St. Tail.
+Dialogue: 0,0:11:16.03,0:11:17.57,saint tail default,,0,0,0,,{TIME:676030,677573}That I don't know.
+Dialogue: 0,0:11:18.24,0:11:20.32,saint tail default,,0,0,0,,{TIME:678240,680326}And this is top secret,
+Dialogue: 0,0:11:20.32,0:11:24.83,saint tail default,,0,0,0,,{TIME:680326,684830}the mirror is being put\Non the block at the city's auction.
+Dialogue: 0,0:11:25.58,0:11:26.79,saint tail default,,0,0,0,,{TIME:685581,686790}What did you say?!
+Dialogue: 0,0:11:31.00,0:11:34.54,saint tail default,,0,0,0,,{TIME:691003,694548}Lord, forgive me,\Nfor I use no gimmick or trick.
+Dialogue: 0,0:11:39.42,0:11:40.55,saint tail default,,0,0,0,,{TIME:699428,700554}One!
+Dialogue: 0,0:11:42.80,0:11:44.22,saint tail default,,0,0,0,,{TIME:702806,704225}Two!
+Dialogue: 0,0:11:45.97,0:11:47.89,saint tail default,,0,0,0,,{TIME:705976,707895}Three!
+Dialogue: 0,0:12:04.91,0:12:06.74,saint tail default,,0,0,0,,{TIME:724912,726747}I'm leaving now Ruby.
+Dialogue: 0,0:12:08.24,0:12:11.29,saint tail default,,0,0,0,,{TIME:728249,731293}Seira, I want to ask you something.
+Dialogue: 0,0:12:11.29,0:12:14.63,saint tail default,,0,0,0,,{TIME:731293,734630}Can you put a\Nstolen item up for auction?
+Dialogue: 0,0:12:15.75,0:12:18.17,saint tail default,,0,0,0,,{TIME:735756,738175}Usually, no.
+Dialogue: 0,0:12:18.17,0:12:22.09,saint tail default,,0,0,0,,{TIME:738175,742096}But the thieves also\Ntook the appraisal slip with them.
+Dialogue: 0,0:12:23.43,0:12:24.47,saint tail default,,0,0,0,,{TIME:743430,744473}So it's possible…
+Dialogue: 0,0:12:28.68,0:12:30.52,saint tail default,,0,0,0,,{TIME:748686,750521}Take care of Ruby please.
+Dialogue: 0,0:12:30.52,0:12:31.39,saint tail default,,0,0,0,,{TIME:750521,751397}I will.
+Dialogue: 0,0:12:33.06,0:12:36.77,saint tail default,,0,0,0,,{TIME:753065,756777}May God bless and protect us.
 Comment: 0,0:12:36.77,0:12:36.77,[chapter],[chapter],0,0,0,,{TIME:756777,756777}Eyecatch A
 Comment: 0,0:12:42.78,0:12:42.78,[chapter],[chapter],0,0,0,,{TIME:762783,762783}Eyecatch B
 Comment: 0,0:12:47.78,0:12:47.78,[chapter],[chapter],0,0,0,,{TIME:767788,767788}Part B
-Dialogue: 0,0:13:07.01,0:13:09.39,saint tail default,,0,0,0,,{TIME:787016,789393}This magnificent Evans violin…
-Dialogue: 0,0:13:09.43,0:13:14.23,saint tail default,,0,0,0,,{TIME:789435,794231}has been sold for\N20 million dollars to this gentleman.
-Dialogue: 0,0:13:26.57,0:13:28.45,saint tail default,,0,0,0,,{TIME:806577,808454}Hey you, don't get in the way.
-Dialogue: 0,0:13:28.66,0:13:31.66,saint tail default,,0,0,0,,{TIME:808662,811665}Tonight's the\Nnight I capture St. Tail.
-Dialogue: 0,0:13:33.25,0:13:35.41,saint tail default,,0,0,0,,{TIME:813250,815419}I gave you important information.
-Dialogue: 0,0:13:35.91,0:13:40.00,saint tail default,,0,0,0,,{TIME:815919,820007}The least you can do is\Nlet me photograph the auction.
-Dialogue: 0,0:13:47.26,0:13:48.18,saint tail default,,0,0,0,,{TIME:827264,828182}The next item…
-Dialogue: 0,0:13:48.22,0:13:51.47,saint tail default,,0,0,0,,{TIME:828223,831477}is something we collectors have\Nbeen searching for for a long time.
-Dialogue: 0,0:13:52.18,0:13:53.64,saint tail default,,0,0,0,,{TIME:832186,833645}And now we have it!
-Dialogue: 0,0:13:54.48,0:13:57.06,saint tail default,,0,0,0,,{TIME:834480,837066}The famous Princess Rosa's Mirror!
-Dialogue: 0,0:14:08.53,0:14:09.66,saint tail default,,0,0,0,,{TIME:848535,849661}Amazing!
-Dialogue: 0,0:14:09.87,0:14:12.58,saint tail default,,0,0,0,,{TIME:849870,852581}So that's the famous\NPrincess Rosa's mirror!
-Dialogue: 0,0:14:12.83,0:14:13.99,saint tail default,,0,0,0,,{TIME:852831,853999}It's fabulous!
-Dialogue: 0,0:14:20.29,0:14:21.54,saint tail default,,0,0,0,,{TIME:860297,861548}What's happening?
-Dialogue: 0,0:14:22.13,0:14:24.05,saint tail default,,0,0,0,,{TIME:862132,864051}What happened to the lights?
-Dialogue: 0,0:14:24.09,0:14:25.67,saint tail default,,0,0,0,,{TIME:864093,865677}What's going on here?
-Dialogue: 0,0:14:29.84,0:14:31.35,saint tail default,,0,0,0,,{TIME:869848,871350}Wha…? A flower?
-Dialogue: 0,0:14:33.18,0:14:36.64,saint tail default,,0,0,0,,{TIME:873185,876647}This flower is called…\NThe Princess Rosa!
-Dialogue: 0,0:14:36.68,0:14:38.52,saint tail default,,0,0,0,,{TIME:876688,878524}It's Reyche's national flower!
-Dialogue: 0,0:14:38.64,0:14:40.06,saint tail default,,0,0,0,,{TIME:878649,880067}They're lovely…
-Dialogue: 0,0:14:40.10,0:14:43.15,saint tail default,,0,0,0,,{TIME:880109,883153}Oh, I get it!\NIt's part of the presentation!
-Dialogue: 0,0:14:43.19,0:14:44.69,saint tail default,,0,0,0,,{TIME:883195,884696}This is great.
-Dialogue: 0,0:14:47.49,0:14:48.74,saint tail default,,0,0,0,,{TIME:887491,888742}The ceiling!
-Dialogue: 0,0:14:51.91,0:14:56.45,saint tail default,,0,0,0,,{TIME:891912,896458}Wait! That mirror was stolen!
-Dialogue: 0,0:14:56.91,0:14:58.54,saint tail default,,0,0,0,,{TIME:896917,898544}Who said that?
-Dialogue: 0,0:14:59.46,0:15:01.42,saint tail default,,0,0,0,,{TIME:899461,901422}It couldn't be the Princess' ghost…
-Dialogue: 0,0:15:02.58,0:15:05.38,saint tail default,,0,0,0,,{TIME:902589,905384}Please, everyone,\Nplease remain calm.
-Dialogue: 0,0:15:05.42,0:15:08.92,saint tail default,,0,0,0,,{TIME:905426,908929}Good evening.\NPlease forgive my intrusion.
-Dialogue: 0,0:15:09.68,0:15:11.97,saint tail default,,0,0,0,,{TIME:909680,911974}Where?\NWhere's that voice coming from?
-Dialogue: 0,0:15:14.43,0:15:15.85,saint tail default,,0,0,0,,{TIME:914435,915853}If I'd been on the stage…
-Dialogue: 0,0:15:15.89,0:15:18.64,saint tail default,,0,0,0,,{TIME:915894,918647}she'd have been in my\Nblind spot and gotten away.
-Dialogue: 0,0:15:19.23,0:15:21.19,saint tail default,,0,0,0,,{TIME:919231,921191}I was right about staying right here.
-Dialogue: 0,0:15:21.69,0:15:25.77,saint tail default,,0,0,0,,{TIME:921692,925779}Those two men stole that mirror.
-Dialogue: 0,0:15:26.23,0:15:29.40,saint tail default,,0,0,0,,{TIME:926238,929408}Stolen property… so you didn't…
+Dialogue: 0,0:13:07.34,0:13:10.51,saint tail default,,0,0,0,,{TIME:787349,790519}{\i1}This magnificent Evans violin
+Dialogue: 0,0:13:10.51,0:13:15.23,saint tail default,,0,0,0,,{TIME:790519,795232}{\i1}has been sold for 20 million dollars\Nto this gentleman.
+Dialogue: 0,0:13:26.70,0:13:28.82,saint tail default,,0,0,0,,{TIME:806702,808829}Hey you, don't get in the way.
+Dialogue: 0,0:13:28.82,0:13:31.99,saint tail default,,0,0,0,,{TIME:808829,811999}Tonight's the night\NI capture St. Tail.
+Dialogue: 0,0:13:33.25,0:13:36.17,saint tail default,,0,0,0,,{TIME:813250,816170}I gave you important information.
+Dialogue: 0,0:13:36.17,0:13:40.21,saint tail default,,0,0,0,,{TIME:816170,820215}The least you can do is let me\Nphotograph the auction.
+Dialogue: 0,0:13:47.30,0:13:52.47,saint tail default,,0,0,0,,{TIME:827306,832478}{\i1}The next item is something the collectors have\Nbeen searching for a long time.
+Dialogue: 0,0:13:52.47,0:13:53.60,saint tail default,,0,0,0,,{TIME:832478,833604}{\i1}And now we have it!
+Dialogue: 0,0:13:54.64,0:13:57.56,saint tail default,,0,0,0,,{TIME:834646,837566}{\i1}The famous Princess Rosa's Mirror!
+Dialogue: 0,0:14:08.74,0:14:10.12,saint tail default,,0,0,0,,{TIME:848744,850120}Amazing!
+Dialogue: 0,0:14:10.12,0:14:12.83,saint tail default,,0,0,0,,{TIME:850120,852831}So that's the famous\NPrincess Rosa's mirror!
+Dialogue: 0,0:14:12.83,0:14:14.50,saint tail default,,0,0,0,,{TIME:852831,854500}It's fabulous!
+Dialogue: 0,0:14:20.54,0:14:21.34,saint tail default,,0,0,0,,{TIME:860547,861340}What's happening?
+Dialogue: 0,0:14:22.50,0:14:24.13,saint tail default,,0,0,0,,{TIME:862508,864134}What happened to the lights?
+Dialogue: 0,0:14:24.13,0:14:25.67,saint tail default,,0,0,0,,{TIME:864134,865677}What's going on here?
+Dialogue: 0,0:14:30.30,0:14:31.47,saint tail default,,0,0,0,,{TIME:870307,871475}Wha…? A flower?
+Dialogue: 0,0:14:33.18,0:14:36.89,saint tail default,,0,0,0,,{TIME:873185,876897}This flower is called…\NThe Princess Rosa!
+Dialogue: 0,0:14:36.89,0:14:38.77,saint tail default,,0,0,0,,{TIME:876897,878774}It's Reyche's national flower!
+Dialogue: 0,0:14:38.77,0:14:40.15,saint tail default,,0,0,0,,{TIME:878774,880150}They're lovely…
+Dialogue: 0,0:14:40.15,0:14:43.36,saint tail default,,0,0,0,,{TIME:880150,883362}Oh, I get it!\NIt's part of the presentation!
+Dialogue: 0,0:14:43.36,0:14:45.11,saint tail default,,0,0,0,,{TIME:883362,885114}This is great.
+Dialogue: 0,0:14:47.74,0:14:49.07,saint tail default,,0,0,0,,{TIME:887741,889076}The ceiling!
+Dialogue: 0,0:14:52.37,0:14:54.54,saint tail default,,0,0,0,,{TIME:892371,894540}Wait!
+Dialogue: 0,0:14:54.54,0:14:57.04,saint tail default,,0,0,0,,{TIME:894540,897042}That mirror was stolen!
+Dialogue: 0,0:14:57.04,0:14:58.62,saint tail default,,0,0,0,,{TIME:897042,898627}Who said that?
+Dialogue: 0,0:14:59.46,0:15:02.21,saint tail default,,0,0,0,,{TIME:899461,902214}It couldn't be the Princess' ghost…
+Dialogue: 0,0:15:02.84,0:15:05.17,saint tail default,,0,0,0,,{TIME:902840,905175}{\i1}Please, everyone,\Nplease remain calm.
+Dialogue: 0,0:15:05.67,0:15:08.92,saint tail default,,0,0,0,,{TIME:905676,908929}{\i1}Good evening!\NPlease forgive my intrusion.
+Dialogue: 0,0:15:09.93,0:15:12.14,saint tail default,,0,0,0,,{TIME:909930,912141}Where?\NWhere's that voice coming from?
+Dialogue: 0,0:15:14.60,0:15:19.48,saint tail default,,0,0,0,,{TIME:914601,919481}{\i1}If I'd been on the stage she'd have\Nbeen in my blind spot and gotten away.
+Dialogue: 0,0:15:19.48,0:15:21.56,saint tail default,,0,0,0,,{TIME:919481,921567}{\i1}I was right about staying right here.
+Dialogue: 0,0:15:21.81,0:15:25.90,saint tail default,,0,0,0,,{TIME:921817,925904}{\i1}Those two men stole that mirror.
+Dialogue: 0,0:15:26.44,0:15:29.40,saint tail default,,0,0,0,,{TIME:926447,929408}{\i1}They stole it?\NSo it wasn't you?
 Dialogue: 0,0:15:30.57,0:15:31.78,saint tail default,,0,0,0,,{TIME:930576,931785}Now!
-Dialogue: 0,0:15:35.87,0:15:37.45,saint tail default,,0,0,0,,{TIME:935873,937458}I think we're in trouble!
-Dialogue: 0,0:15:37.87,0:15:42.62,saint tail default,,0,0,0,,{TIME:937875,942629}Now that you've been discovered,\Nwhy don't you be good and return it?
-Dialogue: 0,0:15:43.00,0:15:46.88,saint tail default,,0,0,0,,{TIME:943005,946884}Damn you!\NWe worked hard to get it!
-Dialogue: 0,0:15:48.96,0:15:50.97,saint tail default,,0,0,0,,{TIME:948969,950971}Alright, here's my chance!
-Dialogue: 0,0:15:51.01,0:15:54.34,saint tail default,,0,0,0,,{TIME:951013,954349}I'm going to beat that St. Tail!
-Dialogue: 0,0:15:54.64,0:15:56.05,saint tail default,,0,0,0,,{TIME:954641,956059}Damn!
-Dialogue: 0,0:16:05.44,0:16:10.03,saint tail default,,0,0,0,,{TIME:965444,970032}It's Show Time!
-Dialogue: 0,0:16:33.76,0:16:35.01,saint tail default,,0,0,0,,{TIME:993764,995015}It's too bright!
-Dialogue: 0,0:16:36.35,0:16:37.43,saint tail default,,0,0,0,,{TIME:996350,997434}For you!
-Dialogue: 0,0:16:43.35,0:16:44.27,saint tail default,,0,0,0,,{TIME:1003357,1004274}Brother!
-Dialogue: 0,0:16:45.19,0:16:46.40,saint tail default,,0,0,0,,{TIME:1005192,1006401}One!
-Dialogue: 0,0:16:46.73,0:16:48.02,saint tail default,,0,0,0,,{TIME:1006735,1008028}Two!
-Dialogue: 0,0:16:48.36,0:16:49.90,saint tail default,,0,0,0,,{TIME:1008362,1009905}Three!
-Dialogue: 0,0:17:00.16,0:17:02.16,saint tail default,,0,0,0,,{TIME:1020165,1022167}St. Tail, where are you?
-Dialogue: 0,0:17:17.59,0:17:19.68,saint tail default,,0,0,0,,{TIME:1037599,1039685}A reflection of one's true image…
-Dialogue: 0,0:17:38.28,0:17:40.24,saint tail default,,0,0,0,,{TIME:1058287,1060247}The lights are back to normal!
-Dialogue: 0,0:17:43.16,0:17:45.00,saint tail default,,0,0,0,,{TIME:1063166,1065002}Darn! The mirror's gone!
-Dialogue: 0,0:17:45.08,0:17:47.08,saint tail default,,0,0,0,,{TIME:1065085,1067087}Hey, look on the stage!
-Dialogue: 0,0:17:47.12,0:17:47.96,saint tail default,,0,0,0,,{TIME:1067129,1067963}What?
-Dialogue: 0,0:17:48.67,0:17:49.75,saint tail default,,0,0,0,,{TIME:1068672,1069756}The thieves?!
-Dialogue: 0,0:17:58.72,0:18:02.97,saint tail default,,0,0,0,,{TIME:1078724,1082978}"I have taken\NPrincess Rosa's mirror, St. Tail. "
-Dialogue: 0,0:18:03.77,0:18:04.68,saint tail default,,0,0,0,,{TIME:1083770,1084688}Darn.
-Dialogue: 0,0:18:04.98,0:18:07.64,saint tail default,,0,0,0,,{TIME:1084980,1087649}It was so bright,\NI couldn't take any pictures.
-Dialogue: 0,0:18:08.02,0:18:10.02,saint tail default,,0,0,0,,{TIME:1088025,1090027}What's gonna happen to my scoop?
-Dialogue: 0,0:18:10.36,0:18:12.36,saint tail default,,0,0,0,,{TIME:1090360,1092362}It was never meant to\Nbe printed in the first place.
-Dialogue: 0,0:18:12.69,0:18:13.36,saint tail default,,0,0,0,,{TIME:1092696,1093363}What?
-Dialogue: 0,0:18:16.70,0:18:19.03,saint tail default,,0,0,0,,{TIME:1096700,1099036}What was that back there I saw?
-Dialogue: 0,0:18:28.67,0:18:33.50,saint tail default,,0,0,0,,{TIME:1108670,1113508}Lord, thank you for\Nreturning my mirror.
-Dialogue: 0,0:18:47.14,0:18:48.60,saint tail default,,0,0,0,,{TIME:1127147,1128607}"St. Tail returns priceless mirror.\NMirror taken from auction block. "
-Dialogue: 0,0:18:49.23,0:18:50.40,saint tail default,,0,0,0,,{TIME:1129232,1130400}What do you think?!
-Dialogue: 0,0:18:50.48,0:18:52.65,saint tail default,,0,0,0,,{TIME:1130484,1132653}My scoop made the front page again.
-Dialogue: 0,0:18:55.15,0:18:56.61,saint tail default,,0,0,0,,{TIME:1135155,1136615}He never gives up…
-Dialogue: 0,0:19:00.57,0:19:02.12,saint tail default,,0,0,0,,{TIME:1140577,1142120}Good morning!
-Dialogue: 0,0:19:02.62,0:19:04.03,saint tail default,,0,0,0,,{TIME:1142621,1144039}Good morning, Meimi.
-Dialogue: 0,0:19:04.03,0:19:06.04,saint tail default,,0,0,0,,{TIME:1144039,1146041}Your hair looks nice today.
-Dialogue: 0,0:19:06.37,0:19:07.37,saint tail default,,0,0,0,,{TIME:1146375,1147376}Really?
-Dialogue: 0,0:19:09.92,0:19:11.21,saint tail default,,0,0,0,,{TIME:1149920,1151213}Maybe it does…
-Dialogue: 0,0:19:25.51,0:19:28.27,saint tail default,,0,0,0,,{TIME:1165519,1168271}Were you at the auction last night?
-Dialogue: 0,0:19:38.57,0:19:39.49,saint tail default,,0,0,0,,{TIME:1178573,1179491}I… um…
-Dialogue: 0,0:19:40.74,0:19:42.07,saint tail default,,0,0,0,,{TIME:1180742,1182077}Did he catch on?
-Dialogue: 0,0:19:44.99,0:19:46.49,saint tail default,,0,0,0,,{TIME:1184996,1186498}What do you mean?
-Dialogue: 0,0:19:47.58,0:19:50.50,saint tail default,,0,0,0,,{TIME:1187582,1190502}It's me! I'm St. Tail…
-Dialogue: 0,0:19:56.96,0:19:57.84,saint tail default,,0,0,0,,{TIME:1196967,1197843}Why?
-Dialogue: 0,0:20:02.38,0:20:04.47,saint tail default,,0,0,0,,{TIME:1202389,1204474}Why are you asking me that?
-Dialogue: 0,0:20:07.72,0:20:09.06,saint tail default,,0,0,0,,{TIME:1207728,1209062}As if I'd answer…
-Dialogue: 0,0:20:12.10,0:20:13.56,saint tail default,,0,0,0,,{TIME:1212107,1213567}Oh, never mind.
-Dialogue: 0,0:20:15.94,0:20:20.44,saint tail default,,0,0,0,,{TIME:1215944,1220449}Besides, it's unscientific to see\Nsomeone else's reflection in a mirror.
-Dialogue: 0,0:20:24.16,0:20:26.03,saint tail default,,0,0,0,,{TIME:1224161,1226037}The lights blinded me for awhile…
-Dialogue: 0,0:20:26.20,0:20:28.03,saint tail default,,0,0,0,,{TIME:1226204,1228039}maybe something happened to my eyes.
-Dialogue: 0,0:20:29.62,0:20:31.04,saint tail default,,0,0,0,,{TIME:1229624,1231042}I must have been seeing things.
-Dialogue: 0,0:20:36.46,0:20:39.55,saint tail default,,0,0,0,,{TIME:1236465,1239551}But if I was hallucinating, then why?
-Dialogue: 0,0:20:43.97,0:20:45.64,saint tail default,,0,0,0,,{TIME:1243972,1245640}Why was it that I saw…
-Dialogue: 0,0:20:46.39,0:20:47.93,saint tail default,,0,0,0,,{TIME:1246391,1247934}Haneoka?
+Dialogue: 0,0:15:36.08,0:15:37.62,saint tail default,,0,0,0,,{TIME:936081,937624}I think we're in trouble!
+Dialogue: 0,0:15:38.37,0:15:42.83,saint tail default,,0,0,0,,{TIME:938375,942838}{\i1}Now that you've been discovered,\Nwhy don't you be good and return it?
+Dialogue: 0,0:15:43.21,0:15:47.00,saint tail default,,0,0,0,,{TIME:943213,947009}Damn you!\NWe worked hard to get it!
+Dialogue: 0,0:15:49.09,0:15:51.88,saint tail default,,0,0,0,,{TIME:949094,951889}Alright, here's my chance!
+Dialogue: 0,0:15:51.88,0:15:54.80,saint tail default,,0,0,0,,{TIME:951889,954808}I'm going to beat that St. Tail!
+Dialogue: 0,0:15:54.80,0:15:55.55,saint tail default,,0,0,0,,{TIME:954808,955559}Damn!
+Dialogue: 0,0:16:06.06,0:16:10.03,saint tail default,,0,0,0,,{TIME:966069,970032}It's showtime!
+Dialogue: 0,0:16:33.38,0:16:34.80,saint tail default,,0,0,0,,{TIME:993388,994806}It's too bright!
+Dialogue: 0,0:16:36.80,0:16:37.68,saint tail default,,0,0,0,,{TIME:996808,997684}This is for you!
+Dialogue: 0,0:16:43.48,0:16:44.44,saint tail default,,0,0,0,,{TIME:1003482,1004441}Brother!
+Dialogue: 0,0:16:45.65,0:16:46.94,saint tail default,,0,0,0,,{TIME:1005651,1006944}One!
+Dialogue: 0,0:16:46.94,0:16:48.52,saint tail default,,0,0,0,,{TIME:1006944,1008529}Two!
+Dialogue: 0,0:16:48.52,0:16:49.82,saint tail default,,0,0,0,,{TIME:1008529,1009821}Three!
+Dialogue: 0,0:17:00.33,0:17:02.29,saint tail default,,0,0,0,,{TIME:1020332,1022292}{\i1}St. Tail, where are you?
+Dialogue: 0,0:17:17.64,0:17:20.18,saint tail default,,0,0,0,,{TIME:1037641,1040185}{\i1}A reflection of one's true image…
+Dialogue: 0,0:17:38.45,0:17:40.24,saint tail default,,0,0,0,,{TIME:1058453,1060247}The lights are back to normal!
+Dialogue: 0,0:17:43.45,0:17:45.29,saint tail default,,0,0,0,,{TIME:1063458,1065294}Darn! The mirror's gone!
+Dialogue: 0,0:17:45.29,0:17:47.33,saint tail default,,0,0,0,,{TIME:1065294,1067337}Hey, look on the stage!
+Dialogue: 0,0:17:47.33,0:17:48.04,saint tail default,,0,0,0,,{TIME:1067337,1068046}What?
+Dialogue: 0,0:17:48.96,0:17:50.17,saint tail default,,0,0,0,,{TIME:1068964,1070173}The thieves?!
+Dialogue: 0,0:17:58.76,0:18:03.22,saint tail default,,0,0,0,,{TIME:1078765,1083228}"I have taken Princess Rosa's\Nmirror. – St. Tail".
+Dialogue: 0,0:18:03.97,0:18:05.31,saint tail default,,0,0,0,,{TIME:1083979,1085314}Darn.
+Dialogue: 0,0:18:05.31,0:18:08.35,saint tail default,,0,0,0,,{TIME:1085314,1088358}It was so bright,\NI couldn't take any pictures.
+Dialogue: 0,0:18:08.35,0:18:10.61,saint tail default,,0,0,0,,{TIME:1088358,1090611}What's gonna happen to my scoop?
+Dialogue: 0,0:18:10.61,0:18:12.86,saint tail default,,0,0,0,,{TIME:1090611,1092863}It was never meant to\Nbe printed in the first place.
+Dialogue: 0,0:18:12.86,0:18:13.57,saint tail default,,0,0,0,,{TIME:1092863,1093572}What?
+Dialogue: 0,0:18:16.90,0:18:19.24,saint tail default,,0,0,0,,{TIME:1096908,1099244}{\i1}What was that back there I saw?
+Dialogue: 0,0:18:28.75,0:18:34.38,saint tail default,,0,0,0,,{TIME:1108754,1114384}Lord, thank you for\Nreturning my mirror.
+Dialogue: 0,0:18:47.27,0:18:48.77,saint tail sign,(sign),0,0,0,,{TIME:1127272,1128774}St. Tail returns priceless mirror!\NMirror taken from auction block
+Dialogue: 0,0:18:49.56,0:18:50.77,saint tail default,,0,0,0,,{TIME:1129566,1130776}What do you think?!
+Dialogue: 0,0:18:50.77,0:18:53.23,saint tail default,,0,0,0,,{TIME:1130776,1133236}My scoop made\Nthe front page again.
+Dialogue: 0,0:18:55.36,0:18:56.94,saint tail default,,0,0,0,,{TIME:1135364,1136948}{\i1}He never gives up…
+Dialogue: 0,0:19:00.99,0:19:01.91,saint tail default,,0,0,0,,{TIME:1140994,1141912}Good morning!
+Dialogue: 0,0:19:02.87,0:19:04.33,saint tail default,,0,0,0,,{TIME:1142871,1144331}Good morning, Meimi.
+Dialogue: 0,0:19:04.33,0:19:05.95,saint tail default,,0,0,0,,{TIME:1144331,1145957}Your hair looks nice today.
+Dialogue: 0,0:19:06.62,0:19:07.83,saint tail default,,0,0,0,,{TIME:1146625,1147834}Really?
+Dialogue: 0,0:19:10.04,0:19:10.92,saint tail default,,0,0,0,,{TIME:1150045,1150921}Maybe it does…
+Dialogue: 0,0:19:25.64,0:19:28.56,saint tail default,,0,0,0,,{TIME:1165644,1168563}Were you at the auction last night?
+Dialogue: 0,0:19:38.86,0:19:39.78,saint tail default,,0,0,0,,{TIME:1178865,1179783}I… um…
+Dialogue: 0,0:19:41.03,0:19:42.45,saint tail default,,0,0,0,,{TIME:1181034,1182452}{\i1}Did he catch on?
+Dialogue: 0,0:19:45.28,0:19:46.91,saint tail default,,0,0,0,,{TIME:1185288,1186915}What do you mean?
+Dialogue: 0,0:19:47.74,0:19:51.42,saint tail default,,0,0,0,,{TIME:1187749,1191420}{\i1}It's me! I'm St. Tail…
+Dialogue: 0,0:19:57.30,0:19:58.38,saint tail default,,0,0,0,,{TIME:1197300,1198385}Why?
+Dialogue: 0,0:20:02.43,0:20:04.47,saint tail default,,0,0,0,,{TIME:1202431,1204474}Why are you asking me that?
+Dialogue: 0,0:20:07.85,0:20:09.47,saint tail default,,0,0,0,,{TIME:1207853,1209479}{\i1}As if I'd answer…
+Dialogue: 0,0:20:12.31,0:20:13.98,saint tail default,,0,0,0,,{TIME:1212315,1213984}Oh, never mind.
+Dialogue: 0,0:20:16.15,0:20:21.36,saint tail default,,0,0,0,,{TIME:1216153,1221366}{\i1}Besides, it's unscientific to see\Nsomeone else's reflection in a mirror.
+Dialogue: 0,0:20:24.49,0:20:26.37,saint tail default,,0,0,0,,{TIME:1224494,1226371}{\i1}The lights blinded me for awhile.
+Dialogue: 0,0:20:26.37,0:20:28.49,saint tail default,,0,0,0,,{TIME:1226371,1228498}{\i1}Maybe something\Nhappened to my eyes.
+Dialogue: 0,0:20:29.79,0:20:31.33,saint tail default,,0,0,0,,{TIME:1229791,1231334}{\i1}I must have been seeing things.
+Dialogue: 0,0:20:36.67,0:20:40.51,saint tail default,,0,0,0,,{TIME:1236673,1240510}{\i1}But if I was hallucinating, then why?
+Dialogue: 0,0:20:44.30,0:20:46.72,saint tail default,,0,0,0,,{TIME:1244306,1246725}{\i1}Why was it that I saw…
+Dialogue: 0,0:20:46.72,0:20:48.81,saint tail default,,0,0,0,,{TIME:1246725,1248810}{\i1}Haneoka?
 Comment: 0,0:20:53.27,0:20:53.27,[chapter],[chapter],0,0,0,,{TIME:1253273,1253273}Ending
 Dialogue: 0,0:20:54.14,0:21:00.61,saint tail ed jp,[karaoke],0,0,0,,{TIME:1254149,1260614}{\blur1}kisu wo shitemoraeru mae no{NOTE:キスをしてもらえるまえの}
 Dialogue: 0,0:21:01.61,0:21:06.99,saint tail ed jp,[karaoke],0,0,0,,{TIME:1261615,1266995}{\blur1}namida no wake wo{NOTE:涙のわけを}
@@ -338,3 +333,11 @@ Dialogue: 0,0:21:51.99,0:21:58.83,saint tail ed en,[karaoke],0,0,0,,{TIME:131199
 Dialogue: 0,0:21:59.21,0:22:04.76,saint tail ed en,[karaoke],0,0,0,,{TIME:1319214,1324761}I'd be devastated if you did.
 Dialogue: 0,0:22:05.88,0:22:14.02,saint tail ed en,[karaoke],0,0,0,,{TIME:1325887,1334020}Will my prayer be answered?
 Comment: 0,0:22:28.36,0:22:28.36,[chapter],[chapter],0,0,0,,{TIME:1348368,1348368}Preview
+Dialogue: 0,0:22:28.36,0:22:31.37,saint tail sign,(sign),0,0,0,,{TIME:1348368,1351371}Next episode
+Dialogue: 0,0:22:33.33,0:22:40.54,saint tail default,,0,0,0,,{TIME:1353331,1360547}John, who is traveling all around Japan,\Nhas lost his bicycle and came to Seira.{NOTE:日本一周の旅をしているジョンさんが、子供に大事な自転車を持っていかれてしまったと、聖良のところに相談に来たの}
+Dialogue: 0,0:22:40.54,0:22:43.42,saint tail default,,0,0,0,,{TIME:1360547,1363425}He's going back to America\Non the last flight tonight,{NOTE:彼は今晩の最終便でアメリカに帰るので、}
+Dialogue: 0,0:22:43.42,0:22:46.01,saint tail default,,0,0,0,,{TIME:1363425,1366011}so he's going to have\Nto catch the nine o'clock train.{NOTE:九時の列車に乗らないといけないんだって}
+Dialogue: 0,0:22:46.01,0:22:49.34,saint tail default,,0,0,0,,{TIME:1366011,1369347}I'll have to get his bike back\Nby then somehow!{NOTE:それまでに何とか自転車を取り戻してあげなくっちゃ}
+Dialogue: 0,0:22:49.34,0:22:51.64,saint tail default,,0,0,0,,{TIME:1369347,1371641}Next time on Saint Tail:{NOTE:次回、怪盗セイント・テール}
+Dialogue: 0,0:22:51.64,0:22:54.14,saint tail default,,0,0,0,,{TIME:1371641,1374144}"The Platform of Love and Tears".{NOTE:『愛と涙のプラットホーム』}
+Dialogue: 0,0:22:54.14,0:22:57.39,saint tail default,,0,0,0,,{TIME:1374144,1377397}May the blessings\Nof God be with you.{NOTE:みなさんに、神のご加護がありますように}
