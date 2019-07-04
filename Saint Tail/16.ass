@@ -5,7 +5,7 @@ ScriptType: v4.00+
 PlayResX: 1440
 PlayResY: 1080
 YCbCr Matrix: TV.601
-WrapStyle: 1
+WrapStyle: 2
 ScaledBorderAndShadow: yes
 Title: Saint Tail - 16
 Audio File: source/16.mkv
@@ -55,217 +55,229 @@ Dialogue: 0,0:01:12.96,0:01:19.35,saint tail op en,[karaoke],0,0,0,,{TIME:72969,
 Dialogue: 0,0:01:19.35,0:01:22.77,saint tail op en,[karaoke],0,0,0,,{TIME:79350,82770}we are always connected.
 Dialogue: 0,0:01:27.06,0:01:29.44,saint tail op en,[karaoke],0,0,0,,{TIME:87066,89444}Want you here tonight!
 Comment: 0,0:01:31.11,0:01:31.11,[chapter],[chapter],0,0,0,,{TIME:91112,91112}Part A
-Dialogue: 0,0:01:47.12,0:01:49.83,saint tail default,,0,0,0,,{TIME:107128,109839}We haven't dined out for a while.
-Dialogue: 0,0:01:50.04,0:01:53.59,saint tail default,,0,0,0,,{TIME:110048,113593}Let's make the best of it\Nby eating something great.
-Dialogue: 0,0:01:53.84,0:01:56.30,saint tail default,,0,0,0,,{TIME:113843,116304}But there's a long line everywhere.
-Dialogue: 0,0:01:56.51,0:01:58.76,saint tail default,,0,0,0,,{TIME:116512,118765}Leave it to me! I know a place.
-Dialogue: 0,0:02:01.14,0:02:02.72,saint tail default,,0,0,0,,{TIME:121142,122727}Well, here we are.
-Dialogue: 0,0:02:03.10,0:02:05.68,saint tail default,,0,0,0,,{TIME:123102,125688}Tsujimoto Mansion? It looks pricey.
-Dialogue: 0,0:02:05.93,0:02:09.19,saint tail default,,0,0,0,,{TIME:125938,129192}– Don't worry. Father's paying.\N– What?
-Dialogue: 0,0:02:17.11,0:02:18.82,saint tail default,,0,0,0,,{TIME:137116,138826}Are you sure it's okay?
-Dialogue: 0,0:02:19.07,0:02:24.29,saint tail default,,0,0,0,,{TIME:139077,144290}I came here a few years ago.\NTheir rice gruel is delicious!
-Dialogue: 0,0:02:24.66,0:02:27.25,saint tail default,,0,0,0,,{TIME:144666,147251}Reasonable prices, nice owner.
-Dialogue: 0,0:02:27.71,0:02:32.00,saint tail default,,0,0,0,,{TIME:147710,152006}But something's strange.\NDid they redecorate?
-Dialogue: 0,0:02:33.92,0:02:38.59,saint tail default,,0,0,0,,{TIME:153925,158596}I'm sorry, but we don't take\Ncustomers without reservations.
-Dialogue: 0,0:02:38.80,0:02:43.64,saint tail default,,0,0,0,,{TIME:158805,163643}I don't remember needing one.\NIsn't the chef Mr. Tsujimoto?
-Dialogue: 0,0:02:43.85,0:02:47.56,saint tail default,,0,0,0,,{TIME:163851,167563}That is correct,\Nbut the owner has changed.
-Dialogue: 0,0:02:48.39,0:02:52.44,saint tail default,,0,0,0,,{TIME:168398,172443}I'm Ohkura, the owner. Is there\Nsomething I can do for you?
-Dialogue: 0,0:02:52.69,0:02:55.40,saint tail default,,0,0,0,,{TIME:172694,175405}Is it true you need\Na reservation to eat here?
-Dialogue: 0,0:02:55.94,0:03:01.86,saint tail default,,0,0,0,,{TIME:175947,181869}We only prepare meals for\Nthree groups of customers per day.
-Dialogue: 0,0:03:02.07,0:03:04.66,saint tail default,,0,0,0,,{TIME:182078,184664}So we refuse those\Nwith no reservations.
-Dialogue: 0,0:03:04.87,0:03:07.08,saint tail default,,0,0,0,,{TIME:184872,187083}That's why there's no line.
-Dialogue: 0,0:03:07.75,0:03:12.54,saint tail default,,0,0,0,,{TIME:187750,192547}If you want to eat here, please make\Na reservation and come again.
-Dialogue: 0,0:03:12.75,0:03:14.71,saint tail default,,0,0,0,,{TIME:192755,194716}And when would that be?
-Dialogue: 0,0:03:14.92,0:03:16.96,saint tail default,,0,0,0,,{TIME:194924,196968}Probably about three years.
-Dialogue: 0,0:03:17.21,0:03:21.13,saint tail default,,0,0,0,,{TIME:197218,201139}– Three years?\N– We look forward to your visit.
-Dialogue: 0,0:03:24.80,0:03:27.27,saint tail default,,0,0,0,,{TIME:204809,207270}That owner has such a rude attitude!
-Dialogue: 0,0:03:27.47,0:03:33.19,saint tail default,,0,0,0,,{TIME:207478,213192}Some cuisine critic must have praised\Nthem and it's gone to their heads!
-Dialogue: 0,0:03:33.44,0:03:35.06,saint tail default,,0,0,0,,{TIME:213443,215069}Well, well….
-Dialogue: 0,0:03:38.69,0:03:41.03,saint tail default,,0,0,0,,{TIME:218698,221033}Let's get ahold of our feelings.
-Dialogue: 0,0:03:46.74,0:03:52.00,saint tail default,,0,0,0,,{TIME:226748,232003}STEAL THE CHINESE IRON CHEF
-Dialogue: 0,0:03:53.21,0:03:54.46,saint tail default,,0,0,0,,{TIME:233212,234464}Good morning!
-Dialogue: 0,0:03:54.67,0:03:57.67,saint tail default,,0,0,0,,{TIME:234672,237675}That place has the greatest sauce!
-Dialogue: 0,0:03:57.88,0:04:00.05,saint tail default,,0,0,0,,{TIME:237884,240052}– It's delicious!\N– What's this?
-Dialogue: 0,0:04:00.47,0:04:04.01,saint tail default,,0,0,0,,{TIME:240470,244015}A new octopus fritter shop\Nnear the train station.
-Dialogue: 0,0:04:04.22,0:04:08.97,saint tail default,,0,0,0,,{TIME:244223,248978}We're discussing whether that one\Nor the one near the park is better.
-Dialogue: 0,0:04:09.56,0:04:13.39,saint tail default,,0,0,0,,{TIME:249562,253399}– What do you think?\N– Maybe the one near the park.
-Dialogue: 0,0:04:13.94,0:04:18.07,saint tail default,,0,0,0,,{TIME:253941,258070}See, I told you! That's a taste\Nthat's hard to come by.
-Dialogue: 0,0:04:18.27,0:04:20.53,saint tail default,,0,0,0,,{TIME:258279,260531}Since we've all agreed…
-Dialogue: 0,0:04:20.74,0:04:24.32,saint tail default,,0,0,0,,{TIME:260740,264327}…let's stop by there after\Nschool for a small snack.
-Dialogue: 0,0:04:24.66,0:04:27.87,saint tail default,,0,0,0,,{TIME:264660,267872}How can you talk about that\Nso early in the morning?
-Dialogue: 0,0:04:28.08,0:04:31.95,saint tail default,,0,0,0,,{TIME:268080,271959}– Something's wrong with your stomachs.\N– What did you say?
-Dialogue: 0,0:04:32.16,0:04:37.08,saint tail default,,0,0,0,,{TIME:272168,277089}Aren't I right? You're all going\Nto end up with faces like this:
-Dialogue: 0,0:04:37.75,0:04:41.92,saint tail default,,0,0,0,,{TIME:277757,281928}How rude! And you're taking\Nforever to catch St. Tail!
-Dialogue: 0,0:04:42.13,0:04:43.47,saint tail default,,0,0,0,,{TIME:282136,283471}Now you've said it!
-Dialogue: 0,0:04:43.67,0:04:46.51,saint tail default,,0,0,0,,{TIME:283679,286516}You don't know if\Nthey're friends or not.
-Dialogue: 0,0:04:55.39,0:04:57.40,saint tail default,,0,0,0,,{TIME:295399,297401}Wasn't that Miss Sato?
-Dialogue: 0,0:04:57.61,0:05:03.57,saint tail default,,0,0,0,,{TIME:297610,303574}Yes. She came to ask us\Nfor help with her grandmother.
-Dialogue: 0,0:05:03.78,0:05:08.83,saint tail default,,0,0,0,,{TIME:303783,308830}Her grandmother has been in the\Nhospital for a very long time.
-Dialogue: 0,0:05:09.41,0:05:13.45,saint tail default,,0,0,0,,{TIME:309413,313459}Lately she's lost her appetite\Nand can't get out of bed.
-Dialogue: 0,0:05:13.66,0:05:18.17,saint tail default,,0,0,0,,{TIME:313668,318172}Feeling sorry for her, Miss Sato\Nasked what she wanted to eat.
-Dialogue: 0,0:05:18.38,0:05:22.38,saint tail default,,0,0,0,,{TIME:318381,322385}There was something she wanted\Nto eat again while she was alive.
-Dialogue: 0,0:05:23.13,0:05:26.34,saint tail default,,0,0,0,,{TIME:323135,326347}– What could it be?\N– Rice gruel.
-Dialogue: 0,0:05:26.55,0:05:28.30,saint tail default,,0,0,0,,{TIME:326556,328307}– Rice gruel?\N– Yes.
-Dialogue: 0,0:05:28.51,0:05:31.81,saint tail default,,0,0,0,,{TIME:328516,331811}It's an unforgettable dish\Nan old boyfriend made.
-Dialogue: 0,0:05:32.01,0:05:35.98,saint tail default,,0,0,0,,{TIME:332019,335982}The story goes back to when\Nthe grandmother was young.
-Dialogue: 0,0:05:36.19,0:05:39.81,saint tail default,,0,0,0,,{TIME:336190,339819}She fell in love with a young chef.
-Dialogue: 0,0:05:40.02,0:05:42.73,saint tail default,,0,0,0,,{TIME:340027,342738}But they were destined\Nto be torn apart.
-Dialogue: 0,0:05:43.23,0:05:48.20,saint tail default,,0,0,0,,{TIME:343239,348202}Goodbye. My parents have decided\Non a fiance I am to wed.
-Dialogue: 0,0:05:49.95,0:05:51.49,saint tail default,,0,0,0,,{TIME:349954,351497}Chiyo!
-Dialogue: 0,0:05:51.70,0:05:52.87,saint tail default,,0,0,0,,{TIME:351706,352874}Ajinosuke!
-Dialogue: 0,0:05:53.08,0:05:55.33,saint tail default,,0,0,0,,{TIME:353082,355334}Chiyo!
-Dialogue: 0,0:05:56.79,0:05:58.29,saint tail default,,0,0,0,,{TIME:356794,358296}Chiyo!
-Dialogue: 0,0:05:58.54,0:06:00.75,saint tail default,,0,0,0,,{TIME:358546,360756}Ajinosuke!
-Dialogue: 0,0:06:00.96,0:06:03.21,saint tail default,,0,0,0,,{TIME:360965,363217}Chiyo!
-Dialogue: 0,0:06:10.97,0:06:16.06,saint tail default,,0,0,0,,{TIME:370975,376063}That was the last time she saw him.
-Dialogue: 0,0:06:18.06,0:06:22.06,saint tail default,,0,0,0,,{TIME:378065,382069}Recently she found out that\Nhe became a famous chef…
-Dialogue: 0,0:06:22.27,0:06:24.73,saint tail default,,0,0,0,,{TIME:382278,384739}…and opened a restaurant here.
-Dialogue: 0,0:06:24.94,0:06:29.16,saint tail default,,0,0,0,,{TIME:384947,389160}But the grandmother is in no\Ncondition to leave the hospital.
-Dialogue: 0,0:06:29.36,0:06:30.62,saint tail default,,0,0,0,,{TIME:389368,390620}For her sake…
-Dialogue: 0,0:06:30.82,0:06:33.70,saint tail default,,0,0,0,,{TIME:390828,393706}…Miss Sato kept going\Nto the restaurant.
-Dialogue: 0,0:06:33.91,0:06:36.37,saint tail default,,0,0,0,,{TIME:393915,396375}But she hasn 't been able to meet him.
-Dialogue: 0,0:06:36.58,0:06:38.33,saint tail default,,0,0,0,,{TIME:396584,398336}That's just terrible.
-Dialogue: 0,0:06:38.54,0:06:42.29,saint tail default,,0,0,0,,{TIME:398544,402298}No, the one who 's terrible\Nis the restaurant owner.
-Dialogue: 0,0:06:42.88,0:06:46.80,saint tail default,,0,0,0,,{TIME:402882,406802}Business has been bad\Nsince the new owner took it over.
-Dialogue: 0,0:06:46.96,0:06:50.47,saint tail default,,0,0,0,,{TIME:406969,410473}He's gone against every\Nwish the chef has.
-Dialogue: 0,0:06:50.68,0:06:55.22,saint tail default,,0,0,0,,{TIME:410681,415227}He's even made sure that this story\Nhasn't reached the chef's ears.
-Dialogue: 0,0:06:55.51,0:06:57.68,saint tail default,,0,0,0,,{TIME:415519,417688}Do you mean Tsujimoto Mansion?
-Dialogue: 0,0:06:58.18,0:07:03.56,saint tail default,,0,0,0,,{TIME:418189,423569}That's right. The chef is Ajinosuke\NTsujimoto, the Chinese lron Chef.
-Dialogue: 0,0:07:04.07,0:07:06.78,saint tail default,,0,0,0,,{TIME:424070,426781}But how do you know\Nof the restaurant?
-Dialogue: 0,0:07:06.98,0:07:08.49,saint tail default,,0,0,0,,{TIME:426989,428491}Just a tiny incident.
-Dialogue: 0,0:07:08.69,0:07:12.24,saint tail default,,0,0,0,,{TIME:428699,432244}The grandmother's wish is\Nto eat his cooking, but….
-Dialogue: 0,0:07:12.66,0:07:14.91,saint tail default,,0,0,0,,{TIME:432662,434914}She really wants to see him.
-Dialogue: 0,0:07:15.12,0:07:18.20,saint tail default,,0,0,0,,{TIME:435122,438209}Leave it to me!\NSt. Tail will make it happen.
-Dialogue: 0,0:07:24.50,0:07:30.55,saint tail default,,0,0,0,,{TIME:444507,450554}Those girls only think about eating.\NThey have no sex appeal. What?
-Dialogue: 0,0:07:33.43,0:07:36.76,saint tail default,,0,0,0,,{TIME:453432,456769}– Asuka, let's stop here before we go!\N– Hey, guys.
-Dialogue: 0,0:07:36.97,0:07:41.64,saint tail default,,0,0,0,,{TIME:456978,461649}– Look! It's a message from St. Tail!\N– What?
-Dialogue: 0,0:07:43.81,0:07:48.40,saint tail default,,0,0,0,,{TIME:463818,468406}"Tonight I will be stealing\Nthe Chinese Iron Chef. – St. Tail"
-Dialogue: 0,0:07:48.99,0:07:52.91,saint tail default,,0,0,0,,{TIME:468990,472910}Didn't think St. Tail was\Na gourmet fan, did you, Asuka?
-Dialogue: 0,0:07:53.07,0:07:55.57,saint tail default,,0,0,0,,{TIME:473077,475579}Sorry, guys. See you tomorrow!
-Dialogue: 0,0:08:06.84,0:08:10.26,saint tail default,,0,0,0,,{TIME:486841,490261}You're saying that St. Tail's\Ngoing to steal the chef?
-Dialogue: 0,0:08:10.46,0:08:12.76,saint tail default,,0,0,0,,{TIME:490469,492763}Well, that is a great honor.
-Dialogue: 0,0:08:12.97,0:08:17.18,saint tail default,,0,0,0,,{TIME:492972,497184}Don't joke. You will cooperate\Nwith us in her arrest, right?
-Dialogue: 0,0:08:17.39,0:08:21.39,saint tail default,,0,0,0,,{TIME:497393,501397}Yes, most certainly.\NLet me introduce you. Tsujimoto.
-Dialogue: 0,0:08:21.93,0:08:26.31,saint tail default,,0,0,0,,{TIME:501939,506318}This is the Chinese Iron Chef\Nhimself, Ajinosuke Tsujimoto.
-Dialogue: 0,0:08:26.52,0:08:29.40,saint tail default,,0,0,0,,{TIME:506527,509405}This is Asuka Jr.
-Dialogue: 0,0:08:29.61,0:08:33.28,saint tail default,,0,0,0,,{TIME:509613,513284}A pleasure. I am guarding you\Nfrom St. Tail today.
-Dialogue: 0,0:08:33.70,0:08:35.07,saint tail default,,0,0,0,,{TIME:513701,515077}St. Tail?
-Dialogue: 0,0:08:35.28,0:08:37.99,saint tail default,,0,0,0,,{TIME:515286,517997}Yes. Tonight, please do as I ask.
-Dialogue: 0,0:08:43.29,0:08:46.21,saint tail default,,0,0,0,,{TIME:523294,526213}A master chef.
-Dialogue: 0,0:08:53.84,0:08:56.30,saint tail default,,0,0,0,,{TIME:533846,536307}You little idiot.
-Dialogue: 0,0:09:05.06,0:09:06.90,saint tail default,,0,0,0,,{TIME:545066,546901}Here.
-Dialogue: 0,0:09:08.56,0:09:10.98,saint tail default,,0,0,0,,{TIME:548569,550988}Thank you very much!
-Dialogue: 0,0:09:11.69,0:09:14.53,saint tail default,,0,0,0,,{TIME:551697,554533}– Delicious!\N– Your name is Asuka, right?
-Dialogue: 0,0:09:14.74,0:09:18.12,saint tail default,,0,0,0,,{TIME:554742,558120}– Yes.\N– Is St. Tail really going to…?
-Dialogue: 0,0:09:18.57,0:09:23.08,saint tail default,,0,0,0,,{TIME:558579,563084}Yes, but there's nothing to worry\Nabout. I'm going to get her for sure.
-Dialogue: 0,0:09:27.54,0:09:29.04,saint tail default,,0,0,0,,{TIME:567546,569048}I'm sorry.
-Dialogue: 0,0:09:51.98,0:09:54.90,saint tail default,,0,0,0,,{TIME:591987,594907}Dad! What are you doing!
-Dialogue: 0,0:09:55.11,0:09:56.78,saint tail default,,0,0,0,,{TIME:595116,596784}That's my line!
-Dialogue: 0,0:09:56.99,0:09:59.12,saint tail default,,0,0,0,,{TIME:596992,599120}I came after St. Tail.
-Dialogue: 0,0:09:59.32,0:10:02.08,saint tail default,,0,0,0,,{TIME:599328,602081}– St. Tail is coming here?\N– Yeah.
-Dialogue: 0,0:10:02.28,0:10:05.25,saint tail default,,0,0,0,,{TIME:602289,605251}– That's not good.\N– What's wrong?
-Dialogue: 0,0:10:05.79,0:10:09.71,saint tail default,,0,0,0,,{TIME:605793,609713}– You know of the Washington Treaty?\N– Washington Treaty?
-Dialogue: 0,0:10:10.42,0:10:14.21,saint tail default,,0,0,0,,{TIME:610422,614218}Oh, it's to protect animals\Nlike koalas and pandas…
-Dialogue: 0,0:10:14.42,0:10:16.92,saint tail default,,0,0,0,,{TIME:614426,616929}…from bad hunters, isn't it?
-Dialogue: 0,0:10:17.13,0:10:21.10,saint tail default,,0,0,0,,{TIME:617138,621100}It forbids buying and selling\Nprotected animals…
-Dialogue: 0,0:10:21.35,0:10:22.93,saint tail default,,0,0,0,,{TIME:621350,622935}…and punishes poachers.
-Dialogue: 0,0:10:23.14,0:10:28.52,saint tail default,,0,0,0,,{TIME:623144,628524}Right. And the owner of this\Nrestaurant is breaking the treaty.
-Dialogue: 0,0:10:28.85,0:10:32.52,saint tail default,,0,0,0,,{TIME:628858,632528}They're running a black market\Nof protected animals.
-Dialogue: 0,0:10:32.73,0:10:36.32,saint tail default,,0,0,0,,{TIME:632736,636323}– A black market?\N– Be quiet!
-Dialogue: 0,0:10:36.53,0:10:38.70,saint tail default,,0,0,0,,{TIME:636532,638701}Did you get the evidence?
-Dialogue: 0,0:10:39.41,0:10:42.66,saint tail default,,0,0,0,,{TIME:639410,642663}Can't you tell by looking\Nat this outfit? Kids!
-Dialogue: 0,0:10:42.87,0:10:44.66,saint tail default,,0,0,0,,{TIME:642872,644665}Why'd I have to meet you?
-Dialogue: 0,0:10:44.87,0:10:48.54,saint tail default,,0,0,0,,{TIME:644874,648544}If you've got a problem,\Ntell it to St. Tail!
-Dialogue: 0,0:10:48.75,0:10:51.50,saint tail default,,0,0,0,,{TIME:648752,651505}Is something the matter?
-Dialogue: 0,0:10:52.04,0:10:54.21,saint tail default,,0,0,0,,{TIME:652047,654216}Oh, it's nothing.
-Dialogue: 0,0:10:54.42,0:10:56.84,saint tail default,,0,0,0,,{TIME:654425,656844}Ouch!
-Dialogue: 0,0:10:58.01,0:11:00.22,saint tail default,,0,0,0,,{TIME:658012,660222}Dad, I'll remember this!
-Dialogue: 0,0:11:00.89,0:11:03.85,saint tail default,,0,0,0,,{TIME:660890,663851}It's nothing.
+Dialogue: 0,0:01:47.29,0:01:50.00,saint tail default,,0,0,0,,{TIME:107295,110006}We haven't dined out for a while.
+Dialogue: 0,0:01:50.38,0:01:53.88,saint tail default,,0,0,0,,{TIME:110381,113885}Let's make the best of it\Nby eating something great.
+Dialogue: 0,0:01:53.88,0:01:56.47,saint tail default,,0,0,0,,{TIME:113885,116471}But there's a long line everywhere.
+Dialogue: 0,0:01:56.72,0:01:58.93,saint tail default,,0,0,0,,{TIME:116721,118931}Leave it to me! I know a place.
+Dialogue: 0,0:02:01.26,0:02:02.89,saint tail default,,0,0,0,,{TIME:121267,122894}Well, here we are.
+Dialogue: 0,0:02:03.26,0:02:06.06,saint tail default,,0,0,0,,{TIME:123269,126064}Tsujimoto Mansion? It looks pricey.
+Dialogue: 0,0:02:06.06,0:02:09.35,saint tail default,,0,0,0,,{TIME:126064,129359}– Don't worry. Father's paying.\N– What?
+Dialogue: 0,0:02:17.28,0:02:18.99,saint tail default,,0,0,0,,{TIME:137283,138993}Are you sure it's okay?
+Dialogue: 0,0:02:19.45,0:02:24.45,saint tail default,,0,0,0,,{TIME:139452,144457}I came here a few years ago.\NTheir rice gruel is delicious!
+Dialogue: 0,0:02:24.95,0:02:27.41,saint tail default,,0,0,0,,{TIME:144957,147418}Reasonable prices, nice owner.
+Dialogue: 0,0:02:27.91,0:02:30.88,saint tail default,,0,0,0,,{TIME:147919,150880}But something's strange.\NDid they redecorate?
+Dialogue: 0,0:02:34.09,0:02:38.80,saint tail default,,0,0,0,,{TIME:154092,158805}I'm sorry, but we don't take\Ncustomers without reservations.
+Dialogue: 0,0:02:39.13,0:02:43.89,saint tail default,,0,0,0,,{TIME:159138,163893}I don't remember needing one.\NIsn't the chef Mr. Tsujimoto?
+Dialogue: 0,0:02:43.89,0:02:47.73,saint tail default,,0,0,0,,{TIME:163893,167730}That is correct,\Nbut the owner has changed.
+Dialogue: 0,0:02:48.52,0:02:52.23,saint tail default,,0,0,0,,{TIME:168523,172235}I'm Ookura, the owner. Is there\Nsomething I can do for you?
+Dialogue: 0,0:02:52.77,0:02:55.57,saint tail default,,0,0,0,,{TIME:172777,175571}Is it true you need\Na reservation to eat here?
+Dialogue: 0,0:02:56.03,0:03:02.03,saint tail default,,0,0,0,,{TIME:176030,182036}We only prepare meals for\Nthree groups of customers per day.
+Dialogue: 0,0:03:02.57,0:03:04.99,saint tail default,,0,0,0,,{TIME:182578,184997}So we refuse those\Nwith no reservations.
+Dialogue: 0,0:03:04.99,0:03:07.25,saint tail default,,0,0,0,,{TIME:184997,187250}That's why there's no line.
+Dialogue: 0,0:03:07.83,0:03:12.71,saint tail default,,0,0,0,,{TIME:187834,192714}If you want to eat here, please make\Na reservation and come again.
+Dialogue: 0,0:03:12.96,0:03:14.71,saint tail default,,0,0,0,,{TIME:192964,194716}And when would that be?
+Dialogue: 0,0:03:15.09,0:03:17.38,saint tail default,,0,0,0,,{TIME:195091,197385}Probably about three years.
+Dialogue: 0,0:03:17.38,0:03:19.13,saint tail default,,0,0,0,,{TIME:197385,199137}Three years?
+Dialogue: 0,0:03:19.92,0:03:21.34,saint tail default,,0,0,0,,{TIME:199929,201347}We look forward to your visit.
+Dialogue: 0,0:03:25.01,0:03:27.64,saint tail default,,0,0,0,,{TIME:205017,207645}That owner has such a rude attitude!
+Dialogue: 0,0:03:27.64,0:03:33.56,saint tail default,,0,0,0,,{TIME:207645,213568}Some cuisine critic must have praised\Nthem and it's gone to their heads!
+Dialogue: 0,0:03:33.56,0:03:35.23,saint tail default,,0,0,0,,{TIME:213568,215236}Well, well…
+Dialogue: 0,0:03:38.86,0:03:41.20,saint tail default,,0,0,0,,{TIME:218865,221200}Let's get ahold of our feelings.
+Dialogue: 0,0:03:48.08,0:03:50.33,saint tail default,[title],0,0,0,,{TIME:228082,230334}Steal the Chinese Iron Chef!
+Dialogue: 0,0:03:53.50,0:03:54.63,saint tail default,,0,0,0,,{TIME:233504,234630}Good morning!
+Dialogue: 0,0:03:55.00,0:03:58.05,saint tail default,,0,0,0,,{TIME:235006,238050}That place has the greatest sauce!
+Dialogue: 0,0:03:58.05,0:03:59.51,saint tail default,,0,0,0,,{TIME:238050,239510}It's delicious!
+Dialogue: 0,0:03:59.51,0:04:00.21,saint tail default,,0,0,0,,{TIME:239510,240219}What's this?
+Dialogue: 0,0:04:00.76,0:04:04.43,saint tail default,,0,0,0,,{TIME:240762,244432}A new octopus fritter shop\Nnear the train station.
+Dialogue: 0,0:04:04.43,0:04:09.14,saint tail default,,0,0,0,,{TIME:244432,249145}We're discussing whether that one\Nor the one near the park is better.
+Dialogue: 0,0:04:09.68,0:04:13.56,saint tail default,,0,0,0,,{TIME:249687,253566}– What do you think?\N– Maybe the one near the park.
+Dialogue: 0,0:04:14.06,0:04:18.40,saint tail default,,0,0,0,,{TIME:254066,258404}See, I told you! That's a taste\Nthat's hard to come by.
+Dialogue: 0,0:04:18.40,0:04:20.90,saint tail default,,0,0,0,,{TIME:258404,260907}Hey, how about this?
+Dialogue: 0,0:04:20.90,0:04:24.49,saint tail default,,0,0,0,,{TIME:260907,264494}Let's stop by there after\Nschool for a small snack.
+Dialogue: 0,0:04:24.91,0:04:28.20,saint tail default,,0,0,0,,{TIME:264911,268206}How can you talk about that\Nso early in the morning?
+Dialogue: 0,0:04:28.20,0:04:31.00,saint tail default,,0,0,0,,{TIME:268206,271000}Something's wrong\Nwith your stomachs.
+Dialogue: 0,0:04:30.95,0:04:32.12,saint tail default,,0,0,0,,{TIME:270958,272126}What did you say?
+Dialogue: 0,0:04:32.33,0:04:37.29,saint tail default,,0,0,0,,{TIME:272335,277298}Aren't I right? You're all going\Nto end up with faces like this!
+Dialogue: 0,0:04:37.88,0:04:42.34,saint tail default,,0,0,0,,{TIME:277882,282345}How rude! And you're taking\Nforever to catch St. Tail!
+Dialogue: 0,0:04:42.34,0:04:43.80,saint tail default,,0,0,0,,{TIME:282345,283805}Now you've said it!
+Dialogue: 0,0:04:43.80,0:04:46.68,saint tail default,,0,0,0,,{TIME:283805,286682}You don't know\Nif they're friends or not.
+Dialogue: 0,0:04:55.56,0:04:57.56,saint tail default,,0,0,0,,{TIME:295566,297568}Wasn't that Miss Sato?
+Dialogue: 0,0:04:57.94,0:05:03.95,saint tail default,,0,0,0,,{TIME:297944,303950}Yes. She came to ask us\Nfor help with her grandmother.
+Dialogue: 0,0:05:03.95,0:05:08.99,saint tail default,,0,0,0,,{TIME:303950,308996}Her grandmother has been in the\Nhospital for a very long time.
+Dialogue: 0,0:05:09.62,0:05:13.79,saint tail default,,0,0,0,,{TIME:309622,313793}Lately she's lost her appetite\Nand can't get out of bed.
+Dialogue: 0,0:05:13.79,0:05:18.33,saint tail default,,0,0,0,,{TIME:313793,318339}Feeling sorry for her, Miss Sato\Nasked what she wanted to eat.
+Dialogue: 0,0:05:18.54,0:05:22.55,saint tail default,,0,0,0,,{TIME:318548,322552}There was something she wanted\Nto eat again while she was alive.
+Dialogue: 0,0:05:23.26,0:05:26.51,saint tail default,,0,0,0,,{TIME:323261,326514}– What could it be?\N– Rice gruel.
+Dialogue: 0,0:05:26.51,0:05:27.76,saint tail default,,0,0,0,,{TIME:326514,327765}Rice gruel?
+Dialogue: 0,0:05:27.76,0:05:28.68,saint tail default,,0,0,0,,{TIME:327765,328683}Yes.
+Dialogue: 0,0:05:28.68,0:05:32.10,saint tail default,,0,0,0,,{TIME:328683,332103}It's an unforgettable dish\Nan old boyfriend made.
+Dialogue: 0,0:05:32.10,0:05:36.35,saint tail default,,0,0,0,,{TIME:332103,336357}The story goes back to when\Nthe grandmother was young.
+Dialogue: 0,0:05:36.35,0:05:40.19,saint tail default,,0,0,0,,{TIME:336357,340194}She fell in love with a young chef.
+Dialogue: 0,0:05:40.19,0:05:42.90,saint tail default,,0,0,0,,{TIME:340194,342905}But they were destined\Nto be torn apart.
+Dialogue: 0,0:05:43.40,0:05:48.36,saint tail default,,0,0,0,,{TIME:343406,348369}{\i1}Goodbye. My parents have decided\Non a fiance I am to wed.
+Dialogue: 0,0:05:50.12,0:05:51.49,saint tail default,,0,0,0,,{TIME:350121,351497}Chiyo!
+Dialogue: 0,0:05:51.99,0:05:53.45,saint tail default,,0,0,0,,{TIME:351998,353457}Ajinosuke!
+Dialogue: 0,0:05:53.45,0:05:55.50,saint tail default,,0,0,0,,{TIME:353457,355501}Chiyo!
+Dialogue: 0,0:05:56.96,0:05:58.46,saint tail default,,0,0,0,,{TIME:356961,358462}Chiyo!
+Dialogue: 0,0:05:58.88,0:06:00.92,saint tail default,,0,0,0,,{TIME:358880,360923}Ajinosuke!
+Dialogue: 0,0:06:01.29,0:06:03.38,saint tail default,,0,0,0,,{TIME:361299,363384}Chiyo!
+Dialogue: 0,0:06:11.05,0:06:16.06,saint tail default,,0,0,0,,{TIME:371058,376063}That was the last time she saw him.
+Dialogue: 0,0:06:18.19,0:06:22.52,saint tail default,,0,0,0,,{TIME:378190,382528}Recently she found out that\Nhe became a famous chef
+Dialogue: 0,0:06:22.52,0:06:25.48,saint tail default,,0,0,0,,{TIME:382528,385489}and opened a restaurant here.
+Dialogue: 0,0:06:25.48,0:06:29.70,saint tail default,,0,0,0,,{TIME:385489,389702}But the grandmother is in no\Ncondition to leave the hospital.
+Dialogue: 0,0:06:29.70,0:06:33.83,saint tail default,,0,0,0,,{TIME:389702,393831}For her sake Miss Sato\Nkept going to the restaurant.
+Dialogue: 0,0:06:34.08,0:06:36.54,saint tail default,,0,0,0,,{TIME:394081,396542}But she hasn't been\Nable to meet him.
+Dialogue: 0,0:06:36.87,0:06:38.50,saint tail default,,0,0,0,,{TIME:396876,398502}That's just terrible.
+Dialogue: 0,0:06:38.79,0:06:42.46,saint tail default,,0,0,0,,{TIME:398794,402465}No, the one who 's terrible\Nis the restaurant owner.
+Dialogue: 0,0:06:43.09,0:06:46.92,saint tail default,,0,0,0,,{TIME:403090,406928}Business has been bad\Nsince the new owner took it over.
+Dialogue: 0,0:06:47.17,0:06:50.89,saint tail default,,0,0,0,,{TIME:407178,410890}He's gone against every\Nwish the chef has.
+Dialogue: 0,0:06:50.89,0:06:54.56,saint tail default,,0,0,0,,{TIME:410890,414560}He's even made sure that this story\Nhasn't reached the chef's ears.
+Dialogue: 0,0:06:55.72,0:06:57.85,saint tail default,,0,0,0,,{TIME:415728,417855}Do you mean Tsujimoto Mansion?
+Dialogue: 0,0:06:58.27,0:07:03.73,saint tail default,,0,0,0,,{TIME:418272,423736}That's right. The chef is Ajinosuke\NTsujimoto, the Chinese Iron Chef.
+Dialogue: 0,0:07:04.27,0:07:06.94,saint tail default,,0,0,0,,{TIME:424278,426948}But how do you know\Nof the restaurant?
+Dialogue: 0,0:07:07.19,0:07:08.82,saint tail default,,0,0,0,,{TIME:427198,428824}Just a tiny incident.
+Dialogue: 0,0:07:08.82,0:07:12.41,saint tail default,,0,0,0,,{TIME:428824,432411}The grandmother's wish is\Nto eat his cooking, but…
+Dialogue: 0,0:07:12.95,0:07:15.28,saint tail default,,0,0,0,,{TIME:432954,435289}She really wants to see him.
+Dialogue: 0,0:07:15.28,0:07:18.37,saint tail default,,0,0,0,,{TIME:435289,438376}Leave it to me!\NSt. Tail will make it happen.
+Dialogue: 0,0:07:24.63,0:07:30.72,saint tail default,,0,0,0,,{TIME:444632,450721}Those girls only think about eating.\NThey have no sex appeal. What?
+Dialogue: 0,0:07:33.55,0:07:35.76,saint tail default,,0,0,0,,{TIME:453557,455768}Asuka, let's stop here before we go!
+Dialogue: 0,0:07:35.76,0:07:37.14,saint tail default,,0,0,0,,{TIME:455768,457144}Hey, guys.
+Dialogue: 0,0:07:37.14,0:07:39.98,saint tail default,,0,0,0,,{TIME:457144,459981}Look! It's a message from St. Tail!
+Dialogue: 0,0:07:39.98,0:07:41.23,saint tail default,,0,0,0,,{TIME:459981,461232}What?
+Dialogue: 0,0:07:43.94,0:07:48.57,saint tail default,,0,0,0,,{TIME:463943,468572}"Tonight I will be stealing\Nthe Chinese Iron Chef. – St. Tail"
+Dialogue: 0,0:07:49.15,0:07:53.20,saint tail default,,0,0,0,,{TIME:469156,473202}Didn't think St. Tail was\Na gourmet fan, did you, Asuka?
+Dialogue: 0,0:07:53.20,0:07:55.74,saint tail default,,0,0,0,,{TIME:473202,475746}Sorry, guys. See you tomorrow!
+Dialogue: 0,0:08:07.04,0:08:10.55,saint tail default,,0,0,0,,{TIME:487049,490553}You're saying that St. Tail's\Ngoing to steal the chef?
+Dialogue: 0,0:08:10.55,0:08:13.13,saint tail default,,0,0,0,,{TIME:490553,493139}Well, that is a great honor.
+Dialogue: 0,0:08:13.13,0:08:17.35,saint tail default,,0,0,0,,{TIME:493139,497351}Don't joke. You will cooperate\Nwith us in her arrest, right?
+Dialogue: 0,0:08:17.76,0:08:21.56,saint tail default,,0,0,0,,{TIME:497768,501564}Yes, most certainly.\NLet me introduce you. Tsujimoto.
+Dialogue: 0,0:08:22.06,0:08:26.48,saint tail default,,0,0,0,,{TIME:502064,506485}This is the Chinese Iron Chef\Nhimself, Ajinosuke Tsujimoto.
+Dialogue: 0,0:08:26.77,0:08:29.78,saint tail default,,0,0,0,,{TIME:506777,509780}This is Asuka Jr.
+Dialogue: 0,0:08:29.78,0:08:33.45,saint tail default,,0,0,0,,{TIME:509780,513451}A pleasure. I am guarding you\Nfrom St. Tail today.
+Dialogue: 0,0:08:33.86,0:08:35.24,saint tail default,,0,0,0,,{TIME:513868,515244}St. Tail?
+Dialogue: 0,0:08:35.49,0:08:38.16,saint tail default,,0,0,0,,{TIME:515494,518164}Yes. Tonight, please do as I ask.
+Dialogue: 0,0:08:43.41,0:08:45.08,saint tail default,,0,0,0,,{TIME:523419,525087}A master chef.
+Dialogue: 0,0:08:54.18,0:08:55.01,saint tail default,,0,0,0,,{TIME:534180,535014}You little goof.
+Dialogue: 0,0:09:05.19,0:09:06.15,saint tail default,,0,0,0,,{TIME:545191,546150}Here.
+Dialogue: 0,0:09:08.69,0:09:10.32,saint tail default,,0,0,0,,{TIME:548694,550321}Thank you very much!
+Dialogue: 0,0:09:11.82,0:09:12.94,saint tail default,,0,0,0,,{TIME:551822,552948}Delicious!
+Dialogue: 0,0:09:12.94,0:09:14.86,saint tail default,,0,0,0,,{TIME:552948,554867}Your name is Asuka, right?
+Dialogue: 0,0:09:14.86,0:09:15.57,saint tail default,,0,0,0,,{TIME:554867,555576}Yes.
+Dialogue: 0,0:09:15.57,0:09:18.28,saint tail default,,0,0,0,,{TIME:555576,558287}Is St. Tail really going\Nto capture me?
+Dialogue: 0,0:09:18.70,0:09:23.25,saint tail default,,0,0,0,,{TIME:558704,563250}Yes, but there's nothing to worry\Nabout. I'm going to get her for sure.
+Dialogue: 0,0:09:27.54,0:09:29.21,saint tail default,,0,0,0,,{TIME:567546,569215}I'm sorry.
+Dialogue: 0,0:09:52.15,0:09:55.19,saint tail default,,0,0,0,,{TIME:592154,595199}Dad! What are you doing!
+Dialogue: 0,0:09:55.19,0:09:57.15,saint tail default,,0,0,0,,{TIME:595199,597159}That's my line!
+Dialogue: 0,0:09:57.15,0:09:59.45,saint tail default,,0,0,0,,{TIME:597159,599453}I came after St. Tail.
+Dialogue: 0,0:09:59.45,0:10:01.74,saint tail default,,0,0,0,,{TIME:599453,601747}St. Tail is coming here?
+Dialogue: 0,0:10:01.74,0:10:02.41,saint tail default,,0,0,0,,{TIME:601747,602414}Yeah.
+Dialogue: 0,0:10:02.41,0:10:05.41,saint tail default,,0,0,0,,{TIME:602414,605417}– That's not good.\N– What's wrong?
+Dialogue: 0,0:10:06.00,0:10:09.88,saint tail default,,0,0,0,,{TIME:606001,609880}– You know of the Washington Treaty?\N– Washington Treaty?
+Dialogue: 0,0:10:10.54,0:10:17.42,saint tail default,,0,0,0,,{TIME:610548,617429}Oh, it's to protect animals like koalas\Nand pandas from bad hunters, isn't it?
+Dialogue: 0,0:10:17.42,0:10:23.26,saint tail default,,0,0,0,,{TIME:617429,623269}It forbids buying and selling protected\Nanimals and punishes poachers.
+Dialogue: 0,0:10:23.26,0:10:28.69,saint tail default,,0,0,0,,{TIME:623269,628691}Right. And the owner of this\Nrestaurant is breaking the treaty.
+Dialogue: 0,0:10:29.19,0:10:32.65,saint tail default,,0,0,0,,{TIME:629191,632653}They're running a black market\Nof protected animals.
+Dialogue: 0,0:10:33.02,0:10:34.61,saint tail default,,0,0,0,,{TIME:633028,634613}A black market?!
+Dialogue: 0,0:10:34.61,0:10:36.65,saint tail default,,0,0,0,,{TIME:634613,636657}Be quiet!
+Dialogue: 0,0:10:36.65,0:10:38.86,saint tail default,,0,0,0,,{TIME:636657,638868}Did you get the evidence?
+Dialogue: 0,0:10:39.66,0:10:42.95,saint tail default,,0,0,0,,{TIME:639660,642955}Can't you tell by looking\Nat this outfit? Kids!
+Dialogue: 0,0:10:42.95,0:10:44.83,saint tail default,,0,0,0,,{TIME:642955,644832}Why'd I have to meet you?
+Dialogue: 0,0:10:44.95,0:10:48.91,saint tail default,,0,0,0,,{TIME:644957,648919}If you've got a problem,\Ntell it to St. Tail!
+Dialogue: 0,0:10:48.91,0:10:50.79,saint tail default,,0,0,0,,{TIME:648919,650796}Is something the matter?
+Dialogue: 0,0:10:52.04,0:10:54.59,saint tail default,,0,0,0,,{TIME:652047,654592}Oh, it's nothing.
+Dialogue: 0,0:10:54.59,0:10:56.05,saint tail default,,0,0,0,,{TIME:654592,656051}Ouch!
+Dialogue: 0,0:10:57.97,0:11:00.38,saint tail default,,0,0,0,,{TIME:657970,660389}{\i1}Dad, I'll remember this!
+Dialogue: 0,0:11:01.01,0:11:03.01,saint tail default,,0,0,0,,{TIME:661015,663017}It's nothing.
 Comment: 0,0:11:09.69,0:11:09.69,[chapter],[chapter],0,0,0,,{TIME:669690,669690}Eyecatch A
 Comment: 0,0:11:15.69,0:11:15.69,[chapter],[chapter],0,0,0,,{TIME:675696,675696}Eyecatch B
 Comment: 0,0:11:20.70,0:11:20.70,[chapter],[chapter],0,0,0,,{TIME:680701,680701}Part B
-Dialogue: 0,0:11:23.78,0:11:25.74,saint tail default,,0,0,0,,{TIME:683787,685748}Meimi isn't coming down?
-Dialogue: 0,0:11:25.95,0:11:28.33,saint tail default,,0,0,0,,{TIME:685956,688334}She's got a ton of homework.
-Dialogue: 0,0:11:28.70,0:11:32.25,saint tail default,,0,0,0,,{TIME:688709,692254}I was going to teach Meimi\Nsome card tricks.
-Dialogue: 0,0:11:32.83,0:11:37.25,saint tail default,,0,0,0,,{TIME:692838,697259}No, you don't. You're trying to get\NMeimi to take after you again!
-Dialogue: 0,0:11:37.80,0:11:41.72,saint tail default,,0,0,0,,{TIME:697801,701722}What's wrong with that?\NShe has talented hands, like me.
-Dialogue: 0,0:11:41.97,0:11:44.68,saint tail default,,0,0,0,,{TIME:701972,704683}What? She got her talent from me.
-Dialogue: 0,0:11:44.89,0:11:48.85,saint tail default,,0,0,0,,{TIME:704892,708854}As usual, they're getting along fine.
-Dialogue: 0,0:11:54.10,0:11:57.07,saint tail default,,0,0,0,,{TIME:714109,717071}Ruby, be a good girl now.
-Dialogue: 0,0:12:07.87,0:12:11.58,saint tail default,,0,0,0,,{TIME:727873,731585}Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
-Dialogue: 0,0:12:16.63,0:12:18.38,saint tail default,,0,0,0,,{TIME:736632,738384}One!
-Dialogue: 0,0:12:20.21,0:12:22.01,saint tail default,,0,0,0,,{TIME:740219,742012}Two!
-Dialogue: 0,0:12:23.38,0:12:26.10,saint tail default,,0,0,0,,{TIME:743389,746100}Three!
-Dialogue: 0,0:12:39.15,0:12:44.53,saint tail default,,0,0,0,,{TIME:759154,764535}Be careful. There are many other\Nbad rumors about Tsujimoto Mansion.
-Dialogue: 0,0:12:44.74,0:12:46.16,saint tail default,,0,0,0,,{TIME:764743,766161}Don't worry, I know!
-Dialogue: 0,0:12:48.41,0:12:52.12,saint tail default,,0,0,0,,{TIME:768414,772126}May the blessings of God be with us.
-Dialogue: 0,0:13:15.81,0:13:19.94,saint tail default,,0,0,0,,{TIME:795816,799945}– What's with all the police?\N– St. Tail is supposed to come.
-Dialogue: 0,0:13:20.15,0:13:23.65,saint tail default,,0,0,0,,{TIME:800154,803657}St. Tail? Then today's deal is…?
-Dialogue: 0,0:13:24.36,0:13:26.99,saint tail default,,0,0,0,,{TIME:804366,806994}Don't worry.\NHer target is the chef.
-Dialogue: 0,0:13:27.20,0:13:31.91,saint tail default,,0,0,0,,{TIME:807202,811915}And don't you think a racket\Nlike that is to our advantage?
-Dialogue: 0,0:13:32.12,0:13:34.25,saint tail default,,0,0,0,,{TIME:812124,814251}Hurry and sit.
-Dialogue: 0,0:13:37.08,0:13:39.75,saint tail default,,0,0,0,,{TIME:817087,819757}– Who are they?\N– Today's customers.
-Dialogue: 0,0:13:39.96,0:13:42.71,saint tail default,,0,0,0,,{TIME:819965,822718}– Are there others?\N– This is all.
-Dialogue: 0,0:13:42.92,0:13:47.76,saint tail default,,0,0,0,,{TIME:822926,827765}Then please close the shutters\Nuntil the meal ends.
-Dialogue: 0,0:14:19.33,0:14:21.54,saint tail default,,0,0,0,,{TIME:859338,861548}I thought so. Just chickens.
-Dialogue: 0,0:14:25.88,0:14:28.97,saint tail default,,0,0,0,,{TIME:865886,868972}Please enjoy this evening's feast.
-Dialogue: 0,0:14:31.80,0:14:33.64,saint tail default,,0,0,0,,{TIME:871809,873644}What's this? A blackout?
-Dialogue: 0,0:14:33.85,0:14:37.68,saint tail default,,0,0,0,,{TIME:873852,877689}– Turn the lights on!\N– I can't! They won't go on!
-Dialogue: 0,0:14:38.14,0:14:41.90,saint tail default,,0,0,0,,{TIME:878148,881902}The dinner will be put off\Nfor another day!
-Dialogue: 0,0:14:42.11,0:14:45.15,saint tail default,,0,0,0,,{TIME:882111,885155}Where are you, St. Tail?
-Dialogue: 0,0:14:45.36,0:14:48.11,saint tail default,,0,0,0,,{TIME:885364,888117}Chef, don't let go of my hand!
-Dialogue: 0,0:14:50.91,0:14:52.70,saint tail default,,0,0,0,,{TIME:890911,892704}That's the chef.
-Dialogue: 0,0:14:59.92,0:15:05.88,saint tail default,,0,0,0,,{TIME:899920,905884}It's showtime!
-Dialogue: 0,0:15:24.19,0:15:26.15,saint tail default,,0,0,0,,{TIME:924194,926155}What are these things?!
-Dialogue: 0,0:15:26.69,0:15:30.11,saint tail default,,0,0,0,,{TIME:926697,930117}Chef! Take refuge in\Nthe storage room! This way!
-Dialogue: 0,0:15:32.78,0:15:35.24,saint tail default,,0,0,0,,{TIME:932786,935247}You won't escape.
-Dialogue: 0,0:15:37.24,0:15:38.62,saint tail default,,0,0,0,,{TIME:937249,938625}Oh, no!
-Dialogue: 0,0:15:40.37,0:15:42.58,saint tail default,,0,0,0,,{TIME:940377,942588}That's far enough, St. Tail!
-Dialogue: 0,0:15:42.96,0:15:46.13,saint tail default,,0,0,0,,{TIME:942963,946133}You thought you cornered me,\Nbut now I've got you!
-Dialogue: 0,0:15:46.34,0:15:50.76,saint tail default,,0,0,0,,{TIME:946341,950762}Imagine catching St. Tail in\Na place like this! What luck!
-Dialogue: 0,0:16:01.27,0:16:05.11,saint tail default,,0,0,0,,{TIME:961273,965110}One! Two! Three!
-Dialogue: 0,0:16:23.58,0:16:26.21,saint tail default,,0,0,0,,{TIME:983587,986215}Are the animals all right?
-Dialogue: 0,0:16:27.38,0:16:30.67,saint tail default,,0,0,0,,{TIME:987382,990677}The animals—\NI mean, is the chef all right?
-Dialogue: 0,0:16:31.26,0:16:34.38,saint tail default,,0,0,0,,{TIME:991261,994389}The chef is fine as of now.
-Dialogue: 0,0:16:34.64,0:16:37.35,saint tail default,,0,0,0,,{TIME:994640,997351}"I'll be taking the Iron Chef.\N– St. Tail"
-Dialogue: 0,0:16:37.89,0:16:39.43,saint tail default,,0,0,0,,{TIME:997893,999436}Darn!
-Dialogue: 0,0:16:45.35,0:16:51.19,saint tail default,,0,0,0,,{TIME:1005359,1011198}This is a baby bald eagle\Nillegally imported into Japan!
-Dialogue: 0,0:16:55.41,0:16:56.82,saint tail default,,0,0,0,,{TIME:1015410,1016828}This is….
-Dialogue: 0,0:16:59.62,0:17:01.66,saint tail default,,0,0,0,,{TIME:1019623,1021667}A lesser panda!
-Dialogue: 0,0:17:04.41,0:17:09.13,saint tail default,,0,0,0,,{TIME:1024419,1029132}That was wise of you to camouflage\Nthese protected animals.
-Dialogue: 0,0:17:09.34,0:17:12.38,saint tail default,,0,0,0,,{TIME:1029341,1032386}What are you talking about?
-Dialogue: 0,0:17:12.59,0:17:16.51,saint tail default,,0,0,0,,{TIME:1032594,1036515}Cut the act.\NYou're under arrest, Ohkura.
-Dialogue: 0,0:17:23.43,0:17:25.48,saint tail default,,0,0,0,,{TIME:1043438,1045482}What will you do with me?
-Dialogue: 0,0:17:26.27,0:17:31.11,saint tail default,,0,0,0,,{TIME:1046275,1051113}– It's not me who wants to see you.\N– Then who?
-Dialogue: 0,0:17:34.65,0:17:38.62,saint tail default,,0,0,0,,{TIME:1054658,1058620}Your girlfriend from 50 years ago.
-Dialogue: 0,0:17:49.92,0:17:51.88,saint tail default,,0,0,0,,{TIME:1069923,1071883}This is….
-Dialogue: 0,0:18:23.83,0:18:25.75,saint tail default,,0,0,0,,{TIME:1103832,1105751}Here you are.
-Dialogue: 0,0:18:33.05,0:18:36.42,saint tail default,,0,0,0,,{TIME:1113050,1116428}It's the same taste as\N50 years ago, Ajinosuke.
-Dialogue: 0,0:18:37.05,0:18:38.68,saint tail default,,0,0,0,,{TIME:1117054,1118680}Chiyo.
-Dialogue: 0,0:18:39.22,0:18:45.27,saint tail default,,0,0,0,,{TIME:1119222,1125270}It's as if it were only yesterday.\NThe first time I met you, that is.
-Dialogue: 0,0:18:53.02,0:18:56.07,saint tail default,,0,0,0,,{TIME:1133028,1136073}Excuse me.\NWill you dance with me?
-Dialogue: 0,0:18:57.32,0:18:58.61,saint tail default,,0,0,0,,{TIME:1137324,1138617}Yes.
-Dialogue: 0,0:19:15.96,0:19:21.09,saint tail default,,0,0,0,,{TIME:1155967,1161098}Did you see today's paper? The animals\Nwere returned to their homeland.
-Dialogue: 0,0:19:21.30,0:19:25.06,saint tail default,,0,0,0,,{TIME:1161306,1165060}And Ohkura and the others\Nwere arrested. Case closed!
-Dialogue: 0,0:19:25.26,0:19:30.27,saint tail default,,0,0,0,,{TIME:1165268,1170273}I wonder what happened to the chef.\NTsujimoto Mansion was closed.
-Dialogue: 0,0:19:30.48,0:19:33.27,saint tail default,,0,0,0,,{TIME:1170482,1173276}– Are you interested?\N– Of course!
-Dialogue: 0,0:19:35.44,0:19:37.73,saint tail default,,0,0,0,,{TIME:1175445,1177739}Chinese Food: Shanghai Tei
-Dialogue: 0,0:19:38.74,0:19:42.28,saint tail default,,0,0,0,,{TIME:1178740,1182285}Seira, I'm really not\Nin the mood for noodles.
-Dialogue: 0,0:19:42.49,0:19:44.99,saint tail default,,0,0,0,,{TIME:1182494,1184996}Isn't it Meimi and Seira?
-Dialogue: 0,0:19:45.41,0:19:48.66,saint tail default,,0,0,0,,{TIME:1185414,1188667}– Asuka Jr.!\N– I was thinking of having a meal.
-Dialogue: 0,0:19:48.87,0:19:52.42,saint tail default,,0,0,0,,{TIME:1188875,1192421}I know the owner here.\NAre you two going in?
-Dialogue: 0,0:19:53.08,0:19:56.17,saint tail default,,0,0,0,,{TIME:1193088,1196174}I'll be passing this one up.\NSee you later!
-Dialogue: 0,0:19:56.42,0:19:58.38,saint tail default,,0,0,0,,{TIME:1196425,1198385}– Seira….\N– How about you?
-Dialogue: 0,0:20:05.80,0:20:08.81,saint tail default,,0,0,0,,{TIME:1205809,1208812}Welcome! Oh, it's you.
-Dialogue: 0,0:20:09.02,0:20:13.02,saint tail default,,0,0,0,,{TIME:1209020,1213024}– What does that mean?\N– Is this a date with your girlfriend?
-Dialogue: 0,0:20:13.23,0:20:15.23,saint tail default,,0,0,0,,{TIME:1213233,1215235}No, it's nothing like that!
-Dialogue: 0,0:20:15.65,0:20:20.19,saint tail default,,0,0,0,,{TIME:1215652,1220198}It's empty as usual. At this rate,\Nyou'll close down in no time.
-Dialogue: 0,0:20:20.40,0:20:24.41,saint tail default,,0,0,0,,{TIME:1220407,1224411}Maybe I'll advertise around\Ntown for you. The owner is—
-Dialogue: 0,0:20:24.61,0:20:29.12,saint tail default,,0,0,0,,{TIME:1224619,1229124}– Don't do anything of the sort!\N– Yes. I'm sorry.
-Dialogue: 0,0:20:29.87,0:20:31.41,saint tail default,,0,0,0,,{TIME:1229875,1231418}That's….
-Dialogue: 0,0:20:33.71,0:20:38.50,saint tail default,,0,0,0,,{TIME:1233712,1238508}– Here you go.\N– Eat! The rice gruel here is the best!
-Dialogue: 0,0:20:43.88,0:20:47.76,saint tail default,,0,0,0,,{TIME:1243889,1247768}– Delicious!\N– Didn't I tell you? Let's eat!
-Dialogue: 0,0:20:48.26,0:20:50.97,saint tail default,,0,0,0,,{TIME:1248268,1250979}Hot!
+Dialogue: 0,0:11:24.12,0:11:26.20,saint tail default,,0,0,0,,{TIME:684121,686207}Meimi isn't coming down?
+Dialogue: 0,0:11:26.20,0:11:28.62,saint tail default,,0,0,0,,{TIME:686207,688626}She's got a ton of homework.
+Dialogue: 0,0:11:29.04,0:11:32.58,saint tail default,,0,0,0,,{TIME:689043,692588}I was going to teach Meimi\Nsome card tricks.
+Dialogue: 0,0:11:33.08,0:11:37.55,saint tail default,,0,0,0,,{TIME:693088,697551}No, you don't. You're trying to get\NMeimi to take after you again!
+Dialogue: 0,0:11:37.96,0:11:42.01,saint tail default,,0,0,0,,{TIME:697968,702014}What's wrong with that?\NShe has talented hands, like me.
+Dialogue: 0,0:11:42.22,0:11:44.97,saint tail default,,0,0,0,,{TIME:702223,704975}What? She got her talent from me.
+Dialogue: 0,0:11:45.30,0:11:49.18,saint tail default,,0,0,0,,{TIME:705309,709188}As usual, they're getting along fine.
+Dialogue: 0,0:11:54.36,0:11:57.36,saint tail default,,0,0,0,,{TIME:714360,717363}Ruby, be a good girl now.
+Dialogue: 0,0:12:08.08,0:12:11.87,saint tail default,,0,0,0,,{TIME:728082,731877}Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
+Dialogue: 0,0:12:16.92,0:12:17.88,saint tail default,,0,0,0,,{TIME:736924,737883}One!
+Dialogue: 0,0:12:20.46,0:12:21.55,saint tail default,,0,0,0,,{TIME:740469,741553}Two!
+Dialogue: 0,0:12:23.59,0:12:25.34,saint tail default,,0,0,0,,{TIME:743597,745349}Three!
+Dialogue: 0,0:12:39.40,0:12:44.28,saint tail default,,0,0,0,,{TIME:759405,764285}Be careful. There are many other\Nbad rumors about Tsujimoto Mansion.
+Dialogue: 0,0:12:45.07,0:12:46.49,saint tail default,,0,0,0,,{TIME:765077,766495}Don't worry, I know!
+Dialogue: 0,0:12:48.66,0:12:52.41,saint tail default,,0,0,0,,{TIME:768664,772418}May the blessings of God be with us.
+Dialogue: 0,0:13:16.02,0:13:20.23,saint tail default,,0,0,0,,{TIME:796025,800237}– What's with all the police?\N– St. Tail is supposed to come.
+Dialogue: 0,0:13:20.23,0:13:23.94,saint tail default,,0,0,0,,{TIME:800237,803949}St. Tail? Then I take it\Nthat the today's deal is off?
+Dialogue: 0,0:13:24.53,0:13:27.36,saint tail default,,0,0,0,,{TIME:804533,807369}Don't worry.\NHer target is the chef.
+Dialogue: 0,0:13:27.36,0:13:32.29,saint tail default,,0,0,0,,{TIME:807369,812291}And don't you think a racket\Nlike that is to our advantage?
+Dialogue: 0,0:13:32.29,0:13:34.08,saint tail default,,0,0,0,,{TIME:812291,814084}Hurry and sit.
+Dialogue: 0,0:13:37.29,0:13:38.29,saint tail default,,0,0,0,,{TIME:817296,818297}Who are they?
+Dialogue: 0,0:13:38.29,0:13:40.17,saint tail default,,0,0,0,,{TIME:818297,820174}Today's customers.
+Dialogue: 0,0:13:40.17,0:13:41.25,saint tail default,,0,0,0,,{TIME:820174,821258}Are there others?
+Dialogue: 0,0:13:41.25,0:13:42.59,saint tail default,,0,0,0,,{TIME:821258,822593}This is all.
+Dialogue: 0,0:13:43.34,0:13:46.80,saint tail default,,0,0,0,,{TIME:823344,826805}Then please close the shutters\Nuntil the meal ends.
+Dialogue: 0,0:14:19.75,0:14:21.84,saint tail default,,0,0,0,,{TIME:859755,861840}I thought so. Just chickens.
+Dialogue: 0,0:14:26.17,0:14:29.26,saint tail default,,0,0,0,,{TIME:866178,869264}Please enjoy this evening's feast.
+Dialogue: 0,0:14:32.14,0:14:33.93,saint tail default,,0,0,0,,{TIME:872142,873936}What's this? A blackout?
+Dialogue: 0,0:14:34.22,0:14:38.02,saint tail default,,0,0,0,,{TIME:874228,878023}– Turn the lights on!\N– I can't! They won't go on!
+Dialogue: 0,0:14:38.44,0:14:42.40,saint tail default,,0,0,0,,{TIME:878440,882403}{\i1}The dinner will be put off\Nfor another day!
+Dialogue: 0,0:14:42.40,0:14:44.44,saint tail default,,0,0,0,,{TIME:882403,884446}Where are you, St. Tail?
+Dialogue: 0,0:14:45.61,0:14:48.40,saint tail default,,0,0,0,,{TIME:885614,888409}Chef, don't let go of my hand!
+Dialogue: 0,0:14:51.20,0:14:52.41,saint tail default,,0,0,0,,{TIME:891203,892413}That's the chef.
+Dialogue: 0,0:15:00.21,0:15:05.17,saint tail default,,0,0,0,,{TIME:900212,905175}It's showtime!
+Dialogue: 0,0:15:24.61,0:15:26.44,saint tail default,,0,0,0,,{TIME:924611,926447}What are these things?!
+Dialogue: 0,0:15:26.98,0:15:30.40,saint tail default,,0,0,0,,{TIME:926989,930409}Chef! Take refuge in\Nthe storage room! This way!
+Dialogue: 0,0:15:33.16,0:15:34.49,saint tail default,,0,0,0,,{TIME:933162,934496}You won't escape.
+Dialogue: 0,0:15:37.62,0:15:38.91,saint tail default,,0,0,0,,{TIME:937624,938917}Oh, no!
+Dialogue: 0,0:15:40.66,0:15:42.88,saint tail default,,0,0,0,,{TIME:940669,942880}That's far enough, St. Tail!
+Dialogue: 0,0:15:43.25,0:15:46.63,saint tail default,,0,0,0,,{TIME:943255,946633}You thought you cornered me,\Nbut now I've got you!
+Dialogue: 0,0:15:46.63,0:15:51.05,saint tail default,,0,0,0,,{TIME:946633,951054}Imagine catching St. Tail in\Na place like this! What luck!
+Dialogue: 0,0:16:01.56,0:16:05.19,saint tail default,,0,0,0,,{TIME:961565,965194}One! Two! Three!
+Dialogue: 0,0:16:23.83,0:16:25.04,saint tail default,,0,0,0,,{TIME:983837,985047}Are the animals all right?
+Dialogue: 0,0:16:27.67,0:16:30.96,saint tail default,,0,0,0,,{TIME:987674,990969}The animals—\NI mean, is the chef all right?
+Dialogue: 0,0:16:31.59,0:16:34.68,saint tail default,,0,0,0,,{TIME:991595,994681}The chef is fine as of now.
+Dialogue: 0,0:16:34.93,0:16:37.64,saint tail default,,0,0,0,,{TIME:994932,997643}"I'll be taking\Nthe Iron Chef. – St. Tail"
+Dialogue: 0,0:16:38.18,0:16:39.72,saint tail default,,0,0,0,,{TIME:998185,999728}Darn!
+Dialogue: 0,0:16:45.73,0:16:50.36,saint tail default,,0,0,0,,{TIME:1005734,1010364}This is a baby bald eagle\Nillegally imported into Japan!
+Dialogue: 0,0:16:55.66,0:16:56.82,saint tail default,,0,0,0,,{TIME:1015661,1016828}This is…
+Dialogue: 0,0:16:59.91,0:17:01.95,saint tail default,,0,0,0,,{TIME:1019915,1021959}A lesser panda!
+Dialogue: 0,0:17:04.71,0:17:09.42,saint tail default,,0,0,0,,{TIME:1024711,1029424}That was wise of you to camouflage\Nthese protected animals.
+Dialogue: 0,0:17:09.59,0:17:11.38,saint tail default,,0,0,0,,{TIME:1029591,1031385}What are you talking about?
+Dialogue: 0,0:17:12.88,0:17:15.59,saint tail default,,0,0,0,,{TIME:1032886,1035597}Cut the act.\NYou're under arrest, Ookura.
+Dialogue: 0,0:17:23.85,0:17:25.77,saint tail default,,0,0,0,,{TIME:1043855,1045774}What will you do with me?
+Dialogue: 0,0:17:26.52,0:17:29.77,saint tail default,,0,0,0,,{TIME:1046525,1049778}– It's not me who wants to see you.\N– Then who?
+Dialogue: 0,0:17:34.90,0:17:38.95,saint tail default,,0,0,0,,{TIME:1054908,1058954}Your girlfriend from 50 years ago.
+Dialogue: 0,0:17:50.21,0:17:52.21,saint tail default,,0,0,0,,{TIME:1070215,1072217}This is…
+Dialogue: 0,0:18:24.08,0:18:25.33,saint tail default,,0,0,0,,{TIME:1104082,1105334}Here you are.
+Dialogue: 0,0:18:33.30,0:18:36.72,saint tail default,,0,0,0,,{TIME:1113300,1116720}It's the same taste as\N50 years ago, Ajinosuke.
+Dialogue: 0,0:18:37.30,0:18:38.97,saint tail default,,0,0,0,,{TIME:1117304,1118972}Chiyo.
+Dialogue: 0,0:18:39.47,0:18:44.85,saint tail default,,0,0,0,,{TIME:1119473,1124853}It's as if it were only yesterday.\NThe first time I met you, that is.
+Dialogue: 0,0:18:53.32,0:18:56.36,saint tail default,,0,0,0,,{TIME:1133320,1136365}Excuse me.\NWill you dance with me?
+Dialogue: 0,0:18:57.61,0:18:58.90,saint tail default,,0,0,0,,{TIME:1137616,1138909}Yes.
+Dialogue: 0,0:19:16.25,0:19:21.39,saint tail default,,0,0,0,,{TIME:1156259,1161390}Did you see today's paper? The animals\Nwere returned to their homeland.
+Dialogue: 0,0:19:21.76,0:19:25.35,saint tail default,,0,0,0,,{TIME:1161765,1165352}And Ookura and the others\Nwere arrested. Case closed!
+Dialogue: 0,0:19:25.68,0:19:30.56,saint tail default,,0,0,0,,{TIME:1165686,1170565}I wonder what happened to the chef.\NTsujimoto Mansion was closed.
+Dialogue: 0,0:19:30.85,0:19:32.23,saint tail default,,0,0,0,,{TIME:1170857,1172234}Are you interested?
+Dialogue: 0,0:19:32.23,0:19:33.56,saint tail default,,0,0,0,,{TIME:1172234,1173568}Of course!
+Dialogue: 0,0:19:35.57,0:19:38.03,saint tail sign,(sign),0,0,0,,{TIME:1175570,1178031}Chinese Food: Shanghai Tei
+Dialogue: 0,0:19:38.99,0:19:42.70,saint tail default,,0,0,0,,{TIME:1178990,1182703}Seira, I'm really not\Nin the mood for noodles.
+Dialogue: 0,0:19:42.70,0:19:45.24,saint tail default,,0,0,0,,{TIME:1182703,1185247}Isn't it Meimi and Seira?
+Dialogue: 0,0:19:45.66,0:19:48.95,saint tail default,,0,0,0,,{TIME:1185664,1188959}– Asuka Jr.!\N– I was thinking of having a meal.
+Dialogue: 0,0:19:48.95,0:19:52.71,saint tail default,,0,0,0,,{TIME:1188959,1192713}I know the owner here.\NAre you two going in?
+Dialogue: 0,0:19:53.33,0:19:56.63,saint tail default,,0,0,0,,{TIME:1193338,1196633}I'll be passing this one up.\NSee you later!
+Dialogue: 0,0:19:56.63,0:19:58.67,saint tail default,,0,0,0,,{TIME:1196633,1198677}– Seira…\N– How about you?
+Dialogue: 0,0:20:06.05,0:20:09.10,saint tail default,,0,0,0,,{TIME:1206059,1209104}Welcome! Oh, it's you.
+Dialogue: 0,0:20:09.56,0:20:13.31,saint tail default,,0,0,0,,{TIME:1209563,1213316}– What does that mean?\N– Is this a date with your girlfriend?
+Dialogue: 0,0:20:13.56,0:20:15.52,saint tail default,,0,0,0,,{TIME:1213567,1215527}No, it's nothing like that!
+Dialogue: 0,0:20:15.94,0:20:20.69,saint tail default,,0,0,0,,{TIME:1215944,1220699}It's empty as usual. At this rate,\Nyou'll close down in no time.
+Dialogue: 0,0:20:20.69,0:20:24.70,saint tail default,,0,0,0,,{TIME:1220699,1224703}Maybe I'll advertise around\Ntown for you. The owner is—
+Dialogue: 0,0:20:24.70,0:20:26.70,saint tail default,,0,0,0,,{TIME:1224703,1226705}Don't you think\Nof uttering one more word!
+Dialogue: 0,0:20:27.24,0:20:28.83,saint tail default,,0,0,0,,{TIME:1227247,1228832}Yes. I'm sorry.
+Dialogue: 0,0:20:30.20,0:20:31.66,saint tail default,,0,0,0,,{TIME:1230208,1231668}That's…
+Dialogue: 0,0:20:34.00,0:20:34.92,saint tail default,,0,0,0,,{TIME:1234004,1234921}Here you go.
+Dialogue: 0,0:20:35.21,0:20:38.59,saint tail default,,0,0,0,,{TIME:1235213,1238592}Eat! The rice gruel here is the best!
+Dialogue: 0,0:20:44.18,0:20:48.05,saint tail default,,0,0,0,,{TIME:1244181,1248059}– Delicious!\N– Didn't I tell you? Let's eat!
+Dialogue: 0,0:20:48.51,0:20:50.43,saint tail default,,0,0,0,,{TIME:1248518,1250437}Hot!
 Comment: 0,0:20:53.27,0:20:53.27,[chapter],[chapter],0,0,0,,{TIME:1253273,1253273}Ending
 Dialogue: 0,0:20:54.14,0:21:00.61,saint tail ed jp,[karaoke],0,0,0,,{TIME:1254149,1260614}{\blur1}kisu wo shitemoraeru mae no{NOTE:キスをしてもらえるまえの}
 Dialogue: 0,0:21:01.61,0:21:06.99,saint tail ed jp,[karaoke],0,0,0,,{TIME:1261615,1266995}{\blur1}namida no wake wo{NOTE:涙のわけを}
@@ -290,3 +302,13 @@ Dialogue: 0,0:21:51.99,0:21:58.83,saint tail ed en,[karaoke],0,0,0,,{TIME:131199
 Dialogue: 0,0:21:59.21,0:22:04.76,saint tail ed en,[karaoke],0,0,0,,{TIME:1319214,1324761}I'd be devastated if you did.
 Dialogue: 0,0:22:05.88,0:22:14.02,saint tail ed en,[karaoke],0,0,0,,{TIME:1325887,1334020}Will my prayer be answered?
 Comment: 0,0:22:28.36,0:22:28.36,[chapter],[chapter],0,0,0,,{TIME:1348368,1348368}Preview
+Dialogue: 0,0:22:28.41,0:22:31.37,saint tail sign,(sign),0,0,0,,{TIME:1348410,1351371}Next episode
+Dialogue: 0,0:22:29.99,0:22:35.29,saint tail default,,0,0,0,,{TIME:1349995,1355292}A first grader is in love with a boy and\Nshe wrote poems about him in her notebook,{NOTE:一年生の女の子が、同級生の男の子へ密かに心を寄せて書いた詩集のノートを、}
+Dialogue: 0,0:22:35.29,0:22:37.83,saint tail default,,0,0,0,,{TIME:1355292,1357836}but now she accidentally\Nlent it to him?{NOTE:間違えて本人に渡してしまったの}
+Dialogue: 0,0:22:37.83,0:22:40.50,saint tail default,,0,0,0,,{TIME:1357836,1360505}She wants to get it back\Nbefore he reads it.{NOTE:彼に読まれる前に取り戻したいんだって}
+Dialogue: 0,0:22:40.50,0:22:43.96,saint tail default,,0,0,0,,{TIME:1360505,1363967}He's a childhood friend\Nof Asuka Jr. and he's so clumsy!{NOTE:彼はアスカJr.の幼馴染でおっちょこちょい}
+Dialogue: 0,0:22:43.96,0:22:48.38,saint tail default,,0,0,0,,{TIME:1363967,1368388}He misunderstands my notice\Nand now he wants to give me a bouquet!{NOTE:予告状に書いたノートをハートと間違えて、花束持って追っかけてきてるの}
+Dialogue: 0,0:22:48.38,0:22:50.09,saint tail default,,0,0,0,,{TIME:1368388,1370098}What should I do?{NOTE:どうしよう？}
+Dialogue: 0,0:22:50.09,0:22:52.01,saint tail default,,0,0,0,,{TIME:1370098,1372017}Next time on Saint Tail:{NOTE:次回、怪盗セイント・テール}
+Dialogue: 0,0:22:52.01,0:22:54.10,saint tail default,,0,0,0,,{TIME:1372017,1374102}"The Heart Thief\Non St. Valentine's Day!?"{NOTE:『バレンタインのハート泥棒!?』}
+Dialogue: 0,0:22:54.10,0:22:56.93,saint tail default,,0,0,0,,{TIME:1374102,1376938}May the blessings\Nof God be with you.{NOTE:みなさんに、神のご加護がありますように}
