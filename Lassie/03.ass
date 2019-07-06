@@ -10,19 +10,18 @@ ScaledBorderAndShadow: yes
 Video File: source/03.mkv
 Audio File: source/03.mkv
 Title: Meiken Lassie - 03
-Group: OldCastle & South Wind Subs
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: lassie default,Rubik Medium,31,&H00F5F8FA,&H000000FF,&H1419232D,&H0019232D,0,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,15,1
-Style: lassie group,Caxton Std Book,27,&H002156D2,&H00000000,&H37000000,&H69000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.0,0.5,2,10,10,10,1
+Style: lassie group,Caxton Std,27,&H002156D2,&H00000000,&H37000000,&H69000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.0,0.5,2,10,10,10,1
 Style: lassie song en op,FOT Manyo Sosho Std Stripped,35,&H00E5ECED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.5,8,10,10,10,1
 Style: lassie song en ed,FOT Manyo Sosho Std Stripped,35,&H00D4E9F1,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.5,8,10,10,2,1
 Style: lassie song jp op,Cocogoose,25,&H00E4EBED,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,15,1
 Style: lassie song jp ed,Cocogoose,25,&H00D4E9F1,&H000000FF,&H00282F32,&H00282F32,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.75,1.25,2,10,30,12,1
 Style: lassie title,Round Irregularity,40,&H00FFFFFF,&H000000FF,&H00283132,&H00283132,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,2,10,10,10,1
 Style: lassie episode,Round Irregularity,40,&H00DEE0DB,&H000000FF,&H001D1E1D,&H001D1E1D,0,0,0,0,120.0,100.0,0.0,0.0,1,1.0,1.5,5,10,10,10,1
-Style: lassie wmt,Caxton Std Book,30,&H002153D2,&H000000FF,&H37000000,&H69000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
+Style: lassie wmt,Caxton Std,30,&H002153D2,&H000000FF,&H37000000,&H69000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -30,41 +29,41 @@ Comment: 0,0:00:00.00,0:00:00.00,[chapter],[chapter],0,0,0,,{TIME:0,0}Opening
 Dialogue: 0,0:00:00.00,0:00:04.94,lassie group,(sign),0,0,0,,{TIME:0,4943}{\pos(320,188)\fnUnifraktur Cook}Old Castle{\fn} & {\fnKabayan-SWS}south wind subs{\fn\fs25} present
 Dialogue: 0,0:00:00.00,0:00:04.85,lassie wmt,(sign),0,0,0,,{TIME:0,4859}{\pos(320,312)}WORLD MASTERPIECE THEATER
 Dialogue: 0,0:00:05.61,0:00:12.74,lassie title,(sign),0,0,0,,{TIME:5610,12742}{\blur0.5\alpha&HFF&\t(0,400,4,\alpha&H00&)\t(6500,7000,0.5,\alpha&HFF&)\pos(320,340)\c&H2465C6&}FAMOUS DOG {\c&H3CB6D4&}LASSIE
-Dialogue: 0,0:00:06.06,0:00:12.24,lassie default,(sign),0,0,0,,{TIME:6069,12242}{\an5\pos(313,450)\fs28\i1}"Neverending Story" sung by Jun Morioka
-Dialogue: 0,0:00:16.70,0:00:23.00,lassie song jp op,[karaoke],0,0,0,,{TIME:16704,23002}{\an5\pos(313,455)\blur0.5}ryoute ni atarashii asa{NOTE:両手に新しい朝}
-Dialogue: 0,0:00:24.79,0:00:28.80,lassie song jp op,[karaoke],0,0,0,,{TIME:24796,28800}{\an5\pos(313,455)\blur0.5}jibun ni kitaishite{NOTE:自分に期待して}
-Dialogue: 0,0:00:29.80,0:00:32.38,lassie song jp op,[karaoke],0,0,0,,{TIME:29801,32387}{\an5\pos(313,455)\blur0.5}aruite yukou{NOTE:歩いて行こう}
-Dialogue: 0,0:00:33.05,0:00:35.72,lassie song jp op,[karaoke],0,0,0,,{TIME:33054,35723}{\an5\pos(313,455)\blur0.5}osanai hi{NOTE:幼い日}
-Dialogue: 0,0:00:36.89,0:00:40.68,lassie song jp op,[karaoke],0,0,0,,{TIME:36891,40687}{\an5\pos(313,455)\blur0.5}chiisana mune wo{NOTE:ちいさな胸を}
-Dialogue: 0,0:00:41.14,0:00:43.77,lassie song jp op,[karaoke],0,0,0,,{TIME:41145,43773}{\an5\pos(313,455)\blur0.5}tokimekaseteta{NOTE:ときめかせてた}
-Dialogue: 0,0:00:43.94,0:00:46.69,lassie song jp op,[karaoke],0,0,0,,{TIME:43940,46693}{\an5\pos(315,455)\blur0.5}zutto{NOTE:ずっと}
-Dialogue: 0,0:00:46.90,0:00:50.61,lassie song jp op,[karaoke],0,0,0,,{TIME:46901,50613}{\an5\pos(313,455)\blur0.5}soba de mimamotteru{NOTE:そばで見守ってる}
-Dialogue: 0,0:00:51.73,0:00:58.58,lassie song jp op,[karaoke],0,0,0,,{TIME:51739,58580}{\an5\pos(313,455)\blur0.5}daichi no komoriuta no you ni{NOTE:大地の子守歌のように}
-Dialogue: 0,0:00:58.74,0:01:02.29,lassie song jp op,[karaoke],0,0,0,,{TIME:58746,62292}{\an5\pos(313,455)\blur0.5}sore wa kitto{NOTE:それはきっと}
-Dialogue: 0,0:01:02.50,0:01:06.21,lassie song jp op,[karaoke],0,0,0,,{TIME:62500,66212}{\an5\pos(313,455)\blur0.5}dare no naka ni mo aru{NOTE:誰の中にもある}
-Dialogue: 0,0:01:06.50,0:01:13.84,lassie song jp op,[karaoke],0,0,0,,{TIME:66504,73845}{\an5\pos(313,455)\blur0.5}owaranai monogatari{NOTE:終わらない物語}
-Dialogue: 0,0:00:16.70,0:00:23.00,lassie song en op,[karaoke],0,0,0,,{TIME:16704,23002}{\blur0.5}Keep walking towards
+Dialogue: 0,0:00:06.06,0:00:12.24,lassie default,(sign),0,0,0,,{TIME:6069,12242}{\fs28\i1\pos(320,462)}"Neverending Story" sung by Jun Morioka
+Dialogue: 0,0:00:16.70,0:00:23.00,lassie song jp op,[karaoke],0,0,0,,{TIME:16704,23002}{\blur0.5}ryoute ni atarashii asa{NOTE:両手に新しい朝}
+Dialogue: 0,0:00:24.79,0:00:28.80,lassie song jp op,[karaoke],0,0,0,,{TIME:24796,28800}{\blur0.5}jibun ni kitaishite{NOTE:自分に期待して}
+Dialogue: 0,0:00:29.80,0:00:32.38,lassie song jp op,[karaoke],0,0,0,,{TIME:29801,32387}{\blur0.5}aruite yukou{NOTE:歩いて行こう}
+Dialogue: 0,0:00:33.05,0:00:35.72,lassie song jp op,[karaoke],0,0,0,,{TIME:33054,35723}{\blur0.5}osanai hi{NOTE:幼い日}
+Dialogue: 0,0:00:36.89,0:00:40.68,lassie song jp op,[karaoke],0,0,0,,{TIME:36891,40687}{\blur0.5}chiisana mune wo{NOTE:ちいさな胸を}
+Dialogue: 0,0:00:41.14,0:00:43.77,lassie song jp op,[karaoke],0,0,0,,{TIME:41145,43773}{\blur0.5}tokimekaseteta{NOTE:ときめかせてた}
+Dialogue: 0,0:00:43.94,0:00:46.69,lassie song jp op,[karaoke],0,0,0,,{TIME:43940,46693}{\blur0.5}zutto{NOTE:ずっと}
+Dialogue: 0,0:00:46.90,0:00:50.61,lassie song jp op,[karaoke],0,0,0,,{TIME:46901,50613}{\blur0.5}soba de mimamotteru{NOTE:そばで見守ってる}
+Dialogue: 0,0:00:51.73,0:00:58.58,lassie song jp op,[karaoke],0,0,0,,{TIME:51739,58580}{\blur0.5}daichi no komoriuta no you ni{NOTE:大地の子守歌のように}
+Dialogue: 0,0:00:58.74,0:01:02.29,lassie song jp op,[karaoke],0,0,0,,{TIME:58746,62292}{\blur0.5}sore wa kitto{NOTE:それはきっと}
+Dialogue: 0,0:01:02.50,0:01:06.21,lassie song jp op,[karaoke],0,0,0,,{TIME:62500,66212}{\blur0.5}dare no naka ni mo aru{NOTE:誰の中にもある}
+Dialogue: 0,0:01:06.50,0:01:13.84,lassie song jp op,[karaoke],0,0,0,,{TIME:66504,73845}{\blur0.5}owaranai monogatari{NOTE:終わらない物語}
+Dialogue: 0,0:00:16.70,0:00:23.00,lassie song en op,[karaoke],0,0,0,,{TIME:16704,23002}{\blur0.5}Walk towards
 Dialogue: 0,0:00:24.79,0:00:28.80,lassie song en op,[karaoke],0,0,0,,{TIME:24796,28800}{\blur0.5}the new day
 Dialogue: 0,0:00:29.80,0:00:32.38,lassie song en op,[karaoke],0,0,0,,{TIME:29801,32387}{\blur0.5}with hope
-Dialogue: 0,0:00:33.05,0:00:35.72,lassie song en op,[karaoke],0,0,0,,{TIME:33054,35723}{\blur0.5}Back in my childhood days,
+Dialogue: 0,0:00:33.05,0:00:35.72,lassie song en op,[karaoke],0,0,0,,{TIME:33054,35723}{\blur0.5}In my childhood days,
 Dialogue: 0,0:00:36.89,0:00:40.68,lassie song en op,[karaoke],0,0,0,,{TIME:36891,40687}{\blur0.5}my little heart
-Dialogue: 0,0:00:41.14,0:00:43.77,lassie song en op,[karaoke],0,0,0,,{TIME:41145,43773}{\blur0.5}would beat faster
+Dialogue: 0,0:00:41.14,0:00:43.77,lassie song en op,[karaoke],0,0,0,,{TIME:41145,43773}{\blur0.5}beat faster
 Dialogue: 0,0:00:43.94,0:00:46.69,lassie song en op,[karaoke],0,0,0,,{TIME:43940,46693}{\blur0.5}I will
-Dialogue: 0,0:00:46.90,0:00:50.61,lassie song en op,[karaoke],0,0,0,,{TIME:46901,50613}{\blur0.5}always watch over you,
+Dialogue: 0,0:00:46.90,0:00:50.61,lassie song en op,[karaoke],0,0,0,,{TIME:46901,50613}{\blur0.5}watch over you always,
 Dialogue: 0,0:00:51.73,0:00:58.58,lassie song en op,[karaoke],0,0,0,,{TIME:51739,58580}{\blur0.5}like a lullaby from the earth
 Dialogue: 0,0:00:58.74,0:01:02.29,lassie song en op,[karaoke],0,0,0,,{TIME:58746,62292}{\blur0.5}I'm sure everyone
 Dialogue: 0,0:01:02.50,0:01:06.21,lassie song en op,[karaoke],0,0,0,,{TIME:62500,66212}{\blur0.5}has one within them,
 Dialogue: 0,0:01:06.50,0:01:13.84,lassie song en op,[karaoke],0,0,0,,{TIME:66504,73845}{\blur0.5}a neverending story
 Comment: 0,0:01:19.89,0:01:19.89,[chapter],[chapter],0,0,0,,{TIME:79892,79892}Part A
 Dialogue: 0,0:01:22.22,0:01:27.15,lassie episode,[title],0,0,0,,{TIME:82228,87150}{\blur0.5\fad(500,0)\pos(320,295)}Goodbye, Lassie
-Dialogue: 0,0:01:29.02,0:01:32.19,lassie default,Colin,0,0,0,,{TIME:89027,92196}So she got here on this boat?
+Dialogue: 0,0:01:29.02,0:01:32.19,lassie default,Colin,0,0,0,,{TIME:89027,92196}So she got here on this boat?{NOTE:dog gender}
 Dialogue: 0,0:01:32.19,0:01:37.70,lassie default,John Carraclough,0,0,0,,{TIME:92196,97702}Yeah. I mean, the collar\NI found fits her perfectly.
 Dialogue: 0,0:01:37.70,0:01:40.87,lassie default,John Carraclough,0,0,0,,{TIME:97702,100872}And she replied when I read\Nthe name written on it.
 Dialogue: 0,0:01:42.49,0:01:43.83,lassie default,John Carraclough,0,0,0,,{TIME:102498,103833}Right, Lassie?
 Dialogue: 0,0:01:45.08,0:01:46.25,lassie default,John Carraclough,0,0,0,,{TIME:105084,106252}See?
 Dialogue: 0,0:01:48.71,0:01:50.29,lassie default,John Carraclough,0,0,0,,{TIME:108713,110298}Grandpa!
 Dialogue: 0,0:01:50.29,0:01:51.75,lassie default,Grandpa,0,0,0,,{TIME:110298,111758}Oh, hello, John.
-Dialogue: 0,0:01:51.75,0:01:54.71,lassie default,John Carraclough,0,0,0,,{TIME:111758,114719}Do you know\Nthe owner of this boat?
+Dialogue: 0,0:01:51.75,0:01:54.71,lassie default,John Carraclough,0,0,0,,{TIME:111758,114719}Hey, do you know\Nthe owner of this boat?
 Dialogue: 0,0:01:54.71,0:01:55.80,lassie default,Grandpa,0,0,0,,{TIME:114719,115803}Huh?
 Dialogue: 0,0:01:55.80,0:01:57.34,lassie default,Grandpa,0,0,0,,{TIME:115803,117347}Ah, that one.
 Dialogue: 0,0:01:57.34,0:02:01.47,lassie default,Grandpa,0,0,0,,{TIME:117347,121476}It's been here\Nfor two or three days.
@@ -80,22 +79,22 @@ Dialogue: 0,0:02:21.82,0:02:26.62,lassie default,Grandpa,0,0,0,,{TIME:141829,146
 Dialogue: 0,0:02:36.46,0:02:40.01,lassie default,John Carraclough,0,0,0,,{TIME:156469,160014}I don't think the boat is gonna\Ntell us where it came from.
 Dialogue: 0,0:02:40.93,0:02:44.01,lassie default,John Carraclough,0,0,0,,{TIME:160932,164018}Hey, Lassie,\Nwhere did you come from?
 Dialogue: 0,0:02:48.39,0:02:50.69,lassie default,Colin,0,0,0,,{TIME:168398,170692}Is it all right to move it\Nwithout anyone's permission?
-Dialogue: 0,0:02:50.69,0:02:53.94,lassie default,John Carraclough,0,0,0,,{TIME:170692,173945}It's in a good cause.\NWe have to find its owner.
+Dialogue: 0,0:02:50.69,0:02:53.94,lassie default,John Carraclough,0,0,0,,{TIME:170692,173945}It's for a good cause.\NWe have to find her owner.
 Dialogue: 0,0:02:53.94,0:02:54.82,lassie default,Colin,0,0,0,,{TIME:173945,174821}Oh!
 Dialogue: 0,0:02:54.82,0:02:56.11,lassie default,Colin,0,0,0,,{TIME:174821,176114}Wait for me.
 Dialogue: 0,0:03:00.45,0:03:03.91,lassie default,John Carraclough,0,0,0,,{TIME:180451,183913}If we learn where\Nthe boat came from,
 Dialogue: 0,0:03:04.62,0:03:07.75,lassie default,John Carraclough,0,0,0,,{TIME:184622,187750}we may find Lassie's mom.
 Dialogue: 0,0:03:07.75,0:03:08.96,lassie default,John Carraclough,0,0,0,,{TIME:187750,188960}Right?
-Dialogue: 0,0:03:08.96,0:03:12.50,lassie default,Colin,0,0,0,,{TIME:188960,192505}I see. So once you find her owner,\Nyou'll have to give her back.
+Dialogue: 0,0:03:08.96,0:03:12.50,lassie default,Colin,0,0,0,,{TIME:188960,192505}I see. But once you find her owner,\Nyou'll have to give her back?
 Dialogue: 0,0:03:12.50,0:03:14.29,lassie default,John Carraclough,0,0,0,,{TIME:192505,194298}Naturally.
-Dialogue: 0,0:03:14.29,0:03:15.96,lassie default,Colin,0,0,0,,{TIME:194298,195967}Naturally, huh…
-Dialogue: 0,0:03:15.96,0:03:22.59,lassie default,John Carraclough,0,0,0,,{TIME:195967,202598}Yes. If Lassie lives with her mother,\Nshe'll be much happier.
-Dialogue: 0,0:03:24.01,0:03:26.47,lassie default,Colin,0,0,0,,{TIME:204016,206477}If you say so, John.
+Dialogue: 0,0:03:14.29,0:03:15.96,lassie default,Colin,0,0,0,,{TIME:194298,195967}Naturally, huh…?
+Dialogue: 0,0:03:15.96,0:03:22.59,lassie default,John Carraclough,0,0,0,,{TIME:195967,202598}Yeah. If Lassie lives with her mother,\Nshe'll be much happier.
+Dialogue: 0,0:03:24.01,0:03:26.47,lassie default,Colin,0,0,0,,{TIME:204016,206477}If you say so, John...
 Dialogue: 0,0:03:27.77,0:03:28.89,lassie default,John Carraclough,0,0,0,,{TIME:207770,208896}It's an airplane!
 Dialogue: 0,0:03:29.93,0:03:33.35,lassie default,Colin,0,0,0,,{TIME:209939,213359}This plane belongs to a family\Nwe were recently delivering to.
 Dialogue: 0,0:03:33.35,0:03:34.77,lassie default,Colin,0,0,0,,{TIME:213359,214777}Dad told me so.
-Dialogue: 0,0:03:37.78,0:03:41.78,lassie default,John Carraclough,0,0,0,,{TIME:217780,221784}Now that I think of it, when I met you\Nfor the first time, there was an airplane, too.
-Dialogue: 0,0:03:43.87,0:03:47.49,lassie default,John Carraclough,0,0,0,,{TIME:223870,227498}If it wasn't for that plane,\NI wouldn't meet Lassie.
+Dialogue: 0,0:03:37.78,0:03:41.78,lassie default,John Carraclough,0,0,0,,{TIME:217780,221784}Now that I think of it, there was\Nan airplane, when I first met you.
+Dialogue: 0,0:03:43.87,0:03:47.49,lassie default,John Carraclough,0,0,0,,{TIME:223870,227498}If it wasn't for that plane,\NI wouldn't have meet Lassie.
 Dialogue: 0,0:04:02.09,0:04:04.22,lassie default,John Carraclough,0,0,0,,{TIME:242096,244223}This is the road to school!
 Dialogue: 0,0:04:04.80,0:04:06.68,lassie default,Colin,0,0,0,,{TIME:244807,246684}It's the bridge we always cross.
 Dialogue: 0,0:04:07.76,0:04:09.39,lassie default,Sandy,0,0,0,,{TIME:247769,249395}Oh? John and Colin.
@@ -108,29 +107,29 @@ Dialogue: 0,0:04:22.15,0:04:23.78,lassie default,John Carraclough,0,0,0,,{TIME:2
 Dialogue: 0,0:04:24.78,0:04:27.70,lassie default,John Carraclough,0,0,0,,{TIME:264786,267705}But I'm sure that\Nwe'll find Lassie's mom!
 Dialogue: 0,0:04:27.70,0:04:31.91,lassie default,Sandy,0,0,0,,{TIME:267705,271918}So… John! Wait!\NHey, listen to me!
 Dialogue: 0,0:04:32.62,0:04:34.37,lassie default,Colin,0,0,0,,{TIME:272627,274378}The backyards\Nnear the town square.
-Dialogue: 0,0:04:34.37,0:04:35.33,lassie default,John Carraclough,0,0,0,,{TIME:274378,275338}Yes.
+Dialogue: 0,0:04:34.37,0:04:35.33,lassie default,John Carraclough,0,0,0,,{TIME:274378,275338}Yeah.
 Dialogue: 0,0:04:35.33,0:04:37.79,lassie default,Colin,0,0,0,,{TIME:275338,277799}This is the first time I see them.
 Dialogue: 0,0:04:39.17,0:04:41.21,lassie default,John Carraclough,0,0,0,,{TIME:279175,281219}I saw him, I saw him!
 Dialogue: 0,0:04:43.22,0:04:44.01,lassie default,Colin,0,0,0,,{TIME:283221,284013}John!
 Dialogue: 0,0:04:46.09,0:04:48.55,lassie default,John Carraclough,0,0,0,,{TIME:286098,288559}Mr. Curry!
 Dialogue: 0,0:04:52.23,0:04:54.44,lassie default,John Carraclough,0,0,0,,{TIME:292230,294440}She's so beautiful, sir!
 Dialogue: 0,0:04:58.36,0:05:01.61,lassie default,Colin,0,0,0,,{TIME:298361,301614}From the river, our town\Nlooks like another place.
-Dialogue: 0,0:05:01.61,0:05:02.99,lassie default,John Carraclough,0,0,0,,{TIME:301614,302990}Yes.
+Dialogue: 0,0:05:01.61,0:05:02.99,lassie default,John Carraclough,0,0,0,,{TIME:301614,302990}Yeah.
 Dialogue: 0,0:05:11.12,0:05:12.41,lassie default,John Carraclough,0,0,0,,{TIME:311123,312416}Dr. Hopper!
-Dialogue: 0,0:05:13.62,0:05:18.33,lassie default,Dr. Hopper,0,0,0,,{TIME:313626,318339}Hello. You're Carraclough's son, right?\NThat's a nice boat you have.
+Dialogue: 0,0:05:13.62,0:05:18.33,lassie default,Dr. Hopper,0,0,0,,{TIME:313626,318339}Hello. You're Carraclough's son, right?\NThat's a nice boat you've got.
 Dialogue: 0,0:05:18.33,0:05:19.50,lassie default,John Carraclough,0,0,0,,{TIME:318339,319507}Thanks. But…
-Dialogue: 0,0:05:20.71,0:05:23.71,lassie default,Dr. Hopper,0,0,0,,{TIME:320716,323719}This reminds me…\NWait, what was it?
-Dialogue: 0,0:05:24.59,0:05:29.01,lassie default,Dr. Hopper,0,0,0,,{TIME:324595,329016}Ah, right! I remember seeing\Nthat puppy on this boat a few days ago.
+Dialogue: 0,0:05:20.71,0:05:23.71,lassie default,Dr. Hopper,0,0,0,,{TIME:320716,323719}That reminds me…\NWait, what was it?
+Dialogue: 0,0:05:24.59,0:05:29.01,lassie default,Dr. Hopper,0,0,0,,{TIME:324595,329016}Ah, right! I remember seeing\Nthat puppy in that boat a few days ago.
 Dialogue: 0,0:05:29.01,0:05:31.64,lassie default,John Carraclough,0,0,0,,{TIME:329016,331644}Dr. Hopper,\Nyou've seen it before?
 Dialogue: 0,0:05:31.64,0:05:35.69,lassie default,Dr. Hopper,0,0,0,,{TIME:331644,335690}Yes. They must've floated\Ndown here from upstream.
 Dialogue: 0,0:05:35.69,0:05:36.35,lassie default,Colin,0,0,0,,{TIME:335690,336357}John.
 Dialogue: 0,0:05:36.35,0:05:37.06,lassie default,John Carraclough,0,0,0,,{TIME:336357,337066}Yeah.
 Dialogue: 0,0:05:37.56,0:05:40.06,lassie default,John Carraclough,0,0,0,,{TIME:337567,340069}Thank you very much, Doctor!
 Dialogue: 0,0:05:40.06,0:05:45.99,lassie default,Dr. Hopper,0,0,0,,{TIME:340069,345992}No problem, just don't tell\Nyour mother that you saw me here.
-Dialogue: 0,0:05:55.04,0:05:57.21,lassie default,John Carraclough,0,0,0,,{TIME:355042,357211}What, you're scared?\NYou're such a coward.
+Dialogue: 0,0:05:55.04,0:05:57.21,lassie default,John Carraclough,0,0,0,,{TIME:355042,357211}What, don't tell me you're scared?
 Dialogue: 0,0:06:05.30,0:06:06.88,lassie default,John Carraclough,0,0,0,,{TIME:365303,366888}Let's go!
 Dialogue: 0,0:06:37.29,0:06:38.66,lassie default,Colin,0,0,0,,{TIME:397293,398669}We've came pretty far.
-Dialogue: 0,0:06:38.66,0:06:40.50,lassie default,Colin,0,0,0,,{TIME:398669,400504}How long are we going\Nto oar like this?
+Dialogue: 0,0:06:38.66,0:06:40.50,lassie default,Colin,0,0,0,,{TIME:398669,400504}How long are we going\Nto row like this?
 Dialogue: 0,0:06:41.71,0:06:42.79,lassie default,John Carraclough,0,0,0,,{TIME:401714,402798}Oh?
 Dialogue: 0,0:06:43.59,0:06:45.25,lassie default,Colin,0,0,0,,{TIME:403591,405259}It's a steamer.
 Dialogue: 0,0:06:58.31,0:07:00.35,lassie default,John Carraclough,0,0,0,,{TIME:418314,420358}Lassie!
@@ -138,7 +137,7 @@ Dialogue: 0,0:07:02.02,0:07:03.56,lassie default,John Carraclough,0,0,0,,{TIME:4
 Dialogue: 0,0:07:05.36,0:07:06.48,lassie default,John Carraclough,0,0,0,,{TIME:425363,426489}Hey!
 Dialogue: 0,0:07:08.78,0:07:10.74,lassie default,John Carraclough,0,0,0,,{TIME:428783,430743}Lassie!
 Dialogue: 0,0:07:16.91,0:07:18.41,lassie default,John Carraclough,0,0,0,,{TIME:436916,438417}This is dangerous, Lassie.
-Dialogue: 0,0:07:18.41,0:07:21.71,lassie default,John Carraclough,0,0,0,,{TIME:438417,441712}If you're not careful,\Nyou'll get ran over.
+Dialogue: 0,0:07:18.41,0:07:21.71,lassie default,John Carraclough,0,0,0,,{TIME:438417,441712}If you're not careful,\Nyou'll get run over.
 Dialogue: 0,0:07:25.00,0:07:26.55,lassie default,John Carraclough,0,0,0,,{TIME:445007,446550}What's this wheel doing here?
 Dialogue: 0,0:07:26.55,0:07:27.55,lassie default,Colin,0,0,0,,{TIME:446550,447551}John!
 Dialogue: 0,0:07:27.55,0:07:28.46,lassie default,Colin,0,0,0,,{TIME:447551,448469}Hey, John!
@@ -147,23 +146,23 @@ Dialogue: 0,0:07:32.26,0:07:35.60,lassie default,Colin,0,0,0,,{TIME:452264,45560
 Dialogue: 0,0:07:36.22,0:07:38.10,lassie default,John Carraclough,0,0,0,,{TIME:456227,458104}So, this means…
 Dialogue: 0,0:07:38.10,0:07:41.39,lassie default,Colin,0,0,0,,{TIME:458104,461399}Look, they're exactly the same.
 Dialogue: 0,0:07:41.39,0:07:44.48,lassie default,John Carraclough,0,0,0,,{TIME:461399,464485}So Lassie drifted down from here?
-Dialogue: 0,0:07:44.98,0:07:49.49,lassie default,John Carraclough,0,0,0,,{TIME:464986,469490}Thank goodness, Lassie.\NYou're going to see your mom soon.
-Dialogue: 0,0:07:50.61,0:07:51.99,lassie default,John Carraclough,0,0,0,,{TIME:470616,471993}It went easier than I thought.
+Dialogue: 0,0:07:44.98,0:07:49.49,lassie default,John Carraclough,0,0,0,,{TIME:464986,469490}That's great, Lassie.\NYou're going to see your mom soon.
+Dialogue: 0,0:07:50.61,0:07:51.99,lassie default,John Carraclough,0,0,0,,{TIME:470616,471993}This went easier than I thought.
 Dialogue: 0,0:07:58.33,0:08:01.25,lassie default,Water lock operator,0,0,0,,{TIME:478332,481252}Hey, what's the racket?
 Dialogue: 0,0:08:01.25,0:08:05.38,lassie default,Water lock operator,0,0,0,,{TIME:481252,485381}You two rascals, why are you making\Nnoise around other people's houses?
 Dialogue: 0,0:08:06.34,0:08:09.96,lassie default,Water lock operator,0,0,0,,{TIME:486340,489969}Hey! It's the boat\NI lost the other day.
-Dialogue: 0,0:08:13.38,0:08:17.72,lassie default,John Carraclough,0,0,0,,{TIME:493389,497727}Y-You got it wrong, sir. It drifted\Non its own and we've brought it back.
+Dialogue: 0,0:08:13.38,0:08:17.72,lassie default,John Carraclough,0,0,0,,{TIME:493389,497727}Y-You've got it wrong, sir. It drifted\Non its own and we've brought it back.
 Dialogue: 0,0:08:17.72,0:08:19.68,lassie default,John Carraclough,0,0,0,,{TIME:497727,499687}I'm telling the truth.
-Dialogue: 0,0:08:19.68,0:08:20.85,lassie default,Water lock operator,0,0,0,,{TIME:499687,500855}I'm not convinced.
+Dialogue: 0,0:08:19.68,0:08:20.85,lassie default,Water lock operator,0,0,0,,{TIME:499687,500855}Hm? I'm not convinced.
 Dialogue: 0,0:08:22.02,0:08:22.69,lassie default,Water lock operator,0,0,0,,{TIME:502023,502690}Hm?
 Dialogue: 0,0:08:23.02,0:08:24.31,lassie default,Water lock operator,0,0,0,,{TIME:503024,504316}Where did you find this dog?
 Dialogue: 0,0:08:24.31,0:08:28.19,lassie default,John Carraclough,0,0,0,,{TIME:504316,508195}Uh, she…\NUhm… You see…
 Dialogue: 0,0:08:28.19,0:08:30.15,lassie default,Water lock operator,0,0,0,,{TIME:508195,510156}It's Lassie.
-Dialogue: 0,0:08:32.15,0:08:33.53,lassie default,Colin,0,0,0,,{TIME:512158,513534}This means…
+Dialogue: 0,0:08:32.15,0:08:33.53,lassie default,Colin,0,0,0,,{TIME:512158,513534}So that means…
 Dialogue: 0,0:08:34.45,0:08:37.74,lassie default,John Carraclough,0,0,0,,{TIME:514452,517747}Sir, you know Lassie?
 Dialogue: 0,0:08:37.74,0:08:40.54,lassie default,Water lock operator,0,0,0,,{TIME:517747,520541}Of course I do.\NShe's my dog.
 Dialogue: 0,0:08:40.54,0:08:41.62,lassie default,Water lock operator,0,0,0,,{TIME:520541,521625}What's the matter?
-Dialogue: 0,0:08:42.66,0:08:44.62,lassie default,Water lock operator,0,0,0,,{TIME:522668,524628}Do you want me to say this again?
+Dialogue: 0,0:08:42.66,0:08:44.62,lassie default,Water lock operator,0,0,0,,{TIME:522668,524628}Do you want me to say it again?
 Dialogue: 0,0:08:44.62,0:08:48.04,lassie default,John Carraclough,0,0,0,,{TIME:524628,528049}No, everything's fine.\NI'll return her immediately.
 Dialogue: 0,0:08:48.88,0:08:49.88,lassie default,John Carraclough,0,0,0,,{TIME:528883,529884}But…
 Dialogue: 0,0:08:50.17,0:08:51.13,lassie default,Water lock operator,0,0,0,,{TIME:530176,531135}But what?
@@ -181,13 +180,13 @@ Dialogue: 0,0:09:28.00,0:09:30.29,lassie default,John Carraclough,0,0,0,,{TIME:5
 Dialogue: 0,0:09:32.88,0:09:36.05,lassie default,John Carraclough,0,0,0,,{TIME:572885,576055}All right.\NNow go to your mother.
 Dialogue: 0,0:09:42.64,0:09:45.48,lassie default,John Carraclough,0,0,0,,{TIME:582645,585481}Come on, go! Don't you want\Nto see your mother?
 Dialogue: 0,0:09:49.36,0:09:49.94,lassie default,John Carraclough,0,0,0,,{TIME:589360,589944}Hey!
-Dialogue: 0,0:09:51.40,0:09:53.36,lassie default,John Carraclough,0,0,0,,{TIME:591403,593364}Lassie, that's not the way!
-Dialogue: 0,0:09:59.57,0:10:02.66,lassie default,Water lock operator,0,0,0,,{TIME:599578,602665}I'm going, I'm going,\Nyou impatient bastard.
+Dialogue: 0,0:09:51.40,0:09:53.36,lassie default,John Carraclough,0,0,0,,{TIME:591403,593364}Lassie, that's the wrong way!
+Dialogue: 0,0:09:59.57,0:10:02.66,lassie default,Water lock operator,0,0,0,,{TIME:599578,602665}I'm coming, I'm coming,\Nyou impatient bastard.
 Dialogue: 0,0:10:02.66,0:10:05.62,lassie default,Water lock operator,0,0,0,,{TIME:602665,605626}I'm opening the valve, all right.
 Dialogue: 0,0:10:05.62,0:10:07.16,lassie default,Water lock operator,0,0,0,,{TIME:605626,607169}Whoa, kid!
-Dialogue: 0,0:10:07.16,0:10:09.83,lassie default,Water lock operator,0,0,0,,{TIME:607169,609839}It's not a place to play!\NGet out of there!
+Dialogue: 0,0:10:07.16,0:10:09.83,lassie default,Water lock operator,0,0,0,,{TIME:607169,609839}That's not a place to play!\NGet out of there!
 Dialogue: 0,0:10:10.46,0:10:11.92,lassie default,Water lock operator,0,0,0,,{TIME:610464,611924}It's not a playground.
-Dialogue: 0,0:10:12.71,0:10:14.96,lassie default,Water lock operator,0,0,0,,{TIME:612716,614969}I remember about you, for crying out loud!\NA minute won't save you.
+Dialogue: 0,0:10:12.71,0:10:14.96,lassie default,Water lock operator,0,0,0,,{TIME:612716,614969}All right, for crying out loud!\NA minute won't kill you.
 Dialogue: 0,0:10:14.96,0:10:19.26,lassie default,Sailor,0,0,0,,{TIME:614969,619265}Hurry up, old man!\NDid the pump break again or what?
 Dialogue: 0,0:10:20.30,0:10:24.60,lassie default,Water lock operator,0,0,0,,{TIME:620307,624603}Watch your mouth!\NOur pump is the best around—
 Dialogue: 0,0:10:26.43,0:10:29.44,lassie default,Water lock operator,0,0,0,,{TIME:626438,629441}Damn, I have no time for this.
@@ -198,9 +197,9 @@ Dialogue: 0,0:10:49.50,0:10:50.21,lassie default,John Carraclough,0,0,0,,{TIME:6
 Dialogue: 0,0:10:50.21,0:10:53.17,lassie default,Water lock operator,0,0,0,,{TIME:650212,653174}Good. Pull it harder, kid!
 Dialogue: 0,0:10:56.55,0:11:00.18,lassie default,Water lock operator,0,0,0,,{TIME:656552,660181}What's the matter?\NYou can't move it any further?
 Dialogue: 0,0:11:02.76,0:11:03.93,lassie default,John Carraclough,0,0,0,,{TIME:662766,663934}What are you doing?
-Dialogue: 0,0:11:03.93,0:11:06.77,lassie default,Colin,0,0,0,,{TIME:663934,666770}First we close the gate,\Nthen we raise the level of the water.
-Dialogue: 0,0:11:07.14,0:11:11.77,lassie default,Colin,0,0,0,,{TIME:667146,671775}Then we let the boat in and close the gate\Nbehind it, after that we let the water out.
-Dialogue: 0,0:11:12.27,0:11:15.73,lassie default,Colin,0,0,0,,{TIME:672276,675738}Finally, once the water's low,\Nwe open the gate and let the boat out.
+Dialogue: 0,0:11:03.93,0:11:06.77,lassie default,Colin,0,0,0,,{TIME:663934,666770}First we close the gate,\Nthen raise the water level.
+Dialogue: 0,0:11:07.14,0:11:11.77,lassie default,Colin,0,0,0,,{TIME:667146,671775}Then we let the boat in, close the gate\Nagain, and let the water back out.
+Dialogue: 0,0:11:12.27,0:11:15.73,lassie default,Colin,0,0,0,,{TIME:672276,675738}Then, once the water's low,\Nwe open the gate and let the boat out.
 Dialogue: 0,0:11:15.73,0:11:17.32,lassie default,Water lock operator,0,0,0,,{TIME:675738,677323}How's it going?\NDid you close it yet?
 Dialogue: 0,0:11:18.53,0:11:20.32,lassie default,Colin,0,0,0,,{TIME:678532,680326}Yeah, somehow.
 Dialogue: 0,0:11:26.29,0:11:29.62,lassie default,John Carraclough,0,0,0,,{TIME:686290,689627}But why did he ask you, Colin?
@@ -212,7 +211,7 @@ Dialogue: 0,0:11:53.27,0:11:59.99,lassie default,Water lock operator,0,0,0,,{TIM
 Dialogue: 0,0:12:02.49,0:12:04.16,lassie default,John Carraclough,0,0,0,,{TIME:722493,724161}Are you okay?
 Dialogue: 0,0:12:04.16,0:12:06.24,lassie default,Colin,0,0,0,,{TIME:724161,726247}Give me a few minutes.
 Dialogue: 0,0:12:07.16,0:12:08.49,lassie default,Water lock operator,0,0,0,,{TIME:727164,728499}You can't do anything.
-Dialogue: 0,0:12:08.99,0:12:10.66,lassie default,Water lock operator,0,0,0,,{TIME:728999,730668}I'm taking it now, all right.
+Dialogue: 0,0:12:08.99,0:12:10.66,lassie default,Water lock operator,0,0,0,,{TIME:728999,730668}I'm taking it now, all right?
 Dialogue: 0,0:12:13.21,0:12:17.38,lassie default,Water lock operator,0,0,0,,{TIME:733212,737383}And don't think of coming here again.\NGo to your moms.
 Dialogue: 0,0:12:18.46,0:12:21.55,lassie default,John Carraclough,0,0,0,,{TIME:738467,741553}Sir, are you\Nthe operator of this lock?
 Dialogue: 0,0:12:21.55,0:12:24.34,lassie default,Water lock operator,0,0,0,,{TIME:741553,744348}No, I'm a mailman.\NDon't ask stupid questions, kid.
@@ -221,7 +220,7 @@ Dialogue: 0,0:12:26.64,0:12:27.47,lassie default,Water lock operator,0,0,0,,{TIM
 Dialogue: 0,0:12:27.47,0:12:30.81,lassie default,John Carraclough,0,0,0,,{TIME:747476,750813}Don't you have a family\Nother than this puppy?
 Dialogue: 0,0:12:30.81,0:12:33.14,lassie default,Water lock operator,0,0,0,,{TIME:750813,753148}I don't. What's wrong with that?
 Dialogue: 0,0:12:34.44,0:12:36.44,lassie default,John Carraclough,0,0,0,,{TIME:754441,756443}I guess there's nothing we can do.
-Dialogue: 0,0:12:39.90,0:12:42.28,lassie default,Water lock operator,0,0,0,,{TIME:759905,762283}You get here.
+Dialogue: 0,0:12:39.90,0:12:42.28,lassie default,Water lock operator,0,0,0,,{TIME:759905,762283}You get in here.
 Dialogue: 0,0:12:42.28,0:12:44.28,lassie default,Water lock operator,0,0,0,,{TIME:762283,764285}If you misbehave, I'll eat you.
 Dialogue: 0,0:12:45.95,0:12:50.04,lassie default,Sailor,0,0,0,,{TIME:765953,770040}Come on, old man.\NOpen the other gate already.
 Dialogue: 0,0:12:50.04,0:12:51.91,lassie default,Water lock operator,0,0,0,,{TIME:770040,771917}I told you to wait.
@@ -231,9 +230,9 @@ Dialogue: 0,0:13:24.65,0:13:26.32,lassie default,John Carraclough,0,0,0,,{TIME:8
 Dialogue: 0,0:13:26.32,0:13:27.36,lassie default,Colin,0,0,0,,{TIME:806327,807369}John?
 Dialogue: 0,0:13:31.54,0:13:34.37,lassie default,Water lock operator,0,0,0,,{TIME:811540,814376}What is it?\NYou're that kid again.
 Dialogue: 0,0:13:34.37,0:13:35.62,lassie default,Water lock operator,0,0,0,,{TIME:814376,815627}What do you want this time?
-Dialogue: 0,0:13:35.62,0:13:36.92,lassie default,John Carraclough,0,0,0,,{TIME:815627,816920}Sir…
+Dialogue: 0,0:13:35.62,0:13:36.92,lassie default,John Carraclough,0,0,0,,{TIME:815627,816920}Um…
 Dialogue: 0,0:13:37.46,0:13:41.13,lassie default,John Carraclough,0,0,0,,{TIME:817463,821133}Lassie drinks milk\Nfrom a baby bottle.
-Dialogue: 0,0:13:41.13,0:13:42.25,lassie default,John Carraclough,0,0,0,,{TIME:821133,822259}However…
+Dialogue: 0,0:13:41.13,0:13:42.25,lassie default,John Carraclough,0,0,0,,{TIME:821133,822259}But…
 Dialogue: 0,0:13:43.13,0:13:44.17,lassie default,Water lock operator,0,0,0,,{TIME:823135,824178}What of it?
 Dialogue: 0,0:13:45.17,0:13:48.55,lassie default,John Carraclough,0,0,0,,{TIME:825179,828557}I think she could be trained\Nto drink from a plate.
 Dialogue: 0,0:13:48.55,0:13:49.60,lassie default,John Carraclough,0,0,0,,{TIME:828557,829600}So I was thinking…
@@ -268,12 +267,12 @@ Dialogue: 0,0:15:35.66,0:15:38.62,lassie default,Water lock operator,0,0,0,,{TIM
 Dialogue: 0,0:15:38.62,0:15:41.67,lassie default,John Carraclough,0,0,0,,{TIME:938625,941670}Don't you have a doghouse, sir?
 Dialogue: 0,0:15:41.67,0:15:42.42,lassie default,Water lock operator,0,0,0,,{TIME:941670,942421}Huh?
 Dialogue: 0,0:15:42.42,0:15:44.84,lassie default,Water lock operator,0,0,0,,{TIME:942421,944840}A doghouse?\NThere's no such thing here.
-Dialogue: 0,0:15:44.84,0:15:48.84,lassie default,John Carraclough,0,0,0,,{TIME:944840,948844}Huh? You don't have one?\NThen where do you keep it?
+Dialogue: 0,0:15:44.84,0:15:48.84,lassie default,John Carraclough,0,0,0,,{TIME:944840,948844}Huh? You don't have one?\NThen where do you keep her?
 Dialogue: 0,0:15:49.17,0:15:51.13,lassie default,Water lock operator,0,0,0,,{TIME:949178,951138}Why do you even care?
 Dialogue: 0,0:15:51.13,0:15:54.85,lassie default,Water lock operator,0,0,0,,{TIME:951138,954850}I don't have time to answer\Nyour countless questions.
 Dialogue: 0,0:15:56.18,0:15:57.56,lassie default,Water lock operator,0,0,0,,{TIME:956185,957561}Now get lost.
 Dialogue: 0,0:15:57.56,0:15:59.06,lassie default,John Carraclough,0,0,0,,{TIME:957561,959062}No time?
-Dialogue: 0,0:15:59.06,0:16:02.64,lassie default,John Carraclough,0,0,0,,{TIME:959062,962649}A boat arrives every once in a while,\Nbut other than that, what else are you doing?
+Dialogue: 0,0:15:59.06,0:16:02.64,lassie default,John Carraclough,0,0,0,,{TIME:959062,962649}A boat arrives every once in a while,\Nso, what else are you doing?
 Dialogue: 0,0:16:02.64,0:16:05.44,lassie default,Water lock operator,0,0,0,,{TIME:962649,965444}Another question?\NLeave me alone.
 Dialogue: 0,0:16:06.52,0:16:09.57,lassie default,John Carraclough,0,0,0,,{TIME:966528,969573}Hey, sir! Don't close the doors!
 Dialogue: 0,0:16:10.19,0:16:12.28,lassie default,John Carraclough,0,0,0,,{TIME:970199,972284}I want to ask you something else!
@@ -314,14 +313,14 @@ Dialogue: 0,0:18:04.10,0:18:05.43,lassie default,Water lock operator,0,0,0,,{TIM
 Dialogue: 0,0:18:07.89,0:18:10.73,lassie default,Water lock operator,0,0,0,,{TIME:1087899,1090736}It's because of that flat tire.\NIt's all because of it.
 Dialogue: 0,0:18:10.73,0:18:14.15,lassie default,John Carraclough,0,0,0,,{TIME:1090736,1094156}A flat tire? Ah, that wheel…
 Dialogue: 0,0:18:16.86,0:18:18.36,lassie default,Water lock operator,0,0,0,,{TIME:1096867,1098368}You know what\NI'm talking about, kid?
-Dialogue: 0,0:18:18.36,0:18:22.53,lassie default,John Carraclough,0,0,0,,{TIME:1098368,1102539}No, but earlier when Lassie escaped me,\Nshe immediately ran to a car wheel.
+Dialogue: 0,0:18:18.36,0:18:22.53,lassie default,John Carraclough,0,0,0,,{TIME:1098368,1102539}No, but earlier when Lassie ran from me,\Nand immediately went to a car wheel.
 Dialogue: 0,0:18:24.20,0:18:28.46,lassie default,Water lock operator,0,0,0,,{TIME:1104207,1108462}A few days ago there was\Na car on this road with a flat tire.
 Dialogue: 0,0:18:28.75,0:18:32.46,lassie default,Water lock operator,0,0,0,,{TIME:1108754,1112466}The owner said he was from a foreign country\Nand was accompanied by a big Collie.
 Dialogue: 0,0:18:33.13,0:18:37.88,lassie default,Water lock operator,0,0,0,,{TIME:1113133,1117888}When the driver was busy replacing\Nthe tire, this guy fled away.
 Dialogue: 0,0:18:37.88,0:18:39.26,lassie default,Water lock operator,0,0,0,,{TIME:1117888,1119264}He couldn't find it.
 Dialogue: 0,0:18:39.97,0:18:42.93,lassie default,Water lock operator,0,0,0,,{TIME:1119973,1122934}The port was far away and\Nhe couldn't stay any longer.
 Dialogue: 0,0:18:42.93,0:18:44.97,lassie default,Water lock operator,0,0,0,,{TIME:1122934,1124978}So he decided to leave it alone.
-Dialogue: 0,0:18:44.97,0:18:49.85,lassie default,Water lock operator,0,0,0,,{TIME:1124978,1129858}He also asked me to\Ntake care of it, if I ever find it.
+Dialogue: 0,0:18:44.97,0:18:49.85,lassie default,Water lock operator,0,0,0,,{TIME:1124978,1129858}He also asked me to\Ntake care of it, if I ever found it.
 Dialogue: 0,0:18:49.85,0:18:53.61,lassie default,Water lock operator,0,0,0,,{TIME:1129858,1133612}See? Which is why this puppy\Nbelongs to me now.
 Dialogue: 0,0:18:53.61,0:18:56.36,lassie default,Water lock operator,0,0,0,,{TIME:1133612,1136365}He left it under my care,\Nso I have no other choice.
 Dialogue: 0,0:18:58.57,0:19:00.78,lassie default,Water lock operator,0,0,0,,{TIME:1138575,1140786}Stop with that bark!
@@ -329,7 +328,7 @@ Dialogue: 0,0:19:00.78,0:19:04.16,lassie default,John Carraclough,0,0,0,,{TIME:1
 Dialogue: 0,0:19:04.16,0:19:07.50,lassie default,John Carraclough,0,0,0,,{TIME:1144164,1147501}You have to promise me\Nthat you will take good care of Lassie!
 Dialogue: 0,0:19:07.87,0:19:09.67,lassie default,Water lock operator,0,0,0,,{TIME:1147876,1149670}Are you stupid?\NWatch where we are!
 Dialogue: 0,0:19:12.21,0:19:13.50,lassie default,Water lock operator,0,0,0,,{TIME:1152214,1153507}What are you doing, kid?
-Dialogue: 0,0:19:13.50,0:19:17.38,lassie default,John Carraclough,0,0,0,,{TIME:1153507,1157386}I thought it was not possible\Nfor me to take care of her,
+Dialogue: 0,0:19:13.50,0:19:17.38,lassie default,John Carraclough,0,0,0,,{TIME:1153507,1157386}I thought it was impossible\Nfor me to take care of her,
 Dialogue: 0,0:19:17.38,0:19:20.84,lassie default,John Carraclough,0,0,0,,{TIME:1157386,1160847}so I had decided to take her\Nto her real owners!
 Dialogue: 0,0:19:20.84,0:19:22.51,lassie default,John Carraclough,0,0,0,,{TIME:1160847,1162516}And yet…
 Dialogue: 0,0:19:22.51,0:19:26.72,lassie default,Water lock operator,0,0,0,,{TIME:1162516,1166728}You think if you're persistent enough,\NI'll let you have it like that?
@@ -345,14 +344,14 @@ Dialogue: 0,0:19:46.58,0:19:48.50,lassie default,Colin,0,0,0,,{TIME:1186581,1188
 Dialogue: 0,0:19:51.54,0:19:53.58,lassie default,Water lock operator,0,0,0,,{TIME:1191545,1193588}Well, don't come here again.
 Dialogue: 0,0:19:53.58,0:19:57.67,lassie default,Water lock operator,0,0,0,,{TIME:1193588,1197676}You're a liar and unable\Nto take care of it. Go home, kid.
 Dialogue: 0,0:19:58.42,0:20:01.26,lassie default,John Carraclough,0,0,0,,{TIME:1198427,1201263}I'm not going anywhere\Nuntil you promise me!
-Dialogue: 0,0:20:01.26,0:20:02.72,lassie default,Water lock operator,0,0,0,,{TIME:1201263,1202723}Stupid!
+Dialogue: 0,0:20:01.26,0:20:02.72,lassie default,Water lock operator,0,0,0,,{TIME:1201263,1202723}You idiot!
 Dialogue: 0,0:20:05.10,0:20:06.35,lassie default,Colin,0,0,0,,{TIME:1205100,1206351}Oh! John!
 Dialogue: 0,0:20:10.98,0:20:13.81,lassie default,Water lock operator,0,0,0,,{TIME:1210981,1213817}I can't leave you now.\NHere, grab onto this.
-Dialogue: 0,0:20:13.81,0:20:19.53,lassie default,John Carraclough,0,0,0,,{TIME:1213817,1219531}No! I won't grab it, not before you\Npromise me to take good care of Lassie!
-Dialogue: 0,0:20:19.78,0:20:21.70,lassie default,Water lock operator,0,0,0,,{TIME:1219781,1221700}This is not the time\Nfor worthless arguments!
+Dialogue: 0,0:20:13.81,0:20:19.53,lassie default,John Carraclough,0,0,0,,{TIME:1213817,1219531}No! I won't grab it, until you\Npromise me you'll take good care of Lassie!
+Dialogue: 0,0:20:19.78,0:20:21.70,lassie default,Water lock operator,0,0,0,,{TIME:1219781,1221700}Now is not the time\Nfor worthless arguments!
 Dialogue: 0,0:20:21.70,0:20:25.28,lassie default,John Carraclough,0,0,0,,{TIME:1221700,1225287}Promise me that\Nyou won't bully her again!
 Dialogue: 0,0:20:25.28,0:20:27.53,lassie default,Water lock operator,0,0,0,,{TIME:1225287,1227539}I'm sorry I wasn't born\Nwith a pretty attitude!
-Dialogue: 0,0:20:27.53,0:20:29.70,lassie default,Water lock operator,0,0,0,,{TIME:1227539,1229708}I never planned to bully it, all right!
+Dialogue: 0,0:20:27.53,0:20:29.70,lassie default,Water lock operator,0,0,0,,{TIME:1227539,1229708}But I never planned to bully it, all right!
 Dialogue: 0,0:20:32.96,0:20:35.88,lassie default,Water lock operator,0,0,0,,{TIME:1232961,1235881}Look, it's a ship!
 Dialogue: 0,0:20:36.29,0:20:38.88,lassie default,Water lock operator,0,0,0,,{TIME:1236298,1238884}Hurry up and get your butt\Noutta there or you'll regret it, kid!
 Dialogue: 0,0:20:42.26,0:20:45.05,lassie default,Water lock operator,0,0,0,,{TIME:1242262,1245056}All right, all right!\NI promise you!
@@ -364,9 +363,9 @@ Dialogue: 0,0:21:09.28,0:21:10.83,lassie default,Water lock operator,0,0,0,,{TIM
 Dialogue: 0,0:21:10.83,0:21:14.46,lassie default,John Carraclough,0,0,0,,{TIME:1270832,1274461}But I brought her to you\Nbecause you are her real owner.
 Dialogue: 0,0:21:14.46,0:21:18.04,lassie default,Water lock operator,0,0,0,,{TIME:1274461,1278048}It's true that I made\Na promise to take care of it.
 Dialogue: 0,0:21:18.04,0:21:22.34,lassie default,Water lock operator,0,0,0,,{TIME:1278048,1282344}But in the end,\Nit doesn't matter who gets to raise it.
-Dialogue: 0,0:21:23.17,0:21:26.34,lassie default,Water lock operator,0,0,0,,{TIME:1283178,1286348}Doing it myself would be a pain\Nin the butt, so I'll leave it to you.
+Dialogue: 0,0:21:23.17,0:21:26.34,lassie default,Water lock operator,0,0,0,,{TIME:1283178,1286348}Doing it myself would've been\Na pain so, I'll leave it to you.
 Dialogue: 0,0:21:31.81,0:21:35.60,lassie default,Water lock operator,0,0,0,,{TIME:1291812,1295607}Come visit me again some day,\Nthe three of you.
-Dialogue: 0,0:21:35.60,0:21:39.31,lassie default,Water lock operator,0,0,0,,{TIME:1295607,1299319}I will offer you\Nsome fresh seafood then.
+Dialogue: 0,0:21:35.60,0:21:39.31,lassie default,Water lock operator,0,0,0,,{TIME:1295607,1299319}I'll offer you\Nsome fresh seafood then.
 Dialogue: 0,0:21:39.31,0:21:40.52,lassie default,Water lock operator,0,0,0,,{TIME:1299319,1300529}You hear me?!
 Dialogue: 0,0:21:40.52,0:21:42.86,lassie default,John Carraclough,0,0,0,,{TIME:1300529,1302864}Yes! We will come, for sure!
 Dialogue: 0,0:21:44.24,0:21:47.16,lassie default,John Carraclough,0,0,0,,{TIME:1304241,1307160}Now, Lassie, let's go.\NTo our home.
@@ -374,28 +373,28 @@ Dialogue: 0,0:21:47.16,0:21:50.70,lassie default,John Carraclough,0,0,0,,{TIME:1
 Comment: 0,0:21:56.16,0:21:56.16,[chapter],[chapter],0,0,0,,{TIME:1316169,1316169}Preview
 Dialogue: 0,0:21:59.17,0:22:01.21,lassie default,John Carraclough,0,0,0,,{TIME:1319172,1321216}{\i1}Tomorrow is my Mom's birthday.
 Dialogue: 0,0:22:01.21,0:22:04.67,lassie default,John Carraclough,0,0,0,,{TIME:1321216,1324678}{\i1}But looks like Dad lost his salary.
-Dialogue: 0,0:22:04.67,0:22:07.80,lassie default,John Carraclough,0,0,0,,{TIME:1324678,1327806}{\i1}He can't buy any gift for Mom.
+Dialogue: 0,0:22:04.67,0:22:07.80,lassie default,John Carraclough,0,0,0,,{TIME:1324678,1327806}{\i1}He can't buy a gift for Mom.
 Dialogue: 0,0:22:07.80,0:22:10.97,lassie default,John Carraclough,0,0,0,,{TIME:1327806,1330976}{\i1}Lassie, we're gonna\Nlook for it with your nose!
 Dialogue: 0,0:22:10.97,0:22:13.35,lassie default,John Carraclough,0,0,0,,{TIME:1330976,1333353}{\i1}Next episode:\N"My Father's Salary".
 Dialogue: 0,0:22:13.35,0:22:14.68,lassie default,John Carraclough,0,0,0,,{TIME:1333353,1334688}{\i1}Be sure to watch!
 Comment: 0,0:22:16.10,0:22:16.10,[chapter],[chapter],0,0,0,,{TIME:1336106,1336106}Ending
-Dialogue: 0,0:22:16.10,0:22:19.98,lassie default,(sign),0,0,0,,{TIME:1336106,1339985}{\an5\pos(315,452)\fs28\i1}"The Boy's Hill" sung by Jun Morioka
-Dialogue: 0,0:22:24.78,0:22:27.99,lassie song jp ed,[karaoke],0,0,0,,{TIME:1344781,1347993}{\an5\pos(315,453)\blur0.5}tasogare ni wa kimi to{NOTE:黄昏には君と}
-Dialogue: 0,0:22:28.15,0:22:31.95,lassie song jp ed,[karaoke],0,0,0,,{TIME:1348159,1351955}{\an5\pos(315,453)\blur0.5}oka no ue kakenobori{NOTE:丘の上駆け登り}
-Dialogue: 0,0:22:32.28,0:22:35.16,lassie song jp ed,[karaoke],0,0,0,,{TIME:1352289,1355166}{\an5\pos(315,453)\blur0.5}tooi sora o miteta{NOTE:遠い空を見えた}
-Dialogue: 0,0:22:36.00,0:22:40.00,lassie song jp ed,[karaoke],0,0,0,,{TIME:1356001,1360005}{\an5\pos(315,453)\blur0.5}shounen no anogoro woo{NOTE:少年のあの頃woo}
-Dialogue: 0,0:22:40.21,0:22:43.00,lassie song jp ed,[karaoke],0,0,0,,{TIME:1360213,1363008}{\an5\pos(315,453)\blur0.5}poketto kara ochita{NOTE:ポケットから落ちた}
-Dialogue: 0,0:22:44.00,0:22:47.67,lassie song jp ed,[karaoke],0,0,0,,{TIME:1364009,1367679}{\an5\pos(315,453)\blur0.5}candy to toki no suna{NOTE:キャンディと時の砂}
-Dialogue: 0,0:22:47.88,0:22:50.80,lassie song jp ed,[karaoke],0,0,0,,{TIME:1367888,1370807}{\an5\pos(315,453)\blur0.5}otona ni naru tame no{NOTE:大人になるための}
-Dialogue: 0,0:22:51.34,0:22:55.39,lassie song jp ed,[karaoke],0,0,0,,{TIME:1371349,1375395}{\an5\pos(315,453)\blur0.5}tabi wa hajimatteta{NOTE:度は始まってた}
-Dialogue: 0,0:22:55.89,0:22:58.81,lassie song jp ed,[karaoke],0,0,0,,{TIME:1375896,1378815}{\an5\pos(315,453)\blur0.5}moeagaru{NOTE:燃えあがる}
-Dialogue: 0,0:22:59.23,0:23:02.90,lassie song jp ed,[karaoke],0,0,0,,{TIME:1379232,1382903}{\an5\pos(315,453)\blur0.5}yuuhi no kanata{NOTE:夕陽の彼方}
-Dialogue: 0,0:23:03.11,0:23:06.65,lassie song jp ed,[karaoke],0,0,0,,{TIME:1383111,1386656}{\an5\pos(315,453)\blur0.5}mada deaenai{NOTE:まだ出会えない}
-Dialogue: 0,0:23:06.90,0:23:10.70,lassie song jp ed,[karaoke],0,0,0,,{TIME:1386907,1390702}{\an5\pos(315,453)\blur0.5}hito ya machi ga kitto matteru{NOTE:人や街がきっと待ってる}
-Dialogue: 0,0:23:10.95,0:23:14.33,lassie song jp ed,[karaoke],0,0,0,,{TIME:1390952,1394331}{\an5\pos(315,453)\blur0.5}hohoen de{NOTE:微笑んで}
-Dialogue: 0,0:23:14.58,0:23:18.25,lassie song jp ed,[karaoke],0,0,0,,{TIME:1394581,1398251}{\an5\pos(315,453)\blur0.5}yakusoku shita ne{NOTE:約束したね}
-Dialogue: 0,0:23:18.50,0:23:22.08,lassie song jp ed,[karaoke],0,0,0,,{TIME:1398501,1402088}{\an5\pos(315,453)\blur0.5}ano oka wo koe{NOTE:あの丘を越え}
-Dialogue: 0,0:23:22.21,0:23:29.13,lassie song jp ed,[karaoke],0,0,0,,{TIME:1402213,1409137}{\an5\pos(315,453)\blur0.5}itsuka yume wo sagashi ni yukou to{NOTE:いつか夢を探しに行こうと}
+Dialogue: 0,0:22:16.10,0:22:19.98,lassie default,(sign),0,0,0,,{TIME:1336106,1339985}{\fs28\i1\pos(320,465)}"The Boy's Hill" sung by Jun Morioka
+Dialogue: 0,0:22:24.78,0:22:27.99,lassie song jp ed,[karaoke],0,0,0,,{TIME:1344781,1347993}tasogare ni wa kimi to{NOTE:黄昏には君と}
+Dialogue: 0,0:22:28.15,0:22:31.95,lassie song jp ed,[karaoke],0,0,0,,{TIME:1348159,1351955}oka no ue kakenobori{NOTE:丘の上駆け登り}
+Dialogue: 0,0:22:32.28,0:22:35.16,lassie song jp ed,[karaoke],0,0,0,,{TIME:1352289,1355166}tooi sora o miteta{NOTE:遠い空を見えた}
+Dialogue: 0,0:22:36.00,0:22:40.00,lassie song jp ed,[karaoke],0,0,0,,{TIME:1356001,1360005}shounen no anogoro woo{NOTE:少年のあの頃woo}
+Dialogue: 0,0:22:40.21,0:22:43.00,lassie song jp ed,[karaoke],0,0,0,,{TIME:1360213,1363008}poketto kara ochita{NOTE:ポケットから落ちた}
+Dialogue: 0,0:22:44.00,0:22:47.67,lassie song jp ed,[karaoke],0,0,0,,{TIME:1364009,1367679}candy to toki no suna{NOTE:キャンディと時の砂}
+Dialogue: 0,0:22:47.88,0:22:50.80,lassie song jp ed,[karaoke],0,0,0,,{TIME:1367888,1370807}otona ni naru tame no{NOTE:大人になるための}
+Dialogue: 0,0:22:51.34,0:22:55.39,lassie song jp ed,[karaoke],0,0,0,,{TIME:1371349,1375395}tabi wa hajimatteta{NOTE:度は始まってた}
+Dialogue: 0,0:22:55.89,0:22:58.81,lassie song jp ed,[karaoke],0,0,0,,{TIME:1375896,1378815}moeagaru{NOTE:燃えあがる}
+Dialogue: 0,0:22:59.23,0:23:02.90,lassie song jp ed,[karaoke],0,0,0,,{TIME:1379232,1382903}yuuhi no kanata{NOTE:夕陽の彼方}
+Dialogue: 0,0:23:03.11,0:23:06.65,lassie song jp ed,[karaoke],0,0,0,,{TIME:1383111,1386656}mada deaenai{NOTE:まだ出会えない}
+Dialogue: 0,0:23:06.90,0:23:10.70,lassie song jp ed,[karaoke],0,0,0,,{TIME:1386907,1390702}hito ya machi ga kitto matteru{NOTE:人や街がきっと待ってる}
+Dialogue: 0,0:23:10.95,0:23:14.33,lassie song jp ed,[karaoke],0,0,0,,{TIME:1390952,1394331}hohoen de{NOTE:微笑んで}
+Dialogue: 0,0:23:14.58,0:23:18.25,lassie song jp ed,[karaoke],0,0,0,,{TIME:1394581,1398251}yakusoku shita ne{NOTE:約束したね}
+Dialogue: 0,0:23:18.50,0:23:22.08,lassie song jp ed,[karaoke],0,0,0,,{TIME:1398501,1402088}ano oka wo koe{NOTE:あの丘を越え}
+Dialogue: 0,0:23:22.21,0:23:29.13,lassie song jp ed,[karaoke],0,0,0,,{TIME:1402213,1409137}itsuka yume wo sagashi ni yukou to{NOTE:いつか夢を探しに行こうと}
 Dialogue: 0,0:22:24.78,0:22:27.99,lassie song en ed,[karaoke],0,0,0,,{TIME:1344781,1347993}The clock strikes twelve,
 Dialogue: 0,0:22:28.15,0:22:31.95,lassie song en ed,[karaoke],0,0,0,,{TIME:1348159,1351955}and I run with you up the hill
 Dialogue: 0,0:22:32.28,0:22:35.16,lassie song en ed,[karaoke],0,0,0,,{TIME:1352289,1355166}We can see the distant skies
