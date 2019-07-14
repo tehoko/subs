@@ -5,7 +5,7 @@ ScriptType: v4.00+
 PlayResX: 1440
 PlayResY: 1080
 YCbCr Matrix: TV.601
-WrapStyle: 1
+WrapStyle: 2
 ScaledBorderAndShadow: yes
 Title: Saint Tail - 21
 Audio File: source/21.mkv
@@ -55,223 +55,231 @@ Dialogue: 0,0:01:12.96,0:01:19.35,saint tail op en,[karaoke],0,0,0,,{TIME:72969,
 Dialogue: 0,0:01:19.35,0:01:22.77,saint tail op en,[karaoke],0,0,0,,{TIME:79350,82770}we are always connected.
 Dialogue: 0,0:01:27.06,0:01:29.44,saint tail op en,[karaoke],0,0,0,,{TIME:87066,89444}Want you here tonight!
 Comment: 0,0:01:31.11,0:01:31.11,[chapter],[chapter],0,0,0,,{TIME:91112,91112}Part A
-Dialogue: 0,0:01:39.49,0:01:42.91,saint tail default,,0,0,0,,{TIME:99495,102915}Hold it, St. Tail!
-Dialogue: 0,0:01:43.12,0:01:46.41,saint tail default,,0,0,0,,{TIME:103124,106419}St. Tail! I won't let you get away!
-Dialogue: 0,0:01:47.08,0:01:49.33,saint tail default,,0,0,0,,{TIME:107086,109339}What's going on?
-Dialogue: 0,0:01:50.13,0:01:53.55,saint tail default,,0,0,0,,{TIME:110131,113551}– You two go after that one!\N– Yes, sir!
-Dialogue: 0,0:01:55.97,0:01:59.14,saint tail default,,0,0,0,,{TIME:115970,119140}Darn! Wait!
-Dialogue: 0,0:02:04.27,0:02:07.52,saint tail default,,0,0,0,,{TIME:124270,127523}You thought I'd get tricked\Nwith your magic?
-Dialogue: 0,0:02:07.73,0:02:10.61,saint tail default,,0,0,0,,{TIME:127732,130610}Today I'll get you for sure!
-Dialogue: 0,0:02:19.32,0:02:21.78,saint tail default,,0,0,0,,{TIME:139327,141788}Darn it!
-Dialogue: 0,0:02:23.87,0:02:28.04,saint tail default,,0,0,0,,{TIME:143873,148044}The next time, I'll have\Ncomplete data on you…
-Dialogue: 0,0:02:28.25,0:02:30.92,saint tail default,,0,0,0,,{TIME:148252,150922}…and you won't get away!
-Dialogue: 0,0:02:31.75,0:02:36.92,saint tail default,,0,0,0,,{TIME:151756,156928}STEAL THE MEMORABLE HARMONICA!
-Dialogue: 0,0:02:41.22,0:02:45.85,saint tail default,,0,0,0,,{TIME:161224,165853}Miyuki, please cheer up.\NI'm sure God is with you.
-Dialogue: 0,0:02:46.39,0:02:49.81,saint tail default,,0,0,0,,{TIME:166396,169816}Yes, thank you very much.
-Dialogue: 0,0:02:59.15,0:03:00.49,saint tail default,,0,0,0,,{TIME:179158,180493}Music competition?
-Dialogue: 0,0:03:01.11,0:03:06.08,saint tail default,,0,0,0,,{TIME:181119,186082}Yes. They're holding the Seika City\NYouth Music Competition tonight…
-Dialogue: 0,0:03:06.29,0:03:10.12,saint tail default,,0,0,0,,{TIME:186290,190128}…at the new hall that opened\Non Bayside Street.
-Dialogue: 0,0:03:10.33,0:03:13.42,saint tail default,,0,0,0,,{TIME:190336,193423}And Miyuki is one\Nof the contestants, right?
-Dialogue: 0,0:03:13.84,0:03:17.17,saint tail default,,0,0,0,,{TIME:193840,197176}But a problem has come up.
-Dialogue: 0,0:03:17.38,0:03:20.13,saint tail default,,0,0,0,,{TIME:197385,200138}What do you mean by a "problem"?
-Dialogue: 0,0:03:20.34,0:03:25.10,saint tail default,,0,0,0,,{TIME:200346,205101}Miyuki was supposed to play\Na harmonica at the contest.
-Dialogue: 0,0:03:25.30,0:03:29.56,saint tail default,,0,0,0,,{TIME:205309,209564}But a certain person has tricked her\Nand taken her harmonica.
-Dialogue: 0,0:03:30.18,0:03:32.90,saint tail default,,0,0,0,,{TIME:210189,212900}Tricked her and taken it?
-Dialogue: 0,0:03:33.10,0:03:34.90,saint tail default,,0,0,0,,{TIME:213109,214902}Yes.
-Dialogue: 0,0:03:35.11,0:03:36.90,saint tail default,,0,0,0,,{TIME:215111,216904}FUKUYAMA MUSIC INSTRUMENTS
-Dialogue: 0,0:03:37.11,0:03:39.78,saint tail default,,0,0,0,,{TIME:217113,219782}To have the harmonica tuned…
-Dialogue: 0,0:03:40.03,0:03:43.61,saint tail default,,0,0,0,,{TIME:220032,223619}…Miyuki took it\Nto a music store on First Avenue.
-Dialogue: 0,0:03:44.07,0:03:48.24,saint tail default,,0,0,0,,{TIME:224078,228249}A music store on First Avenue\Nmeans it's the shop owned…
-Dialogue: 0,0:03:48.45,0:03:52.12,saint tail default,,0,0,0,,{TIME:228458,232128}…by Mr. Fukuyama,\None of the city's wealthy citizens.
-Dialogue: 0,0:03:52.33,0:03:55.67,saint tail default,,0,0,0,,{TIME:232336,235673}But Miyuki's harmonica was switched…
-Dialogue: 0,0:03:55.88,0:03:59.13,saint tail default,,0,0,0,,{TIME:235882,239135}…with a fake one by that Fukuyama.
-Dialogue: 0,0:04:06.05,0:04:08.51,saint tail default,,0,0,0,,{TIME:246058,248519}She isn't the only one he's deceived.
-Dialogue: 0,0:04:08.72,0:04:12.94,saint tail default,,0,0,0,,{TIME:248728,252940}He's tricked others, taken\Ntheir instruments and sold them.
-Dialogue: 0,0:04:13.10,0:04:15.73,saint tail default,,0,0,0,,{TIME:253107,255735}What an unforgivable thing to do!
-Dialogue: 0,0:04:16.02,0:04:19.73,saint tail default,,0,0,0,,{TIME:256027,259739}Miyuki's harmonica is\Na rare foreign-made one…
-Dialogue: 0,0:04:19.98,0:04:22.65,saint tail default,,0,0,0,,{TIME:259989,262658}…given to her by her late father.
-Dialogue: 0,0:04:22.86,0:04:26.12,saint tail default,,0,0,0,,{TIME:262867,266120}She's used it\Nsince she was little, so—
-Dialogue: 0,0:04:26.37,0:04:30.16,saint tail default,,0,0,0,,{TIME:266370,270166}She won't perform as well\Non another harmonica.
-Dialogue: 0,0:04:30.37,0:04:36.21,saint tail default,,0,0,0,,{TIME:270374,276214}Right. You have to get her harmonica\Nback by the time the contest begins.
-Dialogue: 0,0:04:36.42,0:04:41.59,saint tail default,,0,0,0,,{TIME:276422,281594}We have to help Miyuki give a\Nsuccessful performance, no matter what!
-Dialogue: 0,0:04:45.38,0:04:48.30,saint tail default,,0,0,0,,{TIME:285389,288309}I'm starved.\NLet's grab a few hamburgers.
-Dialogue: 0,0:04:48.51,0:04:53.77,saint tail default,,0,0,0,,{TIME:288518,293773}– I'll pass on it today.\N– Then how about a game?
-Dialogue: 0,0:04:53.98,0:04:59.40,saint tail default,,0,0,0,,{TIME:293981,299403}No, I've got some things to do.\NSorry, but I'm heading home. See you.
-Dialogue: 0,0:05:12.04,0:05:15.29,saint tail default,,0,0,0,,{TIME:312041,315294}St. Tail? This way!
-Dialogue: 0,0:05:18.92,0:05:22.38,saint tail default,,0,0,0,,{TIME:318923,322385}Rats! She's teasing me!
-Dialogue: 0,0:05:24.17,0:05:27.18,saint tail default,,0,0,0,,{TIME:324178,327181}NICE JOB – ST. TAIL
-Dialogue: 0,0:05:27.59,0:05:30.18,saint tail default,,0,0,0,,{TIME:327598,330184}Ouch!
-Dialogue: 0,0:05:30.81,0:05:35.14,saint tail default,,0,0,0,,{TIME:330810,335147}"Tonight I'm taking a harmonica\Nin the First Avenue music store."
-Dialogue: 0,0:05:35.52,0:05:37.90,saint tail default,,0,0,0,,{TIME:335523,337900}What? St. Tail, you…!
-Dialogue: 0,0:05:39.52,0:05:42.98,saint tail default,,0,0,0,,{TIME:339527,342989}– Dad!\N– Son, sorry, but your dinner's pizza.
-Dialogue: 0,0:05:43.23,0:05:46.65,saint tail default,,0,0,0,,{TIME:343239,346659}No time for dinner!\NTonight, St. Tail's gonna—
-Dialogue: 0,0:05:46.90,0:05:51.62,saint tail default,,0,0,0,,{TIME:346909,351622}Calling me in for backup when\NI'm off duty. What a rotten deal.
-Dialogue: 0,0:05:51.83,0:05:54.58,saint tail default,,0,0,0,,{TIME:351831,354584}The First Avenue music store,\NSt. Tail's—
-Dialogue: 0,0:05:54.79,0:05:59.54,saint tail default,,0,0,0,,{TIME:354792,359547}Okay, okay.\NOh, I almost forgot something.
-Dialogue: 0,0:06:00.17,0:06:02.59,saint tail default,,0,0,0,,{TIME:360172,362592}A photo of the man we're guarding.
-Dialogue: 0,0:06:02.80,0:06:07.01,saint tail default,,0,0,0,,{TIME:362800,367013}The chairman of the panel of judges\Nfor the music competition.
-Dialogue: 0,0:06:07.22,0:06:11.22,saint tail default,,0,0,0,,{TIME:367221,371225}Mr. Wilson, famous composer\Nand competitor in music contests.
-Dialogue: 0,0:06:11.55,0:06:15.22,saint tail default,,0,0,0,,{TIME:371559,375229}Now I've got to involve myself\Nin international affairs.
-Dialogue: 0,0:06:15.43,0:06:18.27,saint tail default,,0,0,0,,{TIME:375438,378274}I better not forget\Nto get his signature.
-Dialogue: 0,0:06:18.48,0:06:21.69,saint tail default,,0,0,0,,{TIME:378482,381694}Wait, Dad! Darn it!
-Dialogue: 0,0:06:22.44,0:06:25.65,saint tail default,,0,0,0,,{TIME:382445,385656}Please forgive me\Nfor not being finished.
-Dialogue: 0,0:06:25.99,0:06:29.61,saint tail default,,0,0,0,,{TIME:385990,389619}My, that's a cute doll!
-Dialogue: 0,0:06:29.86,0:06:31.16,saint tail default,,0,0,0,,{TIME:389869,391162}Hello.
-Dialogue: 0,0:06:32.12,0:06:34.58,saint tail default,,0,0,0,,{TIME:392121,394582}– This is Daddy.\N– That's right!
-Dialogue: 0,0:06:35.20,0:06:40.29,saint tail default,,0,0,0,,{TIME:395207,400296}I'm going to be putting on a magic\Nshow at the hall on Bayside Street.
-Dialogue: 0,0:06:40.50,0:06:42.50,saint tail default,,0,0,0,,{TIME:400504,402506}The hall on Bayside Street?
-Dialogue: 0,0:06:43.09,0:06:46.17,saint tail default,,0,0,0,,{TIME:403090,406177}Yeah, it's a magic show\Nat such a grand hall…
-Dialogue: 0,0:06:46.38,0:06:50.34,saint tail default,,0,0,0,,{TIME:406385,410348}…that I've got to put together\Nquite a gimmick.
-Dialogue: 0,0:06:50.55,0:06:54.01,saint tail default,,0,0,0,,{TIME:410556,414018}So I'm using miniatures\Nto plan out the whole setup.
-Dialogue: 0,0:06:54.18,0:06:57.98,saint tail default,,0,0,0,,{TIME:414185,417980}– What magic will you be doing?\N– A great escape act.
-Dialogue: 0,0:06:58.60,0:07:01.15,saint tail default,,0,0,0,,{TIME:418606,421150}A great escape act? Wonderful!
-Dialogue: 0,0:07:01.40,0:07:06.11,saint tail default,,0,0,0,,{TIME:421400,426113}There's a little escape route\Nunder the stage of that hall.
-Dialogue: 0,0:07:06.32,0:07:07.99,saint tail default,,0,0,0,,{TIME:426322,427990}I'm planning to use it.
-Dialogue: 0,0:07:08.19,0:07:10.78,saint tail default,,0,0,0,,{TIME:428199,430785}And it's called "Escape From Flames."
-Dialogue: 0,0:07:10.99,0:07:14.87,saint tail default,,0,0,0,,{TIME:430993,434872}– An escape from water may be better.\N– You have a point.
-Dialogue: 0,0:07:15.08,0:07:18.29,saint tail default,,0,0,0,,{TIME:435081,438292}With Mom's ideas\Nand Dad's magic put together…
-Dialogue: 0,0:07:18.50,0:07:21.87,saint tail default,,0,0,0,,{TIME:438501,441879}…it'll probably be a wonderful show!
-Dialogue: 0,0:07:23.29,0:07:27.34,saint tail default,,0,0,0,,{TIME:443297,447343}– Ruby expects it to be fabulous too.\N– Thank you, Ruby.
-Dialogue: 0,0:07:31.76,0:07:35.39,saint tail default,,0,0,0,,{TIME:451764,455393}Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
-Dialogue: 0,0:07:40.43,0:07:42.14,saint tail default,,0,0,0,,{TIME:460439,462149}One!
-Dialogue: 0,0:07:43.98,0:07:45.65,saint tail default,,0,0,0,,{TIME:463985,465653}Two!
-Dialogue: 0,0:07:47.19,0:07:50.24,saint tail default,,0,0,0,,{TIME:467196,470241}Three!
-Dialogue: 0,0:08:03.17,0:08:06.29,saint tail default,,0,0,0,,{TIME:483170,486298}Miyuki is scheduled\Nto perform at 8:00.
-Dialogue: 0,0:08:06.59,0:08:10.01,saint tail default,,0,0,0,,{TIME:486590,490011}8:00. I've got to hurry\Nor I won't make it!
-Dialogue: 0,0:08:10.21,0:08:13.09,saint tail default,,0,0,0,,{TIME:490219,493097}Good luck, Meimi.
-Dialogue: 0,0:08:15.47,0:08:19.06,saint tail default,,0,0,0,,{TIME:495474,499061}May the blessings of God be with us.
-Dialogue: 0,0:08:19.27,0:08:25.02,saint tail default,,0,0,0,,{TIME:499270,505026}What? The schedule has changed?\NThat's a problem. What's going on?
-Dialogue: 0,0:08:25.23,0:08:30.65,saint tail default,,0,0,0,,{TIME:505234,510656}Mr. Fukuyama, I simply will not\Nbe able to meet you at your shop.
-Dialogue: 0,0:08:30.82,0:08:34.66,saint tail default,,0,0,0,,{TIME:510823,514660}Actually, my next performance\Nwas suddenly moved up…
-Dialogue: 0,0:08:34.86,0:08:39.16,saint tail default,,0,0,0,,{TIME:514869,519165}…and I must leave Japan immediately\Nafter tonight's competition.
-Dialogue: 0,0:08:39.66,0:08:41.41,saint tail default,,0,0,0,,{TIME:519665,521417}I understand.
-Dialogue: 0,0:08:41.62,0:08:45.88,saint tail default,,0,0,0,,{TIME:521625,525880}Then I will take the instrument\Ndown to the hall.
-Dialogue: 0,0:08:46.63,0:08:49.59,saint tail default,,0,0,0,,{TIME:526630,529592}Oh, that would be excellent.
-Dialogue: 0,0:08:49.80,0:08:53.42,saint tail default,,0,0,0,,{TIME:529800,533429}Well, then, Mr. Fukuyama.
-Dialogue: 0,0:08:53.63,0:08:57.39,saint tail default,,0,0,0,,{TIME:533637,537391}Mr. Wilson, we will be arriving\Nat the hall soon.
-Dialogue: 0,0:09:03.27,0:09:07.23,saint tail default,,0,0,0,,{TIME:543272,547234}– Mr. Fukuyama, isn't it?\N– What do you want, kid?
-Dialogue: 0,0:09:07.40,0:09:11.86,saint tail default,,0,0,0,,{TIME:547401,551864}I'm Asuka Jr. and I was commissioned\Nto help catch St. Tail.
-Dialogue: 0,0:09:12.07,0:09:15.07,saint tail default,,0,0,0,,{TIME:552073,555076}I received a notice\Nthat St. Tail will come…
-Dialogue: 0,0:09:15.28,0:09:18.12,saint tail default,,0,0,0,,{TIME:555284,558120}…to steal a harmonica in this shop.
-Dialogue: 0,0:09:18.32,0:09:23.25,saint tail default,,0,0,0,,{TIME:558329,563250}St. Tail or Hail or whatever, I don't\Nknow about it! Go home, I'm busy!
-Dialogue: 0,0:09:23.70,0:09:25.87,saint tail default,,0,0,0,,{TIME:563709,565878}That won't do.
-Dialogue: 0,0:09:26.08,0:09:29.54,saint tail default,,0,0,0,,{TIME:566087,569548}You will cooperate\Nin staking this place out.
-Dialogue: 0,0:09:29.75,0:09:34.59,saint tail default,,0,0,0,,{TIME:569757,574595}That's an official investigation\Nfrom the mayor! Do as you please.
-Dialogue: 0,0:09:34.80,0:09:36.88,saint tail default,,0,0,0,,{TIME:574804,576889}Okay, now…
-Dialogue: 0,0:09:40.18,0:09:43.27,saint tail default,,0,0,0,,{TIME:580184,583270}That St. Tail.\NSo that's what she's after.
-Dialogue: 0,0:09:56.20,0:09:58.11,saint tail default,,0,0,0,,{TIME:596200,598119}St. Tail.
-Dialogue: 0,0:09:58.32,0:10:02.03,saint tail default,,0,0,0,,{TIME:598327,602039}She can have any harmonica\Nin the shop she wants.
-Dialogue: 0,0:10:10.33,0:10:15.46,saint tail default,,0,0,0,,{TIME:610339,615469}The stolen instruments are\Nall stored right here!
-Dialogue: 0,0:10:20.09,0:10:23.93,saint tail default,,0,0,0,,{TIME:620099,623936}7:00. Okay, come from wherever\Nyou want, St. Tail!
-Dialogue: 0,0:10:31.56,0:10:35.23,saint tail default,,0,0,0,,{TIME:631569,635239}St. Tail!\NYou won't get the harmonica!
-Dialogue: 0,0:10:36.24,0:10:40.36,saint tail default,,0,0,0,,{TIME:636240,640369}What? Hey, the harmonica is\Nover here, you know!
-Dialogue: 0,0:10:42.20,0:10:47.33,saint tail default,,0,0,0,,{TIME:642204,647334}It's that magic again. According\Nto my analysis, the real one is here!
-Dialogue: 0,0:10:51.21,0:10:55.46,saint tail default,,0,0,0,,{TIME:651213,655467}That's strange. The storage\Nroom door was left open.
-Dialogue: 0,0:10:56.92,0:11:02.18,saint tail default,,0,0,0,,{TIME:656927,662183}You're kidding. According to Seira,\Nthe harmonica should be here!
-Dialogue: 0,0:11:02.39,0:11:05.18,saint tail default,,0,0,0,,{TIME:662391,665186}Hold it, St. Tail!
-Dialogue: 0,0:11:05.76,0:11:07.73,saint tail default,,0,0,0,,{TIME:665769,667730}Oh, no!
-Dialogue: 0,0:11:07.93,0:11:09.64,saint tail default,,0,0,0,,{TIME:667938,669648}You won't escape today!
-Dialogue: 0,0:11:10.31,0:11:14.06,saint tail default,,0,0,0,,{TIME:670316,674069}Where can Miyuki's harmonica be?
+Dialogue: 0,0:01:39.70,0:01:43.08,saint tail default,,0,0,0,,{TIME:99704,103082}Hold it, St. Tail!
+Dialogue: 0,0:01:43.37,0:01:45.66,saint tail default,,0,0,0,,{TIME:103374,105668}St. Tail! I won't let you get away!
+Dialogue: 0,0:01:47.29,0:01:48.63,saint tail default,,0,0,0,,{TIME:107295,108630}What's going on?
+Dialogue: 0,0:01:50.29,0:01:52.71,saint tail default,,0,0,0,,{TIME:110298,112717}– You two, go after that one!\N– Yes, sir!
+Dialogue: 0,0:01:56.13,0:01:58.84,saint tail default,,0,0,0,,{TIME:116137,118848}Darn! Wait!
+Dialogue: 0,0:02:04.52,0:02:06.93,saint tail default,,0,0,0,,{TIME:124520,126939}You thought I'd get tricked\Nwith your magic?
+Dialogue: 0,0:02:07.98,0:02:09.90,saint tail default,,0,0,0,,{TIME:127982,129901}Today I'll get you for sure!
+Dialogue: 0,0:02:19.45,0:02:21.20,saint tail default,,0,0,0,,{TIME:139452,141204}Darn it!
+Dialogue: 0,0:02:24.08,0:02:28.58,saint tail default,,0,0,0,,{TIME:144082,148586}The next time, I'll have\Ncomplete data on you,
+Dialogue: 0,0:02:28.58,0:02:31.08,saint tail default,,0,0,0,,{TIME:148586,151089}and you won't get away!
+Dialogue: 0,0:02:32.92,0:02:35.34,saint tail default,[title],0,0,0,,{TIME:152924,155343}Steal The Memorable Harmonica!
+Dialogue: 0,0:02:41.34,0:02:46.02,saint tail default,,0,0,0,,{TIME:161349,166020}Miyuki, please cheer up.\NI'm sure God is with you.
+Dialogue: 0,0:02:46.52,0:02:50.06,saint tail default,,0,0,0,,{TIME:166521,170066}Yes, thank you very much.
+Dialogue: 0,0:02:59.45,0:03:01.20,saint tail default,,0,0,0,,{TIME:179450,181202}Music competition?
+Dialogue: 0,0:03:01.20,0:03:06.45,saint tail default,,0,0,0,,{TIME:181202,186457}Yes. They're holding the Seika City\NYouth Music Competition tonight
+Dialogue: 0,0:03:06.45,0:03:10.42,saint tail default,,0,0,0,,{TIME:186457,190420}at the new hall that opened\Non Bayside Street.
+Dialogue: 0,0:03:10.42,0:03:13.58,saint tail default,,0,0,0,,{TIME:190420,193589}And Miyuki is one\Nof the contestants, right?
+Dialogue: 0,0:03:13.96,0:03:17.71,saint tail default,,0,0,0,,{TIME:193965,197719}But a problem has come up.
+Dialogue: 0,0:03:17.71,0:03:20.51,saint tail default,,0,0,0,,{TIME:197719,200513}What do you mean by a "problem"?
+Dialogue: 0,0:03:20.51,0:03:25.26,saint tail default,,0,0,0,,{TIME:200513,205268}Miyuki was supposed to play\Na harmonica at the contest.
+Dialogue: 0,0:03:25.72,0:03:29.73,saint tail default,,0,0,0,,{TIME:205727,209731}But a certain person has tricked her\Nand taken her harmonica.
+Dialogue: 0,0:03:30.31,0:03:33.27,saint tail default,,0,0,0,,{TIME:210314,213276}Tricked her and taken it?
+Dialogue: 0,0:03:33.27,0:03:35.15,saint tail default,,0,0,0,,{TIME:213276,215153}Yes.
+Dialogue: 0,0:03:34.27,0:03:38.99,saint tail sign,(sign),0,0,0,,{TIME:214277,218990}{\fad(1500,1500)}Fukuyama Music Instruments
+Dialogue: 0,0:03:37.23,0:03:40.36,saint tail default,,0,0,0,,{TIME:217238,220366}To have the harmonica tuned,
+Dialogue: 0,0:03:40.36,0:03:43.74,saint tail default,,0,0,0,,{TIME:220366,223745}Miyuki took it to\Na music store on First Avenue.
+Dialogue: 0,0:03:44.45,0:03:48.70,saint tail default,,0,0,0,,{TIME:224454,228708}A music store on First Avenue\Nmeans it's the shop owned
+Dialogue: 0,0:03:48.70,0:03:52.46,saint tail default,,0,0,0,,{TIME:228708,232462}by Mr. Fukuyama,\None of the city's wealthy citizens.
+Dialogue: 0,0:03:52.46,0:03:59.30,saint tail default,,0,0,0,,{TIME:232462,239302}But Miyuki's harmonica was switched\Nwith a fake one by that Fukuyama.
+Dialogue: 0,0:04:06.39,0:04:08.85,saint tail default,,0,0,0,,{TIME:246392,248853}She isn't the only one he's deceived.
+Dialogue: 0,0:04:08.85,0:04:13.10,saint tail default,,0,0,0,,{TIME:248853,253107}He's tricked others, taken\Ntheir instruments and sold them.
+Dialogue: 0,0:04:13.10,0:04:15.86,saint tail default,,0,0,0,,{TIME:253107,255860}What an unforgivable thing to do!
+Dialogue: 0,0:04:16.36,0:04:22.99,saint tail default,,0,0,0,,{TIME:256360,262992}Miyuki's harmonica is a rare foreign-made one,\Ngiven to her by her late father.
+Dialogue: 0,0:04:22.99,0:04:26.49,saint tail default,,0,0,0,,{TIME:262992,266496}She's used it\Nsince she was little, so—
+Dialogue: 0,0:04:26.49,0:04:29.83,saint tail default,,0,0,0,,{TIME:266496,269832}She won't perform as well\Non another harmonica.
+Dialogue: 0,0:04:30.66,0:04:36.58,saint tail default,,0,0,0,,{TIME:270666,276589}Right. You have to get her harmonica back\Nby the time the contest begins.
+Dialogue: 0,0:04:36.58,0:04:41.76,saint tail default,,0,0,0,,{TIME:276589,281761}We have to help Miyuki give\Na successful performance, no matter what!
+Dialogue: 0,0:04:45.55,0:04:48.64,saint tail default,,0,0,0,,{TIME:285556,288643}I'm starved.\NLet's grab a few hamburgers.
+Dialogue: 0,0:04:48.64,0:04:51.18,saint tail default,,0,0,0,,{TIME:288643,291187}I'll pass on it today.
+Dialogue: 0,0:04:51.18,0:04:54.10,saint tail default,,0,0,0,,{TIME:291187,294106}Then how about a game?
+Dialogue: 0,0:04:54.10,0:04:58.82,saint tail default,,0,0,0,,{TIME:294106,298820}No, I've got some things to do.\NSorry, but I'm heading home. See you.
+Dialogue: 0,0:05:12.20,0:05:15.41,saint tail default,,0,0,0,,{TIME:312208,315419}St. Tail? This way!
+Dialogue: 0,0:05:19.17,0:05:21.38,saint tail default,,0,0,0,,{TIME:319173,321384}Rats! She's teasing me!
+Dialogue: 0,0:05:23.59,0:05:27.30,saint tail sign,(sign),0,0,0,,{TIME:323594,327306}{\fad(500,0)}Nice Job – St. Tail
+Dialogue: 0,0:05:27.84,0:05:30.30,saint tail default,,0,0,0,,{TIME:327849,330309}Ouch!
+Dialogue: 0,0:05:31.14,0:05:35.27,saint tail default,,0,0,0,,{TIME:331143,335273}"Tonight I'm taking a harmonica\Nin the First Avenue music store. – St. Tail"
+Dialogue: 0,0:05:35.73,0:05:38.02,saint tail default,,0,0,0,,{TIME:335731,338025}What? St. Tail, you!
+Dialogue: 0,0:05:39.61,0:05:40.23,saint tail default,,0,0,0,,{TIME:339610,340236}Dad!
+Dialogue: 0,0:05:40.23,0:05:43.28,saint tail default,,0,0,0,,{TIME:340236,343281}Son, sorry, but your dinner's pizza.
+Dialogue: 0,0:05:43.28,0:05:46.99,saint tail default,,0,0,0,,{TIME:343281,346993}No time for dinner!\NTonight, St. Tail's gonna—
+Dialogue: 0,0:05:46.99,0:05:51.74,saint tail default,,0,0,0,,{TIME:346993,351747}Calling me in for backup when\NI'm off duty. What a rotten deal.
+Dialogue: 0,0:05:51.99,0:05:54.95,saint tail default,,0,0,0,,{TIME:351998,354959}The First Avenue music store,\NSt. Tail's—
+Dialogue: 0,0:05:54.95,0:05:59.67,saint tail default,,0,0,0,,{TIME:354959,359672}Okay, okay.\NOh, I almost forgot something.
+Dialogue: 0,0:06:00.50,0:06:03.09,saint tail default,,0,0,0,,{TIME:360506,363092}A photo of the man we're guarding.
+Dialogue: 0,0:06:03.09,0:06:07.26,saint tail default,,0,0,0,,{TIME:363092,367263}The chairman of the panel of judges\Nfor the music competition.
+Dialogue: 0,0:06:07.26,0:06:11.35,saint tail default,,0,0,0,,{TIME:367263,371350}Mr. Wilson, famous composer\Nand competitor in music contests.
+Dialogue: 0,0:06:11.80,0:06:15.56,saint tail default,,0,0,0,,{TIME:371809,375563}Now I've got to involve myself\Nin international affairs.
+Dialogue: 0,0:06:15.56,0:06:18.60,saint tail default,,0,0,0,,{TIME:375563,378608}I better not forget\Nto get his signature.
+Dialogue: 0,0:06:18.60,0:06:21.81,saint tail default,,0,0,0,,{TIME:378608,381819}Wait, Dad! Darn it!
+Dialogue: 0,0:06:22.52,0:06:26.07,saint tail default,,0,0,0,,{TIME:382528,386073}Please forgive me\Nfor not being finished.
+Dialogue: 0,0:06:26.07,0:06:28.74,saint tail default,,0,0,0,,{TIME:386073,388743}My, that's a cute doll!
+Dialogue: 0,0:06:29.95,0:06:31.24,saint tail default,,0,0,0,,{TIME:389952,391245}Hello.
+Dialogue: 0,0:06:32.20,0:06:34.70,saint tail default,,0,0,0,,{TIME:392204,394707}– This is Daddy.\N– That's right!
+Dialogue: 0,0:06:35.29,0:06:40.42,saint tail default,,0,0,0,,{TIME:395291,400421}I'm going to be putting on a magic\Nshow at the hall on Bayside Street.
+Dialogue: 0,0:06:40.88,0:06:42.63,saint tail default,,0,0,0,,{TIME:400880,402632}The hall on Bayside Street?
+Dialogue: 0,0:06:43.17,0:06:50.72,saint tail default,,0,0,0,,{TIME:403174,410723}Yeah, it's a magic show at such a grand hall\Nthat I've got to put together quite a gimmick.
+Dialogue: 0,0:06:50.72,0:06:54.26,saint tail default,,0,0,0,,{TIME:410723,414268}So I'm using miniatures\Nto plan out the whole setup.
+Dialogue: 0,0:06:54.26,0:06:56.52,saint tail default,,0,0,0,,{TIME:414268,416520}What magic will you be doing?
+Dialogue: 0,0:06:56.52,0:06:58.10,saint tail default,,0,0,0,,{TIME:416520,418105}A great escape act.
+Dialogue: 0,0:06:58.68,0:07:01.48,saint tail default,,0,0,0,,{TIME:418689,421484}A great escape act? Wonderful!
+Dialogue: 0,0:07:01.48,0:07:06.36,saint tail default,,0,0,0,,{TIME:421484,426364}There's a little escape route\Nunder the stage of that hall.
+Dialogue: 0,0:07:06.36,0:07:08.28,saint tail default,,0,0,0,,{TIME:426364,428282}I'm planning to use it.
+Dialogue: 0,0:07:08.28,0:07:10.99,saint tail default,,0,0,0,,{TIME:428282,430993}And it's called\N"Escape From Flames."
+Dialogue: 0,0:07:10.99,0:07:14.03,saint tail default,,0,0,0,,{TIME:430993,434038}An escape from water\Nmay be better.
+Dialogue: 0,0:07:14.03,0:07:15.16,saint tail default,,0,0,0,,{TIME:434038,435164}You have a point.
+Dialogue: 0,0:07:15.16,0:07:18.62,saint tail default,,0,0,0,,{TIME:435164,438626}With Mom's ideas\Nand Dad's magic put together,
+Dialogue: 0,0:07:18.62,0:07:20.54,saint tail default,,0,0,0,,{TIME:438626,440544}it'll be a wonderful show for sure!
+Dialogue: 0,0:07:23.38,0:07:25.75,saint tail default,,0,0,0,,{TIME:443381,445758}Ruby expects it to be fabulous too.
+Dialogue: 0,0:07:25.75,0:07:27.46,saint tail default,,0,0,0,,{TIME:445758,447468}Thank you, Ruby.
+Dialogue: 0,0:07:31.84,0:07:35.47,saint tail default,,0,0,0,,{TIME:451847,455476}Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
+Dialogue: 0,0:07:40.56,0:07:41.48,saint tail default,,0,0,0,,{TIME:460564,461482}One!
+Dialogue: 0,0:07:44.06,0:07:45.15,saint tail default,,0,0,0,,{TIME:464068,465152}Two!
+Dialogue: 0,0:07:47.19,0:07:49.74,saint tail default,,0,0,0,,{TIME:467196,469740}Three!
+Dialogue: 0,0:08:03.21,0:08:06.42,saint tail default,,0,0,0,,{TIME:483212,486424}Miyuki is scheduled\Nto perform at 8:00.
+Dialogue: 0,0:08:06.79,0:08:10.13,saint tail default,,0,0,0,,{TIME:486799,490136}8:00. I've got to hurry\Nor I won't make it!
+Dialogue: 0,0:08:10.51,0:08:12.13,saint tail default,,0,0,0,,{TIME:490511,492138}Good luck, Meimi.
+Dialogue: 0,0:08:12.34,0:08:13.18,saint tail default,,0,0,0,,{TIME:492346,493180}Thanks.
+Dialogue: 0,0:08:15.55,0:08:19.18,saint tail default,,0,0,0,,{TIME:495558,499186}May the blessings of God be with us.
+Dialogue: 0,0:08:19.47,0:08:25.10,saint tail default,,0,0,0,,{TIME:499478,505109}What? The schedule has changed?\NThat's a problem. What's going on?
+Dialogue: 0,0:08:25.40,0:08:30.94,saint tail default,,0,0,0,,{TIME:505401,510948}Mr. Fukuyama, I simply will not\Nbe able to meet you at your shop.
+Dialogue: 0,0:08:30.94,0:08:34.95,saint tail default,,0,0,0,,{TIME:510948,514952}Actually, my next performance\Nwas suddenly moved up
+Dialogue: 0,0:08:34.95,0:08:39.24,saint tail default,,0,0,0,,{TIME:514952,519248}and I must leave Japan immediately\Nafter tonight's competition.
+Dialogue: 0,0:08:39.79,0:08:41.75,saint tail default,,0,0,0,,{TIME:519790,521751}I understand.
+Dialogue: 0,0:08:41.75,0:08:45.96,saint tail default,,0,0,0,,{TIME:521751,525963}Then I will take the instrument\Ndown to the hall.
+Dialogue: 0,0:08:46.71,0:08:49.88,saint tail default,,0,0,0,,{TIME:526714,529884}Oh, that would be excellent.
+Dialogue: 0,0:08:49.88,0:08:53.51,saint tail default,,0,0,0,,{TIME:529884,533512}Well, then, Mr. Fukuyama.
+Dialogue: 0,0:08:53.76,0:08:57.47,saint tail default,,0,0,0,,{TIME:533763,537475}Mr. Wilson, we will be arriving\Nat the hall soon.
+Dialogue: 0,0:09:03.35,0:09:05.52,saint tail default,,0,0,0,,{TIME:543355,545524}Mr. Fukuyama, isn't it?
+Dialogue: 0,0:09:05.52,0:09:07.44,saint tail default,,0,0,0,,{TIME:545524,547443}What do you want, kid?
+Dialogue: 0,0:09:07.44,0:09:11.40,saint tail default,,0,0,0,,{TIME:547443,551405}I'm Asuka Jr. and I was commissioned\Nto help catch St. Tail.
+Dialogue: 0,0:09:12.11,0:09:18.37,saint tail default,,0,0,0,,{TIME:552114,558370}I received a notice that St. Tail will come\Nto steal a harmonica in this shop.
+Dialogue: 0,0:09:18.37,0:09:23.37,saint tail default,,0,0,0,,{TIME:558370,563375}St. Tail or Hail or whatever, I don't\Nknow about it! Go home, I'm busy!
+Dialogue: 0,0:09:23.75,0:09:26.46,saint tail default,,0,0,0,,{TIME:563751,566462}That won't do.
+Dialogue: 0,0:09:26.46,0:09:28.58,saint tail default,,0,0,0,,{TIME:566462,568589}You will cooperate\Nin staking this place out.
+Dialogue: 0,0:09:29.17,0:09:32.55,saint tail default,,0,0,0,,{TIME:569173,572551}That's an official investigation\Nfrom the mayor!
+Dialogue: 0,0:09:33.38,0:09:34.84,saint tail default,,0,0,0,,{TIME:573385,574845}Do as you please.
+Dialogue: 0,0:09:34.84,0:09:36.97,saint tail default,,0,0,0,,{TIME:574845,576972}Okay, now…
+Dialogue: 0,0:09:40.30,0:09:43.39,saint tail default,,0,0,0,,{TIME:580309,583395}{\i1}That St. Tail.\NSo that's what she's after.
+Dialogue: 0,0:09:56.24,0:09:58.45,saint tail default,,0,0,0,,{TIME:596242,598452}St. Tail.
+Dialogue: 0,0:09:58.45,0:10:02.12,saint tail default,,0,0,0,,{TIME:598452,602123}She can have any harmonica\Nin the shop she wants.
+Dialogue: 0,0:10:10.38,0:10:15.55,saint tail default,,0,0,0,,{TIME:610381,615553}The stolen instruments\Nare all stored right here!
+Dialogue: 0,0:10:20.18,0:10:24.01,saint tail default,,0,0,0,,{TIME:620182,624019}7:00. Okay, come from wherever\Nyou want, St. Tail!
+Dialogue: 0,0:10:31.56,0:10:35.15,saint tail default,,0,0,0,,{TIME:631569,635156}St. Tail!\NYou won't get the harmonica!
+Dialogue: 0,0:10:36.28,0:10:40.45,saint tail default,,0,0,0,,{TIME:636282,640452}What? Hey, the harmonica\Nis over here, you know!
+Dialogue: 0,0:10:42.28,0:10:47.41,saint tail default,,0,0,0,,{TIME:642288,647418}It's that magic again. According\Nto my analysis, the real one is here!
+Dialogue: 0,0:10:51.25,0:10:54.09,saint tail default,,0,0,0,,{TIME:651255,654091}That's strange. The storage\Nroom door was left open.
+Dialogue: 0,0:10:56.96,0:11:02.47,saint tail default,,0,0,0,,{TIME:656969,662474}You're kidding. According to Seira,\Nthe harmonica should be here!
+Dialogue: 0,0:11:02.47,0:11:05.31,saint tail default,,0,0,0,,{TIME:662474,665311}Hold it, St. Tail!
+Dialogue: 0,0:11:06.02,0:11:07.77,saint tail default,,0,0,0,,{TIME:666020,667771}Oh, no!
+Dialogue: 0,0:11:07.98,0:11:09.73,saint tail default,,0,0,0,,{TIME:667980,669732}You won't escape today!
+Dialogue: 0,0:11:10.56,0:11:13.19,saint tail default,,0,0,0,,{TIME:670566,673194}{\i1}Where can Miyuki's harmonica be?
 Comment: 0,0:11:17.69,0:11:17.69,[chapter],[chapter],0,0,0,,{TIME:677698,677698}Eyecatch A
 Comment: 0,0:11:23.70,0:11:23.70,[chapter],[chapter],0,0,0,,{TIME:683704,683704}Eyecatch B
 Comment: 0,0:11:28.70,0:11:28.70,[chapter],[chapter],0,0,0,,{TIME:688709,688709}Part B
-Dialogue: 0,0:11:39.17,0:11:40.67,saint tail default,,0,0,0,,{TIME:699178,700679}Fukuyama!
-Dialogue: 0,0:11:41.47,0:11:46.43,saint tail default,,0,0,0,,{TIME:701472,706435}That wooden box! Miyuki's harmonica\Nis probably in there.
-Dialogue: 0,0:11:55.48,0:11:57.52,saint tail default,,0,0,0,,{TIME:715486,717529}Where the heck is he going?
-Dialogue: 0,0:11:59.11,0:12:01.36,saint tail default,,0,0,0,,{TIME:719114,721367}Rats! I won't let her get away!
-Dialogue: 0,0:12:16.42,0:12:20.30,saint tail default,,0,0,0,,{TIME:736423,740302}Ladies and gentlemen,\Nthank you for attending…
-Dialogue: 0,0:12:20.51,0:12:25.05,saint tail default,,0,0,0,,{TIME:740511,745057}…the Seika City Youth Music\NCompetitions this evening.
-Dialogue: 0,0:12:25.59,0:12:29.27,saint tail default,,0,0,0,,{TIME:745599,749270}Tonight's purpose is\Nto create artists of the future.
-Dialogue: 0,0:12:29.47,0:12:34.23,saint tail default,,0,0,0,,{TIME:749478,754233}We offer an opportunity to study\Nabroad to one outstanding performer!
-Dialogue: 0,0:12:34.60,0:12:38.94,saint tail default,,0,0,0,,{TIME:754608,758946}Well, then, let me introduce to you\Nour panel of judges!
-Dialogue: 0,0:12:49.12,0:12:54.16,saint tail default,,0,0,0,,{TIME:769123,774169}That's the Bayside Street Hall.\NWhat? He can't be going in there!
-Dialogue: 0,0:13:01.01,0:13:06.89,saint tail default,,0,0,0,,{TIME:781010,786890}Now I'm pleased to introduce the\Nworld-renowned composer, Mr. Wilson!
-Dialogue: 0,0:13:07.09,0:13:11.89,saint tail default,,0,0,0,,{TIME:787099,791895}Mr. Wilson is chairman of the panel\Nof judges for this competition!
-Dialogue: 0,0:13:12.10,0:13:17.06,saint tail default,,0,0,0,,{TIME:792104,797067}It is time to begin our competition.\NEntry number one!
-Dialogue: 0,0:13:17.77,0:13:20.02,saint tail default,,0,0,0,,{TIME:797776,800029}A junior at Seika High School…
-Dialogue: 0,0:13:20.23,0:13:24.24,saint tail default,,0,0,0,,{TIME:800237,804241}…Megumi Hirose will be displaying\Nher talents on the piano!
-Dialogue: 0,0:13:29.58,0:13:33.00,saint tail default,,0,0,0,,{TIME:809580,813000}Darn! Where's that St. Tail gone?
-Dialogue: 0,0:13:33.25,0:13:35.54,saint tail default,,0,0,0,,{TIME:813250,815544}What? That's the…!
-Dialogue: 0,0:13:44.13,0:13:49.60,saint tail default,,0,0,0,,{TIME:824136,829600}The first half is now complete.\NWe will take a 10-minute intermission.
-Dialogue: 0,0:13:57.39,0:14:01.02,saint tail default,,0,0,0,,{TIME:837399,841028}Excuse me, Mr. Wilson.\NMay I have a word with you?
-Dialogue: 0,0:14:01.94,0:14:06.99,saint tail default,,0,0,0,,{TIME:841945,846992}– And you are?\N– Fukuyama. I called you earlier.
-Dialogue: 0,0:14:07.86,0:14:12.49,saint tail default,,0,0,0,,{TIME:847868,852498}Oh, I appreciate you coming here!
-Dialogue: 0,0:14:12.74,0:14:16.71,saint tail default,,0,0,0,,{TIME:852748,856710}Well, I don't know if you will\Nfind anything you like…
-Dialogue: 0,0:14:16.91,0:14:19.71,saint tail default,,0,0,0,,{TIME:856919,859713}…but I think it will be\Nworth your while.
-Dialogue: 0,0:14:19.92,0:14:21.84,saint tail default,,0,0,0,,{TIME:859922,861840}I look forward to it.
-Dialogue: 0,0:14:22.04,0:14:26.42,saint tail default,,0,0,0,,{TIME:862049,866428}I already prepared the instruments\Nbelow the stage of this hall.
-Dialogue: 0,0:14:26.76,0:14:28.43,saint tail default,,0,0,0,,{TIME:866762,868430}Oh, thank you!
-Dialogue: 0,0:14:31.22,0:14:35.77,saint tail default,,0,0,0,,{TIME:871225,875771}He's planning to sell\NMiyuki's harmonica to Wilson here.
-Dialogue: 0,0:14:35.97,0:14:37.39,saint tail default,,0,0,0,,{TIME:875979,877398}That won't happen!
-Dialogue: 0,0:14:38.48,0:14:41.36,saint tail default,,0,0,0,,{TIME:878482,881360}– Dad!\N– Son! What are you doing here?
-Dialogue: 0,0:14:41.73,0:14:45.32,saint tail default,,0,0,0,,{TIME:881735,885322}It looks like St. Tail's\Nsneaked into this hall!
-Dialogue: 0,0:14:45.78,0:14:47.32,saint tail default,,0,0,0,,{TIME:885781,887324}St. Tail, you said?
-Dialogue: 0,0:14:47.57,0:14:51.62,saint tail default,,0,0,0,,{TIME:887574,891620}Yeah. She said she'd take a harmonica\Nfrom the music store…
-Dialogue: 0,0:14:51.82,0:14:54.24,saint tail default,,0,0,0,,{TIME:891829,894248}…but I don't know what's going on.
-Dialogue: 0,0:14:54.45,0:14:55.49,saint tail default,,0,0,0,,{TIME:894456,895499}A harmonica.
-Dialogue: 0,0:14:55.70,0:15:00.67,saint tail default,,0,0,0,,{TIME:895707,900671}Ladies and gentlemen, the second half\Nof the competition will begin soon.
-Dialogue: 0,0:15:00.87,0:15:03.75,saint tail default,,0,0,0,,{TIME:900879,903757}Please return to your seats.
-Dialogue: 0,0:15:04.38,0:15:07.38,saint tail default,,0,0,0,,{TIME:904383,907386}Son, we'll talk later.
-Dialogue: 0,0:15:10.43,0:15:15.14,saint tail default,,0,0,0,,{TIME:910431,915144}St. Tail is definitely planning\Nto start something here.
-Dialogue: 0,0:15:16.27,0:15:22.19,saint tail default,,0,0,0,,{TIME:916270,922192}Where in this hall could St. Tail\Ntry to pull something off?
-Dialogue: 0,0:15:23.11,0:15:24.86,saint tail default,,0,0,0,,{TIME:923110,924862}Under the stage!
-Dialogue: 0,0:15:29.99,0:15:35.33,saint tail default,,0,0,0,,{TIME:929992,935330}It's no good. I can't perform\Nproperly on this harmonica.
-Dialogue: 0,0:15:36.29,0:15:40.54,saint tail default,,0,0,0,,{TIME:936290,940544}Miss Miyuki Morishita, you're to\Nappear soon. Please get ready.
-Dialogue: 0,0:15:40.75,0:15:43.29,saint tail default,,0,0,0,,{TIME:940752,943297}Yes.
-Dialogue: 0,0:15:58.60,0:16:00.64,saint tail default,,0,0,0,,{TIME:958604,960647}I found it!
-Dialogue: 0,0:16:09.94,0:16:12.07,saint tail default,,0,0,0,,{TIME:969948,972075}Asuka Jr.!
-Dialogue: 0,0:16:15.99,0:16:21.41,saint tail default,,0,0,0,,{TIME:975996,981418}My data is correct.\NSt. Tail will show up if I wait here.
-Dialogue: 0,0:16:24.42,0:16:27.04,saint tail default,,0,0,0,,{TIME:984421,987049}Next we have Miyuki Morishita…
-Dialogue: 0,0:16:27.25,0:16:31.34,saint tail default,,0,0,0,,{TIME:987257,991345}…a student at St. Paulia School,\Nperforming on her harmonica.
-Dialogue: 0,0:16:33.84,0:16:37.47,saint tail default,,0,0,0,,{TIME:993847,997476}What a fix. What should I do?
-Dialogue: 0,0:16:39.68,0:16:41.27,saint tail default,,0,0,0,,{TIME:999686,1001271}That's—
-Dialogue: 0,0:16:41.56,0:16:45.81,saint tail default,,0,0,0,,{TIME:1001563,1005817}That's it! The escape route\NDad was talking about.
-Dialogue: 0,0:16:46.61,0:16:48.90,saint tail default,,0,0,0,,{TIME:1006610,1008904}Here we go!
-Dialogue: 0,0:16:51.44,0:16:54.66,saint tail default,,0,0,0,,{TIME:1011448,1014660}Where did this flower come from?
-Dialogue: 0,0:16:55.28,0:16:57.16,saint tail default,,0,0,0,,{TIME:1015285,1017162}Now's my chance!
-Dialogue: 0,0:16:57.57,0:17:00.62,saint tail default,,0,0,0,,{TIME:1017579,1020624}St. Tail!
-Dialogue: 0,0:17:00.83,0:17:04.58,saint tail default,,0,0,0,,{TIME:1020832,1024586}Hold it, St. Tail! Darn it!
-Dialogue: 0,0:17:17.39,0:17:21.01,saint tail default,,0,0,0,,{TIME:1037391,1041019}– What's the matter? Are you all right?\N– It's no good.
-Dialogue: 0,0:17:22.10,0:17:28.02,saint tail default,,0,0,0,,{TIME:1042104,1048026}I can't perform unless\NI use my father's harmonica.
-Dialogue: 0,0:17:31.36,0:17:33.90,saint tail default,,0,0,0,,{TIME:1051363,1053907}Cheer up, Miyuki!
-Dialogue: 0,0:17:34.70,0:17:35.86,saint tail default,,0,0,0,,{TIME:1054700,1055867}St. Tail!
-Dialogue: 0,0:17:36.07,0:17:37.86,saint tail default,,0,0,0,,{TIME:1056076,1057869}– St. Tail?\N– Wow! Really?
-Dialogue: 0,0:17:38.45,0:17:43.33,saint tail default,,0,0,0,,{TIME:1058453,1063333}Miyuki, your precious harmonica\Nis here in the hall!
-Dialogue: 0,0:17:43.75,0:17:45.79,saint tail default,,0,0,0,,{TIME:1063750,1065794}She's over there!
-Dialogue: 0,0:17:54.17,0:17:55.51,saint tail default,,0,0,0,,{TIME:1074177,1075512}It's…
-Dialogue: 0,0:17:57.47,0:17:59.51,saint tail default,,0,0,0,,{TIME:1077472,1079516}…show…
-Dialogue: 0,0:18:00.22,0:18:02.56,saint tail default,,0,0,0,,{TIME:1080225,1082561}…time!
-Dialogue: 0,0:18:09.94,0:18:12.15,saint tail default,,0,0,0,,{TIME:1089943,1092154}– What's this?\N– What's going on?
-Dialogue: 0,0:18:12.36,0:18:14.40,saint tail default,,0,0,0,,{TIME:1092362,1094406}Son!
-Dialogue: 0,0:18:20.20,0:18:21.53,saint tail default,,0,0,0,,{TIME:1100203,1101538}Yeah!
-Dialogue: 0,0:18:25.54,0:18:27.46,saint tail default,,0,0,0,,{TIME:1105542,1107461}What are these instruments?
-Dialogue: 0,0:18:28.08,0:18:32.63,saint tail default,,0,0,0,,{TIME:1108086,1112633}– Don't touch them! Stop it!\N– Mr. Fukuyama?
-Dialogue: 0,0:18:35.84,0:18:38.84,saint tail default,,0,0,0,,{TIME:1115844,1118847}Don't touch any of my instruments!
-Dialogue: 0,0:18:39.05,0:18:42.14,saint tail default,,0,0,0,,{TIME:1119056,1122142}Ouch! Your instruments?
-Dialogue: 0,0:18:42.39,0:18:46.35,saint tail default,,0,0,0,,{TIME:1122392,1126355}This is the violin that\NI asked Mr. Fukuyama to repair.
-Dialogue: 0,0:18:46.56,0:18:48.06,saint tail default,,0,0,0,,{TIME:1126563,1128065}And that's my flute!
-Dialogue: 0,0:18:48.44,0:18:52.27,saint tail default,,0,0,0,,{TIME:1128440,1132277}Stop it! These are my instruments!
-Dialogue: 0,0:18:52.73,0:18:55.32,saint tail default,,0,0,0,,{TIME:1132736,1135322}So that's it! Fukuyama stole these!
-Dialogue: 0,0:18:55.53,0:18:58.74,saint tail default,,0,0,0,,{TIME:1135530,1138742}– Son, what's this all about?\N– He's the one!
-Dialogue: 0,0:19:00.91,0:19:03.91,saint tail default,,0,0,0,,{TIME:1140911,1143914}They were probably stolen by Fukuyama!
-Dialogue: 0,0:19:04.12,0:19:06.24,saint tail default,,0,0,0,,{TIME:1144122,1146249}What?
-Dialogue: 0,0:19:08.21,0:19:09.37,saint tail default,,0,0,0,,{TIME:1148210,1149378}Darn it!
-Dialogue: 0,0:19:09.58,0:19:11.50,saint tail default,,0,0,0,,{TIME:1149586,1151505}Hold it!
-Dialogue: 0,0:19:14.63,0:19:20.22,saint tail default,,0,0,0,,{TIME:1154633,1160222}Hey, are these instruments\Nthat you've stolen?
-Dialogue: 0,0:19:20.59,0:19:22.59,saint tail default,,0,0,0,,{TIME:1160597,1162599}Well, how about it?
-Dialogue: 0,0:19:23.01,0:19:27.64,saint tail default,,0,0,0,,{TIME:1163016,1167646}Ouch! Yes, that right!
-Dialogue: 0,0:19:29.43,0:19:32.15,saint tail default,,0,0,0,,{TIME:1169439,1172150}Darn it! St. Tail got away!
-Dialogue: 0,0:19:36.32,0:19:41.49,saint tail default,,0,0,0,,{TIME:1176321,1181493}Mr. Fukuyama, were you planning\Nto sell me instruments like that?
-Dialogue: 0,0:19:41.74,0:19:44.12,saint tail default,,0,0,0,,{TIME:1181743,1184121}Were you attempting to deceive me?
-Dialogue: 0,0:19:44.32,0:19:48.79,saint tail default,,0,0,0,,{TIME:1184329,1188792}You better think of how those\Nwhose instruments were stolen feel.
-Dialogue: 0,0:19:49.00,0:19:52.79,saint tail default,,0,0,0,,{TIME:1189000,1192796}Mr. Wilson, I will take\Nthe responsibility of returning…
-Dialogue: 0,0:19:53.00,0:19:55.79,saint tail default,,0,0,0,,{TIME:1193004,1195799}…these instruments to their owners.
-Dialogue: 0,0:19:59.55,0:20:04.09,saint tail default,,0,0,0,,{TIME:1199553,1204099}Miyuki, now you'll be able\Nto play your best on the harmonica.
-Dialogue: 0,0:20:04.30,0:20:07.56,saint tail default,,0,0,0,,{TIME:1204307,1207561}St. Tail, thank you!
-Dialogue: 0,0:20:08.27,0:20:10.85,saint tail default,,0,0,0,,{TIME:1208270,1210856}Miss Miyuki, please perform your best.
-Dialogue: 0,0:20:11.06,0:20:14.56,saint tail default,,0,0,0,,{TIME:1211064,1214568}The audience is eager\Nto hear you play your harmonica.
-Dialogue: 0,0:20:15.15,0:20:17.02,saint tail default,,0,0,0,,{TIME:1215152,1217028}Yes, sir, I'll do my best!
-Dialogue: 0,0:20:22.28,0:20:25.91,saint tail default,,0,0,0,,{TIME:1222284,1225912}Darn it! She's escaped again!
+Dialogue: 0,0:11:39.51,0:11:41.05,saint tail default,,0,0,0,,{TIME:699511,701055}{\i1}Fukuyama!
+Dialogue: 0,0:11:41.80,0:11:46.18,saint tail default,,0,0,0,,{TIME:701805,706185}{\i1}That wooden box!\NMiyuki's harmonica is probably in there.
+Dialogue: 0,0:11:55.81,0:11:57.90,saint tail default,,0,0,0,,{TIME:715819,717905}{\i1}Where the heck is he going?
+Dialogue: 0,0:11:59.65,0:12:01.74,saint tail default,,0,0,0,,{TIME:719657,721742}Rats! I won't let her get away!
+Dialogue: 0,0:12:16.75,0:12:20.38,saint tail default,,0,0,0,,{TIME:736757,740386}Ladies and gentlemen,\Nthank you for attending
+Dialogue: 0,0:12:20.38,0:12:24.64,saint tail default,,0,0,0,,{TIME:740386,744640}the Seika City Youth Music\NCompetitions this evening.
+Dialogue: 0,0:12:25.93,0:12:29.81,saint tail default,,0,0,0,,{TIME:745933,749812}Tonight's purpose is\Nto create artists of the future.
+Dialogue: 0,0:12:29.81,0:12:34.60,saint tail default,,0,0,0,,{TIME:749812,754608}We offer an opportunity to study\Nabroad to one outstanding performer!
+Dialogue: 0,0:12:35.15,0:12:39.32,saint tail default,,0,0,0,,{TIME:755150,759321}Well, then, let me introduce to you\Nour panel of judges!
+Dialogue: 0,0:12:49.45,0:12:54.16,saint tail default,,0,0,0,,{TIME:769456,774169}{\i1}That's the Bayside Street Hall.\NWhat? He can't be going in there!
+Dialogue: 0,0:13:01.21,0:13:06.01,saint tail default,,0,0,0,,{TIME:781218,786015}{\i1}Now I'm pleased to introduce\Nthe world-renowned composer, Mr. Wilson!
+Dialogue: 0,0:13:07.51,0:13:11.47,saint tail default,,0,0,0,,{TIME:787516,791478}{\i1}Mr. Wilson is chairman of the panel\Nof judges for this competition!
+Dialogue: 0,0:13:12.39,0:13:17.44,saint tail default,,0,0,0,,{TIME:792396,797443}{\i1}It is time to begin our competition.\NEntry number one!
+Dialogue: 0,0:13:18.15,0:13:20.52,saint tail default,,0,0,0,,{TIME:798152,800529}{\i1}A junior at Seika High School,
+Dialogue: 0,0:13:20.52,0:13:23.65,saint tail default,,0,0,0,,{TIME:800529,803657}{\i1}Megumi Hirose will be displaying\Nher talents on the piano!
+Dialogue: 0,0:13:29.91,0:13:33.54,saint tail default,,0,0,0,,{TIME:809913,813542}Darn! Where's that St. Tail gone?
+Dialogue: 0,0:13:33.54,0:13:35.41,saint tail default,,0,0,0,,{TIME:813542,815419}What? That's the…
+Dialogue: 0,0:13:44.38,0:13:49.97,saint tail default,,0,0,0,,{TIME:824386,829975}The first half is now complete.\NWe will take a 10-minute intermission.
+Dialogue: 0,0:13:57.85,0:14:01.40,saint tail default,,0,0,0,,{TIME:837858,841403}Excuse me, Mr. Wilson.\NMay I have a word with you?
+Dialogue: 0,0:14:02.23,0:14:06.99,saint tail default,,0,0,0,,{TIME:842237,846992}– And you are?\N– Fukuyama. I called you earlier.
+Dialogue: 0,0:14:08.16,0:14:12.87,saint tail default,,0,0,0,,{TIME:848160,852873}Oh, I appreciate you coming here!
+Dialogue: 0,0:14:13.16,0:14:17.29,saint tail default,,0,0,0,,{TIME:853165,857294}Well, I don't know if you will\Nfind anything you like,
+Dialogue: 0,0:14:17.29,0:14:20.33,saint tail default,,0,0,0,,{TIME:857294,860339}but I think it will be\Nworth your while.
+Dialogue: 0,0:14:20.33,0:14:22.25,saint tail default,,0,0,0,,{TIME:860339,862257}I look forward to it.
+Dialogue: 0,0:14:22.25,0:14:27.09,saint tail default,,0,0,0,,{TIME:862257,867096}I already prepared the instruments\Nbelow the stage of this hall.
+Dialogue: 0,0:14:27.09,0:14:28.80,saint tail default,,0,0,0,,{TIME:867096,868806}Oh, thank you!
+Dialogue: 0,0:14:31.47,0:14:36.23,saint tail default,,0,0,0,,{TIME:871475,876230}{\i1}He's planning to sell\NMiyuki's harmonica to Wilson here.
+Dialogue: 0,0:14:36.23,0:14:37.77,saint tail default,,0,0,0,,{TIME:876230,877773}{\i1}That won't happen!
+Dialogue: 0,0:14:38.81,0:14:39.60,saint tail default,,0,0,0,,{TIME:878816,879608}Dad!
+Dialogue: 0,0:14:39.60,0:14:41.73,saint tail default,,0,0,0,,{TIME:879608,881735}Son! What are you doing here?
+Dialogue: 0,0:14:42.19,0:14:45.69,saint tail default,,0,0,0,,{TIME:882194,885697}It looks like St. Tail's\Nsneaked into this hall!
+Dialogue: 0,0:14:46.24,0:14:47.69,saint tail default,,0,0,0,,{TIME:886240,887699}St. Tail, you said?
+Dialogue: 0,0:14:47.95,0:14:52.07,saint tail default,,0,0,0,,{TIME:887950,892079}Yeah. She said she'd take a harmonica\Nfrom the music store,
+Dialogue: 0,0:14:52.07,0:14:54.66,saint tail default,,0,0,0,,{TIME:892079,894665}but I don't know what's going on.
+Dialogue: 0,0:14:54.66,0:14:56.04,saint tail default,,0,0,0,,{TIME:894665,896041}A harmonica.
+Dialogue: 0,0:14:56.04,0:15:01.17,saint tail default,,0,0,0,,{TIME:896041,901171}{\i1}Ladies and gentlemen, the second half\Nof the competition will begin soon.
+Dialogue: 0,0:15:01.17,0:15:04.09,saint tail default,,0,0,0,,{TIME:901171,904091}{\i1}Please return to your seats.
+Dialogue: 0,0:15:04.67,0:15:06.96,saint tail default,,0,0,0,,{TIME:904675,906969}Son, we'll talk later.
+Dialogue: 0,0:15:06.96,0:15:08.01,saint tail default,,0,0,0,,{TIME:906969,908011}Sure.
+Dialogue: 0,0:15:10.76,0:15:13.80,saint tail default,,0,0,0,,{TIME:910764,913809}St. Tail is definitely planning\Nto start something here.
+Dialogue: 0,0:15:16.60,0:15:21.94,saint tail default,,0,0,0,,{TIME:916603,921942}Where in this hall could St. Tail\Ntry to pull something off?
+Dialogue: 0,0:15:23.40,0:15:25.23,saint tail default,,0,0,0,,{TIME:923402,925237}Under the stage!
+Dialogue: 0,0:15:30.28,0:15:35.66,saint tail default,,0,0,0,,{TIME:930284,935664}It's no good. I can't perform\Nproperly on this harmonica.
+Dialogue: 0,0:15:36.66,0:15:40.87,saint tail default,,0,0,0,,{TIME:936665,940878}Miss Miyuki Morishita,\Nyou're to appear soon. Please get ready.
+Dialogue: 0,0:15:41.62,0:15:43.67,saint tail default,,0,0,0,,{TIME:941628,943672}Yes.
+Dialogue: 0,0:15:58.89,0:16:00.27,saint tail default,,0,0,0,,{TIME:958896,960272}I found it!
+Dialogue: 0,0:16:10.24,0:16:11.70,saint tail default,,0,0,0,,{TIME:970240,971700}{\i1}Asuka Jr.?
+Dialogue: 0,0:16:16.37,0:16:21.75,saint tail default,,0,0,0,,{TIME:976371,981752}My data is correct.\NSt. Tail will show up if I wait here.
+Dialogue: 0,0:16:24.75,0:16:27.54,saint tail default,,0,0,0,,{TIME:984755,987549}{\i1}Next we have Miyuki Morishita,
+Dialogue: 0,0:16:27.54,0:16:31.34,saint tail default,,0,0,0,,{TIME:987549,991345}{\i1}a student at St. Paulia School,\Nperforming on her harmonica.
+Dialogue: 0,0:16:34.05,0:16:36.97,saint tail default,,0,0,0,,{TIME:994056,996975}{\i1}What a fix. What should I do?
+Dialogue: 0,0:16:39.97,0:16:41.89,saint tail default,,0,0,0,,{TIME:999978,1001897}{\i1}That's…
+Dialogue: 0,0:16:41.89,0:16:45.52,saint tail default,,0,0,0,,{TIME:1001897,1005526}{\i1}That's it! The escape route\NDad was talking about.
+Dialogue: 0,0:16:46.86,0:16:47.94,saint tail default,,0,0,0,,{TIME:1006860,1007945}{\i1}Here we go!
+Dialogue: 0,0:16:51.82,0:16:53.61,saint tail default,,0,0,0,,{TIME:1011823,1013617}Where did this flower come from?
+Dialogue: 0,0:16:55.74,0:16:56.87,saint tail default,,0,0,0,,{TIME:1015744,1016870}{\i1}Now's my chance!
+Dialogue: 0,0:16:57.91,0:16:59.58,saint tail default,,0,0,0,,{TIME:1017913,1019581}St. Tail!
+Dialogue: 0,0:17:01.12,0:17:04.92,saint tail default,,0,0,0,,{TIME:1021124,1024920}Hold it, St. Tail! Darn it!
+Dialogue: 0,0:17:17.68,0:17:20.06,saint tail default,,0,0,0,,{TIME:1037683,1040060}What's the matter?\NAre you all right?
+Dialogue: 0,0:17:20.06,0:17:21.35,saint tail default,,0,0,0,,{TIME:1040060,1041353}It's no good.
+Dialogue: 0,0:17:22.35,0:17:26.81,saint tail default,,0,0,0,,{TIME:1042354,1046817}I can't perform unless\NI use my father's harmonica.
+Dialogue: 0,0:17:31.69,0:17:34.24,saint tail default,,0,0,0,,{TIME:1051697,1054241}Cheer up, Miyuki!
+Dialogue: 0,0:17:35.11,0:17:36.20,saint tail default,,0,0,0,,{TIME:1055117,1056201}St. Tail!
+Dialogue: 0,0:17:36.20,0:17:38.20,saint tail default,,0,0,0,,{TIME:1056201,1058203}– St. Tail?\N– Wow! Really?
+Dialogue: 0,0:17:38.74,0:17:43.66,saint tail default,,0,0,0,,{TIME:1058745,1063667}Miyuki, your precious harmonica\Nis here in the hall!
+Dialogue: 0,0:17:44.04,0:17:45.29,saint tail default,,0,0,0,,{TIME:1064042,1065294}She's over there!
+Dialogue: 0,0:17:54.59,0:17:55.84,saint tail default,,0,0,0,,{TIME:1074595,1075846}It's…
+Dialogue: 0,0:17:57.59,0:17:59.85,saint tail default,,0,0,0,,{TIME:1077598,1079850}Show…
+Dialogue: 0,0:18:00.47,0:18:02.51,saint tail default,,0,0,0,,{TIME:1080475,1082519}Time!
+Dialogue: 0,0:18:10.36,0:18:12.48,saint tail default,,0,0,0,,{TIME:1090360,1092487}– What's this?\N– What's going on?
+Dialogue: 0,0:18:12.69,0:18:13.78,saint tail default,,0,0,0,,{TIME:1092696,1093780}Son!
+Dialogue: 0,0:18:20.57,0:18:21.87,saint tail default,,0,0,0,,{TIME:1100579,1101872}Yeah!
+Dialogue: 0,0:18:26.04,0:18:27.79,saint tail default,,0,0,0,,{TIME:1106043,1107794}What are these instruments?
+Dialogue: 0,0:18:28.08,0:18:30.83,saint tail default,,0,0,0,,{TIME:1108086,1110839}Don't touch them! Stop it!
+Dialogue: 0,0:18:30.83,0:18:32.04,saint tail default,,0,0,0,,{TIME:1110839,1112049}Mr. Fukuyama?
+Dialogue: 0,0:18:36.34,0:18:39.34,saint tail default,,0,0,0,,{TIME:1116345,1119348}Don't touch any of my instruments!
+Dialogue: 0,0:18:39.34,0:18:42.47,saint tail default,,0,0,0,,{TIME:1119348,1122476}Ouch! Your instruments?
+Dialogue: 0,0:18:42.93,0:18:46.85,saint tail default,,0,0,0,,{TIME:1122934,1126855}This is the violin that I asked\NMr. Fukuyama to repair.
+Dialogue: 0,0:18:46.85,0:18:48.39,saint tail default,,0,0,0,,{TIME:1126855,1128398}And that's my flute!
+Dialogue: 0,0:18:48.85,0:18:52.61,saint tail default,,0,0,0,,{TIME:1128857,1132611}Stop it! These are my instruments!
+Dialogue: 0,0:18:52.94,0:18:55.78,saint tail default,,0,0,0,,{TIME:1132944,1135781}So that's it! Fukuyama stole these!
+Dialogue: 0,0:18:55.78,0:18:58.15,saint tail default,,0,0,0,,{TIME:1135781,1138158}Son, what's this all about?
+Dialogue: 0,0:18:58.15,0:18:59.91,saint tail default,,0,0,0,,{TIME:1138158,1139910}He's the one!
+Dialogue: 0,0:19:01.16,0:19:04.37,saint tail default,,0,0,0,,{TIME:1141161,1144373}They were probably stolen\Nby Fukuyama!
+Dialogue: 0,0:19:04.37,0:19:05.91,saint tail default,,0,0,0,,{TIME:1144373,1145916}What?
+Dialogue: 0,0:19:08.75,0:19:09.87,saint tail default,,0,0,0,,{TIME:1148752,1149878}Darn it!
+Dialogue: 0,0:19:09.87,0:19:11.79,saint tail default,,0,0,0,,{TIME:1149878,1151797}Hold it!
+Dialogue: 0,0:19:14.84,0:19:19.55,saint tail default,,0,0,0,,{TIME:1154841,1159554}Hey, are these instruments\Nthat you've stolen?
+Dialogue: 0,0:19:20.84,0:19:22.18,saint tail default,,0,0,0,,{TIME:1160847,1162182}Well, how about it?
+Dialogue: 0,0:19:23.18,0:19:26.68,saint tail default,,0,0,0,,{TIME:1163183,1166687}Ouch! Yes, that right!
+Dialogue: 0,0:19:29.64,0:19:32.44,saint tail default,,0,0,0,,{TIME:1169648,1172442}Darn it! St. Tail got away!
+Dialogue: 0,0:19:36.57,0:19:42.03,saint tail default,,0,0,0,,{TIME:1176571,1182035}Mr. Fukuyama, were you planning\Nto sell me instruments like that?
+Dialogue: 0,0:19:42.03,0:19:44.66,saint tail default,,0,0,0,,{TIME:1182035,1184663}Were you attempting\Nto deceive me?
+Dialogue: 0,0:19:44.66,0:19:49.16,saint tail default,,0,0,0,,{TIME:1184663,1189167}You better think of how those\Nwhose instruments were stolen feel.
+Dialogue: 0,0:19:49.16,0:19:56.09,saint tail default,,0,0,0,,{TIME:1189167,1196091}Mr. Wilson, I will take the responsibility of\Nreturning these instruments to their owners.
+Dialogue: 0,0:19:59.97,0:20:03.39,saint tail default,,0,0,0,,{TIME:1199970,1203390}"Miyuki, now you'll be able\Nto play your best on the harmonica."
+Dialogue: 0,0:20:04.51,0:20:07.89,saint tail default,,0,0,0,,{TIME:1204516,1207894}St. Tail, thank you!
+Dialogue: 0,0:20:08.52,0:20:11.39,saint tail default,,0,0,0,,{TIME:1208520,1211398}Miss Miyuki,\Nplease perform your best.
+Dialogue: 0,0:20:11.39,0:20:14.86,saint tail default,,0,0,0,,{TIME:1211398,1214860}The audience is eager\Nto hear you play your harmonica.
+Dialogue: 0,0:20:15.31,0:20:17.32,saint tail default,,0,0,0,,{TIME:1215318,1217320}Yes, sir, I'll do my best!
+Dialogue: 0,0:20:22.53,0:20:24.53,saint tail default,,0,0,0,,{TIME:1222534,1224536}Darn it! She's escaped again!
 Comment: 0,0:20:53.27,0:20:53.27,[chapter],[chapter],0,0,0,,{TIME:1253273,1253273}Ending
 Dialogue: 0,0:20:54.14,0:21:00.61,saint tail ed jp,[karaoke],0,0,0,,{TIME:1254149,1260614}{\blur1}kisu wo shitemoraeru mae no{NOTE:キスをしてもらえるまえの}
 Dialogue: 0,0:21:01.61,0:21:06.99,saint tail ed jp,[karaoke],0,0,0,,{TIME:1261615,1266995}{\blur1}namida no wake wo{NOTE:涙のわけを}
@@ -296,3 +304,11 @@ Dialogue: 0,0:21:51.99,0:21:58.83,saint tail ed en,[karaoke],0,0,0,,{TIME:131199
 Dialogue: 0,0:21:59.21,0:22:04.76,saint tail ed en,[karaoke],0,0,0,,{TIME:1319214,1324761}I'd be devastated if you did.
 Dialogue: 0,0:22:05.88,0:22:14.02,saint tail ed en,[karaoke],0,0,0,,{TIME:1325887,1334020}Will my prayer be answered?
 Comment: 0,0:22:28.36,0:22:28.36,[chapter],[chapter],0,0,0,,{TIME:1348368,1348368}Preview
+Dialogue: 0,0:22:28.36,0:22:31.37,saint tail sign,(sign),0,0,0,,{TIME:1348368,1351371}Next episode
+Dialogue: 0,0:22:29.61,0:22:33.54,saint tail default,,0,0,0,,{TIME:1349619,1353540}Shota wants to prove himself\Nto his friends from school,{NOTE:小学生の翔太君が友達と喧嘩して見返してやろうと、}
+Dialogue: 0,0:22:33.54,0:22:36.50,saint tail default,,0,0,0,,{TIME:1353540,1356501}and prepares a fake UFO\Nsighting photograph.{NOTE:UFOの偽物の写真を作ってしまったの}
+Dialogue: 0,0:22:36.50,0:22:42.71,saint tail default,,0,0,0,,{TIME:1356501,1362716}His photograph was announced to appear\Nat an important event, the Cosmo World!{NOTE:ところがその彼の写真が、コスモワールドのイベント会場で発表されてしまう事になったんだ}
+Dialogue: 0,0:22:42.71,0:22:48.38,saint tail default,,0,0,0,,{TIME:1362716,1368388}He asks the organizers to withdraw\Nthe fake photo, but they refuse!{NOTE:翔太君は反省して偽物写真を返して欲しいと頼んでも、返してくれないんだって}
+Dialogue: 0,0:22:48.38,0:22:50.55,saint tail default,,0,0,0,,{TIME:1368388,1370557}Next time on Saint Tail:{NOTE:次回、怪盗セイント・テール}
+Dialogue: 0,0:22:50.55,0:22:53.39,saint tail default,,0,0,0,,{TIME:1370557,1373393}"The U.F.O. Appears!?\NA Town in Panic!"{NOTE:『UFO現る!?街は大さわぎ!』}
+Dialogue: 0,0:22:53.39,0:22:56.64,saint tail default,,0,0,0,,{TIME:1373393,1376646}May the blessings\Nof God be with you.{NOTE:みなさんに、神のご加護がありますように}
