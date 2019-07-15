@@ -5,7 +5,7 @@ ScriptType: v4.00+
 PlayResX: 1440
 PlayResY: 1080
 YCbCr Matrix: TV.601
-WrapStyle: 1
+WrapStyle: 2
 ScaledBorderAndShadow: yes
 Title: Saint Tail - 24
 Audio File: source/24.mkv
@@ -55,223 +55,227 @@ Dialogue: 0,0:01:12.96,0:01:19.35,saint tail op en,[karaoke],0,0,0,,{TIME:72969,
 Dialogue: 0,0:01:19.35,0:01:22.77,saint tail op en,[karaoke],0,0,0,,{TIME:79350,82770}we are always connected.
 Dialogue: 0,0:01:27.06,0:01:29.44,saint tail op en,[karaoke],0,0,0,,{TIME:87066,89444}Want you here tonight!
 Comment: 0,0:01:31.11,0:01:31.11,[chapter],[chapter],0,0,0,,{TIME:91112,91112}Part A
-Dialogue: 0,0:02:09.94,0:02:15.15,saint tail default,,0,0,0,,{TIME:129942,135156}UNFORGIVABLE!\NTHE BAD GUYS DESTROY A HOUSE
-Dialogue: 0,0:02:21.03,0:02:24.08,saint tail default,,0,0,0,,{TIME:141037,144082}– Good morning!\N– Good morning, Meimi!
-Dialogue: 0,0:02:24.33,0:02:27.29,saint tail default,,0,0,0,,{TIME:144332,147293}Hey, Meimi, look at this!
-Dialogue: 0,0:02:27.50,0:02:29.42,saint tail default,,0,0,0,,{TIME:147502,149420}This brings back memories.
-Dialogue: 0,0:02:29.67,0:02:32.79,saint tail default,,0,0,0,,{TIME:149671,152799}Isn't this a Miho-chan doll?\NI had one like this.
-Dialogue: 0,0:02:33.54,0:02:38.80,saint tail default,,0,0,0,,{TIME:153549,158805}I found it cleaning my room. It brought\Nback memories so I brought it with me.
-Dialogue: 0,0:02:39.05,0:02:42.89,saint tail default,,0,0,0,,{TIME:159055,162892}I wonder if I still have mine.\NI'll try looking for it.
-Dialogue: 0,0:02:43.14,0:02:48.77,saint tail default,,0,0,0,,{TIME:163142,168773}We girls have a lot of memories\Nin these dolls, don't we?
-Dialogue: 0,0:02:49.44,0:02:52.81,saint tail default,,0,0,0,,{TIME:169440,172819}You girls are lucky to have\Nthat much time on your hands.
-Dialogue: 0,0:02:53.02,0:02:55.48,saint tail default,,0,0,0,,{TIME:173027,175488}I don't even have time\Nto make memories.
-Dialogue: 0,0:02:55.69,0:03:00.28,saint tail default,,0,0,0,,{TIME:175697,180284}I'm so busy trying\Nto catch St. Tail that…
-Dialogue: 0,0:03:01.49,0:03:06.12,saint tail default,,0,0,0,,{TIME:181494,186124}Right. With all those memories of\NSt. Tail escaping, you're frustrated.
-Dialogue: 0,0:03:06.70,0:03:08.20,saint tail default,,0,0,0,,{TIME:186708,188209}What's that?
-Dialogue: 0,0:03:08.45,0:03:11.87,saint tail default,,0,0,0,,{TIME:188459,191879}If you don't like it,\Ntry catching her quickly.
-Dialogue: 0,0:03:12.13,0:03:16.84,saint tail default,,0,0,0,,{TIME:192130,196843}It'll be your most precious memory.\NThough it's probably impossible.
-Dialogue: 0,0:03:17.42,0:03:22.14,saint tail default,,0,0,0,,{TIME:197427,202140}Now you've said it! I'm not after\NSt. Tail for a reason like that!
-Dialogue: 0,0:03:22.34,0:03:25.47,saint tail default,,0,0,0,,{TIME:202348,205476}Precious memories, what nonsense!
-Dialogue: 0,0:03:25.72,0:03:30.77,saint tail default,,0,0,0,,{TIME:205727,210773}Is that so? Are you saying there are\Nno memories between you and St. Tail?
-Dialogue: 0,0:03:32.23,0:03:34.23,saint tail default,,0,0,0,,{TIME:212233,214235}Why are you so upset?
-Dialogue: 0,0:03:34.48,0:03:37.82,saint tail default,,0,0,0,,{TIME:214485,217822}– How should I know?\N– My doll…
-Dialogue: 0,0:03:40.61,0:03:43.78,saint tail default,,0,0,0,,{TIME:220616,223786}It disgusts me to know\Nwhat a dingbat that guy is!
-Dialogue: 0,0:03:44.53,0:03:48.75,saint tail default,,0,0,0,,{TIME:224537,228750}Oh, my. We should be\Nthe ones appreciating him.
-Dialogue: 0,0:03:49.54,0:03:54.00,saint tail default,,0,0,0,,{TIME:229542,234005}Why is that?\NHe's never done anything to save—
-Dialogue: 0,0:03:55.21,0:03:57.84,saint tail default,,0,0,0,,{TIME:235214,237842}That's not true, is it?
-Dialogue: 0,0:03:58.09,0:04:01.97,saint tail default,,0,0,0,,{TIME:238092,241971}When you're angry, Meimi,\Nit's usually about Asuka Jr.
-Dialogue: 0,0:04:02.22,0:04:04.14,saint tail default,,0,0,0,,{TIME:242221,244140}Seira, you're mean!
-Dialogue: 0,0:04:04.39,0:04:09.02,saint tail default,,0,0,0,,{TIME:244390,249020}Anyway, today there was another\Nlost sheep that wandered by here.
-Dialogue: 0,0:04:09.85,0:04:12.98,saint tail default,,0,0,0,,{TIME:249854,252982}A while ago, Michiru came by\Nto ask for help.
-Dialogue: 0,0:04:13.23,0:04:17.44,saint tail default,,0,0,0,,{TIME:253232,257445}She used to live happily\Nin a mansion with her parents.
-Dialogue: 0,0:04:18.02,0:04:23.20,saint tail default,,0,0,0,,{TIME:258029,263201}But one year ago, Michiru's father\Nco-signed a loan for a friend…
-Dialogue: 0,0:04:23.45,0:04:27.37,saint tail default,,0,0,0,,{TIME:263451,267371}…and because of that,\Nthey lost their mansion.
-Dialogue: 0,0:04:28.24,0:04:31.70,saint tail default,,0,0,0,,{TIME:268247,271709}That friend he co-signed for…
-Dialogue: 0,0:04:31.91,0:04:35.33,saint tail default,,0,0,0,,{TIME:271918,275338}…took the loan money\Nand disappeared.
-Dialogue: 0,0:04:36.13,0:04:40.46,saint tail default,,0,0,0,,{TIME:276130,280468}Not only did the loan company\Ntake control of the mansion…
-Dialogue: 0,0:04:40.71,0:04:43.30,saint tail default,,0,0,0,,{TIME:280718,283304}…but everything inside\Nof it as well.
-Dialogue: 0,0:04:44.38,0:04:47.43,saint tail default,,0,0,0,,{TIME:284388,287433}Michiru's jewelry box\Nwas a precious thing…
-Dialogue: 0,0:04:47.68,0:04:50.26,saint tail default,,0,0,0,,{TIME:287683,290269}…filled with all kinds of memories.
-Dialogue: 0,0:04:50.97,0:04:54.31,saint tail default,,0,0,0,,{TIME:290978,294315}Michiru hid the box in the house.
-Dialogue: 0,0:04:54.56,0:04:59.65,saint tail default,,0,0,0,,{TIME:294565,299654}Right after that, they were forced\Nto vacate the property.
-Dialogue: 0,0:05:00.40,0:05:04.36,saint tail default,,0,0,0,,{TIME:300404,304367}Then that jewelry box is\Nstill hidden in the house.
-Dialogue: 0,0:05:05.95,0:05:08.57,saint tail default,,0,0,0,,{TIME:305952,308579}She was planning to get it back later.
-Dialogue: 0,0:05:08.83,0:05:11.83,saint tail default,,0,0,0,,{TIME:308830,311833}But Negoro, who owns\Nthe loan company…
-Dialogue: 0,0:05:15.92,0:05:21.30,saint tail default,,0,0,0,,{TIME:315920,321300}It's you again. You'll get nowhere,\Nno matter how many times you come.
-Dialogue: 0,0:05:21.50,0:05:23.67,saint tail default,,0,0,0,,{TIME:321509,323678}Just for a little while.
-Dialogue: 0,0:05:23.92,0:05:27.43,saint tail default,,0,0,0,,{TIME:323928,327431}I want to see the inside\Nof the house one more time.
-Dialogue: 0,0:05:27.68,0:05:32.68,saint tail default,,0,0,0,,{TIME:327682,332687}This house doesn't belong to you\Nanymore, young lady. It's mine.
-Dialogue: 0,0:05:33.77,0:05:36.98,saint tail default,,0,0,0,,{TIME:333771,336983}Also, this land is being sold…
-Dialogue: 0,0:05:37.23,0:05:41.36,saint tail default,,0,0,0,,{TIME:337233,341362}…so we're gonna have\Nto tear down the house.
-Dialogue: 0,0:05:41.90,0:05:47.07,saint tail default,,0,0,0,,{TIME:341904,347076}What will happen to her memories?\NThe jewelry box of memories?!
-Dialogue: 0,0:05:47.91,0:05:53.04,saint tail default,,0,0,0,,{TIME:347910,353040}There's nothing that can be done\Nabout Michiru's house being torn down.
-Dialogue: 0,0:05:53.62,0:05:58.00,saint tail default,,0,0,0,,{TIME:353624,358004}Then at least the jewelry box\Nshould be returned to Michiru.
-Dialogue: 0,0:05:58.83,0:06:00.92,saint tail default,,0,0,0,,{TIME:358838,360923}If it isn't, it'll be too sad.
-Dialogue: 0,0:06:01.17,0:06:05.46,saint tail default,,0,0,0,,{TIME:361173,365469}Ever since the house was taken,\NMichiru's mother has become ill.
-Dialogue: 0,0:06:06.80,0:06:09.51,saint tail default,,0,0,0,,{TIME:366804,369515}They're breaking down\Nthe house tomorrow.
-Dialogue: 0,0:06:09.76,0:06:11.93,saint tail default,,0,0,0,,{TIME:369765,371934}We only have tonight\Nto carry this out.
-Dialogue: 0,0:06:12.31,0:06:14.77,saint tail default,,0,0,0,,{TIME:372310,374770}Let's get those memories back!
-Dialogue: 0,0:06:22.40,0:06:23.61,saint tail default,,0,0,0,,{TIME:382403,383613}What's this?
-Dialogue: 0,0:06:31.03,0:06:32.87,saint tail default,,0,0,0,,{TIME:391037,392872}Is this a…?
-Dialogue: 0,0:06:33.28,0:06:36.25,saint tail default,,0,0,0,,{TIME:393289,396250}"Tonight, I'll be entering\Nthe Misaki mansion…
-Dialogue: 0,0:06:36.50,0:06:38.96,saint tail default,,0,0,0,,{TIME:396500,398961}…to pick up a jewelry box.\N– St. Tail"
-Dialogue: 0,0:06:39.17,0:06:41.50,saint tail default,,0,0,0,,{TIME:399170,401505}It's a notice from St. Tail!
-Dialogue: 0,0:06:41.71,0:06:44.67,saint tail default,,0,0,0,,{TIME:401714,404675}– A notice from St. Tail?\N– Where is it?
-Dialogue: 0,0:06:44.92,0:06:48.63,saint tail default,,0,0,0,,{TIME:404926,408638}Don't push. I can't see it!
-Dialogue: 0,0:06:56.77,0:06:59.39,saint tail default,,0,0,0,,{TIME:416771,419398}So that's the Misaki mansion.
-Dialogue: 0,0:07:02.27,0:07:04.11,saint tail default,,0,0,0,,{TIME:422276,424111}What's happening?
-Dialogue: 0,0:07:06.73,0:07:10.78,saint tail default,,0,0,0,,{TIME:426739,430785}– I'll leave tomorrow up to you.\N– I understand.
-Dialogue: 0,0:07:16.24,0:07:22.29,saint tail default,,0,0,0,,{TIME:436248,442296}This is really troublesome, isn't it?\NTearing down a mansion like this.
-Dialogue: 0,0:07:22.54,0:07:27.34,saint tail default,,0,0,0,,{TIME:442546,447343}Making this an open lot is the terms\Nthe buyer made. What can I say?
-Dialogue: 0,0:07:27.59,0:07:29.55,saint tail default,,0,0,0,,{TIME:447593,449553}It'll all be done by tomorrow.
-Dialogue: 0,0:07:29.80,0:07:32.47,saint tail default,,0,0,0,,{TIME:449804,452473}We're finally getting to the cash.
-Dialogue: 0,0:07:32.72,0:07:38.31,saint tail default,,0,0,0,,{TIME:452723,458312}Didn't think that it'd go this smooth.\NLike a bubble on a wet hand.
-Dialogue: 0,0:07:38.56,0:07:42.77,saint tail default,,0,0,0,,{TIME:458562,462775}Nobody would suspect that\Nyou borrowed the money and I lent it.
-Dialogue: 0,0:07:43.56,0:07:45.86,saint tail default,,0,0,0,,{TIME:463567,465861}Not realizing a thing…
-Dialogue: 0,0:07:46.07,0:07:50.65,saint tail default,,0,0,0,,{TIME:466070,470658}…your co-signer Misaki is\Neither a real nice guy or an idiot.
-Dialogue: 0,0:07:50.90,0:07:56.62,saint tail default,,0,0,0,,{TIME:470908,476622}– Oh, how my heart aches.\N– That guy picked a bad friend.
-Dialogue: 0,0:07:56.87,0:07:59.91,saint tail default,,0,0,0,,{TIME:476872,479917}– Speak for yourself.\N– Excuse me.
-Dialogue: 0,0:08:00.16,0:08:01.83,saint tail default,,0,0,0,,{TIME:480167,481836}Who are you?
-Dialogue: 0,0:08:02.08,0:08:07.50,saint tail default,,0,0,0,,{TIME:482086,487508}Mr. Negoro? I'm Asuka Jr. I'm assisting\Nin the St. Tail investigations.
-Dialogue: 0,0:08:08.00,0:08:09.63,saint tail default,,0,0,0,,{TIME:488009,489635}St. Tail?
-Dialogue: 0,0:08:09.88,0:08:13.76,saint tail default,,0,0,0,,{TIME:489885,493764}Actually, we just received\Na notice from her.
-Dialogue: 0,0:08:14.01,0:08:18.22,saint tail default,,0,0,0,,{TIME:494015,498227}She's going to appear here tonight\Nto steal a jewelry box.
-Dialogue: 0,0:08:18.81,0:08:21.48,saint tail default,,0,0,0,,{TIME:498811,501480}A jewelry box? Impossible!
-Dialogue: 0,0:08:21.73,0:08:25.52,saint tail default,,0,0,0,,{TIME:501731,505526}How could there be such a thing\Nin this unoccupied mansion?
-Dialogue: 0,0:08:25.77,0:08:27.94,saint tail default,,0,0,0,,{TIME:505776,507945}By the way, what's that for?
-Dialogue: 0,0:08:28.19,0:08:30.61,saint tail default,,0,0,0,,{TIME:508195,510614}Tomorrow we're clearing this lot.
-Dialogue: 0,0:08:30.82,0:08:33.36,saint tail default,,0,0,0,,{TIME:510823,513367}You're going to tear it down.
-Dialogue: 0,0:08:36.20,0:08:40.37,saint tail default,,0,0,0,,{TIME:516203,520374}If St. Tail is coming, there will\Nbe a horde of cops here too!
-Dialogue: 0,0:08:40.62,0:08:43.87,saint tail default,,0,0,0,,{TIME:520624,523878}I know.\NAnyway, you'd better disappear.
-Dialogue: 0,0:08:44.08,0:08:47.33,saint tail default,,0,0,0,,{TIME:524086,527339}But is there really\Na jewelry box in there?
-Dialogue: 0,0:08:48.09,0:08:52.59,saint tail default,,0,0,0,,{TIME:528090,532595}I got everything in there out.\NThere shouldn't be anything left.
-Dialogue: 0,0:08:52.84,0:08:55.47,saint tail default,,0,0,0,,{TIME:532845,535473}Something's fishy.
-Dialogue: 0,0:08:55.72,0:08:59.31,saint tail default,,0,0,0,,{TIME:535723,539310}St. Tail wouldn't come to steal\Nsomething that's not there.
-Dialogue: 0,0:09:00.14,0:09:02.27,saint tail default,,0,0,0,,{TIME:540144,542271}Could she have uncovered our scheme?
-Dialogue: 0,0:09:02.52,0:09:07.27,saint tail default,,0,0,0,,{TIME:542521,547276}And the proof is hidden in this\Nmansion? And she's coming to steal it.
-Dialogue: 0,0:09:09.07,0:09:14.65,saint tail default,,0,0,0,,{TIME:549070,554658}St. Tail has caused many criminals\Nto be arrested.
-Dialogue: 0,0:09:15.40,0:09:19.08,saint tail default,,0,0,0,,{TIME:555409,559080}Maybe we should clear\Nthe lot off tonight.
-Dialogue: 0,0:09:19.28,0:09:22.83,saint tail default,,0,0,0,,{TIME:559288,562833}Whatever St. Tail is up to,\Nif there's no place here…
-Dialogue: 0,0:09:23.08,0:09:25.41,saint tail default,,0,0,0,,{TIME:563084,565419}…there's nothing to worry about.
-Dialogue: 0,0:09:25.87,0:09:29.71,saint tail default,,0,0,0,,{TIME:565878,569715}If the mansion isn't here,\Nthere's nothing that can be done.
-Dialogue: 0,0:09:29.96,0:09:33.96,saint tail default,,0,0,0,,{TIME:569965,573969}Since it's been decided,\Nlet's tear it down right away!
-Dialogue: 0,0:09:34.72,0:09:36.01,saint tail default,,0,0,0,,{TIME:574720,576013}Here it is!
-Dialogue: 0,0:09:36.26,0:09:38.72,saint tail default,,0,0,0,,{TIME:576263,578724}It's a woman!
-Dialogue: 0,0:09:38.97,0:09:41.68,saint tail default,,0,0,0,,{TIME:578974,581685}Hey, look at this!
-Dialogue: 0,0:09:41.93,0:09:44.85,saint tail default,,0,0,0,,{TIME:581936,584855}What's all the panic about?
-Dialogue: 0,0:09:45.10,0:09:47.73,saint tail default,,0,0,0,,{TIME:585106,587733}Look! Doesn't this\Nbring back memories?
-Dialogue: 0,0:09:47.98,0:09:51.23,saint tail default,,0,0,0,,{TIME:587983,591237}It's the Miho-chan doll\Nthat you bought for me.
-Dialogue: 0,0:09:51.48,0:09:52.98,saint tail default,,0,0,0,,{TIME:591487,592988}I remember!
-Dialogue: 0,0:09:53.23,0:09:58.11,saint tail default,,0,0,0,,{TIME:593239,598119}I bought it for your fifth birthday.\NYou've had it all these years.
-Dialogue: 0,0:09:58.36,0:10:01.70,saint tail default,,0,0,0,,{TIME:598369,601705}This doll was so very precious\Nto you, Meimi.
-Dialogue: 0,0:10:01.95,0:10:06.29,saint tail default,,0,0,0,,{TIME:601956,606293}You didn't want any doll\Nother than this Miho-chan.
-Dialogue: 0,0:10:06.54,0:10:10.84,saint tail default,,0,0,0,,{TIME:606544,610840}Papa, can you make this doll\Nnew again with your magic?
-Dialogue: 0,0:10:11.63,0:10:16.09,saint tail default,,0,0,0,,{TIME:611632,616095}Well, let's see. I wonder if I can.
-Dialogue: 0,0:10:18.01,0:10:22.05,saint tail default,,0,0,0,,{TIME:618013,622059}But your precious memories\Nmay disappear too, Meimi.
-Dialogue: 0,0:10:24.06,0:10:26.89,saint tail default,,0,0,0,,{TIME:624061,626897}Well, I'll keep it the way it is.
-Dialogue: 0,0:10:27.31,0:10:28.60,saint tail default,,0,0,0,,{TIME:627314,628607}Here.
-Dialogue: 0,0:10:36.44,0:10:40.03,saint tail default,,0,0,0,,{TIME:636448,640035}I'm sorry, I've got to go to work.
-Dialogue: 0,0:10:40.24,0:10:44.54,saint tail default,,0,0,0,,{TIME:640244,644540}So please entertain our guest.
-Dialogue: 0,0:10:55.38,0:10:58.51,saint tail default,,0,0,0,,{TIME:655384,658512}You're joking!\NI can't let you do that!
-Dialogue: 0,0:10:59.01,0:11:03.51,saint tail default,,0,0,0,,{TIME:659013,663517}Why? We've got to complete\Nthe clearing of the lot by tonight.
-Dialogue: 0,0:11:03.76,0:11:05.60,saint tail default,,0,0,0,,{TIME:663767,665603}Get out of the way.
-Dialogue: 0,0:11:05.85,0:11:08.73,saint tail default,,0,0,0,,{TIME:665853,668731}You said it'd be done tomorrow,\Ndidn't you?
-Dialogue: 0,0:11:08.93,0:11:10.73,saint tail default,,0,0,0,,{TIME:668939,670733}The plans have changed.
-Dialogue: 0,0:11:10.94,0:11:14.61,saint tail default,,0,0,0,,{TIME:670941,674612}St. Tail's coming!\NThere's no time for that!
-Dialogue: 0,0:11:15.11,0:11:18.24,saint tail default,,0,0,0,,{TIME:675112,678240}She can take anything she wants.
-Dialogue: 0,0:11:18.49,0:11:21.53,saint tail default,,0,0,0,,{TIME:678490,681535}What could be\Nin an empty house anyway?
-Dialogue: 0,0:11:21.78,0:11:25.03,saint tail default,,0,0,0,,{TIME:681785,685039}A jewelry box. I understand.
-Dialogue: 0,0:11:25.28,0:11:30.54,saint tail default,,0,0,0,,{TIME:685289,690544}Then please let us check if there\Nis really a jewelry box in there.
-Dialogue: 0,0:11:31.58,0:11:33.13,saint tail default,,0,0,0,,{TIME:691587,693130}There isn't one.
-Dialogue: 0,0:11:33.38,0:11:36.80,saint tail default,,0,0,0,,{TIME:693380,696800}Well, if it's not there,\NI'm clearing the place.
-Dialogue: 0,0:11:37.25,0:11:41.01,saint tail default,,0,0,0,,{TIME:697259,701013}But should we find one,\Nyou'll have to leave things to us.
-Dialogue: 0,0:11:41.26,0:11:43.80,saint tail default,,0,0,0,,{TIME:701263,703807}If stolen things are in there…
-Dialogue: 0,0:11:44.05,0:11:48.10,saint tail default,,0,0,0,,{TIME:704058,708103}…we have an obligation\Nto protect them from St. Tail!
-Dialogue: 0,0:11:48.60,0:11:51.19,saint tail default,,0,0,0,,{TIME:708604,711190}You won't find one.
+Dialogue: 0,0:02:11.31,0:02:15.40,saint tail default,[title],0,0,0,,{TIME:131319,135406}Unforgivable!\NThe Bad Guys Destroy a House.
+Dialogue: 0,0:02:21.24,0:02:22.87,saint tail default,,0,0,0,,{TIME:141245,142872}Good morning!
+Dialogue: 0,0:02:22.87,0:02:24.54,saint tail default,,0,0,0,,{TIME:142872,144540}Good morning, Meimi!
+Dialogue: 0,0:02:24.54,0:02:27.04,saint tail default,,0,0,0,,{TIME:144540,147043}Hey, Meimi, look at this!
+Dialogue: 0,0:02:27.91,0:02:29.71,saint tail default,,0,0,0,,{TIME:147919,149712}This brings back memories.
+Dialogue: 0,0:02:29.71,0:02:33.75,saint tail default,,0,0,0,,{TIME:149712,153758}Isn't this a Miho-chan doll?\NI had one like this.
+Dialogue: 0,0:02:33.75,0:02:39.22,saint tail default,,0,0,0,,{TIME:153758,159222}I found it cleaning my room. It brought\Nback memories so I brought it with me.
+Dialogue: 0,0:02:39.22,0:02:43.35,saint tail default,,0,0,0,,{TIME:159222,163351}I wonder if I still have mine.\NI'll try looking for it.
+Dialogue: 0,0:02:43.35,0:02:49.81,saint tail default,,0,0,0,,{TIME:163351,169816}We girls have a lot of memories\Nin these dolls, don't we?
+Dialogue: 0,0:02:49.81,0:02:53.27,saint tail default,,0,0,0,,{TIME:169816,173277}You girls are lucky to have\Nthat much time on your hands.
+Dialogue: 0,0:02:53.27,0:02:55.94,saint tail default,,0,0,0,,{TIME:173277,175947}I don't even have time\Nto make memories.
+Dialogue: 0,0:02:55.94,0:03:00.53,saint tail default,,0,0,0,,{TIME:175947,180535}I'm so busy trying\Nto catch St. Tail that…
+Dialogue: 0,0:03:01.70,0:03:06.91,saint tail default,,0,0,0,,{TIME:181703,186916}Right. With all those memories of\NSt. Tail escaping, you're frustrated.
+Dialogue: 0,0:03:06.91,0:03:08.71,saint tail default,,0,0,0,,{TIME:186916,188710}What's that?
+Dialogue: 0,0:03:08.71,0:03:12.33,saint tail default,,0,0,0,,{TIME:188710,192338}If you don't like it,\Ntry catching her quickly.
+Dialogue: 0,0:03:12.33,0:03:17.09,saint tail default,,0,0,0,,{TIME:192338,197093}It'll be your most precious memory.\NThough it's probably impossible.
+Dialogue: 0,0:03:17.67,0:03:22.51,saint tail default,,0,0,0,,{TIME:197677,202515}Now you've said it! I'm not after\NSt. Tail for a reason like that!
+Dialogue: 0,0:03:22.51,0:03:24.80,saint tail default,,0,0,0,,{TIME:202515,204809}Precious memories, what nonsense!
+Dialogue: 0,0:03:25.93,0:03:31.02,saint tail default,,0,0,0,,{TIME:205935,211023}Is that so? Are you saying there are\Nno memories between you and St. Tail?
+Dialogue: 0,0:03:32.44,0:03:34.48,saint tail default,,0,0,0,,{TIME:212442,214485}Why are you so upset?
+Dialogue: 0,0:03:34.94,0:03:36.40,saint tail default,,0,0,0,,{TIME:214944,216404}How should I know?
+Dialogue: 0,0:03:36.40,0:03:38.07,saint tail default,,0,0,0,,{TIME:216404,218072}My doll…
+Dialogue: 0,0:03:40.82,0:03:44.03,saint tail default,,0,0,0,,{TIME:220825,224036}It disgusts me to know\Nwhat a dingbat that guy is!
+Dialogue: 0,0:03:44.74,0:03:49.00,saint tail default,,0,0,0,,{TIME:224746,229000}Oh, my. We should be\Nthe ones appreciating him.
+Dialogue: 0,0:03:49.79,0:03:53.75,saint tail default,,0,0,0,,{TIME:229792,233755}Why is that?\NHe's never done anything to save—
+Dialogue: 0,0:03:55.46,0:03:58.34,saint tail default,,0,0,0,,{TIME:235465,238342}That's not true, is it?
+Dialogue: 0,0:03:58.34,0:04:02.43,saint tail default,,0,0,0,,{TIME:238342,242430}When you're angry, Meimi,\Nit's usually about Asuka Jr.
+Dialogue: 0,0:04:02.43,0:04:03.68,saint tail default,,0,0,0,,{TIME:242430,243681}Seira, you're mean!
+Dialogue: 0,0:04:04.68,0:04:09.31,saint tail default,,0,0,0,,{TIME:244682,249312}Anyway, today there was another\Nlost sheep that wandered by here.
+Dialogue: 0,0:04:10.06,0:04:13.48,saint tail default,,0,0,0,,{TIME:250062,253483}A while ago, Michiru\Ncame by to ask for help.
+Dialogue: 0,0:04:13.48,0:04:17.73,saint tail default,,0,0,0,,{TIME:253483,257737}She used to live happily\Nin a mansion with her parents.
+Dialogue: 0,0:04:18.27,0:04:23.70,saint tail default,,0,0,0,,{TIME:258279,263701}But one year ago, Michiru's father\Ncosigned a loan for a friend,
+Dialogue: 0,0:04:23.70,0:04:27.62,saint tail default,,0,0,0,,{TIME:263701,267622}and because of that,\Nthey lost their mansion.
+Dialogue: 0,0:04:28.49,0:04:35.58,saint tail default,,0,0,0,,{TIME:268498,275588}That friend he cosigned for\Ntook the loan money and disappeared.
+Dialogue: 0,0:04:36.38,0:04:40.92,saint tail default,,0,0,0,,{TIME:276380,280927}Not only did the loan company\Ntake control of the mansion,
+Dialogue: 0,0:04:40.92,0:04:43.55,saint tail default,,0,0,0,,{TIME:280927,283554}but everything inside of it as well.
+Dialogue: 0,0:04:44.63,0:04:50.52,saint tail default,,0,0,0,,{TIME:284639,290520}Michiru's jewelry box was a precious thing\Nfilled with all kinds of memories.
+Dialogue: 0,0:04:51.14,0:04:54.81,saint tail default,,0,0,0,,{TIME:291145,294816}Michiru hid the box in the house.
+Dialogue: 0,0:04:54.81,0:04:59.90,saint tail default,,0,0,0,,{TIME:294816,299904}Right after that, they were forced\Nto vacate the property.
+Dialogue: 0,0:05:00.65,0:05:04.61,saint tail default,,0,0,0,,{TIME:300655,304617}Then that jewelry box is\Nstill hidden in the house.
+Dialogue: 0,0:05:06.16,0:05:09.03,saint tail default,,0,0,0,,{TIME:306160,309038}She was planning to get it back later.
+Dialogue: 0,0:05:09.03,0:05:12.08,saint tail default,,0,0,0,,{TIME:309038,312083}But Negoro, who owns\Nthe loan company…
+Dialogue: 0,0:05:16.12,0:05:18.38,saint tail default,,0,0,0,,{TIME:316128,318381}It's you again, little girl?
+Dialogue: 0,0:05:18.38,0:05:21.75,saint tail default,,0,0,0,,{TIME:318381,321759}You'll get nowhere, no matter\Nhow many times you come.
+Dialogue: 0,0:05:21.75,0:05:24.17,saint tail default,,0,0,0,,{TIME:321759,324178}Just for a little while.
+Dialogue: 0,0:05:24.17,0:05:27.84,saint tail default,,0,0,0,,{TIME:324178,327849}I want to see the inside\Nof the house one more time.
+Dialogue: 0,0:05:27.84,0:05:32.93,saint tail default,,0,0,0,,{TIME:327849,332937}This house doesn't belong to you\Nanymore, young lady. It's mine.
+Dialogue: 0,0:05:34.02,0:05:37.40,saint tail default,,0,0,0,,{TIME:334021,337400}Also, this land is being sold,
+Dialogue: 0,0:05:37.40,0:05:41.61,saint tail default,,0,0,0,,{TIME:337400,341612}so we're gonna have\Nto tear down the house.
+Dialogue: 0,0:05:42.19,0:05:47.32,saint tail default,,0,0,0,,{TIME:342196,347326}What will happen to her memories?\NThe jewelry box of memories?!
+Dialogue: 0,0:05:48.16,0:05:53.29,saint tail default,,0,0,0,,{TIME:348160,353291}There's nothing that can be done\Nabout Michiru's house being torn down.
+Dialogue: 0,0:05:53.87,0:05:58.25,saint tail default,,0,0,0,,{TIME:353875,358254}Then at least the jewelry box\Nshould be returned to Michiru.
+Dialogue: 0,0:05:59.04,0:06:01.42,saint tail default,,0,0,0,,{TIME:359046,361424}If it isn't, it'll be too sad.
+Dialogue: 0,0:06:01.42,0:06:05.72,saint tail default,,0,0,0,,{TIME:361424,365720}Ever since the house was taken,\NMichiru's mother has become ill.
+Dialogue: 0,0:06:07.05,0:06:09.97,saint tail default,,0,0,0,,{TIME:367054,369974}They're breaking down\Nthe house tomorrow.
+Dialogue: 0,0:06:09.97,0:06:12.18,saint tail default,,0,0,0,,{TIME:369974,372184}We only have tonight\Nto carry this out.
+Dialogue: 0,0:06:12.60,0:06:15.02,saint tail default,,0,0,0,,{TIME:372602,375021}Let's get those memories back!
+Dialogue: 0,0:06:22.77,0:06:23.86,saint tail default,,0,0,0,,{TIME:382778,383863}What's this?
+Dialogue: 0,0:06:31.28,0:06:32.87,saint tail default,,0,0,0,,{TIME:391287,392872}Is this a…
+Dialogue: 0,0:06:33.53,0:06:39.21,saint tail default,,0,0,0,,{TIME:393539,399211}"Tonight, I'll be entering the Misaki mansion\Nto pick up a jewelry box. – St. Tail"
+Dialogue: 0,0:06:39.83,0:06:41.96,saint tail default,,0,0,0,,{TIME:399837,401964}It's a notice from St. Tail!
+Dialogue: 0,0:06:41.96,0:06:45.17,saint tail default,,0,0,0,,{TIME:401964,405176}– A notice from St. Tail?\N– Where is it?
+Dialogue: 0,0:06:45.17,0:06:48.88,saint tail default,,0,0,0,,{TIME:405176,408888}Don't push. I can't see it!
+Dialogue: 0,0:06:56.97,0:06:59.23,saint tail default,,0,0,0,,{TIME:416979,419231}So that's the Misaki mansion.
+Dialogue: 0,0:07:03.19,0:07:04.40,saint tail default,,0,0,0,,{TIME:423194,424403}What's happening?
+Dialogue: 0,0:07:07.03,0:07:09.07,saint tail default,,0,0,0,,{TIME:427031,429075}I'll leave tomorrow up to you.
+Dialogue: 0,0:07:09.07,0:07:10.53,saint tail default,,0,0,0,,{TIME:429075,430534}I understand.
+Dialogue: 0,0:07:16.45,0:07:22.71,saint tail default,,0,0,0,,{TIME:436457,442713}This is really troublesome, isn't it?\NTearing down a mansion like this.
+Dialogue: 0,0:07:22.71,0:07:27.80,saint tail default,,0,0,0,,{TIME:442713,447802}Making this an open lot is the terms\Nthe buyer made. What can I say?
+Dialogue: 0,0:07:27.80,0:07:29.80,saint tail default,,0,0,0,,{TIME:447802,449804}It'll all be done by tomorrow.
+Dialogue: 0,0:07:30.30,0:07:32.93,saint tail default,,0,0,0,,{TIME:450304,452932}We're finally getting to the cash.
+Dialogue: 0,0:07:32.93,0:07:38.77,saint tail default,,0,0,0,,{TIME:452932,458771}Didn't think that it'd go this smooth.\NLike a bubble on a wet hand.
+Dialogue: 0,0:07:38.77,0:07:43.02,saint tail default,,0,0,0,,{TIME:458771,463025}Nobody would suspect that\Nyou borrowed the money and I lent it.
+Dialogue: 0,0:07:43.77,0:07:51.11,saint tail default,,0,0,0,,{TIME:463776,471117}Not realizing a thing your cosigner Misaki\Nis either a real nice guy or an idiot.
+Dialogue: 0,0:07:51.11,0:07:57.08,saint tail default,,0,0,0,,{TIME:471117,477081}– Oh, how my heart aches.\N– That guy picked a bad friend.
+Dialogue: 0,0:07:57.08,0:08:00.20,saint tail default,,0,0,0,,{TIME:477081,480209}– Speak for yourself.\N– Excuse me.
+Dialogue: 0,0:08:00.20,0:08:02.29,saint tail default,,0,0,0,,{TIME:480209,482294}Who are you?
+Dialogue: 0,0:08:02.29,0:08:04.13,saint tail default,,0,0,0,,{TIME:482294,484130}Mr. Negoro?
+Dialogue: 0,0:08:04.13,0:08:07.75,saint tail default,,0,0,0,,{TIME:484130,487758}I'm Asuka Jr. I'm assisting\Nin the St. Tail investigations.
+Dialogue: 0,0:08:08.21,0:08:10.13,saint tail default,,0,0,0,,{TIME:488217,490136}St. Tail?
+Dialogue: 0,0:08:10.13,0:08:14.22,saint tail default,,0,0,0,,{TIME:490136,494223}Actually, we just received\Na notice from her.
+Dialogue: 0,0:08:14.22,0:08:18.47,saint tail default,,0,0,0,,{TIME:494223,498477}She's going to appear here tonight\Nto steal a jewelry box.
+Dialogue: 0,0:08:19.06,0:08:21.98,saint tail default,,0,0,0,,{TIME:499061,501981}A jewelry box? Impossible!
+Dialogue: 0,0:08:21.98,0:08:25.19,saint tail default,,0,0,0,,{TIME:501981,505192}How could there be such a thing\Nin this unoccupied mansion?
+Dialogue: 0,0:08:25.98,0:08:28.44,saint tail default,,0,0,0,,{TIME:505985,508446}By the way, what's that for?
+Dialogue: 0,0:08:28.44,0:08:31.07,saint tail default,,0,0,0,,{TIME:508446,511073}Tomorrow we're clearing this lot.
+Dialogue: 0,0:08:31.07,0:08:33.61,saint tail default,,0,0,0,,{TIME:511073,513617}You're going to tear it down.
+Dialogue: 0,0:08:36.41,0:08:40.87,saint tail default,,0,0,0,,{TIME:516412,520875}If St. Tail is coming, there will\Nbe a horde of cops here too!
+Dialogue: 0,0:08:40.87,0:08:44.29,saint tail default,,0,0,0,,{TIME:520875,524295}I know.\NAnyway, you'd better disappear.
+Dialogue: 0,0:08:44.29,0:08:47.59,saint tail default,,0,0,0,,{TIME:524295,527590}But is there really\Na jewelry box in there?
+Dialogue: 0,0:08:48.34,0:08:53.09,saint tail default,,0,0,0,,{TIME:528340,533095}I got everything in there out.\NThere shouldn't be anything left.
+Dialogue: 0,0:08:53.09,0:08:55.93,saint tail default,,0,0,0,,{TIME:533095,535931}Something's fishy.
+Dialogue: 0,0:08:55.93,0:08:59.56,saint tail default,,0,0,0,,{TIME:535931,539560}St. Tail wouldn't come to steal\Nsomething that's not there.
+Dialogue: 0,0:09:00.35,0:09:02.73,saint tail default,,0,0,0,,{TIME:540352,542730}Could she have uncovered\Nour scheme?
+Dialogue: 0,0:09:02.73,0:09:07.52,saint tail default,,0,0,0,,{TIME:542730,547526}And the proof is hidden in this mansion?\NAnd she's coming to steal it.
+Dialogue: 0,0:09:09.32,0:09:14.90,saint tail default,,0,0,0,,{TIME:549320,554909}St. Tail has caused many\Ncriminals to be arrested.
+Dialogue: 0,0:09:15.65,0:09:19.49,saint tail default,,0,0,0,,{TIME:555659,559497}Maybe we should clear\Nthe lot off tonight.
+Dialogue: 0,0:09:19.49,0:09:25.66,saint tail default,,0,0,0,,{TIME:559497,565669}Whatever St. Tail is up to, if there's\Nno place here, there's nothing to worry about.
+Dialogue: 0,0:09:26.12,0:09:30.17,saint tail default,,0,0,0,,{TIME:566128,570174}If the mansion isn't here,\Nthere's nothing that can be done.
+Dialogue: 0,0:09:30.17,0:09:34.26,saint tail default,,0,0,0,,{TIME:570174,574261}Since it's been decided,\Nlet's tear it down right away!
+Dialogue: 0,0:09:35.09,0:09:36.30,saint tail default,,0,0,0,,{TIME:575096,576305}Here it is!
+Dialogue: 0,0:09:36.43,0:09:39.18,saint tail default,,0,0,0,,{TIME:576430,579183}It's a woman!
+Dialogue: 0,0:09:39.18,0:09:41.01,saint tail default,,0,0,0,,{TIME:579183,581018}Hey, look at this!
+Dialogue: 0,0:09:42.14,0:09:44.56,saint tail default,,0,0,0,,{TIME:582144,584563}What's all the panic about?
+Dialogue: 0,0:09:45.31,0:09:48.23,saint tail default,,0,0,0,,{TIME:585314,588234}Look! Doesn't this\Nbring back memories?
+Dialogue: 0,0:09:48.23,0:09:51.69,saint tail default,,0,0,0,,{TIME:588234,591695}It's the Miho-chan doll\Nthat you bought for me.
+Dialogue: 0,0:09:51.69,0:09:53.44,saint tail default,,0,0,0,,{TIME:591695,593447}I remember!
+Dialogue: 0,0:09:53.44,0:09:58.53,saint tail default,,0,0,0,,{TIME:593447,598536}I bought it for your fifth birthday.\NYou've had it all these years.
+Dialogue: 0,0:09:58.53,0:10:02.16,saint tail default,,0,0,0,,{TIME:598536,602164}This doll was so very precious\Nto you, Meimi.
+Dialogue: 0,0:10:02.16,0:10:06.75,saint tail default,,0,0,0,,{TIME:602164,606752}You didn't want any doll\Nother than this Miho-chan.
+Dialogue: 0,0:10:06.75,0:10:11.09,saint tail default,,0,0,0,,{TIME:606752,611090}Papa, can you make this doll\Nnew again with your magic?
+Dialogue: 0,0:10:11.79,0:10:15.80,saint tail default,,0,0,0,,{TIME:611799,615803}Well, let's see. I wonder if I can.
+Dialogue: 0,0:10:18.26,0:10:22.30,saint tail default,,0,0,0,,{TIME:618264,622309}But your precious memories\Nmay disappear too, Meimi.
+Dialogue: 0,0:10:24.31,0:10:26.48,saint tail default,,0,0,0,,{TIME:624311,626480}Well, I'll keep it the way it is.
+Dialogue: 0,0:10:27.56,0:10:29.02,saint tail default,,0,0,0,,{TIME:627565,629024}Here.
+Dialogue: 0,0:10:36.78,0:10:40.49,saint tail default,,0,0,0,,{TIME:636782,640494}I'm sorry, Ruby.\NI've got to go to work.
+Dialogue: 0,0:10:40.49,0:10:43.83,saint tail default,,0,0,0,,{TIME:640494,643831}So please entertain our guest.
+Dialogue: 0,0:10:55.63,0:10:58.80,saint tail default,,0,0,0,,{TIME:655634,658804}You're joking!\NI can't let you do that!
+Dialogue: 0,0:10:59.26,0:11:04.01,saint tail default,,0,0,0,,{TIME:659263,664018}Why? We've got to complete\Nthe clearing of the lot by tonight.
+Dialogue: 0,0:11:04.01,0:11:06.06,saint tail default,,0,0,0,,{TIME:664018,666061}Get out of the way.
+Dialogue: 0,0:11:06.06,0:11:09.14,saint tail default,,0,0,0,,{TIME:666061,669148}You said it'd be done tomorrow,\Ndidn't you?
+Dialogue: 0,0:11:09.14,0:11:11.15,saint tail default,,0,0,0,,{TIME:669148,671150}The plans have changed.
+Dialogue: 0,0:11:11.15,0:11:15.40,saint tail default,,0,0,0,,{TIME:671150,675404}St. Tail's coming!\NThere's no time for that!
+Dialogue: 0,0:11:15.40,0:11:18.74,saint tail default,,0,0,0,,{TIME:675404,678741}She can take anything she wants.
+Dialogue: 0,0:11:18.74,0:11:22.07,saint tail default,,0,0,0,,{TIME:678741,682077}What could be\Nin an empty house anyway?
+Dialogue: 0,0:11:22.07,0:11:25.53,saint tail default,,0,0,0,,{TIME:682077,685539}A jewelry box. I understand.
+Dialogue: 0,0:11:25.53,0:11:29.58,saint tail default,,0,0,0,,{TIME:685539,689585}Then please let us check if there\Nis really a jewelry box in there.
+Dialogue: 0,0:11:31.83,0:11:33.58,saint tail default,,0,0,0,,{TIME:691837,693589}There isn't one.
+Dialogue: 0,0:11:33.58,0:11:37.05,saint tail default,,0,0,0,,{TIME:693589,697051}Well, if it's not there,\NI'm clearing the place.
+Dialogue: 0,0:11:37.50,0:11:41.51,saint tail default,,0,0,0,,{TIME:697509,701513}But should we find one,\Nyou'll have to leave things to us.
+Dialogue: 0,0:11:41.51,0:11:43.51,saint tail default,,0,0,0,,{TIME:701513,703515}If there are goods\Nworth stealing there,
+Dialogue: 0,0:11:43.51,0:11:46.97,saint tail default,,0,0,0,,{TIME:703515,706977}we have an obligation\Nto protect them from St. Tail!
+Dialogue: 0,0:11:47.72,0:11:48.81,saint tail default,,0,0,0,,{TIME:707728,708812}Certainly.
+Dialogue: 0,0:11:48.81,0:11:50.85,saint tail default,,0,0,0,,{TIME:708812,710856}But you won't find anything.
 Comment: 0,0:11:51.77,0:11:51.77,[chapter],[chapter],0,0,0,,{TIME:711774,711774}Eyecatch
 Comment: 0,0:11:56.77,0:11:56.77,[chapter],[chapter],0,0,0,,{TIME:716779,716779}Part B
-Dialogue: 0,0:12:00.78,0:12:04.32,saint tail default,,0,0,0,,{TIME:720783,724328}Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
-Dialogue: 0,0:12:09.33,0:12:11.08,saint tail default,,0,0,0,,{TIME:729333,731085}One!
-Dialogue: 0,0:12:12.67,0:12:14.33,saint tail default,,0,0,0,,{TIME:732670,734338}Two!
-Dialogue: 0,0:12:16.00,0:12:18.67,saint tail default,,0,0,0,,{TIME:736006,738676}Three!
-Dialogue: 0,0:12:32.48,0:12:34.77,saint tail default,,0,0,0,,{TIME:752481,754775}St. Tail, hurry.
-Dialogue: 0,0:12:35.02,0:12:40.03,saint tail default,,0,0,0,,{TIME:755025,760030}I don't know why, but they're\Nplanning to clear the lot tonight.
-Dialogue: 0,0:12:40.28,0:12:42.65,saint tail default,,0,0,0,,{TIME:760281,762658}You're kidding! But why?
-Dialogue: 0,0:12:42.86,0:12:47.20,saint tail default,,0,0,0,,{TIME:762866,767204}I've checked up a bit\Non that loan company…
-Dialogue: 0,0:12:47.45,0:12:49.87,saint tail default,,0,0,0,,{TIME:767454,769873}…and it seems to be a little shady.
-Dialogue: 0,0:12:50.58,0:12:53.08,saint tail default,,0,0,0,,{TIME:770582,773085}Meimi, be very careful.
-Dialogue: 0,0:12:53.50,0:12:58.29,saint tail default,,0,0,0,,{TIME:773502,778299}Don't worry. I'll be back\Nwith Michiru's box of memories.
-Dialogue: 0,0:13:00.80,0:13:04.30,saint tail default,,0,0,0,,{TIME:780801,784305}May the blessings of God be with us.
-Dialogue: 0,0:13:05.80,0:13:08.55,saint tail default,,0,0,0,,{TIME:785806,788559}Please let me get there in time!
-Dialogue: 0,0:13:13.68,0:13:16.15,saint tail default,,0,0,0,,{TIME:793689,796150}Well? There's nothing here, is there?
-Dialogue: 0,0:13:28.78,0:13:33.62,saint tail default,,0,0,0,,{TIME:808787,813625}Now, are you satisfied?\NSt. Tail has probably made a mistake.
-Dialogue: 0,0:13:33.87,0:13:37.96,saint tail default,,0,0,0,,{TIME:813876,817963}I'll be keeping you to your promise\Nand start clearing the lot.
-Dialogue: 0,0:13:38.63,0:13:40.67,saint tail default,,0,0,0,,{TIME:818630,820674}I haven't said it's not here yet!
-Dialogue: 0,0:13:41.30,0:13:45.09,saint tail default,,0,0,0,,{TIME:821300,825095}A promise is a promise.\NI won't stand for this any longer.
-Dialogue: 0,0:13:45.34,0:13:47.89,saint tail default,,0,0,0,,{TIME:825346,827890}The work is going to be started.
-Dialogue: 0,0:13:49.05,0:13:50.39,saint tail default,,0,0,0,,{TIME:829058,830392}Even if I stay?
-Dialogue: 0,0:13:50.64,0:13:53.10,saint tail default,,0,0,0,,{TIME:830642,833103}You should be careful\Nof the chandelier.
-Dialogue: 0,0:13:53.35,0:13:56.60,saint tail default,,0,0,0,,{TIME:833354,836607}It'll probably come falling\Nwith the tremor.
-Dialogue: 0,0:14:02.48,0:14:04.28,saint tail default,,0,0,0,,{TIME:842488,844281}What a stubborn idiot!
-Dialogue: 0,0:14:09.95,0:14:12.95,saint tail default,,0,0,0,,{TIME:849953,852956}Stop it! Stop it right now!
-Dialogue: 0,0:14:13.20,0:14:14.66,saint tail default,,0,0,0,,{TIME:853207,854666}What a pesky brat!
-Dialogue: 0,0:14:16.37,0:14:19.33,saint tail default,,0,0,0,,{TIME:856377,859338}What do you think you're doing?
-Dialogue: 0,0:14:19.58,0:14:21.84,saint tail default,,0,0,0,,{TIME:859588,861840}It's St. Tail!
-Dialogue: 0,0:14:27.05,0:14:29.55,saint tail default,,0,0,0,,{TIME:867054,869556}Everyone! Get to your positions!
-Dialogue: 0,0:14:39.14,0:14:41.27,saint tail default,,0,0,0,,{TIME:879149,881276}That's St. Tail!
-Dialogue: 0,0:14:41.52,0:14:45.19,saint tail default,,0,0,0,,{TIME:881527,885197}Knock her down with the bulldozer!\NNever mind! I'll do it myself!
-Dialogue: 0,0:14:47.65,0:14:50.45,saint tail default,,0,0,0,,{TIME:887658,890452}How terrible can he get?
-Dialogue: 0,0:14:54.91,0:14:56.79,saint tail default,,0,0,0,,{TIME:894915,896792}Stop it!
-Dialogue: 0,0:15:04.84,0:15:08.17,saint tail default,,0,0,0,,{TIME:904842,908178}Darn! Quit scampering around!
-Dialogue: 0,0:15:22.02,0:15:25.02,saint tail default,,0,0,0,,{TIME:922025,925028}After her!\NSt. Tail has entered the mansion!
-Dialogue: 0,0:15:31.24,0:15:32.95,saint tail default,,0,0,0,,{TIME:931243,932953}Darn it!
-Dialogue: 0,0:15:33.57,0:15:35.45,saint tail default,,0,0,0,,{TIME:933579,935456}Hold it!
-Dialogue: 0,0:15:47.05,0:15:50.67,saint tail default,,0,0,0,,{TIME:947050,950679}It can't be.\NI'm sure it was this room.
-Dialogue: 0,0:16:03.65,0:16:06.15,saint tail default,,0,0,0,,{TIME:963650,966153}St. Tail, you're in full view.
-Dialogue: 0,0:16:09.69,0:16:11.65,saint tail default,,0,0,0,,{TIME:969698,971658}Give yourself up, St. Tail!
-Dialogue: 0,0:16:11.90,0:16:15.16,saint tail default,,0,0,0,,{TIME:971909,975162}It's unforgivable\Nto take someone's memories!
-Dialogue: 0,0:16:25.33,0:16:28.42,saint tail default,,0,0,0,,{TIME:985339,988425}I've got you cornered, St. Tail!
-Dialogue: 0,0:16:28.67,0:16:30.59,saint tail default,,0,0,0,,{TIME:988675,990594}You! Come here!
-Dialogue: 0,0:16:36.09,0:16:39.01,saint tail default,,0,0,0,,{TIME:996099,999019}Wait a minute!\NWhat are you guys doing?
-Dialogue: 0,0:16:39.22,0:16:43.94,saint tail default,,0,0,0,,{TIME:999228,1003941}With all this weight,\Nthe chandelier is gonna fall!
-Dialogue: 0,0:16:47.65,0:16:49.48,saint tail default,,0,0,0,,{TIME:1007653,1009488}There!
-Dialogue: 0,0:17:01.25,0:17:03.79,saint tail default,,0,0,0,,{TIME:1021250,1023794}That's where it was?
-Dialogue: 0,0:17:04.37,0:17:08.46,saint tail default,,0,0,0,,{TIME:1024378,1028465}St. Tail, I'll have you\Nshow me your identity!
-Dialogue: 0,0:17:13.92,0:17:16.68,saint tail default,,0,0,0,,{TIME:1033929,1036682}That idiot! At a time like this!
-Dialogue: 0,0:17:16.93,0:17:18.10,saint tail default,,0,0,0,,{TIME:1036932,1038100}Unforgivable!
-Dialogue: 0,0:17:21.85,0:17:27.40,saint tail default,,0,0,0,,{TIME:1041853,1047401}If I get rid of this mansion,\Nthere's nothing St. Tail can do!
-Dialogue: 0,0:17:32.28,0:17:34.28,saint tail default,,0,0,0,,{TIME:1052281,1054283}What?
-Dialogue: 0,0:17:36.07,0:17:39.16,saint tail default,,0,0,0,,{TIME:1056076,1059162}I won't let you destroy any more!
-Dialogue: 0,0:17:43.70,0:17:45.75,saint tail default,,0,0,0,,{TIME:1063709,1065752}It's…
-Dialogue: 0,0:17:46.12,0:17:48.79,saint tail default,,0,0,0,,{TIME:1066128,1068797}…Show…
-Dialogue: 0,0:17:50.79,0:17:52.88,saint tail default,,0,0,0,,{TIME:1070799,1072884}…Time!
-Dialogue: 0,0:17:53.96,0:17:55.72,saint tail default,,0,0,0,,{TIME:1073969,1075721}You pesky worm!
-Dialogue: 0,0:18:10.81,0:18:16.11,saint tail default,,0,0,0,,{TIME:1090819,1096116}Exactly what I was worried about.\NHe's getting licked! Darn!
-Dialogue: 0,0:18:21.70,0:18:25.83,saint tail default,,0,0,0,,{TIME:1101705,1105834}Goodbye. And I've got\Nthe jewelry box of memories.
-Dialogue: 0,0:18:26.71,0:18:27.83,saint tail default,,0,0,0,,{TIME:1106710,1107836}Memories?
-Dialogue: 0,0:18:28.29,0:18:31.63,saint tail default,,0,0,0,,{TIME:1108295,1111632}What do you mean, memories, St. Tail?
-Dialogue: 0,0:18:31.88,0:18:36.72,saint tail default,,0,0,0,,{TIME:1111882,1116720}Hey, what are you doing here?\NHold it right there!
-Dialogue: 0,0:18:42.68,0:18:46.06,saint tail default,,0,0,0,,{TIME:1122684,1126063}– And where are you going?\N– Well…
-Dialogue: 0,0:18:49.35,0:18:51.90,saint tail default,,0,0,0,,{TIME:1129358,1131902}– Hey, son!\N– Dad? Why are you here?
-Dialogue: 0,0:18:52.15,0:18:55.65,saint tail default,,0,0,0,,{TIME:1132152,1135656}I had business with these two.\NNegoro and Momochi.
-Dialogue: 0,0:18:55.90,0:18:58.99,saint tail default,,0,0,0,,{TIME:1135906,1138992}– You're under arrest for fraud.\N– Fraud?
-Dialogue: 0,0:18:59.24,0:19:02.28,saint tail default,,0,0,0,,{TIME:1139242,1142287}These two are convicted criminals.
-Dialogue: 0,0:19:02.53,0:19:05.41,saint tail default,,0,0,0,,{TIME:1142537,1145415}We already know\Nthat you two teamed up…
-Dialogue: 0,0:19:05.66,0:19:09.00,saint tail default,,0,0,0,,{TIME:1145666,1149002}…to swindle this mansion\Nfrom Mr. Misaki. Give up!
-Dialogue: 0,0:19:09.54,0:19:10.75,saint tail default,,0,0,0,,{TIME:1149544,1150754}Darn it!
-Dialogue: 0,0:19:22.51,0:19:26.89,saint tail default,,0,0,0,,{TIME:1162516,1166895}– Mother, here, some water.\N– Thank you.
-Dialogue: 0,0:19:37.48,0:19:38.78,saint tail default,,0,0,0,,{TIME:1177489,1178782}I'm home!
-Dialogue: 0,0:19:39.03,0:19:45.20,saint tail default,,0,0,0,,{TIME:1179032,1185205}Father, my treasure box has come back!\NMy precious memories are back!
-Dialogue: 0,0:19:50.83,0:19:54.71,saint tail default,,0,0,0,,{TIME:1190836,1194715}I'm glad! Then Michiru's able\Nto return to that house.
-Dialogue: 0,0:19:55.25,0:19:59.01,saint tail default,,0,0,0,,{TIME:1195257,1199010}Yes. It's only natural because\Nthose two have been caught.
-Dialogue: 0,0:19:59.21,0:20:01.72,saint tail default,,0,0,0,,{TIME:1199219,1201722}But the house has\Nbeen damaged so much.
-Dialogue: 0,0:20:02.38,0:20:06.14,saint tail default,,0,0,0,,{TIME:1202389,1206143}Don't worry.\NThe memories haven't been damaged!
-Dialogue: 0,0:20:19.61,0:20:20.86,saint tail default,,0,0,0,,{TIME:1219614,1220866}What is it?
-Dialogue: 0,0:20:21.45,0:20:24.70,saint tail default,,0,0,0,,{TIME:1221450,1224703}I've heard that you've made\Na few more memories.
-Dialogue: 0,0:20:24.95,0:20:29.58,saint tail default,,0,0,0,,{TIME:1224953,1229583}Memories! Quit bugging me about them!\NYou act just like someone I know.
-Dialogue: 0,0:20:30.37,0:20:31.83,saint tail default,,0,0,0,,{TIME:1230375,1231835}Someone you know?
-Dialogue: 0,0:20:32.08,0:20:36.79,saint tail default,,0,0,0,,{TIME:1232085,1236798}Well, who was it?
-Dialogue: 0,0:20:37.63,0:20:41.42,saint tail default,,0,0,0,,{TIME:1237632,1241428}Oh, forget it!\NIt's none of your concern!
+Dialogue: 0,0:12:01.11,0:12:04.66,saint tail default,,0,0,0,,{TIME:721116,724662}Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
+Dialogue: 0,0:12:09.62,0:12:10.66,saint tail default,,0,0,0,,{TIME:729625,730668}One!
+Dialogue: 0,0:12:12.96,0:12:14.33,saint tail default,,0,0,0,,{TIME:732962,734338}Two!
+Dialogue: 0,0:12:16.25,0:12:18.50,saint tail default,,0,0,0,,{TIME:736257,738509}Three!
+Dialogue: 0,0:12:32.81,0:12:35.31,saint tail default,,0,0,0,,{TIME:752815,755317}St. Tail, hurry.
+Dialogue: 0,0:12:35.31,0:12:40.61,saint tail default,,0,0,0,,{TIME:755317,760614}I don't know why, but they're\Nplanning to clear the lot tonight.
+Dialogue: 0,0:12:40.61,0:12:42.24,saint tail default,,0,0,0,,{TIME:760614,762241}You're kidding! But why?
+Dialogue: 0,0:12:43.11,0:12:50.20,saint tail default,,0,0,0,,{TIME:763117,770207}I've checked up a bit on that loan company\Nand it seems to be a little shady.
+Dialogue: 0,0:12:50.91,0:12:53.41,saint tail default,,0,0,0,,{TIME:770916,773419}Meimi, be very careful.
+Dialogue: 0,0:12:53.79,0:12:58.63,saint tail default,,0,0,0,,{TIME:773794,778632}Don't worry. I'll be back\Nwith Michiru's box of memories.
+Dialogue: 0,0:13:01.05,0:13:04.63,saint tail default,,0,0,0,,{TIME:781051,784638}May the blessings of God be with us.
+Dialogue: 0,0:13:06.18,0:13:07.64,saint tail default,,0,0,0,,{TIME:786181,787641}{\i1}Please let me get there in time!
+Dialogue: 0,0:13:14.02,0:13:16.44,saint tail default,,0,0,0,,{TIME:794023,796442}Well? There's nothing here, is there?
+Dialogue: 0,0:13:29.03,0:13:34.12,saint tail default,,0,0,0,,{TIME:809038,814126}Now, are you satisfied?\NSt. Tail has probably made a mistake.
+Dialogue: 0,0:13:34.12,0:13:38.29,saint tail default,,0,0,0,,{TIME:814126,818297}I'll be keeping you to your promise\Nand start clearing the lot.
+Dialogue: 0,0:13:38.92,0:13:41.00,saint tail default,,0,0,0,,{TIME:818922,821008}I haven't said it's not here yet!
+Dialogue: 0,0:13:41.59,0:13:45.59,saint tail default,,0,0,0,,{TIME:821592,825596}A promise is a promise.\NI won't stand for this any longer.
+Dialogue: 0,0:13:45.59,0:13:48.22,saint tail default,,0,0,0,,{TIME:825596,828223}The work is going to be started.
+Dialogue: 0,0:13:49.47,0:13:50.89,saint tail default,,0,0,0,,{TIME:829475,830893}Even if I stay?
+Dialogue: 0,0:13:50.89,0:13:53.60,saint tail default,,0,0,0,,{TIME:830893,833604}You should be careful\Nof the chandelier.
+Dialogue: 0,0:13:53.60,0:13:57.19,saint tail default,,0,0,0,,{TIME:833604,837191}It'll probably come falling\Nwith the tremor.
+Dialogue: 0,0:14:02.73,0:14:04.61,saint tail default,,0,0,0,,{TIME:842738,844615}What a stubborn idiot!
+Dialogue: 0,0:14:10.24,0:14:12.70,saint tail default,,0,0,0,,{TIME:850245,852706}Stop it! Stop it right now!
+Dialogue: 0,0:14:13.83,0:14:14.95,saint tail default,,0,0,0,,{TIME:853832,854958}What a pesky brat!
+Dialogue: 0,0:14:17.66,0:14:19.29,saint tail default,,0,0,0,,{TIME:857669,859296}What do you think you're doing?
+Dialogue: 0,0:14:19.29,0:14:22.17,saint tail default,,0,0,0,,{TIME:859296,862174}It's St. Tail!
+Dialogue: 0,0:14:27.26,0:14:29.84,saint tail default,,0,0,0,,{TIME:867262,869848}Everyone! Get to your positions!
+Dialogue: 0,0:14:39.44,0:14:41.77,saint tail default,,0,0,0,,{TIME:879441,881777}That's St. Tail!
+Dialogue: 0,0:14:41.77,0:14:45.53,saint tail default,,0,0,0,,{TIME:881777,885531}Knock her down with the bulldozer!\NNever mind! I'll do it myself!
+Dialogue: 0,0:14:47.99,0:14:49.41,saint tail default,,0,0,0,,{TIME:887991,889410}How terrible can he get?
+Dialogue: 0,0:14:55.20,0:14:56.79,saint tail default,,0,0,0,,{TIME:895207,896792}Stop it!
+Dialogue: 0,0:15:05.21,0:15:07.42,saint tail default,,0,0,0,,{TIME:905217,907428}Darn! Quit scampering around!
+Dialogue: 0,0:15:22.31,0:15:25.36,saint tail default,,0,0,0,,{TIME:922317,925362}After her!\NSt. Tail has entered the mansion!
+Dialogue: 0,0:15:31.32,0:15:33.28,saint tail default,,0,0,0,,{TIME:931326,933287}Darn it!
+Dialogue: 0,0:15:33.82,0:15:35.74,saint tail default,,0,0,0,,{TIME:933829,935747}Hold it!
+Dialogue: 0,0:15:47.30,0:15:51.26,saint tail default,,0,0,0,,{TIME:947301,951263}It can't be.\NI'm sure it was this room.
+Dialogue: 0,0:16:03.94,0:16:06.48,saint tail default,,0,0,0,,{TIME:963942,966487}St. Tail, you're in full view.
+Dialogue: 0,0:16:10.11,0:16:12.15,saint tail default,,0,0,0,,{TIME:970115,972159}Give yourself up, St. Tail!
+Dialogue: 0,0:16:12.15,0:16:15.45,saint tail default,,0,0,0,,{TIME:972159,975454}It's unforgivable to take\Nsomeone's memories!
+Dialogue: 0,0:16:25.63,0:16:28.96,saint tail default,,0,0,0,,{TIME:985631,988967}I've got you cornered, St. Tail!
+Dialogue: 0,0:16:28.96,0:16:30.92,saint tail default,,0,0,0,,{TIME:988967,990928}You! Come here!
+Dialogue: 0,0:16:36.30,0:16:39.31,saint tail default,,0,0,0,,{TIME:996308,999311}Wait a minute!\NWhat are you guys doing?
+Dialogue: 0,0:16:39.31,0:16:43.81,saint tail default,,0,0,0,,{TIME:999311,1003815}With all this weight,\Nthe chandelier is gonna fall!
+Dialogue: 0,0:16:47.90,0:16:49.23,saint tail default,,0,0,0,,{TIME:1007903,1009238}There!
+Dialogue: 0,0:17:01.54,0:17:03.00,saint tail default,,0,0,0,,{TIME:1021542,1023001}That's where it was?
+Dialogue: 0,0:17:04.79,0:17:07.46,saint tail default,,0,0,0,,{TIME:1024795,1027464}St. Tail, I'll have you\Nshow me your identity!
+Dialogue: 0,0:17:14.01,0:17:17.22,saint tail default,,0,0,0,,{TIME:1034012,1037224}That idiot! At a time like this!
+Dialogue: 0,0:17:17.22,0:17:18.39,saint tail default,,0,0,0,,{TIME:1037224,1038392}Unforgivable!
+Dialogue: 0,0:17:22.31,0:17:27.73,saint tail default,,0,0,0,,{TIME:1042312,1047734}If I get rid of this mansion,\Nthere's nothing St. Tail can do!
+Dialogue: 0,0:17:32.61,0:17:34.19,saint tail default,,0,0,0,,{TIME:1052614,1054199}What?
+Dialogue: 0,0:17:36.36,0:17:38.95,saint tail default,,0,0,0,,{TIME:1056368,1058954}I won't let you destroy any more!
+Dialogue: 0,0:17:43.95,0:17:45.12,saint tail default,,0,0,0,,{TIME:1063959,1065127}It's…
+Dialogue: 0,0:17:46.33,0:17:49.13,saint tail default,,0,0,0,,{TIME:1066336,1069131}Show…
+Dialogue: 0,0:17:51.09,0:17:53.13,saint tail default,,0,0,0,,{TIME:1071091,1073135}Time!
+Dialogue: 0,0:17:54.34,0:17:56.05,saint tail default,,0,0,0,,{TIME:1074344,1076054}You pesky worm!
+Dialogue: 0,0:18:11.19,0:18:16.45,saint tail default,,0,0,0,,{TIME:1091194,1096450}Exactly what I was worried about.\NHe's getting licked! Darn!
+Dialogue: 0,0:18:21.95,0:18:26.16,saint tail default,,0,0,0,,{TIME:1101955,1106168}Goodbye. And I've got\Nthe jewelry box of memories.
+Dialogue: 0,0:18:27.04,0:18:28.17,saint tail default,,0,0,0,,{TIME:1107044,1108170}Memories?
+Dialogue: 0,0:18:28.58,0:18:32.17,saint tail default,,0,0,0,,{TIME:1108587,1112174}What do you mean,\Nmemories, St. Tail?
+Dialogue: 0,0:18:32.17,0:18:36.72,saint tail default,,0,0,0,,{TIME:1112174,1116720}Hey, what are you doing here?\NHold it right there!
+Dialogue: 0,0:18:42.97,0:18:45.64,saint tail default,,0,0,0,,{TIME:1122976,1125646}And where are you going?
+Dialogue: 0,0:18:45.64,0:18:46.39,saint tail default,,0,0,0,,{TIME:1125646,1126396}Well…
+Dialogue: 0,0:18:49.52,0:18:50.94,saint tail default,,0,0,0,,{TIME:1129524,1130942}Hey, son!
+Dialogue: 0,0:18:50.94,0:18:52.40,saint tail default,,0,0,0,,{TIME:1130942,1132402}Dad?
+Dialogue: 0,0:18:52.40,0:18:56.11,saint tail default,,0,0,0,,{TIME:1132402,1136114}I had business with these two.\NNegoro and Momochi.
+Dialogue: 0,0:18:56.11,0:18:58.36,saint tail default,,0,0,0,,{TIME:1136114,1138367}You're under arrest for fraud.
+Dialogue: 0,0:18:58.36,0:18:59.36,saint tail default,,0,0,0,,{TIME:1138367,1139368}Fraud?
+Dialogue: 0,0:18:59.36,0:19:02.82,saint tail default,,0,0,0,,{TIME:1139368,1142829}These two are convicted criminals.
+Dialogue: 0,0:19:02.82,0:19:08.79,saint tail default,,0,0,0,,{TIME:1142829,1148794}We already know that you two teamed up\Nto swindle this mansion from Mr. Misaki.
+Dialogue: 0,0:19:08.79,0:19:10.04,saint tail default,,0,0,0,,{TIME:1148794,1150045}Give up!
+Dialogue: 0,0:19:10.04,0:19:11.08,saint tail default,,0,0,0,,{TIME:1150045,1151088}Darn it!
+Dialogue: 0,0:19:22.76,0:19:24.76,saint tail default,,0,0,0,,{TIME:1162766,1164768}Mother, here, some water.
+Dialogue: 0,0:19:25.51,0:19:27.22,saint tail default,,0,0,0,,{TIME:1165519,1167229}Thank you.
+Dialogue: 0,0:19:37.94,0:19:39.15,saint tail default,,0,0,0,,{TIME:1177948,1179157}I'm home!
+Dialogue: 0,0:19:39.15,0:19:45.53,saint tail default,,0,0,0,,{TIME:1179157,1185539}Father, my treasure box has come back!\NMy precious memories are back!
+Dialogue: 0,0:19:51.12,0:19:55.04,saint tail default,,0,0,0,,{TIME:1191128,1195048}I'm glad! Then Michiru's able\Nto return to that house.
+Dialogue: 0,0:19:55.54,0:19:59.51,saint tail default,,0,0,0,,{TIME:1195549,1199511}Yes. It's only natural because\Nthose two have been caught.
+Dialogue: 0,0:19:59.51,0:20:02.01,saint tail default,,0,0,0,,{TIME:1199511,1202013}But the house has\Nbeen damaged so much.
+Dialogue: 0,0:20:02.63,0:20:06.47,saint tail default,,0,0,0,,{TIME:1202639,1206476}Don't worry.\NThe memories haven't been damaged!
+Dialogue: 0,0:20:20.07,0:20:21.74,saint tail default,,0,0,0,,{TIME:1220073,1221742}What is it?
+Dialogue: 0,0:20:21.74,0:20:25.20,saint tail default,,0,0,0,,{TIME:1221742,1225203}I've heard that you've made\Na few more memories.
+Dialogue: 0,0:20:25.20,0:20:29.91,saint tail default,,0,0,0,,{TIME:1225203,1229916}Memories! Quit bugging me about them!\NYou act just like someone I know.
+Dialogue: 0,0:20:30.79,0:20:32.16,saint tail default,,0,0,0,,{TIME:1230792,1232169}Someone you know?
+Dialogue: 0,0:20:32.58,0:20:37.13,saint tail default,,0,0,0,,{TIME:1232586,1237132}Well, who was it?
+Dialogue: 0,0:20:38.09,0:20:42.09,saint tail default,,0,0,0,,{TIME:1238091,1242095}Oh, forget it!\NIt's none of your concern!
 Comment: 0,0:20:53.27,0:20:53.27,[chapter],[chapter],0,0,0,,{TIME:1253273,1253273}Ending
 Dialogue: 0,0:20:54.23,0:21:00.69,saint tail ed jp,[karaoke],0,0,0,,{TIME:1254232,1260697}{\blur1}kisu wo shitemoraeru mae no{NOTE:キスをしてもらえるまえの}
 Dialogue: 0,0:21:01.69,0:21:07.07,saint tail ed jp,[karaoke],0,0,0,,{TIME:1261698,1267078}{\blur1}namida no wake wo{NOTE:涙のわけを}
@@ -296,3 +300,12 @@ Dialogue: 0,0:21:52.08,0:21:58.92,saint tail ed en,[karaoke],0,0,0,,{TIME:131208
 Dialogue: 0,0:21:59.29,0:22:04.84,saint tail ed en,[karaoke],0,0,0,,{TIME:1319297,1324845}I'd be devastated if you did.
 Dialogue: 0,0:22:05.97,0:22:14.10,saint tail ed en,[karaoke],0,0,0,,{TIME:1325971,1334104}Will my prayer be answered?
 Comment: 0,0:22:28.61,0:22:28.61,[chapter],[chapter],0,0,0,,{TIME:1348618,1348618}Preview
+Dialogue: 0,0:22:28.61,0:22:31.62,saint tail sign,(sign),0,0,0,,{TIME:1348618,1351621}Next episode
+Dialogue: 0,0:22:30.03,0:22:34.62,saint tail default,,0,0,0,,{TIME:1350036,1354624}The Seika City police team assembled\Na special team to arrest St. Tail.{NOTE:セイント・テール逮捕のため、聖華市警察が専門チームを作ったの}
+Dialogue: 0,0:22:34.62,0:22:38.37,saint tail default,,0,0,0,,{TIME:1354624,1358378}A woman detective was sent\Nto stand as its central figure.{NOTE:そこへ、秘密兵器の女刑事が送り込まれたんだって}
+Dialogue: 0,0:22:38.37,0:22:44.55,saint tail default,,0,0,0,,{TIME:1358378,1364551}At the same time, Mr. Asakura's stone statue\Nnamed Angel's Smile was taken away.{NOTE:そんな時、浅倉さんが天使の微笑みという名の石像を騙し取られたって言ってきたの}
+Dialogue: 0,0:22:44.55,0:22:48.01,saint tail default,,0,0,0,,{TIME:1364551,1368013}His bedridden wife would like\Nto see it one more time.{NOTE:彼の病気の奥さんがせめてもう一度見たいんだって}
+Dialogue: 0,0:22:48.01,0:22:50.22,saint tail default,,0,0,0,,{TIME:1368013,1370223}I have to get it back!{NOTE:早く取り返してあげなくっちゃ}
+Dialogue: 0,0:22:50.22,0:22:52.22,saint tail default,,0,0,0,,{TIME:1370223,1372225}Next time on Saint Tail:{NOTE:次回、怪盗セイント・テール}
+Dialogue: 0,0:22:52.22,0:22:55.27,saint tail default,,0,0,0,,{TIME:1372225,1375270}"A Strong Foe!\NConfronting an Elite Detective".{NOTE:『強敵!エリート女刑事と対決』}
+Dialogue: 0,0:22:55.27,0:22:58.23,saint tail default,,0,0,0,,{TIME:1375270,1378231}May the blessings\Nof God be with you.{NOTE:みなさんに、神のご加護がありますように}
