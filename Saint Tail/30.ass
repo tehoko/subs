@@ -5,7 +5,7 @@ ScriptType: v4.00+
 PlayResX: 1440
 PlayResY: 1080
 YCbCr Matrix: TV.601
-WrapStyle: 1
+WrapStyle: 2
 ScaledBorderAndShadow: yes
 Title: Saint Tail - 30
 Audio File: source/30.mkv
@@ -58,307 +58,266 @@ Dialogue: 0,0:01:15.09,0:01:18.60,saint tail op en,[karaoke],0,0,0,,{TIME:75096,
 Dialogue: 0,0:01:18.60,0:01:24.89,saint tail op en,[karaoke],0,0,0,,{TIME:78600,84897}and build myself again.
 Comment: 0,0:01:35.11,0:01:35.11,[chapter],[chapter],0,0,0,,{TIME:95116,95116}Part A
 Dialogue: 0,0:01:42.04,0:01:43.16,saint tail default,,0,0,0,,{TIME:102040,103166}Wait a minute!
-Dialogue: 0,0:01:45.12,0:01:47.21,saint tail default,,0,0,0,,{TIME:105126,107211}Hey, Ruby! Wait!
-Dialogue: 0,0:01:48.88,0:01:49.88,saint tail default,,0,0,0,,{TIME:108880,109881}Listen…!
-Dialogue: 0,0:01:50.00,0:01:52.17,saint tail default,,0,0,0,,{TIME:110006,112175}Meimi! Look this way!
-Dialogue: 0,0:01:59.59,0:02:00.60,saint tail default,,0,0,0,,{TIME:119599,120600}Hello!
-Dialogue: 0,0:02:02.31,0:02:06.89,saint tail default,,0,0,0,,{TIME:122310,126898}HER TRUE CHARACTER REVEALED!\NMEIMI'S CRITICAL MOMENT
+Dialogue: 0,0:01:45.00,0:01:47.21,saint tail default,,0,0,0,,{TIME:105001,107211}Hey, Ruby! Wait!
+Dialogue: 0,0:01:48.67,0:01:49.92,saint tail default,,0,0,0,,{TIME:108671,109922}Listen…
+Dialogue: 0,0:01:49.92,0:01:52.84,saint tail default,,0,0,0,,{TIME:109922,112842}Meimi! Look this way!
+Dialogue: 0,0:01:59.51,0:02:00.85,saint tail default,,0,0,0,,{TIME:119515,120850}Hello!
+Dialogue: 0,0:02:03.18,0:02:06.85,saint tail default,[title],0,0,0,,{TIME:123186,126856}Her True Character Revealed!\NMeimi's Critical Moment.
 Dialogue: 0,0:02:10.48,0:02:12.61,saint tail default,,0,0,0,,{TIME:130485,132612}Sawatari. What are you doing?
-Dialogue: 0,0:02:13.15,0:02:16.11,saint tail default,,0,0,0,,{TIME:133154,136115}Sorry about the last contest.
-Dialogue: 0,0:02:16.57,0:02:20.62,saint tail default,,0,0,0,,{TIME:136574,140620}I want to start taking\Nphotos now for the next contest.
-Dialogue: 0,0:02:21.37,0:02:23.24,saint tail default,,0,0,0,,{TIME:141371,143247}You're beautiful\Nin your school uniform…
-Dialogue: 0,0:02:23.79,0:02:26.70,saint tail default,,0,0,0,,{TIME:143790,146709}…but you're also beautiful\Nwhen you're playing at home.
-Dialogue: 0,0:02:26.83,0:02:27.79,saint tail default,,0,0,0,,{TIME:146834,147794}You're so bad!
-Dialogue: 0,0:02:28.92,0:02:29.87,saint tail default,,0,0,0,,{TIME:148920,149879}Senorita!
-Dialogue: 0,0:02:32.21,0:02:35.63,saint tail default,,0,0,0,,{TIME:152215,155635}I'm leaving now.\NSee you tomorrow!
-Dialogue: 0,0:02:50.06,0:02:53.40,saint tail default,,0,0,0,,{TIME:170066,173403}May I have a second of your time?
-Dialogue: 0,0:02:54.44,0:02:56.57,saint tail default,,0,0,0,,{TIME:174445,176572}Neverland Toy Shop?
-Dialogue: 0,0:02:57.57,0:03:00.70,saint tail default,,0,0,0,,{TIME:177573,180702}Oh, it's the big toy store\Nthat just opened…
-Dialogue: 0,0:03:01.20,0:03:03.12,saint tail default,,0,0,0,,{TIME:181202,183121}…on Second Avenue.
-Dialogue: 0,0:03:03.95,0:03:06.49,saint tail default,,0,0,0,,{TIME:183955,186499}Did you know\Nthat there used to be…
-Dialogue: 0,0:03:06.58,0:03:08.54,saint tail default,,0,0,0,,{TIME:186582,188543}…a small toy store there, Sister?
-Dialogue: 0,0:03:09.41,0:03:10.50,saint tail default,,0,0,0,,{TIME:189419,190503}Now I remember…
-Dialogue: 0,0:03:12.50,0:03:15.46,saint tail default,,0,0,0,,{TIME:192505,195466}…there was a very big tree there…
-Dialogue: 0,0:03:15.80,0:03:16.75,saint tail default,,0,0,0,,{TIME:195800,196759}Yes…
-Dialogue: 0,0:03:17.71,0:03:22.26,saint tail default,,0,0,0,,{TIME:197719,202265}Until a year ago\Nthat was my father's store.
-Dialogue: 0,0:03:23.85,0:03:26.97,saint tail default,,0,0,0,,{TIME:203850,206978}But it was taken over.
-Dialogue: 0,0:03:27.56,0:03:29.85,saint tail default,,0,0,0,,{TIME:207562,209856}We had to let the store go.
-Dialogue: 0,0:03:38.36,0:03:41.61,saint tail default,,0,0,0,,{TIME:218364,221617}And you came here for help…?
-Dialogue: 0,0:03:43.66,0:03:46.28,saint tail default,,0,0,0,,{TIME:223661,226289}No, I'm all right with the store now.
-Dialogue: 0,0:03:46.95,0:03:49.62,saint tail default,,0,0,0,,{TIME:226956,229625}But I need your help with the tree…
-Dialogue: 0,0:03:49.75,0:03:50.96,saint tail default,,0,0,0,,{TIME:229751,230960}…in front of our old store.
-Dialogue: 0,0:03:51.54,0:03:55.25,saint tail default,,0,0,0,,{TIME:231544,235256}The tree is still there\Nas the new store's display.
-Dialogue: 0,0:03:57.25,0:03:58.59,saint tail default,,0,0,0,,{TIME:237258,238593}Recently I remembered…
-Dialogue: 0,0:03:59.42,0:04:01.92,saint tail default,,0,0,0,,{TIME:239427,241929}…that I left my music box in the tree.
-Dialogue: 0,0:04:02.43,0:04:03.93,saint tail default,,0,0,0,,{TIME:242430,243931}I thought that I had lost it.
-Dialogue: 0,0:04:04.51,0:04:06.55,saint tail default,,0,0,0,,{TIME:244515,246559}Why did you leave it\Nin such a high place?
-Dialogue: 0,0:04:08.31,0:04:11.27,saint tail default,,0,0,0,,{TIME:248311,251272}When I was a child,\NI often climbed the tree.
-Dialogue: 0,0:04:13.06,0:04:14.40,saint tail default,,0,0,0,,{TIME:253065,254400}Recently I was going through…
-Dialogue: 0,0:04:14.52,0:04:16.02,saint tail default,,0,0,0,,{TIME:254525,256027}…my grandfather's belongings.
-Dialogue: 0,0:04:16.23,0:04:17.36,saint tail default,,0,0,0,,{TIME:256235,257361}Then I suddenly…
-Dialogue: 0,0:04:17.57,0:04:19.19,saint tail default,,0,0,0,,{TIME:257570,259197}…remembered my music box.
-Dialogue: 0,0:04:19.78,0:04:21.65,saint tail default,,0,0,0,,{TIME:259781,261657}It must be in the hole in the tree.
-Dialogue: 0,0:04:23.20,0:04:24.74,saint tail default,,0,0,0,,{TIME:263201,264744}It's very important to you, isn't it?
-Dialogue: 0,0:04:24.99,0:04:28.28,saint tail default,,0,0,0,,{TIME:264994,268289}Yes. My grandfather gave it to me.
-Dialogue: 0,0:04:29.62,0:04:30.62,saint tail default,,0,0,0,,{TIME:269624,270625}It's a souvenir…
-Dialogue: 0,0:04:30.75,0:04:33.08,saint tail default,,0,0,0,,{TIME:270750,273085}…from my grandfather's\Ntrip to Switzerland…
-Dialogue: 0,0:04:33.33,0:04:34.83,saint tail default,,0,0,0,,{TIME:273336,274837}…when he was young.
-Dialogue: 0,0:04:48.22,0:04:51.77,saint tail default,,0,0,0,,{TIME:288226,291771}Since that time, he was\Ninterested in music boxes…
-Dialogue: 0,0:04:53.43,0:04:55.48,saint tail default,,0,0,0,,{TIME:293439,295483}Immediately after coming back…
-Dialogue: 0,0:04:55.81,0:04:57.52,saint tail default,,0,0,0,,{TIME:295817,297527}…he opened his toy store.
-Dialogue: 0,0:04:59.32,0:05:00.32,saint tail default,,0,0,0,,{TIME:299320,300321}At the time…
-Dialogue: 0,0:05:00.44,0:05:03.86,saint tail default,,0,0,0,,{TIME:300446,303866}… I didn't know the story\Nbehind the music box.
-Dialogue: 0,0:05:04.90,0:05:09.03,saint tail default,,0,0,0,,{TIME:304909,309038}But that was my favorite\Nthing when I was child.
-Dialogue: 0,0:05:09.99,0:05:12.75,saint tail default,,0,0,0,,{TIME:309997,312750}I always had it with me,\Neven when playing or sleeping…
-Dialogue: 0,0:05:13.91,0:05:17.25,saint tail default,,0,0,0,,{TIME:313918,317255}But I misplaced it\Nwithout even realizing it.
-Dialogue: 0,0:05:18.96,0:05:22.80,saint tail default,,0,0,0,,{TIME:318965,322802}So she wants to get it back, right?
-Dialogue: 0,0:05:23.38,0:05:25.93,saint tail default,,0,0,0,,{TIME:323386,325930}She says it's a beautiful music box…
-Dialogue: 0,0:05:26.05,0:05:28.14,saint tail default,,0,0,0,,{TIME:326055,328140}…which plays the hymn,\N"Ye Fair Green Hills of Galilee."
-Dialogue: 0,0:05:28.34,0:05:32.10,saint tail default,,0,0,0,,{TIME:328349,332103}Naomi has asked\Nthe owner many times…
-Dialogue: 0,0:05:32.22,0:05:35.43,saint tail default,,0,0,0,,{TIME:332228,335439}…to return her music box…
-Dialogue: 0,0:05:37.27,0:05:38.98,saint tail default,,0,0,0,,{TIME:337275,338985}No, no.
-Dialogue: 0,0:05:39.61,0:05:42.82,saint tail default,,0,0,0,,{TIME:339610,342822}We just opened the store.\NWe can't take on extra stuff.
-Dialogue: 0,0:05:43.99,0:05:47.24,saint tail default,,0,0,0,,{TIME:343990,347243}To others,\Nit may just be a music box.
-Dialogue: 0,0:05:48.16,0:05:51.62,saint tail default,,0,0,0,,{TIME:348160,351622}But to me,\Nit's something very important.
-Dialogue: 0,0:05:53.12,0:05:54.08,saint tail default,,0,0,0,,{TIME:353124,354083}All right!
-Dialogue: 0,0:05:54.54,0:05:56.75,saint tail default,,0,0,0,,{TIME:354542,356752}This is a job\Nfor the Mysterious Thief St. Tail!
-Dialogue: 0,0:06:00.67,0:06:02.04,saint tail default,,0,0,0,,{TIME:360673,362049}Hey, Asuka!
-Dialogue: 0,0:06:02.55,0:06:03.59,saint tail default,,0,0,0,,{TIME:362550,363593}Hey!
-Dialogue: 0,0:06:03.88,0:06:04.88,saint tail default,,0,0,0,,{TIME:363885,364886}How's it going?
-Dialogue: 0,0:06:04.96,0:06:06.34,saint tail default,,0,0,0,,{TIME:364969,366345}– Hey, good morning!\N– Huh?
-Dialogue: 0,0:06:06.76,0:06:08.18,saint tail default,,0,0,0,,{TIME:366762,368180}You have something in your hood.
-Dialogue: 0,0:06:11.01,0:06:12.31,saint tail default,,0,0,0,,{TIME:371017,372310}This method is…?!
-Dialogue: 0,0:06:14.39,0:06:15.39,saint tail default,,0,0,0,,{TIME:374395,375396}"Tomorrow night…
-Dialogue: 0,0:06:15.47,0:06:17.06,saint tail default,,0,0,0,,{TIME:375479,377064}…I'm going to Neverland\Nto retrieve a music box…
-Dialogue: 0,0:06:17.18,0:06:19.98,saint tail default,,0,0,0,,{TIME:377189,379984}…which plays 'Ye Fair\NGreen Hills of Galilee.'"
-Dialogue: 0,0:06:20.61,0:06:21.73,saint tail default,,0,0,0,,{TIME:380610,381736}St. Tail?!
-Dialogue: 0,0:06:21.90,0:06:22.90,saint tail default,,0,0,0,,{TIME:381903,382904}A note of warning!
-Dialogue: 0,0:06:25.57,0:06:28.36,saint tail default,,0,0,0,,{TIME:385573,388367}As usual, you're caught off guard.
-Dialogue: 0,0:06:29.07,0:06:30.11,saint tail default,,0,0,0,,{TIME:389076,390119}Saruwatari…
-Dialogue: 0,0:06:30.66,0:06:32.78,saint tail default,,0,0,0,,{TIME:390661,392788}Are you challenging me\Nthis early in the morning?
-Dialogue: 0,0:06:34.45,0:06:36.54,saint tail default,,0,0,0,,{TIME:394457,396542}Oh, no!
-Dialogue: 0,0:06:38.08,0:06:41.13,saint tail default,,0,0,0,,{TIME:398085,401130}Don't touch that!\NIt's a special photo of Haneoka!
-Dialogue: 0,0:06:41.63,0:06:42.84,saint tail default,,0,0,0,,{TIME:401631,402840}What?!
-Dialogue: 0,0:06:48.97,0:06:50.76,saint tail default,,0,0,0,,{TIME:408971,410765}Oh, it's just a regular…
-Dialogue: 0,0:06:51.89,0:06:55.06,saint tail default,,0,0,0,,{TIME:411891,415061}Hey, Asuka Jr.!\NDon't touch it with your dirty hand!
-Dialogue: 0,0:06:55.60,0:06:57.56,saint tail default,,0,0,0,,{TIME:415603,417563}What's this thing with Meimi?
-Dialogue: 0,0:06:58.81,0:07:00.14,saint tail default,,0,0,0,,{TIME:418814,420149}I don't know.
-Dialogue: 0,0:07:00.69,0:07:01.85,saint tail default,,0,0,0,,{TIME:420691,421859}Unfortunately…
-Dialogue: 0,0:07:01.94,0:07:04.48,saint tail default,,0,0,0,,{TIME:421943,424487}…I only have eyes\Nfor the beautiful Haneoka.
-Dialogue: 0,0:07:06.53,0:07:09.28,saint tail default,,0,0,0,,{TIME:426530,429283}Are you even listening to me?! Hey!
-Dialogue: 0,0:07:12.66,0:07:14.78,saint tail default,,0,0,0,,{TIME:432662,434789}I've seen this before!
-Dialogue: 0,0:07:19.04,0:07:20.37,saint tail default,,0,0,0,,{TIME:439043,440378}If I remember correctly,\Nat that time…
-Dialogue: 0,0:07:21.50,0:07:23.50,saint tail default,,0,0,0,,{TIME:441504,443506}…it was with St. Tail.
-Dialogue: 0,0:07:26.25,0:07:27.25,saint tail default,,0,0,0,,{TIME:446258,447259}Meimi!
-Dialogue: 0,0:07:30.22,0:07:31.22,saint tail default,,0,0,0,,{TIME:450221,451222}What…?!
-Dialogue: 0,0:07:33.59,0:07:34.89,saint tail default,,0,0,0,,{TIME:453599,454892}What is it?!
-Dialogue: 0,0:07:40.56,0:07:41.52,saint tail default,,0,0,0,,{TIME:460564,461524}Ruby…!
-Dialogue: 0,0:07:46.57,0:07:47.53,saint tail default,,0,0,0,,{TIME:466570,467530}This is…
-Dialogue: 0,0:07:50.40,0:07:53.32,saint tail default,,0,0,0,,{TIME:470408,473327}Give it back, Asuka!\NI took that picture!
-Dialogue: 0,0:07:54.24,0:07:57.74,saint tail default,,0,0,0,,{TIME:474245,477748}Meimi! What is that next to you?
-Dialogue: 0,0:08:03.96,0:08:05.21,saint tail default,,0,0,0,,{TIME:483963,485214}What should I do?!
+Dialogue: 0,0:02:13.15,0:02:16.78,saint tail default,,0,0,0,,{TIME:133154,136783}Sorry about the last contest.
+Dialogue: 0,0:02:16.78,0:02:21.24,saint tail default,,0,0,0,,{TIME:136783,141245}I want to start taking\Nphotos now for the next contest.
+Dialogue: 0,0:02:21.24,0:02:23.70,saint tail default,,0,0,0,,{TIME:141245,143706}You're beautiful\Nin your school uniform,
+Dialogue: 0,0:02:23.70,0:02:27.00,saint tail default,,0,0,0,,{TIME:143706,147001}but you're also beautiful\Nwhen you're playing at home.
+Dialogue: 0,0:02:27.00,0:02:27.79,saint tail default,,0,0,0,,{TIME:147001,147794}You're so bad!
+Dialogue: 0,0:02:28.67,0:02:30.08,saint tail default,,0,0,0,,{TIME:148670,150088}Senorita!
+Dialogue: 0,0:02:32.34,0:02:35.63,saint tail default,,0,0,0,,{TIME:152340,155635}I'm leaving now.\NSee you tomorrow!
+Dialogue: 0,0:02:50.06,0:02:54.11,saint tail default,,0,0,0,,{TIME:170066,174112}May I have a second of your time?
+Dialogue: 0,0:02:54.48,0:02:57.11,saint tail default,,0,0,0,,{TIME:174487,177115}Neverland Toy Shop?
+Dialogue: 0,0:02:57.57,0:03:03.07,saint tail default,,0,0,0,,{TIME:177573,183079}Oh, it's the big toy store that\Njust opened on Second Avenue.
+Dialogue: 0,0:03:03.87,0:03:08.54,saint tail default,,0,0,0,,{TIME:183871,188543}Did you know that there used to be\Na small toy store there, Sister?
+Dialogue: 0,0:03:09.37,0:03:10.79,saint tail default,,0,0,0,,{TIME:189377,190795}Now I remember…
+Dialogue: 0,0:03:12.42,0:03:15.71,saint tail default,,0,0,0,,{TIME:192422,195717}There was a very big tree there.
+Dialogue: 0,0:03:15.71,0:03:17.00,saint tail default,,0,0,0,,{TIME:195717,197009}Yes.
+Dialogue: 0,0:03:17.84,0:03:22.26,saint tail default,,0,0,0,,{TIME:197844,202265}Until a year ago\Nthat was my father's store.
+Dialogue: 0,0:03:23.76,0:03:27.60,saint tail default,,0,0,0,,{TIME:203766,207603}But it was taken over.
+Dialogue: 0,0:03:27.60,0:03:29.93,saint tail default,,0,0,0,,{TIME:207603,209939}We had to let the store go.
+Dialogue: 0,0:03:38.40,0:03:41.61,saint tail default,,0,0,0,,{TIME:218406,221617}And you came here for help?
+Dialogue: 0,0:03:43.53,0:03:47.03,saint tail default,,0,0,0,,{TIME:223536,227039}No, I'm all right with the store now.
+Dialogue: 0,0:03:47.03,0:03:51.41,saint tail default,,0,0,0,,{TIME:227039,231419}But I need your help with the tree\Nin front of our old store.
+Dialogue: 0,0:03:51.41,0:03:55.38,saint tail default,,0,0,0,,{TIME:231419,235381}The tree is still there\Nas the new store's display.
+Dialogue: 0,0:03:57.13,0:04:02.26,saint tail default,,0,0,0,,{TIME:237133,242263}Recently I remembered that\NI left my music box in the tree.
+Dialogue: 0,0:04:02.26,0:04:04.39,saint tail default,,0,0,0,,{TIME:242263,244390}I thought that I had lost it.
+Dialogue: 0,0:04:04.39,0:04:07.26,saint tail default,,0,0,0,,{TIME:244390,247268}Why did you leave it\Nin such a high place?
+Dialogue: 0,0:04:08.22,0:04:11.27,saint tail default,,0,0,0,,{TIME:248227,251272}When I was a child,\NI often climbed the tree.
+Dialogue: 0,0:04:12.98,0:04:16.15,saint tail default,,0,0,0,,{TIME:252982,256152}Recently I was going through\Nmy grandfather's belongings.
+Dialogue: 0,0:04:16.15,0:04:19.86,saint tail default,,0,0,0,,{TIME:256152,259864}Then I suddenly\Nremembered my music box.
+Dialogue: 0,0:04:19.86,0:04:21.69,saint tail default,,0,0,0,,{TIME:259864,261699}It must be in the hole in the tree.
+Dialogue: 0,0:04:23.07,0:04:25.07,saint tail default,,0,0,0,,{TIME:263075,265077}It's very important to you, isn't it?
+Dialogue: 0,0:04:25.07,0:04:28.28,saint tail default,,0,0,0,,{TIME:265077,268289}Yes. My grandfather gave it to me.
+Dialogue: 0,0:04:29.49,0:04:34.83,saint tail default,,0,0,0,,{TIME:269499,274837}It's a souvenir from my grandfather's\Ntrip to Switzerland when he was young.
+Dialogue: 0,0:04:48.22,0:04:52.18,saint tail default,,0,0,0,,{TIME:288226,292188}Since that time, he was\Ninterested in music boxes.
+Dialogue: 0,0:04:53.31,0:04:57.52,saint tail default,,0,0,0,,{TIME:293314,297527}Immediately after coming back,\Nhe opened his toy store.
+Dialogue: 0,0:04:59.15,0:05:04.07,saint tail default,,0,0,0,,{TIME:299153,304075}At the time, I didn't know the story\Nbehind the music box.
+Dialogue: 0,0:05:04.86,0:05:09.08,saint tail default,,0,0,0,,{TIME:304867,309080}But that was my favorite\Nthing when I was child.
+Dialogue: 0,0:05:09.95,0:05:13.91,saint tail default,,0,0,0,,{TIME:309956,313918}I always had it with me,\Neven when playing or sleeping…
+Dialogue: 0,0:05:13.91,0:05:18.04,saint tail default,,0,0,0,,{TIME:313918,318047}But I misplaced it\Nwithout even realizing it.
+Dialogue: 0,0:05:18.79,0:05:23.21,saint tail default,,0,0,0,,{TIME:318798,323219}So she wants to get it back, right?
+Dialogue: 0,0:05:23.21,0:05:28.30,saint tail default,,0,0,0,,{TIME:323219,328307}She says it's a beautiful music box which plays\Nthe hymn, "Ye Fair Green Hills of Galilee".
+Dialogue: 0,0:05:28.30,0:05:35.85,saint tail default,,0,0,0,,{TIME:328307,335857}Naomi has asked the owner many times\Nto return her music box…
+Dialogue: 0,0:05:37.73,0:05:39.02,saint tail default,,0,0,0,,{TIME:337733,339026}No, no.
+Dialogue: 0,0:05:39.56,0:05:42.73,saint tail default,,0,0,0,,{TIME:339569,342738}We just opened the store.\NWe can't take on extra stuff.
+Dialogue: 0,0:05:43.99,0:05:48.03,saint tail default,,0,0,0,,{TIME:343990,348035}To others, it may be\Njust a music box.
+Dialogue: 0,0:05:48.03,0:05:51.70,saint tail default,,0,0,0,,{TIME:348035,351706}But to me it's something\Nvery important.
+Dialogue: 0,0:05:53.12,0:05:54.41,saint tail default,,0,0,0,,{TIME:353124,354417}All right!
+Dialogue: 0,0:05:54.41,0:05:56.71,saint tail default,,0,0,0,,{TIME:354417,356711}This is a job for\Nthe phantom thief St. Tail!
+Dialogue: 0,0:06:00.42,0:06:02.55,saint tail default,,0,0,0,,{TIME:360423,362550}Hey, Asuka!
+Dialogue: 0,0:06:02.55,0:06:03.71,saint tail default,,0,0,0,,{TIME:362550,363718}Hey!
+Dialogue: 0,0:06:03.71,0:06:04.88,saint tail default,,0,0,0,,{TIME:363718,364886}How's it going?
+Dialogue: 0,0:06:04.88,0:06:06.67,saint tail default,,0,0,0,,{TIME:364886,366679}– Hey, good morning!\N– Huh?
+Dialogue: 0,0:06:06.67,0:06:08.18,saint tail default,,0,0,0,,{TIME:366679,368180}You have something in your hood.
+Dialogue: 0,0:06:10.76,0:06:12.68,saint tail default,,0,0,0,,{TIME:370766,372685}This method is…
+Dialogue: 0,0:06:14.39,0:06:17.10,saint tail default,,0,0,0,,{TIME:374395,377106}"Tomorrow night,\NI'm going to Neverland
+Dialogue: 0,0:06:17.10,0:06:20.15,saint tail default,,0,0,0,,{TIME:377106,380151}to retrieve a music box which plays\N'Ye Fair Green Hills of Galilee'."
+Dialogue: 0,0:06:20.52,0:06:21.94,saint tail default,,0,0,0,,{TIME:380526,381944}St. Tail?!
+Dialogue: 0,0:06:21.94,0:06:22.98,saint tail default,,0,0,0,,{TIME:381944,382987}A note of warning!
+Dialogue: 0,0:06:25.40,0:06:28.36,saint tail default,,0,0,0,,{TIME:385406,388367}As usual, you're caught off guard.
+Dialogue: 0,0:06:29.07,0:06:30.07,saint tail default,,0,0,0,,{TIME:389076,390077}Saruwatari…
+Dialogue: 0,0:06:30.53,0:06:33.08,saint tail default,,0,0,0,,{TIME:390536,393080}Are you challenging me\Nthis early in the morning?
+Dialogue: 0,0:06:34.37,0:06:36.58,saint tail default,,0,0,0,,{TIME:394373,396584}Oh, no!
+Dialogue: 0,0:06:37.66,0:06:41.00,saint tail default,,0,0,0,,{TIME:397668,401005}Don't touch that!\NIt's a special photo of Meimi!
+Dialogue: 0,0:06:41.58,0:06:43.50,saint tail default,,0,0,0,,{TIME:401589,403507}What?!
+Dialogue: 0,0:06:48.88,0:06:50.76,saint tail default,,0,0,0,,{TIME:408888,410765}Oh, it's just a regular…
+Dialogue: 0,0:06:51.68,0:06:55.64,saint tail default,,0,0,0,,{TIME:411682,415645}Hey, Asuka Jr.!\NDon't touch it with your dirty hand!
+Dialogue: 0,0:06:55.64,0:06:57.48,saint tail default,,0,0,0,,{TIME:415645,417480}What's this thing with Haneoka?
+Dialogue: 0,0:06:58.64,0:07:00.56,saint tail default,,0,0,0,,{TIME:418648,420566}I don't know.
+Dialogue: 0,0:07:00.56,0:07:04.48,saint tail default,,0,0,0,,{TIME:420566,424487}Unfortunately, I only have eyes\Nfor the beautiful Meimi.
+Dialogue: 0,0:07:06.32,0:07:09.28,saint tail default,,0,0,0,,{TIME:426322,429283}Are you even listening to me?! Hey!
+Dialogue: 0,0:07:12.78,0:07:14.78,saint tail default,,0,0,0,,{TIME:432787,434789}{\i1}I've seen this before!
+Dialogue: 0,0:07:19.21,0:07:21.50,saint tail default,,0,0,0,,{TIME:439210,441504}{\i1}If I remember correctly,\NI saw it at that time…
+Dialogue: 0,0:07:21.50,0:07:23.50,saint tail default,,0,0,0,,{TIME:441504,443506}{\i1}It was with St. Tail.
+Dialogue: 0,0:07:26.25,0:07:27.25,saint tail default,,0,0,0,,{TIME:446258,447259}Haneoka!
+Dialogue: 0,0:07:30.26,0:07:31.76,saint tail default,,0,0,0,,{TIME:450262,451764}What…
+Dialogue: 0,0:07:33.47,0:07:34.89,saint tail default,,0,0,0,,{TIME:453474,454892}What is it?!
+Dialogue: 0,0:07:40.48,0:07:41.52,saint tail default,,0,0,0,,{TIME:460481,461524}{\i1}Ruby!
+Dialogue: 0,0:07:46.36,0:07:47.53,saint tail default,,0,0,0,,{TIME:466362,467530}This is…
+Dialogue: 0,0:07:50.32,0:07:53.66,saint tail default,,0,0,0,,{TIME:470324,473661}Give it back, Asuka!\NI took that picture!
+Dialogue: 0,0:07:54.16,0:07:57.66,saint tail default,,0,0,0,,{TIME:474161,477665}Haneoka!\NWhat is that next to you?
+Dialogue: 0,0:08:03.96,0:08:05.63,saint tail default,,0,0,0,,{TIME:483963,485631}{\i1}What should I tell him?!
 Dialogue: 0,0:08:06.00,0:08:07.50,saint tail default,,0,0,0,,{TIME:486007,487508}That's a…
-Dialogue: 0,0:08:09.09,0:08:10.88,saint tail default,,0,0,0,,{TIME:489093,490886}That's a stuffed animal.
-Dialogue: 0,0:08:11.47,0:08:12.43,saint tail default,,0,0,0,,{TIME:491470,492430}Seira…
-Dialogue: 0,0:08:14.39,0:08:16.01,saint tail default,,0,0,0,,{TIME:494390,496017}What do you want to do…
-Dialogue: 0,0:08:16.18,0:08:18.18,saint tail default,,0,0,0,,{TIME:496183,498185}…with the stuffed\Nporcupine, Asuka Jr.?
-Dialogue: 0,0:08:18.56,0:08:19.81,saint tail default,,0,0,0,,{TIME:498561,499812}It's a stuffed animal?
-Dialogue: 0,0:08:20.22,0:08:21.68,saint tail default,,0,0,0,,{TIME:500229,501689}Yeah, that's right!
-Dialogue: 0,0:08:21.81,0:08:22.89,saint tail default,,0,0,0,,{TIME:501814,502898}I know I have to grow…
-Dialogue: 0,0:08:22.98,0:08:24.44,saint tail default,,0,0,0,,{TIME:502982,504442}…out of collecting\Nstuffed animals but…
-Dialogue: 0,0:08:24.81,0:08:27.27,saint tail default,,0,0,0,,{TIME:504817,507278}You're in trouble, Meimi.
-Dialogue: 0,0:08:27.44,0:08:28.61,saint tail default,,0,0,0,,{TIME:507445,508612}Let's go.
-Dialogue: 0,0:08:28.94,0:08:30.61,saint tail default,,0,0,0,,{TIME:508946,510614}Wait! Meimi!
-Dialogue: 0,0:08:30.69,0:08:32.03,saint tail default,,0,0,0,,{TIME:510698,512033}Stop it!
-Dialogue: 0,0:08:36.12,0:08:37.70,saint tail default,,0,0,0,,{TIME:516120,517705}If you're too pushy, she'll hate you.
-Dialogue: 0,0:08:38.83,0:08:40.37,saint tail default,,0,0,0,,{TIME:518831,520374}How can you say that…?
-Dialogue: 0,0:08:44.42,0:08:46.67,saint tail default,,0,0,0,,{TIME:524420,526672}Thank you, Seira.\NYou saved me in there.
-Dialogue: 0,0:08:46.92,0:08:49.84,saint tail default,,0,0,0,,{TIME:526922,529842}Anyway, now is\Nthe time to be careful.
-Dialogue: 0,0:08:51.30,0:08:53.09,saint tail default,,0,0,0,,{TIME:531302,533095}In school, let's maintain…
-Dialogue: 0,0:08:53.22,0:08:54.80,saint tail default,,0,0,0,,{TIME:533220,534805}…that Ruby is a stuffed animal.
-Dialogue: 0,0:08:55.01,0:08:56.01,saint tail default,,0,0,0,,{TIME:535014,536015}Yeah.
-Dialogue: 0,0:08:56.09,0:08:58.80,saint tail default,,0,0,0,,{TIME:536098,538809}And Asuka Jr. is still\Nhaving doubts about you.
-Dialogue: 0,0:08:59.01,0:09:00.93,saint tail default,,0,0,0,,{TIME:539018,540936}Don't let him provoke you.
-Dialogue: 0,0:09:01.97,0:09:03.39,saint tail default,,0,0,0,,{TIME:541979,543397}I know that!
-Dialogue: 0,0:09:03.81,0:09:06.69,saint tail default,,0,0,0,,{TIME:543814,546692}Mice is the plural form of mouse.
-Dialogue: 0,0:09:07.40,0:09:09.19,saint tail default,,0,0,0,,{TIME:547401,549195}Now I'll read…
-Dialogue: 0,0:09:09.32,0:09:11.03,saint tail default,,0,0,0,,{TIME:549320,551030}…from Aesop's Fables…
-Dialogue: 0,0:09:11.11,0:09:13.28,saint tail default,,0,0,0,,{TIME:551113,553282}…"The Town Mouse\Nand the Country Mouse."
-Dialogue: 0,0:09:13.44,0:09:16.91,saint tail default,,0,0,0,,{TIME:553449,556911}– PIease listen to me carefully.\N– Meimi, I have a favor to ask!
-Dialogue: 0,0:09:17.16,0:09:18.82,saint tail default,,0,0,0,,{TIME:557161,558829}I'm going to buy\Nconcert tickets this afternoon.
-Dialogue: 0,0:09:19.08,0:09:20.58,saint tail default,,0,0,0,,{TIME:559080,560581}Can you come with me?
-Dialogue: 0,0:09:22.24,0:09:23.20,saint tail default,,0,0,0,,{TIME:562249,563209}Meimi.
-Dialogue: 0,0:09:24.46,0:09:27.42,saint tail default,,0,0,0,,{TIME:564460,567421}Could you be…?
-Dialogue: 0,0:09:39.64,0:09:41.76,saint tail default,,0,0,0,,{TIME:579642,581769}I don't know why\Nthis bothers you so much…
-Dialogue: 0,0:09:42.22,0:09:44.23,saint tail default,,0,0,0,,{TIME:582228,584230}…but do you want me to find out…
-Dialogue: 0,0:09:44.52,0:09:46.27,saint tail default,,0,0,0,,{TIME:584522,586273}…if this is a real stuffed animal?
-Dialogue: 0,0:09:48.02,0:09:49.48,saint tail default,,0,0,0,,{TIME:588025,589485}Sawatari, you…
-Dialogue: 0,0:09:50.06,0:09:51.77,saint tail default,,0,0,0,,{TIME:590069,591779}…are nicer than I thought.
-Dialogue: 0,0:09:52.82,0:09:55.32,saint tail default,,0,0,0,,{TIME:592822,595324}Of course! We're classmates!
-Dialogue: 0,0:09:56.70,0:09:57.82,saint tail default,,0,0,0,,{TIME:596700,597827}Haneoka!
-Dialogue: 0,0:09:58.16,0:09:59.41,saint tail default,,0,0,0,,{TIME:598160,599411}For that reason…
-Dialogue: 0,0:09:59.53,0:10:00.83,saint tail default,,0,0,0,,{TIME:599537,600830}…please go out on a date with me!
-Dialogue: 0,0:10:00.95,0:10:01.91,saint tail default,,0,0,0,,{TIME:600955,601914}Wait a minute!
-Dialogue: 0,0:10:02.66,0:10:04.08,saint tail default,,0,0,0,,{TIME:602665,604083}For what reason?!
-Dialogue: 0,0:10:04.83,0:10:08.25,saint tail default,,0,0,0,,{TIME:604834,608254}I want to take\Nanother picture of you…
-Dialogue: 0,0:10:08.37,0:10:10.25,saint tail default,,0,0,0,,{TIME:608379,610256}…with the stuffed animal.
-Dialogue: 0,0:10:10.50,0:10:11.54,saint tail default,,0,0,0,,{TIME:610506,611549}May I?!
-Dialogue: 0,0:10:13.55,0:10:15.13,saint tail default,,0,0,0,,{TIME:613551,615136}Uh, I'm sorry, but…
-Dialogue: 0,0:10:15.88,0:10:18.05,saint tail default,,0,0,0,,{TIME:615886,618055}Well, how about\Nafter school tomorrow? All right?
-Dialogue: 0,0:10:21.10,0:10:22.47,saint tail default,,0,0,0,,{TIME:621100,622476}Asuka!
-Dialogue: 0,0:10:23.60,0:10:26.56,saint tail default,,0,0,0,,{TIME:623602,626564}Which would you like,\Nrice balls or sandwiches?
-Dialogue: 0,0:10:26.68,0:10:28.98,saint tail default,,0,0,0,,{TIME:626689,628983}In the middle of this mess,\Nyou're talking about food?
-Dialogue: 0,0:10:29.19,0:10:30.31,saint tail default,,0,0,0,,{TIME:629191,630317}What's the matter?
-Dialogue: 0,0:10:30.48,0:10:31.48,saint tail default,,0,0,0,,{TIME:630484,631485}Of course I'm talking…
-Dialogue: 0,0:10:31.61,0:10:32.65,saint tail default,,0,0,0,,{TIME:631610,632653}…about the snack\Nfor tomorrow night.
-Dialogue: 0,0:10:32.77,0:10:33.73,saint tail default,,0,0,0,,{TIME:632778,633737}You'll get hungry…
-Dialogue: 0,0:10:33.86,0:10:35.03,saint tail default,,0,0,0,,{TIME:633863,635030}…during tomorrow\Nnight's surveillance.
-Dialogue: 0,0:10:36.15,0:10:37.90,saint tail default,,0,0,0,,{TIME:636157,637908}Which one would you like?!
-Dialogue: 0,0:10:38.82,0:10:40.99,saint tail default,,0,0,0,,{TIME:638826,640995}Neither! Give me some space!
-Dialogue: 0,0:10:49.17,0:10:51.25,saint tail default,,0,0,0,,{TIME:649170,651255}– Sawatari!\N– Yes!
-Dialogue: 0,0:10:52.00,0:10:54.80,saint tail default,,0,0,0,,{TIME:652006,654800}I'll go on the date after school!
-Dialogue: 0,0:10:55.13,0:10:56.63,saint tail default,,0,0,0,,{TIME:655134,656635}Me-Meimi…
-Dialogue: 0,0:10:56.71,0:10:58.34,saint tail default,,0,0,0,,{TIME:656719,658345}What?! It's my lucky day!
-Dialogue: 0,0:10:58.92,0:10:59.93,saint tail default,,0,0,0,,{TIME:658929,659930}What?!
-Dialogue: 0,0:11:05.64,0:11:06.89,saint tail default,,0,0,0,,{TIME:665644,666896}Oh, Lord…
+Dialogue: 0,0:08:08.42,0:08:11.42,saint tail default,,0,0,0,,{TIME:488426,491429}That's a stuffed animal.
+Dialogue: 0,0:08:11.42,0:08:12.38,saint tail default,,0,0,0,,{TIME:491429,492388}Seira…
+Dialogue: 0,0:08:14.39,0:08:18.10,saint tail default,,0,0,0,,{TIME:494390,498102}What do you want to do\Nwith the stuffed porcupine, Asuka Jr.?
+Dialogue: 0,0:08:18.72,0:08:20.02,saint tail default,,0,0,0,,{TIME:498728,500021}It's a stuffed animal?
+Dialogue: 0,0:08:20.02,0:08:21.81,saint tail default,,0,0,0,,{TIME:500021,501814}Yeah, that's right!
+Dialogue: 0,0:08:21.81,0:08:24.56,saint tail default,,0,0,0,,{TIME:501814,504567}I know I have to grow out\Nof collecting stuffed animals, but…
+Dialogue: 0,0:08:25.15,0:08:27.31,saint tail default,,0,0,0,,{TIME:505151,507319}You're in trouble, Meimi.
+Dialogue: 0,0:08:27.31,0:08:28.61,saint tail default,,0,0,0,,{TIME:507319,508612}Let's go.
+Dialogue: 0,0:08:28.98,0:08:30.82,saint tail default,,0,0,0,,{TIME:508988,510823}Wait! Haneoka!
+Dialogue: 0,0:08:30.82,0:08:32.03,saint tail default,,0,0,0,,{TIME:510823,512033}Stop it!
+Dialogue: 0,0:08:36.03,0:08:37.45,saint tail default,,0,0,0,,{TIME:516037,517455}If you're too pushy, she'll hate you.
+Dialogue: 0,0:08:38.74,0:08:40.58,saint tail default,,0,0,0,,{TIME:518748,520583}How can you say that?
+Dialogue: 0,0:08:44.29,0:08:46.83,saint tail default,,0,0,0,,{TIME:524295,526839}Thank you, Seira.\NYou saved me in there.
+Dialogue: 0,0:08:46.83,0:08:50.09,saint tail default,,0,0,0,,{TIME:526839,530092}Anyway, now is\Nthe time to be careful.
+Dialogue: 0,0:08:51.17,0:08:55.01,saint tail default,,0,0,0,,{TIME:531177,535014}In school, let's maintain\Nthat Ruby is a stuffed animal.
+Dialogue: 0,0:08:55.01,0:08:55.93,saint tail default,,0,0,0,,{TIME:535014,535931}Yeah.
+Dialogue: 0,0:08:55.93,0:08:59.01,saint tail default,,0,0,0,,{TIME:535931,539018}And Asuka Jr. is still\Nhaving doubts about you.
+Dialogue: 0,0:08:59.01,0:09:01.06,saint tail default,,0,0,0,,{TIME:539018,541062}Don't let him provoke you.
+Dialogue: 0,0:09:01.85,0:09:03.64,saint tail default,,0,0,0,,{TIME:541854,543647}I know that!
+Dialogue: 0,0:09:03.64,0:09:06.56,saint tail default,,0,0,0,,{TIME:543647,546567}Mice is the plural form of mouse.
+Dialogue: 0,0:09:07.31,0:09:11.03,saint tail default,,0,0,0,,{TIME:547318,551030}Now I'll read an excerpt\Nfrom Aesop's Fables.
+Dialogue: 0,0:09:11.03,0:09:13.32,saint tail default,,0,0,0,,{TIME:551030,553324}"The Town Mouse\Nand the Country Mouse."
+Dialogue: 0,0:09:13.32,0:09:16.11,saint tail default,,0,0,0,,{TIME:553324,556118}– Please listen to me carefully.\N– Meimi, I have a favor to ask!
+Dialogue: 0,0:09:16.11,0:09:20.28,saint tail default,,0,0,0,,{TIME:556118,560289}I'm going to buy concert tickets\Nthis afternoon. Can you come with me?
+Dialogue: 0,0:09:21.99,0:09:23.20,saint tail default,,0,0,0,,{TIME:561999,563209}{\i1}Haneoka…
+Dialogue: 0,0:09:24.29,0:09:27.75,saint tail default,,0,0,0,,{TIME:564293,567755}{\i1}Could you be…
+Dialogue: 0,0:09:39.43,0:09:41.93,saint tail default,,0,0,0,,{TIME:579433,581936}I don't know why\Nthis bothers you so much,
+Dialogue: 0,0:09:41.93,0:09:46.23,saint tail default,,0,0,0,,{TIME:581936,586232}but do you want me to find out\Nif this is a real stuffed animal?
+Dialogue: 0,0:09:47.77,0:09:49.52,saint tail default,,0,0,0,,{TIME:587775,589527}Sawatari, you…
+Dialogue: 0,0:09:50.11,0:09:51.77,saint tail default,,0,0,0,,{TIME:590111,591779}…are nicer than I thought.
+Dialogue: 0,0:09:52.82,0:09:55.74,saint tail default,,0,0,0,,{TIME:592822,595741}Of course! We're classmates!
+Dialogue: 0,0:09:56.32,0:09:57.74,saint tail default,,0,0,0,,{TIME:596325,597743}Meimi!
+Dialogue: 0,0:09:58.07,0:10:00.95,saint tail default,,0,0,0,,{TIME:598077,600955}For that reason,\Nplease go out on a date with me!
+Dialogue: 0,0:10:00.95,0:10:02.49,saint tail default,,0,0,0,,{TIME:600955,602498}Wait a minute!
+Dialogue: 0,0:10:02.49,0:10:04.08,saint tail default,,0,0,0,,{TIME:602498,604083}For what reason?!
+Dialogue: 0,0:10:04.70,0:10:10.79,saint tail default,,0,0,0,,{TIME:604708,610798}I want to take another picture\Nof you with the stuffed animal.
+Dialogue: 0,0:10:10.79,0:10:12.96,saint tail default,,0,0,0,,{TIME:610798,612967}May I?!
+Dialogue: 0,0:10:13.38,0:10:15.34,saint tail default,,0,0,0,,{TIME:613384,615344}Uh, I'm sorry, but…
+Dialogue: 0,0:10:15.34,0:10:17.93,saint tail default,,0,0,0,,{TIME:615344,617930}Well, how about after school\Ntomorrow? All right?
+Dialogue: 0,0:10:20.59,0:10:22.35,saint tail default,,0,0,0,,{TIME:620599,622351}Asuka!
+Dialogue: 0,0:10:23.60,0:10:26.52,saint tail default,,0,0,0,,{TIME:623602,626522}Which would you like,\Nrice balls or sandwiches?
+Dialogue: 0,0:10:26.52,0:10:28.89,saint tail default,,0,0,0,,{TIME:626522,628899}In the middle of this mess,\Nyou're talking about food?
+Dialogue: 0,0:10:29.23,0:10:30.44,saint tail default,,0,0,0,,{TIME:629233,630442}What's the matter?
+Dialogue: 0,0:10:30.44,0:10:32.65,saint tail default,,0,0,0,,{TIME:630442,632653}Of course I'm talking about\Nthe snack for tomorrow night.
+Dialogue: 0,0:10:32.65,0:10:34.86,saint tail default,,0,0,0,,{TIME:632653,634864}You'll get hungry during\Ntomorrow night's surveillance.
+Dialogue: 0,0:10:36.28,0:10:37.90,saint tail default,,0,0,0,,{TIME:636282,637908}Which one would you like?!
+Dialogue: 0,0:10:38.65,0:10:40.82,saint tail default,,0,0,0,,{TIME:638659,640828}Neither! Give me some space!
+Dialogue: 0,0:10:49.08,0:10:51.04,saint tail default,,0,0,0,,{TIME:649086,651046}– Sawatari!\N– Yes!
+Dialogue: 0,0:10:51.92,0:10:54.75,saint tail default,,0,0,0,,{TIME:651922,654758}I'll go on the date after school!
+Dialogue: 0,0:10:54.96,0:10:56.51,saint tail default,,0,0,0,,{TIME:654967,656510}Me… Meimi…
+Dialogue: 0,0:10:56.51,0:10:58.26,saint tail default,,0,0,0,,{TIME:656510,658262}What?! It's my lucky day!
+Dialogue: 0,0:10:58.84,0:10:59.93,saint tail default,,0,0,0,,{TIME:658846,659930}{\i1}What?!
+Dialogue: 0,0:11:05.85,0:11:07.02,saint tail default,,0,0,0,,{TIME:665853,667021}{\i1}Oh, Lord…
 Comment: 0,0:11:08.02,0:11:08.02,[chapter],[chapter],0,0,0,,{TIME:668022,668022}Eyecatch
 Comment: 0,0:11:13.02,0:11:13.02,[chapter],[chapter],0,0,0,,{TIME:673027,673027}Part B
-Dialogue: 0,0:11:17.86,0:11:20.74,saint tail default,,0,0,0,,{TIME:677865,680743}That's why I'm asking\Nfor forgiveness! Seira!
-Dialogue: 0,0:11:20.86,0:11:22.16,saint tail default,,0,0,0,,{TIME:680868,682161}What are you going to do?
-Dialogue: 0,0:11:22.36,0:11:24.62,saint tail default,,0,0,0,,{TIME:682369,684622}Your date and warning note\Nare on the same day.
-Dialogue: 0,0:11:24.95,0:11:26.66,saint tail default,,0,0,0,,{TIME:684955,686665}It will work out somehow…
-Dialogue: 0,0:11:28.00,0:11:29.41,saint tail default,,0,0,0,,{TIME:688000,689418}We were able to manage Ruby…
-Dialogue: 0,0:11:29.54,0:11:30.62,saint tail default,,0,0,0,,{TIME:689543,690628}…without too much trouble…
-Dialogue: 0,0:11:31.75,0:11:33.75,saint tail default,,0,0,0,,{TIME:691754,693756}But I was careless, too.
-Dialogue: 0,0:11:33.96,0:11:37.09,saint tail default,,0,0,0,,{TIME:693964,697092}There are stuffed porcupines…
-Dialogue: 0,0:11:37.21,0:11:40.26,saint tail default,,0,0,0,,{TIME:697218,700262}Yeah, I have seen one\Nat a toy store before.
-Dialogue: 0,0:11:40.42,0:11:41.59,saint tail default,,0,0,0,,{TIME:700429,701597}It was a stuffed animal…
-Dialogue: 0,0:11:41.68,0:11:43.68,saint tail default,,0,0,0,,{TIME:701680,703682}…with a music box,\Nand it looks exactly like Ruby.
-Dialogue: 0,0:11:45.30,0:11:48.10,saint tail default,,0,0,0,,{TIME:705309,708103}We can buy it and fool Sawatari.
-Dialogue: 0,0:11:48.77,0:11:49.73,saint tail default,,0,0,0,,{TIME:708771,709730}That's not all!
-Dialogue: 0,0:11:49.85,0:11:51.60,saint tail default,,0,0,0,,{TIME:709855,711607}The music that plays is also…
-Dialogue: 0,0:11:51.94,0:11:53.52,saint tail default,,0,0,0,,{TIME:711941,713525}"Ye Fair Green Hills of Galilee."
-Dialogue: 0,0:11:54.06,0:11:55.02,saint tail default,,0,0,0,,{TIME:714068,715027}All right!
-Dialogue: 0,0:11:55.11,0:11:56.82,saint tail default,,0,0,0,,{TIME:715110,716820}Then I'm going to get\Nthe stuffed animal…
-Dialogue: 0,0:11:56.94,0:11:58.07,saint tail default,,0,0,0,,{TIME:716946,718072}…that looks like Ruby!
-Dialogue: 0,0:11:59.28,0:12:00.74,saint tail default,,0,0,0,,{TIME:719281,720741}Actually…
-Dialogue: 0,0:12:00.99,0:12:02.66,saint tail default,,0,0,0,,{TIME:720991,722660}I checked earlier…
-Dialogue: 0,0:12:03.57,0:12:05.32,saint tail default,,0,0,0,,{TIME:723577,725329}…and it's out of stock now.
-Dialogue: 0,0:12:09.87,0:12:10.87,saint tail default,,0,0,0,,{TIME:729875,730876}Out of stock?
-Dialogue: 0,0:12:11.29,0:12:13.75,saint tail default,,0,0,0,,{TIME:731293,733754}What should I do, Seira?!
-Dialogue: 0,0:12:13.87,0:12:16.25,saint tail default,,0,0,0,,{TIME:733879,736257}There's no other way now…
-Dialogue: 0,0:12:25.84,0:12:29.22,saint tail default,,0,0,0,,{TIME:745849,749228}Ruby, could you do me a favor?
-Dialogue: 0,0:12:34.23,0:12:35.19,saint tail default,,0,0,0,,{TIME:754233,755192}Can you pretend to be…
-Dialogue: 0,0:12:35.27,0:12:36.36,saint tail default,,0,0,0,,{TIME:755276,756360}…a stuffed animal\Nfor the rest of the day?
-Dialogue: 0,0:12:41.07,0:12:42.44,saint tail default,,0,0,0,,{TIME:761073,762449}– Eimi!\N– What?
-Dialogue: 0,0:12:42.65,0:12:44.24,saint tail default,,0,0,0,,{TIME:762658,764243}It's another peaceful day.
-Dialogue: 0,0:12:44.36,0:12:45.61,saint tail default,,0,0,0,,{TIME:764368,765619}Yes, it is!
-Dialogue: 0,0:12:51.70,0:12:52.71,saint tail default,,0,0,0,,{TIME:771709,772710}Oh…?
-Dialogue: 0,0:12:52.87,0:12:53.87,saint tail default,,0,0,0,,{TIME:772876,773877}TROUBLE
-Dialogue: 0,0:12:54.62,0:12:57.17,saint tail default,,0,0,0,,{TIME:774628,777172}Are you going to take\NRuby to school, Meimi?
-Dialogue: 0,0:12:57.71,0:12:59.55,saint tail default,,0,0,0,,{TIME:777715,779550}What? Ruby?
-Dialogue: 0,0:13:00.71,0:13:03.22,saint tail default,,0,0,0,,{TIME:780718,783220}Well, Ruby seems\Nto have caught a cold.
-Dialogue: 0,0:13:03.47,0:13:06.30,saint tail default,,0,0,0,,{TIME:783470,786307}So I'm thinking of\Ndropping her off at the vet.
-Dialogue: 0,0:13:09.51,0:13:12.35,saint tail default,,0,0,0,,{TIME:789518,792354}That's all! I'm going!
-Dialogue: 0,0:13:19.82,0:13:22.23,saint tail default,,0,0,0,,{TIME:799820,802239}I managed to fool Dad and Mom…
-Dialogue: 0,0:13:22.69,0:13:25.07,saint tail default,,0,0,0,,{TIME:802698,805075}The harder part\Nis coming up, Ruby.
-Dialogue: 0,0:13:26.41,0:13:28.37,saint tail default,,0,0,0,,{TIME:806410,808370}Let's hang in there all day today!
-Dialogue: 0,0:13:38.25,0:13:40.38,saint tail default,,0,0,0,,{TIME:818255,820382}One hour later.
-Dialogue: 0,0:13:43.84,0:13:45.67,saint tail default,,0,0,0,,{TIME:823844,825679}Three hours later.
-Dialogue: 0,0:13:46.63,0:13:47.76,saint tail default,,0,0,0,,{TIME:826638,827765}After school!
-Dialogue: 0,0:13:59.15,0:14:01.32,saint tail default,,0,0,0,,{TIME:839151,841320}Haneoka!
-Dialogue: 0,0:14:01.82,0:14:03.11,saint tail default,,0,0,0,,{TIME:841820,843113}Where should we go?!
-Dialogue: 0,0:14:08.91,0:14:10.28,saint tail default,,0,0,0,,{TIME:848911,850287}Is it going to be okay…?
-Dialogue: 0,0:14:13.99,0:14:16.66,saint tail default,,0,0,0,,{TIME:853999,856668}Well, in our store,\Na music box with the hymn…
-Dialogue: 0,0:14:16.91,0:14:20.13,saint tail default,,0,0,0,,{TIME:856919,860130}…"Ye Fair Green Hills of Galilee"…
-Dialogue: 0,0:14:20.33,0:14:22.71,saint tail default,,0,0,0,,{TIME:860339,862716}…is only sold with this item.
-Dialogue: 0,0:14:27.17,0:14:28.68,saint tail default,,0,0,0,,{TIME:867179,868680}That's all?
-Dialogue: 0,0:14:29.22,0:14:30.59,saint tail default,,0,0,0,,{TIME:869223,870599}Yes. They're out of stock now…
-Dialogue: 0,0:14:30.72,0:14:33.06,saint tail default,,0,0,0,,{TIME:870724,873060}…and we have only\Nthis one for display.
-Dialogue: 0,0:14:43.32,0:14:44.90,saint tail default,,0,0,0,,{TIME:883320,884905}I see. So this is the one…
-Dialogue: 0,0:14:45.28,0:14:47.24,saint tail default,,0,0,0,,{TIME:885280,887241}…that St. Tail is targeting.
-Dialogue: 0,0:14:49.32,0:14:51.57,saint tail default,,0,0,0,,{TIME:889326,891578}Whew! It's a big toy store!
-Dialogue: 0,0:14:54.20,0:14:56.91,saint tail default,,0,0,0,,{TIME:894206,896917}That must be the tree\Nwhere the music box is…
-Dialogue: 0,0:15:02.08,0:15:03.38,saint tail default,,0,0,0,,{TIME:902089,903382}Anything wrong?
-Dialogue: 0,0:15:03.50,0:15:04.50,saint tail default,,0,0,0,,{TIME:903507,904508}Oh, no.
-Dialogue: 0,0:15:04.67,0:15:06.46,saint tail default,,0,0,0,,{TIME:904675,906468}Right now, we're having\Na grand opening sale.
-Dialogue: 0,0:15:06.80,0:15:09.97,saint tail default,,0,0,0,,{TIME:906802,909972}So we can't close the store,\Nno matter what.
-Dialogue: 0,0:15:12.30,0:15:15.51,saint tail default,,0,0,0,,{TIME:912307,915519}Well, I would like\Nto borrow something.
-Dialogue: 0,0:15:15.64,0:15:17.02,saint tail default,,0,0,0,,{TIME:915644,917020}EMPLOYEE LOCKER ROOM
-Dialogue: 0,0:15:17.14,0:15:19.23,saint tail default,,0,0,0,,{TIME:917146,919231}Shoot! Why do I have to do…
-Dialogue: 0,0:15:21.02,0:15:22.19,saint tail default,,0,0,0,,{TIME:921024,922192}…this?!
-Dialogue: 0,0:15:24.23,0:15:25.52,saint tail default,,0,0,0,,{TIME:924236,925529}Asuka Jr. …!
-Dialogue: 0,0:15:31.86,0:15:33.28,saint tail default,,0,0,0,,{TIME:931869,933287}This time your strategy…
-Dialogue: 0,0:15:33.37,0:15:35.12,saint tail default,,0,0,0,,{TIME:933370,935122}…is to disguise yourself\Nand then catch her, isn't it?!
-Dialogue: 0,0:15:35.20,0:15:36.54,saint tail default,,0,0,0,,{TIME:935205,936540}Aha! Great idea!
-Dialogue: 0,0:15:36.74,0:15:38.12,saint tail default,,0,0,0,,{TIME:936748,938125}Yeah, right…!
-Dialogue: 0,0:15:44.75,0:15:45.88,saint tail default,,0,0,0,,{TIME:944756,945883}Cute!
-Dialogue: 0,0:15:46.59,0:15:48.05,saint tail default,,0,0,0,,{TIME:946592,948051}Sawatari! Hey!
-Dialogue: 0,0:15:49.76,0:15:51.97,saint tail default,,0,0,0,,{TIME:949761,951972}I don't know any fox.
-Dialogue: 0,0:15:52.13,0:15:53.76,saint tail default,,0,0,0,,{TIME:952139,953765}It's me! Me!
-Dialogue: 0,0:15:54.14,0:15:56.47,saint tail default,,0,0,0,,{TIME:954141,956477}What are you doing\Nin that costume?
-Dialogue: 0,0:15:57.10,0:16:02.14,saint tail default,,0,0,0,,{TIME:957102,962149}I… I am doing this…\Nin order to catch St. Tail…
-Dialogue: 0,0:16:02.27,0:16:03.48,saint tail default,,0,0,0,,{TIME:962274,963484}It doesn't really matter.
-Dialogue: 0,0:16:03.56,0:16:06.69,saint tail default,,0,0,0,,{TIME:963567,966695}But you do look good\Nin that costume!
-Dialogue: 0,0:16:06.90,0:16:08.44,saint tail default,,0,0,0,,{TIME:966904,968447}Shut up!
-Dialogue: 0,0:16:08.69,0:16:11.40,saint tail default,,0,0,0,,{TIME:968697,971408}Enough about me!\NWhat can you report?
-Dialogue: 0,0:16:13.74,0:16:16.16,saint tail default,,0,0,0,,{TIME:973744,976163}It's a stuffed animal. Probably!
-Dialogue: 0,0:16:16.99,0:16:18.91,saint tail default,,0,0,0,,{TIME:976997,978916}Really, you can't see past…
-Dialogue: 0,0:16:19.16,0:16:21.08,saint tail default,,0,0,0,,{TIME:979166,981084}…Meimi, can you?!
-Dialogue: 0,0:16:21.21,0:16:22.41,saint tail default,,0,0,0,,{TIME:981210,982419}I'll look into it myself.
-Dialogue: 0,0:16:33.93,0:16:35.47,saint tail default,,0,0,0,,{TIME:993931,995474}What's the matter, Haneoka?
-Dialogue: 0,0:16:36.30,0:16:39.06,saint tail default,,0,0,0,,{TIME:996308,999061}As you can see, it's a fox.\NCome on! Let's go!
-Dialogue: 0,0:16:46.69,0:16:48.15,saint tail default,,0,0,0,,{TIME:1006693,1008153}I just want to know…
-Dialogue: 0,0:16:48.27,0:16:50.03,saint tail default,,0,0,0,,{TIME:1008278,1010030}…if that's really a stuffed animal.
-Dialogue: 0,0:16:50.19,0:16:51.19,saint tail default,,0,0,0,,{TIME:1010197,1011198}That's all!
-Dialogue: 0,0:16:52.57,0:16:53.90,saint tail default,,0,0,0,,{TIME:1012574,1013909}Oops. Sorry!
-Dialogue: 0,0:17:04.21,0:17:05.42,saint tail default,,0,0,0,,{TIME:1024211,1025420}Great!
-Dialogue: 0,0:17:05.54,0:17:07.88,saint tail default,,0,0,0,,{TIME:1025546,1027881}A smiling fox is\Nfalling down the stairs!
-Dialogue: 0,0:17:10.84,0:17:11.92,saint tail default,,0,0,0,,{TIME:1030842,1031927}Ohhhh, ouch…
-Dialogue: 0,0:17:12.71,0:17:14.84,saint tail default,,0,0,0,,{TIME:1032719,1034846}I knew the way\Nthat fox fell was familiar.
-Dialogue: 0,0:17:14.93,0:17:16.39,saint tail default,,0,0,0,,{TIME:1034930,1036390}It's like I thought…
-Dialogue: 0,0:17:21.01,0:17:22.22,saint tail default,,0,0,0,,{TIME:1041019,1042229}This isn't good!
-Dialogue: 0,0:17:22.77,0:17:25.77,saint tail default,,0,0,0,,{TIME:1042771,1045774}Oh, no! I've caught a cold!
-Dialogue: 0,0:17:30.86,0:17:33.11,saint tail default,,0,0,0,,{TIME:1050862,1053115}What should I do, Seira?!
-Dialogue: 0,0:17:39.62,0:17:41.45,saint tail default,,0,0,0,,{TIME:1059621,1061456}Here she comes! St. Tail!
-Dialogue: 0,0:17:42.29,0:17:44.50,saint tail default,,0,0,0,,{TIME:1062291,1064501}I won't let you escape today!
-Dialogue: 0,0:17:45.46,0:17:46.83,saint tail default,,0,0,0,,{TIME:1065460,1066837}Where?!
-Dialogue: 0,0:17:50.25,0:17:51.84,saint tail default,,0,0,0,,{TIME:1070257,1071842}Disappeared?
-Dialogue: 0,0:17:51.96,0:17:53.59,saint tail default,,0,0,0,,{TIME:1071967,1073594}Where is she?!
-Dialogue: 0,0:17:55.17,0:18:00.51,saint tail default,,0,0,0,,{TIME:1075178,1080517}Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
-Dialogue: 0,0:18:05.56,0:18:06.52,saint tail default,,0,0,0,,{TIME:1085564,1086523}One!
-Dialogue: 0,0:18:09.10,0:18:10.11,saint tail default,,0,0,0,,{TIME:1089109,1090110}Two!
-Dialogue: 0,0:18:12.40,0:18:15.11,saint tail default,,0,0,0,,{TIME:1092404,1095115}Three!
-Dialogue: 0,0:18:30.46,0:18:33.09,saint tail default,,0,0,0,,{TIME:1110464,1113091}She just appeared\Non top of the tree!
-Dialogue: 0,0:18:38.34,0:18:40.59,saint tail default,,0,0,0,,{TIME:1118347,1120599}For me, it was pretty good.
-Dialogue: 0,0:18:40.89,0:18:45.60,saint tail default,,0,0,0,,{TIME:1120891,1125604}May the blessings\Nof God be with us.
-Dialogue: 0,0:18:46.64,0:18:48.35,saint tail default,,0,0,0,,{TIME:1126647,1128357}Good evening, everyone!
-Dialogue: 0,0:18:49.10,0:18:50.56,saint tail default,,0,0,0,,{TIME:1129107,1130567}I'm sorry for disturbing you.
-Dialogue: 0,0:18:50.73,0:18:53.07,saint tail default,,0,0,0,,{TIME:1130734,1133070}Don't move, St. Tail!
+Dialogue: 0,0:11:18.24,0:11:21.28,saint tail default,,0,0,0,,{TIME:678240,681285}That's why I'm asking\Nfor forgiveness! Seira!
+Dialogue: 0,0:11:21.28,0:11:22.62,saint tail default,,0,0,0,,{TIME:681285,682620}What are you going to do?
+Dialogue: 0,0:11:22.62,0:11:24.95,saint tail default,,0,0,0,,{TIME:682620,684955}Your date and warning note\Nare on the same day.
+Dialogue: 0,0:11:25.28,0:11:27.04,saint tail default,,0,0,0,,{TIME:685289,687041}It will work out somehow…
+Dialogue: 0,0:11:28.25,0:11:30.92,saint tail default,,0,0,0,,{TIME:688250,690920}We were able to manage Ruby\Nwithout too much trouble…
+Dialogue: 0,0:11:32.00,0:11:34.17,saint tail default,,0,0,0,,{TIME:692004,694173}But I was careless, too.
+Dialogue: 0,0:11:34.17,0:11:37.42,saint tail default,,0,0,0,,{TIME:694173,697426}There are stuffed porcupines…
+Dialogue: 0,0:11:37.42,0:11:40.72,saint tail default,,0,0,0,,{TIME:697426,700721}Yeah, I have seen one\Nat a toy store before.
+Dialogue: 0,0:11:40.72,0:11:44.39,saint tail default,,0,0,0,,{TIME:700721,704391}It was a stuffed animal with a music box,\Nand it looks exactly like Ruby.
+Dialogue: 0,0:11:45.47,0:11:49.18,saint tail default,,0,0,0,,{TIME:705476,709188}We can buy it and fool Sawatari.
+Dialogue: 0,0:11:49.18,0:11:50.02,saint tail default,,0,0,0,,{TIME:709188,710022}That's not all!
+Dialogue: 0,0:11:50.02,0:11:51.85,saint tail default,,0,0,0,,{TIME:710022,711857}The music that plays is also…
+Dialogue: 0,0:11:52.23,0:11:54.31,saint tail default,,0,0,0,,{TIME:712233,714318}"Ye Fair Green Hills of Galilee".
+Dialogue: 0,0:11:54.31,0:11:58.94,saint tail default,,0,0,0,,{TIME:714318,718948}All right! Then I'm going to get\Nthe stuffed animal that looks like Ruby!
+Dialogue: 0,0:11:59.61,0:12:02.95,saint tail default,,0,0,0,,{TIME:719615,722952}Actually, I checked earlier…
+Dialogue: 0,0:12:03.82,0:12:05.95,saint tail default,,0,0,0,,{TIME:723827,725955}It's out of stock now.
+Dialogue: 0,0:12:10.00,0:12:11.37,saint tail default,,0,0,0,,{TIME:730000,731377}Out of stock?
+Dialogue: 0,0:12:11.58,0:12:14.12,saint tail default,,0,0,0,,{TIME:731585,734129}What should I do, Seira?!
+Dialogue: 0,0:12:14.12,0:12:16.63,saint tail default,,0,0,0,,{TIME:734129,736632}There's no other way now…
+Dialogue: 0,0:12:26.26,0:12:30.06,saint tail default,,0,0,0,,{TIME:746267,750062}Ruby, could you do me a favor?
+Dialogue: 0,0:12:34.35,0:12:37.44,saint tail default,,0,0,0,,{TIME:754358,757444}Can you pretend to be a stuffed animal\Nfor the rest of the day?
+Dialogue: 0,0:12:41.28,0:12:42.95,saint tail default,,0,0,0,,{TIME:761282,762950}– Eimi!\N– What?
+Dialogue: 0,0:12:42.95,0:12:44.66,saint tail default,,0,0,0,,{TIME:762950,764660}It's another peaceful day.
+Dialogue: 0,0:12:44.66,0:12:46.12,saint tail default,,0,0,0,,{TIME:764660,766120}Yes, it is!
+Dialogue: 0,0:12:52.87,0:12:54.08,saint tail sign,(sign),0,0,0,,{TIME:772876,774086}{\fad(500,0)}Trouble
+Dialogue: 0,0:12:54.79,0:12:57.58,saint tail default,,0,0,0,,{TIME:774795,777589}Are you going to take\NRuby to school, Meimi?
+Dialogue: 0,0:12:57.79,0:13:00.09,saint tail default,,0,0,0,,{TIME:777798,780092}What? Ruby?
+Dialogue: 0,0:13:00.92,0:13:03.92,saint tail default,,0,0,0,,{TIME:780926,783929}Well, Ruby seems\Nto have caught a cold.
+Dialogue: 0,0:13:03.92,0:13:06.72,saint tail default,,0,0,0,,{TIME:783929,786724}So I'm thinking of\Ndropping her off at the vet.
+Dialogue: 0,0:13:09.93,0:13:13.14,saint tail default,,0,0,0,,{TIME:789935,793147}That's all! I'm going!
+Dialogue: 0,0:13:20.07,0:13:22.90,saint tail default,,0,0,0,,{TIME:800070,802906}I managed to fool Dad and Mom…
+Dialogue: 0,0:13:22.90,0:13:25.32,saint tail default,,0,0,0,,{TIME:802906,805326}The harder part is coming up, Ruby.
+Dialogue: 0,0:13:26.91,0:13:28.82,saint tail default,,0,0,0,,{TIME:806910,808829}Let's hang in there all day today!
+Dialogue: 0,0:13:38.96,0:13:40.79,saint tail default,,0,0,0,,{TIME:818964,820799}One hour later.
+Dialogue: 0,0:13:43.92,0:13:46.93,saint tail default,,0,0,0,,{TIME:823927,826930}Three hours later.
+Dialogue: 0,0:13:46.93,0:13:48.76,saint tail default,,0,0,0,,{TIME:826930,828766}After school!
+Dialogue: 0,0:13:59.36,0:14:01.19,saint tail default,,0,0,0,,{TIME:839360,841195}Meimi!
+Dialogue: 0,0:14:02.07,0:14:03.53,saint tail default,,0,0,0,,{TIME:842071,843530}Where should we go?!
+Dialogue: 0,0:14:08.91,0:14:11.12,saint tail default,,0,0,0,,{TIME:848911,851121}{\i1}Is it going to be okay?
+Dialogue: 0,0:14:14.33,0:14:17.08,saint tail default,,0,0,0,,{TIME:854333,857086}Well, in our store,\Na music box with the hymn…
+Dialogue: 0,0:14:17.33,0:14:21.04,saint tail default,,0,0,0,,{TIME:857336,861048}"Ye Fair Green Hills of Galilee"
+Dialogue: 0,0:14:21.04,0:14:23.55,saint tail default,,0,0,0,,{TIME:861048,863550}is only sold with this item.
+Dialogue: 0,0:14:27.47,0:14:29.01,saint tail default,,0,0,0,,{TIME:867471,869014}That's all?
+Dialogue: 0,0:14:29.39,0:14:33.47,saint tail default,,0,0,0,,{TIME:869390,873477}Yes. They're out of stock now and\Nwe have only this one for display.
+Dialogue: 0,0:14:43.73,0:14:47.65,saint tail default,,0,0,0,,{TIME:883737,887658}{\i1}I see. So this is the one\Nthat St. Tail is targeting.
+Dialogue: 0,0:14:49.61,0:14:52.41,saint tail default,,0,0,0,,{TIME:889618,892413}Whew! It's a big toy store!
+Dialogue: 0,0:14:54.41,0:14:57.75,saint tail default,,0,0,0,,{TIME:894415,897751}{\i1}That must be the tree\Nwhere the music box is…
+Dialogue: 0,0:15:02.38,0:15:03.71,saint tail default,,0,0,0,,{TIME:902381,903715}Anything wrong?
+Dialogue: 0,0:15:03.71,0:15:04.92,saint tail default,,0,0,0,,{TIME:903715,904925}Oh, no.
+Dialogue: 0,0:15:04.92,0:15:06.84,saint tail default,,0,0,0,,{TIME:904925,906844}Right now, we're having\Na grand opening sale.
+Dialogue: 0,0:15:07.05,0:15:10.30,saint tail default,,0,0,0,,{TIME:907052,910305}So we can't close the store,\Nno matter what.
+Dialogue: 0,0:15:12.59,0:15:15.81,saint tail default,,0,0,0,,{TIME:912599,915811}Well, I would like\Nto borrow something.
+Dialogue: 0,0:15:15.81,0:15:17.31,saint tail sign,(sign),0,0,0,,{TIME:915811,917312}Employee Locker Room
+Dialogue: 0,0:15:16.77,0:15:19.81,saint tail default,,0,0,0,,{TIME:916770,919815}Shoot! Why do I have to do this?
+Dialogue: 0,0:15:21.44,0:15:23.02,saint tail default,,0,0,0,,{TIME:921442,923026}Why?
+Dialogue: 0,0:15:24.31,0:15:25.82,saint tail default,,0,0,0,,{TIME:924319,925821}Asuka Jr.!\N…what?
+Dialogue: 0,0:15:32.07,0:15:35.37,saint tail default,,0,0,0,,{TIME:932077,935372}This time your strategy is to disguise yourself\Nand then catch her, isn't it?!
+Dialogue: 0,0:15:35.37,0:15:36.83,saint tail default,,0,0,0,,{TIME:935372,936832}Aha! Great idea!
+Dialogue: 0,0:15:36.83,0:15:38.45,saint tail default,,0,0,0,,{TIME:936832,938459}{\i1}Yeah, right!
+Dialogue: 0,0:15:44.92,0:15:46.80,saint tail default,,0,0,0,,{TIME:944923,946800}Cute!
+Dialogue: 0,0:15:46.80,0:15:48.88,saint tail default,,0,0,0,,{TIME:946800,948886}Sawatari! Hey!
+Dialogue: 0,0:15:50.26,0:15:52.43,saint tail default,,0,0,0,,{TIME:950262,952431}I don't know any fox.
+Dialogue: 0,0:15:52.43,0:15:54.43,saint tail default,,0,0,0,,{TIME:952431,954433}It's me! Me!
+Dialogue: 0,0:15:54.43,0:15:57.43,saint tail default,,0,0,0,,{TIME:954433,957436}What are you doing\Nin that costume?
+Dialogue: 0,0:15:57.43,0:16:02.64,saint tail default,,0,0,0,,{TIME:957436,962649}I… I am doing this…\Nin order to catch St. Tail…
+Dialogue: 0,0:16:02.64,0:16:07.11,saint tail default,,0,0,0,,{TIME:962649,967112}It doesn't really matter.\NBut you do look good in that costume!
+Dialogue: 0,0:16:07.11,0:16:08.94,saint tail default,,0,0,0,,{TIME:967112,968947}Shut up!
+Dialogue: 0,0:16:08.94,0:16:12.32,saint tail default,,0,0,0,,{TIME:968947,972326}Enough about me!\NWhat can you report?
+Dialogue: 0,0:16:14.28,0:16:16.49,saint tail default,,0,0,0,,{TIME:974286,976497}It's a stuffed animal. Probably!
+Dialogue: 0,0:16:17.70,0:16:21.66,saint tail default,,0,0,0,,{TIME:977706,981668}Really, you can't see past\NHaneoka, can you?!
+Dialogue: 0,0:16:21.66,0:16:22.79,saint tail default,,0,0,0,,{TIME:981668,982794}I'll look into it myself.
+Dialogue: 0,0:16:34.43,0:16:36.85,saint tail default,,0,0,0,,{TIME:994431,996850}What's the matter, Meimi?
+Dialogue: 0,0:16:36.85,0:16:39.26,saint tail default,,0,0,0,,{TIME:996850,999269}As you can see, it's a fox.\NCome on! Let's go!
+Dialogue: 0,0:16:46.90,0:16:50.28,saint tail default,,0,0,0,,{TIME:1006902,1010280}{\i1}I just want to know\Nif that's really a stuffed animal.
+Dialogue: 0,0:16:50.28,0:16:51.99,saint tail default,,0,0,0,,{TIME:1010280,1011990}{\i1}That's all!
+Dialogue: 0,0:16:52.86,0:16:54.20,saint tail default,,0,0,0,,{TIME:1012866,1014201}Oops. Sorry!
+Dialogue: 0,0:17:04.75,0:17:06.00,saint tail default,,0,0,0,,{TIME:1024753,1026004}Great!
+Dialogue: 0,0:17:06.00,0:17:08.17,saint tail default,,0,0,0,,{TIME:1026004,1028173}A smiling fox is\Nfalling down the stairs!
+Dialogue: 0,0:17:11.71,0:17:12.63,saint tail default,,0,0,0,,{TIME:1031718,1032636}Ouch…
+Dialogue: 0,0:17:12.92,0:17:15.93,saint tail default,,0,0,0,,{TIME:1032928,1035931}{\i1}I knew the way\Nthat fox fell was familiar.
+Dialogue: 0,0:17:15.93,0:17:17.43,saint tail default,,0,0,0,,{TIME:1035931,1037432}{\i1}It's like I thought…
+Dialogue: 0,0:17:21.22,0:17:22.56,saint tail default,,0,0,0,,{TIME:1041228,1042563}This isn't good!
+Dialogue: 0,0:17:23.02,0:17:26.10,saint tail default,,0,0,0,,{TIME:1043021,1046108}Oh, no! I've caught a cold!
+Dialogue: 0,0:17:31.23,0:17:33.03,saint tail default,,0,0,0,,{TIME:1051238,1053031}{\i1}What should I do, Seira?!
+Dialogue: 0,0:17:40.03,0:17:42.41,saint tail default,,0,0,0,,{TIME:1060038,1062416}Here she comes! St. Tail!
+Dialogue: 0,0:17:42.41,0:17:44.71,saint tail default,,0,0,0,,{TIME:1062416,1064710}I won't let you escape today!
+Dialogue: 0,0:17:45.75,0:17:47.21,saint tail default,,0,0,0,,{TIME:1065752,1067212}Where?!
+Dialogue: 0,0:17:50.92,0:17:52.67,saint tail default,,0,0,0,,{TIME:1070924,1072676}She disappeared?
+Dialogue: 0,0:17:52.67,0:17:53.76,saint tail default,,0,0,0,,{TIME:1072676,1073760}Where is she?!
+Dialogue: 0,0:17:55.30,0:18:00.85,saint tail default,,0,0,0,,{TIME:1075304,1080851}Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
+Dialogue: 0,0:18:05.73,0:18:06.85,saint tail default,,0,0,0,,{TIME:1085731,1086857}One!
+Dialogue: 0,0:18:09.19,0:18:10.52,saint tail default,,0,0,0,,{TIME:1089192,1090527}Two!
+Dialogue: 0,0:18:12.48,0:18:15.19,saint tail default,,0,0,0,,{TIME:1092487,1095198}Three!
+Dialogue: 0,0:18:30.54,0:18:33.30,saint tail default,,0,0,0,,{TIME:1110547,1113300}She just appeared\Non top of the tree!
+Dialogue: 0,0:18:38.68,0:18:40.76,saint tail default,,0,0,0,,{TIME:1118680,1120766}For me, it was pretty good.
+Dialogue: 0,0:18:42.14,0:18:45.81,saint tail default,,0,0,0,,{TIME:1122142,1125812}May the blessings of God be with us.
+Dialogue: 0,0:18:46.89,0:18:49.31,saint tail default,,0,0,0,,{TIME:1126897,1129316}Good evening, everyone!
+Dialogue: 0,0:18:49.31,0:18:50.90,saint tail default,,0,0,0,,{TIME:1129316,1130901}I'm sorry for disturbing you.
+Dialogue: 0,0:18:50.90,0:18:53.52,saint tail default,,0,0,0,,{TIME:1130901,1133528}Don't move, St. Tail!
 Dialogue: 0,0:19:00.45,0:19:01.49,saint tail default,,0,0,0,,{TIME:1140452,1141495}It's…
-Dialogue: 0,0:19:03.45,0:19:05.83,saint tail default,,0,0,0,,{TIME:1143455,1145832}…Show…
-Dialogue: 0,0:19:07.00,0:19:08.96,saint tail default,,0,0,0,,{TIME:1147000,1148960}…Time!
-Dialogue: 0,0:19:21.89,0:19:23.76,saint tail default,,0,0,0,,{TIME:1161890,1163767}My store…!
-Dialogue: 0,0:19:26.31,0:19:27.68,saint tail default,,0,0,0,,{TIME:1166311,1167688}Oh, shoot!
-Dialogue: 0,0:19:31.60,0:19:32.60,saint tail default,,0,0,0,,{TIME:1171608,1172609}There it is!
-Dialogue: 0,0:19:32.69,0:19:34.11,saint tail default,,0,0,0,,{TIME:1172693,1174111}I'm taking the music\Nbox with the hymn…
-Dialogue: 0,0:19:34.23,0:19:35.32,saint tail default,,0,0,0,,{TIME:1174236,1175320}…"Ye Fair Green Hills of Galilee!"
-Dialogue: 0,0:19:35.94,0:19:38.32,saint tail default,,0,0,0,,{TIME:1175946,1178323}What? I thought there\Nwas only one music box…
-Dialogue: 0,0:19:47.83,0:19:49.37,saint tail default,,0,0,0,,{TIME:1187833,1189376}Oh, she's gone…!
-Dialogue: 0,0:19:55.17,0:19:56.96,saint tail default,,0,0,0,,{TIME:1195173,1196967}You couldn't catch her once again!
-Dialogue: 0,0:20:01.93,0:20:03.22,saint tail default,,0,0,0,,{TIME:1201930,1203223}Shut up!
-Dialogue: 0,0:20:03.55,0:20:04.93,saint tail default,,0,0,0,,{TIME:1203557,1204933}Where did you get\Nthe one on your back?!
-Dialogue: 0,0:20:06.05,0:20:07.10,saint tail default,,0,0,0,,{TIME:1206059,1207102}Oh, this?
-Dialogue: 0,0:20:07.68,0:20:09.39,saint tail default,,0,0,0,,{TIME:1207686,1209396}I bought it before\Nthe store was out of stock.
-Dialogue: 0,0:20:23.24,0:20:25.82,saint tail default,,0,0,0,,{TIME:1223243,1225829}I see. It's a stuffed animal…
-Dialogue: 0,0:20:26.95,0:20:27.99,saint tail default,,0,0,0,,{TIME:1226955,1227998}Of course it is!
-Dialogue: 0,0:20:28.74,0:20:30.12,saint tail default,,0,0,0,,{TIME:1228749,1230125}What's the matter?
-Dialogue: 0,0:20:31.41,0:20:33.58,saint tail default,,0,0,0,,{TIME:1231418,1233587}Of course it is…
-Dialogue: 0,0:20:35.54,0:20:36.54,saint tail default,,0,0,0,,{TIME:1235547,1236548}Rather than thinking too much…
-Dialogue: 0,0:20:36.63,0:20:37.84,saint tail default,,0,0,0,,{TIME:1236631,1237841}…I should just catch her!
-Dialogue: 0,0:20:38.00,0:20:39.42,saint tail default,,0,0,0,,{TIME:1238008,1239426}When I catch her…
-Dialogue: 0,0:20:39.50,0:20:41.30,saint tail default,,0,0,0,,{TIME:1239509,1241303}…everything will become clear.
-Dialogue: 0,0:20:46.01,0:20:48.22,saint tail default,,0,0,0,,{TIME:1246016,1248226}Ruby, I love you!
+Dialogue: 0,0:19:03.37,0:19:06.04,saint tail default,,0,0,0,,{TIME:1143372,1146041}Show…
+Dialogue: 0,0:19:07.25,0:19:08.46,saint tail default,,0,0,0,,{TIME:1147250,1148460}Time!
+Dialogue: 0,0:19:21.89,0:19:24.01,saint tail default,,0,0,0,,{TIME:1161890,1164017}My store…
+Dialogue: 0,0:19:26.81,0:19:28.06,saint tail default,,0,0,0,,{TIME:1166812,1168063}Oh, shoot!
+Dialogue: 0,0:19:32.06,0:19:36.15,saint tail default,,0,0,0,,{TIME:1172067,1176154}There it is! I'm taking the music box with\Nthe hymn "Ye Fair Green Hills of Galilee"!
+Dialogue: 0,0:19:36.15,0:19:38.49,saint tail default,,0,0,0,,{TIME:1176154,1178490}What? I thought there\Nwas only one music box…
+Dialogue: 0,0:19:47.91,0:19:49.50,saint tail default,,0,0,0,,{TIME:1187916,1189501}Oh, she's gone!
+Dialogue: 0,0:19:55.29,0:19:57.13,saint tail default,,0,0,0,,{TIME:1195298,1197134}You couldn't catch her once again!
+Dialogue: 0,0:20:02.13,0:20:03.89,saint tail default,,0,0,0,,{TIME:1202139,1203890}Shut up!
+Dialogue: 0,0:20:03.89,0:20:05.10,saint tail default,,0,0,0,,{TIME:1203890,1205100}Where did you get\Nthe one on your back?!
+Dialogue: 0,0:20:06.30,0:20:07.76,saint tail default,,0,0,0,,{TIME:1206309,1207769}Oh, this?
+Dialogue: 0,0:20:07.76,0:20:09.56,saint tail default,,0,0,0,,{TIME:1207769,1209563}I bought it before\Nthe store was out of stock.
+Dialogue: 0,0:20:23.32,0:20:26.24,saint tail default,,0,0,0,,{TIME:1223326,1226246}I see. It's a stuffed animal…
+Dialogue: 0,0:20:27.33,0:20:28.20,saint tail default,,0,0,0,,{TIME:1227330,1228206}Of course it is!
+Dialogue: 0,0:20:28.95,0:20:30.70,saint tail default,,0,0,0,,{TIME:1228957,1230709}What's the matter?
+Dialogue: 0,0:20:31.58,0:20:33.58,saint tail default,,0,0,0,,{TIME:1231585,1233587}Of course it is…
+Dialogue: 0,0:20:35.38,0:20:38.30,saint tail default,,0,0,0,,{TIME:1235380,1238300}Rather than thinking too much,\NI should just catch her!
+Dialogue: 0,0:20:38.30,0:20:42.13,saint tail default,,0,0,0,,{TIME:1238300,1242137}When I catch her,\Neverything will become clear.
+Dialogue: 0,0:20:46.18,0:20:48.22,saint tail default,,0,0,0,,{TIME:1246183,1248226}{\i1}Ruby, I love you!
 Comment: 0,0:20:56.61,0:20:56.61,[chapter],[chapter],0,0,0,,{TIME:1256610,1256610}Ending
 Dialogue: 0,0:21:03.61,0:21:10.70,saint tail ed jp,[karaoke],0,0,0,,{TIME:1263617,1270707}{\blur1\pos(680,1060)}ima no jibun ja nai watashi ni naritai{NOTE:今の自分じゃない　私になりたい}
 Dialogue: 0,0:21:11.66,0:21:19.38,saint tail ed jp,[karaoke],0,0,0,,{TIME:1271666,1279382}{\blur1}nido to kanashiku naranai kokoro ga hoshii{NOTE:二度と悲しくならない心が欲しい}
@@ -383,3 +342,11 @@ Dialogue: 0,0:22:08.93,0:22:12.22,saint tail ed en,[karaoke],0,0,0,,{TIME:132893
 Dialogue: 0,0:22:16.56,0:22:19.56,saint tail ed en,[karaoke],0,0,0,,{TIME:1336565,1339568}Oh, upside down!{NOTE:OhーUpSideDown}
 Dialogue: 0,0:22:24.28,0:22:26.86,saint tail ed en,[karaoke],0,0,0,,{TIME:1344281,1346867}Oh, upside down!{NOTE:OhーUpSideDown}
 Comment: 0,0:22:27.70,0:22:27.70,[chapter],[chapter],0,0,0,,{TIME:1347701,1347701}Preview
+Dialogue: 0,0:22:27.70,0:22:30.74,saint tail sign,(sign),0,0,0,,{TIME:1347701,1350745}Next episode
+Dialogue: 0,0:22:29.36,0:22:35.41,saint tail default,,0,0,0,,{TIME:1349369,1355417}Mr. Mochida, a former thief, wants to return\Nthe jewel he stole to their original owner.{NOTE:元泥棒の持田さんは、昔盗んだ宝石を元の持ち主に返したがってるんだって}
+Dialogue: 0,0:22:35.41,0:22:40.17,saint tail default,,0,0,0,,{TIME:1355417,1360171}It's called the Jewel of the Moon\Nand is on display at the Space Museum.{NOTE:その宝石は月の宝石といって、今は宇宙博物館にあるの}
+Dialogue: 0,0:22:40.17,0:22:43.88,saint tail default,,0,0,0,,{TIME:1360171,1363884}But Director Urano\Ndoesn't want to give it back!{NOTE:館長の浦野が闇ルートで手に入れた物なんだ}
+Dialogue: 0,0:22:43.88,0:22:50.14,saint tail default,,0,0,0,,{TIME:1363884,1370140}Mr. Mochida is thinking about stealing\Nthe jewel again to return it, but I won't let him!{NOTE:持田さんは宝石を返すため、また盗む事を考えてるんだけど、そんな事させないもん}
+Dialogue: 0,0:22:50.14,0:22:52.05,saint tail default,,0,0,0,,{TIME:1370140,1372058}Next time on Saint Tail:{NOTE:次回、怪盗セイント・テール}
+Dialogue: 0,0:22:52.05,0:22:54.10,saint tail default,,0,0,0,,{TIME:1372058,1374102}"Steal the Jewel of the Moon!"{NOTE:『月の宝石を盗め!』}
+Dialogue: 0,0:22:54.10,0:22:57.35,saint tail default,,0,0,0,,{TIME:1374102,1377355}May the blessings\Nof God be with you.{NOTE:みなさんに、神のご加護がありますように}
