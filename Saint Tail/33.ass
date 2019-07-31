@@ -5,7 +5,7 @@ ScriptType: v4.00+
 PlayResX: 1440
 PlayResY: 1080
 YCbCr Matrix: TV.601
-WrapStyle: 1
+WrapStyle: 2
 ScaledBorderAndShadow: yes
 Title: Saint Tail - 33
 Audio File: source/33.mkv
@@ -57,260 +57,250 @@ Dialogue: 0,0:01:11.46,0:01:15.09,saint tail op en,[karaoke],0,0,0,,{TIME:71467,
 Dialogue: 0,0:01:15.09,0:01:18.60,saint tail op en,[karaoke],0,0,0,,{TIME:75096,78600}I want to take these challenges on
 Dialogue: 0,0:01:18.60,0:01:24.89,saint tail op en,[karaoke],0,0,0,,{TIME:78600,84897}and build myself again.
 Comment: 0,0:01:35.11,0:01:35.11,[chapter],[chapter],0,0,0,,{TIME:95116,95116}Part A
-Dialogue: 0,0:02:00.55,0:02:01.60,saint tail default,,0,0,0,,{TIME:120558,121601}The stolen sword was…
-Dialogue: 0,0:02:01.72,0:02:03.14,saint tail default,,0,0,0,,{TIME:121726,123144}…Kikuchiyo, which is as valuable\Nas the national treasure.
-Dialogue: 0,0:02:04.56,0:02:06.27,saint tail default,,0,0,0,,{TIME:124562,126272}The thief hasn't gone too far yet.
-Dialogue: 0,0:02:06.35,0:02:07.31,saint tail default,,0,0,0,,{TIME:126356,127315}Turn on the lights!
-Dialogue: 0,0:02:10.36,0:02:11.31,saint tail default,,0,0,0,,{TIME:130360,131319}Right there!
-Dialogue: 0,0:02:15.15,0:02:16.11,saint tail default,,0,0,0,,{TIME:135156,136115}That's…!
-Dialogue: 0,0:02:16.32,0:02:17.70,saint tail default,,0,0,0,,{TIME:136324,137700}That's the mysterious\Nthief, Mouse Kid!
-Dialogue: 0,0:02:18.32,0:02:20.16,saint tail default,,0,0,0,,{TIME:138326,140161}Don't let him escape!
-Dialogue: 0,0:02:29.87,0:02:30.83,saint tail default,,0,0,0,,{TIME:149879,150838}He's disappeared!
-Dialogue: 0,0:02:31.42,0:02:33.04,saint tail default,,0,0,0,,{TIME:151422,153049}Another famous\Nsword was stolen!
-Dialogue: 0,0:02:33.13,0:02:35.21,saint tail default,,0,0,0,,{TIME:153132,155218}This is the sixth sword this month!
-Dialogue: 0,0:02:35.59,0:02:37.01,saint tail default,,0,0,0,,{TIME:155593,157011}He's good… He's very good!
-Dialogue: 0,0:02:37.17,0:02:38.59,saint tail default,,0,0,0,,{TIME:157178,158596}Now is not the time to admire him!
-Dialogue: 0,0:02:38.80,0:02:40.59,saint tail default,,0,0,0,,{TIME:158805,160598}Find Mouse Kid and do it now!
-Dialogue: 0,0:02:40.80,0:02:41.76,saint tail default,,0,0,0,,{TIME:160807,161766}Yes, sir!
-Dialogue: 0,0:02:48.14,0:02:52.52,saint tail default,,0,0,0,,{TIME:168147,172527}A SWORDSWOMAN'S WISH!\NTO STEAL THE EXCELLENT SWORD
-Dialogue: 0,0:02:54.32,0:02:55.86,saint tail default,,0,0,0,,{TIME:174320,175863}…according to these calculations…
-Dialogue: 0,0:02:56.44,0:02:58.99,saint tail default,,0,0,0,,{TIME:176447,178991}…x=2y.
-Dialogue: 0,0:02:59.95,0:03:01.91,saint tail default,,0,0,0,,{TIME:179951,181911}I would like someone\Nto solve this problem.
-Dialogue: 0,0:03:02.49,0:03:05.03,saint tail default,,0,0,0,,{TIME:182495,185039}Noriko, please solve it.
-Dialogue: 0,0:03:05.83,0:03:06.83,saint tail default,,0,0,0,,{TIME:185832,186833}Noriko!
-Dialogue: 0,0:03:07.20,0:03:08.16,saint tail default,,0,0,0,,{TIME:187208,188167}Yes!
-Dialogue: 0,0:03:10.21,0:03:11.17,saint tail default,,0,0,0,,{TIME:190211,191170}Well…
-Dialogue: 0,0:03:12.88,0:03:14.63,saint tail default,,0,0,0,,{TIME:192880,194632}It's not like you…
-Dialogue: 0,0:03:15.29,0:03:17.09,saint tail default,,0,0,0,,{TIME:195299,197093}…to daydream during class.
-Dialogue: 0,0:03:18.88,0:03:19.84,saint tail default,,0,0,0,,{TIME:198886,199846}I'm sorry.
-Dialogue: 0,0:03:27.85,0:03:31.31,saint tail default,,0,0,0,,{TIME:207854,211315}Noriko wasn't her usual self,\Nand she was absent-minded today.
-Dialogue: 0,0:03:32.52,0:03:34.19,saint tail default,,0,0,0,,{TIME:212525,214193}It was strange…
-Dialogue: 0,0:03:34.61,0:03:39.03,saint tail default,,0,0,0,,{TIME:214610,219031}I guess she couldn't think\Nof anything but today's match.
-Dialogue: 0,0:03:39.44,0:03:41.86,saint tail default,,0,0,0,,{TIME:219449,221868}She said she wanted\Nto win no matter what.
-Dialogue: 0,0:03:42.16,0:03:43.11,saint tail default,,0,0,0,,{TIME:222160,223119}What do you mean?
-Dialogue: 0,0:03:45.07,0:03:46.03,saint tail default,,0,0,0,,{TIME:225079,226038}Ten!
-Dialogue: 0,0:03:46.74,0:03:47.74,saint tail default,,0,0,0,,{TIME:226748,227749}One!
-Dialogue: 0,0:03:48.58,0:03:49.54,saint tail default,,0,0,0,,{TIME:228583,229542}Two!
+Dialogue: 0,0:02:00.68,0:02:03.72,saint tail default,,0,0,0,,{TIME:120683,123728}The stolen sword was Kikuchiyo,\Nwhich is as valuable as the national treasure.
+Dialogue: 0,0:02:04.56,0:02:07.27,saint tail default,,0,0,0,,{TIME:124562,127273}The thief hasn't gone too far yet.\NTurn on the lights!
+Dialogue: 0,0:02:10.40,0:02:11.40,saint tail default,,0,0,0,,{TIME:130401,131402}Right there!
+Dialogue: 0,0:02:15.49,0:02:16.49,saint tail default,,0,0,0,,{TIME:135490,136491}That's…
+Dialogue: 0,0:02:16.49,0:02:18.20,saint tail default,,0,0,0,,{TIME:136491,138201}That's the mysterious thief,\NMouse Kid!
+Dialogue: 0,0:02:18.74,0:02:20.70,saint tail default,,0,0,0,,{TIME:138743,140703}Don't let him escape!
+Dialogue: 0,0:02:30.17,0:02:31.08,saint tail default,,0,0,0,,{TIME:150171,151089}He's disappeared!
+Dialogue: 0,0:02:31.42,0:02:33.34,saint tail default,,0,0,0,,{TIME:151422,153341}Another famous sword was stolen!
+Dialogue: 0,0:02:33.34,0:02:35.42,saint tail default,,0,0,0,,{TIME:153341,155426}This is the sixth sword this month!
+Dialogue: 0,0:02:35.42,0:02:37.22,saint tail default,,0,0,0,,{TIME:155426,157220}He's good… He's very good!
+Dialogue: 0,0:02:37.22,0:02:38.88,saint tail default,,0,0,0,,{TIME:157220,158888}Now is not the time to admire him!
+Dialogue: 0,0:02:38.88,0:02:41.01,saint tail default,,0,0,0,,{TIME:158888,161015}Find Mouse Kid and do it now!
+Dialogue: 0,0:02:41.01,0:02:42.18,saint tail default,,0,0,0,,{TIME:161015,162183}Yes, sir!
+Dialogue: 0,0:02:48.98,0:02:52.61,saint tail default,[title],0,0,0,,{TIME:168981,172610}A Swordswoman's Wish!\NTo Steal the Excellent Sword.
+Dialogue: 0,0:02:54.36,0:02:59.57,saint tail default,,0,0,0,,{TIME:174362,179575}…according to these calculations,\Nx is equal to y times two.
+Dialogue: 0,0:02:59.99,0:03:01.99,saint tail default,,0,0,0,,{TIME:179992,181994}I would like someone\Nto solve this problem.
+Dialogue: 0,0:03:02.57,0:03:05.91,saint tail default,,0,0,0,,{TIME:182578,185915}Noriko, please solve it.
+Dialogue: 0,0:03:05.91,0:03:07.33,saint tail default,,0,0,0,,{TIME:185915,187333}Noriko!
+Dialogue: 0,0:03:07.33,0:03:08.16,saint tail default,,0,0,0,,{TIME:187333,188167}Yes!
+Dialogue: 0,0:03:10.42,0:03:11.54,saint tail default,,0,0,0,,{TIME:190420,191546}Well…
+Dialogue: 0,0:03:12.92,0:03:17.51,saint tail default,,0,0,0,,{TIME:192922,197510}It's not like you\Nto daydream during class.
+Dialogue: 0,0:03:18.80,0:03:20.01,saint tail default,,0,0,0,,{TIME:198803,200012}I'm sorry.
+Dialogue: 0,0:03:27.97,0:03:31.31,saint tail default,,0,0,0,,{TIME:207979,211315}Noriko wasn't her usual self,\Nand she was absentminded today.
+Dialogue: 0,0:03:32.56,0:03:34.69,saint tail default,,0,0,0,,{TIME:212567,214694}It was strange…
+Dialogue: 0,0:03:34.69,0:03:39.53,saint tail default,,0,0,0,,{TIME:214694,219532}I guess she couldn't think\Nof anything but today's match.
+Dialogue: 0,0:03:39.53,0:03:42.24,saint tail default,,0,0,0,,{TIME:219532,222243}She said she wanted\Nto win no matter what.
+Dialogue: 0,0:03:42.24,0:03:43.24,saint tail default,,0,0,0,,{TIME:222243,223244}What do you mean?
+Dialogue: 0,0:03:45.37,0:03:46.33,saint tail default,,0,0,0,,{TIME:225371,226330}Ten!
+Dialogue: 0,0:03:47.03,0:03:47.99,saint tail default,,0,0,0,,{TIME:227039,227999}One!
+Dialogue: 0,0:03:48.62,0:03:49.58,saint tail default,,0,0,0,,{TIME:228624,229584}Two!
 Dialogue: 0,0:03:50.16,0:03:51.12,saint tail default,,0,0,0,,{TIME:230168,231127}Three!
 Dialogue: 0,0:03:51.66,0:03:52.62,saint tail default,,0,0,0,,{TIME:231669,232628}Four!
-Dialogue: 0,0:03:53.37,0:03:54.33,saint tail default,,0,0,0,,{TIME:233379,234338}Five!
-Dialogue: 0,0:03:54.67,0:03:55.63,saint tail default,,0,0,0,,{TIME:234672,235631}Six!
-Dialogue: 0,0:03:56.29,0:03:57.67,saint tail default,,0,0,0,,{TIME:236299,237675}– Seven!\N– Noriko is considered…
-Dialogue: 0,0:03:57.80,0:03:59.30,saint tail default,,0,0,0,,{TIME:237800,239302}– Eight!\N– …a talented martial artist…
-Dialogue: 0,0:03:59.42,0:04:00.38,saint tail default,,0,0,0,,{TIME:239427,240386}– Nine!\N– …from St. Paulia's School.
-Dialogue: 0,0:04:00.47,0:04:01.47,saint tail default,,0,0,0,,{TIME:240470,241471}– Ten!\N– Her family has had a Dojo…
-Dialogue: 0,0:04:01.59,0:04:04.01,saint tail default,,0,0,0,,{TIME:241596,244015}– One! Two!\N– …for a long time.
-Dialogue: 0,0:04:05.05,0:04:06.05,saint tail default,,0,0,0,,{TIME:245057,246058}– Three!\N– If I remember correctly…
-Dialogue: 0,0:04:06.18,0:04:07.14,saint tail default,,0,0,0,,{TIME:246184,247143}– Four!\N– …her grandfather, Saburota…
-Dialogue: 0,0:04:07.26,0:04:08.77,saint tail default,,0,0,0,,{TIME:247268,248770}– Five!\N– …is the owner of a Dojo.
-Dialogue: 0,0:04:09.27,0:04:10.68,saint tail default,,0,0,0,,{TIME:249270,250688}– Six!\N– He's considered…
-Dialogue: 0,0:04:10.85,0:04:12.02,saint tail default,,0,0,0,,{TIME:250855,252023}– Seven!\N– …the best in town.
-Dialogue: 0,0:04:12.39,0:04:13.69,saint tail default,,0,0,0,,{TIME:252398,253691}– Eight!\N– A man named…
-Dialogue: 0,0:04:13.77,0:04:15.44,saint tail default,,0,0,0,,{TIME:253775,255443}– Nine! Ten!\N– … Kumayama challenged him.
-Dialogue: 0,0:04:16.40,0:04:17.36,saint tail default,,0,0,0,,{TIME:256402,257361}Ten more!
-Dialogue: 0,0:04:20.11,0:04:23.70,saint tail default,,0,0,0,,{TIME:260114,263701}If I win, I'll take\Nthe famous sword, Munemasa.
-Dialogue: 0,0:04:24.61,0:04:26.07,saint tail default,,0,0,0,,{TIME:264619,266078}The famous sword\NMunemasa…
-Dialogue: 0,0:04:26.20,0:04:27.95,saint tail default,,0,0,0,,{TIME:266204,267955}…is an heirloom\Nin Noriko's family…
-Dialogue: 0,0:04:28.28,0:04:29.99,saint tail default,,0,0,0,,{TIME:268289,269999}…which has been passed on\Nfrom generation to generation.
-Dialogue: 0,0:04:36.08,0:04:37.04,saint tail default,,0,0,0,,{TIME:276088,277048}Grandpa!
-Dialogue: 0,0:04:37.29,0:04:38.25,saint tail default,,0,0,0,,{TIME:277298,278257}Grandpa!
-Dialogue: 0,0:04:39.71,0:04:42.72,saint tail default,,0,0,0,,{TIME:279717,282720}A promise is a promise.\NI'll take Munemasa.
-Dialogue: 0,0:04:46.72,0:04:49.76,saint tail default,,0,0,0,,{TIME:286724,289769}Since then her grandfather\Nhasn't been well…
-Dialogue: 0,0:04:50.01,0:04:53.81,saint tail default,,0,0,0,,{TIME:290019,293815}…and keeps saying\Nthat he is sorry to his ancestors.
-Dialogue: 0,0:04:57.61,0:05:01.19,saint tail default,,0,0,0,,{TIME:297610,301197}Today, Noriko is going to compete\Nagainst Mr. Kumayama.
-Dialogue: 0,0:05:01.61,0:05:04.45,saint tail default,,0,0,0,,{TIME:301614,304450}That means she is looking\Nto avenge her grandfather.
-Dialogue: 0,0:05:07.03,0:05:08.53,saint tail default,,0,0,0,,{TIME:307036,308538}Kumayama… Kumayama…
-Dialogue: 0,0:05:08.83,0:05:09.83,saint tail default,,0,0,0,,{TIME:308830,309831}Oh, that must be it!
-Dialogue: 0,0:05:09.95,0:05:15.83,saint tail default,,0,0,0,,{TIME:309956,315837}KUMAYAMA DOJO
-Dialogue: 0,0:05:18.58,0:05:22.05,saint tail default,,0,0,0,,{TIME:318589,322051}If I win, you promise that you'll\Nreturn the Munemasa to me, right?
-Dialogue: 0,0:05:22.88,0:05:25.72,saint tail default,,0,0,0,,{TIME:322885,325721}I consider myself an honorable\Nmartial artist. I don't lie.
-Dialogue: 0,0:05:25.88,0:05:30.01,saint tail default,,0,0,0,,{TIME:325888,330017}AIthough I don't think\NI'll lose to little girl like you.
-Dialogue: 0,0:05:37.94,0:05:39.94,saint tail default,,0,0,0,,{TIME:337942,339944}No time limit.\NOne shot decides.
-Dialogue: 0,0:05:40.44,0:05:41.98,saint tail default,,0,0,0,,{TIME:340444,341988}Bow to each other!
-Dialogue: 0,0:05:48.49,0:05:49.53,saint tail default,,0,0,0,,{TIME:348494,349537}Begin!
-Dialogue: 0,0:06:00.08,0:06:01.21,saint tail default,,0,0,0,,{TIME:360089,361215}Kote (hand)!
-Dialogue: 0,0:06:01.34,0:06:02.30,saint tail default,,0,0,0,,{TIME:361340,362300}Men (head)!
-Dialogue: 0,0:06:11.72,0:06:13.31,saint tail default,,0,0,0,,{TIME:371726,373311}Hang in there, Noriko!
-Dialogue: 0,0:06:44.34,0:06:45.88,saint tail default,,0,0,0,,{TIME:404342,405885}Do (Chest)!
-Dialogue: 0,0:06:47.92,0:06:48.97,saint tail default,,0,0,0,,{TIME:407929,408971}Count "Do!"
-Dialogue: 0,0:06:50.38,0:06:51.97,saint tail default,,0,0,0,,{TIME:410389,411974}Great! Mr. Kumayama!
-Dialogue: 0,0:06:55.72,0:06:57.14,saint tail default,,0,0,0,,{TIME:415728,417146}Wait a minute!
-Dialogue: 0,0:06:58.64,0:07:01.10,saint tail default,,0,0,0,,{TIME:418648,421108}Noriko won the match!
-Dialogue: 0,0:07:01.23,0:07:02.27,saint tail default,,0,0,0,,{TIME:421233,422276}Who are you?
-Dialogue: 0,0:07:02.36,0:07:05.65,saint tail default,,0,0,0,,{TIME:422360,425655}I saw you cheat!
-Dialogue: 0,0:07:05.86,0:07:07.28,saint tail default,,0,0,0,,{TIME:425863,427281}What did you say?!
-Dialogue: 0,0:07:07.36,0:07:08.49,saint tail default,,0,0,0,,{TIME:427365,428491}What?!
-Dialogue: 0,0:07:08.61,0:07:10.20,saint tail default,,0,0,0,,{TIME:428616,430201}Stop it, Meimi!
-Dialogue: 0,0:07:11.82,0:07:13.03,saint tail default,,0,0,0,,{TIME:431827,433037}But…!
-Dialogue: 0,0:07:13.57,0:07:15.08,saint tail default,,0,0,0,,{TIME:433579,435081}Thank you very much.
-Dialogue: 0,0:07:16.41,0:07:17.54,saint tail default,,0,0,0,,{TIME:436415,437541}Noriko!
-Dialogue: 0,0:07:20.37,0:07:23.08,saint tail default,,0,0,0,,{TIME:440378,443089}Aren't you frustrated, Noriko?!
-Dialogue: 0,0:07:23.21,0:07:25.38,saint tail default,,0,0,0,,{TIME:443214,445383}No matter how you lose\Nthe match, a loss is a loss.
-Dialogue: 0,0:07:25.50,0:07:26.63,saint tail default,,0,0,0,,{TIME:445508,446634}No way…!
-Dialogue: 0,0:07:27.67,0:07:31.09,saint tail default,,0,0,0,,{TIME:447677,451097}My grandfather always says so.
-Dialogue: 0,0:07:31.47,0:07:33.76,saint tail default,,0,0,0,,{TIME:451472,453766}But if that's true…!
-Dialogue: 0,0:07:37.81,0:07:40.06,saint tail default,,0,0,0,,{TIME:457812,460064}Thank you, Meimi.
-Dialogue: 0,0:07:40.27,0:07:41.77,saint tail default,,0,0,0,,{TIME:460272,461774}Noriko…
-Dialogue: 0,0:07:41.85,0:07:42.94,saint tail default,,0,0,0,,{TIME:461857,462942}See you, then.
-Dialogue: 0,0:07:47.57,0:07:49.99,saint tail default,,0,0,0,,{TIME:467571,469991}She is, indeed,\NSaburota's granddaughter…
-Dialogue: 0,0:07:50.11,0:07:52.24,saint tail default,,0,0,0,,{TIME:470116,472243}I almost lost.
-Dialogue: 0,0:07:52.78,0:07:55.28,saint tail default,,0,0,0,,{TIME:472785,475287}Before she\Nchallenges me again…
-Dialogue: 0,0:07:55.49,0:07:58.83,saint tail default,,0,0,0,,{TIME:475496,478833}… I'll have to hide\Nthe Munemasa somewhere…
-Dialogue: 0,0:08:03.42,0:08:06.88,saint tail default,,0,0,0,,{TIME:483421,486882}That's my chair, Mouse Kid.
-Dialogue: 0,0:08:15.14,0:08:17.89,saint tail default,,0,0,0,,{TIME:495141,497893}It's a good sword.\NWe can sell it at a high price.
-Dialogue: 0,0:08:18.01,0:08:19.52,saint tail default,,0,0,0,,{TIME:498019,499520}Don't say something so stupid.
-Dialogue: 0,0:08:19.97,0:08:23.02,saint tail default,,0,0,0,,{TIME:499979,503024}I earned this sword\Nafter I fought with Saburota.
-Dialogue: 0,0:08:23.44,0:08:25.15,saint tail default,,0,0,0,,{TIME:503441,505151}I will never sell it.
-Dialogue: 0,0:08:26.15,0:08:27.52,saint tail default,,0,0,0,,{TIME:506152,507528}I know that!
-Dialogue: 0,0:08:29.69,0:08:32.70,saint tail default,,0,0,0,,{TIME:509697,512700}Because of this sword,\NI'm rising in rank…
-Dialogue: 0,0:08:33.07,0:08:34.86,saint tail default,,0,0,0,,{TIME:513075,514869}…and the number\Nof my students has increased.
-Dialogue: 0,0:08:35.95,0:08:38.24,saint tail default,,0,0,0,,{TIME:515953,518247}You're an important\Ncustomer to me.
-Dialogue: 0,0:08:38.58,0:08:41.29,saint tail default,,0,0,0,,{TIME:518581,521292}I won't steal the sword from you.
-Dialogue: 0,0:08:41.62,0:08:42.96,saint tail default,,0,0,0,,{TIME:521625,522960}And what do you have today?
-Dialogue: 0,0:08:50.30,0:08:51.26,saint tail default,,0,0,0,,{TIME:530301,531260}This.
-Dialogue: 0,0:08:52.34,0:08:54.55,saint tail default,,0,0,0,,{TIME:532344,534555}That's one of the best swords,\NKikuchiyo, isn't it?
-Dialogue: 0,0:08:59.35,0:09:01.06,saint tail default,,0,0,0,,{TIME:539351,541062}Do you like it?
-Dialogue: 0,0:09:02.60,0:09:06.52,saint tail default,,0,0,0,,{TIME:542605,546525}Another fantastic sword\Nis added to my collection.
-Dialogue: 0,0:09:06.98,0:09:09.27,saint tail default,,0,0,0,,{TIME:546984,549278}All of it is due to me.
-Dialogue: 0,0:09:09.65,0:09:10.98,saint tail default,,0,0,0,,{TIME:549653,550988}I know that.
-Dialogue: 0,0:09:24.33,0:09:26.33,saint tail default,,0,0,0,,{TIME:564335,566337}This is what I promised you.\NPlease examine it.
-Dialogue: 0,0:09:27.33,0:09:30.63,saint tail default,,0,0,0,,{TIME:567338,570633}That Kumayama is really unfair!
-Dialogue: 0,0:09:32.84,0:09:37.47,saint tail default,,0,0,0,,{TIME:572843,577473}"I couldn't get Munemasa back.\NGrandfather, I'm sorry."
-Dialogue: 0,0:09:37.84,0:09:38.84,saint tail default,,0,0,0,,{TIME:577848,578849}What?
-Dialogue: 0,0:09:38.97,0:09:41.93,saint tail default,,0,0,0,,{TIME:578974,581936}Noriko came by to say\Nthat prayer a little while ago.
-Dialogue: 0,0:09:43.14,0:09:44.85,saint tail default,,0,0,0,,{TIME:583145,584855}It's time for St. Tail, isn't it?
-Dialogue: 0,0:09:45.60,0:09:49.15,saint tail default,,0,0,0,,{TIME:585606,589151}Let's get the fabulous\NMunemasa sword back ourselves.
-Dialogue: 0,0:09:49.69,0:09:50.90,saint tail default,,0,0,0,,{TIME:589693,590903}You're right!
-Dialogue: 0,0:09:51.23,0:09:54.90,saint tail default,,0,0,0,,{TIME:591237,594907}St. Tail will teach that fake\Nmarital artist a harsh lesson!
-Dialogue: 0,0:10:01.74,0:10:03.83,saint tail default,,0,0,0,,{TIME:601747,603833}"Tonight I'm taking\Nthe fabulous Munemasa sword…
-Dialogue: 0,0:10:03.95,0:10:05.66,saint tail default,,0,0,0,,{TIME:603958,605668}…from the Kumayama Dojo.
-Dialogue: 0,0:10:05.83,0:10:06.91,saint tail default,,0,0,0,,{TIME:605835,606919}– St. Tail"
-Dialogue: 0,0:10:08.75,0:10:10.25,saint tail default,,0,0,0,,{TIME:608754,610256}What?!
-Dialogue: 0,0:10:17.22,0:10:20.55,saint tail default,,0,0,0,,{TIME:617221,620558}Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
-Dialogue: 0,0:10:25.93,0:10:26.89,saint tail default,,0,0,0,,{TIME:625938,626897}One!
-Dialogue: 0,0:10:29.48,0:10:30.44,saint tail default,,0,0,0,,{TIME:629483,630442}Two!
-Dialogue: 0,0:10:32.73,0:10:35.44,saint tail default,,0,0,0,,{TIME:632736,635447}Three!
-Dialogue: 0,0:10:48.75,0:10:50.50,saint tail default,,0,0,0,,{TIME:648752,650504}Be careful, Meimi.
-Dialogue: 0,0:10:51.00,0:10:52.13,saint tail default,,0,0,0,,{TIME:651005,652131}It Iooks like…
-Dialogue: 0,0:10:52.25,0:10:54.71,saint tail default,,0,0,0,,{TIME:652256,654717}… Kumayama has some sort\Nof connection to the Mouse Kid.
-Dialogue: 0,0:10:55.09,0:10:56.42,saint tail default,,0,0,0,,{TIME:655092,656427}The Mouse Kid?!
-Dialogue: 0,0:10:56.88,0:10:57.97,saint tail default,,0,0,0,,{TIME:656886,657970}Isn't he the one…
-Dialogue: 0,0:10:58.05,0:11:00.13,saint tail default,,0,0,0,,{TIME:658053,660139}…who's stolen many swords\Nfrom different places?
-Dialogue: 0,0:11:02.22,0:11:04.31,saint tail default,,0,0,0,,{TIME:662224,664310}After hearing about\NSt. Tail's warning note…
-Dialogue: 0,0:11:04.56,0:11:06.81,saint tail default,,0,0,0,,{TIME:664560,666812}…he may set something up.
-Dialogue: 0,0:11:07.06,0:11:08.14,saint tail default,,0,0,0,,{TIME:667062,668147}Don't worry!
-Dialogue: 0,0:11:08.39,0:11:11.73,saint tail default,,0,0,0,,{TIME:668397,671734}Sacred tail doesn't\Nlose to a mouse thief!
-Dialogue: 0,0:11:11.85,0:11:13.61,saint tail default,,0,0,0,,{TIME:671859,673611}I'm going to teach him\Na lesson using Kumayama!
-Dialogue: 0,0:11:14.27,0:11:15.40,saint tail default,,0,0,0,,{TIME:674278,675404}I'm counting on you!
-Dialogue: 0,0:11:17.90,0:11:21.11,saint tail default,,0,0,0,,{TIME:677907,681118}May the blessings\Nof God be with us.
-Dialogue: 0,0:11:40.63,0:11:42.51,saint tail default,,0,0,0,,{TIME:700638,702514}Please calm down,\NMr. Kumayama.
-Dialogue: 0,0:11:42.72,0:11:44.26,saint tail default,,0,0,0,,{TIME:702723,704266}How can I calm down?!
-Dialogue: 0,0:11:44.43,0:11:46.89,saint tail default,,0,0,0,,{TIME:704433,706894}The Munemasa\Nhas been targeted!
-Dialogue: 0,0:11:47.14,0:11:49.23,saint tail default,,0,0,0,,{TIME:707144,709230}Don't worry.\NOur security is perfect.
-Dialogue: 0,0:11:49.77,0:11:52.44,saint tail default,,0,0,0,,{TIME:709772,712441}We'll protect your Munemasa.
-Dialogue: 0,0:11:52.94,0:11:55.40,saint tail default,,0,0,0,,{TIME:712942,715402}I'm counting on you, Asuka Jr.
-Dialogue: 0,0:11:56.44,0:12:01.15,saint tail default,,0,0,0,,{TIME:716445,721158}I can't show weakness\Nin front of my students.
-Dialogue: 0,0:12:02.32,0:12:06.28,saint tail default,,0,0,0,,{TIME:722326,726288}Being a top martial artist\Nputs a lot of pressure on you.
-Dialogue: 0,0:12:07.24,0:12:09.20,saint tail default,,0,0,0,,{TIME:727248,729208}It's almost time.
-Dialogue: 0,0:12:09.70,0:12:11.83,saint tail default,,0,0,0,,{TIME:729708,731835}I'm going to check\Non our security guards.
-Dialogue: 0,0:12:17.04,0:12:18.88,saint tail default,,0,0,0,,{TIME:737049,738884}Everything is going\Naccording to my plan.
-Dialogue: 0,0:12:19.30,0:12:21.55,saint tail default,,0,0,0,,{TIME:739301,741553}Bring it on, St. Tail!
+Dialogue: 0,0:03:53.25,0:03:54.21,saint tail default,,0,0,0,,{TIME:233254,234213}Five!
+Dialogue: 0,0:03:54.71,0:03:55.67,saint tail default,,0,0,0,,{TIME:234714,235673}Six!
+Dialogue: 0,0:03:56.29,0:03:57.25,saint tail default,,0,0,0,,{TIME:236299,237258}{\an8}Seven!
+Dialogue: 0,0:03:57.92,0:03:58.88,saint tail default,,0,0,0,,{TIME:237925,238885}{\an8}Eight!
+Dialogue: 0,0:03:59.42,0:04:00.38,saint tail default,,0,0,0,,{TIME:239427,240386}{\an8}Nine!
+Dialogue: 0,0:04:00.97,0:04:01.92,saint tail default,,0,0,0,,{TIME:240970,241929}{\an8}Ten!
+Dialogue: 0,0:04:02.34,0:04:03.30,saint tail default,,0,0,0,,{TIME:242346,243306}{\an8}One!
+Dialogue: 0,0:04:03.84,0:04:04.80,saint tail default,,0,0,0,,{TIME:243848,244807}{\an8}Two!
+Dialogue: 0,0:04:05.22,0:04:06.18,saint tail default,,0,0,0,,{TIME:245224,246184}{\an8}Three!
+Dialogue: 0,0:04:06.55,0:04:07.51,saint tail default,,0,0,0,,{TIME:246559,247518}{\an8}Four!
+Dialogue: 0,0:04:07.93,0:04:08.89,saint tail default,,0,0,0,,{TIME:247935,248895}{\an8}Five!
+Dialogue: 0,0:04:09.43,0:04:10.39,saint tail default,,0,0,0,,{TIME:249437,250396}{\an8}Six!
+Dialogue: 0,0:04:10.85,0:04:11.81,saint tail default,,0,0,0,,{TIME:250855,251814}{\an8}Seven!
+Dialogue: 0,0:04:12.39,0:04:13.35,saint tail default,,0,0,0,,{TIME:252398,253357}{\an8}Eight!
+Dialogue: 0,0:04:13.77,0:04:14.73,saint tail default,,0,0,0,,{TIME:253775,254734}{\an8}Nine!
+Dialogue: 0,0:04:14.94,0:04:15.90,saint tail default,,0,0,0,,{TIME:254942,255902}{\an8}Ten!
+Dialogue: 0,0:03:56.29,0:03:59.63,saint tail default,,0,0,0,,{TIME:236299,239635}Noriko is considered a talented\Nmartial artist from St. Paulia's School.
+Dialogue: 0,0:03:59.63,0:04:04.80,saint tail default,,0,0,0,,{TIME:239635,244807}Her family has had a Dojo\Nfor a long time.
+Dialogue: 0,0:04:04.80,0:04:09.43,saint tail default,,0,0,0,,{TIME:244807,249437}If I remember correctly, her grandfather,\NSaburota, is the owner of a Dojo.
+Dialogue: 0,0:04:09.43,0:04:12.44,saint tail default,,0,0,0,,{TIME:249437,252440}He's considered the best in town.
+Dialogue: 0,0:04:12.44,0:04:15.90,saint tail default,,0,0,0,,{TIME:252440,255902}A man named\NKumayama challenged him.
+Dialogue: 0,0:04:16.44,0:04:17.61,saint tail default,,0,0,0,,{TIME:256444,257612}Ten more!
+Dialogue: 0,0:04:20.23,0:04:23.86,saint tail default,,0,0,0,,{TIME:260239,263868}If I win, I'll take\Nthe famous sword, Munemasa.
+Dialogue: 0,0:04:24.74,0:04:28.33,saint tail default,,0,0,0,,{TIME:264744,268331}The famous sword Munemasa\Nis an heirloom in Noriko's family,
+Dialogue: 0,0:04:28.33,0:04:30.58,saint tail default,,0,0,0,,{TIME:268331,270583}which has been passed on\Nfor generations.
+Dialogue: 0,0:04:36.25,0:04:37.42,saint tail default,,0,0,0,,{TIME:276255,277423}Grandpa!
+Dialogue: 0,0:04:37.42,0:04:38.46,saint tail default,,0,0,0,,{TIME:277423,278466}Grandpa!
+Dialogue: 0,0:04:39.92,0:04:42.80,saint tail default,,0,0,0,,{TIME:279926,282804}A promise is a promise.\NI'll take Munemasa.
+Dialogue: 0,0:04:46.72,0:04:50.14,saint tail default,,0,0,0,,{TIME:286724,290144}Since then her grandfather\Nhasn't been well
+Dialogue: 0,0:04:50.14,0:04:53.81,saint tail default,,0,0,0,,{TIME:290144,293815}and keeps saying\Nthat he is sorry to his ancestors.
+Dialogue: 0,0:04:57.73,0:05:01.73,saint tail default,,0,0,0,,{TIME:297735,301739}Today, Noriko is going to compete\Nagainst Mr. Kumayama.
+Dialogue: 0,0:05:01.73,0:05:04.57,saint tail default,,0,0,0,,{TIME:301739,304575}That means she is looking\Nto avenge her grandfather.
+Dialogue: 0,0:05:07.11,0:05:08.53,saint tail default,,0,0,0,,{TIME:307119,308538}Kumayama… Kumayama…
+Dialogue: 0,0:05:09.20,0:05:10.87,saint tail default,,0,0,0,,{TIME:309205,310873}Oh, that must be it!
+Dialogue: 0,0:05:10.03,0:05:16.00,saint tail sign,(sign),0,0,0,,{TIME:310039,316003}Kumayama Dojo
+Dialogue: 0,0:05:18.75,0:05:22.96,saint tail default,,0,0,0,,{TIME:318756,322969}If I win, you promise that you'll\Nreturn the Munemasa to me, right?
+Dialogue: 0,0:05:22.96,0:05:25.97,saint tail default,,0,0,0,,{TIME:322969,325972}I consider myself an honorable\Nmartial artist. I don't lie.
+Dialogue: 0,0:05:25.97,0:05:30.43,saint tail default,,0,0,0,,{TIME:325972,330434}Although I don't think\NI'll lose to little girl like you.
+Dialogue: 0,0:05:38.10,0:05:40.61,saint tail default,,0,0,0,,{TIME:338109,340611}No time limit.\NOne shot decides.
+Dialogue: 0,0:05:40.61,0:05:42.28,saint tail default,,0,0,0,,{TIME:340611,342280}Bow to each other!
+Dialogue: 0,0:05:48.61,0:05:49.53,saint tail default,,0,0,0,,{TIME:348619,349537}Begin!
+Dialogue: 0,0:06:00.59,0:06:01.46,saint tail default,,0,0,0,,{TIME:360590,361465}Kote (hand)!
+Dialogue: 0,0:06:01.46,0:06:02.38,saint tail default,,0,0,0,,{TIME:361465,362383}Men (head)!
+Dialogue: 0,0:06:12.14,0:06:13.68,saint tail default,,0,0,0,,{TIME:372143,373686}{\i1}Hang in there, Noriko!
+Dialogue: 0,0:06:44.50,0:06:45.92,saint tail default,,0,0,0,,{TIME:404508,405927}Do (Chest)!
+Dialogue: 0,0:06:48.26,0:06:48.93,saint tail default,,0,0,0,,{TIME:408262,408930}Count "Do"!
+Dialogue: 0,0:06:50.59,0:06:52.18,saint tail default,,0,0,0,,{TIME:410598,412183}Great! Mr. Kumayama!
+Dialogue: 0,0:06:55.81,0:06:57.35,saint tail default,,0,0,0,,{TIME:415811,417355}Wait a minute!
+Dialogue: 0,0:06:58.81,0:07:01.31,saint tail default,,0,0,0,,{TIME:418814,421317}Noriko won the match!
+Dialogue: 0,0:07:01.31,0:07:02.44,saint tail default,,0,0,0,,{TIME:421317,422443}Who are you?
+Dialogue: 0,0:07:02.44,0:07:06.15,saint tail default,,0,0,0,,{TIME:422443,426155}I saw you cheat!
+Dialogue: 0,0:07:06.15,0:07:07.57,saint tail default,,0,0,0,,{TIME:426155,427573}What did you say?!
+Dialogue: 0,0:07:07.57,0:07:08.74,saint tail default,,0,0,0,,{TIME:427573,428741}What?!
+Dialogue: 0,0:07:08.74,0:07:10.82,saint tail default,,0,0,0,,{TIME:428741,430826}Stop it, Meimi!
+Dialogue: 0,0:07:11.99,0:07:13.03,saint tail default,,0,0,0,,{TIME:431994,433037}But…
+Dialogue: 0,0:07:13.66,0:07:15.08,saint tail default,,0,0,0,,{TIME:433663,435081}Thank you very much.
+Dialogue: 0,0:07:16.58,0:07:17.79,saint tail default,,0,0,0,,{TIME:436582,437792}Noriko!
+Dialogue: 0,0:07:20.46,0:07:23.21,saint tail default,,0,0,0,,{TIME:440461,443214}Aren't you frustrated, Noriko?!
+Dialogue: 0,0:07:23.21,0:07:25.80,saint tail default,,0,0,0,,{TIME:443214,445800}No matter how you lose\Nthe match, a loss is a loss.
+Dialogue: 0,0:07:25.80,0:07:26.75,saint tail default,,0,0,0,,{TIME:445800,446759}No way!
+Dialogue: 0,0:07:27.67,0:07:31.84,saint tail default,,0,0,0,,{TIME:447677,451847}My grandfather always says so.
+Dialogue: 0,0:07:31.84,0:07:34.18,saint tail default,,0,0,0,,{TIME:451847,454183}But if that's true…
+Dialogue: 0,0:07:38.27,0:07:40.31,saint tail default,,0,0,0,,{TIME:458270,460314}Thank you, Meimi.
+Dialogue: 0,0:07:40.31,0:07:41.89,saint tail default,,0,0,0,,{TIME:460314,461899}Noriko…
+Dialogue: 0,0:07:41.89,0:07:42.69,saint tail default,,0,0,0,,{TIME:461899,462692}See you, then.
+Dialogue: 0,0:07:47.65,0:07:50.28,saint tail default,,0,0,0,,{TIME:467655,470282}{\i1}She is, indeed,\NSaburota's granddaughter.
+Dialogue: 0,0:07:50.28,0:07:52.95,saint tail default,,0,0,0,,{TIME:470282,472952}{\i1}I almost lost.
+Dialogue: 0,0:07:52.95,0:07:59.62,saint tail default,,0,0,0,,{TIME:472952,479625}{\i1}Before she challenges me again,\NI'll have to hide Munemasa somewhere.
+Dialogue: 0,0:08:03.71,0:08:07.17,saint tail default,,0,0,0,,{TIME:483713,487174}That's my chair, Mouse Kid.
+Dialogue: 0,0:08:15.39,0:08:18.22,saint tail default,,0,0,0,,{TIME:495391,498227}It's a good sword.\NWe can sell it at a high price.
+Dialogue: 0,0:08:18.22,0:08:20.10,saint tail default,,0,0,0,,{TIME:498227,500104}Don't say something so stupid.
+Dialogue: 0,0:08:20.10,0:08:23.64,saint tail default,,0,0,0,,{TIME:500104,503649}I earned this sword\Nafter I fought with Saburota.
+Dialogue: 0,0:08:23.64,0:08:26.27,saint tail default,,0,0,0,,{TIME:503649,506277}I will never sell it.
+Dialogue: 0,0:08:26.27,0:08:27.65,saint tail default,,0,0,0,,{TIME:506277,507653}I know that!
+Dialogue: 0,0:08:29.90,0:08:35.11,saint tail default,,0,0,0,,{TIME:509905,515119}Because of this sword, I'm rising in rank\Nand the number of my students has increased.
+Dialogue: 0,0:08:36.12,0:08:38.78,saint tail default,,0,0,0,,{TIME:516120,518789}You're an important\Ncustomer to me.
+Dialogue: 0,0:08:38.78,0:08:41.75,saint tail default,,0,0,0,,{TIME:518789,521751}I won't steal the sword from you.
+Dialogue: 0,0:08:41.75,0:08:43.37,saint tail default,,0,0,0,,{TIME:521751,523377}And what do you have today?
+Dialogue: 0,0:08:50.42,0:08:51.46,saint tail default,,0,0,0,,{TIME:530426,531469}This.
+Dialogue: 0,0:08:52.76,0:08:55.01,saint tail default,,0,0,0,,{TIME:532762,535014}That's one of the best swords,\NKikuchiyo, isn't it?
+Dialogue: 0,0:08:59.64,0:09:01.68,saint tail default,,0,0,0,,{TIME:539643,541687}Do you like it?
+Dialogue: 0,0:09:03.06,0:09:07.23,saint tail default,,0,0,0,,{TIME:543064,547234}Another fantastic sword\Nis added to my collection.
+Dialogue: 0,0:09:07.23,0:09:09.86,saint tail default,,0,0,0,,{TIME:547234,549862}All of it is due to me.
+Dialogue: 0,0:09:09.86,0:09:11.11,saint tail default,,0,0,0,,{TIME:549862,551113}I know that.
+Dialogue: 0,0:09:24.54,0:09:26.71,saint tail default,,0,0,0,,{TIME:564543,566712}This is what I promised you.\NPlease examine it.
+Dialogue: 0,0:09:27.50,0:09:31.67,saint tail default,,0,0,0,,{TIME:567505,571675}That Kumayama is really unfair!
+Dialogue: 0,0:09:33.09,0:09:38.05,saint tail default,,0,0,0,,{TIME:573094,578057}"I couldn't get Munemasa back.\NGrandfather, I'm sorry."
+Dialogue: 0,0:09:38.05,0:09:39.10,saint tail default,,0,0,0,,{TIME:578057,579100}What?
+Dialogue: 0,0:09:39.10,0:09:42.64,saint tail default,,0,0,0,,{TIME:579100,582645}Noriko came by to say\Nthat prayer a little while ago.
+Dialogue: 0,0:09:43.27,0:09:45.85,saint tail default,,0,0,0,,{TIME:583270,585856}It's time for St. Tail, isn't it?
+Dialogue: 0,0:09:45.85,0:09:49.61,saint tail default,,0,0,0,,{TIME:585856,589610}Let's get the fabulous\NMunemasa sword back ourselves.
+Dialogue: 0,0:09:49.94,0:09:51.36,saint tail default,,0,0,0,,{TIME:589944,591362}You're right!
+Dialogue: 0,0:09:51.36,0:09:55.57,saint tail default,,0,0,0,,{TIME:591362,595574}St. Tail will teach that fake\Nmartial artist a harsh lesson!
+Dialogue: 0,0:10:02.08,0:10:07.92,saint tail default,,0,0,0,,{TIME:602081,607920}"Tonight I'm taking the fabulous Munemasa\Nsword from the Kumayama Dojo. – St. Tail"
+Dialogue: 0,0:10:09.21,0:10:10.75,saint tail default,,0,0,0,,{TIME:609213,610756}What?!
+Dialogue: 0,0:10:17.30,0:10:21.26,saint tail default,,0,0,0,,{TIME:617304,621267}Oh, Lord, forgive me,\Nfor I use no gimmick or trick.
+Dialogue: 0,0:10:26.27,0:10:27.27,saint tail default,,0,0,0,,{TIME:626272,627273}One!
+Dialogue: 0,0:10:29.52,0:10:30.94,saint tail default,,0,0,0,,{TIME:629525,630943}Two!
+Dialogue: 0,0:10:32.86,0:10:35.44,saint tail default,,0,0,0,,{TIME:632862,635447}Three!
+Dialogue: 0,0:10:48.96,0:10:51.08,saint tail default,,0,0,0,,{TIME:648961,651088}Be careful, Meimi.
+Dialogue: 0,0:10:51.08,0:10:55.34,saint tail default,,0,0,0,,{TIME:651088,655342}It looks like Kumayama has some sort\Nof connection to the Mouse Kid.
+Dialogue: 0,0:10:55.34,0:10:57.09,saint tail default,,0,0,0,,{TIME:655342,657094}The Mouse Kid?!
+Dialogue: 0,0:10:57.09,0:11:00.80,saint tail default,,0,0,0,,{TIME:657094,660806}Isn't he the one who's stolen\Nmany swords from different places?
+Dialogue: 0,0:11:02.43,0:11:07.31,saint tail default,,0,0,0,,{TIME:662433,667313}After hearing about St. Tail's warning note,\Nhe may set something up.
+Dialogue: 0,0:11:07.31,0:11:08.56,saint tail default,,0,0,0,,{TIME:667313,668564}Don't worry!
+Dialogue: 0,0:11:08.56,0:11:12.02,saint tail default,,0,0,0,,{TIME:668564,672026}Sacred tail doesn't\Nlose to a mouse thief!
+Dialogue: 0,0:11:12.02,0:11:13.90,saint tail default,,0,0,0,,{TIME:672026,673903}I'm going to teach him\Na lesson using Kumayama!
+Dialogue: 0,0:11:14.48,0:11:15.86,saint tail default,,0,0,0,,{TIME:674486,675863}I'm counting on you!
+Dialogue: 0,0:11:18.11,0:11:21.82,saint tail default,,0,0,0,,{TIME:678115,681827}May the blessings of God be with us.
+Dialogue: 0,0:11:40.97,0:11:42.93,saint tail default,,0,0,0,,{TIME:700971,702932}Please calm down,\NMr. Kumayama.
+Dialogue: 0,0:11:42.93,0:11:44.80,saint tail default,,0,0,0,,{TIME:702932,704808}How can I calm down?!
+Dialogue: 0,0:11:44.80,0:11:47.31,saint tail default,,0,0,0,,{TIME:704808,707311}The Munemasa has been targeted!
+Dialogue: 0,0:11:47.31,0:11:49.98,saint tail default,,0,0,0,,{TIME:707311,709980}Don't worry.\NOur security is perfect.
+Dialogue: 0,0:11:49.98,0:11:52.73,saint tail default,,0,0,0,,{TIME:709980,712733}We'll protect your Munemasa.
+Dialogue: 0,0:11:53.15,0:11:55.81,saint tail default,,0,0,0,,{TIME:713150,715819}I'm counting on you, Asuka Jr.
+Dialogue: 0,0:11:56.65,0:12:01.57,saint tail default,,0,0,0,,{TIME:716654,721575}I can't show weakness\Nin front of my students.
+Dialogue: 0,0:12:02.53,0:12:06.70,saint tail default,,0,0,0,,{TIME:722534,726705}Being a top martial artist\Nputs a lot of pressure on you.
+Dialogue: 0,0:12:07.53,0:12:09.91,saint tail default,,0,0,0,,{TIME:727539,729917}It's almost time.
+Dialogue: 0,0:12:09.91,0:12:12.71,saint tail default,,0,0,0,,{TIME:729917,732711}I'm going to check\Non our security guards.
+Dialogue: 0,0:12:17.25,0:12:19.42,saint tail default,,0,0,0,,{TIME:737258,739426}Everything is going\Naccording to my plan.
+Dialogue: 0,0:12:19.42,0:12:21.72,saint tail default,,0,0,0,,{TIME:739426,741720}Bring it on, St. Tail!
 Comment: 0,0:12:23.76,0:12:23.76,[chapter],[chapter],0,0,0,,{TIME:743764,743764}Eyecatch
 Comment: 0,0:12:28.76,0:12:28.76,[chapter],[chapter],0,0,0,,{TIME:748769,748769}Part B
-Dialogue: 0,0:12:38.65,0:12:39.82,saint tail default,,0,0,0,,{TIME:758654,759822}Is there anything unusual?
-Dialogue: 0,0:12:39.98,0:12:41.15,saint tail default,,0,0,0,,{TIME:759989,761156}Not so far!
-Dialogue: 0,0:12:41.69,0:12:42.95,saint tail default,,0,0,0,,{TIME:761699,762950}Huh? That's a…?
-Dialogue: 0,0:12:51.29,0:12:53.21,saint tail default,,0,0,0,,{TIME:771292,773210}Oh, it's just a balloon.
-Dialogue: 0,0:12:53.37,0:12:56.46,saint tail default,,0,0,0,,{TIME:773377,776463}Wait! It may be\Na trap set by St. Tail!
-Dialogue: 0,0:13:11.14,0:13:12.31,saint tail default,,0,0,0,,{TIME:791145,792313}Hey!
-Dialogue: 0,0:13:14.69,0:13:16.69,saint tail default,,0,0,0,,{TIME:794690,796692}Like I said, it's just a balloon.
+Dialogue: 0,0:12:38.61,0:12:39.86,saint tail default,,0,0,0,,{TIME:758612,759863}Is there anything unusual?
+Dialogue: 0,0:12:39.86,0:12:41.61,saint tail default,,0,0,0,,{TIME:759863,761615}Not so far!
+Dialogue: 0,0:12:41.61,0:12:43.49,saint tail default,,0,0,0,,{TIME:761615,763492}Huh? That's a…
+Dialogue: 0,0:12:51.29,0:12:53.50,saint tail default,,0,0,0,,{TIME:771292,773502}Oh, it's just a balloon.
+Dialogue: 0,0:12:53.50,0:12:56.46,saint tail default,,0,0,0,,{TIME:773502,776463}Wait! It may be\Na trap set by St. Tail!
+Dialogue: 0,0:13:11.22,0:13:12.39,saint tail default,,0,0,0,,{TIME:791228,792396}Hey!
+Dialogue: 0,0:13:15.27,0:13:16.98,saint tail default,,0,0,0,,{TIME:795274,796984}Like I said, it's just a balloon.
 Dialogue: 0,0:13:19.02,0:13:20.48,saint tail default,,0,0,0,,{TIME:799028,800487}What's this?!
-Dialogue: 0,0:13:20.69,0:13:21.82,saint tail default,,0,0,0,,{TIME:800696,801822}Asuka Jr.!
+Dialogue: 0,0:13:20.48,0:13:21.86,saint tail default,,0,0,0,,{TIME:800487,801864}Asuka Jr.!
 Dialogue: 0,0:13:22.15,0:13:24.57,saint tail default,,0,0,0,,{TIME:802156,804575}Asuka Jr.! Please help us!
-Dialogue: 0,0:13:24.70,0:13:26.16,saint tail default,,0,0,0,,{TIME:804700,806160}We're stuck in this stuff.
-Dialogue: 0,0:13:26.45,0:13:28.12,saint tail default,,0,0,0,,{TIME:806452,808120}What are you guys doing?!
-Dialogue: 0,0:13:29.74,0:13:31.66,saint tail default,,0,0,0,,{TIME:809747,811665}I can't get up!
-Dialogue: 0,0:13:31.95,0:13:34.08,saint tail default,,0,0,0,,{TIME:811957,814084}It's super glue!
-Dialogue: 0,0:13:34.41,0:13:36.42,saint tail default,,0,0,0,,{TIME:814418,816420}Let's help Asuka Jr.!
-Dialogue: 0,0:13:41.96,0:13:43.46,saint tail default,,0,0,0,,{TIME:821967,823469}St. Tail!
-Dialogue: 0,0:13:44.21,0:13:45.88,saint tail default,,0,0,0,,{TIME:824219,825888}Hey, wait a minute!
-Dialogue: 0,0:13:57.48,0:13:58.44,saint tail default,,0,0,0,,{TIME:837483,838442}Good evening!
-Dialogue: 0,0:13:58.81,0:14:00.81,saint tail default,,0,0,0,,{TIME:838817,840819}Everyone! Attack!
-Dialogue: 0,0:14:09.66,0:14:10.74,saint tail default,,0,0,0,,{TIME:849661,850746}It's…
-Dialogue: 0,0:14:12.66,0:14:15.12,saint tail default,,0,0,0,,{TIME:852664,855125}…Show…
-Dialogue: 0,0:14:16.21,0:14:18.04,saint tail default,,0,0,0,,{TIME:856210,858045}…Time!
-Dialogue: 0,0:14:21.84,0:14:23.42,saint tail default,,0,0,0,,{TIME:861840,863425}What are you guys doing?!
-Dialogue: 0,0:14:24.05,0:14:26.05,saint tail default,,0,0,0,,{TIME:864051,866053}We can't control our movements.
-Dialogue: 0,0:14:28.22,0:14:30.30,saint tail default,,0,0,0,,{TIME:868222,870307}It's St. Tail's line dance!
-Dialogue: 0,0:14:30.93,0:14:34.18,saint tail default,,0,0,0,,{TIME:870933,874186}It's a little disappointing\Nbecause we have all men.
-Dialogue: 0,0:14:38.52,0:14:39.48,saint tail default,,0,0,0,,{TIME:878524,879483}You…!
-Dialogue: 0,0:14:59.79,0:15:01.67,saint tail default,,0,0,0,,{TIME:899795,901672}I TOOK THE FAMOUS SWORD\NMUNEMASA INDEED. – ST. TAIL
+Dialogue: 0,0:13:24.57,0:13:26.53,saint tail default,,0,0,0,,{TIME:804575,806535}We're stuck in this stuff.
+Dialogue: 0,0:13:26.53,0:13:28.12,saint tail default,,0,0,0,,{TIME:806535,808120}What are you guys doing?!
+Dialogue: 0,0:13:29.83,0:13:32.04,saint tail default,,0,0,0,,{TIME:809830,812041}I can't get up!
+Dialogue: 0,0:13:32.04,0:13:34.08,saint tail default,,0,0,0,,{TIME:812041,814084}It's super glue!
+Dialogue: 0,0:13:34.62,0:13:36.58,saint tail default,,0,0,0,,{TIME:814626,816587}Let's help Asuka Jr.!
+Dialogue: 0,0:13:42.13,0:13:43.46,saint tail default,,0,0,0,,{TIME:822134,823469}St. Tail!
+Dialogue: 0,0:13:44.55,0:13:46.01,saint tail default,,0,0,0,,{TIME:824553,826013}Hey, wait a minute!
+Dialogue: 0,0:13:57.69,0:13:58.90,saint tail default,,0,0,0,,{TIME:837691,838901}Good evening!
+Dialogue: 0,0:13:58.90,0:14:00.94,saint tail default,,0,0,0,,{TIME:838901,840944}Everyone! Attack!
+Dialogue: 0,0:14:09.53,0:14:10.74,saint tail default,,0,0,0,,{TIME:849536,850746}It's…
+Dialogue: 0,0:14:12.28,0:14:15.12,saint tail default,,0,0,0,,{TIME:852289,855125}Show…
+Dialogue: 0,0:14:16.08,0:14:18.42,saint tail default,,0,0,0,,{TIME:856085,858420}Time!
+Dialogue: 0,0:14:21.67,0:14:23.42,saint tail default,,0,0,0,,{TIME:861673,863425}What are you guys doing?!
+Dialogue: 0,0:14:24.00,0:14:26.42,saint tail default,,0,0,0,,{TIME:864009,866428}We can't control our movements.
+Dialogue: 0,0:14:28.09,0:14:30.39,saint tail default,,0,0,0,,{TIME:868097,870391}It's St. Tail's line dance!
+Dialogue: 0,0:14:31.10,0:14:35.35,saint tail default,,0,0,0,,{TIME:871100,875354}It's a little disappointing\Nbecause we have all men.
+Dialogue: 0,0:14:38.31,0:14:39.48,saint tail default,,0,0,0,,{TIME:878315,879483}You…
+Dialogue: 0,0:14:59.71,0:15:01.67,saint tail sign,(sign),0,0,0,,{TIME:899711,901672}I Took The Famous Sword\NMunemasa, Indeed. – St. Tail
 Dialogue: 0,0:15:09.01,0:15:11.18,saint tail default,,0,0,0,,{TIME:909012,911181}Oh, no! It's too late!
-Dialogue: 0,0:15:13.93,0:15:14.93,saint tail default,,0,0,0,,{TIME:913934,914935}Shoot!
-Dialogue: 0,0:15:15.39,0:15:17.31,saint tail default,,0,0,0,,{TIME:915394,917312}I'm going to catch her!
-Dialogue: 0,0:15:24.06,0:15:25.86,saint tail default,,0,0,0,,{TIME:924069,925863}It's my decoy.
-Dialogue: 0,0:15:26.40,0:15:28.99,saint tail default,,0,0,0,,{TIME:926405,928991}I'm aware of your plan.
-Dialogue: 0,0:15:33.95,0:15:36.58,saint tail default,,0,0,0,,{TIME:933954,936582}You're the mysterious thief\NMouse Kid, aren't you?!
-Dialogue: 0,0:15:37.95,0:15:40.87,saint tail default,,0,0,0,,{TIME:937958,940878}I will take the famous\NMunemasa sword!
-Dialogue: 0,0:15:43.00,0:15:44.13,saint tail default,,0,0,0,,{TIME:943005,944131}That's Mouse Kid!
+Dialogue: 0,0:15:13.85,0:15:15.06,saint tail default,,0,0,0,,{TIME:913851,915060}Shoot!
+Dialogue: 0,0:15:15.89,0:15:17.85,saint tail default,,0,0,0,,{TIME:915894,917855}I'm going to catch her!
+Dialogue: 0,0:15:24.19,0:15:26.28,saint tail default,,0,0,0,,{TIME:924194,926280}It's my decoy.
+Dialogue: 0,0:15:26.28,0:15:28.99,saint tail default,,0,0,0,,{TIME:926280,928991}I'm aware of your plan.
+Dialogue: 0,0:15:34.07,0:15:36.58,saint tail default,,0,0,0,,{TIME:934079,936582}You're the mysterious thief\NMouse Kid, aren't you?!
+Dialogue: 0,0:15:38.04,0:15:41.17,saint tail default,,0,0,0,,{TIME:938041,941170}I will take the famous\NMunemasa sword!
+Dialogue: 0,0:15:43.00,0:15:44.17,saint tail default,,0,0,0,,{TIME:943005,944173}That's Mouse Kid!
 Dialogue: 0,0:15:46.50,0:15:47.63,saint tail default,,0,0,0,,{TIME:946508,947634}Wait a minute!
-Dialogue: 0,0:15:49.92,0:15:52.63,saint tail default,,0,0,0,,{TIME:949928,952639}I get it. The one that\Nflew away was a decoy…
+Dialogue: 0,0:15:49.80,0:15:52.63,saint tail default,,0,0,0,,{TIME:949803,952639}I get it. The one that\Nflew away was a decoy…
 Dialogue: 0,0:15:53.59,0:15:54.76,saint tail default,,0,0,0,,{TIME:953599,954766}Oh, boy…
-Dialogue: 0,0:15:54.93,0:15:56.89,saint tail default,,0,0,0,,{TIME:954933,956894}Who would have imagined\Nthat two thieves were after it…?
-Dialogue: 0,0:15:57.22,0:15:58.77,saint tail default,,0,0,0,,{TIME:957227,958770}– Let's go after them!\N– Yes, sir!
-Dialogue: 0,0:16:14.36,0:16:17.20,saint tail default,,0,0,0,,{TIME:974369,977206}Listen! Mouse Kid\Nhas the Munemasa!
-Dialogue: 0,0:16:17.37,0:16:18.62,saint tail default,,0,0,0,,{TIME:977372,978624}Let's spread out\Nand search for it!
-Dialogue: 0,0:16:18.79,0:16:19.91,saint tail default,,0,0,0,,{TIME:978790,979917}Yes, sir!
-Dialogue: 0,0:16:22.33,0:16:25.63,saint tail default,,0,0,0,,{TIME:982336,985631}But where did St. Tail go?
-Dialogue: 0,0:16:34.64,0:16:36.39,saint tail default,,0,0,0,,{TIME:994640,996391}Hey! Did you find him?
-Dialogue: 0,0:16:36.55,0:16:37.60,saint tail default,,0,0,0,,{TIME:996558,997601}No…
-Dialogue: 0,0:16:37.85,0:16:39.01,saint tail default,,0,0,0,,{TIME:997851,999019}Where did he go?
-Dialogue: 0,0:16:39.89,0:16:41.48,saint tail default,,0,0,0,,{TIME:999895,1001480}– Let's search over there, too.\N– Yeah.
-Dialogue: 0,0:16:51.99,0:16:53.03,saint tail default,,0,0,0,,{TIME:1011990,1013033}Mr. Kumayama…?
-Dialogue: 0,0:16:53.61,0:16:54.57,saint tail default,,0,0,0,,{TIME:1013617,1014576}Why?
-Dialogue: 0,0:16:54.82,0:16:56.16,saint tail default,,0,0,0,,{TIME:1014826,1016161}Good job.
-Dialogue: 0,0:16:56.41,0:16:57.62,saint tail default,,0,0,0,,{TIME:1016411,1017621}Mouse Kid.
-Dialogue: 0,0:17:04.79,0:17:06.67,saint tail default,,0,0,0,,{TIME:1024795,1026672}It went well, didn't it?
-Dialogue: 0,0:17:07.42,0:17:09.71,saint tail default,,0,0,0,,{TIME:1027422,1029716}You had me\Nsteal the Munemasa…
-Dialogue: 0,0:17:09.92,0:17:10.96,saint tail default,,0,0,0,,{TIME:1029925,1030968}…to keep it from…
-Dialogue: 0,0:17:11.09,0:17:12.67,saint tail default,,0,0,0,,{TIME:1031093,1032678}…Saburota\Nand his granddaughter.
-Dialogue: 0,0:17:13.92,0:17:18.26,saint tail default,,0,0,0,,{TIME:1033929,1038267}And because you dealt\Nwith both St. Tail and Mouse Kid…
-Dialogue: 0,0:17:18.72,0:17:20.93,saint tail default,,0,0,0,,{TIME:1038725,1040936}…your reputation will increase.
+Dialogue: 0,0:15:54.76,0:15:57.51,saint tail default,,0,0,0,,{TIME:954766,957519}Who would have imagined\Nthat two thieves were after it?
+Dialogue: 0,0:15:57.51,0:15:59.10,saint tail default,,0,0,0,,{TIME:957519,959104}– Let's go after them!\N– Yes, sir!
+Dialogue: 0,0:16:14.45,0:16:17.41,saint tail default,,0,0,0,,{TIME:974453,977414}Listen! Mouse Kid\Nhas the Munemasa!
+Dialogue: 0,0:16:17.41,0:16:19.12,saint tail default,,0,0,0,,{TIME:977414,979124}Let's spread out and search for it!
+Dialogue: 0,0:16:19.12,0:16:20.16,saint tail default,,0,0,0,,{TIME:979124,980167}Yes, sir!
+Dialogue: 0,0:16:22.25,0:16:26.46,saint tail default,,0,0,0,,{TIME:982252,986465}{\i1}But where did St. Tail go?
+Dialogue: 0,0:16:35.43,0:16:36.64,saint tail default,,0,0,0,,{TIME:995432,996642}Hey! Did you find him?
+Dialogue: 0,0:16:36.64,0:16:37.39,saint tail default,,0,0,0,,{TIME:996642,997392}No…
+Dialogue: 0,0:16:37.39,0:16:39.01,saint tail default,,0,0,0,,{TIME:997392,999019}Where did he go?
+Dialogue: 0,0:16:39.97,0:16:42.35,saint tail default,,0,0,0,,{TIME:999978,1002356}– Let's search over there, too.\N– Yeah.
+Dialogue: 0,0:16:52.07,0:16:53.61,saint tail default,,0,0,0,,{TIME:1012074,1013617}{\i1}Mr. Kumayama?
+Dialogue: 0,0:16:53.61,0:16:55.07,saint tail default,,0,0,0,,{TIME:1013617,1015077}{\i1}Why?
+Dialogue: 0,0:16:55.07,0:16:56.45,saint tail default,,0,0,0,,{TIME:1015077,1016453}Good job.
+Dialogue: 0,0:16:56.45,0:16:57.62,saint tail default,,0,0,0,,{TIME:1016453,1017621}Mouse Kid.
+Dialogue: 0,0:17:05.00,0:17:06.67,saint tail default,,0,0,0,,{TIME:1025003,1026672}It went well, didn't it?
+Dialogue: 0,0:17:07.46,0:17:13.97,saint tail default,,0,0,0,,{TIME:1027464,1033971}You had me steal the Munemasa to keep it\Nfrom Saburota and his granddaughter.
+Dialogue: 0,0:17:13.97,0:17:21.68,saint tail default,,0,0,0,,{TIME:1033971,1041687}And because you dealt with both St. Tail\Nand Mouse Kid, your reputation will increase.
 Dialogue: 0,0:17:21.68,0:17:22.98,saint tail default,,0,0,0,,{TIME:1041687,1042980}Good plan…
-Dialogue: 0,0:17:24.14,0:17:25.94,saint tail default,,0,0,0,,{TIME:1044147,1045941}I couldn't have done it\Nwithout you.
-Dialogue: 0,0:17:26.81,0:17:29.77,saint tail default,,0,0,0,,{TIME:1046817,1049778}So give me back the Munemasa.
+Dialogue: 0,0:17:24.14,0:17:26.73,saint tail default,,0,0,0,,{TIME:1044147,1046733}I couldn't have done it without you.
+Dialogue: 0,0:17:26.73,0:17:30.27,saint tail default,,0,0,0,,{TIME:1046733,1050279}So give me back the Munemasa.
 Dialogue: 0,0:17:30.27,0:17:31.94,saint tail default,,0,0,0,,{TIME:1050279,1051947}Where's the money\Nyou promised me?
-Dialogue: 0,0:17:35.45,0:17:36.41,saint tail default,,0,0,0,,{TIME:1055450,1056410}All right.
-Dialogue: 0,0:17:43.41,0:17:45.04,saint tail default,,0,0,0,,{TIME:1063417,1065043}I look forward\Nto working together again.
-Dialogue: 0,0:17:46.12,0:17:47.21,saint tail default,,0,0,0,,{TIME:1066128,1067212}Same here.
-Dialogue: 0,0:17:58.80,0:18:00.68,saint tail default,,0,0,0,,{TIME:1078807,1080684}Mouse Kid! Hey!
-Dialogue: 0,0:18:01.43,0:18:03.22,saint tail default,,0,0,0,,{TIME:1081435,1083228}I'll take the Munemasa!
-Dialogue: 0,0:18:03.47,0:18:06.64,saint tail default,,0,0,0,,{TIME:1083478,1086648}I'll make a lot of money\Nselling this sword!
-Dialogue: 0,0:18:06.85,0:18:09.06,saint tail default,,0,0,0,,{TIME:1086857,1089067}You betrayed me! You!
-Dialogue: 0,0:18:13.98,0:18:15.07,saint tail default,,0,0,0,,{TIME:1093989,1095073}Both of you!
-Dialogue: 0,0:18:15.19,0:18:16.19,saint tail default,,0,0,0,,{TIME:1095198,1096199}Don't move!
-Dialogue: 0,0:18:18.86,0:18:19.99,saint tail default,,0,0,0,,{TIME:1098869,1099995}Make sure you catch him!
-Dialogue: 0,0:18:23.04,0:18:24.87,saint tail default,,0,0,0,,{TIME:1103040,1104875}Wait! Mouse Kid!
-Dialogue: 0,0:18:37.76,0:18:39.55,saint tail default,,0,0,0,,{TIME:1117763,1119556}He's persistent!
-Dialogue: 0,0:18:43.35,0:18:44.31,saint tail default,,0,0,0,,{TIME:1123352,1124311}Look out!
-Dialogue: 0,0:18:59.11,0:19:03.03,saint tail default,,0,0,0,,{TIME:1139117,1143038}How about that?\NIt's a simple trick using an illusion.
-Dialogue: 0,0:19:07.25,0:19:09.04,saint tail default,,0,0,0,,{TIME:1147250,1149044}St. Tail…!
-Dialogue: 0,0:19:18.63,0:19:21.47,saint tail default,,0,0,0,,{TIME:1158637,1161473}I'll take the fabulous\NMunemasa sword!
-Dialogue: 0,0:19:24.64,0:19:25.81,saint tail default,,0,0,0,,{TIME:1164643,1165811}St. Tail!
-Dialogue: 0,0:19:29.64,0:19:31.65,saint tail default,,0,0,0,,{TIME:1169648,1171650}Hey, you! Give up!
-Dialogue: 0,0:19:34.36,0:19:35.36,saint tail default,,0,0,0,,{TIME:1174361,1175362}Get off of me!
-Dialogue: 0,0:19:35.48,0:19:36.44,saint tail default,,0,0,0,,{TIME:1175487,1176446}No way!
-Dialogue: 0,0:19:43.78,0:19:45.70,saint tail default,,0,0,0,,{TIME:1183787,1185706}Captain. At Kumayama's Dojo…
-Dialogue: 0,0:19:45.95,0:19:47.16,saint tail default,,0,0,0,,{TIME:1185956,1187165}…we found the fabulous\NKikuchiyo sword…
-Dialogue: 0,0:19:47.24,0:19:48.70,saint tail default,,0,0,0,,{TIME:1187249,1188709}…which was stolen the other day.
-Dialogue: 0,0:19:49.16,0:19:50.33,saint tail default,,0,0,0,,{TIME:1189167,1190335}All right.
-Dialogue: 0,0:19:50.91,0:19:52.58,saint tail default,,0,0,0,,{TIME:1190919,1192587}Come, Mouse Kid.
-Dialogue: 0,0:19:53.08,0:19:54.67,saint tail default,,0,0,0,,{TIME:1193088,1194673}Kumayama, you, too.
-Dialogue: 0,0:19:58.09,0:20:01.05,saint tail default,,0,0,0,,{TIME:1198093,1201054}You caught two\Nbad guys by yourself.
-Dialogue: 0,0:20:01.51,0:20:02.84,saint tail default,,0,0,0,,{TIME:1201513,1202848}Like father, like son!
-Dialogue: 0,0:20:04.14,0:20:05.30,saint tail default,,0,0,0,,{TIME:1204141,1205308}Oh, well…
-Dialogue: 0,0:20:06.01,0:20:10.10,saint tail default,,0,0,0,,{TIME:1206017,1210105}I was just chasing St. Tail.
-Dialogue: 0,0:20:24.87,0:20:28.79,saint tail default,,0,0,0,,{TIME:1224870,1228790}Grandpa! The Munemasa…!\NThe Munemasa is back!
+Dialogue: 0,0:17:35.53,0:17:37.20,saint tail default,,0,0,0,,{TIME:1055534,1057202}All right.
+Dialogue: 0,0:17:43.62,0:17:45.46,saint tail default,,0,0,0,,{TIME:1063625,1065460}I look forward\Nto working together again.
+Dialogue: 0,0:17:46.33,0:17:48.17,saint tail default,,0,0,0,,{TIME:1066336,1068171}Same here.
+Dialogue: 0,0:17:59.34,0:18:01.43,saint tail default,,0,0,0,,{TIME:1079349,1081435}Mouse Kid! Hey!
+Dialogue: 0,0:18:01.43,0:18:03.81,saint tail default,,0,0,0,,{TIME:1081435,1083812}I'll take the Munemasa!
+Dialogue: 0,0:18:03.81,0:18:07.02,saint tail default,,0,0,0,,{TIME:1083812,1087024}I'll make a lot of money\Nselling this sword!
+Dialogue: 0,0:18:07.02,0:18:09.15,saint tail default,,0,0,0,,{TIME:1087024,1089151}You betrayed me! You!
+Dialogue: 0,0:18:14.32,0:18:16.19,saint tail default,,0,0,0,,{TIME:1094323,1096199}Both of you!\NDon't move!
+Dialogue: 0,0:18:18.86,0:18:20.12,saint tail default,,0,0,0,,{TIME:1098869,1100120}Make sure you catch him!
+Dialogue: 0,0:18:23.04,0:18:25.08,saint tail default,,0,0,0,,{TIME:1103040,1105083}Wait! Mouse Kid!
+Dialogue: 0,0:18:38.30,0:18:40.01,saint tail default,,0,0,0,,{TIME:1118305,1120015}He's persistent!
+Dialogue: 0,0:18:43.85,0:18:44.89,saint tail default,,0,0,0,,{TIME:1123852,1124895}Look out!
+Dialogue: 0,0:18:59.53,0:19:03.49,saint tail default,,0,0,0,,{TIME:1139534,1143497}How about that?\NIt's a simple trick using an illusion.
+Dialogue: 0,0:19:07.50,0:19:09.46,saint tail default,,0,0,0,,{TIME:1147501,1149461}St. Tail!
+Dialogue: 0,0:19:18.72,0:19:21.89,saint tail default,,0,0,0,,{TIME:1158720,1161890}I'll take the fabulous\NMunemasa sword!
+Dialogue: 0,0:19:24.72,0:19:25.93,saint tail default,,0,0,0,,{TIME:1164726,1165936}St. Tail!
+Dialogue: 0,0:19:29.85,0:19:32.06,saint tail default,,0,0,0,,{TIME:1169856,1172067}Hey, you! Give up!
+Dialogue: 0,0:19:34.36,0:19:35.65,saint tail default,,0,0,0,,{TIME:1174361,1175654}Get off of me!
+Dialogue: 0,0:19:35.65,0:19:36.61,saint tail default,,0,0,0,,{TIME:1175654,1176613}No way!
+Dialogue: 0,0:19:43.87,0:19:46.03,saint tail default,,0,0,0,,{TIME:1183870,1186039}Captain, we found\Nat Kumayama's Dojo
+Dialogue: 0,0:19:46.03,0:19:49.29,saint tail default,,0,0,0,,{TIME:1186039,1189292}the fabulous Kikuchiyo sword\Nthat was stolen the other day.
+Dialogue: 0,0:19:49.29,0:19:51.04,saint tail default,,0,0,0,,{TIME:1189292,1191044}All right.
+Dialogue: 0,0:19:51.04,0:19:53.17,saint tail default,,0,0,0,,{TIME:1191044,1193171}Come, Mouse Kid.
+Dialogue: 0,0:19:53.17,0:19:55.29,saint tail default,,0,0,0,,{TIME:1193171,1195298}Kumayama, you, too.
+Dialogue: 0,0:19:58.17,0:20:01.51,saint tail default,,0,0,0,,{TIME:1198176,1201513}You caught two\Nbad guys by yourself.
+Dialogue: 0,0:20:01.51,0:20:03.01,saint tail default,,0,0,0,,{TIME:1201513,1203014}Like father, like son!
+Dialogue: 0,0:20:04.39,0:20:05.47,saint tail default,,0,0,0,,{TIME:1204391,1205475}Oh, well…
+Dialogue: 0,0:20:06.10,0:20:10.10,saint tail default,,0,0,0,,{TIME:1206101,1210105}{\i1}I was just chasing St. Tail.
+Dialogue: 0,0:20:24.95,0:20:28.79,saint tail default,,0,0,0,,{TIME:1224953,1228790}Grandpa! The Munemasa!\NThe Munemasa is back!
 Comment: 0,0:20:56.27,0:20:56.27,[chapter],[chapter],0,0,0,,{TIME:1256276,1256276}Ending
 Dialogue: 0,0:21:03.28,0:21:10.37,saint tail ed jp,[karaoke],0,0,0,,{TIME:1263283,1270373}{\blur1\pos(680,1055)}ima no jibun ja nai watashi ni naritai{NOTE:今の自分じゃない　私になりたい}
 Dialogue: 0,0:21:11.33,0:21:19.04,saint tail ed jp,[karaoke],0,0,0,,{TIME:1271333,1279049}{\blur1}nido to kanashiku naranai kokoro ga hoshii{NOTE:二度と悲しくならない心が欲しい}
@@ -335,3 +325,11 @@ Dialogue: 0,0:22:08.59,0:22:11.89,saint tail ed en,[karaoke],0,0,0,,{TIME:132859
 Dialogue: 0,0:22:16.23,0:22:19.23,saint tail ed en,[karaoke],0,0,0,,{TIME:1336231,1339234}Oh, upside down!{NOTE:OhーUpSideDown}
 Dialogue: 0,0:22:23.94,0:22:26.53,saint tail ed en,[karaoke],0,0,0,,{TIME:1343947,1346533}Oh, upside down!{NOTE:OhーUpSideDown}
 Comment: 0,0:22:27.36,0:22:27.36,[chapter],[chapter],0,0,0,,{TIME:1347367,1347367}Preview
+Dialogue: 0,0:22:27.36,0:22:30.37,saint tail sign,(sign),0,0,0,,{TIME:1347367,1350370}Next episode
+Dialogue: 0,0:22:28.86,0:22:33.74,saint tail default,,0,0,0,,{TIME:1348869,1353748}A lady affectionately called "Madonna"\Nby the boys, lovingly brings up a horse.{NOTE:男子達にマドンナと呼ばれているお嬢様が、大切にして可愛がっていた}
+Dialogue: 0,0:22:33.74,0:22:37.41,saint tail default,,0,0,0,,{TIME:1353748,1357419}It's a thoroughbred named Billy,\Nbut he's swindled away from her!{NOTE:ビリーという名のサラブレッドを騙し取られちゃったんだって}
+Dialogue: 0,0:22:37.41,0:22:42.13,saint tail default,,0,0,0,,{TIME:1357419,1362132}The horse is about to be\Ncarried away by train.{NOTE:取り返そうにも、その馬は列車で遠くに運ばれようとしているの}
+Dialogue: 0,0:22:42.13,0:22:47.76,saint tail default,,0,0,0,,{TIME:1362132,1367762}All right! For Billy and Madonna's sake,\NI'm just gonna steal him from that train!{NOTE:よーし、マドンナと馬さんのため、列車からだって盗み出しちゃうもんね}
+Dialogue: 0,0:22:47.76,0:22:49.89,saint tail default,,0,0,0,,{TIME:1367762,1369890}Next time on Saint Tail:{NOTE:次回、怪盗セイント・テール}
+Dialogue: 0,0:22:49.89,0:22:51.97,saint tail default,,0,0,0,,{TIME:1369890,1371975}"Return the Thoroughbred!"{NOTE:『サラブレッドを取り戻せ!』}
+Dialogue: 0,0:22:51.97,0:22:55.22,saint tail default,,0,0,0,,{TIME:1371975,1375228}May the blessings\Nof God be with you.{NOTE:みなさんに、神のご加護がありますように}
