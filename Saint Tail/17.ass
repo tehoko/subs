@@ -84,7 +84,8 @@ Dialogue: 0,0:03:01.20,0:03:02.91,saint tail default,,0,0,0,,{TIME:181202,182912
 Dialogue: 0,0:03:03.62,0:03:06.70,saint tail default,,0,0,0,,{TIME:183621,186708}Oh, good morning!\NI'm a freshmen in class A.
 Dialogue: 0,0:03:07.33,0:03:09.37,saint tail default,,0,0,0,,{TIME:187333,189377}Tooru Ijuin.
 Dialogue: 0,0:03:13.96,0:03:16.88,saint tail default,[title],0,0,0,,{TIME:193965,196884}The Heart Thief on\NSt. Valentine's Day!?
-Dialogue: 0,0:03:22.01,0:03:27.93,saint tail default,,0,0,0,,{TIME:202014,207937}Just know that I'm not friends with\Nthis guy. We live near each other—
+Dialogue: 0,0:03:22.01,0:03:26.35,saint tail default,,0,0,0,,{TIME:202014,206352}Just know that I'm not\Nfriends with this guy.
+Dialogue: 0,0:03:26.35,0:03:27.93,saint tail default,,0,0,0,,{TIME:206352,207937}We live near each other—
 Dialogue: 0,0:03:27.93,0:03:31.81,saint tail default,,0,0,0,,{TIME:207937,211816}That's mean!\NWe played a lot together as children.
 Dialogue: 0,0:03:31.81,0:03:33.31,saint tail default,,0,0,0,,{TIME:211816,213317}Be quiet, don't follow me!
 Dialogue: 0,0:03:34.40,0:03:38.28,saint tail default,,0,0,0,,{TIME:214402,218281}In the first place, you're younger!\NSo why are you bigger than me?
@@ -181,7 +182,7 @@ Dialogue: 0,0:10:05.45,0:10:06.87,saint tail default,,0,0,0,,{TIME:605459,606877
 Dialogue: 0,0:10:09.88,0:10:12.63,saint tail default,,0,0,0,,{TIME:609880,612633}Heart, heart, heart…
 Dialogue: 0,0:10:12.63,0:10:15.84,saint tail default,,0,0,0,,{TIME:612633,615845}That's it!\NI know what it is, Asuka!
 Dialogue: 0,0:10:16.22,0:10:19.89,saint tail default,,0,0,0,,{TIME:616220,619890}What is it?\NWhat's she gonna steal?
-Dialogue: 0,0:10:19.89,0:10:21.85,saint tail default,,0,0,0,,{TIME:619890,621851}– To put it simply…\N– Yeah?
+Dialogue: 0,0:10:19.89,0:10:21.55,saint tail default,,0,0,0,,{TIME:619890,621559}– To put it simply…\N– Yeah?
 Dialogue: 0,0:10:21.85,0:10:26.23,saint tail default,,0,0,0,,{TIME:621851,626230}St. Tail has fallen in love\Nwith me, and tonight she's coming
 Dialogue: 0,0:10:26.23,0:10:29.98,saint tail default,,0,0,0,,{TIME:626230,629984}to flirt with me\Nand steal my heart away.
 Dialogue: 0,0:10:29.98,0:10:31.52,saint tail default,,0,0,0,,{TIME:629984,631527}Think seriously!
@@ -201,7 +202,7 @@ Comment: 0,0:11:16.69,0:11:16.69,[chapter],[chapter],0,0,0,,{TIME:676697,676697}
 Dialogue: 0,0:11:23.07,0:11:25.16,saint tail default,,0,0,0,,{TIME:683078,685164}Hey, wait a minute.
 Dialogue: 0,0:11:25.95,0:11:28.58,saint tail default,,0,0,0,,{TIME:685956,688584}Where are you taking me?
 Dialogue: 0,0:11:28.58,0:11:31.17,saint tail default,,0,0,0,,{TIME:688584,691170}Where else? To buy a present.
-Dialogue: 0,0:11:31.17,0:11:34.63,saint tail default,,0,0,0,,{TIME:691170,694632}We're going to buy a present\Nto give St. Tail.
+Dialogue: 0,0:11:31.17,0:11:34.63,saint tail default,,0,0,0,,{TIME:691170,694632}We're going to buy\Na present to give St. Tail.
 Dialogue: 0,0:11:34.88,0:11:38.34,saint tail default,,0,0,0,,{TIME:694882,698344}A present? Look here!\NWhat are you thinking?
 Dialogue: 0,0:11:39.05,0:11:43.80,saint tail default,,0,0,0,,{TIME:699053,703807}St. Tail is coming to steal\Nmy heart away, you know.
 Dialogue: 0,0:11:43.80,0:11:47.10,saint tail default,,0,0,0,,{TIME:703807,707102}Wouldn't it be rude\Nnot to be prepared for it?
@@ -269,6 +270,8 @@ Dialogue: 0,0:16:17.87,0:16:21.08,saint tail default,,0,0,0,,{TIME:977873,981084
 Dialogue: 0,0:16:21.62,0:16:23.83,saint tail default,,0,0,0,,{TIME:981627,983837}{\i1}What's he mixed-up about?
 Dialogue: 0,0:16:25.08,0:16:28.05,saint tail default,,0,0,0,,{TIME:985088,988050}I'm taking the notebook,\Njust as I told you!
 Dialogue: 0,0:16:28.63,0:16:30.55,saint tail default,,0,0,0,,{TIME:988634,990552}{\i1}Notebook?
+Dialogue: 0,0:16:30.55,0:16:34.51,saint tail sign,(sign),0,0,0,,{TIME:990552,994515}{\alpha&HFF&\t(2002,2002,\alpha&HFF&)\t(1877,1877,\alpha&H00&)\t(2002,2002,\alpha&HFF&)\t(2127,2127,\alpha&H00&)\t(2252,2252,\alpha&HFF&)\t(2378,2378,\alpha&H00&)\t(2503,2503,\alpha&HFF&)\t(2628,2628,\alpha&H00&)\t(2753,2753,\alpha&HFF&)\t(2878,2878,\alpha&H00&)}Notebook
+Dialogue: 1,0:16:30.55,0:16:34.51,saint tail sign,(sign),0,0,0,,{TIME:990552,994515}{\alpha&H00&\t(1877,1877,\alpha&HFF&)\t(2002,2002,\alpha&H00&)\t(2127,2127,\alpha&HFF&)\t(2252,2252,\alpha&H00&)\t(2378,2378,\alpha&HFF&)\t(2503,2503,\alpha&H00&)\t(2628,2628,\alpha&HFF&)\t(2753,2753,\alpha&H00&)\t(2878,2878,\alpha&HFF&)}Heart
 Dialogue: 0,0:16:35.14,0:16:40.47,saint tail default,,0,0,0,,{TIME:995140,1000479}{\i1}Oh, it was not "heart",\Nit was "notebook".
 Dialogue: 0,0:16:40.85,0:16:42.06,saint tail default,,0,0,0,,{TIME:1000854,1002064}See you around!
 Dialogue: 0,0:16:42.06,0:16:44.65,saint tail default,,0,0,0,,{TIME:1002064,1004650}I won't let you get away!
@@ -292,7 +295,7 @@ Dialogue: 0,0:18:23.95,0:18:25.87,saint tail default,,0,0,0,,{TIME:1103957,11058
 Dialogue: 0,0:18:32.46,0:18:34.34,saint tail default,,0,0,0,,{TIME:1112466,1114343}You're cute.
 Dialogue: 0,0:18:37.22,0:18:39.34,saint tail default,,0,0,0,,{TIME:1117220,1119348}I've made up my mind!
 Dialogue: 0,0:18:45.22,0:18:46.27,saint tail default,,0,0,0,,{TIME:1125228,1126271}{\i1}Okay!
-Dialogue: 0,0:18:50.44,0:18:51.94,saint tail default,,0,0,0,,{TIME:1130442,1131943}Hold it, St. Tail!
+Dialogue: 0,0:18:50.56,0:18:53.19,saint tail default,,0,0,0,,{TIME:1130567,1133195}Hold it, St. Tail!
 Dialogue: 0,0:18:58.15,0:18:59.45,saint tail default,,0,0,0,,{TIME:1138158,1139451}What's happening?
 Dialogue: 0,0:19:06.20,0:19:07.25,saint tail default,,0,0,0,,{TIME:1146208,1147250}{\i1}Now you're caught!
 Dialogue: 0,0:19:09.37,0:19:10.54,saint tail default,,0,0,0,,{TIME:1149378,1150545}Darn it!
@@ -343,7 +346,7 @@ Dialogue: 0,0:21:59.21,0:22:04.76,saint tail ed en,[karaoke],0,0,0,,{TIME:131921
 Dialogue: 0,0:22:05.88,0:22:14.02,saint tail ed en,[karaoke],0,0,0,,{TIME:1325887,1334020}Will my prayer be answered?
 Comment: 0,0:22:28.36,0:22:28.36,[chapter],[chapter],0,0,0,,{TIME:1348368,1348368}Preview
 Dialogue: 0,0:22:28.36,0:22:31.37,saint tail sign,(sign),0,0,0,,{TIME:1348368,1351371}Next episode
-Dialogue: 0,0:22:29.74,0:22:35.37,saint tail default,,0,0,0,,{TIME:1349744,1355375}The sculptor's steel monument,\NThe Steel Weathercock, has been stolen.{NOTE:彫刻家が自分で作った、鋼鉄の風見鶏という金属モニュメントを盗まれてしまったの}
+Dialogue: 0,0:22:29.74,0:22:35.37,saint tail default,,0,0,0,,{TIME:1349744,1355375}The sculptor's steel monument,\Nthe Steel Weathercock, has been stolen.{NOTE:彫刻家が自分で作った、鋼鉄の風見鶏という金属モニュメントを盗まれてしまったの}
 Dialogue: 0,0:22:35.37,0:22:38.83,saint tail default,,0,0,0,,{TIME:1355375,1358837}It was put on a roof\Nof a building in the city?{NOTE:それがあるビルの屋上に飾られているんだって}
 Dialogue: 0,0:22:38.83,0:22:43.50,saint tail default,,0,0,0,,{TIME:1358837,1363508}The owner of the building says he obtained\Nit in a legitimate way, but it's super fishy.{NOTE:ビルのオーナーは美術賞から買ったと言っているけど、すっごく怪しい}
 Dialogue: 0,0:22:43.50,0:22:47.80,saint tail default,,0,0,0,,{TIME:1363508,1367804}So when I sneaked into the building,\Nthe Steel Weathercock…{NOTE:それでビルに忍び込んだ時、その鋼鉄の風見鶏には…}
