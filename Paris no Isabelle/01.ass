@@ -18,7 +18,7 @@ Style: OP EN,Arial,35,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0
 Style: ED EN,Arial,35,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,95.0,0.0,0.0,1,3.0,0.0,8,20,20,20,1
 Style: OP JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: ED JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
-Style: Credits,Gotham Rounded,32,&H00F7F7F7,&H000000FF,&H00373737,&H80373737,-1,0,0,0,110.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
+Style: Credits,Gotham Rounded,32,&H00FFFFFF,&H000000FF,&H00373737,&H80373737,-1,0,0,0,110.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
 Style: Title,Hoffmanhand,40,&H00232323,&H000000FF,&H00232323,&H80373737,-1,0,0,0,100.0,95.0,0.0,0.0,1,1.0,0.0,2,25,25,25,1
 
 [Events]
@@ -51,27 +51,27 @@ Dialogue: 0,0:01:14.34,0:01:20.98,Default,Narrator,0,0,0,,{TIME:74341,80981}{\i1
 Dialogue: 0,0:01:20.98,0:01:24.61,Default,Narrator,0,0,0,,{TIME:80981,84618}{\i1}The French army was led\Nby Napoleon III.{NOTE:ナポレオン三世の 率いる フランス軍の切手}
 Dialogue: 0,0:01:24.61,0:01:28.62,Default,Narrator,0,0,0,,{TIME:84618,88622}{\i1}It was a battle\Nthat couldn't be lost.{NOTE:その戦いは負けるはずのない戦いだったのですが}
 Comment: 0,0:01:34.59,0:01:34.59,Default,[chapter],0,0,0,,{TIME:94595,94595}Opening
-Dialogue: 0,0:01:47.14,0:01:50.01,Credits,[credits],0,0,0,,{TIME:107140,110010}{\blur0.6\fad(0,300)\an5\pos(190,450)}Isabelle{NOTE:イザベル}
-Dialogue: 0,0:01:54.04,0:01:56.78,Credits,[credits],0,0,0,,{TIME:114047,116783}{\blur0.6\an5\pos(185,450)}Father · Léon{NOTE:父・レオン}
-Dialogue: 0,0:01:57.25,0:01:59.62,Credits,[credits],0,0,0,,{TIME:117250,119620}{\blur0.6\an5\pos(495,450)}Mother · Marie{NOTE:母・マリー}
-Dialogue: 0,0:02:00.05,0:02:02.45,Credits,[credits],0,0,0,,{TIME:120053,122456}{\blur0.6\an5\pos(185,450)}Bloody Bat{NOTE:血のコウモリ}
-Dialogue: 0,0:02:02.95,0:02:05.29,Credits,[credits],0,0,0,,{TIME:122956,125292}{\blur0.6\an5\pos(480,450)}Sister · Geneviève{NOTE:姉・ジュネビエーブ}
-Dialogue: 0,0:02:05.82,0:02:08.22,Credits,[credits],0,0,0,,{TIME:125826,128228}{\blur0.6\an5\pos(223,450)}Piano Teacher · Jules{NOTE:ピアノ教師・ジュール}
-Dialogue: 0,0:02:08.66,0:02:11.13,Credits,[credits],0,0,0,,{TIME:128662,131131}{\blur0.6\an5\pos(490,450)}Army Captain · Victor{NOTE:陸軍大尉・ビクトル}
-Dialogue: 0,0:02:11.56,0:02:14.06,Credits,[credits],0,0,0,,{TIME:131565,134067}{\blur0.6\an5\pos(485,450)}Young friend · Jean{NOTE:幼な友達・シャン}
-Dialogue: 0,0:02:14.66,0:02:18.03,Credits,[credits],0,0,0,,{TIME:134668,138038}{\blur0.6\an4\pos(353,240)\fs25}Screenplay{NOTE:脚本\\N首藤 剛志}
-Dialogue: 0,0:02:14.66,0:02:18.03,Credits,[credits],0,0,0,,{TIME:134668,138038}{\blur0.6\an3\pos(624,405)}Shudou Takeshi{NOTE:脚本\\N首藤 剛志}
-Dialogue: 0,0:02:18.03,0:02:21.50,Credits,[credits],0,0,0,,{TIME:138038,141508}{\blur0.6\an4\pos(353,240)\fs25}Narrator{NOTE:ナレーター\\N稲垣 美穂子}
-Dialogue: 0,0:02:18.03,0:02:21.50,Credits,[credits],0,0,0,,{TIME:138038,141508}{\blur0.6\an3\pos(620,403)}Inagaki Mihoko{NOTE:ナレーター\\N稲垣 美穂子}
-Dialogue: 0,0:02:21.50,0:02:24.91,Credits,[credits],0,0,0,,{TIME:141508,144911}{\blur0.6\an4\pos(353,240)\fs25}Music{NOTE:音楽\\N松下 功}
-Dialogue: 0,0:02:21.50,0:02:24.91,Credits,[credits],0,0,0,,{TIME:141508,144911}{\blur0.6\an3\pos(624,405)}Isao Matsushita{NOTE:音楽\\N松下 功}
-Dialogue: 0,0:02:24.91,0:02:28.24,Credits,[credits],0,0,0,,{TIME:144911,148248}{\blur0.6\an4\pos(350,235)\fs25}Character Design{NOTE:キャラクターデザイン\\N福田 皖\\N北島 信幸}
-Dialogue: 0,0:02:24.91,0:02:28.24,Credits,[credits],0,0,0,,{TIME:144911,148248}{\blur0.6\an3\pos(624,440)}Fukuda Kiyomu{NOTE:キャラクターデザイン\\N福田 皖\\N北島 信幸}
-Dialogue: 0,0:02:24.91,0:02:28.24,Credits,[credits],0,0,0,,{TIME:144911,148248}{\blur0.6\an3\pos(624,480)}Kitajima Nobuyuki{NOTE:キャラクターデザイン\\N福田 皖\\N北島 信幸}
-Dialogue: 0,0:02:28.24,0:02:31.68,Credits,[credits],0,0,0,,{TIME:148248,151685}{\blur0.6\an4\pos(350,240)\fs25}Chief Director{NOTE:チーフディレクター\\N早川 啓二}
-Dialogue: 0,0:02:28.24,0:02:31.68,Credits,[credits],0,0,0,,{TIME:148248,151685}{\blur0.6\an3\pos(620,405)}Hayakawa Keiji{NOTE:チーフディレクター\\N早川 啓二}
-Dialogue: 0,0:02:35.32,0:02:39.32,Credits,[credits],0,0,0,,{TIME:155322,159326}{\blur0.6\an4\pos(350,265)\fs25}Director{NOTE:監督\\N葉方 丹}
-Dialogue: 0,0:02:35.32,0:02:39.32,Credits,[credits],0,0,0,,{TIME:155322,159326}{\blur0.6\an3\pos(620,430)}Hakata Tan{NOTE:監督\\N葉方 丹}
+Dialogue: 0,0:01:47.14,0:01:50.01,Credits,[credits],0,0,0,,{TIME:107140,110010}{\c&HEFEDE5&\blur0.6\fad(0,300)\an5\pos(190,450)}Isabelle{NOTE:イザベル}
+Dialogue: 0,0:01:54.04,0:01:56.78,Credits,[credits],0,0,0,,{TIME:114047,116783}{\c&HF2EEE4&\blur0.6\an5\pos(182,450)}Father · Léon{NOTE:父・レオン}
+Dialogue: 0,0:01:57.25,0:01:59.62,Credits,[credits],0,0,0,,{TIME:117250,119620}{\c&HF2EEE4&\blur0.6\an5\pos(495,450)}Mother · Marie{NOTE:母・マリー}
+Dialogue: 0,0:02:00.05,0:02:02.45,Credits,[credits],0,0,0,,{TIME:120053,122456}{\c&HF2EEDC&\blur0.6\an5\pos(185,450)}Bloody Bat{NOTE:血のコウモリ}
+Dialogue: 0,0:02:02.95,0:02:05.29,Credits,[credits],0,0,0,,{TIME:122956,125292}{\c&HF2EEE4&\blur0.6\an5\pos(480,450)}Sister · Geneviève{NOTE:姉・ジュネビエーブ}
+Dialogue: 0,0:02:05.82,0:02:08.22,Credits,[credits],0,0,0,,{TIME:125826,128228}{\c&HF2EEE4&\blur0.6\an5\pos(223,450)}Piano Teacher · Jules{NOTE:ピアノ教師・ジュール}
+Dialogue: 0,0:02:08.66,0:02:11.13,Credits,[credits],0,0,0,,{TIME:128662,131131}{\c&HEDE6DA&\blur0.6\an5\pos(490,450)}Army Captain · Victor{NOTE:陸軍大尉・ビクトル}
+Dialogue: 0,0:02:11.56,0:02:14.06,Credits,[credits],0,0,0,,{TIME:131565,134067}{\c&HEDE6DA&\blur0.6\an5\pos(485,450)}Young friend · Jean{NOTE:幼な友達・シャン}
+Dialogue: 0,0:02:14.66,0:02:18.03,Credits,[credits],0,0,0,,{TIME:134668,138038}{\c&HFFF4E0&\blur0.6\an4\pos(353,240)\fs25}Screenplay{NOTE:脚本\\N首藤 剛志}
+Dialogue: 0,0:02:14.66,0:02:18.03,Credits,[credits],0,0,0,,{TIME:134668,138038}{\c&HFFF4E0&\blur0.6\an3\pos(624,405)}Shudou Takeshi{NOTE:脚本\\N首藤 剛志}
+Dialogue: 0,0:02:18.03,0:02:21.50,Credits,[credits],0,0,0,,{TIME:138038,141508}{\c&HF8F3E5&\blur0.6\an4\pos(353,240)\fs25}Narrator{NOTE:ナレーター\\N稲垣 美穂子}
+Dialogue: 0,0:02:18.03,0:02:21.50,Credits,[credits],0,0,0,,{TIME:138038,141508}{\c&HF8F3E5&\blur0.6\an3\pos(620,403)}Inagaki Mihoko{NOTE:ナレーター\\N稲垣 美穂子}
+Dialogue: 0,0:02:21.50,0:02:24.91,Credits,[credits],0,0,0,,{TIME:141508,144911}{\c&HF8F3E5&\blur0.6\an4\pos(353,240)\fs25}Music{NOTE:音楽\\N松下 功}
+Dialogue: 0,0:02:21.50,0:02:24.91,Credits,[credits],0,0,0,,{TIME:141508,144911}{\c&HF8F3E5&\blur0.6\an3\pos(624,405)}Isao Matsushita{NOTE:音楽\\N松下 功}
+Dialogue: 0,0:02:24.91,0:02:28.24,Credits,[credits],0,0,0,,{TIME:144911,148248}{\c&HF8F3E5&\blur0.6\an4\pos(350,235)\fs25}Character Design{NOTE:キャラクターデザイン\\N福田 皖\\N北島 信幸}
+Dialogue: 0,0:02:24.91,0:02:28.24,Credits,[credits],0,0,0,,{TIME:144911,148248}{\c&HF8F3E5&\blur0.6\an3\pos(624,440)}Fukuda Kiyomu{NOTE:キャラクターデザイン\\N福田 皖\\N北島 信幸}
+Dialogue: 0,0:02:24.91,0:02:28.24,Credits,[credits],0,0,0,,{TIME:144911,148248}{\c&HF8F3E5&\blur0.6\an3\pos(624,480)}Kitajima Nobuyuki{NOTE:キャラクターデザイン\\N福田 皖\\N北島 信幸}
+Dialogue: 0,0:02:28.24,0:02:31.68,Credits,[credits],0,0,0,,{TIME:148248,151685}{\c&HF4E9EA&\blur0.6\an4\pos(350,240)\fs25}Chief Director{NOTE:チーフディレクター\\N早川 啓二}
+Dialogue: 0,0:02:28.24,0:02:31.68,Credits,[credits],0,0,0,,{TIME:148248,151685}{\c&HF4E9EA&\blur0.6\an3\pos(620,405)}Hayakawa Keiji{NOTE:チーフディレクター\\N早川 啓二}
+Dialogue: 0,0:02:35.32,0:02:39.32,Credits,[credits],0,0,0,,{TIME:155322,159326}{\c&HFFEAE4&\blur0.6\an4\pos(350,265)\fs25}Director{NOTE:監督\\N葉方 丹}
+Dialogue: 0,0:02:35.32,0:02:39.32,Credits,[credits],0,0,0,,{TIME:155322,159326}{\c&HFFEAE4&\blur0.6\an3\pos(620,430)}Hakata Tan{NOTE:監督\\N葉方 丹}
 Comment: 0,0:02:39.32,0:02:39.32,Default,[chapter],0,0,0,,{TIME:159326,159326}Title screen
 Dialogue: 0,0:02:39.49,0:02:47.33,Title,[title],0,0,0,,{TIME:159493,167334}{\blur0.5\alpha&H50&\fad(700,0)}— Episode 01 —\N\NAge Fifteen:\NThe Day I Became a Lady {NOTE:第一回\\N15才、私がレディになる日}
 Comment: 0,0:02:47.33,0:02:47.33,Default,[chapter],0,0,0,,{TIME:167334,167334}Part A
