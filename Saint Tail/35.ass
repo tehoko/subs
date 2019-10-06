@@ -75,7 +75,7 @@ Dialogue: 0,0:02:40.59,0:02:44.89,saint tail default,,0,0,0,,{TIME:160598,164894
 Dialogue: 0,0:02:44.89,0:02:47.81,saint tail default,,0,0,0,,{TIME:164894,167814}You can carve your name\Nalong with the one you love.
 Dialogue: 0,0:02:53.98,0:02:55.57,saint tail default,,0,0,0,,{TIME:173986,175571}There are a lot of scars…
 Dialogue: 0,0:02:55.82,0:02:58.32,saint tail default,,0,0,0,,{TIME:175822,178324}Yeah… I feel sorry for it.
-Dialogue: 0,0:03:04.78,0:03:07.79,saint tail default,,0,0,0,,{TIME:184789,187792}Get Back the Tree of Happiness!
+Dialogue: 0,0:03:04.78,0:03:07.79,saint tail default,[title],0,0,0,,{TIME:184789,187792}Get Back the Tree of Happiness!
 Dialogue: 0,0:03:08.75,0:03:10.29,saint tail default,,0,0,0,,{TIME:188751,190294}Good morning!
 Dialogue: 0,0:03:11.00,0:03:12.79,saint tail default,,0,0,0,,{TIME:191003,192797}They seem in love!
 Dialogue: 0,0:03:13.38,0:03:15.04,saint tail default,,0,0,0,,{TIME:193381,195049}What? What? What is it?!
@@ -147,7 +147,7 @@ Dialogue: 0,0:07:32.80,0:07:38.18,saint tail default,,0,0,0,,{TIME:452807,458187
 Dialogue: 0,0:07:38.72,0:07:39.68,saint tail default,,0,0,0,,{TIME:458729,459689}Tomorrow night?
 Dialogue: 0,0:07:40.35,0:07:41.19,saint tail default,,0,0,0,,{TIME:460356,461190}Yes.
 Dialogue: 0,0:07:41.19,0:07:43.65,saint tail default,,0,0,0,,{TIME:461190,463651}So it's in time for the opening\Nthe day after tomorrow.
-Dialogue: 0,0:07:44.06,0:07:46.65,saint tail default,,0,0,0,,{TIME:464068,466654}Then what will happen to\Nthe current tree in the park?
+Dialogue: 0,0:07:44.06,0:07:46.65,saint tail default,,0,0,0,,{TIME:464068,466654}Then what will happen\Nto the current tree in the park?
 Dialogue: 0,0:07:47.02,0:07:50.44,saint tail default,,0,0,0,,{TIME:467029,470449}It's terrible,\Nbut it will be disposed of.
 Dialogue: 0,0:07:50.44,0:07:51.65,saint tail default,,0,0,0,,{TIME:470449,471659}No way!
 Dialogue: 0,0:07:51.65,0:07:54.45,saint tail default,,0,0,0,,{TIME:471659,474453}It'll be replaced because\Nit isn't useful anymore…
@@ -197,7 +197,7 @@ Dialogue: 0,0:10:55.88,0:10:58.09,saint tail default,,0,0,0,,{TIME:655885,658095
 Dialogue: 0,0:10:58.09,0:10:59.97,saint tail default,,0,0,0,,{TIME:658095,659972}There's no time to lose!
 Comment: 0,0:11:06.68,0:11:06.68,[chapter],[chapter],0,0,0,,{TIME:666687,666687}Eyecatch
 Comment: 0,0:11:11.69,0:11:11.69,[chapter],[chapter],0,0,0,,{TIME:671692,671692}Part B
-Dialogue: 0,0:11:16.78,0:11:20.91,saint tail default,,0,0,0,,{TIME:676780,680910}I'm going to ask Mr. Tachibana\Nto stop once more.
+Dialogue: 0,0:11:16.78,0:11:20.91,saint tail default,,0,0,0,,{TIME:676780,680910}{\i1}I'm going to ask Mr. Tachibana\Nto stop once more.
 Dialogue: 0,0:11:26.24,0:11:27.54,saint tail default,,0,0,0,,{TIME:686248,687541}Excuse me!
 Dialogue: 0,0:11:30.66,0:11:33.29,saint tail default,,0,0,0,,{TIME:690669,693297}That's strange.\NI wonder if anyone is here.
 Dialogue: 0,0:11:37.80,0:11:39.47,saint tail default,,0,0,0,,{TIME:697801,699470}We've got it at last!
@@ -229,7 +229,7 @@ Dialogue: 0,0:13:52.85,0:13:53.81,saint tail default,,0,0,0,,{TIME:832853,833812
 Dialogue: 0,0:13:53.81,0:13:55.89,saint tail default,,0,0,0,,{TIME:833812,835898}Nothing is\Nimpossible for St. Tail.
 Dialogue: 0,0:13:58.19,0:14:01.77,saint tail default,,0,0,0,,{TIME:838192,841779}May the blessings of God be with us.
 Dialogue: 0,0:14:05.19,0:14:06.70,saint tail default,,0,0,0,,{TIME:845199,846700}You're Mr. Tachibana,\Naren't you?
-Dialogue: 0,0:14:09.62,0:14:13.08,saint tail default,,0,0,0,,{TIME:849620,853082}Oh, welcome. I was\Nwaiting for you, Asuka Jr.
+Dialogue: 0,0:14:09.62,0:14:13.08,saint tail default,,0,0,0,,{TIME:849620,853082}Oh, welcome.\NI was waiting for you, Asuka Jr.
 Dialogue: 0,0:14:13.45,0:14:14.50,saint tail default,,0,0,0,,{TIME:853457,854500}Hello.
 Dialogue: 0,0:14:14.50,0:14:20.79,saint tail default,,0,0,0,,{TIME:854500,860798}Anyway, the Tree of Happiness that St. Tail\Nis targeting was planted around here, I thought.
 Dialogue: 0,0:14:21.04,0:14:23.42,saint tail default,,0,0,0,,{TIME:861048,863425}Oh, you mean the old tree.
@@ -271,6 +271,7 @@ Dialogue: 0,0:16:41.73,0:16:43.27,saint tail default,,0,0,0,,{TIME:1001730,10032
 Dialogue: 0,0:16:47.61,0:16:48.98,saint tail default,,0,0,0,,{TIME:1007611,1008987}One!
 Dialogue: 0,0:16:48.98,0:16:50.11,saint tail default,,0,0,0,,{TIME:1008987,1010113}Two!
 Dialogue: 0,0:16:50.11,0:16:52.28,saint tail default,,0,0,0,,{TIME:1010113,1012282}Three!
+Dialogue: 0,0:16:56.28,0:16:57.66,saint tail default,,0,0,0,,{TIME:1016286,1017663}Rats!
 Dialogue: 0,0:17:03.29,0:17:04.46,saint tail default,,0,0,0,,{TIME:1023293,1024461}Shoot!
 Dialogue: 0,0:17:08.84,0:17:11.05,saint tail default,,0,0,0,,{TIME:1028840,1031051}I'm taking the Tree of Happiness!
 Dialogue: 0,0:17:11.05,0:17:13.51,saint tail default,,0,0,0,,{TIME:1031051,1033512}I won't let you leave!
@@ -283,11 +284,11 @@ Dialogue: 0,0:17:56.93,0:17:59.76,saint tail default,,0,0,0,,{TIME:1076930,10797
 Dialogue: 0,0:18:00.14,0:18:02.76,saint tail default,,0,0,0,,{TIME:1080142,1082769}Those two confessed to everything.
 Dialogue: 0,0:18:02.97,0:18:03.77,saint tail default,,0,0,0,,{TIME:1082978,1083770}What?!
 Dialogue: 0,0:18:06.48,0:18:08.23,saint tail default,,0,0,0,,{TIME:1086481,1088233}You…
-Dialogue: 0,0:18:15.86,0:18:17.11,saint tail default,,0,0,0,,{TIME:1095866,1097117}Hello, Son!
-Dialogue: 0,0:18:18.20,0:18:19.41,saint tail default,,0,0,0,,{TIME:1098201,1099411}Oh, hi, Dad!
+Dialogue: 0,0:18:15.86,0:18:17.11,saint tail default,,0,0,0,,{TIME:1095866,1097117}Hello, son!
+Dialogue: 0,0:18:18.20,0:18:19.41,saint tail default,,0,0,0,,{TIME:1098201,1099411}Dad?
 Dialogue: 0,0:18:20.82,0:18:23.16,saint tail default,,0,0,0,,{TIME:1100829,1103165}What are you doing here?
 Dialogue: 0,0:18:23.16,0:18:25.41,saint tail default,,0,0,0,,{TIME:1103165,1105417}Isn't that Mr. Tachibana?
-Dialogue: 0,0:18:25.41,0:18:30.00,saint tail default,,0,0,0,,{TIME:1105417,1110005}He was using the nature park as\Na cover for selling rare flowers illegally.
+Dialogue: 0,0:18:25.41,0:18:31.04,saint tail default,,0,0,0,,{TIME:1105417,1111048}He was using the nature park\Nas a cover for selling rare flowers illegally.
 Dialogue: 0,0:18:31.34,0:18:32.29,saint tail default,,0,0,0,,{TIME:1111340,1112299}What?!
 Dialogue: 0,0:18:33.00,0:18:35.51,saint tail default,,0,0,0,,{TIME:1113008,1115510}He's been a suspect for a while.
 Dialogue: 0,0:18:35.51,0:18:37.92,saint tail default,,0,0,0,,{TIME:1115510,1117929}We got the warrant\Nand came here, then…
@@ -351,8 +352,8 @@ Dialogue: 0,0:22:28.36,0:22:31.37,saint tail sign,(sign),0,0,0,,{TIME:1348368,13
 Dialogue: 0,0:22:29.70,0:22:33.62,saint tail default,,0,0,0,,{TIME:1349703,1353623}In the mountain behind St. Paulia School,\NMr. Yamano discovered{NOTE:聖ポーリア学院の裏山には山野先生が発見した、}
 Dialogue: 0,0:22:33.62,0:22:36.16,saint tail default,,0,0,0,,{TIME:1353623,1356167}a rare butterfly species\Nnamed Yamano Oomurasaki.{NOTE:ヤマノオオムラサキという蝶がいるの}
 Dialogue: 0,0:22:36.16,0:22:40.63,saint tail default,,0,0,0,,{TIME:1356167,1360630}But these two youngsters\Nare catching the poor things!{NOTE:だけど二人の若者がその蝶達を盗んで行っちゃったの}
-Dialogue: 0,0:22:40.63,0:22:44.75,saint tail default,,0,0,0,,{TIME:1360630,1364759}They want to sell them on the black market!{NOTE:彼らは貴重な蝶を集めては、密売をしているんだって}
+Dialogue: 0,0:22:40.63,0:22:44.75,saint tail default,,0,0,0,,{TIME:1360630,1364759}They want to sell them\Non the black market!{NOTE:彼らは貴重な蝶を集めては、密売をしているんだって}
 Dialogue: 0,0:22:44.75,0:22:49.26,saint tail default,,0,0,0,,{TIME:1364759,1369264}I have to return butterflies\Nto nature for Mr. Yamano!{NOTE:山野先生のためにも、蝶達を自然の中に返してあげなくっちゃ}
 Dialogue: 0,0:22:49.26,0:22:51.26,saint tail default,,0,0,0,,{TIME:1369264,1371266}Next time on Saint Tail:{NOTE:次回、怪盗セイント・テール}
 Dialogue: 0,0:22:51.26,0:22:54.01,saint tail default,,0,0,0,,{TIME:1371266,1374019}"A Precious Creature of Nature:\NSave the Beautiful Butterfly!"{NOTE:『自然の宝・美しき蝶を守れ!』}
-Dialogue: 0,0:22:54.01,0:22:57.27,saint tail default,,0,0,0,,{TIME:1374019,1377272}May the blessings of God be with you.{NOTE:みなさんに、神のご加護がありますように}
+Dialogue: 0,0:22:54.01,0:22:57.27,saint tail default,,0,0,0,,{TIME:1374019,1377272}May the blessings\Nof God be with you.{NOTE:みなさんに、神のご加護がありますように}
