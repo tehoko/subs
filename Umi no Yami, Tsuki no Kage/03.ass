@@ -7,7 +7,7 @@ PlayResY: 480
 YCbCr Matrix: TV.601
 WrapStyle: 2
 ScaledBorderAndShadow: yes
-Title: Umi no Yami, Tsuki no Kage - 02
+Title: Umi no Yami, Tsuki no Kage - 03
 Audio File: source/03.mp4
 Video File: source/03.mp4
 
@@ -21,6 +21,7 @@ Style: Title 3,FOT-Seurat Pro,40,&H00E7EBEB,&H000000FF,&H00000000,&H7F202020,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:12652,12652}Copyright
 Dialogue: 1,0:00:06.95,0:00:11.78,Title 1,(sign),0,0,0,,{TIME:6952,11786}{\an5\pos(320,410)\1c&H101010&\3c&H101010&\t(0,2000,\1c&HBE843E&\3c&HBE843E&)\t(4100,6900,0.05,\1c&H202010&\3c&H202010&)\fad(200,500)\blur0.5}Weekly Shoujo Comic\NOfficial Video Animation{NOTE:週刊\\N少女コミックビデオ}
 Dialogue: 1,0:00:06.95,0:00:11.78,Title 1,(sign),0,0,0,,{TIME:6952,11786}{\an5\pos(320,410)\1c&H101010&\3c&H101010&\t(0,2000,\1c&HBE843E&\3c&HBE843E&)\t(4100,6900,0.05,\1c&H202010&\3c&H202010&)\fad(200,500)\bord0\blur0.5}Weekly Shoujo Comic\NOfficial Video Animation{NOTE:週刊\\N少女コミックビデオ}
 Comment: 0,0:00:11.11,0:00:11.11,Default,[chapter],0,0,0,,{TIME:11119,11119}Intro
@@ -75,11 +76,11 @@ Dialogue: 0,0:03:24.71,0:03:26.35,Default,,0,0,0,,{TIME:204719,206352}Ruka-san?
 Dialogue: 0,0:03:26.91,0:03:28.68,Default,,0,0,0,,{TIME:206919,208686}Your tea will get cold.
 Dialogue: 0,0:03:28.68,0:03:29.31,Default,,0,0,0,,{TIME:208686,209319}Thank you, ma'am.
 Dialogue: 0,0:03:31.28,0:03:33.25,Default,,0,0,0,,{TIME:211286,213252}Girls are good…
-Dialogue: 0,0:03:33.81,0:03:37.25,Default,,0,0,0,,{TIME:213819,217252}If I had such a lovely daughter like you,\NI could teach her the art of tea ceremony.
+Dialogue: 0,0:03:33.81,0:03:37.91,Default,,0,0,0,,{TIME:213819,217919}If I had such a lovely daughter,\NI could teach her the art of tea ceremony.
 Dialogue: 0,0:03:38.38,0:03:40.25,Default,,0,0,0,,{TIME:218386,220252}Who can it be at this time?
-Dialogue: 0,0:03:43.68,0:03:47.15,Default,,0,0,0,,{TIME:223686,227152}We are Kobayakawa Ruka's parents.\NWe would like to take our daughter home.
+Dialogue: 0,0:03:43.68,0:03:47.61,Default,,0,0,0,,{TIME:223686,227619}We are Kobayakawa Ruka's parents.\NWe would like to take our daughter home.
 Dialogue: 0,0:03:47.61,0:03:49.11,Default,,0,0,0,,{TIME:227619,229119}Oh, did she do anything?
-Dialogue: 0,0:03:49.41,0:03:53.98,Default,,0,0,0,,{TIME:229419,233986}{\fscx90}We were cautious about our daughter's relationship\Nwith your son, but now she ran away from home.
+Dialogue: 0,0:03:49.41,0:03:54.28,Default,,0,0,0,,{TIME:229419,234286}{\fscx90}We were cautious about our daughter's relationship\Nwith your son, but now she ran away from home.
 Dialogue: 0,0:03:54.28,0:03:55.55,Default,,0,0,0,,{TIME:234286,235552}{\i1}What are they doing here?
 Dialogue: 0,0:03:55.91,0:03:59.25,Default,,0,0,0,,{TIME:235919,239252}If she is there,\Nwe would like to take her home.
 Dialogue: 0,0:04:00.11,0:04:04.98,Default,,0,0,0,,{TIME:240119,244986}{\i1}What to do? If I run away,\NI will only cause more trouble for Katsuyuki.
@@ -101,7 +102,7 @@ Dialogue: 0,0:05:07.35,0:05:09.85,Default,,0,0,0,,{TIME:307352,309852}But Rumi w
 Dialogue: 0,0:05:10.05,0:05:12.88,Default,,0,0,0,,{TIME:310052,312886}She completely disappeared.\NNo one at school has seen her.
 Dialogue: 0,0:05:12.88,0:05:14.48,Default,,0,0,0,,{TIME:312886,314486}Then where is she?
 Dialogue: 0,0:05:15.35,0:05:18.55,Default,,0,0,0,,{TIME:315352,318552}No idea. Let's talk\Nto the rest of the club members.
-Dialogue: 0,0:05:19.01,0:05:21.48,Default,,0,0,0,,{TIME:319019,321486}Katsuyuki, are you sure you're fine?
+Dialogue: 0,0:05:19.01,0:05:21.48,Default,,0,0,0,,{TIME:319019,321486}Katsuyuki, are you sure\Nyou're feeling fine?
 Dialogue: 0,0:05:21.48,0:05:24.58,Default,,0,0,0,,{TIME:321486,324586}Hell yeah I am.\NYou're not infecting anybody.
 Dialogue: 0,0:05:24.58,0:05:26.45,Default,,0,0,0,,{TIME:324586,326452}Let's go search for Rumi.
 Dialogue: 0,0:05:28.48,0:05:29.41,Default,,0,0,0,,{TIME:328486,329419}Mariko!
@@ -140,7 +141,7 @@ Dialogue: 0,0:07:00.35,0:07:03.85,Default,,0,0,0,,{TIME:420352,423852}They don't
 Dialogue: 0,0:07:03.85,0:07:05.11,Default,,0,0,0,,{TIME:423852,425119}What should we do?
 Dialogue: 0,0:07:12.31,0:07:13.91,Default,,0,0,0,,{TIME:432319,433919}Rumi!
 Dialogue: 0,0:07:23.01,0:07:24.48,Default,,0,0,0,,{TIME:443019,444486}What is she trying to do?
-Dialogue: 0,0:07:31.68,0:07:33.78,Default,,0,0,0,,{TIME:451686,453786}{\i1}What is she thinking?
+Dialogue: 0,0:07:31.68,0:07:33.78,Default,,0,0,0,,{TIME:451686,453786}What is she thinking?
 Dialogue: 0,0:07:40.71,0:07:41.75,Default,,0,0,0,,{TIME:460719,461752}Found her?
 Dialogue: 0,0:07:41.75,0:07:42.78,Default,,0,0,0,,{TIME:461752,462786}Nope.
 Dialogue: 0,0:07:42.78,0:07:45.98,Default,,0,0,0,,{TIME:462786,465986}The boys are looking in the east wing,\Nso the west wing is—
@@ -191,7 +192,7 @@ Dialogue: 0,0:10:34.55,0:10:36.05,Default,,0,0,0,,{TIME:634552,636052}Rumi!
 Dialogue: 0,0:10:39.11,0:10:42.28,Default,,0,0,0,,{TIME:639119,642286}Damn! When did\Nshe infect all of them?!
 Dialogue: 0,0:10:42.61,0:10:44.21,Default,,0,0,0,,{TIME:642619,644219}What do you want, Rumi?
 Dialogue: 0,0:10:44.41,0:10:46.58,Default,,0,0,0,,{TIME:644419,646586}Ruka, you are going to die\Nfrom an accident.
-Dialogue: 0,0:10:46.58,0:10:49.18,Default,,0,0,0,,{TIME:646586,649186}Something will fall on you\Nduring a normal training.
+Dialogue: 0,0:10:46.58,0:10:49.18,Default,,0,0,0,,{TIME:646586,649186}Something will fall on you\Nduring a casual training.
 Dialogue: 0,0:11:00.88,0:11:02.21,Default,,0,0,0,,{TIME:660886,662219}Stop it, Rumi!
 Dialogue: 0,0:11:04.88,0:11:06.05,Default,,0,0,0,,{TIME:664886,666052}Katsuyuki!
 Dialogue: 0,0:11:06.28,0:11:07.31,Default,,0,0,0,,{TIME:666286,667319}"Katsuyuki"?
@@ -199,13 +200,13 @@ Dialogue: 0,0:11:07.31,0:11:09.05,Default,,0,0,0,,{TIME:667319,669052}Hmm? "Kats
 Dialogue: 0,0:11:09.05,0:11:11.01,Default,,0,0,0,,{TIME:669052,671019}When did you two become so close?
 Dialogue: 0,0:11:11.31,0:11:15.21,Default,,0,0,0,,{TIME:671319,675219}I can call Senpai…\NI can call Katsuyuki what I want.
 Dialogue: 0,0:11:16.75,0:11:20.88,Default,,0,0,0,,{TIME:676752,680886}If that's how it is, I'll show you\Nsomething cool before I kill you.
-Dialogue: 0,0:11:20.88,0:11:24.88,Default,,0,0,0,,{TIME:680886,684886}I'll show you which one of us\NKatsuyuki-san really prefers.
+Dialogue: 0,0:11:20.88,0:11:24.88,Default,,0,0,0,,{TIME:680886,684886}I'll let you see which one of us\NKatsuyuki-san really prefers.
 Dialogue: 0,0:11:24.88,0:11:26.38,Default,,0,0,0,,{TIME:684886,686386}Right, Katsuyuki-san?
 Dialogue: 0,0:11:26.38,0:11:27.81,Default,,0,0,0,,{TIME:686386,687819}Don't do it, Rumi!
 Dialogue: 0,0:11:27.81,0:11:29.35,Default,,0,0,0,,{TIME:687819,689352}Rumi…
 Dialogue: 0,0:11:36.48,0:11:37.88,Default,,0,0,0,,{TIME:696486,697886}{\i1}Katsuyuki…
 Dialogue: 0,0:11:40.65,0:11:44.31,Default,,0,0,0,,{TIME:700652,704319}All that's left is to wait for\NKatsuyuki-san to come to his senses.
-Dialogue: 0,0:11:44.81,0:11:46.15,Default,,0,0,0,,{TIME:704819,706152}{\i1}Oh my god.
+Dialogue: 0,0:11:44.81,0:11:46.15,Default,,0,0,0,,{TIME:704819,706152}{\i1}Oh my God!
 Dialogue: 0,0:11:46.15,0:11:48.45,Default,,0,0,0,,{TIME:706152,708452}{\i1}What did I ever do to her?
 Dialogue: 0,0:11:48.95,0:11:49.95,Default,,0,0,0,,{TIME:708952,709952}Katsuyuki!
 Dialogue: 0,0:11:53.68,0:11:55.28,Default,,0,0,0,,{TIME:713686,715286}Looks like it's starting to work.
@@ -228,7 +229,7 @@ Dialogue: 0,0:13:00.65,0:13:03.51,Default,,0,0,0,,{TIME:780652,783519}Anybody wh
 Dialogue: 0,0:13:17.05,0:13:19.58,Sign,(sign),0,0,0,,{TIME:797052,799586}{\fad(200,100)}Biology Room
 Dialogue: 0,0:13:24.65,0:13:28.21,Default,,0,0,0,,{TIME:804652,808219}{\i1}His hand…\NKatsuyuki's hand is so cold.
 Dialogue: 0,0:13:28.21,0:13:30.08,Default,,0,0,0,,{TIME:808219,810086}Katsuyuki!
-Dialogue: 0,0:13:30.08,0:13:31.95,Default,,0,0,0,,{TIME:810086,811952}I'm fine… for time being.
+Dialogue: 0,0:13:30.08,0:13:31.95,Default,,0,0,0,,{TIME:810086,811952}I'm all right… for time being.
 Dialogue: 0,0:13:32.18,0:13:35.28,Default,,0,0,0,,{TIME:812186,815286}No, Katsuyuki…\NYou shouldn't go anywhere now.
 Dialogue: 0,0:13:35.91,0:13:38.05,Default,,0,0,0,,{TIME:815919,818052}Come with me, Ruka.
 Dialogue: 0,0:13:43.71,0:13:44.91,Default,,0,0,0,,{TIME:823719,824919}What are you looking for?
@@ -265,7 +266,7 @@ Dialogue: 0,0:16:09.51,0:16:11.65,Default,,0,0,0,,{TIME:969519,971652}{\i1}Why i
 Dialogue: 0,0:16:12.45,0:16:13.98,Default,,0,0,0,,{TIME:972452,973986}Are you okay, Ruka?
 Dialogue: 0,0:16:13.98,0:16:15.55,Default,,0,0,0,,{TIME:973986,975552}Never mind about me,\Nwhat about you?
 Dialogue: 0,0:16:15.75,0:16:18.75,Default,,0,0,0,,{TIME:975752,978752}Not sure, to be honest.\NOne moment, it stopped and I got calm.
-Dialogue: 0,0:16:18.75,0:16:21.55,Default,,0,0,0,,{TIME:978752,981552}So you didn't get infected?
+Dialogue: 0,0:16:18.75,0:16:21.55,Default,,0,0,0,,{TIME:978752,981552}So she didn't infect you?
 Dialogue: 0,0:16:21.75,0:16:22.65,Default,,0,0,0,,{TIME:981752,982652}Looks that way.
 Dialogue: 0,0:16:22.65,0:16:24.35,Default,,0,0,0,,{TIME:982652,984352}But why? How is this possible?
 Dialogue: 0,0:16:24.35,0:16:25.48,Default,,0,0,0,,{TIME:984352,985486}It's thanks to you, Ruka!
@@ -284,9 +285,9 @@ Dialogue: 0,0:17:01.88,0:17:03.98,Default,,0,0,0,,{TIME:1021886,1023986}Let's go
 Dialogue: 0,0:17:03.98,0:17:06.11,Default,,0,0,0,,{TIME:1023986,1026119}I'll talk to my folks.
 Dialogue: 0,0:17:06.11,0:17:08.08,Default,,0,0,0,,{TIME:1026119,1028086}Okay.
 Dialogue: 0,0:17:13.38,0:17:15.08,Default,,0,0,0,,{TIME:1033386,1035086}{\i1}So frustrating.
-Dialogue: 0,0:17:15.08,0:17:17.65,Default,,0,0,0,,{TIME:1035086,1037652}{\i1}This is not what I wanted.
-Dialogue: 0,0:17:17.65,0:17:21.65,Default,,0,0,0,,{TIME:1037652,1041652}{\i1}I only have control\Nover those I don't want.
-Dialogue: 0,0:17:21.65,0:17:23.98,Default,,0,0,0,,{TIME:1041652,1043986}{\i1}I don't care what happens next.
+Dialogue: 0,0:17:15.08,0:17:17.65,Default,,0,0,0,,{TIME:1035086,1037652}{\i1}This is not at all what I wanted.
+Dialogue: 0,0:17:17.65,0:17:21.65,Default,,0,0,0,,{TIME:1037652,1041652}{\i1}I only have control\Nover those I don't care about.
+Dialogue: 0,0:17:21.65,0:17:23.98,Default,,0,0,0,,{TIME:1041652,1043986}{\i1}I don't give a damn\Nwhat happens next.
 Dialogue: 0,0:17:25.35,0:17:27.38,Default,,0,0,0,,{TIME:1045352,1047386}Ruka! Just you wait.
 Dialogue: 0,0:17:27.38,0:17:29.38,Default,,0,0,0,,{TIME:1047386,1049386}Soon it will be full moon.
 Dialogue: 0,0:17:40.35,0:17:41.68,Default,,0,0,0,,{TIME:1060352,1061686}Oh? We don't have sweet sake.
@@ -367,7 +368,7 @@ Dialogue: 0,0:23:37.75,0:23:42.91,Default,,0,0,0,,{TIME:1417752,1422919}{\fscx95
 Dialogue: 0,0:23:42.91,0:23:43.91,Default,,0,0,0,,{TIME:1422919,1423919}Rumi…
 Dialogue: 0,0:23:44.61,0:23:47.78,Default,,0,0,0,,{TIME:1424619,1427786}You and I were exactly the same,\Nin every single aspect.
 Dialogue: 0,0:23:47.78,0:23:50.38,Default,,0,0,0,,{TIME:1427786,1430386}The appearance. The constitution.\NHow we were raised.
-Dialogue: 0,0:23:50.58,0:23:55.61,Default,,0,0,0,,{TIME:1430586,1435619}Yes. Everything was the same until that day.\NThe day when you confessed to Katsuyuki-san.
+Dialogue: 0,0:23:50.58,0:23:55.61,Default,,0,0,0,,{TIME:1430586,1435619}Yes. Everything had been the same until that day.\NThe day when Katsuyuki-san confessed to you.
 Dialogue: 0,0:24:07.68,0:24:11.35,Default,,0,0,0,,{TIME:1447686,1451352}The following day,\Nwe were infected with the virus.
 Dialogue: 0,0:24:20.78,0:24:24.91,Default,,0,0,0,,{TIME:1460786,1464919}If there was any difference\Nbetween us on that day,
 Dialogue: 0,0:24:24.91,0:24:27.08,Default,,0,0,0,,{TIME:1464919,1467086}it had to do with Katsuyuki-san.
@@ -378,7 +379,7 @@ Dialogue: 0,0:24:36.45,0:24:38.48,Default,,0,0,0,,{TIME:1476452,1478486}No. That
 Dialogue: 0,0:24:38.95,0:24:43.18,Default,,0,0,0,,{TIME:1478952,1483186}I do not regret\Nthat we parted our ways.
 Dialogue: 0,0:24:44.35,0:24:47.18,Default,,0,0,0,,{TIME:1484352,1487186}At first, I was going\Nto congratulate you both.
 Dialogue: 0,0:24:47.78,0:24:50.65,Default,,0,0,0,,{TIME:1487786,1490652}But I realized that it would be\Npure hypocrisy on my part.
-Dialogue: 0,0:24:51.38,0:24:55.08,Default,,0,0,0,,{TIME:1491386,1495086}I don't really want to give\NKatsuyuki to anyone.
+Dialogue: 0,0:24:51.38,0:24:55.08,Default,,0,0,0,,{TIME:1491386,1495086}I don't really want to give\NKatsuyuki-san to anyone.
 Dialogue: 0,0:24:55.45,0:25:00.91,Default,,0,0,0,,{TIME:1495452,1500919}What I do or whom I kill\Nceased to matter for me.
 Dialogue: 0,0:25:01.68,0:25:04.15,Default,,0,0,0,,{TIME:1501686,1504152}I want Katsuyuki-san for myself!
 Dialogue: 0,0:25:04.15,0:25:06.01,Default,,0,0,0,,{TIME:1504152,1506019}Rumi! Rumi, open your eyes!
@@ -390,17 +391,17 @@ Dialogue: 0,0:25:30.61,0:25:33.05,Default,,0,0,0,,{TIME:1530619,1533052}My feeli
 Dialogue: 0,0:25:33.51,0:25:35.88,Default,,0,0,0,,{TIME:1533519,1535886}I'm only giving you my body.
 Dialogue: 0,0:25:35.88,0:25:38.41,Default,,0,0,0,,{TIME:1535886,1538419}Kill me if you wish.
 Dialogue: 0,0:25:38.41,0:25:41.15,Default,,0,0,0,,{TIME:1538419,1541152}Then do with me as you please.
-Dialogue: 0,0:25:41.15,0:25:42.71,Default,,0,0,0,,{TIME:1541152,1542719}But in return,\Nit will end here and now.
+Dialogue: 0,0:25:41.15,0:25:42.71,Default,,0,0,0,,{TIME:1541152,1542719}But in return,\Nthis ends here and now.
 Dialogue: 0,0:25:43.71,0:25:47.18,Default,,0,0,0,,{TIME:1543719,1547186}You will not kill anyone else,\Nand you will stop harassing Ruka.
 Dialogue: 0,0:25:48.28,0:25:50.28,Default,,0,0,0,,{TIME:1548286,1550286}Katsuyuki-san…
 Dialogue: 0,0:25:50.28,0:25:51.41,Default,,0,0,0,,{TIME:1550286,1551419}can be mine?
-Dialogue: 0,0:25:52.11,0:25:53.98,Default,,0,0,0,,{TIME:1552119,1553986}– Rumi, don't!\N– Stay out of this, Ruka.
-Dialogue: 0,0:25:53.98,0:25:56.28,Default,,0,0,0,,{TIME:1553986,1556286}Rumi, what do you think\Nwill happen if you kill Katsuyuki?
+Dialogue: 0,0:25:52.11,0:25:53.91,Default,,0,0,0,,{TIME:1552119,1553919}– Rumi, don't!\N– Stay out of this, Ruka.
+Dialogue: 0,0:25:53.91,0:25:56.28,Default,,0,0,0,,{TIME:1553919,1556286}Rumi, what do you think\Nwill happen if you kill Katsuyuki?
 Dialogue: 0,0:25:56.28,0:25:58.35,Default,,0,0,0,,{TIME:1556286,1558352}You love him!
 Dialogue: 0,0:25:58.35,0:26:01.28,Default,,0,0,0,,{TIME:1558352,1561286}You can't kill him!\NDon't you get it?!
 Dialogue: 0,0:26:01.28,0:26:03.38,Default,,0,0,0,,{TIME:1561286,1563386}It's you who doesn't get it.
 Dialogue: 0,0:26:03.38,0:26:06.05,Default,,0,0,0,,{TIME:1563386,1566052}Katsuyuki-san said\Nhis feelings wouldn't change.
-Dialogue: 0,0:26:07.18,0:26:12.91,Default,,0,0,0,,{TIME:1567186,1572919}So if I don't want anyone to have Katsuyuki,\Nthe only option is to kill him.
+Dialogue: 0,0:26:07.18,0:26:12.91,Default,,0,0,0,,{TIME:1567186,1572919}So if I don't want anyone to have\NKatsuyuki-san, the only option is to kill him.
 Dialogue: 0,0:26:18.95,0:26:21.28,Default,,0,0,0,,{TIME:1578952,1581286}Katsuyuki-san will become mine.
 Dialogue: 0,0:26:28.71,0:26:29.85,Default,,0,0,0,,{TIME:1588719,1589852}Don't do it, Rumi!
 Dialogue: 0,0:26:34.45,0:26:35.78,Default,,0,0,0,,{TIME:1594452,1595786}Rumi?
