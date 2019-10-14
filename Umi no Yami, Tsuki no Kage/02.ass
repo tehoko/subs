@@ -21,6 +21,7 @@ Style: Title 3,FOT-Seurat Pro,40,&H00E7EBEB,&H000000FF,&H00000000,&H7F202020,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:12652,12652}Copyright
 Dialogue: 1,0:00:07.48,0:00:11.65,Title 1,(sign),0,0,0,,{TIME:7486,11652}{\an5\pos(320,410)\1c&H101010&\3c&H101010&\t(0,1000,\1c&HBE843E&\3c&HBE843E&)\t(3600,4200,0.1,\1c&H202010&\3c&H202010&)\fad(200,200)\blur0.5}Weekly Shoujo Comic\NOfficial Video Animation{NOTE:週刊\\N少女コミックビデオ}
 Dialogue: 1,0:00:07.48,0:00:11.65,Title 1,(sign),0,0,0,,{TIME:7486,11652}{\an5\pos(320,410)\1c&H101010&\3c&H101010&\t(0,1000,\1c&HBE843E&\3c&HBE843E&)\t(3600,4200,0.1,\1c&H202010&\3c&H202010&)\fad(200,200)\bord0\blur0.5}Weekly Shoujo Comic\NOfficial Video Animation{NOTE:週刊\\N少女コミックビデオ}
 Comment: 0,0:00:11.11,0:00:11.11,Default,[chapter],0,0,0,,{TIME:11119,11119}Intro
@@ -39,8 +40,8 @@ Dialogue: 0,0:01:00.51,0:01:02.88,Default,,0,0,0,,{TIME:60519,62886}But if I don
 Dialogue: 0,0:01:02.88,0:01:05.55,Default,,0,0,0,,{TIME:62886,65552}No matter what you say,\Nmy feeling doesn't change.
 Dialogue: 0,0:01:07.55,0:01:09.88,Default,,0,0,0,,{TIME:67552,69886}Can you guess\Nwhat I'm thinking right now?
 Dialogue: 0,0:01:12.35,0:01:16.31,Default,,0,0,0,,{TIME:72352,76319}I'm not sure what I want more,\Nto slap you or to drag you to that warehouse.
-Dialogue: 0,0:01:17.41,0:01:20.28,Default,,0,0,0,,{TIME:77419,80286}I told you before.\NI won't be scared by Rumi
-Dialogue: 0,0:01:20.68,0:01:24.68,Default,,0,0,0,,{TIME:80686,84686}I'm not the type\Nthat suppresses his emotions.
+Dialogue: 0,0:01:17.41,0:01:20.28,Default,,0,0,0,,{TIME:77419,80286}I told you before.\NI won't be scared by Rumi.
+Dialogue: 0,0:01:20.68,0:01:24.68,Default,,0,0,0,,{TIME:80686,84686}I'm not the type that likes\Nto suppress his emotions.
 Dialogue: 0,0:01:24.68,0:01:26.65,Default,,0,0,0,,{TIME:84686,86652}Let's be honest.
 Dialogue: 0,0:01:26.65,0:01:31.15,Default,,0,0,0,,{TIME:86652,91152}I can't imagine her getting better\Njust because we don't go out with each other.
 Dialogue: 0,0:01:31.15,0:01:34.45,Default,,0,0,0,,{TIME:91152,94452}I'll try once more to convince Rumi\Nto go to the hospital with me.
@@ -50,7 +51,7 @@ Dialogue: 0,0:01:41.18,0:01:43.88,Default,,0,0,0,,{TIME:101186,103886}I've made 
 Dialogue: 0,0:01:43.88,0:01:45.85,Default,,0,0,0,,{TIME:103886,105852}S… Senpai?
 Dialogue: 0,0:01:48.85,0:01:51.51,Default,,0,0,0,,{TIME:108852,111519}Stop it. Stop it, please!
 Dialogue: 0,0:01:52.65,0:01:56.45,Default,,0,0,0,,{TIME:112652,116452}I will, if you say you don't like it.
-Dialogue: 0,0:02:01.35,0:02:02.91,Default,,0,0,0,,{TIME:121352,122919}It'll be okay.
+Dialogue: 0,0:02:01.35,0:02:02.91,Default,,0,0,0,,{TIME:121352,122919}I'll take it as a "yes".
 Dialogue: 0,0:02:08.91,0:02:10.65,Default,,0,0,0,,{TIME:128919,130652}Kobayakawa!\NWhere did he go?
 Dialogue: 0,0:02:10.65,0:02:11.81,Default,,0,0,0,,{TIME:130652,131819}Follow me.
 Dialogue: 0,0:02:13.65,0:02:15.31,Default,,0,0,0,,{TIME:133652,135319}It's Rumi's voice.
@@ -87,7 +88,7 @@ Dialogue: 0,0:03:53.88,0:03:56.38,Default,,0,0,0,,{TIME:233886,236386}After you 
 Dialogue: 0,0:03:56.38,0:03:57.55,Default,,0,0,0,,{TIME:236386,237552}You're going after Rumi.
 Dialogue: 0,0:03:57.55,0:03:58.88,Default,,0,0,0,,{TIME:237552,238886}Yes sir.
 Dialogue: 0,0:04:05.28,0:04:07.35,Default,,0,0,0,,{TIME:245286,247352}Sir, where's Captain Ishikura?
-Dialogue: 0,0:04:07.78,0:04:10.85,Default,,0,0,0,,{TIME:247786,250852}Ah, he was just here but he felt sick.
+Dialogue: 0,0:04:07.78,0:04:10.85,Default,,0,0,0,,{TIME:247786,250852}Ah, he was just here, but he felt sick.
 Dialogue: 0,0:04:13.15,0:04:14.11,Default,,0,0,0,,{TIME:253152,254119}Rumi?
 Dialogue: 0,0:04:14.11,0:04:16.41,Default,,0,0,0,,{TIME:254119,256419}Ruka, I'm starting the timer.
 Dialogue: 0,0:04:16.41,0:04:17.71,Default,,0,0,0,,{TIME:256419,257719}Yes sir!
@@ -121,7 +122,7 @@ Dialogue: 0,0:06:04.35,0:06:07.78,Default,,0,0,0,,{TIME:364352,367786}Rest assur
 Dialogue: 0,0:06:07.78,0:06:09.95,Default,,0,0,0,,{TIME:367786,369952}I don't have the power to kill you.
 Dialogue: 0,0:06:09.95,0:06:12.88,Default,,0,0,0,,{TIME:369952,372886}So it really has to do\Nwith the phases of the Moon?
 Dialogue: 0,0:06:13.08,0:06:14.81,Default,,0,0,0,,{TIME:373086,374819}Not just the Moon.
-Dialogue: 0,0:06:14.81,0:06:19.61,Default,,0,0,0,,{TIME:374819,379619}I think what Touma-senpai said\Nis probably true.{NOTE:xxx}
+Dialogue: 0,0:06:14.81,0:06:19.61,Default,,0,0,0,,{TIME:374819,379619}I think what Touma-senpai said\Nis probably true. About the infection, that is.{NOTE:xxx}
 Dialogue: 0,0:06:21.85,0:06:25.85,Default,,0,0,0,,{TIME:381852,385852}But yes, as full moon approaches,\NI feel something.
 Dialogue: 0,0:06:25.85,0:06:28.68,Default,,0,0,0,,{TIME:385852,388686}Something is going on with me.
 Dialogue: 0,0:06:28.68,0:06:31.58,Default,,0,0,0,,{TIME:388686,391586}I can feel the power\Nflowing through all of my body.
@@ -153,8 +154,7 @@ Dialogue: 0,0:08:17.11,0:08:19.21,Default,,0,0,0,,{TIME:497119,499219}Rumi, I've
 Dialogue: 0,0:08:19.21,0:08:21.98,Default,,0,0,0,,{TIME:499219,501986}Please, let's get to the hospital\Nand see that doctor once more.
 Dialogue: 0,0:08:21.98,0:08:23.41,Default,,0,0,0,,{TIME:501986,503419}Okay, Rumi?
 Dialogue: 0,0:08:23.41,0:08:24.38,Default,,0,0,0,,{TIME:503419,504386}Okay.
-Dialogue: 0,0:08:24.38,0:08:25.41,Default,,0,0,0,,{TIME:504386,505419}Ah, thank goodness!
-Dialogue: 0,0:08:25.41,0:08:26.91,Default,,0,0,0,,{TIME:505419,506919}I'll let the club adviser know.
+Dialogue: 0,0:08:24.38,0:08:26.91,Default,,0,0,0,,{TIME:504386,506919}Ah, thank goodness!\NI'll let the club adviser know.
 Dialogue: 0,0:08:31.01,0:08:33.45,Default,,0,0,0,,{TIME:511019,513452}Ruka, can we take a small detour?
 Dialogue: 0,0:08:33.45,0:08:35.31,Default,,0,0,0,,{TIME:513452,515319}Sure. Where to?
 Dialogue: 0,0:08:35.61,0:08:37.61,Default,,0,0,0,,{TIME:515619,517619}For shopping. Come with me.
@@ -196,6 +196,7 @@ Dialogue: 0,0:11:02.78,0:11:06.25,Default,,0,0,0,,{TIME:662786,666252}Stay away!
 Dialogue: 0,0:11:10.75,0:11:13.11,Default,,0,0,0,,{TIME:670752,673119}Someone help me!
 Dialogue: 0,0:11:16.28,0:11:19.01,Default,,0,0,0,,{TIME:676286,679019}Help me! Someone save me!
 Dialogue: 0,0:11:24.58,0:11:25.28,Default,,0,0,0,,{TIME:684586,685286}Rumi!
+Dialogue: 0,0:11:28.41,0:11:29.51,Default,,0,0,0,,{TIME:688419,689519}Ruka!
 Dialogue: 0,0:11:45.71,0:11:47.35,Default,,0,0,0,,{TIME:705719,707352}Don't look!\NDon't look, Ruka.
 Dialogue: 0,0:11:47.85,0:11:48.91,Default,,0,0,0,,{TIME:707852,708919}Is she okay?
 Dialogue: 0,0:11:48.91,0:11:49.98,Default,,0,0,0,,{TIME:708919,709986}Yes.
@@ -205,7 +206,7 @@ Dialogue: 0,0:12:08.45,0:12:12.98,Default,,0,0,0,,{TIME:728452,732986}Senpai… 
 Dialogue: 0,0:12:13.51,0:12:18.35,Default,,0,0,0,,{TIME:733519,738352}For better or worse,\Nthe witnesses couldn't see Rumi.
 Dialogue: 0,0:12:18.35,0:12:22.65,Default,,0,0,0,,{TIME:738352,742652}But if Ishikura was being\Nmanipulated by Rumi…
 Dialogue: 0,0:12:22.65,0:12:24.98,Default,,0,0,0,,{TIME:742652,744986}We shouldn't hide this.
-Dialogue: 0,0:12:25.28,0:12:27.51,Default,,0,0,0,,{TIME:745286,747519}As it is, Ishikura alone\Nwill be held responsible.
+Dialogue: 0,0:12:25.28,0:12:27.51,Default,,0,0,0,,{TIME:745286,747519}As it is, Ishikura alone\Nwill be blamed.
 Dialogue: 0,0:12:27.51,0:12:30.41,Default,,0,0,0,,{TIME:747519,750419}Yeah. I don't intend\Nto remain silent.
 Dialogue: 0,0:12:30.41,0:12:33.01,Default,,0,0,0,,{TIME:750419,753019}I'll try talking\Nto Mom and Dad once more.
 Dialogue: 0,0:12:33.01,0:12:36.88,Default,,0,0,0,,{TIME:753019,756886}If I wait until full moon and show them\Nmy powers, they will believe me.
@@ -410,7 +411,7 @@ Dialogue: 0,0:25:24.55,0:25:28.81,Default,,0,0,0,,{TIME:1524552,1528819}{\i1}Rum
 Dialogue: 0,0:25:29.58,0:25:32.05,Default,,0,0,0,,{TIME:1529586,1532052}{\i1}Are you really Rumi?
 Comment: 0,0:25:38.51,0:25:38.51,Default,[chapter],0,0,0,,{TIME:1538519,1538519}Ending
 Comment: 0,0:28:09.81,0:28:09.81,Default,[chapter],0,0,0,,{TIME:1689819,1689819}Next episode preview
-Dialogue: 0,0:28:09.81,0:28:16.05,Title 3,(sign),0,0,0,,{TIME:1689819,1696052}{\fad(500,0)\t(4900,6200,0.05,\alpha&HFF&)}Next volume
+Dialogue: 0,0:28:09.81,0:28:16.05,Title 3,(sign),0,0,0,,{TIME:1689819,1696052}{\blur0.5\fad(500,0)\t(4900,6200,0.05,\alpha&HFF&)}Next volume
 Dialogue: 0,0:28:15.65,0:28:19.01,Default,,0,0,0,,{TIME:1695652,1699019}Rumi, burning with hatred,\Ncontinues to take her vengeance.
 Dialogue: 0,0:28:19.01,0:28:25.05,Default,,0,0,0,,{TIME:1699019,1705052}For her goal she infected and used two\Nof her classmates, and even her own family.
 Dialogue: 0,0:28:25.05,0:28:29.41,Default,,0,0,0,,{TIME:1705052,1709419}Ruka is afraid that now that Rumi knows\NKatsuyuki's feelings won't change,
