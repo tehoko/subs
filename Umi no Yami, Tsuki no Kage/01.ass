@@ -13,18 +13,21 @@ Video File: source/01.mp4
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,28,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.0,0.0,2,20,20,20,1
-Style: Sign,Arial,28,&H00FFFF00,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.0,0.0,8,20,20,20,1
+Style: Default,Arial,28,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.5,0.0,2,20,20,20,1
+Style: Sign,Arial,28,&H00FFFF00,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.5,0.0,8,20,20,20,1
 Style: Title 1,Helve Cursive,53,&H00E5C16E,&H000000FF,&H00E5C26E,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,1.3,0.0,2,20,20,20,1
 Style: Title 2,Monotype Corsiva,50,&H003A3132,&H000000FF,&H00C2C7BA,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,0.0,2,20,20,20,1
 Style: Title 3,FOT-Seurat Pro,40,&H00E7EBEB,&H000000FF,&H00000000,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:12652,12652}Copyright
 Dialogue: 1,0:00:07.15,0:00:12.61,Title 1,(sign),0,0,0,,{TIME:7152,12619}{\an5\pos(320,410)\1c&H101010&\3c&H101010&\t(0,1000,\1c&HCF913C&\3c&HCF913C&)\t(1000,2000,\1c&HEFDF80&\3c&HEFDF80&)\t(4500,5500,0.5,\1c&H202010&\3c&H202010&)\fad(200,200)\blur0.5}Weekly Shoujo Comic\NOfficial Video Animation{NOTE:週刊\\N少女コミックビデオ}
 Dialogue: 1,0:00:07.15,0:00:12.61,Title 1,(sign),0,0,0,,{TIME:7152,12619}{\an5\pos(320,410)\1c&H101010&\3c&H101010&\t(0,1000,\1c&HCF913C&\3c&HCF913C&)\t(1000,2000,\1c&HEFDF80&\3c&HEFDF80&)\t(4500,5500,0.5,\1c&H202010&\3c&H202010&)\fad(200,200)\bord0\blur0.5}Weekly Shoujo Comic\NOfficial Video Animation{NOTE:週刊\\N少女コミックビデオ}
 Dialogue: 0,0:00:07.15,0:00:12.61,Title 1,(sign),0,0,0,,{TIME:7152,12619}{\an5\pos(320,410)\1c&H101010&\3c&H101010&\t(0,2500,\1c&HBF5E23&\3c&HBF5E23&)\t(4500,5000,\1c&H201000&\3c&H201000&)\fad(200,200)\bord20\blur20}Weekly Shoujo Comic\NOfficial Video Animation{NOTE:週刊\\N少女コミックビデオ}
 Comment: 0,0:00:12.65,0:00:12.65,Default,[chapter],0,0,0,,{TIME:12652,12652}Intro
+Dialogue: 0,0:00:28.71,0:00:30.31,Default,,0,0,0,,{TIME:28719,30319}What are you doing?
+Dialogue: 0,0:00:30.31,0:00:32.08,Default,,0,0,0,,{TIME:30319,32086}– Hurry, pick it up.\N– Sorry, sorry.
 Dialogue: 0,0:00:33.95,0:00:36.05,Default,,0,0,0,,{TIME:33952,36052}Why don't you play with us, Rumi?
 Dialogue: 0,0:00:37.68,0:00:38.81,Default,,0,0,0,,{TIME:37686,38819}I'm Ruka!
 Dialogue: 0,0:00:41.91,0:00:44.61,Default,,0,0,0,,{TIME:41919,44619}If you're looking for\NKobayakawa Rumi, that'd be me.
@@ -33,7 +36,7 @@ Dialogue: 0,0:00:48.91,0:00:49.85,Default,,0,0,0,,{TIME:48919,49852}Help how?
 Dialogue: 0,0:00:49.85,0:00:53.71,Default,,0,0,0,,{TIME:49852,53719}Like, wear some name tags,\Nor put a big mark on your foreheads.
 Dialogue: 0,0:00:53.71,0:00:56.88,Default,,0,0,0,,{TIME:53719,56886}Don't be ridiculous.\NJust learn it already.
 Dialogue: 0,0:00:56.88,0:01:01.08,Default,,0,0,0,,{TIME:56886,61086}It reminds me, there is someone\Nwho can always tell you apart.
-Dialogue: 0,0:01:02.78,0:01:06.25,Default,,0,0,0,,{TIME:62786,66252}It is none other than the lovely\NTouma Katsuyuki.
+Dialogue: 0,0:01:02.78,0:01:06.25,Default,,0,0,0,,{TIME:62786,66252}It is none other than the lovely\NTouma Katsuyuki-senpai.
 Dialogue: 0,0:01:09.18,0:01:11.25,Default,,0,0,0,,{TIME:69186,71252}See you later!\NSorry, sorry.
 Dialogue: 0,0:01:29.55,0:01:33.35,Default,,0,0,0,,{TIME:89552,93352}I'm glad that we took today's hike\Nseparately from the men's club.
 Dialogue: 0,0:01:33.35,0:01:35.28,Default,,0,0,0,,{TIME:93352,95286}Rumi?
@@ -55,8 +58,8 @@ Dialogue: 0,0:02:49.45,0:02:52.08,Default,,0,0,0,,{TIME:169452,172086}It's frust
 Dialogue: 0,0:02:54.65,0:02:56.48,Default,,0,0,0,,{TIME:174652,176486}You'll have to give him\Na proper answer later.
 Dialogue: 0,0:02:56.48,0:02:58.01,Default,,0,0,0,,{TIME:176486,178019}That you'll date him.
 Dialogue: 0,0:02:58.78,0:03:00.21,Default,,0,0,0,,{TIME:178786,180219}Rumi…
-Dialogue: 0,0:03:10.75,0:03:12.75,Default,,0,0,0,,{TIME:190752,192752}No way! These are human bones!
-Dialogue: 0,0:03:12.75,0:03:14.08,Default,,0,0,0,,{TIME:192752,194086}Oh my God!\NI'm so scared!
+Dialogue: 0,0:03:10.75,0:03:12.75,Default,,0,0,0,,{TIME:190752,192752}Jesus Christ!\NThese are human bones!
+Dialogue: 0,0:03:12.75,0:03:14.08,Default,,0,0,0,,{TIME:192752,194086}Oh my God!\NIt's some graveyard!
 Dialogue: 0,0:03:14.08,0:03:18.31,Default,,0,0,0,,{TIME:194086,198319}We learned about these in history class.\NIt's one of these ancient mass burial sites…{NOTE:xxx}
 Dialogue: 0,0:03:18.31,0:03:20.05,Default,,0,0,0,,{TIME:198319,200052}Stop it!
 Dialogue: 0,0:03:20.05,0:03:22.61,Default,,0,0,0,,{TIME:200052,202619}Don't scream! Don't scream.\NIt's okay now.
@@ -67,7 +70,7 @@ Dialogue: 0,0:03:52.71,0:03:55.48,Default,,0,0,0,,{TIME:232719,235486}{\i1}I kne
 Dialogue: 0,0:04:10.11,0:04:11.61,Default,,0,0,0,,{TIME:250119,251619}Rumi!
 Dialogue: 0,0:04:16.88,0:04:19.45,Default,,0,0,0,,{TIME:256886,259452}{\i1}I can't… move.
 Dialogue: 0,0:04:24.38,0:04:25.68,Default,,0,0,0,,{TIME:264386,265686}{\i1}Rumi…
-Dialogue: 0,0:04:25.68,0:04:28.55,Default,,0,0,0,,{TIME:265686,268552}{\i1}That's right.\NIt's like you told me.
+Dialogue: 0,0:04:25.68,0:04:28.55,Default,,0,0,0,,{TIME:265686,268552}{\i1}You were right.\NIt's like you told me.
 Dialogue: 0,0:04:28.55,0:04:29.91,Default,,0,0,0,,{TIME:268552,269919}{\i1}I'm going to die anyway.
 Dialogue: 0,0:04:29.91,0:04:33.81,Default,,0,0,0,,{TIME:269919,273819}{\i1}I should've told\NTouma-senpai that I loved him.
 Comment: 0,0:05:00.81,0:05:00.81,Default,[chapter],0,0,0,,{TIME:300819,300819}Opening
@@ -87,7 +90,7 @@ Dialogue: 0,0:06:00.88,0:06:05.85,Title 3,[title],0,0,0,,{TIME:360886,365852}{\b
 Dialogue: 0,0:06:13.95,0:06:14.68,Default,,0,0,0,,{TIME:373952,374686}Ruka!
 Dialogue: 0,0:06:14.68,0:06:16.65,Default,,0,0,0,,{TIME:374686,376652}Thank goodness.\NShe's awake!
 Dialogue: 0,0:06:16.65,0:06:17.68,Default,,0,0,0,,{TIME:376652,377686}Call the doctors!
-Dialogue: 0,0:06:17.68,0:06:20.58,Default,,0,0,0,,{TIME:377686,380586}Ah, you were in a coma for 3 days!
+Dialogue: 0,0:06:17.68,0:06:20.58,Default,,0,0,0,,{TIME:377686,380586}Ah, you were in a coma\Nfor three days!
 Dialogue: 0,0:06:20.58,0:06:21.48,Default,,0,0,0,,{TIME:380586,381486}Mom?
 Dialogue: 0,0:06:21.48,0:06:23.25,Default,,0,0,0,,{TIME:381486,383252}No, you should stay in bed.
 Dialogue: 0,0:06:23.25,0:06:24.08,Default,,0,0,0,,{TIME:383252,384086}Where's Rumi?
@@ -122,7 +125,7 @@ Dialogue: 0,0:07:46.35,0:07:47.35,Default,,0,0,0,,{TIME:466352,467352}Ruka!
 Dialogue: 0,0:07:48.01,0:07:49.08,Default,,0,0,0,,{TIME:468019,469086}Touma-senpai?
 Dialogue: 0,0:07:54.25,0:07:55.68,Default,,0,0,0,,{TIME:474252,475686}I'm so glad you're alive.
 Dialogue: 0,0:08:00.48,0:08:02.41,Default,,0,0,0,,{TIME:480486,482419}Let me take care of this.
-Dialogue: 0,0:08:05.51,0:08:09.35,Default,,0,0,0,,{TIME:485519,489352}{\i1}S… Senpai… talked to me.
+Dialogue: 0,0:08:05.51,0:08:09.35,Default,,0,0,0,,{TIME:485519,489352}{\i1}S… Senpai… held me in his arms.
 Dialogue: 0,0:08:19.05,0:08:21.05,Default,,0,0,0,,{TIME:499052,501052}All right, kids!\NThat's it for today.
 Dialogue: 0,0:08:21.91,0:08:24.18,Default,,0,0,0,,{TIME:501919,504186}Let's clean this place up.
 Dialogue: 0,0:08:34.85,0:08:36.85,Default,,0,0,0,,{TIME:514852,516852}Oh, I didn't see you.
@@ -142,8 +145,8 @@ Dialogue: 0,0:10:05.68,0:10:07.28,Default,,0,0,0,,{TIME:605686,607286}{\i1}Asako
 Dialogue: 0,0:10:28.01,0:10:28.85,Default,,0,0,0,,{TIME:628019,628852}Rumi?
 Dialogue: 0,0:10:30.18,0:10:33.08,Default,,0,0,0,,{TIME:630186,633086}What are you standing there for?
 Dialogue: 0,0:10:33.08,0:10:35.68,Default,,0,0,0,,{TIME:633086,635686}Rumi, Asako-senpai… she just…
-Dialogue: 0,0:10:35.68,0:10:36.88,Default,,0,0,0,,{TIME:635686,636886}Did you know about it?
-Dialogue: 0,0:10:36.88,0:10:40.05,Default,,0,0,0,,{TIME:636886,640052}Of course I did.\NIt's all over school.{NOTE:xxx}
+Dialogue: 0,0:10:35.68,0:10:36.88,Default,,0,0,0,,{TIME:635686,636886}You know anything about it?
+Dialogue: 0,0:10:36.88,0:10:40.05,Default,,0,0,0,,{TIME:636886,640052}Well, it so happens that I do.{NOTE:xxx}
 Dialogue: 0,0:10:42.01,0:10:43.41,Default,,0,0,0,,{TIME:642019,643419}What are you doing?
 Dialogue: 0,0:10:43.41,0:10:46.51,Default,,0,0,0,,{TIME:643419,646519}I'm washing my hands.\NWhat else?
 Dialogue: 0,0:10:46.51,0:10:48.55,Default,,0,0,0,,{TIME:646519,648552}But it serves her right.
@@ -151,13 +154,14 @@ Dialogue: 0,0:10:48.55,0:10:51.45,Default,,0,0,0,,{TIME:648552,651452}She was no
 Dialogue: 0,0:10:51.45,0:10:52.78,Default,,0,0,0,,{TIME:651452,652786}Rumi…
 Dialogue: 0,0:10:54.18,0:10:55.25,Default,,0,0,0,,{TIME:654186,655252}Let me say this, Ruka.
 Dialogue: 0,0:10:57.01,0:10:59.01,Default,,0,0,0,,{TIME:657019,659019}If you don't want to end up like her,
-Dialogue: 0,0:11:00.18,0:11:02.68,Default,,0,0,0,,{TIME:660186,662686}you better stay off\NTouma-senpai as well.
+Dialogue: 0,0:11:00.18,0:11:02.68,Default,,0,0,0,,{TIME:660186,662686}you better stay off\NTouma-san as well.
 Dialogue: 0,0:11:07.88,0:11:09.21,Default,,0,0,0,,{TIME:667886,669219}{\i1}What happened?
 Dialogue: 0,0:11:09.21,0:11:11.51,Default,,0,0,0,,{TIME:669219,671519}{\i1}There's no way you could do it.
 Dialogue: 0,0:11:11.51,0:11:14.11,Default,,0,0,0,,{TIME:671519,674119}{\i1}What made you\Nchange so much, Rumi?
 Dialogue: 0,0:11:18.08,0:11:20.81,Default,,0,0,0,,{TIME:678086,680819}{\i1}After that,\Nnothing happened for a while.
 Dialogue: 0,0:11:20.81,0:11:23.78,Default,,0,0,0,,{TIME:680819,683786}{\i1}Rumi has not changed\Never since, either.
 Dialogue: 0,0:11:23.78,0:11:28.11,Default,,0,0,0,,{TIME:683786,688119}{\i1}Could these terrible events\Nfade with time?
+Dialogue: 0,0:11:27.78,0:11:32.08,Sign,(sign),0,0,0,,{TIME:687786,692086}{\fad(2000,0)}Library
 Dialogue: 0,0:11:32.81,0:11:35.61,Default,,0,0,0,,{TIME:692819,695619}{\i1}I couldn't believe it.
 Dialogue: 0,0:11:35.61,0:11:39.55,Default,,0,0,0,,{TIME:695619,699552}{\i1}I couldn't accept like everyone that\Nmy friends' deaths were caused by a shock.
 Dialogue: 0,0:11:43.61,0:11:45.18,Default,,0,0,0,,{TIME:703619,705186}What are you afraid of?\NThat's just me.
@@ -166,14 +170,14 @@ Dialogue: 0,0:11:46.18,0:11:48.21,Default,,0,0,0,,{TIME:706186,708219}I came to 
 Dialogue: 0,0:11:48.21,0:11:49.48,Default,,0,0,0,,{TIME:708219,709486}I'm Rumi.
 Dialogue: 0,0:11:49.48,0:11:52.21,Default,,0,0,0,,{TIME:709486,712219}I could never mistake you two!
 Dialogue: 0,0:11:53.01,0:11:53.68,Default,,0,0,0,,{TIME:713019,713686}I'm sorry.
-Dialogue: 0,0:11:54.45,0:11:57.08,Default,,0,0,0,,{TIME:714452,717086}I know what you've been thinking.
-Dialogue: 0,0:11:57.08,0:11:59.91,Default,,0,0,0,,{TIME:717086,719919}But it wasn't easy for me, either.
+Dialogue: 0,0:11:54.45,0:11:57.08,Default,,0,0,0,,{TIME:714452,717086}I know that it's difficult for you.
+Dialogue: 0,0:11:57.08,0:11:59.91,Default,,0,0,0,,{TIME:717086,719919}But it's not easy for me, either.
 Dialogue: 0,0:11:59.91,0:12:02.15,Default,,0,0,0,,{TIME:719919,722152}I'm okay if you hate my guts.\NJust tell it to my face.
 Dialogue: 0,0:12:02.68,0:12:05.61,Default,,0,0,0,,{TIME:722686,725619}{\i1}I love you.\NI'm so in love with you! But…
 Dialogue: 0,0:12:08.98,0:12:11.65,Default,,0,0,0,,{TIME:728986,731652}I see. All right.
 Dialogue: 0,0:12:12.01,0:12:13.08,Default,,0,0,0,,{TIME:732019,733086}Hm?
 Dialogue: 0,0:12:13.58,0:12:15.08,Default,,0,0,0,,{TIME:733586,735086}This is…
-Dialogue: 0,0:12:15.38,0:12:19.21,Default,,0,0,0,,{TIME:735386,739219}Were you looking\Ninto this case alone?
+Dialogue: 0,0:12:15.38,0:12:19.21,Default,,0,0,0,,{TIME:735386,739219}You were looking\Ninto this case all by yourself?
 Dialogue: 0,0:12:19.21,0:12:21.38,Default,,0,0,0,,{TIME:739219,741386}I couldn't help it. I mean—
 Dialogue: 0,0:12:21.38,0:12:25.51,Default,,0,0,0,,{TIME:741386,745519}This story is essentially\Nidentical to the Tutankhamun's curse.
 Dialogue: 0,0:12:25.78,0:12:27.75,Default,,0,0,0,,{TIME:745786,747752}Tutankhamun?
@@ -249,7 +253,7 @@ Dialogue: 0,0:16:42.35,0:16:43.88,Default,,0,0,0,,{TIME:1002352,1003886}I think 
 Dialogue: 0,0:16:44.95,0:16:46.85,Default,,0,0,0,,{TIME:1004952,1006852}Are you okay? Let me see.
 Dialogue: 0,0:16:47.41,0:16:49.55,Default,,0,0,0,,{TIME:1007419,1009552}Ow!
 Dialogue: 0,0:16:50.11,0:16:53.55,Default,,0,0,0,,{TIME:1010119,1013552}Please, help me get home.
-Dialogue: 0,0:16:53.55,0:16:56.98,Default,,0,0,0,,{TIME:1013552,1016986}There's nobody inside.\NAll the way to my bed.
+Dialogue: 0,0:16:53.55,0:16:56.98,Default,,0,0,0,,{TIME:1013552,1016986}There's nobody inside.\NCarry me all the way to my bed.
 Dialogue: 0,0:16:56.98,0:16:57.98,Default,,0,0,0,,{TIME:1016986,1017986}That's out of the question.
 Dialogue: 0,0:16:58.58,0:16:59.95,Default,,0,0,0,,{TIME:1018586,1019952}You'd do that for Ruka.
 Dialogue: 0,0:17:02.31,0:17:04.88,Default,,0,0,0,,{TIME:1022319,1024886}What's your problem?\NWhat is it that Ruka has and I don't?
@@ -277,7 +281,7 @@ Dialogue: 0,0:18:31.05,0:18:33.35,Default,,0,0,0,,{TIME:1111052,1113352}What doe
 Dialogue: 0,0:18:33.71,0:18:35.81,Default,,0,0,0,,{TIME:1113719,1115819}The better question is,\Nhow can I do such things.
 Dialogue: 0,0:18:38.31,0:18:41.21,Default,,0,0,0,,{TIME:1118319,1121219}Katsuyuki-san, I'm in love with you.
 Dialogue: 0,0:18:41.71,0:18:43.85,Default,,0,0,0,,{TIME:1121719,1123852}{\i1}Where does she have\Nthis strength from?
-Dialogue: 0,0:18:50.28,0:18:51.58,Default,,0,0,0,,{TIME:1130286,1131586}The line's busy?
+Dialogue: 0,0:18:50.28,0:18:51.58,Default,,0,0,0,,{TIME:1130286,1131586}We got cut off?
 Dialogue: 0,0:18:53.51,0:18:57.21,Default,,0,0,0,,{TIME:1133519,1137219}Get off me, Rumi.\NI don't like being pushed down.
 Dialogue: 0,0:18:57.55,0:18:58.91,Default,,0,0,0,,{TIME:1137552,1138919}I'm Ruka, though.
 Dialogue: 0,0:18:59.28,0:19:01.85,Default,,0,0,0,,{TIME:1139286,1141852}If you don't stop it this instant,\NI'll get really pissed.
@@ -297,11 +301,11 @@ Dialogue: 0,0:19:38.91,0:19:40.91,Default,,0,0,0,,{TIME:1178919,1180919}I'm on t
 Dialogue: 0,0:19:41.08,0:19:43.88,Default,,0,0,0,,{TIME:1181086,1183886}Ah, so that's where you hid your girl.\NAll right, all right.
 Dialogue: 0,0:19:48.41,0:19:51.41,Default,,0,0,0,,{TIME:1188419,1191419}This is all getting\Njust way too spooky.
 Dialogue: 0,0:19:51.41,0:19:52.81,Default,,0,0,0,,{TIME:1191419,1192819}But still…
-Dialogue: 0,0:19:54.15,0:19:55.55,Default,,0,0,0,,{TIME:1194152,1195552}Hello? This is Touma.
+Dialogue: 0,0:19:54.15,0:19:55.55,Default,,0,0,0,,{TIME:1194152,1195552}{\i1}Hello? This is Touma.
 Dialogue: 0,0:19:56.41,0:19:57.48,Default,,0,0,0,,{TIME:1196419,1197486}Senpai!
-Dialogue: 0,0:19:57.48,0:19:59.35,Default,,0,0,0,,{TIME:1197486,1199352}Ruka? Rumi was here moments ago.
+Dialogue: 0,0:19:57.48,0:19:59.35,Default,,0,0,0,,{TIME:1197486,1199352}{\i1}Ruka? Rumi was here moments ago.
 Dialogue: 0,0:19:59.35,0:20:00.18,Default,,0,0,0,,{TIME:1199352,1200186}What?
-Dialogue: 0,0:20:08.21,0:20:12.41,Default,,0,0,0,,{TIME:1208219,1212419}{\i1}Yes… she can fly in the sky\Nand blends into things.
+Dialogue: 0,0:20:08.21,0:20:12.41,Default,,0,0,0,,{TIME:1208219,1212419}{\i1}Yes… she can fly in the sky\Nand blend into things.
 Dialogue: 0,0:20:16.41,0:20:19.78,Default,,0,0,0,,{TIME:1216419,1219786}Yes. I'd be happy\Nif you were with me right now.
 Dialogue: 0,0:20:19.78,0:20:22.11,Default,,0,0,0,,{TIME:1219786,1222119}Is that right?\NI'm sorry.
 Dialogue: 0,0:20:22.11,0:20:23.21,Default,,0,0,0,,{TIME:1222119,1223219}See you.
@@ -341,8 +345,8 @@ Dialogue: 0,0:23:27.41,0:23:29.61,Default,,0,0,0,,{TIME:1407419,1409619}I was tr
 Dialogue: 0,0:23:29.61,0:23:34.81,Default,,0,0,0,,{TIME:1409619,1414819}It wasn't a curse that the people who dug\Nthe Tutankhamun's grave died to.
 Dialogue: 0,0:23:34.81,0:23:36.75,Default,,0,0,0,,{TIME:1414819,1416752}It suggests that the cause\Nmight have been a bacteria.
 Dialogue: 0,0:23:37.18,0:23:38.88,Default,,0,0,0,,{TIME:1417186,1418886}A bacteria?
-Dialogue: 0,0:23:38.88,0:23:44.91,Default,,0,0,0,,{TIME:1418886,1424919}In my opinion it's pretty plausible that\Nthe tomb you hid in had a similar bacteria.
-Dialogue: 0,0:23:44.91,0:23:49.98,Default,,0,0,0,,{TIME:1424919,1429986}It killed everybody when you inhaled it,\Nbut in your case, it gave you special powers.
+Dialogue: 0,0:23:38.88,0:23:44.91,Default,,0,0,0,,{TIME:1418886,1424919}In my opinion, it's pretty plausible that\Nthe tomb you hid in had a similar bacteria.
+Dialogue: 0,0:23:44.91,0:23:49.98,Default,,0,0,0,,{TIME:1424919,1429986}It killed everyone else when you inhaled it,\Nbut in your case, it gave you special powers.
 Dialogue: 0,0:23:49.98,0:23:54.18,Default,,0,0,0,,{TIME:1429986,1434186}It is a bacteria that do not exist\Nin the present day.
 Dialogue: 0,0:23:54.18,0:23:56.28,Default,,0,0,0,,{TIME:1434186,1436286}Thus, you were infected.
 Dialogue: 0,0:23:56.28,0:23:57.01,Default,,0,0,0,,{TIME:1436286,1437019}Infected?
@@ -368,12 +372,12 @@ Dialogue: 0,0:25:00.25,0:25:02.35,Default,,0,0,0,,{TIME:1500252,1502352}I don't 
 Dialogue: 0,0:25:02.35,0:25:06.21,Default,,0,0,0,,{TIME:1502352,1506219}But I will concentrate on finding whatever\NI can that'll keep their symptoms down.
 Dialogue: 0,0:25:06.75,0:25:09.45,Default,,0,0,0,,{TIME:1506752,1509452}In any case,\Nwe've already got something.
 Dialogue: 0,0:25:09.45,0:25:10.88,Default,,0,0,0,,{TIME:1509452,1510886}Thank you, sir.
-Dialogue: 0,0:25:10.88,0:25:12.11,Default,,0,0,0,,{TIME:1510886,1512119}{\i1}Sun's up.
+Dialogue: 0,0:25:10.88,0:25:12.11,Default,,0,0,0,,{TIME:1510886,1512119}Sun's up.
 Dialogue: 0,0:25:24.95,0:25:28.25,Default,,0,0,0,,{TIME:1524952,1528252}{\i1}We can go back\Nto being close sisters again.
-Dialogue: 0,0:25:28.25,0:25:35.81,Default,,0,0,0,,{TIME:1528252,1535819}{\i1}The hope that it was possible brought light\Nto our hearts, which were shrouded in darkness.
+Dialogue: 0,0:25:28.25,0:25:35.81,Default,,0,0,0,,{TIME:1528252,1535819}{\i1}The hope that it was possible shed light\Ninto our hearts, shrouded in darkness.
 Comment: 0,0:25:44.68,0:25:44.68,Default,[chapter],0,0,0,,{TIME:1544686,1544686}Ending
 Comment: 0,0:28:16.68,0:28:16.68,Default,[chapter],0,0,0,,{TIME:1696686,1696686}Next episode preview
-Dialogue: 0,0:28:16.68,0:28:21.71,Title 3,(sign),0,0,0,,{TIME:1696686,1701719}{\fad(300,0)}Next volume
+Dialogue: 0,0:28:16.68,0:28:21.71,Title 3,(sign),0,0,0,,{TIME:1696686,1701719}{\blur0.5\fad(300,0)}Next volume
 Dialogue: 0,0:28:25.68,0:28:31.31,Default,,0,0,0,,{TIME:1705686,1711319}Ruka, who learned of Rumi's intense love\Nfor Katsuyuki, decides to turn him down.
 Dialogue: 0,0:28:31.31,0:28:33.65,Default,,0,0,0,,{TIME:1711319,1713652}Furthermore,\Nshe notices a relationship
 Dialogue: 0,0:28:33.65,0:28:36.38,Default,,0,0,0,,{TIME:1713652,1716386}between Rumi's unusual behavior\Nand current moon's phase.
