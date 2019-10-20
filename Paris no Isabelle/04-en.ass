@@ -10,6 +10,7 @@ ScaledBorderAndShadow: yes
 Title: Paris no Isabelle - 04
 Audio File: source/04.mkv
 Video File: source/04.mkv
+Language: en_US
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -114,14 +115,13 @@ Dialogue: 0,0:07:38.48,0:07:39.58,Default,,0,0,0,,{TIME:458488,459589}Gaston.
 Dialogue: 0,0:07:39.58,0:07:40.39,Default,,0,0,0,,{TIME:459589,460390}Yes, Master?
 Dialogue: 0,0:07:40.39,0:07:41.92,Default,,0,0,0,,{TIME:460390,461925}There is something\NI would like to ask you.
 Dialogue: 0,0:07:41.92,0:07:44.79,Default,,0,0,0,,{TIME:461925,464794}I would like to release you\Nfrom serving our family as of today.
-Dialogue: 0,0:07:44.79,0:07:48.13,Default,,0,0,0,,{TIME:464794,468131}Yes, Master.\NI was expecting this.
-Dialogue: 0,0:07:48.96,0:07:50.06,Default,,0,0,0,,{TIME:468965,470066}Very well.
+Dialogue: 0,0:07:44.79,0:07:48.13,Default,,0,0,0,,{TIME:464794,468131}Yes, Master.\NI can't say I didn't see it coming.
 Dialogue: 0,0:07:51.73,0:07:53.60,Default,,0,0,0,,{TIME:471734,473603}Take this with you.
 Dialogue: 0,0:07:53.60,0:07:55.13,Default,,0,0,0,,{TIME:473603,475138}What is inside?
-Dialogue: 0,0:07:55.13,0:07:59.80,Default,,0,0,0,,{TIME:475138,479809}I have a favor to ask.\NPlease watch over Geneviève for me.
+Dialogue: 0,0:07:55.13,0:07:59.80,Default,,0,0,0,,{TIME:475138,479809}I have one more favor to ask.\NPlease watch over Geneviève for me.
 Dialogue: 0,0:07:59.80,0:08:03.94,Default,,0,0,0,,{TIME:479809,483947}Very difficult times are coming.\NUse this money to support her in need.
-Dialogue: 0,0:08:03.94,0:08:05.41,Default,,0,0,0,,{TIME:483947,485415}I know my plea is a selfish one.
-Dialogue: 0,0:08:06.34,0:08:08.78,Default,,0,0,0,,{TIME:486349,488785}Can you grant it nonetheless?
+Dialogue: 0,0:08:03.94,0:08:05.41,Default,,0,0,0,,{TIME:483947,485415}I know I am asking a lot.
+Dialogue: 0,0:08:06.34,0:08:08.78,Default,,0,0,0,,{TIME:486349,488785}Can you grant my wish\Nnonetheless?
 Dialogue: 0,0:08:08.78,0:08:10.75,Default,,0,0,0,,{TIME:488785,490753}Yes, Master.\NI shall grant your wish.
 Dialogue: 0,0:08:12.02,0:08:13.72,Default,,0,0,0,,{TIME:492021,493723}Thank you.
 Dialogue: 0,0:08:14.42,0:08:20.29,Default,,0,0,0,,{TIME:494424,500296}To begin with, I was devoted\Nto Ms. Geneviève the most.
@@ -181,7 +181,7 @@ Dialogue: 0,0:13:13.12,0:13:18.82,Default,,0,0,0,,{TIME:793122,798828}{\i1}The P
 Dialogue: 0,0:13:18.82,0:13:22.03,Default,,0,0,0,,{TIME:798828,802031}{\i1}As the Rostain family\Nwas heading to Versailles,
 Dialogue: 0,0:13:22.03,0:13:25.20,Default,,0,0,0,,{TIME:802031,805201}{\i1}many of the Prussian troops were\Nalready in the area, waiting for refugees.
 Dialogue: 0,0:13:25.70,0:13:27.57,Default,,0,0,0,,{TIME:805701,807570}{\i1}However, the Rostains\Ndid not know about it at all.
-Dialogue: 0,0:13:33.07,0:13:35.87,Default,,0,0,0,,{TIME:813075,815878}Hi! It's me, Jean,\Nwith my daily marriage proposal.
+Dialogue: 0,0:13:33.14,0:13:35.87,Default,,0,0,0,,{TIME:813142,815878}Hi! It's me, Jean,\Nwith my daily marriage proposal.
 Dialogue: 0,0:13:35.87,0:13:37.54,Default,,0,0,0,,{TIME:815878,817546}Homesick already, Isabelle?
 Dialogue: 0,0:13:38.51,0:13:40.95,Default,,0,0,0,,{TIME:818514,820950}Geez, stop following me around.
 Dialogue: 0,0:13:40.95,0:13:42.88,Default,,0,0,0,,{TIME:820950,822885}The sight of your face\Nmakes me nauseous.
@@ -247,7 +247,7 @@ Dialogue: 0,0:18:24.66,0:18:26.20,Default,,0,0,0,,{TIME:1104667,1106201}It'll be
 Dialogue: 0,0:18:26.20,0:18:27.43,Default,,0,0,0,,{TIME:1106201,1107436}Leave it to me.
 Dialogue: 0,0:18:49.45,0:18:51.06,Default,,0,0,0,,{TIME:1129458,1131060}– What was that?\N– Not sure.
 Dialogue: 0,0:19:02.50,0:19:03.67,Default,,0,0,0,,{TIME:1142504,1143672}This way.
-Dialogue: 0,0:19:08.31,0:19:09.04,Default,,0,0,0,,{TIME:1148310,1149044}One man.{NOTE:xxx}
+Dialogue: 0,0:19:08.31,0:19:09.04,Default,,0,0,0,,{TIME:1148310,1149044}There's a guard.
 Dialogue: 0,0:19:16.11,0:19:17.48,Default,,0,0,0,,{TIME:1156118,1157486}There's a cart.\NWe'll snatch it.
 Dialogue: 0,0:19:21.89,0:19:23.05,Default,,0,0,0,,{TIME:1161890,1163058}Who are you?!
 Dialogue: 0,0:19:31.33,0:19:32.26,Default,,0,0,0,,{TIME:1171333,1172267}Isabelle!
@@ -270,7 +270,7 @@ Dialogue: 0,0:21:09.03,0:21:10.26,Default,,0,0,0,,{TIME:1269031,1270265}Isabelle
 Dialogue: 0,0:21:11.33,0:21:12.16,Default,,0,0,0,,{TIME:1271333,1272167}I'll try.
 Dialogue: 0,0:21:12.73,0:21:14.06,Default,,0,0,0,,{TIME:1272735,1274069}Perfect.
 Dialogue: 0,0:21:17.70,0:21:19.94,Default,,0,0,0,,{TIME:1277706,1279942}You can't shoot\Nrandomly like this.
-Dialogue: 0,0:21:19.94,0:21:23.31,Default,,0,0,0,,{TIME:1279942,1283312}Lower your waist.\NYour body will absorb the impact.
+Dialogue: 0,0:21:19.94,0:21:23.31,Default,,0,0,0,,{TIME:1279942,1283312}Lean slightly forward.\NLet your body absorb the recoil.
 Dialogue: 0,0:21:33.68,0:21:36.39,Default,,0,0,0,,{TIME:1293689,1296391}You don't need to aim at people.\NHorses are enough.
 Dialogue: 0,0:21:37.05,0:21:38.26,Default,,0,0,0,,{TIME:1297059,1298260}Got it!
 Dialogue: 0,0:21:44.80,0:21:47.36,Default,,0,0,0,,{TIME:1304800,1307369}Mr. Victor,\Nyour wound from the duel…
