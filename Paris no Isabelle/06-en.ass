@@ -10,6 +10,7 @@ ScaledBorderAndShadow: yes
 Title: Paris no Isabelle - 06
 Audio File: source/06.mkv
 Video File: source/06.mkv
+Language: en_US
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -133,8 +134,7 @@ Dialogue: 0,0:07:26.17,0:07:29.07,Default,,0,0,0,,{TIME:446175,449078}And you do
 Dialogue: 0,0:07:29.37,0:07:30.44,Default,,0,0,0,,{TIME:449379,450446}Down with the rebels!
 Dialogue: 0,0:07:33.68,0:07:35.21,Default,,0,0,0,,{TIME:453683,455218}Shoot. Shoot them!
 Dialogue: 0,0:07:35.21,0:07:37.42,Default,,0,0,0,,{TIME:455218,457420}That's an order!
-Dialogue: 0,0:07:40.82,0:07:41.92,Default,,0,0,0,,{TIME:460823,461925}{\i1}That's right.
-Dialogue: 0,0:07:41.92,0:07:43.32,Default,,0,0,0,,{TIME:461925,463326}{\i1}It is a valid order.
+Dialogue: 0,0:07:40.82,0:07:43.32,Default,,0,0,0,,{TIME:460823,463326}{\i1}That's right.\NIt is a valid order.
 Dialogue: 0,0:07:43.82,0:07:46.39,Default,,0,0,0,,{TIME:463826,466396}{\i1}But can you really\Nexpect them to comply,
 Dialogue: 0,0:07:46.39,0:07:50.83,Default,,0,0,0,,{TIME:466396,470833}{\i1}to shoot their brothers and sisters who\Nlikewise only want to defend their homes?
 Dialogue: 0,0:08:06.01,0:08:07.51,Default,,0,0,0,,{TIME:486015,487517}We're going back!
@@ -182,7 +182,7 @@ Dialogue: 0,0:10:23.21,0:10:27.12,Default,,0,0,0,,{TIME:623219,627123}{\i1}Decem
 Dialogue: 0,0:10:27.52,0:10:33.39,Default,,0,0,0,,{TIME:627523,633396}{\i1}The French troops led by Andréa\Nset out for Champigny.
 Dialogue: 0,0:10:33.39,0:10:39.60,Default,,0,0,0,,{TIME:633396,639602}{\i1}This sortie was set up to let\Nthe rebels lose their energy to fight.
 Dialogue: 0,0:10:39.60,0:10:43.50,Default,,0,0,0,,{TIME:639602,643506}{\i1}No one knew that\Nit was a miserable sacrifice.
-Dialogue: 0,0:10:44.74,0:10:48.51,Default,,0,0,0,,{TIME:644740,648511}We'll be arriving at Champigny soon.\NKeep an eye out for it.
+Dialogue: 0,0:10:44.74,0:10:48.51,Default,,0,0,0,,{TIME:644740,648511}We'll be arriving at Champigny soon.\NKeep your heads on a swivel.
 Dialogue: 0,0:10:48.87,0:10:49.81,Default,,0,0,0,,{TIME:648878,649812}Yes sir!
 Dialogue: 0,0:10:49.81,0:10:50.41,Default,,0,0,0,,{TIME:649812,650413}Captain!
 Dialogue: 0,0:10:51.44,0:10:52.61,Default,,0,0,0,,{TIME:651447,652615}How did the scout go?
@@ -336,6 +336,7 @@ Dialogue: 0,0:23:33.80,0:23:35.87,Default,,0,0,0,,{TIME:1413809,1415878}{\i1}Jul
 Dialogue: 0,0:23:35.87,0:23:37.91,Default,,0,0,0,,{TIME:1415878,1417913}{\i1}Sister…
 Dialogue: 0,0:23:53.09,0:23:57.46,Credits,[credits],0,0,0,,{TIME:1433095,1437466}{\fad(200,400)\c&HFAFAFA&\blur0.8\fs20\an5\pos(570,424)}To be continued
 Comment: 0,0:23:57.53,0:23:57.53,Default,[chapter],0,0,0,,{TIME:1437532,1437532}Preview
+Dialogue: 0,0:23:57.53,0:24:00.53,Default,(sign),0,0,0,,{TIME:1437532,1440535}{\an8}Next episode preview
 Dialogue: 0,0:24:00.20,0:24:04.03,Default,,0,0,0,,{TIME:1440202,1444039}I received a secret letter\Nfrom my sister.
 Dialogue: 0,0:24:04.03,0:24:07.40,Default,,0,0,0,,{TIME:1444039,1447409}She has some friends in London\Nwho can help us win Paris back,
 Dialogue: 0,0:24:07.40,0:24:10.74,Default,,0,0,0,,{TIME:1447409,1450746}and she asks me\Nto contact them.
@@ -344,7 +345,6 @@ Dialogue: 0,0:24:14.81,0:24:18.32,Default,,0,0,0,,{TIME:1454816,1458320}London i
 Dialogue: 0,0:24:18.32,0:24:20.98,Default,,0,0,0,,{TIME:1458320,1460989}I have to watch out for Thiers.{NOTE:xxx}
 Dialogue: 0,0:24:20.98,0:24:23.52,Default,,0,0,0,,{TIME:1460989,1463525}Next time on "Isabelle of Paris":
 Dialogue: 0,0:24:23.52,0:24:27.49,Default,,0,0,0,,{TIME:1463525,1467496}"The Birth of a Beautiful Swordslady".\NPlease look forward to it.
-Dialogue: 0,0:23:57.53,0:24:00.53,Default,(sign),0,0,0,,{TIME:1437532,1440535}Next episode preview
 Comment: 0,0:24:27.49,0:24:27.49,Default,[chapter],0,0,0,,{TIME:1467496,1467496}Ending
 Dialogue: 0,0:24:47.41,0:24:53.42,ED JP,[karaoke],0,0,0,,{TIME:1487416,1493422}anata no egao wa\Ntotemo suteki
 Dialogue: 0,0:24:53.42,0:24:58.72,ED JP,[karaoke],0,0,0,,{TIME:1493422,1498727}soyokaze no you ni\Natatakai ai ga aru
