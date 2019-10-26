@@ -20,7 +20,7 @@ Style: ED EN,Soft Marshmallow,40,&H00BFEDFF,&H000000FF,&H00140F62,&H7F202020,-1,
 Style: OP JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: ED JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: Credits,Gotham Rounded,32,&H00FFFFFF,&H000000FF,&H00373737,&H80373737,-1,0,0,0,110.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
-Style: Title,Hoffmanhand,40,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H80FFFFFF,-1,0,0,0,100.0,95.0,0.0,0.0,1,1.0,0.0,2,25,25,25,1
+Style: Title,Always Forever,50,&H00ECF3FB,&H000000FF,&H00ECF3FB,&H80EEFFFF,-1,0,0,0,160.0,100.0,0.0,0.0,1,0.75,0.0,2,25,25,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -70,8 +70,8 @@ Dialogue: 0,0:03:23.06,0:03:26.50,Credits,[credits],0,0,0,,{TIME:203066,206503}{
 Dialogue: 0,0:03:30.14,0:03:34.04,Credits,[credits],0,0,0,,{TIME:210140,214044}{\c&HFFEAE4&\blur0.6\an4\pos(350,265)\fs25}Director{NOTE:監督\\N葉方 丹}
 Dialogue: 0,0:03:30.14,0:03:34.04,Credits,[credits],0,0,0,,{TIME:210140,214044}{\c&HFFEAE4&\blur0.6\an3\pos(620,430)}Hakata Tan{NOTE:監督\\N葉方 丹}
 Comment: 0,0:03:34.04,0:03:34.04,Default,[chapter],0,0,0,,{TIME:214044,214044}Title screen
-Dialogue: 1,0:03:34.27,0:03:42.05,Title,[title],0,0,0,,{TIME:214277,222052}{\blur0.5\alpha&H50&\fad(700,0)}— Episode 09 —\N\NLove Burning in The Night Fog{NOTE:第九話\\N夜霧に燃えた愛}
-Dialogue: 0,0:03:34.27,0:03:42.05,Title,[title],0,0,0,,{TIME:214277,222052}{\blur0.5\alpha&H10&\fad(700,0)}— Episode 09 —\N\NLove Burning in The Night Fog{NOTE:第九話\\N夜霧に燃えた愛}
+Dialogue: 0,0:03:34.27,0:03:42.05,Title,[title],0,0,0,,{TIME:214277,222052}{\blur1.0\fad(700,0)\fscx400}-{\fscx} Episode 09 {\fscx400}-{\fscx}\N\NLove Burning in The Night Fog{NOTE:第九話\\N夜霧に燃えた愛}
+Dialogue: 1,0:03:34.27,0:03:42.05,Title,[title],0,0,0,,{TIME:214277,222052}{\blur1.0\fad(700,0)\fscx400}-{\fscx} Episode 09 {\fscx400}-{\fscx}\N\NLove Burning in The Night Fog{NOTE:第九話\\N夜霧に燃えた愛}
 Comment: 0,0:03:42.05,0:03:42.05,Default,[chapter],0,0,0,,{TIME:222052,222052}Part A
 Comment: 0,0:12:12.46,0:12:12.46,Default,[chapter],0,0,0,,{TIME:732461,732461}Part B
 Dialogue: 0,0:23:53.92,0:23:57.83,Credits,[credits],0,0,0,,{TIME:1433929,1437833}{\fad(400,400)\c&HFAFAFA&\blur1\fs20\an5\pos(559,420),\t(1904,3904,5,\c&H101010&)}To be continued

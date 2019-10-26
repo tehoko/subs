@@ -20,7 +20,7 @@ Style: ED EN,TYPO COMICS Bold DEMO,50,&H00BFEDFF,&H000000FF,&H00140F62,&H7F20202
 Style: OP JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: ED JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: Credits,Gotham Rounded,32,&H00FFFFFF,&H000000FF,&H00373737,&H80373737,-1,0,0,0,110.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
-Style: Title,Always Forever,50,&H00232323,&H000000FF,&H00232323,&H80373737,-1,0,0,0,140.0,95.0,0.0,0.0,1,1.0,0.0,2,25,25,25,1
+Style: Title,Always Forever,50,&H00000030,&H000000FF,&H00232323,&H80373737,-1,0,0,0,160.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -72,7 +72,8 @@ Dialogue: 0,0:02:19.90,0:02:23.34,Credits,[credits],0,0,0,,{TIME:139906,143343}{
 Dialogue: 0,0:02:26.98,0:02:30.95,Credits,[credits],0,0,0,,{TIME:146980,150951}{\c&HFFEAE4&\blur0.6\an4\pos(350,265)\fs25}Reżyseria
 Dialogue: 0,0:02:26.98,0:02:30.95,Credits,[credits],0,0,0,,{TIME:146980,150951}{\c&HFFEAE4&\blur0.6\an3\pos(620,430)}Hakata Tan
 Comment: 0,0:02:30.95,0:02:30.95,Default,[chapter],0,0,0,,{TIME:150951,150951}Plansza tytułowa
-Dialogue: 0,0:02:31.25,0:02:38.95,Title,[title],0,0,0,,{TIME:151251,158959}{\blur0.5\alpha&H50&\fad(700,0)}{\fnHoffmanhand}—{\fn} Odcinek 05 {\fnHoffmanhand}—{\fn}\N\NWielka ucieczka balonem
+Dialogue: 0,0:02:31.25,0:02:38.95,Title,[title],0,0,0,,{TIME:151251,158959}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Odcinek 05 {\fscx400}-{\fscx}\N\NWielka ucieczka balonem
+Dialogue: 1,0:02:31.25,0:02:38.95,Title,[title],0,0,0,,{TIME:151251,158959}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Odcinek 05 {\fscx400}-{\fscx}\N\NWielka ucieczka balonem
 Comment: 0,0:02:38.95,0:02:38.95,Default,[chapter],0,0,0,,{TIME:158959,158959}Część A
 Dialogue: 0,0:02:44.36,0:02:48.70,Default,,0,0,0,,{TIME:164364,168702}Panie Thiers, czy sugeruje pan,\Nabyśmy poddali się bez walki?
 Dialogue: 0,0:02:49.16,0:02:53.24,Default,,0,0,0,,{TIME:169169,173240}Kiedy Paryż stanie się\Npolem bitwy, wybuchnie ogień.

@@ -20,7 +20,7 @@ Style: ED EN,TYPO COMICS Bold DEMO,50,&H00BFEDFF,&H000000FF,&H00140F62,&H7F20202
 Style: OP JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: ED JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: Credits,Gotham Rounded,32,&H00FFFFFF,&H000000FF,&H00373737,&H80373737,-1,0,0,0,110.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
-Style: Title,Always Forever,50,&H00232323,&H000000FF,&H00232323,&H80373737,-1,0,0,0,140.0,95.0,0.0,0.0,1,1.0,0.0,2,25,25,25,1
+Style: Title,Always Forever,50,&H00000050,&H000000FF,&H00232323,&H80373737,-1,0,0,0,160.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -76,7 +76,8 @@ Dialogue: 0,0:03:14.69,0:03:18.12,Credits,[credits],0,0,0,,{TIME:194691,198128}{
 Dialogue: 0,0:03:21.76,0:03:25.70,Credits,[credits],0,0,0,,{TIME:201765,205702}{\c&HFFEAE4&\blur0.6\an4\pos(350,265)\fs25}Reżyseria
 Dialogue: 0,0:03:21.76,0:03:25.70,Credits,[credits],0,0,0,,{TIME:201765,205702}{\c&HFFEAE4&\blur0.6\an3\pos(620,430)}Hakata Tan
 Comment: 0,0:03:25.70,0:03:25.70,Default,[chapter],0,0,0,,{TIME:205702,205702}Plansza tytułowa
-Dialogue: 0,0:03:25.80,0:03:33.67,Title,[title],0,0,0,,{TIME:205802,213677}{\blur0.5\alpha&H50&\fad(700,0)}{\fnHoffmanhand}—{\fn} Odcinek 04 {\fnHoffmanhand}—{\fn}\N\NDroga do Wersalu
+Dialogue: 0,0:03:25.80,0:03:33.67,Title,[title],0,0,0,,{TIME:205802,213677}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Odcinek 04 {\fscx400}-{\fscx}\N\NDroga do Wersalu
+Dialogue: 1,0:03:25.80,0:03:33.67,Title,[title],0,0,0,,{TIME:205802,213677}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Odcinek 04 {\fscx400}-{\fscx}\N\NDroga do Wersalu
 Comment: 0,0:03:33.67,0:03:33.67,Default,[chapter],0,0,0,,{TIME:213677,213677}Część A
 Dialogue: 0,0:03:35.31,0:03:36.51,Default,,0,0,0,,{TIME:215311,216513}Jules.
 Dialogue: 0,0:03:36.51,0:03:38.71,Default,,0,0,0,,{TIME:216513,218715}Bez względu na wynik\Npojedynku z Victorem,

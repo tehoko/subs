@@ -20,7 +20,7 @@ Style: ED EN,Soft Marshmallow,40,&H00BFEDFF,&H000000FF,&H00140F62,&H7F202020,-1,
 Style: OP JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: ED JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: Credits,Gotham Rounded,32,&H00FFFFFF,&H000000FF,&H00373737,&H80373737,-1,0,0,0,110.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
-Style: Title,Hoffmanhand,40,&H00232323,&H000000FF,&H00232323,&H80373737,-1,0,0,0,100.0,95.0,0.0,0.0,1,1.0,0.0,2,25,25,25,1
+Style: Title,Always Forever,50,&H0000146B,&H000000FF,&H0000116B,&H80373737,-1,0,0,0,160.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -74,7 +74,8 @@ Dialogue: 0,0:02:28.24,0:02:31.68,Credits,[credits],0,0,0,,{TIME:148248,151685}{
 Dialogue: 0,0:02:35.32,0:02:39.32,Credits,[credits],0,0,0,,{TIME:155322,159326}{\c&HFFEAE4&\blur0.6\an4\pos(350,265)\fs25}Director{NOTE:監督\\N葉方 丹}
 Dialogue: 0,0:02:35.32,0:02:39.32,Credits,[credits],0,0,0,,{TIME:155322,159326}{\c&HFFEAE4&\blur0.6\an3\pos(620,430)}Hakata Tan{NOTE:監督\\N葉方 丹}
 Comment: 0,0:02:39.32,0:02:39.32,Default,[chapter],0,0,0,,{TIME:159326,159326}Title screen
-Dialogue: 0,0:02:39.49,0:02:47.33,Title,[title],0,0,0,,{TIME:159493,167334}{\blur0.5\alpha&H50&\fad(700,0)}— Episode 01 —\N\NAge Fifteen:\NThe Day I Became a Lady {NOTE:第一回\\N15才、私がレディになる日}
+Dialogue: 0,0:02:39.49,0:02:47.33,Title,[title],0,0,0,,{TIME:159493,167334}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Episode 01 {\fscx400}-{\fscx}\N\NAge Fifteen:\NThe Day I Became a Lady {NOTE:第一回\\N15才、私がレディになる日}
+Dialogue: 1,0:02:39.49,0:02:47.33,Title,[title],0,0,0,,{TIME:159493,167334}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Episode 01 {\fscx400}-{\fscx}\N\NAge Fifteen:\NThe Day I Became a Lady {NOTE:第一回\\N15才、私がレディになる日}
 Comment: 0,0:02:47.33,0:02:47.33,Default,[chapter],0,0,0,,{TIME:167334,167334}Part A
 Dialogue: 0,0:02:51.60,0:02:56.77,Default,Gambetta,0,0,0,,{TIME:171605,176777}If we lose today's battle, our enemies\Nwill head straight for Paris.
 Dialogue: 0,0:02:56.77,0:03:00.41,Default,Gambetta,0,0,0,,{TIME:176777,180414}Today's battle is not only\Nabout the fate of France,

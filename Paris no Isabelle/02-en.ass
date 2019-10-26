@@ -20,7 +20,7 @@ Style: ED EN,Soft Marshmallow,40,&H00BFEDFF,&H000000FF,&H00140F62,&H7F202020,-1,
 Style: OP JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: ED JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: Credits,Gotham Rounded,32,&H00FFFFFF,&H000000FF,&H00373737,&H80373737,-1,0,0,0,110.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
-Style: Title,Hoffmanhand,40,&H00232323,&H000000FF,&H00232323,&H80373737,-1,0,0,0,100.0,95.0,0.0,0.0,1,1.0,0.0,2,25,25,25,1
+Style: Title,Always Forever,50,&H00232323,&H000000FF,&H00232323,&H80373737,-1,0,0,0,160.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -105,7 +105,8 @@ Dialogue: 0,0:03:59.33,0:04:02.77,Credits,[credits],0,0,0,,{TIME:239335,242772}{
 Dialogue: 0,0:04:06.40,0:04:10.31,Credits,[credits],0,0,0,,{TIME:246409,250313}{\c&HFFEAE4&\blur0.6\an4\pos(350,265)\fs25}Director{NOTE:監督\\N葉方 丹}
 Dialogue: 0,0:04:06.40,0:04:10.31,Credits,[credits],0,0,0,,{TIME:246409,250313}{\c&HFFEAE4&\blur0.6\an3\pos(620,430)}Hakata Tan{NOTE:監督\\N葉方 丹}
 Comment: 0,0:04:10.31,0:04:10.31,Default,[chapter],0,0,0,,{TIME:250313,250313}Title screen
-Dialogue: 0,0:04:10.58,0:04:18.32,Title,[title],0,0,0,,{TIME:250580,258321}{\blur0.5\alpha&H50&\fad(700,0)}— Episode 02 —\N\NIn a Valley Between Two Loves{NOTE:第二回\\N二つの愛の谷間まで…}
+Dialogue: 0,0:04:10.58,0:04:18.32,Title,[title],0,0,0,,{TIME:250580,258321}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Episode 02 {\fscx400}-{\fscx}\N\NIn a Valley Between Two Loves{NOTE:第二回\\N二つの愛の谷間まで…}
+Dialogue: 1,0:04:10.58,0:04:18.32,Title,[title],0,0,0,,{TIME:250580,258321}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Episode 02 {\fscx400}-{\fscx}\N\NIn a Valley Between Two Loves{NOTE:第二回\\N二つの愛の谷間まで…}
 Comment: 0,0:04:18.32,0:04:18.32,Default,[chapter],0,0,0,,{TIME:258321,258321}Part A
 Dialogue: 0,0:04:22.49,0:04:25.02,Default,,0,0,0,,{TIME:262492,265028}{\i1}Soon, the city of Paris\Nwas about to become a battlefield.
 Dialogue: 0,0:04:26.16,0:04:31.40,Default,,0,0,0,,{TIME:266162,271401}{\i1}In fear of losing homes and properties\Nafter being involved in battle,

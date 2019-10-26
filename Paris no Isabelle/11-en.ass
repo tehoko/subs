@@ -20,7 +20,7 @@ Style: ED EN,Soft Marshmallow,40,&H00BFEDFF,&H000000FF,&H00140F62,&H7F202020,-1,
 Style: OP JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: ED JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: Credits,Gotham Rounded,32,&H00FFFFFF,&H000000FF,&H00373737,&H80373737,-1,0,0,0,110.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
-Style: Title,Hoffmanhand,40,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H80373737,-1,0,0,0,100.0,95.0,0.0,0.0,1,1.0,0.0,2,25,25,25,1
+Style: Title,Always Forever,50,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H80EEFFFF,-1,0,0,0,160.0,100.0,0.0,0.0,1,0.75,0.0,2,25,25,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -70,8 +70,8 @@ Dialogue: 0,0:03:27.74,0:03:31.17,Credits,[credits],0,0,0,,{TIME:207741,211178}{
 Dialogue: 0,0:03:34.81,0:03:38.81,Credits,[credits],0,0,0,,{TIME:214815,218819}{\c&HFFEAE4&\blur0.6\an4\pos(350,265)\fs25}Director{NOTE:監督\\N葉方 丹}
 Dialogue: 0,0:03:34.81,0:03:38.81,Credits,[credits],0,0,0,,{TIME:214815,218819}{\c&HFFEAE4&\blur0.6\an3\pos(620,430)}Hakata Tan{NOTE:監督\\N葉方 丹}
 Comment: 0,0:03:38.81,0:03:38.81,Default,[chapter],0,0,0,,{TIME:218819,218819}Title screen
-Dialogue: 0,0:03:39.15,0:03:46.86,Title,[title],0,0,0,,{TIME:219152,226860}{\blur0.5\alpha&H50&\fad(700,0)}— Episode 11 —\N\NI Hate The War That Killed Mother{NOTE:第十一話\\N母を殺した戦争がにくい}
-Dialogue: 1,0:03:39.15,0:03:46.86,Title,[title],0,0,0,,{TIME:219152,226860}{\blur0.5\alpha&H10&\fad(700,0)}— Episode 11 —\N\NI Hate The War That Killed Mother{NOTE:第十一話\\N母を殺した戦争がにくい}
+Dialogue: 0,0:03:39.15,0:03:46.86,Title,[title],0,0,0,,{TIME:219152,226860}{\blur1.0\fad(700,0)\fscx400}-{\fscx} Episode 11 {\fscx400}-{\fscx}\N\NI Hate The War That Killed Mother{NOTE:第十一話\\N母を殺した戦争がにくい}
+Dialogue: 1,0:03:39.15,0:03:46.86,Title,[title],0,0,0,,{TIME:219152,226860}{\blur1.0\fad(700,0)\fscx400}-{\fscx} Episode 11 {\fscx400}-{\fscx}\N\NI Hate The War That Killed Mother{NOTE:第十一話\\N母を殺した戦争がにくい}
 Comment: 0,0:03:46.86,0:03:46.86,Default,[chapter],0,0,0,,{TIME:226860,226860}Part A
 Comment: 0,0:12:32.68,0:12:32.68,Default,[chapter],0,0,0,,{TIME:752685,752685}Part B
 Dialogue: 0,0:23:51.49,0:23:56.36,Credits,[credits],0,0,0,,{TIME:1431497,1436368}{\fad(500,400)\c&HFAFAFA&\blur1\fs20\an5\pos(590,428)\t(2871,4871,4,\c&H101010&)}To be continued

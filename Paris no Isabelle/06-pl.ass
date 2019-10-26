@@ -20,7 +20,7 @@ Style: ED EN,TYPO COMICS Bold DEMO,50,&H00BFEDFF,&H000000FF,&H00140F62,&H7F20202
 Style: OP JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: ED JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: Credits,Gotham Rounded,32,&H00FFFFFF,&H000000FF,&H00373737,&H80373737,-1,0,0,0,110.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
-Style: Title,Always Forever,50,&H00232323,&H000000FF,&H00232323,&H80373737,-1,0,0,0,140.0,95.0,0.0,0.0,1,1.0,0.0,2,25,25,25,1
+Style: Title,Always Forever,50,&H00000020,&H000000FF,&H00232323,&H80373737,-1,0,0,0,160.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -96,7 +96,8 @@ Dialogue: 0,0:03:38.94,0:03:42.38,Credits,[credits],0,0,0,,{TIME:218948,222385}{
 Dialogue: 0,0:03:46.02,0:03:50.02,Credits,[credits],0,0,0,,{TIME:226022,230026}{\c&HFFEAE4&\blur0.6\an4\pos(350,265)\fs25}Reżyseria
 Dialogue: 0,0:03:46.02,0:03:50.02,Credits,[credits],0,0,0,,{TIME:226022,230026}{\c&HFFEAE4&\blur0.6\an3\pos(620,430)}Hakata Tan
 Comment: 0,0:03:50.02,0:03:50.02,Default,[chapter],0,0,0,,{TIME:230026,230026}Plansza tytułowa
-Dialogue: 0,0:03:50.12,0:03:57.93,Title,[title],0,0,0,,{TIME:230126,237934}{\blur0.5\alpha&H50&\fad(700,0)}{\fnHoffmanhand}—{\fn} Odcinek 06 {\fnHoffmanhand}—{\fn}\N\NWieść o śmierci Andréi w bitwie
+Dialogue: 0,0:03:50.12,0:03:57.93,Title,[title],0,0,0,,{TIME:230126,237934}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Odcinek 06 {\fscx400}-{\fscx}\N\NWieść o śmierci Andréi w bitwie
+Dialogue: 1,0:03:50.12,0:03:57.93,Title,[title],0,0,0,,{TIME:230126,237934}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Odcinek 06 {\fscx400}-{\fscx}\N\NWieść o śmierci Andréi w bitwie
 Comment: 0,0:03:57.93,0:03:57.93,Default,[chapter],0,0,0,,{TIME:237934,237934}Część A
 Dialogue: 0,0:04:04.54,0:04:07.57,Default,,0,0,0,,{TIME:244541,247577}Panie Thiers, czy może pan wyjaśnić,\Nco rząd sobie myśli?
 Dialogue: 0,0:04:07.57,0:04:11.54,Default,,0,0,0,,{TIME:247577,251548}Minęły już dwa miesiące,\Nodkąd Prusy obległy naszą stolicę.

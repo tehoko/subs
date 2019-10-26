@@ -20,7 +20,7 @@ Style: ED EN,TYPO COMICS Bold DEMO,50,&H00BFEDFF,&H000000FF,&H00140F62,&H7F20202
 Style: OP JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: ED JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: Credits,Gotham Rounded,32,&H00FFFFFF,&H000000FF,&H00373737,&H80373737,-1,0,0,0,110.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
-Style: Title,Always Forever,50,&H00232323,&H000000FF,&H00232323,&H80373737,-1,0,0,0,140.0,95.0,0.0,0.0,1,1.0,0.0,2,25,25,25,1
+Style: Title,Always Forever,50,&H00000025,&H000000FF,&H00232323,&H80373737,-1,0,0,0,160.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -105,7 +105,8 @@ Dialogue: 0,0:04:16.85,0:04:20.29,Credits,[credits],0,0,0,,{TIME:256853,260290}{
 Dialogue: 0,0:04:23.92,0:04:27.89,Credits,[credits],0,0,0,,{TIME:263927,267897}{\c&HFFEAE4&\blur0.6\an4\pos(350,265)\fs25}Reżyseria
 Dialogue: 0,0:04:23.92,0:04:27.89,Credits,[credits],0,0,0,,{TIME:263927,267897}{\c&HFFEAE4&\blur0.6\an3\pos(620,430)}Hakata Tan
 Comment: 0,0:04:27.89,0:04:27.89,Default,[chapter],0,0,0,,{TIME:267897,267897}Plansza tytułowa
-Dialogue: 0,0:04:28.16,0:04:35.87,Title,[title],0,0,0,,{TIME:268164,275872}{\blur0.5\alpha&H50&\fad(700,0)}— Odcinek 07 —\N\NNarodziny pięknej fechtmistrzyni
+Dialogue: 0,0:04:28.16,0:04:35.87,Title,[title],0,0,0,,{TIME:268164,275872}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Odcinek 07 {\fscx400}-{\fscx}\N\NNarodziny pięknej fechtmistrzyni
+Dialogue: 1,0:04:28.16,0:04:35.87,Title,[title],0,0,0,,{TIME:268164,275872}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Odcinek 07 {\fscx400}-{\fscx}\N\NNarodziny pięknej fechtmistrzyni
 Comment: 0,0:04:35.87,0:04:35.87,Default,[chapter],0,0,0,,{TIME:275872,275872}Część A
 Dialogue: 0,0:04:52.38,0:04:54.55,Default,,0,0,0,,{TIME:292388,294557}Ty imbecylu!\NDawaj mi to natychmiast.
 Dialogue: 0,0:05:02.69,0:05:04.90,Default,,0,0,0,,{TIME:302699,304901}Tak się z tego korzysta.

@@ -20,7 +20,7 @@ Style: ED EN,TYPO COMICS Bold DEMO,50,&H00BFEDFF,&H000000FF,&H00140F62,&H7F20202
 Style: OP JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: ED JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: Credits,Gotham Rounded,32,&H00FFFFFF,&H000000FF,&H00373737,&H80373737,-1,0,0,0,110.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
-Style: Title,Always Forever,50,&H00232323,&H000000FF,&H00232323,&H80373737,-1,0,0,0,140.0,95.0,0.0,0.0,1,1.0,0.0,2,25,25,25,1
+Style: Title,Always Forever,50,&H00000040,&H000000FF,&H00232323,&H80373737,-1,0,0,0,160.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -84,7 +84,8 @@ Dialogue: 0,0:04:04.14,0:04:07.57,Credits,[credits],0,0,0,,{TIME:244140,247577}{
 Dialogue: 0,0:04:11.21,0:04:15.21,Credits,[credits],0,0,0,,{TIME:251214,255218}{\c&HFFEAE4&\blur0.6\an4\pos(350,265)\fs25}Reżyseria
 Dialogue: 0,0:04:11.21,0:04:15.21,Credits,[credits],0,0,0,,{TIME:251214,255218}{\c&HFFEAE4&\blur0.6\an3\pos(620,430)}Hakata Tan
 Comment: 0,0:04:15.21,0:04:15.21,Default,[chapter],0,0,0,,{TIME:255218,255218}Plansza tytułowa
-Dialogue: 0,0:04:15.28,0:04:23.05,Title,[title],0,0,0,,{TIME:255285,263059}{\blur0.5\alpha&H50&\fad(700,0)}{\fnHoffmanhand}—{\fn} Odcinek 03 {\fnHoffmanhand}—{\fn}\N\NW dzień pojedynku, moja miłość…
+Dialogue: 0,0:04:15.28,0:04:23.05,Title,[title],0,0,0,,{TIME:255285,263059}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Odcinek 03 {\fscx400}-{\fscx}\N\NW dzień pojedynku, moja miłość…
+Dialogue: 1,0:04:15.28,0:04:23.05,Title,[title],0,0,0,,{TIME:255285,263059}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Odcinek 03 {\fscx400}-{\fscx}\N\NW dzień pojedynku, moja miłość…
 Comment: 0,0:04:23.05,0:04:23.05,Default,[chapter],0,0,0,,{TIME:263059,263059}Część A
 Dialogue: 0,0:04:23.39,0:04:25.92,Default,,0,0,0,,{TIME:263393,265929}Cokolwiek się nie stanie,
 Dialogue: 0,0:04:25.92,0:04:30.50,Default,,0,0,0,,{TIME:265929,270500}to nie do pomyślenia, aby kobieta z mojej\Nrodziny poślubiła nauczyciela gry na pianinie.

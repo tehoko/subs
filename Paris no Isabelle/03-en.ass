@@ -20,7 +20,7 @@ Style: ED EN,Soft Marshmallow,40,&H00BFEDFF,&H000000FF,&H00140F62,&H7F202020,-1,
 Style: OP JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: ED JP,Gotham Rounded,34,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,110.0,100.0,0.3,0.0,1,0.0,0.0,2,20,20,25,1
 Style: Credits,Gotham Rounded,32,&H00FFFFFF,&H000000FF,&H00373737,&H80373737,-1,0,0,0,110.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
-Style: Title,Hoffmanhand,40,&H00232323,&H000000FF,&H00232323,&H80373737,-1,0,0,0,100.0,95.0,0.0,0.0,1,1.0,0.0,2,25,25,25,1
+Style: Title,Always Forever,50,&H00000040,&H000000FF,&H00232323,&H80373737,-1,0,0,0,160.0,100.0,0.0,0.0,1,0.0,0.0,2,25,25,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -84,7 +84,8 @@ Dialogue: 0,0:04:04.14,0:04:07.57,Credits,[credits],0,0,0,,{TIME:244140,247577}{
 Dialogue: 0,0:04:11.21,0:04:15.21,Credits,[credits],0,0,0,,{TIME:251214,255218}{\c&HFFEAE4&\blur0.6\an4\pos(350,265)\fs25}Director{NOTE:監督\\N葉方 丹}
 Dialogue: 0,0:04:11.21,0:04:15.21,Credits,[credits],0,0,0,,{TIME:251214,255218}{\c&HFFEAE4&\blur0.6\an3\pos(620,430)}Hakata Tan{NOTE:監督\\N葉方 丹}
 Comment: 0,0:04:15.21,0:04:15.21,Default,[chapter],0,0,0,,{TIME:255218,255218}Title screen
-Dialogue: 0,0:04:15.28,0:04:23.05,Title,[title],0,0,0,,{TIME:255285,263059}{\blur0.5\alpha&H50&\fad(700,0)}— Episode 03 —\N\NOn The Day of The Duel, The One I Love…{NOTE:第三話\\N決闘の日、愛する人は}
+Dialogue: 0,0:04:15.28,0:04:23.05,Title,[title],0,0,0,,{TIME:255285,263059}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Episode 03 {\fscx400}-{\fscx}\N\NOn The Day of The Duel, The One I Love…{NOTE:第三話\\N決闘の日、愛する人は}
+Dialogue: 1,0:04:15.28,0:04:23.05,Title,[title],0,0,0,,{TIME:255285,263059}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Episode 03 {\fscx400}-{\fscx}\N\NOn The Day of The Duel, The One I Love…{NOTE:第三話\\N決闘の日、愛する人は}
 Comment: 0,0:04:23.05,0:04:23.05,Default,[chapter],0,0,0,,{TIME:263059,263059}Part A
 Dialogue: 0,0:04:23.39,0:04:25.92,Default,,0,0,0,,{TIME:263393,265929}No matter what happens,
 Dialogue: 0,0:04:25.92,0:04:30.50,Default,,0,0,0,,{TIME:265929,270500}it is unthinkable for a lady from my family\Nto marry some piano teacher.
