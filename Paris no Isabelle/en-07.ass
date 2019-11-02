@@ -25,7 +25,7 @@ Style: Title,Always Forever,50,&H00000025,&H000000FF,&H00232323,&H80373737,-1,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Opening
-Dialogue: 0,0:00:00.00,0:00:09.07,Default,[karaoke],0,0,0,,{TIME:0,9076}{\fad(0,1000)}Masterpiece Romantic Theatre{NOTE:名曲ロマン劇場}
+Dialogue: 0,0:00:00.00,0:00:09.07,Default,[karaoke],0,0,0,,{TIME:0,9076}{\fad(0,1000)}Masterpiece Romantic Theatre
 Dialogue: 0,0:00:12.34,0:00:15.88,OP JP,[karaoke],0,0,0,,{TIME:12346,15883}{\blur0.5}kyou wa totemo ureshii kibun
 Dialogue: 0,0:00:15.88,0:00:19.88,OP JP,[karaoke],0,0,0,,{TIME:15883,19887}{\blur0.5}shiroi hato ga akai hana kureta
 Dialogue: 0,0:00:19.88,0:00:23.75,OP JP,[karaoke],0,0,0,,{TIME:19887,23757}{\blur0.5}nandaka akogare no ano hito to
@@ -36,268 +36,260 @@ Dialogue: 0,0:00:36.06,0:00:39.94,OP JP,[karaoke],0,0,0,,{TIME:36069,39940}{\blu
 Dialogue: 0,0:00:39.94,0:00:43.37,OP JP,[karaoke],0,0,0,,{TIME:39940,43377}{\blur0.5}aa kamisama hayaku oshiete
 Dialogue: 0,0:00:43.37,0:00:47.54,OP JP,[karaoke],0,0,0,,{TIME:43377,47548}{\blur0.5}moshi sou nara totemo ureshii wa
 Dialogue: 0,0:00:47.54,0:00:51.38,OP JP,[karaoke],0,0,0,,{TIME:47548,51385}{\blur0.5}aa kamisama hayaku oshiete
-Dialogue: 0,0:00:12.34,0:00:15.88,OP EN,[karaoke],0,0,0,,{TIME:12346,15883}Today I feel so happy{NOTE:今日はとても嬉しい気分}
-Dialogue: 0,0:00:15.88,0:00:19.88,OP EN,[karaoke],0,0,0,,{TIME:15883,19887}A white dove gave me a red flower{NOTE:白い鳩が赤い花くれた}
-Dialogue: 0,0:00:19.88,0:00:23.75,OP EN,[karaoke],0,0,0,,{TIME:19887,23757}Somehow I have a feeling that{NOTE:なんだか憧れのあの人と}
-Dialogue: 0,0:00:23.75,0:00:27.69,OP EN,[karaoke],0,0,0,,{TIME:23757,27694}I will be able to meet that person again{NOTE:会えそうな予感がするわ}
-Dialogue: 0,0:00:27.69,0:00:31.66,OP EN,[karaoke],0,0,0,,{TIME:27694,31665}La la la, will we meet again?{NOTE:ルルルどうしよう会えるかしら}
-Dialogue: 0,0:00:31.66,0:00:36.06,OP EN,[karaoke],0,0,0,,{TIME:31665,36069}La la la, it's a bit embarrassing{NOTE:ルルルどうしよう恥ずかしいな}
-Dialogue: 0,0:00:36.06,0:00:39.94,OP EN,[karaoke],0,0,0,,{TIME:36069,39940}I'd be so happy if it came true{NOTE:もしそうならとても嬉しいわ}
-Dialogue: 0,0:00:39.94,0:00:43.37,OP EN,[karaoke],0,0,0,,{TIME:39940,43377}Oh, God, just let me know{NOTE:ああ神様早く教えて}
-Dialogue: 0,0:00:43.37,0:00:47.54,OP EN,[karaoke],0,0,0,,{TIME:43377,47548}I'd be so happy if it came true{NOTE:もしそうならとても嬉しいわ}
-Dialogue: 0,0:00:47.54,0:00:51.38,OP EN,[karaoke],0,0,0,,{TIME:47548,51385}Oh, God, just let me know{NOTE:ああ神様早く教えて}
+Dialogue: 0,0:00:12.34,0:00:15.88,OP EN,[karaoke],0,0,0,,{TIME:12346,15883}Today I feel so happy
+Dialogue: 0,0:00:15.88,0:00:19.88,OP EN,[karaoke],0,0,0,,{TIME:15883,19887}A white dove gave me a red flower
+Dialogue: 0,0:00:19.88,0:00:23.75,OP EN,[karaoke],0,0,0,,{TIME:19887,23757}Somehow I have a feeling that
+Dialogue: 0,0:00:23.75,0:00:27.69,OP EN,[karaoke],0,0,0,,{TIME:23757,27694}I will be able to meet that person again
+Dialogue: 0,0:00:27.69,0:00:31.66,OP EN,[karaoke],0,0,0,,{TIME:27694,31665}La la la, will we meet again?
+Dialogue: 0,0:00:31.66,0:00:36.06,OP EN,[karaoke],0,0,0,,{TIME:31665,36069}La la la, it's a bit embarrassing
+Dialogue: 0,0:00:36.06,0:00:39.94,OP EN,[karaoke],0,0,0,,{TIME:36069,39940}I'd be so happy if it came true
+Dialogue: 0,0:00:39.94,0:00:43.37,OP EN,[karaoke],0,0,0,,{TIME:39940,43377}Oh, God, just let me know
+Dialogue: 0,0:00:43.37,0:00:47.54,OP EN,[karaoke],0,0,0,,{TIME:43377,47548}I'd be so happy if it came true
+Dialogue: 0,0:00:47.54,0:00:51.38,OP EN,[karaoke],0,0,0,,{TIME:47548,51385}Oh, God, just let me know
 Comment: 0,0:01:01.02,0:01:01.02,Default,[chapter],0,0,0,,{TIME:61024,61024}Intro
-Dialogue: 0,0:01:02.32,0:01:04.42,Default,,0,0,0,,{TIME:62325,64427}
-Dialogue: 0,0:01:04.42,0:01:06.19,Default,,0,0,0,,{TIME:64427,66196}
-Dialogue: 0,0:01:06.19,0:01:07.56,Default,,0,0,0,,{TIME:66196,67564}
-Dialogue: 0,0:01:07.56,0:01:09.49,Default,,0,0,0,,{TIME:67564,69499}
-Dialogue: 0,0:01:10.33,0:01:11.93,Default,,0,0,0,,{TIME:70333,71935}
-Dialogue: 0,0:01:11.93,0:01:13.70,Default,,0,0,0,,{TIME:71935,73703}
-Dialogue: 0,0:01:13.70,0:01:17.44,Default,,0,0,0,,{TIME:73703,77440}
-Dialogue: 0,0:01:17.44,0:01:21.24,Default,,0,0,0,,{TIME:77440,81244}
-Dialogue: 0,0:01:21.24,0:01:27.55,Default,,0,0,0,,{TIME:81244,87551}
-Dialogue: 0,0:01:27.55,0:01:31.08,Default,,0,0,0,,{TIME:87551,91087}
-Dialogue: 0,0:01:31.48,0:01:37.62,Default,,0,0,0,,{TIME:91488,97627}
-Dialogue: 0,0:01:37.62,0:01:40.63,Default,,0,0,0,,{TIME:97627,100630}
-Dialogue: 0,0:01:40.63,0:01:42.59,Default,,0,0,0,,{TIME:100630,102599}
-Dialogue: 0,0:01:42.59,0:01:46.46,Default,,0,0,0,,{TIME:102599,106469}
-Dialogue: 0,0:01:46.46,0:01:50.80,Default,,0,0,0,,{TIME:106469,110807}
-Dialogue: 0,0:01:54.94,0:01:57.88,Default,,0,0,0,,{TIME:114945,117881}
-Dialogue: 0,0:01:58.51,0:02:01.08,Default,,0,0,0,,{TIME:118515,121084}
-Dialogue: 0,0:02:01.08,0:02:04.88,Default,,0,0,0,,{TIME:121084,124888}
-Dialogue: 0,0:02:07.05,0:02:12.16,Default,,0,0,0,,{TIME:127057,132162}
-Dialogue: 0,0:02:13.12,0:02:15.83,Default,,0,0,0,,{TIME:133129,135832}
-Dialogue: 0,0:02:15.83,0:02:19.20,Default,,0,0,0,,{TIME:135832,139202}
-Dialogue: 0,0:02:19.56,0:02:21.70,Default,,0,0,0,,{TIME:139569,141705}
-Dialogue: 0,0:02:21.70,0:02:26.57,Default,,0,0,0,,{TIME:141705,146576}
-Dialogue: 0,0:02:30.64,0:02:32.71,Default,,0,0,0,,{TIME:150647,152716}
-Dialogue: 0,0:02:32.71,0:02:34.75,Default,,0,0,0,,{TIME:152716,154751}
-Dialogue: 0,0:02:36.95,0:02:37.88,Default,,0,0,0,,{TIME:156953,157887}
-Dialogue: 0,0:02:41.29,0:02:42.39,Default,,0,0,0,,{TIME:161291,162392}
-Dialogue: 0,0:02:42.39,0:02:45.99,Default,,0,0,0,,{TIME:162392,165996}
-Dialogue: 0,0:02:46.19,0:02:49.89,Default,,0,0,0,,{TIME:166196,169899}
-Dialogue: 0,0:02:50.30,0:02:53.83,Default,,0,0,0,,{TIME:170300,173837}
-Dialogue: 0,0:02:53.83,0:02:57.84,Default,,0,0,0,,{TIME:173837,177841}
-Dialogue: 0,0:02:59.44,0:03:01.74,Default,,0,0,0,,{TIME:179442,181745}
-Dialogue: 0,0:03:15.09,0:03:18.32,Default,,0,0,0,,{TIME:195091,198328}
-Dialogue: 0,0:03:18.52,0:03:20.36,Default,,0,0,0,,{TIME:198528,200363}
-Dialogue: 0,0:03:20.36,0:03:21.29,Default,,0,0,0,,{TIME:200363,201297}
+Dialogue: 0,0:01:02.32,0:01:04.42,Default,,0,0,0,,{TIME:62325,64427}Down with Thiers!
+Dialogue: 0,0:01:04.42,0:01:06.19,Default,,0,0,0,,{TIME:64427,66196}Away with him!
+Dialogue: 0,0:01:06.19,0:01:08.16,Default,,0,0,0,,{TIME:66196,68164}Come out, you aristocratic dogs!
+Dialogue: 0,0:01:08.16,0:01:09.49,Default,,0,0,0,,{TIME:68164,69499}Defend Paris!
+Dialogue: 0,0:01:10.33,0:01:11.93,Default,,0,0,0,,{TIME:70333,71935}We don't need Thiers!
+Dialogue: 0,0:01:11.93,0:01:13.70,Default,,0,0,0,,{TIME:71935,73703}Defend Paris!
+Dialogue: 0,0:01:13.70,0:01:17.44,Default,,0,0,0,,{TIME:73703,77440}{\i1}March 1871.
+Dialogue: 0,0:01:17.44,0:01:21.24,Default,,0,0,0,,{TIME:77440,81244}{\i1}Seeing the uprising of the citizens of Paris,\Nready to defend the capital by themselves,
+Dialogue: 0,0:01:21.24,0:01:27.55,Default,,0,0,0,,{TIME:81244,87551}{\i1}Thiers felt threatened and\Nwith the help of Prussia fled from Paris.
+Dialogue: 0,0:01:27.55,0:01:31.08,Default,,0,0,0,,{TIME:87551,91087}{\i1}The government\Nevacuated to Versailles.
+Dialogue: 0,0:01:31.48,0:01:37.62,Default,,0,0,0,,{TIME:91488,97627}Paris is now in the hands of villains\Nwho want to unlawfully appropriate it.
+Dialogue: 0,0:01:37.62,0:01:40.63,Default,,0,0,0,,{TIME:97627,100630}These enemies are\Nmuch worse than Prussia.
+Dialogue: 0,0:01:40.63,0:01:42.59,Default,,0,0,0,,{TIME:100630,102599}The citizens of Paris are crying.
+Dialogue: 0,0:01:42.59,0:01:46.46,Default,,0,0,0,,{TIME:102599,106469}I promise you that\NI will take our capital back.
+Dialogue: 0,0:01:46.46,0:01:50.80,Default,,0,0,0,,{TIME:106469,110807}Gentlemen, I am asking you\Nfor your support and trust.
+Dialogue: 0,0:01:54.94,0:01:57.88,Default,,0,0,0,,{TIME:114945,117881}"Villains"?\N"Citizens of Paris are crying"?
+Dialogue: 0,0:01:58.51,0:02:01.08,Default,,0,0,0,,{TIME:118515,121084}What a load of rubbish!\NThiers is a Frenchman like us,
+Dialogue: 0,0:02:01.08,0:02:04.88,Default,,0,0,0,,{TIME:121084,124888}and he leads by the nose not just us,\Nbut the entire world!
+Dialogue: 0,0:02:07.05,0:02:12.16,Default,,0,0,0,,{TIME:127057,132162}The uprising was the only way\Nto defend against the Prussian army!
+Dialogue: 0,0:02:13.12,0:02:15.83,Default,,0,0,0,,{TIME:133129,135832}He can't be thinking\Nhe can get away with this propaganda.
+Dialogue: 0,0:02:15.83,0:02:19.20,Default,,0,0,0,,{TIME:135832,139202}We have to show to the world\Nhow things really are.
+Dialogue: 0,0:02:19.56,0:02:21.70,Default,,0,0,0,,{TIME:139569,141705}I agree, but how?
+Dialogue: 0,0:02:21.70,0:02:26.57,Default,,0,0,0,,{TIME:141705,146576}Not only are we still under siege,\Nour troops are in Thiers' pocket!
+Dialogue: 0,0:02:30.64,0:02:32.71,Default,,0,0,0,,{TIME:150647,152716}{\i1}What to do here?
+Dialogue: 0,0:02:32.71,0:02:34.75,Default,,0,0,0,,{TIME:152716,154751}I think I have an idea.
+Dialogue: 0,0:02:36.95,0:02:37.88,Default,,0,0,0,,{TIME:156953,157887}Geneviève!
+Dialogue: 0,0:02:41.29,0:02:42.39,Default,,0,0,0,,{TIME:161291,162392}Geneviève.
+Dialogue: 0,0:02:42.39,0:02:45.99,Default,,0,0,0,,{TIME:162392,165996}We will tell the truth\Nto my father, Léon Rostain.
+Dialogue: 0,0:02:46.19,0:02:49.89,Default,,0,0,0,,{TIME:166196,169899}That doesn't seem very sensible. I don't want\Nto drag your family into this mess.
+Dialogue: 0,0:02:50.30,0:02:53.83,Default,,0,0,0,,{TIME:170300,173837}My father is a rich landowner,\Njust like Thiers.
+Dialogue: 0,0:02:53.83,0:02:57.84,Default,,0,0,0,,{TIME:173837,177841}But unlike Thiers, he can\Ndistinguish between good and evil.
+Dialogue: 0,0:02:59.44,0:03:01.74,Default,,0,0,0,,{TIME:179442,181745}Geneviève…
+Dialogue: 0,0:03:15.09,0:03:18.32,Default,,0,0,0,,{TIME:195091,198328}Don't let any of them\Nget to Versailles.
+Dialogue: 0,0:03:18.52,0:03:20.29,Default,,0,0,0,,{TIME:198528,200296}Understood?
+Dialogue: 0,0:03:20.29,0:03:21.29,Default,,0,0,0,,{TIME:200296,201297}Yes sir!
 Comment: 0,0:03:23.19,0:03:23.19,Default,[chapter],0,0,0,,{TIME:203199,203199}Opening
-Dialogue: 0,0:03:35.74,0:03:38.61,Credits,[credits],0,0,0,,{TIME:215745,218615}{\c&HEFEDE5&\blur0.6\fad(0,300)\an5\pos(186,450)}Isabelle{NOTE:イザベル}
-Dialogue: 0,0:03:42.65,0:03:45.38,Credits,[credits],0,0,0,,{TIME:222652,225388}{\c&HF2EEE4&\blur0.6\an5\pos(181,450)}Father · Léon{NOTE:父・レオン}
-Dialogue: 0,0:03:45.85,0:03:48.22,Credits,[credits],0,0,0,,{TIME:225855,228224}{\c&HF2EEE4&\blur0.6\an5\pos(493,450)}Mother · Marie{NOTE:母・マリー}
-Dialogue: 0,0:03:48.65,0:03:51.06,Credits,[credits],0,0,0,,{TIME:228658,231061}{\c&HF2EEDC&\blur0.6\an5\pos(190,450)}Bloody Bat{NOTE:血のコウモリ}
-Dialogue: 0,0:03:51.56,0:03:53.89,Credits,[credits],0,0,0,,{TIME:231561,233897}{\c&HF2EEE4&\blur0.6\an5\pos(480,450)}Sister · Geneviève{NOTE:姉・ジュネビエーブ}
-Dialogue: 0,0:03:54.43,0:03:56.83,Credits,[credits],0,0,0,,{TIME:234431,236833}{\c&HF2EEE4&\blur0.6\an5\pos(223,450)}Piano Teacher · Jules{NOTE:ピアノ教師・ジュール}
-Dialogue: 0,0:03:57.26,0:03:59.73,Credits,[credits],0,0,0,,{TIME:237267,239736}{\c&HEDE6DA&\blur0.6\an5\pos(488,450)}Army Captain · Victor{NOTE:陸軍大尉・ビクトル}
-Dialogue: 0,0:04:00.17,0:04:02.67,Credits,[credits],0,0,0,,{TIME:240170,242672}{\c&HEDE6DA&\blur0.6\an5\pos(485,450)}Young friend · Jean{NOTE:幼な友達・シャン}
-Dialogue: 0,0:04:03.27,0:04:06.64,Credits,[credits],0,0,0,,{TIME:243273,246643}{\c&HFFF4E0&\blur0.6\an4\pos(356,240)\fs25}Screenplay{NOTE:脚本\\N首藤 剛志}
-Dialogue: 0,0:04:03.27,0:04:06.64,Credits,[credits],0,0,0,,{TIME:243273,246643}{\c&HFFF4E0&\blur0.6\an3\pos(622,405)}Shudou Takeshi{NOTE:脚本\\N首藤 剛志}
-Dialogue: 0,0:04:06.64,0:04:10.11,Credits,[credits],0,0,0,,{TIME:246643,250113}{\c&HF8F3E5&\blur0.6\an4\pos(356,240)\fs25}Narrator{NOTE:ナレーター\\N稲垣 美穂子}
-Dialogue: 0,0:04:06.64,0:04:10.11,Credits,[credits],0,0,0,,{TIME:246643,250113}{\c&HF8F3E5&\blur0.6\an3\pos(618,403)}Inagaki Mihoko{NOTE:ナレーター\\N稲垣 美穂子}
-Dialogue: 0,0:04:10.11,0:04:13.51,Credits,[credits],0,0,0,,{TIME:250113,253516}{\c&HF8F3E5&\blur0.6\an4\pos(355,240)\fs25}Music{NOTE:音楽\\N松下 功}
-Dialogue: 0,0:04:10.11,0:04:13.51,Credits,[credits],0,0,0,,{TIME:250113,253516}{\c&HF8F3E5&\blur0.6\an3\pos(624,405)}Isao Matsushita{NOTE:音楽\\N松下 功}
-Dialogue: 0,0:04:13.51,0:04:16.85,Credits,[credits],0,0,0,,{TIME:253516,256853}{\c&HF8F3E5&\blur0.6\an4\pos(350,235)\fs25}Character Design{NOTE:キャラクターデザイン\\N福田 皖\\N北島 信幸}
-Dialogue: 0,0:04:13.51,0:04:16.85,Credits,[credits],0,0,0,,{TIME:253516,256853}{\c&HF8F3E5&\blur0.6\an3\pos(622,440)}Fukuda Kiyomu{NOTE:キャラクターデザイン\\N福田 皖\\N北島 信幸}
-Dialogue: 0,0:04:13.51,0:04:16.85,Credits,[credits],0,0,0,,{TIME:253516,256853}{\c&HF8F3E5&\blur0.6\an3\pos(622,480)}Kitajima Nobuyuki{NOTE:キャラクターデザイン\\N福田 皖\\N北島 信幸}
-Dialogue: 0,0:04:16.85,0:04:20.29,Credits,[credits],0,0,0,,{TIME:256853,260290}{\c&HF4E9EA&\blur0.6\an4\pos(353,240)\fs25}Chief Director{NOTE:チーフディレクター\\N早川 啓二}
-Dialogue: 0,0:04:16.85,0:04:20.29,Credits,[credits],0,0,0,,{TIME:256853,260290}{\c&HF4E9EA&\blur0.6\an3\pos(618,405)}Hayakawa Keiji{NOTE:チーフディレクター\\N早川 啓二}
-Dialogue: 0,0:04:23.92,0:04:27.89,Credits,[credits],0,0,0,,{TIME:263927,267897}{\c&HFFEAE4&\blur0.6\an4\pos(350,265)\fs25}Director{NOTE:監督\\N葉方 丹}
-Dialogue: 0,0:04:23.92,0:04:27.89,Credits,[credits],0,0,0,,{TIME:263927,267897}{\c&HFFEAE4&\blur0.6\an3\pos(620,430)}Hakata Tan{NOTE:監督\\N葉方 丹}
+Dialogue: 0,0:03:35.74,0:03:38.61,Credits,[credits],0,0,0,,{TIME:215745,218615}{\c&HEFEDE5&\blur0.6\fad(0,300)\an5\pos(186,450)}Isabelle
+Dialogue: 0,0:03:42.65,0:03:45.38,Credits,[credits],0,0,0,,{TIME:222652,225388}{\c&HF2EEE4&\blur0.6\an5\pos(181,450)}Father · Léon
+Dialogue: 0,0:03:45.85,0:03:48.22,Credits,[credits],0,0,0,,{TIME:225855,228224}{\c&HF2EEE4&\blur0.6\an5\pos(493,450)}Mother · Marie
+Dialogue: 0,0:03:48.65,0:03:51.06,Credits,[credits],0,0,0,,{TIME:228658,231061}{\c&HF2EEDC&\blur0.6\an5\pos(190,450)}Bloody Bat
+Dialogue: 0,0:03:51.56,0:03:53.89,Credits,[credits],0,0,0,,{TIME:231561,233897}{\c&HF2EEE4&\blur0.6\an5\pos(480,450)}Sister · Geneviève
+Dialogue: 0,0:03:54.43,0:03:56.83,Credits,[credits],0,0,0,,{TIME:234431,236833}{\c&HF2EEE4&\blur0.6\an5\pos(223,450)}Piano Teacher · Jules
+Dialogue: 0,0:03:57.26,0:03:59.73,Credits,[credits],0,0,0,,{TIME:237267,239736}{\c&HEDE6DA&\blur0.6\an5\pos(488,450)}Army Captain · Victor
+Dialogue: 0,0:04:00.17,0:04:02.67,Credits,[credits],0,0,0,,{TIME:240170,242672}{\c&HEDE6DA&\blur0.6\an5\pos(485,450)}Young friend · Jean
+Dialogue: 0,0:04:03.27,0:04:06.64,Credits,[credits],0,0,0,,{TIME:243273,246643}{\c&HFFF4E0&\blur0.6\an4\pos(356,240)\fs25}Screenplay
+Dialogue: 0,0:04:03.27,0:04:06.64,Credits,[credits],0,0,0,,{TIME:243273,246643}{\c&HFFF4E0&\blur0.6\an3\pos(622,405)}Shudou Takeshi
+Dialogue: 0,0:04:06.64,0:04:10.11,Credits,[credits],0,0,0,,{TIME:246643,250113}{\c&HF8F3E5&\blur0.6\an4\pos(356,240)\fs25}Narrator
+Dialogue: 0,0:04:06.64,0:04:10.11,Credits,[credits],0,0,0,,{TIME:246643,250113}{\c&HF8F3E5&\blur0.6\an3\pos(618,403)}Inagaki Mihoko
+Dialogue: 0,0:04:10.11,0:04:13.51,Credits,[credits],0,0,0,,{TIME:250113,253516}{\c&HF8F3E5&\blur0.6\an4\pos(355,240)\fs25}Music
+Dialogue: 0,0:04:10.11,0:04:13.51,Credits,[credits],0,0,0,,{TIME:250113,253516}{\c&HF8F3E5&\blur0.6\an3\pos(624,405)}Isao Matsushita
+Dialogue: 0,0:04:13.51,0:04:16.85,Credits,[credits],0,0,0,,{TIME:253516,256853}{\c&HF8F3E5&\blur0.6\an4\pos(350,235)\fs25}Character Design
+Dialogue: 0,0:04:13.51,0:04:16.85,Credits,[credits],0,0,0,,{TIME:253516,256853}{\c&HF8F3E5&\blur0.6\an3\pos(622,440)}Fukuda Kiyomu
+Dialogue: 0,0:04:13.51,0:04:16.85,Credits,[credits],0,0,0,,{TIME:253516,256853}{\c&HF8F3E5&\blur0.6\an3\pos(622,480)}Kitajima Nobuyuki
+Dialogue: 0,0:04:16.85,0:04:20.29,Credits,[credits],0,0,0,,{TIME:256853,260290}{\c&HF4E9EA&\blur0.6\an4\pos(353,240)\fs25}Chief Director
+Dialogue: 0,0:04:16.85,0:04:20.29,Credits,[credits],0,0,0,,{TIME:256853,260290}{\c&HF4E9EA&\blur0.6\an3\pos(618,405)}Hayakawa Keiji
+Dialogue: 0,0:04:23.92,0:04:27.89,Credits,[credits],0,0,0,,{TIME:263927,267897}{\c&HFFEAE4&\blur0.6\an4\pos(350,265)\fs25}Director
+Dialogue: 0,0:04:23.92,0:04:27.89,Credits,[credits],0,0,0,,{TIME:263927,267897}{\c&HFFEAE4&\blur0.6\an3\pos(620,430)}Hakata Tan
 Comment: 0,0:04:27.89,0:04:27.89,Default,[chapter],0,0,0,,{TIME:267897,267897}Title screen
-Dialogue: 0,0:04:28.16,0:04:35.87,Title,[title],0,0,0,,{TIME:268164,275872}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Episode 07 {\fscx400}-{\fscx}\N\NNow, The Birth of a Beautiful Swordslady{NOTE:第七話\\Nいま、美人剣士の誕生}
-Dialogue: 1,0:04:28.16,0:04:35.87,Title,[title],0,0,0,,{TIME:268164,275872}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Episode 07 {\fscx400}-{\fscx}\N\NNow, The Birth of a Beautiful Swordslady{NOTE:第七話\\Nいま、美人剣士の誕生}
+Dialogue: 0,0:04:28.16,0:04:35.87,Title,[title],0,0,0,,{TIME:268164,275872}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Episode 07 {\fscx400}-{\fscx}\N\NNow, The Birth of a Beautiful Swordslady
+Dialogue: 1,0:04:28.16,0:04:35.87,Title,[title],0,0,0,,{TIME:268164,275872}{\blur1.5\fad(700,0)\fscx400}-{\fscx} Episode 07 {\fscx400}-{\fscx}\N\NNow, The Birth of a Beautiful Swordslady
 Comment: 0,0:04:35.87,0:04:35.87,Default,[chapter],0,0,0,,{TIME:275872,275872}Part A
-Dialogue: 0,0:04:52.38,0:04:54.55,Default,,0,0,0,,{TIME:292388,294557}
-Dialogue: 0,0:05:02.69,0:05:04.90,Default,,0,0,0,,{TIME:302699,304901}
-Dialogue: 0,0:05:04.90,0:05:07.43,Default,,0,0,0,,{TIME:304901,307437}
-Dialogue: 0,0:05:12.50,0:05:13.14,Default,,0,0,0,,{TIME:312509,313143}
-Dialogue: 0,0:05:21.98,0:05:23.98,Default,,0,0,0,,{TIME:321985,323987}
-Dialogue: 0,0:05:27.49,0:05:28.89,Default,,0,0,0,,{TIME:327490,328892}
-Dialogue: 0,0:05:33.83,0:05:35.49,Default,,0,0,0,,{TIME:333830,335498}
-Dialogue: 0,0:05:36.73,0:05:38.40,Default,,0,0,0,,{TIME:336733,338401}
-Dialogue: 0,0:05:39.36,0:05:41.67,Default,,0,0,0,,{TIME:339369,341671}
-Dialogue: 0,0:05:41.67,0:05:43.57,Default,,0,0,0,,{TIME:341671,343573}
-Dialogue: 0,0:05:53.41,0:05:54.91,Default,,0,0,0,,{TIME:353416,354918}
-Dialogue: 0,0:05:54.91,0:05:58.52,Default,,0,0,0,,{TIME:354918,358521}
-Dialogue: 0,0:05:58.52,0:06:01.99,Default,,0,0,0,,{TIME:358521,361991}
-Dialogue: 0,0:06:02.69,0:06:03.62,Default,,0,0,0,,{TIME:362692,363626}
-Dialogue: 0,0:06:07.03,0:06:07.99,Default,,0,0,0,,{TIME:367030,367997}
-Dialogue: 0,0:06:09.46,0:06:13.63,Default,,0,0,0,,{TIME:369465,373636}
-Dialogue: 0,0:06:16.90,0:06:21.17,Default,,0,0,0,,{TIME:376906,381177}
-Dialogue: 0,0:06:21.17,0:06:25.24,Default,,0,0,0,,{TIME:381177,385248}
-Dialogue: 0,0:06:27.15,0:06:28.81,Default,,0,0,0,,{TIME:387150,388818}
-Dialogue: 0,0:06:28.81,0:06:34.05,Default,,0,0,0,,{TIME:388818,394057}
-Dialogue: 0,0:06:34.05,0:06:38.86,Default,,0,0,0,,{TIME:394057,398862}
-Dialogue: 0,0:06:38.86,0:06:40.83,Default,,0,0,0,,{TIME:398862,400830}
-Dialogue: 0,0:06:44.16,0:06:46.53,Default,,0,0,0,,{TIME:404167,406536}
-Dialogue: 0,0:06:46.53,0:06:53.40,Default,,0,0,0,,{TIME:406536,413409}
-Dialogue: 0,0:06:57.98,0:06:59.64,Default,,0,0,0,,{TIME:417981,419649}
-Dialogue: 0,0:06:59.64,0:07:00.88,Default,,0,0,0,,{TIME:419649,420884}
-Dialogue: 0,0:07:00.88,0:07:02.71,Default,,0,0,0,,{TIME:420884,422719}
-Dialogue: 0,0:07:02.71,0:07:05.38,Default,,0,0,0,,{TIME:422719,425388}
-Dialogue: 0,0:07:05.38,0:07:09.05,Default,,0,0,0,,{TIME:425388,429058}
-Dialogue: 0,0:07:09.05,0:07:10.92,Default,,0,0,0,,{TIME:429058,430927}
-Dialogue: 0,0:07:12.52,0:07:13.93,Default,,0,0,0,,{TIME:432528,433930}
-Dialogue: 0,0:07:19.86,0:07:21.07,Default,,0,0,0,,{TIME:439869,441070}
-Dialogue: 0,0:07:22.67,0:07:23.77,Default,,0,0,0,,{TIME:442672,443773}
-Dialogue: 0,0:07:23.77,0:07:27.57,Default,,0,0,0,,{TIME:443773,447577}
-Dialogue: 0,0:07:38.35,0:07:41.42,Default,,0,0,0,,{TIME:458354,461424}
-Dialogue: 0,0:07:52.10,0:07:54.77,Default,,0,0,0,,{TIME:472101,474771}
-Dialogue: 0,0:07:54.77,0:07:57.10,Default,,0,0,0,,{TIME:474771,477106}
-Dialogue: 0,0:08:01.61,0:08:07.08,Default,,0,0,0,,{TIME:481611,487083}
-Dialogue: 0,0:08:07.08,0:08:08.91,Default,,0,0,0,,{TIME:487083,488918}
-Dialogue: 0,0:08:08.91,0:08:10.72,Default,,0,0,0,,{TIME:488918,490720}
-Dialogue: 0,0:08:10.72,0:08:11.42,Default,,0,0,0,,{TIME:490720,491421}
-Dialogue: 0,0:08:14.22,0:08:16.39,Default,,0,0,0,,{TIME:494223,496392}
-Dialogue: 0,0:08:18.26,0:08:22.26,Default,,0,0,0,,{TIME:498261,502265}
-Dialogue: 0,0:08:22.86,0:08:25.13,Default,,0,0,0,,{TIME:502865,505134}
-Dialogue: 0,0:08:25.43,0:08:27.50,Default,,0,0,0,,{TIME:505435,507503}
-Dialogue: 0,0:08:27.50,0:08:29.80,Default,,0,0,0,,{TIME:507503,509806}
-Dialogue: 0,0:08:36.21,0:08:38.24,Default,,0,0,0,,{TIME:516212,518247}
-Dialogue: 0,0:09:02.53,0:09:07.24,Default,,0,0,0,,{TIME:542538,547243}
-Dialogue: 0,0:09:07.24,0:09:10.07,Default,,0,0,0,,{TIME:547243,550079}
-Dialogue: 0,0:09:10.07,0:09:13.44,Default,,0,0,0,,{TIME:550079,553449}
-Dialogue: 0,0:09:13.44,0:09:18.95,Default,,0,0,0,,{TIME:553449,558955}
-Dialogue: 0,0:09:18.95,0:09:22.02,Default,,0,0,0,,{TIME:558955,562025}
-Dialogue: 0,0:09:22.02,0:09:24.42,Default,,0,0,0,,{TIME:562025,564427}
-Dialogue: 0,0:09:24.42,0:09:32.53,Default,,0,0,0,,{TIME:564427,572535}
-Dialogue: 0,0:09:37.00,0:09:39.44,Default,,0,0,0,,{TIME:577006,579442}
-Dialogue: 0,0:09:39.44,0:09:41.31,Default,,0,0,0,,{TIME:579442,581310}
-Dialogue: 0,0:09:46.31,0:09:47.78,Default,,0,0,0,,{TIME:586315,587784}
-Dialogue: 0,0:09:47.78,0:09:51.22,Default,,0,0,0,,{TIME:587784,591220}
-Dialogue: 0,0:09:51.22,0:09:54.89,Default,,0,0,0,,{TIME:591220,594891}
-Dialogue: 0,0:11:04.92,0:11:07.33,Default,,0,0,0,,{TIME:664927,667330}
-Dialogue: 0,0:11:12.20,0:11:14.13,Default,,0,0,0,,{TIME:672201,674137}
-Dialogue: 0,0:11:15.03,0:11:19.10,Default,,0,0,0,,{TIME:675037,679108}
-Dialogue: 0,0:12:21.73,0:12:26.14,Default,,0,0,0,,{TIME:741737,746142}
-Dialogue: 0,0:13:35.11,0:13:38.74,Default,,0,0,0,,{TIME:815111,818748}
+Dialogue: 0,0:04:52.38,0:04:54.55,Default,,0,0,0,,{TIME:292388,294557}You imbecile!\NHand it over.
+Dialogue: 0,0:05:02.69,0:05:04.90,Default,,0,0,0,,{TIME:302699,304901}That's how you use it.
+Dialogue: 0,0:05:04.90,0:05:07.43,Default,,0,0,0,,{TIME:304901,307437}Now find the letter.
+Dialogue: 0,0:05:12.50,0:05:13.14,Default,,0,0,0,,{TIME:312509,313143}Who's there?
+Dialogue: 0,0:05:21.98,0:05:23.98,Default,,0,0,0,,{TIME:321985,323987}Gaston?\NWhat happened, Gaston?
+Dialogue: 0,0:05:27.49,0:05:28.89,Default,,0,0,0,,{TIME:327490,328892}Please…\NPlease take it.
+Dialogue: 0,0:05:33.83,0:05:35.49,Default,,0,0,0,,{TIME:333830,335498}If it is true…
+Dialogue: 0,0:05:36.73,0:05:38.40,Default,,0,0,0,,{TIME:336733,338401}I don't want to believe it.
+Dialogue: 0,0:05:39.36,0:05:41.67,Default,,0,0,0,,{TIME:339369,341671}My lord, Mr. Thiers\Ncame to see you.
+Dialogue: 0,0:05:41.67,0:05:43.57,Default,,0,0,0,,{TIME:341671,343573}What?
+Dialogue: 0,0:05:53.41,0:05:54.91,Default,,0,0,0,,{TIME:353416,354918}Mr. Thiers.
+Dialogue: 0,0:05:54.91,0:05:58.52,Default,,0,0,0,,{TIME:354918,358521}Let me hear a honest answer.\NDoes this letter express the truth?
+Dialogue: 0,0:05:58.52,0:06:01.99,Default,,0,0,0,,{TIME:358521,361991}Are you really a traitor who\Nsold the capital to the enemy?
+Dialogue: 0,0:06:02.69,0:06:03.62,Default,,0,0,0,,{TIME:362692,363626}What are you doing?!
+Dialogue: 0,0:06:07.03,0:06:07.99,Default,,0,0,0,,{TIME:367030,367997}Mr. Rostain.
+Dialogue: 0,0:06:09.46,0:06:13.63,Default,,0,0,0,,{TIME:369465,373636}If you want the Rostain family to live,\Nyou will forget about this document.
+Dialogue: 0,0:06:16.90,0:06:21.17,Default,,0,0,0,,{TIME:376906,381177}I have but allies among the Versailles'\Naristocrats and landowners.
+Dialogue: 0,0:06:21.17,0:06:25.24,Default,,0,0,0,,{TIME:381177,385248}I pity the fate of anyone\Nwho attempts to change this.
+Dialogue: 0,0:06:27.15,0:06:28.81,Default,,0,0,0,,{TIME:387150,388818}Are you threatening me?
+Dialogue: 0,0:06:28.81,0:06:34.05,Default,,0,0,0,,{TIME:388818,394057}By no means. Our only goal is\Nto protect our properties in Paris.
+Dialogue: 0,0:06:34.05,0:06:38.86,Default,,0,0,0,,{TIME:394057,398862}I want to regain our wealth\Nfrom the thieves who took Paris.
+Dialogue: 0,0:06:38.86,0:06:40.83,Default,,0,0,0,,{TIME:398862,400830}What do you think, Mr. Rostain?
+Dialogue: 0,0:06:44.16,0:06:46.53,Default,,0,0,0,,{TIME:404167,406536}Maybe my way\Nof thinking is wrong?
+Dialogue: 0,0:06:46.53,0:06:49.97,Default,,0,0,0,,{TIME:406536,409973}By the way, I have\Nreceived an information
+Dialogue: 0,0:06:49.97,0:06:53.40,Default,,0,0,0,,{TIME:409973,413409}that the tentacles of the rebellion\Nhave reached this mansion as well.
+Dialogue: 0,0:06:57.98,0:06:59.64,Default,,0,0,0,,{TIME:417981,419649}Gaston!
+Dialogue: 0,0:06:59.64,0:07:00.88,Default,,0,0,0,,{TIME:419649,420884}Get away from here. Fast!
+Dialogue: 0,0:07:00.88,0:07:02.71,Default,,0,0,0,,{TIME:420884,422719}It went as I thought.
+Dialogue: 0,0:07:02.71,0:07:05.38,Default,,0,0,0,,{TIME:422719,425388}There's no time.\NGet out of here, Gaston!
+Dialogue: 0,0:07:05.38,0:07:09.05,Default,,0,0,0,,{TIME:425388,429058}Please take it.\NThis is a letter from Ms. Geneviève.
+Dialogue: 0,0:07:09.05,0:07:10.92,Default,,0,0,0,,{TIME:429058,430927}From my sister?
+Dialogue: 0,0:07:12.52,0:07:13.93,Default,,0,0,0,,{TIME:432528,433930}Quick!
+Dialogue: 0,0:07:19.86,0:07:21.07,Default,,0,0,0,,{TIME:439869,441070}Search the room.
+Dialogue: 0,0:07:22.67,0:07:23.77,Default,,0,0,0,,{TIME:442672,443773}What are you doing here?
+Dialogue: 0,0:07:23.77,0:07:27.57,Default,,0,0,0,,{TIME:443773,447577}We are looking for a little rat\Nthat slipped out of the cage.
+Dialogue: 0,0:07:38.35,0:07:41.42,Default,,0,0,0,,{TIME:458354,461424}This is a lady's room.\NWhere are your manners?
+Dialogue: 0,0:07:52.10,0:07:54.77,Default,,0,0,0,,{TIME:472101,474771}Manners do not apply to us.
+Dialogue: 0,0:07:54.77,0:07:57.10,Default,,0,0,0,,{TIME:474771,477106}Do not ever talk back\Nto me again.
+Dialogue: 0,0:08:01.61,0:08:07.08,Default,,0,0,0,,{TIME:481611,487083}By the way, your brother Andréa\Nalso tried to oppose us.
+Dialogue: 0,0:08:07.08,0:08:08.91,Default,,0,0,0,,{TIME:487083,488918}Andréa?!
+Dialogue: 0,0:08:08.91,0:08:10.72,Default,,0,0,0,,{TIME:488918,490720}Are you saying that…
+Dialogue: 0,0:08:10.72,0:08:11.42,Default,,0,0,0,,{TIME:490720,491421}Exactly.
+Dialogue: 0,0:08:14.22,0:08:16.39,Default,,0,0,0,,{TIME:494223,496392}Who knows?\NYou could be next.
+Dialogue: 0,0:08:18.26,0:08:22.26,Default,,0,0,0,,{TIME:498261,502265}We have an eye on you.\NUnderstood?
+Dialogue: 0,0:08:22.86,0:08:25.13,Default,,0,0,0,,{TIME:502865,505134}– Let's go.\N– Wait a second.
+Dialogue: 0,0:08:25.43,0:08:27.50,Default,,0,0,0,,{TIME:505435,507503}Are you trying to intimidate me?
+Dialogue: 0,0:08:27.50,0:08:29.80,Default,,0,0,0,,{TIME:507503,509806}Know that you will\Nnever succeed!
+Dialogue: 0,0:08:36.21,0:08:38.24,Default,,0,0,0,,{TIME:516212,518247}Next time I will be\Naiming at your face.
+Dialogue: 0,0:09:02.53,0:09:07.24,Default,,0,0,0,,{TIME:542538,547243}{\i1}It is Thiers who betrayed Paris.
+Dialogue: 0,0:09:07.24,0:09:10.07,Default,,0,0,0,,{TIME:547243,550079}{\i1}Other governments\Nhave to learn of it.
+Dialogue: 0,0:09:10.07,0:09:13.44,Default,,0,0,0,,{TIME:550079,553449}{\i1}We must gather people\Nwho will be ready to defend Paris.
+Dialogue: 0,0:09:13.44,0:09:18.95,Default,,0,0,0,,{TIME:553449,558955}{\i1}I want you to smuggle in the letter\NI attached to my friends in London.
+Dialogue: 0,0:09:18.95,0:09:22.02,Default,,0,0,0,,{TIME:558955,562025}{\i1}We would do it ourselves,\Nbut we can't get out of Paris.
+Dialogue: 0,0:09:22.02,0:09:24.42,Default,,0,0,0,,{TIME:562025,564427}{\i1}And Gaston unfortunately\Nattracts too much attention.
+Dialogue: 0,0:09:24.42,0:09:27.16,Default,,0,0,0,,{TIME:564427,567163}{\i1}If it turns out\Nthat our father won't help,
+Dialogue: 0,0:09:27.16,0:09:32.53,Default,,0,0,0,,{TIME:567163,572535}{\i1}you remain\Nour only hope, Isabelle.
+Dialogue: 0,0:09:37.00,0:09:39.44,Default,,0,0,0,,{TIME:577006,579442}{\i1}I can only count on you.
+Dialogue: 0,0:09:39.44,0:09:41.31,Default,,0,0,0,,{TIME:579442,581310}{\i1}May God be with you.
+Dialogue: 0,0:09:46.31,0:09:47.78,Default,,0,0,0,,{TIME:586315,587784}London?
+Dialogue: 0,0:09:47.78,0:09:51.22,Default,,0,0,0,,{TIME:587784,591220}But what can I,\Na stupid 15-year-old, do?
+Dialogue: 0,0:09:51.22,0:09:54.89,Default,,0,0,0,,{TIME:591220,594891}How am I supposed to get there?
+Dialogue: 0,0:11:04.92,0:11:07.33,Default,,0,0,0,,{TIME:664927,667330}They're watching me.
+Dialogue: 0,0:11:12.20,0:11:14.13,Default,,0,0,0,,{TIME:672201,674137}What should I do?
+Dialogue: 0,0:11:15.03,0:11:19.10,Default,,0,0,0,,{TIME:675037,679108}If only I was a boy…\NIf only I was a boy.
+Dialogue: 0,0:12:21.73,0:12:26.14,Default,,0,0,0,,{TIME:741737,746142}{\i1}Manners do not apply to us.\NDo not ever talk back to me again.
+Dialogue: 0,0:13:35.11,0:13:38.74,Default,,0,0,0,,{TIME:815111,818748}Who am I showing off to?\NI'm hopeless.
 Comment: 0,0:13:41.95,0:13:41.95,Default,[chapter],0,0,0,,{TIME:821951,821951}Part B
-Dialogue: 0,0:13:44.48,0:13:48.09,Default,,0,0,0,,{TIME:824487,828090}
-Dialogue: 0,0:13:48.09,0:13:52.99,Default,,0,0,0,,{TIME:828090,832995}
-Dialogue: 0,0:13:52.99,0:13:58.76,Default,,0,0,0,,{TIME:832995,838768}
-Dialogue: 0,0:13:58.76,0:14:00.60,Default,,0,0,0,,{TIME:838768,840603}
-Dialogue: 0,0:14:00.60,0:14:02.77,Default,,0,0,0,,{TIME:840603,842772}
-Dialogue: 0,0:14:02.97,0:14:05.60,Default,,0,0,0,,{TIME:842972,845608}
-Dialogue: 0,0:14:06.20,0:14:08.07,Default,,0,0,0,,{TIME:846208,848077}
-Dialogue: 0,0:14:08.07,0:14:10.21,Default,,0,0,0,,{TIME:848077,850212}
-Dialogue: 0,0:14:10.54,0:14:14.41,Default,,0,0,0,,{TIME:850546,854417}
-Dialogue: 0,0:14:17.38,0:14:21.12,Default,,0,0,0,,{TIME:857386,861123}
-Dialogue: 0,0:14:42.61,0:14:43.87,Default,,0,0,0,,{TIME:882611,883879}
-Dialogue: 0,0:14:44.84,0:14:45.91,Default,,0,0,0,,{TIME:884847,885915}
-Dialogue: 0,0:14:45.91,0:14:48.38,Default,,0,0,0,,{TIME:885915,888384}
-Dialogue: 0,0:14:49.68,0:14:51.42,Default,,0,0,0,,{TIME:889685,891420}
-Dialogue: 0,0:14:54.45,0:14:55.95,Default,,0,0,0,,{TIME:894457,895958}
-Dialogue: 0,0:14:55.95,0:14:57.66,Default,,0,0,0,,{TIME:895958,897660}
-Dialogue: 0,0:15:01.79,0:15:03.33,Default,,0,0,0,,{TIME:901797,903332}
-Dialogue: 0,0:15:09.20,0:15:11.00,Default,,0,0,0,,{TIME:909205,911006}
-Dialogue: 0,0:15:11.30,0:15:13.90,Default,,0,0,0,,{TIME:911307,913909}
-Dialogue: 0,0:15:14.37,0:15:16.51,Default,,0,0,0,,{TIME:914377,916512}
-Dialogue: 0,0:15:34.26,0:15:36.23,Default,,0,0,0,,{TIME:934263,936232}
-Dialogue: 0,0:15:37.63,0:15:39.40,Default,,0,0,0,,{TIME:937633,939402}
-Dialogue: 0,0:15:39.40,0:15:43.40,Default,,0,0,0,,{TIME:939402,943406}
-Dialogue: 0,0:15:45.94,0:15:48.87,Default,,0,0,0,,{TIME:945941,948878}
-Dialogue: 0,0:15:48.87,0:15:51.61,Default,,0,0,0,,{TIME:948878,951614}
-Dialogue: 0,0:15:55.98,0:15:58.25,Default,,0,0,0,,{TIME:955985,958254}
-Dialogue: 0,0:15:58.25,0:16:00.22,Default,,0,0,0,,{TIME:958254,960222}
-Dialogue: 0,0:16:01.29,0:16:02.69,Default,,0,0,0,,{TIME:961290,962691}
-Dialogue: 0,0:16:06.32,0:16:08.23,Default,,0,0,0,,{TIME:966328,968230}
-Dialogue: 0,0:16:08.23,0:16:10.56,Default,,0,0,0,,{TIME:968230,970566}
-Dialogue: 0,0:16:11.16,0:16:13.06,Default,,0,0,0,,{TIME:971167,973068}
-Dialogue: 0,0:16:34.02,0:16:36.25,Default,,0,0,0,,{TIME:994023,996258}
-Dialogue: 0,0:16:39.46,0:16:41.16,Default,,0,0,0,,{TIME:999462,1001163}
-Dialogue: 0,0:16:41.16,0:16:43.49,Default,,0,0,0,,{TIME:1001163,1003499}
-Dialogue: 0,0:16:43.49,0:16:46.93,Default,,0,0,0,,{TIME:1003499,1006936}
-Dialogue: 0,0:16:46.93,0:16:49.50,Default,,0,0,0,,{TIME:1006936,1009505}
-Dialogue: 0,0:16:49.50,0:16:51.07,Default,,0,0,0,,{TIME:1009505,1011073}
-Dialogue: 0,0:16:51.07,0:16:54.77,Default,,0,0,0,,{TIME:1011073,1014777}
-Dialogue: 0,0:16:55.07,0:16:57.17,Default,,0,0,0,,{TIME:1015077,1017179}
-Dialogue: 0,0:16:57.17,0:17:01.48,Default,,0,0,0,,{TIME:1017179,1021484}
-Dialogue: 0,0:17:01.48,0:17:03.18,Default,,0,0,0,,{TIME:1021484,1023185}
-Dialogue: 0,0:17:04.48,0:17:06.45,Default,,0,0,0,,{TIME:1024487,1026455}
-Dialogue: 0,0:17:06.68,0:17:10.72,Default,,0,0,0,,{TIME:1026689,1030726}
-Dialogue: 0,0:17:10.72,0:17:12.86,Default,,0,0,0,,{TIME:1030726,1032862}
-Dialogue: 0,0:17:12.86,0:17:15.26,Default,,0,0,0,,{TIME:1032862,1035264}
-Dialogue: 0,0:17:15.26,0:17:17.06,Default,,0,0,0,,{TIME:1035264,1037066}
-Dialogue: 0,0:17:17.06,0:17:20.30,Default,,0,0,0,,{TIME:1037066,1040302}
-Dialogue: 0,0:17:20.30,0:17:23.13,Default,,0,0,0,,{TIME:1040302,1043138}
-Dialogue: 0,0:17:23.53,0:17:25.04,Default,,0,0,0,,{TIME:1043539,1045040}
-Dialogue: 0,0:17:25.70,0:17:27.71,Default,,0,0,0,,{TIME:1045708,1047710}
-Dialogue: 0,0:17:41.09,0:17:43.69,Default,,0,0,0,,{TIME:1061090,1063692}
-Dialogue: 0,0:17:43.69,0:17:45.42,Default,,0,0,0,,{TIME:1063692,1065427}
-Dialogue: 0,0:17:50.43,0:17:52.93,Default,,0,0,0,,{TIME:1070432,1072935}
-Dialogue: 0,0:17:53.56,0:17:56.60,Default,,0,0,0,,{TIME:1073569,1076605}
-Dialogue: 0,0:17:56.60,0:17:59.17,Default,,0,0,0,,{TIME:1076605,1079174}
-Dialogue: 0,0:18:02.01,0:18:03.34,Default,,0,0,0,,{TIME:1082011,1083345}
-Dialogue: 0,0:18:26.36,0:18:28.00,Default,,0,0,0,,{TIME:1106368,1108003}
-Dialogue: 0,0:18:33.70,0:18:35.71,Default,,0,0,0,,{TIME:1113709,1115711}
-Dialogue: 0,0:18:38.48,0:18:39.58,Default,,0,0,0,,{TIME:1118480,1119582}
-Dialogue: 0,0:18:43.61,0:18:45.05,Default,,0,0,0,,{TIME:1123619,1125054}
-Dialogue: 0,0:18:45.38,0:18:47.48,Default,,0,0,0,,{TIME:1125387,1127489}
-Dialogue: 0,0:18:47.48,0:18:51.12,Default,,0,0,0,,{TIME:1127489,1131126}
-Dialogue: 0,0:18:51.72,0:18:57.16,Default,,0,0,0,,{TIME:1131727,1137166}
-Dialogue: 0,0:18:58.80,0:19:01.07,Default,,0,0,0,,{TIME:1138801,1141070}
-Dialogue: 0,0:19:01.07,0:19:06.57,Default,,0,0,0,,{TIME:1141070,1146575}
-Dialogue: 0,0:19:09.24,0:19:10.61,Default,,0,0,0,,{TIME:1149244,1150613}
-Dialogue: 0,0:19:10.61,0:19:11.98,Default,,0,0,0,,{TIME:1150613,1151981}
-Dialogue: 0,0:19:12.28,0:19:14.65,Default,,0,0,0,,{TIME:1152281,1154650}
-Dialogue: 0,0:19:15.85,0:19:19.48,Default,,0,0,0,,{TIME:1155851,1159488}
-Dialogue: 0,0:19:20.78,0:19:23.65,Default,,0,0,0,,{TIME:1160789,1163659}
-Dialogue: 0,0:19:23.85,0:19:25.76,Default,,0,0,0,,{TIME:1163859,1165761}
-Dialogue: 0,0:19:25.76,0:19:27.02,Default,,0,0,0,,{TIME:1165761,1167029}
-Dialogue: 0,0:19:27.32,0:19:30.33,Default,,0,0,0,,{TIME:1167329,1170332}
-Dialogue: 0,0:19:30.33,0:19:33.60,Default,,0,0,0,,{TIME:1170332,1173602}
-Dialogue: 0,0:19:33.60,0:19:35.90,Default,,0,0,0,,{TIME:1173602,1175904}
-Dialogue: 0,0:19:36.27,0:19:38.54,Default,,0,0,0,,{TIME:1176271,1178540}
-Dialogue: 0,0:19:38.54,0:19:39.97,Default,,0,0,0,,{TIME:1178540,1179975}
-Dialogue: 0,0:19:39.97,0:19:43.24,Default,,0,0,0,,{TIME:1179975,1183245}
-Dialogue: 0,0:19:43.24,0:19:45.24,Default,,0,0,0,,{TIME:1183245,1185247}
-Dialogue: 0,0:19:47.14,0:19:48.68,Default,,0,0,0,,{TIME:1187149,1188684}
-Dialogue: 0,0:19:50.35,0:19:52.28,Default,,0,0,0,,{TIME:1190352,1192287}
-Dialogue: 0,0:19:56.62,0:20:00.22,Default,,0,0,0,,{TIME:1196625,1200229}
-Dialogue: 0,0:20:00.22,0:20:01.86,Default,,0,0,0,,{TIME:1200229,1201864}
-Dialogue: 0,0:20:01.86,0:20:05.10,Default,,0,0,0,,{TIME:1201864,1205100}
-Dialogue: 0,0:20:05.63,0:20:07.60,Default,,0,0,0,,{TIME:1205634,1207603}
-Dialogue: 0,0:20:07.60,0:20:09.17,Default,,0,0,0,,{TIME:1207603,1209171}
-Dialogue: 0,0:20:09.17,0:20:10.70,Default,,0,0,0,,{TIME:1209171,1210706}
-Dialogue: 0,0:20:10.70,0:20:14.00,Default,,0,0,0,,{TIME:1210706,1214009}
-Dialogue: 0,0:20:14.00,0:20:16.41,Default,,0,0,0,,{TIME:1214009,1216412}
-Dialogue: 0,0:20:16.71,0:20:19.78,Default,,0,0,0,,{TIME:1216712,1219782}
-Dialogue: 0,0:20:19.78,0:20:21.65,Default,,0,0,0,,{TIME:1219782,1221650}
-Dialogue: 0,0:20:21.65,0:20:22.85,Default,,0,0,0,,{TIME:1221650,1222851}
-Dialogue: 0,0:20:36.83,0:20:39.03,Default,,0,0,0,,{TIME:1236832,1239034}
-Dialogue: 0,0:20:39.03,0:20:42.03,Default,,0,0,0,,{TIME:1239034,1242037}
-Dialogue: 0,0:21:04.79,0:21:06.26,Default,,0,0,0,,{TIME:1264793,1266261}
-Dialogue: 0,0:21:08.69,0:21:09.46,Default,,0,0,0,,{TIME:1268697,1269465}
-Dialogue: 0,0:21:14.13,0:21:16.17,Default,,0,0,0,,{TIME:1274136,1276171}
-Dialogue: 0,0:21:16.17,0:21:17.80,Default,,0,0,0,,{TIME:1276171,1277806}
-Dialogue: 0,0:21:17.80,0:21:19.67,Default,,0,0,0,,{TIME:1277806,1279675}
-Dialogue: 0,0:21:22.97,0:21:24.88,Default,,0,0,0,,{TIME:1282978,1284880}
-Dialogue: 0,0:21:24.88,0:21:27.71,Default,,0,0,0,,{TIME:1284880,1287716}
-Dialogue: 0,0:21:54.27,0:21:56.01,Default,,0,0,0,,{TIME:1314276,1316011}
-Dialogue: 0,0:21:59.71,0:22:01.08,Default,,0,0,0,,{TIME:1319715,1321083}
-Dialogue: 0,0:22:26.80,0:22:28.37,Default,,0,0,0,,{TIME:1346809,1348377}
-Dialogue: 0,0:22:35.35,0:22:37.71,Default,,0,0,0,,{TIME:1355350,1357719}
-Dialogue: 0,0:22:37.71,0:22:39.88,Default,,0,0,0,,{TIME:1357719,1359888}
-Dialogue: 0,0:22:59.14,0:23:01.10,Default,,0,0,0,,{TIME:1379141,1381109}
-Dialogue: 0,0:23:19.89,0:23:22.36,Default,,0,0,0,,{TIME:1399895,1402364}
-Dialogue: 0,0:23:22.36,0:23:25.50,Default,,0,0,0,,{TIME:1402364,1405500}
-Dialogue: 0,0:23:25.50,0:23:27.53,Default,,0,0,0,,{TIME:1405500,1407536}
-Dialogue: 0,0:23:34.10,0:23:35.87,Default,,0,0,0,,{TIME:1414109,1415878}
-Dialogue: 0,0:23:35.87,0:23:38.84,Default,,0,0,0,,{TIME:1415878,1418847}
-Dialogue: 0,0:23:39.91,0:23:42.68,Default,,0,0,0,,{TIME:1419915,1422684}
-Dialogue: 0,0:23:42.68,0:23:48.82,Default,,0,0,0,,{TIME:1422684,1428824}
+Dialogue: 0,0:13:44.48,0:13:48.09,Default,,0,0,0,,{TIME:824487,828090}{\i1}The next day,\Nat the Palace of Versailles
+Dialogue: 0,0:13:48.09,0:13:52.99,Default,,0,0,0,,{TIME:828090,832995}{\i1}a great ball was held\Nfor the aristocracy and landowners.
+Dialogue: 0,0:13:52.99,0:14:00.60,Default,,0,0,0,,{TIME:832995,840603}{\i1}Isabelle had a unique chance\Nto deceive Panza and get out of Versailles.
+Dialogue: 0,0:14:00.60,0:14:04.44,Default,,0,0,0,,{TIME:840603,844440}Are you feeling okay, Isabelle?\NYou never asked me to dance before.
+Dialogue: 0,0:14:04.44,0:14:05.60,Default,,0,0,0,,{TIME:844440,845608}Shh.
+Dialogue: 0,0:14:06.20,0:14:10.21,Default,,0,0,0,,{TIME:846208,850212}Jean, I have a request for you.\NBe quiet and listen.
+Dialogue: 0,0:14:10.54,0:14:14.41,Default,,0,0,0,,{TIME:850546,854417}{\i1}Isabelle revealed to Jean\Nthe events that happened last night.
+Dialogue: 0,0:14:17.38,0:14:21.12,Default,,0,0,0,,{TIME:857386,861123}Sounds like fun.\NYou can count on me, Isabelle.
+Dialogue: 0,0:14:42.61,0:14:43.87,Default,,0,0,0,,{TIME:882611,883879}Damn it!
+Dialogue: 0,0:14:44.84,0:14:45.91,Default,,0,0,0,,{TIME:884847,885915}What happened?
+Dialogue: 0,0:14:45.91,0:14:48.38,Default,,0,0,0,,{TIME:885915,888384}They're gone! Find them!
+Dialogue: 0,0:14:49.68,0:14:51.42,Default,,0,0,0,,{TIME:889685,891420}Quick, Jean.
+Dialogue: 0,0:14:54.45,0:14:55.95,Default,,0,0,0,,{TIME:894457,895958}What are you doing?!
+Dialogue: 0,0:14:55.95,0:14:57.66,Default,,0,0,0,,{TIME:895958,897660}They're over there.
+Dialogue: 0,0:15:01.79,0:15:03.99,Default,,0,0,0,,{TIME:901797,903999}Damn squirts, almost\Ngave me a heart attack.
+Dialogue: 0,0:15:09.20,0:15:11.00,Default,,0,0,0,,{TIME:909205,911006}You're so handsome, Jean.
+Dialogue: 0,0:15:11.30,0:15:13.90,Default,,0,0,0,,{TIME:911307,913909}Isabelle, you are\Nso beautiful, too.
+Dialogue: 0,0:15:14.37,0:15:16.51,Default,,0,0,0,,{TIME:914377,916512}Oh, thank you for saying that.
+Dialogue: 0,0:15:34.26,0:15:36.23,Default,,0,0,0,,{TIME:934263,936232}Would you like\Nto dance with me?
+Dialogue: 0,0:15:37.63,0:15:39.40,Default,,0,0,0,,{TIME:937633,939402}I am Alain Belmont.
+Dialogue: 0,0:15:39.40,0:15:43.40,Default,,0,0,0,,{TIME:939402,943406}Your beauty captivated me as soon\Nas I saw you. Please, let's have a dance.
+Dialogue: 0,0:15:45.94,0:15:48.87,Default,,0,0,0,,{TIME:945941,948878}{\i1}Something's not right here.\NWhy doesn't Isabelle want to dance?
+Dialogue: 0,0:15:48.87,0:15:51.61,Default,,0,0,0,,{TIME:948878,951614}{\i1}Plus, she hides\Nher face all the time …
+Dialogue: 0,0:15:55.98,0:16:00.22,Default,,0,0,0,,{TIME:955985,960222}Oh, what a delicate hand.\NPlease, only one dance.
+Dialogue: 0,0:16:01.29,0:16:02.69,Default,,0,0,0,,{TIME:961290,962691}Excuse me.
+Dialogue: 0,0:16:06.32,0:16:08.23,Default,,0,0,0,,{TIME:966328,968230}Oh, my!
+Dialogue: 0,0:16:08.23,0:16:10.56,Default,,0,0,0,,{TIME:968230,970566}Yuck!\NWhat a nasty girl!
+Dialogue: 0,0:16:11.16,0:16:13.06,Default,,0,0,0,,{TIME:971167,973068}Look for her, pronto!
+Dialogue: 0,0:16:34.02,0:16:36.25,Default,,0,0,0,,{TIME:994023,996258}Miss Isabelle!
+Dialogue: 0,0:16:39.46,0:16:43.49,Default,,0,0,0,,{TIME:999462,1003499}Thank you, Jeanne.\NI can go from here.
+Dialogue: 0,0:16:43.49,0:16:46.93,Default,,0,0,0,,{TIME:1003499,1006936}Why are you getting into\Nsuch a danger, Ms. Isabelle?
+Dialogue: 0,0:16:46.93,0:16:49.50,Default,,0,0,0,,{TIME:1006936,1009505}Don't even ask.\NJust go back to Versailles.
+Dialogue: 0,0:16:49.50,0:16:51.07,Default,,0,0,0,,{TIME:1009505,1011073}Ms.… Ms. Isabelle…
+Dialogue: 0,0:16:51.07,0:16:54.77,Default,,0,0,0,,{TIME:1011073,1014777}Please, Jeanne.\NDon't say a word to my parents.
+Dialogue: 0,0:16:55.07,0:16:57.17,Default,,0,0,0,,{TIME:1015077,1017179}Why is that?
+Dialogue: 0,0:16:57.17,0:17:01.48,Default,,0,0,0,,{TIME:1017179,1021484}To be honest, I'm not sure. Apparently,\NI haven't grown out of adventuring yet.
+Dialogue: 0,0:17:01.48,0:17:03.18,Default,,0,0,0,,{TIME:1021484,1023185}Goodbye.
+Dialogue: 0,0:17:04.48,0:17:06.45,Default,,0,0,0,,{TIME:1024487,1026455}What did you say!?\NYou lost her?
+Dialogue: 0,0:17:06.68,0:17:10.72,Default,,0,0,0,,{TIME:1026689,1030726}It's just one girl! What kind of moron\Nyou need to be to let her escape!?
+Dialogue: 0,0:17:10.72,0:17:12.86,Default,,0,0,0,,{TIME:1030726,1032862}I am so sorry, sir.
+Dialogue: 0,0:17:12.86,0:17:15.26,Default,,0,0,0,,{TIME:1032862,1035264}Fortunately, we know where\Nshe's headed to, more or less.
+Dialogue: 0,0:17:15.26,0:17:17.06,Default,,0,0,0,,{TIME:1035264,1037066}London, huh?
+Dialogue: 0,0:17:17.06,0:17:20.30,Default,,0,0,0,,{TIME:1037066,1040302}Pursuing her in the British territory\Nwill be very inconvenient.
+Dialogue: 0,0:17:20.30,0:17:23.13,Default,,0,0,0,,{TIME:1040302,1043138}Clearly I can't rely on you.
+Dialogue: 0,0:17:23.53,0:17:25.04,Default,,0,0,0,,{TIME:1043539,1045040}What do you mean by that, sir?
+Dialogue: 0,0:17:25.70,0:17:27.71,Default,,0,0,0,,{TIME:1045708,1047710}Karlov, you can come in now!
+Dialogue: 0,0:17:41.09,0:17:43.69,Default,,0,0,0,,{TIME:1061090,1063692}Find this girl.
+Dialogue: 0,0:17:43.69,0:17:45.42,Default,,0,0,0,,{TIME:1063692,1065427}I want her dead or alive.
+Dialogue: 0,0:17:50.43,0:17:52.93,Default,,0,0,0,,{TIME:1070432,1072935}What can such an oaf do?
+Dialogue: 0,0:17:53.56,0:17:56.60,Default,,0,0,0,,{TIME:1073569,1076605}I'm curious myself.\NWhy don't you try to find out?
+Dialogue: 0,0:17:56.60,0:17:59.17,Default,,0,0,0,,{TIME:1076605,1079174}With pleasure.
+Dialogue: 0,0:18:02.01,0:18:03.34,Default,,0,0,0,,{TIME:1082011,1083345}Get over here!
+Dialogue: 0,0:18:26.36,0:18:28.00,Default,,0,0,0,,{TIME:1106368,1108003}All right! My mistake!\NPut me down.
+Dialogue: 0,0:18:33.70,0:18:35.71,Default,,0,0,0,,{TIME:1113709,1115711}Did you remember her face?
+Dialogue: 0,0:18:38.48,0:18:39.58,Default,,0,0,0,,{TIME:1118480,1119582}Go now.
+Dialogue: 0,0:18:43.61,0:18:45.05,Default,,0,0,0,,{TIME:1123619,1125054}What a monster!
+Dialogue: 0,0:18:45.38,0:18:47.48,Default,,0,0,0,,{TIME:1125387,1127489}Thank God he spared you.
+Dialogue: 0,0:18:47.48,0:18:51.12,Default,,0,0,0,,{TIME:1127489,1131126}Panza, just in case,\Nprepare an ambush in London.
+Dialogue: 0,0:18:51.72,0:18:57.16,Default,,0,0,0,,{TIME:1131727,1137166}However, I expect that by that time,\NKarlov will have cleaned up this mess.
+Dialogue: 0,0:18:58.80,0:19:06.57,Default,,0,0,0,,{TIME:1138801,1146575}{\i1}And so, throughout the country began\Nthe checks to find the fugitive Isabelle.
+Dialogue: 0,0:19:09.24,0:19:11.98,Default,,0,0,0,,{TIME:1149244,1151981}Hey, you!\NWhere are you going?
+Dialogue: 0,0:19:12.28,0:19:14.65,Default,,0,0,0,,{TIME:1152281,1154650}What is it?\NWhy don't you answer me?
+Dialogue: 0,0:19:15.85,0:19:19.48,Default,,0,0,0,,{TIME:1155851,1159488}{\i1}As soon as she speaks,\Nthe guards will learn that she is a girl.
+Dialogue: 0,0:19:20.78,0:19:23.65,Default,,0,0,0,,{TIME:1160789,1163659}{\i1}Isabelle did not know\Nhow to get out of this situation.
+Dialogue: 0,0:19:23.85,0:19:25.76,Default,,0,0,0,,{TIME:1163859,1165761}What's up, man!
+Dialogue: 0,0:19:25.76,0:19:27.02,Default,,0,0,0,,{TIME:1165761,1167029}{\i1}Jean!
+Dialogue: 0,0:19:27.32,0:19:30.33,Default,,0,0,0,,{TIME:1167329,1170332}You know, the guy\Ndoesn't talk much.
+Dialogue: 0,0:19:30.33,0:19:33.60,Default,,0,0,0,,{TIME:1170332,1173602}He saw his folks getting torn apart\Nby a mortar right before him.
+Dialogue: 0,0:19:33.60,0:19:35.90,Default,,0,0,0,,{TIME:1173602,1175904}He hasn't said a word since then.
+Dialogue: 0,0:19:36.27,0:19:39.97,Default,,0,0,0,,{TIME:1176271,1179975}I understand. The poor man.\NYou know each other?
+Dialogue: 0,0:19:39.97,0:19:43.24,Default,,0,0,0,,{TIME:1179975,1183245}Yes. We are neighbors\Nand we're going to the market.
+Dialogue: 0,0:19:43.24,0:19:45.24,Default,,0,0,0,,{TIME:1183245,1185247}Can we pass?
+Dialogue: 0,0:19:47.14,0:19:48.68,Default,,0,0,0,,{TIME:1187149,1188684}Yes. You may go.
+Dialogue: 0,0:19:50.35,0:19:52.28,Default,,0,0,0,,{TIME:1190352,1192287}Thanks.
+Dialogue: 0,0:19:56.62,0:20:00.22,Default,,0,0,0,,{TIME:1196625,1200229}Jean, I don't remember\Nasking you to come with me.
+Dialogue: 0,0:20:00.22,0:20:05.10,Default,,0,0,0,,{TIME:1200229,1205100}You don't have to thank me.\NI'm going where you are, for better or worse.
+Dialogue: 0,0:20:05.63,0:20:07.56,Default,,0,0,0,,{TIME:1205634,1207569}Enough with this\Nsilliness already.
+Dialogue: 0,0:20:07.56,0:20:10.70,Default,,0,0,0,,{TIME:1207569,1210706}Don't pay attention to it.\NBetter take a look at this.
+Dialogue: 0,0:20:10.70,0:20:14.00,Default,,0,0,0,,{TIME:1210706,1214009}A pistol. A saber.\NA grenade, even.
+Dialogue: 0,0:20:14.00,0:20:16.41,Default,,0,0,0,,{TIME:1214009,1216412}I'm not going to war, by the way.
+Dialogue: 0,0:20:16.71,0:20:21.65,Default,,0,0,0,,{TIME:1216712,1221650}You never know when they'll come in handy.\NIt's better to be prepared.
+Dialogue: 0,0:20:36.83,0:20:39.03,Default,,0,0,0,,{TIME:1236832,1239034}Night sky and shooting stars.
+Dialogue: 0,0:20:39.03,0:20:42.03,Default,,0,0,0,,{TIME:1239034,1242037}It's a bit romantic\Nhow we sit here together.
+Dialogue: 0,0:21:04.79,0:21:06.26,Default,,0,0,0,,{TIME:1264793,1266261}{\i1}Victor…
+Dialogue: 0,0:21:08.69,0:21:09.46,Default,,0,0,0,,{TIME:1268697,1269465}Who's there?!
+Dialogue: 0,0:21:14.13,0:21:16.17,Default,,0,0,0,,{TIME:1274136,1276171}Who… Who are you?
+Dialogue: 0,0:21:16.17,0:21:17.80,Default,,0,0,0,,{TIME:1276171,1277806}Don't come any closer!
+Dialogue: 0,0:21:17.80,0:21:19.34,Default,,0,0,0,,{TIME:1277806,1279341}Don't come any closer!
+Dialogue: 0,0:21:19.34,0:21:20.50,Default,,0,0,0,,{TIME:1279341,1280509}Jean!
+Dialogue: 0,0:21:22.97,0:21:24.88,Default,,0,0,0,,{TIME:1282978,1284880}Wait!
+Dialogue: 0,0:21:24.88,0:21:27.71,Default,,0,0,0,,{TIME:1284880,1287716}One step further and I shoot.
+Dialogue: 0,0:21:54.27,0:21:56.01,Default,,0,0,0,,{TIME:1314276,1316011}There, Isabelle!
+Dialogue: 0,0:21:59.71,0:22:01.08,Default,,0,0,0,,{TIME:1319715,1321083}Upstairs!
+Dialogue: 0,0:22:26.80,0:22:28.37,Default,,0,0,0,,{TIME:1346809,1348377}Hop.
+Dialogue: 0,0:22:35.35,0:22:37.71,Default,,0,0,0,,{TIME:1355350,1357719}We got him.\NWe got him!
+Dialogue: 0,0:22:37.71,0:22:39.88,Default,,0,0,0,,{TIME:1357719,1359888}Oh… I'm sorry.
+Dialogue: 0,0:22:59.14,0:23:01.10,Default,,0,0,0,,{TIME:1379141,1381109}Let's go, Isabelle!
+Dialogue: 0,0:23:19.89,0:23:22.36,Default,,0,0,0,,{TIME:1399895,1402364}Water! We're\Nat the Dover Narrows.
+Dialogue: 0,0:23:22.36,0:23:25.50,Default,,0,0,0,,{TIME:1402364,1405500}On the other side,\Nthere's English soil, right?
+Dialogue: 0,0:23:25.50,0:23:27.53,Default,,0,0,0,,{TIME:1405500,1407536}Yes. We are close.
+Dialogue: 0,0:23:34.10,0:23:35.87,Default,,0,0,0,,{TIME:1414109,1415878}{\i1}What's this?
+Dialogue: 0,0:23:35.87,0:23:38.84,Default,,0,0,0,,{TIME:1415878,1418847}{\i1}The frightful Karlov has survived.
+Dialogue: 0,0:23:39.91,0:23:42.68,Default,,0,0,0,,{TIME:1419915,1422684}{\i1}Isabelle and Jean\Ndidn't know that, however.
+Dialogue: 0,0:23:42.68,0:23:48.82,Default,,0,0,0,,{TIME:1422684,1428824}{\i1}They were only thinking about how to get\Nto London, looking over the Dover Narrows.
 Dialogue: 0,0:23:53.69,0:23:58.16,Credits,[credits],0,0,0,,{TIME:1433695,1438166}{\fad(300,200)\c&HFAFAFA&\blur1\fs20\an5\pos(135,408)\t(2405,4405,4,\c&H101010&)}To be continued
 Comment: 0,0:23:58.53,0:23:58.53,Default,[chapter],0,0,0,,{TIME:1438533,1438533}Preview
 Dialogue: 0,0:23:58.53,0:24:01.50,Default,(sign),0,0,0,,{TIME:1438533,1441503}Next episode preview
-Dialogue: 0,0:24:02.40,0:24:04.94,Default,,0,0,0,,{TIME:1442404,1444940}
-Dialogue: 0,0:24:04.94,0:24:07.87,Default,,0,0,0,,{TIME:1444940,1447876}
-Dialogue: 0,0:24:07.87,0:24:11.48,Default,,0,0,0,,{TIME:1447876,1451480}
-Dialogue: 0,0:24:11.48,0:24:14.54,Default,,0,0,0,,{TIME:1451480,1454549}
-Dialogue: 0,0:24:14.54,0:24:16.58,Default,,0,0,0,,{TIME:1454549,1456585}
-Dialogue: 0,0:24:16.58,0:24:22.09,Default,,0,0,0,,{TIME:1456585,1462090}
-Dialogue: 0,0:24:22.09,0:24:24.82,Default,,0,0,0,,{TIME:1462090,1464826}
-Dialogue: 0,0:24:24.82,0:24:28.49,Default,,0,0,0,,{TIME:1464826,1468497}
+Dialogue: 0,0:24:02.40,0:24:04.94,Default,,0,0,0,,{TIME:1442404,1444940}We got on a small boat and\Nwe're slowly approaching London.
+Dialogue: 0,0:24:04.94,0:24:07.87,Default,,0,0,0,,{TIME:1444940,1447876}Around us there's nothing\Nbut endless water.
+Dialogue: 0,0:24:07.87,0:24:11.48,Default,,0,0,0,,{TIME:1447876,1451480}We thought we killed Karlov,\Nbut this monster got us even here.
+Dialogue: 0,0:24:11.48,0:24:14.54,Default,,0,0,0,,{TIME:1451480,1454549}Can't he finally get a live?
+Dialogue: 0,0:24:14.54,0:24:16.58,Default,,0,0,0,,{TIME:1454549,1456585}Panza is already waiting\Nfor us in London.
+Dialogue: 0,0:24:16.58,0:24:22.09,Default,,0,0,0,,{TIME:1456585,1462090}At the crucial moment, a group of characters\Nin black appears out of nowhere.
+Dialogue: 0,0:24:22.09,0:24:24.82,Default,,0,0,0,,{TIME:1462090,1464826}Next time on "Isabelle of Paris":
+Dialogue: 0,0:24:24.82,0:24:28.49,Default,,0,0,0,,{TIME:1464826,1468497}"Appearance of The Mysterious Bat Gang".\NPlease look forward to it.
 Comment: 0,0:24:28.49,0:24:28.49,Default,[chapter],0,0,0,,{TIME:1468497,1468497}Ending
 Dialogue: 0,0:24:48.48,0:24:54.48,ED JP,[karaoke],0,0,0,,{TIME:1488483,1494489}anata no egao wa\Ntotemo suteki
 Dialogue: 0,0:24:54.48,0:24:59.79,ED JP,[karaoke],0,0,0,,{TIME:1494489,1499795}soyokaze no you ni\Natatakai ai ga aru
@@ -305,9 +297,9 @@ Dialogue: 0,0:24:59.79,0:25:04.70,ED JP,[karaoke],0,0,0,,{TIME:1499795,1504700}R
 Dialogue: 0,0:25:04.70,0:25:09.87,ED JP,[karaoke],0,0,0,,{TIME:1504700,1509871}hitori no yama ni\Nkodama suru
 Dialogue: 0,0:25:09.87,0:25:15.21,ED JP,[karaoke],0,0,0,,{TIME:1509871,1515210}hora omoikiri\Nkasekete yukou
 Dialogue: 0,0:25:15.21,0:25:21.51,ED JP,[karaoke],0,0,0,,{TIME:1515210,1521516}ano hito no iru\Noka no ue made
-Dialogue: 0,0:24:48.48,0:24:54.48,ED EN,[karaoke],0,0,0,,{TIME:1488483,1494489}Your smile is so nice{NOTE:あなたの笑顔はとても素敵}
-Dialogue: 0,0:24:54.48,0:24:59.79,ED EN,[karaoke],0,0,0,,{TIME:1494489,1499795}It displays so much love,\Ngentle like a breeze{NOTE:そよ風のように暖かい愛がある}
-Dialogue: 0,0:24:59.79,0:25:04.70,ED EN,[karaoke],0,0,0,,{TIME:1499795,1504700}La la la, our song\Nreaches across the stream{NOTE:ランララ 弾んだ歌は小川を越えて}
-Dialogue: 0,0:25:04.70,0:25:09.87,ED EN,[karaoke],0,0,0,,{TIME:1504700,1509871}and echoes in the green mountains{NOTE:緑の山にこだまする}
-Dialogue: 0,0:25:09.87,0:25:15.21,ED EN,[karaoke],0,0,0,,{TIME:1509871,1515210}Let's run with all our might{NOTE:ホラ思い切り駆けて行こう}
-Dialogue: 0,0:25:15.21,0:25:21.51,ED EN,[karaoke],0,0,0,,{TIME:1515210,1521516}to the top of the hill,\Nwhere our friend is{NOTE:あの人のいる丘の上まで}
+Dialogue: 0,0:24:48.48,0:24:54.48,ED EN,[karaoke],0,0,0,,{TIME:1488483,1494489}Your smile is so nice
+Dialogue: 0,0:24:54.48,0:24:59.79,ED EN,[karaoke],0,0,0,,{TIME:1494489,1499795}It displays so much love,\Ngentle like a breeze
+Dialogue: 0,0:24:59.79,0:25:04.70,ED EN,[karaoke],0,0,0,,{TIME:1499795,1504700}La la la, our song\Nreaches across the stream
+Dialogue: 0,0:25:04.70,0:25:09.87,ED EN,[karaoke],0,0,0,,{TIME:1504700,1509871}and echoes in the green mountains
+Dialogue: 0,0:25:09.87,0:25:15.21,ED EN,[karaoke],0,0,0,,{TIME:1509871,1515210}Let's run with all our might
+Dialogue: 0,0:25:15.21,0:25:21.51,ED EN,[karaoke],0,0,0,,{TIME:1515210,1521516}to the top of the hill,\Nwhere our friend is
