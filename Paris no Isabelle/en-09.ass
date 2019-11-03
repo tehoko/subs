@@ -25,7 +25,7 @@ Style: Title,Always Forever,50,&H00ECF3FB,&H000000FF,&H00ECF3FB,&H80EEFFFF,-1,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Opening
-Dialogue: 0,0:00:00.00,0:00:09.07,Default,[karaoke],0,0,0,,{TIME:0,9076}{\fad(0,1000)}Masterpiece Romantic Theatre{NOTE:名曲ロマン劇場}
+Dialogue: 0,0:00:00.00,0:00:09.07,Default,[karaoke],0,0,0,,{TIME:0,9076}{\fad(0,1000)}Masterpiece Romantic Theatre
 Dialogue: 0,0:00:12.34,0:00:15.88,OP JP,[karaoke],0,0,0,,{TIME:12346,15883}{\blur0.5}kyou wa totemo ureshii kibun
 Dialogue: 0,0:00:15.88,0:00:19.88,OP JP,[karaoke],0,0,0,,{TIME:15883,19887}{\blur0.5}shiroi hato ga akai hana kureta
 Dialogue: 0,0:00:19.88,0:00:23.75,OP JP,[karaoke],0,0,0,,{TIME:19887,23757}{\blur0.5}nandaka akogare no ano hito to
@@ -36,47 +36,283 @@ Dialogue: 0,0:00:36.06,0:00:39.94,OP JP,[karaoke],0,0,0,,{TIME:36069,39940}{\blu
 Dialogue: 0,0:00:39.94,0:00:43.37,OP JP,[karaoke],0,0,0,,{TIME:39940,43377}{\blur0.5}aa kamisama hayaku oshiete
 Dialogue: 0,0:00:43.37,0:00:47.54,OP JP,[karaoke],0,0,0,,{TIME:43377,47548}{\blur0.5}moshi sou nara totemo ureshii wa
 Dialogue: 0,0:00:47.54,0:00:51.38,OP JP,[karaoke],0,0,0,,{TIME:47548,51385}{\blur0.5}aa kamisama hayaku oshiete
-Dialogue: 0,0:00:12.34,0:00:15.88,OP EN,[karaoke],0,0,0,,{TIME:12346,15883}Today I feel so happy{NOTE:今日はとても嬉しい気分}
-Dialogue: 0,0:00:15.88,0:00:19.88,OP EN,[karaoke],0,0,0,,{TIME:15883,19887}A white dove gave me a red flower{NOTE:白い鳩が赤い花くれた}
-Dialogue: 0,0:00:19.88,0:00:23.75,OP EN,[karaoke],0,0,0,,{TIME:19887,23757}Somehow I have a feeling that{NOTE:なんだか憧れのあの人と}
-Dialogue: 0,0:00:23.75,0:00:27.69,OP EN,[karaoke],0,0,0,,{TIME:23757,27694}I will be able to meet that person again{NOTE:会えそうな予感がするわ}
-Dialogue: 0,0:00:27.69,0:00:31.66,OP EN,[karaoke],0,0,0,,{TIME:27694,31665}La la la, will we meet again?{NOTE:ルルルどうしよう会えるかしら}
-Dialogue: 0,0:00:31.66,0:00:36.06,OP EN,[karaoke],0,0,0,,{TIME:31665,36069}La la la, it's a bit embarrassing{NOTE:ルルルどうしよう恥ずかしいな}
-Dialogue: 0,0:00:36.06,0:00:39.94,OP EN,[karaoke],0,0,0,,{TIME:36069,39940}I'd be so happy if it came true{NOTE:もしそうならとても嬉しいわ}
-Dialogue: 0,0:00:39.94,0:00:43.37,OP EN,[karaoke],0,0,0,,{TIME:39940,43377}Oh, God, just let me know{NOTE:ああ神様早く教えて}
-Dialogue: 0,0:00:43.37,0:00:47.54,OP EN,[karaoke],0,0,0,,{TIME:43377,47548}I'd be so happy if it came true{NOTE:もしそうならとても嬉しいわ}
-Dialogue: 0,0:00:47.54,0:00:51.38,OP EN,[karaoke],0,0,0,,{TIME:47548,51385}Oh, God, just let me know{NOTE:ああ神様早く教えて}
+Dialogue: 0,0:00:12.34,0:00:15.88,OP EN,[karaoke],0,0,0,,{TIME:12346,15883}Today I feel so happy
+Dialogue: 0,0:00:15.88,0:00:19.88,OP EN,[karaoke],0,0,0,,{TIME:15883,19887}A white dove gave me a red flower
+Dialogue: 0,0:00:19.88,0:00:23.75,OP EN,[karaoke],0,0,0,,{TIME:19887,23757}Somehow I have a feeling that
+Dialogue: 0,0:00:23.75,0:00:27.69,OP EN,[karaoke],0,0,0,,{TIME:23757,27694}I will be able to meet that person again
+Dialogue: 0,0:00:27.69,0:00:31.66,OP EN,[karaoke],0,0,0,,{TIME:27694,31665}La la la, will we meet again?
+Dialogue: 0,0:00:31.66,0:00:36.06,OP EN,[karaoke],0,0,0,,{TIME:31665,36069}La la la, it's a bit embarrassing
+Dialogue: 0,0:00:36.06,0:00:39.94,OP EN,[karaoke],0,0,0,,{TIME:36069,39940}I'd be so happy if it came true
+Dialogue: 0,0:00:39.94,0:00:43.37,OP EN,[karaoke],0,0,0,,{TIME:39940,43377}Oh, God, just let me know
+Dialogue: 0,0:00:43.37,0:00:47.54,OP EN,[karaoke],0,0,0,,{TIME:43377,47548}I'd be so happy if it came true
+Dialogue: 0,0:00:47.54,0:00:51.38,OP EN,[karaoke],0,0,0,,{TIME:47548,51385}Oh, God, just let me know
 Comment: 0,0:01:01.02,0:01:01.02,Default,[chapter],0,0,0,,{TIME:61024,61024}Intro
+Dialogue: 0,0:01:08.63,0:01:12.00,Default,,0,0,0,,{TIME:68632,72002}{\i1}The city of fog, London.
+Dialogue: 0,0:01:12.00,0:01:16.57,Default,,0,0,0,,{TIME:72002,76573}{\i1}After overcoming numerous dangers,\NIsabelle and Jean
+Dialogue: 0,0:01:16.57,0:01:20.64,Default,,0,0,0,,{TIME:76573,80644}{\i1}finally arrived\Nat their destination.
+Dialogue: 0,0:01:21.07,0:01:24.11,Default,,0,0,0,,{TIME:81077,84114}Excuse me, do you know someone\Nnamed Martin Schmidt?
+Dialogue: 0,0:01:24.11,0:01:26.01,Default,,0,0,0,,{TIME:84114,86016}Is Mr. Martin Schmidt here?
+Dialogue: 0,0:01:26.34,0:01:29.08,Default,,0,0,0,,{TIME:86349,89085}Martin?\NCan't say it rings a bell.
+Dialogue: 0,0:01:33.25,0:01:35.75,Default,,0,0,0,,{TIME:93256,95759}– What are you doing?\N– "What are you doing?"
+Dialogue: 0,0:01:35.75,0:01:39.99,Default,,0,0,0,,{TIME:95759,99996}Ha. If you don't like the smoke of a cigar,\Nyou'd better get out of here.
+Dialogue: 0,0:01:39.99,0:01:43.63,Default,,0,0,0,,{TIME:99996,103633}This is not the place for such munchkins,\Nall wet behind their ears.
+Dialogue: 0,0:01:43.63,0:01:44.70,Default,,0,0,0,,{TIME:103633,104701}What did you say?!
+Dialogue: 0,0:01:44.70,0:01:46.63,Default,,0,0,0,,{TIME:104701,106636}Oh, did I upset you?
+Dialogue: 0,0:01:46.63,0:01:51.54,Default,,0,0,0,,{TIME:106636,111541}If you're such a man, why don't you take your\Npants off and show what you have under?
+Dialogue: 0,0:01:51.54,0:01:53.54,Default,,0,0,0,,{TIME:111541,113543}Right, guys?
+Dialogue: 0,0:01:56.51,0:01:58.58,Default,,0,0,0,,{TIME:116513,118582}Come on! Hurry up!
+Dialogue: 0,0:01:58.58,0:02:00.38,Default,,0,0,0,,{TIME:118582,120383}We're all waiting.
+Dialogue: 0,0:02:02.18,0:02:03.75,Default,,0,0,0,,{TIME:122185,123753}Give them a break.
+Dialogue: 0,0:02:05.28,0:02:07.92,Default,,0,0,0,,{TIME:125288,127924}One of you is Isabelle\Nand you have news from Paris, right?
+Dialogue: 0,0:02:07.92,0:02:09.89,Default,,0,0,0,,{TIME:127924,129893}Paris? What?
+Dialogue: 0,0:02:10.69,0:02:12.59,Default,,0,0,0,,{TIME:130694,132596}How do you know my name?
+Dialogue: 0,0:02:13.06,0:02:17.23,Default,,0,0,0,,{TIME:133063,137233}I've heard a bit about Jules from Paris.\NI will introduce you to Martin Schmidt.
 Comment: 0,0:02:29.41,0:02:29.41,Default,[chapter],0,0,0,,{TIME:149412,149412}Opening
-Dialogue: 0,0:02:41.95,0:02:44.82,Credits,[credits],0,0,0,,{TIME:161958,164828}{\c&HEFEDE5&\blur0.6\fad(0,300)\an5\pos(186,450)}Isabelle{NOTE:イザベル}
-Dialogue: 0,0:02:48.86,0:02:51.60,Credits,[credits],0,0,0,,{TIME:168865,171601}{\c&HF2EEE4&\blur0.6\an5\pos(181,450)}Father · Léon{NOTE:父・レオン}
-Dialogue: 0,0:02:52.06,0:02:54.43,Credits,[credits],0,0,0,,{TIME:172068,174437}{\c&HF2EEE4&\blur0.6\an5\pos(493,450)}Mother · Marie{NOTE:母・マリー}
-Dialogue: 0,0:02:54.87,0:02:57.27,Credits,[credits],0,0,0,,{TIME:174871,177273}{\c&HF2EEDC&\blur0.6\an5\pos(190,450)}Count Red{NOTE:血のコウモリ}
-Dialogue: 0,0:02:57.77,0:03:00.11,Credits,[credits],0,0,0,,{TIME:177774,180110}{\c&HF2EEE4&\blur0.6\an5\pos(480,450)}Sister · Geneviève{NOTE:姉・ジュネビエーブ}
-Dialogue: 0,0:03:00.64,0:03:03.04,Credits,[credits],0,0,0,,{TIME:180644,183046}{\c&HF2EEE4&\blur0.6\an5\pos(223,450)}Piano Teacher · Jules{NOTE:ピアノ教師・ジュール}
-Dialogue: 0,0:03:03.48,0:03:05.94,Credits,[credits],0,0,0,,{TIME:183480,185949}{\c&HEDE6DA&\blur0.6\an5\pos(488,450)}Army Captain · Victor{NOTE:陸軍大尉・ビクトル}
-Dialogue: 0,0:03:06.38,0:03:08.88,Credits,[credits],0,0,0,,{TIME:186383,188885}{\c&HEDE6DA&\blur0.6\an5\pos(485,450)}Young friend · Jean{NOTE:幼な友達・シャン}
-Dialogue: 0,0:03:09.48,0:03:12.85,Credits,[credits],0,0,0,,{TIME:189486,192856}{\c&HFFF4E0&\blur0.6\an4\pos(356,240)\fs25}Screenplay{NOTE:脚本\\N首藤 剛志}
-Dialogue: 0,0:03:09.48,0:03:12.85,Credits,[credits],0,0,0,,{TIME:189486,192856}{\c&HFFF4E0&\blur0.6\an3\pos(622,405)}Shudou Takeshi{NOTE:脚本\\N首藤 剛志}
-Dialogue: 0,0:03:12.85,0:03:16.32,Credits,[credits],0,0,0,,{TIME:192856,196326}{\c&HF8F3E5&\blur0.6\an4\pos(356,240)\fs25}Narrator{NOTE:ナレーター\\N稲垣 美穂子}
-Dialogue: 0,0:03:12.85,0:03:16.32,Credits,[credits],0,0,0,,{TIME:192856,196326}{\c&HF8F3E5&\blur0.6\an3\pos(618,403)}Inagaki Mihoko{NOTE:ナレーター\\N稲垣 美穂子}
-Dialogue: 0,0:03:16.32,0:03:19.72,Credits,[credits],0,0,0,,{TIME:196326,199729}{\c&HF8F3E5&\blur0.6\an4\pos(355,240)\fs25}Music{NOTE:音楽\\N松下 功}
-Dialogue: 0,0:03:16.32,0:03:19.72,Credits,[credits],0,0,0,,{TIME:196326,199729}{\c&HF8F3E5&\blur0.6\an3\pos(624,405)}Isao Matsushita{NOTE:音楽\\N松下 功}
-Dialogue: 0,0:03:19.72,0:03:23.06,Credits,[credits],0,0,0,,{TIME:199729,203066}{\c&HF8F3E5&\blur0.6\an4\pos(350,235)\fs25}Character Design{NOTE:キャラクターデザイン\\N福田 皖\\N北島 信幸}
-Dialogue: 0,0:03:19.72,0:03:23.06,Credits,[credits],0,0,0,,{TIME:199729,203066}{\c&HF8F3E5&\blur0.6\an3\pos(622,440)}Fukuda Kiyomu{NOTE:キャラクターデザイン\\N福田 皖\\N北島 信幸}
-Dialogue: 0,0:03:19.72,0:03:23.06,Credits,[credits],0,0,0,,{TIME:199729,203066}{\c&HF8F3E5&\blur0.6\an3\pos(622,480)}Kitajima Nobuyuki{NOTE:キャラクターデザイン\\N福田 皖\\N北島 信幸}
-Dialogue: 0,0:03:23.06,0:03:26.50,Credits,[credits],0,0,0,,{TIME:203066,206503}{\c&HF4E9EA&\blur0.6\an4\pos(353,240)\fs25}Chief Director{NOTE:チーフディレクター\\N早川 啓二}
-Dialogue: 0,0:03:23.06,0:03:26.50,Credits,[credits],0,0,0,,{TIME:203066,206503}{\c&HF4E9EA&\blur0.6\an3\pos(618,405)}Hayakawa Keiji{NOTE:チーフディレクター\\N早川 啓二}
-Dialogue: 0,0:03:30.14,0:03:34.04,Credits,[credits],0,0,0,,{TIME:210140,214044}{\c&HFFEAE4&\blur0.6\an4\pos(350,265)\fs25}Director{NOTE:監督\\N葉方 丹}
-Dialogue: 0,0:03:30.14,0:03:34.04,Credits,[credits],0,0,0,,{TIME:210140,214044}{\c&HFFEAE4&\blur0.6\an3\pos(620,430)}Hakata Tan{NOTE:監督\\N葉方 丹}
+Dialogue: 0,0:02:41.95,0:02:44.82,Credits,[credits],0,0,0,,{TIME:161958,164828}{\c&HEFEDE5&\blur0.6\fad(0,300)\an5\pos(186,450)}Isabelle
+Dialogue: 0,0:02:48.86,0:02:51.60,Credits,[credits],0,0,0,,{TIME:168865,171601}{\c&HF2EEE4&\blur0.6\an5\pos(181,450)}Father · Léon
+Dialogue: 0,0:02:52.06,0:02:54.43,Credits,[credits],0,0,0,,{TIME:172068,174437}{\c&HF2EEE4&\blur0.6\an5\pos(493,450)}Mother · Marie
+Dialogue: 0,0:02:54.87,0:02:57.27,Credits,[credits],0,0,0,,{TIME:174871,177273}{\c&HF2EEDC&\blur0.6\an5\pos(190,450)}Count Red
+Dialogue: 0,0:02:57.77,0:03:00.11,Credits,[credits],0,0,0,,{TIME:177774,180110}{\c&HF2EEE4&\blur0.6\an5\pos(480,450)}Sister · Geneviève
+Dialogue: 0,0:03:00.64,0:03:03.04,Credits,[credits],0,0,0,,{TIME:180644,183046}{\c&HF2EEE4&\blur0.6\an5\pos(223,450)}Piano Teacher · Jules
+Dialogue: 0,0:03:03.48,0:03:05.94,Credits,[credits],0,0,0,,{TIME:183480,185949}{\c&HEDE6DA&\blur0.6\an5\pos(488,450)}Army Captain · Victor
+Dialogue: 0,0:03:06.38,0:03:08.88,Credits,[credits],0,0,0,,{TIME:186383,188885}{\c&HEDE6DA&\blur0.6\an5\pos(485,450)}Young friend · Jean
+Dialogue: 0,0:03:09.48,0:03:12.85,Credits,[credits],0,0,0,,{TIME:189486,192856}{\c&HFFF4E0&\blur0.6\an4\pos(356,240)\fs25}Screenplay
+Dialogue: 0,0:03:09.48,0:03:12.85,Credits,[credits],0,0,0,,{TIME:189486,192856}{\c&HFFF4E0&\blur0.6\an3\pos(622,405)}Shudou Takeshi
+Dialogue: 0,0:03:12.85,0:03:16.32,Credits,[credits],0,0,0,,{TIME:192856,196326}{\c&HF8F3E5&\blur0.6\an4\pos(356,240)\fs25}Narrator
+Dialogue: 0,0:03:12.85,0:03:16.32,Credits,[credits],0,0,0,,{TIME:192856,196326}{\c&HF8F3E5&\blur0.6\an3\pos(618,403)}Inagaki Mihoko
+Dialogue: 0,0:03:16.32,0:03:19.72,Credits,[credits],0,0,0,,{TIME:196326,199729}{\c&HF8F3E5&\blur0.6\an4\pos(355,240)\fs25}Music
+Dialogue: 0,0:03:16.32,0:03:19.72,Credits,[credits],0,0,0,,{TIME:196326,199729}{\c&HF8F3E5&\blur0.6\an3\pos(624,405)}Isao Matsushita
+Dialogue: 0,0:03:19.72,0:03:23.06,Credits,[credits],0,0,0,,{TIME:199729,203066}{\c&HF8F3E5&\blur0.6\an4\pos(350,235)\fs25}Character Design
+Dialogue: 0,0:03:19.72,0:03:23.06,Credits,[credits],0,0,0,,{TIME:199729,203066}{\c&HF8F3E5&\blur0.6\an3\pos(622,440)}Fukuda Kiyomu
+Dialogue: 0,0:03:19.72,0:03:23.06,Credits,[credits],0,0,0,,{TIME:199729,203066}{\c&HF8F3E5&\blur0.6\an3\pos(622,480)}Kitajima Nobuyuki
+Dialogue: 0,0:03:23.06,0:03:26.50,Credits,[credits],0,0,0,,{TIME:203066,206503}{\c&HF4E9EA&\blur0.6\an4\pos(353,240)\fs25}Chief Director
+Dialogue: 0,0:03:23.06,0:03:26.50,Credits,[credits],0,0,0,,{TIME:203066,206503}{\c&HF4E9EA&\blur0.6\an3\pos(618,405)}Hayakawa Keiji
+Dialogue: 0,0:03:30.14,0:03:34.04,Credits,[credits],0,0,0,,{TIME:210140,214044}{\c&HFFEAE4&\blur0.6\an4\pos(350,265)\fs25}Director
+Dialogue: 0,0:03:30.14,0:03:34.04,Credits,[credits],0,0,0,,{TIME:210140,214044}{\c&HFFEAE4&\blur0.6\an3\pos(620,430)}Hakata Tan
 Comment: 0,0:03:34.04,0:03:34.04,Default,[chapter],0,0,0,,{TIME:214044,214044}Title screen
-Dialogue: 0,0:03:34.27,0:03:42.05,Title,[title],0,0,0,,{TIME:214277,222052}{\blur1.0\fad(700,0)\fscx400}-{\fscx} Episode 09 {\fscx400}-{\fscx}\N\NLove Burning in The Night Fog{NOTE:第九話\\N夜霧に燃えた愛}
-Dialogue: 1,0:03:34.27,0:03:42.05,Title,[title],0,0,0,,{TIME:214277,222052}{\blur1.0\fad(700,0)\fscx400}-{\fscx} Episode 09 {\fscx400}-{\fscx}\N\NLove Burning in The Night Fog{NOTE:第九話\\N夜霧に燃えた愛}
+Dialogue: 0,0:03:34.27,0:03:42.05,Title,[title],0,0,0,,{TIME:214277,222052}{\blur1.0\fad(700,0)\fscx400}-{\fscx} Episode 09 {\fscx400}-{\fscx}\N\NLove Burning in The Night Fog
+Dialogue: 1,0:03:34.27,0:03:42.05,Title,[title],0,0,0,,{TIME:214277,222052}{\blur1.0\fad(700,0)\fscx400}-{\fscx} Episode 09 {\fscx400}-{\fscx}\N\NLove Burning in The Night Fog
 Comment: 0,0:03:42.05,0:03:42.05,Default,[chapter],0,0,0,,{TIME:222052,222052}Part A
+Dialogue: 0,0:03:42.58,0:03:44.62,Default,,0,0,0,,{TIME:222585,224621}Wake up, Martin.
+Dialogue: 0,0:03:44.62,0:03:45.98,Default,,0,0,0,,{TIME:224621,225989}What are you\Nscreaming for, man?
+Dialogue: 0,0:03:45.98,0:03:49.35,Default,,0,0,0,,{TIME:225989,229359}Sir, I brought you a letter.
+Dialogue: 0,0:03:55.43,0:03:57.03,Default,,0,0,0,,{TIME:235432,237033}Please read it.
+Dialogue: 0,0:04:02.30,0:04:07.47,Default,,0,0,0,,{TIME:242305,247477}Let's meet tomorrow at the\NBritish Museum library.
+Dialogue: 0,0:04:07.84,0:04:09.71,Default,,0,0,0,,{TIME:247844,249713}Okay.
+Dialogue: 0,0:04:09.71,0:04:11.71,Default,,0,0,0,,{TIME:249713,251715}You're uh… of Paris…\NWhat's your name again?
+Dialogue: 0,0:04:11.71,0:04:13.04,Default,,0,0,0,,{TIME:251715,253049}Isabelle.
+Dialogue: 0,0:04:13.04,0:04:16.82,Default,,0,0,0,,{TIME:253049,256820}Ah, yes.\NHere's to Isabelle from Paris.
+Dialogue: 0,0:04:16.82,0:04:18.82,Default,,0,0,0,,{TIME:256820,258822}A toast to Isabelle from Paris!
+Dialogue: 0,0:04:18.82,0:04:20.75,Default,,0,0,0,,{TIME:258822,260757}Cheers!
+Dialogue: 0,0:04:20.75,0:04:21.95,Default,,0,0,0,,{TIME:260757,261958}Cheers!
+Dialogue: 0,0:04:35.53,0:04:36.67,Default,,0,0,0,,{TIME:275538,276673}You got a problem, buddy?
+Dialogue: 0,0:04:36.67,0:04:39.34,Default,,0,0,0,,{TIME:276673,279342}It's that monster!\NHe chased us all the way here!
+Dialogue: 0,0:04:42.17,0:04:46.58,Default,,0,0,0,,{TIME:282178,286583}This is a place of rest.\NPlease, come over some other day.
+Dialogue: 0,0:04:54.12,0:04:55.72,Default,,0,0,0,,{TIME:294124,295725}You bastard!
+Dialogue: 0,0:05:00.36,0:05:03.19,Default,,0,0,0,,{TIME:300363,303199}Wait. If you want to make trouble,\Ntake it outside.
+Dialogue: 0,0:05:05.20,0:05:08.77,Default,,0,0,0,,{TIME:305201,308772}Here, it's on the house. But after\Nyou finish, I must ask you to leave.
+Dialogue: 0,0:05:16.54,0:05:19.28,Default,,0,0,0,,{TIME:316546,319282}Hey, buddy.\NWe're Englishmen, you know?
+Dialogue: 0,0:05:19.28,0:05:22.11,Default,,0,0,0,,{TIME:319282,322118}Our ancestors wreaked\Nhavoc on the Seven Seas.
+Dialogue: 0,0:05:22.11,0:05:24.42,Default,,0,0,0,,{TIME:322118,324420}Believe me, you don't\Nwant to mess with us.
+Dialogue: 0,0:05:34.56,0:05:36.33,Default,,0,0,0,,{TIME:334564,336332}I was asking you politely.
+Dialogue: 0,0:05:36.59,0:05:38.23,Default,,0,0,0,,{TIME:336599,338234}He's mocking us!
+Dialogue: 0,0:05:38.23,0:05:40.60,Default,,0,0,0,,{TIME:338234,340603}– Let's get him!\N– Yeah!
+Dialogue: 0,0:05:56.45,0:06:00.08,Default,,0,0,0,,{TIME:356452,360089}If you chose not to\Nlisten to reason, so be it.
+Dialogue: 0,0:06:00.32,0:06:04.66,Default,,0,0,0,,{TIME:360323,364661}The people who bring violence to our\Nbeloved pub, we call them garbage.
+Dialogue: 0,0:06:04.66,0:06:07.93,Default,,0,0,0,,{TIME:364661,367931}And we deal with garbage\Nin a very simple manner.
+Dialogue: 0,0:06:22.57,0:06:24.44,Default,,0,0,0,,{TIME:382579,384447}All right, gentlemen,\Nback to drinking.
+Dialogue: 0,0:06:24.44,0:06:27.05,Default,,0,0,0,,{TIME:384447,387050}Don't sweat it.\NThese are just a few scratches.
+Dialogue: 0,0:06:27.05,0:06:29.28,Default,,0,0,0,,{TIME:387050,389285}To cheer you up,\Neveryone gets a free beer.
+Dialogue: 0,0:06:33.82,0:06:37.22,Default,,0,0,0,,{TIME:393823,397227}Incredible! I didn't know that\Ntaverns had such contraptions!
+Dialogue: 0,0:06:37.79,0:06:40.79,Default,,0,0,0,,{TIME:397794,400797}You see, we British\Nlove our machines.
+Dialogue: 0,0:06:41.76,0:06:44.56,Default,,0,0,0,,{TIME:401764,404567}A bit off topic, do you know\Nwhere to stay for the night?
+Dialogue: 0,0:06:44.80,0:06:49.77,Default,,0,0,0,,{TIME:404801,409772}No. We are in London for the first time\Nand we cannot tell left from right.
+Dialogue: 0,0:06:49.77,0:06:53.10,Default,,0,0,0,,{TIME:409772,413109}No problem. I will introduce you\Nto someone you can trust.
+Dialogue: 0,0:06:55.94,0:06:58.41,Default,,0,0,0,,{TIME:415945,418414}They have very good food there.
+Dialogue: 0,0:06:58.41,0:07:01.31,Default,,0,0,0,,{TIME:418414,421317}Especially roasted beef and puddings.\NThey melt in your mouth!
+Dialogue: 0,0:07:05.68,0:07:10.19,Default,,0,0,0,,{TIME:425688,430193}I just don't know if it will suit\Nyour sophisticated French tastes.
+Dialogue: 0,0:07:17.36,0:07:18.76,Default,,0,0,0,,{TIME:437367,438768}Jean, that…\Ncan't be him, right?
+Dialogue: 0,0:07:29.14,0:07:30.41,Default,,0,0,0,,{TIME:449145,450413}Run for it!
+Dialogue: 0,0:07:30.41,0:07:32.41,Default,,0,0,0,,{TIME:450413,452415}I see he doesn't know\Nwhen to let go.
+Dialogue: 0,0:07:34.85,0:07:38.35,Default,,0,0,0,,{TIME:454851,458354}No! Bullets don't work on him.\NWe have to run!
+Dialogue: 0,0:07:42.82,0:07:44.09,Default,,0,0,0,,{TIME:462825,464093}Impossible!
+Dialogue: 0,0:07:47.93,0:07:49.86,Default,,0,0,0,,{TIME:467931,469866}Hurry! We have to run!
+Dialogue: 0,0:08:01.91,0:08:03.57,Default,,0,0,0,,{TIME:481911,483579}Isabelle! We're running away!
+Dialogue: 0,0:08:46.78,0:08:48.75,Default,,0,0,0,,{TIME:526789,528758}I think we lost him.
+Dialogue: 0,0:08:48.75,0:08:53.59,Default,,0,0,0,,{TIME:528758,533596}Jean, I can't go on anymore.\NI'm sick of all this running.
+Dialogue: 0,0:08:53.59,0:08:55.66,Default,,0,0,0,,{TIME:533596,535665}I want to go back to Versailles.
+Dialogue: 0,0:08:55.66,0:08:57.83,Default,,0,0,0,,{TIME:535665,537834}You think I don't?
+Dialogue: 0,0:08:57.83,0:09:02.90,Default,,0,0,0,,{TIME:537834,542905}I got tangled up in things I don't fully\Nunderstand and at times, I regret it.
+Dialogue: 0,0:09:02.90,0:09:06.77,Default,,0,0,0,,{TIME:542905,546776}Do you reckon we could just\Nstraight up apologize and come back?
+Dialogue: 0,0:09:06.77,0:09:09.24,Default,,0,0,0,,{TIME:546776,549245}You know full well\Nit won't work, Isabelle.
+Dialogue: 0,0:09:09.24,0:09:12.98,Default,,0,0,0,,{TIME:549245,552982}We both got involved in it\Non our own accord.
+Dialogue: 0,0:09:12.98,0:09:16.88,Default,,0,0,0,,{TIME:552982,556886}You are no longer Isabelle Rostain\Nor Isabelle from Versailles.
+Dialogue: 0,0:09:16.88,0:09:19.22,Default,,0,0,0,,{TIME:556886,559222}You are Isabelle from Paris.
+Dialogue: 0,0:09:19.22,0:09:20.79,Default,,0,0,0,,{TIME:559222,560790}Isabelle… from Paris?
+Dialogue: 0,0:09:20.92,0:09:23.69,Default,,0,0,0,,{TIME:560923,563693}Yes. Isabelle from Paris.
+Dialogue: 0,0:09:27.96,0:09:30.29,Default,,0,0,0,,{TIME:567964,570299}I am Isabelle from Paris.
+Dialogue: 0,0:09:30.90,0:09:36.50,Default,,0,0,0,,{TIME:570900,576506}As long as I liveth, i shalt protect\Nthe freedom and people of Paris.
+Dialogue: 0,0:09:36.67,0:09:38.57,Default,,0,0,0,,{TIME:576672,578574}Long live Isabelle!
+Dialogue: 0,0:09:38.57,0:09:41.94,Default,,0,0,0,,{TIME:578574,581944}Isabelle is our savior!
+Dialogue: 0,0:09:41.94,0:09:44.71,Default,,0,0,0,,{TIME:581944,584714}Praise Isabelle from Paris!
+Dialogue: 0,0:09:46.04,0:09:48.05,Default,,0,0,0,,{TIME:586049,588051}So much fun!
+Dialogue: 0,0:09:48.05,0:09:50.18,Default,,0,0,0,,{TIME:588051,590186}Isabelle from Paris\Nand Jean from Paris.
+Dialogue: 0,0:09:50.18,0:09:52.78,Default,,0,0,0,,{TIME:590186,592789}Paris of Isabelle.\NParis of Jean.
+Dialogue: 0,0:09:52.78,0:09:55.42,Default,,0,0,0,,{TIME:592789,595425}Sounds like a title\Nof a novel, doesn't it?
+Dialogue: 0,0:09:59.72,0:10:00.86,Default,,0,0,0,,{TIME:599729,600863}Do you regret leaving?
+Dialogue: 0,0:10:03.19,0:10:08.20,Default,,0,0,0,,{TIME:603199,608204}The floor may be a bit hard here,\Nbut we should catch some sleep.
+Dialogue: 0,0:10:08.20,0:10:11.24,Default,,0,0,0,,{TIME:608204,611240}Tomorrow we will go on\Nanother great adventure.
+Dialogue: 0,0:10:12.84,0:10:14.57,Default,,0,0,0,,{TIME:612842,614577}Good night.
+Dialogue: 0,0:10:59.25,0:11:01.02,Default,,0,0,0,,{TIME:659255,661023}The situation is this.
+Dialogue: 0,0:11:01.02,0:11:04.46,Default,,0,0,0,,{TIME:661023,664460}Isabelle made contact\Nwith the British revolutionaries.
+Dialogue: 0,0:11:04.46,0:11:10.19,Default,,0,0,0,,{TIME:664460,670199}Therefore, we must dispose not only of her,\Nbut also everyone who talked to her!
+Dialogue: 0,0:11:10.19,0:11:13.70,Default,,0,0,0,,{TIME:670199,673703}Gather everyone\Nand don't spare anyone!
+Dialogue: 0,0:11:13.70,0:11:15.13,Default,,0,0,0,,{TIME:673703,675138}Panza!
+Dialogue: 0,0:11:15.50,0:11:18.94,Default,,0,0,0,,{TIME:675505,678941}I told you to leave the girl alone.
+Dialogue: 0,0:11:19.57,0:11:21.31,Default,,0,0,0,,{TIME:679575,681310}Who… Who's there?!
+Dialogue: 0,0:11:24.18,0:11:26.54,Default,,0,0,0,,{TIME:684180,686549}Close the door!\NDon't let anyone leave.
+Dialogue: 0,0:11:26.54,0:11:28.58,Default,,0,0,0,,{TIME:686549,688584}Show yourself!
+Dialogue: 0,0:11:28.58,0:11:30.92,Default,,0,0,0,,{TIME:688584,690920}I don't hide from anyone.\NI am over here.
+Dialogue: 0,0:11:31.88,0:11:34.05,Default,,0,0,0,,{TIME:691888,694056}Count Red?\NHow did you get here?
+Dialogue: 0,0:11:34.05,0:11:36.42,Default,,0,0,0,,{TIME:694056,696425}Why are you opposing us?
+Dialogue: 0,0:11:36.42,0:11:41.33,Default,,0,0,0,,{TIME:696425,701330}Count Red doesn't have to answer\Nthe questions of cowards like you.
+Dialogue: 0,0:11:41.33,0:11:44.30,Default,,0,0,0,,{TIME:701330,704300}You deserve only to be wiped off\Nthe face of the earth.
+Dialogue: 0,0:11:44.30,0:11:46.10,Default,,0,0,0,,{TIME:704300,706102}What is it?\NWhat's that sound!?
+Dialogue: 0,0:11:46.10,0:11:49.60,Default,,0,0,0,,{TIME:706102,709605}In a moment or two, all that's left\Nfrom your boat will be a few splinters.
+Dialogue: 0,0:11:52.64,0:11:56.64,Default,,0,0,0,,{TIME:712642,716646}Damn, it's a bomb!\NWithdraw! Withdraw!
+Dialogue: 0,0:11:56.64,0:11:58.51,Default,,0,0,0,,{TIME:716646,718514}It's a bomb!\NSave yourselves!
 Comment: 0,0:12:12.46,0:12:12.46,Default,[chapter],0,0,0,,{TIME:732461,732461}Part B
-Dialogue: 0,0:23:53.92,0:23:57.83,Credits,[credits],0,0,0,,{TIME:1433929,1437833}{\fad(400,400)\c&HFAFAFA&\blur1\fs20\an5\pos(559,420),\t(1904,3904,5,\c&H101010&)}To be continued
+Dialogue: 0,0:12:16.56,0:12:19.00,Default,,0,0,0,,{TIME:736566,739001}Leave the boat!\NLeave the boat!
+Dialogue: 0,0:12:27.54,0:12:29.34,Default,,0,0,0,,{TIME:747543,749345}Shoot! Shoot!
+Dialogue: 0,0:12:29.34,0:12:31.54,Default,,0,0,0,,{TIME:749345,751547}Kill him! Kill him!
+Dialogue: 0,0:13:02.54,0:13:04.04,Default,,0,0,0,,{TIME:782545,784046}Stay with me, Irma!
+Dialogue: 0,0:13:05.11,0:13:06.34,Default,,0,0,0,,{TIME:785114,786349}I'm fine.
+Dialogue: 0,0:13:06.34,0:13:07.78,Default,,0,0,0,,{TIME:786349,787783}You won't run away from me.
+Dialogue: 0,0:13:07.78,0:13:10.85,Default,,0,0,0,,{TIME:787783,790853}I don't want anyone's help.\NI'll get rid of this rodent myself!
+Dialogue: 0,0:13:14.09,0:13:15.49,Default,,0,0,0,,{TIME:794090,795491}Don't put yourself\Nin danger, Irma.
+Dialogue: 0,0:13:54.29,0:13:56.09,Default,,0,0,0,,{TIME:834297,836098}Say your prayers.
+Dialogue: 0,0:13:56.09,0:13:57.46,Default,,0,0,0,,{TIME:836098,837466}Hey, boss!
+Dialogue: 0,0:13:58.46,0:14:01.27,Default,,0,0,0,,{TIME:838467,841270}They're our men.\NGo without me!
+Dialogue: 0,0:14:01.27,0:14:02.93,Default,,0,0,0,,{TIME:841270,842938}I'm not important.\NSave yourself!
+Dialogue: 0,0:14:03.47,0:14:06.47,Default,,0,0,0,,{TIME:843472,846475}You're the only one I don't want\Nto lose. Get outta here!
+Dialogue: 0,0:14:15.95,0:14:17.28,Default,,0,0,0,,{TIME:855951,857286}You're pretty good!
+Dialogue: 0,0:14:18.05,0:14:20.95,Default,,0,0,0,,{TIME:858054,860956}You too. You're doing\Nsurprisingly well for a coward.
+Dialogue: 0,0:14:20.95,0:14:22.89,Default,,0,0,0,,{TIME:860956,862892}Watch your words, dog!
+Dialogue: 0,0:14:40.94,0:14:44.28,Default,,0,0,0,,{TIME:880943,884280}That would be it, you red clown.
+Dialogue: 0,0:14:48.85,0:14:51.48,Default,,0,0,0,,{TIME:888851,891487}The fire has spread.\NThe boat is about to explode!
+Dialogue: 0,0:14:52.05,0:14:53.12,Default,,0,0,0,,{TIME:892054,893122}What!?
+Dialogue: 0,0:14:54.09,0:14:55.65,Default,,0,0,0,,{TIME:894090,895658}Finally. How long\Ndid I have to wait?
+Dialogue: 0,0:15:01.56,0:15:02.96,Default,,0,0,0,,{TIME:901564,902965}Until next time!
+Dialogue: 0,0:15:02.96,0:15:05.13,Default,,0,0,0,,{TIME:902965,905134}Next time, I will squeeze\Nthe life out of you.
+Dialogue: 0,0:15:05.66,0:15:06.93,Default,,0,0,0,,{TIME:905668,906936}I look forward to it.
+Dialogue: 0,0:15:09.90,0:15:13.44,Default,,0,0,0,,{TIME:909905,913442}{\i1}Wait a second.\NI heard that voice somewhere.
+Dialogue: 0,0:15:13.44,0:15:15.51,Default,,0,0,0,,{TIME:913442,915511}{\i1}Whose voice it is? Whose?
+Dialogue: 0,0:15:16.04,0:15:18.08,Default,,0,0,0,,{TIME:916045,918080}{\i1}Indeed.
+Dialogue: 0,0:15:18.08,0:15:22.31,Default,,0,0,0,,{TIME:918080,922318}{\i1}The Count Red's voice\Nsounded strangely familiar.
+Dialogue: 0,0:15:22.31,0:15:28.32,Default,,0,0,0,,{TIME:922318,928324}{\i1}Panza, however, could not\Nremember at all who it belonged to.
+Dialogue: 0,0:15:34.89,0:15:40.00,Default,,0,0,0,,{TIME:934897,940002}{\i1}Meanwhile Victor, worried\Nabout the fate of our heroine,
+Dialogue: 0,0:15:40.00,0:15:43.07,Default,,0,0,0,,{TIME:940002,943072}{\i1}learned from Thiers\NIsabelle's whereabouts,
+Dialogue: 0,0:15:43.07,0:15:45.97,Default,,0,0,0,,{TIME:943072,945975}{\i1}and was slowly\Napproaching London.
+Dialogue: 0,0:15:47.87,0:15:50.21,Default,,0,0,0,,{TIME:947877,950212}{\i1}They want Isabelle dead or alive?
+Dialogue: 0,0:15:50.21,0:15:53.18,Default,,0,0,0,,{TIME:950212,953182}{\i1}What could a fifteen-year-old\Ngirl do to them?
+Dialogue: 0,0:15:53.18,0:15:55.18,Default,,0,0,0,,{TIME:953182,955184}{\i1}Thiers has lost his mind.
+Dialogue: 0,0:15:55.18,0:15:57.18,Default,,0,0,0,,{TIME:955184,957186}{\i1}God help you, Isabelle.
+Dialogue: 0,0:16:04.59,0:16:06.29,Default,,0,0,0,,{TIME:964593,966295}{\i1}Don't look at it!
+Dialogue: 0,0:16:13.90,0:16:18.27,Default,,0,0,0,,{TIME:973903,978274}{\i1}Seeing the portrait of Isabelle,\NVictor got flooded with memories.
+Dialogue: 0,0:16:18.27,0:16:22.87,Default,,0,0,0,,{TIME:978274,982878}{\i1}Isabelle's face reminded him\Nof her sister, Geneviève.
+Dialogue: 0,0:16:25.71,0:16:27.48,Default,,0,0,0,,{TIME:985714,987483}British Museum.
+Dialogue: 0,0:16:27.48,0:16:32.18,Default,,0,0,0,,{TIME:987483,992188}The largest museum in the world,\Nlocated at Russell Square in London.
+Dialogue: 0,0:16:32.18,0:16:37.49,Default,,0,0,0,,{TIME:992188,997493}From Ancient Egypt, through Greece,\NRome, India, to China and Japan.
+Dialogue: 0,0:16:37.49,0:16:44.76,Default,,0,0,0,,{TIME:997493,1004767}{\fscx95}The collections contain works of art, exhibits\Nfrom excavations, folk crafts and much more.
+Dialogue: 0,0:16:44.76,0:16:47.43,Default,,0,0,0,,{TIME:1004767,1007436}We're in for some nice views.
+Dialogue: 0,0:16:47.43,0:16:50.97,Default,,0,0,0,,{TIME:1007436,1010973}How can you be so calm in these\Ncircumstances and think about the views?
+Dialogue: 0,0:16:51.34,0:16:54.57,Default,,0,0,0,,{TIME:1011340,1014577}Shh! Calm down, or else\Nyou'll look suspicious.
+Dialogue: 0,0:16:58.48,0:17:00.61,Default,,0,0,0,,{TIME:1018481,1020616}That's their idea of a disguise?
+Dialogue: 0,0:17:00.61,0:17:03.41,Default,,0,0,0,,{TIME:1020616,1023419}In the end they're only kids.\NAfter them.
+Dialogue: 0,0:17:04.32,0:17:10.45,Default,,0,0,0,,{TIME:1024320,1030459}The British Museum Library\Ncan boast 8 million volumes.
+Dialogue: 0,0:17:10.45,0:17:14.79,Default,,0,0,0,,{TIME:1030459,1034797}The spectacular reading room can easily\Naccommodate over a hundred book lovers.
+Dialogue: 0,0:17:16.56,0:17:17.66,Default,,0,0,0,,{TIME:1036565,1037666}Interesting.
+Dialogue: 0,0:17:26.94,0:17:29.94,Default,,0,0,0,,{TIME:1046942,1049945}Sit down, please.\NPretend that you are reading a book.
+Dialogue: 0,0:17:31.84,0:17:33.91,Default,,0,0,0,,{TIME:1051847,1053916}I understand Jules' request.
+Dialogue: 0,0:17:33.91,0:17:37.21,Default,,0,0,0,,{TIME:1053916,1057219}This morning, 120 of our\Npoliticians and military experts
+Dialogue: 0,0:17:37.21,0:17:42.62,Default,,0,0,0,,{TIME:1057219,1062625}set off for Paris\Nto help defend the city.
+Dialogue: 0,0:17:42.62,0:17:45.82,Default,,0,0,0,,{TIME:1062625,1065828}I don't know how many of them\Nwill actually make it there.
+Dialogue: 0,0:17:45.82,0:17:48.63,Default,,0,0,0,,{TIME:1065828,1068631}This is all we could do.
+Dialogue: 0,0:17:48.93,0:17:50.93,Default,,0,0,0,,{TIME:1068931,1070933}Give this to Jules.
+Dialogue: 0,0:17:50.93,0:17:53.33,Default,,0,0,0,,{TIME:1070933,1073335}It contains the names\Nof everyone we sent.
+Dialogue: 0,0:17:53.33,0:17:56.67,Default,,0,0,0,,{TIME:1073335,1076672}Keep this list safe,\NIsabelle. Now go.
+Dialogue: 0,0:17:56.67,0:18:02.44,Default,,0,0,0,,{TIME:1076672,1082444}Your actions will go down in history\Nas catalysts of wonderful changes.
+Dialogue: 0,0:18:02.44,0:18:05.44,Default,,0,0,0,,{TIME:1082444,1085447}I'm just helping my sister.
+Dialogue: 0,0:18:05.91,0:18:09.15,Default,,0,0,0,,{TIME:1085915,1089151}A man always acts\Nfor his loved ones.
+Dialogue: 0,0:18:09.15,0:18:11.28,Default,,0,0,0,,{TIME:1089151,1091287}That's where it all starts.
+Dialogue: 0,0:18:12.18,0:18:14.79,Default,,0,0,0,,{TIME:1092187,1094790}Goodbye, Isabelle.
+Dialogue: 0,0:18:15.75,0:18:18.16,Default,,0,0,0,,{TIME:1095758,1098160}Thank you very much, sir.
+Dialogue: 0,0:18:23.19,0:18:27.46,Default,,0,0,0,,{TIME:1103198,1107469}{\i1}The city that is protected\Nand ruled only by its citizens.
+Dialogue: 0,0:18:27.46,0:18:29.27,Default,,0,0,0,,{TIME:1107469,1109271}{\i1}What a noble idea.
+Dialogue: 0,0:18:29.27,0:18:31.64,Default,,0,0,0,,{TIME:1109271,1111640}{\i1}However, it is still too early.
+Dialogue: 0,0:18:31.64,0:18:37.07,Default,,0,0,0,,{TIME:1111640,1117079}{\i1}I hope that the dream of the people of Paris\Nwill be more than just an idealistic fantasy.
+Dialogue: 0,0:18:50.75,0:18:52.42,Default,,0,0,0,,{TIME:1130759,1132428}Isabelle!
+Dialogue: 0,0:18:53.26,0:18:54.39,Default,,0,0,0,,{TIME:1133262,1134396}Jean, where's the letter?!
+Dialogue: 0,0:18:54.39,0:18:55.76,Default,,0,0,0,,{TIME:1134396,1135764}What?!
+Dialogue: 0,0:18:57.13,0:18:58.73,Default,,0,0,0,,{TIME:1137132,1138734}Stop!
+Dialogue: 0,0:18:59.90,0:19:01.50,Default,,0,0,0,,{TIME:1139902,1141503}He'll escape us!
+Dialogue: 0,0:19:08.67,0:19:11.01,Default,,0,0,0,,{TIME:1148677,1151013}I was waiting for you, Isabelle.
+Dialogue: 0,0:19:15.21,0:19:16.68,Default,,0,0,0,,{TIME:1155217,1156685}It is time to die.
+Dialogue: 0,0:19:22.22,0:19:23.59,Default,,0,0,0,,{TIME:1162224,1163592}Look!
+Dialogue: 0,0:19:25.76,0:19:27.12,Default,,0,0,0,,{TIME:1165761,1167129}Isabelle, catch!
+Dialogue: 0,0:19:27.76,0:19:29.19,Default,,0,0,0,,{TIME:1167763,1169198}Thanks.
+Dialogue: 0,0:19:33.43,0:19:34.90,Default,,0,0,0,,{TIME:1173435,1174903}Not another step.
+Dialogue: 0,0:20:15.91,0:20:16.94,Default,,0,0,0,,{TIME:1215911,1216945}We can do it.
+Dialogue: 0,0:20:16.94,0:20:18.31,Default,,0,0,0,,{TIME:1216945,1218313}All right!
+Dialogue: 0,0:20:18.31,0:20:20.41,Default,,0,0,0,,{TIME:1218313,1220416}I admit that you\Nsurprised me, brats.
+Dialogue: 0,0:20:21.08,0:20:24.48,Default,,0,0,0,,{TIME:1221083,1224486}I am afraid, however, that\Nyour fencing show ends here.
+Dialogue: 0,0:20:32.66,0:20:35.63,Default,,0,0,0,,{TIME:1232661,1235631}{\i1}All or nothing.
+Dialogue: 0,0:20:48.74,0:20:52.31,Default,,0,0,0,,{TIME:1248744,1252314}Boss! It's the London police!\NThe police is gonna come any second!
+Dialogue: 0,0:20:52.68,0:20:56.18,Default,,0,0,0,,{TIME:1252681,1256185}What? Damn it!\NEveryone, retreat!
+Dialogue: 0,0:20:58.08,0:21:01.29,Default,,0,0,0,,{TIME:1258087,1261290}You're bloody lucky, you squirts.
+Dialogue: 0,0:21:01.29,0:21:03.29,Default,,0,0,0,,{TIME:1261290,1263292}Withdraw!
+Dialogue: 0,0:21:05.79,0:21:08.46,Default,,0,0,0,,{TIME:1265794,1268464}Ms. Isabelle,\NI have your letter here.
+Dialogue: 0,0:21:08.46,0:21:10.29,Default,,0,0,0,,{TIME:1268464,1270299}Gaston!
+Dialogue: 0,0:21:10.29,0:21:12.73,Default,,0,0,0,,{TIME:1270299,1272735}I've arranged for us\Na ship to France.
+Dialogue: 0,0:21:12.73,0:21:15.37,Default,,0,0,0,,{TIME:1272735,1275370}They'll be waiting on\Nthe Waterloo Bridge at 7 o'clock.
+Dialogue: 0,0:21:15.37,0:21:17.80,Default,,0,0,0,,{TIME:1275370,1277806}The police will be here soon.\NFollow me, please!
+Dialogue: 0,0:21:18.74,0:21:20.14,Default,,0,0,0,,{TIME:1278741,1280142}Okay.
+Dialogue: 0,0:21:26.11,0:21:28.51,Default,,0,0,0,,{TIME:1286115,1288517}Ah, it must be them!
+Dialogue: 0,0:21:28.51,0:21:30.51,Default,,0,0,0,,{TIME:1288517,1290519}That's our ship.
+Dialogue: 0,0:21:36.89,0:21:38.59,Default,,0,0,0,,{TIME:1296892,1298594}Oh, no! It's him again!
+Dialogue: 0,0:21:41.09,0:21:43.83,Default,,0,0,0,,{TIME:1301096,1303832}Will he ever learn to let go?\NI'm so sick of him.
+Dialogue: 0,0:21:43.83,0:21:45.56,Default,,0,0,0,,{TIME:1303832,1305567}Time to end this,\Nonce and for all.
+Dialogue: 0,0:21:45.56,0:21:48.03,Default,,0,0,0,,{TIME:1305567,1308036}Jean, don't be ridiculous.
+Dialogue: 0,0:21:48.03,0:21:51.00,Default,,0,0,0,,{TIME:1308036,1311006}Let's see who is stronger here.
+Dialogue: 0,0:21:51.00,0:21:54.84,Default,,0,0,0,,{TIME:1311006,1314843}Okay, Karlov! I'm yours!\NShow me what you can do!
+Dialogue: 0,0:22:04.15,0:22:05.35,Default,,0,0,0,,{TIME:1324153,1325354}Jean!
+Dialogue: 0,0:22:08.19,0:22:10.12,Default,,0,0,0,,{TIME:1328190,1330125}Jean, are you all right?
+Dialogue: 0,0:22:12.19,0:22:13.26,Default,,0,0,0,,{TIME:1332194,1333262}Jean!
+Dialogue: 0,0:22:13.26,0:22:14.49,Default,,0,0,0,,{TIME:1333262,1334496}Jean!
+Dialogue: 0,0:22:30.34,0:22:32.18,Default,,0,0,0,,{TIME:1350345,1352181}Victor! It's Victor!
+Dialogue: 0,0:22:36.51,0:22:40.02,Default,,0,0,0,,{TIME:1356518,1360022}Where did he come from?\NIt's not funny anymore.
+Dialogue: 0,0:22:41.05,0:22:44.02,Default,,0,0,0,,{TIME:1361056,1364026}Isabelle, forget everything\Nthat has happened so far.
+Dialogue: 0,0:22:44.02,0:22:46.56,Default,,0,0,0,,{TIME:1364026,1366562}I'll take care of Thiers.
+Dialogue: 0,0:22:46.56,0:22:48.69,Default,,0,0,0,,{TIME:1366562,1368697}You two just go back\Nto Versailles safely.
+Dialogue: 0,0:22:48.69,0:22:51.50,Default,,0,0,0,,{TIME:1368697,1371500}Victor, but I…
+Dialogue: 0,0:22:51.50,0:22:56.43,Default,,0,0,0,,{TIME:1371500,1376438}You came to London on a trip.\NThat is all. Understand?
+Dialogue: 0,0:22:56.87,0:23:00.60,Default,,0,0,0,,{TIME:1376872,1380609}No matter what happens\Nin Paris or the world,
+Dialogue: 0,0:23:00.60,0:23:03.94,Default,,0,0,0,,{TIME:1380609,1383946}I just want you to lead\Na peaceful and happy life.
+Dialogue: 0,0:23:10.68,0:23:12.52,Default,,0,0,0,,{TIME:1390686,1392521}{\i1}Victor…
+Dialogue: 0,0:23:12.85,0:23:21.09,Default,,0,0,0,,{TIME:1392855,1401096}{\i1}Isabelle heard a declaration\Nof love in Victor's words.
+Dialogue: 0,0:23:21.09,0:23:25.06,Default,,0,0,0,,{TIME:1401096,1405067}{\i1}"I finally caught his eye."
+Dialogue: 0,0:23:25.06,0:23:32.57,Default,,0,0,0,,{TIME:1405067,1412574}{\i1}In Isabelle's heart,\NParis, Geneviève,
+Dialogue: 0,0:23:32.57,0:23:36.97,Default,,0,0,0,,{TIME:1412574,1416979}{\i1}the dangerous trip\Nto London, everything…
+Dialogue: 0,0:23:36.97,0:23:40.34,Default,,0,0,0,,{TIME:1416979,1420349}{\i1}became shrouded in a thick fog.
+Dialogue: 0,0:23:40.34,0:23:43.68,Default,,0,0,0,,{TIME:1420349,1423685}{\i1}Isabelle was happy now.
+Dialogue: 0,0:23:53.92,0:23:57.83,Credits,[credits],0,0,0,,{TIME:1433929,1437833}{\fad(400,400)\c&HFAFAFA&\blur1\fs20\an5\pos(559,420)\t(1904,3904,5,\c&H101010&)}To be continued
 Comment: 0,0:23:58.13,0:23:58.13,Default,[chapter],0,0,0,,{TIME:1438133,1438133}Preview
 Dialogue: 0,0:23:58.13,0:24:00.30,Default,(sign),0,0,0,,{TIME:1438133,1440302}Next episode preview
+Dialogue: 0,0:24:00.63,0:24:05.80,Default,,0,0,0,,{TIME:1440636,1445807}When I returned to Versailles, it was\Nswirling with rumors of the Count Red.
+Dialogue: 0,0:24:05.80,0:24:09.97,Default,,0,0,0,,{TIME:1445807,1449978}Their masked leader\Napparently has a red-haired lover.
+Dialogue: 0,0:24:09.97,0:24:13.31,Default,,0,0,0,,{TIME:1449978,1453315}And his identity…\Nyou won't believe it.
+Dialogue: 0,0:24:13.31,0:24:15.28,Default,,0,0,0,,{TIME:1453315,1455284}Next time on "Isabelle of Paris":
+Dialogue: 0,0:24:15.28,0:24:18.08,Default,,0,0,0,,{TIME:1455284,1458086}"Love Blooming on The Battlefield".\NPlease look forward to it.
 Comment: 0,0:24:18.08,0:24:18.08,Default,[chapter],0,0,0,,{TIME:1458086,1458086}Ending
 Dialogue: 0,0:24:38.04,0:24:44.04,ED JP,[karaoke],0,0,0,,{TIME:1478040,1484046}anata no egao wa\Ntotemo suteki
 Dialogue: 0,0:24:44.04,0:24:49.35,ED JP,[karaoke],0,0,0,,{TIME:1484046,1489351}soyokaze no you ni\Natatakai ai ga aru
@@ -84,9 +320,9 @@ Dialogue: 0,0:24:49.35,0:24:54.25,ED JP,[karaoke],0,0,0,,{TIME:1489351,1494256}R
 Dialogue: 0,0:24:54.25,0:24:59.42,ED JP,[karaoke],0,0,0,,{TIME:1494256,1499428}hitori no yama ni\Nkodama suru
 Dialogue: 0,0:24:59.42,0:25:04.76,ED JP,[karaoke],0,0,0,,{TIME:1499428,1504766}hora omoikiri\Nkasekete yukou
 Dialogue: 0,0:25:04.76,0:25:11.07,ED JP,[karaoke],0,0,0,,{TIME:1504766,1511073}ano hito no iru\Noka no ue made
-Dialogue: 0,0:24:38.04,0:24:44.04,ED EN,[karaoke],0,0,0,,{TIME:1478040,1484046}Your smile is so nice{NOTE:あなたの笑顔はとても素敵}
-Dialogue: 0,0:24:44.04,0:24:49.35,ED EN,[karaoke],0,0,0,,{TIME:1484046,1489351}It displays so much love,\Ngentle like a breeze{NOTE:そよ風のように暖かい愛がある}
-Dialogue: 0,0:24:49.35,0:24:54.25,ED EN,[karaoke],0,0,0,,{TIME:1489351,1494256}La la la, our song\Nreaches across the stream{NOTE:ランララ 弾んだ歌は小川を越えて}
-Dialogue: 0,0:24:54.25,0:24:59.42,ED EN,[karaoke],0,0,0,,{TIME:1494256,1499428}and echoes in the green mountains{NOTE:緑の山にこだまする}
-Dialogue: 0,0:24:59.42,0:25:04.76,ED EN,[karaoke],0,0,0,,{TIME:1499428,1504766}Let's run with all our might{NOTE:ホラ思い切り駆けて行こう}
-Dialogue: 0,0:25:04.76,0:25:11.07,ED EN,[karaoke],0,0,0,,{TIME:1504766,1511073}to the top of the hill,\Nwhere our friend is{NOTE:あの人のいる丘の上まで}
+Dialogue: 0,0:24:38.04,0:24:44.04,ED EN,[karaoke],0,0,0,,{TIME:1478040,1484046}Your smile is so nice
+Dialogue: 0,0:24:44.04,0:24:49.35,ED EN,[karaoke],0,0,0,,{TIME:1484046,1489351}It displays so much love,\Ngentle like a breeze
+Dialogue: 0,0:24:49.35,0:24:54.25,ED EN,[karaoke],0,0,0,,{TIME:1489351,1494256}La la la, our song\Nreaches across the stream
+Dialogue: 0,0:24:54.25,0:24:59.42,ED EN,[karaoke],0,0,0,,{TIME:1494256,1499428}and echoes in the green mountains
+Dialogue: 0,0:24:59.42,0:25:04.76,ED EN,[karaoke],0,0,0,,{TIME:1499428,1504766}Let's run with all our might
+Dialogue: 0,0:25:04.76,0:25:11.07,ED EN,[karaoke],0,0,0,,{TIME:1504766,1511073}to the top of the hill,\Nwhere our friend is
