@@ -20,14 +20,13 @@ Style: Sign,Arial,30,&H00A5DFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.11,0:00:00.11,Default,[chapter],0,0,0,,{TIME:119,119}Intro
-Dialogue: 0,0:00:08.91,0:00:10.91,Default,,0,0,0,,{TIME:8919,10919}
-Dialogue: 0,0:00:12.11,0:00:18.45,Default,,0,0,0,,{TIME:12119,18452}
-Dialogue: 0,0:00:18.45,0:00:20.65,Default,,0,0,0,,{TIME:18452,20652}
-Dialogue: 0,0:00:20.65,0:00:23.38,Default,,0,0,0,,{TIME:20652,23386}
-Dialogue: 0,0:00:25.75,0:00:29.78,Default,,0,0,0,,{TIME:25752,29786}
-Dialogue: 0,0:00:33.18,0:00:36.05,Default,,0,0,0,,{TIME:33186,36052}
-Dialogue: 0,0:00:36.95,0:00:39.05,Default,,0,0,0,,{TIME:36952,39052}
-Dialogue: 0,0:00:41.01,0:00:42.55,Default,,0,0,0,,{TIME:41019,42552}
+Dialogue: 0,0:00:08.91,0:00:10.91,Default,,0,0,0,,{TIME:8919,10919}{\i1}Po raz pierwszy\Nsię w kimś zakochałam.
+Dialogue: 0,0:00:12.11,0:00:18.45,Default,,0,0,0,,{TIME:12119,18452}{\i1}Poznałam go, gdy szukał portfela mojej\Nbabci, nie bojąc się umazać cały błotem.
+Dialogue: 0,0:00:18.45,0:00:23.38,Default,,0,0,0,,{TIME:18452,23386}{\i1}Wciąż pamiętam jego uśmiech,\Nkiedy wreszcie odnalazł portfel.
+Dialogue: 0,0:00:25.75,0:00:29.78,Default,,0,0,0,,{TIME:25752,29786}{\i1}Nigdy go nie zapomnę.
+Dialogue: 0,0:00:33.18,0:00:36.05,Default,,0,0,0,,{TIME:33186,36052}{\i1}Był ubrany jak buddyjski mnich.
+Dialogue: 0,0:00:36.95,0:00:39.05,Default,,0,0,0,,{TIME:36952,39052}{\i1}Tak chciałabym\Ngo znowu spotkać.
+Dialogue: 0,0:00:41.01,0:00:42.55,Default,,0,0,0,,{TIME:41019,42552}{\i1}Jeszcze jeden raz.
 Dialogue: 0,0:01:04.55,0:01:09.75,Default,,0,0,0,,{TIME:64552,69752}Chodź połączeni z tym światem,\Nnie należą do niego.
 Dialogue: 0,0:01:09.75,0:01:14.11,Default,,0,0,0,,{TIME:69752,74119}Chodź połączeni z tamtym światem,\Nnie należą do niego.
 Dialogue: 0,0:01:14.11,0:01:19.25,Default,,0,0,0,,{TIME:74119,79252}Gniew, zemsta, złośliwość.
@@ -36,339 +35,331 @@ Dialogue: 0,0:01:24.95,0:01:28.48,Default,,0,0,0,,{TIME:84952,88486}Bóstwa opie
 Comment: 0,0:01:28.48,0:01:28.48,Default,[chapter],0,0,0,,{TIME:88486,88486}Opening
 Dialogue: 0,0:01:29.71,0:01:34.18,Default,(sign),0,0,0,,{TIME:89719,94186}{\blur0.5\move(320,400,320,385)\an5\t(0,5000,\fscx90\fscy90)\1c&H78D5F1&\bord0}Bóstwa Opiekuńcze Naszych Czasów\N{\1c&H615DBA&\3c&HB4B0D0&\bord5\fs70\fnDoubledecker DEMO}Rodzina Pi-hyoro!
 Comment: 0,0:02:51.01,0:02:51.01,Default,[chapter],0,0,0,,{TIME:171019,171019}Część główna
-Dialogue: 0,0:02:51.71,0:02:54.98,Default,,0,0,0,,{TIME:171719,174986}
-Dialogue: 0,0:02:54.98,0:02:58.61,Default,,0,0,0,,{TIME:174986,178619}
-Dialogue: 0,0:02:58.98,0:03:03.91,Default,,0,0,0,,{TIME:178986,183919}
-Dialogue: 0,0:03:03.91,0:03:05.21,Default,,0,0,0,,{TIME:183919,185219}
-Dialogue: 0,0:03:05.21,0:03:07.98,Default,,0,0,0,,{TIME:185219,187986}
-Dialogue: 0,0:03:07.98,0:03:09.15,Default,,0,0,0,,{TIME:187986,189152}
-Dialogue: 0,0:03:09.15,0:03:11.38,Default,,0,0,0,,{TIME:189152,191386}
-Dialogue: 0,0:03:11.38,0:03:13.38,Default,,0,0,0,,{TIME:191386,193386}
-Dialogue: 0,0:03:14.21,0:03:19.88,Default,,0,0,0,,{TIME:194219,199886}
-Dialogue: 0,0:03:24.61,0:03:26.61,Default,,0,0,0,,{TIME:204619,206619}
+Dialogue: 0,0:02:51.71,0:02:54.98,Default,,0,0,0,,{TIME:171719,174986}Naprawdę nie może pan zostać\Nani chwili dłużej, sensei?
+Dialogue: 0,0:02:54.98,0:02:58.61,Default,,0,0,0,,{TIME:174986,178619}To był mój ostatni pogrzeb na dzisiaj,\Nwięc będę już się zbierał.
+Dialogue: 0,0:02:58.98,0:03:03.91,Default,,0,0,0,,{TIME:178986,183919}Proszę już nie być takim formalistą.\NJeśli pan zostanie, zrobię panu obiad!
+Dialogue: 0,0:03:03.91,0:03:07.98,Default,,0,0,0,,{TIME:183919,187986}Niestety, jeśli chodzi o obiad,\Nto siostra już czeka z nim na mnie w domu.
+Dialogue: 0,0:03:04.61,0:03:07.41,Default,,0,0,0,,{TIME:184619,187419}{\an8}Proszę zostać.
+Dialogue: 0,0:03:07.98,0:03:09.15,Default,,0,0,0,,{TIME:187986,189152}Chociaż chwilkę, sensei.
+Dialogue: 0,0:03:09.15,0:03:11.38,Default,,0,0,0,,{TIME:189152,191386}Dziękuję za gościnę.\NDo widzenia!
+Dialogue: 0,0:03:11.38,0:03:13.38,Default,,0,0,0,,{TIME:191386,193386}Ach, sensei…
+Dialogue: 0,0:03:14.21,0:03:19.88,Default,,0,0,0,,{TIME:194219,199886}Co jest z tymi wszystkimi wdówkami,\Nże tak lecą na mnichów?
+Dialogue: 0,0:03:24.61,0:03:26.61,Default,,0,0,0,,{TIME:204619,206619}Jakiś wypadek?
 Dialogue: 1,0:03:30.88,0:03:38.58,Default,[title],0,0,0,,{TIME:210886,218586}{\blur10\bord0\t(0,1500,\blur0)\fad(1000,1500)}„Labirynt ze Śniegu”
-Dialogue: 0,0:03:36.81,0:03:40.65,Sign,(sign),0,0,0,,{TIME:216819,220652}{\1c&H101010&\3c&H101010&\4c&H101010&\t(0,1500,\1c&HA5DFFF&\3c&H202020&\4c&H202020&)}Hōenji
-Dialogue: 0,0:03:38.78,0:03:40.65,Default,,0,0,0,,{TIME:218786,220652}
-Dialogue: 0,0:03:42.41,0:03:46.91,Default,,0,0,0,,{TIME:222419,226919}
-Dialogue: 0,0:03:46.91,0:03:52.25,Default,,0,0,0,,{TIME:226919,232252}
-Dialogue: 0,0:03:52.25,0:03:54.95,Default,,0,0,0,,{TIME:232252,234952}
-Dialogue: 0,0:03:54.95,0:03:57.48,Default,,0,0,0,,{TIME:234952,237486}
-Dialogue: 0,0:03:57.48,0:04:02.61,Default,,0,0,0,,{TIME:237486,242619}
-Dialogue: 0,0:04:02.61,0:04:04.31,Default,,0,0,0,,{TIME:242619,244319}
-Dialogue: 0,0:04:04.31,0:04:05.91,Default,,0,0,0,,{TIME:244319,245919}
-Dialogue: 0,0:04:05.91,0:04:08.65,Default,,0,0,0,,{TIME:245919,248652}
-Dialogue: 0,0:04:08.88,0:04:11.68,Default,,0,0,0,,{TIME:248886,251686}
-Dialogue: 0,0:04:14.05,0:04:15.61,Default,,0,0,0,,{TIME:254052,255619}
-Dialogue: 0,0:04:18.05,0:04:21.38,Default,,0,0,0,,{TIME:258052,261386}
-Dialogue: 0,0:04:21.78,0:04:24.38,Default,,0,0,0,,{TIME:261786,264386}
-Dialogue: 0,0:04:24.55,0:04:26.75,Default,,0,0,0,,{TIME:264552,266752}
-Dialogue: 0,0:04:27.81,0:04:29.31,Default,,0,0,0,,{TIME:267819,269319}
-Dialogue: 0,0:04:29.31,0:04:31.31,Default,,0,0,0,,{TIME:269319,271319}
-Dialogue: 0,0:04:32.61,0:04:35.25,Default,,0,0,0,,{TIME:272619,275252}
-Dialogue: 0,0:04:35.25,0:04:41.01,Default,,0,0,0,,{TIME:275252,281019}
-Dialogue: 0,0:04:42.21,0:04:44.95,Default,,0,0,0,,{TIME:282219,284952}
-Dialogue: 0,0:04:44.95,0:04:46.31,Default,,0,0,0,,{TIME:284952,286319}
-Dialogue: 0,0:04:53.95,0:04:57.41,Default,,0,0,0,,{TIME:293952,297419}
-Dialogue: 0,0:04:57.41,0:04:59.41,Default,,0,0,0,,{TIME:297419,299419}
-Dialogue: 0,0:04:59.41,0:05:00.08,Default,,0,0,0,,{TIME:299419,300086}
-Dialogue: 0,0:05:01.18,0:05:06.11,Default,,0,0,0,,{TIME:301186,306119}
-Dialogue: 0,0:05:11.65,0:05:12.98,Default,,0,0,0,,{TIME:311652,312986}
-Dialogue: 0,0:05:12.98,0:05:14.41,Default,,0,0,0,,{TIME:312986,314419}
-Dialogue: 0,0:05:14.41,0:05:17.11,Default,,0,0,0,,{TIME:314419,317119}
-Dialogue: 0,0:05:21.11,0:05:24.11,Default,,0,0,0,,{TIME:321119,324119}
-Dialogue: 0,0:05:24.88,0:05:27.25,Default,,0,0,0,,{TIME:324886,327252}
-Dialogue: 0,0:05:30.38,0:05:32.05,Default,,0,0,0,,{TIME:330386,332052}
-Dialogue: 0,0:05:37.65,0:05:38.75,Default,,0,0,0,,{TIME:337652,338752}
-Dialogue: 0,0:05:43.75,0:05:47.75,Default,(sign),0,0,0,,{TIME:343752,347752}
-Dialogue: 0,0:05:44.55,0:05:47.75,Default,,0,0,0,,{TIME:344552,347752}
-Dialogue: 0,0:05:48.91,0:05:51.81,Default,,0,0,0,,{TIME:348919,351819}
-Dialogue: 0,0:05:51.81,0:05:54.11,Default,,0,0,0,,{TIME:351819,354119}
-Dialogue: 0,0:05:54.11,0:05:57.05,Default,,0,0,0,,{TIME:354119,357052}
-Dialogue: 0,0:05:57.05,0:05:59.18,Default,,0,0,0,,{TIME:357052,359186}
-Dialogue: 0,0:05:59.18,0:06:01.41,Default,,0,0,0,,{TIME:359186,361419}
-Dialogue: 0,0:06:01.41,0:06:04.21,Default,,0,0,0,,{TIME:361419,364219}
-Dialogue: 0,0:06:04.21,0:06:05.48,Default,,0,0,0,,{TIME:364219,365486}
-Dialogue: 0,0:06:05.48,0:06:09.05,Default,,0,0,0,,{TIME:365486,369052}
-Dialogue: 0,0:06:09.05,0:06:13.31,Default,,0,0,0,,{TIME:369052,373319}
-Dialogue: 0,0:06:13.31,0:06:15.11,Default,,0,0,0,,{TIME:373319,375119}
-Dialogue: 0,0:06:15.11,0:06:18.41,Default,,0,0,0,,{TIME:375119,378419}
-Dialogue: 0,0:06:18.41,0:06:20.41,Default,,0,0,0,,{TIME:378419,380419}
-Dialogue: 0,0:06:26.45,0:06:29.21,Default,,0,0,0,,{TIME:386452,389219}
-Dialogue: 0,0:06:32.95,0:06:38.71,Default,,0,0,0,,{TIME:392952,398719}
-Dialogue: 0,0:06:52.91,0:06:54.45,Default,,0,0,0,,{TIME:412919,414452}
-Dialogue: 0,0:06:55.08,0:06:57.15,Default,,0,0,0,,{TIME:415086,417152}
-Dialogue: 0,0:06:57.15,0:06:59.45,Default,,0,0,0,,{TIME:417152,419452}
-Dialogue: 0,0:06:59.45,0:07:01.31,Default,,0,0,0,,{TIME:419452,421319}
-Dialogue: 0,0:07:01.31,0:07:03.81,Default,,0,0,0,,{TIME:421319,423819}
-Dialogue: 0,0:07:03.81,0:07:06.15,Default,,0,0,0,,{TIME:423819,426152}
-Dialogue: 0,0:07:07.68,0:07:12.48,Default,,0,0,0,,{TIME:427686,432486}
-Dialogue: 0,0:07:12.48,0:07:15.98,Default,,0,0,0,,{TIME:432486,435986}
-Dialogue: 0,0:07:16.78,0:07:19.08,Default,,0,0,0,,{TIME:436786,439086}
-Dialogue: 0,0:07:19.08,0:07:21.75,Default,,0,0,0,,{TIME:439086,441752}
-Dialogue: 0,0:07:21.75,0:07:23.85,Default,,0,0,0,,{TIME:441752,443852}
-Dialogue: 0,0:07:39.11,0:07:40.31,Default,,0,0,0,,{TIME:459119,460319}
-Dialogue: 0,0:07:41.08,0:07:43.05,Default,,0,0,0,,{TIME:461086,463052}
-Dialogue: 0,0:07:46.08,0:07:47.95,Default,,0,0,0,,{TIME:466086,467952}
-Dialogue: 0,0:07:48.11,0:07:51.35,Default,,0,0,0,,{TIME:468119,471352}
-Dialogue: 0,0:07:51.35,0:07:55.01,Default,,0,0,0,,{TIME:471352,475019}
-Dialogue: 0,0:08:01.88,0:08:05.48,Default,,0,0,0,,{TIME:481886,485486}
-Dialogue: 0,0:08:09.25,0:08:10.98,Default,,0,0,0,,{TIME:489252,490986}
-Dialogue: 0,0:08:12.41,0:08:16.18,Default,,0,0,0,,{TIME:492419,496186}
-Dialogue: 0,0:08:16.18,0:08:18.75,Default,,0,0,0,,{TIME:496186,498752}
-Dialogue: 0,0:08:18.75,0:08:21.98,Default,,0,0,0,,{TIME:498752,501986}
-Dialogue: 0,0:08:32.11,0:08:33.91,Default,,0,0,0,,{TIME:512119,513919}
-Dialogue: 0,0:08:38.58,0:08:41.61,Default,,0,0,0,,{TIME:518586,521619}
-Dialogue: 0,0:08:43.18,0:08:45.45,Default,,0,0,0,,{TIME:523186,525452}
-Dialogue: 0,0:08:45.45,0:08:46.85,Default,,0,0,0,,{TIME:525452,526852}
-Dialogue: 0,0:08:46.85,0:08:50.75,Default,,0,0,0,,{TIME:526852,530752}
-Dialogue: 0,0:08:51.91,0:08:54.65,Default,,0,0,0,,{TIME:531919,534652}
-Dialogue: 0,0:08:54.65,0:08:57.45,Default,,0,0,0,,{TIME:534652,537452}
-Dialogue: 0,0:08:57.45,0:08:59.71,Default,,0,0,0,,{TIME:537452,539719}
-Dialogue: 0,0:08:59.71,0:09:02.98,Default,,0,0,0,,{TIME:539719,542986}
-Dialogue: 0,0:09:04.31,0:09:07.41,Default,,0,0,0,,{TIME:544319,547419}
-Dialogue: 0,0:09:07.41,0:09:09.51,Default,,0,0,0,,{TIME:547419,549519}
-Dialogue: 0,0:09:09.51,0:09:11.05,Default,,0,0,0,,{TIME:549519,551052}
-Dialogue: 0,0:09:11.05,0:09:12.95,Default,,0,0,0,,{TIME:551052,552952}
-Dialogue: 0,0:09:26.98,0:09:28.41,Default,,0,0,0,,{TIME:566986,568419}
-Dialogue: 0,0:09:30.45,0:09:32.61,Default,,0,0,0,,{TIME:570452,572619}
-Dialogue: 0,0:09:32.61,0:09:34.15,Default,,0,0,0,,{TIME:572619,574152}
-Dialogue: 0,0:09:39.11,0:09:40.51,Default,,0,0,0,,{TIME:579119,580519}
-Dialogue: 0,0:09:40.51,0:09:42.51,Default,,0,0,0,,{TIME:580519,582519}
-Dialogue: 0,0:09:47.11,0:09:51.78,Default,,0,0,0,,{TIME:587119,591786}
-Dialogue: 0,0:09:53.25,0:09:54.75,Default,,0,0,0,,{TIME:593252,594752}
-Dialogue: 0,0:09:56.81,0:09:58.71,Default,,0,0,0,,{TIME:596819,598719}
-Dialogue: 0,0:09:58.71,0:10:00.58,Default,,0,0,0,,{TIME:598719,600586}
-Dialogue: 0,0:10:00.58,0:10:02.71,Default,,0,0,0,,{TIME:600586,602719}
-Dialogue: 0,0:10:16.35,0:10:18.48,Default,,0,0,0,,{TIME:616352,618486}
-Dialogue: 0,0:10:26.18,0:10:28.05,Default,,0,0,0,,{TIME:626186,628052}
-Dialogue: 0,0:10:28.05,0:10:29.71,Default,,0,0,0,,{TIME:628052,629719}
-Dialogue: 0,0:10:35.71,0:10:37.65,Default,,0,0,0,,{TIME:635719,637652}
-Dialogue: 0,0:10:41.25,0:10:44.55,Default,,0,0,0,,{TIME:641252,644552}
-Dialogue: 0,0:10:44.55,0:10:47.71,Default,,0,0,0,,{TIME:644552,647719}
-Dialogue: 0,0:10:47.71,0:10:49.81,Default,,0,0,0,,{TIME:647719,649819}
-Dialogue: 0,0:10:54.21,0:10:58.11,Default,,0,0,0,,{TIME:654219,658119}
-Dialogue: 0,0:10:58.11,0:11:00.58,Default,,0,0,0,,{TIME:658119,660586}
-Dialogue: 0,0:11:00.58,0:11:01.95,Default,,0,0,0,,{TIME:660586,661952}
-Dialogue: 0,0:11:04.21,0:11:06.71,Default,,0,0,0,,{TIME:664219,666719}
-Dialogue: 0,0:11:06.71,0:11:07.91,Default,,0,0,0,,{TIME:666719,667919}
-Dialogue: 0,0:11:07.91,0:11:09.81,Default,,0,0,0,,{TIME:667919,669819}
-Dialogue: 0,0:11:09.81,0:11:11.65,Default,,0,0,0,,{TIME:669819,671652}
-Dialogue: 0,0:11:11.65,0:11:13.51,Default,,0,0,0,,{TIME:671652,673519}
-Dialogue: 0,0:11:13.51,0:11:15.48,Default,,0,0,0,,{TIME:673519,675486}
-Dialogue: 0,0:11:15.48,0:11:18.61,Default,,0,0,0,,{TIME:675486,678619}
-Dialogue: 0,0:11:18.61,0:11:22.95,Default,,0,0,0,,{TIME:678619,682952}
-Dialogue: 0,0:11:22.95,0:11:25.35,Default,,0,0,0,,{TIME:682952,685352}
-Dialogue: 0,0:11:25.35,0:11:28.35,Default,,0,0,0,,{TIME:685352,688352}
-Dialogue: 0,0:11:29.98,0:11:31.48,Default,,0,0,0,,{TIME:689986,691486}
-Dialogue: 0,0:11:31.48,0:11:32.68,Default,,0,0,0,,{TIME:691486,692686}
-Dialogue: 0,0:11:32.68,0:11:35.61,Default,,0,0,0,,{TIME:692686,695619}
-Dialogue: 0,0:11:35.61,0:11:40.35,Default,,0,0,0,,{TIME:695619,700352}
-Dialogue: 0,0:11:40.35,0:11:43.45,Default,,0,0,0,,{TIME:700352,703452}
-Dialogue: 0,0:11:43.45,0:11:45.45,Default,,0,0,0,,{TIME:703452,705452}
-Dialogue: 0,0:11:47.55,0:11:49.48,Default,,0,0,0,,{TIME:707552,709486}
-Dialogue: 0,0:11:50.05,0:11:53.25,Default,,0,0,0,,{TIME:710052,713252}
-Dialogue: 0,0:11:53.65,0:11:54.75,Default,,0,0,0,,{TIME:713652,714752}
-Dialogue: 0,0:11:55.71,0:11:58.21,Default,,0,0,0,,{TIME:715719,718219}
-Dialogue: 0,0:12:00.91,0:12:02.51,Default,,0,0,0,,{TIME:720919,722519}
-Dialogue: 0,0:12:02.51,0:12:04.01,Default,,0,0,0,,{TIME:722519,724019}
-Dialogue: 0,0:12:04.01,0:12:05.68,Default,,0,0,0,,{TIME:724019,725686}
-Dialogue: 0,0:12:05.68,0:12:08.11,Default,,0,0,0,,{TIME:725686,728119}
-Dialogue: 0,0:12:11.01,0:12:11.65,Default,,0,0,0,,{TIME:731019,731652}
-Dialogue: 0,0:12:13.45,0:12:15.21,Default,,0,0,0,,{TIME:733452,735219}
-Dialogue: 0,0:12:17.61,0:12:19.41,Default,,0,0,0,,{TIME:737619,739419}
-Dialogue: 0,0:12:19.41,0:12:22.01,Default,,0,0,0,,{TIME:739419,742019}
-Dialogue: 0,0:12:22.01,0:12:24.68,Default,,0,0,0,,{TIME:742019,744686}
-Dialogue: 0,0:12:24.68,0:12:32.68,Default,,0,0,0,,{TIME:744686,752686}
-Dialogue: 0,0:12:32.68,0:12:34.15,Default,,0,0,0,,{TIME:752686,754152}
-Dialogue: 0,0:12:34.15,0:12:37.21,Default,,0,0,0,,{TIME:754152,757219}
-Dialogue: 0,0:12:38.38,0:12:40.51,Default,,0,0,0,,{TIME:758386,760519}
-Dialogue: 0,0:12:40.51,0:12:43.31,Default,,0,0,0,,{TIME:760519,763319}
-Dialogue: 0,0:12:43.31,0:12:47.71,Default,,0,0,0,,{TIME:763319,767719}
-Dialogue: 0,0:12:48.38,0:12:49.65,Default,,0,0,0,,{TIME:768386,769652}
-Dialogue: 0,0:12:49.65,0:12:53.78,Default,,0,0,0,,{TIME:769652,773786}
-Dialogue: 0,0:12:53.78,0:12:56.88,Default,,0,0,0,,{TIME:773786,776886}
-Dialogue: 0,0:12:56.88,0:12:59.18,Default,,0,0,0,,{TIME:776886,779186}
-Dialogue: 0,0:13:05.05,0:13:07.78,Default,,0,0,0,,{TIME:785052,787786}
-Dialogue: 0,0:13:08.31,0:13:11.28,Default,,0,0,0,,{TIME:788319,791286}
-Dialogue: 0,0:13:11.28,0:13:15.11,Default,,0,0,0,,{TIME:791286,795119}
-Dialogue: 0,0:13:15.11,0:13:17.65,Default,,0,0,0,,{TIME:795119,797652}
-Dialogue: 0,0:13:17.65,0:13:20.41,Default,,0,0,0,,{TIME:797652,800419}
-Dialogue: 0,0:13:20.78,0:13:22.91,Default,,0,0,0,,{TIME:800786,802919}
-Dialogue: 0,0:13:24.95,0:13:26.68,Default,,0,0,0,,{TIME:804952,806686}
-Dialogue: 0,0:13:27.41,0:13:31.15,Default,,0,0,0,,{TIME:807419,811152}
-Dialogue: 0,0:13:32.05,0:13:34.15,Default,,0,0,0,,{TIME:812052,814152}
-Dialogue: 0,0:13:34.71,0:13:38.05,Default,,0,0,0,,{TIME:814719,818052}
-Dialogue: 0,0:13:38.05,0:13:41.41,Default,,0,0,0,,{TIME:818052,821419}
-Dialogue: 0,0:13:41.41,0:13:44.81,Default,,0,0,0,,{TIME:821419,824819}
-Dialogue: 0,0:13:44.81,0:13:47.71,Default,,0,0,0,,{TIME:824819,827719}
-Dialogue: 0,0:13:47.71,0:13:53.18,Default,,0,0,0,,{TIME:827719,833186}
-Dialogue: 0,0:13:53.68,0:13:55.45,Default,,0,0,0,,{TIME:833686,835452}
-Dialogue: 0,0:13:55.45,0:14:00.41,Default,,0,0,0,,{TIME:835452,840419}
-Dialogue: 0,0:14:05.58,0:14:07.65,Default,,0,0,0,,{TIME:845586,847652}
-Dialogue: 0,0:14:07.91,0:14:10.95,Default,,0,0,0,,{TIME:847919,850952}
-Dialogue: 0,0:14:11.35,0:14:14.81,Default,,0,0,0,,{TIME:851352,854819}
-Dialogue: 0,0:14:16.11,0:14:20.55,Default,,0,0,0,,{TIME:856119,860552}
-Dialogue: 0,0:14:20.55,0:14:23.61,Default,,0,0,0,,{TIME:860552,863619}
-Dialogue: 0,0:14:23.61,0:14:27.11,Default,,0,0,0,,{TIME:863619,867119}
-Dialogue: 0,0:14:27.11,0:14:28.61,Default,,0,0,0,,{TIME:867119,868619}
-Dialogue: 0,0:14:28.61,0:14:30.21,Default,,0,0,0,,{TIME:868619,870219}
-Dialogue: 0,0:14:30.21,0:14:32.45,Default,,0,0,0,,{TIME:870219,872452}
-Dialogue: 0,0:14:33.01,0:14:34.95,Default,,0,0,0,,{TIME:873019,874952}
-Dialogue: 0,0:14:34.95,0:14:37.25,Default,,0,0,0,,{TIME:874952,877252}
-Dialogue: 0,0:14:37.25,0:14:38.65,Default,,0,0,0,,{TIME:877252,878652}
-Dialogue: 0,0:14:38.65,0:14:40.05,Default,,0,0,0,,{TIME:878652,880052}
-Dialogue: 0,0:14:40.05,0:14:41.55,Default,,0,0,0,,{TIME:880052,881552}
-Dialogue: 0,0:14:41.55,0:14:43.18,Default,,0,0,0,,{TIME:881552,883186}
-Dialogue: 0,0:14:47.01,0:14:49.08,Default,,0,0,0,,{TIME:887019,889086}
-Dialogue: 0,0:14:49.08,0:14:51.91,Default,,0,0,0,,{TIME:889086,891919}
-Dialogue: 0,0:14:51.91,0:14:54.71,Default,,0,0,0,,{TIME:891919,894719}
-Dialogue: 0,0:14:56.05,0:14:58.75,Default,,0,0,0,,{TIME:896052,898752}
-Dialogue: 0,0:14:59.21,0:15:01.75,Default,,0,0,0,,{TIME:899219,901752}
-Dialogue: 0,0:15:02.18,0:15:04.35,Default,,0,0,0,,{TIME:902186,904352}
-Dialogue: 0,0:15:04.35,0:15:06.11,Default,,0,0,0,,{TIME:904352,906119}
-Dialogue: 0,0:15:06.11,0:15:08.11,Default,,0,0,0,,{TIME:906119,908119}
-Dialogue: 0,0:15:15.58,0:15:17.08,Default,,0,0,0,,{TIME:915586,917086}
-Dialogue: 0,0:15:17.08,0:15:20.88,Default,,0,0,0,,{TIME:917086,920886}
-Dialogue: 0,0:15:20.88,0:15:24.35,Default,,0,0,0,,{TIME:920886,924352}
-Dialogue: 0,0:15:24.35,0:15:27.18,Default,,0,0,0,,{TIME:924352,927186}
-Dialogue: 0,0:15:27.65,0:15:30.35,Default,,0,0,0,,{TIME:927652,930352}
-Dialogue: 0,0:15:30.35,0:15:31.68,Default,,0,0,0,,{TIME:930352,931686}
-Dialogue: 0,0:15:31.68,0:15:33.51,Default,,0,0,0,,{TIME:931686,933519}
-Dialogue: 0,0:15:33.51,0:15:36.48,Default,,0,0,0,,{TIME:933519,936486}
-Dialogue: 0,0:15:36.48,0:15:37.18,Default,,0,0,0,,{TIME:936486,937186}
-Dialogue: 0,0:15:37.18,0:15:41.18,Default,,0,0,0,,{TIME:937186,941186}
-Dialogue: 0,0:15:42.01,0:15:43.71,Default,,0,0,0,,{TIME:942019,943719}
-Dialogue: 0,0:15:43.71,0:15:46.18,Default,,0,0,0,,{TIME:943719,946186}
-Dialogue: 0,0:15:50.11,0:15:52.21,Default,,0,0,0,,{TIME:950119,952219}
-Dialogue: 0,0:15:55.21,0:15:57.71,Default,,0,0,0,,{TIME:955219,957719}
-Dialogue: 0,0:15:58.08,0:16:02.11,Default,,0,0,0,,{TIME:958086,962119}
-Dialogue: 0,0:16:14.05,0:16:15.71,Default,,0,0,0,,{TIME:974052,975719}
-Dialogue: 0,0:16:17.48,0:16:18.88,Default,,0,0,0,,{TIME:977486,978886}
-Dialogue: 0,0:16:19.71,0:16:22.41,Default,,0,0,0,,{TIME:979719,982419}
-Dialogue: 0,0:16:22.41,0:16:24.48,Default,,0,0,0,,{TIME:982419,984486}
-Dialogue: 0,0:16:24.48,0:16:25.85,Default,,0,0,0,,{TIME:984486,985852}
-Dialogue: 0,0:16:26.68,0:16:29.38,Default,,0,0,0,,{TIME:986686,989386}
-Dialogue: 0,0:16:33.08,0:16:36.11,Default,,0,0,0,,{TIME:993086,996119}
-Dialogue: 0,0:16:36.11,0:16:38.11,Default,,0,0,0,,{TIME:996119,998119}
-Dialogue: 0,0:16:46.61,0:16:48.38,Default,,0,0,0,,{TIME:1006619,1008386}
-Dialogue: 0,0:16:48.38,0:16:53.05,Default,,0,0,0,,{TIME:1008386,1013052}
-Dialogue: 0,0:16:53.05,0:16:56.88,Default,,0,0,0,,{TIME:1013052,1016886}
-Dialogue: 0,0:16:56.88,0:16:59.65,Default,,0,0,0,,{TIME:1016886,1019652}
-Dialogue: 0,0:17:03.35,0:17:05.01,Default,,0,0,0,,{TIME:1023352,1025019}
-Dialogue: 0,0:17:11.51,0:17:12.51,Default,,0,0,0,,{TIME:1031519,1032519}
-Dialogue: 0,0:17:13.91,0:17:15.61,Default,,0,0,0,,{TIME:1033919,1035619}
-Dialogue: 0,0:17:18.38,0:17:19.78,Default,,0,0,0,,{TIME:1038386,1039786}
-Dialogue: 0,0:17:23.31,0:17:28.65,Default,,0,0,0,,{TIME:1043319,1048652}
-Dialogue: 0,0:17:28.65,0:17:30.58,Default,,0,0,0,,{TIME:1048652,1050586}
-Dialogue: 0,0:17:35.08,0:17:36.25,Default,,0,0,0,,{TIME:1055086,1056252}
-Dialogue: 0,0:17:36.25,0:17:37.55,Default,,0,0,0,,{TIME:1056252,1057552}
-Dialogue: 0,0:17:37.55,0:17:39.35,Default,,0,0,0,,{TIME:1057552,1059352}
-Dialogue: 0,0:17:40.58,0:17:43.95,Default,,0,0,0,,{TIME:1060586,1063952}
-Dialogue: 0,0:17:43.95,0:17:45.18,Default,,0,0,0,,{TIME:1063952,1065186}
-Dialogue: 0,0:17:46.18,0:17:47.81,Default,,0,0,0,,{TIME:1066186,1067819}
-Dialogue: 0,0:17:49.81,0:17:52.81,Default,,0,0,0,,{TIME:1069819,1072819}
-Dialogue: 0,0:17:53.18,0:17:55.58,Default,,0,0,0,,{TIME:1073186,1075586}
-Dialogue: 0,0:17:55.58,0:18:00.98,Default,,0,0,0,,{TIME:1075586,1080986}
-Dialogue: 0,0:18:00.98,0:18:02.15,Default,,0,0,0,,{TIME:1080986,1082152}
-Dialogue: 0,0:18:02.15,0:18:06.45,Default,,0,0,0,,{TIME:1082152,1086452}
-Dialogue: 0,0:18:06.45,0:18:09.55,Default,,0,0,0,,{TIME:1086452,1089552}
-Dialogue: 0,0:18:09.55,0:18:12.28,Default,,0,0,0,,{TIME:1089552,1092286}
-Dialogue: 0,0:18:12.28,0:18:15.35,Default,,0,0,0,,{TIME:1092286,1095352}
-Dialogue: 0,0:18:15.61,0:18:18.35,Default,,0,0,0,,{TIME:1095619,1098352}
-Dialogue: 0,0:18:25.68,0:18:27.11,Default,,0,0,0,,{TIME:1105686,1107119}
-Dialogue: 0,0:18:28.45,0:18:30.85,Default,,0,0,0,,{TIME:1108452,1110852}
-Dialogue: 0,0:18:35.15,0:18:38.88,Default,,0,0,0,,{TIME:1115152,1118886}
-Dialogue: 0,0:18:39.75,0:18:40.88,Default,,0,0,0,,{TIME:1119752,1120886}
-Dialogue: 0,0:18:41.15,0:18:43.91,Default,,0,0,0,,{TIME:1121152,1123919}
-Dialogue: 0,0:18:43.91,0:18:47.38,Default,,0,0,0,,{TIME:1123919,1127386}
-Dialogue: 0,0:18:52.08,0:18:53.65,Default,,0,0,0,,{TIME:1132086,1133652}
-Dialogue: 0,0:19:23.78,0:19:26.05,Default,,0,0,0,,{TIME:1163786,1166052}
-Dialogue: 0,0:19:26.05,0:19:28.35,Default,,0,0,0,,{TIME:1166052,1168352}
-Dialogue: 0,0:19:28.71,0:19:30.61,Default,,0,0,0,,{TIME:1168719,1170619}
-Dialogue: 0,0:19:31.41,0:19:34.81,Default,,0,0,0,,{TIME:1171419,1174819}
-Dialogue: 0,0:19:37.65,0:19:40.51,Default,,0,0,0,,{TIME:1177652,1180519}
-Dialogue: 0,0:19:42.58,0:19:46.31,Default,,0,0,0,,{TIME:1182586,1186319}
-Dialogue: 0,0:19:46.31,0:19:50.15,Default,,0,0,0,,{TIME:1186319,1190152}
-Dialogue: 0,0:19:50.35,0:19:52.18,Default,,0,0,0,,{TIME:1190352,1192186}
-Dialogue: 0,0:19:52.18,0:19:56.38,Default,,0,0,0,,{TIME:1192186,1196386}
-Dialogue: 0,0:19:56.65,0:19:58.65,Default,,0,0,0,,{TIME:1196652,1198652}
-Dialogue: 0,0:20:00.11,0:20:05.15,Default,,0,0,0,,{TIME:1200119,1205152}
-Dialogue: 0,0:20:08.58,0:20:11.45,Default,,0,0,0,,{TIME:1208586,1211452}
-Dialogue: 0,0:20:11.45,0:20:16.15,Default,,0,0,0,,{TIME:1211452,1216152}
-Dialogue: 0,0:20:17.35,0:20:19.25,Default,,0,0,0,,{TIME:1217352,1219252}
-Dialogue: 0,0:20:19.25,0:20:24.38,Default,,0,0,0,,{TIME:1219252,1224386}
-Dialogue: 0,0:20:24.75,0:20:26.65,Default,,0,0,0,,{TIME:1224752,1226652}
-Dialogue: 0,0:20:29.51,0:20:34.55,Default,,0,0,0,,{TIME:1229519,1234552}
-Dialogue: 0,0:20:38.81,0:20:40.35,Default,,0,0,0,,{TIME:1238819,1240352}
-Dialogue: 0,0:20:40.35,0:20:42.35,Default,,0,0,0,,{TIME:1240352,1242352}
-Dialogue: 0,0:20:43.28,0:20:47.31,Default,,0,0,0,,{TIME:1243286,1247319}
-Dialogue: 0,0:20:47.31,0:20:51.71,Default,,0,0,0,,{TIME:1247319,1251719}
-Dialogue: 0,0:20:52.75,0:20:54.91,Default,,0,0,0,,{TIME:1252752,1254919}
-Dialogue: 0,0:20:54.91,0:20:56.61,Default,,0,0,0,,{TIME:1254919,1256619}
-Dialogue: 0,0:20:56.85,0:20:59.05,Default,,0,0,0,,{TIME:1256852,1259052}
-Dialogue: 0,0:21:04.38,0:21:07.95,Default,,0,0,0,,{TIME:1264386,1267952}
-Dialogue: 0,0:21:07.95,0:21:12.31,Default,,0,0,0,,{TIME:1267952,1272319}
-Dialogue: 0,0:21:12.31,0:21:14.31,Default,,0,0,0,,{TIME:1272319,1274319}
-Dialogue: 0,0:21:17.85,0:21:19.88,Default,,0,0,0,,{TIME:1277852,1279886}
-Dialogue: 0,0:21:19.88,0:21:21.41,Default,,0,0,0,,{TIME:1279886,1281419}
-Dialogue: 0,0:21:21.98,0:21:24.98,Default,,0,0,0,,{TIME:1281986,1284986}
-Dialogue: 0,0:21:24.98,0:21:28.68,Default,,0,0,0,,{TIME:1284986,1288686}
-Dialogue: 0,0:21:28.68,0:21:32.11,Default,,0,0,0,,{TIME:1288686,1292119}
-Dialogue: 0,0:21:32.11,0:21:36.28,Default,,0,0,0,,{TIME:1292119,1296286}
-Dialogue: 0,0:21:36.28,0:21:37.45,Default,,0,0,0,,{TIME:1296286,1297452}
-Dialogue: 0,0:21:37.45,0:21:38.71,Default,,0,0,0,,{TIME:1297452,1298719}
-Dialogue: 0,0:21:41.75,0:21:44.01,Default,,0,0,0,,{TIME:1301752,1304019}
-Dialogue: 0,0:21:44.41,0:21:46.85,Default,,0,0,0,,{TIME:1304419,1306852}
-Dialogue: 0,0:21:49.48,0:21:52.01,Default,,0,0,0,,{TIME:1309486,1312019}
-Dialogue: 0,0:21:52.01,0:21:54.71,Default,,0,0,0,,{TIME:1312019,1314719}
-Dialogue: 0,0:21:57.41,0:22:00.25,Default,,0,0,0,,{TIME:1317419,1320252}
-Dialogue: 0,0:22:01.35,0:22:03.25,Default,,0,0,0,,{TIME:1321352,1323252}
-Dialogue: 0,0:22:03.25,0:22:04.71,Default,,0,0,0,,{TIME:1323252,1324719}
-Dialogue: 0,0:22:06.05,0:22:11.51,Default,,0,0,0,,{TIME:1326052,1331519}
-Dialogue: 0,0:22:11.51,0:22:13.71,Default,,0,0,0,,{TIME:1331519,1333719}
-Dialogue: 0,0:22:15.28,0:22:17.71,Default,,0,0,0,,{TIME:1335286,1337719}
-Dialogue: 0,0:22:29.11,0:22:31.11,Default,,0,0,0,,{TIME:1349119,1351119}
-Dialogue: 0,0:22:31.98,0:22:34.65,Default,,0,0,0,,{TIME:1351986,1354652}
-Dialogue: 0,0:22:36.91,0:22:40.91,Default,,0,0,0,,{TIME:1356919,1360919}
-Dialogue: 0,0:22:43.41,0:22:44.41,Default,,0,0,0,,{TIME:1363419,1364419}
-Dialogue: 0,0:22:45.45,0:22:48.38,Default,,0,0,0,,{TIME:1365452,1368386}
-Dialogue: 0,0:22:48.81,0:22:50.55,Default,,0,0,0,,{TIME:1368819,1370552}
-Dialogue: 0,0:22:50.55,0:22:52.31,Default,,0,0,0,,{TIME:1370552,1372319}
-Dialogue: 0,0:22:52.98,0:22:54.05,Default,,0,0,0,,{TIME:1372986,1374052}
-Dialogue: 0,0:22:54.05,0:22:56.31,Default,,0,0,0,,{TIME:1374052,1376319}
-Dialogue: 0,0:23:21.61,0:23:24.98,Default,,0,0,0,,{TIME:1401619,1404986}
-Dialogue: 0,0:23:27.85,0:23:29.25,Default,,0,0,0,,{TIME:1407852,1409252}
-Dialogue: 0,0:23:31.45,0:23:32.81,Default,,0,0,0,,{TIME:1411452,1412819}
-Dialogue: 0,0:23:32.81,0:23:34.18,Default,,0,0,0,,{TIME:1412819,1414186}
-Dialogue: 0,0:23:41.75,0:23:42.71,Default,,0,0,0,,{TIME:1421752,1422719}
-Dialogue: 0,0:23:42.95,0:23:44.65,Default,,0,0,0,,{TIME:1422952,1424652}
-Dialogue: 0,0:23:44.65,0:23:46.65,Default,,0,0,0,,{TIME:1424652,1426652}
-Dialogue: 0,0:23:47.95,0:23:49.78,Default,,0,0,0,,{TIME:1427952,1429786}
-Dialogue: 0,0:23:59.91,0:24:01.91,Default,,0,0,0,,{TIME:1439919,1441919}
-Dialogue: 0,0:24:01.91,0:24:05.58,Default,,0,0,0,,{TIME:1441919,1445586}
-Dialogue: 0,0:24:07.01,0:24:08.71,Default,,0,0,0,,{TIME:1447019,1448719}
-Dialogue: 0,0:24:28.01,0:24:30.05,Default,,0,0,0,,{TIME:1468019,1470052}
-Dialogue: 0,0:24:30.05,0:24:32.41,Default,,0,0,0,,{TIME:1470052,1472419}
-Dialogue: 0,0:24:35.61,0:24:39.85,Default,,0,0,0,,{TIME:1475619,1479852}
-Dialogue: 0,0:24:39.85,0:24:42.25,Default,,0,0,0,,{TIME:1479852,1482252}
-Dialogue: 0,0:24:42.25,0:24:44.45,Default,,0,0,0,,{TIME:1482252,1484452}
-Dialogue: 0,0:24:44.58,0:24:49.95,Default,,0,0,0,,{TIME:1484586,1489952}
-Dialogue: 0,0:24:50.41,0:24:53.88,Default,,0,0,0,,{TIME:1490419,1493886}
-Dialogue: 0,0:24:53.88,0:24:56.95,Default,,0,0,0,,{TIME:1493886,1496952}
-Dialogue: 0,0:24:57.78,0:25:00.41,Default,,0,0,0,,{TIME:1497786,1500419}
-Dialogue: 0,0:25:01.21,0:25:02.25,Default,,0,0,0,,{TIME:1501219,1502252}
-Dialogue: 0,0:25:02.25,0:25:03.81,Default,,0,0,0,,{TIME:1502252,1503819}
-Dialogue: 0,0:25:03.81,0:25:06.48,Default,,0,0,0,,{TIME:1503819,1506486}
-Dialogue: 0,0:25:15.31,0:25:18.21,Default,,0,0,0,,{TIME:1515319,1518219}
-Dialogue: 0,0:25:51.08,0:25:52.91,Default,,0,0,0,,{TIME:1551086,1552919}
-Dialogue: 0,0:25:53.88,0:25:56.11,Default,,0,0,0,,{TIME:1553886,1556119}
-Dialogue: 0,0:25:56.11,0:25:58.11,Default,,0,0,0,,{TIME:1556119,1558119}
+Dialogue: 0,0:03:36.81,0:03:40.65,Sign,(sign),0,0,0,,{TIME:216819,220652}{\1c&H101010&\3c&H101010&\4c&H101010&\t(0,1500,\1c&HA5DFFF&\3c&H202020&\4c&H202020&)}Hōnenji
+Dialogue: 0,0:03:38.78,0:03:40.65,Default,,0,0,0,,{TIME:218786,220652}Się masz, brachol.
+Dialogue: 0,0:03:42.41,0:03:46.91,Default,,0,0,0,,{TIME:222419,226919}Nawiasem mówiąc, macie już plany\Nna Święta Bożego Narodzenia?
+Dialogue: 0,0:03:46.91,0:03:52.25,Default,,0,0,0,,{TIME:226919,232252}No pewnie. Ja idę z kumplem ze szkoły\Nna świąteczny koncert Otometai.
+Dialogue: 0,0:03:52.25,0:03:54.95,Default,,0,0,0,,{TIME:232252,234952}A Kibatta-neechan i Kyūta-niichan\Nponoć będą na randkach.
+Dialogue: 0,0:03:54.95,0:03:57.48,Default,,0,0,0,,{TIME:234952,237486}No proszę, nie wiedziałem,\Nże im amory w głowie.
+Dialogue: 0,0:03:57.48,0:04:02.61,Default,,0,0,0,,{TIME:237486,242619}Rozumiem jeszcze Kyūtę, ale Kibatta-neesan?\NNo cóż, pewnie to jest już ten wiek.
+Dialogue: 0,0:04:02.61,0:04:04.31,Default,,0,0,0,,{TIME:242619,244319}Kto jest wybrankiem?
+Dialogue: 0,0:04:04.31,0:04:05.91,Default,,0,0,0,,{TIME:244319,245919}Kariya-sensei.
+Dialogue: 0,0:04:05.91,0:04:08.65,Default,,0,0,0,,{TIME:245919,248652}Wiesz, ten koleś z wyspy Ruōgi.
+Dialogue: 0,0:04:08.88,0:04:11.68,Default,,0,0,0,,{TIME:248886,251686}Ach, tamten lekarz\Nrodziny Ikuhashich.
+Dialogue: 0,0:04:14.05,0:04:16.41,Default,,0,0,0,,{TIME:254052,256419}A ty, Kyōta-niichan?\NTeż idziesz na randkę?
+Dialogue: 0,0:04:18.05,0:04:21.78,Default,,0,0,0,,{TIME:258052,261786}On ma tyle wspólnego z randkami\Nco świnka morska ze świnią czy morzem.
+Dialogue: 0,0:04:21.78,0:04:24.38,Default,,0,0,0,,{TIME:261786,264386}Słyszałaś, żeby był\Nna jakiejś kiedykolwiek?
+Dialogue: 0,0:04:24.55,0:04:26.75,Default,,0,0,0,,{TIME:264552,266752}Ale on jest popularny.
+Dialogue: 0,0:04:27.81,0:04:29.31,Default,,0,0,0,,{TIME:267819,269319}Naprawdę!
+Dialogue: 0,0:04:29.31,0:04:31.31,Default,,0,0,0,,{TIME:269319,271319}Wszystkie sąsiadki na niego lecą.
+Dialogue: 0,0:04:32.61,0:04:35.25,Default,,0,0,0,,{TIME:272619,275252}No ale wiesz chyba,\Nco mam na myśli.
+Dialogue: 0,0:04:35.25,0:04:41.01,Default,,0,0,0,,{TIME:275252,281019}Nasz brachol nigdy z nikim nie był. On jest\Npo prostu totalnie na bakier z dziewczynami.
+Dialogue: 0,0:04:42.21,0:04:44.95,Default,,0,0,0,,{TIME:282219,284952}Nie dokuczaj mu już tak,\NKyonta-niichan.
+Dialogue: 0,0:04:44.95,0:04:46.31,Default,,0,0,0,,{TIME:284952,286319}Ale to wszystko prawda.
+Dialogue: 0,0:04:53.95,0:04:57.41,Default,,0,0,0,,{TIME:293952,297419}Och, Kyōta-niichan, miałem na myśli,\Nże jako faceta nie obchodzą cię takie bzdury.
+Dialogue: 0,0:04:57.41,0:04:59.41,Default,,0,0,0,,{TIME:297419,299419}Ach, tak. Bardzo przepraszam.
+Dialogue: 0,0:04:59.41,0:05:00.08,Default,,0,0,0,,{TIME:299419,300086}Gulp.
+Dialogue: 0,0:05:01.18,0:05:06.11,Default,,0,0,0,,{TIME:301186,306119}W końcu jestem na bakier z dziewczynami.\NCo ja tam wiem o miłości!
+Dialogue: 0,0:05:11.65,0:05:12.98,Default,,0,0,0,,{TIME:311652,312986}On to wziął na serio.
+Dialogue: 0,0:05:12.98,0:05:14.41,Default,,0,0,0,,{TIME:312986,314419}To ja zmykam.
+Dialogue: 0,0:05:14.41,0:05:17.11,Default,,0,0,0,,{TIME:314419,317119}A ja chyba zostawiłem\Nwłączone żelazko.
+Dialogue: 0,0:05:21.11,0:05:24.11,Default,,0,0,0,,{TIME:321119,324119}Co za tępak z tego Kyonty.\NI co z tego, że nie byłem nigdy na randce?
+Dialogue: 0,0:05:24.88,0:05:27.25,Default,,0,0,0,,{TIME:324886,327252}Jest mnóstwo innych rzeczy,\Nktóre mnie ekscytują.
+Dialogue: 0,0:05:30.38,0:05:32.05,Default,,0,0,0,,{TIME:330386,332052}Coś, co mnie ekscytuje…
+Dialogue: 0,0:05:37.65,0:05:38.75,Default,,0,0,0,,{TIME:337652,338752}Nic takiego nie ma!
+Dialogue: 0,0:05:43.75,0:05:47.75,Sign,(sign),0,0,0,,{TIME:343752,347752}Nakazato
+Dialogue: 0,0:05:44.55,0:05:47.75,Default,,0,0,0,,{TIME:344552,347752}Och, to ty, Junko-san.\NPrzyszłaś oddać cześć Shinobu?
+Dialogue: 0,0:05:48.91,0:05:54.11,Default,,0,0,0,,{TIME:348919,354119}Jak zobaczyłam cię w tym mundurku,\Npomyślałam przez moment, że to Shinobu.
+Dialogue: 0,0:05:54.11,0:05:57.05,Default,,0,0,0,,{TIME:354119,357052}Bardzo panią przepraszam.
+Dialogue: 0,0:05:57.05,0:05:59.18,Default,,0,0,0,,{TIME:357052,359186}Przestań, dziecko.\NTo ja się wygłupiam.
+Dialogue: 0,0:05:59.18,0:06:01.41,Default,,0,0,0,,{TIME:359186,361419}Proszę, wejdź.
+Dialogue: 0,0:06:01.41,0:06:05.48,Default,,0,0,0,,{TIME:361419,365486}Mam zapoznać Kyōtę-niichan\Nz jakąś dziewczyną? Jak to?
+Dialogue: 0,0:06:05.48,0:06:09.05,Default,,0,0,0,,{TIME:365486,369052}Kyūta-niichan,\Nmasz masę koleżanek, no nie?
+Dialogue: 0,0:06:09.05,0:06:13.31,Default,,0,0,0,,{TIME:369052,373319}Nawet jak bym dał każdej rękę albo nogę,\Nnie dałbym rady zadowolić wszystkich.
+Dialogue: 0,0:06:13.31,0:06:15.11,Default,,0,0,0,,{TIME:373319,375119}No i widzisz!
+Dialogue: 0,0:06:15.11,0:06:18.41,Default,,0,0,0,,{TIME:375119,378419}Brachol pod tym kątem to\Nstraszny nieudacznik. Pomóżmy mu.
+Dialogue: 0,0:06:18.41,0:06:20.41,Default,,0,0,0,,{TIME:378419,380419}Proszę cię, nic cię to nie kosztuje.
+Dialogue: 0,0:06:26.45,0:06:29.21,Default,,0,0,0,,{TIME:386452,389219}Tak mi przykro, Shinobu.
+Dialogue: 0,0:06:32.95,0:06:38.71,Default,,0,0,0,,{TIME:392952,398719}Gdybym tylko cię nie poprosiła\No te głupie zakupy, nadal byś żyła.
+Dialogue: 0,0:06:52.91,0:06:54.45,Default,,0,0,0,,{TIME:412919,414452}{\i1}Junko.
+Dialogue: 0,0:06:55.18,0:06:57.15,Default,,0,0,0,,{TIME:415186,417152}{\i1}Junko…
+Dialogue: 0,0:06:57.15,0:06:59.45,Default,,0,0,0,,{TIME:417152,419452}Shi… Shinobu?!
+Dialogue: 0,0:06:59.45,0:07:01.31,Default,,0,0,0,,{TIME:419452,421319}{\i1}Chcę go spotkać jeszcze raz.
+Dialogue: 0,0:07:01.31,0:07:03.81,Default,,0,0,0,,{TIME:421319,423819}{\i1}Mówiłam ci o nim, pamiętasz?
+Dialogue: 0,0:07:03.81,0:07:06.15,Default,,0,0,0,,{TIME:423819,426152}{\i1}Ten, który mi się tak podobał.
+Dialogue: 0,0:07:07.68,0:07:12.48,Default,,0,0,0,,{TIME:427686,432486}{\i1}Tak bardzo chciałabym go zobaczyć.\NPowiedzieć, co czuję.
+Dialogue: 0,0:07:12.48,0:07:15.98,Default,,0,0,0,,{TIME:432486,435986}{\i1}Junko, jesteśmy najlepszymi\Nprzyjaciółkami, prawda?
+Dialogue: 0,0:07:16.78,0:07:19.08,Default,,0,0,0,,{TIME:436786,439086}{\i1}Nie będziesz się\Nna mnie chyba gniewać,
+Dialogue: 0,0:07:19.08,0:07:21.75,Default,,0,0,0,,{TIME:439086,441752}{\i1}jeśli pożyczę sobie\Ntwoje ciało na jakiś czas?
+Dialogue: 0,0:07:21.75,0:07:23.85,Default,,0,0,0,,{TIME:441752,443852}{\i1}Prawda, Junko?
+Dialogue: 0,0:07:39.11,0:07:40.31,Default,,0,0,0,,{TIME:459119,460319}Junko-san?
+Dialogue: 0,0:07:41.08,0:07:43.05,Default,,0,0,0,,{TIME:461086,463052}Junko-san, czy coś się stało?
+Dialogue: 0,0:07:46.08,0:07:47.95,Default,,0,0,0,,{TIME:466086,467952}Junko-san?
+Dialogue: 0,0:07:48.11,0:07:51.35,Default,,0,0,0,,{TIME:468119,471352}Wszystko w porządku,\Nproszę pani.
+Dialogue: 0,0:07:51.35,0:07:55.01,Default,,0,0,0,,{TIME:471352,475019}To dobrze. Poczekaj chwilkę,\Nzrobię ci herbatę.
+Dialogue: 0,0:08:01.88,0:08:05.48,Default,,0,0,0,,{TIME:481886,485486}Teraz mogę iść\Ni się z nim spotkać.
+Dialogue: 0,0:08:09.25,0:08:10.98,Default,,0,0,0,,{TIME:489252,490986}Kyōta-san.
+Dialogue: 0,0:08:12.41,0:08:16.18,Default,,0,0,0,,{TIME:492419,496186}Hej, Kyūta. Gdzie ty mnie\Nczłowieku znowu zaciągasz?
+Dialogue: 0,0:08:16.18,0:08:18.75,Default,,0,0,0,,{TIME:496186,498752}Och? Ach, tak.\NJak by to powiedzieć…
+Dialogue: 0,0:08:18.75,0:08:21.98,Default,,0,0,0,,{TIME:498752,501986}Do miejsca gdzie Boże Narodzenie\Nzaczyna się odrobinę wcześniej.
+Dialogue: 0,0:08:32.11,0:08:33.91,Default,,0,0,0,,{TIME:512119,513919}Hej, Kyūta!
+Dialogue: 0,0:08:38.58,0:08:41.61,Default,,0,0,0,,{TIME:518586,521619}{\i1}Tu jesteś, przystojniaku.
+Dialogue: 0,0:08:43.18,0:08:45.45,Default,,0,0,0,,{TIME:523186,525452}Cześć, Kyū-chan! Tęskniłam!
+Dialogue: 0,0:08:45.45,0:08:46.85,Default,,0,0,0,,{TIME:525452,526852}Poczekaj, Sayako.
+Dialogue: 0,0:08:46.85,0:08:50.75,Default,,0,0,0,,{TIME:526852,530752}– Och, Kyūta-kun, ja też chcę!\N– Nie zapomniałeś o nas?
+Dialogue: 0,0:08:51.91,0:08:54.65,Default,,0,0,0,,{TIME:531919,534652}A kim jest ten chłopak?\NKyū-chan, to twój znajomy?
+Dialogue: 0,0:08:54.65,0:08:57.45,Default,,0,0,0,,{TIME:534652,537452}To mój brat, Kyōta-niichan.
+Dialogue: 0,0:08:57.45,0:08:59.71,Default,,0,0,0,,{TIME:537452,539719}Kyū-chan, to twój brat?!
+Dialogue: 0,0:08:59.71,0:09:02.98,Default,,0,0,0,,{TIME:539719,542986}– Ale przystojny!\N– Bardzo.
+Dialogue: 0,0:09:04.31,0:09:07.41,Default,,0,0,0,,{TIME:544319,547419}Och, coś przyczepiło\Nsię do twoich włosów.
+Dialogue: 0,0:09:07.41,0:09:09.51,Default,,0,0,0,,{TIME:547419,549519}Zdejmę. Pochyl się.
+Dialogue: 0,0:09:09.51,0:09:11.05,Default,,0,0,0,,{TIME:549519,551052}Dzięki.
+Dialogue: 0,0:09:11.05,0:09:12.95,Default,,0,0,0,,{TIME:551052,552952}Pierwszy całus należy do mnie!
+Dialogue: 0,0:09:26.98,0:09:28.41,Default,,0,0,0,,{TIME:566986,568419}Udało się.
+Dialogue: 0,0:09:30.45,0:09:32.61,Default,,0,0,0,,{TIME:570452,572619}No wiesz ty co, Sayako?
+Dialogue: 0,0:09:32.61,0:09:34.15,Default,,0,0,0,,{TIME:572619,574152}Teraz ja!
+Dialogue: 0,0:09:39.11,0:09:40.51,Default,,0,0,0,,{TIME:579119,580519}Co… Co jest?
+Dialogue: 0,0:09:40.51,0:09:42.51,Default,,0,0,0,,{TIME:580519,582519}Co się stało?
+Dialogue: 0,0:09:47.11,0:09:51.78,Default,,0,0,0,,{TIME:587119,591786}{\i1}Ta głupia dziewczyna…\NPocałowała go na moich oczach.
+Dialogue: 0,0:09:53.25,0:09:54.75,Default,,0,0,0,,{TIME:593252,594752}{\i1}Pożałuje tego.
+Dialogue: 0,0:09:56.81,0:09:58.71,Default,,0,0,0,,{TIME:596819,598719}Czekaj, piesku!
+Dialogue: 0,0:09:58.71,0:10:00.58,Default,,0,0,0,,{TIME:598719,600586}Bądź grzeczny!
+Dialogue: 0,0:10:00.58,0:10:02.71,Default,,0,0,0,,{TIME:600586,602719}Hej! Słuchaj mnie.
+Dialogue: 0,0:10:16.35,0:10:18.48,Default,,0,0,0,,{TIME:616352,618486}M… Morderstwo!
+Dialogue: 0,0:10:26.18,0:10:28.05,Default,,0,0,0,,{TIME:626186,628052}Nadal da się czuć trochę aury.
+Dialogue: 0,0:10:28.05,0:10:29.71,Default,,0,0,0,,{TIME:628052,629719}To może być…
+Dialogue: 0,0:10:35.71,0:10:37.65,Default,,0,0,0,,{TIME:635719,637652}Do Kyōty?
+Dialogue: 0,0:10:41.25,0:10:44.55,Default,,0,0,0,,{TIME:641252,644552}W dodatku autorką\Njest uczennica liceum.
+Dialogue: 0,0:10:44.55,0:10:47.71,Default,,0,0,0,,{TIME:644552,647719}Ja nie mogę! To list miłosny,\NKyōta-niichan!
+Dialogue: 0,0:10:47.71,0:10:49.81,Default,,0,0,0,,{TIME:647719,649819}Słuchaj no, Kyonta…
+Dialogue: 0,0:10:54.21,0:10:58.11,Default,,0,0,0,,{TIME:654219,658119}„Cały czas cię obserwowałam.”\NWidzisz?
+Dialogue: 0,0:10:58.11,0:11:00.58,Default,,0,0,0,,{TIME:658119,660586}Nasz braciszek egzorcysta\Ndorobił się wielbicielki.
+Dialogue: 0,0:11:00.58,0:11:01.95,Default,,0,0,0,,{TIME:660586,661952}Dawaj to.
+Dialogue: 0,0:11:04.21,0:11:06.71,Default,,0,0,0,,{TIME:664219,666719}To ona? Proszę, proszę.
+Dialogue: 0,0:11:06.71,0:11:07.91,Default,,0,0,0,,{TIME:666719,667919}Siostra!
+Dialogue: 0,0:11:07.91,0:11:09.81,Default,,0,0,0,,{TIME:667919,669819}Pokaż, pokaż!
+Dialogue: 0,0:11:09.81,0:11:11.65,Default,,0,0,0,,{TIME:669819,671652}Całkiem niezła!
+Dialogue: 0,0:11:11.65,0:11:13.51,Default,,0,0,0,,{TIME:671652,673519}Ale słodziutka.
+Dialogue: 0,0:11:13.51,0:11:15.48,Default,,0,0,0,,{TIME:673519,675486}Kontynuując…
+Dialogue: 0,0:11:15.48,0:11:18.61,Default,,0,0,0,,{TIME:675486,678619}„Chciałabym cię o coś poprosić\Ni mam nadzieję, że się zgodzisz.
+Dialogue: 0,0:11:18.61,0:11:22.95,Default,,0,0,0,,{TIME:678619,682952}Jeśli masz czas wieczorem 24 września,\Nmoże moglibyśmy się spotkać…”
+Dialogue: 0,0:11:22.95,0:11:25.35,Default,,0,0,0,,{TIME:682952,685352}Stary, ona zaprasza cię na randkę!
+Dialogue: 0,0:11:25.35,0:11:28.35,Default,,0,0,0,,{TIME:685352,688352}W dodatku w Wigilię.\NNie możesz tego schrzanić.
+Dialogue: 0,0:11:29.98,0:11:32.68,Default,,0,0,0,,{TIME:689986,692686}– A kto mówił, że idę?\N– I tak nie masz nic do roboty.
+Dialogue: 0,0:11:32.68,0:11:35.61,Default,,0,0,0,,{TIME:692686,695619}Chyba zapomniałeś,\Nże pomagam przy pogrzebach.
+Dialogue: 0,0:11:35.61,0:11:40.35,Default,,0,0,0,,{TIME:695619,700352}Kyōta! Masz pojęcie, ile odwagi kosztowało\Ntę dziewczynę, żeby napisać ten list?
+Dialogue: 0,0:11:40.35,0:11:43.45,Default,,0,0,0,,{TIME:700352,703452}Czy nie jest słodka?\NCzy nie jest odważna?
+Dialogue: 0,0:11:43.45,0:11:45.45,Default,,0,0,0,,{TIME:703452,705452}A ty masz to wszystko w nosie.
+Dialogue: 0,0:11:47.55,0:11:50.05,Default,,0,0,0,,{TIME:707552,710052}Idź i baw się dobrze.\NTo będzie dobre doświadczenie.
+Dialogue: 0,0:11:50.05,0:11:53.25,Default,,0,0,0,,{TIME:710052,713252}Zawsze byłeś zbyt poważny.\NMasz świetną okazję trochę to przełamać.
+Dialogue: 0,0:11:53.65,0:11:54.75,Default,,0,0,0,,{TIME:713652,714752}No nie?
+Dialogue: 0,0:11:55.71,0:11:58.21,Default,,0,0,0,,{TIME:715719,718219}Ale bomba! Kyōta-niichan,\Nto twoja pierwsza randka!
+Dialogue: 0,0:12:00.91,0:12:02.51,Default,,0,0,0,,{TIME:720919,722519}Ja odbiorę.
+Dialogue: 0,0:12:02.51,0:12:04.01,Default,,0,0,0,,{TIME:722519,724019}Halo?
+Dialogue: 0,0:12:04.01,0:12:05.68,Default,,0,0,0,,{TIME:724019,725686}Hej, kopę lat.
+Dialogue: 0,0:12:05.68,0:12:08.11,Default,,0,0,0,,{TIME:725686,728119}Nie rozmawialiśmy\Nprzez telefon od wieków.
+Dialogue: 0,0:12:11.01,0:12:11.65,Default,,0,0,0,,{TIME:731019,731652}Co?
+Dialogue: 0,0:12:13.45,0:12:15.21,Default,,0,0,0,,{TIME:733452,735219}Sayako została zamordowana?
+Dialogue: 0,0:12:17.61,0:12:19.41,Default,,0,0,0,,{TIME:737619,739419}{\i1}Shinobu.
+Dialogue: 0,0:12:19.41,0:12:22.01,Default,,0,0,0,,{TIME:739419,742019}{\i1}Moja biedna Shinobu.
+Dialogue: 0,0:12:22.01,0:12:24.68,Default,,0,0,0,,{TIME:742019,744686}{\i1}Twój gniew był słuszny.
+Dialogue: 0,0:12:24.68,0:12:32.68,Default,,0,0,0,,{TIME:744686,752686}{\i1}Ale dopóki Kyōta żyje, w jego życiu\Nbędą się pojawiać kolejne kobiety.
+Dialogue: 0,0:12:32.68,0:12:34.15,Default,,0,0,0,,{TIME:752686,754152}Zabiję je wszystkie.
+Dialogue: 0,0:12:34.15,0:12:37.21,Default,,0,0,0,,{TIME:754152,757219}Zabiję jak tamtą dziewkę.
+Dialogue: 0,0:12:38.38,0:12:40.51,Default,,0,0,0,,{TIME:758386,760519}{\i1}Jest lepsza metoda.
+Dialogue: 0,0:12:40.51,0:12:43.31,Default,,0,0,0,,{TIME:760519,763319}{\i1}Zabij Kyōtę. Zabij tylko jego!
+Dialogue: 0,0:12:43.31,0:12:47.71,Default,,0,0,0,,{TIME:763319,767719}{\i1}W ten sposób\Nbędzie należał tylko do ciebie.
+Dialogue: 0,0:12:48.38,0:12:49.65,Default,,0,0,0,,{TIME:768386,769652}Tylko jego?
+Dialogue: 0,0:12:49.65,0:12:53.78,Default,,0,0,0,,{TIME:769652,773786}{\i1}Tak. Nikt inny nie będzie\Njuż mógł go posiąść.
+Dialogue: 0,0:12:53.78,0:12:56.88,Default,,0,0,0,,{TIME:773786,776886}{\i1}Wymazując go z tego świata,\Nochronisz go.
+Dialogue: 0,0:12:56.88,0:12:59.18,Default,,0,0,0,,{TIME:776886,779186}Zabiję go.
+Dialogue: 0,0:13:05.05,0:13:07.78,Default,,0,0,0,,{TIME:785052,787786}Trochę zbyt krzykliwy ten krawat.
+Dialogue: 0,0:13:08.31,0:13:11.28,Default,,0,0,0,,{TIME:788319,791286}Ale to twoja pierwsza randka.\NMoże być.
+Dialogue: 0,0:13:11.28,0:13:15.11,Default,,0,0,0,,{TIME:791286,795119}Dzięki za pomoc, Kyūta.
+Dialogue: 0,0:13:15.11,0:13:17.65,Default,,0,0,0,,{TIME:795119,797652}Po tym, co spotkało\Nmoją przyjaciółkę,
+Dialogue: 0,0:13:17.65,0:13:20.41,Default,,0,0,0,,{TIME:797652,800419}jakoś odeszła mi\Nochota na imprezy.
+Dialogue: 0,0:13:20.78,0:13:22.91,Default,,0,0,0,,{TIME:800786,802919}Czy to była jedna z tych\Ndziewczyn z dyskoteki?
+Dialogue: 0,0:13:24.95,0:13:26.68,Default,,0,0,0,,{TIME:804952,806686}Nie.
+Dialogue: 0,0:13:27.41,0:13:31.15,Default,,0,0,0,,{TIME:807419,811152}Kyōta-niichan, to twoja pierwsza randka!\NNie myśl o niczym innym.
+Dialogue: 0,0:13:32.05,0:13:34.15,Default,,0,0,0,,{TIME:812052,814152}Tak. Pasuje jak ulał.\NAle z ciebie tygrys!
+Dialogue: 0,0:13:34.71,0:13:38.05,Default,,0,0,0,,{TIME:814719,818052}{\i1}Jak się mają sprawy?\NCzy wszystko przebiega pomyślnie?
+Dialogue: 0,0:13:38.05,0:13:41.41,Default,,0,0,0,,{TIME:818052,821419}{\i1}Tak jest. Nasz brat\Nwszedł z nimi już w kontakt.
+Dialogue: 0,0:13:41.41,0:13:44.81,Default,,0,0,0,,{TIME:821419,824819}{\i1}Nie lekceważ ich. Choć nie\Nodzyskali jeszcze wspomnień,
+Dialogue: 0,0:13:44.81,0:13:47.71,Default,,0,0,0,,{TIME:824819,827719}{\i1}to wciąż inkarnacje\Nbóstw opiekuńczych.
+Dialogue: 0,0:13:47.71,0:13:53.18,Default,,0,0,0,,{TIME:827719,833186}{\i1}Doskonale to rozumiem. Właśnie dlatego\Nmusimy wyeliminować Kyōtę, zanim to nastąpi.
+Dialogue: 0,0:13:53.68,0:14:00.41,Default,,0,0,0,,{TIME:833686,840419}{\i1}Bez niego ich moc\Npowinna znacznie spaść.
+Dialogue: 0,0:14:05.58,0:14:07.65,Default,,0,0,0,,{TIME:845586,847652}Ale ludu!
+Dialogue: 0,0:14:07.91,0:14:10.95,Default,,0,0,0,,{TIME:847919,850952}Nic dziwnego.\NOtometai wymiatają.
+Dialogue: 0,0:14:11.35,0:14:14.81,Default,,0,0,0,,{TIME:851352,854819}Zaraz rozdam wam bilety\Npóki jest jeszcze względnie luźno.
+Dialogue: 0,0:14:16.11,0:14:20.55,Default,,0,0,0,,{TIME:856119,860552}O rany, zamiast biletów wziąłem\Nlist miłosny Kyōty-niichan.
+Dialogue: 0,0:14:20.55,0:14:23.61,Default,,0,0,0,,{TIME:860552,863619}Tylko tobie mogło się to udać.\NPomyliłbyś klucze ze słoniem.
+Dialogue: 0,0:14:23.61,0:14:27.11,Default,,0,0,0,,{TIME:863619,867119}Przy okazji, mój brachol gdzieś tu się kręci.\NTo jego pierwsza randka!
+Dialogue: 0,0:14:27.11,0:14:28.61,Default,,0,0,0,,{TIME:867119,868619}Pierwsza randka?
+Dialogue: 0,0:14:28.61,0:14:30.21,Default,,0,0,0,,{TIME:868619,870219}Późno rozkwita.
+Dialogue: 0,0:14:30.21,0:14:32.45,Default,,0,0,0,,{TIME:870219,872452}To chyba rzadkość\Nw tych czasach.
+Dialogue: 0,0:14:33.01,0:14:34.95,Default,,0,0,0,,{TIME:873019,874952}Chcecie zobaczyć\Njego dziewczynę?
+Dialogue: 0,0:14:34.95,0:14:37.25,Default,,0,0,0,,{TIME:874952,877252}No pewnie!
+Dialogue: 0,0:14:37.25,0:14:38.65,Default,,0,0,0,,{TIME:877252,878652}Proszę bardzo.
+Dialogue: 0,0:14:38.65,0:14:40.05,Default,,0,0,0,,{TIME:878652,880052}Ale piękna!
+Dialogue: 0,0:14:40.05,0:14:41.55,Default,,0,0,0,,{TIME:880052,881552}Ma zachodnią urodę.
+Dialogue: 0,0:14:41.55,0:14:43.18,Default,,0,0,0,,{TIME:881552,883186}Nazywa się\NNakazato Shinobu-chan.
+Dialogue: 0,0:14:47.01,0:14:51.91,Default,,0,0,0,,{TIME:887019,891919}Tak mi przyjemnie, kiedy tak tu sobie\Nsiedzimy i spokojnie rozmawiamy.
+Dialogue: 0,0:14:51.91,0:14:54.71,Default,,0,0,0,,{TIME:891919,894719}Chyba na to mówią\N„motyle w brzuchu”.
+Dialogue: 0,0:14:56.05,0:14:58.75,Default,,0,0,0,,{TIME:896052,898752}Wszystko dobrze na wyspie?
+Dialogue: 0,0:14:59.21,0:15:01.75,Default,,0,0,0,,{TIME:899219,901752}Tak. Pozdrowiłem\Nod ciebie wszystkich.
+Dialogue: 0,0:15:02.18,0:15:04.35,Default,,0,0,0,,{TIME:902186,904352}A jak mają się twoi bracia?
+Dialogue: 0,0:15:04.35,0:15:06.11,Default,,0,0,0,,{TIME:904352,906119}Irytujący, jak zawsze.
+Dialogue: 0,0:15:06.11,0:15:08.11,Default,,0,0,0,,{TIME:906119,908119}Czyli dobrze.
+Dialogue: 0,0:15:15.58,0:15:17.08,Default,,0,0,0,,{TIME:915586,917086}Uhm, Ryōko-san.
+Dialogue: 0,0:15:17.08,0:15:20.88,Default,,0,0,0,,{TIME:917086,920886}Myślę, że będzie nieco niegrzeczne\No tym wspomnieć tak wcześnie,
+Dialogue: 0,0:15:20.88,0:15:24.35,Default,,0,0,0,,{TIME:920886,924352}ale czy… uch…\NZechciałabyś ze mną…
+Dialogue: 0,0:15:24.35,0:15:27.18,Default,,0,0,0,,{TIME:924352,927186}Czy chcesz się ze mną spotykać mając\Nświadomość, że kiedyś chcę ślubu?
+Dialogue: 0,0:15:27.65,0:15:30.35,Default,,0,0,0,,{TIME:927652,930352}Co? To jest Nakazato Shinobu?
+Dialogue: 0,0:15:30.35,0:15:31.68,Default,,0,0,0,,{TIME:930352,931686}Nie chrzań.
+Dialogue: 0,0:15:31.68,0:15:33.51,Default,,0,0,0,,{TIME:931686,933519}Czemu miałbym chrzanić?
+Dialogue: 0,0:15:33.51,0:15:36.48,Default,,0,0,0,,{TIME:933519,936486}No bo Nakazato Shinobu\Njest tak jakby martwa.
+Dialogue: 0,0:15:36.48,0:15:37.18,Default,,0,0,0,,{TIME:936486,937186}Co?
+Dialogue: 0,0:15:37.18,0:15:41.18,Default,,0,0,0,,{TIME:937186,941186}Niedawno zmarła\Nw wypadku drogowym.
+Dialogue: 0,0:15:42.01,0:15:43.71,Default,,0,0,0,,{TIME:942019,943719}Nie jest ci chłodno,\NShinobu-chan?
+Dialogue: 0,0:15:43.71,0:15:46.18,Default,,0,0,0,,{TIME:943719,946186}Słucham?\NAch, nie, ani trochę.
+Dialogue: 0,0:15:50.11,0:15:52.21,Default,,0,0,0,,{TIME:950119,952219}Chyba nie przestanie już padać.
+Dialogue: 0,0:15:55.21,0:15:57.71,Default,,0,0,0,,{TIME:955219,957719}Wystarczy mi zupełnie,\Nże się spotkaliśmy, Kyōta-san.
+Dialogue: 0,0:15:58.08,0:16:02.11,Default,,0,0,0,,{TIME:958086,962119}Widzisz, myślałam,\Nże nie przyjdziesz.
+Dialogue: 0,0:16:14.05,0:16:15.71,Default,,0,0,0,,{TIME:974052,975719}Wszystko w porządku,\NShinobu-chan?
+Dialogue: 0,0:16:17.48,0:16:18.88,Default,,0,0,0,,{TIME:977486,978886}Przepraszam.
+Dialogue: 0,0:16:19.71,0:16:22.41,Default,,0,0,0,,{TIME:979719,982419}Straszna ze mnie niezdara.
+Dialogue: 0,0:16:22.41,0:16:24.48,Default,,0,0,0,,{TIME:982419,984486}Wciąż nie wierzę, że to się dzieje.
+Dialogue: 0,0:16:24.48,0:16:25.85,Default,,0,0,0,,{TIME:984486,985852}Czuję się jak we śnie.
+Dialogue: 0,0:16:26.68,0:16:29.35,Default,,0,0,0,,{TIME:986686,989352}Chodź, wrzucimy coś na ząb.
+Dialogue: 0,0:16:33.08,0:16:36.11,Default,,0,0,0,,{TIME:993086,996119}Halo? Ach, to ty, Kyonta.
+Dialogue: 0,0:16:36.11,0:16:38.11,Default,,0,0,0,,{TIME:996119,998119}Że co!?
+Dialogue: 0,0:16:46.61,0:16:48.38,Default,,0,0,0,,{TIME:1006619,1008386}Przepraszam, Shinobu-chan.
+Dialogue: 0,0:16:48.38,0:16:53.05,Default,,0,0,0,,{TIME:1008386,1013052}Nie jestem zbyt dobry w rozmawianiu.\NNie nudzi ci się ze mną?
+Dialogue: 0,0:16:53.05,0:16:56.88,Default,,0,0,0,,{TIME:1013052,1016886}Przestań. To mi się\Nw ogóle nie zamykają usta.
+Dialogue: 0,0:16:56.88,0:16:59.65,Default,,0,0,0,,{TIME:1016886,1019652}Wcale tak bym tego nie ujął.\NPoza tym to nawet lepiej.
+Dialogue: 0,0:17:03.35,0:17:05.01,Default,,0,0,0,,{TIME:1023352,1025019}Dziękuję.
+Dialogue: 0,0:17:11.51,0:17:12.51,Default,,0,0,0,,{TIME:1031519,1032519}Kyōta-san!
+Dialogue: 0,0:17:13.91,0:17:15.61,Default,,0,0,0,,{TIME:1033919,1035619}Co się stało, Shinobu-chan?
+Dialogue: 0,0:17:18.38,0:17:19.78,Default,,0,0,0,,{TIME:1038386,1039786}Nic takiego.
+Dialogue: 0,0:17:23.35,0:17:28.65,Default,,0,0,0,,{TIME:1043352,1048652}Przepraszam, że z tym tak wyskoczyłem.\NChodziło mi to po głowie odkąd cię zobaczyłem.
+Dialogue: 0,0:17:28.65,0:17:30.58,Default,,0,0,0,,{TIME:1048652,1050586}Kariya-sensei…
+Dialogue: 0,0:17:35.08,0:17:36.25,Default,,0,0,0,,{TIME:1055086,1056252}Uch…
+Dialogue: 0,0:17:36.25,0:17:37.55,Default,,0,0,0,,{TIME:1056252,1057552}Tuptuś!
+Dialogue: 0,0:17:37.55,0:17:39.35,Default,,0,0,0,,{TIME:1057552,1059352}Tup…
+Dialogue: 0,0:17:40.58,0:17:43.95,Default,,0,0,0,,{TIME:1060586,1063952}Jeden z moich braci chyba\Npotrzebuje pomocy. Przepraszam.
+Dialogue: 0,0:17:43.95,0:17:45.18,Default,,0,0,0,,{TIME:1063952,1065186}Ryōko-san!
+Dialogue: 0,0:17:46.18,0:17:47.81,Default,,0,0,0,,{TIME:1066186,1067819}Jeszcze wrócimy do tej rozmowy.
+Dialogue: 0,0:17:49.81,0:17:52.81,Default,,0,0,0,,{TIME:1069819,1072819}Wolniej, Tuptuś!\NNie mam skrzydeł!
+Dialogue: 0,0:17:53.18,0:17:55.58,Default,,0,0,0,,{TIME:1073186,1075586}Siostra!
+Dialogue: 0,0:17:55.58,0:18:00.98,Default,,0,0,0,,{TIME:1075586,1080986}Więc sugerujecie, że Nakazato Shinobu\Nto duch i opętała ona swoją przyjaciółkę Junko.
+Dialogue: 0,0:18:00.98,0:18:02.15,Default,,0,0,0,,{TIME:1080986,1082152}Tak nam się wydaje.
+Dialogue: 0,0:18:02.15,0:18:06.45,Default,,0,0,0,,{TIME:1082152,1086452}Ale jakoś udało jej się zamaskować swoją aurę\Ni w ogóle nie możemy jej zlokalizować.
+Dialogue: 0,0:18:06.45,0:18:09.55,Default,,0,0,0,,{TIME:1086452,1089552}Próbowaliśmy też wyczuć, gdzie jest\NKyōta-niichan, ale bez skutku.
+Dialogue: 0,0:18:09.55,0:18:12.28,Default,,0,0,0,,{TIME:1089552,1092286}Miłość jest w stanie\Nprzysłonić domyślną aurę.
+Dialogue: 0,0:18:12.28,0:18:15.35,Default,,0,0,0,,{TIME:1092286,1095352}Nie sądzę, aby duch tej\Ndziewczyny dysponował taką mocą.
+Dialogue: 0,0:18:15.61,0:18:18.35,Default,,0,0,0,,{TIME:1095619,1098352}Tak czy siak, musimy\Nodnaleźć Kyōtę.
+Dialogue: 0,0:18:25.68,0:18:27.11,Default,,0,0,0,,{TIME:1105686,1107119}Nikogo tu nie ma.
+Dialogue: 0,0:18:28.45,0:18:30.85,Default,,0,0,0,,{TIME:1108452,1110852}Dlatego tu przyszliśmy.
+Dialogue: 0,0:18:35.15,0:18:38.88,Default,,0,0,0,,{TIME:1115152,1118886}Tabletki powinny zacząć\Njuż działać, Kyōta-san.
+Dialogue: 0,0:18:39.75,0:18:40.88,Default,,0,0,0,,{TIME:1119752,1120886}Co jest?
+Dialogue: 0,0:18:41.15,0:18:47.38,Default,,0,0,0,,{TIME:1121152,1127386}Czy jest ci coraz goręcej\Ni odchodzą z ciebie siły?
+Dialogue: 0,0:18:52.08,0:18:53.65,Default,,0,0,0,,{TIME:1132086,1133652}Co ty zrobiłaś?
+Dialogue: 0,0:19:23.78,0:19:26.05,Default,,0,0,0,,{TIME:1163786,1166052}{\i1}Dobra robota, Shinobu.
+Dialogue: 0,0:19:26.05,0:19:28.35,Default,,0,0,0,,{TIME:1166052,1168352}{\i1}Teraz Kyōta jest tylko twój.
+Dialogue: 0,0:19:28.71,0:19:30.61,Default,,0,0,0,,{TIME:1168719,1170619}Tylko… mój?
+Dialogue: 0,0:19:31.41,0:19:34.81,Default,,0,0,0,,{TIME:1171419,1174819}{\i1}Tak. Tym samym\Nspełniłaś swój cel.
+Dialogue: 0,0:19:37.65,0:19:40.51,Default,,0,0,0,,{TIME:1177652,1180519}Chętnie posłucham czegoś\Nwięcej o tych celach.
+Dialogue: 0,0:19:42.58,0:19:46.31,Default,,0,0,0,,{TIME:1182586,1186319}Doprowadziłeś dziewczynę kochającą się\Nw moim bracie do tego, że chciała go zabić.
+Dialogue: 0,0:19:46.31,0:19:50.15,Default,,0,0,0,,{TIME:1186319,1190152}Nie zasługujesz na nic.\NTo koniec, demonie!
+Dialogue: 0,0:19:50.35,0:19:56.38,Default,,0,0,0,,{TIME:1190352,1196386}{\i1}Ale z was głupcy. Cała wasza rodzina.\NCo zrobicie bez waszego ukochanego Kyōty?
+Dialogue: 0,0:19:56.65,0:19:58.65,Default,,0,0,0,,{TIME:1196652,1198652}Co zrobiłeś z naszym bratem?!
+Dialogue: 0,0:20:00.11,0:20:05.15,Default,,0,0,0,,{TIME:1200119,1205152}{\i1}Jego dusza błąka się teraz\Nw drodze do zaświatów.
+Dialogue: 0,0:20:08.58,0:20:11.45,Default,,0,0,0,,{TIME:1208586,1211452}Nie jesteś pierwszym\Nlepszym demonem, co?
+Dialogue: 0,0:20:11.45,0:20:16.15,Default,,0,0,0,,{TIME:1211452,1216152}{\i1}Brawo, Avalokita Ema.\NJesteście wybrańcami.
+Dialogue: 0,0:20:17.35,0:20:19.25,Default,,0,0,0,,{TIME:1217352,1219252}Znasz to imię?\NTo znaczy, że…
+Dialogue: 0,0:20:19.25,0:20:24.38,Default,,0,0,0,,{TIME:1219252,1224386}{\i1}Jestem jednym z dawno temu\Nzapieczętowanych pięciu Ninshū.
+Dialogue: 0,0:20:24.75,0:20:26.65,Default,,0,0,0,,{TIME:1224752,1226652}Zatem pochodzisz z Chūkyō.
+Dialogue: 0,0:20:29.51,0:20:34.55,Default,,0,0,0,,{TIME:1229519,1234552}{\i1}Jesteście ostatnią przeszkodą,\Nktóra dzieli nas od prawdziwej wolności.
+Dialogue: 0,0:20:38.81,0:20:40.35,Default,,0,0,0,,{TIME:1238819,1240352}{\i1}Otwórz oczy.
+Dialogue: 0,0:20:40.35,0:20:42.35,Default,,0,0,0,,{TIME:1240352,1242352}{\i1}Otwórz oczy, bóstwo.
+Dialogue: 0,0:20:43.28,0:20:47.31,Default,,0,0,0,,{TIME:1243286,1247319}{\i1}Przypomnij sobie.\NPrzypomnij sobie, kim jesteś.
+Dialogue: 0,0:20:47.31,0:20:51.71,Default,,0,0,0,,{TIME:1247319,1251719}{\i1}Przypomnij sobie miecz,\Nktóry trzymała ta ręka.
+Dialogue: 0,0:20:52.75,0:20:54.91,Default,,0,0,0,,{TIME:1252752,1254919}Mój… miecz.
+Dialogue: 0,0:20:54.91,0:20:56.61,Default,,0,0,0,,{TIME:1254919,1256619}{\i1}Tak. Dokładnie!
+Dialogue: 0,0:20:56.85,0:20:59.05,Default,,0,0,0,,{TIME:1256852,1259052}Mój miecz! Aśarañtr.
+Dialogue: 0,0:21:04.38,0:21:07.95,Default,,0,0,0,,{TIME:1264386,1267952}{\i1}Wasza czwórka jest przyszłą\Ninkarnacją bóstw opiekuńczych.
+Dialogue: 0,0:21:07.95,0:21:12.31,Default,,0,0,0,,{TIME:1267952,1272319}{\i1}Nie jesteście dla mnie żadnym wyzwaniem.\NKyōta jako jedyny był w stanie mi zagrozić.
+Dialogue: 0,0:21:12.31,0:21:14.31,Default,,0,0,0,,{TIME:1272319,1274319}{\i1}To wasz koniec!
+Dialogue: 0,0:21:17.85,0:21:19.88,Default,,0,0,0,,{TIME:1277852,1279886}Nie byłbym tego\Ntaki pewien, demonie!
+Dialogue: 0,0:21:19.88,0:21:21.41,Default,,0,0,0,,{TIME:1279886,1281419}{\i1}Kto… Kto to?!
+Dialogue: 0,0:21:21.98,0:21:24.98,Default,,0,0,0,,{TIME:1281986,1284986}Chodź połączeni z tym światem,\Nnie należymy do niego.
+Dialogue: 0,0:21:24.98,0:21:28.68,Default,,0,0,0,,{TIME:1284986,1288686}Chodź połączeni z tamtym światem,\Nnie należymy do niego.
+Dialogue: 0,0:21:28.68,0:21:32.11,Default,,0,0,0,,{TIME:1288686,1292119}Gniew, zemsta, złośliwość.
+Dialogue: 0,0:21:32.11,0:21:36.28,Default,,0,0,0,,{TIME:1292119,1296286}Nieważne, jaką formę przybierze zło,\Npozbędziemy się go w trymiga!
+Dialogue: 0,0:21:36.28,0:21:37.45,Default,,0,0,0,,{TIME:1296286,1297452}Ten głos!
+Dialogue: 0,0:21:37.45,0:21:38.71,Default,,0,0,0,,{TIME:1297452,1298719}{\i1}To ty?!
+Dialogue: 0,0:21:41.75,0:21:44.41,Default,,0,0,0,,{TIME:1301752,1304419}Bóstwa opiekuńcze\Nwspółczesnego świata,
+Dialogue: 0,0:21:44.41,0:21:46.85,Default,,0,0,0,,{TIME:1304419,1306852}rodzina Pi-hyoro, gotowa do akcji!
+Dialogue: 0,0:21:49.48,0:21:52.01,Default,,0,0,0,,{TIME:1309486,1312019}{\i1}Kyōta! Wciąż żyjesz?
+Dialogue: 0,0:21:52.01,0:21:54.71,Default,,0,0,0,,{TIME:1312019,1314719}{\i1}Idź, Shinobu. Zabij tego robaka!
+Dialogue: 0,0:21:57.41,0:22:00.25,Default,,0,0,0,,{TIME:1317419,1320252}{\i1}Tym razem bez ceregieli.
+Dialogue: 0,0:22:01.35,0:22:04.71,Default,,0,0,0,,{TIME:1321352,1324719}Shinobu-chan, przejrzyj na oczy.\NOn cię zwodzi!
+Dialogue: 0,0:22:06.05,0:22:11.51,Default,,0,0,0,,{TIME:1326052,1331519}{\i1}To na nic. Tak długo, jak tu jestem,\Njej dusza nie jest w stanie cię usłyszeć.
+Dialogue: 0,0:22:11.51,0:22:13.71,Default,,0,0,0,,{TIME:1331519,1333719}Chcę cię ochronić.\NNie chcę ci robić krzywdy.
+Dialogue: 0,0:22:15.28,0:22:17.71,Default,,0,0,0,,{TIME:1335286,1337719}Shinobu-chan…
+Dialogue: 0,0:22:29.11,0:22:31.11,Default,,0,0,0,,{TIME:1349119,1351119}Nie.
+Dialogue: 0,0:22:31.98,0:22:34.65,Default,,0,0,0,,{TIME:1351986,1354652}Od momentu, gdy cię\Nzobaczyłam po raz pierwszy…
+Dialogue: 0,0:22:36.91,0:22:40.91,Default,,0,0,0,,{TIME:1356919,1360919}Myślałam w kółko o tobie\Nodkąd cię tylko zobaczyłam.
+Dialogue: 0,0:22:43.41,0:22:44.41,Default,,0,0,0,,{TIME:1363419,1364419}Shinobu-chan.
+Dialogue: 0,0:22:45.45,0:22:48.38,Default,,0,0,0,,{TIME:1365452,1368386}Nie. Nie mogę cię zabić.\NNie chcę!
+Dialogue: 0,0:22:48.81,0:22:50.55,Default,,0,0,0,,{TIME:1368819,1370552}{\i1}Rób co mówię, Shinobu!
+Dialogue: 0,0:22:50.55,0:22:52.31,Default,,0,0,0,,{TIME:1370552,1372319}Ach!
+Dialogue: 0,0:22:52.98,0:22:54.05,Default,,0,0,0,,{TIME:1372986,1374052}Shinobu-chan!
+Dialogue: 0,0:22:54.05,0:22:56.31,Default,,0,0,0,,{TIME:1374052,1376319}Uciekaj, Kyōta-san!
+Dialogue: 0,0:23:21.48,0:23:24.98,Default,,0,0,0,,{TIME:1401486,1404986}{\i1}Głupia dziewczyna.\NTak kończą ci, którzy się mi sprzeciwiają.
+Dialogue: 0,0:23:27.85,0:23:29.25,Default,,0,0,0,,{TIME:1407852,1409252}Ty draniu!
+Dialogue: 0,0:23:31.45,0:23:32.81,Default,,0,0,0,,{TIME:1411452,1412819}– Kyōta!\N– Bracie!
+Dialogue: 0,0:23:32.81,0:23:34.18,Default,,0,0,0,,{TIME:1412819,1414186}– Idziemy.\N– Tak jest!
+Dialogue: 0,0:23:41.75,0:23:42.71,Default,,0,0,0,,{TIME:1421752,1422719}Cholera!
+Dialogue: 0,0:23:42.95,0:23:44.65,Default,,0,0,0,,{TIME:1422952,1424652}{\i1}Nie masz jeszcze dość?
+Dialogue: 0,0:23:44.65,0:23:46.65,Default,,0,0,0,,{TIME:1424652,1426652}Daj mi swą energię, mieczu!
+Dialogue: 0,0:23:47.95,0:23:49.78,Default,,0,0,0,,{TIME:1427952,1429786}Aśarañtr!
+Dialogue: 0,0:23:59.91,0:24:01.91,Default,,0,0,0,,{TIME:1439919,1441919}{\i1}Jak… Dlaczego?
+Dialogue: 0,0:24:01.91,0:24:05.58,Default,,0,0,0,,{TIME:1441919,1445586}{\i1}Jak ci się udało odzyskać\Nswój boski miecz?
+Dialogue: 0,0:24:07.01,0:24:08.71,Default,,0,0,0,,{TIME:1447019,1448719}{\i1}Jak?!
+Dialogue: 0,0:24:28.01,0:24:30.05,Default,,0,0,0,,{TIME:1468019,1470052}Kyōta-niichan!
+Dialogue: 0,0:24:30.05,0:24:32.41,Default,,0,0,0,,{TIME:1470052,1472419}Kyōta, ty…
+Dialogue: 0,0:24:35.61,0:24:39.85,Default,,0,0,0,,{TIME:1475619,1479852}Ich wspomnienia nadal\Nnie wróciły w pełni, lecz…
+Dialogue: 0,0:24:39.85,0:24:42.25,Default,,0,0,0,,{TIME:1479852,1482252}Udało mu się\Nodzyskać swój miecz.
+Dialogue: 0,0:24:42.25,0:24:44.45,Default,,0,0,0,,{TIME:1482252,1484452}Reszta jest tylko kwestią czasu.
+Dialogue: 0,0:24:44.58,0:24:49.95,Default,,0,0,0,,{TIME:1484586,1489952}Tak. Udało im się unicestwić jednego z Ninshū.\NNie wyczuwam aury pozostałych.
+Dialogue: 0,0:24:50.41,0:24:53.88,Default,,0,0,0,,{TIME:1490419,1493886}Musieli wyczuć pismo nosem\Ni uciekli w obawie przed Pi-hyoro.
+Dialogue: 0,0:24:53.88,0:24:56.95,Default,,0,0,0,,{TIME:1493886,1496952}Jestem więcej niż pewien,\Nże wkrótce dadzą o sobie znać.
+Dialogue: 0,0:24:57.78,0:25:00.41,Default,,0,0,0,,{TIME:1497786,1500419}Myślę, że Ema nie będzie\Nskora do pomocy.
+Dialogue: 0,0:25:01.21,0:25:02.25,Default,,0,0,0,,{TIME:1501219,1502252}Słucham?
+Dialogue: 0,0:25:02.25,0:25:03.81,Default,,0,0,0,,{TIME:1502252,1503819}Arcybiskupie Galiusie?
+Dialogue: 0,0:25:03.81,0:25:06.48,Default,,0,0,0,,{TIME:1503819,1506486}{\i1}Wkrótce nadejdzie kolejna walka.
+Dialogue: 0,0:25:15.31,0:25:18.21,Default,,0,0,0,,{TIME:1515319,1518219}Przepraszam, Ryōko-san.\NPacjenci mnie zatrzymali.
+Dialogue: 0,0:25:51.08,0:25:52.91,Default,,0,0,0,,{TIME:1551086,1552919}{\i1}Przepraszam.
+Dialogue: 0,0:25:53.88,0:25:56.11,Default,,0,0,0,,{TIME:1553886,1556119}{\i1}Shinobu.
+Dialogue: 0,0:25:56.11,0:25:58.11,Default,,0,0,0,,{TIME:1556119,1558119}{\i1}Junko-chan.
 Comment: 0,0:26:24.81,0:26:24.81,Default,[chapter],0,0,0,,{TIME:1584819,1584819}Ending
-Dialogue: 0,0:29:47.95,0:29:49.75,Default,,0,0,0,,{TIME:1787952,1789752}
-Dialogue: 0,0:29:49.75,0:29:53.61,Default,,0,0,0,,{TIME:1789752,1793619}
-Dialogue: 0,0:29:53.61,0:29:57.81,Default,,0,0,0,,{TIME:1793619,1797819}
-Dialogue: 0,0:29:57.81,0:30:02.78,Default,,0,0,0,,{TIME:1797819,1802786}
-Dialogue: 0,0:30:02.78,0:30:07.65,Default,,0,0,0,,{TIME:1802786,1807652}
-Dialogue: 0,0:30:07.65,0:30:11.55,Default,,0,0,0,,{TIME:1807652,1811552}
-Dialogue: 0,0:30:11.55,0:30:14.78,Default,,0,0,0,,{TIME:1811552,1814786}
-Dialogue: 0,0:30:14.78,0:30:16.25,Default,,0,0,0,,{TIME:1814786,1816252}
+Dialogue: 0,0:29:47.95,0:29:49.75,Default,,0,0,0,,{TIME:1787952,1789752}Hej. Co u was?
+Dialogue: 0,0:29:49.75,0:29:53.61,Default,,0,0,0,,{TIME:1789752,1793619}Jestem Pi-hyoro Kyōta.\NJak się wam podobało?
+Dialogue: 0,0:29:53.61,0:29:57.81,Default,,0,0,0,,{TIME:1793619,1797819}Jestem Shinohara Ryōko.\NTrochę mi wstyd łamać czwartą ścianę.
+Dialogue: 0,0:29:57.81,0:30:02.78,Default,,0,0,0,,{TIME:1797819,1802786}Się macie! Ja jestem Kyonta.\NNie dam się zostawić bracholom w tyle.
+Dialogue: 0,0:30:02.78,0:30:07.65,Default,,0,0,0,,{TIME:1802786,1807652}Ja nazywam się Pi-hyoro Kyūta.\NDziękujemy za wasze wsparcie.
+Dialogue: 0,0:30:07.65,0:30:11.55,Default,,0,0,0,,{TIME:1807652,1811552}Wciąż mamy mnóstwo do zrobienia,\Nz czego większość to paskudne demony.
+Dialogue: 0,0:30:11.55,0:30:14.78,Default,,0,0,0,,{TIME:1811552,1814786}Nasza czwórka da z siebie wszystko.
+Dialogue: 0,0:30:14.78,0:30:16.25,Default,,0,0,0,,{TIME:1814786,1816252}Będziecie nam kibicować?
