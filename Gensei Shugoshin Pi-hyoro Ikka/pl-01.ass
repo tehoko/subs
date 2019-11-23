@@ -20,7 +20,7 @@ Style: Sign,Arial,30,&H00A5DFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Intro
-Dialogue: 0,0:00:14.81,0:00:21.28,Sign,(sign),0,0,0,,{TIME:14819,21286}Chūkyō
+Dialogue: 0,0:00:14.81,0:00:21.28,Sign,(sign),0,0,0,,{TIME:14819,21286}{\fad(2000,0)}Chūkyō
 Dialogue: 0,0:00:16.81,0:00:19.21,Default,,0,0,0,,{TIME:16819,19219}Chūkyō.
 Dialogue: 0,0:00:19.21,0:00:23.31,Default,,0,0,0,,{TIME:19219,23319}Dawno zapomniany raj na ziemi.
 Dialogue: 0,0:00:24.48,0:00:27.28,Default,,0,0,0,,{TIME:24486,27286}Miejsce to leży na granicy między\Nświatem żywych a światem martwych.
@@ -63,9 +63,9 @@ Dialogue: 0,0:04:21.38,0:04:24.38,Default,,0,0,0,,{TIME:261386,264386}Prywatne g
 Dialogue: 0,0:04:25.08,0:04:28.55,Default,,0,0,0,,{TIME:265086,268552}To tę szkołę stary\Nkazał nam zbadać tym razem.
 Dialogue: 0,0:04:29.25,0:04:32.11,Default,,0,0,0,,{TIME:269252,272119}Och? Wygląda na nowiutką.
 Dialogue: 0,0:04:33.81,0:04:36.41,Default,,0,0,0,,{TIME:273819,276419}Ciekawe. Spójrz tam, Kyūta.
-Dialogue: 0,0:04:37.15,0:04:42.35,Default,,0,0,0,,{TIME:277152,282352}Wyczuwam silne zimne powietrze\Nwokół całego budynku.
+Dialogue: 0,0:04:37.15,0:04:42.35,Default,,0,0,0,,{TIME:277152,282352}Wyczuwam silną zimną aurę\Nwokół całego budynku.
 Dialogue: 0,0:04:42.81,0:04:46.41,Default,,0,0,0,,{TIME:282819,286419}Tym razem trafiliśmy\Nna coś konkretnego.
-Dialogue: 0,0:04:47.91,0:04:51.81,Default,,0,0,0,,{TIME:287919,291819}Wreszcie jakaś trudniejsza\Nsprawa, no nie, Kyõta-niichan?
+Dialogue: 0,0:04:47.91,0:04:51.81,Default,,0,0,0,,{TIME:287919,291819}Wreszcie jakaś trudniejsza\Nsprawa, no nie, Kyōta-niichan?
 Dialogue: 0,0:04:51.81,0:04:54.78,Default,,0,0,0,,{TIME:291819,294786}Na twoim miejscu\Nbym się tak nie cieszył.
 Dialogue: 0,0:04:54.78,0:04:56.31,Default,,0,0,0,,{TIME:294786,296319}No dobra.
 Dialogue: 0,0:04:56.31,0:04:59.68,Default,,0,0,0,,{TIME:296319,299686}Rozejrzeliśmy się, tak jak chciał.\NCzas się zbierać.
