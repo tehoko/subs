@@ -14,12 +14,13 @@ Title: Ashita e Attack - 02
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,2,20,20,20,1
-Style: OP TL,Arial,30,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,8,20,20,20,1
-Style: OP JP,Gotham Rounded,30,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,13,1
-Style: ED TL,Arial,30,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,8,20,20,20,1
-Style: ED JP,Gotham Rounded,30,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,13,1
-Style: Sign,Arial,30,&H0078E1FF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,8,20,20,20,1
+Style: Default,Gotham Rounded Bold,31,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,0,0,0,0,94.0,100.0,0.0,0.0,1,2.5,2.0,2,20,20,20,1
+Style: Title,Engcomica,38,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,5,20,20,20,1
+Style: OP TL,Gotham Rounded Bold,31,&H00FFDF89,&H000000FF,&H00202020,&H7F202020,0,0,0,0,94.0,100.0,0.0,0.0,1,2.5,1.5,8,20,20,20,1
+Style: OP JP,Gotham Rounded Bold,30,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,13,1
+Style: ED TL,Gotham Rounded Bold,31,&H0082EFFF,&H000000FF,&H00202020,&H7F202020,0,0,0,0,94.0,100.0,0.0,0.0,1,2.5,1.5,8,20,20,20,1
+Style: ED JP,Gotham Rounded Bold,30,&H00FFFFFF,&H000000FF,&H00202020,&H7F202020,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,20,20,13,1
+Style: Sign,Gotham Rounded Bold,30,&H0066DAFF,&H000000FF,&H00202020,&H7F202020,0,0,0,0,100.0,100.0,0.0,0.0,1,3.5,0.0,8,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -46,6 +47,7 @@ Dialogue: 0,0:00:46.34,0:00:49.34,OP JP,[karaoke],0,0,0,,{TIME:46342,49342}{\blu
 Dialogue: 0,0:00:49.34,0:00:57.40,OP JP,[karaoke],0,0,0,,{TIME:49342,57409}{\blur0.5\an5\pos(330,453)}ashita e atakku
 Dialogue: 0,0:00:57.40,0:01:00.67,OP JP,[karaoke],0,0,0,,{TIME:57409,60676}{\blur0.5\an5\pos(330,453)}ashita e ashita e
 Dialogue: 0,0:01:00.67,0:01:09.00,OP JP,[karaoke],0,0,0,,{TIME:60676,69009}{\blur0.5\an5\pos(330,453)}ashita e atakku
+Dialogue: 0,0:01:04.60,0:01:11.50,Title,[title],0,0,0,,{TIME:64609,71509}{\pos(430,240)\blur0.7}Atak na Jutro!
 Comment: 0,0:01:11.50,0:01:11.50,Default,[chapter],0,0,0,,{TIME:71509,71509}Plansza tytułowa
 Dialogue: 0,0:01:14.97,0:01:21.50,Default,[title],0,0,0,,{TIME:74976,81509}{\t(5733,6333,3,\1c&H101010&\3c&H101010&\4c&H101010&)}Odcinek 02:\NFałszywa kapitan
 Comment: 0,0:01:21.50,0:01:21.50,Default,[chapter],0,0,0,,{TIME:81509,81509}Część A
@@ -165,7 +167,7 @@ Dialogue: 0,0:10:35.64,0:10:38.74,Default,,0,0,0,,{TIME:635642,638742}Myślisz, 
 Dialogue: 0,0:10:38.74,0:10:44.40,Default,,0,0,0,,{TIME:638742,644409}Tak. Musimy ostrożnie dysponować pieniędzmi,\Nponieważ żyjemy tu w trzy osoby.
 Dialogue: 0,0:10:44.40,0:10:47.50,Default,,0,0,0,,{TIME:644409,647509}Jak tylko dostanę świadectwo,\Npójdę do pracy.
 Dialogue: 0,0:10:47.50,0:10:50.60,Default,,0,0,0,,{TIME:647509,650609}Dziękuję ci, że się martwisz, kochanie,\Nale ty musisz iść na uniwersytet.
-Dialogue: 0,0:10:50.60,0:10:52.64,Default,,0,0,0,,{TIME:650609,652642}Babcia da sobie radę\Nze wszystkim.
+Dialogue: 0,0:10:50.60,0:10:52.64,Default,,0,0,0,,{TIME:650609,652642}Babcia da sobie radę ze wszystkim.
 Dialogue: 0,0:10:52.64,0:10:55.74,Default,,0,0,0,,{TIME:652642,655742}Jako dziewczyna, nie ma dla mnie\Nwiększego znaczenia, czy będę się uczyć dalej.
 Dialogue: 0,0:10:55.74,0:10:57.94,Default,,0,0,0,,{TIME:655742,657942}Najważniejsze, żeby\Nto Tsuyuki się dostał.
 Dialogue: 0,0:10:58.60,0:11:00.67,Default,,0,0,0,,{TIME:658609,660676}Ja się nim będę opiekować,\Ndopóki nie dorośnie.
@@ -253,7 +255,7 @@ Dialogue: 0,0:16:02.50,0:16:04.97,Default,,0,0,0,,{TIME:962509,964976}Przyznaj, 
 Dialogue: 0,0:16:04.97,0:16:06.07,Default,,0,0,0,,{TIME:964976,966076}Ależ skąd, proszę pana…
 Dialogue: 0,0:16:06.70,0:16:10.04,Default,,0,0,0,,{TIME:966709,970042}Nie będę tego tolerować.\NZapomnij, co mówiłem wcześniej.
 Dialogue: 0,0:16:10.04,0:16:10.97,Default,,0,0,0,,{TIME:970042,970976}Sensei…
-Dialogue: 0,0:16:14.34,0:16:17.27,Default,,0,0,0,,{TIME:974342,977276}O czym rozmawiałaś\Nz dyrektorem?
+Dialogue: 0,0:16:14.34,0:16:17.27,Default,,0,0,0,,{TIME:974342,977276}O czym rozmawiałaś z dyrektorem?
 Dialogue: 0,0:16:17.27,0:16:20.47,Default,,0,0,0,,{TIME:977276,980476}Już prawie miał nam\Nwyznaczyć opiekuna klubu.
 Dialogue: 0,0:16:25.97,0:16:29.07,Default,,0,0,0,,{TIME:985976,989076}Przez nią mamy same kłopoty.
 Dialogue: 0,0:16:29.07,0:16:33.34,Default,,0,0,0,,{TIME:989076,993342}Nie potrzebujemy takich ludzi\Nw naszym klubie. Wyrzućmy ją.
@@ -266,7 +268,7 @@ Dialogue: 0,0:16:53.10,0:16:55.30,Default,,0,0,0,,{TIME:1013109,1015309}Cierpliw
 Dialogue: 0,0:16:55.30,0:16:59.10,Default,,0,0,0,,{TIME:1015309,1019109}Jeśli nasz klub nie działa,\Nmoże lepiej go po prostu rozwiązać.
 Dialogue: 0,0:16:59.10,0:17:03.27,Default,,0,0,0,,{TIME:1019109,1023276}Nie możemy tego zrobić!\NSkoro tak, to po co było to wszystko?
 Dialogue: 0,0:17:03.27,0:17:05.10,Default,,0,0,0,,{TIME:1023276,1025109}Hej, dziewczyny.\NWszystko w porządku?
-Dialogue: 0,0:17:06.34,0:17:07.80,Default,,0,0,0,,{TIME:1026342,1027809}Wszystko wspaniale,\Nproszę pana.
+Dialogue: 0,0:17:06.34,0:17:07.80,Default,,0,0,0,,{TIME:1026342,1027809}Wszystko wspaniale, proszę pana.
 Dialogue: 0,0:17:07.80,0:17:10.37,Default,,0,0,0,,{TIME:1027809,1030376}Ach, tak.\NW takim razie dobrze.
 Dialogue: 0,0:17:10.37,0:17:12.10,Default,,0,0,0,,{TIME:1030376,1032109}Dobra, wracamy do treningu.
 Dialogue: 0,0:17:12.10,0:17:16.34,Default,,0,0,0,,{TIME:1032109,1036342}Jeśli podejdziemy do tego na poważnie,\Nwszystko będzie dobrze. Wracamy do ćwiczeń.
