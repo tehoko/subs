@@ -1,0 +1,268 @@
+[Script Info]
+; This script was created by subtitleeditor (0.53.0)
+; http://home.gna.org/subtitleeditor/
+Aegisub Video Aspect Ratio: 0
+PlayResX: 720
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: V4.00+
+Title: Default Aegisub file
+WrapStyle: 0
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,12,12,10,1
+Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,12,12,10,1
+Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,12,12,10,1
+Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,12,12,10,1
+Style: forest episode title K,Mf Kazincbarcika,45,&H00EAE2BD,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,1,5,12,12,10,1
+Style: forest title K,Mf Kazincbarcika,70,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,1,8,12,12,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.40,0:00:07.00,forest title K,,0000,0000,0000,,{\pos(361.467,67)}FABLES OF THE GREEN FOREST
+Dialogue: 0,0:00:03.40,0:00:07.00,forest episode title K,,0000,0000,0000,,{\pos(357.744,327.8)}15. Old Mr. Toad
+Dialogue: 0,0:00:49.68,0:00:50.18,forest default C,,0000,0000,0000,,Peter!
+Dialogue: 0,0:00:50.19,0:00:52.61,forest default C,,0000,0000,0000,,Who is singing?
+Dialogue: 0,0:00:53.89,0:00:57.14,forest default C,,0000,0000,0000,,I don't know. The voice is coming from over there.
+Dialogue: 0,0:00:57.41,0:00:58.81,forest default C,,0000,0000,0000,,{\i1}Peter, you'd be surprised!{\i}
+Dialogue: 0,0:00:59.01,0:01:02.03,forest default C,,0000,0000,0000,,You'd be surprised to know\nwho is singing!
+Dialogue: 0,0:01:03.16,0:01:08.99,forest default C,,0000,0000,0000,,Hello, Grandfather Frog.\nYou seem to know who it is?
+Dialogue: 0,0:01:10.48,0:01:13.22,forest default C,,0000,0000,0000,,Of course I know!\nIt's an old friend of mine.
+Dialogue: 0,0:01:13.48,0:01:15.52,forest default C,,0000,0000,0000,,He's known as the Singing Toad.
+Dialogue: 0,0:01:15.84,0:01:17.72,forest default C,,0000,0000,0000,,- The Singing Toad?\N- The Singing Toad?
+Dialogue: 0,0:01:19.57,0:01:22.73,forest default C,,0000,0000,0000,,Oh, Peter, I think\nhe sings really well.
+Dialogue: 0,0:01:24.86,0:01:28.13,forest default C,,0000,0000,0000,,I would like to know\nwhat kind of person Mr. Toad is.
+Dialogue: 0,0:01:28.77,0:01:33.71,forest default C,,0000,0000,0000,,I know him, although we've never spoken\nbecause he is not very sociable.
+Dialogue: 0,0:01:34.36,0:01:39.93,forest default C,,0000,0000,0000,,Honestly, I find it strange that\nsuch an ugly toad can sing so well.
+Dialogue: 0,0:01:40.39,0:01:42.21,forest default C,,0000,0000,0000,,You know what people say:
+Dialogue: 0,0:01:42.48,0:01:44.85,forest default C,,0000,0000,0000,,"Don't judge people if you\ndon't know them!"
+Dialogue: 0,0:01:46.24,0:01:49.62,forest default C,,0000,0000,0000,,That's right, Peter! Don't judge anybody\njust for their looks.
+Dialogue: 0,0:01:51.94,0:01:53.11,forest default C,,0000,0000,0000,,- Oh!\N- Oh!
+Dialogue: 0,0:01:54.67,0:01:56.43,forest default C,,0000,0000,0000,,Don't scare me like that,\nwhat's the matter?
+Dialogue: 0,0:01:57.18,0:02:00.33,forest default C,,0000,0000,0000,,- What's going on?\N- I, I...
+Dialogue: 0,0:02:06.87,0:02:11.63,forest default C,,0000,0000,0000,,Don't scare us like that.\nHow are you, Singing Toad?
+Dialogue: 0,0:02:11.96,0:02:14.70,forest default C,,0000,0000,0000,,So that's the famous singer?\nI didn't expect it at all.
+Dialogue: 0,0:02:21.14,0:02:22.43,forest default C,,0000,0000,0000,,So, what do you think now?
+Dialogue: 0,0:02:23.23,0:02:25.83,forest default C,,0000,0000,0000,,It is really wrong to judge people\nonly by their looks.
+Dialogue: 0,0:02:30.75,0:02:32.60,forest lyrics C,,0000,0000,0000,,{\i1}Unlike Old Grandfather Frog,{\i}
+Dialogue: 0,0:02:32.96,0:02:36.82,forest lyrics C,,0000,0000,0000,,{\i1}The Singing Toad is no good jumper.{\i}
+Dialogue: 0,0:02:36.88,0:02:39.81,forest lyrics C,,0000,0000,0000,,{\i1}But now he runs fast, this Sir.{\i}
+Dialogue: 0,0:02:40.56,0:02:42.33,forest lyrics C,,0000,0000,0000,,{\i1}Wanna know why he's in a hurry?{\i}
+Dialogue: 0,0:02:42.74,0:02:44.55,forest lyrics C,,0000,0000,0000,,{\i1}The reason isn't funny!{\i}
+Dialogue: 0,0:02:45.16,0:02:46.14,forest lyrics C,,0000,0000,0000,,{\i1}He's followed by Green,{\i}
+Dialogue: 0,0:02:46.27,0:02:48.31,forest lyrics C,,0000,0000,0000,,{\i1}The snake who's long and lean.{\i}
+Dialogue: 0,0:02:48.46,0:02:50.10,forest lyrics C,,0000,0000,0000,,{\i1}Toads find no greater enemy on the road,{\i}
+Dialogue: 0,0:02:50.24,0:02:52.17,forest lyrics C,,0000,0000,0000,,{\i1}And now he's chasing poor Singing Toad.{\i}
+Dialogue: 0,0:03:07.67,0:03:09.29,forest default C,,0000,0000,0000,,Oh!!
+Dialogue: 0,0:03:14.68,0:03:17.03,forest default C,,0000,0000,0000,,Stop right there!
+Dialogue: 0,0:03:17.44,0:03:18.92,forest default C,,0000,0000,0000,,Don't interfere, Johnny!
+Dialogue: 0,0:03:19.75,0:03:21.71,forest default C,,0000,0000,0000,,Get out of here, cruel animal!
+Dialogue: 0,0:03:21.96,0:03:23.40,forest default C,,0000,0000,0000,,{\i1}Johnny!{\i}
+Dialogue: 0,0:03:24.98,0:03:28.62,forest default C,,0000,0000,0000,,- Johnny!\N- Green, what are you trying to do?
+Dialogue: 0,0:03:33.57,0:03:38.30,forest default C,,0000,0000,0000,,Just a moment, horrible snake, if you do anything\nI'll bite your tail, I swear!
+Dialogue: 0,0:03:39.94,0:03:44.25,forest default C,,0000,0000,0000,,Well, it doesn't matter. After all,\ntoday I'm not that hungry.
+Dialogue: 0,0:03:52.85,0:03:55.93,forest default C,,0000,0000,0000,,Don't you dare come back!
+Dialogue: 0,0:04:08.04,0:04:10.06,forest default C,,0000,0000,0000,,Thank you for helping me.
+Dialogue: 0,0:04:10.07,0:04:12.51,forest default C,,0000,0000,0000,,Be more careful the next time.
+Dialogue: 0,0:04:13.16,0:04:16.67,forest default C,,0000,0000,0000,,- From now on, we'll be good friends.\N- Thank you.
+Dialogue: 0,0:04:16.69,0:04:17.72,forest default C,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:04:18.04,0:04:20.49,forest default C,,0000,0000,0000,,If it wasn't for you, dear friends,
+Dialogue: 0,0:04:20.49,0:04:23.16,forest default C,,0000,0000,0000,,that evil snake would have eaten me.
+Dialogue: 0,0:04:23.16,0:04:25.48,Default,,0000,0000,0000,,INSERT
+Dialogue: 0,0:04:38.34,0:04:41.10,forest default C,,0000,0000,0000,,What a shame...
+Dialogue: 0,0:04:41.33,0:04:45.62,forest default C,,0000,0000,0000,,I'm so slow to escape,\nso easy to be found,
+Dialogue: 0,0:04:45.68,0:04:49.65,forest default C,,0000,0000,0000,,that those little animals\nhad to rescue me...
+Dialogue: 0,0:04:53.39,0:04:56.31,forest default C,,0000,0000,0000,,Now I'm starving...
+Dialogue: 0,0:04:59.13,0:05:00.22,forest default C,,0000,0000,0000,,{\i1}Oh, yes!{\i}
+Dialogue: 0,0:05:00.54,0:05:02.71,forest default C,,0000,0000,0000,,There are some worms over there.
+Dialogue: 0,0:05:28.20,0:05:32.81,forest default C,,0000,0000,0000,,I'm so hungry, too bad there's\nnothing else around here.
+Dialogue: 0,0:05:35.71,0:05:38.39,forest default C,,0000,0000,0000,,Singing Toad, what do you think\nabout sharing my food?
+Dialogue: 0,0:05:38.55,0:05:41.41,forest default C,,0000,0000,0000,,Do you want to dine with me?
+Dialogue: 0,0:05:50.85,0:05:52.91,forest default C,,0000,0000,0000,,Why do you react like that?
+Dialogue: 0,0:05:53.34,0:05:59.40,forest narrator C,,0000,0000,0000,,{\i1}The Singing Toad thought\nthe Bear was going to eat him.{\i}
+Dialogue: 0,0:06:00.16,0:06:05.70,forest narrator C,,0000,0000,0000,,{\i1}When he heard his suggestion,\nhe thought he was joking.{\i}
+Dialogue: 0,0:06:06.62,0:06:10.75,forest narrator C,,0000,0000,0000,,{\i1}But decided to pretend\nhe agreed with the idea.{\i}
+Dialogue: 0,0:06:11.19,0:06:15.50,forest narrator C,,0000,0000,0000,,{\i1}That was the only way to survive,\nand show off his courage.{\i}
+Dialogue: 0,0:06:16.97,0:06:20.99,forest default C,,0000,0000,0000,,I'll be pleased to dine with you,\nfriend Buster.
+Dialogue: 0,0:06:23.18,0:06:23.79,forest default C,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:25.17,0:06:26.92,forest default C,,0000,0000,0000,,I said that I'll be pleased\nto dine with you.
+Dialogue: 0,0:06:40.77,0:06:43.29,forest default C,,0000,0000,0000,,Not too far from here,
+Dialogue: 0,0:06:43.44,0:06:49.72,forest default C,,0000,0000,0000,,there's a place where you can find\ndelicious food, follow me!
+Dialogue: 0,0:06:50.73,0:06:51.69,forest default C,,0000,0000,0000,,I'm coming!
+Dialogue: 0,0:07:00.34,0:07:03.31,forest default C,,0000,0000,0000,,We've arrived, my friend.\nIt's time to dine.
+Dialogue: 0,0:07:03.55,0:07:06.60,forest default C,,0000,0000,0000,,No-no-no-no.\nI don't see food anywhere.
+Dialogue: 0,0:07:07.34,0:07:11.82,forest default C,,0000,0000,0000,,{\i1}I'm not hungry anymore.{\i}
+Dialogue: 0,0:07:19.74,0:07:20.82,forest default C,,0000,0000,0000,,Oh!
+Dialogue: 0,0:07:20.94,0:07:24.27,forest default C,,0000,0000,0000,,I've never seen so many ants together!
+Dialogue: 0,0:07:25.26,0:07:27.74,forest default C,,0000,0000,0000,,Feel free to eat, my friend.
+Dialogue: 0,0:08:08.03,0:08:11.30,forest default C,,0000,0000,0000,,I've never eaten this much, I'm full!
+Dialogue: 0,0:08:11.74,0:08:17.51,forest default C,,0000,0000,0000,,- Are you satisfied?\N- That was delicious!
+Dialogue: 0,0:08:17.56,0:08:20.19,forest default C,,0000,0000,0000,,In that case, you can come and dine\nwith me whenever you want to.
+Dialogue: 0,0:08:20.55,0:08:24.59,forest default C,,0000,0000,0000,,Seriously? I will, I will!
+Dialogue: 0,0:08:39.04,0:08:44.07,forest default C,,0000,0000,0000,,- Be careful on your way back, Singing Toad!\N- Thank you, my friend, I'll be careful!
+Dialogue: 0,0:09:01.44,0:09:04.96,forest default C,,0000,0000,0000,,Hi, Singing Toad,\ndo you want to play with us?
+Dialogue: 0,0:09:10.26,0:09:12.12,forest default C,,0000,0000,0000,,Haven't you heard me?
+Dialogue: 0,0:09:13.35,0:09:16.72,forest default C,,0000,0000,0000,,I've just finished dining\nwith my friend Buster.
+Dialogue: 0,0:09:17.18,0:09:19.39,forest default C,,0000,0000,0000,,I don't want to know anything from you.
+Dialogue: 0,0:09:22.48,0:09:24.55,forest default C,,0000,0000,0000,,But how can he say that?
+Dialogue: 0,0:09:24.93,0:09:29.60,forest default C,,0000,0000,0000,,He's really ungrateful!\nReally ungrateful!
+Dialogue: 0,0:09:30.43,0:09:33.99,forest default C,,0000,0000,0000,,In my opinion, that was\nreally rude from him.
+Dialogue: 0,0:09:35.24,0:09:37.58,forest default C,,0000,0000,0000,,What is going on, guys?
+Dialogue: 0,0:09:37.94,0:09:41.88,forest default C,,0000,0000,0000,,We're surprised at how ungrateful\nthe Singing Toad is.
+Dialogue: 0,0:09:44.44,0:09:45.11,forest default C,,0000,0000,0000,,{\i1}Yes, that's it!{\i}
+Dialogue: 0,0:09:45.15,0:09:49.40,forest default C,,0000,0000,0000,,After dining with Buster the Bear,\nhe doesn't even want to talk to us!
+Dialogue: 0,0:09:51.66,0:09:55.37,forest default C,,0000,0000,0000,,And yet, he was so modest\nwhen we rescued him...
+Dialogue: 0,0:09:55.91,0:09:58.70,forest default C,,0000,0000,0000,,I think he has a reason to act like that,\nI'll go and find out!
+Dialogue: 0,0:10:00.15,0:10:02.08,forest default C,,0000,0000,0000,,Singing Toad...
+Dialogue: 0,0:10:06.91,0:10:09.08,forest default C,,0000,0000,0000,,...I'm Johnny, do you remember me?
+Dialogue: 0,0:10:10.79,0:10:13.10,forest default C,,0000,0000,0000,,Let me pass, please...
+Dialogue: 0,0:10:13.74,0:10:16.18,forest default C,,0000,0000,0000,,But, I'm Johnny!\nWe're supposed to be friends.
+Dialogue: 0,0:10:17.06,0:10:20.88,forest default C,,0000,0000,0000,,Oh, you don't say!\nDon't make me waste more time.
+Dialogue: 0,0:10:20.96,0:10:23.86,forest default C,,0000,0000,0000,,Buster is my only friend\nhere in the forest!
+Dialogue: 0,0:10:28.18,0:10:31.13,forest default C,,0000,0000,0000,,Whoa, uugh.
+Dialogue: 0,0:10:35.55,0:10:38.27,forest default C,,0000,0000,0000,,Why are you laughing, you envious?
+Dialogue: 0,0:10:40.92,0:10:43.90,forest default C,,0000,0000,0000,,Did he call us envious?\nI can't believe it!
+Dialogue: 0,0:10:44.33,0:10:46.59,forest default C,,0000,0000,0000,,I told you, he must have\na good reason.
+Dialogue: 0,0:10:47.13,0:10:50.86,forest default C,,0000,0000,0000,,That doesn't matter,\nhe's just showing off.
+Dialogue: 0,0:10:50.93,0:10:53.31,forest default C,,0000,0000,0000,,He's showing off that Buster the Bear\nis his new friend.
+Dialogue: 0,0:10:54.11,0:10:56.02,forest default C,,0000,0000,0000,,I'm not really sure of that.
+Dialogue: 0,0:10:56.44,0:11:02.07,forest default C,,0000,0000,0000,,I have the best ears of the whole place,\nand yet I'm not showing off for it.
+Dialogue: 0,0:11:02.83,0:11:05.97,forest default C,,0000,0000,0000,,Me neither. And I have the best\ndefense of the whole forest.
+Dialogue: 0,0:11:06.22,0:11:08.91,forest default C,,0000,0000,0000,,Nobody can climb trees as fast as I do,
+Dialogue: 0,0:11:09.11,0:11:11.16,forest default C,,0000,0000,0000,,and that's not a reason for me\nto feel better than anyone else.
+Dialogue: 0,0:11:11.64,0:11:13.97,forest default C,,0000,0000,0000,,That's true, I wonder what is wrong\nwith the Singing Toad?
+Dialogue: 0,0:11:14.13,0:11:16.19,forest default C,,0000,0000,0000,,If he keeps doing this,\nhe'll lose the sense of reality,
+Dialogue: 0,0:11:16.28,0:11:20.05,forest default C,,0000,0000,0000,,and someone will end up\neating him some day!
+Dialogue: 0,0:11:21.91,0:11:24.31,forest default C,,0000,0000,0000,,Wait, I have a good idea!
+Dialogue: 0,0:11:24.42,0:11:26.47,forest default C,,0000,0000,0000,,Come closer and I'll explain it.
+Dialogue: 0,0:11:26.62,0:11:27.86,forest default C,,0000,0000,0000,,What we have to do is...
+Dialogue: 0,0:11:29.52,0:11:33.89,forest default C,,0000,0000,0000,,- I think this is a cruel thing!\N- It's the only way to teach him.
+Dialogue: 0,0:11:33.94,0:11:37.89,forest default C,,0000,0000,0000,,I have an idea, guys, I can go\nand tell it to the Singing Toad.
+Dialogue: 0,0:11:37.95,0:11:41.57,forest default C,,0000,0000,0000,,Meanwhile, explain to Buster what our plan is.\nWait for me here.
+Dialogue: 0,0:11:42.81,0:11:44.37,forest default C,,0000,0000,0000,,Time to tell it to all the\nanimals in the forest.
+Dialogue: 0,0:11:44.42,0:11:49.28,forest default C,,0000,0000,0000,,Don't do it, friends, please don't.
+Dialogue: 0,0:12:01.45,0:12:02.76,forest default C,,0000,0000,0000,,Singing Toad, Singing Toad!
+Dialogue: 0,0:12:02.84,0:12:04.55,forest default C,,0000,0000,0000,,Singing Toad, Singing Toad!
+Dialogue: 0,0:12:05.26,0:12:07.36,forest default C,,0000,0000,0000,,Singing Toad, are you here?\nDo you hear me?
+Dialogue: 0,0:12:08.35,0:12:09.95,forest default C,,0000,0000,0000,,I have news from Buster, the Bear!
+Dialogue: 0,0:12:10.01,0:12:12.39,forest default C,,0000,0000,0000,,Listen to me, Singing Toad!
+Dialogue: 0,0:12:12.44,0:12:12.62,forest default C,,0000,0000,0000,,Singing Toad, I bring news!
+Dialogue: 0,0:12:12.66,0:12:15.36,forest default C,,0000,0000,0000,,What do you say, Chatterer?
+Dialogue: 0,0:12:15.43,0:12:20.40,forest default C,,0000,0000,0000,,Buster is eager to see you, and is inviting you\nto meet him to have a meal.
+Dialogue: 0,0:12:22.36,0:12:24.21,forest default C,,0000,0000,0000,,Oh, well!
+Dialogue: 0,0:12:26.40,0:12:27.89,forest default C,,0000,0000,0000,,Where is my friend Buster?
+Dialogue: 0,0:12:30.31,0:12:32.27,forest default C,,0000,0000,0000,,I'll tell you now.
+Dialogue: 0,0:12:37.32,0:12:42.00,forest default C,,0000,0000,0000,,He says he's waiting for you by the walnut tree\nat the end of the forest.
+Dialogue: 0,0:12:44.95,0:12:46.90,forest default C,,0000,0000,0000,,Can you tell him
+Dialogue: 0,0:12:46.95,0:12:50.36,forest default C,,0000,0000,0000,,that I'll gladly accept his invitation?
+Dialogue: 0,0:12:50.51,0:12:51.48,forest default C,,0000,0000,0000,,I'll do that!
+Dialogue: 0,0:12:58.21,0:13:02.57,forest default C,,0000,0000,0000,,Buster asked me to meet him again!\nI bet he likes my company...
+Dialogue: 0,0:13:04.46,0:13:08.38,forest default C,,0000,0000,0000,,Singing Toad, you better don't go,\nit might be a trap!
+Dialogue: 0,0:13:08.60,0:13:10.58,forest default C,,0000,0000,0000,,Johnny, you're just jealous.
+Dialogue: 0,0:13:10.91,0:13:14.29,forest default C,,0000,0000,0000,,- Since he never asked any of you for dinner.\N- Not true.
+Dialogue: 0,0:13:16.96,0:13:20.72,forest default C,,0000,0000,0000,,You try to make fun of me, right?
+Dialogue: 0,0:13:23.48,0:13:27.89,forest default C,,0000,0000,0000,,How dare you try to\nmake me doubt my friend!
+Dialogue: 0,0:13:29.84,0:13:33.68,forest default C,,0000,0000,0000,,I shouldn't keep him waiting.
+Dialogue: 0,0:13:45.71,0:13:47.45,forest narrator C,,0000,0000,0000,,{\i1}All the animals started laughing{\i}
+Dialogue: 0,0:13:47.60,0:13:50.37,forest narrator C,,0000,0000,0000,,{\i1}when they saw the Singing Toad\npassing by.{\i}
+Dialogue: 0,0:13:51.16,0:13:53.59,forest narrator C,,0000,0000,0000,,{\i1}The only one who didn't join\nwas Reddy the Fox,{\i}
+Dialogue: 0,0:13:54.61,0:13:57.98,forest narrator C,,0000,0000,0000,,{\i1}since Peter was so scared of him,\nhe decided not to tell him.{\i}
+Dialogue: 0,0:13:58.89,0:14:04.08,forest narrator C,,0000,0000,0000,,{\i1}All other forest animals\nwere ready to gloat{\i}
+Dialogue: 0,0:14:04.30,0:14:06.40,forest narrator C,,0000,0000,0000,,{\i1}and make fun of Singing Toad.{\i}
+Dialogue: 0,0:14:11.84,0:14:12.42,forest default C,,0000,0000,0000,,Ribbit.
+Dialogue: 0,0:14:18.13,0:14:21.03,forest default C,,0000,0000,0000,,Oh, how are you?\nYou look tired.
+Dialogue: 0,0:14:21.08,0:14:25.02,forest default C,,0000,0000,0000,,- Why are you tired?\N- I'm really hot.
+Dialogue: 0,0:14:25.11,0:14:28.37,forest default C,,0000,0000,0000,,Thank you for coming from\nso far away, my friend.
+Dialogue: 0,0:14:28.63,0:14:32.05,forest default C,,0000,0000,0000,,This is a nice place to chill.
+Dialogue: 0,0:14:32.12,0:14:33.90,forest default C,,0000,0000,0000,,Oh, I feel flattered.
+Dialogue: 0,0:14:34.85,0:14:39.57,forest default C,,0000,0000,0000,,I accept your invitation to dine\nwith great pleasure!
+Dialogue: 0,0:14:46.21,0:14:49.46,forest default C,,0000,0000,0000,,To celebrate this meeting
+Dialogue: 0,0:14:49.72,0:14:52.68,forest default C,,0000,0000,0000,,I've decided to invite\nanother friend, as well.
+Dialogue: 0,0:14:53.45,0:14:59.14,forest default C,,0000,0000,0000,,- Oh, then, I'm not the only one.\N- I hope he arrives in time.
+Dialogue: 0,0:15:18.26,0:15:19.62,forest default C,,0000,0000,0000,,Ah, here he is!
+Dialogue: 0,0:15:31.49,0:15:33.57,forest default C,,0000,0000,0000,,I'm leaving, I'm leaving.\nI'm leaving.
+Dialogue: 0,0:15:35.84,0:15:38.30,Default,,0000,0000,0000,,INSERT
+Dialogue: 0,0:15:38.41,0:15:41.28,Default,,0000,0000,0000,,INSERT
+Dialogue: 0,0:16:09.59,0:16:10.67,forest default C,,0000,0000,0000,,- What's wrong with the Toad?\N- Poor Singing Toad,
+Dialogue: 0,0:16:10.82,0:16:15.87,forest default C,,0000,0000,0000,,he must be unhappy to see\neveryone is making fun of him!
+Dialogue: 0,0:16:15.92,0:16:17.44,forest default C,,0000,0000,0000,,Let's follow him.
+Dialogue: 0,0:16:29.46,0:16:31.05,Default,,0000,0000,0000,,INSERT
+Dialogue: 0,0:16:36.36,0:16:37.40,Default,,0000,0000,0000,,INSERT
+Dialogue: 0,0:16:41.00,0:16:42.66,forest default C,,0000,0000,0000,,Where did he go now?
+Dialogue: 0,0:16:46.46,0:16:48.63,forest default C,,0000,0000,0000,,Singing Toad!?
+Dialogue: 0,0:16:50.04,0:16:52.33,forest default C,,0000,0000,0000,,Singing Toad, where are you?
+Dialogue: 0,0:16:52.69,0:16:57.54,forest default C,,0000,0000,0000,,{\i1}Here I am, help me!\nHere I am, help me!{\i}
+Dialogue: 0,0:16:57.91,0:16:59.47,forest default C,,0000,0000,0000,,{\i1}Heeelp!{\i}
+Dialogue: 0,0:17:07.40,0:17:12.95,forest default C,,0000,0000,0000,,- Here, in this hole?...\n{\i1}- Help me...{\i}
+Dialogue: 0,0:17:15.36,0:17:16.45,forest default C,,0000,0000,0000,,I'll help you!
+Dialogue: 0,0:17:19.84,0:17:21.83,forest default C,,0000,0000,0000,,Here I come!
+Dialogue: 0,0:17:25.38,0:17:26.78,forest default C,,0000,0000,0000,,Try to jump!
+Dialogue: 0,0:17:27.41,0:17:28.96,forest default C,,0000,0000,0000,,Here I come, again!
+Dialogue: 0,0:17:31.43,0:17:32.47,forest default C,,0000,0000,0000,,Don't lose hope!
+Dialogue: 0,0:17:32.54,0:17:35.62,forest default C,,0000,0000,0000,,{\i1}How funny!!{\i}
+Dialogue: 0,0:17:35.71,0:17:40.15,forest default C,,0000,0000,0000,,Where were you, Johnny?\nYou missed all the fun!
+Dialogue: 0,0:17:40.22,0:17:41.85,forest default C,,0000,0000,0000,,It's something terrible!\nThe Singing Toad
+Dialogue: 0,0:17:42.13,0:17:46.07,forest default C,,0000,0000,0000,,- ...has fallen into this hole!\N- Oh!
+Dialogue: 0,0:17:47.23,0:17:48.41,forest default C,,0000,0000,0000,,And once again!
+Dialogue: 0,0:17:50.27,0:17:50.97,forest default C,,0000,0000,0000,,Oh...
+Dialogue: 0,0:17:55.71,0:18:00.38,forest default C,,0000,0000,0000,,Spending some time there\nwill teach him a lesson.
+Dialogue: 0,0:18:00.48,0:18:01.60,forest default C,,0000,0000,0000,,But if he can't get out,
+Dialogue: 0,0:18:01.68,0:18:02.76,forest default C,,0000,0000,0000,,he'll die!
+Dialogue: 0,0:18:03.90,0:18:09.15,forest default C,,0000,0000,0000,,Boastful Singing Toad, puff up your belly\nand try to float!
+Dialogue: 0,0:18:09.19,0:18:10.99,forest default C,,0000,0000,0000,,Don't behave like that!
+Dialogue: 0,0:18:14.90,0:18:16.47,forest default C,,0000,0000,0000,,Help me!
+Dialogue: 0,0:18:31.90,0:18:33.85,forest default C,,0000,0000,0000,,{\i1}Ah, yeah, that'll work.{\i}
+Dialogue: 0,0:18:39.49,0:18:44.13,forest default C,,0000,0000,0000,,Help me, I'm drowning, help me!
+Dialogue: 0,0:18:44.29,0:18:45.65,forest default C,,0000,0000,0000,,Hold on just a little longer...
+Dialogue: 0,0:18:50.18,0:18:51.36,forest default C,,0000,0000,0000,,Oh, that.
+Dialogue: 0,0:18:55.20,0:18:57.88,forest default C,,0000,0000,0000,,- Use that to float.\N- Thank you.
+Dialogue: 0,0:18:58.27,0:19:01.48,forest default C,,0000,0000,0000,,{\i1}Everything will be in vain,\nI'm done for.{\i}
+Dialogue: 0,0:19:01.55,0:19:03.06,forest default C,,0000,0000,0000,,{\i1}I can't get out of here.{\i}
+Dialogue: 0,0:19:06.26,0:19:11.02,forest default C,,0000,0000,0000,,Singing Toad, don't lose hope,\nwe'll save you!
+Dialogue: 0,0:19:11.21,0:19:15.88,forest default C,,0000,0000,0000,,Thank you, my dear friends,\nthank you, my dear friends!
+Dialogue: 0,0:19:17.75,0:19:19.62,forest default C,,0000,0000,0000,,I'm really moved.
+Dialogue: 0,0:19:20.39,0:19:25.25,forest default C,,0000,0000,0000,,Singing Toad, forgive us\nfor laughing at you!
+Dialogue: 0,0:19:25.38,0:19:28.30,forest default C,,0000,0000,0000,,We didn't want you to fall in there,\nwe just wanted to teach you a lesson.
+Dialogue: 0,0:19:28.44,0:19:31.18,forest default C,,0000,0000,0000,,Peter, you should have thought\nabout the consequences.
+Dialogue: 0,0:19:31.28,0:19:34.83,forest default C,,0000,0000,0000,,I insisted we shouldn't have done it\nfrom the beginning.
+Dialogue: 0,0:19:35.54,0:19:37.28,forest default C,,0000,0000,0000,,This is not the time or place\nto be arguing!
+Dialogue: 0,0:19:37.86,0:19:39.82,forest default C,,0000,0000,0000,,Of course it's not\ntime to discuss.
+Dialogue: 0,0:19:40.21,0:19:43.65,forest default C,,0000,0000,0000,,Make them stop, Johnny.
+Dialogue: 0,0:19:43.83,0:19:45.37,forest default C,,0000,0000,0000,,I'm ashamed of you!
+Dialogue: 0,0:19:54.61,0:19:57.05,forest default C,,0000,0000,0000,,What's going on, fellas?
+Dialogue: 0,0:19:57.36,0:19:59.94,forest default C,,0000,0000,0000,,One second ago you were\nhappy and laughing.
+Dialogue: 0,0:20:02.63,0:20:07.21,forest default C,,0000,0000,0000,,Buster, could you save the Singing Toad?\nHe's fallen in there!
+Dialogue: 0,0:20:07.55,0:20:09.28,forest default C,,0000,0000,0000,,He's fallen?
+Dialogue: 0,0:20:36.27,0:20:37.96,forest default C,,0000,0000,0000,,Thank you, friends!
+Dialogue: 0,0:20:39.83,0:20:42.22,forest default C,,0000,0000,0000,,Wow, Buster, you're wonderful!
+Dialogue: 0,0:20:42.52,0:20:44.77,forest default C,,0000,0000,0000,,But what's wrong with you?
+Dialogue: 0,0:20:44.86,0:20:50.30,forest default C,,0000,0000,0000,,First you ask me to teach him a lesson,\nand now you ask me to save him?
+Dialogue: 0,0:20:50.67,0:20:52.89,forest default C,,0000,0000,0000,,Sorry, I'm the one at fault.
+Dialogue: 0,0:20:53.38,0:20:54.36,forest default C,,0000,0000,0000,,That's not true,
+Dialogue: 0,0:20:54.51,0:20:57.52,forest default C,,0000,0000,0000,,if it wasn't because of my attitude,\nnothing would have happened.
+Dialogue: 0,0:20:58.63,0:21:01.57,forest default C,,0000,0000,0000,,Buster is the best,\nno doubt about that.
+Dialogue: 0,0:21:01.76,0:21:03.58,forest default C,,0000,0000,0000,,It's fine, it's fine.
+Dialogue: 0,0:21:03.62,0:21:08.24,forest default C,,0000,0000,0000,,Mother Nature is the one\nthat made me big and strong.
+Dialogue: 0,0:21:08.42,0:21:11.98,forest default C,,0000,0000,0000,,But I'm unable to hurt anyone.
+Dialogue: 0,0:21:12.03,0:21:14.75,forest default C,,0000,0000,0000,,I won't be a boastful toad anymore.
+Dialogue: 0,0:21:14.78,0:21:19.89,forest default C,,0000,0000,0000,,And we will never make fun of\nyou again, I promise!
+Dialogue: 0,0:21:19.97,0:21:23.09,forest default C,,0000,0000,0000,,Polly and I made that promise\na long time ago.
+Dialogue: 0,0:21:23.48,0:21:25.88,forest default C,,0000,0000,0000,,Why haven't you told me?
+Dialogue: 0,0:21:29.79,0:21:32.78,forest default C,,0000,0000,0000,,Why? Tell me!
+Dialogue: 0,0:21:32.87,0:21:38.60,forest default C,,0000,0000,0000,,Look, Peter is curious again and\nthat's what has caused all of this!
+Dialogue: 0,0:21:38.68,0:21:40.63,forest default C,,0000,0000,0000,,Getting involved in other people's lives.
+Dialogue: 0,0:21:44.77,0:21:47.14,forest default C,,0000,0000,0000,,It's fine, don't laugh.
+Dialogue: 0,0:21:47.40,0:21:50.44,forest lyrics C,,0000,0000,0000,,{\i1}The Singing Toad sings in the lagoon,{\i}
+Dialogue: 0,0:21:51.31,0:21:54.92,forest lyrics C,,0000,0000,0000,,{\i1}They say he does it{\i}
+Dialogue: 0,0:21:55.09,0:21:58.54,forest lyrics C,,0000,0000,0000,,{\i1}when it's full Moon,{\i}
+Dialogue: 0,0:21:58.63,0:22:01.72,forest lyrics C,,0000,0000,0000,,{\i1}He is the major,{\i}
+Dialogue: 0,0:22:01.85,0:22:04.07,forest lyrics C,,0000,0000,0000,,{\i1}He's is a tenor,{\i}
+Dialogue: 0,0:22:04.11,0:22:06.11,forest lyrics C,,0000,0000,0000,,{\i1}His music always present,{\i}
+Dialogue: 0,0:22:06.25,0:22:08.10,forest lyrics C,,0000,0000,0000,,{\i1}Because he's a good friend,{\i}
+Dialogue: 0,0:22:08.28,0:22:11.89,forest lyrics C,,0000,0000,0000,,{\i1}Because he's a good friend!{\i}
+Dialogue: 0,0:22:12.06,0:22:14.10,forest narrator C,,0000,0000,0000,,{\i1}Nobody should show off,\nor make fun of others,{\i}
+Dialogue: 0,0:22:14.50,0:22:16.21,forest narrator C,,0000,0000,0000,,{\i1}just like it happened\nwith the Singing Toad,{\i}
+Dialogue: 0,0:22:16.48,0:22:20.58,forest narrator C,,0000,0000,0000,,{\i1}that almost drowned,\nand a great singer would've been lost.{\i}
+Dialogue: 0,0:22:24.24,0:22:30.49,forest credits C,,0000,0000,0000,,{\c&HFFFFFF&}Translation from Spanish: {\c&H1BEAED&\fnMf Kazincbarcika\fs37}Lordwen\n{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&\fnMf Kazincbarcika\fs37}South Wind Subs
