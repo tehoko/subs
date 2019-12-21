@@ -14,195 +14,195 @@ Group: OldCastle & South Wind Subs
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,5,10,10,10,1
-Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
+Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,5,10,10,10,1
+Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.00,0:00:08.00,forest title KB,,0,0,0,,FABLES \N of the\NGREEN FOREST
-Dialogue: 0,0:00:04.00,0:00:08.00,forest ep title C,,0,0,0,,{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Paddy builds a dream house"{\i}
-Dialogue: 0,0:00:33.36,0:00:37.79,forest narrator C,,0,0,0,,{\i1}Paddy the Beaver works feverishly\Nfrom early morning until dark.{\i}
-Dialogue: 0,0:00:37.85,0:00:41.73,forest narrator C,,0,0,0,,{\i1}He works so hard without seemingly\Ntaking any time to sleep.{\i}
-Dialogue: 0,0:00:42.33,0:00:45.36,forest narrator C,,0,0,0,,{\i1}And finally he completes a splendid dam.{\i}
-Dialogue: 0,0:01:07.67,0:01:11.28,forest default C,,0,0,0,,This is the dam I built!\NThis is the dam I built!
-Dialogue: 0,0:01:17.41,0:01:20.17,forest default C,,0,0,0,,Wow, oh, great, wonderful!\NOh!
-Dialogue: 0,0:01:35.28,0:01:37.46,forest default C,,0,0,0,,Oh, hi, Johnny Chuck!
-Dialogue: 0,0:01:37.66,0:01:38.66,forest default C,,0,0,0,,Paddy!
-Dialogue: 0,0:01:39.32,0:01:42.35,forest default C,,0,0,0,,Polly and Peter too!\NNice of you to come!
-Dialogue: 0,0:01:42.39,0:01:47.03,forest default C,,0,0,0,,We heard you were building a house,\Nso we come over to see how it was!
-Dialogue: 0,0:01:47.03,0:01:49.93,forest default C,,0,0,0,,Hey-hey-hey, where are you building it, huh?
-Dialogue: 0,0:01:50.27,0:01:52.64,forest default C,,0,0,0,,I've already started building the house!
-Dialogue: 0,0:01:52.64,0:01:55.72,forest default C,,0,0,0,,- Where, where...?! Where?!\N- Where, where...?! Where?!
-Dialogue: 0,0:01:58.24,0:02:01.83,forest default C,,0,0,0,,You can't see it!\NI started from the foundation!
-Dialogue: 0,0:02:02.40,0:02:04.55,forest default C,,0,0,0,,It's almost completely built now!
-Dialogue: 0,0:02:09.88,0:02:13.30,forest default C,,0,0,0,,Well, Joe and Harry are also here!
-Dialogue: 0,0:02:22.38,0:02:26.26,forest default C,,0,0,0,,Did you, fellows, come to watch Paddy\Nbuild his house?
-Dialogue: 0,0:02:27.47,0:02:28.57,forest default C,,0,0,0,,- Yeah...\N- Yeah...
-Dialogue: 0,0:02:29.48,0:02:33.45,forest default C,,0,0,0,,Hey... what is Paddy doing underwater\NI wonder...
-Dialogue: 0,0:02:33.45,0:02:35.54,forest default C,,0,0,0,,That's what we don't know, Joe!
-Dialogue: 0,0:02:40.16,0:02:42.96,forest default C,,0,0,0,,- I'm going to go see!\N- Me too!
-Dialogue: 0,0:03:10.48,0:03:13.23,forest default C,,0,0,0,,Oh, a mountain of mud and timber?!
-Dialogue: 0,0:03:18.11,0:03:21.92,forest narrator C,,0,0,0,,{\i1}It can't be helped that Johnny\Nand the others don't understand it.{\i}
-Dialogue: 0,0:03:22.28,0:03:25.85,forest narrator C,,0,0,0,,{\i1}What Paddy was building\Nso diligently was the foundation.{\i}
-Dialogue: 0,0:03:26.07,0:03:27.98,forest narrator C,,0,0,0,,{\i1}From the surface it can't be seen.{\i}
-Dialogue: 0,0:03:27.98,0:03:32.83,forest narrator C,,0,0,0,,{\i1}His first task was to build a mound\Nto the level of the water surface.{\i}
-Dialogue: 0,0:03:36.32,0:03:37.32,forest default C,,0,0,0,,Hey!
-Dialogue: 0,0:04:32.49,0:04:34.62,forest default C,,0,0,0,,It's finished!
-Dialogue: 0,0:04:34.83,0:04:36.62,forest default C,,0,0,0,,It's finished!
-Dialogue: 0,0:05:21.91,0:05:23.42,forest default C,,0,0,0,,What's it be, huh?!
-Dialogue: 0,0:05:24.21,0:05:25.31,forest default C,,0,0,0,,Well...
-Dialogue: 0,0:05:27.21,0:05:29.13,forest default C,,0,0,0,,- Oh!\N- I don't know!
-Dialogue: 0,0:05:32.68,0:05:35.61,forest default C,,0,0,0,,It really is beyond me now!
-Dialogue: 0,0:05:35.68,0:05:39.76,forest default C,,0,0,0,,Does Paddy really know how to build\Na house with those sticks?
-Dialogue: 0,0:05:39.80,0:05:42.73,forest default C,,0,0,0,,He must've made a mistake.\NHe sure did!
-Dialogue: 0,0:05:42.73,0:05:44.98,forest default C,,0,0,0,,What else can one think, huh?
-Dialogue: 0,0:05:44.98,0:05:47.41,forest default C,,0,0,0,,Yeah, what a disgusting fellow!
-Dialogue: 0,0:05:47.41,0:05:49.99,forest default C,,0,0,0,,This won't be much of a house, anyway!
-Dialogue: 0,0:05:50.46,0:05:54.22,forest default C,,0,0,0,,That's right, that's right,\None can't stand such a sight!
-Dialogue: 0,0:05:56.48,0:06:00.38,forest narrator C,,0,0,0,,{\i1}The rumor that Paddy had somehow\Nmade a mistake in building his house,{\i}
-Dialogue: 0,0:06:00.38,0:06:02.61,forest narrator C,,0,0,0,,{\i1}spread quickly throughout the forest.{\i}
-Dialogue: 0,0:06:04.70,0:06:08.91,forest narrator C,,0,0,0,,{\i1}However, Paddy was still continuing\Nto work very hard.{\i}
-Dialogue: 0,0:06:08.98,0:06:13.54,forest narrator C,,0,0,0,,{\i1}Everyday he brought more sticks,\Nlogs and mud to the site.{\i}
-Dialogue: 0,0:06:13.54,0:06:18.04,forest narrator C,,0,0,0,,{\i1}And everyday the house\Ngrew larger and larger,{\i}
-Dialogue: 0,0:06:18.07,0:06:21.27,forest narrator C,,0,0,0,,{\i1}as Paddy put in more and more effort.{\i}
-Dialogue: 0,0:06:23.13,0:06:26.95,forest default C,,0,0,0,,Paddy... is that a house?\NHow are you going to sleep?
-Dialogue: 0,0:06:31.97,0:06:34.14,forest default C,,0,0,0,,Hear, can't you even reply?
-Dialogue: 0,0:06:34.14,0:06:37.33,forest default C,,0,0,0,,The truth is you don't even know\Nhow to build a house!
-Dialogue: 0,0:06:37.33,0:06:40.12,forest default C,,0,0,0,,Right?\NIf asked, we could teach you!
-Dialogue: 0,0:06:40.17,0:06:45.21,forest default C,,0,0,0,,It's okay... I'll show you! I'm going to build\Nmy house the way I want to!
-Dialogue: 0,0:06:45.80,0:06:49.04,forest default C,,0,0,0,,Huh! Here I am, trying to be nice,\Nand you, look at you!
-Dialogue: 0,0:06:49.04,0:06:52.89,forest default C,,0,0,0,,From the beginning I just couldn't\Ntalk into you, don't be so irritating!
-Dialogue: 0,0:07:05.53,0:07:10.54,forest default C,,0,0,0,,Hey, everyone in the forest! Paddy\Ndoesn't know how, but he's building a house!
-Dialogue: 0,0:07:10.54,0:07:11.94,forest default C,,0,0,0,,He's a big fool!
-Dialogue: 0,0:07:12.91,0:07:14.73,forest default C,,0,0,0,,I just can't like that Paddy!
-Dialogue: 0,0:07:14.73,0:07:19.85,forest default C,,0,0,0,,That's right! Even when he build a dam there,\NI was against him all the time!
-Dialogue: 0,0:07:41.90,0:07:45.34,forest default C,,0,0,0,,I can't stand him!\NI just can't stand Paddy!
-Dialogue: 0,0:07:45.34,0:07:49.65,forest default C,,0,0,0,,That thing, the case... I think I'll bother him!\NNow, how can I bother him?
-Dialogue: 0,0:08:13.32,0:08:14.32,forest default C,,0,0,0,,Hey...
-Dialogue: 0,0:08:15.71,0:08:19.27,forest default C,,0,0,0,,Hi, Jimmy the Skunk!\NA beautiful day, isn't it?
-Dialogue: 0,0:08:19.27,0:08:22.78,forest default C,,0,0,0,,You don't seem to be in to good a mood,\Nwhat's the matter with you?
-Dialogue: 0,0:08:26.64,0:08:29.15,forest default C,,0,0,0,,Hey, I'm talking to you!\NYou don't want to answer!
-Dialogue: 0,0:08:29.48,0:08:33.22,forest default C,,0,0,0,,Oh, beetle, you're just a fly in my ointment!
-Dialogue: 0,0:08:33.22,0:08:36.93,forest default C,,0,0,0,,Oh, you're in a bad mood 'coz you\Ncan't find any beetles, huh?
-Dialogue: 0,0:08:40.19,0:08:43.14,forest default C,,0,0,0,,If that's it, I know a place\Nwhere there's a bunch of them!
-Dialogue: 0,0:08:43.14,0:08:45.38,forest default C,,0,0,0,,What?! Really?!
-Dialogue: 0,0:08:45.44,0:08:47.41,forest default C,,0,0,0,,You know Paddy's dam, right?
-Dialogue: 0,0:08:48.37,0:08:52.48,forest default C,,0,0,0,,Go there to the White Poplar Grove\Nand I'm sure you'll be very satisfied!
-Dialogue: 0,0:08:52.48,0:08:55.65,forest default C,,0,0,0,,Indeed it's swarming with plump beetles there!
-Dialogue: 0,0:08:55.95,0:09:00.82,forest default C,,0,0,0,,To be able to eat to my heart's content\Nmy favourite beetles!
-Dialogue: 0,0:09:05.16,0:09:06.16,forest default C,,0,0,0,,Well, then...!
-Dialogue: 0,0:09:14.30,0:09:15.96,forest default C,,0,0,0,,{\i1}Hello there, Weasel!{\i}
-Dialogue: 0,0:09:18.86,0:09:22.24,forest default C,,0,0,0,,Say, have you ever thought\Nyou'd like to catch Paddy the Beaver?
-Dialogue: 0,0:09:22.80,0:09:26.45,forest default C,,0,0,0,,You mean P-P-P-P-Paddy?\NOf c-c-c-course, yes!
-Dialogue: 0,0:09:26.98,0:09:29.86,forest default C,,0,0,0,,Say, I've got a swell idea!
-Dialogue: 0,0:09:30.81,0:09:32.15,forest default C,,0,0,0,,Let me tell you something...
-Dialogue: 0,0:10:04.36,0:10:07.51,forest default C,,0,0,0,,The beetles...?!\NSinging...?!
-Dialogue: 0,0:10:08.37,0:10:12.09,forest default C,,0,0,0,,Sure funny!\NMaybe the beetles don't like me at all!
-Dialogue: 0,0:10:23.33,0:10:26.03,forest default C,,0,0,0,,A suspicious looking shadow...
-Dialogue: 0,0:10:27.10,0:10:31.76,forest default C,,0,0,0,,Whoever you are, Mr. Shadow,\Nyou better not come any closer,
-Dialogue: 0,0:10:31.76,0:10:34.18,forest default C,,0,0,0,,I'm getting very nervous...!
-Dialogue: 0,0:10:55.96,0:10:58.20,forest default C,,0,0,0,,Oh, it's Jimmy's gas!
-Dialogue: 0,0:10:58.20,0:11:02.15,forest default C,,0,0,0,,Hey, that's right!\NWhat's Jimmy doing in this place, huh?!
-Dialogue: 0,0:11:03.30,0:11:05.48,forest default C,,0,0,0,,- Paddy...!\N- Paddy...!
-Dialogue: 0,0:11:07.51,0:11:10.03,forest default C,,0,0,0,,I wonder where Paddy is!
-Dialogue: 0,0:11:16.83,0:11:19.15,forest default C,,0,0,0,,He must've run off and hid somewhere.
-Dialogue: 0,0:11:19.15,0:11:22.30,forest default C,,0,0,0,,Since he can't build his house,\Nand he's ashamed,
-Dialogue: 0,0:11:22.30,0:11:27.55,forest default C,,0,0,0,,and since the grove is like that\Nhe can't live here either, do you see?
-Dialogue: 0,0:11:41.77,0:11:44.27,forest default C,,0,0,0,,Oh, what a terrible thing!
-Dialogue: 0,0:11:45.17,0:11:47.93,forest default C,,0,0,0,,Paddy won't be able to feed anything like that!
-Dialogue: 0,0:11:48.23,0:11:52.66,forest default C,,0,0,0,,Knowing the white poplar is Paddy's favorite,\Nwho would do such a thing?!
-Dialogue: 0,0:11:53.06,0:11:55.80,forest default C,,0,0,0,,Huh, now Paddy must leave the Green Forest,
-Dialogue: 0,0:11:55.80,0:11:57.30,forest default C,,0,0,0,,Paddy must leave the Green Forest,
-Dialogue: 0,0:11:57.30,0:11:58.58,forest default C,,0,0,0,,Paddy must leave the Green Forest,
-Dialogue: 0,0:11:58.58,0:12:00.41,forest default C,,0,0,0,,the Green Forest, the Green Forest,\Nthe Green Forest...!
-Dialogue: 0,0:12:01.75,0:12:03.73,forest default C,,0,0,0,,Paddy?\NWhere did he go?!
-Dialogue: 0,0:12:12.46,0:12:16.32,forest narrator C,,0,0,0,,{\i1}Paddy's not discouraged by the withering\Nof the poplar trees nearby.{\i}
-Dialogue: 0,0:12:16.32,0:12:18.91,forest narrator C,,0,0,0,,{\i1}Instead, he builds a waterway,{\i}
-Dialogue: 0,0:12:18.91,0:12:21.96,forest narrator C,,0,0,0,,{\i1}because now he has to go\Nsome distance to get trees,{\i}
-Dialogue: 0,0:12:21.96,0:12:25.70,forest narrator C,,0,0,0,,{\i1}and the waterway will facilitate him\Nbringing the trees back to the lake,{\i}
-Dialogue: 0,0:12:25.70,0:12:27.15,forest narrator C,,0,0,0,,{\i1}by floating them in.{\i}
-Dialogue: 0,0:12:27.84,0:12:31.20,forest default C,,0,0,0,,Beetle-beetle, the you-don't-like-me beetles!
-Dialogue: 0,0:12:31.20,0:12:34.71,forest default C,,0,0,0,,I never can find enough to satisfy me...
-Dialogue: 0,0:12:34.71,0:12:36.48,forest default C,,0,0,0,,What am I gonna do?
-Dialogue: 0,0:12:39.60,0:12:42.48,forest default C,,0,0,0,,Oh, you all together...\NWhat's the occasion?
-Dialogue: 0,0:12:42.49,0:12:44.73,forest default C,,0,0,0,,You sure do some terrible things!
-Dialogue: 0,0:12:46.43,0:12:47.79,forest default C,,0,0,0,,What do you mean?
-Dialogue: 0,0:12:47.79,0:12:51.73,forest default C,,0,0,0,,- That's right, say you're sorry to Paddy!\N- Don't you feel sorry for Paddy?
-Dialogue: 0,0:12:52.59,0:12:53.89,forest default C,,0,0,0,,What's that?
-Dialogue: 0,0:12:53.89,0:12:56.00,forest default C,,0,0,0,,Why did you do such a thing?
-Dialogue: 0,0:13:02.38,0:13:05.50,forest default C,,0,0,0,,Forgive me, Johnny, I didn't mean to...
-Dialogue: 0,0:13:10.51,0:13:15.20,forest default C,,0,0,0,,Yesterday, Sammy came and told me that there\Nwere many plump beetles over there.
-Dialogue: 0,0:13:15.65,0:13:17.12,forest default C,,0,0,0,,- Huh...?!\N- Sammy said that?!
-Dialogue: 0,0:13:18.77,0:13:23.06,forest default C,,0,0,0,,I tell you there's no beetles there!\NI've never once seen any there!
-Dialogue: 0,0:13:23.06,0:13:26.83,forest default C,,0,0,0,,That's right, but somebody, I don't know who,\Nstarted to attack me,
-Dialogue: 0,0:13:26.83,0:13:30.18,forest default C,,0,0,0,,and that's when I let the gas go,\Nit's the truth!
-Dialogue: 0,0:13:30.71,0:13:34.00,forest default C,,0,0,0,,Sure funny!\NWhy did Sammy told such a lie?
-Dialogue: 0,0:13:34.56,0:13:35.95,forest default C,,0,0,0,,It's funny, isn't it?
-Dialogue: 0,0:13:37.02,0:13:40.85,forest default C,,0,0,0,,- This is one of Sammy's tricks!\N- I think I see the light...
-Dialogue: 0,0:13:40.85,0:13:44.09,forest default C,,0,0,0,,Sammy's accomplice could be that guy, maybe...
-Dialogue: 0,0:13:45.01,0:13:48.93,forest default C,,0,0,0,,P-P-P-Paddy...\Nhe-he's left t-t-the d-d-d-dam?
-Dialogue: 0,0:13:49.01,0:13:54.24,forest default C,,0,0,0,,I saw it with my own eyes!\NHe's gone and he's digging a big hole!
-Dialogue: 0,0:13:54.51,0:13:57.68,forest default C,,0,0,0,,I-i-if he le-le-leaves the-the d-d-dam,\Nhe's m-m-mine!
-Dialogue: 0,0:13:57.68,0:14:03.14,forest default C,,0,0,0,,He-he-he can't r-r-r-run in the w-w-w-water!\NLet's g-g-g-go!
-Dialogue: 0,0:14:04.14,0:14:07.41,forest default C,,0,0,0,,- Paddy's in danger! Quick, let's find him!\N- Yeah...
-Dialogue: 0,0:14:56.16,0:15:00.09,forest default C,,0,0,0,,Woe to him who makes a fool\Nof Sammy, the Beautiful Jay!
-Dialogue: 0,0:15:02.33,0:15:05.06,forest default C,,0,0,0,,Get him! Get him, get him,\Nyou Mean Weasel you!
-Dialogue: 0,0:15:13.73,0:15:14.49,forest default C,,0,0,0,,Get him!
-Dialogue: 0,0:15:16.20,0:15:17.20,forest default C,,0,0,0,,Get him!
-Dialogue: 0,0:15:17.67,0:15:19.13,forest default C,,0,0,0,,Go get Paddy!
-Dialogue: 0,0:15:20.98,0:15:22.39,forest default C,,0,0,0,,Get Paddy!\NHuh...
-Dialogue: 0,0:15:50.93,0:15:53.58,forest default C,,0,0,0,,Hey...\NSammy, nice to see you!
-Dialogue: 0,0:15:56.88,0:16:00.99,forest default C,,0,0,0,,What are you doing around here, buddy?\NWhat are you hanging around for?
-Dialogue: 0,0:16:02.04,0:16:04.50,forest default C,,0,0,0,,{\i1}There's no one in this forest\Na better person than he!{\i}
-Dialogue: 0,0:16:04.50,0:16:08.35,forest default C,,0,0,0,,{\i1}I wonder if is right to let the Mean Weasel\Nget him, but he made a fool of me!{\i}
-Dialogue: 0,0:16:08.35,0:16:10.17,forest default C,,0,0,0,,{\i1}But he is a kindhearted guy!{\i}
-Dialogue: 0,0:16:10.92,0:16:13.49,forest default C,,0,0,0,,{\i1}However, I'd send the Mean Weasel on him!{\i}
-Dialogue: 0,0:16:15.58,0:16:19.69,forest narrator C,,0,0,0,,{\i1}And that's when Sammy realized,\Nthat getting his revenge{\i}
-Dialogue: 0,0:16:19.99,0:16:22.06,forest narrator C,,0,0,0,,{\i1}was not giving him pleasure.{\i}
-Dialogue: 0,0:16:22.88,0:16:26.39,forest narrator C,,0,0,0,,{\i1}After all, to take revenge solves nothing.{\i}
-Dialogue: 0,0:16:27.43,0:16:29.04,forest narrator C,,0,0,0,,{\i1}And now finally...{\i}
-Dialogue: 0,0:16:29.76,0:16:32.14,forest narrator C,,0,0,0,,{\i1}...Sammy realized that for himself.{\i}
-Dialogue: 0,0:16:33.98,0:16:34.65,forest narrator C,,0,0,0,,{\i1}Then...{\i}
-Dialogue: 0,0:16:35.39,0:16:36.71,forest narrator C,,0,0,0,,{\i1}...he saw something.{\i}
-Dialogue: 0,0:16:45.74,0:16:48.20,forest default C,,0,0,0,,Watch out, Paddy, run!\NWatch out, Paddy, run!
-Dialogue: 0,0:16:48.20,0:16:50.55,forest default C,,0,0,0,,Run! Paddy!\NIt's the Weasel!
-Dialogue: 0,0:17:00.13,0:17:01.13,forest default C,,0,0,0,,- Paddy!\N- Oh...!
-Dialogue: 0,0:17:06.43,0:17:09.45,forest default C,,0,0,0,,I-i-i-t's about time...\Nhe starts to h-h-hurt!
-Dialogue: 0,0:18:11.92,0:18:13.59,forest default C,,0,0,0,,- Johnny!\N- Huh?!
-Dialogue: 0,0:18:13.59,0:18:16.66,forest default C,,0,0,0,,E-e-e-everyone, get-get-get out of here!
-Dialogue: 0,0:18:16.66,0:18:18.64,forest default C,,0,0,0,,J-J-J-Jimmy!
-Dialogue: 0,0:18:20.32,0:18:24.38,forest default C,,0,0,0,,I'm mad! Fooling me and being mean to Paddy!
-Dialogue: 0,0:18:28.14,0:18:31.56,forest default C,,0,0,0,,Not that!\NOf all things! W-w-w-wait!
-Dialogue: 0,0:18:43.20,0:18:45.13,forest default C,,0,0,0,,Hey...!
-Dialogue: 0,0:18:49.09,0:18:50.57,forest default C,,0,0,0,,Johnny, where are you?
-Dialogue: 0,0:19:02.81,0:19:06.10,forest default C,,0,0,0,,Why doesn't anybody like such\Na pleasant aroma?
-Dialogue: 0,0:19:09.46,0:19:14.38,forest narrator C,,0,0,0,,{\i1}Beavers place the logs they collect for food\Nfirmly around the base of their dwelling.{\i}
-Dialogue: 0,0:19:14.40,0:19:16.72,forest narrator C,,0,0,0,,{\i1}So when hungry they leave by the exit,{\i}
-Dialogue: 0,0:19:16.72,0:19:21.56,forest narrator C,,0,0,0,,{\i1}enter the water and carry the logs\Nback inside... so they can feast.{\i}
-Dialogue: 0,0:19:52.13,0:19:54.59,forest default C,,0,0,0,,- Hi, Paddy! Is your house finished?\N- Hey!
-Dialogue: 0,0:19:54.75,0:19:56.79,forest default C,,0,0,0,,Just a little more, then it will be finished!
-Dialogue: 0,0:19:56.79,0:19:58.00,forest default C,,0,0,0,,Come and see it, Johnny!
-Dialogue: 0,0:20:30.57,0:20:32.48,forest default C,,0,0,0,,Hey, it's finished!
-Dialogue: 0,0:20:32.69,0:20:34.47,forest default C,,0,0,0,,It's finished!
-Dialogue: 0,0:20:37.05,0:20:40.02,forest default C,,0,0,0,,All finished!\NHey...!
-Dialogue: 0,0:20:42.20,0:20:46.19,forest default C,,0,0,0,,Oh boy, it's finished! My house\Nis finally all finished! All finished!
-Dialogue: 0,0:20:46.36,0:20:47.76,forest default C,,0,0,0,,Congratulations!
-Dialogue: 0,0:20:47.94,0:20:49.32,forest default C,,0,0,0,,{\i1}How wonderful!{\i}
-Dialogue: 0,0:20:49.32,0:20:52.74,forest default C,,0,0,0,,I sure would like to see\Nwhat it's like on the inside!
-Dialogue: 0,0:20:54.27,0:20:56.41,forest default C,,0,0,0,,OK, I'll go see!
-Dialogue: 0,0:20:57.99,0:20:59.59,forest default C,,0,0,0,,Hey, take me along!
-Dialogue: 0,0:21:05.22,0:21:09.03,forest default C,,0,0,0,,That's sneaky, Johnny! They go\Nand leave me behind! That's sneaky!
-Dialogue: 0,0:21:13.13,0:21:16.84,forest default C,,0,0,0,,No furnishings and decorations yet,\Nbut please, please...
-Dialogue: 0,0:21:18.13,0:21:21.84,forest default C,,0,0,0,,Tremendous!\NGood thing you just scoop out the inside!
-Dialogue: 0,0:21:22.57,0:21:25.03,forest default C,,0,0,0,,I could enter the dam through there!
-Dialogue: 0,0:21:40.85,0:21:44.95,forest default C,,0,0,0,,It's beautiful!\NPaddy's house... really wonderful!
-Dialogue: 0,0:21:45.07,0:21:46.85,forest default C,,0,0,0,,Paddy's house is completed!
-Dialogue: 0,0:21:46.85,0:21:50.25,forest default C,,0,0,0,,And Paddy doesn't know\Nhow to build a house is a lie!
-Dialogue: 0,0:21:50.55,0:21:53.04,forest default C,,0,0,0,,Paddy has built a house!
-Dialogue: 0,0:21:55.50,0:22:00.09,forest default C,,0,0,0,,Polly, Paddy is a genius in house building!\NIt's really a wonderful house!
-Dialogue: 0,0:22:00.09,0:22:04.17,forest default C,,0,0,0,,That's sneaky, Johnny, to see the house\Nall by yourself! Show it to me too!
-Dialogue: 0,0:22:13.90,0:22:15.59,forest credits C,,0,0,0,,{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs
+Dialogue: 0,0:00:02.00,0:00:08.00,forest title KB,,0,0,0,,{TIME:2000,8000}FABLES \N of the\NGREEN FOREST
+Dialogue: 0,0:00:04.00,0:00:08.00,forest ep title C,,0,0,0,,{TIME:4000,8000}{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Paddy builds a dream house"{\i}
+Dialogue: 0,0:00:33.36,0:00:37.79,forest narrator C,,0,0,0,,{TIME:33360,37790}{\i1}Paddy the Beaver works feverishly\Nfrom early morning until dark.{\i}
+Dialogue: 0,0:00:37.85,0:00:41.73,forest narrator C,,0,0,0,,{TIME:37850,41730}{\i1}He works so hard without seemingly\Ntaking any time to sleep.{\i}
+Dialogue: 0,0:00:42.33,0:00:45.36,forest narrator C,,0,0,0,,{TIME:42330,45360}{\i1}And finally he completes a splendid dam.{\i}
+Dialogue: 0,0:01:07.67,0:01:11.28,forest default C,,0,0,0,,{TIME:67670,71280}This is the dam I built!\NThis is the dam I built!
+Dialogue: 0,0:01:17.41,0:01:20.17,forest default C,,0,0,0,,{TIME:77410,80170}Wow, oh, great, wonderful!\NOh!
+Dialogue: 0,0:01:35.28,0:01:37.46,forest default C,,0,0,0,,{TIME:95280,97460}Oh, hi, Johnny Chuck!
+Dialogue: 0,0:01:37.66,0:01:38.66,forest default C,,0,0,0,,{TIME:97660,98660}Paddy!
+Dialogue: 0,0:01:39.32,0:01:42.35,forest default C,,0,0,0,,{TIME:99320,102350}Polly and Peter too!\NNice of you to come!
+Dialogue: 0,0:01:42.39,0:01:47.03,forest default C,,0,0,0,,{TIME:102390,107030}We heard you were building a house,\Nso we come over to see how it was!
+Dialogue: 0,0:01:47.03,0:01:49.93,forest default C,,0,0,0,,{TIME:107030,109930}Hey-hey-hey, where are you building it, huh?
+Dialogue: 0,0:01:50.27,0:01:52.64,forest default C,,0,0,0,,{TIME:110270,112640}I've already started building the house!
+Dialogue: 0,0:01:52.64,0:01:55.72,forest default C,,0,0,0,,{TIME:112640,115720}- Where, where...?! Where?!\N- Where, where...?! Where?!
+Dialogue: 0,0:01:58.24,0:02:01.83,forest default C,,0,0,0,,{TIME:118240,121830}You can't see it!\NI started from the foundation!
+Dialogue: 0,0:02:02.40,0:02:04.55,forest default C,,0,0,0,,{TIME:122400,124550}It's almost completely built now!
+Dialogue: 0,0:02:09.88,0:02:13.30,forest default C,,0,0,0,,{TIME:129880,133300}Well, Joe and Harry are also here!
+Dialogue: 0,0:02:22.38,0:02:26.26,forest default C,,0,0,0,,{TIME:142380,146260}Did you, fellows, come to watch Paddy\Nbuild his house?
+Dialogue: 0,0:02:27.47,0:02:28.57,forest default C,,0,0,0,,{TIME:147470,148570}- Yeah...\N- Yeah...
+Dialogue: 0,0:02:29.48,0:02:33.45,forest default C,,0,0,0,,{TIME:149480,153450}Hey... what is Paddy doing underwater\NI wonder...
+Dialogue: 0,0:02:33.45,0:02:35.54,forest default C,,0,0,0,,{TIME:153450,155540}That's what we don't know, Joe!
+Dialogue: 0,0:02:40.16,0:02:42.96,forest default C,,0,0,0,,{TIME:160160,162960}- I'm going to go see!\N- Me too!
+Dialogue: 0,0:03:10.48,0:03:13.23,forest default C,,0,0,0,,{TIME:190480,193230}Oh, a mountain of mud and timber?!
+Dialogue: 0,0:03:18.11,0:03:21.92,forest narrator C,,0,0,0,,{TIME:198110,201920}{\i1}It can't be helped that Johnny\Nand the others don't understand it.{\i}
+Dialogue: 0,0:03:22.28,0:03:25.85,forest narrator C,,0,0,0,,{TIME:202280,205850}{\i1}What Paddy was building\Nso diligently was the foundation.{\i}
+Dialogue: 0,0:03:26.07,0:03:27.98,forest narrator C,,0,0,0,,{TIME:206070,207980}{\i1}From the surface it can't be seen.{\i}
+Dialogue: 0,0:03:27.98,0:03:32.83,forest narrator C,,0,0,0,,{TIME:207980,212830}{\i1}His first task was to build a mound\Nto the level of the water surface.{\i}
+Dialogue: 0,0:03:36.32,0:03:37.32,forest default C,,0,0,0,,{TIME:216320,217320}Hey!
+Dialogue: 0,0:04:32.49,0:04:34.62,forest default C,,0,0,0,,{TIME:272490,274620}It's finished!
+Dialogue: 0,0:04:34.83,0:04:36.62,forest default C,,0,0,0,,{TIME:274830,276620}It's finished!
+Dialogue: 0,0:05:21.91,0:05:23.42,forest default C,,0,0,0,,{TIME:321910,323420}What's it be, huh?!
+Dialogue: 0,0:05:24.21,0:05:25.31,forest default C,,0,0,0,,{TIME:324210,325310}Well...
+Dialogue: 0,0:05:27.21,0:05:29.13,forest default C,,0,0,0,,{TIME:327210,329130}- Oh!\N- I don't know!
+Dialogue: 0,0:05:32.68,0:05:35.61,forest default C,,0,0,0,,{TIME:332680,335610}It really is beyond me now!
+Dialogue: 0,0:05:35.68,0:05:39.76,forest default C,,0,0,0,,{TIME:335680,339760}Does Paddy really know how to build\Na house with those sticks?
+Dialogue: 0,0:05:39.80,0:05:42.73,forest default C,,0,0,0,,{TIME:339800,342730}He must've made a mistake.\NHe sure did!
+Dialogue: 0,0:05:42.73,0:05:44.98,forest default C,,0,0,0,,{TIME:342730,344980}What else can one think, huh?
+Dialogue: 0,0:05:44.98,0:05:47.41,forest default C,,0,0,0,,{TIME:344980,347410}Yeah, what a disgusting fellow!
+Dialogue: 0,0:05:47.41,0:05:49.99,forest default C,,0,0,0,,{TIME:347410,349990}This won't be much of a house, anyway!
+Dialogue: 0,0:05:50.46,0:05:54.22,forest default C,,0,0,0,,{TIME:350460,354220}That's right, that's right,\None can't stand such a sight!
+Dialogue: 0,0:05:56.48,0:06:00.38,forest narrator C,,0,0,0,,{TIME:356480,360380}{\i1}The rumor that Paddy had somehow\Nmade a mistake in building his house,{\i}
+Dialogue: 0,0:06:00.38,0:06:02.61,forest narrator C,,0,0,0,,{TIME:360380,362610}{\i1}spread quickly throughout the forest.{\i}
+Dialogue: 0,0:06:04.70,0:06:08.91,forest narrator C,,0,0,0,,{TIME:364700,368910}{\i1}However, Paddy was still continuing\Nto work very hard.{\i}
+Dialogue: 0,0:06:08.98,0:06:13.54,forest narrator C,,0,0,0,,{TIME:368980,373540}{\i1}Everyday he brought more sticks,\Nlogs and mud to the site.{\i}
+Dialogue: 0,0:06:13.54,0:06:18.04,forest narrator C,,0,0,0,,{TIME:373540,378040}{\i1}And everyday the house\Ngrew larger and larger,{\i}
+Dialogue: 0,0:06:18.07,0:06:21.27,forest narrator C,,0,0,0,,{TIME:378070,381270}{\i1}as Paddy put in more and more effort.{\i}
+Dialogue: 0,0:06:23.13,0:06:26.95,forest default C,,0,0,0,,{TIME:383130,386950}Paddy... is that a house?\NHow are you going to sleep?
+Dialogue: 0,0:06:31.97,0:06:34.14,forest default C,,0,0,0,,{TIME:391970,394140}Hear, can't you even reply?
+Dialogue: 0,0:06:34.14,0:06:37.33,forest default C,,0,0,0,,{TIME:394140,397330}The truth is you don't even know\Nhow to build a house!
+Dialogue: 0,0:06:37.33,0:06:40.12,forest default C,,0,0,0,,{TIME:397330,400120}Right?\NIf asked, we could teach you!
+Dialogue: 0,0:06:40.17,0:06:45.21,forest default C,,0,0,0,,{TIME:400170,405210}It's okay... I'll show you! I'm going to build\Nmy house the way I want to!
+Dialogue: 0,0:06:45.80,0:06:49.04,forest default C,,0,0,0,,{TIME:405800,409040}Huh! Here I am, trying to be nice,\Nand you, look at you!
+Dialogue: 0,0:06:49.04,0:06:52.89,forest default C,,0,0,0,,{TIME:409040,412890}From the beginning I just couldn't\Ntalk into you, don't be so irritating!
+Dialogue: 0,0:07:05.53,0:07:10.54,forest default C,,0,0,0,,{TIME:425530,430540}Hey, everyone in the forest! Paddy\Ndoesn't know how, but he's building a house!
+Dialogue: 0,0:07:10.54,0:07:11.94,forest default C,,0,0,0,,{TIME:430540,431940}He's a big fool!
+Dialogue: 0,0:07:12.91,0:07:14.73,forest default C,,0,0,0,,{TIME:432910,434730}I just can't like that Paddy!
+Dialogue: 0,0:07:14.73,0:07:19.85,forest default C,,0,0,0,,{TIME:434730,439850}That's right! Even when he build a dam there,\NI was against him all the time!
+Dialogue: 0,0:07:41.90,0:07:45.34,forest default C,,0,0,0,,{TIME:461900,465340}I can't stand him!\NI just can't stand Paddy!
+Dialogue: 0,0:07:45.34,0:07:49.65,forest default C,,0,0,0,,{TIME:465340,469650}That thing, the case... I think I'll bother him!\NNow, how can I bother him?
+Dialogue: 0,0:08:13.32,0:08:14.32,forest default C,,0,0,0,,{TIME:493320,494320}Hey...
+Dialogue: 0,0:08:15.71,0:08:19.27,forest default C,,0,0,0,,{TIME:495710,499270}Hi, Jimmy the Skunk!\NA beautiful day, isn't it?
+Dialogue: 0,0:08:19.27,0:08:22.78,forest default C,,0,0,0,,{TIME:499270,502780}You don't seem to be in to good a mood,\Nwhat's the matter with you?
+Dialogue: 0,0:08:26.64,0:08:29.15,forest default C,,0,0,0,,{TIME:506640,509150}Hey, I'm talking to you!\NYou don't want to answer!
+Dialogue: 0,0:08:29.48,0:08:33.22,forest default C,,0,0,0,,{TIME:509480,513220}Oh, beetle, you're just a fly in my ointment!
+Dialogue: 0,0:08:33.22,0:08:36.93,forest default C,,0,0,0,,{TIME:513220,516930}Oh, you're in a bad mood 'coz you\Ncan't find any beetles, huh?
+Dialogue: 0,0:08:40.19,0:08:43.14,forest default C,,0,0,0,,{TIME:520190,523140}If that's it, I know a place\Nwhere there's a bunch of them!
+Dialogue: 0,0:08:43.14,0:08:45.38,forest default C,,0,0,0,,{TIME:523140,525380}What?! Really?!
+Dialogue: 0,0:08:45.44,0:08:47.41,forest default C,,0,0,0,,{TIME:525440,527410}You know Paddy's dam, right?
+Dialogue: 0,0:08:48.37,0:08:52.48,forest default C,,0,0,0,,{TIME:528370,532480}Go there to the White Poplar Grove\Nand I'm sure you'll be very satisfied!
+Dialogue: 0,0:08:52.48,0:08:55.65,forest default C,,0,0,0,,{TIME:532480,535650}Indeed it's swarming with plump beetles there!
+Dialogue: 0,0:08:55.95,0:09:00.82,forest default C,,0,0,0,,{TIME:535950,540820}To be able to eat to my heart's content\Nmy favourite beetles!
+Dialogue: 0,0:09:05.16,0:09:06.16,forest default C,,0,0,0,,{TIME:545160,546160}Well, then...!
+Dialogue: 0,0:09:14.30,0:09:15.96,forest default C,,0,0,0,,{TIME:554300,555960}{\i1}Hello there, Weasel!{\i}
+Dialogue: 0,0:09:18.86,0:09:22.24,forest default C,,0,0,0,,{TIME:558860,562240}Say, have you ever thought\Nyou'd like to catch Paddy the Beaver?
+Dialogue: 0,0:09:22.80,0:09:26.45,forest default C,,0,0,0,,{TIME:562800,566450}You mean P-P-P-P-Paddy?\NOf c-c-c-course, yes!
+Dialogue: 0,0:09:26.98,0:09:29.86,forest default C,,0,0,0,,{TIME:566980,569860}Say, I've got a swell idea!
+Dialogue: 0,0:09:30.81,0:09:32.15,forest default C,,0,0,0,,{TIME:570810,572150}Let me tell you something...
+Dialogue: 0,0:10:04.36,0:10:07.51,forest default C,,0,0,0,,{TIME:604360,607510}The beetles...?!\NSinging...?!
+Dialogue: 0,0:10:08.37,0:10:12.09,forest default C,,0,0,0,,{TIME:608370,612090}Sure funny!\NMaybe the beetles don't like me at all!
+Dialogue: 0,0:10:23.33,0:10:26.03,forest default C,,0,0,0,,{TIME:623330,626030}A suspicious looking shadow...
+Dialogue: 0,0:10:27.10,0:10:31.76,forest default C,,0,0,0,,{TIME:627100,631760}Whoever you are, Mr. Shadow,\Nyou better not come any closer,
+Dialogue: 0,0:10:31.76,0:10:34.18,forest default C,,0,0,0,,{TIME:631760,634180}I'm getting very nervous...!
+Dialogue: 0,0:10:55.96,0:10:58.20,forest default C,,0,0,0,,{TIME:655960,658200}Oh, it's Jimmy's gas!
+Dialogue: 0,0:10:58.20,0:11:02.15,forest default C,,0,0,0,,{TIME:658200,662150}Hey, that's right!\NWhat's Jimmy doing in this place, huh?!
+Dialogue: 0,0:11:03.30,0:11:05.48,forest default C,,0,0,0,,{TIME:663300,665480}- Paddy...!\N- Paddy...!
+Dialogue: 0,0:11:07.51,0:11:10.03,forest default C,,0,0,0,,{TIME:667510,670030}I wonder where Paddy is!
+Dialogue: 0,0:11:16.83,0:11:19.15,forest default C,,0,0,0,,{TIME:676830,679150}He must've run off and hid somewhere.
+Dialogue: 0,0:11:19.15,0:11:22.30,forest default C,,0,0,0,,{TIME:679150,682300}Since he can't build his house,\Nand he's ashamed,
+Dialogue: 0,0:11:22.30,0:11:27.55,forest default C,,0,0,0,,{TIME:682300,687550}and since the grove is like that\Nhe can't live here either, do you see?
+Dialogue: 0,0:11:41.77,0:11:44.27,forest default C,,0,0,0,,{TIME:701770,704270}Oh, what a terrible thing!
+Dialogue: 0,0:11:45.17,0:11:47.93,forest default C,,0,0,0,,{TIME:705170,707930}Paddy won't be able to feed anything like that!
+Dialogue: 0,0:11:48.23,0:11:52.66,forest default C,,0,0,0,,{TIME:708230,712660}Knowing the white poplar is Paddy's favorite,\Nwho would do such a thing?!
+Dialogue: 0,0:11:53.06,0:11:55.80,forest default C,,0,0,0,,{TIME:713060,715800}Huh, now Paddy must leave the Green Forest,
+Dialogue: 0,0:11:55.80,0:11:57.30,forest default C,,0,0,0,,{TIME:715800,717300}Paddy must leave the Green Forest,
+Dialogue: 0,0:11:57.30,0:11:58.58,forest default C,,0,0,0,,{TIME:717300,718580}Paddy must leave the Green Forest,
+Dialogue: 0,0:11:58.58,0:12:00.41,forest default C,,0,0,0,,{TIME:718580,720410}the Green Forest, the Green Forest,\Nthe Green Forest...!
+Dialogue: 0,0:12:01.75,0:12:03.73,forest default C,,0,0,0,,{TIME:721750,723730}Paddy?\NWhere did he go?!
+Dialogue: 0,0:12:12.46,0:12:16.32,forest narrator C,,0,0,0,,{TIME:732460,736320}{\i1}Paddy's not discouraged by the withering\Nof the poplar trees nearby.{\i}
+Dialogue: 0,0:12:16.32,0:12:18.91,forest narrator C,,0,0,0,,{TIME:736320,738910}{\i1}Instead, he builds a waterway,{\i}
+Dialogue: 0,0:12:18.91,0:12:21.96,forest narrator C,,0,0,0,,{TIME:738910,741960}{\i1}because now he has to go\Nsome distance to get trees,{\i}
+Dialogue: 0,0:12:21.96,0:12:25.70,forest narrator C,,0,0,0,,{TIME:741960,745700}{\i1}and the waterway will facilitate him\Nbringing the trees back to the lake,{\i}
+Dialogue: 0,0:12:25.70,0:12:27.15,forest narrator C,,0,0,0,,{TIME:745700,747150}{\i1}by floating them in.{\i}
+Dialogue: 0,0:12:27.84,0:12:31.20,forest default C,,0,0,0,,{TIME:747840,751200}Beetle-beetle, the you-don't-like-me beetles!
+Dialogue: 0,0:12:31.20,0:12:34.71,forest default C,,0,0,0,,{TIME:751200,754710}I never can find enough to satisfy me...
+Dialogue: 0,0:12:34.71,0:12:36.48,forest default C,,0,0,0,,{TIME:754710,756480}What am I gonna do?
+Dialogue: 0,0:12:39.60,0:12:42.48,forest default C,,0,0,0,,{TIME:759600,762480}Oh, you all together...\NWhat's the occasion?
+Dialogue: 0,0:12:42.49,0:12:44.73,forest default C,,0,0,0,,{TIME:762490,764730}You sure do some terrible things!
+Dialogue: 0,0:12:46.43,0:12:47.79,forest default C,,0,0,0,,{TIME:766430,767790}What do you mean?
+Dialogue: 0,0:12:47.79,0:12:51.73,forest default C,,0,0,0,,{TIME:767790,771730}- That's right, say you're sorry to Paddy!\N- Don't you feel sorry for Paddy?
+Dialogue: 0,0:12:52.59,0:12:53.89,forest default C,,0,0,0,,{TIME:772590,773890}What's that?
+Dialogue: 0,0:12:53.89,0:12:56.00,forest default C,,0,0,0,,{TIME:773890,776000}Why did you do such a thing?
+Dialogue: 0,0:13:02.38,0:13:05.50,forest default C,,0,0,0,,{TIME:782380,785500}Forgive me, Johnny, I didn't mean to...
+Dialogue: 0,0:13:10.51,0:13:15.20,forest default C,,0,0,0,,{TIME:790510,795200}Yesterday, Sammy came and told me that there\Nwere many plump beetles over there.
+Dialogue: 0,0:13:15.65,0:13:17.12,forest default C,,0,0,0,,{TIME:795650,797120}- Huh...?!\N- Sammy said that?!
+Dialogue: 0,0:13:18.77,0:13:23.06,forest default C,,0,0,0,,{TIME:798770,803060}I tell you there's no beetles there!\NI've never once seen any there!
+Dialogue: 0,0:13:23.06,0:13:26.83,forest default C,,0,0,0,,{TIME:803060,806830}That's right, but somebody, I don't know who,\Nstarted to attack me,
+Dialogue: 0,0:13:26.83,0:13:30.18,forest default C,,0,0,0,,{TIME:806830,810180}and that's when I let the gas go,\Nit's the truth!
+Dialogue: 0,0:13:30.71,0:13:34.00,forest default C,,0,0,0,,{TIME:810710,814000}Sure funny!\NWhy did Sammy told such a lie?
+Dialogue: 0,0:13:34.56,0:13:35.95,forest default C,,0,0,0,,{TIME:814560,815950}It's funny, isn't it?
+Dialogue: 0,0:13:37.02,0:13:40.85,forest default C,,0,0,0,,{TIME:817020,820850}- This is one of Sammy's tricks!\N- I think I see the light...
+Dialogue: 0,0:13:40.85,0:13:44.09,forest default C,,0,0,0,,{TIME:820850,824090}Sammy's accomplice could be that guy, maybe...
+Dialogue: 0,0:13:45.01,0:13:48.93,forest default C,,0,0,0,,{TIME:825010,828930}P-P-P-Paddy...\Nhe-he's left t-t-the d-d-d-dam?
+Dialogue: 0,0:13:49.01,0:13:54.24,forest default C,,0,0,0,,{TIME:829010,834240}I saw it with my own eyes!\NHe's gone and he's digging a big hole!
+Dialogue: 0,0:13:54.51,0:13:57.68,forest default C,,0,0,0,,{TIME:834510,837680}I-i-if he le-le-leaves the-the d-d-dam,\Nhe's m-m-mine!
+Dialogue: 0,0:13:57.68,0:14:03.14,forest default C,,0,0,0,,{TIME:837680,843140}He-he-he can't r-r-r-run in the w-w-w-water!\NLet's g-g-g-go!
+Dialogue: 0,0:14:04.14,0:14:07.41,forest default C,,0,0,0,,{TIME:844140,847410}- Paddy's in danger! Quick, let's find him!\N- Yeah...
+Dialogue: 0,0:14:56.16,0:15:00.09,forest default C,,0,0,0,,{TIME:896160,900090}Woe to him who makes a fool\Nof Sammy, the Beautiful Jay!
+Dialogue: 0,0:15:02.33,0:15:05.06,forest default C,,0,0,0,,{TIME:902330,905060}Get him! Get him, get him,\Nyou Mean Weasel you!
+Dialogue: 0,0:15:13.73,0:15:14.49,forest default C,,0,0,0,,{TIME:913730,914490}Get him!
+Dialogue: 0,0:15:16.20,0:15:17.20,forest default C,,0,0,0,,{TIME:916200,917200}Get him!
+Dialogue: 0,0:15:17.67,0:15:19.13,forest default C,,0,0,0,,{TIME:917670,919130}Go get Paddy!
+Dialogue: 0,0:15:20.98,0:15:22.39,forest default C,,0,0,0,,{TIME:920980,922390}Get Paddy!\NHuh...
+Dialogue: 0,0:15:50.93,0:15:53.58,forest default C,,0,0,0,,{TIME:950930,953580}Hey...\NSammy, nice to see you!
+Dialogue: 0,0:15:56.88,0:16:00.99,forest default C,,0,0,0,,{TIME:956880,960990}What are you doing around here, buddy?\NWhat are you hanging around for?
+Dialogue: 0,0:16:02.04,0:16:04.50,forest default C,,0,0,0,,{TIME:962040,964500}{\i1}There's no one in this forest\Na better person than he!{\i}
+Dialogue: 0,0:16:04.50,0:16:08.35,forest default C,,0,0,0,,{TIME:964500,968350}{\i1}I wonder if is right to let the Mean Weasel\Nget him, but he made a fool of me!{\i}
+Dialogue: 0,0:16:08.35,0:16:10.17,forest default C,,0,0,0,,{TIME:968350,970170}{\i1}But he is a kindhearted guy!{\i}
+Dialogue: 0,0:16:10.92,0:16:13.49,forest default C,,0,0,0,,{TIME:970920,973490}{\i1}However, I'd send the Mean Weasel on him!{\i}
+Dialogue: 0,0:16:15.58,0:16:19.69,forest narrator C,,0,0,0,,{TIME:975580,979690}{\i1}And that's when Sammy realized,\Nthat getting his revenge{\i}
+Dialogue: 0,0:16:19.99,0:16:22.06,forest narrator C,,0,0,0,,{TIME:979990,982060}{\i1}was not giving him pleasure.{\i}
+Dialogue: 0,0:16:22.88,0:16:26.39,forest narrator C,,0,0,0,,{TIME:982880,986390}{\i1}After all, to take revenge solves nothing.{\i}
+Dialogue: 0,0:16:27.43,0:16:29.04,forest narrator C,,0,0,0,,{TIME:987430,989040}{\i1}And now finally...{\i}
+Dialogue: 0,0:16:29.76,0:16:32.14,forest narrator C,,0,0,0,,{TIME:989760,992140}{\i1}...Sammy realized that for himself.{\i}
+Dialogue: 0,0:16:33.98,0:16:34.65,forest narrator C,,0,0,0,,{TIME:993980,994650}{\i1}Then...{\i}
+Dialogue: 0,0:16:35.39,0:16:36.71,forest narrator C,,0,0,0,,{TIME:995390,996710}{\i1}...he saw something.{\i}
+Dialogue: 0,0:16:45.74,0:16:48.20,forest default C,,0,0,0,,{TIME:1005740,1008200}Watch out, Paddy, run!\NWatch out, Paddy, run!
+Dialogue: 0,0:16:48.20,0:16:50.55,forest default C,,0,0,0,,{TIME:1008200,1010550}Run! Paddy!\NIt's the Weasel!
+Dialogue: 0,0:17:00.13,0:17:01.13,forest default C,,0,0,0,,{TIME:1020130,1021130}- Paddy!\N- Oh...!
+Dialogue: 0,0:17:06.43,0:17:09.45,forest default C,,0,0,0,,{TIME:1026430,1029450}I-i-i-t's about time...\Nhe starts to h-h-hurt!
+Dialogue: 0,0:18:11.92,0:18:13.59,forest default C,,0,0,0,,{TIME:1091920,1093590}- Johnny!\N- Huh?!
+Dialogue: 0,0:18:13.59,0:18:16.66,forest default C,,0,0,0,,{TIME:1093590,1096660}E-e-e-everyone, get-get-get out of here!
+Dialogue: 0,0:18:16.66,0:18:18.64,forest default C,,0,0,0,,{TIME:1096660,1098640}J-J-J-Jimmy!
+Dialogue: 0,0:18:20.32,0:18:24.38,forest default C,,0,0,0,,{TIME:1100320,1104380}I'm mad! Fooling me and being mean to Paddy!
+Dialogue: 0,0:18:28.14,0:18:31.56,forest default C,,0,0,0,,{TIME:1108140,1111560}Not that!\NOf all things! W-w-w-wait!
+Dialogue: 0,0:18:43.20,0:18:45.13,forest default C,,0,0,0,,{TIME:1123200,1125130}Hey...!
+Dialogue: 0,0:18:49.09,0:18:50.57,forest default C,,0,0,0,,{TIME:1129090,1130570}Johnny, where are you?
+Dialogue: 0,0:19:02.81,0:19:06.10,forest default C,,0,0,0,,{TIME:1142810,1146100}Why doesn't anybody like such\Na pleasant aroma?
+Dialogue: 0,0:19:09.46,0:19:14.38,forest narrator C,,0,0,0,,{TIME:1149460,1154380}{\i1}Beavers place the logs they collect for food\Nfirmly around the base of their dwelling.{\i}
+Dialogue: 0,0:19:14.40,0:19:16.72,forest narrator C,,0,0,0,,{TIME:1154400,1156720}{\i1}So when hungry they leave by the exit,{\i}
+Dialogue: 0,0:19:16.72,0:19:21.56,forest narrator C,,0,0,0,,{TIME:1156720,1161560}{\i1}enter the water and carry the logs\Nback inside... so they can feast.{\i}
+Dialogue: 0,0:19:52.13,0:19:54.59,forest default C,,0,0,0,,{TIME:1192130,1194590}- Hi, Paddy! Is your house finished?\N- Hey!
+Dialogue: 0,0:19:54.75,0:19:56.79,forest default C,,0,0,0,,{TIME:1194750,1196790}Just a little more, then it will be finished!
+Dialogue: 0,0:19:56.79,0:19:58.00,forest default C,,0,0,0,,{TIME:1196790,1198000}Come and see it, Johnny!
+Dialogue: 0,0:20:30.57,0:20:32.48,forest default C,,0,0,0,,{TIME:1230570,1232480}Hey, it's finished!
+Dialogue: 0,0:20:32.69,0:20:34.47,forest default C,,0,0,0,,{TIME:1232690,1234470}It's finished!
+Dialogue: 0,0:20:37.05,0:20:40.02,forest default C,,0,0,0,,{TIME:1237050,1240020}All finished!\NHey...!
+Dialogue: 0,0:20:42.20,0:20:46.19,forest default C,,0,0,0,,{TIME:1242200,1246190}Oh boy, it's finished! My house\Nis finally all finished! All finished!
+Dialogue: 0,0:20:46.36,0:20:47.76,forest default C,,0,0,0,,{TIME:1246360,1247760}Congratulations!
+Dialogue: 0,0:20:47.94,0:20:49.32,forest default C,,0,0,0,,{TIME:1247940,1249320}{\i1}How wonderful!{\i}
+Dialogue: 0,0:20:49.32,0:20:52.74,forest default C,,0,0,0,,{TIME:1249320,1252740}I sure would like to see\Nwhat it's like on the inside!
+Dialogue: 0,0:20:54.27,0:20:56.41,forest default C,,0,0,0,,{TIME:1254270,1256410}OK, I'll go see!
+Dialogue: 0,0:20:57.99,0:20:59.59,forest default C,,0,0,0,,{TIME:1257990,1259590}Hey, take me along!
+Dialogue: 0,0:21:05.22,0:21:09.03,forest default C,,0,0,0,,{TIME:1265220,1269030}That's sneaky, Johnny! They go\Nand leave me behind! That's sneaky!
+Dialogue: 0,0:21:13.13,0:21:16.84,forest default C,,0,0,0,,{TIME:1273130,1276840}No furnishings and decorations yet,\Nbut please, please...
+Dialogue: 0,0:21:18.13,0:21:21.84,forest default C,,0,0,0,,{TIME:1278130,1281840}Tremendous!\NGood thing you just scoop out the inside!
+Dialogue: 0,0:21:22.57,0:21:25.03,forest default C,,0,0,0,,{TIME:1282570,1285030}I could enter the dam through there!
+Dialogue: 0,0:21:40.85,0:21:44.95,forest default C,,0,0,0,,{TIME:1300850,1304950}It's beautiful!\NPaddy's house... really wonderful!
+Dialogue: 0,0:21:45.07,0:21:46.85,forest default C,,0,0,0,,{TIME:1305070,1306850}Paddy's house is completed!
+Dialogue: 0,0:21:46.85,0:21:50.25,forest default C,,0,0,0,,{TIME:1306850,1310250}And Paddy doesn't know\Nhow to build a house is a lie!
+Dialogue: 0,0:21:50.55,0:21:53.04,forest default C,,0,0,0,,{TIME:1310550,1313040}Paddy has built a house!
+Dialogue: 0,0:21:55.50,0:22:00.09,forest default C,,0,0,0,,{TIME:1315500,1320090}Polly, Paddy is a genius in house building!\NIt's really a wonderful house!
+Dialogue: 0,0:22:00.09,0:22:04.17,forest default C,,0,0,0,,{TIME:1320090,1324170}That's sneaky, Johnny, to see the house\Nall by yourself! Show it to me too!
+Dialogue: 0,0:22:13.90,0:22:15.59,forest credits C,,0,0,0,,{TIME:1333900,1335590}{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs

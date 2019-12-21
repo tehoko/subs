@@ -14,285 +14,285 @@ Group: OldCastle & South Wind Subs
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,5,10,10,10,1
-Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
+Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,5,10,10,10,1
+Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.36,0:00:06.00,forest title KB,,0,0,0,,FABLES \N of the\NGREEN FOREST
-Dialogue: 0,0:00:02.36,0:00:06.00,forest ep title C,,0,0,0,,{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Sammy gets mocked"{\i}
-Dialogue: 0,0:00:06.14,0:00:11.10,forest default C,,0,0,0,,There it is! That's the Green Forest,\Nthat must be it, where Uncle Billy lives!
-Dialogue: 0,0:00:11.10,0:00:12.83,forest default C,,0,0,0,,I finally found it!
-Dialogue: 0,0:00:13.61,0:00:17.63,forest narrator C,,0,0,0,,{\i1}One day, a strange bird arrived\Nat the Green Forest.{\i}
-Dialogue: 0,0:00:17.70,0:00:22.21,forest narrator C,,0,0,0,,{\i1}It seems he is a southern friend\Nof Uncle Billy, the Possum.{\i}
-Dialogue: 0,0:00:23.72,0:00:25.80,forest default C,,0,0,0,,Well... Good Day!
-Dialogue: 0,0:00:25.80,0:00:30.97,forest default C,,0,0,0,,Is this the Green Forest where Uncle Billy lives,\NI would like to ask you!
-Dialogue: 0,0:00:31.39,0:00:32.82,forest default C,,0,0,0,,Yes, it is.
-Dialogue: 0,0:00:33.00,0:00:34.79,forest default C,,0,0,0,,And who are you, please?
-Dialogue: 0,0:00:34.79,0:00:37.40,forest default C,,0,0,0,,No, nevermind, it doesn't really matter now.
-Dialogue: 0,0:00:37.40,0:00:39.99,forest default C,,0,0,0,,I'll meet you all formally later. I'll see you!
-Dialogue: 0,0:00:44.92,0:00:48.07,forest default C,,0,0,0,,- That one, what is he, sure is peculiar!\N- Yeah.
-Dialogue: 0,0:00:48.11,0:00:51.72,forest default C,,0,0,0,,Undoubtedly, he's not a friend of Uncle Billy,\Nof that I'm sure.
-Dialogue: 0,0:00:58.25,0:01:01.75,forest default C,,0,0,0,,My-my-my, but this is such a very large forest!
-Dialogue: 0,0:01:01.85,0:01:03.01,forest default C,,0,0,0,,I don't know!
-Dialogue: 0,0:01:05.19,0:01:08.54,forest default C,,0,0,0,,I just don't know where\Nto start looking for Uncle Billy!
-Dialogue: 0,0:01:15.24,0:01:20.13,forest default C,,0,0,0,,Thief, thief, thief! Who is it that stole\Nmy breakfast, who is it that stole my breakfast?
-Dialogue: 0,0:01:25.59,0:01:27.40,forest default C,,0,0,0,,I've got a good idea!
-Dialogue: 0,0:01:33.50,0:01:34.95,forest default C,,0,0,0,,Now, you should cut that out!\NYou should...
-Dialogue: 0,0:01:39.23,0:01:41.36,forest default C,,0,0,0,,Oh, come on now, cut it out!
-Dialogue: 0,0:01:41.96,0:01:45.00,forest default C,,0,0,0,,Dear! Instead of just playing with the children,
-Dialogue: 0,0:01:45.00,0:01:47.24,forest default C,,0,0,0,,why don't you go out\Nand find something to dine on?
-Dialogue: 0,0:01:47.55,0:01:48.63,forest default C,,0,0,0,,How about it?
-Dialogue: 0,0:01:48.89,0:01:53.81,forest default C,,0,0,0,,I know, I know, I was just thinking\Na lot about you, Mommy!
-Dialogue: 0,0:01:53.81,0:01:59.06,forest default C,,0,0,0,,You always say I know, I know,\NI know, I know but you never do!
-Dialogue: 0,0:01:59.09,0:02:00.58,forest default C,,0,0,0,,Just like last night!
-Dialogue: 0,0:02:00.58,0:02:05.11,forest default C,,0,0,0,,Oh, you don't have to nag me like that!\NI know, I know, indeed!
-Dialogue: 0,0:02:05.11,0:02:08.85,forest default C,,0,0,0,,Come on now, kids,\Nyou go on back to the house now, go on back!
-Dialogue: 0,0:02:09.66,0:02:12.17,forest default C,,0,0,0,,Well I'm going now, Mommy, bye!
-Dialogue: 0,0:02:12.66,0:02:15.06,forest default C,,0,0,0,,Oh... shocks!
-Dialogue: 0,0:02:15.06,0:02:18.36,forest default C,,0,0,0,,Really, I don't know what to do\Nwith that stupid husband!
-Dialogue: 0,0:02:24.52,0:02:25.79,forest default C,,0,0,0,,Hey, Uncle Billy!
-Dialogue: 0,0:02:26.97,0:02:28.65,forest default C,,0,0,0,,Johnny! Polly!
-Dialogue: 0,0:02:29.29,0:02:33.70,forest default C,,0,0,0,,Uncle Billy, that friend of yours seems\Nto have come a long way just to see you!
-Dialogue: 0,0:02:33.71,0:02:35.52,forest default C,,0,0,0,,A strange one, isn't it?
-Dialogue: 0,0:02:36.07,0:02:37.81,forest default C,,0,0,0,,My friend? Who?
-Dialogue: 0,0:02:37.86,0:02:43.02,forest default C,,0,0,0,,Oh, haven't you met him yet?\NIt's that bird with the shrill voice!
-Dialogue: 0,0:02:43.10,0:02:44.26,forest default C,,0,0,0,,No...
-Dialogue: 0,0:02:44.27,0:02:46.40,forest default C,,0,0,0,,...I haven't met him yet.
-Dialogue: 0,0:02:46.46,0:02:50.26,forest default C,,0,0,0,,But... My friend with the shrill voice, she say.
-Dialogue: 0,0:02:50.89,0:02:54.49,forest default C,,0,0,0,,Wearing a very different brownish colored suit.
-Dialogue: 0,0:02:54.99,0:02:57.99,forest default C,,0,0,0,,A brownish colored suit...\NHmm...!
-Dialogue: 0,0:02:58.73,0:03:00.51,forest default C,,0,0,0,,What?! That guy?
-Dialogue: 0,0:03:01.52,0:03:03.36,forest default C,,0,0,0,,Here, in the Green Forest?
-Dialogue: 0,0:03:03.36,0:03:05.67,forest default C,,0,0,0,,Just a while ago, near the Clover Hill.
-Dialogue: 0,0:03:05.67,0:03:08.97,forest default C,,0,0,0,,He was asking Polly and me about you,\NUncle Billy.
-Dialogue: 0,0:03:09.44,0:03:12.29,forest default C,,0,0,0,,Oh, really?!\NWhy, that guy, well, oh my!
-Dialogue: 0,0:03:15.62,0:03:18.98,forest narrator C,,0,0,0,,{\i1}When Uncle Billy thought about his friend{\i}
-Dialogue: 0,0:03:18.98,0:03:21.75,forest narrator C,,0,0,0,,{\i1}from the days in the distant Southern Virginia,{\i}
-Dialogue: 0,0:03:21.76,0:03:25.45,forest narrator C,,0,0,0,,{\i1}and that he was here now in the Green Forest,{\i}
-Dialogue: 0,0:03:25.45,0:03:28.89,forest narrator C,,0,0,0,,{\i1}he became extremely excited by his memories.{\i}
-Dialogue: 0,0:03:30.17,0:03:34.11,forest default C,,0,0,0,,I haven't seen him, but...\NI'll look for him!
-Dialogue: 0,0:03:35.60,0:03:40.55,forest default C,,0,0,0,,Sure is funny! Someone with sharp ears like you\Nnot knowing about him!
-Dialogue: 0,0:03:40.55,0:03:43.55,forest default C,,0,0,0,,Well, I'll keep it in mind and search for him.
-Dialogue: 0,0:03:43.55,0:03:46.01,forest default C,,0,0,0,,But, tell me, what does this person look like?
-Dialogue: 0,0:03:47.18,0:03:51.43,forest default C,,0,0,0,,Well, he's a friend of mine from long ago\Nin that good South country.
-Dialogue: 0,0:03:54.54,0:03:58.22,forest default C,,0,0,0,,Well... please don't bother, Peter,\NI don't think you can find him.
-Dialogue: 0,0:03:59.82,0:04:03.23,forest default C,,0,0,0,,You see, Johnny and Polly\Ntold me this friend of mine
-Dialogue: 0,0:04:03.23,0:04:05.15,forest default C,,0,0,0,,from the South country\Nwas up here looking for me,
-Dialogue: 0,0:04:05.15,0:04:08.30,forest default C,,0,0,0,,but I can't find anybody else\Nwho knows anything about it,
-Dialogue: 0,0:04:08.30,0:04:09.78,forest default C,,0,0,0,,and I think they're just wrong!
-Dialogue: 0,0:04:13.11,0:04:15.49,forest default C,,0,0,0,,Uncle Billy, you never told me\Nwhat he looked like!
-Dialogue: 0,0:04:17.53,0:04:21.20,forest default C,,0,0,0,,Don't bother to ask,\NI didn't see him around here!
-Dialogue: 0,0:04:28.51,0:04:32.15,forest default C,,0,0,0,,Well, now...\Nif even Drummer doesn't know, I...
-Dialogue: 0,0:04:32.63,0:04:36.05,forest default C,,0,0,0,,...it may just all be a big misunderstanding
-Dialogue: 0,0:04:36.05,0:04:38.89,forest default C,,0,0,0,,but I guess I'll better keep looking...
-Dialogue: 0,0:04:40.63,0:04:43.95,forest default C,,0,0,0,,Dear, where were you wandering\Nabout until now?
-Dialogue: 0,0:04:43.95,0:04:46.98,forest default C,,0,0,0,,Why in Heaven's name\Ndid you not come back sooner?
-Dialogue: 0,0:04:47.35,0:04:49.13,forest default C,,0,0,0,,Oh my...!\NOh!
-Dialogue: 0,0:04:50.15,0:04:53.45,forest default C,,0,0,0,,You know we were all waiting for you\Nwith empty stomachs!
-Dialogue: 0,0:04:53.80,0:04:55.53,forest default C,,0,0,0,,I'm sorry, dear!
-Dialogue: 0,0:04:56.04,0:04:58.09,forest default C,,0,0,0,,Oh, now, Mother, forgive me,
-Dialogue: 0,0:04:58.10,0:05:01.33,forest default C,,0,0,0,,why, I was just looking for my friend\Nfrom the South country!
-Dialogue: 0,0:05:01.59,0:05:02.74,forest default C,,0,0,0,,Really...?!
-Dialogue: 0,0:05:03.10,0:05:05.29,forest default C,,0,0,0,,You can be so trying!
-Dialogue: 0,0:05:07.75,0:05:10.75,forest narrator C,,0,0,0,,{\i1}Uncle Billy was at a loss for a reply.{\i}
-Dialogue: 0,0:05:10.89,0:05:13.43,forest narrator C,,0,0,0,,{\i1}He felt absolutely terrible.{\i}
-Dialogue: 0,0:05:13.85,0:05:18.09,forest narrator C,,0,0,0,,{\i1}Furthermore, he was exhausted\Nfrom walking about all day.{\i}
-Dialogue: 0,0:05:18.64,0:05:19.79,forest default C,,0,0,0,,Dear!
-Dialogue: 0,0:05:20.54,0:05:23.19,forest default C,,0,0,0,,You're hungry... aren't you, Billy?
-Dialogue: 0,0:05:23.43,0:05:25.19,forest default C,,0,0,0,,Oh, I sure am!
-Dialogue: 0,0:05:26.57,0:05:29.76,forest default C,,0,0,0,,Why, I haven't had a bite to eat all day long!
-Dialogue: 0,0:05:40.93,0:05:45.30,forest default C,,0,0,0,,If you've eaten, hurry up and go to bed!\NThe bed is already made up!
-Dialogue: 0,0:05:53.00,0:05:57.11,forest default C,,0,0,0,,Hurry up and come to sleep,\Nyou know the night wind is very poisonous!
-Dialogue: 0,0:05:59.01,0:06:02.56,forest default C,,0,0,0,,Alright, Mother, I know, I know,\NI'll be right up, good night!
-Dialogue: 0,0:06:02.56,0:06:07.54,forest default C,,0,0,0,,My wife... her barks lot worse than her bite,\Nshe tries to hide it, you know,
-Dialogue: 0,0:06:07.54,0:06:11.85,forest default C,,0,0,0,,but her soul is really very tender\Nand I love her a great deal!
-Dialogue: 0,0:06:20.45,0:06:21.72,forest default C,,0,0,0,,I'm off, Mother!
-Dialogue: 0,0:06:21.91,0:06:24.63,forest default C,,0,0,0,,Well, good morning, smiling sun!
-Dialogue: 0,0:06:24.63,0:06:28.42,forest default C,,0,0,0,,Today I'm gonna try find\Nmy friend, Mocker, real hard!
-Dialogue: 0,0:06:29.99,0:06:31.15,forest narrator C,,0,0,0,,{\i1}Today...{\i}
-Dialogue: 0,0:06:31.38,0:06:33.85,forest narrator C,,0,0,0,,{\i1}Good old easy-going Uncle Billy{\i}
-Dialogue: 0,0:06:33.85,0:06:37.01,forest narrator C,,0,0,0,,{\i1}was eager to work hard\Nfor the sake of his family...{\i}
-Dialogue: 0,0:06:37.53,0:06:41.94,forest narrator C,,0,0,0,,{\i1}...and he wasn't going to let himself\Nbe side-tracked by a lot of little things.{\i}
-Dialogue: 0,0:06:42.32,0:06:44.15,forest default C,,0,0,0,,Having eaten a hearty breakfast,
-Dialogue: 0,0:06:44.15,0:06:49.81,forest default C,,0,0,0,,what a really pleasant morning it is,\Nit is, it is...!
-Dialogue: 0,0:06:53.35,0:06:57.02,forest default C,,0,0,0,,Say, Sammy, what were you doing up\Nso late last night?
-Dialogue: 0,0:06:57.03,0:07:00.04,forest default C,,0,0,0,,I heard you until all hours of the morning!
-Dialogue: 0,0:07:01.23,0:07:03.58,forest default C,,0,0,0,,Ah, what are you talking about?
-Dialogue: 0,0:07:03.58,0:07:06.19,forest default C,,0,0,0,,I wasn't up that late last night,\NI'm telling you!
-Dialogue: 0,0:07:06.69,0:07:10.70,forest default C,,0,0,0,,You know, Sammy, you really oughta\Ntell the truth every once in a while.
-Dialogue: 0,0:07:10.70,0:07:14.68,forest default C,,0,0,0,,You kept me awake all last night\Nafter the sun went down
-Dialogue: 0,0:07:14.68,0:07:17.47,forest default C,,0,0,0,,making all that disturbance by the Green Forest!
-Dialogue: 0,0:07:17.47,0:07:20.49,forest default C,,0,0,0,,What happened, huh?\NI need my sleep!
-Dialogue: 0,0:07:25.12,0:07:30.13,forest default C,,0,0,0,,I'm telling the truth, I went to bed as usual\Nand didn't wake up till this morning!
-Dialogue: 0,0:07:30.13,0:07:32.57,forest default C,,0,0,0,,How can you dare accuse me of that?
-Dialogue: 0,0:07:32.82,0:07:36.41,forest default C,,0,0,0,,Then you must've been talking\Nawfully loud in your sleep!
-Dialogue: 0,0:07:44.43,0:07:47.48,forest default C,,0,0,0,,Liars, liars, liars,\Nliars, liars!
-Dialogue: 0,0:07:52.85,0:07:56.18,forest default C,,0,0,0,,Darn, darn...\NWhat's going on, anyway?
-Dialogue: 0,0:07:57.41,0:07:58.57,forest default C,,0,0,0,,Hey, Sammy!
-Dialogue: 0,0:07:58.93,0:08:02.15,forest default C,,0,0,0,,Wasn't that noise that you made\Nlast night enough for you,
-Dialogue: 0,0:08:02.15,0:08:04.56,forest default C,,0,0,0,,do you have to bother us today as well?!
-Dialogue: 0,0:08:07.52,0:08:10.93,forest default C,,0,0,0,,Don't be funny, Peter! This is the second time\Nalready this morning!
-Dialogue: 0,0:08:10.93,0:08:12.58,forest default C,,0,0,0,,I slept soundly last night,
-Dialogue: 0,0:08:12.58,0:08:16.18,forest default C,,0,0,0,,and to be told that I was causing\Nthe disturbance, bothers the heck out of me!
-Dialogue: 0,0:08:17.25,0:08:19.66,forest default C,,0,0,0,,Hmm... then you must sleep awfully funny.
-Dialogue: 0,0:08:19.66,0:08:23.42,forest default C,,0,0,0,,Now, tell the truth, Sammy, why were you\Nflying about the Green Forest,
-Dialogue: 0,0:08:23.42,0:08:26.91,forest default C,,0,0,0,,shouting "thief, thief" when all of us\Nwere trying to sleep here?
-Dialogue: 0,0:08:27.26,0:08:29.90,forest default C,,0,0,0,,Peter, you and Jimmy too must've\Nsomething wrong with your heads.
-Dialogue: 0,0:08:29.90,0:08:32.43,forest default C,,0,0,0,,You're crazy! Now listen, I was asleep,
-Dialogue: 0,0:08:32.43,0:08:35.28,forest default C,,0,0,0,,now why would I have anyone trying\Nto accuse me of something I didn't do?
-Dialogue: 0,0:08:35.75,0:08:39.33,forest default C,,0,0,0,,I wouldn't mistake you voice, Sammy,\NI know it very well!
-Dialogue: 0,0:08:39.43,0:08:42.53,forest default C,,0,0,0,,If Hooty the Owl hears you,\Nyou'll be finished!
-Dialogue: 0,0:08:42.54,0:08:44.90,forest default C,,0,0,0,,Now, don't shout about and keep us up!
-Dialogue: 0,0:08:49.89,0:08:52.67,forest narrator C,,0,0,0,,{\i1}Sammy is furious,\Nbut he doesn't know what to do.{\i}
-Dialogue: 0,0:08:52.67,0:08:55.76,forest default C,,0,0,0,,Are they trying to make me angry,\Nor did I really shout out in my sleep?!
-Dialogue: 0,0:08:56.85,0:09:01.61,forest narrator C,,0,0,0,,{\i1}Sammy, the talkative jay, has never been\Nas angry as this before.{\i}
-Dialogue: 0,0:09:02.03,0:09:04.72,forest narrator C,,0,0,0,,{\i1}Although he doesn't remember\Na thing about it,{\i}
-Dialogue: 0,0:09:04.72,0:09:09.39,forest narrator C,,0,0,0,,{\i1}most of the forest animals are complaining\Nthat they couldn't sleep well last night,{\i}
-Dialogue: 0,0:09:09.39,0:09:13.74,forest narrator C,,0,0,0,,{\i1}because Sammy was making such a commotion\Nall night long.{\i}
-Dialogue: 0,0:09:13.87,0:09:17.28,forest narrator C,,0,0,0,,{\i1}But what's going on? Sammy wonders.{\i}
-Dialogue: 0,0:09:17.28,0:09:20.12,forest narrator C,,0,0,0,,{\i1}Am I going completely crazy?{\i}
-Dialogue: 0,0:09:21.72,0:09:27.25,forest lyrics C,,0,0,0,,{\i1}There goes Sammy, the sleepyhead jay,\NShout all day long,{\i}
-Dialogue: 0,0:09:27.27,0:09:31.36,forest lyrics C,,0,0,0,,{\i1}Not having enough during the daytime,{\i}
-Dialogue: 0,0:09:31.36,0:09:37.78,forest lyrics C,,0,0,0,,{\i1}Sammy also shouts during the night,\NAnd we can't sleep, no-no-no-no!{\i}
-Dialogue: 0,0:09:37.81,0:09:40.33,forest default C,,0,0,0,,It's a lie, it's a lie, it's a lie!\NIt's a lie, it's a lie, it's a lie!
-Dialogue: 0,0:09:40.33,0:09:45.92,forest lyrics C,,0,0,0,,{\i1}Oh-oh, crazy Sammy,\Nhe's asleep-eep-eep...{\i}
-Dialogue: 0,0:09:45.92,0:09:49.65,forest lyrics C,,0,0,0,,{\i1}Sleepy jay Sammy,\NOh-oh, crazy Sammy!{\i}
-Dialogue: 0,0:09:49.65,0:09:50.81,forest default C,,0,0,0,,It's a lie, it's a lie, it's a lie!\NIt's a lie, it's a lie, it's a lie!
-Dialogue: 0,0:09:51.37,0:09:55.76,forest lyrics C,,0,0,0,,{\i1}Please, let him sleep...!\NSleepyhead Sammy!{\i}
-Dialogue: 0,0:09:55.82,0:10:00.69,forest lyrics C,,0,0,0,,{\i1}He's going to be very surprised,\NHe's going to be very surprised,{\i}
-Dialogue: 0,0:10:00.70,0:10:04.16,forest lyrics C,,0,0,0,,{\i1}- When we won't let him sleep!\N{\c&HFFFFFF&\i0}- It's a lie, it's  lie, it's a lie!{\i1}
-Dialogue: 0,0:10:26.97,0:10:30.27,forest default C,,0,0,0,,It's the truth, really, I slept all night long!
-Dialogue: 0,0:10:30.27,0:10:34.32,forest default C,,0,0,0,,Sammy, are you sure you don't remember\Nanything that happened?
-Dialogue: 0,0:10:36.45,0:10:39.19,forest default C,,0,0,0,,But you may have been half asleep,\Ndon't you think?
-Dialogue: 0,0:10:39.88,0:10:42.22,forest default C,,0,0,0,,Johnny, are you going to doubt me too?
-Dialogue: 0,0:10:42.22,0:10:45.86,forest default C,,0,0,0,,I don't dance and jump around at night\Nlike everybody is saying!
-Dialogue: 0,0:10:45.86,0:10:48.22,forest default C,,0,0,0,,Uh-huh, that is true, I don't doubt you!
-Dialogue: 0,0:10:48.22,0:10:51.09,forest default C,,0,0,0,,That's funny, if I hadn't heard it myself!
-Dialogue: 0,0:10:51.23,0:10:54.33,forest default C,,0,0,0,,Do you think everyone could be\Nmaking fun of Sammy?
-Dialogue: 0,0:10:54.73,0:10:56.24,forest default C,,0,0,0,,{\i1}It's the truth!{\i}
-Dialogue: 0,0:10:56.59,0:10:59.81,forest default C,,0,0,0,,It's causing quite a commotion\Nthroughout the forest!
-Dialogue: 0,0:11:00.37,0:11:04.92,forest default C,,0,0,0,,- It's a lie, it's a lie!\N- I assure you the one who's lying is Sammy!
-Dialogue: 0,0:11:06.02,0:11:07.72,forest default C,,0,0,0,,It's just like Jenny said!
-Dialogue: 0,0:11:08.88,0:11:10.61,forest default C,,0,0,0,,Hmm... I agree!
-Dialogue: 0,0:11:16.55,0:11:18.05,forest default C,,0,0,0,,What is this?!
-Dialogue: 0,0:11:19.36,0:11:24.54,forest default C,,0,0,0,,It's a lie, everyone's lying!\NIt's a lie, everyone's lying!
-Dialogue: 0,0:11:25.18,0:11:27.90,forest default C,,0,0,0,,Sure is funny!\NSammy says last night he was sleeping,
-Dialogue: 0,0:11:27.90,0:11:31.34,forest default C,,0,0,0,,and everyone else says\Nhe was raising a ruckus all night long!
-Dialogue: 0,0:11:34.10,0:11:37.72,forest default C,,0,0,0,,Couldn't it be that there are two Sammys,\Ncouldn't it, huh?
-Dialogue: 0,0:11:38.07,0:11:40.22,forest default C,,0,0,0,,That's it, that's it, that's it!
-Dialogue: 0,0:11:40.22,0:11:43.41,forest default C,,0,0,0,,Everyone's mistaken someone else's voice\Nfor mine!
-Dialogue: 0,0:11:43.43,0:11:46.03,forest default C,,0,0,0,,Who would ever mistake Sammy's voice?
-Dialogue: 0,0:11:46.03,0:11:50.13,forest default C,,0,0,0,,That "This is terrible, this is terrible"\Nwas without a doubt Sammy's voice!
-Dialogue: 0,0:11:50.40,0:11:52.74,forest default C,,0,0,0,,That's right, oh, I guess it won't work, Sammy!
-Dialogue: 0,0:11:52.74,0:11:54.23,forest default C,,0,0,0,,- That's right!\N- That's right!
-Dialogue: 0,0:11:54.84,0:11:58.02,forest default C,,0,0,0,,But... but it wasn't me, it wasn't me!
-Dialogue: 0,0:11:58.12,0:12:01.83,forest default C,,0,0,0,,Sure, sure...!\NBut sleep quietly tonight, Sammy!
-Dialogue: 0,0:12:02.06,0:12:03.86,forest default C,,0,0,0,,What do you mean by that, huh?
-Dialogue: 0,0:12:04.53,0:12:08.26,forest default C,,0,0,0,,Anyway, it's all settled!\NOK, Sammy?
-Dialogue: 0,0:12:08.61,0:12:10.85,forest default C,,0,0,0,,Now, you remember that!
-Dialogue: 0,0:12:13.40,0:12:15.71,forest default C,,0,0,0,,Well, goodnight everybody...
-Dialogue: 0,0:12:15.71,0:12:19.19,forest default C,,0,0,0,,Yeah, try to get some sleep now, Sammy...
-Dialogue: 0,0:12:22.51,0:12:24.64,forest default C,,0,0,0,,Not true, not true, not true!
-Dialogue: 0,0:12:24.64,0:12:27.20,forest default C,,0,0,0,,It's all not true, not true, not true!
-Dialogue: 0,0:12:30.26,0:12:32.53,forest default C,,0,0,0,,What should I do now, Johnny?
-Dialogue: 0,0:12:33.72,0:12:34.88,forest default C,,0,0,0,,Let's see...
-Dialogue: 0,0:12:35.36,0:12:38.85,forest default C,,0,0,0,,Be sure you aren't half asleep tonight,\Nuh, Sammy?
-Dialogue: 0,0:12:38.85,0:12:40.90,forest default C,,0,0,0,,It's a mistake, I keep on telling you it's a lie,
-Dialogue: 0,0:12:40.90,0:12:44.40,forest default C,,0,0,0,,it's a mistake, I keep telling you\Nit's a mistake, it's a lie, it's a lie!
-Dialogue: 0,0:12:59.45,0:13:03.93,forest default C,,0,0,0,,OK, this being the case, I'll see with\Nmy own eyes. I'll keep lookout!
-Dialogue: 0,0:13:08.10,0:13:12.40,forest default C,,0,0,0,,Better get plenty of sleep for now,\Notherwise I'll be very tired tonight!
-Dialogue: 0,0:13:25.47,0:13:26.97,forest narrator C,,0,0,0,,{\i1}Sammy was worried.{\i}
-Dialogue: 0,0:13:26.97,0:13:31.97,forest narrator C,,0,0,0,,{\i1}He had never slept so late,\Nwith the sun high in the sky...{\i}
-Dialogue: 0,0:13:52.13,0:13:55.30,forest default C,,0,0,0,,Still can't sleep... Maybe I can sleep\Nin that dark spot over there...
-Dialogue: 0,0:14:10.40,0:14:11.58,forest default C,,0,0,0,,Ah, Uncle Billy!
-Dialogue: 0,0:14:12.43,0:14:15.78,forest default C,,0,0,0,,Oh, John and Polly, you're going for a walk too?
-Dialogue: 0,0:14:16.05,0:14:19.08,forest default C,,0,0,0,,Yeah... that is there's something bothering me
-Dialogue: 0,0:14:19.08,0:14:21.70,forest default C,,0,0,0,,and I thought of asking you about it,\NUncle Billy.
-Dialogue: 0,0:14:23.96,0:14:26.67,forest default C,,0,0,0,,Oh, there's something you want to ask me?
-Dialogue: 0,0:14:29.40,0:14:31.97,forest default C,,0,0,0,,Sammy...? All night long...?
-Dialogue: 0,0:14:32.66,0:14:35.42,forest default C,,0,0,0,,Sammy insists that it's absolutely not him,
-Dialogue: 0,0:14:35.42,0:14:39.40,forest default C,,0,0,0,,but everyone says that they\Ncould not mistake Sammy's voice.
-Dialogue: 0,0:14:42.08,0:14:43.35,forest default C,,0,0,0,,T-that's it!
-Dialogue: 0,0:14:45.35,0:14:46.83,forest default C,,0,0,0,,Why, that's his voice!
-Dialogue: 0,0:14:48.31,0:14:51.32,forest default C,,0,0,0,,You... you did say for certain\Nthat a bird from the South
-Dialogue: 0,0:14:51.32,0:14:54.06,forest default C,,0,0,0,,came to visit me yesterday, didn't you, Johnny?
-Dialogue: 0,0:14:54.95,0:14:58.09,forest default C,,0,0,0,,I admit I did say that.\NBut what about it?
-Dialogue: 0,0:14:58.41,0:15:00.35,forest default C,,0,0,0,,Well, that's the answer!
-Dialogue: 0,0:15:02.68,0:15:06.21,forest default C,,0,0,0,,Oh my, oh my!\NWhat a guy! He's really here!
-Dialogue: 0,0:15:08.18,0:15:11.85,forest default C,,0,0,0,,Well, now Sammy's half asleep,\Nruckus over the day,
-Dialogue: 0,0:15:11.85,0:15:15.77,forest default C,,0,0,0,,just tell the forest people to sleep peaceful\Ntonight and leave the rest to me!
-Dialogue: 0,0:15:15.77,0:15:16.93,forest default C,,0,0,0,,Uncle Billy! Billy!
-Dialogue: 0,0:15:22.39,0:15:24.95,forest default C,,0,0,0,,I wonder what's really going on...
-Dialogue: 0,0:15:37.77,0:15:39.84,forest default C,,0,0,0,,Not scared... not scared...
-Dialogue: 0,0:15:39.84,0:15:42.57,forest default C,,0,0,0,,I will find out the truth...\Nnot scared...
-Dialogue: 0,0:15:42.57,0:15:45.05,forest default C,,0,0,0,,Not scared... not scared...
-Dialogue: 0,0:15:45.54,0:15:47.89,forest default C,,0,0,0,,Not scared, not scared, not scared!
-Dialogue: 0,0:16:17.22,0:16:22.41,forest default C,,0,0,0,,Aha, I'm sure that Peter the Rabbit is going\Nto eat the corn from Mr. Brown's corn field!
-Dialogue: 0,0:16:39.01,0:16:41.40,forest default C,,0,0,0,,How lucky to be easy-going like Peter!
-Dialogue: 0,0:16:54.36,0:16:57.47,forest default C,,0,0,0,,I've been watching and I haven't seen anything!
-Dialogue: 0,0:17:00.69,0:17:05.79,forest default C,,0,0,0,,Was I really half asleep when I did what\Neverybody says I did if I did it?
-Dialogue: 0,0:17:08.62,0:17:12.41,forest default C,,0,0,0,,This is terrible, this is terrible!\NOh, this is terrible!
-Dialogue: 0,0:17:12.41,0:17:16.34,forest default C,,0,0,0,,This is terrible, this is terrible,\Nthis is terrible, this is terrible!
-Dialogue: 0,0:17:20.80,0:17:23.10,forest default C,,0,0,0,,I'm not really half asleep!
-Dialogue: 0,0:17:24.09,0:17:26.53,forest default C,,0,0,0,,I'm right here completely awake!
-Dialogue: 0,0:17:27.01,0:17:28.83,forest default C,,0,0,0,,This is terrible, this is terrible!
-Dialogue: 0,0:17:30.10,0:17:32.56,forest default C,,0,0,0,,This is terrible, this is terrible...
-Dialogue: 0,0:17:33.21,0:17:34.70,forest default C,,0,0,0,,If this is my voice...
-Dialogue: 0,0:17:35.50,0:17:37.46,forest default C,,0,0,0,,...then who could that be?
-Dialogue: 0,0:17:42.91,0:17:46.44,forest default C,,0,0,0,,Hmm... it was about here, for sure...
-Dialogue: 0,0:17:46.92,0:17:51.26,forest default C,,0,0,0,,{\i1}This is terrible, this is terrible,\Nthis is terrible, this is terrible!{\i}
-Dialogue: 0,0:17:51.26,0:17:54.43,forest default C,,0,0,0,,{\i1}This is terrible, this is terrible,\Nthis is terrible!{\i}
-Dialogue: 0,0:17:58.15,0:18:02.67,forest default C,,0,0,0,,That's my voice! I'm really over there!\NStop it! Stooop!
-Dialogue: 0,0:18:02.84,0:18:05.47,forest default C,,0,0,0,,Stop it, stop it, stop it!
-Dialogue: 0,0:18:06.09,0:18:11.03,forest default C,,0,0,0,,Stop it, stop it, stop it, stop it,\Nstop it!
-Dialogue: 0,0:18:11.93,0:18:15.67,forest default C,,0,0,0,,{\i1}- Stop it, stop...{\i}\N- That's my voice for sure, I...
-Dialogue: 0,0:18:16.18,0:18:20.41,forest default C,,0,0,0,,{\i1}Stop, stop, stop, stop, stop, stop!{\i}
-Dialogue: 0,0:18:20.59,0:18:23.97,forest default C,,0,0,0,,It's no use... I'm going crazy...\NOut of my mind!
-Dialogue: 0,0:18:24.05,0:18:28.05,forest default C,,0,0,0,,It's terrible, terrible, it's terrible!
-Dialogue: 0,0:18:49.57,0:18:54.37,forest default C,,0,0,0,,{\i1}This is terrible... this is terrible...\Nthis is terrible... this is terrible!{\i}
-Dialogue: 0,0:18:54.82,0:19:00.22,forest default C,,0,0,0,,U-u-u-uncle Billy... I'm absolutely certain\NI'm going completely crazy!
-Dialogue: 0,0:19:00.57,0:19:03.91,forest default C,,0,0,0,,{\i1}This is terrible, this is terrible,\Nthis is terrible,{\i}
-Dialogue: 0,0:19:03.91,0:19:07.20,forest default C,,0,0,0,,{\i1}this is terrible, this is terrible,\Nthis is terrible!{\i}
-Dialogue: 0,0:19:11.53,0:19:13.07,forest default C,,0,0,0,,Well, just follow me!
-Dialogue: 0,0:19:14.22,0:19:17.70,forest default C,,0,0,0,,{\i1}This is terrible, this is terrible,\Nthis is terrible!{\i}
-Dialogue: 0,0:19:32.91,0:19:35.26,forest default C,,0,0,0,,{\i1}This is terrible, this is terrible,\Nthis is terrible!{\i}
-Dialogue: 0,0:19:35.26,0:19:38.48,forest default C,,0,0,0,,- Well, you can't fool me, I know his habits well!\N{\i1}- This is terrible, this is terrible!{\i}
-Dialogue: 0,0:19:38.48,0:19:43.30,forest default C,,0,0,0,,{\i1}This is terrible, this is terrible,\Nthis is terrible, this is terrible!{\i}
-Dialogue: 0,0:19:54.57,0:19:57.71,forest default C,,0,0,0,,Ah... well?
-Dialogue: 0,0:19:58.19,0:20:03.02,forest default C,,0,0,0,,I'll introduce you my friend:\Nthat's Mocker the Mockingbird!
-Dialogue: 0,0:20:04.61,0:20:08.88,forest default C,,0,0,0,,Mocker the Mockingbird, is that what you're\Nsaying, Uncle Billy, is that what you're saying?
-Dialogue: 0,0:20:09.59,0:20:13.44,forest default C,,0,0,0,,Oh, that's enough fooling around for now.\NSo how about coming out here, Mocker?
-Dialogue: 0,0:20:18.44,0:20:20.79,forest default C,,0,0,0,,{\i1}Well, how you've been doing, Uncle Billy?{\i}
-Dialogue: 0,0:20:20.80,0:20:25.54,forest default C,,0,0,0,,You've come a long way, Mocker,\Nwelcome, welcome, I'm glad to see you!
-Dialogue: 0,0:20:25.54,0:20:30.06,forest default C,,0,0,0,,But one thing for sure, you haven't changed\Na bit, you still love to fool around!
-Dialogue: 0,0:20:30.23,0:20:33.22,forest default C,,0,0,0,,After all, I've come a long way to see you again,
-Dialogue: 0,0:20:33.22,0:20:36.23,forest default C,,0,0,0,,and I wanted our meeting to be a fun thing!
-Dialogue: 0,0:20:37.33,0:20:41.07,forest default C,,0,0,0,,Well, so we meet again in the soft moonlight,
-Dialogue: 0,0:20:41.52,0:20:42.98,forest default C,,0,0,0,,it's good to see you, Mocker!
-Dialogue: 0,0:20:50.43,0:20:53.32,forest default C,,0,0,0,,Then my voice was his?\NAre you sure, Uncle Billy?
-Dialogue: 0,0:20:54.24,0:20:57.29,forest default C,,0,0,0,,Mocker is a real expert in imitations, you know!
-Dialogue: 0,0:20:58.80,0:21:01.76,forest default C,,0,0,0,,Forgive me, Sammy, will you ever forgive me?
-Dialogue: 0,0:21:02.37,0:21:05.79,forest default C,,0,0,0,,Are you kidding?!\NThat sounds just like my voice!
-Dialogue: 0,0:21:06.19,0:21:10.24,forest default C,,0,0,0,,Darn, you fool, why imitate my voice,\Nwhy imitate my voice, why imitate my voice?!
-Dialogue: 0,0:21:10.60,0:21:14.87,forest default C,,0,0,0,,It must've been because Sammy\Nis the noisiest one in the forest!
-Dialogue: 0,0:21:14.87,0:21:17.14,forest default C,,0,0,0,,I apologise, excuse me, Sammy!
-Dialogue: 0,0:21:17.14,0:21:20.10,forest default C,,0,0,0,,Do you think just apologising is enough?\NThief!
-Dialogue: 0,0:21:20.10,0:21:22.79,forest default C,,0,0,0,,Nah-nah, you make such ruckus\Nall the forest people
-Dialogue: 0,0:21:22.79,0:21:24.79,forest default C,,0,0,0,,are gonna wake up and chase you out of here!
-Dialogue: 0,0:21:27.36,0:21:28.74,forest default C,,0,0,0,,For today I forgive you,
-Dialogue: 0,0:21:28.75,0:21:32.70,forest default C,,0,0,0,,but someday I'll get my revenge,\Nof this you can be sure!
-Dialogue: 0,0:21:32.92,0:21:34.24,forest default C,,0,0,0,,You voice thief!
-Dialogue: 0,0:21:38.14,0:21:41.85,forest default C,,0,0,0,,I guess I really shouldn't have done\Nthat to him, I guess it wasn't fair!
-Dialogue: 0,0:21:41.85,0:21:45.32,forest default C,,0,0,0,,Ah, I'm saying sometimes it's good for him\Nto be punished!
-Dialogue: 0,0:21:45.32,0:21:47.90,forest default C,,0,0,0,,Anyway, I want to introduce you to my friends!
-Dialogue: 0,0:21:47.90,0:21:50.48,forest default C,,0,0,0,,Please do, Uncle Billy, I'd like to meet them!
-Dialogue: 0,0:21:50.79,0:21:53.06,forest default C,,0,0,0,,Well, now, you just leave it to me!
-Dialogue: 0,0:21:53.06,0:21:55.80,forest default C,,0,0,0,,You're going to come with me to my house tonight
-Dialogue: 0,0:21:55.80,0:21:59.80,forest default C,,0,0,0,,and we're going to spend the whole evening\Ntalking over old times!
-Dialogue: 0,0:21:59.80,0:22:01.81,forest default C,,0,0,0,,I'd like that, I really would!
-Dialogue: 0,0:22:18.34,0:22:21.70,forest credits C,,0,0,0,,{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs
+Dialogue: 0,0:00:00.36,0:00:06.00,forest title KB,,0,0,0,,{TIME:360,6000}FABLES \N of the\NGREEN FOREST
+Dialogue: 0,0:00:02.36,0:00:06.00,forest ep title C,,0,0,0,,{TIME:2360,6000}{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Sammy gets mocked"{\i}
+Dialogue: 0,0:00:06.14,0:00:11.10,forest default C,,0,0,0,,{TIME:6140,11100}There it is! That's the Green Forest,\Nthat must be it, where Uncle Billy lives!
+Dialogue: 0,0:00:11.10,0:00:12.83,forest default C,,0,0,0,,{TIME:11100,12830}I finally found it!
+Dialogue: 0,0:00:13.61,0:00:17.63,forest narrator C,,0,0,0,,{TIME:13610,17630}{\i1}One day, a strange bird arrived\Nat the Green Forest.{\i}
+Dialogue: 0,0:00:17.70,0:00:22.21,forest narrator C,,0,0,0,,{TIME:17700,22210}{\i1}It seems he is a southern friend\Nof Uncle Billy, the Possum.{\i}
+Dialogue: 0,0:00:23.72,0:00:25.80,forest default C,,0,0,0,,{TIME:23720,25800}Well... Good Day!
+Dialogue: 0,0:00:25.80,0:00:30.97,forest default C,,0,0,0,,{TIME:25800,30970}Is this the Green Forest where Uncle Billy lives,\NI would like to ask you!
+Dialogue: 0,0:00:31.39,0:00:32.82,forest default C,,0,0,0,,{TIME:31390,32820}Yes, it is.
+Dialogue: 0,0:00:33.00,0:00:34.79,forest default C,,0,0,0,,{TIME:33000,34790}And who are you, please?
+Dialogue: 0,0:00:34.79,0:00:37.40,forest default C,,0,0,0,,{TIME:34790,37400}No, nevermind, it doesn't really matter now.
+Dialogue: 0,0:00:37.40,0:00:39.99,forest default C,,0,0,0,,{TIME:37400,39990}I'll meet you all formally later. I'll see you!
+Dialogue: 0,0:00:44.92,0:00:48.07,forest default C,,0,0,0,,{TIME:44920,48070}- That one, what is he, sure is peculiar!\N- Yeah.
+Dialogue: 0,0:00:48.11,0:00:51.72,forest default C,,0,0,0,,{TIME:48110,51720}Undoubtedly, he's not a friend of Uncle Billy,\Nof that I'm sure.
+Dialogue: 0,0:00:58.25,0:01:01.75,forest default C,,0,0,0,,{TIME:58250,61750}My-my-my, but this is such a very large forest!
+Dialogue: 0,0:01:01.85,0:01:03.01,forest default C,,0,0,0,,{TIME:61850,63010}I don't know!
+Dialogue: 0,0:01:05.19,0:01:08.54,forest default C,,0,0,0,,{TIME:65190,68540}I just don't know where\Nto start looking for Uncle Billy!
+Dialogue: 0,0:01:15.24,0:01:20.13,forest default C,,0,0,0,,{TIME:75240,80130}Thief, thief, thief! Who is it that stole\Nmy breakfast, who is it that stole my breakfast?
+Dialogue: 0,0:01:25.59,0:01:27.40,forest default C,,0,0,0,,{TIME:85590,87400}I've got a good idea!
+Dialogue: 0,0:01:33.50,0:01:34.95,forest default C,,0,0,0,,{TIME:93500,94950}Now, you should cut that out!\NYou should...
+Dialogue: 0,0:01:39.23,0:01:41.36,forest default C,,0,0,0,,{TIME:99230,101360}Oh, come on now, cut it out!
+Dialogue: 0,0:01:41.96,0:01:45.00,forest default C,,0,0,0,,{TIME:101960,105000}Dear! Instead of just playing with the children,
+Dialogue: 0,0:01:45.00,0:01:47.24,forest default C,,0,0,0,,{TIME:105000,107240}why don't you go out\Nand find something to dine on?
+Dialogue: 0,0:01:47.55,0:01:48.63,forest default C,,0,0,0,,{TIME:107550,108630}How about it?
+Dialogue: 0,0:01:48.89,0:01:53.81,forest default C,,0,0,0,,{TIME:108890,113810}I know, I know, I was just thinking\Na lot about you, Mommy!
+Dialogue: 0,0:01:53.81,0:01:59.06,forest default C,,0,0,0,,{TIME:113810,119060}You always say I know, I know,\NI know, I know but you never do!
+Dialogue: 0,0:01:59.09,0:02:00.58,forest default C,,0,0,0,,{TIME:119090,120580}Just like last night!
+Dialogue: 0,0:02:00.58,0:02:05.11,forest default C,,0,0,0,,{TIME:120580,125110}Oh, you don't have to nag me like that!\NI know, I know, indeed!
+Dialogue: 0,0:02:05.11,0:02:08.85,forest default C,,0,0,0,,{TIME:125110,128850}Come on now, kids,\Nyou go on back to the house now, go on back!
+Dialogue: 0,0:02:09.66,0:02:12.17,forest default C,,0,0,0,,{TIME:129660,132170}Well I'm going now, Mommy, bye!
+Dialogue: 0,0:02:12.66,0:02:15.06,forest default C,,0,0,0,,{TIME:132660,135060}Oh... shocks!
+Dialogue: 0,0:02:15.06,0:02:18.36,forest default C,,0,0,0,,{TIME:135060,138360}Really, I don't know what to do\Nwith that stupid husband!
+Dialogue: 0,0:02:24.52,0:02:25.79,forest default C,,0,0,0,,{TIME:144520,145790}Hey, Uncle Billy!
+Dialogue: 0,0:02:26.97,0:02:28.65,forest default C,,0,0,0,,{TIME:146970,148650}Johnny! Polly!
+Dialogue: 0,0:02:29.29,0:02:33.70,forest default C,,0,0,0,,{TIME:149290,153700}Uncle Billy, that friend of yours seems\Nto have come a long way just to see you!
+Dialogue: 0,0:02:33.71,0:02:35.52,forest default C,,0,0,0,,{TIME:153710,155520}A strange one, isn't it?
+Dialogue: 0,0:02:36.07,0:02:37.81,forest default C,,0,0,0,,{TIME:156070,157810}My friend? Who?
+Dialogue: 0,0:02:37.86,0:02:43.02,forest default C,,0,0,0,,{TIME:157860,163020}Oh, haven't you met him yet?\NIt's that bird with the shrill voice!
+Dialogue: 0,0:02:43.10,0:02:44.26,forest default C,,0,0,0,,{TIME:163100,164260}No...
+Dialogue: 0,0:02:44.27,0:02:46.40,forest default C,,0,0,0,,{TIME:164270,166400}...I haven't met him yet.
+Dialogue: 0,0:02:46.46,0:02:50.26,forest default C,,0,0,0,,{TIME:166460,170260}But... My friend with the shrill voice, she say.
+Dialogue: 0,0:02:50.89,0:02:54.49,forest default C,,0,0,0,,{TIME:170890,174490}Wearing a very different brownish colored suit.
+Dialogue: 0,0:02:54.99,0:02:57.99,forest default C,,0,0,0,,{TIME:174990,177990}A brownish colored suit...\NHmm...!
+Dialogue: 0,0:02:58.73,0:03:00.51,forest default C,,0,0,0,,{TIME:178730,180510}What?! That guy?
+Dialogue: 0,0:03:01.52,0:03:03.36,forest default C,,0,0,0,,{TIME:181520,183360}Here, in the Green Forest?
+Dialogue: 0,0:03:03.36,0:03:05.67,forest default C,,0,0,0,,{TIME:183360,185670}Just a while ago, near the Clover Hill.
+Dialogue: 0,0:03:05.67,0:03:08.97,forest default C,,0,0,0,,{TIME:185670,188970}He was asking Polly and me about you,\NUncle Billy.
+Dialogue: 0,0:03:09.44,0:03:12.29,forest default C,,0,0,0,,{TIME:189440,192290}Oh, really?!\NWhy, that guy, well, oh my!
+Dialogue: 0,0:03:15.62,0:03:18.98,forest narrator C,,0,0,0,,{TIME:195620,198980}{\i1}When Uncle Billy thought about his friend{\i}
+Dialogue: 0,0:03:18.98,0:03:21.75,forest narrator C,,0,0,0,,{TIME:198980,201750}{\i1}from the days in the distant Southern Virginia,{\i}
+Dialogue: 0,0:03:21.76,0:03:25.45,forest narrator C,,0,0,0,,{TIME:201760,205450}{\i1}and that he was here now in the Green Forest,{\i}
+Dialogue: 0,0:03:25.45,0:03:28.89,forest narrator C,,0,0,0,,{TIME:205450,208890}{\i1}he became extremely excited by his memories.{\i}
+Dialogue: 0,0:03:30.17,0:03:34.11,forest default C,,0,0,0,,{TIME:210170,214110}I haven't seen him, but...\NI'll look for him!
+Dialogue: 0,0:03:35.60,0:03:40.55,forest default C,,0,0,0,,{TIME:215600,220550}Sure is funny! Someone with sharp ears like you\Nnot knowing about him!
+Dialogue: 0,0:03:40.55,0:03:43.55,forest default C,,0,0,0,,{TIME:220550,223550}Well, I'll keep it in mind and search for him.
+Dialogue: 0,0:03:43.55,0:03:46.01,forest default C,,0,0,0,,{TIME:223550,226010}But, tell me, what does this person look like?
+Dialogue: 0,0:03:47.18,0:03:51.43,forest default C,,0,0,0,,{TIME:227180,231430}Well, he's a friend of mine from long ago\Nin that good South country.
+Dialogue: 0,0:03:54.54,0:03:58.22,forest default C,,0,0,0,,{TIME:234540,238220}Well... please don't bother, Peter,\NI don't think you can find him.
+Dialogue: 0,0:03:59.82,0:04:03.23,forest default C,,0,0,0,,{TIME:239820,243230}You see, Johnny and Polly\Ntold me this friend of mine
+Dialogue: 0,0:04:03.23,0:04:05.15,forest default C,,0,0,0,,{TIME:243230,245150}from the South country\Nwas up here looking for me,
+Dialogue: 0,0:04:05.15,0:04:08.30,forest default C,,0,0,0,,{TIME:245150,248300}but I can't find anybody else\Nwho knows anything about it,
+Dialogue: 0,0:04:08.30,0:04:09.78,forest default C,,0,0,0,,{TIME:248300,249780}and I think they're just wrong!
+Dialogue: 0,0:04:13.11,0:04:15.49,forest default C,,0,0,0,,{TIME:253110,255490}Uncle Billy, you never told me\Nwhat he looked like!
+Dialogue: 0,0:04:17.53,0:04:21.20,forest default C,,0,0,0,,{TIME:257530,261200}Don't bother to ask,\NI didn't see him around here!
+Dialogue: 0,0:04:28.51,0:04:32.15,forest default C,,0,0,0,,{TIME:268510,272150}Well, now...\Nif even Drummer doesn't know, I...
+Dialogue: 0,0:04:32.63,0:04:36.05,forest default C,,0,0,0,,{TIME:272630,276050}...it may just all be a big misunderstanding
+Dialogue: 0,0:04:36.05,0:04:38.89,forest default C,,0,0,0,,{TIME:276050,278890}but I guess I'll better keep looking...
+Dialogue: 0,0:04:40.63,0:04:43.95,forest default C,,0,0,0,,{TIME:280630,283950}Dear, where were you wandering\Nabout until now?
+Dialogue: 0,0:04:43.95,0:04:46.98,forest default C,,0,0,0,,{TIME:283950,286980}Why in Heaven's name\Ndid you not come back sooner?
+Dialogue: 0,0:04:47.35,0:04:49.13,forest default C,,0,0,0,,{TIME:287350,289130}Oh my...!\NOh!
+Dialogue: 0,0:04:50.15,0:04:53.45,forest default C,,0,0,0,,{TIME:290150,293450}You know we were all waiting for you\Nwith empty stomachs!
+Dialogue: 0,0:04:53.80,0:04:55.53,forest default C,,0,0,0,,{TIME:293800,295530}I'm sorry, dear!
+Dialogue: 0,0:04:56.04,0:04:58.09,forest default C,,0,0,0,,{TIME:296040,298090}Oh, now, Mother, forgive me,
+Dialogue: 0,0:04:58.10,0:05:01.33,forest default C,,0,0,0,,{TIME:298100,301330}why, I was just looking for my friend\Nfrom the South country!
+Dialogue: 0,0:05:01.59,0:05:02.74,forest default C,,0,0,0,,{TIME:301590,302740}Really...?!
+Dialogue: 0,0:05:03.10,0:05:05.29,forest default C,,0,0,0,,{TIME:303100,305290}You can be so trying!
+Dialogue: 0,0:05:07.75,0:05:10.75,forest narrator C,,0,0,0,,{TIME:307750,310750}{\i1}Uncle Billy was at a loss for a reply.{\i}
+Dialogue: 0,0:05:10.89,0:05:13.43,forest narrator C,,0,0,0,,{TIME:310890,313430}{\i1}He felt absolutely terrible.{\i}
+Dialogue: 0,0:05:13.85,0:05:18.09,forest narrator C,,0,0,0,,{TIME:313850,318090}{\i1}Furthermore, he was exhausted\Nfrom walking about all day.{\i}
+Dialogue: 0,0:05:18.64,0:05:19.79,forest default C,,0,0,0,,{TIME:318640,319790}Dear!
+Dialogue: 0,0:05:20.54,0:05:23.19,forest default C,,0,0,0,,{TIME:320540,323190}You're hungry... aren't you, Billy?
+Dialogue: 0,0:05:23.43,0:05:25.19,forest default C,,0,0,0,,{TIME:323430,325190}Oh, I sure am!
+Dialogue: 0,0:05:26.57,0:05:29.76,forest default C,,0,0,0,,{TIME:326570,329760}Why, I haven't had a bite to eat all day long!
+Dialogue: 0,0:05:40.93,0:05:45.30,forest default C,,0,0,0,,{TIME:340930,345300}If you've eaten, hurry up and go to bed!\NThe bed is already made up!
+Dialogue: 0,0:05:53.00,0:05:57.11,forest default C,,0,0,0,,{TIME:353000,357110}Hurry up and come to sleep,\Nyou know the night wind is very poisonous!
+Dialogue: 0,0:05:59.01,0:06:02.56,forest default C,,0,0,0,,{TIME:359010,362560}Alright, Mother, I know, I know,\NI'll be right up, good night!
+Dialogue: 0,0:06:02.56,0:06:07.54,forest default C,,0,0,0,,{TIME:362560,367540}My wife... her barks lot worse than her bite,\Nshe tries to hide it, you know,
+Dialogue: 0,0:06:07.54,0:06:11.85,forest default C,,0,0,0,,{TIME:367540,371850}but her soul is really very tender\Nand I love her a great deal!
+Dialogue: 0,0:06:20.45,0:06:21.72,forest default C,,0,0,0,,{TIME:380450,381720}I'm off, Mother!
+Dialogue: 0,0:06:21.91,0:06:24.63,forest default C,,0,0,0,,{TIME:381910,384630}Well, good morning, smiling sun!
+Dialogue: 0,0:06:24.63,0:06:28.42,forest default C,,0,0,0,,{TIME:384630,388420}Today I'm gonna try find\Nmy friend, Mocker, real hard!
+Dialogue: 0,0:06:29.99,0:06:31.15,forest narrator C,,0,0,0,,{TIME:389990,391150}{\i1}Today...{\i}
+Dialogue: 0,0:06:31.38,0:06:33.85,forest narrator C,,0,0,0,,{TIME:391380,393850}{\i1}Good old easy-going Uncle Billy{\i}
+Dialogue: 0,0:06:33.85,0:06:37.01,forest narrator C,,0,0,0,,{TIME:393850,397010}{\i1}was eager to work hard\Nfor the sake of his family...{\i}
+Dialogue: 0,0:06:37.53,0:06:41.94,forest narrator C,,0,0,0,,{TIME:397530,401940}{\i1}...and he wasn't going to let himself\Nbe side-tracked by a lot of little things.{\i}
+Dialogue: 0,0:06:42.32,0:06:44.15,forest default C,,0,0,0,,{TIME:402320,404150}Having eaten a hearty breakfast,
+Dialogue: 0,0:06:44.15,0:06:49.81,forest default C,,0,0,0,,{TIME:404150,409810}what a really pleasant morning it is,\Nit is, it is...!
+Dialogue: 0,0:06:53.35,0:06:57.02,forest default C,,0,0,0,,{TIME:413350,417020}Say, Sammy, what were you doing up\Nso late last night?
+Dialogue: 0,0:06:57.03,0:07:00.04,forest default C,,0,0,0,,{TIME:417030,420040}I heard you until all hours of the morning!
+Dialogue: 0,0:07:01.23,0:07:03.58,forest default C,,0,0,0,,{TIME:421230,423580}Ah, what are you talking about?
+Dialogue: 0,0:07:03.58,0:07:06.19,forest default C,,0,0,0,,{TIME:423580,426190}I wasn't up that late last night,\NI'm telling you!
+Dialogue: 0,0:07:06.69,0:07:10.70,forest default C,,0,0,0,,{TIME:426690,430700}You know, Sammy, you really oughta\Ntell the truth every once in a while.
+Dialogue: 0,0:07:10.70,0:07:14.68,forest default C,,0,0,0,,{TIME:430700,434680}You kept me awake all last night\Nafter the sun went down
+Dialogue: 0,0:07:14.68,0:07:17.47,forest default C,,0,0,0,,{TIME:434680,437470}making all that disturbance by the Green Forest!
+Dialogue: 0,0:07:17.47,0:07:20.49,forest default C,,0,0,0,,{TIME:437470,440490}What happened, huh?\NI need my sleep!
+Dialogue: 0,0:07:25.12,0:07:30.13,forest default C,,0,0,0,,{TIME:445120,450130}I'm telling the truth, I went to bed as usual\Nand didn't wake up till this morning!
+Dialogue: 0,0:07:30.13,0:07:32.57,forest default C,,0,0,0,,{TIME:450130,452570}How can you dare accuse me of that?
+Dialogue: 0,0:07:32.82,0:07:36.41,forest default C,,0,0,0,,{TIME:452820,456410}Then you must've been talking\Nawfully loud in your sleep!
+Dialogue: 0,0:07:44.43,0:07:47.48,forest default C,,0,0,0,,{TIME:464430,467480}Liars, liars, liars,\Nliars, liars!
+Dialogue: 0,0:07:52.85,0:07:56.18,forest default C,,0,0,0,,{TIME:472850,476180}Darn, darn...\NWhat's going on, anyway?
+Dialogue: 0,0:07:57.41,0:07:58.57,forest default C,,0,0,0,,{TIME:477410,478570}Hey, Sammy!
+Dialogue: 0,0:07:58.93,0:08:02.15,forest default C,,0,0,0,,{TIME:478930,482150}Wasn't that noise that you made\Nlast night enough for you,
+Dialogue: 0,0:08:02.15,0:08:04.56,forest default C,,0,0,0,,{TIME:482150,484560}do you have to bother us today as well?!
+Dialogue: 0,0:08:07.52,0:08:10.93,forest default C,,0,0,0,,{TIME:487520,490930}Don't be funny, Peter! This is the second time\Nalready this morning!
+Dialogue: 0,0:08:10.93,0:08:12.58,forest default C,,0,0,0,,{TIME:490930,492580}I slept soundly last night,
+Dialogue: 0,0:08:12.58,0:08:16.18,forest default C,,0,0,0,,{TIME:492580,496180}and to be told that I was causing\Nthe disturbance, bothers the heck out of me!
+Dialogue: 0,0:08:17.25,0:08:19.66,forest default C,,0,0,0,,{TIME:497250,499660}Hmm... then you must sleep awfully funny.
+Dialogue: 0,0:08:19.66,0:08:23.42,forest default C,,0,0,0,,{TIME:499660,503420}Now, tell the truth, Sammy, why were you\Nflying about the Green Forest,
+Dialogue: 0,0:08:23.42,0:08:26.91,forest default C,,0,0,0,,{TIME:503420,506910}shouting "thief, thief" when all of us\Nwere trying to sleep here?
+Dialogue: 0,0:08:27.26,0:08:29.90,forest default C,,0,0,0,,{TIME:507260,509900}Peter, you and Jimmy too must've\Nsomething wrong with your heads.
+Dialogue: 0,0:08:29.90,0:08:32.43,forest default C,,0,0,0,,{TIME:509900,512430}You're crazy! Now listen, I was asleep,
+Dialogue: 0,0:08:32.43,0:08:35.28,forest default C,,0,0,0,,{TIME:512430,515280}now why would I have anyone trying\Nto accuse me of something I didn't do?
+Dialogue: 0,0:08:35.75,0:08:39.33,forest default C,,0,0,0,,{TIME:515750,519330}I wouldn't mistake you voice, Sammy,\NI know it very well!
+Dialogue: 0,0:08:39.43,0:08:42.53,forest default C,,0,0,0,,{TIME:519430,522530}If Hooty the Owl hears you,\Nyou'll be finished!
+Dialogue: 0,0:08:42.54,0:08:44.90,forest default C,,0,0,0,,{TIME:522540,524900}Now, don't shout about and keep us up!
+Dialogue: 0,0:08:49.89,0:08:52.67,forest narrator C,,0,0,0,,{TIME:529890,532670}{\i1}Sammy is furious,\Nbut he doesn't know what to do.{\i}
+Dialogue: 0,0:08:52.67,0:08:55.76,forest default C,,0,0,0,,{TIME:532670,535760}Are they trying to make me angry,\Nor did I really shout out in my sleep?!
+Dialogue: 0,0:08:56.85,0:09:01.61,forest narrator C,,0,0,0,,{TIME:536850,541610}{\i1}Sammy, the talkative jay, has never been\Nas angry as this before.{\i}
+Dialogue: 0,0:09:02.03,0:09:04.72,forest narrator C,,0,0,0,,{TIME:542030,544720}{\i1}Although he doesn't remember\Na thing about it,{\i}
+Dialogue: 0,0:09:04.72,0:09:09.39,forest narrator C,,0,0,0,,{TIME:544720,549390}{\i1}most of the forest animals are complaining\Nthat they couldn't sleep well last night,{\i}
+Dialogue: 0,0:09:09.39,0:09:13.74,forest narrator C,,0,0,0,,{TIME:549390,553740}{\i1}because Sammy was making such a commotion\Nall night long.{\i}
+Dialogue: 0,0:09:13.87,0:09:17.28,forest narrator C,,0,0,0,,{TIME:553870,557280}{\i1}But what's going on? Sammy wonders.{\i}
+Dialogue: 0,0:09:17.28,0:09:20.12,forest narrator C,,0,0,0,,{TIME:557280,560120}{\i1}Am I going completely crazy?{\i}
+Dialogue: 0,0:09:21.72,0:09:27.25,forest lyrics C,,0,0,0,,{TIME:561720,567250}{\i1}There goes Sammy, the sleepyhead jay,\NShout all day long,{\i}
+Dialogue: 0,0:09:27.27,0:09:31.36,forest lyrics C,,0,0,0,,{TIME:567270,571360}{\i1}Not having enough during the daytime,{\i}
+Dialogue: 0,0:09:31.36,0:09:37.78,forest lyrics C,,0,0,0,,{TIME:571360,577780}{\i1}Sammy also shouts during the night,\NAnd we can't sleep, no-no-no-no!{\i}
+Dialogue: 0,0:09:37.81,0:09:40.33,forest default C,,0,0,0,,{TIME:577810,580330}It's a lie, it's a lie, it's a lie!\NIt's a lie, it's a lie, it's a lie!
+Dialogue: 0,0:09:40.33,0:09:45.92,forest lyrics C,,0,0,0,,{TIME:580330,585920}{\i1}Oh-oh, crazy Sammy,\Nhe's asleep-eep-eep...{\i}
+Dialogue: 0,0:09:45.92,0:09:49.65,forest lyrics C,,0,0,0,,{TIME:585920,589650}{\i1}Sleepy jay Sammy,\NOh-oh, crazy Sammy!{\i}
+Dialogue: 0,0:09:49.65,0:09:50.81,forest default C,,0,0,0,,{TIME:589650,590810}It's a lie, it's a lie, it's a lie!\NIt's a lie, it's a lie, it's a lie!
+Dialogue: 0,0:09:51.37,0:09:55.76,forest lyrics C,,0,0,0,,{TIME:591370,595760}{\i1}Please, let him sleep...!\NSleepyhead Sammy!{\i}
+Dialogue: 0,0:09:55.82,0:10:00.69,forest lyrics C,,0,0,0,,{TIME:595820,600690}{\i1}He's going to be very surprised,\NHe's going to be very surprised,{\i}
+Dialogue: 0,0:10:00.70,0:10:04.16,forest lyrics C,,0,0,0,,{TIME:600700,604160}{\i1}- When we won't let him sleep!\N{\c&HFFFFFF&\i0}- It's a lie, it's  lie, it's a lie!{\i1}
+Dialogue: 0,0:10:26.97,0:10:30.27,forest default C,,0,0,0,,{TIME:626970,630270}It's the truth, really, I slept all night long!
+Dialogue: 0,0:10:30.27,0:10:34.32,forest default C,,0,0,0,,{TIME:630270,634320}Sammy, are you sure you don't remember\Nanything that happened?
+Dialogue: 0,0:10:36.45,0:10:39.19,forest default C,,0,0,0,,{TIME:636450,639190}But you may have been half asleep,\Ndon't you think?
+Dialogue: 0,0:10:39.88,0:10:42.22,forest default C,,0,0,0,,{TIME:639880,642220}Johnny, are you going to doubt me too?
+Dialogue: 0,0:10:42.22,0:10:45.86,forest default C,,0,0,0,,{TIME:642220,645860}I don't dance and jump around at night\Nlike everybody is saying!
+Dialogue: 0,0:10:45.86,0:10:48.22,forest default C,,0,0,0,,{TIME:645860,648220}Uh-huh, that is true, I don't doubt you!
+Dialogue: 0,0:10:48.22,0:10:51.09,forest default C,,0,0,0,,{TIME:648220,651090}That's funny, if I hadn't heard it myself!
+Dialogue: 0,0:10:51.23,0:10:54.33,forest default C,,0,0,0,,{TIME:651230,654330}Do you think everyone could be\Nmaking fun of Sammy?
+Dialogue: 0,0:10:54.73,0:10:56.24,forest default C,,0,0,0,,{TIME:654730,656240}{\i1}It's the truth!{\i}
+Dialogue: 0,0:10:56.59,0:10:59.81,forest default C,,0,0,0,,{TIME:656590,659810}It's causing quite a commotion\Nthroughout the forest!
+Dialogue: 0,0:11:00.37,0:11:04.92,forest default C,,0,0,0,,{TIME:660370,664920}- It's a lie, it's a lie!\N- I assure you the one who's lying is Sammy!
+Dialogue: 0,0:11:06.02,0:11:07.72,forest default C,,0,0,0,,{TIME:666020,667720}It's just like Jenny said!
+Dialogue: 0,0:11:08.88,0:11:10.61,forest default C,,0,0,0,,{TIME:668880,670610}Hmm... I agree!
+Dialogue: 0,0:11:16.55,0:11:18.05,forest default C,,0,0,0,,{TIME:676550,678050}What is this?!
+Dialogue: 0,0:11:19.36,0:11:24.54,forest default C,,0,0,0,,{TIME:679360,684540}It's a lie, everyone's lying!\NIt's a lie, everyone's lying!
+Dialogue: 0,0:11:25.18,0:11:27.90,forest default C,,0,0,0,,{TIME:685180,687900}Sure is funny!\NSammy says last night he was sleeping,
+Dialogue: 0,0:11:27.90,0:11:31.34,forest default C,,0,0,0,,{TIME:687900,691340}and everyone else says\Nhe was raising a ruckus all night long!
+Dialogue: 0,0:11:34.10,0:11:37.72,forest default C,,0,0,0,,{TIME:694100,697720}Couldn't it be that there are two Sammys,\Ncouldn't it, huh?
+Dialogue: 0,0:11:38.07,0:11:40.22,forest default C,,0,0,0,,{TIME:698070,700220}That's it, that's it, that's it!
+Dialogue: 0,0:11:40.22,0:11:43.41,forest default C,,0,0,0,,{TIME:700220,703410}Everyone's mistaken someone else's voice\Nfor mine!
+Dialogue: 0,0:11:43.43,0:11:46.03,forest default C,,0,0,0,,{TIME:703430,706030}Who would ever mistake Sammy's voice?
+Dialogue: 0,0:11:46.03,0:11:50.13,forest default C,,0,0,0,,{TIME:706030,710130}That "This is terrible, this is terrible"\Nwas without a doubt Sammy's voice!
+Dialogue: 0,0:11:50.40,0:11:52.74,forest default C,,0,0,0,,{TIME:710400,712740}That's right, oh, I guess it won't work, Sammy!
+Dialogue: 0,0:11:52.74,0:11:54.23,forest default C,,0,0,0,,{TIME:712740,714230}- That's right!\N- That's right!
+Dialogue: 0,0:11:54.84,0:11:58.02,forest default C,,0,0,0,,{TIME:714840,718020}But... but it wasn't me, it wasn't me!
+Dialogue: 0,0:11:58.12,0:12:01.83,forest default C,,0,0,0,,{TIME:718120,721830}Sure, sure...!\NBut sleep quietly tonight, Sammy!
+Dialogue: 0,0:12:02.06,0:12:03.86,forest default C,,0,0,0,,{TIME:722060,723860}What do you mean by that, huh?
+Dialogue: 0,0:12:04.53,0:12:08.26,forest default C,,0,0,0,,{TIME:724530,728260}Anyway, it's all settled!\NOK, Sammy?
+Dialogue: 0,0:12:08.61,0:12:10.85,forest default C,,0,0,0,,{TIME:728610,730850}Now, you remember that!
+Dialogue: 0,0:12:13.40,0:12:15.71,forest default C,,0,0,0,,{TIME:733400,735710}Well, goodnight everybody...
+Dialogue: 0,0:12:15.71,0:12:19.19,forest default C,,0,0,0,,{TIME:735710,739190}Yeah, try to get some sleep now, Sammy...
+Dialogue: 0,0:12:22.51,0:12:24.64,forest default C,,0,0,0,,{TIME:742510,744640}Not true, not true, not true!
+Dialogue: 0,0:12:24.64,0:12:27.20,forest default C,,0,0,0,,{TIME:744640,747200}It's all not true, not true, not true!
+Dialogue: 0,0:12:30.26,0:12:32.53,forest default C,,0,0,0,,{TIME:750260,752530}What should I do now, Johnny?
+Dialogue: 0,0:12:33.72,0:12:34.88,forest default C,,0,0,0,,{TIME:753720,754880}Let's see...
+Dialogue: 0,0:12:35.36,0:12:38.85,forest default C,,0,0,0,,{TIME:755360,758850}Be sure you aren't half asleep tonight,\Nuh, Sammy?
+Dialogue: 0,0:12:38.85,0:12:40.90,forest default C,,0,0,0,,{TIME:758850,760900}It's a mistake, I keep on telling you it's a lie,
+Dialogue: 0,0:12:40.90,0:12:44.40,forest default C,,0,0,0,,{TIME:760900,764400}it's a mistake, I keep telling you\Nit's a mistake, it's a lie, it's a lie!
+Dialogue: 0,0:12:59.45,0:13:03.93,forest default C,,0,0,0,,{TIME:779450,783930}OK, this being the case, I'll see with\Nmy own eyes. I'll keep lookout!
+Dialogue: 0,0:13:08.10,0:13:12.40,forest default C,,0,0,0,,{TIME:788100,792400}Better get plenty of sleep for now,\Notherwise I'll be very tired tonight!
+Dialogue: 0,0:13:25.47,0:13:26.97,forest narrator C,,0,0,0,,{TIME:805470,806970}{\i1}Sammy was worried.{\i}
+Dialogue: 0,0:13:26.97,0:13:31.97,forest narrator C,,0,0,0,,{TIME:806970,811970}{\i1}He had never slept so late,\Nwith the sun high in the sky...{\i}
+Dialogue: 0,0:13:52.13,0:13:55.30,forest default C,,0,0,0,,{TIME:832130,835300}Still can't sleep... Maybe I can sleep\Nin that dark spot over there...
+Dialogue: 0,0:14:10.40,0:14:11.58,forest default C,,0,0,0,,{TIME:850400,851580}Ah, Uncle Billy!
+Dialogue: 0,0:14:12.43,0:14:15.78,forest default C,,0,0,0,,{TIME:852430,855780}Oh, John and Polly, you're going for a walk too?
+Dialogue: 0,0:14:16.05,0:14:19.08,forest default C,,0,0,0,,{TIME:856050,859080}Yeah... that is there's something bothering me
+Dialogue: 0,0:14:19.08,0:14:21.70,forest default C,,0,0,0,,{TIME:859080,861700}and I thought of asking you about it,\NUncle Billy.
+Dialogue: 0,0:14:23.96,0:14:26.67,forest default C,,0,0,0,,{TIME:863960,866670}Oh, there's something you want to ask me?
+Dialogue: 0,0:14:29.40,0:14:31.97,forest default C,,0,0,0,,{TIME:869400,871970}Sammy...? All night long...?
+Dialogue: 0,0:14:32.66,0:14:35.42,forest default C,,0,0,0,,{TIME:872660,875420}Sammy insists that it's absolutely not him,
+Dialogue: 0,0:14:35.42,0:14:39.40,forest default C,,0,0,0,,{TIME:875420,879400}but everyone says that they\Ncould not mistake Sammy's voice.
+Dialogue: 0,0:14:42.08,0:14:43.35,forest default C,,0,0,0,,{TIME:882080,883350}T-that's it!
+Dialogue: 0,0:14:45.35,0:14:46.83,forest default C,,0,0,0,,{TIME:885350,886830}Why, that's his voice!
+Dialogue: 0,0:14:48.31,0:14:51.32,forest default C,,0,0,0,,{TIME:888310,891320}You... you did say for certain\Nthat a bird from the South
+Dialogue: 0,0:14:51.32,0:14:54.06,forest default C,,0,0,0,,{TIME:891320,894060}came to visit me yesterday, didn't you, Johnny?
+Dialogue: 0,0:14:54.95,0:14:58.09,forest default C,,0,0,0,,{TIME:894950,898090}I admit I did say that.\NBut what about it?
+Dialogue: 0,0:14:58.41,0:15:00.35,forest default C,,0,0,0,,{TIME:898410,900350}Well, that's the answer!
+Dialogue: 0,0:15:02.68,0:15:06.21,forest default C,,0,0,0,,{TIME:902680,906210}Oh my, oh my!\NWhat a guy! He's really here!
+Dialogue: 0,0:15:08.18,0:15:11.85,forest default C,,0,0,0,,{TIME:908180,911850}Well, now Sammy's half asleep,\Nruckus over the day,
+Dialogue: 0,0:15:11.85,0:15:15.77,forest default C,,0,0,0,,{TIME:911850,915770}just tell the forest people to sleep peaceful\Ntonight and leave the rest to me!
+Dialogue: 0,0:15:15.77,0:15:16.93,forest default C,,0,0,0,,{TIME:915770,916930}Uncle Billy! Billy!
+Dialogue: 0,0:15:22.39,0:15:24.95,forest default C,,0,0,0,,{TIME:922390,924950}I wonder what's really going on...
+Dialogue: 0,0:15:37.77,0:15:39.84,forest default C,,0,0,0,,{TIME:937770,939840}Not scared... not scared...
+Dialogue: 0,0:15:39.84,0:15:42.57,forest default C,,0,0,0,,{TIME:939840,942570}I will find out the truth...\Nnot scared...
+Dialogue: 0,0:15:42.57,0:15:45.05,forest default C,,0,0,0,,{TIME:942570,945050}Not scared... not scared...
+Dialogue: 0,0:15:45.54,0:15:47.89,forest default C,,0,0,0,,{TIME:945540,947890}Not scared, not scared, not scared!
+Dialogue: 0,0:16:17.22,0:16:22.41,forest default C,,0,0,0,,{TIME:977220,982410}Aha, I'm sure that Peter the Rabbit is going\Nto eat the corn from Mr. Brown's corn field!
+Dialogue: 0,0:16:39.01,0:16:41.40,forest default C,,0,0,0,,{TIME:999010,1001400}How lucky to be easy-going like Peter!
+Dialogue: 0,0:16:54.36,0:16:57.47,forest default C,,0,0,0,,{TIME:1014360,1017470}I've been watching and I haven't seen anything!
+Dialogue: 0,0:17:00.69,0:17:05.79,forest default C,,0,0,0,,{TIME:1020690,1025790}Was I really half asleep when I did what\Neverybody says I did if I did it?
+Dialogue: 0,0:17:08.62,0:17:12.41,forest default C,,0,0,0,,{TIME:1028620,1032410}This is terrible, this is terrible!\NOh, this is terrible!
+Dialogue: 0,0:17:12.41,0:17:16.34,forest default C,,0,0,0,,{TIME:1032410,1036340}This is terrible, this is terrible,\Nthis is terrible, this is terrible!
+Dialogue: 0,0:17:20.80,0:17:23.10,forest default C,,0,0,0,,{TIME:1040800,1043100}I'm not really half asleep!
+Dialogue: 0,0:17:24.09,0:17:26.53,forest default C,,0,0,0,,{TIME:1044090,1046530}I'm right here completely awake!
+Dialogue: 0,0:17:27.01,0:17:28.83,forest default C,,0,0,0,,{TIME:1047010,1048830}This is terrible, this is terrible!
+Dialogue: 0,0:17:30.10,0:17:32.56,forest default C,,0,0,0,,{TIME:1050100,1052560}This is terrible, this is terrible...
+Dialogue: 0,0:17:33.21,0:17:34.70,forest default C,,0,0,0,,{TIME:1053210,1054700}If this is my voice...
+Dialogue: 0,0:17:35.50,0:17:37.46,forest default C,,0,0,0,,{TIME:1055500,1057460}...then who could that be?
+Dialogue: 0,0:17:42.91,0:17:46.44,forest default C,,0,0,0,,{TIME:1062910,1066440}Hmm... it was about here, for sure...
+Dialogue: 0,0:17:46.92,0:17:51.26,forest default C,,0,0,0,,{TIME:1066920,1071260}{\i1}This is terrible, this is terrible,\Nthis is terrible, this is terrible!{\i}
+Dialogue: 0,0:17:51.26,0:17:54.43,forest default C,,0,0,0,,{TIME:1071260,1074430}{\i1}This is terrible, this is terrible,\Nthis is terrible!{\i}
+Dialogue: 0,0:17:58.15,0:18:02.67,forest default C,,0,0,0,,{TIME:1078150,1082670}That's my voice! I'm really over there!\NStop it! Stooop!
+Dialogue: 0,0:18:02.84,0:18:05.47,forest default C,,0,0,0,,{TIME:1082840,1085470}Stop it, stop it, stop it!
+Dialogue: 0,0:18:06.09,0:18:11.03,forest default C,,0,0,0,,{TIME:1086090,1091030}Stop it, stop it, stop it, stop it,\Nstop it!
+Dialogue: 0,0:18:11.93,0:18:15.67,forest default C,,0,0,0,,{TIME:1091930,1095670}{\i1}- Stop it, stop...{\i}\N- That's my voice for sure, I...
+Dialogue: 0,0:18:16.18,0:18:20.41,forest default C,,0,0,0,,{TIME:1096180,1100410}{\i1}Stop, stop, stop, stop, stop, stop!{\i}
+Dialogue: 0,0:18:20.59,0:18:23.97,forest default C,,0,0,0,,{TIME:1100590,1103970}It's no use... I'm going crazy...\NOut of my mind!
+Dialogue: 0,0:18:24.05,0:18:28.05,forest default C,,0,0,0,,{TIME:1104050,1108050}It's terrible, terrible, it's terrible!
+Dialogue: 0,0:18:49.57,0:18:54.37,forest default C,,0,0,0,,{TIME:1129570,1134370}{\i1}This is terrible... this is terrible...\Nthis is terrible... this is terrible!{\i}
+Dialogue: 0,0:18:54.82,0:19:00.22,forest default C,,0,0,0,,{TIME:1134820,1140220}U-u-u-uncle Billy... I'm absolutely certain\NI'm going completely crazy!
+Dialogue: 0,0:19:00.57,0:19:03.91,forest default C,,0,0,0,,{TIME:1140570,1143910}{\i1}This is terrible, this is terrible,\Nthis is terrible,{\i}
+Dialogue: 0,0:19:03.91,0:19:07.20,forest default C,,0,0,0,,{TIME:1143910,1147200}{\i1}this is terrible, this is terrible,\Nthis is terrible!{\i}
+Dialogue: 0,0:19:11.53,0:19:13.07,forest default C,,0,0,0,,{TIME:1151530,1153070}Well, just follow me!
+Dialogue: 0,0:19:14.22,0:19:17.70,forest default C,,0,0,0,,{TIME:1154220,1157700}{\i1}This is terrible, this is terrible,\Nthis is terrible!{\i}
+Dialogue: 0,0:19:32.91,0:19:35.26,forest default C,,0,0,0,,{TIME:1172910,1175260}{\i1}This is terrible, this is terrible,\Nthis is terrible!{\i}
+Dialogue: 0,0:19:35.26,0:19:38.48,forest default C,,0,0,0,,{TIME:1175260,1178480}- Well, you can't fool me, I know his habits well!\N{\i1}- This is terrible, this is terrible!{\i}
+Dialogue: 0,0:19:38.48,0:19:43.30,forest default C,,0,0,0,,{TIME:1178480,1183300}{\i1}This is terrible, this is terrible,\Nthis is terrible, this is terrible!{\i}
+Dialogue: 0,0:19:54.57,0:19:57.71,forest default C,,0,0,0,,{TIME:1194570,1197710}Ah... well?
+Dialogue: 0,0:19:58.19,0:20:03.02,forest default C,,0,0,0,,{TIME:1198190,1203020}I'll introduce you my friend:\Nthat's Mocker the Mockingbird!
+Dialogue: 0,0:20:04.61,0:20:08.88,forest default C,,0,0,0,,{TIME:1204610,1208880}Mocker the Mockingbird, is that what you're\Nsaying, Uncle Billy, is that what you're saying?
+Dialogue: 0,0:20:09.59,0:20:13.44,forest default C,,0,0,0,,{TIME:1209590,1213440}Oh, that's enough fooling around for now.\NSo how about coming out here, Mocker?
+Dialogue: 0,0:20:18.44,0:20:20.79,forest default C,,0,0,0,,{TIME:1218440,1220790}{\i1}Well, how you've been doing, Uncle Billy?{\i}
+Dialogue: 0,0:20:20.80,0:20:25.54,forest default C,,0,0,0,,{TIME:1220800,1225540}You've come a long way, Mocker,\Nwelcome, welcome, I'm glad to see you!
+Dialogue: 0,0:20:25.54,0:20:30.06,forest default C,,0,0,0,,{TIME:1225540,1230060}But one thing for sure, you haven't changed\Na bit, you still love to fool around!
+Dialogue: 0,0:20:30.23,0:20:33.22,forest default C,,0,0,0,,{TIME:1230230,1233220}After all, I've come a long way to see you again,
+Dialogue: 0,0:20:33.22,0:20:36.23,forest default C,,0,0,0,,{TIME:1233220,1236230}and I wanted our meeting to be a fun thing!
+Dialogue: 0,0:20:37.33,0:20:41.07,forest default C,,0,0,0,,{TIME:1237330,1241070}Well, so we meet again in the soft moonlight,
+Dialogue: 0,0:20:41.52,0:20:42.98,forest default C,,0,0,0,,{TIME:1241520,1242980}it's good to see you, Mocker!
+Dialogue: 0,0:20:50.43,0:20:53.32,forest default C,,0,0,0,,{TIME:1250430,1253320}Then my voice was his?\NAre you sure, Uncle Billy?
+Dialogue: 0,0:20:54.24,0:20:57.29,forest default C,,0,0,0,,{TIME:1254240,1257290}Mocker is a real expert in imitations, you know!
+Dialogue: 0,0:20:58.80,0:21:01.76,forest default C,,0,0,0,,{TIME:1258800,1261760}Forgive me, Sammy, will you ever forgive me?
+Dialogue: 0,0:21:02.37,0:21:05.79,forest default C,,0,0,0,,{TIME:1262370,1265790}Are you kidding?!\NThat sounds just like my voice!
+Dialogue: 0,0:21:06.19,0:21:10.24,forest default C,,0,0,0,,{TIME:1266190,1270240}Darn, you fool, why imitate my voice,\Nwhy imitate my voice, why imitate my voice?!
+Dialogue: 0,0:21:10.60,0:21:14.87,forest default C,,0,0,0,,{TIME:1270600,1274870}It must've been because Sammy\Nis the noisiest one in the forest!
+Dialogue: 0,0:21:14.87,0:21:17.14,forest default C,,0,0,0,,{TIME:1274870,1277140}I apologise, excuse me, Sammy!
+Dialogue: 0,0:21:17.14,0:21:20.10,forest default C,,0,0,0,,{TIME:1277140,1280100}Do you think just apologising is enough?\NThief!
+Dialogue: 0,0:21:20.10,0:21:22.79,forest default C,,0,0,0,,{TIME:1280100,1282790}Nah-nah, you make such ruckus\Nall the forest people
+Dialogue: 0,0:21:22.79,0:21:24.79,forest default C,,0,0,0,,{TIME:1282790,1284790}are gonna wake up and chase you out of here!
+Dialogue: 0,0:21:27.36,0:21:28.74,forest default C,,0,0,0,,{TIME:1287360,1288740}For today I forgive you,
+Dialogue: 0,0:21:28.75,0:21:32.70,forest default C,,0,0,0,,{TIME:1288750,1292700}but someday I'll get my revenge,\Nof this you can be sure!
+Dialogue: 0,0:21:32.92,0:21:34.24,forest default C,,0,0,0,,{TIME:1292920,1294240}You voice thief!
+Dialogue: 0,0:21:38.14,0:21:41.85,forest default C,,0,0,0,,{TIME:1298140,1301850}I guess I really shouldn't have done\Nthat to him, I guess it wasn't fair!
+Dialogue: 0,0:21:41.85,0:21:45.32,forest default C,,0,0,0,,{TIME:1301850,1305320}Ah, I'm saying sometimes it's good for him\Nto be punished!
+Dialogue: 0,0:21:45.32,0:21:47.90,forest default C,,0,0,0,,{TIME:1305320,1307900}Anyway, I want to introduce you to my friends!
+Dialogue: 0,0:21:47.90,0:21:50.48,forest default C,,0,0,0,,{TIME:1307900,1310480}Please do, Uncle Billy, I'd like to meet them!
+Dialogue: 0,0:21:50.79,0:21:53.06,forest default C,,0,0,0,,{TIME:1310790,1313060}Well, now, you just leave it to me!
+Dialogue: 0,0:21:53.06,0:21:55.80,forest default C,,0,0,0,,{TIME:1313060,1315800}You're going to come with me to my house tonight
+Dialogue: 0,0:21:55.80,0:21:59.80,forest default C,,0,0,0,,{TIME:1315800,1319800}and we're going to spend the whole evening\Ntalking over old times!
+Dialogue: 0,0:21:59.80,0:22:01.81,forest default C,,0,0,0,,{TIME:1319800,1321810}I'd like that, I really would!
+Dialogue: 0,0:22:18.34,0:22:21.70,forest credits C,,0,0,0,,{TIME:1338340,1341700}{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs

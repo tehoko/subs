@@ -14,275 +14,275 @@ Group: OldCastle & South Wind Subs
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,5,10,10,10,1
-Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
+Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,5,10,10,10,1
+Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.01,0:00:05.00,forest title KB,,0,0,0,,FABLES \N of the\NGREEN FOREST
-Dialogue: 0,0:00:00.01,0:00:05.00,forest ep title C,,0,0,0,,{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"The big commotion in the forest"{\i}
-Dialogue: 0,0:00:05.12,0:00:08.31,forest default C,,0,0,0,,Momma, we are hungry, we are hungry!
-Dialogue: 0,0:00:08.31,0:00:10.83,forest default C,,0,0,0,,We are hungry, oh, where is the food...
-Dialogue: 0,0:00:11.00,0:00:14.38,forest default C,,0,0,0,,We are hungry, we are hungry!
-Dialogue: 0,0:00:14.81,0:00:17.42,forest default C,,0,0,0,,- Momma, we are hungry!\N- Momma!
-Dialogue: 0,0:00:25.18,0:00:28.08,forest default C,,0,0,0,,{\i1}My husband! How long do you intend to sleep?{\i}
-Dialogue: 0,0:00:28.08,0:00:30.89,forest default C,,0,0,0,,{\i1}Enough is enough, get up! Oh...!{\i}
-Dialogue: 0,0:00:31.67,0:00:33.20,forest default C,,0,0,0,,{\i1}I wonder where he went...!{\i}
-Dialogue: 0,0:00:36.11,0:00:38.21,forest default C,,0,0,0,,What on earth are you doing there?!
-Dialogue: 0,0:00:40.89,0:00:42.94,forest default C,,0,0,0,,Don't just daydream!
-Dialogue: 0,0:00:43.31,0:00:47.34,forest default C,,0,0,0,,Hurry and go to work, can't you hear the children\Ncrying with an empty stomach?!
-Dialogue: 0,0:00:47.50,0:00:50.12,forest default C,,0,0,0,,How can you be nonchalantly viewing the sky,
-Dialogue: 0,0:00:50.12,0:00:52.49,forest default C,,0,0,0,,{\i1}there's no time to be wondering\Nabout the weather!{\i}
-Dialogue: 0,0:00:52.56,0:00:57.25,forest default C,,0,0,0,,Get this, there are five children waiting\Nwith mouths open, don't forget that!
-Dialogue: 0,0:01:00.47,0:01:03.16,forest default C,,0,0,0,,I know, Mother, I know!\NMmm...
-Dialogue: 0,0:01:09.25,0:01:14.49,forest default C,,0,0,0,,Now, I wonder just where in the world\Nthat Mocker could've got to...!
-Dialogue: 0,0:01:18.18,0:01:20.29,forest narrator C,,0,0,0,,{\i1}The big commotion in the forest!{\i}
-Dialogue: 0,0:01:39.18,0:01:43.75,forest default C,,0,0,0,,I don't understand! Hey, what's happening,\Nwhat's happening, hey, what is this?!
-Dialogue: 0,0:01:44.34,0:01:46.14,forest default C,,0,0,0,,I don't understand, what's happening?!
-Dialogue: 0,0:01:48.77,0:01:51.95,forest default C,,0,0,0,,Well, good morning, Sticky,\Nwhat's the matter with you, huh?
-Dialogue: 0,0:01:55.35,0:01:58.01,forest default C,,0,0,0,,What's the matter with Sticky,\Nsomething bothering him?
-Dialogue: 0,0:01:58.97,0:02:00.20,forest default C,,0,0,0,,What's the matter, Sticky?
-Dialogue: 0,0:02:00.76,0:02:03.53,forest default C,,0,0,0,,I wonder what's the matter with him.\NHey, Sticky!
-Dialogue: 0,0:02:05.29,0:02:06.86,forest default C,,0,0,0,,- What's the matter, Sticky?\N- What's the matter, Sticky?
-Dialogue: 0,0:02:07.45,0:02:10.43,forest default C,,0,0,0,,I can hear my voice,\NI just don't understand it!
-Dialogue: 0,0:02:10.71,0:02:14.04,forest default C,,0,0,0,,I'm not saying anything,\Nbut I can still hear my voice!
-Dialogue: 0,0:02:21.61,0:02:25.10,forest default C,,0,0,0,,I'm not saying a word but I can hear my voice\Nfrom the bank over there!
-Dialogue: 0,0:02:29.02,0:02:30.83,forest default C,,0,0,0,,Don't be silly, Sticky!
-Dialogue: 0,0:02:35.23,0:02:36.54,forest default C,,0,0,0,,Right, Johnny?
-Dialogue: 0,0:02:40.84,0:02:44.59,forest default C,,0,0,0,,It's true, if you go with me to Laughing Brook\Nyou'll see! I'm not lying!
-Dialogue: 0,0:02:55.04,0:02:57.12,forest default C,,0,0,0,,This is the place!\NFrom the bank over there!
-Dialogue: 0,0:02:57.30,0:02:58.30,forest default C,,0,0,0,,I can hear it!
-Dialogue: 0,0:03:32.32,0:03:34.22,forest default C,,0,0,0,,{\i1}This is Sticky!{\i}
-Dialogue: 0,0:03:39.76,0:03:41.75,forest default C,,0,0,0,,{\i1}This is Sticky!{\i}
-Dialogue: 0,0:03:44.65,0:03:46.67,forest default C,,0,0,0,,{\i1}This is Sticky!{\i}
-Dialogue: 0,0:03:48.90,0:03:50.68,forest default C,,0,0,0,,That's not true! I'm Sticky!
-Dialogue: 0,0:03:51.10,0:03:52.82,forest default C,,0,0,0,,{\i1}This is Sticky!{\i}
-Dialogue: 0,0:03:59.19,0:04:01.26,forest default C,,0,0,0,,This is Sticky! This is Sticky!
-Dialogue: 0,0:04:01.26,0:04:04.40,forest default C,,0,0,0,,I'm Sticky! I'm Sticky!\NThis is Sticky!
-Dialogue: 0,0:04:04.59,0:04:07.86,forest default C,,0,0,0,,No, you're not, I'm Sticky,\NI'm the real Sticky, I'm Sticky!
-Dialogue: 0,0:04:07.86,0:04:11.07,forest default C,,0,0,0,,I'm Sticky, I'm Sticky, yes, I am,\NI am Sticky!
-Dialogue: 0,0:04:11.07,0:04:14.39,forest default C,,0,0,0,,No, you're not, I'm the real Sticky,\Nlook at me, I am Sticky!
-Dialogue: 0,0:04:16.14,0:04:18.93,forest default C,,0,0,0,,I'm Sticky, I'm the real Sticky!
-Dialogue: 0,0:04:19.63,0:04:22.07,forest default C,,0,0,0,,Right, guys, you know I'm the real one!
-Dialogue: 0,0:04:23.15,0:04:25.16,forest default C,,0,0,0,,I'm the real Sticky, right?
-Dialogue: 0,0:04:25.16,0:04:26.96,forest default C,,0,0,0,,I am Sticky, I am Sticky!
-Dialogue: 0,0:04:27.46,0:04:29.42,forest default C,,0,0,0,,- I am Sticky!\N- Huh...?!
-Dialogue: 0,0:04:31.02,0:04:33.95,forest default C,,0,0,0,,{\i1}I am Sticky!\NI'm the real one, over here!{\i}
-Dialogue: 0,0:04:35.04,0:04:36.44,forest default C,,0,0,0,,{\i1}I'm Sticky!{\i}
-Dialogue: 0,0:04:40.71,0:04:43.59,forest default C,,0,0,0,,{\i1}I'm Sticky! This is Sticky!{\i}
-Dialogue: 0,0:04:43.65,0:04:45.49,forest default C,,0,0,0,,{\i1}I'm Sticky! Over here!{\i}
-Dialogue: 0,0:04:45.95,0:04:47.05,forest default C,,0,0,0,,{\i1}This is Sticky!{\i}
-Dialogue: 0,0:04:49.39,0:04:52.50,forest default C,,0,0,0,,Oh...\NThere are two Stickys!
-Dialogue: 0,0:04:59.08,0:05:00.45,forest default C,,0,0,0,,{\i1}I'm Sticky!{\i}
-Dialogue: 0,0:05:01.20,0:05:03.57,forest default C,,0,0,0,,I'm going crazy, I'm Sticky!
-Dialogue: 0,0:05:13.55,0:05:17.71,forest default C,,0,0,0,,That was funny!\NYou're really a genius in imitating!
-Dialogue: 0,0:05:17.71,0:05:21.96,forest default C,,0,0,0,,I'm glad I've got a friend like you!\NWe can really have some fun now!
-Dialogue: 0,0:05:22.31,0:05:23.21,forest default C,,0,0,0,,I've got it!
-Dialogue: 0,0:05:23.62,0:05:27.43,forest default C,,0,0,0,,I can think of some really funny tricks, uh-hu!
-Dialogue: 0,0:05:33.97,0:05:38.07,forest default C,,0,0,0,,{\i1}Mocker, I've got some good ideas\Nfor some funny tricks!{\i}
-Dialogue: 0,0:05:38.18,0:05:39.42,forest default C,,0,0,0,,{\i1}I'll tell you what we can do...{\i}
-Dialogue: 0,0:05:39.66,0:05:42.59,forest default C,,0,0,0,,And we can do this... and...\NThis is genius...!
-Dialogue: 0,0:05:44.24,0:05:46.42,forest default C,,0,0,0,,Oh, hey, Mocker!
-Dialogue: 0,0:05:47.59,0:05:49.70,forest default C,,0,0,0,,Oh! Hi, Uncle Billy!
-Dialogue: 0,0:05:49.81,0:05:52.34,forest default C,,0,0,0,,You know, Mocker, I thought I'll introduce you
-Dialogue: 0,0:05:52.34,0:05:55.79,forest default C,,0,0,0,,to all the forest folks today, now come along!
-Dialogue: 0,0:05:56.11,0:06:00.03,forest default C,,0,0,0,,Introduce?! No, no, no way!
-Dialogue: 0,0:06:00.03,0:06:04.64,forest default C,,0,0,0,,If everybody knew about Mocker,\Nthat would spoil all of our fun! Right?
-Dialogue: 0,0:06:04.64,0:06:06.52,forest default C,,0,0,0,,Right, Mocker?
-Dialogue: 0,0:06:06.52,0:06:09.94,forest default C,,0,0,0,,Come on, let's go!\NSee you later, Uncle Billy, bye!
-Dialogue: 0,0:06:11.19,0:06:16.10,forest default C,,0,0,0,,He... He-he-hey wait, Mocker, wait, oh, wait a while!
-Dialogue: 0,0:06:18.40,0:06:23.61,forest default C,,0,0,0,,Oh... Mocker is become... friendly\Nwith a terrible guy...
-Dialogue: 0,0:06:26.18,0:06:28.98,forest default C,,0,0,0,,{\i1}Chatterer...!\NHey, Chatterer!{\i}
-Dialogue: 0,0:06:28.98,0:06:31.47,forest default C,,0,0,0,,What's up, Peter, you have some business?
-Dialogue: 0,0:06:31.77,0:06:36.50,forest default C,,0,0,0,,{\i1}Why are you such a fool,\Na blockhead and an idiot?!{\i}
-Dialogue: 0,0:06:37.71,0:06:38.71,forest default C,,0,0,0,,What?!
-Dialogue: 0,0:06:41.60,0:06:43.96,forest default C,,0,0,0,,Fool, fool, idiot!
-Dialogue: 0,0:06:44.71,0:06:45.71,forest default C,,0,0,0,,What?! Oh boy...
-Dialogue: 0,0:06:46.02,0:06:49.06,forest default C,,0,0,0,,Let's get out of here,\Nhe's coming, he's coming!
-Dialogue: 0,0:06:50.93,0:06:52.97,forest default C,,0,0,0,,Come out, come out, come out, don't run off,
-Dialogue: 0,0:06:52.97,0:06:55.27,forest default C,,0,0,0,,where are you, Peter, come on,\Ncome on, where are you?
-Dialogue: 0,0:06:55.60,0:06:58.54,forest default C,,0,0,0,,Hmm... where is he?!\NHe's run off!
-Dialogue: 0,0:07:01.95,0:07:03.42,forest default C,,0,0,0,,I can't figure it out!
-Dialogue: 0,0:07:03.92,0:07:07.21,forest default C,,0,0,0,,I don't understand it... Oh!\NWhy, you better watch out!
-Dialogue: 0,0:07:07.37,0:07:10.97,forest default C,,0,0,0,,Hey, you mean thing, calling me names,\Nthat was awfull!
-Dialogue: 0,0:07:11.07,0:07:13.53,forest default C,,0,0,0,,Huh...?!\NI never said a thing!
-Dialogue: 0,0:07:14.14,0:07:16.69,forest default C,,0,0,0,,Yes, you did!\NOh!
-Dialogue: 0,0:07:24.89,0:07:27.16,forest default C,,0,0,0,,Oh, Chatterer, are you crazy?
-Dialogue: 0,0:07:31.91,0:07:34.69,forest default C,,0,0,0,,Oh, get out of here, get out,\Nstop it, stop it!
-Dialogue: 0,0:07:35.81,0:07:38.77,forest default C,,0,0,0,,{\i1}That's cruel!\NTo say such bad things!{\i}
-Dialogue: 0,0:07:41.09,0:07:43.18,forest default C,,0,0,0,,What, Polly?\NWhat's the matter?
-Dialogue: 0,0:07:45.32,0:07:49.75,forest default C,,0,0,0,,Well... after saying such cruel things...\NReally!
-Dialogue: 0,0:07:50.12,0:07:52.50,forest default C,,0,0,0,,Huh?! I didn't say anything!
-Dialogue: 0,0:07:53.43,0:07:57.98,forest default C,,0,0,0,,You called me such mean things, bad and ugly\Nand oh, that's terrible,
-Dialogue: 0,0:07:57.98,0:08:02.39,forest default C,,0,0,0,,I... oh... how cruel... oh...\NYou're so cruel! Oh...
-Dialogue: 0,0:08:02.76,0:08:07.23,forest default C,,0,0,0,,You... of all the things, to call me\Nthose terrible things! I hate you!
-Dialogue: 0,0:08:07.75,0:08:09.39,forest default C,,0,0,0,,Polly! Polly, wait!
-Dialogue: 0,0:08:11.06,0:08:13.02,forest default C,,0,0,0,,Don't follow me, I hate you!
-Dialogue: 0,0:08:13.15,0:08:14.56,forest default C,,0,0,0,,Come on, Polly!
-Dialogue: 0,0:08:20.28,0:08:22.39,forest default C,,0,0,0,,Hey, why did you called me all those names for?
-Dialogue: 0,0:08:22.61,0:08:24.69,forest default C,,0,0,0,,You're the one that called me all those names!
-Dialogue: 0,0:08:24.69,0:08:26.93,forest default C,,0,0,0,,It wasn't me, I was just sitting there!
-Dialogue: 0,0:08:26.93,0:08:29.71,forest default C,,0,0,0,,It was you who called me all those names!\NYou're the one!
-Dialogue: 0,0:08:29.71,0:08:30.71,forest default C,,0,0,0,,No!
-Dialogue: 0,0:08:31.02,0:08:32.02,forest default C,,0,0,0,,Yeah!
-Dialogue: 0,0:08:32.28,0:08:33.59,forest default C,,0,0,0,,- Take back, you first!\N- You called!
-Dialogue: 0,0:08:33.59,0:08:35.85,forest default C,,0,0,0,,You quit it! You quit call me those names!
-Dialogue: 0,0:08:38.82,0:08:41.95,forest narrator C,,0,0,0,,{\i1}Because of Sammy's and Mocker's mean tricks,{\i}
-Dialogue: 0,0:08:41.95,0:08:46.84,forest narrator C,,0,0,0,,{\i1}the entire forest creatures were arguing\Nand fighting among themselves.{\i}
-Dialogue: 0,0:09:01.32,0:09:04.14,forest default C,,0,0,0,,Oh my, oh my, oh my!
-Dialogue: 0,0:09:04.53,0:09:08.80,forest default C,,0,0,0,,That guy, Mocker, has really started\Nsome trouble here in the forest!
-Dialogue: 0,0:09:08.80,0:09:09.80,forest default C,,0,0,0,,Uncle Billy!
-Dialogue: 0,0:09:10.24,0:09:12.30,forest default C,,0,0,0,,Between him and Sammy, he's going
-Dialogue: 0,0:09:12.30,0:09:14.99,forest default C,,0,0,0,,- ...to have everybody in the forest mad!\N- Uncle Billy!
-Dialogue: 0,0:09:15.33,0:09:17.91,forest default C,,0,0,0,,Oh my... oh, hello, Bobby!
-Dialogue: 0,0:09:20.06,0:09:21.06,forest default C,,0,0,0,,Uncle Billy!
-Dialogue: 0,0:09:22.99,0:09:28.28,forest default C,,0,0,0,,Uncle Billy... do you think we could talk\Nfor a little while...? I'm... very lonely...
-Dialogue: 0,0:09:29.46,0:09:32.77,forest default C,,0,0,0,,Lonely? What in the world\Nare you talking about, Bobby,
-Dialogue: 0,0:09:32.77,0:09:34.88,forest default C,,0,0,0,,you have a lot of good friends, don't you?
-Dialogue: 0,0:09:35.47,0:09:39.08,forest default C,,0,0,0,,No good, no good, those guys are no good.
-Dialogue: 0,0:09:39.12,0:09:42.29,forest default C,,0,0,0,,They all talk bad behind other people's backs.
-Dialogue: 0,0:09:42.29,0:09:44.97,forest default C,,0,0,0,,The only trustworthy one is you, Uncle Billy.
-Dialogue: 0,0:09:44.97,0:09:47.65,forest default C,,0,0,0,,You are the only one, believe me.
-Dialogue: 0,0:09:47.65,0:09:49.21,forest default C,,0,0,0,,The only one?
-Dialogue: 0,0:10:25.54,0:10:29.00,forest default C,,0,0,0,,Hey, it's Uncle Billy whistling!\NHow you're doing, Uncle Billy?
-Dialogue: 0,0:10:29.40,0:10:31.74,forest default C,,0,0,0,,Hey, how are you today, Joe?
-Dialogue: 0,0:10:32.54,0:10:33.54,forest default C,,0,0,0,,Fine, thanks!
-Dialogue: 0,0:10:34.52,0:10:36.57,forest default C,,0,0,0,,How are you, Uncle Billy?
-Dialogue: 0,0:10:37.13,0:10:41.81,forest default C,,0,0,0,,- Well, hello there, Harry, how are you?\N- What a nice day, going out for a walk?
-Dialogue: 0,0:10:42.99,0:10:47.73,forest default C,,0,0,0,,Yeah, I must've talked entirely\Ntoo long with Bobby.
-Dialogue: 0,0:10:48.21,0:10:51.64,forest default C,,0,0,0,,Seems he had a problem\Nhe just couldn't solve alone.
-Dialogue: 0,0:10:58.40,0:11:03.10,forest default C,,0,0,0,,Hey, Uncle Billy, do you mind if I talk\Nto you about something for a while, huh?
-Dialogue: 0,0:11:03.10,0:11:04.68,forest default C,,0,0,0,,Why, sure, Joe.
-Dialogue: 0,0:11:11.44,0:11:12.44,forest default C,,0,0,0,,Uncle Billy!
-Dialogue: 0,0:11:13.28,0:11:16.80,forest default C,,0,0,0,,I have something to talk to you about!\NWill you come over here, please?
-Dialogue: 0,0:11:21.87,0:11:24.51,forest default C,,0,0,0,,Hey, Uncle Billy! Uncle Billy!
-Dialogue: 0,0:11:27.91,0:11:28.91,forest default C,,0,0,0,,Uncle Billy!
-Dialogue: 0,0:11:32.06,0:11:33.06,forest default C,,0,0,0,,Uncle Billy!
-Dialogue: 0,0:11:37.11,0:11:38.73,forest default C,,0,0,0,,Uncle Billy, come here!
-Dialogue: 0,0:11:51.94,0:11:53.14,forest default C,,0,0,0,,Hey, Uncle Billy!
-Dialogue: 0,0:11:54.40,0:11:57.27,forest default C,,0,0,0,,Hey, I got this fish\Nespecially for you, Uncle Billy!
-Dialogue: 0,0:11:59.92,0:12:02.36,forest default C,,0,0,0,,- Why is that for me?!\N- Mhm...
-Dialogue: 0,0:12:14.92,0:12:17.83,forest default C,,0,0,0,,Hey, Uncle Billy!\NI got this just for you!
-Dialogue: 0,0:12:20.87,0:12:24.34,forest default C,,0,0,0,,I can't stand fish, but I don't want\Nto hurt his feelings.
-Dialogue: 0,0:12:24.54,0:12:27.14,forest default C,,0,0,0,,- Goodbye, Uncle Billy, goodbye!\N- Bye! Bye Uncle Billy!
-Dialogue: 0,0:12:30.80,0:12:32.58,forest default C,,0,0,0,,How are you, Uncle Billy?
-Dialogue: 0,0:12:33.51,0:12:34.89,forest default C,,0,0,0,,Hi, Chatterer!
-Dialogue: 0,0:12:37.06,0:12:38.77,forest default C,,0,0,0,,Hi, Uncle Billy!
-Dialogue: 0,0:12:39.50,0:12:42.75,forest default C,,0,0,0,,{\i1}- Hi, Uncle Billy!\N- Hi, Uncle Billy!{\i}
-Dialogue: 0,0:12:43.10,0:12:45.97,forest default C,,0,0,0,,- Hi, Uncle Billy! Hi, Uncle Bily!\N- Hi!
-Dialogue: 0,0:12:45.97,0:12:47.53,forest default C,,0,0,0,,Hi, Uncle Billy!
-Dialogue: 0,0:12:48.50,0:12:51.46,forest default C,,0,0,0,,- Hi, Uncle Billy!\N- Hi, Uncle Billy!
-Dialogue: 0,0:12:51.46,0:12:53.67,forest default C,,0,0,0,,- Hi!\N- Hi, hi!
-Dialogue: 0,0:12:57.85,0:13:00.84,forest narrator C,,0,0,0,,{\i1}Uncle Billy has become\Nthe popular one of the forest.{\i}
-Dialogue: 0,0:13:00.99,0:13:03.08,forest narrator C,,0,0,0,,{\i1}Everyone is fond of Uncle Billy.{\i}
-Dialogue: 0,0:13:03.08,0:13:07.79,forest narrator C,,0,0,0,,{\i1}That is because Mocker has not said\Nany bad things using Uncle Billy's voice.{\i}
-Dialogue: 0,0:13:21.97,0:13:23.64,forest default C,,0,0,0,,{\i1}Johnny...!{\i}
-Dialogue: 0,0:13:24.10,0:13:25.10,forest default C,,0,0,0,,{\i1}Johnny...!{\i}
-Dialogue: 0,0:13:28.09,0:13:31.22,forest default C,,0,0,0,,{\i1}Johnny, you fool!\NWhat a fool you are!{\i}
-Dialogue: 0,0:13:31.50,0:13:33.31,forest default C,,0,0,0,,Uncle Billy, is that you?
-Dialogue: 0,0:13:35.01,0:13:37.36,forest default C,,0,0,0,,An idiot and a fool like you
-Dialogue: 0,0:13:37.37,0:13:40.72,forest default C,,0,0,0,,will soon be caught up\Nby Granny and eaten up!
-Dialogue: 0,0:13:41.30,0:13:43.26,forest default C,,0,0,0,,{\i1}Fool, fool!{\i}
-Dialogue: 0,0:13:43.79,0:13:45.65,forest default C,,0,0,0,,But... what are you saying, Uncle Billy?
-Dialogue: 0,0:13:46.00,0:13:48.65,forest default C,,0,0,0,,Fool, I said you're a fool!
-Dialogue: 0,0:13:52.53,0:13:55.41,forest default C,,0,0,0,,Why are you saying all those\Nnasty things about me, Uncle Billy?
-Dialogue: 0,0:13:55.41,0:13:57.52,forest default C,,0,0,0,,What's wrong, why are you saying that? Oh!
-Dialogue: 0,0:14:00.08,0:14:02.54,forest default C,,0,0,0,,Feel sort of bad for Uncle Billy!
-Dialogue: 0,0:14:03.00,0:14:05.98,forest default C,,0,0,0,,Uncle Billy said it was OK to play tricks,\Ndidn't he?
-Dialogue: 0,0:14:05.98,0:14:09.34,forest default C,,0,0,0,,No problem, no problem!
-Dialogue: 0,0:14:12.65,0:14:15.32,forest lyrics C,,0,0,0,,{\i1}You're troubled when's come,\NYou're lonely when's come,{\i}
-Dialogue: 0,0:14:15.32,0:14:20.41,forest lyrics C,,0,0,0,,{\i1}Come to Uncle Billy,\NThe popular one in the forest,{\i}
-Dialogue: 0,0:14:20.41,0:14:25.45,forest lyrics C,,0,0,0,,{\i1}The only one to be trusted,\NUncle Billy, Uncle Billy...{\i}
-Dialogue: 0,0:14:27.24,0:14:28.67,forest default C,,0,0,0,,Uncle Billy!
-Dialogue: 0,0:14:32.33,0:14:35.68,forest default C,,0,0,0,,Just a moment ago,\Nwhy did you say such a thing?
-Dialogue: 0,0:14:36.23,0:14:38.06,forest default C,,0,0,0,,Huh...?!\NWhat?!
-Dialogue: 0,0:14:38.47,0:14:42.57,forest default C,,0,0,0,,Didn't you say that I was a fool and an idiot,\NI heard you!
-Dialogue: 0,0:14:42.57,0:14:44.60,forest default C,,0,0,0,,Oh... I did...?!
-Dialogue: 0,0:14:44.60,0:14:47.15,forest default C,,0,0,0,,You said I was a fool and an idiot!
-Dialogue: 0,0:14:47.15,0:14:48.96,forest default C,,0,0,0,,I said such a thing?!
-Dialogue: 0,0:14:51.38,0:14:53.84,forest default C,,0,0,0,,I'll bet it was that Mocker!
-Dialogue: 0,0:14:58.47,0:14:59.88,forest default C,,0,0,0,,Serves you right, hm!
-Dialogue: 0,0:14:59.88,0:15:02.31,forest default C,,0,0,0,,Serves you right, really!
-Dialogue: 0,0:15:02.31,0:15:06.12,forest default C,,0,0,0,,That's what happens when you start feeling\Ngood because everyone is flattering you!
-Dialogue: 0,0:15:06.56,0:15:10.45,forest default C,,0,0,0,,{\i1}Hey, Uncle Billy, how come you said\Nsuch nasty things about me?{\i}
-Dialogue: 0,0:15:10.45,0:15:13.29,forest default C,,0,0,0,,Uncle Billy, why did you say\Nnasty things about me?
-Dialogue: 0,0:15:13.64,0:15:14.64,forest default C,,0,0,0,,Why?!
-Dialogue: 0,0:15:15.56,0:15:19.24,forest default C,,0,0,0,,{\i1}Uncle Billy the fool, Uncle Billy the fool!{\i}
-Dialogue: 0,0:15:19.24,0:15:21.77,forest default C,,0,0,0,,- Yeah, he's a... yeah, fool!\N- Fool, fool!
-Dialogue: 0,0:15:21.77,0:15:23.53,forest default C,,0,0,0,,- Yeah, he's a fool!\N- Fool, fool!
-Dialogue: 0,0:15:23.58,0:15:25.69,forest default C,,0,0,0,,Listen to me, you troublemakers!
-Dialogue: 0,0:15:25.69,0:15:28.84,forest default C,,0,0,0,,Enough is enough, or I should have\Nto become very angry!
-Dialogue: 0,0:15:39.60,0:15:41.49,forest default C,,0,0,0,,Hey-hey, good for nothing!
-Dialogue: 0,0:15:51.49,0:15:53.17,forest default C,,0,0,0,,So that's what happened!
-Dialogue: 0,0:15:53.57,0:15:55.09,forest default C,,0,0,0,,What should I do?
-Dialogue: 0,0:15:55.19,0:15:57.92,forest default C,,0,0,0,,If things are left just as they are,
-Dialogue: 0,0:15:57.92,0:16:01.00,forest default C,,0,0,0,,the forest people will never forgive Mocker!
-Dialogue: 0,0:16:01.06,0:16:03.32,forest default C,,0,0,0,,We've got to do something!
-Dialogue: 0,0:16:04.30,0:16:07.68,forest default C,,0,0,0,,I've got an idea!\NAnd a good one at that!
-Dialogue: 0,0:16:07.79,0:16:11.96,forest default C,,0,0,0,,Listen, Uncle Billy! We'll get\Nall the forest people together,
-Dialogue: 0,0:16:11.96,0:16:15.64,forest default C,,0,0,0,,we'll get them assembled and tell them\Nwhat Mocker's been doing!
-Dialogue: 0,0:16:15.70,0:16:17.92,forest default C,,0,0,0,,Is that a good idea?\NHow about it?
-Dialogue: 0,0:16:18.19,0:16:22.47,forest default C,,0,0,0,,Might work?\NMight work! What next?
-Dialogue: 0,0:16:22.93,0:16:27.11,forest default C,,0,0,0,,Now, Uncle Billy, you go to everyone's house\Nand get them to assemble!
-Dialogue: 0,0:16:29.40,0:16:33.83,forest default C,,0,0,0,,But where... do you think it'd be\Na good place for us to assemble?
-Dialogue: 0,0:16:34.65,0:16:37.20,forest default C,,0,0,0,,The Lonesome Pine it'd be a good spot!
-Dialogue: 0,0:16:45.91,0:16:48.44,forest default C,,0,0,0,,People of the Green Forest and Pastures...
-Dialogue: 0,0:16:49.20,0:16:51.65,forest default C,,0,0,0,,...thank you for coming here so willingly!
-Dialogue: 0,0:17:19.57,0:17:23.19,forest default C,,0,0,0,,There is something that is really\Ngonna startle you folks, today.
-Dialogue: 0,0:17:27.08,0:17:28.08,forest default C,,0,0,0,,OK!
-Dialogue: 0,0:17:28.75,0:17:30.76,forest default C,,0,0,0,,Now listen carefully to this!
-Dialogue: 0,0:17:30.80,0:17:34.08,forest default C,,0,0,0,,{\i1}I got the news!\NIt's a fake, it's a fake!{\i}
-Dialogue: 0,0:17:34.09,0:17:36.10,forest default C,,0,0,0,,{\i1}I know all the news!{\i}
-Dialogue: 0,0:17:36.11,0:17:40.66,forest default C,,0,0,0,,{\i1}It's a fake, you don't know,\NI got the news, it's a fake!{\i}
-Dialogue: 0,0:17:42.55,0:17:46.03,forest default C,,0,0,0,,Now, ladies and gentlemen,\Nyou should understand, that that's not me,
-Dialogue: 0,0:17:46.03,0:17:50.10,forest default C,,0,0,0,,that's someone else who stolen my voice,\Nnow listen up there in the tree!
-Dialogue: 0,0:17:50.26,0:17:55.03,forest default C,,0,0,0,,{\i1}- Sammy's a liar!{\i0}\N- What?! I'm the real Sammy! What do you mean?
-Dialogue: 0,0:17:57.99,0:18:01.55,forest default C,,0,0,0,,And that's the way it is, ladies and gentlemen!
-Dialogue: 0,0:18:04.29,0:18:07.64,forest default C,,0,0,0,,{\i1}I'm Sammy, I'm Sammy, I'm Sammy!{\i}
-Dialogue: 0,0:18:11.28,0:18:15.93,forest default C,,0,0,0,,{\i1}I'm Sticky, I'm Sticky!\NJust had to imitate your voice, Sticky!{\i}
-Dialogue: 0,0:18:16.07,0:18:19.07,forest default C,,0,0,0,,{\i1}Excuse me, Sticky!\NI'm Sticky! Remember Sticky?{\i}
-Dialogue: 0,0:18:21.30,0:18:22.30,forest default C,,0,0,0,,{\i1}I'm Sticky!{\i}
-Dialogue: 0,0:18:22.72,0:18:25.60,forest default C,,0,0,0,,{\i1}Johnny, why did it turn out this way?{\i}
-Dialogue: 0,0:18:25.63,0:18:27.03,forest default C,,0,0,0,,{\i1}I can't understand it either!{\i}
-Dialogue: 0,0:18:28.16,0:18:30.14,forest default C,,0,0,0,,{\i1}Listen, Peter!{\i}
-Dialogue: 0,0:18:31.30,0:18:33.28,forest default C,,0,0,0,,{\i1}Yoo-hoo, tell me, Peter!{\i}
-Dialogue: 0,0:18:33.72,0:18:37.58,forest default C,,0,0,0,,{\i1}It is something that's not my concern,\Nbut really this is a problem!{\i}
-Dialogue: 0,0:18:37.63,0:18:40.56,forest default C,,0,0,0,,{\i1}Who would've thought\Nthat to be alone would be so lonely?{\i}
-Dialogue: 0,0:18:42.95,0:18:44.00,forest default C,,0,0,0,,That's my voice!
-Dialogue: 0,0:18:44.48,0:18:48.08,forest default C,,0,0,0,,{\i1}Croack! That's right, what in the earth is this?{\i}
-Dialogue: 0,0:18:48.43,0:18:51.71,forest default C,,0,0,0,,{\i1}The tranquil Green Forest\Nhas completely become a noisy one!{\i}
-Dialogue: 0,0:18:53.11,0:18:55.94,forest default C,,0,0,0,,{\i1}It's become... like a big commotion!{\i}
-Dialogue: 0,0:18:55.94,0:18:59.23,forest default C,,0,0,0,,Why...? Why...? Why...?
-Dialogue: 0,0:19:02.93,0:19:04.99,forest default C,,0,0,0,,{\i1}Who is in there, anyway?{\i}
-Dialogue: 0,0:19:05.21,0:19:07.34,forest default C,,0,0,0,,You don't know who I am by now?
-Dialogue: 0,0:19:10.79,0:19:14.09,forest default C,,0,0,0,,Listen...! Maybe some of you already know,
-Dialogue: 0,0:19:14.09,0:19:16.57,forest default C,,0,0,0,,but the reason for having you\Nall assembled here
-Dialogue: 0,0:19:16.57,0:19:19.04,forest default C,,0,0,0,,is to introduce you to a new friend!
-Dialogue: 0,0:19:19.14,0:19:21.88,forest default C,,0,0,0,,He'll be living here with us in the Green Forest!
-Dialogue: 0,0:19:22.35,0:19:24.72,forest default C,,0,0,0,,The Mockingbird!
-Dialogue: 0,0:19:25.21,0:19:26.85,forest default C,,0,0,0,,Mocker!
-Dialogue: 0,0:19:51.73,0:19:55.40,forest default C,,0,0,0,,Uncle Billy, introduce me to everybody,\Ndo you mind?
-Dialogue: 0,0:20:07.05,0:20:10.55,forest default C,,0,0,0,,Ladies and gentlemen,\NI would like to introduce you
-Dialogue: 0,0:20:10.55,0:20:14.86,forest default C,,0,0,0,,to an extraordinary artist and my old friend:
-Dialogue: 0,0:20:14.86,0:20:17.37,forest default C,,0,0,0,,The Mockingbird Mocker.
-Dialogue: 0,0:20:18.36,0:20:22.48,forest default C,,0,0,0,,{\i1}Mocker has the world's most wonderful voice!{\i}
-Dialogue: 0,0:20:22.75,0:20:25.32,forest default C,,0,0,0,,{\i1}Furthermore, he can imitate anyone!{\i}
-Dialogue: 0,0:20:26.46,0:20:31.04,forest default C,,0,0,0,,By that reason, he has bothered you,\Nfor which I would like to apologise.
-Dialogue: 0,0:20:31.04,0:20:33.08,forest default C,,0,0,0,,If all of you will permit me,
-Dialogue: 0,0:20:33.08,0:20:37.43,forest default C,,0,0,0,,I would like to live here,\Nwith all of you, in the Green Forest.
-Dialogue: 0,0:20:40.68,0:20:43.86,forest narrator C,,0,0,0,,{\i1}Altough Uncle Billy and Mocker\Nwere asking for forgiveness,{\i}
-Dialogue: 0,0:20:43.86,0:20:46.31,forest narrator C,,0,0,0,,{\i1}there were some\Nwho were not inclined to pardon them.{\i}
-Dialogue: 0,0:20:53.07,0:20:55.25,forest default C,,0,0,0,,Johnny, what should I do?
-Dialogue: 0,0:20:55.92,0:20:57.85,forest default C,,0,0,0,,I think I may have overdone it!
-Dialogue: 0,0:20:59.10,0:21:03.62,forest default C,,0,0,0,,Oh, it's all right!\NRemember, you've got a beautiful voice!
-Dialogue: 0,0:21:03.62,0:21:06.81,forest default C,,0,0,0,,Why not let everyone hear your song, Mocker!
-Dialogue: 0,0:21:07.77,0:21:09.03,forest default C,,0,0,0,,My pleasure!
-Dialogue: 0,0:21:53.26,0:21:55.27,forest narrator C,,0,0,0,,{\i1}Everyone's feelings have been soothe{\i}
-Dialogue: 0,0:21:55.27,0:21:59.06,forest narrator C,,0,0,0,,{\i1}by the beautiful singing\Nof Mocker, the Mockingbird.{\i}
-Dialogue: 0,0:22:00.48,0:22:04.38,forest narrator C,,0,0,0,,{\i1}It was so wonderful\Nthat Mocker made many friends.{\i}
-Dialogue: 0,0:22:05.57,0:22:10.36,forest narrator C,,0,0,0,,{\i1}And he could stay in the Green Forest\Nfor as long as he desired.{\i}
-Dialogue: 0,0:22:17.90,0:22:21.90,forest credits C,,0,0,0,,{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs
+Dialogue: 0,0:00:00.01,0:00:05.00,forest title KB,,0,0,0,,{TIME:10,5000}FABLES \N of the\NGREEN FOREST
+Dialogue: 0,0:00:00.01,0:00:05.00,forest ep title C,,0,0,0,,{TIME:10,5000}{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"The big commotion in the forest"{\i}
+Dialogue: 0,0:00:05.12,0:00:08.31,forest default C,,0,0,0,,{TIME:5120,8310}Momma, we are hungry, we are hungry!
+Dialogue: 0,0:00:08.31,0:00:10.83,forest default C,,0,0,0,,{TIME:8310,10830}We are hungry, oh, where is the food...
+Dialogue: 0,0:00:11.00,0:00:14.38,forest default C,,0,0,0,,{TIME:11000,14380}We are hungry, we are hungry!
+Dialogue: 0,0:00:14.81,0:00:17.42,forest default C,,0,0,0,,{TIME:14810,17420}- Momma, we are hungry!\N- Momma!
+Dialogue: 0,0:00:25.18,0:00:28.08,forest default C,,0,0,0,,{TIME:25180,28080}{\i1}My husband! How long do you intend to sleep?{\i}
+Dialogue: 0,0:00:28.08,0:00:30.89,forest default C,,0,0,0,,{TIME:28080,30890}{\i1}Enough is enough, get up! Oh...!{\i}
+Dialogue: 0,0:00:31.67,0:00:33.20,forest default C,,0,0,0,,{TIME:31670,33200}{\i1}I wonder where he went...!{\i}
+Dialogue: 0,0:00:36.11,0:00:38.21,forest default C,,0,0,0,,{TIME:36110,38210}What on earth are you doing there?!
+Dialogue: 0,0:00:40.89,0:00:42.94,forest default C,,0,0,0,,{TIME:40890,42940}Don't just daydream!
+Dialogue: 0,0:00:43.31,0:00:47.34,forest default C,,0,0,0,,{TIME:43310,47340}Hurry and go to work, can't you hear the children\Ncrying with an empty stomach?!
+Dialogue: 0,0:00:47.50,0:00:50.12,forest default C,,0,0,0,,{TIME:47500,50120}How can you be nonchalantly viewing the sky,
+Dialogue: 0,0:00:50.12,0:00:52.49,forest default C,,0,0,0,,{TIME:50120,52490}{\i1}there's no time to be wondering\Nabout the weather!{\i}
+Dialogue: 0,0:00:52.56,0:00:57.25,forest default C,,0,0,0,,{TIME:52560,57250}Get this, there are five children waiting\Nwith mouths open, don't forget that!
+Dialogue: 0,0:01:00.47,0:01:03.16,forest default C,,0,0,0,,{TIME:60470,63160}I know, Mother, I know!\NMmm...
+Dialogue: 0,0:01:09.25,0:01:14.49,forest default C,,0,0,0,,{TIME:69250,74490}Now, I wonder just where in the world\Nthat Mocker could've got to...!
+Dialogue: 0,0:01:18.18,0:01:20.29,forest narrator C,,0,0,0,,{TIME:78180,80290}{\i1}The big commotion in the forest!{\i}
+Dialogue: 0,0:01:39.18,0:01:43.75,forest default C,,0,0,0,,{TIME:99180,103750}I don't understand! Hey, what's happening,\Nwhat's happening, hey, what is this?!
+Dialogue: 0,0:01:44.34,0:01:46.14,forest default C,,0,0,0,,{TIME:104340,106140}I don't understand, what's happening?!
+Dialogue: 0,0:01:48.77,0:01:51.95,forest default C,,0,0,0,,{TIME:108770,111950}Well, good morning, Sticky,\Nwhat's the matter with you, huh?
+Dialogue: 0,0:01:55.35,0:01:58.01,forest default C,,0,0,0,,{TIME:115350,118010}What's the matter with Sticky,\Nsomething bothering him?
+Dialogue: 0,0:01:58.97,0:02:00.20,forest default C,,0,0,0,,{TIME:118970,120200}What's the matter, Sticky?
+Dialogue: 0,0:02:00.76,0:02:03.53,forest default C,,0,0,0,,{TIME:120760,123530}I wonder what's the matter with him.\NHey, Sticky!
+Dialogue: 0,0:02:05.29,0:02:06.86,forest default C,,0,0,0,,{TIME:125290,126860}- What's the matter, Sticky?\N- What's the matter, Sticky?
+Dialogue: 0,0:02:07.45,0:02:10.43,forest default C,,0,0,0,,{TIME:127450,130430}I can hear my voice,\NI just don't understand it!
+Dialogue: 0,0:02:10.71,0:02:14.04,forest default C,,0,0,0,,{TIME:130710,134040}I'm not saying anything,\Nbut I can still hear my voice!
+Dialogue: 0,0:02:21.61,0:02:25.10,forest default C,,0,0,0,,{TIME:141610,145100}I'm not saying a word but I can hear my voice\Nfrom the bank over there!
+Dialogue: 0,0:02:29.02,0:02:30.83,forest default C,,0,0,0,,{TIME:149020,150830}Don't be silly, Sticky!
+Dialogue: 0,0:02:35.23,0:02:36.54,forest default C,,0,0,0,,{TIME:155230,156540}Right, Johnny?
+Dialogue: 0,0:02:40.84,0:02:44.59,forest default C,,0,0,0,,{TIME:160840,164590}It's true, if you go with me to Laughing Brook\Nyou'll see! I'm not lying!
+Dialogue: 0,0:02:55.04,0:02:57.12,forest default C,,0,0,0,,{TIME:175040,177120}This is the place!\NFrom the bank over there!
+Dialogue: 0,0:02:57.30,0:02:58.30,forest default C,,0,0,0,,{TIME:177300,178300}I can hear it!
+Dialogue: 0,0:03:32.32,0:03:34.22,forest default C,,0,0,0,,{TIME:212320,214220}{\i1}This is Sticky!{\i}
+Dialogue: 0,0:03:39.76,0:03:41.75,forest default C,,0,0,0,,{TIME:219760,221750}{\i1}This is Sticky!{\i}
+Dialogue: 0,0:03:44.65,0:03:46.67,forest default C,,0,0,0,,{TIME:224650,226670}{\i1}This is Sticky!{\i}
+Dialogue: 0,0:03:48.90,0:03:50.68,forest default C,,0,0,0,,{TIME:228900,230680}That's not true! I'm Sticky!
+Dialogue: 0,0:03:51.10,0:03:52.82,forest default C,,0,0,0,,{TIME:231100,232820}{\i1}This is Sticky!{\i}
+Dialogue: 0,0:03:59.19,0:04:01.26,forest default C,,0,0,0,,{TIME:239190,241260}This is Sticky! This is Sticky!
+Dialogue: 0,0:04:01.26,0:04:04.40,forest default C,,0,0,0,,{TIME:241260,244400}I'm Sticky! I'm Sticky!\NThis is Sticky!
+Dialogue: 0,0:04:04.59,0:04:07.86,forest default C,,0,0,0,,{TIME:244590,247860}No, you're not, I'm Sticky,\NI'm the real Sticky, I'm Sticky!
+Dialogue: 0,0:04:07.86,0:04:11.07,forest default C,,0,0,0,,{TIME:247860,251070}I'm Sticky, I'm Sticky, yes, I am,\NI am Sticky!
+Dialogue: 0,0:04:11.07,0:04:14.39,forest default C,,0,0,0,,{TIME:251070,254390}No, you're not, I'm the real Sticky,\Nlook at me, I am Sticky!
+Dialogue: 0,0:04:16.14,0:04:18.93,forest default C,,0,0,0,,{TIME:256140,258930}I'm Sticky, I'm the real Sticky!
+Dialogue: 0,0:04:19.63,0:04:22.07,forest default C,,0,0,0,,{TIME:259630,262070}Right, guys, you know I'm the real one!
+Dialogue: 0,0:04:23.15,0:04:25.16,forest default C,,0,0,0,,{TIME:263150,265160}I'm the real Sticky, right?
+Dialogue: 0,0:04:25.16,0:04:26.96,forest default C,,0,0,0,,{TIME:265160,266960}I am Sticky, I am Sticky!
+Dialogue: 0,0:04:27.46,0:04:29.42,forest default C,,0,0,0,,{TIME:267460,269420}- I am Sticky!\N- Huh...?!
+Dialogue: 0,0:04:31.02,0:04:33.95,forest default C,,0,0,0,,{TIME:271020,273950}{\i1}I am Sticky!\NI'm the real one, over here!{\i}
+Dialogue: 0,0:04:35.04,0:04:36.44,forest default C,,0,0,0,,{TIME:275040,276440}{\i1}I'm Sticky!{\i}
+Dialogue: 0,0:04:40.71,0:04:43.59,forest default C,,0,0,0,,{TIME:280710,283590}{\i1}I'm Sticky! This is Sticky!{\i}
+Dialogue: 0,0:04:43.65,0:04:45.49,forest default C,,0,0,0,,{TIME:283650,285490}{\i1}I'm Sticky! Over here!{\i}
+Dialogue: 0,0:04:45.95,0:04:47.05,forest default C,,0,0,0,,{TIME:285950,287050}{\i1}This is Sticky!{\i}
+Dialogue: 0,0:04:49.39,0:04:52.50,forest default C,,0,0,0,,{TIME:289390,292500}Oh...\NThere are two Stickys!
+Dialogue: 0,0:04:59.08,0:05:00.45,forest default C,,0,0,0,,{TIME:299080,300450}{\i1}I'm Sticky!{\i}
+Dialogue: 0,0:05:01.20,0:05:03.57,forest default C,,0,0,0,,{TIME:301200,303570}I'm going crazy, I'm Sticky!
+Dialogue: 0,0:05:13.55,0:05:17.71,forest default C,,0,0,0,,{TIME:313550,317710}That was funny!\NYou're really a genius in imitating!
+Dialogue: 0,0:05:17.71,0:05:21.96,forest default C,,0,0,0,,{TIME:317710,321960}I'm glad I've got a friend like you!\NWe can really have some fun now!
+Dialogue: 0,0:05:22.31,0:05:23.21,forest default C,,0,0,0,,{TIME:322310,323210}I've got it!
+Dialogue: 0,0:05:23.62,0:05:27.43,forest default C,,0,0,0,,{TIME:323620,327430}I can think of some really funny tricks, uh-hu!
+Dialogue: 0,0:05:33.97,0:05:38.07,forest default C,,0,0,0,,{TIME:333970,338070}{\i1}Mocker, I've got some good ideas\Nfor some funny tricks!{\i}
+Dialogue: 0,0:05:38.18,0:05:39.42,forest default C,,0,0,0,,{TIME:338180,339420}{\i1}I'll tell you what we can do...{\i}
+Dialogue: 0,0:05:39.66,0:05:42.59,forest default C,,0,0,0,,{TIME:339660,342590}And we can do this... and...\NThis is genius...!
+Dialogue: 0,0:05:44.24,0:05:46.42,forest default C,,0,0,0,,{TIME:344240,346420}Oh, hey, Mocker!
+Dialogue: 0,0:05:47.59,0:05:49.70,forest default C,,0,0,0,,{TIME:347590,349700}Oh! Hi, Uncle Billy!
+Dialogue: 0,0:05:49.81,0:05:52.34,forest default C,,0,0,0,,{TIME:349810,352340}You know, Mocker, I thought I'll introduce you
+Dialogue: 0,0:05:52.34,0:05:55.79,forest default C,,0,0,0,,{TIME:352340,355790}to all the forest folks today, now come along!
+Dialogue: 0,0:05:56.11,0:06:00.03,forest default C,,0,0,0,,{TIME:356110,360030}Introduce?! No, no, no way!
+Dialogue: 0,0:06:00.03,0:06:04.64,forest default C,,0,0,0,,{TIME:360030,364640}If everybody knew about Mocker,\Nthat would spoil all of our fun! Right?
+Dialogue: 0,0:06:04.64,0:06:06.52,forest default C,,0,0,0,,{TIME:364640,366520}Right, Mocker?
+Dialogue: 0,0:06:06.52,0:06:09.94,forest default C,,0,0,0,,{TIME:366520,369940}Come on, let's go!\NSee you later, Uncle Billy, bye!
+Dialogue: 0,0:06:11.19,0:06:16.10,forest default C,,0,0,0,,{TIME:371190,376100}He... He-he-hey wait, Mocker, wait, oh, wait a while!
+Dialogue: 0,0:06:18.40,0:06:23.61,forest default C,,0,0,0,,{TIME:378400,383610}Oh... Mocker is become... friendly\Nwith a terrible guy...
+Dialogue: 0,0:06:26.18,0:06:28.98,forest default C,,0,0,0,,{TIME:386180,388980}{\i1}Chatterer...!\NHey, Chatterer!{\i}
+Dialogue: 0,0:06:28.98,0:06:31.47,forest default C,,0,0,0,,{TIME:388980,391470}What's up, Peter, you have some business?
+Dialogue: 0,0:06:31.77,0:06:36.50,forest default C,,0,0,0,,{TIME:391770,396500}{\i1}Why are you such a fool,\Na blockhead and an idiot?!{\i}
+Dialogue: 0,0:06:37.71,0:06:38.71,forest default C,,0,0,0,,{TIME:397710,398710}What?!
+Dialogue: 0,0:06:41.60,0:06:43.96,forest default C,,0,0,0,,{TIME:401600,403960}Fool, fool, idiot!
+Dialogue: 0,0:06:44.71,0:06:45.71,forest default C,,0,0,0,,{TIME:404710,405710}What?! Oh boy...
+Dialogue: 0,0:06:46.02,0:06:49.06,forest default C,,0,0,0,,{TIME:406020,409060}Let's get out of here,\Nhe's coming, he's coming!
+Dialogue: 0,0:06:50.93,0:06:52.97,forest default C,,0,0,0,,{TIME:410930,412970}Come out, come out, come out, don't run off,
+Dialogue: 0,0:06:52.97,0:06:55.27,forest default C,,0,0,0,,{TIME:412970,415270}where are you, Peter, come on,\Ncome on, where are you?
+Dialogue: 0,0:06:55.60,0:06:58.54,forest default C,,0,0,0,,{TIME:415600,418540}Hmm... where is he?!\NHe's run off!
+Dialogue: 0,0:07:01.95,0:07:03.42,forest default C,,0,0,0,,{TIME:421950,423420}I can't figure it out!
+Dialogue: 0,0:07:03.92,0:07:07.21,forest default C,,0,0,0,,{TIME:423920,427210}I don't understand it... Oh!\NWhy, you better watch out!
+Dialogue: 0,0:07:07.37,0:07:10.97,forest default C,,0,0,0,,{TIME:427370,430970}Hey, you mean thing, calling me names,\Nthat was awfull!
+Dialogue: 0,0:07:11.07,0:07:13.53,forest default C,,0,0,0,,{TIME:431070,433530}Huh...?!\NI never said a thing!
+Dialogue: 0,0:07:14.14,0:07:16.69,forest default C,,0,0,0,,{TIME:434140,436690}Yes, you did!\NOh!
+Dialogue: 0,0:07:24.89,0:07:27.16,forest default C,,0,0,0,,{TIME:444890,447160}Oh, Chatterer, are you crazy?
+Dialogue: 0,0:07:31.91,0:07:34.69,forest default C,,0,0,0,,{TIME:451910,454690}Oh, get out of here, get out,\Nstop it, stop it!
+Dialogue: 0,0:07:35.81,0:07:38.77,forest default C,,0,0,0,,{TIME:455810,458770}{\i1}That's cruel!\NTo say such bad things!{\i}
+Dialogue: 0,0:07:41.09,0:07:43.18,forest default C,,0,0,0,,{TIME:461090,463180}What, Polly?\NWhat's the matter?
+Dialogue: 0,0:07:45.32,0:07:49.75,forest default C,,0,0,0,,{TIME:465320,469750}Well... after saying such cruel things...\NReally!
+Dialogue: 0,0:07:50.12,0:07:52.50,forest default C,,0,0,0,,{TIME:470120,472500}Huh?! I didn't say anything!
+Dialogue: 0,0:07:53.43,0:07:57.98,forest default C,,0,0,0,,{TIME:473430,477980}You called me such mean things, bad and ugly\Nand oh, that's terrible,
+Dialogue: 0,0:07:57.98,0:08:02.39,forest default C,,0,0,0,,{TIME:477980,482390}I... oh... how cruel... oh...\NYou're so cruel! Oh...
+Dialogue: 0,0:08:02.76,0:08:07.23,forest default C,,0,0,0,,{TIME:482760,487230}You... of all the things, to call me\Nthose terrible things! I hate you!
+Dialogue: 0,0:08:07.75,0:08:09.39,forest default C,,0,0,0,,{TIME:487750,489390}Polly! Polly, wait!
+Dialogue: 0,0:08:11.06,0:08:13.02,forest default C,,0,0,0,,{TIME:491060,493020}Don't follow me, I hate you!
+Dialogue: 0,0:08:13.15,0:08:14.56,forest default C,,0,0,0,,{TIME:493150,494560}Come on, Polly!
+Dialogue: 0,0:08:20.28,0:08:22.39,forest default C,,0,0,0,,{TIME:500280,502390}Hey, why did you called me all those names for?
+Dialogue: 0,0:08:22.61,0:08:24.69,forest default C,,0,0,0,,{TIME:502610,504690}You're the one that called me all those names!
+Dialogue: 0,0:08:24.69,0:08:26.93,forest default C,,0,0,0,,{TIME:504690,506930}It wasn't me, I was just sitting there!
+Dialogue: 0,0:08:26.93,0:08:29.71,forest default C,,0,0,0,,{TIME:506930,509710}It was you who called me all those names!\NYou're the one!
+Dialogue: 0,0:08:29.71,0:08:30.71,forest default C,,0,0,0,,{TIME:509710,510710}No!
+Dialogue: 0,0:08:31.02,0:08:32.02,forest default C,,0,0,0,,{TIME:511020,512020}Yeah!
+Dialogue: 0,0:08:32.28,0:08:33.59,forest default C,,0,0,0,,{TIME:512280,513590}- Take back, you first!\N- You called!
+Dialogue: 0,0:08:33.59,0:08:35.85,forest default C,,0,0,0,,{TIME:513590,515850}You quit it! You quit call me those names!
+Dialogue: 0,0:08:38.82,0:08:41.95,forest narrator C,,0,0,0,,{TIME:518820,521950}{\i1}Because of Sammy's and Mocker's mean tricks,{\i}
+Dialogue: 0,0:08:41.95,0:08:46.84,forest narrator C,,0,0,0,,{TIME:521950,526840}{\i1}the entire forest creatures were arguing\Nand fighting among themselves.{\i}
+Dialogue: 0,0:09:01.32,0:09:04.14,forest default C,,0,0,0,,{TIME:541320,544140}Oh my, oh my, oh my!
+Dialogue: 0,0:09:04.53,0:09:08.80,forest default C,,0,0,0,,{TIME:544530,548800}That guy, Mocker, has really started\Nsome trouble here in the forest!
+Dialogue: 0,0:09:08.80,0:09:09.80,forest default C,,0,0,0,,{TIME:548800,549800}Uncle Billy!
+Dialogue: 0,0:09:10.24,0:09:12.30,forest default C,,0,0,0,,{TIME:550240,552300}Between him and Sammy, he's going
+Dialogue: 0,0:09:12.30,0:09:14.99,forest default C,,0,0,0,,{TIME:552300,554990}- ...to have everybody in the forest mad!\N- Uncle Billy!
+Dialogue: 0,0:09:15.33,0:09:17.91,forest default C,,0,0,0,,{TIME:555330,557910}Oh my... oh, hello, Bobby!
+Dialogue: 0,0:09:20.06,0:09:21.06,forest default C,,0,0,0,,{TIME:560060,561060}Uncle Billy!
+Dialogue: 0,0:09:22.99,0:09:28.28,forest default C,,0,0,0,,{TIME:562990,568280}Uncle Billy... do you think we could talk\Nfor a little while...? I'm... very lonely...
+Dialogue: 0,0:09:29.46,0:09:32.77,forest default C,,0,0,0,,{TIME:569460,572770}Lonely? What in the world\Nare you talking about, Bobby,
+Dialogue: 0,0:09:32.77,0:09:34.88,forest default C,,0,0,0,,{TIME:572770,574880}you have a lot of good friends, don't you?
+Dialogue: 0,0:09:35.47,0:09:39.08,forest default C,,0,0,0,,{TIME:575470,579080}No good, no good, those guys are no good.
+Dialogue: 0,0:09:39.12,0:09:42.29,forest default C,,0,0,0,,{TIME:579120,582290}They all talk bad behind other people's backs.
+Dialogue: 0,0:09:42.29,0:09:44.97,forest default C,,0,0,0,,{TIME:582290,584970}The only trustworthy one is you, Uncle Billy.
+Dialogue: 0,0:09:44.97,0:09:47.65,forest default C,,0,0,0,,{TIME:584970,587650}You are the only one, believe me.
+Dialogue: 0,0:09:47.65,0:09:49.21,forest default C,,0,0,0,,{TIME:587650,589210}The only one?
+Dialogue: 0,0:10:25.54,0:10:29.00,forest default C,,0,0,0,,{TIME:625540,629000}Hey, it's Uncle Billy whistling!\NHow you're doing, Uncle Billy?
+Dialogue: 0,0:10:29.40,0:10:31.74,forest default C,,0,0,0,,{TIME:629400,631740}Hey, how are you today, Joe?
+Dialogue: 0,0:10:32.54,0:10:33.54,forest default C,,0,0,0,,{TIME:632540,633540}Fine, thanks!
+Dialogue: 0,0:10:34.52,0:10:36.57,forest default C,,0,0,0,,{TIME:634520,636570}How are you, Uncle Billy?
+Dialogue: 0,0:10:37.13,0:10:41.81,forest default C,,0,0,0,,{TIME:637130,641810}- Well, hello there, Harry, how are you?\N- What a nice day, going out for a walk?
+Dialogue: 0,0:10:42.99,0:10:47.73,forest default C,,0,0,0,,{TIME:642990,647730}Yeah, I must've talked entirely\Ntoo long with Bobby.
+Dialogue: 0,0:10:48.21,0:10:51.64,forest default C,,0,0,0,,{TIME:648210,651640}Seems he had a problem\Nhe just couldn't solve alone.
+Dialogue: 0,0:10:58.40,0:11:03.10,forest default C,,0,0,0,,{TIME:658400,663100}Hey, Uncle Billy, do you mind if I talk\Nto you about something for a while, huh?
+Dialogue: 0,0:11:03.10,0:11:04.68,forest default C,,0,0,0,,{TIME:663100,664680}Why, sure, Joe.
+Dialogue: 0,0:11:11.44,0:11:12.44,forest default C,,0,0,0,,{TIME:671440,672440}Uncle Billy!
+Dialogue: 0,0:11:13.28,0:11:16.80,forest default C,,0,0,0,,{TIME:673280,676800}I have something to talk to you about!\NWill you come over here, please?
+Dialogue: 0,0:11:21.87,0:11:24.51,forest default C,,0,0,0,,{TIME:681870,684510}Hey, Uncle Billy! Uncle Billy!
+Dialogue: 0,0:11:27.91,0:11:28.91,forest default C,,0,0,0,,{TIME:687910,688910}Uncle Billy!
+Dialogue: 0,0:11:32.06,0:11:33.06,forest default C,,0,0,0,,{TIME:692060,693060}Uncle Billy!
+Dialogue: 0,0:11:37.11,0:11:38.73,forest default C,,0,0,0,,{TIME:697110,698730}Uncle Billy, come here!
+Dialogue: 0,0:11:51.94,0:11:53.14,forest default C,,0,0,0,,{TIME:711940,713140}Hey, Uncle Billy!
+Dialogue: 0,0:11:54.40,0:11:57.27,forest default C,,0,0,0,,{TIME:714400,717270}Hey, I got this fish\Nespecially for you, Uncle Billy!
+Dialogue: 0,0:11:59.92,0:12:02.36,forest default C,,0,0,0,,{TIME:719920,722360}- Why is that for me?!\N- Mhm...
+Dialogue: 0,0:12:14.92,0:12:17.83,forest default C,,0,0,0,,{TIME:734920,737830}Hey, Uncle Billy!\NI got this just for you!
+Dialogue: 0,0:12:20.87,0:12:24.34,forest default C,,0,0,0,,{TIME:740870,744340}I can't stand fish, but I don't want\Nto hurt his feelings.
+Dialogue: 0,0:12:24.54,0:12:27.14,forest default C,,0,0,0,,{TIME:744540,747140}- Goodbye, Uncle Billy, goodbye!\N- Bye! Bye Uncle Billy!
+Dialogue: 0,0:12:30.80,0:12:32.58,forest default C,,0,0,0,,{TIME:750800,752580}How are you, Uncle Billy?
+Dialogue: 0,0:12:33.51,0:12:34.89,forest default C,,0,0,0,,{TIME:753510,754890}Hi, Chatterer!
+Dialogue: 0,0:12:37.06,0:12:38.77,forest default C,,0,0,0,,{TIME:757060,758770}Hi, Uncle Billy!
+Dialogue: 0,0:12:39.50,0:12:42.75,forest default C,,0,0,0,,{TIME:759500,762750}{\i1}- Hi, Uncle Billy!\N- Hi, Uncle Billy!{\i}
+Dialogue: 0,0:12:43.10,0:12:45.97,forest default C,,0,0,0,,{TIME:763100,765970}- Hi, Uncle Billy! Hi, Uncle Bily!\N- Hi!
+Dialogue: 0,0:12:45.97,0:12:47.53,forest default C,,0,0,0,,{TIME:765970,767530}Hi, Uncle Billy!
+Dialogue: 0,0:12:48.50,0:12:51.46,forest default C,,0,0,0,,{TIME:768500,771460}- Hi, Uncle Billy!\N- Hi, Uncle Billy!
+Dialogue: 0,0:12:51.46,0:12:53.67,forest default C,,0,0,0,,{TIME:771460,773670}- Hi!\N- Hi, hi!
+Dialogue: 0,0:12:57.85,0:13:00.84,forest narrator C,,0,0,0,,{TIME:777850,780840}{\i1}Uncle Billy has become\Nthe popular one of the forest.{\i}
+Dialogue: 0,0:13:00.99,0:13:03.08,forest narrator C,,0,0,0,,{TIME:780990,783080}{\i1}Everyone is fond of Uncle Billy.{\i}
+Dialogue: 0,0:13:03.08,0:13:07.79,forest narrator C,,0,0,0,,{TIME:783080,787790}{\i1}That is because Mocker has not said\Nany bad things using Uncle Billy's voice.{\i}
+Dialogue: 0,0:13:21.97,0:13:23.64,forest default C,,0,0,0,,{TIME:801970,803640}{\i1}Johnny...!{\i}
+Dialogue: 0,0:13:24.10,0:13:25.10,forest default C,,0,0,0,,{TIME:804100,805100}{\i1}Johnny...!{\i}
+Dialogue: 0,0:13:28.09,0:13:31.22,forest default C,,0,0,0,,{TIME:808090,811220}{\i1}Johnny, you fool!\NWhat a fool you are!{\i}
+Dialogue: 0,0:13:31.50,0:13:33.31,forest default C,,0,0,0,,{TIME:811500,813310}Uncle Billy, is that you?
+Dialogue: 0,0:13:35.01,0:13:37.36,forest default C,,0,0,0,,{TIME:815010,817360}An idiot and a fool like you
+Dialogue: 0,0:13:37.37,0:13:40.72,forest default C,,0,0,0,,{TIME:817370,820720}will soon be caught up\Nby Granny and eaten up!
+Dialogue: 0,0:13:41.30,0:13:43.26,forest default C,,0,0,0,,{TIME:821300,823260}{\i1}Fool, fool!{\i}
+Dialogue: 0,0:13:43.79,0:13:45.65,forest default C,,0,0,0,,{TIME:823790,825650}But... what are you saying, Uncle Billy?
+Dialogue: 0,0:13:46.00,0:13:48.65,forest default C,,0,0,0,,{TIME:826000,828650}Fool, I said you're a fool!
+Dialogue: 0,0:13:52.53,0:13:55.41,forest default C,,0,0,0,,{TIME:832530,835410}Why are you saying all those\Nnasty things about me, Uncle Billy?
+Dialogue: 0,0:13:55.41,0:13:57.52,forest default C,,0,0,0,,{TIME:835410,837520}What's wrong, why are you saying that? Oh!
+Dialogue: 0,0:14:00.08,0:14:02.54,forest default C,,0,0,0,,{TIME:840080,842540}Feel sort of bad for Uncle Billy!
+Dialogue: 0,0:14:03.00,0:14:05.98,forest default C,,0,0,0,,{TIME:843000,845980}Uncle Billy said it was OK to play tricks,\Ndidn't he?
+Dialogue: 0,0:14:05.98,0:14:09.34,forest default C,,0,0,0,,{TIME:845980,849340}No problem, no problem!
+Dialogue: 0,0:14:12.65,0:14:15.32,forest lyrics C,,0,0,0,,{TIME:852650,855320}{\i1}You're troubled when's come,\NYou're lonely when's come,{\i}
+Dialogue: 0,0:14:15.32,0:14:20.41,forest lyrics C,,0,0,0,,{TIME:855320,860410}{\i1}Come to Uncle Billy,\NThe popular one in the forest,{\i}
+Dialogue: 0,0:14:20.41,0:14:25.45,forest lyrics C,,0,0,0,,{TIME:860410,865450}{\i1}The only one to be trusted,\NUncle Billy, Uncle Billy...{\i}
+Dialogue: 0,0:14:27.24,0:14:28.67,forest default C,,0,0,0,,{TIME:867240,868670}Uncle Billy!
+Dialogue: 0,0:14:32.33,0:14:35.68,forest default C,,0,0,0,,{TIME:872330,875680}Just a moment ago,\Nwhy did you say such a thing?
+Dialogue: 0,0:14:36.23,0:14:38.06,forest default C,,0,0,0,,{TIME:876230,878060}Huh...?!\NWhat?!
+Dialogue: 0,0:14:38.47,0:14:42.57,forest default C,,0,0,0,,{TIME:878470,882570}Didn't you say that I was a fool and an idiot,\NI heard you!
+Dialogue: 0,0:14:42.57,0:14:44.60,forest default C,,0,0,0,,{TIME:882570,884600}Oh... I did...?!
+Dialogue: 0,0:14:44.60,0:14:47.15,forest default C,,0,0,0,,{TIME:884600,887150}You said I was a fool and an idiot!
+Dialogue: 0,0:14:47.15,0:14:48.96,forest default C,,0,0,0,,{TIME:887150,888960}I said such a thing?!
+Dialogue: 0,0:14:51.38,0:14:53.84,forest default C,,0,0,0,,{TIME:891380,893840}I'll bet it was that Mocker!
+Dialogue: 0,0:14:58.47,0:14:59.88,forest default C,,0,0,0,,{TIME:898470,899880}Serves you right, hm!
+Dialogue: 0,0:14:59.88,0:15:02.31,forest default C,,0,0,0,,{TIME:899880,902310}Serves you right, really!
+Dialogue: 0,0:15:02.31,0:15:06.12,forest default C,,0,0,0,,{TIME:902310,906120}That's what happens when you start feeling\Ngood because everyone is flattering you!
+Dialogue: 0,0:15:06.56,0:15:10.45,forest default C,,0,0,0,,{TIME:906560,910450}{\i1}Hey, Uncle Billy, how come you said\Nsuch nasty things about me?{\i}
+Dialogue: 0,0:15:10.45,0:15:13.29,forest default C,,0,0,0,,{TIME:910450,913290}Uncle Billy, why did you say\Nnasty things about me?
+Dialogue: 0,0:15:13.64,0:15:14.64,forest default C,,0,0,0,,{TIME:913640,914640}Why?!
+Dialogue: 0,0:15:15.56,0:15:19.24,forest default C,,0,0,0,,{TIME:915560,919240}{\i1}Uncle Billy the fool, Uncle Billy the fool!{\i}
+Dialogue: 0,0:15:19.24,0:15:21.77,forest default C,,0,0,0,,{TIME:919240,921770}- Yeah, he's a... yeah, fool!\N- Fool, fool!
+Dialogue: 0,0:15:21.77,0:15:23.53,forest default C,,0,0,0,,{TIME:921770,923530}- Yeah, he's a fool!\N- Fool, fool!
+Dialogue: 0,0:15:23.58,0:15:25.69,forest default C,,0,0,0,,{TIME:923580,925690}Listen to me, you troublemakers!
+Dialogue: 0,0:15:25.69,0:15:28.84,forest default C,,0,0,0,,{TIME:925690,928840}Enough is enough, or I should have\Nto become very angry!
+Dialogue: 0,0:15:39.60,0:15:41.49,forest default C,,0,0,0,,{TIME:939600,941490}Hey-hey, good for nothing!
+Dialogue: 0,0:15:51.49,0:15:53.17,forest default C,,0,0,0,,{TIME:951490,953170}So that's what happened!
+Dialogue: 0,0:15:53.57,0:15:55.09,forest default C,,0,0,0,,{TIME:953570,955090}What should I do?
+Dialogue: 0,0:15:55.19,0:15:57.92,forest default C,,0,0,0,,{TIME:955190,957920}If things are left just as they are,
+Dialogue: 0,0:15:57.92,0:16:01.00,forest default C,,0,0,0,,{TIME:957920,961000}the forest people will never forgive Mocker!
+Dialogue: 0,0:16:01.06,0:16:03.32,forest default C,,0,0,0,,{TIME:961060,963320}We've got to do something!
+Dialogue: 0,0:16:04.30,0:16:07.68,forest default C,,0,0,0,,{TIME:964300,967680}I've got an idea!\NAnd a good one at that!
+Dialogue: 0,0:16:07.79,0:16:11.96,forest default C,,0,0,0,,{TIME:967790,971960}Listen, Uncle Billy! We'll get\Nall the forest people together,
+Dialogue: 0,0:16:11.96,0:16:15.64,forest default C,,0,0,0,,{TIME:971960,975640}we'll get them assembled and tell them\Nwhat Mocker's been doing!
+Dialogue: 0,0:16:15.70,0:16:17.92,forest default C,,0,0,0,,{TIME:975700,977920}Is that a good idea?\NHow about it?
+Dialogue: 0,0:16:18.19,0:16:22.47,forest default C,,0,0,0,,{TIME:978190,982470}Might work?\NMight work! What next?
+Dialogue: 0,0:16:22.93,0:16:27.11,forest default C,,0,0,0,,{TIME:982930,987110}Now, Uncle Billy, you go to everyone's house\Nand get them to assemble!
+Dialogue: 0,0:16:29.40,0:16:33.83,forest default C,,0,0,0,,{TIME:989400,993830}But where... do you think it'd be\Na good place for us to assemble?
+Dialogue: 0,0:16:34.65,0:16:37.20,forest default C,,0,0,0,,{TIME:994650,997200}The Lonesome Pine it'd be a good spot!
+Dialogue: 0,0:16:45.91,0:16:48.44,forest default C,,0,0,0,,{TIME:1005910,1008440}People of the Green Forest and Pastures...
+Dialogue: 0,0:16:49.20,0:16:51.65,forest default C,,0,0,0,,{TIME:1009200,1011650}...thank you for coming here so willingly!
+Dialogue: 0,0:17:19.57,0:17:23.19,forest default C,,0,0,0,,{TIME:1039570,1043190}There is something that is really\Ngonna startle you folks, today.
+Dialogue: 0,0:17:27.08,0:17:28.08,forest default C,,0,0,0,,{TIME:1047080,1048080}OK!
+Dialogue: 0,0:17:28.75,0:17:30.76,forest default C,,0,0,0,,{TIME:1048750,1050760}Now listen carefully to this!
+Dialogue: 0,0:17:30.80,0:17:34.08,forest default C,,0,0,0,,{TIME:1050800,1054080}{\i1}I got the news!\NIt's a fake, it's a fake!{\i}
+Dialogue: 0,0:17:34.09,0:17:36.10,forest default C,,0,0,0,,{TIME:1054090,1056100}{\i1}I know all the news!{\i}
+Dialogue: 0,0:17:36.11,0:17:40.66,forest default C,,0,0,0,,{TIME:1056110,1060660}{\i1}It's a fake, you don't know,\NI got the news, it's a fake!{\i}
+Dialogue: 0,0:17:42.55,0:17:46.03,forest default C,,0,0,0,,{TIME:1062550,1066030}Now, ladies and gentlemen,\Nyou should understand, that that's not me,
+Dialogue: 0,0:17:46.03,0:17:50.10,forest default C,,0,0,0,,{TIME:1066030,1070100}that's someone else who stolen my voice,\Nnow listen up there in the tree!
+Dialogue: 0,0:17:50.26,0:17:55.03,forest default C,,0,0,0,,{TIME:1070260,1075030}{\i1}- Sammy's a liar!{\i0}\N- What?! I'm the real Sammy! What do you mean?
+Dialogue: 0,0:17:57.99,0:18:01.55,forest default C,,0,0,0,,{TIME:1077990,1081550}And that's the way it is, ladies and gentlemen!
+Dialogue: 0,0:18:04.29,0:18:07.64,forest default C,,0,0,0,,{TIME:1084290,1087640}{\i1}I'm Sammy, I'm Sammy, I'm Sammy!{\i}
+Dialogue: 0,0:18:11.28,0:18:15.93,forest default C,,0,0,0,,{TIME:1091280,1095930}{\i1}I'm Sticky, I'm Sticky!\NJust had to imitate your voice, Sticky!{\i}
+Dialogue: 0,0:18:16.07,0:18:19.07,forest default C,,0,0,0,,{TIME:1096070,1099070}{\i1}Excuse me, Sticky!\NI'm Sticky! Remember Sticky?{\i}
+Dialogue: 0,0:18:21.30,0:18:22.30,forest default C,,0,0,0,,{TIME:1101300,1102300}{\i1}I'm Sticky!{\i}
+Dialogue: 0,0:18:22.72,0:18:25.60,forest default C,,0,0,0,,{TIME:1102720,1105600}{\i1}Johnny, why did it turn out this way?{\i}
+Dialogue: 0,0:18:25.63,0:18:27.03,forest default C,,0,0,0,,{TIME:1105630,1107030}{\i1}I can't understand it either!{\i}
+Dialogue: 0,0:18:28.16,0:18:30.14,forest default C,,0,0,0,,{TIME:1108160,1110140}{\i1}Listen, Peter!{\i}
+Dialogue: 0,0:18:31.30,0:18:33.28,forest default C,,0,0,0,,{TIME:1111300,1113280}{\i1}Yoo-hoo, tell me, Peter!{\i}
+Dialogue: 0,0:18:33.72,0:18:37.58,forest default C,,0,0,0,,{TIME:1113720,1117580}{\i1}It is something that's not my concern,\Nbut really this is a problem!{\i}
+Dialogue: 0,0:18:37.63,0:18:40.56,forest default C,,0,0,0,,{TIME:1117630,1120560}{\i1}Who would've thought\Nthat to be alone would be so lonely?{\i}
+Dialogue: 0,0:18:42.95,0:18:44.00,forest default C,,0,0,0,,{TIME:1122950,1124000}That's my voice!
+Dialogue: 0,0:18:44.48,0:18:48.08,forest default C,,0,0,0,,{TIME:1124480,1128080}{\i1}Croack! That's right, what in the earth is this?{\i}
+Dialogue: 0,0:18:48.43,0:18:51.71,forest default C,,0,0,0,,{TIME:1128430,1131710}{\i1}The tranquil Green Forest\Nhas completely become a noisy one!{\i}
+Dialogue: 0,0:18:53.11,0:18:55.94,forest default C,,0,0,0,,{TIME:1133110,1135940}{\i1}It's become... like a big commotion!{\i}
+Dialogue: 0,0:18:55.94,0:18:59.23,forest default C,,0,0,0,,{TIME:1135940,1139230}Why...? Why...? Why...?
+Dialogue: 0,0:19:02.93,0:19:04.99,forest default C,,0,0,0,,{TIME:1142930,1144990}{\i1}Who is in there, anyway?{\i}
+Dialogue: 0,0:19:05.21,0:19:07.34,forest default C,,0,0,0,,{TIME:1145210,1147340}You don't know who I am by now?
+Dialogue: 0,0:19:10.79,0:19:14.09,forest default C,,0,0,0,,{TIME:1150790,1154090}Listen...! Maybe some of you already know,
+Dialogue: 0,0:19:14.09,0:19:16.57,forest default C,,0,0,0,,{TIME:1154090,1156570}but the reason for having you\Nall assembled here
+Dialogue: 0,0:19:16.57,0:19:19.04,forest default C,,0,0,0,,{TIME:1156570,1159040}is to introduce you to a new friend!
+Dialogue: 0,0:19:19.14,0:19:21.88,forest default C,,0,0,0,,{TIME:1159140,1161880}He'll be living here with us in the Green Forest!
+Dialogue: 0,0:19:22.35,0:19:24.72,forest default C,,0,0,0,,{TIME:1162350,1164720}The Mockingbird!
+Dialogue: 0,0:19:25.21,0:19:26.85,forest default C,,0,0,0,,{TIME:1165210,1166850}Mocker!
+Dialogue: 0,0:19:51.73,0:19:55.40,forest default C,,0,0,0,,{TIME:1191730,1195400}Uncle Billy, introduce me to everybody,\Ndo you mind?
+Dialogue: 0,0:20:07.05,0:20:10.55,forest default C,,0,0,0,,{TIME:1207050,1210550}Ladies and gentlemen,\NI would like to introduce you
+Dialogue: 0,0:20:10.55,0:20:14.86,forest default C,,0,0,0,,{TIME:1210550,1214860}to an extraordinary artist and my old friend:
+Dialogue: 0,0:20:14.86,0:20:17.37,forest default C,,0,0,0,,{TIME:1214860,1217370}The Mockingbird Mocker.
+Dialogue: 0,0:20:18.36,0:20:22.48,forest default C,,0,0,0,,{TIME:1218360,1222480}{\i1}Mocker has the world's most wonderful voice!{\i}
+Dialogue: 0,0:20:22.75,0:20:25.32,forest default C,,0,0,0,,{TIME:1222750,1225320}{\i1}Furthermore, he can imitate anyone!{\i}
+Dialogue: 0,0:20:26.46,0:20:31.04,forest default C,,0,0,0,,{TIME:1226460,1231040}By that reason, he has bothered you,\Nfor which I would like to apologise.
+Dialogue: 0,0:20:31.04,0:20:33.08,forest default C,,0,0,0,,{TIME:1231040,1233080}If all of you will permit me,
+Dialogue: 0,0:20:33.08,0:20:37.43,forest default C,,0,0,0,,{TIME:1233080,1237430}I would like to live here,\Nwith all of you, in the Green Forest.
+Dialogue: 0,0:20:40.68,0:20:43.86,forest narrator C,,0,0,0,,{TIME:1240680,1243860}{\i1}Altough Uncle Billy and Mocker\Nwere asking for forgiveness,{\i}
+Dialogue: 0,0:20:43.86,0:20:46.31,forest narrator C,,0,0,0,,{TIME:1243860,1246310}{\i1}there were some\Nwho were not inclined to pardon them.{\i}
+Dialogue: 0,0:20:53.07,0:20:55.25,forest default C,,0,0,0,,{TIME:1253070,1255250}Johnny, what should I do?
+Dialogue: 0,0:20:55.92,0:20:57.85,forest default C,,0,0,0,,{TIME:1255920,1257850}I think I may have overdone it!
+Dialogue: 0,0:20:59.10,0:21:03.62,forest default C,,0,0,0,,{TIME:1259100,1263620}Oh, it's all right!\NRemember, you've got a beautiful voice!
+Dialogue: 0,0:21:03.62,0:21:06.81,forest default C,,0,0,0,,{TIME:1263620,1266810}Why not let everyone hear your song, Mocker!
+Dialogue: 0,0:21:07.77,0:21:09.03,forest default C,,0,0,0,,{TIME:1267770,1269030}My pleasure!
+Dialogue: 0,0:21:53.26,0:21:55.27,forest narrator C,,0,0,0,,{TIME:1313260,1315270}{\i1}Everyone's feelings have been soothe{\i}
+Dialogue: 0,0:21:55.27,0:21:59.06,forest narrator C,,0,0,0,,{TIME:1315270,1319060}{\i1}by the beautiful singing\Nof Mocker, the Mockingbird.{\i}
+Dialogue: 0,0:22:00.48,0:22:04.38,forest narrator C,,0,0,0,,{TIME:1320480,1324380}{\i1}It was so wonderful\Nthat Mocker made many friends.{\i}
+Dialogue: 0,0:22:05.57,0:22:10.36,forest narrator C,,0,0,0,,{TIME:1325570,1330360}{\i1}And he could stay in the Green Forest\Nfor as long as he desired.{\i}
+Dialogue: 0,0:22:17.90,0:22:21.90,forest credits C,,0,0,0,,{TIME:1337900,1341900}{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs

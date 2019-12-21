@@ -14,167 +14,167 @@ Group: OldCastle & South Wind Subs
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,5,10,10,10,1
-Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
+Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,5,10,10,10,1
+Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.00,0:00:08.00,forest title KB,,0,0,0,,FABLES \N of the\NGREEN FOREST
-Dialogue: 0,0:00:04.00,0:00:08.00,forest ep title C,,0,0,0,,{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Reddy Fox and the sheep"{\i}
-Dialogue: 0,0:00:24.94,0:00:27.31,forest default C,,0,0,0,,Peter, run a little slower, will you?
-Dialogue: 0,0:00:38.29,0:00:39.29,forest default C,,0,0,0,,Beetles!
-Dialogue: 0,0:00:41.34,0:00:45.15,forest default C,,0,0,0,,Beetles! Wow-ee!\NThis is the first time I've seen this many!
-Dialogue: 0,0:00:46.06,0:00:48.06,forest default C,,0,0,0,,Johnny, Polly, hurry!
-Dialogue: 0,0:00:50.66,0:00:52.06,forest default C,,0,0,0,,- Amazing!\N- Amazing!
-Dialogue: 0,0:00:52.34,0:00:53.20,forest default C,,0,0,0,,{\i1}Isn't it?{\i}
-Dialogue: 0,0:00:54.79,0:00:57.41,forest default C,,0,0,0,,If Jimmy saw this, he'd sure be happy!
-Dialogue: 0,0:00:57.41,0:00:59.83,forest default C,,0,0,0,,That's true, shall we tell him?
-Dialogue: 0,0:00:59.83,0:01:01.85,forest default C,,0,0,0,,OK, then I'll go tell him!
-Dialogue: 0,0:01:01.85,0:01:04.08,forest default C,,0,0,0,,With my fast feet, it will be but an instant!
-Dialogue: 0,0:01:10.10,0:01:12.19,forest default C,,0,0,0,,That guy, Jimmy, should be very happy!
-Dialogue: 0,0:01:12.19,0:01:15.55,forest default C,,0,0,0,,Whatever the case,\Nbeetles are his favorite food!
-Dialogue: 0,0:01:33.49,0:01:36.34,forest default C,,0,0,0,,That guy, Reddy, napping right in my path...
-Dialogue: 0,0:01:47.33,0:01:48.84,forest default C,,0,0,0,,Hmm, this is bad...
-Dialogue: 0,0:01:55.08,0:01:59.67,forest default C,,0,0,0,,If I pass by real quietly,\Nmaybe that Reddy won't notice.
-Dialogue: 0,0:02:12.43,0:02:13.54,forest default C,,0,0,0,,{\i1}Wait a minute!{\i}
-Dialogue: 0,0:02:13.75,0:02:15.54,forest default C,,0,0,0,,{\i1}That Reddy is pretty shrewd,{\i}
-Dialogue: 0,0:02:15.54,0:02:19.21,forest default C,,0,0,0,,{\i1}so he may just be pretending sleep,\Nwaiting for me to pass by and then...{\i}
-Dialogue: 0,0:02:19.42,0:02:21.56,forest default C,,0,0,0,,{\i1}...budge...\Nwhich I woudn't appreciate...{\i}
-Dialogue: 0,0:02:22.48,0:02:24.25,forest default C,,0,0,0,,{\i1}What an unexpected bit of bad luck!{\i}
-Dialogue: 0,0:02:24.25,0:02:25.80,forest default C,,0,0,0,,{\i1}And all because of that Reddy!{\i}
-Dialogue: 0,0:02:40.57,0:02:43.69,forest default C,,0,0,0,,All because of him,\NI've wasted a lot of my time!
-Dialogue: 0,0:02:52.10,0:02:53.31,forest default C,,0,0,0,,Boy, I'm hungry!
-Dialogue: 0,0:02:53.31,0:02:58.00,forest default C,,0,0,0,,I better go see if I can find myself\Nsomething to eat around here someplace...
-Dialogue: 0,0:02:58.00,0:02:59.50,forest default C,,0,0,0,,{\i1}Hey, Jimmy!{\i}
-Dialogue: 0,0:02:59.62,0:03:03.72,forest default C,,0,0,0,,Jimmy, I just found a place around here\Nwhere there's oodles and oodles of beetles!
-Dialogue: 0,0:03:03.73,0:03:06.35,forest default C,,0,0,0,,Eh, did you say "beetles"?
-Dialogue: 0,0:03:06.35,0:03:09.14,forest default C,,0,0,0,,Yes, and it's not just one or two beetles,
-Dialogue: 0,0:03:09.15,0:03:12.19,forest default C,,0,0,0,,it's two hundred maybe,\Nor three hundred!
-Dialogue: 0,0:03:12.19,0:03:16.08,forest default C,,0,0,0,,Where is it, Peter?\NPlease, tell me-tell me, please!
-Dialogue: 0,0:03:16.41,0:03:18.86,forest default C,,0,0,0,,Follow me!\NI'll take you there!
-Dialogue: 0,0:03:27.40,0:03:30.43,forest default C,,0,0,0,,Gosh, you're sure slow!\NCan't you run any faster?
-Dialogue: 0,0:03:32.04,0:03:34.86,forest default C,,0,0,0,,Sure is impatient that Peter!
-Dialogue: 0,0:03:43.25,0:03:44.60,forest default C,,0,0,0,,How awkward!
-Dialogue: 0,0:03:46.89,0:03:48.96,forest default C,,0,0,0,,What's the matter, Peter?
-Dialogue: 0,0:03:48.96,0:03:51.32,forest default C,,0,0,0,,There, there, beyond that tree!
-Dialogue: 0,0:03:51.32,0:03:55.02,forest default C,,0,0,0,,Eh, beyond that tree?\NIs that where the beetles are?
-Dialogue: 0,0:04:04.10,0:04:07.04,forest narrator C,,0,0,0,,{\i1}Peter suddenly felt like playing a trick.{\i}
-Dialogue: 0,0:04:07.26,0:04:08.40,forest default C,,0,0,0,,Eureka!
-Dialogue: 0,0:04:08.40,0:04:11.54,forest narrator C,,0,0,0,,{\i1}Reddy was always frightening him\Nor chasing him,{\i}
-Dialogue: 0,0:04:11.54,0:04:13.47,forest narrator C,,0,0,0,,{\i1}so now Peter thought...{\i}
-Dialogue: 0,0:04:14.05,0:04:16.27,forest narrator C,,0,0,0,,{\i1}...how can I pay him back?{\i}
-Dialogue: 0,0:04:20.09,0:04:21.09,forest default C,,0,0,0,,That's right, Jimmy!
-Dialogue: 0,0:04:21.09,0:04:23.88,forest default C,,0,0,0,,Beyond that stump there are\Ntasty looking beetles
-Dialogue: 0,0:04:23.88,0:04:26.78,forest default C,,0,0,0,,just swarming all over the clearing!
-Dialogue: 0,0:04:26.95,0:04:28.38,forest default C,,0,0,0,,Really?
-Dialogue: 0,0:04:28.52,0:04:31.42,forest default C,,0,0,0,,No, no! If you go at it recklessly,\Nthey'll run away!
-Dialogue: 0,0:04:31.52,0:04:35.73,forest default C,,0,0,0,,Go quietly up to that tree,\Nand then I'll signal "Go!"
-Dialogue: 0,0:04:35.73,0:04:40.17,forest default C,,0,0,0,,And then you leap out from this side of the\Ntree, do you think you have all of that?
-Dialogue: 0,0:05:05.20,0:05:07.01,forest default C,,0,0,0,,Oh... Go!
-Dialogue: 0,0:05:14.16,0:05:15.42,forest default C,,0,0,0,,I did it!
-Dialogue: 0,0:05:44.71,0:05:46.71,forest default C,,0,0,0,,Aw, my arm!
-Dialogue: 0,0:05:47.20,0:05:48.50,forest default C,,0,0,0,,Oh, what, who...?
-Dialogue: 0,0:05:51.41,0:05:53.16,forest default C,,0,0,0,,What the... Jimmy?
-Dialogue: 0,0:05:55.39,0:05:57.48,forest default C,,0,0,0,,Wha-wha-what are you doing?
-Dialogue: 0,0:05:57.48,0:06:01.23,forest default C,,0,0,0,,I was sleeping so restfully,\Nwhy did you do such a thing?
-Dialogue: 0,0:06:01.68,0:06:02.98,forest default C,,0,0,0,,Forgive me...
-Dialogue: 0,0:06:04.13,0:06:05.92,forest default C,,0,0,0,,Why did you do it?
-Dialogue: 0,0:06:15.34,0:06:16.34,forest default C,,0,0,0,,Pardon me.
-Dialogue: 0,0:06:16.33,0:06:19.55,forest default C,,0,0,0,,There was supposed to be a lot of beetles here,\NPeter told me,
-Dialogue: 0,0:06:19.55,0:06:22.39,forest default C,,0,0,0,,but when I leapt,\Ninstead of beetles it was you!
-Dialogue: 0,0:06:22.51,0:06:23.81,forest default C,,0,0,0,,Peter did?!
-Dialogue: 0,0:06:30.30,0:06:32.51,forest default C,,0,0,0,,Oh, so it was you, Peter!
-Dialogue: 0,0:06:34.37,0:06:35.57,forest default C,,0,0,0,,You, Peter!
-Dialogue: 0,0:06:41.58,0:06:45.42,forest default C,,0,0,0,,Peter sure did a mean thing tricking me\Nthat there were beetles.
-Dialogue: 0,0:06:45.42,0:06:47.99,forest default C,,0,0,0,,Next time he won't get off so easily!
-Dialogue: 0,0:07:08.34,0:07:10.86,forest default C,,0,0,0,,I'm not one to be caught by you, Reddy!
-Dialogue: 0,0:07:17.17,0:07:19.32,forest default C,,0,0,0,,Once I crawl in the Bramble Bush House,
-Dialogue: 0,0:07:19.32,0:07:21.10,forest default C,,0,0,0,,Reddy won't be able to enter!
-Dialogue: 0,0:07:21.14,0:07:23.11,forest default C,,0,0,0,,I'll stop you from blatter!
-Dialogue: 0,0:08:08.30,0:08:10.55,forest default C,,0,0,0,,That Reddy, today he's pretty sticky!
-Dialogue: 0,0:08:15.11,0:08:17.35,forest default C,,0,0,0,,Peter is sure late, Polly!
-Dialogue: 0,0:08:18.14,0:08:22.30,forest default C,,0,0,0,,- "My feet are fast, you know", is what he said, too.\N- Huh?
-Dialogue: 0,0:08:22.30,0:08:25.44,forest default C,,0,0,0,,- He's the fastest one in the forest.\N- Oh, yeah?
-Dialogue: 0,0:08:26.16,0:08:27.29,forest default C,,0,0,0,,- Here he comes!\N- Hm!
-Dialogue: 0,0:08:59.24,0:09:03.17,forest default C,,0,0,0,,Really, that Peter, what a liar\Nsaying that there's a mess of beetles!
-Dialogue: 0,0:09:03.53,0:09:04.18,forest default C,,0,0,0,,Jimmy!
-Dialogue: 0,0:09:04.18,0:09:06.87,forest default C,,0,0,0,,Hi, Johnny and Polly!\NListen to this:
-Dialogue: 0,0:09:07.25,0:09:08.84,forest default C,,0,0,0,,Peter's a terrible guy!
-Dialogue: 0,0:09:08.85,0:09:11.41,forest default C,,0,0,0,,He lured me out saying\Nthere were a lot of beetles,
-Dialogue: 0,0:09:11.41,0:09:14.11,forest default C,,0,0,0,,then he tried to set up a fight\Nbetween Reddy and me!
-Dialogue: 0,0:09:14.12,0:09:16.47,forest default C,,0,0,0,,I don't think that's very nice!
-Dialogue: 0,0:09:17.04,0:09:18.39,forest default C,,0,0,0,,Eh... really?
-Dialogue: 0,0:09:18.63,0:09:21.06,forest default C,,0,0,0,,- But the beetles... it's true!\N- Uh-huh!
-Dialogue: 0,0:09:24.69,0:09:27.63,forest default C,,0,0,0,,Then there...\Nthen there really are some?
-Dialogue: 0,0:09:27.63,0:09:30.91,forest default C,,0,0,0,,No doubt.\NPeter decided to play a trick.
-Dialogue: 0,0:09:31.60,0:09:35.29,forest default C,,0,0,0,,Well... is that so?\NWell, no matter.
-Dialogue: 0,0:09:35.29,0:09:39.97,forest default C,,0,0,0,,Rather... quickly tell me where the beetles are,\Nplease, tell me where they are!
-Dialogue: 0,0:09:40.40,0:09:41.40,forest default C,,0,0,0,,Yeah.
-Dialogue: 0,0:09:41.57,0:09:44.83,forest default C,,0,0,0,,But now... I wonder if Peter's alright.
-Dialogue: 0,0:09:45.11,0:09:48.12,forest default C,,0,0,0,,Peter's alright because\NPeter has fast feet.
-Dialogue: 0,0:09:48.12,0:09:51.64,forest default C,,0,0,0,,But... please, you got to tell me\Nwhere the beetles are,
-Dialogue: 0,0:09:51.64,0:09:53.12,forest default C,,0,0,0,,please, tell me where they are!
-Dialogue: 0,0:12:07.68,0:12:10.58,forest default C,,0,0,0,,Oh, what do I do if Bowser's around?!
-Dialogue: 0,0:12:17.32,0:12:19.45,forest default C,,0,0,0,,That's it, I just got a good idea!
-Dialogue: 0,0:13:35.09,0:13:39.17,forest narrator C,,0,0,0,,{\i1}Well, completely forgetting about\Nhow he was chased all around by Reddy...{\i}
-Dialogue: 0,0:13:39.74,0:13:41.93,forest default C,,0,0,0,,Oh, I can't see them...
-Dialogue: 0,0:13:48.43,0:13:51.85,forest narrator C,,0,0,0,,{\i1}Peter couldn't stop himself\Ntrying to find out{\i}
-Dialogue: 0,0:13:51.85,0:13:54.70,forest narrator C,,0,0,0,,{\i1}how the chase between\NReddy and Bowser was going.{\i}
-Dialogue: 0,0:15:10.01,0:15:14.82,forest default C,,0,0,0,,{\i1}Good it's quieting down now, I'll wait\Nhere till night fall, then return home!{\i}
-Dialogue: 0,0:16:25.86,0:16:29.38,forest default C,,0,0,0,,{\i1}Get this, Reddy:\Nwhen chased by Bowser,{\i}
-Dialogue: 0,0:16:29.38,0:16:33.26,forest default C,,0,0,0,,{\i1}don't do such a stupid thing\Nas running straight home!{\i}
-Dialogue: 0,0:16:34.32,0:16:38.47,forest default C,,0,0,0,,{\i1}- Why?\N- Because, Reddy, you're not thinking carefully!{\i}
-Dialogue: 0,0:16:38.72,0:16:41.08,forest default C,,0,0,0,,{\i1}That's just like telling him\Nwhere our house is located,{\i}
-Dialogue: 0,0:16:41.08,0:16:43.36,forest default C,,0,0,0,,{\i1}and we won't be able to live here anymore!{\i}
-Dialogue: 0,0:16:43.36,0:16:46.18,forest default C,,0,0,0,,{\i1}OK, Granny, I'll try to leave\NBowser in the lurch!{\i}
-Dialogue: 0,0:17:40.84,0:17:42.54,forest default C,,0,0,0,,I'm scared, I'm scared!
-Dialogue: 0,0:17:44.76,0:17:45.53,forest default C,,0,0,0,,{\i1}Reddy!{\i}
-Dialogue: 0,0:17:52.22,0:17:53.22,forest default C,,0,0,0,,Sammy!
-Dialogue: 0,0:17:56.01,0:17:58.85,forest default C,,0,0,0,,Reddy, looks like you're in real trouble!
-Dialogue: 0,0:18:00.92,0:18:05.90,forest default C,,0,0,0,,Say, Sammy, please, please don't perch\Nout there so conspicuously like that,
-Dialogue: 0,0:18:05.90,0:18:07.46,forest default C,,0,0,0,,I'll be in trouble!
-Dialogue: 0,0:18:08.71,0:18:10.46,forest default C,,0,0,0,,Oh, I see!
-Dialogue: 0,0:18:12.56,0:18:14.77,forest default C,,0,0,0,,But Reddy, didn't you know that...
-Dialogue: 0,0:18:15.32,0:18:16.99,forest default C,,0,0,0,,...Bowser's nearsighted?!
-Dialogue: 0,0:18:17.41,0:18:21.17,forest default C,,0,0,0,,You should! Anything in the distance\Nhe sees as a blur!
-Dialogue: 0,0:18:21.25,0:18:24.13,forest default C,,0,0,0,,So that's why he relies on his nose!
-Dialogue: 0,0:18:24.36,0:18:25.73,forest default C,,0,0,0,,Scared, eh, Reddy?
-Dialogue: 0,0:18:25.73,0:18:29.26,forest default C,,0,0,0,,No matter where you flee to,\Nhe'll absolutely smell you out!
-Dialogue: 0,0:18:29.35,0:18:31.85,forest default C,,0,0,0,,{\i1}Bowser's nose is really something!{\i}
-Dialogue: 0,0:18:35.99,0:18:37.12,forest default C,,0,0,0,,Are you nervous?
-Dialogue: 0,0:18:41.22,0:18:43.63,forest default C,,0,0,0,,Well, Reddy, aren't you afraid?
-Dialogue: 0,0:18:43.63,0:18:46.11,forest default C,,0,0,0,,What, me, afraid?\NWho's afraid?
-Dialogue: 0,0:18:47.07,0:18:49.52,forest default C,,0,0,0,,Well, Reddy, keep in there pitching!
-Dialogue: 0,0:18:52.16,0:18:54.13,forest default C,,0,0,0,,If you only had wings like me, Reddy!
-Dialogue: 0,0:18:54.68,0:18:56.88,forest default C,,0,0,0,,Sammy...\NWere you watching too?
-Dialogue: 0,0:18:57.05,0:18:59.07,forest default C,,0,0,0,,Yeah! I just came from talking to Reddy,
-Dialogue: 0,0:18:59.07,0:19:02.17,forest default C,,0,0,0,,and looks like this time,\Nhe won't be able to run away!
-Dialogue: 0,0:19:15.67,0:19:18.89,forest narrator C,,0,0,0,,{\i1}No matter where Reddy hit,\NBowser smelled him out quickly.{\i}
-Dialogue: 0,0:19:19.27,0:19:20.37,forest narrator C,,0,0,0,,{\i1}Oh, dear!{\i}
-Dialogue: 0,0:19:20.67,0:19:23.01,forest narrator C,,0,0,0,,{\i1}Well, this means that he'll certainly be caught!{\i}
-Dialogue: 0,0:19:23.80,0:19:26.84,forest narrator C,,0,0,0,,{\i1}Is there no place in the entire\Nwide Green Meadow,{\i}
-Dialogue: 0,0:19:26.84,0:19:29.62,forest narrator C,,0,0,0,,{\i1}in which he can hide,\Nthat Bowser won't find him?{\i}
-Dialogue: 0,0:19:30.34,0:19:31.77,forest narrator C,,0,0,0,,{\i1}This should not be far off!{\i}
-Dialogue: 0,0:19:32.39,0:19:33.39,forest narrator C,,0,0,0,,{\i1}Poor Reddy!{\i}
-Dialogue: 0,0:19:33.61,0:19:35.31,forest narrator C,,0,0,0,,{\i1}Finally, he started crying.{\i}
-Dialogue: 0,0:20:27.08,0:20:31.07,forest narrator C,,0,0,0,,{\i1}By the time Bowser located the sheep,\Nhe had completely lost Reddy.{\i}
-Dialogue: 0,0:20:33.92,0:20:36.68,forest default C,,0,0,0,,- Peter!\N- Are you alright? What happened to Reddy?
-Dialogue: 0,0:20:36.72,0:20:40.73,forest default C,,0,0,0,,Here, here, here is where we're different!\NThat dumb Reddy!
-Dialogue: 0,0:20:41.19,0:20:42.61,forest default C,,0,0,0,,Trying to catch me!
-Dialogue: 0,0:20:43.37,0:20:45.49,forest default C,,0,0,0,,About now he should be caught by...
-Dialogue: 0,0:20:45.86,0:20:46.86,forest default C,,0,0,0,,{\i1}...Bowser.{\i}
-Dialogue: 0,0:20:47.17,0:20:48.17,forest default C,,0,0,0,,I wonder...
-Dialogue: 0,0:20:51.06,0:20:55.07,forest default C,,0,0,0,,Well, with this, the Green Forest...\Nwill... be peacefull.
-Dialogue: 0,0:20:55.07,0:20:57.62,forest default C,,0,0,0,,I mean, everybody has been hurt by Reddy and...
-Dialogue: 0,0:21:01.82,0:21:05.00,forest default C,,0,0,0,,Hey, guys, at least you could do is\Nto say "Thank you",
-Dialogue: 0,0:21:05.00,0:21:08.18,forest default C,,0,0,0,,I mean, Reddy won't be coming\Naround here anymore and...
-Dialogue: 0,0:21:10.34,0:21:12.64,forest default C,,0,0,0,,If Reddy really doesn't come anymore...
-Dialogue: 0,0:21:13.56,0:21:16.37,forest default C,,0,0,0,,Johnny!\NDon't you believe what I'm saying?
-Dialogue: 0,0:21:16.37,0:21:20.62,forest default C,,0,0,0,,Of course I believe what you're saying, but I just\Ncan't believe that Reddy won't come anymore!
-Dialogue: 0,0:21:20.85,0:21:22.63,forest default C,,0,0,0,,Oh, it's Reddy!
-Dialogue: 0,0:21:23.95,0:21:27.18,forest default C,,0,0,0,,Reddy's not one to be caught\Nby the likes of Bowser!
-Dialogue: 0,0:22:17.90,0:22:21.90,forest credits C,,0,0,0,,{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs
+Dialogue: 0,0:00:02.00,0:00:08.00,forest title KB,,0,0,0,,{TIME:2000,8000}FABLES \N of the\NGREEN FOREST
+Dialogue: 0,0:00:04.00,0:00:08.00,forest ep title C,,0,0,0,,{TIME:4000,8000}{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Reddy Fox and the sheep"{\i}
+Dialogue: 0,0:00:24.94,0:00:27.31,forest default C,,0,0,0,,{TIME:24940,27310}Peter, run a little slower, will you?
+Dialogue: 0,0:00:38.29,0:00:39.29,forest default C,,0,0,0,,{TIME:38290,39290}Beetles!
+Dialogue: 0,0:00:41.34,0:00:45.15,forest default C,,0,0,0,,{TIME:41340,45150}Beetles! Wow-ee!\NThis is the first time I've seen this many!
+Dialogue: 0,0:00:46.06,0:00:48.06,forest default C,,0,0,0,,{TIME:46060,48060}Johnny, Polly, hurry!
+Dialogue: 0,0:00:50.66,0:00:52.06,forest default C,,0,0,0,,{TIME:50660,52060}- Amazing!\N- Amazing!
+Dialogue: 0,0:00:52.34,0:00:53.20,forest default C,,0,0,0,,{TIME:52340,53200}{\i1}Isn't it?{\i}
+Dialogue: 0,0:00:54.79,0:00:57.41,forest default C,,0,0,0,,{TIME:54790,57410}If Jimmy saw this, he'd sure be happy!
+Dialogue: 0,0:00:57.41,0:00:59.83,forest default C,,0,0,0,,{TIME:57410,59830}That's true, shall we tell him?
+Dialogue: 0,0:00:59.83,0:01:01.85,forest default C,,0,0,0,,{TIME:59830,61850}OK, then I'll go tell him!
+Dialogue: 0,0:01:01.85,0:01:04.08,forest default C,,0,0,0,,{TIME:61850,64080}With my fast feet, it will be but an instant!
+Dialogue: 0,0:01:10.10,0:01:12.19,forest default C,,0,0,0,,{TIME:70100,72190}That guy, Jimmy, should be very happy!
+Dialogue: 0,0:01:12.19,0:01:15.55,forest default C,,0,0,0,,{TIME:72190,75550}Whatever the case,\Nbeetles are his favorite food!
+Dialogue: 0,0:01:33.49,0:01:36.34,forest default C,,0,0,0,,{TIME:93490,96340}That guy, Reddy, napping right in my path...
+Dialogue: 0,0:01:47.33,0:01:48.84,forest default C,,0,0,0,,{TIME:107330,108840}Hmm, this is bad...
+Dialogue: 0,0:01:55.08,0:01:59.67,forest default C,,0,0,0,,{TIME:115080,119670}If I pass by real quietly,\Nmaybe that Reddy won't notice.
+Dialogue: 0,0:02:12.43,0:02:13.54,forest default C,,0,0,0,,{TIME:132430,133540}{\i1}Wait a minute!{\i}
+Dialogue: 0,0:02:13.75,0:02:15.54,forest default C,,0,0,0,,{TIME:133750,135540}{\i1}That Reddy is pretty shrewd,{\i}
+Dialogue: 0,0:02:15.54,0:02:19.21,forest default C,,0,0,0,,{TIME:135540,139210}{\i1}so he may just be pretending sleep,\Nwaiting for me to pass by and then...{\i}
+Dialogue: 0,0:02:19.42,0:02:21.56,forest default C,,0,0,0,,{TIME:139420,141560}{\i1}...budge...\Nwhich I woudn't appreciate...{\i}
+Dialogue: 0,0:02:22.48,0:02:24.25,forest default C,,0,0,0,,{TIME:142480,144250}{\i1}What an unexpected bit of bad luck!{\i}
+Dialogue: 0,0:02:24.25,0:02:25.80,forest default C,,0,0,0,,{TIME:144250,145800}{\i1}And all because of that Reddy!{\i}
+Dialogue: 0,0:02:40.57,0:02:43.69,forest default C,,0,0,0,,{TIME:160570,163690}All because of him,\NI've wasted a lot of my time!
+Dialogue: 0,0:02:52.10,0:02:53.31,forest default C,,0,0,0,,{TIME:172100,173310}Boy, I'm hungry!
+Dialogue: 0,0:02:53.31,0:02:58.00,forest default C,,0,0,0,,{TIME:173310,178000}I better go see if I can find myself\Nsomething to eat around here someplace...
+Dialogue: 0,0:02:58.00,0:02:59.50,forest default C,,0,0,0,,{TIME:178000,179500}{\i1}Hey, Jimmy!{\i}
+Dialogue: 0,0:02:59.62,0:03:03.72,forest default C,,0,0,0,,{TIME:179620,183720}Jimmy, I just found a place around here\Nwhere there's oodles and oodles of beetles!
+Dialogue: 0,0:03:03.73,0:03:06.35,forest default C,,0,0,0,,{TIME:183730,186350}Eh, did you say "beetles"?
+Dialogue: 0,0:03:06.35,0:03:09.14,forest default C,,0,0,0,,{TIME:186350,189140}Yes, and it's not just one or two beetles,
+Dialogue: 0,0:03:09.15,0:03:12.19,forest default C,,0,0,0,,{TIME:189150,192190}it's two hundred maybe,\Nor three hundred!
+Dialogue: 0,0:03:12.19,0:03:16.08,forest default C,,0,0,0,,{TIME:192190,196080}Where is it, Peter?\NPlease, tell me-tell me, please!
+Dialogue: 0,0:03:16.41,0:03:18.86,forest default C,,0,0,0,,{TIME:196410,198860}Follow me!\NI'll take you there!
+Dialogue: 0,0:03:27.40,0:03:30.43,forest default C,,0,0,0,,{TIME:207400,210430}Gosh, you're sure slow!\NCan't you run any faster?
+Dialogue: 0,0:03:32.04,0:03:34.86,forest default C,,0,0,0,,{TIME:212040,214860}Sure is impatient that Peter!
+Dialogue: 0,0:03:43.25,0:03:44.60,forest default C,,0,0,0,,{TIME:223250,224600}How awkward!
+Dialogue: 0,0:03:46.89,0:03:48.96,forest default C,,0,0,0,,{TIME:226890,228960}What's the matter, Peter?
+Dialogue: 0,0:03:48.96,0:03:51.32,forest default C,,0,0,0,,{TIME:228960,231320}There, there, beyond that tree!
+Dialogue: 0,0:03:51.32,0:03:55.02,forest default C,,0,0,0,,{TIME:231320,235020}Eh, beyond that tree?\NIs that where the beetles are?
+Dialogue: 0,0:04:04.10,0:04:07.04,forest narrator C,,0,0,0,,{TIME:244100,247040}{\i1}Peter suddenly felt like playing a trick.{\i}
+Dialogue: 0,0:04:07.26,0:04:08.40,forest default C,,0,0,0,,{TIME:247260,248400}Eureka!
+Dialogue: 0,0:04:08.40,0:04:11.54,forest narrator C,,0,0,0,,{TIME:248400,251540}{\i1}Reddy was always frightening him\Nor chasing him,{\i}
+Dialogue: 0,0:04:11.54,0:04:13.47,forest narrator C,,0,0,0,,{TIME:251540,253470}{\i1}so now Peter thought...{\i}
+Dialogue: 0,0:04:14.05,0:04:16.27,forest narrator C,,0,0,0,,{TIME:254050,256270}{\i1}...how can I pay him back?{\i}
+Dialogue: 0,0:04:20.09,0:04:21.09,forest default C,,0,0,0,,{TIME:260090,261090}That's right, Jimmy!
+Dialogue: 0,0:04:21.09,0:04:23.88,forest default C,,0,0,0,,{TIME:261090,263880}Beyond that stump there are\Ntasty looking beetles
+Dialogue: 0,0:04:23.88,0:04:26.78,forest default C,,0,0,0,,{TIME:263880,266780}just swarming all over the clearing!
+Dialogue: 0,0:04:26.95,0:04:28.38,forest default C,,0,0,0,,{TIME:266950,268380}Really?
+Dialogue: 0,0:04:28.52,0:04:31.42,forest default C,,0,0,0,,{TIME:268520,271420}No, no! If you go at it recklessly,\Nthey'll run away!
+Dialogue: 0,0:04:31.52,0:04:35.73,forest default C,,0,0,0,,{TIME:271520,275730}Go quietly up to that tree,\Nand then I'll signal "Go!"
+Dialogue: 0,0:04:35.73,0:04:40.17,forest default C,,0,0,0,,{TIME:275730,280170}And then you leap out from this side of the\Ntree, do you think you have all of that?
+Dialogue: 0,0:05:05.20,0:05:07.01,forest default C,,0,0,0,,{TIME:305200,307010}Oh... Go!
+Dialogue: 0,0:05:14.16,0:05:15.42,forest default C,,0,0,0,,{TIME:314160,315420}I did it!
+Dialogue: 0,0:05:44.71,0:05:46.71,forest default C,,0,0,0,,{TIME:344710,346710}Aw, my arm!
+Dialogue: 0,0:05:47.20,0:05:48.50,forest default C,,0,0,0,,{TIME:347200,348500}Oh, what, who...?
+Dialogue: 0,0:05:51.41,0:05:53.16,forest default C,,0,0,0,,{TIME:351410,353160}What the... Jimmy?
+Dialogue: 0,0:05:55.39,0:05:57.48,forest default C,,0,0,0,,{TIME:355390,357480}Wha-wha-what are you doing?
+Dialogue: 0,0:05:57.48,0:06:01.23,forest default C,,0,0,0,,{TIME:357480,361230}I was sleeping so restfully,\Nwhy did you do such a thing?
+Dialogue: 0,0:06:01.68,0:06:02.98,forest default C,,0,0,0,,{TIME:361680,362980}Forgive me...
+Dialogue: 0,0:06:04.13,0:06:05.92,forest default C,,0,0,0,,{TIME:364130,365920}Why did you do it?
+Dialogue: 0,0:06:15.34,0:06:16.34,forest default C,,0,0,0,,{TIME:375340,376340}Pardon me.
+Dialogue: 0,0:06:16.33,0:06:19.55,forest default C,,0,0,0,,{TIME:376330,379550}There was supposed to be a lot of beetles here,\NPeter told me,
+Dialogue: 0,0:06:19.55,0:06:22.39,forest default C,,0,0,0,,{TIME:379550,382390}but when I leapt,\Ninstead of beetles it was you!
+Dialogue: 0,0:06:22.51,0:06:23.81,forest default C,,0,0,0,,{TIME:382510,383810}Peter did?!
+Dialogue: 0,0:06:30.30,0:06:32.51,forest default C,,0,0,0,,{TIME:390300,392510}Oh, so it was you, Peter!
+Dialogue: 0,0:06:34.37,0:06:35.57,forest default C,,0,0,0,,{TIME:394370,395570}You, Peter!
+Dialogue: 0,0:06:41.58,0:06:45.42,forest default C,,0,0,0,,{TIME:401580,405420}Peter sure did a mean thing tricking me\Nthat there were beetles.
+Dialogue: 0,0:06:45.42,0:06:47.99,forest default C,,0,0,0,,{TIME:405420,407990}Next time he won't get off so easily!
+Dialogue: 0,0:07:08.34,0:07:10.86,forest default C,,0,0,0,,{TIME:428340,430860}I'm not one to be caught by you, Reddy!
+Dialogue: 0,0:07:17.17,0:07:19.32,forest default C,,0,0,0,,{TIME:437170,439320}Once I crawl in the Bramble Bush House,
+Dialogue: 0,0:07:19.32,0:07:21.10,forest default C,,0,0,0,,{TIME:439320,441100}Reddy won't be able to enter!
+Dialogue: 0,0:07:21.14,0:07:23.11,forest default C,,0,0,0,,{TIME:441140,443110}I'll stop you from blatter!
+Dialogue: 0,0:08:08.30,0:08:10.55,forest default C,,0,0,0,,{TIME:488300,490550}That Reddy, today he's pretty sticky!
+Dialogue: 0,0:08:15.11,0:08:17.35,forest default C,,0,0,0,,{TIME:495110,497350}Peter is sure late, Polly!
+Dialogue: 0,0:08:18.14,0:08:22.30,forest default C,,0,0,0,,{TIME:498140,502300}- "My feet are fast, you know", is what he said, too.\N- Huh?
+Dialogue: 0,0:08:22.30,0:08:25.44,forest default C,,0,0,0,,{TIME:502300,505440}- He's the fastest one in the forest.\N- Oh, yeah?
+Dialogue: 0,0:08:26.16,0:08:27.29,forest default C,,0,0,0,,{TIME:506160,507290}- Here he comes!\N- Hm!
+Dialogue: 0,0:08:59.24,0:09:03.17,forest default C,,0,0,0,,{TIME:539240,543170}Really, that Peter, what a liar\Nsaying that there's a mess of beetles!
+Dialogue: 0,0:09:03.53,0:09:04.18,forest default C,,0,0,0,,{TIME:543530,544180}Jimmy!
+Dialogue: 0,0:09:04.18,0:09:06.87,forest default C,,0,0,0,,{TIME:544180,546870}Hi, Johnny and Polly!\NListen to this:
+Dialogue: 0,0:09:07.25,0:09:08.84,forest default C,,0,0,0,,{TIME:547250,548840}Peter's a terrible guy!
+Dialogue: 0,0:09:08.85,0:09:11.41,forest default C,,0,0,0,,{TIME:548850,551410}He lured me out saying\Nthere were a lot of beetles,
+Dialogue: 0,0:09:11.41,0:09:14.11,forest default C,,0,0,0,,{TIME:551410,554110}then he tried to set up a fight\Nbetween Reddy and me!
+Dialogue: 0,0:09:14.12,0:09:16.47,forest default C,,0,0,0,,{TIME:554120,556470}I don't think that's very nice!
+Dialogue: 0,0:09:17.04,0:09:18.39,forest default C,,0,0,0,,{TIME:557040,558390}Eh... really?
+Dialogue: 0,0:09:18.63,0:09:21.06,forest default C,,0,0,0,,{TIME:558630,561060}- But the beetles... it's true!\N- Uh-huh!
+Dialogue: 0,0:09:24.69,0:09:27.63,forest default C,,0,0,0,,{TIME:564690,567630}Then there...\Nthen there really are some?
+Dialogue: 0,0:09:27.63,0:09:30.91,forest default C,,0,0,0,,{TIME:567630,570910}No doubt.\NPeter decided to play a trick.
+Dialogue: 0,0:09:31.60,0:09:35.29,forest default C,,0,0,0,,{TIME:571600,575290}Well... is that so?\NWell, no matter.
+Dialogue: 0,0:09:35.29,0:09:39.97,forest default C,,0,0,0,,{TIME:575290,579970}Rather... quickly tell me where the beetles are,\Nplease, tell me where they are!
+Dialogue: 0,0:09:40.40,0:09:41.40,forest default C,,0,0,0,,{TIME:580400,581400}Yeah.
+Dialogue: 0,0:09:41.57,0:09:44.83,forest default C,,0,0,0,,{TIME:581570,584830}But now... I wonder if Peter's alright.
+Dialogue: 0,0:09:45.11,0:09:48.12,forest default C,,0,0,0,,{TIME:585110,588120}Peter's alright because\NPeter has fast feet.
+Dialogue: 0,0:09:48.12,0:09:51.64,forest default C,,0,0,0,,{TIME:588120,591640}But... please, you got to tell me\Nwhere the beetles are,
+Dialogue: 0,0:09:51.64,0:09:53.12,forest default C,,0,0,0,,{TIME:591640,593120}please, tell me where they are!
+Dialogue: 0,0:12:07.68,0:12:10.58,forest default C,,0,0,0,,{TIME:727680,730580}Oh, what do I do if Bowser's around?!
+Dialogue: 0,0:12:17.32,0:12:19.45,forest default C,,0,0,0,,{TIME:737320,739450}That's it, I just got a good idea!
+Dialogue: 0,0:13:35.09,0:13:39.17,forest narrator C,,0,0,0,,{TIME:815090,819170}{\i1}Well, completely forgetting about\Nhow he was chased all around by Reddy...{\i}
+Dialogue: 0,0:13:39.74,0:13:41.93,forest default C,,0,0,0,,{TIME:819740,821930}Oh, I can't see them...
+Dialogue: 0,0:13:48.43,0:13:51.85,forest narrator C,,0,0,0,,{TIME:828430,831850}{\i1}Peter couldn't stop himself\Ntrying to find out{\i}
+Dialogue: 0,0:13:51.85,0:13:54.70,forest narrator C,,0,0,0,,{TIME:831850,834700}{\i1}how the chase between\NReddy and Bowser was going.{\i}
+Dialogue: 0,0:15:10.01,0:15:14.82,forest default C,,0,0,0,,{TIME:910010,914820}{\i1}Good it's quieting down now, I'll wait\Nhere till night fall, then return home!{\i}
+Dialogue: 0,0:16:25.86,0:16:29.38,forest default C,,0,0,0,,{TIME:985860,989380}{\i1}Get this, Reddy:\Nwhen chased by Bowser,{\i}
+Dialogue: 0,0:16:29.38,0:16:33.26,forest default C,,0,0,0,,{TIME:989380,993260}{\i1}don't do such a stupid thing\Nas running straight home!{\i}
+Dialogue: 0,0:16:34.32,0:16:38.47,forest default C,,0,0,0,,{TIME:994320,998470}{\i1}- Why?\N- Because, Reddy, you're not thinking carefully!{\i}
+Dialogue: 0,0:16:38.72,0:16:41.08,forest default C,,0,0,0,,{TIME:998720,1001080}{\i1}That's just like telling him\Nwhere our house is located,{\i}
+Dialogue: 0,0:16:41.08,0:16:43.36,forest default C,,0,0,0,,{TIME:1001080,1003360}{\i1}and we won't be able to live here anymore!{\i}
+Dialogue: 0,0:16:43.36,0:16:46.18,forest default C,,0,0,0,,{TIME:1003360,1006180}{\i1}OK, Granny, I'll try to leave\NBowser in the lurch!{\i}
+Dialogue: 0,0:17:40.84,0:17:42.54,forest default C,,0,0,0,,{TIME:1060840,1062540}I'm scared, I'm scared!
+Dialogue: 0,0:17:44.76,0:17:45.53,forest default C,,0,0,0,,{TIME:1064760,1065530}{\i1}Reddy!{\i}
+Dialogue: 0,0:17:52.22,0:17:53.22,forest default C,,0,0,0,,{TIME:1072220,1073220}Sammy!
+Dialogue: 0,0:17:56.01,0:17:58.85,forest default C,,0,0,0,,{TIME:1076010,1078850}Reddy, looks like you're in real trouble!
+Dialogue: 0,0:18:00.92,0:18:05.90,forest default C,,0,0,0,,{TIME:1080920,1085900}Say, Sammy, please, please don't perch\Nout there so conspicuously like that,
+Dialogue: 0,0:18:05.90,0:18:07.46,forest default C,,0,0,0,,{TIME:1085900,1087460}I'll be in trouble!
+Dialogue: 0,0:18:08.71,0:18:10.46,forest default C,,0,0,0,,{TIME:1088710,1090460}Oh, I see!
+Dialogue: 0,0:18:12.56,0:18:14.77,forest default C,,0,0,0,,{TIME:1092560,1094770}But Reddy, didn't you know that...
+Dialogue: 0,0:18:15.32,0:18:16.99,forest default C,,0,0,0,,{TIME:1095320,1096990}...Bowser's nearsighted?!
+Dialogue: 0,0:18:17.41,0:18:21.17,forest default C,,0,0,0,,{TIME:1097410,1101170}You should! Anything in the distance\Nhe sees as a blur!
+Dialogue: 0,0:18:21.25,0:18:24.13,forest default C,,0,0,0,,{TIME:1101250,1104130}So that's why he relies on his nose!
+Dialogue: 0,0:18:24.36,0:18:25.73,forest default C,,0,0,0,,{TIME:1104360,1105730}Scared, eh, Reddy?
+Dialogue: 0,0:18:25.73,0:18:29.26,forest default C,,0,0,0,,{TIME:1105730,1109260}No matter where you flee to,\Nhe'll absolutely smell you out!
+Dialogue: 0,0:18:29.35,0:18:31.85,forest default C,,0,0,0,,{TIME:1109350,1111850}{\i1}Bowser's nose is really something!{\i}
+Dialogue: 0,0:18:35.99,0:18:37.12,forest default C,,0,0,0,,{TIME:1115990,1117120}Are you nervous?
+Dialogue: 0,0:18:41.22,0:18:43.63,forest default C,,0,0,0,,{TIME:1121220,1123630}Well, Reddy, aren't you afraid?
+Dialogue: 0,0:18:43.63,0:18:46.11,forest default C,,0,0,0,,{TIME:1123630,1126110}What, me, afraid?\NWho's afraid?
+Dialogue: 0,0:18:47.07,0:18:49.52,forest default C,,0,0,0,,{TIME:1127070,1129520}Well, Reddy, keep in there pitching!
+Dialogue: 0,0:18:52.16,0:18:54.13,forest default C,,0,0,0,,{TIME:1132160,1134130}If you only had wings like me, Reddy!
+Dialogue: 0,0:18:54.68,0:18:56.88,forest default C,,0,0,0,,{TIME:1134680,1136880}Sammy...\NWere you watching too?
+Dialogue: 0,0:18:57.05,0:18:59.07,forest default C,,0,0,0,,{TIME:1137050,1139070}Yeah! I just came from talking to Reddy,
+Dialogue: 0,0:18:59.07,0:19:02.17,forest default C,,0,0,0,,{TIME:1139070,1142170}and looks like this time,\Nhe won't be able to run away!
+Dialogue: 0,0:19:15.67,0:19:18.89,forest narrator C,,0,0,0,,{TIME:1155670,1158890}{\i1}No matter where Reddy hit,\NBowser smelled him out quickly.{\i}
+Dialogue: 0,0:19:19.27,0:19:20.37,forest narrator C,,0,0,0,,{TIME:1159270,1160370}{\i1}Oh, dear!{\i}
+Dialogue: 0,0:19:20.67,0:19:23.01,forest narrator C,,0,0,0,,{TIME:1160670,1163010}{\i1}Well, this means that he'll certainly be caught!{\i}
+Dialogue: 0,0:19:23.80,0:19:26.84,forest narrator C,,0,0,0,,{TIME:1163800,1166840}{\i1}Is there no place in the entire\Nwide Green Meadow,{\i}
+Dialogue: 0,0:19:26.84,0:19:29.62,forest narrator C,,0,0,0,,{TIME:1166840,1169620}{\i1}in which he can hide,\Nthat Bowser won't find him?{\i}
+Dialogue: 0,0:19:30.34,0:19:31.77,forest narrator C,,0,0,0,,{TIME:1170340,1171770}{\i1}This should not be far off!{\i}
+Dialogue: 0,0:19:32.39,0:19:33.39,forest narrator C,,0,0,0,,{TIME:1172390,1173390}{\i1}Poor Reddy!{\i}
+Dialogue: 0,0:19:33.61,0:19:35.31,forest narrator C,,0,0,0,,{TIME:1173610,1175310}{\i1}Finally, he started crying.{\i}
+Dialogue: 0,0:20:27.08,0:20:31.07,forest narrator C,,0,0,0,,{TIME:1227080,1231070}{\i1}By the time Bowser located the sheep,\Nhe had completely lost Reddy.{\i}
+Dialogue: 0,0:20:33.92,0:20:36.68,forest default C,,0,0,0,,{TIME:1233920,1236680}- Peter!\N- Are you alright? What happened to Reddy?
+Dialogue: 0,0:20:36.72,0:20:40.73,forest default C,,0,0,0,,{TIME:1236720,1240730}Here, here, here is where we're different!\NThat dumb Reddy!
+Dialogue: 0,0:20:41.19,0:20:42.61,forest default C,,0,0,0,,{TIME:1241190,1242610}Trying to catch me!
+Dialogue: 0,0:20:43.37,0:20:45.49,forest default C,,0,0,0,,{TIME:1243370,1245490}About now he should be caught by...
+Dialogue: 0,0:20:45.86,0:20:46.86,forest default C,,0,0,0,,{TIME:1245860,1246860}{\i1}...Bowser.{\i}
+Dialogue: 0,0:20:47.17,0:20:48.17,forest default C,,0,0,0,,{TIME:1247170,1248170}I wonder...
+Dialogue: 0,0:20:51.06,0:20:55.07,forest default C,,0,0,0,,{TIME:1251060,1255070}Well, with this, the Green Forest...\Nwill... be peacefull.
+Dialogue: 0,0:20:55.07,0:20:57.62,forest default C,,0,0,0,,{TIME:1255070,1257620}I mean, everybody has been hurt by Reddy and...
+Dialogue: 0,0:21:01.82,0:21:05.00,forest default C,,0,0,0,,{TIME:1261820,1265000}Hey, guys, at least you could do is\Nto say "Thank you",
+Dialogue: 0,0:21:05.00,0:21:08.18,forest default C,,0,0,0,,{TIME:1265000,1268180}I mean, Reddy won't be coming\Naround here anymore and...
+Dialogue: 0,0:21:10.34,0:21:12.64,forest default C,,0,0,0,,{TIME:1270340,1272640}If Reddy really doesn't come anymore...
+Dialogue: 0,0:21:13.56,0:21:16.37,forest default C,,0,0,0,,{TIME:1273560,1276370}Johnny!\NDon't you believe what I'm saying?
+Dialogue: 0,0:21:16.37,0:21:20.62,forest default C,,0,0,0,,{TIME:1276370,1280620}Of course I believe what you're saying, but I just\Ncan't believe that Reddy won't come anymore!
+Dialogue: 0,0:21:20.85,0:21:22.63,forest default C,,0,0,0,,{TIME:1280850,1282630}Oh, it's Reddy!
+Dialogue: 0,0:21:23.95,0:21:27.18,forest default C,,0,0,0,,{TIME:1283950,1287180}Reddy's not one to be caught\Nby the likes of Bowser!
+Dialogue: 0,0:22:17.90,0:22:21.90,forest credits C,,0,0,0,,{TIME:1337900,1341900}{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs

@@ -14,238 +14,238 @@ Group: OldCastle & South Wind Subs
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,5,10,10,10,1
-Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
+Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,5,10,10,10,1
+Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.86,0:00:06.86,forest title KB,,0,0,0,,FABLES \N of the \NGREEN FOREST
-Dialogue: 0,0:00:00.86,0:00:03.89,forest ep title C,,0,0,0,,{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Mischievous Chatterer"{\i}
-Dialogue: 0,0:00:08.57,0:00:11.51,forest lyrics C,,0,0,0,,{\i1}I got news, I got news, I got news,\NRead all about it!{\i}
-Dialogue: 0,0:00:11.51,0:00:14.33,forest lyrics C,,0,0,0,,{\i1}I got news, I got news, I got news,\NAlright I shout it!{\i}
-Dialogue: 0,0:00:14.33,0:00:16.99,forest lyrics C,,0,0,0,,{\i1}When the moles are excavating,\NAnd the bears are hibernating,{\i}
-Dialogue: 0,0:00:16.99,0:00:19.73,forest lyrics C,,0,0,0,,{\i1}And the hoot owl are debating,\NThat is news! Ah!{\i}
-Dialogue: 0,0:00:19.92,0:00:22.04,forest lyrics C,,0,0,0,,{\i1}When the rabbits' multiplying,\NI report it!{\i}
-Dialogue: 0,0:00:22.38,0:00:24.78,forest lyrics C,,0,0,0,,{\i1}I'm a-tellin like it is,\NI have no choice!{\i}
-Dialogue: 0,0:00:25.15,0:00:27.55,forest lyrics C,,0,0,0,,{\i1}I am for freedom of the press,\NI support it!{\i}
-Dialogue: 0,0:00:27.92,0:00:30.55,forest lyrics C,,0,0,0,,{\i1}But when trouble comes to you,\NHow I rejoice!!{\i}
-Dialogue: 0,0:00:30.55,0:00:34.02,forest lyrics C,,0,0,0,,{\i1}- I got news, I got news,\NHow the rumour's born as bubble!{\i}
-Dialogue: 0,0:00:34.02,0:00:37.01,forest lyrics C,,0,0,0,,{\i1}I got news, I got news,\NIt's that Chatterer's in trouble!{\i}
-Dialogue: 0,0:00:37.06,0:00:38.49,forest lyrics C,,0,0,0,,{\i1}Chatterer's in trouble!{\i}
-Dialogue: 0,0:00:38.50,0:00:40.75,forest lyrics C,,0,0,0,,{\i1}When woodpeckers break the news,\NI decode it!{\i}
-Dialogue: 0,0:00:40.95,0:00:43.68,forest lyrics C,,0,0,0,,{\i1}When the bullfrog speaks a myth,\NI exploit it!{\i}
-Dialogue: 0,0:00:43.97,0:00:46.88,forest lyrics C,,0,0,0,,{\i1}I got news, I got news\NMaster in the major!{\i}
-Dialogue: 0,0:00:46.88,0:00:51.56,forest lyrics C,,0,0,0,,{\i1}I got news, headline news,\NChatterer's in danger, Chatterer's in danger!{\i}
-Dialogue: 0,0:00:51.56,0:00:54.23,forest lyrics C,,0,0,0,,{\i1}That is the end of the news!\NAh-ah!{\i}
-Dialogue: 0,0:00:56.22,0:00:59.39,forest default C,,0,0,0,,Johnny! Polly!\NYou know why Chatterer's so depressed?
-Dialogue: 0,0:01:03.61,0:01:08.80,forest default C,,0,0,0,,The reason Chatterer is depressed is because...\Nthe Mean Weasel is coming home!
-Dialogue: 0,0:01:09.19,0:01:10.81,forest default C,,0,0,0,,The Mean Weasel?!
-Dialogue: 0,0:01:11.76,0:01:14.73,forest default C,,0,0,0,,Dear me, no wonder Chatterer is so glum!
-Dialogue: 0,0:01:15.07,0:01:16.68,forest default C,,0,0,0,,Trouble, trouble, trouble,\Na-ha!
-Dialogue: 0,0:01:16.68,0:01:19.41,forest default C,,0,0,0,,When I told Chatterer the bad news,\Nhe trembled like a leaf!
-Dialogue: 0,0:01:19.96,0:01:21.56,forest default C,,0,0,0,,Isn't that sad?
-Dialogue: 0,0:01:21.56,0:01:22.66,forest default C,,0,0,0,,- Oh!\N- Hi, Chatterer!
-Dialogue: 0,0:01:24.38,0:01:25.99,forest default C,,0,0,0,,Hey, we're big friends?
-Dialogue: 0,0:01:26.00,0:01:29.00,forest default C,,0,0,0,,Just because it's not your problem,\Nyou're all having fun on my expense!
-Dialogue: 0,0:01:29.00,0:01:31.18,forest default C,,0,0,0,,That's not true at all, Chatterer!
-Dialogue: 0,0:01:31.18,0:01:33.58,forest default C,,0,0,0,,Johnny's right, we're afraid\Nof the Mean Weasel!
-Dialogue: 0,0:01:33.81,0:01:37.28,forest default C,,0,0,0,,You're lucky, Peter, you can hide\Nin that thorny mansion!
-Dialogue: 0,0:01:37.28,0:01:40.86,forest default C,,0,0,0,,I've no place to go,\NI can't escape from the Mean Weasel!
-Dialogue: 0,0:01:40.86,0:01:43.15,forest default C,,0,0,0,,Now, we've got to do something!
-Dialogue: 0,0:01:43.64,0:01:47.92,forest default C,,0,0,0,,Words, words!\NThere's nothing you possibly can do!
-Dialogue: 0,0:01:53.68,0:01:55.81,forest default C,,0,0,0,,Wow, he's really petrified!
-Dialogue: 0,0:01:58.71,0:02:00.59,forest default C,,0,0,0,,Ah, fascinating!
-Dialogue: 0,0:02:01.40,0:02:06.50,forest default C,,0,0,0,,Extra! Chatterer faces disaster,\Nhe runs fast, the weasel's faster!
-Dialogue: 0,0:02:07.10,0:02:08.84,forest default C,,0,0,0,,Grandfather Frog?
-Dialogue: 0,0:02:09.54,0:02:11.85,forest default C,,0,0,0,,Please, help me, Grandfather Frog!
-Dialogue: 0,0:02:11.85,0:02:15.24,forest default C,,0,0,0,,Please, tell me what to do about this!
-Dialogue: 0,0:02:15.72,0:02:19.11,forest default C,,0,0,0,,The problem is you're such a meddling busybody!
-Dialogue: 0,0:02:19.11,0:02:22.14,forest default C,,0,0,0,,Someone sent the Weasel out to get you,\NChatterer!
-Dialogue: 0,0:02:22.14,0:02:25.96,forest default C,,0,0,0,,Problems, I already have problems!\NGive me solutions!
-Dialogue: 0,0:02:26.80,0:02:28.87,forest default C,,0,0,0,,For your problem I have no solution!
-Dialogue: 0,0:02:28.87,0:02:31.65,forest default C,,0,0,0,,Why don't you discuss it with\Nyour friends in the forest, huh?
-Dialogue: 0,0:02:31.65,0:02:34.96,forest default C,,0,0,0,,Friends?! With friends like that,\Nwho needs enemies?
-Dialogue: 0,0:02:35.43,0:02:37.26,forest default C,,0,0,0,,You're being ridiculous, Chatterer!
-Dialogue: 0,0:02:37.26,0:02:40.47,forest default C,,0,0,0,,If you can't trust your friends,\Nit's time for you to leave the Green Forest!
-Dialogue: 0,0:02:44.68,0:02:47.01,forest default C,,0,0,0,,I guess I'd better\Nleave the forest...!
-Dialogue: 0,0:02:47.81,0:02:49.48,forest default C,,0,0,0,,How crushing...!
-Dialogue: 0,0:02:49.48,0:02:53.16,forest default C,,0,0,0,,Oh, I've got it!\NThere's no need for me to leave by myself!
-Dialogue: 0,0:02:54.01,0:02:56.43,forest default C,,0,0,0,,I've got it, I'll take someone with me!
-Dialogue: 0,0:03:02.50,0:03:05.72,forest narrator C,,0,0,0,,{\i1}So Chatterer decided,\Nhe would heed his own advice.{\i}
-Dialogue: 0,0:03:05.72,0:03:09.58,forest narrator C,,0,0,0,,{\i1}He has a diabolical plan,\Nit doesn't seem quite nice.{\i}
-Dialogue: 0,0:03:14.40,0:03:18.29,forest lyrics C,,0,0,0,,{\i1}My name is Reddy Fox,\NI'm a very bold guy,{\i}
-Dialogue: 0,0:03:18.38,0:03:22.24,forest lyrics C,,0,0,0,,{\i1}You're amazed by my IQ,\NAnd my very sharp eyes.{\i}
-Dialogue: 0,0:03:22.24,0:03:25.74,forest lyrics C,,0,0,0,,{\i1}I have a briliant brain,\NAnd even red...{\i}
-Dialogue: 0,0:03:25.74,0:03:27.62,forest default C,,0,0,0,,Oh, there you are, you crafty fox!
-Dialogue: 0,0:03:27.62,0:03:30.40,forest default C,,0,0,0,,I'm not the only one that calls you crafty,
-Dialogue: 0,0:03:30.40,0:03:33.34,forest default C,,0,0,0,,everyone in the forest calls you crafty!
-Dialogue: 0,0:03:33.34,0:03:35.70,forest default C,,0,0,0,,Everyone? Even the birds?
-Dialogue: 0,0:03:36.02,0:03:40.26,forest default C,,0,0,0,,That's right! Furthermore, they all shout,\N"We don't dread, silly Red!"
-Dialogue: 0,0:03:41.86,0:03:42.72,forest default C,,0,0,0,,I'll show them!
-Dialogue: 0,0:03:42.72,0:03:47.36,forest default C,,0,0,0,,Run over to Lonesome Pine,\Neveryone who calls you silly is gathered there!
-Dialogue: 0,0:03:49.02,0:03:51.10,forest default C,,0,0,0,,This is bad for my ego!
-Dialogue: 0,0:03:51.10,0:03:54.75,forest default C,,0,0,0,,I'll show those animals how nasty I could be!
-Dialogue: 0,0:03:58.76,0:04:00.06,forest default C,,0,0,0,,He fell for it!
-Dialogue: 0,0:04:00.09,0:04:03.88,forest default C,,0,0,0,,They'll all be terrified, and some of them\Nwill bid to escape from here with me!
-Dialogue: 0,0:04:04.99,0:04:08.90,forest narrator C,,0,0,0,,{\i1}Who could conceive such a frightful plan?!\NObviously, Chatterer can.{\i}
-Dialogue: 0,0:04:09.82,0:04:14.19,forest default C,,0,0,0,,Well, don't just sit there saying nothing!\NLet's do something!
-Dialogue: 0,0:04:19.41,0:04:22.47,forest default C,,0,0,0,,Well-well, you sure are\Nan inspired looking group!
-Dialogue: 0,0:04:22.47,0:04:25.94,forest default C,,0,0,0,,Why... it sure would astound me\Nif one of you had the courage
-Dialogue: 0,0:04:25.94,0:04:29.56,forest default C,,0,0,0,,to face the challenge and chase\Nthe Mean Weasel out of the Green Forest!
-Dialogue: 0,0:04:31.79,0:04:35.85,forest default C,,0,0,0,,Oh, if there's one brave one among you,\Nmy troubles would be over!
-Dialogue: 0,0:04:35.85,0:04:37.61,forest default C,,0,0,0,,Alright, then, we'll fight!
-Dialogue: 0,0:04:38.00,0:04:39.88,forest default C,,0,0,0,,Huh? Are you mad?
-Dialogue: 0,0:04:39.91,0:04:42.37,forest default C,,0,0,0,,Why, there's not a soul amoung us\Nwho can beat the Mean Weasel!
-Dialogue: 0,0:04:42.38,0:04:44.04,forest default C,,0,0,0,,That's why we must all fight!
-Dialogue: 0,0:04:44.04,0:04:47.10,forest default C,,0,0,0,,United we stand,\Ndivided we perish!
-Dialogue: 0,0:04:47.11,0:04:49.70,forest default C,,0,0,0,,When you say "we"\Nare you including me?
-Dialogue: 0,0:04:49.70,0:04:52.84,forest default C,,0,0,0,,Why must we all fight\Nfor a rascal like Chatterer?
-Dialogue: 0,0:04:53.37,0:04:56.57,forest default C,,0,0,0,,He's always haunting us, insulting us,\Ncalling us names!
-Dialogue: 0,0:04:56.69,0:05:00.75,forest default C,,0,0,0,,I know that Chatterer persists\Nand annoys us continually, it's true...
-Dialogue: 0,0:05:00.76,0:05:04.56,forest default C,,0,0,0,,...but... but he lives here in the Green Forest\Nwith us, and we should all act neighbourly!
-Dialogue: 0,0:05:04.96,0:05:06.70,forest default C,,0,0,0,,{\i1}Hm... Thanks!{\i}
-Dialogue: 0,0:05:11.56,0:05:16.18,forest default C,,0,0,0,,Well, even though he has teased us,\Nall he has hurt is our pride, yeah!
-Dialogue: 0,0:05:16.18,0:05:19.93,forest default C,,0,0,0,,It is not that he hurt us, it's just that\Nhe likes practical jokes, that's all!
-Dialogue: 0,0:05:21.07,0:05:24.40,forest default C,,0,0,0,,If Chatterer leaves,\Nthe forest will be a duller place!
-Dialogue: 0,0:05:24.47,0:05:27.47,forest default C,,0,0,0,,You're right!\NChatterer can be quite amusing!
-Dialogue: 0,0:05:28.61,0:05:30.76,forest default C,,0,0,0,,But how can we contend with the Mean Weasel?
-Dialogue: 0,0:05:30.76,0:05:33.02,forest default C,,0,0,0,,We can fight and beat him too!
-Dialogue: 0,0:05:33.02,0:05:35.95,forest default C,,0,0,0,,Remember, we've all got our secret weapons!
-Dialogue: 0,0:05:36.21,0:05:40.21,forest default C,,0,0,0,,Hey, the weak ones will cooperate,\Nand union their strength!
-Dialogue: 0,0:05:40.33,0:05:43.78,forest default C,,0,0,0,,- Yeah!\N- Let's do it!
-Dialogue: 0,0:05:53.50,0:05:55.62,forest default C,,0,0,0,,Oh! It's Reddy the Fox!
-Dialogue: 0,0:05:58.59,0:06:00.45,forest default C,,0,0,0,,Alright, everybody, freeze!
-Dialogue: 0,0:06:00.45,0:06:02.90,forest default C,,0,0,0,,Which one of you called me silly?\NWas it you, Peter?
-Dialogue: 0,0:06:03.16,0:06:04.44,forest default C,,0,0,0,,N-n-n-no!
-Dialogue: 0,0:06:04.91,0:06:06.39,forest default C,,0,0,0,,Was it you, Rabbit?
-Dialogue: 0,0:06:07.07,0:06:08.07,forest default C,,0,0,0,,No!
-Dialogue: 0,0:06:08.73,0:06:10.13,forest default C,,0,0,0,,You, Sammy?
-Dialogue: 0,0:06:10.71,0:06:12.36,forest default C,,0,0,0,,Who, me?!\NNever!
-Dialogue: 0,0:06:13.22,0:06:15.37,forest default C,,0,0,0,,Then it must be you, Johnny!
-Dialogue: 0,0:06:15.68,0:06:18.86,forest default C,,0,0,0,,Oh, no-no-no!\NNo, I'd never offend you, Reddy!
-Dialogue: 0,0:06:18.86,0:06:22.36,forest default C,,0,0,0,,Stop lying! I've got my information\Nfrom a very reliable source!
-Dialogue: 0,0:06:23.18,0:06:25.40,forest default C,,0,0,0,,- You can't mean Chatterer?!\N- You can't mean Chatterer?!
-Dialogue: 0,0:06:28.48,0:06:29.68,forest default C,,0,0,0,,Chatterer?
-Dialogue: 0,0:06:30.40,0:06:32.24,forest default C,,0,0,0,,Well... I... uh...
-Dialogue: 0,0:06:32.24,0:06:35.99,forest default C,,0,0,0,,How could you lie to Reddy the Fox...\Nabout us?
-Dialogue: 0,0:06:38.57,0:06:41.14,forest default C,,0,0,0,,Why do you do such things like that, Chatterer?
-Dialogue: 0,0:06:41.47,0:06:43.98,forest default C,,0,0,0,,Why, I was only jesting...
-Dialogue: 0,0:06:44.44,0:06:48.03,forest default C,,0,0,0,,It really doesn't make any difference\Nbecause you're all gonna get it!
-Dialogue: 0,0:06:48.49,0:06:49.49,forest default C,,0,0,0,,{\i1}Oh! Look out!{\i}
-Dialogue: 0,0:06:57.76,0:07:01.00,forest default C,,0,0,0,,Hold it, all of you!\NDon't run away like cowards!
-Dialogue: 0,0:07:01.00,0:07:03.36,forest default C,,0,0,0,,Didn't we all agree\Nto stand together and fight?
-Dialogue: 0,0:07:03.36,0:07:04.66,forest default C,,0,0,0,,Where's all your courage?
-Dialogue: 0,0:07:05.08,0:07:07.02,forest default C,,0,0,0,,I'm scared silly!
-Dialogue: 0,0:07:12.72,0:07:17.50,forest default C,,0,0,0,,What's this?\NAll you can say is "Me-ow!"
-Dialogue: 0,0:07:19.14,0:07:20.91,forest default C,,0,0,0,,Don't run away, don't panic!
-Dialogue: 0,0:07:54.97,0:07:58.15,forest default C,,0,0,0,,Well, I... it just came to my mind\Nit's Sunday!
-Dialogue: 0,0:07:58.15,0:08:00.94,forest default C,,0,0,0,,I never fight on Sundays,\Nit's against my principles!
-Dialogue: 0,0:08:03.46,0:08:07.67,forest default C,,0,0,0,,I'm not afraid of you...\Nit's just that I'm very religious!
-Dialogue: 0,0:08:12.86,0:08:15.00,forest default C,,0,0,0,,Phew! That was close!
-Dialogue: 0,0:08:15.28,0:08:17.20,forest default C,,0,0,0,,{\i1}- We did it!\N- Thank goodness!{\i}
-Dialogue: 0,0:08:22.75,0:08:25.02,forest default C,,0,0,0,,Hey, that's a signal from Drummer!
-Dialogue: 0,0:08:27.96,0:08:29.74,forest default C,,0,0,0,,I think that he says...
-Dialogue: 0,0:08:29.74,0:08:33.33,forest default C,,0,0,0,,...he says the Mean Weasel has been sighted\Nat the Laughing Brook and he's on his way!
-Dialogue: 0,0:08:33.64,0:08:36.30,forest default C,,0,0,0,,Oh!\NI'm getting nervous!
-Dialogue: 0,0:08:40.90,0:08:42.05,forest default C,,0,0,0,,Bye!
-Dialogue: 0,0:08:44.58,0:08:47.40,forest default C,,0,0,0,,Well, here comes the weasel!\NMercy me!
-Dialogue: 0,0:09:00.36,0:09:05.47,forest default C,,0,0,0,,See who you're up against, squirrel!\NChatterer, I'm gonna get you!
-Dialogue: 0,0:09:08.72,0:09:11.84,forest lyrics C,,0,0,0,,{\i1}I'm a mad-mad weasel!\NV-v-very vicious,{\i}
-Dialogue: 0,0:09:11.84,0:09:15.24,forest lyrics C,,0,0,0,,{\i1}F-f-field mice are tasty,\NBut squirrels are delicious!{\i}
-Dialogue: 0,0:09:31.33,0:09:34.92,forest default C,,0,0,0,,Hello, Mr. Woodpecker!\NIt's me, Mr. Weasel!
-Dialogue: 0,0:09:47.50,0:09:51.44,forest default C,,0,0,0,,I understand every peck!\NSOS, Mean Weasel in Green Forest!
-Dialogue: 0,0:09:52.79,0:09:56.10,forest default C,,0,0,0,,I just wanna... well...\Nwanna... ask... uh...
-Dialogue: 0,0:09:56.60,0:09:58.44,forest default C,,0,0,0,,Wanna know where Chatterer is, right?
-Dialogue: 0,0:09:58.86,0:10:00.53,forest default C,,0,0,0,,Yeah... yeah...
-Dialogue: 0,0:10:00.53,0:10:03.69,forest default C,,0,0,0,,Well, I don't know anything about it!\NSo ask somebody else!
-Dialogue: 0,0:10:07.86,0:10:10.44,forest default C,,0,0,0,,You don't have to tell me!\NI already know!
-Dialogue: 0,0:10:18.51,0:10:22.08,forest default C,,0,0,0,,Red alert! The Mean Weasel\Nhas entered the Green Forest...!
-Dialogue: 0,0:10:31.95,0:10:36.53,forest narrator C,,0,0,0,,{\i1}Tension mounts, the river flows\NWhen trouble comes, the river knows!{\i}
-Dialogue: 0,0:10:39.46,0:10:41.99,forest default C,,0,0,0,,I'm going, the Mean Weasel's on the lose!
-Dialogue: 0,0:10:42.13,0:10:44.20,forest default C,,0,0,0,,I hate to leave this behind!
-Dialogue: 0,0:11:08.81,0:11:10.82,forest default C,,0,0,0,,Johnny, I'm worried!
-Dialogue: 0,0:11:11.44,0:11:15.28,forest default C,,0,0,0,,- Uh, don't be!\N- I was thinking about Chatterer!
-Dialogue: 0,0:11:16.51,0:11:20.16,forest default C,,0,0,0,,Who gives a hoot! I don't care\Nwhat happens to that little troublemaker!
-Dialogue: 0,0:11:27.70,0:11:32.67,forest default C,,0,0,0,,Polly, why is it that everything Chatterer\Nsays and does upset me so much?
-Dialogue: 0,0:11:33.59,0:11:36.84,forest narrator C,,0,0,0,,{\i1}Polly is perturbed,\NStill she keeps in mind,{\i}
-Dialogue: 0,0:11:36.84,0:11:40.30,forest narrator C,,0,0,0,,{\i1}Though he's acting grumpy,\NJohnny still is kind.{\i}
-Dialogue: 0,0:11:47.44,0:11:50.35,forest default C,,0,0,0,,I'm all alone in a friendless world!
-Dialogue: 0,0:11:57.47,0:12:00.36,forest default C,,0,0,0,,I just can't leave the Green Forest!
-Dialogue: 0,0:12:01.29,0:12:04.52,forest narrator C,,0,0,0,,{\i1}Does Chatterer see the Weasel?\NI don't think so.{\i}
-Dialogue: 0,0:12:04.94,0:12:06.91,forest narrator C,,0,0,0,,{\i1}Will the Weasel trap Chatterer?{\i}
-Dialogue: 0,0:12:07.78,0:12:09.98,forest narrator C,,0,0,0,,{\i1}Will Chatterer's friends defend him?{\i}
-Dialogue: 0,0:12:11.40,0:12:12.85,forest narrator C,,0,0,0,,{\i1}We'll have to see.{\i}
-Dialogue: 0,0:12:13.89,0:12:17.00,forest default C,,0,0,0,,Johnny, how annoying digging a hole here!
-Dialogue: 0,0:12:17.54,0:12:18.98,forest default C,,0,0,0,,I'm sorry, Peter!
-Dialogue: 0,0:12:19.87,0:12:22.00,forest default C,,0,0,0,,Next time, think before you dig!
-Dialogue: 0,0:12:23.33,0:12:25.74,forest default C,,0,0,0,,Hey, what's wrong,\Nyou look so gloomy!
-Dialogue: 0,0:12:27.00,0:12:28.87,forest default C,,0,0,0,,- Huh?!\N- Huh?!
-Dialogue: 0,0:12:28.87,0:12:31.06,forest default C,,0,0,0,,- The Weasel's found Chatterer!\N- Oh!
-Dialogue: 0,0:12:31.09,0:12:34.20,forest default C,,0,0,0,,- They've converged at the Little Path!\N- I've gotta go!
-Dialogue: 0,0:12:36.05,0:12:38.32,forest default C,,0,0,0,,Not again!\NHow annoying!
-Dialogue: 0,0:12:45.36,0:12:46.95,forest default C,,0,0,0,,Johnny, where are you going?
-Dialogue: 0,0:12:46.95,0:12:49.81,forest default C,,0,0,0,,I'm going to see\Nif I can help out Chatterer, Peter!
-Dialogue: 0,0:12:51.67,0:12:54.19,forest default C,,0,0,0,,Johnny, don't!\NStop, you'll get hurt!
-Dialogue: 0,0:12:56.75,0:13:01.60,forest default C,,0,0,0,,That woodchuck, he's so fullhearty!\NHe doesn't stand a ghost of a chance!
-Dialogue: 0,0:13:03.05,0:13:05.34,forest default C,,0,0,0,,Robber-robber-robber!\NThief-thief-thief!
-Dialogue: 0,0:13:05.34,0:13:07.63,forest default C,,0,0,0,,Robber-robber-robber!\NThief! Robber!
-Dialogue: 0,0:13:22.25,0:13:24.53,forest default C,,0,0,0,,Everybody, get out!\NChatterer's in trouble!
-Dialogue: 0,0:13:24.53,0:13:27.41,forest default C,,0,0,0,,Hey, everybody!\NCome on, Chatterer needs your help!
-Dialogue: 0,0:13:27.41,0:13:29.06,forest default C,,0,0,0,,- Everybody, come on, get out!\N- Uh?!
-Dialogue: 0,0:13:29.06,0:13:31.40,forest default C,,0,0,0,,Chatterer needs your help!\NHurry, hurry, come on with me!
-Dialogue: 0,0:13:31.40,0:13:33.89,forest default C,,0,0,0,,{\i1}- Chatterer needs your help...{\i}\N- Uh?!
-Dialogue: 0,0:13:38.98,0:13:43.35,forest narrator C,,0,0,0,,{\i1}And despite the roaring din\NThe weasel keeps closing in.{\i}
-Dialogue: 0,0:13:43.35,0:13:47.79,forest narrator C,,0,0,0,,{\i1}Bounding through the tallest tree,\NChatterer darts crazily.{\i}
-Dialogue: 0,0:13:49.43,0:13:51.29,forest narrator C,,0,0,0,,{\i1}But the Weasel is so limber...{\i}
-Dialogue: 0,0:13:52.53,0:13:54.62,forest narrator C,,0,0,0,,{\i1}He just oozes through the timber.{\i}
-Dialogue: 0,0:13:56.82,0:14:01.20,forest narrator C,,0,0,0,,{\i1}Chatterer's petrified,\NSearching for a place to hide.{\i}
-Dialogue: 0,0:14:23.65,0:14:25.22,forest default C,,0,0,0,,Oh, I wish I could run faster!
-Dialogue: 0,0:14:25.22,0:14:26.49,forest default C,,0,0,0,,- Hey, Johnny!\N- Huh?!
-Dialogue: 0,0:14:27.94,0:14:28.94,forest default C,,0,0,0,,You're OK?
-Dialogue: 0,0:14:29.04,0:14:30.84,forest default C,,0,0,0,,Yeah! Hey, the Woodpecker reports
-Dialogue: 0,0:14:30.84,0:14:33.83,forest default C,,0,0,0,,that the Mean Weasel has chased Chatterer\Nto the mouth of the river!
-Dialogue: 0,0:14:34.48,0:14:36.28,forest default C,,0,0,0,,Let's take the shortcut!
-Dialogue: 0,0:14:41.65,0:14:42.75,forest default C,,0,0,0,,{\i1}I'll get you, Chatterer!{\i}
-Dialogue: 0,0:14:47.30,0:14:48.70,forest default C,,0,0,0,,{\i1}I'll get my hands on you!{\i}
-Dialogue: 0,0:14:55.33,0:14:57.94,forest default C,,0,0,0,,I got you now, Ch-Ch-Chatterer!
-Dialogue: 0,0:14:59.40,0:15:00.60,forest default C,,0,0,0,,It's all over for you!
-Dialogue: 0,0:15:01.37,0:15:03.19,forest default C,,0,0,0,,Oh, where am I gonna go?!
-Dialogue: 0,0:15:03.19,0:15:04.48,forest default C,,0,0,0,,Oh, run, Chatterer!
-Dialogue: 0,0:15:04.48,0:15:06.21,forest default C,,0,0,0,,Yeah, nearly now, Chatterer!
-Dialogue: 0,0:15:08.13,0:15:11.16,forest default C,,0,0,0,,Oh! Watch it! Oh, no, I just got you!
-Dialogue: 0,0:15:13.18,0:15:14.38,forest default C,,0,0,0,,Help me, please!
-Dialogue: 0,0:15:15.18,0:15:19.38,forest default C,,0,0,0,,Ah...!
-Dialogue: 0,0:15:21.48,0:15:23.52,forest default C,,0,0,0,,I-I c-c-can't believe it!
-Dialogue: 0,0:15:23.52,0:15:25.42,forest default C,,0,0,0,,Where did they all c-c-come from?!
-Dialogue: 0,0:15:26.00,0:15:27.00,forest default C,,0,0,0,,Oh, no!
-Dialogue: 0,0:15:42.42,0:15:46.08,forest default C,,0,0,0,,I hope Johnny and the others\Ncome out of this unharmed!
-Dialogue: 0,0:15:46.43,0:15:48.29,forest default C,,0,0,0,,Chatterer, wake up!
-Dialogue: 0,0:15:54.20,0:15:57.49,forest default C,,0,0,0,,Oh! Oh!\NWhe-whe-where am I?!
-Dialogue: 0,0:15:59.55,0:16:02.15,forest default C,,0,0,0,,Look! They're all fighting for you,\NChatterer!
-Dialogue: 0,0:16:02.15,0:16:04.66,forest default C,,0,0,0,,For me?! Oh my!
-Dialogue: 0,0:16:10.66,0:16:14.89,forest default C,,0,0,0,,It takes more of you to get me,\NI'll tell you! Yeah!
-Dialogue: 0,0:16:15.81,0:16:19.84,forest default C,,0,0,0,,Oh, heaven, Polly, what can we do?\NThey're no match for the Mean Weasel!
-Dialogue: 0,0:16:24.52,0:16:26.48,forest default C,,0,0,0,,It's Whitetail the Hawk!
-Dialogue: 0,0:16:30.23,0:16:31.23,forest default C,,0,0,0,,Chatterer!
-Dialogue: 0,0:16:32.28,0:16:36.53,forest default C,,0,0,0,,Hey, there, Mean Weasel, come up here!\NI dare you to come up here! Hey!
-Dialogue: 0,0:16:37.83,0:16:39.73,forest default C,,0,0,0,,D-d-darn it, Chatterer!
-Dialogue: 0,0:16:40.05,0:16:42.55,forest default C,,0,0,0,,Coward, coward!\NI double dare you!
-Dialogue: 0,0:16:51.80,0:16:53.82,forest default C,,0,0,0,,Chatterer, you're in trouble,\NI'll get you!
-Dialogue: 0,0:17:02.48,0:17:04.73,forest default C,,0,0,0,,Oh, no!\NWhat I'd do now?!
-Dialogue: 0,0:17:05.84,0:17:09.64,forest default C,,0,0,0,,Help! Oh, no!\NSomebody help me! Help me!
-Dialogue: 0,0:17:11.26,0:17:12.87,forest default C,,0,0,0,,Help, help!
-Dialogue: 0,0:17:12.87,0:17:15.24,forest default C,,0,0,0,,Help, oh, help!
-Dialogue: 0,0:17:43.38,0:17:47.30,forest default C,,0,0,0,,What a day!\NOh heaven, a paradise!
-Dialogue: 0,0:17:47.74,0:17:49.89,forest default C,,0,0,0,,Oh, my friendly pond!
-Dialogue: 0,0:17:51.48,0:17:54.65,forest default C,,0,0,0,,My, oh my!\NYou certainly look happy, Chatterer!
-Dialogue: 0,0:17:55.04,0:17:57.32,forest default C,,0,0,0,,Bliss! Pure bliss!
-Dialogue: 0,0:17:57.59,0:18:02.03,forest default C,,0,0,0,,It appears that you decided\Nnot to leave the Green Forest, huh?!
-Dialogue: 0,0:18:02.29,0:18:05.21,forest default C,,0,0,0,,How could I ever leave my good friends?
-Dialogue: 0,0:18:06.99,0:18:09.05,forest default C,,0,0,0,,All is well that ends well...
-Dialogue: 0,0:18:11.96,0:18:13.05,forest default C,,0,0,0,,...knock on wood!
-Dialogue: 0,0:18:15.68,0:18:19.78,forest narrator C,,0,0,0,,{\i1}Despite Chatterer's mischief,\Nhis friends save the day!{\i}
-Dialogue: 0,0:18:21.84,0:18:25.70,forest credits C,,0,0,0,,{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs
+Dialogue: 0,0:00:00.86,0:00:06.86,forest title KB,,0,0,0,,{TIME:860,6860}FABLES \N of the \NGREEN FOREST
+Dialogue: 0,0:00:00.86,0:00:03.89,forest ep title C,,0,0,0,,{TIME:860,3890}{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Mischievous Chatterer"{\i}
+Dialogue: 0,0:00:08.57,0:00:11.51,forest lyrics C,,0,0,0,,{TIME:8570,11510}{\i1}I got news, I got news, I got news,\NRead all about it!{\i}
+Dialogue: 0,0:00:11.51,0:00:14.33,forest lyrics C,,0,0,0,,{TIME:11510,14330}{\i1}I got news, I got news, I got news,\NAlright I shout it!{\i}
+Dialogue: 0,0:00:14.33,0:00:16.99,forest lyrics C,,0,0,0,,{TIME:14330,16990}{\i1}When the moles are excavating,\NAnd the bears are hibernating,{\i}
+Dialogue: 0,0:00:16.99,0:00:19.73,forest lyrics C,,0,0,0,,{TIME:16990,19730}{\i1}And the hoot owl are debating,\NThat is news! Ah!{\i}
+Dialogue: 0,0:00:19.92,0:00:22.04,forest lyrics C,,0,0,0,,{TIME:19920,22040}{\i1}When the rabbits' multiplying,\NI report it!{\i}
+Dialogue: 0,0:00:22.38,0:00:24.78,forest lyrics C,,0,0,0,,{TIME:22380,24780}{\i1}I'm a-tellin like it is,\NI have no choice!{\i}
+Dialogue: 0,0:00:25.15,0:00:27.55,forest lyrics C,,0,0,0,,{TIME:25150,27550}{\i1}I am for freedom of the press,\NI support it!{\i}
+Dialogue: 0,0:00:27.92,0:00:30.55,forest lyrics C,,0,0,0,,{TIME:27920,30550}{\i1}But when trouble comes to you,\NHow I rejoice!!{\i}
+Dialogue: 0,0:00:30.55,0:00:34.02,forest lyrics C,,0,0,0,,{TIME:30550,34020}{\i1}- I got news, I got news,\NHow the rumour's born as bubble!{\i}
+Dialogue: 0,0:00:34.02,0:00:37.01,forest lyrics C,,0,0,0,,{TIME:34020,37010}{\i1}I got news, I got news,\NIt's that Chatterer's in trouble!{\i}
+Dialogue: 0,0:00:37.06,0:00:38.49,forest lyrics C,,0,0,0,,{TIME:37060,38490}{\i1}Chatterer's in trouble!{\i}
+Dialogue: 0,0:00:38.50,0:00:40.75,forest lyrics C,,0,0,0,,{TIME:38500,40750}{\i1}When woodpeckers break the news,\NI decode it!{\i}
+Dialogue: 0,0:00:40.95,0:00:43.68,forest lyrics C,,0,0,0,,{TIME:40950,43680}{\i1}When the bullfrog speaks a myth,\NI exploit it!{\i}
+Dialogue: 0,0:00:43.97,0:00:46.88,forest lyrics C,,0,0,0,,{TIME:43970,46880}{\i1}I got news, I got news\NMaster in the major!{\i}
+Dialogue: 0,0:00:46.88,0:00:51.56,forest lyrics C,,0,0,0,,{TIME:46880,51560}{\i1}I got news, headline news,\NChatterer's in danger, Chatterer's in danger!{\i}
+Dialogue: 0,0:00:51.56,0:00:54.23,forest lyrics C,,0,0,0,,{TIME:51560,54230}{\i1}That is the end of the news!\NAh-ah!{\i}
+Dialogue: 0,0:00:56.22,0:00:59.39,forest default C,,0,0,0,,{TIME:56220,59390}Johnny! Polly!\NYou know why Chatterer's so depressed?
+Dialogue: 0,0:01:03.61,0:01:08.80,forest default C,,0,0,0,,{TIME:63610,68800}The reason Chatterer is depressed is because...\Nthe Mean Weasel is coming home!
+Dialogue: 0,0:01:09.19,0:01:10.81,forest default C,,0,0,0,,{TIME:69190,70810}The Mean Weasel?!
+Dialogue: 0,0:01:11.76,0:01:14.73,forest default C,,0,0,0,,{TIME:71760,74730}Dear me, no wonder Chatterer is so glum!
+Dialogue: 0,0:01:15.07,0:01:16.68,forest default C,,0,0,0,,{TIME:75070,76680}Trouble, trouble, trouble,\Na-ha!
+Dialogue: 0,0:01:16.68,0:01:19.41,forest default C,,0,0,0,,{TIME:76680,79410}When I told Chatterer the bad news,\Nhe trembled like a leaf!
+Dialogue: 0,0:01:19.96,0:01:21.56,forest default C,,0,0,0,,{TIME:79960,81560}Isn't that sad?
+Dialogue: 0,0:01:21.56,0:01:22.66,forest default C,,0,0,0,,{TIME:81560,82660}- Oh!\N- Hi, Chatterer!
+Dialogue: 0,0:01:24.38,0:01:25.99,forest default C,,0,0,0,,{TIME:84380,85990}Hey, we're big friends?
+Dialogue: 0,0:01:26.00,0:01:29.00,forest default C,,0,0,0,,{TIME:86000,89000}Just because it's not your problem,\Nyou're all having fun on my expense!
+Dialogue: 0,0:01:29.00,0:01:31.18,forest default C,,0,0,0,,{TIME:89000,91180}That's not true at all, Chatterer!
+Dialogue: 0,0:01:31.18,0:01:33.58,forest default C,,0,0,0,,{TIME:91180,93580}Johnny's right, we're afraid\Nof the Mean Weasel!
+Dialogue: 0,0:01:33.81,0:01:37.28,forest default C,,0,0,0,,{TIME:93810,97280}You're lucky, Peter, you can hide\Nin that thorny mansion!
+Dialogue: 0,0:01:37.28,0:01:40.86,forest default C,,0,0,0,,{TIME:97280,100860}I've no place to go,\NI can't escape from the Mean Weasel!
+Dialogue: 0,0:01:40.86,0:01:43.15,forest default C,,0,0,0,,{TIME:100860,103150}Now, we've got to do something!
+Dialogue: 0,0:01:43.64,0:01:47.92,forest default C,,0,0,0,,{TIME:103640,107920}Words, words!\NThere's nothing you possibly can do!
+Dialogue: 0,0:01:53.68,0:01:55.81,forest default C,,0,0,0,,{TIME:113680,115810}Wow, he's really petrified!
+Dialogue: 0,0:01:58.71,0:02:00.59,forest default C,,0,0,0,,{TIME:118710,120590}Ah, fascinating!
+Dialogue: 0,0:02:01.40,0:02:06.50,forest default C,,0,0,0,,{TIME:121400,126500}Extra! Chatterer faces disaster,\Nhe runs fast, the weasel's faster!
+Dialogue: 0,0:02:07.10,0:02:08.84,forest default C,,0,0,0,,{TIME:127100,128840}Grandfather Frog?
+Dialogue: 0,0:02:09.54,0:02:11.85,forest default C,,0,0,0,,{TIME:129540,131850}Please, help me, Grandfather Frog!
+Dialogue: 0,0:02:11.85,0:02:15.24,forest default C,,0,0,0,,{TIME:131850,135240}Please, tell me what to do about this!
+Dialogue: 0,0:02:15.72,0:02:19.11,forest default C,,0,0,0,,{TIME:135720,139110}The problem is you're such a meddling busybody!
+Dialogue: 0,0:02:19.11,0:02:22.14,forest default C,,0,0,0,,{TIME:139110,142140}Someone sent the Weasel out to get you,\NChatterer!
+Dialogue: 0,0:02:22.14,0:02:25.96,forest default C,,0,0,0,,{TIME:142140,145960}Problems, I already have problems!\NGive me solutions!
+Dialogue: 0,0:02:26.80,0:02:28.87,forest default C,,0,0,0,,{TIME:146800,148870}For your problem I have no solution!
+Dialogue: 0,0:02:28.87,0:02:31.65,forest default C,,0,0,0,,{TIME:148870,151650}Why don't you discuss it with\Nyour friends in the forest, huh?
+Dialogue: 0,0:02:31.65,0:02:34.96,forest default C,,0,0,0,,{TIME:151650,154960}Friends?! With friends like that,\Nwho needs enemies?
+Dialogue: 0,0:02:35.43,0:02:37.26,forest default C,,0,0,0,,{TIME:155430,157260}You're being ridiculous, Chatterer!
+Dialogue: 0,0:02:37.26,0:02:40.47,forest default C,,0,0,0,,{TIME:157260,160470}If you can't trust your friends,\Nit's time for you to leave the Green Forest!
+Dialogue: 0,0:02:44.68,0:02:47.01,forest default C,,0,0,0,,{TIME:164680,167010}I guess I'd better\Nleave the forest...!
+Dialogue: 0,0:02:47.81,0:02:49.48,forest default C,,0,0,0,,{TIME:167810,169480}How crushing...!
+Dialogue: 0,0:02:49.48,0:02:53.16,forest default C,,0,0,0,,{TIME:169480,173160}Oh, I've got it!\NThere's no need for me to leave by myself!
+Dialogue: 0,0:02:54.01,0:02:56.43,forest default C,,0,0,0,,{TIME:174010,176430}I've got it, I'll take someone with me!
+Dialogue: 0,0:03:02.50,0:03:05.72,forest narrator C,,0,0,0,,{TIME:182500,185720}{\i1}So Chatterer decided,\Nhe would heed his own advice.{\i}
+Dialogue: 0,0:03:05.72,0:03:09.58,forest narrator C,,0,0,0,,{TIME:185720,189580}{\i1}He has a diabolical plan,\Nit doesn't seem quite nice.{\i}
+Dialogue: 0,0:03:14.40,0:03:18.29,forest lyrics C,,0,0,0,,{TIME:194400,198290}{\i1}My name is Reddy Fox,\NI'm a very bold guy,{\i}
+Dialogue: 0,0:03:18.38,0:03:22.24,forest lyrics C,,0,0,0,,{TIME:198380,202240}{\i1}You're amazed by my IQ,\NAnd my very sharp eyes.{\i}
+Dialogue: 0,0:03:22.24,0:03:25.74,forest lyrics C,,0,0,0,,{TIME:202240,205740}{\i1}I have a briliant brain,\NAnd even red...{\i}
+Dialogue: 0,0:03:25.74,0:03:27.62,forest default C,,0,0,0,,{TIME:205740,207620}Oh, there you are, you crafty fox!
+Dialogue: 0,0:03:27.62,0:03:30.40,forest default C,,0,0,0,,{TIME:207620,210400}I'm not the only one that calls you crafty,
+Dialogue: 0,0:03:30.40,0:03:33.34,forest default C,,0,0,0,,{TIME:210400,213340}everyone in the forest calls you crafty!
+Dialogue: 0,0:03:33.34,0:03:35.70,forest default C,,0,0,0,,{TIME:213340,215700}Everyone? Even the birds?
+Dialogue: 0,0:03:36.02,0:03:40.26,forest default C,,0,0,0,,{TIME:216020,220260}That's right! Furthermore, they all shout,\N"We don't dread, silly Red!"
+Dialogue: 0,0:03:41.86,0:03:42.72,forest default C,,0,0,0,,{TIME:221860,222720}I'll show them!
+Dialogue: 0,0:03:42.72,0:03:47.36,forest default C,,0,0,0,,{TIME:222720,227360}Run over to Lonesome Pine,\Neveryone who calls you silly is gathered there!
+Dialogue: 0,0:03:49.02,0:03:51.10,forest default C,,0,0,0,,{TIME:229020,231100}This is bad for my ego!
+Dialogue: 0,0:03:51.10,0:03:54.75,forest default C,,0,0,0,,{TIME:231100,234750}I'll show those animals how nasty I could be!
+Dialogue: 0,0:03:58.76,0:04:00.06,forest default C,,0,0,0,,{TIME:238760,240060}He fell for it!
+Dialogue: 0,0:04:00.09,0:04:03.88,forest default C,,0,0,0,,{TIME:240090,243880}They'll all be terrified, and some of them\Nwill bid to escape from here with me!
+Dialogue: 0,0:04:04.99,0:04:08.90,forest narrator C,,0,0,0,,{TIME:244990,248900}{\i1}Who could conceive such a frightful plan?!\NObviously, Chatterer can.{\i}
+Dialogue: 0,0:04:09.82,0:04:14.19,forest default C,,0,0,0,,{TIME:249820,254190}Well, don't just sit there saying nothing!\NLet's do something!
+Dialogue: 0,0:04:19.41,0:04:22.47,forest default C,,0,0,0,,{TIME:259410,262470}Well-well, you sure are\Nan inspired looking group!
+Dialogue: 0,0:04:22.47,0:04:25.94,forest default C,,0,0,0,,{TIME:262470,265940}Why... it sure would astound me\Nif one of you had the courage
+Dialogue: 0,0:04:25.94,0:04:29.56,forest default C,,0,0,0,,{TIME:265940,269560}to face the challenge and chase\Nthe Mean Weasel out of the Green Forest!
+Dialogue: 0,0:04:31.79,0:04:35.85,forest default C,,0,0,0,,{TIME:271790,275850}Oh, if there's one brave one among you,\Nmy troubles would be over!
+Dialogue: 0,0:04:35.85,0:04:37.61,forest default C,,0,0,0,,{TIME:275850,277610}Alright, then, we'll fight!
+Dialogue: 0,0:04:38.00,0:04:39.88,forest default C,,0,0,0,,{TIME:278000,279880}Huh? Are you mad?
+Dialogue: 0,0:04:39.91,0:04:42.37,forest default C,,0,0,0,,{TIME:279910,282370}Why, there's not a soul amoung us\Nwho can beat the Mean Weasel!
+Dialogue: 0,0:04:42.38,0:04:44.04,forest default C,,0,0,0,,{TIME:282380,284040}That's why we must all fight!
+Dialogue: 0,0:04:44.04,0:04:47.10,forest default C,,0,0,0,,{TIME:284040,287100}United we stand,\Ndivided we perish!
+Dialogue: 0,0:04:47.11,0:04:49.70,forest default C,,0,0,0,,{TIME:287110,289700}When you say "we"\Nare you including me?
+Dialogue: 0,0:04:49.70,0:04:52.84,forest default C,,0,0,0,,{TIME:289700,292840}Why must we all fight\Nfor a rascal like Chatterer?
+Dialogue: 0,0:04:53.37,0:04:56.57,forest default C,,0,0,0,,{TIME:293370,296570}He's always haunting us, insulting us,\Ncalling us names!
+Dialogue: 0,0:04:56.69,0:05:00.75,forest default C,,0,0,0,,{TIME:296690,300750}I know that Chatterer persists\Nand annoys us continually, it's true...
+Dialogue: 0,0:05:00.76,0:05:04.56,forest default C,,0,0,0,,{TIME:300760,304560}...but... but he lives here in the Green Forest\Nwith us, and we should all act neighbourly!
+Dialogue: 0,0:05:04.96,0:05:06.70,forest default C,,0,0,0,,{TIME:304960,306700}{\i1}Hm... Thanks!{\i}
+Dialogue: 0,0:05:11.56,0:05:16.18,forest default C,,0,0,0,,{TIME:311560,316180}Well, even though he has teased us,\Nall he has hurt is our pride, yeah!
+Dialogue: 0,0:05:16.18,0:05:19.93,forest default C,,0,0,0,,{TIME:316180,319930}It is not that he hurt us, it's just that\Nhe likes practical jokes, that's all!
+Dialogue: 0,0:05:21.07,0:05:24.40,forest default C,,0,0,0,,{TIME:321070,324400}If Chatterer leaves,\Nthe forest will be a duller place!
+Dialogue: 0,0:05:24.47,0:05:27.47,forest default C,,0,0,0,,{TIME:324470,327470}You're right!\NChatterer can be quite amusing!
+Dialogue: 0,0:05:28.61,0:05:30.76,forest default C,,0,0,0,,{TIME:328610,330760}But how can we contend with the Mean Weasel?
+Dialogue: 0,0:05:30.76,0:05:33.02,forest default C,,0,0,0,,{TIME:330760,333020}We can fight and beat him too!
+Dialogue: 0,0:05:33.02,0:05:35.95,forest default C,,0,0,0,,{TIME:333020,335950}Remember, we've all got our secret weapons!
+Dialogue: 0,0:05:36.21,0:05:40.21,forest default C,,0,0,0,,{TIME:336210,340210}Hey, the weak ones will cooperate,\Nand union their strength!
+Dialogue: 0,0:05:40.33,0:05:43.78,forest default C,,0,0,0,,{TIME:340330,343780}- Yeah!\N- Let's do it!
+Dialogue: 0,0:05:53.50,0:05:55.62,forest default C,,0,0,0,,{TIME:353500,355620}Oh! It's Reddy the Fox!
+Dialogue: 0,0:05:58.59,0:06:00.45,forest default C,,0,0,0,,{TIME:358590,360450}Alright, everybody, freeze!
+Dialogue: 0,0:06:00.45,0:06:02.90,forest default C,,0,0,0,,{TIME:360450,362900}Which one of you called me silly?\NWas it you, Peter?
+Dialogue: 0,0:06:03.16,0:06:04.44,forest default C,,0,0,0,,{TIME:363160,364440}N-n-n-no!
+Dialogue: 0,0:06:04.91,0:06:06.39,forest default C,,0,0,0,,{TIME:364910,366390}Was it you, Rabbit?
+Dialogue: 0,0:06:07.07,0:06:08.07,forest default C,,0,0,0,,{TIME:367070,368070}No!
+Dialogue: 0,0:06:08.73,0:06:10.13,forest default C,,0,0,0,,{TIME:368730,370130}You, Sammy?
+Dialogue: 0,0:06:10.71,0:06:12.36,forest default C,,0,0,0,,{TIME:370710,372360}Who, me?!\NNever!
+Dialogue: 0,0:06:13.22,0:06:15.37,forest default C,,0,0,0,,{TIME:373220,375370}Then it must be you, Johnny!
+Dialogue: 0,0:06:15.68,0:06:18.86,forest default C,,0,0,0,,{TIME:375680,378860}Oh, no-no-no!\NNo, I'd never offend you, Reddy!
+Dialogue: 0,0:06:18.86,0:06:22.36,forest default C,,0,0,0,,{TIME:378860,382360}Stop lying! I've got my information\Nfrom a very reliable source!
+Dialogue: 0,0:06:23.18,0:06:25.40,forest default C,,0,0,0,,{TIME:383180,385400}- You can't mean Chatterer?!\N- You can't mean Chatterer?!
+Dialogue: 0,0:06:28.48,0:06:29.68,forest default C,,0,0,0,,{TIME:388480,389680}Chatterer?
+Dialogue: 0,0:06:30.40,0:06:32.24,forest default C,,0,0,0,,{TIME:390400,392240}Well... I... uh...
+Dialogue: 0,0:06:32.24,0:06:35.99,forest default C,,0,0,0,,{TIME:392240,395990}How could you lie to Reddy the Fox...\Nabout us?
+Dialogue: 0,0:06:38.57,0:06:41.14,forest default C,,0,0,0,,{TIME:398570,401140}Why do you do such things like that, Chatterer?
+Dialogue: 0,0:06:41.47,0:06:43.98,forest default C,,0,0,0,,{TIME:401470,403980}Why, I was only jesting...
+Dialogue: 0,0:06:44.44,0:06:48.03,forest default C,,0,0,0,,{TIME:404440,408030}It really doesn't make any difference\Nbecause you're all gonna get it!
+Dialogue: 0,0:06:48.49,0:06:49.49,forest default C,,0,0,0,,{TIME:408490,409490}{\i1}Oh! Look out!{\i}
+Dialogue: 0,0:06:57.76,0:07:01.00,forest default C,,0,0,0,,{TIME:417760,421000}Hold it, all of you!\NDon't run away like cowards!
+Dialogue: 0,0:07:01.00,0:07:03.36,forest default C,,0,0,0,,{TIME:421000,423360}Didn't we all agree\Nto stand together and fight?
+Dialogue: 0,0:07:03.36,0:07:04.66,forest default C,,0,0,0,,{TIME:423360,424660}Where's all your courage?
+Dialogue: 0,0:07:05.08,0:07:07.02,forest default C,,0,0,0,,{TIME:425080,427020}I'm scared silly!
+Dialogue: 0,0:07:12.72,0:07:17.50,forest default C,,0,0,0,,{TIME:432720,437500}What's this?\NAll you can say is "Me-ow!"
+Dialogue: 0,0:07:19.14,0:07:20.91,forest default C,,0,0,0,,{TIME:439140,440910}Don't run away, don't panic!
+Dialogue: 0,0:07:54.97,0:07:58.15,forest default C,,0,0,0,,{TIME:474970,478150}Well, I... it just came to my mind\Nit's Sunday!
+Dialogue: 0,0:07:58.15,0:08:00.94,forest default C,,0,0,0,,{TIME:478150,480940}I never fight on Sundays,\Nit's against my principles!
+Dialogue: 0,0:08:03.46,0:08:07.67,forest default C,,0,0,0,,{TIME:483460,487670}I'm not afraid of you...\Nit's just that I'm very religious!
+Dialogue: 0,0:08:12.86,0:08:15.00,forest default C,,0,0,0,,{TIME:492860,495000}Phew! That was close!
+Dialogue: 0,0:08:15.28,0:08:17.20,forest default C,,0,0,0,,{TIME:495280,497200}{\i1}- We did it!\N- Thank goodness!{\i}
+Dialogue: 0,0:08:22.75,0:08:25.02,forest default C,,0,0,0,,{TIME:502750,505020}Hey, that's a signal from Drummer!
+Dialogue: 0,0:08:27.96,0:08:29.74,forest default C,,0,0,0,,{TIME:507960,509740}I think that he says...
+Dialogue: 0,0:08:29.74,0:08:33.33,forest default C,,0,0,0,,{TIME:509740,513330}...he says the Mean Weasel has been sighted\Nat the Laughing Brook and he's on his way!
+Dialogue: 0,0:08:33.64,0:08:36.30,forest default C,,0,0,0,,{TIME:513640,516300}Oh!\NI'm getting nervous!
+Dialogue: 0,0:08:40.90,0:08:42.05,forest default C,,0,0,0,,{TIME:520900,522050}Bye!
+Dialogue: 0,0:08:44.58,0:08:47.40,forest default C,,0,0,0,,{TIME:524580,527400}Well, here comes the weasel!\NMercy me!
+Dialogue: 0,0:09:00.36,0:09:05.47,forest default C,,0,0,0,,{TIME:540360,545470}See who you're up against, squirrel!\NChatterer, I'm gonna get you!
+Dialogue: 0,0:09:08.72,0:09:11.84,forest lyrics C,,0,0,0,,{TIME:548720,551840}{\i1}I'm a mad-mad weasel!\NV-v-very vicious,{\i}
+Dialogue: 0,0:09:11.84,0:09:15.24,forest lyrics C,,0,0,0,,{TIME:551840,555240}{\i1}F-f-field mice are tasty,\NBut squirrels are delicious!{\i}
+Dialogue: 0,0:09:31.33,0:09:34.92,forest default C,,0,0,0,,{TIME:571330,574920}Hello, Mr. Woodpecker!\NIt's me, Mr. Weasel!
+Dialogue: 0,0:09:47.50,0:09:51.44,forest default C,,0,0,0,,{TIME:587500,591440}I understand every peck!\NSOS, Mean Weasel in Green Forest!
+Dialogue: 0,0:09:52.79,0:09:56.10,forest default C,,0,0,0,,{TIME:592790,596100}I just wanna... well...\Nwanna... ask... uh...
+Dialogue: 0,0:09:56.60,0:09:58.44,forest default C,,0,0,0,,{TIME:596600,598440}Wanna know where Chatterer is, right?
+Dialogue: 0,0:09:58.86,0:10:00.53,forest default C,,0,0,0,,{TIME:598860,600530}Yeah... yeah...
+Dialogue: 0,0:10:00.53,0:10:03.69,forest default C,,0,0,0,,{TIME:600530,603690}Well, I don't know anything about it!\NSo ask somebody else!
+Dialogue: 0,0:10:07.86,0:10:10.44,forest default C,,0,0,0,,{TIME:607860,610440}You don't have to tell me!\NI already know!
+Dialogue: 0,0:10:18.51,0:10:22.08,forest default C,,0,0,0,,{TIME:618510,622080}Red alert! The Mean Weasel\Nhas entered the Green Forest...!
+Dialogue: 0,0:10:31.95,0:10:36.53,forest narrator C,,0,0,0,,{TIME:631950,636530}{\i1}Tension mounts, the river flows\NWhen trouble comes, the river knows!{\i}
+Dialogue: 0,0:10:39.46,0:10:41.99,forest default C,,0,0,0,,{TIME:639460,641990}I'm going, the Mean Weasel's on the lose!
+Dialogue: 0,0:10:42.13,0:10:44.20,forest default C,,0,0,0,,{TIME:642130,644200}I hate to leave this behind!
+Dialogue: 0,0:11:08.81,0:11:10.82,forest default C,,0,0,0,,{TIME:668810,670820}Johnny, I'm worried!
+Dialogue: 0,0:11:11.44,0:11:15.28,forest default C,,0,0,0,,{TIME:671440,675280}- Uh, don't be!\N- I was thinking about Chatterer!
+Dialogue: 0,0:11:16.51,0:11:20.16,forest default C,,0,0,0,,{TIME:676510,680160}Who gives a hoot! I don't care\Nwhat happens to that little troublemaker!
+Dialogue: 0,0:11:27.70,0:11:32.67,forest default C,,0,0,0,,{TIME:687700,692670}Polly, why is it that everything Chatterer\Nsays and does upset me so much?
+Dialogue: 0,0:11:33.59,0:11:36.84,forest narrator C,,0,0,0,,{TIME:693590,696840}{\i1}Polly is perturbed,\NStill she keeps in mind,{\i}
+Dialogue: 0,0:11:36.84,0:11:40.30,forest narrator C,,0,0,0,,{TIME:696840,700300}{\i1}Though he's acting grumpy,\NJohnny still is kind.{\i}
+Dialogue: 0,0:11:47.44,0:11:50.35,forest default C,,0,0,0,,{TIME:707440,710350}I'm all alone in a friendless world!
+Dialogue: 0,0:11:57.47,0:12:00.36,forest default C,,0,0,0,,{TIME:717470,720360}I just can't leave the Green Forest!
+Dialogue: 0,0:12:01.29,0:12:04.52,forest narrator C,,0,0,0,,{TIME:721290,724520}{\i1}Does Chatterer see the Weasel?\NI don't think so.{\i}
+Dialogue: 0,0:12:04.94,0:12:06.91,forest narrator C,,0,0,0,,{TIME:724940,726910}{\i1}Will the Weasel trap Chatterer?{\i}
+Dialogue: 0,0:12:07.78,0:12:09.98,forest narrator C,,0,0,0,,{TIME:727780,729980}{\i1}Will Chatterer's friends defend him?{\i}
+Dialogue: 0,0:12:11.40,0:12:12.85,forest narrator C,,0,0,0,,{TIME:731400,732850}{\i1}We'll have to see.{\i}
+Dialogue: 0,0:12:13.89,0:12:17.00,forest default C,,0,0,0,,{TIME:733890,737000}Johnny, how annoying digging a hole here!
+Dialogue: 0,0:12:17.54,0:12:18.98,forest default C,,0,0,0,,{TIME:737540,738980}I'm sorry, Peter!
+Dialogue: 0,0:12:19.87,0:12:22.00,forest default C,,0,0,0,,{TIME:739870,742000}Next time, think before you dig!
+Dialogue: 0,0:12:23.33,0:12:25.74,forest default C,,0,0,0,,{TIME:743330,745740}Hey, what's wrong,\Nyou look so gloomy!
+Dialogue: 0,0:12:27.00,0:12:28.87,forest default C,,0,0,0,,{TIME:747000,748870}- Huh?!\N- Huh?!
+Dialogue: 0,0:12:28.87,0:12:31.06,forest default C,,0,0,0,,{TIME:748870,751060}- The Weasel's found Chatterer!\N- Oh!
+Dialogue: 0,0:12:31.09,0:12:34.20,forest default C,,0,0,0,,{TIME:751090,754200}- They've converged at the Little Path!\N- I've gotta go!
+Dialogue: 0,0:12:36.05,0:12:38.32,forest default C,,0,0,0,,{TIME:756050,758320}Not again!\NHow annoying!
+Dialogue: 0,0:12:45.36,0:12:46.95,forest default C,,0,0,0,,{TIME:765360,766950}Johnny, where are you going?
+Dialogue: 0,0:12:46.95,0:12:49.81,forest default C,,0,0,0,,{TIME:766950,769810}I'm going to see\Nif I can help out Chatterer, Peter!
+Dialogue: 0,0:12:51.67,0:12:54.19,forest default C,,0,0,0,,{TIME:771670,774190}Johnny, don't!\NStop, you'll get hurt!
+Dialogue: 0,0:12:56.75,0:13:01.60,forest default C,,0,0,0,,{TIME:776750,781600}That woodchuck, he's so fullhearty!\NHe doesn't stand a ghost of a chance!
+Dialogue: 0,0:13:03.05,0:13:05.34,forest default C,,0,0,0,,{TIME:783050,785340}Robber-robber-robber!\NThief-thief-thief!
+Dialogue: 0,0:13:05.34,0:13:07.63,forest default C,,0,0,0,,{TIME:785340,787630}Robber-robber-robber!\NThief! Robber!
+Dialogue: 0,0:13:22.25,0:13:24.53,forest default C,,0,0,0,,{TIME:802250,804530}Everybody, get out!\NChatterer's in trouble!
+Dialogue: 0,0:13:24.53,0:13:27.41,forest default C,,0,0,0,,{TIME:804530,807410}Hey, everybody!\NCome on, Chatterer needs your help!
+Dialogue: 0,0:13:27.41,0:13:29.06,forest default C,,0,0,0,,{TIME:807410,809060}- Everybody, come on, get out!\N- Uh?!
+Dialogue: 0,0:13:29.06,0:13:31.40,forest default C,,0,0,0,,{TIME:809060,811400}Chatterer needs your help!\NHurry, hurry, come on with me!
+Dialogue: 0,0:13:31.40,0:13:33.89,forest default C,,0,0,0,,{TIME:811400,813890}{\i1}- Chatterer needs your help...{\i}\N- Uh?!
+Dialogue: 0,0:13:38.98,0:13:43.35,forest narrator C,,0,0,0,,{TIME:818980,823350}{\i1}And despite the roaring din\NThe weasel keeps closing in.{\i}
+Dialogue: 0,0:13:43.35,0:13:47.79,forest narrator C,,0,0,0,,{TIME:823350,827790}{\i1}Bounding through the tallest tree,\NChatterer darts crazily.{\i}
+Dialogue: 0,0:13:49.43,0:13:51.29,forest narrator C,,0,0,0,,{TIME:829430,831290}{\i1}But the Weasel is so limber...{\i}
+Dialogue: 0,0:13:52.53,0:13:54.62,forest narrator C,,0,0,0,,{TIME:832530,834620}{\i1}He just oozes through the timber.{\i}
+Dialogue: 0,0:13:56.82,0:14:01.20,forest narrator C,,0,0,0,,{TIME:836820,841200}{\i1}Chatterer's petrified,\NSearching for a place to hide.{\i}
+Dialogue: 0,0:14:23.65,0:14:25.22,forest default C,,0,0,0,,{TIME:863650,865220}Oh, I wish I could run faster!
+Dialogue: 0,0:14:25.22,0:14:26.49,forest default C,,0,0,0,,{TIME:865220,866490}- Hey, Johnny!\N- Huh?!
+Dialogue: 0,0:14:27.94,0:14:28.94,forest default C,,0,0,0,,{TIME:867940,868940}You're OK?
+Dialogue: 0,0:14:29.04,0:14:30.84,forest default C,,0,0,0,,{TIME:869040,870840}Yeah! Hey, the Woodpecker reports
+Dialogue: 0,0:14:30.84,0:14:33.83,forest default C,,0,0,0,,{TIME:870840,873830}that the Mean Weasel has chased Chatterer\Nto the mouth of the river!
+Dialogue: 0,0:14:34.48,0:14:36.28,forest default C,,0,0,0,,{TIME:874480,876280}Let's take the shortcut!
+Dialogue: 0,0:14:41.65,0:14:42.75,forest default C,,0,0,0,,{TIME:881650,882750}{\i1}I'll get you, Chatterer!{\i}
+Dialogue: 0,0:14:47.30,0:14:48.70,forest default C,,0,0,0,,{TIME:887300,888700}{\i1}I'll get my hands on you!{\i}
+Dialogue: 0,0:14:55.33,0:14:57.94,forest default C,,0,0,0,,{TIME:895330,897940}I got you now, Ch-Ch-Chatterer!
+Dialogue: 0,0:14:59.40,0:15:00.60,forest default C,,0,0,0,,{TIME:899400,900600}It's all over for you!
+Dialogue: 0,0:15:01.37,0:15:03.19,forest default C,,0,0,0,,{TIME:901370,903190}Oh, where am I gonna go?!
+Dialogue: 0,0:15:03.19,0:15:04.48,forest default C,,0,0,0,,{TIME:903190,904480}Oh, run, Chatterer!
+Dialogue: 0,0:15:04.48,0:15:06.21,forest default C,,0,0,0,,{TIME:904480,906210}Yeah, nearly now, Chatterer!
+Dialogue: 0,0:15:08.13,0:15:11.16,forest default C,,0,0,0,,{TIME:908130,911160}Oh! Watch it! Oh, no, I just got you!
+Dialogue: 0,0:15:13.18,0:15:14.38,forest default C,,0,0,0,,{TIME:913180,914380}Help me, please!
+Dialogue: 0,0:15:15.18,0:15:19.38,forest default C,,0,0,0,,{TIME:915180,919380}Ah...!
+Dialogue: 0,0:15:21.48,0:15:23.52,forest default C,,0,0,0,,{TIME:921480,923520}I-I c-c-can't believe it!
+Dialogue: 0,0:15:23.52,0:15:25.42,forest default C,,0,0,0,,{TIME:923520,925420}Where did they all c-c-come from?!
+Dialogue: 0,0:15:26.00,0:15:27.00,forest default C,,0,0,0,,{TIME:926000,927000}Oh, no!
+Dialogue: 0,0:15:42.42,0:15:46.08,forest default C,,0,0,0,,{TIME:942420,946080}I hope Johnny and the others\Ncome out of this unharmed!
+Dialogue: 0,0:15:46.43,0:15:48.29,forest default C,,0,0,0,,{TIME:946430,948290}Chatterer, wake up!
+Dialogue: 0,0:15:54.20,0:15:57.49,forest default C,,0,0,0,,{TIME:954200,957490}Oh! Oh!\NWhe-whe-where am I?!
+Dialogue: 0,0:15:59.55,0:16:02.15,forest default C,,0,0,0,,{TIME:959550,962150}Look! They're all fighting for you,\NChatterer!
+Dialogue: 0,0:16:02.15,0:16:04.66,forest default C,,0,0,0,,{TIME:962150,964660}For me?! Oh my!
+Dialogue: 0,0:16:10.66,0:16:14.89,forest default C,,0,0,0,,{TIME:970660,974890}It takes more of you to get me,\NI'll tell you! Yeah!
+Dialogue: 0,0:16:15.81,0:16:19.84,forest default C,,0,0,0,,{TIME:975810,979840}Oh, heaven, Polly, what can we do?\NThey're no match for the Mean Weasel!
+Dialogue: 0,0:16:24.52,0:16:26.48,forest default C,,0,0,0,,{TIME:984520,986480}It's Whitetail the Hawk!
+Dialogue: 0,0:16:30.23,0:16:31.23,forest default C,,0,0,0,,{TIME:990230,991230}Chatterer!
+Dialogue: 0,0:16:32.28,0:16:36.53,forest default C,,0,0,0,,{TIME:992280,996530}Hey, there, Mean Weasel, come up here!\NI dare you to come up here! Hey!
+Dialogue: 0,0:16:37.83,0:16:39.73,forest default C,,0,0,0,,{TIME:997830,999730}D-d-darn it, Chatterer!
+Dialogue: 0,0:16:40.05,0:16:42.55,forest default C,,0,0,0,,{TIME:1000050,1002550}Coward, coward!\NI double dare you!
+Dialogue: 0,0:16:51.80,0:16:53.82,forest default C,,0,0,0,,{TIME:1011800,1013820}Chatterer, you're in trouble,\NI'll get you!
+Dialogue: 0,0:17:02.48,0:17:04.73,forest default C,,0,0,0,,{TIME:1022480,1024730}Oh, no!\NWhat I'd do now?!
+Dialogue: 0,0:17:05.84,0:17:09.64,forest default C,,0,0,0,,{TIME:1025840,1029640}Help! Oh, no!\NSomebody help me! Help me!
+Dialogue: 0,0:17:11.26,0:17:12.87,forest default C,,0,0,0,,{TIME:1031260,1032870}Help, help!
+Dialogue: 0,0:17:12.87,0:17:15.24,forest default C,,0,0,0,,{TIME:1032870,1035240}Help, oh, help!
+Dialogue: 0,0:17:43.38,0:17:47.30,forest default C,,0,0,0,,{TIME:1063380,1067300}What a day!\NOh heaven, a paradise!
+Dialogue: 0,0:17:47.74,0:17:49.89,forest default C,,0,0,0,,{TIME:1067740,1069890}Oh, my friendly pond!
+Dialogue: 0,0:17:51.48,0:17:54.65,forest default C,,0,0,0,,{TIME:1071480,1074650}My, oh my!\NYou certainly look happy, Chatterer!
+Dialogue: 0,0:17:55.04,0:17:57.32,forest default C,,0,0,0,,{TIME:1075040,1077320}Bliss! Pure bliss!
+Dialogue: 0,0:17:57.59,0:18:02.03,forest default C,,0,0,0,,{TIME:1077590,1082030}It appears that you decided\Nnot to leave the Green Forest, huh?!
+Dialogue: 0,0:18:02.29,0:18:05.21,forest default C,,0,0,0,,{TIME:1082290,1085210}How could I ever leave my good friends?
+Dialogue: 0,0:18:06.99,0:18:09.05,forest default C,,0,0,0,,{TIME:1086990,1089050}All is well that ends well...
+Dialogue: 0,0:18:11.96,0:18:13.05,forest default C,,0,0,0,,{TIME:1091960,1093050}...knock on wood!
+Dialogue: 0,0:18:15.68,0:18:19.78,forest narrator C,,0,0,0,,{TIME:1095680,1099780}{\i1}Despite Chatterer's mischief,\Nhis friends save the day!{\i}
+Dialogue: 0,0:18:21.84,0:18:25.70,forest credits C,,0,0,0,,{TIME:1101840,1105700}{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs

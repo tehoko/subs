@@ -14,300 +14,300 @@ Group: OldCastle & South Wind Subs
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,5,10,10,10,1
-Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
+Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,5,10,10,10,1
+Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.83,0:00:07.83,forest title KB,,0,0,0,,FABLES \N of the\NGREEN FOREST
-Dialogue: 0,0:00:04.90,0:00:07.83,forest ep title C,,0,0,0,,{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Peter the imitator"{\i}
-Dialogue: 0,0:00:47.26,0:00:51.44,forest default C,,0,0,0,,Chip! Chip!\NLet's play, let's play! Hey, hey!
-Dialogue: 0,0:00:53.74,0:00:56.98,forest default C,,0,0,0,,Chip, look at this, look at this, it's fun!\NLook at me!
-Dialogue: 0,0:00:58.03,0:00:58.69,forest default C,,0,0,0,,Oh...
-Dialogue: 0,0:01:01.05,0:01:03.31,forest default C,,0,0,0,,Oh... Hey...!
-Dialogue: 0,0:01:03.64,0:01:04.39,forest default C,,0,0,0,,Hey.
-Dialogue: 0,0:01:06.75,0:01:09.78,forest default C,,0,0,0,,Hey, Chip, come on, let's play.\NLook at this now. Hey...
-Dialogue: 0,0:01:10.10,0:01:12.67,forest default C,,0,0,0,,How do you like this?\NSaw it?
-Dialogue: 0,0:01:13.42,0:01:15.94,forest default C,,0,0,0,,{\i1}Oh... come on Chip, let's play!{\i}
-Dialogue: 0,0:01:16.25,0:01:18.55,forest default C,,0,0,0,,Hey, look at this.\NIsn't this neat?
-Dialogue: 0,0:01:20.11,0:01:23.30,forest default C,,0,0,0,,Come on, Chip, let's play! Oh, boy!
-Dialogue: 0,0:01:23.30,0:01:27.16,forest default C,,0,0,0,,{\i1}Sorry, Peter, I don't have time. Work, work,\Nwork, gotta work, gotta work, gotta work.{\i}
-Dialogue: 0,0:01:28.02,0:01:31.60,forest default C,,0,0,0,,Busy, busy, busy. We've got to get ready\Nfor winter. We've got to work, work, work. Busy.
-Dialogue: 0,0:01:31.86,0:01:33.31,forest default C,,0,0,0,,Oh...
-Dialogue: 0,0:01:35.08,0:01:36.80,forest default C,,0,0,0,,Huh...
-Dialogue: 0,0:01:37.54,0:01:39.34,forest default C,,0,0,0,,You boring people...
-Dialogue: 0,0:01:39.95,0:01:42.98,forest default C,,0,0,0,,Oh, oof... Oh, boy.
-Dialogue: 0,0:01:43.46,0:01:46.54,forest default C,,0,0,0,,Oh. Oh. Uh.
-Dialogue: 0,0:01:46.92,0:01:50.04,forest default C,,0,0,0,,Such a...
-Dialogue: 0,0:01:50.80,0:01:53.16,forest default C,,0,0,0,,Hey, Johnny!
-Dialogue: 0,0:01:56.56,0:01:59.23,forest default C,,0,0,0,,Hey, Johnny, let's go\Nto the Green Meadow and play, huh?
-Dialogue: 0,0:01:59.90,0:02:02.38,forest default C,,0,0,0,,Don't bother me, Peter.\NThere's not much time left.
-Dialogue: 0,0:02:03.13,0:02:05.48,forest default C,,0,0,0,,- Huh?\N- Winter will be here soon, you know!
-Dialogue: 0,0:02:07.48,0:02:09.57,forest default C,,0,0,0,,Johnny, are you gonna say you can't play too?
-Dialogue: 0,0:02:09.78,0:02:13.82,forest default C,,0,0,0,,- I'm too busy now, I'll meet you in the spring.\N- Johnny, meet me in the spring?!
-Dialogue: 0,0:02:18.64,0:02:22.08,forest default C,,0,0,0,,Oh, boy, oh...\NNobody wants to...
-Dialogue: 0,0:02:23.20,0:02:26.52,forest default C,,0,0,0,,- Hey, Chatterer! Chatterer!\N- What is it, Peter?
-Dialogue: 0,0:02:26.66,0:02:28.31,forest default C,,0,0,0,,Let's go play, Chatterer.
-Dialogue: 0,0:02:29.40,0:02:32.44,forest default C,,0,0,0,,Golly, I've no time to play.\NI'm very busy.
-Dialogue: 0,0:02:34.14,0:02:37.10,forest default C,,0,0,0,,- My work's not done yet, Peter.\N- Chatterer!
-Dialogue: 0,0:02:37.22,0:02:38.98,forest default C,,0,0,0,,Well, anyhow, I'm busy.
-Dialogue: 0,0:02:41.42,0:02:43.33,forest default C,,0,0,0,,I don't want to be bothered.
-Dialogue: 0,0:02:43.72,0:02:46.64,forest default C,,0,0,0,,{\i1}I'm busy with my winter preparations.{\i}
-Dialogue: 0,0:02:47.50,0:02:51.12,forest default C,,0,0,0,,Look around, Peter. Winter is coming,\Nwinter's coming!
-Dialogue: 0,0:02:52.66,0:02:56.26,forest default C,,0,0,0,,Leave me alone, the cold winter is coming! Oh!
-Dialogue: 0,0:02:58.34,0:03:00.48,forest default C,,0,0,0,,What's the matter with everybody?
-Dialogue: 0,0:03:00.63,0:03:03.43,forest default C,,0,0,0,,Here I am asking them to play, and they...
-Dialogue: 0,0:03:04.12,0:03:06.23,forest default C,,0,0,0,,...they just... they say...
-Dialogue: 0,0:03:06.89,0:03:08.28,forest default C,,0,0,0,,..."There's no time!"...
-Dialogue: 0,0:03:09.77,0:03:10.87,forest default C,,0,0,0,,...that "I'm busy"...
-Dialogue: 0,0:03:11.96,0:03:13.72,forest default C,,0,0,0,,...that "I'm preparing for winter"...
-Dialogue: 0,0:03:15.86,0:03:16.43,forest default C,,0,0,0,,...and, uh...
-Dialogue: 0,0:03:17.29,0:03:21.44,forest default C,,0,0,0,,...yeah, "Let's meet again next spring".\NWhy... Wait a minute!
-Dialogue: 0,0:03:23.11,0:03:26.04,forest default C,,0,0,0,,Why, that's what Johnny said,\N"Let's meet again".
-Dialogue: 0,0:03:26.88,0:03:28.71,forest default C,,0,0,0,,Well, what on earth did he mean?
-Dialogue: 0,0:03:28.71,0:03:31.89,forest default C,,0,0,0,,Winter isn't here yet,\Nand spring is far, far away.
-Dialogue: 0,0:03:32.48,0:03:36.78,forest default C,,0,0,0,,That Johnny, I wonder, he said\Nwe couldn't meet until winter has passed.
-Dialogue: 0,0:03:38.33,0:03:40.83,forest default C,,0,0,0,,It couldn't be he's going some place far away?
-Dialogue: 0,0:03:41.36,0:03:43.29,forest default C,,0,0,0,,That couldn't be... that couldn't be...
-Dialogue: 0,0:03:43.50,0:03:45.65,forest default C,,0,0,0,,I wonder why we couldn't meet during winter?
-Dialogue: 0,0:03:46.74,0:03:48.91,forest default C,,0,0,0,,We've been meeting all along up till now.
-Dialogue: 0,0:03:49.66,0:03:50.18,forest default C,,0,0,0,,Hmm...
-Dialogue: 0,0:03:50.30,0:03:54.50,forest narrator C,,0,0,0,,{\i1}Peter just couldn't understand why everybody\Nwas so occupied with winter preparations.{\i}
-Dialogue: 0,0:03:54.96,0:03:57.51,forest narrator C,,0,0,0,,{\i1}For Peter, winter preparations required nothing.{\i}
-Dialogue: 0,0:03:57.86,0:03:59.91,forest narrator C,,0,0,0,,{\i1}He would just naturally grow longer fur.{\i}
-Dialogue: 0,0:04:00.98,0:04:04.46,forest default C,,0,0,0,,That's it!\NI'll ask Grandfather Frog of the Smiling Pool.
-Dialogue: 0,0:04:04.68,0:04:07.30,forest default C,,0,0,0,,Grandfather is wise and he should know.
-Dialogue: 0,0:04:15.00,0:04:18.64,forest default C,,0,0,0,,Grandfather! Grandfather!\NGrandfather Frog!
-Dialogue: 0,0:04:19.86,0:04:21.06,forest default C,,0,0,0,,Hey...
-Dialogue: 0,0:04:23.48,0:04:25.36,forest default C,,0,0,0,,Where in the world could he have gone?
-Dialogue: 0,0:04:26.48,0:04:28.45,forest default C,,0,0,0,,Grandfather!
-Dialogue: 0,0:04:28.85,0:04:30.57,forest default C,,0,0,0,,Grandfather Frog!
-Dialogue: 0,0:04:32.51,0:04:33.63,forest default C,,0,0,0,,- Hi ya, Peter!\N- Hi ya, Peter!
-Dialogue: 0,0:04:34.78,0:04:37.65,forest default C,,0,0,0,,Hi, Joe, hi, Harry, where's Grandfather Frog?
-Dialogue: 0,0:04:38.16,0:04:40.11,forest default C,,0,0,0,,- Grandfather Frog isn't here.\N- Grandfather Frog isn't here.
-Dialogue: 0,0:04:40.98,0:04:41.80,forest default C,,0,0,0,,Not here?
-Dialogue: 0,0:04:42.63,0:04:43.98,forest default C,,0,0,0,,Where is he, anyway?
-Dialogue: 0,0:04:46.40,0:04:49.53,forest default C,,0,0,0,,- He's in the mud down below.\N- Yeah, in the mud down below.
-Dialogue: 0,0:04:49.67,0:04:50.42,forest default C,,0,0,0,,Huh?
-Dialogue: 0,0:04:55.63,0:04:58.72,forest default C,,0,0,0,,{\i1}- Yeah, he buried himself.\N- Yeah, he buried himself.{\i}
-Dialogue: 0,0:05:03.14,0:05:04.64,forest default C,,0,0,0,,- Hibernating, he said.\N- Hibernating, he said.
-Dialogue: 0,0:05:04.94,0:05:06.28,forest default C,,0,0,0,,Hibernation?
-Dialogue: 0,0:05:06.64,0:05:09.17,forest default C,,0,0,0,,Yeah, he said to give his regards\Nto everyone in the forest.
-Dialogue: 0,0:05:10.56,0:05:12.66,forest default C,,0,0,0,,He said we'd meet up again in the spring.
-Dialogue: 0,0:05:20.06,0:05:22.75,forest default C,,0,0,0,,Now, what did they mean,\Nlet's meet again in the springtime?
-Dialogue: 0,0:05:24.70,0:05:28.82,forest default C,,0,0,0,,{\i1}I just don't understand.\NI just don't understand.{\i}
-Dialogue: 0,0:05:35.44,0:05:39.62,forest default C,,0,0,0,,Oh... Winter preparations.\NThen wait for spring.
-Dialogue: 0,0:05:40.25,0:05:42.92,forest default C,,0,0,0,,Then spring comes\Nand you wait for autumn.
-Dialogue: 0,0:05:43.78,0:05:47.53,forest default C,,0,0,0,,And then autumn comes\Nand then it's springtime again. What?
-Dialogue: 0,0:05:48.24,0:05:51.41,forest default C,,0,0,0,,I don't understand.\NI just don't understand.
-Dialogue: 0,0:05:55.70,0:05:56.80,forest default C,,0,0,0,,Oh...
-Dialogue: 0,0:05:57.98,0:05:59.31,forest default C,,0,0,0,,Why, what's that?
-Dialogue: 0,0:06:11.24,0:06:12.30,forest default C,,0,0,0,,I like the winter!
-Dialogue: 0,0:06:13.13,0:06:16.69,forest default C,,0,0,0,,I like the snow!\NWhy does everybody leave me all alone?
-Dialogue: 0,0:06:18.20,0:06:21.28,forest default C,,0,0,0,,I don't understand.\NMy head is groggy.
-Dialogue: 0,0:06:22.35,0:06:27.31,forest default C,,0,0,0,,Groggy, groggy, groggy!\NGroggy, groggy, groggy!
-Dialogue: 0,0:06:30.06,0:06:31.19,forest default C,,0,0,0,,I like the winter!
-Dialogue: 0,0:06:32.22,0:06:35.74,forest default C,,0,0,0,,I like the snow! I just don't understand!
-Dialogue: 0,0:06:36.93,0:06:40.40,forest default C,,0,0,0,,Why, my head is groggy.\NGroggy, groggy, groggy!
-Dialogue: 0,0:06:41.79,0:06:44.02,forest default C,,0,0,0,,I like the winter!\NI like the snow!
-Dialogue: 0,0:06:44.26,0:06:47.77,forest default C,,0,0,0,,My head is groggy!\NMy head is groggy, groggy, groggy!
-Dialogue: 0,0:06:48.04,0:06:52.35,forest default C,,0,0,0,,I like the winter! I like the snow!\NMy head is groggy, groggy, groggy!
-Dialogue: 0,0:06:52.52,0:06:56.10,forest default C,,0,0,0,,I like the winter and the snow!\NMy head is so groggy, groggy!
-Dialogue: 0,0:06:58.44,0:07:01.62,forest default C,,0,0,0,,What is it this late at night, Peter?
-Dialogue: 0,0:07:01.85,0:07:05.70,forest default C,,0,0,0,,You know what Johnny said? Johnny said\Nto meet me next spring, Uncle Billy.
-Dialogue: 0,0:07:06.53,0:07:08.47,forest default C,,0,0,0,,What does that mean, anyway?
-Dialogue: 0,0:07:09.16,0:07:13.05,forest default C,,0,0,0,,- Well, in brief it means that...\N{\i1}- Father, shut the door, please.{\i}
-Dialogue: 0,0:07:13.16,0:07:16.38,forest default C,,0,0,0,,{\i1}What are we going to do\Nif the children catch cold?{\i}
-Dialogue: 0,0:07:16.53,0:07:18.32,forest default C,,0,0,0,,Yes, yes, I know, Mother!
-Dialogue: 0,0:07:24.04,0:07:27.54,forest default C,,0,0,0,,- In brief, Peter, that's just what Johnny said.\N- Just what he said?
-Dialogue: 0,0:07:27.68,0:07:31.62,forest default C,,0,0,0,,- Right. So you won't meet till next spring.\N- Not meet until next spring?!
-Dialogue: 0,0:07:32.75,0:07:36.52,forest default C,,0,0,0,,- Go to bed and sleep.\N- But to sleep until next spring?
-Dialogue: 0,0:07:36.92,0:07:37.91,forest default C,,0,0,0,,M-hm.
-Dialogue: 0,0:07:39.48,0:07:43.20,forest default C,,0,0,0,,That's right. That's what we call hibernation.
-Dialogue: 0,0:07:43.34,0:07:45.94,forest default C,,0,0,0,,But they get mighty hungry by then.
-Dialogue: 0,0:07:51.60,0:07:54.62,forest default C,,0,0,0,,So that's it! So that's why Johnny...
-Dialogue: 0,0:07:54.86,0:07:58.34,forest default C,,0,0,0,,Johnny was eating so much,\Nso he wouldn't going to get hungry this winter.
-Dialogue: 0,0:07:58.40,0:08:01.40,forest default C,,0,0,0,,- Mm-hm. That's right, Peter.\N- Oh...
-Dialogue: 0,0:08:04.32,0:08:07.57,forest default C,,0,0,0,,When winter comes, some people\Ngo to live in a warm climate.
-Dialogue: 0,0:08:08.25,0:08:09.99,forest default C,,0,0,0,,{\i1}And others... Others...{\i}
-Dialogue: 0,0:08:10.25,0:08:13.76,forest default C,,0,0,0,,...eat now and fill up their stomachs\Nand sleep real soundly
-Dialogue: 0,0:08:13.76,0:08:15.82,forest default C,,0,0,0,,not eating and not running around.
-Dialogue: 0,0:08:15.98,0:08:17.14,forest default C,,0,0,0,,{\i1}Father!{\i}
-Dialogue: 0,0:08:17.82,0:08:21.59,forest default C,,0,0,0,,{\i1}What are you doing out there for so long?\NThe night wind is cold.{\i}
-Dialogue: 0,0:08:22.08,0:08:25.45,forest default C,,0,0,0,,Yes, yes, yes, I know, mother, I'm coming.
-Dialogue: 0,0:08:26.46,0:08:28.27,forest default C,,0,0,0,,Did you understand, Peter?
-Dialogue: 0,0:08:29.20,0:08:33.95,forest default C,,0,0,0,,{\i1}- Father?!{\i}\N- Yes, yes, I'm coming right now...
-Dialogue: 0,0:08:36.36,0:08:37.44,forest default C,,0,0,0,,Good night, Peter.
-Dialogue: 0,0:08:38.50,0:08:39.97,forest default C,,0,0,0,,Good night, Uncle Billy.
-Dialogue: 0,0:08:42.75,0:08:45.82,forest default C,,0,0,0,,Wow... They're hibernating, huh?
-Dialogue: 0,0:08:46.53,0:08:47.30,forest default C,,0,0,0,,Oh...
-Dialogue: 0,0:08:49.32,0:08:52.51,forest default C,,0,0,0,,Johnny and all my friends\Nare getting ready to hibernate?
-Dialogue: 0,0:08:58.39,0:09:00.52,forest default C,,0,0,0,,They're getting ready to hibernate?
-Dialogue: 0,0:09:02.06,0:09:02.88,forest default C,,0,0,0,,Oh...
-Dialogue: 0,0:09:19.26,0:09:20.24,forest default C,,0,0,0,,To sleep until...
-Dialogue: 0,0:09:22.75,0:09:24.98,forest default C,,0,0,0,,...until spring...\NHow nice!
-Dialogue: 0,0:09:25.83,0:09:30.05,forest default C,,0,0,0,,Not have to worry about looking for food,\Nand sleep all winter with a full stomach.
-Dialogue: 0,0:09:33.68,0:09:36.35,forest default C,,0,0,0,,When the snow falls,\Nthere's no place to hide
-Dialogue: 0,0:09:36.35,0:09:40.70,forest default C,,0,0,0,,from Reddy and the Mean Weasel and\Nthat finding men with their gun, oh...
-Dialogue: 0,0:09:46.51,0:09:48.84,forest default C,,0,0,0,,I-I-I'm scared!
-Dialogue: 0,0:09:49.70,0:09:51.34,forest default C,,0,0,0,,So... hibernation...
-Dialogue: 0,0:09:52.66,0:09:55.47,forest default C,,0,0,0,,Hm. Hm...! Hm!
-Dialogue: 0,0:09:59.42,0:10:00.55,forest default C,,0,0,0,,Hm...
-Dialogue: 0,0:10:01.26,0:10:03.52,forest default C,,0,0,0,,Why, that's it!\NHey...!
-Dialogue: 0,0:10:04.92,0:10:06.70,forest default C,,0,0,0,,I'll hibernate, I'll hibernate!
-Dialogue: 0,0:10:08.11,0:10:10.21,forest default C,,0,0,0,,Hey, I'll hibernate, yeah!
-Dialogue: 0,0:10:11.46,0:10:12.98,forest default C,,0,0,0,,I'll hibernate, I'll hibernate!
-Dialogue: 0,0:10:12.98,0:10:16.96,forest default C,,0,0,0,,If Johnny can sleep all through\Nthe winter, why, I should be able to!
-Dialogue: 0,0:10:20.44,0:10:21.96,forest default C,,0,0,0,,{\i1}Peter! Peter!{\i}
-Dialogue: 0,0:10:24.24,0:10:25.68,forest default C,,0,0,0,,Oh, Uncle Billy!
-Dialogue: 0,0:10:29.24,0:10:32.00,forest default C,,0,0,0,,Uncle Billy, can I ask you something, please?
-Dialogue: 0,0:10:32.56,0:10:34.76,forest default C,,0,0,0,,Why, sure, what is it Peter?
-Dialogue: 0,0:10:35.22,0:10:37.14,forest default C,,0,0,0,,About... hibernation.
-Dialogue: 0,0:10:37.68,0:10:40.56,forest default C,,0,0,0,,Just a minute now. I'm going to come down.
-Dialogue: 0,0:10:47.12,0:10:50.17,forest default C,,0,0,0,,I'm... I'm thinking of hibernating.
-Dialogue: 0,0:10:50.48,0:10:52.57,forest default C,,0,0,0,,What?! Hibernating?
-Dialogue: 0,0:10:54.66,0:10:59.63,forest default C,,0,0,0,,In all my years, I never yet heard\Nof a rabbit hibernating!
-Dialogue: 0,0:11:05.18,0:11:07.86,forest default C,,0,0,0,,But... even Johnny does it... so I...
-Dialogue: 0,0:11:09.30,0:11:11.11,forest default C,,0,0,0,,I figure I can do it too.
-Dialogue: 0,0:11:12.04,0:11:15.57,forest default C,,0,0,0,,If Johnny the Woodchuck can do it,\NI should be able to eat enough food
-Dialogue: 0,0:11:15.57,0:11:19.65,forest default C,,0,0,0,,and stay full winter, be the first\Nrabbit to hibernate, hibernate!
-Dialogue: 0,0:11:19.92,0:11:24.34,forest default C,,0,0,0,,I'm going to be the first rabbit\Nto hibernate, hibernate, uh-huh!
-Dialogue: 0,0:11:24.46,0:11:26.40,forest lyrics C,,0,0,0,,{\i1}I'm going to sleep all winter.{\i}
-Dialogue: 0,0:11:26.49,0:11:30.52,forest lyrics C,,0,0,0,,{\i1}I'm going to be the very first\Nrabbit to hibernate, hibernate!{\i}
-Dialogue: 0,0:11:30.75,0:11:32.65,forest lyrics C,,0,0,0,,{\i1}I'm gonna sleep all winter.{\i}
-Dialogue: 0,0:11:32.68,0:11:36.39,forest lyrics C,,0,0,0,,{\i1}I'm gonna sleep all winter\Nand not work, uh-huh!{\i}
-Dialogue: 0,0:11:36.50,0:11:38.58,forest lyrics C,,0,0,0,,{\i1}I'm gonna hibernate, hibernate!{\i}
-Dialogue: 0,0:11:38.79,0:11:42.42,forest lyrics C,,0,0,0,,{\i1}I'm gonna sleep all winter\Nand hibernate, hibernate!{\i}
-Dialogue: 0,0:11:42.61,0:11:47.01,forest lyrics C,,0,0,0,,{\i1}I'm just gonna be full all winter,\Nand hibernate, hibernate!{\i}
-Dialogue: 0,0:11:49.75,0:11:52.20,forest default C,,0,0,0,,I can hibernate too,\Nisn't that right, Uncle Billy?
-Dialogue: 0,0:11:52.76,0:11:55.06,forest default C,,0,0,0,,Well... I've never heard of it.
-Dialogue: 0,0:11:55.79,0:11:57.08,forest default C,,0,0,0,,But if you think...
-Dialogue: 0,0:11:57.94,0:12:00.02,forest default C,,0,0,0,,...if you think you can do it,
-Dialogue: 0,0:12:00.59,0:12:05.25,forest default C,,0,0,0,,you'd better find a warm place\Nfor you to sleep all winter.
-Dialogue: 0,0:12:05.42,0:12:08.02,forest default C,,0,0,0,,Uh-huh, uh-huh, uh-huh.\NYeah. That'll be easy.
-Dialogue: 0,0:12:08.36,0:12:11.15,forest default C,,0,0,0,,Also, you must put on a lot of weight.
-Dialogue: 0,0:12:11.62,0:12:15.61,forest default C,,0,0,0,,- Uh, get fat?\N- Yes, you have to get big and fat.
-Dialogue: 0,0:12:16.03,0:12:17.25,forest default C,,0,0,0,,Why-why is that?
-Dialogue: 0,0:12:19.51,0:12:23.29,forest default C,,0,0,0,,That's because during the winter\Nyou won't be eating.
-Dialogue: 0,0:12:26.16,0:12:28.83,forest default C,,0,0,0,,So that you won't be hungry,\Nthat's why!
-Dialogue: 0,0:12:29.86,0:12:34.12,forest default C,,0,0,0,,Also, if you're fat during the cold winter,\Nyou can survive in warmth
-Dialogue: 0,0:12:34.22,0:12:37.85,forest default C,,0,0,0,,- ...and you won't be cold at all.\N- How do I get fat, anyway?
-Dialogue: 0,0:12:38.21,0:12:40.14,forest default C,,0,0,0,,By eating heartily.
-Dialogue: 0,0:12:42.04,0:12:44.96,forest default C,,0,0,0,,Eat heartily and then... eat some more.
-Dialogue: 0,0:12:45.37,0:12:49.99,forest default C,,0,0,0,,Even if your stomach hurts, eat more.\NThen, more and more!
-Dialogue: 0,0:12:50.77,0:12:53.58,forest default C,,0,0,0,,If it's just eating,\Nthat won't be any problem.
-Dialogue: 0,0:12:53.71,0:12:55.90,forest default C,,0,0,0,,I just love to eat and eat!
-Dialogue: 0,0:12:56.83,0:12:59.06,forest default C,,0,0,0,,That's easy. Is that all, Uncle Billy?
-Dialogue: 0,0:12:59.84,0:13:01.28,forest default C,,0,0,0,,Yep, that's all Peter.
-Dialogue: 0,0:13:02.02,0:13:02.64,forest default C,,0,0,0,,Oops...
-Dialogue: 0,0:13:03.54,0:13:04.93,forest default C,,0,0,0,,...just one more thing,
-Dialogue: 0,0:13:05.71,0:13:08.32,forest default C,,0,0,0,,this is the most important thing:
-Dialogue: 0,0:13:08.78,0:13:13.39,forest default C,,0,0,0,,when you go to sleep, don't worry\Nabout Reddy or Bowser coming in.
-Dialogue: 0,0:13:15.32,0:13:17.92,forest default C,,0,0,0,,Just worry about going to sleep.
-Dialogue: 0,0:13:18.51,0:13:21.61,forest default C,,0,0,0,,- Forget about everything else.\N- Huh...
-Dialogue: 0,0:13:22.28,0:13:24.38,forest default C,,0,0,0,,That's easy. Thank you, Uncle Billy!
-Dialogue: 0,0:13:28.71,0:13:32.64,forest default C,,0,0,0,,My, my, Peter is sure one\Nto do odd things.
-Dialogue: 0,0:13:33.33,0:13:37.32,forest default C,,0,0,0,,With his fur, there's no need for him\Nto hibernate all winter!
-Dialogue: 0,0:13:54.20,0:13:58.71,forest default C,,0,0,0,,Say, Peter, what's the big idea,\Nentering someone else's house?
-Dialogue: 0,0:13:58.87,0:14:01.96,forest default C,,0,0,0,,Uh, s-s-sorry! Actually, I was looking for
-Dialogue: 0,0:14:02.01,0:14:03.95,forest default C,,0,0,0,,a winter hibernating spot.
-Dialogue: 0,0:14:04.41,0:14:05.78,forest default C,,0,0,0,,Hibernating?!
-Dialogue: 0,0:14:06.92,0:14:07.54,forest default C,,0,0,0,,Yeah.
-Dialogue: 0,0:14:24.79,0:14:28.06,forest narrator C,,0,0,0,,{\i1}After looking and looking, Peter finds a cave{\i}
-Dialogue: 0,0:14:28.06,0:14:30.46,forest narrator C,,0,0,0,,{\i1}that Jimmy the Skunk had previously lived in.{\i}
-Dialogue: 0,0:14:36.56,0:14:38.63,forest default C,,0,0,0,,{\i1}Wow, this is good!{\i}
-Dialogue: 0,0:14:39.73,0:14:42.58,forest default C,,0,0,0,,Lack of rear entrance\Nsort of bothers me, but...
-Dialogue: 0,0:14:43.20,0:14:47.06,forest default C,,0,0,0,,...since I'll be sleeping all winter,\Nthere's nothing to worry about, I guess.
-Dialogue: 0,0:14:48.08,0:14:52.08,forest default C,,0,0,0,,The entrance is small, the interior deep,\Nit's tailor-made just for me.
-Dialogue: 0,0:14:52.19,0:14:57.31,forest default C,,0,0,0,,Next to eating heartily, and getting fat,\Nhibernating is easy! Yeah!
-Dialogue: 0,0:15:29.98,0:15:30.86,forest default C,,0,0,0,,And more and more.
-Dialogue: 0,0:15:32.47,0:15:32.99,forest default C,,0,0,0,,Oh...
-Dialogue: 0,0:15:34.62,0:15:37.10,forest default C,,0,0,0,,To get fat isn't as easy as I thought.
-Dialogue: 0,0:15:38.28,0:15:39.10,forest default C,,0,0,0,,Oh...
-Dialogue: 0,0:15:42.48,0:15:44.61,forest default C,,0,0,0,,I couldn't get too fat, but that's alright.
-Dialogue: 0,0:15:45.37,0:15:46.90,forest default C,,0,0,0,,{\i1}Because I better start hibernating.{\i}
-Dialogue: 0,0:15:47.16,0:15:49.22,forest default C,,0,0,0,,I sure admire his efforts.
-Dialogue: 0,0:15:51.14,0:15:52.30,forest default C,,0,0,0,,Oh!
-Dialogue: 0,0:15:53.25,0:15:54.37,forest default C,,0,0,0,,Oh!
-Dialogue: 0,0:15:55.01,0:15:57.32,forest default C,,0,0,0,,A bit scared to hibernate?
-Dialogue: 0,0:15:58.09,0:16:00.05,forest default C,,0,0,0,,Or wonder why you made the effort?
-Dialogue: 0,0:16:01.06,0:16:04.78,forest default C,,0,0,0,,Everyone in the forest,\Nlet's meet again in the spring!
-Dialogue: 0,0:16:06.28,0:16:07.03,forest default C,,0,0,0,,Oops!
-Dialogue: 0,0:16:08.26,0:16:10.09,forest default C,,0,0,0,,Let's meet again in the spring!
-Dialogue: 0,0:16:12.26,0:16:13.04,forest default C,,0,0,0,,So...
-Dialogue: 0,0:16:17.32,0:16:21.91,forest default C,,0,0,0,,Ah. Yep. Upon re-examining this place\Nit's ideal for hibernation.
-Dialogue: 0,0:16:25.28,0:16:27.96,forest default C,,0,0,0,,That's it!\NI'll just tease Peter a little...
-Dialogue: 0,0:16:31.72,0:16:32.85,forest default C,,0,0,0,,Ah...
-Dialogue: 0,0:16:36.70,0:16:39.69,forest default C,,0,0,0,,Ah... Hibernating is sure fun!
-Dialogue: 0,0:16:47.83,0:16:50.87,forest default C,,0,0,0,,I've told Peter that when he goes to sleep
-Dialogue: 0,0:16:51.16,0:16:55.15,forest default C,,0,0,0,,he must not think of whether\NReddy the Fox or Bowser the Dog
-Dialogue: 0,0:16:55.38,0:16:58.67,forest default C,,0,0,0,,might find his sleeping place.\NYou understand?
-Dialogue: 0,0:16:58.91,0:17:00.66,forest default C,,0,0,0,,But is Peter in bed now?
-Dialogue: 0,0:17:01.25,0:17:03.88,forest default C,,0,0,0,,Yes. And the more he tries to sleep,
-Dialogue: 0,0:17:04.09,0:17:07.74,forest default C,,0,0,0,,the more he'll think about Reddy and Bowser\Nand then won't be able to.
-Dialogue: 0,0:17:16.56,0:17:18.96,forest default C,,0,0,0,,{\i1}That's funny... Why can't I go to sleep?{\i}
-Dialogue: 0,0:17:20.92,0:17:22.19,forest default C,,0,0,0,,Ah...!
-Dialogue: 0,0:17:28.36,0:17:31.04,forest default C,,0,0,0,,{\i1}What's wrong? I can't go to sleep!{\i}
-Dialogue: 0,0:17:32.02,0:17:35.68,forest default C,,0,0,0,,{\i1}I never have trouble going to sleep.\NMaybe if I yawn...{\i}
-Dialogue: 0,0:17:38.97,0:17:40.57,forest default C,,0,0,0,,{\i1}I can't go to sleep!{\i}
-Dialogue: 0,0:17:41.99,0:17:46.06,forest default C,,0,0,0,,{\i1}What's wrong anyway?\NI can't go to sleep and hibernate!{\i}
-Dialogue: 0,0:17:50.34,0:17:53.15,forest default C,,0,0,0,,Hm. Hm... Oh...
-Dialogue: 0,0:17:55.33,0:17:56.62,forest default C,,0,0,0,,Hm... Oh!
-Dialogue: 0,0:17:58.46,0:18:01.24,forest default C,,0,0,0,,Come on, sleep, Peter, go to sleep, Peter.
-Dialogue: 0,0:18:01.47,0:18:03.86,forest default C,,0,0,0,,Sleep, come on, Peter, go to sleep.
-Dialogue: 0,0:18:04.18,0:18:07.16,forest default C,,0,0,0,,How I'm gonna hibernate\Nif I can't go to sleep?
-Dialogue: 0,0:18:08.52,0:18:09.66,forest default C,,0,0,0,,Hm...
-Dialogue: 0,0:18:10.38,0:18:12.79,forest default C,,0,0,0,,{\i1}Sleep, Peter, go to sleep.{\i}
-Dialogue: 0,0:18:13.99,0:18:16.45,forest default C,,0,0,0,,Oh... Oh...
-Dialogue: 0,0:18:18.66,0:18:19.19,forest default C,,0,0,0,,Oh!
-Dialogue: 0,0:18:22.03,0:18:22.73,forest default C,,0,0,0,,Oh...
-Dialogue: 0,0:18:23.74,0:18:24.62,forest default C,,0,0,0,,It's Reddy...
-Dialogue: 0,0:18:25.16,0:18:29.23,forest default C,,0,0,0,,Reddy's come to find Peter,\Noh, what am I gonna do?
-Dialogue: 0,0:18:29.49,0:18:32.62,forest default C,,0,0,0,,Or maybe it's Bowser?
-Dialogue: 0,0:18:35.20,0:18:38.43,forest default C,,0,0,0,,Wow, what'll I do?\NBowser will catch me and eat me!
-Dialogue: 0,0:18:41.64,0:18:44.71,forest default C,,0,0,0,,Oh, what will I do?\NBowser will eat me up, oh...
-Dialogue: 0,0:18:55.27,0:18:57.44,forest default C,,0,0,0,,Now it sounds more like Reddy.
-Dialogue: 0,0:19:03.55,0:19:06.80,forest default C,,0,0,0,,Now, why did I ever wanna hibernate, anyway?
-Dialogue: 0,0:19:07.40,0:19:10.16,forest default C,,0,0,0,,I... I can't sleep, even!
-Dialogue: 0,0:19:14.10,0:19:16.18,forest default C,,0,0,0,,And I'm getting hungry.
-Dialogue: 0,0:19:18.73,0:19:21.40,forest default C,,0,0,0,,Why did I ever wanna hibernate?
-Dialogue: 0,0:19:24.47,0:19:27.68,forest default C,,0,0,0,,I-I-I'll never get out alive.
-Dialogue: 0,0:19:32.69,0:19:33.36,forest default C,,0,0,0,,Huh?
-Dialogue: 0,0:19:35.22,0:19:36.48,forest default C,,0,0,0,,The noise is gone.
-Dialogue: 0,0:19:37.61,0:19:40.52,forest default C,,0,0,0,,How's Peter? Wonder what happened?\NI don't hear him.
-Dialogue: 0,0:19:40.92,0:19:42.44,forest default C,,0,0,0,,Could he have gone to sleep, huh?
-Dialogue: 0,0:20:05.10,0:20:07.72,forest default C,,0,0,0,,If Bowser came, Reddy might have fled.
-Dialogue: 0,0:20:08.10,0:20:10.15,forest default C,,0,0,0,,Then it's my chance to escape.
-Dialogue: 0,0:20:10.66,0:20:11.97,forest default C,,0,0,0,,Ah...!
-Dialogue: 0,0:20:14.14,0:20:17.11,forest default C,,0,0,0,,Nope. Wait. It might be a trick.
-Dialogue: 0,0:20:19.45,0:20:22.34,forest default C,,0,0,0,,That's it, Bowser has returned home\Nfor his dinner.
-Dialogue: 0,0:20:22.42,0:20:24.25,forest default C,,0,0,0,,I bet it's safe out there now.
-Dialogue: 0,0:20:24.96,0:20:25.80,forest default C,,0,0,0,,I'll see!
-Dialogue: 0,0:20:30.44,0:20:32.48,forest default C,,0,0,0,,Wow!
-Dialogue: 0,0:20:32.50,0:20:33.30,forest default C,,0,0,0,,Oh!
-Dialogue: 0,0:20:44.09,0:20:46.36,forest default C,,0,0,0,,Peter was so frightened, wasn't he?
-Dialogue: 0,0:20:55.63,0:20:57.98,forest default C,,0,0,0,,You guys! What's so funny anyway, huh?
-Dialogue: 0,0:21:06.32,0:21:08.26,forest default C,,0,0,0,,Uh.. So that...
-Dialogue: 0,0:21:08.57,0:21:11.38,forest default C,,0,0,0,,It was you guys outside playing tricks?
-Dialogue: 0,0:21:12.00,0:21:13.98,forest default C,,0,0,0,,{\i1}That was cruel, that was cruel!{\i}
-Dialogue: 0,0:21:14.14,0:21:15.76,forest default C,,0,0,0,,Sorry, sorry...
-Dialogue: 0,0:21:16.74,0:21:17.69,forest default C,,0,0,0,,We didn't really mean it!
-Dialogue: 0,0:21:20.68,0:21:23.29,forest default C,,0,0,0,,Oh, Peter, you were so funny...!
-Dialogue: 0,0:21:32.44,0:21:35.22,forest narrator C,,0,0,0,,{\i1}Peter tried to be angry\Nwith everyone, but couldn't.{\i}
-Dialogue: 0,0:21:35.50,0:21:39.33,forest narrator C,,0,0,0,,{\i1}The thought of having faced possible\Ndeath it came quite funny to Peter.{\i}
-Dialogue: 0,0:21:39.52,0:21:42.61,forest narrator C,,0,0,0,,{\i1}So, quite relieved, Peter laughed\Nheartily with everyone.{\i}
-Dialogue: 0,0:21:43.35,0:21:45.72,forest default C,,0,0,0,,Oh, aren't you all gonna\Nhibernate for the winter?
-Dialogue: 0,0:21:46.34,0:21:47.06,forest default C,,0,0,0,,Huh?!
-Dialogue: 0,0:21:49.20,0:21:51.62,forest default C,,0,0,0,,Better hurry before the cold snow starts falling!
-Dialogue: 0,0:21:55.02,0:21:56.90,forest default C,,0,0,0,,Hey, it doesn't bother me at all!
-Dialogue: 0,0:21:57.28,0:21:59.80,forest default C,,0,0,0,,I'll be jumping and playing\Nin the snow all winter!
-Dialogue: 0,0:22:00.48,0:22:03.60,forest default C,,0,0,0,,And if something amusing happens,\NI'll tell you about it later!
-Dialogue: 0,0:22:03.93,0:22:06.02,forest default C,,0,0,0,,Well... See you all next spring!
-Dialogue: 0,0:22:08.01,0:22:10.55,forest narrator C,,0,0,0,,{\i1}In the end, Peter realized\Nthat he couldn't imitate{\i}
-Dialogue: 0,0:22:10.58,0:22:13.64,forest narrator C,,0,0,0,,{\i1}what was natural, like hibernation,\Nfor some of his friends.{\i}
-Dialogue: 0,0:22:14.06,0:22:16.68,forest narrator C,,0,0,0,,{\i1}Peter was different,\Nhe had to be himself.{\i}
-Dialogue: 0,0:22:18.99,0:22:22.99,forest credits C,,0,0,0,,{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs
+Dialogue: 0,0:00:01.83,0:00:07.83,forest title KB,,0,0,0,,{TIME:1830,7830}FABLES \N of the\NGREEN FOREST
+Dialogue: 0,0:00:04.90,0:00:07.83,forest ep title C,,0,0,0,,{TIME:4900,7830}{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Peter the imitator"{\i}
+Dialogue: 0,0:00:47.26,0:00:51.44,forest default C,,0,0,0,,{TIME:47260,51440}Chip! Chip!\NLet's play, let's play! Hey, hey!
+Dialogue: 0,0:00:53.74,0:00:56.98,forest default C,,0,0,0,,{TIME:53740,56980}Chip, look at this, look at this, it's fun!\NLook at me!
+Dialogue: 0,0:00:58.03,0:00:58.69,forest default C,,0,0,0,,{TIME:58030,58690}Oh...
+Dialogue: 0,0:01:01.05,0:01:03.31,forest default C,,0,0,0,,{TIME:61050,63310}Oh... Hey...!
+Dialogue: 0,0:01:03.64,0:01:04.39,forest default C,,0,0,0,,{TIME:63640,64390}Hey.
+Dialogue: 0,0:01:06.75,0:01:09.78,forest default C,,0,0,0,,{TIME:66750,69780}Hey, Chip, come on, let's play.\NLook at this now. Hey...
+Dialogue: 0,0:01:10.10,0:01:12.67,forest default C,,0,0,0,,{TIME:70100,72670}How do you like this?\NSaw it?
+Dialogue: 0,0:01:13.42,0:01:15.94,forest default C,,0,0,0,,{TIME:73420,75940}{\i1}Oh... come on Chip, let's play!{\i}
+Dialogue: 0,0:01:16.25,0:01:18.55,forest default C,,0,0,0,,{TIME:76250,78550}Hey, look at this.\NIsn't this neat?
+Dialogue: 0,0:01:20.11,0:01:23.30,forest default C,,0,0,0,,{TIME:80110,83300}Come on, Chip, let's play! Oh, boy!
+Dialogue: 0,0:01:23.30,0:01:27.16,forest default C,,0,0,0,,{TIME:83300,87160}{\i1}Sorry, Peter, I don't have time. Work, work,\Nwork, gotta work, gotta work, gotta work.{\i}
+Dialogue: 0,0:01:28.02,0:01:31.60,forest default C,,0,0,0,,{TIME:88020,91600}Busy, busy, busy. We've got to get ready\Nfor winter. We've got to work, work, work. Busy.
+Dialogue: 0,0:01:31.86,0:01:33.31,forest default C,,0,0,0,,{TIME:91860,93310}Oh...
+Dialogue: 0,0:01:35.08,0:01:36.80,forest default C,,0,0,0,,{TIME:95080,96800}Huh...
+Dialogue: 0,0:01:37.54,0:01:39.34,forest default C,,0,0,0,,{TIME:97540,99340}You boring people...
+Dialogue: 0,0:01:39.95,0:01:42.98,forest default C,,0,0,0,,{TIME:99950,102980}Oh, oof... Oh, boy.
+Dialogue: 0,0:01:43.46,0:01:46.54,forest default C,,0,0,0,,{TIME:103460,106540}Oh. Oh. Uh.
+Dialogue: 0,0:01:46.92,0:01:50.04,forest default C,,0,0,0,,{TIME:106920,110040}Such a...
+Dialogue: 0,0:01:50.80,0:01:53.16,forest default C,,0,0,0,,{TIME:110800,113160}Hey, Johnny!
+Dialogue: 0,0:01:56.56,0:01:59.23,forest default C,,0,0,0,,{TIME:116560,119230}Hey, Johnny, let's go\Nto the Green Meadow and play, huh?
+Dialogue: 0,0:01:59.90,0:02:02.38,forest default C,,0,0,0,,{TIME:119900,122380}Don't bother me, Peter.\NThere's not much time left.
+Dialogue: 0,0:02:03.13,0:02:05.48,forest default C,,0,0,0,,{TIME:123130,125480}- Huh?\N- Winter will be here soon, you know!
+Dialogue: 0,0:02:07.48,0:02:09.57,forest default C,,0,0,0,,{TIME:127480,129570}Johnny, are you gonna say you can't play too?
+Dialogue: 0,0:02:09.78,0:02:13.82,forest default C,,0,0,0,,{TIME:129780,133820}- I'm too busy now, I'll meet you in the spring.\N- Johnny, meet me in the spring?!
+Dialogue: 0,0:02:18.64,0:02:22.08,forest default C,,0,0,0,,{TIME:138640,142080}Oh, boy, oh...\NNobody wants to...
+Dialogue: 0,0:02:23.20,0:02:26.52,forest default C,,0,0,0,,{TIME:143200,146520}- Hey, Chatterer! Chatterer!\N- What is it, Peter?
+Dialogue: 0,0:02:26.66,0:02:28.31,forest default C,,0,0,0,,{TIME:146660,148310}Let's go play, Chatterer.
+Dialogue: 0,0:02:29.40,0:02:32.44,forest default C,,0,0,0,,{TIME:149400,152440}Golly, I've no time to play.\NI'm very busy.
+Dialogue: 0,0:02:34.14,0:02:37.10,forest default C,,0,0,0,,{TIME:154140,157100}- My work's not done yet, Peter.\N- Chatterer!
+Dialogue: 0,0:02:37.22,0:02:38.98,forest default C,,0,0,0,,{TIME:157220,158980}Well, anyhow, I'm busy.
+Dialogue: 0,0:02:41.42,0:02:43.33,forest default C,,0,0,0,,{TIME:161420,163330}I don't want to be bothered.
+Dialogue: 0,0:02:43.72,0:02:46.64,forest default C,,0,0,0,,{TIME:163720,166640}{\i1}I'm busy with my winter preparations.{\i}
+Dialogue: 0,0:02:47.50,0:02:51.12,forest default C,,0,0,0,,{TIME:167500,171120}Look around, Peter. Winter is coming,\Nwinter's coming!
+Dialogue: 0,0:02:52.66,0:02:56.26,forest default C,,0,0,0,,{TIME:172660,176260}Leave me alone, the cold winter is coming! Oh!
+Dialogue: 0,0:02:58.34,0:03:00.48,forest default C,,0,0,0,,{TIME:178340,180480}What's the matter with everybody?
+Dialogue: 0,0:03:00.63,0:03:03.43,forest default C,,0,0,0,,{TIME:180630,183430}Here I am asking them to play, and they...
+Dialogue: 0,0:03:04.12,0:03:06.23,forest default C,,0,0,0,,{TIME:184120,186230}...they just... they say...
+Dialogue: 0,0:03:06.89,0:03:08.28,forest default C,,0,0,0,,{TIME:186890,188280}..."There's no time!"...
+Dialogue: 0,0:03:09.77,0:03:10.87,forest default C,,0,0,0,,{TIME:189770,190870}...that "I'm busy"...
+Dialogue: 0,0:03:11.96,0:03:13.72,forest default C,,0,0,0,,{TIME:191960,193720}...that "I'm preparing for winter"...
+Dialogue: 0,0:03:15.86,0:03:16.43,forest default C,,0,0,0,,{TIME:195860,196430}...and, uh...
+Dialogue: 0,0:03:17.29,0:03:21.44,forest default C,,0,0,0,,{TIME:197290,201440}...yeah, "Let's meet again next spring".\NWhy... Wait a minute!
+Dialogue: 0,0:03:23.11,0:03:26.04,forest default C,,0,0,0,,{TIME:203110,206040}Why, that's what Johnny said,\N"Let's meet again".
+Dialogue: 0,0:03:26.88,0:03:28.71,forest default C,,0,0,0,,{TIME:206880,208710}Well, what on earth did he mean?
+Dialogue: 0,0:03:28.71,0:03:31.89,forest default C,,0,0,0,,{TIME:208710,211890}Winter isn't here yet,\Nand spring is far, far away.
+Dialogue: 0,0:03:32.48,0:03:36.78,forest default C,,0,0,0,,{TIME:212480,216780}That Johnny, I wonder, he said\Nwe couldn't meet until winter has passed.
+Dialogue: 0,0:03:38.33,0:03:40.83,forest default C,,0,0,0,,{TIME:218330,220830}It couldn't be he's going some place far away?
+Dialogue: 0,0:03:41.36,0:03:43.29,forest default C,,0,0,0,,{TIME:221360,223290}That couldn't be... that couldn't be...
+Dialogue: 0,0:03:43.50,0:03:45.65,forest default C,,0,0,0,,{TIME:223500,225650}I wonder why we couldn't meet during winter?
+Dialogue: 0,0:03:46.74,0:03:48.91,forest default C,,0,0,0,,{TIME:226740,228910}We've been meeting all along up till now.
+Dialogue: 0,0:03:49.66,0:03:50.18,forest default C,,0,0,0,,{TIME:229660,230180}Hmm...
+Dialogue: 0,0:03:50.30,0:03:54.50,forest narrator C,,0,0,0,,{TIME:230300,234500}{\i1}Peter just couldn't understand why everybody\Nwas so occupied with winter preparations.{\i}
+Dialogue: 0,0:03:54.96,0:03:57.51,forest narrator C,,0,0,0,,{TIME:234960,237510}{\i1}For Peter, winter preparations required nothing.{\i}
+Dialogue: 0,0:03:57.86,0:03:59.91,forest narrator C,,0,0,0,,{TIME:237860,239910}{\i1}He would just naturally grow longer fur.{\i}
+Dialogue: 0,0:04:00.98,0:04:04.46,forest default C,,0,0,0,,{TIME:240980,244460}That's it!\NI'll ask Grandfather Frog of the Smiling Pool.
+Dialogue: 0,0:04:04.68,0:04:07.30,forest default C,,0,0,0,,{TIME:244680,247300}Grandfather is wise and he should know.
+Dialogue: 0,0:04:15.00,0:04:18.64,forest default C,,0,0,0,,{TIME:255000,258640}Grandfather! Grandfather!\NGrandfather Frog!
+Dialogue: 0,0:04:19.86,0:04:21.06,forest default C,,0,0,0,,{TIME:259860,261060}Hey...
+Dialogue: 0,0:04:23.48,0:04:25.36,forest default C,,0,0,0,,{TIME:263480,265360}Where in the world could he have gone?
+Dialogue: 0,0:04:26.48,0:04:28.45,forest default C,,0,0,0,,{TIME:266480,268450}Grandfather!
+Dialogue: 0,0:04:28.85,0:04:30.57,forest default C,,0,0,0,,{TIME:268850,270570}Grandfather Frog!
+Dialogue: 0,0:04:32.51,0:04:33.63,forest default C,,0,0,0,,{TIME:272510,273630}- Hi ya, Peter!\N- Hi ya, Peter!
+Dialogue: 0,0:04:34.78,0:04:37.65,forest default C,,0,0,0,,{TIME:274780,277650}Hi, Joe, hi, Harry, where's Grandfather Frog?
+Dialogue: 0,0:04:38.16,0:04:40.11,forest default C,,0,0,0,,{TIME:278160,280110}- Grandfather Frog isn't here.\N- Grandfather Frog isn't here.
+Dialogue: 0,0:04:40.98,0:04:41.80,forest default C,,0,0,0,,{TIME:280980,281800}Not here?
+Dialogue: 0,0:04:42.63,0:04:43.98,forest default C,,0,0,0,,{TIME:282630,283980}Where is he, anyway?
+Dialogue: 0,0:04:46.40,0:04:49.53,forest default C,,0,0,0,,{TIME:286400,289530}- He's in the mud down below.\N- Yeah, in the mud down below.
+Dialogue: 0,0:04:49.67,0:04:50.42,forest default C,,0,0,0,,{TIME:289670,290420}Huh?
+Dialogue: 0,0:04:55.63,0:04:58.72,forest default C,,0,0,0,,{TIME:295630,298720}{\i1}- Yeah, he buried himself.\N- Yeah, he buried himself.{\i}
+Dialogue: 0,0:05:03.14,0:05:04.64,forest default C,,0,0,0,,{TIME:303140,304640}- Hibernating, he said.\N- Hibernating, he said.
+Dialogue: 0,0:05:04.94,0:05:06.28,forest default C,,0,0,0,,{TIME:304940,306280}Hibernation?
+Dialogue: 0,0:05:06.64,0:05:09.17,forest default C,,0,0,0,,{TIME:306640,309170}Yeah, he said to give his regards\Nto everyone in the forest.
+Dialogue: 0,0:05:10.56,0:05:12.66,forest default C,,0,0,0,,{TIME:310560,312660}He said we'd meet up again in the spring.
+Dialogue: 0,0:05:20.06,0:05:22.75,forest default C,,0,0,0,,{TIME:320060,322750}Now, what did they mean,\Nlet's meet again in the springtime?
+Dialogue: 0,0:05:24.70,0:05:28.82,forest default C,,0,0,0,,{TIME:324700,328820}{\i1}I just don't understand.\NI just don't understand.{\i}
+Dialogue: 0,0:05:35.44,0:05:39.62,forest default C,,0,0,0,,{TIME:335440,339620}Oh... Winter preparations.\NThen wait for spring.
+Dialogue: 0,0:05:40.25,0:05:42.92,forest default C,,0,0,0,,{TIME:340250,342920}Then spring comes\Nand you wait for autumn.
+Dialogue: 0,0:05:43.78,0:05:47.53,forest default C,,0,0,0,,{TIME:343780,347530}And then autumn comes\Nand then it's springtime again. What?
+Dialogue: 0,0:05:48.24,0:05:51.41,forest default C,,0,0,0,,{TIME:348240,351410}I don't understand.\NI just don't understand.
+Dialogue: 0,0:05:55.70,0:05:56.80,forest default C,,0,0,0,,{TIME:355700,356800}Oh...
+Dialogue: 0,0:05:57.98,0:05:59.31,forest default C,,0,0,0,,{TIME:357980,359310}Why, what's that?
+Dialogue: 0,0:06:11.24,0:06:12.30,forest default C,,0,0,0,,{TIME:371240,372300}I like the winter!
+Dialogue: 0,0:06:13.13,0:06:16.69,forest default C,,0,0,0,,{TIME:373130,376690}I like the snow!\NWhy does everybody leave me all alone?
+Dialogue: 0,0:06:18.20,0:06:21.28,forest default C,,0,0,0,,{TIME:378200,381280}I don't understand.\NMy head is groggy.
+Dialogue: 0,0:06:22.35,0:06:27.31,forest default C,,0,0,0,,{TIME:382350,387310}Groggy, groggy, groggy!\NGroggy, groggy, groggy!
+Dialogue: 0,0:06:30.06,0:06:31.19,forest default C,,0,0,0,,{TIME:390060,391190}I like the winter!
+Dialogue: 0,0:06:32.22,0:06:35.74,forest default C,,0,0,0,,{TIME:392220,395740}I like the snow! I just don't understand!
+Dialogue: 0,0:06:36.93,0:06:40.40,forest default C,,0,0,0,,{TIME:396930,400400}Why, my head is groggy.\NGroggy, groggy, groggy!
+Dialogue: 0,0:06:41.79,0:06:44.02,forest default C,,0,0,0,,{TIME:401790,404020}I like the winter!\NI like the snow!
+Dialogue: 0,0:06:44.26,0:06:47.77,forest default C,,0,0,0,,{TIME:404260,407770}My head is groggy!\NMy head is groggy, groggy, groggy!
+Dialogue: 0,0:06:48.04,0:06:52.35,forest default C,,0,0,0,,{TIME:408040,412350}I like the winter! I like the snow!\NMy head is groggy, groggy, groggy!
+Dialogue: 0,0:06:52.52,0:06:56.10,forest default C,,0,0,0,,{TIME:412520,416100}I like the winter and the snow!\NMy head is so groggy, groggy!
+Dialogue: 0,0:06:58.44,0:07:01.62,forest default C,,0,0,0,,{TIME:418440,421620}What is it this late at night, Peter?
+Dialogue: 0,0:07:01.85,0:07:05.70,forest default C,,0,0,0,,{TIME:421850,425700}You know what Johnny said? Johnny said\Nto meet me next spring, Uncle Billy.
+Dialogue: 0,0:07:06.53,0:07:08.47,forest default C,,0,0,0,,{TIME:426530,428470}What does that mean, anyway?
+Dialogue: 0,0:07:09.16,0:07:13.05,forest default C,,0,0,0,,{TIME:429160,433050}- Well, in brief it means that...\N{\i1}- Father, shut the door, please.{\i}
+Dialogue: 0,0:07:13.16,0:07:16.38,forest default C,,0,0,0,,{TIME:433160,436380}{\i1}What are we going to do\Nif the children catch cold?{\i}
+Dialogue: 0,0:07:16.53,0:07:18.32,forest default C,,0,0,0,,{TIME:436530,438320}Yes, yes, I know, Mother!
+Dialogue: 0,0:07:24.04,0:07:27.54,forest default C,,0,0,0,,{TIME:444040,447540}- In brief, Peter, that's just what Johnny said.\N- Just what he said?
+Dialogue: 0,0:07:27.68,0:07:31.62,forest default C,,0,0,0,,{TIME:447680,451620}- Right. So you won't meet till next spring.\N- Not meet until next spring?!
+Dialogue: 0,0:07:32.75,0:07:36.52,forest default C,,0,0,0,,{TIME:452750,456520}- Go to bed and sleep.\N- But to sleep until next spring?
+Dialogue: 0,0:07:36.92,0:07:37.91,forest default C,,0,0,0,,{TIME:456920,457910}M-hm.
+Dialogue: 0,0:07:39.48,0:07:43.20,forest default C,,0,0,0,,{TIME:459480,463200}That's right. That's what we call hibernation.
+Dialogue: 0,0:07:43.34,0:07:45.94,forest default C,,0,0,0,,{TIME:463340,465940}But they get mighty hungry by then.
+Dialogue: 0,0:07:51.60,0:07:54.62,forest default C,,0,0,0,,{TIME:471600,474620}So that's it! So that's why Johnny...
+Dialogue: 0,0:07:54.86,0:07:58.34,forest default C,,0,0,0,,{TIME:474860,478340}Johnny was eating so much,\Nso he wouldn't going to get hungry this winter.
+Dialogue: 0,0:07:58.40,0:08:01.40,forest default C,,0,0,0,,{TIME:478400,481400}- Mm-hm. That's right, Peter.\N- Oh...
+Dialogue: 0,0:08:04.32,0:08:07.57,forest default C,,0,0,0,,{TIME:484320,487570}When winter comes, some people\Ngo to live in a warm climate.
+Dialogue: 0,0:08:08.25,0:08:09.99,forest default C,,0,0,0,,{TIME:488250,489990}{\i1}And others... Others...{\i}
+Dialogue: 0,0:08:10.25,0:08:13.76,forest default C,,0,0,0,,{TIME:490250,493760}...eat now and fill up their stomachs\Nand sleep real soundly
+Dialogue: 0,0:08:13.76,0:08:15.82,forest default C,,0,0,0,,{TIME:493760,495820}not eating and not running around.
+Dialogue: 0,0:08:15.98,0:08:17.14,forest default C,,0,0,0,,{TIME:495980,497140}{\i1}Father!{\i}
+Dialogue: 0,0:08:17.82,0:08:21.59,forest default C,,0,0,0,,{TIME:497820,501590}{\i1}What are you doing out there for so long?\NThe night wind is cold.{\i}
+Dialogue: 0,0:08:22.08,0:08:25.45,forest default C,,0,0,0,,{TIME:502080,505450}Yes, yes, yes, I know, mother, I'm coming.
+Dialogue: 0,0:08:26.46,0:08:28.27,forest default C,,0,0,0,,{TIME:506460,508270}Did you understand, Peter?
+Dialogue: 0,0:08:29.20,0:08:33.95,forest default C,,0,0,0,,{TIME:509200,513950}{\i1}- Father?!{\i}\N- Yes, yes, I'm coming right now...
+Dialogue: 0,0:08:36.36,0:08:37.44,forest default C,,0,0,0,,{TIME:516360,517440}Good night, Peter.
+Dialogue: 0,0:08:38.50,0:08:39.97,forest default C,,0,0,0,,{TIME:518500,519970}Good night, Uncle Billy.
+Dialogue: 0,0:08:42.75,0:08:45.82,forest default C,,0,0,0,,{TIME:522750,525820}Wow... They're hibernating, huh?
+Dialogue: 0,0:08:46.53,0:08:47.30,forest default C,,0,0,0,,{TIME:526530,527300}Oh...
+Dialogue: 0,0:08:49.32,0:08:52.51,forest default C,,0,0,0,,{TIME:529320,532510}Johnny and all my friends\Nare getting ready to hibernate?
+Dialogue: 0,0:08:58.39,0:09:00.52,forest default C,,0,0,0,,{TIME:538390,540520}They're getting ready to hibernate?
+Dialogue: 0,0:09:02.06,0:09:02.88,forest default C,,0,0,0,,{TIME:542060,542880}Oh...
+Dialogue: 0,0:09:19.26,0:09:20.24,forest default C,,0,0,0,,{TIME:559260,560240}To sleep until...
+Dialogue: 0,0:09:22.75,0:09:24.98,forest default C,,0,0,0,,{TIME:562750,564980}...until spring...\NHow nice!
+Dialogue: 0,0:09:25.83,0:09:30.05,forest default C,,0,0,0,,{TIME:565830,570050}Not have to worry about looking for food,\Nand sleep all winter with a full stomach.
+Dialogue: 0,0:09:33.68,0:09:36.35,forest default C,,0,0,0,,{TIME:573680,576350}When the snow falls,\Nthere's no place to hide
+Dialogue: 0,0:09:36.35,0:09:40.70,forest default C,,0,0,0,,{TIME:576350,580700}from Reddy and the Mean Weasel and\Nthat finding men with their gun, oh...
+Dialogue: 0,0:09:46.51,0:09:48.84,forest default C,,0,0,0,,{TIME:586510,588840}I-I-I'm scared!
+Dialogue: 0,0:09:49.70,0:09:51.34,forest default C,,0,0,0,,{TIME:589700,591340}So... hibernation...
+Dialogue: 0,0:09:52.66,0:09:55.47,forest default C,,0,0,0,,{TIME:592660,595470}Hm. Hm...! Hm!
+Dialogue: 0,0:09:59.42,0:10:00.55,forest default C,,0,0,0,,{TIME:599420,600550}Hm...
+Dialogue: 0,0:10:01.26,0:10:03.52,forest default C,,0,0,0,,{TIME:601260,603520}Why, that's it!\NHey...!
+Dialogue: 0,0:10:04.92,0:10:06.70,forest default C,,0,0,0,,{TIME:604920,606700}I'll hibernate, I'll hibernate!
+Dialogue: 0,0:10:08.11,0:10:10.21,forest default C,,0,0,0,,{TIME:608110,610210}Hey, I'll hibernate, yeah!
+Dialogue: 0,0:10:11.46,0:10:12.98,forest default C,,0,0,0,,{TIME:611460,612980}I'll hibernate, I'll hibernate!
+Dialogue: 0,0:10:12.98,0:10:16.96,forest default C,,0,0,0,,{TIME:612980,616960}If Johnny can sleep all through\Nthe winter, why, I should be able to!
+Dialogue: 0,0:10:20.44,0:10:21.96,forest default C,,0,0,0,,{TIME:620440,621960}{\i1}Peter! Peter!{\i}
+Dialogue: 0,0:10:24.24,0:10:25.68,forest default C,,0,0,0,,{TIME:624240,625680}Oh, Uncle Billy!
+Dialogue: 0,0:10:29.24,0:10:32.00,forest default C,,0,0,0,,{TIME:629240,632000}Uncle Billy, can I ask you something, please?
+Dialogue: 0,0:10:32.56,0:10:34.76,forest default C,,0,0,0,,{TIME:632560,634760}Why, sure, what is it Peter?
+Dialogue: 0,0:10:35.22,0:10:37.14,forest default C,,0,0,0,,{TIME:635220,637140}About... hibernation.
+Dialogue: 0,0:10:37.68,0:10:40.56,forest default C,,0,0,0,,{TIME:637680,640560}Just a minute now. I'm going to come down.
+Dialogue: 0,0:10:47.12,0:10:50.17,forest default C,,0,0,0,,{TIME:647120,650170}I'm... I'm thinking of hibernating.
+Dialogue: 0,0:10:50.48,0:10:52.57,forest default C,,0,0,0,,{TIME:650480,652570}What?! Hibernating?
+Dialogue: 0,0:10:54.66,0:10:59.63,forest default C,,0,0,0,,{TIME:654660,659630}In all my years, I never yet heard\Nof a rabbit hibernating!
+Dialogue: 0,0:11:05.18,0:11:07.86,forest default C,,0,0,0,,{TIME:665180,667860}But... even Johnny does it... so I...
+Dialogue: 0,0:11:09.30,0:11:11.11,forest default C,,0,0,0,,{TIME:669300,671110}I figure I can do it too.
+Dialogue: 0,0:11:12.04,0:11:15.57,forest default C,,0,0,0,,{TIME:672040,675570}If Johnny the Woodchuck can do it,\NI should be able to eat enough food
+Dialogue: 0,0:11:15.57,0:11:19.65,forest default C,,0,0,0,,{TIME:675570,679650}and stay full winter, be the first\Nrabbit to hibernate, hibernate!
+Dialogue: 0,0:11:19.92,0:11:24.34,forest default C,,0,0,0,,{TIME:679920,684340}I'm going to be the first rabbit\Nto hibernate, hibernate, uh-huh!
+Dialogue: 0,0:11:24.46,0:11:26.40,forest lyrics C,,0,0,0,,{TIME:684460,686400}{\i1}I'm going to sleep all winter.{\i}
+Dialogue: 0,0:11:26.49,0:11:30.52,forest lyrics C,,0,0,0,,{TIME:686490,690520}{\i1}I'm going to be the very first\Nrabbit to hibernate, hibernate!{\i}
+Dialogue: 0,0:11:30.75,0:11:32.65,forest lyrics C,,0,0,0,,{TIME:690750,692650}{\i1}I'm gonna sleep all winter.{\i}
+Dialogue: 0,0:11:32.68,0:11:36.39,forest lyrics C,,0,0,0,,{TIME:692680,696390}{\i1}I'm gonna sleep all winter\Nand not work, uh-huh!{\i}
+Dialogue: 0,0:11:36.50,0:11:38.58,forest lyrics C,,0,0,0,,{TIME:696500,698580}{\i1}I'm gonna hibernate, hibernate!{\i}
+Dialogue: 0,0:11:38.79,0:11:42.42,forest lyrics C,,0,0,0,,{TIME:698790,702420}{\i1}I'm gonna sleep all winter\Nand hibernate, hibernate!{\i}
+Dialogue: 0,0:11:42.61,0:11:47.01,forest lyrics C,,0,0,0,,{TIME:702610,707010}{\i1}I'm just gonna be full all winter,\Nand hibernate, hibernate!{\i}
+Dialogue: 0,0:11:49.75,0:11:52.20,forest default C,,0,0,0,,{TIME:709750,712200}I can hibernate too,\Nisn't that right, Uncle Billy?
+Dialogue: 0,0:11:52.76,0:11:55.06,forest default C,,0,0,0,,{TIME:712760,715060}Well... I've never heard of it.
+Dialogue: 0,0:11:55.79,0:11:57.08,forest default C,,0,0,0,,{TIME:715790,717080}But if you think...
+Dialogue: 0,0:11:57.94,0:12:00.02,forest default C,,0,0,0,,{TIME:717940,720020}...if you think you can do it,
+Dialogue: 0,0:12:00.59,0:12:05.25,forest default C,,0,0,0,,{TIME:720590,725250}you'd better find a warm place\Nfor you to sleep all winter.
+Dialogue: 0,0:12:05.42,0:12:08.02,forest default C,,0,0,0,,{TIME:725420,728020}Uh-huh, uh-huh, uh-huh.\NYeah. That'll be easy.
+Dialogue: 0,0:12:08.36,0:12:11.15,forest default C,,0,0,0,,{TIME:728360,731150}Also, you must put on a lot of weight.
+Dialogue: 0,0:12:11.62,0:12:15.61,forest default C,,0,0,0,,{TIME:731620,735610}- Uh, get fat?\N- Yes, you have to get big and fat.
+Dialogue: 0,0:12:16.03,0:12:17.25,forest default C,,0,0,0,,{TIME:736030,737250}Why-why is that?
+Dialogue: 0,0:12:19.51,0:12:23.29,forest default C,,0,0,0,,{TIME:739510,743290}That's because during the winter\Nyou won't be eating.
+Dialogue: 0,0:12:26.16,0:12:28.83,forest default C,,0,0,0,,{TIME:746160,748830}So that you won't be hungry,\Nthat's why!
+Dialogue: 0,0:12:29.86,0:12:34.12,forest default C,,0,0,0,,{TIME:749860,754120}Also, if you're fat during the cold winter,\Nyou can survive in warmth
+Dialogue: 0,0:12:34.22,0:12:37.85,forest default C,,0,0,0,,{TIME:754220,757850}- ...and you won't be cold at all.\N- How do I get fat, anyway?
+Dialogue: 0,0:12:38.21,0:12:40.14,forest default C,,0,0,0,,{TIME:758210,760140}By eating heartily.
+Dialogue: 0,0:12:42.04,0:12:44.96,forest default C,,0,0,0,,{TIME:762040,764960}Eat heartily and then... eat some more.
+Dialogue: 0,0:12:45.37,0:12:49.99,forest default C,,0,0,0,,{TIME:765370,769990}Even if your stomach hurts, eat more.\NThen, more and more!
+Dialogue: 0,0:12:50.77,0:12:53.58,forest default C,,0,0,0,,{TIME:770770,773580}If it's just eating,\Nthat won't be any problem.
+Dialogue: 0,0:12:53.71,0:12:55.90,forest default C,,0,0,0,,{TIME:773710,775900}I just love to eat and eat!
+Dialogue: 0,0:12:56.83,0:12:59.06,forest default C,,0,0,0,,{TIME:776830,779060}That's easy. Is that all, Uncle Billy?
+Dialogue: 0,0:12:59.84,0:13:01.28,forest default C,,0,0,0,,{TIME:779840,781280}Yep, that's all Peter.
+Dialogue: 0,0:13:02.02,0:13:02.64,forest default C,,0,0,0,,{TIME:782020,782640}Oops...
+Dialogue: 0,0:13:03.54,0:13:04.93,forest default C,,0,0,0,,{TIME:783540,784930}...just one more thing,
+Dialogue: 0,0:13:05.71,0:13:08.32,forest default C,,0,0,0,,{TIME:785710,788320}this is the most important thing:
+Dialogue: 0,0:13:08.78,0:13:13.39,forest default C,,0,0,0,,{TIME:788780,793390}when you go to sleep, don't worry\Nabout Reddy or Bowser coming in.
+Dialogue: 0,0:13:15.32,0:13:17.92,forest default C,,0,0,0,,{TIME:795320,797920}Just worry about going to sleep.
+Dialogue: 0,0:13:18.51,0:13:21.61,forest default C,,0,0,0,,{TIME:798510,801610}- Forget about everything else.\N- Huh...
+Dialogue: 0,0:13:22.28,0:13:24.38,forest default C,,0,0,0,,{TIME:802280,804380}That's easy. Thank you, Uncle Billy!
+Dialogue: 0,0:13:28.71,0:13:32.64,forest default C,,0,0,0,,{TIME:808710,812640}My, my, Peter is sure one\Nto do odd things.
+Dialogue: 0,0:13:33.33,0:13:37.32,forest default C,,0,0,0,,{TIME:813330,817320}With his fur, there's no need for him\Nto hibernate all winter!
+Dialogue: 0,0:13:54.20,0:13:58.71,forest default C,,0,0,0,,{TIME:834200,838710}Say, Peter, what's the big idea,\Nentering someone else's house?
+Dialogue: 0,0:13:58.87,0:14:01.96,forest default C,,0,0,0,,{TIME:838870,841960}Uh, s-s-sorry! Actually, I was looking for
+Dialogue: 0,0:14:02.01,0:14:03.95,forest default C,,0,0,0,,{TIME:842010,843950}a winter hibernating spot.
+Dialogue: 0,0:14:04.41,0:14:05.78,forest default C,,0,0,0,,{TIME:844410,845780}Hibernating?!
+Dialogue: 0,0:14:06.92,0:14:07.54,forest default C,,0,0,0,,{TIME:846920,847540}Yeah.
+Dialogue: 0,0:14:24.79,0:14:28.06,forest narrator C,,0,0,0,,{TIME:864790,868060}{\i1}After looking and looking, Peter finds a cave{\i}
+Dialogue: 0,0:14:28.06,0:14:30.46,forest narrator C,,0,0,0,,{TIME:868060,870460}{\i1}that Jimmy the Skunk had previously lived in.{\i}
+Dialogue: 0,0:14:36.56,0:14:38.63,forest default C,,0,0,0,,{TIME:876560,878630}{\i1}Wow, this is good!{\i}
+Dialogue: 0,0:14:39.73,0:14:42.58,forest default C,,0,0,0,,{TIME:879730,882580}Lack of rear entrance\Nsort of bothers me, but...
+Dialogue: 0,0:14:43.20,0:14:47.06,forest default C,,0,0,0,,{TIME:883200,887060}...since I'll be sleeping all winter,\Nthere's nothing to worry about, I guess.
+Dialogue: 0,0:14:48.08,0:14:52.08,forest default C,,0,0,0,,{TIME:888080,892080}The entrance is small, the interior deep,\Nit's tailor-made just for me.
+Dialogue: 0,0:14:52.19,0:14:57.31,forest default C,,0,0,0,,{TIME:892190,897310}Next to eating heartily, and getting fat,\Nhibernating is easy! Yeah!
+Dialogue: 0,0:15:29.98,0:15:30.86,forest default C,,0,0,0,,{TIME:929980,930860}And more and more.
+Dialogue: 0,0:15:32.47,0:15:32.99,forest default C,,0,0,0,,{TIME:932470,932990}Oh...
+Dialogue: 0,0:15:34.62,0:15:37.10,forest default C,,0,0,0,,{TIME:934620,937100}To get fat isn't as easy as I thought.
+Dialogue: 0,0:15:38.28,0:15:39.10,forest default C,,0,0,0,,{TIME:938280,939100}Oh...
+Dialogue: 0,0:15:42.48,0:15:44.61,forest default C,,0,0,0,,{TIME:942480,944610}I couldn't get too fat, but that's alright.
+Dialogue: 0,0:15:45.37,0:15:46.90,forest default C,,0,0,0,,{TIME:945370,946900}{\i1}Because I better start hibernating.{\i}
+Dialogue: 0,0:15:47.16,0:15:49.22,forest default C,,0,0,0,,{TIME:947160,949220}I sure admire his efforts.
+Dialogue: 0,0:15:51.14,0:15:52.30,forest default C,,0,0,0,,{TIME:951140,952300}Oh!
+Dialogue: 0,0:15:53.25,0:15:54.37,forest default C,,0,0,0,,{TIME:953250,954370}Oh!
+Dialogue: 0,0:15:55.01,0:15:57.32,forest default C,,0,0,0,,{TIME:955010,957320}A bit scared to hibernate?
+Dialogue: 0,0:15:58.09,0:16:00.05,forest default C,,0,0,0,,{TIME:958090,960050}Or wonder why you made the effort?
+Dialogue: 0,0:16:01.06,0:16:04.78,forest default C,,0,0,0,,{TIME:961060,964780}Everyone in the forest,\Nlet's meet again in the spring!
+Dialogue: 0,0:16:06.28,0:16:07.03,forest default C,,0,0,0,,{TIME:966280,967030}Oops!
+Dialogue: 0,0:16:08.26,0:16:10.09,forest default C,,0,0,0,,{TIME:968260,970090}Let's meet again in the spring!
+Dialogue: 0,0:16:12.26,0:16:13.04,forest default C,,0,0,0,,{TIME:972260,973040}So...
+Dialogue: 0,0:16:17.32,0:16:21.91,forest default C,,0,0,0,,{TIME:977320,981910}Ah. Yep. Upon re-examining this place\Nit's ideal for hibernation.
+Dialogue: 0,0:16:25.28,0:16:27.96,forest default C,,0,0,0,,{TIME:985280,987960}That's it!\NI'll just tease Peter a little...
+Dialogue: 0,0:16:31.72,0:16:32.85,forest default C,,0,0,0,,{TIME:991720,992850}Ah...
+Dialogue: 0,0:16:36.70,0:16:39.69,forest default C,,0,0,0,,{TIME:996700,999690}Ah... Hibernating is sure fun!
+Dialogue: 0,0:16:47.83,0:16:50.87,forest default C,,0,0,0,,{TIME:1007830,1010870}I've told Peter that when he goes to sleep
+Dialogue: 0,0:16:51.16,0:16:55.15,forest default C,,0,0,0,,{TIME:1011160,1015150}he must not think of whether\NReddy the Fox or Bowser the Dog
+Dialogue: 0,0:16:55.38,0:16:58.67,forest default C,,0,0,0,,{TIME:1015380,1018670}might find his sleeping place.\NYou understand?
+Dialogue: 0,0:16:58.91,0:17:00.66,forest default C,,0,0,0,,{TIME:1018910,1020660}But is Peter in bed now?
+Dialogue: 0,0:17:01.25,0:17:03.88,forest default C,,0,0,0,,{TIME:1021250,1023880}Yes. And the more he tries to sleep,
+Dialogue: 0,0:17:04.09,0:17:07.74,forest default C,,0,0,0,,{TIME:1024090,1027740}the more he'll think about Reddy and Bowser\Nand then won't be able to.
+Dialogue: 0,0:17:16.56,0:17:18.96,forest default C,,0,0,0,,{TIME:1036560,1038960}{\i1}That's funny... Why can't I go to sleep?{\i}
+Dialogue: 0,0:17:20.92,0:17:22.19,forest default C,,0,0,0,,{TIME:1040920,1042190}Ah...!
+Dialogue: 0,0:17:28.36,0:17:31.04,forest default C,,0,0,0,,{TIME:1048360,1051040}{\i1}What's wrong? I can't go to sleep!{\i}
+Dialogue: 0,0:17:32.02,0:17:35.68,forest default C,,0,0,0,,{TIME:1052020,1055680}{\i1}I never have trouble going to sleep.\NMaybe if I yawn...{\i}
+Dialogue: 0,0:17:38.97,0:17:40.57,forest default C,,0,0,0,,{TIME:1058970,1060570}{\i1}I can't go to sleep!{\i}
+Dialogue: 0,0:17:41.99,0:17:46.06,forest default C,,0,0,0,,{TIME:1061990,1066060}{\i1}What's wrong anyway?\NI can't go to sleep and hibernate!{\i}
+Dialogue: 0,0:17:50.34,0:17:53.15,forest default C,,0,0,0,,{TIME:1070340,1073150}Hm. Hm... Oh...
+Dialogue: 0,0:17:55.33,0:17:56.62,forest default C,,0,0,0,,{TIME:1075330,1076620}Hm... Oh!
+Dialogue: 0,0:17:58.46,0:18:01.24,forest default C,,0,0,0,,{TIME:1078460,1081240}Come on, sleep, Peter, go to sleep, Peter.
+Dialogue: 0,0:18:01.47,0:18:03.86,forest default C,,0,0,0,,{TIME:1081470,1083860}Sleep, come on, Peter, go to sleep.
+Dialogue: 0,0:18:04.18,0:18:07.16,forest default C,,0,0,0,,{TIME:1084180,1087160}How I'm gonna hibernate\Nif I can't go to sleep?
+Dialogue: 0,0:18:08.52,0:18:09.66,forest default C,,0,0,0,,{TIME:1088520,1089660}Hm...
+Dialogue: 0,0:18:10.38,0:18:12.79,forest default C,,0,0,0,,{TIME:1090380,1092790}{\i1}Sleep, Peter, go to sleep.{\i}
+Dialogue: 0,0:18:13.99,0:18:16.45,forest default C,,0,0,0,,{TIME:1093990,1096450}Oh... Oh...
+Dialogue: 0,0:18:18.66,0:18:19.19,forest default C,,0,0,0,,{TIME:1098660,1099190}Oh!
+Dialogue: 0,0:18:22.03,0:18:22.73,forest default C,,0,0,0,,{TIME:1102030,1102730}Oh...
+Dialogue: 0,0:18:23.74,0:18:24.62,forest default C,,0,0,0,,{TIME:1103740,1104620}It's Reddy...
+Dialogue: 0,0:18:25.16,0:18:29.23,forest default C,,0,0,0,,{TIME:1105160,1109230}Reddy's come to find Peter,\Noh, what am I gonna do?
+Dialogue: 0,0:18:29.49,0:18:32.62,forest default C,,0,0,0,,{TIME:1109490,1112620}Or maybe it's Bowser?
+Dialogue: 0,0:18:35.20,0:18:38.43,forest default C,,0,0,0,,{TIME:1115200,1118430}Wow, what'll I do?\NBowser will catch me and eat me!
+Dialogue: 0,0:18:41.64,0:18:44.71,forest default C,,0,0,0,,{TIME:1121640,1124710}Oh, what will I do?\NBowser will eat me up, oh...
+Dialogue: 0,0:18:55.27,0:18:57.44,forest default C,,0,0,0,,{TIME:1135270,1137440}Now it sounds more like Reddy.
+Dialogue: 0,0:19:03.55,0:19:06.80,forest default C,,0,0,0,,{TIME:1143550,1146800}Now, why did I ever wanna hibernate, anyway?
+Dialogue: 0,0:19:07.40,0:19:10.16,forest default C,,0,0,0,,{TIME:1147400,1150160}I... I can't sleep, even!
+Dialogue: 0,0:19:14.10,0:19:16.18,forest default C,,0,0,0,,{TIME:1154100,1156180}And I'm getting hungry.
+Dialogue: 0,0:19:18.73,0:19:21.40,forest default C,,0,0,0,,{TIME:1158730,1161400}Why did I ever wanna hibernate?
+Dialogue: 0,0:19:24.47,0:19:27.68,forest default C,,0,0,0,,{TIME:1164470,1167680}I-I-I'll never get out alive.
+Dialogue: 0,0:19:32.69,0:19:33.36,forest default C,,0,0,0,,{TIME:1172690,1173360}Huh?
+Dialogue: 0,0:19:35.22,0:19:36.48,forest default C,,0,0,0,,{TIME:1175220,1176480}The noise is gone.
+Dialogue: 0,0:19:37.61,0:19:40.52,forest default C,,0,0,0,,{TIME:1177610,1180520}How's Peter? Wonder what happened?\NI don't hear him.
+Dialogue: 0,0:19:40.92,0:19:42.44,forest default C,,0,0,0,,{TIME:1180920,1182440}Could he have gone to sleep, huh?
+Dialogue: 0,0:20:05.10,0:20:07.72,forest default C,,0,0,0,,{TIME:1205100,1207720}If Bowser came, Reddy might have fled.
+Dialogue: 0,0:20:08.10,0:20:10.15,forest default C,,0,0,0,,{TIME:1208100,1210150}Then it's my chance to escape.
+Dialogue: 0,0:20:10.66,0:20:11.97,forest default C,,0,0,0,,{TIME:1210660,1211970}Ah...!
+Dialogue: 0,0:20:14.14,0:20:17.11,forest default C,,0,0,0,,{TIME:1214140,1217110}Nope. Wait. It might be a trick.
+Dialogue: 0,0:20:19.45,0:20:22.34,forest default C,,0,0,0,,{TIME:1219450,1222340}That's it, Bowser has returned home\Nfor his dinner.
+Dialogue: 0,0:20:22.42,0:20:24.25,forest default C,,0,0,0,,{TIME:1222420,1224250}I bet it's safe out there now.
+Dialogue: 0,0:20:24.96,0:20:25.80,forest default C,,0,0,0,,{TIME:1224960,1225800}I'll see!
+Dialogue: 0,0:20:30.44,0:20:32.48,forest default C,,0,0,0,,{TIME:1230440,1232480}Wow!
+Dialogue: 0,0:20:32.50,0:20:33.30,forest default C,,0,0,0,,{TIME:1232500,1233300}Oh!
+Dialogue: 0,0:20:44.09,0:20:46.36,forest default C,,0,0,0,,{TIME:1244090,1246360}Peter was so frightened, wasn't he?
+Dialogue: 0,0:20:55.63,0:20:57.98,forest default C,,0,0,0,,{TIME:1255630,1257980}You guys! What's so funny anyway, huh?
+Dialogue: 0,0:21:06.32,0:21:08.26,forest default C,,0,0,0,,{TIME:1266320,1268260}Uh.. So that...
+Dialogue: 0,0:21:08.57,0:21:11.38,forest default C,,0,0,0,,{TIME:1268570,1271380}It was you guys outside playing tricks?
+Dialogue: 0,0:21:12.00,0:21:13.98,forest default C,,0,0,0,,{TIME:1272000,1273980}{\i1}That was cruel, that was cruel!{\i}
+Dialogue: 0,0:21:14.14,0:21:15.76,forest default C,,0,0,0,,{TIME:1274140,1275760}Sorry, sorry...
+Dialogue: 0,0:21:16.74,0:21:17.69,forest default C,,0,0,0,,{TIME:1276740,1277690}We didn't really mean it!
+Dialogue: 0,0:21:20.68,0:21:23.29,forest default C,,0,0,0,,{TIME:1280680,1283290}Oh, Peter, you were so funny...!
+Dialogue: 0,0:21:32.44,0:21:35.22,forest narrator C,,0,0,0,,{TIME:1292440,1295220}{\i1}Peter tried to be angry\Nwith everyone, but couldn't.{\i}
+Dialogue: 0,0:21:35.50,0:21:39.33,forest narrator C,,0,0,0,,{TIME:1295500,1299330}{\i1}The thought of having faced possible\Ndeath it came quite funny to Peter.{\i}
+Dialogue: 0,0:21:39.52,0:21:42.61,forest narrator C,,0,0,0,,{TIME:1299520,1302610}{\i1}So, quite relieved, Peter laughed\Nheartily with everyone.{\i}
+Dialogue: 0,0:21:43.35,0:21:45.72,forest default C,,0,0,0,,{TIME:1303350,1305720}Oh, aren't you all gonna\Nhibernate for the winter?
+Dialogue: 0,0:21:46.34,0:21:47.06,forest default C,,0,0,0,,{TIME:1306340,1307060}Huh?!
+Dialogue: 0,0:21:49.20,0:21:51.62,forest default C,,0,0,0,,{TIME:1309200,1311620}Better hurry before the cold snow starts falling!
+Dialogue: 0,0:21:55.02,0:21:56.90,forest default C,,0,0,0,,{TIME:1315020,1316900}Hey, it doesn't bother me at all!
+Dialogue: 0,0:21:57.28,0:21:59.80,forest default C,,0,0,0,,{TIME:1317280,1319800}I'll be jumping and playing\Nin the snow all winter!
+Dialogue: 0,0:22:00.48,0:22:03.60,forest default C,,0,0,0,,{TIME:1320480,1323600}And if something amusing happens,\NI'll tell you about it later!
+Dialogue: 0,0:22:03.93,0:22:06.02,forest default C,,0,0,0,,{TIME:1323930,1326020}Well... See you all next spring!
+Dialogue: 0,0:22:08.01,0:22:10.55,forest narrator C,,0,0,0,,{TIME:1328010,1330550}{\i1}In the end, Peter realized\Nthat he couldn't imitate{\i}
+Dialogue: 0,0:22:10.58,0:22:13.64,forest narrator C,,0,0,0,,{TIME:1330580,1333640}{\i1}what was natural, like hibernation,\Nfor some of his friends.{\i}
+Dialogue: 0,0:22:14.06,0:22:16.68,forest narrator C,,0,0,0,,{TIME:1334060,1336680}{\i1}Peter was different,\Nhe had to be himself.{\i}
+Dialogue: 0,0:22:18.99,0:22:22.99,forest credits C,,0,0,0,,{TIME:1338990,1342990}{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs

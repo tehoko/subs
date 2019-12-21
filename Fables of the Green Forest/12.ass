@@ -14,232 +14,232 @@ Group: OldCastle & South Wind Subs
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: forest title K,Mf Kazincbarcika,70,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,1,8,11,11,10,1
-Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,11,11,10,1
-Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,11,11,10,1
-Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,11,11,10,1
-Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,11,11,10,1
-Style: forest episode title K,Mf Kazincbarcika,45,&H00EAE2BD,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,1,5,11,11,10,1
+Style: forest title K,Mf Kazincbarcika,70,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,1.0,8,11,11,10,1
+Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,11,11,10,1
+Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,11,11,10,1
+Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,11,11,10,1
+Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,11,11,10,1
+Style: forest episode title K,Mf Kazincbarcika,45,&H00EAE2BD,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,1.0,5,11,11,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.46,0:00:07.00,forest title K,,0,0,0,,{\pos(361.467,67)}FABLES OF THE GREEN FOREST{\fs40}
-Dialogue: 0,0:00:03.46,0:00:07.00,forest episode title K,,0,0,0,,{\pos(357.744,327.8)}12. Johnny's secret door
-Dialogue: 0,0:00:38.20,0:00:40.47,forest narrator C,,0,0,0,,{\i1}All the little animals of the Green Forest,{\i}
-Dialogue: 0,0:00:40.48,0:00:44.03,forest narrator C,,0,0,0,,{\i1}know how to protect themselves\Nin case of danger.{\i}
-Dialogue: 0,0:00:44.04,0:00:47.92,forest narrator C,,0,0,0,,{\i1}Johnny too. In case of an emergency,\Nhe has a secret rear exit.{\i}
-Dialogue: 0,0:00:56.67,0:01:00.81,forest narrator C,,0,0,0,,{\i1}There is delicious clover, growing\Nabundantly in this area.{\i}
-Dialogue: 0,0:01:02.86,0:01:06.15,forest narrator C,,0,0,0,,{\i1}No one would ever notice that a rear door\Nwas located in such a spot.{\i}
-Dialogue: 0,0:01:11.17,0:01:16.51,forest default C,,0,0,0,,{\i1}There's not a single thing\Nthat I don't know about!{\i}
-Dialogue: 0,0:01:20.27,0:01:23.76,forest default C,,0,0,0,,I wonder what pranks\NI can play today, anyway!
-Dialogue: 0,0:01:27.39,0:01:28.61,forest default C,,0,0,0,,There's Polly!
-Dialogue: 0,0:01:37.12,0:01:39.98,forest default C,,0,0,0,,How can that young lady eat so much?!
-Dialogue: 0,0:01:43.37,0:01:47.81,forest default C,,0,0,0,,She'll get fat by eating so much,\Nif she gets fat, Johnny will be sad!
-Dialogue: 0,0:01:49.64,0:01:53.11,forest default C,,0,0,0,,Shall I play one of my same old tricks\Nto make her quit?
-Dialogue: 0,0:01:54.36,0:02:00.95,forest default C,,0,0,0,,Ah...! My tummy is full!\NWhat a treat! Ah-oh...!
-Dialogue: 0,0:02:01.05,0:02:04.73,forest default C,,0,0,0,,{\i1}It's Reddy, it's Reddy, it's Reddy!{\i}
-Dialogue: 0,0:02:08.37,0:02:09.38,forest default C,,0,0,0,,What's that...?!
-Dialogue: 0,0:02:18.78,0:02:22.32,forest default C,,0,0,0,,I wonder if it really could be\Nwhat I'm thinking...
-Dialogue: 0,0:02:33.91,0:02:36.53,forest default C,,0,0,0,,Why, that's a strange place for a door to be...!
-Dialogue: 0,0:02:40.71,0:02:44.22,forest default C,,0,0,0,,I found it!\NWhy, that's Johnny's secret door there!
-Dialogue: 0,0:02:48.09,0:02:52.59,forest default C,,0,0,0,,Hidden away in such a far away grassy field,\NI wonder if anybody else has found it!
-Dialogue: 0,0:02:53.54,0:03:00.31,forest default C,,0,0,0,,It's no wonder it was so hard to notice\NJohnny's secret door!
-Dialogue: 0,0:03:04.50,0:03:06.27,forest default C,,0,0,0,,Hey...Reddy!
-Dialogue: 0,0:03:07.35,0:03:10.64,forest default C,,0,0,0,,Hey, Sammy, got some interesting news?
-Dialogue: 0,0:03:10.71,0:03:11.49,forest default C,,0,0,0,,News?!
-Dialogue: 0,0:03:11.56,0:03:14.14,forest default C,,0,0,0,,You're the one faster than anyone\Non hearing news!
-Dialogue: 0,0:03:14.45,0:03:18.76,forest default C,,0,0,0,,Reddy, there couldn't be any news from...\Nmy side!
-Dialogue: 0,0:03:18.86,0:03:23.22,forest default C,,0,0,0,,May be so, my ears are pretty fast,\Ncomparatively speaking!
-Dialogue: 0,0:03:23.97,0:03:27.52,forest default C,,0,0,0,,By the way, Reddy...\Nyou know about Johnny's secret door?
-Dialogue: 0,0:03:27.97,0:03:30.01,forest default C,,0,0,0,,Johnny's secret?!
-Dialogue: 0,0:03:30.52,0:03:32.90,forest default C,,0,0,0,,Uh... sure, I know it!
-Dialogue: 0,0:03:33.03,0:03:37.32,forest default C,,0,0,0,,- Why, it was just this morning that I found it!\N- You did this morning?
-Dialogue: 0,0:03:37.40,0:03:40.04,forest default C,,0,0,0,,Well, I found it yesterday morning!
-Dialogue: 0,0:03:41.28,0:03:44.26,forest default C,,0,0,0,,Johnny's secret door... it's something!
-Dialogue: 0,0:03:44.54,0:03:47.07,forest default C,,0,0,0,,{\i1}I see he's found out the secret door...{\i}
-Dialogue: 0,0:03:47.36,0:03:51.28,forest default C,,0,0,0,,Anyway, it opens right into\Nthe middle of a clover field...
-Dialogue: 0,0:03:51.75,0:03:54.10,forest default C,,0,0,0,,At first, I thought it was the front door,
-Dialogue: 0,0:03:54.19,0:03:57.94,forest default C,,0,0,0,,but located at the rear\Nof the tree grove, out of sight!
-Dialogue: 0,0:03:58.11,0:04:01.21,forest default C,,0,0,0,,You know, Reddy, nobody would ever notice that!
-Dialogue: 0,0:04:01.55,0:04:04.51,forest default C,,0,0,0,,{\i1}Hmm... I see,\NI was only searching the front of the house!{\i}
-Dialogue: 0,0:04:04.67,0:04:10.13,forest default C,,0,0,0,,Furthermore, Johnny thinks that nobody,\Nincluding you...
-Dialogue: 0,0:04:10.48,0:04:14.62,forest default C,,0,0,0,,...knows of his secret door!
-Dialogue: 0,0:04:14.87,0:04:16.55,forest default C,,0,0,0,,Oh, yeah?\NDo you really think so?
-Dialogue: 0,0:04:16.61,0:04:18.71,forest default C,,0,0,0,,Oh! I... found out something I had to do!
-Dialogue: 0,0:04:18.78,0:04:19.92,forest default C,,0,0,0,,See you later, Sammy!
-Dialogue: 0,0:04:20.50,0:04:21.90,forest default C,,0,0,0,,See you later, Reddy!
-Dialogue: 0,0:04:41.36,0:04:44.05,forest default C,,0,0,0,,Go ahead if you feel so important...
-Dialogue: 0,0:04:47.92,0:04:51.42,forest default C,,0,0,0,,{\i1}Are you going to Johnny's house\Nand find that secret door, Reddy...?{\i}
-Dialogue: 0,0:04:56.13,0:04:57.70,forest default C,,0,0,0,,{\i1}He's really going there!{\i}
-Dialogue: 0,0:05:01.34,0:05:03.89,forest default C,,0,0,0,,I can't stop playing tricks!
-Dialogue: 0,0:05:04.56,0:05:08.58,forest default C,,0,0,0,,It's so much fun to play tricks!
-Dialogue: 0,0:05:08.83,0:05:14.51,forest default C,,0,0,0,,But to have a trick played on you\Nit's really annoying!
-Dialogue: 0,0:05:14.51,0:05:15.36,forest default C,,0,0,0,,But...
-Dialogue: 0,0:05:15.36,0:05:16.70,forest lyrics C,,0,0,0,,{\i1}- Playing tricks is so much fun!\N- Playing tricks is so much fun!{\i}
-Dialogue: 0,0:05:16.78,0:05:18.71,forest lyrics C,,0,0,0,,{\i1}- Playing tricks is so much fun!\N- Playing tricks is so much fun!{\i}
-Dialogue: 0,0:05:19.56,0:05:25.00,forest lyrics C,,0,0,0,,{\i1}- Playing tricks is so much fun!\N- Playing tricks is so much fun!{\i}
-Dialogue: 0,0:05:26.92,0:05:31.01,forest narrator C,,0,0,0,,{\i1}Johnny would periodically open the door\Nand smell the outside air.{\i}
-Dialogue: 0,0:05:31.01,0:05:33.57,forest narrator C,,0,0,0,,{\i1}One cannot be overly careful.{\i}
-Dialogue: 0,0:05:39.18,0:05:40.19,forest default C,,0,0,0,,{\i1}Johnny!{\i}
-Dialogue: 0,0:05:40.26,0:05:41.29,forest default C,,0,0,0,,{\i1}Jooohnny!{\i}
-Dialogue: 0,0:05:41.71,0:05:44.76,forest default C,,0,0,0,,- Oh! Gentle Breeze!\N{\i1}- Shhh! Johnny!{\i}
-Dialogue: 0,0:05:45.07,0:05:48.54,forest default C,,0,0,0,,{\i1}- Reddy the Fox is nosing about!{\i}\N- Reddy?!
-Dialogue: 0,0:05:48.79,0:05:50.34,forest default C,,0,0,0,,{\i1}Be careful!{\i}
-Dialogue: 0,0:05:51.34,0:05:52.89,forest default C,,0,0,0,,Thank you, Gentle Breeze!
-Dialogue: 0,0:06:12.63,0:06:16.53,forest default C,,0,0,0,,It's true! It's Reddy! He's roaming\Naround my secret back door area!
-Dialogue: 0,0:06:17.97,0:06:19.89,forest default C,,0,0,0,,That's really funny!
-Dialogue: 0,0:06:20.79,0:06:21.80,forest default C,,0,0,0,,Oh, wait!
-Dialogue: 0,0:06:23.76,0:06:27.70,forest default C,,0,0,0,,Could it be that Sammy the Jay\Nwas telling me a great big bib?
-Dialogue: 0,0:06:28.37,0:06:31.50,forest narrator C,,0,0,0,,{\i1}The woodchuck is an animal\Nfound only in North America,{\i}
-Dialogue: 0,0:06:31.73,0:06:34.64,forest narrator C,,0,0,0,,{\i1}and is sometimes called a groundhog.{\i}
-Dialogue: 0,0:06:35.05,0:06:39.50,forest narrator C,,0,0,0,,{\i1}Related to the chipmunk,\Nits body movements are very similar.{\i}
-Dialogue: 0,0:06:40.35,0:06:42.89,forest narrator C,,0,0,0,,{\i1}Woodchucks have a natural talent\Nfor construction projects.{\i}
-Dialogue: 0,0:06:43.72,0:06:45.22,forest narrator C,,0,0,0,,{\i1}First they dig a vertically straight tunnel,{\i}
-Dialogue: 0,0:06:45.33,0:06:48.09,forest narrator C,,0,0,0,,{\i1}fifteen to eighteen feet deep.{\i}
-Dialogue: 0,0:06:49.05,0:06:52.60,forest narrator C,,0,0,0,,{\i1}This section is built so then when it rains,\Nwater running in will not be a problem.{\i}
-Dialogue: 0,0:06:54.03,0:06:56.70,forest narrator C,,0,0,0,,{\i1}The house that Johnny built is like this,{\i}
-Dialogue: 0,0:06:56.95,0:06:58.87,forest narrator C,,0,0,0,,{\i1}but let's leave that to our good imagination.{\i}
-Dialogue: 0,0:06:59.30,0:07:02.72,forest narrator C,,0,0,0,,{\i1}Let's call this long vertical tunnel,\N a circular stairway.{\i}
-Dialogue: 0,0:07:03.35,0:07:04.89,forest narrator C,,0,0,0,,{\i1}In the horizontal section of this tunnel,{\i}
-Dialogue: 0,0:07:04.94,0:07:06.60,forest narrator C,,0,0,0,,{\i1}let's have another door.{\i}
-Dialogue: 0,0:07:07.79,0:07:09.58,forest narrator C,,0,0,0,,{\i1}And let's place the tables and chairs also.{\i}
-Dialogue: 0,0:07:09.94,0:07:11.18,forest default C,,0,0,0,,Polly!
-Dialogue: 0,0:07:16.21,0:07:17.80,forest default C,,0,0,0,,Maybe she went out the secret door!
-Dialogue: 0,0:07:22.13,0:07:26.77,forest default C,,0,0,0,,Just as I thought!\NSammy fooled me again!
-Dialogue: 0,0:07:27.47,0:07:31.17,forest default C,,0,0,0,,As long as I know that,\Nthere's no use hanging around here!
-Dialogue: 0,0:07:39.35,0:07:42.46,forest default C,,0,0,0,,Oh, what a day!\NI just love this backdoor!
-Dialogue: 0,0:07:45.57,0:07:48.89,forest default C,,0,0,0,,{\i1}What Sammy said was true!\NMhm... good!{\i}
-Dialogue: 0,0:07:55.07,0:07:57.14,forest default C,,0,0,0,,- Hey, Polly, watch out!\N- Huh?!
-Dialogue: 0,0:07:58.55,0:07:59.70,forest default C,,0,0,0,,Polly, come back!
-Dialogue: 0,0:07:59.99,0:08:03.38,forest default C,,0,0,0,,- You spoiled!\N- What's the matter, Johnny?
-Dialogue: 0,0:08:05.94,0:08:07.65,forest default C,,0,0,0,,Oh, it's Reddy!
-Dialogue: 0,0:08:17.78,0:08:21.33,forest default C,,0,0,0,,Darn it, if I've been just a little bit quicker!
-Dialogue: 0,0:08:21.93,0:08:22.50,forest default C,,0,0,0,,Nevermind...
-Dialogue: 0,0:08:22.72,0:08:24.81,forest default C,,0,0,0,,I can return at night...
-Dialogue: 0,0:08:33.47,0:08:35.77,forest default C,,0,0,0,,Johnny, are you going to close the backdoor?
-Dialogue: 0,0:08:36.13,0:08:39.41,forest default C,,0,0,0,,Yeah, now that Reddy knows about it,\Nit can't be used as an escape route!
-Dialogue: 0,0:08:39.51,0:08:45.92,forest default C,,0,0,0,,Johnny, if you growled at him,\Nwouldn't he be scared and then run away?
-Dialogue: 0,0:08:47.02,0:08:50.82,forest default C,,0,0,0,,I was thinking of giving up this old house,\Nand finding somewhere new to live!
-Dialogue: 0,0:08:53.11,0:08:54.56,forest default C,,0,0,0,,Absolutely not!\NWhat are you saying?
-Dialogue: 0,0:08:54.66,0:08:56.77,forest default C,,0,0,0,,We're not going to give up\Nour home sweet home!
-Dialogue: 0,0:08:56.84,0:09:01.28,forest default C,,0,0,0,,If Reddy knows, next, Granny will come,\Nall laying for us!
-Dialogue: 0,0:09:02.38,0:09:04.01,forest default C,,0,0,0,,We won't be able to live quietly!
-Dialogue: 0,0:09:04.22,0:09:07.44,forest default C,,0,0,0,,It was a lot of effort to make it like this!
-Dialogue: 0,0:09:07.91,0:09:10.90,forest default C,,0,0,0,,OK, I'll make the rear exit in another place,
-Dialogue: 0,0:09:11.11,0:09:13.69,forest default C,,0,0,0,,one that will absolutely\Nnot be discovered!
-Dialogue: 0,0:09:14.54,0:09:20.28,forest narrator C,,0,0,0,,{\i1}From that day on, Johnny immediately\Nbegan working on another secret door.{\i}
-Dialogue: 0,0:09:41.55,0:09:48.09,forest default C,,0,0,0,,Oh?!\NWhat-what's that?!
-Dialogue: 0,0:10:03.35,0:10:04.80,forest default C,,0,0,0,,I don't hear it now...!
-Dialogue: 0,0:10:07.95,0:10:09.28,forest default C,,0,0,0,,Is it Johnny?!
-Dialogue: 0,0:10:09.47,0:10:13.37,forest default C,,0,0,0,,That's funny that he would be way out here\Nin the middle of the Green Meadow!
-Dialogue: 0,0:10:13.53,0:10:14.53,forest default C,,0,0,0,,I must be dreaming!
-Dialogue: 0,0:10:14.82,0:10:15.82,forest default C,,0,0,0,,Johnny!
-Dialogue: 0,0:10:22.17,0:10:24.21,forest default C,,0,0,0,,That really was Johnny!
-Dialogue: 0,0:10:37.18,0:10:40.14,forest default C,,0,0,0,,That's funny, there's nothing\Nlike an exit anywhere!
-Dialogue: 0,0:10:41.36,0:10:44.66,forest narrator C,,0,0,0,,{\i1}Well, it looks like Johnny\Nhas dug a long-long tunnel{\i}
-Dialogue: 0,0:10:44.69,0:10:46.34,forest narrator C,,0,0,0,,{\i1}that reaches to the Green Meadow.{\i}
-Dialogue: 0,0:10:46.54,0:10:52.21,forest narrator C,,0,0,0,,{\i1}And let's hope that the secret rear exit\Nis one that cannot be readily discovered.{\i}
-Dialogue: 0,0:11:14.16,0:11:17.86,forest default C,,0,0,0,,Sure is boring! All Johnny does\Nthese days is dig in that tunnel!
-Dialogue: 0,0:11:18.04,0:11:20.29,forest default C,,0,0,0,,I wonder if I should go for a walk!
-Dialogue: 0,0:11:20.63,0:11:22.38,forest default C,,0,0,0,,{\i1}Hello, Polly!{\i}
-Dialogue: 0,0:11:22.87,0:11:26.75,forest default C,,0,0,0,,- Nice weather, eh?\N- Oh, Peter! How are you?
-Dialogue: 0,0:11:26.84,0:11:31.44,forest default C,,0,0,0,,Uh... real good!\NBy the way, where's Johnny?
-Dialogue: 0,0:11:32.22,0:11:34.67,forest default C,,0,0,0,,Everyday, Johnny is digging a tunnel!
-Dialogue: 0,0:11:35.70,0:11:37.41,forest default C,,0,0,0,,A... tunnel?!
-Dialogue: 0,0:11:37.58,0:11:38.38,forest default C,,0,0,0,,Yeah!
-Dialogue: 0,0:11:38.43,0:11:41.99,forest default C,,0,0,0,,Tell me, tell me, tell me!\NWhere, where, where?
-Dialogue: 0,0:11:43.51,0:11:45.79,forest default C,,0,0,0,,Uh, say, where is he digging it?\NWhere?
-Dialogue: 0,0:11:46.53,0:11:49.58,forest default C,,0,0,0,,It's a long tunnel that exits\Ninto the Green Meadow!
-Dialogue: 0,0:11:50.65,0:11:51.67,forest default C,,0,0,0,,That's amazing!
-Dialogue: 0,0:11:51.90,0:11:54.34,forest default C,,0,0,0,,He does such wonderful things, Johnny does!
-Dialogue: 0,0:11:54.64,0:11:57.78,forest default C,,0,0,0,,He's my very favorite friend when it comes\Nto building things!
-Dialogue: 0,0:11:58.02,0:12:01.61,forest default C,,0,0,0,,Now that you mention it, I just saw Johnny\Nin the Green Meadow!
-Dialogue: 0,0:12:02.57,0:12:06.56,forest default C,,0,0,0,,I was astonished...\NHe kept appearing and disappearing...
-Dialogue: 0,0:12:06.95,0:12:09.95,forest default C,,0,0,0,,...but... I couldn't tell where\Nhe was coming from!
-Dialogue: 0,0:12:11.97,0:12:13.36,forest default C,,0,0,0,,Come on, Polly!
-Dialogue: 0,0:12:13.42,0:12:15.72,forest default C,,0,0,0,,I'd like to know!\NCome on, tell me,
-Dialogue: 0,0:12:15.80,0:12:19.02,forest default C,,0,0,0,,you know I won't tell anybody\Nwhere he's hiding it, you know that!
-Dialogue: 0,0:12:19.59,0:12:21.69,forest default C,,0,0,0,,Goodness, I just remembered\Nsomething I have to do!
-Dialogue: 0,0:12:44.68,0:12:48.75,forest default C,,0,0,0,,Amazing, amazing, I never realized\Nhow amazing his house was!
-Dialogue: 0,0:12:48.80,0:12:50.01,forest default C,,0,0,0,,{\i1}Who's there?{\i}
-Dialogue: 0,0:12:59.73,0:13:00.85,forest default C,,0,0,0,,Peter!
-Dialogue: 0,0:13:02.12,0:13:06.08,forest default C,,0,0,0,,I... I... I...\NJohnny, I...
-Dialogue: 0,0:13:08.66,0:13:12.23,forest default C,,0,0,0,,I thought once in a while\NI should pay you a visit!
-Dialogue: 0,0:13:12.30,0:13:18.47,forest default C,,0,0,0,,And then, the stairs were so steep I slipped\Nand fell all the way to the bottom...
-Dialogue: 0,0:13:18.56,0:13:20.41,forest default C,,0,0,0,,...and... and... that is the true story!
-Dialogue: 0,0:13:21.48,0:13:23.32,forest default C,,0,0,0,,Johnny, you were watching, were you?
-Dialogue: 0,0:13:23.85,0:13:26.52,forest default C,,0,0,0,,It sure did hurt!
-Dialogue: 0,0:13:28.60,0:13:31.15,forest default C,,0,0,0,,Boy, your curiosity sure is annoying!
-Dialogue: 0,0:13:32.00,0:13:32.98,forest default C,,0,0,0,,Forgive me!
-Dialogue: 0,0:13:34.95,0:13:36.42,forest default C,,0,0,0,,Have you seen Polly anywhere?
-Dialogue: 0,0:13:36.73,0:13:39.06,forest default C,,0,0,0,,She went that way a while ago!
-Dialogue: 0,0:13:39.13,0:13:40.48,forest default C,,0,0,0,,She went out, then!
-Dialogue: 0,0:14:00.25,0:14:02.36,forest default C,,0,0,0,,It's Redtail the Hawk!
-Dialogue: 0,0:14:04.29,0:14:06.10,forest default C,,0,0,0,,He's been flying around since yesterday!
-Dialogue: 0,0:14:06.59,0:14:09.23,forest default C,,0,0,0,,I told Polly not to wander outside!
-Dialogue: 0,0:14:09.38,0:14:11.03,forest default C,,0,0,0,,- Let's go look for her!\N- Yeah!
-Dialogue: 0,0:14:16.96,0:14:18.84,forest default C,,0,0,0,,Johnny!\NHurry!
-Dialogue: 0,0:14:31.53,0:14:33.89,forest default C,,0,0,0,,Johnny!\NYou're so slow!
-Dialogue: 0,0:15:08.81,0:15:11.17,forest default C,,0,0,0,,Oh, pooh, such a face isn't good at all!
-Dialogue: 0,0:15:50.94,0:15:52.06,forest default C,,0,0,0,,My goodness!
-Dialogue: 0,0:15:52.19,0:15:54.38,forest default C,,0,0,0,,I'm scared!\NWhat will I do?! Oh!
-Dialogue: 0,0:16:05.41,0:16:08.34,forest narrator C,,0,0,0,,{\i1}About the time the evening sun\Nwas setting in the Purple Hills,{\i}
-Dialogue: 0,0:16:08.67,0:16:12.47,forest narrator C,,0,0,0,,{\i1}the hawk finally gave up\Nand disappeared into the evening sky.{\i}
-Dialogue: 0,0:16:35.02,0:16:40.22,forest narrator C,,0,0,0,,{\i1}Johnny, separated from Peter,\Nis still wandering around in the forest.{\i}
-Dialogue: 0,0:16:44.74,0:16:48.49,forest default C,,0,0,0,,She must've gone very far because\Nit's getting really late!
-Dialogue: 0,0:16:57.24,0:16:58.24,forest default C,,0,0,0,,Polly!
-Dialogue: 0,0:17:10.30,0:17:11.38,forest default C,,0,0,0,,Polly!
-Dialogue: 0,0:17:11.46,0:17:21.21,forest narrator C,,0,0,0,,{\i1}What on earth has happened?!\NEverything's going wrong for Johnny.{\i}
-Dialogue: 0,0:17:21.84,0:17:25.06,forest narrator C,,0,0,0,,{\i1}Now the desire to do anything is gone.{\i}
-Dialogue: 0,0:17:29.47,0:17:34.42,forest narrator C,,0,0,0,,{\i1}But the next day, Johnny sets out\Nearly in the morning to look for Polly.{\i}
-Dialogue: 0,0:17:37.96,0:17:39.33,forest default C,,0,0,0,,Polly!
-Dialogue: 0,0:17:51.53,0:17:54.90,forest default C,,0,0,0,,Who is she, who is she,\Nget her out of here!
-Dialogue: 0,0:17:55.00,0:17:58.74,forest default C,,0,0,0,,Who she thinks she is, barging into somebody's\Nhouse without a word?!
-Dialogue: 0,0:18:00.12,0:18:02.55,forest default C,,0,0,0,,Today is the day my wife has to lay eggs!
-Dialogue: 0,0:18:02.62,0:18:05.73,forest default C,,0,0,0,,So this is really annoying!\NI don't want her here!
-Dialogue: 0,0:18:18.63,0:18:20.05,forest default C,,0,0,0,,What place is this?
-Dialogue: 0,0:18:20.15,0:18:22.19,forest default C,,0,0,0,,Hey! Hey-hey-hey-hey!
-Dialogue: 0,0:18:22.26,0:18:24.14,forest default C,,0,0,0,,Get out of here!\NGet out of here!
-Dialogue: 0,0:18:24.17,0:18:25.02,forest default C,,0,0,0,,Get out of the way!
-Dialogue: 0,0:18:27.45,0:18:30.38,forest default C,,0,0,0,,Of all the nerve!
-Dialogue: 0,0:18:52.98,0:18:54.65,forest default C,,0,0,0,,How nice!
-Dialogue: 0,0:18:59.49,0:19:02.55,forest default C,,0,0,0,,Thank you, thank you everybody!\NYou're all wonderful, thank you!
-Dialogue: 0,0:19:03.66,0:19:07.12,forest default C,,0,0,0,,Oh! That's right!\NWhat place is this?
-Dialogue: 0,0:19:11.24,0:19:12.90,forest default C,,0,0,0,,I need help, I'm lost!
-Dialogue: 0,0:19:29.54,0:19:31.52,forest default C,,0,0,0,,{\i1}Johnny!{\i}
-Dialogue: 0,0:19:31.85,0:19:33.20,forest default C,,0,0,0,,Yes, Gentle Breeze!
-Dialogue: 0,0:19:33.45,0:19:36.56,forest default C,,0,0,0,,{\i1}What's the matter, Johnny?\NSo dejected?{\i}
-Dialogue: 0,0:19:36.93,0:19:40.79,forest default C,,0,0,0,,- Well, Polly is disappeared!\N{\i1}- Oh...! Since when?{\i}
-Dialogue: 0,0:19:42.72,0:19:44.17,forest default C,,0,0,0,,Well... since yesterday!
-Dialogue: 0,0:19:44.39,0:19:46.19,forest default C,,0,0,0,,{\i1}Oh, I'm sorry!{\i}
-Dialogue: 0,0:19:53.43,0:19:58.36,forest default C,,0,0,0,,Gentle Breeze, I have this terrible feeling\Nthat Polly is not coming back to me anymore...
-Dialogue: 0,0:19:58.46,0:20:00.85,forest default C,,0,0,0,,{\i1}My, such a thing...!{\i}
-Dialogue: 0,0:20:01.26,0:20:05.69,forest default C,,0,0,0,,When I think about her being gone,\Nit makes me all sad inside...
-Dialogue: 0,0:20:10.20,0:20:13.24,forest default C,,0,0,0,,{\i1}How would you feel\Nif Polly is not too far away?{\i}
-Dialogue: 0,0:20:13.72,0:20:15.20,forest default C,,0,0,0,,Polly is nearby?
-Dialogue: 0,0:20:15.64,0:20:20.08,forest default C,,0,0,0,,Then I feel big and strong and brave\Nlike a woodchuck should feel!
-Dialogue: 0,0:20:20.26,0:20:24.81,forest default C,,0,0,0,,{\i1}How wonderful to have such a friend!{\i}
-Dialogue: 0,0:20:25.32,0:20:29.78,forest default C,,0,0,0,,When Polly is cheerful and happy,\NI become cheerful and happy as well!
-Dialogue: 0,0:20:31.61,0:20:36.86,forest default C,,0,0,0,,{\i1}It appears that you, Johnny, have found\Nthe most wonderful thing in the world.{\i}
-Dialogue: 0,0:20:40.38,0:20:43.42,forest default C,,0,0,0,,{\i1}Little birds, what is the matter?{\i}
-Dialogue: 0,0:20:45.22,0:20:47.04,forest default C,,0,0,0,,{\i1}Johnny!{\i}
-Dialogue: 0,0:20:47.44,0:20:48.92,forest default C,,0,0,0,,What is it, Gentle Breeze?
-Dialogue: 0,0:20:49.45,0:20:51.68,forest default C,,0,0,0,,{\i1}They say that Polly is nearby!{\i}
-Dialogue: 0,0:20:51.73,0:20:53.92,forest default C,,0,0,0,,{\i1}By that tree, over there!{\i}
-Dialogue: 0,0:20:59.22,0:21:02.71,forest default C,,0,0,0,,Thanks very much, little birds!\NAnd thank you, Gentle Breeze!
-Dialogue: 0,0:21:08.22,0:21:09.41,forest default C,,0,0,0,,Gentle Breeze?
-Dialogue: 0,0:21:09.62,0:21:13.75,forest default C,,0,0,0,,What do you mean when you say that I've found\Nthe most wonderful thing in the world?
-Dialogue: 0,0:21:13.82,0:21:19.85,forest default C,,0,0,0,,{\i1}Most wonderful thing in the world...\Nis for one soul to love another.{\i}
-Dialogue: 0,0:21:27.51,0:21:28.50,forest default C,,0,0,0,,Polly!
-Dialogue: 0,0:21:29.44,0:21:30.51,forest default C,,0,0,0,,Johnny!
-Dialogue: 0,0:21:41.77,0:21:45.29,forest default C,,0,0,0,,Polly, if you run that way,\Nyou'll be running further from home again!
-Dialogue: 0,0:21:45.65,0:21:48.15,forest default C,,0,0,0,,Oh! That's right, isn't it?
-Dialogue: 0,0:21:49.32,0:21:55.66,forest default C,,0,0,0,,Well, well!\NJohnny, you found Polly!
-Dialogue: 0,0:21:55.72,0:21:58.45,forest default C,,0,0,0,,Yeah!\NSorry if we worried you!
-Dialogue: 0,0:21:59.11,0:22:02.50,forest default C,,0,0,0,,Johnny, I wasn't worried!\NI knew you'd find her!
-Dialogue: 0,0:22:04.11,0:22:05.98,forest default C,,0,0,0,,Yeah, well, so long, Peter!
-Dialogue: 0,0:22:09.55,0:22:13.91,forest narrator C,,0,0,0,,{\i1}Johnny has completely forgotten\Nthe sadness of a few moments earlier...{\i}
-Dialogue: 0,0:22:14.11,0:22:17.29,forest narrator C,,0,0,0,,{\i1}...and is again the energetic, bright Johnny.{\i}
-Dialogue: 0,0:22:18.12,0:22:20.67,forest narrator C,,0,0,0,,{\i1}Never before, not even once,{\i}
-Dialogue: 0,0:22:20.76,0:22:26.43,forest narrator C,,0,0,0,,{\i1}has the Green Forest seemed\Nso beautiful, and so wonderful!{\i}
-Dialogue: 0,0:22:27.78,0:22:31.29,forest credits C,,0,0,0,,{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&\fnMf Kazincbarcika\fs37}South Wind Subs 
+Dialogue: 0,0:00:03.46,0:00:07.00,forest title K,,0,0,0,,{TIME:3460,7000}{\pos(361.467,67)}FABLES OF THE GREEN FOREST{\fs40}
+Dialogue: 0,0:00:03.46,0:00:07.00,forest episode title K,,0,0,0,,{TIME:3460,7000}{\pos(357.744,327.8)}12. Johnny's secret door
+Dialogue: 0,0:00:38.20,0:00:40.47,forest narrator C,,0,0,0,,{TIME:38200,40470}{\i1}All the little animals of the Green Forest,{\i}
+Dialogue: 0,0:00:40.48,0:00:44.03,forest narrator C,,0,0,0,,{TIME:40480,44030}{\i1}know how to protect themselves\Nin case of danger.{\i}
+Dialogue: 0,0:00:44.04,0:00:47.92,forest narrator C,,0,0,0,,{TIME:44040,47920}{\i1}Johnny too. In case of an emergency,\Nhe has a secret rear exit.{\i}
+Dialogue: 0,0:00:56.67,0:01:00.81,forest narrator C,,0,0,0,,{TIME:56670,60810}{\i1}There is delicious clover, growing\Nabundantly in this area.{\i}
+Dialogue: 0,0:01:02.86,0:01:06.15,forest narrator C,,0,0,0,,{TIME:62860,66150}{\i1}No one would ever notice that a rear door\Nwas located in such a spot.{\i}
+Dialogue: 0,0:01:11.17,0:01:16.51,forest default C,,0,0,0,,{TIME:71170,76510}{\i1}There's not a single thing\Nthat I don't know about!{\i}
+Dialogue: 0,0:01:20.27,0:01:23.76,forest default C,,0,0,0,,{TIME:80270,83760}I wonder what pranks\NI can play today, anyway!
+Dialogue: 0,0:01:27.39,0:01:28.61,forest default C,,0,0,0,,{TIME:87390,88610}There's Polly!
+Dialogue: 0,0:01:37.12,0:01:39.98,forest default C,,0,0,0,,{TIME:97120,99980}How can that young lady eat so much?!
+Dialogue: 0,0:01:43.37,0:01:47.81,forest default C,,0,0,0,,{TIME:103370,107810}She'll get fat by eating so much,\Nif she gets fat, Johnny will be sad!
+Dialogue: 0,0:01:49.64,0:01:53.11,forest default C,,0,0,0,,{TIME:109640,113110}Shall I play one of my same old tricks\Nto make her quit?
+Dialogue: 0,0:01:54.36,0:02:00.95,forest default C,,0,0,0,,{TIME:114360,120950}Ah...! My tummy is full!\NWhat a treat! Ah-oh...!
+Dialogue: 0,0:02:01.05,0:02:04.73,forest default C,,0,0,0,,{TIME:121050,124730}{\i1}It's Reddy, it's Reddy, it's Reddy!{\i}
+Dialogue: 0,0:02:08.37,0:02:09.38,forest default C,,0,0,0,,{TIME:128370,129380}What's that...?!
+Dialogue: 0,0:02:18.78,0:02:22.32,forest default C,,0,0,0,,{TIME:138780,142320}I wonder if it really could be\Nwhat I'm thinking...
+Dialogue: 0,0:02:33.91,0:02:36.53,forest default C,,0,0,0,,{TIME:153910,156530}Why, that's a strange place for a door to be...!
+Dialogue: 0,0:02:40.71,0:02:44.22,forest default C,,0,0,0,,{TIME:160710,164220}I found it!\NWhy, that's Johnny's secret door there!
+Dialogue: 0,0:02:48.09,0:02:52.59,forest default C,,0,0,0,,{TIME:168090,172590}Hidden away in such a far away grassy field,\NI wonder if anybody else has found it!
+Dialogue: 0,0:02:53.54,0:03:00.31,forest default C,,0,0,0,,{TIME:173540,180310}It's no wonder it was so hard to notice\NJohnny's secret door!
+Dialogue: 0,0:03:04.50,0:03:06.27,forest default C,,0,0,0,,{TIME:184500,186270}Hey...Reddy!
+Dialogue: 0,0:03:07.35,0:03:10.64,forest default C,,0,0,0,,{TIME:187350,190640}Hey, Sammy, got some interesting news?
+Dialogue: 0,0:03:10.71,0:03:11.49,forest default C,,0,0,0,,{TIME:190710,191490}News?!
+Dialogue: 0,0:03:11.56,0:03:14.14,forest default C,,0,0,0,,{TIME:191560,194140}You're the one faster than anyone\Non hearing news!
+Dialogue: 0,0:03:14.45,0:03:18.76,forest default C,,0,0,0,,{TIME:194450,198760}Reddy, there couldn't be any news from...\Nmy side!
+Dialogue: 0,0:03:18.86,0:03:23.22,forest default C,,0,0,0,,{TIME:198860,203220}May be so, my ears are pretty fast,\Ncomparatively speaking!
+Dialogue: 0,0:03:23.97,0:03:27.52,forest default C,,0,0,0,,{TIME:203970,207520}By the way, Reddy...\Nyou know about Johnny's secret door?
+Dialogue: 0,0:03:27.97,0:03:30.01,forest default C,,0,0,0,,{TIME:207970,210010}Johnny's secret?!
+Dialogue: 0,0:03:30.52,0:03:32.90,forest default C,,0,0,0,,{TIME:210520,212900}Uh... sure, I know it!
+Dialogue: 0,0:03:33.03,0:03:37.32,forest default C,,0,0,0,,{TIME:213030,217320}- Why, it was just this morning that I found it!\N- You did this morning?
+Dialogue: 0,0:03:37.40,0:03:40.04,forest default C,,0,0,0,,{TIME:217400,220040}Well, I found it yesterday morning!
+Dialogue: 0,0:03:41.28,0:03:44.26,forest default C,,0,0,0,,{TIME:221280,224260}Johnny's secret door... it's something!
+Dialogue: 0,0:03:44.54,0:03:47.07,forest default C,,0,0,0,,{TIME:224540,227070}{\i1}I see he's found out the secret door...{\i}
+Dialogue: 0,0:03:47.36,0:03:51.28,forest default C,,0,0,0,,{TIME:227360,231280}Anyway, it opens right into\Nthe middle of a clover field...
+Dialogue: 0,0:03:51.75,0:03:54.10,forest default C,,0,0,0,,{TIME:231750,234100}At first, I thought it was the front door,
+Dialogue: 0,0:03:54.19,0:03:57.94,forest default C,,0,0,0,,{TIME:234190,237940}but located at the rear\Nof the tree grove, out of sight!
+Dialogue: 0,0:03:58.11,0:04:01.21,forest default C,,0,0,0,,{TIME:238110,241210}You know, Reddy, nobody would ever notice that!
+Dialogue: 0,0:04:01.55,0:04:04.51,forest default C,,0,0,0,,{TIME:241550,244510}{\i1}Hmm... I see,\NI was only searching the front of the house!{\i}
+Dialogue: 0,0:04:04.67,0:04:10.13,forest default C,,0,0,0,,{TIME:244670,250130}Furthermore, Johnny thinks that nobody,\Nincluding you...
+Dialogue: 0,0:04:10.48,0:04:14.62,forest default C,,0,0,0,,{TIME:250480,254620}...knows of his secret door!
+Dialogue: 0,0:04:14.87,0:04:16.55,forest default C,,0,0,0,,{TIME:254870,256550}Oh, yeah?\NDo you really think so?
+Dialogue: 0,0:04:16.61,0:04:18.71,forest default C,,0,0,0,,{TIME:256610,258710}Oh! I... found out something I had to do!
+Dialogue: 0,0:04:18.78,0:04:19.92,forest default C,,0,0,0,,{TIME:258780,259920}See you later, Sammy!
+Dialogue: 0,0:04:20.50,0:04:21.90,forest default C,,0,0,0,,{TIME:260500,261900}See you later, Reddy!
+Dialogue: 0,0:04:41.36,0:04:44.05,forest default C,,0,0,0,,{TIME:281360,284050}Go ahead if you feel so important...
+Dialogue: 0,0:04:47.92,0:04:51.42,forest default C,,0,0,0,,{TIME:287920,291420}{\i1}Are you going to Johnny's house\Nand find that secret door, Reddy...?{\i}
+Dialogue: 0,0:04:56.13,0:04:57.70,forest default C,,0,0,0,,{TIME:296130,297700}{\i1}He's really going there!{\i}
+Dialogue: 0,0:05:01.34,0:05:03.89,forest default C,,0,0,0,,{TIME:301340,303890}I can't stop playing tricks!
+Dialogue: 0,0:05:04.56,0:05:08.58,forest default C,,0,0,0,,{TIME:304560,308580}It's so much fun to play tricks!
+Dialogue: 0,0:05:08.83,0:05:14.51,forest default C,,0,0,0,,{TIME:308830,314510}But to have a trick played on you\Nit's really annoying!
+Dialogue: 0,0:05:14.51,0:05:15.36,forest default C,,0,0,0,,{TIME:314510,315360}But...
+Dialogue: 0,0:05:15.36,0:05:16.70,forest lyrics C,,0,0,0,,{TIME:315360,316700}{\i1}- Playing tricks is so much fun!\N- Playing tricks is so much fun!{\i}
+Dialogue: 0,0:05:16.78,0:05:18.71,forest lyrics C,,0,0,0,,{TIME:316780,318710}{\i1}- Playing tricks is so much fun!\N- Playing tricks is so much fun!{\i}
+Dialogue: 0,0:05:19.56,0:05:25.00,forest lyrics C,,0,0,0,,{TIME:319560,325000}{\i1}- Playing tricks is so much fun!\N- Playing tricks is so much fun!{\i}
+Dialogue: 0,0:05:26.92,0:05:31.01,forest narrator C,,0,0,0,,{TIME:326920,331010}{\i1}Johnny would periodically open the door\Nand smell the outside air.{\i}
+Dialogue: 0,0:05:31.01,0:05:33.57,forest narrator C,,0,0,0,,{TIME:331010,333570}{\i1}One cannot be overly careful.{\i}
+Dialogue: 0,0:05:39.18,0:05:40.19,forest default C,,0,0,0,,{TIME:339180,340190}{\i1}Johnny!{\i}
+Dialogue: 0,0:05:40.26,0:05:41.29,forest default C,,0,0,0,,{TIME:340260,341290}{\i1}Jooohnny!{\i}
+Dialogue: 0,0:05:41.71,0:05:44.76,forest default C,,0,0,0,,{TIME:341710,344760}- Oh! Gentle Breeze!\N{\i1}- Shhh! Johnny!{\i}
+Dialogue: 0,0:05:45.07,0:05:48.54,forest default C,,0,0,0,,{TIME:345070,348540}{\i1}- Reddy the Fox is nosing about!{\i}\N- Reddy?!
+Dialogue: 0,0:05:48.79,0:05:50.34,forest default C,,0,0,0,,{TIME:348790,350340}{\i1}Be careful!{\i}
+Dialogue: 0,0:05:51.34,0:05:52.89,forest default C,,0,0,0,,{TIME:351340,352890}Thank you, Gentle Breeze!
+Dialogue: 0,0:06:12.63,0:06:16.53,forest default C,,0,0,0,,{TIME:372630,376530}It's true! It's Reddy! He's roaming\Naround my secret back door area!
+Dialogue: 0,0:06:17.97,0:06:19.89,forest default C,,0,0,0,,{TIME:377970,379890}That's really funny!
+Dialogue: 0,0:06:20.79,0:06:21.80,forest default C,,0,0,0,,{TIME:380790,381800}Oh, wait!
+Dialogue: 0,0:06:23.76,0:06:27.70,forest default C,,0,0,0,,{TIME:383760,387700}Could it be that Sammy the Jay\Nwas telling me a great big bib?
+Dialogue: 0,0:06:28.37,0:06:31.50,forest narrator C,,0,0,0,,{TIME:388370,391500}{\i1}The woodchuck is an animal\Nfound only in North America,{\i}
+Dialogue: 0,0:06:31.73,0:06:34.64,forest narrator C,,0,0,0,,{TIME:391730,394640}{\i1}and is sometimes called a groundhog.{\i}
+Dialogue: 0,0:06:35.05,0:06:39.50,forest narrator C,,0,0,0,,{TIME:395050,399500}{\i1}Related to the chipmunk,\Nits body movements are very similar.{\i}
+Dialogue: 0,0:06:40.35,0:06:42.89,forest narrator C,,0,0,0,,{TIME:400350,402890}{\i1}Woodchucks have a natural talent\Nfor construction projects.{\i}
+Dialogue: 0,0:06:43.72,0:06:45.22,forest narrator C,,0,0,0,,{TIME:403720,405220}{\i1}First they dig a vertically straight tunnel,{\i}
+Dialogue: 0,0:06:45.33,0:06:48.09,forest narrator C,,0,0,0,,{TIME:405330,408090}{\i1}fifteen to eighteen feet deep.{\i}
+Dialogue: 0,0:06:49.05,0:06:52.60,forest narrator C,,0,0,0,,{TIME:409050,412600}{\i1}This section is built so then when it rains,\Nwater running in will not be a problem.{\i}
+Dialogue: 0,0:06:54.03,0:06:56.70,forest narrator C,,0,0,0,,{TIME:414030,416700}{\i1}The house that Johnny built is like this,{\i}
+Dialogue: 0,0:06:56.95,0:06:58.87,forest narrator C,,0,0,0,,{TIME:416950,418870}{\i1}but let's leave that to our good imagination.{\i}
+Dialogue: 0,0:06:59.30,0:07:02.72,forest narrator C,,0,0,0,,{TIME:419300,422720}{\i1}Let's call this long vertical tunnel,\N a circular stairway.{\i}
+Dialogue: 0,0:07:03.35,0:07:04.89,forest narrator C,,0,0,0,,{TIME:423350,424890}{\i1}In the horizontal section of this tunnel,{\i}
+Dialogue: 0,0:07:04.94,0:07:06.60,forest narrator C,,0,0,0,,{TIME:424940,426600}{\i1}let's have another door.{\i}
+Dialogue: 0,0:07:07.79,0:07:09.58,forest narrator C,,0,0,0,,{TIME:427790,429580}{\i1}And let's place the tables and chairs also.{\i}
+Dialogue: 0,0:07:09.94,0:07:11.18,forest default C,,0,0,0,,{TIME:429940,431180}Polly!
+Dialogue: 0,0:07:16.21,0:07:17.80,forest default C,,0,0,0,,{TIME:436210,437800}Maybe she went out the secret door!
+Dialogue: 0,0:07:22.13,0:07:26.77,forest default C,,0,0,0,,{TIME:442130,446770}Just as I thought!\NSammy fooled me again!
+Dialogue: 0,0:07:27.47,0:07:31.17,forest default C,,0,0,0,,{TIME:447470,451170}As long as I know that,\Nthere's no use hanging around here!
+Dialogue: 0,0:07:39.35,0:07:42.46,forest default C,,0,0,0,,{TIME:459350,462460}Oh, what a day!\NI just love this backdoor!
+Dialogue: 0,0:07:45.57,0:07:48.89,forest default C,,0,0,0,,{TIME:465570,468890}{\i1}What Sammy said was true!\NMhm... good!{\i}
+Dialogue: 0,0:07:55.07,0:07:57.14,forest default C,,0,0,0,,{TIME:475070,477140}- Hey, Polly, watch out!\N- Huh?!
+Dialogue: 0,0:07:58.55,0:07:59.70,forest default C,,0,0,0,,{TIME:478550,479700}Polly, come back!
+Dialogue: 0,0:07:59.99,0:08:03.38,forest default C,,0,0,0,,{TIME:479990,483380}- You spoiled!\N- What's the matter, Johnny?
+Dialogue: 0,0:08:05.94,0:08:07.65,forest default C,,0,0,0,,{TIME:485940,487650}Oh, it's Reddy!
+Dialogue: 0,0:08:17.78,0:08:21.33,forest default C,,0,0,0,,{TIME:497780,501330}Darn it, if I've been just a little bit quicker!
+Dialogue: 0,0:08:21.93,0:08:22.50,forest default C,,0,0,0,,{TIME:501930,502500}Nevermind...
+Dialogue: 0,0:08:22.72,0:08:24.81,forest default C,,0,0,0,,{TIME:502720,504810}I can return at night...
+Dialogue: 0,0:08:33.47,0:08:35.77,forest default C,,0,0,0,,{TIME:513470,515770}Johnny, are you going to close the backdoor?
+Dialogue: 0,0:08:36.13,0:08:39.41,forest default C,,0,0,0,,{TIME:516130,519410}Yeah, now that Reddy knows about it,\Nit can't be used as an escape route!
+Dialogue: 0,0:08:39.51,0:08:45.92,forest default C,,0,0,0,,{TIME:519510,525920}Johnny, if you growled at him,\Nwouldn't he be scared and then run away?
+Dialogue: 0,0:08:47.02,0:08:50.82,forest default C,,0,0,0,,{TIME:527020,530820}I was thinking of giving up this old house,\Nand finding somewhere new to live!
+Dialogue: 0,0:08:53.11,0:08:54.56,forest default C,,0,0,0,,{TIME:533110,534560}Absolutely not!\NWhat are you saying?
+Dialogue: 0,0:08:54.66,0:08:56.77,forest default C,,0,0,0,,{TIME:534660,536770}We're not going to give up\Nour home sweet home!
+Dialogue: 0,0:08:56.84,0:09:01.28,forest default C,,0,0,0,,{TIME:536840,541280}If Reddy knows, next, Granny will come,\Nall laying for us!
+Dialogue: 0,0:09:02.38,0:09:04.01,forest default C,,0,0,0,,{TIME:542380,544010}We won't be able to live quietly!
+Dialogue: 0,0:09:04.22,0:09:07.44,forest default C,,0,0,0,,{TIME:544220,547440}It was a lot of effort to make it like this!
+Dialogue: 0,0:09:07.91,0:09:10.90,forest default C,,0,0,0,,{TIME:547910,550900}OK, I'll make the rear exit in another place,
+Dialogue: 0,0:09:11.11,0:09:13.69,forest default C,,0,0,0,,{TIME:551110,553690}one that will absolutely\Nnot be discovered!
+Dialogue: 0,0:09:14.54,0:09:20.28,forest narrator C,,0,0,0,,{TIME:554540,560280}{\i1}From that day on, Johnny immediately\Nbegan working on another secret door.{\i}
+Dialogue: 0,0:09:41.55,0:09:48.09,forest default C,,0,0,0,,{TIME:581550,588090}Oh?!\NWhat-what's that?!
+Dialogue: 0,0:10:03.35,0:10:04.80,forest default C,,0,0,0,,{TIME:603350,604800}I don't hear it now...!
+Dialogue: 0,0:10:07.95,0:10:09.28,forest default C,,0,0,0,,{TIME:607950,609280}Is it Johnny?!
+Dialogue: 0,0:10:09.47,0:10:13.37,forest default C,,0,0,0,,{TIME:609470,613370}That's funny that he would be way out here\Nin the middle of the Green Meadow!
+Dialogue: 0,0:10:13.53,0:10:14.53,forest default C,,0,0,0,,{TIME:613530,614530}I must be dreaming!
+Dialogue: 0,0:10:14.82,0:10:15.82,forest default C,,0,0,0,,{TIME:614820,615820}Johnny!
+Dialogue: 0,0:10:22.17,0:10:24.21,forest default C,,0,0,0,,{TIME:622170,624210}That really was Johnny!
+Dialogue: 0,0:10:37.18,0:10:40.14,forest default C,,0,0,0,,{TIME:637180,640140}That's funny, there's nothing\Nlike an exit anywhere!
+Dialogue: 0,0:10:41.36,0:10:44.66,forest narrator C,,0,0,0,,{TIME:641360,644660}{\i1}Well, it looks like Johnny\Nhas dug a long-long tunnel{\i}
+Dialogue: 0,0:10:44.69,0:10:46.34,forest narrator C,,0,0,0,,{TIME:644690,646340}{\i1}that reaches to the Green Meadow.{\i}
+Dialogue: 0,0:10:46.54,0:10:52.21,forest narrator C,,0,0,0,,{TIME:646540,652210}{\i1}And let's hope that the secret rear exit\Nis one that cannot be readily discovered.{\i}
+Dialogue: 0,0:11:14.16,0:11:17.86,forest default C,,0,0,0,,{TIME:674160,677860}Sure is boring! All Johnny does\Nthese days is dig in that tunnel!
+Dialogue: 0,0:11:18.04,0:11:20.29,forest default C,,0,0,0,,{TIME:678040,680290}I wonder if I should go for a walk!
+Dialogue: 0,0:11:20.63,0:11:22.38,forest default C,,0,0,0,,{TIME:680630,682380}{\i1}Hello, Polly!{\i}
+Dialogue: 0,0:11:22.87,0:11:26.75,forest default C,,0,0,0,,{TIME:682870,686750}- Nice weather, eh?\N- Oh, Peter! How are you?
+Dialogue: 0,0:11:26.84,0:11:31.44,forest default C,,0,0,0,,{TIME:686840,691440}Uh... real good!\NBy the way, where's Johnny?
+Dialogue: 0,0:11:32.22,0:11:34.67,forest default C,,0,0,0,,{TIME:692220,694670}Everyday, Johnny is digging a tunnel!
+Dialogue: 0,0:11:35.70,0:11:37.41,forest default C,,0,0,0,,{TIME:695700,697410}A... tunnel?!
+Dialogue: 0,0:11:37.58,0:11:38.38,forest default C,,0,0,0,,{TIME:697580,698380}Yeah!
+Dialogue: 0,0:11:38.43,0:11:41.99,forest default C,,0,0,0,,{TIME:698430,701990}Tell me, tell me, tell me!\NWhere, where, where?
+Dialogue: 0,0:11:43.51,0:11:45.79,forest default C,,0,0,0,,{TIME:703510,705790}Uh, say, where is he digging it?\NWhere?
+Dialogue: 0,0:11:46.53,0:11:49.58,forest default C,,0,0,0,,{TIME:706530,709580}It's a long tunnel that exits\Ninto the Green Meadow!
+Dialogue: 0,0:11:50.65,0:11:51.67,forest default C,,0,0,0,,{TIME:710650,711670}That's amazing!
+Dialogue: 0,0:11:51.90,0:11:54.34,forest default C,,0,0,0,,{TIME:711900,714340}He does such wonderful things, Johnny does!
+Dialogue: 0,0:11:54.64,0:11:57.78,forest default C,,0,0,0,,{TIME:714640,717780}He's my very favorite friend when it comes\Nto building things!
+Dialogue: 0,0:11:58.02,0:12:01.61,forest default C,,0,0,0,,{TIME:718020,721610}Now that you mention it, I just saw Johnny\Nin the Green Meadow!
+Dialogue: 0,0:12:02.57,0:12:06.56,forest default C,,0,0,0,,{TIME:722570,726560}I was astonished...\NHe kept appearing and disappearing...
+Dialogue: 0,0:12:06.95,0:12:09.95,forest default C,,0,0,0,,{TIME:726950,729950}...but... I couldn't tell where\Nhe was coming from!
+Dialogue: 0,0:12:11.97,0:12:13.36,forest default C,,0,0,0,,{TIME:731970,733360}Come on, Polly!
+Dialogue: 0,0:12:13.42,0:12:15.72,forest default C,,0,0,0,,{TIME:733420,735720}I'd like to know!\NCome on, tell me,
+Dialogue: 0,0:12:15.80,0:12:19.02,forest default C,,0,0,0,,{TIME:735800,739020}you know I won't tell anybody\Nwhere he's hiding it, you know that!
+Dialogue: 0,0:12:19.59,0:12:21.69,forest default C,,0,0,0,,{TIME:739590,741690}Goodness, I just remembered\Nsomething I have to do!
+Dialogue: 0,0:12:44.68,0:12:48.75,forest default C,,0,0,0,,{TIME:764680,768750}Amazing, amazing, I never realized\Nhow amazing his house was!
+Dialogue: 0,0:12:48.80,0:12:50.01,forest default C,,0,0,0,,{TIME:768800,770010}{\i1}Who's there?{\i}
+Dialogue: 0,0:12:59.73,0:13:00.85,forest default C,,0,0,0,,{TIME:779730,780850}Peter!
+Dialogue: 0,0:13:02.12,0:13:06.08,forest default C,,0,0,0,,{TIME:782120,786080}I... I... I...\NJohnny, I...
+Dialogue: 0,0:13:08.66,0:13:12.23,forest default C,,0,0,0,,{TIME:788660,792230}I thought once in a while\NI should pay you a visit!
+Dialogue: 0,0:13:12.30,0:13:18.47,forest default C,,0,0,0,,{TIME:792300,798470}And then, the stairs were so steep I slipped\Nand fell all the way to the bottom...
+Dialogue: 0,0:13:18.56,0:13:20.41,forest default C,,0,0,0,,{TIME:798560,800410}...and... and... that is the true story!
+Dialogue: 0,0:13:21.48,0:13:23.32,forest default C,,0,0,0,,{TIME:801480,803320}Johnny, you were watching, were you?
+Dialogue: 0,0:13:23.85,0:13:26.52,forest default C,,0,0,0,,{TIME:803850,806520}It sure did hurt!
+Dialogue: 0,0:13:28.60,0:13:31.15,forest default C,,0,0,0,,{TIME:808600,811150}Boy, your curiosity sure is annoying!
+Dialogue: 0,0:13:32.00,0:13:32.98,forest default C,,0,0,0,,{TIME:812000,812980}Forgive me!
+Dialogue: 0,0:13:34.95,0:13:36.42,forest default C,,0,0,0,,{TIME:814950,816420}Have you seen Polly anywhere?
+Dialogue: 0,0:13:36.73,0:13:39.06,forest default C,,0,0,0,,{TIME:816730,819060}She went that way a while ago!
+Dialogue: 0,0:13:39.13,0:13:40.48,forest default C,,0,0,0,,{TIME:819130,820480}She went out, then!
+Dialogue: 0,0:14:00.25,0:14:02.36,forest default C,,0,0,0,,{TIME:840250,842360}It's Redtail the Hawk!
+Dialogue: 0,0:14:04.29,0:14:06.10,forest default C,,0,0,0,,{TIME:844290,846100}He's been flying around since yesterday!
+Dialogue: 0,0:14:06.59,0:14:09.23,forest default C,,0,0,0,,{TIME:846590,849230}I told Polly not to wander outside!
+Dialogue: 0,0:14:09.38,0:14:11.03,forest default C,,0,0,0,,{TIME:849380,851030}- Let's go look for her!\N- Yeah!
+Dialogue: 0,0:14:16.96,0:14:18.84,forest default C,,0,0,0,,{TIME:856960,858840}Johnny!\NHurry!
+Dialogue: 0,0:14:31.53,0:14:33.89,forest default C,,0,0,0,,{TIME:871530,873890}Johnny!\NYou're so slow!
+Dialogue: 0,0:15:08.81,0:15:11.17,forest default C,,0,0,0,,{TIME:908810,911170}Oh, pooh, such a face isn't good at all!
+Dialogue: 0,0:15:50.94,0:15:52.06,forest default C,,0,0,0,,{TIME:950940,952060}My goodness!
+Dialogue: 0,0:15:52.19,0:15:54.38,forest default C,,0,0,0,,{TIME:952190,954380}I'm scared!\NWhat will I do?! Oh!
+Dialogue: 0,0:16:05.41,0:16:08.34,forest narrator C,,0,0,0,,{TIME:965410,968340}{\i1}About the time the evening sun\Nwas setting in the Purple Hills,{\i}
+Dialogue: 0,0:16:08.67,0:16:12.47,forest narrator C,,0,0,0,,{TIME:968670,972470}{\i1}the hawk finally gave up\Nand disappeared into the evening sky.{\i}
+Dialogue: 0,0:16:35.02,0:16:40.22,forest narrator C,,0,0,0,,{TIME:995020,1000220}{\i1}Johnny, separated from Peter,\Nis still wandering around in the forest.{\i}
+Dialogue: 0,0:16:44.74,0:16:48.49,forest default C,,0,0,0,,{TIME:1004740,1008490}She must've gone very far because\Nit's getting really late!
+Dialogue: 0,0:16:57.24,0:16:58.24,forest default C,,0,0,0,,{TIME:1017240,1018240}Polly!
+Dialogue: 0,0:17:10.30,0:17:11.38,forest default C,,0,0,0,,{TIME:1030300,1031380}Polly!
+Dialogue: 0,0:17:11.46,0:17:21.21,forest narrator C,,0,0,0,,{TIME:1031460,1041210}{\i1}What on earth has happened?!\NEverything's going wrong for Johnny.{\i}
+Dialogue: 0,0:17:21.84,0:17:25.06,forest narrator C,,0,0,0,,{TIME:1041840,1045060}{\i1}Now the desire to do anything is gone.{\i}
+Dialogue: 0,0:17:29.47,0:17:34.42,forest narrator C,,0,0,0,,{TIME:1049470,1054420}{\i1}But the next day, Johnny sets out\Nearly in the morning to look for Polly.{\i}
+Dialogue: 0,0:17:37.96,0:17:39.33,forest default C,,0,0,0,,{TIME:1057960,1059330}Polly!
+Dialogue: 0,0:17:51.53,0:17:54.90,forest default C,,0,0,0,,{TIME:1071530,1074900}Who is she, who is she,\Nget her out of here!
+Dialogue: 0,0:17:55.00,0:17:58.74,forest default C,,0,0,0,,{TIME:1075000,1078740}Who she thinks she is, barging into somebody's\Nhouse without a word?!
+Dialogue: 0,0:18:00.12,0:18:02.55,forest default C,,0,0,0,,{TIME:1080120,1082550}Today is the day my wife has to lay eggs!
+Dialogue: 0,0:18:02.62,0:18:05.73,forest default C,,0,0,0,,{TIME:1082620,1085730}So this is really annoying!\NI don't want her here!
+Dialogue: 0,0:18:18.63,0:18:20.05,forest default C,,0,0,0,,{TIME:1098630,1100050}What place is this?
+Dialogue: 0,0:18:20.15,0:18:22.19,forest default C,,0,0,0,,{TIME:1100150,1102190}Hey! Hey-hey-hey-hey!
+Dialogue: 0,0:18:22.26,0:18:24.14,forest default C,,0,0,0,,{TIME:1102260,1104140}Get out of here!\NGet out of here!
+Dialogue: 0,0:18:24.17,0:18:25.02,forest default C,,0,0,0,,{TIME:1104170,1105020}Get out of the way!
+Dialogue: 0,0:18:27.45,0:18:30.38,forest default C,,0,0,0,,{TIME:1107450,1110380}Of all the nerve!
+Dialogue: 0,0:18:52.98,0:18:54.65,forest default C,,0,0,0,,{TIME:1132980,1134650}How nice!
+Dialogue: 0,0:18:59.49,0:19:02.55,forest default C,,0,0,0,,{TIME:1139490,1142550}Thank you, thank you everybody!\NYou're all wonderful, thank you!
+Dialogue: 0,0:19:03.66,0:19:07.12,forest default C,,0,0,0,,{TIME:1143660,1147120}Oh! That's right!\NWhat place is this?
+Dialogue: 0,0:19:11.24,0:19:12.90,forest default C,,0,0,0,,{TIME:1151240,1152900}I need help, I'm lost!
+Dialogue: 0,0:19:29.54,0:19:31.52,forest default C,,0,0,0,,{TIME:1169540,1171520}{\i1}Johnny!{\i}
+Dialogue: 0,0:19:31.85,0:19:33.20,forest default C,,0,0,0,,{TIME:1171850,1173200}Yes, Gentle Breeze!
+Dialogue: 0,0:19:33.45,0:19:36.56,forest default C,,0,0,0,,{TIME:1173450,1176560}{\i1}What's the matter, Johnny?\NSo dejected?{\i}
+Dialogue: 0,0:19:36.93,0:19:40.79,forest default C,,0,0,0,,{TIME:1176930,1180790}- Well, Polly is disappeared!\N{\i1}- Oh...! Since when?{\i}
+Dialogue: 0,0:19:42.72,0:19:44.17,forest default C,,0,0,0,,{TIME:1182720,1184170}Well... since yesterday!
+Dialogue: 0,0:19:44.39,0:19:46.19,forest default C,,0,0,0,,{TIME:1184390,1186190}{\i1}Oh, I'm sorry!{\i}
+Dialogue: 0,0:19:53.43,0:19:58.36,forest default C,,0,0,0,,{TIME:1193430,1198360}Gentle Breeze, I have this terrible feeling\Nthat Polly is not coming back to me anymore...
+Dialogue: 0,0:19:58.46,0:20:00.85,forest default C,,0,0,0,,{TIME:1198460,1200850}{\i1}My, such a thing...!{\i}
+Dialogue: 0,0:20:01.26,0:20:05.69,forest default C,,0,0,0,,{TIME:1201260,1205690}When I think about her being gone,\Nit makes me all sad inside...
+Dialogue: 0,0:20:10.20,0:20:13.24,forest default C,,0,0,0,,{TIME:1210200,1213240}{\i1}How would you feel\Nif Polly is not too far away?{\i}
+Dialogue: 0,0:20:13.72,0:20:15.20,forest default C,,0,0,0,,{TIME:1213720,1215200}Polly is nearby?
+Dialogue: 0,0:20:15.64,0:20:20.08,forest default C,,0,0,0,,{TIME:1215640,1220080}Then I feel big and strong and brave\Nlike a woodchuck should feel!
+Dialogue: 0,0:20:20.26,0:20:24.81,forest default C,,0,0,0,,{TIME:1220260,1224810}{\i1}How wonderful to have such a friend!{\i}
+Dialogue: 0,0:20:25.32,0:20:29.78,forest default C,,0,0,0,,{TIME:1225320,1229780}When Polly is cheerful and happy,\NI become cheerful and happy as well!
+Dialogue: 0,0:20:31.61,0:20:36.86,forest default C,,0,0,0,,{TIME:1231610,1236860}{\i1}It appears that you, Johnny, have found\Nthe most wonderful thing in the world.{\i}
+Dialogue: 0,0:20:40.38,0:20:43.42,forest default C,,0,0,0,,{TIME:1240380,1243420}{\i1}Little birds, what is the matter?{\i}
+Dialogue: 0,0:20:45.22,0:20:47.04,forest default C,,0,0,0,,{TIME:1245220,1247040}{\i1}Johnny!{\i}
+Dialogue: 0,0:20:47.44,0:20:48.92,forest default C,,0,0,0,,{TIME:1247440,1248920}What is it, Gentle Breeze?
+Dialogue: 0,0:20:49.45,0:20:51.68,forest default C,,0,0,0,,{TIME:1249450,1251680}{\i1}They say that Polly is nearby!{\i}
+Dialogue: 0,0:20:51.73,0:20:53.92,forest default C,,0,0,0,,{TIME:1251730,1253920}{\i1}By that tree, over there!{\i}
+Dialogue: 0,0:20:59.22,0:21:02.71,forest default C,,0,0,0,,{TIME:1259220,1262710}Thanks very much, little birds!\NAnd thank you, Gentle Breeze!
+Dialogue: 0,0:21:08.22,0:21:09.41,forest default C,,0,0,0,,{TIME:1268220,1269410}Gentle Breeze?
+Dialogue: 0,0:21:09.62,0:21:13.75,forest default C,,0,0,0,,{TIME:1269620,1273750}What do you mean when you say that I've found\Nthe most wonderful thing in the world?
+Dialogue: 0,0:21:13.82,0:21:19.85,forest default C,,0,0,0,,{TIME:1273820,1279850}{\i1}Most wonderful thing in the world...\Nis for one soul to love another.{\i}
+Dialogue: 0,0:21:27.51,0:21:28.50,forest default C,,0,0,0,,{TIME:1287510,1288500}Polly!
+Dialogue: 0,0:21:29.44,0:21:30.51,forest default C,,0,0,0,,{TIME:1289440,1290510}Johnny!
+Dialogue: 0,0:21:41.77,0:21:45.29,forest default C,,0,0,0,,{TIME:1301770,1305290}Polly, if you run that way,\Nyou'll be running further from home again!
+Dialogue: 0,0:21:45.65,0:21:48.15,forest default C,,0,0,0,,{TIME:1305650,1308150}Oh! That's right, isn't it?
+Dialogue: 0,0:21:49.32,0:21:55.66,forest default C,,0,0,0,,{TIME:1309320,1315660}Well, well!\NJohnny, you found Polly!
+Dialogue: 0,0:21:55.72,0:21:58.45,forest default C,,0,0,0,,{TIME:1315720,1318450}Yeah!\NSorry if we worried you!
+Dialogue: 0,0:21:59.11,0:22:02.50,forest default C,,0,0,0,,{TIME:1319110,1322500}Johnny, I wasn't worried!\NI knew you'd find her!
+Dialogue: 0,0:22:04.11,0:22:05.98,forest default C,,0,0,0,,{TIME:1324110,1325980}Yeah, well, so long, Peter!
+Dialogue: 0,0:22:09.55,0:22:13.91,forest narrator C,,0,0,0,,{TIME:1329550,1333910}{\i1}Johnny has completely forgotten\Nthe sadness of a few moments earlier...{\i}
+Dialogue: 0,0:22:14.11,0:22:17.29,forest narrator C,,0,0,0,,{TIME:1334110,1337290}{\i1}...and is again the energetic, bright Johnny.{\i}
+Dialogue: 0,0:22:18.12,0:22:20.67,forest narrator C,,0,0,0,,{TIME:1338120,1340670}{\i1}Never before, not even once,{\i}
+Dialogue: 0,0:22:20.76,0:22:26.43,forest narrator C,,0,0,0,,{TIME:1340760,1346430}{\i1}has the Green Forest seemed\Nso beautiful, and so wonderful!{\i}
+Dialogue: 0,0:22:27.78,0:22:31.29,forest credits C,,0,0,0,,{TIME:1347780,1351290}{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&\fnMf Kazincbarcika\fs37}South Wind Subs

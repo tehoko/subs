@@ -14,208 +14,208 @@ Group: OldCastle & South Wind Subs
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,5,10,10,10,1
-Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
+Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,5,10,10,10,1
+Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.51,0:00:09.51,forest title KB,,0,0,0,,FABLES \N of the\NGREEN FOREST
-Dialogue: 0,0:00:06.54,0:00:09.51,forest ep title C,,0,0,0,,{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Sammy learns a lesson"{\i}
-Dialogue: 0,0:00:23.20,0:00:26.06,forest default C,,0,0,0,,Mmm, tell me why am I so beautiful!
-Dialogue: 0,0:00:27.03,0:00:29.35,forest default C,,0,0,0,,And why is this coat I'm wearing\Nso pretty!
-Dialogue: 0,0:00:30.28,0:00:35.47,forest default C,,0,0,0,,And my style so smart, whether viewed from\Nthe front or from the rear, it's truly enchanting!
-Dialogue: 0,0:00:35.48,0:00:39.91,forest default C,,0,0,0,,Why, I'm probably the No.1 beauty\Nin the Green Forest, no, no?
-Dialogue: 0,0:00:40.89,0:00:43.75,forest default C,,0,0,0,,I'm the No.1 beauty in the world...!
-Dialogue: 0,0:00:44.61,0:00:46.77,forest default C,,0,0,0,,Yes... how beautiful!
-Dialogue: 0,0:00:47.76,0:00:48.58,forest default C,,0,0,0,,Hi...!
-Dialogue: 0,0:00:49.07,0:00:50.21,forest default C,,0,0,0,,Good morning, Sammy!
-Dialogue: 0,0:00:52.82,0:00:55.96,forest default C,,0,0,0,,Well, so it's you, Johnny and Polly, hmm...!
-Dialogue: 0,0:00:56.23,0:01:01.56,forest default C,,0,0,0,,You know, Johnny, all year round Sammy's coat\Nis always so beautiful, I really envy him!
-Dialogue: 0,0:01:02.64,0:01:05.86,forest default C,,0,0,0,,In the Green Forest, you're No.1,\Nwith the prettiest coat!
-Dialogue: 0,0:01:05.92,0:01:08.80,forest default C,,0,0,0,,- Maybe No.1 in the world...!\N- M-hmm...!
-Dialogue: 0,0:01:10.61,0:01:15.06,forest default C,,0,0,0,,You know, Sammy, grooming yourself is fine, but\Nmaybe you might try a little winter preparations!
-Dialogue: 0,0:01:16.90,0:01:19.18,forest default C,,0,0,0,,Why, I don't hibernate in winter like you do!
-Dialogue: 0,0:01:19.18,0:01:22.32,forest default C,,0,0,0,,And besides, underneath this beautiful coat,\NI wear warm underclothes!
-Dialogue: 0,0:01:22.32,0:01:24.89,forest default C,,0,0,0,,So I stay warm all winter long!
-Dialogue: 0,0:01:25.42,0:01:29.85,forest default C,,0,0,0,,But... in the winter it does get very difficult\Nto find food in the snow!
-Dialogue: 0,0:01:29.85,0:01:34.83,forest default C,,0,0,0,,That's right, Sammy! I think it might be better\Nif you stored just a little bit of food away!
-Dialogue: 0,0:01:37.59,0:01:40.24,forest default C,,0,0,0,,- Oh...!\N- What are you laughing to yourself about?
-Dialogue: 0,0:01:40.35,0:01:42.91,forest default C,,0,0,0,,Oh... because I've already made\Narrangements for food!
-Dialogue: 0,0:01:44.13,0:01:47.01,forest default C,,0,0,0,,- No worries!\N- Is that really so, Sammy?
-Dialogue: 0,0:01:47.88,0:01:49.41,forest default C,,0,0,0,,What... of course!
-Dialogue: 0,0:01:49.41,0:01:53.16,forest default C,,0,0,0,,I have business to attend to,\Nso if you'll excuse me, please...!
-Dialogue: 0,0:01:56.49,0:01:59.09,forest default C,,0,0,0,,It's certainly unusual about a lazy guy like Sammy
-Dialogue: 0,0:01:59.10,0:02:02.52,forest default C,,0,0,0,,would make preparations for the winter\Nwithout being told to by anyone!
-Dialogue: 0,0:02:02.52,0:02:06.99,forest default C,,0,0,0,,That's true! He might have\Nreally suffered in the cold last winter!
-Dialogue: 0,0:02:07.44,0:02:09.39,forest default C,,0,0,0,,Yeah, that must be right, Polly!
-Dialogue: 0,0:02:41.34,0:02:44.37,forest default C,,0,0,0,,I can eat my stomach full of this marvelous corn!
-Dialogue: 0,0:02:48.45,0:02:53.26,forest default C,,0,0,0,,Ah...! Nuts!\NWhy why, what happened to the corn?
-Dialogue: 0,0:02:53.26,0:02:55.42,forest default C,,0,0,0,,What... what... what happened...?! Oh!
-Dialogue: 0,0:02:55.42,0:02:58.17,forest default C,,0,0,0,,What happened, what happened\Nto the delicious corn?! What?!
-Dialogue: 0,0:02:58.17,0:03:01.83,forest default C,,0,0,0,,{\i1}Say, you thief,\Nwhat do you think you're looking for?{\i}
-Dialogue: 0,0:03:03.44,0:03:06.96,forest default C,,0,0,0,,No matter how much you search,\Nyou won't find the corn in there!
-Dialogue: 0,0:03:08.52,0:03:11.71,forest default C,,0,0,0,,- I moved it yesterday!\N- What, what did you say?!
-Dialogue: 0,0:03:12.17,0:03:16.84,forest default C,,0,0,0,,Boy, are you mistaken, Sammy, if you think that\NI didn't know you had an eye on my storehouse!
-Dialogue: 0,0:03:17.76,0:03:19.63,forest default C,,0,0,0,,You may have meant to hide and watch me,
-Dialogue: 0,0:03:19.63,0:03:23.12,forest default C,,0,0,0,,but the coat that you boast\Nso much about was clearly visible!
-Dialogue: 0,0:03:25.77,0:03:27.51,forest default C,,0,0,0,,Hey, quiet down, quiet!
-Dialogue: 0,0:03:27.51,0:03:31.52,forest default C,,0,0,0,,What...?! Trying to take other people things,\Nwhat do you mean, "be quiet"?!
-Dialogue: 0,0:03:31.52,0:03:33.52,forest default C,,0,0,0,,Hey, hush up, be quiet now, hush up!
-Dialogue: 0,0:03:33.83,0:03:37.01,forest default C,,0,0,0,,What?! You blockhead,\Nyou try and make me quiet?
-Dialogue: 0,0:03:37.23,0:03:39.48,forest default C,,0,0,0,,Now you've done it, Chatterer,\Nyou've insulted me!
-Dialogue: 0,0:03:39.48,0:03:42.96,forest default C,,0,0,0,,- What, I-I've insulted you? You've insulted me!\N- Leave me alone, leave me alone!
-Dialogue: 0,0:03:42.96,0:03:43.96,forest default C,,0,0,0,,{\i1}Are you crazy?!{\i}
-Dialogue: 0,0:03:45.02,0:03:47.27,forest default C,,0,0,0,,{\i1}You leave me alone,\Nyou're always picking on me!{\i}
-Dialogue: 0,0:03:47.60,0:03:50.29,forest default C,,0,0,0,,What? That's my corn,\Nyou thief, get out of there!
-Dialogue: 0,0:03:50.31,0:03:54.09,forest default C,,0,0,0,,I don't want your corn, you just leave me alone,\Nwhy you little... shrimp!
-Dialogue: 0,0:03:54.09,0:03:58.06,forest default C,,0,0,0,,- Shrimp...?! Oh, who are you calling a shrimp?!\N- Quit picking on me!
-Dialogue: 0,0:04:11.47,0:04:15.62,forest default C,,0,0,0,,Oh... my! Oh, look at how beautiful my coat is,\Nand how lovely my wings are,
-Dialogue: 0,0:04:15.62,0:04:17.00,forest default C,,0,0,0,,I love it, I love it, I love it!
-Dialogue: 0,0:04:17.23,0:04:20.22,forest default C,,0,0,0,,Oh, look! And look at how beautiful my tail is!
-Dialogue: 0,0:04:20.88,0:04:24.25,forest default C,,0,0,0,,Such a pretty tail! Would they look suits\Neverywhere, but never find such a tail!
-Dialogue: 0,0:04:24.77,0:04:27.00,forest default C,,0,0,0,,Could you even believe it's mine, how charming!
-Dialogue: 0,0:04:27.88,0:04:31.17,forest lyrics C,,0,0,0,,{\i1}Sammy is beautiful, Sammy is smart...{\i}
-Dialogue: 0,0:04:33.22,0:04:34.97,forest default C,,0,0,0,,That's so true!
-Dialogue: 0,0:04:35.00,0:04:38.33,forest lyrics C,,0,0,0,,{\i1}It's on the outside, not on the inside!{\i}
-Dialogue: 0,0:04:38.33,0:04:41.50,forest lyrics C,,0,0,0,,{\i1}What's on the outside, is not on the inside!{\i}
-Dialogue: 0,0:04:41.50,0:04:43.13,forest lyrics C,,0,0,0,,{\i1}What's on the outside,{\i}
-Dialogue: 0,0:04:43.13,0:04:44.98,forest lyrics C,,0,0,0,,{\i1}- ...is not on the inside!{\i}\N{\c&HFFFFFF&}- Hey, quit picking on me,
-Dialogue: 0,0:04:44.98,0:04:47.38,forest default C,,0,0,0,,knock it off, knock it off!
-Dialogue: 0,0:04:47.88,0:04:51.44,forest lyrics C,,0,0,0,,{\i1}Sammy is pretty, Sammy is smart,{\i}
-Dialogue: 0,0:04:51.44,0:04:54.87,forest lyrics C,,0,0,0,,{\i1}But he must remember, to have a heart!{\i}
-Dialogue: 0,0:04:54.87,0:04:58.16,forest default C,,0,0,0,,What, what? Who made up\Nthat song about me, anyway?
-Dialogue: 0,0:04:59.01,0:05:03.78,forest default C,,0,0,0,,I did...! Sammy, if you like it, why don't you\Njoin in and sing along with us, huh?
-Dialogue: 0,0:05:04.40,0:05:05.65,forest default C,,0,0,0,,Ah, what do you mean?
-Dialogue: 0,0:05:06.48,0:05:10.11,forest default C,,0,0,0,,Peter, I know that Sammy may be shameless,\Nbut he could never do that!
-Dialogue: 0,0:05:10.28,0:05:11.51,forest default C,,0,0,0,,That may be so.
-Dialogue: 0,0:05:11.51,0:05:16.26,forest default C,,0,0,0,,Well, boys, let's hit it just one more time,\Nslowly from the top, one, two and three...!
-Dialogue: 0,0:05:16.60,0:05:20.81,forest lyrics C,,0,0,0,,{\i1}Sammy is pretty, Sammy is smart,{\i}
-Dialogue: 0,0:05:20.81,0:05:25.27,forest lyrics C,,0,0,0,,{\i1}But he must remember, to have a heart!{\i}
-Dialogue: 0,0:05:25.49,0:05:29.56,forest lyrics C,,0,0,0,,{\i1}What's on the outside, is not on the inside!{\i}
-Dialogue: 0,0:05:30.07,0:05:31.50,forest lyrics C,,0,0,0,,{\c&HFFFFFF&}- Leave me alone!\N{\i1\c&H1BEAED&}- Sammy is pretty,{\i}
-Dialogue: 0,0:05:31.50,0:05:33.49,forest lyrics C,,0,0,0,,{\i1}Sammy is smart!{\i}
-Dialogue: 0,0:05:33.49,0:05:37.44,forest lyrics C,,0,0,0,,{\i1}But he must remember, to have a heart!{\i}
-Dialogue: 0,0:05:37.44,0:05:38.19,forest default C,,0,0,0,,One more time!
-Dialogue: 0,0:05:38.20,0:05:41.90,forest lyrics C,,0,0,0,,{\i1}- Sammy is pretty, Sammy is smart,{\i}\N{\c&HFFFFFF&}- Why-why, don't you know who I am?
-Dialogue: 0,0:05:41.90,0:05:46.18,forest lyrics C,,0,0,0,,{\i1}- But he must remember, to have a heart!{\i}\N{\c&HFFFFFF&}- Leave me alone! Leave me alone! Uh...! Why?
-Dialogue: 0,0:05:46.19,0:05:50.22,forest lyrics C,,0,0,0,,{\i1}- What's on the outside, is not on the inside!{\i}\N{\c&HFFFFFF&}- What, what? Quiet...! Oh...!
-Dialogue: 0,0:05:50.22,0:05:54.20,forest lyrics C,,0,0,0,,{\i1}Sammy is pretty, Sammy is smart,{\i}
-Dialogue: 0,0:05:54.21,0:05:58.30,forest lyrics C,,0,0,0,,{\i1}- But he must remember, to have a heart!{\i}\N{\c&HFFFFFF&}- Quiet!
-Dialogue: 0,0:05:58.40,0:06:02.40,forest lyrics C,,0,0,0,,{\i1}- What's on the outside, is not on the inside!{\i}\N{\c&HFFFFFF&}- No, no!
-Dialogue: 0,0:06:12.21,0:06:15.98,forest narrator C,,0,0,0,,{\i1}The song Peter wrote,\Nquickly become popular throughout the forest,{\i}
-Dialogue: 0,0:06:16.24,0:06:19.11,forest narrator C,,0,0,0,,{\i1}with the exception, of course,\NSammy the Jay.{\i}
-Dialogue: 0,0:06:22.60,0:06:26.72,forest lyrics C,,0,0,0,,{\i1}Sammy is pretty, Sammy is smart,{\i}
-Dialogue: 0,0:06:26.72,0:06:30.72,forest lyrics C,,0,0,0,,{\i1}But he must remember, to have a heart!{\i}
-Dialogue: 0,0:06:30.72,0:06:34.67,forest lyrics C,,0,0,0,,{\i1}What's on the outside, not on the inside!{\i}
-Dialogue: 0,0:06:34.67,0:06:38.58,forest lyrics C,,0,0,0,,{\i1}Sammy is pretty, Sammy is smart,{\i}
-Dialogue: 0,0:06:38.58,0:06:42.20,forest lyrics C,,0,0,0,,{\i1}But he must remember, to have a heart!{\i}
-Dialogue: 0,0:06:42.35,0:06:46.20,forest lyrics C,,0,0,0,,{\i1}What's on the outside, is not on the inside!{\i}
-Dialogue: 0,0:06:46.20,0:06:50.09,forest lyrics C,,0,0,0,,{\i1}Sammy is pretty, Sammy is smart,{\i}
-Dialogue: 0,0:06:50.09,0:06:52.69,forest lyrics C,,0,0,0,,{\i1}- But he must remember...{\i}\N{\c&HFFFFFF&}- Hey, stop singing such a song!
-Dialogue: 0,0:06:52.70,0:06:55.49,forest default C,,0,0,0,,No matter what he's done,\Nthat's hard on Sammy!
-Dialogue: 0,0:06:55.51,0:06:59.05,forest default C,,0,0,0,,Hmm, but Sammy was trying\Nto steal some of my food...!
-Dialogue: 0,0:06:59.46,0:07:02.70,forest default C,,0,0,0,,That's right, to call a thief a thief,\Nwhy, what's wrong with that, Johnny?
-Dialogue: 0,0:07:02.88,0:07:05.15,forest default C,,0,0,0,,What's wrong with that...?\NWell, I'll tell you:
-Dialogue: 0,0:07:05.35,0:07:07.21,forest default C,,0,0,0,,Maybe Sammy is at fault this time,
-Dialogue: 0,0:07:07.22,0:07:11.85,forest default C,,0,0,0,,but haven't we at one time or another\Nall been saved by Sammy's news reporting, hmm?
-Dialogue: 0,0:07:11.92,0:07:15.93,forest default C,,0,0,0,,Yes. That's right. You know,\Nif Sammy hadn't raised a ruckus,
-Dialogue: 0,0:07:15.93,0:07:19.11,forest default C,,0,0,0,,we might all have been caught already\Nby Granny or Reddy.
-Dialogue: 0,0:07:19.21,0:07:23.52,forest default C,,0,0,0,,So thinking about that, couldn't we be\Na little generous, don't you think?
-Dialogue: 0,0:07:23.84,0:07:26.87,forest default C,,0,0,0,,Hmm, but that and this are two different matters!
-Dialogue: 0,0:07:27.99,0:07:32.05,forest lyrics C,,0,0,0,,{\i1}Sammy is pretty, Sammy is smart,{\i}
-Dialogue: 0,0:07:32.05,0:07:35.68,forest lyrics C,,0,0,0,,{\i1}But he must remember, to have a heart!{\i}
-Dialogue: 0,0:07:35.81,0:07:39.48,forest lyrics C,,0,0,0,,{\i1}What's on the outside, is not on the inside!{\i}
-Dialogue: 0,0:07:39.48,0:07:43.20,forest lyrics C,,0,0,0,,{\i1}Sammy is pretty, Sammy is smart,{\i}
-Dialogue: 0,0:07:43.20,0:07:46.81,forest lyrics C,,0,0,0,,{\i1}But he must remember, to have a heart!{\i}
-Dialogue: 0,0:07:46.81,0:07:50.37,forest lyrics C,,0,0,0,,{\i1}What's on the outside, is not on the inside!{\i}
-Dialogue: 0,0:07:50.37,0:07:54.17,forest lyrics C,,0,0,0,,{\i1}Sammy is pretty, Sammy is smart,{\i}
-Dialogue: 0,0:07:54.17,0:07:57.91,forest lyrics C,,0,0,0,,{\i1}But he must remember, to have a heart!{\i}
-Dialogue: 0,0:07:57.93,0:08:01.48,forest lyrics C,,0,0,0,,{\i1}What's on the outside, is not on the inside!{\i}
-Dialogue: 0,0:08:03.14,0:08:05.88,forest default C,,0,0,0,,How mortifying, how mortifying, how mortifying!
-Dialogue: 0,0:08:05.88,0:08:08.13,forest default C,,0,0,0,,How could Peter write such a song\Nand make the laughingstock of me!
-Dialogue: 0,0:08:08.13,0:08:12.04,forest default C,,0,0,0,,Why, some day, someway, I gonna get revenge\Non those guys, how can they do that?!
-Dialogue: 0,0:08:14.64,0:08:15.61,forest default C,,0,0,0,,Why, it's Whitetail?
-Dialogue: 0,0:08:30.21,0:08:34.73,forest default C,,0,0,0,,Ah, that's it! I know how\NI'm gonna get revenge on Peter, why...!
-Dialogue: 0,0:08:35.94,0:08:38.04,forest default C,,0,0,0,,He's going to be crying!
-Dialogue: 0,0:08:42.91,0:08:47.85,forest default C,,0,0,0,,Today, why don't I go down to the Smiling Pool,\Nand I can teach them my new song!
-Dialogue: 0,0:08:52.93,0:08:54.40,forest lyrics C,,0,0,0,,{\i1}What's on the outside...{\i}
-Dialogue: 0,0:08:57.43,0:08:59.87,forest lyrics C,,0,0,0,,{\i1}Sammy is pretty, Sammy is smart,{\i}
-Dialogue: 0,0:08:59.87,0:09:02.62,forest lyrics C,,0,0,0,,{\i1}But he must remember, to have a heart!{\i}
-Dialogue: 0,0:09:04.39,0:09:07.24,forest lyrics C,,0,0,0,,{\i1}What's on the outside, is not on the inside!{\i}
-Dialogue: 0,0:09:07.83,0:09:10.43,forest lyrics C,,0,0,0,,{\i1}Sammy is pretty, Sammy is smart,{\i}
-Dialogue: 0,0:09:10.43,0:09:13.19,forest lyrics C,,0,0,0,,{\i1}But he must remember, to have a heart!{\i}
-Dialogue: 0,0:09:14.24,0:09:17.97,forest lyrics C,,0,0,0,,{\i1}What's on the outside, is not on the inside!{\i}
-Dialogue: 0,0:09:19.46,0:09:22.35,forest default C,,0,0,0,,Hey, Jerry, are you there?\NJerry, Jerry! Hey!
-Dialogue: 0,0:09:23.77,0:09:27.23,forest default C,,0,0,0,,Joe! Hey, are you here? Hey, Joe!
-Dialogue: 0,0:09:28.11,0:09:29.57,forest default C,,0,0,0,,It's Whitetail!
-Dialogue: 0,0:09:33.22,0:09:37.93,forest narrator C,,0,0,0,,{\i1}Peter, hearing the horrifying screech\Nof White Tail, flees for his life.{\i}
-Dialogue: 0,0:09:38.40,0:09:40.36,forest narrator C,,0,0,0,,{\i1}Terrified, he runs for cover.{\i}
-Dialogue: 0,0:09:40.68,0:09:43.09,forest narrator C,,0,0,0,,{\i1}Peter knows he's no match for such an enemy.{\i}
-Dialogue: 0,0:09:57.05,0:09:58.14,forest default C,,0,0,0,,{\i1}Peter!{\i}
-Dialogue: 0,0:10:01.72,0:10:03.64,forest default C,,0,0,0,,Why are you such in a hurry about, Peter?
-Dialogue: 0,0:10:05.42,0:10:06.23,forest default C,,0,0,0,,Huh?
-Dialogue: 0,0:10:08.86,0:10:10.99,forest default C,,0,0,0,,This... This sure funny... Why... I-I-I...
-Dialogue: 0,0:10:23.90,0:10:25.73,forest default C,,0,0,0,,Were you the voice right now?
-Dialogue: 0,0:10:26.03,0:10:30.26,forest default C,,0,0,0,,How did you forget, Peter, that I'm good\Nin imitations, why, how could you?
-Dialogue: 0,0:10:30.90,0:10:34.64,forest default C,,0,0,0,,I wanted revenge from yesterday, Peter,\Nso I've been watching you since morning!
-Dialogue: 0,0:10:38.45,0:10:40.99,forest lyrics C,,0,0,0,,{\i1}Peter Rabbit is the No.1 coward in the forest!{\i}
-Dialogue: 0,0:10:41.71,0:10:45.91,forest lyrics C,,0,0,0,,{\i1}Watch him run, and watch him hide,\NWatch Peter run, and watch him hide!{\i}
-Dialogue: 0,0:10:46.00,0:10:53.78,forest lyrics C,,0,0,0,,{\i1}Peter Rabbit is the No.1 coward\Nin the whole Green Forest!{\i}
-Dialogue: 0,0:10:54.63,0:10:56.69,forest default C,,0,0,0,,You tricked me, you tricked me!
-Dialogue: 0,0:10:57.52,0:10:59.15,forest default C,,0,0,0,,We're even now, Peter!
-Dialogue: 0,0:10:59.55,0:11:01.30,forest default C,,0,0,0,,You tricked me, you tricked me, you tricked me!
-Dialogue: 0,0:11:01.30,0:11:02.34,forest default C,,0,0,0,,Peter, you coward!
-Dialogue: 0,0:11:02.68,0:11:06.08,forest default C,,0,0,0,,You tricked me, you tricked me, you tricked me,\Nwhy did you trick me?!
-Dialogue: 0,0:11:08.22,0:11:12.69,forest narrator C,,0,0,0,,{\i1}Sammy, having taken revenge on Peter,\Nnow wanted revenge on Chatterer,{\i}
-Dialogue: 0,0:11:13.54,0:11:16.00,forest narrator C,,0,0,0,,{\i1}but, no matter where he searched\Nin the Green Forest,{\i}
-Dialogue: 0,0:11:16.00,0:11:18.15,forest narrator C,,0,0,0,,{\i1}he could not find a trace of Chatterer.{\i}
-Dialogue: 0,0:11:23.16,0:11:24.82,forest narrator C,,0,0,0,,{\i1}Johnny and Polly didn't know.{\i}
-Dialogue: 0,0:11:27.15,0:11:29.28,forest narrator C,,0,0,0,,{\i1}Grandfather Frog didn't know where he was.{\i}
-Dialogue: 0,0:11:29.66,0:11:30.51,forest narrator C,,0,0,0,,{\i1}Nobody knew.{\i}
-Dialogue: 0,0:11:34.39,0:11:35.99,forest narrator C,,0,0,0,,{\i1}Well, that's to be understood.{\i}
-Dialogue: 0,0:11:36.50,0:11:40.57,forest narrator C,,0,0,0,,{\i1}For Chatterer, every morning, without fail,\Nwould rise with the sun,{\i}
-Dialogue: 0,0:11:41.08,0:11:43.36,forest narrator C,,0,0,0,,{\i1}and go merrily to Mr. Brown's corn field.{\i}
-Dialogue: 0,0:11:50.94,0:11:54.41,forest narrator C,,0,0,0,,{\i1}There, the harvesting was carried out,\Nin preparation for the coming winter.{\i}
-Dialogue: 0,0:11:55.71,0:12:00.00,forest narrator C,,0,0,0,,{\i1}And the leftovers scattered about,\NChatterer would collect for the winter storage.{\i}
-Dialogue: 0,0:12:26.33,0:12:28.34,forest default C,,0,0,0,,Want some milk, Blackie?\NHere you are!
-Dialogue: 0,0:13:28.72,0:13:32.23,forest default C,,0,0,0,,- Johnny, over there! Isn't that Chatterer?\N- Where?
-Dialogue: 0,0:13:33.31,0:13:34.15,forest default C,,0,0,0,,Yeah, that's right!
-Dialogue: 0,0:13:34.15,0:13:36.32,forest default C,,0,0,0,,Hey-hey, what's wrong,\Nwhat happened, anyway?
-Dialogue: 0,0:13:36.81,0:13:38.05,forest default C,,0,0,0,,Hey, it's Chatterer!
-Dialogue: 0,0:13:38.23,0:13:41.48,forest default C,,0,0,0,,We thought he wasn't in the forest,\Nand there he is, ah!
-Dialogue: 0,0:13:41.88,0:13:42.59,forest default C,,0,0,0,,Right!
-Dialogue: 0,0:13:42.59,0:13:45.61,forest default C,,0,0,0,,No wonder Sammy couldn't find him,\Nno matter how hard he looked!
-Dialogue: 0,0:13:46.51,0:13:49.88,forest default C,,0,0,0,,Shouldn't we tell him that Sammy\Nis aiming to get revenge on him?
-Dialogue: 0,0:13:50.06,0:13:50.83,forest default C,,0,0,0,,We'd better!
-Dialogue: 0,0:13:57.49,0:13:59.77,forest default C,,0,0,0,,That Chatterer, I wonder\Nwhere he disappeared to!
-Dialogue: 0,0:14:05.43,0:14:06.67,forest default C,,0,0,0,,There's Chatterer!
-Dialogue: 0,0:14:07.32,0:14:10.16,forest default C,,0,0,0,,In such a place?\NHmm...
-Dialogue: 0,0:14:20.57,0:14:22.82,forest default C,,0,0,0,,Looks like I might get my revenge after all...!
-Dialogue: 0,0:14:27.48,0:14:30.02,forest default C,,0,0,0,,That's right, he was pretty persistent\Nwith his questions!
-Dialogue: 0,0:14:32.44,0:14:35.98,forest default C,,0,0,0,,No problem, I won't be taken in\Nby the likes of Sammy!
-Dialogue: 0,0:14:36.40,0:14:41.02,forest default C,,0,0,0,,{\i1}But Sammy can find you from the sky!\NThen seek his revenge!{\i}
-Dialogue: 0,0:14:56.98,0:15:02.59,forest default C,,0,0,0,,On a time like this, I'd usually warn them,\Nbut this time, mm-mm, not a chance!
-Dialogue: 0,0:15:09.57,0:15:12.10,forest default C,,0,0,0,,And then I ran with all of my might, oh...!
-Dialogue: 0,0:15:15.89,0:15:17.25,forest default C,,0,0,0,,{\i1}Why you, coward!{\i}
-Dialogue: 0,0:15:19.93,0:15:22.16,forest default C,,0,0,0,,{\i1}You shouldn't laugh so much, Chatterer!{\i}
-Dialogue: 0,0:15:30.08,0:15:31.53,forest default C,,0,0,0,,Look out, Chatterer!
-Dialogue: 0,0:15:32.44,0:15:34.38,forest default C,,0,0,0,,Johnny, Polly, you'd better run too!
-Dialogue: 0,0:15:53.14,0:15:55.04,forest default C,,0,0,0,,Chatterer, keep it up, run faster, faster!
-Dialogue: 0,0:16:07.27,0:16:09.54,forest default C,,0,0,0,,Chatterer, run this way, this way!
-Dialogue: 0,0:16:13.08,0:16:16.24,forest default C,,0,0,0,,Chatterer, inside the rock wall,\Nquick, hurry, hurry, quick!
-Dialogue: 0,0:16:16.24,0:16:19.12,forest default C,,0,0,0,,- Chatterer, here, here, here we are!\N- Hurry, hurry!
-Dialogue: 0,0:16:31.34,0:16:34.97,forest default C,,0,0,0,,Who do you think you are, Blackie?\NNobody's afraid of you!
-Dialogue: 0,0:16:35.31,0:16:38.41,forest default C,,0,0,0,,No creature in the forest\Ncan be caught by the likes of you!
-Dialogue: 0,0:17:03.21,0:17:04.19,forest default C,,0,0,0,,How about that?
-Dialogue: 0,0:17:35.62,0:17:37.51,forest default C,,0,0,0,,- Silly! Silly cat!\N- Meow!
-Dialogue: 0,0:17:40.19,0:17:41.90,forest default C,,0,0,0,,That was close, too close!
-Dialogue: 0,0:18:22.59,0:18:23.86,forest default C,,0,0,0,,Serves you right!
-Dialogue: 0,0:18:24.89,0:18:27.26,forest default C,,0,0,0,,OK, everyone can come out, now!
-Dialogue: 0,0:18:28.37,0:18:31.24,forest default C,,0,0,0,,- Yeah, it's true, he's gone!\N- That's good!
-Dialogue: 0,0:18:31.82,0:18:33.19,forest default C,,0,0,0,,Everyone OK?
-Dialogue: 0,0:18:34.13,0:18:36.20,forest default C,,0,0,0,,Yeah, Sammy, thank you for saving us!
-Dialogue: 0,0:18:53.85,0:18:58.85,forest credits C,,0,0,0,,{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs
+Dialogue: 0,0:00:03.51,0:00:09.51,forest title KB,,0,0,0,,{TIME:3510,9510}FABLES \N of the\NGREEN FOREST
+Dialogue: 0,0:00:06.54,0:00:09.51,forest ep title C,,0,0,0,,{TIME:6540,9510}{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Sammy learns a lesson"{\i}
+Dialogue: 0,0:00:23.20,0:00:26.06,forest default C,,0,0,0,,{TIME:23200,26060}Mmm, tell me why am I so beautiful!
+Dialogue: 0,0:00:27.03,0:00:29.35,forest default C,,0,0,0,,{TIME:27030,29350}And why is this coat I'm wearing\Nso pretty!
+Dialogue: 0,0:00:30.28,0:00:35.47,forest default C,,0,0,0,,{TIME:30280,35470}And my style so smart, whether viewed from\Nthe front or from the rear, it's truly enchanting!
+Dialogue: 0,0:00:35.48,0:00:39.91,forest default C,,0,0,0,,{TIME:35480,39910}Why, I'm probably the No.1 beauty\Nin the Green Forest, no, no?
+Dialogue: 0,0:00:40.89,0:00:43.75,forest default C,,0,0,0,,{TIME:40890,43750}I'm the No.1 beauty in the world...!
+Dialogue: 0,0:00:44.61,0:00:46.77,forest default C,,0,0,0,,{TIME:44610,46770}Yes... how beautiful!
+Dialogue: 0,0:00:47.76,0:00:48.58,forest default C,,0,0,0,,{TIME:47760,48580}Hi...!
+Dialogue: 0,0:00:49.07,0:00:50.21,forest default C,,0,0,0,,{TIME:49070,50210}Good morning, Sammy!
+Dialogue: 0,0:00:52.82,0:00:55.96,forest default C,,0,0,0,,{TIME:52820,55960}Well, so it's you, Johnny and Polly, hmm...!
+Dialogue: 0,0:00:56.23,0:01:01.56,forest default C,,0,0,0,,{TIME:56230,61560}You know, Johnny, all year round Sammy's coat\Nis always so beautiful, I really envy him!
+Dialogue: 0,0:01:02.64,0:01:05.86,forest default C,,0,0,0,,{TIME:62640,65860}In the Green Forest, you're No.1,\Nwith the prettiest coat!
+Dialogue: 0,0:01:05.92,0:01:08.80,forest default C,,0,0,0,,{TIME:65920,68800}- Maybe No.1 in the world...!\N- M-hmm...!
+Dialogue: 0,0:01:10.61,0:01:15.06,forest default C,,0,0,0,,{TIME:70610,75060}You know, Sammy, grooming yourself is fine, but\Nmaybe you might try a little winter preparations!
+Dialogue: 0,0:01:16.90,0:01:19.18,forest default C,,0,0,0,,{TIME:76900,79180}Why, I don't hibernate in winter like you do!
+Dialogue: 0,0:01:19.18,0:01:22.32,forest default C,,0,0,0,,{TIME:79180,82320}And besides, underneath this beautiful coat,\NI wear warm underclothes!
+Dialogue: 0,0:01:22.32,0:01:24.89,forest default C,,0,0,0,,{TIME:82320,84890}So I stay warm all winter long!
+Dialogue: 0,0:01:25.42,0:01:29.85,forest default C,,0,0,0,,{TIME:85420,89850}But... in the winter it does get very difficult\Nto find food in the snow!
+Dialogue: 0,0:01:29.85,0:01:34.83,forest default C,,0,0,0,,{TIME:89850,94830}That's right, Sammy! I think it might be better\Nif you stored just a little bit of food away!
+Dialogue: 0,0:01:37.59,0:01:40.24,forest default C,,0,0,0,,{TIME:97590,100240}- Oh...!\N- What are you laughing to yourself about?
+Dialogue: 0,0:01:40.35,0:01:42.91,forest default C,,0,0,0,,{TIME:100350,102910}Oh... because I've already made\Narrangements for food!
+Dialogue: 0,0:01:44.13,0:01:47.01,forest default C,,0,0,0,,{TIME:104130,107010}- No worries!\N- Is that really so, Sammy?
+Dialogue: 0,0:01:47.88,0:01:49.41,forest default C,,0,0,0,,{TIME:107880,109410}What... of course!
+Dialogue: 0,0:01:49.41,0:01:53.16,forest default C,,0,0,0,,{TIME:109410,113160}I have business to attend to,\Nso if you'll excuse me, please...!
+Dialogue: 0,0:01:56.49,0:01:59.09,forest default C,,0,0,0,,{TIME:116490,119090}It's certainly unusual about a lazy guy like Sammy
+Dialogue: 0,0:01:59.10,0:02:02.52,forest default C,,0,0,0,,{TIME:119100,122520}would make preparations for the winter\Nwithout being told to by anyone!
+Dialogue: 0,0:02:02.52,0:02:06.99,forest default C,,0,0,0,,{TIME:122520,126990}That's true! He might have\Nreally suffered in the cold last winter!
+Dialogue: 0,0:02:07.44,0:02:09.39,forest default C,,0,0,0,,{TIME:127440,129390}Yeah, that must be right, Polly!
+Dialogue: 0,0:02:41.34,0:02:44.37,forest default C,,0,0,0,,{TIME:161340,164370}I can eat my stomach full of this marvelous corn!
+Dialogue: 0,0:02:48.45,0:02:53.26,forest default C,,0,0,0,,{TIME:168450,173260}Ah...! Nuts!\NWhy why, what happened to the corn?
+Dialogue: 0,0:02:53.26,0:02:55.42,forest default C,,0,0,0,,{TIME:173260,175420}What... what... what happened...?! Oh!
+Dialogue: 0,0:02:55.42,0:02:58.17,forest default C,,0,0,0,,{TIME:175420,178170}What happened, what happened\Nto the delicious corn?! What?!
+Dialogue: 0,0:02:58.17,0:03:01.83,forest default C,,0,0,0,,{TIME:178170,181830}{\i1}Say, you thief,\Nwhat do you think you're looking for?{\i}
+Dialogue: 0,0:03:03.44,0:03:06.96,forest default C,,0,0,0,,{TIME:183440,186960}No matter how much you search,\Nyou won't find the corn in there!
+Dialogue: 0,0:03:08.52,0:03:11.71,forest default C,,0,0,0,,{TIME:188520,191710}- I moved it yesterday!\N- What, what did you say?!
+Dialogue: 0,0:03:12.17,0:03:16.84,forest default C,,0,0,0,,{TIME:192170,196840}Boy, are you mistaken, Sammy, if you think that\NI didn't know you had an eye on my storehouse!
+Dialogue: 0,0:03:17.76,0:03:19.63,forest default C,,0,0,0,,{TIME:197760,199630}You may have meant to hide and watch me,
+Dialogue: 0,0:03:19.63,0:03:23.12,forest default C,,0,0,0,,{TIME:199630,203120}but the coat that you boast\Nso much about was clearly visible!
+Dialogue: 0,0:03:25.77,0:03:27.51,forest default C,,0,0,0,,{TIME:205770,207510}Hey, quiet down, quiet!
+Dialogue: 0,0:03:27.51,0:03:31.52,forest default C,,0,0,0,,{TIME:207510,211520}What...?! Trying to take other people things,\Nwhat do you mean, "be quiet"?!
+Dialogue: 0,0:03:31.52,0:03:33.52,forest default C,,0,0,0,,{TIME:211520,213520}Hey, hush up, be quiet now, hush up!
+Dialogue: 0,0:03:33.83,0:03:37.01,forest default C,,0,0,0,,{TIME:213830,217010}What?! You blockhead,\Nyou try and make me quiet?
+Dialogue: 0,0:03:37.23,0:03:39.48,forest default C,,0,0,0,,{TIME:217230,219480}Now you've done it, Chatterer,\Nyou've insulted me!
+Dialogue: 0,0:03:39.48,0:03:42.96,forest default C,,0,0,0,,{TIME:219480,222960}- What, I-I've insulted you? You've insulted me!\N- Leave me alone, leave me alone!
+Dialogue: 0,0:03:42.96,0:03:43.96,forest default C,,0,0,0,,{TIME:222960,223960}{\i1}Are you crazy?!{\i}
+Dialogue: 0,0:03:45.02,0:03:47.27,forest default C,,0,0,0,,{TIME:225020,227270}{\i1}You leave me alone,\Nyou're always picking on me!{\i}
+Dialogue: 0,0:03:47.60,0:03:50.29,forest default C,,0,0,0,,{TIME:227600,230290}What? That's my corn,\Nyou thief, get out of there!
+Dialogue: 0,0:03:50.31,0:03:54.09,forest default C,,0,0,0,,{TIME:230310,234090}I don't want your corn, you just leave me alone,\Nwhy you little... shrimp!
+Dialogue: 0,0:03:54.09,0:03:58.06,forest default C,,0,0,0,,{TIME:234090,238060}- Shrimp...?! Oh, who are you calling a shrimp?!\N- Quit picking on me!
+Dialogue: 0,0:04:11.47,0:04:15.62,forest default C,,0,0,0,,{TIME:251470,255620}Oh... my! Oh, look at how beautiful my coat is,\Nand how lovely my wings are,
+Dialogue: 0,0:04:15.62,0:04:17.00,forest default C,,0,0,0,,{TIME:255620,257000}I love it, I love it, I love it!
+Dialogue: 0,0:04:17.23,0:04:20.22,forest default C,,0,0,0,,{TIME:257230,260220}Oh, look! And look at how beautiful my tail is!
+Dialogue: 0,0:04:20.88,0:04:24.25,forest default C,,0,0,0,,{TIME:260880,264250}Such a pretty tail! Would they look suits\Neverywhere, but never find such a tail!
+Dialogue: 0,0:04:24.77,0:04:27.00,forest default C,,0,0,0,,{TIME:264770,267000}Could you even believe it's mine, how charming!
+Dialogue: 0,0:04:27.88,0:04:31.17,forest lyrics C,,0,0,0,,{TIME:267880,271170}{\i1}Sammy is beautiful, Sammy is smart...{\i}
+Dialogue: 0,0:04:33.22,0:04:34.97,forest default C,,0,0,0,,{TIME:273220,274970}That's so true!
+Dialogue: 0,0:04:35.00,0:04:38.33,forest lyrics C,,0,0,0,,{TIME:275000,278330}{\i1}It's on the outside, not on the inside!{\i}
+Dialogue: 0,0:04:38.33,0:04:41.50,forest lyrics C,,0,0,0,,{TIME:278330,281500}{\i1}What's on the outside, is not on the inside!{\i}
+Dialogue: 0,0:04:41.50,0:04:43.13,forest lyrics C,,0,0,0,,{TIME:281500,283130}{\i1}What's on the outside,{\i}
+Dialogue: 0,0:04:43.13,0:04:44.98,forest lyrics C,,0,0,0,,{TIME:283130,284980}{\i1}- ...is not on the inside!{\i}\N{\c&HFFFFFF&}- Hey, quit picking on me,
+Dialogue: 0,0:04:44.98,0:04:47.38,forest default C,,0,0,0,,{TIME:284980,287380}knock it off, knock it off!
+Dialogue: 0,0:04:47.88,0:04:51.44,forest lyrics C,,0,0,0,,{TIME:287880,291440}{\i1}Sammy is pretty, Sammy is smart,{\i}
+Dialogue: 0,0:04:51.44,0:04:54.87,forest lyrics C,,0,0,0,,{TIME:291440,294870}{\i1}But he must remember, to have a heart!{\i}
+Dialogue: 0,0:04:54.87,0:04:58.16,forest default C,,0,0,0,,{TIME:294870,298160}What, what? Who made up\Nthat song about me, anyway?
+Dialogue: 0,0:04:59.01,0:05:03.78,forest default C,,0,0,0,,{TIME:299010,303780}I did...! Sammy, if you like it, why don't you\Njoin in and sing along with us, huh?
+Dialogue: 0,0:05:04.40,0:05:05.65,forest default C,,0,0,0,,{TIME:304400,305650}Ah, what do you mean?
+Dialogue: 0,0:05:06.48,0:05:10.11,forest default C,,0,0,0,,{TIME:306480,310110}Peter, I know that Sammy may be shameless,\Nbut he could never do that!
+Dialogue: 0,0:05:10.28,0:05:11.51,forest default C,,0,0,0,,{TIME:310280,311510}That may be so.
+Dialogue: 0,0:05:11.51,0:05:16.26,forest default C,,0,0,0,,{TIME:311510,316260}Well, boys, let's hit it just one more time,\Nslowly from the top, one, two and three...!
+Dialogue: 0,0:05:16.60,0:05:20.81,forest lyrics C,,0,0,0,,{TIME:316600,320810}{\i1}Sammy is pretty, Sammy is smart,{\i}
+Dialogue: 0,0:05:20.81,0:05:25.27,forest lyrics C,,0,0,0,,{TIME:320810,325270}{\i1}But he must remember, to have a heart!{\i}
+Dialogue: 0,0:05:25.49,0:05:29.56,forest lyrics C,,0,0,0,,{TIME:325490,329560}{\i1}What's on the outside, is not on the inside!{\i}
+Dialogue: 0,0:05:30.07,0:05:31.50,forest lyrics C,,0,0,0,,{TIME:330070,331500}{\c&HFFFFFF&}- Leave me alone!\N{\i1\c&H1BEAED&}- Sammy is pretty,{\i}
+Dialogue: 0,0:05:31.50,0:05:33.49,forest lyrics C,,0,0,0,,{TIME:331500,333490}{\i1}Sammy is smart!{\i}
+Dialogue: 0,0:05:33.49,0:05:37.44,forest lyrics C,,0,0,0,,{TIME:333490,337440}{\i1}But he must remember, to have a heart!{\i}
+Dialogue: 0,0:05:37.44,0:05:38.19,forest default C,,0,0,0,,{TIME:337440,338190}One more time!
+Dialogue: 0,0:05:38.20,0:05:41.90,forest lyrics C,,0,0,0,,{TIME:338200,341900}{\i1}- Sammy is pretty, Sammy is smart,{\i}\N{\c&HFFFFFF&}- Why-why, don't you know who I am?
+Dialogue: 0,0:05:41.90,0:05:46.18,forest lyrics C,,0,0,0,,{TIME:341900,346180}{\i1}- But he must remember, to have a heart!{\i}\N{\c&HFFFFFF&}- Leave me alone! Leave me alone! Uh...! Why?
+Dialogue: 0,0:05:46.19,0:05:50.22,forest lyrics C,,0,0,0,,{TIME:346190,350220}{\i1}- What's on the outside, is not on the inside!{\i}\N{\c&HFFFFFF&}- What, what? Quiet...! Oh...!
+Dialogue: 0,0:05:50.22,0:05:54.20,forest lyrics C,,0,0,0,,{TIME:350220,354200}{\i1}Sammy is pretty, Sammy is smart,{\i}
+Dialogue: 0,0:05:54.21,0:05:58.30,forest lyrics C,,0,0,0,,{TIME:354210,358300}{\i1}- But he must remember, to have a heart!{\i}\N{\c&HFFFFFF&}- Quiet!
+Dialogue: 0,0:05:58.40,0:06:02.40,forest lyrics C,,0,0,0,,{TIME:358400,362400}{\i1}- What's on the outside, is not on the inside!{\i}\N{\c&HFFFFFF&}- No, no!
+Dialogue: 0,0:06:12.21,0:06:15.98,forest narrator C,,0,0,0,,{TIME:372210,375980}{\i1}The song Peter wrote,\Nquickly become popular throughout the forest,{\i}
+Dialogue: 0,0:06:16.24,0:06:19.11,forest narrator C,,0,0,0,,{TIME:376240,379110}{\i1}with the exception, of course,\NSammy the Jay.{\i}
+Dialogue: 0,0:06:22.60,0:06:26.72,forest lyrics C,,0,0,0,,{TIME:382600,386720}{\i1}Sammy is pretty, Sammy is smart,{\i}
+Dialogue: 0,0:06:26.72,0:06:30.72,forest lyrics C,,0,0,0,,{TIME:386720,390720}{\i1}But he must remember, to have a heart!{\i}
+Dialogue: 0,0:06:30.72,0:06:34.67,forest lyrics C,,0,0,0,,{TIME:390720,394670}{\i1}What's on the outside, not on the inside!{\i}
+Dialogue: 0,0:06:34.67,0:06:38.58,forest lyrics C,,0,0,0,,{TIME:394670,398580}{\i1}Sammy is pretty, Sammy is smart,{\i}
+Dialogue: 0,0:06:38.58,0:06:42.20,forest lyrics C,,0,0,0,,{TIME:398580,402200}{\i1}But he must remember, to have a heart!{\i}
+Dialogue: 0,0:06:42.35,0:06:46.20,forest lyrics C,,0,0,0,,{TIME:402350,406200}{\i1}What's on the outside, is not on the inside!{\i}
+Dialogue: 0,0:06:46.20,0:06:50.09,forest lyrics C,,0,0,0,,{TIME:406200,410090}{\i1}Sammy is pretty, Sammy is smart,{\i}
+Dialogue: 0,0:06:50.09,0:06:52.69,forest lyrics C,,0,0,0,,{TIME:410090,412690}{\i1}- But he must remember...{\i}\N{\c&HFFFFFF&}- Hey, stop singing such a song!
+Dialogue: 0,0:06:52.70,0:06:55.49,forest default C,,0,0,0,,{TIME:412700,415490}No matter what he's done,\Nthat's hard on Sammy!
+Dialogue: 0,0:06:55.51,0:06:59.05,forest default C,,0,0,0,,{TIME:415510,419050}Hmm, but Sammy was trying\Nto steal some of my food...!
+Dialogue: 0,0:06:59.46,0:07:02.70,forest default C,,0,0,0,,{TIME:419460,422700}That's right, to call a thief a thief,\Nwhy, what's wrong with that, Johnny?
+Dialogue: 0,0:07:02.88,0:07:05.15,forest default C,,0,0,0,,{TIME:422880,425150}What's wrong with that...?\NWell, I'll tell you:
+Dialogue: 0,0:07:05.35,0:07:07.21,forest default C,,0,0,0,,{TIME:425350,427210}Maybe Sammy is at fault this time,
+Dialogue: 0,0:07:07.22,0:07:11.85,forest default C,,0,0,0,,{TIME:427220,431850}but haven't we at one time or another\Nall been saved by Sammy's news reporting, hmm?
+Dialogue: 0,0:07:11.92,0:07:15.93,forest default C,,0,0,0,,{TIME:431920,435930}Yes. That's right. You know,\Nif Sammy hadn't raised a ruckus,
+Dialogue: 0,0:07:15.93,0:07:19.11,forest default C,,0,0,0,,{TIME:435930,439110}we might all have been caught already\Nby Granny or Reddy.
+Dialogue: 0,0:07:19.21,0:07:23.52,forest default C,,0,0,0,,{TIME:439210,443520}So thinking about that, couldn't we be\Na little generous, don't you think?
+Dialogue: 0,0:07:23.84,0:07:26.87,forest default C,,0,0,0,,{TIME:443840,446870}Hmm, but that and this are two different matters!
+Dialogue: 0,0:07:27.99,0:07:32.05,forest lyrics C,,0,0,0,,{TIME:447990,452050}{\i1}Sammy is pretty, Sammy is smart,{\i}
+Dialogue: 0,0:07:32.05,0:07:35.68,forest lyrics C,,0,0,0,,{TIME:452050,455680}{\i1}But he must remember, to have a heart!{\i}
+Dialogue: 0,0:07:35.81,0:07:39.48,forest lyrics C,,0,0,0,,{TIME:455810,459480}{\i1}What's on the outside, is not on the inside!{\i}
+Dialogue: 0,0:07:39.48,0:07:43.20,forest lyrics C,,0,0,0,,{TIME:459480,463200}{\i1}Sammy is pretty, Sammy is smart,{\i}
+Dialogue: 0,0:07:43.20,0:07:46.81,forest lyrics C,,0,0,0,,{TIME:463200,466810}{\i1}But he must remember, to have a heart!{\i}
+Dialogue: 0,0:07:46.81,0:07:50.37,forest lyrics C,,0,0,0,,{TIME:466810,470370}{\i1}What's on the outside, is not on the inside!{\i}
+Dialogue: 0,0:07:50.37,0:07:54.17,forest lyrics C,,0,0,0,,{TIME:470370,474170}{\i1}Sammy is pretty, Sammy is smart,{\i}
+Dialogue: 0,0:07:54.17,0:07:57.91,forest lyrics C,,0,0,0,,{TIME:474170,477910}{\i1}But he must remember, to have a heart!{\i}
+Dialogue: 0,0:07:57.93,0:08:01.48,forest lyrics C,,0,0,0,,{TIME:477930,481480}{\i1}What's on the outside, is not on the inside!{\i}
+Dialogue: 0,0:08:03.14,0:08:05.88,forest default C,,0,0,0,,{TIME:483140,485880}How mortifying, how mortifying, how mortifying!
+Dialogue: 0,0:08:05.88,0:08:08.13,forest default C,,0,0,0,,{TIME:485880,488130}How could Peter write such a song\Nand make the laughingstock of me!
+Dialogue: 0,0:08:08.13,0:08:12.04,forest default C,,0,0,0,,{TIME:488130,492040}Why, some day, someway, I gonna get revenge\Non those guys, how can they do that?!
+Dialogue: 0,0:08:14.64,0:08:15.61,forest default C,,0,0,0,,{TIME:494640,495610}Why, it's Whitetail?
+Dialogue: 0,0:08:30.21,0:08:34.73,forest default C,,0,0,0,,{TIME:510210,514730}Ah, that's it! I know how\NI'm gonna get revenge on Peter, why...!
+Dialogue: 0,0:08:35.94,0:08:38.04,forest default C,,0,0,0,,{TIME:515940,518040}He's going to be crying!
+Dialogue: 0,0:08:42.91,0:08:47.85,forest default C,,0,0,0,,{TIME:522910,527850}Today, why don't I go down to the Smiling Pool,\Nand I can teach them my new song!
+Dialogue: 0,0:08:52.93,0:08:54.40,forest lyrics C,,0,0,0,,{TIME:532930,534400}{\i1}What's on the outside...{\i}
+Dialogue: 0,0:08:57.43,0:08:59.87,forest lyrics C,,0,0,0,,{TIME:537430,539870}{\i1}Sammy is pretty, Sammy is smart,{\i}
+Dialogue: 0,0:08:59.87,0:09:02.62,forest lyrics C,,0,0,0,,{TIME:539870,542620}{\i1}But he must remember, to have a heart!{\i}
+Dialogue: 0,0:09:04.39,0:09:07.24,forest lyrics C,,0,0,0,,{TIME:544390,547240}{\i1}What's on the outside, is not on the inside!{\i}
+Dialogue: 0,0:09:07.83,0:09:10.43,forest lyrics C,,0,0,0,,{TIME:547830,550430}{\i1}Sammy is pretty, Sammy is smart,{\i}
+Dialogue: 0,0:09:10.43,0:09:13.19,forest lyrics C,,0,0,0,,{TIME:550430,553190}{\i1}But he must remember, to have a heart!{\i}
+Dialogue: 0,0:09:14.24,0:09:17.97,forest lyrics C,,0,0,0,,{TIME:554240,557970}{\i1}What's on the outside, is not on the inside!{\i}
+Dialogue: 0,0:09:19.46,0:09:22.35,forest default C,,0,0,0,,{TIME:559460,562350}Hey, Jerry, are you there?\NJerry, Jerry! Hey!
+Dialogue: 0,0:09:23.77,0:09:27.23,forest default C,,0,0,0,,{TIME:563770,567230}Joe! Hey, are you here? Hey, Joe!
+Dialogue: 0,0:09:28.11,0:09:29.57,forest default C,,0,0,0,,{TIME:568110,569570}It's Whitetail!
+Dialogue: 0,0:09:33.22,0:09:37.93,forest narrator C,,0,0,0,,{TIME:573220,577930}{\i1}Peter, hearing the horrifying screech\Nof White Tail, flees for his life.{\i}
+Dialogue: 0,0:09:38.40,0:09:40.36,forest narrator C,,0,0,0,,{TIME:578400,580360}{\i1}Terrified, he runs for cover.{\i}
+Dialogue: 0,0:09:40.68,0:09:43.09,forest narrator C,,0,0,0,,{TIME:580680,583090}{\i1}Peter knows he's no match for such an enemy.{\i}
+Dialogue: 0,0:09:57.05,0:09:58.14,forest default C,,0,0,0,,{TIME:597050,598140}{\i1}Peter!{\i}
+Dialogue: 0,0:10:01.72,0:10:03.64,forest default C,,0,0,0,,{TIME:601720,603640}Why are you such in a hurry about, Peter?
+Dialogue: 0,0:10:05.42,0:10:06.23,forest default C,,0,0,0,,{TIME:605420,606230}Huh?
+Dialogue: 0,0:10:08.86,0:10:10.99,forest default C,,0,0,0,,{TIME:608860,610990}This... This sure funny... Why... I-I-I...
+Dialogue: 0,0:10:23.90,0:10:25.73,forest default C,,0,0,0,,{TIME:623900,625730}Were you the voice right now?
+Dialogue: 0,0:10:26.03,0:10:30.26,forest default C,,0,0,0,,{TIME:626030,630260}How did you forget, Peter, that I'm good\Nin imitations, why, how could you?
+Dialogue: 0,0:10:30.90,0:10:34.64,forest default C,,0,0,0,,{TIME:630900,634640}I wanted revenge from yesterday, Peter,\Nso I've been watching you since morning!
+Dialogue: 0,0:10:38.45,0:10:40.99,forest lyrics C,,0,0,0,,{TIME:638450,640990}{\i1}Peter Rabbit is the No.1 coward in the forest!{\i}
+Dialogue: 0,0:10:41.71,0:10:45.91,forest lyrics C,,0,0,0,,{TIME:641710,645910}{\i1}Watch him run, and watch him hide,\NWatch Peter run, and watch him hide!{\i}
+Dialogue: 0,0:10:46.00,0:10:53.78,forest lyrics C,,0,0,0,,{TIME:646000,653780}{\i1}Peter Rabbit is the No.1 coward\Nin the whole Green Forest!{\i}
+Dialogue: 0,0:10:54.63,0:10:56.69,forest default C,,0,0,0,,{TIME:654630,656690}You tricked me, you tricked me!
+Dialogue: 0,0:10:57.52,0:10:59.15,forest default C,,0,0,0,,{TIME:657520,659150}We're even now, Peter!
+Dialogue: 0,0:10:59.55,0:11:01.30,forest default C,,0,0,0,,{TIME:659550,661300}You tricked me, you tricked me, you tricked me!
+Dialogue: 0,0:11:01.30,0:11:02.34,forest default C,,0,0,0,,{TIME:661300,662340}Peter, you coward!
+Dialogue: 0,0:11:02.68,0:11:06.08,forest default C,,0,0,0,,{TIME:662680,666080}You tricked me, you tricked me, you tricked me,\Nwhy did you trick me?!
+Dialogue: 0,0:11:08.22,0:11:12.69,forest narrator C,,0,0,0,,{TIME:668220,672690}{\i1}Sammy, having taken revenge on Peter,\Nnow wanted revenge on Chatterer,{\i}
+Dialogue: 0,0:11:13.54,0:11:16.00,forest narrator C,,0,0,0,,{TIME:673540,676000}{\i1}but, no matter where he searched\Nin the Green Forest,{\i}
+Dialogue: 0,0:11:16.00,0:11:18.15,forest narrator C,,0,0,0,,{TIME:676000,678150}{\i1}he could not find a trace of Chatterer.{\i}
+Dialogue: 0,0:11:23.16,0:11:24.82,forest narrator C,,0,0,0,,{TIME:683160,684820}{\i1}Johnny and Polly didn't know.{\i}
+Dialogue: 0,0:11:27.15,0:11:29.28,forest narrator C,,0,0,0,,{TIME:687150,689280}{\i1}Grandfather Frog didn't know where he was.{\i}
+Dialogue: 0,0:11:29.66,0:11:30.51,forest narrator C,,0,0,0,,{TIME:689660,690510}{\i1}Nobody knew.{\i}
+Dialogue: 0,0:11:34.39,0:11:35.99,forest narrator C,,0,0,0,,{TIME:694390,695990}{\i1}Well, that's to be understood.{\i}
+Dialogue: 0,0:11:36.50,0:11:40.57,forest narrator C,,0,0,0,,{TIME:696500,700570}{\i1}For Chatterer, every morning, without fail,\Nwould rise with the sun,{\i}
+Dialogue: 0,0:11:41.08,0:11:43.36,forest narrator C,,0,0,0,,{TIME:701080,703360}{\i1}and go merrily to Mr. Brown's corn field.{\i}
+Dialogue: 0,0:11:50.94,0:11:54.41,forest narrator C,,0,0,0,,{TIME:710940,714410}{\i1}There, the harvesting was carried out,\Nin preparation for the coming winter.{\i}
+Dialogue: 0,0:11:55.71,0:12:00.00,forest narrator C,,0,0,0,,{TIME:715710,720000}{\i1}And the leftovers scattered about,\NChatterer would collect for the winter storage.{\i}
+Dialogue: 0,0:12:26.33,0:12:28.34,forest default C,,0,0,0,,{TIME:746330,748340}Want some milk, Blackie?\NHere you are!
+Dialogue: 0,0:13:28.72,0:13:32.23,forest default C,,0,0,0,,{TIME:808720,812230}- Johnny, over there! Isn't that Chatterer?\N- Where?
+Dialogue: 0,0:13:33.31,0:13:34.15,forest default C,,0,0,0,,{TIME:813310,814150}Yeah, that's right!
+Dialogue: 0,0:13:34.15,0:13:36.32,forest default C,,0,0,0,,{TIME:814150,816320}Hey-hey, what's wrong,\Nwhat happened, anyway?
+Dialogue: 0,0:13:36.81,0:13:38.05,forest default C,,0,0,0,,{TIME:816810,818050}Hey, it's Chatterer!
+Dialogue: 0,0:13:38.23,0:13:41.48,forest default C,,0,0,0,,{TIME:818230,821480}We thought he wasn't in the forest,\Nand there he is, ah!
+Dialogue: 0,0:13:41.88,0:13:42.59,forest default C,,0,0,0,,{TIME:821880,822590}Right!
+Dialogue: 0,0:13:42.59,0:13:45.61,forest default C,,0,0,0,,{TIME:822590,825610}No wonder Sammy couldn't find him,\Nno matter how hard he looked!
+Dialogue: 0,0:13:46.51,0:13:49.88,forest default C,,0,0,0,,{TIME:826510,829880}Shouldn't we tell him that Sammy\Nis aiming to get revenge on him?
+Dialogue: 0,0:13:50.06,0:13:50.83,forest default C,,0,0,0,,{TIME:830060,830830}We'd better!
+Dialogue: 0,0:13:57.49,0:13:59.77,forest default C,,0,0,0,,{TIME:837490,839770}That Chatterer, I wonder\Nwhere he disappeared to!
+Dialogue: 0,0:14:05.43,0:14:06.67,forest default C,,0,0,0,,{TIME:845430,846670}There's Chatterer!
+Dialogue: 0,0:14:07.32,0:14:10.16,forest default C,,0,0,0,,{TIME:847320,850160}In such a place?\NHmm...
+Dialogue: 0,0:14:20.57,0:14:22.82,forest default C,,0,0,0,,{TIME:860570,862820}Looks like I might get my revenge after all...!
+Dialogue: 0,0:14:27.48,0:14:30.02,forest default C,,0,0,0,,{TIME:867480,870020}That's right, he was pretty persistent\Nwith his questions!
+Dialogue: 0,0:14:32.44,0:14:35.98,forest default C,,0,0,0,,{TIME:872440,875980}No problem, I won't be taken in\Nby the likes of Sammy!
+Dialogue: 0,0:14:36.40,0:14:41.02,forest default C,,0,0,0,,{TIME:876400,881020}{\i1}But Sammy can find you from the sky!\NThen seek his revenge!{\i}
+Dialogue: 0,0:14:56.98,0:15:02.59,forest default C,,0,0,0,,{TIME:896980,902590}On a time like this, I'd usually warn them,\Nbut this time, mm-mm, not a chance!
+Dialogue: 0,0:15:09.57,0:15:12.10,forest default C,,0,0,0,,{TIME:909570,912100}And then I ran with all of my might, oh...!
+Dialogue: 0,0:15:15.89,0:15:17.25,forest default C,,0,0,0,,{TIME:915890,917250}{\i1}Why you, coward!{\i}
+Dialogue: 0,0:15:19.93,0:15:22.16,forest default C,,0,0,0,,{TIME:919930,922160}{\i1}You shouldn't laugh so much, Chatterer!{\i}
+Dialogue: 0,0:15:30.08,0:15:31.53,forest default C,,0,0,0,,{TIME:930080,931530}Look out, Chatterer!
+Dialogue: 0,0:15:32.44,0:15:34.38,forest default C,,0,0,0,,{TIME:932440,934380}Johnny, Polly, you'd better run too!
+Dialogue: 0,0:15:53.14,0:15:55.04,forest default C,,0,0,0,,{TIME:953140,955040}Chatterer, keep it up, run faster, faster!
+Dialogue: 0,0:16:07.27,0:16:09.54,forest default C,,0,0,0,,{TIME:967270,969540}Chatterer, run this way, this way!
+Dialogue: 0,0:16:13.08,0:16:16.24,forest default C,,0,0,0,,{TIME:973080,976240}Chatterer, inside the rock wall,\Nquick, hurry, hurry, quick!
+Dialogue: 0,0:16:16.24,0:16:19.12,forest default C,,0,0,0,,{TIME:976240,979120}- Chatterer, here, here, here we are!\N- Hurry, hurry!
+Dialogue: 0,0:16:31.34,0:16:34.97,forest default C,,0,0,0,,{TIME:991340,994970}Who do you think you are, Blackie?\NNobody's afraid of you!
+Dialogue: 0,0:16:35.31,0:16:38.41,forest default C,,0,0,0,,{TIME:995310,998410}No creature in the forest\Ncan be caught by the likes of you!
+Dialogue: 0,0:17:03.21,0:17:04.19,forest default C,,0,0,0,,{TIME:1023210,1024190}How about that?
+Dialogue: 0,0:17:35.62,0:17:37.51,forest default C,,0,0,0,,{TIME:1055620,1057510}- Silly! Silly cat!\N- Meow!
+Dialogue: 0,0:17:40.19,0:17:41.90,forest default C,,0,0,0,,{TIME:1060190,1061900}That was close, too close!
+Dialogue: 0,0:18:22.59,0:18:23.86,forest default C,,0,0,0,,{TIME:1102590,1103860}Serves you right!
+Dialogue: 0,0:18:24.89,0:18:27.26,forest default C,,0,0,0,,{TIME:1104890,1107260}OK, everyone can come out, now!
+Dialogue: 0,0:18:28.37,0:18:31.24,forest default C,,0,0,0,,{TIME:1108370,1111240}- Yeah, it's true, he's gone!\N- That's good!
+Dialogue: 0,0:18:31.82,0:18:33.19,forest default C,,0,0,0,,{TIME:1111820,1113190}Everyone OK?
+Dialogue: 0,0:18:34.13,0:18:36.20,forest default C,,0,0,0,,{TIME:1114130,1116200}Yeah, Sammy, thank you for saving us!
+Dialogue: 0,0:18:53.85,0:18:58.85,forest credits C,,0,0,0,,{TIME:1133850,1138850}{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs

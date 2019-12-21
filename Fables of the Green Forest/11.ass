@@ -14,176 +14,176 @@ Group: OldCastle & South Wind Subs
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: forest episode title K,Mf Kazincbarcika,45,&H00EAE2BD,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,1,5,11,11,10,1
-Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,11,11,10,1
-Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,11,11,10,1
-Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,11,11,10,1
-Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,11,11,10,1
-Style: forest title K,Mf Kazincbarcika,70,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,1,8,11,11,10,1
+Style: forest episode title K,Mf Kazincbarcika,45,&H00EAE2BD,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,1.0,5,11,11,10,1
+Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,11,11,10,1
+Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,11,11,10,1
+Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,11,11,10,1
+Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.0,1.0,2,11,11,10,1
+Style: forest title K,Mf Kazincbarcika,70,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,1.0,8,11,11,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.65,0:00:07.00,forest title K,,0000,0000,0000,,{\pos(361.467,67)}FABLES OF THE GREEN FOREST{\fs40}
-Dialogue: 0,0:00:03.65,0:00:07.00,forest episode title K,,0000,0000,0000,,{\pos(357.744,327.8)}11. Sammy's revenge
-Dialogue: 0,0:00:31.69,0:00:33.59,forest narrator C,,0000,0000,0000,,{\i1}Chatterer, the red chipmunk,\nchased by the Mean Weasel,{\i}
-Dialogue: 0,0:00:33.63,0:00:37.70,forest narrator C,,0000,0000,0000,,{\i1}Now lives in a new house,\nfound on Mister Brown's farm.{\i}
-Dialogue: 0,0:01:04.71,0:01:08.29,forest default C,,0000,0000,0000,,I had better put something in my storeroom,\neven a little at a time!
-Dialogue: 0,0:01:08.53,0:01:12.58,forest narrator C,,0000,0000,0000,,{\i1}Looking intently at the already harvested\ncorn field of Mister Brown,{\i}
-Dialogue: 0,0:01:12.83,0:01:15.59,forest narrator C,,0000,0000,0000,,{\i1}Chatterer is deep in thoughts.{\i}
-Dialogue: 0,0:01:15.74,0:01:19.32,forest narrator C,,0000,0000,0000,,{\i1}Over there is Bowser the Dog...\nTom, too...{\i}
-Dialogue: 0,0:01:19.43,0:01:22.00,forest narrator C,,0000,0000,0000,,{\i1}And that pesky cat, Blackie...{\i}
-Dialogue: 0,0:01:49.04,0:01:50.91,forest default C,,0000,0000,0000,,Nothing... Not a thing!
-Dialogue: 0,0:02:10.02,0:02:13.97,forest default C,,0000,0000,0000,,Oh, wow, here's a lot of corn fallen\nwhere the field's not trampled so!
-Dialogue: 0,0:02:19.43,0:02:22.11,forest default C,,0000,0000,0000,,{\i1}Hi there, Chatterer,\ndid you move over here now?{\i}
-Dialogue: 0,0:02:22.43,0:02:25.57,forest default C,,0000,0000,0000,,I was under the impression\nthat you lived in the orchard!
-Dialogue: 0,0:02:25.66,0:02:32.22,forest default C,,0000,0000,0000,,I'm busy storing food for the winter,\nthere's no food left in the orchard!
-Dialogue: 0,0:02:32.26,0:02:35.92,forest default C,,0000,0000,0000,,Ah! If it were me, I wouldn't be doing\nwhat you're doing!
-Dialogue: 0,0:02:36.21,0:02:38.73,forest default C,,0000,0000,0000,,I'd just be using my head a little!
-Dialogue: 0,0:02:42.78,0:02:45.89,forest default C,,0000,0000,0000,,If you want corn, Chatterer, what you should do\nis go to Mister Brown's house!
-Dialogue: 0,0:02:46.01,0:02:49.90,forest default C,,0000,0000,0000,,Why, he has all the corn that you'd\never-ever want, believe me!
-Dialogue: 0,0:02:55.50,0:02:58.25,forest default C,,0000,0000,0000,,I go there often and just help myself.
-Dialogue: 0,0:03:06.81,0:03:10.47,forest default C,,0000,0000,0000,,{\i1}I wonder if what Sammy the Jay\nis telling me is true.{\i}
-Dialogue: 0,0:03:10.82,0:03:14.85,forest default C,,0000,0000,0000,,{\i1}If it is true, I should be brave\nand go check it out! {\i}
-Dialogue: 0,0:03:31.77,0:03:37.16,forest default C,,0000,0000,0000,,Hmm... Where is it? The storehouse where\nthe corn that Sammy mentioned is stored?
-Dialogue: 0,0:04:17.63,0:04:21.60,Default,,0000,0000,0000,,At that moment, Tom, Mr. Brown's son, came outside.
-Dialogue: 0,0:04:21.93,0:04:25.94,forest default C,,0000,0000,0000,,Wow, look at all that delicious corn\nhe has in those two buckets!
-Dialogue: 0,0:04:28.72,0:04:32.77,forest narrator C,,0000,0000,0000,,{\i1}But Chatterer's afraid to steal the corn\nbecause he's scared of Tom,{\i}
-Dialogue: 0,0:04:32.83,0:04:36.49,forest narrator C,,0000,0000,0000,,{\i1}and Blackie, and especially Bowser.{\i}
-Dialogue: 0,0:04:39.46,0:04:43.25,forest default C,,0000,0000,0000,,I wonder how Sammy manages\nto get food from there.
-Dialogue: 0,0:04:43.33,0:04:46.03,forest default C,,0000,0000,0000,,That's it! I'll come early tomorrow morning\nand keep an eye on Sammy!
-Dialogue: 0,0:04:46.76,0:04:50.02,forest narrator C,,0000,0000,0000,,{\i1}For the present,\nChatterer has decided to wait.{\i}
-Dialogue: 0,0:05:11.01,0:05:12.32,forest default C,,0000,0000,0000,,It's Sammy!
-Dialogue: 0,0:05:13.17,0:05:17.85,forest narrator C,,0000,0000,0000,,{\i1}The usually noisy Sammy approaches\nwithout making a sound.{\i}
-Dialogue: 0,0:06:02.08,0:06:06.16,forest narrator C,,0000,0000,0000,,{\i1}Just like he came in, Sammy flies off quietly.{\i}
-Dialogue: 0,0:06:07.90,0:06:12.35,forest default C,,0000,0000,0000,,Hmm... I see how he does it!\nWhat Sammy can do, I can do!
-Dialogue: 0,0:06:12.70,0:06:15.05,forest default C,,0000,0000,0000,,Now, today Blackie the Cat isn't here,
-Dialogue: 0,0:06:15.26,0:06:17.09,forest default C,,0000,0000,0000,,so my chances are up going to get\nsome food from that storehouse!
-Dialogue: 0,0:06:39.42,0:06:41.79,forest default C,,0000,0000,0000,,What a funny building!
-Dialogue: 0,0:06:42.58,0:06:45.83,Default,,0000,0000,0000,,???
-Dialogue: 0,0:06:48.17,0:06:52.74,forest narrator C,,0000,0000,0000,,{\i1}The reason little Chatterer is slipping,\nis the posts are made of stone.{\i}
-Dialogue: 0,0:06:53.24,0:06:57.96,forest narrator C,,0000,0000,0000,,{\i1}Mister Brown also put kettles\nupside down on the pillars{\i}
-Dialogue: 0,0:06:58.20,0:07:02.61,forest narrator C,,0000,0000,0000,,{\i1}to further protect his grains\nfrom chipmunks and field mice.{\i}
-Dialogue: 0,0:07:04.48,0:07:07.60,forest default C,,0000,0000,0000,,Oh, if I only had wings like Sammy!
-Dialogue: 0,0:07:13.48,0:07:15.65,forest narrator C,,0000,0000,0000,,{\i1}Now Chatterer pondered.{\i}
-Dialogue: 0,0:07:16.49,0:07:20.77,forest narrator C,,0000,0000,0000,,{\i1}He knows that it's useless to wish\nthat he had wings like Sammy.{\i}
-Dialogue: 0,0:07:21.67,0:07:25.66,forest narrator C,,0000,0000,0000,,{\i1}But he wonders how he can do it\non his own strength.{\i}
-Dialogue: 0,0:07:25.91,0:07:27.74,forest narrator C,,0000,0000,0000,,{\i1}What methods are there?{\i}
-Dialogue: 0,0:08:09.66,0:08:10.79,forest default C,,0000,0000,0000,,Ah! That's it!
-Dialogue: 0,0:08:34.01,0:08:40.08,forest default C,,0000,0000,0000,,Hey, Blackie, come over here!
-Dialogue: 0,0:08:42.79,0:08:46.60,forest default C,,0000,0000,0000,,Too scared to follow me?\nScared, you coward?
-Dialogue: 0,0:08:46.68,0:08:49.70,forest default C,,0000,0000,0000,,What's the matter? Hey, you can't\neven find your own food in the farm!
-Dialogue: 0,0:08:49.83,0:08:56.68,forest default C,,0000,0000,0000,,You jumplike cat!\nYeah, nothing you are!
-Dialogue: 0,0:09:02.74,0:09:04.98,Default,,0000,0000,0000,,INSERT
-Dialogue: 0,0:09:10.72,0:09:12.88,forest default C,,0000,0000,0000,,I'm not afraid of you!
-Dialogue: 0,0:09:12.99,0:09:14.51,forest default C,,0000,0000,0000,,What's the matter, Blackie?
-Dialogue: 0,0:09:14.55,0:09:16.57,forest default C,,0000,0000,0000,,This... This is bad!
-Dialogue: 0,0:09:17.08,0:09:22.93,forest default C,,0000,0000,0000,,What are you making such a fuss about?\nHuh, the mouse or something?
-Dialogue: 0,0:09:23.99,0:09:26.90,forest default C,,0000,0000,0000,,The field mouse\ncan't get into this storehouse!
-Dialogue: 0,0:09:27.08,0:09:30.09,forest default C,,0000,0000,0000,,It's alright.\nYou probably just seeing things.
-Dialogue: 0,0:09:33.52,0:09:35.71,forest default C,,0000,0000,0000,,{\i1}Now I'll give you some milk.\nCome on!{\i}
-Dialogue: 0,0:09:36.46,0:09:37.61,forest default C,,0000,0000,0000,,{\i1}Come on, Blackie!{\i}
-Dialogue: 0,0:09:56.25,0:09:58.76,forest default C,,0000,0000,0000,,Oh, wow!\nAmazing, fantastic!
-Dialogue: 0,0:10:07.74,0:10:14.50,forest default C,,0000,0000,0000,,This is it, the whole world is made of corn!\nWow, wee!
-Dialogue: 0,0:10:37.41,0:10:40.93,forest default C,,0000,0000,0000,,Hey...! That guy is sure putting\na lot of my yellow corn in that bucket!
-Dialogue: 0,0:10:42.33,0:10:45.03,forest default C,,0000,0000,0000,,Oh, all the nerve!
-Dialogue: 0,0:10:46.24,0:10:53.75,forest narrator C,,0000,0000,0000,,{\i1}Chatterer began to think that all the corn\nin the storehouse belonged to him.{\i}
-Dialogue: 0,0:10:53.75,0:10:58.82,forest narrator C,,0000,0000,0000,,{\i1}So the next morning when he saw Sammy\napproaching as usual,{\i}
-Dialogue: 0,0:10:59.09,0:11:02.03,forest narrator C,,0000,0000,0000,,{\i1}he thought about getting even with him.{\i}
-Dialogue: 0,0:11:22.51,0:11:26.64,forest default C,,0000,0000,0000,,What are you doing,\nwhat are you doing?!
-Dialogue: 0,0:11:32.28,0:11:35.30,forest narrator C,,0000,0000,0000,,{\i1}Sammy was really in trouble.{\i}
-Dialogue: 0,0:11:35.52,0:11:38.87,forest narrator C,,0000,0000,0000,,{\i1}He thought for sure\nthat he had fallen in a trap.{\i}
-Dialogue: 0,0:12:05.79,0:12:10.29,forest default C,,0000,0000,0000,,A trap! I know it was a trap\nby Mister Brown's son, Tom! Yeah!
-Dialogue: 0,0:12:11.32,0:12:15.29,forest default C,,0000,0000,0000,,He's been trying to get me!\nI've never been so scared in all my life!
-Dialogue: 0,0:12:15.41,0:12:21.52,forest default C,,0000,0000,0000,,Mister Brown's son is an awful guy! I better\nbe aware of him, he's out to get me, I know!
-Dialogue: 0,0:12:22.79,0:12:28.16,forest narrator C,,0000,0000,0000,,{\i1}Reddy had just eaten three or four crickets\nthis morning and was therefore in high spirits.{\i}
-Dialogue: 0,0:12:40.63,0:12:43.06,forest default C,,0000,0000,0000,,Hey...! Hey...!
-Dialogue: 0,0:12:43.17,0:12:48.69,forest default C,,0000,0000,0000,,Wow! That bug smells so bad,\nhe doesn't want to be friends!
-Dialogue: 0,0:12:48.85,0:12:57.42,forest default C,,0000,0000,0000,,Bad news, bad news,\nbad news, bad news!
-Dialogue: 0,0:13:07.25,0:13:08.67,forest default C,,0000,0000,0000,,Listen, listen, listen everybody! I've got\nbad, bad, bad news! Everybody gather around!
-Dialogue: 0,0:13:08.67,0:13:11.00,forest default C,,0000,0000,0000,,Tom, Mister Brown's son is out to get me!
-Dialogue: 0,0:13:11.00,0:13:14.00,forest default C,,0000,0000,0000,,He's an awful guy!\nEverybody listen! Come on!
-Dialogue: 0,0:13:16.14,0:13:19.86,forest default C,,0000,0000,0000,,Listen! Everybody, Mister Brown's son\nis out to get me! I know it!
-Dialogue: 0,0:13:20.12,0:13:23.92,forest default C,,0000,0000,0000,,Hey, Chatterer!\nYou know what Tom did?
-Dialogue: 0,0:13:26.45,0:13:29.62,forest default C,,0000,0000,0000,,He's an awful guy!\nHe set a trap for me!
-Dialogue: 0,0:13:29.68,0:13:31.05,forest default C,,0000,0000,0000,,I think he's out to get me!
-Dialogue: 0,0:13:33.01,0:13:36.01,forest default C,,0000,0000,0000,,A trap!\nA great big trap!
-Dialogue: 0,0:13:36.47,0:13:41.60,forest default C,,0000,0000,0000,,He set a trap, he tried to kill me\nin the corn storehouse!
-Dialogue: 0,0:13:42.25,0:13:45.42,forest default C,,0000,0000,0000,,Having all that corn and he doesn't\neven give me two or three kernels,
-Dialogue: 0,0:13:45.42,0:13:48.42,forest default C,,0000,0000,0000,,why, what kind of guy is that,\nthat stinking old minor!
-Dialogue: 0,0:13:48.44,0:13:50.85,forest default C,,0000,0000,0000,,And that big brat...\nWhy, it-it scared me so!
-Dialogue: 0,0:13:52.46,0:13:55.23,forest default C,,0000,0000,0000,,You better not go near there, Chatterer!
-Dialogue: 0,0:13:58.62,0:14:03.03,forest default C,,0000,0000,0000,,If I can get revenge,\nwhy... I would...!
-Dialogue: 0,0:14:04.55,0:14:09.19,forest default C,,0000,0000,0000,,I'm gonna spread the word all around the forest\nto be aware of Tom's traps,
-Dialogue: 0,0:14:09.23,0:14:12.50,forest default C,,0000,0000,0000,,and Chatterer, you don't go near that farm,\nunderstand?
-Dialogue: 0,0:14:29.72,0:14:34.79,forest default C,,0000,0000,0000,,Something's fishy here. Tomorrow morning\nI think I'll go visit Mister Brown's house!
-Dialogue: 0,0:15:06.02,0:15:07.92,forest default C,,0000,0000,0000,,{\i1}How many times have I told you{\i}
-Dialogue: 0,0:15:07.97,0:15:09.71,forest default C,,0000,0000,0000,,{\i1}not to go near any dangerous places?{\i}
-Dialogue: 0,0:15:09.84,0:15:13.07,forest default C,,0000,0000,0000,,{\i1}That's the secret to long life!{\i}
-Dialogue: 0,0:15:46.89,0:15:48.61,forest default C,,0000,0000,0000,,Gosh!\nIt's Chatterer!
-Dialogue: 0,0:15:49.22,0:15:50.88,forest default C,,0000,0000,0000,,So that's it! Now, I've got it!
-Dialogue: 0,0:15:50.94,0:15:53.08,forest default C,,0000,0000,0000,,That thing that scared Sammy was Chatterer!
-Dialogue: 0,0:15:53.10,0:15:56.39,forest default C,,0000,0000,0000,,Chatterer grabbed Sammy still\nfrom the inside and frightened him!
-Dialogue: 0,0:15:58.08,0:16:00.91,forest default C,,0000,0000,0000,,Hey...! You can't jump up this high and get me!
-Dialogue: 0,0:16:03.61,0:16:07.13,forest default C,,0000,0000,0000,,{\i1}Bowser!\nHere, boy, calm down!{\i}
-Dialogue: 0,0:16:07.60,0:16:10.44,forest default C,,0000,0000,0000,,{\i1}What's the matter, is it Reddy the Fox?{\i}
-Dialogue: 0,0:16:11.50,0:16:13.44,forest default C,,0000,0000,0000,,{\i1}Hey there, I understand, be quiet now!{\i}
-Dialogue: 0,0:16:13.52,0:16:16.28,forest default C,,0000,0000,0000,,{\i1}Look here, it's your breakfast!{\i}
-Dialogue: 0,0:16:29.33,0:16:31.49,forest default C,,0000,0000,0000,,Nevertheless, Chatterer sure has grown blunt.
-Dialogue: 0,0:16:31.58,0:16:34.06,forest default C,,0000,0000,0000,,He'll make a good thief!
-Dialogue: 0,0:16:41.63,0:16:44.42,forest default C,,0000,0000,0000,,What a racket, get out of here!
-Dialogue: 0,0:16:46.99,0:16:49.12,forest default C,,0000,0000,0000,,{\i1}Hey, Sammy!{\i}
-Dialogue: 0,0:16:50.19,0:16:51.92,forest default C,,0000,0000,0000,,You sure sound like you're in a foul mood!
-Dialogue: 0,0:16:52.34,0:16:53.42,forest default C,,0000,0000,0000,,Could be!
-Dialogue: 0,0:16:54.30,0:16:57.41,forest default C,,0000,0000,0000,,Actually, this morning I went\nto check out something.
-Dialogue: 0,0:16:57.61,0:16:59.18,forest default C,,0000,0000,0000,,Don't you want to hear about it?
-Dialogue: 0,0:16:59.40,0:17:01.42,forest default C,,0000,0000,0000,,I don't want to hear about a thing\nyou've got to say!
-Dialogue: 0,0:17:01.50,0:17:03.70,forest default C,,0000,0000,0000,,Even about traps?
-Dialogue: 0,0:17:04.36,0:17:05.85,forest default C,,0000,0000,0000,,Traps did you say?
-Dialogue: 0,0:17:06.02,0:17:07.73,forest default C,,0000,0000,0000,,Oh, it's really insignificant.
-Dialogue: 0,0:17:07.98,0:17:11.87,forest default C,,0000,0000,0000,,I only thought you wanted to hear about\nsomething I checked out this morning,
-Dialogue: 0,0:17:11.91,0:17:14.07,forest default C,,0000,0000,0000,,if you're not a coward.
-Dialogue: 0,0:17:14.23,0:17:16.80,forest default C,,0000,0000,0000,,I'm not a coward,\nwho said I'm a coward?
-Dialogue: 0,0:17:16.95,0:17:19.65,forest default C,,0000,0000,0000,,I did! Didn't you tell me that you were\nso scared of Mister Brown's warehouse
-Dialogue: 0,0:17:19.70,0:17:22.48,forest default C,,0000,0000,0000,,you would never go there again?
-Dialogue: 0,0:17:23.10,0:17:27.22,forest default C,,0000,0000,0000,,I'm not a coward, I only said that there\nwas a trap set up there, that's all!
-Dialogue: 0,0:17:27.31,0:17:32.76,forest default C,,0000,0000,0000,,OK, then tomorrow morning can you go and\nmeet at Mister Brown's corn storehouse?
-Dialogue: 0,0:17:33.10,0:17:35.52,forest default C,,0000,0000,0000,,And do you have the courage to confirm\nsomething that will happen?
-Dialogue: 0,0:17:35.57,0:17:38.34,forest default C,,0000,0000,0000,,You don't, do you? You're a coward!
-Dialogue: 0,0:17:38.55,0:17:41.94,forest default C,,0000,0000,0000,,Of course, I'll go! I'll go and show you\nthat I'm not a coward!
-Dialogue: 0,0:17:41.99,0:17:44.15,forest default C,,0000,0000,0000,,Good, then it's a deal!
-Dialogue: 0,0:17:44.27,0:17:46.87,forest default C,,0000,0000,0000,,Very early tomorrow,\nbefore sunrise, we'll go together!
-Dialogue: 0,0:17:47.07,0:17:48.68,forest default C,,0000,0000,0000,,Good, of course I promise!
-Dialogue: 0,0:17:48.82,0:17:53.54,forest default C,,0000,0000,0000,,I don't know what's supposed to happen,\nbut I'll clearly show you that I'm not afraid!
-Dialogue: 0,0:17:57.09,0:18:00.28,forest default C,,0000,0000,0000,,Come tomorrow morning,\nSammy's face will be something to see!
-Dialogue: 0,0:18:00.88,0:18:06.08,forest narrator C,,0000,0000,0000,,{\i1}Reddy's plan is working well.\nNow it's the following day.{\i}
-Dialogue: 0,0:18:07.13,0:18:09.22,forest default C,,0000,0000,0000,,Sammy's scared? You're shaking!
-Dialogue: 0,0:18:09.27,0:18:12.15,forest default C,,0000,0000,0000,,Who... shaking?\nI-I'm not shaking, I-I'm not scared!
-Dialogue: 0,0:18:12.32,0:18:13.68,forest default C,,0000,0000,0000,,Let's go, then!
-Dialogue: 0,0:18:24.71,0:18:27.04,forest default C,,0000,0000,0000,,Hmm... there's where the trap was set.
-Dialogue: 0,0:18:27.55,0:18:33.15,forest default C,,0000,0000,0000,,Now we should be able to find out what it was\nthat grabbed your beak the other day,
-Dialogue: 0,0:18:33.73,0:18:37.64,forest default C,,0000,0000,0000,,but regardless of what you see,\ndon't make a noise and don't make a fuss!
-Dialogue: 0,0:18:55.95,0:18:57.04,forest default C,,0000,0000,0000,,Hey, there he is!
-Dialogue: 0,0:19:09.18,0:19:10.78,forest default C,,0000,0000,0000,,Why, that's... that's Chatterer!
-Dialogue: 0,0:19:34.40,0:19:38.58,forest default C,,0000,0000,0000,,Why...!\nI'll fix you, Chatterer!
-Dialogue: 0,0:19:38.73,0:19:43.78,forest default C,,0000,0000,0000,,Ah, never saw a face so like a masterpiece!\nServes you right, Sammy, you crazy fool!
-Dialogue: 0,0:19:44.19,0:19:47.11,forest default C,,0000,0000,0000,,DELETE Ah...!\nNow, for Chatterer!
-Dialogue: 0,0:19:48.20,0:19:51.34,Default,,0000,0000,0000,,- I'll get you!\n- Oh no, it's Sammy!
-Dialogue: 0,0:19:53.04,0:20:02.48,forest default C,,0000,0000,0000,,Darn you, Chatterer, you thief, you thief,\nyou thief! I'm gonna fix you!
-Dialogue: 0,0:20:02.72,0:20:06.17,forest default C,,0000,0000,0000,,Stop it, Sammy!\nHuh?!
-Dialogue: 0,0:20:06.23,0:20:09.85,forest default C,,0000,0000,0000,,Thief, thief!\nYou squirrel thief!
-Dialogue: 0,0:20:09.89,0:20:14.14,forest default C,,0000,0000,0000,,Sammy, quit it! If you're not quiet,\nTom and the others will hear it! Stop it!
-Dialogue: 0,0:20:14.45,0:20:16.81,forest default C,,0000,0000,0000,,Thief, thief!\nYou squirrel thief!
-Dialogue: 0,0:20:17.38,0:20:19.73,forest default C,,0000,0000,0000,,I'll fix you, you thief!
-Dialogue: 0,0:20:19.88,0:20:23.83,forest default C,,0000,0000,0000,,That jay is rasing a racket!\nThe fox must be after a chicken!
-Dialogue: 0,0:20:27.28,0:20:30.50,Default,,0000,0000,0000,,Stop it, Sammy! Please quit now!
-Dialogue: 0,0:20:41.18,0:20:44.75,forest default C,,0000,0000,0000,,I'm gonna fix you,\nyou little robber, you thief!
-Dialogue: 0,0:21:06.96,0:21:08.75,Default,,0000,0000,0000,,INSERT
-Dialogue: 0,0:21:09.91,0:21:11.78,Default,,0000,0000,0000,,INSERT
-Dialogue: 0,0:21:15.74,0:21:18.57,Default,,0000,0000,0000,,INSERT
-Dialogue: 0,0:21:26.24,0:21:28.64,forest default C,,0000,0000,0000,,Bowser! Bowser!
-Dialogue: 0,0:21:30.48,0:21:32.73,forest default C,,0000,0000,0000,,{\i1}Come on, Blackie!\nI'll give you some delicious milk!{\i}
-Dialogue: 0,0:21:46.33,0:21:53.23,Default,,0000,0000,0000,,TRANSLATE
-Dialogue: 0,0:22:00.54,0:22:03.22,forest default C,,0000,0000,0000,,Hey, Polly, what are you doing, Polly?
-Dialogue: 0,0:22:03.33,0:22:07.47,forest default C,,0000,0000,0000,,With this soft grass,\nI'm going to make a wonderful pillow!
-Dialogue: 0,0:22:08.90,0:22:13.06,forest default C,,0000,0000,0000,,It's going to be this big and fluffy!
-Dialogue: 0,0:22:24.98,0:22:29.33,forest credits C,,0000,0000,0000,,{\c&Hffffff&}Subtitle: {\c&H1beaed&\fnMf Kazincbarcika\fs37\i1}South Wind Subs{\i0}
+Dialogue: 0,0:00:03.65,0:00:07.00,forest title K,,0,0,0,,{TIME:3650,7000}{\pos(361.467,67)}FABLES OF THE GREEN FOREST{\fs40}
+Dialogue: 0,0:00:03.65,0:00:07.00,forest episode title K,,0,0,0,,{TIME:3650,7000}{\pos(357.744,327.8)}11. Sammy's revenge
+Dialogue: 0,0:00:31.69,0:00:33.59,forest narrator C,,0,0,0,,{TIME:31690,33590}{\i1}Chatterer, the red chipmunk,\nchased by the Mean Weasel,{\i}
+Dialogue: 0,0:00:33.63,0:00:37.70,forest narrator C,,0,0,0,,{TIME:33630,37700}{\i1}Now lives in a new house,\nfound on Mister Brown's farm.{\i}
+Dialogue: 0,0:01:04.71,0:01:08.29,forest default C,,0,0,0,,{TIME:64710,68290}I had better put something in my storeroom,\neven a little at a time!
+Dialogue: 0,0:01:08.53,0:01:12.58,forest narrator C,,0,0,0,,{TIME:68530,72580}{\i1}Looking intently at the already harvested\ncorn field of Mister Brown,{\i}
+Dialogue: 0,0:01:12.83,0:01:15.59,forest narrator C,,0,0,0,,{TIME:72830,75590}{\i1}Chatterer is deep in thoughts.{\i}
+Dialogue: 0,0:01:15.74,0:01:19.32,forest narrator C,,0,0,0,,{TIME:75740,79320}{\i1}Over there is Bowser the Dog...\nTom, too...{\i}
+Dialogue: 0,0:01:19.43,0:01:22.00,forest narrator C,,0,0,0,,{TIME:79430,82000}{\i1}And that pesky cat, Blackie...{\i}
+Dialogue: 0,0:01:49.04,0:01:50.91,forest default C,,0,0,0,,{TIME:109040,110910}Nothing... Not a thing!
+Dialogue: 0,0:02:10.02,0:02:13.97,forest default C,,0,0,0,,{TIME:130020,133970}Oh, wow, here's a lot of corn fallen\nwhere the field's not trampled so!
+Dialogue: 0,0:02:19.43,0:02:22.11,forest default C,,0,0,0,,{TIME:139430,142110}{\i1}Hi there, Chatterer,\ndid you move over here now?{\i}
+Dialogue: 0,0:02:22.43,0:02:25.57,forest default C,,0,0,0,,{TIME:142430,145570}I was under the impression\nthat you lived in the orchard!
+Dialogue: 0,0:02:25.66,0:02:32.22,forest default C,,0,0,0,,{TIME:145660,152220}I'm busy storing food for the winter,\nthere's no food left in the orchard!
+Dialogue: 0,0:02:32.26,0:02:35.92,forest default C,,0,0,0,,{TIME:152260,155920}Ah! If it were me, I wouldn't be doing\nwhat you're doing!
+Dialogue: 0,0:02:36.21,0:02:38.73,forest default C,,0,0,0,,{TIME:156210,158730}I'd just be using my head a little!
+Dialogue: 0,0:02:42.78,0:02:45.89,forest default C,,0,0,0,,{TIME:162780,165890}If you want corn, Chatterer, what you should do\nis go to Mister Brown's house!
+Dialogue: 0,0:02:46.01,0:02:49.90,forest default C,,0,0,0,,{TIME:166010,169900}Why, he has all the corn that you'd\never-ever want, believe me!
+Dialogue: 0,0:02:55.50,0:02:58.25,forest default C,,0,0,0,,{TIME:175500,178250}I go there often and just help myself.
+Dialogue: 0,0:03:06.81,0:03:10.47,forest default C,,0,0,0,,{TIME:186810,190470}{\i1}I wonder if what Sammy the Jay\nis telling me is true.{\i}
+Dialogue: 0,0:03:10.82,0:03:14.85,forest default C,,0,0,0,,{TIME:190820,194850}{\i1}If it is true, I should be brave\nand go check it out! {\i}
+Dialogue: 0,0:03:31.77,0:03:37.16,forest default C,,0,0,0,,{TIME:211770,217160}Hmm... Where is it? The storehouse where\nthe corn that Sammy mentioned is stored?
+Dialogue: 0,0:04:17.63,0:04:21.60,Default,,0,0,0,,{TIME:257630,261600}At that moment, Tom, Mr. Brown's son, came outside.
+Dialogue: 0,0:04:21.93,0:04:25.94,forest default C,,0,0,0,,{TIME:261930,265940}Wow, look at all that delicious corn\nhe has in those two buckets!
+Dialogue: 0,0:04:28.72,0:04:32.77,forest narrator C,,0,0,0,,{TIME:268720,272770}{\i1}But Chatterer's afraid to steal the corn\nbecause he's scared of Tom,{\i}
+Dialogue: 0,0:04:32.83,0:04:36.49,forest narrator C,,0,0,0,,{TIME:272830,276490}{\i1}and Blackie, and especially Bowser.{\i}
+Dialogue: 0,0:04:39.46,0:04:43.25,forest default C,,0,0,0,,{TIME:279460,283250}I wonder how Sammy manages\nto get food from there.
+Dialogue: 0,0:04:43.33,0:04:46.03,forest default C,,0,0,0,,{TIME:283330,286030}That's it! I'll come early tomorrow morning\nand keep an eye on Sammy!
+Dialogue: 0,0:04:46.76,0:04:50.02,forest narrator C,,0,0,0,,{TIME:286760,290020}{\i1}For the present,\nChatterer has decided to wait.{\i}
+Dialogue: 0,0:05:11.01,0:05:12.32,forest default C,,0,0,0,,{TIME:311010,312320}It's Sammy!
+Dialogue: 0,0:05:13.17,0:05:17.85,forest narrator C,,0,0,0,,{TIME:313170,317850}{\i1}The usually noisy Sammy approaches\nwithout making a sound.{\i}
+Dialogue: 0,0:06:02.08,0:06:06.16,forest narrator C,,0,0,0,,{TIME:362080,366160}{\i1}Just like he came in, Sammy flies off quietly.{\i}
+Dialogue: 0,0:06:07.90,0:06:12.35,forest default C,,0,0,0,,{TIME:367900,372350}Hmm... I see how he does it!\nWhat Sammy can do, I can do!
+Dialogue: 0,0:06:12.70,0:06:15.05,forest default C,,0,0,0,,{TIME:372700,375050}Now, today Blackie the Cat isn't here,
+Dialogue: 0,0:06:15.26,0:06:17.09,forest default C,,0,0,0,,{TIME:375260,377090}so my chances are up going to get\nsome food from that storehouse!
+Dialogue: 0,0:06:39.42,0:06:41.79,forest default C,,0,0,0,,{TIME:399420,401790}What a funny building!
+Dialogue: 0,0:06:42.58,0:06:45.83,Default,,0,0,0,,{TIME:402580,405830}???
+Dialogue: 0,0:06:48.17,0:06:52.74,forest narrator C,,0,0,0,,{TIME:408170,412740}{\i1}The reason little Chatterer is slipping,\nis the posts are made of stone.{\i}
+Dialogue: 0,0:06:53.24,0:06:57.96,forest narrator C,,0,0,0,,{TIME:413240,417960}{\i1}Mister Brown also put kettles\nupside down on the pillars{\i}
+Dialogue: 0,0:06:58.20,0:07:02.61,forest narrator C,,0,0,0,,{TIME:418200,422610}{\i1}to further protect his grains\nfrom chipmunks and field mice.{\i}
+Dialogue: 0,0:07:04.48,0:07:07.60,forest default C,,0,0,0,,{TIME:424480,427600}Oh, if I only had wings like Sammy!
+Dialogue: 0,0:07:13.48,0:07:15.65,forest narrator C,,0,0,0,,{TIME:433480,435650}{\i1}Now Chatterer pondered.{\i}
+Dialogue: 0,0:07:16.49,0:07:20.77,forest narrator C,,0,0,0,,{TIME:436490,440770}{\i1}He knows that it's useless to wish\nthat he had wings like Sammy.{\i}
+Dialogue: 0,0:07:21.67,0:07:25.66,forest narrator C,,0,0,0,,{TIME:441670,445660}{\i1}But he wonders how he can do it\non his own strength.{\i}
+Dialogue: 0,0:07:25.91,0:07:27.74,forest narrator C,,0,0,0,,{TIME:445910,447740}{\i1}What methods are there?{\i}
+Dialogue: 0,0:08:09.66,0:08:10.79,forest default C,,0,0,0,,{TIME:489660,490790}Ah! That's it!
+Dialogue: 0,0:08:34.01,0:08:40.08,forest default C,,0,0,0,,{TIME:514010,520080}Hey, Blackie, come over here!
+Dialogue: 0,0:08:42.79,0:08:46.60,forest default C,,0,0,0,,{TIME:522790,526600}Too scared to follow me?\nScared, you coward?
+Dialogue: 0,0:08:46.68,0:08:49.70,forest default C,,0,0,0,,{TIME:526680,529700}What's the matter? Hey, you can't\neven find your own food in the farm!
+Dialogue: 0,0:08:49.83,0:08:56.68,forest default C,,0,0,0,,{TIME:529830,536680}You jumplike cat!\nYeah, nothing you are!
+Dialogue: 0,0:09:02.74,0:09:04.98,Default,,0,0,0,,{TIME:542740,544980}INSERT
+Dialogue: 0,0:09:10.72,0:09:12.88,forest default C,,0,0,0,,{TIME:550720,552880}I'm not afraid of you!
+Dialogue: 0,0:09:12.99,0:09:14.51,forest default C,,0,0,0,,{TIME:552990,554510}What's the matter, Blackie?
+Dialogue: 0,0:09:14.55,0:09:16.57,forest default C,,0,0,0,,{TIME:554550,556570}This... This is bad!
+Dialogue: 0,0:09:17.08,0:09:22.93,forest default C,,0,0,0,,{TIME:557080,562930}What are you making such a fuss about?\nHuh, the mouse or something?
+Dialogue: 0,0:09:23.99,0:09:26.90,forest default C,,0,0,0,,{TIME:563990,566900}The field mouse\ncan't get into this storehouse!
+Dialogue: 0,0:09:27.08,0:09:30.09,forest default C,,0,0,0,,{TIME:567080,570090}It's alright.\nYou probably just seeing things.
+Dialogue: 0,0:09:33.52,0:09:35.71,forest default C,,0,0,0,,{TIME:573520,575710}{\i1}Now I'll give you some milk.\nCome on!{\i}
+Dialogue: 0,0:09:36.46,0:09:37.61,forest default C,,0,0,0,,{TIME:576460,577610}{\i1}Come on, Blackie!{\i}
+Dialogue: 0,0:09:56.25,0:09:58.76,forest default C,,0,0,0,,{TIME:596250,598760}Oh, wow!\nAmazing, fantastic!
+Dialogue: 0,0:10:07.74,0:10:14.50,forest default C,,0,0,0,,{TIME:607740,614500}This is it, the whole world is made of corn!\nWow, wee!
+Dialogue: 0,0:10:37.41,0:10:40.93,forest default C,,0,0,0,,{TIME:637410,640930}Hey...! That guy is sure putting\na lot of my yellow corn in that bucket!
+Dialogue: 0,0:10:42.33,0:10:45.03,forest default C,,0,0,0,,{TIME:642330,645030}Oh, all the nerve!
+Dialogue: 0,0:10:46.24,0:10:53.75,forest narrator C,,0,0,0,,{TIME:646240,653750}{\i1}Chatterer began to think that all the corn\nin the storehouse belonged to him.{\i}
+Dialogue: 0,0:10:53.75,0:10:58.82,forest narrator C,,0,0,0,,{TIME:653750,658820}{\i1}So the next morning when he saw Sammy\napproaching as usual,{\i}
+Dialogue: 0,0:10:59.09,0:11:02.03,forest narrator C,,0,0,0,,{TIME:659090,662030}{\i1}he thought about getting even with him.{\i}
+Dialogue: 0,0:11:22.51,0:11:26.64,forest default C,,0,0,0,,{TIME:682510,686640}What are you doing,\nwhat are you doing?!
+Dialogue: 0,0:11:32.28,0:11:35.30,forest narrator C,,0,0,0,,{TIME:692280,695300}{\i1}Sammy was really in trouble.{\i}
+Dialogue: 0,0:11:35.52,0:11:38.87,forest narrator C,,0,0,0,,{TIME:695520,698870}{\i1}He thought for sure\nthat he had fallen in a trap.{\i}
+Dialogue: 0,0:12:05.79,0:12:10.29,forest default C,,0,0,0,,{TIME:725790,730290}A trap! I know it was a trap\nby Mister Brown's son, Tom! Yeah!
+Dialogue: 0,0:12:11.32,0:12:15.29,forest default C,,0,0,0,,{TIME:731320,735290}He's been trying to get me!\nI've never been so scared in all my life!
+Dialogue: 0,0:12:15.41,0:12:21.52,forest default C,,0,0,0,,{TIME:735410,741520}Mister Brown's son is an awful guy! I better\nbe aware of him, he's out to get me, I know!
+Dialogue: 0,0:12:22.79,0:12:28.16,forest narrator C,,0,0,0,,{TIME:742790,748160}{\i1}Reddy had just eaten three or four crickets\nthis morning and was therefore in high spirits.{\i}
+Dialogue: 0,0:12:40.63,0:12:43.06,forest default C,,0,0,0,,{TIME:760630,763060}Hey...! Hey...!
+Dialogue: 0,0:12:43.17,0:12:48.69,forest default C,,0,0,0,,{TIME:763170,768690}Wow! That bug smells so bad,\nhe doesn't want to be friends!
+Dialogue: 0,0:12:48.85,0:12:57.42,forest default C,,0,0,0,,{TIME:768850,777420}Bad news, bad news,\nbad news, bad news!
+Dialogue: 0,0:13:07.25,0:13:08.67,forest default C,,0,0,0,,{TIME:787250,788670}Listen, listen, listen everybody! I've got\nbad, bad, bad news! Everybody gather around!
+Dialogue: 0,0:13:08.67,0:13:11.00,forest default C,,0,0,0,,{TIME:788670,791000}Tom, Mister Brown's son is out to get me!
+Dialogue: 0,0:13:11.00,0:13:14.00,forest default C,,0,0,0,,{TIME:791000,794000}He's an awful guy!\nEverybody listen! Come on!
+Dialogue: 0,0:13:16.14,0:13:19.86,forest default C,,0,0,0,,{TIME:796140,799860}Listen! Everybody, Mister Brown's son\nis out to get me! I know it!
+Dialogue: 0,0:13:20.12,0:13:23.92,forest default C,,0,0,0,,{TIME:800120,803920}Hey, Chatterer!\nYou know what Tom did?
+Dialogue: 0,0:13:26.45,0:13:29.62,forest default C,,0,0,0,,{TIME:806450,809620}He's an awful guy!\nHe set a trap for me!
+Dialogue: 0,0:13:29.68,0:13:31.05,forest default C,,0,0,0,,{TIME:809680,811050}I think he's out to get me!
+Dialogue: 0,0:13:33.01,0:13:36.01,forest default C,,0,0,0,,{TIME:813010,816010}A trap!\nA great big trap!
+Dialogue: 0,0:13:36.47,0:13:41.60,forest default C,,0,0,0,,{TIME:816470,821600}He set a trap, he tried to kill me\nin the corn storehouse!
+Dialogue: 0,0:13:42.25,0:13:45.42,forest default C,,0,0,0,,{TIME:822250,825420}Having all that corn and he doesn't\neven give me two or three kernels,
+Dialogue: 0,0:13:45.42,0:13:48.42,forest default C,,0,0,0,,{TIME:825420,828420}why, what kind of guy is that,\nthat stinking old minor!
+Dialogue: 0,0:13:48.44,0:13:50.85,forest default C,,0,0,0,,{TIME:828440,830850}And that big brat...\nWhy, it-it scared me so!
+Dialogue: 0,0:13:52.46,0:13:55.23,forest default C,,0,0,0,,{TIME:832460,835230}You better not go near there, Chatterer!
+Dialogue: 0,0:13:58.62,0:14:03.03,forest default C,,0,0,0,,{TIME:838620,843030}If I can get revenge,\nwhy... I would...!
+Dialogue: 0,0:14:04.55,0:14:09.19,forest default C,,0,0,0,,{TIME:844550,849190}I'm gonna spread the word all around the forest\nto be aware of Tom's traps,
+Dialogue: 0,0:14:09.23,0:14:12.50,forest default C,,0,0,0,,{TIME:849230,852500}and Chatterer, you don't go near that farm,\nunderstand?
+Dialogue: 0,0:14:29.72,0:14:34.79,forest default C,,0,0,0,,{TIME:869720,874790}Something's fishy here. Tomorrow morning\nI think I'll go visit Mister Brown's house!
+Dialogue: 0,0:15:06.02,0:15:07.92,forest default C,,0,0,0,,{TIME:906020,907920}{\i1}How many times have I told you{\i}
+Dialogue: 0,0:15:07.97,0:15:09.71,forest default C,,0,0,0,,{TIME:907970,909710}{\i1}not to go near any dangerous places?{\i}
+Dialogue: 0,0:15:09.84,0:15:13.07,forest default C,,0,0,0,,{TIME:909840,913070}{\i1}That's the secret to long life!{\i}
+Dialogue: 0,0:15:46.89,0:15:48.61,forest default C,,0,0,0,,{TIME:946890,948610}Gosh!\nIt's Chatterer!
+Dialogue: 0,0:15:49.22,0:15:50.88,forest default C,,0,0,0,,{TIME:949220,950880}So that's it! Now, I've got it!
+Dialogue: 0,0:15:50.94,0:15:53.08,forest default C,,0,0,0,,{TIME:950940,953080}That thing that scared Sammy was Chatterer!
+Dialogue: 0,0:15:53.10,0:15:56.39,forest default C,,0,0,0,,{TIME:953100,956390}Chatterer grabbed Sammy still\nfrom the inside and frightened him!
+Dialogue: 0,0:15:58.08,0:16:00.91,forest default C,,0,0,0,,{TIME:958080,960910}Hey...! You can't jump up this high and get me!
+Dialogue: 0,0:16:03.61,0:16:07.13,forest default C,,0,0,0,,{TIME:963610,967130}{\i1}Bowser!\nHere, boy, calm down!{\i}
+Dialogue: 0,0:16:07.60,0:16:10.44,forest default C,,0,0,0,,{TIME:967600,970440}{\i1}What's the matter, is it Reddy the Fox?{\i}
+Dialogue: 0,0:16:11.50,0:16:13.44,forest default C,,0,0,0,,{TIME:971500,973440}{\i1}Hey there, I understand, be quiet now!{\i}
+Dialogue: 0,0:16:13.52,0:16:16.28,forest default C,,0,0,0,,{TIME:973520,976280}{\i1}Look here, it's your breakfast!{\i}
+Dialogue: 0,0:16:29.33,0:16:31.49,forest default C,,0,0,0,,{TIME:989330,991490}Nevertheless, Chatterer sure has grown blunt.
+Dialogue: 0,0:16:31.58,0:16:34.06,forest default C,,0,0,0,,{TIME:991580,994060}He'll make a good thief!
+Dialogue: 0,0:16:41.63,0:16:44.42,forest default C,,0,0,0,,{TIME:1001630,1004420}What a racket, get out of here!
+Dialogue: 0,0:16:46.99,0:16:49.12,forest default C,,0,0,0,,{TIME:1006990,1009120}{\i1}Hey, Sammy!{\i}
+Dialogue: 0,0:16:50.19,0:16:51.92,forest default C,,0,0,0,,{TIME:1010190,1011920}You sure sound like you're in a foul mood!
+Dialogue: 0,0:16:52.34,0:16:53.42,forest default C,,0,0,0,,{TIME:1012340,1013420}Could be!
+Dialogue: 0,0:16:54.30,0:16:57.41,forest default C,,0,0,0,,{TIME:1014300,1017410}Actually, this morning I went\nto check out something.
+Dialogue: 0,0:16:57.61,0:16:59.18,forest default C,,0,0,0,,{TIME:1017610,1019180}Don't you want to hear about it?
+Dialogue: 0,0:16:59.40,0:17:01.42,forest default C,,0,0,0,,{TIME:1019400,1021420}I don't want to hear about a thing\nyou've got to say!
+Dialogue: 0,0:17:01.50,0:17:03.70,forest default C,,0,0,0,,{TIME:1021500,1023700}Even about traps?
+Dialogue: 0,0:17:04.36,0:17:05.85,forest default C,,0,0,0,,{TIME:1024360,1025850}Traps did you say?
+Dialogue: 0,0:17:06.02,0:17:07.73,forest default C,,0,0,0,,{TIME:1026020,1027730}Oh, it's really insignificant.
+Dialogue: 0,0:17:07.98,0:17:11.87,forest default C,,0,0,0,,{TIME:1027980,1031870}I only thought you wanted to hear about\nsomething I checked out this morning,
+Dialogue: 0,0:17:11.91,0:17:14.07,forest default C,,0,0,0,,{TIME:1031910,1034070}if you're not a coward.
+Dialogue: 0,0:17:14.23,0:17:16.80,forest default C,,0,0,0,,{TIME:1034230,1036800}I'm not a coward,\nwho said I'm a coward?
+Dialogue: 0,0:17:16.95,0:17:19.65,forest default C,,0,0,0,,{TIME:1036950,1039650}I did! Didn't you tell me that you were\nso scared of Mister Brown's warehouse
+Dialogue: 0,0:17:19.70,0:17:22.48,forest default C,,0,0,0,,{TIME:1039700,1042480}you would never go there again?
+Dialogue: 0,0:17:23.10,0:17:27.22,forest default C,,0,0,0,,{TIME:1043100,1047220}I'm not a coward, I only said that there\nwas a trap set up there, that's all!
+Dialogue: 0,0:17:27.31,0:17:32.76,forest default C,,0,0,0,,{TIME:1047310,1052760}OK, then tomorrow morning can you go and\nmeet at Mister Brown's corn storehouse?
+Dialogue: 0,0:17:33.10,0:17:35.52,forest default C,,0,0,0,,{TIME:1053100,1055520}And do you have the courage to confirm\nsomething that will happen?
+Dialogue: 0,0:17:35.57,0:17:38.34,forest default C,,0,0,0,,{TIME:1055570,1058340}You don't, do you? You're a coward!
+Dialogue: 0,0:17:38.55,0:17:41.94,forest default C,,0,0,0,,{TIME:1058550,1061940}Of course, I'll go! I'll go and show you\nthat I'm not a coward!
+Dialogue: 0,0:17:41.99,0:17:44.15,forest default C,,0,0,0,,{TIME:1061990,1064150}Good, then it's a deal!
+Dialogue: 0,0:17:44.27,0:17:46.87,forest default C,,0,0,0,,{TIME:1064270,1066870}Very early tomorrow,\nbefore sunrise, we'll go together!
+Dialogue: 0,0:17:47.07,0:17:48.68,forest default C,,0,0,0,,{TIME:1067070,1068680}Good, of course I promise!
+Dialogue: 0,0:17:48.82,0:17:53.54,forest default C,,0,0,0,,{TIME:1068820,1073540}I don't know what's supposed to happen,\nbut I'll clearly show you that I'm not afraid!
+Dialogue: 0,0:17:57.09,0:18:00.28,forest default C,,0,0,0,,{TIME:1077090,1080280}Come tomorrow morning,\nSammy's face will be something to see!
+Dialogue: 0,0:18:00.88,0:18:06.08,forest narrator C,,0,0,0,,{TIME:1080880,1086080}{\i1}Reddy's plan is working well.\nNow it's the following day.{\i}
+Dialogue: 0,0:18:07.13,0:18:09.22,forest default C,,0,0,0,,{TIME:1087130,1089220}Sammy's scared? You're shaking!
+Dialogue: 0,0:18:09.27,0:18:12.15,forest default C,,0,0,0,,{TIME:1089270,1092150}Who... shaking?\nI-I'm not shaking, I-I'm not scared!
+Dialogue: 0,0:18:12.32,0:18:13.68,forest default C,,0,0,0,,{TIME:1092320,1093680}Let's go, then!
+Dialogue: 0,0:18:24.71,0:18:27.04,forest default C,,0,0,0,,{TIME:1104710,1107040}Hmm... there's where the trap was set.
+Dialogue: 0,0:18:27.55,0:18:33.15,forest default C,,0,0,0,,{TIME:1107550,1113150}Now we should be able to find out what it was\nthat grabbed your beak the other day,
+Dialogue: 0,0:18:33.73,0:18:37.64,forest default C,,0,0,0,,{TIME:1113730,1117640}but regardless of what you see,\ndon't make a noise and don't make a fuss!
+Dialogue: 0,0:18:55.95,0:18:57.04,forest default C,,0,0,0,,{TIME:1135950,1137040}Hey, there he is!
+Dialogue: 0,0:19:09.18,0:19:10.78,forest default C,,0,0,0,,{TIME:1149180,1150780}Why, that's... that's Chatterer!
+Dialogue: 0,0:19:34.40,0:19:38.58,forest default C,,0,0,0,,{TIME:1174400,1178580}Why...!\nI'll fix you, Chatterer!
+Dialogue: 0,0:19:38.73,0:19:43.78,forest default C,,0,0,0,,{TIME:1178730,1183780}Ah, never saw a face so like a masterpiece!\nServes you right, Sammy, you crazy fool!
+Dialogue: 0,0:19:44.19,0:19:47.11,forest default C,,0,0,0,,{TIME:1184190,1187110}DELETE Ah...!\nNow, for Chatterer!
+Dialogue: 0,0:19:48.20,0:19:51.34,Default,,0,0,0,,{TIME:1188200,1191340}- I'll get you!\n- Oh no, it's Sammy!
+Dialogue: 0,0:19:53.04,0:20:02.48,forest default C,,0,0,0,,{TIME:1193040,1202480}Darn you, Chatterer, you thief, you thief,\nyou thief! I'm gonna fix you!
+Dialogue: 0,0:20:02.72,0:20:06.17,forest default C,,0,0,0,,{TIME:1202720,1206170}Stop it, Sammy!\nHuh?!
+Dialogue: 0,0:20:06.23,0:20:09.85,forest default C,,0,0,0,,{TIME:1206230,1209850}Thief, thief!\nYou squirrel thief!
+Dialogue: 0,0:20:09.89,0:20:14.14,forest default C,,0,0,0,,{TIME:1209890,1214140}Sammy, quit it! If you're not quiet,\nTom and the others will hear it! Stop it!
+Dialogue: 0,0:20:14.45,0:20:16.81,forest default C,,0,0,0,,{TIME:1214450,1216810}Thief, thief!\nYou squirrel thief!
+Dialogue: 0,0:20:17.38,0:20:19.73,forest default C,,0,0,0,,{TIME:1217380,1219730}I'll fix you, you thief!
+Dialogue: 0,0:20:19.88,0:20:23.83,forest default C,,0,0,0,,{TIME:1219880,1223830}That jay is rasing a racket!\nThe fox must be after a chicken!
+Dialogue: 0,0:20:27.28,0:20:30.50,Default,,0,0,0,,{TIME:1227280,1230500}Stop it, Sammy! Please quit now!
+Dialogue: 0,0:20:41.18,0:20:44.75,forest default C,,0,0,0,,{TIME:1241180,1244750}I'm gonna fix you,\nyou little robber, you thief!
+Dialogue: 0,0:21:06.96,0:21:08.75,Default,,0,0,0,,{TIME:1266960,1268750}INSERT
+Dialogue: 0,0:21:09.91,0:21:11.78,Default,,0,0,0,,{TIME:1269910,1271780}INSERT
+Dialogue: 0,0:21:15.74,0:21:18.57,Default,,0,0,0,,{TIME:1275740,1278570}INSERT
+Dialogue: 0,0:21:26.24,0:21:28.64,forest default C,,0,0,0,,{TIME:1286240,1288640}Bowser! Bowser!
+Dialogue: 0,0:21:30.48,0:21:32.73,forest default C,,0,0,0,,{TIME:1290480,1292730}{\i1}Come on, Blackie!\nI'll give you some delicious milk!{\i}
+Dialogue: 0,0:21:46.33,0:21:53.23,Default,,0,0,0,,{TIME:1306330,1313230}TRANSLATE
+Dialogue: 0,0:22:00.54,0:22:03.22,forest default C,,0,0,0,,{TIME:1320540,1323220}Hey, Polly, what are you doing, Polly?
+Dialogue: 0,0:22:03.33,0:22:07.47,forest default C,,0,0,0,,{TIME:1323330,1327470}With this soft grass,\nI'm going to make a wonderful pillow!
+Dialogue: 0,0:22:08.90,0:22:13.06,forest default C,,0,0,0,,{TIME:1328900,1333060}It's going to be this big and fluffy!
+Dialogue: 0,0:22:24.98,0:22:29.33,forest credits C,,0,0,0,,{TIME:1344980,1349330}{\c&Hffffff&}Subtitle: {\c&H1beaed&\fnMf Kazincbarcika\fs37\i1}South Wind Subs{\i0}

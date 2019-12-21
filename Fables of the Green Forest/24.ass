@@ -14,281 +14,281 @@ Group: OldCastle & South Wind Subs
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,5,10,10,10,1
-Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
+Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,5,10,10,10,1
+Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.00,0:00:08.00,forest title KB,,0,0,0,,FABLES \N of the\NGREEN FOREST
-Dialogue: 0,0:00:04.00,0:00:08.00,forest ep title C,,0,0,0,,{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Traps in the forest"{\i}
-Dialogue: 0,0:00:17.36,0:00:19.64,forest default C,,0,0,0,,Ah... I'm awful hungry!
-Dialogue: 0,0:00:20.04,0:00:21.82,forest default C,,0,0,0,,{\i1}Hey, Jerry!{\i}
-Dialogue: 0,0:00:22.17,0:00:24.08,forest default C,,0,0,0,,Oh, Bobby Raccoon, what's up?
-Dialogue: 0,0:00:25.22,0:00:26.81,forest default C,,0,0,0,,Better be careful, Jerry!
-Dialogue: 0,0:00:27.40,0:00:29.57,forest default C,,0,0,0,,What's that mean:\N"Better be careful"?
-Dialogue: 0,0:00:29.78,0:00:33.42,forest default C,,0,0,0,,It seems like some men have\Nset up traps around here...
-Dialogue: 0,0:00:33.46,0:00:34.44,forest default C,,0,0,0,,Traps?
-Dialogue: 0,0:00:34.81,0:00:37.98,forest default C,,0,0,0,,Sister South Wind informed us about it.
-Dialogue: 0,0:00:38.02,0:00:41.84,forest default C,,0,0,0,,That she saw them last night,\Nsetting the traps.
-Dialogue: 0,0:00:42.03,0:00:43.76,forest default C,,0,0,0,,You better be careful!
-Dialogue: 0,0:00:44.02,0:00:48.01,forest default C,,0,0,0,,I should think that I can take\Ncare of myself... That's right.
-Dialogue: 0,0:00:48.54,0:00:52.06,forest default C,,0,0,0,,I'm just trying to be helpful.\NIf you get trapped, don't blame me!
-Dialogue: 0,0:01:01.94,0:01:04.81,forest narrator C,,0,0,0,,{\i1}Jerry the Muskrat, although acting arrogantly...{\i}
-Dialogue: 0,0:01:06.56,0:01:09.02,forest narrator C,,0,0,0,,{\i1}...really didn't know what a trap looked like,{\i}
-Dialogue: 0,0:01:09.44,0:01:10.92,forest narrator C,,0,0,0,,{\i1}nor what to be careful of.{\i}
-Dialogue: 0,0:01:11.44,0:01:15.20,forest narrator C,,0,0,0,,{\i1}Right now, all that was in his head was...\Nthat he was hungry.{\i}
-Dialogue: 0,0:01:25.60,0:01:28.43,forest narrator C,,0,0,0,,{\i1}Jerry wondered, is this a dream?{\i}
-Dialogue: 0,0:01:29.06,0:01:30.96,forest narrator C,,0,0,0,,{\i1}Well, after all, for Jerry,{\i}
-Dialogue: 0,0:01:31.66,0:01:35.08,forest narrator C,,0,0,0,,{\i1}carrots were his number one favorite food.{\i}
-Dialogue: 0,0:01:37.02,0:01:40.50,forest narrator C,,0,0,0,,{\i1}Jerry didn't bother\Nto take the time to doubt or{\i}
-Dialogue: 0,0:01:40.73,0:01:42.48,forest narrator C,,0,0,0,,{\i1}to wonder why carrots{\i}
-Dialogue: 0,0:01:42.80,0:01:45.72,forest narrator C,,0,0,0,,{\i1}could possibly be found\Nin such a place as this?{\i}
-Dialogue: 0,0:01:59.80,0:02:04.78,forest default C,,0,0,0,,Mm, mm... yum... yum!\NIt's so good, so very good...
-Dialogue: 0,0:02:04.79,0:02:09.92,forest default C,,0,0,0,,Oh my, but how happy I am to be able\Nto eat my favorite food!
-Dialogue: 0,0:02:22.16,0:02:26.09,forest default C,,0,0,0,,Help! Help, help... ow, ah!
-Dialogue: 0,0:02:50.11,0:02:53.82,forest default C,,0,0,0,,That's why I told you all to be careful!
-Dialogue: 0,0:02:54.47,0:02:57.36,forest default C,,0,0,0,,With these things we can't live\Nwith peace of mind.
-Dialogue: 0,0:02:57.36,0:02:59.84,forest default C,,0,0,0,,What do you all think?\NYou're so nonchalant there, Peter,
-Dialogue: 0,0:02:59.85,0:03:02.70,forest default C,,0,0,0,,but there may be a trap for your leg...
-Dialogue: 0,0:03:03.08,0:03:05.08,forest default C,,0,0,0,,Hey, don't scare me like that!
-Dialogue: 0,0:03:05.66,0:03:08.68,forest default C,,0,0,0,,- I'm scared, I am...\N- Better do something.
-Dialogue: 0,0:03:09.08,0:03:12.05,forest default C,,0,0,0,,Where on earth are you going to find a trap?
-Dialogue: 0,0:03:12.12,0:03:14.90,forest default C,,0,0,0,,Huh, if we knew that,\Nthere wouldn't be need to worry.
-Dialogue: 0,0:03:15.54,0:03:17.35,forest default C,,0,0,0,,Then, what should we do?
-Dialogue: 0,0:03:17.35,0:03:20.46,forest default C,,0,0,0,,That's why we were talking\Nover just what should be done...
-Dialogue: 0,0:03:20.71,0:03:23.94,forest default C,,0,0,0,,Once and for all:\NLet's get rid of all those humans!
-Dialogue: 0,0:03:23.94,0:03:24.39,forest default C,,0,0,0,,Huh?
-Dialogue: 0,0:03:24.74,0:03:26.54,forest default C,,0,0,0,,And who's gonna get rid of them?
-Dialogue: 0,0:03:27.04,0:03:28.27,forest default C,,0,0,0,,Uh... Hmm.
-Dialogue: 0,0:03:29.20,0:03:33.08,forest default C,,0,0,0,,Rather than that, it would be better\Nnot to let the men to the forest at all.
-Dialogue: 0,0:03:33.98,0:03:37.96,forest default C,,0,0,0,,We may say that, but they'll enter anyway,\Nthere's no way to stop them.
-Dialogue: 0,0:03:37.96,0:03:40.95,forest default C,,0,0,0,,Rather, we'd better not to eat\Nthe bait on the traps...
-Dialogue: 0,0:03:41.03,0:03:43.56,forest default C,,0,0,0,,It's difficult to distinguish\Nwhich is the trap bait.
-Dialogue: 0,0:03:43.62,0:03:48.06,forest default C,,0,0,0,,Better to prevent them from setting up\Nthe traps in any way we possibly can.
-Dialogue: 0,0:03:48.49,0:03:50.71,forest default C,,0,0,0,,And how do you keep them from doing that?
-Dialogue: 0,0:03:51.06,0:03:54.31,forest default C,,0,0,0,,What are you saying?\NYou yourself don't understand a thing!
-Dialogue: 0,0:03:54.56,0:03:57.63,forest default C,,0,0,0,,Huh, me? Your opinion too is completely useless.
-Dialogue: 0,0:03:58.04,0:04:02.16,forest default C,,0,0,0,,Rather than that, let's talk\Nover what we should do...
-Dialogue: 0,0:04:03.74,0:04:06.42,forest default C,,0,0,0,,Perhaps I could suggest a good idea?
-Dialogue: 0,0:04:07.64,0:04:09.00,forest default C,,0,0,0,,Well...
-Dialogue: 0,0:04:10.06,0:04:11.84,forest default C,,0,0,0,,Oh...
-Dialogue: 0,0:04:15.07,0:04:15.62,forest default C,,0,0,0,,- Huh?!\N- Huh?!
-Dialogue: 0,0:04:16.37,0:04:17.58,forest default C,,0,0,0,,Oh...
-Dialogue: 0,0:04:17.58,0:04:18.46,forest default C,,0,0,0,,Oh...
-Dialogue: 0,0:04:22.38,0:04:23.29,forest default C,,0,0,0,,Oh...
-Dialogue: 0,0:04:24.07,0:04:24.44,forest default C,,0,0,0,,Huh?
-Dialogue: 0,0:04:29.53,0:04:30.52,forest default C,,0,0,0,,Now, that's it!
-Dialogue: 0,0:04:31.01,0:04:33.36,forest default C,,0,0,0,,Everybody, listen, I've got a good idea!
-Dialogue: 0,0:04:33.56,0:04:35.82,forest default C,,0,0,0,,Tell us what the good idea is, Johnny!
-Dialogue: 0,0:04:35.97,0:04:38.32,forest default C,,0,0,0,,If we can't get all our opinions coordinated,
-Dialogue: 0,0:04:38.32,0:04:42.31,forest default C,,0,0,0,,why not tell Grandfather Frog about\Nthe traps and ask him his opinion?
-Dialogue: 0,0:04:42.72,0:04:47.56,forest default C,,0,0,0,,Mm-hm, I see, that you mean to ask\Nthe opinion of an elder.
-Dialogue: 0,0:04:48.42,0:04:50.70,forest default C,,0,0,0,,Grandfather Frog is elderly, very smart
-Dialogue: 0,0:04:50.72,0:04:53.57,forest default C,,0,0,0,,and knows very well all about the old days.
-Dialogue: 0,0:04:54.06,0:04:55.73,forest default C,,0,0,0,,That's a good idea!
-Dialogue: 0,0:04:55.73,0:04:58.60,forest default C,,0,0,0,,Grandfather Frog might know all about traps.
-Dialogue: 0,0:04:58.60,0:05:01.98,forest default C,,0,0,0,,Hey, Joe, how about\Ncalling over Grandfather Frog?
-Dialogue: 0,0:05:02.37,0:05:03.49,forest default C,,0,0,0,,It's on!
-Dialogue: 0,0:05:03.94,0:05:06.50,forest default C,,0,0,0,,Harry, come along with me.
-Dialogue: 0,0:05:07.70,0:05:12.55,forest narrator C,,0,0,0,,{\i1}Thus, it was decided to ask for\Nan opinion from Grandfather Frog.{\i}
-Dialogue: 0,0:05:14.30,0:05:17.02,forest default C,,0,0,0,,Good day!\NHey, Mr. Frog!
-Dialogue: 0,0:05:17.54,0:05:20.95,forest default C,,0,0,0,,Good day, Harry!\NWhat's up, I see Joe is with you?
-Dialogue: 0,0:05:21.53,0:05:22.38,forest default C,,0,0,0,,Pardon us.
-Dialogue: 0,0:05:24.06,0:05:27.95,forest default C,,0,0,0,,But everyone is waiting at the Big Rock\Nfor you to come to give us advice.
-Dialogue: 0,0:05:27.95,0:05:29.82,forest default C,,0,0,0,,Why, you little tricksters!
-Dialogue: 0,0:05:29.82,0:05:33.28,forest default C,,0,0,0,,What kind of joke are you intending\Nto play on this person?
-Dialogue: 0,0:05:36.40,0:05:37.58,forest default C,,0,0,0,,Grandfather Frog...
-Dialogue: 0,0:05:37.97,0:05:40.38,forest default C,,0,0,0,,...just as you say: we are tricksters.
-Dialogue: 0,0:05:40.48,0:05:43.50,forest default C,,0,0,0,,But this time were on the level,\Nit is not a trick.
-Dialogue: 0,0:05:43.70,0:05:46.77,forest default C,,0,0,0,,Actually, there's a meeting being\Nheld at the Big Rock.
-Dialogue: 0,0:05:47.20,0:05:49.63,forest default C,,0,0,0,,What's that? A meeting you say?
-Dialogue: 0,0:05:50.05,0:05:52.14,forest narrator C,,0,0,0,,{\i1}Grandfather Frog wore a surprised look,{\i}
-Dialogue: 0,0:05:52.38,0:05:55.70,forest narrator C,,0,0,0,,{\i1}but actually, Sister South Wind\Nhad already told him everything.{\i}
-Dialogue: 0,0:05:56.34,0:05:59.41,forest default C,,0,0,0,,Huh? You say Grandfather Frog won't come?
-Dialogue: 0,0:05:59.64,0:06:02.26,forest default C,,0,0,0,,The other day, I pulled down the water lily
-Dialogue: 0,0:06:02.28,0:06:04.69,forest default C,,0,0,0,,that old Grandfather Frog was sitting on.
-Dialogue: 0,0:06:05.10,0:06:06.23,forest default C,,0,0,0,,How disgusting!
-Dialogue: 0,0:06:06.94,0:06:08.10,forest default C,,0,0,0,,Okay, I'll go call him.
-Dialogue: 0,0:06:08.71,0:06:11.67,forest default C,,0,0,0,,- Oh...\N- Oh, Johnny, be careful of the traps!
-Dialogue: 0,0:06:12.24,0:06:12.71,forest default C,,0,0,0,,Okay!
-Dialogue: 0,0:06:14.46,0:06:15.29,forest default C,,0,0,0,,Ah...
-Dialogue: 0,0:06:18.98,0:06:19.94,forest default C,,0,0,0,,Grandfather?
-Dialogue: 0,0:06:20.76,0:06:22.70,forest default C,,0,0,0,,I have a request, Grandfather Frog...
-Dialogue: 0,0:06:22.92,0:06:25.28,forest default C,,0,0,0,,Please, lend us your wisdom! Please...
-Dialogue: 0,0:06:26.52,0:06:27.81,forest default C,,0,0,0,,Yeah, yeah.
-Dialogue: 0,0:06:28.59,0:06:33.50,forest default C,,0,0,0,,At this rate, we-we will not be able\Nto continue to live in the forest.
-Dialogue: 0,0:06:34.04,0:06:34.94,forest default C,,0,0,0,,Uh-hm.
-Dialogue: 0,0:06:36.34,0:06:41.22,forest default C,,0,0,0,,I beg of you, if something isn't done,\Nwe will all be captured by man...
-Dialogue: 0,0:06:48.08,0:06:52.37,forest default C,,0,0,0,,Have everyone assembled by the trap\Nthat Jerry was almost caught in.
-Dialogue: 0,0:06:52.79,0:06:57.36,forest default C,,0,0,0,,Yes? Then you-you are really\Ngonna tell us about the traps?
-Dialogue: 0,0:07:01.09,0:07:03.32,forest default C,,0,0,0,,Now everyone, look carefully.
-Dialogue: 0,0:07:04.04,0:07:06.62,forest default C,,0,0,0,,This is the trap made by man!
-Dialogue: 0,0:07:06.62,0:07:07.74,forest default C,,0,0,0,,- Oh...\N- Oh...
-Dialogue: 0,0:07:07.75,0:07:10.17,forest default C,,0,0,0,,A truly frightening instrument.
-Dialogue: 0,0:07:10.64,0:07:11.26,forest default C,,0,0,0,,Oh...
-Dialogue: 0,0:07:12.16,0:07:14.51,forest default C,,0,0,0,,Hey, this is a trap, this is a trap!
-Dialogue: 0,0:07:15.16,0:07:18.68,forest default C,,0,0,0,,That's right.\NBobby, push this with all your might.
-Dialogue: 0,0:07:19.62,0:07:21.49,forest default C,,0,0,0,,Nay, not me!
-Dialogue: 0,0:07:21.98,0:07:22.88,forest default C,,0,0,0,,It's alright.
-Dialogue: 0,0:07:23.15,0:07:26.12,forest default C,,0,0,0,,Once a trap has been released\Nthere's not a thing to worry about.
-Dialogue: 0,0:07:26.24,0:07:26.96,forest default C,,0,0,0,,Now, try it!
-Dialogue: 0,0:07:28.96,0:07:29.74,forest default C,,0,0,0,,Yeah...
-Dialogue: 0,0:07:37.55,0:07:38.92,forest default C,,0,0,0,,- Oh...!\N- Oh...!
-Dialogue: 0,0:07:43.86,0:07:45.55,forest default C,,0,0,0,,Uh-huh, uh-huh.
-Dialogue: 0,0:07:49.81,0:07:50.64,forest default C,,0,0,0,,- Huh?!\N- Oh!
-Dialogue: 0,0:07:52.47,0:07:53.20,forest default C,,0,0,0,,Eh!
-Dialogue: 0,0:07:53.88,0:07:55.37,forest default C,,0,0,0,,Don't put your hands out.
-Dialogue: 0,0:07:55.51,0:07:58.08,forest default C,,0,0,0,,Now, this time, don't put out your hands!
-Dialogue: 0,0:08:00.35,0:08:01.46,forest default C,,0,0,0,,Ah. Mm.
-Dialogue: 0,0:08:02.29,0:08:04.19,forest default C,,0,0,0,,Okay, watch closely.
-Dialogue: 0,0:08:05.60,0:08:07.42,forest default C,,0,0,0,,- There!\N- Huh... Oh...!
-Dialogue: 0,0:08:11.28,0:08:12.70,forest default C,,0,0,0,,Eh!
-Dialogue: 0,0:08:17.73,0:08:21.66,forest default C,,0,0,0,,That's how it is.\NBobby, push the spring once again.
-Dialogue: 0,0:08:22.32,0:08:25.29,forest default C,,0,0,0,,Why, why me again?
-Dialogue: 0,0:08:30.16,0:08:31.27,forest default C,,0,0,0,,- Pfew!\N- Pfew!
-Dialogue: 0,0:08:33.22,0:08:37.03,forest default C,,0,0,0,,As you can see, if you place your foot\Non this round spot,
-Dialogue: 0,0:08:37.74,0:08:40.06,forest default C,,0,0,0,,the weight separates this metal lock,
-Dialogue: 0,0:08:40.56,0:08:42.52,forest default C,,0,0,0,,which releases this spring.
-Dialogue: 0,0:08:44.08,0:08:45.74,forest default C,,0,0,0,,- Wow, what a fright!\N- Wow, what a fright!
-Dialogue: 0,0:08:46.04,0:08:50.10,forest default C,,0,0,0,,Dirt or grass over this trap\Nmakes it almost unnoticeable.
-Dialogue: 0,0:08:50.63,0:08:53.39,forest default C,,0,0,0,,Peter, there might be one\Nright there by your feet.
-Dialogue: 0,0:08:54.73,0:08:56.78,forest default C,,0,0,0,,Ah! What'll I do?
-Dialogue: 0,0:08:58.11,0:09:01.00,forest default C,,0,0,0,,Only scaring ya, there's none there.
-Dialogue: 0,0:09:01.57,0:09:03.74,forest default C,,0,0,0,,Don't ever frighten me like that again!
-Dialogue: 0,0:09:04.38,0:09:07.46,forest default C,,0,0,0,,Anyway, you never know where it'll be,
-Dialogue: 0,0:09:07.46,0:09:09.23,forest default C,,0,0,0,,so always be careful.
-Dialogue: 0,0:09:09.26,0:09:11.10,forest default C,,0,0,0,,- Only...\N- Only?
-Dialogue: 0,0:09:12.73,0:09:16.52,forest default C,,0,0,0,,Usually around a trap\Nare placed some delicious bait.
-Dialogue: 0,0:09:17.18,0:09:21.54,forest default C,,0,0,0,,That's right, the one that almost caught me\Nhad my favorite carrots around it.
-Dialogue: 0,0:09:21.66,0:09:22.38,forest default C,,0,0,0,,Oh!
-Dialogue: 0,0:09:23.63,0:09:28.15,forest default C,,0,0,0,,Now we must find, without exception,\Nall of the traps set by man!
-Dialogue: 0,0:09:28.24,0:09:30.16,forest default C,,0,0,0,,- But how are we suppose to find them?\N- But how are we suppose to find them?
-Dialogue: 0,0:09:30.89,0:09:31.94,forest default C,,0,0,0,,Just find them.
-Dialogue: 0,0:09:32.92,0:09:34.05,forest default C,,0,0,0,,Just find them?
-Dialogue: 0,0:09:35.12,0:09:38.20,forest default C,,0,0,0,,Use your eyes and your noses.\NYour eyes... your noses...
-Dialogue: 0,0:09:39.55,0:09:40.82,forest default C,,0,0,0,,- Eyes and noses?\N- Eyes and noses?
-Dialogue: 0,0:09:41.38,0:09:44.61,forest default C,,0,0,0,,I told ya earlier that if you see some food
-Dialogue: 0,0:09:44.61,0:09:48.44,forest default C,,0,0,0,,in a spot usually not found\Nthen that is a warning.
-Dialogue: 0,0:09:48.68,0:09:52.30,forest default C,,0,0,0,,And, without exception,\Nthere will be the scent of man there.
-Dialogue: 0,0:09:52.52,0:09:53.23,forest default C,,0,0,0,,- Eh?!\N- Eh?!
-Dialogue: 0,0:09:53.93,0:09:55.97,forest default C,,0,0,0,,If you find one as I just showed you,
-Dialogue: 0,0:09:56.53,0:09:59.76,forest default C,,0,0,0,,hit it with a piece of stick\Nand the trap releases.
-Dialogue: 0,0:10:00.05,0:10:03.62,forest default C,,0,0,0,,Hey, let's do it! Everyone look\Nfor traps all around here.
-Dialogue: 0,0:10:04.24,0:10:05.05,forest default C,,0,0,0,,Uh-huh.
-Dialogue: 0,0:10:05.62,0:10:10.00,forest default C,,0,0,0,,Uh-huh. Although I'm very brave,\NI feel a chill.
-Dialogue: 0,0:10:10.66,0:10:13.34,forest default C,,0,0,0,,- Okay, let's find them.\N- Without exception.
-Dialogue: 0,0:10:14.34,0:10:16.78,forest default C,,0,0,0,,Let's find them!\NLet's do it, everyone!
-Dialogue: 0,0:10:17.24,0:10:18.60,forest default C,,0,0,0,,Yes, let's do it!
-Dialogue: 0,0:10:18.60,0:10:21.44,forest default C,,0,0,0,,Yes, that's right, let's do it!\NCome on, everyone, let's do it now!
-Dialogue: 0,0:10:23.00,0:10:28.20,forest default C,,0,0,0,,The amount you guys can find,\NI can find all by myself. I'll show ya! Yeah!
-Dialogue: 0,0:10:34.26,0:10:34.68,forest default C,,0,0,0,,Hm?
-Dialogue: 0,0:10:44.45,0:10:45.89,forest default C,,0,0,0,,There's something wrong?
-Dialogue: 0,0:10:46.53,0:10:48.39,forest default C,,0,0,0,,I smell men-scent around here...
-Dialogue: 0,0:10:49.84,0:10:52.36,forest default C,,0,0,0,,Did you say "men-scent"?
-Dialogue: 0,0:10:54.56,0:10:58.08,forest default C,,0,0,0,,No... No...\NIt's much more like fish, I think.
-Dialogue: 0,0:11:08.97,0:11:10.84,forest default C,,0,0,0,,A fish! Harry, come on!
-Dialogue: 0,0:11:11.04,0:11:14.26,forest default C,,0,0,0,,Someone left a fish by the bank!\NCome on, let's feast!
-Dialogue: 0,0:11:14.66,0:11:18.29,forest default C,,0,0,0,,Joe, don't touch that fish,\Ndon't touch that fish, Joe! Stop, Joe!
-Dialogue: 0,0:11:18.36,0:11:20.52,forest default C,,0,0,0,,Oh, Harry...\NWhat's the matter with you?
-Dialogue: 0,0:11:20.52,0:11:23.37,forest default C,,0,0,0,,Do you think I'm going to eat it up\Nbefore you get here?
-Dialogue: 0,0:11:25.89,0:11:26.73,forest default C,,0,0,0,,{\i1}Stop it!{\i}
-Dialogue: 0,0:11:27.09,0:11:29.87,forest default C,,0,0,0,,Stop!
-Dialogue: 0,0:11:50.90,0:11:53.35,forest default C,,0,0,0,,Ouch... Oh my, it hurts!
-Dialogue: 0,0:12:08.67,0:12:12.52,forest default C,,0,0,0,,Didn't I tell you? Didn't I tell you\Nthat it was very dangerous?
-Dialogue: 0,0:12:12.52,0:12:15.40,forest default C,,0,0,0,,Didn't Grandfather Frog say\Nthat if you found any food stuffed
-Dialogue: 0,0:12:15.40,0:12:18.54,forest default C,,0,0,0,,in any unusual place,\Nto be careful, huh?
-Dialogue: 0,0:12:18.84,0:12:22.12,forest default C,,0,0,0,,Now...\NOh my, did that hurt...
-Dialogue: 0,0:12:31.66,0:12:32.97,forest default C,,0,0,0,,What's the matter?
-Dialogue: 0,0:12:33.22,0:12:37.28,forest default C,,0,0,0,,- Oh, it's nothing. We found a trap.\N- That's no reason to argue!
-Dialogue: 0,0:12:38.90,0:12:42.98,forest default C,,0,0,0,,You should be glad. Terrific!\NJoe, I've changed my opinion of you.
-Dialogue: 0,0:12:47.09,0:12:49.90,forest lyrics C,,0,0,0,,{\i1}Joe and Harry found a trap,\Nfound a trap!{\i}
-Dialogue: 0,0:12:52.00,0:12:53.46,forest default C,,0,0,0,,- Oh?\N- Huh?
-Dialogue: 0,0:12:54.15,0:12:57.78,forest default C,,0,0,0,,Johnny, I think there's something\Nvery-very strange going on here.
-Dialogue: 0,0:12:58.10,0:13:00.18,forest default C,,0,0,0,,Eh, something strange going on here?
-Dialogue: 0,0:13:04.44,0:13:08.76,forest default C,,0,0,0,,- My, what a delicious looking carrot!\N- Don't, Polly, don't do it!
-Dialogue: 0,0:13:09.73,0:13:12.48,forest default C,,0,0,0,,A carrot in this place is rather strange...
-Dialogue: 0,0:13:20.99,0:13:22.22,forest default C,,0,0,0,,Oh...
-Dialogue: 0,0:13:26.21,0:13:26.92,forest default C,,0,0,0,,Oh!
-Dialogue: 0,0:13:37.82,0:13:39.28,forest default C,,0,0,0,,Aah!
-Dialogue: 0,0:13:39.33,0:13:40.73,forest default C,,0,0,0,,Just as I thought!
-Dialogue: 0,0:13:41.55,0:13:42.09,forest default C,,0,0,0,,{\i1}What?{\i}
-Dialogue: 0,0:13:44.99,0:13:48.93,forest default C,,0,0,0,,Hey, Johnny has found a trap,\NJohnny has found one, he's found a trap!
-Dialogue: 0,0:14:00.54,0:14:01.86,forest default C,,0,0,0,,Ah...!
-Dialogue: 0,0:14:04.36,0:14:05.76,forest default C,,0,0,0,,Well, well...
-Dialogue: 0,0:14:06.74,0:14:07.66,forest default C,,0,0,0,,Yeah.
-Dialogue: 0,0:14:09.82,0:14:10.33,forest default C,,0,0,0,,Yep.
-Dialogue: 0,0:14:12.86,0:14:15.05,forest default C,,0,0,0,,{\i1}Just as I thought!{\i}
-Dialogue: 0,0:14:18.64,0:14:22.47,forest default C,,0,0,0,,There's a man heading this way!\NIt must be the one who set the traps!
-Dialogue: 0,0:14:26.10,0:14:26.87,forest default C,,0,0,0,,- Oh!\N- Oh!
-Dialogue: 0,0:15:17.87,0:15:19.02,forest default C,,0,0,0,,Oh!!
-Dialogue: 0,0:15:27.28,0:15:28.22,forest default C,,0,0,0,,Ah!
-Dialogue: 0,0:15:29.14,0:15:30.53,forest default C,,0,0,0,,This one's no good too.
-Dialogue: 0,0:15:31.58,0:15:34.06,forest default C,,0,0,0,,But there are animal tracks,\Nthey positively came close.
-Dialogue: 0,0:15:35.33,0:15:36.87,forest default C,,0,0,0,,Okay, let's set it once more.
-Dialogue: 0,0:16:09.48,0:16:12.09,forest default C,,0,0,0,,Okay, all clear, release the traps!
-Dialogue: 0,0:16:39.13,0:16:41.21,forest default C,,0,0,0,,Good, good! Go, go!
-Dialogue: 0,0:16:42.22,0:16:44.11,forest default C,,0,0,0,,Uh-hm, uh-hm.
-Dialogue: 0,0:16:52.41,0:16:54.20,forest default C,,0,0,0,,Look, again it's escaped!
-Dialogue: 0,0:16:55.41,0:16:56.61,forest default C,,0,0,0,,This one too!
-Dialogue: 0,0:16:58.16,0:16:59.84,forest default C,,0,0,0,,This one's been tampered with too.
-Dialogue: 0,0:17:04.36,0:17:06.43,forest default C,,0,0,0,,This one too has been tampered with!
-Dialogue: 0,0:17:08.51,0:17:10.82,forest default C,,0,0,0,,This time, let's put lots of bait on it.
-Dialogue: 0,0:17:11.46,0:17:14.04,forest default C,,0,0,0,,The thing to do is hide the traps,\Nso it won't be noticed.
-Dialogue: 0,0:17:17.25,0:17:18.54,forest default C,,0,0,0,,We'll come back later.
-Dialogue: 0,0:17:22.96,0:17:24.80,forest default C,,0,0,0,,Hey... This is a rabbit path...
-Dialogue: 0,0:17:27.31,0:17:28.94,forest default C,,0,0,0,,Okay...
-Dialogue: 0,0:17:36.39,0:17:38.44,forest default C,,0,0,0,,- Good morning!\N- Hush!
-Dialogue: 0,0:17:46.28,0:17:47.85,forest default C,,0,0,0,,Many thanks for your trouble!
-Dialogue: 0,0:17:54.58,0:17:56.58,forest default C,,0,0,0,,Now, today's bait is really something...
-Dialogue: 0,0:17:56.62,0:17:59.83,forest default C,,0,0,0,,After you release the trap,\Npick up the bait and everyone assemble.
-Dialogue: 0,0:18:00.22,0:18:03.00,forest default C,,0,0,0,,Grandfather, what do you intend to do with them?
-Dialogue: 0,0:18:03.78,0:18:07.18,forest default C,,0,0,0,,Never mind, just hurry.\NSomething for your later pleasure.
-Dialogue: 0,0:18:07.77,0:18:08.83,forest default C,,0,0,0,,Let's go, Polly...
-Dialogue: 0,0:18:09.34,0:18:09.72,forest default C,,0,0,0,,...Peter.
-Dialogue: 0,0:18:10.29,0:18:13.88,forest default C,,0,0,0,,There's some, there's some! A whole bunch\Nof carrots! A whole bunch of carrots!
-Dialogue: 0,0:18:20.69,0:18:23.70,forest default C,,0,0,0,,Fishes, fishes! A whole bunch of fishes,\Nfishes, fishes!
-Dialogue: 0,0:18:25.84,0:18:29.27,forest default C,,0,0,0,,Come on, little trap,\Ncome on over here, let me find ya.
-Dialogue: 0,0:18:29.77,0:18:33.75,forest default C,,0,0,0,,Cabbages, cabbages, cabbages, carrots,\Ncorn and are some potatoes too!
-Dialogue: 0,0:18:43.85,0:18:44.82,forest default C,,0,0,0,,A-ha!
-Dialogue: 0,0:18:54.66,0:18:58.06,forest default C,,0,0,0,,Polly, come here!\NHelp me carry these lushes goodies!
-Dialogue: 0,0:18:58.78,0:19:00.08,forest default C,,0,0,0,,Oh, is it alright?
-Dialogue: 0,0:19:00.70,0:19:01.85,forest default C,,0,0,0,,Oh!
-Dialogue: 0,0:19:02.32,0:19:05.56,forest default C,,0,0,0,,Johnny, help me! My foot, my foot!
-Dialogue: 0,0:19:06.62,0:19:07.14,forest default C,,0,0,0,,What?
-Dialogue: 0,0:19:07.75,0:19:08.56,forest default C,,0,0,0,,What's the matter?
-Dialogue: 0,0:19:11.74,0:19:14.09,forest default C,,0,0,0,,- Oh... ow...\N- Ah...!
-Dialogue: 0,0:19:14.33,0:19:15.48,forest default C,,0,0,0,,- Polly!\N- Mm... Mmm... Mmm...
-Dialogue: 0,0:19:17.36,0:19:20.84,forest default C,,0,0,0,,The men, the men, the men are coming!\NThe men are coming!
-Dialogue: 0,0:19:20.84,0:19:21.84,forest default C,,0,0,0,,- Huh?\N- Oh?
-Dialogue: 0,0:19:22.04,0:19:24.46,forest default C,,0,0,0,,Hurry and save Polly!\NHurry and save Polly!
-Dialogue: 0,0:19:24.72,0:19:26.58,forest default C,,0,0,0,,Hurry, Polly, let's flee!
-Dialogue: 0,0:19:26.86,0:19:29.50,forest default C,,0,0,0,,Oh, oh, my leg...
-Dialogue: 0,0:19:30.68,0:19:33.40,forest default C,,0,0,0,,Ow, oh, it hurts!... It hurts!
-Dialogue: 0,0:19:34.53,0:19:38.72,forest default C,,0,0,0,,No good, no good. It's no use pulling,\Nrather just check the base of the wire.
-Dialogue: 0,0:19:39.24,0:19:39.58,forest default C,,0,0,0,,Huh?
-Dialogue: 0,0:19:40.17,0:19:43.04,forest default C,,0,0,0,,Better hurry, the men are just\Nover there, hurry!
-Dialogue: 0,0:19:43.97,0:19:44.98,forest default C,,0,0,0,,Oh, ow!
-Dialogue: 0,0:19:55.55,0:19:57.14,forest default C,,0,0,0,,Hurry, hurry, hurry!
-Dialogue: 0,0:20:05.74,0:20:08.00,forest default C,,0,0,0,,They're here, the men are just over there!
-Dialogue: 0,0:20:08.68,0:20:10.51,forest default C,,0,0,0,,No...!
-Dialogue: 0,0:20:14.90,0:20:15.87,forest default C,,0,0,0,,Ah...
-Dialogue: 0,0:20:23.82,0:20:25.48,forest default C,,0,0,0,,Ah! They're here!
-Dialogue: 0,0:20:41.94,0:20:42.90,forest default C,,0,0,0,,- Ah...\N- Ah...
-Dialogue: 0,0:20:44.22,0:20:45.07,forest default C,,0,0,0,,- Oh!\N- Oh!
-Dialogue: 0,0:20:55.71,0:20:56.17,forest default C,,0,0,0,,Look!
-Dialogue: 0,0:20:56.66,0:21:00.87,forest default C,,0,0,0,,I can't figure it. The trap is released\Nand all the bait has been swiped.
-Dialogue: 0,0:21:09.65,0:21:14.34,forest default C,,0,0,0,,Now, with the bait from the traps,\Ntime for a big party!
-Dialogue: 0,0:21:14.38,0:21:15.76,forest default C,,0,0,0,,- Yeah!\N- Yeah!
-Dialogue: 0,0:21:18.67,0:21:20.15,forest default C,,0,0,0,,Oh, boy, this is, yeah...
-Dialogue: 0,0:21:28.54,0:21:31.14,forest default C,,0,0,0,,- Well, Reddy, having a party all by yourself?\N- Yeah...
-Dialogue: 0,0:21:37.11,0:21:38.30,forest default C,,0,0,0,,Yummy, yummy.
-Dialogue: 0,0:21:39.21,0:21:41.16,forest default C,,0,0,0,,Good food!
-Dialogue: 0,0:21:41.21,0:21:44.22,forest default C,,0,0,0,,Without a doubt some of the best\Ncarrots I've ever had!
-Dialogue: 0,0:21:44.22,0:21:45.57,forest default C,,0,0,0,,I'm going to have another one...
-Dialogue: 0,0:21:47.14,0:21:49.43,forest default C,,0,0,0,,That is so good,\Ngood, good, yeah!
-Dialogue: 0,0:21:54.47,0:21:56.84,forest default C,,0,0,0,,Some of the best...\NJust delicious...
-Dialogue: 0,0:22:16.99,0:22:21.02,forest credits C,,0,0,0,,{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs
+Dialogue: 0,0:00:02.00,0:00:08.00,forest title KB,,0,0,0,,{TIME:2000,8000}FABLES \N of the\NGREEN FOREST
+Dialogue: 0,0:00:04.00,0:00:08.00,forest ep title C,,0,0,0,,{TIME:4000,8000}{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Traps in the forest"{\i}
+Dialogue: 0,0:00:17.36,0:00:19.64,forest default C,,0,0,0,,{TIME:17360,19640}Ah... I'm awful hungry!
+Dialogue: 0,0:00:20.04,0:00:21.82,forest default C,,0,0,0,,{TIME:20040,21820}{\i1}Hey, Jerry!{\i}
+Dialogue: 0,0:00:22.17,0:00:24.08,forest default C,,0,0,0,,{TIME:22170,24080}Oh, Bobby Raccoon, what's up?
+Dialogue: 0,0:00:25.22,0:00:26.81,forest default C,,0,0,0,,{TIME:25220,26810}Better be careful, Jerry!
+Dialogue: 0,0:00:27.40,0:00:29.57,forest default C,,0,0,0,,{TIME:27400,29570}What's that mean:\N"Better be careful"?
+Dialogue: 0,0:00:29.78,0:00:33.42,forest default C,,0,0,0,,{TIME:29780,33420}It seems like some men have\Nset up traps around here...
+Dialogue: 0,0:00:33.46,0:00:34.44,forest default C,,0,0,0,,{TIME:33460,34440}Traps?
+Dialogue: 0,0:00:34.81,0:00:37.98,forest default C,,0,0,0,,{TIME:34810,37980}Sister South Wind informed us about it.
+Dialogue: 0,0:00:38.02,0:00:41.84,forest default C,,0,0,0,,{TIME:38020,41840}That she saw them last night,\Nsetting the traps.
+Dialogue: 0,0:00:42.03,0:00:43.76,forest default C,,0,0,0,,{TIME:42030,43760}You better be careful!
+Dialogue: 0,0:00:44.02,0:00:48.01,forest default C,,0,0,0,,{TIME:44020,48010}I should think that I can take\Ncare of myself... That's right.
+Dialogue: 0,0:00:48.54,0:00:52.06,forest default C,,0,0,0,,{TIME:48540,52060}I'm just trying to be helpful.\NIf you get trapped, don't blame me!
+Dialogue: 0,0:01:01.94,0:01:04.81,forest narrator C,,0,0,0,,{TIME:61940,64810}{\i1}Jerry the Muskrat, although acting arrogantly...{\i}
+Dialogue: 0,0:01:06.56,0:01:09.02,forest narrator C,,0,0,0,,{TIME:66560,69020}{\i1}...really didn't know what a trap looked like,{\i}
+Dialogue: 0,0:01:09.44,0:01:10.92,forest narrator C,,0,0,0,,{TIME:69440,70920}{\i1}nor what to be careful of.{\i}
+Dialogue: 0,0:01:11.44,0:01:15.20,forest narrator C,,0,0,0,,{TIME:71440,75200}{\i1}Right now, all that was in his head was...\Nthat he was hungry.{\i}
+Dialogue: 0,0:01:25.60,0:01:28.43,forest narrator C,,0,0,0,,{TIME:85600,88430}{\i1}Jerry wondered, is this a dream?{\i}
+Dialogue: 0,0:01:29.06,0:01:30.96,forest narrator C,,0,0,0,,{TIME:89060,90960}{\i1}Well, after all, for Jerry,{\i}
+Dialogue: 0,0:01:31.66,0:01:35.08,forest narrator C,,0,0,0,,{TIME:91660,95080}{\i1}carrots were his number one favorite food.{\i}
+Dialogue: 0,0:01:37.02,0:01:40.50,forest narrator C,,0,0,0,,{TIME:97020,100500}{\i1}Jerry didn't bother\Nto take the time to doubt or{\i}
+Dialogue: 0,0:01:40.73,0:01:42.48,forest narrator C,,0,0,0,,{TIME:100730,102480}{\i1}to wonder why carrots{\i}
+Dialogue: 0,0:01:42.80,0:01:45.72,forest narrator C,,0,0,0,,{TIME:102800,105720}{\i1}could possibly be found\Nin such a place as this?{\i}
+Dialogue: 0,0:01:59.80,0:02:04.78,forest default C,,0,0,0,,{TIME:119800,124780}Mm, mm... yum... yum!\NIt's so good, so very good...
+Dialogue: 0,0:02:04.79,0:02:09.92,forest default C,,0,0,0,,{TIME:124790,129920}Oh my, but how happy I am to be able\Nto eat my favorite food!
+Dialogue: 0,0:02:22.16,0:02:26.09,forest default C,,0,0,0,,{TIME:142160,146090}Help! Help, help... ow, ah!
+Dialogue: 0,0:02:50.11,0:02:53.82,forest default C,,0,0,0,,{TIME:170110,173820}That's why I told you all to be careful!
+Dialogue: 0,0:02:54.47,0:02:57.36,forest default C,,0,0,0,,{TIME:174470,177360}With these things we can't live\Nwith peace of mind.
+Dialogue: 0,0:02:57.36,0:02:59.84,forest default C,,0,0,0,,{TIME:177360,179840}What do you all think?\NYou're so nonchalant there, Peter,
+Dialogue: 0,0:02:59.85,0:03:02.70,forest default C,,0,0,0,,{TIME:179850,182700}but there may be a trap for your leg...
+Dialogue: 0,0:03:03.08,0:03:05.08,forest default C,,0,0,0,,{TIME:183080,185080}Hey, don't scare me like that!
+Dialogue: 0,0:03:05.66,0:03:08.68,forest default C,,0,0,0,,{TIME:185660,188680}- I'm scared, I am...\N- Better do something.
+Dialogue: 0,0:03:09.08,0:03:12.05,forest default C,,0,0,0,,{TIME:189080,192050}Where on earth are you going to find a trap?
+Dialogue: 0,0:03:12.12,0:03:14.90,forest default C,,0,0,0,,{TIME:192120,194900}Huh, if we knew that,\Nthere wouldn't be need to worry.
+Dialogue: 0,0:03:15.54,0:03:17.35,forest default C,,0,0,0,,{TIME:195540,197350}Then, what should we do?
+Dialogue: 0,0:03:17.35,0:03:20.46,forest default C,,0,0,0,,{TIME:197350,200460}That's why we were talking\Nover just what should be done...
+Dialogue: 0,0:03:20.71,0:03:23.94,forest default C,,0,0,0,,{TIME:200710,203940}Once and for all:\NLet's get rid of all those humans!
+Dialogue: 0,0:03:23.94,0:03:24.39,forest default C,,0,0,0,,{TIME:203940,204390}Huh?
+Dialogue: 0,0:03:24.74,0:03:26.54,forest default C,,0,0,0,,{TIME:204740,206540}And who's gonna get rid of them?
+Dialogue: 0,0:03:27.04,0:03:28.27,forest default C,,0,0,0,,{TIME:207040,208270}Uh... Hmm.
+Dialogue: 0,0:03:29.20,0:03:33.08,forest default C,,0,0,0,,{TIME:209200,213080}Rather than that, it would be better\Nnot to let the men to the forest at all.
+Dialogue: 0,0:03:33.98,0:03:37.96,forest default C,,0,0,0,,{TIME:213980,217960}We may say that, but they'll enter anyway,\Nthere's no way to stop them.
+Dialogue: 0,0:03:37.96,0:03:40.95,forest default C,,0,0,0,,{TIME:217960,220950}Rather, we'd better not to eat\Nthe bait on the traps...
+Dialogue: 0,0:03:41.03,0:03:43.56,forest default C,,0,0,0,,{TIME:221030,223560}It's difficult to distinguish\Nwhich is the trap bait.
+Dialogue: 0,0:03:43.62,0:03:48.06,forest default C,,0,0,0,,{TIME:223620,228060}Better to prevent them from setting up\Nthe traps in any way we possibly can.
+Dialogue: 0,0:03:48.49,0:03:50.71,forest default C,,0,0,0,,{TIME:228490,230710}And how do you keep them from doing that?
+Dialogue: 0,0:03:51.06,0:03:54.31,forest default C,,0,0,0,,{TIME:231060,234310}What are you saying?\NYou yourself don't understand a thing!
+Dialogue: 0,0:03:54.56,0:03:57.63,forest default C,,0,0,0,,{TIME:234560,237630}Huh, me? Your opinion too is completely useless.
+Dialogue: 0,0:03:58.04,0:04:02.16,forest default C,,0,0,0,,{TIME:238040,242160}Rather than that, let's talk\Nover what we should do...
+Dialogue: 0,0:04:03.74,0:04:06.42,forest default C,,0,0,0,,{TIME:243740,246420}Perhaps I could suggest a good idea?
+Dialogue: 0,0:04:07.64,0:04:09.00,forest default C,,0,0,0,,{TIME:247640,249000}Well...
+Dialogue: 0,0:04:10.06,0:04:11.84,forest default C,,0,0,0,,{TIME:250060,251840}Oh...
+Dialogue: 0,0:04:15.07,0:04:15.62,forest default C,,0,0,0,,{TIME:255070,255620}- Huh?!\N- Huh?!
+Dialogue: 0,0:04:16.37,0:04:17.58,forest default C,,0,0,0,,{TIME:256370,257580}Oh...
+Dialogue: 0,0:04:17.58,0:04:18.46,forest default C,,0,0,0,,{TIME:257580,258460}Oh...
+Dialogue: 0,0:04:22.38,0:04:23.29,forest default C,,0,0,0,,{TIME:262380,263290}Oh...
+Dialogue: 0,0:04:24.07,0:04:24.44,forest default C,,0,0,0,,{TIME:264070,264440}Huh?
+Dialogue: 0,0:04:29.53,0:04:30.52,forest default C,,0,0,0,,{TIME:269530,270520}Now, that's it!
+Dialogue: 0,0:04:31.01,0:04:33.36,forest default C,,0,0,0,,{TIME:271010,273360}Everybody, listen, I've got a good idea!
+Dialogue: 0,0:04:33.56,0:04:35.82,forest default C,,0,0,0,,{TIME:273560,275820}Tell us what the good idea is, Johnny!
+Dialogue: 0,0:04:35.97,0:04:38.32,forest default C,,0,0,0,,{TIME:275970,278320}If we can't get all our opinions coordinated,
+Dialogue: 0,0:04:38.32,0:04:42.31,forest default C,,0,0,0,,{TIME:278320,282310}why not tell Grandfather Frog about\Nthe traps and ask him his opinion?
+Dialogue: 0,0:04:42.72,0:04:47.56,forest default C,,0,0,0,,{TIME:282720,287560}Mm-hm, I see, that you mean to ask\Nthe opinion of an elder.
+Dialogue: 0,0:04:48.42,0:04:50.70,forest default C,,0,0,0,,{TIME:288420,290700}Grandfather Frog is elderly, very smart
+Dialogue: 0,0:04:50.72,0:04:53.57,forest default C,,0,0,0,,{TIME:290720,293570}and knows very well all about the old days.
+Dialogue: 0,0:04:54.06,0:04:55.73,forest default C,,0,0,0,,{TIME:294060,295730}That's a good idea!
+Dialogue: 0,0:04:55.73,0:04:58.60,forest default C,,0,0,0,,{TIME:295730,298600}Grandfather Frog might know all about traps.
+Dialogue: 0,0:04:58.60,0:05:01.98,forest default C,,0,0,0,,{TIME:298600,301980}Hey, Joe, how about\Ncalling over Grandfather Frog?
+Dialogue: 0,0:05:02.37,0:05:03.49,forest default C,,0,0,0,,{TIME:302370,303490}It's on!
+Dialogue: 0,0:05:03.94,0:05:06.50,forest default C,,0,0,0,,{TIME:303940,306500}Harry, come along with me.
+Dialogue: 0,0:05:07.70,0:05:12.55,forest narrator C,,0,0,0,,{TIME:307700,312550}{\i1}Thus, it was decided to ask for\Nan opinion from Grandfather Frog.{\i}
+Dialogue: 0,0:05:14.30,0:05:17.02,forest default C,,0,0,0,,{TIME:314300,317020}Good day!\NHey, Mr. Frog!
+Dialogue: 0,0:05:17.54,0:05:20.95,forest default C,,0,0,0,,{TIME:317540,320950}Good day, Harry!\NWhat's up, I see Joe is with you?
+Dialogue: 0,0:05:21.53,0:05:22.38,forest default C,,0,0,0,,{TIME:321530,322380}Pardon us.
+Dialogue: 0,0:05:24.06,0:05:27.95,forest default C,,0,0,0,,{TIME:324060,327950}But everyone is waiting at the Big Rock\Nfor you to come to give us advice.
+Dialogue: 0,0:05:27.95,0:05:29.82,forest default C,,0,0,0,,{TIME:327950,329820}Why, you little tricksters!
+Dialogue: 0,0:05:29.82,0:05:33.28,forest default C,,0,0,0,,{TIME:329820,333280}What kind of joke are you intending\Nto play on this person?
+Dialogue: 0,0:05:36.40,0:05:37.58,forest default C,,0,0,0,,{TIME:336400,337580}Grandfather Frog...
+Dialogue: 0,0:05:37.97,0:05:40.38,forest default C,,0,0,0,,{TIME:337970,340380}...just as you say: we are tricksters.
+Dialogue: 0,0:05:40.48,0:05:43.50,forest default C,,0,0,0,,{TIME:340480,343500}But this time were on the level,\Nit is not a trick.
+Dialogue: 0,0:05:43.70,0:05:46.77,forest default C,,0,0,0,,{TIME:343700,346770}Actually, there's a meeting being\Nheld at the Big Rock.
+Dialogue: 0,0:05:47.20,0:05:49.63,forest default C,,0,0,0,,{TIME:347200,349630}What's that? A meeting you say?
+Dialogue: 0,0:05:50.05,0:05:52.14,forest narrator C,,0,0,0,,{TIME:350050,352140}{\i1}Grandfather Frog wore a surprised look,{\i}
+Dialogue: 0,0:05:52.38,0:05:55.70,forest narrator C,,0,0,0,,{TIME:352380,355700}{\i1}but actually, Sister South Wind\Nhad already told him everything.{\i}
+Dialogue: 0,0:05:56.34,0:05:59.41,forest default C,,0,0,0,,{TIME:356340,359410}Huh? You say Grandfather Frog won't come?
+Dialogue: 0,0:05:59.64,0:06:02.26,forest default C,,0,0,0,,{TIME:359640,362260}The other day, I pulled down the water lily
+Dialogue: 0,0:06:02.28,0:06:04.69,forest default C,,0,0,0,,{TIME:362280,364690}that old Grandfather Frog was sitting on.
+Dialogue: 0,0:06:05.10,0:06:06.23,forest default C,,0,0,0,,{TIME:365100,366230}How disgusting!
+Dialogue: 0,0:06:06.94,0:06:08.10,forest default C,,0,0,0,,{TIME:366940,368100}Okay, I'll go call him.
+Dialogue: 0,0:06:08.71,0:06:11.67,forest default C,,0,0,0,,{TIME:368710,371670}- Oh...\N- Oh, Johnny, be careful of the traps!
+Dialogue: 0,0:06:12.24,0:06:12.71,forest default C,,0,0,0,,{TIME:372240,372710}Okay!
+Dialogue: 0,0:06:14.46,0:06:15.29,forest default C,,0,0,0,,{TIME:374460,375290}Ah...
+Dialogue: 0,0:06:18.98,0:06:19.94,forest default C,,0,0,0,,{TIME:378980,379940}Grandfather?
+Dialogue: 0,0:06:20.76,0:06:22.70,forest default C,,0,0,0,,{TIME:380760,382700}I have a request, Grandfather Frog...
+Dialogue: 0,0:06:22.92,0:06:25.28,forest default C,,0,0,0,,{TIME:382920,385280}Please, lend us your wisdom! Please...
+Dialogue: 0,0:06:26.52,0:06:27.81,forest default C,,0,0,0,,{TIME:386520,387810}Yeah, yeah.
+Dialogue: 0,0:06:28.59,0:06:33.50,forest default C,,0,0,0,,{TIME:388590,393500}At this rate, we-we will not be able\Nto continue to live in the forest.
+Dialogue: 0,0:06:34.04,0:06:34.94,forest default C,,0,0,0,,{TIME:394040,394940}Uh-hm.
+Dialogue: 0,0:06:36.34,0:06:41.22,forest default C,,0,0,0,,{TIME:396340,401220}I beg of you, if something isn't done,\Nwe will all be captured by man...
+Dialogue: 0,0:06:48.08,0:06:52.37,forest default C,,0,0,0,,{TIME:408080,412370}Have everyone assembled by the trap\Nthat Jerry was almost caught in.
+Dialogue: 0,0:06:52.79,0:06:57.36,forest default C,,0,0,0,,{TIME:412790,417360}Yes? Then you-you are really\Ngonna tell us about the traps?
+Dialogue: 0,0:07:01.09,0:07:03.32,forest default C,,0,0,0,,{TIME:421090,423320}Now everyone, look carefully.
+Dialogue: 0,0:07:04.04,0:07:06.62,forest default C,,0,0,0,,{TIME:424040,426620}This is the trap made by man!
+Dialogue: 0,0:07:06.62,0:07:07.74,forest default C,,0,0,0,,{TIME:426620,427740}- Oh...\N- Oh...
+Dialogue: 0,0:07:07.75,0:07:10.17,forest default C,,0,0,0,,{TIME:427750,430170}A truly frightening instrument.
+Dialogue: 0,0:07:10.64,0:07:11.26,forest default C,,0,0,0,,{TIME:430640,431260}Oh...
+Dialogue: 0,0:07:12.16,0:07:14.51,forest default C,,0,0,0,,{TIME:432160,434510}Hey, this is a trap, this is a trap!
+Dialogue: 0,0:07:15.16,0:07:18.68,forest default C,,0,0,0,,{TIME:435160,438680}That's right.\NBobby, push this with all your might.
+Dialogue: 0,0:07:19.62,0:07:21.49,forest default C,,0,0,0,,{TIME:439620,441490}Nay, not me!
+Dialogue: 0,0:07:21.98,0:07:22.88,forest default C,,0,0,0,,{TIME:441980,442880}It's alright.
+Dialogue: 0,0:07:23.15,0:07:26.12,forest default C,,0,0,0,,{TIME:443150,446120}Once a trap has been released\Nthere's not a thing to worry about.
+Dialogue: 0,0:07:26.24,0:07:26.96,forest default C,,0,0,0,,{TIME:446240,446960}Now, try it!
+Dialogue: 0,0:07:28.96,0:07:29.74,forest default C,,0,0,0,,{TIME:448960,449740}Yeah...
+Dialogue: 0,0:07:37.55,0:07:38.92,forest default C,,0,0,0,,{TIME:457550,458920}- Oh...!\N- Oh...!
+Dialogue: 0,0:07:43.86,0:07:45.55,forest default C,,0,0,0,,{TIME:463860,465550}Uh-huh, uh-huh.
+Dialogue: 0,0:07:49.81,0:07:50.64,forest default C,,0,0,0,,{TIME:469810,470640}- Huh?!\N- Oh!
+Dialogue: 0,0:07:52.47,0:07:53.20,forest default C,,0,0,0,,{TIME:472470,473200}Eh!
+Dialogue: 0,0:07:53.88,0:07:55.37,forest default C,,0,0,0,,{TIME:473880,475370}Don't put your hands out.
+Dialogue: 0,0:07:55.51,0:07:58.08,forest default C,,0,0,0,,{TIME:475510,478080}Now, this time, don't put out your hands!
+Dialogue: 0,0:08:00.35,0:08:01.46,forest default C,,0,0,0,,{TIME:480350,481460}Ah. Mm.
+Dialogue: 0,0:08:02.29,0:08:04.19,forest default C,,0,0,0,,{TIME:482290,484190}Okay, watch closely.
+Dialogue: 0,0:08:05.60,0:08:07.42,forest default C,,0,0,0,,{TIME:485600,487420}- There!\N- Huh... Oh...!
+Dialogue: 0,0:08:11.28,0:08:12.70,forest default C,,0,0,0,,{TIME:491280,492700}Eh!
+Dialogue: 0,0:08:17.73,0:08:21.66,forest default C,,0,0,0,,{TIME:497730,501660}That's how it is.\NBobby, push the spring once again.
+Dialogue: 0,0:08:22.32,0:08:25.29,forest default C,,0,0,0,,{TIME:502320,505290}Why, why me again?
+Dialogue: 0,0:08:30.16,0:08:31.27,forest default C,,0,0,0,,{TIME:510160,511270}- Pfew!\N- Pfew!
+Dialogue: 0,0:08:33.22,0:08:37.03,forest default C,,0,0,0,,{TIME:513220,517030}As you can see, if you place your foot\Non this round spot,
+Dialogue: 0,0:08:37.74,0:08:40.06,forest default C,,0,0,0,,{TIME:517740,520060}the weight separates this metal lock,
+Dialogue: 0,0:08:40.56,0:08:42.52,forest default C,,0,0,0,,{TIME:520560,522520}which releases this spring.
+Dialogue: 0,0:08:44.08,0:08:45.74,forest default C,,0,0,0,,{TIME:524080,525740}- Wow, what a fright!\N- Wow, what a fright!
+Dialogue: 0,0:08:46.04,0:08:50.10,forest default C,,0,0,0,,{TIME:526040,530100}Dirt or grass over this trap\Nmakes it almost unnoticeable.
+Dialogue: 0,0:08:50.63,0:08:53.39,forest default C,,0,0,0,,{TIME:530630,533390}Peter, there might be one\Nright there by your feet.
+Dialogue: 0,0:08:54.73,0:08:56.78,forest default C,,0,0,0,,{TIME:534730,536780}Ah! What'll I do?
+Dialogue: 0,0:08:58.11,0:09:01.00,forest default C,,0,0,0,,{TIME:538110,541000}Only scaring ya, there's none there.
+Dialogue: 0,0:09:01.57,0:09:03.74,forest default C,,0,0,0,,{TIME:541570,543740}Don't ever frighten me like that again!
+Dialogue: 0,0:09:04.38,0:09:07.46,forest default C,,0,0,0,,{TIME:544380,547460}Anyway, you never know where it'll be,
+Dialogue: 0,0:09:07.46,0:09:09.23,forest default C,,0,0,0,,{TIME:547460,549230}so always be careful.
+Dialogue: 0,0:09:09.26,0:09:11.10,forest default C,,0,0,0,,{TIME:549260,551100}- Only...\N- Only?
+Dialogue: 0,0:09:12.73,0:09:16.52,forest default C,,0,0,0,,{TIME:552730,556520}Usually around a trap\Nare placed some delicious bait.
+Dialogue: 0,0:09:17.18,0:09:21.54,forest default C,,0,0,0,,{TIME:557180,561540}That's right, the one that almost caught me\Nhad my favorite carrots around it.
+Dialogue: 0,0:09:21.66,0:09:22.38,forest default C,,0,0,0,,{TIME:561660,562380}Oh!
+Dialogue: 0,0:09:23.63,0:09:28.15,forest default C,,0,0,0,,{TIME:563630,568150}Now we must find, without exception,\Nall of the traps set by man!
+Dialogue: 0,0:09:28.24,0:09:30.16,forest default C,,0,0,0,,{TIME:568240,570160}- But how are we suppose to find them?\N- But how are we suppose to find them?
+Dialogue: 0,0:09:30.89,0:09:31.94,forest default C,,0,0,0,,{TIME:570890,571940}Just find them.
+Dialogue: 0,0:09:32.92,0:09:34.05,forest default C,,0,0,0,,{TIME:572920,574050}Just find them?
+Dialogue: 0,0:09:35.12,0:09:38.20,forest default C,,0,0,0,,{TIME:575120,578200}Use your eyes and your noses.\NYour eyes... your noses...
+Dialogue: 0,0:09:39.55,0:09:40.82,forest default C,,0,0,0,,{TIME:579550,580820}- Eyes and noses?\N- Eyes and noses?
+Dialogue: 0,0:09:41.38,0:09:44.61,forest default C,,0,0,0,,{TIME:581380,584610}I told ya earlier that if you see some food
+Dialogue: 0,0:09:44.61,0:09:48.44,forest default C,,0,0,0,,{TIME:584610,588440}in a spot usually not found\Nthen that is a warning.
+Dialogue: 0,0:09:48.68,0:09:52.30,forest default C,,0,0,0,,{TIME:588680,592300}And, without exception,\Nthere will be the scent of man there.
+Dialogue: 0,0:09:52.52,0:09:53.23,forest default C,,0,0,0,,{TIME:592520,593230}- Eh?!\N- Eh?!
+Dialogue: 0,0:09:53.93,0:09:55.97,forest default C,,0,0,0,,{TIME:593930,595970}If you find one as I just showed you,
+Dialogue: 0,0:09:56.53,0:09:59.76,forest default C,,0,0,0,,{TIME:596530,599760}hit it with a piece of stick\Nand the trap releases.
+Dialogue: 0,0:10:00.05,0:10:03.62,forest default C,,0,0,0,,{TIME:600050,603620}Hey, let's do it! Everyone look\Nfor traps all around here.
+Dialogue: 0,0:10:04.24,0:10:05.05,forest default C,,0,0,0,,{TIME:604240,605050}Uh-huh.
+Dialogue: 0,0:10:05.62,0:10:10.00,forest default C,,0,0,0,,{TIME:605620,610000}Uh-huh. Although I'm very brave,\NI feel a chill.
+Dialogue: 0,0:10:10.66,0:10:13.34,forest default C,,0,0,0,,{TIME:610660,613340}- Okay, let's find them.\N- Without exception.
+Dialogue: 0,0:10:14.34,0:10:16.78,forest default C,,0,0,0,,{TIME:614340,616780}Let's find them!\NLet's do it, everyone!
+Dialogue: 0,0:10:17.24,0:10:18.60,forest default C,,0,0,0,,{TIME:617240,618600}Yes, let's do it!
+Dialogue: 0,0:10:18.60,0:10:21.44,forest default C,,0,0,0,,{TIME:618600,621440}Yes, that's right, let's do it!\NCome on, everyone, let's do it now!
+Dialogue: 0,0:10:23.00,0:10:28.20,forest default C,,0,0,0,,{TIME:623000,628200}The amount you guys can find,\NI can find all by myself. I'll show ya! Yeah!
+Dialogue: 0,0:10:34.26,0:10:34.68,forest default C,,0,0,0,,{TIME:634260,634680}Hm?
+Dialogue: 0,0:10:44.45,0:10:45.89,forest default C,,0,0,0,,{TIME:644450,645890}There's something wrong?
+Dialogue: 0,0:10:46.53,0:10:48.39,forest default C,,0,0,0,,{TIME:646530,648390}I smell men-scent around here...
+Dialogue: 0,0:10:49.84,0:10:52.36,forest default C,,0,0,0,,{TIME:649840,652360}Did you say "men-scent"?
+Dialogue: 0,0:10:54.56,0:10:58.08,forest default C,,0,0,0,,{TIME:654560,658080}No... No...\NIt's much more like fish, I think.
+Dialogue: 0,0:11:08.97,0:11:10.84,forest default C,,0,0,0,,{TIME:668970,670840}A fish! Harry, come on!
+Dialogue: 0,0:11:11.04,0:11:14.26,forest default C,,0,0,0,,{TIME:671040,674260}Someone left a fish by the bank!\NCome on, let's feast!
+Dialogue: 0,0:11:14.66,0:11:18.29,forest default C,,0,0,0,,{TIME:674660,678290}Joe, don't touch that fish,\Ndon't touch that fish, Joe! Stop, Joe!
+Dialogue: 0,0:11:18.36,0:11:20.52,forest default C,,0,0,0,,{TIME:678360,680520}Oh, Harry...\NWhat's the matter with you?
+Dialogue: 0,0:11:20.52,0:11:23.37,forest default C,,0,0,0,,{TIME:680520,683370}Do you think I'm going to eat it up\Nbefore you get here?
+Dialogue: 0,0:11:25.89,0:11:26.73,forest default C,,0,0,0,,{TIME:685890,686730}{\i1}Stop it!{\i}
+Dialogue: 0,0:11:27.09,0:11:29.87,forest default C,,0,0,0,,{TIME:687090,689870}Stop!
+Dialogue: 0,0:11:50.90,0:11:53.35,forest default C,,0,0,0,,{TIME:710900,713350}Ouch... Oh my, it hurts!
+Dialogue: 0,0:12:08.67,0:12:12.52,forest default C,,0,0,0,,{TIME:728670,732520}Didn't I tell you? Didn't I tell you\Nthat it was very dangerous?
+Dialogue: 0,0:12:12.52,0:12:15.40,forest default C,,0,0,0,,{TIME:732520,735400}Didn't Grandfather Frog say\Nthat if you found any food stuffed
+Dialogue: 0,0:12:15.40,0:12:18.54,forest default C,,0,0,0,,{TIME:735400,738540}in any unusual place,\Nto be careful, huh?
+Dialogue: 0,0:12:18.84,0:12:22.12,forest default C,,0,0,0,,{TIME:738840,742120}Now...\NOh my, did that hurt...
+Dialogue: 0,0:12:31.66,0:12:32.97,forest default C,,0,0,0,,{TIME:751660,752970}What's the matter?
+Dialogue: 0,0:12:33.22,0:12:37.28,forest default C,,0,0,0,,{TIME:753220,757280}- Oh, it's nothing. We found a trap.\N- That's no reason to argue!
+Dialogue: 0,0:12:38.90,0:12:42.98,forest default C,,0,0,0,,{TIME:758900,762980}You should be glad. Terrific!\NJoe, I've changed my opinion of you.
+Dialogue: 0,0:12:47.09,0:12:49.90,forest lyrics C,,0,0,0,,{TIME:767090,769900}{\i1}Joe and Harry found a trap,\Nfound a trap!{\i}
+Dialogue: 0,0:12:52.00,0:12:53.46,forest default C,,0,0,0,,{TIME:772000,773460}- Oh?\N- Huh?
+Dialogue: 0,0:12:54.15,0:12:57.78,forest default C,,0,0,0,,{TIME:774150,777780}Johnny, I think there's something\Nvery-very strange going on here.
+Dialogue: 0,0:12:58.10,0:13:00.18,forest default C,,0,0,0,,{TIME:778100,780180}Eh, something strange going on here?
+Dialogue: 0,0:13:04.44,0:13:08.76,forest default C,,0,0,0,,{TIME:784440,788760}- My, what a delicious looking carrot!\N- Don't, Polly, don't do it!
+Dialogue: 0,0:13:09.73,0:13:12.48,forest default C,,0,0,0,,{TIME:789730,792480}A carrot in this place is rather strange...
+Dialogue: 0,0:13:20.99,0:13:22.22,forest default C,,0,0,0,,{TIME:800990,802220}Oh...
+Dialogue: 0,0:13:26.21,0:13:26.92,forest default C,,0,0,0,,{TIME:806210,806920}Oh!
+Dialogue: 0,0:13:37.82,0:13:39.28,forest default C,,0,0,0,,{TIME:817820,819280}Aah!
+Dialogue: 0,0:13:39.33,0:13:40.73,forest default C,,0,0,0,,{TIME:819330,820730}Just as I thought!
+Dialogue: 0,0:13:41.55,0:13:42.09,forest default C,,0,0,0,,{TIME:821550,822090}{\i1}What?{\i}
+Dialogue: 0,0:13:44.99,0:13:48.93,forest default C,,0,0,0,,{TIME:824990,828930}Hey, Johnny has found a trap,\NJohnny has found one, he's found a trap!
+Dialogue: 0,0:14:00.54,0:14:01.86,forest default C,,0,0,0,,{TIME:840540,841860}Ah...!
+Dialogue: 0,0:14:04.36,0:14:05.76,forest default C,,0,0,0,,{TIME:844360,845760}Well, well...
+Dialogue: 0,0:14:06.74,0:14:07.66,forest default C,,0,0,0,,{TIME:846740,847660}Yeah.
+Dialogue: 0,0:14:09.82,0:14:10.33,forest default C,,0,0,0,,{TIME:849820,850330}Yep.
+Dialogue: 0,0:14:12.86,0:14:15.05,forest default C,,0,0,0,,{TIME:852860,855050}{\i1}Just as I thought!{\i}
+Dialogue: 0,0:14:18.64,0:14:22.47,forest default C,,0,0,0,,{TIME:858640,862470}There's a man heading this way!\NIt must be the one who set the traps!
+Dialogue: 0,0:14:26.10,0:14:26.87,forest default C,,0,0,0,,{TIME:866100,866870}- Oh!\N- Oh!
+Dialogue: 0,0:15:17.87,0:15:19.02,forest default C,,0,0,0,,{TIME:917870,919020}Oh!!
+Dialogue: 0,0:15:27.28,0:15:28.22,forest default C,,0,0,0,,{TIME:927280,928220}Ah!
+Dialogue: 0,0:15:29.14,0:15:30.53,forest default C,,0,0,0,,{TIME:929140,930530}This one's no good too.
+Dialogue: 0,0:15:31.58,0:15:34.06,forest default C,,0,0,0,,{TIME:931580,934060}But there are animal tracks,\Nthey positively came close.
+Dialogue: 0,0:15:35.33,0:15:36.87,forest default C,,0,0,0,,{TIME:935330,936870}Okay, let's set it once more.
+Dialogue: 0,0:16:09.48,0:16:12.09,forest default C,,0,0,0,,{TIME:969480,972090}Okay, all clear, release the traps!
+Dialogue: 0,0:16:39.13,0:16:41.21,forest default C,,0,0,0,,{TIME:999130,1001210}Good, good! Go, go!
+Dialogue: 0,0:16:42.22,0:16:44.11,forest default C,,0,0,0,,{TIME:1002220,1004110}Uh-hm, uh-hm.
+Dialogue: 0,0:16:52.41,0:16:54.20,forest default C,,0,0,0,,{TIME:1012410,1014200}Look, again it's escaped!
+Dialogue: 0,0:16:55.41,0:16:56.61,forest default C,,0,0,0,,{TIME:1015410,1016610}This one too!
+Dialogue: 0,0:16:58.16,0:16:59.84,forest default C,,0,0,0,,{TIME:1018160,1019840}This one's been tampered with too.
+Dialogue: 0,0:17:04.36,0:17:06.43,forest default C,,0,0,0,,{TIME:1024360,1026430}This one too has been tampered with!
+Dialogue: 0,0:17:08.51,0:17:10.82,forest default C,,0,0,0,,{TIME:1028510,1030820}This time, let's put lots of bait on it.
+Dialogue: 0,0:17:11.46,0:17:14.04,forest default C,,0,0,0,,{TIME:1031460,1034040}The thing to do is hide the traps,\Nso it won't be noticed.
+Dialogue: 0,0:17:17.25,0:17:18.54,forest default C,,0,0,0,,{TIME:1037250,1038540}We'll come back later.
+Dialogue: 0,0:17:22.96,0:17:24.80,forest default C,,0,0,0,,{TIME:1042960,1044800}Hey... This is a rabbit path...
+Dialogue: 0,0:17:27.31,0:17:28.94,forest default C,,0,0,0,,{TIME:1047310,1048940}Okay...
+Dialogue: 0,0:17:36.39,0:17:38.44,forest default C,,0,0,0,,{TIME:1056390,1058440}- Good morning!\N- Hush!
+Dialogue: 0,0:17:46.28,0:17:47.85,forest default C,,0,0,0,,{TIME:1066280,1067850}Many thanks for your trouble!
+Dialogue: 0,0:17:54.58,0:17:56.58,forest default C,,0,0,0,,{TIME:1074580,1076580}Now, today's bait is really something...
+Dialogue: 0,0:17:56.62,0:17:59.83,forest default C,,0,0,0,,{TIME:1076620,1079830}After you release the trap,\Npick up the bait and everyone assemble.
+Dialogue: 0,0:18:00.22,0:18:03.00,forest default C,,0,0,0,,{TIME:1080220,1083000}Grandfather, what do you intend to do with them?
+Dialogue: 0,0:18:03.78,0:18:07.18,forest default C,,0,0,0,,{TIME:1083780,1087180}Never mind, just hurry.\NSomething for your later pleasure.
+Dialogue: 0,0:18:07.77,0:18:08.83,forest default C,,0,0,0,,{TIME:1087770,1088830}Let's go, Polly...
+Dialogue: 0,0:18:09.34,0:18:09.72,forest default C,,0,0,0,,{TIME:1089340,1089720}...Peter.
+Dialogue: 0,0:18:10.29,0:18:13.88,forest default C,,0,0,0,,{TIME:1090290,1093880}There's some, there's some! A whole bunch\Nof carrots! A whole bunch of carrots!
+Dialogue: 0,0:18:20.69,0:18:23.70,forest default C,,0,0,0,,{TIME:1100690,1103700}Fishes, fishes! A whole bunch of fishes,\Nfishes, fishes!
+Dialogue: 0,0:18:25.84,0:18:29.27,forest default C,,0,0,0,,{TIME:1105840,1109270}Come on, little trap,\Ncome on over here, let me find ya.
+Dialogue: 0,0:18:29.77,0:18:33.75,forest default C,,0,0,0,,{TIME:1109770,1113750}Cabbages, cabbages, cabbages, carrots,\Ncorn and are some potatoes too!
+Dialogue: 0,0:18:43.85,0:18:44.82,forest default C,,0,0,0,,{TIME:1123850,1124820}A-ha!
+Dialogue: 0,0:18:54.66,0:18:58.06,forest default C,,0,0,0,,{TIME:1134660,1138060}Polly, come here!\NHelp me carry these lushes goodies!
+Dialogue: 0,0:18:58.78,0:19:00.08,forest default C,,0,0,0,,{TIME:1138780,1140080}Oh, is it alright?
+Dialogue: 0,0:19:00.70,0:19:01.85,forest default C,,0,0,0,,{TIME:1140700,1141850}Oh!
+Dialogue: 0,0:19:02.32,0:19:05.56,forest default C,,0,0,0,,{TIME:1142320,1145560}Johnny, help me! My foot, my foot!
+Dialogue: 0,0:19:06.62,0:19:07.14,forest default C,,0,0,0,,{TIME:1146620,1147140}What?
+Dialogue: 0,0:19:07.75,0:19:08.56,forest default C,,0,0,0,,{TIME:1147750,1148560}What's the matter?
+Dialogue: 0,0:19:11.74,0:19:14.09,forest default C,,0,0,0,,{TIME:1151740,1154090}- Oh... ow...\N- Ah...!
+Dialogue: 0,0:19:14.33,0:19:15.48,forest default C,,0,0,0,,{TIME:1154330,1155480}- Polly!\N- Mm... Mmm... Mmm...
+Dialogue: 0,0:19:17.36,0:19:20.84,forest default C,,0,0,0,,{TIME:1157360,1160840}The men, the men, the men are coming!\NThe men are coming!
+Dialogue: 0,0:19:20.84,0:19:21.84,forest default C,,0,0,0,,{TIME:1160840,1161840}- Huh?\N- Oh?
+Dialogue: 0,0:19:22.04,0:19:24.46,forest default C,,0,0,0,,{TIME:1162040,1164460}Hurry and save Polly!\NHurry and save Polly!
+Dialogue: 0,0:19:24.72,0:19:26.58,forest default C,,0,0,0,,{TIME:1164720,1166580}Hurry, Polly, let's flee!
+Dialogue: 0,0:19:26.86,0:19:29.50,forest default C,,0,0,0,,{TIME:1166860,1169500}Oh, oh, my leg...
+Dialogue: 0,0:19:30.68,0:19:33.40,forest default C,,0,0,0,,{TIME:1170680,1173400}Ow, oh, it hurts!... It hurts!
+Dialogue: 0,0:19:34.53,0:19:38.72,forest default C,,0,0,0,,{TIME:1174530,1178720}No good, no good. It's no use pulling,\Nrather just check the base of the wire.
+Dialogue: 0,0:19:39.24,0:19:39.58,forest default C,,0,0,0,,{TIME:1179240,1179580}Huh?
+Dialogue: 0,0:19:40.17,0:19:43.04,forest default C,,0,0,0,,{TIME:1180170,1183040}Better hurry, the men are just\Nover there, hurry!
+Dialogue: 0,0:19:43.97,0:19:44.98,forest default C,,0,0,0,,{TIME:1183970,1184980}Oh, ow!
+Dialogue: 0,0:19:55.55,0:19:57.14,forest default C,,0,0,0,,{TIME:1195550,1197140}Hurry, hurry, hurry!
+Dialogue: 0,0:20:05.74,0:20:08.00,forest default C,,0,0,0,,{TIME:1205740,1208000}They're here, the men are just over there!
+Dialogue: 0,0:20:08.68,0:20:10.51,forest default C,,0,0,0,,{TIME:1208680,1210510}No...!
+Dialogue: 0,0:20:14.90,0:20:15.87,forest default C,,0,0,0,,{TIME:1214900,1215870}Ah...
+Dialogue: 0,0:20:23.82,0:20:25.48,forest default C,,0,0,0,,{TIME:1223820,1225480}Ah! They're here!
+Dialogue: 0,0:20:41.94,0:20:42.90,forest default C,,0,0,0,,{TIME:1241940,1242900}- Ah...\N- Ah...
+Dialogue: 0,0:20:44.22,0:20:45.07,forest default C,,0,0,0,,{TIME:1244220,1245070}- Oh!\N- Oh!
+Dialogue: 0,0:20:55.71,0:20:56.17,forest default C,,0,0,0,,{TIME:1255710,1256170}Look!
+Dialogue: 0,0:20:56.66,0:21:00.87,forest default C,,0,0,0,,{TIME:1256660,1260870}I can't figure it. The trap is released\Nand all the bait has been swiped.
+Dialogue: 0,0:21:09.65,0:21:14.34,forest default C,,0,0,0,,{TIME:1269650,1274340}Now, with the bait from the traps,\Ntime for a big party!
+Dialogue: 0,0:21:14.38,0:21:15.76,forest default C,,0,0,0,,{TIME:1274380,1275760}- Yeah!\N- Yeah!
+Dialogue: 0,0:21:18.67,0:21:20.15,forest default C,,0,0,0,,{TIME:1278670,1280150}Oh, boy, this is, yeah...
+Dialogue: 0,0:21:28.54,0:21:31.14,forest default C,,0,0,0,,{TIME:1288540,1291140}- Well, Reddy, having a party all by yourself?\N- Yeah...
+Dialogue: 0,0:21:37.11,0:21:38.30,forest default C,,0,0,0,,{TIME:1297110,1298300}Yummy, yummy.
+Dialogue: 0,0:21:39.21,0:21:41.16,forest default C,,0,0,0,,{TIME:1299210,1301160}Good food!
+Dialogue: 0,0:21:41.21,0:21:44.22,forest default C,,0,0,0,,{TIME:1301210,1304220}Without a doubt some of the best\Ncarrots I've ever had!
+Dialogue: 0,0:21:44.22,0:21:45.57,forest default C,,0,0,0,,{TIME:1304220,1305570}I'm going to have another one...
+Dialogue: 0,0:21:47.14,0:21:49.43,forest default C,,0,0,0,,{TIME:1307140,1309430}That is so good,\Ngood, good, yeah!
+Dialogue: 0,0:21:54.47,0:21:56.84,forest default C,,0,0,0,,{TIME:1314470,1316840}Some of the best...\NJust delicious...
+Dialogue: 0,0:22:16.99,0:22:21.02,forest credits C,,0,0,0,,{TIME:1336990,1341020}{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs

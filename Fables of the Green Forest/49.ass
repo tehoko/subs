@@ -14,262 +14,262 @@ Group: OldCastle & South Wind Subs
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,5,10,10,10,1
-Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
-Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.2,1.5,2,10,10,10,1
+Style: forest title KB,Mf Kazincbarcika,80,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,5,10,10,10,1
+Style: forest ep title C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest default C,Carlito,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest lyrics C,Carlito,35,&H001BEAED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest narrator C,Carlito,35,&H0025CE1D,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
+Style: forest credits C,Carlito,35,&H001BEAED,&H00090AE2,&H00000000,&H00000000,0,-1,0,0,100.0,100.0,0.0,0.0,1,1.2,1.5,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.16,0:00:09.16,forest title KB,,0,0,0,,FABLES \N of the\NGREEN FOREST
-Dialogue: 0,0:00:06.30,0:00:09.16,forest ep title C,,0,0,0,,{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Danny in the snow"{\i}
-Dialogue: 0,0:00:10.50,0:00:13.29,forest narrator C,,0,0,0,,{\i1}The snow has finally started\Nto fall in the Green Forest.{\i}
-Dialogue: 0,0:00:13.72,0:00:16.23,forest narrator C,,0,0,0,,{\i1}Johnny and Polly are both\Nsnuggled in their home.{\i}
-Dialogue: 0,0:00:16.70,0:00:20.00,forest narrator C,,0,0,0,,{\i1}And so the forest has become as silent\Nas in the middle of the night.{\i}
-Dialogue: 0,0:00:20.44,0:00:23.69,forest narrator C,,0,0,0,,{\i1}But there are animals that love the snow.\NPeter Rabbit is one of them.{\i}
-Dialogue: 0,0:00:37.71,0:00:41.48,forest default C,,0,0,0,,Peter... today is the day...!\NI'm gonna catch him...!
-Dialogue: 0,0:00:47.82,0:00:49.74,forest default C,,0,0,0,,Johnny, Johnny, wake up!
-Dialogue: 0,0:00:50.04,0:00:52.93,forest default C,,0,0,0,,Come on, it's so much fun outside!
-Dialogue: 0,0:00:53.65,0:00:57.14,forest default C,,0,0,0,,I can't... I can't play outside.\NI'm preparing for the winter.
-Dialogue: 0,0:00:57.89,0:01:01.68,forest default C,,0,0,0,,It's a lot of fun to play "hide and go seek"\Nin the snow. Come on, let's go!
-Dialogue: 0,0:01:02.82,0:01:05.46,forest default C,,0,0,0,,Play in the snow?\NHas it snowed that much already?
-Dialogue: 0,0:01:05.64,0:01:08.39,forest default C,,0,0,0,,Yes, it has, in the Green Meadow.\NLet's go!
-Dialogue: 0,0:01:09.08,0:01:12.45,forest default C,,0,0,0,,Oh, no-no-no!\NAll the more reason why I can't.
-Dialogue: 0,0:01:12.91,0:01:16.36,forest default C,,0,0,0,,- Hey, isn't that Peter?\N- That's right, it's Peter!
-Dialogue: 0,0:01:18.62,0:01:21.47,forest default C,,0,0,0,,Hey, Peter, what's the matter,\Nwhy the big rush?
-Dialogue: 0,0:01:21.80,0:01:24.71,forest default C,,0,0,0,,- Oh, run and hide, it's Reddy, he's chasing me!\N- It's Reddy?
-Dialogue: 0,0:01:42.23,0:01:42.90,forest default C,,0,0,0,,Pfew!
-Dialogue: 0,0:01:45.64,0:01:47.28,forest default C,,0,0,0,,That Reddy, he's gone.
-Dialogue: 0,0:01:49.52,0:01:51.54,forest default C,,0,0,0,,Oh, you be careful now, Danny.
-Dialogue: 0,0:01:51.70,0:01:55.78,forest default C,,0,0,0,,- Someday, you'll be chased by Reddy, too.\N- Me? No problem!
-Dialogue: 0,0:01:56.24,0:01:59.76,forest default C,,0,0,0,,I'm a coward. But a coward who uses\Nhis head all the time!
-Dialogue: 0,0:02:00.26,0:02:02.37,forest default C,,0,0,0,,Yeah... I use my head too.
-Dialogue: 0,0:02:02.66,0:02:05.72,forest default C,,0,0,0,,Well... I guess I go run around\Nin the snow at the Green Meadow.
-Dialogue: 0,0:02:06.44,0:02:10.96,forest default C,,0,0,0,,I don't know. You'd better be careful.\NYou never know. Reddy might still be near.
-Dialogue: 0,0:02:11.56,0:02:14.62,forest default C,,0,0,0,,No problem. As long as there's some snow,\NI'm not afraid of Reddy!
-Dialogue: 0,0:02:19.54,0:02:21.95,forest default C,,0,0,0,,Hm! For a shrimp, that guy sure does talk big.
-Dialogue: 0,0:02:22.04,0:02:25.32,forest default C,,0,0,0,,He's the kind of guy who oughta get caught\Nby Reddy. Don't you think so, Johnny?
-Dialogue: 0,0:02:28.58,0:02:30.31,forest default C,,0,0,0,,Danny, don't get too smart now!
-Dialogue: 0,0:02:31.14,0:02:32.86,forest default C,,0,0,0,,- Bye!\N- Be careful now!
-Dialogue: 0,0:02:35.51,0:02:37.81,forest default C,,0,0,0,,Now, where shall I dig a tunnel today?
-Dialogue: 0,0:02:45.32,0:02:46.43,forest default C,,0,0,0,,{\i1}One. Two.{\i}
-Dialogue: 0,0:02:48.07,0:02:48.88,forest default C,,0,0,0,,Oh...!
-Dialogue: 0,0:02:50.63,0:02:53.53,forest default C,,0,0,0,,Johnny should've come with me. Yay!
-Dialogue: 0,0:02:53.98,0:02:55.97,forest default C,,0,0,0,,Well. Now it's this way!
-Dialogue: 0,0:02:58.20,0:03:00.48,forest narrator C,,0,0,0,,{\i1}Danny really loves playing in the snow.{\i}
-Dialogue: 0,0:03:01.36,0:03:04.18,forest narrator C,,0,0,0,,{\i1}He loves digging tunnels, everywhere.{\i}
-Dialogue: 0,0:03:06.58,0:03:08.89,forest narrator C,,0,0,0,,{\i1}This is what Danny loves doing the best.{\i}
-Dialogue: 0,0:03:09.53,0:03:12.79,forest narrator C,,0,0,0,,{\i1}He's happy under the snow and on top of the snow.{\i}
-Dialogue: 0,0:03:13.10,0:03:15.76,forest narrator C,,0,0,0,,{\i1}Whatever he's doing, the snow is his life.{\i}
-Dialogue: 0,0:03:15.96,0:03:17.70,forest narrator C,,0,0,0,,{\i1}He loves digging tunnels.{\i}
-Dialogue: 0,0:03:25.52,0:03:26.26,forest default C,,0,0,0,,Hm...!
-Dialogue: 0,0:03:45.61,0:03:47.98,forest default C,,0,0,0,,That Peter, where could he have hidden?
-Dialogue: 0,0:03:48.08,0:03:51.23,forest default C,,0,0,0,,Today of all days I thought I'd catch him.
-Dialogue: 0,0:03:51.32,0:03:53.42,forest default C,,0,0,0,,Sure makes a fast getaway.
-Dialogue: 0,0:03:55.11,0:03:59.58,forest default C,,0,0,0,,Hm. I wonder where he could have... Oh!
-Dialogue: 0,0:04:03.73,0:04:04.38,forest default C,,0,0,0,,Hm...!
-Dialogue: 0,0:04:16.96,0:04:19.72,forest default C,,0,0,0,,I let Peter escape, but Danny is here.
-Dialogue: 0,0:04:19.73,0:04:22.02,forest default C,,0,0,0,,{\i1}I'm in luck today...!{\i}
-Dialogue: 0,0:04:49.32,0:04:52.82,forest default C,,0,0,0,,Darn it! A little more. I'll catch him.
-Dialogue: 0,0:04:52.99,0:04:54.40,forest default C,,0,0,0,,{\i1}Yoohoo!{\i}
-Dialogue: 0,0:04:54.92,0:04:56.34,forest default C,,0,0,0,,Here I am, here I am!
-Dialogue: 0,0:04:57.34,0:04:58.56,forest default C,,0,0,0,,You little rascal!
-Dialogue: 0,0:05:02.53,0:05:04.74,forest default C,,0,0,0,,Reddy, here I am, here I am!
-Dialogue: 0,0:05:13.75,0:05:14.62,forest default C,,0,0,0,,That's it!
-Dialogue: 0,0:05:15.49,0:05:19.52,forest default C,,0,0,0,,{\i1}As Granny always says, "At a time\Nlike this, one must use one's head."{\i}
-Dialogue: 0,0:05:19.52,0:05:21.76,forest default C,,0,0,0,,{\i1}Let's see. Pretend that I'm fooled by him,{\i}
-Dialogue: 0,0:05:21.76,0:05:24.21,forest default C,,0,0,0,,{\i1}and then, when Danny approaches, grab him.{\i}
-Dialogue: 0,0:05:26.58,0:05:29.96,forest default C,,0,0,0,,Curses! He's not here!\NHe should have hidden here!
-Dialogue: 0,0:05:30.40,0:05:32.81,forest default C,,0,0,0,,Yeah, where'd he go?
-Dialogue: 0,0:05:35.74,0:05:36.80,forest default C,,0,0,0,,Reddy's a big fool!
-Dialogue: 0,0:05:37.68,0:05:40.49,forest default C,,0,0,0,,Ah! Danny, you little shrimp!\NCome out of there!
-Dialogue: 0,0:05:42.60,0:05:44.76,forest default C,,0,0,0,,Alright. I'll get a little closer\Nand tease him.
-Dialogue: 0,0:05:46.73,0:05:49.58,forest default C,,0,0,0,,He's coming. Where is he coming from?
-Dialogue: 0,0:05:52.84,0:05:54.74,forest default C,,0,0,0,,He's still sitting in the same place.
-Dialogue: 0,0:05:56.92,0:05:58.24,forest default C,,0,0,0,,Hey... Reddy, Reddy!
-Dialogue: 0,0:05:59.30,0:06:01.00,forest default C,,0,0,0,,This way. This way, Reddy!
-Dialogue: 0,0:06:06.27,0:06:07.84,forest default C,,0,0,0,,Darn it, darn it, darn it, darn it!
-Dialogue: 0,0:06:08.26,0:06:10.95,forest default C,,0,0,0,,Bet you can't catch me, bet you can't catch me!
-Dialogue: 0,0:06:19.52,0:06:21.72,forest default C,,0,0,0,,Reddy, over here, over here!
-Dialogue: 0,0:06:21.86,0:06:23.78,forest default C,,0,0,0,,Darn it, Danny!\NWhere did he go?
-Dialogue: 0,0:06:24.43,0:06:24.98,forest default C,,0,0,0,,Where did he go?
-Dialogue: 0,0:06:30.01,0:06:31.44,forest default C,,0,0,0,,This way! This way!
-Dialogue: 0,0:06:42.96,0:06:47.05,forest default C,,0,0,0,,Reddy, come get me! What's the matter,\Nyou slowpoke, tired already?
-Dialogue: 0,0:06:47.43,0:06:50.65,forest default C,,0,0,0,,Darn it! Remember, one day I'll catch you
-Dialogue: 0,0:06:50.65,0:06:53.14,forest default C,,0,0,0,,and I'm going to swallow you up whole!
-Dialogue: 0,0:06:53.89,0:06:54.61,forest default C,,0,0,0,,Silly fox!
-Dialogue: 0,0:06:55.11,0:06:57.28,forest default C,,0,0,0,,You been pretty lucky there, Danny.
-Dialogue: 0,0:06:57.28,0:07:00.43,forest default C,,0,0,0,,But someday, I'm gonna get you, yes, I will.
-Dialogue: 0,0:07:00.45,0:07:02.54,forest default C,,0,0,0,,Curses, curses!
-Dialogue: 0,0:07:02.67,0:07:04.57,forest default C,,0,0,0,,Didn't catch me, didn't catch me!
-Dialogue: 0,0:07:17.32,0:07:20.68,forest lyrics C,,0,0,0,,{\i1}Reddy the Fox,\NIs smart and crafty.{\i}
-Dialogue: 0,0:07:21.01,0:07:24.63,forest lyrics C,,0,0,0,,{\i1}But I'm a meadow mouse,\NSo I'm much smarter.{\i}
-Dialogue: 0,0:07:25.14,0:07:28.79,forest lyrics C,,0,0,0,,{\i1}Reddy the Fox,\NIs such a slowpoke.{\i}
-Dialogue: 0,0:07:33.66,0:07:34.56,forest default C,,0,0,0,,Oh...!
-Dialogue: 0,0:07:34.82,0:07:36.33,forest lyrics C,,0,0,0,,{\i1}"Reddy the Fox..."{\i}
-Dialogue: 0,0:07:44.84,0:07:48.69,forest default C,,0,0,0,,Hm... Letting Peter escape.\NEven letting Danny escape.
-Dialogue: 0,0:07:48.72,0:07:50.06,forest default C,,0,0,0,,What is going on?
-Dialogue: 0,0:07:50.07,0:07:53.78,forest default C,,0,0,0,,Granny... Danny was fleeing about\Nin the under-the-snow tunnel
-Dialogue: 0,0:07:53.78,0:07:58.19,forest default C,,0,0,0,,and that's not easy to catch.\NOutta this hole and outta that hole.
-Dialogue: 0,0:07:58.49,0:08:00.31,forest default C,,0,0,0,,You just could not tell a thing.
-Dialogue: 0,0:08:00.69,0:08:02.51,forest default C,,0,0,0,,He had tunnels in the snow
-Dialogue: 0,0:08:02.55,0:08:06.17,forest default C,,0,0,0,,covering the entire Green Meadow,\Nwhere he could hide.
-Dialogue: 0,0:08:06.75,0:08:10.58,forest default C,,0,0,0,,Hm. Well, that's the time to use\Nyour head, for heaven's sake.
-Dialogue: 0,0:08:10.58,0:08:14.83,forest default C,,0,0,0,,But I-I did use it. B-b-but Danny\Nis so quick and, uh,
-Dialogue: 0,0:08:15.44,0:08:18.98,forest default C,,0,0,0,,and first of all there were\Ntoo many tunnels... Impossible!
-Dialogue: 0,0:08:19.14,0:08:22.80,forest default C,,0,0,0,,Ah, well, today's goings on\Ncan't be helped.
-Dialogue: 0,0:08:22.86,0:08:26.13,forest default C,,0,0,0,,But tomorrow's another day.\NI'll go with you.
-Dialogue: 0,0:08:26.18,0:08:28.90,forest default C,,0,0,0,,Huh? You will, Granny, you will?
-Dialogue: 0,0:08:29.59,0:08:33.83,forest default C,,0,0,0,,Yes. Danny Meadowmouse is skilled\Nin hiding out in tunnels.
-Dialogue: 0,0:08:34.04,0:08:37.12,forest default C,,0,0,0,,You by yourself would be made fool of so easily.
-Dialogue: 0,0:08:37.34,0:08:40.68,forest default C,,0,0,0,,Did Danny look apetising for a good meal?
-Dialogue: 0,0:08:40.80,0:08:45.16,forest default C,,0,0,0,,Yes... Round and plump\Nand really apetising...
-Dialogue: 0,0:08:45.52,0:08:48.67,forest default C,,0,0,0,,Hm...? That so?
-Dialogue: 0,0:08:48.69,0:08:51.63,forest default C,,0,0,0,,Well, tomorrow we should find\Nourselves with a feast.
-Dialogue: 0,0:08:51.63,0:08:53.68,forest default C,,0,0,0,,Tomorrow we'll be early.\NNow, go to sleep!
-Dialogue: 0,0:08:54.12,0:08:56.82,forest default C,,0,0,0,,Okay, good night now, Granny!
-Dialogue: 0,0:08:56.89,0:08:59.31,forest default C,,0,0,0,,Good night.
-Dialogue: 0,0:09:12.59,0:09:15.62,forest narrator C,,0,0,0,,{\i1}Danny, unknowingly,\Ntired from his runabout with Reddy,{\i}
-Dialogue: 0,0:09:16.00,0:09:17.74,forest narrator C,,0,0,0,,{\i1}was sleeping quite soundly.{\i}
-Dialogue: 0,0:09:48.80,0:09:51.31,forest default C,,0,0,0,,That Reddy. I fooled him so much yesterday.
-Dialogue: 0,0:09:51.32,0:09:53.90,forest default C,,0,0,0,,I'm sure he'll be back today\Nto play some more.
-Dialogue: 0,0:10:00.58,0:10:02.64,forest default C,,0,0,0,,That Reddy, he's coming!
-Dialogue: 0,0:10:03.47,0:10:07.37,forest default C,,0,0,0,,- Uh-uh-hm.\N- Oh...
-Dialogue: 0,0:10:07.57,0:10:09.52,forest default C,,0,0,0,,Uh-oh, he's brought grandma!
-Dialogue: 0,0:10:10.28,0:10:11.49,forest default C,,0,0,0,,Hm...
-Dialogue: 0,0:10:16.36,0:10:18.05,forest default C,,0,0,0,,Looks like it's gonna be fun today!
-Dialogue: 0,0:10:23.43,0:10:25.74,forest default C,,0,0,0,,What in tarnation are you doing, Granny?
-Dialogue: 0,0:10:26.16,0:10:29.66,forest default C,,0,0,0,,Well... smelling about like this\Nshould tell you immediately
-Dialogue: 0,0:10:29.70,0:10:32.18,forest default C,,0,0,0,,which hole or tunnel Danny's in, see?
-Dialogue: 0,0:10:32.34,0:10:36.96,forest default C,,0,0,0,,Maybe you're right. But beneath, there's\Na tunnel that he can go wherever he wants to.
-Dialogue: 0,0:10:37.54,0:10:40.07,forest default C,,0,0,0,,That's why I say you're such a dunce.
-Dialogue: 0,0:10:40.07,0:10:43.94,forest default C,,0,0,0,,At such a time, listen to the sound\Nof his feet, like this.
-Dialogue: 0,0:10:44.48,0:10:47.14,forest default C,,0,0,0,,Is that so?\NYou're my Granny, alright!
-Dialogue: 0,0:10:51.65,0:10:53.99,forest narrator C,,0,0,0,,{\i1}Old Granny is doing some thinking,\Nisn't she?{\i}
-Dialogue: 0,0:10:54.30,0:10:56.49,forest narrator C,,0,0,0,,{\i1}Can Danny do as well\Nas he did yesterday?{\i}
-Dialogue: 0,0:11:23.04,0:11:25.16,forest default C,,0,0,0,,Can you tell, just by smelling for a scent?
-Dialogue: 0,0:11:39.57,0:11:42.40,forest default C,,0,0,0,,Shocks, just a little bit more\Nand I would've caught him!
-Dialogue: 0,0:11:42.94,0:11:46.46,forest default C,,0,0,0,,Ah, so there's how you do it. Hm...
-Dialogue: 0,0:11:49.72,0:11:50.59,forest default C,,0,0,0,,Yikes!
-Dialogue: 0,0:11:51.28,0:11:53.64,forest default C,,0,0,0,,Oh! Oh!... Oh! Oh!
-Dialogue: 0,0:11:57.92,0:11:58.90,forest default C,,0,0,0,,Ah...
-Dialogue: 0,0:12:10.34,0:12:13.79,forest default C,,0,0,0,,Running about is no good.\NI'll stay here for a little while.
-Dialogue: 0,0:12:14.52,0:12:17.04,forest default C,,0,0,0,,Ah, that Danny, trying to fool me
-Dialogue: 0,0:12:17.04,0:12:19.42,forest default C,,0,0,0,,by staying still in the snow down there.
-Dialogue: 0,0:12:20.21,0:12:21.65,forest default C,,0,0,0,,But I won't let him.
-Dialogue: 0,0:12:22.45,0:12:26.17,forest default C,,0,0,0,,Reddy, whereabouts did you last hear\NDanny's footsteps in the tunnel?
-Dialogue: 0,0:12:27.80,0:12:31.55,forest default C,,0,0,0,,Well, it sounded like he was coming\Nthis way, so he must have...
-Dialogue: 0,0:12:31.77,0:12:34.98,forest default C,,0,0,0,,Alright. Wherever it is,\Njump down and scare Danny.
-Dialogue: 0,0:12:35.02,0:12:37.14,forest default C,,0,0,0,,Then Danny will be startled and start running.
-Dialogue: 0,0:12:37.53,0:12:40.08,forest default C,,0,0,0,,Okay.
-Dialogue: 0,0:12:40.82,0:12:41.38,forest default C,,0,0,0,,Oh!
-Dialogue: 0,0:12:57.84,0:12:59.19,forest default C,,0,0,0,,Hm...
-Dialogue: 0,0:13:03.24,0:13:04.64,forest default C,,0,0,0,,Oh!... Oh, oh!
-Dialogue: 0,0:13:05.42,0:13:07.49,forest default C,,0,0,0,,Reddy, he went that way!
-Dialogue: 0,0:13:40.96,0:13:42.42,forest default C,,0,0,0,,Oh!... Oh!
-Dialogue: 0,0:13:42.90,0:13:44.93,forest default C,,0,0,0,,Ah! Oh! Ah!
-Dialogue: 0,0:13:45.69,0:13:46.80,forest default C,,0,0,0,,Ah, ah, ah...
-Dialogue: 0,0:13:49.04,0:13:52.90,forest default C,,0,0,0,,Reddy, he's going that way.\NSeems like Danny is getting pretty tired.
-Dialogue: 0,0:13:53.26,0:13:55.92,forest default C,,0,0,0,,Mm... Okay. This time...
-Dialogue: 0,0:13:59.64,0:14:02.24,forest default C,,0,0,0,,If only there was some place I could stop.
-Dialogue: 0,0:14:10.69,0:14:12.85,forest default C,,0,0,0,,Hey, Granny, what's the matter?
-Dialogue: 0,0:14:13.22,0:14:16.25,forest default C,,0,0,0,,Danny is running,\Nhe should have been tired by now.
-Dialogue: 0,0:14:21.63,0:14:25.78,forest narrator C,,0,0,0,,{\i1}Danny suddenly remembered an old post,\Nwrapped with barbed wire.{\i}
-Dialogue: 0,0:14:27.51,0:14:30.66,forest narrator C,,0,0,0,,{\i1}He had dug a tunnel leading to there\Nin order to store a little food.{\i}
-Dialogue: 0,0:14:31.58,0:14:34.06,forest narrator C,,0,0,0,,{\i1}He thought that place he would be very safe.{\i}
-Dialogue: 0,0:14:34.98,0:14:37.11,forest narrator C,,0,0,0,,{\i1}If only could get there fast enough.{\i}
-Dialogue: 0,0:14:38.46,0:14:40.47,forest default C,,0,0,0,,Ah. Ah...
-Dialogue: 0,0:14:44.83,0:14:47.87,forest default C,,0,0,0,,Granny, I'll bet he stopped here.
-Dialogue: 0,0:14:48.24,0:14:51.06,forest default C,,0,0,0,,Uh-huh, he seems to have stopped\Njust when I jumped.
-Dialogue: 0,0:14:52.22,0:14:55.37,forest default C,,0,0,0,,- Shall I scare him like I did before?\N- No, wait...
-Dialogue: 0,0:14:55.38,0:14:56.32,forest default C,,0,0,0,,Well, why?
-Dialogue: 0,0:14:56.42,0:14:59.12,forest default C,,0,0,0,,Somehow, I think it was about here,
-Dialogue: 0,0:14:59.12,0:15:02.82,forest default C,,0,0,0,,where there was an old fallen post\Nwrapped with lots of barbed wire.
-Dialogue: 0,0:15:03.78,0:15:06.83,forest default C,,0,0,0,,- No problem, I'm gonna try it.\N- No, wait!
-Dialogue: 0,0:15:06.96,0:15:10.64,forest default C,,0,0,0,,Yeah!\NYay!
-Dialogue: 0,0:15:10.98,0:15:15.54,forest default C,,0,0,0,,Oh! Oh!
-Dialogue: 0,0:15:15.54,0:15:17.88,forest default C,,0,0,0,,That's why I told you to wait, didn't I?
-Dialogue: 0,0:15:18.12,0:15:20.47,forest default C,,0,0,0,,Now, you cut your foot on the barbed wire.
-Dialogue: 0,0:15:20.75,0:15:23.13,forest default C,,0,0,0,,It hurts! Ow! Ah!
-Dialogue: 0,0:15:24.50,0:15:28.36,forest default C,,0,0,0,,Don't just lie there, crying\Nlike a baby. Lick the cut!
-Dialogue: 0,0:15:33.52,0:15:35.72,forest default C,,0,0,0,,I'll just stay here quietly for a while.
-Dialogue: 0,0:15:36.24,0:15:39.76,forest default C,,0,0,0,,Then maybe, if I'm lucky, Granny\Nand Reddy will give up and go home.
-Dialogue: 0,0:15:44.40,0:15:48.89,forest default C,,0,0,0,,- Granny, what are you gonna do?\N- Catch that Danny, of course!
-Dialogue: 0,0:15:49.20,0:15:51.16,forest default C,,0,0,0,,But... Isn't it too difficult?
-Dialogue: 0,0:15:52.08,0:15:54.87,forest default C,,0,0,0,,Too difficult? If we give up now...
-Dialogue: 0,0:15:55.36,0:15:57.98,forest default C,,0,0,0,,That's it! There's another way...
-Dialogue: 0,0:15:59.88,0:16:05.03,forest default C,,0,0,0,,Hm. This looks like the closest entrance\Nand exit spot from where Danny is now.
-Dialogue: 0,0:16:05.27,0:16:07.58,forest default C,,0,0,0,,- Reddy, come here!\N- What, Granny?
-Dialogue: 0,0:16:10.99,0:16:13.51,forest default C,,0,0,0,,Throw snow on me until I'm hidden.
-Dialogue: 0,0:16:14.74,0:16:15.38,forest default C,,0,0,0,,Cover you?
-Dialogue: 0,0:16:16.72,0:16:17.73,forest default C,,0,0,0,,That's right.
-Dialogue: 0,0:16:17.80,0:16:22.83,forest default C,,0,0,0,,Danny won't be able to resist much longer,\Nthat's what I'm aming for.
-Dialogue: 0,0:16:22.83,0:16:25.04,forest default C,,0,0,0,,Ah... so that's it!
-Dialogue: 0,0:16:25.43,0:16:26.34,forest default C,,0,0,0,,I'll do it.
-Dialogue: 0,0:16:27.02,0:16:31.24,forest default C,,0,0,0,,You can go home, take care\Nof your cut foot, and wait for me.
-Dialogue: 0,0:16:31.67,0:16:32.50,forest default C,,0,0,0,,Uh-huh.
-Dialogue: 0,0:16:36.62,0:16:38.20,forest default C,,0,0,0,,Hm. Sure is quiet.
-Dialogue: 0,0:16:40.68,0:16:43.64,forest default C,,0,0,0,,Wonder if they've gone...\NWonder if they're really gone?
-Dialogue: 0,0:16:44.66,0:16:47.02,forest default C,,0,0,0,,Besides, I can't stay quiet like this forever.
-Dialogue: 0,0:16:47.40,0:16:50.40,forest default C,,0,0,0,,It's cold! And Granny, she's given up.
-Dialogue: 0,0:17:00.38,0:17:02.22,forest default C,,0,0,0,,Looks like they finally gave up, tired.
-Dialogue: 0,0:17:09.72,0:17:12.88,forest default C,,0,0,0,,I wonder if that mound was there before...
-Dialogue: 0,0:17:13.40,0:17:17.43,forest default C,,0,0,0,,Or maybe that strong North Wind\Nplayed a trick and created one.
-Dialogue: 0,0:17:23.02,0:17:24.02,forest default C,,0,0,0,,Hm...
-Dialogue: 0,0:17:27.16,0:17:28.60,forest default C,,0,0,0,,Huh? Oh!
-Dialogue: 0,0:17:34.92,0:17:35.65,forest default C,,0,0,0,,Oh!
-Dialogue: 0,0:17:40.32,0:17:41.96,forest default C,,0,0,0,,So... So that's what it is!
-Dialogue: 0,0:17:45.04,0:17:47.14,forest default C,,0,0,0,,Danny is not to be fooled by such tricks!
-Dialogue: 0,0:17:51.36,0:17:53.50,forest default C,,0,0,0,,Granny! Granny!
-Dialogue: 0,0:17:54.93,0:17:57.36,forest default C,,0,0,0,,No use hiding there and trying to fool me.
-Dialogue: 0,0:17:57.68,0:17:58.45,forest default C,,0,0,0,,I know!
-Dialogue: 0,0:17:59.38,0:18:00.18,forest default C,,0,0,0,,I know!
-Dialogue: 0,0:18:05.78,0:18:06.62,forest default C,,0,0,0,,Bye-bye!
-Dialogue: 0,0:18:08.81,0:18:10.72,forest default C,,0,0,0,,W-w-w-wait!
-Dialogue: 0,0:18:12.82,0:18:15.75,forest default C,,0,0,0,,Oh! Oh!
-Dialogue: 0,0:18:17.64,0:18:20.94,forest default C,,0,0,0,,Oh, if it wasn't for that North Wind,\NI'd have had Danny!
-Dialogue: 0,0:18:22.68,0:18:26.27,forest default C,,0,0,0,,Oh... Oh, I think I'm getting a chill.\NThis is irritat...
-Dialogue: 0,0:18:41.50,0:18:45.25,forest lyrics C,,0,0,0,,{\i1}Come, let's play in the snow,\Nin the snow, in the snow,{\i}
-Dialogue: 0,0:18:45.35,0:18:48.76,forest lyrics C,,0,0,0,,{\i1}Come and let's play in the snow...\NWho's gonna be caught?{\i}
-Dialogue: 0,0:18:52.77,0:18:56.44,forest lyrics C,,0,0,0,,{\i1}Come, let's play in the snow,\Nin the snow, in the snow,{\i}
-Dialogue: 0,0:18:56.52,0:18:59.95,forest lyrics C,,0,0,0,,{\i1}Come and let's play in the snow...\NWho's gonna be caught?{\i}
-Dialogue: 0,0:19:03.95,0:19:07.66,forest lyrics C,,0,0,0,,{\i1}Come, let's play in the snow,\Nin the snow, in the snow,{\i}
-Dialogue: 0,0:19:07.70,0:19:11.16,forest lyrics C,,0,0,0,,{\i1}Come and let's play in the snow...\NWho's gonna be caught?{\i}
-Dialogue: 0,0:19:20.71,0:19:24.94,forest default C,,0,0,0,,Ah! Help, help, let me go, let me go!\NHelp!
-Dialogue: 0,0:19:27.53,0:19:28.58,forest default C,,0,0,0,,Please, help me!
-Dialogue: 0,0:19:29.90,0:19:30.79,forest default C,,0,0,0,,Let me go!
-Dialogue: 0,0:19:31.86,0:19:34.60,forest narrator C,,0,0,0,,{\i1}Danny was overjoyed\Nthat he had fooled Reddy and Granny,{\i}
-Dialogue: 0,0:19:34.86,0:19:38.00,forest narrator C,,0,0,0,,{\i1}but he had forgotten that he must\Nalways be on guard, even at night,{\i}
-Dialogue: 0,0:19:38.19,0:19:40.09,forest narrator C,,0,0,0,,{\i1}against his number one enemy, the owl.{\i}
-Dialogue: 0,0:20:14.80,0:20:16.63,forest default C,,0,0,0,,Did he drop something? I wonder.
-Dialogue: 0,0:20:17.74,0:20:20.58,forest default C,,0,0,0,,Ah...! Oh. Oh.
-Dialogue: 0,0:20:22.80,0:20:24.26,forest default C,,0,0,0,,It's cold!
-Dialogue: 0,0:20:27.06,0:20:28.60,forest default C,,0,0,0,,Who... Who's that?
-Dialogue: 0,0:20:32.16,0:20:32.92,forest default C,,0,0,0,,Danny?
-Dialogue: 0,0:20:34.30,0:20:35.52,forest default C,,0,0,0,,Is that you, Danny?
-Dialogue: 0,0:20:38.80,0:20:41.19,forest default C,,0,0,0,,Oh, what a terrible wound, Danny!
-Dialogue: 0,0:20:44.01,0:20:47.66,forest default C,,0,0,0,,{\i1}Johnny, Johnny! Something terrible\Nhas happened, open the door, Johnny!{\i}
-Dialogue: 0,0:20:48.91,0:20:52.10,forest default C,,0,0,0,,Oh, my gosh, another visitor.\NJust wait a minute!
-Dialogue: 0,0:20:56.98,0:21:00.42,forest default C,,0,0,0,,I said something wrong to Danny. And when\NI went to his place he still wasn't home.
-Dialogue: 0,0:21:00.54,0:21:04.66,forest default C,,0,0,0,,And in the Green Meadow there are tracks\Nof Reddy and Granny, so... I... I...
-Dialogue: 0,0:21:04.86,0:21:07.51,forest default C,,0,0,0,,- If it's Danny, he's here!\N- Huh?
-Dialogue: 0,0:21:08.35,0:21:10.17,forest default C,,0,0,0,,Yeah... He's pretty bad.
-Dialogue: 0,0:21:10.58,0:21:12.04,forest default C,,0,0,0,,- Danny?\N- Uh-huh.
-Dialogue: 0,0:21:14.62,0:21:17.18,forest default C,,0,0,0,,Peter, somehow this is a punishment.
-Dialogue: 0,0:21:18.29,0:21:19.16,forest default C,,0,0,0,,A punishment?
-Dialogue: 0,0:21:20.29,0:21:24.18,forest default C,,0,0,0,,This morning, fooling Reddy and Granny,\NI forgot about the owl.
-Dialogue: 0,0:21:25.75,0:21:27.63,forest default C,,0,0,0,,Oh... I'm sorry.
-Dialogue: 0,0:21:27.86,0:21:30.69,forest default C,,0,0,0,,I should have never wished you bad luck, Danny.
-Dialogue: 0,0:21:30.85,0:21:32.57,forest default C,,0,0,0,,I... I'm sorry!
-Dialogue: 0,0:21:33.48,0:21:35.95,forest default C,,0,0,0,,Thank you.\NThank you for worrying about me.
-Dialogue: 0,0:21:36.93,0:21:40.19,forest default C,,0,0,0,,But what can I do now?\NI can't even walk.
-Dialogue: 0,0:21:41.02,0:21:42.70,forest default C,,0,0,0,,But there's nothing to worry about...
-Dialogue: 0,0:21:43.32,0:21:45.86,forest default C,,0,0,0,,You can stay here until your wounds are healed.
-Dialogue: 0,0:21:46.31,0:21:46.85,forest default C,,0,0,0,,But...
-Dialogue: 0,0:21:46.87,0:21:50.40,forest default C,,0,0,0,,As for food, I'll bring all you want\Nfrom your storeroom.
-Dialogue: 0,0:21:58.92,0:22:01.74,forest narrator C,,0,0,0,,{\i1}Thanks to the help of Danny's friends,\Nhe'll be alright.{\i}
-Dialogue: 0,0:22:02.17,0:22:05.38,forest narrator C,,0,0,0,,{\i1}But Danny has learned a valuable lesson\Nwe all should remember.{\i}
-Dialogue: 0,0:22:05.62,0:22:08.53,forest narrator C,,0,0,0,,{\i1}When playing tricks on your enemies,\Nyou're bound to get hurt.{\i}
-Dialogue: 0,0:22:18.00,0:22:22.00,forest credits C,,0,0,0,,{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs
+Dialogue: 0,0:00:03.16,0:00:09.16,forest title KB,,0,0,0,,{TIME:3160,9160}FABLES \N of the\NGREEN FOREST
+Dialogue: 0,0:00:06.30,0:00:09.16,forest ep title C,,0,0,0,,{TIME:6300,9160}{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Danny in the snow"{\i}
+Dialogue: 0,0:00:10.50,0:00:13.29,forest narrator C,,0,0,0,,{TIME:10500,13290}{\i1}The snow has finally started\Nto fall in the Green Forest.{\i}
+Dialogue: 0,0:00:13.72,0:00:16.23,forest narrator C,,0,0,0,,{TIME:13720,16230}{\i1}Johnny and Polly are both\Nsnuggled in their home.{\i}
+Dialogue: 0,0:00:16.70,0:00:20.00,forest narrator C,,0,0,0,,{TIME:16700,20000}{\i1}And so the forest has become as silent\Nas in the middle of the night.{\i}
+Dialogue: 0,0:00:20.44,0:00:23.69,forest narrator C,,0,0,0,,{TIME:20440,23690}{\i1}But there are animals that love the snow.\NPeter Rabbit is one of them.{\i}
+Dialogue: 0,0:00:37.71,0:00:41.48,forest default C,,0,0,0,,{TIME:37710,41480}Peter... today is the day...!\NI'm gonna catch him...!
+Dialogue: 0,0:00:47.82,0:00:49.74,forest default C,,0,0,0,,{TIME:47820,49740}Johnny, Johnny, wake up!
+Dialogue: 0,0:00:50.04,0:00:52.93,forest default C,,0,0,0,,{TIME:50040,52930}Come on, it's so much fun outside!
+Dialogue: 0,0:00:53.65,0:00:57.14,forest default C,,0,0,0,,{TIME:53650,57140}I can't... I can't play outside.\NI'm preparing for the winter.
+Dialogue: 0,0:00:57.89,0:01:01.68,forest default C,,0,0,0,,{TIME:57890,61680}It's a lot of fun to play "hide and go seek"\Nin the snow. Come on, let's go!
+Dialogue: 0,0:01:02.82,0:01:05.46,forest default C,,0,0,0,,{TIME:62820,65460}Play in the snow?\NHas it snowed that much already?
+Dialogue: 0,0:01:05.64,0:01:08.39,forest default C,,0,0,0,,{TIME:65640,68390}Yes, it has, in the Green Meadow.\NLet's go!
+Dialogue: 0,0:01:09.08,0:01:12.45,forest default C,,0,0,0,,{TIME:69080,72450}Oh, no-no-no!\NAll the more reason why I can't.
+Dialogue: 0,0:01:12.91,0:01:16.36,forest default C,,0,0,0,,{TIME:72910,76360}- Hey, isn't that Peter?\N- That's right, it's Peter!
+Dialogue: 0,0:01:18.62,0:01:21.47,forest default C,,0,0,0,,{TIME:78620,81470}Hey, Peter, what's the matter,\Nwhy the big rush?
+Dialogue: 0,0:01:21.80,0:01:24.71,forest default C,,0,0,0,,{TIME:81800,84710}- Oh, run and hide, it's Reddy, he's chasing me!\N- It's Reddy?
+Dialogue: 0,0:01:42.23,0:01:42.90,forest default C,,0,0,0,,{TIME:102230,102900}Pfew!
+Dialogue: 0,0:01:45.64,0:01:47.28,forest default C,,0,0,0,,{TIME:105640,107280}That Reddy, he's gone.
+Dialogue: 0,0:01:49.52,0:01:51.54,forest default C,,0,0,0,,{TIME:109520,111540}Oh, you be careful now, Danny.
+Dialogue: 0,0:01:51.70,0:01:55.78,forest default C,,0,0,0,,{TIME:111700,115780}- Someday, you'll be chased by Reddy, too.\N- Me? No problem!
+Dialogue: 0,0:01:56.24,0:01:59.76,forest default C,,0,0,0,,{TIME:116240,119760}I'm a coward. But a coward who uses\Nhis head all the time!
+Dialogue: 0,0:02:00.26,0:02:02.37,forest default C,,0,0,0,,{TIME:120260,122370}Yeah... I use my head too.
+Dialogue: 0,0:02:02.66,0:02:05.72,forest default C,,0,0,0,,{TIME:122660,125720}Well... I guess I go run around\Nin the snow at the Green Meadow.
+Dialogue: 0,0:02:06.44,0:02:10.96,forest default C,,0,0,0,,{TIME:126440,130960}I don't know. You'd better be careful.\NYou never know. Reddy might still be near.
+Dialogue: 0,0:02:11.56,0:02:14.62,forest default C,,0,0,0,,{TIME:131560,134620}No problem. As long as there's some snow,\NI'm not afraid of Reddy!
+Dialogue: 0,0:02:19.54,0:02:21.95,forest default C,,0,0,0,,{TIME:139540,141950}Hm! For a shrimp, that guy sure does talk big.
+Dialogue: 0,0:02:22.04,0:02:25.32,forest default C,,0,0,0,,{TIME:142040,145320}He's the kind of guy who oughta get caught\Nby Reddy. Don't you think so, Johnny?
+Dialogue: 0,0:02:28.58,0:02:30.31,forest default C,,0,0,0,,{TIME:148580,150310}Danny, don't get too smart now!
+Dialogue: 0,0:02:31.14,0:02:32.86,forest default C,,0,0,0,,{TIME:151140,152860}- Bye!\N- Be careful now!
+Dialogue: 0,0:02:35.51,0:02:37.81,forest default C,,0,0,0,,{TIME:155510,157810}Now, where shall I dig a tunnel today?
+Dialogue: 0,0:02:45.32,0:02:46.43,forest default C,,0,0,0,,{TIME:165320,166430}{\i1}One. Two.{\i}
+Dialogue: 0,0:02:48.07,0:02:48.88,forest default C,,0,0,0,,{TIME:168070,168880}Oh...!
+Dialogue: 0,0:02:50.63,0:02:53.53,forest default C,,0,0,0,,{TIME:170630,173530}Johnny should've come with me. Yay!
+Dialogue: 0,0:02:53.98,0:02:55.97,forest default C,,0,0,0,,{TIME:173980,175970}Well. Now it's this way!
+Dialogue: 0,0:02:58.20,0:03:00.48,forest narrator C,,0,0,0,,{TIME:178200,180480}{\i1}Danny really loves playing in the snow.{\i}
+Dialogue: 0,0:03:01.36,0:03:04.18,forest narrator C,,0,0,0,,{TIME:181360,184180}{\i1}He loves digging tunnels, everywhere.{\i}
+Dialogue: 0,0:03:06.58,0:03:08.89,forest narrator C,,0,0,0,,{TIME:186580,188890}{\i1}This is what Danny loves doing the best.{\i}
+Dialogue: 0,0:03:09.53,0:03:12.79,forest narrator C,,0,0,0,,{TIME:189530,192790}{\i1}He's happy under the snow and on top of the snow.{\i}
+Dialogue: 0,0:03:13.10,0:03:15.76,forest narrator C,,0,0,0,,{TIME:193100,195760}{\i1}Whatever he's doing, the snow is his life.{\i}
+Dialogue: 0,0:03:15.96,0:03:17.70,forest narrator C,,0,0,0,,{TIME:195960,197700}{\i1}He loves digging tunnels.{\i}
+Dialogue: 0,0:03:25.52,0:03:26.26,forest default C,,0,0,0,,{TIME:205520,206260}Hm...!
+Dialogue: 0,0:03:45.61,0:03:47.98,forest default C,,0,0,0,,{TIME:225610,227980}That Peter, where could he have hidden?
+Dialogue: 0,0:03:48.08,0:03:51.23,forest default C,,0,0,0,,{TIME:228080,231230}Today of all days I thought I'd catch him.
+Dialogue: 0,0:03:51.32,0:03:53.42,forest default C,,0,0,0,,{TIME:231320,233420}Sure makes a fast getaway.
+Dialogue: 0,0:03:55.11,0:03:59.58,forest default C,,0,0,0,,{TIME:235110,239580}Hm. I wonder where he could have... Oh!
+Dialogue: 0,0:04:03.73,0:04:04.38,forest default C,,0,0,0,,{TIME:243730,244380}Hm...!
+Dialogue: 0,0:04:16.96,0:04:19.72,forest default C,,0,0,0,,{TIME:256960,259720}I let Peter escape, but Danny is here.
+Dialogue: 0,0:04:19.73,0:04:22.02,forest default C,,0,0,0,,{TIME:259730,262020}{\i1}I'm in luck today...!{\i}
+Dialogue: 0,0:04:49.32,0:04:52.82,forest default C,,0,0,0,,{TIME:289320,292820}Darn it! A little more. I'll catch him.
+Dialogue: 0,0:04:52.99,0:04:54.40,forest default C,,0,0,0,,{TIME:292990,294400}{\i1}Yoohoo!{\i}
+Dialogue: 0,0:04:54.92,0:04:56.34,forest default C,,0,0,0,,{TIME:294920,296340}Here I am, here I am!
+Dialogue: 0,0:04:57.34,0:04:58.56,forest default C,,0,0,0,,{TIME:297340,298560}You little rascal!
+Dialogue: 0,0:05:02.53,0:05:04.74,forest default C,,0,0,0,,{TIME:302530,304740}Reddy, here I am, here I am!
+Dialogue: 0,0:05:13.75,0:05:14.62,forest default C,,0,0,0,,{TIME:313750,314620}That's it!
+Dialogue: 0,0:05:15.49,0:05:19.52,forest default C,,0,0,0,,{TIME:315490,319520}{\i1}As Granny always says, "At a time\Nlike this, one must use one's head."{\i}
+Dialogue: 0,0:05:19.52,0:05:21.76,forest default C,,0,0,0,,{TIME:319520,321760}{\i1}Let's see. Pretend that I'm fooled by him,{\i}
+Dialogue: 0,0:05:21.76,0:05:24.21,forest default C,,0,0,0,,{TIME:321760,324210}{\i1}and then, when Danny approaches, grab him.{\i}
+Dialogue: 0,0:05:26.58,0:05:29.96,forest default C,,0,0,0,,{TIME:326580,329960}Curses! He's not here!\NHe should have hidden here!
+Dialogue: 0,0:05:30.40,0:05:32.81,forest default C,,0,0,0,,{TIME:330400,332810}Yeah, where'd he go?
+Dialogue: 0,0:05:35.74,0:05:36.80,forest default C,,0,0,0,,{TIME:335740,336800}Reddy's a big fool!
+Dialogue: 0,0:05:37.68,0:05:40.49,forest default C,,0,0,0,,{TIME:337680,340490}Ah! Danny, you little shrimp!\NCome out of there!
+Dialogue: 0,0:05:42.60,0:05:44.76,forest default C,,0,0,0,,{TIME:342600,344760}Alright. I'll get a little closer\Nand tease him.
+Dialogue: 0,0:05:46.73,0:05:49.58,forest default C,,0,0,0,,{TIME:346730,349580}He's coming. Where is he coming from?
+Dialogue: 0,0:05:52.84,0:05:54.74,forest default C,,0,0,0,,{TIME:352840,354740}He's still sitting in the same place.
+Dialogue: 0,0:05:56.92,0:05:58.24,forest default C,,0,0,0,,{TIME:356920,358240}Hey... Reddy, Reddy!
+Dialogue: 0,0:05:59.30,0:06:01.00,forest default C,,0,0,0,,{TIME:359300,361000}This way. This way, Reddy!
+Dialogue: 0,0:06:06.27,0:06:07.84,forest default C,,0,0,0,,{TIME:366270,367840}Darn it, darn it, darn it, darn it!
+Dialogue: 0,0:06:08.26,0:06:10.95,forest default C,,0,0,0,,{TIME:368260,370950}Bet you can't catch me, bet you can't catch me!
+Dialogue: 0,0:06:19.52,0:06:21.72,forest default C,,0,0,0,,{TIME:379520,381720}Reddy, over here, over here!
+Dialogue: 0,0:06:21.86,0:06:23.78,forest default C,,0,0,0,,{TIME:381860,383780}Darn it, Danny!\NWhere did he go?
+Dialogue: 0,0:06:24.43,0:06:24.98,forest default C,,0,0,0,,{TIME:384430,384980}Where did he go?
+Dialogue: 0,0:06:30.01,0:06:31.44,forest default C,,0,0,0,,{TIME:390010,391440}This way! This way!
+Dialogue: 0,0:06:42.96,0:06:47.05,forest default C,,0,0,0,,{TIME:402960,407050}Reddy, come get me! What's the matter,\Nyou slowpoke, tired already?
+Dialogue: 0,0:06:47.43,0:06:50.65,forest default C,,0,0,0,,{TIME:407430,410650}Darn it! Remember, one day I'll catch you
+Dialogue: 0,0:06:50.65,0:06:53.14,forest default C,,0,0,0,,{TIME:410650,413140}and I'm going to swallow you up whole!
+Dialogue: 0,0:06:53.89,0:06:54.61,forest default C,,0,0,0,,{TIME:413890,414610}Silly fox!
+Dialogue: 0,0:06:55.11,0:06:57.28,forest default C,,0,0,0,,{TIME:415110,417280}You been pretty lucky there, Danny.
+Dialogue: 0,0:06:57.28,0:07:00.43,forest default C,,0,0,0,,{TIME:417280,420430}But someday, I'm gonna get you, yes, I will.
+Dialogue: 0,0:07:00.45,0:07:02.54,forest default C,,0,0,0,,{TIME:420450,422540}Curses, curses!
+Dialogue: 0,0:07:02.67,0:07:04.57,forest default C,,0,0,0,,{TIME:422670,424570}Didn't catch me, didn't catch me!
+Dialogue: 0,0:07:17.32,0:07:20.68,forest lyrics C,,0,0,0,,{TIME:437320,440680}{\i1}Reddy the Fox,\NIs smart and crafty.{\i}
+Dialogue: 0,0:07:21.01,0:07:24.63,forest lyrics C,,0,0,0,,{TIME:441010,444630}{\i1}But I'm a meadow mouse,\NSo I'm much smarter.{\i}
+Dialogue: 0,0:07:25.14,0:07:28.79,forest lyrics C,,0,0,0,,{TIME:445140,448790}{\i1}Reddy the Fox,\NIs such a slowpoke.{\i}
+Dialogue: 0,0:07:33.66,0:07:34.56,forest default C,,0,0,0,,{TIME:453660,454560}Oh...!
+Dialogue: 0,0:07:34.82,0:07:36.33,forest lyrics C,,0,0,0,,{TIME:454820,456330}{\i1}"Reddy the Fox..."{\i}
+Dialogue: 0,0:07:44.84,0:07:48.69,forest default C,,0,0,0,,{TIME:464840,468690}Hm... Letting Peter escape.\NEven letting Danny escape.
+Dialogue: 0,0:07:48.72,0:07:50.06,forest default C,,0,0,0,,{TIME:468720,470060}What is going on?
+Dialogue: 0,0:07:50.07,0:07:53.78,forest default C,,0,0,0,,{TIME:470070,473780}Granny... Danny was fleeing about\Nin the under-the-snow tunnel
+Dialogue: 0,0:07:53.78,0:07:58.19,forest default C,,0,0,0,,{TIME:473780,478190}and that's not easy to catch.\NOutta this hole and outta that hole.
+Dialogue: 0,0:07:58.49,0:08:00.31,forest default C,,0,0,0,,{TIME:478490,480310}You just could not tell a thing.
+Dialogue: 0,0:08:00.69,0:08:02.51,forest default C,,0,0,0,,{TIME:480690,482510}He had tunnels in the snow
+Dialogue: 0,0:08:02.55,0:08:06.17,forest default C,,0,0,0,,{TIME:482550,486170}covering the entire Green Meadow,\Nwhere he could hide.
+Dialogue: 0,0:08:06.75,0:08:10.58,forest default C,,0,0,0,,{TIME:486750,490580}Hm. Well, that's the time to use\Nyour head, for heaven's sake.
+Dialogue: 0,0:08:10.58,0:08:14.83,forest default C,,0,0,0,,{TIME:490580,494830}But I-I did use it. B-b-but Danny\Nis so quick and, uh,
+Dialogue: 0,0:08:15.44,0:08:18.98,forest default C,,0,0,0,,{TIME:495440,498980}and first of all there were\Ntoo many tunnels... Impossible!
+Dialogue: 0,0:08:19.14,0:08:22.80,forest default C,,0,0,0,,{TIME:499140,502800}Ah, well, today's goings on\Ncan't be helped.
+Dialogue: 0,0:08:22.86,0:08:26.13,forest default C,,0,0,0,,{TIME:502860,506130}But tomorrow's another day.\NI'll go with you.
+Dialogue: 0,0:08:26.18,0:08:28.90,forest default C,,0,0,0,,{TIME:506180,508900}Huh? You will, Granny, you will?
+Dialogue: 0,0:08:29.59,0:08:33.83,forest default C,,0,0,0,,{TIME:509590,513830}Yes. Danny Meadowmouse is skilled\Nin hiding out in tunnels.
+Dialogue: 0,0:08:34.04,0:08:37.12,forest default C,,0,0,0,,{TIME:514040,517120}You by yourself would be made fool of so easily.
+Dialogue: 0,0:08:37.34,0:08:40.68,forest default C,,0,0,0,,{TIME:517340,520680}Did Danny look apetising for a good meal?
+Dialogue: 0,0:08:40.80,0:08:45.16,forest default C,,0,0,0,,{TIME:520800,525160}Yes... Round and plump\Nand really apetising...
+Dialogue: 0,0:08:45.52,0:08:48.67,forest default C,,0,0,0,,{TIME:525520,528670}Hm...? That so?
+Dialogue: 0,0:08:48.69,0:08:51.63,forest default C,,0,0,0,,{TIME:528690,531630}Well, tomorrow we should find\Nourselves with a feast.
+Dialogue: 0,0:08:51.63,0:08:53.68,forest default C,,0,0,0,,{TIME:531630,533680}Tomorrow we'll be early.\NNow, go to sleep!
+Dialogue: 0,0:08:54.12,0:08:56.82,forest default C,,0,0,0,,{TIME:534120,536820}Okay, good night now, Granny!
+Dialogue: 0,0:08:56.89,0:08:59.31,forest default C,,0,0,0,,{TIME:536890,539310}Good night.
+Dialogue: 0,0:09:12.59,0:09:15.62,forest narrator C,,0,0,0,,{TIME:552590,555620}{\i1}Danny, unknowingly,\Ntired from his runabout with Reddy,{\i}
+Dialogue: 0,0:09:16.00,0:09:17.74,forest narrator C,,0,0,0,,{TIME:556000,557740}{\i1}was sleeping quite soundly.{\i}
+Dialogue: 0,0:09:48.80,0:09:51.31,forest default C,,0,0,0,,{TIME:588800,591310}That Reddy. I fooled him so much yesterday.
+Dialogue: 0,0:09:51.32,0:09:53.90,forest default C,,0,0,0,,{TIME:591320,593900}I'm sure he'll be back today\Nto play some more.
+Dialogue: 0,0:10:00.58,0:10:02.64,forest default C,,0,0,0,,{TIME:600580,602640}That Reddy, he's coming!
+Dialogue: 0,0:10:03.47,0:10:07.37,forest default C,,0,0,0,,{TIME:603470,607370}- Uh-uh-hm.\N- Oh...
+Dialogue: 0,0:10:07.57,0:10:09.52,forest default C,,0,0,0,,{TIME:607570,609520}Uh-oh, he's brought grandma!
+Dialogue: 0,0:10:10.28,0:10:11.49,forest default C,,0,0,0,,{TIME:610280,611490}Hm...
+Dialogue: 0,0:10:16.36,0:10:18.05,forest default C,,0,0,0,,{TIME:616360,618050}Looks like it's gonna be fun today!
+Dialogue: 0,0:10:23.43,0:10:25.74,forest default C,,0,0,0,,{TIME:623430,625740}What in tarnation are you doing, Granny?
+Dialogue: 0,0:10:26.16,0:10:29.66,forest default C,,0,0,0,,{TIME:626160,629660}Well... smelling about like this\Nshould tell you immediately
+Dialogue: 0,0:10:29.70,0:10:32.18,forest default C,,0,0,0,,{TIME:629700,632180}which hole or tunnel Danny's in, see?
+Dialogue: 0,0:10:32.34,0:10:36.96,forest default C,,0,0,0,,{TIME:632340,636960}Maybe you're right. But beneath, there's\Na tunnel that he can go wherever he wants to.
+Dialogue: 0,0:10:37.54,0:10:40.07,forest default C,,0,0,0,,{TIME:637540,640070}That's why I say you're such a dunce.
+Dialogue: 0,0:10:40.07,0:10:43.94,forest default C,,0,0,0,,{TIME:640070,643940}At such a time, listen to the sound\Nof his feet, like this.
+Dialogue: 0,0:10:44.48,0:10:47.14,forest default C,,0,0,0,,{TIME:644480,647140}Is that so?\NYou're my Granny, alright!
+Dialogue: 0,0:10:51.65,0:10:53.99,forest narrator C,,0,0,0,,{TIME:651650,653990}{\i1}Old Granny is doing some thinking,\Nisn't she?{\i}
+Dialogue: 0,0:10:54.30,0:10:56.49,forest narrator C,,0,0,0,,{TIME:654300,656490}{\i1}Can Danny do as well\Nas he did yesterday?{\i}
+Dialogue: 0,0:11:23.04,0:11:25.16,forest default C,,0,0,0,,{TIME:683040,685160}Can you tell, just by smelling for a scent?
+Dialogue: 0,0:11:39.57,0:11:42.40,forest default C,,0,0,0,,{TIME:699570,702400}Shocks, just a little bit more\Nand I would've caught him!
+Dialogue: 0,0:11:42.94,0:11:46.46,forest default C,,0,0,0,,{TIME:702940,706460}Ah, so there's how you do it. Hm...
+Dialogue: 0,0:11:49.72,0:11:50.59,forest default C,,0,0,0,,{TIME:709720,710590}Yikes!
+Dialogue: 0,0:11:51.28,0:11:53.64,forest default C,,0,0,0,,{TIME:711280,713640}Oh! Oh!... Oh! Oh!
+Dialogue: 0,0:11:57.92,0:11:58.90,forest default C,,0,0,0,,{TIME:717920,718900}Ah...
+Dialogue: 0,0:12:10.34,0:12:13.79,forest default C,,0,0,0,,{TIME:730340,733790}Running about is no good.\NI'll stay here for a little while.
+Dialogue: 0,0:12:14.52,0:12:17.04,forest default C,,0,0,0,,{TIME:734520,737040}Ah, that Danny, trying to fool me
+Dialogue: 0,0:12:17.04,0:12:19.42,forest default C,,0,0,0,,{TIME:737040,739420}by staying still in the snow down there.
+Dialogue: 0,0:12:20.21,0:12:21.65,forest default C,,0,0,0,,{TIME:740210,741650}But I won't let him.
+Dialogue: 0,0:12:22.45,0:12:26.17,forest default C,,0,0,0,,{TIME:742450,746170}Reddy, whereabouts did you last hear\NDanny's footsteps in the tunnel?
+Dialogue: 0,0:12:27.80,0:12:31.55,forest default C,,0,0,0,,{TIME:747800,751550}Well, it sounded like he was coming\Nthis way, so he must have...
+Dialogue: 0,0:12:31.77,0:12:34.98,forest default C,,0,0,0,,{TIME:751770,754980}Alright. Wherever it is,\Njump down and scare Danny.
+Dialogue: 0,0:12:35.02,0:12:37.14,forest default C,,0,0,0,,{TIME:755020,757140}Then Danny will be startled and start running.
+Dialogue: 0,0:12:37.53,0:12:40.08,forest default C,,0,0,0,,{TIME:757530,760080}Okay.
+Dialogue: 0,0:12:40.82,0:12:41.38,forest default C,,0,0,0,,{TIME:760820,761380}Oh!
+Dialogue: 0,0:12:57.84,0:12:59.19,forest default C,,0,0,0,,{TIME:777840,779190}Hm...
+Dialogue: 0,0:13:03.24,0:13:04.64,forest default C,,0,0,0,,{TIME:783240,784640}Oh!... Oh, oh!
+Dialogue: 0,0:13:05.42,0:13:07.49,forest default C,,0,0,0,,{TIME:785420,787490}Reddy, he went that way!
+Dialogue: 0,0:13:40.96,0:13:42.42,forest default C,,0,0,0,,{TIME:820960,822420}Oh!... Oh!
+Dialogue: 0,0:13:42.90,0:13:44.93,forest default C,,0,0,0,,{TIME:822900,824930}Ah! Oh! Ah!
+Dialogue: 0,0:13:45.69,0:13:46.80,forest default C,,0,0,0,,{TIME:825690,826800}Ah, ah, ah...
+Dialogue: 0,0:13:49.04,0:13:52.90,forest default C,,0,0,0,,{TIME:829040,832900}Reddy, he's going that way.\NSeems like Danny is getting pretty tired.
+Dialogue: 0,0:13:53.26,0:13:55.92,forest default C,,0,0,0,,{TIME:833260,835920}Mm... Okay. This time...
+Dialogue: 0,0:13:59.64,0:14:02.24,forest default C,,0,0,0,,{TIME:839640,842240}If only there was some place I could stop.
+Dialogue: 0,0:14:10.69,0:14:12.85,forest default C,,0,0,0,,{TIME:850690,852850}Hey, Granny, what's the matter?
+Dialogue: 0,0:14:13.22,0:14:16.25,forest default C,,0,0,0,,{TIME:853220,856250}Danny is running,\Nhe should have been tired by now.
+Dialogue: 0,0:14:21.63,0:14:25.78,forest narrator C,,0,0,0,,{TIME:861630,865780}{\i1}Danny suddenly remembered an old post,\Nwrapped with barbed wire.{\i}
+Dialogue: 0,0:14:27.51,0:14:30.66,forest narrator C,,0,0,0,,{TIME:867510,870660}{\i1}He had dug a tunnel leading to there\Nin order to store a little food.{\i}
+Dialogue: 0,0:14:31.58,0:14:34.06,forest narrator C,,0,0,0,,{TIME:871580,874060}{\i1}He thought that place he would be very safe.{\i}
+Dialogue: 0,0:14:34.98,0:14:37.11,forest narrator C,,0,0,0,,{TIME:874980,877110}{\i1}If only could get there fast enough.{\i}
+Dialogue: 0,0:14:38.46,0:14:40.47,forest default C,,0,0,0,,{TIME:878460,880470}Ah. Ah...
+Dialogue: 0,0:14:44.83,0:14:47.87,forest default C,,0,0,0,,{TIME:884830,887870}Granny, I'll bet he stopped here.
+Dialogue: 0,0:14:48.24,0:14:51.06,forest default C,,0,0,0,,{TIME:888240,891060}Uh-huh, he seems to have stopped\Njust when I jumped.
+Dialogue: 0,0:14:52.22,0:14:55.37,forest default C,,0,0,0,,{TIME:892220,895370}- Shall I scare him like I did before?\N- No, wait...
+Dialogue: 0,0:14:55.38,0:14:56.32,forest default C,,0,0,0,,{TIME:895380,896320}Well, why?
+Dialogue: 0,0:14:56.42,0:14:59.12,forest default C,,0,0,0,,{TIME:896420,899120}Somehow, I think it was about here,
+Dialogue: 0,0:14:59.12,0:15:02.82,forest default C,,0,0,0,,{TIME:899120,902820}where there was an old fallen post\Nwrapped with lots of barbed wire.
+Dialogue: 0,0:15:03.78,0:15:06.83,forest default C,,0,0,0,,{TIME:903780,906830}- No problem, I'm gonna try it.\N- No, wait!
+Dialogue: 0,0:15:06.96,0:15:10.64,forest default C,,0,0,0,,{TIME:906960,910640}Yeah!\NYay!
+Dialogue: 0,0:15:10.98,0:15:15.54,forest default C,,0,0,0,,{TIME:910980,915540}Oh! Oh!
+Dialogue: 0,0:15:15.54,0:15:17.88,forest default C,,0,0,0,,{TIME:915540,917880}That's why I told you to wait, didn't I?
+Dialogue: 0,0:15:18.12,0:15:20.47,forest default C,,0,0,0,,{TIME:918120,920470}Now, you cut your foot on the barbed wire.
+Dialogue: 0,0:15:20.75,0:15:23.13,forest default C,,0,0,0,,{TIME:920750,923130}It hurts! Ow! Ah!
+Dialogue: 0,0:15:24.50,0:15:28.36,forest default C,,0,0,0,,{TIME:924500,928360}Don't just lie there, crying\Nlike a baby. Lick the cut!
+Dialogue: 0,0:15:33.52,0:15:35.72,forest default C,,0,0,0,,{TIME:933520,935720}I'll just stay here quietly for a while.
+Dialogue: 0,0:15:36.24,0:15:39.76,forest default C,,0,0,0,,{TIME:936240,939760}Then maybe, if I'm lucky, Granny\Nand Reddy will give up and go home.
+Dialogue: 0,0:15:44.40,0:15:48.89,forest default C,,0,0,0,,{TIME:944400,948890}- Granny, what are you gonna do?\N- Catch that Danny, of course!
+Dialogue: 0,0:15:49.20,0:15:51.16,forest default C,,0,0,0,,{TIME:949200,951160}But... Isn't it too difficult?
+Dialogue: 0,0:15:52.08,0:15:54.87,forest default C,,0,0,0,,{TIME:952080,954870}Too difficult? If we give up now...
+Dialogue: 0,0:15:55.36,0:15:57.98,forest default C,,0,0,0,,{TIME:955360,957980}That's it! There's another way...
+Dialogue: 0,0:15:59.88,0:16:05.03,forest default C,,0,0,0,,{TIME:959880,965030}Hm. This looks like the closest entrance\Nand exit spot from where Danny is now.
+Dialogue: 0,0:16:05.27,0:16:07.58,forest default C,,0,0,0,,{TIME:965270,967580}- Reddy, come here!\N- What, Granny?
+Dialogue: 0,0:16:10.99,0:16:13.51,forest default C,,0,0,0,,{TIME:970990,973510}Throw snow on me until I'm hidden.
+Dialogue: 0,0:16:14.74,0:16:15.38,forest default C,,0,0,0,,{TIME:974740,975380}Cover you?
+Dialogue: 0,0:16:16.72,0:16:17.73,forest default C,,0,0,0,,{TIME:976720,977730}That's right.
+Dialogue: 0,0:16:17.80,0:16:22.83,forest default C,,0,0,0,,{TIME:977800,982830}Danny won't be able to resist much longer,\Nthat's what I'm aming for.
+Dialogue: 0,0:16:22.83,0:16:25.04,forest default C,,0,0,0,,{TIME:982830,985040}Ah... so that's it!
+Dialogue: 0,0:16:25.43,0:16:26.34,forest default C,,0,0,0,,{TIME:985430,986340}I'll do it.
+Dialogue: 0,0:16:27.02,0:16:31.24,forest default C,,0,0,0,,{TIME:987020,991240}You can go home, take care\Nof your cut foot, and wait for me.
+Dialogue: 0,0:16:31.67,0:16:32.50,forest default C,,0,0,0,,{TIME:991670,992500}Uh-huh.
+Dialogue: 0,0:16:36.62,0:16:38.20,forest default C,,0,0,0,,{TIME:996620,998200}Hm. Sure is quiet.
+Dialogue: 0,0:16:40.68,0:16:43.64,forest default C,,0,0,0,,{TIME:1000680,1003640}Wonder if they've gone...\NWonder if they're really gone?
+Dialogue: 0,0:16:44.66,0:16:47.02,forest default C,,0,0,0,,{TIME:1004660,1007020}Besides, I can't stay quiet like this forever.
+Dialogue: 0,0:16:47.40,0:16:50.40,forest default C,,0,0,0,,{TIME:1007400,1010400}It's cold! And Granny, she's given up.
+Dialogue: 0,0:17:00.38,0:17:02.22,forest default C,,0,0,0,,{TIME:1020380,1022220}Looks like they finally gave up, tired.
+Dialogue: 0,0:17:09.72,0:17:12.88,forest default C,,0,0,0,,{TIME:1029720,1032880}I wonder if that mound was there before...
+Dialogue: 0,0:17:13.40,0:17:17.43,forest default C,,0,0,0,,{TIME:1033400,1037430}Or maybe that strong North Wind\Nplayed a trick and created one.
+Dialogue: 0,0:17:23.02,0:17:24.02,forest default C,,0,0,0,,{TIME:1043020,1044020}Hm...
+Dialogue: 0,0:17:27.16,0:17:28.60,forest default C,,0,0,0,,{TIME:1047160,1048600}Huh? Oh!
+Dialogue: 0,0:17:34.92,0:17:35.65,forest default C,,0,0,0,,{TIME:1054920,1055650}Oh!
+Dialogue: 0,0:17:40.32,0:17:41.96,forest default C,,0,0,0,,{TIME:1060320,1061960}So... So that's what it is!
+Dialogue: 0,0:17:45.04,0:17:47.14,forest default C,,0,0,0,,{TIME:1065040,1067140}Danny is not to be fooled by such tricks!
+Dialogue: 0,0:17:51.36,0:17:53.50,forest default C,,0,0,0,,{TIME:1071360,1073500}Granny! Granny!
+Dialogue: 0,0:17:54.93,0:17:57.36,forest default C,,0,0,0,,{TIME:1074930,1077360}No use hiding there and trying to fool me.
+Dialogue: 0,0:17:57.68,0:17:58.45,forest default C,,0,0,0,,{TIME:1077680,1078450}I know!
+Dialogue: 0,0:17:59.38,0:18:00.18,forest default C,,0,0,0,,{TIME:1079380,1080180}I know!
+Dialogue: 0,0:18:05.78,0:18:06.62,forest default C,,0,0,0,,{TIME:1085780,1086620}Bye-bye!
+Dialogue: 0,0:18:08.81,0:18:10.72,forest default C,,0,0,0,,{TIME:1088810,1090720}W-w-w-wait!
+Dialogue: 0,0:18:12.82,0:18:15.75,forest default C,,0,0,0,,{TIME:1092820,1095750}Oh! Oh!
+Dialogue: 0,0:18:17.64,0:18:20.94,forest default C,,0,0,0,,{TIME:1097640,1100940}Oh, if it wasn't for that North Wind,\NI'd have had Danny!
+Dialogue: 0,0:18:22.68,0:18:26.27,forest default C,,0,0,0,,{TIME:1102680,1106270}Oh... Oh, I think I'm getting a chill.\NThis is irritat...
+Dialogue: 0,0:18:41.50,0:18:45.25,forest lyrics C,,0,0,0,,{TIME:1121500,1125250}{\i1}Come, let's play in the snow,\Nin the snow, in the snow,{\i}
+Dialogue: 0,0:18:45.35,0:18:48.76,forest lyrics C,,0,0,0,,{TIME:1125350,1128760}{\i1}Come and let's play in the snow...\NWho's gonna be caught?{\i}
+Dialogue: 0,0:18:52.77,0:18:56.44,forest lyrics C,,0,0,0,,{TIME:1132770,1136440}{\i1}Come, let's play in the snow,\Nin the snow, in the snow,{\i}
+Dialogue: 0,0:18:56.52,0:18:59.95,forest lyrics C,,0,0,0,,{TIME:1136520,1139950}{\i1}Come and let's play in the snow...\NWho's gonna be caught?{\i}
+Dialogue: 0,0:19:03.95,0:19:07.66,forest lyrics C,,0,0,0,,{TIME:1143950,1147660}{\i1}Come, let's play in the snow,\Nin the snow, in the snow,{\i}
+Dialogue: 0,0:19:07.70,0:19:11.16,forest lyrics C,,0,0,0,,{TIME:1147700,1151160}{\i1}Come and let's play in the snow...\NWho's gonna be caught?{\i}
+Dialogue: 0,0:19:20.71,0:19:24.94,forest default C,,0,0,0,,{TIME:1160710,1164940}Ah! Help, help, let me go, let me go!\NHelp!
+Dialogue: 0,0:19:27.53,0:19:28.58,forest default C,,0,0,0,,{TIME:1167530,1168580}Please, help me!
+Dialogue: 0,0:19:29.90,0:19:30.79,forest default C,,0,0,0,,{TIME:1169900,1170790}Let me go!
+Dialogue: 0,0:19:31.86,0:19:34.60,forest narrator C,,0,0,0,,{TIME:1171860,1174600}{\i1}Danny was overjoyed\Nthat he had fooled Reddy and Granny,{\i}
+Dialogue: 0,0:19:34.86,0:19:38.00,forest narrator C,,0,0,0,,{TIME:1174860,1178000}{\i1}but he had forgotten that he must\Nalways be on guard, even at night,{\i}
+Dialogue: 0,0:19:38.19,0:19:40.09,forest narrator C,,0,0,0,,{TIME:1178190,1180090}{\i1}against his number one enemy, the owl.{\i}
+Dialogue: 0,0:20:14.80,0:20:16.63,forest default C,,0,0,0,,{TIME:1214800,1216630}Did he drop something? I wonder.
+Dialogue: 0,0:20:17.74,0:20:20.58,forest default C,,0,0,0,,{TIME:1217740,1220580}Ah...! Oh. Oh.
+Dialogue: 0,0:20:22.80,0:20:24.26,forest default C,,0,0,0,,{TIME:1222800,1224260}It's cold!
+Dialogue: 0,0:20:27.06,0:20:28.60,forest default C,,0,0,0,,{TIME:1227060,1228600}Who... Who's that?
+Dialogue: 0,0:20:32.16,0:20:32.92,forest default C,,0,0,0,,{TIME:1232160,1232920}Danny?
+Dialogue: 0,0:20:34.30,0:20:35.52,forest default C,,0,0,0,,{TIME:1234300,1235520}Is that you, Danny?
+Dialogue: 0,0:20:38.80,0:20:41.19,forest default C,,0,0,0,,{TIME:1238800,1241190}Oh, what a terrible wound, Danny!
+Dialogue: 0,0:20:44.01,0:20:47.66,forest default C,,0,0,0,,{TIME:1244010,1247660}{\i1}Johnny, Johnny! Something terrible\Nhas happened, open the door, Johnny!{\i}
+Dialogue: 0,0:20:48.91,0:20:52.10,forest default C,,0,0,0,,{TIME:1248910,1252100}Oh, my gosh, another visitor.\NJust wait a minute!
+Dialogue: 0,0:20:56.98,0:21:00.42,forest default C,,0,0,0,,{TIME:1256980,1260420}I said something wrong to Danny. And when\NI went to his place he still wasn't home.
+Dialogue: 0,0:21:00.54,0:21:04.66,forest default C,,0,0,0,,{TIME:1260540,1264660}And in the Green Meadow there are tracks\Nof Reddy and Granny, so... I... I...
+Dialogue: 0,0:21:04.86,0:21:07.51,forest default C,,0,0,0,,{TIME:1264860,1267510}- If it's Danny, he's here!\N- Huh?
+Dialogue: 0,0:21:08.35,0:21:10.17,forest default C,,0,0,0,,{TIME:1268350,1270170}Yeah... He's pretty bad.
+Dialogue: 0,0:21:10.58,0:21:12.04,forest default C,,0,0,0,,{TIME:1270580,1272040}- Danny?\N- Uh-huh.
+Dialogue: 0,0:21:14.62,0:21:17.18,forest default C,,0,0,0,,{TIME:1274620,1277180}Peter, somehow this is a punishment.
+Dialogue: 0,0:21:18.29,0:21:19.16,forest default C,,0,0,0,,{TIME:1278290,1279160}A punishment?
+Dialogue: 0,0:21:20.29,0:21:24.18,forest default C,,0,0,0,,{TIME:1280290,1284180}This morning, fooling Reddy and Granny,\NI forgot about the owl.
+Dialogue: 0,0:21:25.75,0:21:27.63,forest default C,,0,0,0,,{TIME:1285750,1287630}Oh... I'm sorry.
+Dialogue: 0,0:21:27.86,0:21:30.69,forest default C,,0,0,0,,{TIME:1287860,1290690}I should have never wished you bad luck, Danny.
+Dialogue: 0,0:21:30.85,0:21:32.57,forest default C,,0,0,0,,{TIME:1290850,1292570}I... I'm sorry!
+Dialogue: 0,0:21:33.48,0:21:35.95,forest default C,,0,0,0,,{TIME:1293480,1295950}Thank you.\NThank you for worrying about me.
+Dialogue: 0,0:21:36.93,0:21:40.19,forest default C,,0,0,0,,{TIME:1296930,1300190}But what can I do now?\NI can't even walk.
+Dialogue: 0,0:21:41.02,0:21:42.70,forest default C,,0,0,0,,{TIME:1301020,1302700}But there's nothing to worry about...
+Dialogue: 0,0:21:43.32,0:21:45.86,forest default C,,0,0,0,,{TIME:1303320,1305860}You can stay here until your wounds are healed.
+Dialogue: 0,0:21:46.31,0:21:46.85,forest default C,,0,0,0,,{TIME:1306310,1306850}But...
+Dialogue: 0,0:21:46.87,0:21:50.40,forest default C,,0,0,0,,{TIME:1306870,1310400}As for food, I'll bring all you want\Nfrom your storeroom.
+Dialogue: 0,0:21:58.92,0:22:01.74,forest narrator C,,0,0,0,,{TIME:1318920,1321740}{\i1}Thanks to the help of Danny's friends,\Nhe'll be alright.{\i}
+Dialogue: 0,0:22:02.17,0:22:05.38,forest narrator C,,0,0,0,,{TIME:1322170,1325380}{\i1}But Danny has learned a valuable lesson\Nwe all should remember.{\i}
+Dialogue: 0,0:22:05.62,0:22:08.53,forest narrator C,,0,0,0,,{TIME:1325620,1328530}{\i1}When playing tricks on your enemies,\Nyou're bound to get hurt.{\i}
+Dialogue: 0,0:22:18.00,0:22:22.00,forest credits C,,0,0,0,,{TIME:1338000,1342000}{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs
