@@ -24,7 +24,7 @@ Style: Sign,Gotham Rounded Bold,30,&H0066DAFF,&H000000FF,&H00202020,&H7F202020,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Opening
+Comment: 0,0:00:00.10,0:00:00.10,Default,[chapter],0,0,0,,{TIME:109,109}Opening
 Dialogue: 0,0:00:07.84,0:00:13.94,OP TL,[karaoke],0,0,0,,{TIME:7842,13942}Błądzę w ciemnościach\Nodkąd pamiętam
 Dialogue: 0,0:00:07.84,0:00:13.94,OP JP,[karaoke],0,0,0,,{TIME:7842,13942}{\blur0.5\an5\pos(330,453)}kaze wa nannimo iwanai keredo
 Dialogue: 0,0:00:13.94,0:00:20.24,OP TL,[karaoke],0,0,0,,{TIME:13942,20242}Lecz biała piłka i niebieskie boisko,
@@ -62,8 +62,8 @@ Dialogue: 0,0:01:52.10,0:01:53.40,Default,,0,0,0,,{TIME:112109,113409}
 Dialogue: 0,0:01:53.40,0:01:55.30,Default,,0,0,0,,{TIME:113409,115309}
 Dialogue: 0,0:01:55.30,0:01:57.34,Default,,0,0,0,,{TIME:115309,117342}
 Dialogue: 0,0:01:57.34,0:01:59.34,Default,,0,0,0,,{TIME:117342,119342}
-Dialogue: 0,0:01:59.34,0:02:04.14,Default,,0,0,0,,{TIME:119342,124142}
-Dialogue: 0,0:02:04.14,0:02:06.27,Default,,0,0,0,,{TIME:124142,126276}
+Dialogue: 0,0:01:59.34,0:02:04.20,Default,,0,0,0,,{TIME:119342,124209}
+Dialogue: 0,0:02:04.20,0:02:06.27,Default,,0,0,0,,{TIME:124209,126276}
 Dialogue: 0,0:02:07.57,0:02:08.94,Default,,0,0,0,,{TIME:127576,128942}
 Dialogue: 0,0:02:08.94,0:02:09.80,Default,,0,0,0,,{TIME:128942,129809}
 Dialogue: 0,0:02:20.84,0:02:22.84,Default,,0,0,0,,{TIME:140842,142842}
@@ -71,7 +71,7 @@ Dialogue: 0,0:02:33.87,0:02:37.24,Default,,0,0,0,,{TIME:153876,157242}
 Dialogue: 0,0:02:37.24,0:02:40.24,Default,,0,0,0,,{TIME:157242,160242}
 Dialogue: 0,0:02:45.84,0:02:47.74,Default,,0,0,0,,{TIME:165842,167742}
 Dialogue: 0,0:02:47.74,0:02:49.77,Default,,0,0,0,,{TIME:167742,169776}
-Dialogue: 0,0:02:49.77,0:02:50.80,Default,,0,0,0,,{TIME:169776,170809}
+Dialogue: 0,0:02:49.77,0:02:50.77,Default,,0,0,0,,{TIME:169776,170776}
 Dialogue: 0,0:02:51.87,0:02:56.54,Default,,0,0,0,,{TIME:171876,176542}
 Dialogue: 0,0:02:56.54,0:02:58.64,Default,,0,0,0,,{TIME:176542,178642}
 Dialogue: 0,0:03:01.54,0:03:03.54,Default,,0,0,0,,{TIME:181542,183542}
@@ -233,7 +233,7 @@ Dialogue: 0,0:14:31.60,0:14:35.80,Default,,0,0,0,,{TIME:871609,875809}
 Dialogue: 0,0:14:35.80,0:14:40.20,Default,,0,0,0,,{TIME:875809,880209}
 Dialogue: 0,0:14:40.20,0:14:41.50,Default,,0,0,0,,{TIME:880209,881509}
 Dialogue: 0,0:14:49.20,0:14:52.47,Default,,0,0,0,,{TIME:889209,892476}
-Dialogue: 0,0:15:11.87,0:15:14.90,Default,,0,0,0,,{TIME:911876,914909}
+Dialogue: 0,0:15:11.70,0:15:14.90,Default,,0,0,0,,{TIME:911709,914909}
 Dialogue: 0,0:15:14.90,0:15:16.27,Default,,0,0,0,,{TIME:914909,916276}
 Dialogue: 0,0:15:16.27,0:15:18.44,Default,,0,0,0,,{TIME:916276,918442}
 Dialogue: 0,0:15:19.34,0:15:21.67,Default,,0,0,0,,{TIME:919342,921676}

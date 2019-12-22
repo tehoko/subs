@@ -24,7 +24,7 @@ Style: Sign,Gotham Rounded Bold,30,&H0066DAFF,&H000000FF,&H00202020,&H7F202020,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Opening
+Comment: 0,0:00:00.05,0:00:00.05,Default,[chapter],0,0,0,,{TIME:59,59}Opening
 Dialogue: 0,0:00:07.82,0:00:13.95,OP TL,[karaoke],0,0,0,,{TIME:7826,13959}Błądzę w ciemnościach\Nodkąd pamiętam
 Dialogue: 0,0:00:07.82,0:00:13.95,OP JP,[karaoke],0,0,0,,{TIME:7826,13959}{\blur0.5\an5\pos(330,453)}kaze wa nannimo iwanai keredo
 Dialogue: 0,0:00:13.95,0:00:20.22,OP TL,[karaoke],0,0,0,,{TIME:13959,20226}Lecz biała piłka i niebieskie boisko,
@@ -51,13 +51,13 @@ Dialogue: 0,0:01:04.59,0:01:11.42,Title,[title],0,0,0,,{TIME:64592,71426}{\pos(4
 Comment: 0,0:01:11.42,0:01:11.42,Default,[chapter],0,0,0,,{TIME:71426,71426}Plansza tytułowa
 Dialogue: 0,0:01:14.92,0:01:21.75,Default,[title],0,0,0,,{TIME:74926,81759}{\t(4833,6500,5,\1c&H101010&\3c&H101010&\4c&H101010&)}Odcinek 01:\NWskrzeszony klub siatkówki!
 Comment: 0,0:01:21.75,0:01:21.75,Default,[chapter],0,0,0,,{TIME:81759,81759}Część A
-Dialogue: 0,0:01:33.15,0:01:36.82,Default,,0,0,0,,{TIME:93159,96826}{\i1}Nasza historia rozpoczyna się\Nw małym miasteczku rybackim
-Dialogue: 0,0:01:36.82,0:01:39.95,Default,,0,0,0,,{TIME:96826,99959}{\i1}na półwyspie Miura\Nw prefekturze Kanagawa.
-Dialogue: 0,0:01:55.45,0:01:59.22,Default,,0,0,0,,{TIME:115459,119226}{\i1}W tutejszym liceum Tachibana\Nzaczyna się właśnie wiosenny semestr,
-Dialogue: 0,0:01:59.22,0:02:03.29,Default,,0,0,0,,{TIME:119226,123292}{\i1}a co za tym idzie, wszystkie szkolne kluby\Nsportowe wznawiają działalność pełną parą.
+Dialogue: 0,0:01:33.15,0:01:36.89,Default,,0,0,0,,{TIME:93159,96892}{\i1}Nasza historia rozpoczyna się\Nw małym miasteczku rybackim
+Dialogue: 0,0:01:36.89,0:01:39.95,Default,,0,0,0,,{TIME:96892,99959}{\i1}na półwyspie Miura\Nw prefekturze Kanagawa.
+Dialogue: 0,0:01:55.45,0:01:59.29,Default,,0,0,0,,{TIME:115459,119292}{\i1}W tutejszym liceum Tachibana\Nzaczyna się właśnie wiosenny semestr,
+Dialogue: 0,0:01:59.29,0:02:03.29,Default,,0,0,0,,{TIME:119292,123292}{\i1}a co za tym idzie, wszystkie szkolne kluby\Nsportowe wznawiają działalność pełną parą.
 Dialogue: 0,0:02:04.02,0:02:05.25,Default,,0,0,0,,{TIME:124026,125259}{\i1}Z pewnym wyjątkiem…
 Dialogue: 0,0:02:22.15,0:02:26.05,Default,,0,0,0,,{TIME:142159,146059}{\i1}Pokój ten, należący do klubu siatkarskiego,\Nnie był otwarty ani razu od pół roku.
-Dialogue: 0,0:02:26.05,0:02:29.72,Default,,0,0,0,,{TIME:146059,149726}{\i1}W szkolnym środowisku okrył się\Nwręcz niesławą jako „Zakazany Pokój”.
+Dialogue: 0,0:02:26.05,0:02:29.95,Default,,0,0,0,,{TIME:146059,149959}{\i1}W szkolnym środowisku okrył się\Nwręcz niesławą jako „Zakazany Pokój”.
 Dialogue: 0,0:02:32.79,0:02:37.05,Default,,0,0,0,,{TIME:152792,157059}{\i1}Jeszcze rok temu, klub siatkarski\Nliceum Tachibana mógł pochwalić się
 Dialogue: 0,0:02:37.05,0:02:39.72,Default,,0,0,0,,{TIME:157059,159726}{\i1}utalentowanym trenerem i wieloma\Nwspaniałymi osiągnięciami.
 Dialogue: 0,0:02:39.72,0:02:44.49,Default,,0,0,0,,{TIME:159726,164492}{\i1}Jednak gdy trener ów opuścił\Nszkołę z powodów osobistych,
@@ -91,7 +91,7 @@ Dialogue: 0,0:04:37.89,0:04:40.05,Default,,0,0,0,,{TIME:277892,280059}Czyżbyśc
 Dialogue: 0,0:04:40.05,0:04:43.49,Default,,0,0,0,,{TIME:280059,283492}Zakazany Pokój?\NCo to takiego?
 Dialogue: 0,0:04:43.49,0:04:45.55,Default,,0,0,0,,{TIME:283492,285559}Och? Nie słyszałyście o nim?
 Dialogue: 0,0:04:45.55,0:04:48.79,Default,,0,0,0,,{TIME:285559,288792}Zatem pewnie nie słyszałyście też,\Nże w pokoju za wami ponoć straszy?
-Dialogue: 0,0:04:49.89,0:04:51.79,Default,,0,0,0,,{TIME:289892,291792}Straszy?!
+Dialogue: 0,0:04:49.89,0:04:51.75,Default,,0,0,0,,{TIME:289892,291759}Straszy?!
 Dialogue: 0,0:04:52.52,0:04:54.82,Default,,0,0,0,,{TIME:292526,294826}Co to za bzdury?\NCo ty wygadujesz?
 Dialogue: 0,0:04:54.82,0:04:58.79,Default,,0,0,0,,{TIME:294826,298792}Zeszłego lata zmarła tam uczennica\Nna skutek nękania przez swój zespół.
 Dialogue: 0,0:04:58.79,0:05:00.55,Default,,0,0,0,,{TIME:298792,300559}Nie zmyślam tego.\NPisali o tym w gazetach.
@@ -104,21 +104,21 @@ Dialogue: 0,0:05:21.55,0:05:25.49,Default,,0,0,0,,{TIME:321559,325492}Nie dajcie
 Dialogue: 0,0:05:25.49,0:05:28.49,Default,,0,0,0,,{TIME:325492,328492}Dobrze przecież wiecie,\Nże nie ma czegoś takiego jak duchy.
 Dialogue: 0,0:05:28.49,0:05:31.19,Default,,0,0,0,,{TIME:328492,331192}Przyszłyście tutaj, aby dołączyć\Ndo klubu siatkówki, tak?
 Dialogue: 0,0:05:31.19,0:05:34.95,Default,,0,0,0,,{TIME:331192,334959}Zatem nie słuchajcie jej\Ni chodźmy posprzątać ten pokój.
-Dialogue: 0,0:05:45.72,0:05:47.92,Default,,0,0,0,,{TIME:345726,347926}Ach, skończone.
-Dialogue: 0,0:05:47.92,0:05:49.79,Default,,0,0,0,,{TIME:347926,349792}Czas na chwilę odpoczynku.
+Dialogue: 0,0:05:45.72,0:05:47.95,Default,,0,0,0,,{TIME:345726,347959}Ach, skończone.
+Dialogue: 0,0:05:47.95,0:05:49.79,Default,,0,0,0,,{TIME:347959,349792}Czas na chwilę odpoczynku.
 Dialogue: 0,0:05:49.79,0:05:51.75,Default,,0,0,0,,{TIME:349792,351759}Och? Gdzie wszyscy?
 Dialogue: 0,0:05:51.75,0:05:53.79,Default,,0,0,0,,{TIME:351759,353792}Uciekły sobie.
 Dialogue: 0,0:05:53.79,0:05:55.95,Default,,0,0,0,,{TIME:353792,355959}Uciekły? Dokąd?
 Dialogue: 0,0:05:55.95,0:06:00.15,Default,,0,0,0,,{TIME:355959,360159}Czy to ważne, dokąd? Najistotniejsze,\Nże uwierzyły w tę historię o duchach.
 Dialogue: 0,0:06:00.15,0:06:02.32,Default,,0,0,0,,{TIME:360159,362326}Co? No nie mów!
-Dialogue: 0,0:06:02.32,0:06:03.59,Default,,0,0,0,,{TIME:362326,363592}Ile zostało?
+Dialogue: 0,0:06:02.32,0:06:03.62,Default,,0,0,0,,{TIME:362326,363626}Ile zostało?
 Dialogue: 0,0:06:03.95,0:06:06.02,Default,,0,0,0,,{TIME:363959,366026}Sama jestem ciekawa.
 Dialogue: 0,0:06:09.02,0:06:12.02,Default,,0,0,0,,{TIME:369026,372026}Jedna… Dwie… Trzy… Cztery.
 Dialogue: 0,0:06:14.12,0:06:15.75,Default,,0,0,0,,{TIME:374126,375759}Zaledwie sześć…
 Dialogue: 0,0:06:15.75,0:06:20.92,Default,,0,0,0,,{TIME:375759,380926}Koniec końców nasz klub\Nbędzie miał zaledwie osiem osób.
 Dialogue: 0,0:06:21.92,0:06:25.19,Default,,0,0,0,,{TIME:381926,385192}Nic nie szkodzi.\NWystarczy w zupełności.
-Dialogue: 0,0:06:25.19,0:06:30.19,Default,,0,0,0,,{TIME:385192,390192}Musimy tylko pokazać, że nasz klub jest fajny,\Na od razu przyjdzie więcej osób.
-Dialogue: 0,0:06:30.19,0:06:31.85,Default,,0,0,0,,{TIME:390192,391859}Prawda?
+Dialogue: 0,0:06:25.19,0:06:30.25,Default,,0,0,0,,{TIME:385192,390259}Musimy tylko pokazać, że nasz klub jest fajny,\Na od razu przyjdzie więcej osób.
+Dialogue: 0,0:06:30.25,0:06:31.85,Default,,0,0,0,,{TIME:390259,391859}Prawda?
 Dialogue: 0,0:06:42.82,0:06:43.82,Default,,0,0,0,,{TIME:402826,403826}Yukari.
 Dialogue: 0,0:06:43.82,0:06:46.09,Default,,0,0,0,,{TIME:403826,406092}Mimi, nie uwierzysz.
 Dialogue: 0,0:06:46.09,0:06:47.32,Default,,0,0,0,,{TIME:406092,407326}Co się stało?
@@ -208,7 +208,7 @@ Dialogue: 0,0:12:03.72,0:12:07.35,Default,,0,0,0,,{TIME:723726,727359}Zapraszam 
 Dialogue: 0,0:12:07.55,0:12:09.85,Default,,0,0,0,,{TIME:727559,729859}Zapraszam, zapraszam!
 Dialogue: 0,0:12:10.52,0:12:12.55,Default,,0,0,0,,{TIME:730526,732559}Poczekajcie!\NHiraki-san, Yamada-san!
 Dialogue: 0,0:12:13.22,0:12:16.02,Default,,0,0,0,,{TIME:733226,736026}Byłyście w klubie w zeszłym roku,\Nczemu nie dołączycie z powrotem?
-Dialogue: 0,0:12:16.65,0:12:18.59,Default,,0,0,0,,{TIME:736659,738592}Proszę, wróćcie.
+Dialogue: 0,0:12:16.72,0:12:18.59,Default,,0,0,0,,{TIME:736726,738592}Proszę, wróćcie.
 Dialogue: 0,0:12:19.42,0:12:23.05,Default,,0,0,0,,{TIME:739426,743059}Faktycznie, uwielbiamy siatkę\Ni cię bardzo lubimy, Hijiri-san…
 Dialogue: 0,0:12:23.05,0:12:24.82,Default,,0,0,0,,{TIME:743059,744826}No to chodźcie.
 Dialogue: 0,0:12:24.82,0:12:27.55,Default,,0,0,0,,{TIME:744826,747559}Ale w tym pokoju straszy.
@@ -237,7 +237,7 @@ Dialogue: 0,0:13:36.82,0:13:40.32,Default,,0,0,0,,{TIME:816826,820326}Nie możem
 Dialogue: 0,0:13:40.32,0:13:41.75,Default,,0,0,0,,{TIME:820326,821759}Mam już tego dość.
 Dialogue: 0,0:13:41.75,0:13:45.99,Default,,0,0,0,,{TIME:821759,825992}Ale ktoś tu naprawdę umarł.\NCo jeśli tu faktycznie straszy?
 Dialogue: 0,0:13:46.42,0:13:47.95,Default,,0,0,0,,{TIME:826426,827959}Nie mów tak.
-Dialogue: 0,0:13:59.95,0:14:03.32,Default,,0,0,0,,{TIME:839959,843326}{\i1}Duchy nie istnieją.
+Dialogue: 0,0:13:59.99,0:14:03.32,Default,,0,0,0,,{TIME:839992,843326}{\i1}Duchy nie istnieją.
 Dialogue: 0,0:14:06.19,0:14:06.99,Default,,0,0,0,,{TIME:846192,846992}No chyba nie…
 Dialogue: 0,0:14:16.32,0:14:18.72,Default,,0,0,0,,{TIME:856326,858726}Hijiri-san jest taka odważna.
 Dialogue: 0,0:14:18.72,0:14:23.82,Default,,0,0,0,,{TIME:858726,863826}Jak zobaczy, że jej przyniosłem kawę,\Nna pewno się rozpłacze z radości.
@@ -258,7 +258,7 @@ Dialogue: 0,0:15:29.02,0:15:30.19,Default,,0,0,0,,{TIME:929026,930192}To ja.
 Dialogue: 0,0:15:30.19,0:15:33.55,Default,,0,0,0,,{TIME:930192,933559}Jestem Sekiya Kimiko z klasy 1B\Ni chciałabym dołączyć do waszego klubu.
 Dialogue: 0,0:15:35.19,0:15:37.62,Default,,0,0,0,,{TIME:935192,937626}Nie przeszkadzają ci\Nte legendy o duchach?
 Dialogue: 0,0:15:37.85,0:15:42.49,Default,,0,0,0,,{TIME:937859,942492}Ależ skąd. Ale jeśli faktycznie tam straszy,\Nto bardzo chętnie zobaczę ducha na żywo!
-Dialogue: 0,0:15:44.12,0:15:46.19,Default,,0,0,0,,{TIME:944126,946192}W każdym razie,\Nz chęcią cię przyjmiemy.
+Dialogue: 0,0:15:44.12,0:15:46.22,Default,,0,0,0,,{TIME:944126,946226}W każdym razie,\Nz chęcią cię przyjmiemy.
 Dialogue: 0,0:15:46.59,0:15:49.52,Default,,0,0,0,,{TIME:946592,949526}W zamian mam małą prośbę.
 Dialogue: 0,0:15:49.52,0:15:51.89,Default,,0,0,0,,{TIME:949526,951892}Z przyjemnością jej wysłuchamy.
 Dialogue: 0,0:15:51.89,0:15:58.25,Sign,(sign),0,0,0,,{TIME:951892,958259}{\fscx80\fscy80}Rakugo – rodzaj sztuki\Nw tradycyjnym japońskim teatrze

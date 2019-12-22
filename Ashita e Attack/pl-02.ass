@@ -24,7 +24,7 @@ Style: Sign,Gotham Rounded Bold,30,&H0066DAFF,&H000000FF,&H00202020,&H7F202020,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Opening
+Comment: 0,0:00:00.10,0:00:00.10,Default,[chapter],0,0,0,,{TIME:109,109}Opening
 Dialogue: 0,0:00:07.84,0:00:13.97,OP TL,[karaoke],0,0,0,,{TIME:7842,13976}Błądzę w ciemnościach\Nodkąd pamiętam
 Dialogue: 0,0:00:07.84,0:00:13.97,OP JP,[karaoke],0,0,0,,{TIME:7842,13976}{\blur0.5\an5\pos(330,453)}kaze wa nannimo iwanai keredo
 Dialogue: 0,0:00:13.97,0:00:20.24,OP TL,[karaoke],0,0,0,,{TIME:13976,20242}Lecz biała piłka i niebieskie boisko,
@@ -51,10 +51,10 @@ Dialogue: 0,0:01:04.60,0:01:11.50,Title,[title],0,0,0,,{TIME:64609,71509}{\pos(4
 Comment: 0,0:01:11.50,0:01:11.50,Default,[chapter],0,0,0,,{TIME:71509,71509}Plansza tytułowa
 Dialogue: 0,0:01:14.97,0:01:21.50,Default,[title],0,0,0,,{TIME:74976,81509}{\t(5733,6333,3,\1c&H101010&\3c&H101010&\4c&H101010&)}Odcinek 02:\NFałszywa kapitan
 Comment: 0,0:01:21.50,0:01:21.50,Default,[chapter],0,0,0,,{TIME:81509,81509}Część A
-Dialogue: 0,0:01:22.67,0:01:26.67,Default,,0,0,0,,{TIME:82676,86676}{\i1}W liceum Tachibana na półwyspie Miura\Nw prefekturze Kanagawa
-Dialogue: 0,0:01:26.67,0:01:32.14,Default,,0,0,0,,{TIME:86676,92142}{\i1}zaczął się właśnie nowy sezon szkolny.\NKlub siatkówki przeżywa pierwsze trudności.
-Dialogue: 0,0:01:32.14,0:01:35.27,Default,,0,0,0,,{TIME:92142,95276}{\i1}Wynikają one w dużej mierze z wypadku,\Njaki miał miejsce w zeszłym roku,
-Dialogue: 0,0:01:35.27,0:01:39.30,Default,,0,0,0,,{TIME:95276,99309}{\i1}w którym doszło do śmierci uczennicy\Nna skutek gnębienia przez starszych uczniów.
+Dialogue: 0,0:01:22.67,0:01:26.74,Default,,0,0,0,,{TIME:82676,86742}{\i1}W liceum Tachibana na półwyspie Miura\Nw prefekturze Kanagawa
+Dialogue: 0,0:01:26.74,0:01:32.17,Default,,0,0,0,,{TIME:86742,92176}{\i1}zaczął się właśnie nowy sezon szkolny.\NKlub siatkówki przeżywa pierwsze trudności.
+Dialogue: 0,0:01:32.17,0:01:35.30,Default,,0,0,0,,{TIME:92176,95309}{\i1}Wynikają one w dużej mierze z wypadku,\Njaki miał miejsce w zeszłym roku,
+Dialogue: 0,0:01:35.30,0:01:39.30,Default,,0,0,0,,{TIME:95309,99309}{\i1}w którym doszło do śmierci uczennicy\Nna skutek gnębienia przez starszych uczniów.
 Dialogue: 0,0:01:41.44,0:01:45.20,Default,,0,0,0,,{TIME:101442,105209}{\i1}Ze strony szkoły pojawiła się niechęć\Ndo ponownego otwarcia klubu.
 Dialogue: 0,0:01:45.90,0:01:51.17,Default,,0,0,0,,{TIME:105909,111176}{\i1}Jednak dzięki wysiłkom Hijiri Mimi szybko\Nudało się zebrać wystarczającą liczbę członków.
 Dialogue: 0,0:01:51.80,0:01:56.40,Default,,0,0,0,,{TIME:111809,116409}{\i1}Niestety, jedynie Mimi i jej koleżanka\NSugihara Yukari grały wcześniej w siatkówkę,
@@ -72,8 +72,8 @@ Dialogue: 0,0:02:47.44,0:02:51.44,Default,,0,0,0,,{TIME:167442,171442}Będąc ka
 Dialogue: 0,0:02:51.44,0:02:56.24,Default,,0,0,0,,{TIME:171442,176242}Niesamowite. Czyli wcale nie masz\Nzamiaru grać w siatkówkę.
 Dialogue: 0,0:02:56.24,0:03:03.00,Default,,0,0,0,,{TIME:176242,183009}Bingo. Każdy musi należeć do jakiegoś klubu.\NSzukałam takiego, gdzie będzie mi najlepiej.
 Dialogue: 0,0:03:03.40,0:03:08.47,Default,,0,0,0,,{TIME:183409,188476}Nie liczcie zatem, że was poprowadzę\Ndo wygrania gier czy coś takiego.
-Dialogue: 0,0:03:08.47,0:03:11.24,Default,,0,0,0,,{TIME:188476,191242}Co za bezczelność!
-Dialogue: 0,0:03:11.24,0:03:16.70,Default,,0,0,0,,{TIME:191242,196709}Więc wykorzystałaś naszą słabość tylko po to,\Nżeby zostać kapitanem i sobie leniuchować?
+Dialogue: 0,0:03:08.47,0:03:11.27,Default,,0,0,0,,{TIME:188476,191276}Co za bezczelność!
+Dialogue: 0,0:03:11.27,0:03:16.70,Default,,0,0,0,,{TIME:191276,196709}Więc wykorzystałaś naszą słabość tylko po to,\Nżeby zostać kapitanem i sobie leniuchować?
 Dialogue: 0,0:03:16.70,0:03:17.94,Default,,0,0,0,,{TIME:196709,197942}Dokładnie tak.
 Dialogue: 0,0:03:21.90,0:03:24.87,Default,,0,0,0,,{TIME:201909,204876}Nie martwcie się, nie zamierzam\Nwas tyranizować, czy coś.
 Dialogue: 0,0:03:24.87,0:03:29.97,Default,,0,0,0,,{TIME:204876,209976}Jeśli chcecie sobie ćwiczyć bez kapitana,\Nproszę bardzo, w to też się nie będę wtrącać.
@@ -85,7 +85,7 @@ Dialogue: 0,0:03:46.50,0:03:49.90,Default,,0,0,0,,{TIME:226509,229909}Raz… Dwa
 Dialogue: 0,0:03:49.90,0:03:52.84,Default,,0,0,0,,{TIME:229909,232842}Raz… Dwa… Trzy… Cztery.
 Dialogue: 0,0:03:52.84,0:03:56.07,Default,,0,0,0,,{TIME:232842,236076}Raz… Dwa… Trzy… Cztery.
 Dialogue: 0,0:03:54.60,0:03:56.07,Default,,0,0,0,,{TIME:234609,236076}{\an8}Raz… Dwa…
-Dialogue: 0,0:03:56.07,0:03:58.20,Default,,0,0,0,,{TIME:236076,238209}Raz… Dwa… Trzy…
+Dialogue: 0,0:03:56.07,0:03:58.24,Default,,0,0,0,,{TIME:236076,238242}Raz… Dwa… Trzy…
 Dialogue: 0,0:04:05.64,0:04:09.74,Default,,0,0,0,,{TIME:245642,249742}Proszę, proszę, kogo my tu mamy!\NTo nasze piękne duchy z klubu siatkówki!
 Dialogue: 0,0:04:14.27,0:04:15.87,Default,,0,0,0,,{TIME:254276,255876}Co to ma być?
 Dialogue: 0,0:04:37.17,0:04:39.90,Default,,0,0,0,,{TIME:277176,279909}Ichijō-san, chyba sama przyznasz,\Nże to niezbyt sprawiedliwe.
@@ -132,8 +132,8 @@ Dialogue: 0,0:08:24.50,0:08:27.37,Default,,0,0,0,,{TIME:504509,507376}– Padam 
 Dialogue: 0,0:08:28.30,0:08:32.87,Default,,0,0,0,,{TIME:508309,512876}Trochę wysiłku, i już się tak\Nużalacie nad sobą? Głowy do góry.
 Dialogue: 0,0:08:32.87,0:08:36.60,Default,,0,0,0,,{TIME:512876,516609}Tak. Treningi są zawsze ciężkie.\NAle wszystko jest kwestią przyzwyczajenia.
 Dialogue: 0,0:08:37.14,0:08:41.27,Default,,0,0,0,,{TIME:517142,521276}Hijiri-san, chyba nie zamierzasz\Ntrzymać strony naszej kapitan?
-Dialogue: 0,0:08:41.27,0:08:44.50,Default,,0,0,0,,{TIME:521276,524509}To nie tak. Myślę, że\Nkontynuując taki ciężki trening,
-Dialogue: 0,0:08:44.50,0:08:47.77,Default,,0,0,0,,{TIME:524509,527776}zbudujemy lepszą kondycję,\Nale też lepiej się zintegrujemy.
+Dialogue: 0,0:08:41.27,0:08:44.54,Default,,0,0,0,,{TIME:521276,524542}To nie tak. Myślę, że\Nkontynuując taki ciężki trening,
+Dialogue: 0,0:08:44.54,0:08:47.77,Default,,0,0,0,,{TIME:524542,527776}zbudujemy lepszą kondycję,\Nale też lepiej się zintegrujemy.
 Dialogue: 0,0:08:47.77,0:08:51.44,Default,,0,0,0,,{TIME:527776,531442}Nie jestem pewien,\Nczy ona myśli tak, jak ty.
 Dialogue: 0,0:08:51.44,0:08:53.34,Default,,0,0,0,,{TIME:531442,533342}Kiedyś tak będzie,\Njestem tego pewna.
 Dialogue: 0,0:08:53.34,0:08:56.74,Default,,0,0,0,,{TIME:533342,536742}No już, uszy do góry. Jak chcesz,\Nto możemy posłuchać twojego rakugo.
@@ -177,8 +177,8 @@ Dialogue: 0,0:11:06.77,0:11:07.94,Default,,0,0,0,,{TIME:666776,667942}Słucham?
 Dialogue: 0,0:11:07.94,0:11:11.20,Default,,0,0,0,,{TIME:667942,671209}Chciałabym kupić słodycze\Ndla dziewczyn z klubu.
 Dialogue: 0,0:11:11.20,0:11:14.84,Default,,0,0,0,,{TIME:671209,674842}Więc prosiłabym o drobną\Nkwotę do końca miesiąca.
 Dialogue: 0,0:11:14.84,0:11:17.84,Default,,0,0,0,,{TIME:674842,677842}Nie mogę się powstrzymać od uśmiechu\Nna twoją szybką zmianę nastawienia.
-Dialogue: 0,0:11:18.84,0:11:21.10,Default,,0,0,0,,{TIME:678842,681109}{\i1}Mi też chce się uśmiechać.
-Dialogue: 0,0:11:21.10,0:11:25.60,Default,,0,0,0,,{TIME:681109,685609}{\i1}Co jest takiego w tym klubie,\Nże jestem taka szczęśliwa, gdy o nim myślę?
+Dialogue: 0,0:11:18.84,0:11:21.17,Default,,0,0,0,,{TIME:678842,681176}{\i1}Mi też chce się uśmiechać.
+Dialogue: 0,0:11:21.17,0:11:25.60,Default,,0,0,0,,{TIME:681176,685609}{\i1}Co jest takiego w tym klubie,\Nże jestem taka szczęśliwa, gdy o nim myślę?
 Comment: 0,0:11:29.07,0:11:29.07,Default,[chapter],0,0,0,,{TIME:689076,689076}Część B
 Dialogue: 0,0:11:40.27,0:11:43.40,Default,,0,0,0,,{TIME:700276,703409}Świetna robota, Sugihara-san.
 Dialogue: 0,0:11:43.40,0:11:47.50,Default,,0,0,0,,{TIME:703409,707509}Ach, Mimi!\NWieści, wieści, wielkie wieści.

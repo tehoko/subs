@@ -24,7 +24,7 @@ Style: Sign,Gotham Rounded Bold,30,&H0066DAFF,&H000000FF,&H00202020,&H7F202020,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,[chapter],0,0,0,,{TIME:0,0}Opening
+Comment: 0,0:00:00.10,0:00:00.10,Default,[chapter],0,0,0,,{TIME:109,109}Opening
 Dialogue: 0,0:00:07.84,0:00:13.97,OP TL,[karaoke],0,0,0,,{TIME:7842,13976}Błądzę w ciemnościach\Nodkąd pamiętam
 Dialogue: 0,0:00:07.84,0:00:13.97,OP JP,[karaoke],0,0,0,,{TIME:7842,13976}{\blur0.5\an5\pos(330,453)}kaze wa nannimo iwanai keredo
 Dialogue: 0,0:00:13.97,0:00:20.27,OP TL,[karaoke],0,0,0,,{TIME:13976,20276}Lecz biała piłka i niebieskie boisko,
@@ -70,7 +70,7 @@ Dialogue: 0,0:02:35.60,0:02:38.57,Default,,0,0,0,,{TIME:155609,158576}Zaczynam d
 Dialogue: 0,0:03:11.14,0:03:13.54,Default,,0,0,0,,{TIME:191142,193542}Nic tylko biegamy i biegamy.
 Dialogue: 0,0:03:13.54,0:03:15.20,Default,,0,0,0,,{TIME:193542,195209}Chciałabym już pograć.
 Dialogue: 0,0:03:15.20,0:03:17.97,Default,,0,0,0,,{TIME:195209,197976}Ja też bym chciała\Npoodgrywać rakugo.
-Dialogue: 0,0:03:18.10,0:03:21.97,Default,,0,0,0,,{TIME:198109,201976}Co wy opowiadacie? Kondycja jest\Nnajważniejsza, bez tego reszta nie ma sensu.
+Dialogue: 0,0:03:18.14,0:03:21.97,Default,,0,0,0,,{TIME:198142,201976}Co wy opowiadacie? Kondycja jest\Nnajważniejsza, bez tego reszta nie ma sensu.
 Dialogue: 0,0:03:22.27,0:03:25.47,Default,,0,0,0,,{TIME:202276,205476}Biegamy tyle, żeby wyćwiczyć nogi\Ni później móc dobrze skakać.
 Dialogue: 0,0:03:25.64,0:03:29.47,Default,,0,0,0,,{TIME:205642,209476}Zmieniając temat,\Nteż czujecie jedzenie?
 Dialogue: 0,0:03:30.27,0:03:31.67,Default,,0,0,0,,{TIME:210276,211676}Faktycznie.
@@ -133,7 +133,7 @@ Dialogue: 0,0:07:15.20,0:07:17.87,Default,,0,0,0,,{TIME:435209,437876}{\i1}Tak j
 Dialogue: 0,0:07:17.87,0:07:20.37,Default,,0,0,0,,{TIME:437876,440376}Która? Która z was\Nmnie walnęła w głowę?
 Dialogue: 0,0:07:20.37,0:07:22.17,Default,,0,0,0,,{TIME:440376,442176}Dokąd to?\NIchijō, to ty?
 Dialogue: 0,0:07:24.97,0:07:26.57,Default,,0,0,0,,{TIME:444976,446576}{\i1}Chodź no tu!
-Dialogue: 0,0:07:26.77,0:07:29.04,Default,,0,0,0,,{TIME:446776,449042}Świetnie się składa.\NWreszcie wyrównamy rachunki.
+Dialogue: 0,0:07:26.57,0:07:29.04,Default,,0,0,0,,{TIME:446576,449042}Świetnie się składa.\NWreszcie wyrównamy rachunki.
 Dialogue: 0,0:07:29.64,0:07:30.90,Default,,0,0,0,,{TIME:449642,450909}To byłam ja!
 Dialogue: 0,0:07:32.17,0:07:35.20,Default,,0,0,0,,{TIME:452176,455209}Że… że jak?\NHijiri-chan, to byłaś ty?
 Dialogue: 0,0:07:35.20,0:07:38.44,Default,,0,0,0,,{TIME:455209,458442}Ach, to spoko.\NNawet mnie nie boli tak bardzo.
@@ -170,7 +170,7 @@ Dialogue: 0,0:09:10.07,0:09:13.77,Default,,0,0,0,,{TIME:550076,553776}Chyba nie 
 Dialogue: 0,0:09:13.77,0:09:15.54,Default,,0,0,0,,{TIME:553776,555542}Patrzcie na to.
 Dialogue: 0,0:09:18.87,0:09:20.54,Default,,0,0,0,,{TIME:558876,560542}Gdzie pan celuje?
 Dialogue: 0,0:09:26.47,0:09:27.34,Default,,0,0,0,,{TIME:566476,567342}Nie, to niemożliwe!
-Dialogue: 0,0:09:37.97,0:09:39.77,Default,,0,0,0,,{TIME:577976,579776}Ała! Nosz do cholery!
+Dialogue: 0,0:09:37.97,0:09:39.80,Default,,0,0,0,,{TIME:577976,579809}Ała! Nosz do cholery!
 Dialogue: 0,0:09:48.77,0:09:53.34,Default,,0,0,0,,{TIME:588776,593342}Hara-sensei, skoro jest pan tak dobry,\Nto czemu pan to do tej pory ukrywał?
 Dialogue: 0,0:09:53.67,0:09:56.10,Default,,0,0,0,,{TIME:593676,596109}Ależ ja się z niczym nie ukrywałem.
 Dialogue: 0,0:09:56.10,0:10:00.60,Default,,0,0,0,,{TIME:596109,600609}Sensei był bardzo dobrym graczem,\Nna studiach grał w reprezentacji Japonii.
@@ -220,7 +220,7 @@ Dialogue: 0,0:12:43.47,0:12:46.84,Default,,0,0,0,,{TIME:763476,766842}Jedynymi o
 Dialogue: 0,0:12:46.84,0:12:51.50,Default,,0,0,0,,{TIME:766842,771509}są członkowie rady uczniowskiej oraz\Nprzewodniczący bądź kapitanowie klubów.
 Dialogue: 0,0:12:52.17,0:12:53.97,Default,,0,0,0,,{TIME:772176,773976}Ale ja reprezentuję…
 Dialogue: 0,0:12:53.97,0:12:55.50,Default,,0,0,0,,{TIME:773976,775509}Chyba nie rozumiesz.
-Dialogue: 0,0:12:55.50,0:12:57.80,Default,,0,0,0,,{TIME:775509,777809}Czy jest tam przewodniczący?\NMógłby pozwolić na chwilę?
+Dialogue: 0,0:12:55.50,0:12:57.84,Default,,0,0,0,,{TIME:775509,777842}Czy jest tam przewodniczący?\NMógłby pozwolić na chwilę?
 Dialogue: 0,0:12:58.44,0:12:59.80,Default,,0,0,0,,{TIME:778442,779809}Tak? Jak mogę wam pomóc?
 Dialogue: 0,0:12:59.80,0:13:03.47,Default,,0,0,0,,{TIME:779809,783476}W spotkaniu budżetowym mogą brać udział\Njedynie przewodniczący klubów, tak?
 Dialogue: 0,0:13:03.47,0:13:05.07,Default,,0,0,0,,{TIME:783476,785076}Tak, zgadza się.
@@ -242,7 +242,7 @@ Dialogue: 0,0:14:01.77,0:14:04.24,Default,,0,0,0,,{TIME:841776,844242}Ichijō-sa
 Dialogue: 0,0:14:04.24,0:14:07.24,Default,,0,0,0,,{TIME:844242,847242}No nie wiem.\NJakoś mam złe przeczucia.
 Dialogue: 0,0:14:07.80,0:14:11.24,Default,,0,0,0,,{TIME:847809,851242}Następnie mamy kobiecy klub siatkówki.\NJak zapewne wszyscy wiedzą…
 Dialogue: 0,0:14:11.24,0:14:13.27,Default,,0,0,0,,{TIME:851242,853276}Wydaje mi się,\Nże możemy od razu przejść dalej.
-Dialogue: 0,0:14:13.27,0:14:17.74,Default,,0,0,0,,{TIME:853276,857742}Ale jesteś okropny.\NDajmy im chociaż na sznurówki.
+Dialogue: 0,0:14:13.27,0:14:17.77,Default,,0,0,0,,{TIME:853276,857776}Ale jesteś okropny.\NDajmy im chociaż na sznurówki.
 Dialogue: 0,0:14:20.24,0:14:24.70,Default,,0,0,0,,{TIME:860242,864709}Proszę kapitana klubu o głos.\NWe wniosku wpisaliście sumę 165 000 jenów.
 Dialogue: 0,0:14:24.70,0:14:27.60,Default,,0,0,0,,{TIME:864709,867609}Możesz wyjaśnić,\Nna co planujecie je przeznaczyć?
 Dialogue: 0,0:14:27.60,0:14:29.24,Default,,0,0,0,,{TIME:867609,869242}Nie znam szczegółów.
@@ -291,7 +291,7 @@ Dialogue: 0,0:17:19.60,0:17:22.50,Default,,0,0,0,,{TIME:1039609,1042509}Dlaczego
 Dialogue: 0,0:17:28.97,0:17:30.80,Default,,0,0,0,,{TIME:1048976,1050809}Widzisz, bo…
 Dialogue: 0,0:17:31.44,0:17:37.27,Default,,0,0,0,,{TIME:1051442,1057276}My mamy nasze uniformy z zeszłego roku,\Nale dla reszty nie było.
 Dialogue: 0,0:17:37.27,0:17:40.30,Default,,0,0,0,,{TIME:1057276,1060309}Nie mogę się doczekać,\Njak was zobaczę w nowych strojach.
-Dialogue: 0,0:17:41.00,0:17:42.90,Default,,0,0,0,,{TIME:1061009,1062909}Ja też.
+Dialogue: 0,0:17:40.97,0:17:42.90,Default,,0,0,0,,{TIME:1060976,1062909}Ja też.
 Dialogue: 0,0:17:54.27,0:17:57.27,Default,,0,0,0,,{TIME:1074276,1077276}Raz, dwa! Raz, dwa!
 Dialogue: 0,0:18:04.17,0:18:09.04,Default,,0,0,0,,{TIME:1084176,1089042}Dlaczego klub koszykówki stać\Nna nowe stroje dla całego zespołu?
 Dialogue: 0,0:18:09.04,0:18:11.84,Default,,0,0,0,,{TIME:1089042,1091842}Po prostu mają\Ndobrych sponsorów.
@@ -333,7 +333,7 @@ Dialogue: 0,0:20:24.77,0:20:26.44,Default,,0,0,0,,{TIME:1224776,1226442}Jesteś 
 Dialogue: 0,0:20:42.74,0:20:43.77,Default,,0,0,0,,{TIME:1242742,1243776}Niech wam będzie.
 Dialogue: 0,0:20:44.00,0:20:45.50,Default,,0,0,0,,{TIME:1244009,1245509}Ichijō-san!
 Dialogue: 0,0:20:46.37,0:20:47.64,Default,,0,0,0,,{TIME:1246376,1247642}Hej.
-Dialogue: 0,0:20:48.07,0:20:49.60,Default,,0,0,0,,{TIME:1248076,1249609}Sensei!
+Dialogue: 0,0:20:48.07,0:20:49.64,Default,,0,0,0,,{TIME:1248076,1249642}Sensei!
 Dialogue: 0,0:20:54.27,0:20:59.37,Default,,0,0,0,,{TIME:1254276,1259376}Młoda damo, składam ci wyrazy podziękowania\Njako trener klubu siatkarskiego liceum Tachibana.
 Dialogue: 0,0:20:59.70,0:21:01.40,Default,,0,0,0,,{TIME:1259709,1261409}Jako trener?
 Dialogue: 0,0:21:01.74,0:21:03.40,Default,,0,0,0,,{TIME:1261742,1263409}Jako trener?
@@ -346,8 +346,8 @@ Dialogue: 0,0:21:33.27,0:21:39.54,Default,,0,0,0,,{TIME:1293276,1299542}{\i1}Wyd
 Comment: 0,0:21:47.74,0:21:47.74,Default,[chapter],0,0,0,,{TIME:1307742,1307742}Zapowiedź
 Dialogue: 0,0:21:50.90,0:21:53.47,Default,,0,0,0,,{TIME:1310909,1313476}Mecz? Wolne żarty.
 Dialogue: 0,0:21:53.47,0:21:56.54,Default,,0,0,0,,{TIME:1313476,1316542}Nawet jeśli przegramy, nie szkodzi.\NNajważniejsze, żeby się dobrze bawić.
-Dialogue: 0,0:21:56.54,0:22:00.90,Default,,0,0,0,,{TIME:1316542,1320909}Nie. Przegrana nie wchodzi w rachubę.\NW tym tkwi całe sedno sportu.
-Dialogue: 0,0:22:00.90,0:22:05.40,Default,,0,0,0,,{TIME:1320909,1325409}Mecz pozwoli nam ocenić\Nskalę naszych umiejętności.
+Dialogue: 0,0:21:56.54,0:22:00.94,Default,,0,0,0,,{TIME:1316542,1320942}Nie. Przegrana nie wchodzi w rachubę.\NW tym tkwi całe sedno sportu.
+Dialogue: 0,0:22:00.94,0:22:05.40,Default,,0,0,0,,{TIME:1320942,1325409}Mecz pozwoli nam ocenić\Nskalę naszych umiejętności.
 Dialogue: 0,0:22:05.40,0:22:10.27,Default,,0,0,0,,{TIME:1325409,1330276}Naszym pierwszym przeciwnikiem\Nbędzie drużyna dorosłych rybaków.
 Dialogue: 0,0:22:11.07,0:22:13.14,Default,,0,0,0,,{TIME:1331076,1333142}W następnym odcinku\N„Ataku na Jutro”:
 Dialogue: 0,0:22:13.14,0:22:15.70,Default,,0,0,0,,{TIME:1333142,1335709}„Zagrywka nad morzem”.\NDo zobaczenia!
