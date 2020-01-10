@@ -14,29 +14,21 @@ Group: OldCastle & South Wind Subs
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: fables default,PoetsenOne,75,&H00FFFFFF,&H000000FF,&H00101010,&H69101010,0,0,0,0,100.0,100.0,0.0,0.0,1,4.0,5.0,2,40,40,40,1
-Style: fables group,Caveat Brush,80,&H00F5EBEB,&H000000FF,&H00000000,&H000F4310,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,5,40,40,40,1
-Style: fables presents green forest,Caveat Brush,92,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,5,40,40,40,1
+Style: fables default,PoetsenOne,75,&H00FFFFFF,&H000000FF,&H00503146,&H69603632,0,0,0,0,100.0,100.0,0.0,0.0,1,4.0,5.0,2,40,40,40,1
+Style: fables group,Gotham Rounded,45,&H39E7F0E2,&H000000FF,&H003D2523,&H1E55354B,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.5,4.0,5,40,40,40,1
 Style: fables series title,Caveat Brush,112,&H00FEF6F2,&H000000FF,&H00101010,&H37101010,-1,-1,0,0,100.0,100.0,0.0,0.0,1,2.0,8.0,5,40,40,40,1
-Style: fables episode title,Caveat Brush,120,&H00FFFFFF,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,6.0,5,40,40,40,1
-Style: fables author credits,PoetsenOne,50,&H0098EBD3,&H00090AE2,&H00224C35,&H69101010,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,3.0,2,40,40,40,1
-Style: fables op jp,Gotham Rounded,65,&H00FAFAFA,&H0079D2A1,&H00101010,&H37101010,0,0,0,0,100.0,100.0,0.0,0.0,1,4.0,4.0,2,40,40,55,1
-Style: fables ed jp,Gotham Rounded,65,&H00FAFAFA,&H0079D2A1,&H00101010,&H37101010,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,1.0,2,40,40,55,1
-Style: fables op tl,PoetsenOne,75,&H00FAFAFA,&H000000FF,&H00101010,&H37101010,-1,-1,0,0,100.0,100.0,0.0,0.0,1,4.0,5.0,8,40,40,40,1
-Style: fables ed tl,PoetsenOne,75,&H00FFFFFF,&H000000FF,&H00101010,&H37101010,-1,-1,0,0,100.0,100.0,0.0,0.0,1,4.0,5.0,8,40,40,40,1
+Style: fables episode title,Caveat Brush,120,&H00FCFCFC,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,6.0,5,40,40,40,1
+Style: fables author credits,PoetsenOne,50,&H00FCFCFC,&H00090AE2,&H00224C35,&H69101010,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,3.0,2,40,40,40,1
+Style: fables op jp,Gotham Rounded,65,&H00FAFAFA,&H0057C774,&H0055354B,&H371D291E,0,0,0,0,100.0,100.0,0.0,0.0,1,2.5,3.0,2,40,40,55,1
+Style: fables ed jp,Gotham Rounded,65,&H00FAFAFA,&H006AE8EF,&H002D444D,&H372D434D,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.7,2,40,40,55,1
+Style: fables op tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100.0,100.0,0.0,0.0,1,4.0,3.0,8,40,40,40,1
+Style: fables ed tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100.0,100.0,0.0,0.0,1,4.0,3.0,8,40,40,40,1
 Style: fables thanks,Caveat Brush,67,&H00FEFEFE,&H00090AE2,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,1.13,2,40,40,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,fables default,[chapter],0,0,0,,{TIME:0,0}Opening
-Dialogue: 0,0:00:00.33,0:00:01.66,fables group,[credits],0,0,0,,{TIME:334,1668}{\fad(500,0)\c&HE7F0E4&\blur1\fscx40\fscy40\move(710,410,710,370)\t(\fscx60\fscy60)\fnUnifraktur Cook}Old Castle{\fn} &  {\fnKabayan-SWS}south wind subs
-Dialogue: 0,0:00:01.66,0:00:02.25,fables group,[credits],0,0,0,,{TIME:1668,2252}{\c&HE7F0E4&\blur1\fscx60\fscy60\move(710,370,700,340)\t(\fscx70\fscy70)\fnUnifraktur Cook}Old Castle{\fn} &  {\fnKabayan-SWS}south wind subs
-Dialogue: 0,0:00:02.25,0:00:02.83,fables group,[credits],0,0,0,,{TIME:2252,2836}{\c&HE7F0E4&\blur1\fscx70\fscy70\move(700,340,720,270)\t(1.5,\fscx100\fscy100)\fnUnifraktur Cook}Old Castle{\fn} &  {\fnKabayan-SWS}south wind subs
-Dialogue: 0,0:00:02.83,0:00:04.83,fables group,[credits],0,0,0,,{TIME:2836,4838}{\c&HE7F0E4&\blur1\pos(720,270)\fnUnifraktur Cook}Old Castle{\fn} &  {\fnKabayan-SWS}south wind subs
-Dialogue: 0,0:00:00.33,0:00:01.66,fables presents green forest,[credits],0,0,0,,{TIME:334,1668}{\fad(500,0)\c&HE7F0E4&\blur1\fscx40\fscy40\move(710,670,710,690)\t(\fscx60\fscy60)}present Fables of the Green Forest
-Dialogue: 0,0:00:01.66,0:00:02.25,fables presents green forest,[credits],0,0,0,,{TIME:1668,2252}{\c&HE7F0E4&\blur1\fscx60\fscy60\move(710,690,700,720)\t(\fscx70\fscy70)}present Fables of the Green Forest
-Dialogue: 0,0:00:02.25,0:00:02.83,fables presents green forest,[credits],0,0,0,,{TIME:2252,2836}{\c&HE7F0E4&\blur1\fscx70\fscy70\move(700,720,720,780)\t(1.5,\fscx100\fscy100)}present Fables of the Green Forest
-Dialogue: 0,0:00:02.83,0:00:04.83,fables presents green forest,[credits],0,0,0,,{TIME:2836,4838}{\c&HE7F0E4&\blur1\pos(720,780)}present Fables of the Green Forest
+Dialogue: 0,0:00:04.83,0:00:09.92,fables group,,0,0,0,,{TIME:4838,9927}{\fad(0,1000)\pos(700,670)\fnUnifraktur Cook\fs80\c&HA3EFF9&}Old Castle{\fn\fs65} & {\fnKabayan-SWS\fs77}south wind subs{\fn\fs\c&F2F6FE&}\Npresent\N{\fnCaveat Brush\fs115\c&H74D87C&\i0}Fables of the Green Forest{\i1}
 Dialogue: 0,0:00:35.03,0:00:40.08,fables series title,[title],0,0,0,,{TIME:35035,40082}{\fad(200,0)\pos(720,850)}Fables of the Green Forest
 Dialogue: 0,0:00:10.13,0:00:15.43,fables op jp,[karaoke],0,0,0,,{TIME:10135,15432}{\blur1\k37.6}Mi{\k37.5}do{\k29.2}ri {\k33.4}ga {\k33.3}mo{\k29.2}ri {\k66.7}no {\k33.4}hi{\k33.4}da{\k33.3}ma{\k33.4}ri {\k41.7}wa
 Dialogue: 0,0:00:15.43,0:00:20.60,fables op jp,[karaoke],0,0,0,,{TIME:15432,20604}{\blur1\k54.2}Ka{\k16.7}ku{\k25.0}ren{\k29.2}bo {\k33.4}su{\k33.4}ru {\k29.2}no {\k33.3}ni {\k33.4}yo{\k33.4}i {\k33.3}to{\k29.2}ko{\k54.2}ro
@@ -67,7 +59,7 @@ Dialogue: 0,0:01:02.35,0:01:07.52,fables op tl,[karaoke],0,0,0,,{TIME:62354,6752
 Dialogue: 0,0:01:07.52,0:01:12.90,fables op tl,[karaoke],0,0,0,,{TIME:67526,72906}Where could the Lonesome Pine be?
 Dialogue: 0,0:01:12.90,0:01:18.99,fables op tl,[karaoke],0,0,0,,{TIME:72906,78996}{\fad(0,1000)}I keep asking everyone…
 Dialogue: 0,0:01:25.29,0:01:28.71,fables episode title,[title],0,0,0,,{TIME:85294,88714}{\fad(400,0)\pos(720,700)\blur1}Spring Comes to the Green Forest
-Dialogue: 0,0:01:25.29,0:01:28.71,fables author credits,[credits],0,0,0,,{TIME:85294,88714}{\fad(400,0)\blur1}Based on the books by Thornton W. Burgess.
+Dialogue: 0,0:01:25.29,0:01:28.71,fables author credits,[credits],0,0,0,,{TIME:85294,88714}{\pos(720,820)\fad(400,0)\blur1}Based on the books by Thornton W. Burgess.
 Comment: 0,0:01:28.71,0:01:28.71,fables default,[chapter],0,0,0,,{TIME:88714,88714}Part A
 Dialogue: 0,0:02:35.40,0:02:36.82,fables default,,0,0,0,,{TIME:155405,156823}What is this sound?
 Dialogue: 0,0:02:38.32,0:02:42.07,fables default,,0,0,0,,{TIME:158325,162079}Ah, it's the South Wind!
@@ -314,4 +306,4 @@ Dialogue: 0,0:25:15.80,0:25:19.76,fables ed tl,[karaoke],0,0,0,,{TIME:1515806,15
 Dialogue: 0,0:25:19.76,0:25:27.27,fables ed tl,[karaoke],0,0,0,,{TIME:1519768,1527276}Anything but that!
 Dialogue: 0,0:25:27.27,0:25:35.15,fables ed tl,[karaoke],0,0,0,,{TIME:1527276,1535159}What happens tomorrow in the rain?
 Dialogue: 0,0:25:35.15,0:25:43.70,fables ed tl,[karaoke],0,0,0,,{TIME:1535159,1543709}What happens tomorrow\Nbeyond the rainbow?
-Dialogue: 0,0:25:43.70,0:25:49.88,fables thanks,[credits],0,0,0,,{TIME:1543709,1549882}Special thanks from Old Castle & South Wind Subs to:\NCyber Zero, Mónica, Lordwen & Gango
+Dialogue: 0,0:25:43.70,0:25:49.88,fables thanks,[credits],0,0,0,,{TIME:1543709,1549882}{\blur0.7}Special thanks from Old Castle & South Wind Subs to:\NCyber Zero, Mónica, Lordwen & Gango
