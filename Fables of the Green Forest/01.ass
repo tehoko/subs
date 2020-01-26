@@ -14,16 +14,16 @@ Group: OldCastle & South Wind Subs
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: fables default,PoetsenOne,75,&H00FFFFFF,&H000000FF,&H00503146,&H69603632,0,0,0,0,100.0,100.0,0.0,0.0,1,4.0,5.0,2,40,40,40,1
-Style: fables group,Gotham Rounded,45,&H39E7F0E2,&H000000FF,&H003D2523,&H1E55354B,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.5,4.0,5,40,40,40,1
-Style: fables series title,Caveat Brush,112,&H00FEF6F2,&H000000FF,&H00101010,&H37101010,-1,-1,0,0,100.0,100.0,0.0,0.0,1,2.0,8.0,5,40,40,40,1
-Style: fables episode title,Caveat Brush,120,&H00FCFCFC,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,6.0,5,40,40,40,1
-Style: fables author credits,PoetsenOne,50,&H00FCFCFC,&H00090AE2,&H00224C35,&H69101010,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,3.0,2,40,40,40,1
-Style: fables op jp,Gotham Rounded,65,&H00FAFAFA,&H0057C774,&H0055354B,&H371D291E,0,0,0,0,100.0,100.0,0.0,0.0,1,2.5,3.0,2,40,40,55,1
-Style: fables ed jp,Gotham Rounded,65,&H00FAFAFA,&H006AE8EF,&H002D444D,&H372D434D,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.7,2,40,40,55,1
-Style: fables op tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100.0,100.0,0.0,0.0,1,4.0,3.0,8,40,40,40,1
-Style: fables ed tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100.0,100.0,0.0,0.0,1,4.0,3.0,8,40,40,40,1
-Style: fables thanks,Caveat Brush,67,&H00FEFEFE,&H00090AE2,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,1.13,2,40,40,40,1
+Style: fables default,PoetsenOne,75,&H00FFFFFF,&H000000FF,&H00503146,&H69603632,0,0,0,0,100,100,0,0,1,4,5,2,40,40,40,1
+Style: fables group,Gotham Rounded,45,&H39E7F0E2,&H000000FF,&H003D2523,&H1E472F3F,-1,0,0,0,100,100,0,0,1,2.5,4,5,40,40,40,1
+Style: fables series title,Caveat Brush,112,&H00FEF6F2,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100,100,0,0,1,2,8,5,40,40,40,1
+Style: fables episode title,Caveat Brush,120,&H00FCFCFC,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100,100,0,0,1,0,6,5,40,40,40,1
+Style: fables author credits,PoetsenOne,50,&H00FCFCFC,&H00090AE2,&H00224C35,&H69101010,0,0,0,0,100,100,0,0,1,0,3,2,40,40,40,1
+Style: fables op jp,Gotham Rounded,65,&H006AE8EF,&H0057C774,&H002C2C32,&H370A0C0B,0,0,0,0,100,100,0,0,1,2.5,3,2,40,40,55,1
+Style: fables ed jp,Gotham Rounded,65,&H00FAFAFA,&H006AE8EF,&H002D444D,&H372D434D,-1,0,0,0,100,100,0,0,1,0,0.7,2,40,40,55,1
+Style: fables op tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100,100,0,0,1,4,3,8,40,40,40,1
+Style: fables ed tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100,100,0,0,1,4,3,8,40,40,40,1
+Style: fables thanks,Caveat Brush,67,&H00FEFEFE,&H00090AE2,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,1.13,2,40,40,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -59,7 +59,7 @@ Dialogue: 0,0:01:02.35,0:01:07.52,fables op tl,[karaoke],0,0,0,,{TIME:62354,6752
 Dialogue: 0,0:01:07.52,0:01:12.90,fables op tl,[karaoke],0,0,0,,{TIME:67526,72906}Where could the Lonesome Pine be?
 Dialogue: 0,0:01:12.90,0:01:18.99,fables op tl,[karaoke],0,0,0,,{TIME:72906,78996}{\fad(0,1000)}I keep asking everyone…
 Dialogue: 0,0:01:25.29,0:01:28.71,fables episode title,[title],0,0,0,,{TIME:85294,88714}{\fad(400,0)\pos(720,700)\blur1}Spring Comes to the Green Forest
-Dialogue: 0,0:01:25.29,0:01:28.71,fables author credits,[credits],0,0,0,,{TIME:85294,88714}{\pos(720,820)\fad(400,0)\blur1}Based on the books by Thornton W. Burgess
+Dialogue: 0,0:01:25.29,0:01:28.71,fables author credits,[credits],0,0,0,,{TIME:85294,88714}{\pos(720,870)\fad(400,0)\blur1}Based on the books by Thornton W. Burgess
 Comment: 0,0:01:28.71,0:01:28.71,fables default,[chapter],0,0,0,,{TIME:88714,88714}Part A
 Dialogue: 0,0:02:35.40,0:02:36.82,fables default,,0,0,0,,{TIME:155405,156823}What is this sound?
 Dialogue: 0,0:02:38.32,0:02:42.07,fables default,,0,0,0,,{TIME:158325,162079}Ah, it's the South Wind!
