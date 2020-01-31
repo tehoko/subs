@@ -14,16 +14,16 @@ Group: OldCastle & South Wind Subs
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: fables default,PoetsenOne,75,&H00FFFFFF,&H000000FF,&H00503146,&H69603632,0,0,0,0,100,100,0,0,1,4,5,2,40,40,40,1
-Style: fables group,Gotham Rounded,45,&H39E7F0E2,&H000000FF,&H003D2523,&H1E472F3F,-1,0,0,0,100,100,0,0,1,2.5,4,5,40,40,40,1
-Style: fables series title,Caveat Brush,112,&H00FEF6F2,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100,100,0,0,1,2,8,5,40,40,40,1
-Style: fables episode title,Caveat Brush,120,&H00FCFCFC,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100,100,0,0,1,0,6,5,40,40,40,1
-Style: fables author credits,PoetsenOne,50,&H00FCFCFC,&H00090AE2,&H00224C35,&H69101010,0,0,0,0,100,100,0,0,1,0,3,2,40,40,40,1
-Style: fables op jp,Gotham Rounded,65,&H006AE8EF,&H0057C774,&H002C2C32,&H370A0C0B,0,0,0,0,100,100,0,0,1,2.5,3,2,40,40,55,1
-Style: fables ed jp,Gotham Rounded,65,&H00FAFAFA,&H006AE8EF,&H002D444D,&H372D434D,-1,0,0,0,100,100,0,0,1,0,0.7,2,40,40,55,1
-Style: fables op tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100,100,0,0,1,4,3,8,40,40,40,1
-Style: fables ed tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100,100,0,0,1,4,3,8,40,40,40,1
-Style: fables thanks,Caveat Brush,67,&H00FEFEFE,&H00090AE2,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,1.13,2,40,40,40,1
+Style: fables default,PoetsenOne,75,&H00FFFFFF,&H000000FF,&H00503146,&H69603632,0,0,0,0,100.0,100.0,0.0,0.0,1,4.0,5.0,2,40,40,40,1
+Style: fables group,Gotham Rounded,45,&H39E7F0E2,&H000000FF,&H003D2523,&H1E472F3F,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.5,4.0,5,40,40,40,1
+Style: fables series title,Caveat Brush,112,&H00FEF6F2,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,8.0,5,40,40,40,1
+Style: fables episode title,Caveat Brush,120,&H00FCFCFC,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,6.0,5,40,40,40,1
+Style: fables author credits,PoetsenOne,50,&H00FCFCFC,&H00090AE2,&H00224C35,&H69101010,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,3.0,2,40,40,40,1
+Style: fables op jp,Gotham Rounded,65,&H006AE8EF,&H0057C774,&H002C2C32,&H370A0C0B,0,0,0,0,100.0,100.0,0.0,0.0,1,2.5,3.0,2,40,40,55,1
+Style: fables ed jp,Gotham Rounded,65,&H00FAFAFA,&H006AE8EF,&H002D444D,&H372D434D,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.7,2,40,40,55,1
+Style: fables op tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100.0,100.0,0.0,0.0,1,4.0,3.0,8,40,40,40,1
+Style: fables ed tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100.0,100.0,0.0,0.0,1,4.0,3.0,8,40,40,40,1
+Style: fables thanks,Caveat Brush,67,&H00FEFEFE,&H00090AE2,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,1.13,2,40,40,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -119,13 +119,13 @@ Dialogue: 0,0:08:21.20,0:08:25.08,fables default,,0,0,0,,{TIME:501209,505088}Are
 Dialogue: 0,0:08:25.08,0:08:28.42,fables default,,0,0,0,,{TIME:505088,508425}They're not.\NWe can go now, it's safe.
 Dialogue: 0,0:08:28.88,0:08:31.97,fables default,,0,0,0,,{TIME:508883,511970}I'm afraid to cross the wheat field.
 Dialogue: 0,0:08:31.97,0:08:34.51,fables default,,0,0,0,,{TIME:511970,514514}There's no place to hide out there.
-Dialogue: 0,0:08:35.18,0:08:39.56,fables default,,0,0,0,,{TIME:515181,519561}Gee, don't you wanna learn\Nthe secret of Papa Woodchuck?
-Dialogue: 0,0:08:39.89,0:08:42.18,fables default,,0,0,0,,{TIME:519894,522188}Yeah, I'd like to know.
+Dialogue: 0,0:08:35.18,0:08:39.56,fables default,,0,0,0,,{TIME:515181,519561}Hey, we are going to\NOld Woodchuck's place, right?
+Dialogue: 0,0:08:39.89,0:08:42.18,fables default,,0,0,0,,{TIME:519894,522188}Well, I guess we are.
 Dialogue: 0,0:08:42.18,0:08:45.48,fables default,,0,0,0,,{TIME:522188,525483}Peter, you're the one who started\Ntalking about this, right?
-Dialogue: 0,0:08:45.48,0:08:48.90,fables default,,0,0,0,,{TIME:525483,528903}Me… I'm such a\Nwant-to-know-it-all.
+Dialogue: 0,0:08:45.48,0:08:48.90,fables default,,0,0,0,,{TIME:525483,528903}T-That's because\NI'm such a want-to-know-it-all.
 Dialogue: 0,0:08:51.11,0:08:55.16,fables default,,0,0,0,,{TIME:531114,535160}I… I just want to know everything!\NSo much that I can't help it.
-Dialogue: 0,0:08:56.32,0:09:01.41,fables default,,0,0,0,,{TIME:536327,541416}B-But you know, it's a wonder\Nold man Woodchuck hasn't gotten up yet.
-Dialogue: 0,0:09:02.16,0:09:04.08,fables default,,0,0,0,,{TIME:542167,544085}Yeah, that's probably part\Nof a little secret there.
+Dialogue: 0,0:08:56.32,0:09:01.41,fables default,,0,0,0,,{TIME:536327,541416}Y-You know, it's a wonder\Nold man Woodchuck hasn't gotten up yet.
+Dialogue: 0,0:09:02.16,0:09:04.08,fables default,,0,0,0,,{TIME:542167,544085}Yeah, there must be\Nsome secret in that.
 Dialogue: 0,0:09:04.08,0:09:05.50,fables default,,0,0,0,,{TIME:544085,545503}A secret?
 Dialogue: 0,0:09:05.50,0:09:06.50,fables default,,0,0,0,,{TIME:545503,546504}Secret?
 Dialogue: 0,0:09:06.79,0:09:10.46,fables default,,0,0,0,,{TIME:546796,550467}Let's go! I just have\Nto learn that secret.
@@ -260,7 +260,7 @@ Dialogue: 0,0:22:20.29,0:22:22.09,fables default,,0,0,0,,{TIME:1340297,1342091}P
 Dialogue: 0,0:22:22.09,0:22:24.51,fables default,,0,0,0,,{TIME:1342091,1344510}Mama.
 Dialogue: 0,0:22:27.47,0:22:32.39,fables default,,0,0,0,,{TIME:1347471,1352393}Gosh, thank you, Peter.\NRocky's life was saved thanks to you.
 Dialogue: 0,0:22:32.39,0:22:34.93,fables default,,0,0,0,,{TIME:1352393,1354937}I-It was sheer luck.
-Dialogue: 0,0:22:36.56,0:22:42.15,fables default,,0,0,0,,{TIME:1356564,1362152}Now that Reddy and Sammy\Nknow about our children,
+Dialogue: 0,0:22:36.56,0:22:42.15,fables default,,0,0,0,,{TIME:1356564,1362152}Now that you and Sammy\Nknow about our children,
 Dialogue: 0,0:22:42.15,0:22:44.57,fables default,,0,0,0,,{TIME:1362152,1364572}we can't keep\Nthe secret any longer.
 Dialogue: 0,0:22:48.61,0:22:51.57,fables default,,0,0,0,,{TIME:1368617,1371579}There's always much danger.
 Dialogue: 0,0:22:57.20,0:22:58.87,fables default,,0,0,0,,{TIME:1377209,1378878}Bowser!
