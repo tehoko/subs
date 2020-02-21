@@ -29,7 +29,7 @@ Style: fables thanks,Caveat Brush,67,&H00FEFEFE,&H00090AE2,&H00000000,&H00000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,fables default,[chapter],0,0,0,,{TIME:0,0}Opening
-Dialogue: 0,0:00:04.83,0:00:09.92,fables group,,0,0,0,,{TIME:4838,9927\fad(0,1000)\pos(700,670)\fnUnifraktur Cook\fs80\c&HA3EFF9&}Old Castle{\fn\fs65} & {\fnKabayan-SWS\fs77}south wind subs{\fn\fs\c&HF2F6FE&}\Nprezintă\N{\fnCaveat Brush\fs115\c&H74D87C&\i0}Povestiri din Pădurea Verde{\i1\i0}
+Dialogue: 0,0:00:04.83,0:00:09.92,fables group,,0,0,0,,{TIME:4838,9927}{\fad(0,1000)\pos(700,670)\fnUnifraktur Cook\fs80\c&HA3EFF9&}Old Castle{\fn\fs65} & {\fnKabayan-SWS\fs77}south wind subs{\fn\fs\c&HF2F6FE&}\Nprezintă\N{\fnCaveat Brush\fs115\c&H74D87C&\i0}Povestiri din Pădurea Verde
 Dialogue: 0,0:00:35.03,0:00:40.08,fables series title,[title],0,0,0,,{TIME:35035,40082}{\fad(200,0)\pos(720,850)}Povestiri din Pădurea Verde
 Dialogue: 0,0:00:10.13,0:00:15.43,fables op jp,[karaoke],0,0,0,,{TIME:10135,15432}{\blur1\k37.6}Mi{\k37.5}do{\k29.2}ri {\k33.4}ga {\k33.3}mo{\k29.2}ri {\k66.7}no {\k33.4}hi{\k33.4}da{\k33.3}ma{\k33.4}ri {\k41.7}wa
 Dialogue: 0,0:00:15.43,0:00:20.60,fables op jp,[karaoke],0,0,0,,{TIME:15432,20604}{\blur1\k54.2}Ka{\k16.7}ku{\k25.0}ren{\k29.2}bo {\k33.4}su{\k33.4}ru {\k29.2}no {\k33.3}ni {\k33.4}yo{\k33.4}i {\k33.3}to{\k29.2}ko{\k54.2}ro
@@ -85,7 +85,7 @@ Dialogue: 0,0:04:38.86,0:04:43.20,fables default,,0,0,0,,{TIME:278862,283200}Ro�
 Dialogue: 0,0:04:46.36,0:04:48.41,fables default,,0,0,0,,{TIME:286369,288413}E atât de copilăros!
 Dialogue: 0,0:04:59.00,0:05:01.80,fables default,,0,0,0,,{TIME:299007,301802}A venit primăvara, în sfârşit!
 Dialogue: 0,0:05:03.34,0:05:06.38,fables default,,0,0,0,,{TIME:303345,306389}Multe bunătăţi aleargă pe aici!
-Dialogue: 0,0:05:12.02,0:05:14.94,fables default,,0,0,0,,{TIME:312020,314940}Ce peşte...\NMare, foarte mare...
+Dialogue: 0,0:05:12.02,0:05:14.94,fables default,,0,0,0,,{TIME:312020,314940}Ce peşte…\NMare, foarte mare…
 Dialogue: 0,0:05:25.99,0:05:28.91,fables default,,0,0,0,,{TIME:325992,328912}Bobby!\NA venit Adierea Primăverii!
 Dialogue: 0,0:05:28.91,0:05:31.33,fables default,,0,0,0,,{TIME:328912,331331}Peştele meu,\Nunde-i peştele meu?
 Dialogue: 0,0:05:32.29,0:05:34.79,fables default,,0,0,0,,{TIME:332290,334793}Unde-i peştele meu?
@@ -109,7 +109,7 @@ Dialogue: 0,0:07:36.03,0:07:38.54,fables default,,0,0,0,,{TIME:456039,458541}Pet
 Dialogue: 0,0:07:38.54,0:07:41.25,fables default,,0,0,0,,{TIME:458541,461252}Hei, hei! Unde mergeţi?\NUnde mergeţi?
 Dialogue: 0,0:07:41.25,0:07:43.42,fables default,,0,0,0,,{TIME:461252,463421}Spuneţi-mi, spuneţi-mi!
 Dialogue: 0,0:07:46.84,0:07:48.34,fables default,,0,0,0,,{TIME:466841,468343}Bine, dacă aşa vreţi!
-Dialogue: 0,0:07:52.01,0:07:54.89,fables default,,0,0,0,,{TIME:472013,474891}Vor să-mi ascundă ceva...
+Dialogue: 0,0:07:52.01,0:07:54.89,fables default,,0,0,0,,{TIME:472013,474891}Vor să-mi ascundă ceva…
 Dialogue: 0,0:07:54.89,0:07:55.93,fables default,,0,0,0,,{TIME:474891,475934}Dar asta va fi imposibil!
 Dialogue: 0,0:08:03.48,0:08:05.02,fables default,,0,0,0,,{TIME:483483,485026}V-am văzut, v-am văzut!
 Dialogue: 0,0:08:05.02,0:08:08.86,fables default,,0,0,0,,{TIME:485026,488863}Se îndreptă către Râul Mare,\Ndupă ce au trecut Pârâul Vesel.
@@ -124,7 +124,7 @@ Dialogue: 0,0:08:35.18,0:08:39.56,fables default,,0,0,0,,{TIME:515181,519561}Hei
 Dialogue: 0,0:08:39.89,0:08:42.18,fables default,,0,0,0,,{TIME:519894,522188}Păi, cred că da.
 Dialogue: 0,0:08:42.18,0:08:45.48,fables default,,0,0,0,,{TIME:522188,525483}Peter, tu ai început\Nsă vorbeşti despre asta, nu?
 Dialogue: 0,0:08:45.48,0:08:48.90,fables default,,0,0,0,,{TIME:525483,528903}Asta pentru că sunt foarte curios.
-Dialogue: 0,0:08:51.11,0:08:55.16,fables default,,0,0,0,,{TIME:531114,535160}Vreau... vreau să ştiu totul!\NAtât de tare încât... nu mă pot controla.
+Dialogue: 0,0:08:51.11,0:08:55.16,fables default,,0,0,0,,{TIME:531114,535160}Vreau… vreau să ştiu totul!\NAtât de tare încât… nu mă pot controla.
 Dialogue: 0,0:08:56.32,0:09:01.41,fables default,,0,0,0,,{TIME:536327,541416}D-dar ştii, e ciudat că bătrânul Marmotă\Nnu s-a trezit încă.
 Dialogue: 0,0:09:02.16,0:09:04.08,fables default,,0,0,0,,{TIME:542167,544085}Da, trebuie să fie vorba de un secret.
 Dialogue: 0,0:09:04.08,0:09:05.50,fables default,,0,0,0,,{TIME:544085,545503}Un secret?
@@ -140,7 +140,7 @@ Dialogue: 0,0:09:58.76,0:10:02.47,fables default,,0,0,0,,{TIME:598765,602477}Iar
 Dialogue: 0,0:10:02.47,0:10:05.77,fables default,,0,0,0,,{TIME:602477,605772}Dacă mai amân, vom rata\Nevenimentul părăsirii cuibului.
 Dialogue: 0,0:10:05.77,0:10:09.06,fables default,,0,0,0,,{TIME:605772,609067}Acum e bine.\NVeniţi afară cu toţii.
 Dialogue: 0,0:10:23.28,0:10:27.00,fables default,,0,0,0,,{TIME:623289,627001}Veniţi aici. Nu vă îndepărtaţi.\NAşa.
-Dialogue: 0,0:10:27.00,0:10:29.87,fables default,,0,0,0,,{TIME:627001,629879}Fiţi atenţi, vom învăţa totul despre pădure,
+Dialogue: 0,0:10:27.00,0:10:29.87,fables default,,0,0,0,,{TIME:627001,629879}Fiţi atenţi, vom învăţa\Ntotul despre pădure,
 Dialogue: 0,0:10:29.87,0:10:33.21,fables default,,0,0,0,,{TIME:629879,633216}sunt multe lucruri pe care\Ntrebuie să le învăţaţi de acum.
 Dialogue: 0,0:10:34.50,0:10:35.92,fables default,,0,0,0,,{TIME:634509,635927}Înţeleg, înţeleg.
 Dialogue: 0,0:10:37.67,0:10:39.97,fables default,,0,0,0,,{TIME:637679,639973}Aşadar ăsta era secretul.
@@ -166,12 +166,12 @@ Dialogue: 0,0:12:37.00,0:12:40.05,fables default,,0,0,0,,{TIME:757006,760051}Nu 
 Dialogue: 0,0:12:42.09,0:12:45.01,fables default,,0,0,0,,{TIME:762095,765014}Ce?! Cum mi-ai spus, băi, marmotă?!
 Dialogue: 0,0:12:45.01,0:12:48.51,fables default,,0,0,0,,{TIME:765014,768518}Nici măcar nu poţi\Nsă-ţi înveţi puiul ceva. Umflatule!
 Dialogue: 0,0:12:49.51,0:12:51.93,fables default,,0,0,0,,{TIME:769519,771938}Eşti un băgăcios nerăbdător!
-Dialogue: 0,0:12:51.93,0:12:54.73,fables default,,0,0,0,,{TIME:771938,774732}N-o să mai vorbesc vreodată cu tine, pipernicitule!
+Dialogue: 0,0:12:51.93,0:12:54.73,fables default,,0,0,0,,{TIME:771938,774732}N-o să mai vorbesc vreodată\Ncu tine, pipernicitule!
 Dialogue: 0,0:12:57.27,0:13:01.15,fables default,,0,0,0,,{TIME:777277,781155}Nici eu cu tine.\NSă nu uiţi asta.
 Dialogue: 0,0:13:15.33,0:13:20.96,fables default,,0,0,0,,{TIME:795336,800967}Peter, Peter, ştii unde e Roşcovanul?\NAm fost la vizuina lui, şi nu-i acolo!
 Dialogue: 0,0:13:21.55,0:13:25.97,fables default,,0,0,0,,{TIME:801551,805972}Poate că doarme încă şi nu ştie\Ncă a venit primăvara.
-Dialogue: 0,0:13:25.97,0:13:29.01,fables default,,0,0,0,,{TIME:805972,809017}Peter, tocmai ţi-am spus că am fost acolo!
-Dialogue: 0,0:13:30.22,0:13:34.06,fables default,,0,0,0,,{TIME:810226,814063}Păcat, tocmai voiam să-i dau nişte veşti bune.
+Dialogue: 0,0:13:25.97,0:13:29.01,fables default,,0,0,0,,{TIME:805972,809017}Peter, tocmai ţi-am\Nspus că am fost acolo!
+Dialogue: 0,0:13:30.22,0:13:34.06,fables default,,0,0,0,,{TIME:810226,814063}Păcat, tocmai voiam\Nsă-i dau nişte veşti bune.
 Dialogue: 0,0:13:42.03,0:13:43.99,fables default,,0,0,0,,{TIME:822030,823990}Care sunt veştile bune, Sammy?
 Dialogue: 0,0:13:45.28,0:13:46.74,fables default,,0,0,0,,{TIME:825283,826743}Vrei să le auzi?
 Dialogue: 0,0:13:46.74,0:13:49.16,fables default,,0,0,0,,{TIME:826743,829162}Desigur!\NSpune-mi, spune-mi!
@@ -187,7 +187,7 @@ Dialogue: 0,0:14:15.14,0:14:17.89,fables default,,0,0,0,,{TIME:855146,857899}Să
 Dialogue: 0,0:14:20.90,0:14:23.07,fables default,,0,0,0,,{TIME:860902,863071}Nu asta-i ştirea.
 Dialogue: 0,0:14:23.07,0:14:25.86,fables default,,0,0,0,,{TIME:863071,865865}O să fie o luptă între\NTata Marmotă şi Vulpoiul Roşcovan.
 Dialogue: 0,0:14:25.86,0:14:28.65,fables default,,0,0,0,,{TIME:865865,868659}Vino să vezi.\NO să fie destul de interesant!
-Dialogue: 0,0:14:28.65,0:14:32.70,fables default,,0,0,0,,{TIME:868659,872705}Adică… O să-i spui Roşcovanului despre pui?
+Dialogue: 0,0:14:28.65,0:14:32.70,fables default,,0,0,0,,{TIME:868659,872705}Adică… O să-i spui\NRoşcovanului despre pui?
 Dialogue: 0,0:14:33.95,0:14:36.25,fables default,,0,0,0,,{TIME:873956,876250}Da, inima îmi bate cu putere.
 Dialogue: 0,0:14:36.25,0:14:38.46,fables default,,0,0,0,,{TIME:876250,878461}Sammy!
 Dialogue: 0,0:14:39.42,0:14:42.46,fables default,,0,0,0,,{TIME:879420,882465}Sammy, aşteaptă, aşteaptă!
@@ -195,10 +195,10 @@ Dialogue: 0,0:14:51.26,0:14:54.26,fables default,,0,0,0,,{TIME:891265,894268}Ce 
 Dialogue: 0,0:14:54.26,0:14:57.39,fables default,,0,0,0,,{TIME:894268,897397}A venit primăvara.\NNu vrei să te joci pe Pajiştea Verde?
 Dialogue: 0,0:14:57.39,0:15:00.31,fables default,,0,0,0,,{TIME:897397,900316}Sau ţi-e prea frică de mine\Nşi nu îndrăzneşti să ieşi?
 Dialogue: 0,0:15:11.74,0:15:15.58,fables default,,0,0,0,,{TIME:911744,915581}Tu nu eşti în stare să prinzi\Nnici cel mai leneş gândac!
-Dialogue: 0,0:15:15.58,0:15:17.95,fables default,,0,0,0,,{TIME:915581,917959}Du-te acasă şi bagă-te în pat, Roşcovanule!
+Dialogue: 0,0:15:15.58,0:15:17.95,fables default,,0,0,0,,{TIME:915581,917959}Du-te acasă şi bagă-te\Nîn pat, Roşcovanule!
 Dialogue: 0,0:15:17.95,0:15:23.13,fables default,,0,0,0,,{TIME:917959,923131}Să-ţi spun eu ceva. O să mă duc\Nla vizuina lui Tata Marmotă, chiar acum.
 Dialogue: 0,0:15:23.13,0:15:25.59,fables default,,0,0,0,,{TIME:923131,925591}De o vreme am fost cu ochii pe el.
-Dialogue: 0,0:15:25.59,0:15:29.22,fables default,,0,0,0,,{TIME:925591,929220}Şi acum am aflat şi de cei trei puişori de marmotă.
+Dialogue: 0,0:15:25.59,0:15:29.22,fables default,,0,0,0,,{TIME:925591,929220}Şi acum am aflat şi de cei\Ntrei puişori de marmotă.
 Dialogue: 0,0:15:29.22,0:15:31.59,fables default,,0,0,0,,{TIME:929220,931597}Am auzit totul.
 Dialogue: 0,0:15:32.43,0:15:36.76,fables default,,0,0,0,,{TIME:932432,936769}Nu va fi uşor,\Ndar abia aştept să pun gheara pe ei.
 Dialogue: 0,0:15:40.64,0:15:43.19,fables default,,0,0,0,,{TIME:940648,943192}Cu siguranţă, a venit primăvara.
@@ -210,14 +210,14 @@ Dialogue: 0,0:16:03.33,0:16:05.08,fables default,,0,0,0,,{TIME:963337,965089}Bin
 Dialogue: 0,0:16:06.21,0:16:07.09,fables default,,0,0,0,,{TIME:966215,967091}Şi acela?
 Dialogue: 0,0:16:07.09,0:16:09.21,fables default,,0,0,0,,{TIME:967091,969218}Acela e Bowser, câinele.
 Dialogue: 0,0:16:09.21,0:16:12.68,fables default,,0,0,0,,{TIME:969218,972680}E cel mai bun prieten al omului.
-Dialogue: 0,0:16:12.68,0:16:14.76,fables default,,0,0,0,,{TIME:972680,974765}Te agiţi întruna, pentru că-i primăvară, nu?
+Dialogue: 0,0:16:12.68,0:16:14.76,fables default,,0,0,0,,{TIME:972680,974765}Te agiţi întruna,\Npentru că-i primăvară, nu?
 Dialogue: 0,0:16:14.76,0:16:18.81,fables default,,0,0,0,,{TIME:974765,978811}O să-ţi dau drumul, dar să laşi în pace\Nanimăluţele neajutorate din pădure.
 Dialogue: 0,0:16:23.90,0:16:25.98,fables default,,0,0,0,,{TIME:983900,985985}Veniţi, copii.
 Dialogue: 0,0:16:29.82,0:16:31.74,fables default,,0,0,0,,{TIME:989822,991741}Aţi înţeles?
 Dialogue: 0,0:16:31.74,0:16:33.20,fables default,,0,0,0,,{TIME:991741,993201}Da!
 Dialogue: 0,0:16:33.20,0:16:34.82,fables default,,0,0,0,,{TIME:993201,994827}Bine, să încercăm acum.
 Dialogue: 0,0:16:36.82,0:16:38.74,fables default,,0,0,0,,{TIME:996829,998748}Începeţi!
-Dialogue: 0,0:16:44.67,0:16:48.54,fables default,,0,0,0,,{TIME:1004670,1008549}Hei, hei, nu e corect! E ascunzătoarea mea!
+Dialogue: 0,0:16:44.67,0:16:48.54,fables default,,0,0,0,,{TIME:1004670,1008549}Hei, hei, nu e corect!\NE ascunzătoarea mea!
 Dialogue: 0,0:16:48.54,0:16:50.13,fables default,,0,0,0,,{TIME:1008549,1010134}Eu am ajuns primul!
 Dialogue: 0,0:16:50.13,0:16:51.76,fables default,,0,0,0,,{TIME:1010134,1011761}– E a mea!\N– Dă-te la o parte!
 Dialogue: 0,0:16:51.76,0:16:54.05,fables default,,0,0,0,,{TIME:1011761,1014055}– Lasă-mă să intru!\N– Stai!
@@ -225,7 +225,7 @@ Dialogue: 0,0:16:54.05,0:16:55.72,fables default,,0,0,0,,{TIME:1014055,1015723}�
 Dialogue: 0,0:16:55.72,0:16:57.68,fables default,,0,0,0,,{TIME:1015723,1017683}– Rocky!\N– Lasă-mă să intru!
 Dialogue: 0,0:16:57.68,0:16:59.68,fables default,,0,0,0,,{TIME:1017683,1019685}Nu, nu, nu!
 Dialogue: 0,0:17:03.60,0:17:07.73,fables default,,0,0,0,,{TIME:1023606,1027735}Copii, bine că e doar un exerciţiu.
-Dialogue: 0,0:17:07.73,0:17:15.40,fables default,,0,0,0,,{TIME:1027735,1035409}Dacă aici erau Roşcovanul sau Bowser,\Nv-ar fi prins... pe toţi trei!
+Dialogue: 0,0:17:07.73,0:17:15.40,fables default,,0,0,0,,{TIME:1027735,1035409}Dacă aici erau Roşcovanul sau Bowser,\Nv-ar fi prins… pe toţi trei!
 Dialogue: 0,0:17:15.82,0:17:19.41,fables default,,0,0,0,,{TIME:1035826,1039413}Să încercăm din nou,\Nde la început.
 Dialogue: 0,0:17:26.00,0:17:29.29,fables default,,0,0,0,,{TIME:1046003,1049298}Aş vrea să-i previn,\Ndar Roşcovanul e pe aproape!
 Dialogue: 0,0:17:29.29,0:17:31.38,fables default,,0,0,0,,{TIME:1049298,1051384}Asta e o mare problemă.
@@ -239,14 +239,14 @@ Dialogue: 0,0:19:11.90,0:19:15.36,fables default,,0,0,0,,{TIME:1151901,1155363}V
 Dialogue: 0,0:19:15.36,0:19:18.40,fables default,,0,0,0,,{TIME:1155363,1158407}Nu e bine! Aţi uitat, deja?
 Dialogue: 0,0:19:18.40,0:19:20.57,fables default,,0,0,0,,{TIME:1158407,1160576}Semnalul ăla înseamnă\Nsă vă opriţi, înţelegeţi?
 Dialogue: 0,0:19:22.07,0:19:26.12,fables default,,0,0,0,,{TIME:1162078,1166123}Acum, acum, acum începe distracţia!
-Dialogue: 0,0:19:44.39,0:19:46.26,fables default,,0,0,0,,{TIME:1184392,1186268}Îşi închipuie cumva că mă sperie pe mine?
+Dialogue: 0,0:19:44.39,0:19:46.26,fables default,,0,0,0,,{TIME:1184392,1186268}Îşi închipuie cumva\Ncă mă sperie pe mine?
 Dialogue: 0,0:19:47.31,0:19:49.35,fables default,,0,0,0,,{TIME:1187311,1189355}Nu încă, nu încă.\NStaţi liniştiţi.
 Dialogue: 0,0:19:53.31,0:19:55.90,fables default,,0,0,0,,{TIME:1193317,1195903}Aşa. Aşa.\NAveţi răbdare. Aveţi răbdare…
 Dialogue: 0,0:19:55.90,0:19:58.90,fables default,,0,0,0,,{TIME:1195903,1198906}Nu vă mişcaţi, că altfel\No să vă prindă imediat.
 Dialogue: 0,0:20:05.41,0:20:07.91,fables default,,0,0,0,,{TIME:1205413,1207915}Hei, Roşcovanule!\NRoşcovanule, Roşcovanule!
 Dialogue: 0,0:20:08.54,0:20:12.42,fables default,,0,0,0,,{TIME:1208541,1212420}Astăzi tipul ăla a râs de mine, aşa că\Nte rog să-l prinzi, te rog să-l prinzi!
 Dialogue: 0,0:20:12.42,0:20:14.88,fables default,,0,0,0,,{TIME:1212420,1214880}Aşa, Roşcovanule, prinde-l pe bătrân,\Nprinde-l pe bătrân!
-Dialogue: 0,0:20:14.88,0:20:18.63,fables default,,0,0,0,,{TIME:1214880,1218634}Dar... lasă puii în pace,\Nda, Roşcovanule?
+Dialogue: 0,0:20:14.88,0:20:18.63,fables default,,0,0,0,,{TIME:1214880,1218634}Dar… lasă puii în pace,\Nda, Roşcovanule?
 Dialogue: 0,0:20:26.76,0:20:29.97,fables default,,0,0,0,,{TIME:1226767,1229979}Roşcovanule, Roşcovanule,\NBowser e în apropiere!
 Dialogue: 0,0:20:29.97,0:20:33.23,fables default,,0,0,0,,{TIME:1229979,1233232}Ai grijă!\NBowser e în apropiere!
 Dialogue: 0,0:20:36.52,0:20:39.48,fables default,,0,0,0,,{TIME:1236527,1239488}Spun adevărul,\NRoşcovanule-Roşcovanule!
@@ -268,11 +268,11 @@ Dialogue: 0,0:22:57.20,0:22:58.87,fables default,,0,0,0,,{TIME:1377209,1378878}B
 Dialogue: 0,0:23:00.92,0:23:03.59,fables default,,0,0,0,,{TIME:1380921,1383591}Bowser!
 Dialogue: 0,0:23:05.67,0:23:08.26,fables default,,0,0,0,,{TIME:1385676,1388262}Vino acasă, acum!
 Dialogue: 0,0:23:20.06,0:23:23.48,fables default,,0,0,0,,{TIME:1400065,1403485}Şi Sammy ăsta!\NDe ce i-a avertizat în ultima clipă?
-Dialogue: 0,0:23:27.61,0:23:32.57,fables default,,0,0,0,,{TIME:1407615,1412578\i1}Cei trei pui vor părăsi în curând vizuina.{\i0}
-Dialogue: 0,0:23:33.57,0:23:37.24,fables default,,0,0,0,,{TIME:1413579,1417249\i1}Să părăseşti vizuina înseamnă\Nsă te desparţi de părinţi,{\i0}
-Dialogue: 0,0:23:37.24,0:23:40.79,fables default,,0,0,0,,{TIME:1417249,1420794\i1}şi să încerci să te descurci singur.{\i0}
-Dialogue: 0,0:23:40.79,0:23:45.04,fables default,,0,0,0,,{TIME:1420794,1425049\i1}Dar până atunci, părinţii,\Nse vor strădui din răsputeri{\i0}
-Dialogue: 0,0:23:45.04,0:23:49.13,fables default,,0,0,0,,{TIME:1425049,1429136\i1}ca să-i înveţe pe pui\Ntotul despre viaţă.{\i0}
+Dialogue: 0,0:23:27.61,0:23:32.57,fables default,,0,0,0,,{TIME:1407615,1412578}{\i1}Cei trei pui vor părăsi\Nîn curând vizuina.
+Dialogue: 0,0:23:33.57,0:23:37.24,fables default,,0,0,0,,{TIME:1413579,1417249}{\i1}Să părăseşti vizuina înseamnă\Nsă te desparţi de părinţi,
+Dialogue: 0,0:23:37.24,0:23:40.79,fables default,,0,0,0,,{TIME:1417249,1420794}{\i1}şi să încerci să te descurci singur.
+Dialogue: 0,0:23:40.79,0:23:45.04,fables default,,0,0,0,,{TIME:1420794,1425049}{\i1}Dar până atunci, părinţii,\Nse vor strădui din răsputeri
+Dialogue: 0,0:23:45.04,0:23:49.13,fables default,,0,0,0,,{TIME:1425049,1429136}{\i1}ca să-i înveţe pe pui\Ntotul despre viaţă.
 Comment: 0,0:23:53.72,0:23:53.72,fables default,[chapter],0,0,0,,{TIME:1433724,1433724}Preview
 Dialogue: 0,0:23:55.72,0:23:59.10,fables default,,0,0,0,,{TIME:1435726,1439104}Data viitoare e timpul să le spună\Nrămas bun Mamei şi Tatei.
 Dialogue: 0,0:23:59.10,0:24:03.44,fables default,,0,0,0,,{TIME:1439104,1443442}Rocky pleacă spre Pădurea Verde,\Nîn prima lui călătorie.
@@ -280,7 +280,7 @@ Dialogue: 0,0:24:03.44,0:24:08.44,fables default,,0,0,0,,{TIME:1443442,1448447}R
 Dialogue: 0,0:24:08.44,0:24:10.82,fables default,,0,0,0,,{TIME:1448447,1450824}Dar nu toate sunt bune şi frumoase.
 Dialogue: 0,0:24:10.82,0:24:13.78,fables default,,0,0,0,,{TIME:1450824,1453786}Lucruri îngrozitoare se petrec\Nunul după altul.
 Dialogue: 0,0:24:13.78,0:24:21.00,fables default,,0,0,0,,{TIME:1453786,1461001}Într-o noapte singuratică şi înfricoşătoare,\Nobosit, Rocky plângea, de dorul părinţilor.
-Dialogue: 0,0:24:21.00,0:24:25.50,fables default,,0,0,0,,{TIME:1461001,1465506}Dar dimineaţa i-a insuflat curaj lui Rocky.
+Dialogue: 0,0:24:21.00,0:24:25.50,fables default,,0,0,0,,{TIME:1461001,1465506}Dar dimineaţa i-a\Ninsuflat curaj lui Rocky.
 Dialogue: 0,0:24:25.50,0:24:27.59,fables default,,0,0,0,,{TIME:1465506,1467591}Ţelul e Pădurea Verde.
 Dialogue: 0,0:24:27.59,0:24:31.09,fables default,,0,0,0,,{TIME:1467591,1471095}Va urma în "Povestiri din Pădurea Verde":\N"Pădurea Verde mă cheamă".
 Dialogue: 0,0:24:31.09,0:24:33.22,fables default,,0,0,0,,{TIME:1471095,1473222}Nu-l rataţi!
