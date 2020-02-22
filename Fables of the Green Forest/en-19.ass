@@ -18,8 +18,8 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: fables default,PoetsenOne,75,&H00FFFFFF,&H000000FF,&H00503146,&H69603632,0,0,0,0,100.0,100.0,0.0,0.0,1,4.0,5.0,2,40,40,40,1
 Style: fables group,Gotham Rounded,45,&H39E7F0E2,&H000000FF,&H003D2523,&H1E472F3F,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.5,4.0,5,40,40,40,1
 Style: fables series title,Caveat Brush,112,&H00FEF6F2,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,8.0,5,40,40,40,1
-Style: fables episode title,Caveat Brush,120,&H00FCFCFC,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,6.0,5,40,40,40,1
-Style: fables author credits,PoetsenOne,50,&H00FCFCFC,&H00090AE2,&H00224C35,&H69101010,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,3.0,2,40,40,40,1
+Style: fables episode title,Caveat Brush,120,&H00F5EDDB,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,6.0,5,40,40,40,1
+Style: fables author credits,PoetsenOne,50,&H00F5ECDB,&H00090AE2,&H00224C35,&H69101010,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,3.0,2,40,40,40,1
 Style: fables op jp,Gotham Rounded,65,&H006AE8EF,&H0057C774,&H002C2C32,&H370A0C0B,0,0,0,0,100.0,100.0,0.0,0.0,1,2.5,3.0,2,40,40,55,1
 Style: fables ed jp,Gotham Rounded,65,&H00FAFAFA,&H006AE8EF,&H002D444D,&H372D434D,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.7,2,40,40,55,1
 Style: fables op tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100.0,100.0,0.0,0.0,1,4.0,3.0,8,40,40,40,1
@@ -28,9 +28,41 @@ Style: fables thanks,Caveat Brush,67,&H00FEFEFE,&H00090AE2,&H00000000,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.91,0:00:08.91,fables default,,0,0,0,,{TIME:2910,8910}FABLES \N of the\NGREEN FOREST
-Dialogue: 0,0:00:05.87,0:00:08.91,fables default,,0,0,0,,{TIME:5870,8910}{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"The search for Mr Quack"{\i}
-Dialogue: 0,0:00:44.67,0:00:46.80,fables default,,0,0,0,,{TIME:44670,46800}Mrs. Quack... it's beautiful!
+Comment: 0,0:00:00.00,0:00:00.00,fables default,[chapter],0,0,0,,{TIME:0,0}Opening
+Dialogue: 0,0:00:04.83,0:00:09.92,fables group,[credits],0,0,0,,{TIME:4838,9927}{\fad(0,1000)\pos(700,670)\fnUnifraktur Cook\fs80\c&HA3EFF9&}Old Castle{\fn\fs65} & {\fnKabayan-SWS\fs77}south wind subs{\fn\fs\c&HF2F6FE&}\Npresent\N{\fnCaveat Brush\fs115\c&H74D87C&\i0}Fables of the Green Forest
+Dialogue: 0,0:00:35.03,0:00:40.08,fables series title,[title],0,0,0,,{TIME:35035,40082}{\fad(200,0)\pos(720,850)}Fables of the Green Forest
+Dialogue: 0,0:00:10.13,0:00:15.43,fables op jp,[karaoke],0,0,0,,{TIME:10135,15432}{\blur1\k37.6}Mi{\k37.5}do{\k29.2}ri {\k33.4}ga {\k33.3}mo{\k29.2}ri {\k66.7}no {\k33.4}hi{\k33.4}da{\k33.3}ma{\k33.4}ri {\k41.7}wa
+Dialogue: 0,0:00:15.43,0:00:20.60,fables op jp,[karaoke],0,0,0,,{TIME:15432,20604}{\blur1\k54.2}Ka{\k16.7}ku{\k25.0}ren{\k29.2}bo {\k33.4}su{\k33.4}ru {\k29.2}no {\k33.3}ni {\k33.4}yo{\k33.4}i {\k33.3}to{\k29.2}ko{\k54.2}ro
+Dialogue: 0,0:00:20.60,0:00:25.77,fables op jp,[karaoke],0,0,0,,{TIME:20604,25776}{\blur1\k70.9}Ma{\k33.4}da {\k37.5}da {\k254.4}yo  {\k37.6}Ma{\k20.8}da {\k12.5}da {\k50.1}yo
+Dialogue: 0,0:00:25.77,0:00:28.48,fables op jp,[karaoke],0,0,0,,{TIME:25776,28487}{\blur1\k45.9}Shi{\k25.0}ppo {\k12.5}no {\k20.8}hi{\k25.1}ka{\k12.5}tta {\k25.0}ya{\k12.5}ma{\k25.0}ne{\k12.6}zu{\k54.2}mi
+Dialogue: 0,0:00:28.48,0:00:33.90,fables op jp,[karaoke],0,0,0,,{TIME:28487,33909}{\blur1\k25.0}I{\k16.7}chi{\k25.0}ban {\k29.2}ha{\k16.7}ji{\k12.5}me {\k12.5}ni {\k20.9}mi{\k12.5}tsu{\k29.2}ka{\k329.5}tta
+Dialogue: 0,0:00:33.90,0:00:38.99,fables op jp,[karaoke],0,0,0,,{TIME:33909,38997}{\blur1\k16.7}Mi{\k33.3}do{\k29.2}ri {\k33.4}ga {\k33.4}mo{\k62.5}ri {\k33.4}tte {\k33.4}do{\k33.3}ko {\k33.4}da{\k33.4}rou {\k50.0}na
+Dialogue: 0,0:00:38.99,0:00:44.12,fables op jp,[karaoke],0,0,0,,{TIME:38997,44127}{\blur1\k50.1}Da{\k16.7}re{\k33.3}ka {\k25.1}ni {\k33.3}da{\k29.2}re{\k33.4}ka {\k29.2}ni {\k70.9}kii{\k25.0}to{\k41.7}i{\k125.1}te
+Dialogue: 0,0:00:44.12,0:00:49.38,fables op jp,[karaoke],0,0,0,,{TIME:44127,49383}{\blur1\k58.4}Hi{\k37.6}sso{\k29.2}ri {\k33.3}ma{\k33.4}tsu {\k70.9}no {\k29.2}ha {\k33.4}no {\k37.5}ka{\k29.2}ge {\k58.4}wa
+Dialogue: 0,0:00:49.38,0:00:54.55,fables op jp,[karaoke],0,0,0,,{TIME:49383,54555}{\blur1\k50.0}O{\k12.5}ha{\k29.2}na{\k33.4}shi {\k33.4}su{\k29.2}ru {\k33.3}no {\k33.4}ni {\k29.2}yo{\k33.4}i {\k37.5}to{\k29.2}ko{\k45.9}ro
+Dialogue: 0,0:00:54.55,0:00:59.72,fables op jp,[karaoke],0,0,0,,{TIME:54555,59726}{\blur1\k33.3}A{\k37.6}no {\k25.0}ne {\k37.5}no {\k258.6}ne  {\k25.0}A{\k12.5}no {\k16.7}ne {\k16.7}no {\k54.2}ne
+Dialogue: 0,0:00:59.72,0:01:02.35,fables op jp,[karaoke],0,0,0,,{TIME:59726,62354}{\blur1\k33.4}Kin'{\k25.0}i{\k12.5}ro {\k20.9}me{\k12.5}da{\k16.7}ma {\k12.5}no {\k16.7}fu{\k16.7}ku{\k29.2}rou {\k66.7}ni
+Dialogue: 0,0:01:02.35,0:01:07.52,fables op jp,[karaoke],0,0,0,,{TIME:62354,67526}{\blur1\k25.0}Ta{\k16.7}chi{\k16.7}gi{\k16.7}ki{\k16.7}sa{\k8.3}re{\k12.5}te{\k12.5}mo {\k20.9}shi{\k16.7}ra{\k25.0}na{\k16.7}i {\k312.8}yo
+Dialogue: 0,0:01:07.52,0:01:12.90,fables op jp,[karaoke],0,0,0,,{TIME:67526,72906}{\blur1\k66.7}Hi{\k33.4}sso{\k29.2}ri {\k33.3}ma{\k66.8}tsu {\k33.3}tte {\k33.4}do{\k33.4}ko {\k33.3}da{\k33.4}rou {\k50.1}na
+Dialogue: 0,0:01:12.90,0:01:18.99,fables op jp,[karaoke],0,0,0,,{TIME:72906,78996}{\blur1\fad(0,1000)\k30.4}Da{\k20.8}re{\k33.4}ka {\k29.2}ni {\k29.2}da{\k33.4}re{\k33.3}ka {\k33.4}ni {\k66.7}kii{\k33.4}to{\k29.2}i{\k233.6}te
+Dialogue: 0,0:00:10.13,0:00:15.43,fables op tl,[karaoke],0,0,0,,{TIME:10135,15432}The sunny spot of the Green Forest
+Dialogue: 0,0:00:15.43,0:00:20.60,fables op tl,[karaoke],0,0,0,,{TIME:15432,20604}is perfect for hide-and-seek
+Dialogue: 0,0:00:20.60,0:00:25.77,fables op tl,[karaoke],0,0,0,,{TIME:20604,25776}– Ready? Here I come!\N– Not yet! Not yet!
+Dialogue: 0,0:00:25.77,0:00:28.48,fables op tl,[karaoke],0,0,0,,{TIME:25776,28487}The Woodchuck with his shiny tail
+Dialogue: 0,0:00:28.48,0:00:33.90,fables op tl,[karaoke],0,0,0,,{TIME:28487,33909}is the first one to be found!
+Dialogue: 0,0:00:33.90,0:00:38.99,fables op tl,[karaoke],0,0,0,,{TIME:33909,38997}Where could the Green Forest be?
+Dialogue: 0,0:00:38.99,0:00:44.12,fables op tl,[karaoke],0,0,0,,{TIME:38997,44127}I keep asking everyone…
+Dialogue: 0,0:00:44.12,0:00:49.38,fables op tl,[karaoke],0,0,0,,{TIME:44127,49383}The shadow of the Lonesome Pine's leaves
+Dialogue: 0,0:00:49.38,0:00:54.55,fables op tl,[karaoke],0,0,0,,{TIME:49383,54555}is the perfect place to talk
+Dialogue: 0,0:00:54.55,0:00:59.72,fables op tl,[karaoke],0,0,0,,{TIME:54555,59726}You see… You see,
+Dialogue: 0,0:00:59.72,0:01:02.35,fables op tl,[karaoke],0,0,0,,{TIME:59726,62354}not even the golden-eyed Owl
+Dialogue: 0,0:01:02.35,0:01:07.52,fables op tl,[karaoke],0,0,0,,{TIME:62354,67526}will hear you if he tries!
+Dialogue: 0,0:01:07.52,0:01:12.90,fables op tl,[karaoke],0,0,0,,{TIME:67526,72906}Where could the Lonesome Pine be?
+Dialogue: 0,0:01:12.90,0:01:18.99,fables op tl,[karaoke],0,0,0,,{TIME:72906,78996}{\fad(0,1000)}I keep asking everyone…
+Comment: 0,0:01:21.74,0:01:21.74,fables default,[chapter],0,0,0,,{TIME:81748,81748}Title screen
+Dialogue: 0,0:01:25.16,0:01:29.71,fables episode title,[title],0,0,0,,{TIME:85168,89715}{\fad(800,0)\pos(720,700)\blur1}The Search for Mr Quack
+Dialogue: 0,0:01:25.16,0:01:29.71,fables author credits,[credits],0,0,0,,{TIME:85168,89715}{\fad(800,0)\pos(720,870)\blur1}Based on the books by Thornton W. Burgess
+Comment: 0,0:01:29.71,0:01:29.71,fables default,[chapter],0,0,0,,{TIME:89715,89715}Part A
 Dialogue: 0,0:00:47.50,0:00:48.87,fables default,,0,0,0,,{TIME:47500,48870}It's beautiful!
 Dialogue: 0,0:01:02.56,0:01:04.60,fables default,,0,0,0,,{TIME:62560,64600}Hey...!\NIt's a gun!
 Dialogue: 0,0:01:07.10,0:01:09.10,fables default,,0,0,0,,{TIME:67100,69100}- Oh...!\N- Mrs. Quack, hurry!
@@ -59,7 +91,7 @@ Dialogue: 0,0:03:06.76,0:03:07.76,fables default,,0,0,0,,{TIME:186760,187760}Rea
 Dialogue: 0,0:03:07.91,0:03:10.97,fables default,,0,0,0,,{TIME:187910,190970}How hateful is the sound of those guns, Reddy!
 Dialogue: 0,0:03:12.80,0:03:16.84,fables default,,0,0,0,,{TIME:192800,196840}Hey, Sammy, what are you acting so scared about?\NIt's not like you!
 Dialogue: 0,0:03:17.40,0:03:22.03,fables default,,0,0,0,,{TIME:197400,202030}I'm not scared! It's just I don't like the sound\Nof those guns, that's all!
-Dialogue: 0,0:03:22.03,0:03:25.62,fables default,,0,0,0,,{TIME:202030,205620}Since this morning, their shooting\Ncan be heard by the Great River!
+Dialogue: 0,0:03:22.03,0:03:25.62,fables default,,0,0,0,,{TIME:202030,205620}Since this morning, their shooting\Ncan be heard by the Big River!
 Dialogue: 0,0:03:27.35,0:03:29.07,fables default,,0,0,0,,{TIME:207350,209070}Yeah, sure can hear it!
 Dialogue: 0,0:03:29.45,0:03:33.39,fables default,,0,0,0,,{TIME:209450,213390}Now, me, on the other hand,\NI've had a lot of experience with guns!
 Dialogue: 0,0:03:33.39,0:03:35.77,fables default,,0,0,0,,{TIME:213390,215770}Those shots so far away don't bother me!
@@ -105,7 +137,7 @@ Dialogue: 0,0:06:26.04,0:06:29.39,fables default,,0,0,0,,{TIME:386040,389390}...
 Dialogue: 0,0:06:33.43,0:06:36.59,fables default,,0,0,0,,{TIME:393430,396590}It's mean... What in the world\Nwere we suppose to have done?
 Dialogue: 0,0:06:36.59,0:06:39.09,fables default,,0,0,0,,{TIME:396590,399090}Why should we be chased after\Nby all those guns?
 Dialogue: 0,0:06:42.61,0:06:44.47,fables default,,0,0,0,,{TIME:402610,404470}This may be presumptuous...
-Dialogue: 0,0:06:44.68,0:06:47.89,fables default,,0,0,0,,{TIME:404680,407890}...but did you say that when your husband\Nwere shot near the Great River,
+Dialogue: 0,0:06:44.68,0:06:47.89,fables default,,0,0,0,,{TIME:404680,407890}...but did you say that when your husband\Nwere shot near the Big River,
 Dialogue: 0,0:06:47.89,0:06:49.53,fables default,,0,0,0,,{TIME:407890,409530}you just saw him fall?
 Dialogue: 0,0:06:49.93,0:06:51.18,fables default,,0,0,0,,{TIME:409930,411180}Uh-huh...
 Dialogue: 0,0:06:51.81,0:06:55.79,fables default,,0,0,0,,{TIME:411810,415790}You saw him fall, but no one\Nhas verified that he is really dead...
@@ -114,7 +146,7 @@ Dialogue: 0,0:06:58.51,0:07:00.84,fables default,,0,0,0,,{TIME:418510,420840}You
 Dialogue: 0,0:07:00.86,0:07:03.72,fables default,,0,0,0,,{TIME:420860,423720}We should keep checking!\NWe should keep searching, you know?
 Dialogue: 0,0:07:03.72,0:07:06.20,fables default,,0,0,0,,{TIME:423720,426200}Right, it's to early to be pessimistic!
 Dialogue: 0,0:07:07.41,0:07:10.91,fables default,,0,0,0,,{TIME:427410,430910}The truth is I'd like to think so.\NBy some chance, he may have fallen
-Dialogue: 0,0:07:10.91,0:07:13.69,fables default,,0,0,0,,{TIME:430910,433690}near the Great River,\Nand is hiding, badly wounded.
+Dialogue: 0,0:07:10.91,0:07:13.69,fables default,,0,0,0,,{TIME:430910,433690}near the Big River,\Nand is hiding, badly wounded.
 Dialogue: 0,0:07:13.73,0:07:16.21,fables default,,0,0,0,,{TIME:433730,436210}Or certainly he's hiding somewhere!
 Dialogue: 0,0:07:16.21,0:07:18.74,fables default,,0,0,0,,{TIME:436210,438740}Tomorrow, let's all go out and search!
 Dialogue: 0,0:07:18.76,0:07:20.07,fables default,,0,0,0,,{TIME:438760,440070}- Yeah!\N- Agreed!
@@ -139,7 +171,7 @@ Dialogue: 0,0:09:36.97,0:09:39.12,fables default,,0,0,0,,{TIME:576970,579120}Mrs
 Dialogue: 0,0:10:09.14,0:10:12.38,fables default,,0,0,0,,{TIME:609140,612380}Johnny! How long are you going to sleep?\NJohnny!
 Dialogue: 0,0:10:15.96,0:10:18.28,fables default,,0,0,0,,{TIME:615960,618280}Oh, it's so bright!
 Dialogue: 0,0:10:19.27,0:10:20.86,fables default,,0,0,0,,{TIME:619270,620860}Morning already, huh?
-Dialogue: 0,0:10:21.65,0:10:24.31,fables default,,0,0,0,,{TIME:621650,624310}Johnny... let's go to the Great River!
+Dialogue: 0,0:10:21.65,0:10:24.31,fables default,,0,0,0,,{TIME:621650,624310}Johnny... let's go to the Big River!
 Dialogue: 0,0:10:24.31,0:10:27.24,fables default,,0,0,0,,{TIME:624310,627240}Weren't we going to search for\NMr. Quack, the duck?
 Dialogue: 0,0:10:27.24,0:10:28.64,fables default,,0,0,0,,{TIME:627240,628640}Hurry, Johnny!
 Dialogue: 0,0:10:30.07,0:10:32.76,fables default,,0,0,0,,{TIME:630070,632760}Johnny, you sure are a sleepy head!
@@ -148,7 +180,7 @@ Dialogue: 0,0:10:45.04,0:10:47.06,fables default,,0,0,0,,{TIME:645040,647060}Tha
 Dialogue: 0,0:10:47.56,0:10:49.71,fables default,,0,0,0,,{TIME:647560,649710}It's good, everything is alright!
 Dialogue: 0,0:10:51.70,0:10:54.44,fables default,,0,0,0,,{TIME:651700,654440}If Reddy returns, it will be tough.
 Dialogue: 0,0:10:54.56,0:10:56.82,fables default,,0,0,0,,{TIME:654560,656820}Better leave now to search for Mr. Quack.
-Dialogue: 0,0:10:59.07,0:11:02.08,fables default,,0,0,0,,{TIME:659070,662080}If it's the Great River, let me handle it!
+Dialogue: 0,0:10:59.07,0:11:02.08,fables default,,0,0,0,,{TIME:659070,662080}If it's the Big River, let me handle it!
 Dialogue: 0,0:11:02.08,0:11:05.19,fables default,,0,0,0,,{TIME:662080,665190}- Joe, Joe!\N- Let's go search together!
 Dialogue: 0,0:11:05.45,0:11:08.12,fables default,,0,0,0,,{TIME:665450,668120}At this hour of need we\Ncould use your help, Joe!
 Dialogue: 0,0:11:11.29,0:11:14.15,fables default,,0,0,0,,{TIME:671290,674150}If it's about humans,\NI know a lot about it!
@@ -156,7 +188,7 @@ Dialogue: 0,0:11:14.15,0:11:16.63,fables default,,0,0,0,,{TIME:674150,676630}Bla
 Dialogue: 0,0:11:16.63,0:11:21.03,fables default,,0,0,0,,{TIME:676630,681030}When humans see me, they hate it.\NI'm just perfect for searching and they know it.
 Dialogue: 0,0:11:21.27,0:11:24.68,fables default,,0,0,0,,{TIME:681270,684680}With this many assembled,\NMr. Quack is sure to be found!
 Dialogue: 0,0:11:34.88,0:11:36.61,fables default,,0,0,0,,{TIME:694880,696610}To do all this for me...
-Dialogue: 0,0:11:36.95,0:11:39.06,fables default,,0,0,0,,{TIME:696950,699060}...please, take me with you to the Great River!
+Dialogue: 0,0:11:36.95,0:11:39.06,fables default,,0,0,0,,{TIME:696950,699060}...please, take me with you to the Big River!
 Dialogue: 0,0:11:40.61,0:11:43.59,fables default,,0,0,0,,{TIME:700610,703590}We'd better not to!\NYou might be sought for the guns again!
 Dialogue: 0,0:11:45.01,0:11:48.75,fables default,,0,0,0,,{TIME:705010,708750}And by me... Don't forget me...\NI'm included in this also!
 Dialogue: 0,0:12:07.84,0:12:08.94,fables default,,0,0,0,,{TIME:727840,728940}Boy, oh boy!
@@ -164,7 +196,7 @@ Dialogue: 0,0:12:11.20,0:12:14.79,fables default,,0,0,0,,{TIME:731200,734790}Thi
 Dialogue: 0,0:12:30.90,0:12:35.68,fables default,,0,0,0,,{TIME:750900,755680}Drummer is sending a message about Reddy,\Nbut I can't tell exactly what it is!
 Dialogue: 0,0:12:45.75,0:12:48.14,fables default,,0,0,0,,{TIME:765750,768140}Darn, he says Reddy's following us!
 Dialogue: 0,0:12:49.86,0:12:52.19,fables default,,0,0,0,,{TIME:769860,772190}Oh, we can't stay, we can't go on!
-Dialogue: 0,0:13:10.70,0:13:14.08,fables default,,0,0,0,,{TIME:790700,794080}Tremendous!\NThe Great River is awful wide!
+Dialogue: 0,0:13:10.70,0:13:14.08,fables default,,0,0,0,,{TIME:790700,794080}Tremendous!\NThe Big River is awful wide!
 Dialogue: 0,0:13:14.08,0:13:18.11,fables default,,0,0,0,,{TIME:794080,798110}- My!\N- We'll never find Mr. Quack in a place this big!
 Dialogue: 0,0:13:18.11,0:13:19.84,fables default,,0,0,0,,{TIME:798110,799840}I'll search in the water!
 Dialogue: 0,0:13:26.60,0:13:27.60,fables default,,0,0,0,,{TIME:806600,807600}Curses!
@@ -229,4 +261,29 @@ Dialogue: 0,0:20:14.28,0:20:17.40,fables default,,0,0,0,,{TIME:1214280,1217400}{
 Dialogue: 0,0:20:17.40,0:20:19.84,fables default,,0,0,0,,{TIME:1217400,1219840}{\i1}is returning in good health\Nto her North Country.{\i}
 Dialogue: 0,0:20:19.92,0:20:23.82,fables default,,0,0,0,,{TIME:1219920,1223820}{\i1}Look at the sky! Today is beautiful,\Nwith a clear blue colour.{\i}
 Dialogue: 0,0:20:25.54,0:20:29.26,fables default,,0,0,0,,{TIME:1225540,1229260}{\i1}Goodbye, Mr. and Mrs. Quack!\NLet's meet again! Goodbye!{\i}
-Dialogue: 0,0:20:30.21,0:20:33.20,fables default,,0,0,0,,{TIME:1230210,1233200}{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs
+Comment: 0,0:11:31.23,0:11:31.23,fables default,[chapter],0,0,0,,{TIME:691232,691232}Part B
+Comment: 0,0:23:53.76,0:23:53.76,fables default,[chapter],0,0,0,,{TIME:1433766,1433766}Preview
+Comment: 0,0:24:33.68,0:24:33.68,fables default,[chapter],0,0,0,,{TIME:1473681,1473681}Ending
+Dialogue: 0,0:24:42.14,0:24:49.86,fables ed jp,[karaoke],0,0,0,,{TIME:1482147,1489863}{\blur1}Nani ga aru no kana  kono mori no oku ni
+Dialogue: 0,0:24:49.86,0:24:57.49,fables ed jp,[karaoke],0,0,0,,{TIME:1489863,1497496}{\blur1}Nani ga aru no kana  ano sora no mukō ni
+Dialogue: 0,0:24:57.49,0:25:03.25,fables ed jp,[karaoke],0,0,0,,{TIME:1497496,1503252}{\blur1}Tashikametai  kimi to futari de
+Dialogue: 0,0:25:03.25,0:25:05.25,fables ed jp,[karaoke],0,0,0,,{TIME:1503252,1505254}{\blur1}Porii
+Dialogue: 0,0:25:05.25,0:25:11.01,fables ed jp,[karaoke],0,0,0,,{TIME:1505254,1511010}{\blur1}Tashikametai  anata to futari de
+Dialogue: 0,0:25:11.01,0:25:12.84,fables ed jp,[karaoke],0,0,0,,{TIME:1511010,1512845}{\blur1}Rokkii
+Dialogue: 0,0:25:12.84,0:25:16.84,fables ed jp,[karaoke],0,0,0,,{TIME:1512845,1516849}{\blur1}Dokidoki shitai  harahara shitai
+Dialogue: 0,0:25:16.84,0:25:20.85,fables ed jp,[karaoke],0,0,0,,{TIME:1516849,1520853}{\blur1}wakuwaku shitai  mesomeso
+Dialogue: 0,0:25:20.85,0:25:28.36,fables ed jp,[karaoke],0,0,0,,{TIME:1520853,1528360}{\blur1}Dake wa  gomen dayo
+Dialogue: 0,0:25:28.36,0:25:36.20,fables ed jp,[karaoke],0,0,0,,{TIME:1528360,1536201}{\blur1}Nani ga aru no kana  asu  ame no naka de
+Dialogue: 0,0:25:36.20,0:25:44.37,fables ed jp,[karaoke],0,0,0,,{TIME:1536201,1544376}{\blur1}Nani ga aru no kana  asu  niji no mukō de
+Dialogue: 0,0:24:42.14,0:24:49.86,fables ed tl,[karaoke],0,0,0,,{TIME:1482147,1489863}What's there, inside this forest?
+Dialogue: 0,0:24:49.86,0:24:57.49,fables ed tl,[karaoke],0,0,0,,{TIME:1489863,1497496}What's there, high up in the sky?
+Dialogue: 0,0:24:57.49,0:25:03.25,fables ed tl,[karaoke],0,0,0,,{TIME:1497496,1503252}I want to find that out together with you
+Dialogue: 0,0:25:03.25,0:25:05.25,fables ed tl,[karaoke],0,0,0,,{TIME:1503252,1505254}Polly!
+Dialogue: 0,0:25:05.25,0:25:11.01,fables ed tl,[karaoke],0,0,0,,{TIME:1505254,1511010}I want to find that out together with you
+Dialogue: 0,0:25:11.01,0:25:12.84,fables ed tl,[karaoke],0,0,0,,{TIME:1511010,1512845}Rocky!
+Dialogue: 0,0:25:12.84,0:25:16.84,fables ed tl,[karaoke],0,0,0,,{TIME:1512845,1516849}I want my heart to beat fast,\NI want to feel the thrill,
+Dialogue: 0,0:25:16.84,0:25:20.85,fables ed tl,[karaoke],0,0,0,,{TIME:1516849,1520853}I want excitement… And tears –
+Dialogue: 0,0:25:20.85,0:25:28.36,fables ed tl,[karaoke],0,0,0,,{TIME:1520853,1528360}Anything but that!
+Dialogue: 0,0:25:28.36,0:25:36.20,fables ed tl,[karaoke],0,0,0,,{TIME:1528360,1536201}What happens tomorrow in the rain?
+Dialogue: 0,0:25:36.20,0:25:44.37,fables ed tl,[karaoke],0,0,0,,{TIME:1536201,1544376}What happens tomorrow\Nbeyond the rainbow?
+Dialogue: 0,0:25:44.37,0:25:50.43,fables thanks,[credits],0,0,0,,{TIME:1544376,1550434}{\blur0.7}Special thanks from Old Castle & South Wind Subs to:\NCyber Zero, Mónica, Lordwen & Gango

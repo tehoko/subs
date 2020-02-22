@@ -18,18 +18,51 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: fables default,PoetsenOne,75,&H00FFFFFF,&H000000FF,&H00503146,&H69603632,0,0,0,0,100.0,100.0,0.0,0.0,1,4.0,5.0,2,40,40,40,1
 Style: fables group,Gotham Rounded,45,&H39E7F0E2,&H000000FF,&H003D2523,&H1E472F3F,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.5,4.0,5,40,40,40,1
 Style: fables series title,Caveat Brush,112,&H00FEF6F2,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,8.0,5,40,40,40,1
-Style: fables episode title,Caveat Brush,120,&H00FCFCFC,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,6.0,5,40,40,40,1
-Style: fables author credits,PoetsenOne,50,&H00FCFCFC,&H00090AE2,&H00224C35,&H69101010,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,3.0,2,40,40,40,1
+Style: fables episode title,Caveat Brush,120,&H00F5E7D4,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,6.0,5,40,40,40,1
+Style: fables author credits,PoetsenOne,50,&H00F5E6D3,&H00090AE2,&H00224C35,&H69101010,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,3.0,2,40,40,40,1
 Style: fables op jp,Gotham Rounded,65,&H006AE8EF,&H0057C774,&H002C2C32,&H370A0C0B,0,0,0,0,100.0,100.0,0.0,0.0,1,2.5,3.0,2,40,40,55,1
-Style: fables ed jp,Gotham Rounded,65,&H00FAFAFA,&H006AE8EF,&H002D444D,&H372D434D,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.7,2,40,40,55,1
+Style: fables ed jp,Gotham Rounded,65,&H00FAFAFA,&H006AE8EF,&H002D444D,&H372D434D,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.7,2,40,40,48,1
 Style: fables op tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100.0,100.0,0.0,0.0,1,4.0,3.0,8,40,40,40,1
 Style: fables ed tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100.0,100.0,0.0,0.0,1,4.0,3.0,8,40,40,40,1
 Style: fables thanks,Caveat Brush,67,&H00FEFEFE,&H00090AE2,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,1.13,2,40,40,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.00,0:00:08.00,fables default,,0,0,0,,{TIME:2000,8000}FABLES \N of the\NGREEN FOREST
-Dialogue: 0,0:00:04.00,0:00:08.00,fables default,,0,0,0,,{TIME:4000,8000}{\i1\c&HFFFFFF&}Today's episode:\N{\c&H25CE1D&}"Traps in the forest"{\i}
+Comment: 0,0:00:00.00,0:00:00.00,fables default,[chapter],0,0,0,,{TIME:0,0}Opening
+Dialogue: 0,0:00:04.83,0:00:09.92,fables group,[credits],0,0,0,,{TIME:4838,9927}{\fad(0,1000)\pos(700,670)\fnUnifraktur Cook\fs80\c&HA3EFF9&}Old Castle{\fn\fs65} & {\fnKabayan-SWS\fs77}south wind subs{\fn\fs\c&HF2F6FE&}\Npresent\N{\fnCaveat Brush\fs115\c&H74D87C&\i0}Fables of the Green Forest
+Dialogue: 0,0:00:35.03,0:00:40.08,fables series title,[title],0,0,0,,{TIME:35035,40082}{\fad(200,0)\pos(720,850)}Fables of the Green Forest
+Dialogue: 0,0:00:10.01,0:00:15.30,fables op jp,[karaoke],0,0,0,,{TIME:10010,15307}{\blur1\k37.6}Mi{\k37.5}do{\k29.2}ri {\k33.4}ga {\k33.3}mo{\k29.2}ri {\k66.7}no {\k33.4}hi{\k33.4}da{\k33.3}ma{\k33.4}ri {\k41.7}wa
+Dialogue: 0,0:00:15.30,0:00:20.47,fables op jp,[karaoke],0,0,0,,{TIME:15307,20479}{\blur1\k54.2}Ka{\k16.7}ku{\k25.0}ren{\k29.2}bo {\k33.4}su{\k33.4}ru {\k29.2}no {\k33.3}ni {\k33.4}yo{\k33.4}i {\k33.3}to{\k29.2}ko{\k54.2}ro
+Dialogue: 0,0:00:20.47,0:00:25.65,fables op jp,[karaoke],0,0,0,,{TIME:20479,25651}{\blur1\k70.9}Ma{\k33.4}da {\k37.5}da {\k254.4}yo  {\k37.6}Ma{\k20.8}da {\k12.5}da {\k50.1}yo
+Dialogue: 0,0:00:25.65,0:00:28.27,fables op jp,[karaoke],0,0,0,,{TIME:25651,28278}{\blur1\k45.9}Shi{\k25.0}ppo {\k12.5}no {\k20.8}hi{\k25.1}ka{\k12.5}tta {\k25.0}ya{\k12.5}ma{\k25.0}ne{\k12.6}zu{\k45.8}mi
+Dialogue: 0,0:00:28.27,0:00:33.61,fables op jp,[karaoke],0,0,0,,{TIME:28278,33617}{\blur1\k33.4}I{\k16.7}chi{\k25.0}ban {\k29.2}ha{\k16.7}ji{\k12.5}me {\k12.5}ni {\k20.9}mi{\k12.5}tsu{\k29.2}ka{\k312.8}tta
+Dialogue: 0,0:00:33.61,0:00:38.87,fables op jp,[karaoke],0,0,0,,{TIME:33617,38872}{\blur1\k33.4}Mi{\k33.3}do{\k29.2}ri {\k33.4}ga {\k33.4}mo{\k62.5}ri {\k33.4}tte {\k33.4}do{\k33.3}ko {\k33.4}da{\k33.4}rou {\k50.0}na
+Dialogue: 0,0:00:38.87,0:00:44.00,fables op jp,[karaoke],0,0,0,,{TIME:38872,44002}{\blur1\k50.1}Da{\k16.7}re{\k33.3}ka {\k25.1}ni {\k33.3}da{\k29.2}re{\k33.4}ka {\k29.2}ni {\k70.9}kii{\k25.0}to{\k41.7}i{\k125.1}te
+Dialogue: 0,0:00:44.00,0:00:49.25,fables op jp,[karaoke],0,0,0,,{TIME:44002,49258}{\blur1\k58.4}Hi{\k37.6}sso{\k29.2}ri {\k33.3}ma{\k33.4}tsu {\k70.9}no {\k29.2}ha {\k33.4}no {\k37.5}ka{\k29.2}ge {\k58.4}wa
+Dialogue: 0,0:00:49.25,0:00:54.42,fables op jp,[karaoke],0,0,0,,{TIME:49258,54429}{\blur1\k50.0}O{\k12.5}ha{\k29.2}na{\k33.4}shi {\k33.4}su{\k29.2}ru {\k33.3}no {\k33.4}ni {\k29.2}yo{\k33.4}i {\k37.5}to{\k29.2}ko{\k45.9}ro
+Dialogue: 0,0:00:54.42,0:00:59.60,fables op jp,[karaoke],0,0,0,,{TIME:54429,59601}{\blur1\k33.3}A{\k37.6}no {\k25.0}ne {\k37.5}no {\k258.6}ne  {\k25.0}A{\k12.5}no {\k16.7}ne {\k16.7}no {\k54.2}ne
+Dialogue: 0,0:00:59.60,0:01:02.22,fables op jp,[karaoke],0,0,0,,{TIME:59601,62229}{\blur1\k33.4}Kin'{\k25.0}i{\k12.5}ro {\k20.9}me{\k12.5}da{\k16.7}ma {\k12.5}no {\k16.7}fu{\k16.7}ku{\k29.2}rou {\k66.7}ni
+Dialogue: 0,0:01:02.22,0:01:07.40,fables op jp,[karaoke],0,0,0,,{TIME:62229,67401}{\blur1\k25.0}Ta{\k16.7}chi{\k16.7}gi{\k16.7}ki{\k16.7}sa{\k8.3}re{\k12.5}te{\k12.5}mo {\k20.9}shi{\k16.7}ra{\k25.0}na{\k16.7}i {\k312.8}yo
+Dialogue: 0,0:01:07.40,0:01:12.61,fables op jp,[karaoke],0,0,0,,{TIME:67401,72614}{\blur1\k66.7}Hi{\k33.4}sso{\k29.2}ri {\k33.3}ma{\k66.8}tsu {\k33.3}tte {\k33.4}do{\k33.4}ko {\k33.3}da{\k33.4}rou {\k33.4}na
+Dialogue: 0,0:01:12.61,0:01:18.87,fables op jp,[karaoke],0,0,0,,{TIME:72614,78870}{\blur1\fad(0,1000)\k47.1}Da{\k20.8}re{\k33.4}ka {\k29.2}ni {\k29.2}da{\k33.4}re{\k33.3}ka {\k33.4}ni {\k66.7}kii{\k33.4}to{\k29.2}i{\k233.6}te
+Dialogue: 0,0:00:10.01,0:00:15.30,fables op tl,[karaoke],0,0,0,,{TIME:10010,15307}The sunny spot of the Green Forest
+Dialogue: 0,0:00:15.30,0:00:20.47,fables op tl,[karaoke],0,0,0,,{TIME:15307,20479}is perfect for hide-and-seek
+Dialogue: 0,0:00:20.47,0:00:25.65,fables op tl,[karaoke],0,0,0,,{TIME:20479,25651}– Ready? Here I come!\N– Not yet! Not yet!
+Dialogue: 0,0:00:25.65,0:00:28.27,fables op tl,[karaoke],0,0,0,,{TIME:25651,28278}The Woodchuck with his shiny tail
+Dialogue: 0,0:00:28.27,0:00:33.61,fables op tl,[karaoke],0,0,0,,{TIME:28278,33617}is the first one to be found!
+Dialogue: 0,0:00:33.61,0:00:38.87,fables op tl,[karaoke],0,0,0,,{TIME:33617,38872}Where could the Green Forest be?
+Dialogue: 0,0:00:38.87,0:00:44.00,fables op tl,[karaoke],0,0,0,,{TIME:38872,44002}I keep asking everyone…
+Dialogue: 0,0:00:44.00,0:00:49.25,fables op tl,[karaoke],0,0,0,,{TIME:44002,49258}The shadow of the Lonesome Pine's leaves
+Dialogue: 0,0:00:49.25,0:00:54.42,fables op tl,[karaoke],0,0,0,,{TIME:49258,54429}is the perfect place to talk
+Dialogue: 0,0:00:54.42,0:00:59.60,fables op tl,[karaoke],0,0,0,,{TIME:54429,59601}You see… You see,
+Dialogue: 0,0:00:59.60,0:01:02.22,fables op tl,[karaoke],0,0,0,,{TIME:59601,62229}not even the golden-eyed Owl
+Dialogue: 0,0:01:02.22,0:01:07.40,fables op tl,[karaoke],0,0,0,,{TIME:62229,67401}will hear you if he tries!
+Dialogue: 0,0:01:07.40,0:01:12.61,fables op tl,[karaoke],0,0,0,,{TIME:67401,72614}Where could the Lonesome Pine be?
+Dialogue: 0,0:01:12.61,0:01:18.87,fables op tl,[karaoke],0,0,0,,{TIME:72614,78870}{\fad(0,1000)}I keep asking everyone…
+Comment: 0,0:01:21.62,0:01:21.62,fables default,[chapter],0,0,0,,{TIME:81623,81623}Title screen
+Dialogue: 0,0:01:24.91,0:01:29.67,fables episode title,[title],0,0,0,,{TIME:84918,89673}{\fad(800,0)\pos(720,700)\blur1}Traps in the Forest
+Dialogue: 0,0:01:24.91,0:01:29.67,fables author credits,[credits],0,0,0,,{TIME:84918,89673}{\fad(800,0)\pos(720,870)\blur1}Based on the books by Thornton W. Burgess
+Comment: 0,0:01:29.67,0:01:29.67,fables default,[chapter],0,0,0,,{TIME:89673,89673}Part A
 Dialogue: 0,0:00:17.36,0:00:19.64,fables default,,0,0,0,,{TIME:17360,19640}Ah... I'm awful hungry!
 Dialogue: 0,0:00:20.04,0:00:21.82,fables default,,0,0,0,,{TIME:20040,21820}{\i1}Hey, Jerry!{\i}
 Dialogue: 0,0:00:22.17,0:00:24.08,fables default,,0,0,0,,{TIME:22170,24080}Oh, Bobby Raccoon, what's up?
@@ -296,4 +329,29 @@ Dialogue: 0,0:21:41.21,0:21:44.22,fables default,,0,0,0,,{TIME:1301210,1304220}W
 Dialogue: 0,0:21:44.22,0:21:45.57,fables default,,0,0,0,,{TIME:1304220,1305570}I'm going to have another one...
 Dialogue: 0,0:21:47.14,0:21:49.43,fables default,,0,0,0,,{TIME:1307140,1309430}That is so good,\Ngood, good, yeah!
 Dialogue: 0,0:21:54.47,0:21:56.84,fables default,,0,0,0,,{TIME:1314470,1316840}Some of the best...\NJust delicious...
-Dialogue: 0,0:22:16.99,0:22:21.02,fables default,,0,0,0,,{TIME:1336990,1341020}{\c&HFFFFFF&}Subtitle: {\c&H1BEAED&}South Wind Subs
+Comment: 0,0:13:11.91,0:13:11.91,fables default,[chapter],0,0,0,,{TIME:791916,791916}Part B
+Comment: 0,0:23:54.26,0:23:54.26,fables default,[chapter],0,0,0,,{TIME:1434266,1434266}Preview
+Comment: 0,0:24:34.22,0:24:34.22,fables default,[chapter],0,0,0,,{TIME:1474223,1474223}Ending
+Dialogue: 0,0:24:42.81,0:24:50.57,fables ed jp,[karaoke],0,0,0,,{TIME:1482815,1490572}{\blur1}Nani ga aru no kana  kono mori no oku ni
+Dialogue: 0,0:24:50.57,0:24:58.16,fables ed jp,[karaoke],0,0,0,,{TIME:1490572,1498163}{\blur1}Nani ga aru no kana  ano sora no mukō ni
+Dialogue: 0,0:24:58.16,0:25:03.91,fables ed jp,[karaoke],0,0,0,,{TIME:1498163,1503919}{\blur1}Tashikametai  kimi to futari de
+Dialogue: 0,0:25:03.91,0:25:05.92,fables ed jp,[karaoke],0,0,0,,{TIME:1503919,1505921}{\blur1}Porii
+Dialogue: 0,0:25:05.92,0:25:11.67,fables ed jp,[karaoke],0,0,0,,{TIME:1505921,1511677}{\blur1}Tashikametai  anata to futari de
+Dialogue: 0,0:25:11.67,0:25:13.51,fables ed jp,[karaoke],0,0,0,,{TIME:1511677,1513512}{\blur1}Rokkii
+Dialogue: 0,0:25:13.51,0:25:17.51,fables ed jp,[karaoke],0,0,0,,{TIME:1513512,1517516}{\blur1}Dokidoki shitai  harahara shitai
+Dialogue: 0,0:25:17.51,0:25:21.52,fables ed jp,[karaoke],0,0,0,,{TIME:1517516,1521520}{\blur1}wakuwaku shitai  mesomeso
+Dialogue: 0,0:25:21.52,0:25:28.98,fables ed jp,[karaoke],0,0,0,,{TIME:1521520,1528986}{\blur1}Dake wa  gomen dayo
+Dialogue: 0,0:25:28.98,0:25:36.86,fables ed jp,[karaoke],0,0,0,,{TIME:1528986,1536869}{\blur1}Nani ga aru no kana  asu  ame no naka de
+Dialogue: 0,0:25:36.86,0:25:45.00,fables ed jp,[karaoke],0,0,0,,{TIME:1536869,1545002}{\blur1}Nani ga aru no kana  asu  niji no mukō de
+Dialogue: 0,0:24:42.81,0:24:50.57,fables ed tl,[karaoke],0,0,0,,{TIME:1482815,1490572}What's there, inside this forest?
+Dialogue: 0,0:24:50.57,0:24:58.16,fables ed tl,[karaoke],0,0,0,,{TIME:1490572,1498163}What's there, high up in the sky?
+Dialogue: 0,0:24:58.16,0:25:03.91,fables ed tl,[karaoke],0,0,0,,{TIME:1498163,1503919}I want to find that out together with you
+Dialogue: 0,0:25:03.91,0:25:05.92,fables ed tl,[karaoke],0,0,0,,{TIME:1503919,1505921}Polly!
+Dialogue: 0,0:25:05.92,0:25:11.67,fables ed tl,[karaoke],0,0,0,,{TIME:1505921,1511677}I want to find that out together with you
+Dialogue: 0,0:25:11.67,0:25:13.51,fables ed tl,[karaoke],0,0,0,,{TIME:1511677,1513512}Rocky!
+Dialogue: 0,0:25:13.51,0:25:17.51,fables ed tl,[karaoke],0,0,0,,{TIME:1513512,1517516}I want my heart to beat fast,\NI want to feel the thrill,
+Dialogue: 0,0:25:17.51,0:25:21.52,fables ed tl,[karaoke],0,0,0,,{TIME:1517516,1521520}I want excitement… And tears –
+Dialogue: 0,0:25:21.52,0:25:28.98,fables ed tl,[karaoke],0,0,0,,{TIME:1521520,1528986}Anything but that!
+Dialogue: 0,0:25:28.98,0:25:36.86,fables ed tl,[karaoke],0,0,0,,{TIME:1528986,1536869}What happens tomorrow in the rain?
+Dialogue: 0,0:25:36.86,0:25:45.00,fables ed tl,[karaoke],0,0,0,,{TIME:1536869,1545002}What happens tomorrow\Nbeyond the rainbow?
+Dialogue: 0,0:25:45.00,0:25:50.97,fables thanks,[credits],0,0,0,,{TIME:1545002,1550976}{\blur0.7}Special thanks from Old Castle & South Wind Subs to:\NCyber Zero, Mónica, Lordwen & Gango
