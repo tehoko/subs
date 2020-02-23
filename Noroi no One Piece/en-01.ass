@@ -14,116 +14,117 @@ Language: en_US
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Fixedsys,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,3.0,0.0,2,260,260,60,1
+Style: Default,Arial,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,7.5,0.0,2,260,260,60,1
 Style: Red title,Ebrima,60,&H000000FF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,10,10,10,1
-Style: White title,ebrima,60,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,10,10,10,1
-Style: Green title,Chiller,60,&H0035EA13,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.5,0.0,2,10,10,10,1
-Style: Blue title,Chiller,60,&H00FBAF14,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.5,0.0,2,10,10,10,1
+Style: Green title,Chiller,60,&H0033DA00,&H000000FF,&H00202020,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,10,10,10,1
+Style: Blue title,Chiller,60,&H00FFA21B,&H000000FF,&H00202020,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,10,10,10,1
 Style: Black Title,Julietta,60,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:01.98,Default,,0,0,0,,{TIME:0,1980}Raws: {\i1}R{\i0}\NInitial TL: Tougewolf\NTiming: Tougewolf {although might be wonky as keyframes are inaccurate}
-Dialogue: 0,0:00:01.98,0:00:03.61,Default,,0,0,0,,{TIME:1980,3610}I want to be pretty…
-Dialogue: 0,0:00:11.42,0:00:12.81,Default,,0,0,0,,{TIME:11420,12810}I want to be pretty…
-Dialogue: 0,0:00:14.01,0:00:19.00,Default,,0,0,0,,{TIME:14010,19000}I want to wear nice clothes and be more beautiful than anyone else.
-Dialogue: 0,0:00:19.00,0:00:23.98,Default,,0,0,0,,{TIME:19000,23980}If I do, that person will turn around and look at me.
-Dialogue: 0,0:00:24.41,0:00:27.61,Default,,0,0,0,,{TIME:24410,27610}He'll turn around because I'm pretty.
-Comment: 0,0:00:23.62,0:00:27.88,Red title,,0,0,0,,{TIME:23620,27880}{not sure why - but the woman who made the manga for this calls herself "uchida shungicu" as oppose to shungiku   -  Guess it's kinda like Masamune Shirow / Shirou}
-Dialogue: 0,0:00:23.62,0:00:27.88,White title,,0,0,0,,{TIME:23620,27880}{\fs58\fad(1100,0)\pos(1202,425)} Uchida Shungicu's
-Dialogue: 0,0:00:23.62,0:00:27.88,Red title,,0,0,0,,{TIME:23620,27880}{\fs58\fad(1100,0)\pos(1200,422)} Uchida Shungicu's
-Dialogue: 0,0:00:23.62,0:00:27.88,Green title,,0,0,0,,{TIME:23620,27880}{\fs160\fad(1100,0)\pos(957,950)}The Cursed One Piece
-Dialogue: 0,0:00:29.63,0:00:34.13,Blue title,,0,0,0,,{TIME:29630,34130}{\fs100\pos(1170,904)}The Cursed One Piece
-Dialogue: 0,0:00:29.63,0:00:34.13,Black Title,,0,0,0,,{TIME:29630,34130}{\fs150\pos(906,346)}Yuuko
-Dialogue: 0,0:00:44.81,0:00:45.90,Default,,0,0,0,,{TIME:44810,45900}Doi…
-Dialogue: 0,0:00:53.02,0:00:54.04,Default,,0,0,0,,{TIME:53020,54040}Hey!
-Dialogue: 0,0:00:54.64,0:00:56.78,Default,,0,0,0,,{TIME:54640,56780}Oh, Mayumi! You're here!
-Dialogue: 0,0:00:59.44,0:01:01.20,Default,,0,0,0,,{TIME:59440,61200}Oh, you look so cute!
-Dialogue: 0,0:01:01.20,0:01:03.04,Default,,0,0,0,,{TIME:61200,63040}You look really pretty!
-Dialogue: 0,0:01:03.86,0:01:08.06,Default,,0,0,0,,{TIME:63860,68060}My papa just came back and brought lots of western clothes with him.
-Dialogue: 0,0:01:08.06,0:01:11.05,Default,,0,0,0,,{TIME:68060,71050}Must be nice having a father like that…
-Dialogue: 0,0:01:11.05,0:01:14.04,Default,,0,0,0,,{TIME:71050,74040}He brought accessories with him too, right?
-Dialogue: 0,0:01:14.52,0:01:16.41,Default,,0,0,0,,{TIME:74520,76410}That's so cool!
-Dialogue: 0,0:01:16.41,0:01:21.29,Default,,0,0,0,,{TIME:76410,81290}It's nothing special really, when he\Ncomes back he never stops talking.
-Dialogue: 0,0:01:21.29,0:01:23.00,Default,,0,0,0,,{TIME:81290,83000}What's wrong with that?
-Dialogue: 0,0:01:23.00,0:01:24.14,Default,,0,0,0,,{TIME:83000,84140}I'm so jealous!
-Dialogue: 0,0:01:24.54,0:01:28.80,Default,,0,0,0,,{TIME:84540,88800}I guess you're right, I should be happy that he's back.
-Dialogue: 0,0:01:28.80,0:01:30.61,Default,,0,0,0,,{TIME:88800,90610}He got back in time for my birthday, after all.
-Dialogue: 0,0:01:31.28,0:01:33.32,Default,,0,0,0,,{TIME:91280,93320}So, you're coming to my party, right?
-Dialogue: 0,0:01:33.32,0:01:34.88,Default,,0,0,0,,{TIME:93320,94880}– Yeah!\N- Of course!
-Dialogue: 0,0:01:34.88,0:01:36.05,Default,,0,0,0,,{TIME:94880,96050}You're coming too, Yuuko?
-Dialogue: 0,0:01:36.25,0:01:38.28,Default,,0,0,0,,{TIME:96250,98280}Well… I… of course…
-Dialogue: 0,0:01:39.16,0:01:41.02,Default,,0,0,0,,{TIME:99160,101020}Are there boys coming too?
-Dialogue: 0,0:01:41.02,0:01:43.74,Default,,0,0,0,,{TIME:101020,103740}There are, Doi already said he is coming but…
-Dialogue: 0,0:01:44.02,0:01:46.91,Default,,0,0,0,,{TIME:104020,106910}Mayumi! Are you going out with Doi?!
-Dialogue: 0,0:01:47.34,0:01:48.36,Default,,0,0,0,,{TIME:107340,108360}Of course not…
-Dialogue: 0,0:01:48.36,0:01:50.08,Default,,0,0,0,,{TIME:108360,110080}No way! You're going out, aren't you?
-Dialogue: 0,0:01:50.08,0:01:52.08,Default,,0,0,0,,{TIME:110080,112080}No, it's nothing like that.
-Dialogue: 0,0:01:52.08,0:01:54.08,Default,,0,0,0,,{TIME:112080,114080}I knew it!
-Dialogue: 0,0:01:55.12,0:01:56.59,Default,,0,0,0,,{TIME:115120,116590}I said that's not it.
-Dialogue: 0,0:01:57.08,0:02:02.09,Default,,0,0,0,,{TIME:117080,122090}We just talk at school all the time and he's helped me a few times.
-Dialogue: 0,0:02:11.89,0:02:14.14,Default,,0,0,0,,{TIME:131890,134140}What? You've cleaned the blackboard for me?
-Dialogue: 0,0:02:14.98,0:02:17.49,Default,,0,0,0,,{TIME:134980,137490}I completely forgot, sorry about that.
-Dialogue: 0,0:02:19.21,0:02:21.01,Default,,0,0,0,,{TIME:139210,141010}He has such a kind voice…
-Dialogue: 0,0:02:21.70,0:02:24.96,Default,,0,0,0,,{TIME:141700,144960}After that I became curious about Doi.
-Dialogue: 0,0:02:25.54,0:02:30.25,Default,,0,0,0,,{TIME:145540,150250}Whenever I looked at him,\Nhe was already looking at me.
-Dialogue: 0,0:02:31.28,0:02:33.00,Default,,0,0,0,,{TIME:151280,153000}Was that a coincidence?
-Dialogue: 0,0:02:36.41,0:02:39.00,Default,,0,0,0,,{TIME:156410,159000}I have nothing to wear…
-Dialogue: 0,0:02:44.46,0:02:45.81,Default,,0,0,0,,{TIME:164460,165810}Coming!
-Dialogue: 0,0:02:53.26,0:02:54.32,Default,,0,0,0,,{TIME:173260,174320}Oh, what is this?
-Dialogue: 0,0:02:59.24,0:02:59.90,Default,,0,0,0,,{TIME:179240,179900}It's so pretty…
-Dialogue: 0,0:03:00.84,0:03:04.77,Default,,0,0,0,,{TIME:180840,184770}You can't, we don't even know who it's from.
-Dialogue: 0,0:03:05.30,0:03:08.17,Default,,0,0,0,,{TIME:185300,188170}It might have been delivered to the wrong house.
-Dialogue: 0,0:03:08.61,0:03:13.16,Default,,0,0,0,,{TIME:188610,193160}That's not all, that one piece makes me uncomfortable…
-Dialogue: 0,0:03:37.81,0:03:39.03,Default,,0,0,0,,{TIME:217810,219030}It fits perfectly.
-Dialogue: 0,0:03:39.69,0:03:42.72,Default,,0,0,0,,{TIME:219690,222720}It's almost like it was made for me.
-Dialogue: 0,0:03:53.98,0:03:55.21,Default,,0,0,0,,{TIME:233980,235210}I'm sorry.
-Dialogue: 0,0:03:55.46,0:04:00.17,Default,,0,0,0,,{TIME:235460,240170}Hey, Mama, is it okay for me to wear that to Mayumi's birthday party?
-Dialogue: 0,0:04:00.17,0:04:01.09,Default,,0,0,0,,{TIME:240170,241090}No, you can't.
-Dialogue: 0,0:04:01.86,0:04:06.90,Default,,0,0,0,,{TIME:241860,246900}Why? Do you want them all to laugh at me for wearing my own weird clothes?
-Dialogue: 0,0:04:06.90,0:04:08.98,Default,,0,0,0,,{TIME:246900,248980}You've already got lots of clothes.
-Dialogue: 0,0:04:08.98,0:04:10.80,Default,,0,0,0,,{TIME:248980,250800}You just bought some more the other day.
-Dialogue: 0,0:04:10.80,0:04:13.80,Default,,0,0,0,,{TIME:250800,253800}That's not fair! Please, Mama!
-Dialogue: 0,0:04:14.41,0:04:18.56,Default,,0,0,0,,{TIME:254410,258560}You're just going to your friends house, why do you need to get all dressed up?
-Dialogue: 0,0:04:18.56,0:04:20.11,Default,,0,0,0,,{TIME:258560,260110}Stop being selfish.
-Dialogue: 0,0:04:23.90,0:04:27.25,Default,,0,0,0,,{TIME:263900,267250}I have to go… I have to…
-Dialogue: 0,0:04:27.86,0:04:28.65,Default,,0,0,0,,{TIME:267860,268650}Hashimoto.
-Dialogue: 0,0:04:28.65,0:04:29.03,Default,,0,0,0,,{TIME:268650,269030}But…
-Dialogue: 0,0:04:29.56,0:04:30.49,Default,,0,0,0,,{TIME:269560,270490}Hashimoto!
-Dialogue: 0,0:04:31.48,0:04:32.61,Default,,0,0,0,,{TIME:271480,272610}Doi!
-Dialogue: 0,0:04:33.29,0:04:37.29,Default,,0,0,0,,{TIME:273290,277290}Hey, you're going to the party today too, right?
-Dialogue: 0,0:04:37.29,0:04:37.92,Default,,0,0,0,,{TIME:277290,277920}Y-Yes…
-Dialogue: 0,0:04:38.28,0:04:41.26,Default,,0,0,0,,{TIME:278280,281260}What a relief! I was invited too.
-Dialogue: 0,0:04:41.76,0:04:44.43,Default,,0,0,0,,{TIME:281760,284430}This'll be the first time I see you in your own clothes.
-Dialogue: 0,0:04:45.09,0:04:47.89,Default,,0,0,0,,{TIME:285090,287890}Well… I guess you're right.
-Dialogue: 0,0:04:48.96,0:04:50.28,Default,,0,0,0,,{TIME:288960,290280}I don't want to go…
-Dialogue: 0,0:04:51.26,0:04:52.81,Default,,0,0,0,,{TIME:291260,292810}I don't want to go…
-Dialogue: 0,0:04:53.34,0:04:55.81,Default,,0,0,0,,{TIME:293340,295810}I don't want to go!
-Dialogue: 0,0:04:58.68,0:05:02.23,Default,,0,0,0,,{TIME:298680,302230}It would've been nice if I could go wearing that one piece.
-Dialogue: 0,0:05:03.90,0:05:05.29,Default,,0,0,0,,{TIME:303900,305290}Wh-What could that be?
-Dialogue: 0,0:05:09.84,0:05:13.94,Default,,0,0,0,,{TIME:309840,313940}No way! Mama said she closed it properly!
-Dialogue: 0,0:05:20.68,0:05:23.98,Default,,0,0,0,,{TIME:320680,323980}It's Mama's fault… all her fault…
-Dialogue: 0,0:05:23.98,0:05:26.30,Default,,0,0,0,,{TIME:323980,326300}All hers…
-Dialogue: 0,0:05:28.30,0:05:30.00,Default,,0,0,0,,{TIME:328300,330000}Yuuko sure is late, isn't she?
-Dialogue: 0,0:05:30.00,0:05:31.53,Default,,0,0,0,,{TIME:330000,331530}She even said she was coming.
-Dialogue: 0,0:05:44.80,0:05:45.96,Default,,0,0,0,,{TIME:344800,345960}Hashimoto…
-Dialogue: 0,0:05:47.96,0:05:52.24,Default,,0,0,0,,{TIME:347960,352240}Hey, Doi, let's go and play a game.
-Dialogue: 0,0:05:52.72,0:05:55.34,Default,,0,0,0,,{TIME:352720,355340}It's my birthday today, you know?
-Dialogue: 0,0:05:55.34,0:05:56.00,Default,,0,0,0,,{TIME:355340,356000}Hey…
-Dialogue: 0,0:05:57.62,0:05:59.58,Default,,0,0,0,,{TIME:357620,359580}Yeah, okay. We'll bring Hashimoto too.
-Dialogue: 0,0:06:03.33,0:06:06.76,Default,,0,0,0,,{TIME:363330,366760}Only I have to die…
-Dialogue: 0,0:06:11.12,0:06:12.72,Default,,0,0,0,,{TIME:371120,372720}Only me…
-Dialogue: 0,0:06:15.00,0:06:17.36,Default,,0,0,0,,{TIME:375000,377360}Only I have to die.
-Dialogue: 0,0:06:20.68,0:06:21.89,Default,,0,0,0,,{TIME:380680,381890}Doi…
-Dialogue: 0,0:06:22.12,0:06:22.81,Default,,0,0,0,,{TIME:382120,382810}Doi.
-Dialogue: 0,0:06:22.81,0:06:23.40,Default,,0,0,0,,{TIME:382810,383400}Doi!
-Dialogue: 0,0:06:23.89,0:06:25.86,Default,,0,0,0,,{TIME:383890,385860}Doi…
-Dialogue: 0,0:06:27.89,0:06:30.36,Default,,0,0,0,,{TIME:387890,390360}Doi… look at me…
-Dialogue: 0,0:06:43.01,0:06:48.22,Default,,0,0,0,,{TIME:403010,408220}I was discharged a few days later and\Nfound out that Doi had transferred schools.
-Dialogue: 0,0:06:48.72,0:06:53.38,Default,,0,0,0,,{TIME:408720,413380}After talking to otther boys,\Nthey told me that he like me.
-Dialogue: 0,0:06:54.30,0:06:57.52,Default,,0,0,0,,{TIME:414300,417520}If I hadn't worn that dress,\Nthat wouldn't have happened.
-Dialogue: 0,0:06:57.89,0:07:02.64,Default,,0,0,0,,{TIME:417890,422640}But, I still can't get rid of the regret I feel.
-Dialogue: 0,0:07:03.04,0:07:10.52,Default,,0,0,0,,{TIME:423040,430520}After yesterday's dance, the one piece that\Nshould have disappeared was back in there.
-Dialogue: 0,0:07:12.52,0:07:16.00,Default,,0,0,0,,{TIME:432520,436000}I still haven't checked properly.
-Dialogue: 0,0:07:16.00,0:07:18.00,Default,,0,0,0,,{TIME:436000,438000}I'm too scared to look.
-Dialogue: 0,0:07:18.00,0:07:26.44,Default,,0,0,0,,{TIME:438000,446440}Because I'm still scared of that eerie\None piece, everyday is filled with fear.
+Dialogue: 0,0:00:02.25,0:00:03.96,Default,,0,0,0,,{TIME:2252,3962}{\i1}I want to be pretty.
+Dialogue: 0,0:00:11.47,0:00:13.22,Default,,0,0,0,,{TIME:11470,13222}{\i1}I want to be pretty…
+Dialogue: 0,0:00:14.22,0:00:19.18,Default,,0,0,0,,{TIME:14223,19186}{\i1}I want to wear nice clothes\Nand be more beautiful than anyone else.
+Dialogue: 0,0:00:19.18,0:00:24.48,Default,,0,0,0,,{TIME:19186,24483}{\i1}If I do, he'll turn around and look at me.
+Dialogue: 0,0:00:24.48,0:00:27.90,Default,,0,0,0,,{TIME:24483,27903}{\i1}He'll turn around, because I'm pretty.
+Dialogue: 0,0:00:23.60,0:00:27.90,Red title,,0,0,0,,{TIME:23607,27903}{\blur0.75\1c&HFFFFFF&\fs58\fad(1100,0)\pos(1202,425)}Uchida Shungicu's
+Dialogue: 0,0:00:23.60,0:00:27.90,Red title,,0,0,0,,{TIME:23607,27903}{\blur0.75\fs58\fad(1100,0)\pos(1200,422)}Uchida Shungicu's
+Dialogue: 0,0:00:23.60,0:00:27.90,Green title,,0,0,0,,{TIME:23607,27903}{\blur0.75\fs160\fad(1100,0)\pos(951,951)\1c&H404040&}The Cursed One Piece
+Dialogue: 1,0:00:23.60,0:00:27.90,Green title,,0,0,0,,{TIME:23607,27903}{\blur0.75\fs160\fad(1100,0)\pos(950,950)}The Cursed One Piece
+Dialogue: 0,0:00:29.65,0:00:34.15,Blue title,,0,0,0,,{TIME:29655,34159}{\blur0.75\fs100\pos(1171,901)\1c&H404040&}The Cursed One Piece
+Dialogue: 2,0:00:29.65,0:00:34.15,Blue title,,0,0,0,,{TIME:29655,34159}{\blur0.75\fs100\pos(1170,900)}The Cursed One Piece
+Dialogue: 0,0:00:29.65,0:00:34.15,Black Title,,0,0,0,,{TIME:29655,34159}{\blur0.75\fs150\pos(906,346)}Yuuko
+Dialogue: 0,0:00:45.04,0:00:45.92,Default,,0,0,0,,{TIME:45045,45921}Doi-kun…
+Dialogue: 0,0:00:53.09,0:00:54.34,Default,,0,0,0,,{TIME:53095,54346}Hey!
+Dialogue: 0,0:00:54.80,0:00:56.80,Default,,0,0,0,,{TIME:54805,56807}Oh, Mayumi! You're here!
+Dialogue: 0,0:00:59.51,0:01:01.14,Default,,0,0,0,,{TIME:59518,61144}Oh, you look so cute!
+Dialogue: 0,0:01:01.14,0:01:03.23,Default,,0,0,0,,{TIME:61144,63230}You look really pretty!
+Dialogue: 0,0:01:03.93,0:01:08.15,Default,,0,0,0,,{TIME:63939,68151}My papa just came back and brought\Nlots of western clothes with him.
+Dialogue: 0,0:01:08.15,0:01:11.28,Default,,0,0,0,,{TIME:68151,71280}Must be nice having\Na father like that…
+Dialogue: 0,0:01:11.28,0:01:14.19,Default,,0,0,0,,{TIME:71280,74199}He brought accessories\Nwith him too, right?
+Dialogue: 0,0:01:14.70,0:01:16.57,Default,,0,0,0,,{TIME:74700,76576}That's so cool!
+Dialogue: 0,0:01:16.57,0:01:18.12,Default,,0,0,0,,{TIME:76576,78120}It's nothing special, really.
+Dialogue: 0,0:01:18.12,0:01:21.41,Default,,0,0,0,,{TIME:78120,81415}When he comes back,\Nhe never stops talking.
+Dialogue: 0,0:01:21.41,0:01:23.16,Default,,0,0,0,,{TIME:81415,83166}What's wrong with that?
+Dialogue: 0,0:01:23.16,0:01:24.62,Default,,0,0,0,,{TIME:83166,84626}I'm so jealous!
+Dialogue: 0,0:01:24.62,0:01:29.21,Default,,0,0,0,,{TIME:84626,89214}I guess you're right…\NI should be happy that he's back.
+Dialogue: 0,0:01:29.21,0:01:31.38,Default,,0,0,0,,{TIME:89214,91383}He got back in time\Nfor my birthday, after all.
+Dialogue: 0,0:01:31.38,0:01:33.42,Default,,0,0,0,,{TIME:91383,93427}So, you're coming to my party, right?
+Dialogue: 0,0:01:33.42,0:01:35.05,Default,,0,0,0,,{TIME:93427,95053}– Yeah!\N– Of course!
+Dialogue: 0,0:01:35.05,0:01:36.34,Default,,0,0,0,,{TIME:95053,96346}You're coming too, Yuuko?
+Dialogue: 0,0:01:36.34,0:01:39.18,Default,,0,0,0,,{TIME:96346,99182}Oh? Ah, yes…\NYes, of course.
+Dialogue: 0,0:01:39.18,0:01:41.22,Default,,0,0,0,,{TIME:99182,101226}Are there boys coming, too?
+Dialogue: 0,0:01:41.22,0:01:44.56,Default,,0,0,0,,{TIME:101226,104563}There are. Doi-kun already said\Nthat he's coming, but…
+Dialogue: 0,0:01:44.56,0:01:47.39,Default,,0,0,0,,{TIME:104563,107399}Mayumi!\NYou're going out with Doi-kun?!
+Dialogue: 0,0:01:47.39,0:01:48.35,Default,,0,0,0,,{TIME:107399,108358}Of course not…
+Dialogue: 0,0:01:48.35,0:01:50.31,Default,,0,0,0,,{TIME:108358,110319}No way! You're going out, aren't you?
+Dialogue: 0,0:01:50.31,0:01:52.32,Default,,0,0,0,,{TIME:110319,112321}No, it's nothing like that.
+Dialogue: 0,0:01:52.32,0:01:54.07,Default,,0,0,0,,{TIME:112321,114072}I knew it!
+Dialogue: 0,0:01:54.86,0:01:56.61,Default,,0,0,0,,{TIME:114865,116616}I said that's not it.
+Dialogue: 0,0:01:57.36,0:02:02.83,Default,,0,0,0,,{TIME:117367,122831}We just talk at school all the time\Nand he's helped me a few times.
+Dialogue: 0,0:02:12.00,0:02:14.55,Default,,0,0,0,,{TIME:132007,134551}What? You've cleaned\Nthe blackboard for me?
+Dialogue: 0,0:02:14.96,0:02:18.38,Default,,0,0,0,,{TIME:134968,138388}I completely forgot.\NSorry about that.
+Dialogue: 0,0:02:19.43,0:02:21.76,Default,,0,0,0,,{TIME:139431,141767}{\i1}He has such a kind voice…
+Dialogue: 0,0:02:21.76,0:02:25.72,Default,,0,0,0,,{TIME:141767,145729}{\i1}After that, I became\Ncurious about Doi-kun.
+Dialogue: 0,0:02:25.72,0:02:30.27,Default,,0,0,0,,{TIME:145729,150275}{\i1}Whenever I looked at him,\Nhe was already looking at me.
+Dialogue: 0,0:02:31.36,0:02:33.27,Default,,0,0,0,,{TIME:151360,153278}{\i1}Was that just a coincidence?
+Dialogue: 0,0:02:36.49,0:02:39.11,Default,,0,0,0,,{TIME:156490,159117}I have nothing to wear…
+Dialogue: 0,0:02:44.53,0:02:45.83,Default,,0,0,0,,{TIME:164539,165832}Coming!
+Dialogue: 0,0:02:53.34,0:02:54.92,Default,,0,0,0,,{TIME:173340,174925}Oh, what is this?
+Dialogue: 0,0:02:59.30,0:03:00.84,Default,,0,0,0,,{TIME:179304,180847}It's so pretty…
+Dialogue: 0,0:03:00.84,0:03:05.47,Default,,0,0,0,,{TIME:180847,185477}You can't wear it.\NWe don't even know who it's from.
+Dialogue: 0,0:03:05.47,0:03:08.39,Default,,0,0,0,,{TIME:185477,188397}It might have been delivered\Nto the wrong house.
+Dialogue: 0,0:03:08.77,0:03:13.56,Default,,0,0,0,,{TIME:188772,193568}Besides, I can't really explain it, but that\None piece makes me really uncomfortable.
+Dialogue: 0,0:03:37.96,0:03:39.05,Default,,0,0,0,,{TIME:217968,219052}It fits perfectly.
+Dialogue: 0,0:03:39.80,0:03:44.01,Default,,0,0,0,,{TIME:219803,224015}It's almost like it was made for me.
+Dialogue: 0,0:03:54.15,0:03:55.61,Default,,0,0,0,,{TIME:234151,235610}I'm sorry.
+Dialogue: 0,0:03:55.61,0:04:00.28,Default,,0,0,0,,{TIME:235610,240282}Hey, Mom, is it okay for me to wear that\Nto Mayumi-chan's birthday party?
+Dialogue: 0,0:04:00.28,0:04:01.19,Default,,0,0,0,,{TIME:240282,241199}No, you can't.
+Dialogue: 0,0:04:02.07,0:04:06.99,Default,,0,0,0,,{TIME:242075,246997}Why? Do you want them all to laugh at me\Nfor wearing my own weird clothes?
+Dialogue: 0,0:04:06.99,0:04:09.08,Default,,0,0,0,,{TIME:246997,249082}You've already got lots of clothes.
+Dialogue: 0,0:04:09.08,0:04:10.83,Default,,0,0,0,,{TIME:249082,250834}You just bought some more\Nthe other day.
+Dialogue: 0,0:04:10.83,0:04:14.17,Default,,0,0,0,,{TIME:250834,254171}That's not fair! Please, Mama!
+Dialogue: 0,0:04:14.50,0:04:18.67,Default,,0,0,0,,{TIME:254504,258675}You're just going to your friends house.\NWhy do you need to get all dressed up?
+Dialogue: 0,0:04:18.67,0:04:20.13,Default,,0,0,0,,{TIME:258675,260135}Stop being selfish.
+Dialogue: 0,0:04:23.97,0:04:27.55,Default,,0,0,0,,{TIME:263972,267559}{\i1}It's not like I have to go.
+Dialogue: 0,0:04:27.93,0:04:28.81,Default,,0,0,0,,{TIME:267934,268810}Hashimoto.
+Dialogue: 0,0:04:28.81,0:04:29.72,Default,,0,0,0,,{TIME:268810,269728}{\i1}But…
+Dialogue: 0,0:04:29.72,0:04:30.52,Default,,0,0,0,,{TIME:269728,270520}Hashimoto!
+Dialogue: 0,0:04:31.77,0:04:32.77,Default,,0,0,0,,{TIME:271772,272772}Doi-kun!
+Dialogue: 0,0:04:33.27,0:04:37.27,Default,,0,0,0,,{TIME:273273,277277}Hey, you're going to\Nthe party today too, right?
+Dialogue: 0,0:04:37.27,0:04:38.48,Default,,0,0,0,,{TIME:277277,278487}Y-Yes…
+Dialogue: 0,0:04:38.48,0:04:41.86,Default,,0,0,0,,{TIME:278487,281865}What a relief! I was invited, too.
+Dialogue: 0,0:04:41.86,0:04:45.20,Default,,0,0,0,,{TIME:281865,285202}This will be the first time\NI see you in your own clothes.
+Dialogue: 0,0:04:45.20,0:04:47.91,Default,,0,0,0,,{TIME:285202,287913}Well… I guess you're right.
+Dialogue: 0,0:04:49.03,0:04:50.87,Default,,0,0,0,,{TIME:289039,290874}{\i1}I don't want to go…
+Dialogue: 0,0:04:51.29,0:04:52.83,Default,,0,0,0,,{TIME:291291,292834}{\i1}I don't want to go…
+Dialogue: 0,0:04:53.37,0:04:56.29,Default,,0,0,0,,{TIME:293376,296296}I don't want to go!
+Dialogue: 0,0:04:58.75,0:05:02.76,Default,,0,0,0,,{TIME:298757,302761}It would've been nice\Nif I could go wearing that one piece.
+Dialogue: 0,0:05:04.13,0:05:05.38,Default,,0,0,0,,{TIME:304137,305388}Wh-What could that be?
+Dialogue: 0,0:05:09.93,0:05:14.39,Default,,0,0,0,,{TIME:309935,314397}No way!\NMom said that she closed it properly!
+Dialogue: 0,0:05:20.69,0:05:23.99,Default,,0,0,0,,{TIME:320695,323990}It's Mom's fault…\NIt's all her fault.
+Dialogue: 0,0:05:23.99,0:05:26.28,Default,,0,0,0,,{TIME:323990,326284}All hers…
+Dialogue: 0,0:05:28.16,0:05:29.70,Default,,0,0,0,,{TIME:328161,329704}Yuuko sure is late, isn't she?
+Dialogue: 0,0:05:29.70,0:05:32.37,Default,,0,0,0,,{TIME:329704,332374}She even said she was coming.
+Dialogue: 0,0:05:44.92,0:05:46.13,Default,,0,0,0,,{TIME:344928,346137}Hashimoto…
+Dialogue: 0,0:05:48.64,0:05:52.76,Default,,0,0,0,,{TIME:348640,352769}Hey, Doi-kun,\Nlet's go and play a game.
+Dialogue: 0,0:05:52.76,0:05:55.43,Default,,0,0,0,,{TIME:352769,355438}It's my birthday today, you know?
+Dialogue: 0,0:05:55.43,0:05:56.02,Default,,0,0,0,,{TIME:355438,356022}Hey…
+Dialogue: 0,0:05:57.73,0:05:59.60,Default,,0,0,0,,{TIME:357732,359609}Yeah, okay.\NWe'll bring Hashimoto, too.
+Dialogue: 0,0:06:03.61,0:06:06.74,Default,,0,0,0,,{TIME:363613,366741}{\i1}Only I have to die…
+Dialogue: 0,0:06:11.12,0:06:12.66,Default,,0,0,0,,{TIME:371121,372664}{\i1}Only me…
+Dialogue: 0,0:06:14.95,0:06:17.46,Default,,0,0,0,,{TIME:374958,377460}{\i1}Only I have to die.
+Dialogue: 0,0:06:20.71,0:06:21.96,Default,,0,0,0,,{TIME:380714,381965}{\i1}Doi-kun…
+Dialogue: 0,0:06:22.21,0:06:23.04,Default,,0,0,0,,{TIME:382215,383049}Doi-kun.
+Dialogue: 0,0:06:23.04,0:06:24.25,Default,,0,0,0,,{TIME:383049,384259}Doi-kun!
+Dialogue: 0,0:06:24.25,0:06:25.88,Default,,0,0,0,,{TIME:384259,385886}{\i1}Doi-kun…
+Dialogue: 0,0:06:27.88,0:06:30.84,Default,,0,0,0,,{TIME:387888,390849}{\i1}Doi-kun…\NLook at me…
+Dialogue: 0,0:06:43.15,0:06:48.86,Default,,0,0,0,,{TIME:403153,408867}{\i1}I was discharged a few days later and found out\Nthat Doi-kun had transferred schools.
+Dialogue: 0,0:06:48.86,0:06:54.12,Default,,0,0,0,,{TIME:408867,414122}{\i1}After talking to other boys,\NI learned that he liked me.
+Dialogue: 0,0:06:54.12,0:06:58.37,Default,,0,0,0,,{TIME:414122,418376}{\i1}If I hadn't worn that dress,\Nthat wouldn't have happened.
+Dialogue: 0,0:06:58.37,0:07:03.25,Default,,0,0,0,,{TIME:418376,423256}{\i1}But, I can't afford\Nto feel any regrets now.{NOTE:でも今はそれを後悔している 余裕 さえなくしています}
+Dialogue: 0,0:07:03.25,0:07:06.71,Default,,0,0,0,,{TIME:423256,426718}{\i1}That's because after yesterday's dance,
+Dialogue: 0,0:07:06.71,0:07:11.22,Default,,0,0,0,,{TIME:426718,431222}{\i1}the one piece that should have\Ndisappeared was back in there.
+Dialogue: 0,0:07:12.68,0:07:16.26,Default,,0,0,0,,{TIME:432682,436269}{\i1}I still haven't checked.
+Dialogue: 0,0:07:16.26,0:07:18.22,Default,,0,0,0,,{TIME:436269,438229}{\i1}I'm too scared to look.
+Dialogue: 0,0:07:18.22,0:07:26.44,Default,,0,0,0,,{TIME:438229,446446}{\i1}Because I'm still scared of that eerie\None piece. Everyday is filled with fear.{NOTE:Każdego dnia czuję głęboki lęk.}
