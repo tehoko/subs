@@ -49,7 +49,7 @@ Dialogue: 0,0:00:57.39,0:01:00.62,OP TL,[karaoke],0,0,0,,{TIME:57392,60626}Idę 
 Dialogue: 0,0:01:00.62,0:01:08.95,OP TL,[karaoke],0,0,0,,{TIME:60626,68959}Idę dalej, atakując jutro
 Dialogue: 0,0:01:04.59,0:01:11.42,Title,[title],0,0,0,,{TIME:64592,71426}{\pos(430,240)\blur0.7}Atak na Jutro!
 Comment: 0,0:01:11.42,0:01:11.42,Default,[chapter],0,0,0,,{TIME:71426,71426}Plansza tytułowa
-Dialogue: 0,0:01:14.92,0:01:21.75,Default,[title],0,0,0,,{TIME:74926,81759}{\t(4833,6500,5,\1c&H101010&\3c&H101010&\4c&H101010&)}Odcinek 01:\NWskrzeszony klub siatkówki!
+Dialogue: 0,0:01:14.92,0:01:21.75,Default,[title],0,0,0,,{TIME:74926,81759}{\t(4833,6500,5,\1c&H202020&\3c&H202020&\4c&H202020&)\fad(0,300)}Odcinek 01:\NWskrzeszony klub siatkówki!
 Comment: 0,0:01:21.75,0:01:21.75,Default,[chapter],0,0,0,,{TIME:81759,81759}Część A
 Dialogue: 0,0:01:33.15,0:01:36.89,Default,,0,0,0,,{TIME:93159,96892}{\i1}Nasza historia rozpoczyna się\Nw małym miasteczku rybackim
 Dialogue: 0,0:01:36.89,0:01:39.95,Default,,0,0,0,,{TIME:96892,99959}{\i1}na półwyspie Miura\Nw prefekturze Kanagawa.
@@ -146,7 +146,7 @@ Dialogue: 0,0:07:51.59,0:07:54.59,Default,,0,0,0,,{TIME:471592,474592}A przynajm
 Dialogue: 0,0:07:55.19,0:07:57.05,Default,,0,0,0,,{TIME:475192,477059}Nie mów tak,\Nto ma odwrotny skutek.
 Dialogue: 0,0:07:58.32,0:07:59.75,Default,,0,0,0,,{TIME:478326,479759}Ups.
 Dialogue: 0,0:07:59.75,0:08:01.29,Default,,0,0,0,,{TIME:479759,481292}Hej, dziewczyny. Nadal szukacie?
-Dialogue: 0,0:08:02.05,0:08:05.15,Default,,0,0,0,,{TIME:482059,485159}Och, czego przewodniczący rady\Nuczniowskiej mógłby od nas chcieć?
+Dialogue: 0,0:08:01.85,0:08:05.15,Default,,0,0,0,,{TIME:481859,485159}Och, czego przewodniczący rady\Nuczniowskiej mógłby od nas chcieć?
 Dialogue: 0,0:08:05.15,0:08:09.62,Default,,0,0,0,,{TIME:485159,489626}Dyrektor poprosił mnie,\Nżebym zawołał waszą kapitan.
 Dialogue: 0,0:08:09.62,0:08:11.29,Default,,0,0,0,,{TIME:489626,491292}Dyrektor chce mnie widzieć?
 Dialogue: 0,0:08:11.29,0:08:17.29,Sign,(sign),0,0,0,,{TIME:491292,497292}{\an2}Schowek na rowery dla chłopców
@@ -156,8 +156,8 @@ Dialogue: 0,0:08:22.39,0:08:27.32,Default,,0,0,0,,{TIME:502392,507326}To moje mi
 Dialogue: 0,0:08:27.32,0:08:29.62,Default,,0,0,0,,{TIME:507326,509626}Dlatego też tu go zostawiam.
 Dialogue: 0,0:08:29.62,0:08:32.65,Default,,0,0,0,,{TIME:509626,512659}Cicho bądź.\NTo miejsce dla chłopaków!
 Dialogue: 0,0:08:32.65,0:08:34.29,Default,,0,0,0,,{TIME:512659,514292}Jesteś chłopakiem?
-Dialogue: 0,0:08:34.29,0:08:35.45,Default,,0,0,0,,{TIME:514292,515459}A co, wyglądam ci na takiego?
-Dialogue: 0,0:08:35.45,0:08:37.62,Default,,0,0,0,,{TIME:515459,517626}Nie pyskuj mi tu.
+Dialogue: 0,0:08:34.29,0:08:35.79,Default,,0,0,0,,{TIME:514292,515792}A co, wyglądam ci na takiego?
+Dialogue: 0,0:08:35.79,0:08:37.62,Default,,0,0,0,,{TIME:515792,517626}Nie pyskuj mi tu.
 Dialogue: 0,0:08:37.62,0:08:43.42,Default,,0,0,0,,{TIME:517626,523426}Dobrze wiesz, że uczniowie mieszkający\Nblisko szkoły nie mogą przyjeżdżać rowerem.
 Dialogue: 0,0:08:43.42,0:08:47.15,Default,,0,0,0,,{TIME:523426,527159}Dokładnie, Ichijō-kun. Przykro mi,\Nale on ma rację. Takie są przepisy.
 Dialogue: 0,0:08:48.25,0:08:50.49,Default,,0,0,0,,{TIME:528259,530492}Z tego, co pamiętam,\Nprzeniosłaś się tu w styczniu.
@@ -184,8 +184,8 @@ Dialogue: 0,0:10:01.15,0:10:02.85,Default,,0,0,0,,{TIME:601159,602859}Jak idą s
 Dialogue: 0,0:10:03.19,0:10:05.62,Default,,0,0,0,,{TIME:603192,605626}Och, wspaniale, proszę pana.
 Dialogue: 0,0:10:05.62,0:10:07.32,Default,,0,0,0,,{TIME:605626,607326}Nie okłamuj mnie.
 Dialogue: 0,0:10:07.82,0:10:10.69,Default,,0,0,0,,{TIME:607826,610692}Macie zaledwie trzy osoby.
-Dialogue: 0,0:10:11.42,0:10:16.65,Default,,0,0,0,,{TIME:611426,616659}Wiem, że po części jest to spowodowane\Ntym wypadkiem z zeszłego roku.
-Dialogue: 0,0:10:16.65,0:10:21.19,Default,,0,0,0,,{TIME:616659,621192}Jednak rada uczniowska nigdy nie pozwoli wam\Nzałożyć klubu mając zaledwie trzy osoby.
+Dialogue: 0,0:10:11.42,0:10:14.69,Default,,0,0,0,,{TIME:611426,614692}Wiem, że po części jest to spowodowane\Ntym wypadkiem z zeszłego roku.
+Dialogue: 0,0:10:14.69,0:10:21.19,Default,,0,0,0,,{TIME:614692,621192}Jednak rada uczniowska nigdy nie pozwoli wam\Nzałożyć klubu mając zaledwie trzy osoby.
 Dialogue: 0,0:10:21.19,0:10:22.35,Default,,0,0,0,,{TIME:621192,622359}Słucham?
 Dialogue: 0,0:10:22.99,0:10:28.25,Default,,0,0,0,,{TIME:622992,628259}Spodziewam się, że ostateczna decyzja\Nzapadnie na spotkaniu za trzy dni.
 Dialogue: 0,0:10:28.25,0:10:33.09,Default,,0,0,0,,{TIME:628259,633092}Hijiri-kun. Rozumiem, że bardzo się starasz,\Nale musisz spojrzeć na to z naszej strony.
@@ -289,13 +289,13 @@ Dialogue: 0,0:17:09.79,0:17:12.62,Default,,0,0,0,,{TIME:1029792,1032626}Zastanaw
 Dialogue: 0,0:17:12.62,0:17:13.82,Default,,0,0,0,,{TIME:1032626,1033826}Czuję, że coś ukrywa.
 Dialogue: 0,0:17:13.82,0:17:17.32,Default,,0,0,0,,{TIME:1033826,1037326}Od takich ludzi\Nlepiej trzymać się z daleka.
 Dialogue: 0,0:17:28.42,0:17:31.45,Default,,0,0,0,,{TIME:1048426,1051459}Pierwszy raz widzę,\Nżeby Ichijō-san się uśmiechała.
-Dialogue: 0,0:17:31.45,0:17:36.65,Default,,0,0,0,,{TIME:1051459,1056659}Kim jest ten chłopak i dlaczego\Nzagadał do tej ponuraczki?
+Dialogue: 0,0:17:31.45,0:17:36.65,Default,,0,0,0,,{TIME:1051459,1056659}Kim on jest i dlaczego\Nzagadał do tej ponuraczki?
 Dialogue: 0,0:17:36.65,0:17:38.22,Default,,0,0,0,,{TIME:1056659,1058226}Rzeczywiście, ciekawe.
 Dialogue: 0,0:17:40.82,0:17:41.99,Default,,0,0,0,,{TIME:1060826,1061992}Siemanko.
 Dialogue: 0,0:17:42.99,0:17:43.99,Default,,0,0,0,,{TIME:1062992,1063992}Och?
 Dialogue: 0,0:17:47.95,0:17:50.79,Default,,0,0,0,,{TIME:1067959,1070792}Hej, Yukari. Na co patrzysz?
 Dialogue: 0,0:17:50.79,0:17:52.45,Default,,0,0,0,,{TIME:1070792,1072459}Spójrz. Tam.
-Dialogue: 0,0:17:53.89,0:17:56.72,Default,,0,0,0,,{TIME:1073892,1076726}To ten chłopak z wczoraj,\Nco rozmawiał z Ichijō-san, no nie?
+Dialogue: 0,0:17:53.89,0:17:56.72,Default,,0,0,0,,{TIME:1073892,1076726}To ten gość z wczoraj,\Nco rozmawiał z Ichijō-san, no nie?
 Dialogue: 0,0:17:56.72,0:17:59.19,Default,,0,0,0,,{TIME:1076726,1079192}Kim on u licha jest?\NPójdę sprawdzić!
 Dialogue: 0,0:17:59.19,0:18:01.29,Default,,0,0,0,,{TIME:1079192,1081292}Nie wygłupiaj się, Yukari!
 Dialogue: 0,0:18:01.29,0:18:06.05,Default,,0,0,0,,{TIME:1081292,1086059}Chcę się dowiedzieć, kim jest.\NWiesz, wiedza to potęga, i tak dalej!

@@ -49,7 +49,7 @@ Dialogue: 0,0:00:57.39,0:01:00.62,OP TL,[karaoke],0,0,0,,{TIME:57392,60626}I'm g
 Dialogue: 0,0:01:00.62,0:01:08.95,OP TL,[karaoke],0,0,0,,{TIME:60626,68959}I keep going on,\Nattacking tomorrow
 Dialogue: 0,0:01:04.59,0:01:11.42,Title,[title],0,0,0,,{TIME:64592,71426}{\pos(430,240)\blur0.7}Attack on Tomorrow!
 Comment: 0,0:01:11.42,0:01:11.42,Default,[chapter],0,0,0,,{TIME:71426,71426}Title screen
-Dialogue: 0,0:01:14.92,0:01:21.75,Default,[title],0,0,0,,{TIME:74926,81759}{\t(4833,6500,5,\1c&H101010&\3c&H101010&\4c&H101010&)}Episode 01:\NThe Resurrected Volleyball Club!
+Dialogue: 0,0:01:14.92,0:01:21.75,Default,[title],0,0,0,,{TIME:74926,81759}{\t(4833,6500,5,\1c&H202020&\3c&H202020&\4c&H202020&)\fad(0,300)}Episode 01:\NThe Resurrected Volleyball Club!
 Comment: 0,0:01:21.75,0:01:21.75,Default,[chapter],0,0,0,,{TIME:81759,81759}Part A
 Dialogue: 0,0:01:33.15,0:01:36.89,Default,,0,0,0,,{TIME:93159,96892}{\i1}Our story begins\Nin a small fishing town
 Dialogue: 0,0:01:36.89,0:01:39.95,Default,,0,0,0,,{TIME:96892,99959}{\i1}on the Miura Peninsula\Nin Kanagawa Prefecture.
@@ -98,7 +98,7 @@ Dialogue: 0,0:04:58.79,0:05:00.55,Default,,0,0,0,,{TIME:298792,300559}I'm not ma
 Dialogue: 0,0:05:00.55,0:05:03.09,Default,,0,0,0,,{TIME:300559,303092}So this is where\Nthat accident happened?
 Dialogue: 0,0:05:03.09,0:05:04.45,Default,,0,0,0,,{TIME:303092,304459}So this is the club…
 Dialogue: 0,0:05:05.69,0:05:08.92,Default,,0,0,0,,{TIME:305692,308926}You have quite unique hobby\Nif you want to train with ghosts.
-Dialogue: 0,0:05:08.92,0:05:13.09,Default,,0,0,0,,{TIME:308926,313092}Girls, I'm Shiraki Rumi,\Ncaptain of the women's basketball club.
+Dialogue: 0,0:05:08.92,0:05:13.09,Default,,0,0,0,,{TIME:308926,313092}Girls, I'm Shiraki Rumi, captain of\Nthe Women's Basketball Club.
 Dialogue: 0,0:05:13.09,0:05:18.42,Default,,0,0,0,,{TIME:313092,318426}Everyone who wants to enjoy\Nhealthy sports is welcome to join us.
 Dialogue: 0,0:05:21.55,0:05:25.49,Default,,0,0,0,,{TIME:321559,325492}Don't let her fool you.\NShe's telling you that only to recruit you.
 Dialogue: 0,0:05:25.49,0:05:28.49,Default,,0,0,0,,{TIME:325492,328492}You know very well that there is\Nno such thing as ghosts.
@@ -146,7 +146,7 @@ Dialogue: 0,0:07:51.59,0:07:54.59,Default,,0,0,0,,{TIME:471592,474592}At least n
 Dialogue: 0,0:07:55.19,0:07:57.05,Default,,0,0,0,,{TIME:475192,477059}Don't say that,\Nit has the opposite effect.
 Dialogue: 0,0:07:58.32,0:07:59.75,Default,,0,0,0,,{TIME:478326,479759}Oops.
 Dialogue: 0,0:07:59.75,0:08:01.29,Default,,0,0,0,,{TIME:479759,481292}Hey, girls. Are you still looking?
-Dialogue: 0,0:08:02.05,0:08:05.15,Default,,0,0,0,,{TIME:482059,485159}Oh, what could the chairman\Nof the Student Council want from us?
+Dialogue: 0,0:08:01.85,0:08:05.15,Default,,0,0,0,,{TIME:481859,485159}Oh, what could the chairman\Nof the Student Council want from us?
 Dialogue: 0,0:08:05.15,0:08:09.62,Default,,0,0,0,,{TIME:485159,489626}The principal asked me\Nto call your captain.
 Dialogue: 0,0:08:09.62,0:08:11.29,Default,,0,0,0,,{TIME:489626,491292}The principal wants to see me?
 Dialogue: 0,0:08:11.29,0:08:17.29,Sign,(sign),0,0,0,,{TIME:491292,497292}{\an2}Storage space for boys' bicycles
@@ -155,9 +155,9 @@ Dialogue: 0,0:08:20.99,0:08:22.39,Default,,0,0,0,,{TIME:500992,502392}Why, you h
 Dialogue: 0,0:08:22.39,0:08:27.32,Default,,0,0,0,,{TIME:502392,507326}That's my spot.\NIt's the closest to the gate.
 Dialogue: 0,0:08:27.32,0:08:29.62,Default,,0,0,0,,{TIME:507326,509626}That's why I'm leaving it here.
 Dialogue: 0,0:08:29.62,0:08:32.65,Default,,0,0,0,,{TIME:509626,512659}Shut up.\NThis is a place for boys!
-Dialogue: 0,0:08:32.65,0:08:34.29,Default,,0,0,0,,{TIME:512659,514292}You are a boy?
-Dialogue: 0,0:08:34.29,0:08:35.45,Default,,0,0,0,,{TIME:514292,515459}What, do I look like one to you?
-Dialogue: 0,0:08:35.45,0:08:37.62,Default,,0,0,0,,{TIME:515459,517626}Don't talk back to me here.
+Dialogue: 0,0:08:32.65,0:08:34.29,Default,,0,0,0,,{TIME:512659,514292}Are you a boy?
+Dialogue: 0,0:08:34.29,0:08:35.79,Default,,0,0,0,,{TIME:514292,515792}What, do I look like one to you?
+Dialogue: 0,0:08:35.79,0:08:37.62,Default,,0,0,0,,{TIME:515792,517626}Don't talk back to me here.
 Dialogue: 0,0:08:37.62,0:08:43.42,Default,,0,0,0,,{TIME:517626,523426}You know that the students living near school\Naren't allowed to come by bicycle.
 Dialogue: 0,0:08:43.42,0:08:47.15,Default,,0,0,0,,{TIME:523426,527159}That's right, Ichijō-kun. I'm sorry,\Nbut he's right. These are the rules.
 Dialogue: 0,0:08:48.25,0:08:50.49,Default,,0,0,0,,{TIME:528259,530492}From what I remember,\Nyou moved here in January.
@@ -184,8 +184,8 @@ Dialogue: 0,0:10:01.15,0:10:02.85,Default,,0,0,0,,{TIME:601159,602859}How are th
 Dialogue: 0,0:10:03.19,0:10:05.62,Default,,0,0,0,,{TIME:603192,605626}Oh, perfectly well, sir.
 Dialogue: 0,0:10:05.62,0:10:07.32,Default,,0,0,0,,{TIME:605626,607326}Don't lie to me.
 Dialogue: 0,0:10:07.82,0:10:10.69,Default,,0,0,0,,{TIME:607826,610692}You only have three people.
-Dialogue: 0,0:10:11.42,0:10:16.65,Default,,0,0,0,,{TIME:611426,616659}I know that this is partly due\Nto that accident from last year.
-Dialogue: 0,0:10:16.65,0:10:21.19,Default,,0,0,0,,{TIME:616659,621192}However, the Student Council will never\Nlet you start a club with only three people.
+Dialogue: 0,0:10:11.42,0:10:14.69,Default,,0,0,0,,{TIME:611426,614692}I know that this is partly due\Nto that accident from last year.
+Dialogue: 0,0:10:14.69,0:10:21.19,Default,,0,0,0,,{TIME:614692,621192}However, the Student Council will never\Nlet you start a club with only three people.
 Dialogue: 0,0:10:21.19,0:10:22.35,Default,,0,0,0,,{TIME:621192,622359}Excuse me?
 Dialogue: 0,0:10:22.99,0:10:28.25,Default,,0,0,0,,{TIME:622992,628259}I expect the final decision will be made\Nat the meeting in three days.
 Dialogue: 0,0:10:28.25,0:10:33.09,Default,,0,0,0,,{TIME:628259,633092}Hijiri-kun. I understand that you try very hard,\Nbut you have to look at it from our perspective.
@@ -196,7 +196,7 @@ Dialogue: 0,0:10:42.45,0:10:46.99,Default,,0,0,0,,{TIME:642459,646992}I will fin
 Dialogue: 0,0:10:46.99,0:10:49.12,Default,,0,0,0,,{TIME:646992,649126}I appreciate your effort.
 Dialogue: 0,0:10:49.12,0:10:53.12,Default,,0,0,0,,{TIME:649126,653126}I just hope it doesn't end\Nin any accident, like it did the last year.
 Dialogue: 0,0:11:12.19,0:11:13.75,Default,,0,0,0,,{TIME:672192,673759}Grandma, more!
-Dialogue: 0,0:11:14.65,0:11:15.85,Default,,0,0,0,,{TIME:674659,675859}Now, now.
+Dialogue: 0,0:11:14.65,0:11:15.85,Default,,0,0,0,,{TIME:674659,675859}Yes, yes.
 Dialogue: 0,0:11:16.92,0:11:21.72,Default,,0,0,0,,{TIME:676926,681726}Mimi, something happened? Today we're having\Nyour favorite sukiyaki and you have no appetite.
 Dialogue: 0,0:11:21.72,0:11:23.52,Default,,0,0,0,,{TIME:681726,683526}Somehow I don't feel\Nlike eating today.
 Dialogue: 0,0:11:23.99,0:11:26.82,Default,,0,0,0,,{TIME:683992,686826}It's completely unlike you.
@@ -254,7 +254,6 @@ Dialogue: 0,0:15:17.59,0:15:20.62,Default,,0,0,0,,{TIME:917592,920626}Wait, that
 Dialogue: 0,0:15:21.19,0:15:25.32,Default,,0,0,0,,{TIME:921192,925326}It's getting worse and worse.\NYour idea only added fuel to the fire.
 Dialogue: 0,0:15:25.59,0:15:26.55,Default,,0,0,0,,{TIME:925592,926559}You're right…
 Dialogue: 0,0:15:26.72,0:15:29.02,Default,,0,0,0,,{TIME:926726,929026}Excuse me, is Hijiri-san\Nfrom the Volleyball Club here?
-Dialogue: 0,0:15:25.59,0:15:26.55,Default,,0,0,0,,{TIME:925592,926559}You're right…
 Dialogue: 0,0:15:29.02,0:15:30.19,Default,,0,0,0,,{TIME:929026,930192}That's me.
 Dialogue: 0,0:15:30.19,0:15:33.55,Default,,0,0,0,,{TIME:930192,933559}I'm Sekiya Kimiko from Class 1B\Nand I would like to join your club.
 Dialogue: 0,0:15:35.19,0:15:37.62,Default,,0,0,0,,{TIME:935192,937626}You don't mind\Nthose ghost stories?
@@ -290,13 +289,13 @@ Dialogue: 0,0:17:09.79,0:17:12.62,Default,,0,0,0,,{TIME:1029792,1032626}I wonder
 Dialogue: 0,0:17:12.62,0:17:13.82,Default,,0,0,0,,{TIME:1032626,1033826}I think she's hiding something.
 Dialogue: 0,0:17:13.82,0:17:17.32,Default,,0,0,0,,{TIME:1033826,1037326}It's better to stay away\Nfrom such people.
 Dialogue: 0,0:17:28.42,0:17:31.45,Default,,0,0,0,,{TIME:1048426,1051459}It's the first time\NI saw Ichijō-san smile.
-Dialogue: 0,0:17:31.45,0:17:36.65,Default,,0,0,0,,{TIME:1051459,1056659}Who's that boy and why did he\Ntalk to that gloomy girl?
+Dialogue: 0,0:17:31.45,0:17:36.65,Default,,0,0,0,,{TIME:1051459,1056659}Who is he and why did he\Ntalk to that gloomy girl?
 Dialogue: 0,0:17:36.65,0:17:38.22,Default,,0,0,0,,{TIME:1056659,1058226}Interesting, indeed.
 Dialogue: 0,0:17:40.82,0:17:41.99,Default,,0,0,0,,{TIME:1060826,1061992}Hey, man.
 Dialogue: 0,0:17:42.99,0:17:43.99,Default,,0,0,0,,{TIME:1062992,1063992}Oh?
 Dialogue: 0,0:17:47.95,0:17:50.79,Default,,0,0,0,,{TIME:1067959,1070792}Hi, Yukari.\NWhat are you looking at?
 Dialogue: 0,0:17:50.79,0:17:52.45,Default,,0,0,0,,{TIME:1070792,1072459}Look. Over there.
-Dialogue: 0,0:17:53.89,0:17:56.72,Default,,0,0,0,,{TIME:1073892,1076726}This is the boy from yesterday,\Nwho talked to Ichijō-san, right?
+Dialogue: 0,0:17:53.89,0:17:56.72,Default,,0,0,0,,{TIME:1073892,1076726}That's the guy from yesterday,\Nwho talked to Ichijō-san, right?
 Dialogue: 0,0:17:56.72,0:17:59.19,Default,,0,0,0,,{TIME:1076726,1079192}Who on earth is he?\NI'll go check!
 Dialogue: 0,0:17:59.19,0:18:01.29,Default,,0,0,0,,{TIME:1079192,1081292}Don't fool around, Yukari!
 Dialogue: 0,0:18:01.29,0:18:06.05,Default,,0,0,0,,{TIME:1081292,1086059}I want to know who he is.\NYou know, knowledge is power, and so on!
@@ -305,7 +304,7 @@ Dialogue: 0,0:18:10.75,0:18:13.12,Default,,0,0,0,,{TIME:1090759,1093126}But that
 Dialogue: 0,0:18:16.95,0:18:20.05,Default,,0,0,0,,{TIME:1096959,1100059}Hey, you! It's a parking lot for boys!\NCan't you read?
 Dialogue: 0,0:18:21.75,0:18:23.39,Default,,0,0,0,,{TIME:1101759,1103392}Alright, I'll show you.
 Dialogue: 0,0:18:28.82,0:18:31.22,Default,,0,0,0,,{TIME:1108826,1111226}You stupid goose.
-Dialogue: 0,0:18:49.92,0:18:51.92,Default,,0,0,0,,{TIME:1129926,1131926}Well, now you've got it!
+Dialogue: 0,0:18:49.92,0:18:51.92,Default,,0,0,0,,{TIME:1129926,1131926}Well, now you've done it!
 Dialogue: 0,0:18:52.69,0:18:54.75,Default,,0,0,0,,{TIME:1132692,1134759}Where are you going?
 Dialogue: 0,0:18:55.95,0:18:58.19,Default,,0,0,0,,{TIME:1135959,1138192}Not good.\NArashi's pissed off.
 Dialogue: 0,0:18:58.19,0:18:59.79,Default,,0,0,0,,{TIME:1138192,1139792}God help that girl.
@@ -323,7 +322,7 @@ Dialogue: 0,0:19:29.92,0:19:32.02,Default,,0,0,0,,{TIME:1169926,1172026}That's a
 Dialogue: 0,0:19:34.05,0:19:36.05,Default,,0,0,0,,{TIME:1174059,1176059}See? Just write that.
 Dialogue: 0,0:19:36.05,0:19:39.12,Default,,0,0,0,,{TIME:1176059,1179126}Hijiri-san, don't stick your nose\Nin where it's not welcome.
 Dialogue: 0,0:19:40.62,0:19:43.35,Default,,0,0,0,,{TIME:1180626,1183359}I'm sorry.\NI didn't mean to.
-Dialogue: 0,0:19:44.25,0:19:49.49,Default,,0,0,0,,{TIME:1184259,1189492}If you're mingling with my affairs,\NI'll mingle with yours, too.
+Dialogue: 0,0:19:44.25,0:19:49.49,Default,,0,0,0,,{TIME:1184259,1189492}If you're mingling with my affairs,\Nlet me mingle a bit with yours, too.
 Dialogue: 0,0:19:49.49,0:19:50.85,Default,,0,0,0,,{TIME:1189492,1190859}You want to create a club, right?
 Dialogue: 0,0:19:52.79,0:19:54.89,Default,,0,0,0,,{TIME:1192792,1194892}I can join your club.
 Dialogue: 0,0:19:55.72,0:19:57.35,Default,,0,0,0,,{TIME:1195726,1197359}For… For real?
@@ -332,7 +331,7 @@ Dialogue: 0,0:19:59.79,0:20:01.69,Default,,0,0,0,,{TIME:1199792,1201692}I'll joi
 Dialogue: 0,0:20:01.69,0:20:03.35,Default,,0,0,0,,{TIME:1201692,1203359}I want to be the captain.
 Dialogue: 0,0:20:05.25,0:20:07.09,Default,,0,0,0,,{TIME:1205259,1207092}So what will it be?\NDo we have a deal?
 Dialogue: 0,0:20:08.62,0:20:11.85,Default,,0,0,0,,{TIME:1208626,1211859}Or would you rather let the council\Nreject your application?
-Dialogue: 0,0:20:11.85,0:20:13.39,Default,,0,0,0,,{TIME:1211859,1213392}How it's gonna be?
+Dialogue: 0,0:20:11.85,0:20:13.39,Default,,0,0,0,,{TIME:1211859,1213392}How's it gonna be?
 Dialogue: 0,0:20:17.89,0:20:21.95,Default,,0,0,0,,{TIME:1217892,1221959}Hijiri-san, don't agree.\NThis crazy girl is just trouble.
 Dialogue: 0,0:20:21.95,0:20:25.75,Default,,0,0,0,,{TIME:1221959,1225759}Besides, she has no experience.\NIt's crazy to make her the captain.
 Dialogue: 0,0:20:27.79,0:20:33.75,Sign,(sign),0,0,0,,{TIME:1227792,1233759}{\fscx75\fscy75\an5\move(121,175,-294,175,500,3967)}Ōta Tomiko
