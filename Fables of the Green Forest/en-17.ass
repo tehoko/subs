@@ -15,16 +15,16 @@ Language: en_US
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: fables default,PoetsenOne,75,&H00FFFFFF,&H000000FF,&H00503146,&H69603632,0,0,0,0,100.0,100.0,0.0,0.0,1,4.0,5.0,2,40,40,40,1
-Style: fables group,Gotham Rounded,45,&H39E7F0E2,&H000000FF,&H003D2523,&H1E472F3F,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.5,4.0,5,40,40,40,1
-Style: fables series title,Caveat Brush,112,&H00FEF6F2,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100.0,100.0,0.0,0.0,1,2.0,8.0,5,40,40,40,1
-Style: fables episode title,Caveat Brush,120,&H00F9FCE4,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,6.0,5,40,40,40,1
-Style: fables author credits,PoetsenOne,50,&H00F8FBE4,&H00090AE2,&H00224C35,&H69101010,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,3.0,2,40,40,40,1
-Style: fables op jp,Gotham Rounded,65,&H006AE8EF,&H0057C774,&H002C2C32,&H370A0C0B,0,0,0,0,100.0,100.0,0.0,0.0,1,2.5,3.0,2,40,40,55,1
-Style: fables ed jp,Gotham Rounded,65,&H00FAFAFA,&H006AE8EF,&H002D444D,&H372D434D,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,0.7,2,40,40,42,1
-Style: fables op tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100.0,100.0,0.0,0.0,1,4.0,3.0,8,40,40,40,1
-Style: fables ed tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100.0,100.0,0.0,0.0,1,4.0,3.0,8,40,40,40,1
-Style: fables thanks,Caveat Brush,67,&H00FEFEFE,&H00090AE2,&H00000000,&H00000000,-1,0,0,0,100.0,100.0,0.0,0.0,1,0.0,1.13,2,40,40,40,1
+Style: fables default,PoetsenOne,75,&H00FFFFFF,&H000000FF,&H00503146,&H69603632,0,0,0,0,100,100,0,0,1,4,5,2,40,40,40,1
+Style: fables group,Gotham Rounded,45,&H39E7F0E2,&H000000FF,&H003D2523,&H1E472F3F,-1,0,0,0,100,100,0,0,1,2.5,4,5,40,40,40,1
+Style: fables series title,Caveat Brush,112,&H00FEF6F2,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100,100,0,0,1,2,8,5,40,40,40,1
+Style: fables episode title,Caveat Brush,120,&H00F9FCE4,&H000000FF,&H00101010,&H37101010,-1,0,0,0,100,100,0,0,1,0,6,5,40,40,40,1
+Style: fables author credits,PoetsenOne,50,&H00F8FBE4,&H00090AE2,&H00224C35,&H69101010,0,0,0,0,100,100,0,0,1,0,3,2,40,40,40,1
+Style: fables op jp,Gotham Rounded,65,&H006AE8EF,&H0057C774,&H002C2C32,&H370A0C0B,0,0,0,0,100,100,0,0,1,2.5,3,2,40,40,55,1
+Style: fables ed jp,Gotham Rounded,65,&H00FAFAFA,&H006AE8EF,&H002D444D,&H372D434D,-1,0,0,0,100,100,0,0,1,0,0.7,2,40,40,42,1
+Style: fables op tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100,100,0,0,1,4,3,8,40,40,40,1
+Style: fables ed tl,PoetsenOne,75,&H00F2E8F7,&H000000FF,&H00372130,&H37603632,-1,-1,0,0,100,100,0,0,1,4,3,8,40,40,40,1
+Style: fables thanks,Caveat Brush,67,&H00FEFEFE,&H00090AE2,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,1.13,2,40,40,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
